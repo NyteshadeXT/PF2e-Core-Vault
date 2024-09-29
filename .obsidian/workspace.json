@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Skills.md",
-                "mode": "source",
+                "file": "zz-Templates/3_Dataview Templates/3_Dataview Templates.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz_Templates/3_Dataview Templates/Query Outgoing Links.md",
+                "file": "zz-Templates/3_Dataview Templates/Query Outgoing Links.md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Rules/Skills.md",
+                "file": "zz-Templates/3_Dataview Templates/3_Dataview Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Rules/Skills.md",
+                "file": "zz-Templates/3_Dataview Templates/3_Dataview Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Rules/Skills.md"
+                "file": "zz-Templates/3_Dataview Templates/3_Dataview Templates.md"
               }
             }
           },
@@ -198,51 +198,51 @@
   },
   "active": "6de5711fd0245399",
   "lastOpenFiles": [
-    "3-Rules/trait_reference/1-trait_summary.md",
-    "3-Rules/trait_reference/Yard.md",
-    "3-Rules/trait_reference/workshop.md",
-    "3-Rules/trait_reference/residential.md",
-    "3-Rules/trait_reference/parlor.md",
-    "3-Rules/trait_reference/lodge.md",
-    "3-Rules/trait_reference/library.md",
-    "3-Rules/trait_reference/infrastructure.md",
-    "3-Rules/trait_reference/infamous.md",
-    "3-Rules/trait_reference/housing.md",
-    "3-Rules/trait_reference/garrison.md",
-    "3-Rules/trait_reference/famous.md",
-    "3-Rules/trait_reference/employer.md",
-    "3-Rules/trait_reference/edifice.md",
-    "3-Rules/trait_reference/discount.md",
-    "3-Rules/trait_reference/church.md",
-    "3-Rules/trait_reference/building.md",
-    "3-Rules/Skills.md",
-    "3-Rules/trait_reference/acid.md",
-    "3-Rules/Rule References/Acid.md",
-    "zz_Templates/3_Dataview Templates/Query Outgoing Links.md",
-    "zz_Templates/3_Dataview Templates/Dataview - Query TTRPG Statblocks.md",
-    "3-Rules/Bestiaries/Battlezoo Bestiary/Afneith.md",
-    "3-Rules/Character Building/Actions/Squeeze.md",
-    "3-Rules/Effects/Conditions/Grabbed.md",
-    "3-Rules/GM Tools/Bestiary Ability Glossary/Sneak Attack.md",
-    "zz_assets/Placeholder Images/Pasted Image 20231026201051_609.jpg",
-    "zz_assets/Placeholder Images/RandomGensTitleBar.png",
-    "zz_assets/Placeholder Images/README-20231026233959519.webp",
-    "zz_assets/Placeholder Images/RestTravelTitleBar.png",
-    "zz_assets/Placeholder Images/SkillsTitleBar.png",
-    "zz_assets/Placeholder Images/The Wound-20231026225622829.webp",
-    "zz_assets/Placeholder Images/WeaponsArmorItemsTitleBar.png",
-    "zz_assets/Placeholder Images/PartyLogo.jpg",
-    "zz_assets/Placeholder Images/Northern Faerun Map.jpg",
-    "zz_assets/Placeholder Images/MovementTitleBar.png",
-    "2-World/Religions",
-    "2-World/Cities",
-    "2-World/Regions",
-    "2-World/Regions",
-    "3-Rules/Character Building/Actions",
-    "Game Mastery Guide",
-    "zz_assets/systems/pf2e/icons/equipment/treasure/currency",
-    "zz_assets/systems/pf2e/icons/equipment/treasure",
-    "zz_assets/systems/pf2e/icons/features/classes",
-    "zz_assets/systems/pf2e/icons/equipment/adventuring-gear"
+    "zz-Templates/3_Dataview Templates/Query Outgoing Links.md",
+    "zz-Templates/3_Dataview Templates/3_Dataview Templates.md",
+    "zz_Attachments/Misc/PlaceholderImage.png",
+    "zz_Attachments/Zerathos.png",
+    "zz_Attachments/Vorthron.png",
+    "zz_Attachments/Verena.png",
+    "zz_Attachments/Valorus.png",
+    "zz_Attachments/Thalor.png",
+    "zz_Attachments/Sylvan.png",
+    "zz_Attachments/Pasted image 20240714233012.png",
+    "zz_Attachments/Pasted image 20240714232950.png",
+    "zz_Attachments/Pasted image 20240714232627.png",
+    "zz_Attachments/Misc",
+    "zz_Attachments",
+    "Dungeons and Dungeon Seeds.md",
+    "Cores and Crystals.md",
+    "Aetheria Fracta.md",
+    "zz_Templates/GM Templates/Lore/Calendar/Template - Year.md",
+    "zz_Templates/GM Templates/Lore/Calendar/Template - Month.md",
+    "zz_Templates/GM Templates/Lore/Calendar/Template - Event.md",
+    "zz_Templates/GM Templates/Lore/Calendar/Template - Era.md",
+    "zz_Templates/GM Templates/Lore/Calendar",
+    "zz_Templates/GM Templates/Story Notes/Template - Session Note.md",
+    "zz_Templates/Markdown/Insert Rollable Table/Rollable Table - Travel & Encounter.md",
+    "zz_Templates/GM Templates/Story Notes/Template - Quest.md",
+    "zz_Templates/GM Templates/Story Notes/Template - Service.md",
+    "zz_Templates/GM Templates/Story Notes/Template - Rumour.md",
+    "zz_Templates/GM Templates/Story Notes/Template - Adventure.md",
+    "zz_Templates/GM Templates/Story Notes/Template - Journey Board.md",
+    "zz_Templates/GM Templates/Locations/Template - Settlement.md",
+    "zz_Templates/GM Templates/Locations/Template - Point of Interest.md",
+    "zz_Templates/GM Templates/Locations/Template - Planet.md",
+    "zz_Templates/GM Templates/Locations/Template - Geography.md",
+    "zz_Templates/GM Templates/Locations/Template - Plane.md",
+    "zz_Templates/GM Templates/Locations/Template - County.md",
+    "zz_Templates/GM Templates/Locations/Template - District.md",
+    "zz_Templates/GM Templates/Items/Template - Literature.md",
+    "zz_Templates/GM Templates/Items/Template - Letter.md",
+    "zz_Templates/GM Templates/Characters/Template - Player.md",
+    "zz_Templates/Markdown/Insert Rollable Table",
+    "zz_Templates/GM Templates/Lore",
+    "zz_Templates/GM Templates/Story Notes",
+    "zz_Templates/GM Templates/Locations",
+    "zz_Templates/GM Templates/Items",
+    "zz_Templates/GM Templates/Characters",
+    "zz_Templates/Markdown"
   ]
 }

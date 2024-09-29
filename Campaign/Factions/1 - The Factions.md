@@ -1,0 +1,13 @@
+In the world of Aetheria Fracta, various factions have emerged, each with its own goals, beliefs, and methods of achieving them.
+
+Arcane Orders which are organizations of wizards, sorcerers, and other arcane practitioners dedicated to the study and mastery of magic. They may compete for control over sources of magical power, such as Dungeon Seeds, and seek to unravel the mysteries of the fractured ley lines.
+
+While Ley Line Guardians, groups of magic-users and scholars, seek to protect and stabilize the fractured ley lines of Aetheria Fracta. They may conduct research, perform rituals, and ward off threats to ensure the continued flow of magical energy throughout the world.
+
+Various Seekers' Guilds cater to seekers seeking fame, fortune, and glory in the dangerous dungeons and wilderness areas of Aetheria Fracta. They provide services such as quest assignments, training, and equipment, and may also play a role in Dungeon management and exploration.  Some provide Monster Hunting services.  These guilds are dedicated to hunting down and exterminating the dangerous monsters that roam the fractured landscape. Explorers' Societies are dedicated to exploring and mapping the uncharted territories of Aetheria Fracta. They may seek to uncover hidden treasures, ancient ruins, and forgotten lore, while also facing the dangers and mysteries of the fractured landscape.
+
+Religious sects, orders and cults may arise, each venerating different deities or aspects of the world's fractured cosmology. Some may view the Dungeons as sacred sites or tests of faith, while others may seek to harness the power of Creature Cores for their own ends.  Chaos Cults are secretive and malevolent organizations worship the Lords of Chaos and seek to spread chaos and discord throughout Aetheria Fracta. They may be responsible for creating or corrupting Dungeons, unleashing cursed creatures, and sowing strife among rival factions.  Nature's Guardians are druids, rangers, and other nature-oriented individuals who seek to preserve and restore the natural balance of Aetheria Fracta. They may oppose the exploitation of natural resources, defend wilderness areas from encroachment, and advocate for harmony between mortals and the natural world.
+
+Mercenary Companies, bands of warriors, mercenaries, sell swords and even retired seekers, offer their services to the highest bidder. They may be hired to protect trade caravans, explore dangerous areas, or engage in open warfare between rival factions.
+
+Trade Consortiums represent powerful economic organizations that control trade routes, resources, and markets across Aetheria Fracta. They may specialize in the acquisition and distribution of Creature Cores, magical artifacts, and other valuable commodities.
