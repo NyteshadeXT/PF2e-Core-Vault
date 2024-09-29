@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/trait_reference/1-trait_summary.md",
-                "mode": "preview",
+                "file": "3-Rules/Skills.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Rules/trait_reference/1-trait_summary.md",
+                "file": "3-Rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Rules/trait_reference/1-trait_summary.md",
+                "file": "3-Rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Rules/trait_reference/1-trait_summary.md"
+                "file": "3-Rules/Skills.md"
               }
             }
           },
@@ -196,8 +196,9 @@
       "helpmate:HelpMate": false
     }
   },
-  "active": "4c5a75903be9569c",
+  "active": "6de5711fd0245399",
   "lastOpenFiles": [
+    "3-Rules/trait_reference/1-trait_summary.md",
     "3-Rules/trait_reference/Yard.md",
     "3-Rules/trait_reference/workshop.md",
     "3-Rules/trait_reference/residential.md",
@@ -215,7 +216,6 @@
     "3-Rules/trait_reference/church.md",
     "3-Rules/trait_reference/building.md",
     "3-Rules/Skills.md",
-    "3-Rules/trait_reference/1-trait_summary.md",
     "3-Rules/trait_reference/acid.md",
     "3-Rules/Rule References/Acid.md",
     "zz_Templates/3_Dataview Templates/Query Outgoing Links.md",
