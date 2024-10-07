@@ -14,7 +14,7 @@ license: OGL
 ---
 # (Blackfrost Dead) Blackfrost
 
-### [[cold]][[curse]][[disease]][[occult]]
+### [[3-Rules/trait_reference/cold]][[curse]][[disease]][[occult]]
 
 **Category** offensive; 
 

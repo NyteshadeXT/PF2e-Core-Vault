@@ -18,7 +18,7 @@ license: OGL
 ---
 # Lava Leap `pf2:2`
 ## Feat 4
-### [[composite]][[earth]][[fire]][[impulse]][[kineticist]][[overflow]][[primal]]
+### [[composite]][[3-Rules/trait_reference/earth]][[3-Rules/trait_reference/fire]][[impulse]][[kineticist]][[overflow]][[primal]]
 
 **Category** class; 
 

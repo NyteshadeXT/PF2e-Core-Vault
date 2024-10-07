@@ -11,7 +11,7 @@ license: OGL
 ---
 # Flare Bolt `pf2:1`
 
-### [[fire]]
+### [[3-Rules/trait_reference/fire]]
 
 **Category** offensive; 
 

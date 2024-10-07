@@ -11,7 +11,7 @@ license: OGL
 ---
 # Storm Chair
 ## Item 14
-### [rare](rare "Rare Rarity Trait")[[electricity]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[3-Rules/trait_reference/electricity]][[magical]]
 
 
 **Price** 4400 gp; 

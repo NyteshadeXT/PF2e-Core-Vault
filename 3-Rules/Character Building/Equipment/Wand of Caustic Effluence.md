@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Caustic Effluence
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[acid]][[magical]][[wand]]
+### [rare](rare "Rare Rarity Trait")[[3-Rules/trait_reference/acid]][[magical]][[wand]]
 
 **Category** wand; 
 **Price** 160 gp; 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Spiritual Warfare (4th-Level Spell)
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[force]][[magical]][[wand]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/force]][[magical]][[wand]]
 
 
 **Price** 1400 gp; 

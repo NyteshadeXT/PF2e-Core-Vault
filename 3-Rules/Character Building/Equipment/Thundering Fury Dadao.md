@@ -14,7 +14,7 @@ license: OGL
 ---
 # Thundering Fury Dadao
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[magical]][[sonic]][[versatile-p]]
+### [rare](rare "Rare Rarity Trait")[[magical]][[3-Rules/trait_reference/sonic]][[versatile-p]]
 
 |  |  |
 | -- | -- |

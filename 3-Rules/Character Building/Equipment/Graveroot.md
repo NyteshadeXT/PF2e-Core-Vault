@@ -15,7 +15,7 @@ license: ORC
 ---
 # Graveroot
 ## Item 3
-### [[alchemical]][[consumable]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison]]
 
 **Category** poison; 
 **Price** 10 gp; 

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Rattle The Earth `pf2:2`
 ## Feat 12
-### [[earth]][[impulse]][[kineticist]][[overflow]][[primal]]
+### [[3-Rules/trait_reference/earth]][[impulse]][[kineticist]][[overflow]][[primal]]
 
 **Category** class; 
 

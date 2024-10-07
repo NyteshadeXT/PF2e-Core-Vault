@@ -13,7 +13,7 @@ license: OGL
 ---
 # It Was Me All Along! `pf2:1`
 ## Feat 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[fortune]][[mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[fortune]][[3-Rules/trait_reference/mental]]
 
 **Category** class; 
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Woodblessed) Explosive End
 
-### [[primal]][[wood]]
+### [[primal]][[Wood]]
 
 **Category** offensive; 
 

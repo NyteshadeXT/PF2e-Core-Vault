@@ -14,7 +14,7 @@ license: OGL
 ---
 # Glimmering Missive
 ## Item 4
-### [[consumable]][[light]][[magical]][[missive]]
+### [[consumable]][[3-Rules/trait_reference/light]][[magical]][[missive]]
 
 **Category** other; 
 **Price** 20 gp; 

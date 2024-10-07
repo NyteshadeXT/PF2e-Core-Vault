@@ -16,7 +16,7 @@ license: OGL
 ---
 # Air Shroud `pf2:1`
 ## Feat 4
-### [[air]][[impulse]][[kineticist]][[primal]][[stance]]
+### [[3-Rules/trait_reference/air]][[impulse]][[kineticist]][[primal]][[stance]]
 
 **Category** class; 
 

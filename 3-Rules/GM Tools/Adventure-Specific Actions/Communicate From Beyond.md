@@ -15,7 +15,7 @@ license: OGL
 ---
 # Communicate From Beyond `pf2:2`
 
-### [[concentrate]][[linguistic]][[manipulate]][[mental]][[visual]]
+### [[concentrate]][[linguistic]][[manipulate]][[3-Rules/trait_reference/mental]][[visual]]
 
 **Category** interaction; 
 

@@ -17,7 +17,7 @@ license: OGL
 ---
 # Sanguivolent Roots `pf2:3`
 ## Feat 8
-### [[impulse]][[kineticist]][[overflow]][[plant]][[primal]][[wood]]
+### [[impulse]][[kineticist]][[overflow]][[plant]][[primal]][[Wood]]
 
 **Category** class; 
 

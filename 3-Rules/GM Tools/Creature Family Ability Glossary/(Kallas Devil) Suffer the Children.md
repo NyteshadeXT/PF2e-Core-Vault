@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Kallas Devil) Suffer the Children
 
-### [[aura]][[emotion]][[mental]]
+### [[aura]][[emotion]][[3-Rules/trait_reference/mental]]
 
 **Category** offensive; 
 

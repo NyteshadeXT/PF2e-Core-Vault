@@ -17,7 +17,7 @@ license: OGL
 ---
 # Drifting Pollen `pf2:1`
 ## Feat 8
-### [[impulse]][[kineticist]][[plant]][[primal]][[stance]][[wood]]
+### [[impulse]][[kineticist]][[plant]][[primal]][[stance]][[Wood]]
 
 **Category** class; 
 

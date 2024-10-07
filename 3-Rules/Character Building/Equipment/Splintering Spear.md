@@ -16,7 +16,7 @@ license: OGL
 ---
 # Splintering Spear
 ## Item 13
-### [[magical]][[monk]][[thrown-20]][[wood]]
+### [[magical]][[monk]][[thrown-20]][[Wood]]
 
 |  |  |
 | -- | -- |

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Four Winds `pf2:2`
 ## Feat 1
-### [[air]][[impulse]][[kineticist]][[primal]]
+### [[3-Rules/trait_reference/air]][[impulse]][[kineticist]][[primal]]
 
 **Category** class; 
 

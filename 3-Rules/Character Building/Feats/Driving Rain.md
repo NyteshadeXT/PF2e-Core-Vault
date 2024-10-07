@@ -16,7 +16,7 @@ license: OGL
 ---
 # Driving Rain `pf2:3`
 ## Feat 6
-### [[impulse]][[kineticist]][[overflow]][[primal]][[water]]
+### [[impulse]][[kineticist]][[overflow]][[primal]][[3-Rules/trait_reference/water]]
 
 **Category** class; 
 

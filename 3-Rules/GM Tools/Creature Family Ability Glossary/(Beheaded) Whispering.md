@@ -14,7 +14,7 @@ license: OGL
 ---
 # (Beheaded) Whispering
 
-### [[aura]][[emotion]][[fear]][[mental]]
+### [[aura]][[emotion]][[fear]][[3-Rules/trait_reference/mental]]
 
 **Category** offensive; 
 

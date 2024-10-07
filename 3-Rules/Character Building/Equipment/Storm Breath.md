@@ -16,7 +16,7 @@ license: OGL
 ---
 # Storm Breath
 ## Item 9
-### [[air]][[bottled-breath]][[consumable]][[electricity]][[magical]]
+### [[3-Rules/trait_reference/air]][[bottled-breath]][[consumable]][[3-Rules/trait_reference/electricity]][[magical]]
 
 **Category** other; 
 **Price** 125 gp; 

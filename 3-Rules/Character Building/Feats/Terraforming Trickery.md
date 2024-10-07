@@ -14,7 +14,7 @@ license: ORC
 ---
 # Terraforming Trickery
 ## Feat 12
-### [[concentrate]][[earth]][[sorcerer]]
+### [[concentrate]][[3-Rules/trait_reference/earth]][[sorcerer]]
 
 **Category** class; 
 

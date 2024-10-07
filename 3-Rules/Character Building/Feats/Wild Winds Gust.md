@@ -15,7 +15,7 @@ license: ORC
 ---
 # Wild Winds Gust `pf2:2`
 ## Feat 14
-### [[air]][[concentrate]][[manipulate]][[monk]]
+### [[3-Rules/trait_reference/air]][[concentrate]][[manipulate]][[monk]]
 
 **Category** class; 
 

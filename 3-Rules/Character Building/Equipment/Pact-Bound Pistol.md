@@ -18,7 +18,7 @@ license: OGL
 ---
 # Pact-Bound Pistol
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[concealable]][[concussive]][[cursed]][[fatal-d10]][[fire]][[magical]][[unholy]]
+### [rare](rare "Rare Rarity Trait")[[concealable]][[concussive]][[cursed]][[fatal-d10]][[3-Rules/trait_reference/fire]][[magical]][[unholy]]
 
 |  |  |
 | -- | -- |

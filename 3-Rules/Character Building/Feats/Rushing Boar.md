@@ -15,7 +15,7 @@ license: ORC
 ---
 # Rushing Boar `pf2:r`
 ## Feat 6
-### [[archetype]][[concentrate]][[emotion]][[mental]]
+### [[archetype]][[concentrate]][[emotion]][[3-Rules/trait_reference/mental]]
 
 **Category** class; 
 

@@ -16,7 +16,7 @@ license: ORC
 ---
 # Pummeling Whirlpool `pf2:2`
 ## Feat 13
-### [[concentrate]][[manipulate]][[merfolk]][[primal]][[water]]
+### [[concentrate]][[manipulate]][[merfolk]][[primal]][[3-Rules/trait_reference/water]]
 
 **Category** ancestry; 
 

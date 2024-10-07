@@ -11,7 +11,7 @@ license: OGL
 ---
 # (Zombie, Shock) Electromechanical Phasing `pf2:2`
 
-### [[electricity]]
+### [[3-Rules/trait_reference/electricity]]
 
 **Category** offensive; 
 

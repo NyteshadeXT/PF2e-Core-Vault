@@ -13,7 +13,7 @@ license: OGL
 ---
 # Disruptive Stare `pf2:r`
 ## Feat 13
-### [[mental]][[nagaji]][[visual]]
+### [[3-Rules/trait_reference/mental]][[nagaji]][[visual]]
 
 **Category** ancestry; 
 

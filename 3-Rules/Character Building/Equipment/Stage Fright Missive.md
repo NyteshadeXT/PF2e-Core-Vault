@@ -15,7 +15,7 @@ license: OGL
 ---
 # Stage Fright Missive
 ## Item 5
-### [[consumable]][[curse]][[magical]][[mental]][[missive]]
+### [[consumable]][[curse]][[magical]][[3-Rules/trait_reference/mental]][[missive]]
 
 **Category** other; 
 **Price** 22 gp; 

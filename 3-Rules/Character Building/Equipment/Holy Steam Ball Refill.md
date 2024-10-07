@@ -12,7 +12,7 @@ license: OGL
 ---
 # Holy Steam Ball Refill
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[3-Rules/trait_reference/mental]]
 
 **Category** potion; 
 **Price** 2 gp; 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Roaring Potion (Greater)
 ## Item 18
-### [[consumable]][[magical]][[potion]][[sonic]]
+### [[consumable]][[magical]][[potion]][[3-Rules/trait_reference/sonic]]
 
 **Category** potion; 
 **Price** 3600 gp; 

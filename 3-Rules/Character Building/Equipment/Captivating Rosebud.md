@@ -15,7 +15,7 @@ license: OGL
 ---
 # Captivating Rosebud
 ## Item 3
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Magical]][[wood]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Magical]][[Wood]]
 
 **Category** other; 
 **Price** 10 gp; 

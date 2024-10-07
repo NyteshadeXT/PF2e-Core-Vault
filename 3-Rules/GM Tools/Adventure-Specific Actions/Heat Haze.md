@@ -11,7 +11,7 @@ license: OGL
 ---
 # Heat Haze `pf2:1`
 
-### [[fire]]
+### [[3-Rules/trait_reference/fire]]
 
 **Category** offensive; 
 

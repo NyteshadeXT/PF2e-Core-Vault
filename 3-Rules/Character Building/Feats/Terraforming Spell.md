@@ -14,7 +14,7 @@ license: OGL
 ---
 # Terraforming Spell `pf2:1`
 ## Feat 16
-### [[concentrate]][[Earth]][[sorcerer]][[spellshape]]
+### [[concentrate]][[3-Rules/trait_reference/earth]][[sorcerer]][[spellshape]]
 
 **Category** class; 
 

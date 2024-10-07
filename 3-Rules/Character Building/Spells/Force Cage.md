@@ -13,7 +13,7 @@ aliases: "Compendium.pf2e.spells-srd.Item.HES5jvGiNZZnJycK"
 ---
 # Force Cage  `pf2:3`  
 ## Spell 7
-### [[concentrate]][[force]][[manipulate]]
+### [[concentrate]][[3-Rules/trait_reference/force]][[manipulate]]
 **Traditions** [[arcane]], [[occult]]
 **Range** 30 feet; 1 cube 20 feet on each side
 **Area** 20-foot cube

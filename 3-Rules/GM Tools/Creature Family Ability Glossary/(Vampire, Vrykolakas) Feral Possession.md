@@ -15,7 +15,7 @@ license: OGL
 ---
 # (Vampire, Vrykolakas) Feral Possession `pf2:0`
 
-### [[curse]][[divine]][[incapacitation]][[mental]][[possession]]
+### [[curse]][[divine]][[incapacitation]][[3-Rules/trait_reference/mental]][[possession]]
 
 **Category** defensive; 
 

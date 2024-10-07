@@ -17,7 +17,7 @@ license: ORC
 ---
 # Tears of Pearl `pf2:2`
 ## Feat 9
-### [[emotion]][[manipulate]][[mental]][[merfolk]][[primal]][[visual]]
+### [[emotion]][[manipulate]][[3-Rules/trait_reference/mental]][[merfolk]][[primal]][[visual]]
 
 **Category** ancestry; 
 

@@ -17,7 +17,7 @@ license: OGL
 ---
 # Clear as Air `pf2:2`
 ## Feat 6
-### [[air]][[illusion]][[impulse]][[kineticist]][[overflow]][[primal]]
+### [[3-Rules/trait_reference/air]][[illusion]][[impulse]][[kineticist]][[overflow]][[primal]]
 
 **Category** class; 
 

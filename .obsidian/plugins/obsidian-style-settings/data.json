@@ -1,5 +1,5 @@
 {
-  "ITS@@accent-color": true,
+  "ITS@@accent-color": false,
   "ITS@@slrvb-b": false,
   "ITS@@slrvb-g": false,
   "ITS@@s-d": false,
@@ -102,5 +102,6 @@
   "supercharged-links@@661a-4d85-weight": "bold",
   "supercharged-links@@6eeb-1ccc-color": "#C1C80B",
   "supercharged-links@@6eeb-1ccc-weight": "bold",
-  "supercharged-links@@6eeb-1ccc-before": "🎉"
+  "supercharged-links@@6eeb-1ccc-before": "🎉",
+  "ITS@@select": "pathfinder-remaster"
 }

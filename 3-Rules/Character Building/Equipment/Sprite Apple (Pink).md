@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sprite Apple (Pink)
 ## Item 4
-### [[alchemical]][[consumable]][[light]]
+### [[alchemical]][[consumable]][[3-Rules/trait_reference/light]]
 
 **Category** other; 
 **Price** 16 gp; 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sparkshade Parasol
 ## Item 11
-### [[fire]][[invested]][[magical]]
+### [[3-Rules/trait_reference/fire]][[invested]][[magical]]
 
 
 **Price** 1200 gp; 

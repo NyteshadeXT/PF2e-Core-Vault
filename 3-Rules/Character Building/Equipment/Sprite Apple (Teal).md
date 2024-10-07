@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sprite Apple (Teal)
 ## Item 6
-### [[alchemical]][[consumable]][[light]]
+### [[alchemical]][[consumable]][[3-Rules/trait_reference/light]]
 
 **Category** other; 
 **Price** 41 gp; 

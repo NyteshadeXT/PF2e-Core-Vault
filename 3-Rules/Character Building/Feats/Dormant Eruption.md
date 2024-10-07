@@ -12,7 +12,7 @@ license: OGL
 ---
 # Dormant Eruption
 ## Feat 14
-### [rare](rare "Rare Rarity Trait")[[aftermath]][[fire]]
+### [rare](rare "Rare Rarity Trait")[[aftermath]][[3-Rules/trait_reference/fire]]
 
 **Category** class; 
 

@@ -33,7 +33,7 @@ Repurposing and enchanting a helmet worn by a battlefield commander can create a
 *   **Charge!** Stride twice.
 *   **Move It!** You gain a +2 status bonus to Acrobatics and Athletics checks until the end of this turn. [[Equipment Effects/Effect_ Tactician's Helm (Move It!)|Effect: Tactician's Helm (Move It!)]]
 *   **Protect!** If you're wielding a shield, Stride to a space adjacent to an ally, then Raise your Shield.
-*   **Re-Arm!** Interact up to three times. Each of these actions must be used to do something on [[PF2e Journals/GM Screen/Changing Equipment|Changing Equipment]].
+*   **Re-Arm!** Interact up to three times. Each of these actions must be used to do something on [[Changing Equipment|Changing Equipment]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

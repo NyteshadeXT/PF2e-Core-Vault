@@ -14,7 +14,7 @@ license: ORC
 ---
 # Guardian Lion Roar `pf2:2`
 ## Feat 8
-### [[auditory]][[inventor]][[sonic]]
+### [[auditory]][[inventor]][[3-Rules/trait_reference/sonic]]
 
 **Category** class; 
 

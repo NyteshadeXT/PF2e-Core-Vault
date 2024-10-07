@@ -14,7 +14,7 @@ license: OGL
 ---
 # Storm Hammer
 ## Item 3
-### [[electricity]][[magical]][[shove]]
+### [[3-Rules/trait_reference/electricity]][[magical]][[shove]]
 
 |  |  |
 | -- | -- |

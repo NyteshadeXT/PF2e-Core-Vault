@@ -15,7 +15,7 @@ license: OGL
 ---
 # Therapeutic Snap Peas
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[plant]][[wood]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[plant]][[Wood]]
 
 **Category** other; 
 **Price** 85 gp; 

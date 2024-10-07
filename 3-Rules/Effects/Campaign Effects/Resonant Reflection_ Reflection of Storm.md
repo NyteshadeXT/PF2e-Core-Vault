@@ -13,7 +13,7 @@ license: OGL
 ---
 # Resonant Reflection: Reflection of Storm
 ## Feat 17
-### [[air]][[electricity]][[magical]]
+### [[3-Rules/trait_reference/air]][[3-Rules/trait_reference/electricity]][[magical]]
 
 **Category** deityboon; 
 

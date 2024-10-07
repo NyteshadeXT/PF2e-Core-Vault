@@ -18,7 +18,7 @@ license: OGL
 ---
 # Ocean's Balm `pf2:1`
 ## Feat 1
-### [[healing]][[impulse]][[kineticist]][[manipulate]][[primal]][[vitality]][[water]]
+### [[healing]][[impulse]][[kineticist]][[manipulate]][[primal]][[vitality]][[3-Rules/trait_reference/water]]
 
 **Category** class; 
 

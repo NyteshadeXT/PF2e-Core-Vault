@@ -13,7 +13,7 @@ aliases: "Compendium.pf2e.spells-srd.Item.qJQADktwD0x8kLAy"
 ---
 # Resilient Sphere  `pf2:2`  
 ## Spell 4
-### [[concentrate]][[force]][[manipulate]]
+### [[concentrate]][[3-Rules/trait_reference/force]][[manipulate]]
 **Traditions** [[arcane]], [[occult]]
 **Range** 30 feet
 **Targets** 1 Large or smaller creature

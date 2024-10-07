@@ -14,7 +14,7 @@ license: OGL
 ---
 # Explosive Leap `pf2:1`
 ## Feat 1
-### [[fire]][[inventor]][[move]][[unstable]]
+### [[3-Rules/trait_reference/fire]][[inventor]][[move]][[unstable]]
 
 **Category** class; 
 

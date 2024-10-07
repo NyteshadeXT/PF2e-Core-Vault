@@ -17,7 +17,7 @@ license: OGL
 ---
 # Scalding Gauntlets (True)
 ## Item 18
-### [[agile]][[fire]][[free-hand]][[invested]][[magical]]
+### [[agile]][[3-Rules/trait_reference/fire]][[free-hand]][[invested]][[magical]]
 
 |  |  |
 | -- | -- |

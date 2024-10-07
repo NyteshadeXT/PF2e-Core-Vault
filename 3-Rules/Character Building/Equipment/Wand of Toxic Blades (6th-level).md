@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Toxic Blades (6th-level)
 ## Item 15
-### [[force]][[magical]][[poison]][[wand]]
+### [[3-Rules/trait_reference/force]][[magical]][[3-Rules/trait_reference/poison]][[wand]]
 
 
 **Price** 6000 gp; 

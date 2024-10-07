@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Noisome Acid (4nd-Level Spell)
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[acid]][[magical]][[wand]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/acid]][[magical]][[wand]]
 
 
 **Price** 1000 gp; 

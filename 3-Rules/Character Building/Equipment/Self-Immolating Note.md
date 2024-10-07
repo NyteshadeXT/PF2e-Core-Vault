@@ -13,7 +13,7 @@ license: OGL
 ---
 # Self-Immolating Note
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[fire]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/trait_reference/fire]]
 
 **Category** other; 
 **Price** 3 gp; 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Pummel-Growth Toxin
 ## Item 13
-### [[alchemical]][[consumable]][[injury]][[morph]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[morph]][[3-Rules/trait_reference/poison]]
 
 **Category** poison; 
 **Price** 550 gp; 

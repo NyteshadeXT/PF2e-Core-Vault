@@ -12,7 +12,7 @@ license: OGL
 ---
 # Resonant Reflection: Reflection of Stone
 ## Feat 10
-### [[earth]][[magical]]
+### [[3-Rules/trait_reference/earth]][[magical]]
 
 **Category** deityboon; 
 

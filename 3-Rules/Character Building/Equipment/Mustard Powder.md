@@ -14,7 +14,7 @@ license: OGL
 ---
 # Mustard Powder
 ## Item 5
-### [[alchemical]][[consumable]][[inhaled]][[poison]]
+### [[alchemical]][[consumable]][[inhaled]][[3-Rules/trait_reference/poison]]
 
 **Category** poison; 
 **Price** 25 gp; 

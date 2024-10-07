@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Path Maiden) Vengeful Frenzy `pf2:2`
 
-### [[emotion]][[mental]][[occult]]
+### [[emotion]][[3-Rules/trait_reference/mental]][[occult]]
 
 **Category** offensive; 
 

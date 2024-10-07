@@ -17,7 +17,7 @@ license: OGL
 ---
 # Furnace Form `pf2:2`
 ## Feat 12
-### [[fire]][[impulse]][[kineticist]][[manipulate]][[polymorph]][[primal]]
+### [[3-Rules/trait_reference/fire]][[impulse]][[kineticist]][[manipulate]][[polymorph]][[primal]]
 
 **Category** class; 
 

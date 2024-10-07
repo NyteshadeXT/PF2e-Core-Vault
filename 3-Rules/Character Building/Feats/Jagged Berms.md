@@ -18,7 +18,7 @@ license: OGL
 ---
 # Jagged Berms `pf2:3`
 ## Feat 6
-### [[composite]][[earth]][[impulse]][[kineticist]][[overflow]][[primal]][[wood]]
+### [[composite]][[3-Rules/trait_reference/earth]][[impulse]][[kineticist]][[overflow]][[primal]][[Wood]]
 
 **Category** class; 
 

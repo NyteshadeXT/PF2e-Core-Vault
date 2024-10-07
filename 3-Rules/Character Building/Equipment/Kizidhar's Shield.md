@@ -12,7 +12,7 @@ license: OGL
 ---
 # Kizidhar's Shield
 ## Item 11
-### [[magical]][[wood]]
+### [[magical]][[Wood]]
 
 
 **Price** 1250 gp; 

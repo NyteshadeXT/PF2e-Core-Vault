@@ -17,7 +17,7 @@ license: OGL
 ---
 # Eternal Torch `pf2:1`
 ## Feat 1
-### [[fire]][[impulse]][[kineticist]][[light]][[manipulate]][[primal]]
+### [[3-Rules/trait_reference/fire]][[impulse]][[kineticist]][[3-Rules/trait_reference/light]][[manipulate]][[primal]]
 
 **Category** class; 
 

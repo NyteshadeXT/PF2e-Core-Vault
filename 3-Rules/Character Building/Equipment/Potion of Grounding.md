@@ -14,7 +14,7 @@ license: OGL
 ---
 # Potion of Grounding
 ## Item 10
-### [[consumable]][[electricity]][[magical]][[potion]]
+### [[consumable]][[3-Rules/trait_reference/electricity]][[magical]][[potion]]
 
 **Category** potion; 
 **Price** 185 gp; 

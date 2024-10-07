@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ring of the Ram (Greater)
 ## Item 13
-### [[force]][[invested]][[magical]]
+### [[3-Rules/trait_reference/force]][[invested]][[magical]]
 
 
 **Price** 2700 gp; 

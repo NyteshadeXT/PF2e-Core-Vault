@@ -12,7 +12,7 @@ license: OGL
 ---
 # Resonating Fork (Greater)
 ## Item 7
-### [[magical]][[sonic]][[spellheart]]
+### [[magical]][[3-Rules/trait_reference/sonic]][[spellheart]]
 
 
 **Price** 340 gp; 

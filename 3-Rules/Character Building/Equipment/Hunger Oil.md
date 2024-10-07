@@ -15,7 +15,7 @@ license: OGL
 ---
 # Hunger Oil
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[divine]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[divine]][[3-Rules/trait_reference/poison]]
 
 **Category** poison; 
 **Price** 235 gp; 

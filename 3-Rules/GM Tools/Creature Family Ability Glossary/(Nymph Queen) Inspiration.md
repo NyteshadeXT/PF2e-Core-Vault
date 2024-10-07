@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Nymph Queen) Inspiration `pf2:3`
 
-### [[emotion]][[mental]][[primal]]
+### [[emotion]][[3-Rules/trait_reference/mental]][[primal]]
 
 **Category** offensive; 
 

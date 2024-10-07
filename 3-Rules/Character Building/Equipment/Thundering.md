@@ -12,7 +12,7 @@ license: ORC
 ---
 # Thundering
 ## Item 8
-### [[magical]][[sonic]]
+### [[magical]][[3-Rules/trait_reference/sonic]]
 
 
 **Price** 500 gp; 

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Lodestone Bomb
 ## Item 12
-### [[alchemical]][[bomb]][[consumable]][[force]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/force]][[splash]]
 
 |  |  |
 | -- | -- |

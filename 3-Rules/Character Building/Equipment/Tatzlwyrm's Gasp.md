@@ -15,7 +15,7 @@ license: ORC
 ---
 # Tatzlwyrm's Gasp
 ## Item 2
-### [[alchemical]][[consumable]][[inhaled]][[poison]]
+### [[alchemical]][[consumable]][[inhaled]][[3-Rules/trait_reference/poison]]
 
 **Category** other; 
 **Price** 6 gp; 

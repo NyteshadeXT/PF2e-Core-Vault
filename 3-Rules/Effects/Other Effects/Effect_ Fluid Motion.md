@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[PF2e Journals/Hero Point Deck/Fluid Motion|Fluid Motion]]
+Granted by [[Fluid Motion|Fluid Motion]]
 
 For the rest of your turn, you gain a climb Speed and a swim Speed equal to half your Speed. If you make a horizontal Leap, increase the distance jumped by 10 feet.
 

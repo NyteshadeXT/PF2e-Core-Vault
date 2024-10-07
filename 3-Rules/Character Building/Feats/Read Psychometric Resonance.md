@@ -17,7 +17,7 @@ license: OGL
 ---
 # Read Psychometric Resonance
 ## Feat 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[emotion]][[exploration]][[general]][[mental]][[occult]][[skill]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[emotion]][[exploration]][[general]][[3-Rules/trait_reference/mental]][[occult]][[skill]]
 
 **Category** skill; 
 

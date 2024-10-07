@@ -17,7 +17,7 @@ license: OGL
 ---
 # Rain of Rust `pf2:3`
 ## Feat 4
-### [[composite]][[impulse]][[kineticist]][[metal]][[primal]][[water]]
+### [[composite]][[impulse]][[kineticist]][[metal]][[primal]][[3-Rules/trait_reference/water]]
 
 **Category** class; 
 

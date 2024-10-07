@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Pernicious Poison (Spider Sting)
 ## Item 4
-### [[magical]][[poison]][[wand]]
+### [[magical]][[3-Rules/trait_reference/poison]][[wand]]
 
 
 **Price** 100 gp; 

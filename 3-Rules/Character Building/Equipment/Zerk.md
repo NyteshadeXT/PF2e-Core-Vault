@@ -15,7 +15,7 @@ license: OGL
 ---
 # Zerk
 ## Item 4
-### [[alchemical]][[consumable]][[drug]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[drug]][[injury]][[3-Rules/trait_reference/poison]]
 
 **Category** drug; 
 **Price** 20 gp; 

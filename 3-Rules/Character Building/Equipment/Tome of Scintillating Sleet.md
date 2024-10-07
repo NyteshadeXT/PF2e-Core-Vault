@@ -12,7 +12,7 @@ license: OGL
 ---
 # Tome of Scintillating Sleet
 ## Item 8
-### [[cold]][[grimoire]][[primal]]
+### [[3-Rules/trait_reference/cold]][[grimoire]][[primal]]
 
 
 **Price** 430 gp; 

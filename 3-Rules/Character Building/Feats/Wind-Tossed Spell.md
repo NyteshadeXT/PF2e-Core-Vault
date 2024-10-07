@@ -15,7 +15,7 @@ license: OGL
 ---
 # Wind-Tossed Spell `pf2:1`
 ## Feat 14
-### [[air]][[archetype]][[concentrate]][[spellshape]]
+### [[3-Rules/trait_reference/air]][[archetype]][[concentrate]][[spellshape]]
 
 **Category** class; 
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Billowing Wings
 ## Feat 12
-### [[air]][[archetype]]
+### [[3-Rules/trait_reference/air]][[archetype]]
 
 **Category** class; 
 

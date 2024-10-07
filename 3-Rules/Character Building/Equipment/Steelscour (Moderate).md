@@ -15,7 +15,7 @@ license: OGL
 ---
 # Steelscour (Moderate)
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[acid]][[alchemical]][[bomb]][[consumable]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/acid]][[alchemical]][[bomb]][[consumable]]
 
 |  |  |
 | -- | -- |

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Pickled Demon Tongue (Greater)
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[acid]][[divine]][[spellheart]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/acid]][[divine]][[spellheart]]
 
 
 **Price** 460 gp; 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Snowdrift Spell `pf2:1`
 ## Feat 4
-### [[cold]][[druid]][[manipulate]][[spellshape]]
+### [[3-Rules/trait_reference/cold]][[druid]][[manipulate]][[spellshape]]
 
 **Category** class; 
 

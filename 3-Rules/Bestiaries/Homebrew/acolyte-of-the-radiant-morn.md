@@ -27,7 +27,7 @@ perception:
 languages: "Common; "
 skills:
   - name: "Skills"
-    desc: "__Arcana__: +5 (1d20+5); __Crafting__: +5 (1d20+5); __Diplomacy__: +4 (1d20+4); __Occultism__: +5 (1d20+5); __Religion__: +7 (1d20+7); "
+    desc: "Arcana: +5 (1d20+5); Crafting: +5 (1d20+5); Diplomacy: +4 (1d20+4); Occultism: +5 (1d20+5); Religion: +7 (1d20+7); "
 abilityMods: [1, 2, -1, 2, 4, 1]
 
 

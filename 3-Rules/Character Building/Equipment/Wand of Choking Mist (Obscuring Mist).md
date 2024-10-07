@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Choking Mist (Obscuring Mist)
 ## Item 6
-### [[magical]][[wand]][[water]]
+### [[magical]][[wand]][[3-Rules/trait_reference/water]]
 
 
 **Price** 250 gp; 

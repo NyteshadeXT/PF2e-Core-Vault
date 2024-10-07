@@ -22,5 +22,23 @@
       ],
       "key": "V"
     }
+  ],
+  "pf2e-creature-adjuster:elite-upgrade": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "pf2e-creature-adjuster:weak-downgrade": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
   ]
 }

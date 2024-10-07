@@ -15,7 +15,7 @@ license: ORC
 ---
 # Giant Centipede Venom
 ## Item 1
-### [[alchemical]][[consumable]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison]]
 
 **Category** poison; 
 **Price** 4 gp; 

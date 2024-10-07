@@ -15,7 +15,7 @@ license: ORC
 ---
 # Wyvern Poison
 ## Item 8
-### [[alchemical]][[consumable]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison]]
 
 **Category** poison; 
 **Price** 80 gp; 

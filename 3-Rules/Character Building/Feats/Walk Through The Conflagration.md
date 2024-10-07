@@ -17,7 +17,7 @@ license: OGL
 ---
 # Walk Through The Conflagration `pf2:2`
 ## Feat 14
-### [[fire]][[impulse]][[kineticist]][[overflow]][[primal]][[teleportation]]
+### [[3-Rules/trait_reference/fire]][[impulse]][[kineticist]][[overflow]][[primal]][[teleportation]]
 
 **Category** class; 
 

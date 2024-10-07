@@ -16,7 +16,7 @@ license: OGL
 ---
 # Refined Pesh
 ## Item 1
-### [[alchemical]][[consumable]][[drug]][[ingested]][[inhaled]][[poison]]
+### [[alchemical]][[consumable]][[drug]][[ingested]][[inhaled]][[3-Rules/trait_reference/poison]]
 
 **Category** drug; 
 **Price** 2 gp; 

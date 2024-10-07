@@ -15,7 +15,7 @@ license: ORC
 ---
 # Tangle Root Toxin
 ## Item 7
-### [[alchemical]][[consumable]][[contact]][[poison]]
+### [[alchemical]][[consumable]][[contact]][[3-Rules/trait_reference/poison]]
 
 **Category** poison; 
 **Price** 55 gp; 

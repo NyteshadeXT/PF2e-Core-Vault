@@ -14,7 +14,7 @@ license: ORC
 ---
 # All In My Head `pf2:r`
 ## Feat 18
-### [[bard]][[illusion]][[mental]]
+### [[bard]][[illusion]][[3-Rules/trait_reference/mental]]
 
 **Category** class; 
 

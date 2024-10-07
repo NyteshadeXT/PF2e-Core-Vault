@@ -14,7 +14,7 @@ license: OGL
 ---
 # Sleep Arrow
 ## Item 3
-### [[consumable]][[magical]][[mental]][[sleep]]
+### [[consumable]][[magical]][[3-Rules/trait_reference/mental]][[sleep]]
 
 **Category** ammo; 
 **Price** 11 gp; 

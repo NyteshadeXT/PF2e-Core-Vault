@@ -16,7 +16,7 @@ license: OGL
 ---
 # Sonic Tuning Mace
 ## Item 9
-### [[agile]][[finesse]][[magical]][[shove]][[sonic]]
+### [[agile]][[finesse]][[magical]][[shove]][[3-Rules/trait_reference/sonic]]
 
 |  |  |
 | -- | -- |

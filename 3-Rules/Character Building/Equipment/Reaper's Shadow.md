@@ -17,7 +17,7 @@ license: ORC
 ---
 # Reaper's Shadow
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[injury]][[poison]][[virulent]][[void]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison]][[virulent]][[void]]
 
 **Category** poison; 
 **Price** 525 gp; 

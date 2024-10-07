@@ -13,7 +13,7 @@ license: OGL
 ---
 # Toadskin Salve
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/trait_reference/poison]]
 
 **Category** poison; 
 **Price** 10 gp; 

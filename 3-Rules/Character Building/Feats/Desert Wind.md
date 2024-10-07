@@ -18,7 +18,7 @@ license: OGL
 ---
 # Desert Wind `pf2:1`
 ## Feat 6
-### [[air]][[composite]][[earth]][[impulse]][[kineticist]][[primal]][[stance]]
+### [[3-Rules/trait_reference/air]][[composite]][[3-Rules/trait_reference/earth]][[impulse]][[kineticist]][[primal]][[stance]]
 
 **Category** class; 
 

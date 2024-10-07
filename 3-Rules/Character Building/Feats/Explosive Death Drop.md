@@ -12,7 +12,7 @@ license: OGL
 ---
 # Explosive Death Drop `pf2:1`
 ## Feat 14
-### [[fire]][[monk]]
+### [[3-Rules/trait_reference/fire]][[monk]]
 
 **Category** class; 
 

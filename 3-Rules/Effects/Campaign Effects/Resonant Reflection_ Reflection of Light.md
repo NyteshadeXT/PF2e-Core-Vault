@@ -12,7 +12,7 @@ license: OGL
 ---
 # Resonant Reflection: Reflection of Light
 ## Feat 10
-### [[light]][[magical]]
+### [[3-Rules/trait_reference/light]][[magical]]
 
 **Category** deityboon; 
 

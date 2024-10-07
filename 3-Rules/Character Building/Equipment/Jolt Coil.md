@@ -12,7 +12,7 @@ license: OGL
 ---
 # Jolt Coil
 ## Item 3
-### [[electricity]][[magical]][[spellheart]]
+### [[3-Rules/trait_reference/electricity]][[magical]][[spellheart]]
 
 
 **Price** 60 gp; 

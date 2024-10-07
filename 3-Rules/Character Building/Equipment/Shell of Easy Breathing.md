@@ -12,7 +12,7 @@ license: OGL
 ---
 # Shell of Easy Breathing
 ## Item 5
-### [[magical]][[water]]
+### [[magical]][[3-Rules/trait_reference/water]]
 
 
 **Price** 160 gp; 

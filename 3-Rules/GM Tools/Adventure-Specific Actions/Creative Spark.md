@@ -11,7 +11,7 @@ license: OGL
 ---
 # Creative Spark `pf2:2`
 
-### [[fire]]
+### [[3-Rules/trait_reference/fire]]
 
 **Category** offensive; 
 

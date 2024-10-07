@@ -16,7 +16,7 @@ license: ORC
 ---
 # Dragon Roar `pf2:1`
 ## Feat 6
-### [[auditory]][[emotion]][[fear]][[mental]][[monk]]
+### [[auditory]][[emotion]][[fear]][[3-Rules/trait_reference/mental]][[monk]]
 
 **Category** class; 
 

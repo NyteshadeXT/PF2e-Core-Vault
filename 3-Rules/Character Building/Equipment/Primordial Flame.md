@@ -14,7 +14,7 @@ license: OGL
 ---
 # Primordial Flame
 ## Item 23
-### [unique](unique "Unique Rarity Trait")[[artifact]][[cursed]][[fire]][[light]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[cursed]][[3-Rules/trait_reference/fire]][[3-Rules/trait_reference/light]][[magical]]
 
 
 **Price** 0 gp; 

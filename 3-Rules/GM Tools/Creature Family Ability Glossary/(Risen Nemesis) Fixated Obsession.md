@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Risen Nemesis) Fixated Obsession `pf2:2`
 
-### [[emotion]][[mental]]
+### [[emotion]][[3-Rules/trait_reference/mental]]
 
 **Category** offensive; 
 

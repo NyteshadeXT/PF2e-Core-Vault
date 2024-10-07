@@ -13,7 +13,7 @@ license: OGL
 ---
 # Spiritual Warhorn (Greater)
 ## Item 13
-### [[consumable]][[force]][[magical]]
+### [[consumable]][[3-Rules/trait_reference/force]][[magical]]
 
 **Category** other; 
 **Price** 600 gp; 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # (Vampire, Vetalarana, Basic) Mental Rebirth
 
-### [[curse]][[incapacitation]][[mental]][[occult]]
+### [[curse]][[incapacitation]][[3-Rules/trait_reference/mental]][[occult]]
 
 **Category** defensive; 
 

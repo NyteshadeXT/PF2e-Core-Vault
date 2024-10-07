@@ -14,7 +14,7 @@ license: OGL
 ---
 # Wand of Mental Purification (8th-level)
 ## Item 18
-### [[emotion]][[healing]][[magical]][[mental]][[wand]]
+### [[emotion]][[healing]][[magical]][[3-Rules/trait_reference/mental]][[wand]]
 
 
 **Price** 24000 gp; 

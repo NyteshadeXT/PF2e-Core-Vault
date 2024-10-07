@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Rolling Flames (2nd-level)
 ## Item 6
-### [[fire]][[magical]][[wand]]
+### [[3-Rules/trait_reference/fire]][[magical]][[wand]]
 
 
 **Price** 250 gp; 

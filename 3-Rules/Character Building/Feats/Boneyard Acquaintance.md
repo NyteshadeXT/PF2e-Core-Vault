@@ -12,7 +12,7 @@ license: OGL
 ---
 # Boneyard Acquaintance
 ## Feat 17
-### [rare](rare "Rare Rarity Trait")[[force]][[reincarnated]]
+### [rare](rare "Rare Rarity Trait")[[3-Rules/trait_reference/force]][[reincarnated]]
 
 **Category** ancestry; 
 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # South Wind's Scorch Song
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fire]][[forceful]][[magical]][[sweep]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/fire]][[forceful]][[magical]][[sweep]]
 
 |  |  |
 | -- | -- |

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Moon Radish Soup
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[healing]][[mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[healing]][[3-Rules/trait_reference/mental]]
 
 **Category** other; 
 **Price** 6 gp; 

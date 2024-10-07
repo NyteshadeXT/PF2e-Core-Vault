@@ -17,7 +17,7 @@ license: OGL
 ---
 # Rouse the Forest's Fury `pf2:3`
 ## Feat 18
-### [[impulse]][[kineticist]][[overflow]][[plant]][[primal]][[wood]]
+### [[impulse]][[kineticist]][[overflow]][[plant]][[primal]][[Wood]]
 
 **Category** class; 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Wind Ocarina
 ## Item 6
-### [[air]][[aura]][[consumable]][[magical]]
+### [[3-Rules/trait_reference/air]][[aura]][[consumable]][[magical]]
 
 **Category** other; 
 **Price** 50 gp; 

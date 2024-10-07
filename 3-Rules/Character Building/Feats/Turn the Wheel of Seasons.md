@@ -16,7 +16,7 @@ license: OGL
 ---
 # Turn the Wheel of Seasons `pf2:3`
 ## Feat 18
-### [[impulse]][[kineticist]][[overflow]][[primal]][[wood]]
+### [[impulse]][[kineticist]][[overflow]][[primal]][[Wood]]
 
 **Category** class; 
 

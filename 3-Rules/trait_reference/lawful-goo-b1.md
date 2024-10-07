@@ -10,6 +10,6 @@ aliases: ["Lawful Goo"]
 # Lawful Goo  
 *Source: Bestiary p. 345*  
 
-[Lawful](lawful.md) and [good](good.md)
+[Lawful](3-Rules/trait_reference/lawful.md) and [good](3-Rules/trait_reference/good.md)
 
 - **Categories**: Alignment, _alignAbv

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Call the Hurricane `pf2:2`
 ## Feat 8
-### [[impulse]][[kineticist]][[overflow]][[primal]][[water]]
+### [[impulse]][[kineticist]][[overflow]][[primal]][[3-Rules/trait_reference/water]]
 
 **Category** class; 
 

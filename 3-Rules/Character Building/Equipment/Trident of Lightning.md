@@ -14,7 +14,7 @@ license: ORC
 ---
 # Trident of Lightning
 ## Item 9
-### [[consumable]][[electricity]][[magical]]
+### [[consumable]][[3-Rules/trait_reference/electricity]][[magical]]
 
 **Category** other; 
 **Price** 110 gp; 

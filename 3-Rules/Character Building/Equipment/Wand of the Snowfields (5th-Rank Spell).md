@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wand of the Snowfields (5th-Rank Spell)
 ## Item 14
-### [[cold]][[magical]][[wand]]
+### [[3-Rules/trait_reference/cold]][[magical]][[wand]]
 
 
 **Price** 4500 gp; 

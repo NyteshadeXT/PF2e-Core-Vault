@@ -15,7 +15,7 @@ license: ORC
 ---
 # Searing Blade (Greater)
 ## Item 17
-### [[fire]][[magical]][[versatile-p]]
+### [[3-Rules/trait_reference/fire]][[magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

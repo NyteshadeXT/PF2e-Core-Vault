@@ -14,7 +14,7 @@ license: ORC
 ---
 # Tempest Cloud's Speed
 ## Feat 6
-### [[air]][[archetype]][[magical]]
+### [[3-Rules/trait_reference/air]][[archetype]][[magical]]
 
 **Category** class; 
 

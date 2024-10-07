@@ -16,7 +16,7 @@ license: ORC
 ---
 # Unnerving Terror `pf2:2`
 ## Feat 13
-### [[auditory]][[emotion]][[fear]][[mental]][[yaoguai]]
+### [[auditory]][[emotion]][[fear]][[3-Rules/trait_reference/mental]][[yaoguai]]
 
 **Category** ancestry; 
 

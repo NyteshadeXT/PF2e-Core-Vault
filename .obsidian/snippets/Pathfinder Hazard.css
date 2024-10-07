@@ -1,0 +1,193 @@
+/* Pathfinder 2E Hazard Styling for Obsidian */
+
+/* General Hazard Container */
+.pf2e-hazard .hazard-block {
+    border: 2px solid #000;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+/* Hazard Title and Level */
+.pf2e-hazard .hazard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.pf2e-hazard .hazard-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #000;
+}
+
+.pf2e-hazard .hazard-level {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #000;
+}
+
+/* Hazard Traits */
+.pf2e-hazard .hazard-traits {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 10px;
+}
+
+.pf2e-hazard .hazard-trait {
+    font-size: 0.9em;
+    font-weight: bold; /* Bold text */
+    color: #fff;
+    background-color: #8b0000; /* Darker red */
+    padding: 5px;
+    border-radius: 3px;
+    border: 2px solid gold; /* Thicker outline */
+}
+
+.pf2e-hazard .hazard-trait a {
+    color: #fff; /* Link color */
+    text-decoration: none; /* Remove underline */
+}
+
+.pf2e-hazard .hazard-trait a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+/* Hazard Details */
+.pf2e-hazard .hazard-details {
+    font-size: 0.95em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.pf2e-hazard .hazard-details b {
+    font-weight: bold;
+}
+
+/* Line after Description */
+.pf2e-hazard .hazard-description {
+    font-size: 1em;
+    color: #000;
+    margin-bottom: 10px;
+    border-top: 2px solid #000; /* Added line above */
+    padding-top: 10px;
+    border-bottom: 2px solid #000; /* Added line below */
+    padding-bottom: 10px;
+}
+
+/* Additional Hazard Entries */
+.pf2e-hazard .hazard-additional {
+    font-size: 0.95em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.pf2e-hazard .hazard-additional b {
+    font-weight: bold;
+}
+
+/* Reset Entry */
+.pf2e-hazard .hazard-reset {
+    font-size: 1em;
+    color: #000;
+    margin-top: 10px;
+    border-top: 2px solid #000; /* Added line above */
+    padding-top: 10px;
+}
+
+/* Example Usage in Markdown */
+.markdown-preview-view.pf2e-hazard .hazard-block {
+    border: 2px solid #000;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+.markdown-preview-view.pf2e-hazard .hazard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.markdown-preview-view.pf2e-hazard .hazard-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #000;
+}
+
+.markdown-preview-view.pf2e-hazard .hazard-level {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #000;
+}
+
+.markdown-preview-view.pf2e-hazard .hazard-traits {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 10px;
+}
+
+.markdown-preview-view.pf2e-hazard .hazard-trait {
+    font-size: 0.9em;
+    font-weight: bold; /* Bold text */
+    color: #fff;
+    background-color: #8b0000; /* Darker red */
+    padding: 5px;
+    border-radius: 3px;
+    border: 2px solid gold; /* Thicker outline */
+}
+
+.markdown-preview-view.pf2e-hazard .hazard-trait a {
+    color: #fff; /* Link color */
+    text-decoration: none; /* Remove underline */
+}
+
+.markdown-preview-view.pf2e-hazard .hazard-trait a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+.markdown-preview-view.pf2e-hazard .hazard-details {
+    font-size: 0.95em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.markdown-preview-view.pf2e-hazard .hazard-details b {
+    font-weight: bold;
+}
+
+.markdown-preview-view.pf2e-hazard .hazard-description {
+    font-size: 1em;
+    color: #000;
+    margin-bottom: 10px;
+    border-top: 2px solid #000; /* Added line above */
+    padding-top: 10px;
+    border-bottom: 2px solid #000; /* Added line below */
+    padding-bottom: 10px;
+}
+
+.markdown-preview-view.pf2e-hazard .hazard-additional {
+    font-size: 0.95em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.markdown-preview-view.pf2e-hazard .hazard-additional b {
+    font-weight: bold;
+}
+
+.markdown-preview-view.pf2e-hazard .hazard-reset {
+    font-size: 1em;
+    color: #000;
+    margin-top: 10px;
+    border-top: 2px solid #000; /* Added line above */
+    padding-top: 10px;
+}

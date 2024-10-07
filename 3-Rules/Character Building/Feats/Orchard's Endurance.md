@@ -17,7 +17,7 @@ license: OGL
 ---
 # Orchard's Endurance `pf2:1`
 ## Feat 14
-### [[impulse]][[kineticist]][[plant]][[primal]][[stance]][[wood]]
+### [[impulse]][[kineticist]][[plant]][[primal]][[stance]][[Wood]]
 
 **Category** class; 
 

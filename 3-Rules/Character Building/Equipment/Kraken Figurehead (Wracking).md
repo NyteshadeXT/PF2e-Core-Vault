@@ -13,7 +13,7 @@ license: OGL
 ---
 # Kraken Figurehead (Wracking)
 ## Item 14
-### [[figurehead]][[magical]][[water]]
+### [[figurehead]][[magical]][[3-Rules/trait_reference/water]]
 
 
 **Price** 4000 gp; 

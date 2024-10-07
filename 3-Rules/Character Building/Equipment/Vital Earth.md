@@ -14,7 +14,7 @@ license: OGL
 ---
 # Vital Earth
 ## Item 9
-### [[consumable]][[earth]][[magical]]
+### [[consumable]][[3-Rules/trait_reference/earth]][[magical]]
 
 **Category** other; 
 **Price** 30 gp; 

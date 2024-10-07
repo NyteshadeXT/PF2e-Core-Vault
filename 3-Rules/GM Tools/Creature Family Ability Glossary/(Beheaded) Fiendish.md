@@ -15,7 +15,7 @@ license: OGL
 ---
 # (Beheaded) Fiendish
 
-### [[aura]][[divine]][[emotion]][[fear]][[mental]]
+### [[aura]][[divine]][[emotion]][[fear]][[3-Rules/trait_reference/mental]]
 
 **Category** offensive; 
 

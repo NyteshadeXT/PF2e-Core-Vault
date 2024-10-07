@@ -18,7 +18,7 @@ license: ORC
 ---
 # Bon Mot `pf2:1`
 ## Feat 1
-### [[auditory]][[concentrate]][[emotion]][[general]][[linguistic]][[mental]][[skill]]
+### [[auditory]][[concentrate]][[emotion]][[general]][[linguistic]][[3-Rules/trait_reference/mental]][[skill]]
 
 **Category** skill; 
 

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Ignite The Sun `pf2:2`
 ## Feat 18
-### [[fire]][[impulse]][[kineticist]][[light]][[primal]]
+### [[3-Rules/trait_reference/fire]][[impulse]][[kineticist]][[3-Rules/trait_reference/light]][[primal]]
 
 **Category** class; 
 

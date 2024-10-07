@@ -17,7 +17,7 @@ license: OGL
 ---
 # Obsidian Edge (Major)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[fire]][[kickback]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[3-Rules/trait_reference/fire]][[kickback]][[magical]]
 
 |  |  |
 | -- | -- |

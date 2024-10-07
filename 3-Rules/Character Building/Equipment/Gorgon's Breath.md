@@ -14,7 +14,7 @@ license: OGL
 ---
 # Gorgon's Breath
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/trait_reference/poison]]
 
 **Category** poison; 
 **Price** 475 gp; 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Frightful Presence
 
-### [[aura]][[emotion]][[fear]][[mental]]
+### [[aura]][[emotion]][[fear]][[3-Rules/trait_reference/mental]]
 
 **Category** defensive; 
 

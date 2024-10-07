@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wand of Smoldering Fireballs (3rd-Rank Spell)
 ## Item 8
-### [[fire]][[magical]][[wand]]
+### [[3-Rules/trait_reference/fire]][[magical]][[wand]]
 
 
 **Price** 500 gp; 

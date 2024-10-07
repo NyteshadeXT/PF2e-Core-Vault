@@ -15,7 +15,7 @@ license: OGL
 ---
 # Sparking Spellgun (Lesser)
 ## Item 5
-### [[attack]][[consumable]][[fire]][[magical]][[spellgun]]
+### [[attack]][[consumable]][[3-Rules/trait_reference/fire]][[magical]][[spellgun]]
 
 **Category** other; 
 **Price** 30 gp; 

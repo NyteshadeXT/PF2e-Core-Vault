@@ -15,7 +15,7 @@ license: OGL
 ---
 # Grit
 ## Item 1
-### [[alchemical]][[consumable]][[drug]][[ingested]][[poison]]
+### [[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/trait_reference/poison]]
 
 **Category** drug; 
 **Price** 3 gp; 

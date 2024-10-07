@@ -16,7 +16,7 @@ license: ORC
 ---
 # Scintillating Spell `pf2:1`
 ## Feat 16
-### [[concentrate]][[light]][[sorcerer]][[spellshape]][[wizard]]
+### [[concentrate]][[3-Rules/trait_reference/light]][[sorcerer]][[spellshape]][[wizard]]
 
 **Category** class; 
 

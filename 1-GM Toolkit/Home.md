@@ -21,13 +21,13 @@ obsidianUIMode: preview
 > # Session Journals
 > ```dataview
 TABLE WITHOUT ID link(file.name) AS "Session Date", Status, players
-from "1-Session Journals"
+from "2-Session Journals"
 where (type = "Session Journal")
 SORT file.name DESC
 
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Class, Race, level, Role  
-from "1-Party"  
+from "2-Party"  
 where (Role = "Player")  
 where (Status = "Active")  
 ```
@@ -36,7 +36,7 @@ where (Status = "Active")
 
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "NPC Name", Gender, Race, Age, Location, AssociatedGroup  
-FROM "3-Mechanics/NPCs"
+FROM "5-World/NPCs"
 WHERE (NoteIcon = "npc") 
 SORT file.mtime DESC
 LIMIT 10
@@ -46,7 +46,7 @@ LIMIT 10
 
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "Location Name", type, Government, Community-Size, size, population  
-FROM "2-World"
+FROM "5-World"
 WHERE (NoteIcon = "Settlement")  
 SORT file.mtime DESC
 LIMIT 10

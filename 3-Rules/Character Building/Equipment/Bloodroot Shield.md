@@ -13,7 +13,7 @@ license: ORC
 ---
 # Bloodroot Shield
 ## Item 9
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[void]][[wood]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[void]][[Wood]]
 
 
 **Price** 600 gp; 

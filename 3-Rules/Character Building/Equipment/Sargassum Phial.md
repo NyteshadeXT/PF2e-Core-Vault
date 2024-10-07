@@ -17,7 +17,7 @@ license: ORC
 ---
 # Sargassum Phial
 ## Item 6
-### [[alchemical]][[consumable]][[expandable]][[incapacitation]][[mental]][[poison]]
+### [[alchemical]][[consumable]][[expandable]][[incapacitation]][[3-Rules/trait_reference/mental]][[3-Rules/trait_reference/poison]]
 
 **Category** other; 
 **Price** 50 gp; 

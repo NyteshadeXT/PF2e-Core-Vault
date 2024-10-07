@@ -15,7 +15,7 @@ license: OGL
 ---
 # Air Cushion `pf2:r`
 ## Feat 1
-### [[air]][[impulse]][[kineticist]][[primal]]
+### [[3-Rules/trait_reference/air]][[impulse]][[kineticist]][[primal]]
 
 **Category** class; 
 

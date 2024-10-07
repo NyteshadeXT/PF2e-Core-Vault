@@ -16,7 +16,7 @@ license: ORC
 ---
 # Viperous Elixir (Greater)
 ## Item 11
-### [[alchemical]][[consumable]][[elixir]][[morph]][[poison]]
+### [[alchemical]][[consumable]][[elixir]][[morph]][[3-Rules/trait_reference/poison]]
 
 **Category** other; 
 **Price** 225 gp; 

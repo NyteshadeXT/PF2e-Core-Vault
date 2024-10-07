@@ -13,7 +13,7 @@ license: OGL
 ---
 # Crystal Luminescence `pf2:1`
 ## Feat 1
-### [[concentrate]][[kashrishi]][[light]]
+### [[concentrate]][[kashrishi]][[3-Rules/trait_reference/light]]
 
 **Category** ancestry; 
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Propelling Winds `pf2:2`
 
-### [[air]]
+### [[3-Rules/trait_reference/air]]
 
 **Category** offensive; 
 

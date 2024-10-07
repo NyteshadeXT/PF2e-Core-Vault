@@ -12,7 +12,7 @@ license: OGL
 ---
 # Harden Flesh `pf2:1`
 ## Feat 10
-### [[druid]][[earth]]
+### [[druid]][[3-Rules/trait_reference/earth]]
 
 **Category** class; 
 

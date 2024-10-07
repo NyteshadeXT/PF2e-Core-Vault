@@ -17,7 +17,7 @@ license: OGL
 ---
 # Architect of Flame `pf2:3`
 ## Feat 12
-### [[fire]][[impulse]][[kineticist]][[manipulate]][[overflow]][[primal]]
+### [[3-Rules/trait_reference/fire]][[impulse]][[kineticist]][[manipulate]][[overflow]][[primal]]
 
 **Category** class; 
 

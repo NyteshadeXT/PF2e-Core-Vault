@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[PF2e Journals/Hero Point Deck/Desperate Swing|Desperate Swing]]
+Granted by [[Desperate Swing|Desperate Swing]]
 
 Make a Strike, ignoring the multiple attack penalty. If you roll a critical success, you get a normal success instead. If the attack fails, you release your weapon, or drop Prone if you were using an unarmed attack or otherwise can't release your weapon.
 

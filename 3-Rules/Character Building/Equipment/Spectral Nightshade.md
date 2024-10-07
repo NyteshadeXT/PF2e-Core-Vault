@@ -14,7 +14,7 @@ license: OGL
 ---
 # Spectral Nightshade
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[ingested]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[ingested]][[3-Rules/trait_reference/poison]]
 
 **Category** poison; 
 **Price** 450 gp; 

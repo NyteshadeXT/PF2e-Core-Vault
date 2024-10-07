@@ -11,7 +11,7 @@ license: OGL
 ---
 # (Mana Wastes Mutant) Eldritch Attraction
 
-### [[mental]]
+### [[3-Rules/trait_reference/mental]]
 
 **Category** offensive; 
 

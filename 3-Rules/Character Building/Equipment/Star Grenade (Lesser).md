@@ -16,7 +16,7 @@ license: OGL
 ---
 # Star Grenade (Lesser)
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[fire]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/fire]][[splash]]
 
 |  |  |
 | -- | -- |

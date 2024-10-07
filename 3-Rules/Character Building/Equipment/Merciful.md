@@ -11,7 +11,7 @@ license: OGL
 ---
 # Merciful
 ## Item 4
-### [[magical]][[mental]]
+### [[magical]][[3-Rules/trait_reference/mental]]
 
 
 **Price** 70 gp; 

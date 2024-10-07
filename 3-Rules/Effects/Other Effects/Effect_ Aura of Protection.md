@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[PF2e Journals/Hero Point Deck/Aura of Protection|Aura of Protection]]
+Granted by [[Aura of Protection|Aura of Protection]]
 
 Until the start of your next turn, you gain resistance to all damage equal to the rank of the spell that you just cast.
 

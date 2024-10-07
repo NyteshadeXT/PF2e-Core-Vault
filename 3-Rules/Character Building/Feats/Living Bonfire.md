@@ -17,7 +17,7 @@ license: OGL
 ---
 # Living Bonfire `pf2:2`
 ## Feat 4
-### [[composite]][[fire]][[impulse]][[kineticist]][[primal]][[wood]]
+### [[composite]][[3-Rules/trait_reference/fire]][[impulse]][[kineticist]][[primal]][[Wood]]
 
 **Category** class; 
 

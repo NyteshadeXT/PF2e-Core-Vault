@@ -13,7 +13,7 @@ license: OGL
 ---
 # Thorn Triad
 ## Item 4
-### [[magical]][[spellheart]][[wood]]
+### [[magical]][[spellheart]][[Wood]]
 
 
 **Price** 90 gp; 

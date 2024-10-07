@@ -16,7 +16,7 @@ license: OGL
 ---
 # Noisemaker Snare
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[fire]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[3-Rules/trait_reference/fire]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 6 gp; 

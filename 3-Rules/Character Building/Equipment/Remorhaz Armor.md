@@ -14,7 +14,7 @@ license: OGL
 ---
 # Remorhaz Armor
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fire]][[invested]][[laminar]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/fire]][[invested]][[laminar]][[magical]]
 
 **Category** medium; **Group** skeletal
 **Price** 975 gp; 

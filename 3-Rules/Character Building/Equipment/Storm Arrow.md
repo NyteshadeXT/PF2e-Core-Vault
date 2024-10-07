@@ -15,7 +15,7 @@ license: ORC
 ---
 # Storm Arrow
 ## Item 9
-### [[air]][[consumable]][[electricity]][[magical]]
+### [[3-Rules/trait_reference/air]][[consumable]][[3-Rules/trait_reference/electricity]][[magical]]
 
 **Category** ammo; 
 **Price** 130 gp; 

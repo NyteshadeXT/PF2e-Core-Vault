@@ -14,7 +14,7 @@ license: OGL
 ---
 # Repulsion Resin
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[ingested]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[ingested]][[3-Rules/trait_reference/poison]]
 
 **Category** poison; 
 **Price** 1650 gp; 

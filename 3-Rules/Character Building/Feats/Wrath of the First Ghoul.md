@@ -16,7 +16,7 @@ license: OGL
 ---
 # Wrath of the First Ghoul `pf2:2`
 ## Feat 20
-### [rare](rare "Rare Rarity Trait")[[archetype]][[death]][[divine]][[flourish]][[mental]][[occult]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[death]][[divine]][[flourish]][[3-Rules/trait_reference/mental]][[occult]]
 
 **Category** class; 
 

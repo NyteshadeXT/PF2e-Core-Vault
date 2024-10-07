@@ -17,7 +17,7 @@ license: ORC
 ---
 # Storm Flash
 ## Item 14
-### [[deadly-d8]][[disarm]][[electricity]][[finesse]][[magical]]
+### [[deadly-d8]][[disarm]][[3-Rules/trait_reference/electricity]][[finesse]][[magical]]
 
 |  |  |
 | -- | -- |

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Tidal Crossbow
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[magical]][[water]]
+### [rare](rare "Rare Rarity Trait")[[magical]][[3-Rules/trait_reference/water]]
 
 |  |  |
 | -- | -- |

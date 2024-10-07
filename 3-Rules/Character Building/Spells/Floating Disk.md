@@ -13,7 +13,7 @@ aliases: "Compendium.pf2e.spells-srd.Item.LvezN4a3kYf1OHMg"
 ---
 # Floating Disk  `pf2:2`  
 ## Spell 1
-### [[concentrate]][[force]][[manipulate]]
+### [[concentrate]][[3-Rules/trait_reference/force]][[manipulate]]
 **Traditions** [[arcane]], [[occult]]
 **Duration** 8 hours
 * * * 

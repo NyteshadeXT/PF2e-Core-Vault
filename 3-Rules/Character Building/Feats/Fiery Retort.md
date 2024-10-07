@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fiery Retort `pf2:r`
 ## Feat 8
-### [[druid]][[fire]]
+### [[druid]][[3-Rules/trait_reference/fire]]
 
 **Category** class; 
 

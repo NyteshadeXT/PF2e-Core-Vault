@@ -15,7 +15,7 @@ license: OGL
 ---
 # Searing Restoration `pf2:1`
 ## Feat 2
-### [[fire]][[healing]][[inventor]][[manipulate]][[unstable]]
+### [[3-Rules/trait_reference/fire]][[healing]][[inventor]][[manipulate]][[unstable]]
 
 **Category** class; 
 

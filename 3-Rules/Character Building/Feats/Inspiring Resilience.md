@@ -14,7 +14,7 @@ license: OGL
 ---
 # Inspiring Resilience `pf2:r`
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[bard]][[champion]][[emotion]][[mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[bard]][[champion]][[emotion]][[3-Rules/trait_reference/mental]]
 
 **Category** class; 
 

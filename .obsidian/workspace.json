@@ -13,20 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Templates/3_Dataview Templates/3_Dataview Templates.md",
-                "mode": "preview",
+                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "c26504601772491e",
+            "id": "46dee8091c39466a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Templates/3_Dataview Templates/Query Outgoing Links.md",
-                "mode": "preview",
+                "file": "3-Rules/Hazards/Homebrew/false-elevator-hb.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 348.5
   },
   "right": {
     "id": "414a1381b9bc07e4",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zz-Templates/3_Dataview Templates/3_Dataview Templates.md",
+                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zz-Templates/3_Dataview Templates/3_Dataview Templates.md",
+                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zz-Templates/3_Dataview Templates/3_Dataview Templates.md"
+                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md"
               }
             }
           },
@@ -171,10 +171,24 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "1671e74fcd609ffc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24ac266e1111c9af",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 370.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,51 +212,51 @@
   },
   "active": "6de5711fd0245399",
   "lastOpenFiles": [
-    "zz-Templates/3_Dataview Templates/Query Outgoing Links.md",
-    "zz-Templates/3_Dataview Templates/3_Dataview Templates.md",
-    "zz_Attachments/Misc/PlaceholderImage.png",
-    "zz_Attachments/Zerathos.png",
-    "zz_Attachments/Vorthron.png",
-    "zz_Attachments/Verena.png",
-    "zz_Attachments/Valorus.png",
-    "zz_Attachments/Thalor.png",
-    "zz_Attachments/Sylvan.png",
-    "zz_Attachments/Pasted image 20240714233012.png",
-    "zz_Attachments/Pasted image 20240714232950.png",
-    "zz_Attachments/Pasted image 20240714232627.png",
-    "zz_Attachments/Misc",
+    "3-Rules/Hazards/Homebrew/false-elevator-hb.md",
+    "4-Campaign/Age of Worms/The Whispering Cairn.md",
+    "3-Rules/Hazards/Homebrew/gout-of-flame-hb.md",
+    "3-Rules/Hazards/Homebrew/mantrap_patch-hb.md",
+    "3-Rules/Hazards/Homebrew/lightning-hallway-hb.md",
+    "3-Rules/Hazards/Homebrew/force-burst-wall-hb.md",
+    "3-Rules/Skills.md",
+    "4-Campaign/Age of Worms",
+    "3-Rules/Journals/Remaster Changes/Remaster Changes.md",
+    "3-Rules/Journals/GM Screen/GM Screen.md",
+    "3-Rules/Journals/Hero Point Deck/Hero Point Deck.md",
+    "3-Rules/Journals/Domains/Domains.md",
+    "3-Rules/GM Tools/Creature Family Ability Glossary/(Beheaded) Bleeding.md",
+    "3-Rules/Journals/PF2e Journals/Deep Backgrounds/Deep Backgrounds.md",
+    "3-Rules/Journals/PF2e Journals/Classes/Classes.md",
+    "3-Rules/Journals/PF2e Journals/Archetypes/Archetypes.md",
+    "3-Rules/Journals/PF2e Journals/Ancestries/Anadi.md",
+    "3-Rules/Journals/PF2e Journals/Ancestries/Ancestries.md",
+    "3-Rules/GM Tools/Divine Intercessions/Abadar - Major Boon.md",
+    "3-Rules/GM Tools/Pathfinder Society Boons/Academic Conference.md",
+    "3-Rules/Character Building/Familiar Abilities/Ambassador.md",
+    "3-Rules/Character Building/Familiar Abilities/Amphibious.md",
+    "3-Rules/Character Building/Familiar Abilities/Damage Avoidance_ Fortitude.md",
+    "3-Rules/Character Building/Familiar Abilities/Burrower.md",
+    "3-Rules/Character Building/Familiar Abilities/Absorb Familiar.md",
+    "3-Rules/Character Building/Class Features/Agile Mind.md",
+    "3-Rules/Character Building/Class Features/Advanced Vials (Toxicologist).md",
+    "zz_Attachments/Sarcophagus.png",
+    "zz_Attachments/sarcophagous.png",
+    "zz_Attachments/Lantern.PNG",
+    "3-Rules/afflictions",
+    "3-Rules/hazards/Homebrew",
+    "3-Rules/hazards",
+    "zz_Attachments/Diamond Lake.webp",
+    "zz_Attachments/Whispering Cairn.webp",
+    "zz_Attachments/Broken Portal.webp",
+    "zz_Attachments/Aetheria Fracta Intro.png",
+    "zz_Attachments/Pasted image 20240714230832.png",
+    "zz_Attachments/Pasted image 20240714232119.png",
+    "zz_Attachments/Pasted image 20240714232251.png",
+    "4-Campaign",
+    "zz_Attachments/Assets",
     "zz_Attachments",
-    "Dungeons and Dungeon Seeds.md",
-    "Cores and Crystals.md",
-    "Aetheria Fracta.md",
-    "zz_Templates/GM Templates/Lore/Calendar/Template - Year.md",
-    "zz_Templates/GM Templates/Lore/Calendar/Template - Month.md",
-    "zz_Templates/GM Templates/Lore/Calendar/Template - Event.md",
-    "zz_Templates/GM Templates/Lore/Calendar/Template - Era.md",
-    "zz_Templates/GM Templates/Lore/Calendar",
-    "zz_Templates/GM Templates/Story Notes/Template - Session Note.md",
-    "zz_Templates/Markdown/Insert Rollable Table/Rollable Table - Travel & Encounter.md",
-    "zz_Templates/GM Templates/Story Notes/Template - Quest.md",
-    "zz_Templates/GM Templates/Story Notes/Template - Service.md",
-    "zz_Templates/GM Templates/Story Notes/Template - Rumour.md",
-    "zz_Templates/GM Templates/Story Notes/Template - Adventure.md",
-    "zz_Templates/GM Templates/Story Notes/Template - Journey Board.md",
-    "zz_Templates/GM Templates/Locations/Template - Settlement.md",
-    "zz_Templates/GM Templates/Locations/Template - Point of Interest.md",
-    "zz_Templates/GM Templates/Locations/Template - Planet.md",
-    "zz_Templates/GM Templates/Locations/Template - Geography.md",
-    "zz_Templates/GM Templates/Locations/Template - Plane.md",
-    "zz_Templates/GM Templates/Locations/Template - County.md",
-    "zz_Templates/GM Templates/Locations/Template - District.md",
-    "zz_Templates/GM Templates/Items/Template - Literature.md",
-    "zz_Templates/GM Templates/Items/Template - Letter.md",
-    "zz_Templates/GM Templates/Characters/Template - Player.md",
-    "zz_Templates/Markdown/Insert Rollable Table",
-    "zz_Templates/GM Templates/Lore",
-    "zz_Templates/GM Templates/Story Notes",
-    "zz_Templates/GM Templates/Locations",
-    "zz_Templates/GM Templates/Items",
-    "zz_Templates/GM Templates/Characters",
-    "zz_Templates/Markdown"
+    "zz-Templates/GM Templates/Lore/Calendar",
+    "zz-Templates/Markdown/Insert Rollable Table 1",
+    "zz-Templates/GM Templates/Lore"
   ]
 }

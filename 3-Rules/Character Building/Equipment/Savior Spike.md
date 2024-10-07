@@ -15,7 +15,7 @@ license: ORC
 ---
 # Savior Spike
 ## Item 2
-### [[consumable]][[force]][[magical]][[talisman]]
+### [[consumable]][[3-Rules/trait_reference/force]][[magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 7 gp; 

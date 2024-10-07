@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Lich) Blasphemous Utterances
 
-### [[arcane]][[aura]][[mental]]
+### [[arcane]][[aura]][[3-Rules/trait_reference/mental]]
 
 **Category** defensive; 
 

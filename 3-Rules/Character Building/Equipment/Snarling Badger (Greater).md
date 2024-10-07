@@ -14,7 +14,7 @@ license: OGL
 ---
 # Snarling Badger (Greater)
 ## Item 18
-### [[consumable]][[magical]][[mental]][[talisman]]
+### [[consumable]][[magical]][[3-Rules/trait_reference/mental]][[talisman]]
 
 **Category** talisman; 
 **Price** 5000 gp; 

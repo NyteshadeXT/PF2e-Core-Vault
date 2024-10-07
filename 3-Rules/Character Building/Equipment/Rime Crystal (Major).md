@@ -12,7 +12,7 @@ license: OGL
 ---
 # Rime Crystal (Major)
 ## Item 13
-### [[cold]][[magical]][[spellheart]]
+### [[3-Rules/trait_reference/cold]][[magical]][[spellheart]]
 
 
 **Price** 2800 gp; 

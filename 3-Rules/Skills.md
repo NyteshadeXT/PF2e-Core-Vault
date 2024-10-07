@@ -1,4 +1,4 @@
-# ACROBATICS
+# Acrobatics
 Acrobatics measures your ability to perform tasks requiring coordination and grace. When you use the Escape basic action (page 416), you can use your Acrobatics modifier instead of your unarmed attack modifier. You can also use it for the basic actions Arrest a Fall (page 418) and Grab an Edge (page 418) instead of Reflex.
 
 #### BALANCE  `PF2:1`
@@ -59,7 +59,7 @@ You contort yourself to squeeze through a space so small you can barely fit thro
 > Trained space barely fitting your shoulders
 > Master space barely fitting your head
 
-# ARCANA
+# Arcana
 Arcana measures how much you know about arcane magic and creatures. Even if you’re untrained, you can Recall Knowledge.
 - Recall Knowledge (page 231) about arcane theories; magic traditions; creatures of arcane significance (like constructs, beasts, and elementals); and the Astral Plane, Elemental Planes, and the Netherworld.
 

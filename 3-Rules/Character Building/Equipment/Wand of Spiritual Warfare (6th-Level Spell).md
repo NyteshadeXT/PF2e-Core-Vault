@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Spiritual Warfare (6th-Level Spell)
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[force]][[magical]][[wand]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/force]][[magical]][[wand]]
 
 
 **Price** 6500 gp; 

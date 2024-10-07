@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Path Maiden) Corrupting Doubt
 
-### [[emotion]][[mental]][[occult]]
+### [[emotion]][[3-Rules/trait_reference/mental]][[occult]]
 
 **Category** offensive; 
 

@@ -19,7 +19,7 @@ license: OGL
 ---
 # Monarch
 ## Item 6
-### [unique](unique "Unique Rarity Trait")[[agile]][[air]][[deadly-d6]][[divine]][[finesse]][[relic]][[thrown-20]][[versatile-s]]
+### [unique](unique "Unique Rarity Trait")[[agile]][[3-Rules/trait_reference/air]][[deadly-d6]][[divine]][[finesse]][[relic]][[thrown-20]][[versatile-s]]
 
 |  |  |
 | -- | -- |

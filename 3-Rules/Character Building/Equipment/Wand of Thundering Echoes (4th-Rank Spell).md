@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Thundering Echoes (4th-Rank Spell)
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[sonic]][[wand]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[3-Rules/trait_reference/sonic]][[wand]]
 
 
 **Price** 1500 gp; 

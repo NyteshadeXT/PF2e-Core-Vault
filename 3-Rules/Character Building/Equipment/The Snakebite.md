@@ -14,7 +14,7 @@ license: OGL
 ---
 # The Snakebite
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[invested]][[magical]][[poison]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[invested]][[magical]][[3-Rules/trait_reference/poison]]
 
 
 **Price** 0 gp; 

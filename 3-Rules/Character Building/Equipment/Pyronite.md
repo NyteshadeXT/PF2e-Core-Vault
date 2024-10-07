@@ -13,7 +13,7 @@ license: OGL
 ---
 # Pyronite
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[fire]]
+### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[3-Rules/trait_reference/fire]]
 
 **Category** other; 
 **Price** 250 gp; 

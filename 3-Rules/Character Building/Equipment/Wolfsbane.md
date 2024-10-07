@@ -15,7 +15,7 @@ license: ORC
 ---
 # Wolfsbane
 ## Item 10
-### [[alchemical]][[consumable]][[ingested]][[poison]]
+### [[alchemical]][[consumable]][[ingested]][[3-Rules/trait_reference/poison]]
 
 **Category** poison; 
 **Price** 155 gp; 

@@ -17,7 +17,7 @@ license: OGL
 ---
 # Obsidian Edge (Greater)
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[fire]][[kickback]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[3-Rules/trait_reference/fire]][[kickback]][[magical]]
 
 |  |  |
 | -- | -- |

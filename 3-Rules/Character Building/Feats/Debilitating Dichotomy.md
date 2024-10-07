@@ -16,7 +16,7 @@ license: ORC
 ---
 # Debilitating Dichotomy `pf2:2`
 ## Feat 8
-### [[concentrate]][[cursebound]][[divine]][[mental]][[oracle]]
+### [[concentrate]][[cursebound]][[divine]][[3-Rules/trait_reference/mental]][[oracle]]
 
 **Category** class; 
 

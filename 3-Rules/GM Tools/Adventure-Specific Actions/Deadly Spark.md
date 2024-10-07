@@ -12,7 +12,7 @@ license: OGL
 ---
 # Deadly Spark `pf2:2`
 
-### [[air]][[electricity]]
+### [[3-Rules/trait_reference/air]][[3-Rules/trait_reference/electricity]]
 
 **Category** offensive; 
 

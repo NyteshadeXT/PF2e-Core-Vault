@@ -14,7 +14,7 @@ license: ORC
 ---
 # Beastmaster Bond
 ## Feat 10
-### [[archetype]][[mental]][[primal]]
+### [[archetype]][[3-Rules/trait_reference/mental]][[primal]]
 
 **Category** class; 
 

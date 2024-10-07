@@ -15,7 +15,7 @@ aliases: "Compendium.pf2e.spells-srd.Item.mm3hZ6jgaJaKK16n"
 ---
 # Litany of Self-Interest  `pf2:1`  
 ## Focus 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[champion]][[concentrate]][[focus]][[litany]][[mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[champion]][[concentrate]][[focus]][[litany]][[3-Rules/trait_reference/mental]]
 
 **Range** 30 feet
 **Targets** 1 creature

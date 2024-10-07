@@ -15,7 +15,7 @@ license: OGL
 ---
 # Shiver
 ## Item 3
-### [[alchemical]][[consumable]][[drug]][[ingested]][[poison]]
+### [[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/trait_reference/poison]]
 
 **Category** drug; 
 **Price** 10 gp; 

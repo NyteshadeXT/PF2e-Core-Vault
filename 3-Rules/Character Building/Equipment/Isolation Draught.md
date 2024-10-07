@@ -14,7 +14,7 @@ license: OGL
 ---
 # Isolation Draught
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[3-Rules/trait_reference/poison]]
 
 **Category** poison; 
 **Price** 55 gp; 

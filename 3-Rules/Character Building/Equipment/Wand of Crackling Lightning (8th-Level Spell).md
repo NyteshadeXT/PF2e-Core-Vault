@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Crackling Lightning (8th-Level Spell)
 ## Item 18
-### [[electricity]][[magical]][[wand]]
+### [[3-Rules/trait_reference/electricity]][[magical]][[wand]]
 
 
 **Price** 24000 gp; 

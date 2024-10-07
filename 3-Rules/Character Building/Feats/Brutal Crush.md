@@ -14,7 +14,7 @@ license: ORC
 ---
 # Brutal Crush `pf2:1`
 ## Feat 4
-### [[barbarian]][[druid]][[mental]]
+### [[barbarian]][[druid]][[3-Rules/trait_reference/mental]]
 
 **Category** class; 
 

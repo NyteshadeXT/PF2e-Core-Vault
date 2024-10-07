@@ -16,7 +16,7 @@ license: OGL
 ---
 # Frightful Moan `pf2:2`
 ## Feat 4
-### [[archetype]][[auditory]][[divine]][[emotion]][[fear]][[mental]]
+### [[archetype]][[auditory]][[divine]][[emotion]][[fear]][[3-Rules/trait_reference/mental]]
 
 **Category** class; 
 

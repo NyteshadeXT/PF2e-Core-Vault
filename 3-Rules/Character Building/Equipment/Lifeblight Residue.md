@@ -15,7 +15,7 @@ license: OGL
 ---
 # Lifeblight Residue
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[injury]][[poison]][[virulent]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[injury]][[3-Rules/trait_reference/poison]][[virulent]]
 
 **Category** poison; 
 **Price** 1100 gp; 

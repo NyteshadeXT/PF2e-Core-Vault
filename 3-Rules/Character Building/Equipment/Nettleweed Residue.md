@@ -15,7 +15,7 @@ license: ORC
 ---
 # Nettleweed Residue
 ## Item 8
-### [[alchemical]][[consumable]][[contact]][[poison]]
+### [[alchemical]][[consumable]][[contact]][[3-Rules/trait_reference/poison]]
 
 **Category** poison; 
 **Price** 75 gp; 

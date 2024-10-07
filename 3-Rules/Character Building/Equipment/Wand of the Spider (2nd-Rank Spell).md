@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wand of the Spider (2nd-Rank Spell)
 ## Item 7
-### [[magical]][[poison]][[wand]]
+### [[magical]][[3-Rules/trait_reference/poison]][[wand]]
 
 
 **Price** 360 gp; 

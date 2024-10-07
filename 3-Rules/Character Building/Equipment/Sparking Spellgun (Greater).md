@@ -15,7 +15,7 @@ license: OGL
 ---
 # Sparking Spellgun (Greater)
 ## Item 13
-### [[attack]][[consumable]][[fire]][[magical]][[spellgun]]
+### [[attack]][[consumable]][[3-Rules/trait_reference/fire]][[magical]][[spellgun]]
 
 **Category** other; 
 **Price** 600 gp; 

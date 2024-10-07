@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Rolling Flames (8th-level)
 ## Item 18
-### [[fire]][[magical]][[wand]]
+### [[3-Rules/trait_reference/fire]][[magical]][[wand]]
 
 
 **Price** 24000 gp; 

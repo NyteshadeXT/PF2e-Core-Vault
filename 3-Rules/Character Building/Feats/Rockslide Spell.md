@@ -14,7 +14,7 @@ license: OGL
 ---
 # Rockslide Spell `pf2:1`
 ## Feat 10
-### [[archetype]][[earth]][[spellshape]]
+### [[archetype]][[3-Rules/trait_reference/earth]][[spellshape]]
 
 **Category** class; 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Burning Spell `pf2:1`
 ## Feat 6
-### [[archetype]][[fire]][[spellshape]]
+### [[archetype]][[3-Rules/trait_reference/fire]][[spellshape]]
 
 **Category** class; 
 

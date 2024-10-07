@@ -11,7 +11,7 @@ license: OGL
 ---
 # Underground Bounty
 
-### [[earth]]
+### [[3-Rules/trait_reference/earth]]
 
 **Category** offensive; 
 

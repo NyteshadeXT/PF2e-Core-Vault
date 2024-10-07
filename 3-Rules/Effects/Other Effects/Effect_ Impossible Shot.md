@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[PF2e Journals/Hero Point Deck/Impossible Shot|Impossible Shot]]
+Granted by [[Impossible Shot|Impossible Shot]]
 
 If you're attempting a Strike, double the range increment of the weapon or unarmed attack. If you're Casting a Spell, increase the range of the spell by half.
 

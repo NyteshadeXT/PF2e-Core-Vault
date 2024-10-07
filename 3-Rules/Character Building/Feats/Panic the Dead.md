@@ -15,7 +15,7 @@ license: ORC
 ---
 # Panic the Dead
 ## Feat 2
-### [[cleric]][[emotion]][[fear]][[mental]]
+### [[cleric]][[emotion]][[fear]][[3-Rules/trait_reference/mental]]
 
 **Category** class; 
 

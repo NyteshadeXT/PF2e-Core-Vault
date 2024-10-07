@@ -17,7 +17,7 @@ license: OGL
 ---
 # Tree of Duality `pf2:3`
 ## Feat 6
-### [[air]][[composite]][[impulse]][[kineticist]][[primal]][[wood]]
+### [[3-Rules/trait_reference/air]][[composite]][[impulse]][[kineticist]][[primal]][[Wood]]
 
 **Category** class; 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Lambent Perfume
 ## Item 6
-### [[censer]][[fire]][[magical]]
+### [[censer]][[3-Rules/trait_reference/fire]][[magical]]
 
 
 **Price** 250 gp; 

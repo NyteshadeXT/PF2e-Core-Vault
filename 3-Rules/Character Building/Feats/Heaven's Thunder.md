@@ -13,7 +13,7 @@ license: OGL
 ---
 # Heaven's Thunder `pf2:1`
 ## Feat 6
-### [[archetype]][[electricity]][[sonic]]
+### [[archetype]][[3-Rules/trait_reference/electricity]][[3-Rules/trait_reference/sonic]]
 
 **Category** class; 
 

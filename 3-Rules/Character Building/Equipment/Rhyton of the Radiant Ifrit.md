@@ -12,7 +12,7 @@ license: OGL
 ---
 # Rhyton of the Radiant Ifrit
 ## Item 14
-### [[fire]][[magical]]
+### [[3-Rules/trait_reference/fire]][[magical]]
 
 
 **Price** 4200 gp; 

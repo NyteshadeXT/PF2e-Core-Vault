@@ -15,7 +15,7 @@ license: OGL
 ---
 # Carver-cutter (True)
 ## Item 18
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[sweep]][[wood]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[sweep]][[Wood]]
 
 |  |  |
 | -- | -- |

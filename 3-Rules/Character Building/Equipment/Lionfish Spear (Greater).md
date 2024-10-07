@@ -15,7 +15,7 @@ license: OGL
 ---
 # Lionfish Spear (Greater)
 ## Item 14
-### [[magical]][[thrown-20]][[water]]
+### [[magical]][[thrown-20]][[3-Rules/trait_reference/water]]
 
 |  |  |
 | -- | -- |

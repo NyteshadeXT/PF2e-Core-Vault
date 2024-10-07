@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Smoldering Fireballs (3rd-Level Spell)
 ## Item 8
-### [[fire]][[magical]][[wand]]
+### [[3-Rules/trait_reference/fire]][[magical]][[wand]]
 
 
 **Price** 500 gp; 

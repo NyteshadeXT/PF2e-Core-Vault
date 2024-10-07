@@ -15,7 +15,7 @@ license: ORC
 ---
 # Cavalier's Banner
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[emotion]][[mental]][[visual]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[emotion]][[3-Rules/trait_reference/mental]][[visual]]
 
 **Category** class; 
 

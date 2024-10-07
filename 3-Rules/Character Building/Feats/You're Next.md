@@ -16,7 +16,7 @@ license: ORC
 ---
 # You're Next `pf2:r`
 ## Feat 1
-### [[emotion]][[fear]][[mental]][[rogue]][[swashbuckler]]
+### [[emotion]][[fear]][[3-Rules/trait_reference/mental]][[rogue]][[swashbuckler]]
 
 **Category** class; 
 

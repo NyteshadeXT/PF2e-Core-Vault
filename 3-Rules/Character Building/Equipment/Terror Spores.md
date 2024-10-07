@@ -14,7 +14,7 @@ license: OGL
 ---
 # Terror Spores
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/trait_reference/poison]]
 
 **Category** poison; 
 **Price** 110 gp; 

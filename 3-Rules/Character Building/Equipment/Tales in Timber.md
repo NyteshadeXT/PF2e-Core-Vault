@@ -14,7 +14,7 @@ license: OGL
 ---
 # Tales in Timber
 ## Item 10
-### [[invested]][[magical]][[wood]]
+### [[invested]][[magical]][[Wood]]
 
 **Category** medium; **Group** wood
 **Price** 1000 gp; 

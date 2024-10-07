@@ -12,7 +12,7 @@ license: OGL
 ---
 # Lingering Chill
 ## Feat 4
-### [rare](rare "Rare Rarity Trait")[[aftermath]][[cold]]
+### [rare](rare "Rare Rarity Trait")[[aftermath]][[3-Rules/trait_reference/cold]]
 
 **Category** class; 
 

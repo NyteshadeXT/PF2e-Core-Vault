@@ -14,7 +14,7 @@ license: OGL
 ---
 # Enchanting Arrow `pf2:2`
 ## Feat 8
-### [[archetype]][[emotion]][[magical]][[mental]]
+### [[archetype]][[emotion]][[magical]][[3-Rules/trait_reference/mental]]
 
 **Category** class; 
 

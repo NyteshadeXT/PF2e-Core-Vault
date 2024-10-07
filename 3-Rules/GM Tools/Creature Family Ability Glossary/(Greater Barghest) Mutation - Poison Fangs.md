@@ -11,7 +11,7 @@ license: OGL
 ---
 # (Greater Barghest) Mutation - Poison Fangs
 
-### [[poison]]
+### [[3-Rules/trait_reference/poison]]
 
 **Category** offensive; 
 

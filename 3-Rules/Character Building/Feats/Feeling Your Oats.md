@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feeling Your Oats `pf2:1`
 ## Feat 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[3-Rules/trait_reference/mental]]
 
 **Category** class; 
 

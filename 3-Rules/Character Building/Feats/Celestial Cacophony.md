@@ -16,7 +16,7 @@ license: ORC
 ---
 # Celestial Cacophony `pf2:3`
 ## Feat 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fire]][[inventor]][[manipulate]][[sonic]][[visual]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/fire]][[inventor]][[manipulate]][[3-Rules/trait_reference/sonic]][[visual]]
 
 **Category** class; 
 

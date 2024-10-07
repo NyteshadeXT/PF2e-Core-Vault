@@ -16,7 +16,7 @@ license: OGL
 ---
 # Shatterstone (Greater)
 ## Item 18
-### [[alchemical]][[bomb]][[consumable]][[sonic]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/sonic]][[splash]]
 
 |  |  |
 | -- | -- |

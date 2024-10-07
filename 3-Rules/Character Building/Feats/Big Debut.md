@@ -12,7 +12,7 @@ license: OGL
 ---
 # Big Debut `pf2:0`
 ## Feat 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[3-Rules/trait_reference/mental]]
 
 **Category** class; 
 

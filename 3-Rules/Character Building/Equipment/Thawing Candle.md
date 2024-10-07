@@ -14,7 +14,7 @@ license: OGL
 ---
 # Thawing Candle
 ## Item 8
-### [[consumable]][[fire]][[magical]]
+### [[consumable]][[3-Rules/trait_reference/fire]][[magical]]
 
 **Category** other; 
 **Price** 90 gp; 

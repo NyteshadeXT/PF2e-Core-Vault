@@ -15,7 +15,7 @@ license: OGL
 ---
 # Overloaded Brain Grenade
 ## Item 10
-### [unique](unique "Unique Rarity Trait")[[alchemical]][[consumable]][[fire]][[mental]][[splash]]
+### [unique](unique "Unique Rarity Trait")[[alchemical]][[consumable]][[3-Rules/trait_reference/fire]][[3-Rules/trait_reference/mental]][[splash]]
 
 **Category** other; 
 **Price** 200 gp; 

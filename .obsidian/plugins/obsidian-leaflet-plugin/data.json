@@ -10908,155 +10908,6 @@
       ]
     },
     {
-      "id": "update-me",
-      "lastAccessed": 1698323070295,
-      "markers": [
-        {
-          "id": "ID_f8bac8f928e9",
-          "type": "City",
-          "loc": [
-            -0.001877389220069264,
-            0.00670033738886789
-          ],
-          "link": "Ch1. The Great Grain Robbery#A1. CRYSTAL ROOM TRIVIAL 3",
-          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7676806138406399,
-            0.3225074178937334
-          ],
-          "description": "A wooden table covered with crystals of various size, including three particularly large ones measuring nearly four feet in diameter, sits against the southern wall of this storeroom. Stairs lead up to the north, while a wooden door is tucked into the wall to the southwest.",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_9b4a3bc80a28",
-          "type": "City",
-          "loc": [
-            -0.0024816064403214407,
-            0.0035389865757627505
-          ],
-          "link": "Ch1. The Great Grain Robbery#A2. WAX LABORATORY MODERATE 3",
-          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.4054738185824958,
-            0.4263029087101073
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_89786a3909f9",
-          "type": "City",
-          "loc": [
-            -0.0018182150447599687,
-            0.0013864627286143702
-          ],
-          "link": "Ch1. The Great Grain Robbery#A4. CLUTTERED STOREROOM",
-          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_0a481bbada38",
-          "type": "City",
-          "loc": [
-            -0.004186362168890082,
-            0.00650612471092969
-          ],
-          "link": "Ch1. The Great Grain Robbery#A3. DARIUS’S BEDROOM",
-          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7454290018452591,
-            0.7191544720848766
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_2b4af96bf979",
-          "type": "default",
-          "loc": [
-            -0.008189301253060754,
-            0.005696562774054017
-          ],
-          "link": "Dungeon#1 - Cave Entrance",
-          "layer": "%5B%5BDungeon-20231026224920033.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5837841093985989,
-            0.8385844483134213
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_8ad9f9dae928",
-          "type": "default",
-          "loc": [
-            -0.0048828125,
-            0.005088802789211646
-          ],
-          "link": "Dungeon#2 - Main Passage",
-          "layer": "%5B%5BDungeon-20231026224920033.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5215008281372547,
-            0.5
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_082ada195aeb",
-          "type": "default",
-          "loc": [
-            -0.00421142578125,
-            0.007423414331434669
-          ],
-          "link": "Dungeon#3 - Cavern A",
-          "layer": "%5B%5BDungeon-20231026224920033.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7607519650115754,
-            0.43125
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "z_Templates/4_Markdown/Insert Dungeon Map (Leaflet).md",
-        "2-World/Region/Dungeon/Dungeon.md"
-      ]
-    },
-    {
       "id": "map_CreepersCave",
       "lastAccessed": 1705746133011,
       "markers": [
@@ -11459,6 +11310,322 @@
       "shapes": [],
       "files": [
         "2-World/Lampoteuo/Lampoteuo.md"
+      ]
+    },
+    {
+      "id": "update-me",
+      "lastAccessed": 1727633847562,
+      "markers": [
+        {
+          "id": "ID_f8bac8f928e9",
+          "type": "City",
+          "loc": [
+            -0.001877389220069264,
+            0.00670033738886789
+          ],
+          "link": "Ch1. The Great Grain Robbery#A1. CRYSTAL ROOM TRIVIAL 3",
+          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7676806138406399,
+            0.3225074178937334
+          ],
+          "description": "A wooden table covered with crystals of various size, including three particularly large ones measuring nearly four feet in diameter, sits against the southern wall of this storeroom. Stairs lead up to the north, while a wooden door is tucked into the wall to the southwest.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b4a3bc80a28",
+          "type": "City",
+          "loc": [
+            -0.0024816064403214407,
+            0.0035389865757627505
+          ],
+          "link": "Ch1. The Great Grain Robbery#A2. WAX LABORATORY MODERATE 3",
+          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4054738185824958,
+            0.4263029087101073
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89786a3909f9",
+          "type": "City",
+          "loc": [
+            -0.0018182150447599687,
+            0.0013864627286143702
+          ],
+          "link": "Ch1. The Great Grain Robbery#A4. CLUTTERED STOREROOM",
+          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a481bbada38",
+          "type": "City",
+          "loc": [
+            -0.004186362168890082,
+            0.00650612471092969
+          ],
+          "link": "Ch1. The Great Grain Robbery#A3. DARIUS’S BEDROOM",
+          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7454290018452591,
+            0.7191544720848766
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b4af96bf979",
+          "type": "default",
+          "loc": [
+            -0.008189301253060754,
+            0.005696562774054017
+          ],
+          "link": "Dungeon#1 - Cave Entrance",
+          "layer": "%5B%5BDungeon-20231026224920033.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5837841093985989,
+            0.8385844483134213
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8ad9f9dae928",
+          "type": "default",
+          "loc": [
+            -0.0048828125,
+            0.005088802789211646
+          ],
+          "link": "Dungeon#2 - Main Passage",
+          "layer": "%5B%5BDungeon-20231026224920033.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5215008281372547,
+            0.5
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_082ada195aeb",
+          "type": "default",
+          "loc": [
+            -0.00421142578125,
+            0.007423414331434669
+          ],
+          "link": "Dungeon#3 - Cavern A",
+          "layer": "%5B%5BDungeon-20231026224920033.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7607519650115754,
+            0.43125
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b180a5abbcb",
+          "type": "Encounter",
+          "loc": [
+            -0.006109619280323386,
+            0.001307601784406432
+          ],
+          "link": "The Whispering Cairn.md#",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.45102626601505225,
+            0.8281282505796762
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4-Campaign/The Whispering Cairn.md"
+      ]
+    },
+    {
+      "id": "Whispering Cairn",
+      "lastAccessed": 1728137502943,
+      "markers": [
+        {
+          "id": "ID_a8393b2809ab",
+          "type": "Encounter",
+          "loc": [
+            -0.006138610653579235,
+            0.0012709594202910141
+          ],
+          "link": "The Whispering Cairn#1. Cowards Rest",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.43838735035890475,
+            0.8320578858179292
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e998cb4bbaca",
+          "type": "Encounter",
+          "loc": [
+            -0.005503845401108265,
+            0.0010572144706104763
+          ],
+          "link": "The Whispering Cairn#2. Transport Alcove",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3646610923469904,
+            0.7460186395181618
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39ea894a7b88",
+          "type": "Encounter",
+          "loc": [
+            -0.00550079345703125,
+            0.0016250436204697447
+          ],
+          "link": "The Whispering Cairn#3. Collapsed Passage",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5605203090058167,
+            0.7456049638055843
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a3b39980a5a",
+          "type": "Encounter",
+          "loc": [
+            -0.0046295165084302425,
+            0.0014251708053052425
+          ],
+          "link": "The Whispering Cairn#4. Hall of Honor",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4915789152446546,
+            0.627507743322615
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99d9aa4bab7b",
+          "type": "Encounter",
+          "loc": [
+            -0.004447841667570174,
+            0.001880645751953125
+          ],
+          "link": "The Whispering Cairn#5. Wolf Den",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f829191b68e8",
+          "type": "Encounter",
+          "loc": [
+            -0.00449371337890625,
+            0.00081634521484375
+          ],
+          "link": "The Whispering Cairn#6. Gallery of Seven Lanterns",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.28157894736842104,
+            0.609100310237849
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9d8db09eaeb",
+          "type": "Encounter",
+          "loc": [
+            -0.0026046752464026213,
+            0.0014373776502907276
+          ],
+          "link": "The Whispering Cairn#7. False Tomb",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4957893773129112,
+            0.353050665870201
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4-Campaign/Age of Worms/The Whispering Cairn.md"
       ]
     }
   ],

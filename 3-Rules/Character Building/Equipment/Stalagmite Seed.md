@@ -14,7 +14,7 @@ license: OGL
 ---
 # Stalagmite Seed
 ## Item 7
-### [[consumable]][[earth]][[magical]]
+### [[consumable]][[3-Rules/trait_reference/earth]][[magical]]
 
 **Category** other; 
 **Price** 60 gp; 

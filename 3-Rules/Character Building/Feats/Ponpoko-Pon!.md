@@ -14,7 +14,7 @@ license: ORC
 ---
 # Ponpoko-Pon! `pf2:2`
 ## Feat 13
-### [[primal]][[sonic]][[tanuki]]
+### [[primal]][[3-Rules/trait_reference/sonic]][[tanuki]]
 
 **Category** ancestry; 
 

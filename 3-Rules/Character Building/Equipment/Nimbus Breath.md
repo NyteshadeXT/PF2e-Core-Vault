@@ -15,7 +15,7 @@ license: OGL
 ---
 # Nimbus Breath
 ## Item 8
-### [[air]][[bottled-breath]][[consumable]][[electricity]]
+### [[3-Rules/trait_reference/air]][[bottled-breath]][[consumable]][[3-Rules/trait_reference/electricity]]
 
 **Category** other; 
 **Price** 80 gp; 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Visitant) Vengeful Presence
 
-### [[aura]][[emotion]][[mental]]
+### [[aura]][[emotion]][[3-Rules/trait_reference/mental]]
 
 **Category** defensive; 
 

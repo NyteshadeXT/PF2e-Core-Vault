@@ -15,7 +15,7 @@ license: OGL
 ---
 # Hypnotic Lure `pf2:2`
 ## Feat 5
-### [[concentrate]][[mental]][[nagaji]][[occult]][[visual]]
+### [[concentrate]][[3-Rules/trait_reference/mental]][[nagaji]][[occult]][[visual]]
 
 **Category** ancestry; 
 

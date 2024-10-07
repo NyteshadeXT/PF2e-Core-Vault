@@ -16,7 +16,7 @@ license: OGL
 ---
 # Redpitch Bomb (Greater)
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[bomb]][[consumable]][[fire]][[splash]]
+### [rare](rare "Rare Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/fire]][[splash]]
 
 |  |  |
 | -- | -- |

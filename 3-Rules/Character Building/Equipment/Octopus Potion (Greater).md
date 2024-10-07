@@ -16,7 +16,7 @@ license: OGL
 ---
 # Octopus Potion (Greater)
 ## Item 13
-### [[consumable]][[magical]][[morph]][[potion]][[water]]
+### [[consumable]][[magical]][[morph]][[potion]][[3-Rules/trait_reference/water]]
 
 **Category** other; 
 **Price** 500 gp; 

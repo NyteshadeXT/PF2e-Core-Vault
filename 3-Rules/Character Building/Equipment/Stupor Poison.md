@@ -16,7 +16,7 @@ license: OGL
 ---
 # Stupor Poison
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[incapacitation]][[injury]][[poison]][[sleep]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[incapacitation]][[injury]][[3-Rules/trait_reference/poison]][[sleep]]
 
 **Category** poison; 
 **Price** 16 gp; 

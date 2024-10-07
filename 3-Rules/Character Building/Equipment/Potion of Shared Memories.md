@@ -15,7 +15,7 @@ license: ORC
 ---
 # Potion of Shared Memories
 ## Item 1
-### [[consumable]][[magical]][[mental]][[potion]]
+### [[consumable]][[magical]][[3-Rules/trait_reference/mental]][[potion]]
 
 **Category** potion; 
 **Price** 4 gp; 

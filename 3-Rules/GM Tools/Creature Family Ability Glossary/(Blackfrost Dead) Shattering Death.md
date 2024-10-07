@@ -11,7 +11,7 @@ license: OGL
 ---
 # (Blackfrost Dead) Shattering Death
 
-### [[cold]]
+### [[3-Rules/trait_reference/cold]]
 
 **Category** offensive; 
 

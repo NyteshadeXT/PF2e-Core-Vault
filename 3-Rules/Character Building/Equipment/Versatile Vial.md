@@ -18,7 +18,7 @@ license: ORC
 ---
 # Versatile Vial
 ## Item 1
-### [[acid]][[alchemical]][[bomb]][[consumable]][[infused]][[splash]]
+### [[3-Rules/trait_reference/acid]][[alchemical]][[bomb]][[consumable]][[infused]][[splash]]
 
 |  |  |
 | -- | -- |

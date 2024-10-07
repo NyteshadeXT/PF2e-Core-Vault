@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of the Spider (2nd-Level Spell)
 ## Item 7
-### [[magical]][[poison]][[wand]]
+### [[magical]][[3-Rules/trait_reference/poison]][[wand]]
 
 
 **Price** 360 gp; 

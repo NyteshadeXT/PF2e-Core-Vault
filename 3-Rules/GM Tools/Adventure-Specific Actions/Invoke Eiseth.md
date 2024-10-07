@@ -15,7 +15,7 @@ license: OGL
 ---
 # Invoke Eiseth `pf2:1`
 
-### [[auditory]][[concentrate]][[emotion]][[linguistic]][[mental]]
+### [[auditory]][[concentrate]][[emotion]][[linguistic]][[3-Rules/trait_reference/mental]]
 
 **Category** offensive; 
 

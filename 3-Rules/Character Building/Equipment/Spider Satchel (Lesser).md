@@ -17,7 +17,7 @@ license: ORC
 ---
 # Spider Satchel (Lesser)
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[poison]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/poison]][[splash]]
 
 |  |  |
 | -- | -- |

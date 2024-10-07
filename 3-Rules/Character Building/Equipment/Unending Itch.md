@@ -15,7 +15,7 @@ license: OGL
 ---
 # Unending Itch
 ## Item 14
-### [[alchemical]][[consumable]][[injury]][[poison]][[virulent]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison]][[virulent]]
 
 **Category** poison; 
 **Price** 700 gp; 

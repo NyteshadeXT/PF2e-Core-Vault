@@ -16,7 +16,7 @@ license: OGL
 ---
 # Wand of Dumbfounding Doom (8th-level)
 ## Item 18
-### [[emotion]][[fear]][[incapacitation]][[magical]][[mental]][[prediction]][[wand]]
+### [[emotion]][[fear]][[incapacitation]][[magical]][[3-Rules/trait_reference/mental]][[prediction]][[wand]]
 
 
 **Price** 24000 gp; 

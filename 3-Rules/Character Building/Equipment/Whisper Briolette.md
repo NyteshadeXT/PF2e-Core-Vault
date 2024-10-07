@@ -14,7 +14,7 @@ license: OGL
 ---
 # Whisper Briolette
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[mental]][[talisman]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[3-Rules/trait_reference/mental]][[talisman]]
 
 **Category** talisman; 
 **Price** 55 gp; 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Shell of Easy Breathing (Greater)
 ## Item 9
-### [[magical]][[water]]
+### [[magical]][[3-Rules/trait_reference/water]]
 
 
 **Price** 700 gp; 

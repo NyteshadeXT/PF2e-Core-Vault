@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Fey Flames
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[light]][[magical]][[wand]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/light]][[magical]][[wand]]
 
 
 **Price** 360 gp; 

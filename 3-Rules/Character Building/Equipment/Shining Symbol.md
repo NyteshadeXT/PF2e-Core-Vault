@@ -13,7 +13,7 @@ license: ORC
 ---
 # Shining Symbol
 ## Item 3
-### [[divine]][[invested]][[light]]
+### [[divine]][[invested]][[3-Rules/trait_reference/light]]
 
 
 **Price** 55 gp; 

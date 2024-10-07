@@ -15,7 +15,7 @@ aliases: "Compendium.pf2e.spells-srd.Item.oo7YcRC2gcez81PV"
 ---
 # Ki Blast  `pf2:1` to `pf2:3`  
 ## Focus 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[focus]][[force]][[manipulate]][[monk]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[focus]][[3-Rules/trait_reference/force]][[manipulate]][[monk]]
 
 **Area** 15-foot cone
 **Saving Throw**  fortitude

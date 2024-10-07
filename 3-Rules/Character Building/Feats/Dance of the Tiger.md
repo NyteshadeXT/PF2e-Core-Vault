@@ -16,7 +16,7 @@ license: ORC
 ---
 # Dance of the Tiger `pf2:1`
 ## Feat 9
-### [[emotion]][[fear]][[mental]][[occult]][[wayang]]
+### [[emotion]][[fear]][[3-Rules/trait_reference/mental]][[occult]][[wayang]]
 
 **Category** ancestry; 
 

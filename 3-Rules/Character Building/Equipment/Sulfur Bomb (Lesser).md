@@ -17,7 +17,7 @@ license: OGL
 ---
 # Sulfur Bomb (Lesser)
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[acid]][[alchemical]][[bomb]][[consumable]][[olfactory]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/acid]][[alchemical]][[bomb]][[consumable]][[olfactory]][[splash]]
 
 |  |  |
 | -- | -- |

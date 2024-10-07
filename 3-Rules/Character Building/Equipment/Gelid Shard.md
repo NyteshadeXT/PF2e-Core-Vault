@@ -13,7 +13,7 @@ license: OGL
 ---
 # Gelid Shard
 ## Item 2
-### [rare](rare "Rare Rarity Trait")[[arcane]][[artifact]][[cold]][[invested]]
+### [rare](rare "Rare Rarity Trait")[[arcane]][[artifact]][[3-Rules/trait_reference/cold]][[invested]]
 
 
 **Price** 0 gp; 

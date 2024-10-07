@@ -19,7 +19,7 @@ license: OGL
 ---
 # Lightning Dash `pf2:2`
 ## Feat 4
-### [[air]][[electricity]][[impulse]][[kineticist]][[move]][[overflow]][[polymorph]][[primal]]
+### [[3-Rules/trait_reference/air]][[3-Rules/trait_reference/electricity]][[impulse]][[kineticist]][[move]][[overflow]][[polymorph]][[primal]]
 
 **Category** class; 
 

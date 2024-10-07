@@ -14,7 +14,7 @@ license: OGL
 ---
 # (Siabrae) Stony Shards
 
-### [[curse]][[earth]][[incapacitation]][[primal]]
+### [[curse]][[3-Rules/trait_reference/earth]][[incapacitation]][[primal]]
 
 **Category** offensive; 
 

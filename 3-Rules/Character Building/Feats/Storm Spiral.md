@@ -18,7 +18,7 @@ license: OGL
 ---
 # Storm Spiral `pf2:3`
 ## Feat 8
-### [[air]][[electricity]][[impulse]][[kineticist]][[overflow]][[primal]][[sonic]]
+### [[3-Rules/trait_reference/air]][[3-Rules/trait_reference/electricity]][[impulse]][[kineticist]][[overflow]][[primal]][[3-Rules/trait_reference/sonic]]
 
 **Category** class; 
 
