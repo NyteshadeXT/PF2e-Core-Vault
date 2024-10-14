@@ -3,6 +3,8 @@ tags:
   - "#Location"
   - "#Geography"
 art: zz_Attachments/Misc/PlaceholderImage.png
+total_xp: 206
+completed_xp: 0
 ---
 ![[Whispering Cairn Banner.png]]
 # Adventure Synopsis
@@ -110,7 +112,7 @@ If the PCs make too much noise in this area, there is a chance the wolves in [[T
 
 Every three rounds, allow the PCs a DC 10 [[Skills#Perception|Perception]] check to notice a faint flickering green light coming form the north ([[The Whispering Cairn#7. False Tomb|area 7G]]).
 
-## 4. Hall of Honor (Moderate)
+## 4. Hall of Honor (Level 1)
 > [!note]+ Read Aloud
 > The central hallway opens into a large chamber with wings leading to the east and west.  Across the chamber to the north yawns a twenty-foot-wide open arch draped from top to bottom in translucent cobwebs.  An eerie green light flickers from beyond the webs, casting strange shadows about this room.  The place smells of animal spoor and wet fur.
 > 
@@ -128,11 +130,12 @@ Even a casual inspection ([[Skills#Perception|Perception]] DC 8) reveals that th
 
 ```encounter
 name: Whispering Cairn - Hall of Honor
-party: Test Party
+party: Age of Worms
 creatures:
   - 2: Weak Wolf
   - Wolf
 ```
+- [ ] Moderate (80 XP)
 
 ### Tactics
 The wolves prefer to gang up on the nearest opponent taking advantage of their pack attack ability and using knockdown to put an enemy on the ground as soon as possible.  They then savage the prone opponent until it stops moving, at which point they move on the the next target.  If presented with multiple targets, they tend to choose the smallest or weakest-looking foe.
@@ -141,7 +144,7 @@ The wolves prefer to gang up on the nearest opponent taking advantage of their p
 The wolves dwell in the nearly blocked-off terminus of the east wing.  Medium or larger characters must get down on their hands and knees to negotiate the rubble passage. 
 
 ![[Lantern.PNG|left]]
-[[lantern.png|Show to Players]]
+[[Lantern.PNG|Show to Players]]
 
 > [!note]+ Read Aloud
 > The far side is rank with the smell of wild animals. Irregular piles of rubble litter the den, as do hundreds of bones and bone fragments from the creatures' past meals.  Most off these belong to animals, but a few are unmistakably human.
@@ -177,6 +180,7 @@ The sarcophagus rests upon a small raised platform carved in the shape of a styl
 
 > [!danger]+ Sarcophagus Trap
 > [[gout-of-flame-hb|Gout of Flame]]
+- [ ] Trap (4 XP)
 
 ### The Tunnels 
 The ceiling of these tunnels is 10 feet off the ground, but the alcove ceilings at the ends of he tunnels extend 40 feet, just within the shadowy radiance of a torch.  Unusually colored lanterns hang from long chains attached to the alcove ceilings dangling about 5 feet from the floor.  The indigo and red lanterns are missing.  Each lantern is worth about 12 gp.
@@ -219,11 +223,12 @@ The 60-foot shaft leading to area 15 is pitted and scarred, which makes climbing
 
 ```encounter
 name: Insects in the False Tomb
-party: Test Party
+party: Age of Worms
 creatures:
   - 1: Giant Silverfish
   - 2: Silverfish Swarm
 ```
+- [ ] Low (70 XP)
 
 **Blue:** The ceiling over the blue lantern is 50 feet high, unlike the other lantern shafts, which top out at 40 feet.  Anyone standing at the bottom of the shaft can make a DC 15 [[seek]] action to notice that the shaft ceiling is not visible in the radius of normal torchlight, unlike the ceilings of the other lantern alcoves.
 
@@ -235,6 +240,7 @@ A skeleton lies in a heap on the floor here.  A DC 15 [[Skills#Medicine|Medicien
 
 > [!danger]+ Trap
 > [[false-elevator-hb|False Elevator]]
+- [ ] Trap (4 XP)
 
 > [!tip]+ Treasure
 > A careful [[Seek]] action through the crushed bones and moldy clothes DC 10 turns up a pouch containing 10 gp, 4 sp and a small ruby worth 12 gp.
@@ -259,125 +265,6 @@ The physiology of the face is identical to that of the near-human sexless figure
 
 These marks were left by victims blown away by the blasting winds of the trap, leftovers of futile attempts to slow their trajectory by jamming a dagger into the floor.
 
-> [!metadata|metadata]- Metadata 
->> [!metadata|metadataoption]- System
->> #### System
->>  |
->> ---|---|
-> **Tags** | `INPUT[Tags][inlineListSuggester:tags]` |
->
->> [!metadata|metadataoption]- Art
->> #### Art
->>  |
->> ---|---|
-> **Art** | `INPUT[imageSuggester(optionQuery("")):art]` |
->
->> [!metadata|metadataoption]- Info
->> #### Info
->>  |
->> ---|---|
-> **Pronounced** |  `INPUT[textArea:pronounced]`
-> **Aliases** | `INPUT[list:aliases]` |
-> **Terrain** | `INPUT[Terrain][inlineListSuggester:terrain]` |
-> **Dominion** | `INPUT[inlineListSuggester(optionQuery(#Character OR #Organization AND !"z_Templates"), useLinks(partial)):dominion]` |
-> **Organizations** | `INPUT[inlineListSuggester(optionQuery(#Organization AND !"z_Templates"), useLinks(partial)):organization]` |
-> **Location** | `INPUT[inlineListSuggester(optionQuery(#Location AND !"z_Templates"), useLinks(partial)):location]` |
-
-> [!infobox]+
-> # `=this.file.name`
-> `VIEW[!\[\[{art}\]\]][text(renderMarkdown)]`
-> ###### Info
->  |
-> ---|---|
-> **Aliases** | `VIEW[{aliases}][text]` |
-> **Terrain** | `VIEW[{terrain}][text]` |
-> **Dominion** | `VIEW[{dominion}][link]` |
-> **Location** | `VIEW[{location}][link]` |
-
-# **`=this.file.name`** <span style="font-size: medium">"`VIEW[{pronounced}]`"</span>
-
-> [!kirk|info] Video Tutorial (Remove me)
-> <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8MI5JyiH-Wo?si=G-lpyB0tK_I479FF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
-
-> [!metadata|map]- Map
-> ```leaflet
-> id: TBD
-> image: [[PlaceholderImage.png]]
-> lock: true
-> recenter: true
-> noScrollZoom: false
-> ### Use this [LINK](https://docs.google.com/spreadsheets/d/1jKQxktYSUFcCJhEkAAPr1wMVBTqUdpEfA5XveUXI17I/edit?usp=sharing) to work out your map's bounds.
-> ### bounds: [[0,0], [0, 0]] (Remove the ### and these parentheses with the content within from this line to enable the bounds)
-> height: 600px
-> width: 640px
-> lat: 0
-> long: 0
-> minZoom: 1
-> maxZoom: 6.5
-> defaultZoom: 1
-> zoomDelta: 0.5
-> unit: miles
-> scale: 1
-> darkMode: false
-> ```
-
-> [!metadata|county]- Counties
-> ```dataview
-> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(terrain, ", ") AS Terrain, join(link(dominion), ", ") AS "Dominion"
-> FROM "Campaign"
-> WHERE econtains(location, this.file.link) AND contains(tags, "County")
-> SORT nation ASC, file.name ASC
-
-> [!metadata|settlements]- Settlements
-> ```dataview
-> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, settlementtype AS Type, defence AS Defences, join(link(dominion), ", ") AS "Dominion"
-> FROM "Campaign"
-> WHERE econtains(location, this.file.link) AND contains(tags, "Settlement")
-> SORT nation ASC, file.name ASC
-
-> [!metadata|location]- Locations
-> ```dataview
-> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(poitype, ", ") AS Type, join(link(organization), ", ") AS "Organization(s)", join(link(dominion), ", ") AS "Dominion"
-> FROM "Campaign"
-> WHERE econtains(location, this.file.link) AND contains(tags, "POI")
-> SORT tags DESC, poitype ASC, file.name ASC
-
-> [!metadata|organizations]- Organizations
-> ```dataview
-> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(organizationtype, ", ") AS Type
-> FROM "Campaign"
-> WHERE contains(location, this.file.link) AND contains(tags, "Organization")
-> SORT organizationtype ASC, file.name ASC
-
-> [!metadata|characters]- Characters
-> ```dataview
-> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(occupation, ", ") AS "Occupations", join(link(organization), ", ") AS "Organizations"
-> FROM "Campaign"
-> WHERE econtains(location, this.file.link) AND contains(tags, "Character") AND !contains(condition, "Dead")
-> SORT tags DESC, file.name ASC
-
-> [!metadata|rumour]- Rumours
-> ```dataview
-> TABLE without id file.link AS "Name", accuracy AS Accuracy, quicknote AS Notes
-> FROM "Campaign"
-> WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
-> SORT file.name ASC
-
-## Overview 
-
-> [!kirk|info] Prompt (Remove me)
-> Create an overview that encapsulates the spirit and character of this region. Explore its cultural diversity, geographical landmarks, societal values, and any defining aspects that contribute to its identity. What makes this region unique and distinct from others? Paint a vivid picture that captures the essence and allure of this land.
-
-## Current Events
-
-> [!kirk|info] Prompt (Remove me)
-> Capture the pulse of the present moment by examining current events. Dive into the ongoing occurrences, societal shifts, or global happenings that are shaping the world today. Analyze the trends, controversies, or innovations unfolding in real-time. What stories are making headlines, and how might these current events influence the future trajectory of the society?
-
-## History
-
-> [!kirk|info] Prompt (Remove me)
-> Delve into the historical legacy of the inhabitants of this region. Explore the diverse cultures, migrations, and societal developments that have shaped the people's identity and contributed to the region's tapestry. Investigate the stories of resilience, innovations, and cultural amalgamations that reflect the rich history within this region. How have the people's experiences and interactions shaped the course of this region's history?
-
 ## Notes
 
 > [!danger]+ Trap
@@ -388,7 +275,28 @@ These marks were left by victims blown away by the blasting winds of the trap, l
 > Blown away characters are knocked prone and tumble `dice: 1d4*10`  1d4x10 fee, taking `dice: 1d4` 1d4 points of nonlethal damage per 10 feet.  Flying characters are blown back `dice: 2d6*10` 2d6x10 feet and take `dice: 2d6` 2d6 points of nonlethal damage due to battering and buffeting.  Non-flying characters pushed over the edge of the shaft plummet to the floor below suffering `dice: 4d6` 4d6 points of damage upon impact.  Such characters may attempt to snatch the indigo lantern's chain with a successful DC 10 [[Skills#Acrobatics]] check or a DC 15 Reflex save, with success preventing the fall and the damage.
 > 
 > The wind continues at hurricane force for 10 minutes before it stops and the trap resets itself.  The only way through the face is to ignite torches in [[The Whispering Cairn#7. False Tomb]].  Once a torch has been lit, that color fails to appear in the face's hypnotic eyes.  When all torches have been lit, the trap is effectively disarmed.  The stone comprising the mouth's interior vanishes, allowing passage to the chamber beyond.
+- [ ] Trap (40 XP)
 
 # Lair of the Architect
 It took the Wind Duke architect Nadroc nearly a year of solid work to design and construct the Whispering Cairn.  During this period he dwelt within his work in progress, in a special series of chambers called the Lair of the Architect.  Due to the complexity of the elevator mechanism, this part of the cairn is not quite as looted as areas 1 - 7, and contains a number of treasures from Nadroc's time.  Ceilings in the Lair of the Architect reach a uniform height of 20 feet. Walls are made of solid stone.
+
+## 9. Architect's Foyer
+> [!note]+ Read Aloud
+> The walls here are covered in bas-relief images similar to the slender figure upon the sarcophagus lid in the chamber above.  Nearly a dozen androgynous, hairless humanoids stand in poses of deference, almost as if they are paying homage to the viewer.  Many extend their hands in adoration, their faces awash in adulation.  Several of the statues lack hands, arms, heads, or anything else easily hacked off by long absent tomb robbers.
+> 
+> About fifteen feet to the south, a dark passage extends from an elaborately carved arch.  Only a little of this hallway is visible, however, as a large stone block obscures most of the passage.
+
+The stone block is roughly 10 feet wide by 2 feet deep by 8 feet tall, and nearly seals off the passage to the south.  A large niche about the same size as the block opens in the ceiling 10 feet above.  A fine layer of dust covers everything in the room.  A character crawling upon the top of the block gains a decent view of the darkened hallway beyond, and is able to make out a handful of alcoves marking the walls of the tunnel at regular intervals.  Squeezing between the tip of the arch and the top of the stone slab requires a DC 25 [[skill#acrobatics|Acrobatics]] check.
+
+A button inset into the wall near the elevator shaft serves as a call button for the elevator.  Pressing it recalls the elevator to this area.
+
+> [!danger]+ Trap
+> The stone slab is far too heavy to lift, but up to four characters working together can topple it to the north with a successful DC 25 [[Skills#Athletics|Athletics]] check.  The slab rests upon a pressure plate set to trigger when the weight of the slab is removed.
+> 
+> A noxious green gas fills the room from valves hidden within the mouths of the adoring bas-reliefs lining the room's walls.
+> 
+> [[Trap]]
+- [ ] Trap (8 XP)
+
+
 

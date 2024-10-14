@@ -10,7 +10,6 @@
   "dataview",
   "obsidian-dice-roller",
   "obsidian-admonition",
-  "obsidian-excalidraw-plugin",
   "obsidian-import-json",
   "obsidian-style-settings",
   "obsidian42-brat",
@@ -31,5 +30,6 @@
   "obsidian-charts",
   "supercharged-links-obsidian",
   "pf2-action-icons",
-  "pf2e-creature-adjuster"
+  "pf2e-creature-adjuster",
+  "folder-note-plugin"
 ]

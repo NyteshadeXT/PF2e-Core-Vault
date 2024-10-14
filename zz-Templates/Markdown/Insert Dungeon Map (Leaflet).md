@@ -3,7 +3,7 @@
 ### Tutorial: https://youtu.be/54EyMzJP5DU
 ### id must be unique
 id: update-me
-image: [[HighRes (with Saltmarsh) (Orig).jpg]]
+image: [[ImagePlaceholder.png]]
 height: 1000px
 width: 70%
 ### This sets where the map starts by default. Set it to the middle (half) of your bounds. 

@@ -53,7 +53,7 @@
     },
     {
       "name": "Ancestry",
-      "declaration": "INPUT[inlineSelect(option(Dwarf), option(Elf), option(Human))]"
+      "declaration": "INPUT[inlineSelect(option(Dwarf), option(Elf), option(Gnome), option(Goblin), option(Halfling), option(Human))]"
     },
     {
       "name": "Heritage",
@@ -98,6 +98,14 @@
     {
       "name": "DeityPower",
       "declaration": "INPUT[inlineSelect(option(null), option(Greater God), option(Lesser God), option(Demigod))]"
+    },
+    {
+      "name": "Class",
+      "declaration": "INPUT[inlineSelect(option(Alchemist),option(Barbarian),option(Bard),option(Champion),option(Cleric),option(Druid),option(Fighter),option(Gunslinger),option(Inventor),option(Investigator),option(Kineticist),option(Magus),option(Monk),option(Oracle),option(Psychic),option(Ranger),option(Rogue),option(Sorcerer),option(Summoner),option(Swashbuckler),option(Thaumaturge),option(Witch),option(Wizard))]"
+    },
+    {
+      "name": "Status",
+      "declaration": "INPUT[inlineSelect(option(null), option(Active), option(Inactive))]"
     }
   ],
   "buttonTemplates": [],

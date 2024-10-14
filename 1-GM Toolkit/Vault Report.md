@@ -1,6 +1,6 @@
 ```dataviewjs
 const pages = dv.pages()  // maybe narrow down to a subset of pages
-  .groupBy(p => p.NoteIcon)
+  .groupBy(p => p.noteType)
   .filter(p => !!p.key);  // filter out pages without noteType property
 
 // Labels

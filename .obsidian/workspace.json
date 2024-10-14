@@ -20,18 +20,43 @@
             }
           },
           {
-            "id": "46dee8091c39466a",
+            "id": "86f3341cb03d9ba5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Hazards/Homebrew/false-elevator-hb.md",
+                "file": "1-GM Toolkit/Experience Tracker.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "3481c9e42eba98df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-Templates/Markdown/Update XP.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "eca3a5bc7f7a4851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Bestiaries/Bestiary 1/Giant Monitor Lizard, Weak.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 315.5
   },
   "right": {
     "id": "414a1381b9bc07e4",
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
+                "file": "1-GM Toolkit/Experience Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
+                "file": "1-GM Toolkit/Experience Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +162,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md"
+                "file": "1-GM Toolkit/Experience Tracker.md"
               }
-            }
-          },
-          {
-            "id": "66c4edbcf2da18f8",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
             }
           },
           {
@@ -168,9 +185,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "bd6d44dc06be12dd",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "1671e74fcd609ffc",
@@ -203,60 +228,60 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "helpmate:HelpMate": false
+      "helpmate:HelpMate": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6de5711fd0245399",
+  "active": "86f3341cb03d9ba5",
   "lastOpenFiles": [
-    "3-Rules/Hazards/Homebrew/false-elevator-hb.md",
+    "3-Rules/Bestiaries/Bestiary 1/Giant Monitor Lizard, Weak.md",
+    "zz-Templates/Markdown/Update XP.md",
+    "1-GM Toolkit/Experience Tracker.md",
+    "1-GM Toolkit/Loot.md",
     "4-Campaign/Age of Worms/The Whispering Cairn.md",
-    "3-Rules/Hazards/Homebrew/gout-of-flame-hb.md",
-    "3-Rules/Hazards/Homebrew/mantrap_patch-hb.md",
-    "3-Rules/Hazards/Homebrew/lightning-hallway-hb.md",
-    "3-Rules/Hazards/Homebrew/force-burst-wall-hb.md",
-    "3-Rules/Skills.md",
+    "1-GM Toolkit/Home.md",
+    "5-World/Kingdoms/Emberhold.md",
+    "5-World/Kingdoms/Ironhelm Citadel.md",
+    "5-World/Regions/Aetherial Highlands.md",
+    "5-World/Settlements/Ardentia City.md",
+    "2-Session Journals/Age-of-Worms/AoW - Session Test.md",
+    "5-World/Settlements/Diamond Lake.md",
+    "5-World/NPCs/Alaric Swiftwind.md",
+    "zz-Templates/GM Templates/Story Notes/Template - Session Note.md",
+    "zz-Templates/GM Templates/Story Notes/Template - Service.md",
+    "zz-Templates/GM Templates/Story Notes/Template - Rumour.md",
+    "zz-Templates/GM Templates/Story Notes/Template - Quest.md",
+    "zz-Templates/GM Templates/Story Notes/Template - Journey Board.md",
+    "1-GM Toolkit/Travel Calculator.md",
+    "zz-Attachments/Experience Tracker-20241013142445460.webp",
+    "1-GM Toolkit/DM-Screen.md",
+    "1-GM Toolkit/DM Board.md",
+    "1-GM Toolkit/DM-Tools/Mimic Fight Club (Item Generator).md",
+    "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
+    "4-Campaign/Age of Worms/Age of Worms.md",
+    "zz-Attachments/Age of Worms-20241013135345875.webp",
+    "3-Rules/Bestiaries/Battlezoo Bestiary/Afneith.md",
+    "1-GM Toolkit/Vault Report.md",
+    "zz-Scripts/update_xp.js",
+    "zz-Scripts",
+    "zz-Attachments/Diamond Lake Mining Office.webp",
+    "2-Party/Age of Worms",
+    "zz-Attachments/Diamond Lake Banner.webp",
+    "zz-Attachments/Ardentia City Map.png",
+    "zz-Attachments/modules/battlezoo-ancestries-fusions/fusions-art-1.webp",
+    "zz_Attachments/modules/battlezoo-ancestries-dungeons-pf2e/art/dungeon-gate.svg",
+    "zz-Attachments/modules/battlezoo-ancestries-fusions/red-wax-stamp.webp",
+    "zz-Attachments/modules/battlezoo-ancestries-fusions/fusions-cover-blank.webp",
+    "zz_Attachments/modules/battlezoo-ancestries-fusions/assets/logos/Fusion logo.png",
+    "zz_Attachments/modules/battlezoo-ancestries-fusions/assets/ancestries/fusions/animated/tokens/fusions-token-1.webm",
+    "zz_Attachments/modules/battlezoo-ancestries-fusions/assets/ancestries/fusions/animated/full-art/fusions-art-1.webm",
+    "2-Session Journals/Age-of-Worms",
     "4-Campaign/Age of Worms",
-    "3-Rules/Journals/Remaster Changes/Remaster Changes.md",
-    "3-Rules/Journals/GM Screen/GM Screen.md",
-    "3-Rules/Journals/Hero Point Deck/Hero Point Deck.md",
-    "3-Rules/Journals/Domains/Domains.md",
-    "3-Rules/GM Tools/Creature Family Ability Glossary/(Beheaded) Bleeding.md",
-    "3-Rules/Journals/PF2e Journals/Deep Backgrounds/Deep Backgrounds.md",
-    "3-Rules/Journals/PF2e Journals/Classes/Classes.md",
-    "3-Rules/Journals/PF2e Journals/Archetypes/Archetypes.md",
-    "3-Rules/Journals/PF2e Journals/Ancestries/Anadi.md",
-    "3-Rules/Journals/PF2e Journals/Ancestries/Ancestries.md",
-    "3-Rules/GM Tools/Divine Intercessions/Abadar - Major Boon.md",
-    "3-Rules/GM Tools/Pathfinder Society Boons/Academic Conference.md",
-    "3-Rules/Character Building/Familiar Abilities/Ambassador.md",
-    "3-Rules/Character Building/Familiar Abilities/Amphibious.md",
-    "3-Rules/Character Building/Familiar Abilities/Damage Avoidance_ Fortitude.md",
-    "3-Rules/Character Building/Familiar Abilities/Burrower.md",
-    "3-Rules/Character Building/Familiar Abilities/Absorb Familiar.md",
-    "3-Rules/Character Building/Class Features/Agile Mind.md",
-    "3-Rules/Character Building/Class Features/Advanced Vials (Toxicologist).md",
-    "zz_Attachments/Sarcophagus.png",
-    "zz_Attachments/sarcophagous.png",
-    "zz_Attachments/Lantern.PNG",
     "3-Rules/afflictions",
     "3-Rules/hazards/Homebrew",
-    "3-Rules/hazards",
-    "zz_Attachments/Diamond Lake.webp",
-    "zz_Attachments/Whispering Cairn.webp",
-    "zz_Attachments/Broken Portal.webp",
-    "zz_Attachments/Aetheria Fracta Intro.png",
-    "zz_Attachments/Pasted image 20240714230832.png",
-    "zz_Attachments/Pasted image 20240714232119.png",
-    "zz_Attachments/Pasted image 20240714232251.png",
-    "4-Campaign",
-    "zz_Attachments/Assets",
-    "zz_Attachments",
-    "zz-Templates/GM Templates/Lore/Calendar",
-    "zz-Templates/Markdown/Insert Rollable Table 1",
-    "zz-Templates/GM Templates/Lore"
+    "3-Rules/hazards"
   ]
 }

@@ -2,7 +2,7 @@
 tags:
   - "#Location"
   - "#Settlement"
-art: zz_Attachments/Diamond Lake.webp
+art: zz_Attachments/Diamond Lake Banner.webp
 pronounced: Diamond-Lake
 location:
   - "[[Aetherial Highlands]]"

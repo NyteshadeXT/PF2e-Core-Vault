@@ -66,7 +66,7 @@
   "supercharged-links@@e12b-3691-color": "#B6966B",
   "supercharged-links@@54b8-a8d3-color": "#79FF87",
   "supercharged-links@@e554-134f-color": "#80FF71",
-  "supercharged-links@@b754-5b42-color": "#D9D9D9",
+  "supercharged-links@@b754-5b42-color": "#408662",
   "supercharged-links@@8844-9a58-color": "#7BA8CA",
   "supercharged-links@@f1f3-9da5-decoration": "initial",
   "supercharged-links@@c-f1f3-9da5-use-background": false,
@@ -103,5 +103,6 @@
   "supercharged-links@@6eeb-1ccc-color": "#C1C80B",
   "supercharged-links@@6eeb-1ccc-weight": "bold",
   "supercharged-links@@6eeb-1ccc-before": "🎉",
-  "ITS@@select": "pathfinder-remaster"
+  "ITS@@select": "pathfinder-remaster",
+  "ITS@@default-statblock": true
 }

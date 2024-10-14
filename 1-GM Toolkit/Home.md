@@ -21,23 +21,23 @@ obsidianUIMode: preview
 > # Session Journals
 > ```dataview
 TABLE WITHOUT ID link(file.name) AS "Session Date", Status, players
-from "2-Session Journals"
-where (type = "Session Journal")
+from "2-Session Journals/Age-of-Worms"
+where contains(tags, "SessionNote")
 SORT file.name DESC
 
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Class, Race, level, Role  
+TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Class, Ancestry, Heritage, level  
 from "2-Party"  
-where (Role = "Player")  
+where contains(tags, "Player")
 where (Status = "Active")  
 ```
 
 # Recently Modified NPCs
 
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "NPC Name", Gender, Race, Age, Location, AssociatedGroup  
+TABLE WITHOUT ID link(file.name) AS "NPC Name", gender as "Gender", Race, age as "Age", location as "Location", AssociatedGroup  
 FROM "5-World/NPCs"
-WHERE (NoteIcon = "npc") 
+where contains(tags, "NPC") 
 SORT file.mtime DESC
 LIMIT 10
 ```
@@ -45,9 +45,9 @@ LIMIT 10
 # Recently Modified Locations
 
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "Location Name", type, Government, Community-Size, size, population  
+TABLE WITHOUT ID link(file.name) AS "Location Name", settlementtype as "type", governmenttype as "Government", Community-Size, size, population  
 FROM "5-World"
-WHERE (NoteIcon = "Settlement")  
+where contains(tags, "Location")  
 SORT file.mtime DESC
 LIMIT 10
 ```
@@ -61,9 +61,9 @@ TABLE WITHOUT ID
 FROM "/"
 WHERE file.mtime >= date(today) - dur(30 days)
 AND file.name != this.file.name
-    AND !contains(file.path, "z_Assets")
-    AND !contains(file.path, "Inline Scripts")
-    AND !contains(file.path, "z_Templates")
+    AND !contains(file.path, "zz-Attachments")
+    AND !contains(file.path, "zz-Scripts")
+    AND !contains(file.path, "zz-Templates")
     AND !contains(file.path, "daily notes")
     AND !contains(file.path, "BRAT")
 SORT file.mtime DESC

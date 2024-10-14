@@ -1,4 +1,7 @@
 {
+  "manifest": {
+    "version": "3.1.0"
+  },
   "MergeParagraph_Newlines": true,
   "MergeParagraph_Spaces": true,
   "LowercaseFirst": true,
@@ -10,7 +13,8 @@
     {
       "name": "underline",
       "prefix": "<u>",
-      "suffix": "</u>"
+      "suffix": "</u>",
+      "id": "28f0c88a-fecc-42de-b254-03a55305fbdd"
     }
   ],
   "RequestList": [],
@@ -22,7 +26,8 @@
           "search": "(\\s*)(?=\\n)|(\\s*)$",
           "replace": ""
         }
-      ]
+      ],
+      "id": "61f1b018-4ed1-453f-bb0d-ff3a0e79e052"
     },
     {
       "name": "Remove blank line(s)",
@@ -31,7 +36,8 @@
           "search": "\\n\\s*\\n",
           "replace": "\\n"
         }
-      ]
+      ],
+      "id": "26afd250-23b6-4d02-a7af-22615109ac6e"
     },
     {
       "name": "Add extra line break between paragraphs",
@@ -40,7 +46,8 @@
           "search": "\\n",
           "replace": "\\n\\n"
         }
-      ]
+      ],
+      "id": "d49c90af-9e03-4f51-ad95-fa42ac7bdbc4"
     },
     {
       "name": "Split line(s) by blanks",
@@ -49,15 +56,52 @@
           "search": " ",
           "replace": "\\n"
         }
-      ]
+      ],
+      "id": "abf79c5a-9252-4037-ba1d-73a380212a13"
     }
   ],
-  "customReplaceBuiltIn": [
-    "remove-trailing-spaces",
-    "remove-blank-line",
-    "add-line-break",
-    "split-lines-by-blank"
-  ],
+  "customReplaceBuiltInLog": {
+    "remove-trailing-spaces": {
+      "id": "remove-trailing-spaces",
+      "modified": false,
+      "data": [
+        {
+          "search": "(\\s*)(?=\\n)|(\\s*)$",
+          "replace": ""
+        }
+      ]
+    },
+    "remove-blank-line": {
+      "id": "remove-blank-line",
+      "modified": false,
+      "data": [
+        {
+          "search": "\\n\\s*\\n",
+          "replace": "\\n"
+        }
+      ]
+    },
+    "add-line-break": {
+      "id": "add-line-break",
+      "modified": false,
+      "data": [
+        {
+          "search": "\\n",
+          "replace": "\\n\\n"
+        }
+      ]
+    },
+    "split-lines-by-blank": {
+      "id": "split-lines-by-blank",
+      "modified": false,
+      "data": [
+        {
+          "search": " ",
+          "replace": "\\n"
+        }
+      ]
+    }
+  },
   "ToggleSequence": "titleCase\nlowerCase\nupperCase",
   "RemoveWikiURL2": false,
   "WikiLinkFormat": {
@@ -72,5 +116,15 @@
   "calloutType": "NOTE",
   "debugMode": false,
   "headingLevelMin": 0,
-  "calloutTypeDecider": "previous-content"
+  "calloutTypeDecider": "previous-content",
+  "formatOnSaveSettings": {
+    "enabled": false,
+    "commandsString": ""
+  },
+  "customReplaceBuiltIn": [
+    "remove-trailing-spaces",
+    "remove-blank-line",
+    "add-line-break",
+    "split-lines-by-blank"
+  ]
 }

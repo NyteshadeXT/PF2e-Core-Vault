@@ -2,7 +2,7 @@
   "readableLineLength": false,
   "livePreview": false,
   "promptDelete": false,
-  "attachmentFolderPath": "zz_Assets",
+  "attachmentFolderPath": "zz-Attachments",
   "showUnsupportedFiles": true,
   "showFrontmatter": false,
   "newFileLocation": "current",
