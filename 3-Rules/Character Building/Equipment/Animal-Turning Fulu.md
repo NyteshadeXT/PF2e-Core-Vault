@@ -14,7 +14,7 @@ license: OGL
 ---
 # Animal-Turning Fulu
 ## Item 1
-### [rare](rare.md "Rare Rarity Trait")[[consumable]][[fulu]][[3-Rules/Rule References/Magical]][[talisman]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[fulu]][[magical|Magical]][[talisman]]
 
 **Category** fulu; 
 **Price** 4 gp; 

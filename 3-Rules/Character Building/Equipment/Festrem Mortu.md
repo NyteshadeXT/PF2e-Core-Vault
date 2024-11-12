@@ -12,7 +12,7 @@ license: OGL
 ---
 # Festrem Mortu
 ## Item 6
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[cursed]][[grimoire]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[cursed]][[grimoire]][[magical|Magical]]
 
 
 **Price** 230 gp; 

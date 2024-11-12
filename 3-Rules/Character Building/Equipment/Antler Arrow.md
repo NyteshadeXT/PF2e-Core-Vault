@@ -13,7 +13,7 @@ license: ORC
 ---
 # Antler Arrow
 ## Item 2
-### [[consumable]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[magical|Magical]]
 
 **Category** ammo; 
 **Price** 7 gp; 

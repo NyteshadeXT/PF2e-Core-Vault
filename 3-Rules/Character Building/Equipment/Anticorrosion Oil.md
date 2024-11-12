@@ -13,7 +13,7 @@ license: OGL
 ---
 # Anticorrosion Oil
 ## Item 2
-### [[consumable]][[3-Rules/Rule References/Magical]][[oil]]
+### [[consumable]][[magical|Magical]][[oil]]
 
 **Category** oil; 
 **Price** 6 gp; 

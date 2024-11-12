@@ -14,7 +14,7 @@ license: OGL
 ---
 # Eldritch Flare
 ## Item 15
-### [[alchemical]][[consumable]][[injury]][[3-Rules/Rule References/Poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison|Poison]]
 
 **Category** poison; 
 **Price** 1100 gp; 

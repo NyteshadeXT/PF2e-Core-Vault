@@ -14,7 +14,7 @@ license: ORC
 ---
 # Compound Eyes
 ## Item 4
-### [[fortune]][[graft]][[invested]][[3-Rules/Rule References/Magical]]
+### [[fortune]][[graft]][[invested]][[magical|Magical]]
 
 
 **Price** 75 gp; 

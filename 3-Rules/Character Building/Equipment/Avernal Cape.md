@@ -13,7 +13,7 @@ license: OGL
 ---
 # Avernal Cape
 ## Item 5
-### [unique](unique.md "Unique Rarity Trait")[[3-Rules/trait_reference/earth]][[invested]][[3-Rules/Rule References/Magical]][[relic]]
+### [unique](unique.md "Unique Rarity Trait")[[3-Rules/trait_reference/earth]][[invested]][[magical|Magical]][[relic]]
 
 
 **Price** 0 gp; 

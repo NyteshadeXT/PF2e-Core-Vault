@@ -91,7 +91,8 @@ deitypower: Greater God
 > SORT file.name ASC
 
 ## Overview
-**Valorus: God of War and Combat**
+**God of War and Combat**
+
 Valorus stands as a symbol of martial prowess, strength, and honor on the battlefield. His domain encompasses the physical and spiritual aspects of warfare, from tactical brilliance to raw, unrelenting violence. As a deity, Valorus represents both the strategic side of war and the intense chaos of combat. He is revered by warriors, generals, and all those who fight for their cause, be it for conquest, defense, or personal glory.
 
 He rules over the domain of War, Combat, Strategy, and Victory. His influence is felt in every battle waged across the mortal and divine realms. In the cosmic hierarchy, Valorus is both a pragmatic leader and a powerful enforcer, often consulted by other gods when conflict arises between realms or when divine intervention in mortal wars is necessary. While not the most powerful deity, Valorus commands immense respect due to the inevitable nature of war, which makes him an important and indispensable figure in the pantheon.

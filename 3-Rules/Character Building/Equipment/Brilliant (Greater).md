@@ -11,7 +11,7 @@ license: ORC
 ---
 # Brilliant (Greater)
 ## Item 18
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 
 **Price** 24000 gp; 

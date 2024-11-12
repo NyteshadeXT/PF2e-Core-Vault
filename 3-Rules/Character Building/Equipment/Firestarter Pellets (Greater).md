@@ -13,7 +13,7 @@ license: OGL
 ---
 # Firestarter Pellets (Greater)
 ## Item 10
-### [[catalyst]][[consumable]][[3-Rules/Rule References/Magical]]
+### [[catalyst]][[consumable]][[magical|Magical]]
 
 **Category** catalyst; 
 **Price** 175 gp; 

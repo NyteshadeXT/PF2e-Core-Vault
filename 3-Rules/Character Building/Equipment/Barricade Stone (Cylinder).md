@@ -13,7 +13,7 @@ license: OGL
 ---
 # Barricade Stone (Cylinder)
 ## Item 10
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[structure]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[structure]]
 
 **Category** potion; 
 **Price** 160 gp; 

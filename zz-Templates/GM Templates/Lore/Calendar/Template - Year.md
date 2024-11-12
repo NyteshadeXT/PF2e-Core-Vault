@@ -56,7 +56,7 @@ SORT file.name ASC
 ## Overview
 
 > [!kirk|info] Prompt (Remove me)
-Provide a summary of the year, including its position within the larger era and any notable events or developments. Highlight key occurrences in politics, warfare, culture, technology, or magic that took place during this year. Mention significant figures who rose to prominence or had a major impact during this time. Consider any seasonal changes, festivals, or annual traditions that characterize this year and how they might affect the campaign setting.
+Provide a summary of the year, including its position within the larger era and any notable events or developments. Highlight key occurrences in politics, warfare, culture, technology, or magic that took place during this year. Mention significant figures who rose to prominence or had a major impact during this time. Consider any seasonal changes, festivals, or annual traditions that characteri5-Worldyear and how they might affect the campaign setting.
 
 ## Months
 
@@ -68,14 +68,14 @@ Provide a summary of the year, including its position within the larger era and 
 > [!metadata|event]- Recurring Events
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(startdate, ", ") AS "Start Date", eventcategory AS "Category", join(location, ", ") AS Location
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(monthofoccurrence, link("Aurora")) AND econtains(tags, "#Event") AND !econtains(eventtype, "Significant")
 > SORT startdate ASC
 
 > [!metadata|event]- Significant Events
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(startdate, ", ") AS "Start Date", eventcategory AS "Category", join(location, ", ") AS Location
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(yearofoccurrence, this.file.link) AND econtains(monthofoccurrence, link("Aurora")) AND econtains(tags, "#Event") AND econtains(eventtype, "Significant")
 > SORT startdate ASC
 
@@ -88,14 +88,14 @@ Provide a summary of the year, including its position within the larger era and 
 > [!metadata|event]- Recurring Events
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(startdate, ", ") AS "Start Date", eventcategory AS "Category", join(location, ", ") AS Location
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(monthofoccurrence, link("Novus")) AND econtains(tags, "#Event") AND !econtains(eventtype, "Significant")
 > SORT startdate ASC
 
 > [!metadata|event]- Significant Events
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(startdate, ", ") AS "Start Date", eventcategory AS "Category", join(location, ", ") AS Location
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(yearofoccurrence, this.file.link) AND econtains(monthofoccurrence, link("Novus")) AND econtains(tags, "#Event") AND econtains(eventtype, "Significant")
 > SORT startdate ASC
 

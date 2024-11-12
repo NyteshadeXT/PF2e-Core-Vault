@@ -11,7 +11,7 @@ license: OGL
 ---
 # Book of Lost Days
 ## Item 15
-### [unique](unique.md "Unique Rarity Trait")[[cursed]][[3-Rules/Rule References/Magical]]
+### [unique](unique.md "Unique Rarity Trait")[[cursed]][[magical|Magical]]
 
 
 **Price** 0 gp; 

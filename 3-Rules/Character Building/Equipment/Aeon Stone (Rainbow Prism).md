@@ -11,7 +11,7 @@ license: OGL
 ---
 # Aeon Stone (Rainbow Prism)
 ## Item 13
-### [rare](rare.md "Rare Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical|Magical]]
 
 
 **Price** 2200 gp; 

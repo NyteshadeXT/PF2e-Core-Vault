@@ -15,7 +15,7 @@ license: OGL
 ---
 # Galtzagorri Hook Spear
 ## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Finesse]][[sprite]][[thrown-20]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/disarm|disarm]][[3-Rules/trait_reference/Finesse|finesse]][[sprite]][[thrown-20]]
 
 |  |  |
 | -- | -- |

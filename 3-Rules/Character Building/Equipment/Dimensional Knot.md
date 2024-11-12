@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dimensional Knot
 ## Item 7
-### [[catalyst]][[consumable]][[3-Rules/Rule References/Magical]]
+### [[catalyst]][[consumable]][[magical|Magical]]
 
 **Category** catalyst; 
 **Price** 60 gp; 

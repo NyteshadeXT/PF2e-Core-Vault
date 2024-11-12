@@ -12,7 +12,7 @@ license: OGL
 ---
 # Entertainer's Lute (Major)
 ## Item 12
-### [[coda]][[3-Rules/Rule References/Occult]][[3-Rules/Character Building/Equipment/Staff]]
+### [[coda]][[3-Rules/trait_reference/occult|Occult]][[3-Rules/trait_reference/staff|Staff]]
 
 
 **Price** 1900 gp; 

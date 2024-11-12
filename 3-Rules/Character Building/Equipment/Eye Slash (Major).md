@@ -12,7 +12,7 @@ license: OGL
 ---
 # Eye Slash (Major)
 ## Item 9
-### [[invested]][[3-Rules/Rule References/Magical]][[tattoo]]
+### [[invested]][[magical|Magical]][[tattoo]]
 
 
 **Price** 700 gp; 

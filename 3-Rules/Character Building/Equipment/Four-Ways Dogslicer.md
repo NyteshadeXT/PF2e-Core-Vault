@@ -20,7 +20,7 @@ license: ORC
 ---
 # Four-Ways Dogslicer
 ## Item 12
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[backstabber]][[3-Rules/Rule References/Cold]][[3-Rules/Rule References/Electricity]][[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Fire]][[3-Rules/trait_reference/goblin]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[backstabber]][[3-Rules/Rule References/Cold]][[3-Rules/Rule References/Electricity]][[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Fire]][[3-Rules/trait_reference/goblin]][[magical|Magical]]
 
 |  |  |
 | -- | -- |

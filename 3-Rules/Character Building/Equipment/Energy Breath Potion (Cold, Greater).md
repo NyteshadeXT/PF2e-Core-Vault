@@ -15,7 +15,7 @@ license: ORC
 ---
 # Energy Breath Potion (Cold, Greater)
 ## Item 17
-### [[3-Rules/Rule References/Cold]][[consumable]][[3-Rules/Rule References/Magical]][[potion]]
+### [[3-Rules/Rule References/Cold]][[consumable]][[magical|Magical]][[potion]]
 
 **Category** potion; 
 **Price** 3000 gp; 

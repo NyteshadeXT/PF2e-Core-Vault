@@ -17,7 +17,7 @@ license: OGL
 ---
 # Dagger of Eternal Sleep
 ## Item 5
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[consumable]][[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Magical]][[thrown-10]][[versatile-s]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[consumable]][[3-Rules/Rule References/Finesse]][[magical|Magical]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |

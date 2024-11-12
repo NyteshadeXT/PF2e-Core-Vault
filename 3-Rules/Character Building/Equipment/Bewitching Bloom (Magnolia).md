@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bewitching Bloom (Magnolia)
 ## Item 6
-### [[invested]][[3-Rules/Rule References/Magical]][[tattoo]]
+### [[invested]][[magical|Magical]][[tattoo]]
 
 
 **Price** 220 gp; 

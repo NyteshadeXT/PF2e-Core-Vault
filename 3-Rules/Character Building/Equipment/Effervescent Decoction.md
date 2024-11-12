@@ -14,7 +14,7 @@ license: OGL
 ---
 # Effervescent Decoction
 ## Item 10
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Air]][[consumable]][[3-Rules/Rule References/Magical]][[potion]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Air]][[consumable]][[magical|Magical]][[potion]]
 
 **Category** potion; 
 **Price** 160 gp; 

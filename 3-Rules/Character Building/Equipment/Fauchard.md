@@ -15,7 +15,7 @@ license: OGL
 ---
 # Fauchard
 ## Item 0
-### [[deadly-d8]][[3-Rules/Rule References/Reach]][[sweep]][[3-Rules/trait_reference/trip]]
+### [[deadly-d8]][[3-Rules/trait_reference/reach|Reach]] [[sweep]][[3-Rules/trait_reference/trip|Trip]] 
 
 |  |  |
 | -- | -- |

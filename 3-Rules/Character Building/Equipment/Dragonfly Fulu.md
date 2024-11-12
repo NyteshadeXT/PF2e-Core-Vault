@@ -14,7 +14,7 @@ license: OGL
 ---
 # Dragonfly Fulu
 ## Item 7
-### [[consumable]][[fulu]][[3-Rules/Rule References/Magical]][[talisman]]
+### [[consumable]][[fulu]][[magical|Magical]][[talisman]]
 
 **Category** fulu; 
 **Price** 60 gp; 

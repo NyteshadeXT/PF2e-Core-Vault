@@ -14,7 +14,7 @@ license: OGL
 ---
 # Black Smear Poison
 ## Item 2
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[injury]][[3-Rules/Rule References/Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison|Poison]]
 
 **Category** poison; 
 **Price** 5 gp; 

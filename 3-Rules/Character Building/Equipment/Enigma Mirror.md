@@ -12,7 +12,7 @@ license: OGL
 ---
 # Enigma Mirror
 ## Item 7
-### [[illusion]][[3-Rules/Rule References/Magical]][[spellheart]]
+### [[illusion]][[magical|Magical]][[spellheart]]
 
 
 **Price** 325 gp; 

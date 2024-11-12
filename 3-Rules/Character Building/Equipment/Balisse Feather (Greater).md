@@ -15,7 +15,7 @@ license: ORC
 ---
 # Balisse Feather (Greater)
 ## Item 16
-### [[consumable]][[holy]][[3-Rules/Rule References/Magical]][[talisman]]
+### [[consumable]][[holy]][[magical|Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 2000 gp; 

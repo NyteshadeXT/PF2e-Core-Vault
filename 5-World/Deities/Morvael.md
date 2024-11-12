@@ -90,7 +90,7 @@ deitypower: Greater God
 > SORT file.name ASC
 
 ## Overview
-**Morvael: God of Undeath**
+**God of Undeath**
 
 Morvael is the God of Undeath, ruling over the liminal space between life and death. Unlike deities of death who oversee the peaceful transition of souls to the afterlife, Morvael represents the defiance of death, embodying the unnatural prolongation of existence through undeath. His domain encompasses necromancy, souls bound to bodies, immortality through undeath, and the twisted perversion of the natural cycle of life and death. In the cosmic hierarchy, he is often regarded with fear and disdain by other deities, especially those who value the sanctity of life, death, and the afterlife. However, his power is undeniable, as undeath is a powerful and feared force that cannot be ignored.
 

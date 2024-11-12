@@ -15,7 +15,7 @@ license: OGL
 ---
 # Dreamtime Tea
 ## Item 4
-### [[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/Rule References/Poison]]
+### [[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/trait_reference/poison|Poison]]
 
 **Category** drug; 
 **Price** 13 gp; 

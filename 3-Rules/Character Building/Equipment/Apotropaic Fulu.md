@@ -13,7 +13,7 @@ license: OGL
 ---
 # Apotropaic Fulu
 ## Item 5
-### [[consumable]][[fulu]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[fulu]][[magical|Magical]]
 
 **Category** fulu; 
 **Price** 25 gp; 

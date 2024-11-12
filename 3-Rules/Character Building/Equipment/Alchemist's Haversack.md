@@ -12,7 +12,7 @@ license: OGL
 ---
 # Alchemist's Haversack
 ## Item 11
-### [[extradimensional]][[invested]][[3-Rules/Rule References/Magical]]
+### [[extradimensional]][[invested]][[magical|Magical]]
 
 
 **Price** 1400 gp; 

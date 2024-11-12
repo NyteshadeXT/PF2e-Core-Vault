@@ -16,7 +16,7 @@ license: OGL
 ---
 # Alkenstar Ice Wine
 ## Item 5
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/Rule References/Poison]][[vitality]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/trait_reference/poison|Poison]][[vitality]]
 
 **Category** other; 
 **Price** 25 gp; 

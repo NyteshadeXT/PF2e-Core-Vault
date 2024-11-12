@@ -67,49 +67,49 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 > [!metadata|geography]- Geography
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(terrain, ", ") AS Terrain, join(link(dominion), ", ") AS "Dominion"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "Geography")
 > SORT nation ASC, file.name ASC
 
 > [!metadata|county]- Counties
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(terrain, ", ") AS Terrain, join(link(dominion), ", ") AS "Dominion"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "County")
 > SORT nation ASC, file.name ASC
 
 > [!metadata|settlements]- Settlements
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, settlementtype AS Type, defence AS Defences, join(link(dominion), ", ") AS "Dominion"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "Settlement")
 > SORT nation ASC, file.name ASC
 
 > [!metadata|location]- Locations
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(poitype, ", ") AS Type, join(link(organization), ", ") AS "Organization(s)", join(link(dominion), ", ") AS "Dominion"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "POI")
 > SORT tags DESC, poitype ASC, file.name ASC
 
 > [!metadata|organizations]- Organizations
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(organizationtype, ", ") AS Type
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE contains(location, this.file.link) AND contains(tags, "Organization")
 > SORT organizationtype ASC, file.name ASC
 
 > [!metadata|characters]- Characters
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(occupation, ", ") AS "Occupations", join(link(organization), ", ") AS "Organizations"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "Character") AND !contains(condition, "Dead")
 > SORT tags DESC, file.name ASC
 
 > [!metadata|rumour]- Rumours
 > ```dataview
 > TABLE without id file.link AS "Name", accuracy AS Accuracy, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
 

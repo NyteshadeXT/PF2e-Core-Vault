@@ -16,7 +16,7 @@ license: OGL
 ---
 # Atmospheric Staff (Major)
 ## Item 16
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Air]][[3-Rules/Rule References/Magical]][[3-Rules/Character Building/Equipment/Staff]][[two-hand-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Air]][[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

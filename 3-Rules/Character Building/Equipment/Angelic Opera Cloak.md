@@ -14,7 +14,7 @@ license: ORC
 ---
 # Angelic Opera Cloak
 ## Item 19
-### [rare](rare.md "Rare Rarity Trait")[[apex]][[holy]][[invested]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[apex]][[holy]][[invested]][[magical|Magical]]
 
 
 **Price** 40000 gp; 

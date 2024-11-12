@@ -10,7 +10,7 @@ license: OGL
 ---
 # Desiccating Scepter
 ## Item 5
-### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical|Magical]]
 
 
 **Price** 150 gp; 

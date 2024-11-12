@@ -13,7 +13,7 @@ license: OGL
 ---
 # Euphoric Loop (Greater)
 ## Item 13
-### [[catalyst]][[consumable]][[3-Rules/Rule References/Magical]]
+### [[catalyst]][[consumable]][[magical|Magical]]
 
 **Category** catalyst; 
 **Price** 450 gp; 

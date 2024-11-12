@@ -91,7 +91,7 @@ deitypower: Greater God
 > SORT file.name ASC
 
 ## Overview
-**Elara: Goddess of Life, Healing, Renewal, and Mercy**
+**Goddess of Life, Healing, Renewal, and Mercy**
 
 Elara is the goddess of Life, Healing, Renewal, and Mercy. She reigns over all things that pertain to the nurturing and sustenance of life. Her domain is expansive, reaching from the smallest seed to the grandest creature, touching every living being with her divine essence. In the cosmic hierarchy, Elara occupies a vital role as the caretaker of life itself. She is revered not only for her healing powers but also for her profound mercy, which grants second chances, renewal, and redemption. Among the gods, she is seen as a gentle force of compassion, often mediating disputes and advocating for life in all its forms.
 

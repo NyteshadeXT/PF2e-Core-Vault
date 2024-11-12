@@ -12,7 +12,7 @@ license: OGL
 ---
 # Blindpepper Bolt
 ## Item 3
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]]
 
 **Category** ammo; 
 **Price** 10 gp; 

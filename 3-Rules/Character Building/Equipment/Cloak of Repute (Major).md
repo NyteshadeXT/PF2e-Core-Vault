@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cloak of Repute (Major)
 ## Item 17
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 21750 gp; 

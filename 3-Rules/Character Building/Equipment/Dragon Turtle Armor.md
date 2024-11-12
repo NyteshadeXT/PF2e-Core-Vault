@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dragon Turtle Armor
 ## Item 12
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[bulwark]][[invested]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[bulwark]][[invested]][[magical|Magical]]
 
 **Category** heavy; **Group** plate
 **Price** 2000 gp; 

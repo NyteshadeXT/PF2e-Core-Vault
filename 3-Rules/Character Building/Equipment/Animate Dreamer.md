@@ -17,7 +17,7 @@ license: OGL
 ---
 # Animate Dreamer
 ## Item 15
-### [rare](rare.md "Rare Rarity Trait")[[concussive]][[3-Rules/trait_reference/dwarf]][[intelligent]][[kickback]][[3-Rules/Rule References/Occult]][[scatter-10]]
+### [rare](rare.md "Rare Rarity Trait")[[concussive]][[3-Rules/trait_reference/dwarf]][[intelligent]][[kickback]][[3-Rules/trait_reference/occult|Occult]][[scatter-10]]
 
 |  |  |
 | -- | -- |

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cauldron of Nightmares
 ## Item 17
-### [rare](rare.md "Rare Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical|Magical]]
 
 
 **Price** 13000 gp; 

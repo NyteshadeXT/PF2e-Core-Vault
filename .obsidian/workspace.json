@@ -14,9 +14,11 @@
               "type": "markdown",
               "state": {
                 "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "The Whispering Cairn"
             }
           },
           {
@@ -25,10 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/Experience Tracker.md",
-                "mode": "source",
+                "file": "5-World/NPCs/Zalmandra.md",
+                "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Zalmandra"
             }
           },
           {
@@ -37,10 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Templates/Markdown/Update XP.md",
-                "mode": "source",
+                "file": "1-GM Toolkit/Experience Tracker.md",
+                "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Experience Tracker"
             }
           },
           {
@@ -49,14 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Bestiaries/Bestiary 1/Giant Monitor Lizard, Weak.md",
-                "mode": "preview",
+                "file": "5-World/Points of Interest/Tidwod's.md",
+                "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Tidwod's"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -91,7 +101,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -99,14 +111,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 370.5
   },
   "right": {
     "id": "414a1381b9bc07e4",
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-GM Toolkit/Experience Tracker.md",
+                "file": "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Diamond Lake Mining Office"
             }
           },
           {
@@ -139,10 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-GM Toolkit/Experience Tracker.md",
+                "file": "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Diamond Lake Mining Office"
             }
           },
           {
@@ -153,7 +171,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -162,8 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-GM Toolkit/Experience Tracker.md"
-              }
+                "file": "5-World/Points of Interest/Tidwod's.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tidwod's"
             }
           },
           {
@@ -171,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -183,15 +207,19 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
-            "id": "bd6d44dc06be12dd",
+            "id": "27b573e3617c802d",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -206,14 +234,16 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,36 +265,38 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "86f3341cb03d9ba5",
+  "active": "eca3a5bc7f7a4851",
   "lastOpenFiles": [
-    "3-Rules/Bestiaries/Bestiary 1/Giant Monitor Lizard, Weak.md",
-    "zz-Templates/Markdown/Update XP.md",
-    "1-GM Toolkit/Experience Tracker.md",
-    "1-GM Toolkit/Loot.md",
-    "4-Campaign/Age of Worms/The Whispering Cairn.md",
-    "1-GM Toolkit/Home.md",
-    "5-World/Kingdoms/Emberhold.md",
-    "5-World/Kingdoms/Ironhelm Citadel.md",
-    "5-World/Regions/Aetherial Highlands.md",
-    "5-World/Settlements/Ardentia City.md",
-    "2-Session Journals/Age-of-Worms/AoW - Session Test.md",
-    "5-World/Settlements/Diamond Lake.md",
-    "5-World/NPCs/Alaric Swiftwind.md",
-    "zz-Templates/GM Templates/Story Notes/Template - Session Note.md",
-    "zz-Templates/GM Templates/Story Notes/Template - Service.md",
-    "zz-Templates/GM Templates/Story Notes/Template - Rumour.md",
-    "zz-Templates/GM Templates/Story Notes/Template - Quest.md",
-    "zz-Templates/GM Templates/Story Notes/Template - Journey Board.md",
-    "1-GM Toolkit/Travel Calculator.md",
+    "5-World/NPCs/Tidwoad.md",
+    "zz-Templates/GM Templates/Characters/Template - NPC.md",
+    "5-World/NPCs/Untitled.md",
+    "5-World/Points of Interest/Tidwod's.md",
+    "5-World/NPCs/Jierian Wierus.md",
+    "zz-Templates/GM Templates/Locations/Template - Point of Interest.md",
+    "zz-Templates/GM Templates/Locations/Template - Settlement.md",
+    "5-World/Points of Interest/Church of Aegis - Diamond Lake.md",
+    "5-World/NPCs/Hameneezer.md",
+    "5-World/NPCs/Zalmandra.md",
+    "5-World/NPCs/Tirra.md",
+    "5-World/NPCs/Thalric Stoneforge.md",
+    "5-World/NPCs/Thalorin Stormforge.md",
+    "5-World/NPCs/Silas Emberwind.md",
+    "5-World/NPCs/Shag Soloman.md",
+    "5-World/NPCs/Selene Starwhisper.md",
+    "5-World/NPCs/Riven Stormblade.md",
+    "5-World/NPCs/Nadria the Core Whisperer.md",
+    "5-World/NPCs/Malachite.md",
+    "5-World/NPCs/Lazare.md",
+    "5-World/NPCs/Lady Seraphina Moonshadow.md",
+    "5-World/NPCs/Lady Isolde Moonshadow.md",
+    "5-World/NPCs/Khellek.md",
+    "5-World/NPCs/Gaspar.md",
+    "5-World/NPCs/Ezekiel Stoneheart.md",
+    "5-World/NPCs/Elowen Stormweaver.md",
+    "zz-Templates/Markdown/Call Out Boxes",
+    "zz-Scripts/update_treasure.js",
     "zz-Attachments/Experience Tracker-20241013142445460.webp",
-    "1-GM Toolkit/DM-Screen.md",
-    "1-GM Toolkit/DM Board.md",
-    "1-GM Toolkit/DM-Tools/Mimic Fight Club (Item Generator).md",
-    "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
-    "4-Campaign/Age of Worms/Age of Worms.md",
     "zz-Attachments/Age of Worms-20241013135345875.webp",
-    "3-Rules/Bestiaries/Battlezoo Bestiary/Afneith.md",
-    "1-GM Toolkit/Vault Report.md",
     "zz-Scripts/update_xp.js",
     "zz-Scripts",
     "zz-Attachments/Diamond Lake Mining Office.webp",
@@ -280,8 +312,6 @@
     "zz_Attachments/modules/battlezoo-ancestries-fusions/assets/ancestries/fusions/animated/full-art/fusions-art-1.webm",
     "2-Session Journals/Age-of-Worms",
     "4-Campaign/Age of Worms",
-    "3-Rules/afflictions",
-    "3-Rules/hazards/Homebrew",
-    "3-Rules/hazards"
+    "3-Rules/afflictions"
   ]
 }

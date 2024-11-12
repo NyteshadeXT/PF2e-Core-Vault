@@ -13,7 +13,7 @@ license: ORC
 ---
 # Candle of Revealing
 ## Item 7
-### [[consumable]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[magical|Magical]]
 
 **Category** other; 
 **Price** 60 gp; 

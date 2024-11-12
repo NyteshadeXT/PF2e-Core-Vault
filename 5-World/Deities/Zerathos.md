@@ -91,7 +91,8 @@ deitypower: Greater God
 > SORT file.name ASC
 
 ## Overview
-**Zerathos, the God of Madness and Change**
+**God of Madness and Change**
+
 Zerathos represents the chaotic and unpredictable aspects of existence, embodying both the creative and destructive potential of transformation. As a deity, Zerathos inhabits a liminal space between order and chaos, governing the forces that disrupt established structures, beliefs, and realities. His domain encompasses not only mental instability and irrationality but also the transformative power of upheaval, revolution, and metamorphosis.
 
 Zerathos occupies a unique role in the cosmic hierarchy as a god whose power lies in destabilizing the status quo. While other gods may represent stability, structure, or clear moral frameworks, Zerathos thrives in ambiguity and flux. He is neither fully malevolent nor benevolent, but rather a chaotic force whose influence brings change—often through unsettling, unpredictable, and sometimes violent means. He holds sway over madness, where the boundaries between reality and delusion blur, and over change, whether it is the gradual evolution of ideas or sudden cataclysmic upheaval.

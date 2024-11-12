@@ -12,7 +12,7 @@ license: ORC
 ---
 # Aeon Stone (Smoothing)
 ## Item 7
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical|Magical]]
 
 
 **Price** 310 gp; 

@@ -16,7 +16,7 @@ license: ORC
 ---
 # Breath of the Mantis God
 ## Item 10
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/Rule References/Poison]][[virulent]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/trait_reference/poison|Poison]][[virulent]]
 
 **Category** poison; 
 **Price** 200 gp; 

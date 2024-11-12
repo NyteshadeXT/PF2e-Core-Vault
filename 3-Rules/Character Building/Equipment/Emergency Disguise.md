@@ -13,7 +13,7 @@ license: OGL
 ---
 # Emergency Disguise
 ## Item 1
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 3 gp; 

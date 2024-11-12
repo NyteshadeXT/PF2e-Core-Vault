@@ -10,7 +10,7 @@ license: OGL
 ---
 # Bloodhound Olfactory Stimulators
 ## Item 5
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 
 **Price** 136 gp; 

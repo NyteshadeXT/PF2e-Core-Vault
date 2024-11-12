@@ -12,7 +12,7 @@ license: OGL
 ---
 # Flaming Star (Greater)
 ## Item 8
-### [[3-Rules/Rule References/Fire]][[3-Rules/Rule References/Magical]][[spellheart]]
+### [[3-Rules/Rule References/Fire]][[magical|Magical]][[spellheart]]
 
 
 **Price** 425 gp; 

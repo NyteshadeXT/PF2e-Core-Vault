@@ -12,7 +12,7 @@ license: ORC
 ---
 # Crystal Ball (Clear Quartz)
 ## Item 14
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[3-Rules/trait_reference/scrying]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/trait_reference/scrying]]
 
 
 **Price** 3800 gp; 

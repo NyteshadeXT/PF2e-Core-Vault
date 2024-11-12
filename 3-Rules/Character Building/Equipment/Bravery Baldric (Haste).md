@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bravery Baldric (Haste)
 ## Item 9
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 700 gp; 

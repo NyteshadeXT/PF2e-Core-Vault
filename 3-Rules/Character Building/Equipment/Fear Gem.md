@@ -17,7 +17,7 @@ license: ORC
 ---
 # Fear Gem
 ## Item 4
-### [[consumable]][[3-Rules/Rule References/Emotion]][[3-Rules/trait_reference/fear]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Mental]][[talisman]]
+### [[consumable]][[3-Rules/Rule References/Emotion]][[3-Rules/trait_reference/fear]][[magical|Magical]][[3-Rules/Rule References/Mental]][[talisman]]
 
 **Category** talisman; 
 **Price** 20 gp; 

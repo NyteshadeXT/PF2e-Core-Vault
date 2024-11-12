@@ -17,7 +17,7 @@ license: ORC
 ---
 # Crimson Bluff
 ## Item 15
-### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[illusion]][[3-Rules/Rule References/Magical]][[twin]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[illusion]][[magical|Magical]][[twin]]
 
 |  |  |
 | -- | -- |

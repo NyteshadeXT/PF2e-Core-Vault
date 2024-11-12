@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cursed Dreamstone
 ## Item 9
-### [rare](rare.md "Rare Rarity Trait")[[cursed]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[magical|Magical]]
 
 
 **Price** 0 gp; 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Eidetic Potion
 ## Item 6
-### [[consumable]][[3-Rules/Rule References/Magical]][[potion]]
+### [[consumable]][[magical|Magical]][[potion]]
 
 **Category** potion; 
 **Price** 40 gp; 

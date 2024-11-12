@@ -10,7 +10,7 @@ license: OGL
 ---
 # Energy Adaptive
 ## Item 13
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 
 **Price** 2600 gp; 

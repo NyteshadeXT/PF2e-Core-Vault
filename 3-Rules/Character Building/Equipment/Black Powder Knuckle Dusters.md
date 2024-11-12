@@ -15,7 +15,7 @@ license: OGL
 ---
 # Black Powder Knuckle Dusters
 ## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[combination]][[concussive]][[fatal-d8]][[3-Rules/trait_reference/monk]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[combination]][[concussive]][[fatal-d8]][[3-Rules/trait_reference/monk|Monk]] 
 
 |  |  |
 | -- | -- |

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Deepdread Claw
 ## Item 14
-### [rare](rare.md "Rare Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]][[3-Rules/trait_reference/monk]][[thrown-20]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical|Magical]][[3-Rules/trait_reference/monk|Monk]] [[thrown-20]]
 
 |  |  |
 | -- | -- |

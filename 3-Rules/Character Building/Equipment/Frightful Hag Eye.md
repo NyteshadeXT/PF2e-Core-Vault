@@ -12,7 +12,7 @@ license: OGL
 ---
 # Frightful Hag Eye
 ## Item 4
-### [rare](rare.md "Rare Rarity Trait")[[invested]][[3-Rules/Rule References/Occult]][[3-Rules/trait_reference/scrying]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[3-Rules/trait_reference/occult|Occult]][[3-Rules/trait_reference/scrying]]
 
 
 **Price** 85 gp; 

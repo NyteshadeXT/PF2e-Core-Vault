@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fossil Fragment (Eurypterid Paddle)
 ## Item 12
-### [[3-Rules/trait_reference/earth]][[3-Rules/Rule References/Magical]]
+### [[3-Rules/trait_reference/earth]][[magical|Magical]]
 
 
 **Price** 1700 gp; 

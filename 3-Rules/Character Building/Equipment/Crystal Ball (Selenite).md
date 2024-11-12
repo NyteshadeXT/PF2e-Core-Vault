@@ -12,7 +12,7 @@ license: ORC
 ---
 # Crystal Ball (Selenite)
 ## Item 15
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[3-Rules/trait_reference/scrying]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/trait_reference/scrying]]
 
 
 **Price** 7000 gp; 

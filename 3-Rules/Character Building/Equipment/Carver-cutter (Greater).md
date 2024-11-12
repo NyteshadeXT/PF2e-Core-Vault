@@ -15,7 +15,7 @@ license: OGL
 ---
 # Carver-cutter (Greater)
 ## Item 13
-### [[3-Rules/Rule References/Magical]][[sweep]][[Wood]]
+### [[magical|Magical]][[sweep]][[Wood]]
 
 |  |  |
 | -- | -- |

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Cytillesh Oil
 ## Item 3
-### [[alchemical]][[consumable]][[injury]][[3-Rules/Rule References/Poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison|Poison]]
 
 **Category** poison; 
 **Price** 10 gp; 

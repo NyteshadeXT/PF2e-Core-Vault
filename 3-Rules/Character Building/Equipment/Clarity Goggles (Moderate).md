@@ -11,7 +11,7 @@ license: OGL
 ---
 # Clarity Goggles (Moderate)
 ## Item 13
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 2450 gp; 

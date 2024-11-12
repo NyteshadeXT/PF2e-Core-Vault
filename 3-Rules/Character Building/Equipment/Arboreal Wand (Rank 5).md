@@ -15,7 +15,7 @@ license: ORC
 ---
 # Arboreal Wand (Rank 5)
 ## Item 15
-### [rare](rare.md "Rare Rarity Trait")[[healing]][[3-Rules/Rule References/Magical]][[vitality]][[3-Rules/trait_reference/wand]]
+### [rare](rare.md "Rare Rarity Trait")[[healing]][[magical|Magical]][[vitality]][[3-Rules/trait_reference/wand]]
 
 **Category** wand; 
 **Price** 6500 gp; 

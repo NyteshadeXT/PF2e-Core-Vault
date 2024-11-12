@@ -13,7 +13,7 @@ license: OGL
 ---
 # Emergency Eye
 ## Item 7
-### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
+### [[consumable]][[magical|Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 60 gp; 

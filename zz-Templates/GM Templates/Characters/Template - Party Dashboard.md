@@ -24,7 +24,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 >>  |
 >> ---|---|
 > **Aliases** | `INPUT[list:aliases]` |
->> **Journey Board** | `INPUT[Null][suggester(optionQuery("Campaign/Parties/Journey Boards"), useLinks(partial)):journeyboard]` | 
+>> **Journey Board** | `INPUT[Null][suggester(optionQu5-Worldpaign/Parties/Journey Boards"), useLinks(partial)):journeyboard]` | 
 
 # <center> **`=this.file.name`** </center>
 > [!metadata|characters] Characters
@@ -33,7 +33,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 >> TABLE WITHOUT ID
 >>	embed(link(art)) AS "Art",
 >>     "<span style='display: block; text-align: center; margin-bottom: 5px;'>" + link(file.link, Title) + "</span>" AS Title
->> FROM "Campaign"
+>> FROM "5-World"
 >> WHERE econtains(whichparty, this.file.link) AND contains(tags, "Character") AND !contains(condition, "Dead")
 >> SORT tags DESC, file.name ASC
 >>```
@@ -45,7 +45,7 @@ TABLE WITHOUT ID
 >>     "<span style='display: block; border-bottom: 2px solid var(--accent); text-align: center; margin-bottom: 5px;'>" + link(file.link, Title) + "</span>" AS Title,
 >>     "<span style='display: block; border-bottom: 2px solid var(--accent); text-align: center; margin-bottom: 5px;'>" + sessiondate + "</span>" AS SessionDate,
 >>	quicknote AS "QuickNotes"
->> FROM "Campaign"
+>> FROM "5-World"
 >> WHERE econtains(whichparty, this.file.link) AND contains(tags, "SessionNote")
 >> SORT date(sessiondate, "dd/MM/yyyy") DESC LIMIT 9
 >>```
@@ -56,7 +56,7 @@ TABLE WITHOUT ID
 TABLE WITHOUT ID
 >>     "<span style='display: block; border-bottom: 2px solid var(--accent); text-align: center; margin-bottom: 5px;'>" + link(file.link, Title) + "</span>" AS Title,
 >>	quicknote AS "QuickNotes"
->> FROM "Campaign"
+>> FROM "5-World"
 >> WHERE econtains(whichparty, this.file.link) AND contains(tags, "Adventure") AND !contains(status, "✅") AND !contains(status, "❌")
 >>SORT file.name ASC
 >>```
@@ -64,7 +64,7 @@ TABLE WITHOUT ID
 > [!metadata|rumour]- Rumours
 > ```dataview
 > TABLE without id file.link AS "Name", accuracy AS Accuracy, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
 
@@ -77,42 +77,42 @@ If you are using more than 1 party, be sure to edit the data within these tables
 >> [!metadata|family] Family
 >> ```dataview
 >> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases
->> FROM "Campaign"
+>> FROM "5-World"
 >> WHERE econtains(party1relation, "Family") AND !contains(condition, "Dead")
 >> SORT file.name ASC
 > 
 >> [!metadata|ally] Ally
 >> ```dataview
 >> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases
->> FROM "Campaign"
+>> FROM "5-World"
 >> WHERE econtains(party1relation, "Ally") AND !contains(condition, "Dead")
 >> SORT file.name ASC
 >
 >> [!metadata|friend] Friends
 >> ```dataview
 >> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases
->> FROM "Campaign"
+>> FROM "5-World"
 >> WHERE econtains(party1relation, "Friend") AND !contains(condition, "Dead")
 >> SORT file.name ASC
 >
 >> [!metadata|like] Like
 >> ```dataview
 >> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases
->> FROM "Campaign"
+>> FROM "5-World"
 >> WHERE econtains(party1relation, "Like") AND !contains(condition, "Dead")
 >> SORT file.name ASC
 > 
 >> [!metadata|dislike] Dislike
 >> ```dataview
 >> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases
->> FROM "Campaign"
+>> FROM "5-World"
 >> WHERE econtains(party1relation, "Dislike") AND !contains(condition, "Dead")
 >> SORT file.name ASC
 > 
 >> [!metadata|enemy] Enemy
 >> ```dataview
 >> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases
->> FROM "Campaign"
+>> FROM "5-World"
 >> WHERE econtains(party1relation, "Enemy") AND !contains(condition, "Dead")
 >> SORT file.name ASC
 > 

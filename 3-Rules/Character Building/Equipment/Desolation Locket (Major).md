@@ -11,7 +11,7 @@ license: OGL
 ---
 # Desolation Locket (Major)
 ## Item 19
-### [[3-Rules/Rule References/Magical]][[spellheart]]
+### [[magical|Magical]][[spellheart]]
 
 
 **Price** 34000 gp; 

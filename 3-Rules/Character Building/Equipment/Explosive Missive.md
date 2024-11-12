@@ -13,7 +13,7 @@ license: OGL
 ---
 # Explosive Missive
 ## Item 4
-### [[consumable]][[3-Rules/Rule References/Magical]][[missive]]
+### [[consumable]][[magical|Magical]][[missive]]
 
 **Category** other; 
 **Price** 13 gp; 

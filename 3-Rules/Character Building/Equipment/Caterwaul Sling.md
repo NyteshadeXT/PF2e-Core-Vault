@@ -14,7 +14,7 @@ license: ORC
 ---
 # Caterwaul Sling
 ## Item 5
-### [[3-Rules/Rule References/Magical]][[propulsive]]
+### [[magical|Magical]][[propulsive]]
 
 |  |  |
 | -- | -- |

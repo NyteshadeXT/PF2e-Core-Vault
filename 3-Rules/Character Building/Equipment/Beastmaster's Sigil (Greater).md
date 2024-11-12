@@ -11,7 +11,7 @@ license: OGL
 ---
 # Beastmaster's Sigil (Greater)
 ## Item 7
-### [[3-Rules/Rule References/Magical]][[spellheart]]
+### [[magical|Magical]][[spellheart]]
 
 
 **Price** 360 gp; 

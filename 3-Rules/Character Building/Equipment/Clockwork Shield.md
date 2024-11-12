@@ -10,7 +10,7 @@ license: OGL
 ---
 # Clockwork Shield
 ## Item 11
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 
 **Price** 1300 gp; 

@@ -11,7 +11,7 @@ license: ORC
 ---
 # Fortification
 ## Item 12
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 
 **Price** 2000 gp; 

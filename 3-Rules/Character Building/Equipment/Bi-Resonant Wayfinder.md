@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bi-Resonant Wayfinder
 ## Item 6
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[invested]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[invested]][[magical|Magical]]
 
 
 **Price** 200 gp; 

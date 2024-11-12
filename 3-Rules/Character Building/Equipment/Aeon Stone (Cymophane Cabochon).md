@@ -13,7 +13,7 @@ license: OGL
 ---
 # Aeon Stone (Cymophane Cabochon)
 ## Item 9
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/earth]][[invested]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/earth]][[invested]][[magical|Magical]]
 
 
 **Price** 650 gp; 

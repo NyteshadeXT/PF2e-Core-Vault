@@ -12,7 +12,7 @@ license: OGL
 ---
 # Boots of Dancing
 ## Item 11
-### [rare](rare.md "Rare Rarity Trait")[[cursed]][[invested]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[invested]][[magical|Magical]]
 
 
 **Price** 1250 gp; 

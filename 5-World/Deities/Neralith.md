@@ -91,7 +91,7 @@ deitypower: Greater God
 > SORT file.name ASC
 
 ## Overview
-**Neralith, Goddess of Time, Fate, and Death**
+**Goddess of Time, Fate, and Death**
 
 Neralith, the Goddess of Time, Fate, and Death, holds a position of immense power and profound influence within the cosmic hierarchy. As the weaver of fate, the keeper of time, and the arbiter of death, she governs the most fundamental forces of existence. Her dominion extends over the life spans of all beings, the immutable flow of time, and the inevitable conclusion of mortality. Neralith stands as the final judge of all souls, guiding them through the passage of death and into whatever lies beyond.
 

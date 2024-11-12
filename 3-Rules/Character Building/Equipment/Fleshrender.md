@@ -16,7 +16,7 @@ license: ORC
 ---
 # Fleshrender
 ## Item 18
-### [unique](unique.md "Unique Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Magical]][[twin]]
+### [unique](unique.md "Unique Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[magical|Magical]][[twin]]
 
 |  |  |
 | -- | -- |

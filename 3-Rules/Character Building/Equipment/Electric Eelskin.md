@@ -13,7 +13,7 @@ license: ORC
 ---
 # Electric Eelskin
 ## Item 10
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 **Category** light; **Group** leather
 **Price** 950 gp; 

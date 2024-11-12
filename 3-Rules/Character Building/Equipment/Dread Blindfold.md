@@ -15,7 +15,7 @@ license: ORC
 ---
 # Dread Blindfold
 ## Item 17
-### [[3-Rules/Rule References/Emotion]][[3-Rules/trait_reference/fear]][[invested]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Mental]]
+### [[3-Rules/Rule References/Emotion]][[3-Rules/trait_reference/fear]][[invested]][[magical|Magical]][[3-Rules/Rule References/Mental]]
 
 
 **Price** 15000 gp; 

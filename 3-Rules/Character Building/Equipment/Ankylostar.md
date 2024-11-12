@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ankylostar
 ## Item 13
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

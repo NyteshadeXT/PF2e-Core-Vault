@@ -10,7 +10,7 @@ license: OGL
 ---
 # Burr Shield
 ## Item 5
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 
 **Price** 160 gp; 

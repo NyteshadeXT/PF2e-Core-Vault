@@ -12,7 +12,7 @@ license: OGL
 ---
 # Dispersing Bullet
 ## Item 6
-### [[consumable]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[magical|Magical]]
 
 **Category** ammo; 
 **Price** 50 gp; 

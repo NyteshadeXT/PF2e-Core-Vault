@@ -62,14 +62,14 @@ Summarize the month, including its place within the year and any notable events 
 > [!metadata|event]- Recurring Events
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(startdate, ", ") AS "Start Date", eventcategory AS "Category", join(location, ", ") AS Location
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(monthofoccurrence, this.file.link) AND econtains(tags, "#Event") AND !econtains(eventtype, "Significant")
 > SORT startdate ASC
 
 > [!metadata|event]- Significant Events
 > ```dataview
-> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(startdate, ", ") AS "Start Date", eventcategory AS "Category", join(location, ", ") AS Location
-> FROM "Campaign"
+> TABLE without id file.link AS "Name", j5-Worldses, ", ") AS Aliases, join(startdate, ", ") AS "Start Date", eventcategory AS "Category", join(location, ", ") AS Location
+> FROM "5-World"
 > WHERE econtains(monthofoccurrence, this.file.link) AND econtains(tags, "#Event") AND econtains(eventtype, "Significant")
 > SORT startdate ASC
 

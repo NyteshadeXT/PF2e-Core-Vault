@@ -13,7 +13,7 @@ license: ORC
 ---
 # Climbing Bolt
 ## Item 4
-### [[consumable]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[magical|Magical]]
 
 **Category** ammo; 
 **Price** 15 gp; 

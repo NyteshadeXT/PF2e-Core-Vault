@@ -12,7 +12,7 @@ license: OGL
 ---
 # Dimension Shot
 ## Item 12
-### [[consumable]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[magical|Magical]]
 
 **Category** ammo; 
 **Price** 360 gp; 

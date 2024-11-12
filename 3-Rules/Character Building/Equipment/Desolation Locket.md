@@ -11,7 +11,7 @@ license: OGL
 ---
 # Desolation Locket
 ## Item 8
-### [[3-Rules/Rule References/Magical]][[spellheart]]
+### [[magical|Magical]][[spellheart]]
 
 
 **Price** 470 gp; 

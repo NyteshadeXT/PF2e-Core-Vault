@@ -13,7 +13,7 @@ license: OGL
 ---
 # Celestial Hair
 ## Item 20
-### [rare](rare.md "Rare Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[magical|Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 12500 gp; 

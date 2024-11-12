@@ -13,7 +13,7 @@ license: OGL
 ---
 # Enigma-Sight Potion
 ## Item 11
-### [[consumable]][[3-Rules/Rule References/Magical]][[potion]]
+### [[consumable]][[magical|Magical]][[potion]]
 
 **Category** potion; 
 **Price** 250 gp; 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Elysian Clairglass
 ## Item 17
-### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Magical]][[3-Rules/trait_reference/scrying]]
+### [rare](rare.md "Rare Rarity Trait")[[magical|Magical]][[3-Rules/trait_reference/scrying]]
 
 
 **Price** 14000 gp; 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ebon Marionette
 ## Item 11
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Mental]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/Rule References/Mental]]
 
 
 **Price** 1250 gp; 

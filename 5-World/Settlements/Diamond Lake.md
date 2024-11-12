@@ -2,12 +2,13 @@
 tags:
   - "#Location"
   - "#Settlement"
-art: zz_Attachments/Diamond Lake Banner.webp
+art: zz-Attachments/Diamond Lake Banner.webp
 pronounced: Diamond-Lake
 location:
   - "[[Aetherial Highlands]]"
 settlementtype: Small Town
-population: human 79%, half- elf 8%, dwarf 6%, gnome 3%, elf 2%, halfling 1%, half-orc 1%
+population: human 96%, halfling 2%, gnome 1%, other races 1%
+defence: Weak
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -79,7 +80,7 @@ population: human 79%, half- elf 8%, dwarf 6%, gnome 3%, elf 2%, halfling 1%, ha
 
 # **`=this.file.name`** <span style="font-size: medium">"`VIEW[{pronounced}]`"</span>
 > [!recite]- Introduction
-> A script for the GM to read when the party arrive to this location for the first time.
+> Introduction to read to the players the first time they visit.
 
 > [!metadata|map]- Map
 > ```leaflet
@@ -106,42 +107,46 @@ population: human 79%, half- elf 8%, dwarf 6%, gnome 3%, elf 2%, halfling 1%, ha
 > [!metadata|district]- Districts
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(districttype, ", ") AS Type
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "District")
 > SORT districttype ASC, file.name ASC
 
 > [!metadata|location]- Locations
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(poitype, ", ") AS Type, join(link(location), ", ") AS "Location", join(link(organization), ", ") AS "Organization(s)"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "POI")
 > SORT tags DESC, poitype ASC, file.name ASC
 
 > [!metadata|organizations]- Organizations
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(organizationtype, ", ") AS Type
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "Organization")
 > SORT tags DESC, file.name ASC
 
 > [!metadata|characters]- Characters
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(occupation, ", ") AS "Occupations", join(link(organization), ", ") AS "Organizations"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "Character") AND !contains(condition, "Dead")
 > SORT tags DESC, file.name ASC
 
 > [!metadata|rumour]- Rumours
 > ```dataview
 > TABLE without id file.link AS "Name", accuracy AS Accuracy, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
 
 ## Overview
 
 > [!kirk|info] Prompt (Remove me)
-> Craft an overarching depiction of this settlement's essence. Explore its layout, cultural diversity, prominent landmarks, and economic activities. Highlight the unique features that define this place, portraying its societal dynamics and significance within the region. What makes this settlement stand out, and how do its characteristics contribute to its identity in the broader context of the region?
+> Diamond Lake nestles in the rocky crags of the Cairn Hills, three days east of Ardentia City, the seat of the local barony. Iron and silver from Diamond Lake's mines fuel the barony’s markets and support its soldiers and nobles with the raw materials necessary for weapons and finery. This trade draws hundreds of skilled and unskilled laborers into the Diamond Lake - a collection point for all manner of misfits and outcasts, all hoping to strike it rich. But the town breaks many more souls than it rewards, as it has an appetite for swallowing up the indigent and displaced to the profit to the few ruthless beneficiaries. In the hills surrounding the town, hundreds of laborers spend weeks at a time underground, breathing recycled air pumped in via systems worth ten times their combined annual salary. The miners are the chattel of Diamond Lake, its seething, tainted blood.
+> 
+> In ages past, Diamond Lake boasted an export more valuable than metal in the form of treasure liberated from the numerous tombs and burial cairns crowding the hills around the town. These remnants of a half - dozen long - dead cultures commanded scandalous priced from the Ardentia City elite, whose insatiable covetousness triggered a boom in the local economy. Those days are long gone, though. The last cairn in the region coughed up its treasures decades ago, and few locals pay much mind to stories of yet - undiscovered tombs and unplundered burial cairns. These days, only a handful of treasure seekers visit the town, and few return to the Ardentia City with anything more valuable than a wall rubbing or an ancient tool fragment.
+> 
+> Despite its squalor, Diamond Lake is crucial to the Ardentia Cities economy. The Baron of Ardentia City thus took a keen interest in local affairs, noting the rise and fall of managers who run Diamond Lake's mines in trust for the barony. However, two months ago the power balance in Diamond Lake was upturned when the town’s former Governor-Mayor fell ill and died suddenly. The power vacuum that followed threw the town and its production into downward spiral as prominent mine managers schemed for power. The Baron quickly installed the Blackwood family as Diamond Lake's new Regent, who currently battle to exert their authority with the underhanded mine managers entrenched in the town.
 
 ## Current Events
 

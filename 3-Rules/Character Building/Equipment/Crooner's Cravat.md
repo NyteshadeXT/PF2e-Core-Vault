@@ -12,7 +12,7 @@ license: ORC
 ---
 # Crooner's Cravat
 ## Item 13
-### [unique](unique.md "Unique Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
+### [unique](unique.md "Unique Rarity Trait")[[invested]][[magical|Magical]]
 
 
 **Price** 3000 gp; 

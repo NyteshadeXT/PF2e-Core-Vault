@@ -90,21 +90,21 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 > [!metadata|organizations]- Child Organizations
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(organizationtype, ", ") AS Type
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE contains(tags, "Organization") AND econtains(organization, this.file.link)
 > SORT organizationtype ASC, file.name ASC
 
 > [!metadata|characters]- Characters
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(occupation, ", ") AS "Occupations", join(link(organization), ", ") AS "Organizations"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE contains(tags, "Character") AND econtains(organization, this.file.link) AND !contains(condition, "Dead")
 > SORT tags DESC, file.name ASC
 
 > [!metadata|rumour]- Rumours
 > ```dataview
 > TABLE without id file.link AS "Name", accuracy AS Accuracy, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
 

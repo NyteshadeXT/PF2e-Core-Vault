@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bewitching Bloom (Purple Iris)
 ## Item 11
-### [[invested]][[3-Rules/Rule References/Magical]][[tattoo]]
+### [[invested]][[magical|Magical]][[tattoo]]
 
 
 **Price** 1200 gp; 

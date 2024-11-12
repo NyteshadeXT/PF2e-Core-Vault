@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dragon Throat Scale
 ## Item 7
-### [[catalyst]][[consumable]][[3-Rules/Rule References/Magical]]
+### [[catalyst]][[consumable]][[magical|Magical]]
 
 **Category** catalyst; 
 **Price** 55 gp; 

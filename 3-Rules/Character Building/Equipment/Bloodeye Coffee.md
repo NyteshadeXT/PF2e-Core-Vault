@@ -15,7 +15,7 @@ license: OGL
 ---
 # Bloodeye Coffee
 
-### [[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/Rule References/Poison]]
+### [[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/trait_reference/poison|Poison]]
 
 **Category** drug; 
 **Price** 5 sp; 

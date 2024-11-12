@@ -17,7 +17,7 @@ license: ORC
 ---
 # Acid Flask (Moderate)
 ## Item 3
-### [[3-Rules/Rule References/Acid]][[alchemical]][[bomb]][[consumable]][[splash]]
+### [[3-Rules/trait_reference/acid|Acid]] [[alchemical]][[bomb]][[consumable]][[splash]]
 
 |  |  |
 | -- | -- |

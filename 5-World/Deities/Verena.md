@@ -89,7 +89,9 @@ deitypower: Greater God
 > SORT file.name ASC
 
 ## Overview
-**Verena**, the Goddess of Commerce and Wealth, holds a critical role within the cosmic hierarchy, overseeing the ebb and flow of trade, prosperity, ambition, and even greed. Her domain covers not only material wealth but the complex webs of commerce that bind civilizations together. In the pantheon, she acts as the divine patron of merchants, traders, and those who seek to accumulate riches or influence through enterprise and cunning.
+**Goddess of Commerce and Wealth**
+
+Verena holds a critical role within the cosmic hierarchy, overseeing the ebb and flow of trade, prosperity, ambition, and even greed. Her domain covers not only material wealth but the complex webs of commerce that bind civilizations together. In the pantheon, she acts as the divine patron of merchants, traders, and those who seek to accumulate riches or influence through enterprise and cunning.
 
 Verena governs the realms of commerce, wealth, trade, prosperity, merchants, ambition, and even greed. She represents both the honorable pursuit of success and the dangerous allure of unbridled ambition. Her cosmic role places her at the center of economic activities, ensuring the smooth flow of resources and wealth across realms and societies. She is often seen as a mediator of exchanges between mortals, guiding transactions and trade deals while setting the natural boundaries of success and excess.
 

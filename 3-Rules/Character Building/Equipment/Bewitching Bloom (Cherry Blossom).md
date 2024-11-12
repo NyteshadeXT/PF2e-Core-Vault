@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bewitching Bloom (Cherry Blossom)
 ## Item 3
-### [[invested]][[3-Rules/Rule References/Magical]][[tattoo]]
+### [[invested]][[magical|Magical]][[tattoo]]
 
 
 **Price** 50 gp; 

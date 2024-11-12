@@ -14,7 +14,7 @@ license: OGL
 ---
 # Accursed Staff (Greater)
 ## Item 10
-### [[3-Rules/Rule References/Magical]][[3-Rules/Character Building/Equipment/Staff]][[two-hand-d8]]
+### [[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

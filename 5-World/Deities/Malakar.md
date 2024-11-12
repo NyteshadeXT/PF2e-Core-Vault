@@ -92,7 +92,7 @@ deitypower: Greater God
 > SORT file.name ASC
 
 ## Overview
-**Malakar: God of Decay, Corruption, Rot, Plague, and Disease**
+**God of Decay, Corruption, Rot, Plague, and Disease**
 
 Malakar presides over the darker aspects of existence—decay, rot, plague, and disease. His influence extends to all that withers and decomposes, from the physical bodies of living creatures to the corrupting forces in nature and society. He is the embodiment of entropy and the inevitable breakdown of all things, making him a powerful and feared figure in the pantheon.
 

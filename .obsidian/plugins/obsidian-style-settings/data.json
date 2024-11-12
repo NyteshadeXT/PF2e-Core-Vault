@@ -76,8 +76,8 @@
   "supercharged-links@@c171-e0fd-background-color": "#2A2A2A",
   "supercharged-links@@c-1077-9929-use-background": false,
   "supercharged-links@@1077-9929-background-color": "#2A2A2A",
-  "supercharged-links@@6d79-b09a-background-color": "#2A2A2A",
-  "supercharged-links@@c-6d79-b09a-use-background": false,
+  "supercharged-links@@6d79-b09a-background-color": "#000000",
+  "supercharged-links@@c-6d79-b09a-use-background": true,
   "supercharged-links@@c-e12b-3691-use-background": false,
   "supercharged-links@@e12b-3691-background-color": "#2A2A2A",
   "supercharged-links@@c-c171-e0fd-use-background": false,
@@ -95,7 +95,6 @@
   "supercharged-links@@f03f-57d8-weight": "bold",
   "supercharged-links@@f03f-57d8-before": "💬",
   "supercharged-links@@5871-bd1b-weight": "bold",
-  "supercharged-links@@5871-bd1b-before": "🎇",
   "supercharged-links@@f383-7125-weight": "bold",
   "supercharged-links@@f383-7125-before": "✨",
   "supercharged-links@@661a-4d85-before": "📅",
@@ -104,5 +103,6 @@
   "supercharged-links@@6eeb-1ccc-weight": "bold",
   "supercharged-links@@6eeb-1ccc-before": "🎉",
   "ITS@@select": "pathfinder-remaster",
-  "ITS@@default-statblock": true
+  "ITS@@default-statblock": true,
+  "supercharged-links@@5871-bd1b-before": "🎇"
 }

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Batsbreath Cane
 ## Item 10
-### [[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Magical]][[sweep]]
+### [[3-Rules/Rule References/Finesse]][[magical|Magical]][[sweep]]
 
 |  |  |
 | -- | -- |

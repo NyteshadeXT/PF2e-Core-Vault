@@ -13,7 +13,7 @@ license: OGL
 ---
 # Autumn's Embrace
 ## Item 12
-### [[invested]][[laminar]][[3-Rules/Rule References/Magical]]
+### [[invested]][[laminar]][[magical|Magical]]
 
 **Category** light; **Group** wood
 **Price** 2000 gp; 

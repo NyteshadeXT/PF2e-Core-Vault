@@ -14,7 +14,7 @@ license: OGL
 ---
 # Breath Blaster
 ## Item 8
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concussive]][[3-Rules/Rule References/Magical]][[scatter-10]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concussive]][[magical|Magical]][[scatter-10]]
 
 |  |  |
 | -- | -- |

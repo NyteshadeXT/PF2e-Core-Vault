@@ -12,7 +12,7 @@ license: OGL
 ---
 # Clinging Bubbles (Moderate)
 ## Item 7
-### [[consumable]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[magical|Magical]]
 
 **Category** other; 
 **Price** 70 gp; 

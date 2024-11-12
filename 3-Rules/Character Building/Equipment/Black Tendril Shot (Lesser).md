@@ -12,7 +12,7 @@ license: OGL
 ---
 # Black Tendril Shot (Lesser)
 ## Item 7
-### [[consumable]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[magical|Magical]]
 
 **Category** ammo; 
 **Price** 60 gp; 

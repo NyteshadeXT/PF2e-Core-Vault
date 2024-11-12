@@ -13,7 +13,7 @@ license: OGL
 ---
 # Blister Ammunition (Moderate)
 ## Item 11
-### [[alchemical]][[consumable]][[3-Rules/Rule References/Poison]]
+### [[alchemical]][[consumable]][[3-Rules/trait_reference/poison|Poison]]
 
 **Category** ammo; 
 **Price** 210 gp; 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Dust of Corpse Animation (Greater)
 ## Item 16
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]]
 
 **Category** other; 
 **Price** 1500 gp; 

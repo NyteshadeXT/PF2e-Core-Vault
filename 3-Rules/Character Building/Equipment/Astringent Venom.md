@@ -15,7 +15,7 @@ license: OGL
 ---
 # Astringent Venom
 ## Item 12
-### [[alchemical]][[consumable]][[contact]][[3-Rules/Rule References/Poison]][[virulent]]
+### [[alchemical]][[consumable]][[contact]][[3-Rules/trait_reference/poison|Poison]][[virulent]]
 
 **Category** poison; 
 **Price** 350 gp; 

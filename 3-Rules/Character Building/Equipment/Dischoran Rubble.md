@@ -14,7 +14,7 @@ license: ORC
 ---
 # Dischoran Rubble
 ## Item 4
-### [[catalyst]][[consumable]][[3-Rules/Rule References/Magical]]
+### [[catalyst]][[consumable]][[magical|Magical]]
 
 **Category** catalyst; 
 **Price** 18 gp; 

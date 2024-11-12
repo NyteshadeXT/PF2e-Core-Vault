@@ -91,7 +91,8 @@ deitypower: Greater God
 > SORT file.name ASC
 
 ## Overview
-### **Kataklysmos: God of Chaos and Destruction**
+**God of Chaos and Destruction**
+
 Kataklysmos is the God of Chaos and Destruction, embodying the primal and unpredictable forces that break down order, disrupt stability, and sow discord throughout the cosmos. His domain encompasses all forms of chaotic energy and destructive power, from natural disasters like earthquakes, storms, and volcanic eruptions to war, social upheaval, and the collapse of civilizations. In the cosmic hierarchy, Kataklysmos holds a crucial but often maligned position; he is the harbinger of change, the force that shatters stagnant structures, and the catalyst that compels all creation to confront its own fragility and impermanence.
 
 He is regarded as a necessary, albeit terrifying, aspect of existence—feared by many, yet begrudgingly respected by those who understand that destruction can clear the way for new growth and transformation. Kataklysmos is not a deity who seeks worship in the traditional sense; rather, he thrives on the raw energy of chaos itself, finding power in the unpredictability and upheaval that he incites.

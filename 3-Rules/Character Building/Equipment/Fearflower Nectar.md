@@ -15,7 +15,7 @@ license: ORC
 ---
 # Fearflower Nectar
 ## Item 4
-### [[alchemical]][[consumable]][[injury]][[3-Rules/Rule References/Poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison|Poison]]
 
 **Category** poison; 
 **Price** 16 gp; 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Ashes of the War God
 ## Item 20
-### [rare](rare.md "Rare Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[magical|Magical]]
 
 **Category** other; 
 **Price** 14000 gp; 

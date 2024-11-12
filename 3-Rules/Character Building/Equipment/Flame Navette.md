@@ -14,7 +14,7 @@ license: ORC
 ---
 # Flame Navette
 ## Item 16
-### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
+### [[consumable]][[magical|Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 1800 gp; 

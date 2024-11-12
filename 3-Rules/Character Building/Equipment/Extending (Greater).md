@@ -11,7 +11,7 @@ license: ORC
 ---
 # Extending (Greater)
 ## Item 13
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 
 **Price** 3000 gp; 

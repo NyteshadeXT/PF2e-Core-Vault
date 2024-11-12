@@ -12,7 +12,7 @@ license: OGL
 ---
 # Follypops
 ## Item 10
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]]
 
 **Category** other; 
 **Price** 175 gp; 

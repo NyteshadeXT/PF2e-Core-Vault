@@ -12,7 +12,7 @@ license: OGL
 ---
 # Dragon Rune Bracelet
 ## Item 11
-### [[focused]][[invested]][[3-Rules/Rule References/Magical]]
+### [[focused]][[invested]][[magical|Magical]]
 
 
 **Price** 1400 gp; 

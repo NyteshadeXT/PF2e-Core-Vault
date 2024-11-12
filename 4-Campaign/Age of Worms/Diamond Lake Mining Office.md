@@ -1,12 +1,18 @@
 ---
-name: "Diamond Lake Mining Office"
-adventure_status: "Not Started"
+name: Diamond Lake Mining Office
+adventure_status: Not Started
 tags:
   - "#Location"
   - "#Geography"
 art: zz_Attachments/Misc/PlaceholderImage.png
 total_xp: 370
 completed_xp: 0
+awarded_pp: 0
+awarded_gp: 0
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items: 
+awarded_consumable_items:
 ---
 
 Located on the outskirts of the [[Diamond Lake]] community, a ruined mine office and dwelling sits unoccupied, without an owner. This crumbling office is the site of the PCs’ first meeting in “[[The Whispering Cairn]]”. The previous owner of the building, the mining manager Ulgo Fant, abandoned the place more than fifty years ago when his mine ran dry. When he died over a decade ago, the property was left without an owner. Few have bothered to visit this wreck since its abandonment. Young children from the town often come up to the building on a dare and a few years back an inexperienced thief took up residence here before moving onto more lucrative trade routes.
@@ -56,7 +62,8 @@ creatures:
 
 The two exterior doors are damaged but are still sound and easily repaired with an hour’s worth of work and a successful DC 15 [[Skills#Crafting|Crafting]] skill check. The locks on the doors are rusted beyond repair and must be replaced. The walls and doors have the following statistics.
 
-Wooden Doors: 1½ in. thick; hardness 5; hp 15; Break DC 18. Stone Walls: 1 ft. thick; hardness 8; hp 90; Break DC 35; Climb DC 20 (15 with vines). 
+**Wooden Doors:** 1½ in. thick; hardness 5; hp 15; Break DC 18. 
+**Stone Walls:** 1 ft. thick; hardness 8; hp 90; Break DC 35; Climb DC 20 (15 with vines). 
 
 ## The Interior 
 > [!note]+ Read Aloud
@@ -91,7 +98,11 @@ creatures:
 ```
 
 > [!tip]+ Treasure
-> Text
+> Carefully hidden in the desk is a small pouch of coins and a scroll in a watertight case (DC 20 search). The first is an occult scroll containing join pasts.
+> 
+> - [ ] sp::9
+> - [ ] cp::7
+> - [ ] consumable::[[Join Pasts|Spell Scroll - 1st Level (Join Pasts)]] [ilvl::1] [gp::6]
 
 ## The Dining Room (Level 1)
 - [ ] Moderate (80 XP)
@@ -106,7 +117,14 @@ creatures:
 ```
 
 > [!tip]+ Treasure
-> Text
+> Ssyath uses the monitor lizards to guard the treasure he has acquired during his campaign. Underneath the debris in this room he has hidden a locked chest (DC 15) containing 3 gp, 5 sp and 6cp. Also underneath the debris is a signet ring from a former guard captain of the Diamond Lake garrison, a dart, a merciful balm, some journeybread and a spell scroll containing the spell instant pottery that Ssyath took from a garrison member he ambushed and killed. If the ring is returned to the Diamond Lake garrison, the characters will be rewarded with 5gp each for their service.
+> 
+> - [ ] gp::3
+> - [ ] sp::5
+> - [ ] cp::6
+> - [ ] consumable::[[Merciful Balm]] [ilvl::1] [gp::3]
+> - [ ] consumable::[[Journeybread]] [ilvl::1] [gp::3]
+> - [ ] consumable::[[Instant Pottery|Spell Scroll - 1st Level (Instant Pottery)]] [ilvl::1] [gp::12]
 
 ## The Kitchen 
 The kitchen contains an actual fire pit, but the chimney is blocked and must be cleared before it can be used. A staircase chocked with debris leads downstairs to a crude cellar.
@@ -117,7 +135,9 @@ The pantry, attached to the kitchen, has a number of empty and broken shelves al
 Ssyath keeps the groups food stores in this location. He keeps the pantry locked at all times, but as an extra measure to discourage his troops from sneaking rations, he keeps three medium vipers as well. The vipers will spring forth and attack when the pantry door is opened.
 
 > [!tip]+ Treasure
-> Text
+> The pantry contains 16 days worth of trail rations, and four waterskins. Also cleverly hidden among some refuse is a potion of emergency escape.
+> 
+> - [ ] consumable::[[Potion of Emergency Escape]] [ilvl::1] [gp::3]
 
 ## Second Story
 > [!note]+ Read Aloud
@@ -138,4 +158,34 @@ creatures:
 ```
 
 > [!tip]+ Treasure
-> Text
+> Hidden away among the refuse are some old mining items that the characters may find useful in the future, including a climber’s kit, a lantern (hooded), 3 flasks of oil, 6 torches and 50 feet of rope. Also included are a breathing mask, two miner’s helmets and miner’s outfits, a pick and a rockhammer (see Wormfood Dragon 334). A careful search also turns up a small wooden chest containing 14 gp, 3 sp, a temple sword, a wonderous figure (golden lions), some bloodeye coffee and a scroll of breathe fire.
+> 
+> - [ ] gp::14
+> - [ ] sp::3
+> - [ ] permanent::[[Stalk Goggles]] [ilvl::1] [gp::20]
+> - [ ] consumable::[[Bloodeye Coffee]] [ilvl::0] [sp::5]
+> - [ ] consumable::[[Breathe Fire|Spell Scroll - 1st Level (Breathe Fire)]] [ilvl::1] [gp::12]
+
+> [!infobox]+
+> # Can't Someone Else Do It?
+To avoid spending valuable adventuring time on construction, the players might want to hire others to clean up and repair the building.  Below is each individual task, the cost to hire an expert to do it and the amount of work an expert can do in one day.  Where the skill checks are needed the exert is assumed to have a +8 bonus on the check.
+> ###### Stats
+> Task |  Expert | Cost per Day | Amount per Day |
+> ---|---|---|---|
+> Cleaning the yard | Laborer | 1cp | 8 hours per day |
+> Rebuilding the outhouse | Carpenter | 3cp | 18cp per day |
+> Clear the debris | Laborer | 1cp | 8 hours per day |
+> Fixing the first floor | Stone carver | 3cp | 27 cp per day |
+> Fixing the second floor | Stone carver | 3cp | 27 cp per day |
+> Cleaning the interior | Laborer | 1cp | 8 hours per day |
+> Renovating the first floor | Limner | 6cp | 8 hours per day |
+> Renovating the second floor | Carpenter | 3cp | 27 cp per day |
+
+## Repairing the Mining Office
+Clearing the debris from around the building and the second floor requires a total of 40 hours of work.  Most of this debris is still suitable for repairing the building and offsets much of the cost.  Repairing the outer structure of the building requires a DC 15 [[Skills#Crafting|Crafting]] check until the value of the completed structure reaches 20gp.  This repairs all the walls on the first floor, including the porch.  The second floor requires much more work and is completed when the value of the structure reaches 50gp.  This construction requires only 1gp of raw material for every 10gp of construction completed if the present materials are used (as opposed to half the cost).
+
+The interior can be cleared of debris within 20 hours of work. The first floor can then be renovated with an additional 40 hours of work and 5gp on supplies.  Renovating the interior of the second floor requires a successful DC 15 [[Skills#Crafting|Crafting]] check until the value of the construction reaches 20gp.  Since the damage here is so extreme, the PCs must pay half the construction value for raw materials.
+
+The windows cannot be repaired and must be either boarded over or replaced.  Replacing a window costs 2sp and 1 hour of work for each window.
+
+Stocking the manor with the appropriate furniture and necessary supplies requires 20gp. This cost includes beds, chairs, rugs, table sand kitchen supplies. This make the place basically functional and comfortable enough for complete bed rest.  Increasing the expenditure to 100gp along with repairing the exterior of the building as noted earlier, gives the owners a +2 circumstance bonus on [[Skills#Diplomacy|Diplomacy]] and [[Skills#Intimidation|Intimidation]] checks made inside against those impressed by wealth (typically the poor and merchant class).

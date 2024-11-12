@@ -14,7 +14,7 @@ license: ORC
 ---
 # Explosive Ammunition (Greater)
 ## Item 13
-### [[consumable]][[3-Rules/Rule References/Fire]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[3-Rules/Rule References/Fire]][[magical|Magical]]
 
 **Category** ammo; 
 **Price** 520 gp; 

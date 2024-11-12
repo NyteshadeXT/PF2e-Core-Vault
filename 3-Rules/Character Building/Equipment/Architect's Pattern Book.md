@@ -11,7 +11,7 @@ license: OGL
 ---
 # Architect's Pattern Book
 ## Item 6
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[grimoire]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[grimoire]][[magical|Magical]]
 
 
 **Price** 240 gp; 

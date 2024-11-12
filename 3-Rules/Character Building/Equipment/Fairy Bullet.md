@@ -14,7 +14,7 @@ license: OGL
 ---
 # Fairy Bullet
 ## Item 7
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[fey]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[fey]][[magical|Magical]]
 
 **Category** ammo; 
 **Price** 65 gp; 

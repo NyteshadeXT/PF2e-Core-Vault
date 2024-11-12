@@ -11,7 +11,7 @@ license: OGL
 ---
 # Eye of the Unseen (Greater)
 ## Item 14
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 4000 gp; 

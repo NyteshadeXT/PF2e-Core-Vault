@@ -20,7 +20,7 @@ license: ORC
 ---
 # Dread Ampoule (Moderate)
 ## Item 3
-### [[alchemical]][[bomb]][[consumable]][[3-Rules/Rule References/Emotion]][[3-Rules/trait_reference/fear]][[3-Rules/Rule References/Mental]][[3-Rules/Rule References/Poison]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[3-Rules/Rule References/Emotion]][[3-Rules/trait_reference/fear]][[3-Rules/Rule References/Mental]][[3-Rules/trait_reference/poison|Poison]][[splash]]
 
 |  |  |
 | -- | -- |

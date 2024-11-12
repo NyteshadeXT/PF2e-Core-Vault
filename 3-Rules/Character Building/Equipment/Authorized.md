@@ -10,7 +10,7 @@ license: OGL
 ---
 # Authorized
 ## Item 3
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 
 **Price** 50 gp; 

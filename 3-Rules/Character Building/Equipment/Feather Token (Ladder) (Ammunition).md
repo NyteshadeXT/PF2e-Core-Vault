@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feather Token (Ladder) (Ammunition)
 ## Item 3
-### [[consumable]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[magical|Magical]]
 
 **Category** ammo; 
 **Price** 6 gp; 

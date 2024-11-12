@@ -14,7 +14,7 @@ license: OGL
 ---
 # Abysium Powder
 ## Item 9
-### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/Rule References/Poison]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/trait_reference/poison|Poison]]
 
 **Category** poison; 
 **Price** 150 gp; 

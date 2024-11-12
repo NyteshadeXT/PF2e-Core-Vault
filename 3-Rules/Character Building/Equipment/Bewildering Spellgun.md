@@ -16,7 +16,7 @@ license: OGL
 ---
 # Bewildering Spellgun
 ## Item 9
-### [[attack]][[consumable]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Mental]][[spellgun]]
+### [[attack]][[consumable]][[3-Rules/Rule References/Emotion]][[magical|Magical]][[3-Rules/Rule References/Mental]][[spellgun]]
 
 **Category** other; 
 **Price** 140 gp; 

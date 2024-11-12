@@ -14,7 +14,7 @@ license: ORC
 ---
 # Bronze Bull Pendant
 ## Item 2
-### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
+### [[consumable]][[magical|Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 7 gp; 

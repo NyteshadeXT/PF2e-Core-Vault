@@ -15,7 +15,7 @@ license: OGL
 ---
 # Liquid Euphoria
 ## Item 4
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[inhaled]][[3-Rules/Rule References/Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[inhaled]][[3-Rules/trait_reference/poison|Poison]]
 
 **Category** drug; 
 **Price** 18 gp; 

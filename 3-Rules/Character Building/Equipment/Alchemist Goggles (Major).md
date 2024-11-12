@@ -12,7 +12,7 @@ license: ORC
 ---
 # Alchemist Goggles (Major)
 ## Item 17
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 15000 gp; 

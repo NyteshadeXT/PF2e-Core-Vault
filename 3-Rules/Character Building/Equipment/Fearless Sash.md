@@ -11,7 +11,7 @@ license: OGL
 ---
 # Fearless Sash
 ## Item 7
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 325 gp; 

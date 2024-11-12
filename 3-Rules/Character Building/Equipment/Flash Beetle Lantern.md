@@ -11,7 +11,7 @@ license: ORC
 ---
 # Flash Beetle Lantern
 ## Item 3
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]]
 
 
 **Price** 50 gp; 

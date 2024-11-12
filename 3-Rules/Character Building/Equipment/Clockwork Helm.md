@@ -12,7 +12,7 @@ license: OGL
 ---
 # Clockwork Helm
 ## Item 17
-### [rare](rare.md "Rare Rarity Trait")[[clockwork]][[invested]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[clockwork]][[invested]][[magical|Magical]]
 
 
 **Price** 13000 gp; 

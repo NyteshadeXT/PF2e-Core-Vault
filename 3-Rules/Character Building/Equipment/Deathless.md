@@ -11,7 +11,7 @@ license: OGL
 ---
 # Deathless
 ## Item 7
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[healing]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[healing]][[magical|Magical]]
 
 
 **Price** 330 gp; 

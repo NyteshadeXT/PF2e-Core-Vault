@@ -10,7 +10,7 @@ license: OGL
 ---
 # Admirer's Bouquet
 ## Item 7
-### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical|Magical]]
 
 
 **Price** 350 gp; 

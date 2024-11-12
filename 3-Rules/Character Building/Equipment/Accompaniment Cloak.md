@@ -13,7 +13,7 @@ license: OGL
 ---
 # Accompaniment Cloak
 ## Item 11
-### [[focused]][[illusion]][[invested]][[3-Rules/Rule References/Occult]]
+### [[focused]][[illusion]][[invested]][[3-Rules/trait_reference/occult|Occult]]
 
 
 **Price** 1300 gp; 

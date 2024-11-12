@@ -93,7 +93,8 @@ alignment: Lawful Neutral
 > SORT file.name ASC
 
 ## Overview
-**Aegis: The God of Protection and Vigilance** 
+**God of Protection and Vigilance** 
+
 Aegis wields dominion over shields, wards, and protective magics. He have the power to form barriers against all forms of harm, enhance fortifications, and bless defenders with resilience and courage. Aegis can sense threats from great distances and grant their followers the insight to see through deception and foresee danger. He also possess the ability to bolster mortal and divine guardians alike, imbuing them with unwavering determination and indomitable strength.  He is known to manifest in moments of crisis as a spectral shield or a wall of light that deflects attacks or shields the vulnerable. Sometimes, he will appear as a protective guardian spirit in dreams, warning of impending threats or guiding lost souls to safety.
 
 Aegis occupies a crucial position among the gods, serving as the eternal guardian and watchful sentinel of the divine realm and mortal world. A trusted figure, Aegis is often called upon to arbitrate conflicts or protect weaker deities and mortals from external threats. In the cosmic hierarchy, he serves as a counterbalance to deities of chaos, destruction, and change, like [[Kataklysmos]] and [[Zerathos]]. Aegis is often allied with gods of order, justice, and life, such as [[Aurelius]] and [[Elara]], forming a protective triad that champions stability and the preservation of life.

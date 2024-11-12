@@ -17,7 +17,7 @@ license: OGL
 ---
 # Acrobat's Staff
 ## Item 6
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[fortune]][[3-Rules/Rule References/Magical]][[3-Rules/trait_reference/monk]][[parry]][[3-Rules/Rule References/Reach]][[3-Rules/trait_reference/trip]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[fortune]][[magical|Magical]][[3-Rules/trait_reference/monk|Monk]] [[parry]][[3-Rules/trait_reference/reach|Reach]] [[3-Rules/trait_reference/trip|Trip]] 
 
 |  |  |
 | -- | -- |

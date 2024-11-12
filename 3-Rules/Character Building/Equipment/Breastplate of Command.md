@@ -12,7 +12,7 @@ license: OGL
 ---
 # Breastplate of Command
 ## Item 10
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 **Category** medium; **Group** plate
 **Price** 1000 gp; 

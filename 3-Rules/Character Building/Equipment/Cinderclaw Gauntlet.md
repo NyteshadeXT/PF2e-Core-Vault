@@ -15,7 +15,7 @@ license: OGL
 ---
 # Cinderclaw Gauntlet
 ## Item 5
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[free-hand]][[3-Rules/Rule References/Magical]][[versatile-s]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[free-hand]][[magical|Magical]][[versatile-s]]
 
 |  |  |
 | -- | -- |

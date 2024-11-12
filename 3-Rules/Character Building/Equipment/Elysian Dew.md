@@ -13,7 +13,7 @@ license: OGL
 ---
 # Elysian Dew
 ## Item 12
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[potion]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[potion]]
 
 **Category** potion; 
 **Price** 375 gp; 

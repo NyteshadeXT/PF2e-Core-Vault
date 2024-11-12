@@ -14,7 +14,7 @@ license: ORC
 ---
 # Chaos Falcon Feather
 ## Item 3
-### [[catalyst]][[consumable]][[3-Rules/Rule References/Magical]]
+### [[catalyst]][[consumable]][[magical|Magical]]
 
 **Category** catalyst; 
 **Price** 10 gp; 

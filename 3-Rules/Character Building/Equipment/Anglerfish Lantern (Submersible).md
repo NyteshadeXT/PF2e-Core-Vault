@@ -12,7 +12,7 @@ license: OGL
 ---
 # Anglerfish Lantern (Submersible)
 ## Item 8
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Water]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/trait_reference/water|Water]]
 
 
 **Price** 500 gp; 

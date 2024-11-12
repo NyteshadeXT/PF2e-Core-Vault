@@ -14,7 +14,7 @@ license: ORC
 ---
 # Freezing Ammunition
 ## Item 5
-### [[3-Rules/Rule References/Cold]][[consumable]][[3-Rules/Rule References/Magical]]
+### [[3-Rules/Rule References/Cold]][[consumable]][[magical|Magical]]
 
 **Category** ammo; 
 **Price** 25 gp; 

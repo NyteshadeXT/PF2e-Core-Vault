@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bag of Devouring Type II
 ## Item 11
-### [rare](rare.md "Rare Rarity Trait")[[cursed]][[extradimensional]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[extradimensional]][[magical|Magical]]
 
 
 **Price** 0 gp; 

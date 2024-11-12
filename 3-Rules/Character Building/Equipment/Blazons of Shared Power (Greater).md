@@ -11,7 +11,7 @@ license: OGL
 ---
 # Blazons of Shared Power (Greater)
 ## Item 11
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 1350 gp; 

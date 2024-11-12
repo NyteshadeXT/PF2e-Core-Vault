@@ -12,7 +12,7 @@ license: OGL
 ---
 # Dust of Appearance
 ## Item 6
-### [[consumable]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[magical|Magical]]
 
 **Category** other; 
 **Price** 50 gp; 

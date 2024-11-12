@@ -13,7 +13,7 @@ license: OGL
 ---
 # Devil's Trident
 ## Item 9
-### [unique](unique.md "Unique Rarity Trait")[[3-Rules/Rule References/Magical]][[thrown-20]]
+### [unique](unique.md "Unique Rarity Trait")[[magical|Magical]][[thrown-20]]
 
 |  |  |
 | -- | -- |

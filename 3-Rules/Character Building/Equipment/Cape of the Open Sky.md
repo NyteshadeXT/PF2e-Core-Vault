@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cape of the Open Sky
 ## Item 18
-### [rare](rare.md "Rare Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical|Magical]]
 
 
 **Price** 22000 gp; 

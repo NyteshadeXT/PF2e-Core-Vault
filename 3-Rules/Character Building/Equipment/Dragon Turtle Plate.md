@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dragon Turtle Plate
 ## Item 9
-### [[aquadynamic]][[invested]][[3-Rules/Rule References/Magical]]
+### [[aquadynamic]][[invested]][[magical|Magical]]
 
 **Category** heavy; **Group** plate
 **Price** 700 gp; 

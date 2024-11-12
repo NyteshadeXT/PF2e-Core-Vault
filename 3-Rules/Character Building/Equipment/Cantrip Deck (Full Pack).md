@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cantrip Deck (Full Pack)
 ## Item 1
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 **Category** other; 
 **Price** 20 gp; 

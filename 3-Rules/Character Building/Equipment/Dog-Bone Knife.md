@@ -16,7 +16,7 @@ license: OGL
 ---
 # Dog-Bone Knife
 ## Item 5
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Magical]][[thrown-10]][[versatile-s]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[magical|Magical]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |

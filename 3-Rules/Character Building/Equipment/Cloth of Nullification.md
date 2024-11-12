@@ -11,7 +11,7 @@ license: ORC
 ---
 # Cloth of Nullification
 ## Item 20
-### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical|Magical]]
 
 
 **Price** 75000 gp; 

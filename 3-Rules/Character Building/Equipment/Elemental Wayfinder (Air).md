@@ -11,7 +11,7 @@ license: OGL
 ---
 # Elemental Wayfinder (Air)
 ## Item 9
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical|Magical]]
 
 
 **Price** 650 gp; 

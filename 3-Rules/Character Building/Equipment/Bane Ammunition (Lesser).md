@@ -13,7 +13,7 @@ license: OGL
 ---
 # Bane Ammunition (Lesser)
 ## Item 1
-### [[alchemical]][[consumable]][[3-Rules/Rule References/Poison]]
+### [[alchemical]][[consumable]][[3-Rules/trait_reference/poison|Poison]]
 
 **Category** ammo; 
 **Price** 3 gp; 

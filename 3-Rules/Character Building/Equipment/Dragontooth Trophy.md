@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dragontooth Trophy
 ## Item 14
-### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
+### [[consumable]][[magical|Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 800 gp; 

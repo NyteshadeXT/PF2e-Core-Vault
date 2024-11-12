@@ -12,7 +12,7 @@ license: OGL
 ---
 # Anklets of Alacrity
 ## Item 17
-### [[apex]][[invested]][[3-Rules/Rule References/Magical]]
+### [[apex]][[invested]][[magical|Magical]]
 
 
 **Price** 15000 gp; 

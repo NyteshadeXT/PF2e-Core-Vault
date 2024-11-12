@@ -13,7 +13,7 @@ license: OGL
 ---
 # Armor of the Holy Warrior
 ## Item 16
-### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Divine]][[invested]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Divine]][[invested]][[magical|Magical]]
 
 **Category** heavy; **Group** plate
 **Price** 9000 gp; 

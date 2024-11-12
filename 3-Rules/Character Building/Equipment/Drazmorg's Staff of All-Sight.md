@@ -14,7 +14,7 @@ license: OGL
 ---
 # Drazmorg's Staff of All-Sight
 ## Item 10
-### [unique](unique.md "Unique Rarity Trait")[[3-Rules/Rule References/Magical]][[3-Rules/Character Building/Equipment/Staff]][[two-hand-d8]]
+### [unique](unique.md "Unique Rarity Trait")[[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

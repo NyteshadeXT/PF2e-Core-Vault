@@ -11,7 +11,7 @@ license: OGL
 ---
 # Aeon Stone (Black Disc)
 ## Item 17
-### [rare](rare.md "Rare Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical|Magical]]
 
 
 **Price** 15000 gp; 

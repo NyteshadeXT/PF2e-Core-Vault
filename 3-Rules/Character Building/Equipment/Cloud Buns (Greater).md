@@ -13,7 +13,7 @@ license: ORC
 ---
 # Cloud Buns (Greater)
 ## Item 9
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]]
 
 **Category** other; 
 **Price** 150 gp; 

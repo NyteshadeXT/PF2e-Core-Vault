@@ -14,7 +14,7 @@ license: ORC
 ---
 # Bioluminescent Stripes
 ## Item 1
-### [[graft]][[invested]][[3-Rules/trait_reference/light]][[3-Rules/Rule References/Magical]]
+### [[graft]][[invested]][[3-Rules/trait_reference/light]][[magical|Magical]]
 
 
 **Price** 10 gp; 

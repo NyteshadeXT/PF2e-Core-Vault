@@ -15,7 +15,7 @@ license: ORC
 ---
 # Amphisbaena Handwraps
 ## Item 5
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]][[unarmed]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical|Magical]][[unarmed]]
 
 |  |  |
 | -- | -- |

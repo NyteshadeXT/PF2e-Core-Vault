@@ -15,7 +15,7 @@ license: OGL
 ---
 # Ferrofluid Urchin (Lesser)
 ## Item 7
-### [[consumable]][[3-Rules/Rule References/Magical]][[metal]][[talisman]]
+### [[consumable]][[magical|Magical]][[metal]][[talisman]]
 
 **Category** other; 
 **Price** 55 gp; 

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Belt of Good Health
 ## Item 4
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 
 **Price** 85 gp; 

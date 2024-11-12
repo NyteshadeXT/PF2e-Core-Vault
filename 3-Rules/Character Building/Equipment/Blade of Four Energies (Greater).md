@@ -15,7 +15,7 @@ license: OGL
 ---
 # Blade of Four Energies (Greater)
 ## Item 18
-### [[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Magical]][[versatile-s]]
+### [[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[magical|Magical]][[versatile-s]]
 
 |  |  |
 | -- | -- |

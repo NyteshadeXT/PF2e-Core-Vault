@@ -13,7 +13,7 @@ license: OGL
 ---
 # Disrupting Oil (Greater)
 ## Item 11
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[oil]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[oil]]
 
 **Category** oil; 
 **Price** 250 gp; 

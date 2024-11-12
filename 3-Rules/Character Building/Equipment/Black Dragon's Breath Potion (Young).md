@@ -14,7 +14,7 @@ license: OGL
 ---
 # Black Dragon's Breath Potion (Young)
 ## Item 7
-### [[3-Rules/Rule References/Acid]][[consumable]][[3-Rules/Rule References/Magical]][[potion]]
+### [[3-Rules/trait_reference/acid|Acid]] [[consumable]][[magical|Magical]][[potion]]
 
 **Category** potion; 
 **Price** 70 gp; 

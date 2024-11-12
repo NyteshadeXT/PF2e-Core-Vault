@@ -14,7 +14,7 @@ license: ORC
 ---
 # Alloy Orb (Exquisite High-Grade)
 ## Item 18
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[talisman]]
 
 **Category** other; 
 **Price** 4500 gp; 

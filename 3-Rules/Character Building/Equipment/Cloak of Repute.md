@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cloak of Repute
 ## Item 4
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 90 gp; 

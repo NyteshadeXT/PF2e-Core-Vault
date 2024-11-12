@@ -12,7 +12,7 @@ license: OGL
 ---
 # Elder Seed
 ## Item 11
-### [rare](rare.md "Rare Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[magical|Magical]]
 
 **Category** other; 
 **Price** 0 gp; 

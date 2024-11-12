@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ascendant Dragon Spirit
 ## Item 11
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[potion]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[potion]]
 
 **Category** potion; 
 **Price** 250 gp; 

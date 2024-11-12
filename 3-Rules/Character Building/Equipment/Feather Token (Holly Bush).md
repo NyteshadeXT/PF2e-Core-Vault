@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feather Token (Holly Bush)
 ## Item 2
-### [[consumable]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[magical|Magical]]
 
 **Category** other; 
 **Price** 6 gp; 

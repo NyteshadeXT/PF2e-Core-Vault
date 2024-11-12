@@ -17,7 +17,7 @@ license: OGL
 ---
 # Captivating Bauble
 ## Item 12
-### [[3-Rules/Rule References/auditory]][[consumable]][[3-Rules/Rule References/Emotion]][[linguistic]][[3-Rules/Rule References/Magical]][[talisman]][[visual]]
+### [[3-Rules/Rule References/auditory]][[consumable]][[3-Rules/Rule References/Emotion]][[linguistic]][[magical|Magical]][[talisman]][[visual]]
 
 **Category** talisman; 
 **Price** 350 gp; 

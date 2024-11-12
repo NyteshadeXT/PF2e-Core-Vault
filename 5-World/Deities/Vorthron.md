@@ -91,7 +91,8 @@ deitypower: Greater God
 > SORT file.name ASC
 
 ## Overview
-**Vorthron: God of Tyranny, Fear, Cruelty, Revenge, and Murder**
+**God of Tyranny, Fear, Cruelty, Revenge, and Murder**
+
 Vorthron embodies the darkest aspects of power, control, and malevolence. His presence within the cosmic hierarchy represents an unchecked hunger for domination, fueled by cruelty and the crushing of hope. His dominion over the most destructive aspects of mortal and divine existence makes him a fearsome and despised deity, though his influence can be felt anywhere that oppression reigns.
 
 Vorthron occupies a unique position within the pantheon as a god who thrives in chaos but uses fear and tyranny to create a twisted semblance of order. He rules over the realms of fear and violence, where his influence sows discord, breaks wills, and incites acts of cruelty and bloodshed. In the cosmic order, he stands as an eternal antagonist to gods of freedom, justice, and mercy, embodying everything that leads to the destruction of hope and the rise of oppressive regimes.

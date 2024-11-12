@@ -16,7 +16,7 @@ license: ORC
 ---
 # Cythbikian Staff
 ## Item 15
-### [unique](unique.md "Unique Rarity Trait")[[fungus]][[3-Rules/Rule References/Magical]][[3-Rules/Character Building/Equipment/Staff]][[two-hand-d8]]
+### [unique](unique.md "Unique Rarity Trait")[[fungus]][[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

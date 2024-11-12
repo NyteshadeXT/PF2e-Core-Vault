@@ -13,7 +13,7 @@ license: OGL
 ---
 # Buzzsaw Axe (Greater)
 ## Item 15
-### [[3-Rules/Rule References/Magical]][[sweep]]
+### [[magical|Magical]][[sweep]]
 
 |  |  |
 | -- | -- |

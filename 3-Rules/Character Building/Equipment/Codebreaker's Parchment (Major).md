@@ -11,7 +11,7 @@ license: OGL
 ---
 # Codebreaker's Parchment (Major)
 ## Item 17
-### [[illusion]][[3-Rules/Rule References/Magical]]
+### [[illusion]][[magical|Magical]]
 
 
 **Price** 14500 gp; 

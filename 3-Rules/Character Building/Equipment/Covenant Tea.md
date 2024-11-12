@@ -14,7 +14,7 @@ license: OGL
 ---
 # Covenant Tea
 ## Item 3
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[potion]][[tea]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[potion]][[tea]]
 
 **Category** potion; 
 **Price** 10 gp; 

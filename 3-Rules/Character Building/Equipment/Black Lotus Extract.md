@@ -16,7 +16,7 @@ license: ORC
 ---
 # Black Lotus Extract
 ## Item 19
-### [[alchemical]][[consumable]][[contact]][[3-Rules/Rule References/Poison]][[virulent]]
+### [[alchemical]][[consumable]][[contact]][[3-Rules/trait_reference/poison|Poison]][[virulent]]
 
 **Category** poison; 
 **Price** 6500 gp; 

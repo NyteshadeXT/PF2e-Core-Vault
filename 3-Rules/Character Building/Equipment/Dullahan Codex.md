@@ -12,7 +12,7 @@ license: OGL
 ---
 # Dullahan Codex
 ## Item 20
-### [unique](unique.md "Unique Rarity Trait")[[cursed]][[grimoire]][[3-Rules/Rule References/Magical]]
+### [unique](unique.md "Unique Rarity Trait")[[cursed]][[grimoire]][[magical|Magical]]
 
 
 **Price** 0 gp; 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Camp Shroud (Lesser)
 ## Item 7
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[illusion]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[illusion]][[magical|Magical]]
 
 **Category** other; 
 **Price** 65 gp; 

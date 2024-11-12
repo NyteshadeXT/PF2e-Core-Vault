@@ -16,7 +16,7 @@ license: ORC
 ---
 # Fulmination Fang
 ## Item 4
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[combination]][[concussive]][[kickback]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[combination]][[concussive]][[kickback]][[magical|Magical]]
 
 |  |  |
 | -- | -- |

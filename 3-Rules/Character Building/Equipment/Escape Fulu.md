@@ -14,7 +14,7 @@ license: OGL
 ---
 # Escape Fulu
 ## Item 7
-### [[consumable]][[fulu]][[3-Rules/Rule References/Magical]][[talisman]]
+### [[consumable]][[fulu]][[magical|Magical]][[talisman]]
 
 **Category** fulu; 
 **Price** 70 gp; 

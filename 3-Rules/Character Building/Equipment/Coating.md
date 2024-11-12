@@ -11,7 +11,7 @@ license: OGL
 ---
 # Coating
 ## Item 9
-### [[extradimensional]][[3-Rules/Rule References/Magical]]
+### [[extradimensional]][[magical|Magical]]
 
 
 **Price** 700 gp; 

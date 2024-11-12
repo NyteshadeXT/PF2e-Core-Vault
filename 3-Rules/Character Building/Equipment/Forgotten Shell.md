@@ -13,7 +13,7 @@ license: OGL
 ---
 # Forgotten Shell
 ## Item 13
-### [rare](rare.md "Rare Rarity Trait")[[bulwark]][[invested]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[bulwark]][[invested]][[magical|Magical]]
 
 **Category** heavy; **Group** plate
 **Price** 2500 gp; 

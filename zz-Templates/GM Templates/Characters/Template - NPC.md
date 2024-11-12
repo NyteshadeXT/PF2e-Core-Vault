@@ -44,7 +44,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 >> **Mannerisms** |  `INPUT[textArea:mannerisms]` |
 >> **Occupations** | `INPUT[Occupation][inlineListSuggester:occupation]` |
 >> **Organizations** | `INPUT[inlineListSuggester(optionQuery(#Organization AND !"z_Templates"), useLinks(partial)):organization]` |
->> **Religions** | `INPUT[inlineListSuggester(optionQuery(#Organization AND !"z_Templates"), useLinks(partial)):religion]` |
+>> **Religions** | `INPUT[inlineListSuggester(optionQuery(#Deity AND !"z_Templates"), useLinks(partial)):religion]` |
 >> **Owned Locations** | `INPUT[inlineListSuggester(optionQuery(#Location AND !"z_Templates"), useLinks(partial)):ownedlocation]` |
 >> **Current Location** | `INPUT[inlineListSuggester(optionQuery(#Location AND !"z_Templates"), useLinks(partial)):location]` |
 >> **Condition** | `INPUT[Condition][:condition]` |
@@ -87,21 +87,21 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 > [!metadata|letters]- Letters
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(holder, this.file.link) AND contains(tags, "Letter")
 > SORT file.name ASC
 
 > [!metadata|literature]- Literature
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(holder, this.file.link) AND contains(tags, "Literature")
 > SORT file.name ASC
 
 > [!metadata|rumour]- Rumours
 > ```dataview
 > TABLE without id file.link AS "Name", accuracy AS Accuracy, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
 

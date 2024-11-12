@@ -14,7 +14,7 @@ license: OGL
 ---
 # Achaekek's Kiss
 ## Item 20
-### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[injury]][[3-Rules/Rule References/Poison]]
+### [rare](rare.md "Rare Rarity Trait") [[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison|Poison]]
 
 **Category** poison; 
 **Price** 13000 gp; 

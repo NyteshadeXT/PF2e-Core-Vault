@@ -10,7 +10,7 @@ license: OGL
 ---
 # Flurrying
 ## Item 7
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 
 **Price** 360 gp; 

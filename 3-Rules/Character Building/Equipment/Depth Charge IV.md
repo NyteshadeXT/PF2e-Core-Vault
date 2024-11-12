@@ -12,7 +12,7 @@ license: OGL
 ---
 # Depth Charge IV
 ## Item 12
-### [[consumable]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[magical|Magical]]
 
 **Category** ammo; 
 **Price** 330 gp; 

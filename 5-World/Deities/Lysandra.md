@@ -91,7 +91,7 @@ deitypower: Greater God
 > SORT file.name ASC
 
 ## Overview
-**Lysandra: Goddess of Light, Darkness, Stars, Moon, and Sun**
+**Goddess of Light, Darkness, Stars, Moon, and Sun**
 
 Lysandra governs the celestial and cosmic forces of light and darkness, ruling over the sun, moon, stars, and the cycles of day and night. She embodies the duality of existence, balancing light and darkness, creation and destruction, and the eternal cycle of birth, death, and rebirth. Lysandra is often seen as the guardian of cosmic order, maintaining the balance between these opposing forces. Her powers are vast and encompass:
 - **Control over Celestial Bodies:** Lysandra can manipulate the sun, moon, and stars, causing eclipses, altering night and day, and guiding celestial events.

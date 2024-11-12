@@ -11,7 +11,7 @@ license: OGL
 ---
 # Aeon Stone (Agate Ellipsoid)
 ## Item 5
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical|Magical]]
 
 
 **Price** 130 gp; 

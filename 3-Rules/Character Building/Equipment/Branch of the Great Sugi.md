@@ -17,7 +17,7 @@ license: OGL
 ---
 # Branch of the Great Sugi
 ## Item 7
-### [rare](rare.md "Rare Rarity Trait")[[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Magical]][[nonlethal]][[3-Rules/Rule References/Reach]][[3-Rules/trait_reference/trip]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Finesse]][[magical|Magical]][[nonlethal]][[3-Rules/trait_reference/reach|Reach]] [[3-Rules/trait_reference/trip|Trip]] 
 
 |  |  |
 | -- | -- |

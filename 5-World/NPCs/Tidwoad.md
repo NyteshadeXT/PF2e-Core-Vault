@@ -44,7 +44,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 >> **Mannerisms** |  `INPUT[textArea:mannerisms]` |
 >> **Occupations** | `INPUT[Occupation][inlineListSuggester:occupation]` |
 >> **Organizations** | `INPUT[inlineListSuggester(optionQuery(#Organization AND !"z_Templates"), useLinks(partial)):organization]` |
->> **Religions** | `INPUT[inlineListSuggester(optionQuery(#Organization AND !"z_Templates"), useLinks(partial)):religion]` |
+>> **Religions** | `INPUT[inlineListSuggester(optionQuery(#Deity AND !"z_Templates"), useLinks(partial)):religion]` |
 >> **Owned Locations** | `INPUT[inlineListSuggester(optionQuery(#Location AND !"z_Templates"), useLinks(partial)):ownedlocation]` |
 >> **Current Location** | `INPUT[inlineListSuggester(optionQuery(#Location AND !"z_Templates"), useLinks(partial)):location]` |
 >> **Condition** | `INPUT[Condition][:condition]` |

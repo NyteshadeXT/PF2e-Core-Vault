@@ -13,7 +13,7 @@ license: OGL
 ---
 # Antivenom Potion
 ## Item 2
-### [[consumable]][[3-Rules/Rule References/Magical]][[potion]]
+### [[consumable]][[magical|Magical]][[potion]]
 
 **Category** potion; 
 **Price** 6 gp; 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Bloodburn Censer
 ## Item 13
-### [[censer]][[3-Rules/Rule References/Fire]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Poison]]
+### [[censer]][[3-Rules/Rule References/Fire]][[magical|Magical]][[3-Rules/trait_reference/poison|Poison]]
 
 
 **Price** 2750 gp; 

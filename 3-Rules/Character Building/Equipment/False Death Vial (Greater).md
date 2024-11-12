@@ -13,7 +13,7 @@ license: OGL
 ---
 # False Death Vial (Greater)
 ## Item 16
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 2000 gp; 

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Fortune's Coin
 ## Item 8
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 
 **Price** 450 gp; 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Blade Byrnie (Major)
 ## Item 19
-### [[flexible]][[invested]][[3-Rules/Rule References/Magical]][[noisy]]
+### [[flexible]][[invested]][[magical|Magical]][[noisy]]
 
 **Category** light; **Group** chain
 **Price** 35000 gp; 

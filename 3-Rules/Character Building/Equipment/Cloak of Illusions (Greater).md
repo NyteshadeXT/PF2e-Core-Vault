@@ -12,7 +12,7 @@ license: ORC
 ---
 # Cloak of Illusions (Greater)
 ## Item 12
-### [[invested]][[3-Rules/Rule References/Occult]]
+### [[invested]][[3-Rules/trait_reference/occult|Occult]]
 
 
 **Price** 1750 gp; 

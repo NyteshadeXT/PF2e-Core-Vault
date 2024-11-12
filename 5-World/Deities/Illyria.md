@@ -91,7 +91,8 @@ deitypower: Greater God
 > SORT file.name ASC
 
 ## Overview
-### **Illyria: Goddess of Creativity, Crafting, Invention, Inspiration, and Creation**
+**Goddess of Creativity, Crafting, Invention, Inspiration, and Creation**
+
 Illyria is the goddess of Creativity, Crafting, Invention, Inspiration, and Creation. She presides over the birth of new ideas, the art of making, and the endless drive to innovate and transform. Her domain includes everything from the spark of inspiration in a poet’s mind to the forge where a blacksmith hammers out new tools, from the brushstrokes on a canvas to the architecture of grand cathedrals. In the cosmic hierarchy, Illyria is regarded as the Muse of the Divine, the source of all creative endeavors and the patron of all who seek to bring something new into the world. She occupies a vital role as a catalyst for progress and change, often collaborating with other deities to breathe life into their plans through invention and innovation.
 
 Illyria embodies the principles of creativity, innovation, self-expression, and the endless pursuit of new ideas. She values originality, ingenuity, and the courage to explore the unknown. For her, creation is both a form of self-expression and a fundamental aspect of existence. She believes in progress through invention, growth through experimentation, and transformation through creative thought. To Illyria, every mistake is an opportunity to learn, and every success is a stepping stone to a new challenge.

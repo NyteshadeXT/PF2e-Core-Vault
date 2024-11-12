@@ -14,7 +14,7 @@ license: OGL
 ---
 # Bloodhammer Reserve
 ## Item 4
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[polymorph]][[potion]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[polymorph]][[potion]]
 
 **Category** potion; 
 **Price** 20 gp; 

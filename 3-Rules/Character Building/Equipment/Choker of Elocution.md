@@ -12,7 +12,7 @@ license: ORC
 ---
 # Choker of Elocution
 ## Item 6
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 200 gp; 

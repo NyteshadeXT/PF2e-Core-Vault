@@ -16,7 +16,7 @@ license: ORC
 ---
 # Chimera Flail
 ## Item 9
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Magical]][[sweep]][[3-Rules/trait_reference/trip]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/disarm]][[magical|Magical]][[sweep]][[3-Rules/trait_reference/trip|Trip]] 
 
 |  |  |
 | -- | -- |

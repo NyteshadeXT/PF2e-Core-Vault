@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bitter
 ## Item 9
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/trait_reference/poison|Poison]]
 
 
 **Price** 135 gp; 

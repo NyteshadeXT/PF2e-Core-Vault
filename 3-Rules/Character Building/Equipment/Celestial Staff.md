@@ -15,7 +15,7 @@ license: OGL
 ---
 # Celestial Staff
 ## Item 17
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[holy]][[3-Rules/Rule References/Magical]][[3-Rules/Character Building/Equipment/Staff]][[two-hand-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[holy]][[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

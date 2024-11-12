@@ -12,7 +12,7 @@ license: OGL
 ---
 # Conch of Otherworldly Seas
 ## Item 12
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Water]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/trait_reference/water|Water]]
 
 
 **Price** 1850 gp; 

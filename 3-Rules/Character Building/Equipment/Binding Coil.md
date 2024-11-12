@@ -13,7 +13,7 @@ license: OGL
 ---
 # Binding Coil
 ## Item 6
-### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
+### [[consumable]][[magical|Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 50 gp; 

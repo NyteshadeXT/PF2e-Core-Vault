@@ -12,7 +12,7 @@ license: ORC
 ---
 # Bracers of Missile Deflection
 ## Item 3
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 52 gp; 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Bristling Spines (Moderate)
 ## Item 3
-### [[graft]][[invested]][[3-Rules/Rule References/Magical]]
+### [[graft]][[invested]][[magical|Magical]]
 
 
 **Price** 60 gp; 

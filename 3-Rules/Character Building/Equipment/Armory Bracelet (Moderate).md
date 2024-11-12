@@ -11,7 +11,7 @@ license: OGL
 ---
 # Armory Bracelet (Moderate)
 ## Item 8
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 450 gp; 

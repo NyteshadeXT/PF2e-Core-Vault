@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bangles of Crowns
 ## Item 17
-### [rare](rare.md "Rare Rarity Trait")[[apex]][[invested]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[apex]][[invested]][[magical|Magical]]
 
 
 **Price** 15000 gp; 

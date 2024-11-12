@@ -11,7 +11,7 @@ license: ORC
 ---
 # Energy-Resistant
 ## Item 8
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 
 **Price** 420 gp; 

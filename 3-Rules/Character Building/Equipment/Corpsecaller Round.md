@@ -13,7 +13,7 @@ license: OGL
 ---
 # Corpsecaller Round
 ## Item 9
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[void]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[void]]
 
 **Category** ammo; 
 **Price** 130 gp; 

@@ -298,5 +298,8 @@ A button inset into the wall near the elevator shaft serves as a call button for
 > [[Trap]]
 - [ ] Trap (8 XP)
 
+## 10. Passage of Honor
+> [!note]+ Read Aloud
+> Curious carvings that seem to represent a stirring tempest cover the walls of this ten-foot-wide passage. At ten-foot intervals, small alcoves flank the passage, and each alcove contains an androgynous humanoid figure with cupped hands.  The figures stand roughly seven feet tall.  A faint wind seems to play within the passage, but it's difficult to tell where it's coming from.
 
-
+Each statue bears the likeness of one of Nadroc's noble Wind Duke patrons.  Their cupped hands once cradled miniature statuettes of magnificent vaati buildings constructed by the architect in their names.  The figurines rested upon a soft current of air immediately above the statues' cupped hands.  These currents still exist, and will hold any Tiny or smaller object aloft indefinitely.  They are the source of the strange breeze in the hallway.  The statuettes now rest in the pouch of an ancient tomb robber who lies dead in area 11.

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Drums of War (Greater)
 ## Item 8
-### [[coda]][[3-Rules/Rule References/Occult]][[3-Rules/Character Building/Equipment/Staff]]
+### [[coda]][[3-Rules/trait_reference/occult|Occult]][[3-Rules/trait_reference/staff|Staff]]
 
 
 **Price** 460 gp; 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Clay Sphere
 ## Item 3
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[spellheart]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[spellheart]]
 
 
 **Price** 55 gp; 

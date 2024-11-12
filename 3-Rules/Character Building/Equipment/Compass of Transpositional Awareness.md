@@ -12,7 +12,7 @@ license: OGL
 ---
 # Compass of Transpositional Awareness
 ## Item 10
-### [rare](rare.md "Rare Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]][[teleportation]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical|Magical]][[teleportation]]
 
 
 **Price** 950 gp; 

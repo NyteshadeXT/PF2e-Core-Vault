@@ -13,7 +13,7 @@ license: OGL
 ---
 # Cloning Potion
 ## Item 18
-### [rare](rare.md "Rare Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[potion]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[magical|Magical]][[potion]]
 
 **Category** potion; 
 **Price** 5000 gp; 

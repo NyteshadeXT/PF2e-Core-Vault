@@ -12,7 +12,7 @@ license: OGL
 ---
 # Cloak of Elvenkind
 ## Item 7
-### [[illusion]][[invested]][[3-Rules/Rule References/Magical]]
+### [[illusion]][[invested]][[magical|Magical]]
 
 
 **Price** 360 gp; 

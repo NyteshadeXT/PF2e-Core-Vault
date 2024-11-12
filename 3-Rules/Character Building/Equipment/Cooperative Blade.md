@@ -13,7 +13,7 @@ license: OGL
 ---
 # Cooperative Blade
 ## Item 6
-### [unique](unique.md "Unique Rarity Trait")[[3-Rules/Rule References/Magical]][[versatile-p]]
+### [unique](unique.md "Unique Rarity Trait")[[magical|Magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

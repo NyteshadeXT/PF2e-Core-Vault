@@ -13,7 +13,7 @@ license: ORC
 ---
 # Fire-Jump Ring
 ## Item 10
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Fire]][[invested]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Fire]][[invested]][[magical|Magical]]
 
 
 **Price** 940 gp; 

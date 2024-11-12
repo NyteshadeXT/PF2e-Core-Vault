@@ -18,7 +18,7 @@ license: OGL
 ---
 # Azarim
 ## Item 7
-### [unique](unique.md "Unique Rarity Trait")[[deadly-d8]][[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Divine]][[3-Rules/Rule References/Finesse]][[holy]][[intelligent]][[3-Rules/Rule References/Magical]]
+### [unique](unique.md "Unique Rarity Trait")[[deadly-d8]][[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Divine]][[3-Rules/Rule References/Finesse]][[holy]][[intelligent]][[magical|Magical]]
 
 |  |  |
 | -- | -- |

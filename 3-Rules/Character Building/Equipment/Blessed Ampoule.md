@@ -13,7 +13,7 @@ license: OGL
 ---
 # Blessed Ampoule
 ## Item 4
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Divine]][[3-Rules/Rule References/Magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Divine]][[magical|Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 15 gp; 

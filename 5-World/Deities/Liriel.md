@@ -91,7 +91,7 @@ deitypower: Greater God
 > SORT file.name ASC
 
 ## Overview
-**Liriel: The Goddess of Exploration, Travel, and Luck**
+**The Goddess of Exploration, Travel, and Luck**
 
 Liriel governs the domains of Exploration, Travel, and Luck, embodying the spirit of adventure, the thrill of the unknown, and the serendipity that guides wanderers. Her influence extends to all aspects of movement, discovery, and chance, making her a patron of travelers, explorers, merchants, and adventurers. She is the wind in the sails, the sudden twist of fate, and the guiding star in a dark night.
   

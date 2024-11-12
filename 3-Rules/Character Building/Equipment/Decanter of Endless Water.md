@@ -11,7 +11,7 @@ license: OGL
 ---
 # Decanter of Endless Water
 ## Item 7
-### [[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Water]]
+### [[magical|Magical]][[3-Rules/trait_reference/water|Water]]
 
 
 **Price** 320 gp; 

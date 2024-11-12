@@ -15,7 +15,7 @@ license: ORC
 ---
 # Energy Breath Potion (Electricity, Lesser)
 ## Item 7
-### [[consumable]][[3-Rules/Rule References/Electricity]][[3-Rules/Rule References/Magical]][[potion]]
+### [[consumable]][[3-Rules/Rule References/Electricity]][[magical|Magical]][[potion]]
 
 **Category** potion; 
 **Price** 70 gp; 

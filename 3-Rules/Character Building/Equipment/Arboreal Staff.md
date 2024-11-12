@@ -16,7 +16,7 @@ license: OGL
 ---
 # Arboreal Staff
 ## Item 12
-### [rare](rare.md "Rare Rarity Trait")[[intelligent]][[3-Rules/Rule References/Magical]][[primal]][[3-Rules/Character Building/Equipment/Staff]][[two-hand-d8]]
+### [rare](rare.md "Rare Rarity Trait")[[intelligent]][[magical|Magical]][[primal]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

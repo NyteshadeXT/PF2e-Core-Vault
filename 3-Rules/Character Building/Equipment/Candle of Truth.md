@@ -14,7 +14,7 @@ license: ORC
 ---
 # Candle of Truth
 ## Item 8
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Mental]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[3-Rules/Rule References/Mental]]
 
 **Category** other; 
 **Price** 75 gp; 

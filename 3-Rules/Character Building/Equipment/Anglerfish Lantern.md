@@ -12,7 +12,7 @@ license: OGL
 ---
 # Anglerfish Lantern
 ## Item 5
-### [[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Water]]
+### [[magical|Magical]][[3-Rules/trait_reference/water|Water]]
 
 
 **Price** 150 gp; 

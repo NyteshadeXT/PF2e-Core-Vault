@@ -11,7 +11,7 @@ license: OGL
 ---
 # Armory Bracelet (Minor)
 ## Item 3
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 50 gp; 

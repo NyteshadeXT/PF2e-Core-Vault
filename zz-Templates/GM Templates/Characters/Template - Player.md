@@ -82,28 +82,28 @@ style: height: 700px;
 > [!metadata|servicerequests]- Service Requests
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(customer, this.file.link) AND contains(tags, "Service") AND !contains(status, "✅") AND !contains(status, "❌")
 > SORT file.name ASC
 
 > [!metadata|letters]- Letters
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(holder, this.file.link) AND contains(tags, "Letter")
 > SORT file.name ASC
 
 > [!metadata|literature]- Literature
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(holder, this.file.link) AND contains(tags, "Literature")
 > SORT file.name ASC
 
 > [!metadata|rumour]- Rumours
 > ```dataview
 > TABLE without id file.link AS "Name", accuracy AS Accuracy, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
 
@@ -192,28 +192,28 @@ style: height: 700px;
 > [!metadata|servicerequests]- Service Requests
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(customer, this.file.link) AND contains(tags, "Service") AND !contains(status, "✅") AND !contains(status, "❌")
 > SORT file.name ASC
 
 > [!metadata|letters]- Letters
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(holder, this.file.link) AND contains(tags, "Letter")
 > SORT file.name ASC
 
 > [!metadata|literature]- Literature
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(holder, this.file.link) AND contains(tags, "Literature")
 > SORT file.name ASC
 
 > [!metadata|rumour]- Rumours
 > ```dataview
 > TABLE without id file.link AS "Name", accuracy AS Accuracy, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Awakened Silver Shot
 ## Item 17
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[magical|Magical]]
 
 **Category** ammo; 
 **Price** 2300 gp; 

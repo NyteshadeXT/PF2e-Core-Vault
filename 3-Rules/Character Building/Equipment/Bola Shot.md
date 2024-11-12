@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bola Shot
 ## Item 5
-### [[consumable]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[magical|Magical]]
 
 **Category** ammo; 
 **Price** 25 gp; 

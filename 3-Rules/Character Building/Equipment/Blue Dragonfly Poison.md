@@ -15,7 +15,7 @@ license: ORC
 ---
 # Blue Dragonfly Poison
 ## Item 3
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[3-Rules/Rule References/Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[3-Rules/trait_reference/poison|Poison]]
 
 **Category** poison; 
 **Price** 7 gp; 

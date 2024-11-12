@@ -10,7 +10,7 @@ license: OGL
 ---
 # Earthbinding
 ## Item 5
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 
 **Price** 125 gp; 

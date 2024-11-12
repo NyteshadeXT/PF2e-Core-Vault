@@ -12,7 +12,7 @@ license: OGL
 ---
 # Brightbloom Posy (Major)
 ## Item 19
-### [[3-Rules/Rule References/Magical]][[3-Rules/trait_reference/plant]][[spellheart]]
+### [[magical|Magical]][[3-Rules/trait_reference/plant]][[spellheart]]
 
 
 **Price** 36000 gp; 

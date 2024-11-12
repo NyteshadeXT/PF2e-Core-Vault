@@ -12,7 +12,7 @@ license: OGL
 ---
 # Forgotten Signet
 ## Item 21
-### [rare](rare.md "Rare Rarity Trait")[[artifact]][[invested]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[artifact]][[invested]][[magical|Magical]]
 
 
 **Price** 0 gp; 

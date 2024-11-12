@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bomber's Saddle
 ## Item 13
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[companion]][[invested]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[companion]][[invested]][[magical|Magical]]
 
 
 **Price** 2800 gp; 

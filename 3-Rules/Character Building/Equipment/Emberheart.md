@@ -12,7 +12,7 @@ license: OGL
 ---
 # Emberheart
 ## Item 18
-### [[apex]][[invested]][[3-Rules/Rule References/Magical]]
+### [[apex]][[invested]][[magical|Magical]]
 
 
 **Price** 24000 gp; 

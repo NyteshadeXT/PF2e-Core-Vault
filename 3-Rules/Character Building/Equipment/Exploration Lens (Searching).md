@@ -11,7 +11,7 @@ license: OGL
 ---
 # Exploration Lens (Searching)
 ## Item 14
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical|Magical]]
 
 
 **Price** 4000 gp; 

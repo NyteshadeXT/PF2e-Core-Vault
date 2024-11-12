@@ -12,7 +12,7 @@ license: OGL
 ---
 # Chimera Thread
 ## Item 5
-### [[consumable]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[magical|Magical]]
 
 **Category** other; 
 **Price** 15 gp; 

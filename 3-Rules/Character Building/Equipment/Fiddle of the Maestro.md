@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fiddle of the Maestro
 ## Item 16
-### [rare](rare.md "Rare Rarity Trait")[[coda]][[3-Rules/Rule References/Occult]][[3-Rules/Character Building/Equipment/Staff]]
+### [rare](rare.md "Rare Rarity Trait")[[coda]][[3-Rules/trait_reference/occult|Occult]][[3-Rules/trait_reference/staff|Staff]]
 
 
 **Price** 10000 gp; 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Breathtaking Vapor
 ## Item 17
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/Rule References/Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/trait_reference/poison|Poison]]
 
 **Category** poison; 
 **Price** 3000 gp; 

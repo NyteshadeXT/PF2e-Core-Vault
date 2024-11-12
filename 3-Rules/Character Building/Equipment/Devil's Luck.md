@@ -13,7 +13,7 @@ license: OGL
 ---
 # Devil's Luck
 ## Item 3
-### [rare](rare.md "Rare Rarity Trait")[[contract]][[fortune]][[invested]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[contract]][[fortune]][[invested]][[magical|Magical]]
 
 
 **Price** 0 gp; 

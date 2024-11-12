@@ -13,7 +13,7 @@ license: OGL
 ---
 # Demolition Fulu (Moderate)
 ## Item 11
-### [[consumable]][[fulu]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[fulu]][[magical|Magical]]
 
 **Category** fulu; 
 **Price** 275 gp; 

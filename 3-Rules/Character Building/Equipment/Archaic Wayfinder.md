@@ -11,7 +11,7 @@ license: OGL
 ---
 # Archaic Wayfinder
 ## Item 2
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical|Magical]]
 
 
 **Price** 30 gp; 

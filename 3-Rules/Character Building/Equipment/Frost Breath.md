@@ -16,7 +16,7 @@ license: OGL
 ---
 # Frost Breath
 ## Item 7
-### [[3-Rules/Rule References/Air]][[bottled-breath]][[3-Rules/Rule References/Cold]][[consumable]][[3-Rules/Rule References/Magical]]
+### [[3-Rules/Rule References/Air]][[bottled-breath]][[3-Rules/Rule References/Cold]][[consumable]][[magical|Magical]]
 
 **Category** other; 
 **Price** 70 gp; 

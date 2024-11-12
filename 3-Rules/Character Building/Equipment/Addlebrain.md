@@ -14,7 +14,7 @@ license: OGL
 ---
 # Addlebrain
 ## Item 7
-### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/Rule References/Poison]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/trait_reference/poison|Poison]]
 
 **Category** poison; 
 **Price** 58 gp; 

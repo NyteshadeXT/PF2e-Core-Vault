@@ -15,7 +15,7 @@ license: ORC
 ---
 # Basilisk Eye
 ## Item 9
-### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]][[visual]]
+### [[consumable]][[magical|Magical]][[talisman]][[visual]]
 
 **Category** talisman; 
 **Price** 150 gp; 

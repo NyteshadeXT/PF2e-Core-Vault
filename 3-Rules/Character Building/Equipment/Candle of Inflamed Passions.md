@@ -15,7 +15,7 @@ license: OGL
 ---
 # Candle of Inflamed Passions
 ## Item 3
-### [[consumable]][[3-Rules/Rule References/Fire]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Mental]]
+### [[consumable]][[3-Rules/Rule References/Fire]][[magical|Magical]][[3-Rules/Rule References/Mental]]
 
 **Category** other; 
 **Price** 10 gp; 

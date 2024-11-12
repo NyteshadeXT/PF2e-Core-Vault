@@ -90,7 +90,8 @@ deitypower: Greater God
 > SORT file.name ASC
 
 ## Overview
-**Sylvan: God of Nature and the Seasons**
+**God of Nature and the Seasons**
+
 Sylvan embodies the forces of the natural world and the eternal cycle of growth, decay, and renewal. His domain encompasses all living things, from the smallest plants to the mightiest beasts, as well as the turning of the seasons that govern the rhythms of life. As a deity, Sylvan represents balance and harmony within nature, serving as both its protector and its living force.
 
 He holds a pivotal place in the cosmic hierarchy as the embodiment of the natural world itself. His influence is vast, stretching across the forests, mountains, oceans, and skies. He governs the seasons, ensuring the orderly progression from spring to winter and back again, and he oversees the cycle of life and death in nature. Unlike some gods who seek control over mortal affairs, Sylvan’s focus is on maintaining the balance of ecosystems and the health of the natural world, acting more as a steward of nature than an active ruler.

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Blast Foot (Greater)
 ## Item 10
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 1000 gp; 

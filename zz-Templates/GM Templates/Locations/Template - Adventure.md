@@ -39,7 +39,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 > [!metadata|quests]- Quests
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes, status AS Status
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(tags, "Quest") AND econtains(adventure, this.file.link)
 > SORT file.name ASC
 

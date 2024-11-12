@@ -13,7 +13,7 @@ license: ORC
 ---
 # Dancing Scarf
 ## Item 3
-### [[invested]][[3-Rules/Rule References/Magical]][[visual]]
+### [[invested]][[magical|Magical]][[visual]]
 
 
 **Price** 60 gp; 

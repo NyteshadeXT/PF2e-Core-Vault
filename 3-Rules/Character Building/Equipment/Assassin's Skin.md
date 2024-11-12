@@ -13,7 +13,7 @@ license: ORC
 ---
 # Assassin's Skin
 ## Item 15
-### [rare](rare.md "Rare Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical|Magical]]
 
 **Category** light; **Group** leather
 **Price** 6500 gp; 

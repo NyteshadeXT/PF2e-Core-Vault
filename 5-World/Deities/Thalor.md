@@ -91,7 +91,8 @@ deitypower: Greater God
 > SORT file.name ASC
 
 ## Overview
-**Thalor: the God of Knowledge, Wisdom, Learning, and Scholarship**
+**God of Knowledge, Wisdom, Learning, and Scholarship**
+
 Thalor is a central figure in the divine hierarchy, representing the pursuit of truth, the accumulation of knowledge, and the power of wisdom. As the embodiment of intellect and enlightenment, Thalor’s influence extends across both the mortal and divine realms, encouraging inquiry, education, and thoughtful reflection.  He governs the domains of Knowledge, Wisdom, Learning, and Scholarship, overseeing the flow of information, discovery of truths, and preservation of knowledge across the universe. He is considered the patron of scholars, sages, librarians, and philosophers, and his blessings are often invoked by those who seek insight into both the mundane and the arcane.
 
 In the cosmic hierarchy, Thalor holds a revered position among the gods, often seen as a mediator or advisor due to his deep well of wisdom. Other gods frequently turn to him for counsel, especially when facing complex decisions or philosophical dilemmas. His vast intellect makes him an arbiter of divine conflicts, often acting as a neutral party who can weigh the merits of both sides and offer guidance rooted in logic and wisdom. Despite his calm and composed demeanor, Thalor’s influence is profound, as knowledge forms the foundation upon which many divine and mortal actions are based.

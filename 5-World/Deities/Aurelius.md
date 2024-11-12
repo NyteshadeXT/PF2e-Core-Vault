@@ -92,7 +92,7 @@ alignment: Lawful Good
 > SORT file.name ASC
 
 ## Overview
-**Aurelius: God of Order, Justice, Civilization, Leadership, and Rulership**
+**God of Order, Justice, Civilization, Leadership, and Rulership**
 
 Aurelius is the divine embodiment of order, justice, and the structure of civilization. His domain encompasses all aspects of leadership, governance, and the laws that bind society together. As the ultimate arbiter of justice and the architect of civilization, Aurelius wields power over all systems of governance, from the smallest village council to the grandest empires. He has dominion over laws, courts, and the leaders who enforce them, and his influence is felt in every aspect of societal order, from the crafting of laws to the meting out of punishment. His powers manifest in various ways: the ability to enforce justice, establish and dissolve governments, bestow wisdom and authority upon rulers, and inspire unity and discipline among his followers. Aurelius is said to have the power to fortify the walls of cities, strengthen the resolve of armies, and protect the innocent while condemning the guilty. His influence ensures that order is maintained and justice prevails.
 

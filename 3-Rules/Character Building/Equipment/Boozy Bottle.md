@@ -12,7 +12,7 @@ license: OGL
 ---
 # Boozy Bottle
 ## Item 5
-### [[invested]][[3-Rules/Rule References/Magical]][[tattoo]]
+### [[invested]][[magical|Magical]][[tattoo]]
 
 
 **Price** 140 gp; 

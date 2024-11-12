@@ -14,7 +14,7 @@ license: OGL
 ---
 # Demon's Knot
 ## Item 15
-### [unique](unique.md "Unique Rarity Trait")[[artifact]][[cursed]][[invested]][[3-Rules/Rule References/Magical]][[unholy]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[cursed]][[invested]][[magical|Magical]][[unholy]]
 
 
 **Price** 0 gp; 

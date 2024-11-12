@@ -14,7 +14,7 @@ license: OGL
 ---
 # Blade of the Black Sovereign
 ## Item 15
-### [unique](unique.md "Unique Rarity Trait")[[3-Rules/Rule References/Electricity]][[3-Rules/Rule References/Magical]][[versatile-p]]
+### [unique](unique.md "Unique Rarity Trait")[[3-Rules/Rule References/Electricity]][[magical|Magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

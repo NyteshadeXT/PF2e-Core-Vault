@@ -16,7 +16,7 @@ license: ORC
 ---
 # Deathseeker
 ## Item 8
-### [[3-Rules/Rule References/Agile]][[deadly-d8]][[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Magical]]
+### [[3-Rules/Rule References/Agile]][[deadly-d8]][[3-Rules/Rule References/Finesse]][[magical|Magical]]
 
 |  |  |
 | -- | -- |

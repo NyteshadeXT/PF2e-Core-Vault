@@ -17,7 +17,7 @@ license: OGL
 ---
 # Coldstar Pistols
 ## Item 23
-### [unique](unique.md "Unique Rarity Trait")[[3-Rules/Rule References/Agile]][[artifact]][[concealable]][[concussive]][[fatal-d10]][[3-Rules/Rule References/Magical]]
+### [unique](unique.md "Unique Rarity Trait")[[3-Rules/Rule References/Agile]][[artifact]][[concealable]][[concussive]][[fatal-d10]][[magical|Magical]]
 
 |  |  |
 | -- | -- |

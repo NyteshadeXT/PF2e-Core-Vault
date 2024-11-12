@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cultist Cowl (Major)
 ## Item 17
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Divine]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Divine]][[magical|Magical]]
 
 
 **Price** 14000 gp; 

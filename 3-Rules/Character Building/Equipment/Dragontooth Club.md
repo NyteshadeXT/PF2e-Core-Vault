@@ -14,7 +14,7 @@ license: OGL
 ---
 # Dragontooth Club
 ## Item 13
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[fatal-d10]][[3-Rules/Rule References/Magical]][[versatile-s]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[fatal-d10]][[magical|Magical]][[versatile-s]]
 
 |  |  |
 | -- | -- |

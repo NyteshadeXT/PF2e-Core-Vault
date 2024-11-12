@@ -12,7 +12,7 @@ license: OGL
 ---
 # Cloak of Elvenkind (Greater)
 ## Item 12
-### [[illusion]][[invested]][[3-Rules/Rule References/Magical]]
+### [[illusion]][[invested]][[magical|Magical]]
 
 
 **Price** 1750 gp; 

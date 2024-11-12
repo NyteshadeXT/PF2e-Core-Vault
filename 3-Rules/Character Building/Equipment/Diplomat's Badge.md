@@ -12,7 +12,7 @@ license: ORC
 ---
 # Diplomat's Badge
 ## Item 5
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 125 gp; 

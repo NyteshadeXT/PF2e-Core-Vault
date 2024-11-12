@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ebon Fulcrum Lens
 ## Item 12
-### [unique](unique.md "Unique Rarity Trait")[[invested]][[3-Rules/Rule References/Occult]]
+### [unique](unique.md "Unique Rarity Trait")[[invested]][[3-Rules/trait_reference/occult|Occult]]
 
 
 **Price** 2000 gp; 

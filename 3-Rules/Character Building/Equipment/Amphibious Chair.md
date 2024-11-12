@@ -10,7 +10,7 @@ license: OGL
 ---
 # Amphibious Chair
 ## Item 9
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 
 **Price** 575 gp; 

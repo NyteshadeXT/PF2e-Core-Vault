@@ -18,7 +18,7 @@ license: ORC
 ---
 # Flying Talon
 ## Item 1
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[kobold]][[tethered]][[thrown-10]][[3-Rules/trait_reference/trip]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[kobold]][[tethered]][[thrown-10]][[3-Rules/trait_reference/trip|Trip]] 
 
 |  |  |
 | -- | -- |

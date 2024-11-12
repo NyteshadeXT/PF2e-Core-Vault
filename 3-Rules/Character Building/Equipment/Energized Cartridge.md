@@ -13,7 +13,7 @@ license: OGL
 ---
 # Energized Cartridge
 ## Item 4
-### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
+### [[consumable]][[magical|Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 20 gp; 

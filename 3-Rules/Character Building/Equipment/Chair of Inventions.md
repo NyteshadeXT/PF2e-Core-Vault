@@ -10,7 +10,7 @@ license: OGL
 ---
 # Chair of Inventions
 ## Item 8
-### [[3-Rules/Rule References/Magical]]
+### [[magical|Magical]]
 
 
 **Price** 875 gp; 

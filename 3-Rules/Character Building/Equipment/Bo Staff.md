@@ -16,7 +16,7 @@ license: ORC
 ---
 # Bo Staff
 ## Item 0
-### [[3-Rules/trait_reference/monk]][[parry]][[3-Rules/Rule References/Reach]][[3-Rules/trait_reference/trip]]
+### [[3-Rules/trait_reference/monk|Monk]] [[parry]][[3-Rules/trait_reference/reach|Reach]] [[3-Rules/trait_reference/trip|Trip]] 
 
 |  |  |
 | -- | -- |

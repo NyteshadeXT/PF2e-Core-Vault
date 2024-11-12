@@ -13,7 +13,7 @@ license: OGL
 ---
 # Anointing Oil (Greater)
 ## Item 10
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[oil]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[oil]]
 
 **Category** oil; 
 **Price** 180 gp; 

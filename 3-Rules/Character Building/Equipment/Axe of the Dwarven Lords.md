@@ -16,7 +16,7 @@ license: OGL
 ---
 # Axe of the Dwarven Lords
 ## Item 26
-### [unique](unique.md "Unique Rarity Trait")[[3-Rules/trait_reference/dwarf]][[3-Rules/Rule References/Magical]][[sweep]][[thrown-30]][[two-hand-d12]]
+### [unique](unique.md "Unique Rarity Trait")[[3-Rules/trait_reference/dwarf]][[magical|Magical]][[sweep]][[thrown-30]][[two-hand-d12]]
 
 |  |  |
 | -- | -- |

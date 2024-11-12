@@ -12,7 +12,7 @@ license: OGL
 ---
 # Emerald Fulcrum Lens
 ## Item 10
-### [unique](unique.md "Unique Rarity Trait")[[invested]][[3-Rules/Rule References/Occult]][[void]]
+### [unique](unique.md "Unique Rarity Trait")[[invested]][[3-Rules/trait_reference/occult|Occult]][[void]]
 
 
 **Price** 1000 gp; 

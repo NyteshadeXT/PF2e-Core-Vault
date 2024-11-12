@@ -13,7 +13,7 @@ license: OGL
 ---
 # Crimson Brand
 ## Item 9
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Magical]][[two-hand-d12]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[two-hand-d12]]
 
 |  |  |
 | -- | -- |

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Deck of Many Things
 ## Item 22
-### [rare](rare.md "Rare Rarity Trait")[[artifact]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[artifact]][[magical|Magical]]
 
 
 **Price** 0 gp; 

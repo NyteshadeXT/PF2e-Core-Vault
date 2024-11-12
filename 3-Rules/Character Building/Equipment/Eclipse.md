@@ -18,7 +18,7 @@ license: OGL
 ---
 # Eclipse
 ## Item 8
-### [unique](unique.md "Unique Rarity Trait")[[3-Rules/Rule References/Agile]][[deadly-d6]][[3-Rules/Rule References/Finesse]][[3-Rules/trait_reference/light]][[3-Rules/Rule References/Magical]][[thrown-20]][[versatile-s]]
+### [unique](unique.md "Unique Rarity Trait")[[3-Rules/Rule References/Agile]][[deadly-d6]][[3-Rules/Rule References/Finesse]][[3-Rules/trait_reference/light]][[magical|Magical]][[thrown-20]][[versatile-s]]
 
 |  |  |
 | -- | -- |

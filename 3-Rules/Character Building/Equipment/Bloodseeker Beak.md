@@ -14,7 +14,7 @@ license: ORC
 ---
 # Bloodseeker Beak
 ## Item 4
-### [[consumable]][[3-Rules/Rule References/Magical]][[talisman]]
+### [[consumable]][[magical|Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 20 gp; 

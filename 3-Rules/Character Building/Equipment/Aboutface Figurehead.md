@@ -13,7 +13,7 @@ license: OGL
 ---
 # Aboutface Figurehead
 ## Item 10
-### [[figurehead]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Water]]
+### [[figurehead]][[magical|Magical]][[3-Rules/trait_reference/water|Water]] 
 
 
 **Price** 980 gp; 

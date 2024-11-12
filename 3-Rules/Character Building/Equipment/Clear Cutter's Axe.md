@@ -16,7 +16,7 @@ license: ORC
 ---
 # Clear Cutter's Axe
 ## Item 9
-### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Magical]][[sweep]][[thrown-10]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Agile]][[magical|Magical]][[sweep]][[thrown-10]]
 
 |  |  |
 | -- | -- |

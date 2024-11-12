@@ -13,7 +13,7 @@ license: OGL
 ---
 # Barricade Stone (Cube)
 ## Item 8
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[structure]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[structure]]
 
 **Category** other; 
 **Price** 80 gp; 

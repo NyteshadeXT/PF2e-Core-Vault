@@ -14,7 +14,7 @@ license: OGL
 ---
 # Faerie Dragon Liqueur (Wyrm)
 ## Item 17
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Mental]][[potion]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[3-Rules/Rule References/Mental]][[potion]]
 
 **Category** potion; 
 **Price** 3000 gp; 

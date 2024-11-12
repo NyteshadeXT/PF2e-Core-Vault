@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bravery Baldric (Flight)
 ## Item 11
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 1250 gp; 

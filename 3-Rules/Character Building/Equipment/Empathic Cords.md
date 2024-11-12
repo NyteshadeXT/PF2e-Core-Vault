@@ -12,7 +12,7 @@ license: OGL
 ---
 # Empathic Cords
 ## Item 8
-### [rare](rare.md "Rare Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Mental]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical|Magical]][[3-Rules/Rule References/Mental]]
 
 
 **Price** 450 gp; 

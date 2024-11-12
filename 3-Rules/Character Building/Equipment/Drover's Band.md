@@ -12,7 +12,7 @@ license: OGL
 ---
 # Drover's Band
 ## Item 7
-### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Incapacitation]][[invested]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Incapacitation]][[invested]][[magical|Magical]]
 
 
 **Price** 675 gp; 

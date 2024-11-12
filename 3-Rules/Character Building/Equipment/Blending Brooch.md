@@ -14,7 +14,7 @@ license: OGL
 ---
 # Blending Brooch
 ## Item 11
-### [[consumable]][[illusion]][[3-Rules/Rule References/Magical]][[talisman]]
+### [[consumable]][[illusion]][[magical|Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 275 gp; 

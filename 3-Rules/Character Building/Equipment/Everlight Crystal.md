@@ -12,7 +12,7 @@ license: ORC
 ---
 # Everlight Crystal
 ## Item 1
-### [[3-Rules/trait_reference/light]][[3-Rules/Rule References/Magical]]
+### [[3-Rules/trait_reference/light]][[magical|Magical]]
 
 
 **Price** 15 gp; 

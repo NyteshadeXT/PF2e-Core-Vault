@@ -13,7 +13,7 @@ license: OGL
 ---
 # Barding Saddle
 ## Item 7
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[companion]][[invested]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[companion]][[invested]][[magical|Magical]]
 
 **Category** heavy-barding; 
 **Price** 330 gp; 

@@ -61,7 +61,7 @@ Provide a brief overview of the era, including its name, timeframe, and defining
 > [!metadata|year]- Years
 > ```dataview
 > TABLE without id file.link AS "Year", join(aliases, ", ") AS Aliases
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(era, this.file.link) AND econtains(tags, "#Year")
 > SORT file.name ASC
 

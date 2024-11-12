@@ -11,7 +11,7 @@ license: OGL
 ---
 # Aeon Stone (Gold Nodule)
 ## Item 6
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical|Magical]]
 
 
 **Price** 230 gp; 

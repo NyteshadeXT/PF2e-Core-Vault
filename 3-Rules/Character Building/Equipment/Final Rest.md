@@ -13,7 +13,7 @@ license: OGL
 ---
 # Final Rest
 ## Item 18
-### [[3-Rules/Rule References/Magical]][[versatile-p]]
+### [[magical|Magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

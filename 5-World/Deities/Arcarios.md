@@ -92,7 +92,7 @@ alignment: True Neutral
 > SORT file.name ASC
 
 ## Overview
-**Arcarios: God of Magic, Arcane Knowledge, and Mysticism**
+**God of Magic, Arcane Knowledge, and Mysticism**
 
 Arcarios governs the vast domain of magic, encompassing all forms of arcane knowledge, mystical arts, and the unseen threads of power that weave through existence. His domain stretches from the primal sources of magic in the natural world to the most intricate rituals practiced by mages and mystics. As the keeper of all arcane secrets, Arcarios holds sway over spells, enchantments, and the raw, untamed forces of magic itself. His power is said to be limitless within his domain; he can bend reality, reshape existence, and grant or deny the arcane power that mortals and gods alike covet.
 

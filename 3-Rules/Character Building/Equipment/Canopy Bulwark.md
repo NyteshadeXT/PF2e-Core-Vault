@@ -14,7 +14,7 @@ license: ORC
 ---
 # Canopy Bulwark
 ## Item 8
-### [rare](rare.md "Rare Rarity Trait")[[invested]][[laminar]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[laminar]][[magical|Magical]]
 
 **Category** light; **Group** wood
 **Price** 550 gp; 

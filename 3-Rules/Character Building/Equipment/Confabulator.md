@@ -11,7 +11,7 @@ license: OGL
 ---
 # Confabulator
 ## Item 3
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[magical|Magical]]
 
 
 **Price** 55 gp; 

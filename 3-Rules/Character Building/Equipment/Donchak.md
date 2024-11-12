@@ -15,7 +15,7 @@ license: OGL
 ---
 # Donchak
 ## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[hampering]][[3-Rules/Rule References/Reach]][[tethered]][[thrown-20]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[hampering]][[3-Rules/trait_reference/reach|Reach]] [[tethered]][[thrown-20]]
 
 |  |  |
 | -- | -- |

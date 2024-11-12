@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bloodbane (Greater)
 ## Item 13
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/dwarf]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/dwarf]][[magical|Magical]]
 
 
 **Price** 2800 gp; 

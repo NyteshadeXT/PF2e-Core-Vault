@@ -13,7 +13,7 @@ license: ORC
 ---
 # Corrosive Ammunition
 ## Item 7
-### [[consumable]][[3-Rules/Rule References/Magical]]
+### [[consumable]][[magical|Magical]]
 
 **Category** ammo; 
 **Price** 70 gp; 

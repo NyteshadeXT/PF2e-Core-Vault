@@ -15,7 +15,7 @@ license: ORC
 ---
 # Balisse Feather
 ## Item 12
-### [[consumable]][[holy]][[3-Rules/Rule References/Magical]][[talisman]]
+### [[consumable]][[holy]][[magical|Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 400 gp; 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Calamity Glass
 ## Item 11
-### [[cursed]][[3-Rules/Rule References/Magical]][[3-Rules/trait_reference/scrying]]
+### [[cursed]][[magical|Magical]][[3-Rules/trait_reference/scrying]]
 
 
 **Price** 0 gp; 

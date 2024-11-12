@@ -14,7 +14,7 @@ license: OGL
 ---
 # Bottled Omen
 ## Item 4
-### [rare](rare.md "Rare Rarity Trait")[[consumable]][[fortune]][[3-Rules/Rule References/Magical]][[potion]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[fortune]][[magical|Magical]][[potion]]
 
 **Category** potion; 
 **Price** 20 gp; 

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Bladed Diabolo
 ## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[backswing]][[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Finesse]][[thrown-40]][[3-Rules/trait_reference/trip]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[backswing]][[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Finesse]][[thrown-40]][[3-Rules/trait_reference/trip|Trip]] 
 
 |  |  |
 | -- | -- |

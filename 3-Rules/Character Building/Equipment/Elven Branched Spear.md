@@ -15,7 +15,7 @@ license: OGL
 ---
 # Elven Branched Spear
 ## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d8]][[3-Rules/trait_reference/elf]][[3-Rules/Rule References/Finesse]][[3-Rules/Rule References/Reach]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d8]][[3-Rules/trait_reference/elf]][[3-Rules/Rule References/Finesse]][[3-Rules/trait_reference/reach|Reach]] 
 
 |  |  |
 | -- | -- |

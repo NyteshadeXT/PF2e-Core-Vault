@@ -13,7 +13,7 @@ license: OGL
 ---
 # Barbed Vest
 ## Item 10
-### [rare](rare.md "Rare Rarity Trait")[[cursed]][[invested]][[3-Rules/Rule References/Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[invested]][[magical|Magical]]
 
 **Category** light; **Group** leather
 **Price** 0 gp; 

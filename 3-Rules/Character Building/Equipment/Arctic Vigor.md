@@ -13,7 +13,7 @@ license: OGL
 ---
 # Arctic Vigor
 ## Item 10
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Cold]][[invested]][[3-Rules/Rule References/Magical]][[tattoo]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Cold]][[invested]][[magical|Magical]][[tattoo]]
 
 
 **Price** 900 gp; 

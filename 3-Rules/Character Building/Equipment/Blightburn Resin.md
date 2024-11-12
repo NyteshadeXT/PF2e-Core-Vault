@@ -15,7 +15,7 @@ license: ORC
 ---
 # Blightburn Resin
 ## Item 11
-### [[alchemical]][[consumable]][[contact]][[3-Rules/Rule References/Poison]]
+### [[alchemical]][[consumable]][[contact]][[3-Rules/trait_reference/poison|Poison]]
 
 **Category** poison; 
 **Price** 225 gp; 

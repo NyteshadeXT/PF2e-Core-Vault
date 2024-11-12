@@ -13,7 +13,7 @@ license: OGL
 ---
 # Containment Contraption
 ## Item 8
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[bulwark]][[invested]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[bulwark]][[invested]][[magical|Magical]]
 
 **Category** heavy; **Group** plate
 **Price** 500 gp; 

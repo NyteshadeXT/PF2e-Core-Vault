@@ -14,7 +14,7 @@ license: ORC
 ---
 # Bougainvillea Blossom (Lesser)
 ## Item 3
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[catalyst]][[consumable]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[catalyst]][[consumable]][[magical|Magical]]
 
 **Category** catalyst; 
 **Price** 10 gp; 

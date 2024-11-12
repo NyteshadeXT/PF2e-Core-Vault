@@ -12,7 +12,7 @@ license: ORC
 ---
 # Cloak of Waves & Clouds
 ## Item 19
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 38000 gp; 

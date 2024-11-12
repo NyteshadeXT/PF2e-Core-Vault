@@ -11,7 +11,7 @@ license: OGL
 ---
 # Backfire Mantle (Greater)
 ## Item 8
-### [[invested]][[3-Rules/Rule References/Magical]]
+### [[invested]][[magical|Magical]]
 
 
 **Price** 430 gp; 

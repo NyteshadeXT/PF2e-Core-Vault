@@ -13,7 +13,7 @@ license: ORC
 ---
 # Echo Receptors
 ## Item 10
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[graft]][[invested]][[3-Rules/Rule References/Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[graft]][[invested]][[magical|Magical]]
 
 
 **Price** 950 gp; 

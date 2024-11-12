@@ -14,7 +14,7 @@ license: ORC
 ---
 # Alicorn Hair
 ## Item 1
-### [[catalyst]][[consumable]][[3-Rules/Rule References/Magical]]
+### [[catalyst]][[consumable]][[magical|Magical]]
 
 **Category** catalyst; 
 **Price** 4 gp; 
