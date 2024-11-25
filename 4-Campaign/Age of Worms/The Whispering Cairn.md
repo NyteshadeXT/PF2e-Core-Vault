@@ -7,6 +7,7 @@ total_xp: 206
 completed_xp: 0
 ---
 ![[Whispering Cairn Banner.png]]
+![[Pasted image 20241024212743.png]]
 # Adventure Synopsis
 The bulk of the adventure involved the exploration of the Whispering Cairn, a sizable dungeon complex loaded with ancient traps and a collection of interesting (and territorial) inhabitants.  Deep within the complex, the PCs come across the ghost of Alastor Land, the runaway child who fell victim to one of the cairn's traps 30 years ago.  The undead horror blocks the PCs' progress, promising to Abandon the cairn if the characters return his bones to the small family cemetery on the farmstead just outside town.
 
@@ -39,7 +40,7 @@ darkMode: false
 ```
 
 # Part 1: A Face in Darkness
-![[The Whispering Cairn-Enterence.webp]]
+![[The Whispering Cairn-Entrance.webp]]
 
 The yawning entrance to the Whispering Cairn lies about 10 minutes east of the abandoned mine office, a wide monolith-lined portal partially obscured by underbrush and boulders. Assuming the PCs have a general idea of where to look, discovering the entrance requires a DC 10 [[Perception]] check. Unless the PCs spend 10 minutes working to clear the brush and assorted debris from around the entarnce, treat the squares leading form the hillside to [[The Whispering Cairn#1. Cowards Rest|area 1]] as difficult terrain.
 
@@ -69,7 +70,10 @@ The patterned bands bisect the walls all the way to [[The Whispering Cairn#4. Ha
 
 Every three rounds, allow the PCs a DC 10 [[Skills#Perception|Perception]] check to notice a faint flickering green light coming from the north.  This DC decreases by 5 halfway down the passage, and the light becomes obvious by the time the PCs reach [[The Whispering Cairn#4. Hall of Honor (Moderate)|area 4]].  The light comes from a guttering everburning torch in [[The Whispering Cairn#7. False Tomb|area 7]].
 
-> [!infobox]+
+![[Broken Portal.webp]]
+[[Broken Portal.webp|Show to Players]]
+
+> [!infobox|ws-med]+
 > # Campaign Seed: Wind Duke Glyphs
 > As they explore the Whispering Cairn, the PCs encounter glyphs inscribed thousands of years ago by the Wind Dukes of Aaqa.  These are the personal symbols of the general Icosiol, the hero Zosiel and the architect Nadroc.  While the legend of the Rod of Seven Parts is common currency among bards and dreamers, few specific details regarding Wind Duke culture, history and writing remain.  Their personal glyphs are thought to be the original written form of Auran, before the language of elemental air came to be represented by Draconic letterforms thousands of years ago.
 > 
@@ -81,9 +85,6 @@ Every three rounds, allow the PCs a DC 10 [[Skills#Perception|Perception]] check
 > 15 | The glyphs represent names, with each referring to a single individual.  The glyph on the arcane apparatus at [[The Whispering Cairn#2. Transport Alcove|area 2]] probably represents the seal of the most important or highest-ranking of the three found in the Whispering Cairn.  The glyph on the sarcophagi is the lowest-ranking of the three. |
 > 20 | The letterforms look similar to an ancient glyph-language called Vaati, which some unorthodox scholars consider the original written form of Auran. |
 > 25 | Vaati is an Auran word meaning "Wind Duke," and refers to the legendary Wind Dukes of Aaqa who forged the Rod of Seven Parts.  A book called the Chronicle of Chan, falsely attributed to a princess of elemental air, records a full roster of the Wind Dukes present a the Battle of Pesh and a general record of what took place there.(Allustan can requisition the book from Ardentia City's Great Library in a week's time.) |
-
-![[Broken Portal.webp]]
-[[Broken Portal.webp|Show to Players]]
 
 ## 2. Transport Alcove 
 > [!note]+ Read Aloud
@@ -143,8 +144,8 @@ The wolves prefer to gang up on the nearest opponent taking advantage of their p
 ## 5. Wolf Den
 The wolves dwell in the nearly blocked-off terminus of the east wing.  Medium or larger characters must get down on their hands and knees to negotiate the rubble passage. 
 
-![[Lantern.PNG|left]]
-[[Lantern.PNG|Show to Players]]
+![[Lantern.webp|left]]
+[[Lantern.webp|Show to Players]]
 
 > [!note]+ Read Aloud
 > The far side is rank with the smell of wild animals. Irregular piles of rubble litter the den, as do hundreds of bones and bone fragments from the creatures' past meals.  Most off these belong to animals, but a few are unmistakably human.
@@ -169,8 +170,9 @@ Through a bit faded the fresco is in remarkably good shape given its advanced ag
 The sarcophagus in the center of the chamber might suggest that this is the final chamber in Zosiel's burial cairn.  It is in fact  a false tomb meant to discourage grave robbers, and contains a number of opportunities for such interlopers to meet an untimely end.  Arcane elevators hidden in the ends of the two branch passages lead to the quarters of the architect Nadroc and his team of servitors, who dwelled below for months while completing Zosiel's tomb. 
 
 ### The Sarcophagus 
-![[Sarcophagus.png|right]]
-[[Sarcophagus.png|show to players]]
+> [!caption|right wsmall] Floats to the right
+> ![[Sarcophagus.png]]
+> [[Sarcophagus.png|Show to Players]]
 
 At the center of the chamber is a raised platform, upon which sits a sealed sarcophagus.  The lid bears a white stone relief of a tall figure cloaked in a simple garment of allowing cloth.  It's difficult to say why, exactly, but the outfit conjures thoughts of ancient times.  The figure at first looks human, but a cursory examination reveals that it is about 7 feet tall, is completely hairless and is of indeterminate sex. It's arms and hands rest at its side.  The left hand curls upon itself in a fist, but the right is placed palm up, with the thumb turned in and all but the index finger held parallel to the arm.  The index finger, originally curled under the thumb (see illustration), was broken off by tomb raiders centuries ago and now rests amid the rubble in [[The Whispering Cairn#5. Wolf Den| area 5]]. The extended fingers represent a clue to the location of the true tomb.
 
@@ -255,6 +257,10 @@ The spirits also reset the [[gout-of-flame-hb|Gout of Flame]] trap on the sarcop
 If the party is completely flummoxed by this room, a fortuitously timed "refresh" of area 7 offers a blunt way to get the action moving again.
 
 ## 8. Passage of the Face
+> [!caption|right ws-med] Floats to the right
+> ![[Passage of the Face.webp]]
+> [[Passage of the Face.webp|Show to Players]]
+
 > [!note]+ Read Aloud
 > A thin passage extends into shadows to the northeast.  Perhaps seventy feet away, the passage ends in what looks like an enormous stone human face, its mouth open in an angry scream.
 

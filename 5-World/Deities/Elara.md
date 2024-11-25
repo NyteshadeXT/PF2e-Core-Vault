@@ -10,7 +10,7 @@ aliases:
 alignment: Neutral Good
 portfolio: Life, Healing, Renewal, Mercy
 domains: Healing, Sun, Protection
-favored_weapon: Staff
+favored_weapon: Scimitar
 symbol: Dove with a lily
 deitypower: Greater God
 ---

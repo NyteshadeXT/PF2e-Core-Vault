@@ -172,7 +172,7 @@ The Church of Lysandra is divided into two factions, united in their reverence f
 
 ### The Lunar Order
 **Symbol:** Crescent moon entwined with stars
-**Favored Weapon:** Shortbow
+**Favored Weapon:** Starknife
 
 #### Agenda
 This faction focuses on lunar energies, moon phases, and the mysteries of the night. They are seers, diviners, and caretakers of lunar lore, interpreting omens and guiding spiritual journeys through lunar cycles.
