@@ -3,6 +3,21 @@ tags:
   - "#Character"
   - "#NPC"
 art: zz_Attachments/Misc/PlaceholderImage.png
+pronounced: tid-wode
+ancestry: Gnome
+gender: Male
+age: Adult
+sexuality: Straight
+alignment: Lawful Evil
+language:
+  - Common
+occupation:
+  - Jeweler
+ownedlocation:
+  - "[[Tidwod's]]"
+location:
+  - "[[Tidwod's]]"
+condition: Healthy
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -106,9 +121,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 > SORT file.name ASC
 
 ## Overview
-
-> [!kirk|info] Prompt (Remove me)
-> Craft an encompassing overview of this NPC's essence. Explore their background, motivations, quirks, and role within the world. Highlight the unique traits that define this character, delving into their personality, history, and connections to the setting. What makes this NPC stand out, and how might they influence or interact with the players and the unfolding story?
+A cantankerous jeweler with a meticulously arranged shop located on the Vein's central square.  He frequently paces upon the surface of his business counter, exclaiming that his customers efforts to get a better deal will drive him into a debtor's prison.
 
 > [!column|2 no-title]
 >
@@ -132,9 +145,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 > Unravel the aspirations that drive this NPC forward. What are their primary goals, desires, or ambitions? Explore the motivations behind their actions, whether it's seeking power, redemption, love, revenge, or a sense of belonging. Delve into the depth of their aspirations, considering how these goals shape their decisions and interactions within the world. What drives this NPC and what steps might they take to achieve their life's purpose?
 
 ## Acquaintances
-
-> [!kirk|info] Prompt (Remove me)
-Map out the intricate web of relationships surrounding this NPC. Who comprises their family, friends, and rivals? Explore the dynamics within these connections, detailing the history and events that shaped these relationships. What bonds tie them to their family or friends, and what conflicts or events have led to rivalries? Uncover the stories, shared experiences, or betrayals that have influenced the course of these relationships, shaping the NPC's interactions and choices.
+Tidwoad reports news of any significant items to both Balabar Smenk and Chaum Gansworth, who keep the gnome on a retainer to look out for possible marks with more valuables than good sense.
 
 ## Current Events
 
@@ -142,16 +153,7 @@ Map out the intricate web of relationships surrounding this NPC. Who comprises t
 > Zoom into the present circumstances surrounding this NPC. What's happening in their life right now? Detail the ongoing events, challenges, or opportunities they're facing. Are they dealing with a personal crisis, pursuing a new goal, or involved in a conflict? Furthermore, what are they actively striving for at this moment? Explore their immediate objectives, aspirations, or plans. How are these current events and goals shaping their decisions and actions in the present narrative?
 
 ## History
-
-> [!kirk|info] Prompt (Remove me)
-> Trace the life story of this NPC, unraveling their past and the events that shaped them. Explore their origins, upbringing, and significant moments that molded their character. What pivotal events, traumas, or triumphs have marked their journey? Delve into the milestones, turning points, and impactful experiences that have shaped who they are today. How have these experiences influenced their beliefs, skills, and motivations?
+Tidwoad hails from a gnome warren several days to the northwest.
 
 ## Notes
-
-
-
-
-
-
-
-Diamond Lake gnome jeweler
+Tidwoad looks more favorably upon gnomes than upon members of other races, whom he considers oafish or overly delicate.  He hosts 1d6 gnomish lodgers in the apartments above his workshop.

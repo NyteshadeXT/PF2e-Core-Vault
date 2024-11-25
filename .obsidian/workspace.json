@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "86f3341cb03d9ba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-World/NPCs/Zalmandra.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Zalmandra"
-            }
-          },
-          {
             "id": "3481c9e42eba98df",
             "type": "leaf",
             "state": {
@@ -50,21 +36,21 @@
             }
           },
           {
-            "id": "eca3a5bc7f7a4851",
+            "id": "b0341b35c1e0bd9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-World/Points of Interest/Tidwod's.md",
+                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tidwod's"
+              "title": "The Whispering Cairn"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 375.5
   },
   "right": {
     "id": "414a1381b9bc07e4",
@@ -182,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-World/Points of Interest/Tidwod's.md"
+                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tidwod's"
+              "title": "Outline of The Whispering Cairn"
             }
           },
           {
@@ -213,7 +199,7 @@
             }
           },
           {
-            "id": "27b573e3617c802d",
+            "id": "bc0d3c7b270e2922",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -238,12 +224,25 @@
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
             }
+          },
+          {
+            "id": "ac5e0145a5bb9ea3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "zz-Attachments/Whispering Cairn Banner.png"
+              },
+              "icon": "lucide-image",
+              "title": "Whispering Cairn Banner"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 386.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,40 +258,41 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-import-json:JSON/CSV Importer": false,
-      "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "helpmate:HelpMate": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "eca3a5bc7f7a4851",
+  "active": "b0341b35c1e0bd9e",
   "lastOpenFiles": [
-    "5-World/NPCs/Tidwoad.md",
-    "zz-Templates/GM Templates/Characters/Template - NPC.md",
-    "5-World/NPCs/Untitled.md",
-    "5-World/Points of Interest/Tidwod's.md",
-    "5-World/NPCs/Jierian Wierus.md",
-    "zz-Templates/GM Templates/Locations/Template - Point of Interest.md",
-    "zz-Templates/GM Templates/Locations/Template - Settlement.md",
-    "5-World/Points of Interest/Church of Aegis - Diamond Lake.md",
-    "5-World/NPCs/Hameneezer.md",
-    "5-World/NPCs/Zalmandra.md",
-    "5-World/NPCs/Tirra.md",
-    "5-World/NPCs/Thalric Stoneforge.md",
-    "5-World/NPCs/Thalorin Stormforge.md",
-    "5-World/NPCs/Silas Emberwind.md",
-    "5-World/NPCs/Shag Soloman.md",
-    "5-World/NPCs/Selene Starwhisper.md",
-    "5-World/NPCs/Riven Stormblade.md",
-    "5-World/NPCs/Nadria the Core Whisperer.md",
-    "5-World/NPCs/Malachite.md",
-    "5-World/NPCs/Lazare.md",
-    "5-World/NPCs/Lady Seraphina Moonshadow.md",
-    "5-World/NPCs/Lady Isolde Moonshadow.md",
-    "5-World/NPCs/Khellek.md",
-    "5-World/NPCs/Gaspar.md",
-    "5-World/NPCs/Ezekiel Stoneheart.md",
-    "5-World/NPCs/Elowen Stormweaver.md",
+    "3-Rules/Hazards/brown-mold-gmg.md",
+    "1-GM Toolkit/Experience Tracker.md",
+    "4-Campaign/Age of Worms/The Whispering Cairn.md",
+    "3-Rules/Bestiaries/Homebrew/lurking-stalker.md",
+    "3-Rules/Bestiaries/Bestiary 1/Aasimar Redeemer.md",
+    "3-Rules/Bestiaries/Bestiary 3/Adult Sea Dragon.md",
+    "3-Rules/Bestiaries/Homebrew/goblin-quickblade.md",
+    "3-Rules/Bestiaries/Homebrew/goblin-underboss.md",
+    "3-Rules/Bestiaries/Homebrew/beholder-gauth.md",
+    "5-World/Deities/Thalor.md",
+    "5-World/Deities/Aurelius.md",
+    "5-World/Deities/Aegis.md",
+    "5-World/Deities/Zerathos.md",
+    "5-World/Deities/Vorthron.md",
+    "5-World/Deities/Verena.md",
+    "5-World/Deities/Valorus.md",
+    "5-World/Deities/Sylvan.md",
+    "5-World/Deities/Neralith.md",
+    "5-World/Deities/Morvael.md",
+    "5-World/Deities/Malakar.md",
+    "5-World/Deities/Lysandra.md",
+    "5-World/Deities/Liriel.md",
+    "5-World/Deities/Kataklysmos.md",
+    "5-World/Deities/Illyria.md",
+    "5-World/Deities/Elara.md",
+    "5-World/Deities/Arcarios.md",
+    "zz-Attachments/Whispering Cairn Banner.png",
     "zz-Templates/Markdown/Call Out Boxes",
     "zz-Scripts/update_treasure.js",
     "zz-Attachments/Experience Tracker-20241013142445460.webp",
@@ -307,7 +307,6 @@
     "zz_Attachments/modules/battlezoo-ancestries-dungeons-pf2e/art/dungeon-gate.svg",
     "zz-Attachments/modules/battlezoo-ancestries-fusions/red-wax-stamp.webp",
     "zz-Attachments/modules/battlezoo-ancestries-fusions/fusions-cover-blank.webp",
-    "zz_Attachments/modules/battlezoo-ancestries-fusions/assets/logos/Fusion logo.png",
     "zz_Attachments/modules/battlezoo-ancestries-fusions/assets/ancestries/fusions/animated/tokens/fusions-token-1.webm",
     "zz_Attachments/modules/battlezoo-ancestries-fusions/assets/ancestries/fusions/animated/full-art/fusions-art-1.webm",
     "2-Session Journals/Age-of-Worms",

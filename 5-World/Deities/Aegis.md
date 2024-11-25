@@ -6,8 +6,8 @@ tags:
 art: zz_Attachments/Aegis.png
 pronounced: A-gee-iss
 aliases:
-  - The Just Arbiter
-  - Lord of Order
+  - Lord Protector
+  - Vigilant One
 deitypower: Greater God
 portfolio: Protection, Vigil, Guardianship, Duty, Loyalty, Obedience
 domains: |

@@ -99,9 +99,7 @@ location:
 > SORT file.name ASC
 
 ## Overview 
-
-> [!kirk|info] Prompt (Remove me)
-> Provide an overview encapsulating the essence of this place. What defines its significance? What key events or recurring activities shape its Identity? Explore the heart of this location, capturing its essence in the unfolding pages of history.
+Located on the Vein's central square, Tidwoad's is as close to a bank as one can find in Diamond Lake, and Tidwoad keeps several small vaults in the crawlspace below his workshop.  He maintains an illusory collection of his finest gems in a showroom display case, boasting that his establishment is completely theft proof. A shield guardian named Festus helps to keep the gnome's theft-free streak alive with a consistent focus on protecting the shop.
 
 ## Keyed Locations
 
@@ -122,4 +120,4 @@ Create detailed descriptions for each keyed location within the Point Of Interes
 > Explore the echoes of history within this location. What significant events have shaped its narrative? Unravel the tales engrained within its grounds, uncovering not just what happened, but also the narratives woven around these events. What stories persist, and are there misconceptions veiling the true essence of these historical moments?
 
 ## Notes
-
+The gnome jeweler charges a 5% exchange tax on all gems traded for coins, and will buy non-gem valuables at 30-50% of their true worth, depending upon the persuasiveness of his clients.

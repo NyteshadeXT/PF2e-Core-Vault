@@ -303,3 +303,42 @@ A button inset into the wall near the elevator shaft serves as a call button for
 > Curious carvings that seem to represent a stirring tempest cover the walls of this ten-foot-wide passage. At ten-foot intervals, small alcoves flank the passage, and each alcove contains an androgynous humanoid figure with cupped hands.  The figures stand roughly seven feet tall.  A faint wind seems to play within the passage, but it's difficult to tell where it's coming from.
 
 Each statue bears the likeness of one of Nadroc's noble Wind Duke patrons.  Their cupped hands once cradled miniature statuettes of magnificent vaati buildings constructed by the architect in their names.  The figurines rested upon a soft current of air immediately above the statues' cupped hands.  These currents still exist, and will hold any Tiny or smaller object aloft indefinitely.  They are the source of the strange breeze in the hallway.  The statuettes now rest in the pouch of an ancient tomb robber who lies dead in area 11.
+
+**Encounter Difficulty:**   
+- [ ] Moderate (120 XP) Level 2
+
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[lurking-stalker|Lurking Stalker]] W
+
+```encounter
+name: Passage of Honor
+party:  Age of Worms
+creatures:
+  - 2: [Lurking Stalker]
+```
+
+A pair of gruesome aberrations known as a lurking strangler stalk within the shadows of one of the display alcoves. The stranglers entered the Whispering Cairn a week ago at the behest of their master, a wizard called the Faceless One who infiltrated Diamond Lake about a month ago.  This enigmatic figure ordered the creatures to explore the ancient tombs around the town, and it soon thereafter become trapped in the Architect's Lair after riding the elevator there during a routine test.
+
+The lurking strangler is a 3-foot-long strand of striated muscle connected to two floating eyeblls. It stretches and twists as it floats through the air.
+
+## Tactics
+The lurking stranglers attempt to hide in the darkness until they can attack a character with a surprise sleep eye ray.
+
+## 11. Gallery
+> [!note]+ Read Aloud
+> A dull gray stone pillar reaches from floor to ceiling in this large chamber.  Halls extend to the east and west.
+
+The west wall of this room's gray central pillar holds a deep recession that ends at what looks like a fountain basin about 4 feet off the ground. This is the nutrient still, a magical apparatus capable of churning forth a nutritive orange sludge that looks a bit like vomit and tastes a bit like gravy.  One serving is sufficient to sustain a character for a full day.  Fifteen servings can be harvested from the basin when it is full (as it is now). Servings are replaced at a rate of one per day.
+
+The area around the nutrient still is infested with [[brown-mold-gmg|Brown Mold]]. The extent of the mold infestation is displayed on the map.
+
+The central pillar's east face bears a similar niche that extends from floor to ceiling.  IN ancient times, Nadroc hung his architect's tools on pegs in this alcove.  An unfortunate tomb robber later attempted to steal these tools, bringing a massive stone column down on his head.  A DC 15 [[seek]] check along the short wall north of the column reveals a hidden catch.  Triggering the catch hoists the column back into the ceiling, revealing a crushed human skeleton holding a shiny silver shortsword.  Most of Nadroc's tools were destroyed when the stone column fell, but one remains unharmed on its peg where the architect left it thousands of years ago.  Once the column has returned to the ceiling the trap is forever useless, as the trigger was destroyed when the column fell.
+
+A dry fountain along the south face of the central pillar features a low basin and a snall spigot about 8 feet high, looking something like a shower.  The enslaved water elemental that once powered this apparatus died centuries ago.
+
+> [!tip]+ Treasure
+> The corpse in the tool closet holds a [[Weapon Potency (+1)|+1 Shortsword]], but almost all of his other possessions were crushed along with his bones.  In a leather sack so old that it crumbles to the touch can be found the remains of three broken statuettes of Nadroc's previous commissions (looted from [[#10. Passage of Honor]]) and three that remain in excellent condition - a grand palace, a slim spire with eight connected smaller towers of different heights, and what looks like a grand stadium.  Each intact statuette is worth 20 gp.  The intact tool is a [[3-Rules/Character Building/Spells/Phantasmal Minion|Wand of Phantasmal Minion]].
+> 
+> - [ ] gp::20
+> - [ ] permanent::[[Weapon Potency (+1)]] [ilvl::2] [gp::35]
+> - [ ] permanent::[[Wand of Phantasmal Minion]] [ilvl::3] [gp::60]

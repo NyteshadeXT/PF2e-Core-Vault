@@ -23,20 +23,21 @@ This unassuming fungus leeches heat out of the air.
 - **Weaknesses** cold 10
 
 ```ad-embed-ability
-title: **Emit Cold**  ([aura](rules/traits/aura.md), [cold](rules/traits/cold.md))
+title: **Emit Cold**  ([[aura]], [[cold]])
 
+5 feet. Brown mold deals `dice: 2d6` 2d6 cold damage to nearby creatures.  
 
-5 feet. Brown mold deals `2d6` cold damage to nearby creatures.  
 %%
  #trait/aura  #trait/cold 
 %%
 ```
+
 ```ad-embed-ability
 title: **Leech Warmth** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
-- **Trigger**: Fire comes within 5 feet of the brown mold
+**Trigger**: Fire comes within 5 feet of the brown mold
 
-**Effect** The brown mold expands into every square adjacent to its space. As it grows, it pulls more heat from its surroundings, dealing `2d6+6` cold damage (DC 18 basic Fortitude save) to creatures within 10 feet after it expands.
+**Effect** The brown mold expands into every square adjacent to its space. As it grows, it pulls more heat from its surroundings, dealing `dice: 2d6+6` 2d6+6 cold damage (DC 18 basic Fortitude save) to creatures within 10 feet after it expands.
 ```
 
 **Reset** After expanding, the brown mold can't grow again for 1 day.  
