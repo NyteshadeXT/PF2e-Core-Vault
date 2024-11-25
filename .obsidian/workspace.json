@@ -1,41 +1,70 @@
 {
   "main": {
-    "id": "2e587f2aa4b23617",
+    "id": "64ed2fe01df68b18",
     "type": "split",
     "children": [
       {
-        "id": "c6e2ea0dd03cbf62",
+        "id": "0beb54f7b4a72ddc",
         "type": "tabs",
         "children": [
           {
-            "id": "877225c4fac7e65f",
+            "id": "6de5711fd0245399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-World/Deities/Zerathos.md",
+                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Zerathos"
+              "title": "The Whispering Cairn"
+            }
+          },
+          {
+            "id": "3481c9e42eba98df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Experience Tracker.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Experience Tracker"
+            }
+          },
+          {
+            "id": "b0341b35c1e0bd9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Whispering Cairn"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "344a4caf15ca2aac",
+    "id": "91a2faebe1985537",
     "type": "split",
     "children": [
       {
-        "id": "268d1e1bc4a8ae15",
+        "id": "32af39d52e7d5f3f",
         "type": "tabs",
         "children": [
           {
-            "id": "879323788683c9fd",
+            "id": "4c5a75903be9569c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +76,7 @@
             }
           },
           {
-            "id": "f2a754b56345c26c",
+            "id": "b80348b1d4a1245b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +93,7 @@
             }
           },
           {
-            "id": "818299fc42c7f1e9",
+            "id": "9792170f4e8717a7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,22 +106,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 375.5
   },
   "right": {
-    "id": "7760ee4061113bb1",
+    "id": "414a1381b9bc07e4",
     "type": "split",
     "children": [
       {
-        "id": "6a99857c51aebe65",
+        "id": "9ad52d864d8ddf2d",
         "type": "tabs",
         "children": [
           {
-            "id": "688f7fba95b2c938",
+            "id": "a1bb51e08d83d084",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,24 +132,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Diamond Lake Mining Office"
             }
           },
           {
-            "id": "6bfa6398c7015fba",
+            "id": "708f76dc1c1e8487",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Diamond Lake Mining Office"
             }
           },
           {
-            "id": "0dd846999f1a05d2",
+            "id": "da0e68d77529110c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,19 +163,19 @@
             }
           },
           {
-            "id": "c975e8d28033434e",
+            "id": "33771ecc9b2acb44",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-World/Deities/Zerathos.md"
+                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Zerathos"
+              "title": "Outline of The Whispering Cairn"
             }
           },
           {
-            "id": "cc2b707bbf41c156",
+            "id": "c698bd0dbaab22c2",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -154,7 +185,21 @@
             }
           },
           {
-            "id": "9806c5d31ebd4e31",
+            "id": "c2eb02f3e1dc5c8c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bc0d3c7b270e2922",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -163,57 +208,109 @@
               "title": "Dice Tray"
             }
           }
-        ]
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "1671e74fcd609ffc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24ac266e1111c9af",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          },
+          {
+            "id": "ac5e0145a5bb9ea3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "zz-Attachments/Whispering Cairn Banner.png"
+              },
+              "icon": "lucide-image",
+              "title": "Whispering Cairn Banner"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 386.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Obsidian Forum": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-import-json:JSON/CSV Importer": false,
-      "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "helpmate:HelpMate": false,
       "obsidian-kanban:Create new board": false,
-      "helpmate:HelpMate": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "877225c4fac7e65f",
+  "active": "b0341b35c1e0bd9e",
   "lastOpenFiles": [
-    "5-World/Deities/Vorthron.md",
+    "3-Rules/Hazards/brown-mold-gmg.md",
+    "1-GM Toolkit/Experience Tracker.md",
     "4-Campaign/Age of Worms/The Whispering Cairn.md",
-    "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
-    "5-World/Deities/Lysandra.md",
-    "5-World/Deities/Elara.md",
-    "5-World/Deities/Verena.md",
-    "5-World/Deities/Zerathos.md",
-    "5-World/Deities/Valorus.md",
+    "3-Rules/Bestiaries/Homebrew/lurking-stalker.md",
+    "3-Rules/Bestiaries/Bestiary 1/Aasimar Redeemer.md",
+    "3-Rules/Bestiaries/Bestiary 3/Adult Sea Dragon.md",
+    "3-Rules/Bestiaries/Homebrew/goblin-quickblade.md",
+    "3-Rules/Bestiaries/Homebrew/goblin-underboss.md",
+    "3-Rules/Bestiaries/Homebrew/beholder-gauth.md",
     "5-World/Deities/Thalor.md",
+    "5-World/Deities/Aurelius.md",
+    "5-World/Deities/Aegis.md",
+    "5-World/Deities/Zerathos.md",
+    "5-World/Deities/Vorthron.md",
+    "5-World/Deities/Verena.md",
+    "5-World/Deities/Valorus.md",
     "5-World/Deities/Sylvan.md",
     "5-World/Deities/Neralith.md",
     "5-World/Deities/Morvael.md",
     "5-World/Deities/Malakar.md",
+    "5-World/Deities/Lysandra.md",
     "5-World/Deities/Liriel.md",
+    "5-World/Deities/Kataklysmos.md",
     "5-World/Deities/Illyria.md",
-    "5-World/Deities/Aurelius.md",
+    "5-World/Deities/Elara.md",
     "5-World/Deities/Arcarios.md",
-    "5-World/Deities/Aegis.md",
-    "3-Rules/Hazards/hazards.md",
-    "3-Rules/Afflictions/afflictions.md",
-    "2-Session Journals/Age-of-Worms/AoW - Session Test.md",
-    "1-GM Toolkit/DM Board.md",
-    "1-GM Toolkit/Adventure Loot.md"
+    "zz-Attachments/Whispering Cairn Banner.png",
+    "zz-Templates/Markdown/Call Out Boxes",
+    "zz-Scripts/update_treasure.js",
+    "zz-Attachments/Experience Tracker-20241013142445460.webp",
+    "zz-Attachments/Age of Worms-20241013135345875.webp",
+    "zz-Scripts/update_xp.js",
+    "zz-Scripts",
+    "zz-Attachments/Diamond Lake Mining Office.webp",
+    "2-Party/Age of Worms",
+    "zz-Attachments/Diamond Lake Banner.webp",
+    "zz-Attachments/Ardentia City Map.png",
+    "zz-Attachments/modules/battlezoo-ancestries-fusions/fusions-art-1.webp",
+    "zz_Attachments/modules/battlezoo-ancestries-dungeons-pf2e/art/dungeon-gate.svg",
+    "zz-Attachments/modules/battlezoo-ancestries-fusions/red-wax-stamp.webp",
+    "zz-Attachments/modules/battlezoo-ancestries-fusions/fusions-cover-blank.webp",
+    "zz_Attachments/modules/battlezoo-ancestries-fusions/assets/ancestries/fusions/animated/tokens/fusions-token-1.webm",
+    "zz_Attachments/modules/battlezoo-ancestries-fusions/assets/ancestries/fusions/animated/full-art/fusions-art-1.webm",
+    "2-Session Journals/Age-of-Worms",
+    "4-Campaign/Age of Worms",
+    "3-Rules/afflictions"
   ]
 }

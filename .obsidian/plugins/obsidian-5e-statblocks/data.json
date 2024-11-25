@@ -6,11 +6,11 @@
   "useDice": true,
   "renderDice": true,
   "export": true,
-  "showAdvanced": false,
+  "showAdvanced": true,
   "version": {
     "major": 4,
-    "minor": 7,
-    "patch": 8
+    "minor": 8,
+    "patch": 1
   },
   "paths": [
     "/"

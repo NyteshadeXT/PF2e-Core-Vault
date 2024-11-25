@@ -104,5 +104,6 @@
   "supercharged-links@@6eeb-1ccc-before": "🎉",
   "ITS@@select": "pathfinder-remaster",
   "ITS@@default-statblock": true,
-  "supercharged-links@@5871-bd1b-before": "🎇"
+  "supercharged-links@@5871-bd1b-before": "🎇",
+  "ITS@@breadcrumbs-block": false
 }
