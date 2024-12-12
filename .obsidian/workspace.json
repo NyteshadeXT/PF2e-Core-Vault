@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
-                "mode": "source",
+                "file": "3-Rules/Hazards/Homebrew/boiling-oil-chute-hb.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Whispering Cairn"
+              "title": "boiling-oil-chute-hb"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md"
+                "file": "3-Rules/Hazards/Homebrew/boiling-oil-chute-hb.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Whispering Cairn"
+              "title": "Outline of boiling-oil-chute-hb"
             }
           },
           {
@@ -194,8 +194,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -266,32 +266,32 @@
   },
   "active": "b0341b35c1e0bd9e",
   "lastOpenFiles": [
-    "3-Rules/Hazards/brown-mold-gmg.md",
+    "3-Rules/Hazards/Homebrew/false-elevator-hb.md",
+    "3-Rules/Hazards/Homebrew/force-burst-wall-hb.md",
+    "3-Rules/Hazards/Homebrew/boiling-oil-chute-hb.md",
+    "3-Rules/Hazards/Homebrew/gout-of-flame-hb.md",
+    "3-Rules/Hazards/electrified-water-ward-sot2.md",
+    "3-Rules/Hazards/electric-latch-rune.md",
+    "3-Rules/Hazards/Homebrew/lightning-hallway-hb.md",
+    "3-Rules/Hazards/Homebrew/mantrap_patch-hb.md",
+    "3-Rules/Hazards/Homebrew/hail-of-iron-spheres-hb.md",
+    "3-Rules/Hazards/acid-strongbox-trap-qff1.md",
+    "3-Rules/Hazards/acidic-needle-launcher-aoa5.md",
+    "3-Rules/Hazards/abyss-warped-trees-qff2.md",
+    "3-Rules/Hazards/air-rift-frp2.md",
+    "3-Rules/Hazards/acidic-poison-cloud-trap-aoe3.md",
+    "3-Rules/Bestiaries/Adventure Paths/Stolen Fate/Blade Mercenary.md",
+    "5-World/Deities/Sylvan.md",
     "1-GM Toolkit/Experience Tracker.md",
     "4-Campaign/Age of Worms/The Whispering Cairn.md",
-    "3-Rules/Bestiaries/Homebrew/lurking-stalker.md",
-    "3-Rules/Bestiaries/Bestiary 1/Aasimar Redeemer.md",
-    "3-Rules/Bestiaries/Bestiary 3/Adult Sea Dragon.md",
-    "3-Rules/Bestiaries/Homebrew/goblin-quickblade.md",
-    "3-Rules/Bestiaries/Homebrew/goblin-underboss.md",
-    "3-Rules/Bestiaries/Homebrew/beholder-gauth.md",
-    "5-World/Deities/Thalor.md",
-    "5-World/Deities/Aurelius.md",
-    "5-World/Deities/Aegis.md",
-    "5-World/Deities/Zerathos.md",
-    "5-World/Deities/Vorthron.md",
-    "5-World/Deities/Verena.md",
-    "5-World/Deities/Valorus.md",
-    "5-World/Deities/Sylvan.md",
     "5-World/Deities/Neralith.md",
     "5-World/Deities/Morvael.md",
     "5-World/Deities/Malakar.md",
-    "5-World/Deities/Lysandra.md",
-    "5-World/Deities/Liriel.md",
-    "5-World/Deities/Kataklysmos.md",
-    "5-World/Deities/Illyria.md",
-    "5-World/Deities/Elara.md",
-    "5-World/Deities/Arcarios.md",
+    "5-World/Deities/Thalor.md",
+    "5-World/Deities/Valorus.md",
+    "5-World/Deities/Verena.md",
+    "5-World/Deities/Vorthron.md",
+    "5-World/Deities/Zerathos.md",
     "zz-Attachments/Whispering Cairn Banner.png",
     "zz-Templates/Markdown/Call Out Boxes",
     "zz-Scripts/update_treasure.js",
