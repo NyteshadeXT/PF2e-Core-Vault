@@ -8,31 +8,19 @@ tags:
 aliases: ["Mantrap Patch"]
 ---
 
-# Scythe Blades *Hazard 4*  
+# Mantrap Patch *Hazard 4*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
-- **Complexity** Simple
-- **Stealth** DC 23 trained  
+**Stealth** DC 23 trained  
+**Description** These spiked mechanical jaws can close with bone-snapping force, holding a victim in place until he or she can pry the jaws open again, each [[Hidden]] in a 10-foot-square floor space.
 
-These spiked mechanical jaws can close with bone-snapping force, holding a victim in place until he or she can pry the jaws open again, each [hidden](../../../../3)%20Rules/conditions.md#Hidden) in a 10-foot-square floor space.
+---
+**Disable** [[Skills#Thievery|Thievery]] DC 21 (trained) to disable the mechanism.  
+**AC** 21, **Fort** +12, **Ref** +8 **Hardness** 11, **HP** 44 (BT 22) **Immunities** critical hits; object immunities; precision damage
 
-- **Disable** [Thievery](../../../skills.md#Thievery) DC 21 (trained) to disable the mechanism.  
+**Snapping Jaws** `pf2:r` ([[attack]]) **Trigger**: The mechanical jaw is stepped on. **Effect** Both sides of the jaw trap snap up, attacking causing `dice: 4d4` 4d4 damage and immobilizing the creature who stepped on it.  
 
-- **AC** 21, **Fort** +12, **Ref** +8
-- **Hardness** 11, **HP** 44 (BT 22)
-- **Immunities** critical hits; object immunities; precision damage
-
-```ad-embed-ability
-title: **Snapping Jaws** [R](../../../../3)%20Rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([attack](../../../../3)%20Rules/traits/attack.md))
-
-- **Trigger**: The mechanical jaw is stepped on.
-
-**Effect** Both sides of the jaw trap snap up, attacking and immobilizing the creature who stepped on it.  
-%%
- #trait/attack 
-%%
-```
-
+---
 **Reset** The trap resets manually.  
 
-*Source: 4e Homebrew*
+*Source: Homebrew*

@@ -105,5 +105,9 @@
   "ITS@@select": "pathfinder-remaster",
   "ITS@@default-statblock": true,
   "supercharged-links@@5871-bd1b-before": "🎇",
-  "ITS@@breadcrumbs-block": false
+  "ITS@@breadcrumbs-block": false,
+  "ITS@@link-weight": 800,
+  "ITS@@accent2-lite@@dark": "#000000",
+  "ITS@@inactive@@dark": "#000000",
+  "ITS@@inactive@@light": "#000000"
 }

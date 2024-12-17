@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "64ed2fe01df68b18",
+    "id": "8569cf4da8da65a5",
     "type": "split",
     "children": [
       {
-        "id": "0beb54f7b4a72ddc",
+        "id": "d2afee8d8a83cc6c",
         "type": "tabs",
         "children": [
           {
-            "id": "6de5711fd0245399",
+            "id": "363aa8ac04497521",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "3481c9e42eba98df",
+            "id": "c8f3ea00dc6da07f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,35 +36,34 @@
             }
           },
           {
-            "id": "b0341b35c1e0bd9e",
+            "id": "4f524bbcd64d7451",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Hazards/Homebrew/boiling-oil-chute-hb.md",
+                "file": "5-World/Factions/The Aetherial Wardens.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "boiling-oil-chute-hb"
+              "title": "The Aetherial Wardens"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "91a2faebe1985537",
+    "id": "a75f3cc7dc32c5b9",
     "type": "split",
     "children": [
       {
-        "id": "32af39d52e7d5f3f",
+        "id": "e7fcd6034e42a9fe",
         "type": "tabs",
         "children": [
           {
-            "id": "4c5a75903be9569c",
+            "id": "091c969fffb4ae05",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +75,7 @@
             }
           },
           {
-            "id": "b80348b1d4a1245b",
+            "id": "6167d132a1cf6934",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,7 +92,7 @@
             }
           },
           {
-            "id": "9792170f4e8717a7",
+            "id": "e60f8a94938d263a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,23 +105,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 296.5
   },
   "right": {
-    "id": "414a1381b9bc07e4",
+    "id": "ef89a336304e207c",
     "type": "split",
     "children": [
       {
-        "id": "9ad52d864d8ddf2d",
+        "id": "1329319cfc3a66f6",
         "type": "tabs",
         "children": [
           {
-            "id": "a1bb51e08d83d084",
+            "id": "c54b4dcbd8351167",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
+                "file": "3-Rules/Hazards/Homebrew/false-elevator-hb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,25 +131,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Diamond Lake Mining Office"
+              "title": "Backlinks for false-elevator-hb"
             }
           },
           {
-            "id": "708f76dc1c1e8487",
+            "id": "8f26666a4b2e39b2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
+                "file": "3-Rules/Hazards/Homebrew/false-elevator-hb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Diamond Lake Mining Office"
+              "title": "Outgoing links from false-elevator-hb"
             }
           },
           {
-            "id": "da0e68d77529110c",
+            "id": "1fd9ac48193ffc76",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,19 +162,19 @@
             }
           },
           {
-            "id": "33771ecc9b2acb44",
+            "id": "50e534520f8d0992",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Rules/Hazards/Homebrew/boiling-oil-chute-hb.md"
+                "file": "3-Rules/Hazards/Homebrew/false-elevator-hb.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of boiling-oil-chute-hb"
+              "title": "Outline of false-elevator-hb"
             }
           },
           {
-            "id": "c698bd0dbaab22c2",
+            "id": "a18c57f4fa08d152",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -185,21 +184,7 @@
             }
           },
           {
-            "id": "c2eb02f3e1dc5c8c",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "bc0d3c7b270e2922",
+            "id": "42401e1d59bf1b49",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -208,50 +193,21 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "1671e74fcd609ffc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "24ac266e1111c9af",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          },
-          {
-            "id": "ac5e0145a5bb9ea3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "zz-Attachments/Whispering Cairn Banner.png"
-              },
-              "icon": "lucide-image",
-              "title": "Whispering Cairn Banner"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Obsidian Forum": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
@@ -259,58 +215,27 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "helpmate:HelpMate": false,
       "obsidian-kanban:Create new board": false,
+      "helpmate:HelpMate": false,
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b0341b35c1e0bd9e",
+  "active": "363aa8ac04497521",
   "lastOpenFiles": [
-    "3-Rules/Hazards/Homebrew/false-elevator-hb.md",
-    "3-Rules/Hazards/Homebrew/force-burst-wall-hb.md",
-    "3-Rules/Hazards/Homebrew/boiling-oil-chute-hb.md",
-    "3-Rules/Hazards/Homebrew/gout-of-flame-hb.md",
-    "3-Rules/Hazards/electrified-water-ward-sot2.md",
-    "3-Rules/Hazards/electric-latch-rune.md",
-    "3-Rules/Hazards/Homebrew/lightning-hallway-hb.md",
-    "3-Rules/Hazards/Homebrew/mantrap_patch-hb.md",
-    "3-Rules/Hazards/Homebrew/hail-of-iron-spheres-hb.md",
-    "3-Rules/Hazards/acid-strongbox-trap-qff1.md",
-    "3-Rules/Hazards/acidic-needle-launcher-aoa5.md",
-    "3-Rules/Hazards/abyss-warped-trees-qff2.md",
-    "3-Rules/Hazards/air-rift-frp2.md",
-    "3-Rules/Hazards/acidic-poison-cloud-trap-aoe3.md",
-    "3-Rules/Bestiaries/Adventure Paths/Stolen Fate/Blade Mercenary.md",
-    "5-World/Deities/Sylvan.md",
-    "1-GM Toolkit/Experience Tracker.md",
+    "5-World/Factions/The Aetherial Wardens.md",
     "4-Campaign/Age of Worms/The Whispering Cairn.md",
-    "5-World/Deities/Neralith.md",
-    "5-World/Deities/Morvael.md",
-    "5-World/Deities/Malakar.md",
-    "5-World/Deities/Thalor.md",
-    "5-World/Deities/Valorus.md",
-    "5-World/Deities/Verena.md",
-    "5-World/Deities/Vorthron.md",
-    "5-World/Deities/Zerathos.md",
-    "zz-Attachments/Whispering Cairn Banner.png",
-    "zz-Templates/Markdown/Call Out Boxes",
-    "zz-Scripts/update_treasure.js",
-    "zz-Attachments/Experience Tracker-20241013142445460.webp",
-    "zz-Attachments/Age of Worms-20241013135345875.webp",
-    "zz-Scripts/update_xp.js",
-    "zz-Scripts",
-    "zz-Attachments/Diamond Lake Mining Office.webp",
-    "2-Party/Age of Worms",
-    "zz-Attachments/Diamond Lake Banner.webp",
-    "zz-Attachments/Ardentia City Map.png",
-    "zz-Attachments/modules/battlezoo-ancestries-fusions/fusions-art-1.webp",
-    "zz_Attachments/modules/battlezoo-ancestries-dungeons-pf2e/art/dungeon-gate.svg",
-    "zz-Attachments/modules/battlezoo-ancestries-fusions/red-wax-stamp.webp",
-    "zz-Attachments/modules/battlezoo-ancestries-fusions/fusions-cover-blank.webp",
-    "zz_Attachments/modules/battlezoo-ancestries-fusions/assets/ancestries/fusions/animated/tokens/fusions-token-1.webm",
-    "zz_Attachments/modules/battlezoo-ancestries-fusions/assets/ancestries/fusions/animated/full-art/fusions-art-1.webm",
-    "2-Session Journals/Age-of-Worms",
-    "4-Campaign/Age of Worms",
-    "3-Rules/afflictions"
+    "1-GM Toolkit/Experience Tracker.md",
+    "3-Rules/Hazards/hazards.md",
+    "3-Rules/Hazards/Homebrew/mantrap_patch-hb.md",
+    "3-Rules/Hazards/Homebrew/lightning-hallway-hb.md",
+    "3-Rules/Hazards/Homebrew/hail-of-iron-spheres-hb.md",
+    "3-Rules/Hazards/Homebrew/gout-of-flame-hb.md",
+    "3-Rules/Hazards/Homebrew/force-burst-wall-hb.md",
+    "3-Rules/Hazards/Homebrew/false-elevator-hb.md",
+    "3-Rules/Hazards/Homebrew/boiling-oil-chute-hb.md",
+    "3-Rules/trait_reference/force.md",
+    "1-GM Toolkit/DM Board.md",
+    "3-Rules/trait_reference/mechanical.md",
+    "1-GM Toolkit/Adventure Loot.md"
   ]
 }

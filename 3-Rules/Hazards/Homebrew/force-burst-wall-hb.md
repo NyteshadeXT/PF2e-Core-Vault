@@ -19,7 +19,7 @@ aliases: ["Force Burst Wall"]
 **AC** 27, **Fort** +13, **Ref** +17
 **Hardness** 14, **HP** 56 (BT 28) to destroy the control panel and disable the trap; **Immunities** critical hits; object immunities; precision damage
 
-**Force Blast** `pf2:r` ([force](3-Rules/trait_reference/force.md), [conjuration](3-Rules/trait_reference/conjuration.md)) **Trigger**: A creature opens the door; **Effect** The wall attacks with a burst of blazing blue force as reaction action. A creature must succeed at a DC 28 Reflex save or is pushed back and falls [[Prone]] and suffers `dice: 2d8+4` bludgeoning damage. Then the trap rolls initiative and attacks as a single action each round thereafter.
+**Force Blast** `pf2:r` ([force](3-Rules/trait_reference/force.md), [conjuration](3-Rules/trait_reference/conjuration.md)) **Trigger**: A creature opens the door; **Effect** The wall attacks with a burst of blazing blue force as reaction action. A creature must succeed at a DC 28 Reflex save or is pushed back and falls [[Prone]] and suffers `dice: 2d8+4` 2d8+4 bludgeoning damage. Then the trap rolls initiative and attacks as a single action each round thereafter.
 - **Critical Success** The creature is unaffected.
 - **Success** The creature is pushed back 5 feet.
 - **Failure** The creature is pushed back 10 feet.

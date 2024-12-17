@@ -10,7 +10,8 @@
     "pf2e-spell",
     "pf2-compendium",
     "pf2-only-statblocks",
-    "Pathfinder Hazard"
+    "Pathfinder Hazard",
+    "Internal-Links"
   ],
-  "baseFontSize": 15
+  "baseFontSize": 16
 }

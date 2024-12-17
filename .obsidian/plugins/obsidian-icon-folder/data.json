@@ -38,7 +38,8 @@
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
     "lucideIconPackType": "native",
-    "debugMode": false
+    "debugMode": false,
+    "useInternalPlugins": false
   },
   "1-DM Toolkit/DnD5e-SideScreen.md": "RaScrollUnfurled",
   "1-DM Toolkit/DnD5e-DM Screen.md": "RaScrollUnfurled",

@@ -11,7 +11,7 @@ alignment: Chaotic Evil
 portfolio: Chaos, Destruction, Catastrophes, Anarchy
 domains: Destruction, Fire
 favored_weapon: Greatsword
-symbol: A shattered tower or a whirling storm
+symbol: An eight-pointed star
 deitypower: Greater God
 ---
 

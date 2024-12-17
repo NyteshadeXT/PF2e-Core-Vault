@@ -69,10 +69,10 @@ attacks:
   - name: "Melee"
     desc: "`pf2:1` Jaws +11 (finesse)\n__Damage__  1d10 + 3 piercing"
 
-  - name: "Melee"
+  - name: "Melee."
     desc: "`pf2:1` Claw +11 (agile, finesse)\n__Damage__  1d8 + 3 slashing plus grab"
 
-  - name: "Melee"
+  - name: "Melee.."
     desc: "`pf2:1` Bastard Sword +11 (two-hand d12)\n__Damage__  1d8 + 3 slashing"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Flesh]]"
