@@ -53,7 +53,7 @@
     },
     {
       "name": "Ancestry",
-      "declaration": "INPUT[inlineSelect(option(Dwarf), option(Elf), option(Gnome), option(Goblin), option(Halfling), option(Human))]"
+      "declaration": "INPUT[inlineSelect(option(anadi), option(Athamaru), option(awakened animal), option(azarketi), option(catfolk), option(Centaur), option(conrasu), option(Dwarf), option(Elf), option(fetchling), option(fleshwarp), option(ghoran), option(goloma), option(Gnome), option(Goblin), option(Halfling), option(hobgoblin), option(Human), option(kashrishi), option(kholo), option(kitsune), option(kobold), option(lizardfolk), option(Leshy), option(merfolk), option(minotaur), option(nagaji), option(Orc), option(poppet), option(ratfolk), option(Samsaran), option(sarangay), option(shisk), option(shoony), option(skeleton), option(sprite), option(strix), option(surki), option(tanuki), option(tengu), option(tripkee), option(vanara), option(vishkanya), option(wayang), option(yaksha), option(yaoguai))]"
     },
     {
       "name": "Heritage",

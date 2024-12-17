@@ -4,15 +4,15 @@ tags:
   - "#Character"
   - "#Player"
 art: zz_Attachments/Misc/PlaceholderImage.png
-Status: Active
-Player: Mike
-Ancestry: Elf
-Heritage: Half-Elf
+Player: Oxmeat
+pronounced: Hay-eight
+Class: Champion
+level: 1
+Ancestry: Human
 gender: Male
 age: Young Adult
-pronounced: Bob One'
-Class: Fighter
-Level: 1
+Status: Active
+Heritage: Dragonblood
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -38,7 +38,7 @@ Level: 1
 >> **Pronounced** |  `INPUT[textArea:pronounced]`
 >> **Aliases** | `INPUT[list:aliases]` |
 >> **Class** | `INPUT[Class][suggester:Class]` |
->> **Level** | `INPUT[number:Level]` |
+>> **Level** | `INPUT[number:level]` |
 >> **Ancestry** | `INPUT[Ancestry][suggester:Ancestry]` |
 >> **Heritage** | `INPUT[Heritage][suggester:Heritage]` |
 >> **Gender** | `INPUT[Gender][:gender]` |

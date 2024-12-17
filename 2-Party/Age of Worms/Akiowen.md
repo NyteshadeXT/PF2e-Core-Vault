@@ -5,13 +5,16 @@ tags:
   - "#Player"
 art: zz_Attachments/Misc/PlaceholderImage.png
 Status: Active
-Player: Mona
-pronounced: Bob Three
-Class: Witch
+Player: Cali
+pronounced: a-ki-o-wen
+Class: Rogue
 level: 1
-Ancestry: Elf
+Ancestry: tengu
 gender: Female
 age: Young Adult
+aliases:
+  - Wen
+Heritage: skyborn tengu
 ---
 
 > [!metadata|metadata]- Metadata 

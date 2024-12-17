@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
-                "mode": "source",
+                "file": "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Whispering Cairn"
+              "title": "Diamond Lake Mining Office"
             }
           },
           {
@@ -222,9 +222,16 @@
   },
   "active": "363aa8ac04497521",
   "lastOpenFiles": [
-    "5-World/Factions/The Aetherial Wardens.md",
     "4-Campaign/Age of Worms/The Whispering Cairn.md",
+    "2-Party/Age of Worms/Haight Enashberry.md",
     "1-GM Toolkit/Experience Tracker.md",
+    "5-World/Factions/The Aetherial Wardens.md",
+    "2-Party/Age of Worms/Bob-3.md",
+    "2-Party/Age of Worms/Gornak.md",
+    "2-Party/Age of Worms/Zamosshe.md",
+    "2-Party/Age of Worms/Akiowen.md",
+    "1-GM Toolkit/Adventure Loot.md",
+    "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
     "3-Rules/Hazards/hazards.md",
     "3-Rules/Hazards/Homebrew/mantrap_patch-hb.md",
     "3-Rules/Hazards/Homebrew/lightning-hallway-hb.md",
@@ -235,7 +242,6 @@
     "3-Rules/Hazards/Homebrew/boiling-oil-chute-hb.md",
     "3-Rules/trait_reference/force.md",
     "1-GM Toolkit/DM Board.md",
-    "3-Rules/trait_reference/mechanical.md",
-    "1-GM Toolkit/Adventure Loot.md"
+    "3-Rules/trait_reference/mechanical.md"
   ]
 }

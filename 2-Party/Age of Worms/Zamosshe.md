@@ -5,13 +5,16 @@ tags:
   - "#Player"
 art: zz_Attachments/Misc/PlaceholderImage.png
 Status: Active
-Player: Mitchell
+Player: Aaron
 Class: Wizard
-Level: 1
-Ancestry: Human
-Heritage: Half-Elf
-gender: Female
+level: 1
+Ancestry: shisk
+Heritage: quillcoat shisk
+gender: Male
 age: Young Adult
+pronounced: Zam-os-she
+aliases:
+  - Zam
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -37,7 +40,7 @@ age: Young Adult
 >> **Pronounced** |  `INPUT[textArea:pronounced]`
 >> **Aliases** | `INPUT[list:aliases]` |
 >> **Class** | `INPUT[Class][suggester:Class]` |
->> **Level** | `INPUT[number:Level]` |
+>> **Level** | `INPUT[number:level]` |
 >> **Ancestry** | `INPUT[Ancestry][suggester:Ancestry]` |
 >> **Heritage** | `INPUT[Heritage][suggester:Heritage]` |
 >> **Gender** | `INPUT[Gender][:gender]` |

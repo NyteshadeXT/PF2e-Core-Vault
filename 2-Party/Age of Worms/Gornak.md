@@ -4,15 +4,17 @@ tags:
   - "#Character"
   - "#Player"
 art: zz_Attachments/Misc/PlaceholderImage.png
-Player: Michael
-pronounced: Bob Two
-Class: Cleric
-Level: 1
+Status: Active
+Player: Qelanos
 Ancestry: Human
+Heritage: Dromar
 gender: Male
 age: Young Adult
-Status: Active
+pronounced: Gore-Nak
+Class: Barbarian
+level: 1
 ---
+
 
 > [!metadata|metadata]- Metadata 
 >> [!metadata|metadataoption]- System
@@ -37,7 +39,7 @@ Status: Active
 >> **Pronounced** |  `INPUT[textArea:pronounced]`
 >> **Aliases** | `INPUT[list:aliases]` |
 >> **Class** | `INPUT[Class][suggester:Class]` |
->> **Level** | `INPUT[number:Level]` |
+>> **Level** | `INPUT[number:level]` |
 >> **Ancestry** | `INPUT[Ancestry][suggester:Ancestry]` |
 >> **Heritage** | `INPUT[Heritage][suggester:Heritage]` |
 >> **Gender** | `INPUT[Gender][:gender]` |
