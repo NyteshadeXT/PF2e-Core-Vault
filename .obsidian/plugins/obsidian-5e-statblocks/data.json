@@ -1,5 +1,77 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Tomb Mote",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Custom Conversion",
+        "name": "Tomb Mote",
+        "level": "Creature 2",
+        "alignment": "CE",
+        "size": "Tiny",
+        "trait_04": "Undead",
+        "trait_05": "Mindless",
+        "modifier": 0,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+5; __darkvision__"
+          }
+        ],
+        "languages": "Understands Common and Abyssal but does not speak",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Stealth__: +10 (1d20+10); __Acrobatics__: +8 (1d20+8); __Athletics__: +4 (1d20+4)"
+          }
+        ],
+        "abilityMods": [
+          -1,
+          4,
+          "-",
+          0,
+          1,
+          2
+        ],
+        "abilities_top": [
+          {
+            "name": "Quick Reflexes",
+            "desc": "`pf2:r` **Trigger** A creature moves within 10 feet of the Tomb Mote. **Effect** The Tomb Mote Strides up to half its Speed without triggering reactions."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Disease (Corpse Bloat)",
+            "desc": "⬻ (<STATBLOCK-WIKI-LINK>disease<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>necromancy<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>fortitude<STATBLOCK-WIKI-LINK> DC 17); A creature struck by the Tomb Mote's bite must succeed at a DC 17 Fortitude save or contract Corpse Bloat. Stage 1: The creature is __sickened 1__ for 1 day. Stage 2: The creature is __sickened 2__ for 1 additional day. Stage 3: The creature becomes __sickened 2__ and __slowed 1__. This disease has an incubation period of 1d3 days."
+          }
+        ],
+        "speed": "20 feet, swim 20 feet",
+        "ac": 18,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "18; __Fort__: +4 (1d20+4); __Ref__: +8 (1d20+8); __Will__: +5 (1d20+5); __Weaknesses__: positive damage 5"
+          }
+        ],
+        "hp": 22,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "22; __Immunities__: death effects, disease, paralysis, poison, sleep, nonlethal damage"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee",
+            "desc": "⬻ bite +10 (<STATBLOCK-WIKI-LINK>agile<STATBLOCK-WIKI-LINK>); __Damage__: 1d6-1 piercing plus Disease"
+          }
+        ],
+        "sourcebook": "_Homebrew_"
+      }
+    ]
+  ],
   "defaultLayouts": {},
   "layouts": [],
   "default": "path-2e-block",

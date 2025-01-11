@@ -49,7 +49,7 @@ attacks:
   - name: Melee
     desc: "⬻ claw +8 ([[poison]]); __Damage__ 1d6+5 (1d6+5) slashing{@damage +1d6} poison"
   - name: Melee
-    desc: "⬺ blighted claw +8 ([[magical]], [[poison]]); __Damage__ 1d8 (1d8) slashing{@damage +1d8} poison and the target is [[Enfeebled|Enfeebled]]. Single use. Recharges when the blight uses invisitility."
+    desc: "⬺ blighted claw +8 ([[magical]], [[poison]]); __Damage__ 1d8 (1d8) slashing plus 1d8 (1d8) poison and the target is [[Enfeebled|Enfeebled]]. Single use. Recharges when the blight uses invisitility."
     
 spellcasting:
   - name: "Occult Innate Spells"

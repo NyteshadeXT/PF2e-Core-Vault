@@ -11483,8 +11483,267 @@
       ]
     },
     {
+      "id": "Lair of the Laborers",
+      "lastAccessed": 1734842026454,
+      "markers": [
+        {
+          "id": "ID_f8094b6938c9",
+          "type": "Encounter",
+          "loc": [
+            -0.0008941650157794356,
+            0.0017196710736763691
+          ],
+          "link": "The Whispering Cairn#15. Laborer's Foyer",
+          "layer": "%5B%5BLair%20of%20the%20Laborers%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4609421819405093,
+            0.18142414388272785
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bca09cb59db",
+          "type": "Encounter",
+          "loc": [
+            -0.0013626099098473787,
+            0.0009537908327719832
+          ],
+          "link": "The Whispering Cairn#16. Food Room/The Hive",
+          "layer": "%5B%5BLair%20of%20the%20Laborers%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.25565495303290264,
+            0.2764705976834607
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea5b2b5b7808",
+          "type": "Encounter",
+          "loc": [
+            -0.0012971878168173134,
+            0.0029548307607555483
+          ],
+          "link": "The Whispering Cairn#17. Sleeping Quarters",
+          "layer": "%5B%5BLair%20of%20the%20Laborers%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18fadb485be9",
+          "type": "Encounter",
+          "loc": [
+            -0.002302551409229636,
+            0.00188446044921875
+          ],
+          "link": "The Whispering Cairn#18. Tool Alcoves",
+          "layer": "%5B%5BLair%20of%20the%20Laborers%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5051124744376279,
+            0.46718269088319947
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59cae80a0b5a",
+          "type": "Encounter",
+          "loc": [
+            -0.0033584595657885075,
+            0.0018859937232351591
+          ],
+          "link": "The Whispering Cairn#19. Submerged Showers",
+          "layer": "%5B%5BLair%20of%20the%20Laborers%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5055234545846192,
+            0.6814241675031444
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a7bf8d91aca",
+          "type": "Encounter",
+          "loc": [
+            -0.0034011839888989925,
+            0.002943499936510945
+          ],
+          "link": "The Whispering Cairn#20. Locker Room with Benches",
+          "layer": "%5B%5BLair%20of%20the%20Laborers%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7889783715303939,
+            0.6900928603606328
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5808a8aa48bb",
+          "type": "Encounter",
+          "loc": [
+            -0.0033935545943677425,
+            0.0008178789546696046
+          ],
+          "link": "The Whispering Cairn#21. Other Locker Room with Benches",
+          "layer": "%5B%5BLair%20of%20the%20Laborers%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.21922501093344463,
+            0.6885448727445337
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9b8fa68394b",
+          "type": "Encounter",
+          "loc": [
+            -0.00438690185546875,
+            0.0018966813535304192
+          ],
+          "link": "The Whispering Cairn#22. Toilet",
+          "layer": "%5B%5BLair%20of%20the%20Laborers%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5083881766256424,
+            0.8900928792569659
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4-Campaign/Age of Worms/The Whispering Cairn.md"
+      ]
+    },
+    {
+      "id": "The True Tomb",
+      "lastAccessed": 1734842026454,
+      "markers": [
+        {
+          "id": "ID_9acbda8979e9",
+          "type": "Encounter",
+          "loc": [
+            -0.0041976929642260075,
+            0.0017532356763735645
+          ],
+          "link": "The Whispering Cairn#8. Passage of the Face",
+          "layer": "%5B%5BThe%20True%20Tomb%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.480753361032711,
+            0.8570093648084599
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28dae80bb9cb",
+          "type": "Encounter",
+          "loc": [
+            -0.0029891966842114925,
+            0.00176239013671875
+          ],
+          "link": "The Whispering Cairn#23. Alastor's Haunt",
+          "layer": "%5B%5BThe%20True%20Tomb%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.48326359832635984,
+            0.6102803548177084
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_390a0bc8b86b",
+          "type": "Encounter",
+          "loc": [
+            -0.0019805908668786287,
+            0.001739501953125
+          ],
+          "link": "The Whispering Cairn#24. The Chamber of Sighs",
+          "layer": "%5B%5BThe%20True%20Tomb%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4769874476987448,
+            0.40436138022354456
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbcbd9297909",
+          "type": "Encounter",
+          "loc": [
+            -0.0029342654161155224,
+            0.002775538759755486
+          ],
+          "link": "The Whispering Cairn#25. The True Tomb",
+          "layer": "%5B%5BThe%20True%20Tomb%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7610782768173034,
+            0.5990654776029498
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4-Campaign/Age of Worms/The Whispering Cairn.md"
+      ]
+    },
+    {
       "id": "Whispering Cairn",
-      "lastAccessed": 1733885142459,
+      "lastAccessed": 1734842178481,
       "markers": [
         {
           "id": "ID_a8393b2809ab",
@@ -11617,6 +11876,151 @@
           "percent": [
             0.4957893773129112,
             0.353050665870201
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a9bb938884b",
+          "type": "default",
+          "loc": [
+            -0.0007949828868731856,
+            0.0016738563335097368
+          ],
+          "link": "9. Architect's Foyer",
+          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4-Campaign/Age of Worms/The Whispering Cairn.md"
+      ]
+    },
+    {
+      "id": "Lair of the Architect",
+      "lastAccessed": 1734842178481,
+      "markers": [
+        {
+          "id": "ID_2a6aaa484af8",
+          "type": "Encounter",
+          "loc": [
+            -0.0007965087424963713,
+            0.0016098119557908944
+          ],
+          "link": "The Whispering Cairn#9. Architect's Foyer",
+          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.44421320561984023,
+            0.16597773274480823
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d80a990ac939",
+          "type": "Encounter",
+          "loc": [
+            -0.0019121170626021922,
+            0.0018024402100153122
+          ],
+          "link": "The Whispering Cairn#10. Passage of Honor",
+          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebb8e9cb89db",
+          "type": "Encounter",
+          "loc": [
+            -0.0031188963912427425,
+            0.0015304607063332748
+          ],
+          "link": "The Whispering Cairn#11. Gallery",
+          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.42231693831687367,
+            0.6499204893369932
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8aa0a198a79",
+          "type": "Encounter",
+          "loc": [
+            -0.0033737183548510075,
+            0.002784748423300539
+          ],
+          "link": "The Whispering Cairn#12. Living Quarters",
+          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7684264112396805,
+            0.703020687133595
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38686bb82b08",
+          "type": "Encounter",
+          "loc": [
+            -0.0033584595657885075,
+            0.0007308983106807353
+          ],
+          "link": "The Whispering Cairn#13. Workshop",
+          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.20168484921588492,
+            0.6998410368951212
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da18792b7afa",
+          "type": "Encounter",
+          "loc": [
+            -0.004452514927834272,
+            0.0019790806632454592
+          ],
+          "link": "The Whispering Cairn#14. Toilet",
+          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5461096014587554,
+            0.9278219978077802
           ],
           "description": null,
           "minZoom": 0,

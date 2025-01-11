@@ -3,7 +3,7 @@ tags:
   - "#Location"
   - "#Geography"
 art: zz_Attachments/Misc/PlaceholderImage.png
-total_xp: 736
+total_xp: 1404
 completed_xp: 0
 awarded_pp: 0
 awarded_gp: 0
@@ -12,8 +12,10 @@ awarded_cp: 0
 awarded_permanent_items: 
 awarded_consumable_items:
 ---
+
 ![[Whispering Cairn Banner.png]]
 ![[Pasted image 20241024212743.png]]
+
 # Adventure Synopsis
 The bulk of the adventure involved the exploration of the Whispering Cairn, a sizable dungeon complex loaded with ancient traps and a collection of interesting (and territorial) inhabitants.  Deep within the complex, the PCs come across the ghost of Alastor Land, the runaway child who fell victim to one of the cairn's traps 30 years ago.  The undead horror blocks the PCs' progress, promising to Abandon the cairn if the characters return his bones to the small family cemetery on the farmstead just outside town.
 
@@ -305,7 +307,27 @@ These marks were left by victims blown away by the blasting winds of the trap, l
 # Lair of the Architect
 It took the Aetherial Warden architect Nadroc nearly a year of solid work to design and construct the Whispering Cairn.  During this period he dwelt within his work in progress, in a special series of chambers called the Lair of the Architect.  Due to the complexity of the elevator mechanism, this part of the cairn is not quite as looted as areas 1 - 7, and contains a number of treasures from Nadroc's time.  Ceilings in the Lair of the Architect reach a uniform height of 20 feet. Walls are made of solid stone.
 
-![[Lair of the Architect Map.webp]]
+```leaflet
+id: Lair of the Architect
+image: [[Lair of the Architect Map.webp]]
+height: 700px
+width: 70%
+### This sets where the map starts by default. Set it to the middle (half) of your bounds. 
+lat: 50
+long: 50
+### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map. 
+minZoom: 0
+### Max zoom is 18. 
+maxZoom: 18
+### Hover mouse over the Reset Zoom icon to see your current zoom level. 
+defaultZoom: 17
+### How far it zooms in or out with each step. Can be in decimals. 
+zoomDelta: 0.5
+### This is a string so can be any text. Change it to match your maps measurement scale. 
+unit: feet
+scale: 1
+darkMode: false
+```
 
 ## 9. Architect's Foyer
 > [!note]+ Read Aloud
@@ -414,7 +436,28 @@ This austere toilet has not been used in centuries.
 # Lair of the Laborers
 Nadroc's creation of the Whispering Cairn required the assistance of eight skilled Warden laborers who dwelt in this sub-level.  They were several layer below Nadroc socially so the stonework and amenities of this level are markedly inferior to similar accoutrements in the Lair of the architect.  The ceilings on this level uniformly reach a height of 20 feet. Walls are worked stone.
 
-![[Lair of the Laborers Map.webp]]
+
+```leaflet
+id: Lair of the Laborers
+image: [[Lair of the Laborers Map.webp]]
+height: 700px
+width: 70%
+### This sets where the map starts by default. Set it to the middle (half) of your bounds. 
+lat: 50
+long: 50
+### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map. 
+minZoom: 0
+### Max zoom is 18. 
+maxZoom: 18
+### Hover mouse over the Reset Zoom icon to see your current zoom level. 
+defaultZoom: 17
+### How far it zooms in or out with each step. Can be in decimals. 
+zoomDelta: 0.5
+### This is a string so can be any text. Change it to match your maps measurement scale. 
+unit: feet
+scale: 1
+darkMode: false
+```
 
 ## 15. Laborer's Foyer
 > [!note]+ Read Aloud
@@ -572,7 +615,7 @@ This submerged toilet has not been used in centuries.
 # Part 2: The True Tomb
 
 ```leaflet
-id: Whispering Cairn
+id: The True Tomb
 image: [[The True Tomb Map.webp]]
 height: 700px
 width: 75%
@@ -622,8 +665,9 @@ A curious grick lives in the iron spheres at the bottom of this room, having tun
 
 The grick is farm from the most potent potential enemy in this room, however, for the place is also the lair of Alastor Land, a young teen runaway who managed to slip through all of the Whispering Cairn's defenses 30 years ago only to die here. Now he lingers on as a ghost, cursed to forever remain in this chamber, wracked with guilt for having abandoned his mother and siblings.  As the PCs explore the room, Alastor observes from the Ethereal Plane. His childish giggles follow every PC mistake, while cries of "wow!" or "I thought you were dead that time!" seem to come from the walls as the PCs fight the grick.  Once they have defeated the aberration, Alastor decides that they are his best chance to escape the chamber and finally rest with his family.
 
-![[Alastor Land.webp]]
-[[Alastor Land.webp|Show to Players]]
+> [!caption|right ws-med] Floats to the right
+> ![[Alastor Land.webp]]
+> [[Alastor Land.webp|Show to Players]]
 
 Immediately after the fight ends, Alastor manifests, appearing as a translucent 13-year-old farm boy with a broken neck, long black fingernails, and a demoniac glare in his eyes.  He attempts to shield most of the PCs from his horrific appearance, but the youth has a flair for the dramatic and wants to make a powerful first impression, so he wants at least one of them to see him in his true from.  Thereafter, he attempts to move onto the same square as a PC and take over that character with his malevolence special attack. ONce he has controlled a PC (or if he cannot manage to do so), he speaks directly to the PCs.
 
@@ -668,30 +712,17 @@ The central pit is 60 feet deep, ending in a featureless basin.  Each perimeter 
 As soon as a PC reaches the walkway or central ring, two tall humanoid figures arise from within the column of air and step out onto the central ring.  Both of these creatures-wind warriors-who served in the armies at the Battle of Aetherion and who honor Zosiel still wield twin swords and wear ancient ceremonial armor festooned with red pennons that twist and bob as if always blown by a fierce wind.  The silent warriors attack intruders, knowing that they are the tomb's last defense.
 
 **Encounter Difficulty:**   
-- [ ] difficulty (xxx XP) Level xxx
-
-![[ImagePlaceholder.png]]
+- [ ] Moderate (120 XP) Level 3
 
 At the start of the encounter, place the following foes on the map: 
- - 2: [[BadGuy1]] W
- - 2: [[BadGuy2]] H
+ - 2: [[wind-warrior|Wind Warrior]] W
 
 ```encounter
-name: EncounterName
-party: PartyName
+name: Chamber of Sighs
+party: Age of Worms
 creatures:
-  - 1: My Monster          # 1 monster named My Monster will be added, with no HP, AC or modifier.
-  - 1d6: Goblin, 7, 15, 2        # 1 goblin with HP: 7, AC: 15, MOD: 2 will be added.
-  - Goblin, 5, 15, 2, 25      # 1 goblin with HP: 7, AC: 15, MOD: 2 worth 25 XP will be added.
+  - 2: [[Wind Warrior]]
 ```
-
-Description
-
-
-## Tactics
-
-
-## Features of the Area
 
 **24a**
 > [!note]+ Read Aloud
@@ -715,3 +746,331 @@ Each of the seven Wardens presenters bears a carven glyph that identifies him as
 
 **24e**
 The pillar of air here stretches from floor to ceiling.  Any character who steps into the wind is propelled safely to area 25. Doing so means getting past the rooms power defenders, however.
+
+## 25. The True Tomb
+> [!note]+ Read Aloud
+> A whooshing pillar of air dominates the northeast half of this rectangular room.  Opposite the pillar up a set of three short stairs rests a white marble sarcophagus identical to the one in the room with the colored lanterns far below, complete with a sculpted humanoid figure carved into the lid. A beautifully carved bas-relief on the same wall near the sarcophagus depicts the same figure as a bald, androgynous warrior wearing a simple ancient garment and wielding a mighty longsword.  To the warrior's left stands a cloaked demoniac figure with two long curved horns tipped in darkest red.  The horned figure holds a device composed of a handle and small loop, seemingly using it to control a globe of absolute blackness about two feet in diameter.  This globe touches the bald warrior, who raises his arms in surprise.  The warrior is depicted as if fading from sight.  A slim diadem upon his brow bears an elaborate ovular glyph identical to one carved upon an amulet worn by the figure on the sarcophagus lid.
+
+This area is the true tomb of Zosiel, a minor Warden warrior killed at the Battle of Aetherion.  A DC 15 [[Skills#Arcana|Arcana]] check made by anyone studying the fresco identifies the black globe as a [[Sphere of Annihilation]] controlled by the [[Talisman of the Sphere]] wielded by the horned figure.  Many legends suggest that the deadly spheres were created during the great war between Law and Chaos.  now they are the stuff of legends.  The image is an accurate representation of Zosiel's death, just moments before the Wardens employed the Rod of Law to defeat the Primordial Chaos Lord.
+
+The sarcophagus is completely sealed, exhibiting not even a seam under the lid. It is impossible to damage physically.  For all appearances, it is a solid block of marble.  When someone steps upon the top stair of the southwester dais, read the following:
+
+> [!note]+ Read Aloud
+> The bas-relief sculpture animates and the warrior looks directly into the eyes of the character.  "Speak my name," it says to the character in his native language.  Thereafter, the image fades back into the wall and the chamber grows still.
+
+If the addressed character utters the word "Zosiel," bright blue light sines around the sarcophagus lid.  It fades a few seconds later, revealing a seam between the lid and the rest of the sarcophagus.  Lifting the lid revels the treasure within.
+
+> [!tip]+ Treasure
+> Within the sarcophagus are all the remains of Zosiel: a slight silver diadem known as a [[Silver Diadem of Insight]]. The sarcophagus also includes two long slightly curved black horns with red tips (worth 3 gp each) and a pewter box inscribed with alien, writhing letterforms.  A DC 15 [[Skills#Occultism|Occultism]] check identifies the glyphs as those typically used by Chaos.  Melted metal keeps the box sealed, but a decent application of force is sufficient to snap off the lid. Inside is a long handle attached to an adamantine loop.  This inactive minor artifact radiates strong transmutation magic, but is currently dormant and does nothing.  It can be fully activated as a [[Talisman of the Sphere]] inn "A Gathering of Winds," the sixth installment of the Age of Worms.  [[Allustan]] can identify the tiem by name at a glance, noting that the [[Sphere of Annihilation]] were holes in the continuity of the multiverse, and that anything they touched was utterly destroyed.  After the Battle of Aetherion legend holds that the Wardens scattered them tot he corners of the universe.  Far more numerous are the talismans that were said to grant their owerns some measure of control over the spheres.  [[Allustan]] urges the PCs to keep the valuable minor artifact.  "one must alwys be prepared," he says with a wink and a smile.
+> 
+> - [ ] gp::6
+> - [ ] permanent::[[Silver Diadem of Insight]] [ilvl::3] [gp::60]
+
+# Part 3. Tomb Stories
+In this brief interlude, the PCs take Alastor Land's bones from [[The Whispering Cairn#23. Alastor's Haunt]] of the Whispering Cairn to his family's private graveyard, on a farmstead about 10 minutes east of [[Diamond Lake]]. Before young Alastor's ghost allows the PCs to proceed through the Whispering Cairn he wants them to bury his remains with those of his family, so that his curse can be lifted and he can move on to the afterworld.
+
+This seemingly easy mission takes a challenging turn when the PCs visit the family graveyard and discover that the bodies of Alastor's father, mother, brother, and sister have been moved recently and take off to places unknown.  Investigating of the Land farm house leads to an exciting battle with a wounded owlbear and turns up clues implicating a gang of toughs in service to the mine manager [[Balabar Smenk]], leading directly to Part Four: The Gang.
+
+## The Land Family Graveyard
+> [!note]+ Read Aloud
+> A copse of immense deklo trees shades a small, quiet clearing just where Alastor said it would be, about 10 minutes east of Diamond Lake. Crumbling walls and a seemingly abandoned farmhouse stand vigil atop a small bluff overlooking the clearing, the sad ruins of what must once have been Alastor's home.  Five grave markers stand in the clearing, each with a different name: Anders, Bemissa, Coldaran, Gertia and Alastor.  Open pits yawn from before all five headstones.  Piles of fresh dirt and a pair of abandoned shovels suggest that the excavation took place recently, certainly within the week.
+
+Alastor's father Anders died a year before the boy ran away from home.  His mother, Bemissa,, his older brother Coldaran and his younger sister Gertia all succumbed to the Red Death plague that swept through the region 19 years ago.  A DC 13 [[Skills#Medicine|Medicine]] or [[Skills#Society|Society]] check identifies the four-petaled flower motif on their graves as a symbol commonly associated with victims of that wretched disease.
+
+A DC 13 [[Skills#Survival|Survival]] check made near the graves reveals the tracks of a wheelbarrow leading toward Diamond Lake as well as the tracks of five booted Medium humans who walked all around the graves and eventually dug them up.  Shortly after they looted the graves, the men who left these tracks walked off to explore the farmstead. Four of them seem to have come back very quickly, leaving for the road immediately thereafter.
+
+All of the graves have been emptied (except Alastor's, which was empty in the first place); their contents have been delivered to a necromancer named Filge who recently moved into an old observatory in Diamond Lake. Until these bones are returned to the graves, Alastor cannot escape from his curse.  Connecting the empty graves to Filge takes mor evidence than is available here.  For that, the PCs need to explore the Land farmhouse on the bluff overlooking the graveyard.
+
+## The Land Farmstead
+![[Land Farmstead.webp]]
+
+> [!note]+ Read Aloud
+> The dilapidated Land farmstead consists of a crumbled wall and a sagging, unsafe house with broken windows and a sagging roof.  Thick, sludgy puddles of dried blood and unidentifiable fleshy chucks litter the wooden floor immediately inside the front door.
+
+**Encounter Difficulty:**   
+- [ ] Low (80 XP) Level 2
+
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[Owlbear]] 
+
+```encounter
+name: Land Farmstead
+party: Age of Worms
+creatures:
+  - 1: [[Owlbear]]
+```
+
+Between the wall and the stairs leading to the collapsed second floor lurks an enraged female owlbear, still wounded from the battle with [[Balabar Smenk|Balanar Smenk's]] agents that left her mate and three of her cubs dead.  A single baby owlbear survived, and the mother protects it with her life.
+
+> [!tip]+ Treasure
+> A baby owlbear, still less than a year old, lurks in a corner of the north wall.  It bonds to any character that touches it, thereafter following that character obediently.  A DC 13 [[Skills#nature|Nature]] check reveals that baby owlbears can fetch as much as 150 gp from collectors who train them to become effective guardian beasts.  Although its large eyes and soft pelt make it an endearing pet or mascot, the creature is at heart a feral monster and isn't above attempting to bite off fingers or gnaw into a companion's leg. Owlbears are impossible to domesticate, so PCs hoping to keep this creature will soon find it far mor trouble than it's worth.
+> 
+> - [ ] gp::150
+
+A DC 13 [[Seek]] check of the Land farmhouse turns up a complete human arm with a unique tattoo identical to the on the face of the half-orc [[5-World/NPCs/Kullen|Kullen]].  A DC 13 [[Skills#Society|Society]] check identifies the symbol as that of Garavin Vesst, a greedy mine manager who branded his employees with it as a badge of status.  Vesst was bankrupted by [[Balabar Smenk]] years ago and died early last year.  The branded workers were little more than slaves to Garavin Vesst and view their current service to Smenk as a privilege.  A DC 15 [[Gather Information]] check suggests that the gang commonly frequents the [[The Feral Dog]], a despicable tavern in the most dangerous part of Diamond Lake.  The arm formerly belonged to a rogue named Skutch.  The rest of him is in the wounded owlbear's stomach.
+
+# Part 4: The Feral Dog
+![[The Feral Dog.webp]]
+
+> [!caption|right ws-med] Floats to the right
+> **The Feral Dog Map Key**
+> 1. Taproom
+> 2. Staff quarters
+> 3. Staff quarters
+> 4. Staff quarters
+> 5. Staff quarters
+> 6. Kitchen
+> 7. Spirits storage
+> 8. Stairs
+> 9. Storage
+> 10. Private meeting room
+> 11. Office
+> 12. Premium dogfight seeting
+> 13. Office of the kennel keeper
+> 14. Ready room
+> 15. Kennel
+> 16. Raw meat storage
+> 17. Private meeting room
+> 18. Vaults and planning office
+
+Once they discover the tattooed arm at the Land farmstead, the PCs are on the trail of [[Balabar Smenk]]'s gang of reprobates.  About a week ago, the five-man gang helped one of Smenk's associates from [[Ardentia City]], a debased necromancer named Filge, move into an old observatory on the bluff overlooking [[Diamond Lake]].  Balabar gave the gang strict instructions to help Filge acquire whatever he needed to feel at home at the observatory, but the wizard's first request set the criminals on edge and infuriated their leader, and albino half-orc barbarian named [[5-World/NPCs/Kullen|Kullen]].  Filge needed one thing more than any other-skeletons to serve as guardians and assistants.
+
+Knowing that the Diamond Lake Boneyard was under the protection of cultists sworn to [[Neralith]], [[5-World/NPCs/Kullen|Kullen]] grudgingly led his followers on a tour of abandoned farmsteads on the outskirts of town, hoping to find a few private graves that the gang could dig up without attracting undue attention.  All five of the criminals resented the work, considering grave robbing beneath them.
+
+Things grew considerable worse when, after digging up all five Land graves (and finding Alastor's empty of remains) two nights ago, an inquisitive rogue named Skutch convinced the rest of the gang to explore the Land farmhouse.
+
+Inside, the found a pair of mated owlbears.  Four of the criminals-[[5-World/NPCs/Kullen|Kullen]], Rastophan, Todrick and Merovinn Bask-managed to escape with their lives.  All the remins of poor Skutch is his severed, tattooed arm.
+
+All four of the remaining, cultists bear a tattoo identical to the one depicted on [[5-World/NPCs/Kullen|Kullen]]'s forehead.  Only Kullen's is on his forehead.  Other tattoos mark hands, shoulders and other areas generally covered by clothing and armor.
+
+[[5-World/NPCs/Kullen|Kullen]]'s gang arrives at the [[The Feral Dog]] around 8:00 pm and leaves in a drunken stupor about three hours past Midnight (treat grunk characters as [[Clumsy]] for the purposes of this encounter).
+
+The PCs might discover the location of the Land remains a number of different ways.  The criminals have a starting attitude of [[Unfriendly]]
+ toward the PCs and certainly don't shy away from conflict if attacked. 
+
+**Bribery:** All of the criminals were wounded badly in the fight against the owlbear and all of them deeply resent having been sent on the mission in the first place.  They strongly dislike Filge, who treated them like servants and they're starting to suspect (correctly) that [[Balabar Smenk]] might not have their best interests in mind.  IF even one of the criminal's attitudes can be changed to friendly ([[Make an Impression]]), the gang accepts a bribe of not less then 10 gp to reveal that they delivered the bones to a "crazy old goat named Filge" who's living in the old observatory.  They do not reveal Smenk's involvement and warn the PCs against digging too deep.  "Just get your bones and get out of there," they helpfully suggest.  If a gang member can be approached individually, his attitude need only be changed to indifferent to pave the way for a bribe.  In this case, the criminal keeps the full bribe for himself.
+
+**Flattery:** If all of the criminals' attitudes can be changed to friendly by a PC using [[Skills#Diplomacy|Diplomacy]] to reinforce their belief that they have been used by uncaring employers, [[5-World/NPCs/Kullen|Kullen]] himself tells the PCs about the grave robbery and the delivery of the bones to the necromancer Filge. "Do me a personal favor," he says with a broken smile.  "Bring me back that thin bastard's eyes." If the PCs fail to follow-through on this request, [[5-World/NPCs/Kullen|Kullen]] eventually becomes hostile toward them, perhaps turning into a long-term enemy int he campaign who advances in level as the PCs do.
+
+**Fight:** Of course, the PCs could just attack the gang and attempt to get the information from them by force.
+
+**Encounter Difficulty:**   
+- [ ] Extreme (180 XP) Level 2
+
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[3-Rules/Bestiaries/Uniques/Kullen|Kullen]]
+ - 1: [[Rastophan]]
+ - 1: [[Todrik]]
+ - 1: [[Merovinn Bask]]
+
+```encounter
+name: The Feral Dog
+party: Age of Worms
+creatures:
+  - 1: [[Kullen]]
+  - 1: [[Rastophan]]
+  - 1: [[Todrik]]
+  - 1: [[Merovinn Bask]]
+```
+
+This fight should prove to be very challenging unless the PCs manage to battle on their own terms, setting up an ambush or isolating members of the gang from each other and taking them out one at a time.
+
+**Kullen** This towering albino half-orc commands the respect of everyone at the [[The Feral Dog]], where his rages are legendary. He is still upset about the disaster at the Land farmstead, and is eager for an unfair fight to work off some pent-up aggression.
+
+**Rastophan** A wiry goon from the south.  Rastophan's long, clumpy black hair hangs down over his large eyes, giving him a sullen look.  He rarely speaks and gets most of his guidance from [[5-World/NPCs/Kullen|Kullen]].
+
+**Todrick** This corrupt fighter was born into servitude to Garavin Vesst, and views [[Balabar Smenk]] as his savior from a life in the mines.  He has short brown hair cut into a flat-top.  An angry red scar marks the left side of his sneering face from the forehead to the tip of the chin.
+
+**Merovinn Bask** This bald, ill-tempered wizard simply can't believe that his depts forced him into servitude in the first place, and views each day as an absolute disgrace.  Bask is by far the rudest of [[5-World/NPCs/Kullen|Kullen]]'s men.  The only friend he ever had was the unfortunate Skutch.
+
+> [!tip]+ Treasure
+> Kullen is carrying a +1 Weapon Potency Greataxe, [[Healing Potion (Minor)]], [[Bestial Mutagen (Lesser)]] and 3 gp.  Rastophan is carrying [[Splint Mail]] [[Darkvision Elixir (Lesser)]] and 4 gp. Todrik is carrying a [[Glaive]], [[Splint Mail]], [[Healing Potion (Minor)]]x2 and 2 gp. Merovinn Bask is carrying [[Dizzying Colors|Scroll of Dizzying Colors]] and his spellbook (Cantrip: [[Ray of Frost]], [[Electric Arc]], [[Shield]],[[3-Rules/Character Building/Spells/Detect Magic|Detect Magic]] 1st: [[Force Barrage]], [[Scorching Blast]], [[Gust of Wind]] 2nd: [[Mirror Image]] )
+> 
+> - [ ] gp::9
+> - [ ] permanent::[[Weapon Potency (+1)]] [ilvl::2] [gp::35]
+> - [ ] permanent::[[Splint Mail]] [ilvl::1] [gp::13]
+> - [ ] consumable::[[Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [ ] consumable::[[Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [ ] consumable::[[Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [ ] consumable::[[Bestial Mutagen (Lesser)]] [ilvl::1] [gp::4]
+> - [ ] consumable::[[Darkvision Elixir (Lesser)]] [ilvl::2] [gp::6]
+> - [ ] consumable::[[Dizzying Colors|Scroll of Dizzying Colors]] [ilvl::1] [gp::4]
+
+If the PCs don't manage to cajole or bribe the location of the Land remains out of Balabar Smenk's henchman, you can still move the action along by staging follow-up encounters with Kullen and his brutes. They don't appreciate the questions the PCs have been asking around town, and decide to rough them up.  Give the PCs a good chance to win one of these battles, which will place them in the position of getting whatever information they want form the defeated albino half-orc and his gang of reprobates.
+
+> [!warning]
+> If the PCs manage to learn of Filge from Kullen or his henchmen without resorting to combat, award them XP as if they had defeated the group.
+
+# Part 5. The Old Observatory
+About a century ago, Diamond Lake's crumbling observatory hosted a scientific cult devoted to studying the heavens and celestial bodies.  The sect died out decades ago, and the place has since been inhabited by a series of questionable tenants who never seem to last very long.  The latest is Filge, a deranged necromancer from [[Ardentia City]] summoned to Diamond Lake by his old associate [[Balabar Smenk]], a local paragon of corruption. Two weeks ago, Filge received a package from Smenk filled with a thousand pieces of gold and hints of "unkillable" undead in the hills around Diamond Lake.
+
+When at last Filge arrived, Smenk laid out a series of confusing events that hinted at a bizarre conspiracy hatched in secret chambers below Diamond Lake. ONe of Smenk's rival mine managers, a taciturn business minded dwarf named Ragnolin Dourstone, came to Smenk with a covert offer of alliance.  Dourstone explained that one of his crews had discovered an unusual chamber below his copper mine and that a cadre of students and mystics had set up shop there at his invitation. Dourstone asked Smenk to run secret food shipments to this subterranean force, keeping the whole affair from the attention of Diamond Lake's militia garrison or the office of Governor-Mayor [[Lannod Neff]]. In exchange, the dwarf offered Smenk a fair contract and three beautiful obsidian rings, said to have bene unearthed within this secret chamber-the so-called "Black Cathedral." Smenk agreed, but only if Dourstone would consent to let him visit the cathedral himself.
+
+What Smenk saw there terrified him, an emotion he'd thought purged since he strangled his first city watchman.  An oppressive aura of despair surged from a large pool of black slim in the Cathedral's central chamber.  Three circles of robed figures ringed the pool, their faces touching the cold mosaic floor. Through robes and hoods Smenk spied inhuman appendages-twitching tails and hints of oily black feathers.  Their chants echoed off basalt walls like a chorus of croaking frogs and screaming children.
+
+Worst of all, Ragnolin Dourstone acted as if nothing was amiss, politely leading Smenk on a tour through a bizarre labyrinth while outlining what sort of provisions he required and when he would expect Smenk's agents to make delivery so as to arouse the least suspicion, "All must be prepared," Dourstone said without a hint of emotion, "For the Age of Worms is upon us."
+
+Smenk had never heard of the Age of Worms, but knew a clue when he saw one. While touring what appeared to be an arcanist's laboratory, Smenk noticed a jar containing a segmented green worm suspended in nutritive fluid.  He gingerly absorbed the jar into a magical storage space and continued following his rival, taking in his surroundings and planning a hasty escape should things grow any stranger.
+
+In a chamber beyond the labyrinth Smenk met the master of the Black Cathedral, a masked wizard called the Faceless ONe.  Unintimidated by Smenk's political clout, the lisping, crooked man dictated new terms of the provisioning arrangement. "Now that you see what we are capable of," he wheezed, "you understand why secrecy must be maintained.  Secrecy allows us to continue or studies and liturgies in the name of the Ebon Triad.  Without secrecy, we are lost.  We will kill to preserve it."
+
+Smenk understood the subtext, and agreed to the provisioning deal without mentioning that the arrangement would drive him into penury.  He escaped the mine with his live but had shackled himself to a disastrous agreement with a dangerous inhuman cult.  Armed with his bottled worm and tails of undead in the hills, he sent for Filge and put up his old friend in Diamond Lake's moribund observatory.
+
+Once the PCs reach the old observatory, read the following:
+> [!note]+ Read Aloud
+> Five minutes north of Diamond Lake, on a bluff overlooking an abandoned mine, a crumbling old observatory casts its gaze to the heavens.  A wide slit bisects its doomed tower, where surely a great telescope once peered into eternity.  Now the place bears a dark character, like a sagging tenement broken under the weight of decades of inhabitants.  A slim stairway cut into the steep hillside leads to the structure's only door, on the side of the tower's attacked one-story outbuilding.  Flickering light filters though the observatory's only windows, along the tower's second and third floor.
+
+```leaflet
+id: Old Observatory
+image: [[Old Observatory.webp]]
+height: 800px
+width: 70%
+### This sets where the map starts by default. Set it to the middle (half) of your bounds. 
+lat: 50
+long: 50
+### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map. 
+minZoom: 0
+### Max zoom is 18. 
+maxZoom: 18
+### Hover mouse over the Reset Zoom icon to see your current zoom level. 
+defaultZoom: 17
+### How far it zooms in or out with each step. Can be in decimals. 
+zoomDelta: 0.5
+### This is a string so can be any text. Change it to match your maps measurement scale. 
+unit: feet
+scale: 1
+darkMode: false
+```
+
+## 1. Landing 
+> [!note]+ Read Aloud
+> The stairway rises to a wide landing and two huge wooden doors.  Shot though with dark blue mold, the doors form an enormous round moon carved wit a lunatic's jabbering face.  Beneath the landing, an unremarkable wooden door appears to lead to a tool closet under the stairs.
+
+The massive moon-face doors are held shut with a simple lock (DC 20 [[Skills#Thievery|Thievery]]).  If this check fails by 5 or more, the skeletons in area 2 hear the commotion and prepare for the PCs. 
+
+**Encounter Difficulty:**   
+- [ ] Low (80 XP) Level 2
+
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[tomb-mote|Tomb Mote]] 
+
+```encounter
+name: Landing
+party: Age of Worms
+creatures:
+  - 2: [[Tomb Mote]]
+```
+
+The small door below the landing leads to a grubby tools closet.  It too is locked with a simple lock (DC 20 [[Skills#Thievery|Thievery]]). The closet is home to a pair of tomb motes, tiny undead creatures composed of bone shards, matted hair, bits of shattered tombstone, dirt, and rotting, mismatched teeth.  Filge uses tomb motes as messengers when needed. They immediately attacks anyone but Filge who opens the door.
+
+## 2. Watchers in the Dark
+> [!note]+ Read Aloud
+> Furniture fragments, smashed planks, broken glass and other detritus cram this large antechamber.  At the west end of the room, several upended tables form a crude barricade.  Closed doors mark the north and west walls.
+
+**Encounter Difficulty:**   
+- [ ] Trivial (60 XP) Level 2
+
+At the start of the encounter, place the following foes on the map: 
+ - 3: [[Skeleton Warrior]] 
+
+```encounter
+name: Watchers in the Dark
+party: Age of Worms
+creatures:
+  - 3: [[Skeleton Warrior]]
+```
+
+Three of Alastor Land's relatives now animated skeletons in thrall to the odious necromancer Filge, guard this chamber and the observatory's only exit.  The skeletons hide behind a wooden table barricade in the last rank of squares along the western wall.  Each wields a crossbow armed with a greasy, poison-tipped bolt and kneels beside an identical loaded crossbow and a scimitar.  If the PCs make a lot of noise getting though the front door, the skeletons gain surprise acting first in the round the moment the door is opened.  They use this round to fire their in-hand crossbows at any visible PC.  The upturned tables grant the skeletons [[Cover|Cover]].  Due to the junk littering the floor, all of the squares int he room are considered difficult terrain.
+
+The skeletons are two adults and a young adult-Alastor's father Anders, his mother Bemissa, and his brother Coldaran.  Bemissa and Coldaran's skeletons show slight deformities that a DC 15 [[Skills#medicine|Medicine]] check identifies as signs of the Red Death, a plague that swept through Diamond Lake 19 years ago (matching the date on their gravestones).
+
+## 3. Abandoned Office
+Pushing open the warped wooden door to this chamber requires a DC 13 [[Skills#Athletics|Athletics]] check.
+
+> [!note]+ Read Aloud
+> This room appears to have once been an office, but it does not look like it has been used in years.
+
+## 4. Cenobitic Chambers
+> [!note]+ Read Aloud
+> This simple chamber hosts a plain bed, a small open footlocker and a unremarkable wooden dresser.
+
+These tiny rooms once housed the monks who lived in the observatory.  Each is slightly different from the next, as if the interiors have been customized by a successions of tenants.  They have not been used for more then a decade.
+
+> [!tip]+ Treasure
+> A DC 20 [[Seek]] check in the easternmost room reveals a clevverly hidden puch dangling behind a dresser drawer.
+> 
+> - [ ] gp::1
+> - [ ] sp::18
+> - [ ] cp::9
+
+## 5. Feasting Hall
+> [!note]+ Read Aloud
+> The revolting stench of rotting flesh roils from the open door. IN the room beyond, ten chairs surround an oblong dining table situated parallel to the door. Along the north wall, a wide staircase lads to an upper floor.  A wooden door below the stairs presumably leads to a slim chamber. Two doors line the south wall.  A sagging antique wooden shelf dominates the west wall, looking like it might collapse at any moment.
+> 
+> Three tall candles on the dining table illuminate a sight of terror. With the exception of the place at the western end, each of the chairs surrounding the table holds an awkwardly seated humanoid figure. The seven bodies are in various stages of decomposition. Some sit with splendid posture, paused as if midway though a sumptuous feast. Others slump treacherously close to the floor.
+> 
+> Heaping plates of apparently fresh food sit before each of the diners, but the empty place setting fieatures a clean plate and set of utensils. Several bottles of red wine rest upon the table, and each of the corpses sits before a half-finished glass. A fly passes nearby, its there-not-there buzz breaking the eerie silence.
+
+Characters who make a successful DC 12 [[seek]] check notice slight movements in some of the corpses at the table, suggesting they may be animated.  All seven of the guests are zombies, but the creatures make no attempt to waylay the party.  In fact, they do not interact wit the PCs in any way unless a PC sits in the empty chair at the head of the table.  When this happens, all of the zombies spring to life and begin acting out a formal dinner party.  The undead diners lack the precision necessary to slice their food, and merely go through the motions of eating.  The whole thing has the atmosphere of a grotesque pantomime.
+
+Seconds after the feast begins, a zombie turns to look directly at the seated PC and comments: "Once again, milord has provided a delicious meal," it says in an accent tinged with airs of nobility.  "It is an honor to dine in your august presence."
+
+Thereafter, other diners chime in with sycophantic comments of their own.  "The Arcane Conclave was wrong to turn you out," a male elf corpse remarks. "You ought to show them like you showed me." The tattered remains of what must once have been a young woman speak up next.  "I shouldn't have ever doubted you, Filge," it says earnestly. "I always loved you when we were together. Now I will love you forever." Conversation continues along these lines until the seated PC stands up, at which point the production comes to a close and the zombies "reset" to their beginning positions.  Each time a character sits at the head of the table, the script begins again.
+
+> [!tip]+ Treasure
+> The rotting shelves along the west wall hold a set of silver dining utensils worth 10 gp.
+> 
+> - [ ] gp::10
+
+> [!warning]
+> Since these zombies do not fight back, award no experience points for their defeat
+
+## 6. Kitchen
+The kitchen contains an enormous wheel of cheese, a moldy loaf of bread, and several strips of string cured meat-salted swine hearts.  
+
+> [!tip]+ Treasure
+> Filge's shoddy cutlery might fetch 4 sp in town.
+> 
+> - [ ] sp::4
+
+## 7. Pantry
+A small closet off the kitchen's west wall holds a handful of spices and dry food favored by Filge.  His diet portrays a lack of depth or creativity and most of the shelves are empty.
+
+## 8. Storage Closet
+This simple storage closet holds for extra chairs and eight copper candle stands worth 2 sp each.
+
+> [!tip]+ Treasure
+> The eight copper candle stands are worth 2 sp each.
+> 
+> - [ ] sp::16
+
+## 9. Bedchamber
+> [!note]+ Read Aloud
+> The stairs lead to a massive bedchamber that fills an entire floor of the observatory tower. Light filtering in from the tall windows ringing the chamber catches motes of dust in the calm air. A fine bed with plump red linen sheets squats upon a dais along the southeast cradle of the tower's arc.  A nightstand next to the bed holds a wax-choked candlestick and a black book bound with brown and red leather.
+> 
+> At the midpoint of the eastern wall a strange form stands rigid atop a short wooden stool, as tall as a halfling and clothed in a fine black suit and top hat.  Clean cloth bandages wrap every inch of the sentry's skin. A pair of ash-tinted spectacles rests upon a long skinny nose. The diminutive dandy holds a silver platter as if presenting a meal, and upon the tray rests the freshly preserved severed head of a middle-aged human woman. A gold piece sits upon her outstretched, purple tongue.
+> 
+> A messy desk rests against the opposite wall, piled hit with loose papers. An apparatus holding four long tubes filled with color liquid peeks out from the clutter.  Doors on the north and west walls appear to lead to small closets.
+> 
+> Wide stairs lead above and below. A massive white stone statue of a thin human man with outstretched angelic wings and a beatific look upon his idealized face looms large in the northwest arc of the tower wall.  The angel holds a sword in one hand and cradles a harp with the other.  The presentation conjures thoughts of mausoleum peaks or the graves of important men. Tall letters etched upon the statue's base spell out a single word: "Filge." 
+
+The ceiling in this chamber is 15 feet high rather than the standard 10 feet common in the rest of the observatory.
+
+On the rare occasions when he is not experimenting in his upstairs laboratory, Filge can be found brooding here upon some half-finished project or laboring over notes and calculations at his desk. He tends to work upstairs until about midnight, at which point he winds down with another two hours of reading and meditation here in his bedroom.
+
+The roof of the observatory's attached outbuilding provides walk-up access to the windows looking in on this room.  Medium and smaller characters can slide through the windows with ease.  Larger characters or creatures wearing bulky armor must take a full minute to squeeze through.  Note that it's possible to catch Filge sleeping.  In these cases, the wizard's owl familiar keeps watch from a perch on the candlestick on the nightstand next to the bed. The bird makes a [[Seek]] check at +14 and screeches wildly if it sees an intruder.  Filge keeps his syringes on the nightstand while sleeping so he's never far from a weapon.
+
+The halfling "statue" is really a mummified goblin dressed in a fine suit and hat that doubles as a noble's outfit for small characters.  The corpse is long dead, but has been chemically preserved to prevent decomposition.  This process also preserves the female human head on the silver platter.  Touching the head in any way triggers a magic mouth that screams "INTRUDER! INTRUDER! INTRUDER!" This instantly alerts Filge to the presence of interlopers in his bedchamber.
+
+The angelic figure is an idealized representation of Filge himself.
+
+> [!tip]+ Treasure
+> Filge's spellbook rests upon the nightstand next to the bed.  It contains the following spells: .
+> 
+> The silver tray held by the mummified sentry is worth 2 gp. The A large run of golden brown fur is worth 8 gp, but must be carried carefully to ensure that its coat does not become soiled.  A DC 15 [[Skills#Occultism|Occultism]] check identifies the pelt as that of an adult lammasu.
+> 
+> Most of the papers on Filge's desk concern surgical procedures meant to enhance the potency of undead, while others contain only the meandering scribbles of a mind descending into madness.  Buried in with the junk is a [[Summon Undead|Scroll of Summon Undead]] and a beaker holder containing four 6-inch-long tubes filled with different-colored liquids  Two of the six slots are empty. The glass tubes are sealed at the top with a rubber sheath, and look like they are meant to be slotted into some other device.  Each contains a soupy liquid substance consisting of reanimated cells.  Filge has been experimenting with injecting these liquids into himself. They are effectively a 
+> 
+> - [ ] gp::10
+> - [ ] permanent::[[itemlink]] [ilvl::000] [gp::000]
+> - [ ] consumable::[[Summon Undead|Scroll of Summon Undead]] [ilvl::1] [gp::4]
