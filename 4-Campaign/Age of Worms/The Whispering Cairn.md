@@ -3,6 +3,7 @@ tags:
   - "#Location"
   - "#Geography"
 art: zz_Attachments/Misc/PlaceholderImage.png
+adventure_level: 1
 total_xp: 1404
 completed_xp: 0
 awarded_pp: 0
@@ -807,7 +808,7 @@ Between the wall and the stairs leading to the collapsed second floor lurks an e
 > 
 > - [ ] gp::150
 
-A DC 13 [[Seek]] check of the Land farmhouse turns up a complete human arm with a unique tattoo identical to the on the face of the half-orc [[5-World/NPCs/Kullen|Kullen]].  A DC 13 [[Skills#Society|Society]] check identifies the symbol as that of Garavin Vesst, a greedy mine manager who branded his employees with it as a badge of status.  Vesst was bankrupted by [[Balabar Smenk]] years ago and died early last year.  The branded workers were little more than slaves to Garavin Vesst and view their current service to Smenk as a privilege.  A DC 15 [[Gather Information]] check suggests that the gang commonly frequents the [[The Feral Dog]], a despicable tavern in the most dangerous part of Diamond Lake.  The arm formerly belonged to a rogue named Skutch.  The rest of him is in the wounded owlbear's stomach.
+A DC 13 [[Seek]] check of the Land farmhouse turns up a complete human arm with a unique tattoo identical to the on the face of the half-orc [[5-World/NPCs/Diamond Lake/Kullen|Kullen]].  A DC 13 [[Skills#Society|Society]] check identifies the symbol as that of Garavin Vesst, a greedy mine manager who branded his employees with it as a badge of status.  Vesst was bankrupted by [[Balabar Smenk]] years ago and died early last year.  The branded workers were little more than slaves to Garavin Vesst and view their current service to Smenk as a privilege.  A DC 15 [[Gather Information]] check suggests that the gang commonly frequents the [[The Feral Dog]], a despicable tavern in the most dangerous part of Diamond Lake.  The arm formerly belonged to a rogue named Skutch.  The rest of him is in the wounded owlbear's stomach.
 
 # Part 4: The Feral Dog
 ![[The Feral Dog.webp]]
@@ -833,24 +834,24 @@ A DC 13 [[Seek]] check of the Land farmhouse turns up a complete human arm with 
 > 17. Private meeting room
 > 18. Vaults and planning office
 
-Once they discover the tattooed arm at the Land farmstead, the PCs are on the trail of [[Balabar Smenk]]'s gang of reprobates.  About a week ago, the five-man gang helped one of Smenk's associates from [[Ardentia City]], a debased necromancer named Filge, move into an old observatory on the bluff overlooking [[Diamond Lake]].  Balabar gave the gang strict instructions to help Filge acquire whatever he needed to feel at home at the observatory, but the wizard's first request set the criminals on edge and infuriated their leader, and albino half-orc barbarian named [[5-World/NPCs/Kullen|Kullen]].  Filge needed one thing more than any other-skeletons to serve as guardians and assistants.
+Once they discover the tattooed arm at the Land farmstead, the PCs are on the trail of [[Balabar Smenk]]'s gang of reprobates.  About a week ago, the five-man gang helped one of Smenk's associates from [[Ardentia City]], a debased necromancer named Filge, move into an old observatory on the bluff overlooking [[Diamond Lake]].  Balabar gave the gang strict instructions to help Filge acquire whatever he needed to feel at home at the observatory, but the wizard's first request set the criminals on edge and infuriated their leader, and albino half-orc barbarian named [[5-World/NPCs/Diamond Lake/Kullen|Kullen]].  Filge needed one thing more than any other-skeletons to serve as guardians and assistants.
 
-Knowing that the Diamond Lake Boneyard was under the protection of cultists sworn to [[Neralith]], [[5-World/NPCs/Kullen|Kullen]] grudgingly led his followers on a tour of abandoned farmsteads on the outskirts of town, hoping to find a few private graves that the gang could dig up without attracting undue attention.  All five of the criminals resented the work, considering grave robbing beneath them.
+Knowing that the Diamond Lake Boneyard was under the protection of cultists sworn to [[Neralith]], [[5-World/NPCs/Diamond Lake/Kullen|Kullen]] grudgingly led his followers on a tour of abandoned farmsteads on the outskirts of town, hoping to find a few private graves that the gang could dig up without attracting undue attention.  All five of the criminals resented the work, considering grave robbing beneath them.
 
 Things grew considerable worse when, after digging up all five Land graves (and finding Alastor's empty of remains) two nights ago, an inquisitive rogue named Skutch convinced the rest of the gang to explore the Land farmhouse.
 
-Inside, the found a pair of mated owlbears.  Four of the criminals-[[5-World/NPCs/Kullen|Kullen]], Rastophan, Todrick and Merovinn Bask-managed to escape with their lives.  All the remins of poor Skutch is his severed, tattooed arm.
+Inside, the found a pair of mated owlbears.  Four of the criminals-[[5-World/NPCs/Diamond Lake/Kullen|Kullen]], Rastophan, Todrick and Merovinn Bask-managed to escape with their lives.  All the remins of poor Skutch is his severed, tattooed arm.
 
-All four of the remaining, cultists bear a tattoo identical to the one depicted on [[5-World/NPCs/Kullen|Kullen]]'s forehead.  Only Kullen's is on his forehead.  Other tattoos mark hands, shoulders and other areas generally covered by clothing and armor.
+All four of the remaining, cultists bear a tattoo identical to the one depicted on [[5-World/NPCs/Diamond Lake/Kullen|Kullen]]'s forehead.  Only Kullen's is on his forehead.  Other tattoos mark hands, shoulders and other areas generally covered by clothing and armor.
 
-[[5-World/NPCs/Kullen|Kullen]]'s gang arrives at the [[The Feral Dog]] around 8:00 pm and leaves in a drunken stupor about three hours past Midnight (treat grunk characters as [[Clumsy]] for the purposes of this encounter).
+[[5-World/NPCs/Diamond Lake/Kullen|Kullen]]'s gang arrives at the [[The Feral Dog]] around 8:00 pm and leaves in a drunken stupor about three hours past Midnight (treat grunk characters as [[Clumsy]] for the purposes of this encounter).
 
 The PCs might discover the location of the Land remains a number of different ways.  The criminals have a starting attitude of [[Unfriendly]]
  toward the PCs and certainly don't shy away from conflict if attacked. 
 
 **Bribery:** All of the criminals were wounded badly in the fight against the owlbear and all of them deeply resent having been sent on the mission in the first place.  They strongly dislike Filge, who treated them like servants and they're starting to suspect (correctly) that [[Balabar Smenk]] might not have their best interests in mind.  IF even one of the criminal's attitudes can be changed to friendly ([[Make an Impression]]), the gang accepts a bribe of not less then 10 gp to reveal that they delivered the bones to a "crazy old goat named Filge" who's living in the old observatory.  They do not reveal Smenk's involvement and warn the PCs against digging too deep.  "Just get your bones and get out of there," they helpfully suggest.  If a gang member can be approached individually, his attitude need only be changed to indifferent to pave the way for a bribe.  In this case, the criminal keeps the full bribe for himself.
 
-**Flattery:** If all of the criminals' attitudes can be changed to friendly by a PC using [[Skills#Diplomacy|Diplomacy]] to reinforce their belief that they have been used by uncaring employers, [[5-World/NPCs/Kullen|Kullen]] himself tells the PCs about the grave robbery and the delivery of the bones to the necromancer Filge. "Do me a personal favor," he says with a broken smile.  "Bring me back that thin bastard's eyes." If the PCs fail to follow-through on this request, [[5-World/NPCs/Kullen|Kullen]] eventually becomes hostile toward them, perhaps turning into a long-term enemy int he campaign who advances in level as the PCs do.
+**Flattery:** If all of the criminals' attitudes can be changed to friendly by a PC using [[Skills#Diplomacy|Diplomacy]] to reinforce their belief that they have been used by uncaring employers, [[5-World/NPCs/Diamond Lake/Kullen|Kullen]] himself tells the PCs about the grave robbery and the delivery of the bones to the necromancer Filge. "Do me a personal favor," he says with a broken smile.  "Bring me back that thin bastard's eyes." If the PCs fail to follow-through on this request, [[5-World/NPCs/Diamond Lake/Kullen|Kullen]] eventually becomes hostile toward them, perhaps turning into a long-term enemy int he campaign who advances in level as the PCs do.
 
 **Fight:** Of course, the PCs could just attack the gang and attempt to get the information from them by force.
 
@@ -877,11 +878,11 @@ This fight should prove to be very challenging unless the PCs manage to battle o
 
 **Kullen** This towering albino half-orc commands the respect of everyone at the [[The Feral Dog]], where his rages are legendary. He is still upset about the disaster at the Land farmstead, and is eager for an unfair fight to work off some pent-up aggression.
 
-**Rastophan** A wiry goon from the south.  Rastophan's long, clumpy black hair hangs down over his large eyes, giving him a sullen look.  He rarely speaks and gets most of his guidance from [[5-World/NPCs/Kullen|Kullen]].
+**Rastophan** A wiry goon from the south.  Rastophan's long, clumpy black hair hangs down over his large eyes, giving him a sullen look.  He rarely speaks and gets most of his guidance from [[5-World/NPCs/Diamond Lake/Kullen|Kullen]].
 
 **Todrick** This corrupt fighter was born into servitude to Garavin Vesst, and views [[Balabar Smenk]] as his savior from a life in the mines.  He has short brown hair cut into a flat-top.  An angry red scar marks the left side of his sneering face from the forehead to the tip of the chin.
 
-**Merovinn Bask** This bald, ill-tempered wizard simply can't believe that his depts forced him into servitude in the first place, and views each day as an absolute disgrace.  Bask is by far the rudest of [[5-World/NPCs/Kullen|Kullen]]'s men.  The only friend he ever had was the unfortunate Skutch.
+**Merovinn Bask** This bald, ill-tempered wizard simply can't believe that his depts forced him into servitude in the first place, and views each day as an absolute disgrace.  Bask is by far the rudest of [[5-World/NPCs/Diamond Lake/Kullen|Kullen]]'s men.  The only friend he ever had was the unfortunate Skutch.
 
 > [!tip]+ Treasure
 > Kullen is carrying a +1 Weapon Potency Greataxe, [[Healing Potion (Minor)]], [[Bestial Mutagen (Lesser)]] and 3 gp.  Rastophan is carrying [[Splint Mail]] [[Darkvision Elixir (Lesser)]] and 4 gp. Todrik is carrying a [[Glaive]], [[Splint Mail]], [[Healing Potion (Minor)]]x2 and 2 gp. Merovinn Bask is carrying [[Dizzying Colors|Scroll of Dizzying Colors]] and his spellbook (Cantrip: [[Ray of Frost]], [[Electric Arc]], [[Shield]],[[3-Rules/Character Building/Spells/Detect Magic|Detect Magic]] 1st: [[Force Barrage]], [[Scorching Blast]], [[Gust of Wind]] 2nd: [[Mirror Image]] )

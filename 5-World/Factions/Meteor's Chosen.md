@@ -3,7 +3,7 @@ tags:
   - Organization
 art: zz_Attachments/Misc/PlaceholderImage.png
 head:
-  - "[[5-World/NPCs/Malachite]]"
+  - "[[5-World/NPCs/Ardentia City/Malachite]]"
 pronounced: Meteor's Chosen
 location:
   - "[[Ardentia City]]"
@@ -117,7 +117,7 @@ location:
 The Meteor's Chosen is a clandestine cult that emerged in the wake of a cataclysmic meteor impact. Their fervent devotion centers around the belief that this celestial event was no mere cosmic collision—it was a divine intervention. The Meteor's Chosen view the meteor impact as a celestial revelation—an otherworldly message etched in fire across the sky. They consider the meteor's remnants—crystals and mysterious dungeons—as sacred gifts bestowed by a higher power. The cult's ultimate goal is to ascend to a higher plane of existence. They believe that by unlocking the secrets of the crystals and conquering the dungeons, they can transcend mortal limitations. The crystals are believed to contain divine essence. The cult seeks to harness this energy for their spiritual ascent.
  
 Key figures within the Meteor's Chosen are:
-- High Seer [[5-World/NPCs/Malachite]]: The charismatic leader of the Meteor's Chosen. His eyes reflect the meteor's fiery glow. [[5-World/NPCs/Malachite]] interprets cosmic signs, deciphers ancient texts, and guides the faithful toward ascension.
+- High Seer [[5-World/NPCs/Ardentia City/Malachite]]: The charismatic leader of the Meteor's Chosen. His eyes reflect the meteor's fiery glow. [[5-World/NPCs/Ardentia City/Malachite]] interprets cosmic signs, deciphers ancient texts, and guides the faithful toward ascension.
 - [[Astra the Crystal Witch]]: A mysterious figure who communicates with the crystals. Her touch reveals hidden truths.  Astra guides initiates through visions and cryptic dreams.
 - [[Ezekiel Stoneheart]]: The enigmatic prophet who claims to have foretold the meteor's arrival. His prophecies drive the cult's actions. Ezekiel has glimpsed the higher plane during a near-death experience which he believes granted him prophetic powers.
 

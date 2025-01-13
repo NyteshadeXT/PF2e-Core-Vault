@@ -14,25 +14,11 @@
               "type": "markdown",
               "state": {
                 "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Whispering Cairn"
-            }
-          },
-          {
-            "id": "c8f3ea00dc6da07f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Experience Tracker.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Experience Tracker"
+              "title": "The Whispering Cairn"
             }
           },
           {
@@ -78,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -306,34 +292,37 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "cee83e26bcc52550",
+  "active": "1bba4af1f1546967",
   "lastOpenFiles": [
-    "3-Rules/Bestiaries/Uniques/Kullen.md",
-    "3-Rules/Bestiaries/Uniques/Filge.md",
-    "5-World/Factions/The Aetherial Wardens.md",
-    "3-Rules/Bestiaries/Uniques/Merovinn Bask.md",
-    "3-Rules/Bestiaries/Bestiary 1/Aasimar Redeemer.md",
-    "3-Rules/Bestiaries/Adventure Paths/Abomination Vaults/Dhuthorex Sage.md",
-    "3-Rules/Bestiaries/Adventure Paths/Abomination Vaults/Cratonys.md",
-    "3-Rules/Bestiaries/Adventure Paths/Abomination Vaults/Chandriu Invisar.md",
-    "3-Rules/Bestiaries/Adventure Paths/Abomination Vaults/Carman Rajani.md",
-    "3-Rules/Bestiaries/Adventure Paths/Abomination Vaults/Caliddo Haruvex.md",
-    "3-Rules/Bestiaries/Adventure Paths/Abomination Vaults/Beluthus.md",
-    "3-Rules/Bestiaries/Adventure Paths/Abomination Vaults/Belcorra Haruvex.md",
-    "3-Rules/Bestiaries/Adventure Paths/Abomination Vaults/Augrael.md",
-    "3-Rules/Bestiaries/Pathfinder Society/Introductions/Ancient Summoning Rune.md",
     "4-Campaign/Age of Worms/The Whispering Cairn.md",
+    "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
+    "2-Session Journals/Age-of-Worms/AoW - Session Test.md",
     "1-GM Toolkit/Experience Tracker.md",
-    "5-World/Factions/The Ebon Triad.md",
-    "zz-Templates/GM Templates/Characters/Template - Organization.md",
-    "5-World/Deities/Vorthron.md",
-    "5-World/Deities/Aegis.md",
-    "5-World/Deities/Aurelius.md",
-    "5-World/Deities/Illyria.md",
-    "5-World/Deities/Kataklysmos.md",
-    "5-World/Deities/Malakar.md",
-    "5-World/Deities/Morvael.md",
-    "5-World/Deities/Neralith.md",
+    "5-World/NPCs/Ardentia City/Belegar Cragstone.md",
+    "5-World/NPCs/Ardentia City/Elowen Stormweaver.md",
+    "5-World/NPCs/Ardentia City/Ezekiel Stoneheart.md",
+    "5-World/NPCs/Diamond Lake/Gaspar.md",
+    "5-World/NPCs/Diamond Lake/Hameneezer.md",
+    "5-World/NPCs/Diamond Lake/Jierian Wierus.md",
+    "5-World/NPCs/Diamond Lake/Khellek.md",
+    "5-World/NPCs/Ardentia City/Lady Isolde Moonshadow.md",
+    "5-World/NPCs/Diamond Lake/Lannod Neff.md",
+    "5-World/NPCs/Ardentia City/Lady Seraphina Moonshadow.md",
+    "5-World/NPCs/Diamond Lake/Lazare.md",
+    "5-World/NPCs/Ardentia City/Malachite.md",
+    "5-World/NPCs/Ardentia City/Riven Stormblade.md",
+    "5-World/NPCs/Ardentia City/Selene Starwhisper.md",
+    "5-World/NPCs/Diamond Lake/Shag Soloman.md",
+    "5-World/NPCs/Ardentia City/Silas Emberwind.md",
+    "5-World/NPCs/Ardentia City/Thalorin Stormforge.md",
+    "5-World/NPCs/Ardentia City/Thalric Stoneforge.md",
+    "5-World/NPCs/Diamond Lake/Tidwoad.md",
+    "5-World/NPCs/Tirra.md",
+    "5-World/NPCs/Diamond Lake/Zalmandra.md",
+    "5-World/NPCs/Ellival Moonmeadow.md",
+    "4-Campaign/Age of Worms/Completed",
+    "5-World/NPCs/Ardentia City",
+    "5-World/NPCs/Diamond Lake",
     "zz-Attachments/Old Observatory.webp",
     "zz-Attachments/Allustan.webp",
     "3-Rules/Bestiaries/Uniques",

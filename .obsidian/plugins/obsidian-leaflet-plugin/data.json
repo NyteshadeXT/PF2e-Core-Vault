@@ -11483,8 +11483,301 @@
       ]
     },
     {
+      "id": "Whispering Cairn",
+      "lastAccessed": 1736742130307,
+      "markers": [
+        {
+          "id": "ID_a8393b2809ab",
+          "type": "Encounter",
+          "loc": [
+            -0.006138610653579235,
+            0.0012709594202910141
+          ],
+          "link": "The Whispering Cairn#1. Cowards Rest",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.43838735035890475,
+            0.8320578858179292
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e998cb4bbaca",
+          "type": "Encounter",
+          "loc": [
+            -0.005503845401108265,
+            0.0010572144706104763
+          ],
+          "link": "The Whispering Cairn#2. Transport Alcove",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3646610923469904,
+            0.7460186395181618
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39ea894a7b88",
+          "type": "Encounter",
+          "loc": [
+            -0.00550079345703125,
+            0.0016250436204697447
+          ],
+          "link": "The Whispering Cairn#3. Collapsed Passage",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5605203090058167,
+            0.7456049638055843
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a3b39980a5a",
+          "type": "Encounter",
+          "loc": [
+            -0.0046295165084302425,
+            0.0014251708053052425
+          ],
+          "link": "The Whispering Cairn#4. Hall of Honor",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4915789152446546,
+            0.627507743322615
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99d9aa4bab7b",
+          "type": "Encounter",
+          "loc": [
+            -0.004447841667570174,
+            0.001880645751953125
+          ],
+          "link": "The Whispering Cairn#5. Wolf Den",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f829191b68e8",
+          "type": "Encounter",
+          "loc": [
+            -0.00449371337890625,
+            0.00081634521484375
+          ],
+          "link": "The Whispering Cairn#6. Gallery of Seven Lanterns",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.28157894736842104,
+            0.609100310237849
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9d8db09eaeb",
+          "type": "Encounter",
+          "loc": [
+            -0.0026046752464026213,
+            0.0014373776502907276
+          ],
+          "link": "The Whispering Cairn#7. False Tomb",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4957893773129112,
+            0.353050665870201
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a9bb938884b",
+          "type": "default",
+          "loc": [
+            -0.0007949828868731856,
+            0.0016738563335097368
+          ],
+          "link": "9. Architect's Foyer",
+          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4-Campaign/Age of Worms/The Whispering Cairn.md"
+      ]
+    },
+    {
+      "id": "Lair of the Architect",
+      "lastAccessed": 1736742130308,
+      "markers": [
+        {
+          "id": "ID_2a6aaa484af8",
+          "type": "Encounter",
+          "loc": [
+            -0.0007965087424963713,
+            0.0016098119557908944
+          ],
+          "link": "The Whispering Cairn#9. Architect's Foyer",
+          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.44421320561984023,
+            0.16597773274480823
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d80a990ac939",
+          "type": "Encounter",
+          "loc": [
+            -0.0019121170626021922,
+            0.0018024402100153122
+          ],
+          "link": "The Whispering Cairn#10. Passage of Honor",
+          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebb8e9cb89db",
+          "type": "Encounter",
+          "loc": [
+            -0.0031188963912427425,
+            0.0015304607063332748
+          ],
+          "link": "The Whispering Cairn#11. Gallery",
+          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.42231693831687367,
+            0.6499204893369932
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8aa0a198a79",
+          "type": "Encounter",
+          "loc": [
+            -0.0033737183548510075,
+            0.002784748423300539
+          ],
+          "link": "The Whispering Cairn#12. Living Quarters",
+          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7684264112396805,
+            0.703020687133595
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38686bb82b08",
+          "type": "Encounter",
+          "loc": [
+            -0.0033584595657885075,
+            0.0007308983106807353
+          ],
+          "link": "The Whispering Cairn#13. Workshop",
+          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.20168484921588492,
+            0.6998410368951212
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da18792b7afa",
+          "type": "Encounter",
+          "loc": [
+            -0.004452514927834272,
+            0.0019790806632454592
+          ],
+          "link": "The Whispering Cairn#14. Toilet",
+          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5461096014587554,
+            0.9278219978077802
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4-Campaign/Age of Worms/The Whispering Cairn.md"
+      ]
+    },
+    {
       "id": "Lair of the Laborers",
-      "lastAccessed": 1734842026454,
+      "lastAccessed": 1736742130308,
       "markers": [
         {
           "id": "ID_f8094b6938c9",
@@ -11652,7 +11945,7 @@
     },
     {
       "id": "The True Tomb",
-      "lastAccessed": 1734842026454,
+      "lastAccessed": 1736742130308,
       "markers": [
         {
           "id": "ID_9acbda8979e9",
@@ -11728,299 +12021,6 @@
           "percent": [
             0.7610782768173034,
             0.5990654776029498
-          ],
-          "description": null,
-          "minZoom": 0,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "4-Campaign/Age of Worms/The Whispering Cairn.md"
-      ]
-    },
-    {
-      "id": "Whispering Cairn",
-      "lastAccessed": 1734842178481,
-      "markers": [
-        {
-          "id": "ID_a8393b2809ab",
-          "type": "Encounter",
-          "loc": [
-            -0.006138610653579235,
-            0.0012709594202910141
-          ],
-          "link": "The Whispering Cairn#1. Cowards Rest",
-          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.43838735035890475,
-            0.8320578858179292
-          ],
-          "description": null,
-          "minZoom": 0,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_e998cb4bbaca",
-          "type": "Encounter",
-          "loc": [
-            -0.005503845401108265,
-            0.0010572144706104763
-          ],
-          "link": "The Whispering Cairn#2. Transport Alcove",
-          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.3646610923469904,
-            0.7460186395181618
-          ],
-          "description": null,
-          "minZoom": 0,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_39ea894a7b88",
-          "type": "Encounter",
-          "loc": [
-            -0.00550079345703125,
-            0.0016250436204697447
-          ],
-          "link": "The Whispering Cairn#3. Collapsed Passage",
-          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5605203090058167,
-            0.7456049638055843
-          ],
-          "description": null,
-          "minZoom": 0,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_4a3b39980a5a",
-          "type": "Encounter",
-          "loc": [
-            -0.0046295165084302425,
-            0.0014251708053052425
-          ],
-          "link": "The Whispering Cairn#4. Hall of Honor",
-          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.4915789152446546,
-            0.627507743322615
-          ],
-          "description": null,
-          "minZoom": 0,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_99d9aa4bab7b",
-          "type": "Encounter",
-          "loc": [
-            -0.004447841667570174,
-            0.001880645751953125
-          ],
-          "link": "The Whispering Cairn#5. Wolf Den",
-          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": 0,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_f829191b68e8",
-          "type": "Encounter",
-          "loc": [
-            -0.00449371337890625,
-            0.00081634521484375
-          ],
-          "link": "The Whispering Cairn#6. Gallery of Seven Lanterns",
-          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.28157894736842104,
-            0.609100310237849
-          ],
-          "description": null,
-          "minZoom": 0,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_f9d8db09eaeb",
-          "type": "Encounter",
-          "loc": [
-            -0.0026046752464026213,
-            0.0014373776502907276
-          ],
-          "link": "The Whispering Cairn#7. False Tomb",
-          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.4957893773129112,
-            0.353050665870201
-          ],
-          "description": null,
-          "minZoom": 0,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7a9bb938884b",
-          "type": "default",
-          "loc": [
-            -0.0007949828868731856,
-            0.0016738563335097368
-          ],
-          "link": "9. Architect's Foyer",
-          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "4-Campaign/Age of Worms/The Whispering Cairn.md"
-      ]
-    },
-    {
-      "id": "Lair of the Architect",
-      "lastAccessed": 1734842178481,
-      "markers": [
-        {
-          "id": "ID_2a6aaa484af8",
-          "type": "Encounter",
-          "loc": [
-            -0.0007965087424963713,
-            0.0016098119557908944
-          ],
-          "link": "The Whispering Cairn#9. Architect's Foyer",
-          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.44421320561984023,
-            0.16597773274480823
-          ],
-          "description": null,
-          "minZoom": 0,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d80a990ac939",
-          "type": "Encounter",
-          "loc": [
-            -0.0019121170626021922,
-            0.0018024402100153122
-          ],
-          "link": "The Whispering Cairn#10. Passage of Honor",
-          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": 0,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_ebb8e9cb89db",
-          "type": "Encounter",
-          "loc": [
-            -0.0031188963912427425,
-            0.0015304607063332748
-          ],
-          "link": "The Whispering Cairn#11. Gallery",
-          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.42231693831687367,
-            0.6499204893369932
-          ],
-          "description": null,
-          "minZoom": 0,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_e8aa0a198a79",
-          "type": "Encounter",
-          "loc": [
-            -0.0033737183548510075,
-            0.002784748423300539
-          ],
-          "link": "The Whispering Cairn#12. Living Quarters",
-          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7684264112396805,
-            0.703020687133595
-          ],
-          "description": null,
-          "minZoom": 0,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_38686bb82b08",
-          "type": "Encounter",
-          "loc": [
-            -0.0033584595657885075,
-            0.0007308983106807353
-          ],
-          "link": "The Whispering Cairn#13. Workshop",
-          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.20168484921588492,
-            0.6998410368951212
-          ],
-          "description": null,
-          "minZoom": 0,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_da18792b7afa",
-          "type": "Encounter",
-          "loc": [
-            -0.004452514927834272,
-            0.0019790806632454592
-          ],
-          "link": "The Whispering Cairn#14. Toilet",
-          "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5461096014587554,
-            0.9278219978077802
           ],
           "description": null,
           "minZoom": 0,
