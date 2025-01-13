@@ -5,6 +5,7 @@ tags:
   - "#Location"
   - "#Geography"
 art: zz_Attachments/Misc/PlaceholderImage.png
+adventure_level: 1
 total_xp: 370
 completed_xp: 0
 awarded_pp: 0

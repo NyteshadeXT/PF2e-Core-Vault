@@ -2,11 +2,14 @@
 tags:
   - Organization
 art: zz_Attachments/Misc/PlaceholderImage.png
-head:
-  - "[[5-World/NPCs/Ardentia City/Malachite]]"
-pronounced: Meteor's Chosen
+organizationtype:
+  - Cult
 location:
-  - "[[Ardentia City]]"
+  - "[[Diamond Lake]]"
+worship:
+  - "[[Kataklysmos]]"
+  - "[[Vorthron]]"
+  - "[[Zerathos]]"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -54,9 +57,6 @@ location:
 
 # **`=this.file.name`** <span style="font-size: medium">"`VIEW[{pronounced}]`"</span>
 
-> [!kirk|info] Info (Remove me)
-> Organization: Organizations can be anywhere from a small band of misfits to an entire Nation.
-
 > [!metadata|geography]- Geography
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(terrain, ", ") AS Terrain, join(link(dominion), ", ") AS "Dominion"
@@ -95,39 +95,27 @@ location:
 > [!metadata|organizations]- Child Organizations
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(organizationtype, ", ") AS Type
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE contains(tags, "Organization") AND econtains(organization, this.file.link)
 > SORT organizationtype ASC, file.name ASC
 
 > [!metadata|characters]- Characters
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(occupation, ", ") AS "Occupations", join(link(organization), ", ") AS "Organizations"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE contains(tags, "Character") AND econtains(organization, this.file.link) AND !contains(condition, "Dead")
 > SORT tags DESC, file.name ASC
 
 > [!metadata|rumour]- Rumours
 > ```dataview
 > TABLE without id file.link AS "Name", accuracy AS Accuracy, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
 
 ## Overview
-The Meteor's Chosen is a clandestine cult that emerged in the wake of a cataclysmic meteor impact. Their fervent devotion centers around the belief that this celestial event was no mere cosmic collision—it was a divine intervention. The Meteor's Chosen view the meteor impact as a celestial revelation—an otherworldly message etched in fire across the sky. They consider the meteor's remnants—crystals and mysterious dungeons—as sacred gifts bestowed by a higher power. The cult's ultimate goal is to ascend to a higher plane of existence. They believe that by unlocking the secrets of the crystals and conquering the dungeons, they can transcend mortal limitations. The crystals are believed to contain divine essence. The cult seeks to harness this energy for their spiritual ascent.
- 
-Key figures within the Meteor's Chosen are:
-- High Seer [[5-World/NPCs/Ardentia City/Malachite]]: The charismatic leader of the Meteor's Chosen. His eyes reflect the meteor's fiery glow. [[5-World/NPCs/Ardentia City/Malachite]] interprets cosmic signs, deciphers ancient texts, and guides the faithful toward ascension.
-- [[Astra the Crystal Witch]]: A mysterious figure who communicates with the crystals. Her touch reveals hidden truths.  Astra guides initiates through visions and cryptic dreams.
-- [[Ezekiel Stoneheart]]: The enigmatic prophet who claims to have foretold the meteor's arrival. His prophecies drive the cult's actions. Ezekiel has glimpsed the higher plane during a near-death experience which he believes granted him prophetic powers.
 
-Members of the Meteor's Chosen or those brave enough to align and be in good standing with them may gain access to the cults services.  Initiates undergo Crystal Attunement rituals to attune themselves to specific crystals. Each crystal grants unique insights or abilities.  Some even claim visions of celestial realms or glimpses into their future selves.  The cult organizes daring expeditions into hidden dungeons only they have access to. These subterranean labyrinths are believed to hold keys to ascension. Initiates joining these expeditions will face trials, puzzles, and magical guardians within the dungeons.
-
-Rumors and legends about the cult continue to swirl around it. Legend speaks of a meteor-forged sword hidden deep within a dungeon. Whoever wields it is said to transcend mortality. Some withing the cult believe it's the key to unlocking the higher plane. Whispers also persist that during meteor showers, a veil between worlds thins. Initiates gather to meditate, hoping for glimpses of the divine.
-
-The Meteor's Chosen tread a fine line between enlightenment and fanaticism. Their quest for ascension may lead to revelation—or oblivion.
-
-Create an encompassing overview of this organization's essence. Explore its purpose, structure, values, and significance within the world. Highlight the unique traits that define this group, delving into its history, goals, and impact on its members and the surrounding society. What distinguishes this organization, and how does it operate within the larger context of the world?
+From the fanatical peripheries of three vile churches comes a blasphemous doctrine known as the Way of the Ebon Triad, an anonymously penned collection of essays and scrolls soaked in phantasmagoric allegory and apocalyptic ecstasy.  The Way outlines in vague terms a series of rituals and portentous events that culminate in the spiritual and physical adhesion of [[Kataklysmos]], [[Vorthron]] and [[Zerathos]] into a single supremely powerful overgod.  Outlaws even within their own blasphemous religions, adherents to the Way of the Ebon Triad travel the world in search of fellow wanderers, often banding together to influence important events and edge the world closer to catastrophe.
 
 ## Culture
 
@@ -151,6 +139,14 @@ Create an encompassing overview of this organization's essence. Explore its purp
 > Trace the roots and evolution of this organization through time. Explore its founding, pivotal moments, and transformative events that shaped its trajectory. What were the circumstances that led to its creation? Detail significant milestones, challenges, or triumphs that have defined its history. How has the organization adapted to changes, crises, or conflicts over the years? Uncover the legacy and historical narrative that have molded this group into what it is today.
 
 ## Notes
-Members of the Chosen often bear an eight-pointed star symbol.
+[[The Whispering Cairn]] note: What the Ebon Triad cultists below [[Diamond Lake]] and throughout the world do not understand is that the entire religious movement is a fraud launched at the direction of Kyuss, an ancient being who has plotted to bring about the Age of Worms for millennia.
 
+Use the following chart to adjudicate the results of any [[Skills#Religion|Religion]] checks made to learn more about the Ebon Triad.
 
+| Religion DC | Information Known                                                                                                                                                                                                                                                                                                         |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 15          | The Ebon Triad is an evil cult dedicated to merging the gods [[Kataklysmos]], [[Vorthron]] and [[Zerathos]] into a mighty overgod.                                                                                                                                                                                        |
+| 20          | Adherents to the doctrine of the Ebon Triad clutch close their secrets even from worshipers of the three deities, who consider them heretics.  In fact, word of the heresy has not spread far from these three churches, who keep accounts of Ebon Triad activities brutally suppressed lest the cult gain more converts. |
+| 25          | Despite the internecine struggle between the Ebon Triad and the orthodox churches clerics in thrall to the cult continue to receive spells from their godly patrons.  This fact especially galls the church of [[Vorthron]], whose rigid faith cannot square the contradiction.                                           |
+| 30          | The idea that a human cult could bind gods as powerful as these is extremely doubtful, even preposterous.                                                                                                                                                                                                                |
+| 35          | The Ebon Triad hopes to bring about the Age of Worms as a precursor to the creation of its terrible god, and has its hands in apocalyptic conspiracies across the land.  Perhaps the gods support these rebel clerics because they too wish to see the world cast into darkness?                                                                                                                                                                                                                                                                                                                          |
