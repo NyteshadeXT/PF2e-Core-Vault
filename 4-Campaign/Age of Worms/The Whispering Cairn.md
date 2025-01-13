@@ -13,7 +13,7 @@ awarded_permanent_items:
 awarded_consumable_items:
 ---
 ![[Whispering Cairn Banner.png]]
-![[Pasted image 20241024212743.png]]
+
 # Adventure Synopsis
 The bulk of the adventure involved the exploration of the Whispering Cairn, a sizable dungeon complex loaded with ancient traps and a collection of interesting (and territorial) inhabitants.  Deep within the complex, the PCs come across the ghost of Alastor Land, the runaway child who fell victim to one of the cairn's traps 30 years ago.  The undead horror blocks the PCs' progress, promising to Abandon the cairn if the characters return his bones to the small family cemetery on the farmstead just outside town.
 
@@ -194,7 +194,7 @@ The finger wears a scarab-like amulet around it's neck, inscribed with the perso
 The sarcophagus rests upon a small raised platform carved in the shape of a stylistic arrow, wit the tip aligned with the head of the relief figure upon the lid and a short "shaft" extending from the foot of the sarcophagus. A DC 15 [[Skills#Athletics|Athletics]] check is sufficient to shift the sarcophagus platform one "click" clockwise, until it comes to rest pointed at the next short tunnel extending from the central chamber. See the tunnel descriptions below for details on what happens when the arrow points at each tunnel.  The sarcophagus platform cannot be moved counter-clockwise.  When the PCs arrive, the arrow's tip points to the orange lantern ([[The Whispering Cairn#7. False Tomb|area 7O]]).  The sarcophagus bears a fiery arcane trap set to trigger when the lid is lifted off the stone coffin, and is completely empty.
 
 > [!danger]+ Sarcophagus Trap
-> [[gout-of-flame-hb|Gout of Flame]]
+> [[Firespark Trap (1-2)]]
 - [ ] Trap (4 XP)
 
 ### The Tunnels 

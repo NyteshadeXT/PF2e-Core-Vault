@@ -9,10 +9,13 @@ total_xp: 370
 completed_xp: 0
 awarded_pp: 0
 awarded_gp: 0
-awarded_sp: 0
-awarded_cp: 0
-awarded_permanent_items: 
+awarded_sp: 9
+awarded_cp: 7
+awarded_permanent_items: []
 awarded_consumable_items:
+  - name: Spell Scroll - 1st Level (Join Pasts)
+    ilvl: 1
+    gp: 6
 ---
 
 Located on the outskirts of the [[Diamond Lake]] community, a ruined mine office and dwelling sits unoccupied, without an owner. This crumbling office is the site of the PCs’ first meeting in “[[The Whispering Cairn]]”. The previous owner of the building, the mining manager Ulgo Fant, abandoned the place more than fifty years ago when his mine ran dry. When he died over a decade ago, the property was left without an owner. Few have bothered to visit this wreck since its abandonment. Young children from the town often come up to the building on a dare and a few years back an inexperienced thief took up residence here before moving onto more lucrative trade routes.
@@ -100,9 +103,9 @@ creatures:
 > [!tip]+ Treasure
 > Carefully hidden in the desk is a small pouch of coins and a scroll in a watertight case (DC 20 search). The first is an occult scroll containing join pasts.
 > 
-> - [ ] sp::9
-> - [ ] cp::7
-> - [ ] consumable::[[Join Pasts|Spell Scroll - 1st Level (Join Pasts)]] [ilvl::1] [gp::6]
+> - [x] sp::9
+> - [x] cp::7
+> - [x] consumable::[[Join Pasts|Spell Scroll - 1st Level (Join Pasts)]] [ilvl::1] [gp::6]
 
 ## The Dining Room (Level 1)
 - [ ] Moderate (80 XP)

@@ -22,7 +22,7 @@ aliases: ["False Elevator"]
 **Collapse** `pf2:r` **Trigger** Someone enters the elevator; **Effect** The trap deals `dice: 2d6` 2d6 bludgeoning damage to any creature trapped within. Due to the confined space there is no saving throw to avoid.
 
 ---
-**Routine** `pf2:1` ([force](3-Rules/trait_reference/force.md), [conjuration](3-Rules/trait_reference/conjuration.md)) The trap emits a blast of force. Each creature in the hall must attempt a DC 28 Reflex save with the same results as Force Blast. If this forced movement would cause a creature to collide with a solid object or fall downstairs or out a window, that creature takes an additional `dice: 2d10+11` bludgeoning damage (or 20 damage due to a fall).
+**Routine** `pf2:1` ([force](3-Rules/trait_reference/force.md), [conjuration](3-Rules/trait_reference/conjuration.md)) The trap emits a blast of force. Each creature in the hall must attempt a DC 28 Reflex save with the same results as Force Blast. If this forced movement would cause a creature to collide with a solid object or fall downstairs or out a window, that creature takes an additional `dice: 2d10+11` 2d10+11 bludgeoning damage (or 20 damage due to a fall).
 
 ---
 **Reset** The eleveator is destroyed after it is traiggered.

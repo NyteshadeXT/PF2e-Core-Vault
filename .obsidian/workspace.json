@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "cc9fd5f8d92853f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Adventure Loot.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Adventure Loot"
+            }
+          },
+          {
             "id": "c8f3ea00dc6da07f",
             "type": "leaf",
             "state": {
@@ -105,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 263.5
   },
   "right": {
     "id": "ef89a336304e207c",
@@ -222,7 +236,14 @@
   },
   "active": "363aa8ac04497521",
   "lastOpenFiles": [
+    "1-GM Toolkit/Adventure Loot.md",
+    "3-Rules/Hazards/hazards.md",
+    "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
     "4-Campaign/Age of Worms/The Whispering Cairn.md",
+    "3-Rules/Hazards/Homebrew/false-elevator-hb.md",
+    "3-Rules/Hazards/Homebrew/force-burst-wall-hb.md",
+    "3-Rules/Hazards/Homebrew/gout-of-flame-hb.md",
+    "4-Campaign/Age of Worms/Test.md",
     "2-Party/Age of Worms/Haight Enashberry.md",
     "1-GM Toolkit/Experience Tracker.md",
     "5-World/Factions/The Aetherial Wardens.md",
@@ -230,15 +251,9 @@
     "2-Party/Age of Worms/Gornak.md",
     "2-Party/Age of Worms/Zamosshe.md",
     "2-Party/Age of Worms/Akiowen.md",
-    "1-GM Toolkit/Adventure Loot.md",
-    "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
-    "3-Rules/Hazards/hazards.md",
     "3-Rules/Hazards/Homebrew/mantrap_patch-hb.md",
     "3-Rules/Hazards/Homebrew/lightning-hallway-hb.md",
     "3-Rules/Hazards/Homebrew/hail-of-iron-spheres-hb.md",
-    "3-Rules/Hazards/Homebrew/gout-of-flame-hb.md",
-    "3-Rules/Hazards/Homebrew/force-burst-wall-hb.md",
-    "3-Rules/Hazards/Homebrew/false-elevator-hb.md",
     "3-Rules/Hazards/Homebrew/boiling-oil-chute-hb.md",
     "3-Rules/trait_reference/force.md",
     "1-GM Toolkit/DM Board.md",
