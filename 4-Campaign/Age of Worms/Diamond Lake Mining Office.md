@@ -6,8 +6,8 @@ tags:
   - "#Geography"
 art: zz_Attachments/Misc/PlaceholderImage.png
 adventure_level: 1
-total_xp: 370
-completed_xp: 0
+total_xp: 380
+completed_xp: 280
 awarded_pp: 0
 awarded_gp: 0
 awarded_sp: 9
@@ -27,8 +27,8 @@ Located on the outskirts of the [[Diamond Lake]] community, a ruined mine office
 ### id must be unique
 id: Diamond Lake Mining Office
 image: [[Diamond Lake Mining Office.webp]]
-height: 450px
-width: 100%
+height: 650px
+width: 50%
 ### This sets where the map starts by default. Set it to the middle (half) of your bounds. 
 lat: 50
 long: 50
@@ -37,7 +37,7 @@ minZoom: 0
 ### Max zoom is 18. 
 maxZoom: 18
 ### Hover mouse over the Reset Zoom icon to see your current zoom level. 
-defaultZoom: 16
+defaultZoom: 16.5
 ### How far it zooms in or out with each step. Can be in decimals. 
 zoomDelta: 0.5
 ### This is a string so can be any text. Change it to match your maps measurement scale. 
@@ -47,6 +47,7 @@ darkMode: false
 ```
 
 ## The Yard
+- [x] Low (60 XP)
 
 > [!note]+ Read Aloud
 > A modest dwelling squats upon the crown of a small hill. Although the rough stone walls of the first floor look mostly intact, the second floor has completely collapsed. A half height wall rings the house, but it too is in a state of severe disrepair. Rubble and dense weeds choke the yard. 
@@ -74,7 +75,7 @@ The two exterior doors are damaged but are still sound and easily repaired with 
 > Small mounds of debris litter the floor of the building’s interior. Loose stones, dead weeds, and grime cover virtually every surface. Paintings must have once adorned the place as indicated by the particular stain patterns marring the walls. The only light comes from thin shafts sneaking in from outside illuminating clouds of dust dancing through the stale air. 
 
 ## The Living Room (Level 1) 
-- [ ] Moderate (100 XP)
+- [x] Low (60 XP)
 
 The first floor of the manor consists of five chambers. The largest of these is the living room, part of which has completely collapsed. A staircase in the living room is chocked with debris and leads to the remains of the second floor. 
 
@@ -89,7 +90,7 @@ creatures:
 ```
 
 ## The Office (Level 1)
-- [ ] Moderate (90 XP)
+- [x] Moderate (80 XP)
 
 Directly to the right of the living room space is what an office was once. The bookshelves and desk have thoroughly rotted and what few tomes and mine maps remain are ruined and illegible. Now this room serves as the quarters for the lizardfolk scout leader, Ssyath. Ssyath has been tasked by Shukak, at the suggestion of the dragon Ilthane, to spy upon the town of Diamond Lake. Shukak plans on sacking the town after the fall of the Blackwall Keep garrison.
 
@@ -109,7 +110,7 @@ creatures:
 > - [x] consumable::[[Join Pasts|Spell Scroll - 1st Level (Join Pasts)]] [ilvl::1] [gp::6]
 
 ## The Dining Room (Level 1)
-- [ ] Moderate (80 XP)
+- [x] Moderate (80 XP)
 
 Adjoining the living room is a sizable dining room. Any furniture that remains in the room is completely soiled and worthless. Ssyath has brought with him two monitor lizards that he uses as guards for this room. The hungry lizards attack any non-lizardfolk who enters.
 
@@ -133,15 +134,15 @@ creatures:
 ## The Kitchen 
 The kitchen contains an actual fire pit, but the chimney is blocked and must be cleared before it can be used. A staircase chocked with debris leads downstairs to a crude cellar.
 
+> [!tip]+ Treasure
+> Hidden in a shelf covered by a cloth but under some rubble are 16 days worth of trail rations, and four waterskins. Also cleverly hidden among some refuse on the floor is a potion of emergency escape.
+> 
+> - [ ] consumable::[[Potion of Emergency Escape]] [ilvl::1] [gp::3]
+
 ## The Pantry
 The pantry, attached to the kitchen, has a number of empty and broken shelves along with two empty barrels. 
 
 Ssyath keeps the groups food stores in this location. He keeps the pantry locked at all times, but as an extra measure to discourage his troops from sneaking rations, he keeps three medium vipers as well. The vipers will spring forth and attack when the pantry door is opened.
-
-> [!tip]+ Treasure
-> The pantry contains 16 days worth of trail rations, and four waterskins. Also cleverly hidden among some refuse is a potion of emergency escape.
-> 
-> - [ ] consumable::[[Potion of Emergency Escape]] [ilvl::1] [gp::3]
 
 ## Second Story
 > [!note]+ Read Aloud

@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Silver Diadem of Insight"
             }
+          },
+          {
+            "id": "30ddef62548303d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Diamond Lake Mining Office"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,10 +306,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1bba4af1f1546967",
+  "active": "cee83e26bcc52550",
   "lastOpenFiles": [
     "4-Campaign/Age of Worms/The Whispering Cairn.md",
     "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
+    "5-World/Factions/The Aetherial Wardens.md",
+    "1-GM Toolkit/Adventure Loot.md",
+    "3-Rules/Character Building/Equipment/Silver Diadem of Insight.md",
     "2-Session Journals/Age-of-Worms/AoW - Session Test.md",
     "1-GM Toolkit/Experience Tracker.md",
     "5-World/NPCs/Ardentia City/Belegar Cragstone.md",
@@ -317,9 +334,6 @@
     "5-World/NPCs/Ardentia City/Thalorin Stormforge.md",
     "5-World/NPCs/Ardentia City/Thalric Stoneforge.md",
     "5-World/NPCs/Diamond Lake/Tidwoad.md",
-    "5-World/NPCs/Tirra.md",
-    "5-World/NPCs/Diamond Lake/Zalmandra.md",
-    "5-World/NPCs/Ellival Moonmeadow.md",
     "4-Campaign/Age of Worms/Completed",
     "5-World/NPCs/Ardentia City",
     "5-World/NPCs/Diamond Lake",

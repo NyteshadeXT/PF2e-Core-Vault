@@ -8,7 +8,7 @@ TABLE
   sum(awarded_sp) as "Total Silver",
   sum(awarded_cp) as "Total Copper",
   sum(awarded_pp) * 10 + sum(awarded_gp) + sum(awarded_sp) / 10 + sum(awarded_cp) / 100 as "Total in Gold Pieces"
-FROM "8) Adventures" OR "9) Completed Adventures"
+FROM "4-Campaign/Age of Worms"
 WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 
 ```
@@ -20,7 +20,7 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 > const dataviewApi = app.plugins.plugins.dataview?.api;
 > 
 > if (dataviewApi) {
->     const pages = dataviewApi.pages('"8) Adventures"').concat(dataviewApi.pages('"9) Completed Adventures"'));
+>     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
 >     let items = [];
 > 
 >     for (let page of pages) {
@@ -112,7 +112,7 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 > const dataviewApi = app.plugins.plugins.dataview?.api;
 > 
 > if (dataviewApi) {
->     const pages = dataviewApi.pages('"8) Adventures"').concat(dataviewApi.pages('"9) Completed Adventures"'));
+>     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
 >     let items = [];
 > 
 >     for (let page of pages) {
@@ -205,7 +205,7 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 > const dataviewApi = app.plugins.plugins.dataview?.api;
 > 
 > if (dataviewApi) {
->     const pages = dataviewApi.pages('"8) Adventures"').concat(dataviewApi.pages('"9) Completed Adventures"'));
+>     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
 >     let items = [];
 > 
 >     for (let page of pages) {
@@ -298,7 +298,7 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 > const dataviewApi = app.plugins.plugins.dataview?.api;
 > 
 > if (dataviewApi) {
->     const pages = dataviewApi.pages('"8) Adventures"').concat(dataviewApi.pages('"9) Completed Adventures"'));
+>     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
 >     let items = [];
 > 
 >     for (let page of pages) {
@@ -391,7 +391,7 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 > const dataviewApi = app.plugins.plugins.dataview?.api;
 > 
 > if (dataviewApi) {
->     const pages = dataviewApi.pages('"8) Adventures"').concat(dataviewApi.pages('"9) Completed Adventures"'));
+>     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
 >     let items = [];
 > 
 >     for (let page of pages) {
@@ -483,7 +483,7 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 > const dataviewApi = app.plugins.plugins.dataview?.api;
 > 
 > if (dataviewApi) {
->     const pages = dataviewApi.pages('"8) Adventures"').concat(dataviewApi.pages('"9) Completed Adventures"'));
+>     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
 >     let items = [];
 > 
 >     for (let page of pages) {
@@ -576,7 +576,7 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 > const dataviewApi = app.plugins.plugins.dataview?.api;
 > 
 > if (dataviewApi) {
->     const pages = dataviewApi.pages('"8) Adventures"').concat(dataviewApi.pages('"9) Completed Adventures"'));
+>     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
 >     let items = [];
 > 
 >     for (let page of pages) {
@@ -669,7 +669,7 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 > const dataviewApi = app.plugins.plugins.dataview?.api;
 > 
 > if (dataviewApi) {
->     const pages = dataviewApi.pages('"8) Adventures"').concat(dataviewApi.pages('"9) Completed Adventures"'));
+>     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
 >     let items = [];
 > 
 >     for (let page of pages) {
@@ -762,7 +762,7 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 > const dataviewApi = app.plugins.plugins.dataview?.api;
 > 
 > if (dataviewApi) {
->     const pages = dataviewApi.pages('"8) Adventures"').concat(dataviewApi.pages('"9) Completed Adventures"'));
+>     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
 >     let items = [];
 > 
 >     for (let page of pages) {
@@ -855,7 +855,7 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 > const dataviewApi = app.plugins.plugins.dataview?.api;
 > 
 > if (dataviewApi) {
->     const pages = dataviewApi.pages('"8) Adventures"').concat(dataviewApi.pages('"9) Completed Adventures"'));
+>     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
 >     let items = [];
 > 
 >     for (let page of pages) {
@@ -948,7 +948,7 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 > const dataviewApi = app.plugins.plugins.dataview?.api;
 > 
 > if (dataviewApi) {
->     const pages = dataviewApi.pages('"8) Adventures"').concat(dataviewApi.pages('"9) Completed Adventures"'));
+>     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
 >     let items = [];
 > 
 >     for (let page of pages) {

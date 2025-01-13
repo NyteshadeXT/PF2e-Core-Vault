@@ -15,7 +15,6 @@ awarded_consumable_items:
 ---
 
 ![[Whispering Cairn Banner.png]]
-![[Pasted image 20241024212743.png]]
 
 # Adventure Synopsis
 The bulk of the adventure involved the exploration of the Whispering Cairn, a sizable dungeon complex loaded with ancient traps and a collection of interesting (and territorial) inhabitants.  Deep within the complex, the PCs come across the ghost of Alastor Land, the runaway child who fell victim to one of the cairn's traps 30 years ago.  The undead horror blocks the PCs' progress, promising to Abandon the cairn if the characters return his bones to the small family cemetery on the farmstead just outside town.
