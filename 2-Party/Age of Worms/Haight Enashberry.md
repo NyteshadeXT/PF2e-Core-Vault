@@ -3,7 +3,7 @@ noteType: Player
 tags:
   - "#Character"
   - "#Player"
-art: zz_Attachments/Misc/PlaceholderImage.png
+art: zz-Attachments/Haight.webp
 Player: Oxmeat
 pronounced: Hay-eight
 Class: Champion
@@ -13,6 +13,9 @@ gender: Male
 age: Young Adult
 Status: Active
 Heritage: Dragonblood
+whichparty:
+  - "[[Age of Worms Party Dashboard]]"
+condition: Healthy
 ---
 
 > [!metadata|metadata]- Metadata 

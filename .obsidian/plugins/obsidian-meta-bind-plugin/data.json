@@ -105,7 +105,7 @@
     },
     {
       "name": "Status",
-      "declaration": "INPUT[inlineSelect(option(null), option(Active), option(Inactive))]"
+      "declaration": "INPUT[inlineSelect(option(null), option(Started), option(Not Started), option(Completed))]"
     }
   ],
   "buttonTemplates": [],

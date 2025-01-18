@@ -1,13 +1,12 @@
 ---
 name: Diamond Lake Mining Office
-adventure_status: Not Started
+adventure_status: Started
 tags:
-  - "#Location"
-  - "#Geography"
-art: zz_Attachments/Misc/PlaceholderImage.png
+  - "#Adventure"
+art: zz-Attachments/Assets/PlaceholderImage.png
 adventure_level: 1
 total_xp: 380
-completed_xp: 280
+completed_xp: 380
 awarded_pp: 0
 awarded_gp: 0
 awarded_sp: 9
@@ -17,7 +16,49 @@ awarded_consumable_items:
   - name: Spell Scroll - 1st Level (Join Pasts)
     ilvl: 1
     gp: 6
+whichparty: "[[Age of Worms Party Dashboard]]"
+quicknote: Players were directed here by Allustan as a potential home base for their adventures in the Whispering Cairn.
 ---
+
+> [!metadata|metadata]- Metadata 
+>> [!metadata|metadataoption]- System
+>> #### System
+>>  |
+>> ---|---|
+> **Tags** | `INPUT[Tags][inlineListSuggester:tags]` |
+>
+>> [!metadata|metadataoption]- Art
+>> #### Art
+>>  |
+>> ---|---|
+>> **Art** | `INPUT[imageSuggester(optionQuery("")):art]` |
+>
+>> [!metadata|metadataoption]- Info
+>> #### Info
+>>  |
+>> ---|---|
+>> **Aliases** | `INPUT[list:aliases]` |
+>> **Quick Notes** |  `INPUT[textArea:quicknote]`
+>> **Which Party** | `INPUT[Null][suggester(optionQuery(#Party AND !"z_Templates"), useLinks(partial)):whichparty]` |
+>> **Adventure Status** | `INPUT[Status][:adventure_status]` |
+
+> [!infobox]
+> `VIEW[!\[\[{art}\]\]][text(renderMarkdown)]`
+> #### Adventure Info
+>  |
+> ---|---|
+> **Party** | `VIEW[{whichparty}][link]` |
+> **Status** | `VIEW[{adventure_status}]` |
+
+# **`=this.file.name`**
+
+> [!metadata|quests]- Quests
+> ```dataview
+> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes, status AS Status
+> FROM "5-World"
+> WHERE econtains(tags, "Quest") AND econtains(adventure, this.file.link)
+> SORT file.name ASC
+
 
 Located on the outskirts of the [[Diamond Lake]] community, a ruined mine office and dwelling sits unoccupied, without an owner. This crumbling office is the site of the PCs’ first meeting in “[[The Whispering Cairn]]”. The previous owner of the building, the mining manager Ulgo Fant, abandoned the place more than fifty years ago when his mine ran dry. When he died over a decade ago, the property was left without an owner. Few have bothered to visit this wreck since its abandonment. Young children from the town often come up to the building on a dare and a few years back an inexperienced thief took up residence here before moving onto more lucrative trade routes.
 
@@ -124,12 +165,12 @@ creatures:
 > [!tip]+ Treasure
 > Ssyath uses the monitor lizards to guard the treasure he has acquired during his campaign. Underneath the debris in this room he has hidden a locked chest (DC 15) containing 3 gp, 5 sp and 6cp. Also underneath the debris is a signet ring from a former guard captain of the Diamond Lake garrison, a dart, a merciful balm, some journeybread and a spell scroll containing the spell instant pottery that Ssyath took from a garrison member he ambushed and killed. If the ring is returned to the Diamond Lake garrison, the characters will be rewarded with 5gp each for their service.
 > 
-> - [ ] gp::3
-> - [ ] sp::5
-> - [ ] cp::6
-> - [ ] consumable::[[Merciful Balm]] [ilvl::1] [gp::3]
+> - [x] gp::3
+> - [x] sp::5
+> - [x] cp::6
+> - [x] consumable::[[Merciful Balm]] [ilvl::1] [gp::3]
 > - [ ] consumable::[[Journeybread]] [ilvl::1] [gp::3]
-> - [ ] consumable::[[Instant Pottery|Spell Scroll - 1st Level (Instant Pottery)]] [ilvl::1] [gp::12]
+> - [x] consumable::[[Instant Pottery|Spell Scroll - 1st Level (Instant Pottery)]] [ilvl::1] [gp::12]
 
 ## The Kitchen 
 The kitchen contains an actual fire pit, but the chimney is blocked and must be cleared before it can be used. A staircase chocked with debris leads downstairs to a crude cellar.
@@ -137,7 +178,7 @@ The kitchen contains an actual fire pit, but the chimney is blocked and must be 
 > [!tip]+ Treasure
 > Hidden in a shelf covered by a cloth but under some rubble are 16 days worth of trail rations, and four waterskins. Also cleverly hidden among some refuse on the floor is a potion of emergency escape.
 > 
-> - [ ] consumable::[[Potion of Emergency Escape]] [ilvl::1] [gp::3]
+> - [x] consumable::[[Potion of Emergency Escape]] [ilvl::1] [gp::3]
 
 ## The Pantry
 The pantry, attached to the kitchen, has a number of empty and broken shelves along with two empty barrels. 
@@ -149,7 +190,7 @@ Ssyath keeps the groups food stores in this location. He keeps the pantry locked
 > The second story of the manor is in complete ruins. Although there is no roof in its current state, the floor above prevents most of the rainwater from leaking into the first floor.
 
 ## Cellar (Level 1)
-- [ ] Moderate (100 XP)
+- [x] Moderate (100 XP)
 
 The cellar is partially collapsed, but appears to be stable at the current time. Along one wall, a crumbling wine rack still stands, although others have already plundered it, leaving a pile of empty and broken bottles at its base. Ominous squeaking sounds can be heard coming from the basement with a [[Skills#Perception|Perception]] check (DC 10). 
 
@@ -163,13 +204,13 @@ creatures:
 ```
 
 > [!tip]+ Treasure
-> Hidden away among the refuse are some old mining items that the characters may find useful in the future, including a climber’s kit, a lantern (hooded), 3 flasks of oil, 6 torches and 50 feet of rope. Also included are a breathing mask, two miner’s helmets and miner’s outfits, a pick and a rockhammer (see Wormfood Dragon 334). A careful search also turns up a small wooden chest containing 14 gp, 3 sp, a temple sword, a wonderous figure (golden lions), some bloodeye coffee and a scroll of breathe fire.
+> Hidden away among the refuse are some old mining items that the characters may find useful in the future, including a climber’s kit, a lantern (hooded), 3 flasks of oil, 6 torches and 50 feet of rope. Also included are a breathing mask, two miner’s helmets and miner’s outfits, a pick and a rockhammer (see Wormfood Dragon 334). A careful search also turns up a small wooden chest containing 14 gp, 3 sp, a temple sword, a goggles, some bloodeye coffee and a scroll of breathe fire.
 > 
-> - [ ] gp::14
-> - [ ] sp::3
-> - [ ] permanent::[[Stalk Goggles]] [ilvl::1] [gp::20]
-> - [ ] consumable::[[Bloodeye Coffee]] [ilvl::0] [sp::5]
-> - [ ] consumable::[[Breathe Fire|Spell Scroll - 1st Level (Breathe Fire)]] [ilvl::1] [gp::12]
+> - [x] gp::14
+> - [x] sp::3
+> - [x] permanent::[[Stalk Goggles]] [ilvl::1] [gp::20]
+> - [x] consumable::[[Bloodeye Coffee]] [ilvl::0] [sp::5]
+> - [x] consumable::[[Breathe Fire|Spell Scroll - 1st Level (Breathe Fire)]] [ilvl::1] [gp::12]
 
 > [!infobox]+
 > # Can't Someone Else Do It?

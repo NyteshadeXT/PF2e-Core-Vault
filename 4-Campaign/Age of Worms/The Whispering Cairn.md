@@ -78,7 +78,6 @@ The patterned bands bisect the walls all the way to [[The Whispering Cairn#4. Ha
 
 Every three rounds, allow the PCs a DC 10 [[Seek]] check to notice a faint flickering green light coming from the north.  This DC decreases by 5 halfway down the passage, and the light becomes obvious by the time the PCs reach [[The Whispering Cairn#4. Hall of Honor (Moderate)|area 4]].  The light comes from a guttering everburning torch in [[The Whispering Cairn#7. False Tomb|area 7]].
 
-<<<<<<< Updated upstream
 ![[Broken Portal.webp]]
 [[Broken Portal.webp|Show to Players]]
 
@@ -139,7 +138,7 @@ Thick cobwebs completely cover the arch leading to [[The Whispering Cairn#7. Fal
 Even a casual inspection ([[Skills#Perception|Perception]] DC 8) reveals that the east wing is not as collapsed as it first appears.  A 10-foot-wide opening in the middle of the debris leads to the wolves den, [[The Whispering Cairn#5. Wolf Den|area 5]].
 
 **Encounter Difficulty:**   
-- [ ] Moderate (80 XP) Level 1
+- [x] Moderate (80 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[Wolf, Weak]] W
@@ -357,13 +356,13 @@ Each statue bears the likeness of one of Nadroc's noble Aetherial Warden patrons
 - [ ] Moderate (120 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
- - 2: [[lurking-stalker|Lurking Stalker]] W
+ - 2: [[lurking-Strangler|Lurking Strangler]] W
 
 ```encounter
 name: The Whispering Cairn - Passage of Honor
 party:  Age of Worms
 creatures:
-  - 2: [Lurking Stalker]
+  - 2: [Lurking Strangler]
 ```
 
 A pair of gruesome aberrations known as a lurking strangler stalk within the shadows of one of the display alcoves. The stranglers entered the Whispering Cairn a week ago at the behest of their master, a wizard called the Faceless One who infiltrated Diamond Lake about a month ago.  This enigmatic figure ordered the creatures to explore the ancient tombs around the town, and it soon thereafter become trapped in the Architect's Lair after riding the elevator there during a routine test.

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "363aa8ac04497521",
+            "id": "cee83e26bcc52550",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "The Whispering Cairn"
-            }
-          },
-          {
-            "id": "cee83e26bcc52550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Bestiaries/Uniques/Filge.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Filge"
             }
           },
           {
@@ -62,23 +48,8 @@
               "icon": "lucide-file",
               "title": "Silver Diadem of Insight"
             }
-          },
-          {
-            "id": "30ddef62548303d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Diamond Lake Mining Office"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,8 +179,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -275,15 +246,15 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -308,45 +279,45 @@
   },
   "active": "cee83e26bcc52550",
   "lastOpenFiles": [
+    "zz-Attachments/Lantern.webp",
     "4-Campaign/Age of Worms/The Whispering Cairn.md",
-    "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
-    "5-World/Factions/The Aetherial Wardens.md",
-    "1-GM Toolkit/Adventure Loot.md",
     "3-Rules/Character Building/Equipment/Silver Diadem of Insight.md",
+    "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
+    "zz-Attachments/The Whispering Cairn-Entrance.webp",
+    "3-Rules/Bestiaries/Homebrew/Giant Bombardier Beetle.md",
+    "3-Rules/Bestiaries/Homebrew/lurking-Strangler.md",
+    "5-World/Factions/The Aetherial Wardens.md",
+    "5-World/Factions/1 - The Factions.md",
+    "5-World/Settlements/Diamond Lake.md",
+    "zz-Templates/GM Templates/Locations/Template - Settlement.md",
+    "3-Rules/Bestiaries/Uniques/Filge.md",
+    "2-Party/Age of Worms/Age of Worms Party Dashboard.md",
+    "5-World/NPCs/Ellival Moonmeadow.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 001.md",
+    "zz-Templates/GM Templates/Locations/Template - Adventure.md",
+    "2-Party/Age of Worms/Akiowen.md",
     "2-Session Journals/Age-of-Worms/AoW - Session Test.md",
-    "1-GM Toolkit/Experience Tracker.md",
-    "5-World/NPCs/Ardentia City/Belegar Cragstone.md",
-    "5-World/NPCs/Ardentia City/Elowen Stormweaver.md",
-    "5-World/NPCs/Ardentia City/Ezekiel Stoneheart.md",
-    "5-World/NPCs/Diamond Lake/Gaspar.md",
-    "5-World/NPCs/Diamond Lake/Hameneezer.md",
-    "5-World/NPCs/Diamond Lake/Jierian Wierus.md",
-    "5-World/NPCs/Diamond Lake/Khellek.md",
-    "5-World/NPCs/Ardentia City/Lady Isolde Moonshadow.md",
-    "5-World/NPCs/Diamond Lake/Lannod Neff.md",
-    "5-World/NPCs/Ardentia City/Lady Seraphina Moonshadow.md",
-    "5-World/NPCs/Diamond Lake/Lazare.md",
-    "5-World/NPCs/Ardentia City/Malachite.md",
-    "5-World/NPCs/Ardentia City/Riven Stormblade.md",
-    "5-World/NPCs/Ardentia City/Selene Starwhisper.md",
-    "5-World/NPCs/Diamond Lake/Shag Soloman.md",
-    "5-World/NPCs/Ardentia City/Silas Emberwind.md",
-    "5-World/NPCs/Ardentia City/Thalorin Stormforge.md",
-    "5-World/NPCs/Ardentia City/Thalric Stoneforge.md",
-    "5-World/NPCs/Diamond Lake/Tidwoad.md",
+    "2-Party/Age of Worms/Zamosshe.md",
+    "zz-Attachments/Akiowen.webp",
+    "2-Party/Age of Worms/Gornak.md",
+    "2-Party/Age of Worms/Haight Enashberry.md",
+    "zz-Attachments/Haight.webp",
+    "2-Party/Age of Worms/Bob-3.md",
+    "zz-Attachments/Gornak.webp",
+    "zz-Attachments/Aegis.png",
+    "zz-Attachments/Age of Worms-20241013135345875.webp",
+    "zz-Attachments/Assets/AdventureIcon.png",
+    "zz-Attachments/Assets/ImagePlaceholder.png",
+    "zz-Attachments/Assets/JourneyBoard.png",
+    "zz-Attachments/Assets/MapPlaceholder.png",
+    "zz-Templates/GM Templates/Characters/Template - Deity.md",
+    "zz-Templates/GM Templates/Characters/Template - Hierarchy.md",
+    "zz-Templates/GM Templates/Characters/Template - Player.md",
+    "zz-Templates/GM Templates/Characters/Template - NPC.md",
+    "zz-Templates/GM Templates/Characters/Template - Organization.md",
     "4-Campaign/Age of Worms/Completed",
     "5-World/NPCs/Ardentia City",
     "5-World/NPCs/Diamond Lake",
-    "zz-Attachments/Old Observatory.webp",
-    "zz-Attachments/Allustan.webp",
-    "3-Rules/Bestiaries/Uniques",
-    "zz-Attachments/The Feral Dog.webp",
-    "zz-Attachments/Kullen.webp",
-    "zz-Attachments/Land Farmstead.webp",
-    "zz-Attachments/Alastor Land.webp",
-    "zz-Attachments/Alastor Land.webp",
-    "zz-Attachments/Alastor Land.webp",
-    "zz-Attachments/The True Tomb Map.webp",
-    "zz-Attachments/Lair of the Laborers Map.webp"
+    "3-Rules/Bestiaries/Uniques"
   ]
 }

@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 noteType: pf2eMonster
-aliases: "Lurking Stalker"
+aliases: "Lurking Strangler"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/2
 statblock: inline
-name: "Lurking Stalker"
+name: "Lurking Strangler"
 level: 2
 ---
 
@@ -15,11 +15,11 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "HB"
-name: "Lurking Stalker"
+name: "Lurking Strangler"
 level: "Creature 2"
 rare_02: "Uncommon"
 alignment: "LE"
-size: "Medium"
+size: "Tiny"
 trait_03: "Aberration"
 modifier: 2
 perception:

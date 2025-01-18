@@ -24,7 +24,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 >> **Aliases** | `INPUT[list:aliases]` |
 >> **Quick Notes** |  `INPUT[textArea:quicknote]`
 >> **Which Party** | `INPUT[Null][suggester(optionQuery(#Party AND !"z_Templates"), useLinks(partial)):whichparty]` |
->> **Status** | `INPUT[Status][:status]` |
+>> **Adventure Status** | `INPUT[Status][:adventure_status]` |
 
 > [!infobox]
 > `VIEW[!\[\[{art}\]\]][text(renderMarkdown)]`

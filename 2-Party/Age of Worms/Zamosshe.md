@@ -3,7 +3,7 @@ noteType: Player
 tags:
   - "#Character"
   - "#Player"
-art: zz_Attachments/Misc/PlaceholderImage.png
+art: zz-Attachments/Assets/PlaceholderImage.png
 Status: Active
 Player: Aaron
 Class: Wizard
@@ -15,6 +15,9 @@ age: Young Adult
 pronounced: Zam-os-she
 aliases:
   - Zam
+whichparty:
+  - "[[Age of Worms Party Dashboard]]"
+condition: Healthy
 ---
 
 > [!metadata|metadata]- Metadata 

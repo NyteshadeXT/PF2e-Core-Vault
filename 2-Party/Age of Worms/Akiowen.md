@@ -3,7 +3,7 @@ noteType: Player
 tags:
   - "#Character"
   - "#Player"
-art: zz_Attachments/Misc/PlaceholderImage.png
+art: zz-Attachments/Akiowen.webp
 Status: Active
 Player: Cali
 pronounced: a-ki-o-wen
@@ -15,6 +15,9 @@ age: Young Adult
 aliases:
   - Wen
 Heritage: skyborn tengu
+whichparty:
+  - "[[Age of Worms Party Dashboard]]"
+condition: Healthy
 ---
 
 > [!metadata|metadata]- Metadata 

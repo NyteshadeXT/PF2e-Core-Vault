@@ -3,7 +3,7 @@ noteType: Player
 tags:
   - "#Character"
   - "#Player"
-art: zz_Attachments/Misc/PlaceholderImage.png
+art: zz-Attachments/Gornak.webp
 Status: Active
 Player: Qelanos
 Ancestry: Human
@@ -13,8 +13,10 @@ age: Young Adult
 pronounced: Gore-Nak
 Class: Barbarian
 level: 1
+whichparty:
+  - "[[Age of Worms Party Dashboard]]"
+condition: Healthy
 ---
-
 
 > [!metadata|metadata]- Metadata 
 >> [!metadata|metadataoption]- System

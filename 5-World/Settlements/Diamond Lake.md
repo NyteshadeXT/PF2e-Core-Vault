@@ -91,13 +91,13 @@ defence: Weak
 > noScrollZoom: false
 > ### Use this [LINK](https://docs.google.com/spreadsheets/d/1jKQxktYSUFcCJhEkAAPr1wMVBTqUdpEfA5XveUXI17I/edit?usp=sharing) to work out your map's bounds.
 > ### bounds: [[0,0], [0, 0]] (Remove the ### and these parentheses with the content within from this line to enable the bounds)
-> height: 600px
-> width: 640px
+> height: 900px
+> width: 1240px
 > lat: 0
 > long: 0
 > minZoom: 1
 > maxZoom: 6.5
-> defaultZoom: 1
+> defaultZoom: 4.5
 > zoomDelta: 0.5
 > unit: miles
 > scale: 1
@@ -140,13 +140,11 @@ defence: Weak
 > SORT file.name ASC
 
 ## Overview
+Diamond Lake nestles in the rocky crags of the Cairn Hills, three days east of Ardentia City, the seat of the local barony. Iron and silver from Diamond Lake's mines fuel the barony’s markets and support its soldiers and nobles with the raw materials necessary for weapons and finery. This trade draws hundreds of skilled and unskilled laborers into the Diamond Lake - a collection point for all manner of misfits and outcasts, all hoping to strike it rich. But the town breaks many more souls than it rewards, as it has an appetite for swallowing up the indigent and displaced to the profit to the few ruthless beneficiaries. In the hills surrounding the town, hundreds of laborers spend weeks at a time underground, breathing recycled air pumped in via systems worth ten times their combined annual salary. The miners are the chattel of Diamond Lake, its seething, tainted blood.
 
-> [!kirk|info] Prompt (Remove me)
-> Diamond Lake nestles in the rocky crags of the Cairn Hills, three days east of Ardentia City, the seat of the local barony. Iron and silver from Diamond Lake's mines fuel the barony’s markets and support its soldiers and nobles with the raw materials necessary for weapons and finery. This trade draws hundreds of skilled and unskilled laborers into the Diamond Lake - a collection point for all manner of misfits and outcasts, all hoping to strike it rich. But the town breaks many more souls than it rewards, as it has an appetite for swallowing up the indigent and displaced to the profit to the few ruthless beneficiaries. In the hills surrounding the town, hundreds of laborers spend weeks at a time underground, breathing recycled air pumped in via systems worth ten times their combined annual salary. The miners are the chattel of Diamond Lake, its seething, tainted blood.
-> 
-> In ages past, Diamond Lake boasted an export more valuable than metal in the form of treasure liberated from the numerous tombs and burial cairns crowding the hills around the town. These remnants of a half - dozen long - dead cultures commanded scandalous priced from the Ardentia City elite, whose insatiable covetousness triggered a boom in the local economy. Those days are long gone, though. The last cairn in the region coughed up its treasures decades ago, and few locals pay much mind to stories of yet - undiscovered tombs and unplundered burial cairns. These days, only a handful of treasure seekers visit the town, and few return to the Ardentia City with anything more valuable than a wall rubbing or an ancient tool fragment.
-> 
-> Despite its squalor, Diamond Lake is crucial to the Ardentia Cities economy. Ardentia City takes a keen interest in local affairs, noting the rise and fall of managers who run Diamond Lake's mines. However, two months ago the power balance in Diamond Lake was upturned when the town’s former Governor-Mayor fell ill and died suddenly. The power vacuum that followed threw the town and its production into downward spiral as prominent mine managers schemed for power. The Blackwood family move quickly to install Diamond Lake's new Regent, and currently battle to exert their authority with the underhanded mine managers entrenched in the town.
+In ages past, Diamond Lake boasted an export more valuable than metal in the form of treasure liberated from the numerous tombs and burial cairns crowding the hills around the town. These remnants of a half - dozen long - dead cultures commanded scandalous priced from the Ardentia City elite, whose insatiable covetousness triggered a boom in the local economy. Those days are long gone, though. The last cairn in the region coughed up its treasures decades ago, and few locals pay much mind to stories of yet - undiscovered tombs and unplundered burial cairns. These days, only a handful of treasure seekers visit the town, and few return to the Ardentia City with anything more valuable than a wall rubbing or an ancient tool fragment.
+
+Despite its squalor, Diamond Lake is crucial to the Ardentia Cities economy. Ardentia City takes a keen interest in local affairs, noting the rise and fall of managers who run Diamond Lake's mines. However, two months ago the power balance in Diamond Lake was upturned when the town’s former Governor-Mayor fell ill and died suddenly. The power vacuum that followed threw the town and its production into downward spiral as prominent mine managers schemed for power. The Blackwood family move quickly to install Diamond Lake's new Regent, and currently battle to exert their authority with the underhanded mine managers entrenched in the town.
 
 ## Current Events
 
