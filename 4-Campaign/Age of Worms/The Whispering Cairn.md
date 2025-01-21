@@ -551,16 +551,16 @@ All of the submerged rooms are completely dark.  PCs without darkvision must rel
 The four pillars and central structure of this room are composed of tan stone and contain non-functional shower spigots about 8 feet off the ground.
 
 **Encounter Difficulty:**   
-- [ ] Trivial (0 XP) Level 2
+- [ ] Moderate (90 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
- - 1: [[water-elemental|Water Elemental]] W
+ - 3: [[Water Mephit]] W
 
 ```encounter
 name: The Whispering Cairn - Submerged Showers
 party: Age of Worms
 creatures:
-  - 1: [[Water Elemental]]
+  - 3: [[Water Mephit]]
 ```
 
 The insane water elemental still dwells here, spending much of its time spinning in a tight vortex in area 20.
@@ -1068,8 +1068,46 @@ The angelic figure is an idealized representation of Filge himself.
 > 
 > The silver tray held by the mummified sentry is worth 2 gp. The A large run of golden brown fur is worth 8 gp, but must be carried carefully to ensure that its coat does not become soiled.  A DC 15 [[Skills#Occultism|Occultism]] check identifies the pelt as that of an adult lammasu.
 > 
-> Most of the papers on Filge's desk concern surgical procedures meant to enhance the potency of undead, while others contain only the meandering scribbles of a mind descending into madness.  Buried in with the junk is a [[Summon Undead|Scroll of Summon Undead]] and a beaker holder containing four 6-inch-long tubes filled with different-colored liquids  Two of the six slots are empty. The glass tubes are sealed at the top with a rubber sheath, and look like they are meant to be slotted into some other device.  Each contains a soupy liquid substance consisting of reanimated cells.  Filge has been experimenting with injecting these liquids into himself. They are effectively a 
+> Most of the papers on Filge's desk concern surgical procedures meant to enhance the potency of undead, while others contain only the meandering scribbles of a mind descending into madness.  Buried in with the junk is a [[Summon Undead|Scroll of Summon Undead]] and a beaker holder containing four 6-inch-long tubes filled with different-colored liquids  Two of the six slots are empty. The glass tubes are sealed at the top with a rubber sheath, and look like they are meant to be slotted into some other device.  Each contains a soupy liquid substance consisting of reanimated cells.  Filge has been experimenting with injecting these liquids into himself. They are effectively a POTION (COLOR), POTION (COLOR), POTION (COLOR), and POTION (COLOR). Every so often, something within the beakers seems to move slightly, but it might just be a trick of the eye. A handwritten label on the bearker holder says "Necroturgeons."
+> 
+> Also on the deck is the orginal summons [[Balabar Smenk]] sent Filge to encourage him to come to Diamond Lake (See handout).
 > 
 > - [ ] gp::10
 > - [ ] permanent::[[itemlink]] [ilvl::000] [gp::000]
 > - [ ] consumable::[[Summon Undead|Scroll of Summon Undead]] [ilvl::1] [gp::4]
+
+## 10. Closet
+These closets contain Filge's wardrobe, which consists of six sets of nearly identical sleeveless long coats worn over a shirt and breeches.
+
+> [!tip]+ Treasure
+> If the PC's take several minutes to completely ransack the closets the rummage 13 sp worth of coins from various pockets and pouches.
+> 
+> - [ ] sp::13
+
+## 11. Operating Theater
+**Encounter Difficulty:**   
+- [ ] difficulty (xxx XP) Level xxx
+
+> [!note]+ Read Aloud
+> A single chamber dominates the observatory's entire upper flore.  Light filters through the wide slit in the roof, bathing the center of the room in illumination. Four large mirrors set along the outside wall reflect bright beams into the direct center of the room, a recessed operating theater accessible via two short sets of stairs.  The beams specifically target a blue-skinned humanoid figure splayed out upon an operating table, its chest completely opened and pinned back against the table with long metal needles.  Two long shelves cluttered with piles of papers, rotting organs, and instruments comprise the east and west extent of the operating theater, and are only a few inches lower tan the chamber's outer floor.
+
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[BadGuy1]] W
+ - 2: [[BadGuy2]] H
+
+```encounter
+name: EncounterName
+party: PartyName
+creatures:
+  - 1: My Monster          # 1 monster named My Monster will be added, with no HP, AC or modifier.
+  - 1d6: Goblin, 7, 15, 2        # 1 goblin with HP: 7, AC: 15, MOD: 2 will be added.
+  - Goblin, 5, 15, 2, 25      # 1 goblin with HP: 7, AC: 15, MOD: 2 worth 25 XP will be added.
+```
+
+Description
+
+
+## Tactics
+
+
+## Features of the Area

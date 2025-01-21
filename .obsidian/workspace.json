@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -47,6 +47,20 @@
               },
               "icon": "lucide-file",
               "title": "Silver Diadem of Insight"
+            }
+          },
+          {
+            "id": "a1999ba29c61e37a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Bestiaries/Uniques/Filge.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Filge"
             }
           }
         ]
@@ -279,8 +293,9 @@
   },
   "active": "cee83e26bcc52550",
   "lastOpenFiles": [
-    "zz-Attachments/Lantern.webp",
+    "3-Rules/Bestiaries/Uniques/Filge.md",
     "4-Campaign/Age of Worms/The Whispering Cairn.md",
+    "zz-Attachments/Lantern.webp",
     "3-Rules/Character Building/Equipment/Silver Diadem of Insight.md",
     "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
     "zz-Attachments/The Whispering Cairn-Entrance.webp",
@@ -290,7 +305,6 @@
     "5-World/Factions/1 - The Factions.md",
     "5-World/Settlements/Diamond Lake.md",
     "zz-Templates/GM Templates/Locations/Template - Settlement.md",
-    "3-Rules/Bestiaries/Uniques/Filge.md",
     "2-Party/Age of Worms/Age of Worms Party Dashboard.md",
     "5-World/NPCs/Ellival Moonmeadow.md",
     "2-Session Journals/Age-of-Worms/AoW Session 001.md",
@@ -309,7 +323,6 @@
     "zz-Attachments/Assets/AdventureIcon.png",
     "zz-Attachments/Assets/ImagePlaceholder.png",
     "zz-Attachments/Assets/JourneyBoard.png",
-    "zz-Attachments/Assets/MapPlaceholder.png",
     "zz-Templates/GM Templates/Characters/Template - Deity.md",
     "zz-Templates/GM Templates/Characters/Template - Hierarchy.md",
     "zz-Templates/GM Templates/Characters/Template - Player.md",
