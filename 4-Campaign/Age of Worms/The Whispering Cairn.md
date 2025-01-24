@@ -4,11 +4,11 @@ tags:
   - "#Geography"
 art: zz_Attachments/Misc/PlaceholderImage.png
 adventure_level: 1
-total_xp: 1404
-completed_xp: 0
+total_xp: 1494
+completed_xp: 80
 awarded_pp: 0
-awarded_gp: 0
-awarded_sp: 0
+awarded_gp: 47
+awarded_sp: 4
 awarded_cp: 0
 awarded_permanent_items: 
 awarded_consumable_items:
@@ -29,7 +29,7 @@ The PCs return to the Whispering Cairn, where the explore the ruins beyond the b
 id: Whispering Cairn
 image: [[Whispering Cairn.webp]]
 height: 1000px
-width: 70%
+width: 40%
 ### This sets where the map starts by default. Set it to the middle (half) of your bounds. 
 lat: 50
 long: 50
@@ -104,6 +104,8 @@ In ancient days, a grand ring of portals connected several Aetherial Warden buri
 
 > [!tip]+ Treasure
 > The shards of glass might fetch as much as 5 gp from the right buyer.  In [[Diamond Lake]], that means the gnome jeweler [[Tidwoad]] or the magician [[Allustan]].
+> 
+> - [x] gp::5
 
 ### Development
 If the PCs make too much noise in this area, they may be detected by the wolves in [[The Whispering Cairn#4. Hall of Honor (Moderate)|area 4]].  Each of the three wolves has a -2 modifier on it's [[Skills#Perception|Perception]] check due to distance.  The DC for this check varies depending upon the PCs volume, ranging from 0 to 10.
@@ -168,6 +170,9 @@ The wolves dwell in the nearly blocked-off terminus of the east wing.  Medium or
 > A DC 10 [[seek]] action in the northern half of the den turns up an old leather backpack half-buried under a pile of humanoid bones.  The bag contains an elaborate lantern of indigo metal inset with indigo glass panes.  The lantern is worth 12 gp.  A DC 15 [[seek]]j on the opposite side of the room turns up an intricately carved armband of unmistakable elven craftsmanship, bearing a repeating leaf motif.  The armband is worth 20 gp to a non-elf, and 25 gp to an elf NPC (such as the [[Diamond Lake]] mine manager [[Ellival Moonmeadow]] or one of his servitors).
 > 
 > A DC 20 [[seek]] action of the rubble mostly blocking off the passage turns up what appears to be a marble index finger cracked off a statue.  The finger exactly matches the right hand of the bas-relief sarcophagus lid figure in [[The Whispering Cairn#7. False Tomb|area 7]].
+> 
+> - [x] gp::20
+
 
 ## 6. Gallery of Seven Lanterns
 > [!note]+ Read Aloud
@@ -256,7 +261,7 @@ creatures:
 
 A the top of the shaft, another passage leads to the northeast (area 8). To reach this passage, the PCs must devise a way to climb 40 feet.  The easiest way up is to climb the thick chain (DC15 [[Skills#Athletics|Athletics]] Check).
 
-A skeleton lies in a heap on the floor here.  A DC 15 [[Skills#Medicine|Medicien]] check reveals several crushed bones, as if the unlucky fellow died from a great fall.
+A skeleton lies in a heap on the floor here.  A DC 15 [[Skills#Medicine|Medicine]] check reveals several crushed bones, as if the unlucky fellow died from a great fall.
 
 **Indigo:** The chain at the end of this passage ends in a simple hook, as the indigo lantern was stolen years ago and eventually ended up in a backpack in [[The Whispering Cairn#5. Wolf Den]].  If the arrow platform points at this tunnel, a metal arcane elevator identical in appearance to the described in the yellow passage above rises from the floor under the dangling chain.  Characters inspecting the apparatus notice numerous crushed bones and moldy clothes upon the floor of the cylinder, an obvious clue that all is not as it should be with this arcane elevator.  Two rounds after a character stands within the cylinder the doors close and the contraption utterly crushes everything within it, sinking back into the ground until the arrow structure once more points at the indigo corridor.
 
@@ -266,6 +271,9 @@ A skeleton lies in a heap on the floor here.  A DC 15 [[Skills#Medicine|Medicien
 
 > [!tip]+ Treasure
 > A careful [[Seek]] action through the crushed bones and moldy clothes DC 10 turns up a pouch containing 10 gp, 4 sp and a small ruby worth 12 gp.
+> 
+> - [x] gp::22
+> - [x] sp::4
 
 **Violet:** A violet lantern hangs at the end of this passage.
 
@@ -310,7 +318,7 @@ It took the Aetherial Warden architect Nadroc nearly a year of solid work to des
 id: Lair of the Architect
 image: [[Lair of the Architect Map.webp]]
 height: 700px
-width: 70%
+width: 40%
 ### This sets where the map starts by default. Set it to the middle (half) of your bounds. 
 lat: 50
 long: 50
@@ -388,8 +396,8 @@ A dry fountain along the south face of the central pillar features a low basin a
 > The corpse in the tool closet holds a [[Weapon Potency (+1)|+1 Shortsword]], but almost all of his other possessions were crushed along with his bones.  In a leather sack so old that it crumbles to the touch can be found the remains of three broken statuettes of Nadroc's previous commissions (looted from [[#10. Passage of Honor]]) and three that remain in excellent condition - a grand palace, a slim spire with eight connected smaller towers of different heights, and what looks like a grand stadium.  Each intact statuette is worth 20 gp.  The intact tool is a [[3-Rules/Character Building/Spells/Phantasmal Minion|Wand of Phantasmal Minion]].
 > 
 > - [ ] gp::20
-> - [ ] permanent::[[Weapon Potency (+1)]] [ilvl::2] [gp::35]
-> - [ ] permanent::[[Wand of Phantasmal Minion]] [ilvl::3] [gp::60]
+> - [ ] permanent::[[Weapon Potency (+1)|+1 Shortsword]] [ilvl::2] [gp::35]
+> - [ ] permanent::[[Wand of Phantasmal Minion|Wand of Phantasmal Minion]] [ilvl::3] [gp::60]
 
 ## 12. Living Quarters
 > [!note]+ Read Aloud
@@ -498,11 +506,11 @@ When the PCs enter the room, the vermin skittering about the sludge coalesces in
 > 
 > A DC 15 [[Seek]] check in the ruined remains fo the nest turns up a mummified human hand still holding a [[3-Rules/Character Building/Equipment/Wayfinder|Wayfinder]]
 > 
-> - [ ] permanent::[[Half Plate]] [ilvl::1] [gp::18]
+> - [ ] permanent::[[Leather Lamellar|Leather Lamellar]] [ilvl::1] [gp::18]
 > - [ ] permanent::[[3-Rules/Character Building/Equipment/Wayfinder|Wayfinder]] [ilvl::2] [gp::28]
-> - [ ] consumable::[[Healing Potion (Minor)]] [ilvl::1] [gp::4]
-> - [ ] consumable::[[Healing Potion (Minor)]] [ilvl::1] [gp::4]
-> - [ ] consumable::[[Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [ ] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [ ] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [ ] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
 
 ## 17. Sleeping Quarters
 > [!note]+ Read Aloud
@@ -538,7 +546,7 @@ The fatigued beetles do not respond to the sounds of conflict in area [[#16. Foo
 > The corpse on the southwest slab wears a suit of [[Leather Lamellar]] emblazoned wit the eight-pointed symbol of [[Kataklysmos]] and has a pouch containing 7 gp.
 > 
 > - [ ] gp::7
-> - [ ] permanent::[[Leather Lamellar]] [ilvl::1] [gp::3]
+> - [ ] permanent::[[Leather Lamellar|Leather Lamellar]] [ilvl::1] [gp::3]
 
 ## 18. Tool Alcoves
 Numerous pegs extending form the walls of these alcoves once held the excavation gear of the Warden laborers, but anything of worth was looted long ago.
@@ -563,7 +571,7 @@ creatures:
   - 3: [[Water Mephit]]
 ```
 
-The insane water elemental still dwells here, spending much of its time spinning in a tight vortex in area 20.
+The insane water mephits still dwell here, spending much of its their spinning in a tight vortex in area 20.
 
 ### Tactics
 It notices the PCs the second one of them touches the water, and swiftly moves to intercept them.  The elemental will try to attack any torch bearing character first. It has darkvision to 60 feet and would prefer to fight without a light.  IT waits until the torchbearer is in the middle of the area before attempting to quench the torch.
@@ -575,7 +583,7 @@ It notices the PCs the second one of them touches the water, and swiftly moves t
 > [!tip]+ Treasure
 > A dead human body here bears the red lantern from [[#7. False Tomb]].  It wears red leather armor with the eight-pointed star of [[Kataklysmos]] over the left breast and a [[Rhythm Bone]] and a spell scroll of [[Detect Metal]].  The corpse's bones are very badly gnawed, and it's armor has been torn apart and ruined as if by sharp claws.  A DC 10 [[Skills#Medicine|Medicine]] check reveals that the bones have been cracked open as if something was trying to get a the marrow within.  The body has ben dead for 50 years or more.
 > 
-> - [ ] permanent::[[Rhythm Bone]] [ilvl::1] [gp::8]
+> - [ ] permanent::[[Rhythm Bone|Rhythm Bone]] [ilvl::1] [gp::8]
 > - [ ] consumable::[[Detect Metal|Spell Scroll (1st level) Detect Metal]] [ilvl::1] [gp::4]
 
 ## 21. Other Locker Room with Benches
@@ -603,10 +611,10 @@ This chamber is home to the scholar Ulavant, who became a ghoul after his death 
 Ulavant attempts to paralyze his enemies, starting with what he assumes to be bards, wizards an sorcerers.  Though his mind is not utterly consumed with the need to consume, Ulavant maintains some measure of his brilliance.  He also retains a good measure of his original depravity.  Should he paralyze all of his victims, he moves the frozen bodies so that they can look into each others eyes before gorging on one of the victims, starting with the throat.  This theatrical flourish might just give one of the paralyzed PCs the chance he needs to shake free from the paralysis.
 
 > [!tip]+ Treasure
-> A ile of tattered clothes stuffed into one of the lockers hides a pouch containing 38 gp and 55 sp.  Ulavant's ring is worth 50 gp to the right buyer.  It instantly identifies the wearer as a member of [[Kataklysmos]] faithful, which may have implications with Khellek, the wizard in the trio of rival adventurers.
+> A pile of tattered clothes stuffed into one of the lockers hides a pouch containing 3 gp and 5 sp.  Ulavant's ring is worth 20 gp to the right buyer.  It instantly identifies the wearer as a member of [[Kataklysmos]] faithful, which may have implications with Khellek, the wizard in the trio of rival adventurers.
 > 
-> - [ ] gp::38
-> - [ ] sp::55
+> - [ ] gp::23
+> - [ ] sp::5
 
 ## 22. Toilet
 This submerged toilet has not been used in centuries.
@@ -700,7 +708,7 @@ When the PCs return Alastor Land's bones to his family plot at the Land farmstea
 > - [ ] gp::4
 > - [ ] sp::7
 > - [ ] permanent::[[Weapon Potency (+1)|+1 Long Sword]] [ilvl::2] [gp::35]
-> - [ ] permanent::[[Half Plate]] [ilvl::1] [gp::18]
+> - [ ] permanent::[[Half Plate|Half Plate]] [ilvl::1] [gp::18]
 
 ## 24. The Chamber of Sighs
 > [!note]+ Read Aloud
@@ -763,7 +771,7 @@ If the addressed character utters the word "Zosiel," bright blue light sines aro
 > Within the sarcophagus are all the remains of Zosiel: a slight silver diadem known as a [[Silver Diadem of Insight]]. The sarcophagus also includes two long slightly curved black horns with red tips (worth 3 gp each) and a pewter box inscribed with alien, writhing letterforms.  A DC 15 [[Skills#Occultism|Occultism]] check identifies the glyphs as those typically used by Chaos.  Melted metal keeps the box sealed, but a decent application of force is sufficient to snap off the lid. Inside is a long handle attached to an adamantine loop.  This inactive minor artifact radiates strong transmutation magic, but is currently dormant and does nothing.  It can be fully activated as a [[Talisman of the Sphere]] inn "A Gathering of Winds," the sixth installment of the Age of Worms.  [[Allustan]] can identify the tiem by name at a glance, noting that the [[Sphere of Annihilation]] were holes in the continuity of the multiverse, and that anything they touched was utterly destroyed.  After the Battle of Aetherion legend holds that the Wardens scattered them tot he corners of the universe.  Far more numerous are the talismans that were said to grant their owerns some measure of control over the spheres.  [[Allustan]] urges the PCs to keep the valuable minor artifact.  "one must alwys be prepared," he says with a wink and a smile.
 > 
 > - [ ] gp::6
-> - [ ] permanent::[[Silver Diadem of Insight]] [ilvl::3] [gp::60]
+> - [ ] permanent::[[Silver Diadem of Insight|Silver Diadem of Insight]] [ilvl::3] [gp::60]
 
 # Part 3. Tomb Stories
 In this brief interlude, the PCs take Alastor Land's bones from [[The Whispering Cairn#23. Alastor's Haunt]] of the Whispering Cairn to his family's private graveyard, on a farmstead about 10 minutes east of [[Diamond Lake]]. Before young Alastor's ghost allows the PCs to proceed through the Whispering Cairn he wants them to bury his remains with those of his family, so that his curse can be lifted and he can move on to the afterworld.
@@ -886,13 +894,13 @@ This fight should prove to be very challenging unless the PCs manage to battle o
 > Kullen is carrying a +1 Weapon Potency Greataxe, [[Healing Potion (Minor)]], [[Bestial Mutagen (Lesser)]] and 3 gp.  Rastophan is carrying [[Splint Mail]] [[Darkvision Elixir (Lesser)]] and 4 gp. Todrik is carrying a [[Glaive]], [[Splint Mail]], [[Healing Potion (Minor)]]x2 and 2 gp. Merovinn Bask is carrying [[Dizzying Colors|Scroll of Dizzying Colors]] and his spellbook (Cantrip: [[Ray of Frost]], [[Electric Arc]], [[Shield]],[[3-Rules/Character Building/Spells/Detect Magic|Detect Magic]] 1st: [[Force Barrage]], [[Scorching Blast]], [[Gust of Wind]] 2nd: [[Mirror Image]] )
 > 
 > - [ ] gp::9
-> - [ ] permanent::[[Weapon Potency (+1)]] [ilvl::2] [gp::35]
-> - [ ] permanent::[[Splint Mail]] [ilvl::1] [gp::13]
-> - [ ] consumable::[[Healing Potion (Minor)]] [ilvl::1] [gp::4]
-> - [ ] consumable::[[Healing Potion (Minor)]] [ilvl::1] [gp::4]
-> - [ ] consumable::[[Healing Potion (Minor)]] [ilvl::1] [gp::4]
-> - [ ] consumable::[[Bestial Mutagen (Lesser)]] [ilvl::1] [gp::4]
-> - [ ] consumable::[[Darkvision Elixir (Lesser)]] [ilvl::2] [gp::6]
+> - [ ] permanent::[[Weapon Potency (+1)|+1 Greataxe]] [ilvl::2] [gp::35]
+> - [ ] permanent::[[Splint Mail|Splint Mail]] [ilvl::1] [gp::13]
+> - [ ] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [ ] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [ ] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [ ] consumable::[[Bestial Mutagen (Lesser)|Beastial Mutagen (Lesser)]] [ilvl::1] [gp::4]
+> - [ ] consumable::[[Darkvision Elixir (Lesser)|Darkvision Elixir (Lesser)]] [ilvl::2] [gp::6]
 > - [ ] consumable::[[Dizzying Colors|Scroll of Dizzying Colors]] [ilvl::1] [gp::4]
 
 If the PCs don't manage to cajole or bribe the location of the Land remains out of Balabar Smenk's henchman, you can still move the action along by staging follow-up encounters with Kullen and his brutes. They don't appreciate the questions the PCs have been asking around town, and decide to rough them up.  Give the PCs a good chance to win one of these battles, which will place them in the position of getting whatever information they want form the defeated albino half-orc and his gang of reprobates.

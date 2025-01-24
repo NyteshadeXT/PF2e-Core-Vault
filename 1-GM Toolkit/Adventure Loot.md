@@ -93,10 +93,10 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 >             text-align: left;
 >         }
 >         .item-table tr:nth-child(even) {
->             background-color: #444;
+>             background-color: #586ccf;
 >         }
 >         .item-table tr:hover {
->             background-color: #555;
+>             background-color: #FFFFFF;
 >         }
 >     `;
 >     document.head.appendChild(style);
@@ -185,10 +185,10 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 >             text-align: left;
 >         }
 >         .item-table tr:nth-child(even) {
->             background-color: #444;
+>             background-color: #586ccf;
 >         }
 >         .item-table tr:hover {
->             background-color: #555;
+>             background-color: #FFFFFF;
 >         }
 >     `;
 >     document.head.appendChild(style);
@@ -278,10 +278,10 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 >             text-align: left;
 >         }
 >         .item-table tr:nth-child(even) {
->             background-color: #444;
+>             background-color: #586ccf;
 >         }
 >         .item-table tr:hover {
->             background-color: #555;
+>             background-color: #FFFFFF;
 >         }
 >     `;
 >     document.head.appendChild(style);
@@ -371,10 +371,10 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 >             text-align: left;
 >         }
 >         .item-table tr:nth-child(even) {
->             background-color: #444;
+>             background-color: #586ccf;
 >         }
 >         .item-table tr:hover {
->             background-color: #555;
+>             background-color: #FFFFFF;
 >         }
 >     `;
 >     document.head.appendChild(style);
@@ -464,10 +464,10 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 >             text-align: left;
 >         }
 >         .item-table tr:nth-child(even) {
->             background-color: #444;
+>             background-color: #586ccf;
 >         }
 >         .item-table tr:hover {
->             background-color: #555;
+>             background-color: #FFFFFF;
 >         }
 >     `;
 >     document.head.appendChild(style);
@@ -556,10 +556,10 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 >             text-align: left;
 >         }
 >         .item-table tr:nth-child(even) {
->             background-color: #444;
+>             background-color: #586ccf;
 >         }
 >         .item-table tr:hover {
->             background-color: #555;
+>             background-color: #FFFFFF;
 >         }
 >     `;
 >     document.head.appendChild(style);
@@ -649,10 +649,10 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 >             text-align: left;
 >         }
 >         .item-table tr:nth-child(even) {
->             background-color: #444;
+>             background-color: #586ccf;
 >         }
 >         .item-table tr:hover {
->             background-color: #555;
+>             background-color: #FFFFFF;
 >         }
 >     `;
 >     document.head.appendChild(style);
@@ -742,10 +742,10 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 >             text-align: left;
 >         }
 >         .item-table tr:nth-child(even) {
->             background-color: #444;
+>             background-color: #586ccf;
 >         }
 >         .item-table tr:hover {
->             background-color: #555;
+>             background-color: #FFFFFF;
 >         }
 >     `;
 >     document.head.appendChild(style);
@@ -835,10 +835,10 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 >             text-align: left;
 >         }
 >         .item-table tr:nth-child(even) {
->             background-color: #444;
+>             background-color: #586ccf;
 >         }
 >         .item-table tr:hover {
->             background-color: #555;
+>             background-color: #FFFFFF;
 >         }
 >     `;
 >     document.head.appendChild(style);
@@ -928,10 +928,10 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 >             text-align: left;
 >         }
 >         .item-table tr:nth-child(even) {
->             background-color: #444;
+>             background-color: #586ccf;
 >         }
 >         .item-table tr:hover {
->             background-color: #555;
+>             background-color: #FFFFFF;
 >         }
 >     `;
 >     document.head.appendChild(style);
@@ -1021,10 +1021,10 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 >             text-align: left;
 >         }
 >         .item-table tr:nth-child(even) {
->             background-color: #444;
+>             background-color: #586ccf;
 >         }
 >         .item-table tr:hover {
->             background-color: #555;
+>             background-color: #FFFFFF;
 >         }
 >     `;
 >     document.head.appendChild(style);

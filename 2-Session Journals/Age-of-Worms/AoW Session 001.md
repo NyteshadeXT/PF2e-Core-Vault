@@ -45,10 +45,6 @@ quicknote: The players start off on their adventure by clearing the Diamond Lake
 Figure out how to apply poison status.
 
 ### Quick References
-
-> [!kirk|info] Info (Remove me)
-This is a list of links to various notes within your Vault. Use this to give yourself quick ways to find any relevant information you need on hand for your session.
-
 > [!column|3 no-title]
 >> [!metadata|characters] People
 >> `VIEW[{characters}][link]`

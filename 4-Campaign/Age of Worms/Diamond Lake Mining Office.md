@@ -7,17 +7,32 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 adventure_level: 1
 total_xp: 380
 completed_xp: 380
+whichparty: "[[Age of Worms Party Dashboard]]"
+quicknote: Players were directed here by Allustan as a potential home base for their adventures in the Whispering Cairn.
 awarded_pp: 0
-awarded_gp: 0
-awarded_sp: 9
-awarded_cp: 7
-awarded_permanent_items: []
+awarded_gp: 17
+awarded_sp: 17
+awarded_cp: 13
+awarded_permanent_items:
+  - name: Stalk Goggles
+    ilvl: 1
+    gp: 20
 awarded_consumable_items:
   - name: Spell Scroll - 1st Level (Join Pasts)
     ilvl: 1
     gp: 6
-whichparty: "[[Age of Worms Party Dashboard]]"
-quicknote: Players were directed here by Allustan as a potential home base for their adventures in the Whispering Cairn.
+  - name: Merciful Balm
+    ilvl: 1
+    gp: 3
+  - name: Journeybread
+    ilvl: 1
+    gp: 3
+  - name: Spell Scroll - 1st Level (Instant Pottery)
+    ilvl: 1
+    gp: 12
+  - name: Spell Scroll - 1st Level (Breathe Fire)
+    ilvl: 1
+    gp: 12
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -168,8 +183,8 @@ creatures:
 > - [x] gp::3
 > - [x] sp::5
 > - [x] cp::6
-> - [x] consumable::[[Merciful Balm]] [ilvl::1] [gp::3]
-> - [ ] consumable::[[Journeybread]] [ilvl::1] [gp::3]
+> - [x] consumable::[[Merciful Balm|Merciful Balm]] [ilvl::1] [gp::3]
+> - [x] consumable::[[Journeybread|Journeybread]] [ilvl::1] [gp::3]
 > - [x] consumable::[[Instant Pottery|Spell Scroll - 1st Level (Instant Pottery)]] [ilvl::1] [gp::12]
 
 ## The Kitchen 
@@ -208,8 +223,8 @@ creatures:
 > 
 > - [x] gp::14
 > - [x] sp::3
-> - [x] permanent::[[Stalk Goggles]] [ilvl::1] [gp::20]
-> - [x] consumable::[[Bloodeye Coffee]] [ilvl::0] [sp::5]
+> - [x] permanent::[[Stalk Goggles|Stalk Goggles]] [ilvl::1] [gp::20]
+> - [x] consumable::[[Bloodeye Coffee|Bloodeye Coffee]] [ilvl::0] [sp::5]
 > - [x] consumable::[[Breathe Fire|Spell Scroll - 1st Level (Breathe Fire)]] [ilvl::1] [gp::12]
 
 > [!infobox]+

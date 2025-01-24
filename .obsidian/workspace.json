@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-World/Factions/The Aetherial Wardens.md",
-                "mode": "source",
+                "file": "5-World/NPCs/Diamond Lake/Allustan.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Aetherial Wardens"
+              "title": "Allustan"
             }
           },
           {
@@ -62,8 +62,23 @@
               "icon": "lucide-file",
               "title": "Filge"
             }
+          },
+          {
+            "id": "c595cd011cac20d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Character Building/Equipment/Homebrew/Rockhammer.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Rockhammer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 293.5
   },
   "right": {
     "id": "ef89a336304e207c",
@@ -291,43 +306,45 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "cee83e26bcc52550",
+  "active": "1fd99f16e5be23b9",
   "lastOpenFiles": [
-    "3-Rules/Bestiaries/Uniques/Filge.md",
-    "4-Campaign/Age of Worms/The Whispering Cairn.md",
-    "zz-Attachments/Lantern.webp",
     "3-Rules/Character Building/Equipment/Silver Diadem of Insight.md",
+    "3-Rules/Bestiaries/Uniques/Filge.md",
+    "3-Rules/Character Building/Equipment/Homebrew/Rockhammer.md",
+    "1-GM Toolkit/Adventure Loot.md",
+    "1-GM Toolkit/Untitled.md",
     "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
-    "zz-Attachments/The Whispering Cairn-Entrance.webp",
-    "3-Rules/Bestiaries/Homebrew/Giant Bombardier Beetle.md",
-    "3-Rules/Bestiaries/Homebrew/lurking-Strangler.md",
-    "5-World/Factions/The Aetherial Wardens.md",
-    "5-World/Factions/1 - The Factions.md",
-    "5-World/Settlements/Diamond Lake.md",
-    "zz-Templates/GM Templates/Locations/Template - Settlement.md",
-    "2-Party/Age of Worms/Age of Worms Party Dashboard.md",
-    "5-World/NPCs/Ellival Moonmeadow.md",
+    "4-Campaign/Age of Worms/The Whispering Cairn.md",
+    "zz-Templates/Markdown/Update Treasure.md",
     "2-Session Journals/Age-of-Worms/AoW Session 001.md",
-    "zz-Templates/GM Templates/Locations/Template - Adventure.md",
-    "2-Party/Age of Worms/Akiowen.md",
-    "2-Session Journals/Age-of-Worms/AoW - Session Test.md",
-    "2-Party/Age of Worms/Zamosshe.md",
+    "1-GM Toolkit/Travel Calculator.md",
+    "1-GM Toolkit/Vault Report.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 003.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 002.md",
+    "5-World/NPCs/Diamond Lake/Allustan.md",
+    "5-World/Factions/The Aetherial Wardens.md",
+    "5-World/Settlements/Diamond Lake.md",
+    "3-Rules/Character Building/Equipment/Warhammer.md",
+    "3-Rules/Character Building/Equipment/War Saddle.md",
+    "3-Rules/Character Building/Equipment/War Razor.md",
+    "3-Rules/Character Building/Equipment/War Flail.md",
+    "3-Rules/Character Building/Equipment/War Lance.md",
+    "3-Rules/Character Building/Equipment/Abadar's Flawless Scale.md",
+    "3-Rules/Character Building/Equipment/Homebrew",
+    "3-Rules/Hazards/Homebrew/hail-of-iron-spheres-hb.md",
+    "zz-Attachments/Sarcophagus.png",
+    "3-Rules/Bestiaries/Homebrew/Giant Bombardier Beetle.md",
+    "3-Rules/Hazards/Homebrew/false-elevator-hb.md",
+    "zz-Attachments/Lantern.webp",
+    "zz-Attachments/The Whispering Cairn-Entrance.webp",
+    "3-Rules/Bestiaries/Homebrew/lurking-Strangler.md",
     "zz-Attachments/Akiowen.webp",
-    "2-Party/Age of Worms/Gornak.md",
-    "2-Party/Age of Worms/Haight Enashberry.md",
     "zz-Attachments/Haight.webp",
-    "2-Party/Age of Worms/Bob-3.md",
     "zz-Attachments/Gornak.webp",
     "zz-Attachments/Aegis.png",
     "zz-Attachments/Age of Worms-20241013135345875.webp",
     "zz-Attachments/Assets/AdventureIcon.png",
     "zz-Attachments/Assets/ImagePlaceholder.png",
-    "zz-Attachments/Assets/JourneyBoard.png",
-    "zz-Templates/GM Templates/Characters/Template - Deity.md",
-    "zz-Templates/GM Templates/Characters/Template - Hierarchy.md",
-    "zz-Templates/GM Templates/Characters/Template - Player.md",
-    "zz-Templates/GM Templates/Characters/Template - NPC.md",
-    "zz-Templates/GM Templates/Characters/Template - Organization.md",
     "4-Campaign/Age of Worms/Completed",
     "5-World/NPCs/Ardentia City",
     "5-World/NPCs/Diamond Lake",
