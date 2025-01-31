@@ -4,6 +4,7 @@ tags:
   - "#Geography"
 art: zz_Attachments/Misc/PlaceholderImage.png
 adventure_level: 1
+adventure_status: In Progress
 total_xp: 1494
 completed_xp: 80
 awarded_pp: 0
@@ -911,7 +912,7 @@ If the PCs don't manage to cajole or bribe the location of the Land remains out 
 # Part 5. The Old Observatory
 About a century ago, Diamond Lake's crumbling observatory hosted a scientific cult devoted to studying the heavens and celestial bodies.  The sect died out decades ago, and the place has since been inhabited by a series of questionable tenants who never seem to last very long.  The latest is Filge, a deranged necromancer from [[Ardentia City]] summoned to Diamond Lake by his old associate [[Balabar Smenk]], a local paragon of corruption. Two weeks ago, Filge received a package from Smenk filled with a thousand pieces of gold and hints of "unkillable" undead in the hills around Diamond Lake.
 
-When at last Filge arrived, Smenk laid out a series of confusing events that hinted at a bizarre conspiracy hatched in secret chambers below Diamond Lake. ONe of Smenk's rival mine managers, a taciturn business minded dwarf named Ragnolin Dourstone, came to Smenk with a covert offer of alliance.  Dourstone explained that one of his crews had discovered an unusual chamber below his copper mine and that a cadre of students and mystics had set up shop there at his invitation. Dourstone asked Smenk to run secret food shipments to this subterranean force, keeping the whole affair from the attention of Diamond Lake's militia garrison or the office of Governor-Mayor [[Lannod Neff]]. In exchange, the dwarf offered Smenk a fair contract and three beautiful obsidian rings, said to have bene unearthed within this secret chamber-the so-called "Black Cathedral." Smenk agreed, but only if Dourstone would consent to let him visit the cathedral himself.
+When at last Filge arrived, Smenk laid out a series of confusing events that hinted at a bizarre conspiracy hatched in secret chambers below Diamond Lake. ONe of Smenk's rival mine managers, a taciturn business minded dwarf named Ragnolin Dourstone, came to Smenk with a covert offer of alliance.  Dourstone explained that one of his crews had discovered an unusual chamber below his copper mine and that a cadre of students and mystics had set up shop there at his invitation. Dourstone asked Smenk to run secret food shipments to this subterranean force, keeping the whole affair from the attention of Diamond Lake's militia garrison or the office of Governor-Mayor [[Lanod Neff]]. In exchange, the dwarf offered Smenk a fair contract and three beautiful obsidian rings, said to have bene unearthed within this secret chamber-the so-called "Black Cathedral." Smenk agreed, but only if Dourstone would consent to let him visit the cathedral himself.
 
 What Smenk saw there terrified him, an emotion he'd thought purged since he strangled his first city watchman.  An oppressive aura of despair surged from a large pool of black slim in the Cathedral's central chamber.  Three circles of robed figures ringed the pool, their faces touching the cold mosaic floor. Through robes and hoods Smenk spied inhuman appendages-twitching tails and hints of oily black feathers.  Their chants echoed off basalt walls like a chorus of croaking frogs and screaming children.
 
@@ -1076,12 +1077,15 @@ The angelic figure is an idealized representation of Filge himself.
 > 
 > The silver tray held by the mummified sentry is worth 2 gp. The A large run of golden brown fur is worth 8 gp, but must be carried carefully to ensure that its coat does not become soiled.  A DC 15 [[Skills#Occultism|Occultism]] check identifies the pelt as that of an adult lammasu.
 > 
-> Most of the papers on Filge's desk concern surgical procedures meant to enhance the potency of undead, while others contain only the meandering scribbles of a mind descending into madness.  Buried in with the junk is a [[Summon Undead|Scroll of Summon Undead]] and a beaker holder containing four 6-inch-long tubes filled with different-colored liquids  Two of the six slots are empty. The glass tubes are sealed at the top with a rubber sheath, and look like they are meant to be slotted into some other device.  Each contains a soupy liquid substance consisting of reanimated cells.  Filge has been experimenting with injecting these liquids into himself. They are effectively a POTION (COLOR), POTION (COLOR), POTION (COLOR), and POTION (COLOR). Every so often, something within the beakers seems to move slightly, but it might just be a trick of the eye. A handwritten label on the bearker holder says "Necroturgeons."
+> Most of the papers on Filge's desk concern surgical procedures meant to enhance the potency of undead, while others contain only the meandering scribbles of a mind descending into madness.  Buried in with the junk is a [[Summon Undead|Scroll of Summon Undead]] and a beaker holder containing four 6-inch-long tubes filled with different-colored liquids  Two of the six slots are empty. The glass tubes are sealed at the top with a rubber sheath, and look like they are meant to be slotted into some other device.  Each contains a soupy liquid substance consisting of reanimated cells.  Filge has been experimenting with injecting these liquids into himself. They are effectively a [[Potion of Emergency Escape]], [[Healing Potion (Minor)]], [[Surging Serum (Minor)]], and [[Cat's Eye Elixir]]. Every so often, something within the beakers seems to move slightly, but it might just be a trick of the eye. A handwritten label on the bearker holder says "Necroturgeons."
 > 
 > Also on the deck is the orginal summons [[Balabar Smenk]] sent Filge to encourage him to come to Diamond Lake (See handout).
 > 
 > - [ ] gp::10
-> - [ ] permanent::[[itemlink]] [ilvl::000] [gp::000]
+> - [ ] consumable::[[Potion of Emergency Escape|Potion of Emergency Excape]] [ilvl::1] [gp::3]
+> - [ ] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [ ] consumable::[[Surging Serum (Minor)|Surging Serum (Minor)]] [ilvl::2] [gp::5]
+> - [ ] consumable::[[Cat's Eye Elixir|Cat's Eye Elixir]] [ilvl::2] [gp::7]
 > - [ ] consumable::[[Summon Undead|Scroll of Summon Undead]] [ilvl::1] [gp::4]
 
 ## 10. Closet
@@ -1094,28 +1098,43 @@ These closets contain Filge's wardrobe, which consists of six sets of nearly ide
 
 ## 11. Operating Theater
 **Encounter Difficulty:**   
-- [ ] difficulty (xxx XP) Level xxx
+- [ ] Severe (155 XP) Level 2
 
 > [!note]+ Read Aloud
-> A single chamber dominates the observatory's entire upper flore.  Light filters through the wide slit in the roof, bathing the center of the room in illumination. Four large mirrors set along the outside wall reflect bright beams into the direct center of the room, a recessed operating theater accessible via two short sets of stairs.  The beams specifically target a blue-skinned humanoid figure splayed out upon an operating table, its chest completely opened and pinned back against the table with long metal needles.  Two long shelves cluttered with piles of papers, rotting organs, and instruments comprise the east and west extent of the operating theater, and are only a few inches lower tan the chamber's outer floor.
+> A single chamber dominates the observatory's entire upper floor.  Light filters through the wide slit in the roof, bathing the center of the room in illumination. Four large mirrors set along the outside wall reflect bright beams into the direct center of the room, a recessed operating theater accessible via two short sets of stairs.  The beams specifically target a blue-skinned humanoid figure splayed out upon an operating table, its chest completely opened and pinned back against the table with long metal needles.  Two long shelves cluttered with piles of papers, rotting organs, and instruments comprise the east and west extent of the operating theater, and are only a few inches lower tan the chamber's outer floor.
+> 
+> Four metal-and-glass tanks, each easily large enough to hold a human, flank the short stairs leading to the operating theater.  Each tank is full of yellow liquid streaked with rust.  Indistinct, vaguely human silhouettes bob silently in the soupy fluid.
+
+The gigantic telescope that gave the observatory it's purpose was looted form the structure decades ago, leaving only a 5-ft recessed floor at the center of the chamber where the great device once rested.  Filge has repurposed this area as his operating heater, packing it with the tools of his macabre trade as well as some of his favorite success stories.  The corpse currently laid out on the operating table is an experiment that Filge hops one day soon to animate as a powerful zombie.  Right now it's just a dead human whose skin has been dyed blue with an artificial additive of Filge's own design.
 
 At the start of the encounter, place the following foes on the map: 
- - 2: [[BadGuy1]] W
- - 2: [[BadGuy2]] H
+ - 1: [[Filge|Filge]] F
+ - 1: [[Skeleton Warrior]] W
+ - 1: [[Void Zombie]] V
+ - 3: [[3-Rules/Bestiaries/Monster Core/Zombie Shambler|Zombie Shambler]]
 
 ```encounter
-name: EncounterName
-party: PartyName
+name: Operating Theater
+party: Age of Worms
 creatures:
-  - 1: My Monster          # 1 monster named My Monster will be added, with no HP, AC or modifier.
-  - 1d6: Goblin, 7, 15, 2        # 1 goblin with HP: 7, AC: 15, MOD: 2 will be added.
-  - Goblin, 5, 15, 2, 25      # 1 goblin with HP: 7, AC: 15, MOD: 2 worth 25 XP will be added.
+  - 1: Filge
+  - 1: Skeleton Warrior
+  - 1: Void Zombie
+  - 3: Zombie Shambler
 ```
 
-Description
+Assuming the PCs employ stealth, they may access this room without FIlge's knowledge, catching him unawares as he conducts magical-medical experiments on the corpse upon his operating table.  As he stiches and saws, the sallow skinned necromancer sings a dreadful melody in the hoarse, hacking voice of an addict.  He moves to attack at the first sight of intruders, pulling up short only if confronted by a truly impressive display (such as the head of Kullen or all of the zombies from [[The Whispering Cairn#5. Feasting Hall]] in thrall to a PC).  Even then, FIlge negotiates only if a PC makes a successful [[Skills#Intimidation|Intimidation]] check.
 
+A 5-foot-tall human skeleton follows FIlge everywhere he goes, acting as a mobile bookstand and dogsbody.  This is poor Gertia Land, youngest of Alastor Land's siblings.  A DC 15 [[Skills#Medicine|Medicine]] check identifies subtle deformities to her skull that are the hallmarks of the Red Death plague that swept [[Diamond Lake]] 19 years ago.  The skeleton wears a rusty old scimitar in a belt scabbard and will use it at Filge's command.
+
+The four tanks surrounding the recessed floor contain FIlge's proudest accomplishments, hulking undead monstrosities created with scrolls and preserved for later use in a soupy yellow liquid streaked with ribbons of rust.  Three of the tanks contain zombies, while the southeast tank contains a brutish bald zombie.  At Filge's command, these creatures burst forth from their tanks, wielding pipes wrenched from their glass and metal prisons as greatclubs.
 
 ## Tactics
+*Round 1:* Filge gestures to the zombies in the fluid tanks surrounding his laboratory. "Arise, my beautiful monstrosities!" he calls out. As he does this, he move to gain cover from the most tactically advantageous tank.  Gertia Land's skeleton positions itself between PCs and the necromancer, scimitar drawn.  She never moves more then 15 feet from the necromancer.
 
+*Round 2:* Filge casts [[Mystic Armor]] on himself, raising his AC.  If he had any reason to suspect foul play prior to the arrival of the PCs, he has already cast this spell.  He instead injects himself with [[False Vitality|Vial of False Vitality]]  gaining 10 temporary hit points.
 
+The four zombies crash out of their tanks and move to form a wall between the PCs and Filge.  If possible, they attack.  The skeleton attacks if possible or stands its ground and readies an attack against the next available foe.
+
+Round 3: If it seems safe and he has not already doen so, Filger injects himself with [[False Vitality|Vial of False Vitality]]. Otherwise, he casts [[]]
 ## Features of the Area

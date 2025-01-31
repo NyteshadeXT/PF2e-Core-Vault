@@ -8,7 +8,7 @@ characters:
   - "[[Haight Enashberry]]"
   - "[[Zamosshe]]"
 locations:
-  - "[[4-Campaign/Age of Worms/Diamond Lake Mining Office.md|Diamond Lake Mining Office]]"
+  - "[[Diamond Lake Mining Office|Diamond Lake Mining Office]]"
 aliases:
   - Getting Started
 whichparty: "[[Age of Worms Party Dashboard]]"

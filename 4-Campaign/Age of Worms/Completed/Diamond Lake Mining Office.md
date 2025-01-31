@@ -1,6 +1,6 @@
 ---
 name: Diamond Lake Mining Office
-adventure_status: Started
+adventure_status: Complete
 tags:
   - "#Adventure"
 art: zz-Attachments/Assets/PlaceholderImage.png

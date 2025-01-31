@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
-                "mode": "preview",
+                "file": "1-GM Toolkit/Untitled.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Whispering Cairn"
-            }
-          },
-          {
-            "id": "1fd99f16e5be23b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-World/NPCs/Diamond Lake/Allustan.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Allustan"
+              "title": "Untitled"
             }
           },
           {
@@ -62,23 +48,8 @@
               "icon": "lucide-file",
               "title": "Filge"
             }
-          },
-          {
-            "id": "c595cd011cac20d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/Homebrew/Rockhammer.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Rockhammer"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -306,38 +277,40 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1fd99f16e5be23b9",
+  "active": "cee83e26bcc52550",
   "lastOpenFiles": [
+    "4-Campaign/Age of Worms/The Whispering Cairn.md",
+    "1-GM Toolkit/Untitled.md",
     "3-Rules/Character Building/Equipment/Silver Diadem of Insight.md",
     "3-Rules/Bestiaries/Uniques/Filge.md",
-    "3-Rules/Character Building/Equipment/Homebrew/Rockhammer.md",
-    "1-GM Toolkit/Adventure Loot.md",
-    "1-GM Toolkit/Untitled.md",
-    "4-Campaign/Age of Worms/Diamond Lake Mining Office.md",
-    "4-Campaign/Age of Worms/The Whispering Cairn.md",
-    "zz-Templates/Markdown/Update Treasure.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 001.md",
-    "1-GM Toolkit/Travel Calculator.md",
-    "1-GM Toolkit/Vault Report.md",
     "2-Session Journals/Age-of-Worms/AoW Session 003.md",
     "2-Session Journals/Age-of-Worms/AoW Session 002.md",
-    "5-World/NPCs/Diamond Lake/Allustan.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 001.md",
+    "5-World/Points of Interest/Diamond Lake/The Captain's Blade.md",
+    "5-World/Points of Interest/Diamond Lake/General Store - Diamond Lake.md",
+    "5-World/NPCs/Diamond Lake/Tyrol Ebberly.md",
+    "zz-Templates/GM Templates/Characters/Template - NPC.md",
+    "5-World/NPCs/Diamond Lake/Taggin.md",
+    "zz-Templates/GM Templates/Locations/Template - Point of Interest.md",
+    "5-World/Points of Interest/Diamond Lake/Tidwod's.md",
+    "5-World/Points of Interest/Ardentia City",
+    "5-World/Points of Interest/Diamond Lake",
+    "5-World/Points of Interest/Untitled.md",
     "5-World/Factions/The Aetherial Wardens.md",
-    "5-World/Settlements/Diamond Lake.md",
-    "3-Rules/Character Building/Equipment/Warhammer.md",
-    "3-Rules/Character Building/Equipment/War Saddle.md",
-    "3-Rules/Character Building/Equipment/War Razor.md",
-    "3-Rules/Character Building/Equipment/War Flail.md",
-    "3-Rules/Character Building/Equipment/War Lance.md",
-    "3-Rules/Character Building/Equipment/Abadar's Flawless Scale.md",
+    "4-Campaign/Age of Worms/Completed/Diamond Lake Mining Office.md",
+    "5-World/NPCs/Ellival Moonmeadow.md",
+    "5-World/NPCs/Diamond Lake/Tidwoad.md",
+    "5-World/NPCs/Diamond Lake/Balabar Smenk.md",
+    "5-World/NPCs/Diamond Lake/Allustan.md",
+    "5-World/NPCs/Diamond Lake/Lanod Neff.md",
+    "5-World/NPCs/Ardentia City/Manzorian.md",
+    "5-World/Factions/Arcane Exchange Consortium.md",
+    "3-Rules/Character Building/Equipment/Homebrew/Rockhammer.md",
+    "1-GM Toolkit/Adventure Loot.md",
     "3-Rules/Character Building/Equipment/Homebrew",
-    "3-Rules/Hazards/Homebrew/hail-of-iron-spheres-hb.md",
     "zz-Attachments/Sarcophagus.png",
-    "3-Rules/Bestiaries/Homebrew/Giant Bombardier Beetle.md",
-    "3-Rules/Hazards/Homebrew/false-elevator-hb.md",
     "zz-Attachments/Lantern.webp",
     "zz-Attachments/The Whispering Cairn-Entrance.webp",
-    "3-Rules/Bestiaries/Homebrew/lurking-Strangler.md",
     "zz-Attachments/Akiowen.webp",
     "zz-Attachments/Haight.webp",
     "zz-Attachments/Gornak.webp",

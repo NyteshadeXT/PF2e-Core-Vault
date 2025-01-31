@@ -8,13 +8,12 @@ characters:
   - "[[Haight Enashberry]]"
   - "[[Zamosshe]]"
 locations:
-  - "[[4-Campaign/Age of Worms/Diamond Lake Mining Office.md|Diamond Lake Mining Office]]"
+  - "[[Diamond Lake Mining Office|Diamond Lake Mining Office]]"
   - "[[4-Campaign/Age of Worms/The Whispering Cairn.md|The Whispering Cairn]]"
 aliases:
   - Getting Started
 whichparty: "[[Age of Worms Party Dashboard]]"
 quicknote: The players continue on their adventure by clearing the Diamond Lake Mining Office as their potential homebase and "taking a peek" at what the Whispering Cairn has to offer.
-
 ---
 > [!metadata|metadata]- Metadata 
 >> [!metadata|metadataoption]- System
