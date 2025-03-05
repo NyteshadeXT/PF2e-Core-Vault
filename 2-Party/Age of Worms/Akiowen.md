@@ -69,7 +69,7 @@ condition: Healthy
 >  |
 > ---|---|
 > **Class** | `VIEW[{Class}]` |
-> **Level** | `VIEW[{Level}]` |
+> **Level** | `VIEW[{level}]` |
 > **Aliases** | `VIEW[{aliases}][text]` |
 > **Ancestry** | `VIEW[{Ancestry}]` |
 > **Heritage** | `VIEW[{Heritage}]` |

@@ -27,7 +27,7 @@ modifier: 0
 perception:
   - name: "Perception"
     desc: "+9; __darkvision__"
-languages: "Auran"
+languages: "Sussuran"
 skills:
   - name: "Skills"
     desc: "__Acrobatics__: +12 (1d20+12); __Athletics__: +10 (1d20+10); __Stealth__: +11 (1d20+11);"
@@ -52,7 +52,7 @@ armorclass:
 hp: 60
 health:
   - name: HP
-    desc: "60; __Immunities__ sleep, poison; __Resistances__ physical 5 (except magical or piercing); __Weaknesses__ slowed 1 by cold damage."
+    desc: "60; __Immunities__ sleep, poison; __Resistances__ physical 5 (except magical or piercing); __Weaknesses__ cold (5)"
 
 attacks:
   - name: Melee

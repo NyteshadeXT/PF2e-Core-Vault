@@ -1,6 +1,15 @@
 ---
 tags:
   - "#SessionNote"
+aliases:
+  - A Watery Grave
+whichparty: "[[Age of Worms Party Dashboard]]"
+sessiondate: 2025-02-27
+quicknote: |-
+  Ghouls prove to be a very difficult encounter.
+  We lose Elijah but gain Bob.
+locations:
+  - "[[4-Campaign/Age of Worms/The Whispering Cairn.md|The Whispering Cairn]]"
 ---
 > [!metadata|metadata]- Metadata 
 >> [!metadata|metadataoption]- System
@@ -50,32 +59,24 @@ This is a list of links to various notes within your Vault. Use this to give you
 
 ## During
 ### Events
-
-> [!kirk|info] Prompt (Remove me)
-Use this section to record significant events occurring during the session. Note down key moments, plot twists, player decisions, or any unexpected developments that unfold. Include details about NPC interactions, major discoveries, or impactful player choices. This section serves as a timeline of noteworthy occurrences, helping you track the progression of the story and ensuring that important events are documented for future reference.
+The PCs continue their investigation of The Whispering Cairn.  After ending their rest from the last session, they move into the flooded shower area.  There they encounter and defeat two of the three mephits inhabiting the area.  They also spot the ghouls in the room to the left.  Deciding to avoid that encounter for the time being they check out the locker room to the right.  There they discover the missing red lantern.  While heading out the ghouls, who noticed the changes in the water, move out of their room and partially ambush the group.  A very dangerous encounter occurs and Zamosshe goes down.  Fortunately, the players manage to defeat the ghouls and heal Zamosshe.  They had back to the sarcophagus room and hang the red lantern.  After messing around a bit they choose to try the face trap one more time.  With all the lanterns now in place the trap is no longer active and they are able to pass into the 
 
 ### Travel & Rest
-
-> [!kirk|info] Prompt (Remove me)
-Use this area to track the party's travel and rest activities during the session. Note down the duration of their travels, including any notable encounters or events that occur during the journey. Additionally, record periods of rest, whether short breaks or longer rests, and indicate how time passes in-game. This section helps you maintain a coherent timeline, manage resources, and ensure a consistent flow of time within the session.
+No notable travel or rest this session.
 
 ### Loot, Rewards & Purchases
-
-> [!kirk|info] Prompt (Remove me)
-Use this space to record all loot, rewards, and purchases obtained by the party during the session. Document any valuable items, treasures, or magical artifacts they acquire. Note down rewards for completing quests or overcoming challenges. Additionally, keep track of any purchases the party makes, detailing items, costs, and relevant information. This section serves as a consolidated record of the party's wealth and acquisitions, aiding in resource management and future gameplay decisions.
-
 **Session XP:** 
 
 **Coin**
-- gp: xxx
-- sp: xxx
-- cp: xxx
+- gp: 3
+- sp: 5
 
 **Consumable Items**
-- [x] consumable::[[Test|Test]] [ilvl::0] [gp::xxxx]
+- [x] consumable::[[Detect Metal|Spell Scroll (1st level) Detect Metal]] [ilvl::1] [gp::4]
 
 **Permanent Items**
-- [x] permanent::[[Test|Test]] [ilvl::0] [gp::xxxx]
+- [ ] permanent::[[Rhythm Bone|Rhythm Bone]] [ilvl::1] [gp::8]
+- [x] permanent::[[Leather Lamellar|Leather Lamellar]] [ilvl::1] [gp::3]
 
 ## Post
 ### New Creations
@@ -84,11 +85,7 @@ Use this space to record all loot, rewards, and purchases obtained by the party 
 Use this section to consolidate and expand upon any spontaneous creations made during the session. After reviewing your During Session notes, use this area to flesh out and detail any new elements, characters, locations, or concepts that emerged. Provide additional information, backgrounds, and intricacies to bring these creations to life. This section serves as a post-session development space, ensuring that any improvisations made during the session can be refined and integrated seamlessly into your campaign world.
 
 ### Date & Time
-
-> [!kirk|info] Prompt (Remove me)
-> Note down the in-game time and date that your session ended on.
+2/27/25 from 6:30 pm CST to 9:30 pm CST
 
 ### End of Session Notes
-
-> [!kirk|info] Prompt (Remove me)
-Use this section to capture any final thoughts, reflections, or references you want to note for future sessions. Summarize the key takeaways, player actions, or unresolved plot threads. Include any insights gained during the session that could influence future storytelling or campaign development. This section serves as a concise record of noteworthy elements and considerations, providing a valuable resource for continuity and ongoing narrative planning.
+Elijah (Gornak) decided to call it quits tonight.  Fortunately Bob was joining the party so I hot swapped one for the other. Could account for the difficulty here as the party mix had changed.  Something to keep an eye on going forward.

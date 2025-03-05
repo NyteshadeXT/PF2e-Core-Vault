@@ -1,4 +1,0 @@
-```markmap
-# Mindmap
-## Mindmap
-```

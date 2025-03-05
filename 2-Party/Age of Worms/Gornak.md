@@ -4,7 +4,7 @@ tags:
   - "#Character"
   - "#Player"
 art: zz-Attachments/Gornak.webp
-Status: Active
+Status: Inactive
 Player: Qelanos
 Ancestry: Human
 Heritage: Dromar
@@ -67,7 +67,7 @@ condition: Healthy
 >  |
 > ---|---|
 > **Class** | `VIEW[{Class}]` |
-> **Level** | `VIEW[{Level}]` |
+> **Level** | `VIEW[{level}]` |
 > **Aliases** | `VIEW[{aliases}][text]` |
 > **Ancestry** | `VIEW[{Ancestry}]` |
 > **Heritage** | `VIEW[{Heritage}]` |

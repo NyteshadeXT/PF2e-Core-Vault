@@ -20,7 +20,7 @@ obsidianUIMode: preview
 > [!infobox]
 > # Session Journals
 > ```dataview
-TABLE WITHOUT ID link(file.name) AS "Session Date", Status, players
+TABLE WITHOUT ID link(file.name) AS "Session Date", Status, characters
 from "2-Session Journals/Age-of-Worms"
 where contains(tags, "SessionNote")
 SORT file.name DESC

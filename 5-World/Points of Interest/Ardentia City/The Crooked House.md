@@ -3,14 +3,6 @@ tags:
   - "#Location"
   - "#POI"
 art: zz-Attachments/Assets/PlaceholderImage.png
-pronounced: Arcane Exchange Consortium Headquarters
-owner:
-  - "[[Elowen Stormweaver]]"
-organization:
-  - "[[Arcane Exchange Consortium]]"
-location:
-  - "[[Ardentia City]]"
-  - "[[Seekers Quarter]]"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -54,18 +46,11 @@ location:
 > **Location** | `VIEW[{location}][link]` |
 
 # **`=this.file.name`** <span style="font-size: medium">"`VIEW[{pronounced}]`"</span>
+> [!kirk|info] Info (Remove me)
+> Point of Interest: A location within your world, anything from a homes, shops, forts, volcanos or dungeons.
+
 > [!recite]- Introduction
-> As you step through the grand archway of the Arcane Exchange Consortium Headquarters, the air is thick with the scent of parchment, incense, and old magic. The vast hall beyond is a symphony of commerce and power—a bustling market where merchants haggle over arcane trinkets, robed appraisers scrutinize newly unearthed relics, and the faint hum of latent enchantments fills the space. Towering bookshelves and locked display cases line the walls, holding scrolls and artifacts that shimmer under mage-lit chandeliers.
-> 
-> To your right, a gilded board displays current bounties and contract offers, its shifting script detailing expeditions, relic retrievals, and lucrative deals. At the heart of the chamber, a raised dais holds an enchanted podium where an auctioneer prepares for the next sale, his voice magically amplified over the din of trade.
-> 
-> Beyond the market floor, elegant staircases lead to the Consortium’s upper offices—places where deals of greater consequence are struck, and where the fate of powerful discoveries is decided behind closed doors. The air crackles with arcane energy, the very walls steeped in the magic of countless transactions and treasures.
-> 
-> A sharp-eyed clerk in fine, enchanted robes notices your arrival and steps forward with a practiced smile, a ledger in hand.
-> 
-> **"Newcomers to the Consortium, I see. If you seek to trade, sell, or commission services, the Exchange is at your disposal. If you bring relics of note, our appraisers will assess their worth—for a modest fee, of course. The Auction of Wonders is scheduled for the week's end, should you wish to bid… or offer something of value. And if you seek work, the bounty board is ever in need of skilled hands."**
-> 
-> He raises a brow, his eyes flicking over your gear with an appraising look. **"So then… what business brings you to the Consortium today?"**
+> A script for the GM to read when the party arrive to this location for the first time.
 
 > [!metadata|map]- Map
 > ```leaflet
@@ -111,19 +96,10 @@ location:
 > SORT file.name ASC
 
 ## Overview 
-The Arcane Exchange Consortium Headquarters is the beating heart of magical trade in Ardentia City, a grand edifice of wealth and arcane power. Established through a strategic alliance with the Arcane Conclave, it serves as both a commercial hub and a vital link in the city-state’s growing dominance over the flow of magical goods. Adventurers emerging from the Aetherial Observatory come here first, eager to sell their hard-earned treasures, identify mysterious artifacts, and trade for rare supplies before returning to the depths.
 
-This headquarters is more than a marketplace—it is a center of magical commerce, an auction house of wonders, and a battleground of economic influence. The Consortium's leaders broker deals with merchants, enchanters, and aristocrats, ensuring the city remains a beacon of arcane innovation. Within its halls, disputes over artifact ownership are settled, and the fate of newly discovered relics is determined.
+> [!kirk|info] Prompt (Remove me)
+> Provide an overview encapsulating the essence of this place. What defines its significance? What key events or recurring activities shape its Identity? Explore the heart of this location, capturing its essence in the unfolding pages of history.
 
-### **Significance & Identity**
-
-The Consortium Headquarters thrives on a constant cycle of discovery, negotiation, and power plays:
-
-- **The Grand Exchange** – The central market where adventurers barter their latest dungeon spoils. Magical vendors, alchemists, and smiths compete to purchase rare materials, while Consortium appraisers assess the value of enchanted relics.
-- **The Vault of Arcane Curiosities** – A secure repository for artifacts of great power, often the subject of high-stakes auctions, research, or political intrigue.
-- **Private Dealings & Contracts** – Behind closed doors, powerful merchants and scholars broker lucrative contracts for artifact retrieval, exploration commissions, and mercenary work.
-- **The Weekly Auction of Wonders** – Every seventh night, the Consortium hosts an auction where adventurers and nobles alike bid on exotic magical items recovered from the depths of the Dungeon. Some artifacts carry hidden dangers or unknown histories, making each event an unpredictable spectacle.
-- **Rivalry & Influence** – Not all dealings are peaceful; factions within the Consortium vie for influence, and some artifacts spark fierce competition between buyers. Whispers of underhanded dealings, stolen relics, and clandestine transactions are ever-present.
 ## Keyed Locations
 
 > [!kirk|info] Prompt (Remove me)

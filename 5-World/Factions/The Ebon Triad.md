@@ -139,7 +139,7 @@ From the fanatical peripheries of three vile churches comes a blasphemous doctri
 > Trace the roots and evolution of this organization through time. Explore its founding, pivotal moments, and transformative events that shaped its trajectory. What were the circumstances that led to its creation? Detail significant milestones, challenges, or triumphs that have defined its history. How has the organization adapted to changes, crises, or conflicts over the years? Uncover the legacy and historical narrative that have molded this group into what it is today.
 
 ## Notes
-[[The Whispering Cairn]] note: What the Ebon Triad cultists below [[Diamond Lake]] and throughout the world do not understand is that the entire religious movement is a fraud launched at the direction of Kyuss, an ancient being who has plotted to bring about the Age of Worms for millennia.
+[[4-Campaign/Age of Worms/The Whispering Cairn]] note: What the Ebon Triad cultists below [[Diamond Lake]] and throughout the world do not understand is that the entire religious movement is a fraud launched at the direction of Kyuss, an ancient being who has plotted to bring about the Age of Worms for millennia.
 
 Use the following chart to adjudicate the results of any [[Skills#Religion|Religion]] checks made to learn more about the Ebon Triad.
 

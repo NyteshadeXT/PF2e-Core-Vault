@@ -1,7 +1,10 @@
 ---
 tags:
   - Quest
-art: zz_Attachments/Misc/PlaceholderImage.png
+art: zz-Attachments/The Whispering Cairn-Entrance.webp
+quicknote: Explore the Whispering Cairn
+status: Started
+adventure: "[[4-Campaign/Age of Worms/The Whispering Cairn]]"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -38,19 +41,16 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 
 ## Overview
 ### Summary
-
-> [!kirk|info] Prompt (Remove me)
-> Provide a summary of the major events and significant details that will unfold within this quest. Outline the key plot points, encounters, or milestones the players will navigate through. Additionally, make note of any specific elements, puzzles, NPCs, or items crucial to the quest's progression. Highlight the major turning points or climactic moments that will shape the narrative. Use this section as a guide to capture the adventure's essence and essential components.
-
+The players are tasked by [[Allustan]] to explore [[4-Campaign/Age of Worms/Quests/The Whispering Cairn|The Whispering Cairn]] and uncover it's secrets
 ### Storyline
+Idle chatter around the village speaks of a trio of richly dressed adventurers who frequent the taproom of the [[The Feral Dog]], [[Diamond Lake]]'s most notorious tavern.  The confident heroes spoke of their intention to explore the long abandoned Stirgenest Cairn on the lake's distant shore.  The PCs, being natives of [[Diamond Lake]],know that cairn of oft explored by the community's youth, who always find it completely empty of marvels and perfectly harmless.
 
-> [!kirk|info] Prompt (Remove me)
-> Craft an encompassing overview that encapsulates the essence of the story in this Quest. Outline the main narrative arc, themes, or central conflict that the players will experience. Describe the setting, background, or world-building elements essential to understanding the story's context. Additionally, highlight any twists, subplots, or character arcs that enrich the storytelling. Use this overview to provide a comprehensive glimpse into the quest's storyline, offering a roadmap for the players' journey.
+No so another cairn within a day's ride of the village.  This cairn lies near an iron mine that went dry.  The mine's charter lapsed when its manager died a few years later.  Situated in a sort of no-man's land, the cairn was all but forgotten, its yawning entrance overgrown with weeds and choked with debris.  Rediscovered by a curious teenager the cairn has since been a sort of community secret held by Diamond Lake's youth, who dare each other to disappear into it's cyclopean entrance to prove their bravery.  Occasionally, when the wind is just right, haunting, almost magical tones emerge form the depths of the forlorn tomb.
+
+It stands to reason the the Whispering Cairn might also hold a genuine opportunity for profit.  the the rough-and-tumble mining village of [[Diamond Lake]], where desperate folk slave in dank tunnels to profit wealthy masters, an opportunity for profit is an opportunity to escape.
 
 ### Inciting Action
-
-> [!kirk|info] Prompt (Remove me)
-> Craft a compelling introduction that draws the players into the quest and ignites their motivation to progress. Set the scene with an intriguing hook, whether it's a mysterious message, a call for aid, an unexpected event, or a personal connection to the unfolding story. Provide a compelling reason or incentive for the players to embark on this journey, whether it involves a quest for knowledge, the promise of rewards, the pursuit of justice, or the threat of impending danger. Ensure this introduction sparks curiosity and motivation, compelling the players to venture forward into the quest.
+Local sage [[Allustan]] provides a deed for the [[Diamond Lake Mining Office]] to his apprentice [[Zamosshe]] and tasks the party with exploring the Whispering Cairn.
 
 ### Resolution
 
@@ -59,6 +59,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 
 ## Scenes & Actors
 ### Characters
+**[[Allustan]]** has selfish motivations here beyond helping his apprentice.  He is very interested in the local cairns and any opportunity to get additional information about them is something he will jump at.
 
 > [!kirk|info] Prompt (Remove me)
 > List the characters involved in this quest and outline their roles in the storyline. Describe each character's significance, contributions, or specific purposes within the plot. Include any essential details about their backgrounds, motivations, unique abilities, or connections that directly impact the quest's progression. Ensure to note down any crucial interactions or moments these characters are pivotal in shaping throughout the storyline.

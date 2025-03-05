@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Kataklysmos.png
+art: zz-Attachments/Kataklysmos.png
 pronounced: cat-a-clys-mos
 aliases:
   - The Ruinous One, Lord of Anarchy, The Destroyer

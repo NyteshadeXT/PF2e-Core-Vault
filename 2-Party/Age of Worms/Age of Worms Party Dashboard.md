@@ -34,7 +34,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 >>	embed(link(art)) AS "Art",
 >>     "<span style='display: block; text-align: center; margin-bottom: 5px;'>" + link(file.link, Title) + "</span>" AS Title
 >> FROM "2-Party/Age of Worms"
->> WHERE econtains(whichparty, this.file.link) AND contains(tags, "Character") AND !contains(condition, "Dead")
+>> WHERE econtains(whichparty, this.file.link) AND contains(tags, "Character") AND !contains(condition, "Dead") AND contains(Status, "Active")
 >> SORT tags DESC, file.name ASC
 >>```
 

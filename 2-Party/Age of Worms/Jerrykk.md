@@ -3,15 +3,21 @@ noteType: Player
 tags:
   - "#Character"
   - "#Player"
-art: zz_Attachments/Misc/PlaceholderImage.png
+art: zz-Attachments/Jerrykk.png
 Status: Active
-Player: Mona
-pronounced: Bob Three
+Player: Bob
+pronounced: jair-rick
 Class: Witch
 level: 1
-Ancestry: Elf
-gender: Female
-age: Young Adult
+Ancestry: Goblin
+gender: Male
+age: Teen
+Heritage: Nephilim
+location:
+  - "[[Diamond Lake]]"
+whichparty:
+  - "[[Age of Worms Party Dashboard]]"
+condition: Healthy
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -63,7 +69,7 @@ age: Young Adult
 >  |
 > ---|---|
 > **Class** | `VIEW[{Class}]` |
-> **Level** | `VIEW[{Level}]` |
+> **Level** | `VIEW[{level}]` |
 > **Aliases** | `VIEW[{aliases}][text]` |
 > **Ancestry** | `VIEW[{Ancestry}]` |
 > **Heritage** | `VIEW[{Heritage}]` |
@@ -137,10 +143,10 @@ style: height: 700px;
 
 
 ### Journey
-
+His father Jorrkk was a scout for his clan, always delving into strange places. He met Jerrik's mother in a strange dungeon that seemed to be swept away after a season, in the Spring and Summer, he visited often, but never could remember quite clearly what took place there. It was gone by the first leaves of fall, but on his last trip out, he was surprised to be carrying a baby goblin out. When asked, he insisted the baby was his, but he wasn't at all clear how. Growing up, Jerrikk always loved the night sky more than anything, and asked far too many questions about the stars and planets and all the strange phenomena he saw, which made him unliked by many. One Elder was able to tolerate him, someone who turned out to share the same interests, and taught him all he knew. This Elder took him on as apprentice and aid in her twilight years. Flikka, she was called, and a very old goblin she was. Recently, after a bought of sickness, she passed, but on that very night two very strange things happened to occur. A terrible storm, and a strange raccoon appeared from the flames of Flikka's hearth, and spoke but once only in goblin voice to Jerrikk, "I am a part of yourself. Your mother by choice is now gone, but your mother in truth is calling for you. There are important things you must aid in the doing." As the strange racoon cuddled closely to him, Jerrikk's Halo manifested. Jerrikk had realized the only name he could give this special raccoon was his own, but he wishes not to talk about it to others, so makes it a joke of it normally.
 
 ### Worship
 
 
 ## Notes
-
+Jerrikk suspects his birth mother and patron might be the same being.

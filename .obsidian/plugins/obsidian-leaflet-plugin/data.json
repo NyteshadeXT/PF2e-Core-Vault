@@ -7112,9 +7112,178 @@
       ]
     },
     {
+      "id": "update-me",
+      "lastAccessed": 1738706903374,
+      "markers": [
+        {
+          "id": "ID_f8bac8f928e9",
+          "type": "City",
+          "loc": [
+            -0.001877389220069264,
+            0.00670033738886789
+          ],
+          "link": "Ch1. The Great Grain Robbery#A1. CRYSTAL ROOM TRIVIAL 3",
+          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7676806138406399,
+            0.3225074178937334
+          ],
+          "description": "A wooden table covered with crystals of various size, including three particularly large ones measuring nearly four feet in diameter, sits against the southern wall of this storeroom. Stairs lead up to the north, while a wooden door is tucked into the wall to the southwest.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b4a3bc80a28",
+          "type": "City",
+          "loc": [
+            -0.0024816064403214407,
+            0.0035389865757627505
+          ],
+          "link": "Ch1. The Great Grain Robbery#A2. WAX LABORATORY MODERATE 3",
+          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4054738185824958,
+            0.4263029087101073
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89786a3909f9",
+          "type": "City",
+          "loc": [
+            -0.0018182150447599687,
+            0.0013864627286143702
+          ],
+          "link": "Ch1. The Great Grain Robbery#A4. CLUTTERED STOREROOM",
+          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a481bbada38",
+          "type": "City",
+          "loc": [
+            -0.004186362168890082,
+            0.00650612471092969
+          ],
+          "link": "Ch1. The Great Grain Robbery#A3. DARIUS’S BEDROOM",
+          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7454290018452591,
+            0.7191544720848766
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b4af96bf979",
+          "type": "default",
+          "loc": [
+            -0.008189301253060754,
+            0.005696562774054017
+          ],
+          "link": "Dungeon#1 - Cave Entrance",
+          "layer": "%5B%5BDungeon-20231026224920033.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5837841093985989,
+            0.8385844483134213
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8ad9f9dae928",
+          "type": "default",
+          "loc": [
+            -0.0048828125,
+            0.005088802789211646
+          ],
+          "link": "Dungeon#2 - Main Passage",
+          "layer": "%5B%5BDungeon-20231026224920033.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5215008281372547,
+            0.5
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_082ada195aeb",
+          "type": "default",
+          "loc": [
+            -0.00421142578125,
+            0.007423414331434669
+          ],
+          "link": "Dungeon#3 - Cavern A",
+          "layer": "%5B%5BDungeon-20231026224920033.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7607519650115754,
+            0.43125
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b180a5abbcb",
+          "type": "Encounter",
+          "loc": [
+            -0.006109619280323386,
+            0.001307601784406432
+          ],
+          "link": "The Whispering Cairn.md#",
+          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.45102626601505225,
+            0.8281282505796762
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "zz-Templates/Markdown/Insert Dungeon Map (Leaflet).md",
+        "zz-Templates/Markdown/Insert Encounter Map (Leaflet).md"
+      ]
+    },
+    {
       "id": "Faerun_Map",
       "locked": true,
-      "lastAccessed": 1728317728289,
+      "lastAccessed": 1738706904759,
       "markers": [
         {
           "id": "ID_f8694bd8abe8",
@@ -11313,163 +11482,261 @@
       ]
     },
     {
-      "id": "update-me",
-      "lastAccessed": 1728494512113,
+      "id": "Ardentia_City",
+      "locked": false,
+      "lastAccessed": 1738887332321,
       "markers": [
         {
-          "id": "ID_f8bac8f928e9",
-          "type": "City",
+          "id": "ID_394adb185bf9",
+          "type": "Point of Interest",
           "loc": [
-            -0.001877389220069264,
-            0.00670033738886789
+            6.09375,
+            0.7578419083232093
           ],
-          "link": "Ch1. The Great Grain Robbery#A1. CRYSTAL ROOM TRIVIAL 3",
-          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
+          "link": "Isle of Learning",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.7676806138406399,
-            0.3225074178937334
+            24.250941066342698,
+            -195
           ],
-          "description": "A wooden table covered with crystals of various size, including three particularly large ones measuring nearly four feet in diameter, sits against the southern wall of this storeroom. Stairs lead up to the north, while a wooden door is tucked into the wall to the southwest.",
+          "description": "The Isle of Learning is the intellectual and magical heart of Ardentia City.",
           "minZoom": null,
-          "maxZoom": null,
+          "maxZoom": 7,
           "tooltip": "hover"
         },
         {
-          "id": "ID_9b4a3bc80a28",
-          "type": "City",
+          "id": "ID_db4a5bdaf8a9",
+          "type": "Point of Interest",
           "loc": [
-            -0.0024816064403214407,
-            0.0035389865757627505
+            3.9320068359375,
+            0.46100246283036883
           ],
-          "link": "Ch1. The Great Grain Robbery#A2. WAX LABORATORY MODERATE 3",
-          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.4054738185824958,
-            0.4263029087101073
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_89786a3909f9",
-          "type": "City",
-          "loc": [
-            -0.0018182150447599687,
-            0.0013864627286143702
-          ],
-          "link": "Ch1. The Great Grain Robbery#A4. CLUTTERED STOREROOM",
-          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
+          "link": "Merchant's Circle",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
+          "description": "The Merchant’s Circle is one of the largest and most vibrant districts of Ardentia City, home to merchants, artisans, and upper-class residents who thrive on trade, craftsmanship, and commerce.",
+          "minZoom": null,
+          "maxZoom": 7,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa59cb5a9b29",
+          "type": "Point of Interest",
+          "loc": [
+            6.9609375,
+            5.195311410802844
+          ],
+          "link": "Haven",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            166.24996514569102,
+            -222.75
+          ],
           "description": null,
           "minZoom": null,
+          "maxZoom": 7,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cae9291b4aa9",
+          "type": "Point of Interest",
+          "loc": [
+            5.0804443359375,
+            6.796861696234738
+          ],
+          "link": "Shattered Ward",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The Shattered Ward is a small, ruined section of Ardentia City that has been walled off from the rest of Haven. ",
+          "minZoom": null,
+          "maxZoom": 7,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28ca1aaac8b8",
+          "type": "Point of Interest",
+          "loc": [
+            1.0078125,
+            6.281250311199187
+          ],
+          "link": "Seekers Quarter",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            201.000009958374,
+            -32.25
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 7,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99683b9ab979",
+          "type": "Point of Interest",
+          "loc": [
+            2.0888671875,
+            5.709960918050051
+          ],
+          "link": "Arcane Exchange Consortium Headquarters",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            182.71874937760163,
+            -66.84375
+          ],
+          "description": null,
+          "minZoom": 9,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_0a481bbada38",
-          "type": "City",
+          "id": "ID_68ba398babdb",
+          "type": "Point of Interest",
           "loc": [
-            -0.004186362168890082,
-            0.00650612471092969
+            4.3359375,
+            2.2910158583993905
           ],
-          "link": "Ch1. The Great Grain Robbery#A3. DARIUS’S BEDROOM",
-          "layer": "%5B%5Bmap%20-%20Crystals%20and%20Candlewax.png%5D%5D",
+          "link": "Eligos' House",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.7454290018452591,
-            0.7191544720848766
+            73.3125074687805,
+            -138.75
           ],
           "description": null,
-          "minZoom": null,
+          "minZoom": 9,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_2b4af96bf979",
-          "type": "default",
+          "id": "ID_2ae9caba6b7b",
+          "type": "Point of Interest",
           "loc": [
-            -0.008189301253060754,
-            0.005696562774054017
+            4.3916015625,
+            4.560555432977654
           ],
-          "link": "Dungeon#1 - Cave Entrance",
-          "layer": "%5B%5BDungeon-20231026224920033.webp%5D%5D",
+          "link": "The Crooked House",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.5837841093985989,
-            0.8385844483134213
+            145.93777385528492,
+            -140.53125
           ],
           "description": null,
-          "minZoom": null,
+          "minZoom": 9,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_8ad9f9dae928",
-          "type": "default",
+          "id": "ID_992ae9e8bbe9",
+          "type": "Point of Interest",
           "loc": [
-            -0.0048828125,
-            0.005088802789211646
+            7.00390625,
+            1.6425780472002032
           ],
-          "link": "Dungeon#2 - Main Passage",
-          "layer": "%5B%5BDungeon-20231026224920033.webp%5D%5D",
+          "link": "Aetherial Cathedral",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.5215008281372547,
-            0.5
+            52.5624975104065,
+            -224.125
           ],
           "description": null,
-          "minZoom": null,
+          "minZoom": 9,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_082ada195aeb",
-          "type": "default",
+          "id": "ID_6bd91bfb6b2b",
+          "type": "Point of Interest",
           "loc": [
-            -0.00421142578125,
-            0.007423414331434669
+            5.166015625,
+            1.0488280083003048
           ],
-          "link": "Dungeon#3 - Cavern A",
-          "layer": "%5B%5BDungeon-20231026224920033.webp%5D%5D",
+          "link": "Arcane Apothecary",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.7607519650115754,
-            0.43125
+            33.56249626560975,
+            -165.3125
           ],
           "description": null,
-          "minZoom": null,
+          "minZoom": 9,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_2b180a5abbcb",
-          "type": "Encounter",
+          "id": "ID_2a89fbda9ba9",
+          "type": "Point of Interest",
           "loc": [
-            -0.006109619280323386,
-            0.001307601784406432
+            5.078125,
+            4.375009647174809
           ],
-          "link": "The Whispering Cairn.md#",
-          "layer": "%5B%5BWhispering%20Cairn.webp%5D%5D",
+          "link": "Bloodstone Arena",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.45102626601505225,
-            0.8281282505796762
+            140.0003087095939,
+            -162.5
           ],
           "description": null,
-          "minZoom": 0,
+          "minZoom": 9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_998b891bd82a",
+          "type": "Point of Interest",
+          "loc": [
+            6.67578125,
+            1.935547069499492
+          ],
+          "link": "Codex Arcanum",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            61.937506223983746,
+            -213.625
+          ],
+          "description": "The Codex Arcanum, the Conclave's repository of knowledge, is a vast library.",
+          "minZoom": 9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f83929fb4b58",
+          "type": "Point of Interest",
+          "loc": [
+            5.91015625,
+            1.849609102700711
+          ],
+          "link": "Terramore Academy",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            59.187491286422755,
+            -189.125
+          ],
+          "description": null,
+          "minZoom": 9,
           "maxZoom": null,
           "tooltip": "hover"
         }
@@ -11477,14 +11744,13 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "zz-Templates/Markdown/Insert Dungeon Map (Leaflet).md",
-        "zz-Templates/Markdown/Insert Encounter Map (Leaflet).md",
-        "4-Campaign/Age of Worms/Diamond Lake Mining Office.md"
+        "5-World/Settlements/Ardentia City.md",
+        "5-World/Districts/Isle of Learning.md"
       ]
     },
     {
       "id": "Whispering Cairn",
-      "lastAccessed": 1737915434498,
+      "lastAccessed": 1741194158463,
       "markers": [
         {
           "id": "ID_a8393b2809ab",
@@ -11649,22 +11915,22 @@
     },
     {
       "id": "Lair of the Architect",
-      "lastAccessed": 1737915434498,
+      "lastAccessed": 1741194158463,
       "markers": [
         {
           "id": "ID_2a6aaa484af8",
           "type": "Encounter",
           "loc": [
-            -0.0007965087424963713,
-            0.0016098119557908944
+            -0.0010250113557849429,
+            0.0014998990974043481
           ],
           "link": "The Whispering Cairn#9. Architect's Foyer",
           "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.44421320561984023,
-            0.16597773274480823
+            0.41388373577891097,
+            0.2135934633154913
           ],
           "description": null,
           "minZoom": 0,
@@ -11675,14 +11941,17 @@
           "id": "ID_d80a990ac939",
           "type": "Encounter",
           "loc": [
-            -0.0019121170626021922,
-            0.0018024402100153122
+            -0.001791072474318953,
+            0.001985037564269572
           ],
           "link": "The Whispering Cairn#10. Passage of Honor",
           "layer": "%5B%5BLair%20of%20the%20Architect%20Map.webp%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.5477533549977712,
+            0.37322647274075327
+          ],
           "description": null,
           "minZoom": 0,
           "maxZoom": null,
@@ -11777,7 +12046,7 @@
     },
     {
       "id": "Lair of the Laborers",
-      "lastAccessed": 1737915434498,
+      "lastAccessed": 1741194158463,
       "markers": [
         {
           "id": "ID_f8094b6938c9",
@@ -11945,7 +12214,7 @@
     },
     {
       "id": "The True Tomb",
-      "lastAccessed": 1737915434498,
+      "lastAccessed": 1741194158463,
       "markers": [
         {
           "id": "ID_9acbda8979e9",

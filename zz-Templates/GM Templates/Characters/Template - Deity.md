@@ -26,21 +26,27 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 >> **Pronounced** |  `INPUT[textArea:pronounced]` |
 >> **Aliases** | `INPUT[list:aliases]` |
 >> **Alignment** | `INPUT[Alignment][:alignment]` |
+>> **Portfolio** | `INPUT[textArea:portfolio]` |
+>> **Condition** | `INPUT[Condition][:condition]` |
 >
 >> [!metadata|metadataoption]- Deity Info
 >> #### Deity Info
 >>  |
 >>---|---|
->> **Portfolio** | `INPUT[textArea:portfolio]` |
 >> **Domains** | `INPUT[textArea:domains]` |
 >> **Favored Weapon** |  `INPUT[textArea:favored_weapon]` |
 >> **Symbol** |  `INPUT[textArea:symbol]` |
->> **Occupations** | `INPUT[Occupation][inlineListSuggester:occupation]` |
 >> **Power** | `INPUT[DeityPower][:deitypower]` |
+>> **Edicts** | `INPUT[textArea:edicts]`
+>> **Anathema**| `INPUT[textArea:anathema]`
+>> **Divine Attributes** | First: `INPUT[Attributes][:divinteattribute1]` Second: `INPUT[Attributes][:divinteattribute2]` |
+>> **Cleric Spells** |  `INPUT[textArea:spells]` |
+>> **Divine Font** | `INPUT[Font][:divinefont]` |
+>> **Divine Sanctification** | `INPUT[Sanctification][:divinesanctification]` |
+>> **Divine Skill** | `INPUT[Skill][:divineskill]` |
 >> **Organizations** | `INPUT[inlineListSuggester(optionQuery(#Organization AND !"z_Templates"), useLinks(partial)):organization]` |
 >> **Owned Locations** | `INPUT[inlineListSuggester(optionQuery(#Location AND !"z_Templates"), useLinks(partial)):ownedlocation]` |
 >> **Current Location** | `INPUT[inlineListSuggester(optionQuery(#Location AND !"z_Templates"), useLinks(partial)):location]` |
->> **Condition** | `INPUT[Condition][:condition]` |
 >
 >> [!metadata|metadataoption]- Party Info
 >> #### Party Info

@@ -3,7 +3,7 @@ noteType: Player
 tags:
   - "#Character"
   - "#Player"
-art: zz-Attachments/Assets/PlaceholderImage.png
+art: zz-Attachments/Zamosshe.png
 Status: Active
 Player: Aaron
 Class: Wizard
@@ -69,7 +69,7 @@ condition: Healthy
 >  |
 > ---|---|
 > **Class** | `VIEW[{Class}]` |
-> **Level** | `VIEW[{Level}]` |
+> **Level** | `VIEW[{level}]` |
 > **Aliases** | `VIEW[{aliases}][text]` |
 > **Ancestry** | `VIEW[{Ancestry}]` |
 > **Heritage** | `VIEW[{Heritage}]` |

@@ -1,52 +1,24 @@
 {
   "main": {
-    "id": "8569cf4da8da65a5",
+    "id": "b0ef98d485d56787",
     "type": "split",
     "children": [
       {
-        "id": "d2afee8d8a83cc6c",
+        "id": "5861e766afcbbbb8",
         "type": "tabs",
         "children": [
           {
-            "id": "cee83e26bcc52550",
+            "id": "6b8c0a204ad80960",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/Untitled.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "1bba4af1f1546967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/Silver Diadem of Insight.md",
+                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Silver Diadem of Insight"
-            }
-          },
-          {
-            "id": "a1999ba29c61e37a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Bestiaries/Uniques/Filge.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Filge"
+              "title": "The Whispering Cairn"
             }
           }
         ]
@@ -55,27 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a75f3cc7dc32c5b9",
+    "id": "546d4f785b17a61d",
     "type": "split",
     "children": [
       {
-        "id": "e7fcd6034e42a9fe",
+        "id": "7e8fdd68cf406e62",
         "type": "tabs",
         "children": [
           {
-            "id": "091c969fffb4ae05",
+            "id": "b0b397f3f63615b9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "6167d132a1cf6934",
+            "id": "89a17b62e080edfa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -92,7 +65,7 @@
             }
           },
           {
-            "id": "e60f8a94938d263a",
+            "id": "1a663a26cb20edcc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 240.5
   },
   "right": {
-    "id": "ef89a336304e207c",
+    "id": "57b1fb15c090fb04",
     "type": "split",
     "children": [
       {
-        "id": "1329319cfc3a66f6",
+        "id": "abcd15c049b26d72",
         "type": "tabs",
         "children": [
           {
-            "id": "c54b4dcbd8351167",
+            "id": "a9b33f6a8e027efd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Rules/Bestiaries/Uniques/Filge.md",
+                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Filge"
+              "title": "Backlinks for The Whispering Cairn"
             }
           },
           {
-            "id": "8f26666a4b2e39b2",
+            "id": "61621d2877f8b8d4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Rules/Hazards/Homebrew/false-elevator-hb.md",
+                "file": "5-World/NPCs/Diamond Lake/Allustan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from false-elevator-hb"
+              "title": "Outgoing links from Allustan"
             }
           },
           {
-            "id": "1fd9ac48193ffc76",
+            "id": "9629f773f93d6b31",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -162,19 +135,19 @@
             }
           },
           {
-            "id": "50e534520f8d0992",
+            "id": "3ed68c9660289b9f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Rules/Bestiaries/Uniques/Filge.md"
+                "file": "5-World/NPCs/Diamond Lake/Allustan.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Filge"
+              "title": "Outline of Allustan"
             }
           },
           {
-            "id": "a18c57f4fa08d152",
+            "id": "8f24a23394a72c8b",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -184,47 +157,7 @@
             }
           },
           {
-            "id": "42401e1d59bf1b49",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "022f5ed7082319fc",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "697e11f212fa907e",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f184718b39e2674e",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "bbcf40cfba39cbea",
+            "id": "944d506616144664",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -233,35 +166,15 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "ce0346597aa90d22",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "792bee0c4886ea75",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 267.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "helpmate:HelpMate": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -274,53 +187,46 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-import-json:JSON/CSV Importer": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "helpmate:HelpMate": false
     }
   },
-  "active": "cee83e26bcc52550",
+  "active": "6b8c0a204ad80960",
   "lastOpenFiles": [
+    "4-Campaign/Age of Worms/Untitled.md",
     "4-Campaign/Age of Worms/The Whispering Cairn.md",
-    "1-GM Toolkit/Untitled.md",
-    "3-Rules/Character Building/Equipment/Silver Diadem of Insight.md",
-    "3-Rules/Bestiaries/Uniques/Filge.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 003.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 002.md",
+    "1-GM Toolkit/Vault Report.md",
+    "1-GM Toolkit/Travel Calculator.md",
+    "1-GM Toolkit/Home.md",
+    "2-Party/Age of Worms/Age of Worms Party Dashboard.md",
+    "1-GM Toolkit/Party 1%2FExample Party 1.md",
+    "1-GM Toolkit/Lampoteuo.md",
     "2-Session Journals/Age-of-Worms/AoW Session 001.md",
-    "5-World/Points of Interest/Diamond Lake/The Captain's Blade.md",
-    "5-World/Points of Interest/Diamond Lake/General Store - Diamond Lake.md",
-    "5-World/NPCs/Diamond Lake/Tyrol Ebberly.md",
-    "zz-Templates/GM Templates/Characters/Template - NPC.md",
-    "5-World/NPCs/Diamond Lake/Taggin.md",
-    "zz-Templates/GM Templates/Locations/Template - Point of Interest.md",
-    "5-World/Points of Interest/Diamond Lake/Tidwod's.md",
-    "5-World/Points of Interest/Ardentia City",
-    "5-World/Points of Interest/Diamond Lake",
-    "5-World/Points of Interest/Untitled.md",
-    "5-World/Factions/The Aetherial Wardens.md",
-    "4-Campaign/Age of Worms/Completed/Diamond Lake Mining Office.md",
-    "5-World/NPCs/Ellival Moonmeadow.md",
-    "5-World/NPCs/Diamond Lake/Tidwoad.md",
-    "5-World/NPCs/Diamond Lake/Balabar Smenk.md",
-    "5-World/NPCs/Diamond Lake/Allustan.md",
-    "5-World/NPCs/Diamond Lake/Lanod Neff.md",
-    "5-World/NPCs/Ardentia City/Manzorian.md",
-    "5-World/Factions/Arcane Exchange Consortium.md",
-    "3-Rules/Character Building/Equipment/Homebrew/Rockhammer.md",
+    "zz-Templates/GM Templates/Story Notes/Template - Session Note.md",
+    "2-Party/Age of Worms/Akiowen.md",
+    "1-GM Toolkit/DM-Screen.md",
+    "1-GM Toolkit/DM Board.md",
     "1-GM Toolkit/Adventure Loot.md",
-    "3-Rules/Character Building/Equipment/Homebrew",
-    "zz-Attachments/Sarcophagus.png",
-    "zz-Attachments/Lantern.webp",
+    "2-Session Journals/Age-of-Worms/Aow Session 006.md",
+    "1-GM Toolkit/Tests/Valindra Morrana.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 004.md",
+    "2-Party/Age of Worms/Gornak.md",
+    "2-Party/Age of Worms/Haight Enashberry.md",
+    "2-Party/Age of Worms/Jerrykk.md",
+    "zz-Attachments/Jerrykk.png",
+    "2-Party/Age of Worms/Zamosshe.md",
+    "zz-Attachments/Zamosshe.png",
+    "zz-Attachments/image-1.png",
+    "zz-Attachments/image.png",
+    "2-Session Journals/Age-of-Worms/AoW Session 005.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 003.md",
+    "3-Rules/Bestiaries/Homebrew/wind-warrior.md",
+    "3-Rules/Hazards/Homebrew/hail-of-iron-spheres-hb.md",
+    "1-GM Toolkit/Tests/Untitled 1.md",
+    "zz-Attachments/Whispering Cairn.webp",
     "zz-Attachments/The Whispering Cairn-Entrance.webp",
-    "zz-Attachments/Akiowen.webp",
-    "zz-Attachments/Haight.webp",
-    "zz-Attachments/Gornak.webp",
-    "zz-Attachments/Aegis.png",
-    "zz-Attachments/Age of Worms-20241013135345875.webp",
-    "zz-Attachments/Assets/AdventureIcon.png",
-    "zz-Attachments/Assets/ImagePlaceholder.png",
-    "4-Campaign/Age of Worms/Completed",
-    "5-World/NPCs/Ardentia City",
-    "5-World/NPCs/Diamond Lake",
-    "3-Rules/Bestiaries/Uniques"
+    "zz-Attachments/Ardentia City Map.png"
   ]
 }

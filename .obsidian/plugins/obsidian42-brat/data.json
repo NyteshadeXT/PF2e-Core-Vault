@@ -1,7 +1,6 @@
 {
   "pluginList": [
-    "MostTornBrain/monster-mash",
-    "ObsidianTTRPGProject/gemmy_ttrpg"
+    "MostTornBrain/monster-mash"
   ],
   "pluginSubListFrozenVersion": [],
   "themesList": [],
@@ -13,5 +12,6 @@
   "loggingVerboseEnabled": false,
   "debuggingMode": true,
   "notificationsEnabled": true,
+  "personalAccessToken": "",
   "ribbonIconEnabled": true
 }
