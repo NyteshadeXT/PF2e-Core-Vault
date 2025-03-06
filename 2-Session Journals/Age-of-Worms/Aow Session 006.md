@@ -11,6 +11,7 @@ quicknote: |-
 locations:
   - "[[4-Campaign/Age of Worms/The Whispering Cairn.md|The Whispering Cairn]]"
 ---
+
 > [!metadata|metadata]- Metadata 
 >> [!metadata|metadataoption]- System
 >> #### System

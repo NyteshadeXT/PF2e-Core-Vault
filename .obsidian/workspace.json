@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b8c0a204ad80960",
+            "id": "b668cc7374b689f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Campaign/Age of Worms/Age of Worms Outline.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Age of Worms Outline"
+            }
+          },
+          {
+            "id": "6324789901722c48",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -193,25 +207,28 @@
       "helpmate:HelpMate": false
     }
   },
-  "active": "6b8c0a204ad80960",
+  "active": "b668cc7374b689f8",
   "lastOpenFiles": [
-    "4-Campaign/Age of Worms/Untitled.md",
     "4-Campaign/Age of Worms/The Whispering Cairn.md",
+    "4-Campaign/Age of Worms/Age of Worms Outline.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 004.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 003.md",
+    "2-Session Journals/Age-of-Worms/Aow Session 006.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 005.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 002.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 001.md",
     "1-GM Toolkit/Vault Report.md",
     "1-GM Toolkit/Travel Calculator.md",
     "1-GM Toolkit/Home.md",
     "2-Party/Age of Worms/Age of Worms Party Dashboard.md",
     "1-GM Toolkit/Party 1%2FExample Party 1.md",
     "1-GM Toolkit/Lampoteuo.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 001.md",
     "zz-Templates/GM Templates/Story Notes/Template - Session Note.md",
     "2-Party/Age of Worms/Akiowen.md",
     "1-GM Toolkit/DM-Screen.md",
     "1-GM Toolkit/DM Board.md",
     "1-GM Toolkit/Adventure Loot.md",
-    "2-Session Journals/Age-of-Worms/Aow Session 006.md",
     "1-GM Toolkit/Tests/Valindra Morrana.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 004.md",
     "2-Party/Age of Worms/Gornak.md",
     "2-Party/Age of Worms/Haight Enashberry.md",
     "2-Party/Age of Worms/Jerrykk.md",
@@ -220,11 +237,8 @@
     "zz-Attachments/Zamosshe.png",
     "zz-Attachments/image-1.png",
     "zz-Attachments/image.png",
-    "2-Session Journals/Age-of-Worms/AoW Session 005.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 003.md",
     "3-Rules/Bestiaries/Homebrew/wind-warrior.md",
     "3-Rules/Hazards/Homebrew/hail-of-iron-spheres-hb.md",
-    "1-GM Toolkit/Tests/Untitled 1.md",
     "zz-Attachments/Whispering Cairn.webp",
     "zz-Attachments/The Whispering Cairn-Entrance.webp",
     "zz-Attachments/Ardentia City Map.png"

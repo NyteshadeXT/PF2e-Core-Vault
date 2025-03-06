@@ -2,11 +2,6 @@
 tags:
   - "#SessionNote"
 sessiondate: 2025-01-24
-characters:
-  - "[[Akiowen]]"
-  - "[[Gornak]]"
-  - "[[Haight Enashberry]]"
-  - "[[Zamosshe]]"
 locations:
   - "[[4-Campaign/Age of Worms/The Whispering Cairn.md|The Whispering Cairn]]"
   - "[[5-World/Settlements/Diamond Lake.md|Diamond Lake]]"
