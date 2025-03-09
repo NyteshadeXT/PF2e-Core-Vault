@@ -1,6 +1,3 @@
-
-The Seer's Fate
-md
 ---
 title: The Seer's Fate
 aliases: 

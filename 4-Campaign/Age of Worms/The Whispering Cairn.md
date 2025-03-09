@@ -718,10 +718,10 @@ This room represents Nadroc's last attempt to dispense with unwanted tomb robber
 
 > [!danger]+ Trap
 > [[hail-of-iron-spheres-hb|Hail of Iron Spheres]]
-- [ ] Moderate (8 XP) Level 2
+- [x] Moderate (8 XP) Level 2
 
 **Encounter Difficulty:**   
-- [ ] Trivial (60 XP) Level 2
+- [x] Trivial (60 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[3-Rules/Bestiaries/Adventure Paths/Agents of Edgewatch/Grick|Grick]] W
@@ -770,10 +770,10 @@ When the PCs return Alastor Land's bones to his family plot at the Land farmstea
 > [!tip]+ Treasure
 > The following goods may be harvested from decomposed bodies buried within the iron spheres.
 > 
-> - [ ] gp::4
-> - [ ] sp::7
-> - [ ] permanent::[[Weapon Potency (+1)|+1 Long Sword]] [ilvl::2] [gp::35]
-> - [ ] permanent::[[Half Plate|Half Plate]] [ilvl::1] [gp::18]
+> - [x] gp::4
+> - [x] sp::7
+> - [x] permanent::[[Weapon Potency (+1)|+1 Long Sword]] [ilvl::2] [gp::35]
+> - [x] permanent::[[Half Plate|Half Plate]] [ilvl::1] [gp::18]
 
 ## 24. The Chamber of Sighs
 > [!note]+ Read Aloud
@@ -1016,24 +1016,9 @@ darkMode: false
 
 ## 1. Landing 
 > [!note]+ Read Aloud
-> The stairway rises to a wide landing and two huge wooden doors.  Shot though with dark blue mold, the doors form an enormous round moon carved wit a lunatic's jabbering face.  Beneath the landing, an unremarkable wooden door appears to lead to a tool closet under the stairs.
+> The stairway rises to a wide landing and two huge wooden doors.  Shot though with dark blue mold, the doors form an enormous round moon carved wit a lunatic's jabbering face.  
 
 The massive moon-face doors are held shut with a simple lock (DC 20 [[Skills#Thievery|Thievery]]).  If this check fails by 5 or more, the skeletons in area 2 hear the commotion and prepare for the PCs. 
-
-**Encounter Difficulty:**   
-- [ ] Low (80 XP) Level 2
-
-At the start of the encounter, place the following foes on the map: 
- - 2: [[tomb-mote|Tomb Mote]] 
-
-```encounter
-name: Landing
-party: Age of Worms
-creatures:
-  - 2: [[Tomb Mote]]
-```
-
-The small door below the landing leads to a grubby tools closet.  It too is locked with a simple lock (DC 20 [[Skills#Thievery|Thievery]]). The closet is home to a pair of tomb motes, tiny undead creatures composed of bone shards, matted hair, bits of shattered tombstone, dirt, and rotting, mismatched teeth.  Filge uses tomb motes as messengers when needed. They immediately attacks anyone but Filge who opens the door.
 
 ## 2. Watchers in the Dark
 > [!note]+ Read Aloud
@@ -1089,32 +1074,17 @@ Seconds after the feast begins, a zombie turns to look directly at the seated PC
 
 Thereafter, other diners chime in with sycophantic comments of their own.  "The Arcane Conclave was wrong to turn you out," a male elf corpse remarks. "You ought to show them like you showed me." The tattered remains of what must once have been a young woman speak up next.  "I shouldn't have ever doubted you, Filge," it says earnestly. "I always loved you when we were together. Now I will love you forever." Conversation continues along these lines until the seated PC stands up, at which point the production comes to a close and the zombies "reset" to their beginning positions.  Each time a character sits at the head of the table, the script begins again.
 
-> [!tip]+ Treasure
-> The rotting shelves along the west wall hold a set of silver dining utensils worth 10 gp.
-> 
-> - [ ] gp::10
-
 > [!warning]
 > Since these zombies do not fight back, award no experience points for their defeat
 
 ## 6. Kitchen
 The kitchen contains an enormous wheel of cheese, a moldy loaf of bread, and several strips of string cured meat-salted swine hearts.  
 
-> [!tip]+ Treasure
-> Filge's shoddy cutlery might fetch 4 sp in town.
-> 
-> - [ ] sp::4
-
 ## 7. Pantry
 A small closet off the kitchen's west wall holds a handful of spices and dry food favored by Filge.  His diet portrays a lack of depth or creativity and most of the shelves are empty.
 
 ## 8. Storage Closet
 This simple storage closet holds for extra chairs and eight copper candle stands worth 2 sp each.
-
-> [!tip]+ Treasure
-> The eight copper candle stands are worth 2 sp each.
-> 
-> - [ ] sp::16
 
 ## 9. Bedchamber
 > [!note]+ Read Aloud
@@ -1137,7 +1107,7 @@ The halfling "statue" is really a mummified goblin dressed in a fine suit and ha
 The angelic figure is an idealized representation of Filge himself.
 
 > [!tip]+ Treasure
-> Filge's spellbook rests upon the nightstand next to the bed.  It contains the following spells: .
+> Filge's spellbook rests upon the nightstand next to the bed.  It contains the following spells: [[3-Rules/Character Building/Spells/Detect Magic|Detect Magic]], [[Ray of Frost]], [[Illusory Disguise]], [[Vitality Lash]], [[Touch of the Void]], [[Void Warp]], [[Mystic Armor]], [[Enfeeble]], [[Embed Message]], [[Ghostly Carrier]] and [[Stupefy]].
 > 
 > The silver tray held by the mummified sentry is worth 2 gp. The A large run of golden brown fur is worth 8 gp, but must be carried carefully to ensure that its coat does not become soiled.  A DC 15 [[Skills#Occultism|Occultism]] check identifies the pelt as that of an adult lammasu.
 > 
