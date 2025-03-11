@@ -38,7 +38,8 @@ awarded_consumable_items:
   - name: Spell Scroll (1st level) Detect Metal
     ilvl: 1
     gp: 4
-whichparty: "[[Age of Worms Party Dashboard]]"
+whichparty:
+  - "[[Age of Worms Party Dashboard]]"
 ---
 
 
@@ -1170,35 +1171,32 @@ The four tanks surrounding the recessed floor contain FIlge's proudest accomplis
 
 The four zombies crash out of their tanks and move to form a wall between the PCs and Filge.  If possible, they attack.  The skeleton attacks if possible or stands its ground and readies an attack against the next available foe.
 
-Round 3: If it seems safe and he has not already doen so, Filger injects himself with [[False Vitality|Vial of False Vitality]]. Otherwise, he casts [[]]
-## Features of the Area
+*Following Rounds:* The undead continue to engage in melee with the PCs.  Filge casts spells as appropriate though the encounter reserving enfeeble for any melee-oriented PC who seems to be doing well against the monstrosities.
 
+Filge surrenders only when all of his undead creations have been destroyed or turned against him.  He remains a pragmatist even in defeat; when he knows there is no way out, he blithely offers to "sell out Smenk completely" in exchange for his freedom.  He lets the PCs keep whatever they want, so long as they let him go.  If his attitude can be adjusted to friendly or better, he tells the PCs everything he knows about [[Balabar Smenk]]'s operation in Diamond Lake, the Dourstone Mine and the Ebon Triad.  See Development below for more information.
 
+> [!tip]+ Treasure
+> Filge's fine silver operating instruments are worth 50 gp as a set.  A 2 gp emerald is lodged in the throat of the corpse on the operating table.  On one of the shelves flanking the operating table rests a glass tube about a foot long and half as wide.  A slim green worm bobs in the murky chemical solution within the jar.  A DC 15 [[Skills#Religion|Religion]] check identifies the segmented worm as a part of an undead creature called a spawn of Kyuss.  The sample is worth 10 gp to a sage or taxidermist.  Flashing it around in [[Diamond Lake]] is a good way to attract the attention of [[The Ebon Triad]].
+> 
+> The most important treasure in the room may be the bones of Gertia Land, which the PCs must return to the grave of the Land farmstead to appease the ghost of Alastor Land in [[#23. Alastor's Haunt]].
+> 
+> - [ ] gp::52
 
+## Development
+Presuming the PCs defeat Filge without killing him, they can learn a lot from the humiliated wizard.  He doesn't volunteer information, but once cowed he responds thoroughly to direct questions, hoping that his honesty encourages the PCs to spare his miserable life.  
 
+*Why are you here?* "Me mate Balabar called me up from Ardentia City for a bit of study about some weirdness in town. He got himself brough down to a hidden part of the Dourstone Mines a month ago, to set up some provisioning deal with the dwarf what runs the place.  But the mine was crawling with awful beasts in hooded robes.  He said their wild cries made his stomach heave.  The cultists-the called themselves the Ebon Triad-said something about the Age of Worms, about strange undead in the southern hills and the swamp. Smenk knew he had to prepare a defense, so he called in his undead expert.  Me."
 
+*Why did you steal the Land skeletons?* "The who?  I needed helpers, so I got Smenk's white half-orc to fetch the raw materials.  I have no idea where he got them.  Are you telling me you came here because of the skeletons?!?!  Curse the pink-eyed fiend!"
 
+*The Age of Worms* "The Age of Worms is a Waiting Age, an era of catastrophe that lurks in the shadows of every tomorrow.  Scholars obsessed with apocalyptic visions claim that its advent signals an interminable period of suffering in which the cosmic scales shift disastrously toward evil and light fades from the land."
 
+*Balabar Smenk* "He and I were mates 20 years ago in Ardentia City.  I laugh not to think of how far he's come in so little time.  how respectful people around here are toward him.  Ha!  If they only knew!"
 
+*The Dourstone Mines* "I think it's along the road east of here, but this hell-hole is your town, not mine.  You tell me where it is.  If you're going, best be careful.  Smenk said the place scarred him, which I wouldn't have thought possible before I heard him say it myself."
 
+*The Ebon Triad* "Smenk says the cult follows some of the old gods.  Hextor, Erythnul and Vecna I think. If true, the place must be crawling with delicious secrets.  I'd love to accompany you if you intend to go."
 
+*The Green Worm* "Balabar nicked that jar from a laboratory in the Dourstone Mine. It's very rare.  Dead now, of course, but once it hand hundreds of worms like it must have wriggled within the abscesses and orifices of a powerful undead creature called a spawn of Kyuss.  These are probably the 'unkillable' zombies the cultists mentioned to Smenk.  If true, it could be a real problem. Those worms can get inside you and turn you undead in about a day."
 
-
-
-## [[Template - Quest]]
-### Aftermath
-> [!kirk|info] Prompt (Remove me)
-Reflect on the aftermath of the quest through the perspectives of NPCs and the impact it has had on those involved and the surrounding areas. Describe how the events of the quest have influenced the lives, emotions, or circumstances of the NPCs connected to the journey. How has the resolution or outcome affected their daily lives, relationships, or beliefs? Furthermore, explore the repercussions on the surrounding areas—has it brought change, stability, or chaos? What lasting effects or changes can be observed in the environment or among the people post-quest?
-
-### Events Between Next Quests
-> [!kirk|info] Prompt (Remove me)
-Detail the events and developments that unfold between the previous quest and the upcoming one. Describe how the resolution of the previous quest has influenced the environment, characters, or circumstances. Have there been any lingering consequences, new opportunities, or challenges emerging from the aftermath of the previous quest? Furthermore, set the stage for the next quest—what seeds are being sown, what rumors are spreading, or what new developments are arising that may lead the characters into their next journey?
-
-## [[Template - Quest]]
-### Aftermath
-
-
-### Events between Next Quest
-
-
-## Notes
+*Kyuss* "No one knows much.  He appeared more than a thousand years ago in the Rift Canyon.  I'm not even sure if that exists following the Sundering.  In a short time, he created dozens of new undead breeds and amassed a legion of creatures bound to his will.  They san an undead dragon stood at his side as the general of this force.  Now, only the green worms remain of his legacy.  Well, that and his title: Harbinger of the Age of Worms."

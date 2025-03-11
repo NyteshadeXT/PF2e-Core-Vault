@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/Age of Worms Outline.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Age of Worms Outline"
-            }
-          },
-          {
-            "id": "a591b46f9831378b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Bestiaries/Uniques/Rastophan.md",
+                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rastophan"
+              "title": "The Whispering Cairn"
             }
           },
           {
@@ -50,21 +36,20 @@
             }
           },
           {
-            "id": "e2fe6c194e23b1b9",
+            "id": "ed30422bb4ca35a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
-                "mode": "preview",
+                "file": "4-Campaign/Age of Worms/The Three Faces of Evil.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Whispering Cairn"
+              "title": "The Three Faces of Evil"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,14 +221,20 @@
       "helpmate:HelpMate": false
     }
   },
-  "active": "e2fe6c194e23b1b9",
+  "active": "b668cc7374b689f8",
   "lastOpenFiles": [
-    "3-Rules/Bestiaries/Uniques/Rastophan.md",
+    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
     "4-Campaign/Age of Worms/The Whispering Cairn.md",
+    "4-Campaign/Age of Worms/Age of Worms Outline.md",
+    "zz-Templates/GM Templates/Locations/Template - Adventure.md",
+    "zz-Templates/GM Templates/Story Notes/Template - Quest.md",
+    "4-Campaign/Age of Worms/Quests/The Whispering Cairn.md",
+    "3-Rules/Bestiaries/Uniques/Filge.md",
     "3-Rules/Bestiaries/Uniques/Todrik.md",
     "3-Rules/Bestiaries/Uniques/Merovinn Bask.md",
-    "4-Campaign/Age of Worms/Age of Worms Outline.md",
+    "3-Rules/Bestiaries/Uniques/Rastophan.md",
     "3-Rules/Bestiaries/Uniques/Kullen.md",
+    "1-GM Toolkit/Travel Calculator.md",
     "5-World/NPCs/Diamond Lake/Kullen.md",
     "5-World/NPCs/Diamond Lake/Taggin.md",
     "5-World/NPCs/Diamond Lake/Shag Soloman.md",
@@ -258,12 +249,6 @@
     "5-World/Points of Interest/Diamond Lake/The Captain's Blade.md",
     "1-GM Toolkit/Tests/The Seer's Fate - Shop Example.md",
     "1-GM Toolkit/Tests/Untitled.md",
-    "1-GM Toolkit/Tests/1. DM Screen.md",
-    "1-GM Toolkit/Tests/Item Card Dataview Template.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 004.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 003.md",
-    "2-Session Journals/Age-of-Worms/Aow Session 006.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 005.md",
     "zz-Attachments/Jerrykk.png",
     "zz-Attachments/Zamosshe.png",
     "zz-Attachments/image-1.png",
