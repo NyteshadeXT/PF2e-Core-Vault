@@ -1,7 +1,11 @@
 ---
 tags:
   - "#Adventure"
-art: zz_Attachments/Misc/PlaceholderImage.png
+art: zz-Attachments/Three Faces of Evil Banner.png
+quicknote: The Three Faces of Evil requires the PCs to sneak into Dourstone Mine, destroy The Ebon Triad cultists, and defeat a newly born creature knows as the Ebon Aspect.
+whichparty: "[[Age of Worms Party Dashboard]]"
+adventure_status: Not Started
+adventure_level: 
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -32,7 +36,8 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 >  |
 > ---|---|
 > **Party** | `VIEW[{whichparty}][link]` |
-> **Status** | `VIEW[{status}]` |
+> **Status** | `VIEW[{adventure_status}]` |
+> **Adventure Level** | `VIEW[{adventure_level}]` |
 
 # **`=this.file.name`**
 
@@ -43,24 +48,12 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 > WHERE econtains(tags, "Quest") AND econtains(adventure, this.file.link)
 > SORT file.name ASC
 
+
+
 ## Overview
-> [!kirk|info] Prompt (Remove me)
-> Provide an overarching overview of this adventure. What is the central theme or conflict driving the narrative? Outline the potential quests or objectives that the players may embark on. Consider the variety of challenges, encounters, or tasks they might face. Additionally, describe how the adventure begins. What inciting incident or call to action propels the players into the unfolding storyline? Use this section to set the stage, introduce key elements, and establish the initial motivations that will guide the players throughout the adventure.
+The Three Faces of Evil requires the PCs to sneak into Dourstone Mine, destroy [[The Ebon Triad]] cultists, and defeat a newly born creature knows as the Ebon Aspect.  The miners themselves, while not necessarily innocents, aren't cultists.  The PCs must sneak by them or use Diplomacy to gain access to the mines.  Once they overcome this obstacle, they must defeat each of the cults that comprise this cell of [[The Ebon Triad]]. Finally, as the last cultists fall, the Ebon aspect arises to avenge its worshiper-creators.  once the PCs defeat this abomination, they escape back to the surface, where they quickly become embroiled in their next adventure.
 
-## [[Template - Quest]]
-### Aftermath
-> [!kirk|info] Prompt (Remove me)
-Reflect on the aftermath of the quest through the perspectives of NPCs and the impact it has had on those involved and the surrounding areas. Describe how the events of the quest have influenced the lives, emotions, or circumstances of the NPCs connected to the journey. How has the resolution or outcome affected their daily lives, relationships, or beliefs? Furthermore, explore the repercussions on the surrounding areas—has it brought change, stability, or chaos? What lasting effects or changes can be observed in the environment or among the people post-quest?
+# Part 1: What Writhes Within
+Allustan recently unearthed increasing evidence of strange undead creatures infested with tiny green worms stalking the hills south of Diamond Lake.  He is worried that these undead creatures could represent a greave threat to [[Diamond Lake]]. Thus, he asks the adventurers to pursue the few leads he has uncovered so far.
 
-### Events Between Next Quests
-> [!kirk|info] Prompt (Remove me)
-Detail the events and developments that unfold between the previous quest and the upcoming one. Describe how the resolution of the previous quest has influenced the environment, characters, or circumstances. Have there been any lingering consequences, new opportunities, or challenges emerging from the aftermath of the previous quest? Furthermore, set the stage for the next quest—what seeds are being sown, what rumors are spreading, or what new developments are arising that may lead the characters into their next journey?
-
-## [[Template - Quest]]
-### Aftermath
-
-
-### Events between Next Quest
-
-
-## Notes
+Allustan's studies show that the worms might be somehwo connected to an ancient temple hidden beneath the earth.  According to his calculations, the temple is located beneath a copper mine owned by 

@@ -8,7 +8,7 @@ Status: Active
 Player: Bob
 pronounced: jair-rick
 Class: Witch
-level: 1
+level: 2
 Ancestry: Goblin
 gender: Male
 age: Teen

@@ -7,10 +7,18 @@ pronounced: Lan-nod Neff
 gender: Male
 age: Adult
 sexuality: Straight
-ownedlocation:
+ownedlocation: 
 location:
   - "[[Diamond Lake]]"
 condition: Healthy
+ancestry: Human
+alignment: Neutral Evil
+language:
+  - Common
+  - Dwarven
+  - Gnomish
+occupation:
+  - Noble
 ---
 
 > [!metadata|metadata]- Metadata 

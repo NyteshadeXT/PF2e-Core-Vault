@@ -138,6 +138,9 @@ A cantankerous jeweler with a meticulously arranged shop located on the Vein's c
 >> [!metadata|mannerism] Mannerisms
 > `VIEW[{mannerisms}][text]`
 
+## Key Skills
+Appraise +10, Bluﬀ +7, Craft (gemcutting) +10, Gather Information +7, Listen +4, Sense Motive +8, Sleight of Hand +11, Spot +8
+
 ## Goals
 ### Example #1
 
@@ -153,7 +156,7 @@ Tidwoad reports news of any significant items to both Balabar Smenk and Chaum Ga
 > Zoom into the present circumstances surrounding this NPC. What's happening in their life right now? Detail the ongoing events, challenges, or opportunities they're facing. Are they dealing with a personal crisis, pursuing a new goal, or involved in a conflict? Furthermore, what are they actively striving for at this moment? Explore their immediate objectives, aspirations, or plans. How are these current events and goals shaping their decisions and actions in the present narrative?
 
 ## History
-Tidwoad hails from a gnome warren several days to the northwest.
+Tidwoad hails from a gnome warren several days to the northwest of Diamond Lake.
 
 ## Notes
 Tidwoad looks more favorably upon gnomes than upon members of other races, whom he considers oafish or overly delicate.  He hosts 1d6 gnomish lodgers in the apartments above his workshop.

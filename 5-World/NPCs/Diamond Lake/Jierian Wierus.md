@@ -18,6 +18,8 @@ religion:
   - "[[Aegis]]"
 occupation:
   - High Priest
+ownedlocation:
+  - "[[Church of Aegis - Diamond Lake]]"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -137,6 +139,11 @@ A bombastic orator whose populist rants appeal to the best virtues and values of
 >
 >> [!metadata|mannerism] Mannerisms
 > `VIEW[{mannerisms}][text]`
+
+## Key Skills
+Concentration +12 (+16 when casting defensively), Knowledge (religion) +12
+Craft Arms and Armor
+Healing
 
 ## Goals
 ### Example #1

@@ -7,9 +7,8 @@ organizationtype:
 location:
   - "[[Diamond Lake]]"
 worship:
-  - "[[Kataklysmos]]"
-  - "[[Vorthron]]"
-  - "[[Zerathos]]"
+  - "[[The Old Gods]]"
+pronounced: Eb-on Tri-ad
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -115,7 +114,7 @@ worship:
 
 ## Overview
 
-From the fanatical peripheries of three vile churches comes a blasphemous doctrine known as the Way of the Ebon Triad, an anonymously penned collection of essays and scrolls soaked in phantasmagoric allegory and apocalyptic ecstasy.  The Way outlines in vague terms a series of rituals and portentous events that culminate in the spiritual and physical adhesion of [[Kataklysmos]], [[Vorthron]] and [[Zerathos]] into a single supremely powerful overgod.  Outlaws even within their own blasphemous religions, adherents to the Way of the Ebon Triad travel the world in search of fellow wanderers, often banding together to influence important events and edge the world closer to catastrophe.
+From the fanatical peripheries of three vile churches comes a blasphemous doctrine known as the Way of the Ebon Triad, an anonymously penned collection of essays and scrolls soaked in phantasmagoric allegory and apocalyptic ecstasy.  The Way outlines in vague terms a series of rituals and portentous events that culminate in the spiritual and physical adhesion of [[The Old Gods]] Hextor, Erythnul and Vecna into a single supremely powerful overgod.  Outlaws even within their own blasphemous religions, adherents to the Way of the Ebon Triad travel the world in search of fellow wanderers, often banding together to influence important events and edge the world closer to catastrophe.
 
 ## Culture
 
@@ -129,14 +128,10 @@ From the fanatical peripheries of three vile churches comes a blasphemous doctri
 > Map out the network of relationships this organization maintains with other groups and individuals. Who are their allies, rivals, or adversaries? Detail the nature of these connections, whether they're alliances based on shared interests, longstanding rivalries, or uneasy truces. What events or conflicts have shaped these relationships? Furthermore, explore the interactions and dealings this organization has with influential individuals or entities outside its circle. How do these connections influence the organization's operations and goals?
 
 ## Current Events
-
-> [!kirk|info] Info (Remove me)
-> Zoom into the present landscape of this organization. What is currently happening within its ranks? Detail ongoing developments, internal conflicts, or achievements. Is the organization facing challenges, undergoing reforms, or enjoying newfound success? Furthermore, what are its current objectives or endeavors? Explore the immediate goals or missions the organization is striving to accomplish. How are these current events and goals influencing the actions and dynamics within the group?
+The Ebon Triad is actively working to bring about the Age of Worms and the adhesion of Hextor, Erythnul and Vecna into a supreme powerful overgod.
 
 ## History
-
-> [!kirk|info] Info (Remove me)
-> Trace the roots and evolution of this organization through time. Explore its founding, pivotal moments, and transformative events that shaped its trajectory. What were the circumstances that led to its creation? Detail significant milestones, challenges, or triumphs that have defined its history. How has the organization adapted to changes, crises, or conflicts over the years? Uncover the legacy and historical narrative that have molded this group into what it is today.
+Agents of the Ebon Triad conspired, last year, with another dangerous cult to trigger a volcanic eruption that nearly consumed the city of Cauldron.  For the Ebon Triad, this event was merely one of a handful of prophesized events presaging the advent of the Age of Worms, an era of darkness and writhing death that would provided the required backdrop for the ascension of their tripartite god.
 
 ## Notes
 [[4-Campaign/Age of Worms/The Whispering Cairn]] note: What the Ebon Triad cultists below [[Diamond Lake]] and throughout the world do not understand is that the entire religious movement is a fraud launched at the direction of Kyuss, an ancient being who has plotted to bring about the Age of Worms for millennia.

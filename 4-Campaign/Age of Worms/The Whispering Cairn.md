@@ -6,11 +6,11 @@ tags:
 art: zz-Attachments/Whispering Cairn Banner.png
 adventure_level: 1
 adventure_status: Started
-total_xp: 1649
-completed_xp: 694
+total_xp: 1589
+completed_xp: 974
 awarded_pp: 0
-awarded_gp: 97
-awarded_sp: 9
+awarded_gp: 101
+awarded_sp: 16
 awarded_cp: 0
 awarded_permanent_items:
   - name: +1 Shortsword
@@ -25,6 +25,12 @@ awarded_permanent_items:
   - name: Rhythm Bone
     ilvl: 1
     gp: 8
+  - name: +1 Long Sword
+    ilvl: 2
+    gp: 35
+  - name: Half Plate
+    ilvl: 1
+    gp: 18
 awarded_consumable_items:
   - name: Healing Potion (Minor)
     ilvl: 1
@@ -269,7 +275,7 @@ The sarcophagus rests upon a small raised platform carved in the shape of a styl
 
 > [!danger]+ Sarcophagus Trap
 > [[gout-of-flame-hb|Gout of Flame]]
-- [ ] Trap (4 XP)
+- [x] Trap (4 XP)
 
 ### The Tunnels 
 The ceiling of these tunnels is 10 feet off the ground, but the alcove ceilings at the ends of he tunnels extend 40 feet, just within the shadowy radiance of a torch.  Unusually colored lanterns hang from long chains attached to the alcove ceilings dangling about 5 feet from the floor.  The indigo and red lanterns are missing.  Each lantern is worth about 12 gp.
@@ -311,7 +317,7 @@ Two rounds later, a living geyser of silverfish bursts from the shaft.  They mak
 The 60-foot shaft leading to area 15 is pitted and scarred, which makes climbing down relatively easy (DC 10 [[Skills#Acrobatics|Acrobatics]] check).
 
 **Encounter Difficulty:**   
-- [x] Low (70 XP) Level 1
+- [x] Moderate (70 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[Giant Silverfish]] W
@@ -377,7 +383,7 @@ These marks were left by victims blown away by the blasting winds of the trap, l
 > Blown away characters are knocked prone and tumble `dice: 1d4*10`  1d4x10 fee, taking `dice: 1d4` 1d4 points of nonlethal damage per 10 feet.  Flying characters are blown back `dice: 2d6*10` 2d6x10 feet and take `dice: 2d6` 2d6 points of nonlethal damage due to battering and buffeting.  Non-flying characters pushed over the edge of the shaft plummet to the floor below suffering `dice: 4d6` 4d6 points of damage upon impact.  Such characters may attempt to snatch the indigo lantern's chain with a successful DC 10 [[Skills#Acrobatics]] check or a DC 15 Reflex save, with success preventing the fall and the damage.
 > 
 > The wind continues at hurricane force for 10 minutes before it stops and the trap resets itself.  The only way through the face is to ignite torches in [[4-Campaign/Age of Worms/The Whispering Cairn#7. False Tomb]].  Once a torch has been lit, that color fails to appear in the face's hypnotic eyes.  When all torches have been lit, the trap is effectively disarmed.  The stone comprising the mouth's interior vanishes, allowing passage to the chamber beyond.
-- [ ] Trap (40 XP)
+- [x] Trap (40 XP)
 
 # Lair of the Architect
 It took the Aetherial Warden architect Nadroc nearly a year of solid work to design and construct the Whispering Cairn.  During this period he dwelt within his work in progress, in a special series of chambers called the Lair of the Architect.  Due to the complexity of the elevator mechanism, this part of the cairn is not quite as looted as areas 1 - 7, and contains a number of treasures from Nadroc's time.  Ceilings in the Lair of the Architect reach a uniform height of 20 feet. Walls are made of solid stone.
@@ -420,7 +426,7 @@ A button inset into the wall near the elevator shaft serves as a call button for
 > A noxious green gas fills the room from valves hidden within the mouths of the adoring bas-reliefs lining the room's walls.
 > 
 > [[Trap]]
-- [ ] Trap (8 XP)
+- [x] Trap (8 XP)
 
 ## 10. Passage of Honor
 > [!note]+ Read Aloud
@@ -429,7 +435,7 @@ A button inset into the wall near the elevator shaft serves as a call button for
 Each statue bears the likeness of one of Nadroc's noble Aetherial Warden patrons.  Their cupped hands once cradled miniature statuettes of magnificent vaati buildings constructed by the architect in their names.  The figurines rested upon a soft current of air immediately above the statues' cupped hands.  These currents still exist, and will hold any Tiny or smaller object aloft indefinitely.  They are the source of the strange breeze in the hallway.  The statuettes now rest in the pouch of an ancient tomb robber who lies dead in area 11.
 
 **Encounter Difficulty:**   
-- [x] Moderate (120 XP) Level 1
+- [x] Severe (120 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[lurking-Strangler|Lurking Strangler]] W
@@ -487,7 +493,7 @@ The egg is the dormant form of a hibernating small earth elemental who served at
 Artophanx wants more then anything else to escape, and might be fooled into cooperating with the party if successfully bluffed by a Terran-speaking character.  If convinced that the PCs might be able to help him escape the room (something actually well beyond their power) he can relate some useful facts about the Whispering Cairn's construction, including the fact that it was built by a Warden named Nadroc to honor a warrior named Zosiel who died no the fields of Aetherion and the fact that Zosiel's true tomb lies beyond the face in [[#8. Passage of the Face]].
 
 **Encounter Difficulty:**   
-- [ ] Low (80 XP) Level 1
+- [x] Moderate (80 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[3-Rules/Bestiaries/Monster Core/Sod Hound|Sod Hound]] W
@@ -861,7 +867,7 @@ All of the graves have been emptied (except Alastor's, which was empty in the fi
 > The dilapidated Land farmstead consists of a crumbled wall and a sagging, unsafe house with broken windows and a sagging roof.  Thick, sludgy puddles of dried blood and unidentifiable fleshy chucks litter the wooden floor immediately inside the front door.
 
 **Encounter Difficulty:**   
-- [ ] Low (80 XP) Level 2
+- [x] Low (80 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[Owlbear]] 
@@ -928,7 +934,7 @@ The PCs might discover the location of the Land remains a number of different wa
 **Fight:** Of course, the PCs could just attack the gang and attempt to get the information from them by force.
 
 **Encounter Difficulty:**   
-- [ ] Extreme (180 XP) Level 2
+- [ ] Extreme (200 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[3-Rules/Bestiaries/Uniques/Kullen|Kullen]]
