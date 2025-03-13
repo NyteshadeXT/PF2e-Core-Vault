@@ -2,14 +2,15 @@
 tags:
   - "#SessionNote"
 aliases:
-  - A Watery Grave
+  - Pissing off the Ghost
 whichparty: "[[Age of Worms Party Dashboard]]"
-sessiondate: 2025-02-27
-quicknote: |-
-  Ghouls prove to be a very difficult encounter.
-  We lose Elijah but gain Bob.
+sessiondate: 2025-03-06
+quicknote: Meeting with Alastor, the Land farmstead and a meetup at The Feral Dog
 locations:
   - "[[4-Campaign/Age of Worms/The Whispering Cairn.md|The Whispering Cairn]]"
+  - "[[5-World/Settlements/Diamond Lake.md|Diamond Lake]]"
+characters:
+  - "[[Kullen]]"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -60,24 +61,21 @@ This is a list of links to various notes within your Vault. Use this to give you
 
 ## During
 ### Events
-The PCs continue their investigation of The Whispering Cairn.  After ending their rest from the last session, they move into the flooded shower area.  There they encounter and defeat two of the three mephits inhabiting the area.  They also spot the ghouls in the room to the left.  Deciding to avoid that encounter for the time being they check out the locker room to the right.  There they discover the missing red lantern.  While heading out the ghouls, who noticed the changes in the water, move out of their room and partially ambush the group.  A very dangerous encounter occurs and Zamosshe goes down.  Fortunately, the players manage to defeat the ghouls and heal Zamosshe.  They had back to the sarcophagus room and hang the red lantern.  After messing around a bit they choose to try the face trap one more time.  With all the lanterns now in place the trap is no longer active and they are able to pass into the room beyond the face trap.
+After handling a Grick the players meet the ghost of Alastor Land.  He tasks them with burying his bones with those of his family on their land. The players try to negotiate to get what they want first, but Alastor is in no mood to deal with that. Upon getting to the Land farmstead they discover the bones of his family missing.  In the house they have a very tense encounter with a mother owlbear and her baby.  Under the mother they spy an intact arm with a distinctive tattoo which leads them back to Diamond Lake.  They meet Kullen at The Feral Dog and start to put the pieces together.
 
 ### Travel & Rest
-No notable travel or rest this session.
+Some minor local travel and one brief rest period.
 
 ### Loot, Rewards & Purchases
 **Session XP:** 
 
 **Coin**
-- gp: 3
-- sp: 5
-
-**Consumable Items**
-- [x] consumable::[[Detect Metal|Spell Scroll (1st level) Detect Metal]] [ilvl::1] [gp::4]
+- gp: 4
+- sp: 7
 
 **Permanent Items**
-- [ ] permanent::[[Rhythm Bone|Rhythm Bone]] [ilvl::1] [gp::8]
-- [x] permanent::[[Leather Lamellar|Leather Lamellar]] [ilvl::1] [gp::3]
+> - [x] permanent::[[Weapon Potency (+1)|+1 Long Sword]] [ilvl::2] [gp::35]
+> - [x] permanent::[[Half Plate|Half Plate]] [ilvl::1] [gp::18]
 
 ## Post
 ### New Creations
@@ -86,7 +84,7 @@ No notable travel or rest this session.
 Use this section to consolidate and expand upon any spontaneous creations made during the session. After reviewing your During Session notes, use this area to flesh out and detail any new elements, characters, locations, or concepts that emerged. Provide additional information, backgrounds, and intricacies to bring these creations to life. This section serves as a post-session development space, ensuring that any improvisations made during the session can be refined and integrated seamlessly into your campaign world.
 
 ### Date & Time
-2/27/25 from 6:30 pm CST to 9:30 pm CST
+3/06/25 from 6:30 pm CST to 9:30 pm CST
 
 ### End of Session Notes
-Elijah (Gornak) decided to call it quits tonight.  Fortunately Bob was joining the party so I hot swapped one for the other. Could account for the difficulty here as the party mix had changed.  Something to keep an eye on going forward.
+Derek joined as a watcher this session.  

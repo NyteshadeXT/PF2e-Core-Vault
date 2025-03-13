@@ -7,7 +7,7 @@ tags:
   - pf2e/creature/level/2
 statblock: inline
 name: "Human Wizard"
-level: 2
+level: 3
 ---
 
 ```statblock

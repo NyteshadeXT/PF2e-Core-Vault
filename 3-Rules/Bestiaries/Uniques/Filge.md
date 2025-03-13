@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 17, attack +9; __2nd__  _[[Ghoul Touch]]_, _[[Scare]]_, _[[Spectral Hand]]_; __1st__  _[[Chill Touch]]_, _[[Mage Armor]]_, _[[Ray of Enfeeblement]]_; __Cantrips (3rd)__  _[[Disrupt Undead]]_, _[[Touch of Fatigue]]_, _[[Ray of Frost]]_;"
+    desc: "DC 17, attack +9; __2nd__  _[[Ghoul Touch]]_, _[[Scare]]_, _[[Ghostly Carrier]]_; __1st__  _[[Grim Tendrils]]_, _[[Mystic Armor]]_, _[[Enfeeble]]_; __Cantrips (3rd)__  _[[Detect Magic]]_, _[[Ray of Frost]]_, _[[Void Warp]]_;"
 
 sourcebook: "Custom"
 ```

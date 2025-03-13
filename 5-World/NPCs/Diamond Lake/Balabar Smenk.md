@@ -7,10 +7,18 @@ pronounced: Bal-a-bar Smen-k
 gender: Male
 age: Adult
 sexuality: Straight
-ownedlocation:
+ownedlocation: 
 location:
   - "[[Diamond Lake]]"
 condition: Healthy
+ancestry: Human
+alignment: Chaotic Neutral
+language:
+  - Common
+  - Dwarven
+  - Orcish
+occupation:
+  - Mine Manager
 ---
 
 > [!metadata|metadata]- Metadata 

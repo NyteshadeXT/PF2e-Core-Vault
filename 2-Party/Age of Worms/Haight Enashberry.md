@@ -7,7 +7,7 @@ art: zz-Attachments/Haight.webp
 Player: Oxmeat
 pronounced: Hay-eight
 Class: Champion
-level: 1
+level: 2
 Ancestry: Human
 gender: Male
 age: Young Adult

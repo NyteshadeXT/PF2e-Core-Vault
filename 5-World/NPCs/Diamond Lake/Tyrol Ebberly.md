@@ -3,6 +3,20 @@ tags:
   - "#Character"
   - "#NPC"
 art: zz_Attachments/Misc/PlaceholderImage.png
+ancestry: Human
+gender: Male
+age: Mature Adult
+sexuality: Straight
+alignment: True Neutral
+language:
+  - Common
+occupation:
+  - Merchant
+ownedlocation:
+  - "[[The Captain's Blade]]"
+location:
+  - "[[The Captain's Blade]]"
+condition: Healthy
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -122,6 +136,9 @@ Tyrol Ebberly, a severe-looking man who claims to have once been a watch captain
 >
 >> [!metadata|mannerism] Mannerisms
 > `VIEW[{mannerisms}][text]`
+
+## Key Skills
+Diplomacy +4, Intimidate +6, Knowledge (nobility) +3, Ride +6, 
 
 ## Goals
 ### Example #1

@@ -11,6 +11,8 @@ sexuality: Straight
 alignment: Neutral Evil
 language:
   - Common
+  - Draconic
+  - Elven
 organization:
   - "[[Dungeon Seekers Guild]]"
 occupation:
@@ -137,6 +139,10 @@ THis is the spot for an overview.
 >
 >> [!metadata|mannerism] Mannerisms
 > `VIEW[{mannerisms}][text]`
+
+## Key Skills
+Concentration +12, Knowledge (arcana) +9, Knowledge (history) +7, Knowledge (the planes) +7, Knowledge (religion) +7, Listen +2, Profession (gambler) +7, Spellcraft +13, Spot +2
+Craft Wand, Scribe Scroll
 
 ## Goals
 ### Example #1

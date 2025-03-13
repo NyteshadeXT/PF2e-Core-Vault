@@ -2,20 +2,13 @@
 tags:
   - "#Character"
   - "#NPC"
-art: zz_Attachments/Misc/PlaceholderImage.png
-pronounced: shag sol-o-man
+art: zz-Attachments/PlaceholderImage.png
+pronounced: man-lin oz-good
+ancestry: Human
 gender: Male
-age: Adult
-location:
-  - "[[The Emporium]]"
-  - "[[Diamond Lake]]"
-condition: Healthy
-party1relation: Unmet
+age: Mature Adult
 sexuality: Straight
 alignment: True Neutral
-language:
-  - Common
-  - Undercommon
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -119,7 +112,9 @@ language:
 > SORT file.name ASC
 
 ## Overview
-An attraction at the Emporium.
+
+> [!kirk|info] Prompt (Remove me)
+> Craft an encompassing overview of this NPC's essence. Explore their background, motivations, quirks, and role within the world. Highlight the unique traits that define this character, delving into their personality, history, and connections to the setting. What makes this NPC stand out, and how might they influence or interact with the players and the unfolding story?
 
 > [!column|2 no-title]
 >
@@ -158,4 +153,8 @@ Map out the intricate web of relationships surrounding this NPC. Who comprises t
 > Trace the life story of this NPC, unraveling their past and the events that shaped them. Explore their origins, upbringing, and significant moments that molded their character. What pivotal events, traumas, or triumphs have marked their journey? Delve into the milestones, turning points, and impactful experiences that have shaped who they are today. How have these experiences influenced their beliefs, skills, and motivations?
 
 ## Notes
-An aristocratic shaggy "wild man" from the northern pine forests.  Solomon's vicious teeth and jagged claws contrast with hi shabby gentleman's garb and cultured demeanor.  When not on display, he frequents the opium lounge found upstairs in The Emporium, where the wealthier patrons adore his clever stories.
+
+
+
+
+

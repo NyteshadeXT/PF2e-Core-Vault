@@ -6,11 +6,11 @@ tags:
 art: zz-Attachments/Whispering Cairn Banner.png
 adventure_level: 1
 adventure_status: Started
-total_xp: 1649
-completed_xp: 694
+total_xp: 1589
+completed_xp: 974
 awarded_pp: 0
-awarded_gp: 97
-awarded_sp: 9
+awarded_gp: 101
+awarded_sp: 16
 awarded_cp: 0
 awarded_permanent_items:
   - name: +1 Shortsword
@@ -25,6 +25,12 @@ awarded_permanent_items:
   - name: Rhythm Bone
     ilvl: 1
     gp: 8
+  - name: +1 Long Sword
+    ilvl: 2
+    gp: 35
+  - name: Half Plate
+    ilvl: 1
+    gp: 18
 awarded_consumable_items:
   - name: Healing Potion (Minor)
     ilvl: 1
@@ -38,7 +44,8 @@ awarded_consumable_items:
   - name: Spell Scroll (1st level) Detect Metal
     ilvl: 1
     gp: 4
-whichparty: "[[Age of Worms Party Dashboard]]"
+whichparty:
+  - "[[Age of Worms Party Dashboard]]"
 ---
 
 
@@ -268,7 +275,7 @@ The sarcophagus rests upon a small raised platform carved in the shape of a styl
 
 > [!danger]+ Sarcophagus Trap
 > [[gout-of-flame-hb|Gout of Flame]]
-- [ ] Trap (4 XP)
+- [x] Trap (4 XP)
 
 ### The Tunnels 
 The ceiling of these tunnels is 10 feet off the ground, but the alcove ceilings at the ends of he tunnels extend 40 feet, just within the shadowy radiance of a torch.  Unusually colored lanterns hang from long chains attached to the alcove ceilings dangling about 5 feet from the floor.  The indigo and red lanterns are missing.  Each lantern is worth about 12 gp.
@@ -310,7 +317,7 @@ Two rounds later, a living geyser of silverfish bursts from the shaft.  They mak
 The 60-foot shaft leading to area 15 is pitted and scarred, which makes climbing down relatively easy (DC 10 [[Skills#Acrobatics|Acrobatics]] check).
 
 **Encounter Difficulty:**   
-- [x] Low (70 XP) Level 1
+- [x] Moderate (70 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[Giant Silverfish]] W
@@ -376,7 +383,7 @@ These marks were left by victims blown away by the blasting winds of the trap, l
 > Blown away characters are knocked prone and tumble `dice: 1d4*10`  1d4x10 fee, taking `dice: 1d4` 1d4 points of nonlethal damage per 10 feet.  Flying characters are blown back `dice: 2d6*10` 2d6x10 feet and take `dice: 2d6` 2d6 points of nonlethal damage due to battering and buffeting.  Non-flying characters pushed over the edge of the shaft plummet to the floor below suffering `dice: 4d6` 4d6 points of damage upon impact.  Such characters may attempt to snatch the indigo lantern's chain with a successful DC 10 [[Skills#Acrobatics]] check or a DC 15 Reflex save, with success preventing the fall and the damage.
 > 
 > The wind continues at hurricane force for 10 minutes before it stops and the trap resets itself.  The only way through the face is to ignite torches in [[4-Campaign/Age of Worms/The Whispering Cairn#7. False Tomb]].  Once a torch has been lit, that color fails to appear in the face's hypnotic eyes.  When all torches have been lit, the trap is effectively disarmed.  The stone comprising the mouth's interior vanishes, allowing passage to the chamber beyond.
-- [ ] Trap (40 XP)
+- [x] Trap (40 XP)
 
 # Lair of the Architect
 It took the Aetherial Warden architect Nadroc nearly a year of solid work to design and construct the Whispering Cairn.  During this period he dwelt within his work in progress, in a special series of chambers called the Lair of the Architect.  Due to the complexity of the elevator mechanism, this part of the cairn is not quite as looted as areas 1 - 7, and contains a number of treasures from Nadroc's time.  Ceilings in the Lair of the Architect reach a uniform height of 20 feet. Walls are made of solid stone.
@@ -419,7 +426,7 @@ A button inset into the wall near the elevator shaft serves as a call button for
 > A noxious green gas fills the room from valves hidden within the mouths of the adoring bas-reliefs lining the room's walls.
 > 
 > [[Trap]]
-- [ ] Trap (8 XP)
+- [x] Trap (8 XP)
 
 ## 10. Passage of Honor
 > [!note]+ Read Aloud
@@ -428,7 +435,7 @@ A button inset into the wall near the elevator shaft serves as a call button for
 Each statue bears the likeness of one of Nadroc's noble Aetherial Warden patrons.  Their cupped hands once cradled miniature statuettes of magnificent vaati buildings constructed by the architect in their names.  The figurines rested upon a soft current of air immediately above the statues' cupped hands.  These currents still exist, and will hold any Tiny or smaller object aloft indefinitely.  They are the source of the strange breeze in the hallway.  The statuettes now rest in the pouch of an ancient tomb robber who lies dead in area 11.
 
 **Encounter Difficulty:**   
-- [x] Moderate (120 XP) Level 1
+- [x] Severe (120 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[lurking-Strangler|Lurking Strangler]] W
@@ -486,7 +493,7 @@ The egg is the dormant form of a hibernating small earth elemental who served at
 Artophanx wants more then anything else to escape, and might be fooled into cooperating with the party if successfully bluffed by a Terran-speaking character.  If convinced that the PCs might be able to help him escape the room (something actually well beyond their power) he can relate some useful facts about the Whispering Cairn's construction, including the fact that it was built by a Warden named Nadroc to honor a warrior named Zosiel who died no the fields of Aetherion and the fact that Zosiel's true tomb lies beyond the face in [[#8. Passage of the Face]].
 
 **Encounter Difficulty:**   
-- [ ] Low (80 XP) Level 1
+- [x] Moderate (80 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[3-Rules/Bestiaries/Monster Core/Sod Hound|Sod Hound]] W
@@ -718,10 +725,10 @@ This room represents Nadroc's last attempt to dispense with unwanted tomb robber
 
 > [!danger]+ Trap
 > [[hail-of-iron-spheres-hb|Hail of Iron Spheres]]
-- [ ] Moderate (8 XP) Level 2
+- [x] Moderate (8 XP) Level 2
 
 **Encounter Difficulty:**   
-- [ ] Trivial (60 XP) Level 2
+- [x] Trivial (60 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[3-Rules/Bestiaries/Adventure Paths/Agents of Edgewatch/Grick|Grick]] W
@@ -770,10 +777,10 @@ When the PCs return Alastor Land's bones to his family plot at the Land farmstea
 > [!tip]+ Treasure
 > The following goods may be harvested from decomposed bodies buried within the iron spheres.
 > 
-> - [ ] gp::4
-> - [ ] sp::7
-> - [ ] permanent::[[Weapon Potency (+1)|+1 Long Sword]] [ilvl::2] [gp::35]
-> - [ ] permanent::[[Half Plate|Half Plate]] [ilvl::1] [gp::18]
+> - [x] gp::4
+> - [x] sp::7
+> - [x] permanent::[[Weapon Potency (+1)|+1 Long Sword]] [ilvl::2] [gp::35]
+> - [x] permanent::[[Half Plate|Half Plate]] [ilvl::1] [gp::18]
 
 ## 24. The Chamber of Sighs
 > [!note]+ Read Aloud
@@ -860,7 +867,7 @@ All of the graves have been emptied (except Alastor's, which was empty in the fi
 > The dilapidated Land farmstead consists of a crumbled wall and a sagging, unsafe house with broken windows and a sagging roof.  Thick, sludgy puddles of dried blood and unidentifiable fleshy chucks litter the wooden floor immediately inside the front door.
 
 **Encounter Difficulty:**   
-- [ ] Low (80 XP) Level 2
+- [x] Low (80 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[Owlbear]] 
@@ -927,7 +934,7 @@ The PCs might discover the location of the Land remains a number of different wa
 **Fight:** Of course, the PCs could just attack the gang and attempt to get the information from them by force.
 
 **Encounter Difficulty:**   
-- [ ] Extreme (180 XP) Level 2
+- [ ] Extreme (200 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[3-Rules/Bestiaries/Uniques/Kullen|Kullen]]
@@ -1016,24 +1023,9 @@ darkMode: false
 
 ## 1. Landing 
 > [!note]+ Read Aloud
-> The stairway rises to a wide landing and two huge wooden doors.  Shot though with dark blue mold, the doors form an enormous round moon carved wit a lunatic's jabbering face.  Beneath the landing, an unremarkable wooden door appears to lead to a tool closet under the stairs.
+> The stairway rises to a wide landing and two huge wooden doors.  Shot though with dark blue mold, the doors form an enormous round moon carved wit a lunatic's jabbering face.  
 
 The massive moon-face doors are held shut with a simple lock (DC 20 [[Skills#Thievery|Thievery]]).  If this check fails by 5 or more, the skeletons in area 2 hear the commotion and prepare for the PCs. 
-
-**Encounter Difficulty:**   
-- [ ] Low (80 XP) Level 2
-
-At the start of the encounter, place the following foes on the map: 
- - 2: [[tomb-mote|Tomb Mote]] 
-
-```encounter
-name: Landing
-party: Age of Worms
-creatures:
-  - 2: [[Tomb Mote]]
-```
-
-The small door below the landing leads to a grubby tools closet.  It too is locked with a simple lock (DC 20 [[Skills#Thievery|Thievery]]). The closet is home to a pair of tomb motes, tiny undead creatures composed of bone shards, matted hair, bits of shattered tombstone, dirt, and rotting, mismatched teeth.  Filge uses tomb motes as messengers when needed. They immediately attacks anyone but Filge who opens the door.
 
 ## 2. Watchers in the Dark
 > [!note]+ Read Aloud
@@ -1089,32 +1081,17 @@ Seconds after the feast begins, a zombie turns to look directly at the seated PC
 
 Thereafter, other diners chime in with sycophantic comments of their own.  "The Arcane Conclave was wrong to turn you out," a male elf corpse remarks. "You ought to show them like you showed me." The tattered remains of what must once have been a young woman speak up next.  "I shouldn't have ever doubted you, Filge," it says earnestly. "I always loved you when we were together. Now I will love you forever." Conversation continues along these lines until the seated PC stands up, at which point the production comes to a close and the zombies "reset" to their beginning positions.  Each time a character sits at the head of the table, the script begins again.
 
-> [!tip]+ Treasure
-> The rotting shelves along the west wall hold a set of silver dining utensils worth 10 gp.
-> 
-> - [ ] gp::10
-
 > [!warning]
 > Since these zombies do not fight back, award no experience points for their defeat
 
 ## 6. Kitchen
 The kitchen contains an enormous wheel of cheese, a moldy loaf of bread, and several strips of string cured meat-salted swine hearts.  
 
-> [!tip]+ Treasure
-> Filge's shoddy cutlery might fetch 4 sp in town.
-> 
-> - [ ] sp::4
-
 ## 7. Pantry
 A small closet off the kitchen's west wall holds a handful of spices and dry food favored by Filge.  His diet portrays a lack of depth or creativity and most of the shelves are empty.
 
 ## 8. Storage Closet
 This simple storage closet holds for extra chairs and eight copper candle stands worth 2 sp each.
-
-> [!tip]+ Treasure
-> The eight copper candle stands are worth 2 sp each.
-> 
-> - [ ] sp::16
 
 ## 9. Bedchamber
 > [!note]+ Read Aloud
@@ -1137,7 +1114,7 @@ The halfling "statue" is really a mummified goblin dressed in a fine suit and ha
 The angelic figure is an idealized representation of Filge himself.
 
 > [!tip]+ Treasure
-> Filge's spellbook rests upon the nightstand next to the bed.  It contains the following spells: .
+> Filge's spellbook rests upon the nightstand next to the bed.  It contains the following spells: [[3-Rules/Character Building/Spells/Detect Magic|Detect Magic]], [[Ray of Frost]], [[Illusory Disguise]], [[Vitality Lash]], [[Touch of the Void]], [[Void Warp]], [[Mystic Armor]], [[Enfeeble]], [[Embed Message]], [[Ghostly Carrier]] and [[Stupefy]].
 > 
 > The silver tray held by the mummified sentry is worth 2 gp. The A large run of golden brown fur is worth 8 gp, but must be carried carefully to ensure that its coat does not become soiled.  A DC 15 [[Skills#Occultism|Occultism]] check identifies the pelt as that of an adult lammasu.
 > 
@@ -1200,35 +1177,32 @@ The four tanks surrounding the recessed floor contain FIlge's proudest accomplis
 
 The four zombies crash out of their tanks and move to form a wall between the PCs and Filge.  If possible, they attack.  The skeleton attacks if possible or stands its ground and readies an attack against the next available foe.
 
-Round 3: If it seems safe and he has not already doen so, Filger injects himself with [[False Vitality|Vial of False Vitality]]. Otherwise, he casts [[]]
-## Features of the Area
+*Following Rounds:* The undead continue to engage in melee with the PCs.  Filge casts spells as appropriate though the encounter reserving enfeeble for any melee-oriented PC who seems to be doing well against the monstrosities.
 
+Filge surrenders only when all of his undead creations have been destroyed or turned against him.  He remains a pragmatist even in defeat; when he knows there is no way out, he blithely offers to "sell out Smenk completely" in exchange for his freedom.  He lets the PCs keep whatever they want, so long as they let him go.  If his attitude can be adjusted to friendly or better, he tells the PCs everything he knows about [[Balabar Smenk]]'s operation in Diamond Lake, the Dourstone Mine and the Ebon Triad.  See Development below for more information.
 
+> [!tip]+ Treasure
+> Filge's fine silver operating instruments are worth 50 gp as a set.  A 2 gp emerald is lodged in the throat of the corpse on the operating table.  On one of the shelves flanking the operating table rests a glass tube about a foot long and half as wide.  A slim green worm bobs in the murky chemical solution within the jar.  A DC 15 [[Skills#Religion|Religion]] check identifies the segmented worm as a part of an undead creature called a spawn of Kyuss.  The sample is worth 10 gp to a sage or taxidermist.  Flashing it around in [[Diamond Lake]] is a good way to attract the attention of [[The Ebon Triad]].
+> 
+> The most important treasure in the room may be the bones of Gertia Land, which the PCs must return to the grave of the Land farmstead to appease the ghost of Alastor Land in [[#23. Alastor's Haunt]].
+> 
+> - [ ] gp::52
 
+## Development
+Presuming the PCs defeat Filge without killing him, they can learn a lot from the humiliated wizard.  He doesn't volunteer information, but once cowed he responds thoroughly to direct questions, hoping that his honesty encourages the PCs to spare his miserable life.  
 
+*Why are you here?* "Me mate Balabar called me up from Ardentia City for a bit of study about some weirdness in town. He got himself brough down to a hidden part of the Dourstone Mines a month ago, to set up some provisioning deal with the dwarf what runs the place.  But the mine was crawling with awful beasts in hooded robes.  He said their wild cries made his stomach heave.  The cultists-the called themselves the Ebon Triad-said something about the Age of Worms, about strange undead in the southern hills and the swamp. Smenk knew he had to prepare a defense, so he called in his undead expert.  Me."
 
+*Why did you steal the Land skeletons?* "The who?  I needed helpers, so I got Smenk's white half-orc to fetch the raw materials.  I have no idea where he got them.  Are you telling me you came here because of the skeletons?!?!  Curse the pink-eyed fiend!"
 
+*The Age of Worms* "The Age of Worms is a Waiting Age, an era of catastrophe that lurks in the shadows of every tomorrow.  Scholars obsessed with apocalyptic visions claim that its advent signals an interminable period of suffering in which the cosmic scales shift disastrously toward evil and light fades from the land."
 
+*Balabar Smenk* "He and I were mates 20 years ago in Ardentia City.  I laugh not to think of how far he's come in so little time.  how respectful people around here are toward him.  Ha!  If they only knew!"
 
+*The Dourstone Mines* "I think it's along the road east of here, but this hell-hole is your town, not mine.  You tell me where it is.  If you're going, best be careful.  Smenk said the place scarred him, which I wouldn't have thought possible before I heard him say it myself."
 
+*The Ebon Triad* "Smenk says the cult follows some of the old gods.  Hextor, Erythnul and Vecna I think. If true, the place must be crawling with delicious secrets.  I'd love to accompany you if you intend to go."
 
+*The Green Worm* "Balabar nicked that jar from a laboratory in the Dourstone Mine. It's very rare.  Dead now, of course, but once it hand hundreds of worms like it must have wriggled within the abscesses and orifices of a powerful undead creature called a spawn of Kyuss.  These are probably the 'unkillable' zombies the cultists mentioned to Smenk.  If true, it could be a real problem. Those worms can get inside you and turn you undead in about a day."
 
-
-
-## [[Template - Quest]]
-### Aftermath
-> [!kirk|info] Prompt (Remove me)
-Reflect on the aftermath of the quest through the perspectives of NPCs and the impact it has had on those involved and the surrounding areas. Describe how the events of the quest have influenced the lives, emotions, or circumstances of the NPCs connected to the journey. How has the resolution or outcome affected their daily lives, relationships, or beliefs? Furthermore, explore the repercussions on the surrounding areas—has it brought change, stability, or chaos? What lasting effects or changes can be observed in the environment or among the people post-quest?
-
-### Events Between Next Quests
-> [!kirk|info] Prompt (Remove me)
-Detail the events and developments that unfold between the previous quest and the upcoming one. Describe how the resolution of the previous quest has influenced the environment, characters, or circumstances. Have there been any lingering consequences, new opportunities, or challenges emerging from the aftermath of the previous quest? Furthermore, set the stage for the next quest—what seeds are being sown, what rumors are spreading, or what new developments are arising that may lead the characters into their next journey?
-
-## [[Template - Quest]]
-### Aftermath
-
-
-### Events between Next Quest
-
-
-## Notes
+*Kyuss* "No one knows much.  He appeared more than a thousand years ago in the Rift Canyon.  I'm not even sure if that exists following the Sundering.  In a short time, he created dozens of new undead breeds and amassed a legion of creatures bound to his will.  They san an undead dragon stood at his side as the general of this force.  Now, only the green worms remain of his legacy.  Well, that and his title: Harbinger of the Age of Worms."

@@ -1,7 +1,7 @@
 ---
 tags:
   - "#Adventure"
-art: zz_Attachments/Misc/PlaceholderImage.png
+art: zz-Attachments/PlaceholderImage.png
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -32,7 +32,8 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 >  |
 > ---|---|
 > **Party** | `VIEW[{whichparty}][link]` |
-> **Status** | `VIEW[{status}]` |
+> **Status** | `VIEW[{adventure_status}]` |
+> **Adventure Level** | `VIEW[{adventure_level}]` |
 
 # **`=this.file.name`**
 
