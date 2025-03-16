@@ -27,4 +27,27 @@
 - Player should find Eligos's notes at the end of the adventure.
 
 # A Gathering of Winds
-- 
+- Players encounter the black dragon originally presented in Encounter at Blackwall Keep
+- If players still have the non-functional Sphere of Annihilation and the Silver Diadem those get activated and improved in this adventure.
+- Players should be sure to take everything with them into the next adventure.
+
+# The Spire of Long Shadows
+- The PCs must meet with Manzorian to get additional critical information related to the campaign.
+- This adventure holds a lot of critical information to the campaign and must be completed.
+
+# The Prince of Red Hand
+- This adventure is mostly to introduce the PCs to the town of Alhaster.
+- Make sure they meet Lashonna.
+- Authority points created in the adventure will be important later.
+
+# The Library of Last Resort
+- PCs need the information granted by the Fountain of Dreams regarding where to find the Dracolich's phylactery.
+
+# Kings of the Rift
+- Players claim Dragotha's phylactery.
+
+# Into the Worm Crawl Fissure
+- Results in the death of the Dracolich.
+- Make sure that players get outreach from Manzorian regarding Kyuss' monolith.
+
+# Dawn of a New Age
