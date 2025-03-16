@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-World/NPCs/Diamond Lake/Manlin Osgood.md",
-                "mode": "preview",
+                "file": "4-Campaign/Age of Worms/Age of Worms Outline.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Manlin Osgood"
+              "title": "Age of Worms Outline"
             }
           }
         ],
@@ -268,8 +268,10 @@
   },
   "active": "55a7431171c7d423",
   "lastOpenFiles": [
-    "5-World/Points of Interest/Diamond Lake/Osgood Smithy.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 003.md",
     "5-World/NPCs/Diamond Lake/Manlin Osgood.md",
+    "4-Campaign/Age of Worms/Age of Worms Outline.md",
+    "5-World/Points of Interest/Diamond Lake/Osgood Smithy.md",
     "5-World/NPCs/Diamond Lake/Venelle.md",
     "5-World/NPCs/Diamond Lake/Tyrol Ebberly.md",
     "5-World/NPCs/Diamond Lake/Tidwoad.md",
@@ -295,8 +297,6 @@
     "5-World/Factions/The Ebon Triad.md",
     "5-World/Settlements/Cauldron.md",
     "5-World/Points of Interest/Cauldron",
-    "5-World/Deities/The Old Gods.md",
-    "zz-Templates/GM Templates/Characters/Template - Deity.md",
     "zz-Attachments/Jerrykk.png",
     "zz-Attachments/Zamosshe.png",
     "zz-Attachments/image-1.png",
