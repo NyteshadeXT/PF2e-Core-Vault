@@ -1,6 +1,9 @@
 ---
 tags:
   - "#Rumour"
+subject:
+  - "[[Ragnolin Dourstone]]"
+accuracy: "True"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -30,9 +33,7 @@ tags:
 # `=this.file.name`
 
 ## Overview
-
-> [!kirk|info] Prompt (Remove me)
-Describe the rumour in detail, including what it is about and any key elements or facts associated with it. Explain the content of the rumour, such as an alleged event, hidden treasure, mysterious figure, or secret plan. Provide context on why this rumour is significant and how it could impact the game world or the characters' adventures. Consider whether the rumour is likely true, partially true, or entirely false, and hint at possible ways the players might uncover the truth.
+Old Ragnolin Dourstone seems like one of the better mine managers, but I heard he was run out of Greysemere after he caved in his own mines on his agitating workers.
 
 ### Details
 

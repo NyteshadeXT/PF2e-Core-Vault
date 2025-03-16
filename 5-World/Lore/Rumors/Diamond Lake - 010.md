@@ -1,6 +1,10 @@
 ---
 tags:
   - "#Rumour"
+subject:
+  - "[[Shag Soloman]]"
+  - "[[The Emporium]]"
+accuracy: "True"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -30,14 +34,10 @@ tags:
 # `=this.file.name`
 
 ## Overview
-
-> [!kirk|info] Prompt (Remove me)
-Describe the rumour in detail, including what it is about and any key elements or facts associated with it. Explain the content of the rumour, such as an alleged event, hidden treasure, mysterious figure, or secret plan. Provide context on why this rumour is significant and how it could impact the game world or the characters' adventures. Consider whether the rumour is likely true, partially true, or entirely false, and hint at possible ways the players might uncover the truth.
+I hear that one of the freaks escaped his cage at the Emporium. Crazy little bugger called “Demon Boy.” Bright red skin, obsessed with ﬁre, you can’t miss ’im. Word is Shag Solomon will pay 10 pieces of gold to the ﬁrst one what can turn ‘im in. 
 
 ### Details
-
-> [!kirk|info] Prompt (Remove me)
-List out all details within the rumour that are true or false. Provide a clear breakdown of each element, explaining its significance and how it fits into the broader context of the rumour. Consider any implications these truths might have on the campaign world or the players' quest. Explain any reasons or motivations behind its false information propagation. Consider how these inaccuracies might mislead characters or complicate their understanding of the situation within the campaign world.
+Unfortunately for would-be bounty hunters, the nasty little creature has already departed [[Diamond Lake]] to ﬁnd fame and fortune in the free-wheeling [[Ardentia City]].
 
 ## Notes
 

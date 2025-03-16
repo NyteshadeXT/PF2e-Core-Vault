@@ -631,16 +631,16 @@ All of the submerged rooms are completely dark.  PCs without darkvision must rel
 The four pillars and central structure of this room are composed of tan stone and contain non-functional shower spigots about 8 feet off the ground.
 
 **Encounter Difficulty:**   
-- [x] Moderate (90 XP) Level 2
+- [x] Moderate (60 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
- - 3: [[Water Mephit]] W
+ - 2: [[Water Mephit]] W
 
 ```encounter
 name: The Whispering Cairn - Submerged Showers
 party: Age of Worms
 creatures:
-  - 3: [[Water Mephit]]
+  - 2: [[Water Mephit]]
 ```
 
 The insane water mephits still dwell here, spending much of its their spinning in a tight vortex in area 20.
@@ -756,7 +756,7 @@ Immediately after the fight ends, Alastor manifests, appearing as a translucent 
 Alastor left home 30 years ago. It's been at least a decade since the last adventurers came to this chamber.  They fell victim to the iron sphere trap, and their corpses are buried beneath the upper layer of iron balls forming the room's floor.  He an direct the PC's to his own skeleton, which lies about three feet below the surface just below the metal door.
 
 **Encounter Difficulty:**   
-- [ ] Low (80 XP) Level 2
+- [ ] Low (60 XP) Level 2
 
 Should the PCs attack Alastor, place him on the map: 
  - : [[3-Rules/Bestiaries/Monster Core/Ghost Commoner|Ghost Commoner]] W
@@ -934,7 +934,7 @@ The PCs might discover the location of the Land remains a number of different wa
 **Fight:** Of course, the PCs could just attack the gang and attempt to get the information from them by force.
 
 **Encounter Difficulty:**   
-- [ ] Extreme (200 XP) Level 2
+- [x] Extreme (200 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[3-Rules/Bestiaries/Uniques/Kullen|Kullen]]
@@ -1032,7 +1032,7 @@ The massive moon-face doors are held shut with a simple lock (DC 20 [[Skills#Thi
 > Furniture fragments, smashed planks, broken glass and other detritus cram this large antechamber.  At the west end of the room, several upended tables form a crude barricade.  Closed doors mark the north and west walls.
 
 **Encounter Difficulty:**   
-- [ ] Trivial (60 XP) Level 2
+- [x] Trivial (60 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
  - 3: [[Skeleton Warrior]] 
@@ -1063,9 +1063,9 @@ These tiny rooms once housed the monks who lived in the observatory.  Each is sl
 > [!tip]+ Treasure
 > A DC 20 [[Seek]] check in the easternmost room reveals a clevverly hidden puch dangling behind a dresser drawer.
 > 
-> - [ ] gp::1
-> - [ ] sp::18
-> - [ ] cp::9
+> - [x] gp::1
+> - [x] sp::18
+> - [x] cp::9
 
 ## 5. Feasting Hall
 > [!note]+ Read Aloud
@@ -1123,11 +1123,11 @@ The angelic figure is an idealized representation of Filge himself.
 > Also on the deck is the orginal summons [[Balabar Smenk]] sent Filge to encourage him to come to Diamond Lake (See handout).
 > 
 > - [ ] gp::10
-> - [ ] consumable::[[Potion of Emergency Escape|Potion of Emergency Excape]] [ilvl::1] [gp::3]
-> - [ ] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
-> - [ ] consumable::[[Surging Serum (Minor)|Surging Serum (Minor)]] [ilvl::2] [gp::5]
-> - [ ] consumable::[[Cat's Eye Elixir|Cat's Eye Elixir]] [ilvl::2] [gp::7]
-> - [ ] consumable::[[Summon Undead|Scroll of Summon Undead]] [ilvl::1] [gp::4]
+> - [x] consumable::[[Potion of Emergency Escape|Potion of Emergency Excape]] [ilvl::1] [gp::3]
+> - [x] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [x] consumable::[[Surging Serum (Minor)|Surging Serum (Minor)]] [ilvl::2] [gp::5]
+> - [x] consumable::[[Cat's Eye Elixir|Cat's Eye Elixir]] [ilvl::2] [gp::7]
+> - [x] consumable::[[Summon Undead|Scroll of Summon Undead]] [ilvl::1] [gp::4]
 
 ## 10. Closet
 These closets contain Filge's wardrobe, which consists of six sets of nearly identical sleeveless long coats worn over a shirt and breeches.

@@ -2,7 +2,7 @@
 tags:
   - "#Character"
   - "#NPC"
-art: zz-Attachments/PlaceholderImage.png
+art: zz-Attachments/Manlin Osgood.png
 pronounced: man-lin oz-good
 ancestry: Human
 gender: Male
@@ -112,9 +112,7 @@ alignment: True Neutral
 > SORT file.name ASC
 
 ## Overview
-
-> [!kirk|info] Prompt (Remove me)
-> Craft an encompassing overview of this NPC's essence. Explore their background, motivations, quirks, and role within the world. Highlight the unique traits that define this character, delving into their personality, history, and connections to the setting. What makes this NPC stand out, and how might they influence or interact with the players and the unfolding story?
+Osgood is a somewhat coarse, unfailingly polite middle-aged human with a bald head and a walrus-like mustache.  He always remembers a customer's name, and greets frequent patrons with a hearty handshake and a slap on the back.
 
 > [!column|2 no-title]
 >

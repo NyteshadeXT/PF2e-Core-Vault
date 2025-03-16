@@ -1,6 +1,9 @@
 ---
 tags:
   - "#Rumour"
+accuracy: Mixed
+subject:
+  - "[[Lanod Neff]]"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -30,14 +33,10 @@ tags:
 # `=this.file.name`
 
 ## Overview
-
-> [!kirk|info] Prompt (Remove me)
-Describe the rumour in detail, including what it is about and any key elements or facts associated with it. Explain the content of the rumour, such as an alleged event, hidden treasure, mysterious figure, or secret plan. Provide context on why this rumour is significant and how it could impact the game world or the characters' adventures. Consider whether the rumour is likely true, partially true, or entirely false, and hint at possible ways the players might uncover the truth.
+Governor-Mayor Lanod Neﬀ loathes the presence of the Twilight Monastery monks in his town, and plans to attack the monastery soon with the sheriﬀ’s boys and some mercenaries from the Ardentia City. 
 
 ### Details
-
-> [!kirk|info] Prompt (Remove me)
-List out all details within the rumour that are true or false. Provide a clear breakdown of each element, explaining its significance and how it fits into the broader context of the rumour. Consider any implications these truths might have on the campaign world or the players' quest. Explain any reasons or motivations behind its false information propagation. Consider how these inaccuracies might mislead characters or complicate their understanding of the situation within the campaign world.
+Neﬀ loathes the monastery, but is too afraid of Izenfen to strike. He has employed no mercenaries from the Free City, but the presence of Auric, Tirra, and Khellek is probably to blame for the confusion.
 
 ## Notes
 

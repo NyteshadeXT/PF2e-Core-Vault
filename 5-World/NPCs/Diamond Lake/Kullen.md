@@ -109,7 +109,7 @@ condition: Healthy
 > [!metadata|rumour]- Rumours
 > ```dataview
 > TABLE without id file.link AS "Name", accuracy AS Accuracy, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
 

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "4-Campaign/Age of Worms/The Whispering Cairn.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -34,51 +34,8 @@
               "icon": "lucide-file",
               "title": "Kullen"
             }
-          },
-          {
-            "id": "ed30422bb4ca35a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-World/NPCs/Diamond Lake/Ragnolin Dourstone.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ragnolin Dourstone"
-            }
-          },
-          {
-            "id": "8cb6c5576e3a7126",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Campaign/Age of Worms/The Three Faces of Evil.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Three Faces of Evil"
-            }
-          },
-          {
-            "id": "55a7431171c7d423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-World/NPCs/Diamond Lake/Manlin Osgood.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Manlin Osgood"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 255.5
   },
   "right": {
     "id": "57b1fb15c090fb04",
@@ -266,43 +223,45 @@
       "helpmate:HelpMate": false
     }
   },
-  "active": "55a7431171c7d423",
+  "active": "b668cc7374b689f8",
   "lastOpenFiles": [
-    "5-World/Points of Interest/Diamond Lake/Osgood Smithy.md",
-    "5-World/NPCs/Diamond Lake/Manlin Osgood.md",
-    "5-World/NPCs/Diamond Lake/Venelle.md",
-    "5-World/NPCs/Diamond Lake/Tyrol Ebberly.md",
-    "5-World/NPCs/Diamond Lake/Tidwoad.md",
-    "5-World/NPCs/Diamond Lake/Taggin.md",
-    "5-World/NPCs/Diamond Lake/Shag Soloman.md",
-    "5-World/NPCs/Diamond Lake/Ragnolin Dourstone.md",
-    "5-World/NPCs/Diamond Lake/Lazare.md",
-    "5-World/NPCs/Diamond Lake/Lanod Neff.md",
-    "5-World/NPCs/Diamond Lake/Kullen.md",
-    "5-World/NPCs/Diamond Lake/Khellek.md",
-    "5-World/NPCs/Diamond Lake/Jierian Wierus.md",
-    "5-World/NPCs/Diamond Lake/Balabar Smenk.md",
-    "5-World/NPCs/Diamond Lake/Allustan.md",
-    "5-World/NPCs/Diamond Lake/Hameneezer.md",
-    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
-    "zz-Templates/GM Templates/Characters/Template - Hierarchy.md",
-    "zz-Templates/GM Templates/Characters/Template - NPC.md",
-    "zz-Attachments/Ragnolin Dourstone.png",
+    "2-Session Journals/Age-of-Worms/AoW Session 002.md",
+    "3-Rules/Bestiaries/Uniques/Filge.md",
+    "3-Rules/Bestiaries/Bestiary 3/Abrikandilu.md",
     "4-Campaign/Age of Worms/The Whispering Cairn.md",
-    "zz-Templates/GM Templates/Locations/Template - Adventure.md",
-    "zz-Attachments/Three Faces of Evil Banner.png",
-    "4-Campaign/Age of Worms/Quests/Laid to Rest.md",
+    "3-Rules/Bestiaries/Uniques/Kullen.md",
+    "5-World/NPCs/Diamond Lake/Balabar Smenk.md",
+    "4-Campaign/Age of Worms/Age of Worms Outline.md",
+    "3-Rules/Bestiaries/Uniques/Merovinn Bask.md",
+    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
     "5-World/Factions/The Ebon Triad.md",
-    "5-World/Settlements/Cauldron.md",
+    "5-World/NPCs/Diamond Lake/Ragnolin Dourstone.md",
+    "5-World/Points of Interest/Diamond Lake/The Emporium.md",
+    "5-World/NPCs/Diamond Lake/Shag Soloman.md",
+    "5-World/Lore/Rumors/Diamond Lake - 010.md",
+    "5-World/Lore/Rumors/Diamond Lake - 009.md",
+    "5-World/Lore/Rumors/Diamond Lake - 008.md",
+    "5-World/Lore/Rumors/Diamond Lake - 007.md",
+    "5-World/Lore/Rumors/Diamond Lake - 006.md",
+    "5-World/Lore/Rumors/Diamond Lake - 005.md",
+    "5-World/Lore/Rumors/Untitled 6.md",
+    "5-World/Lore/Rumors/Diamond Lake - 004.md",
+    "5-World/Lore/Rumors/Diamond Lake - 003.md",
+    "5-World/Lore/Aetheria Fracta.md",
+    "5-World/NPCs/Diamond Lake/Venelle.md",
+    "5-World/NPCs/Diamond Lake/Jierian Wierus.md",
+    "5-World/NPCs/Diamond Lake/Khellek.md",
+    "5-World/Lore/Rumors",
+    "zz-Attachments/Venelle.png",
+    "zz-Attachments/Manlin Osgood.png",
+    "zz-Attachments/Ragnolin Dourstone.png",
+    "zz-Attachments/Three Faces of Evil Banner.png",
     "5-World/Points of Interest/Cauldron",
-    "5-World/Deities/The Old Gods.md",
-    "zz-Templates/GM Templates/Characters/Template - Deity.md",
     "zz-Attachments/Jerrykk.png",
     "zz-Attachments/Zamosshe.png",
     "zz-Attachments/image-1.png",
     "zz-Attachments/image.png",
     "zz-Attachments/Whispering Cairn.webp",
-    "zz-Attachments/The Whispering Cairn-Entrance.webp",
-    "zz-Attachments/Ardentia City Map.png"
+    "zz-Attachments/The Whispering Cairn-Entrance.webp"
   ]
 }

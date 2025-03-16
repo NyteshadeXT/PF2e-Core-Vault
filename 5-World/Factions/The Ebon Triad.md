@@ -9,6 +9,8 @@ location:
 worship:
   - "[[The Old Gods]]"
 pronounced: Eb-on Tri-ad
+aliases:
+  - The Triad
 ---
 
 > [!metadata|metadata]- Metadata 

@@ -107,9 +107,7 @@ pronounced: Rag-no-lin Dou-wer-stone
 > SORT file.name ASC
 
 ## Overview
-
-> [!kirk|info] Prompt (Remove me)
-> Craft an encompassing overview of this NPC's essence. Explore their background, motivations, quirks, and role within the world. Highlight the unique traits that define this character, delving into their personality, history, and connections to the setting. What makes this NPC stand out, and how might they influence or interact with the players and the unfolding story?
+Ragnolin is known as a surly, paranoid and greedy mine manager.
 
 > [!column|2 no-title]
 >

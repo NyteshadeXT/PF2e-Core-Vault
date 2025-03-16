@@ -1,6 +1,9 @@
 ---
 tags:
   - "#Rumour"
+subject:
+  - "[[Lanod Neff]]"
+accuracy: "True"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -30,14 +33,10 @@ tags:
 # `=this.file.name`
 
 ## Overview
-
-> [!kirk|info] Prompt (Remove me)
-Describe the rumour in detail, including what it is about and any key elements or facts associated with it. Explain the content of the rumour, such as an alleged event, hidden treasure, mysterious figure, or secret plan. Provide context on why this rumour is significant and how it could impact the game world or the characters' adventures. Consider whether the rumour is likely true, partially true, or entirely false, and hint at possible ways the players might uncover the truth.
+Did you hear about what happened at the Spinning Giant last month? There was some kind of ﬁght inside, and when the sheriﬀ’s boys tried to go in to make an arrest, the soldiers forced the lawmen to leave. My cousin was there, and swears that a couple of those Aegis clerics stood up to them sheriﬀ’s boys, too. 
 
 ### Details
-
-> [!kirk|info] Prompt (Remove me)
-List out all details within the rumour that are true or false. Provide a clear breakdown of each element, explaining its significance and how it fits into the broader context of the rumour. Consider any implications these truths might have on the campaign world or the players' quest. Explain any reasons or motivations behind its false information propagation. Consider how these inaccuracies might mislead characters or complicate their understanding of the situation within the campaign world.
+Governor-Mayor Lanod Neﬀ’s goons are no longer welcome on “soldier” property.
 
 ## Notes
 

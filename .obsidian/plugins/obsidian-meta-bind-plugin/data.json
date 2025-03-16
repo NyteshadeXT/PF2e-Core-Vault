@@ -89,7 +89,7 @@
     },
     {
       "name": "Language",
-      "declaration": "INPUT[inlineSelect(option(Common), option(Draconic), option(Dwarven), option(Elven), option(Gnomish), option(Orcish), option(Undercommon))]"
+      "declaration": "INPUT[inlineSelect(option(Common), option(Draconic), option(Dwarven), option(Elven), option(Gnomish), option(Halfling), \n option(Orcish), option(Undercommon))]"
     },
     {
       "name": "POIType",
@@ -122,6 +122,10 @@
     {
       "name": "Skill",
       "declaration": "INPUT[inlineSelect(option(Null), option(Acrobatics), option(Arcana), option(Athletics), option(Crafting), option(Deception), option(Diplomacy), option(Intimidation), option(Medicine), option(Nature), option(Occultism), option(Performance), option(Religion), option(Society), option(Stealth), option(Survival), option(Thievery))]"
+    },
+    {
+      "name": "RumourAccuracy",
+      "declaration": "INPUT[inlineSelect(option(null), option(False), option(Mixed), option(True))]"
     }
   ],
   "buttonTemplates": [],

@@ -122,9 +122,7 @@ occupation:
 > SORT file.name ASC
 
 ## Overview
-
-> [!Overview|info] 
-> Craft an encompassing overview of this NPC's essence. Explore their background, motivations, quirks, and role within the world. Highlight the unique traits that define this character, delving into their personality, history, and connections to the setting. What makes this NPC stand out, and how might they influence or interact with the players and the unfolding story?
+Crude, demanding and insatiably greedy, [[Balabar Smenk]] is a nightmare blend of amorality, avarice and boundless gluttony.  
 
 > [!column|2 no-title]
 >
@@ -153,9 +151,8 @@ occupation:
 Map out the intricate web of relationships surrounding this NPC. Who comprises their family, friends, and rivals? Explore the dynamics within these connections, detailing the history and events that shaped these relationships. What bonds tie them to their family or friends, and what conflicts or events have led to rivalries? Uncover the stories, shared experiences, or betrayals that have influenced the course of these relationships, shaping the NPC's interactions and choices.
 
 ## Current Events
+Smenk is secretly in league with [[The Ebon Triad]]. He currently provides the Triad cultists with food and supplies that the Triad's agents pick up in town.  Unfortunately, Balabar's arrogance got the better of him.  Since the Triad is a captive market, he has taken to selling them spoiled food, poor quality tools and other goods at outrageous prices.  Furthermore, in his last meeting with the Triad he hinted that he might need regular bribes to keep him quiet.  Balabar's confidence recieved a crushing blow when he woke up next to the ssevered head of his right-hand man planted in his bed by grimlock scouts dispatched to send Balabar a warning.  Smenk now knows that he overplayed his hand and he wants [[The Ebon Triad]] destroyed.
 
-> [!kirk|info] Prompt (Remove me)
-> Zoom into the present circumstances surrounding this NPC. What's happening in their life right now? Detail the ongoing events, challenges, or opportunities they're facing. Are they dealing with a personal crisis, pursuing a new goal, or involved in a conflict? Furthermore, what are they actively striving for at this moment? Explore their immediate objectives, aspirations, or plans. How are these current events and goals shaping their decisions and actions in the present narrative?
 
 ## History
 

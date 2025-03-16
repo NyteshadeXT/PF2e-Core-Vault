@@ -11,6 +11,7 @@ sexuality: Straight
 alignment: Chaotic Neutral
 language:
   - Common
+  - Elven
 occupation:
   - Entertainer
 location:

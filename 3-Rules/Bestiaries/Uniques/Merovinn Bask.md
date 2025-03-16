@@ -4,7 +4,7 @@ noteType: pf2eMonster
 aliases: "Human Wizard"
 tags: 
   - pf2e/creature/type/humanoid
-  - pf2e/creature/level/2
+  - pf2e/creature/level/3
 statblock: inline
 name: "Human Wizard"
 level: 3
@@ -16,7 +16,7 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Custom Encounter"
 name: "Human Wizard"
-level: "Creature 2"
+level: "Creature 3"
 alignment: "N"
 size: "Medium"
 trait_04: "Humanoid"

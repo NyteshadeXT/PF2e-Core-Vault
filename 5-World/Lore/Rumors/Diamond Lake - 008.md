@@ -1,6 +1,7 @@
 ---
 tags:
   - "#Rumour"
+accuracy: "True"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -30,14 +31,10 @@ tags:
 # `=this.file.name`
 
 ## Overview
-
-> [!kirk|info] Prompt (Remove me)
-Describe the rumour in detail, including what it is about and any key elements or facts associated with it. Explain the content of the rumour, such as an alleged event, hidden treasure, mysterious figure, or secret plan. Provide context on why this rumour is significant and how it could impact the game world or the characters' adventures. Consider whether the rumour is likely true, partially true, or entirely false, and hint at possible ways the players might uncover the truth.
+They say a horse was killed in Tilgast’s walled stable last week. Opened from ear to ear. Old Tilgast had to pay the visiting merchant a fortune to keep things quiet, but the men who hauled away the carcass revealed everything one night at the Feral Dog. A lot of people are thinking about pulling their horses out of Tilgast’s, but it’s not as if the Lakeside Stables are any better. 
 
 ### Details
-
-> [!kirk|info] Prompt (Remove me)
-List out all details within the rumour that are true or false. Provide a clear breakdown of each element, explaining its significance and how it fits into the broader context of the rumour. Consider any implications these truths might have on the campaign world or the players' quest. Explain any reasons or motivations behind its false information propagation. Consider how these inaccuracies might mislead characters or complicate their understanding of the situation within the campaign world.
+The horse attack was a Smenk move to weaken Tilgast’s beloved side-business.
 
 ## Notes
 
