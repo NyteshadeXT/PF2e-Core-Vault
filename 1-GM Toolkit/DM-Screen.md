@@ -2,15 +2,56 @@
 obsidianUIMode: preview
 ---
 
+> [!note| clean no-i]+ ­
+> ```dataview
+> TABLE without ID
+> link(file.name, aliases[0]) AS "Character", 
+> ac AS "AC", 
+> passive.perception as "Perc.",
+> passive.investigation as "Inv.",
+> passive.insight as "Ins."
+> 
+> FROM #Player OR #NPC
+> 
+> WHERE Status = "Active"
+> 
+> SORT file.name ASC
+> ```
+
 > [!NOTE]- Actions
-> **[[Skill Actions]]** 
+> <span style='font-size:2.0em'>[[Skill Actions]]</span>
+> ### [[Skills#Acrobatics|Acrobatics]]
+> [[3-Rules/Character Building/Actions/Balance|Balance]]; [[3-Rules/Character Building/Actions/Tumble Through|Tumble Through]]; [[Maneuver in Flight]]; [[Squeeze]]
+> 
+> ### [[Skills#Arcana|Arcana]]
+> [[Borrow an Arcane Spell]]; [[Decipher Writing]]; [[Identify Magic]]; [[3-Rules/Character Building/Actions/Learn a Spell|Learn a Spell]]
+> 
+> ### [[Skills#Athletics|Athletics]]
+> [[Climb]]; [[3-Rules/Character Building/Actions/Disarm|Disarm]]; [[3-Rules/Character Building/Actions/Force Open|Force Open]]; [[3-Rules/Character Building/Actions/Grapple|Grapple]]; [[High Jump]]; [[Long Jump]]; [[Reposition]]; [[3-Rules/Character Building/Actions/shove|Shove]]; [[Swim]]; [[3-Rules/Character Building/Actions/Trip|Trip]]
+> 
+> ### [[Skills#Crafting|Crafting]]
+> [[Craft]]; [[Identify Alchemy]]; [[Repair]]
+> 
+> ### [[Skills#Deception|Deception]]
+> [[Create a Diversion]]; [[3-Rules/Character Building/Kingmaker Features/Feint|Feint]]; [[Impersonate]]; [[Lie]]
+> 
+> ### [[Skills#Diplomacy|Diplomacy]]
+> [[Gather Information]]; [[Make an Impression]]; [[Request]]
+> 
+> ### [[Skills#Intimidation|Intimidation]]
+> [[Coerce]]; [[Demoralize]]
+> 
+> ### [[Skills#Lore|Lore]]
+> ### [[Skills#Medicine|Medicine]]
+> ### [[Skills#Nature|Nature]]
+> ### [[Skills#Occulitsm|Occulitsm]]
 > [[Aid]]; [[Arrest a Fall]]; [[Avert Gaze]]  
 > [[Burrow]] 
 > [[Cast a Spell]]; [[Crawl]] 
 > [[Delay]]; [[Dismiss]]; [[Drop Prone]] 
 > [[Escape]] 
 > [[3-Rules/Character Building/Actions/Fly|Fly]]
-> [[Grab an Edge]]; [[3-Rules/trait_reference/grapple|Grapple]]  
+> [[Grab an Edge]]
 > [[Interact]] 
 > [[Invest an Item]] 
 > [[Leap]] 
