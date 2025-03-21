@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-World/NPCs/Diamond Lake/Ragnolin Dourstone.md",
+                "file": "3-Rules/Bestiaries/Homebrew/W/water-elemental.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ragnolin Dourstone"
+              "title": "water-elemental"
             }
           },
           {
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -308,37 +308,47 @@
       "helpmate:HelpMate": false
     }
   },
-  "active": "4e9b486ae81909ca",
+  "active": "8cb6c5576e3a7126",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Actions/Borrow an Arcane Spell.md",
-    "1-GM Toolkit/DM-Screen.md",
-    "1-GM Toolkit/Home.md",
-    "1-GM Toolkit/Tests/1. DM Screen.md",
-    "1-GM Toolkit/GM Screen/GM Screen.md",
+    "3-Rules/Bestiaries/Homebrew/W/water-elemental.md",
+    "3-Rules/Bestiaries/Homebrew/T/tomb-mote.md",
+    "3-Rules/Bestiaries/Homebrew/T/tiefling-guard.md",
+    "3-Rules/Bestiaries/Homebrew/S/shard-slave.md",
+    "3-Rules/Bestiaries/Homebrew/O/orc-shaman.md",
+    "3-Rules/Bestiaries/Homebrew/W",
+    "3-Rules/Bestiaries/Homebrew/T",
+    "3-Rules/Bestiaries/Homebrew/S",
+    "3-Rules/Bestiaries/Homebrew/G/Giant Bombardier Beetle.md",
+    "3-Rules/Bestiaries/Homebrew/O",
+    "3-Rules/Bestiaries/Homebrew/M",
+    "3-Rules/Bestiaries/Homebrew/L",
+    "3-Rules/Bestiaries/Homebrew/D/deathjump-spider.md",
+    "3-Rules/Bestiaries/Homebrew/G",
+    "3-Rules/Bestiaries/Homebrew/D",
+    "3-Rules/Bestiaries/Homebrew/B/beholder-gauth.md",
+    "3-Rules/Bestiaries/Homebrew/acolyte-of-the-radiant-morn.md",
+    "3-Rules/Bestiaries/Homebrew/B",
+    "5-World/NPCs/Diamond Lake/Ragnolin Dourstone.md",
     "1-GM Toolkit/DC Calculator.md",
-    "1-GM Toolkit/Tests/Item Card Dataview Template.md",
-    "1-GM Toolkit/Tests/The Seer's Fate - Shop Example.md",
-    "1-GM Toolkit/Tests/Untitled.md",
-    "1-GM Toolkit/Adventure Loot.md",
     "1-GM Toolkit/Travel Calculator.md",
-    "1-GM Toolkit/DM-Tools/Encounter Builder.md",
-    "1-GM Toolkit/DM-Tools/Mimic Fight Club (Item Generator).md",
-    "1-GM Toolkit/DM-Tools/DunGen (Random Dungeon Generator).md",
-    "3-Rules/GM Tools/Divine Intercessions/Abadar - Major Boon.md",
-    "3-Rules/Journals/Game Mastery Guide/Star.md",
-    "3-Rules/Journals/Game Mastery Guide/Ruin.md",
-    "3-Rules/Journals/Game Mastery Guide/Metropolis.md",
-    "3-Rules/Journals/Game Mastery Guide/Liberators.md",
-    "3-Rules/Journals/Game Mastery Guide/Donjon.md",
-    "3-Rules/Journals/Game Mastery Guide/Another Ancestry's Settlement.md",
-    "3-Rules/Journals/Game Mastery Guide/Fool.md",
-    "3-Rules/Journals/Game Mastery Guide/Died.md",
-    "3-Rules/Journals/Game Mastery Guide/Captured by Giants.md",
-    "3-Rules/Journals/Game Mastery Guide/Balance.md",
-    "3-Rules/Journals/Game Mastery Guide/Betrayed.md",
+    "3-Rules/Skills.md",
+    "1-GM Toolkit/Tests/1. DM Screen.md",
+    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
+    "zz-Templates/Markdown/Weather Template.md",
+    "zz-Templates/Markdown/Weather Specified.md",
+    "zz-Templates/Markdown/Update XP.md",
+    "zz-Templates/Markdown/Update Treasure.md",
+    "zz-Templates/Markdown/Spell-Template.md",
+    "zz-Templates/Markdown/PF2E Statblock Example.md",
+    "zz-Templates/Markdown/Insert Map (Leaflet).md",
+    "zz-Templates/Markdown/Combat Templates/Insert Encounter Note.md",
+    "zz-Templates/Markdown/Insert Encounter Map (Leaflet).md",
+    "zz-Templates/Markdown/Insert Reference To Rollable Table.md",
+    "zz-Templates/Markdown/Combat Templates/Insert Custom Encounter (Initiative Tracker).md",
+    "zz-Templates/GM Templates/World Building",
+    "zz-Attachments/Dark Cathedral.png",
     "zz-Attachments/Ragnolin Dourstone.png",
     "zz-Attachments/Three Faces of Evil Banner.png",
-    "5-World/Points of Interest/Cauldron",
     "zz-Attachments/Jerrykk.png",
     "zz-Attachments/Zamosshe.png",
     "zz-Attachments/image-1.png",

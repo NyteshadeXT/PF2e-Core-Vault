@@ -12302,6 +12302,94 @@
       "files": [
         "4-Campaign/Age of Worms/The Whispering Cairn.md"
       ]
+    },
+    {
+      "id": "dark-cathedral",
+      "lastAccessed": 1742526657545,
+      "markers": [
+        {
+          "id": "ID_ca6b7828caa9",
+          "type": "default",
+          "loc": [
+            -0.00238800048828125,
+            0.0004501537534917083
+          ],
+          "layer": "%5B%5BDark%20Cathedral.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.08702441412634983,
+            0.33016877637130804
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a95b589a3948",
+          "type": "default",
+          "loc": [
+            -0.0023345947265625,
+            0.004684428766039542
+          ],
+          "layer": "%5B%5BDark%20Cathedral.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9056009546052136,
+            0.3227848101265823
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a88e8a91b98",
+          "type": "default",
+          "loc": [
+            -0.00103759765625,
+            0.0028457057317123743
+          ],
+          "layer": "%5B%5BDark%20Cathedral.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5501361971489739,
+            0.14345991561181434
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99c9abaa8a59",
+          "type": "default",
+          "loc": [
+            -0.0040740966796875,
+            0.0028533610944409026
+          ],
+          "link": "4-Campaign/Age of Worms/The Three Faces of Evil.md## Encounter 1. The Dark Cathedral",
+          "layer": "%5B%5BDark%20Cathedral.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5516161436143923,
+            0.5632911392405063
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4-Campaign/Age of Worms/The Three Faces of Evil.md"
+      ]
     }
   ],
   "defaultMarker": {
