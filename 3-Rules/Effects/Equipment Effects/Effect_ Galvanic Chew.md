@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Galvanic Chew|Galvanic Chew]]
+Granted by [[Galvanic Chew|Galvanic Chew]]
 
 For up to 1 hour, you have resistance 5 to electricity.
 

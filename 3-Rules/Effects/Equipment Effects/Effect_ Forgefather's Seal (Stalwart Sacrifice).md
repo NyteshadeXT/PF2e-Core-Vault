@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Forgefather's Seal|Forgefather's Seal]]
+Granted by [[Forgefather's Seal|Forgefather's Seal]]
 
 The chosen creatures also gain a +4 status bonus to AC and saving throws, and fast healing 15.
 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Cattle Speech
 ## Feat 1
-### [[minotaur]]
+### [[Minotaur]]
 
 **Category** ancestry; 
 

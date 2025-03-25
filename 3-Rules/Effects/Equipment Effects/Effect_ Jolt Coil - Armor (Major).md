@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Jolt Coil (Major)|Jolt Coil (Major)]]
+Granted by [[Jolt Coil (Major)|Jolt Coil (Major)]]
 
 You gain resistance 5 to electricity.
 

@@ -21,7 +21,7 @@ license: ORC
 
 
 
-**Requirements** You are holding or wearing a [[Equipment/Repair Toolkit|Repair Kit]]
+**Requirements** You are holding or wearing a [[Repair Toolkit|Repair Kit]]
 
 * * *
 

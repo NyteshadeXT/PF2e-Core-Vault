@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Clockwork Cloak|Clockwork Cloak]]
+Granted by [[Clockwork Cloak|Clockwork Cloak]]
 
 *Source: Pathfinder #161: Belly of the Black Whale*
 *OGL*

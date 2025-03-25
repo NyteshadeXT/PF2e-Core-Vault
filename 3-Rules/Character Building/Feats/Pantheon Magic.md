@@ -12,7 +12,7 @@ license: ORC
 ---
 # Pantheon Magic
 ## Feat 1
-### [[minotaur]]
+### [[Minotaur]]
 
 **Category** ancestry; 
 

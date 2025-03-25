@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by activating [[Equipment/Anklets of Alacrity|Anklets of Alacrity]].
+Granted by activating [[Anklets of Alacrity|Anklets of Alacrity]].
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

@@ -89,7 +89,7 @@ creatures:
 
 
 
-Zealots ferret out plots against their religion and seek justice for their church's followers. This zealot serves [[Deities/Asmodeus|Asmodeus]], but others might serve [[Deities/Abadar|Abadar]], [[Deities/Calistria|Calistria]], [[Deities/Iomedae|Iomedae]], [[Deities/Norgorber|Norgorber]], [[Deities/Pharasma|Pharasma]], [[Deities/Sarenrae|Sarenrae]], or [[Deities/Zon-Kuthon|Zon-Kuthon]]. They often ride a [[Bestiary 1/War Horse|War Horse]] wearing light barding. This horse is an additional monster in the fight.
+Zealots ferret out plots against their religion and seek justice for their church's followers. This zealot serves [[Deities/Asmodeus|Asmodeus]], but others might serve [[Deities/Abadar|Abadar]], [[Deities/Calistria|Calistria]], [[Deities/Iomedae|Iomedae]], [[Deities/Norgorber|Norgorber]], [[Deities/Pharasma|Pharasma]], [[Deities/Sarenrae|Sarenrae]], or [[Deities/Zon-Kuthon|Zon-Kuthon]]. They often ride a [[3-Rules/Bestiaries/Bestiary 1/W/War Horse|War Horse]] wearing light barding. This horse is an additional monster in the fight.
 
 * * *
 

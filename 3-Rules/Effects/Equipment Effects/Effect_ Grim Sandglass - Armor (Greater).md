@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Grim Sandglass (Greater)|Grim Sandglass (Greater)]]
+Granted by [[Grim Sandglass (Greater)|Grim Sandglass (Greater)]]
 
 You gain resistance 5 to void.
 

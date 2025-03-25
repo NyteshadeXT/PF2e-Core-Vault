@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Emerald Fulcrum Lens|Emerald Fulcrum Lens]]
+Granted by [[Emerald Fulcrum Lens|Emerald Fulcrum Lens]]
 
 You gain void healing and _harm_ spells gain a +4 status bonus to the Hit Points they restore to you.
 

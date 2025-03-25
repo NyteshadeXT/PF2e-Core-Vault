@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potion of Sonic Resistance (Lesser)|Potion of Sonic Resistance (Lesser)]]
+Granted by [[Potion of Sonic Resistance (Lesser)|Potion of Sonic Resistance (Lesser)]]
 
 This potion grants resistance 5 against sonic damage.
 

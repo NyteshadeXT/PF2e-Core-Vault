@@ -12,7 +12,7 @@ license: ORC
 ---
 # Distant Archer
 ## Feat 5
-### [[centaur]]
+### [[Centaur]]
 
 **Category** ancestry; 
 

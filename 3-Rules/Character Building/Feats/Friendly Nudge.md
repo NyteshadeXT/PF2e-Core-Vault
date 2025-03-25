@@ -12,7 +12,7 @@ license: ORC
 ---
 # Friendly Nudge `pf2:1`
 ## Feat 1
-### [[minotaur]]
+### [[Minotaur]]
 
 **Category** ancestry; 
 

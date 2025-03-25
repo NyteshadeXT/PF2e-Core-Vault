@@ -12,7 +12,7 @@ license: ORC
 ---
 # Eye for Masonry
 ## Feat 1
-### [[minotaur]]
+### [[Minotaur]]
 
 **Category** ancestry; 
 

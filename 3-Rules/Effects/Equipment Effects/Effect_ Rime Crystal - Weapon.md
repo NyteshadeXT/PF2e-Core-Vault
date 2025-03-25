@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Rime Crystal|Rime Crystal]]
+Granted by [[Rime Crystal|Rime Crystal]]
 
 After you cast a cold spell by activating the _crystal_, your Strikes with the weapon deal an additional 1d4 cold damage until the end of your next turn.
 

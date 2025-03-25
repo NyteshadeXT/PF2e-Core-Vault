@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Lastwall Sentry Dedication
 * * *
-Through the power of your faith or the blessing of a priest, your weapons are fully effective against incorporeal creatures. Weapons you wield have the effects of a _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune for as long as you wield them.
+Through the power of your faith or the blessing of a priest, your weapons are fully effective against incorporeal creatures. Weapons you wield have the effects of a _[[Ghost Touch|Ghost Touch]]_ property rune for as long as you wield them.
 
 *Source: Pathfinder Lost Omens: Knights of Lastwall*
 *OGL*

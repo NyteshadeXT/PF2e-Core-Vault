@@ -14,13 +14,13 @@ This peculiar rod is strange and unpredictable. Each time it is activated, it pr
 |------|--------|
 | 1-3 | Leaves grow from the target; they last 24 hours |
 | 4-8 | [[Spells/Darkness\|Darkness]] |
-| 9 | Summon a [[Bestiary 1/Giant Stag Beetle\|Giant Stag Beetle]] (5th-level [[Spells/Summon Animal\|Summon Animal]]) |
+| 9 | Summon a [[3-Rules/Bestiaries/Bestiary 1/G/Giant Stag Beetle\|Giant Stag Beetle]] (5th-level [[Spells/Summon Animal\|Summon Animal]]) |
 | 10-13 | A stream of 600 large and colorful butterflies pours forth, fluttering in a 20-foot burst for 2 rounds; creatures are [[Conditions/Blinded\|Blinded]] while in the cloud of butterflies |
-| 14-15 | All the target's weapons animate with the effects of the [[Equipment/Animated\|Dancing]] rune |
+| 14-15 | All the target's weapons animate with the effects of the [[Animated\|Dancing]] rune |
 | 16-25 | [[Spells/Lightning Bolt\|Lightning Bolt]] |
 | 26-29 | Grass grows in a 60-foot cone in front of the rod, or existing grass grows at 10 × normal rate |
 | 30 | Target turns blue, green, or purple with an unlimited duration |
-| 31 | Summon an [[Bestiary 1/Elephant\|Elephant]] (6th-level [[Spells/Summon Animal\|Summon Animal]]) |
+| 31 | Summon an [[3-Rules/Bestiaries/Bestiary 1/E/Elephant\|Elephant]] (6th-level [[Spells/Summon Animal\|Summon Animal]]) |
 | 32-34 | Heavy rain falls in a 60-foot radius around you for 1 round |
 | 35-38 | [[Spells/Stinking Cloud\|Stinking Cloud]] |
 | 39 | Summon an ineffective mouse (1st-level summon animal) |

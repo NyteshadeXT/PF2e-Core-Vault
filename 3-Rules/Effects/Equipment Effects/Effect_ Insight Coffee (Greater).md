@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Insight Coffee (Greater)|Insight Coffee (Greater)]]
+Granted by [[Insight Coffee (Greater)|Insight Coffee (Greater)]]
 
 You use d8s instead of d6s for your extra damage from the [[Class Features/Strategic Strike|Strategic Strike]] class feature, if you have it. You also gain a +4 item bonus to checks to Recall Knowledge with a skill determined by the blend chosen when the item is crafted.
 

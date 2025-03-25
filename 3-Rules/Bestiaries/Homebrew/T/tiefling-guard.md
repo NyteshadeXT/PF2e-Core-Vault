@@ -20,43 +20,51 @@ size: "Medium"
 trait_03: "Human"
 trait_04: "Humanoid"
 trait_05: "Nephilim"
-modifier: 12
+modifier: 8
 perception:
   - name: "Perception"
-    desc: "Perception +12; __darkvision__;"
-languages: "Common, Dwarven, Undercommon; "
+    desc: "Perception +8; __darkvision__;"
+languages: "Common, Infernal, Orc; "
 skills:
   - name: "Skills"
-    desc: "__Acrobatics__: +6 (1d20+6); __Crafting__: +6 (1d20+6); __Occultism__: +6 (1d20+6); __Stealth__: +6 (1d20+6); __Survival__: +4 (1d20+4); "
-abilityMods: [3, 1, 2, 3, 1, -1]
+    desc: "__Acrobatics__: +9 (1d20+9); __Crafting__: +7 (1d20+7); __Intimidation__: +7 (1d20+7); __Stealth__: +8 (1d20+8); __Survival__: +7 (1d20+7); "
+abilityMods: [3, 3, 2, 1, 0, -1]
 
 abilities_top:
+  - name: "Attack of Opportunity"
+    desc: "`pf2:r` The Tiefling Guard can make an attack of opportunity when a foe is in its reach."
+  - name: "Blind Fighting"
+    desc: "The Tiefling Guard ignores the **concealed** condition and treats **invisible** creatures as only **concealed**, rather than hidden."
+  - name: "Equipment"
+    desc: "Chainmail, Greataxe, Composite Longbow"
 
-abilities_mid:
-  - name: "Light Blindness"
-    desc: " "
+abilities_bot:
+  - name: "Darkness"
+    desc: "`pf2:1` The Tiefling Guard can cast _darkness_ once per day as an innate spell, creating a 20-foot radius of magical darkness for 1 minute (DC 18)."
 
 speed: 20 feet
 
-ac: 15
+ac: 19
 armorclass:
   - name: AC
-    desc: "15; __Fort__: +10 (1d20+10); __Ref__: +7 (1d20+7); __Will__: +10 (1d20+10);"
-hp: 16
+    desc: "19; __Fort__: +9 (1d20+9); __Ref__: +8 (1d20+8); __Will__: +5 (1d20+5);"
+hp: 40
 health:
   - name: HP
-    desc: "16; "
+    desc: "40; "
 
 
 attacks:
   - name: Melee
-    desc: "⬻ warhammer +4 ([[shove]]); __Damage__ 1d8+1 (1d8+1) bludgeoning"
+    desc: "⬻ greataxe +10 ([[sweep]]); __Damage__ 1d12+3 (1d12+3) slashing"
+  - name: Ranged
+    desc: "⬻ composite longbow +10 ([[deadly d10]], [[propulsive]], [[volley 30ft]]); __Damage__ 1d8+2 (1d8+2) piercing"
 
 sourcebook: "Homebrew"
 ```
 
 ```encounter-table
-name: Duergar Guard
+name: Tiefling Guard
 creatures:
-  - 1: Duergar Guard
+  - 1: Tiefling Guard
 ```

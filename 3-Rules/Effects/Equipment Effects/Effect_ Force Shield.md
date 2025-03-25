@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Force Shield|Force Shield]]
+Granted by [[Force Shield|Force Shield]]
 
 The shield surrounds you with a bubble of force that protects you from harm, granting you resistance 5 to physical damage.
 

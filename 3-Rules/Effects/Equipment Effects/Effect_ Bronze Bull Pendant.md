@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Bronze Bull Pendant|Bronze Bull Pendant]]
+Granted by [[Bronze Bull Pendant|Bronze Bull Pendant]]
 
 When you activate the pendant, attempt an Athletics check to Shove with a +1 item bonus to check.
 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Ride On `pf2:r`
 ## Feat 9
-### [[centaur]]
+### [[Centaur]]
 
 **Category** ancestry; 
 

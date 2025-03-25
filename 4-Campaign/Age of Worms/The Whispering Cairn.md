@@ -218,7 +218,7 @@ Even a casual inspection ([[Skills#Perception|Perception]] DC 8) reveals that th
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[Wolf, Weak]] W
- - 1: [[Wolf]] H
+ - 1: [[3-Rules/Bestiaries/Bestiary 1/W/Wolf]] H
 
 ```encounter
 name: Whispering Cairn - Hall of Honor
@@ -577,10 +577,10 @@ When the PCs enter the room, the vermin skittering about the sludge coalesces in
 > [!tip]+ Treasure
 > A DC 10 [[Seek]] check reveals the presence of three oblong lumps completely covered with orange sludge in the room's southeast corner.  These are the skeletonized remains of three long-dead human figures in soiled red leather armor. An eight-pointed star symbol markes the left breast of each moldy suit of armor, a symbol that marks the dead as followers of [[Kataklysmos]], which met a grim end in the Lair of the Laborers some 60 years ago.  One of the dead guards has three [[Healing Potion (Minor)]] and another wears some half-plate armor.
 > 
-> A DC 15 [[Seek]] check in the ruined remains fo the nest turns up a mummified human hand still holding a [[3-Rules/Character Building/Equipment/Wayfinder|Wayfinder]]
+> A DC 15 [[Seek]] check in the ruined remains fo the nest turns up a mummified human hand still holding a [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]]
 > 
 > - [x] permanent::[[Leather Lamellar|Leather Lamellar]] [ilvl::1] [gp::18]
-> - [x] permanent::[[3-Rules/Character Building/Equipment/Wayfinder|Wayfinder]] [ilvl::2] [gp::28]
+> - [x] permanent::[[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] [ilvl::2] [gp::28]
 > - [x] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
 > - [x] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
 > - [x] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]

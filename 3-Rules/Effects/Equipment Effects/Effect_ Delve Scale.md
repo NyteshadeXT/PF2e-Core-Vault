@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Delve Scale|Delve Scale]]
+Granted by [[Delve Scale|Delve Scale]]
 
 You gain a burrow Speed of 15 feet and a +2 item bonus to Athletics checks to [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]].
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Lightweave Scarf (Major)|Lightweave Scarf (Major)]]
+Granted by [[Lightweave Scarf (Major)|Lightweave Scarf (Major)]]
 
 You gain a +3 item bonus to saving throws against illusions and Deception checks to Create a Diversion.
 

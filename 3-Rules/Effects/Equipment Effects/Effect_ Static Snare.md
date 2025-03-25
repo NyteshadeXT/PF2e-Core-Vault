@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Static Snare|Static Snare]]
+Granted by [[Static Snare|Static Snare]]
 
 The target takes a -1 circumstance penalty to saving throws against electricity effects for as long as the persistent electricity damage lasts.
 

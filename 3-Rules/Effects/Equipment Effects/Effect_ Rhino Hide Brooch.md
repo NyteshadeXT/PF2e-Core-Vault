@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Rhino Hide Brooch|Rhino Hide Brooch]]
+Granted by [[Rhino Hide Brooch|Rhino Hide Brooch]]
 
 The talisman grants you resistance 5 to physical damage.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Stone Fist Elixir|Stone Fist Elixir]]
+Granted by [[Stone Fist Elixir|Stone Fist Elixir]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

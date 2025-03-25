@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Phantasmal Doorknob (Greater)|Phantasmal Doorknob (Greater)]]
+Granted by [[Phantasmal Doorknob (Greater)|Phantasmal Doorknob (Greater)]]
 
 If you critically succeed at a Strike with the weapon, the target is blinded until the end of its next turn.
 

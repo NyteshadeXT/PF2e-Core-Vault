@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Belt of the Five Kings|Belt of the Five Kings]] when your ally activates it.
+Granted by [[Belt of the Five Kings|Belt of the Five Kings]] when your ally activates it.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

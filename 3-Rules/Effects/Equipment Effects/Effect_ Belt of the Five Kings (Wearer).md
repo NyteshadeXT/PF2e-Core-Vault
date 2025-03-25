@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Belt of the Five Kings|Belt of the Five Kings]] if you are wearing it.
+Granted by [[Belt of the Five Kings|Belt of the Five Kings]] if you are wearing it.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

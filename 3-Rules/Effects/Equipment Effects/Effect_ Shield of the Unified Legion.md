@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Shield of the Unified Legion|Shield of the Unified Legion]]
+Granted by [[Shield of the Unified Legion|Shield of the Unified Legion]]
 
 * * *
 

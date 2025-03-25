@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Salve of Slipperiness|Salve of Slipperiness]]
+Granted by [[Salve of Slipperiness|Salve of Slipperiness]]
 
 You are granted a +2 item bonus to Acrobatics checks to Escape or to Squeeze.
 

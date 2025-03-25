@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potion of Acid Resistance (Moderate)|Potion of Acid Resistance (Moderate)]]
+Granted by [[Potion of Acid Resistance (Moderate)|Potion of Acid Resistance (Moderate)]]
 
 This potion grants resistance 10 against acid damage.
 

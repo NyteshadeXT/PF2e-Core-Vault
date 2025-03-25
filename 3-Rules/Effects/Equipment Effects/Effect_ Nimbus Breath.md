@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Nimbus Breath|Nimbus Breath]]
+Granted by [[Nimbus Breath|Nimbus Breath]]
 
 You gain resistance 5 to electricity and gain a fly speed equal to your land speed or 20, whichever is higher.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Five-Feather Wreath|Five-Feather Wreath]]
+Granted by [[Five-Feather Wreath|Five-Feather Wreath]]
 
 You gain a +1 item bonus to Acrobatics checks and resistance 2 to falling damage.
 

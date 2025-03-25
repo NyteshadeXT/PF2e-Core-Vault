@@ -12,7 +12,7 @@ license: ORC
 ---
 # Artisanal Crafter
 ## Feat 1
-### [[minotaur]]
+### [[Minotaur]]
 
 **Category** ancestry; 
 

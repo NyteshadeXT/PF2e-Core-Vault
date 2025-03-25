@@ -21,7 +21,7 @@ license: OGL
 
 * * *
 
-**Effect** You Interact to draw a [[Equipment/Hand Crossbow|Hand Crossbow]] and Strike with it, or you Strike with a loaded hand crossbow you're already holding and then Interact to stow it.
+**Effect** You Interact to draw a [[Hand Crossbow|Hand Crossbow]] and Strike with it, or you Strike with a loaded hand crossbow you're already holding and then Interact to stow it.
 
 *Source: Pathfinder #165: Eyes of Empty Death*
 *OGL*

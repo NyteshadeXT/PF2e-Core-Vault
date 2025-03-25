@@ -20,7 +20,7 @@ license: ORC
 
 
 
-**Requirements** You're wearing or holding a [[Equipment/Healer's Toolkit|Healer's Toolkit]].
+**Requirements** You're wearing or holding a [[Healer's Toolkit|Healer's Toolkit]].
 
 * * *
 

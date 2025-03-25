@@ -32,7 +32,7 @@ license: OGL
 
 **Stage 5** as stage 4 (1 day)
 
-**Stage 6** dead, and rises as a [[Bestiary 1/Ghast|Ghast]] the next midnight
+**Stage 6** dead, and rises as a [[Ghast|Ghast]] the next midnight
 
 *Source: Pathfinder Bestiary*
 *OGL*

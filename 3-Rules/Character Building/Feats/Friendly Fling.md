@@ -13,7 +13,7 @@ license: ORC
 ---
 # Friendly Fling `pf2:2`
 ## Feat 9
-### [[manipulate]][[minotaur]]
+### [[manipulate]][[Minotaur]]
 
 **Category** ancestry; 
 

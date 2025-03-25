@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Pickled Demon Tongue|Pickled Demon Tongue]]
+Granted by [[Pickled Demon Tongue|Pickled Demon Tongue]]
 
 You gain resistance 2 to acid and attacks by demons.
 

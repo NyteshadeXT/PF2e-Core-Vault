@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Dragon's Eye Charm|Dragon's Eye Charm]]
+Granted by [[Dragon's Eye Charm|Dragon's Eye Charm]]
 
 Choice of:
 

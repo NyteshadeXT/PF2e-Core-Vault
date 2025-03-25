@@ -12,6 +12,6 @@ Table of 18th-Level Consumables Items
 
 | 1d18 | result |
 |------|--------|
-| 1-6 | [[Equipment/King's Sleep\|King's Sleep]] |
-| 7-12 | [[Equipment/Healing Potion (Major)\|Healing Potion (Major)]] |
-| 13-18 | [[Equipment/Potion of Undetectability\|Potion of Undetectability]] |
+| 1-6 | [[King's Sleep\|King's Sleep]] |
+| 7-12 | [[Healing Potion (Major)\|Healing Potion (Major)]] |
+| 13-18 | [[Potion of Undetectability\|Potion of Undetectability]] |

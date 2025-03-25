@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Grit|Grit]]
+Granted by [[Grit|Grit]]
 
 The creature gains a +1 item bonus to Athletics, Crafting, and Performance checks.
 

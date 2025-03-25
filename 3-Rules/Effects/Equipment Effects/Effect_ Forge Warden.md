@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Forge Warden|Forge Warden]]
+Granted by [[Forge Warden|Forge Warden]]
 
 You and any adjacent allies have fire resistance 5 while you have the shield raised.
 

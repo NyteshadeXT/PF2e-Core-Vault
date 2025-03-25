@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Grasp of Droskar|Grasp of Droskar]]
+Granted by [[Grasp of Droskar|Grasp of Droskar]]
 
 You gain a +1 item bonus on all Athletics checks.
 

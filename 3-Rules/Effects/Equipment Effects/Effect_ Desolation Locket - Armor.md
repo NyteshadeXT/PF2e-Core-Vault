@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Desolation Locket|Desolation Locket]]
+Granted by [[Desolation Locket|Desolation Locket]]
 
 The _desolation locket_ numbs you to further despair, and you gain a +2 item bonus to saving throws against emotion effects.
 

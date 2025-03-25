@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Merciful Charm|Merciful Charm]]
+Granted by [[Merciful Charm|Merciful Charm]]
 
 The affixed weapon gains the nonlethal trait for the triggering attack and all other attacks.
 

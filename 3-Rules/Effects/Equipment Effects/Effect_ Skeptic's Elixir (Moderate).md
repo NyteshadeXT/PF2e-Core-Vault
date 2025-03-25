@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Skeptic's Elixir (Moderate)|Skeptic's Elixir (Moderate)]]
+Granted by [[Skeptic's Elixir (Moderate)|Skeptic's Elixir (Moderate)]]
 
 **Duration** 10 minute
 

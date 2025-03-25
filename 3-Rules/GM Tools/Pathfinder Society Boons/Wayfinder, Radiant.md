@@ -19,7 +19,7 @@ license: OGL
 
 **\[Item\]**
 
-**Prerequisites** Liked by Radiant Oath; You own a _[[Equipment/Wayfinder|Wayfinder]]_
+**Prerequisites** Liked by Radiant Oath; You own a _[[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]]_
 
 **Action** `pf2:2` command
 

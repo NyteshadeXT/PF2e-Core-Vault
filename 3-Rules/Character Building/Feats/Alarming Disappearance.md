@@ -12,7 +12,7 @@ license: ORC
 ---
 # Alarming Disappearance
 ## Feat 5
-### [[minotaur]]
+### [[Minotaur]]
 
 **Category** ancestry; 
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Winged Sandals|Winged Sandals]]
+Granted by [[Winged Sandals|Winged Sandals]]
 
 The wings grow in size and propel you through the air, granting you a fly Speed of 30 feet.
 

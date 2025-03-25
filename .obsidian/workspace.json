@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Bestiaries/Uniques/Kullen.md",
+                "file": "3-Rules/Bestiaries/Bestiary 2/Z/Zebub.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Kullen"
-            }
-          },
-          {
-            "id": "ed30422bb4ca35a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Bestiaries/Homebrew/W/water-elemental.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "water-elemental"
+              "title": "Zebub"
             }
           },
           {
@@ -64,48 +50,6 @@
             }
           },
           {
-            "id": "55a7431171c7d423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Tests/1. DM Screen.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "1. DM Screen"
-            }
-          },
-          {
-            "id": "4e9b486ae81909ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Skills.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Skills"
-            }
-          },
-          {
-            "id": "b4d3b045bdb7dd4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Travel Calculator.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Travel Calculator"
-            }
-          },
-          {
             "id": "6430fdb1afb3a33d",
             "type": "leaf",
             "state": {
@@ -120,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -310,51 +254,51 @@
   },
   "active": "8cb6c5576e3a7126",
   "lastOpenFiles": [
-    "3-Rules/Bestiaries/Homebrew/W/water-elemental.md",
-    "3-Rules/Bestiaries/Homebrew/T/tomb-mote.md",
-    "3-Rules/Bestiaries/Homebrew/T/tiefling-guard.md",
-    "3-Rules/Bestiaries/Homebrew/S/shard-slave.md",
-    "3-Rules/Bestiaries/Homebrew/O/orc-shaman.md",
-    "3-Rules/Bestiaries/Homebrew/W",
-    "3-Rules/Bestiaries/Homebrew/T",
-    "3-Rules/Bestiaries/Homebrew/S",
-    "3-Rules/Bestiaries/Homebrew/G/Giant Bombardier Beetle.md",
-    "3-Rules/Bestiaries/Homebrew/O",
-    "3-Rules/Bestiaries/Homebrew/M",
-    "3-Rules/Bestiaries/Homebrew/L",
-    "3-Rules/Bestiaries/Homebrew/D/deathjump-spider.md",
-    "3-Rules/Bestiaries/Homebrew/G",
-    "3-Rules/Bestiaries/Homebrew/D",
-    "3-Rules/Bestiaries/Homebrew/B/beholder-gauth.md",
-    "3-Rules/Bestiaries/Homebrew/acolyte-of-the-radiant-morn.md",
-    "3-Rules/Bestiaries/Homebrew/B",
-    "5-World/NPCs/Diamond Lake/Ragnolin Dourstone.md",
     "1-GM Toolkit/DC Calculator.md",
-    "1-GM Toolkit/Travel Calculator.md",
-    "3-Rules/Skills.md",
-    "1-GM Toolkit/Tests/1. DM Screen.md",
     "4-Campaign/Age of Worms/The Three Faces of Evil.md",
-    "zz-Templates/Markdown/Weather Template.md",
-    "zz-Templates/Markdown/Weather Specified.md",
-    "zz-Templates/Markdown/Update XP.md",
-    "zz-Templates/Markdown/Update Treasure.md",
-    "zz-Templates/Markdown/Spell-Template.md",
-    "zz-Templates/Markdown/PF2E Statblock Example.md",
-    "zz-Templates/Markdown/Insert Map (Leaflet).md",
-    "zz-Templates/Markdown/Combat Templates/Insert Encounter Note.md",
-    "zz-Templates/Markdown/Insert Encounter Map (Leaflet).md",
-    "zz-Templates/Markdown/Insert Reference To Rollable Table.md",
-    "zz-Templates/Markdown/Combat Templates/Insert Custom Encounter (Initiative Tracker).md",
-    "zz-Templates/GM Templates/World Building",
+    "3-Rules/Bestiaries/Bestiary 2/Z/Zebub.md",
+    "3-Rules/Bestiaries/Bestiary 2/Y/Yamaraj.md",
+    "3-Rules/Bestiaries/Bestiary 2/W/Water Orm.md",
+    "3-Rules/Bestiaries/Bestiary 2/V/Vampire Squid.md",
+    "3-Rules/Bestiaries/Bestiary 2/Z",
+    "3-Rules/Bestiaries/Bestiary 2/Y",
+    "3-Rules/Bestiaries/Bestiary 2/X",
+    "3-Rules/Bestiaries/Bestiary 2/W",
+    "3-Rules/Bestiaries/Bestiary 2/U/Umbral Dragon (Adult, Spellcaster).md",
+    "3-Rules/Bestiaries/Bestiary 2/T/Taiga Giant.md",
+    "3-Rules/Bestiaries/Bestiary 2/S/Sacristan.md",
+    "3-Rules/Bestiaries/Bestiary 2/R/Radiant Warden.md",
+    "3-Rules/Bestiaries/Bestiary 2/V",
+    "3-Rules/Bestiaries/Bestiary 2/U",
+    "3-Rules/Bestiaries/Bestiary 2/T",
+    "3-Rules/Bestiaries/Bestiary 2/S",
+    "3-Rules/Bestiaries/Bestiary 2/Q/Quetz Couatl.md",
+    "3-Rules/Bestiaries/Bestiary 2/P/Pachycephalosaurus.md",
+    "3-Rules/Bestiaries/Bestiary 2/O/Ogre Spider.md",
+    "3-Rules/Bestiaries/Bestiary 2/N/Nabasu.md",
+    "3-Rules/Bestiaries/Bestiary 2/M/Mudwretch.md",
+    "3-Rules/Bestiaries/Bestiary 2/R",
+    "3-Rules/Bestiaries/Bestiary 2/Q",
+    "3-Rules/Bestiaries/Bestiary 2/M/Magma Dragon (Adult, Spellcaster).md",
+    "3-Rules/Bestiaries/Bestiary 2/L/Leng Spider.md",
+    "3-Rules/Bestiaries/Bestiary 2/K/Kelpie.md",
+    "3-Rules/Bestiaries/Bestiary 2/J/Jabberwock.md",
+    "3-Rules/Bestiaries/Bestiary 2/I/Ice Golem.md",
+    "3-Rules/Bestiaries/Bestiary 2/H/Hadrosaurid.md",
+    "3-Rules/Bestiaries/Bestiary 2/G/Gylou.md",
+    "3-Rules/Bestiaries/Bestiary 2/H/Hellcat.md",
+    "3-Rules/Bestiaries/Bestiary 2/G/Ghonhatine.md",
+    "3-Rules/Bestiaries/Bestiary 2/F/Fen Mosquito Swarm.md",
+    "3-Rules/Bestiaries/Bestiary 2/E/Earthen Destrier.md",
+    "zz-Attachments/image-2.png",
+    "zz-Attachments/Three Faces of Evil-Handout 2.png",
+    "zz-Attachments/Three Faces of Evil-Handout 1.png",
+    "zz-Attachments/Theldrick.png",
+    "zz-Attachments/Citadel-of-Hextor.png",
     "zz-Attachments/Dark Cathedral.png",
     "zz-Attachments/Ragnolin Dourstone.png",
     "zz-Attachments/Three Faces of Evil Banner.png",
     "zz-Attachments/Jerrykk.png",
-    "zz-Attachments/Zamosshe.png",
-    "zz-Attachments/image-1.png",
-    "zz-Attachments/image.png",
-    "zz-Attachments/Whispering Cairn.webp",
-    "zz-Attachments/The Whispering Cairn-Entrance.webp",
-    "zz-Attachments/Ardentia City Map.png"
+    "zz-Attachments/Zamosshe.png"
   ]
 }

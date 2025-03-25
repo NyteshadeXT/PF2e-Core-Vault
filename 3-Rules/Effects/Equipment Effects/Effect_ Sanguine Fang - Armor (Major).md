@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Sanguine Fang (Major)|Sanguine Fang (Major)]]
+Granted by [[Sanguine Fang (Major)|Sanguine Fang (Major)]]
 
 You gain resistance 10 to persistent bleed damage and a +3 item bonus on saving throws against effects with the void trait.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Soothing Tonic (Lesser)|Soothing Tonic (Lesser)]]
+Granted by [[Soothing Tonic (Lesser)|Soothing Tonic (Lesser)]]
 
 You gain fast healing 1.
 

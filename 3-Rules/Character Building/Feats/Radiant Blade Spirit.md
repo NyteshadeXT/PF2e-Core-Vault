@@ -21,7 +21,7 @@ license: OGL
 * * *
 Your divine ally radiates power, enhancing your chosen weapon.
 
-When you choose the weapon for your blade ally during your daily preparations, add the following property runes to the list of effects you can choose from: [[Equipment/Flaming|Flaming]], [[Equipment/Holy|Holy]] if you are holy, and [[Equipment/Unholy|Unholy]] if you are unholy
+When you choose the weapon for your blade ally during your daily preparations, add the following property runes to the list of effects you can choose from: [[Flaming|Flaming]], [[Holy|Holy]] if you are holy, and [[Unholy|Unholy]] if you are unholy
 
 [[Feat_Feature Effects/Effect_ Blade Ally|Effect: Blade Ally]]
 

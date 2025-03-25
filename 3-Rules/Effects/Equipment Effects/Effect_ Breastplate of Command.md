@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Breastplate of Command|Breastplate of Command]]
+Granted by [[Breastplate of Command|Breastplate of Command]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

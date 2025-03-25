@@ -21,7 +21,7 @@ license: OGL
 
 **Frequency** once per round
 
-**Trigger** You craft an [[Equipment/Elixir of Life (Minor)|Elixir of Life]] using [[Class Features/Quick Alchemy|Quick Alchemy]], and that elixir is at least 2 levels lower than your advanced alchemy level
+**Trigger** You craft an [[Elixir of Life (Minor)|Elixir of Life]] using [[Class Features/Quick Alchemy|Quick Alchemy]], and that elixir is at least 2 levels lower than your advanced alchemy level
 
 * * *
 

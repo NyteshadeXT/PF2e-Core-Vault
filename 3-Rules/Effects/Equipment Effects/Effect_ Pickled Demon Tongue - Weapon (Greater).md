@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Pickled Demon Tongue (Greater)|Pickled Demon Tongue (Greater)]]
+Granted by [[Pickled Demon Tongue (Greater)|Pickled Demon Tongue (Greater)]]
 
 Strikes with the weapon deal an additional 1d6 acid damage.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by activating [[Equipment/Lover's Gloves|Lover's Gloves]]
+Granted by activating [[Lover's Gloves|Lover's Gloves]]
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

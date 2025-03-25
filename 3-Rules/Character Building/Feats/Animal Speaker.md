@@ -11,7 +11,7 @@ license: OGL
 ---
 # Animal Speaker
 ## Feat 5
-### [[sprite]]
+### [[3-Rules/Bestiaries/Bestiary 1/S/Sprite]]
 
 **Category** ancestry; 
 

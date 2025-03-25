@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Ebon Fulcrum Lens|Ebon Fulcrum Lens]]
+Granted by [[Ebon Fulcrum Lens|Ebon Fulcrum Lens]]
 
 For the first 24 hours after you rejuvenate, you gain a +1 item bonus to attack rolls, saving throws, and DCs.
 

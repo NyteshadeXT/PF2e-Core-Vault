@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Vaultbreaker's Harness|Vaultbreaker's Harness]]
+Granted by [[Vaultbreaker's Harness|Vaultbreaker's Harness]]
 
 *Source: Pathfinder #158: Sixty Feet Under*
 *OGL*

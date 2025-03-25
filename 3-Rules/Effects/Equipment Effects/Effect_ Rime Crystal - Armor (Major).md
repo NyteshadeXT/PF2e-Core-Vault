@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Rime Crystal (Major)|Rime Crystal (Major)]]
+Granted by [[Rime Crystal (Major)|Rime Crystal (Major)]]
 
 You gain resistance 10 to cold.
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potion of Electricity Resistance (Greater)|Potion of Electricity Resistance (Greater)]]
+Granted by [[Potion of Electricity Resistance (Greater)|Potion of Electricity Resistance (Greater)]]
 
 This potion grants resistance 15 against electricity damage.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Ghostcaller's Planchette|Ghostcaller's Planchette]]
+Granted by [[Ghostcaller's Planchette|Ghostcaller's Planchette]]
 
 After you cast a necromancy spell by activating the _planchette_, you gain resistance 5 to all physical damage (except _ghost touch_) until the start of your next turn. Attacks by incorporeal creatures (such as a ghost's ghostly hand) count as _ghost touch_.
 

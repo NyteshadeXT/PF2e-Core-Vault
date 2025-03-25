@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Slippers of Spider Climbing|Slippers of Spider Climbing]]
+Granted by [[Slippers of Spider Climbing|Slippers of Spider Climbing]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

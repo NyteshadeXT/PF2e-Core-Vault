@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Elixir of Life (Major)|Elixir of Life (Major)]]
+Granted by [[Elixir of Life (Major)|Elixir of Life (Major)]]
 
 Implemented effects:
 

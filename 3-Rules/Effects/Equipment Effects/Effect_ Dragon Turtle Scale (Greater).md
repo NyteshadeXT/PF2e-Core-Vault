@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Dragon Turtle Scale (Greater)|Dragon Turtle Scale (Greater)]]
+Granted by [[Dragon Turtle Scale (Greater)|Dragon Turtle Scale (Greater)]]
 
 You gain a swim Speed equal to your land Speed.
 

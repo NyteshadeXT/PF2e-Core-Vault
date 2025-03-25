@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potion of Cold Resistance (Lesser)|Potion of Cold Resistance (Lesser)]]
+Granted by [[Potion of Cold Resistance (Lesser)|Potion of Cold Resistance (Lesser)]]
 
 This potion grants resistance 5 against cold damage.
 

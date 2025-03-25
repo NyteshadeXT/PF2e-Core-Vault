@@ -12,7 +12,7 @@ license: ORC
 ---
 # Practiced Brawn
 ## Feat 1
-### [[centaur]]
+### [[Centaur]]
 
 **Category** ancestry; 
 

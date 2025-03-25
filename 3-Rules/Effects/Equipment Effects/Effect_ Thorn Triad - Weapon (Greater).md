@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Thorn Triad (Greater)|Thorn Triad (Greater)]]
+Granted by [[Thorn Triad (Greater)|Thorn Triad (Greater)]]
 
 After you cast a plant spell by activating the triad, thorns erupt from the weapon. Your Strikes with the weapon deal an additional 1d6 persistent bleed damage until the end of your next turn.
 

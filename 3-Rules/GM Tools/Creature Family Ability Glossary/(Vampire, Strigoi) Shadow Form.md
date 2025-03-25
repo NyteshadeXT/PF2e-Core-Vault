@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Vampire, Strigoi) Shadow Form `pf2:1`
 
-### [[concentrate]][[divine]][[shadow]]
+### [[concentrate]][[divine]][[3-Rules/trait_reference/shadow]]
 
 **Category** defensive; 
 

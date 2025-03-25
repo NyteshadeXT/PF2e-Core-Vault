@@ -20,7 +20,7 @@ license: OGL
 
 You can cause your body to twist and flow like the quicksilver within your mutagens.
 
-Whenever you are under the effects of a [[Equipment/Quicksilver Mutagen (Lesser)|Quicksilver Mutagen]], you can stretch your legs and Step up to 10 feet, and you can squish and compress your body, allowing you to make it through tight spaces as if you were one size smaller, in addition to any effect from [[Actions/Squeeze|Squeezing]].
+Whenever you are under the effects of a [[Quicksilver Mutagen (Lesser)|Quicksilver Mutagen]], you can stretch your legs and Step up to 10 feet, and you can squish and compress your body, allowing you to make it through tight spaces as if you were one size smaller, in addition to any effect from [[Actions/Squeeze|Squeezing]].
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

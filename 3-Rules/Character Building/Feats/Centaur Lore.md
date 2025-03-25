@@ -12,7 +12,7 @@ license: ORC
 ---
 # Centaur Lore
 ## Feat 1
-### [[centaur]]
+### [[Centaur]]
 
 **Category** ancestry; 
 

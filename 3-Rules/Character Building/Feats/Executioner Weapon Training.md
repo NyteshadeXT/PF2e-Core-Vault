@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Vigilante Dedication; Member of the Grey Gardeners
 * * *
-Your Gray Gardener training has made you deeply skilled with the weapons that execute with a swift chop to the neck. You become trained with the following weapons: [[Equipment/Battle Axe|Battle Axe]], [[Equipment/Falchion|Falchion]], [[Equipment/Greataxe|Greataxe]], and [[Equipment/Scimitar|Scimitar]].
+Your Gray Gardener training has made you deeply skilled with the weapons that execute with a swift chop to the neck. You become trained with the following weapons: [[Battle Axe|Battle Axe]], [[Falchion|Falchion]], [[Greataxe|Greataxe]], and [[Scimitar|Scimitar]].
 
 Whenever you gain a class feature that grants you expert or greater proficiency with a given weapon or weapons, you also gain that proficiency for these weapons.
 

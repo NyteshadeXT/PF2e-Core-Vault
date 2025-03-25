@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You learned to fight with weapons that help you keep your distance or make the most of striking from shadows. You gain access to and familiarity with the [[Equipment/Blowgun|Blowgun]], [[Equipment/Fighting Fan|Fighting Fan]], [[Equipment/Kris|Kris]], [[Equipment/Longspear|Longspear]], [[Equipment/Machete|Machete]], [[Equipment/Sai|Sai]], and [[Equipment/Trident|Trident]]. You have familiarity with these weapons—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
+You learned to fight with weapons that help you keep your distance or make the most of striking from shadows. You gain access to and familiarity with the [[Blowgun|Blowgun]], [[Fighting Fan|Fighting Fan]], [[Kris|Kris]], [[Longspear|Longspear]], [[Machete|Machete]], [[Sai|Sai]], and [[Trident|Trident]]. You have familiarity with these weapons—for the purposes of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
 
 At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 

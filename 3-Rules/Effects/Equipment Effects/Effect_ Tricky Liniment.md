@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Tricky Liniment|Tricky Liniment]]
+Granted by [[Tricky Liniment|Tricky Liniment]]
 
 You are granted a +2 item bonus to Acrobatics checks to Escape or to Squeeze.
 

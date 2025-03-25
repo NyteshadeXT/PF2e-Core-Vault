@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Bloodhound Mask (Lesser)|Bloodhound Mask (Lesser)]]
+Granted by [[Bloodhound Mask (Lesser)|Bloodhound Mask (Lesser)]]
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

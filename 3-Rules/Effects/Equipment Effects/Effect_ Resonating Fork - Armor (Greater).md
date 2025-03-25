@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Resonating Fork (Greater)|Resonating Fork (Greater)]]
+Granted by [[Resonating Fork (Greater)|Resonating Fork (Greater)]]
 
 You gain resistance 5 to sonic damage and a +2 item bonus to saving throws against effects with the auditory or sonic trait.
 

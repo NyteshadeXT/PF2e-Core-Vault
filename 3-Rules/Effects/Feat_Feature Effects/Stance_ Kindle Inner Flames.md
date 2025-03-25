@@ -21,7 +21,7 @@ As a candle can light another, you awaken the latent potential to channel fire i
 
 * * *
 
-**Level (12th)** The status bonus to Reflex saves and Acrobatics checks is +2, and the Strikes gain the _[[Equipment/Flaming|Flaming]]_ rune instead of the extra 2 fire damage.
+**Level (12th)** The status bonus to Reflex saves and Acrobatics checks is +2, and the Strikes gain the _[[Flaming|Flaming]]_ rune instead of the extra 2 fire damage.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

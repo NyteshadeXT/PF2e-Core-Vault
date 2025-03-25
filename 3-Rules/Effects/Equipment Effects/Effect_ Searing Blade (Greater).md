@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Searing Blade (Greater)|Searing Blade (Greater)]]
+Granted by [[Searing Blade (Greater)|Searing Blade (Greater)]]
 
 All weapon and unarmed attacks by you and your allies within the area gain the effect of the _flaming_ property rune.
 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Merge with the Source
 ## Feat 17
-### [[centaur]]
+### [[Centaur]]
 
 **Category** ancestry; 
 

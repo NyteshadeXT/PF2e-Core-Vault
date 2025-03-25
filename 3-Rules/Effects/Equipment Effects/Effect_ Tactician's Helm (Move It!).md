@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Tactician's Helm|Tactician's Helm]]
+Granted by [[Tactician's Helm|Tactician's Helm]]
 
 You gain a +2 status bonus to Acrobatics and Athletics checks.
 

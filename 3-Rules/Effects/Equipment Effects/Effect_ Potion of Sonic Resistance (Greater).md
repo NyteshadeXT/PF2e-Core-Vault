@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potion of Sonic Resistance (Greater)|Potion of Sonic Resistance (Greater)]]
+Granted by [[Potion of Sonic Resistance (Greater)|Potion of Sonic Resistance (Greater)]]
 
 This potion grants resistance 15 against sonic damage.
 

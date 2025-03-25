@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potion of Electricity Resistance (Moderate)|Potion of Electricity Resistance (Moderate)]]
+Granted by [[Potion of Electricity Resistance (Moderate)|Potion of Electricity Resistance (Moderate)]]
 
 This potion grants resistance 10 against electricity damage.
 

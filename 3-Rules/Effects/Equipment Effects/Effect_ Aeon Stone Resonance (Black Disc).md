@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Aeon Stone (Black Disc)|Aeon Stone (Black Disc)]]
+Granted by [[Aeon Stone (Black Disc)|Aeon Stone (Black Disc)]]
 
 The resonant power grants you resistance 10 to holy and to vitality damage.
 

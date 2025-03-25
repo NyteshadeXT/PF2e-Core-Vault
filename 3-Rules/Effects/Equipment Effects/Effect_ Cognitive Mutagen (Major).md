@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Cognitive Mutagen (Major)|Cognitive Mutagen (Major)]]
+Granted by [[Cognitive Mutagen (Major)|Cognitive Mutagen (Major)]]
 
 **Implemented effects**
 

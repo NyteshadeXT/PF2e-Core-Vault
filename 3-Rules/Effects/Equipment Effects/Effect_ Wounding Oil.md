@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Wounding Oil|Wounding Oil]]
+Granted by [[Wounding Oil|Wounding Oil]]
 
 The selected weapon gains the benefits of the _wounding_ rune.
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Fierce Competitor `pf2:2`
 ## Feat 9
-### [[centaur]][[3-Rules/trait_reference/mental]]
+### [[Centaur]][[3-Rules/trait_reference/mental]]
 
 **Category** ancestry; 
 

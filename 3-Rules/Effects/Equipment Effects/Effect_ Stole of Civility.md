@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Stole of Civility|Stole of Civility]]
+Granted by [[Stole of Civility|Stole of Civility]]
 
 *Source: Pathfinder #152: Legacy of the Lost God*
 *OGL*

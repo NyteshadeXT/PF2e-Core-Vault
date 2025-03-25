@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Vapor Sphere|Vapor Sphere]]
+Granted by [[Vapor Sphere|Vapor Sphere]]
 
 You gain resistance 25 to physical damage and are immune to precision damage.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Stalwart's Ring|Stalwart's Ring]]
+Granted by [[Stalwart's Ring|Stalwart's Ring]]
 
 *Source: Pathfinder Adventure: The Fall of Plaguestone*
 *OGL*

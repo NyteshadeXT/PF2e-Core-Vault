@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Pucker Pickle|Pucker Pickle]]
+Granted by [[Pucker Pickle|Pucker Pickle]]
 
 You take a –2 circumstance penalty to further attacks against the target that allow you to taste it, including attacks like Grappling or Tripping it using your jaws or Swallowing it Whole.
 

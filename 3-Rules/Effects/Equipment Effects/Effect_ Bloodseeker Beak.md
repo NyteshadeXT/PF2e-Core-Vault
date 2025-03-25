@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Bloodseeker Beak|Bloodseeker Beak]]
+Granted by [[Bloodseeker Beak|Bloodseeker Beak]]
 
 When you activate the beak, you deal an extra 1d4 precision damage on your damage roll.
 

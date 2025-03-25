@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Saurian Spike|Saurian Spike]]  
+Granted by [[Saurian Spike|Saurian Spike]]  
   
 You gain an imprecise scent with range 30ft.
 

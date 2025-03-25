@@ -12,7 +12,7 @@ license: ORC
 ---
 # Into the Labyrinth
 ## Feat 17
-### [[minotaur]]
+### [[Minotaur]]
 
 **Category** ancestry; 
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Leopard's Armor|Leopard's Armor]]
+Granted by [[Leopard's Armor|Leopard's Armor]]
 
 *Source: Pathfinder #170: Spoken on the Song Wind*
 *OGL*

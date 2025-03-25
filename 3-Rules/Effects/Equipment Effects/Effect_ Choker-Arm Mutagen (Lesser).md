@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Choker-Arm Mutagen (Lesser)|Choker-Arm Mutagen (Lesser)]]
+Granted by [[Choker-Arm Mutagen (Lesser)|Choker-Arm Mutagen (Lesser)]]
 
 **Implemented Effects**
 

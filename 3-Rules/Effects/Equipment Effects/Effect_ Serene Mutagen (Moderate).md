@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Serene Mutagen (Moderate)|Serene Mutagen (Moderate)]]
+Granted by [[Serene Mutagen (Moderate)|Serene Mutagen (Moderate)]]
 
 Implemented effects:
 

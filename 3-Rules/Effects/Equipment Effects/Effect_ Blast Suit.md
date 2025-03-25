@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Blast Suit|Blast Suit]]
+Granted by [[Blast Suit|Blast Suit]]
 
 The _blast suit_ locks together into a rigid bulwark, protecting you from the blast but preventing you from moving from your position under any circumstances. You become immobilized, gain a +2 circumstance bonus to your Reflex save against area effects, and gain resistance 5 to all damage you would normally take from area effects and scatter splash damage (this doesn't damage the _blast suit_). These effects persist for as long as the suit remains in the locked position. You can Interact with the suit to unlock it.
 

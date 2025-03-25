@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Codex of Destruction and Renewal|Codex of Destruction and Renewal]]
+Granted by [[Codex of Destruction and Renewal|Codex of Destruction and Renewal]]
 
 The target gains regeneration 20.
 

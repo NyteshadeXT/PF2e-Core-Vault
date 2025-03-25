@@ -19,7 +19,7 @@ license: OGL
 
 **\[Item\]**
 
-**Prerequisites** Tier 2 with the Envoy's Alliance; You own a [[Equipment/Wayfinder|Wayfinder]]
+**Prerequisites** Tier 2 with the Envoy's Alliance; You own a [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]]
 
 **Cost** 2 Fame
 
@@ -27,7 +27,7 @@ license: OGL
 
 * * *
 
-**Effect** You have modified your [[Equipment/Wayfinder|Wayfinder]] to resonate with your allies' actions, allowing you to better help them in times of need. When you slot this boon, you apply its benefits to one [[Equipment/Wayfinder|Wayfinder]] in your possession, granting you a special free action ability when the [[Equipment/Wayfinder|Wayfinder]] is invested and in your possession.
+**Effect** You have modified your [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] to resonate with your allies' actions, allowing you to better help them in times of need. When you slot this boon, you apply its benefits to one [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] in your possession, granting you a special free action ability when the [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] is invested and in your possession.
 
 You can activate this ability as a free action before you [[Actions/Aid|Aid]] an ally. If you roll a success on the check to [[Actions/Aid|Aid]], you instead get a critical success.
 

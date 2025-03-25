@@ -12,7 +12,7 @@ tags:
 
 | 1d21 | result |
 |------|--------|
-| 1-6 | [[Equipment/Half Plate\|Half Plate]] |
-| 7-12 | [[Equipment/Splint Mail\|Splint Mail]] |
-| 13-18 | [[Equipment/Everlight Crystal\|Everlight Crystal]] |
-| 19-21 | [[Equipment/Aeon Stone (Consumed)\|Aeon Stone (Consumed)]] |
+| 1-6 | [[Half Plate\|Half Plate]] |
+| 7-12 | [[Splint Mail\|Splint Mail]] |
+| 13-18 | [[Everlight Crystal\|Everlight Crystal]] |
+| 19-21 | [[Aeon Stone (Consumed)\|Aeon Stone (Consumed)]] |

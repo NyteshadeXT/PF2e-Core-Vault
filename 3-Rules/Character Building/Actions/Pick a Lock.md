@@ -20,7 +20,7 @@ license: ORC
 
 
 
-**Requirements** You're wearing or holding [[Equipment/Thieves' Toolkit|Thieves' Tools]]
+**Requirements** You're wearing or holding [[Thieves' Toolkit|Thieves' Tools]]
 
 * * *
 
@@ -32,7 +32,7 @@ Opening a lock without a key is very similar to [[Actions/Disable a Device|Disab
 
 **Success** You open the lock, or you achieve one success toward opening a complex lock.
 
-**Critical Failure** You break your tools. Fixing them requires using Crafting to [[Actions/Repair|Repair]] them or else swapping in [[Equipment/Thieves' Toolkit (Replacement Picks)|Replacement Picks]].
+**Critical Failure** You break your tools. Fixing them requires using Crafting to [[Actions/Repair|Repair]] them or else swapping in [[Thieves' Toolkit (Replacement Picks)|Replacement Picks]].
 
 *Source: Pathfinder Player Core*
 *ORC*

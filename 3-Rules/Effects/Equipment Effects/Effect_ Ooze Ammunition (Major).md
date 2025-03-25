@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Ooze Ammunition (Major)|Ooze Ammunition (Major)]]
+Granted by [[Ooze Ammunition (Major)|Ooze Ammunition (Major)]]
 
 The creature takes a –15-foot penalty to Speed and 4d4 persistent acid damage until it ends the effects.
 

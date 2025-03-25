@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Cloak of Swiftness|Cloak of Swiftness]]
+Granted by [[Cloak of Swiftness|Cloak of Swiftness]]
 
 You gain a fly Speed of 30 feet and become concealed.
 

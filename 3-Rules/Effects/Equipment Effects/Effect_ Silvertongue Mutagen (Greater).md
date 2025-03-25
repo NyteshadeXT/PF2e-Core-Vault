@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Silvertongue Mutagen (Greater)|Silvertongue Mutagen (Greater)]]
+Granted by [[Silvertongue Mutagen (Greater)|Silvertongue Mutagen (Greater)]]
 
 Implemented effects:
 

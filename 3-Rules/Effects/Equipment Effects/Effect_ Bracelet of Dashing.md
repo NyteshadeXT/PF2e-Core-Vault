@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Bracelet of Dashing|Bracelet of Dashing]]
+Granted by [[Bracelet of Dashing|Bracelet of Dashing]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

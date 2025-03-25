@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You grow a shield of woven flowers and branches, then Raise that Shield to defend yourself from the triggering attack. If you would take damage from the attack, you immediately [[Feats/Shield Block|Shield Block]]. This is a [[Equipment/Wooden Shield|Wooden Shield]] (Hardness 3, HP 12, BT 6). The shield remains in your possession for a number of rounds equal to your level, or until it's destroyed.
+You grow a shield of woven flowers and branches, then Raise that Shield to defend yourself from the triggering attack. If you would take damage from the attack, you immediately [[Feats/Shield Block|Shield Block]]. This is a [[Wooden Shield|Wooden Shield]] (Hardness 3, HP 12, BT 6). The shield remains in your possession for a number of rounds equal to your level, or until it's destroyed.
 
 **Awakening** The shield becomes stronger. It has Hardness 5, HP 40, BT 20.
 

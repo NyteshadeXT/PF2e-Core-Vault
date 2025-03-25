@@ -21,7 +21,7 @@ license: OGL
 * * *
 Your [[Class Features/Advanced Alchemy|Advanced Alchemy]] level for herbalism increases to your level -3.
 
-You gain the formulas for elixirs of life as soon as your advanced alchemy level is high enough to create them: [[Equipment/Elixir of Life (Lesser)|lesser]] at 8th level, [[Equipment/Elixir of Life (Moderate)|moderate]] at 12th level, [[Equipment/Elixir of Life (Greater)|greater]] at 16th level, and [[Equipment/Elixir of Life (Major)|major]] at 18th level.
+You gain the formulas for elixirs of life as soon as your advanced alchemy level is high enough to create them: [[Elixir of Life (Lesser)|lesser]] at 8th level, [[Elixir of Life (Moderate)|moderate]] at 12th level, [[Elixir of Life (Greater)|greater]] at 16th level, and [[Elixir of Life (Major)|major]] at 18th level.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

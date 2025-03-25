@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Qat|Qat]]
+Granted by [[Qat|Qat]]
 
 The creature gains a +1 item bonus to Reflex saves.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Wyrm Claw (Greater)|Wyrm Claw (Greater)]]
+Granted by [[Wyrm Claw (Greater)|Wyrm Claw (Greater)]]
 
 After you cast a conjuration spell by activating the _wyrm claw_, you gain resistance 10 to acid, cold, electricity, and fire for the next minute.
 

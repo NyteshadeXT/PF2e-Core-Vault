@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Blight Breath|Blight Breath]]
+Granted by [[Blight Breath|Blight Breath]]
 
 You gain resistance 10 to poison.
 

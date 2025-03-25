@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-You have specially reinforced your [[Equipment/Wayfinder|Wayfinder]], devising a way for the device to absorb harmful energies. When you purchase this boon, you apply its benefits to one [[Equipment/Wayfinder|Wayfinder]] in your possession, granting you a special reaction ability when the [[Equipment/Wayfinder|Wayfinder]] is invested and in your possession. You gain the following reaction:
+You have specially reinforced your [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]], devising a way for the device to absorb harmful energies. When you purchase this boon, you apply its benefits to one [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] in your possession, granting you a special reaction ability when the [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] is invested and in your possession. You gain the following reaction:
 
 * * *
 

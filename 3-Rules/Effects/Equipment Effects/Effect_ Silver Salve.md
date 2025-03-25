@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Silver Salve|Silver Salve]]
+Granted by [[Silver Salve|Silver Salve]]
 
 The weapon or ammunition counts as silver instead of its normal material (such as cold iron) for any physical damage it deals.
 

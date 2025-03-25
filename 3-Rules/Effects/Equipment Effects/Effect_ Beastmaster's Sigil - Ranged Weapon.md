@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Beastmaster's Sigil|Beastmaster's Sigil]]
+Granted by [[Beastmaster's Sigil|Beastmaster's Sigil]]
 
 If you critically hit with the affixed weapon, and the target is adjacent to a creature summoned with the _sigil_, the target takes 1d6 persistent bleed damage.
 

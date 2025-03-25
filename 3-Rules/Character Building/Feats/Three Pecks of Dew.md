@@ -24,7 +24,7 @@ At this stage of cultivation, your body is as much spirit as flesh. While still 
 
 You become sanctified with the holy trait. When you perform the Subsist downtime activity, you can use Occultism for the skill check (instead of the skills normally associated with your environment). If you do so, this activity gains the vitality trait as you subsist on ambient qi within your environment's dew-laden air and create shelter from solidified emanations of qi.
 
-Additionally, when you Refocus, you can also [[Actions/Treat Wounds|Treat Wounds]] at the same time. If you do so, you can use Occultism for checks to Treat Wounds and disregard the need for a [[Equipment/Healer's Toolkit|Healer's Toolkit]]; this activity gains the vitality trait as you circulate healing qi through your own body or transfuse your ally with healing qi.
+Additionally, when you Refocus, you can also [[Actions/Treat Wounds|Treat Wounds]] at the same time. If you do so, you can use Occultism for checks to Treat Wounds and disregard the need for a [[Healer's Toolkit|Healer's Toolkit]]; this activity gains the vitality trait as you circulate healing qi through your own body or transfuse your ally with healing qi.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

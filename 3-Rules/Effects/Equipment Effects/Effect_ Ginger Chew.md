@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Ginger Chew|Ginger Chew]]
+Granted by [[Ginger Chew|Ginger Chew]]
 
 A ginger chew lasts for 1 hour and grants you a +1 item bonus to Fortitude saves against being sickened.
 

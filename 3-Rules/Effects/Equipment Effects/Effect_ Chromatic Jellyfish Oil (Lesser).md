@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Chromatic Jellyfish Oil (Lesser)|Chromatic Jellyfish Oil (Lesser)]]
+Granted by [[Chromatic Jellyfish Oil (Lesser)|Chromatic Jellyfish Oil (Lesser)]]
 
 You gain resistance 5 to precision damage and extra damage from critical hits.
 

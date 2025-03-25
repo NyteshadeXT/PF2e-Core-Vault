@@ -15,7 +15,7 @@ aliases: "Compendium.pf2e.spells-srd.Item.X1b9ollVMSLXDN9o"
 ---
 # Litany against Wrath  `pf2:1`  
 ## Focus 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[champion]][[concentrate]][[focus]][[holy]][[litany]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[champion]][[concentrate]][[focus]][[Holy]][[litany]]
 
 **Range** 30 feet
 **Targets** 1 creature that isn&#x27;t holy

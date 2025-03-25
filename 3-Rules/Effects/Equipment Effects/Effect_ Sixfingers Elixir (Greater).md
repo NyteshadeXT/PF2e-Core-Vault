@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Sixfingers Elixir (Greater)|Sixfingers Elixir (Greater)]]
+Granted by [[Sixfingers Elixir (Greater)|Sixfingers Elixir (Greater)]]
 
 * * *
 

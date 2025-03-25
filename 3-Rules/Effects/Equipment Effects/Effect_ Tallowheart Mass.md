@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Tallowheart Mass|Tallowheart Mass]]
+Granted by [[Tallowheart Mass|Tallowheart Mass]]
 
 You gain resistance 10 to fire damage.
 

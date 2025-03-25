@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Erraticannon|Erraticannon]]
+Granted by [[Erraticannon|Erraticannon]]
 
 The _erraticannon_ deals 1d6 additional damage of a second damage type.
 

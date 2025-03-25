@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Gnoll Weapon Practicality
 * * *
-Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in [[Equipment/Flail|Flail]], [[Equipment/Khopesh|Khopesh]], [[Equipment/Mambele|Mambele]], [[Equipment/Spear|Spear]], and [[Equipment/War Flail|War Flail]].
+Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in [[Flail|Flail]], [[Khopesh|Khopesh]], [[Mambele|Mambele]], [[Spear|Spear]], and [[War Flail|War Flail]].
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

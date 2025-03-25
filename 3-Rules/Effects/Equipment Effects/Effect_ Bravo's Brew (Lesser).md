@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Bravo's Brew (Lesser)|Bravo's Brew (Lesser)]]
+Granted by [[Bravo's Brew (Lesser)|Bravo's Brew (Lesser)]]
 
 Implemented effects:
 

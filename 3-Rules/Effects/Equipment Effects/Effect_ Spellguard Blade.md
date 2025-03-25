@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Spellguard Blade|Spellguard Blade]]
+Granted by [[Spellguard Blade|Spellguard Blade]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Potion of Swimming|Potion of Swimming]]
+Granted by [[Potion of Swimming|Potion of Swimming]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

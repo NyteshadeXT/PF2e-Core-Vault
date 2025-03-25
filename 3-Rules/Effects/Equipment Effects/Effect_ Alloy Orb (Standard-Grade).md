@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Alloy Orb (Standard-Grade)|Alloy Orb (Standard-Grade)]]
+Granted by [[Alloy Orb (Standard-Grade)|Alloy Orb (Standard-Grade)]]
 
 When you activate the _alloy orb_, select cold iron or silver. The affixed weapon functions as the chosen material.
 

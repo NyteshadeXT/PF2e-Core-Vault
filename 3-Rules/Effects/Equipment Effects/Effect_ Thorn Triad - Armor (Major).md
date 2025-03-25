@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Thorn Triad (Major)|Thorn Triad (Major)]]
+Granted by [[Thorn Triad (Major)|Thorn Triad (Major)]]
 
 After you cast a plant spell by activating the triad, you gain resistance 6 to bludgeoning and piercing damage and weakness 3 to fire until the end of your next turn, or double the resistance for a non-cantrip spell.
 

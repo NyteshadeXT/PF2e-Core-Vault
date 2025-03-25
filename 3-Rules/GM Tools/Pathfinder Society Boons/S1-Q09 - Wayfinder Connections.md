@@ -21,7 +21,7 @@ license: OGL
 
 * * *
 
-**Effect** Thanks to your connection with Venture-Captain Muesello, you have an easier time securing [[Equipment/Wayfinder|Wayfinders]]. You can purchase wayfinders of up to your character level + 2 as long as you have access to them. If you own a [[Equipment/Wayfinder|Standard Wayfinder]], Muesello offers to upgrade it to a [[Equipment/Wayfinder|Wayfinder]] with additional features for the difference in cost between the items.
+**Effect** Thanks to your connection with Venture-Captain Muesello, you have an easier time securing [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinders]]. You can purchase wayfinders of up to your character level + 2 as long as you have access to them. If you own a [[3-Rules/Character Building/Equipment/W/Wayfinder|Standard Wayfinder]], Muesello offers to upgrade it to a [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] with additional features for the difference in cost between the items.
 
 *Source: *
 *OGL*

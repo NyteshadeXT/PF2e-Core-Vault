@@ -12,7 +12,7 @@ license: ORC
 ---
 # Righteous Call `pf2:2`
 
-### [[holy]]
+### [[Holy]]
 
 **Category** offensive; 
 

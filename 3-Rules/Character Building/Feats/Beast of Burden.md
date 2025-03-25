@@ -12,7 +12,7 @@ license: ORC
 ---
 # Beast of Burden
 ## Feat 5
-### [[minotaur]]
+### [[Minotaur]]
 
 **Category** ancestry; 
 

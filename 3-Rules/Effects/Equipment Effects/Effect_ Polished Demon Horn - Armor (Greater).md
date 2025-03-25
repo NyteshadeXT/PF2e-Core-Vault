@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Polished Demon Horn (Greater)|Polished Demon Horn (Greater)]]
+Granted by [[Polished Demon Horn (Greater)|Polished Demon Horn (Greater)]]
 
 You gain resistance 5 to unholy.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Potion of Flying (Standard)|Potion of Flying (Standard)]].
+Granted by [[Potion of Flying (Standard)|Potion of Flying (Standard)]].
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

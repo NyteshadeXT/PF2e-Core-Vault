@@ -100,7 +100,7 @@ Temperbrand is often sent to bolster soldiers who are outmatched in an attempt t
 
 ## Temperbrand's Corpse
 
-It hasn't happened yet to the powerful elemental, but if Temperbrand is slain, her body collapses swiftly in upon itself, transforming into a powerful magic maul. [[Equipment/Temperbrand|Temperbrand]]
+It hasn't happened yet to the powerful elemental, but if Temperbrand is slain, her body collapses swiftly in upon itself, transforming into a powerful magic maul. [[3-Rules/Character Building/Equipment/T/Temperbrand|Temperbrand]]
 
 ## Servitor Of The Divine
 

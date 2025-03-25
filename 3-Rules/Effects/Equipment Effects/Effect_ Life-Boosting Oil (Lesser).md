@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Life-Boosting Oil (Lesser)|Life-Boosting Oil (Lesser)]]
+Granted by [[Life-Boosting Oil (Lesser)|Life-Boosting Oil (Lesser)]]
 
 You gain fast healing 3.
 

@@ -12,7 +12,7 @@ Table of 19th-Level Consumables Items
 
 | 1d21 | result |
 |------|--------|
-| 1-6 | [[Equipment/Spellstrike Ammunition (Type IX)\|Spellstrike Ammunition (Type IX)]] |
-| 7-12 | [[Equipment/Elixir of Life (True)\|Elixir of Life (True)]] |
-| 13-18 | [[Equipment/Black Lotus Extract\|Black Lotus Extract]] |
-| 19-21 | [[Equipment/Scroll of 10th-rank Spell\|Scroll of 10th-level Spell]] |
+| 1-6 | [[Spellstrike Ammunition (Type IX)\|Spellstrike Ammunition (Type IX)]] |
+| 7-12 | [[Elixir of Life (True)\|Elixir of Life (True)]] |
+| 13-18 | [[Black Lotus Extract\|Black Lotus Extract]] |
+| 19-21 | [[Scroll of 10th-rank Spell\|Scroll of 10th-level Spell]] |

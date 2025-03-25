@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You have come to know conrasu weapons as you know yourself. Whenever you critically hit using a [[Equipment/Composite Shortbow|Composite Shortbow]], [[Equipment/Glaive|Glaive]], [[Equipment/Longspear|Longspear]], [[Equipment/Longsword|Longsword]], [[Equipment/Shortbow|Shortbow]], [[Equipment/Spear|Spear]], or a conrasu weapon([[Equipment/Buugeng|Buugeng]]), you apply the weapon's critical specialization effect.
+You have come to know conrasu weapons as you know yourself. Whenever you critically hit using a [[Composite Shortbow|Composite Shortbow]], [[Glaive|Glaive]], [[Longspear|Longspear]], [[Longsword|Longsword]], [[Shortbow|Shortbow]], [[Spear|Spear]], or a conrasu weapon([[Buugeng|Buugeng]]), you apply the weapon's critical specialization effect.
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

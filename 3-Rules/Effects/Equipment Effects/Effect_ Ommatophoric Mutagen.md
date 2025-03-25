@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Ommatophoric Mutagen|Ommatophoric Mutagen]]
+Granted by [[Ommatophoric Mutagen|Ommatophoric Mutagen]]
 
 **Benefit** You gain all-around vision, a +2 item bonus to visual Perception checks, and low-light vision if you don't already have it.
 

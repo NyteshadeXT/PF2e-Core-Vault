@@ -20,7 +20,7 @@ license: OGL
 
 Your silvertongue mutagen transcends languages and plausibility.
 
-When affected by a [[Equipment/Silvertongue Mutagen (Lesser)|Silvertongue Mutagen]] you have created, you ignore circumstance penalties to Deception, Diplomacy, Intimidation, and Performance checks.
+When affected by a [[Silvertongue Mutagen (Lesser)|Silvertongue Mutagen]] you have created, you ignore circumstance penalties to Deception, Diplomacy, Intimidation, and Performance checks.
 
 In addition, your words transcend linguistic barriers; everyone listening to you speak hears your words as if you were speaking in their own language (though you do not actually speak that language, nor does this ability allow you to understand any additional languages).
 

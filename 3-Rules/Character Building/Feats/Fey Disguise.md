@@ -11,7 +11,7 @@ license: OGL
 ---
 # Fey Disguise
 ## Feat 5
-### [[sprite]]
+### [[3-Rules/Bestiaries/Bestiary 1/S/Sprite]]
 
 **Category** ancestry; 
 

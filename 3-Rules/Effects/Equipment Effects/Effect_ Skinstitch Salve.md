@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Skinstitch Salve|Skinstitch Salve]]
+Granted by [[Skinstitch Salve|Skinstitch Salve]]
 
 * * *
 

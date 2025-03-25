@@ -12,7 +12,7 @@ license: ORC
 ---
 # Minotaur Lore
 ## Feat 1
-### [[minotaur]]
+### [[Minotaur]]
 
 **Category** ancestry; 
 

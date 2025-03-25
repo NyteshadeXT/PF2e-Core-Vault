@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potion of Cold Resistance (Greater)|Potion of Cold Resistance (Greater)]]
+Granted by [[Potion of Cold Resistance (Greater)|Potion of Cold Resistance (Greater)]]
 
 This potion grants resistance 15 against cold damage.
 

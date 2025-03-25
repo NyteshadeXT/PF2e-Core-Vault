@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Mask of Allure|Mask of Allure]]
+Granted by [[Mask of Allure|Mask of Allure]]
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

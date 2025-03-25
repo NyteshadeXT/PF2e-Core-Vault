@@ -23,7 +23,7 @@ You inscribe your true name on your _ka stone_, as well as oaths to gods and pha
 
 The ka stone grants you a +1 item bonus to saves against death effects and negative effects, which increases to +2 at 8th level, +3 at 14th level, and +4 at 20th level.
 
-[[Equipment/Ka Stone|Ka Stone]]
+[[Ka Stone|Ka Stone]]
 
 * * *
 

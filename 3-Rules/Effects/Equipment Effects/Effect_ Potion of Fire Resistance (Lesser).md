@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potion of Fire Resistance (Lesser)|Potion of Fire Resistance (Lesser)]]
+Granted by [[Potion of Fire Resistance (Lesser)|Potion of Fire Resistance (Lesser)]]
 
 This potion grants resistance 5 against fire damage.
 

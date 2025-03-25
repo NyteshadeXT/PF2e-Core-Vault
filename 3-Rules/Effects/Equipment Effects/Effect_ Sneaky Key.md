@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Sneaky Key|Sneaky Key]]
+Granted by [[Sneaky Key|Sneaky Key]]
 
 You gain a +1 status bonus to Thievery checks to Pick a Lock.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Numbing Tonic (Greater)|Numbing Tonic (Greater)]]
+Granted by [[Numbing Tonic (Greater)|Numbing Tonic (Greater)]]
 
 You gain 15 temporary Hit Points when you drink the elixir, and again at the start of each of your turns for 1 minute.
 

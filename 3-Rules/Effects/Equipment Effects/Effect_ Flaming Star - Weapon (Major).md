@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Flaming Star (Major)|Flaming Star (Major)]]
+Granted by [[Flaming Star (Major)|Flaming Star (Major)]]
 
 After you cast a fire spell by Activating the _star_, your Strikes with the weapon deal an additional 1d8 fire damage until the end of your next turn.
 

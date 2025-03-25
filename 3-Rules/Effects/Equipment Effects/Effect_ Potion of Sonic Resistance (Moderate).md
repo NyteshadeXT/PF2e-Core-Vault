@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potion of Sonic Resistance (Moderate)|Potion of Sonic Resistance (Moderate)]]
+Granted by [[Potion of Sonic Resistance (Moderate)|Potion of Sonic Resistance (Moderate)]]
 
 This potion grants resistance 10 against sonic damage.
 

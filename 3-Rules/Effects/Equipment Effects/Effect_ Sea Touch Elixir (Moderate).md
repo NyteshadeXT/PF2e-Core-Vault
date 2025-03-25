@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Sea Touch Elixir (Moderate)|Sea Touch Elixir (Moderate)]]
+Granted by [[Sea Touch Elixir (Moderate)|Sea Touch Elixir (Moderate)]]
 
 * * *
 

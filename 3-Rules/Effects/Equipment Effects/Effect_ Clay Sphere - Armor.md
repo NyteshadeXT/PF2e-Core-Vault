@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Clay Sphere|Clay Sphere]]
+Granted by [[Clay Sphere|Clay Sphere]]
 
 You gain resistance 2 to precision damage and a +1 item bonus to saving throws against effects with the morph or polymorph traits.
 

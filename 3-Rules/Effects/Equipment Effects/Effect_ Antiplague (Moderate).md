@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Antiplague (Moderate)|Antiplague (Moderate)]]
+Granted by [[Antiplague (Moderate)|Antiplague (Moderate)]]
 
 Implemented effects:
 

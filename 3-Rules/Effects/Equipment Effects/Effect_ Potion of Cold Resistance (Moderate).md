@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potion of Cold Resistance (Moderate)|Potion of Cold Resistance (Moderate)]]
+Granted by [[Potion of Cold Resistance (Moderate)|Potion of Cold Resistance (Moderate)]]
 
 This potion grants resistance 10 against cold damage.
 

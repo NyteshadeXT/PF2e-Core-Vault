@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Silvertongue Mutagen (Lesser)|Silvertongue Mutagen (Lesser)]]
+Granted by [[Silvertongue Mutagen (Lesser)|Silvertongue Mutagen (Lesser)]]
 
 Implemented effects:
 

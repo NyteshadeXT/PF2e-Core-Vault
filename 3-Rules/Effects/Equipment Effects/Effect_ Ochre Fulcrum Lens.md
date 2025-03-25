@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Ochre Fulcrum Lens|Ochre Fulcrum Lens]]
+Granted by [[Ochre Fulcrum Lens|Ochre Fulcrum Lens]]
 
 You gain resistance 10 to mental damage and a +2 status bonus to saves against emotion effects.
 

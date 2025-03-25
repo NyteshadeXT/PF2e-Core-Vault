@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Serene Mutagen (Greater)|Serene Mutagen (Greater)]]
+Granted by [[Serene Mutagen (Greater)|Serene Mutagen (Greater)]]
 
 Implemented effects:
 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Incredible Sprint `pf2:2`
 ## Feat 13
-### [[centaur]]
+### [[Centaur]]
 
 **Category** ancestry; 
 

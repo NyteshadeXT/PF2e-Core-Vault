@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Bracers of Missile Deflection|Bracers of Missile Deflection]]
+Granted by [[Bracers of Missile Deflection|Bracers of Missile Deflection]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

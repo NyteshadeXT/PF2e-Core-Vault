@@ -12,7 +12,7 @@ license: ORC
 ---
 # Mentor of Legends
 ## Feat 9
-### [[centaur]]
+### [[Centaur]]
 
 **Category** ancestry; 
 

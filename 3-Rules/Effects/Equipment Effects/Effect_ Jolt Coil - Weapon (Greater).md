@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Jolt Coil (Greater)|Jolt Coil (Greater)]]
+Granted by [[Jolt Coil (Greater)|Jolt Coil (Greater)]]
 
 After you cast an electricity spell by activating the _coil_, your Strikes with the weapon deal an additional 1d6 electricity damage until the end of your next turn.
 

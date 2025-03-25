@@ -16,25 +16,25 @@ license: OGL
 
 
 
-A spirit of battle dwells within your armaments. Select one weapon or [[Equipment/Handwraps of Mighty Blows|Handwraps of Mighty Blows]] when you make your daily preparations. In your hands, the item gains the effect of a property rune.
+A spirit of battle dwells within your armaments. Select one weapon or [[Handwraps of Mighty Blows|Handwraps of Mighty Blows]] when you make your daily preparations. In your hands, the item gains the effect of a property rune.
 
 * * *
 
 From _[[Class Features/Blade Ally|Blade Ally]]_:
 
-[[Equipment/Vitalizing|Vitalizing]], [[Equipment/Ghost Touch|Ghost Touch]], [[Equipment/Fearsome|Fearsome]], [[Equipment/Returning|Returning]], or [[Equipment/Shifting|Shifting]]
+[[Vitalizing|Vitalizing]], [[Ghost Touch|Ghost Touch]], [[Fearsome|Fearsome]], [[Returning|Returning]], or [[Shifting|Shifting]]
 
 * * *
 
 From _[[Feats/Radiant Blade Spirit|Radiant Blade Spirit]]_:
 
-[[Equipment/Flaming|Flaming]], [[Equipment/Holy|Holy]], or [[Equipment/Unholy|Unholy]]
+[[Flaming|Flaming]], [[Holy|Holy]], or [[Unholy|Unholy]]
 
 * * *
 
 From _[[Feats/Radiant Blade Master|Radiant Blade Master]]_:
 
-[[Equipment/Animated|Dancing]], [[Equipment/Vitalizing (Greater)|Vitalizing (Greater)]], or [[Equipment/Keen|Keen]]
+[[Animated|Dancing]], [[Vitalizing (Greater)|Vitalizing (Greater)]], or [[Keen|Keen]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

@@ -17,25 +17,25 @@ license: ORC
 
 
 
-A spirit of battle dwells within your armaments. Select one weapon or [[Equipment/Handwraps of Mighty Blows|Handwraps of Mighty Blows]] when you make your daily preparations. In your hands, the item gains the effect of a property rune.
+A spirit of battle dwells within your armaments. Select one weapon or [[Handwraps of Mighty Blows|Handwraps of Mighty Blows]] when you make your daily preparations. In your hands, the item gains the effect of a property rune.
 
 * * *
 
 From _[[Class Features/Blessed Armament|Blessed Armament]]_
 
-[[Equipment/Vitalizing|Vitalizing]], [[Equipment/Ghost Touch|Ghost Touch]], [[Equipment/Fearsome|Fearsome]], [[Equipment/Returning|Returning]], or [[Equipment/Shifting|Shifting]]
+[[Vitalizing|Vitalizing]], [[Ghost Touch|Ghost Touch]], [[Fearsome|Fearsome]], [[Returning|Returning]], or [[Shifting|Shifting]]
 
 * * *
 
 From _[[Feats/Radiant Armament|Radiant Armament]]_:
 
-[[Equipment/Astral|Astral]], [[Equipment/Brilliant|Brilliant]], [[Equipment/Holy|Holy]], or [[Equipment/Unholy|Unholy]]
+[[Astral|Astral]], [[Brilliant|Brilliant]], [[Holy|Holy]], or [[Unholy|Unholy]]
 
 * * *
 
 From _[[Feats/Armament Paragon|Armament Paragon]]_:
 
-[[Equipment/Animated|Animated]], [[Equipment/Vitalizing (Greater)|Vitalizing (Greater)]], or [[Equipment/Keen|Keen]]
+[[Animated|Animated]], [[Vitalizing (Greater)|Vitalizing (Greater)]], or [[Keen|Keen]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Earplugs|Earplugs]]
+Granted by [[Earplugs|Earplugs]]
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

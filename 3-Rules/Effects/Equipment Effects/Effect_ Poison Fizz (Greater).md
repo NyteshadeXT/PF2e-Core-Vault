@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Poison Fizz (Greater)|Poison Fizz (Greater)]]
+Granted by [[Poison Fizz (Greater)|Poison Fizz (Greater)]]
 
 You have a +3 item bonus to saving throws against poison and being petrified.
 

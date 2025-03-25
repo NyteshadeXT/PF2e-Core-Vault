@@ -26,7 +26,7 @@ The cage has AC 10, Hardness 20, and 40 Hit Points, and it's immune to critical 
 
 Attacks with a weapon too large to fit between the bars can't pass through the cage, and the bars provide standard cover even against attacks that can pass through the gaps. Spells and breath weapons can pass through the cage uninhibited.
 
-_Force cage_ is immune to counteracting effects of its level or lower, but it is automatically destroyed by a [[Spells/Disintegrate|Disintegrate]] spell of any rank, or by contact with a [[Equipment/Rod of Cancellation|Rod of Cancellation]] or [[Equipment/Sphere of Annihilation|Sphere of Annihilation]].
+_Force cage_ is immune to counteracting effects of its level or lower, but it is automatically destroyed by a [[Spells/Disintegrate|Disintegrate]] spell of any rank, or by contact with a [[Rod of Cancellation|Rod of Cancellation]] or [[Sphere of Annihilation|Sphere of Annihilation]].
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

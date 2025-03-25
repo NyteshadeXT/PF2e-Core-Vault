@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Energizing|Energizing]]
+Granted by [[Energizing|Energizing]]
 
 The weapon becomes imbued with the triggering energy type. It deals an additional 1d8 damage of the triggering type until the end of your next turn.
 

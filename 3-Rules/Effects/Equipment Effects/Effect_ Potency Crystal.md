@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potency Crystal|Potency Crystal]]
+Granted by [[Potency Crystal|Potency Crystal]]
 
 The weapon becomes a _+1 striking weapon_.
 

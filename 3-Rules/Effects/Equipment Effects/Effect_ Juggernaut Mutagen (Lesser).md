@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Juggernaut Mutagen (Lesser)|Juggernaut Mutagen (Lesser)]]
+Granted by [[Juggernaut Mutagen (Lesser)|Juggernaut Mutagen (Lesser)]]
 
 Implemented effects:
 

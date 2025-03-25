@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Dragonscale Amulet|Dragonscale Amulet]]
+Granted by [[Dragonscale Amulet|Dragonscale Amulet]]
 
 If you take damage of one of these types from a dragon's Breath Weapon, the amulet begins to glow brightly; for the next 10 minutes, your resistance against that type of damage increases to 20.
 

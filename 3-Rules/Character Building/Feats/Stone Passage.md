@@ -13,7 +13,7 @@ license: ORC
 ---
 # Stone Passage `pf2:2`
 ## Feat 9
-### [[divine]][[minotaur]]
+### [[divine]][[Minotaur]]
 
 **Category** ancestry; 
 

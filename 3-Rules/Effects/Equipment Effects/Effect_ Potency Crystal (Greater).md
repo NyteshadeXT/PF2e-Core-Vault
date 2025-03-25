@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potency Crystal (Greater)|Potency Crystal (Greater)]]
+Granted by [[Potency Crystal (Greater)|Potency Crystal (Greater)]]
 
 The weapon becomes a _+2 greater striking weapon_.
 

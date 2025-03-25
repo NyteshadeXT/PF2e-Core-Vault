@@ -1,12 +1,12 @@
 ---
 obsidianUIMode: preview
 noteType: pf2eMonster
-aliases: "Human Wizard"
+aliases: "Merovinn Bask"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: inline
-name: "Human Wizard"
+name: "Merovinn Bask"
 level: 3
 ---
 
@@ -15,13 +15,13 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Custom Encounter"
-name: "Human Wizard"
+name: "Merovinn Bask"
 level: "Creature 3"
 alignment: "N"
 size: "Medium"
 trait_04: "Humanoid"
 trait_05: "Human"
-modifier: 0
+modifier: 5
 perception:
   - name: "Perception"
     desc: "+5"

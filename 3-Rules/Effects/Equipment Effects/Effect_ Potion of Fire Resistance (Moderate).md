@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potion of Fire Resistance (Moderate)|Potion of Fire Resistance (Moderate)]]
+Granted by [[Potion of Fire Resistance (Moderate)|Potion of Fire Resistance (Moderate)]]
 
 This potion grants resistance 10 against fire damage.
 

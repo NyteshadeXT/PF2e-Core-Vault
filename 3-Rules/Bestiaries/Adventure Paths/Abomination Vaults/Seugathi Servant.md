@@ -98,4 +98,4 @@ The most common seugathis spawned by neothelids are seugathi servants. Their mas
 
 * * *
 
-The wicked, alien [[Bestiary 2/Neothelid|Neothelids]] impregnate themselves through ritualistic magic to produce wormlike servitor creatures called seugathis. These creatures spawn with a strong psychic drive to complete some task on behalf of the neothelids' far-reaching plans. These directives are diverse, strange, and usually cruel toward humanoid life.
+The wicked, alien [[Neothelid|Neothelids]] impregnate themselves through ritualistic magic to produce wormlike servitor creatures called seugathis. These creatures spawn with a strong psychic drive to complete some task on behalf of the neothelids' far-reaching plans. These directives are diverse, strange, and usually cruel toward humanoid life.

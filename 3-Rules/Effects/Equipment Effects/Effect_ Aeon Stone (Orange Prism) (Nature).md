@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by activating [[Equipment/Aeon Stone (Amplifying)|Aeon Stone (Orange Prism)]] when the last spell you cast was a Primal spell.
+Granted by activating [[Aeon Stone (Amplifying)|Aeon Stone (Orange Prism)]] when the last spell you cast was a Primal spell.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

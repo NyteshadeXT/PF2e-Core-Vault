@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Inspiring Spotlight|Inspiring Spotlight]]
+Granted by [[Inspiring Spotlight|Inspiring Spotlight]]
 
 *Source: Pathfinder #152: Legacy of the Lost God*
 *OGL*

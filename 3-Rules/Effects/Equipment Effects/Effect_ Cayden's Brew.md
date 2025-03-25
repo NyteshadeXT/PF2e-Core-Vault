@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Cayden's Brew|Cayden's Brew]], [[Equipment/Cayden's Brew (Double)|Cayden's Brew (Double)]], [[Equipment/Cayden's Brew (Triple)|Cayden's Brew (Triple)]]
+Granted by [[Cayden's Brew|Cayden's Brew]], [[Cayden's Brew (Double)|Cayden's Brew (Double)]], [[Cayden's Brew (Triple)|Cayden's Brew (Triple)]]
 
 You have a +1 item bonus to saving throws against fear effects.
 

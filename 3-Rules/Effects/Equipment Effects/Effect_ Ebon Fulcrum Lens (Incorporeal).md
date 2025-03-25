@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Ebon Fulcrum Lens|Ebon Fulcrum Lens]]
+Granted by [[Ebon Fulcrum Lens|Ebon Fulcrum Lens]]
 
 You gain the incorporeal trait, and are drained 2.
 

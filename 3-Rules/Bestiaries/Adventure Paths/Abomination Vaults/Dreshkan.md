@@ -83,7 +83,7 @@ creatures:
 
 
 
-Because morlocks are descended from distant human ancestors, clumsily or hastily fleshwarping a morlock simply produces a [[Bestiary 1/Grothlut|Grothlut]]. Skilled fleshwarpers, however, can tease out a morlock's genetic differences to make an entirely different creature. Creating a dreshkan involves replacing the morlock's bones with a metal skeleton. This new skeleton is often heavily augmented, such as with spiderlike limbs protruding from the spine or magazines of tiny, deadly needles. Arcane electricity courses through the dreshkan thereafter, making it jumpy and irritable.
+Because morlocks are descended from distant human ancestors, clumsily or hastily fleshwarping a morlock simply produces a [[3-Rules/Bestiaries/Bestiary 1/G/Grothlut|Grothlut]]. Skilled fleshwarpers, however, can tease out a morlock's genetic differences to make an entirely different creature. Creating a dreshkan involves replacing the morlock's bones with a metal skeleton. This new skeleton is often heavily augmented, such as with spiderlike limbs protruding from the spine or magazines of tiny, deadly needles. Arcane electricity courses through the dreshkan thereafter, making it jumpy and irritable.
 
 Morlocks view dreshkans as impressive fusions of flesh and technology and gladly fight alongside these creatures, whom they view as paragons of morlock potential.
 

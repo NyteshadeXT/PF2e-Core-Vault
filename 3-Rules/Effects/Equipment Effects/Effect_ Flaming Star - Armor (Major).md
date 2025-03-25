@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Flaming Star (Major)|Flaming Star (Major)]]
+Granted by [[Flaming Star (Major)|Flaming Star (Major)]]
 
 You gain resistance 10 to fire.
 

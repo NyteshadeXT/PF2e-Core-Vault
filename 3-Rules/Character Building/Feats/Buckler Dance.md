@@ -20,7 +20,7 @@ license: ORC
 
 
 
-**Requirements** You are wielding a [[Equipment/Buckler|Buckler]].
+**Requirements** You are wielding a [[Buckler|Buckler]].
 
 * * *
 

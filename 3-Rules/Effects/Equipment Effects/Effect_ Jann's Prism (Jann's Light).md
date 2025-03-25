@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Jann's Prism|Jann's Prism]]
+Granted by [[Jann's Prism|Jann's Prism]]
 
 You shed bright light in a 20-foot emanation (and dim light for the next 20 feet). You gain resistance 5 to two damage types.
 

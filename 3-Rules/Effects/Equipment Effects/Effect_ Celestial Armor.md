@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Celestial Armor|Celestial Armor]]
+Granted by [[Celestial Armor|Celestial Armor]]
 
 The armor sprouts glowing wings that grant you a fly Speed of 30 feet. The wings shed bright light in a 40-foot radius (and dim light to the next 40 feet).
 

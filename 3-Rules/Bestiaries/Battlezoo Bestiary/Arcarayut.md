@@ -105,7 +105,7 @@ Arcarayuts are more inclined to pursue knowledge than most inevitables. They eng
 
 ## Valuable Inevitable
 
-When an arcarayut is destroyed, its diamond center turns gray and dull and falls lifelessly to the ground. This crystal can be dissolved in protean blood to create 1d6 doses of [[Equipment/Oil of Weightlessness (Greater)|Oil of Weightlessness (Greater)]] or a single dose of [[Equipment/Oil of Repulsion|Oil of Repulsion]]. This fact, in addition to the countless treasures that often float around arcarayuts, makes these inevitables valuable targets for plane-hopping treasure hunters.
+When an arcarayut is destroyed, its diamond center turns gray and dull and falls lifelessly to the ground. This crystal can be dissolved in protean blood to create 1d6 doses of [[Oil of Weightlessness (Greater)|Oil of Weightlessness (Greater)]] or a single dose of [[Oil of Repulsion|Oil of Repulsion]]. This fact, in addition to the countless treasures that often float around arcarayuts, makes these inevitables valuable targets for plane-hopping treasure hunters.
 
 ## Monster Part Subsystem
 

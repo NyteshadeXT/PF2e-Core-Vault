@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Silver Crescent (Moderate)|Silver Crescent (Moderate)]]
+Granted by [[Silver Crescent (Moderate)|Silver Crescent (Moderate)]]
 
 You shed cool, white light like a torch, and you gain a +2 item bonus to saving throws against olfactory effects.
 

@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Spiny Lodestone|Spiny Lodestone]]
+Granted by [[Spiny Lodestone|Spiny Lodestone]]
 
 You gain a +1 item bonus to Athletics checks and resistance 2 to nonlethal damage.
 

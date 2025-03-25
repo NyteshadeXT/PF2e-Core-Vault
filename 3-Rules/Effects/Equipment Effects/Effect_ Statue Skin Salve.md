@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Statue Skin Salve|Statue Skin Salve]]
+Granted by [[Statue Skin Salve|Statue Skin Salve]]
 
 The creature gains resistance 3 to piercing and slashing damage.
 

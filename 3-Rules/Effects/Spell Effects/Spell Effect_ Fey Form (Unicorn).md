@@ -33,7 +33,7 @@ You also gain specific abilities based on the type of fey:
 *   **Unicorn** gain the beast trait in addition to fey; Speed 40 feet; resistance 5 to poison; **Size** Large;
     *   **Melee** `pf2:1` horn, **Damage** 1d10+8 piercing plus 1 spirit;
     *   **Melee** `pf2:1` hoof (agile), **Damage** 1d8 bludgeoning;
-    *   all Strikes have the effects of a _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune.
+    *   all Strikes have the effects of a _[[Ghost Touch|Ghost Touch]]_ property rune.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

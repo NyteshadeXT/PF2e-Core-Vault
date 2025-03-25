@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Pirate Dedication
 * * *
-You're particularly skilled at wielding traditional pirate weapons. You become trained with the following weapons: [[Equipment/Hatchet|Hatchet]], [[Equipment/Rapier|Rapier]], [[Equipment/Scimitar|Scimitar]], and [[Equipment/Whip|Whip]].
+You're particularly skilled at wielding traditional pirate weapons. You become trained with the following weapons: [[Hatchet|Hatchet]], [[Rapier|Rapier]], [[Scimitar|Scimitar]], and [[Whip|Whip]].
 
 Whenever you gain a class feature that grants you expert or greater proficiency with a given weapon or weapons, you also gain that proficiency rank for these weapons.
 

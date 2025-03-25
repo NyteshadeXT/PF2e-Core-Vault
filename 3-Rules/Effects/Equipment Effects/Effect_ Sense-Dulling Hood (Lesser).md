@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Sense-Dulling Hood (Lesser)|Sense-Dulling Hood (Lesser)]]
+Granted by [[Sense-Dulling Hood (Lesser)|Sense-Dulling Hood (Lesser)]]
 
 The mask grants you a +2 item bonus to saving throws against auditory, olfactory, and visual effects. Since it dulls your senses without depriving you of them, the mask also imposes a –1 penalty to rolls and checks using Perception.
 

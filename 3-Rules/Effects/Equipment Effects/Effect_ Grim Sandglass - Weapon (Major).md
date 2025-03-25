@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Grim Sandglass (Major)|Grim Sandglass (Major)]]
+Granted by [[Grim Sandglass (Major)|Grim Sandglass (Major)]]
 
 After you cast a necromancy spell by Activating the _sandglass_, your Strikes with the weapon deal an additional 1d8 void damage until the end of your next turn.
 

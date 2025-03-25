@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Shielding Salve|Shielding Salve]]
+Granted by [[Shielding Salve|Shielding Salve]]
 
 * * *
 

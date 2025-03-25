@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You can access the mystical power that dokkaebi refer to as a hat. You conjure a magical [[Equipment/Gamtu Hat|Gamtu Hat]], which is a magic item of light Bulk. The gamtu persists for 1 hour, and you can give the gamtu to another creature to wear.
+You can access the mystical power that dokkaebi refer to as a hat. You conjure a magical [[Gamtu Hat|Gamtu Hat]], which is a magic item of light Bulk. The gamtu persists for 1 hour, and you can give the gamtu to another creature to wear.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Clandestine Cloak|Clandestine Cloak]]
+Granted by [[Clandestine Cloak|Clandestine Cloak]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

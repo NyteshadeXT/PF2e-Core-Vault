@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Jolt Coil|Jolt Coil]]
+Granted by [[Jolt Coil|Jolt Coil]]
 
 You gain resistance 2 to electricity.
 

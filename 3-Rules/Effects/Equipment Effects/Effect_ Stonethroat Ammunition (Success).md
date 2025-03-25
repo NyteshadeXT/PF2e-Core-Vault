@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Stonethroat Ammunition|Stonethroat Ammunition]]
+Granted by [[Stonethroat Ammunition|Stonethroat Ammunition]]
 
 The ammunition lodges itself loosely into the target's throat. For 1 round, the target takes a -2 status penalty to attack rolls with its jaws or fangs, and to Athletics checks.
 

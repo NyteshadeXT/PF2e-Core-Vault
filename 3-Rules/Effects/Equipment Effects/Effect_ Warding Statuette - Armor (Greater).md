@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Warding Statuette (Greater)|Warding Statuette (Greater)]]
+Granted by [[Warding Statuette (Greater)|Warding Statuette (Greater)]]
 
 You gain resistance 5 against ranged weapon attacks.
 

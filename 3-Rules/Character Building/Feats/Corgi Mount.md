@@ -11,7 +11,7 @@ license: OGL
 ---
 # Corgi Mount
 ## Feat 1
-### [[sprite]]
+### [[3-Rules/Bestiaries/Bestiary 1/S/Sprite]]
 
 **Category** ancestry; 
 

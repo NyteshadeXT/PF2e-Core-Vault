@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Dragon Turtle Scale|Dragon Turtle Scale]]
+Granted by [[Dragon Turtle Scale|Dragon Turtle Scale]]
 
 When you activate the scale, for 1 minute you gain a swim Speed equal to half your land Speed.
 

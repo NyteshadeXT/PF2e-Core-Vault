@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Clay Sphere|Clay Sphere]], [[Equipment/Clay Sphere (Greater)|Clay Sphere (Greater)]], [[Equipment/Clay Sphere (Major)|Clay Sphere (Major)]]
+Granted by [[Clay Sphere|Clay Sphere]], [[Clay Sphere (Greater)|Clay Sphere (Greater)]], [[Clay Sphere (Major)|Clay Sphere (Major)]]
 
 Strikes with the affixed weapon have their damage dice increase by one step.
 

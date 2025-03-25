@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Glaive of the Artist|Glaive of the Artist]].
+Granted by [[Glaive of the Artist|Glaive of the Artist]].
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Tome of Restorative Cleansing (Moderate)|Tome of Restorative Cleansing (Moderate)]]
+Granted by [[Tome of Restorative Cleansing (Moderate)|Tome of Restorative Cleansing (Moderate)]]
 
 The creature gains 2d8 temporary Hit Points.
 

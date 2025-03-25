@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Tracker's Stew|Tracker's Stew]]
+Granted by [[Tracker's Stew|Tracker's Stew]]
 
 You gain a +1 item bonus to Survival checks to Cover Tracks and Track.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Life-Boosting Oil (Major)|Life-Boosting Oil (Major)]]
+Granted by [[Life-Boosting Oil (Major)|Life-Boosting Oil (Major)]]
 
 You gain fast healing 15.
 

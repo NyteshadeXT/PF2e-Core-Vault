@@ -22,7 +22,7 @@ license: ORC
 
 * * *
 
-**Effect** The lich taps into their _[[Equipment/Soul Cage|Soul Cage]]_'s power to cast any arcane spell up to the highest rank the lich can cast, even if the spell being cast is not one of the lich's prepared spells. The lich's soul cage doesn't need to be present for the lich to use this ability.
+**Effect** The lich taps into their _[[Soul Cage|Soul Cage]]_'s power to cast any arcane spell up to the highest rank the lich can cast, even if the spell being cast is not one of the lich's prepared spells. The lich's soul cage doesn't need to be present for the lich to use this ability.
 
 *Source: Pathfinder Monster Core*
 *ORC*

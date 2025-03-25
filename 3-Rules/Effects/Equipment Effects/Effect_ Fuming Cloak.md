@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Nightmare's Lament|Nightmare's Lament]]
+Granted by [[Nightmare's Lament|Nightmare's Lament]]
 
 Everything within the aura is concealed by thick, black smoke.
 

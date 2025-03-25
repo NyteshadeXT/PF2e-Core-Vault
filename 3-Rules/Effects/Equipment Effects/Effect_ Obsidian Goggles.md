@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Obsidian Goggles|Obsidian Goggles]]
+Granted by [[Obsidian Goggles|Obsidian Goggles]]
 
 You gain darkvision for 1 hour.
 

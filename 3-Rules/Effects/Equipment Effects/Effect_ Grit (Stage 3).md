@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Grit|Grit]]
+Granted by [[Grit|Grit]]
 
 The creature takes a -4 item penalty to Perception checks.
 

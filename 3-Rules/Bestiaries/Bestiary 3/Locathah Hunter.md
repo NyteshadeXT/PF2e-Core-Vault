@@ -90,7 +90,7 @@ creatures:
 
 
 
-Deep in the sea, schools of locathah-piscine humanoids armed with spears and specialized crossbows-stalk sharks, sea serpents, and giant squid from the backs of their [[Bestiary 1/Giant Moray Eel|Giant Moray Eel]] mounts. The first hunters to strike are armed with barbed harpoons that deploy large fans of seaweed, slowing and exhausting their prey. A daring few locathahs use the embedded harpoon as a handle to ride prey for a short time. Once the creature is tired, remaining hunters finish it with longspears. Locathahs developed this hunting tradition to forge skilled warriors and deter potential attackers, partially in response to centuries of oppression and mistreatment from other aquatic cultures.
+Deep in the sea, schools of locathah-piscine humanoids armed with spears and specialized crossbows-stalk sharks, sea serpents, and giant squid from the backs of their [[3-Rules/Bestiaries/Bestiary 1/G/Giant Moray Eel|Giant Moray Eel]] mounts. The first hunters to strike are armed with barbed harpoons that deploy large fans of seaweed, slowing and exhausting their prey. A daring few locathahs use the embedded harpoon as a handle to ride prey for a short time. Once the creature is tired, remaining hunters finish it with longspears. Locathahs developed this hunting tradition to forge skilled warriors and deter potential attackers, partially in response to centuries of oppression and mistreatment from other aquatic cultures.
 
 Locathahs rarely hunt land-dwellers, instead offering to trade their services as guides in exchange for metal and ceramic items they can't build underwater-and for tubers, which they consider earthy delicacies. They render aid to damaged sailing ships and rescue shipwrecked sailors, providing food and guidance.
 

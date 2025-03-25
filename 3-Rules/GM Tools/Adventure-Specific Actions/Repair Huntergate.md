@@ -21,7 +21,7 @@ license: OGL
 
 **Prerequisites** trained in Crafting or Thievery
 
-**Requirement** You have the Huntergate portal key ([[Equipment/Hunter's Arrowhead|Hunter's Arrowhead]]).
+**Requirement** You have the Huntergate portal key ([[Hunter's Arrowhead|Hunter's Arrowhead]]).
 
 * * *
 

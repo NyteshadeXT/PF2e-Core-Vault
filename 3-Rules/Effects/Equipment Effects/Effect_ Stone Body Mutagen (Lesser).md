@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Stone Body Mutagen (Lesser)|Stone Body Mutagen (Lesser)]]
+Granted by [[Stone Body Mutagen (Lesser)|Stone Body Mutagen (Lesser)]]
 
 Implemented effects:
 

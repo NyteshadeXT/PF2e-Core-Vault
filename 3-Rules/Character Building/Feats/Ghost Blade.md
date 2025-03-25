@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-You alter your weapon's phase so it can more easily strike incorporeal creatures. Your mind weapon gains the effects of a _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune for 1 minute.
+You alter your weapon's phase so it can more easily strike incorporeal creatures. Your mind weapon gains the effects of a _[[Ghost Touch|Ghost Touch]]_ property rune for 1 minute.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

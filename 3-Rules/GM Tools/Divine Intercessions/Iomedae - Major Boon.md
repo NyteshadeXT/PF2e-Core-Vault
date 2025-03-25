@@ -19,7 +19,7 @@ license: OGL
 
 Iomedae imbues your blade with great power.
 
-Longswords you wield gain the [[Equipment/Holy|Holy]] and [[Equipment/Striking (Major)|Major Striking]] runes while you hold them. These property runes count toward the number of runes you can have on your weapon, and if this would cause your weapon to exceed its limit, choose which ones to keep each day when you prepare.
+Longswords you wield gain the [[Holy|Holy]] and [[Striking (Major)|Major Striking]] runes while you hold them. These property runes count toward the number of runes you can have on your weapon, and if this would cause your weapon to exceed its limit, choose which ones to keep each day when you prepare.
 
 You gain a +2 status bonus to attack rolls with longswords.
 

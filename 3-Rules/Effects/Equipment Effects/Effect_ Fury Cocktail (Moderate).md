@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Fury Cocktail (Moderate)|Fury Cocktail (Moderate)]]
+Granted by [[Fury Cocktail (Moderate)|Fury Cocktail (Moderate)]]
 
 Implemented Effects:
 

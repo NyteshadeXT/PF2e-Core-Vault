@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Chromatic Jellyfish Oil (Greater)|Chromatic Jellyfish Oil (Greater)]]
+Granted by [[Chromatic Jellyfish Oil (Greater)|Chromatic Jellyfish Oil (Greater)]]
 
 You gain resistance 15 to precision damage and extra damage from critical hits.
 

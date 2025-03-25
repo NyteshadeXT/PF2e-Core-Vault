@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Thurible of Revelation (Moderate)|Thurible of Revelation (Moderate)]]
+Granted by [[Thurible of Revelation (Moderate)|Thurible of Revelation (Moderate)]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

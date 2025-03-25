@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Quicksilver Mutagen (Lesser)|Quicksilver Mutagen (Lesser)]]
+Granted by [[Quicksilver Mutagen (Lesser)|Quicksilver Mutagen (Lesser)]]
 
 **Benefit** You gain a +1 item bonus to Acrobatics checks, Stealth checks, Thievery checks, Reflex saves, and Dexterity-based attack rolls, and you gain a +5 foot status bonus to your Speed.
 

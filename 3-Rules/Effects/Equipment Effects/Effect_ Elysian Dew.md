@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Elysian Dew|Elysian Dew]]
+Granted by [[Elysian Dew|Elysian Dew]]
 
 You gain 5 temporary Hit Points, a +1 item bonus to saving throws, and a +1 item bonus to Acrobatics and Athletics checks.
 

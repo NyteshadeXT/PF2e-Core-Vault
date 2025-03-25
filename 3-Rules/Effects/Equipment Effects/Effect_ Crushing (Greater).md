@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Crushing (Greater)|Crushing (Greater)]]
+Granted by [[Crushing (Greater)|Crushing (Greater)]]
 
 When you critically hit a target with this weapon, your target becomes clumsy 2 and enfeebled 2 until the end of your next turn.
 

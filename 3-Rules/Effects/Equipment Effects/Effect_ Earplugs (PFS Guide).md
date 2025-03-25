@@ -18,7 +18,7 @@ license: OGL
 
 Grants a +1 item bonus to saves vs. auditory effects and a -2 penalty to perception checks that rely on hearing.
 
-Granted by [[Equipment/Earplugs (PFS Guide)|Earplugs (PFS Guide)]]
+Granted by [[Earplugs (PFS Guide)|Earplugs (PFS Guide)]]
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

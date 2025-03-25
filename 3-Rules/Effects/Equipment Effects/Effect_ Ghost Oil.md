@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Ghost Oil|Ghost Oil]]
+Granted by [[Ghost Oil|Ghost Oil]]
 
 The selected weapon gains the effects of a _ghost touch_ rune.
 

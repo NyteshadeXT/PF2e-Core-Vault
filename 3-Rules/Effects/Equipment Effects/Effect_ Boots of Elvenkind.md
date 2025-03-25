@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Boots of Elvenkind|Boots of Elvenkind]]
+Granted by [[Boots of Elvenkind|Boots of Elvenkind]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

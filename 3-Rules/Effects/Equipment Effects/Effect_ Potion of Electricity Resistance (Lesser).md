@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potion of Electricity Resistance (Lesser)|Potion of Electricity Resistance (Lesser)]]
+Granted by [[Potion of Electricity Resistance (Lesser)|Potion of Electricity Resistance (Lesser)]]
 
 This potion grants resistance 5 against electricity damage.
 

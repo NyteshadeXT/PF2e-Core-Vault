@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Grudgestone|Grudgestone]]
+Granted by [[Grudgestone|Grudgestone]]
 
 Your Strikes with the affixed weapon against the triggering creature gain a +3 status bonus to damage rolls.
 

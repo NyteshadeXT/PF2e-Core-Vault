@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Elixir of Life (Lesser)|Elixir of Life (Lesser)]]
+Granted by [[Elixir of Life (Lesser)|Elixir of Life (Lesser)]]
 
 Implemented effects:
 

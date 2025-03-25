@@ -32,7 +32,7 @@ license: OGL
 
 **Stage 5** as stage 4 (1 day)
 
-**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight.
+**Stage 6** dead, and rises as a [[Ghoul|Ghoul]] the next midnight.
 
 *Source: Pathfinder Bestiary*
 *OGL*

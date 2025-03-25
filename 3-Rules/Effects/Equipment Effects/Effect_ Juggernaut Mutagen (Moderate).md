@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Juggernaut Mutagen (Moderate)|Juggernaut Mutagen (Moderate)]]
+Granted by [[Juggernaut Mutagen (Moderate)|Juggernaut Mutagen (Moderate)]]
 
 Implemented effects:
 

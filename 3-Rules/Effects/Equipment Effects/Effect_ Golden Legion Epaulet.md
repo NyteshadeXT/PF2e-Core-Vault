@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Golden Legion Epaulet|Golden Legion Epaulet]]
+Granted by [[Golden Legion Epaulet|Golden Legion Epaulet]]
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

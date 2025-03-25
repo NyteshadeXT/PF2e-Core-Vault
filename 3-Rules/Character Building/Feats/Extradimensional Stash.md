@@ -24,7 +24,7 @@ When you perform sleight of hand, you fold space so that objects really do disap
 
 In addition, when you Palm an Object, you can place it directly into this extradimensional space as long as the space has sufficient free space to hold the object.
 
-[[Equipment/Extradimensional Stash|Extradimensional Stash]]
+[[3-Rules/Character Building/Equipment/E/Extradimensional Stash|Extradimensional Stash]]
 
 *Source: Pathfinder #168: King of the Mountain*
 *OGL*

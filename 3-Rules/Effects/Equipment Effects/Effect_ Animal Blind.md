@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Animal Blind|Animal Blind]]
+Granted by [[Animal Blind|Animal Blind]]
 
 You gain a +4 circumstance bonus to Stealth checks to Hide.
 

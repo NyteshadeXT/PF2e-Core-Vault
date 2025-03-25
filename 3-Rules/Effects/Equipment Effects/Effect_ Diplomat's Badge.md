@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by activating [[Equipment/Diplomat's Badge|Diplomat's Badge]].
+Granted by activating [[Diplomat's Badge|Diplomat's Badge]].
 
 *Source: Pathfinder GM Core*
 *ORC*

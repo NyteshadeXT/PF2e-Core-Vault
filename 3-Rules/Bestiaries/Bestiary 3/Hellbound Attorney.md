@@ -89,7 +89,7 @@ creatures:
 
 
 
-The Hellbound attorney sought the assistance of a [[Bestiary 1/Phistophilus|Phistophilus]]-one of Hell's contract devils-to bolster her legalistic ability on the Material Plane.
+The Hellbound attorney sought the assistance of a [[3-Rules/Bestiaries/Bestiary 1/P/Phistophilus|Phistophilus]]-one of Hell's contract devils-to bolster her legalistic ability on the Material Plane.
 
 * * *
 

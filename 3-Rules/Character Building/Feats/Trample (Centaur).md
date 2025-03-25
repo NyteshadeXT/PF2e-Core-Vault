@@ -12,7 +12,7 @@ license: ORC
 ---
 # Trample (Centaur) `pf2:3`
 ## Feat 13
-### [[centaur]]
+### [[Centaur]]
 
 **Category** ancestry; 
 

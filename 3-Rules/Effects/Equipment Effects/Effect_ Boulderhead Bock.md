@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Boulderhead Bock|Boulderhead Bock]].
+Granted by [[Boulderhead Bock|Boulderhead Bock]].
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

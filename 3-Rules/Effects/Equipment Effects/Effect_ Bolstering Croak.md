@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Whip-Tongue Sling|Whip-Tongue Sling]]
+Granted by [[Whip-Tongue Sling|Whip-Tongue Sling]]
 
 Allies gain a +1 status bonus to saves against fear effects.
 

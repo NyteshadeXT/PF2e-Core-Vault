@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Sairazul Blue|Sairazul Blue]]
+Granted by [[Sairazul Blue|Sairazul Blue]]
 
 You gain resistance 5 to poison damage and void damage.
 

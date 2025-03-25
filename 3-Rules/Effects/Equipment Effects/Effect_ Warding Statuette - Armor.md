@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Warding Statuette|Warding Statuette]]
+Granted by [[Warding Statuette|Warding Statuette]]
 
 You gain resistance 1 against ranged weapon attacks.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Lastwall Soup (Greater)|Lastwall Soup (Greater)]]
+Granted by [[Lastwall Soup (Greater)|Lastwall Soup (Greater)]]
 
 The creature gains a +4 item bonus to Stealth checks and DCs against undead and 10 temporary hit points.
 

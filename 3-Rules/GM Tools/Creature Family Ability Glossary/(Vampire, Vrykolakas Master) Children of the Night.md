@@ -19,7 +19,7 @@ license: OGL
 
 
 
-The presence of a vrykolakas master inspires savage creatures to crawl forth to do its bidding, including [[Bestiary 1/Rat Swarm|Rat Swarms]], [[Bestiary 1/Warg|Wargs]], [[Bestiary 1/Werewolf|Werewolves]], and similar creatures.
+The presence of a vrykolakas master inspires savage creatures to crawl forth to do its bidding, including [[3-Rules/Bestiaries/Bestiary 1/R/Rat Swarm|Rat Swarms]], [[3-Rules/Bestiaries/Bestiary 1/W/Warg|Wargs]], [[3-Rules/Bestiaries/Bestiary 1/W/Werewolf|Werewolves]], and similar creatures.
 
 The vrykolakas master can give telepathic orders to these creatures within 100 feet, but they can't communicate back.
 

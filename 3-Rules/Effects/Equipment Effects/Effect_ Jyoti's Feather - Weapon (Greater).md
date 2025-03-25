@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Jyoti's Feather (Greater)|Jyoti's Feather (Greater)]]
+Granted by [[Jyoti's Feather (Greater)|Jyoti's Feather (Greater)]]
 
 The weapon has the _disrupting rune_ while the _feather_ is affixed.
 

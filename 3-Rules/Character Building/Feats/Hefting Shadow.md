@@ -13,7 +13,7 @@ license: OGL
 ---
 # Hefting Shadow
 ## Feat 9
-### [[fetchling]][[occult]][[shadow]]
+### [[fetchling]][[occult]][[3-Rules/trait_reference/shadow]]
 
 **Category** ancestry; 
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Malleable Mixture (Lesser)|Malleable Mixture (Lesser)]]
+Granted by [[Malleable Mixture (Lesser)|Malleable Mixture (Lesser)]]
 
 You gain a +2 item bonus to your Fortitude and Reflex DCs against attempts to Grapple, Shove, or Trip you for 1 minute.
 

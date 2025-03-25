@@ -12,7 +12,7 @@ license: ORC
 ---
 # Centaur Weapon Familiarity
 ## Feat 1
-### [[centaur]]
+### [[Centaur]]
 
 **Category** ancestry; 
 

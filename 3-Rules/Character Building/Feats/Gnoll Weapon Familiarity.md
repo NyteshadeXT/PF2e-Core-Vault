@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You were taught to be a hunter and a raider. You are trained with [[Equipment/Flail|Flail]], [[Equipment/Khopesh|Khopesh]], [[Equipment/Mambele|Mambele]], [[Equipment/Spear|Spear]], and [[Equipment/War Flail|War Flail]].
+You were taught to be a hunter and a raider. You are trained with [[Flail|Flail]], [[Khopesh|Khopesh]], [[Mambele|Mambele]], [[Spear|Spear]], and [[War Flail|War Flail]].
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

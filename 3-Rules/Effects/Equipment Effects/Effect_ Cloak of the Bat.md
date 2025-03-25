@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Cloak of the Bat|Cloak of the Bat]]
+Granted by [[Cloak of the Bat|Cloak of the Bat]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

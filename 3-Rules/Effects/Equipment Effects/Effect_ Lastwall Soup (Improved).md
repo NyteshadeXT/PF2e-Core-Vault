@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Lastwall Soup (Improved)|Lastwall Soup (Improved)]]
+Granted by [[Lastwall Soup (Improved)|Lastwall Soup (Improved)]]
 
 The creature gains a +3 item bonus to Stealth checks and DCs against undead.
 

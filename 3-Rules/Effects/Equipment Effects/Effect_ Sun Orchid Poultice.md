@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Sun Orchid Poultice|Sun Orchid Poultice]]
+Granted by [[Sun Orchid Poultice|Sun Orchid Poultice]]
 
 *Source: Pathfinder Lost Omens: Legends*
 *OGL*

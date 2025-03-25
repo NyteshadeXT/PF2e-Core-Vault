@@ -14,7 +14,7 @@ license: ORC
 ---
 # Phantom Charm `pf2:0`
 ## Feat 13
-### [[divine]][[fortune]][[minotaur]]
+### [[divine]][[fortune]][[Minotaur]]
 
 **Category** ancestry; 
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Cold Iron Blanch (Lesser)|Cold Iron Blanch (Lesser)]]
+Granted by [[Cold Iron Blanch (Lesser)|Cold Iron Blanch (Lesser)]]
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

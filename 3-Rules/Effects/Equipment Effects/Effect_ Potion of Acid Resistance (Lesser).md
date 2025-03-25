@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potion of Acid Resistance (Lesser)|Potion of Acid Resistance (Lesser)]]
+Granted by [[Potion of Acid Resistance (Lesser)|Potion of Acid Resistance (Lesser)]]
 
 This potion grants resistance 5 against acid damage.
 

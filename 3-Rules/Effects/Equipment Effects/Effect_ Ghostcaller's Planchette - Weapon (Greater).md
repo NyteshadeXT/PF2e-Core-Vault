@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Ghostcaller's Planchette (Greater)|Ghostcaller's Planchette (Greater)]]
+Granted by [[Ghostcaller's Planchette (Greater)|Ghostcaller's Planchette (Greater)]]
 
 After you cast a necromancy spell by activating the _planchette_, the affixed weapon gains the effects of both the _ghost touch_ and _greater disrupting_ property runes until the end of your next turn.
 

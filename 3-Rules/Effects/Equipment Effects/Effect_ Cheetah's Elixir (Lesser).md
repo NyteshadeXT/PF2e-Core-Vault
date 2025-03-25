@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Cheetah's Elixir (Lesser)|Cheetah's Elixir (Lesser)]]
+Granted by [[Cheetah's Elixir (Lesser)|Cheetah's Elixir (Lesser)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

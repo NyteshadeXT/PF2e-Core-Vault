@@ -12,7 +12,7 @@ license: ORC
 ---
 # Labyrinthine Echoes
 ## Feat 5
-### [[minotaur]]
+### [[Minotaur]]
 
 **Category** ancestry; 
 

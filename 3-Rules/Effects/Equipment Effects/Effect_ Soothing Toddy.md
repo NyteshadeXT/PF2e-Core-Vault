@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Soothing Toddy|Soothing Toddy]]
+Granted by [[Soothing Toddy|Soothing Toddy]]
 
 A soothing toddy grants you a +1 item bonus to saving throws against emotion effects and against effects with a trait determined by the liquor mixed into the tea when it's created.
 

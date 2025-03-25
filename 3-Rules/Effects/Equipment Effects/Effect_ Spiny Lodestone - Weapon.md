@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Spiny Lodestone|Spiny Lodestone]]
+Granted by [[Spiny Lodestone|Spiny Lodestone]]
 
 After you cast a spell by Activating the _spiny lodestone_, your Strikes with the weapon deal an additional 1d4 piercing damage until the end of your next turn.
 

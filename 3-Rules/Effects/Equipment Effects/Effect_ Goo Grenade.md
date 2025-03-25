@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Goo Grenade (Lesser)|Goo Grenade (Lesser)]], [[Equipment/Goo Grenade (Moderate)|Goo Grenade (Moderate)]], [[Equipment/Goo Grenade (Greater)|Goo Grenade (Greater)]], [[Equipment/Goo Grenade (Major)|Goo Grenade (Major)]]
+Granted by [[Goo Grenade (Lesser)|Goo Grenade (Lesser)]], [[Goo Grenade (Moderate)|Goo Grenade (Moderate)]], [[Goo Grenade (Greater)|Goo Grenade (Greater)]], [[Goo Grenade (Major)|Goo Grenade (Major)]]
 
 When you hit a creature with a goo grenade, that creature takes persistent acid damage and a circumstance penalty to its Speeds from the clinging goo.
 

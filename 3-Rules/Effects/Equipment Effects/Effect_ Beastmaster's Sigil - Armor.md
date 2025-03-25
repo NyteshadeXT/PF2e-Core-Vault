@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Beastmaster's Sigil|Beastmaster's Sigil]]
+Granted by [[Beastmaster's Sigil|Beastmaster's Sigil]]
 
 The _sigil_ grants you a +1 item bonus to saving throws against poison.
 

@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Requirements** You must use a [[Equipment/Repair Toolkit|Repair Toolkit]]
+**Requirements** You must use a [[Repair Toolkit|Repair Toolkit]]
 
 * * *
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Phantasmal Doorknob|Phantasmal Doorknob]]
+Granted by [[Phantasmal Doorknob|Phantasmal Doorknob]]
 
 You gain a +1 item bonus to Thievery checks to Pick a Lock.
 

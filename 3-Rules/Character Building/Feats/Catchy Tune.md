@@ -15,7 +15,7 @@ license: OGL
 ---
 # Catchy Tune `pf2:1`
 ## Feat 5
-### [[auditory]][[concentrate]][[emotion]][[3-Rules/trait_reference/mental]][[sprite]]
+### [[auditory]][[concentrate]][[emotion]][[3-Rules/trait_reference/mental]][[3-Rules/Bestiaries/Bestiary 1/S/Sprite]]
 
 **Category** ancestry; 
 

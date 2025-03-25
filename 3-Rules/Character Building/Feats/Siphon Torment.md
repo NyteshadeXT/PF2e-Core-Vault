@@ -12,7 +12,7 @@ license: ORC
 ---
 # Siphon Torment
 ## Feat 9
-### [[minotaur]]
+### [[Minotaur]]
 
 **Category** ancestry; 
 

@@ -22,7 +22,7 @@ license: ORC
 
 
 
-**Requirements** You're holding or wearing an [[Equipment/Alchemist's Toolkit|Alchemist's Toolkit]].
+**Requirements** You're holding or wearing an [[Alchemist's Toolkit|Alchemist's Toolkit]].
 
 * * *
 

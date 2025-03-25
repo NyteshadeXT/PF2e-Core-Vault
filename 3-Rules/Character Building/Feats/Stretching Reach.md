@@ -13,7 +13,7 @@ license: ORC
 ---
 # Stretching Reach `pf2:1`
 ## Feat 5
-### [[minotaur]][[stance]]
+### [[Minotaur]][[stance]]
 
 **Category** ancestry; 
 

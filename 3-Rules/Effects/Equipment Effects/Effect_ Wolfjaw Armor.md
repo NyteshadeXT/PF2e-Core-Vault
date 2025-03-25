@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Wolfjaw Armor|Wolfjaw Armor]]
+Granted by [[Wolfjaw Armor|Wolfjaw Armor]]
 
 You gain a jaws unarmed attack that you make using your hands. This attack deals 1d8 piecing damage plus 1 cold damage, is in the brawling group, and has the trip and unarmed traits.
 

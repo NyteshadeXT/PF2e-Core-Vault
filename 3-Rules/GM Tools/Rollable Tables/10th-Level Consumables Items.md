@@ -12,15 +12,15 @@ Table of 10th-Level Consumables Items
 
 | 1d72 | result |
 |------|--------|
-| 1-6 | [[Equipment/Elemental Gem\|Elemental Gem]] |
-| 7-12 | [[Equipment/Antidote (Greater)\|Antidote (Greater)]] |
-| 13-18 | [[Equipment/Antiplague (Greater)\|Antiplague (Greater)]] |
-| 19-24 | [[Equipment/Bravo's Brew (Moderate)\|Bravo's Brew (Moderate)]] |
-| 25-30 | [[Equipment/Eagle Eye Elixir (Greater)\|Eagle Eye Elixir (Greater)]] |
-| 31-36 | [[Equipment/Mistform Elixir (Greater)\|Mistform Elixir (Greater)]] |
-| 37-42 | [[Equipment/Nethershade\|Shadow Essence]] |
-| 43-48 | [[Equipment/Wolfsbane\|Wolfsbane]] |
-| 49-54 | [[Equipment/Potion of Resistance (Moderate)\|Potion of Resistance (Moderate)]] |
-| 55-60 | [[Equipment/Iron Medallion\|Iron Medallion]] |
-| 61-66 | [[Equipment/Mummified Bat\|Mummified Bat]] |
-| 67-72 | [[Equipment/Vanishing Coin\|Vanishing Coin]] |
+| 1-6 | [[Elemental Gem\|Elemental Gem]] |
+| 7-12 | [[Antidote (Greater)\|Antidote (Greater)]] |
+| 13-18 | [[Antiplague (Greater)\|Antiplague (Greater)]] |
+| 19-24 | [[Bravo's Brew (Moderate)\|Bravo's Brew (Moderate)]] |
+| 25-30 | [[Eagle Eye Elixir (Greater)\|Eagle Eye Elixir (Greater)]] |
+| 31-36 | [[Mistform Elixir (Greater)\|Mistform Elixir (Greater)]] |
+| 37-42 | [[Nethershade\|Shadow Essence]] |
+| 43-48 | [[Wolfsbane\|Wolfsbane]] |
+| 49-54 | [[Potion of Resistance (Moderate)\|Potion of Resistance (Moderate)]] |
+| 55-60 | [[Iron Medallion\|Iron Medallion]] |
+| 61-66 | [[Mummified Bat\|Mummified Bat]] |
+| 67-72 | [[Vanishing Coin\|Vanishing Coin]] |

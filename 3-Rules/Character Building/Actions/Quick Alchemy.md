@@ -20,7 +20,7 @@ license: ORC
 
 
 
-**Requirements** You're either holding or wearing an [[Equipment/Alchemist's Toolkit|Alchemist's Toolkit]]. and you have a free hand.
+**Requirements** You're either holding or wearing an [[Alchemist's Toolkit|Alchemist's Toolkit]]. and you have a free hand.
 
 * * *
 

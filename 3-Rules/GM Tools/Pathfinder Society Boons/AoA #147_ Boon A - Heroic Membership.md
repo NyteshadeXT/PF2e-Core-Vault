@@ -24,7 +24,7 @@ Heroic Membership: Your adventures have earned you a unique place in a powerful 
 *   Feats: [[Feats/Different Worlds|Different Worlds]], [[Feats/Reveal Machinations|Reveal Machinations]], [[Feats/Silver's Refrain|Silver's Refrain]], [[Feats/Tweak Appearances|Tweak Appearances]].
 *   Spells: [[Spells/Exchange Image|Exchange Image]], [[Spells/Join Pasts|Join Pasts]], [[Spells/Silver's Refrain|Silver's Refrain]], [[Spells/Spiritual Anamnesis|Spiritual Anamnesis]].
 
-**□ Bellflower Membership** You are a member of the Bellflower Network and gain access to the [[PF2e Journals/Archetypes/Bellflower Tiller|Bellflower Tiller]] archetype, its associated feats, and the [[Equipment/Bellflower Toolbelt|Bellflower Toolbelt]].
+**□ Bellflower Membership** You are a member of the Bellflower Network and gain access to the [[PF2e Journals/Archetypes/Bellflower Tiller|Bellflower Tiller]] archetype, its associated feats, and the [[Bellflower Toolbelt|Bellflower Toolbelt]].
 
 *Source: *
 *OGL*

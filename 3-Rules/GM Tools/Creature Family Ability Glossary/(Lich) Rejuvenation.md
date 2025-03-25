@@ -19,7 +19,7 @@ license: ORC
 
 
 
-When a lich is destroyed, its soul immediately transfers to their _[[Equipment/Lich Soul Cage|Soul Cage]]_. A lich can be permanently destroyed only if their _soul cage_ is found and destroyed.
+When a lich is destroyed, its soul immediately transfers to their _[[Lich Soul Cage|Soul Cage]]_. A lich can be permanently destroyed only if their _soul cage_ is found and destroyed.
 
 *Source: Pathfinder Monster Core*
 *ORC*

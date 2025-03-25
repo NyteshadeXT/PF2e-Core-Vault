@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Wine of the Blood|Wine of the Blood]]
+Granted by [[Wine of the Blood|Wine of the Blood]]
 
 You gain a +1 status bonus to all Will saves, or a +2 status bonus against emotion effects.
 

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Gnoll Weapon Familiarity
 * * *
-Whenever you critically hit using [[Equipment/Flail|Flail]], [[Equipment/Khopesh|Khopesh]], [[Equipment/Mambele|Mambele]], [[Equipment/Spear|Spear]], and [[Equipment/War Flail|War Flail]], you apply the weapon's critical specialization effect.
+Whenever you critically hit using [[Flail|Flail]], [[Khopesh|Khopesh]], [[Mambele|Mambele]], [[Spear|Spear]], and [[War Flail|War Flail]], you apply the weapon's critical specialization effect.
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

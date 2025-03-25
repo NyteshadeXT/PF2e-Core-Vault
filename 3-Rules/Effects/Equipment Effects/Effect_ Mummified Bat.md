@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Mummified Bat|Mummified Bat]]
+Granted by [[Mummified Bat|Mummified Bat]]
 
 If you have the Blind-Fight feat, you gain imprecise echolocation with a range of 30 feet.
 

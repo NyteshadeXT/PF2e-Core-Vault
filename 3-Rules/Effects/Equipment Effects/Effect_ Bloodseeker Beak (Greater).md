@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Bloodseeker Beak (Greater)|Bloodseeker Beak (Greater)]]
+Granted by [[Bloodseeker Beak (Greater)|Bloodseeker Beak (Greater)]]
 
 You deal an extra 2d4 precision damage on your damage roll.
 

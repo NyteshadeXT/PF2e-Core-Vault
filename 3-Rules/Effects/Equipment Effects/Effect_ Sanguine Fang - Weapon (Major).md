@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Sanguine Fang (Major)|Sanguine Fang (Major)]]
+Granted by [[Sanguine Fang (Major)|Sanguine Fang (Major)]]
 
 After you cast a necromancy spell by activating the _fang_, your Strikes with the weapon deal 2d6 persistent bleed damage until the end of your next turn.
 

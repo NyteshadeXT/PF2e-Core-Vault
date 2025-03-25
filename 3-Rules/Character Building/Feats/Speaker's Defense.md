@@ -12,7 +12,7 @@ license: ORC
 ---
 # Speaker's Defense
 ## Feat 9
-### [[centaur]]
+### [[Centaur]]
 
 **Category** ancestry; 
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Blood Booster (Greater)|Blood Booster (Greater)]]
+Granted by [[Blood Booster (Greater)|Blood Booster (Greater)]]
 
 You receive resistance 20 to persistent bleed and persistent poison damage, and you lower the DC for any flat checks to end persistent bleed or persistent poison damage as if you received particularly appropriate aid.
 

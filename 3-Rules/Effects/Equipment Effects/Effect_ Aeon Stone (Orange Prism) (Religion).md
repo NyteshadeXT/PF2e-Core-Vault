@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by activating [[Equipment/Aeon Stone (Amplifying)|Aeon Stone (Orange Prism)]] when the last spell you cast was a Divine spell.
+Granted by activating [[Aeon Stone (Amplifying)|Aeon Stone (Orange Prism)]] when the last spell you cast was a Divine spell.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

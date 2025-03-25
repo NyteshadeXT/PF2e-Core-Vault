@@ -11,7 +11,7 @@ license: OGL
 ---
 # Speak With Bats
 ## Feat 1
-### [[sprite]]
+### [[3-Rules/Bestiaries/Bestiary 1/S/Sprite]]
 
 **Category** ancestry; 
 

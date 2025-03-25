@@ -20,7 +20,7 @@ license: OGL
 
 Repeated exposure to fortifying additives in mutagens makes your juggernaut form impervious.
 
-Whenever you're affected by a [[Equipment/Juggernaut Mutagen (Lesser)|Juggernaut Mutagen]], you gain resistance to all physical damage equal to your Intelligence modifier (minimum 0).
+Whenever you're affected by a [[Juggernaut Mutagen (Lesser)|Juggernaut Mutagen]], you gain resistance to all physical damage equal to your Intelligence modifier (minimum 0).
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

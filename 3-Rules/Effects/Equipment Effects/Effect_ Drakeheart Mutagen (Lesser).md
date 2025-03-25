@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Drakeheart Mutagen (Lesser)|Drakeheart Mutagen (Lesser)]]
+Granted by [[Drakeheart Mutagen (Lesser)|Drakeheart Mutagen (Lesser)]]
 
 **Implemented effects**
 

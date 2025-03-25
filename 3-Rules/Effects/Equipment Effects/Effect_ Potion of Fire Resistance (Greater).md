@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potion of Fire Resistance (Greater)|Potion of Fire Resistance (Greater)]]
+Granted by [[Potion of Fire Resistance (Greater)|Potion of Fire Resistance (Greater)]]
 
 This potion grants resistance 15 against fire damage.
 

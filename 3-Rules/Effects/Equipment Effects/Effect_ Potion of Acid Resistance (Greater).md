@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Potion of Acid Resistance (Greater)|Potion of Acid Resistance (Greater)]]
+Granted by [[Potion of Acid Resistance (Greater)|Potion of Acid Resistance (Greater)]]
 
 This potion grants resistance 15 against acid damage.
 

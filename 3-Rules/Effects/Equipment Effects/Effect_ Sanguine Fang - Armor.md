@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Sanguine Fang|Sanguine Fang]]
+Granted by [[Sanguine Fang|Sanguine Fang]]
 
 You gain resistance 3 to persistent bleed damage and a +2 item bonus on saving throws against effects with the void trait.
 

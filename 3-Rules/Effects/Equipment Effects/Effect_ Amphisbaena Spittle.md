@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Amphisbaena Spittle|Amphisbaena Spittle]]
+Granted by [[Amphisbaena Spittle|Amphisbaena Spittle]]
 
 The eye blinks open, preventing the target from being flanked.
 

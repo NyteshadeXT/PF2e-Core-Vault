@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Journeybread (Power)|Journeybread (Power)]]
+Granted by [[Journeybread (Power)|Journeybread (Power)]]
 
 In addition to the benefits of journeybread, power journeybread grants you a +1 item bonus to Athletics checks to Climb, Force Open, and Swim, and to Fortitude saving throws against being sickened.
 

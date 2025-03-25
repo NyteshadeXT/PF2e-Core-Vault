@@ -21,7 +21,7 @@ Granted by [[Feats/Buckler Dance|Buckler Dance]]
 
 * * *
 
-**Requirements** You are wielding a [[Equipment/Buckler|Buckler]].
+**Requirements** You are wielding a [[Buckler|Buckler]].
 
 * * *
 

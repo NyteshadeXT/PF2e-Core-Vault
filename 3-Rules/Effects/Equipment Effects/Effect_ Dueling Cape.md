@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by using [[Equipment/Dueling Cape|Dueling Cape]]
+Granted by using [[Dueling Cape|Dueling Cape]]
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

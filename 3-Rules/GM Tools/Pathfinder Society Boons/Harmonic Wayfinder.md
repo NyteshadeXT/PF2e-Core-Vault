@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-**Effect** You have modified your [[Equipment/Wayfinder|Wayfinder]] to resonate with your allies’ actions, allowing you to better help them in times of need. When you purchase this boon, you apply its benefits to one wayfinder in your possession, granting you a special free action ability when the wayfinder is invested and in your possession.
+**Effect** You have modified your [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] to resonate with your allies’ actions, allowing you to better help them in times of need. When you purchase this boon, you apply its benefits to one wayfinder in your possession, granting you a special free action ability when the wayfinder is invested and in your possession.
 
 You can activate this ability as a free action before you Aid an ally. If you roll a success on the check to Aid, you instead get a critical success.
 

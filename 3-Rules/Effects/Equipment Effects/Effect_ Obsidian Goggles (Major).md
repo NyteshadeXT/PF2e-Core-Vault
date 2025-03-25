@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Obsidian Goggles (Major)|Obsidian Goggles (Major)]]
+Granted by [[Obsidian Goggles (Major)|Obsidian Goggles (Major)]]
 
 You gain _greater darkvision_ until you deactivate it as an Interact action or the item is no longer invested by you, whichever comes first.
 

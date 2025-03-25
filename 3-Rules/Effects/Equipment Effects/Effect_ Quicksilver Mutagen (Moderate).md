@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Quicksilver Mutagen (Moderate)|Quicksilver Mutagen (Moderate)]]
+Granted by [[Quicksilver Mutagen (Moderate)|Quicksilver Mutagen (Moderate)]]
 
 **Benefit** You gain a +2 item bonus to Acrobatics checks, Stealth checks, Thievery checks, Reflex saves, and Dexterity-based attack rolls, and you gain a +10 foot status bonus to your Speed.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Perfect Droplet|Perfect Droplet]]
+Granted by [[Perfect Droplet|Perfect Droplet]]
 
 You gain resistance 2 to water effects and attacks by water creatures.
 

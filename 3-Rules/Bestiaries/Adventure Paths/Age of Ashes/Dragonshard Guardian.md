@@ -81,4 +81,4 @@ creatures:
 
 
 
-Created by Mengkare and powered by a shard of the _[[Equipment/Orb of Dragonkind|Orb of Gold Dragonkind]]_, this construct is made of sculpted crystal draped in a beautiful gold filigree frame.
+Created by Mengkare and powered by a shard of the _[[Orb of Dragonkind|Orb of Gold Dragonkind]]_, this construct is made of sculpted crystal draped in a beautiful gold filigree frame.

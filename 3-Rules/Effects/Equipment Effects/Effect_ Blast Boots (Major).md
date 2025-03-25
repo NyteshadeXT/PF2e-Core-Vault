@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Blast Boots (Major)|Blast Boots (Major)]]
+Granted by [[Blast Boots (Major)|Blast Boots (Major)]]
 
 For 1 minute, the _major blast boots_ remain active, allowing you to clumsily fly through the air for the duration. You gain a 30-foot Fly speed for the duration, but any time you [[Actions/Fly|Fly]], you are [[Conditions/Clumsy|Clumsy 1]] until the start of your next turn.
 

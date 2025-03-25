@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Catch Pole|Catch Pole]], [[Equipment/Giant Catch Pole|Giant Catch Pole]], [[Equipment/Superior Catch Pole|Superior Catch Pole]]
+Granted by [[Catch Pole|Catch Pole]], [[Giant Catch Pole|Giant Catch Pole]], [[Superior Catch Pole|Superior Catch Pole]]
 
 A creature grappled by the catch pole receives a –2 circumstance penalty to attack rolls when Striking with an unarmed attack.
 

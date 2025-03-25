@@ -12,7 +12,7 @@ license: ORC
 ---
 # Miraculous Medic
 ## Feat 13
-### [[centaur]]
+### [[Centaur]]
 
 **Category** ancestry; 
 

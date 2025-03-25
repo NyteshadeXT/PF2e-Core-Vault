@@ -12,7 +12,7 @@ Table of Moderate Precious Stones
 
 | 1d100 | result |
 |------|--------|
-| 1-25 | [[Equipment/Diamond, small\|Diamond, small]] |
-| 26-50 | [[Equipment/Emerald\|Emerald]] |
-| 51-75 | [[Equipment/Ruby, small\|Ruby, small]] |
-| 76-100 | [[Equipment/Sapphire\|Sapphire]] |
+| 1-25 | [[Diamond, small\|Diamond, small]] |
+| 26-50 | [[Emerald\|Emerald]] |
+| 51-75 | [[Ruby, small\|Ruby, small]] |
+| 76-100 | [[Sapphire\|Sapphire]] |

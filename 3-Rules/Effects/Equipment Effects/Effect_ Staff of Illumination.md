@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Staff of Illumination|Staff of Illumination]]
+Granted by [[Staff of Illumination|Staff of Illumination]]
 
 The gem at the top of the staff glows as a torch, shedding bright light in a 20-foot radius (and dim light to the next 20 feet).
 

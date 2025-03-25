@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Jyoti's Feather|Jyoti's Feather]]
+Granted by [[Jyoti's Feather|Jyoti's Feather]]
 
 You gain a +2 item bonus to saving throws against death effects and void energy.
 

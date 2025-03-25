@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Tome of Restorative Cleansing (Greater)|Tome of Restorative Cleansing (Greater)]]
+Granted by [[Tome of Restorative Cleansing (Greater)|Tome of Restorative Cleansing (Greater)]]
 
 The creature gains 3d8 temporary Hit Points.
 

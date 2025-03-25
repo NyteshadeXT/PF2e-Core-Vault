@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** bakuwa lizardfolk heritage or Tian Xia origin
 * * *
-A hump forms on your back that allows you to attack and trap spirits. Your weapon and unarmed attack Strikes against incorporeal creatures become magical. If they're already magical, they instead gain the effects of a [[Equipment/Ghost Touch|Ghost Touch]] rune.
+A hump forms on your back that allows you to attack and trap spirits. Your weapon and unarmed attack Strikes against incorporeal creatures become magical. If they're already magical, they instead gain the effects of a [[Ghost Touch|Ghost Touch]] rune.
 
 * * *
 

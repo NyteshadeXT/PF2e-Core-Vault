@@ -15,18 +15,18 @@ Table of 5th-Level Permanent Items
 | 1-6 | Magic Armor (+1) |
 | 7-12 | Cold Iron Armor (Low-Grade) |
 | 13-18 | Silver Armor (Low-Grade) |
-| 19-21 | [[Equipment/Holy Prayer Beads\|Holy Prayer Beads]] |
-| 22-27 | [[Equipment/Skeleton Key\|Skeleton Key]] |
-| 28-33 | [[Equipment/Armor Potency (+1)\|Armor Potency (+1)]] |
-| 34-39 | [[Equipment/Raiment\|Glamered]] |
-| 40-45 | [[Equipment/Vitalizing\|Disrupting]] |
-| 46-51 | [[Equipment/Pocket Stage\|Pocket Stage]] |
-| 52-57 | [[Equipment/Magic Wand (2nd-Rank Spell)\|Magic Wand (2nd-Rank Spell)]] |
-| 58-63 | [[Equipment/Wand of Continuation (1st-Rank Spell)\|Wand of Continuation (1st-Rank Spell)]] |
-| 64-69 | [[Equipment/Wand of Shardstorm (1st-Rank Spell)\|Wand of Manifold Missiles (1st-Rank Spell)]] |
-| 70-75 | [[Equipment/Caterwaul Sling\|Caterwaul Sling]] |
-| 76-81 | [[Equipment/Serpent Dagger\|Dagger of Venom]] |
-| 82-87 | [[Equipment/Boots of Elvenkind\|Boots of Elvenkind]] |
-| 88-93 | [[Equipment/Diplomat's Badge\|Diplomat's Badge]] |
-| 94-99 | [[Equipment/Obsidian Goggles\|Obsidian Goggles]] |
-| 100-105 | [[Equipment/Necklace of Fireballs I\|Necklace of Fireballs I]] |
+| 19-21 | [[Holy Prayer Beads\|Holy Prayer Beads]] |
+| 22-27 | [[Skeleton Key\|Skeleton Key]] |
+| 28-33 | [[Armor Potency (+1)\|Armor Potency (+1)]] |
+| 34-39 | [[Raiment\|Glamered]] |
+| 40-45 | [[Vitalizing\|Disrupting]] |
+| 46-51 | [[Pocket Stage\|Pocket Stage]] |
+| 52-57 | [[Magic Wand (2nd-Rank Spell)\|Magic Wand (2nd-Rank Spell)]] |
+| 58-63 | [[Wand of Continuation (1st-Rank Spell)\|Wand of Continuation (1st-Rank Spell)]] |
+| 64-69 | [[Wand of Shardstorm (1st-Rank Spell)\|Wand of Manifold Missiles (1st-Rank Spell)]] |
+| 70-75 | [[Caterwaul Sling\|Caterwaul Sling]] |
+| 76-81 | [[Serpent Dagger\|Dagger of Venom]] |
+| 82-87 | [[Boots of Elvenkind\|Boots of Elvenkind]] |
+| 88-93 | [[Diplomat's Badge\|Diplomat's Badge]] |
+| 94-99 | [[Obsidian Goggles\|Obsidian Goggles]] |
+| 100-105 | [[Necklace of Fireballs I\|Necklace of Fireballs I]] |

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by activating [[Equipment/Aeon Stone (Black Pearl)|Aeon Stone (Black Pearl)]]
+Granted by activating [[Aeon Stone (Black Pearl)|Aeon Stone (Black Pearl)]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

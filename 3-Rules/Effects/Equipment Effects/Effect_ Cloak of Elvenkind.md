@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Cloak of Elvenkind|Cloak of Elvenkind]]
+Granted by [[Cloak of Elvenkind|Cloak of Elvenkind]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

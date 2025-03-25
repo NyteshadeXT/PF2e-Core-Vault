@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Vermin Repellent Agent (Greater)|Vermin Repellent Agent (Greater)]]
+Granted by [[Vermin Repellent Agent (Greater)|Vermin Repellent Agent (Greater)]]
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Beastmaster's Sigil (Major)|Beastmaster's Sigil (Major)]]
+Granted by [[Beastmaster's Sigil (Major)|Beastmaster's Sigil (Major)]]
 
 The _sigil_ grants you a +2 item bonus to Athletics checks to [[Actions/Trip|Trip]].
 

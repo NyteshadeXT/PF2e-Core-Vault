@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Triton's Conch|Triton's Conch]]
+Granted by [[Triton's Conch|Triton's Conch]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Speaker in Training
 ## Feat 5
-### [[centaur]]
+### [[Centaur]]
 
 **Category** ancestry; 
 

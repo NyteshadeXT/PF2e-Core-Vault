@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Sulfur Bomb (Lesser)|Sulfur Bomb]]
+Granted by [[Sulfur Bomb (Lesser)|Sulfur Bomb]]
 
 The target takes a -1 status penalty to Perception checks and attack rolls until the end of its next turn.
 

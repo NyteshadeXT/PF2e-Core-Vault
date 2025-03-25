@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Polished Demon Horn|Polished Demon Horn]]
+Granted by [[Polished Demon Horn|Polished Demon Horn]]
 
 Your Strikes with the chosen weapon deal an additional 1d4 mental damage.
 

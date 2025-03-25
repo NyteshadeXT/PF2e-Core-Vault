@@ -12,17 +12,17 @@ Table of Moderate Semiprecious Stones
 
 | 1d100 | result |
 |------|--------|
-| 1-7 | [[Equipment/Bloodstone\|Bloodstone]] |
-| 8-14 | [[Equipment/Carnelian\|Carnelian]] |
-| 15-21 | [[Equipment/Chrysoprase\|Chrysoprase]] |
-| 22-28 | [[Equipment/Citrine\|Citrine]] |
-| 29-35 | [[Equipment/Ivory\|Ivory]] |
-| 36-42 | [[Equipment/Jasper\|Jasper]] |
-| 43-49 | [[Equipment/Moonstone\|Moonstone]] |
-| 50-56 | [[Equipment/Onyx\|Onyx]] |
-| 57-63 | [[Equipment/Peridot\|Peridot]] |
-| 64-70 | [[Equipment/Quartz, milky, rose, or smoky\|Quartz, milky, rose, or smoky]] |
-| 71-77 | [[Equipment/Sard\|Sard]] |
-| 78-84 | [[Equipment/Sardonyx\|Sardonyx]] |
-| 85-92 | [[Equipment/Spinel, red or green\|Spinel, red or green]] |
-| 93-100 | [[Equipment/Zircon\|Zircon]] |
+| 1-7 | [[Bloodstone\|Bloodstone]] |
+| 8-14 | [[Carnelian\|Carnelian]] |
+| 15-21 | [[Chrysoprase\|Chrysoprase]] |
+| 22-28 | [[Citrine\|Citrine]] |
+| 29-35 | [[Ivory\|Ivory]] |
+| 36-42 | [[Jasper\|Jasper]] |
+| 43-49 | [[Moonstone\|Moonstone]] |
+| 50-56 | [[Onyx\|Onyx]] |
+| 57-63 | [[Peridot\|Peridot]] |
+| 64-70 | [[Quartz, milky, rose, or smoky\|Quartz, milky, rose, or smoky]] |
+| 71-77 | [[3-Rules/Character Building/Equipment/S/Sard\|Sard]] |
+| 78-84 | [[Sardonyx\|Sardonyx]] |
+| 85-92 | [[Spinel, red or green\|Spinel, red or green]] |
+| 93-100 | [[Zircon\|Zircon]] |

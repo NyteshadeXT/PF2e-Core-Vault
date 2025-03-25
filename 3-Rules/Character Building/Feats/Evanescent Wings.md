@@ -11,7 +11,7 @@ license: OGL
 ---
 # Evanescent Wings `pf2:1`
 ## Feat 1
-### [[sprite]]
+### [[3-Rules/Bestiaries/Bestiary 1/S/Sprite]]
 
 **Category** ancestry; 
 

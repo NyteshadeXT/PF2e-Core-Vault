@@ -13,7 +13,7 @@ license: OGL
 ---
 # Clever Shadow
 ## Feat 5
-### [[fetchling]][[occult]][[shadow]]
+### [[fetchling]][[occult]][[3-Rules/trait_reference/shadow]]
 
 **Category** ancestry; 
 

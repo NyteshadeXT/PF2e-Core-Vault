@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You were born with a layer of scales across your entire body that resemble those of your draconic progenitor. When you're unarmored, the scales give you a +2 item bonus to AC with a Dexterity cap of +3. The item bonus to AC from these scales is cumulative with armor potency runes on your explorer's clothing, the [[Spells/Mystic Armor|Mystic Armor]] spell, or [[Equipment/Bands of Force|Bands of Force]].
+You were born with a layer of scales across your entire body that resemble those of your draconic progenitor. When you're unarmored, the scales give you a +2 item bonus to AC with a Dexterity cap of +3. The item bonus to AC from these scales is cumulative with armor potency runes on your explorer's clothing, the [[Spells/Mystic Armor|Mystic Armor]] spell, or [[Bands of Force|Bands of Force]].
 
 * * *
 

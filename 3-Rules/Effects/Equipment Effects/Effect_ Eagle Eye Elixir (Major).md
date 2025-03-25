@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Eagle Eye Elixir (Major)|Eagle Eye Elixir (Major)]]
+Granted by [[Eagle Eye Elixir (Major)|Eagle Eye Elixir (Major)]]
 
 Implemented effects:
 

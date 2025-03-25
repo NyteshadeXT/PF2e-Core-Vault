@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Equipment/Glue Bomb (Major)|Glue Bomb (Major)]]
+Granted by [[Glue Bomb (Major)|Glue Bomb (Major)]]
 
 The target takes a –20-foot status penalty to its Speeds.
 

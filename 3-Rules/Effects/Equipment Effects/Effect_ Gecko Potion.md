@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Equipment/Gecko Potion|Gecko Potion]]
+Granted by [[Gecko Potion|Gecko Potion]]
 
 Implemented effects:
 
