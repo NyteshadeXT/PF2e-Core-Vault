@@ -11750,7 +11750,7 @@
     },
     {
       "id": "Whispering Cairn",
-      "lastAccessed": 1741807792671,
+      "lastAccessed": 1743269480514,
       "markers": [
         {
           "id": "ID_a8393b2809ab",
@@ -11915,7 +11915,7 @@
     },
     {
       "id": "Lair of the Architect",
-      "lastAccessed": 1741807792671,
+      "lastAccessed": 1743269480515,
       "markers": [
         {
           "id": "ID_2a6aaa484af8",
@@ -12046,7 +12046,7 @@
     },
     {
       "id": "Lair of the Laborers",
-      "lastAccessed": 1741807792671,
+      "lastAccessed": 1743269480515,
       "markers": [
         {
           "id": "ID_f8094b6938c9",
@@ -12214,7 +12214,7 @@
     },
     {
       "id": "The True Tomb",
-      "lastAccessed": 1741807792671,
+      "lastAccessed": 1743269480515,
       "markers": [
         {
           "id": "ID_9acbda8979e9",
@@ -12305,7 +12305,7 @@
     },
     {
       "id": "dark-cathedral",
-      "lastAccessed": 1742664178773,
+      "lastAccessed": 1743281368069,
       "markers": [
         {
           "id": "ID_ca6b7828caa9",
@@ -12394,7 +12394,7 @@
     },
     {
       "id": "Citadel of Hextor",
-      "lastAccessed": 1742664178774,
+      "lastAccessed": 1743281368069,
       "markers": [
         {
           "id": "ID_28ba4b6bb9f8",
@@ -12590,6 +12590,228 @@
           "percent": [
             0.5465545804318669,
             0.35337393829793695
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4-Campaign/Age of Worms/The Three Faces of Evil.md"
+      ]
+    },
+    {
+      "id": "Caves of Erythnul",
+      "lastAccessed": 1743281368069,
+      "markers": [
+        {
+          "id": "ID_dbeb0b292978",
+          "type": "default",
+          "loc": [
+            -0.0011535645462572575,
+            0.0034576515774803907
+          ],
+          "link": "The Three Faces of Evil#Encounter 12: Stone Forest",
+          "layer": "%5B%5Bimage-2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6950940300053831,
+            0.16434783935546876
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abc818eb9b89",
+          "type": "default",
+          "loc": [
+            -0.0028228759765625,
+            0.0024951871486437504
+          ],
+          "link": "The Three Faces of Evil#Encounter 13: The Ledge",
+          "layer": "%5B%5Bimage-2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5016091563604811,
+            0.40217391304347827
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_187a182be84a",
+          "type": "default",
+          "loc": [
+            -0.005044555524364114,
+            0.001144460922711638
+          ],
+          "link": "The Three Faces of Evil#Encounter 14: Descent into the Dark",
+          "layer": "%5B%5Bimage-2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2300717516283126,
+            0.7186956322711447
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb2b0b695bd8",
+          "type": "default",
+          "loc": [
+            -0.00560150109231472,
+            0.0018829241285359382
+          ],
+          "link": "The Three Faces of Evil#Encounter 15: The Tunnel",
+          "layer": "%5B%5Bimage-2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.37852550824457437,
+            0.7980434251868207
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88a82b58597b",
+          "type": "default",
+          "loc": [
+            -0.0063034058548510075,
+            0.0023559853967415416
+          ],
+          "link": "The Three Faces of Evil#Encounter 16: Choker Tunnels",
+          "layer": "%5B%5Bimage-2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4736253342357475,
+            0.8980434915293818
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09999bb94848",
+          "type": "default",
+          "loc": [
+            -0.005429076962172985,
+            0.002871711583500918
+          ],
+          "link": "The Three Faces of Evil#Encounter 17: The Bridge",
+          "layer": "%5B%5Bimage-2.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5773021175960619,
+            0.7734782343325408
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4-Campaign/Age of Worms/The Three Faces of Evil.md"
+      ]
+    },
+    {
+      "id": "morlock-cavern",
+      "lastAccessed": 1743281368069,
+      "markers": [
+        {
+          "id": "ID_ab9af8d8da68",
+          "type": "default",
+          "loc": [
+            -0.0023406981490552425,
+            0.0028794315283244094
+          ],
+          "link": "The Three Faces of Evil#Encounter 18: Cliff Chamber",
+          "layer": "%5B%5Bmorlock%20cavern.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5735757587850107,
+            0.33275486745441296
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8bafb58d97a",
+          "type": "default",
+          "loc": [
+            -0.001200866769067943,
+            0.00380564843807392
+          ],
+          "link": "The Three Faces of Evil#Encounter 19: Common Chamber",
+          "layer": "%5B%5Bmorlock%20cavern.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7580759150079405,
+            0.17071584507079549
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f84adabb7a2b",
+          "type": "default",
+          "loc": [
+            -0.0032012941082939506,
+            0.004403683563599356
+          ],
+          "link": "The Three Faces of Evil#Encounter 20: Chieftain's Lodge",
+          "layer": "%5B%5Bmorlock%20cavern.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8772030578238522,
+            0.4550976370523912
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59aaf869ab4a",
+          "type": "default",
+          "loc": [
+            -0.0054458617232739925,
+            0.003918462019208945
+          ],
+          "link": "The Three Faces of Evil#Encounter 21: Temple to Erythnul",
+          "layer": "%5B%5Bmorlock%20cavern.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7805481060512992,
+            0.7741865377364087
           ],
           "description": null,
           "minZoom": null,

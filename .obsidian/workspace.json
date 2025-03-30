@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "DC Calculator"
             }
+          },
+          {
+            "id": "03aba470bc0ffa42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Bestiaries/Homebrew/M/Morlock Zealot.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Morlock Zealot"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -252,10 +266,25 @@
       "helpmate:HelpMate": false
     }
   },
-  "active": "8cb6c5576e3a7126",
+  "active": "03aba470bc0ffa42",
   "lastOpenFiles": [
     "1-GM Toolkit/DC Calculator.md",
     "4-Campaign/Age of Worms/The Three Faces of Evil.md",
+    "3-Rules/Bestiaries/Homebrew/M/Morlock Zealot.md",
+    "zz-Attachments/Grallak Kur.png",
+    "3-Rules/Character Building/Actions/Gather Information.md",
+    "4-Campaign/Age of Worms/BadGuy1.md",
+    "3-Rules/Bestiaries/Homebrew/M/Morlock Chieftain.md",
+    "3-Rules/Bestiaries/Homebrew/M/Morlock Barbarian.md",
+    "3-Rules/Bestiaries/Homebrew/M/Morlock Archer.md",
+    "3-Rules/Character Building/Equipment/C/Cold Iron Chunk.md",
+    "zz-Attachments/morlock cavern.png",
+    "zz-Attachments/Grimlock Cavern.png",
+    "4-Campaign/Age of Worms/The Whispering Cairn.md",
+    "4-Campaign/Age of Worms/Completed/Diamond Lake Mining Office.md",
+    "3-Rules/Bestiaries/Adventure Paths/Abomination Vaults/Morlock Cultist.md",
+    "3-Rules/Bestiaries/Bestiary 2/M/Movanic Deva.md",
+    "3-Rules/Bestiaries/Bestiary 2/M/Morlock.md",
     "3-Rules/Bestiaries/Bestiary 2/Z/Zebub.md",
     "3-Rules/Bestiaries/Bestiary 2/Y/Yamaraj.md",
     "3-Rules/Bestiaries/Bestiary 2/W/Water Orm.md",
@@ -275,30 +304,14 @@
     "3-Rules/Bestiaries/Bestiary 2/Q/Quetz Couatl.md",
     "3-Rules/Bestiaries/Bestiary 2/P/Pachycephalosaurus.md",
     "3-Rules/Bestiaries/Bestiary 2/O/Ogre Spider.md",
-    "3-Rules/Bestiaries/Bestiary 2/N/Nabasu.md",
-    "3-Rules/Bestiaries/Bestiary 2/M/Mudwretch.md",
     "3-Rules/Bestiaries/Bestiary 2/R",
     "3-Rules/Bestiaries/Bestiary 2/Q",
-    "3-Rules/Bestiaries/Bestiary 2/M/Magma Dragon (Adult, Spellcaster).md",
-    "3-Rules/Bestiaries/Bestiary 2/L/Leng Spider.md",
-    "3-Rules/Bestiaries/Bestiary 2/K/Kelpie.md",
-    "3-Rules/Bestiaries/Bestiary 2/J/Jabberwock.md",
-    "3-Rules/Bestiaries/Bestiary 2/I/Ice Golem.md",
-    "3-Rules/Bestiaries/Bestiary 2/H/Hadrosaurid.md",
-    "3-Rules/Bestiaries/Bestiary 2/G/Gylou.md",
-    "3-Rules/Bestiaries/Bestiary 2/H/Hellcat.md",
-    "3-Rules/Bestiaries/Bestiary 2/G/Ghonhatine.md",
-    "3-Rules/Bestiaries/Bestiary 2/F/Fen Mosquito Swarm.md",
-    "3-Rules/Bestiaries/Bestiary 2/E/Earthen Destrier.md",
     "zz-Attachments/image-2.png",
     "zz-Attachments/Three Faces of Evil-Handout 2.png",
     "zz-Attachments/Three Faces of Evil-Handout 1.png",
     "zz-Attachments/Theldrick.png",
     "zz-Attachments/Citadel-of-Hextor.png",
     "zz-Attachments/Dark Cathedral.png",
-    "zz-Attachments/Ragnolin Dourstone.png",
-    "zz-Attachments/Three Faces of Evil Banner.png",
-    "zz-Attachments/Jerrykk.png",
-    "zz-Attachments/Zamosshe.png"
+    "zz-Attachments/Ragnolin Dourstone.png"
   ]
 }

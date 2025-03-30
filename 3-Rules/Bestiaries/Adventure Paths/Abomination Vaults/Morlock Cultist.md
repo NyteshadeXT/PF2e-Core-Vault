@@ -1,4 +1,4 @@
----
+Barbarian---
 title: "Morlock Cultist"
 obsidianUIMode: preview
 noteType: pf2eMonster

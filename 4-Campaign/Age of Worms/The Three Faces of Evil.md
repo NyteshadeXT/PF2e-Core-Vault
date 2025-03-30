@@ -610,7 +610,7 @@ The morlocks attempt to hide behind the stalactites and stalagmites, granting th
 
 # Encounter 13: The Ledge
 **Encounter Difficulty:**   
-- [ ] difficulty (xxx XP) Level xxx
+- [ ] moderate (70 XP) Level 3
 
 > [!note]+ Read Aloud
 > The corridor turns to reveal another room choked with rocky formations. Stalagmites and stalactites block the line of sight ahead. Like the last chamber, this place has а rocky, uneven floor of natural stone. It slopes downward, and here and there rivulets of water flow southward.
@@ -635,12 +635,12 @@ creatures:
   - 2: [[Krenshar]]
 ```
 
-The kennel master and his two krenshars fight to the death to protect this place. The krenshars cannot climb the slopes, and were transported here only after the grimlocks put together a crude litter to lift them. Thus, they have no place to run.
+The kennel master and his two krenshars fight to the death to protect this place. The krenshars cannot climb the slopes, and were transported here only after the morlocks put together a crude litter to lift them. Thus, they have no place to run.
 
 The gray-furred krenshars are underdark offshoots of their species. The Kennel master wears a cloak fashioned from the fur of an gray-furred, subterranean dire ape, He wears a wolf skull mask painted red to resemble his pets horrific visage.
 
 ## Tactics
-The kennel master attempts to hide at his location ([[Spot]] DC 19 assuming he takes 10 and with his +10 racial bonus for using Hide in a rocky setting) As the PCs enter the room, he moves to block the exit and calls out to his krenshars to attack. The krenshars use their scare ability to drive the PCs down the cliff to area 14 via the iron spikes pounded into the wall While the grimlocks normally attack the PCs' light sources, here they leave them intact so that intruders affected by the krenshars can spot and use the spikes. The grimlocks want to drive their enemies deeper into their lair so that the archers in area 14 can pick them off as they climb,
+The kennel master attempts to hide at his location ([[Spot]] DC 19 assuming he takes 10 and with his +10 racial bonus for using Hide in a rocky setting) As the PCs enter the room, he moves to block the exit and calls out to his krenshars to attack. The krenshars use their scare ability to drive the PCs down the cliff to area 14 via the iron spikes pounded into the wall While the morlocks normally attack the PCs' light sources, here they leave them intact so that intruders affected by the krenshars can spot and use the spikes. The morlocks want to drive their enemies deeper into their lair so that the archers in area 14 can pick them off as they climb,
 
 > [!tip]+ Treasure
 > If the PCs make а DC 15 [[Search]] of the campsite they find four agates worth 2 gp each and a large ruby worth 20 gр.
@@ -648,13 +648,13 @@ The kennel master attempts to hide at his location ([[Spot]] DC 19 assuming he t
 > - [ ] gp::28
 
 ## 14-17: The Horseshoe Cavern
-The following encounter areas require a thorough familiarity with the rules for the Climb skill and falling. The PCs must navigate a cavern shaped like a 2 horseshoe, first climbing down the cliff in area 14 while grimlock archers pelt them with arrows, then across the cavern floor (area 16) while risking an attack from the chokers in that area, and then back up a cliff face to area 17. The PCs might also take the short cut through area 15, but they must then face the grimlock barbarian who guards that passage. However, that might be preferable to battling her while trying to climb to area 17 from the cavern floor.
+The following encounter areas require a thorough familiarity with the rules for the Climb skill and falling. The PCs must navigate a cavern shaped like a 2 horseshoe, first climbing down the cliff in area 14 while morlock archers pelt them with arrows, then across the cavern floor (area 16) while risking an attack from the chokers in that area, and then back up a cliff face to area 17. The PCs might also take the short cut through area 15, but they must then face the morlock barbarian who guards that passage. However, that might be preferable to battling her while trying to climb to area 17 from the cavern floor.
 
-The grimlocks use the terrain to their advantage. They remain out of melee range, preferring to use their ranged weapons to whittle down the party's strength. If possible, they retreat to lure the PCs into a false sense of security before quietly moving forward to attack as they climb one the area's cliff faces.
+The morlocks use the terrain to their advantage. They remain out of melee range, preferring to use their ranged weapons to whittle down the party's strength. If possible, they retreat to lure the PCs into a false sense of security before quietly moving forward to attack as they climb one the area's cliff faces.
 
 # Encounter 14: Descent into the Dark
 **Encounter Difficulty:**   
-- [ ] difficulty (xxx XP) Level xxx
+- [ ] low (60 XP) Level 2
 
 > [!note]+ Read Aloud
 > A great pit drops into darkness. Crude, iron spikes have been driven into the cliff face, offering you a convenient path downward. The shaft's roof is fifteen feet above the cliffs edge. Jagged stalactites hang from the ceiling.
@@ -662,25 +662,285 @@ The grimlocks use the terrain to their advantage. They remain out of melee range
 Note that the description above assumes that the party lacks darkvision or a light source that can illuminate the stone shelf below them. If the PCs can see the shaft’s bottom (is 45 feet below) they can see that the spikes form handholds all the way to the bottom. The shafts floor is covered with loose debris, a few shattered stalactites, and a number of stalagmites.
 
 At the start of the encounter, place the following foes on the map: 
- - 2: [[BadGuy1]] W
- - 2: [[BadGuy2]] H
+ - 2: [[Morlock Archer]] W
+
+```encounter
+name: Descent into the Dark
+party: PartyName
+creatures:
+  - 2: [[Morlock Archer]]
+```
+
+Two morlock fighters armed with bows hide amidst the rocks and debris of the shelf below and across from area 13. Even if the РС's light source reaches them, the archers use their natural coloration and the broken stones and other debris to hide. If they take 10 оп their [[hide]] checks, the [[Skills#Perception|Perception]] DC to notice them is 20.
+
+The morlock's ledge is accessible by а series of spikes driven into the wall ([[Climb]] DC 14) leading from the tunnel at area 15 to their perch. The shelf they stand upon runs the entire length of the асе opposite area three at the height shown on the map.
+
+If the morlocks wish to travel to area 13, they throw a rope up to the kennel master, who then anchors it while they tie it down to the ledge. 
+
+## Tactics
+These two archers wait until по more than one or two PCs remain at area 13 before opening fire. They prefer to fire at PCs forced to clamber down the wall via the spikes, When a character starts to climb, one morlock throws а [[Glue Bomb (Lesser)]] at each climber while the other fires arrows. Remember to keep track of the archers’ feats, particularly Point Blank Shot, and the range of their Blindsight ability (go feet)
+
+The archers continue to harass the party until the characters make it to the base of the shaft. While firing, they yell out in Undercommon to alert the guards nearby. The archers prefer to remain in their perch to catch the PCs by surprise if they attempt to retreat. As ranged specialists, they prefer to avoid melee at almost any cost.
+
+## Features of the Area
+
+> [!tip]+ Treasure
+> The morlocks in addition to their gear have 21 sp between the two of them.  One of them has a set of fine ivory dice with small gems set in their faces to mark the numerical on each side.  As a set the dice are worth 30 gp.
+> 
+> - [ ] gp::30
+> - [ ] sp::21
+
+# Encounter 15: The Tunnel
+**Encounter Difficulty:**   
+- [ ] low (60 XP) Level 3
+
+> [!note]+ Read Aloud
+> This cave is little more than a wide crack the rocks Five feet wide and perhaps six feet tall, it provides a jagged, twisty passage.
+
+Use the Horseshoe Caverns diagram if the characters attempt to pass through this tunnel. The morlocks use it to avoid their ex-allies in area 16.
+
+Fighting in the tunnel’s enclosed space is difficult with larger weapons. Creatures larger than Medium must squeeze through parts the passage. Any Medium creature fighting with a one-handed or larger weapon suffers a -4 penalty оп attacks for squeezing. Agile weapons function without penalty.
+
+The far end of the passage ends in a small, stone ledge with a crude rope bridge providing access to another narrow, rocky outcropping and a steeply sloped tunnel heading up and to the south.
+
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[Morlock Barbarian]]
+
+```encounter
+name: The Tunnel
+party: PartyName
+creatures:
+  - 1: [[Morlock Barbarian]]
+```
+
+A single morlock, a feral, wild creature, lurks within the passage. Normally, this brute waits near the tunnel’s southern edge, but if she hears the sounds of battle from area 24 she moves into the passage to intercept any intruders. This morlock wears battered leather armor and wields two dull, rusty knives. Her hair is long, knotted, and grimy with dirt, mud, and dust, She has a haggard appearance, with a gaunt, ropey physique.
+
+## Tactics
+The morlock lurks in the passage waiting for approaching PCs if she hears the sounds of battle from area 14. Otherwise, she keeps watch at the base of the rope bridge to area 12. If she spots PCs below her in area 16, she waits until they battle the chokers. If they defeat them, she leaps down upon them, taking `dice: 2d6` 2d6 falling damage. In her lust for battle, she pays little mind to such incidental injuries.
+
+> [!tip]+ Treasure
+> In addition to her equipment, the barbarian has several trophies from a drow priestess that she slew. In a bloodstained burlap sack are 3 gp, the preserved head of a female dark elf, and a [[Magic Wand (1st-Rank Spell)|Magic Wand (Harm)]].
+> 
+> - [ ] gp::3
+> - [ ] permanent::[[Magic Wand (1st-Rank Spell)|Magic Wand (Harm)]] [ilvl::000] [gp::000]
+
+# Encounter 16: Choker Tunnels
+**Encounter Difficulty:**   
+- [ ] low (60 XP) Level 3
+
+> [!note]+ Read Aloud
+> The cavern's floor is choked with loose rubble, fallen stalactites, and other debris. Here and there, stalagmites poke up through the loose rocks. Ahead, a ten-foot-wide passage opens in the far wall.
+
+The passage is 10 feet wide and nearly 8 feet tall. If the characters enter the area beyond, read or paraphrase the following.
+
+> [!note]+ Read Aloud
+> The passageway emerges at the base of another shaft A large pile of rocks and stony debris is piled in the corner ahead, while above, a crude rope bridge links a stone shelf almost directly overhead to a second shelf set thirty feet up on the opposite wall.
+
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[Choker]] 
+
+```encounter
+name: Choker Tunnels
+party: PartyName
+creatures:
+  - 2: [[Choker]]
+```
+
+A pair of chokers hides in this area. The morlocks drove them from their original lair to this pit. Thus far, they have managed to survive on rats and other vermin, but eventually starvation will do them in. They hide in the debris pile and lash out at any character that draws close. Their hunger drives them to attack, even if they are outnumbered.
+
+## Tactics
+The two chokers fight to the death. They attempt to hide at the top of the pile, next to the shafts wall, and watch the PCs’ movements. If a character draws within reach, they attack. Otherwise, they wait until the PCs attempt to climb the wall. At that point, they attack.
+
+## Features of the Area
+**Debris Pile** In their religious fervor to reach this place, the morlocks were forced to tunnel through several feet of rock. When they reached this shaft, they pushed the accumulated debris down it. The debris pile is both difficult ground and a steep slope. Thus, it costs 4 squares of movement to enter each square it covers.
+
+> [!tip]+ Treasure
+> The chokers hide the remains of their past victims within the debris pile, Here, а DC 15 Search check uncovers the gnawed bones of two morlocks along with a broken morningstar, а leather necklace set with four rubies worth 10 gp, and a Low-Grade Cold Iron Longsword.
+> 
+> - [ ] gp::10
+> - [ ] permanent::[[Cold Iron Chunk|Low-Grade Cold Iron Longsword]] [ilvl::2] [gp::44]
+
+# Encounter 17: The Bridge
+**Encounter Difficulty:**   
+- [ ] moderate (90 XP) Level 4
+
+> [!note]+ Read Aloud
+> The rope bridge sways slightly, stirred by the almost imperceptible movement of air in this cavern. It consists of three lengths of rope arranged in a V-shape. The lower point of the V serves as a foothold, while the upper arms allow one to hold steady as they cross.
+
+At the start of the encounter, place the following foes on the map: 
+ - 3: [[Morlock]]
+
+```encounter
+name: The Bridge
+party: PartyName
+creatures:
+  - 3: [[Morlock]]
+```
+
+The three morlocks on guard duty here wait a few feet up the passage on the far side of the shaft. They are unnerved by the feral morlock at area 15 and prefer to remain out of sight. If they hear anyone crossing the bridge, they move out to defend the ledge.
+
+## Tactics
+The morlocks have a small stack of crude javelins.  They throw their javelins at anyone on the bridge. If two morlocks fall, the third one attempts to flee and warn its allies in area 18,
+
+The morlocks would rather not damage the bridge, as it took many hours of intensive labor to build it. However, they may attempt to disturb it to send the PCs tumbling to the cavern floor. As a full-round action, two morlocks adjacent to the bridge can grab and shake it. Any PCs on the bridge must make DC 18 Reflex save to avoid being shaken off the bridge,
+
+## Features of the Area
+**The Bridge** While the rope bridge appears fragile, the morlocks took care to ensure that it is sturdy enough to hold them. Crossing the bridge is a slow, deliberate process at best. The bridge sways precipitously, while the rope has an unnerving tendency to creak and shudder as it bears weight.  Characters can move across the bridge at one quarter their normal speed without making a [[Skills#Acrobatics|Acrobatics]] check. A PC who wants to move at half speed must make a DC 16 [[Skills#Acrobatics|Acrobatics]] check. Moving at full speed requires a DC 20 [[Skills#Acrobatics|Acrobatics]] check. Increase these checks by +3 if the PCs only use one band to steady themselves, or by +6 if they use no hands.  Оп а failed [[Skills#Acrobatics|Acrobatics]] check, a PC makes по progress. On a Critical Failure, the character falls from the bridge and suffers the appropriate falling damage. If the chokers іп area 16 are still active, they move to attack.
+
+```leaflet
+### Tutorial: https://youtu.be/54EyMzJP5DU
+### id must be unique
+id: morlock-cavern
+image: [[morlock cavern.png]]
+height: 1000px
+width: 70%
+### This sets where the map starts by default. Set it to the middle (half) of your bounds. 
+lat: 50
+long: 50
+### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map. 
+minZoom: 0
+### Max zoom is 18. 
+maxZoom: 18
+### Hover mouse over the Reset Zoom icon to see your current zoom level. 
+defaultZoom: 17
+### How far it zooms in or out with each step. Can be in decimals. 
+zoomDelta: 0.5
+### This is a string so can be any text. Change it to match your maps measurement scale. 
+unit: feet
+scale: 1
+darkMode: false
+```
+
+
+# Encounter 18: Cliff Chamber
+**Encounter Difficulty:**   
+- [ ] moderate (80 XP) Level 4
+
+> [!note]+ Read Aloud
+> The roof of this large cavern glistens twenty feet above and is traced with faint veins of iron ore. The quarters here are tight and cramped. Barely ten feet to the east, the cavern floor rises up into a nearly vertical slope.
+
+This rough, uneven chamber consists of a series of sharp slopes leading upward. Each contour line on the map represents about a ten-foot rise. The characters can climb these slopes with a DC 15 [[Climb]] check.
+
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[Morlock Barbarian]] W
 
 ```encounter
 name: EncounterName
 party: PartyName
 creatures:
-  - 1: My Monster          # 1 monster named My Monster will be added, with no HP, AC or modifier.
-  - 1d6: Goblin, 7, 15, 2        # 1 goblin with HP: 7, AC: 15, MOD: 2 will be added.
-  - Goblin, 5, 15, 2, 25      # 1 goblin with HP: 7, AC: 15, MOD: 2 worth 25 XP will be added.
+  - 2: [[Morlock Barbarian]]
 ```
 
-Two grimlock fighters armed with bows hide amidst the rocks and debris of the shelf below and across from area 13. Even if the РС's light source reaches them, the archers use their natural coloration and the broken stones and other debris to hide. If they take 10 оп their [[hide]] checks, the [[Skills#Perception|Perception]] DC to notice them is 20.
-
-The grimlock's ledge is accessible by а series of spikes driven into the wall ([[Climb]] DC 14) leading from the tunnel at area 15 to their perch. The shelf they stand upon runs the entire length of the асе opposite area three at the height shown on the map.
-
-If the grimlocks wish to travel to area 13, they throw a rope up to the kennel master, who then anchors it while they tie it down to the ledge. 
+Two morlocks stand guard here just outside room 19. Unless alerted, they pay little attention to their duties. They wrestle, sharpen their weapons, and talk loudly granting them a -5 penalty on. all [[Skills#Perception|Perception]] checks.
 
 ## Tactics
+The morlocks shout for help once they spot intruders. The monsters in areas 19 and 20 arrive in 1d6 rounds. Roll separately for each area.
 
+# Encounter 19: Common Chamber
+**Encounter Difficulty:**   
+- [ ] severe (120 XP) Level 4
 
-## Features of the Area
+> [!note]+ Read Aloud
+> The scent of rotting meat and offal fills the air here. Moldering furs, crude bedrolls and other signs of 2 campsite cover the floor of this large, natural cave. Spears and crude axes are piled near the entrance to the left, along with a disorganized stack of shields.
+
+The grimlocks use this place as а general barracks. Normally, six of them rest here in between their guard duties in the outer areas of the cave. These grimlocks, like the guards in area 18, do not expect trouble. They suffer a -3 penalty on [[Skills#Perception|Perception]] checks as they argue, eat, or sleep.
+
+At the start of the encounter, place the following foes on the map: 
+ - 6: [[Morlock]] W
+
+```encounter
+name: Common Chamber
+party: PartyName
+creatures:
+  - 6: [[Morlock]]
+```
+
+The six grimlocks do not carry their weapons. They must stop to pick them up on their way out of this room. If the PCs enter this room without alerting the guards, the grimlocks are unarmed.
+
+## Tactics
+The grimlocks fight to the death. They are fanatics to Enthnul's cause and are ready to die to protect their leader. They consider him a revered prophet.
+
+> [!tip]+ Treasure
+> The grimlock warriors keep their personal treasure here, hidden in a variety of small nooks and hollows. There are four treasure caches in the room. Each requires a DC 20 [[Search]] check to uncover. The first cache contains a jade figurine of Erythnul worth 10 gp, the second holds 50 sp in coins, the third has three garnets worth 3 gp each, and the fourth contains a silver necklace set with three gems worth 5 gp.
+> 
+> - [ ] gp::24
+> - [ ] sp::50
+
+# Encounter 20: Chieftain's Lodge
+**Encounter Difficulty:**   
+- [ ] moderate (80 XP) Level 4
+
+> [!note]+ Read Aloud
+> This chamber presents a macabre sight. А bewildering variety of humanoid and monstrous skulls are mounted on the walls just outside this chamber with crude, iron spikes. The chamber beyond is a small, cramped space that smells strongly of damp earth. A great pile of furs and blankets lies in the center of the room.
+
+If the PCs manage to slip past the guards in area 18, the chieftain is here feasting on а fistful of hallucinogenic mushrooms. He sits atop his pile of bedding, jabbering and howling in Grimlock.
+
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[Morlock Chieftain]] 
+
+```encounter
+name: Chieftain's Lodge
+party: PartyName
+creatures:
+  - 1: [[Morlock Chieftain]]
+```
+
+The grimlock chieftain is а fearsome warrior, though his mind is almost utterly sundered. In his fanatical drive to achieve religious enlightenment, he has taken to ingesting massive amounts of psychotropic fungi. He believes that the PCs are heralds of Erythnul sent to test him. As he attacks, he screams taunts at them in Common and bids them to carry his regards to Erythnul.
+
+The chieflainis body is covered with ritual scars and tattoos. They form a pattern of a holy symbol of Erythnul on his chest. His head is shaved bare, while his ears are studded with crude bone piercings.
+
+## Tactics
+The chieftain is a simple, brutal warrior and a bully at heart. He seeks out the weakest-looking character and charges him in melee, ignoring other targets and even taking attacks of opportunity to pursue his chosen victim.
+
+> [!tip]+ Treasure
+> The chieftain keeps his treasure mingled amidst his bedding. His personal cache consists of 4 rubies worth 15 gp each, 150 sp in coins kept within leather pouch, a jeweled statuette of an elven warrior worth 25 gp, and a [[Smuggler's Sack (Type I)]].
+> 
+> - [ ] gp::85
+> - [ ] sp::150
+> - [[Smuggler's Sack (Type I)]] [ilvl::4] [gp::75]
+
+# Encounter 21: Temple to Erythnul
+**Encounter Difficulty:**   
+- [ ] severe (120 XP) Level 4
+
+> [!note]+ Read Aloud
+> This long passage through the rocks winds down and down, deeper into the ground. It curves ahead like a spiral. The air grows musty and sickening with the scent of rotting flesh. Eventually, the passage opens into a wide cavern, where it ends at the top of a short cliff that stands ten feet above the cave floor below. From ahead, the dim glow of a lantern or small fire casts a dull, red glow.
+
+![[Grallak Kur.png|right hmed]]
+
+This place is the domain of Grallak Kur, the prophet of Erythnul who led the grimlocks on their unholy pilgrimage to this place. Grallak spends his time here deep in meditation, communing with Erythnul to learn that dreaded god's wishes. Already, Grallak’s divine insights have greatly helped the temple of Vecna in its quest to raise the Ebon Aspect from the pool in area 1.
+
+In order to ensure his tribe's dedication to the Ebon Triad, Grallak Kur collapsed the passage that once led out of this cavern deeper into the Underdark, blocking any chance of escape.
+
+At the start of the encounter, place the following foes on the map: 
+ - 4: [[Morlock]]
+ - 1: [[Morlock Zealot]] H
+
+```encounter
+name: Temple to Erythnul
+party: PartyName
+creatures:
+  - 4: [Morlock]
+  - 1: [[Morlock Zealot, Grallak Kur]]
+```
+
+Grallak perches atop a small stone ledge 10 feet above a smoldering fire. He tosses strange powders and mushrooms onto the fire. As he inhales the burning fumes, Erythnul’s visions come to him. His three servants, a trio of grimlock warriors, watch over him and tend to the fire. One keeps watch on the entrance to the temple. The grimlocks are under strict orders to never disturb Grallak. Thus, the guards assume that intruders are at hand if anyone approaches.
+
+Grallak keeps a knotted rope anchored to his ledge. If he must climb down, he uses an action to drop the rope to the floor, then clambers down.
+
+Grallak has sewn preserved eyes of a beholder into his empty eyesockets, giving him the strange, wide-eyed look of a madman. His hair is cut short and dyed red, while a holy symbol of Erythnul is branded into his chest. His teeth are filed into fang-like points.
+
+His three guardians are the most fanatical worshipers of Erythnul among the grimlocks. They wear bronze masks that resemble holy symbols of Erythnul, while their flesh is studded in dozens of places with small, sharp bone piercings.
+
+## Tactics
+The grimlock guards attempt to hold off the characters. They adopt a position to attack the PCs while the characters must climb down the sharp slope to the cavern floor. Grallak Kur uses his magic to harass the PCs. He starts with entropic shield to protect against ranged attacks, then uses spiritual weapon and hold person on the party, targeting the former against a lightly armored spellcaster and the later against any tough-looking warriors. He then follows that with a mix of cause fear and sound burst. If he must venture into melee, he prefers to use divine favor and invisibility to boost himself as he moves to attack.
+
+> [!tip]+ Treasure
+> Grallak Kur keeps his treasure hidden behind a large rock wedged into a corner of the room. Uncovering it requires a DC 20 [[Search]] check. His cache consists of 500 sp in coins, a pearl necklace worth 20 gp, and a [[Rope of Climbing (Lesser)]].
+> 
+> In addition, Grallak carries two scrolls that summarize his latest visions. They are written in Common, as they are meant for the Faceless One, but the rambling, disjointed style is difficult to comprehend. A DC 18 [[Decipher Writing|Decipher Writing (Society)]]] check uncovers their basic intents. The letters state that a great power stirs, and that а swarm of worms is at hand. It speaks of a power growing in the pool of the Dark Cathedral, a power that will serve the Ebon Triad as a champion, but that a still greater force drives the power of evil forward. One passage in particular stands out: “At last the will of the Ebon Triad be done. With the return, of great Kyuss, the Age of Worms is finally upon us!"
+> 
+> - [ ] gp::20
+> - [ ] sp::500
+> - [ ] permanent::[[Rope of Climbing (Lesser)]] [ilvl::3] [gp::45]
+
