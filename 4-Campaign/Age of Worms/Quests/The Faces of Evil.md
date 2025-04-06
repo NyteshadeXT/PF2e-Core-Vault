@@ -1,10 +1,10 @@
 ---
 tags:
   - Quest
-art: zz_Attachments/Misc/PlaceholderImage.png
-quicknote: Alastor Land asks the PCs to bury his bones with his family.
-adventure: "[[4-Campaign/Age of Worms/The Whispering Cairn]]"
-status: Completed
+art: zz-Attachments/assets/PlaceholderImage.png
+quicknote: Allustan asks the players to investigate rumors of a temple in the Dourstone mine.
+adventure: "[[The Three Faces of Evil]]"
+status: Started
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -41,7 +41,7 @@ status: Completed
 
 ## Overview
 ### Summary
-Alastor Land tasks the players with burying his bones with his family on their old farmstead.
+Allustan asks the players to investigate rumors of a temple run by the Ebon Triad in the Dourstone mine.
 
 ### Storyline
 

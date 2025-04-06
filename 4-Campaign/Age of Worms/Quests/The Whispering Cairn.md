@@ -3,7 +3,7 @@ tags:
   - Quest
 art: zz-Attachments/The Whispering Cairn-Entrance.webp
 quicknote: Explore the Whispering Cairn
-status: Started
+status: Completed
 adventure: "[[4-Campaign/Age of Worms/The Whispering Cairn]]"
 ---
 

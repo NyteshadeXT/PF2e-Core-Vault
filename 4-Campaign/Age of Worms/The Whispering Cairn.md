@@ -5,13 +5,15 @@ tags:
   - "#Adventure"
 art: zz-Attachments/Whispering Cairn Banner.png
 adventure_level: 1
-adventure_status: Started
-total_xp: 1589
-completed_xp: 974
+adventure_status: Complete
+total_xp: 1539
+completed_xp: 1479
+whichparty:
+  - "[[Age of Worms Party Dashboard]]"
 awarded_pp: 0
-awarded_gp: 101
-awarded_sp: 16
-awarded_cp: 0
+awarded_gp: 160
+awarded_sp: 47
+awarded_cp: 9
 awarded_permanent_items:
   - name: +1 Shortsword
     ilvl: 2
@@ -31,6 +33,9 @@ awarded_permanent_items:
   - name: Half Plate
     ilvl: 1
     gp: 18
+  - name: Silver Diadem of Insight
+    ilvl: 3
+    gp: 60
 awarded_consumable_items:
   - name: Healing Potion (Minor)
     ilvl: 1
@@ -44,8 +49,21 @@ awarded_consumable_items:
   - name: Spell Scroll (1st level) Detect Metal
     ilvl: 1
     gp: 4
-whichparty:
-  - "[[Age of Worms Party Dashboard]]"
+  - name: Potion of Emergency Excape
+    ilvl: 1
+    gp: 3
+  - name: Healing Potion (Minor)
+    ilvl: 1
+    gp: 4
+  - name: Surging Serum (Minor)
+    ilvl: 2
+    gp: 5
+  - name: Cat's Eye Elixir
+    ilvl: 2
+    gp: 7
+  - name: Scroll of Summon Undead
+    ilvl: 1
+    gp: 4
 ---
 
 
@@ -791,7 +809,7 @@ The central pit is 60 feet deep, ending in a featureless basin.  Each perimeter 
 As soon as a PC reaches the walkway or central ring, two tall humanoid figures arise from within the column of air and step out onto the central ring.  Both of these creatures-wind warriors-who served in the armies at the Battle of Aetherion and who honor Zosiel still wield twin swords and wear ancient ceremonial armor festooned with red pennons that twist and bob as if always blown by a fierce wind.  The silent warriors attack intruders, knowing that they are the tomb's last defense.
 
 **Encounter Difficulty:**   
-- [ ] Moderate (120 XP) Level 3
+- [x] Moderate (120 XP) Level 3
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[wind-warrior|Wind Warrior]] W
@@ -842,8 +860,8 @@ If the addressed character utters the word "Zosiel," bright blue light sines aro
 > [!tip]+ Treasure
 > Within the sarcophagus are all the remains of Zosiel: a slight silver diadem known as a [[Silver Diadem of Insight]]. The sarcophagus also includes two long slightly curved black horns with red tips (worth 3 gp each) and a pewter box inscribed with alien, writhing letterforms.  A DC 15 [[Skills#Occultism|Occultism]] check identifies the glyphs as those typically used by Chaos.  Melted metal keeps the box sealed, but a decent application of force is sufficient to snap off the lid. Inside is a long handle attached to an adamantine loop.  This inactive minor artifact radiates strong transmutation magic, but is currently dormant and does nothing.  It can be fully activated as a [[Talisman of the Sphere]] inn "A Gathering of Winds," the sixth installment of the Age of Worms.  [[Allustan]] can identify the time by name at a glance, noting that the [[Sphere of Annihilation]] were holes in the continuity of the multiverse, and that anything they touched was utterly destroyed.  After the Battle of Aetherion legend holds that the Wardens scattered them to the corners of the universe.  Far more numerous are the talismans that were said to grant their owners some measure of control over the spheres.  [[Allustan]] urges the PCs to keep the valuable minor artifact.  "one must always be prepared," he says with a wink and a smile.
 > 
-> - [ ] gp::6
-> - [ ] permanent::[[Silver Diadem of Insight|Silver Diadem of Insight]] [ilvl::3] [gp::60]
+> - [x] gp::6
+> - [x] permanent::[[Silver Diadem of Insight|Silver Diadem of Insight]] [ilvl::3] [gp::60]
 
 # Part 3. Tomb Stories
 In this brief interlude, the PCs take Alastor Land's bones from [[4-Campaign/Age of Worms/The Whispering Cairn#23. Alastor's Haunt]] of the Whispering Cairn to his family's private graveyard, on a farmstead about 10 minutes east of [[Diamond Lake]]. Before young Alastor's ghost allows the PCs to proceed through the Whispering Cairn he wants them to bury his remains with those of his family, so that his curse can be lifted and he can move on to the afterworld.
@@ -1120,7 +1138,7 @@ The angelic figure is an idealized representation of Filge himself.
 > 
 > Most of the papers on Filge's desk concern surgical procedures meant to enhance the potency of undead, while others contain only the meandering scribbles of a mind descending into madness.  Buried in with the junk is a [[Summon Undead|Scroll of Summon Undead]] and a beaker holder containing four 6-inch-long tubes filled with different-colored liquids  Two of the six slots are empty. The glass tubes are sealed at the top with a rubber sheath, and look like they are meant to be slotted into some other device.  Each contains a soupy liquid substance consisting of reanimated cells.  Filge has been experimenting with injecting these liquids into himself. They are effectively a [[Potion of Emergency Escape]], [[Healing Potion (Minor)]], [[Surging Serum (Minor)]], and [[Cat's Eye Elixir]]. Every so often, something within the beakers seems to move slightly, but it might just be a trick of the eye. A handwritten label on the bearker holder says "Necroturgeons."
 > 
-> Also on the deck is the orginal summons [[Balabar Smenk]] sent Filge to encourage him to come to Diamond Lake (See handout).
+> Also on the deck is the original summons [[Balabar Smenk]] sent Filge to encourage him to come to Diamond Lake (See handout).
 > 
 > - [ ] gp::10
 > - [x] consumable::[[Potion of Emergency Escape|Potion of Emergency Excape]] [ilvl::1] [gp::3]
@@ -1135,11 +1153,11 @@ These closets contain Filge's wardrobe, which consists of six sets of nearly ide
 > [!tip]+ Treasure
 > If the PC's take several minutes to completely ransack the closets the rummage 13 sp worth of coins from various pockets and pouches.
 > 
-> - [ ] sp::13
+> - [x] sp::13
 
 ## 11. Operating Theater
 **Encounter Difficulty:**   
-- [ ] Severe (155 XP) Level 2
+- [x] Severe (155 XP) Level 2
 
 > [!note]+ Read Aloud
 > A single chamber dominates the observatory's entire upper floor.  Light filters through the wide slit in the roof, bathing the center of the room in illumination. Four large mirrors set along the outside wall reflect bright beams into the direct center of the room, a recessed operating theater accessible via two short sets of stairs.  The beams specifically target a blue-skinned humanoid figure splayed out upon an operating table, its chest completely opened and pinned back against the table with long metal needles.  Two long shelves cluttered with piles of papers, rotting organs, and instruments comprise the east and west extent of the operating theater, and are only a few inches lower tan the chamber's outer floor.
@@ -1186,7 +1204,7 @@ Filge surrenders only when all of his undead creations have been destroyed or tu
 > 
 > The most important treasure in the room may be the bones of Gertia Land, which the PCs must return to the grave of the Land farmstead to appease the ghost of Alastor Land in [[#23. Alastor's Haunt]].
 > 
-> - [ ] gp::52
+> - [x] gp::52
 
 ## Development
 Presuming the PCs defeat Filge without killing him, they can learn a lot from the humiliated wizard.  He doesn't volunteer information, but once cowed he responds thoroughly to direct questions, hoping that his honesty encourages the PCs to spare his miserable life.  

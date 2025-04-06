@@ -40,7 +40,8 @@ abilities_bot:
 
 spellcasting:
   - name: Divine Spontaneous Casting
-    desc: "The cleric casts one of the following spells using Wisdom as their spellcasting ability (spell attack +10, spell DC 20):\n\n__Cantrips (3 slots)__: [[3-Rules/Character Building/Spells/Light|Light]]], [[Guidance]], [[Vitality Lash]]\n__1st Level (3 slots)__: [[3-Rules/Character Building/Spells/Bane|Bane]], [[Bless]], [[Echoing Weapon]], [[Divine Lance]]\n__2nd Level (2 slots)__: [[Boneshaker]], [[Dancing Shield]]"
+    desc: "The cleric casts one of the following spells using Wisdom as their spellcasting ability (spell attack +10, spell DC 20):\n\n__Cantrips (3 slots)__: [[Divine Lance]], [[3-Rules/Character Building/Spells/Light|Light]], [[Guidance]], [[Vitality Lash]]\n__1st Level (3 slots)__: [[3-Rules/Character Building/Spells/Bane|Bane]], [[Bless]], [[Echoing Weapon]]\n__2nd Level (3 slots)__: [[Blazing Armory]], [[Boneshaker]], [[Dancing Shield]]\n__3rd Level (2 slots)__: [[Rouse Skeletons]], [[Vampiric Feast]]"
+
 
 speed: 25 feet
 

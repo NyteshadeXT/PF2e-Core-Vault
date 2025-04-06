@@ -5,8 +5,16 @@ art: zz-Attachments/Three Faces of Evil Banner.png
 quicknote: The Three Faces of Evil requires the PCs to sneak into Dourstone Mine, destroy The Ebon Triad cultists, and defeat a newly born creature knows as the Ebon Aspect.
 whichparty:
   - "[[Age of Worms Party Dashboard]]"
-adventure_status: Not Started
-adventure_level:
+adventure_status: In Progress
+adventure_level: 2
+total_xp: 1538
+completed_xp: 0
+awarded_pp: 0
+awarded_gp: 0
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items: []
+awarded_consumable_items: []
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -45,7 +53,7 @@ adventure_level:
 > [!metadata|quests]- Quests
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes, status AS Status
-> FROM "5-World"
+> FROM "4-Campaign/Age of Worms/Quests"
 > WHERE econtains(tags, "Quest") AND econtains(adventure, this.file.link)
 > SORT file.name ASC
 
@@ -79,7 +87,9 @@ In short, the PCs have the chance to put Balabar in his place.
 ## Infiltrating the Mine
 [[Ragnolin Dourstone]]'s mining operation is poorly run. Ever the pragmatist, Ragnolin thinks it’s better to pay a few guards a good wage to keep the workers in line rather than offer fair wage to his miners. He hires anyone who's willing to at his price (2 cp per day, plus room and board). Only the desperate or those unable to find work elsewhere remain here for long. In most cases, the miners work only long enough to earn the money needed to buy passage elsewhere. Many of the miners that do stick around are crippled ex-criminals unable to find other work. In addition, a number of the miners are convicted criminals who have been sentenced to hard labor. Ragnolin earned their service with a few well-placed bribes in Diamond Lake.
 
-This section of the adventure is relatively freeform. The PCs must come up with a reasonable plan to infiltrate the mine—there are a variety of possibilities. They could take jobs at the mine, they might sneak in, or they could bribe the miners to let them pass without incident. Note that as the mine is private property, the PCs should probably avoid simply storming it and slaughtering the guards. Survivors of such an attack run to town for help, and the PCs quickly find themselves, iп over their heads.
+This section of the adventure is relatively freeform.  The PCs must come up with a reasonable plan to infiltrate the mine there are a variety of possibilities.   They could take jobs at the mine, they might sneak in or they could bribe the miners to let them pass without incident.
+
+Note that as the mine is private property, the PCs should probably avoid simply storming it and slaughtering the guards. Survivors of such an attack run to town for help, and the PCs quickly find themselves, iп over their heads.
 
 ## The Guards
 The mine's security force consists of two dozen guards (all 1st-level warriors) Half of them keep watch by day, the other half watch at night. The night watchmen are all dwarves, while the daytime guards are human.
@@ -394,7 +404,7 @@ This chamber serves as a barracks for the guards in area 5 and for the tiefling 
 > [!tip]+ Treasure
 > The rack holds 6 javelins, а longsword, a composite longbow and four quivers of 20 arrows each
 
-## Encounter 8: Priests' Chambers
+## Encounter 8: Priest's Chambers
 **Encounter Difficulty:**   
 - [ ] Low (60 XP) Level 3
 
@@ -438,7 +448,7 @@ Kendra first calls for the undead in area 9. She directs the zombies to fight al
 
 ## Encounter 9: Chapel of Hextor
 **Encounter Difficulty:**   
-- [ ] Low (60 XP) Level 3
+- [ ] Low (120 XP) Level 3
 
 > [!note]+ Read Aloud
 > A pair of torches mounted on long, iron poles shed flickering light across this chamber. A small stone altar stands between the two torches. A red tapestry emblazoned with the symbol of a gauntlet grasping six arrows hangs from the wall behind the altar. Four statues of men clad in chainmail and leather masks, each carrying a greatsword, stand along the wall, two on each side of the altar.
@@ -462,7 +472,7 @@ At the start of the encounter, place the following foes on the map:
 name: Chapel of Hextor
 party: PartyName
 creatures:
-  - 1: [[Zombie Brute, Zombie Troglodyte]]
+  - 2: [[Zombie Brute, Zombie Troglodyte]]
 ```
 
 A pair of troglodyte zombies dwell in this chamber. They attack anyone who lacks a symbol of Hextor, and obey the verbal orders of any of the three clerics.

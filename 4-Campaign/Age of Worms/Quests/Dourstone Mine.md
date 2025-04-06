@@ -1,10 +1,10 @@
 ---
 tags:
   - Quest
-art: zz_Attachments/Misc/PlaceholderImage.png
-quicknote: Alastor Land asks the PCs to bury his bones with his family.
-adventure: "[[4-Campaign/Age of Worms/The Whispering Cairn]]"
-status: Completed
+art: zz-Attachments/assets/PlaceholderImage.png
+quicknote: Balabar Smenk asks the players to destroy Dourstone Mine in an effort to take down the temple in the mine.
+adventure: "[[The Three Faces of Evil]]"
+status: Started
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -41,7 +41,7 @@ status: Completed
 
 ## Overview
 ### Summary
-Alastor Land tasks the players with burying his bones with his family on their old farmstead.
+Balabar Smenk attempts to have the players destroy Dourstone Mine in an effort to dismantle the Ebon Triad and to take down the temple they are supporting in the mine.
 
 ### Storyline
 

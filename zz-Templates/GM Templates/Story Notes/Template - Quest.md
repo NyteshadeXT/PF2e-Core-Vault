@@ -1,7 +1,7 @@
 ---
 tags:
   - Quest
-art: zz_Attachments/Misc/PlaceholderImage.png
+art: zz-Attachments/assets/PlaceholderImage.png
 ---
 
 > [!metadata|metadata]- Metadata 
