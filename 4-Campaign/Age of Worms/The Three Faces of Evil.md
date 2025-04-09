@@ -13,8 +13,8 @@ awarded_pp: 0
 awarded_gp: 0
 awarded_sp: 0
 awarded_cp: 0
-awarded_permanent_items: []
-awarded_consumable_items: []
+awarded_permanent_items: 
+awarded_consumable_items:
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -956,3 +956,77 @@ The morlock guards attempt to hold off the characters. They adopt a position to 
 > - [ ] sp::500
 > - [ ] permanent::[[Rope of Climbing (Lesser)]] [ilvl::3] [gp::45]
 
+# Part 4: The Labyrinth of Vecna
+The Faceless One and his followers knew that they had uncovered one of Vecna's great secrets when they discovered this strange labyrinth directly north of the Overgod's bubbling pool. Powerful magic flows through this place, and the Faceless One suspects that at one time in the distant past Vecna himself dwelled within these halls.
+
+The labyrinth of Vecna is a twisting series of passages honeycombed with secret doors. These portals open easily for Vecna's worshipers, but heretics are unlikely to find them without an extensive search. With luck and diligence, the PCs can find the secret doors that lead to the labyrinth’s inner sanctum.
+
+## Labyrinth Features
+The passages here are smooth, expertly crafted stone hallways and chambers. The doors are made of stone and are set on perfectly aligned hinges that allow them to open noiselessly.
+
+The doors have hardness 8, 30 hit points, and a break DC of 30. The secret doors found throughout this area have the same stats. A worshiper
+of Vecna can find them automatically—the magic of this place makes the door obvious to the faithful. They hear lingering whispers in a strange, primordial tongue that pulls their attention to the hidden doors. More impressively, а worshiper of Vecna can cause these doors to open and close by merely willing it to be so. A Vecna cultist may open or close one door in this manner per round as а free action. Nonbelivers must make a DC 25 [[Search]] check to find the doors, and must take move actions to open them.
+
+## Inner Sanctum Features
+Areas 23 through 27 of this portion of the dungeon comprise the inner sanctum of Vecna. These chambers are wellbuilt, with smooth, polished floors and expertly crafted features. The doors and secret doors are as described above. In addition, these rooms are lit by continual flame spells cast upon the walls at 20-foot intervals.
+
+# Encounter 22: The Labyrinth
+> [!note]+ Read Aloud
+> А smooth, gray, stone corridor stretches about thirty feet ahead before it comes to an intersection. The stonework here is smooth and expertly crafted.
+
+This portion of the Dark Cathedral requires a bit of explanation. It consists of a maze inhabited by a small band of tengu rogues. These cultists defend the inner sanctum to the death. When they notice that heretics have entered their domain, they use the secret doors honeycombed through this area to surround and attack intruders from all sides.
+
+The “Labyrinth Features” section above details the secret doors and mundane doors found in this area.
+
+The three chambers marked Group 1, Group 2, and Group 3 are campsites for groups of tengu. Each of these rooms has bed rolls, crates of food, barrels of water and other supplies. The labyrinth's dire weasel guardians start in the area marked W.
+
+Four groups of monsters inhabit the labyrinth, three small bands of tengu and a pair of dire weasels trained to patrol the maze, Each group is treated as a separate encounter.
+
+**Group 1:** These six tengu rogues are charged with watching over the entrance to the labyrinth. They use а small peep hole in the secret раsage east of their campsite to watch the entrance.
+
+**Encounter Difficulty:**   
+- [ ] Moderate (80 XP) Level 4
+
+At the start of the encounter, place the following foes on the map: 
+ - 6: [[3-Rules/Bestiaries/Monster Core/Tengu Sneak|Tengu Sneak]] W
+
+```encounter
+name: Labyrinth Group 1
+party: Age of Worms
+creatures:
+  - 6: [[Tengu Sneak]]
+```
+
+**Group 2:** A second group of six tengu rogues serves as backup to group 1. They move out to stalk the maze if they receive word of trouble from their brethren.
+
+**Encounter Difficulty:**   
+- [ ] Moderate (80 XP) Level 4
+
+At the start of the encounter, place the following foes on the map: 
+ - 6: [[3-Rules/Bestiaries/Monster Core/Tengu Sneak|Tengu Sneak]] W
+
+```encounter
+name: Labyrinth Group 2
+party: Age of Worms
+creatures:
+  - 6: [[Tengu Sneak]]
+```
+
+**Group 3:** This band of tengu includes the tengu leader, his sorcerer lieutenant, and 2 rogues. If the tengu leader hears word from groups 1 or 2, he moves his followers to the secret doors just south of the inner sanctum to ambush anyone who comes too close to the secret chambers.
+
+**Encounter Difficulty:**   
+- [ ] difficulty (xxx XP) Level 4
+
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[3-Rules/Bestiaries/Monster Core/Tengu Sneak|Tengu Sneak]] W
+ - 1: [[tengu ]]
+
+```encounter
+name: Labyrinth Group 3
+party: Age of Worms
+creatures:
+  - 2: [[Tengu Sneak]]
+```
+
+
+## Features of the Area
