@@ -29,43 +29,43 @@ size: "Medium"
 trait_01: [[chaotic]]
 trait_02: [[evil]]
 trait_03: [[humanoid]]
-modifier: 8
+modifier: 11
 perception:
   - name: "Perception"
-    desc: "+8; Darkvision"
+    desc: "+11; Darkvision"
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +8, Crafting: +8, Stealth: +9"
-abilityMods: [4, 3, 1, -2, 3, 1]
+    desc: "Acrobatics: +8, Crafting: +7, Religion: +10, Stealth: +9"
+abilityMods: [3, 3, 1, -2, 4, 1]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Homebrew_"
-ac: 17
+ac: 18
 armorclass:
   - name: AC
-    desc: "17; __Fort__ +8, __Ref__ +12, __Will__ +10; +2 status to all saves vs. disease and poison"
-hp: 42
+    desc: "18; __Fort__ +11, __Ref__ +8, __Will__ +14; +2 status to all saves vs. disease and poison"
+hp: 57
 health:
   - name: ""
   - name: HP
-    desc: "42"
+    desc: "57"
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Dagger|Dagger x2]], [[Leather Armor]]"
+    desc: "[[Club|Club]], [[Leather Armor]]"
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Dagger +9 (agile, finesse, versatile S)\n__Damage__  1d4 + 4 piercing"
+    desc: "`pf2:1` Club +9 (agile, finesse, versatile S)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Melee."
     desc: "`pf2:1` Jaws +9 (agile)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +8 (agile, finesse, thrown 10ft., versatile S)\n__Damage__  1d4 piercing"
+  - name: "Arcane Prepared Spells"
+    desc: "DC 18, attack +10; __2nd __  _[[Bone Spray]]_, _[[Noise Blast]]_; __1st __  _[[3-Rules/Character Building/Spells/Bane|Bane]]_, _[[Harm]]_, _[[Runic Weapon]]_\n__Cantrips__  __(2nd)__ _[[3-Rules/Character Building/Spells/Detect Magic|Detect Magic]]_, _[[Tremor Signs]]_, _[[Guidance]]_"
 
   - name: "Instinctual Tinker"
     desc: "`pf2:2`  The morlock tinkers with an adjacent construct or mechanical hazard. They attempt a Crafting check check against the construct's or hazard's Fortitude DC. The morlock can't succeed if the target's level is more than double the morlock's.\n* * *\n\n**Critical Success** The target gains 4d6 healing Hit Points and a +1 circumstance bonus to attack rolls for 1 minute.\n\n**Success** The target gains 2d6 healing Hit Points.\n\n**Critical Failure** The morlock injures itself, taking 2d6 damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion).\n\n[[Bestiary Effects/Effect_ Instinctual Tinker (Critical Success)|Effect: Instinctual Tinker (Critical Success)]]"

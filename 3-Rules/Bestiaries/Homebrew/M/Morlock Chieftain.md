@@ -62,16 +62,13 @@ attacks:
     desc: "`pf2:1` Greataxe +15 (sweep)\n__Damage__  1d12 + 5 piercing"
 
   - name: "Savage Frenzy"
-    desc: "`pf2:f`  The morlock chieftain flies into a berserk rage, gaining the effects of the Rage action. Rage lasts one minute, until the Chieftain chooses to end it or he falls unconscious."
+    desc: "`pf2:0`  The morlock chieftain flies into a berserk rage, gaining the effects of the Rage action. Rage lasts one minute, until the Chieftain chooses to end it or he falls unconscious."
 
   - name: "Leap Attack"
     desc: "`pf2:2`  The morlock Strides up to twice its Speed, during which it attempts a [[Actions/High Jump|High Jump]] or a [[Actions/Long Jump|Long Jump]]. At any point during its movement, the morlock can make a melee Strike against an enemy in its reach.\n\nThe morlock then can't use Leap Attack for 1 round."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A morlock's Strikes deal an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
-
-  - name: "Swarming Stance"
-    desc: "  A morlock can share the same space as another morlock, but no more than two morlocks can occupy the same space. When morlocks share the same space, they gain a +1 circumstance bonus to attack rolls."
  
 ```
 

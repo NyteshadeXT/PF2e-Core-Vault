@@ -82,9 +82,9 @@ attacks:
 ```
 
 ```encounter-table
-name: Morlock Archer
+name: Morlock Barbarian
 creatures:
-  - 1: Morlock Archer
+  - 1: Morlock Barbarian
 ```
 
 

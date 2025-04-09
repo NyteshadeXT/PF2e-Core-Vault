@@ -573,7 +573,7 @@ Unlike the Hextorites, the morlocks are poorly organized. They tend to rush into
 id: Caves of Erythnul
 image: [[image-2.png]]
 height: 1000px
-width: 70%
+width: 80%
 ### This sets where the map starts by default. Set it to the middle (half) of your bounds. 
 lat: 50
 long: 50
@@ -650,10 +650,10 @@ The kennel master and his two krenshars fight to the death to protect this place
 The gray-furred krenshars are underdark offshoots of their species. The Kennel master wears a cloak fashioned from the fur of an gray-furred, subterranean dire ape, He wears a wolf skull mask painted red to resemble his pets horrific visage.
 
 ## Tactics
-The kennel master attempts to hide at his location ([[Spot]] DC 19 assuming he takes 10 and with his +10 racial bonus for using Hide in a rocky setting) As the PCs enter the room, he moves to block the exit and calls out to his krenshars to attack. The krenshars use their scare ability to drive the PCs down the cliff to area 14 via the iron spikes pounded into the wall While the morlocks normally attack the PCs' light sources, here they leave them intact so that intruders affected by the krenshars can spot and use the spikes. The morlocks want to drive their enemies deeper into their lair so that the archers in area 14 can pick them off as they climb,
+The kennel master attempts to hide at his location ([[Spot]] DC 19) As the PCs enter the room, he moves to block the exit and calls out to his krenshars to attack. The krenshars use their scare ability to drive the PCs down the cliff to area 14 via the iron spikes pounded into the wall While the morlocks normally attack the PCs' light sources, here they leave them intact so that intruders affected by the krenshars can spot and use the spikes. The morlocks want to drive their enemies deeper into their lair so that the archers in area 14 can pick them off as they climb,
 
 > [!tip]+ Treasure
-> If the PCs make а DC 15 [[Search]] of the campsite they find four agates worth 2 gp each and a large ruby worth 20 gр.
+> If the PCs make а DC 15 [[Search]] of the area they find a rough campsite where the morlock has stashed four agates worth 2 gp each and a large ruby worth 20 gр.
 > 
 > - [ ] gp::28
 
@@ -700,6 +700,8 @@ The archers continue to harass the party until the characters make it to the bas
 > - [ ] gp::30
 > - [ ] sp::21
 
+![[Morlock Tunnel.png]]
+
 # Encounter 15: The Tunnel
 **Encounter Difficulty:**   
 - [ ] low (60 XP) Level 3
@@ -723,10 +725,10 @@ creatures:
   - 1: [[Morlock Barbarian]]
 ```
 
-A single morlock, a feral, wild creature, lurks within the passage. Normally, this brute waits near the tunnel’s southern edge, but if she hears the sounds of battle from area 24 she moves into the passage to intercept any intruders. This morlock wears battered leather armor and wields two dull, rusty knives. Her hair is long, knotted, and grimy with dirt, mud, and dust, She has a haggard appearance, with a gaunt, ropey physique.
+A single morlock, a feral, wild creature, lurks within the passage. Normally, this brute waits near the tunnel’s southern edge, but if she hears the sounds of battle from area 14 she moves into the passage to intercept any intruders. This morlock wears battered leather armor and wields two dull, rusty knives. Her hair is long, knotted, and grimy with dirt, mud, and dust, She has a haggard appearance, with a gaunt, ropey physique.
 
 ## Tactics
-The morlock lurks in the passage waiting for approaching PCs if she hears the sounds of battle from area 14. Otherwise, she keeps watch at the base of the rope bridge to area 12. If she spots PCs below her in area 16, she waits until they battle the chokers. If they defeat them, she leaps down upon them, taking `dice: 2d6` 2d6 falling damage. In her lust for battle, she pays little mind to such incidental injuries.
+The morlock lurks in the passage waiting for approaching PCs if she hears the sounds of battle from area 14. Otherwise, she keeps watch at the base of the rope bridge to area 17. If she spots PCs below her in area 16, she waits until they battle the chokers. If they defeat them, she leaps down upon them, taking `dice: 2d6` 2d6 falling damage. In her lust for battle, she pays little mind to such incidental injuries.
 
 > [!tip]+ Treasure
 > In addition to her equipment, the barbarian has several trophies from a drow priestess that she slew. In a bloodstained burlap sack are 3 gp, the preserved head of a female dark elf, and a [[Magic Wand (1st-Rank Spell)|Magic Wand (Harm)]].
@@ -853,7 +855,7 @@ The morlocks shout for help once they spot intruders. The monsters in areas 19 a
 > [!note]+ Read Aloud
 > The scent of rotting meat and offal fills the air here. Moldering furs, crude bedrolls and other signs of 2 campsite cover the floor of this large, natural cave. Spears and crude axes are piled near the entrance to the left, along with a disorganized stack of shields.
 
-The grimlocks use this place as а general barracks. Normally, six of them rest here in between their guard duties in the outer areas of the cave. These grimlocks, like the guards in area 18, do not expect trouble. They suffer a -3 penalty on [[Skills#Perception|Perception]] checks as they argue, eat, or sleep.
+The morlocks use this place as а general barracks. Normally, six of them rest here in between their guard duties in the outer areas of the cave. These morlocks, like the guards in area 18, do not expect trouble. They suffer a -3 penalty on [[Skills#Perception|Perception]] checks as they argue, eat, or sleep.
 
 At the start of the encounter, place the following foes on the map: 
  - 6: [[Morlock]] W
@@ -865,13 +867,13 @@ creatures:
   - 6: [[Morlock]]
 ```
 
-The six grimlocks do not carry their weapons. They must stop to pick them up on their way out of this room. If the PCs enter this room without alerting the guards, the grimlocks are unarmed.
+The six morlocks do not carry their weapons. They must stop to pick them up on their way out of this room. If the PCs enter this room without alerting the guards, the morlocks are unarmed.
 
 ## Tactics
-The grimlocks fight to the death. They are fanatics to Enthnul's cause and are ready to die to protect their leader. They consider him a revered prophet.
+The morlocks fight to the death. They are fanatics to Enthnul's cause and are ready to die to protect their leader. They consider him a revered prophet.
 
 > [!tip]+ Treasure
-> The grimlock warriors keep their personal treasure here, hidden in a variety of small nooks and hollows. There are four treasure caches in the room. Each requires a DC 20 [[Search]] check to uncover. The first cache contains a jade figurine of Erythnul worth 10 gp, the second holds 50 sp in coins, the third has three garnets worth 3 gp each, and the fourth contains a silver necklace set with three gems worth 5 gp.
+> The morlock warriors keep their personal treasure here, hidden in a variety of small nooks and hollows. There are four treasure caches in the room. Each requires a DC 20 [[Search]] check to uncover. The first cache contains a jade figurine of Erythnul worth 10 gp, the second holds 50 sp in coins, the third has three garnets worth 3 gp each, and the fourth contains a silver necklace set with three gems worth 5 gp.
 > 
 > - [ ] gp::24
 > - [ ] sp::50
@@ -883,7 +885,7 @@ The grimlocks fight to the death. They are fanatics to Enthnul's cause and are r
 > [!note]+ Read Aloud
 > This chamber presents a macabre sight. А bewildering variety of humanoid and monstrous skulls are mounted on the walls just outside this chamber with crude, iron spikes. The chamber beyond is a small, cramped space that smells strongly of damp earth. A great pile of furs and blankets lies in the center of the room.
 
-If the PCs manage to slip past the guards in area 18, the chieftain is here feasting on а fistful of hallucinogenic mushrooms. He sits atop his pile of bedding, jabbering and howling in Grimlock.
+If the PCs manage to slip past the guards in area 18, the chieftain is here feasting on а fistful of hallucinogenic mushrooms. He sits atop his pile of bedding, jabbering and howling in morlock.
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[Morlock Chieftain]] 
@@ -895,7 +897,7 @@ creatures:
   - 1: [[Morlock Chieftain]]
 ```
 
-The grimlock chieftain is а fearsome warrior, though his mind is almost utterly sundered. In his fanatical drive to achieve religious enlightenment, he has taken to ingesting massive amounts of psychotropic fungi. He believes that the PCs are heralds of Erythnul sent to test him. As he attacks, he screams taunts at them in Common and bids them to carry his regards to Erythnul.
+The morlock chieftain is а fearsome warrior, though his mind is almost utterly sundered. In his fanatical drive to achieve religious enlightenment, he has taken to ingesting massive amounts of psychotropic fungi. He believes that the PCs are heralds of Erythnul sent to test him. As he attacks, he screams taunts at them in Common and bids them to carry his regards to Erythnul.
 
 The chieflainis body is covered with ritual scars and tattoos. They form a pattern of a holy symbol of Erythnul on his chest. His head is shaved bare, while his ears are studded with crude bone piercings.
 
@@ -918,7 +920,7 @@ The chieftain is a simple, brutal warrior and a bully at heart. He seeks out the
 
 ![[Grallak Kur.png|right hmed]]
 
-This place is the domain of Grallak Kur, the prophet of Erythnul who led the grimlocks on their unholy pilgrimage to this place. Grallak spends his time here deep in meditation, communing with Erythnul to learn that dreaded god's wishes. Already, Grallak’s divine insights have greatly helped the temple of Vecna in its quest to raise the Ebon Aspect from the pool in area 1.
+This place is the domain of Grallak Kur, the prophet of Erythnul who led the morlocks on their unholy pilgrimage to this place. Grallak spends his time here deep in meditation, communing with Erythnul to learn that dreaded god's wishes. Already, Grallak’s divine insights have greatly helped the temple of Vecna in its quest to raise the Ebon Aspect from the pool in area 1.
 
 In order to ensure his tribe's dedication to the Ebon Triad, Grallak Kur collapsed the passage that once led out of this cavern deeper into the Underdark, blocking any chance of escape.
 
@@ -934,16 +936,16 @@ creatures:
   - 1: [[Morlock Zealot, Grallak Kur]]
 ```
 
-Grallak perches atop a small stone ledge 10 feet above a smoldering fire. He tosses strange powders and mushrooms onto the fire. As he inhales the burning fumes, Erythnul’s visions come to him. His three servants, a trio of grimlock warriors, watch over him and tend to the fire. One keeps watch on the entrance to the temple. The grimlocks are under strict orders to never disturb Grallak. Thus, the guards assume that intruders are at hand if anyone approaches.
+Grallak perches atop a small stone ledge 10 feet above a smoldering fire. He tosses strange powders and mushrooms onto the fire. As he inhales the burning fumes, Erythnul’s visions come to him. His three servants, a trio of morlock warriors, watch over him and tend to the fire. One keeps watch on the entrance to the temple. The morlocks are under strict orders to never disturb Grallak. Thus, the guards assume that intruders are at hand if anyone approaches.
 
 Grallak keeps a knotted rope anchored to his ledge. If he must climb down, he uses an action to drop the rope to the floor, then clambers down.
 
 Grallak has sewn preserved eyes of a beholder into his empty eyesockets, giving him the strange, wide-eyed look of a madman. His hair is cut short and dyed red, while a holy symbol of Erythnul is branded into his chest. His teeth are filed into fang-like points.
 
-His three guardians are the most fanatical worshipers of Erythnul among the grimlocks. They wear bronze masks that resemble holy symbols of Erythnul, while their flesh is studded in dozens of places with small, sharp bone piercings.
+His three guardians are the most fanatical worshipers of Erythnul among the morlocks. They wear bronze masks that resemble holy symbols of Erythnul, while their flesh is studded in dozens of places with small, sharp bone piercings.
 
 ## Tactics
-The grimlock guards attempt to hold off the characters. They adopt a position to attack the PCs while the characters must climb down the sharp slope to the cavern floor. Grallak Kur uses his magic to harass the PCs. He starts with entropic shield to protect against ranged attacks, then uses spiritual weapon and hold person on the party, targeting the former against a lightly armored spellcaster and the later against any tough-looking warriors. He then follows that with a mix of cause fear and sound burst. If he must venture into melee, he prefers to use divine favor and invisibility to boost himself as he moves to attack.
+The morlock guards attempt to hold off the characters. They adopt a position to attack the PCs while the characters must climb down the sharp slope to the cavern floor. Grallak Kur uses his magic to harass the PCs. He starts with entropic shield to protect against ranged attacks, then uses spiritual weapon and hold person on the party, targeting the former against a lightly armored spellcaster and the later against any tough-looking warriors. He then follows that with a mix of cause fear and sound burst. If he must venture into melee, he prefers to use divine favor and invisibility to boost himself as he moves to attack.
 
 > [!tip]+ Treasure
 > Grallak Kur keeps his treasure hidden behind a large rock wedged into a corner of the room. Uncovering it requires a DC 20 [[Search]] check. His cache consists of 500 sp in coins, a pearl necklace worth 20 gp, and a [[Rope of Climbing (Lesser)]].

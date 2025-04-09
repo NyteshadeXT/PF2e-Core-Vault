@@ -32,7 +32,7 @@ abilityMods: [0, 2, 0, -2, 1, 1]
 
 abilities_bot:
   - name: "Scare"
-    desc: "([[fear]], [[mental]], [[visual]]) __Frequency__ Once per round; The krenshar pulls back the skin on its face, revealing a terrifying skull-like visage. All creatures within 30 feet that can see the krenshar must attempt a Will save against DC 15 or become [[frightened|Frightened 1]] ([[frightened|Frightened 2]] on a critical failure). Creatures that critically succeed are immune to the krenshar’s Scare ability for 24 hours."
+    desc: "`pf2:1` ([[fear]], [[mental]], [[visual]]) __Frequency__ Once per round; The krenshar pulls back the skin on its face, revealing a terrifying skull-like visage. All creatures within 30 feet that can see the krenshar must attempt a Will save against DC 15 or become [[frightened|Frightened 1]] ([[frightened|Frightened 2]] on a critical failure). Creatures that critically succeed are immune to the krenshar’s Scare ability for 24 hours."
   - name: "Pack Hunter"
     desc: "When a krenshar makes a Strike against a frightened creature, it deals an additional `dice: 1d4` 1d4 precision damage."
 

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "4-Campaign/Age of Worms/The Three Faces of Evil.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/Tests/DC Calculator WIP.md",
-                "mode": "source",
+                "file": "1-GM Toolkit/Tests/Random_Gems_Table.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DC Calculator WIP"
+              "title": "Random_Gems_Table"
             }
           }
         ],
@@ -215,31 +215,32 @@
   },
   "active": "4283ae1e16264976",
   "lastOpenFiles": [
-    "1-GM Toolkit/DC Calculator.md",
+    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
+    "3-Rules/Bestiaries/Homebrew/M/Morlock Zealot.md",
+    "3-Rules/Bestiaries/Bestiary 3/Adult Sea Dragon (Spellcaster).md",
+    "3-Rules/Bestiaries/Bestiary 2/Z/Zyss Serpentfolk.md",
+    "3-Rules/Bestiaries/Homebrew/M/Morlock Barbarian.md",
+    "3-Rules/Bestiaries/Homebrew/M/Morlock Chieftain.md",
+    "3-Rules/Bestiaries/Homebrew/T/tiefling-guard.md",
+    "3-Rules/Bestiaries/Homebrew/O/orc-shaman.md",
+    "3-Rules/Bestiaries/Homebrew/G/gnoll-deathpledged.md",
+    "3-Rules/Bestiaries/Homebrew/B/bugbear-warrior.md",
+    "3-Rules/Bestiaries/Homebrew/B/beholder-gauth.md",
+    "zz-Attachments/Morlock Tunnel.png",
+    "3-Rules/Bestiaries/Homebrew/M/Morlock Archer.md",
+    "3-Rules/Bestiaries/Homebrew/K/krenshar.md",
+    "1-GM Toolkit/Tests/Random_Gems_Table.md",
+    "1-GM Toolkit/Tests/NPCGen.md",
+    "1-GM Toolkit/Tests/NPC_Normal_Templater.md",
+    "1-GM Toolkit/Tests/message.md",
+    "1-GM Toolkit/Tests/Item Card Dataview Template.md",
+    "1-GM Toolkit/Tests/Enchanting.md",
     "1-GM Toolkit/Tests/DC Calculator WIP.md",
+    "1-GM Toolkit/DC Calculator.md",
     "2-Session Journals/Age-of-Worms/Aow Session 010.md",
     "1-GM Toolkit/Adventure Loot.md",
     "4-Campaign/Age of Worms/The Whispering Cairn.md",
-    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
     "4-Campaign/Age of Worms/Quests/The Faces of Evil.md",
-    "4-Campaign/Age of Worms/Quests/Dourstone Mine.md",
-    "zz-Templates/GM Templates/Story Notes/Template - Quest.md",
-    "zz-Templates/GM Templates/Story Notes/Template - Rumour.md",
-    "4-Campaign/Age of Worms/Quests/Laid to Rest.md",
-    "5-World/Settlements/Diamond Lake.md",
-    "zz-Templates/GM Templates/Locations/Template - Adventure.md",
-    "4-Campaign/Age of Worms/Quests/The Whispering Cairn.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 009.md",
-    "1-GM Toolkit/Tests/The Seer's Fate - Shop Example.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 005.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 006.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 007.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 008.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 001.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 004.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 003.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 002.md",
-    "5-World/NPCs/Diamond Lake/Ragnolin Dourstone.md",
-    "4-Campaign/Age of Worms/BadGuy1.md"
+    "4-Campaign/Age of Worms/Quests/Dourstone Mine.md"
   ]
 }
