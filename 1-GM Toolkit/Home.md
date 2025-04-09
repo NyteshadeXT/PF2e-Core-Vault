@@ -20,7 +20,7 @@ obsidianUIMode: preview
 > [!infobox]
 > # Session Journals
 > ```dataview
-TABLE WITHOUT ID link(file.name) AS "Session Date", Status, characters
+TABLE WITHOUT ID link(file.name) AS "Session Date", characters
 from "2-Session Journals/Age-of-Worms"
 where contains(tags, "SessionNote")
 SORT file.name DESC
@@ -35,7 +35,7 @@ where (Status = "Active")
 # Recently Modified NPCs
 
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "NPC Name", gender as "Gender", Race, age as "Age", location as "Location", AssociatedGroup  
+TABLE WITHOUT ID link(file.name) AS "NPC Name", gender as "Gender", ancestry as "Ancestry", age as "Age", location as "Location", AssociatedGroup  
 FROM "5-World/NPCs"
 where contains(tags, "NPC") 
 SORT file.mtime DESC

@@ -3,19 +3,16 @@ rarity: 14
 skillLevel: 15
 creatureCR: 9
 creatureTrait: Religion
-playerLevel: 3
+playerLevel: 2
 taskDifficulty: 0
 skillDifficulty: 0
-itemLevel: 8
-itemValue: 25
+itemLevel: 2
+itemValue: 35
 itemType: 2
-Rush: false
-craftProficiency: 1
+craftProficiency: 1.2
 itemRarity: 0
-rushLevel: 0
-completionDays: 1
-rushCompletion: true
-craftRoll: 1
+completionDays: 0
+craftRoll: 0.003
 rarityModifier: 0
 ---
 
@@ -57,14 +54,14 @@ title: Crafting Requirements
 collapse: closed
 icon: hammer
 
-1. The item level must be less than yours
+1. The item level must be less than or equal to yours
 2. You must meet the minimum proficiency
 	- Trained: Item Level 0 - 8
-	- Master: Item Level 9 - 15
-	- Legendary: Item Level 16+
-3. For Alchemical, Magical or Snare crafting, you must have the appropriate feat
+	- Master: Item Level 9 - 16
+	- Legendary: Item Level 17+
+3. For Alchemical and Magical crafting, you must have the Alchemical Crafting or Magical Crafting feat and be at least Trained
 4. You must have the appropriate tools / workshop
-5. You must have a formula (recipe / blueprint) for the item you wish to craft. For common items, see the [[basic-crafters-book|Basic Crafter's Book]]
+5. You must have a formula for the item you wish to craft. For common items, see the [[basic-crafters-book|Basic Crafter's Book]]
 6. You must have materials worth 50% of the item's value
 
 ```
@@ -77,25 +74,15 @@ icon: hammer
 | **Player Level:** `INPUT[number:playerLevel]` _**`VIEW[string({playerLevel}<{itemLevel} ? "Warning: Item level above player level" : "")]`**_|
 | **Item Value (gp):** `INPUT[number:itemValue]` **`VIEW[round({itemValue}/2)]` gp** (Value in materials upfront)|
 | **Item Type:** `INPUT[inlineSelect(option(0, Consumable), option(2, Permanenet)):itemType]`  **Item Rarity:** `INPUT[inlineSelect(option(0, Common), option(2, Uncommon), option(5, Rare), option(10, Unique)):itemRarity]`|
-| **Crafting Proficiency:** `INPUT[inlineSelect(option(1, Trained), option(1.05, Expert), option(1.1, Master), option(1.2, Legendary), showcase):craftProficiency]` _**`VIEW[string({craftProficiency} < 1.1 & {itemLevel} >= 9 ? "Warning: Proficiency too low" : ({craftProficiency} < 1.2 & {itemLevel} >=16 ? "Warning: Proficiency too low" : ""))]`**_ |
-| **Rush Setup:** `INPUT[inlineSelect(option(0, No Rush), option(-1, 'Rush Expert (-1 Day)'), option(-2, 'Rush Master (-2 Days)'), option(-3, 'Rush Legendary (-3 Days)')):rushLevel]` |
-| **Crafting Setup Time 🕒:** `VIEW[number(((4 + {itemType}) + {rushLevel}) - (({playerLevel}-{itemLevel})>= 3 ? 2 : ({playerLevel}-{itemLevel}>= 1 ? 1 : 0))>=1 ? ((4 + {itemType}) + {rushLevel}) - (({playerLevel}-{itemLevel})>= 3 ? 2 : ({playerLevel}-{itemLevel}>= 1 ? 1 : 0)) : 4)]` `VIEW[string((((4 + {itemType}) + {rushLevel}) - (({playerLevel}-{itemLevel})>= 3 ? 2 : ({playerLevel}-{itemLevel}>= 1 ? 1 : 0)))<1 ? hours : days)]`|
-| **Crafting DC:** `VIEW[round(({itemLevel}*1.3) + 14 + {itemRarity}) + ({rushLevel}* -1 *5)]`                                   |
+| **Crafting Proficiency:** `INPUT[inlineSelect(option(1, Trained), option(1.05, Expert), option(1.1, Master), option(1.2, Legendary), showcase):craftProficiency]` _**`VIEW[string({craftProficiency} < 1.1 & {itemLevel} >= 9 ? "Warning: Proficiency too low" : ({craftProficiency} < 1.2 & {itemLevel} >=17 ? "Warning: Proficiency too low" : ""))]`**_ |
+| **Crafting Setup Time 🕒:** 1 day|
+| **Crafting DC:** `VIEW[round(({itemLevel} * ({itemLevel} <= 5 ? 1.2 : {itemLevel} <= 17 ? 1.3 : {itemLevel} == 18 ? 1.35 : {itemLevel} <= 20 ? 1.3 : {itemLevel} <= 22 ? 1.35 : {itemLevel} <= 24 ? 1.4 : 1.45)) + 14 + {itemRarity}) + ({rushLevel}* -1 *5)]`                                   |
 | `INPUT[inlineSelect(option(1, Critical Success), option(0.003, Success), option(0.002, Failure), option(0.001, Critical Failure)):craftRoll]`|
 | `VIEW[({craftRoll} >= 1 ? "Your attempt is successful. Each additional day spent Crafting reduces the materials needed to complete the item by an amout based on your level + 1 and your proficiency rank in Crafting (automatically calculated below)" : ({craftRoll} >= 0.003 ? "Your attempt is successful. Each additional day spent Crafting reduces the materials needed to complete the item by an amount based on your level and your proficiency rank (automatically calculated below)" : ({craftRoll} >= 0.002 ? "You fail to complete the item. You can salvage the raw materials you supplied to their full value. If you want to try again you must start over" : ({craftRoll} <= 0.001 ? "You fail to complete the item. You ruin 10% of the raw materials you supplied, but you can salvage the rest. If you want to try again, you must start over." : ""))))]` `VIEW[string({craftRoll} <= 0.001 ? "Value of materials lost: " : "" )]` **`VIEW[string({craftRoll} <= 0.001 ?  ({itemValue}*0.1) : "")]`** `VIEW[string({craftRoll} <= 0.001 ? " gp" : "")]`|
 
 |  |  |
 | --- |
+| **Base Material Value Required 💰:** `VIEW[round({itemValue}/2, 2)]` gp | 
 | **Extra Days Spent for Completion:** `INPUT[number:completionDays]` |
-| **Rush Completion:** `INPUT[toggle:rushCompletion]` (≥ Expert only)|
-| **Balance to Pay 💰:** `VIEW[round(({itemValue}/2) - (((((({playerLevel}+{craftRoll})*15)+(1+({playerLevel}+{craftRoll}))*5) + (1.77^({playerLevel}+{craftRoll}))))*{craftProficiency}*({rushCompletion} ? 2 : 1) * ({completionDays}))/100)]` gp |
-| **Amount Saved:** `VIEW[round(((((({playerLevel}+{craftRoll})*15)+(1+({playerLevel}+{craftRoll}))*5) + (1.77^({playerLevel}+{craftRoll}))))*{craftProficiency}*({rushCompletion} ? 2 : 1) * ({completionDays}))]` cp  /  `VIEW[round((((((({playerLevel}+{craftRoll})*15)+(1+({playerLevel}+{craftRoll}))*5) + (1.77^({playerLevel}+{craftRoll}))))*{craftProficiency}*({rushCompletion} ? 2 : 1) * ({completionDays}))/10)]` sp  /  `VIEW[round((((((({playerLevel}+{craftRoll})*15)+(1+({playerLevel}+{craftRoll}))*5) + (1.77^({playerLevel}+{craftRoll}))))*{craftProficiency}*({rushCompletion} ? 2 : 1) * ({completionDays}))/100)]` gp |
-| **Flat Check for Rushed Completion:** `dice: 1d20` against DC **`VIEW[number(10 + {itemLevel} - ({craftProficiency} >= 1.2 ? (8+{playerLevel}) : ({craftProficiency} >= 1.1 ? (6+{playerLevel}) : ({craftProficiency} >= 1.05 ? (4+{playerLevel}) : ({craftProficiency} >= 1 ? (2+{playerLevel}) : 0)))))]`** |
-
-
-| Rushed Crafting Flat Check | Outcome |
-| ---- | ----- |
-| Critical Success (≥ `VIEW[number(10 + 10 + {itemLevel} - ({craftProficiency} >= 1.2 ? (8+{playerLevel}) : ({craftProficiency} >= 1.1 ? (6+{playerLevel}) : ({craftProficiency} >= 1.05 ? (4+{playerLevel}) : ({craftProficiency} >= 1 ? (2+{playerLevel}) : 0)))))]`) | Crafting successful |
-| Success (≥ `VIEW[number(10 + {itemLevel} - ({craftProficiency} >= 1.2 ? (8+{playerLevel}) : ({craftProficiency} >= 1.1 ? (6+{playerLevel}) : ({craftProficiency} >= 1.05 ? (4+{playerLevel}) : ({craftProficiency} >= 1 ? (2+{playerLevel}) : 0)))))]`) | Crafting successful |
-| Failure (< `VIEW[number(10 + {itemLevel} - ({craftProficiency} >= 1.2 ? (8+{playerLevel}) : ({craftProficiency} >= 1.1 ? (6+{playerLevel}) : ({craftProficiency} >= 1.05 ? (4+{playerLevel}) : ({craftProficiency} >= 1 ? (2+{playerLevel}) : 0)))))]`) | [Quirk](../3)%20Rules/gamemastery-guide/chapter-2-tools.md#Item%20Quirks) |
-| Critical Failure (≤ `VIEW[number(10 - 10 + {itemLevel} - ({craftProficiency} >= 1.2 ? (8+{playerLevel}) : ({craftProficiency} >= 1.1 ? (6+{playerLevel}) : ({craftProficiency} >= 1.05 ? (4+{playerLevel}) : ({craftProficiency} >= 1 ? (2+{playerLevel}) : 0)))))]`)| Ruined or Cursed |
+| **Balance to Pay 💰:** `VIEW[round((({itemValue}/2) - (((((({playerLevel}+{craftRoll})*15) + (1+({playerLevel}+{craftRoll}))*5) + (1.77^({playerLevel}+{craftRoll})))) * {craftProficiency} * ({rushCompletion} ? 2 : 1) * ({completionDays}))/100), 2)]` gp |
+| **Amount Saved:** `VIEW[round((((((({playerLevel}+{craftRoll})*15) + (1+({playerLevel}+{craftRoll}))*5) + (1.77^({playerLevel}+{craftRoll})))) * {craftProficiency} * ({completionDays}) / 100), 2)]` gp |

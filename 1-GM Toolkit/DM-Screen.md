@@ -18,19 +18,28 @@ obsidianUIMode: preview
 > SORT file.name ASC
 > ```
 
+#### Known Languages
+
+```dataviewjs
+dv.list(dv.pages()
+		.where(p => p.tags && p.tags.includes("PC") && p.active == "✅")
+		.languages.distinct())
+```
+
+
 > [!NOTE]- Actions
 > <span style='font-size:2.0em'>[[Skill Actions]]</span>
 > ### [[Skills#Acrobatics|Acrobatics]]
 > [[3-Rules/Character Building/Actions/Balance|Balance]]; [[3-Rules/Character Building/Actions/Tumble Through|Tumble Through]]; [[Maneuver in Flight]]; [[Squeeze]]
 > 
 > ### [[Skills#Arcana|Arcana]]
-> [[Borrow an Arcane Spell]]; [[Decipher Writing]]; [[Identify Magic]]; [[3-Rules/Character Building/Actions/Learn a Spell|Learn a Spell]]
+> [[Borrow an Arcane Spell]]; [[Decipher Writing]]; [[Identify Magic]]; [[3-Rules/Character Building/Actions/Learn a Spell|Learn a Spell]]; [[Recall Knowledge]]
 > 
 > ### [[Skills#Athletics|Athletics]]
 > [[Climb]]; [[3-Rules/Character Building/Actions/Disarm|Disarm]]; [[3-Rules/Character Building/Actions/Force Open|Force Open]]; [[3-Rules/Character Building/Actions/Grapple|Grapple]]; [[High Jump]]; [[Long Jump]]; [[Reposition]]; [[3-Rules/Character Building/Actions/shove|Shove]]; [[Swim]]; [[3-Rules/Character Building/Actions/Trip|Trip]]
 > 
 > ### [[Skills#Crafting|Crafting]]
-> [[Craft]]; [[Identify Alchemy]]; [[Repair]]
+> [[Craft]]; [[3-Rules/Character Building/Actions/Earn Income|Earn Income]]; [[Identify Alchemy]]; [[Recall Knowledge]]; [[Repair]]
 > 
 > ### [[Skills#Deception|Deception]]
 > [[Create a Diversion]]; [[3-Rules/Character Building/Kingmaker Features/Feint|Feint]]; [[Impersonate]]; [[Lie]]
@@ -42,9 +51,35 @@ obsidianUIMode: preview
 > [[Coerce]]; [[Demoralize]]
 > 
 > ### [[Skills#Lore|Lore]]
+> [[3-Rules/Character Building/Actions/Earn Income|Earn Income]]
+> 
 > ### [[Skills#Medicine|Medicine]]
+> [[Administer First Aid]]; [[Recall Knowledge]]; [[Treat Disease]]; [[Treat Poison]]; [[3-Rules/Character Building/Actions/Treat Wounds|Treat Wounds]]
+> 
 > ### [[Skills#Nature|Nature]]
+> [[Command an Animal]]; [[Identify Magic]]; [[3-Rules/Character Building/Actions/Learn a Spell|Learn a Spell]]; [[Recall Knowledge]]
+> 
 > ### [[Skills#Occulitsm|Occulitsm]]
+> [[Decipher Writing]]; [[Identify Magic]]; [[3-Rules/Character Building/Actions/Learn a Spell|Learn a Spell]]; [[Recall Knowledge]]
+> 
+> ### [[Skills#Performance|Performance]]
+> [[3-Rules/Character Building/Actions/Earn Income|Earn Income]]; [[Perform]]
+> 
+> ### [[Skills#Religion|Religion]]
+> [[Decipher Writing]]; [[Recall Knowledge]]; [[Subsist]]
+> 
+> ### [[Skills#Society|Society]]
+> [[Create Forgery]]; [[Decipher Writing]]; [[Identify Magic]]; [[3-Rules/Character Building/Actions/Learn a Spell|Learn a Spell]]; [[Recall Knowledge]]
+> 
+> ### [[Skills#Stealth|Stealth]]
+> [[Conceal an Object]]; [[Hide]]; [[Sneak]]
+> 
+> ### [[skill#Survival|Survival]]
+> [[Cover Tracks]]; [[Sense Direction]]; [[Subsist]]; [[Track]]
+> 
+> ### [[Skills#Thievery|Thievery]]
+> [[Disable a Device]]; [[Palm an Object]]; [[Pick a Lock]]; [[Steal]]
+> 
 > [[Aid]]; [[Arrest a Fall]]; [[Avert Gaze]]  
 > [[Burrow]] 
 > [[Cast a Spell]]; [[Crawl]] 
@@ -66,7 +101,7 @@ obsidianUIMode: preview
 > [[Counteract]] 
 > [[Cover]] 
 > [[Familiar]]
-> [[Flank]] 
+> [[Off-Guard]] 
 > [[Flat Check]] 
 > [[Fortune and Misfortune]]
 > [[Secret Checks]] 
@@ -117,14 +152,14 @@ obsidianUIMode: preview
 > [[Observed]] 
 > [[Concealed]] 
 > [[Unnoticed]] 
-> [[3-Rules/Rule References/Hidden|Hidden]] 
-> [[3-Rules/Rule References/Undetected|Undetected]] 
+> [[Hidden]] 
+> [[Undetected]] 
 
 > [!warning]- Health and Dying
 > [[3-Rules/Character Building/Actions/Treat Wounds|Treat Wounds]]
 > [[Treat Disease]] 
 > [[Treat Poison]] 
-> [[Unconscious]] ([[Recovery Check]]) > [[Dying 1|Dying]] > [[Wounded 1|Wounded]] > [[Doomed 1|Doomed]] 
+> [[Unconscious]] > [[Dying 1|Dying]] > [[Wounded 1|Wounded]] > [[Doomed 1|Doomed]] 
 > [[Heroic Recovery]] 
 > [[death|Death]] 
 > [[Death Effects and Instant Death]] 
@@ -147,4 +182,4 @@ obsidianUIMode: preview
 > [[Exploration Activities]] 
 > [[Downtime Tasks]] 
 > [[Downtime Events]] 
-> [[Downtime Mode]]
+> [[downtime|Downtime]]
