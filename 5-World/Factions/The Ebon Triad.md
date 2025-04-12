@@ -136,7 +136,7 @@ The Ebon Triad is actively working to bring about the Age of Worms and the adhes
 Agents of the Ebon Triad conspired, last year, with another dangerous cult to trigger a volcanic eruption that nearly consumed the city of Cauldron.  For the Ebon Triad, this event was merely one of a handful of prophesized events presaging the advent of the Age of Worms, an era of darkness and writhing death that would provided the required backdrop for the ascension of their tripartite god.
 
 ## Notes
-[[4-Campaign/Age of Worms/The Whispering Cairn]] note: What the Ebon Triad cultists below [[Diamond Lake]] and throughout the world do not understand is that the entire religious movement is a fraud launched at the direction of Kyuss, an ancient being who has plotted to bring about the Age of Worms for millennia.
+[[The Whispering Cairn]] note: What the Ebon Triad cultists below [[Diamond Lake]] and throughout the world do not understand is that the entire religious movement is a fraud launched at the direction of Kyuss, an ancient being who has plotted to bring about the Age of Worms for millennia.
 
 Use the following chart to adjudicate the results of any [[Skills#Religion|Religion]] checks made to learn more about the Ebon Triad.
 

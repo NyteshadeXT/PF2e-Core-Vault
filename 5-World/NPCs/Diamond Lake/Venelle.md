@@ -22,6 +22,7 @@ location:
   - "[[Venelle's]]"
   - "[[Diamond Lake]]"
 condition: Healthy
+party1relation: Acquaintance
 ---
 
 > [!metadata|metadata]- Metadata 

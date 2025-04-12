@@ -70,6 +70,197 @@
         ],
         "sourcebook": "_Homebrew_"
       }
+    ],
+    [
+      "Tengu Windcaller",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "token": "<STATBLOCK-WIKI-LINK>modules/pf2e-tokens-bestiaries/portraits/humanoid/tengu-sneak.webp| <STATBLOCK-WIKI-LINK>",
+        "source": "Pathfinder Monster Core",
+        "name": "Tengu Windcaller",
+        "level": "Creature 3",
+        "alignment": "",
+        "size": "Medium",
+        "trait_01": "<STATBLOCK-WIKI-LINK>humanoid<STATBLOCK-WIKI-LINK>",
+        "trait_02": "<STATBLOCK-WIKI-LINK>tengu<STATBLOCK-WIKI-LINK>",
+        "modifier": 6,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+6; Low-Light Vision"
+          }
+        ],
+        "languages": "Common, Tengu; plus two others",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "Acrobatics: +5, Deception: +7, Diplomacy: +5, Occultism: +8; Society: +5, Stealth: +8"
+          }
+        ],
+        "abilityMods": [
+          0,
+          2,
+          1,
+          1,
+          0,
+          4
+        ],
+        "speed": "25 feet",
+        "sourcebook": "_Homebrew_",
+        "ac": 16,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "16; __Fort__ +4, __Ref__ +7, __Will__ +10"
+          }
+        ],
+        "hp": 31,
+        "health": [
+          {
+            "name": ""
+          },
+          {
+            "name": "HP",
+            "desc": "31"
+          }
+        ],
+        "abilities_top": [
+          {
+            "name": "",
+            "desc": ""
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": ""
+          },
+          {
+            "name": "Go for the Eyes",
+            "desc": "`pf2:r` (incapacitation) **Trigger** The tengu critically hits with a beak Strike. **Effect** The tengu attempts to peck out its victim's eyes. The target must attempt a DC 17 Fortitude save."
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee",
+            "desc": "`pf2:1` Beak +10 (finesse)\n__Damage__  1d6 + 2 piercing"
+          },
+          {
+            "name": "Occult Spontaneous Spells",
+            "desc": "DC 17, attack +9; __2nd __  _<STATBLOCK-WIKI-LINK>Blur<STATBLOCK-WIKI-LINK>_, _<STATBLOCK-WIKI-LINK>3-Rules/Character Building/Spells/Invisibility|Invisibility<STATBLOCK-WIKI-LINK>, _<STATBLOCK-WIKI-LINK>Mirror Image<STATBLOCK-WIKI-LINK>_; __1st __  _<STATBLOCK-WIKI-LINK>Force Barrage<STATBLOCK-WIKI-LINK>_, _<STATBLOCK-WIKI-LINK>Grim Tendrils<STATBLOCK-WIKI-LINK>_, _<STATBLOCK-WIKI-LINK>Kinetic Ram<STATBLOCK-WIKI-LINK>_, <STATBLOCK-WIKI-LINK>Mystic Armor<STATBLOCK-WIKI-LINK>\n__Cantrips__  __(2nd)__ _<STATBLOCK-WIKI-LINK>Ghost Sound<STATBLOCK-WIKI-LINK>_, _<STATBLOCK-WIKI-LINK>Needle Darts<STATBLOCK-WIKI-LINK>_, _<STATBLOCK-WIKI-LINK>Read the Air<STATBLOCK-WIKI-LINK>_"
+          },
+          {
+            "name": "Sneak Attack",
+            "desc": "  The tengu deals an additional 1d6 precision damage to <STATBLOCK-WIKI-LINK>Conditions/Off-Guard|Off-Guard<STATBLOCK-WIKI-LINK> creatures."
+          },
+          {
+            "name": "Surprise Attacker",
+            "desc": "  On the first round of combat, creatures that haven't acted yet are <STATBLOCK-WIKI-LINK>Conditions/Off-Guard|Off-Guard<STATBLOCK-WIKI-LINK> to the tengu."
+          }
+        ]
+      }
+    ],
+    [
+      "Ebon Aspect",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "token": "<STATBLOCK-WIKI-LINK>Three Faces of Evil Banner.png| <STATBLOCK-WIKI-LINK>",
+        "source": "Homebrew",
+        "name": "Ebon Aspect",
+        "level": "Creature 7",
+        "alignment": "NE",
+        "size": "Large",
+        "trait_01": "<STATBLOCK-WIKI-LINK>fiend<STATBLOCK-WIKI-LINK>",
+        "trait_02": "<STATBLOCK-WIKI-LINK>demon<STATBLOCK-WIKI-LINK>",
+        "trait_03": "<STATBLOCK-WIKI-LINK>unholy<STATBLOCK-WIKI-LINK>",
+        "modifier": 7,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+14; darkvision"
+          }
+        ],
+        "languages": "Abyssal, Common, Infernal",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "Athletics +18, Intimidation +16, Religion +14, Arcana +13, Acrobatics +12"
+          }
+        ],
+        "abilityMods": [
+          5,
+          1,
+          4,
+          2,
+          3,
+          3
+        ],
+        "speed": "40 feet, climb 20 feet",
+        "sourcebook": "Homebrew",
+        "ac": 25,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "25; __Fort__ +16, __Ref__ +12, __Will__ +14"
+          }
+        ],
+        "hp": 145,
+        "health": [
+          {
+            "name": "Resistances",
+            "desc": "acid 10, fire 10"
+          },
+          {
+            "name": "Immunities",
+            "desc": "cold"
+          },
+          {
+            "name": "Weaknesses",
+            "desc": "holy 5"
+          },
+          {
+            "name": "HP",
+            "desc": "145; __Hardy Defenses__: SR 19 (reaction: see Blessing of Vecna); DR 5 (magic)"
+          }
+        ],
+        "abilities_top": [
+          {
+            "name": "Items",
+            "desc": ""
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Blessing of Vecna",
+            "desc": "`pf2:r` (Divine, Healing, Magical) **Trigger:** A spell targeting the Ebon Aspect fails to affect it due to it's immunities or resistances. **Effect:** Once per round the Ebon Aspect regains HP equal to twice the amount of the resisted damage."
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee",
+            "desc": "`pf2:1` Bite +18 (magical)\n__Damage__ 1d10+7 piercing plus 1d6 evil"
+          },
+          {
+            "name": "Melee.",
+            "desc": "`pf2:1` Claw +17 (agile, magical)\n__Damage__ 1d6+5 slashing"
+          },
+          {
+            "name": "Melee..",
+            "desc": "`pf2:1` Claw (Mangled) +17 (agile, magical)\n__Damage__ 1d4+5 bludgeoning\n__Effect__ On a critical hit, the target is Clumsy 1 for 1 round as the malformed limb smashes their defenses"
+          },
+          {
+            "name": "Bloodthirst of Erythnul",
+            "desc": "`pf2:0` (Divine, Emotion, Fortune) **Trigger:** The Ebon Aspect scores a critical hit or is reduced to half its HP or less. **Frequency:** Once per day **Effect:** For 1 round, the Ebon Aspect gains:\n\n- Resistance 10 to all damage (bypassed by +2 or higher potency weapons)\n\n- Fast Healing 10\n\n- +2 status bonus to attack and damage rolls\n\n- Melee Strikes gain the <STATBLOCK-WIKI-LINK>Forceful<STATBLOCK-WIKI-LINK> trait"
+          },
+          {
+            "name": "Standard of Hextor",
+            "desc": "`pf2:2` (Divine, Force, Visual) **Frequency:** Once per day **Effect:** Casts a heightened version of <STATBLOCK-WIKI-LINK>Spiritual Weapon<STATBLOCK-WIKI-LINK> (4th level) The weapon appears as a flail adjacent to a target within 60 ft.  It makes a Strike at +13 to hit, 2d8+3 force damage.  The weapon lasts 1 minute and further Strikes require 1 action per attack."
+          }
+        ]
+      }
     ]
   ],
   "defaultLayouts": {},

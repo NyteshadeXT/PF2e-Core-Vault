@@ -1,15 +1,14 @@
 ---
 tags:
+  - "#Adventure"
   - "#Location"
   - "#Geography"
-  - "#Adventure"
 art: zz-Attachments/Whispering Cairn Banner.png
 adventure_level: 1
 adventure_status: Complete
 total_xp: 1539
 completed_xp: 1479
-whichparty:
-  - "[[Age of Worms Party Dashboard]]"
+whichparty: "[[Age of Worms Party Dashboard]]"
 awarded_pp: 0
 awarded_gp: 160
 awarded_sp: 47
@@ -142,7 +141,7 @@ darkMode: false
 # Part 1: A Face in Darkness
 ![[The Whispering Cairn-Entrance.webp]]
 
-The yawning entrance to the Whispering Cairn lies about 10 minutes east of the abandoned mine office, a wide monolith-lined portal partially obscured by underbrush and boulders. Assuming the PCs have a general idea of where to look, discovering the entrance requires a DC 10 [[Perception]] check. Unless the PCs spend 10 minutes working to clear the brush and assorted debris from around the entarnce, treat the squares leading form the hillside to [[4-Campaign/Age of Worms/The Whispering Cairn#1. Cowards Rest|area 1]] as difficult terrain.
+The yawning entrance to the Whispering Cairn lies about 10 minutes east of the abandoned mine office, a wide monolith-lined portal partially obscured by underbrush and boulders. Assuming the PCs have a general idea of where to look, discovering the entrance requires a DC 10 [[Perception]] check. Unless the PCs spend 10 minutes working to clear the brush and assorted debris from around the entarnce, treat the squares leading form the hillside to [[The Whispering Cairn#1. Cowards Rest|area 1]] as difficult terrain.
 
 Unless otherwise noted, interior passages are 20 feet wide and 20 fee tall, with ceilings of smooth stone.
 
@@ -166,9 +165,9 @@ The bedroll has hardened and become brittle with age, and cracks if examined too
 
 A DC 10 [[seek]] action by any character examining the patterned bands upon the walls reveals thin hollow tubes hidden within the pattern work.  The strange whispers filling the hall seem to emit from these holes.  The tubes extend to the surface of the mound above the cairn, where hundreds of tiny holes catch the wind and project it into the tomb.  The outdoor holes are well hidden (and many of them have been covered over and filled with debris), requiring a DC 20 [[seek]] action to discover them.
 
-The patterned bands bisect the walls all the way to [[4-Campaign/Age of Worms/The Whispering Cairn#4. Hall of Honor (Moderate)|area 4]], where more intricate frescoes replace them.
+The patterned bands bisect the walls all the way to [[The Whispering Cairn#4. Hall of Honor (Moderate)|area 4]], where more intricate frescoes replace them.
 
-Every three rounds, allow the PCs a DC 10 [[Seek]] check to notice a faint flickering green light coming from the north.  This DC decreases by 5 halfway down the passage, and the light becomes obvious by the time the PCs reach [[4-Campaign/Age of Worms/The Whispering Cairn#4. Hall of Honor (Moderate)|area 4]].  The light comes from a guttering everburning torch in [[4-Campaign/Age of Worms/The Whispering Cairn#7. False Tomb|area 7]].
+Every three rounds, allow the PCs a DC 10 [[Seek]] check to notice a faint flickering green light coming from the north.  This DC decreases by 5 halfway down the passage, and the light becomes obvious by the time the PCs reach [[The Whispering Cairn#4. Hall of Honor (Moderate)|area 4]].  The light comes from a guttering everburning torch in [[The Whispering Cairn#7. False Tomb|area 7]].
 
 ![[Broken Portal.webp]]
 [[Broken Portal.webp|Show to Players]]
@@ -192,7 +191,7 @@ Every three rounds, allow the PCs a DC 10 [[Seek]] check to notice a faint flick
 
 A DC 5 [[seek]] action turns up a few shards of an unidentifiable shiny black substance that feels like stone.  It is slightly cold to the touch.  Anyone inspecting the frame can make a DC 15 [[seek]] action to discover numerous runes and glyphs carved into a slot on the inside of the frame, where the "mirror's" glass would have been held.  These can be identified as arcane symbols signifying transportation with a successful DC 10 [[Skills#arcana|Arcana]] check.
 
-In ancient days, a grand ring of portals connected several Aetherial Warden burial cairns, but now only two such portals still function, the one in [[4-Campaign/Age of Worms/The Whispering Cairn#3. Collapsed Passage|area 3]] and it's partner in the undisturbed cairn of Icosiol, the slain Warden whose grand tomb served as the main stop along the circle of black glass gates.  The base of the apparatus bears Icosiol's personal sigil, which has been all but forgotten by history.  See the Glyphs of the Aetherial Wardens sidebar for more information on how the PCs can learn more about the strange symbol.
+In ancient days, a grand ring of portals connected several Aetherial Warden burial cairns, but now only two such portals still function, the one in [[The Whispering Cairn#3. Collapsed Passage|area 3]] and it's partner in the undisturbed cairn of Icosiol, the slain Warden whose grand tomb served as the main stop along the circle of black glass gates.  The base of the apparatus bears Icosiol's personal sigil, which has been all but forgotten by history.  See the Glyphs of the Aetherial Wardens sidebar for more information on how the PCs can learn more about the strange symbol.
 
 > [!tip]+ Treasure
 > The shards of glass might fetch as much as 5 gp from the right buyer.  In [[Diamond Lake]], that means the gnome jeweler [[Tidwoad]] or the magician [[Allustan]].
@@ -200,9 +199,9 @@ In ancient days, a grand ring of portals connected several Aetherial Warden buri
 > - [x] gp::5
 
 ### Development
-If the PCs make too much noise in this area, they may be detected by the wolves in [[4-Campaign/Age of Worms/The Whispering Cairn#4. Hall of Honor (Moderate)|area 4]].  Each of the three wolves has a -2 modifier on it's [[Skills#Perception|Perception]] check due to distance.  The DC for this check varies depending upon the PCs volume, ranging from 0 to 10.
+If the PCs make too much noise in this area, they may be detected by the wolves in [[The Whispering Cairn#4. Hall of Honor (Moderate)|area 4]].  Each of the three wolves has a -2 modifier on it's [[Skills#Perception|Perception]] check due to distance.  The DC for this check varies depending upon the PCs volume, ranging from 0 to 10.
 
-Every three rounds, allow the PCs a [[Skills#Perception|Perception]] check (DC 10) to notice a faint flickering green light coming from the north ([[4-Campaign/Age of Worms/The Whispering Cairn#7. False Tomb|area 7G]]). 
+Every three rounds, allow the PCs a [[Skills#Perception|Perception]] check (DC 10) to notice a faint flickering green light coming from the north ([[The Whispering Cairn#7. False Tomb|area 7G]]). 
 
 ## 3. Collapsed Passage 
 > [!note]+ Read Aloud
@@ -211,9 +210,9 @@ Every three rounds, allow the PCs a [[Skills#Perception|Perception]] check (DC 1
 There's a functioning portal beyond this collapsed passage, but there is no way for the PCs to reach it now.  This portal comes into play in a Future Age of Worms adventure.
 
 ### Development 
-If the PCs make too much noise in this area, there is a chance the wolves in [[4-Campaign/Age of Worms/The Whispering Cairn#4. Hall of Honor (Moderate)|area 4]] hear them.  Each of the three wolves has a -2 modifier on it's [[Skills#Perception|Perception]] check due to distance.  The DC for this check varies depending upon the PCs' volume, ranging from 0 to 10.
+If the PCs make too much noise in this area, there is a chance the wolves in [[The Whispering Cairn#4. Hall of Honor (Moderate)|area 4]] hear them.  Each of the three wolves has a -2 modifier on it's [[Skills#Perception|Perception]] check due to distance.  The DC for this check varies depending upon the PCs' volume, ranging from 0 to 10.
 
-Every three rounds, allow the PCs a DC 10 [[Skills#Perception|Perception]] check to notice a faint flickering green light coming form the north ([[4-Campaign/Age of Worms/The Whispering Cairn#7. False Tomb|area 7G]]).
+Every three rounds, allow the PCs a DC 10 [[Skills#Perception|Perception]] check to notice a faint flickering green light coming form the north ([[The Whispering Cairn#7. False Tomb|area 7G]]).
 
 ## 4. Hall of Honor (Level 1)
 > [!note]+ Read Aloud
@@ -227,9 +226,9 @@ Every three rounds, allow the PCs a DC 10 [[Skills#Perception|Perception]] check
 
 Anyone able to speak Auran gets the distinct impression that the whispers in this chamber are more than just a trick of wind and pipes. Occasionally, such folk can make out what must be words in the language of elemental air - words like "hopeless, sacrilege, enemies," and so on.  The words come form specially prepared air tubes leading to the surface, and are little more than a subtle way to discourage tomb robbery in a language few modern tomb robbers are likely to understand.
 
-Thick cobwebs completely cover the arch leading to [[4-Campaign/Age of Worms/The Whispering Cairn#7. False Tomb|area 7]], blocking any view of that chamber beyond a flickering green light that seems to be a good distance to the north.  Characters standing within 5 feet of the cobwebs can see through the mess enough to notice that a short flight of stairs descends from the arch, but more detail than that is impossible to make out.  Dozens of tiny spiders dwell within these webs, but they are completely harmless.  Slashing through the webs is a full-round action.  A character can barrel his way through the mess but in doing so be becomes completely covered by spider webs to the point at which he can no longer see.  Clearing webs from the eyes of such a character requires a [[3-Rules/trait_reference/manipulate|manipulate]] action.
+Thick cobwebs completely cover the arch leading to [[The Whispering Cairn#7. False Tomb|area 7]], blocking any view of that chamber beyond a flickering green light that seems to be a good distance to the north.  Characters standing within 5 feet of the cobwebs can see through the mess enough to notice that a short flight of stairs descends from the arch, but more detail than that is impossible to make out.  Dozens of tiny spiders dwell within these webs, but they are completely harmless.  Slashing through the webs is a full-round action.  A character can barrel his way through the mess but in doing so be becomes completely covered by spider webs to the point at which he can no longer see.  Clearing webs from the eyes of such a character requires a [[3-Rules/trait_reference/manipulate|manipulate]] action.
 
-Even a casual inspection ([[Skills#Perception|Perception]] DC 8) reveals that the east wing is not as collapsed as it first appears.  A 10-foot-wide opening in the middle of the debris leads to the wolves den, [[4-Campaign/Age of Worms/The Whispering Cairn#5. Wolf Den|area 5]].
+Even a casual inspection ([[Skills#Perception|Perception]] DC 8) reveals that the east wing is not as collapsed as it first appears.  A 10-foot-wide opening in the middle of the debris leads to the wolves den, [[The Whispering Cairn#5. Wolf Den|area 5]].
 
 **Encounter Difficulty:**   
 - [x] Moderate (80 XP) Level 1
@@ -261,7 +260,7 @@ The wolves dwell in the nearly blocked-off terminus of the east wing.  Medium or
 > [!tip]+ Treasure
 > A DC 10 [[seek]] action in the northern half of the den turns up an old leather backpack half-buried under a pile of humanoid bones.  The bag contains an elaborate lantern of indigo metal inset with indigo glass panes.  The lantern is worth 12 gp.  A DC 15 [[seek]]j on the opposite side of the room turns up an intricately carved armband of unmistakable elven craftsmanship, bearing a repeating leaf motif.  The armband is worth 20 gp to a non-elf, and 25 gp to an elf NPC (such as the [[Diamond Lake]] mine manager [[Ellival Moonmeadow]] or one of his servitors).
 > 
-> A DC 20 [[seek]] action of the rubble mostly blocking off the passage turns up what appears to be a marble index finger cracked off a statue.  The finger exactly matches the right hand of the bas-relief sarcophagus lid figure in [[4-Campaign/Age of Worms/The Whispering Cairn#7. False Tomb|area 7]].
+> A DC 20 [[seek]] action of the rubble mostly blocking off the passage turns up what appears to be a marble index finger cracked off a statue.  The finger exactly matches the right hand of the bas-relief sarcophagus lid figure in [[The Whispering Cairn#7. False Tomb|area 7]].
 > 
 > - [x] gp::20
 
@@ -285,11 +284,11 @@ The sarcophagus in the center of the chamber might suggest that this is the fina
 > ![[Sarcophagus.png]]
 > [[Sarcophagus.png|Show to Players]]
 
-At the center of the chamber is a raised platform, upon which sits a sealed sarcophagus.  The lid bears a white stone relief of a tall figure cloaked in a simple garment of allowing cloth.  It's difficult to say why, exactly, but the outfit conjures thoughts of ancient times.  The figure at first looks human, but a cursory examination reveals that it is about 7 feet tall, is completely hairless and is of indeterminate sex. It's arms and hands rest at its side.  The left hand curls upon itself in a fist, but the right is placed palm up, with the thumb turned in and all but the index finger held parallel to the arm.  The index finger, originally curled under the thumb (see illustration), was broken off by tomb raiders centuries ago and now rests amid the rubble in [[4-Campaign/Age of Worms/The Whispering Cairn#5. Wolf Den| area 5]]. The extended fingers represent a clue to the location of the true tomb.
+At the center of the chamber is a raised platform, upon which sits a sealed sarcophagus.  The lid bears a white stone relief of a tall figure cloaked in a simple garment of allowing cloth.  It's difficult to say why, exactly, but the outfit conjures thoughts of ancient times.  The figure at first looks human, but a cursory examination reveals that it is about 7 feet tall, is completely hairless and is of indeterminate sex. It's arms and hands rest at its side.  The left hand curls upon itself in a fist, but the right is placed palm up, with the thumb turned in and all but the index finger held parallel to the arm.  The index finger, originally curled under the thumb (see illustration), was broken off by tomb raiders centuries ago and now rests amid the rubble in [[The Whispering Cairn#5. Wolf Den| area 5]]. The extended fingers represent a clue to the location of the true tomb.
 
-The finger wears a scarab-like amulet around it's neck, inscribed with the personal symbol of Zosiel.  Like Icosiol's personal glyph in [[4-Campaign/Age of Worms/The Whispering Cairn#2. Transport Alcove|area 2]], this symbol has been all but forgotten in the modern age.  A DC 20 [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check reveals only that is is a personal glyph of some powerful elemental entity.  See the Glyphs of the Aetherial Wardens sidebar for more information on how the PCs can learn more about the strange symbol.
+The finger wears a scarab-like amulet around it's neck, inscribed with the personal symbol of Zosiel.  Like Icosiol's personal glyph in [[The Whispering Cairn#2. Transport Alcove|area 2]], this symbol has been all but forgotten in the modern age.  A DC 20 [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check reveals only that is is a personal glyph of some powerful elemental entity.  See the Glyphs of the Aetherial Wardens sidebar for more information on how the PCs can learn more about the strange symbol.
 
-The sarcophagus rests upon a small raised platform carved in the shape of a stylistic arrow, wit the tip aligned with the head of the relief figure upon the lid and a short "shaft" extending from the foot of the sarcophagus. A DC 15 [[Skills#Athletics|Athletics]] check is sufficient to shift the sarcophagus platform one "click" clockwise, until it comes to rest pointed at the next short tunnel extending from the central chamber. See the tunnel descriptions below for details on what happens when the arrow points at each tunnel.  The sarcophagus platform cannot be moved counter-clockwise.  When the PCs arrive, the arrow's tip points to the orange lantern ([[4-Campaign/Age of Worms/The Whispering Cairn#7. False Tomb|area 7O]]).  The sarcophagus bears a fiery arcane trap set to trigger when the lid is lifted off the stone coffin, and is completely empty.
+The sarcophagus rests upon a small raised platform carved in the shape of a stylistic arrow, wit the tip aligned with the head of the relief figure upon the lid and a short "shaft" extending from the foot of the sarcophagus. A DC 15 [[Skills#Athletics|Athletics]] check is sufficient to shift the sarcophagus platform one "click" clockwise, until it comes to rest pointed at the next short tunnel extending from the central chamber. See the tunnel descriptions below for details on what happens when the arrow points at each tunnel.  The sarcophagus platform cannot be moved counter-clockwise.  When the PCs arrive, the arrow's tip points to the orange lantern ([[The Whispering Cairn#7. False Tomb|area 7O]]).  The sarcophagus bears a fiery arcane trap set to trigger when the lid is lifted off the stone coffin, and is completely empty.
 
 > [!danger]+ Sarcophagus Trap
 > [[gout-of-flame-hb|Gout of Flame]]
@@ -300,7 +299,7 @@ The ceiling of these tunnels is 10 feet off the ground, but the alcove ceilings 
 
 The lanterns are an elaborate key mechanism.  When torches have been placed inside all of the lanterns, the mouth of the howling face bas-relief in area 8 opens, revealing passage to Zosiel's true tomb.  When all seven lanterns have been lit, the glass and metal chips imbedded in the dome ceiling cast eerie reflections about the room, making it difficult to concentrate within the chamber.  All attack rolls made by anyone within the room when all lanterns have been lit suffer a -2 penalty due to the distracting effect.
 
-As noted above, two lanterns are nowhere to be seen.  The indigo lantern rests in a backpack in [[4-Campaign/Age of Worms/The Whispering Cairn#5. Wolf Den]], while the red lantern is submerged in area 20 of the laborers' quarters.
+As noted above, two lanterns are nowhere to be seen.  The indigo lantern rests in a backpack in [[The Whispering Cairn#5. Wolf Den]], while the red lantern is submerged in area 20 of the laborers' quarters.
 
 A DC 10 [[Seek]] check at the end of each tunnel is sufficient to turn up a 5-foot-diameter circle carved into the floor, directly below the hanging lantern (or where a hanging lantern would be in the case of the red and indigo tunnels).  The circles form the tops of arcane elevators in the case of the yellow, green, and indigo tunnels and are merely decorative in the case of all other tunnels.
 
@@ -318,7 +317,7 @@ When a PC enters the cylinder, read:
 > [!note]+ Read Aloud
 > The doors immediately slam closed, and the entire contraptions lowers itself into the floor.  The stone "cap" locks into place once it goes flush with the floor, but the rest of the apparatus continues downward, finally coming to rest.  The doors slide open quietly when the elevator comes to a stop.  
 
-After traveling down for about a round the apparatus arrives in area 9.  One round after the passenger exits the cylinder, the doors close and the contraption rises on a column of air to return to [[4-Campaign/Age of Worms/The Whispering Cairn#7. False Tomb]].  If the arrow platform above is moved to point to another tunnel while the cylinder is at rest in area 9, the elevator remains at the bottom of the shaft until the arrow once more points at the yellow tunnel.  A button inset into the wall near the bottom of the shaft calls the elevator down at any time.
+After traveling down for about a round the apparatus arrives in area 9.  One round after the passenger exits the cylinder, the doors close and the contraption rises on a column of air to return to [[The Whispering Cairn#7. False Tomb]].  If the arrow platform above is moved to point to another tunnel while the cylinder is at rest in area 9, the elevator remains at the bottom of the shaft until the arrow once more points at the yellow tunnel.  A button inset into the wall near the bottom of the shaft calls the elevator down at any time.
 
 **Green:** Several years ago, an explorer placed an everburning torch in the green lantern that hangs at the end of this tunnel, and it has remained here ever since.  Like the yellow passage, this tunnel boasts an arcane elevator that descends to another sub-dungeon, in this case the lair of the eight Aetherial Warden laborers who helped Nadroc build Zosiel's tomb.  Unlike the previous elevator, however, this one is jammed and is not likely to survive much experimentation.
 
@@ -355,7 +354,7 @@ A the top of the shaft, another passage leads to the northeast (area 8). To reac
 
 A skeleton lies in a heap on the floor here.  A DC 15 [[Skills#Medicine|Medicine]] check reveals several crushed bones, as if the unlucky fellow died from a great fall.
 
-**Indigo:** The chain at the end of this passage ends in a simple hook, as the indigo lantern was stolen years ago and eventually ended up in a backpack in [[4-Campaign/Age of Worms/The Whispering Cairn#5. Wolf Den]].  If the arrow platform points at this tunnel, a metal arcane elevator identical in appearance to the described in the yellow passage above rises from the floor under the dangling chain.  Characters inspecting the apparatus notice numerous crushed bones and moldy clothes upon the floor of the cylinder, an obvious clue that all is not as it should be with this arcane elevator.  Two rounds after a character stands within the cylinder the doors close and the contraption utterly crushes everything within it, sinking back into the ground until the arrow structure once more points at the indigo corridor.
+**Indigo:** The chain at the end of this passage ends in a simple hook, as the indigo lantern was stolen years ago and eventually ended up in a backpack in [[The Whispering Cairn#5. Wolf Den]].  If the arrow platform points at this tunnel, a metal arcane elevator identical in appearance to the described in the yellow passage above rises from the floor under the dangling chain.  Characters inspecting the apparatus notice numerous crushed bones and moldy clothes upon the floor of the cylinder, an obvious clue that all is not as it should be with this arcane elevator.  Two rounds after a character stands within the cylinder the doors close and the contraption utterly crushes everything within it, sinking back into the ground until the arrow structure once more points at the indigo corridor.
 
 > [!danger]+ Trap
 > [[false-elevator-hb|False Elevator]]
@@ -387,7 +386,7 @@ If the party is completely flummoxed by this room, a fortuitously timed "refresh
 The physiology of the face is identical to that of the near-human sexless figure depicted in bas-relif upon the sarcophagus in the room below.  The screaming visage dominates the entire 20 foot by 20 foot wall at the end of the corridor.  Anyone walking down the hall may take a DC 15 [[seek]] action.  If successful, read:
 
 > [!note]+ Read Aloud
-> You notice several long scratch marks in the floor, as if something had been dragged toward the lip leading 40 feet down to [[4-Campaign/Age of Worms/The Whispering Cairn#7. False Tomb]].  
+> You notice several long scratch marks in the floor, as if something had been dragged toward the lip leading 40 feet down to [[The Whispering Cairn#7. False Tomb]].  
 
 These marks were left by victims blown away by the blasting winds of the trap, leftovers of futile attempts to slow their trajectory by jamming a dagger into the floor.
 
@@ -400,7 +399,7 @@ These marks were left by victims blown away by the blasting winds of the trap, l
 > 
 > Blown away characters are knocked prone and tumble `dice: 1d4*10`  1d4x10 fee, taking `dice: 1d4` 1d4 points of nonlethal damage per 10 feet.  Flying characters are blown back `dice: 2d6*10` 2d6x10 feet and take `dice: 2d6` 2d6 points of nonlethal damage due to battering and buffeting.  Non-flying characters pushed over the edge of the shaft plummet to the floor below suffering `dice: 4d6` 4d6 points of damage upon impact.  Such characters may attempt to snatch the indigo lantern's chain with a successful DC 10 [[Skills#Acrobatics]] check or a DC 15 Reflex save, with success preventing the fall and the damage.
 > 
-> The wind continues at hurricane force for 10 minutes before it stops and the trap resets itself.  The only way through the face is to ignite torches in [[4-Campaign/Age of Worms/The Whispering Cairn#7. False Tomb]].  Once a torch has been lit, that color fails to appear in the face's hypnotic eyes.  When all torches have been lit, the trap is effectively disarmed.  The stone comprising the mouth's interior vanishes, allowing passage to the chamber beyond.
+> The wind continues at hurricane force for 10 minutes before it stops and the trap resets itself.  The only way through the face is to ignite torches in [[The Whispering Cairn#7. False Tomb]].  Once a torch has been lit, that color fails to appear in the face's hypnotic eyes.  When all torches have been lit, the trap is effectively disarmed.  The stone comprising the mouth's interior vanishes, allowing passage to the chamber beyond.
 - [x] Trap (40 XP)
 
 # Lair of the Architect
@@ -864,7 +863,7 @@ If the addressed character utters the word "Zosiel," bright blue light sines aro
 > - [x] permanent::[[Silver Diadem of Insight|Silver Diadem of Insight]] [ilvl::3] [gp::60]
 
 # Part 3. Tomb Stories
-In this brief interlude, the PCs take Alastor Land's bones from [[4-Campaign/Age of Worms/The Whispering Cairn#23. Alastor's Haunt]] of the Whispering Cairn to his family's private graveyard, on a farmstead about 10 minutes east of [[Diamond Lake]]. Before young Alastor's ghost allows the PCs to proceed through the Whispering Cairn he wants them to bury his remains with those of his family, so that his curse can be lifted and he can move on to the afterworld.
+In this brief interlude, the PCs take Alastor Land's bones from [[The Whispering Cairn#23. Alastor's Haunt]] of the Whispering Cairn to his family's private graveyard, on a farmstead about 10 minutes east of [[Diamond Lake]]. Before young Alastor's ghost allows the PCs to proceed through the Whispering Cairn he wants them to bury his remains with those of his family, so that his curse can be lifted and he can move on to the afterworld.
 
 This seemingly easy mission takes a challenging turn when the PCs visit the family graveyard and discover that the bodies of Alastor's father, mother, brother, and sister have been moved recently and take off to places unknown.  Investigating of the Land farm house leads to an exciting battle with a wounded owlbear and turns up clues implicating a gang of toughs in service to the mine manager [[Balabar Smenk]], leading directly to Part Four: The Gang.
 
@@ -1182,7 +1181,7 @@ creatures:
   - 3: Zombie Shambler
 ```
 
-Assuming the PCs employ stealth, they may access this room without FIlge's knowledge, catching him unawares as he conducts magical-medical experiments on the corpse upon his operating table.  As he stiches and saws, the sallow skinned necromancer sings a dreadful melody in the hoarse, hacking voice of an addict.  He moves to attack at the first sight of intruders, pulling up short only if confronted by a truly impressive display (such as the head of Kullen or all of the zombies from [[4-Campaign/Age of Worms/The Whispering Cairn#5. Feasting Hall]] in thrall to a PC).  Even then, FIlge negotiates only if a PC makes a successful [[Skills#Intimidation|Intimidation]] check.
+Assuming the PCs employ stealth, they may access this room without FIlge's knowledge, catching him unawares as he conducts magical-medical experiments on the corpse upon his operating table.  As he stiches and saws, the sallow skinned necromancer sings a dreadful melody in the hoarse, hacking voice of an addict.  He moves to attack at the first sight of intruders, pulling up short only if confronted by a truly impressive display (such as the head of Kullen or all of the zombies from [[The Whispering Cairn#5. Feasting Hall]] in thrall to a PC).  Even then, FIlge negotiates only if a PC makes a successful [[Skills#Intimidation|Intimidation]] check.
 
 A 5-foot-tall human skeleton follows FIlge everywhere he goes, acting as a mobile bookstand and dogsbody.  This is poor Gertia Land, youngest of Alastor Land's siblings.  A DC 15 [[Skills#Medicine|Medicine]] check identifies subtle deformities to her skull that are the hallmarks of the Red Death plague that swept [[Diamond Lake]] 19 years ago.  The skeleton wears a rusty old scimitar in a belt scabbard and will use it at Filge's command.
 

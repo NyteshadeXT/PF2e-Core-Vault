@@ -75,7 +75,7 @@ awarded_consumable_items:
 > SORT file.name ASC
 
 
-Located on the outskirts of the [[Diamond Lake]] community, a ruined mine office and dwelling sits unoccupied, without an owner. This crumbling office is the site of the PCs’ first meeting in “[[4-Campaign/Age of Worms/The Whispering Cairn]]”. The previous owner of the building, the mining manager Ulgo Fant, abandoned the place more than fifty years ago when his mine ran dry. When he died over a decade ago, the property was left without an owner. Few have bothered to visit this wreck since its abandonment. Young children from the town often come up to the building on a dare and a few years back an inexperienced thief took up residence here before moving onto more lucrative trade routes.
+Located on the outskirts of the [[Diamond Lake]] community, a ruined mine office and dwelling sits unoccupied, without an owner. This crumbling office is the site of the PCs’ first meeting in “[[The Whispering Cairn]]”. The previous owner of the building, the mining manager Ulgo Fant, abandoned the place more than fifty years ago when his mine ran dry. When he died over a decade ago, the property was left without an owner. Few have bothered to visit this wreck since its abandonment. Young children from the town often come up to the building on a dare and a few years back an inexperienced thief took up residence here before moving onto more lucrative trade routes.
 
 
 ```leaflet

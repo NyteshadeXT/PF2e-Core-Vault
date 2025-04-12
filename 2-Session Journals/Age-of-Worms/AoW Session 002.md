@@ -9,7 +9,7 @@ characters:
   - "[[Zamosshe]]"
 locations:
   - "[[Diamond Lake Mining Office|Diamond Lake Mining Office]]"
-  - "[[4-Campaign/Age of Worms/The Whispering Cairn.md|The Whispering Cairn]]"
+  - "[[The Whispering Cairn|The Whispering Cairn]]"
 aliases:
   - Getting Started
 whichparty: "[[Age of Worms Party Dashboard]]"
@@ -59,7 +59,7 @@ Figure out how to apply poison status.
 ## During
 ### Events
 
-The players finished clearing out the [[Diamond Lake Mining Office]] of creatures.  Discussed going to Diamond Lake for labor to help clean and repair the building.  They then decided to move on to [[4-Campaign/Age of Worms/The Whispering Cairn]].  Spent some time studying the broken portal near the entrance as well as the rotted out bed roll.  Akiowen was particularly suspicious of pretty much everything in the cairn.  After easily defeating the wolves they got a little bit hung up at the Gallery of Seven Lanterns.  After several attempts to determine what this was or if it was something they should be interacting with, Haight decided to move on to the "room with the green glow."  I introduced the room and ended the night there.
+The players finished clearing out the [[Diamond Lake Mining Office]] of creatures.  Discussed going to Diamond Lake for labor to help clean and repair the building.  They then decided to move on to [[The Whispering Cairn]].  Spent some time studying the broken portal near the entrance as well as the rotted out bed roll.  Akiowen was particularly suspicious of pretty much everything in the cairn.  After easily defeating the wolves they got a little bit hung up at the Gallery of Seven Lanterns.  After several attempts to determine what this was or if it was something they should be interacting with, Haight decided to move on to the "room with the green glow."  I introduced the room and ended the night there.
 
 ### Travel & Rest
 

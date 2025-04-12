@@ -7,7 +7,7 @@ art: zz-Attachments/Zamosshe.png
 Status: Active
 Player: Aaron
 Class: Wizard
-level: 2
+level: 3
 Ancestry: shisk
 Heritage: quillcoat shisk
 gender: Male

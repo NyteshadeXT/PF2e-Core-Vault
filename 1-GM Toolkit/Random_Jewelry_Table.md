@@ -1,29 +1,29 @@
 ---
-title: Random Jewelry Table
+title: Random_Jewelry_Table
 aliases: 
 category: Tool
 type: Table
 ---
 
-#  Random Jewelry Table
+#  Random_Jewelry_Table
 
-`dice: [[Random Jewelry Table^Jewelry]]`
+`dice: [[Random_Jewelry_Table#^Jewelry]]`
 
-| dice: 1d8 | Jewelry                                                                                                                                             |
-|:---------:| --------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     1     | `dice: [[Random Jewelry Table^JeweleryMagic]]` `dice: [[Random Jewelry Table^JewelryMaterial]]` `dice: [[Random Jewelry Table^Rings]]` Ring `dice: [[Random Jewelry Table^JewelryStones]]`        |
-|     2     | `dice: [[Random Jewelry Table^JeweleryMagic]]` `dice: [[Random Jewelry Table^JewelryMaterial]]` `dice: [[Random Jewelry Table^Earring]]` Earring `dice: [[Random Jewelry Table^JewelryStones]]`   |
-|     3     | `dice: [[Random Jewelry Table^JeweleryMagic]]` `dice: [[Random Jewelry Table^JewelryMaterial]]` `dice: [[Random Jewelry Table^Necklace]]` Necklace `dice: [[Random Jewelry Table^JewelryStones]]` |
-|     4     | `dice: [[Random Jewelry Table^JeweleryMagic]]` `dice: [[Random Jewelry Table^JewelryMaterial]]` `dice: [[Random Jewelry Table^Bracelet]]` Bracelet `dice: [[Random Jewelry Table^JewelryStones]]` |
-|     5     | `dice: [[Random Jewelry Table^JeweleryMagic]]` `dice: [[Random Jewelry Table^JewelryMaterial]]` `dice: [[Random Jewelry Table^Pin]]` `dice: [[Random Jewelry Table^JewelryStones]]`               |
-|     6     | `dice: [[Random Jewelry Table^JeweleryMagic]]` `dice: [[Random Jewelry Table^JewelryMaterial]]` `dice: [[Random Jewelry Table^Anklet]]` Anklet `dice: [[Random Jewelry Table^JewelryStones]]`     |
-|     7     | `dice: [[Random Jewelry Table^JeweleryMagic]]` `dice: [[Random Jewelry Table^JewelryMaterial]]` `dice: [[Random Jewelry Table^Piercing]]` Piercing `dice: [[Random Jewelry Table^JewelryStones]]` |
-|     8     | `dice: [[Random Jewelry Table^JeweleryMagic]]` `dice: [[Random Jewelry Table^JewelryMaterial]]` `dice: [[Random Jewelry Table^HairJewelry]]` `dice: [[Random Jewelry Table^JewelryStones]]`       |
+| dice: 1d8 | Jewelry                                                                                                                                                                                           |
+| :-------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1     | `dice: [[Random_Jewelry_Table^JeweleryMagic]]` `dice: [[Random_Jewelry_Table^JewelryMaterial]]` `dice: [[Random_Jewelry_Table^Rings]]` Ring `dice: [[Random_Jewelry_Table^JewelryStones]]`        |
+|     2     | `dice: [[Random_Jewelry_Table^JeweleryMagic]]` `dice: [[Random_Jewelry_Table^JewelryMaterial]]` `dice: [[Random_Jewelry_Table^Earring]]` Earring `dice: [[Random_Jewelry_Table^JewelryStones]]`   |
+|     3     | `dice: [[Random_Jewelry_Table^JeweleryMagic]]` `dice: [[Random_Jewelry_Table^JewelryMaterial]]` `dice: [[Random_Jewelry_Table^Necklace]]` Necklace `dice: [[Random_Jewelry_Table^JewelryStones]]` |
+|     4     | `dice: [[Random_Jewelry_Table^JeweleryMagic]]` `dice: [[Random_Jewelry_Table^JewelryMaterial]]` `dice: [[Random_Jewelry_Table^Bracelet]]` Bracelet `dice: [[Random_Jewelry_Table^JewelryStones]]` |
+|     5     | `dice: [[Random_Jewelry_Table^JeweleryMagic]]` `dice: [[Random_Jewelry_Table^JewelryMaterial]]` `dice: [[Random_Jewelry_Table^Pin]]` `dice: [[Random_Jewelry_Table^JewelryStones]]`               |
+|     6     | `dice: [[Random_Jewelry_Table^JeweleryMagic]]` `dice: [[Random_Jewelry_Table^JewelryMaterial]]` `dice: [[Random_Jewelry_Table^Anklet]]` Anklet `dice: [[Random_Jewelry_Table^JewelryStones]]`     |
+|     7     | `dice: [[Random_Jewelry_Table^JeweleryMagic]]` `dice: [[Random_Jewelry_Table^JewelryMaterial]]` `dice: [[Random_Jewelry_Table^Piercing]]` Piercing `dice: [[Random_Jewelry_Table^JewelryStones]]` |
+|     8     | `dice: [[Random_Jewelry_Table^JeweleryMagic]]` `dice: [[Random_Jewelry_Table^JewelryMaterial]]` `dice: [[Random_Jewelry_Table^HairJewelry]]` `dice: [[Random_Jewelry_Table^JewelryStones]]`       |
 ^Jewelry
 
 ## Jewelry Type
 
-`dice: [[Random Jewelry Table^JewelryType]]`
+`dice: [[Random_Jewelry_Table^JewelryType]]`
 
 | dice: 1d8 | Type of Jewelry |
 |:---------:|:---------------:|
@@ -39,7 +39,7 @@ type: Table
 
 ### Type of Rings
 
-`dice: [[Random Jewelry Table^Rings]]`
+`dice: [[Random_Jewelry_Table^Rings]]`
 
 | dice: 1d8 | Type of Ring       |
 |:---------:| ------------------ |
@@ -55,7 +55,7 @@ type: Table
 
 ### Type of Earrings
 
-`dice: [[Random Jewelry Table^Earring]]`
+`dice: [[Random_Jewelry_Table^Earring]]`
 
 | dice: 1d10 | Type of Earring |
 |:----------:| --------------- |
@@ -73,7 +73,7 @@ type: Table
 
 ### Type of Necklaces
 
-`dice: [[Random Jewelry Table^Necklace]]`
+`dice: [[Random_Jewelry_Table^Necklace]]`
 
 | dice: 1d8 | Type of Necklace |
 |:---------:| ---------------- |
@@ -89,7 +89,7 @@ type: Table
 
 ### Type of Bracelets
 
-`dice: [[Random Jewelry Table^Bracelet]]`
+`dice: [[Random_Jewelry_Table^Bracelet]]`
 
 | dice: 1d6 | Type of Bracelet |
 |:---------:| ---------------- |
@@ -103,7 +103,7 @@ type: Table
 
 ### Type of Brooches/Pins
 
-`dice: [[Random Jewelry Table^Pin]]`
+`dice: [[Random_Jewelry_Table^Pin]]`
 
 | dice: 1d8 | Type of Brooch/Pin |
 |:---------:| ------------------ |
@@ -119,7 +119,7 @@ type: Table
 
 ### Type of Anklets
 
-`dice: [[Random Jewelry Table^Anklet]]`
+`dice: [[Random_Jewelry_Table^Anklet]]`
 
 | dice: 1d6 | Type of Anklet |
 |:---------:| -------------- |
@@ -133,7 +133,7 @@ type: Table
 
 ### Type of Piercings
 
-`dice: [[Random Jewelry Table^Piercing]]`
+`dice: [[Random_Jewelry_Table^Piercing]]`
 
 | dice: 1d7 | Type of Piercing |
 |:---------:| ---------------- |
@@ -148,7 +148,7 @@ type: Table
 
 ### Type of Hair Jewelry
 
-`dice: [[Random Jewelry Table^HairJewelry]]`
+`dice: [[Random_Jewelry_Table^HairJewelry]]`
 
 | dice: 1d2 | Type of Hair Jewelry |
 |:---------:| -------------------- |
@@ -173,9 +173,9 @@ type: Table
 | dice: 1d100    | Inlaid stones |
 | :-: | --- |
 |  1-94   |     |
-|  95-97   | with `dice: [[Random Gems Table^GemTypePlain]]`    |
-|  98-99   | with `dice: [[Random Gems Table^GemTypePlain]]`, `dice: [[Random Gems Table^GemTypePlain]]`    |
-|  100   | with `dice: [[Random Gems Table^GemTypePlain]]`, `dice: [[Random Gems Table^GemTypePlain]]` and `dice: [[Random Gems Table^GemTypePlain]]`    |
+|  95-97   | with `dice: [[Random_Gems_Table^GemTypePlain]]`    |
+|  98-99   | with `dice: [[Random_Gems_Table^GemTypePlain]]`, `dice: [[Random_Gems_Table^GemTypePlain]]`    |
+|  100   | with `dice: [[Random_Gems_Table^GemTypePlain]]`, `dice: [[Random_Gems_Table^GemTypePlain]]` and `dice: [[Random_Gems_Table^GemTypePlain]]`    |
 ^JewelryStones
 
 ## Magic

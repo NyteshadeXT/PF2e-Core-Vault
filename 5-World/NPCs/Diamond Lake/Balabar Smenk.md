@@ -19,6 +19,7 @@ language:
   - Orcish
 occupation:
   - Mine Manager
+party1relation: Dislike
 ---
 
 > [!metadata|metadata]- Metadata 

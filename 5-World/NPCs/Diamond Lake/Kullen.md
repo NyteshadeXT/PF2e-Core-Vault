@@ -7,10 +7,11 @@ pronounced: Bal-a-bar Smen-k
 gender: Male
 age: Adult
 sexuality: Straight
-ownedlocation:
+ownedlocation: 
 location:
   - "[[Diamond Lake]]"
 condition: Healthy
+party1relation: Dislike
 ---
 
 > [!metadata|metadata]- Metadata 

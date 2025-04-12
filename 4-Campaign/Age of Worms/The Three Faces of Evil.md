@@ -3,18 +3,26 @@ tags:
   - "#Adventure"
 art: zz-Attachments/Three Faces of Evil Banner.png
 quicknote: The Three Faces of Evil requires the PCs to sneak into Dourstone Mine, destroy The Ebon Triad cultists, and defeat a newly born creature knows as the Ebon Aspect.
-whichparty:
-  - "[[Age of Worms Party Dashboard]]"
+whichparty: "[[Age of Worms Party Dashboard]]"
 adventure_status: In Progress
 adventure_level: 2
-total_xp: 1538
-completed_xp: 0
+total_xp: 2008
+completed_xp: 380
 awarded_pp: 0
-awarded_gp: 0
+awarded_gp: 49
 awarded_sp: 0
 awarded_cp: 0
 awarded_permanent_items: 
 awarded_consumable_items:
+  - name: Healing Potion (Minor)
+    ilvl: 1
+    gp: 4
+  - name: Healing Potion (Minor)
+    ilvl: 1
+    gp: 4
+  - name: Potency Crystal
+    ilvl: 1
+    gp: 4
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -67,9 +75,9 @@ Allustan recently unearthed increasing evidence of strange undead creatures infe
 
 Allustan's studies show that the worms might be somehow connected to an ancient temple hidden beneath the earth.  According to his calculations, the temple is located beneath a copper mine owned by [[Ragnolin Dourstone]]. Ragnolin is known as a surly, paranoid and greedy mine manager and [[Allustan]] fears that he may be connected to the temple if it is currently occupied.
 
-[[Allustan]] suggests that the merchant [[Balabar Smenk]] could provide a useful gateway to Ragnolin's mine.  Balabar and Ragnolin have a well know rivalry.  Neither is trustworthy, but their animosity might be enough to make Balabar open to an offer of alliance with the party.  The recover of Smenk's letter to Filge from the observatory in [[4-Campaign/Age of Worms/The Whispering Cairn|The Whispering Cairn]] suggests that Smenk knows more about the situation in the Dourstone Mine then he should.
+[[Allustan]] suggests that the merchant [[Balabar Smenk]] could provide a useful gateway to Ragnolin's mine.  Balabar and Ragnolin have a well know rivalry.  Neither is trustworthy, but their animosity might be enough to make Balabar open to an offer of alliance with the party.  The recover of Smenk's letter to Filge from the observatory in [[The Whispering Cairn|The Whispering Cairn]] suggests that Smenk knows more about the situation in the Dourstone Mine then he should.
 
-By the time the PCs have finished exploring [[4-Campaign/Age of Worms/The Whispering Cairn|The Whispering Cairn]], Smenk already hates them and wants to see them destroyed or run out of town.  Better yet, he comes upon the idea of sending them agains the cultists below the Dourstone Mine, hoping to take care of two problems at once.
+By the time the PCs have finished exploring [[The Whispering Cairn|The Whispering Cairn]], Smenk already hates them and wants to see them destroyed or run out of town.  Better yet, he comes upon the idea of sending them agains the cultists below the Dourstone Mine, hoping to take care of two problems at once.
 
 If the PCs don't set up a meeting with Smenk within a week of their encounter with Filge, the mine manager takes it upon himself to invite them to meet with him, ordering a subordinate to sneak into the PCs headquarters with a note setting up a rendezvous at Smenk's home in [[Diamond Lake]]. If the situation warrants it, perhaps Smenk kidnaps a PCs familiar just to show them that they're dealing with a professional criminal.
 
@@ -159,7 +167,7 @@ darkMode: false
 
 ## Encounter 1. The Dark Cathedral
 **Encounter Difficulty:**   
-- [ ] Moderate (80 XP) Level 3
+- [x] Moderate (80 XP) Level 3
 
 > [!note]+ Read Aloud
 > As the elevator grinds to a halt, you find yourself in a strange room. Three short passages lead away from the chamber—one to the north, another to the east, and the third to the west. Each passage ends in a marble doorway. The door to the north bears an eerie symbol—a human hand clutching an eye. Crimson banners frame the eastern doorway, each emblazoned with the image of a gauntleted fist gripping six arrows. The western door, in stark contrast, is plain and unmarked.
@@ -190,11 +198,11 @@ A DC 20 [[Seek]] check made in the area around the pool or on the platform above
 > [!tip]+ Treasure
 > The uppermost platform above the pool bears a small, wicker basket filled with an offering to the Overgod. It contains 4 gp in a leather pouch and а silver idol of Erythnul worth 10 gp.  Additionally, the guards each have one [[Healing Potion (Minor)]].  One of the guards is carrying 7 gp and a [[Potency Crystal]] while the other has a skeleton key which opens all of the locks in areas 2 though 11.
 > 
-> - [ ] gp::7
-> - [ ] gp::14
-> - [ ] consumable::[[Healing Potion (Minor)]] [ilvl::1] [gp::4]
-> - [ ] consumable::[[Healing Potion (Minor)]] [ilvl::1] [gp::4]
-> - [ ] consumable::[[Potency Crystal]] [ilvl::1] [gp::4]
+> - [x] gp::7
+> - [x] gp::14
+> - [x] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [x] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [x] consumable::[[Potency Crystal|Potency Crystal]] [ilvl::1] [gp::4]
 
 # Part 2: Citadel of Hextor
 
@@ -593,7 +601,7 @@ darkMode: false
 
 # Encounter 12: Stone Forest
 **Encounter Difficulty:**   
-- [ ] Severe (90 XP) Level 3
+- [x] Severe (120 XP) Level 3
 
 > [!note]+ Read Aloud
 > A forest of stalactites and stalagmites fills this cavern. The rocky formations make it difficult to see far ahead, as they choke most of this natural cave. The steady, rhythmic splash of water dripping into a puddle echoes through the chamber. The ground here is rough and uneven.
@@ -620,7 +628,7 @@ The morlocks attempt to hide behind the stalactites and stalagmites, granting th
 
 # Encounter 13: The Ledge
 **Encounter Difficulty:**   
-- [ ] moderate (70 XP) Level 3
+- [x] Moderate (100 XP) Level 3
 
 > [!note]+ Read Aloud
 > The corridor turns to reveal another room choked with rocky formations. Stalagmites and stalactites block the line of sight ahead. Like the last chamber, this place has а rocky, uneven floor of natural stone. It slopes downward, and here and there rivulets of water flow southward.
@@ -655,7 +663,7 @@ The kennel master attempts to hide at his location ([[Spot]] DC 19) As the PCs e
 > [!tip]+ Treasure
 > If the PCs make а DC 15 [[Search]] of the area they find a rough campsite where the morlock has stashed four agates worth 2 gp each and a large ruby worth 20 gр.
 > 
-> - [ ] gp::28
+> - [x] gp::28
 
 ## 14-17: The Horseshoe Cavern
 The following encounter areas require a thorough familiarity with the rules for the Climb skill and falling. The PCs must navigate a cavern shaped like a 2 horseshoe, first climbing down the cliff in area 14 while morlock archers pelt them with arrows, then across the cavern floor (area 16) while risking an attack from the chokers in that area, and then back up a cliff face to area 17. The PCs might also take the short cut through area 15, but they must then face the morlock barbarian who guards that passage. However, that might be preferable to battling her while trying to climb to area 17 from the cavern floor.
@@ -664,7 +672,7 @@ The morlocks use the terrain to their advantage. They remain out of melee range,
 
 # Encounter 14: Descent into the Dark
 **Encounter Difficulty:**   
-- [ ] low (60 XP) Level 2
+- [x] Moderate (80 XP) Level 3
 
 > [!note]+ Read Aloud
 > A great pit drops into darkness. Crude, iron spikes have been driven into the cliff face, offering you a convenient path downward. The shaft's roof is fifteen feet above the cliffs edge. Jagged stalactites hang from the ceiling.
@@ -970,6 +978,31 @@ of Vecna can find them automatically—the magic of this place makes the door ob
 ## Inner Sanctum Features
 Areas 23 through 27 of this portion of the dungeon comprise the inner sanctum of Vecna. These chambers are wellbuilt, with smooth, polished floors and expertly crafted features. The doors and secret doors are as described above. In addition, these rooms are lit by continual flame spells cast upon the walls at 20-foot intervals.
 
+```leaflet
+### Tutorial: https://youtu.be/54EyMzJP5DU
+### id must be unique
+id: update-me
+image: [[Labyrinth of Vecna.png]]
+height: 1000px
+width: 70%
+### This sets where the map starts by default. Set it to the middle (half) of your bounds. 
+lat: 50
+long: 50
+### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map. 
+minZoom: 0
+### Max zoom is 18. 
+maxZoom: 18
+### Hover mouse over the Reset Zoom icon to see your current zoom level. 
+defaultZoom: 16
+### How far it zooms in or out with each step. Can be in decimals. 
+zoomDelta: 0.5
+### This is a string so can be any text. Change it to match your maps measurement scale. 
+unit: feet
+scale: 1
+darkMode: false
+```
+
+
 # Encounter 22: The Labyrinth
 > [!note]+ Read Aloud
 > А smooth, gray, stone corridor stretches about thirty feet ahead before it comes to an intersection. The stonework here is smooth and expertly crafted.
@@ -985,7 +1018,7 @@ Four groups of monsters inhabit the labyrinth, three small bands of tengu and a 
 **Group 1:** These six tengu rogues are charged with watching over the entrance to the labyrinth. They use а small peep hole in the secret раsage east of their campsite to watch the entrance.
 
 **Encounter Difficulty:**   
-- [ ] Moderate (80 XP) Level 4
+- [ ] Severe (120 XP) Level 4
 
 At the start of the encounter, place the following foes on the map: 
  - 6: [[3-Rules/Bestiaries/Monster Core/Tengu Sneak|Tengu Sneak]] W
@@ -1000,7 +1033,7 @@ creatures:
 **Group 2:** A second group of six tengu rogues serves as backup to group 1. They move out to stalk the maze if they receive word of trouble from their brethren.
 
 **Encounter Difficulty:**   
-- [ ] Moderate (80 XP) Level 4
+- [ ] Severe (120 XP) Level 4
 
 At the start of the encounter, place the following foes on the map: 
  - 6: [[3-Rules/Bestiaries/Monster Core/Tengu Sneak|Tengu Sneak]] W
@@ -1015,18 +1048,218 @@ creatures:
 **Group 3:** This band of tengu includes the tengu leader, his sorcerer lieutenant, and 2 rogues. If the tengu leader hears word from groups 1 or 2, he moves his followers to the secret doors just south of the inner sanctum to ambush anyone who comes too close to the secret chambers.
 
 **Encounter Difficulty:**   
-- [ ] difficulty (xxx XP) Level 4
+- [ ] Severe (110 XP) Level 4
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[3-Rules/Bestiaries/Monster Core/Tengu Sneak|Tengu Sneak]] W
- - 1: [[tengu ]]
+ - 1: [[Tengu Windcaller]]
+ - 1: [[Tengu Blade Sovereign]]
 
 ```encounter
 name: Labyrinth Group 3
 party: Age of Worms
 creatures:
   - 2: [[Tengu Sneak]]
+  - 1: [[Tengu Windcaller]]
+  - 1: [[Tengu Blade Sovereign]]
 ```
 
+**Labyrinth Denizens:** Two crafty wargs patrol the passages. If they catch the scent of any non-tengu, they sound a horrific howl before charging into battle. Make [[Skills#Perception|Perception]] checks for any tengu in the area. They move to ambush the attackers if they hear the attack.
+
+**Encounter Difficulty:**   
+- [ ] Trivial (40 XP) Level 4
+
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[3-Rules/Bestiaries/Monster Core/Warg|Warg]] W
+ 
+ ```encounter
+name: Labyrinth Denizens
+party: Age of Worms
+creatures:
+  - 2: [[Warg]]
+```
+
+## Tactics
+The tengu rely on stealth to overcome their foes. They use [[Skills#Stealth|Stealth]] to stalk the labyrinth, and move toward any light sources they spot. A group typically moves in trios, with two tengus hiding while the third uses his mimicry ability to lure the PCs ahead or drive them into an ambush.
+
+The tengu duplicate the PCs' voices, or create the sounds of a humanoid in distress to draw the PCs into an attack. They can mimic the warg howl, and they have also heard enough of the Beast (the Hextorites’ dire boar) to mimic it. In general, assume that the tengu can mimic any creature of CR 4 or lower. The tengu never use light unless the party travels in darkness. In that case, they light torches and throw them away from their position to give themselves sufficient light to fight by without revealing themselves,
+
+Since the tengu rely on stealth and careful teamwork, they do not simply mob the party. Instead, each group in tum attempts to defeat the PCs, The corridors in the labyrinth are too narrow for more than a few tengu to effectively work together.
+
+> [!tip]+ Treasure
+> The three groups each keep their treasure in the rooms they use as quarters.
+> 
+> **Group 1** has a total of 16 gp in coins scatted about their bedrolls and camping gear.
+> **Group 2** has another 10 gp in coins, along with a small lockbox ([[Skills#Thievery|Thievery]] DC 20) that holds two small diamonds worth 5 gp each. 
+> **Group 3** has another 15 gp and a [[Reinforcing Rune (Minor)]] on a runestone kept hidden within a hollow in the floor of their chamber ([[Skills#Thievery|Thievery]] DC 20).
+> 
+> - [ ] gp::51
+> - [ ] permanent::[[Reinforcing Rune (Minor)]] [ilvl::4] [gp::75]
+
+# Encounter 23: Outer Sanctum
+![[Outer Sanctum.png|Left|600]]
+> [!note]+ Read Aloud
+> This ten-foot-wide, L-shaped passage is broken up by a series of slender, marble columns that run down its center. Strange patterns of wispy green veins writhe and undulate within the stone. The floor here consists of square, bone-white tiles that measure about a foot across. The walls are made of a dull gray marble covered with strange, circular bulges in an irregular pattern.
+
+This is the outer sanctum of the temple of Vecna, This place was created thousands of years ago, when Vecna was still a living mortal being. When he made his relatively recent transformation to divinity, many sites where he spent time in his mortal life (including this one) surged with divine energy. Once, Vecna used this place to conduct unholy experiments. Now, his followers seek to recreate his works.
 
 ## Features of the Area
+> [!danger]+ Trap
+> **The Columns** The pattern of green energy within the columns is a physical manifestation of the arcane and divine powers that surge through this place. Anyone who closely inspects a column must make a DC 16 Will save or slip into a catatonic state. Anyone affected by the columns hears strange, whispering voices in his mind that seem to hint of great power and sinister mysteries. The victim is rendered helpless for 2d4 minutes. At the end of this time, he awakes from his strange state and suffers 3d4 damage as the vision wreak havoc on his mind.
+- [ ] low (8 XP) Level 4
+
+> [!danger]+ Trap
+> **The Walls** The strange bulges on the walls conceal human eyes embedded into the stone. If anyone other than a Vecna worshiper casts a divine or arcane spell of any level within the outer sanctum, the bulges open to reveal human eyes that dart back and forth, alerting all of Vecna's cultists in this temple of the intrusion. In 1d4 rounds, the guardians from area 26 and 27 arrive to confront the PCs. In 2d10 rounds, any surviving tengu from the labyrinth (area 22) enter this area to repel the intruders.
+- [ ] low (8 XP) Level 4
+
+## Tactics
+The tactics entries in areas 22, 26, and 27 cover the particulars of the monsters that might come here to attack the PCs. In general, Vecna's cultists fight to protect the wizards of this place, leaving them free to rain spells upon the enemy.
+
+# Encounter 24: Storage Chamber
+> [!note]+ Read Aloud
+> Boxes and crates fill this room, leaving only a narrow alley to cross. Kegs of water, boxes of rations, and other mundane gear are arranged in nest, orderly piles.
+
+This place serves as a central storage point for the Vecna cult. Both the tengu in area 22 and the denizens of the inner sanctum draw from it. Creatures of less than Small size can move along the pathway through the boxes and crates without penalty. Small and Medium creatures must squeeze, while larger creatures cannot fit into the room.
+
+А successful DC 20 Search check uncovers any zero level item the players might want. There are no weapons or armor stored here, and no more than five of any given piece of equipment aside from food and water.
+
+Even more interesting, such a Search check reveals telltale evidence that link these goods to Balabar Smenk. The crates and boxes are branded with his trading company's sign, a rampant rooster perched upon a large gold coin.
+
+# Encounter 25: Acolyte's Chamber
+**Encounter Difficulty:**   
+> [!note]+ Read Aloud
+> This room is cramped with two sets of bunk beds, a small writing table, and several stools. A single torch casts light across the room from a sconce between the beds.
+
+The acolytes of Vecna bunk here. Normally, two of them remain in the inner sanctum while the other pair assists the Faceless One with his work within the laboratory (area 27) The acolytes have no treasure aside from the arcane items they carry
+
+# Encounter 26: The Inner Sanctum
+**Encounter Difficulty:**   
+- [ ] Moderate (100 XP) Level 4
+
+![[Inner Sanctum.png|right|500]]
+
+> [!note]+ Read Aloud
+> An acrid, almost metallic stink fills the air of this chamber. The walls here consist of a strange, green rock with purple veins that writhe and dance within it. Six black pillars form two rows along the length of this chamber, They have a tar-like appearance, and what looks like human hands push at their surfaces from within, as if a crowd of humanoid creatures was trapped within each one. А plain, basalt altar rests at one end of the chamber.
+
+This unholy place was one of Vecna's lairs in his mortal days. Now, it is a chapel to his blasphemous faith. The unholy energy of this place grants undead resistance 4 from all Holy attacks. This bonus stacks with any resistance the undead might already possess.
+
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[Corrupted Priest]] W
+ - 1: [[3-Rules/Bestiaries/Monster Core/Ghost Commoner|Ghost Commoner]] H
+
+```encounter-table
+name: The Inner Sanctum
+party: PartyName
+creatures:
+  - 2: [[Corrupted Priest]]
+  - 1: [[Ghost Commoner]]
+```
+
+Two acolytes of Vecna and an allip occupy the Inner Sanctum. The allip is a spectral figure clad in wizard's robes. The robe's hood completely conceals the figures face, leaving it a black void. The two acolytes are humans wearing ragged, purple robes. 
+
+## Tactics
+The acolytes fight to the death to protect the Inner Sanctum, though if possible one runs to area 27 to warn the Faceless One of the intrusion.
+
+The ghost moves to attack the PCs, driven by an intense hatred of all non-believers. If reduced to half or fewer hit points, it darts for cover in the walls to stalk the PCs, Once they engage in combat again, such as against the returning acolytes or the Faceless One, it emerges to do battle once more.
+
+## Features of the Area
+> [!danger]+ Trap
+> **The Pillars** The pillars hold within them the trapped souls of those sacrificed within this temple. If the PCs have the opportunity to inspect them, the pillars consist of a thick, gummy, tar-like substance, and the hands that strain to escape from them are all left hands. Anyone who enters a square occupied by a pillar comes under attack from the desperate spirits trapped within. The pillar attacks with a +6 bonus. Оп a successful attack, the target cannot leave the square until he beats the pillars +1 grapple check. A pillar can only grasp one creature at a time.
+- [ ] low (8 XP) Level 4
+
+> [!danger]+ Trap
+> **The Walls** The energy that dances along the walls casts a strange, eldritch light across this chamber. Any non-worshiper of Vecna who stares at it for more than a round must make a DC 15 Will save 3d4 damage as his mind is overwhelmed with strange, fragmented shards of cosmic secrets beyond mortal comprehension.
+- [ ] low (8 XP) Level 4
+
+> [!tip]+ Treasure
+> In addition to their gear the cultists have 48 gold split between them.  The also each carry an [[Oak Potion]] and a [[Ghost Oil]].  Set upon the altar are a variety of offerings to Vecna. They include two golden goblets worth 5 gp each and a bronze sacrificial dagger set with blood red rubies worth 25 sp.
+> 
+> - [ ] gp::35
+> - [ ] sp::25
+> - [ ] consumable::[[Oak Potion|Oak Potion]] [ilvl::4] [gp::15]
+> - [ ] consumable::[[Oak Potion|Oak Potion]] [ilvl::4] [gp::15]
+> - [ ] consumable::[[Ghost Oil|Ghost Oil]] [ilvl::4] [gp::15]
+> - [ ] consumable::[[Ghost Oil|Ghost Oil]] [ilvl::4] [gp::15]
+
+# Encounter 27: Laboratory of the Faceless One
+**Encounter Difficulty:**   
+- [ ] Severe (140 XP) Level 4
+
+![[The Faceless One.png|right|500]]
+
+> [!note]+ Read Aloud
+> Two long, wooden tables dominate this chamber. They run along the length of the room, pushed up against opposite walls, and are covered with a variety of beakers, alchemical tools, and other devices. A few glass containers bubble with materials of a variety of colors, from a boiling green sludge to a fizzing, effervescent blue liquid. Several bookshelves filled with tomes occupy one section of the wall. Beside the shelves stands an intact human skeleton. A few glistening organs, a heart, а set of lungs, and a liver writhe and pulse within the skeleton's rib cage. In the middle of the chamber stands a large, black iron cauldron. A thick layer of wax seals it shut.
+
+This is the work chamber of the Faceless One, the leader of the Vecna cult within this dungeon. Beakers burble with strange liquids as the wizards of this portion of the dungeon plot to awaken the aspect of the Overgod from its slumber.
+
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[Corrupted Priest]] W
+ - 1: [[The Faceless One]] H
+
+```encounter
+name: EncounterName
+party: PartyName
+creatures:
+  - 2: [[Corrupted Priest]]
+  - 1: [[The Faceless One]]
+```
+
+The Faceless One wears green robes and a leather mask set with iron studs. Only his coal-black eyes are visible beneath it. His hands are covered with mystical tattoos. If the mask is removed, his face is а blank, featureless slate save for a small, sharp nose and а toothless mouth. He speaks with a lisp, and his frame is gaunt, almost fragile looking. His skin is as white as an albino's. 
+
+His two acolytes wear tattered purple robes and prominent holy symbols of Vecna.
+
+## Features of the Area
+**The Skeleton** The skeleton is a byproduct of а recent experiment in reanimation using alchemical processes. 
+
+**Shelves** The books are the Faceless One's spellbooks, along with the grimoires of the acolytes of Vecna who study beneath him. 
+
+**The Cauldron** The cauldron contains the rest of the unfortunate skeleton’s organs. Breaking the seal releases an awful stench, Anyone in the room must make a DC 15 Fortitude save or become [[Sickened| Sickened 3]]. The cauldron contains а mixture of chemicals and human organs. 
+
+> [!tip]+ Treasure
+> The beakers, tubes, and other glassware are a complete [[Alchemist's Lab (Expanded)]]. The liquids within them. include two vials of [[Acid Flask (Moderate)]], three vials of [[Alchemist's Fire (Moderate)]], and a wide variety of other chemicals. 
+> 
+> Scattered about the Faceless One's laboratory, amidst his tools and equipment, are 11 gp and 11 sp in coins, six garnets worth 3 gp each, а [[Cloak of Repute]], and a [[Sturdy Shield (Minor)]].
+> 
+> In addition to the monetary rewards found here, the PCs unearth the code needed to read the scroll found in area 10. This information is summarized in [[Three Faces of Evil-Handout 1.png|Handout #1]].
+> 
+> - [ ] gp::29
+> - [ ] sp::11
+> - [ ] permanent::[[Alchemist's Lab (Expanded)|Alchemist's Lab (Expanded)]] [ilvl::3] [gp::55]
+> - [ ] permanent::[[Cloak of Repute|Cloak of Repute]] [ilvl::4] [gp::90]
+> - [ ] permanent::[[Sturdy Shield (Minor)|Sturdy Shield (Minor)]] [ilvl::4] [gp::100]
+> - [ ] consumable::[[Acid Flask (Moderate)|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
+> - [ ] consumable::[[Acid Flask (Moderate)|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
+> - [ ] consumable::[[Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
+> - [ ] consumable::[[Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
+> - [ ] consumable::[[Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
+
+# Part 5: The God in the Pool
+**Encounter Difficulty:**   
+- [ ] Moderate (80 XP) Level 5
+
+![[Three Faces of Evil Banner.png|right|500]]
+
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[Ebon Aspect]] W
+
+```encounter
+name: The God in the Pool
+party: PartyName
+creatures:
+  - 1: [[Ebon Aspect]]         # 1 monster named My Monster will be added, with no HP, AC or modifier.
+```
+
+А hellish entity slumbers within the pool's depths, slowly gathering the energies it needs to awaken. Unfortunately for the characters, their intrusion into this place arouses its wrath. If the PCs defeat all three cults, the Ebon Aspect rises to avenge its worshipers. As soon as the last of the three high priests (Theldrick in area 10, Grallak Kur in area 21, and The Faceless One in area 27) is slain or driven off, the aspect materailizes fully and clambers up from the pool in area 1. Luckily for the PGs, the Ebon Aspect of the Over- god is in a weak state as it has not yet summoned all its power,
+
+If the PCs don't kill the three high priests, and instead capture them, the Ebon Aspect's manifestation is delayed fora short time. Only 1d4 hours after the PCs take their prisoners from this area, the Ebon Aspect manifests in the flesh. This action immediately slays any surviving high priests as it draws on their souls for its birth.
+
+The Ebon Aspect takes ten minutes to gather its strength once it emerges, during which time it smashes the elevator car to splinters if its reachable. Once these ten minutes pass, the horrific fiend grows more mobile. It can sense the PCs to a range of one mile, as if with a constant locate creature effect, and it immediately seeks the PCs out, intending to slay them to the last.
+
+If the PCs escape without killing the Ebon Aspect, the fiend slowly makes its way up into the mines above, killing anyone and everyone it encounters and eventually finding its way to Diamond Lake. If the PCs don't stop it, the Ebon Aspect causes terrible damage and kills dozens before Allustan and several of the clerics and fighters from the Garrison can kill the menace.
+
+# Concluding the Adventure
+Once the PCs escape from the Dark Cathedral, they must cope with the repercussions of their actions. The presence of the Ebon Triad in the mines could touch off some important developments in Diamond Lake. The cult obviously had the blessing of Ragnolin (the elevator didn't build itself), and the evidence gathered within the dungeon points to Balabar Smenk's involvement. If the PCs present their evidence to the governor-mayor, both merchants face criminal prosecution. If either escapes, they may track down the PCs to serve their revenge ata later date. Both Ragnolin and Balabar face a long, hard fall from wealth and prosperity to near destitution if they must flee Diamond Lake.
+
+Of course, both mine managers have plenty of friends in town. A few bribes, а couple of carefully handled meetings, and a host of old favors called in might gain both Ragnolin and Balabar their freedom. In this case, the PCs face not only an angry nemesis, but foes who still have the connections and wealth needed to make the party's life miserable.
+
+All the excitement should be just the thing to convince the PCs they need to take a break from Diamond Lake.  The chance arrives in the "Ecnounter at Blackwall Keep."

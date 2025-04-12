@@ -9,7 +9,7 @@ quicknote: |-
   Ghouls prove to be a very difficult encounter.
   We lose Elijah but gain Bob.
 locations:
-  - "[[4-Campaign/Age of Worms/The Whispering Cairn.md|The Whispering Cairn]]"
+  - "[[The Whispering Cairn|The Whispering Cairn]]"
 ---
 
 > [!metadata|metadata]- Metadata 

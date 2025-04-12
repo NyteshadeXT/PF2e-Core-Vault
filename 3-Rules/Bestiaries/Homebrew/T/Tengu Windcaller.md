@@ -36,42 +36,34 @@ perception:
 languages: "Common, Tengu; plus two others"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +6, Deception: +7, Diplomacy: +5, Society: +5, Stealth: +8, Thievery: +8"
-abilityMods: [2, 4, 1, 1, 0, 1]
+    desc: "Acrobatics: +5, Deception: +7, Diplomacy: +5, Occultism: +8; Society: +5, Stealth: +8"
+abilityMods: [0, 2, 1, 1, 0, 4]
 speed: 25 feet
-sourcebook: "_Pathfinder Monster Core_"
-ac: 19
+sourcebook: "_Homebrew_"
+ac: 16
 armorclass:
   - name: AC
-    desc: "19; __Fort__ +7, __Ref__ +10, __Will__ +4"
-hp: 27
+    desc: "16; __Fort__ +4, __Ref__ +7, __Will__ +10"
+hp: 31
 health:
   - name: ""
   - name: HP
-    desc: "27"
+    desc: "31"
 abilities_top:
   - name: ""
-  - name: "Items"
-    desc: "[[Equipment/Shortbow|Shortbow]], [[Equipment/Wakizashi|Wakizashi]], [[Equipment/Tengu Feather Fan|Tengu Feather Fan]], 30x [[Equipment/Arrows|Arrows]]"
+  - name: ""
+    desc: ""
 abilities_mid:
   - name: ""
-  - name: "Eat Fortune"
-    desc: "`pf2:r` (concentrate,divine) **Frequency** once per day\n\n**Trigger** A creature within 60 feet uses a fortune or misfortune effect\n* * *\n\n**Effect** The tengu negates the attempt to manipulate fate and fortune. Eat Fortune gains the opposing trait, and the triggering effect is disrupted."
+  - name: "Go for the Eyes"
+    desc: "`pf2:r` (incapacitation) **Trigger** The tengu critically hits with a beak Strike. **Effect** The tengu attempts to peck out its victim's eyes. The target must attempt a DC 17 Fortitude save."
 
 attacks:
-  - name: ""
-
   - name: "Melee"
     desc: "`pf2:1` Beak +10 (finesse)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wakizashi +10 (agile, deadly d8, finesse, versatile p)\n__Damage__  1d4 + 2 slashing"
-
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +10 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
-
-  - name: "Feather Fan Dustup"
-    desc: "`pf2:1` (air,divine) **Frequency** once per 10 minutes;\n* * *\n\n**Effect** The tengu waves their feather fan, summoning a small magical breeze that kicks up dust in a @Template[burst|distance:5] centered on a corner of their space, which lasts for 1d4 rounds. All creatures within that area are [[Conditions/Concealed|Concealed]], and all other creatures are concealed to them."
+  - name: "Occult Spontaneous Spells"
+    desc: "DC 17, attack +9; __2nd __  _[[Blur]]_, _[[3-Rules/Character Building/Spells/Invisibility|Invisibility]], _[[Mirror Image]]_; __1st __  _[[Force Barrage]]_, _[[Grim Tendrils]]_, _[[Kinetic Ram]]_, [[Mystic Armor]]\n__Cantrips__  __(2nd)__ _[[Ghost Sound]]_, _[[Needle Darts]]_, _[[Read the Air]]_"
 
   - name: "Sneak Attack"
     desc: "  The tengu deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

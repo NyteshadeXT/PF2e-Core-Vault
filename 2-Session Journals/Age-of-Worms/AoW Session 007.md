@@ -7,7 +7,7 @@ whichparty: "[[Age of Worms Party Dashboard]]"
 sessiondate: 2025-03-06
 quicknote: Meeting with Alastor, the Land farmstead and a meetup at The Feral Dog
 locations:
-  - "[[4-Campaign/Age of Worms/The Whispering Cairn.md|The Whispering Cairn]]"
+  - "[[The Whispering Cairn|The Whispering Cairn]]"
   - "[[5-World/Settlements/Diamond Lake.md|Diamond Lake]]"
 characters:
   - "[[Kullen]]"

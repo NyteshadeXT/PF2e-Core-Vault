@@ -18,6 +18,7 @@ ownedlocation:
 location:
   - "[[Tidwod's]]"
 condition: Healthy
+party1relation: Dislike
 ---
 
 > [!metadata|metadata]- Metadata 

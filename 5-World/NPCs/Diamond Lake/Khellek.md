@@ -20,6 +20,7 @@ occupation:
 location:
   - "[[Lazare's House]]"
 condition: Healthy
+party1relation: 
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -164,7 +165,7 @@ Leader of the trio of [[Dungeon Seekers Guild]] adventurers currently exploring 
 > Trace the life story of this NPC, unraveling their past and the events that shaped them. Explore their origins, upbringing, and significant moments that molded their character. What pivotal events, traumas, or triumphs have marked their journey? Delve into the milestones, turning points, and impactful experiences that have shaped who they are today. How have these experiences influenced their beliefs, skills, and motivations?
 
 ## Notes
-Khellek wears a simple silver ring on the third finger of his right hand.  The face of this ring bears an eight-ponted star symbol and is identical to the ring found on the finger of the ghoulish Ulvant in area 21 of [[4-Campaign/Age of Worms/The Whispering Cairn]]. Both Ulavant and Khellek belong to the [[Meteor's Chosen]] and if Khellek sees a PC with the ring he assumes that PC is also a member.  At the sight of the ring, Khellek arches his eyebrows respectfully and says "Revelation comes also in darkness."  When the PC does not respond with the appropriate "Thus darkness is also light," Khellek grows suspicious and changes the subject, convinced that the PCs have stolen the ring from another of the Chosen.  He begins pestering them about how they came across the trinket.  IF told about the Whispering Cairn, Khellek gathers his companions Auric and Tirra and sets out to plunder its riches for himself.
+Khellek wears a simple silver ring on the third finger of his right hand.  The face of this ring bears an eight-ponted star symbol and is identical to the ring found on the finger of the ghoulish Ulvant in area 21 of [[The Whispering Cairn]]. Both Ulavant and Khellek belong to the [[Meteor's Chosen]] and if Khellek sees a PC with the ring he assumes that PC is also a member.  At the sight of the ring, Khellek arches his eyebrows respectfully and says "Revelation comes also in darkness."  When the PC does not respond with the appropriate "Thus darkness is also light," Khellek grows suspicious and changes the subject, convinced that the PCs have stolen the ring from another of the Chosen.  He begins pestering them about how they came across the trinket.  IF told about the Whispering Cairn, Khellek gathers his companions Auric and Tirra and sets out to plunder its riches for himself.
 
 
 

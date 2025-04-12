@@ -8,7 +8,7 @@ characters:
   - "[[Allustan]]"
 locations:
   - "[[5-World/Settlements/Diamond Lake.md|Diamond Lake]]"
-  - "[[4-Campaign/Age of Worms/The Whispering Cairn.md|The Whispering Cairn]]"
+  - "[[The Whispering Cairn|The Whispering Cairn]]"
 ---
 
 
@@ -58,7 +58,7 @@ This is a list of links to various notes within your Vault. Use this to give you
 
 ## During
 ### Events
-The players spoke with [[Allustan]] and discovered some of the background of the Whispering Cairn and of the [[Aetherial Wardens]].  They journeyed back to the Cairn and continued exploring.  Eventually they figured out the [[4-Campaign/Age of Worms/The Whispering Cairn#7. False Tomb]] location and delved deeper into the ruins.  Entering the [[4-Campaign/Age of Worms/The Whispering Cairn#Lair of the Architect]] they got separated and encountered the Lurking Stranglers as well as the gas trap in the first room.  In the [[4-Campaign/Age of Worms/The Whispering Cairn#13. Workshop]] Gornak triggers the encounter with the [[3-Rules/Bestiaries/Monster Core/Sod Hound|Sod Hound]] and we end the night there.
+The players spoke with [[Allustan]] and discovered some of the background of the Whispering Cairn and of the [[Aetherial Wardens]].  They journeyed back to the Cairn and continued exploring.  Eventually they figured out the [[The Whispering Cairn#7. False Tomb]] location and delved deeper into the ruins.  Entering the [[The Whispering Cairn#Lair of the Architect]] they got separated and encountered the Lurking Stranglers as well as the gas trap in the first room.  In the [[The Whispering Cairn#13. Workshop]] Gornak triggers the encounter with the [[3-Rules/Bestiaries/Monster Core/Sod Hound|Sod Hound]] and we end the night there.
 
 ### Travel & Rest
 No noteworthy travel or rest in this session.
@@ -80,4 +80,4 @@ No new creations to make note of.
 2/6/25 from 6:30 pm CST to 9:30 pm CST
 
 ### End of Session Notes
-Can't forget to redo [[4-Campaign/Age of Worms/The Whispering Cairn#12. Living Quarters]] for the players.  Missed the description and acted like an illusion was dropped when they figured out the trap.
+Can't forget to redo [[The Whispering Cairn#12. Living Quarters]] for the players.  Missed the description and acted like an illusion was dropped when they figured out the trap.

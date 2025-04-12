@@ -1,8 +1,8 @@
 ---
 metric: false
-gemType: 6
-gemValue: 2400
-gemMass: 1600
+gemType: 2
+gemValue: 10
+gemMass: 8
 gemDensity: 170
 ---
 # Gem Table
@@ -16,51 +16,51 @@ gemDensity: 170
 > Mass | `VIEW[round((1-0.546485*{metric})*1000*({gemType} == 1 ? {gemValue}/1000 : {gemType} >= 2 & {gemType} <= 5 ? {gemValue}/1250 : {gemType} == 6 ? {gemValue}/1500 : {gemType} >= 7 & {gemType} <= 10 ? {gemValue}/1750 : {gemType} >= 11 & {gemType} <= 14 ? {gemValue}/2000 : {gemValue}/2500), 2)][:gemMass]` `VIEW[{metric} ? "g" : "mlbs"]`
 > Size `VIEW[(1-0.98398*{metric})*({gemType} <= 6 ? 170 : {gemType} >= 7 & {gemType} <= 14 ? 200 : 219.4)][math(hidden):gemDensity]` | `VIEW[round((0.9575+0.0425*{metric})*{gemMass}/{gemDensity}, 2)]` `VIEW[{metric} ? "mL" : "fl oz"]`
 
-**Inline Roller:** `dice: [[Random Gems Table^GemTable]]`
+**Inline Roller:** `dice: [[Random_Gems_Table^GemTable]]`
 
 | dice: 1d100 | Gems                                                                                                  |
 | ----------- | ----------------------------------------------------------------------------------------------------- |
-| 1 - 21      | `dice: [[Random Gems Table^NumGems]]` Quartz worth `dice: [[Random Gems Table^QuartzGem]]` gp each    |
-| 22 - 38     | `dice: [[Random Gems Table^NumGems]]` Jade worth `dice: [[Random Gems Table^PSGem]]` gp each          |
-| 39 - 52     | `dice: [[Random Gems Table^NumGems]]` Onyxes worth `dice: [[Random Gems Table^PSGem]]` gp each        |
-| 53 - 62     | `dice: [[Random Gems Table^NumGems]]` Turquoises worth `dice: [[Random Gems Table^PSGem]]` gp each    |
-| 63 - 71     | `dice: [[Random Gems Table^NumGems]]` Lapis Lazulis worth `dice: [[Random Gems Table^PSGem]]` gp each |
-| 72 - 78     | `dice: [[Random Gems Table^NumGems]]` Pearls worth `dice: [[Random Gems Table^PearlGem]]` gp each     |
-| 79 - 83     | `dice: [[Random Gems Table^NumGems]]` Aquamarines worth `dice: [[Random Gems Table^mGem]]` gp each    |
-| 84 - 87     | `dice: [[Random Gems Table^NumGems]]` Topaz worth `dice: [[Random Gems Table^mGem]]` gp each          |
-| 88 - 90     | `dice: [[Random Gems Table^NumGems]]` Peridots worth `dice: [[Random Gems Table^mGem]]` gp each       |
-| 91 - 93     | `dice: [[Random Gems Table^NumGems]]` Amethysts worth `dice: [[Random Gems Table^mGem]]` gp each      |
-| 94 - 95     | `dice: [[Random Gems Table^NumGems]]` Opals worth `dice: [[Random Gems Table^PGem]]` gp each          |
-| 96 - 96     | `dice: [[Random Gems Table^NumGems]]` Rubies worth `dice: [[Random Gems Table^PGem]]` gp each         |
-| 97 - 98     | `dice: [[Random Gems Table^NumGems]]` Sapphires worth `dice: [[Random Gems Table^PGem]]` gp each      |
-| 99          | `dice: [[Random Gems Table^NumGems]]` Emeralds worth `dice: [[Random Gems Table^PGem]]` gp each       |
-| 100         | `dice: [[Random Gems Table^NumGems]]` Diamonds worth `dice: [[Random Gems Table^Diamond]]` gp each    |
+| 1 - 21      | `dice: [[Random_Gems_Table^NumGems]]` Quartz worth `dice: [[Random_Gems_Table^QuartzGem]]` gp each    |
+| 22 - 38     | `dice: [[Random_Gems_Table^NumGems]]` Jade worth `dice: [[Random_Gems_Table^PSGem]]` gp each          |
+| 39 - 52     | `dice: [[Random_Gems_Table^NumGems]]` Onyxes worth `dice: [[Random_Gems_Table^PSGem]]` gp each        |
+| 53 - 62     | `dice: [[Random_Gems_Table^NumGems]]` Turquoises worth `dice: [[Random_Gems_Table^PSGem]]` gp each    |
+| 63 - 71     | `dice: [[Random_Gems_Table^NumGems]]` Lapis Lazulis worth `dice: [[Random_Gems_Table^PSGem]]` gp each |
+| 72 - 78     | `dice: [[Random_Gems_Table^NumGems]]` Pearls worth `dice: [[Random_Gems_Table^PearlGem]]` gp each     |
+| 79 - 83     | `dice: [[Random_Gems_Table^NumGems]]` Aquamarines worth `dice: [[Random_Gems_Table^mGem]]` gp each    |
+| 84 - 87     | `dice: [[Random_Gems_Table^NumGems]]` Topaz worth `dice: [[Random_Gems_Table^mGem]]` gp each          |
+| 88 - 90     | `dice: [[Random_Gems_Table^NumGems]]` Peridots worth `dice: [[Random_Gems_Table^mGem]]` gp each       |
+| 91 - 93     | `dice: [[Random_Gems_Table^NumGems]]` Amethysts worth `dice: [[Random_Gems_Table^mGem]]` gp each      |
+| 94 - 95     | `dice: [[Random_Gems_Table^NumGems]]` Opals worth `dice: [[Random_Gems_Table^PGem]]` gp each          |
+| 96 - 96     | `dice: [[Random_Gems_Table^NumGems]]` Rubies worth `dice: [[Random_Gems_Table^PGem]]` gp each         |
+| 97 - 98     | `dice: [[Random_Gems_Table^NumGems]]` Sapphires worth `dice: [[Random_Gems_Table^PGem]]` gp each      |
+| 99          | `dice: [[Random_Gems_Table^NumGems]]` Emeralds worth `dice: [[Random_Gems_Table^PGem]]` gp each       |
+| 100         | `dice: [[Random_Gems_Table^NumGems]]` Diamonds worth `dice: [[Random_Gems_Table^Diamond]]` gp each    |
 ^GemTable
 
 ### Type of Gem
 
-You've found a `dice: [[Random Gems Table^GemType]]`
+You've found a `dice: [[Random_Gems_Table#^GemType]]`
 
 | dice: 1d100 | Gems                                                      |
 | ----------- | --------------------------------------------------------- |
-| 1 - 21      | Quartz worth `dice: [[Random Gems Table^QuartzGem]]` gp   |
-| 22 - 38     | Jade worth `dice: [[Random Gems Table^PSGem]]` gp         |
-| 39 - 52     | Onyx worth `dice: [[Random Gems Table^PSGem]]` gp         |
-| 53 - 62     | Turquoise worth `dice: [[Random Gems Table^PSGem]]` gp    |
-| 63 - 71     | Lapis Lazuli worth `dice: [[Random Gems Table^PSGem]]` gp |
-| 72 - 78     | Pearl worth `dice: [[Random Gems Table^PearlGem]]` gp     |
-| 79 - 83     | Aquamarine worth `dice: [[Random Gems Table^mGem]]` gp    |
-| 84 - 87     | Topas worth `dice: [[Random Gems Table^mGem]]` gp          |
-| 88 - 90     | Peridot worth `dice: [[Random Gems Table^mGem]]` gp       |
-| 91 - 93     | Amethyst worth `dice: [[Random Gems Table^mGem]]` gp      |
-| 94 - 95     | Opal worth `dice: [[Random Gems Table^PGem]]` gp          |
-| 96 - 96     | Rubie worth `dice: [[Random Gems Table^PGem]]` gp         |
-| 97 - 98     | Sapphire worth `dice: [[Random Gems Table^PGem]]` gp      |
-| 99          | Emerald worth `dice: [[Random Gems Table^PGem]]` gp       |
-| 100         | Diamond worth `dice: [[Random Gems Table^Diamond]]` gp    |
+| 1 - 21      | Quartz worth `dice: [[Random_Gems_Table^QuartzGem]]` gp   |
+| 22 - 38     | Jade worth `dice: [[Random_Gems_Table^PSGem]]` gp         |
+| 39 - 52     | Onyx worth `dice: [[Random_Gems_Table^PSGem]]` gp         |
+| 53 - 62     | Turquoise worth `dice: [[Random_Gems_Table^PSGem]]` gp    |
+| 63 - 71     | Lapis Lazuli worth `dice: [[Random_Gems_Table^PSGem]]` gp |
+| 72 - 78     | Pearl worth `dice: [[Random_Gems_Table^PearlGem]]` gp     |
+| 79 - 83     | Aquamarine worth `dice: [[Random_Gems_Table^mGem]]` gp    |
+| 84 - 87     | Topas worth `dice: [[Random_Gems_Table^mGem]]` gp          |
+| 88 - 90     | Peridot worth `dice: [[Random_Gems_Table^mGem]]` gp       |
+| 91 - 93     | Amethyst worth `dice: [[Random_Gems_Table^mGem]]` gp      |
+| 94 - 95     | Opal worth `dice: [[Random_Gems_Table^PGem]]` gp          |
+| 96 - 96     | Rubie worth `dice: [[Random_Gems_Table^PGem]]` gp         |
+| 97 - 98     | Sapphire worth `dice: [[Random_Gems_Table^PGem]]` gp      |
+| 99          | Emerald worth `dice: [[Random_Gems_Table^PGem]]` gp       |
+| 100         | Diamond worth `dice: [[Random_Gems_Table^Diamond]]` gp    |
 ^GemType
 
-You've found a `dice: [[Random Gems Table^GemTypePlain]]`
+You've found a `dice: [[Random_Gems_Table^GemTypePlain]]`
 
 | dice: 1d100 | Gems         |
 | ----------- | ------------ |
@@ -83,7 +83,7 @@ You've found a `dice: [[Random Gems Table^GemTypePlain]]`
 
 ### Number of Gems found
 
-You've found `dice: [[Random Gems Table^NumGems]]` Gems.
+You've found `dice: [[Random_Gems_Table^NumGems]]` Gems.
 
 | dice: 1d20 | # of gems |
 |------------|-----------|

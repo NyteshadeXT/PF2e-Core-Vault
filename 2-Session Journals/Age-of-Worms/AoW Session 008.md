@@ -7,9 +7,9 @@ whichparty: "[[Age of Worms Party Dashboard]]"
 sessiondate: 2025-03-13
 quicknote: Bury the Land family and exploration of the the REAL tomb in the Whispering Cairn.
 locations:
-  - "[[4-Campaign/Age of Worms/The Whispering Cairn.md|The Whispering Cairn]]"
+  - "[[The Whispering Cairn|The Whispering Cairn]]"
   - "[[5-World/Settlements/Diamond Lake.md|Diamond Lake]]"
-characters:
+characters: 
 ---
 
 > [!metadata|metadata]- Metadata 

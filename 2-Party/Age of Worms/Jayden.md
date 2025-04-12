@@ -3,18 +3,18 @@ noteType: Player
 tags:
   - "#Character"
   - "#Player"
-art: zz-Attachments/Akiowen.webp
+art: zz-Attachments/Jayden.png
 Status: Active
-Player: Cali
-pronounced: a-ki-o-wen
+Player: Derek
+pronounced: jay-den
 Class: Rogue
 level: 3
-Ancestry: tengu
-gender: Female
+Ancestry: Human
+gender: Male
 age: Young Adult
 aliases:
-  - Wen
-Heritage: skyborn tengu
+  - Jerrick
+Heritage:
 whichparty:
   - "[[Age of Worms Party Dashboard]]"
 condition: Healthy
@@ -149,4 +149,4 @@ style: height: 700px;
 
 
 ## Notes
-
+Jayden is blessed by [[Liriel]], but doesn't realize it.  He just think's he has uncommonly good luck.

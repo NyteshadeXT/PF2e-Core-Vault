@@ -15,7 +15,7 @@ aliases: "Compendium.pf2e.spells-srd.Item.zdNUbHqqZzjA07oM"
 license: OGL
 ---
 ```statblock
-name: "Boneshaker  2 or 3"
+name: "Boneshaker `pf2:2` or `pf2:3`"
 level: "Spell 2"
 rare_03: [[Uncommon]]
 layout: Basic Pathfinder 2e Layout

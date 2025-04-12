@@ -17,6 +17,7 @@ ownedlocation:
 location:
   - "[[The Captain's Blade]]"
 condition: Healthy
+party1relation: Like
 ---
 
 > [!metadata|metadata]- Metadata 
