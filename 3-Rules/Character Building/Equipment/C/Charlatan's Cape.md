@@ -27,7 +27,7 @@ This bright red-and-gold cape is often interlaced with glittery threads and serv
 
 * * *
 
-**Effect** You cast [[Spells/Translocate|Translocate]]. The space you leave and the one you appear in are filled with puffs of smoke that make anyone within [[Conditions/Concealed|Concealed]] until they leave the smoke or the end of your next turn, at which point the smoke dissipates. Strong winds immediately disperse the smoke.
+**Effect** You cast [[Translocate|Translocate]]. The space you leave and the one you appear in are filled with puffs of smoke that make anyone within [[Conditions/Concealed|Concealed]] until they leave the smoke or the end of your next turn, at which point the smoke dissipates. Strong winds immediately disperse the smoke.
 
 *Source: Pathfinder GM Core*
 *ORC*

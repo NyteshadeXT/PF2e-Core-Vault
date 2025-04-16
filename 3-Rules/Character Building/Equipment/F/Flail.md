@@ -15,7 +15,7 @@ license: ORC
 ---
 # Flail
 ## Item 0
-### [[3-Rules/trait_reference/disarm]][[sweep]][[3-Rules/trait_reference/trip|Trip]] 
+### [[3-Rules/Trait Reference/D/disarm]][[sweep]][[3-Rules/Trait Reference/T/trip|Trip]] 
 
 |  |  |
 | -- | -- |

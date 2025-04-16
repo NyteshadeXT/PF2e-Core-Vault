@@ -37,7 +37,7 @@ These silken handwraps feature intricate embroidery of a serpentine red dragon a
 
 * * *
 
-**Effect** You slap the bottom of your palms with hands splayed outward, casting a 7th-rank [[Spells/Breathe Fire|Breathe Fire]] spell (DC 41).
+**Effect** You slap the bottom of your palms with hands splayed outward, casting a 7th-rank [[Breathe Fire|Breathe Fire]] spell (DC 41).
 
 * * *
 

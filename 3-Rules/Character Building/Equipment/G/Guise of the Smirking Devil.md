@@ -33,7 +33,7 @@ This ice-blue half-mask is adorned with a wicked silver grin that covers the wea
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Wails of the Damned|Wails of the Damned]].
+**Craft Requirements** Supply a casting of [[Wails of the Damned|Wails of the Damned]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

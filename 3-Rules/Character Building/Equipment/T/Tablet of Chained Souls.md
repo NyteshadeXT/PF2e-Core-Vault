@@ -24,7 +24,7 @@ Half-formed, unreadable runes drift across this weathered stone tablet, which re
 
 **Activate** `pf2:3` envision, Interact
 
-**Effect** You present the tablet to a ghost, or lay it on a haunted site. The tablet's words resolve into a cryptic but accurate clue about the unfinished business that keeps this spirit from rest. Upon reading the tablet's words, you are subject to a [[Spells/Geas|Geas]] that requires you to right that wrong and lay the ghost to rest. If you die without completing the task, you become a ghost, cursed to remain until another recovers the tablet and discharges your duty.
+**Effect** You present the tablet to a ghost, or lay it on a haunted site. The tablet's words resolve into a cryptic but accurate clue about the unfinished business that keeps this spirit from rest. Upon reading the tablet's words, you are subject to a [[Geas|Geas]] that requires you to right that wrong and lay the ghost to rest. If you die without completing the task, you become a ghost, cursed to remain until another recovers the tablet and discharges your duty.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

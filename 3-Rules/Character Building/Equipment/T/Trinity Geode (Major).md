@@ -12,7 +12,7 @@ license: OGL
 ---
 # Trinity Geode (Major)
 ## Item 12
-### [[3-Rules/trait_reference/earth]][[magical]][[spellheart]]
+### [[3-Rules/trait_reference/E/earth]][[magical]][[spellheart]]
 
 
 **Price** 1900 gp; 
@@ -32,7 +32,7 @@ The crystal chamber within this split geode is divided into three lobes of equal
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Scatter Scree|Scatter Scree]].
+**Effect** You cast [[Scatter Scree|Scatter Scree]].
 
 * * *
 
@@ -40,7 +40,7 @@ The crystal chamber within this split geode is divided into three lobes of equal
 
 **Frequency** once per day
 
-**Effect** You cast 4th-rank [[Spells/One with Stone|One with Stone]].
+**Effect** You cast 4th-rank [[One with Stone|One with Stone]].
 
 * * *
 
@@ -48,7 +48,7 @@ The crystal chamber within this split geode is divided into three lobes of equal
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Spike Stones|Spike Stones]].
+**Effect** You cast [[Spike Stones|Spike Stones]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

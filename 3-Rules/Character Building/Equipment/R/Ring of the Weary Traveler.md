@@ -10,7 +10,7 @@ license: OGL
 ---
 # Ring of the Weary Traveler
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]]
 
 
 **Price** 160 gp; 

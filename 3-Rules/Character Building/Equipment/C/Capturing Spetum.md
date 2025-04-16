@@ -16,7 +16,7 @@ license: ORC
 ---
 # Capturing Spetum
 ## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[hampering]][[hobgoblin]][[3-Rules/trait_reference/reach|Reach]] [[3-Rules/trait_reference/trip|Trip]] 
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[hampering]][[hobgoblin]][[reach|Reach]] [[3-Rules/Trait Reference/T/trip|Trip]] 
 
 |  |  |
 | -- | -- |

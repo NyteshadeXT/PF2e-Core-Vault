@@ -18,7 +18,7 @@ license: OGL
 ---
 # Steam Knight `pf2:1`
 ## Feat 6
-### [[composite]][[3-Rules/trait_reference/fire]][[impulse]][[kineticist]][[primal]][[stance]][[3-Rules/trait_reference/water]]
+### [[composite]][[3-Rules/trait_reference/F/fire]][[impulse]][[kineticist]][[primal]][[stance]][[3-Rules/trait_reference/W/water]]
 
 **Category** class; 
 

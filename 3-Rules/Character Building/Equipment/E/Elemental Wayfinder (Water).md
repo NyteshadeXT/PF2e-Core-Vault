@@ -28,11 +28,11 @@ Pathfinder Society researchers recently created elemental wayfinders with the as
 
 * * *
 
-**Effect** The wayfinder can cast 4th-rank [[Spells/Hydraulic Torrent|Hydraulic Torrent]].
+**Effect** The wayfinder can cast 4th-rank [[Hydraulic Torrent|Hydraulic Torrent]].
 
 * * *
 
-Additionally, you gain the constent effect of [[Spells/Water Breathing|Water Breathing]].
+Additionally, you gain the constent effect of [[Water Breathing|Water Breathing]].
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

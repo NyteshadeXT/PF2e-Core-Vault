@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-Your can now draw from experience to wear any face you remember. When you use Phantom Visage, you gain the effects of a 3rd-rank [[Spells/Illusory Disguise|Illusory Disguise]] for 1 hour or until you shift back, whichever comes first.
+Your can now draw from experience to wear any face you remember. When you use Phantom Visage, you gain the effects of a 3rd-rank [[Illusory Disguise|Illusory Disguise]] for 1 hour or until you shift back, whichever comes first.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

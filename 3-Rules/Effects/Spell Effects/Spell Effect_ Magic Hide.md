@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Magic Hide|Magic Hide]]
+Granted by [[3-Rules/Character Building/Spells/M/Magic Hide|Magic Hide]]
 
 *Source: Pathfinder Player Core*
 *ORC*

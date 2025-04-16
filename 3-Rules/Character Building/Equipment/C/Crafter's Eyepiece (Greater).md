@@ -31,7 +31,7 @@ You gain a +2 item bonus to Crafting checks. When you Repair an item, increase t
 
 * * *
 
-**Effect** You calibrate the eyepiece to have it cast a 5th-rank [[Spells/Creation|Creation]] spell over the course of 1 minute to construct a temporary item.
+**Effect** You calibrate the eyepiece to have it cast a 5th-rank [[Creation|Creation]] spell over the course of 1 minute to construct a temporary item.
 
 *Source: Pathfinder GM Core*
 *ORC*

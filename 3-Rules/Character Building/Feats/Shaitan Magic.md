@@ -18,7 +18,7 @@ license: OGL
 
 
 
-The magic of shaitans runs through your blood. You can cast [[Spells/Revealing Light|Revealing Light]] and [[Spells/Resist Energy|Resist Energy]] once per day each as 2nd-rank arcane innate spells.
+The magic of shaitans runs through your blood. You can cast [[Revealing Light|Revealing Light]] and [[Resist Energy|Resist Energy]] once per day each as 2nd-rank arcane innate spells.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Acknowledge Fan `pf2:1`
 ## Feat 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[incapacitation]][[3-Rules/trait_reference/mental]][[visual]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[incapacitation]][[3-Rules/trait_reference/M/mental]][[visual]]
 
 **Category** class; 
 

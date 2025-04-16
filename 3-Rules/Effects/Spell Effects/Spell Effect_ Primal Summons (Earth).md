@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Primal Summons|Primal Summons]] when you select earth.
+Granted by [[3-Rules/Character Building/Spells/P/Primal Summons|Primal Summons]] when you select earth.
 
 The creature gains a burrow Speed of 20 feet, and reduces its land Speed by 10 feet (minimum 5 feet).
 

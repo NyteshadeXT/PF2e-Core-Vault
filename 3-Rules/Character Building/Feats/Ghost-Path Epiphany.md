@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Cultivator Dedication; you aren't holy
 * * *
-Deviating from the orthodox path, you tread an inauspicious descent littered with flowers of death; this heretical choice will, in time, earn you the enmity and fear of more traditional cultivators. You become sanctified with the unholy trait. You also learn the [[Spells/Call Spirit|Call Spirit]] and [[Spells/Commune|Commune]] rituals, which can be used to contact only undead or entities from the Void or the Netherworld.
+Deviating from the orthodox path, you tread an inauspicious descent littered with flowers of death; this heretical choice will, in time, earn you the enmity and fear of more traditional cultivators. You become sanctified with the unholy trait. You also learn the [[Call Spirit|Call Spirit]] and [[Commune|Commune]] rituals, which can be used to contact only undead or entities from the Void or the Netherworld.
 
 When you cast a ritual, you can reduce the number of secondary casters by 1 as you direct decaying fragments of your own soul, felled by your proximity to death, to assist with the ritual. When you do, you must fulfill any requirements for the secondary caster, and you attempt the secondary check normally performed by that secondary caster. You can't replace a secondary caster who's the target of the spell (as in the atone ritual).
 

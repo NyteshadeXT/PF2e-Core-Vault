@@ -14,7 +14,7 @@ license: ORC
 ---
 # Medusa Armor
 ## Item 14
-### [rare](rare "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
 
 **Category** medium; **Group** composite
 **Price** 0 gp; 

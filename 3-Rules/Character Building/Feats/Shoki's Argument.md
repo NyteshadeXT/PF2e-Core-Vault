@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You feel a connection to shokis, the rambling collectors of wayward souls, and might have found old texts written by one. You are trained in Diplomacy. If you were already trained in Diplomacy (from your background or class, for example), you instead become trained in a skill of your choice. You can also cast [[Spells/Vitality Lash|Vitality Lash]] as a divine innate cantrip at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
+You feel a connection to shokis, the rambling collectors of wayward souls, and might have found old texts written by one. You are trained in Diplomacy. If you were already trained in Diplomacy (from your background or class, for example), you instead become trained in a skill of your choice. You can also cast [[Vitality Lash|Vitality Lash]] as a divine innate cantrip at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

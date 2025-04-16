@@ -16,7 +16,7 @@ license: ORC
 ---
 # Flashblade
 ## Item 6
-### [[brace]][[deadly-d12]][[magical|Magical]][[3-Rules/trait_reference/reach|Reach]] 
+### [[brace]][[deadly-d12]][[magical|Magical]][[reach|Reach]] 
 
 |  |  |
 | -- | -- |

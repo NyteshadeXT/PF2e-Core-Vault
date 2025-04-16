@@ -27,7 +27,7 @@ The hut can't attack or attempt skill checks. You can give the hut a command as 
 
 *   **Guard** The hut watches for trespassers within 120 feet using your Perception modifier and screams if it spots any.
 *   **Hide** The hut appears to be a normal, mundane object of its type. This is a 10th-rank illusion effect.
-*   **Leap** The hut spins around or leaps into the air, then casts 10th-rank [[Spells/Teleport|Teleport]], transporting itself and all creatures within it.
+*   **Leap** The hut spins around or leaps into the air, then casts 10th-rank [[Teleport|Teleport]], transporting itself and all creatures within it.
 *   **Lock** With a slam, each entrance to the hut becomes sealed with a lock spell. You can give this command again to unlock its entrances.
 *   **Move** The hut gains a Speed of 60 feet, growing giant bird or bone legs, if necessary, and follows an extremely basic movement command you give it, such as "follow me" or "move that direction." While perfectly suitable for overland travel, the hut's broad movements and 1-round delay on response time are too imprecise to predictably direct in a combat encounter or other situation where seconds and precise locations count.
 

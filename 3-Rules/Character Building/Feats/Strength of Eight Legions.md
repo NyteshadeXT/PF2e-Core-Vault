@@ -21,7 +21,7 @@ license: ORC
 
 
 
-You meditate for 24 hours in a one-time ceremony within a forest or cave; after your seclusion, your frame and limbs swell with warlike might to enact your vows. You permanently gain the effects of [[Spells/Enlarge|Enlarge]], and your maximum Hit Points increase by your level. The ceremony transforms most of your gear to the appropriate size for your new body (though powerful items like artifacts or items strongly tied to their original size can't transform, at the GM's discretion).
+You meditate for 24 hours in a one-time ceremony within a forest or cave; after your seclusion, your frame and limbs swell with warlike might to enact your vows. You permanently gain the effects of [[Enlarge|Enlarge]], and your maximum Hit Points increase by your level. The ceremony transforms most of your gear to the appropriate size for your new body (though powerful items like artifacts or items strongly tied to their original size can't transform, at the GM's discretion).
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Shadow Magic
 * * *
-With an artful eye, you shape shadows into illusory forms. You gain the [[Spells/Shadow Illusion|Shadow Illusion]] focus spell. Increase the number of Focus Points in your pool by 1. You become an expert in occult spell attack rolls and DCs.
+With an artful eye, you shape shadows into illusory forms. You gain the [[3-Rules/Character Building/Spells/S/Shadow Illusion|Shadow Illusion]] focus spell. Increase the number of Focus Points in your pool by 1. You become an expert in occult spell attack rolls and DCs.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

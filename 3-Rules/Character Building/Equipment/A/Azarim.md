@@ -18,7 +18,7 @@ license: OGL
 ---
 # Azarim
 ## Item 7
-### [unique](unique.md "Unique Rarity Trait")[[deadly-d8]][[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Divine]][[3-Rules/Rule References/Finesse]][[Holy]][[intelligent]][[magical|Magical]]
+### [unique](unique.md "Unique Rarity Trait")[[deadly-d8]][[3-Rules/Trait Reference/D/disarm]][[3-Rules/Rule References/Divine]][[3-Rules/Rule References/Finesse]][[Holy]][[intelligent]][[magical|Magical]]
 
 |  |  |
 | -- | -- |
@@ -65,7 +65,7 @@ _Azarim_ deals an additional 1d6 spirit damage to worshippers of Droskar, to cre
 
 * * *
 
-**Activate** `pf2:2` (command, Interact) _Azarim_ casts 2nd-rank [[Spells/Illusory Disguise|Illusory Disguise]] on her wielder. This effect ends immediately as soon as the wielder no longer carries _Azarim_.
+**Activate** `pf2:2` (command, Interact) _Azarim_ casts 2nd-rank [[Illusory Disguise|Illusory Disguise]] on her wielder. This effect ends immediately as soon as the wielder no longer carries _Azarim_.
 
 * * *
 

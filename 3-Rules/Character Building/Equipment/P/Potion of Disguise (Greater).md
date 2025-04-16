@@ -15,7 +15,7 @@ license: ORC
 ---
 # Potion of Disguise (Greater)
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[polymorph]][[potion]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[polymorph]][[potion]]
 
 **Category** potion; 
 **Price** 300 gp; 

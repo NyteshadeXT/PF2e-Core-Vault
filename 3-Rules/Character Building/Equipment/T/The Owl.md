@@ -34,7 +34,7 @@ _The Owl_ represents the wisdom of nature and the natural order. As long as you 
 
 * * *
 
-**Effect** After spending an hour meditating, you can ask one question of the region's spirits, as if you had just performed a [[Spells/Commune|Commune]] ritual. Attempt a DC 30 Nature check check to determine the result.
+**Effect** After spending an hour meditating, you can ask one question of the region's spirits, as if you had just performed a [[Commune|Commune]] ritual. Attempt a DC 30 Nature check check to determine the result.
 
 *Source: Pathfinder #191: The Destiny War*
 *OGL*

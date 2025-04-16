@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Element Embodied|Element Embodied]]
+Granted by [[Element Embodied|Element Embodied]]
 
 Drawing upon the deepest wells of magic in an elemental plane, you transform into a spectacular elemental. You can choose between an air elemental, earth elemental, fire elemental, or water elemental. Your battle form is Gargantuan, and you must have enough space to expand into or the spell is lost. While in this form, you gain the elemental trait and the trait for the element you choose. You can Dismiss the spell.
 

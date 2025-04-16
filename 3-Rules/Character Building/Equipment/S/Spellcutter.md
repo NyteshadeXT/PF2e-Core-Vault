@@ -14,7 +14,7 @@ license: OGL
 ---
 # Spellcutter
 ## Item 17
-### [unique](unique "Unique Rarity Trait")[[cursed]][[magical]][[versatile-p]]
+### [unique](unique.md "Unique Rarity Trait")[[cursed]][[magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

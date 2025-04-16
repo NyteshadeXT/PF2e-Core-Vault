@@ -21,7 +21,7 @@ license: OGL
 * * *
 **Trigger** An enemy hits you with a melee Strike or a melee spell attack roll, or you fail a save against an enemy's spell.
 
-**Requirements** You are wielding a shield or have the [[Spells/Shield|Shield]] spell prepared.
+**Requirements** You are wielding a shield or have the [[Shield|Shield]] spell prepared.
 
 * * *
 

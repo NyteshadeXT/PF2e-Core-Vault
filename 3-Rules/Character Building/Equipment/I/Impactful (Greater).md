@@ -11,7 +11,7 @@ license: OGL
 ---
 # Impactful (Greater)
 ## Item 17
-### [[3-Rules/trait_reference/force]][[magical]]
+### [[3-Rules/Trait Reference/F/force]][[magical]]
 
 
 **Price** 15000 gp; 

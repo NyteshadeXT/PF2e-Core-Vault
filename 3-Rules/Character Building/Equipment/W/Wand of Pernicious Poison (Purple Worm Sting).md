@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Pernicious Poison (Purple Worm Sting)
 ## Item 14
-### [[magical]][[3-Rules/trait_reference/poison]][[wand]]
+### [[magical]][[3-Rules/trait_reference/P/poison]][[wand]]
 
 
 **Price** 4500 gp; 
@@ -27,11 +27,11 @@ This wand is made of chitin, topped with a hooked barb that weeps droplets of fo
 
 * * *
 
-**Effect** You cast [[Spells/Purple Worm Sting|Purple Worm Sting]]. The poison the spell delivers gains the virulent trait.
+**Effect** You cast [[Purple Worm Sting|Purple Worm Sting]]. The poison the spell delivers gains the virulent trait.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Purple Worm Sting|Purple Worm Sting]].
+**Craft Requirements** Supply a casting of [[Purple Worm Sting|Purple Worm Sting]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

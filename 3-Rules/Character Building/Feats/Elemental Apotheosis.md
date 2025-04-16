@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Nourishing Gate; exactly one kinetic element
 * * *
-You take on an elemental countenance, appearing like a type of elemental of your element. You gain any Speeds listed in the [[Spells/Elemental Form|Elemental Form]] spell for your element and gain darkvision if you don't already have it. You also gain the elemental trait and the trait of your chosen element.
+You take on an elemental countenance, appearing like a type of elemental of your element. You gain any Speeds listed in the [[Elemental Form|Elemental Form]] spell for your element and gain darkvision if you don't already have it. You also gain the elemental trait and the trait of your chosen element.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You have such a strong connection to the natural world that you can inspire it to attack at those who threaten you. You can cast [[Spells/Nature's Reprisal|Nature's Reprisal]] once per hour as a primal innate spell.
+You have such a strong connection to the natural world that you can inspire it to attack at those who threaten you. You can cast [[Nature's Reprisal|Nature's Reprisal]] once per hour as a primal innate spell.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

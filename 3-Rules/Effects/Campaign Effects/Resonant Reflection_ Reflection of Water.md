@@ -12,7 +12,7 @@ license: OGL
 ---
 # Resonant Reflection: Reflection of Water
 ## Feat 10
-### [[magical]][[3-Rules/trait_reference/water]]
+### [[magical]][[3-Rules/trait_reference/W/water]]
 
 **Category** deityboon; 
 
@@ -29,7 +29,7 @@ Your body is infused with the essence of water and becomes adapted to its presen
 
 * * *
 
-**Effect** You cast [[Spells/Control Water|Control Water]] as a 5th-rank innate divine spell. The area of water you control increases by 10 feet in length and width for every 2 levels you have beyond 10th level.
+**Effect** You cast [[Control Water|Control Water]] as a 5th-rank innate divine spell. The area of water you control increases by 10 feet in length and width for every 2 levels you have beyond 10th level.
 
 *Source: Pathfinder #153: Life's Long Shadows*
 *OGL*

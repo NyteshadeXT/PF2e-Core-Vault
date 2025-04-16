@@ -14,7 +14,7 @@ license: ORC
 ---
 # Potion of Passing Fancy
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]]
 
 **Category** other; 
 **Price** 20 gp; 

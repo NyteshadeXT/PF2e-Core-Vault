@@ -21,7 +21,7 @@ license: ORC
 
 
 
-You're an exceptional conduit for vitality and, as you channel it through you, you can divert some to heal yourself or another creature. When you cast the [[Spells/Heal|Heal]] spell to heal a single creature, choose another willing living creature within range of your _heal_ to regain Hit Points equal to the _heal_ spell's rank.
+You're an exceptional conduit for vitality and, as you channel it through you, you can divert some to heal yourself or another creature. When you cast the [[Heal|Heal]] spell to heal a single creature, choose another willing living creature within range of your _heal_ to regain Hit Points equal to the _heal_ spell's rank.
 
 *Source: Pathfinder Player Core*
 *ORC*

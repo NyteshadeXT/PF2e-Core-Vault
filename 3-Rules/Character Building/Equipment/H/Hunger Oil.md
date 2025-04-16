@@ -15,7 +15,7 @@ license: OGL
 ---
 # Hunger Oil
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[divine]][[3-Rules/trait_reference/poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[divine]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 235 gp; 
@@ -40,7 +40,7 @@ Rendered from the fat of corporeal undead creatures and infused with ghoulish ma
 
 * * *
 
-**Craft Requirements** Supply one casting of [[Spells/Ghoulish Cravings|Ghoulish Cravings]].
+**Craft Requirements** Supply one casting of [[Ghoulish Cravings|Ghoulish Cravings]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

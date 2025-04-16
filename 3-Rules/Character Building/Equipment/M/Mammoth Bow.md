@@ -15,7 +15,7 @@ license: OGL
 ---
 # Mammoth Bow
 ## Item 12
-### [unique](unique "Unique Rarity Trait")[[deadly-d10]][[magical]][[propulsive]][[volley-50]]
+### [unique](unique.md "Unique Rarity Trait")[[deadly-d10]][[magical]][[propulsive]][[volley-50]]
 
 |  |  |
 | -- | -- |

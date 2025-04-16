@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by casting [[Spells/Shifting Form|Shifting Form]] and choosing to gain a pair of claws.
+Granted by casting [[Shifting Form|Shifting Form]] and choosing to gain a pair of claws.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

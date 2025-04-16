@@ -34,7 +34,7 @@ The blade of this _+2 striking dagger_ is etched with whirling portals, and a si
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Translocate|Translocate]]. The space you leave and the one you appear in are filled with puffs of smoke that make anyone within [[Conditions/Concealed|Concealed]] until they leave the smoke or until the end of your next turn, at which point the smoke dissipates. When used in strong winds, the smoke disperses immediately.
+**Effect** You cast [[Translocate|Translocate]]. The space you leave and the one you appear in are filled with puffs of smoke that make anyone within [[Conditions/Concealed|Concealed]] until they leave the smoke or until the end of your next turn, at which point the smoke dissipates. When used in strong winds, the smoke disperses immediately.
 
 * * *
 

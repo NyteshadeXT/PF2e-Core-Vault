@@ -34,7 +34,7 @@ _The Peacock_ represents a sudden shift in attitude or societal change, often re
 
 * * *
 
-**Effect** You freeze your appearance as it exists in this very moment by tapping The Peacock to your lips. You cast [[Spells/Mountain Resilience|Mountain Resilience]] on yourself, but with a duration of 30 minutes instead of 20 minutes. The rank of the spell is one-half your level rounded down (minimum 6th level).
+**Effect** You freeze your appearance as it exists in this very moment by tapping The Peacock to your lips. You cast [[Mountain Resilience|Mountain Resilience]] on yourself, but with a duration of 30 minutes instead of 20 minutes. The rank of the spell is one-half your level rounded down (minimum 6th level).
 
 *Source: Pathfinder #192: Worst of All Possible Worlds*
 *OGL*

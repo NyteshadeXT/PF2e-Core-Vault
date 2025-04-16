@@ -28,7 +28,7 @@ The four different types of _scroll cases of simplicity_ often bear adornments a
 
 **Effect** You transfer the scroll's energy into the scroll case, consuming the scroll, and you can immediately begin casting one of the scroll case's spells. If you use any action other than to Cast a Spell from the scroll case after activating the _scroll case of simplicity_, the scroll and its energy are lost.
 
-The scroll case can be used to cast [[Spells/Heal|Heal]] or [[Spells/Cleanse Cuisine|Cleanse Cuisine]]
+The scroll case can be used to cast [[Heal|Heal]] or [[Cleanse Cuisine|Cleanse Cuisine]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

@@ -16,7 +16,7 @@ license: ORC
 ---
 # Animalistic Brutality `pf2:1`
 ## Feat 8
-### [[barbarian]][[concentrate]][[morph]][[primal]][[rage]]
+### [[barbarian]][[concentrate]][[morph]][[primal]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

@@ -35,9 +35,9 @@ A crystalline sphere, swirling with constantly shifting constellations, sits ato
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Guidance|Guidance]], [[Spells/Summon Instrument|Summon Instrument]]
-*   **1st** [[Spells/Concordant Choir|Concordant Choir]]
-*   **2nd** [[Spells/Guiding Star|Guiding Star]], [[Spells/Sure Footing|Sure Footing]]
+*   **Cantrip** [[Guidance|Guidance]], [[Summon Instrument|Summon Instrument]]
+*   **1st** [[Concordant Choir|Concordant Choir]]
+*   **2nd** [[3-Rules/Character Building/Spells/G/Guiding Star|Guiding Star]], [[Sure Footing|Sure Footing]]
 
 * * *
 

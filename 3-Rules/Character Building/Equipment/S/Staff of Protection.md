@@ -34,9 +34,9 @@ This wooden staff is remarkably sturdy and unyielding. While wielding the staff,
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Shield|Shield]]
-*   **1st** [[Spells/Alarm|Alarm]], [[Spells/Mystic Armor|Mystic Armor]]
-*   **2nd** [[Spells/Dispel Magic|Dispel Magic]], [[Spells/Environmental Endurance|Environmental Endurance]], [[Spells/Resist Energy|Resist Energy]]
+*   **Cantrip** [[Shield|Shield]]
+*   **1st** [[Alarm|Alarm]], [[Mystic Armor|Mystic Armor]]
+*   **2nd** [[Dispel Magic|Dispel Magic]], [[Environmental Endurance|Environmental Endurance]], [[Resist Energy|Resist Energy]]
 
 **Craft Requirements** Supply one casting of all listed ranks of all listed spells.
 

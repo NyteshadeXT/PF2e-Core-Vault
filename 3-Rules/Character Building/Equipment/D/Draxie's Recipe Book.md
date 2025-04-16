@@ -18,7 +18,7 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-This tiny recipe book was created by a famous draxie chef, but it instantly resizes to fit the hand and eyes of the reader. While most of the pages are blank and ready to receive spells, the first four pages are taken up by a complex seasoning recipe that requires a casting of [[Spells/Revealing Light|Revealing Light]].
+This tiny recipe book was created by a famous draxie chef, but it instantly resizes to fit the hand and eyes of the reader. While most of the pages are blank and ready to receive spells, the first four pages are taken up by a complex seasoning recipe that requires a casting of [[Revealing Light|Revealing Light]].
 
 **Activate** `pf2:0` envision
 

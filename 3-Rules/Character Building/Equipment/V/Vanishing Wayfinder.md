@@ -27,7 +27,7 @@ A vanishing wayfinder is crafted of ivory chased with gold and silver. It has th
 
 * * *
 
-**Effect** You turn the wayfinder in a circle while invoking its command word, gaining the effects of a 2nd-rank [[Spells/Invisibility|Invisibility]] spell for 5 minutes.
+**Effect** You turn the wayfinder in a circle while invoking its command word, gaining the effects of a 2nd-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] spell for 5 minutes.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

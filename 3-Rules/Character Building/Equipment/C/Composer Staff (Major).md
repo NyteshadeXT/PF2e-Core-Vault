@@ -14,7 +14,7 @@ license: OGL
 ---
 # Composer Staff (Major)
 ## Item 12
-### [[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
+### [[magical|Magical]][[3-Rules/Trait Reference/S/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -33,12 +33,12 @@ A _composer staff_ is short and shaped like an elegant black conductor's baton w
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Haunting Hymn|Haunting Hymn]], [[Spells/Summon Instrument|Summon Instrument]]
-*   **1st** [[Spells/Concordant Choir|Concordant Choir]]
-*   **2nd** [[Spells/Sonata Span|Sonata Span]]
-*   **3rd** [[Spells/Concordant Choir|Concordant Choir]], [[Spells/Roaring Applause|Roaring Applause]], [[Spells/Sculpt Sound|Sculpt Sound]]
-*   **4th** [[Spells/Infectious Melody|Infectious Melody]]
-*   **5th** [[Spells/Concordant Choir|Concordant Choir]], [[Spells/Sculpt Sound|Sculpt Sound]]
+*   **Cantrip** [[Haunting Hymn|Haunting Hymn]], [[Summon Instrument|Summon Instrument]]
+*   **1st** [[Concordant Choir|Concordant Choir]]
+*   **2nd** [[Sonata Span|Sonata Span]]
+*   **3rd** [[Concordant Choir|Concordant Choir]], [[Roaring Applause|Roaring Applause]], [[Sculpt Sound|Sculpt Sound]]
+*   **4th** [[Infectious Melody|Infectious Melody]]
+*   **5th** [[Concordant Choir|Concordant Choir]], [[Sculpt Sound|Sculpt Sound]]
 
 **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 

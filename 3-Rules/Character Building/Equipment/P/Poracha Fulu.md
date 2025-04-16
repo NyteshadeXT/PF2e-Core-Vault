@@ -14,7 +14,7 @@ license: OGL
 ---
 # Poracha Fulu
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[fulu]][[magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[fulu]][[magical]][[talisman]]
 
 **Category** fulu; 
 **Price** 30 gp; 

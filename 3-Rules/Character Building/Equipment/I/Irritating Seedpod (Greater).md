@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-When you crack open this soft, spongy seedpod, you can use it as a catalyst when casting a [[Spells/Mist|Mist]] spell. When you do, irritating pollen fills the area for the spell's duration. Creatures in the area must attempt a DC 24 Fortitude check saving throw to avoid sneezing uncontrollably. On a failed save, the creature becomes [[Conditions/Slowed|Slowed 1]] for 3 rounds. A creature that succeeds at this saving throw becomes temporarily immune to the irritating seedpod's pollen for 10 minutes.
+When you crack open this soft, spongy seedpod, you can use it as a catalyst when casting a [[Mist|Mist]] spell. When you do, irritating pollen fills the area for the spell's duration. Creatures in the area must attempt a DC 24 Fortitude check saving throw to avoid sneezing uncontrollably. On a failed save, the creature becomes [[Conditions/Slowed|Slowed 1]] for 3 rounds. A creature that succeeds at this saving throw becomes temporarily immune to the irritating seedpod's pollen for 10 minutes.
 
 *Source: Pathfinder #203: Shepherd of Decay*
 *ORC*

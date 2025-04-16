@@ -14,7 +14,7 @@ license: OGL
 ---
 # Rungu
 ## Item 0
-### [[grippli]][[shove]][[thrown-30]]
+### [[grippli]][[3-Rules/Trait Reference/S/shove]][[thrown-30]]
 
 |  |  |
 | -- | -- |

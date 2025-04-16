@@ -14,7 +14,7 @@ license: OGL
 ---
 # Piercing Whistle Snare
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 45 gp; 

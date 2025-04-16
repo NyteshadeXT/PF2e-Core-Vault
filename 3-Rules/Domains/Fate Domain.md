@@ -10,6 +10,6 @@ tags:
 # Fate Domain
 **Deities** [[Deities/Angradd|Angradd]], [[Deities/Cosmic Caravan|Cosmic Caravan]], [[Deities/Erecura|Erecura]], [[Deities/Followers of Fate|Followers of Fate]], [[Deities/Grandmother Spider|Grandmother Spider]], [[Deities/Imot|Imot]], [[Deities/Irez|Irez]], [[Deities/Lissala|Lissala]], [[Deities/Luhar|Luhar]], [[Deities/Lysianassa|Lysianassa]], [[Deities/Magdh|Magdh]], [[Deities/Magrim|Magrim]], [[Deities/Mahathallah|Mahathallah]], [[Deities/Otolmens|Otolmens]], [[Deities/Pharasma|Pharasma]], [[Deities/Ravithra|Ravithra]], [[Deities/Shyka|Shyka]], [[Deities/Valmallos|Valmallos]]
 
-**Domain Spell** [[Spells/Read Fate|Read Fate]]; **Advanced Domain Spell** [[Spells/Tempt Fate|Tempt Fate]]
+**Domain Spell** [[Read Fate|Read Fate]]; **Advanced Domain Spell** [[Tempt Fate|Tempt Fate]]
 
 You see and understand hidden inevitabilities.

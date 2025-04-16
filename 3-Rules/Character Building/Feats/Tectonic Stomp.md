@@ -12,7 +12,7 @@ license: OGL
 ---
 # Tectonic Stomp `pf2:2`
 ## Feat 10
-### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[deviant]][[magical]]
 
 **Category** class; 
 

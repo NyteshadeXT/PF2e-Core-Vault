@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** Water Walker
 * * *
-Your mysterious steps become even lighter, transcending the mortal world altogether. When you have the [[Conditions/Cursebound|Cursebound]] condition, you gain the effects of [[Spells/Fly|Fly]]. If you are cursebound 3 or greater, you gain a +10-foot status bonus to your fly Speed.
+Your mysterious steps become even lighter, transcending the mortal world altogether. When you have the [[Conditions/Cursebound|Cursebound]] condition, you gain the effects of [[3-Rules/Character Building/Spells/F/Fly|Fly]]. If you are cursebound 3 or greater, you gain a +10-foot status bonus to your fly Speed.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

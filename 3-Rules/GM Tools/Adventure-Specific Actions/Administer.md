@@ -13,7 +13,7 @@ license: OGL
 ---
 # Administer
 
-### [[concentrate]][[downtime]][[linguistic]][[3-Rules/trait_reference/mental]]
+### [[concentrate]][[downtime]][[linguistic]][[3-Rules/trait_reference/M/mental]]
 
 
 

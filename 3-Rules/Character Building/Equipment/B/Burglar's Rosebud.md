@@ -16,7 +16,7 @@ license: ORC
 ---
 # Burglar's Rosebud
 ## Item 3
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Mental]][[3-Rules/trait_reference/plant]][[Wood]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Mental]][[plant]][[Wood]]
 
 **Category** other; 
 **Price** 10 gp; 

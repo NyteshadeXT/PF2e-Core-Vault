@@ -18,7 +18,7 @@ license: ORC
 ---
 # Staff of Sun Wukong
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[divine]][[monk]][[parry]][[reach]][[trip]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[divine]][[monk]][[parry]][[reach]][[3-Rules/trait_reference/T/trip]]
 
 |  |  |
 | -- | -- |

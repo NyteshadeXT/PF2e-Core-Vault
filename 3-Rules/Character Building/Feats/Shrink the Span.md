@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Incredible Movement; Ki Spells
 * * *
-You can teleport yourself a short distance. You gain the [[Spells/Shrink the Span|Abundant Step]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+You can teleport yourself a short distance. You gain the [[3-Rules/Character Building/Spells/S/Shrink the Span|Abundant Step]] ki spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

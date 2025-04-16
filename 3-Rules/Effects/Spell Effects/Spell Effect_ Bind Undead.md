@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Bind Undead|Bind Undead]]
+Granted by [[Bind Undead|Bind Undead]]
 
 The target mindless undead creature gains the minion trait.
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wand of the Spider (4th-Rank Spell)
 ## Item 11
-### [[magical]][[3-Rules/trait_reference/poison]][[wand]]
+### [[magical]][[3-Rules/trait_reference/P/poison]][[wand]]
 
 
 **Price** 1400 gp; 
@@ -28,7 +28,7 @@ The length of this wand is a pair of twisted giant spider legs.
 
 **Frequency** once per day, plus overcharge
 
-**Effect** You cast [[Spells/Web|Web]] at 4th-rank, but the strands of webbing are toxic. Any creature that fails its Athletics check or Reflex save to navigate the web takes 2d6 poison damage plus 1d6 persistent poison damage.
+**Effect** You cast [[Web|Web]] at 4th-rank, but the strands of webbing are toxic. Any creature that fails its Athletics check or Reflex save to navigate the web takes 2d6 poison damage plus 1d6 persistent poison damage.
 
 * * *
 

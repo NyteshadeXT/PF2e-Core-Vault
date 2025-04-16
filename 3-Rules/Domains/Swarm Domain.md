@@ -10,6 +10,6 @@ tags:
 # Swarm Domain
 **Deities** [[Deities/Apollyon|Apollyon]], [[Deities/Ghlaunder|Ghlaunder]], [[Deities/Halcamora|Halcamora]], [[Deities/Lahkgya|Lahkgya]], [[Deities/Lao Shu Po|Lao Shu Po]], [[Deities/Pazuzu|Pazuzu]], [[Deities/Rovagug|Rovagug]], [[Deities/Urgathoa|Urgathoa]]
 
-**Domain Spell** [[Spells/Swarmsense|Swarmsense]]; **Advanced Domain Spell** [[Spells/Swarm Form|Swarm Form]]
+**Domain Spell** [[Swarmsense|Swarmsense]]; **Advanced Domain Spell** [[Swarm Form|Swarm Form]]
 
 You exert control over masses of creatures.

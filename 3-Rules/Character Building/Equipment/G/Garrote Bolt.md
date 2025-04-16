@@ -12,7 +12,7 @@ license: OGL
 ---
 # Garrote Bolt
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]]
 
 **Category** ammo; 
 **Price** 1200 gp; 

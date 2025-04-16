@@ -14,7 +14,7 @@ license: OGL
 ---
 # Grisly Scythe
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[deadly-d10]][[magical]][[trip]]
+### [rare](rare.md "Rare Rarity Trait")[[deadly-d10]][[magical]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

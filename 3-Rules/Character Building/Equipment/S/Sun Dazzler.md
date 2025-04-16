@@ -12,7 +12,7 @@ license: OGL
 ---
 # Sun Dazzler
 ## Item 8
-### [[alchemical]][[3-Rules/trait_reference/light]][[visual]]
+### [[alchemical]][[3-Rules/trait_reference/L/light]][[visual]]
 
 
 **Price** 450 gp; 

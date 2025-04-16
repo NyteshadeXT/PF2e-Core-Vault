@@ -27,7 +27,7 @@ This tarnished necklace can be attuned only by someone who is holy or unholy. Wh
 
 * * *
 
-**Effect** The symbol casts 4th-rank [[Spells/Bane|Bane]], [[Spells/Bless|Bless]], [[Spells/Divine Wrath|Divine Wrath]], and [[Spells/Cleanse Affliction|Cleanse Affliction]].
+**Effect** The symbol casts 4th-rank [[3-Rules/Character Building/Spells/B/Bane|Bane]], [[Bless|Bless]], [[Divine Wrath|Divine Wrath]], and [[Cleanse Affliction|Cleanse Affliction]].
 
 The counteract DC of these effects is 27, and the counteract modifier is +17.
 

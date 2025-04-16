@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Pest Form|Pest Form]]
+Granted by [[Pest Form|Pest Form]]
 
 You transform into the battle form of a Tiny animal, such as a cat, insect, lizard, or rat. You can decide the specific type of animal (such as a rat or praying mantis), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait and you can't make Strikes. You can Dismiss the spell.
 

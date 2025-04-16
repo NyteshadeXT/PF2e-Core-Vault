@@ -16,7 +16,7 @@ license: OGL
 ---
 # Grasp of Droskar
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[agile]][[cursed]][[free-hand]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[agile]][[cursed]][[free-hand]][[invested]][[magical]]
 
 |  |  |
 | -- | -- |
@@ -45,7 +45,7 @@ This _+1 striking [[Gauntlet|Gauntlet]]_ appears little more than a dull, soot-s
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Enfeeble|Enfeeble]] with a spell attack modifier of +10 (Spell Attack) and (DC 20 Fortitude check).
+**Effect** You cast [[Enfeeble|Enfeeble]] with a spell attack modifier of +10 (Spell Attack) and (DC 20 Fortitude check).
 
 *Source: Pathfinder Adventure: Crown of the Kobold King*
 *OGL*

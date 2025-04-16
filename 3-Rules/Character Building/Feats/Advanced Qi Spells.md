@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Qi Spells
 * * *
-Your talent at controlling your qi has reached new heights. You gain [[Spells/Qi Blast|Qi Blast]], [[Spells/Shrink the Span|Shrink the Span]], or another 3rd-rank qi spell you have access to.
+Your talent at controlling your qi has reached new heights. You gain [[Qi Blast|Qi Blast]], [[3-Rules/Character Building/Spells/S/Shrink the Span|Shrink the Span]], or another 3rd-rank qi spell you have access to.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

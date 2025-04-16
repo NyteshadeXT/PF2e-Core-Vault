@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You've learned how to sew even the most terrible tears and wounds together. You can cast [[Spells/Regenerate|Regenerate]] as a 7th-rank arcane innate spell once per day.
+You've learned how to sew even the most terrible tears and wounds together. You can cast [[Regenerate|Regenerate]] as a 7th-rank arcane innate spell once per day.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

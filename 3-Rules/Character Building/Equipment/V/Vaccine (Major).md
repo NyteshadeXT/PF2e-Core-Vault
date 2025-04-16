@@ -13,7 +13,7 @@ license: OGL
 ---
 # Vaccine (Major)
 ## Item 18
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[elixir]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[elixir]]
 
 **Category** elixir; 
 **Price** 5000 gp; 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Goo Grenade (Moderate)
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[splash]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[splash]]
 
 |  |  |
 | -- | -- |

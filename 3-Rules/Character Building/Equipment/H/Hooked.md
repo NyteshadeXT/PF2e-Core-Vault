@@ -10,7 +10,7 @@ license: OGL
 ---
 # Hooked
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 
 **Price** 140 gp; 

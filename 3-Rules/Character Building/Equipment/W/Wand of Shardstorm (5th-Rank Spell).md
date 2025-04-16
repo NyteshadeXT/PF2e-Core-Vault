@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wand of Shardstorm (5th-Rank Spell)
 ## Item 13
-### [[3-Rules/trait_reference/force]][[magical]][[wand]]
+### [[3-Rules/trait_reference/F/force]][[magical]][[wand]]
 
 
 **Price** 3000 gp; 
@@ -28,7 +28,7 @@ This wand features a carved dragon's head at its top and a polished metal sphere
 
 * * *
 
-**Effect** You cast [[Spells/Force Barrage|Force Barrage]] at 5th rank.
+**Effect** You cast [[Force Barrage|Force Barrage]] at 5th rank.
 
 After you cast the spell, an additional shard or shards are released from the wand at the start of each of your turns, as though you cast the 1-action version of _force barrage_. Choose targets each time. This lasts for 1 minute, until you're no longer wielding the wand, or until you try to activate the wand again.
 

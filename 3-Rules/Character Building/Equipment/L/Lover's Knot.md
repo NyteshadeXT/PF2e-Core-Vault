@@ -14,7 +14,7 @@ license: OGL
 ---
 # Lover's Knot
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[healing]][[magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[healing]][[magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 6 gp; 

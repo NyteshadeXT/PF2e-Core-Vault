@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Oozemorph Dedication; trained in Performance
 * * *
-Your throat has multiple separate chambers that can give your voice an eerie echo. You can be clearly heard at distances of up to 300 feet regardless of ambient sound, although your voice doesn't penetrate a magical [[Spells/Silence|Silence]] effect.
+Your throat has multiple separate chambers that can give your voice an eerie echo. You can be clearly heard at distances of up to 300 feet regardless of ambient sound, although your voice doesn't penetrate a magical [[Silence|Silence]] effect.
 
 *Source: Pathfinder Adventure: The Slithering*
 *OGL*

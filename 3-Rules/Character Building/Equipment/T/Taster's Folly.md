@@ -14,7 +14,7 @@ license: OGL
 ---
 # Taster's Folly
 ## Item 4
-### [[alchemical]][[consumable]][[ingested]][[3-Rules/trait_reference/poison]]
+### [[alchemical]][[consumable]][[ingested]][[3-Rules/trait_reference/P/poison]]
 
 **Category** poison; 
 **Price** 20 gp; 

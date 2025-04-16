@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Wish-Twisted Form|Wish-Twisted Form]].
+Granted by [[Wish-Twisted Form|Wish-Twisted Form]].
 
 Implemented Effects:
 

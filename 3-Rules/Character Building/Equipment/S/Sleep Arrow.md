@@ -14,7 +14,7 @@ license: OGL
 ---
 # Sleep Arrow
 ## Item 3
-### [[consumable]][[magical]][[3-Rules/trait_reference/mental]][[sleep]]
+### [[consumable]][[magical]][[3-Rules/Trait Reference/M/mental]][[3-Rules/Trait Reference/S/sleep]]
 
 **Category** ammo; 
 **Price** 11 gp; 
@@ -23,7 +23,7 @@ license: OGL
 
 **Activate** `pf2:1` Interact
 
-_Sleep arrows_ often have shafts of deep blue or black, and their fletching is exceptionally soft and downy. An activated _sleep arrow_ deals no damage, but a living creature hit by it is subject to the effects of a [[Spells/Sleep|Sleep]] spell (DC 17).
+_Sleep arrows_ often have shafts of deep blue or black, and their fletching is exceptionally soft and downy. An activated _sleep arrow_ deals no damage, but a living creature hit by it is subject to the effects of a [[3-Rules/Character Building/Spells/S/Sleep|Sleep]] spell (DC 17).
 
 **Craft Requirements** Supply one casting of _sleep_.
 

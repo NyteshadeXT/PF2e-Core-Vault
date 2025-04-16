@@ -11,7 +11,7 @@ license: OGL
 ---
 # Portable Hole
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[extradimensional]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[extradimensional]][[magical]]
 
 
 **Price** 6000 gp; 

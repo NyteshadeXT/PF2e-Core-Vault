@@ -15,7 +15,7 @@ license: OGL
 ---
 # Rime Foil
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[disarm]][[finesse]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d8]][[3-Rules/Trait Reference/D/disarm]][[finesse]][[magical]]
 
 |  |  |
 | -- | -- |
@@ -36,7 +36,7 @@ The steely blue blade of this _+2 striking frost rapier_ emerges from a hilt wra
 
 * * *
 
-**Effect** You cast 5th-rank [[Spells/Phantom Prison|Phantom Prison]] on the target (DC 22 Will check to disbelieve). If the target has been damaged by a _shattered plan_ in the last round, the DC is instead DC 24 Will check.
+**Effect** You cast 5th-rank [[Phantom Prison|Phantom Prison]] on the target (DC 22 Will check to disbelieve). If the target has been damaged by a _shattered plan_ in the last round, the DC is instead DC 24 Will check.
 
 * * *
 

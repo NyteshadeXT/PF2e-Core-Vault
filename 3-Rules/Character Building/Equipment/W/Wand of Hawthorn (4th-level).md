@@ -26,11 +26,11 @@ Carved from a hawthorn branch, this wand has a smooth handle, but the shaft rema
 
 * * *
 
-**Effect** You cast 4th-rank [[Spells/Oaken Resilience|Oaken Resilience]], and the target sprouts long thorns like those of a hawthorn tree. While [[Spells/Oaken Resilience|Oaken Resilience]] lasts, any creature that hits the target with an unarmed Strike or otherwise touches it takes 2d4 piercing damage from the thorns. A creature that has engulfed or swallowed the target takes this damage as well at the start of each of the target's turns.
+**Effect** You cast 4th-rank [[Oaken Resilience|Oaken Resilience]], and the target sprouts long thorns like those of a hawthorn tree. While [[Oaken Resilience|Oaken Resilience]] lasts, any creature that hits the target with an unarmed Strike or otherwise touches it takes 2d4 piercing damage from the thorns. A creature that has engulfed or swallowed the target takes this damage as well at the start of each of the target's turns.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Oaken Resilience|Oaken Resilience]] of the appropriate rank.
+**Craft Requirements** Supply a casting of [[Oaken Resilience|Oaken Resilience]] of the appropriate rank.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

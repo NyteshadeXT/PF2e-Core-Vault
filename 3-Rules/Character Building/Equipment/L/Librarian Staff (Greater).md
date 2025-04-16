@@ -44,12 +44,12 @@ A _librarian staff_ is a slender pole composed of thousands of coiled and compre
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Approximate|Approximate]], [[Spells/Read Aura|Read Aura]]
-*   **1st** [[Spells/Pocket Library|Pocket Library]], [[Spells/Quick Sort|Quick Sort]], [[Spells/Share Lore|Share Lore]]
-*   **2nd** [[Spells/Translate|Translate]], [[Spells/Timely Tutor|Timely Tutor]]
-*   **3rd** [[Spells/Translate|Translate]], [[Spells/Pocket Library|Pocket Library]], [[Spells/Quick Sort|Quick Sort]], [[Spells/Share Lore|Share Lore]]
-*   **4th** [[Spells/Translate|Translate]]
-*   **5th** [[Spells/Quick Sort|Quick Sort]], [[Spells/Share Lore|Share Lore]]
+*   **Cantrip** [[Approximate|Approximate]], [[Read Aura|Read Aura]]
+*   **1st** [[Pocket Library|Pocket Library]], [[Quick Sort|Quick Sort]], [[Share Lore|Share Lore]]
+*   **2nd** [[Translate|Translate]], [[Timely Tutor|Timely Tutor]]
+*   **3rd** [[Translate|Translate]], [[Pocket Library|Pocket Library]], [[Quick Sort|Quick Sort]], [[Share Lore|Share Lore]]
+*   **4th** [[Translate|Translate]]
+*   **5th** [[Quick Sort|Quick Sort]], [[Share Lore|Share Lore]]
 
 * * *
 

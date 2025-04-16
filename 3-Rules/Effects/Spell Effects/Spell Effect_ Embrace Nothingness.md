@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Embrace Nothingness|Embrace Nothingness]]
+Granted by [[Embrace Nothingness|Embrace Nothingness]]
 
 You gain resistance to physical damage equal to your level.
 

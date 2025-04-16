@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/False Vitality|False Vitality]]
+Granted by [[False Vitality|False Vitality]]
 
 You augment your flesh with the energies typically used to manipulate the undead, gaining a number of temporary Hit Points.
 

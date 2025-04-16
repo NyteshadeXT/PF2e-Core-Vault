@@ -12,7 +12,7 @@ license: OGL
 ---
 # Rhino Shot
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]]
 
 **Category** ammo; 
 **Price** 22 gp; 

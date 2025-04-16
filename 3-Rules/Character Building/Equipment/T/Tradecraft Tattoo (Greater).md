@@ -27,7 +27,7 @@ Crafters choose tattoos that represent their dedication and skill in their chose
 
 * * *
 
-**Effect** The tattoo casts [[Spells/Creation|Creation]]. You choose the item and its appearance, and whether the spell is 4th or 5th level. This spell's duration is unlimited but ends when you Activate the tattoo again.
+**Effect** The tattoo casts [[Creation|Creation]]. You choose the item and its appearance, and whether the spell is 4th or 5th level. This spell's duration is unlimited but ends when you Activate the tattoo again.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

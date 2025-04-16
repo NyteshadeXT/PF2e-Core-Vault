@@ -27,7 +27,7 @@ license: OGL
 
 The DC for spells you cast with your _tengu feather fan_ is your class DC or spell DC, whichever is higher.
 
-You can cast the 1st-rank [[Spells/Gust of Wind|Gust of Wind]] spell by activating your _tengu feather fan_. Fortitude saving throw
+You can cast the 1st-rank [[Gust of Wind|Gust of Wind]] spell by activating your _tengu feather fan_. Fortitude saving throw
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

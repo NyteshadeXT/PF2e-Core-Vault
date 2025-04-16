@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Angelic Wings|Angelic Wings]]
+Granted by [[Angelic Wings|Angelic Wings]]
 
 Wings of pure light spread out from your back, granting you a fly Speed equal to your Speed. Your wings cast bright light in a 30-foot radius.
 

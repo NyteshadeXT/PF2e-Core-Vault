@@ -13,7 +13,7 @@ license: ORC
 ---
 # Hunt Prey `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]][[3-Rules/trait_reference/ranger]]
+### [[3-Rules/Rule References/Concentrate]][[ranger]]
 
 **Category** offensive; 
 

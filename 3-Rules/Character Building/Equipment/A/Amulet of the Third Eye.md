@@ -27,7 +27,7 @@ This large brass medallion hangs low on the torso. It's shaped in the form of an
 
 * * *
 
-**Effect** You cast [[Spells/Truesight|Truesight]].
+**Effect** You cast [[Truesight|Truesight]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

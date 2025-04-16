@@ -28,7 +28,7 @@ This brass censer dangles on a length of chain. Most _thuribles of revelation_ a
 
 **Effect** You light the incense inside the censer, and it burns for 1 hour. During that time, as long you are holding the thurible, you gain a +2 item bonus to Religion checks, and any critical failure you roll when you Decipher Writing of a religious nature is a failure instead.
 
-Once per day, when you activate the thurible, you can increase its revelations. During that activation, you can hold the thurible up to your eyes with an Interact action to gain the effects of [[Spells/See the Unseen|See the Unseen]] for 1 round by peering through the smoke.
+Once per day, when you activate the thurible, you can increase its revelations. During that activation, you can hold the thurible up to your eyes with an Interact action to gain the effects of [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]] for 1 round by peering through the smoke.
 
 [[Equipment Effects/Effect_ Thurible of Revelation (Moderate)|Effect: Thurible of Revelation (Moderate)]]
 

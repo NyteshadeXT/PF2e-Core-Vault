@@ -19,7 +19,7 @@ license: OGL
 
 
 
-Strigoi can cast [[Spells/Levitate|Levitate]] at will as a divine innate spell; when they do so, they appear to ascend or descend on a coiling mass of shadows.
+Strigoi can cast [[Levitate|Levitate]] at will as a divine innate spell; when they do so, they appear to ascend or descend on a coiling mass of shadows.
 
 *Source: Pathfinder Adventure: Shadows at Sundown*
 *OGL*

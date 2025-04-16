@@ -11,7 +11,7 @@ license: OGL
 ---
 # Voice From The Grave
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[3-Rules/trait_reference/mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[3-Rules/trait_reference/M/mental]]
 
 
 **Price** 1700 gp; 
@@ -26,7 +26,7 @@ This onyx skull emits eerie whispers when on its own, but when held the skull en
 
 * * *
 
-**Effect** The onyx skull casts a DC 27 [[Spells/Charm|Charm]] spell on one spirit or haunt you can communicate with using the skull. If you target a haunt that doesn't have a Will modifier, it automatically gets a failure on its save.
+**Effect** The onyx skull casts a DC 27 [[Charm|Charm]] spell on one spirit or haunt you can communicate with using the skull. If you target a haunt that doesn't have a Will modifier, it automatically gets a failure on its save.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

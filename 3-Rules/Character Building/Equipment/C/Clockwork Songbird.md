@@ -36,7 +36,7 @@ Once reconstructed, the clockwork songbird can be activated in the following thr
 
 **Frequency** once per day
 
-**Effect** The songbird leaps into the air and flies in a circle, swooping around an area around you for 10 minutes as it sings. The songbird never travels further than 50 feet from the location where you activated it. It returns to that location at the end of the duration, at which point the songbird casts [[Spells/Peaceful Bubble|Peaceful Bubble]] at that location before going quiet once again. The effect remains in place for 24 hours.
+**Effect** The songbird leaps into the air and flies in a circle, swooping around an area around you for 10 minutes as it sings. The songbird never travels further than 50 feet from the location where you activated it. It returns to that location at the end of the duration, at which point the songbird casts [[Peaceful Bubble|Peaceful Bubble]] at that location before going quiet once again. The effect remains in place for 24 hours.
 
 * * *
 
@@ -44,7 +44,7 @@ Once reconstructed, the clockwork songbird can be activated in the following thr
 
 **Frequency** once per day
 
-**Effect** You place the clockwork songbird on a stable surface, and it casts an [[Spells/Alarm|Alarm]] spell heightened to 3rd rank to your specifications. When the _alarm_ is triggered, it does so in the form of a loud warbling birdsong sung by the clockwork. If the clockwork songbird is moved from its location before the _alarm_ spell's duration has run its course, the spell ends.
+**Effect** You place the clockwork songbird on a stable surface, and it casts an [[Alarm|Alarm]] spell heightened to 3rd rank to your specifications. When the _alarm_ is triggered, it does so in the form of a loud warbling birdsong sung by the clockwork. If the clockwork songbird is moved from its location before the _alarm_ spell's duration has run its course, the spell ends.
 
 *Source: Pathfinder #200: Seven Dooms for Sandpoint*
 *OGL*

@@ -5,10 +5,10 @@ obsidianUIMode: preview
 
 > [!cards|4]
 > **[[Map-Faerun]]**
-> [![[Northern Faerun Map.jpg\|sban htiny ctr]]](Lampoteuo)
+> [![[Northern Faerun Map.jpg|sban htiny ctr]]](Lampoteuo)
 > 
-> **[[Link]]**
-> [![[JourneyBoard.png\|sban htiny ctr]]](Journey%20Board)
+> **[[Encounter Builder]]**
+> [![Encounter](Encounter.jpg)](/1-GM%20Toolkit/Encounter%20Builder)
 >
 > **[[Link]]**
 > [![[AdventureIcon.png\|sban htiny ctr]]](Lampoteuo)

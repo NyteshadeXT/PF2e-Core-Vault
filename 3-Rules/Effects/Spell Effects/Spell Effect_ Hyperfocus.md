@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Hyperfocus|Hyperfocus]].
+Granted by [[Hyperfocus|Hyperfocus]].
 
 The target gains a +1 status bonus to Perception checks attempted with any of its precise senses.
 

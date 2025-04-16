@@ -15,7 +15,7 @@ license: OGL
 ---
 # Demon Dust
 ## Item 6
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[inhaled]][[3-Rules/trait_reference/poison|Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[inhaled]][[3-Rules/Trait Reference/P/poison|Poison]]
 
 **Category** drug; 
 **Price** 45 gp; 

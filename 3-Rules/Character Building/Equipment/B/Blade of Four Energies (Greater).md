@@ -55,10 +55,10 @@ This _+2 greater striking shifting shortsword_ is formed of rapidly vibrating ai
 
 **Effect** You call upon the energy stored in the blade to explode outward. The blade of four energies casts a 7th-rank spell with a DC of 38 that depends on the active rune:
 
-1.  [[Spells/Acid Arrow|Acid Arrow]] for corrosive,
-2.  [[Spells/Fireball|Fireball]] for flaming,
-3.  [[Spells/Cone of Cold|Cone of Cold]] for frost, or
-4.  [[Spells/Lightning Bolt|Lightning Bolt]] for shock.
+1.  [[Acid Arrow|Acid Arrow]] for corrosive,
+2.  [[Fireball|Fireball]] for flaming,
+3.  [[Cone of Cold|Cone of Cold]] for frost, or
+4.  [[Lightning Bolt|Lightning Bolt]] for shock.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

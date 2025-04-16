@@ -17,7 +17,7 @@ license: ORC
 ---
 # Main-Gauche
 ## Item 0
-### [[agile]][[disarm]][[finesse]][[parry]][[versatile-s]]
+### [[agile]][[3-Rules/Trait Reference/D/disarm]][[finesse]][[parry]][[versatile-s]]
 
 |  |  |
 | -- | -- |

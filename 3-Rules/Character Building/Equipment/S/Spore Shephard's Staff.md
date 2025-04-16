@@ -33,8 +33,8 @@ This staff is constructed from a magically grown amanita mushroom, with a shaft 
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Puff of Poison|Puff of Poison]]
-*   **1st** [[Spells/Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only)
+*   **Cantrip** [[Puff of Poison|Puff of Poison]]
+*   **1st** [[Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only)
 
 * * *
 

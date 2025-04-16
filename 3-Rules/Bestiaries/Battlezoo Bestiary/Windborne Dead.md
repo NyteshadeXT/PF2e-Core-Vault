@@ -93,7 +93,7 @@ creatures:
 
 
 
-Power and creativity birth cruelty, and it is this combination that creates windborne dead. Sometimes cheekily referred to as "dropdeads," these beings arise from spellcasters who die from terrible falls from tremendous heights. Specifically, many windborne dead manifest from sorcerers or witches whose teleportation magic goes terribly awry, leaving them stranded high into the atmosphere, and the haughty spellcaster failed to prepare the most basic _[[Spells/Gentle Landing|Feather Fall]]_ spell as a contingency. Other times, windborne dead arise from powerful spellcasters who are simply and unceremoniously flung from the top of a rival wizard's tower.
+Power and creativity birth cruelty, and it is this combination that creates windborne dead. Sometimes cheekily referred to as "dropdeads," these beings arise from spellcasters who die from terrible falls from tremendous heights. Specifically, many windborne dead manifest from sorcerers or witches whose teleportation magic goes terribly awry, leaving them stranded high into the atmosphere, and the haughty spellcaster failed to prepare the most basic _[[Gentle Landing|Feather Fall]]_ spell as a contingency. Other times, windborne dead arise from powerful spellcasters who are simply and unceremoniously flung from the top of a rival wizard's tower.
 
 In any case, the fear of their final moments, the pain of their deaths, and the lingering teleportation magic used to bring about their downfall causes these doomed mortals to rise again as spiteful undead. These twisted souls go about the world seeking only to inflict their fate unto others, particularly spellcasters.
 

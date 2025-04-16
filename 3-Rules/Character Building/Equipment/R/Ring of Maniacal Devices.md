@@ -31,7 +31,7 @@ They grant you a +2 item bonus to Thievery checks to [[Actions/Disable a Device|
 
 **Frequency** once per day
 
-**Effect** You create the effects of a [[Spells/Rune Trap|Rune Trap]] trap ritual containing [[Spells/Fireball|Fireball]]. You can have only one trapped rune from a _ring of maniacal devices_ active at a time, even if you have multiple rings, and the rune disappears if you lose your investiture in the ring.
+**Effect** You create the effects of a [[Rune Trap|Rune Trap]] trap ritual containing [[Fireball|Fireball]]. You can have only one trapped rune from a _ring of maniacal devices_ active at a time, even if you have multiple rings, and the rune disappears if you lose your investiture in the ring.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

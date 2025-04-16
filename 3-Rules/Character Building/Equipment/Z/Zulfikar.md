@@ -15,7 +15,7 @@ license: OGL
 ---
 # Zulfikar
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[disarm]][[sweep]][[versatile-p]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[3-Rules/trait_reference/D/disarm]][[sweep]][[versatile-p]]
 
 |  |  |
 | -- | -- |

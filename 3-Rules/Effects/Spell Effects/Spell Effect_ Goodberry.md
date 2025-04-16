@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Cornucopia|Cornucopia]].
+Granted by [[Cornucopia|Cornucopia]].
 
 You are holding one or more goodberries, which remain fresh for the duration of the spell.
 

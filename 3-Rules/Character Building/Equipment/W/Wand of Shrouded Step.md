@@ -26,11 +26,11 @@ When you move this delicately carved poplar wand, it looks indistinct, leaving a
 
 * * *
 
-**Effect** You cast [[Spells/Fleet Step|Fleet Step]]. For the duration of the spell, you're also [[Conditions/Concealed|Concealed]] while you Stride.
+**Effect** You cast [[Fleet Step|Fleet Step]]. For the duration of the spell, you're also [[Conditions/Concealed|Concealed]] while you Stride.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Fleet Step|Fleet Step]].
+**Craft Requirements** Supply a casting of [[Fleet Step|Fleet Step]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

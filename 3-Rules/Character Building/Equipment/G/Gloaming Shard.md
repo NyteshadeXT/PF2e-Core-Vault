@@ -38,7 +38,7 @@ The blade of this _+2 striking returning dagger_ shines the color of twilight, w
 
 * * *
 
-**Effect** You make a thrown Strike with the gloaming shard at a target within 60 feet. Whether you hit or miss, rather than returning to you, the blade pulls you down into your own shadow and along the connecting thread. You instantly teleport to a space adjacent to the target of your Strike, as [[Spells/Translocate|Translocate]], and then catch the dagger in your hand.
+**Effect** You make a thrown Strike with the gloaming shard at a target within 60 feet. Whether you hit or miss, rather than returning to you, the blade pulls you down into your own shadow and along the connecting thread. You instantly teleport to a space adjacent to the target of your Strike, as [[Translocate|Translocate]], and then catch the dagger in your hand.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

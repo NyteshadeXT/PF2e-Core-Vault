@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Thundering Echoes (8th-Rank Spell)
 ## Item 19
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[3-Rules/trait_reference/sonic]][[wand]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[3-Rules/trait_reference/S/sonic]][[wand]]
 
 
 **Price** 40000 gp; 
@@ -29,7 +29,7 @@ A forked, lightning-like crack runs down the length of this ornate stone wand, w
 
 * * *
 
-**Effect** You cast [[Spells/Noise Blast|Noise Blast]] of the indicated level. After you Cast the Spell, at the start of each of your turns, the sound echoes in the same area as if you had cast it again, though it deals one fewer d10. This effect lasts until the damage is reduced to below 2d10. The echoes don't affect structures or other items.
+**Effect** You cast [[Noise Blast|Noise Blast]] of the indicated level. After you Cast the Spell, at the start of each of your turns, the sound echoes in the same area as if you had cast it again, though it deals one fewer d10. This effect lasts until the damage is reduced to below 2d10. The echoes don't affect structures or other items.
 
 * * *
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Bless|Bless]]
+Granted by [[Bless|Bless]]
 
 Blessings from beyond help your companions strike true. You and your allies gain a +1 status bonus to attack rolls while within the emanation. Once per round on subsequent turns, you can Sustain the spell to increase the emanation's radius by 10 feet.
 

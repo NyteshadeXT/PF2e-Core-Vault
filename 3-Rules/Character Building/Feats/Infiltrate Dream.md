@@ -13,7 +13,7 @@ license: OGL
 ---
 # Infiltrate Dream
 ## Feat 6
-### [[archetype]][[3-Rules/trait_reference/mental]][[occult]]
+### [[archetype]][[3-Rules/trait_reference/M/mental]][[occult]]
 
 **Category** class; 
 

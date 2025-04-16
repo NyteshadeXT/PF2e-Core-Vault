@@ -24,7 +24,7 @@ license: OGL
 
 You can unleash burning sunlight from your sword or spear.
 
-You gain the [[Spells/Sun Blade|Sun Blade]] devotion spell. Increase the number of Focus Points in your focus pool by 1.
+You gain the [[3-Rules/Character Building/Spells/S/Sun Blade|Sun Blade]] devotion spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

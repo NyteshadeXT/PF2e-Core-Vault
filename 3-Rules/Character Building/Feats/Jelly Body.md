@@ -12,7 +12,7 @@ license: OGL
 ---
 # Jelly Body
 ## Feat 6
-### [rare](rare "Rare Rarity Trait")[[aftermath]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[aftermath]][[magical]]
 
 **Category** class; 
 

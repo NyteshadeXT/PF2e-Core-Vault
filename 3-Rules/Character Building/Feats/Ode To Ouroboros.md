@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You learn the [[Spells/Ode to Ouroboros|Ode to Ouroboros]] composition spell, which enables you to temporarily spare your allies from death.
+You learn the [[3-Rules/Character Building/Spells/O/Ode to Ouroboros|Ode to Ouroboros]] composition spell, which enables you to temporarily spare your allies from death.
 
 *Source: Pathfinder Player Core*
 *ORC*

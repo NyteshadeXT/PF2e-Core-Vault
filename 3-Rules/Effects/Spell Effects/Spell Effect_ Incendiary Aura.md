@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Incendiary Aura|Incendiary Aura]]
+Granted by [[Incendiary Aura|Incendiary Aura]]
 
 Each time a creature within the emanation takes fire damage, it catches on fire, taking 2d4 persistent fire damage.
 

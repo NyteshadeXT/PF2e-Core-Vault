@@ -11,7 +11,7 @@ license: OGL
 ---
 # Rescuer's Press
 ## Feat 4
-### [rare](rare "Rare Rarity Trait")[[archetype]]
+### [rare](rare.md "Rare Rarity Trait")[[archetype]]
 
 **Category** class; 
 

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Lantern of Empty Light
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 
 **Price** 240 gp; 

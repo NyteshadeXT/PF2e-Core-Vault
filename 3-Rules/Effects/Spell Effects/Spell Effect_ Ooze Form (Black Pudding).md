@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Ooze Form|Ooze Form]]
+Granted by [[Ooze Form|Ooze Form]]
 
 You invoke all things that seep and ooze, your body dissolving into a thick slurry and then reconstituting itself into a Medium ooze battle form. When you first cast this spell, choose black pudding, gelatinous cube, gray ooze, or ochre jelly. While in this form, you gain the ooze trait. You can Dismiss the spell. You gain the following statistics and abilities regardless of which battle form you choose:
 

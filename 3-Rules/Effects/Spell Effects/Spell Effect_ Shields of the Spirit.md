@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Shields of the Spirit|Shields of the Spirit]]
+Granted by [[Shields of the Spirit|Shields of the Spirit]]
 
 While one of your allies is in your champion's aura, the shields grant them a +1 status bonus to AC.
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Life Connection|Life Connection]].
+Granted by [[Life Connection|Life Connection]].
 
 You gain the [[Actions/Defend Life|Defend Life]] reaction; once you use the reaction, the spell ends.
 

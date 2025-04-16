@@ -9,7 +9,7 @@ license: OGL
 ---
 # Grappling Gun (Clockwork)
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 15 gp; 

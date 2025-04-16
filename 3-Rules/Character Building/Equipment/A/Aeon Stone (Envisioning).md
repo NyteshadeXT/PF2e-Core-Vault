@@ -29,7 +29,7 @@ There are various types of _aeon stones_, each with a different appearance and m
 
 This clear cube allows you to communicate with a limited form of telepathy to a range of 100 feet. The messages are transmitted as a simple image each round. These images are the quality of a hasty or childish sketch but can be roughly understood by creatures regardless of language. This provides no special ability to respond to your images.
 
-The resonant power allows you to cast [[Spells/Translate|Translate]] as an occult innate spell once per day.
+The resonant power allows you to cast [[Translate|Translate]] as an occult innate spell once per day.
 
 *Source: Pathfinder GM Core*
 *ORC*

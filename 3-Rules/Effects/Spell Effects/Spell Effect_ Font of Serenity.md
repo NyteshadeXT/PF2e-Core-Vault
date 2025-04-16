@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Font of Serenity|Font of Serenity]].
+Granted by [[Font of Serenity|Font of Serenity]].
 
 Allies within the area gain a +1 status bonus to saving throws against emotion effects.
 

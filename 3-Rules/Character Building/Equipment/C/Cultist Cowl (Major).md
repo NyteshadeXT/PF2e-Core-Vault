@@ -26,7 +26,7 @@ The fabric of a _cultist cowl_ is either raspy burlap, durable cotton, or fine s
 
 * * *
 
-**Effect** The cowl casts [[Spells/Crisis of Faith|Crisis of Faith]] (DC 37 Will check) heightened to 7th-rank to your specification.
+**Effect** The cowl casts [[Crisis of Faith|Crisis of Faith]] (DC 37 Will check) heightened to 7th-rank to your specification.
 
 *Source: Pathfinder #200: Seven Dooms for Sandpoint*
 *OGL*

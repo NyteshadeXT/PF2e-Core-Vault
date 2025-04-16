@@ -12,7 +12,7 @@ license: OGL
 ---
 # Spangled Rider's Suit
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 **Category** light; **Group** leather
 **Price** 700 gp; 

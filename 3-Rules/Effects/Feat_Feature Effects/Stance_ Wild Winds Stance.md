@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Wild Winds Stance|Wild Winds Stance]]
+Granted by [[Wild Winds Stance|Wild Winds Stance]]
 
 You take on the stance of the flowing winds, sending out waves of energy at a distance.
 

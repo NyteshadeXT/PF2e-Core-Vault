@@ -15,7 +15,7 @@ license: OGL
 ---
 # Setup Snare
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[kobold]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[kobold]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 8 gp; 

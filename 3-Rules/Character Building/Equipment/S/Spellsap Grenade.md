@@ -15,7 +15,7 @@ license: OGL
 ---
 # Spellsap Grenade
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[bomb]][[consumable]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[bomb]][[consumable]]
 
 |  |  |
 | -- | -- |

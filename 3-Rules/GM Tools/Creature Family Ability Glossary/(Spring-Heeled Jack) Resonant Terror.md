@@ -16,7 +16,7 @@ license: OGL
 ---
 # (Spring-Heeled Jack) Resonant Terror `pf2:1`
 
-### [[concentrate]][[curse]][[emotion]][[fear]][[3-Rules/trait_reference/mental]][[primal]]
+### [[concentrate]][[curse]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[primal]]
 
 **Category** offensive; 
 

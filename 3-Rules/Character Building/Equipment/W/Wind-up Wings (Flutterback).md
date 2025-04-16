@@ -10,7 +10,7 @@ license: OGL
 ---
 # Wind-up Wings (Flutterback)
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[clockwork]]
+### [rare](rare.md "Rare Rarity Trait")[[clockwork]]
 
 
 **Price** 50 gp; 

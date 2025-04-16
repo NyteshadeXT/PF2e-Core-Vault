@@ -26,7 +26,7 @@ These tall, pointed boots are made from soft, supple black or green leather and 
 
 * * *
 
-**Effect** Until the end of your turn, you ignore difficult terrain when moving on the ground. If you're wearing a [[Cloak of Elvenkind|Cloak of Elvenkind]], you also gain a +5-foot status bonus to your land Speed until the end of your turn, and greater boots of elvenkind constantly grant the effects of [[Spells/Vanishing Tracks|Vanishing Tracks]] (DC 30) in forest environments.
+**Effect** Until the end of your turn, you ignore difficult terrain when moving on the ground. If you're wearing a [[Cloak of Elvenkind|Cloak of Elvenkind]], you also gain a +5-foot status bonus to your land Speed until the end of your turn, and greater boots of elvenkind constantly grant the effects of [[Vanishing Tracks|Vanishing Tracks]] (DC 30) in forest environments.
 
 [[Equipment Effects/Effect_ Boots of Elvenkind|Effect: Boots of Elvenkind]]
 

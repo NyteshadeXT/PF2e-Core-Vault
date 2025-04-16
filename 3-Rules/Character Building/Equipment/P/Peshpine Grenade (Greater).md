@@ -15,7 +15,7 @@ license: OGL
 ---
 # Peshpine Grenade (Greater)
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[splash]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[splash]]
 
 |  |  |
 | -- | -- |

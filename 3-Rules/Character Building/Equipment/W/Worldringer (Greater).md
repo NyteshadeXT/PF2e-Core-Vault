@@ -16,7 +16,7 @@ license: ORC
 ---
 # Worldringer (Greater)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[shove]][[two-hand-d10]][[versatile-p]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[3-Rules/trait_reference/S/shove]][[two-hand-d10]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -35,7 +35,7 @@ This _+2 greater striking khakkhara_ is topped by an ornate finial depiction of 
 
 * * *
 
-**Effect** You call upon beings of this plane or another to hear your call. Choose [[Spells/Summon Lesser Servitor|Summon Lesser Servitor]] or [[Spells/Command|Command]]. You Cast the chosen Spell at 5th rank (DC 33). When casting _summon lesser servitor_ in this way, you must choose to summon a magical animal.
+**Effect** You call upon beings of this plane or another to hear your call. Choose [[Summon Lesser Servitor|Summon Lesser Servitor]] or [[Command|Command]]. You Cast the chosen Spell at 5th rank (DC 33). When casting _summon lesser servitor_ in this way, you must choose to summon a magical animal.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Instant Spy
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[gadget]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[clockwork]][[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 5 gp; 
@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-An instant spy is a tiny clockwork device that is small enough to be easily hidden. It contains the same audio-recording mechanisms as a [[Bestiary 3/Clockwork Spy|Clockwork Spy]](Pathfinder Bestiary 3 48), as well as a short-lived gemstone that can store up to 1 hour of sound to play back later.
+An instant spy is a tiny clockwork device that is small enough to be easily hidden. It contains the same audio-recording mechanisms as a [[Clockwork Spy|Clockwork Spy]](Pathfinder Bestiary 3 48), as well as a short-lived gemstone that can store up to 1 hour of sound to play back later.
 
 Once you have activated the instant spy, it surreptitiously begins recording all the sounds around it for an hour. In general, it can hear sounds that are clearly audible in the location where you activated it, but not sounds that would require a Perception check with a DC of 10 or greater to hear. The GM determines exactly what the instant spy can hear and record, as well as whether or not the recording is clear in a situation where the original sound is quiet, distorted, or intentionally obscured.
 

@@ -10,6 +10,6 @@ tags:
 # Moon Domain
 **Deities** [[Deities/Ashava|Ashava]], [[Deities/Cosmic Caravan|Cosmic Caravan]], [[Deities/Desna|Desna]], [[Deities/Findeladlara|Findeladlara]], [[Deities/Horus|Horus]], [[Deities/Ketephys|Ketephys]], [[Deities/The Path of the Heavens|The Path of the Heavens]], [[Deities/The Prismatic Ray|The Prismatic Ray]], [[Deities/Thoth|Thoth]], [[Deities/Tsukiyo|Tsukiyo]]
 
-**Domain Spell** [[Spells/Moonbeam|Moonbeam]]; **Advanced Domain Spell** [[Spells/Touch of the Moon|Touch of the Moon]]
+**Domain Spell** [[Moonbeam|Moonbeam]]; **Advanced Domain Spell** [[Touch of the Moon|Touch of the Moon]]
 
 You command powers associated with the moon.

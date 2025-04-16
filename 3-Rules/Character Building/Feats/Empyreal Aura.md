@@ -12,7 +12,7 @@ license: OGL
 ---
 # Empyreal Aura
 ## Feat 20
-### [[archetype]][[aura]]
+### [[archetype]][[3-Rules/trait_reference/A/aura]]
 
 **Category** class; 
 

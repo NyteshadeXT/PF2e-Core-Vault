@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** storm order
 * * *
-You bid the winds to aid you, carrying you through the air and allowing you passage through the strongest headwinds. You gain the [[Spells/Stormwind Flight|Stormwind Flight]] order spell.
+You bid the winds to aid you, carrying you through the air and allowing you passage through the strongest headwinds. You gain the [[Stormwind Flight|Stormwind Flight]] order spell.
 
 *Source: Pathfinder Player Core*
 *ORC*

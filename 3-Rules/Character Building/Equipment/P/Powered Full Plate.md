@@ -12,7 +12,7 @@ license: OGL
 ---
 # Powered Full Plate
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[bulwark]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[bulwark]]
 
 **Category** heavy; **Group** plate
 **Price** 360 gp; 

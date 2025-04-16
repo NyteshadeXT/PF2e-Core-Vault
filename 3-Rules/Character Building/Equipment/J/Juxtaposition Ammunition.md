@@ -12,7 +12,7 @@ license: OGL
 ---
 # Juxtaposition Ammunition
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]]
 
 **Category** ammo; 
 **Price** 225 gp; 

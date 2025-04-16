@@ -14,7 +14,7 @@ license: OGL
 ---
 # Plasma Hype
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]]
 
 **Category** drug; 
 **Price** 400 gp; 

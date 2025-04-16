@@ -9,7 +9,7 @@ license: OGL
 ---
 # Net Launcher
 ## Item 1
-### [rare](rare "Rare Rarity Trait")
+### [rare](rare.md "Rare Rarity Trait")
 
 
 **Price** 16 gp; 

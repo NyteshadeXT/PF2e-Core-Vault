@@ -28,7 +28,7 @@ The bones of small animals decorate the cover of this tome, creating a pattern t
 
 * * *
 
-**Effect** You call out and demand the undead to remain, reaching out with tendrils of void energy that preserves your minion so it might continue to serve you. Expend a spell slot in which you've prepared a [[Spells/Harm|Harm]] spell to restore 1d8 Hit Points to your undead minion per level of the expended spell slot, before applying the damage. If this prevents the minion from being reduced to 0 Hit Points, it isn't destroyed.
+**Effect** You call out and demand the undead to remain, reaching out with tendrils of void energy that preserves your minion so it might continue to serve you. Expend a spell slot in which you've prepared a [[Harm|Harm]] spell to restore 1d8 Hit Points to your undead minion per level of the expended spell slot, before applying the damage. If this prevents the minion from being reduced to 0 Hit Points, it isn't destroyed.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

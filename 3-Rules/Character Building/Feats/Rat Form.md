@@ -22,7 +22,7 @@ license: ORC
 
 
 
-You can transform into an innocuous-looking rat. You gain the effects of a 1st-rank [[Spells/Pest Form|Pest Form]] spell, but you must assume the battle form of a Tiny rat.
+You can transform into an innocuous-looking rat. You gain the effects of a 1st-rank [[Pest Form|Pest Form]] spell, but you must assume the battle form of a Tiny rat.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

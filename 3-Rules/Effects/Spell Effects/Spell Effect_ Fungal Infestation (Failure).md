@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Fungal Infestation|Fungal Infestation]]
+Granted by [[Fungal Infestation|Fungal Infestation]]
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

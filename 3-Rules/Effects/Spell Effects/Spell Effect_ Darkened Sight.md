@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Darkened Sight|Darkened Sight]]
+Granted by [[Darkened Sight|Darkened Sight]]
 
 You gain greater darkvision.
 

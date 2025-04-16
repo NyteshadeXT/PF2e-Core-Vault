@@ -11,7 +11,7 @@ license: OGL
 ---
 # Guardian Aluum Charm
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 2800 gp; 
@@ -26,7 +26,7 @@ A _guardian aluum charm_ grants control over powerful aluums—metal and stone c
 
 * * *
 
-**Effect** The charm grants you control over an aluum you can see within 60 feet, as long as the target aluum is level 13 or less. This has the effect of [[Spells/Dominate|Dominate]] and allows a DC 28 Will check save. If the aluum is currently under the control of someone wearing its linked charm, its saving throw is one degree higher than what is rolled. You can control only one aluum at a time with this activation, and controlling a new aluum ends the effect for one you had previously affected.
+**Effect** The charm grants you control over an aluum you can see within 60 feet, as long as the target aluum is level 13 or less. This has the effect of [[Dominate|Dominate]] and allows a DC 28 Will check save. If the aluum is currently under the control of someone wearing its linked charm, its saving throw is one degree higher than what is rolled. You can control only one aluum at a time with this activation, and controlling a new aluum ends the effect for one you had previously affected.
 
 *Source: Pathfinder #191: The Destiny War*
 *OGL*

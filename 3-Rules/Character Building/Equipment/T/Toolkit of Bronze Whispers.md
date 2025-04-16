@@ -11,7 +11,7 @@ license: OGL
 ---
 # Toolkit of Bronze Whispers
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[divine]][[intelligent]]
+### [rare](rare.md "Rare Rarity Trait")[[divine]][[intelligent]]
 
 
 **Price** 50 gp; 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Distracting Decoy|Distracting Decoy]]
+Granted by [[Distracting Decoy|Distracting Decoy]]
 
 **Failure** The creature is off-guard until the start of your next turn.
 

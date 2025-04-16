@@ -14,7 +14,7 @@ license: ORC
 ---
 # Sky Hammer
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[magical]][[shove]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]][[3-Rules/Trait Reference/S/shove]]
 
 |  |  |
 | -- | -- |
@@ -33,7 +33,7 @@ The sturdy head of this _+3 major striking [[Flaming|Flaming]] [[Shock|Shock]] o
 
 * * *
 
-**Effect** A 6th-rank arcane [[Spells/Fireball|Fireball]] spell explodes, centered on the _sky hammer_. The spell DC is 45. You are immune to the _fireball's_ effect, though your allies are not.
+**Effect** A 6th-rank arcane [[Fireball|Fireball]] spell explodes, centered on the _sky hammer_. The spell DC is 45. You are immune to the _fireball's_ effect, though your allies are not.
 
 * * *
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sickle-saber
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[backswing]][[forceful]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[backswing]][[forceful]]
 
 |  |  |
 | -- | -- |

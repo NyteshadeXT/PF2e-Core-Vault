@@ -10,7 +10,7 @@ license: OGL
 ---
 # Wind-up Wings (Homing)
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[clockwork]]
+### [rare](rare.md "Rare Rarity Trait")[[clockwork]]
 
 
 **Price** 1800 gp; 

@@ -32,7 +32,7 @@ license: OGL
 
 * * *
 
-Prayer beads given prolonged exposure to spiritual energies at sacred Sarenite sites can attain sapience as Dawnflower beads. Other such objects hold the spirits of Sarenite priests who dedicated themselves to their work beyond death. Dawnflower beads function as [[Holy Prayer Beads (Greater)|Holy Prayer Beads (Greater)]]. They don't re-attune to other deities but allow any good or neutral divine spellcaster to use them, though they attempt to talk their wielder out of morally questionable acts. Add [[Spells/Vital Luminance|Vital Luminance]] to the beads' spell list, available to be cast once per day. Dawnflower beads also have the following activation.
+Prayer beads given prolonged exposure to spiritual energies at sacred Sarenite sites can attain sapience as Dawnflower beads. Other such objects hold the spirits of Sarenite priests who dedicated themselves to their work beyond death. Dawnflower beads function as [[Holy Prayer Beads (Greater)|Holy Prayer Beads (Greater)]]. They don't re-attune to other deities but allow any good or neutral divine spellcaster to use them, though they attempt to talk their wielder out of morally questionable acts. Add [[Vital Luminance|Vital Luminance]] to the beads' spell list, available to be cast once per day. Dawnflower beads also have the following activation.
 
 **Activate** Cast a Spell
 
@@ -42,7 +42,7 @@ Prayer beads given prolonged exposure to spiritual energies at sacred Sarenite s
 
 **Activate** Cast a Spell
 
-**Effect** Cast 4th-rank versions of [[Spells/Bless|Bless]], [[Spells/Heal|Heal]], [[Spells/Cleanse Affliction|Cleanse Affliction]], or [[Spells/Vital Luminance|Vital Luminance]] each once per day.
+**Effect** Cast 4th-rank versions of [[Bless|Bless]], [[Heal|Heal]], [[Cleanse Affliction|Cleanse Affliction]], or [[Vital Luminance|Vital Luminance]] each once per day.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

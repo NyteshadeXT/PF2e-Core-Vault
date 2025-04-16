@@ -13,7 +13,7 @@ license: OGL
 ---
 # Man-Feller
 ## Item 7
-### [unique](unique "Unique Rarity Trait")[[magical]][[sweep]]
+### [unique](unique.md "Unique Rarity Trait")[[magical]][[sweep]]
 
 |  |  |
 | -- | -- |

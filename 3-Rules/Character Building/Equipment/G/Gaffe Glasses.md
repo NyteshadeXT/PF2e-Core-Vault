@@ -12,7 +12,7 @@ license: OGL
 ---
 # Gaffe Glasses
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
 
 
 **Price** 60 gp; 

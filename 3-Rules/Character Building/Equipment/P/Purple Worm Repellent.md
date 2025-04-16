@@ -12,7 +12,7 @@ license: OGL
 ---
 # Purple Worm Repellent
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** toolkit; 
 **Price** 550 gp; 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Plant Form|Plant Form]]
+Granted by [[Plant Form|Plant Form]]
 
 Taking inspiration from verdant creatures, you transform into a Large plant battle form. You must have space to expand into or the spell is lost. You can substitute a similar specific plant to turn into (such as a pitcher plant instead of a flytrap), but this has no effect on the form's Size or statistics. While in this form, you gain the plant trait. You can Dismiss the spell.
 

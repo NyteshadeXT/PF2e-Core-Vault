@@ -9,7 +9,7 @@ license: OGL
 ---
 # Knight's Maintenance Kit
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 50 gp; 

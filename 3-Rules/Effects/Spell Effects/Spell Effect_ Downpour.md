@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Downpour|Downpour]]
+Granted by [[Downpour|Downpour]]
 
 *Source: Pathfinder Player Core*
 *ORC*

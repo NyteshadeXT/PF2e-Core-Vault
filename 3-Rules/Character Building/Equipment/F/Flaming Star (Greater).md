@@ -32,7 +32,7 @@ A sheen of red crosses the surface of this star-shaped goldstone medallion when 
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Produce Flame|Produce Flame]].
+**Effect** You cast [[Produce Flame|Produce Flame]].
 
 * * *
 
@@ -40,7 +40,7 @@ A sheen of red crosses the surface of this star-shaped goldstone medallion when 
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Fireball|Fireball]].
+**Effect** You cast [[Fireball|Fireball]].
 
 DC 24 Reflex check
 

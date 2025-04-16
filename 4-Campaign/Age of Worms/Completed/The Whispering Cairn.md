@@ -226,7 +226,7 @@ Every three rounds, allow the PCs a DC 10 [[Skills#Perception|Perception]] check
 
 Anyone able to speak Auran gets the distinct impression that the whispers in this chamber are more than just a trick of wind and pipes. Occasionally, such folk can make out what must be words in the language of elemental air - words like "hopeless, sacrilege, enemies," and so on.  The words come form specially prepared air tubes leading to the surface, and are little more than a subtle way to discourage tomb robbery in a language few modern tomb robbers are likely to understand.
 
-Thick cobwebs completely cover the arch leading to [[The Whispering Cairn#7. False Tomb|area 7]], blocking any view of that chamber beyond a flickering green light that seems to be a good distance to the north.  Characters standing within 5 feet of the cobwebs can see through the mess enough to notice that a short flight of stairs descends from the arch, but more detail than that is impossible to make out.  Dozens of tiny spiders dwell within these webs, but they are completely harmless.  Slashing through the webs is a full-round action.  A character can barrel his way through the mess but in doing so be becomes completely covered by spider webs to the point at which he can no longer see.  Clearing webs from the eyes of such a character requires a [[3-Rules/trait_reference/manipulate|manipulate]] action.
+Thick cobwebs completely cover the arch leading to [[The Whispering Cairn#7. False Tomb|area 7]], blocking any view of that chamber beyond a flickering green light that seems to be a good distance to the north.  Characters standing within 5 feet of the cobwebs can see through the mess enough to notice that a short flight of stairs descends from the arch, but more detail than that is impossible to make out.  Dozens of tiny spiders dwell within these webs, but they are completely harmless.  Slashing through the webs is a full-round action.  A character can barrel his way through the mess but in doing so be becomes completely covered by spider webs to the point at which he can no longer see.  Clearing webs from the eyes of such a character requires a [[manipulate|manipulate]] action.
 
 Even a casual inspection ([[Skills#Perception|Perception]] DC 8) reveals that the east wing is not as collapsed as it first appears.  A 10-foot-wide opening in the middle of the debris leads to the wolves den, [[The Whispering Cairn#5. Wolf Den|area 5]].
 
@@ -442,7 +442,7 @@ A button inset into the wall near the elevator shaft serves as a call button for
 > 
 > A noxious green gas fills the room from valves hidden within the mouths of the adoring bas-reliefs lining the room's walls.
 > 
-> [[Trap]]
+> [[trap]]
 - [x] Trap (8 XP)
 
 ## 10. Passage of Honor
@@ -980,7 +980,7 @@ This fight should prove to be very challenging unless the PCs manage to battle o
 **Merovinn Bask** This bald, ill-tempered wizard simply can't believe that his depts forced him into servitude in the first place, and views each day as an absolute disgrace.  Bask is by far the rudest of [[5-World/NPCs/Diamond Lake/Kullen|Kullen]]'s men.  The only friend he ever had was the unfortunate Skutch.
 
 > [!tip]+ Treasure
-> Kullen is carrying a +1 Weapon Potency Greataxe, [[Healing Potion (Minor)]], [[Bestial Mutagen (Lesser)]] and 3 gp.  Rastophan is carrying [[Splint Mail]] [[Darkvision Elixir (Lesser)]] and 4 gp. Todrik is carrying a [[Glaive]], [[Splint Mail]], [[Healing Potion (Minor)]]x2 and 2 gp. Merovinn Bask is carrying [[Dizzying Colors|Scroll of Dizzying Colors]] and his spellbook (Cantrip: [[Ray of Frost]], [[Electric Arc]], [[Shield]],[[3-Rules/Character Building/Spells/Detect Magic|Detect Magic]] 1st: [[Force Barrage]], [[Scorching Blast]], [[Gust of Wind]] 2nd: [[Mirror Image]] )
+> Kullen is carrying a +1 Weapon Potency Greataxe, [[Healing Potion (Minor)]], [[Bestial Mutagen (Lesser)]] and 3 gp.  Rastophan is carrying [[Splint Mail]] [[Darkvision Elixir (Lesser)]] and 4 gp. Todrik is carrying a [[Glaive]], [[Splint Mail]], [[Healing Potion (Minor)]]x2 and 2 gp. Merovinn Bask is carrying [[Dizzying Colors|Scroll of Dizzying Colors]] and his spellbook (Cantrip: [[Ray of Frost]], [[Electric Arc]], [[Shield]],[[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]] 1st: [[Force Barrage]], [[Scorching Blast]], [[Gust of Wind]] 2nd: [[Mirror Image]] )
 > 
 > - [ ] gp::9
 > - [ ] permanent::[[Weapon Potency (+1)|+1 Greataxe]] [ilvl::2] [gp::35]
@@ -1131,7 +1131,7 @@ The halfling "statue" is really a mummified goblin dressed in a fine suit and ha
 The angelic figure is an idealized representation of Filge himself.
 
 > [!tip]+ Treasure
-> Filge's spellbook rests upon the nightstand next to the bed.  It contains the following spells: [[3-Rules/Character Building/Spells/Detect Magic|Detect Magic]], [[Ray of Frost]], [[Illusory Disguise]], [[Vitality Lash]], [[Touch of the Void]], [[Void Warp]], [[Mystic Armor]], [[Enfeeble]], [[Embed Message]], [[Ghostly Carrier]] and [[Stupefy]].
+> Filge's spellbook rests upon the nightstand next to the bed.  It contains the following spells: [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]], [[Ray of Frost]], [[Illusory Disguise]], [[Vitality Lash]], [[Touch of the Void]], [[Void Warp]], [[Mystic Armor]], [[Enfeeble]], [[Embed Message]], [[Ghostly Carrier]] and [[Stupefy]].
 > 
 > The silver tray held by the mummified sentry is worth 2 gp. The A large run of golden brown fur is worth 8 gp, but must be carried carefully to ensure that its coat does not become soiled.  A DC 15 [[Skills#Occultism|Occultism]] check identifies the pelt as that of an adult lammasu.
 > 

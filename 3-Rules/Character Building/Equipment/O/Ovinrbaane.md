@@ -16,7 +16,7 @@ license: OGL
 ---
 # Ovinrbaane
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[cursed]][[intelligent]][[magical]][[versatile-p]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[cursed]][[intelligent]][[magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -45,7 +45,7 @@ _Ovinrbaane_ is a _+2 striking wounding greatsword_. It can perform all of the f
 
 **Frequency** three times per day
 
-**Effect** Ovinrbaane casts [[Spells/Bless|Bless]]
+**Effect** Ovinrbaane casts [[Bless|Bless]]
 
 * * *
 
@@ -55,7 +55,7 @@ _Ovinrbaane_ is a _+2 striking wounding greatsword_. It can perform all of the f
 
 **Trigger** _Ovinrbaane's_ partner becomes [[Conditions/Immobilized|Immobilized]] or [[Conditions/Restrained|Restrained]]
 
-**Effect** _Ovinrbaane_ casts [[Spells/Unfettered Movement|Unfettered Movement]] (heightened to 8th level) on its partner.
+**Effect** _Ovinrbaane_ casts [[Unfettered Movement|Unfettered Movement]] (heightened to 8th level) on its partner.
 
 * * *
 
@@ -65,7 +65,7 @@ _Ovinrbaane_ is a _+2 striking wounding greatsword_. It can perform all of the f
 
 **Trigger** An undesirable spell effect with a duration affects _Ovinrbaane's_ partner
 
-**Effect** Ovinrbaane casts [[Spells/Dispel Magic|Dispel Magic]] (heightened to 8th level, counteract check +31) on the spell.
+**Effect** Ovinrbaane casts [[Dispel Magic|Dispel Magic]] (heightened to 8th level, counteract check +31) on the spell.
 
 * * *
 
@@ -75,7 +75,7 @@ _Ovinrbaane_ is a _+2 striking wounding greatsword_. It can perform all of the f
 
 **Requirement** _Ovinrbaane_ hasn't been wielded in a moderate or more dangerous encounter within the last 24 hours
 
-**Effect** Ovinrbaane casts [[Spells/Subconscious Suggestion|Subconscious Suggestion]] (heightened to 8th level, DC 34 Will check save) on its partner, suggesting to the partner to attack the next time they face a potential encounter of moderate or greater danger.
+**Effect** Ovinrbaane casts [[Subconscious Suggestion|Subconscious Suggestion]] (heightened to 8th level, DC 34 Will check save) on its partner, suggesting to the partner to attack the next time they face a potential encounter of moderate or greater danger.
 
 * * *
 

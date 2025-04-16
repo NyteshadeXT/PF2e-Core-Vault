@@ -43,7 +43,7 @@ When you perform your daily preparations, you can share the Deck of Destiny with
 
 **Activate** `pf2:3` envision, Interact
 
-**Effect** You call upon the deck in an attempt to put an end to a creature's life by visiting upon them a particularly grisly fate. Choose a creature within 60 feet. The deck casts [[Spells/Phantasmal Killer|Phantasmal Killer]] (DC 50 Will check and DC 50 Fortitude check, heightened to 10th level) on that creature. This effect doesn't have the emotion, fear, illusion, or mental traits, as it actually alters reality to rewrite a creature's doom. Regardless of the results, the creature becomes temporarily immune to this effect for 1 week.
+**Effect** You call upon the deck in an attempt to put an end to a creature's life by visiting upon them a particularly grisly fate. Choose a creature within 60 feet. The deck casts [[Phantasmal Killer|Phantasmal Killer]] (DC 50 Will check and DC 50 Fortitude check, heightened to 10th level) on that creature. This effect doesn't have the emotion, fear, illusion, or mental traits, as it actually alters reality to rewrite a creature's doom. Regardless of the results, the creature becomes temporarily immune to this effect for 1 week.
 
 * * *
 
@@ -51,7 +51,7 @@ When you perform your daily preparations, you can share the Deck of Destiny with
 
 **Frequency** once per year
 
-**Effect** You attempt to undo a creature's untimely death and return them to life. The deck performs a 10th-rank [[Spells/Resurrect|Resurrect]] ritual. This ritual doesn't have any cost and doesn't require any secondary casters. Instead, you are the primary caster and must attempt a DC 50 Occultism check check to complete the ritual as you perform a [[Spells/Harrowing|Harrowing]], perform that same harrowing in reverse in an attempt to pull back the threads of fate, and perform one final harrowing to "rewrite" the target's destiny.
+**Effect** You attempt to undo a creature's untimely death and return them to life. The deck performs a 10th-rank [[Resurrect|Resurrect]] ritual. This ritual doesn't have any cost and doesn't require any secondary casters. Instead, you are the primary caster and must attempt a DC 50 Occultism check check to complete the ritual as you perform a [[Harrowing|Harrowing]], perform that same harrowing in reverse in an attempt to pull back the threads of fate, and perform one final harrowing to "rewrite" the target's destiny.
 
 * * *
 

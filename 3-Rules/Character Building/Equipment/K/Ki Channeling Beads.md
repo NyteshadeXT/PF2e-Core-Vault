@@ -39,7 +39,7 @@ As you move your body, ki flows into _ki-channeling beads_ you wear and have inv
 
 * * *
 
-**Effect** While meditating, you searched your feelings for a portent of the future. You're affected by an [[Spells/Augury|Augury]] spell.
+**Effect** While meditating, you searched your feelings for a portent of the future. You're affected by an [[Augury|Augury]] spell.
 
 * * *
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Sack of Rotten Fruit
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]]
 
 **Category** other; 
 **Price** 3 gp; 

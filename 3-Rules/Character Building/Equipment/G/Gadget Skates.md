@@ -13,7 +13,7 @@ license: OGL
 ---
 # Gadget Skates
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[gadget]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[clockwork]][[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 21 gp; 

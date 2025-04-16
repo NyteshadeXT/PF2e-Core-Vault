@@ -26,7 +26,7 @@ A _maestro's instrument_ can be crafted in the form of any variety of handheld m
 
 * * *
 
-**Effect** You play the instrument, causing it to cast a 8th-rank [[Spells/Charm|Charm]] spell with DC 38.
+**Effect** You play the instrument, causing it to cast a 8th-rank [[Charm|Charm]] spell with DC 38.
 
 * * *
 

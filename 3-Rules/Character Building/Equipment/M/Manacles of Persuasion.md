@@ -11,7 +11,7 @@ license: OGL
 ---
 # Manacles of Persuasion
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[nonlethal]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[nonlethal]]
 
 
 **Price** 45 gp; 

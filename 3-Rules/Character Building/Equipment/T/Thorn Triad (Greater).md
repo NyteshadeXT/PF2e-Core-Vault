@@ -33,7 +33,7 @@ From each corner of this carved, triangular badge extends a long, sharp thorn. T
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Timber|Timber]].
+**Effect** You cast [[Timber|Timber]].
 
 * * *
 
@@ -41,7 +41,7 @@ From each corner of this carved, triangular badge extends a long, sharp thorn. T
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Wall of Thorns|Wall of Thorns]].
+**Effect** You cast [[Wall of Thorns|Wall of Thorns]].
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

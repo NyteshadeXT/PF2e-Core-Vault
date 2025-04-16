@@ -95,7 +95,7 @@ creatures:
 
 
 
-Vengewhispers are departed spirits that haunt a spellcaster after a corpse critically succeeds against _[[Spells/Talking Corpse|Talking Corpse]]_ or a similar effect. They might have died keeping a terrible secret, they might resent having their remains disturbed, or they might hold a specific vendetta against the spellcaster. Vengewhispers are also known to spawn after a cursed scroll of talking corpse is activated. A vengewhisper can defend itself when discovered, but most vengewhispers prefer to remain invisible to their victims and antagonize them throughout their search for knowledge. Nevertheless, occasionally a vengewhisper that's cornered, desperate, or particularly enraged chooses to engage in battle instead of subtler torments, and they can be particularly troublesome foes.
+Vengewhispers are departed spirits that haunt a spellcaster after a corpse critically succeeds against _[[Talking Corpse|Talking Corpse]]_ or a similar effect. They might have died keeping a terrible secret, they might resent having their remains disturbed, or they might hold a specific vendetta against the spellcaster. Vengewhispers are also known to spawn after a cursed scroll of talking corpse is activated. A vengewhisper can defend itself when discovered, but most vengewhispers prefer to remain invisible to their victims and antagonize them throughout their search for knowledge. Nevertheless, occasionally a vengewhisper that's cornered, desperate, or particularly enraged chooses to engage in battle instead of subtler torments, and they can be particularly troublesome foes.
 
 ## Guessing Games
 

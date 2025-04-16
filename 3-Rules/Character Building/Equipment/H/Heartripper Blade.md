@@ -16,7 +16,7 @@ license: OGL
 ---
 # Heartripper Blade
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[agile]][[finesse]][[magical]][[thrown-10]][[versatile-s]]
+### [rare](rare.md "Rare Rarity Trait")[[agile]][[finesse]][[magical]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |

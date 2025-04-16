@@ -17,7 +17,7 @@ license: ORC
 ---
 # Acid Flask (Greater)
 ## Item 11
-### [[3-Rules/trait_reference/acid|Acid]] [[alchemical]][[bomb]][[consumable]][[splash]] 
+### [[3-Rules/Trait Reference/A/acid|Acid]] [[alchemical]][[bomb]][[consumable]][[splash]] 
 
 |  |  |
 | -- | -- |

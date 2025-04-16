@@ -10,7 +10,7 @@ license: OGL
 ---
 # Siccatite Chunk
 
-### [rare](rare "Rare Rarity Trait")[[precious]]
+### [rare](rare.md "Rare Rarity Trait")[[precious]]
 
 
 **Price** 500 gp; 

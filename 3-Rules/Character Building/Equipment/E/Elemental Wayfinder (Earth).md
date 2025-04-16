@@ -28,7 +28,7 @@ Pathfinder Society researchers recently created elemental wayfinders with the as
 
 * * *
 
-**Effect** The wayfinder can cast 4th-rank [[Spells/Mountain Resilience|Mountain Resilience]].
+**Effect** The wayfinder can cast 4th-rank [[Mountain Resilience|Mountain Resilience]].
 
 * * *
 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Lightning Rings' Intervention
 ## Feat 8
-### [[archetype]][[3-Rules/trait_reference/electricity]][[manipulate]]
+### [[archetype]][[3-Rules/trait_reference/E/electricity]][[manipulate]]
 
 **Category** class; 
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Arcane Countermeasure|Arcane Countermeasure]]
+Granted by [[Arcane Countermeasure|Arcane Countermeasure]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

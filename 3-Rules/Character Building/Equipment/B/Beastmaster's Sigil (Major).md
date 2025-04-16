@@ -34,7 +34,7 @@ This silver disc displays an ever-changing etching of an animal. When you affix 
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Tame|Tame]].
+**Effect** You cast [[Tame|Tame]].
 
 * * *
 
@@ -42,7 +42,7 @@ This silver disc displays an ever-changing etching of an animal. When you affix 
 
 **Frequency** once per day
 
-**Effect** You cast 4th-rank [[Spells/Summon Animal|Summon Animal]] to summon a [[3-Rules/Bestiaries/Bestiary 1/G/Giant Scorpion|Giant Scorpion]] (armor), [[3-Rules/Bestiaries/Bestiary 1/D/Dire Wolf|Dire Wolf]] (melee weapon), or [[Fen Mosquito Swarm|Fen Mosquito Swarm]] (ranged weapon).
+**Effect** You cast 4th-rank [[Summon Animal|Summon Animal]] to summon a [[3-Rules/Bestiaries/Bestiary 1/G/Giant Scorpion|Giant Scorpion]] (armor), [[3-Rules/Bestiaries/Bestiary 1/D/Dire Wolf|Dire Wolf]] (melee weapon), or [[Fen Mosquito Swarm|Fen Mosquito Swarm]] (ranged weapon).
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Lawbringer's Lasso
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 100 gp; 

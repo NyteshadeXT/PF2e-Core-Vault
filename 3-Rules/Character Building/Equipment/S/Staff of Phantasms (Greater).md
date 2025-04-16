@@ -34,11 +34,11 @@ This ornate metal staff shines with precious inlays of gold. When you Cast a Spe
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Figment|Figment]]
-*   **1st** [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Illusory Object|Illusory Object]]
-*   **2nd** [[Spells/Illusory Creature|Illusory Creature]], [[Spells/Illusory Object|Illusory Object]], [[Spells/Item Facade|Item Facade]]
-*   **3rd** [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Item Facade|Item Facade]]
-*   **4th** [[Spells/Illusory Creature|Illusory Creature]], [[Spells/Illusory Scene|Illusory Scene]], [[Spells/Illusory Disguise|Illusory Disguise]]
+*   **Cantrip** [[Figment|Figment]]
+*   **1st** [[Illusory Disguise|Illusory Disguise]], [[Illusory Object|Illusory Object]]
+*   **2nd** [[Illusory Creature|Illusory Creature]], [[Illusory Object|Illusory Object]], [[Item Facade|Item Facade]]
+*   **3rd** [[Illusory Disguise|Illusory Disguise]], [[Item Facade|Item Facade]]
+*   **4th** [[Illusory Creature|Illusory Creature]], [[Illusory Scene|Illusory Scene]], [[Illusory Disguise|Illusory Disguise]]
 
 **Craft Requirements** Supply one casting of all listed ranks of all listed spells.
 

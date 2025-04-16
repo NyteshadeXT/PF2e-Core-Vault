@@ -16,7 +16,7 @@ license: OGL
 ---
 # Spellender
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[finesse]][[magical]][[thrown-10]][[versatile-s]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[finesse]][[magical]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |
@@ -39,7 +39,7 @@ This knife is a _+1 striking returning dagger_ with a wide blade and thick woode
 
 * * *
 
-**Effect** The dagger casts a 4th-rank [[Spells/Dispel Magic|Dispel Magic]] targeting the most powerful spell effect affecting the creature you critically hit. The counteract check is +15.
+**Effect** The dagger casts a 4th-rank [[Dispel Magic|Dispel Magic]] targeting the most powerful spell effect affecting the creature you critically hit. The counteract check is +15.
 
 *Source: Pathfinder #170: Spoken on the Song Wind*
 *OGL*

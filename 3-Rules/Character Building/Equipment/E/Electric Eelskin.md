@@ -30,7 +30,7 @@ Shining, slippery eelskin covers the plates of this +1 _resilient greater slick 
 
 * * *
 
-**Effect** You cast a 2nd-rank [[Spells/Thunderstrike|Thunderstrike]] with a DC 29 Reflex check.
+**Effect** You cast a 2nd-rank [[Thunderstrike|Thunderstrike]] with a DC 29 Reflex check.
 
 * * *
 

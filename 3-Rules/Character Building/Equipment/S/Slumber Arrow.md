@@ -15,7 +15,7 @@ license: ORC
 ---
 # Slumber Arrow
 ## Item 3
-### [[consumable]][[magical]][[3-Rules/trait_reference/mental]][[sleep]]
+### [[consumable]][[magical]][[3-Rules/Trait Reference/M/mental]][[3-Rules/Trait Reference/S/sleep]]
 
 **Category** ammo; 
 **Price** 11 gp; 

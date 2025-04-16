@@ -15,7 +15,7 @@ license: OGL
 ---
 # Rowan Rifle
 ## Item 16
-### [unique](unique "Unique Rarity Trait")[[backstabber]][[concussive]][[fatal-d12]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[backstabber]][[concussive]][[fatal-d12]][[magical]]
 
 |  |  |
 | -- | -- |
@@ -51,7 +51,7 @@ As a weapon forged to protect the fey peoples of Arcadia, the _Rowan Rifle_'s en
 
 **Frequency** once per 10 minutes
 
-**Effect** You hold aloft the _Rowan Rifle_ and step into a tree in Briarbough, and you [[Spells/Nature's Pathway|Tree Stride]] to another tree in Briarbough.
+**Effect** You hold aloft the _Rowan Rifle_ and step into a tree in Briarbough, and you [[Nature's Pathway|Tree Stride]] to another tree in Briarbough.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

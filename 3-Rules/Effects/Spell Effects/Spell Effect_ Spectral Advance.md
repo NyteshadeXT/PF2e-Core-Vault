@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Spectral Advance|Spectral Advance]]
+Granted by [[3-Rules/Character Building/Spells/S/Spectral Advance|Spectral Advance]]
 
 You (or your mount) have resistance equal to your level to all damage.
 

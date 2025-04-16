@@ -13,7 +13,7 @@ license: ORC
 ---
 # Cloak Of Poison `pf2:2`
 ## Feat 13
-### [[leshy]][[3-Rules/trait_reference/poison]]
+### [[leshy]][[3-Rules/trait_reference/P/poison]]
 
 **Category** ancestry; 
 

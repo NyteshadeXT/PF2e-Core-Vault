@@ -14,7 +14,7 @@ license: ORC
 ---
 # Fearsome
 ## Item 5
-### [[3-Rules/Rule References/Emotion]][[3-Rules/trait_reference/fear]][[magical|Magical]][[3-Rules/Rule References/Mental]]
+### [[3-Rules/Rule References/Emotion]][[3-Rules/Trait Reference/F/fear]][[magical|Magical]][[3-Rules/Rule References/Mental]]
 
 
 **Price** 160 gp; 

@@ -19,7 +19,7 @@ license: OGL
 
 
 
-You can summon an elemental ally. Once per day, you can cast [[Spells/Summon Elemental|Summon Elemental]] as a 5th-rank primal innate spell, but the elemental summoned must be a metal elemental.
+You can summon an elemental ally. Once per day, you can cast [[Summon Elemental|Summon Elemental]] as a 5th-rank primal innate spell, but the elemental summoned must be a metal elemental.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Ki Form|Ki Form]]
+Granted by [[3-Rules/Character Building/Spells/K/Ki Form|Ki Form]]
 
 Drawing from deep wells of spiritual power, you take on a special ki form. In your ki form, your hair, feathers, skin, or scales change color and begin to glow.
 

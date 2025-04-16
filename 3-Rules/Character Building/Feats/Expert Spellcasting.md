@@ -11,7 +11,7 @@ license: OGL
 ---
 # Expert Spellcasting
 ## Feat 12
-### [rare](rare "Rare Rarity Trait")[[pervasive-magic]]
+### [rare](rare.md "Rare Rarity Trait")[[pervasive-magic]]
 
 **Category** class; 
 

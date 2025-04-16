@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Stargut Hydra) Skymetal Metamorphosis (Abysium)
 
-### [[aura]][[3-Rules/trait_reference/poison]]
+### [[3-Rules/trait_reference/A/aura]][[3-Rules/trait_reference/P/poison]]
 
 **Category** defensive; 
 

@@ -35,12 +35,12 @@ Geometric patterns are etched into the smooth brown and gray surface of a staff 
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Scatter Scree|Scatter Scree]]
-*   **1st** [[Spells/Pummeling Rubble|Pummeling Rubble]]
-*   **2nd** [[Spells/Expeditious Excavation|Expeditious Excavation]], [[Spells/Pummeling Rubble|Pummeling Rubble]]
-*   **3rd** [[Spells/Earthbind|Earthbind]], [[Spells/Shifting Sand|Shifting Sand]]
-*   **4th** [[Spells/Expeditious Excavation|Expeditious Excavation]], [[Spells/Shape Stone|Shape Stone]], [[Spells/Spike Stones|Spike Stones]]
-*   **5th** [[Spells/Blazing Fissure|Blazing Fissure]], [[Spells/Wall of Stone|Wall of Stone]]
+*   **Cantrip** [[Scatter Scree|Scatter Scree]]
+*   **1st** [[Pummeling Rubble|Pummeling Rubble]]
+*   **2nd** [[Expeditious Excavation|Expeditious Excavation]], [[Pummeling Rubble|Pummeling Rubble]]
+*   **3rd** [[Earthbind|Earthbind]], [[Shifting Sand|Shifting Sand]]
+*   **4th** [[Expeditious Excavation|Expeditious Excavation]], [[Shape Stone|Shape Stone]], [[Spike Stones|Spike Stones]]
+*   **5th** [[Blazing Fissure|Blazing Fissure]], [[Wall of Stone|Wall of Stone]]
 
 * * *
 

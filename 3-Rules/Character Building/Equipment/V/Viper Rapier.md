@@ -17,7 +17,7 @@ license: OGL
 ---
 # Viper Rapier
 ## Item 20
-### [[apex]][[deadly-d8]][[disarm]][[finesse]][[invested]][[magical]]
+### [[apex]][[deadly-d8]][[3-Rules/trait_reference/D/disarm]][[finesse]][[invested]][[magical]]
 
 |  |  |
 | -- | -- |

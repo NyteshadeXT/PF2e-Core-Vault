@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Return the Favor|Return the Favor]].
+Granted by [[Return the Favor|Return the Favor]].
 
 You gain 12 temporary Hit Points for 1 minute.
 

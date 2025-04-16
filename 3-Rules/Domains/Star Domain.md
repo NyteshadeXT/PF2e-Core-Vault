@@ -10,6 +10,6 @@ tags:
 # Star Domain
 **Deities** [[Deities/Black Butterfly|Black Butterfly]], [[Deities/Cosmic Caravan|Cosmic Caravan]], [[Deities/Desna|Desna]], [[Deities/Findeladlara|Findeladlara]], [[Deities/Luhar|Luhar]], [[Deities/Ma'at|Ma'at]], [[Deities/Pulura|Pulura]], [[Deities/The Path of the Heavens|The Path of the Heavens]]
 
-**Domain Spell** [[Spells/Zenith Star|Zenith Star]]; **Advanced Domain Spell** [[Spells/Asterism|Asterism]]
+**Domain Spell** [[Zenith Star|Zenith Star]]; **Advanced Domain Spell** [[Asterism|Asterism]]
 
 You command the power of the stars.

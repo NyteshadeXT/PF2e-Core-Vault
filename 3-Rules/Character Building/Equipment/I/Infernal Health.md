@@ -13,7 +13,7 @@ license: OGL
 ---
 # Infernal Health
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[contract]][[healing]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[contract]][[healing]][[invested]][[magical]]
 
 
 **Price** 0 gp; 

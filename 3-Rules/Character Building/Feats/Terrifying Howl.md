@@ -14,7 +14,7 @@ license: ORC
 ---
 # Terrifying Howl `pf2:1`
 ## Feat 10
-### [[auditory]][[barbarian]][[rage]]
+### [[auditory]][[barbarian]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

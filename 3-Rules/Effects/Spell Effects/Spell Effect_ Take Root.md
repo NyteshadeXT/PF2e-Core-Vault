@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Take Root|Take Root]]
+Granted by [[Take Root|Take Root]]
 
 The targeted creature gains a +1 circumstance bonus to their Fortitude DC against attempts to Shove them and a +1 circumstance bonus to their Reflex DC against attempts to Disarm or Trip them.
 

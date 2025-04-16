@@ -12,7 +12,7 @@ license: OGL
 ---
 # Jolt Coil
 ## Item 3
-### [[3-Rules/trait_reference/electricity]][[magical]][[spellheart]]
+### [[3-Rules/Trait Reference/E/electricity]][[magical]][[spellheart]]
 
 
 **Price** 60 gp; 
@@ -34,7 +34,7 @@ DC 17 Reflex check
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Electric Arc|Electric Arc]].
+**Effect** You cast [[Electric Arc|Electric Arc]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

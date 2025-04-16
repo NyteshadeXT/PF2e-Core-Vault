@@ -11,7 +11,7 @@ license: OGL
 ---
 # Hummingbird Wayfinder
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 1750 gp; 
@@ -28,7 +28,7 @@ Hummingbird wayfinders blend a few Arcadian secrets into the original wayfinder 
 
 * * *
 
-**Effect** You cause the wayfinder to transform into a Tiny bee hummingbird, only 2 inches long. Other than the wayfinder being a visible bird, this has the effects of [[Spells/Scouting Eye|Scouting Eye]]. In addition to Seeking through the hummingbird, you can activate any aeon stone within the wayfinder as if the wayfinder were still on your person. When the effect ends, the wayfinder transforms back to normal in its current position. Damaging the bird ends the effect but does not destroy the wayfinder.
+**Effect** You cause the wayfinder to transform into a Tiny bee hummingbird, only 2 inches long. Other than the wayfinder being a visible bird, this has the effects of [[Scouting Eye|Scouting Eye]]. In addition to Seeking through the hummingbird, you can activate any aeon stone within the wayfinder as if the wayfinder were still on your person. When the effect ends, the wayfinder transforms back to normal in its current position. Damaging the bird ends the effect but does not destroy the wayfinder.
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

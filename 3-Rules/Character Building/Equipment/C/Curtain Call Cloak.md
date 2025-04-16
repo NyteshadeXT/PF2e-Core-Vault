@@ -26,7 +26,7 @@ This blue velvet cloak is cut from the remains of a curtain from a destroyed the
 
 * * *
 
-**Effect** You take a bow, spread your arms, and the cloak casts 4th-rank [[Spells/Darkness|Darkness]] centered on a corner of your space. This darkness doesn't impede your vision. While the darkness persists, it emits noise like the applauding of a moderately sized crowd.
+**Effect** You take a bow, spread your arms, and the cloak casts 4th-rank [[3-Rules/Character Building/Spells/D/Darkness|Darkness]] centered on a corner of your space. This darkness doesn't impede your vision. While the darkness persists, it emits noise like the applauding of a moderately sized crowd.
 
 *Source: Pathfinder #185: A Taste of Ashes*
 *OGL*

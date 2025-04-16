@@ -13,7 +13,7 @@ license: OGL
 ---
 # Rusting Carapace
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[laminar]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[laminar]][[magical]]
 
 **Category** light; **Group** composite
 **Price** 476 gp; 
@@ -28,7 +28,7 @@ This _+1 leather lamellar_ armor incorporates the plates of a rust monster's hid
 
 **Frequency** once per day
 
-**Effect** Feathery antennae extend from between the segments of the rusting hide and brush against a nearby metal creature, non-magical metal hazard, or non-magical metal item of up to 1 Bulk, with the effects of [[Spells/Rusting Grasp|Rusting Grasp]] DC 24 Fortitude check.
+**Effect** Feathery antennae extend from between the segments of the rusting hide and brush against a nearby metal creature, non-magical metal hazard, or non-magical metal item of up to 1 Bulk, with the effects of [[Rusting Grasp|Rusting Grasp]] DC 24 Fortitude check.
 
 * * *
 

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** an animal companion; warden spells
 * * *
-You make your companion enormous. You gain the [[Spells/Enlarge Companion|Enlarge Companion]] warden spell. Increase the number of Focus Points in your focus pool by 1.
+You make your companion enormous. You gain the [[3-Rules/Character Building/Spells/E/Enlarge Companion|Enlarge Companion]] warden spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

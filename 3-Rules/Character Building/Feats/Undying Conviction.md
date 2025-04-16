@@ -14,7 +14,7 @@ license: OGL
 ---
 # Undying Conviction
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[aura]][[cleric]][[oracle]][[wizard]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/A/aura]][[cleric]][[oracle]][[wizard]]
 
 **Category** class; 
 

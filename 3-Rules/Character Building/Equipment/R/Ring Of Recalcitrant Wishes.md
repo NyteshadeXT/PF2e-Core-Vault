@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ring Of Recalcitrant Wishes
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 10000 gp; 
@@ -26,7 +26,7 @@ This band of interwoven gold and copper, traced with Aklo symbols, is topped wit
 
 * * *
 
-**Effect** You attempt to make the ring cast an arcane [[Spells/Wish|Wish]] spell. However, if the ring doesn't deem the wish to be sufficiently selfless, the wish isn't cast and the ring can't be activated for 24 hours.
+**Effect** You attempt to make the ring cast an arcane [[Wish|Wish]] spell. However, if the ring doesn't deem the wish to be sufficiently selfless, the wish isn't cast and the ring can't be activated for 24 hours.
 
 You are [[Conditions/Drained|Drained 3]], whether or not the ring refuses the wish.
 

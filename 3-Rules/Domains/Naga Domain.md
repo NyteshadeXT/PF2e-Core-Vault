@@ -10,6 +10,6 @@ tags:
 # Naga Domain
 **Deities** [[Deities/Ravithra|Ravithra]]
 
-**Domain Spell** [[Spells/Split the Tongue|Split the Tongue]]; **Advanced Domain Spell** [[Spells/Ordained Purpose|Ordained Purpose]]
+**Domain Spell** [[Split the Tongue|Split the Tongue]]; **Advanced Domain Spell** [[Ordained Purpose|Ordained Purpose]]
 
 Like the serpentine nagas, you're in tune with cosmic forces that Ravithra once controlled.

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Sun Wheel
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 150 gp; 
@@ -26,7 +26,7 @@ This copper medallion is etched with a stylized sun, its rays shaped like the sp
 
 **Activate** `pf2:1` Concentrate
 
-The sun wheel casts a [[Spells/Shield|Shield]] spell benefiting you.
+The sun wheel casts a [[Shield|Shield]] spell benefiting you.
 
 When you use the spell to prevent damage, you prevent 10 damage instead of 5. If the attacker is adjacent to you, you can choose to deal [[/roll 2d6]] fire damage to it, which it gets a DC 21 Reflex check save to resist.
 

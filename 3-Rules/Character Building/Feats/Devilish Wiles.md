@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Traditionally, fiends are exceptionally good at persuading people to do things, even when their targets know it's a bad idea. You're also rather good at it, compelling the weak and weak-willed to your bidding. You can cast [[Spells/Charm|Charm]] once per day as a 1st-rank divine innate spell.
+Traditionally, fiends are exceptionally good at persuading people to do things, even when their targets know it's a bad idea. You're also rather good at it, compelling the weak and weak-willed to your bidding. You can cast [[Charm|Charm]] once per day as a 1st-rank divine innate spell.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

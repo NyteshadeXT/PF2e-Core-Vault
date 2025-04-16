@@ -15,7 +15,7 @@ license: ORC
 ---
 # (Skeleton) Screaming Skull `pf2:2`
 
-### [[auditory]][[emotion]][[fear]][[3-Rules/trait_reference/mental]]
+### [[auditory]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]]
 
 **Category** offensive; 
 

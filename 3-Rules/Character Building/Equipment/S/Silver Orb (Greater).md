@@ -13,7 +13,7 @@ license: OGL
 ---
 # Silver Orb (Greater)
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]]
 
 |  |  |
 | -- | -- |

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Primal Summons|Primal Summons]] when you select fire.
+Granted by [[3-Rules/Character Building/Spells/P/Primal Summons|Primal Summons]] when you select fire.
 
 The creature's attacks deal 1d6 extra fire damage.
 

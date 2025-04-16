@@ -16,7 +16,7 @@ license: ORC
 ---
 # Slumber Wine
 ## Item 12
-### [[alchemical]][[consumable]][[ingested]][[3-Rules/trait_reference/poison]][[sleep]]
+### [[alchemical]][[consumable]][[ingested]][[3-Rules/Trait Reference/P/poison]][[3-Rules/Trait Reference/S/sleep]]
 
 **Category** poison; 
 **Price** 325 gp; 

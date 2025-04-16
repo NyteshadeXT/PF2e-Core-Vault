@@ -19,7 +19,7 @@ license: OGL
 
 
 
-The ghost creates an illusory double of a creature. The fetch functions as a 2nd-rank [[Spells/Illusory Creature|Illusory Creature]], except that the ghost doesn't control the fetch, and the spell lasts for 1d4 hours instead of needing to Sustain the Spell.
+The ghost creates an illusory double of a creature. The fetch functions as a 2nd-rank [[Illusory Creature|Illusory Creature]], except that the ghost doesn't control the fetch, and the spell lasts for 1d4 hours instead of needing to Sustain the Spell.
 
 The fetch has a rudimentary intelligence and tries to imitate its original (it has a Deception skill value equal to the ghost's highest skill) but comes across as [[Conditions/Confused|Confused]] or vague.
 

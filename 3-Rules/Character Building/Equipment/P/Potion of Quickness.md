@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-Drinking this silver potion grants you the effects of [[Spells/Haste|Haste]] for 1 minute.
+Drinking this silver potion grants you the effects of [[Haste|Haste]] for 1 minute.
 
 *Source: Pathfinder GM Core*
 *ORC*

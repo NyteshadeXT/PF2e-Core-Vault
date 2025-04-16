@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Elemental Motion|Elemental Motion]]
+Granted by [[Elemental Motion|Elemental Motion]]
 
 You call upon your element to propel you, improving your Speed depending on your element.
 

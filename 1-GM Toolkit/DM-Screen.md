@@ -101,6 +101,7 @@ dv.list(dv.pages()
 > [[Counteract]] 
 > [[Cover]] 
 > [[Familiar]]
+> **[[Invest an Item]]** 
 > [[Off-Guard]] 
 > [[Flat Check]] 
 > [[Fortune and Misfortune]]
@@ -169,14 +170,6 @@ dv.list(dv.pages()
 > [[Fast Healing and Regeneration]] 
 > [[Resting]] 
 > [[Long-Term Rest]] 
-
-> [!success]- Common Items
-> **[[Invest an Item]]** 
-> [[Healing Potion (Minor)]] 
-> [[Healing Potion (Lesser)]] 
-> [[Healing Potion (Moderate)]]
-> [[Healing Potion (Greater)]] 
-> [[Healing Potion (Major)]] 
 
 > [!example]- Exploration and Downtime Activities
 > [[Exploration Activities]] 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Hand-Hewed Face
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[contract]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[contract]][[invested]][[magical]]
 
 
 **Price** 0 gp; 

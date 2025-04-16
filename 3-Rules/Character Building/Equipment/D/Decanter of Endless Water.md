@@ -11,7 +11,7 @@ license: OGL
 ---
 # Decanter of Endless Water
 ## Item 7
-### [[magical|Magical]][[3-Rules/trait_reference/water|Water]]
+### [[magical|Magical]][[3-Rules/Trait Reference/W/water|Water]]
 
 
 **Price** 320 gp; 
@@ -36,7 +36,7 @@ This item looks like an ordinary glass flask full of water. The stopper can't be
 
 * * *
 
-**Effect** Speaking "geyser", you cause a powerful deluge of water to erupt at a rate of 15 gallons per round. You can direct the stream at a creature, subjecting it to the effects of [[Spells/Hydraulic Push|Hydraulic Push]] (spell attack roll +15). You can repeat this once per round as long as the geyser continues, spending an Interact action to direct the geyser each time.
+**Effect** Speaking "geyser", you cause a powerful deluge of water to erupt at a rate of 15 gallons per round. You can direct the stream at a creature, subjecting it to the effects of [[Hydraulic Push|Hydraulic Push]] (spell attack roll +15). You can repeat this once per round as long as the geyser continues, spending an Interact action to direct the geyser each time.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

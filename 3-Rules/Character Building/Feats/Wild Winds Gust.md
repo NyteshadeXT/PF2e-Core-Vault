@@ -15,7 +15,7 @@ license: ORC
 ---
 # Wild Winds Gust `pf2:2`
 ## Feat 14
-### [[3-Rules/trait_reference/air]][[concentrate]][[manipulate]][[monk]]
+### [[3-Rules/trait_reference/A/air]][[concentrate]][[manipulate]][[monk]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: ORC
 
 **Prerequisites** Wild Winds Initiate
 * * *
-**Requirements** You are in [[Spells/Wild Winds Stance|Wild Winds Stance]]
+**Requirements** You are in [[Wild Winds Stance|Wild Winds Stance]]
 
 * * *
 

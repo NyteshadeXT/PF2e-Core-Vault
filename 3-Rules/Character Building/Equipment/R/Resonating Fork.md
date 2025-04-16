@@ -12,7 +12,7 @@ license: OGL
 ---
 # Resonating Fork
 ## Item 5
-### [[magical]][[3-Rules/trait_reference/sonic]][[spellheart]]
+### [[magical]][[3-Rules/Trait Reference/S/sonic]][[spellheart]]
 
 
 **Price** 140 gp; 
@@ -30,7 +30,7 @@ This two-pronged fork of metal emits a constant low hum, vibrating slightly when
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Bullhorn|Bullhorn]].
+**Effect** You cast [[Bullhorn|Bullhorn]].
 
 * * *
 
@@ -38,7 +38,7 @@ This two-pronged fork of metal emits a constant low hum, vibrating slightly when
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Biting Words|Biting Words]].
+**Effect** You cast [[Biting Words|Biting Words]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

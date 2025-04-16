@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-While you might be small enough to grab normally, you can change that at a moment's notice. You cast [[Spells/Untamed Form|Untamed Form]]. If you took on a new form that's too large for the effect, you automatically escape. Otherwise, you attempt to Escape. If this ends an effect where you entered the creature's space, such as [[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]], exit that creature to an adjacent area where your new form could fit.
+While you might be small enough to grab normally, you can change that at a moment's notice. You cast [[3-Rules/Character Building/Spells/U/Untamed Form|Untamed Form]]. If you took on a new form that's too large for the effect, you automatically escape. Otherwise, you attempt to Escape. If this ends an effect where you entered the creature's space, such as [[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]], exit that creature to an adjacent area where your new form could fit.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

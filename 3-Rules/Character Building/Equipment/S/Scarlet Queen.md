@@ -16,7 +16,7 @@ license: OGL
 ---
 # Scarlet Queen
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[combination]][[concussive]][[fatal-d10]][[3-Rules/trait_reference/fire]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[combination]][[concussive]][[fatal-d10]][[3-Rules/Trait Reference/F/fire]][[magical]]
 
 |  |  |
 | -- | -- |
@@ -38,7 +38,7 @@ The _scarlet queen_ is a _+2 striking flaming hammer gun_. Due to the awkward an
 
 **Frequency** once per day
 
-**Effect** You fire a blast of magically disruptive energy at an unattended magical object. You cast 5th-rank [[Spells/Dispel Magic|Dispel Magic]] with a counteract bonus of +21 against the object.
+**Effect** You fire a blast of magically disruptive energy at an unattended magical object. You cast 5th-rank [[Dispel Magic|Dispel Magic]] with a counteract bonus of +21 against the object.
 
 *Source: Pathfinder Lost Omens: Highhelm*
 *OGL*

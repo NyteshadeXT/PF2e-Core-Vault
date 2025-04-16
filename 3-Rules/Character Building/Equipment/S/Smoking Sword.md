@@ -14,7 +14,7 @@ license: OGL
 ---
 # Smoking Sword
 ## Item 3
-### [[3-Rules/trait_reference/fire]][[magical]][[versatile-p]]
+### [[3-Rules/Trait Reference/F/fire]][[magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

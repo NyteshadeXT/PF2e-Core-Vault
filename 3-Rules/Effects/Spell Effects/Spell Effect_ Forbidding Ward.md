@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Forbidding Ward|Forbidding Ward]]
+Granted by [[Forbidding Ward|Forbidding Ward]]
 
 You gain a status bonus to Armor Class and saving throws against the target enemy's attacks, spells, and other effects.
 

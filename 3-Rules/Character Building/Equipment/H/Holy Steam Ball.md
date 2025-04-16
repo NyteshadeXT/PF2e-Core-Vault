@@ -11,7 +11,7 @@ license: OGL
 ---
 # Holy Steam Ball
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[3-Rules/trait_reference/mental]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[divine]][[3-Rules/Trait Reference/M/mental]]
 
 
 **Price** 30 gp; 

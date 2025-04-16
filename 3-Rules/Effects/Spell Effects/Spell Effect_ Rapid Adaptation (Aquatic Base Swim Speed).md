@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Rapid Adaptation|Rapid Adaptation]]
+Granted by [[Rapid Adaptation|Rapid Adaptation]]
 
 The target gains a swim Speed equal to its land Speed. If it already had a swim Speed, it gains a +10-foot status bonus to its swim Speed.
 

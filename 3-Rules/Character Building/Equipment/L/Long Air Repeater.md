@@ -13,7 +13,7 @@ license: OGL
 ---
 # Long Air Repeater
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[kickback]][[repeating]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[kickback]][[repeating]]
 
 |  |  |
 | -- | -- |

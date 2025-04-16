@@ -16,7 +16,7 @@ license: ORC
 ---
 # Pallesthetic Mutagen
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]][[mutagen]][[polymorph]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]][[mutagen]][[polymorph]]
 
 **Category** other; 
 **Price** 150 gp; 

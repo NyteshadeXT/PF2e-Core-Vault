@@ -11,7 +11,7 @@ license: OGL
 ---
 # Paired
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[teleportation]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[teleportation]]
 
 
 **Price** 150 gp; 

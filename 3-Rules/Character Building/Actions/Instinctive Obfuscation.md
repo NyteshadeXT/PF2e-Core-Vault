@@ -13,7 +13,7 @@ license: OGL
 ---
 # Instinctive Obfuscation `pf2:r`
 
-### [[3-Rules/trait_reference/gnome]][[illusion]][[visual]]
+### [[gnome]][[illusion]][[visual]]
 
 **Category** defensive; 
 
@@ -28,7 +28,7 @@ license: OGL
 
 * * *
 
-The magic within you manifests as a natural reaction to threats. You gain the effects of [[Spells/Mirror Image|Mirror Image]] but with two images instead of three. The tradition of this action matches the tradition of your gnome ancestry options.
+The magic within you manifests as a natural reaction to threats. You gain the effects of [[Mirror Image|Mirror Image]] but with two images instead of three. The tradition of this action matches the tradition of your gnome ancestry options.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

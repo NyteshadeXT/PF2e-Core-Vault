@@ -21,7 +21,7 @@ license: OGL
 * * *
 You excoriate a foe for its wrath against goodly creatures.
 
-You can cast the [[Spells/Litany against Wrath|Litany against Wrath]] devotion spell. Increase the number of Focus Points in your focus pool by 1.
+You can cast the [[3-Rules/Character Building/Spells/L/Litany against Wrath|Litany against Wrath]] devotion spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

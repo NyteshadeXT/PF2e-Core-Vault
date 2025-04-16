@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wand of Hopeless Night (2nd-Rank Spell)
 ## Item 6
-### [[3-Rules/trait_reference/darkness]][[magical]][[wand]]
+### [[3-Rules/trait_reference/D/darkness]][[magical]][[wand]]
 
 
 **Price** 250 gp; 
@@ -28,7 +28,7 @@ This wand is a length of wrought black iron.
 
 **Frequency** once per day, plus overcharge
 
-**Effect** You cast [[Spells/Darkness|Darkness]] at 2nd-rank. Each creature that ends its turn within the spell's area must succeed at a DC 20 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure).
+**Effect** You cast [[3-Rules/Character Building/Spells/D/Darkness|Darkness]] at 2nd-rank. Each creature that ends its turn within the spell's area must succeed at a DC 20 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure).
 
 * * *
 

@@ -23,7 +23,7 @@ license: ORC
 
 This light barding is covered in stylized wind motifs. When you suit up your animal companion, the barding adjusts to fit your animal companion regardless of its shape.
 
-When your companion falls, wind picks it up from below; it gains the effects of [[Spells/Gentle Landing|Gentle Landing]].
+When your companion falls, wind picks it up from below; it gains the effects of [[Gentle Landing|Gentle Landing]].
 
 **Activate—Take Flight** `pf2:2` (manipulate)
 

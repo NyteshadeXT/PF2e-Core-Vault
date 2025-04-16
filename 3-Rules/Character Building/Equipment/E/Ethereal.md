@@ -25,7 +25,7 @@ An _ethereal rune_ replicates armor on the Ethereal Plane.
 
 * * *
 
-**Effect** You gain the effects of an [[Spells/Ethereal Jaunt|Ethereal Jaunt]] spell. This doesn't require concentration and lasts for 10 minutes or until you choose to return to material form as a free action.
+**Effect** You gain the effects of an [[Ethereal Jaunt|Ethereal Jaunt]] spell. This doesn't require concentration and lasts for 10 minutes or until you choose to return to material form as a free action.
 
 * * *
 

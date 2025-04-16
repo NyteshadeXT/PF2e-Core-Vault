@@ -15,7 +15,7 @@ license: ORC
 ---
 # Defensive Growth `pf2:r`
 ## Feat 6
-### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]][[plant]][[Wood]]
+### [rare](rare.md "Rare Rarity Trait")[[deviant]][[magical]][[plant]][[Wood]]
 
 **Category** class; 
 

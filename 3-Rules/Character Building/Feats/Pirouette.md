@@ -13,7 +13,7 @@ license: OGL
 ---
 # Pirouette `pf2:r`
 ## Feat 6
-### [rare](rare "Rare Rarity Trait")[[bard]][[rogue]][[swashbuckler]]
+### [rare](rare.md "Rare Rarity Trait")[[bard]][[rogue]][[swashbuckler]]
 
 **Category** class; 
 

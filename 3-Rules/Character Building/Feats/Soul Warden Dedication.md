@@ -24,7 +24,7 @@ You can take 10 minutes to emblazon [[Deities/Pharasma|Pharasma's]] holy sigil-a
 
 Whenever an undead creature or captive soul is within 100 feet of this object, the spiral glows, shedding dim blue light in a 10-foot radius. If the creature is hiding or the soul is hidden, it must succeed at a Stealth check check against your Perception DC to fool the sigil and prevent the spiral from glowing.
 
-In addition, you can cast [[Spells/Vitality Lash|Vitality Lash]] as a divine innate cantrip at will. As normal, a cantrip is automatically heightened to half your level rounded up. You gain access to the Cast a Spell activity if you didn't have it already. You're trained in divine spell attack rolls and spell DCs. Your key spellcasting ability for these spells is Wisdom.
+In addition, you can cast [[Vitality Lash|Vitality Lash]] as a divine innate cantrip at will. As normal, a cantrip is automatically heightened to half your level rounded up. You gain access to the Cast a Spell activity if you didn't have it already. You're trained in divine spell attack rolls and spell DCs. Your key spellcasting ability for these spells is Wisdom.
 
 When you have at least two other feats from this archetype, the spiral glows with bright light in a 10-foot radius (and dim light for the next 10 feet). Feats that require a creature or object to be in the light of your spiral function whether it's in the bright or dim light.
 

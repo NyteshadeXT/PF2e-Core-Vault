@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ochre Fulcrum Lens
 ## Item 11
-### [unique](unique "Unique Rarity Trait")[[invested]][[occult]]
+### [unique](unique.md "Unique Rarity Trait")[[invested]][[occult]]
 
 
 **Price** 1400 gp; 
@@ -32,7 +32,7 @@ You can also activate the lens in the following ways.
 
 **Frequency** once per day
 
-**Effect** You hold up the _Ochre Fulcrum Lens_ in your hand and the item casts [[Spells/Wave of Despair|Wave of Despair]] (DC 31 Will check save).
+**Effect** You hold up the _Ochre Fulcrum Lens_ in your hand and the item casts [[Wave of Despair|Wave of Despair]] (DC 31 Will check save).
 
 * * *
 

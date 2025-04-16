@@ -11,7 +11,7 @@ license: ORC
 ---
 # Keen
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 3000 gp; 

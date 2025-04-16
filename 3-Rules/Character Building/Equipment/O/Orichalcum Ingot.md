@@ -11,7 +11,7 @@ license: ORC
 ---
 # Orichalcum Ingot
 
-### [rare](rare "Rare Rarity Trait")[[precious]]
+### [rare](rare.md "Rare Rarity Trait")[[precious]]
 
 
 **Price** 10000 gp; 

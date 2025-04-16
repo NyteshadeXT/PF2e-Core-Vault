@@ -15,7 +15,7 @@ license: OGL
 ---
 # Highhelm Stronghold Plate
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[bulwark]][[entrench-melee]][[hindering]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[bulwark]][[entrench-melee]][[hindering]][[invested]][[magical]]
 
 **Category** heavy; **Group** plate
 **Price** 3750 gp; 
@@ -30,7 +30,7 @@ This _+2 resilient fortification bastion plate_ is made almost entirely of stone
 
 * * *
 
-**Effect** The plating on your armor explodes off of your body, expands, and reshapes, transforming into a stone structure with the effects of [[Spells/Wall of Stone|Wall of Stone]]. While the armor is transformed in this way, you don't gain the benefits of wearing the armor. The armor remains transformed for up to 10 minutes or until you Dismiss the effect, at which point the _wall of stone_ disappears and the armor returns to you, donning itself immediately.
+**Effect** The plating on your armor explodes off of your body, expands, and reshapes, transforming into a stone structure with the effects of [[Wall of Stone|Wall of Stone]]. While the armor is transformed in this way, you don't gain the benefits of wearing the armor. The armor remains transformed for up to 10 minutes or until you Dismiss the effect, at which point the _wall of stone_ disappears and the armor returns to you, donning itself immediately.
 
 * * *
 

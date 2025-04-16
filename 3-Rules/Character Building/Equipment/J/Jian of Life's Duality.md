@@ -14,7 +14,7 @@ license: ORC
 ---
 # Jian of Life's Duality
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -41,7 +41,7 @@ _Life's duality_ gains a light charge when you use a spell, skill check, or abil
 
 * * *
 
-**Effect** You unleash the sword's charged energy in a magical display. You cast a 3-action 5th-rank [[Spells/Harm|Harm]] spell if you have 3 dark charges or a 3-action 5th-rank [[Spells/Heal|Heal]] spell if you have 3 light charges (DC 30 Fortitude check). The sword then reverts to having 0 charges.
+**Effect** You unleash the sword's charged energy in a magical display. You cast a 3-action 5th-rank [[Harm|Harm]] spell if you have 3 dark charges or a 3-action 5th-rank [[Heal|Heal]] spell if you have 3 light charges (DC 30 Fortitude check). The sword then reverts to having 0 charges.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Plate Armor of the Deep
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[bulwark]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[bulwark]][[invested]][[magical]]
 
 **Category** heavy; **Group** plate
 **Price** 6500 gp; 

@@ -33,10 +33,10 @@ This staff is constructed from a magically grown amanita mushroom, with a shaft 
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Puff of Poison|Puff of Poison]]
-*   **1st** [[Spells/Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only)
-*   **2nd** [[Spells/Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only), [[Spells/One with Plants|One with Plants]] (giant mushroom only)
-*   **3rd** [[Spells/Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Spells/Stinking Cloud|Stinking Cloud]], [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only), [[Spells/Wall of Thorns|Wall of Thorns]] (resembles wall of fungus; deals poison damage)
+*   **Cantrip** [[Puff of Poison|Puff of Poison]]
+*   **1st** [[Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only)
+*   **2nd** [[Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only), [[One with Plants|One with Plants]] (giant mushroom only)
+*   **3rd** [[Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Stinking Cloud|Stinking Cloud]], [[Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only), [[Wall of Thorns|Wall of Thorns]] (resembles wall of fungus; deals poison damage)
 
 * * *
 

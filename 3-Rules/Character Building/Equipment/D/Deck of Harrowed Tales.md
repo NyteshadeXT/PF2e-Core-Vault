@@ -26,7 +26,7 @@ The Deck of Harrowed Tales is a unique deck connected to a unique demiplane know
 
 * * *
 
-**Effect** If on a plane other than the Harrowed Realm, the deck creates a [[Spells/Gate|Gate]] to the Harrowed Realm.
+**Effect** If on a plane other than the Harrowed Realm, the deck creates a [[Gate|Gate]] to the Harrowed Realm.
 
 * * *
 

@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Your study of the flow of mystical energy allows you to harness it into your physical strikes. You gain the [[Spells/Ki Strike|Ki Strike]] ki spell and a focus pool of 1 Focus Point.
+Your study of the flow of mystical energy allows you to harness it into your physical strikes. You gain the [[3-Rules/Character Building/Spells/K/Ki Strike|Ki Strike]] ki spell and a focus pool of 1 Focus Point.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Retrieval Belt
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[extradimensional]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[extradimensional]][[invested]][[magical]]
 
 
 **Price** 340 gp; 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Tangle Vine|Tangle Vine]]
+Granted by [[Tangle Vine|Tangle Vine]]
 
 You take a -10-foot circumstance penalty to your Speeds.
 

@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-Using the liquors, vinegars, and fruits or herbs at your disposal, you spend 1 minute to create a cocktail with colors reminiscent of space and its stars. If immediately consumed after creation, you temporarily see everything all at once, and you gain a new understanding of the universe. You gain the effects of a [[Spells/Truesight|Truesight]] spell for 10 minutes. Use your Crafting or Cooking Lore for any counteract checks.
+Using the liquors, vinegars, and fruits or herbs at your disposal, you spend 1 minute to create a cocktail with colors reminiscent of space and its stars. If immediately consumed after creation, you temporarily see everything all at once, and you gain a new understanding of the universe. You gain the effects of a [[Truesight|Truesight]] spell for 10 minutes. Use your Crafting or Cooking Lore for any counteract checks.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

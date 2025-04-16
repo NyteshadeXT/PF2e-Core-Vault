@@ -10,6 +10,6 @@ tags:
 # Lightning Domain
 **Deities** [[Deities/Casandalee|Casandalee]], [[Deities/Cernunnos|Cernunnos]], [[Deities/Chamidu|Chamidu]], [[Deities/Gozreh|Gozreh]], [[Deities/Hei Feng|Hei Feng]], [[Deities/Lubaiko|Lubaiko]], [[Deities/Ranginori|Ranginori]]
 
-**Domain Spell** [[Spells/Charged Javelin|Charged Javelin]]; **Advanced Domain Spell** [[Spells/Bottle the Storm|Bottle the Storm]]
+**Domain Spell** [[Charged Javelin|Charged Javelin]]; **Advanced Domain Spell** [[Bottle the Storm|Bottle the Storm]]
 
 You control electricity, thunder, and storms.

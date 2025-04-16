@@ -14,7 +14,7 @@ license: ORC
 ---
 # Guisarme
 ## Item 0
-### [[reach]][[trip]]
+### [[reach]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

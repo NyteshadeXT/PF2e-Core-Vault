@@ -16,7 +16,7 @@ license: ORC
 ---
 # Shuln Fang Katar
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[agile]][[deadly-d6]][[magical]][[monk]]
+### [rare](rare.md "Rare Rarity Trait")[[agile]][[deadly-d6]][[magical]][[monk]]
 
 |  |  |
 | -- | -- |

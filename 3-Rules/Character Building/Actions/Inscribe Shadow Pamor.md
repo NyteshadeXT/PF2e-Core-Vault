@@ -13,7 +13,7 @@ license: ORC
 ---
 # Inscribe Shadow Pamor `pf2:1`
 
-### [[3-Rules/Rule References/Occult]][[3-Rules/trait_reference/shadow]]
+### [[3-Rules/Rule References/Occult]][[3-Rules/Trait Reference/S/shadow]]
 
 **Category** offensive; 
 

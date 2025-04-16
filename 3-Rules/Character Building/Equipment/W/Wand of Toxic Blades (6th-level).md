@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Toxic Blades (6th-level)
 ## Item 15
-### [[3-Rules/trait_reference/force]][[magical]][[3-Rules/trait_reference/poison]][[wand]]
+### [[3-Rules/trait_reference/F/force]][[magical]][[3-Rules/trait_reference/P/poison]][[wand]]
 
 
 **Price** 6000 gp; 
@@ -28,11 +28,11 @@ This slender metal wand is tinted green and small images of bladed weapons are e
 
 * * *
 
-**Effect** You cast 6th-rank [[Spells/Blade Barrier|Blade Barrier]]. Damage from the wall also exposes the damaged creature to [[Cave Worm Venom|Purple Worm Venom]]. The poison uses its normal DC. A creature can be exposed to the poison no more than once per turn.
+**Effect** You cast 6th-rank [[Blade Barrier|Blade Barrier]]. Damage from the wall also exposes the damaged creature to [[Cave Worm Venom|Purple Worm Venom]]. The poison uses its normal DC. A creature can be exposed to the poison no more than once per turn.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Blade Barrier|Blade Barrier]] of the appropriate rank.
+**Craft Requirements** Supply a casting of [[Blade Barrier|Blade Barrier]] of the appropriate rank.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

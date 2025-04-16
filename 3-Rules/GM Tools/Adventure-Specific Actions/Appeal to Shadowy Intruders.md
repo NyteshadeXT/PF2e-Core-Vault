@@ -14,7 +14,7 @@ license: OGL
 ---
 # Appeal to Shadowy Intruders `pf2:2`
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[auditory]][[concentrate]][[linguistic]][[3-Rules/trait_reference/mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[auditory]][[concentrate]][[linguistic]][[3-Rules/trait_reference/M/mental]]
 
 **Category** interaction; 
 

@@ -34,7 +34,7 @@ _The Cyclone_ represents tumultuous evil plots. As long as it is invested, _The 
 
 * * *
 
-**Effect** You cast [[Spells/Whirlwind|Whirlwind]]. You do not treat the squares in the whirlwind as difficult terrain, but all other creatures do. The rank of the spell is one-half your level, rounded down (minimum 8th rank), and the save DC is your class DC or spell DC (Reflex check).
+**Effect** You cast [[Whirlwind|Whirlwind]]. You do not treat the squares in the whirlwind as difficult terrain, but all other creatures do. The rank of the spell is one-half your level, rounded down (minimum 8th rank), and the save DC is your class DC or spell DC (Reflex check).
 
 *Source: Pathfinder #191: The Destiny War*
 *OGL*

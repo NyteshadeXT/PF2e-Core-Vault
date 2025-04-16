@@ -29,7 +29,7 @@ This jagged, bony growth narrows to a sharp, pointed tip. Deep groves from some 
 
 * * *
 
-**Effect** You cast [[Spells/Gouging Claw|Gouging Claw]].
+**Effect** You cast [[Gouging Claw|Gouging Claw]].
 
 **Activate** Cast a Spell
 
@@ -37,7 +37,7 @@ This jagged, bony growth narrows to a sharp, pointed tip. Deep groves from some 
 
 * * *
 
-**Effect** You cast 7th-rank [[Spells/Dinosaur Form|Dinosaur Form]].
+**Effect** You cast 7th-rank [[Dinosaur Form|Dinosaur Form]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

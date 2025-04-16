@@ -11,7 +11,7 @@ license: OGL
 ---
 # Raven Band
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[primal]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[primal]]
 
 
 **Price** 60 gp; 
@@ -28,7 +28,7 @@ This armband is woven from overlapping raven feathers, including one large feath
 
 * * *
 
-**Effect** When you stroke the kadlaka feather, the raven band gives you the effects of [[Spells/Speak with Animals|Speak with Animals]], except that you can speak with and understand only birds, not other animals.
+**Effect** When you stroke the kadlaka feather, the raven band gives you the effects of [[Speak with Animals|Speak with Animals]], except that you can speak with and understand only birds, not other animals.
 
 *Source: Pathfinder #175: Broken Tusk Moon*
 *OGL*

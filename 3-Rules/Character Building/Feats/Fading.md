@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fading `pf2:r`
 ## Feat 10
-### [rare](rare "Rare Rarity Trait")[[archetype]][[teleportation]]
+### [rare](rare.md "Rare Rarity Trait")[[archetype]][[teleportation]]
 
 **Category** class; 
 

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Siccatite Ingot
 
-### [rare](rare "Rare Rarity Trait")[[precious]]
+### [rare](rare.md "Rare Rarity Trait")[[precious]]
 
 
 **Price** 5000 gp; 

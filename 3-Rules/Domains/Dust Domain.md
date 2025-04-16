@@ -10,6 +10,6 @@ tags:
 # Dust Domain
 **Deities** [[Deities/Hshurha|Hshurha]], [[Deities/Nurgal|Nurgal]], [[Deities/Trelmarixian|Trelmarixian]], [[Deities/Ymeri|Ymeri]]
 
-**Domain Spell** [[Spells/Parch|Parch]]; **Advanced Domain Spell** [[Spells/Dust Storm|Dust Storm]]
+**Domain Spell** [[Parch|Parch]]; **Advanced Domain Spell** [[Dust Storm|Dust Storm]]
 
 You have the power to dry and crumble what opposes you.

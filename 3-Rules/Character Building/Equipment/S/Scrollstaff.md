@@ -13,7 +13,7 @@ license: OGL
 ---
 # Scrollstaff
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[two-hand-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

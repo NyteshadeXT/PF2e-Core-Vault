@@ -17,7 +17,7 @@ license: OGL
 ---
 # Impenetrable Fog `pf2:3`
 ## Feat 8
-### [[impulse]][[kineticist]][[manipulate]][[overflow]][[primal]][[3-Rules/trait_reference/water]]
+### [[impulse]][[kineticist]][[manipulate]][[overflow]][[primal]][[3-Rules/trait_reference/W/water]]
 
 **Category** class; 
 

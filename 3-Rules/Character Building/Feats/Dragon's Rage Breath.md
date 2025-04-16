@@ -14,7 +14,7 @@ license: ORC
 ---
 # Dragon's Rage Breath `pf2:2`
 ## Feat 6
-### [[barbarian]][[concentrate]][[rage]]
+### [[barbarian]][[concentrate]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

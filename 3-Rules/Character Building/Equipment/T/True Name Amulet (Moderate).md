@@ -11,7 +11,7 @@ license: OGL
 ---
 # True Name Amulet (Moderate)
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 850 gp; 

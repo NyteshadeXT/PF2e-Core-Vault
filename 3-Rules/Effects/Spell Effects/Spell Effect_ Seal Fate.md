@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Seal Fate|Seal Fate]]
+Granted by [[Seal Fate|Seal Fate]]
 
 The target gains weakness to the chosen damage type.
 

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** focus pool
 * * *
-You can turn your attack into an unerring blur of force. You learn the [[Spells/Force Fang|Force Fang]] conflux spell.
+You can turn your attack into an unerring blur of force. You learn the [[3-Rules/Character Building/Spells/F/Force Fang|Force Fang]] conflux spell.
 
 Increase the number of Focus Points in your focus pool by 1.
 

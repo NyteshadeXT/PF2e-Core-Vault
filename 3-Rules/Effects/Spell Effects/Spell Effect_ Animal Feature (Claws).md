@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Animal Feature|Animal Feature]]
+Granted by [[Animal Feature|Animal Feature]]
 
 You gain a claw attack that deals 1d6 slashing damage and has the agile, finesse, and unarmed traits.
 

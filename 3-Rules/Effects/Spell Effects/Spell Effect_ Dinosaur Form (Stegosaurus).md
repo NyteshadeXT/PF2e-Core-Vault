@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Dinosaur Form|Dinosaur Form]]
+Granted by [[Dinosaur Form|Dinosaur Form]]
 
 You channel the primal forces of nature to transform into a Large animal battle form, specifically that of a powerful and terrifying dinosaur. You must have space to expand or the spell is lost.
 

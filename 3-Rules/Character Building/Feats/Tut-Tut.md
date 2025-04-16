@@ -15,7 +15,7 @@ license: OGL
 ---
 # Tut-Tut `pf2:0`
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[emotion]][[fear]][[3-Rules/trait_reference/mental]][[press]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[press]]
 
 **Category** class; 
 

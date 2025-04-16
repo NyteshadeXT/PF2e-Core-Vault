@@ -14,7 +14,7 @@ license: OGL
 ---
 # The Snakebite
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[invested]][[magical]][[3-Rules/trait_reference/poison]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[invested]][[magical]][[3-Rules/trait_reference/P/poison]]
 
 
 **Price** 0 gp; 
@@ -35,7 +35,7 @@ _The Snakebite_ represents poison, assassination, and disharmony. As long as you
 
 * * *
 
-**Effect** You cast [[Spells/Purple Worm Sting|Purple Worm Sting]] on a creature within your reach, with a DC equal to your class DC or spell DC (Fortitude check).
+**Effect** You cast [[Purple Worm Sting|Purple Worm Sting]] on a creature within your reach, with a DC equal to your class DC or spell DC (Fortitude check).
 
 *Source: Pathfinder #190: The Choosing*
 *OGL*

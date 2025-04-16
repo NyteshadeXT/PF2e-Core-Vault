@@ -30,7 +30,7 @@ The cauldron has an affinity for preying on the minds of captives and prisoners,
 
 * * *
 
-**Effect** The cauldron casts [[Spells/Nightmare|Nightmare]] (DC 35 Will check) on a target creature that you know by name. The target must be on the same plane as you. If the target fails its save and is 15th level or lower, you add its nightmare to the cauldron. The cauldron can hold only six nightmares at a time; when you add a new nightmare, you choose which six to keep.
+**Effect** The cauldron casts [[3-Rules/Character Building/Spells/N/Nightmare|Nightmare]] (DC 35 Will check) on a target creature that you know by name. The target must be on the same plane as you. If the target fails its save and is 15th level or lower, you add its nightmare to the cauldron. The cauldron can hold only six nightmares at a time; when you add a new nightmare, you choose which six to keep.
 
 * * *
 
@@ -40,7 +40,7 @@ The cauldron has an affinity for preying on the minds of captives and prisoners,
 
 * * *
 
-**Effect** You spill the nightmarish contents of the cauldron onto the ground and choose one creature whose nightmare is stored in your cauldron. A nightmare copy of the chosen creature springs to life from the bubbling pile of horror. The cauldron casts [[Spells/Duplicate Foe|Duplicate Foe]] on the target, ignoring the range restriction, and the target automatically fails its saving throw. All enemies within 20 feet of the cauldron are subjected to a [[Spells/Fear|Fear]] spell (DC 35 Will check). All other nightmares stored in the cauldron are lost. The cauldron becomes totally inert and can't be used again for 1 week.
+**Effect** You spill the nightmarish contents of the cauldron onto the ground and choose one creature whose nightmare is stored in your cauldron. A nightmare copy of the chosen creature springs to life from the bubbling pile of horror. The cauldron casts [[Duplicate Foe|Duplicate Foe]] on the target, ignoring the range restriction, and the target automatically fails its saving throw. All enemies within 20 feet of the cauldron are subjected to a [[3-Rules/Character Building/Spells/F/Fear|Fear]] spell (DC 35 Will check). All other nightmares stored in the cauldron are lost. The cauldron becomes totally inert and can't be used again for 1 week.
 
 * * *
 

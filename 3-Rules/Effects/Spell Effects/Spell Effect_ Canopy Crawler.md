@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Canopy Crawler|Canopy Crawler]]
+Granted by [[Canopy Crawler|Canopy Crawler]]
 
 The target gains a climb Speed equal to their highest Speed.
 

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Acrobat, Celebrity, Dandy, or Gladiator Dedication
 * * *
-Your performances aren't just well-known, they're famous across the land and beyond. Your ability to make people believe the stories you perform has taken on supernatural power. You gain the ability to cast [[Spells/Fabricated Truth|Fabricated Truth]] once per day as an occult innate spell.
+Your performances aren't just well-known, they're famous across the land and beyond. Your ability to make people believe the stories you perform has taken on supernatural power. You gain the ability to cast [[Fabricated Truth|Fabricated Truth]] once per day as an occult innate spell.
 
 *Source: Pathfinder #204: Stage Fright*
 *ORC*

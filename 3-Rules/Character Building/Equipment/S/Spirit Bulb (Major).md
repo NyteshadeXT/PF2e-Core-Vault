@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-This magical bulb is harvested from an ancient grove rich in primal plant magic. When you activate the bulb, you either eat it to have it cast a 7th-rank [[Spells/Plant Form|Plant Form]] spell affecting you, or plant it in the ground next to you to have it cast a 7th-rank [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] spell. If you choose the summoning option, the plant or fungus appears where you planted the bulb, and you can Sustain the activation to keep control of the creature.
+This magical bulb is harvested from an ancient grove rich in primal plant magic. When you activate the bulb, you either eat it to have it cast a 7th-rank [[Plant Form|Plant Form]] spell affecting you, or plant it in the ground next to you to have it cast a 7th-rank [[Summon Plant or Fungus|Summon Plant or Fungus]] spell. If you choose the summoning option, the plant or fungus appears where you planted the bulb, and you can Sustain the activation to keep control of the creature.
 
 *Source: Pathfinder GM Core*
 *ORC*

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Injigo's Loving Embrace
 ## Item 9
-### [unique](unique "Unique Rarity Trait")[[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[magical]]
 
 
 **Price** 675 gp; 

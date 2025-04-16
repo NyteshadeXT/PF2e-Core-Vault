@@ -12,7 +12,7 @@ license: OGL
 ---
 # Shepherd of Desolation
 ## Feat 12
-### [[archetype]][[aura]]
+### [[archetype]][[3-Rules/trait_reference/A/aura]]
 
 **Category** class; 
 

@@ -28,7 +28,7 @@ The resonant power of the _amber sphere_ grants you a special activation to impr
 
 * * *
 
-**Effect** The stone casts a 7th-rank [[Spells/Mask of Terror|Mask of Terror]] on you (DC 34 Will check), causing your appearance to burst with a profusion of shocking vigor: your mouth fills with large and bright teeth, your hair animates in grasping tresses, your face flushes with bright blood that seeps from your skin, or similar. The image is unique to each observer, but you remain recognizably yourself regardless of the illusion's form.
+**Effect** The stone casts a 7th-rank [[Mask of Terror|Mask of Terror]] on you (DC 34 Will check), causing your appearance to burst with a profusion of shocking vigor: your mouth fills with large and bright teeth, your hair animates in grasping tresses, your face flushes with bright blood that seeps from your skin, or similar. The image is unique to each observer, but you remain recognizably yourself regardless of the illusion's form.
 
 *Source: Pathfinder #185: A Taste of Ashes*
 *OGL*

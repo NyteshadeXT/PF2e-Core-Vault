@@ -12,7 +12,7 @@ license: ORC
 ---
 # Ring of Lies
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 850 gp; 
@@ -27,7 +27,7 @@ This plain silver ring has an almost oily sheen. While wearing the ring, you gai
 
 * * *
 
-**Effect** Snapping your fingers on the hand that wears the ring causes the ring to cast [[Spells/Honeyed Words|Honeyed Words]] on you with no visual manifestations of a spell being cast.
+**Effect** Snapping your fingers on the hand that wears the ring causes the ring to cast [[Honeyed Words|Honeyed Words]] on you with no visual manifestations of a spell being cast.
 
 *Source: Pathfinder GM Core*
 *ORC*

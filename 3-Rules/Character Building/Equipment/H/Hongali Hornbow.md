@@ -13,7 +13,7 @@ license: OGL
 ---
 # Hongali Hornbow
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d6]][[propulsive]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d6]][[propulsive]]
 
 |  |  |
 | -- | -- |

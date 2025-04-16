@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Worm Caller Dedication
 * * *
-You've learned to channel the sting of the worm. You gain [[Spells/Purple Worm Sting|Purple Worm Sting]] as an innate primal spell that you can cast once per day.
+You've learned to channel the sting of the worm. You gain [[Purple Worm Sting|Purple Worm Sting]] as an innate primal spell that you can cast once per day.
 
 *Source: Pathfinder #194: Cult of the Cave Worm*
 *OGL*

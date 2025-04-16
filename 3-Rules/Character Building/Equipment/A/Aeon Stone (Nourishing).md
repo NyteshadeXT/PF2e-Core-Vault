@@ -29,7 +29,7 @@ There are various types of _aeon stones_, each with a different appearance and m
 
 After you've invested and worn this transparent stone for a week continuously, you no longer need to eat or drink. This time resets if you remove the _aeon stone_ or it's invested by someone else.
 
-The resonant power allows you to cast [[Spells/Air Bubble|Air Bubble]] as a primal innate spell once per day.
+The resonant power allows you to cast [[Air Bubble|Air Bubble]] as a primal innate spell once per day.
 
 *Source: Pathfinder GM Core*
 *ORC*

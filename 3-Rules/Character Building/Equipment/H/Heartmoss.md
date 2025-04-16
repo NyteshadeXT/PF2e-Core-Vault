@@ -13,7 +13,7 @@ license: ORC
 ---
 # Heartmoss
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[healing]][[magical]][[spellheart]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[healing]][[magical]][[spellheart]]
 
 
 **Price** 55 gp; 
@@ -29,7 +29,7 @@ This burgundy moss grows in heart-shaped clumps and releases a pleasant, calming
 
 * * *
 
-**Effect** You cast [[Spells/Stabilize|Stabilize]].
+**Effect** You cast [[Stabilize|Stabilize]].
 
 *Source: Pathfinder #202: Severed at the Root*
 *ORC*

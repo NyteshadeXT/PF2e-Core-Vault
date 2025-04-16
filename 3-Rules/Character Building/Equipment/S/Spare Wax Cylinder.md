@@ -9,7 +9,7 @@ license: OGL
 ---
 # Spare Wax Cylinder
 ## Item 6
-### [rare](rare "Rare Rarity Trait")
+### [rare](rare.md "Rare Rarity Trait")
 
 
 **Price** 3 gp; 

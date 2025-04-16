@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Cultivator Dedication
 * * *
-You breathe, allowing your golden core to release qi into the meridians governing your lower body, and break into a burst of speed that could shame arrows in flight. You gain the [[Spells/Athletic Rush|Athletic Rush]] domain spell as a focus spell.
+You breathe, allowing your golden core to release qi into the meridians governing your lower body, and break into a burst of speed that could shame arrows in flight. You gain the [[Athletic Rush|Athletic Rush]] domain spell as a focus spell.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

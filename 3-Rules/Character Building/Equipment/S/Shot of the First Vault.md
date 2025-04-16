@@ -12,7 +12,7 @@ license: ORC
 ---
 # Shot of the First Vault
 ## Item 23
-### [rare](rare "Rare Rarity Trait")[[artifact]][[divine]]
+### [rare](rare.md "Rare Rarity Trait")[[artifact]][[divine]]
 
 
 **Price** 0 gp; 

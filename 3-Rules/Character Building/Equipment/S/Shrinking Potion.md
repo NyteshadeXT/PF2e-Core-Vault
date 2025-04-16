@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-This fungus-flavored potion conveys the effects of the [[Spells/Shrink|Shrink]] spell to make you and all your gear smaller. After the onset, you remain small for 10 minutes.
+This fungus-flavored potion conveys the effects of the [[Shrink|Shrink]] spell to make you and all your gear smaller. After the onset, you remain small for 10 minutes.
 
 **Onset** 1 minute
 

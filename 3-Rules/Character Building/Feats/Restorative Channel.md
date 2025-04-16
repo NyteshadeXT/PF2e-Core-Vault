@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** healing font
 * * *
-You can remove conditions with divine grace. You can sacrifice one [[Spells/Heal|Heal]] spell you've prepared in your extra slots from your healing font to cast one of the following spells instead: [[Spells/Cleanse Affliction|Cleanse Affliction]], [[Spells/Clear Mind|Clear Mind]], [[Spells/Sound Body|Sound Body]], or [[Spells/Sure Footing|Sure Footing]]. The spell is heightened to the same rank as the spell you sacrificed.
+You can remove conditions with divine grace. You can sacrifice one [[Heal|Heal]] spell you've prepared in your extra slots from your healing font to cast one of the following spells instead: [[Cleanse Affliction|Cleanse Affliction]], [[Clear Mind|Clear Mind]], [[Sound Body|Sound Body]], or [[Sure Footing|Sure Footing]]. The spell is heightened to the same rank as the spell you sacrificed.
 
 *Source: Pathfinder Player Core*
 *ORC*

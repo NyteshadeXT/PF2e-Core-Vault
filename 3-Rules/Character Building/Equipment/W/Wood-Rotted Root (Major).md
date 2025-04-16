@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-This palm-sized chunk of wood it rotting, and riddled with mold and fungi. You can crush this wood to use it as a spell catalyst when you cast a [[Spells/Oaken Resilience|Oaken Resilience]]. When you do, the bark that covers your skin is rotting, and emits a small cloud of spores whenever your hurt. For the duration, whenever you take physical damage, your rotting bark skin emits a cloud of spores in a @Template\[emanation|distance:15\]. Creatures in the area must attempt a DC 29 Fortitude check save to avoid taking 2d8 poison damage.
+This palm-sized chunk of wood it rotting, and riddled with mold and fungi. You can crush this wood to use it as a spell catalyst when you cast a [[Oaken Resilience|Oaken Resilience]]. When you do, the bark that covers your skin is rotting, and emits a small cloud of spores whenever your hurt. For the duration, whenever you take physical damage, your rotting bark skin emits a cloud of spores in a @Template\[emanation|distance:15\]. Creatures in the area must attempt a DC 29 Fortitude check save to avoid taking 2d8 poison damage.
 
 *Source: Pathfinder #202: Severed at the Root*
 *ORC*

@@ -18,7 +18,7 @@ license: ORC
 ---
 # Towering Transformation `pf2:r`
 ## Feat 14
-### [[barbarian]][[druid]][[emotion]][[fear]][[3-Rules/trait_reference/mental]][[rage]][[visual]]
+### [[barbarian]][[druid]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[3-Rules/trait_reference/R/rage]][[visual]]
 
 **Category** class; 
 

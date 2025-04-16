@@ -12,7 +12,7 @@ license: OGL
 ---
 # Pipes of Compulsion
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[coda]][[occult]][[3-Rules/Character Building/Equipment/S/Staff]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[coda]][[occult]][[3-Rules/Character Building/Equipment/S/Staff]]
 
 
 **Price** 90 gp; 
@@ -29,8 +29,8 @@ These panpipes are made of what seems to be beat-up tin bound by frayed leather 
 
 **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Daze|Daze]]
-*   **1st** [[Spells/Charm|Charm]], [[Spells/Command|Command]], [[Spells/Fear|Fear]]
+*   **Cantrip** [[Daze|Daze]]
+*   **1st** [[Charm|Charm]], [[Command|Command]], [[3-Rules/Character Building/Spells/F/Fear|Fear]]
 
 * * *
 

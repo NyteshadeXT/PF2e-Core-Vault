@@ -15,7 +15,7 @@ license: ORC
 ---
 # Blazing Conflagration `pf2:3`
 
-### [[3-Rules/Rule References/Fire]][[healing]][[3-Rules/trait_reference/light]][[visual]]
+### [[3-Rules/Rule References/Fire]][[healing]][[3-Rules/Trait Reference/L/light]][[visual]]
 
 **Category** offensive; 
 

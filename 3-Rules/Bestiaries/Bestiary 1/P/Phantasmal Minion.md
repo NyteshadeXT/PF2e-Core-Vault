@@ -73,4 +73,4 @@ creatures:
 
 
 
-This creature can be summoned with the spell [[Spells/Phantasmal Minion|Phantasmal Minion]].
+This creature can be summoned with the spell [[3-Rules/Character Building/Spells/P/Phantasmal Minion|Phantasmal Minion]].

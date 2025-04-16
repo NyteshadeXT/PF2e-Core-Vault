@@ -11,7 +11,7 @@ license: OGL
 ---
 # Skinsaw Mask
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[invested]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[divine]][[invested]]
 
 
 **Price** 50 gp; 

@@ -21,7 +21,7 @@ license: OGL
 * * *
 You gain a tattoo that serves as a special ward to defend you against Walkena's forces.
 
-The tattoo allows you to cast the [[Spells/Light|Light]] cantrip as a divine innate spell at will. The cantrip is heightened to a spell rank equal to half your level rounded up. If you die, the tattoo immediately casts [[Spells/Peaceful Rest|Peaceful Rest]] on your corpse, heightened to the same spell rank.
+The tattoo allows you to cast the [[3-Rules/Character Building/Spells/L/Light|Light]] cantrip as a divine innate spell at will. The cantrip is heightened to a spell rank equal to half your level rounded up. If you die, the tattoo immediately casts [[Peaceful Rest|Peaceful Rest]] on your corpse, heightened to the same spell rank.
 
 *Source: Pathfinder Lost Omens: Legends*
 *OGL*

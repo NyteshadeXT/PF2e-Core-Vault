@@ -13,7 +13,7 @@ license: OGL
 ---
 # Watchful Portrait
 ## Item 9
-### [[consumable]][[magical]][[scrying]]
+### [[consumable]][[magical]][[3-Rules/trait_reference/S/scrying]]
 
 **Category** other; 
 **Price** 125 gp; 

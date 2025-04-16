@@ -16,7 +16,7 @@ license: OGL
 ---
 # Metronomic Hammer
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[gnome]][[magical]][[trip]][[two-hand-d10]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[gnome]][[magical]][[3-Rules/Trait Reference/T/trip]][[two-hand-d10]][[versatile-p]]
 
 |  |  |
 | -- | -- |

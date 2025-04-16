@@ -13,7 +13,7 @@ license: ORC
 ---
 # Accolade Robe (Greater)
 ## Item 17
-### [[3-Rules/trait_reference/arcane|Arcane]][[focused]][[invested]]
+### [[arcane|Arcane]][[focused]][[invested]]
 
 
 **Price** 13500 gp; 

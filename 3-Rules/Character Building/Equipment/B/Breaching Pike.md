@@ -15,7 +15,7 @@ license: ORC
 ---
 # Breaching Pike
 ## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[hobgoblin]][[razing]][[3-Rules/trait_reference/reach|Reach]] 
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[hobgoblin]][[razing]][[reach|Reach]] 
 
 |  |  |
 | -- | -- |

@@ -27,7 +27,7 @@ license: ORC
 
 
 
-As black as coal, this blade grows more potent in darkness. While in bright light, it functions as a _+1 shortsword_ and doesn't appear to radiate a magic aura to [[Spells/Detect Magic|Detect Magic]] or similar spells unless the spells are 4th rank or higher.
+As black as coal, this blade grows more potent in darkness. While in bright light, it functions as a _+1 shortsword_ and doesn't appear to radiate a magic aura to [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]] or similar spells unless the spells are 4th rank or higher.
 
 In dim light or darkness, the _gloom blade_ becomes a _+2 striking shortsword_. Whenever you use the _gloom blade_ to attack a creature you're undetected by, you deal 1d6 additional precision damage.
 

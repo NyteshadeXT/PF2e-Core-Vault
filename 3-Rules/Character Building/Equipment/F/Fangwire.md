@@ -18,7 +18,7 @@ license: ORC
 ---
 # Fangwire
 ## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[backstabber]][[deadly-d8]][[3-Rules/Rule References/Finesse]][[3-Rules/trait_reference/grapple]][[kobold]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[backstabber]][[deadly-d8]][[3-Rules/Rule References/Finesse]][[3-Rules/Trait Reference/G/grapple]][[kobold]]
 
 |  |  |
 | -- | -- |

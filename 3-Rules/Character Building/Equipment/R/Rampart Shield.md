@@ -10,7 +10,7 @@ license: OGL
 ---
 # Rampart Shield
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 1900 gp; 

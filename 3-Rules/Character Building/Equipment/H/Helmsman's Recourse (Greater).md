@@ -30,7 +30,7 @@ This standard-grade duskwood meteor shield (Hardness 8, HP 60, BT 30) is a wheel
 
 * * *
 
-**Effect** For 10 minutes, you don't sink if you haven't succeeded at a Swim action on a turn, and if you're submerged, you automatically ascend 10 feet at the end of your turn. When you Activate the shield, it casts [[Spells/Water Walk|Water Walk]] on you.
+**Effect** For 10 minutes, you don't sink if you haven't succeeded at a Swim action on a turn, and if you're submerged, you automatically ascend 10 feet at the end of your turn. When you Activate the shield, it casts [[Water Walk|Water Walk]] on you.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Ghost Stone
 ## Item 7
-### [unique](unique "Unique Rarity Trait")[[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[magical]]
 
 
 **Price** 0 gp; 

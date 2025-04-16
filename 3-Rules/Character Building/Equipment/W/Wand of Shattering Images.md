@@ -26,11 +26,11 @@ Shattered pieces of a glass mirror, formed into a reflective mosaic, comprise th
 
 * * *
 
-**Effect** You cast [[Spells/Mirror Image|Mirror Image]]. Each time an image is destroyed, the image shatters into sharp fragments of glass. If the creature that destroyed the image is adjacent to you, it takes 5 slashing.
+**Effect** You cast [[Mirror Image|Mirror Image]]. Each time an image is destroyed, the image shatters into sharp fragments of glass. If the creature that destroyed the image is adjacent to you, it takes 5 slashing.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Mirror Image|Mirror Image]]
+**Craft Requirements** Supply a casting of [[Mirror Image|Mirror Image]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

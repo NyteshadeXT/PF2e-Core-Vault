@@ -31,7 +31,7 @@ When you invest the spectacles, you either increase your Intelligence score by 2
 
 * * *
 
-**Effect** Pushing the glasses up your nose and asking the entity for help, you cause the spectacles to cast either [[Spells/Truesight|Truesight]] or a 3rd-rank [[Spells/Translate|Translate]] on you. Because the entity tied to the spectacles chooses which one, the GM picks whichever spell is most immediately useful in your current situation (and chooses the most useful language each time the item casts comprehend language). The spell lasts for 1 minute.
+**Effect** Pushing the glasses up your nose and asking the entity for help, you cause the spectacles to cast either [[Truesight|Truesight]] or a 3rd-rank [[Translate|Translate]] on you. Because the entity tied to the spectacles chooses which one, the GM picks whichever spell is most immediately useful in your current situation (and chooses the most useful language each time the item casts comprehend language). The spell lasts for 1 minute.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

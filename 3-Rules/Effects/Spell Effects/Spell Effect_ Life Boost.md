@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Life Boost|Life Boost]].
+Granted by [[Life Boost|Life Boost]].
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -31,7 +31,7 @@ One bulb of this tiny hourglass contains black sand, the other white. After even
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Void Warp|Void Warp]].
+**Effect** You cast [[Void Warp|Void Warp]].
 
 * * *
 
@@ -39,7 +39,7 @@ One bulb of this tiny hourglass contains black sand, the other white. After even
 
 **Frequency** once per day
 
-**Effect** You cast 4th-rank [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]].
+**Effect** You cast 4th-rank [[Harm|Harm]] or [[Heal|Heal]].
 
 * * *
 
@@ -47,7 +47,7 @@ One bulb of this tiny hourglass contains black sand, the other white. After even
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Enervation|Enervation]] or 4th-rank [[Spells/Restoration|Restoration]].
+**Effect** You cast [[Enervation|Enervation]] or 4th-rank [[Restoration|Restoration]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

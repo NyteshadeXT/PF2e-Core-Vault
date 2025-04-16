@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Deathly Secrets
 * * *
-Your undead secrets grow stronger still. You learn either the [[Spells/Malignant Sustenance|Malignant Sustenance]] or [[Spells/Grasping Grave|Grasping Grave]] focus spell. Your focus pool increases by 1 point.
+Your undead secrets grow stronger still. You learn either the [[Malignant Sustenance|Malignant Sustenance]] or [[Grasping Grave|Grasping Grave]] focus spell. Your focus pool increases by 1 point.
 
 **Special** You can select this feat more than once. Each time, you learn a different spell and your focus pool increases by 1 Focus Point.
 

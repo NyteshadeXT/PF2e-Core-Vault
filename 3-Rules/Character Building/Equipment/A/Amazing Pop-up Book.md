@@ -27,7 +27,7 @@ Goblin wizards invented the _amazing pop-up book_ to store their spells without 
 
 **Frequency** once per day
 
-**Effect** If your next action is to cast an illusion spell prepared from this grimoire that creates illusory terrain or creatures, such as [[Spells/Mirage|Mirage]], you draw forth the pop-up scene. If a creature succeeds, but doesn't critically succeed, at a saving throw to disbelieve the illusion, then just as their mind recognizes the illusion, a startling—though obviously false—illusion pops up somewhere unexpected in their field of vision, visible to only them, dealing mental damage equal to the spell's rank.
+**Effect** If your next action is to cast an illusion spell prepared from this grimoire that creates illusory terrain or creatures, such as [[Mirage|Mirage]], you draw forth the pop-up scene. If a creature succeeds, but doesn't critically succeed, at a saving throw to disbelieve the illusion, then just as their mind recognizes the illusion, a startling—though obviously false—illusion pops up somewhere unexpected in their field of vision, visible to only them, dealing mental damage equal to the spell's rank.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

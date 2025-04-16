@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Rapid Adaptation|Rapid Adaptation]]
+Granted by [[Rapid Adaptation|Rapid Adaptation]]
 
 The target gains scent as an imprecise sense with a range of 30 feet.
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Mamlambo Scale
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 **Category** medium; **Group** composite
 **Price** 990 gp; 

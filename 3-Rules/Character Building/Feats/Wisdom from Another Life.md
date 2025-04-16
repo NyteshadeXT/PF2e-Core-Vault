@@ -11,7 +11,7 @@ license: OGL
 ---
 # Wisdom from Another Life
 ## Feat 1
-### [rare](rare "Rare Rarity Trait")[[reincarnated]]
+### [rare](rare.md "Rare Rarity Trait")[[reincarnated]]
 
 **Category** ancestry; 
 

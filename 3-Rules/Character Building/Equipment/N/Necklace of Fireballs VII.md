@@ -26,7 +26,7 @@ This necklace has one 18d6 fire damage, three 16d6 fire damage and five 14d6 fir
 
 * * *
 
-**Effect** You detach a sphere from the necklace, causing it to glow with orange light. After you activate a sphere, if you or anyone else hurls it (an Interact action with the ranged trait), it detonates as a [[Spells/Fireball|Fireball]] where it lands. Your toss can place the center of the fireball anywhere within 70 feet, though at the GM's discretion you might need to make an attack roll if the throw is unusually challenging. If no one hurls the sphere by the start of your next turn, it turns into a non-magical red bead.
+**Effect** You detach a sphere from the necklace, causing it to glow with orange light. After you activate a sphere, if you or anyone else hurls it (an Interact action with the ranged trait), it detonates as a [[Fireball|Fireball]] where it lands. Your toss can place the center of the fireball anywhere within 70 feet, though at the GM's discretion you might need to make an attack roll if the throw is unusually challenging. If no one hurls the sphere by the start of your next turn, it turns into a non-magical red bead.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

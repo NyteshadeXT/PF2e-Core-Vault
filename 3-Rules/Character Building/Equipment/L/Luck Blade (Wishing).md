@@ -16,7 +16,7 @@ license: OGL
 ---
 # Luck Blade (Wishing)
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[agile]][[finesse]][[fortune]][[magical]][[versatile-s]]
+### [rare](rare.md "Rare Rarity Trait")[[agile]][[finesse]][[fortune]][[magical]][[versatile-s]]
 
 |  |  |
 | -- | -- |
@@ -41,7 +41,7 @@ Luck and good fortune bless the wielder of this _+3 greater striking shortsword_
 
 * * *
 
-Some _luck blades_ contain one [[Spells/Wish|Wish]] when crafted. You can cast this spell as an arcane innate spell while wielding the _luck blade_, expending the spell. A spellcaster who can cast _wish_ can place another _wish_ into the blade by spending 8,000 gp and 4 days of downtime. A _wishing luck blade_ can hold no more than one _wish_ at a time.
+Some _luck blades_ contain one [[Wish|Wish]] when crafted. You can cast this spell as an arcane innate spell while wielding the _luck blade_, expending the spell. A spellcaster who can cast _wish_ can place another _wish_ into the blade by spending 8,000 gp and 4 days of downtime. A _wishing luck blade_ can hold no more than one _wish_ at a time.
 
 * * *
 

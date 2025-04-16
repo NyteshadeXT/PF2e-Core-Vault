@@ -15,7 +15,7 @@ license: ORC
 ---
 # Arsenic
 ## Item 1
-### [[alchemical]][[consumable]][[ingested]][[3-Rules/trait_reference/poison|Poison]]
+### [[alchemical]][[consumable]][[ingested]][[3-Rules/Trait Reference/P/poison|Poison]]
 
 **Category** poison; 
 **Price** 3 gp; 

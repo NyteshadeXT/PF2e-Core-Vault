@@ -35,8 +35,8 @@ Carved from white ash wood, a _staff of air_ crackles with electrical sparks, an
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Gale Blast|Gale Blast]]
-*   **1st** [[Spells/Air Bubble|Air Bubble]], [[Spells/Gust of Wind|Gust of Wind]]
+*   **Cantrip** [[Gale Blast|Gale Blast]]
+*   **1st** [[Air Bubble|Air Bubble]], [[Gust of Wind|Gust of Wind]]
 
 * * *
 

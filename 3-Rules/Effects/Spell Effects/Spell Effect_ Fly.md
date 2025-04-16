@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Fly|Fly]]
+Granted by [[3-Rules/Character Building/Spells/F/Fly|Fly]]
 
 The target can soar through the air, gaining a fly Speed equal to its Speed or 20 feet, whichever is greater.
 

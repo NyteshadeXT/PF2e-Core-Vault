@@ -13,7 +13,7 @@ license: OGL
 ---
 # Broadleaf Shield (Greater)
 ## Item 9
-### [[magical|Magical]][[3-Rules/trait_reference/plant]][[Wood]]
+### [[magical|Magical]][[plant]][[Wood]]
 
 
 **Price** 675 gp; 

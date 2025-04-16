@@ -41,14 +41,14 @@ A _zealot staff_'s color, iconography, and materials vary depending on the faith
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Divine Lance|Divine Lance]]
-*   **1st** [[Spells/Bane|Bane]]
-*   **2nd** [[Spells/Brand the Impenitent|Brand the Impenitent]], [[Spells/Spiritual Weapon|Spiritual Weapon]]
-*   **3rd** [[Spells/Crisis of Faith|Crisis of Faith]], [[Spells/Warding Aggression|Warding Aggression]]
-*   **4th** [[Spells/Anathematic Reprisal|Anathematic Reprisal]], [[Spells/Spiritual Weapon|Spiritual Weapon]]
-*   **5th** [[Spells/Divine Wrath|Divine Wrath]]
-*   **6th** [[Spells/Spiritual Weapon|Spiritual Weapon]], [[Spells/Zealous Conviction|Zealous Conviction]]
-*   **7th** [[Spells/Divine Decree|Divine Decree]]
+*   **Cantrip** [[Divine Lance|Divine Lance]]
+*   **1st** [[3-Rules/Character Building/Spells/B/Bane|Bane]]
+*   **2nd** [[Brand the Impenitent|Brand the Impenitent]], [[Spiritual Weapon|Spiritual Weapon]]
+*   **3rd** [[Crisis of Faith|Crisis of Faith]], [[Warding Aggression|Warding Aggression]]
+*   **4th** [[Anathematic Reprisal|Anathematic Reprisal]], [[Spiritual Weapon|Spiritual Weapon]]
+*   **5th** [[Divine Wrath|Divine Wrath]]
+*   **6th** [[Spiritual Weapon|Spiritual Weapon]], [[Zealous Conviction|Zealous Conviction]]
+*   **7th** [[Divine Decree|Divine Decree]]
 
 * * *
 

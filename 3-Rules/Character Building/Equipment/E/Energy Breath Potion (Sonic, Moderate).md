@@ -15,7 +15,7 @@ license: ORC
 ---
 # Energy Breath Potion (Sonic, Moderate)
 ## Item 12
-### [[consumable]][[magical|Magical]][[potion]][[3-Rules/trait_reference/sonic]]
+### [[consumable]][[magical|Magical]][[potion]][[3-Rules/Trait Reference/S/sonic]]
 
 **Category** potion; 
 **Price** 400 gp; 

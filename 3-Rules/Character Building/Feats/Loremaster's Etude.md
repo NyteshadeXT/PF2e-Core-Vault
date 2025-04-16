@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** enigma muse
 * * *
-You magically unlock memories, making them easier to recall. You learn the [[Spells/Loremaster's Etude|Loremaster's Etude]] composition spell.
+You magically unlock memories, making them easier to recall. You learn the [[3-Rules/Character Building/Spells/L/Loremaster's Etude|Loremaster's Etude]] composition spell.
 
 *Source: Pathfinder Player Core*
 *ORC*

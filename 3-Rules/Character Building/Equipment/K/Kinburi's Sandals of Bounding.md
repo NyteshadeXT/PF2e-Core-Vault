@@ -11,7 +11,7 @@ license: OGL
 ---
 # Kinburi's Sandals of Bounding
 ## Item 9
-### [unique](unique "Unique Rarity Trait")[[invested]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 700 gp; 

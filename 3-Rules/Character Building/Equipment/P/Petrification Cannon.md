@@ -15,7 +15,7 @@ license: OGL
 ---
 # Petrification Cannon
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concussive]][[double-barrel]][[fatal-d10]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concussive]][[double-barrel]][[fatal-d10]][[magical]]
 
 |  |  |
 | -- | -- |
@@ -37,7 +37,7 @@ Built from the taxidermic body of a basilisk, a _petrification cannon_ functions
 
 * * *
 
-**Effect** A beam of coiling energy leaps from the _petrification cannon_ at a target within 60 feet. The target must attempt a DC 34 Fortitude check save against DC 34 with the effects of [[Spells/Petrify|Petrify]].
+**Effect** A beam of coiling energy leaps from the _petrification cannon_ at a target within 60 feet. The target must attempt a DC 34 Fortitude check save against DC 34 with the effects of [[Petrify|Petrify]].
 
 * * *
 

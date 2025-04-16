@@ -34,7 +34,7 @@ _The Hidden Truth_ represents the act of observing something beyond the obvious 
 
 * * *
 
-**Effect** You cast [[Spells/Truesight|Truesight]]. The rank of the spell is one-half your level, rounded down (minimum 6th level). If you're at least 17th-level, you can affect up to three adjacent willing targets with this spell at the same time as you cast it.
+**Effect** You cast [[Truesight|Truesight]]. The rank of the spell is one-half your level, rounded down (minimum 6th level). If you're at least 17th-level, you can affect up to three adjacent willing targets with this spell at the same time as you cast it.
 
 *Source: Pathfinder #191: The Destiny War*
 *OGL*

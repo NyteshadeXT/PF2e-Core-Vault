@@ -11,7 +11,7 @@ license: OGL
 ---
 # Moonstone Diadem
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 500 gp; 

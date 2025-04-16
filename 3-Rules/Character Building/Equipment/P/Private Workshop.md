@@ -11,7 +11,7 @@ license: OGL
 ---
 # Private Workshop
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[structure]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[structure]]
 
 
 **Price** 200 gp; 

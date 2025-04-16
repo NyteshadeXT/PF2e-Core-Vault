@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Rejuvenating Flames|Rejuvenating Flames]]
+Granted by [[Rejuvenating Flames|Rejuvenating Flames]]
 
 Allies gain a +1 status bonus to Fortitude saves for 1 minute.
 

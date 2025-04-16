@@ -26,7 +26,7 @@ This regal blue cape is crafted from a hefty yet elegant velvet embroidered with
 
 * * *
 
-**Effect** With a flourish of your cape, you make a grand entrance that draws the attention of those around you. You cast [[Spells/Enthrall|Enthrall]] with a DC of 25 (DC 25 Will check). The spell gains the visual trait and loses the auditory trait. You Sustain the Spell by continuing to sweep the cape about.
+**Effect** With a flourish of your cape, you make a grand entrance that draws the attention of those around you. You cast [[Enthrall|Enthrall]] with a DC of 25 (DC 25 Will check). The spell gains the visual trait and loses the auditory trait. You Sustain the Spell by continuing to sweep the cape about.
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

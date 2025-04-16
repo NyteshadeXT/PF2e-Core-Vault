@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Glass Shield|Glass Shield]]
+Granted by [[Glass Shield|Glass Shield]]
 
 You summon a layer of clear glass to keep you from harm.
 

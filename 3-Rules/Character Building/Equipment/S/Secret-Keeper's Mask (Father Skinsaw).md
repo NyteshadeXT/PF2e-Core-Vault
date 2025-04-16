@@ -11,7 +11,7 @@ license: OGL
 ---
 # Secret-Keeper's Mask (Father Skinsaw)
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 250 gp; 

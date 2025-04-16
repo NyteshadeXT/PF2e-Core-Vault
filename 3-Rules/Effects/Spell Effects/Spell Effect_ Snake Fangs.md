@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Snake Fangs|Snake Fangs]]
+Granted by [[Snake Fangs|Snake Fangs]]
 
 You gain a fangs unarmed attack. They're a finesse, grapple, unarmed attack that deals piercing damage and extra poison damage.
 

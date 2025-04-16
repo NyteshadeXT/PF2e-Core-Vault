@@ -11,7 +11,7 @@ license: OGL
 ---
 # Polished Demon Horn
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[spellheart]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[divine]][[spellheart]]
 
 
 **Price** 55 gp; 
@@ -31,7 +31,7 @@ This spellheart is fashioned from the tip of a demon's horn that's been polished
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Daze|Daze]] (DC 17 Will check).
+**Effect** You cast [[Daze|Daze]] (DC 17 Will check).
 
 *Source: Pathfinder #188: They Watched the Stars*
 *OGL*

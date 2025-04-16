@@ -17,7 +17,7 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-A series of shattered mountains are carved into this chime. When activated, you touch the chime against an unattended object, casting [[Spells/Shatter|Shatter]] upon the object, ignoring the object's Hardness if it's 6 or lower. You can use this chime once per day.
+A series of shattered mountains are carved into this chime. When activated, you touch the chime against an unattended object, casting [[Shatter|Shatter]] upon the object, ignoring the object's Hardness if it's 6 or lower. You can use this chime once per day.
 
 *Source: Pathfinder #170: Spoken on the Song Wind*
 *OGL*

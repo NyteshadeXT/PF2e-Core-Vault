@@ -27,7 +27,7 @@ No matter how often it's washed, the last crystals of salt rime never quite leav
 
 * * *
 
-**Effect** You spend one minute digging the anchor into the seabed, after which the anchor casts a [[Spells/Cozy Cabin|Cozy Cabin]] spell, summoning a sunken ship instead of a cabin. The sunken ship is filled with breathable air.
+**Effect** You spend one minute digging the anchor into the seabed, after which the anchor casts a [[Cozy Cabin|Cozy Cabin]] spell, summoning a sunken ship instead of a cabin. The sunken ship is filled with breathable air.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

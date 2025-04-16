@@ -13,7 +13,7 @@ license: OGL
 ---
 # Hyldarf's Fang
 ## Item 15
-### [unique](unique "Unique Rarity Trait")[[magical]][[modular]]
+### [unique](unique.md "Unique Rarity Trait")[[magical]][[modular]]
 
 |  |  |
 | -- | -- |
@@ -35,7 +35,7 @@ The weapon deals an additional 2d6 fire damage on a successful Strike, plus 3d10
 
 **Frequency** once per day
 
-**Effect** You call upon Hyldarf's power to gain the magic of a linnorm for a brief time. For 1 minute, you gain the effects of [[Spells/Fly|Fly]], [[Spells/Unfettered Movement|Unfettered Movement]], and [[Spells/Truesight|Truesight]] as well as fire resistance 20.
+**Effect** You call upon Hyldarf's power to gain the magic of a linnorm for a brief time. For 1 minute, you gain the effects of [[3-Rules/Character Building/Spells/F/Fly|Fly]], [[Unfettered Movement|Unfettered Movement]], and [[Truesight|Truesight]] as well as fire resistance 20.
 
 [[Equipment Effects/Effect_ Hyldarf's Fang|Effect: Hyldarf's Fang]]
 

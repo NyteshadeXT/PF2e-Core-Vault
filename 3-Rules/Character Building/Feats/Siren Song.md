@@ -15,7 +15,7 @@ license: ORC
 ---
 # Siren Song `pf2:3`
 ## Feat 9
-### [[auditory]][[3-Rules/trait_reference/mental]][[merfolk]][[primal]]
+### [[auditory]][[3-Rules/trait_reference/M/mental]][[merfolk]][[primal]]
 
 **Category** ancestry; 
 

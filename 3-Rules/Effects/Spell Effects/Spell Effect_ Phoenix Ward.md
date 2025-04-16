@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Phoenix Ward|Phoenix Ward]]
+Granted by [[Phoenix Ward|Phoenix Ward]]
 
 You raise a fiery shield around yourself, gaining resistance 10 to fire.
 

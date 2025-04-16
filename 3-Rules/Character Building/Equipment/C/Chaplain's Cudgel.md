@@ -14,7 +14,7 @@ license: ORC
 ---
 # Chaplain's Cudgel
 ## Item 9
-### [[magical|Magical]][[3-Rules/trait_reference/shove]]
+### [[magical|Magical]][[3-Rules/Trait Reference/S/shove]]
 
 |  |  |
 | -- | -- |

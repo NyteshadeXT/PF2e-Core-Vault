@@ -17,7 +17,7 @@ license: ORC
 ---
 # Lance of Sun's Radiance
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[deadly-d8]][[jousting-d6]][[3-Rules/trait_reference/light]][[magical]][[reach]]
+### [rare](rare.md "Rare Rarity Trait")[[deadly-d8]][[jousting-d6]][[3-Rules/Trait Reference/L/light]][[magical]][[reach]]
 
 |  |  |
 | -- | -- |

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Animal Feature|Animal Feature]]
+Granted by [[Animal Feature|Animal Feature]]
 
 You gain a jaws attack that deals 1d8 piercing damage and has the unarmed trait.
 

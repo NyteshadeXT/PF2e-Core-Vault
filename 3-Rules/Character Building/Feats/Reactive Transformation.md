@@ -28,25 +28,25 @@ You transform reflexively when in danger. You cast untamed form to transform int
 
 **Trigger** You fall 10 feet or more
 
-**Effect** Choose a shape from [[Spells/Aerial Form|Aerial Form]].
+**Effect** Choose a shape from [[Aerial Form|Aerial Form]].
 
 * * *
 
 **Trigger** You take acid, cold, electricity, fire, or poison damage
 
-**Effect** Choose a shape from [[Spells/Dragon Form|Dragon Form]] that resists the triggering damage.
+**Effect** Choose a shape from [[Dragon Form|Dragon Form]] that resists the triggering damage.
 
 * * *
 
 **Trigger** You take fire damage
 
-**Effect** Choose a fire elemental shape from [[Spells/Elemental Form|Elemental Form]].
+**Effect** Choose a fire elemental shape from [[Elemental Form|Elemental Form]].
 
 * * *
 
 **Trigger** You take poison damage
 
-**Effect** Choose a shape from [[Spells/Plant Form|Plant Form]].
+**Effect** Choose a shape from [[Plant Form|Plant Form]].
 
 *Source: Pathfinder Player Core*
 *ORC*

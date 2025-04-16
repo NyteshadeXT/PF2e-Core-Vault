@@ -14,14 +14,14 @@ license: OGL
 ---
 # Skull Bomb
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[3-Rules/trait_reference/fire]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[clockwork]][[consumable]][[3-Rules/Trait Reference/F/fire]][[magical]]
 
 **Category** other; 
 **Price** 80 gp; 
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-This device is a human-sized skull crafted entirely from metal plating and clockwork gears, which slots easily into a human skeleton in the spot where an ordinary skull would normally be located. While performing a [[Spells/Create Undead|Create Undead]] ritual, you can attach this skull bomb to the target creature in place of its own head. In order to do so, the target creature must be Medium and have the humanoid trait. The target creature can have only one skull bomb attached in this fashion. The creature gains the following ability.
+This device is a human-sized skull crafted entirely from metal plating and clockwork gears, which slots easily into a human skeleton in the spot where an ordinary skull would normally be located. While performing a [[Create Undead|Create Undead]] ritual, you can attach this skull bomb to the target creature in place of its own head. In order to do so, the target creature must be Medium and have the humanoid trait. The target creature can have only one skull bomb attached in this fashion. The creature gains the following ability.
 
 * * *
 

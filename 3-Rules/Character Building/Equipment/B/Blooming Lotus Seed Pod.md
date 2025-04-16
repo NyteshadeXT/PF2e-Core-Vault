@@ -15,7 +15,7 @@ license: OGL
 ---
 # Blooming Lotus Seed Pod
 ## Item 7
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[3-Rules/trait_reference/plant]][[Wood]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical|Magical]][[plant]][[Wood]]
 
 **Category** other; 
 **Price** 68 gp; 
@@ -34,7 +34,7 @@ The seeds of this lotus seed pod scatter with incredible ease and accuracy, quic
 
 **Activate - Blooming Flower** 10 minutes (manipulate)
 
-**Effect** You plant the blooming lotus seed pod in the ground and a giant lotus flower blooms in that square. Over the next 8 hours, creatures who sleep for at least 6 hours within 30 feet of the lotus flower gain the benefits of long-term rest as though they'd spent an entire day and night resting, and all creatures within the affected area are immune to the effects of the [[Spells/Nightmare|Nightmare]] spell and other magical effects that affect only sleeping creatures.
+**Effect** You plant the blooming lotus seed pod in the ground and a giant lotus flower blooms in that square. Over the next 8 hours, creatures who sleep for at least 6 hours within 30 feet of the lotus flower gain the benefits of long-term rest as though they'd spent an entire day and night resting, and all creatures within the affected area are immune to the effects of the [[3-Rules/Character Building/Spells/N/Nightmare|Nightmare]] spell and other magical effects that affect only sleeping creatures.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

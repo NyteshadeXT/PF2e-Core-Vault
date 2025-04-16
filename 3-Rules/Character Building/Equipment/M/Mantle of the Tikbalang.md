@@ -12,7 +12,7 @@ license: ORC
 ---
 # Mantle of the Tikbalang
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 425 gp; 

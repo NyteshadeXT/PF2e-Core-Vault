@@ -16,7 +16,7 @@ license: ORC
 ---
 # Horsechopper
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[goblin]][[reach]][[trip]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[goblin]][[reach]][[3-Rules/Trait Reference/T/trip]][[versatile-p]]
 
 |  |  |
 | -- | -- |

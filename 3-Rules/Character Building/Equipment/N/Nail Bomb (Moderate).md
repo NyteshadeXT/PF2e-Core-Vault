@@ -16,7 +16,7 @@ license: ORC
 ---
 # Nail Bomb (Moderate)
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[splash]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[splash]]
 
 |  |  |
 | -- | -- |

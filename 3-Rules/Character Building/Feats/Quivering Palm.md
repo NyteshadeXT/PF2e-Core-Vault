@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** ki spells
 * * *
-Your strikes can kill foes. You gain the [[Spells/Quivering Palm|Quivering Palm]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+Your strikes can kill foes. You gain the [[3-Rules/Character Building/Spells/Q/Quivering Palm|Quivering Palm]] ki spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

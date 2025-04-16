@@ -15,7 +15,7 @@ license: OGL
 ---
 # Lifeblight Residue
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[injury]][[3-Rules/trait_reference/poison]][[virulent]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[divine]][[injury]][[3-Rules/Trait Reference/P/poison]][[virulent]]
 
 **Category** poison; 
 **Price** 1100 gp; 
@@ -40,7 +40,7 @@ This black slime is carefully culled from coffins and sarcophagi used by the und
 
 * * *
 
-**Craft Requirements** Supply one casting of 8th-rank [[Spells/Harm|Harm]].
+**Craft Requirements** Supply one casting of 8th-rank [[Harm|Harm]].
 
 *Source: Pathfinder #160: Assault on Hunting Lodge Seven*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Lift Nature's Caul|Lift Nature's Caul]]
+Granted by [[Lift Nature's Caul|Lift Nature's Caul]]
 
 The creature gains a +1 status bonus to Will saving throws and attack rolls.
 

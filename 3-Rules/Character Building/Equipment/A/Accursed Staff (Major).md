@@ -14,7 +14,7 @@ license: OGL
 ---
 # Accursed Staff (Major)
 ## Item 14
-### [[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
+### [[magical|Magical]][[3-Rules/Trait Reference/S/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -33,13 +33,13 @@ Iron strips line the body of an _accursed staff_, capping the bottom and folding
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Daze|Daze]]
-*   **1st** [[Spells/Bane|Bane]], [[Spells/Ill Omen|Ill Omen]]
-*   **2nd** [[Spells/Blood Vendetta|Blood Vendetta]], [[Spells/Warrior's Regret|Warrior's Regret]]
-*   **3rd** [[Spells/Claim Curse|Claim Curse]], [[Spells/Cup of Dust|Cup of Dust]]
-*   **4th** [[Spells/Outcast's Curse|Outcast's Curse]], [[Spells/Cleanse Affliction|Cleanse Affliction]], [[Spells/Warrior's Regret|Warrior's Regret]]
-*   **5th** [[Spells/Inevitable Disaster|Inevitable Disaster]], [[Spells/Mariner's Curse|Mariner's Curse]]
-*   **6th** [[Spells/Blinding Fury|Blinding Fury]], [[Spells/Never Mind|Never Mind]], [[Spells/Cleanse Affliction|Cleanse Affliction]]
+*   **Cantrip** [[Daze|Daze]]
+*   **1st** [[3-Rules/Character Building/Spells/B/Bane|Bane]], [[Ill Omen|Ill Omen]]
+*   **2nd** [[Blood Vendetta|Blood Vendetta]], [[Warrior's Regret|Warrior's Regret]]
+*   **3rd** [[Claim Curse|Claim Curse]], [[Cup of Dust|Cup of Dust]]
+*   **4th** [[Outcast's Curse|Outcast's Curse]], [[Cleanse Affliction|Cleanse Affliction]], [[Warrior's Regret|Warrior's Regret]]
+*   **5th** [[Inevitable Disaster|Inevitable Disaster]], [[Mariner's Curse|Mariner's Curse]]
+*   **6th** [[Blinding Fury|Blinding Fury]], [[Never Mind|Never Mind]], [[Cleanse Affliction|Cleanse Affliction]]
 
 * * *
 

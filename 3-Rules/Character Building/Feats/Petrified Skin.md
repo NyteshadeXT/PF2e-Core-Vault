@@ -11,7 +11,7 @@ license: OGL
 ---
 # Petrified Skin
 ## Feat 12
-### [rare](rare "Rare Rarity Trait")[[aftermath]]
+### [rare](rare.md "Rare Rarity Trait")[[aftermath]]
 
 **Category** class; 
 

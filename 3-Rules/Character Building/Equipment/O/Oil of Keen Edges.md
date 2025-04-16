@@ -14,7 +14,7 @@ license: ORC
 ---
 # Oil of Keen Edges
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[oil]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[oil]]
 
 **Category** oil; 
 **Price** 250 gp; 

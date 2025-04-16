@@ -13,7 +13,7 @@ license: OGL
 ---
 # Mattock of the Titans
 ## Item 19
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fatal-d12]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[fatal-d12]][[magical]]
 
 |  |  |
 | -- | -- |
@@ -34,7 +34,7 @@ While you're wielding the mattock of the titans, you gain a +3 item bonus to Ath
 
 * * *
 
-**Effect** You dig furiously with the mattock to non-magically replicate the effects of an [[Spells/Earthquake|Earthquake]] spell.
+**Effect** You dig furiously with the mattock to non-magically replicate the effects of an [[Earthquake|Earthquake]] spell.
 
 * * *
 

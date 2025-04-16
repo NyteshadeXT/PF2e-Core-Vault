@@ -84,7 +84,7 @@ creatures:
 
 
 
-Spellskeins created during [[Spells/Fortifying Brew|Fortifying Brew]] rituals have a teapot form and can use the two-action activity serve tea while in that form.
+Spellskeins created during [[Fortifying Brew|Fortifying Brew]] rituals have a teapot form and can use the two-action activity serve tea while in that form.
 
 * * *
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Hammer Gun
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[fatal-d10]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[combination]][[concussive]][[fatal-d10]]
 
 |  |  |
 | -- | -- |

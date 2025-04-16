@@ -27,7 +27,7 @@ This charm, a dragon-shaped pendant worn like a necklace or set into armor or cl
 
 * * *
 
-**Effect** The _dragon's eye charm_ manifests fire for you to wield against your foe. You cast a 5th-rank [[Spells/Produce Flame|Produce Flame]] spell with a spell attack roll of +13.
+**Effect** The _dragon's eye charm_ manifests fire for you to wield against your foe. You cast a 5th-rank [[Produce Flame|Produce Flame]] spell with a spell attack roll of +13.
 
 * * *
 

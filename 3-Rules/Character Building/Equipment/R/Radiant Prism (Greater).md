@@ -27,7 +27,7 @@ Any armor or weapon this glass prism is affixed to glows softly with shifting co
 
 * * *
 
-**Effect** You cast [[Spells/Light|Light]].
+**Effect** You cast [[3-Rules/Character Building/Spells/L/Light|Light]].
 
 **Activate** Cast a Spell
 
@@ -35,7 +35,7 @@ Any armor or weapon this glass prism is affixed to glows softly with shifting co
 
 * * *
 
-**Effect** You cast [[Spells/Prismatic Armor|Prismatic Armor]].
+**Effect** You cast [[Prismatic Armor|Prismatic Armor]].
 
 **Activate** Cast a Spell
 
@@ -43,7 +43,7 @@ Any armor or weapon this glass prism is affixed to glows softly with shifting co
 
 * * *
 
-**Effect** You cast [[Spells/Prismatic Wall|Prismatic Wall]].
+**Effect** You cast [[Prismatic Wall|Prismatic Wall]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

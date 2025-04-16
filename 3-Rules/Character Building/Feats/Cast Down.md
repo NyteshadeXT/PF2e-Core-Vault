@@ -22,7 +22,7 @@ license: ORC
 
 **Prerequisites** harmful font or healing font
 * * *
-The sheer force of your faith can bring a foe crashing down. If the next action you use is to cast [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]] to damage one creature, the target is knocked [[Conditions/Prone|Prone]] if it takes any damage from the spell. If the target critically fails its save against the spell, it also takes a –10-foot status penalty to its Speed for 1 minute.
+The sheer force of your faith can bring a foe crashing down. If the next action you use is to cast [[Harm|Harm]] or [[Heal|Heal]] to damage one creature, the target is knocked [[Conditions/Prone|Prone]] if it takes any damage from the spell. If the target critically fails its save against the spell, it also takes a –10-foot status penalty to its Speed for 1 minute.
 
 [[Feat_Feature Effects/Effect_ Cast Down|Effect: Cast Down]]
 

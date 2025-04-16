@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Your shapeshifting grants you a magical connection to the animal world. You can cast [[Spells/Animal Messenger|Animal Messenger]], [[Spells/Calm|Calm]] (animals only), and [[Spells/Speak with Animals|Speak with Animals]] as 2nd-rank primal innate spells once per day each. These spells use your class DC or spell DC, whichever is higher.
+Your shapeshifting grants you a magical connection to the animal world. You can cast [[Animal Messenger|Animal Messenger]], [[Calm|Calm]] (animals only), and [[Speak with Animals|Speak with Animals]] as 2nd-rank primal innate spells once per day each. These spells use your class DC or spell DC, whichever is higher.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

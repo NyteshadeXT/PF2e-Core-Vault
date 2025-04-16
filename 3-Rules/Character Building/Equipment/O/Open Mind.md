@@ -12,7 +12,7 @@ license: OGL
 ---
 # Open Mind
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[tattoo]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]][[tattoo]]
 
 
 **Price** 900 gp; 
@@ -27,7 +27,7 @@ Abraxas teaches knowledge is the only power that matters. This tattoo of a styli
 
 * * *
 
-**Effect** Abraxas opens your inner eye; you gain the effects of [[Spells/Hypercognition|Hypercognition]].
+**Effect** Abraxas opens your inner eye; you gain the effects of [[Hypercognition|Hypercognition]].
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

@@ -22,7 +22,7 @@ license: OGL
 
 **Activate** Cast a Spell
 
-This catalyst is made from twisted sapling bark harvested under a full moon. When used to cast a [[Spells/Charm|Charm]] spell, the enchantment creates a blissful experience for all targets of the charm spell, up to 10. When the spell ends, even if you Dismiss it, the sudden mental dissonance between the charmed state and reality forces the target to attempt a Will check save against your spell DC.
+This catalyst is made from twisted sapling bark harvested under a full moon. When used to cast a [[Charm|Charm]] spell, the enchantment creates a blissful experience for all targets of the charm spell, up to 10. When the spell ends, even if you Dismiss it, the sudden mental dissonance between the charmed state and reality forces the target to attempt a Will check save against your spell DC.
 
 * * *
 

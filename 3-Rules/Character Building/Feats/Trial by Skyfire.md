@@ -15,7 +15,7 @@ license: ORC
 ---
 # Trial by Skyfire `pf2:1`
 ## Feat 10
-### [[cursebound]][[divine]][[3-Rules/trait_reference/fire]][[oracle]]
+### [[cursebound]][[divine]][[3-Rules/trait_reference/F/fire]][[oracle]]
 
 **Category** class; 
 

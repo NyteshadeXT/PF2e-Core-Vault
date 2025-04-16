@@ -11,7 +11,7 @@ license: OGL
 ---
 # Pathfinder's Coin
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[magical]]
 
 
 **Price** 30 gp; 

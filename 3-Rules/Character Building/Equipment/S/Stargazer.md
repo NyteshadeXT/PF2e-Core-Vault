@@ -15,7 +15,7 @@ license: OGL
 ---
 # Stargazer
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[scrying]][[thrown-10]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[3-Rules/trait_reference/S/scrying]][[thrown-10]]
 
 |  |  |
 | -- | -- |

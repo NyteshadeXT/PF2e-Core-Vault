@@ -10,7 +10,7 @@ license: OGL
 ---
 # Quill of Passage
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 1200 gp; 
@@ -27,7 +27,7 @@ This black-feathered quill has a glowing nib with a small amount of glowing ink 
 
 * * *
 
-**Effect** Placing the tip of the quill against a wall of wood, plaster, or stone and speaking a command word causes the ink to flow from the nib onto the wall in the shape of a glowing doorway, casting [[Spells/Magic Passage|Magic Passage]] on the touched surface.
+**Effect** Placing the tip of the quill against a wall of wood, plaster, or stone and speaking a command word causes the ink to flow from the nib onto the wall in the shape of a glowing doorway, casting [[Magic Passage|Magic Passage]] on the touched surface.
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

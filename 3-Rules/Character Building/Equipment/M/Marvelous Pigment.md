@@ -12,7 +12,7 @@ license: OGL
 ---
 # Marvelous Pigment
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]]
 
 **Category** other; 
 **Price** 325 gp; 

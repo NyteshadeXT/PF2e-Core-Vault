@@ -12,7 +12,7 @@ license: ORC
 ---
 # Elysian Clairglass
 ## Item 17
-### [rare](rare.md "Rare Rarity Trait")[[magical|Magical]][[3-Rules/trait_reference/scrying]]
+### [rare](rare.md "Rare Rarity Trait")[[magical|Magical]][[3-Rules/Trait Reference/S/scrying]]
 
 
 **Price** 14000 gp; 
@@ -35,7 +35,7 @@ Used by soldiers who battle on the borderlands of Elysium, particularly in Gorum
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Pinpoint|Pinpoint]].
+**Effect** You cast [[Pinpoint|Pinpoint]].
 
 *Source: Pathfinder Adventure: Prey for Death*
 *ORC*

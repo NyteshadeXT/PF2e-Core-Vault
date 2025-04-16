@@ -17,7 +17,7 @@ license: OGL
 ---
 # Rope Dart
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[finesse]][[sweep]][[tethered]][[thrown-20]][[trip]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/D/disarm]][[finesse]][[sweep]][[tethered]][[thrown-20]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

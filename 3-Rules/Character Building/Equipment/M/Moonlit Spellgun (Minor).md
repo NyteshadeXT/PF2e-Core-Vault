@@ -16,7 +16,7 @@ license: OGL
 ---
 # Moonlit Spellgun (Minor)
 ## Item 2
-### [[attack]][[consumable]][[3-Rules/trait_reference/fire]][[3-Rules/trait_reference/light]][[magical]][[spellgun]]
+### [[attack]][[consumable]][[3-Rules/Trait Reference/F/fire]][[3-Rules/Trait Reference/L/light]][[magical]][[spellgun]]
 
 **Category** other; 
 **Price** 7 gp; 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Sickle
 ## Item 0
-### [[agile]][[finesse]][[trip]]
+### [[agile]][[finesse]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

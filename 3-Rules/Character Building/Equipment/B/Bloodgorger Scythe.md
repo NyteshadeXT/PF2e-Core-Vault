@@ -15,7 +15,7 @@ license: ORC
 ---
 # Bloodgorger Scythe
 ## Item 7
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d10]][[magical|Magical]][[3-Rules/trait_reference/trip|Trip]] 
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d10]][[magical|Magical]][[3-Rules/Trait Reference/T/trip|Trip]] 
 
 |  |  |
 | -- | -- |

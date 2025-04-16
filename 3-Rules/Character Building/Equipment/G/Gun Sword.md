@@ -14,7 +14,7 @@ license: OGL
 ---
 # Gun Sword
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[kickback]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[combination]][[concussive]][[kickback]]
 
 |  |  |
 | -- | -- |

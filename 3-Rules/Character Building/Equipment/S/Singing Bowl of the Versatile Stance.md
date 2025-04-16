@@ -10,7 +10,7 @@ license: OGL
 ---
 # Singing Bowl of the Versatile Stance
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 1175 gp; 

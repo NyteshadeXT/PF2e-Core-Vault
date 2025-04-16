@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Aerial Form|Aerial Form]]
+Granted by [[Aerial Form|Aerial Form]]
 
 You harness your mastery of primal forces to reshape your body into a Medium flying animal battle form. When you cast this spell, choose bat, bird, pterosaur, or wasp. You can decide the specific type of animal (such as an owl or eagle for bird), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait. You can Dismiss the spell.
 

@@ -30,7 +30,7 @@ Identical feathers radiate from the center of this spellheart, held in place by 
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Gale Blast|Gale Blast]].
+**Effect** You cast [[Gale Blast|Gale Blast]].
 
 * * *
 
@@ -38,7 +38,7 @@ Identical feathers radiate from the center of this spellheart, held in place by 
 
 **Frequency** once per day
 
-**Effect** You cast 4th rank [[Spells/Wall of Wind|Wall of Wind]].
+**Effect** You cast 4th rank [[Wall of Wind|Wall of Wind]].
 
 * * *
 
@@ -46,7 +46,7 @@ Identical feathers radiate from the center of this spellheart, held in place by 
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Air Walk|Air Walk]].
+**Effect** You cast [[Air Walk|Air Walk]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

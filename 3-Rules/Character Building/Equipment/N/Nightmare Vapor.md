@@ -14,7 +14,7 @@ license: OGL
 ---
 # Nightmare Vapor
 ## Item 16
-### [[alchemical]][[consumable]][[inhaled]][[3-Rules/trait_reference/poison]]
+### [[alchemical]][[consumable]][[inhaled]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 1400 gp; 

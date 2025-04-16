@@ -11,7 +11,7 @@ license: OGL
 ---
 # Mindsponge
 ## Item 9
-### [unique](unique "Unique Rarity Trait")[[3-Rules/trait_reference/mental]][[occult]]
+### [unique](unique.md "Unique Rarity Trait")[[3-Rules/Trait Reference/M/mental]][[occult]]
 
 
 **Price** 700 gp; 
@@ -22,7 +22,7 @@ A _mindsponge_ appears as a misshapen gray sponge that unsettlingly resembles a 
 
 **Activate** `pf2:2` envision, Interact
 
-**Effect** The _mindsponge_ casts [[Spells/Rewrite Memory|Rewrite Memory]], but only to erase a memory—a _mindsponge_ can't enhance memory clarity, alter memories, or add false memories.
+**Effect** The _mindsponge_ casts [[Rewrite Memory|Rewrite Memory]], but only to erase a memory—a _mindsponge_ can't enhance memory clarity, alter memories, or add false memories.
 
 * * *
 

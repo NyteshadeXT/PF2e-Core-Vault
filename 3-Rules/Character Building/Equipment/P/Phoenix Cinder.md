@@ -13,7 +13,7 @@ license: OGL
 ---
 # Phoenix Cinder
 ## Item 16
-### [rare](rare "Rare Rarity Trait")[[consumable]][[3-Rules/trait_reference/fire]][[primal]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[3-Rules/Trait Reference/F/fire]][[primal]]
 
 **Category** other; 
 **Price** 0 gp; 

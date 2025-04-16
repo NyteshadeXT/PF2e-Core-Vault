@@ -11,7 +11,7 @@ license: OGL
 ---
 # Spectacles of Understanding
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 130 gp; 
@@ -28,7 +28,7 @@ These folding, wood-framed spectacles hold flat discs of cut crystal as lenses a
 
 * * *
 
-**Effect** Unfolding the spectacles onto the bridge of the nose, you gain the effects of 2nd-rank [[Spells/Translate|Translate]] for one hour except that it applies to all languages you see rather than a single language, and it does not apply to language you hear.
+**Effect** Unfolding the spectacles onto the bridge of the nose, you gain the effects of 2nd-rank [[Translate|Translate]] for one hour except that it applies to all languages you see rather than a single language, and it does not apply to language you hear.
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

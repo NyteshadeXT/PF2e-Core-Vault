@@ -14,7 +14,7 @@ license: OGL
 ---
 # Green Dragon's Breath Potion (Wyrm)
 ## Item 17
-### [[consumable]][[magical]][[3-Rules/trait_reference/poison]][[potion]]
+### [[consumable]][[magical]][[3-Rules/Trait Reference/P/poison]][[potion]]
 
 **Category** poison; 
 **Price** 3000 gp; 

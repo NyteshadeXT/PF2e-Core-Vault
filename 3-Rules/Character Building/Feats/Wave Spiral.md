@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wave Spiral `pf2:2`
 ## Feat 12
-### [[monk]][[3-Rules/trait_reference/water]]
+### [[monk]][[3-Rules/trait_reference/W/water]]
 
 **Category** class; 
 

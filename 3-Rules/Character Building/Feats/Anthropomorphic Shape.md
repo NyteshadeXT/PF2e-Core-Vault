@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Untamed Form
 * * *
-Humanoids' supposed place apart from animals is folly—taking on their forms just requires some extra practice. You add the shapes listed in [[Spells/Humanoid Form|Humanoid Form]] to your [[Spells/Untamed Form|Untamed Form]] list.
+Humanoids' supposed place apart from animals is folly—taking on their forms just requires some extra practice. You add the shapes listed in [[Humanoid Form|Humanoid Form]] to your [[3-Rules/Character Building/Spells/U/Untamed Form|Untamed Form]] list.
 
 *Source: Pathfinder Player Core*
 *ORC*

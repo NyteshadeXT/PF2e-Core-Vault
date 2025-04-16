@@ -14,7 +14,7 @@ license: OGL
 ---
 # Mad Mammoth's Juke
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]][[talisman]][[teleportation]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[magical]][[talisman]][[teleportation]]
 
 **Category** talisman; 
 **Price** 30 gp; 

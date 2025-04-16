@@ -13,7 +13,7 @@ license: OGL
 ---
 # Oil of Corpse Restoration
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[oil]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[oil]]
 
 **Category** oil; 
 **Price** 150 gp; 

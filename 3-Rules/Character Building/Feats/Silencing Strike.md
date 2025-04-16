@@ -14,7 +14,7 @@ license: ORC
 ---
 # Silencing Strike `pf2:1`
 ## Feat 10
-### [[barbarian]][[incapacitation]][[rage]]
+### [[barbarian]][[incapacitation]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

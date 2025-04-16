@@ -10,7 +10,7 @@ license: OGL
 ---
 # Soft-Landing
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 60 gp; 
@@ -29,7 +29,7 @@ This item creates a small cushion of air that catches you when you fall. You tre
 
 * * *
 
-**Effect** You gain the effects of [[Spells/Gentle Landing|Gentle Landing]] for 1 minute or until you stop falling, whichever comes first.
+**Effect** You gain the effects of [[Gentle Landing|Gentle Landing]] for 1 minute or until you stop falling, whichever comes first.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Beastmaster Dedication
 * * *
-You imbue your companion with the aspect of another animal. You gain the [[Spells/Spirit of the Beast|Spirit of the Beast]] focus spell.
+You imbue your companion with the aspect of another animal. You gain the [[3-Rules/Character Building/Spells/S/Spirit of the Beast|Spirit of the Beast]] focus spell.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

@@ -22,7 +22,7 @@ license: ORC
 * * *
 Your devotion to your mount manifests as a surge of vitality energy.
 
-When you cast [[Spells/Lay on Hands|Lay on Hands]] on your mount, you can restore 10 Hit Points, plus 10 for each heightened level.
+When you cast [[Lay on Hands|Lay on Hands]] on your mount, you can restore 10 Hit Points, plus 10 for each heightened level.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

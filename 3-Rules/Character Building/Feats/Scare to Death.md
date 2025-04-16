@@ -16,7 +16,7 @@ license: ORC
 ---
 # Scare to Death `pf2:1`
 ## Feat 15
-### [[emotion]][[fear]][[general]][[incapacitation]][[skill]]
+### [[emotion]][[3-Rules/trait_reference/F/fear]][[general]][[incapacitation]][[skill]]
 
 **Category** skill; 
 

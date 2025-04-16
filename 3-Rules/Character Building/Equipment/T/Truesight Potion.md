@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-Upon drinking this clear, refreshing potion, you can see things as they actually are. You gain the benefits of a 7th-rank [[Spells/Truesight|Truesight]] spell that has a counteract modifier of 1d20+25.
+Upon drinking this clear, refreshing potion, you can see things as they actually are. You gain the benefits of a 7th-rank [[Truesight|Truesight]] spell that has a counteract modifier of 1d20+25.
 
 *Source: Pathfinder GM Core*
 *ORC*

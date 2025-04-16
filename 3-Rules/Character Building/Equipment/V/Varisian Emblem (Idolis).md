@@ -29,7 +29,7 @@ Each description lists the school of each Varisian emblem, and the tattoo has th
 
 * * *
 
-**Effect** The tattoo casts [[Spells/Thoughtful Gift|Thoughtful Gift]].
+**Effect** The tattoo casts [[Thoughtful Gift|Thoughtful Gift]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

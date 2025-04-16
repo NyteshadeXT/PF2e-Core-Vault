@@ -16,7 +16,7 @@ license: OGL
 ---
 # Sonic Tuning Mace (Greater)
 ## Item 13
-### [[agile]][[finesse]][[magical]][[shove]][[3-Rules/trait_reference/sonic]]
+### [[agile]][[finesse]][[magical]][[3-Rules/Trait Reference/S/shove]][[3-Rules/Trait Reference/S/sonic]]
 
 |  |  |
 | -- | -- |
@@ -37,7 +37,7 @@ This _+2 greater striking thundering light mace_ has twin tips, perfectly spaced
 
 * * *
 
-**Effect** You tap the tuning mace against a nearby surface to cast 6th-rank [[Spells/Noise Blast|Noise Blast]] with a DC of 30.
+**Effect** You tap the tuning mace against a nearby surface to cast 6th-rank [[Noise Blast|Noise Blast]] with a DC of 30.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

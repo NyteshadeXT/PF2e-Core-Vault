@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Untamed Form|Untamed Form]]
+Granted by [[3-Rules/Character Building/Spells/U/Untamed Form|Untamed Form]]
 
 You reach within for a different part of yourself, and you set it free, transforming your body into another form. You can polymorph into any form listed in _pest form_, which lasts 10 minutes. All other _untamed form_ shapes last 1 minute. You can add more shapes to your _untamed form_ list with druid feats; your feat might grant you some or all of the shapes from a given polymorph spell.
 

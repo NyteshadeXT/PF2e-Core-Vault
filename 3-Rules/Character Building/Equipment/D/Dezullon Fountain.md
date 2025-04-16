@@ -16,7 +16,7 @@ license: OGL
 ---
 # Dezullon Fountain
 ## Item 11
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/acid|Acid]] [[3-Rules/Rule References/Agile]][[magical|Magical]][[3-Rules/trait_reference/plant]][[repeating]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/A/acid|Acid]] [[3-Rules/Rule References/Agile]][[magical|Magical]][[plant]][[repeating]]
 
 |  |  |
 | -- | -- |

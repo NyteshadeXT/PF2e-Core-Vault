@@ -11,7 +11,7 @@ license: OGL
 ---
 # Sunflower Censer
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[illusion]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[illusion]][[magical]]
 
 
 **Price** 480 gp; 
@@ -26,7 +26,7 @@ This gold-and-ivory incense burner always emits a pleasant, floral-scented smoke
 
 * * *
 
-**Effect** Smoke bellows from the censer with the effects of an [[Spells/Mist|Mist]] centered on you.
+**Effect** Smoke bellows from the censer with the effects of an [[Mist|Mist]] centered on you.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Swampcall|Swampcall]]
+Granted by [[Swampcall|Swampcall]]
 
 The creature takes a circumstance penalty to its Speeds (except for its swim Speed, if any) and becomes off-guard.
 

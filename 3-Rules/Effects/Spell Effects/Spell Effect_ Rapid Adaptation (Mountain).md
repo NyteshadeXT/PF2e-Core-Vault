@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Rapid Adaptation|Rapid Adaptation]]
+Granted by [[Rapid Adaptation|Rapid Adaptation]]
 
 The target isn't [[Conditions/Off-Guard|Off-Guard]] when Climbing, and when it rolls a success on an Acrobatics check to Balance on rubble, it gets a critical success instead.
 

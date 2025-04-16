@@ -13,7 +13,7 @@ license: OGL
 ---
 # Oil of Swiftness
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[oil]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[oil]]
 
 **Category** oil; 
 **Price** 50 gp; 

@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You have an uncanny knack of communicating with other elves without speaking, though this habit that is often uncomfortable to observers. You can cast [[Spells/Mindlink|Mindlink]] as an innate occult spell once per day, but you can target only other elves or half-elves.
+You have an uncanny knack of communicating with other elves without speaking, though this habit that is often uncomfortable to observers. You can cast [[Mindlink|Mindlink]] as an innate occult spell once per day, but you can target only other elves or half-elves.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

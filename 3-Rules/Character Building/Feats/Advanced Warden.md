@@ -22,13 +22,13 @@ license: ORC
 * * *
 You unlock more powerful primal spells. You gain your choice of one warden spell from the advanced warden spells.
 
-[[Spells/Animal Feature|Animal Feature]]
+[[Animal Feature|Animal Feature]]
 
-[[Spells/Enlarge Companion|Enlarge Companion]]
+[[3-Rules/Character Building/Spells/E/Enlarge Companion|Enlarge Companion]]
 
-[[Spells/Hunter's Luck|Hunter's Luck]]
+[[Hunter's Luck|Hunter's Luck]]
 
-[[Spells/Soothing Mist|Soothing Mist]]
+[[Soothing Mist|Soothing Mist]]
 
 * * *
 

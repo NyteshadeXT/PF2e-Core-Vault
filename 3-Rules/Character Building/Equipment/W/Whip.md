@@ -17,7 +17,7 @@ license: ORC
 ---
 # Whip
 ## Item 0
-### [[disarm]][[finesse]][[nonlethal]][[reach]][[trip]]
+### [[3-Rules/trait_reference/D/disarm]][[finesse]][[nonlethal]][[reach]][[3-Rules/trait_reference/T/trip]]
 
 |  |  |
 | -- | -- |

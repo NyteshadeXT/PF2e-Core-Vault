@@ -25,7 +25,7 @@ license: OGL
 
 **Activate** `pf2:1` envision
 
-This shimmering, golden-hued ammunition never makes any sound. A creature hit by a silencing shot is subject to the effects of a 4th-rank [[Spells/Silence|Silence]] spell (DC 25).
+This shimmering, golden-hued ammunition never makes any sound. A creature hit by a silencing shot is subject to the effects of a 4th-rank [[Silence|Silence]] spell (DC 25).
 
 **Craft Requirements** Supply one casting of _silence_ at 4th rank.
 

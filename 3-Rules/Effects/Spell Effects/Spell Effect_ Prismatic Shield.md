@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Prismatic Shield|Prismatic Shield]]
+Granted by [[Prismatic Shield|Prismatic Shield]]
 
 *Source: Pathfinder #162: Ruins of the Radiant Siege*
 *OGL*

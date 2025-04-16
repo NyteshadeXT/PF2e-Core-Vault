@@ -34,7 +34,7 @@ _The Winged Serpent_ represents the wisdom of knowing when to act. As long as yo
 
 * * *
 
-**Effect** You swipe _The Winged Serpent_ across your eyes to gain insight on when to strike. You cast [[Spells/Foresight|Foresight]] on yourself, but the duration is only 10 minutes. If you're at least 17th level, the duration extends to 1 hour and you can cast _foresight_ on another creature by touch. The level of this spell is one-half your level rounded down (minimum 9th).
+**Effect** You swipe _The Winged Serpent_ across your eyes to gain insight on when to strike. You cast [[3-Rules/Character Building/Spells/F/Foresight|Foresight]] on yourself, but the duration is only 10 minutes. If you're at least 17th level, the duration extends to 1 hour and you can cast _foresight_ on another creature by touch. The level of this spell is one-half your level rounded down (minimum 9th).
 
 *Source: Pathfinder #192: Worst of All Possible Worlds*
 *OGL*

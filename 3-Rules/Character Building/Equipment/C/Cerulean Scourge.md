@@ -15,7 +15,7 @@ license: ORC
 ---
 # Cerulean Scourge
 ## Item 16
-### [[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison|Poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/Trait Reference/P/poison|Poison]]
 
 **Category** poison; 
 **Price** 1450 gp; 

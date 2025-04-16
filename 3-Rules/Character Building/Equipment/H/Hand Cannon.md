@@ -12,7 +12,7 @@ license: OGL
 ---
 # Hand Cannon
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[modular]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[modular]]
 
 |  |  |
 | -- | -- |

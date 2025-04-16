@@ -11,7 +11,7 @@ license: OGL
 ---
 # Shadow Manse
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[structure]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[structure]]
 
 
 **Price** 1550 gp; 

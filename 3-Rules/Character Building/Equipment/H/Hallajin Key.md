@@ -11,7 +11,7 @@ license: OGL
 ---
 # Hallajin Key
 ## Item 7
-### [unique](unique "Unique Rarity Trait")[[intelligent]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[intelligent]][[magical]]
 
 
 **Price** 0 gp; 

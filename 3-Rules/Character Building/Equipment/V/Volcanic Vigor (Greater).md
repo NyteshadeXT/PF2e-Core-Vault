@@ -13,7 +13,7 @@ license: OGL
 ---
 # Volcanic Vigor (Greater)
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/fire]][[invested]][[magical]][[tattoo]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/F/fire]][[invested]][[magical]][[tattoo]]
 
 
 **Price** 6000 gp; 

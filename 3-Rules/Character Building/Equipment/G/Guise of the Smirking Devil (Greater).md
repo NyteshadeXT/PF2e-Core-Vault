@@ -29,7 +29,7 @@ This ice-blue half-mask is adorned with a wicked silver grin that covers the wea
 
 * * *
 
-**Effect** The mask casts a 9th-rank [[Spells/Wails of the Damned|Wails of the Damned]]
+**Effect** The mask casts a 9th-rank [[Wails of the Damned|Wails of the Damned]]
 
 Each living creature in a @Template\[emanation|distance:40\] takes 8d10 void damage and must attempt a DC 41 Fortitude check save.
 

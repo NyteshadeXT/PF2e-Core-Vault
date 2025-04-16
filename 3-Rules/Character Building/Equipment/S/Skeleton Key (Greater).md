@@ -30,7 +30,7 @@ If the _skeleton key_ becomes broken due to a critical failure on the check, it 
 
 * * *
 
-**Effect** The key casts [[Spells/Knock|Knock]] on the lock you're trying to pick.
+**Effect** The key casts [[Knock|Knock]] on the lock you're trying to pick.
 
 *Source: Pathfinder GM Core*
 *ORC*

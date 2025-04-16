@@ -14,7 +14,7 @@ license: OGL
 ---
 # Invigorating Soap
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[healing]][[processed]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[healing]][[processed]]
 
 **Category** other; 
 **Price** 28 gp; 

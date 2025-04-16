@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You have reconfigured the magical resonance of your core to attune to the planar energies of Axis. You can cast [[Spells/Interplanar Teleport|Interplanar Teleport]] twice per week as an arcane innate spell that can only target yourself; you can travel only to Axis or the Material Plane, and your body serves as the focus component.
+You have reconfigured the magical resonance of your core to attune to the planar energies of Axis. You can cast [[Interplanar Teleport|Interplanar Teleport]] twice per week as an arcane innate spell that can only target yourself; you can travel only to Axis or the Material Plane, and your body serves as the focus component.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

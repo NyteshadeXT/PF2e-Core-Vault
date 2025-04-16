@@ -27,7 +27,7 @@ Though creating demiplanes usually requires lengthy rituals, you know how to est
 
 **Gravitational Morass** The pull of gravity is amplified here, creating greater difficult terrain. Flying creatures that pass through the area must succeed at a Reflex save against your spell DC or fall to the ground, taking bludgeoning damage equal to half the distance fallen.
 
-**Flowing Time** Erratic timestreams aid you within this space. A creature that starts its turn in the burst is affected by [[Spells/Haste|Haste]] on that turn.
+**Flowing Time** Erratic timestreams aid you within this space. A creature that starts its turn in the burst is affected by [[Haste|Haste]] on that turn.
 
 *Source: Pathfinder #168: King of the Mountain*
 *OGL*

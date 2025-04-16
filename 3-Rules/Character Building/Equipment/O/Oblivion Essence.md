@@ -14,7 +14,7 @@ license: OGL
 ---
 # Oblivion Essence
 ## Item 19
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[injury]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 6500 gp; 

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Spell Trickster Dedication; ability to cast floating disk
 * * *
-When you cast [[Spells/Carryall|Floating Disk]], you can modify its duration to be sustained, up to 10 minutes. If you do, add the following heightened entry to its effects.
+When you cast [[Carryall|Floating Disk]], you can modify its duration to be sustained, up to 10 minutes. If you do, add the following heightened entry to its effects.
 
 * * *
 

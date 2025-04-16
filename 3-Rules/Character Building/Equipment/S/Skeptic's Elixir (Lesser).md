@@ -13,7 +13,7 @@ license: OGL
 ---
 # Skeptic's Elixir (Lesser)
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]]
 
 **Category** elixir; 
 **Price** 4 gp; 

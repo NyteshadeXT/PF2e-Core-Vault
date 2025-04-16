@@ -35,10 +35,10 @@ A staff of water is most often made of driftwood, sometimes lacquered blue. Carv
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Spout|Spout]]
-*   **1st** [[Spells/Create Water|Create Water]], [[Spells/Hydraulic Push|Hydraulic Push]]
-*   **2nd** [[Spells/Quench|Quench]], [[Spells/Water Walk|Water Walk]]
-*   **3rd** [[Spells/Aqueous Orb|Aqueous Orb]], [[Spells/Wall of Water|Wall of Water]]
+*   **Cantrip** [[Spout|Spout]]
+*   **1st** [[Create Water|Create Water]], [[Hydraulic Push|Hydraulic Push]]
+*   **2nd** [[Quench|Quench]], [[Water Walk|Water Walk]]
+*   **3rd** [[Aqueous Orb|Aqueous Orb]], [[Wall of Water|Wall of Water]]
 
 * * *
 

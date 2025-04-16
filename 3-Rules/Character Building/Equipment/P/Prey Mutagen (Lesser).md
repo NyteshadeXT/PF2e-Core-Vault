@@ -15,7 +15,7 @@ license: OGL
 ---
 # Prey Mutagen (Lesser)
 ## Item 1
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[elixir]][[mutagen]][[polymorph]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[elixir]][[mutagen]][[polymorph]]
 
 **Category** mutagen; 
 **Price** 4 gp; 

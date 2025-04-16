@@ -10,7 +10,7 @@ license: OGL
 ---
 # Giant-Killing
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 
 **Price** 450 gp; 

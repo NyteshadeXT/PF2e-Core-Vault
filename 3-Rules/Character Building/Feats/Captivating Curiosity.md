@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You can snare the attentions of onlookers with your unique appearance. You can cast [[Spells/Enthrall|Enthrall]] as a 3rd-rank occult innate spell once per day.
+You can snare the attentions of onlookers with your unique appearance. You can cast [[Enthrall|Enthrall]] as a 3rd-rank occult innate spell once per day.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

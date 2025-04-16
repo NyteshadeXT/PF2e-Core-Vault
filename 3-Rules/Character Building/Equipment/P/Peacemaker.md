@@ -28,7 +28,7 @@ license: OGL
 
 * * *
 
-This ragged piece of white cloth is wrapped around the grip, stock, or haft of the affixed weapon. When you activate the talisman, you gain the effects of a [[Spells/Sanctuary|Sanctuary]] spell (DC 20) lasting for 1 minute. If you draw the affixed firearm, the effect ends immediately and the talisman crumbles.
+This ragged piece of white cloth is wrapped around the grip, stock, or haft of the affixed weapon. When you activate the talisman, you gain the effects of a [[Sanctuary|Sanctuary]] spell (DC 20) lasting for 1 minute. If you draw the affixed firearm, the effect ends immediately and the talisman crumbles.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

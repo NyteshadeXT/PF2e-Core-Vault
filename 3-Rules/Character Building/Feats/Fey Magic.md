@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You can use faerie magic to hide yourself and expose hidden foes. You can cast [[Spells/Faerie Fire|Faerie Fire]] and [[Spells/Invisibility|Invisibility]] each once per day as primal innate spells.
+You can use faerie magic to hide yourself and expose hidden foes. You can cast [[Faerie Fire|Faerie Fire]] and [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] each once per day as primal innate spells.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

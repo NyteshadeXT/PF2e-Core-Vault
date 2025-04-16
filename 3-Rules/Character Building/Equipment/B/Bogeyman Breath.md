@@ -17,7 +17,7 @@ license: ORC
 ---
 # Bogeyman Breath
 ## Item 11
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/trait_reference/fear]][[inhaled]][[3-Rules/Rule References/Mental]][[3-Rules/trait_reference/poison|Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Trait Reference/F/fear]][[inhaled]][[3-Rules/Rule References/Mental]][[3-Rules/Trait Reference/P/poison|Poison]]
 
 **Category** poison; 
 **Price** 360 gp; 

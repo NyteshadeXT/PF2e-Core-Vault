@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Ray of Frost|Ray of Frost]].
+Granted by [[Ray of Frost|Ray of Frost]].
 
 The cold chills your bones, you take a -10-foot status penalty to your Speeds for 1 round.
 

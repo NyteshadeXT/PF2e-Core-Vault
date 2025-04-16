@@ -11,7 +11,7 @@ license: OGL
 ---
 # Steamflight Pack
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[clockwork]][[steam]]
+### [rare](rare.md "Rare Rarity Trait")[[clockwork]][[steam]]
 
 
 **Price** 6000 gp; 

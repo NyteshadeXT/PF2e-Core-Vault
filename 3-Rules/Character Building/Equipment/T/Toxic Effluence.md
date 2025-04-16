@@ -14,7 +14,7 @@ license: OGL
 ---
 # Toxic Effluence
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/trait_reference/poison]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/trait_reference/P/poison]]
 
 **Category** poison; 
 **Price** 160 gp; 

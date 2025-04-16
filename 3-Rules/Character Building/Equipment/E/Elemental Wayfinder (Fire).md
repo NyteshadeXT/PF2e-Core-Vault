@@ -28,7 +28,7 @@ Pathfinder Society researchers recently created elemental wayfinders with the as
 
 * * *
 
-**Effect** The wayfinder can cast 4th-rank [[Spells/Fireball|Fireball]].
+**Effect** The wayfinder can cast 4th-rank [[Fireball|Fireball]].
 
 * * *
 

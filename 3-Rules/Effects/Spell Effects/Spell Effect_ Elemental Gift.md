@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Elemental Gift|Elemental Gift]]
+Granted by [[Elemental Gift|Elemental Gift]]
 
 Choose an element when you Cast the Spell. The target gains the benefit of that element as described below, and this spell gains that trait's element.
 

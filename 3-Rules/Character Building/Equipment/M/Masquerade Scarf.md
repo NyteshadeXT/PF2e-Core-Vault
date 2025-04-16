@@ -28,7 +28,7 @@ This delicately embroidered scarf matches with every outfit and can even complet
 
 * * *
 
-**Effect** You arrange the scarf over your lower face, and it casts a 1st-rank [[Spells/Illusory Disguise|Illusory Disguise]] spell on you, which ends immediately if the scarf is removed. You can alter the scarf's appearance or make it _[[Conditions/Invisible|Invisible]]_ as part of the illusory disguise, but it can still be felt if touched.
+**Effect** You arrange the scarf over your lower face, and it casts a 1st-rank [[Illusory Disguise|Illusory Disguise]] spell on you, which ends immediately if the scarf is removed. You can alter the scarf's appearance or make it _[[Conditions/Invisible|Invisible]]_ as part of the illusory disguise, but it can still be felt if touched.
 
 *Source: Pathfinder GM Core*
 *ORC*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Refracting Rays (7th-level)
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/light]][[magical]][[wand]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/L/light]][[magical]][[wand]]
 
 
 **Price** 6500 gp; 
@@ -27,11 +27,11 @@ This wand is short and wide with a hexagonal, crystal shaft and a leather-wrappe
 
 * * *
 
-**Effect** You cast 7th-rank [[Spells/Chromatic Ray|Chromatic Ray]]. After you cast the spell, if you hit the target, the light refracts to another creature within 30 feet of the first target. Roll your spell attack roll and to determine the ray's color separately for each target. The ray continues to refract each time it hits. The refraction ceases if you miss any target, and you can end the refraction at any point. You can't target the same creature more than once, and you must have line of effect to all targets.
+**Effect** You cast 7th-rank [[Chromatic Ray|Chromatic Ray]]. After you cast the spell, if you hit the target, the light refracts to another creature within 30 feet of the first target. Roll your spell attack roll and to determine the ray's color separately for each target. The ray continues to refract each time it hits. The refraction ceases if you miss any target, and you can end the refraction at any point. You can't target the same creature more than once, and you must have line of effect to all targets.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Chromatic Ray|Chromatic Ray]] of the appropriate rank.
+**Craft Requirements** Supply a casting of [[Chromatic Ray|Chromatic Ray]] of the appropriate rank.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

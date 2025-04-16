@@ -12,7 +12,7 @@ license: OGL
 ---
 # Harpoon Bolt
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]]
 
 **Category** ammo; 
 **Price** 15 gp; 

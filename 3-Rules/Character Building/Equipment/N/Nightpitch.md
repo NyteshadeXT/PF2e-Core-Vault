@@ -22,7 +22,7 @@ license: OGL
 
 **Activate** Cast a Spell
 
-A pellet of tar mixed with the fur of a nocturnal creature, such as a bat, nightpitch used to cast a [[Spells/Darkness|Darkness]] spell makes the area of the darkness difficult terrain.
+A pellet of tar mixed with the fur of a nocturnal creature, such as a bat, nightpitch used to cast a [[3-Rules/Character Building/Spells/D/Darkness|Darkness]] spell makes the area of the darkness difficult terrain.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

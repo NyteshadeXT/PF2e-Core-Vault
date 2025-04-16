@@ -27,7 +27,7 @@ There are various types of _aeon stones_, each with a different appearance and m
 
 * * *
 
-Encouraging the natural growth of life, this green ovoid can often be found surrounded by new seedlings. Its resonant power allows you to cast [[Spells/Tangle Vine|Tangle Vine]] as a primal innate cantrip.
+Encouraging the natural growth of life, this green ovoid can often be found surrounded by new seedlings. Its resonant power allows you to cast [[Tangle Vine|Tangle Vine]] as a primal innate cantrip.
 
 * * *
 

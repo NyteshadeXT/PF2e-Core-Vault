@@ -14,7 +14,7 @@ license: OGL
 ---
 # Wand of Mental Purification (5th-level)
 ## Item 12
-### [[emotion]][[healing]][[magical]][[3-Rules/trait_reference/mental]][[wand]]
+### [[emotion]][[healing]][[magical]][[3-Rules/trait_reference/M/mental]][[wand]]
 
 
 **Price** 3000 gp; 
@@ -29,7 +29,7 @@ Red feathers hang from the handle of this ivory wand. Holding it brings a sense 
 
 * * *
 
-**Effect** You cast 5th-rank [[Spells/Soothe|Soothe]], and can attempt to counteract one mental effect on the same target. Treat the [[Spells/Soothe|Soothe]] spell's rank as 1 higher for this counteract check.
+**Effect** You cast 5th-rank [[Soothe|Soothe]], and can attempt to counteract one mental effect on the same target. Treat the [[Soothe|Soothe]] spell's rank as 1 higher for this counteract check.
 
 * * *
 

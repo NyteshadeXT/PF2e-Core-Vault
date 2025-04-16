@@ -12,7 +12,7 @@ license: OGL
 ---
 # Scarab Cuirass
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 **Category** light; **Group** leather
 **Price** 1000 gp; 
@@ -27,7 +27,7 @@ The cuirass of this _+1 deathless resilient leather armor_, stitched to resemble
 
 * * *
 
-**Effect** You cast a 1st-rank [[Spells/Pest Form|Pest Form]]. You can only become a scarab beetle.
+**Effect** You cast a 1st-rank [[Pest Form|Pest Form]]. You can only become a scarab beetle.
 
 * * *
 

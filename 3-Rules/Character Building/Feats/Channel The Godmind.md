@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-You tap into the Godmind's collective cognitive well, rapidly parsing near-infinite variables to read your surroundings. For 1 minute, you gain precise motion sense out to 60 feet, you can see invisible creatures and objects, and you gain the effects of a 9th-rank [[Spells/Truesight|Truesight]].
+You tap into the Godmind's collective cognitive well, rapidly parsing near-infinite variables to read your surroundings. For 1 minute, you gain precise motion sense out to 60 feet, you can see invisible creatures and objects, and you gain the effects of a 9th-rank [[Truesight|Truesight]].
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

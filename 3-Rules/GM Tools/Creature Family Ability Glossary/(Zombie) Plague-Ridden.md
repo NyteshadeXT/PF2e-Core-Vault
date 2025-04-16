@@ -12,7 +12,7 @@ license: ORC
 ---
 # (Zombie) Plague-Ridden
 
-### [[disease]]
+### [[3-Rules/trait_reference/D/disease]]
 
 **Category** defensive; 
 

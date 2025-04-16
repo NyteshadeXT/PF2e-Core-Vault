@@ -91,7 +91,7 @@ The toy spy is an unassuming yet versatile constructed minion useful in matters 
 
 Parents and guardians sometimes gift their wards toy spies in order to determine when a child breaks a house rule or otherwise makes itself a menace. Other times, a toy spy might serve as a discreet and inexpensive way to protect one's home. Tinkers, inventors, and crafters learned long ago that toy spies make for much more affordable (and much less destructive) watchdogs than larger golems or animated objects.
 
-Toy spies are not designed for combat, though they do possess a few offensive capabilities, which they typically resort to only if attacked or if some other pre-specified condition is met. In addition, each toy spy is keyed to a special stone that allows its owner to identify its location and also order the spy to cast a simple spell such as _[[Spells/Sleep|Sleep]]_. Once it has disabled or distracted a threat, a toy spy typically escapes as quickly as possible to safety.
+Toy spies are not designed for combat, though they do possess a few offensive capabilities, which they typically resort to only if attacked or if some other pre-specified condition is met. In addition, each toy spy is keyed to a special stone that allows its owner to identify its location and also order the spy to cast a simple spell such as _[[3-Rules/Character Building/Spells/S/Sleep|Sleep]]_. Once it has disabled or distracted a threat, a toy spy typically escapes as quickly as possible to safety.
 
 ## Proxy's Proxies
 

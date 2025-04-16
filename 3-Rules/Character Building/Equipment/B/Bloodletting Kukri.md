@@ -16,7 +16,7 @@ license: ORC
 ---
 # Bloodletting Kukri
 ## Item 6
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[magical|Magical]][[3-Rules/trait_reference/trip|Trip]] 
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[magical|Magical]][[3-Rules/Trait Reference/T/trip|Trip]] 
 
 |  |  |
 | -- | -- |

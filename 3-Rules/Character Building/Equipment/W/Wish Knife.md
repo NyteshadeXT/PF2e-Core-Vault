@@ -17,7 +17,7 @@ license: OGL
 ---
 # Wish Knife
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[disarm]][[finesse]][[geniekin]][[resonant]][[versatile-s]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[3-Rules/trait_reference/D/disarm]][[finesse]][[geniekin]][[resonant]][[versatile-s]]
 
 |  |  |
 | -- | -- |

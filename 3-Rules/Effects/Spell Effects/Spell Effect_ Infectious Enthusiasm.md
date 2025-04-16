@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Infectious Enthusiasm|Infectious Enthusiasm]]
+Granted by [[Infectious Enthusiasm|Infectious Enthusiasm]]
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

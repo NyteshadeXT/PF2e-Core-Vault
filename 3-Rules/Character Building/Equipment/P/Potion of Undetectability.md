@@ -28,7 +28,7 @@ license: ORC
 
 Drinking this dull-black liquid makes you undetectable to detection effects.
 
-This grants the same effects as [[Spells/Hidden Mind|Hidden Mind]] but without the bonus against mental effects. You also gain the effects of a 4th-rank [[Spells/Invisibility|Invisibility]] spell, which protects against [[Spells/See the Unseen|See the Unseen]] spells of 8th rank and lower and has a DC of 36 against [[Spells/Truesight|Truesight]].
+This grants the same effects as [[Hidden Mind|Hidden Mind]] but without the bonus against mental effects. You also gain the effects of a 4th-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] spell, which protects against [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]] spells of 8th rank and lower and has a DC of 36 against [[Truesight|Truesight]].
 
 The potion's effects last for 10 minutes.
 

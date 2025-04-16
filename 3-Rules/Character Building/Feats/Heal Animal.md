@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Beastmaster Dedication
 * * *
-You can heal your animal companion's wounds. You can cast [[Spells/Heal Animal|Heal Animal]] as a beastmaster focus spell. Increase the number of Focus Points in your focus pool by 1.
+You can heal your animal companion's wounds. You can cast [[3-Rules/Character Building/Spells/H/Heal Animal|Heal Animal]] as a beastmaster focus spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

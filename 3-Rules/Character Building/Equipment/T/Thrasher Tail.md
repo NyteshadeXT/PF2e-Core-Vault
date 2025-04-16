@@ -12,7 +12,7 @@ license: OGL
 ---
 # Thrasher Tail
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[clockwork]][[kobold]][[mechanical]]
+### [rare](rare.md "Rare Rarity Trait")[[clockwork]][[kobold]][[mechanical]]
 
 
 **Price** 620 gp; 

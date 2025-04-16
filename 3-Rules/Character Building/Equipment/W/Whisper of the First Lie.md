@@ -12,7 +12,7 @@ license: ORC
 ---
 # Whisper of the First Lie
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 60000 gp; 
@@ -29,7 +29,7 @@ Success on this counteract attempt lets you ignore the effect, rather than remov
 
 * * *
 
-**Effect** You unstopper the vial and release the lie, creating the effect of a [[Spells/Fabricated Truth|Fabricated Truth]] (DC 47). The vial is emptied and can never be activated again.
+**Effect** You unstopper the vial and release the lie, creating the effect of a [[Fabricated Truth|Fabricated Truth]] (DC 47). The vial is emptied and can never be activated again.
 
 * * *
 

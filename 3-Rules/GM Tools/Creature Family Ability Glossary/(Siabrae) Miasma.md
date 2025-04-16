@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Siabrae) Miasma
 
-### [[aura]][[disease]][[primal]]
+### [[3-Rules/trait_reference/A/aura]][[3-Rules/trait_reference/D/disease]][[primal]]
 
 **Category** defensive; 
 

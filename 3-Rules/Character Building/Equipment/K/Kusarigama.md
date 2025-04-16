@@ -16,7 +16,7 @@ license: OGL
 ---
 # Kusarigama
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[monk]][[reach]][[trip]][[versatile-b]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/D/disarm]][[monk]][[reach]][[3-Rules/Trait Reference/T/trip]][[versatile-b]]
 
 |  |  |
 | -- | -- |

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Sun Orchid Poultice
 ## Item 18
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** other; 
 **Price** 5000 gp; 

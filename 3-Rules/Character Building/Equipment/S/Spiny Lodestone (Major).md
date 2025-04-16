@@ -33,7 +33,7 @@ This perfectly octahedral magnetite crystal is covered in a hair-like layer of i
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Needle Darts|Needle Darts]]
+**Effect** You cast [[Needle Darts|Needle Darts]]
 
 * * *
 
@@ -41,7 +41,7 @@ This perfectly octahedral magnetite crystal is covered in a hair-like layer of i
 
 **Frequency** once per day
 
-**Effect** You cast 4th-rank [[Spells/Magnetic Acceleration|Magnetic Acceleration]]
+**Effect** You cast 4th-rank [[Magnetic Acceleration|Magnetic Acceleration]]
 
 * * *
 
@@ -49,7 +49,7 @@ This perfectly octahedral magnetite crystal is covered in a hair-like layer of i
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Rust Cloud|Rust Cloud]]
+**Effect** You cast [[Rust Cloud|Rust Cloud]]
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

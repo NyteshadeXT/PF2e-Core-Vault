@@ -12,7 +12,7 @@ license: ORC
 ---
 # Philosopher's Extractor
 ## Item 28
-### [rare](rare "Rare Rarity Trait")[[artifact]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[artifact]][[magical]]
 
 
 **Price** 0 gp; 

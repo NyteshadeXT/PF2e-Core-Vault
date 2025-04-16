@@ -63,7 +63,7 @@ The glaive also has the following activations.
 
 * * *
 
-**Effect** Attempt an Occultism check as if you cast the [[Spells/Collective Memories|Collective Memories]] ritual about a subject. If you roll a success or critical success, you can repeat what the _Whisperer of Souls_ relates to you about the subject. On a critical failure, you and the glaive are drawn into a murmuring void of cold, where your mind is assaulted by strange visions for an entire week. At the end of this time, you reappear and must attempt a DC 50 Will check save.
+**Effect** Attempt an Occultism check as if you cast the [[Collective Memories|Collective Memories]] ritual about a subject. If you roll a success or critical success, you can repeat what the _Whisperer of Souls_ relates to you about the subject. On a critical failure, you and the glaive are drawn into a murmuring void of cold, where your mind is assaulted by strange visions for an entire week. At the end of this time, you reappear and must attempt a DC 50 Will check save.
 
 **Success** When you return, you can retrain one of your skills into a Lore skill about evil creatures or places, as if you had spent 1 week retraining.
 

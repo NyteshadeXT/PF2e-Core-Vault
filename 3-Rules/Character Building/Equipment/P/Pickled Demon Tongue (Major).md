@@ -12,7 +12,7 @@ license: OGL
 ---
 # Pickled Demon Tongue (Major)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/acid]][[divine]][[spellheart]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/A/acid]][[divine]][[spellheart]]
 
 
 **Price** 1750 gp; 
@@ -32,7 +32,7 @@ This small crystal vial contains the forked end of a demon's tongue, preserved i
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Acid Splash|Acid Splash]].
+**Effect** You cast [[Acid Splash|Acid Splash]].
 
 * * *
 
@@ -40,7 +40,7 @@ This small crystal vial contains the forked end of a demon's tongue, preserved i
 
 **Frequency** once per day
 
-**Effect** You cast 4th-rank [[Spells/Acid Arrow|Acid Arrow]].
+**Effect** You cast 4th-rank [[Acid Arrow|Acid Arrow]].
 
 * * *
 
@@ -48,7 +48,7 @@ This small crystal vial contains the forked end of a demon's tongue, preserved i
 
 **Frequency** once per day
 
-**Effect** You cast 4th-rank [[Spells/Acidic Burst|Acidic Burst]] (DC 29 Reflex check).
+**Effect** You cast 4th-rank [[Acidic Burst|Acidic Burst]] (DC 29 Reflex check).
 
 *Source: Pathfinder #188: They Watched the Stars*
 *OGL*

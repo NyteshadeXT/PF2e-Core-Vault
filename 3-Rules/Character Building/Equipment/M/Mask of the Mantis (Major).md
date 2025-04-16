@@ -12,7 +12,7 @@ license: ORC
 ---
 # Mask of the Mantis (Major)
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 19000 gp; 
@@ -31,7 +31,7 @@ While wearing a _mask of the mantis_, you gain a +3 item bonus to Perception che
 
 **Frequency** once per day
 
-**Effect** You cast either a 5th-rank [[Spells/Darkvision|Darkvision]] or [[Spells/See the Unseen|See the Unseen]] on yourself.
+**Effect** You cast either a 5th-rank [[3-Rules/Character Building/Spells/D/Darkvision|Darkvision]] or [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]] on yourself.
 
 * * *
 
@@ -47,7 +47,7 @@ While wearing a _mask of the mantis_, you gain a +3 item bonus to Perception che
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Pinpoint|Pinpoint]]. If the target of this spell is a creature for which you've accepted a contract to assassinate, you are considered to have seen the creature in person for the purposes of _pinpoint's_ requirements.
+**Effect** You cast [[Pinpoint|Pinpoint]]. If the target of this spell is a creature for which you've accepted a contract to assassinate, you are considered to have seen the creature in person for the purposes of _pinpoint's_ requirements.
 
 *Source: Pathfinder Adventure: Prey for Death*
 *ORC*

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Nethysian Bulwark
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 8000 gp; 

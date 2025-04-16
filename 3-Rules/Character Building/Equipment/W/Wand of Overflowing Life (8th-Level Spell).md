@@ -28,7 +28,7 @@ This alabaster wand has a clear crystal at the tip.
 
 * * *
 
-**Effect** You cast [[Spells/Heal|Heal]] at 8th rank.
+**Effect** You cast [[Heal|Heal]] at 8th rank.
 
 After you cast the spell, at the start of your next turn, excess healing magic wells up from the wand and heals you, as though you cast the 1-action version of _heal_ on yourself at 8th-rank. You gain this benefit only once, even if you cast multiple _heal_ spells from _wands of overflowing life_ in the same turn.
 

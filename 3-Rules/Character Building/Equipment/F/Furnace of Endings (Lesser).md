@@ -12,7 +12,7 @@ license: OGL
 ---
 # Furnace of Endings (Lesser)
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/fire]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/F/fire]][[invested]][[magical]]
 
 
 **Price** 35 gp; 

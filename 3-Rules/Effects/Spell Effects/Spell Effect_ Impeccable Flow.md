@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Impeccable Flow|Impeccable Flow]]
+Granted by [[Impeccable Flow|Impeccable Flow]]
 
 You gain a +1 status bonus to Perception checks, saving throws, and skill checks.
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Giant Hunter
 ## Feat 4
-### [rare](rare "Rare Rarity Trait")[[ranger]]
+### [rare](rare.md "Rare Rarity Trait")[[ranger]]
 
 **Category** class; 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Brain Drain `pf2:2`
 ## Feat 8
-### [[3-Rules/trait_reference/mental]][[occult]][[psyche]][[psychic]]
+### [[3-Rules/trait_reference/M/mental]][[occult]][[psyche]][[psychic]]
 
 **Category** class; 
 

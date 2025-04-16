@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You learn the [[Spells/Hymn of Healing|Hymn of Healing]] composition spell, which imbues your music with rich melodies that help your allies recover from harm.
+You learn the [[3-Rules/Character Building/Spells/H/Hymn of Healing|Hymn of Healing]] composition spell, which imbues your music with rich melodies that help your allies recover from harm.
 
 *Source: Pathfinder Player Core*
 *ORC*

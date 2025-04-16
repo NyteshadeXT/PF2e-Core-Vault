@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Claws of the Otter|Claws of the Otter]]
+Granted by [[Claws of the Otter|Claws of the Otter]]
 
 You gain a +1 status bonus to Athletics checks to Swim and you gain a claws unarmed attack. They're an agile, finesse, unarmed attack that deals slashing damage and additional cold damage.
 

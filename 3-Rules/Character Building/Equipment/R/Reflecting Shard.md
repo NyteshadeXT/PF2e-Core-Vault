@@ -13,7 +13,7 @@ license: OGL
 ---
 # Reflecting Shard
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 500 gp; 
@@ -28,7 +28,7 @@ license: OGL
 
 * * *
 
-This mirrored metal fragment is bolted or welded to the face of the affixed shield. When you Activate it, you attempt to reflect the triggering spell back at its caster with [[Spells/Spell Turning|Spell Turning]], using your Athletics modifier for the counteract check. The talisman's counteract rank is 7th.
+This mirrored metal fragment is bolted or welded to the face of the affixed shield. When you Activate it, you attempt to reflect the triggering spell back at its caster with [[Spell Turning|Spell Turning]], using your Athletics modifier for the counteract check. The talisman's counteract rank is 7th.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

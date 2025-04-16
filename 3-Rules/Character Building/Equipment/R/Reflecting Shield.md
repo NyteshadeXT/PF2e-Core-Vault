@@ -11,7 +11,7 @@ license: ORC
 ---
 # Reflecting Shield
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 18000 gp; 

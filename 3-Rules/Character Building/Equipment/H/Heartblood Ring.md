@@ -12,7 +12,7 @@ license: OGL
 ---
 # Heartblood Ring
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[magical]]
 
 **Category** other; 
 **Price** 0 gp; 

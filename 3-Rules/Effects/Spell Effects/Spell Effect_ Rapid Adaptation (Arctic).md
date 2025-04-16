@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Rapid Adaptation|Rapid Adaptation]]
+Granted by [[Rapid Adaptation|Rapid Adaptation]]
 
 The target isn't affected by severe or extreme cold, and when it rolls a success on an Acrobatics check to Balance on ice and snow, it gets a critical success instead.
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Conflagration Club
 ## Item 6
-### [[backswing]][[magical|Magical]][[3-Rules/trait_reference/shove]]
+### [[backswing]][[magical|Magical]][[3-Rules/Trait Reference/S/shove]]
 
 |  |  |
 | -- | -- |

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Gunner's Bandolier
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 60 gp; 

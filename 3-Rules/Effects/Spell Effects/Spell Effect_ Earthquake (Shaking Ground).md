@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Earthquake|Earthquake]]
+Granted by [[Earthquake|Earthquake]]
 
 Creatures on the shaking ground take a -2 circumstance penalty to attack rolls, AC, and skill checks.
 

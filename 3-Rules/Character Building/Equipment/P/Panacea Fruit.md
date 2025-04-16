@@ -13,7 +13,7 @@ license: OGL
 ---
 # Panacea Fruit
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[consumable]][[healing]][[primal]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[healing]][[primal]]
 
 **Category** other; 
 **Price** 8000 gp; 

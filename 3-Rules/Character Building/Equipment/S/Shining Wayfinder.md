@@ -11,7 +11,7 @@ license: OGL
 ---
 # Shining Wayfinder
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 100 gp; 
@@ -26,7 +26,7 @@ A shining wayfinder is a polished silver compass blessed by the power of benevol
 
 * * *
 
-**Effect** You hold the wayfinder and ask for guidance. The wayfinder casts [[Spells/Guidance|Guidance]] on you.
+**Effect** You hold the wayfinder and ask for guidance. The wayfinder casts [[Guidance|Guidance]] on you.
 
 * * *
 
@@ -36,7 +36,7 @@ A shining wayfinder is a polished silver compass blessed by the power of benevol
 
 * * *
 
-**Effect** You call upon the wayfinder's divine blessings for yourself and your allies. The wayfinder casts [[Spells/Bless|Bless]], with an emanation centered on itself. Once per turn, you can use a single action, which has the concentrate trait, to increase the emanation's radius by 5 feet.
+**Effect** You call upon the wayfinder's divine blessings for yourself and your allies. The wayfinder casts [[Bless|Bless]], with an emanation centered on itself. Once per turn, you can use a single action, which has the concentrate trait, to increase the emanation's radius by 5 feet.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

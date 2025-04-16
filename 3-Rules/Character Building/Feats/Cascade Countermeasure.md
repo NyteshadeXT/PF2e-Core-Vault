@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Arcane Cascade; focus pool
 * * *
-When in Arcane Cascade, you can make yourself resistant to magic. You learn the [[Spells/Cascade Countermeasure|Cascade Countermeasure]] conflux spell.
+When in Arcane Cascade, you can make yourself resistant to magic. You learn the [[3-Rules/Character Building/Spells/C/Cascade Countermeasure|Cascade Countermeasure]] conflux spell.
 
 Increase the number of Focus Points in your focus pool by 1.
 

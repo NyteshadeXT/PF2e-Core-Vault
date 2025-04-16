@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Unusual Anatomy|Unusual Anatomy]]
+Granted by [[Unusual Anatomy|Unusual Anatomy]]
 
 You gain resistance to precision damage and resistance to extra damage from critical hits, and you gain darkvision.
 

@@ -25,7 +25,7 @@ Common among brutes who use the magic to scare others into compliance, menacing 
 
 * * *
 
-**Effect** The rune casts a 3rd-rank [[Spells/Fear|Fear]]spell (DC 25).
+**Effect** The rune casts a 3rd-rank [[3-Rules/Character Building/Spells/F/Fear|Fear]]spell (DC 25).
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

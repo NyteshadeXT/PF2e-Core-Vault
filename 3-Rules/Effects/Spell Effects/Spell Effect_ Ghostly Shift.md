@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Ghostly Shift|Ghostly Shift]]
+Granted by [[Ghostly Shift|Ghostly Shift]]
 
 You gain resistance 2 to all damage (except force).
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Revel in Retribution|Revel in Retribution]]
+Granted by [[Revel in Retribution|Revel in Retribution]]
 
 Whenever you successfully hit with a [[Actions/Reactive Strike|Reactive Strike]], you are granted temporary Hit Points.
 

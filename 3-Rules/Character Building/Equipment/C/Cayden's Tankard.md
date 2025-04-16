@@ -50,7 +50,7 @@ This ordinary-looking silver tankard functions as a _+4 major striking hopeful r
 
 * * *
 
-**Effect** You enhance yourself with a shard of Cayden's divine fortune and cast [[Spells/Indestructibility|Indestructibility]].
+**Effect** You enhance yourself with a shard of Cayden's divine fortune and cast [[Indestructibility|Indestructibility]].
 
 **Destruction** If a lawful evil creature carries _Cayden's Tankard_ into the Starstone Cathedral, drinks from it, and returns outside with it, the tankard shatters.
 

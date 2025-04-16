@@ -12,7 +12,7 @@ license: OGL
 ---
 # Reckless Abandon (Barbarian) `pf2:0`
 ## Feat 16
-### [[barbarian]][[rage]]
+### [[barbarian]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

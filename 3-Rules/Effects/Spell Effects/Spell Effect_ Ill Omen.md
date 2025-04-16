@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Ill Omen|Ill Omen]]
+Granted by [[Ill Omen|Ill Omen]]
 
 **Failure** The first time during the duration that the target attempts an attack roll or skill check, it must roll twice and use the worse result.
 

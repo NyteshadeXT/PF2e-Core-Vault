@@ -12,7 +12,7 @@ license: OGL
 ---
 # Runescribed Disk
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 100 gp; 

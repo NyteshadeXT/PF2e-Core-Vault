@@ -12,7 +12,7 @@ license: OGL
 ---
 # Kindled Tome
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[grimoire]][[intelligent]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[grimoire]][[intelligent]][[magical]]
 
 
 **Price** 900 gp; 
@@ -49,7 +49,7 @@ A kindled tome is a _[[Book of Lingering Blaze|Book of Lingering Blaze]]_ awaken
 
 **Frequency** once per day
 
-**Effect** The tome casts [[Spells/Fireball|Fireball]] at 5th rank to your specifications.
+**Effect** The tome casts [[Fireball|Fireball]] at 5th rank to your specifications.
 
 * * *
 

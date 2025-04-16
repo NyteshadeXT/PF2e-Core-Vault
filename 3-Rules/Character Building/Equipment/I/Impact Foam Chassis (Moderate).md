@@ -12,7 +12,7 @@ license: OGL
 ---
 # Impact Foam Chassis (Moderate)
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[gadget]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 15 gp; 

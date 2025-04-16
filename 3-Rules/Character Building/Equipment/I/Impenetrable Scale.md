@@ -13,7 +13,7 @@ license: ORC
 ---
 # Impenetrable Scale
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 **Category** medium; **Group** composite
 **Price** 12800 gp; 

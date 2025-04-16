@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Zombie) Putrid Stench
 
-### [[aura]][[olfactory]]
+### [[3-Rules/trait_reference/A/aura]][[olfactory]]
 
 **Category** defensive; 
 

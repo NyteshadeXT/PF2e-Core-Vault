@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Your ability to heal others is miraculous enough to bring people back from near-death. Once per day, you can cast [[Spells/Breath of Life|Breath of Life]] as an innate primal spell.
+Your ability to heal others is miraculous enough to bring people back from near-death. Once per day, you can cast [[Breath of Life|Breath of Life]] as an innate primal spell.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

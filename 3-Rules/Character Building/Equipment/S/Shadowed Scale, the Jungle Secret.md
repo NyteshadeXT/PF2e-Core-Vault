@@ -13,7 +13,7 @@ license: OGL
 ---
 # Shadowed Scale, the Jungle Secret
 ## Item 22
-### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]][[magical]][[primal]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[invested]][[magical]][[primal]]
 
 
 **Price** 0 gp; 
@@ -30,7 +30,7 @@ This gold-inlaid wooden mask depicts the reptilian visage of a mokele-mbembe, a 
 
 * * *
 
-**Effect** You cause the body to decompose into a pile of fertile soil. The creature's body is completely destroyed at the start of your next turn, and it can only be returned to life with the use of powerful magic such as [[Spells/Miracle|Miracle]] or [[Spells/Wish|Wish]].
+**Effect** You cause the body to decompose into a pile of fertile soil. The creature's body is completely destroyed at the start of your next turn, and it can only be returned to life with the use of powerful magic such as [[Miracle|Miracle]] or [[Wish|Wish]].
 
 * * *
 
@@ -42,7 +42,7 @@ This gold-inlaid wooden mask depicts the reptilian visage of a mokele-mbembe, a 
 
 * * *
 
-**Effect** You pull a seed from the mask and throw it into the soil, where it sprouts. You cast [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]]; the spell is heightened to a level equal to one-half of the slain creature's level, rounded up. When the spell's duration ends, the plant creature returns to the soil, where it roots itself and becomes a non-creature piece of flora.
+**Effect** You pull a seed from the mask and throw it into the soil, where it sprouts. You cast [[Summon Plant or Fungus|Summon Plant or Fungus]]; the spell is heightened to a level equal to one-half of the slain creature's level, rounded up. When the spell's duration ends, the plant creature returns to the soil, where it roots itself and becomes a non-creature piece of flora.
 
 * * *
 

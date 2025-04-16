@@ -32,7 +32,7 @@ If you are evil, you're [[Conditions/Enfeebled|Enfeebled 2]] while wearing the a
 
 * * *
 
-**Effect** The armor casts the three-action version of a 6th-rank [[Spells/Heal|Heal]] spell.
+**Effect** The armor casts the three-action version of a 6th-rank [[Heal|Heal]] spell.
 
 *Source: Pathfinder Lost Omens: Knights of Lastwall*
 *OGL*

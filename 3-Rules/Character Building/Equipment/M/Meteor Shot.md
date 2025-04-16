@@ -15,7 +15,7 @@ license: OGL
 ---
 # Meteor Shot
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/trait_reference/fire]][[magical]][[splash]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Trait Reference/F/fire]][[magical]][[splash]]
 
 **Category** ammo; 
 **Price** 70 gp; 

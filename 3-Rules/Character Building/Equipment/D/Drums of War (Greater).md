@@ -12,7 +12,7 @@ license: OGL
 ---
 # Drums of War (Greater)
 ## Item 8
-### [[coda]][[3-Rules/trait_reference/occult|Occult]][[3-Rules/trait_reference/staff|Staff]]
+### [[coda]][[occult|Occult]][[3-Rules/Trait Reference/S/staff|Staff]]
 
 
 **Price** 460 gp; 
@@ -29,10 +29,10 @@ This handheld snare drum is adorned with garish scenes of battle and triumph. Wh
 
 **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Shield|Shield]]
-*   **1st** [[Spells/Mystic Armor|Mystic Armor]], [[Spells/Force Barrage|Force Barrage]], [[Spells/Sure Strike|Sure Strike]]
-*   **2nd** [[Spells/False Vitality|False Vitality]], [[Spells/Noise Blast|Noise Blast]], [[Spells/Spiritual Weapon|Spiritual Weapon]]
-*   **3rd** [[Spells/Haste|Haste]], [[Spells/Heroism|Heroism]]
+*   **Cantrip** [[Shield|Shield]]
+*   **1st** [[Mystic Armor|Mystic Armor]], [[Force Barrage|Force Barrage]], [[Sure Strike|Sure Strike]]
+*   **2nd** [[False Vitality|False Vitality]], [[Noise Blast|Noise Blast]], [[Spiritual Weapon|Spiritual Weapon]]
+*   **3rd** [[Haste|Haste]], [[Heroism|Heroism]]
 
 * * *
 

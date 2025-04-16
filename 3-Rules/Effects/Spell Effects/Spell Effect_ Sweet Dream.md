@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Sweet Dream|Sweet Dream]]
+Granted by [[Sweet Dream|Sweet Dream]]
 
 *   **Dream of Insight** status bonus to Intelligence-based skill checks
 *   **Dream of Glamor** status bonus to Charisma-based skill checks

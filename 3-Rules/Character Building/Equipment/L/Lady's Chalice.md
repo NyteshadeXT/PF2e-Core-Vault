@@ -10,7 +10,7 @@ license: OGL
 ---
 # Lady's Chalice
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[divine]]
 
 
 **Price** 60 gp; 

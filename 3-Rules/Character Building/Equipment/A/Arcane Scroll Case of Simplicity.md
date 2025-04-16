@@ -28,7 +28,7 @@ The four different types of _scroll cases of simplicity_ often bear adornments a
 
 **Effect** You transfer the scroll's energy into the scroll case, consuming the scroll, and you can immediately begin casting one of the scroll case's spells. If you use any action other than to Cast a Spell from the scroll case after activating the _scroll case of simplicity_, the scroll and its energy are lost.
 
-The scroll case can be used to cast [[Spells/Alarm|Alarm]] or [[Spells/Phantasmal Minion|Phantasmal Minion]]
+The scroll case can be used to cast [[Alarm|Alarm]] or [[3-Rules/Character Building/Spells/P/Phantasmal Minion|Phantasmal Minion]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Magnifying Glass of Elucidation
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 125 gp; 

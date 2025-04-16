@@ -93,7 +93,7 @@ The exact force that animates a living blade differs in every case, though often
 
 ## Other Living Blades
 
-Living blades come in many varieties, not all of which are even blades. Generally, a living blade is a magic melee weapon whose level is equal to its creature level + 2. Its runes can be replaced, but any attempt to remove a rune without replacing it fails. The only way to permanently turn a living blade into a non-cursed weapon is by counteracting it with the _[[Spells/Disjunction|Disjunction]]_ spell.
+Living blades come in many varieties, not all of which are even blades. Generally, a living blade is a magic melee weapon whose level is equal to its creature level + 2. Its runes can be replaced, but any attempt to remove a rune without replacing it fails. The only way to permanently turn a living blade into a non-cursed weapon is by counteracting it with the _[[Disjunction|Disjunction]]_ spell.
 
 ## Monster Part Subsystem
 

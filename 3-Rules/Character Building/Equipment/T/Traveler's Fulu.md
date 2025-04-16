@@ -14,7 +14,7 @@ license: OGL
 ---
 # Traveler's Fulu
 ## Item 2
-### [rare](rare "Rare Rarity Trait")[[consumable]][[fulu]][[magical]][[talisman]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[fulu]][[magical]][[talisman]]
 
 **Category** fulu; 
 **Price** 7 gp; 

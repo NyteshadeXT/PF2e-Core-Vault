@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Ki Strike|Ki Strike]]
+Granted by [[3-Rules/Character Building/Spells/K/Ki Strike|Ki Strike]]
 
 You gain a +1 status bonus to your attack rolls with the Strikes, and the Strikes deal 1d6 extra damage of the chosen type.
 

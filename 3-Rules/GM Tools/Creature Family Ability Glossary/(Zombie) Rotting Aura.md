@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Zombie) Rotting Aura
 
-### [[aura]][[disease]]
+### [[3-Rules/trait_reference/A/aura]][[3-Rules/trait_reference/D/disease]]
 
 **Category** defensive; 
 

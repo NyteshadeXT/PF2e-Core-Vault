@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Swarm Form|Swarm Form]]
+Granted by [[Swarm Form|Swarm Form]]
 
 While in swarm form, you have the swarm trait and you gain resistance to slashing and piercing damage and weakness to area and splash damage.
 

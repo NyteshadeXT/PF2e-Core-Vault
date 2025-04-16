@@ -11,7 +11,7 @@ license: OGL
 ---
 # Smuggler's Sack (Type II)
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[extradimensional]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[extradimensional]][[magical]]
 
 
 **Price** 300 gp; 

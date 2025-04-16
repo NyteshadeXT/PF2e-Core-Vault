@@ -16,7 +16,7 @@ license: OGL
 ---
 # Mummy's Despair `pf2:2`
 ## Feat 6
-### [[archetype]][[aura]][[divine]][[emotion]][[fear]][[3-Rules/trait_reference/mental]]
+### [[archetype]][[3-Rules/trait_reference/A/aura]][[divine]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]]
 
 **Category** class; 
 

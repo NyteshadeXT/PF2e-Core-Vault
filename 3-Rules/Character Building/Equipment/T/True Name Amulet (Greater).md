@@ -11,7 +11,7 @@ license: OGL
 ---
 # True Name Amulet (Greater)
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 5500 gp; 

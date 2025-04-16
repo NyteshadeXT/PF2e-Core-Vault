@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Fleet Step|Fleet Step]]
+Granted by [[Fleet Step|Fleet Step]]
 
 You gain a +30-foot status bonus to your Speed.
 

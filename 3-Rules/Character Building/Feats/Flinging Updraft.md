@@ -15,7 +15,7 @@ license: OGL
 ---
 # Flinging Updraft `pf2:2`
 ## Feat 6
-### [[3-Rules/trait_reference/air]][[impulse]][[kineticist]][[primal]]
+### [[3-Rules/trait_reference/A/air]][[impulse]][[kineticist]][[primal]]
 
 **Category** class; 
 

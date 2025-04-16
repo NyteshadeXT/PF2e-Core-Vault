@@ -12,7 +12,7 @@ license: OGL
 ---
 # Spider Gun (Greater)
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 |  |  |
 | -- | -- |

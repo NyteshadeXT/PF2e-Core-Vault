@@ -10,7 +10,7 @@ license: OGL
 ---
 # Heedless Spurs
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 
 **Price** 5200 gp; 

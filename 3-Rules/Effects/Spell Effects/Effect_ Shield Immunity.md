@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Shield|Shield]]
+Granted by [[Shield|Shield]]
 
 After you use Shield Block, the spell ends and you can't cast it again for 10 minutes.
 

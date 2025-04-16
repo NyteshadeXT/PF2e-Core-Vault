@@ -15,7 +15,7 @@ license: OGL
 ---
 # Dwarven Scattergun
 ## Item 1
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concussive]][[3-Rules/trait_reference/dwarf]][[kickback]][[scatter-10]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concussive]][[dwarf]][[kickback]][[scatter-10]]
 
 |  |  |
 | -- | -- |

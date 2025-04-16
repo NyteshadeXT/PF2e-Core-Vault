@@ -13,7 +13,7 @@ license: ORC
 ---
 # Master Strike `pf2:0`
 
-### [[3-Rules/Rule References/Incapacitation]][[3-Rules/trait_reference/rogue]]
+### [[3-Rules/Rule References/Incapacitation]][[rogue]]
 
 **Category** offensive; 
 

@@ -27,11 +27,11 @@ This extravagant wand is made of gold and capped with a large, sparkling gemston
 
 * * *
 
-**Effect** You cast [[Spells/Pet Cache|Pet Cache]] but the accommodations inside the extradimensional space are luxurious and spacious. The food is delicious gourmet cuisine tailored to the pet's palate, the habitat is the perfect temperature and environment for the pet, complete with comfortable bed or lounging area. A pair of phantom hands pamper the pet, patting, grooming, or playing with it at the creature's whim.
+**Effect** You cast [[Pet Cache|Pet Cache]] but the accommodations inside the extradimensional space are luxurious and spacious. The food is delicious gourmet cuisine tailored to the pet's palate, the habitat is the perfect temperature and environment for the pet, complete with comfortable bed or lounging area. A pair of phantom hands pamper the pet, patting, grooming, or playing with it at the creature's whim.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Pet Cache|Pet Cache]].
+**Craft Requirements** Supply a casting of [[Pet Cache|Pet Cache]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

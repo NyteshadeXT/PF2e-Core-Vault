@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Incendiary Ashes|Incendiary Ashes]]
+Granted by [[Incendiary Ashes|Incendiary Ashes]]
 
 The creature has weakness to fire 3 for 1 minute.
 

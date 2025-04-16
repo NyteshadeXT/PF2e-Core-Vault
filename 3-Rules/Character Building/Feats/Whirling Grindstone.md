@@ -18,7 +18,7 @@ license: OGL
 ---
 # Whirling Grindstone `pf2:2`
 ## Feat 4
-### [[attack]][[composite]][[3-Rules/trait_reference/earth]][[impulse]][[kineticist]][[metal]][[primal]]
+### [[attack]][[composite]][[3-Rules/trait_reference/E/earth]][[impulse]][[kineticist]][[metal]][[primal]]
 
 **Category** class; 
 

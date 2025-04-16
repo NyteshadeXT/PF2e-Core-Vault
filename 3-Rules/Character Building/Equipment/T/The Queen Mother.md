@@ -34,7 +34,7 @@ _The Queen Mother_ is knowledge manifest, but she only shares this knowledge wit
 
 * * *
 
-**Effect** You call upon a loyal subject to aid you by holding The Queen Mother out and asking her to send help. You cast [[Spells/Summon Animal|Summon Animal]] or [[Spells/Summon Construct|Summon Construct]], but with a range of 90 feet. The rank of the spell is one-half your level rounded down.
+**Effect** You call upon a loyal subject to aid you by holding The Queen Mother out and asking her to send help. You cast [[Summon Animal|Summon Animal]] or [[Summon Construct|Summon Construct]], but with a range of 90 feet. The rank of the spell is one-half your level rounded down.
 
 *Source: Pathfinder #192: Worst of All Possible Worlds*
 *OGL*

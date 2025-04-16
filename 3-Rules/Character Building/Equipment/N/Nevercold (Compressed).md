@@ -22,7 +22,7 @@ license: OGL
 
 **Activate** Cast a Spell (add 1 action)
 
-Nevercold, sometimes mistakenly referred to as nevercoal, is the charcoal left after wildfires in the First World. True to its name, nevercold remains warm to the touch. If you use nevercold to cast [[Spells/Fire Shield|Fire Shield]], the spell's duration increases by 1 minute, the cold resistance you gain from it lasts 1 hour, and you're protected from the effects of severe cold for 8 hours.
+Nevercold, sometimes mistakenly referred to as nevercoal, is the charcoal left after wildfires in the First World. True to its name, nevercold remains warm to the touch. If you use nevercold to cast [[Fire Shield|Fire Shield]], the spell's duration increases by 1 minute, the cold resistance you gain from it lasts 1 hour, and you're protected from the effects of severe cold for 8 hours.
 
 The catalyst affects 6th-rank or lower _fire shield_, and the protection from severe cold lasts 24 hours.
 

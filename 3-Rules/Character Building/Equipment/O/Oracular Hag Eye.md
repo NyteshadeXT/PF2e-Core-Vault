@@ -12,7 +12,7 @@ license: OGL
 ---
 # Oracular Hag Eye
 ## Item 4
-### [rare](rare "Rare Rarity Trait")[[invested]][[occult]][[scrying]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[occult]][[3-Rules/Trait Reference/S/scrying]]
 
 
 **Price** 75 gp; 
@@ -25,7 +25,7 @@ The hag eye produces no direct benefit for the wearer, but allows the hag who cr
 
 Any damage dealt to the eye destroys it. If this happens while a hag is looking through it, the hag is [[Conditions/Blinded|Blinded]] for 1 hour.
 
-Oracular hag eyes are made with the eye of a cyclops. A hag who casts [[Spells/Augury|Augury]] with an oracular hag eye in her possession reduces the DC of the secret flat check to 2.
+Oracular hag eyes are made with the eye of a cyclops. A hag who casts [[Augury|Augury]] with an oracular hag eye in her possession reduces the DC of the secret flat check to 2.
 
 * * *
 

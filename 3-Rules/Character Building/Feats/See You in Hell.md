@@ -11,7 +11,7 @@ license: OGL
 ---
 # See You in Hell `pf2:r`
 ## Feat 17
-### [rare](rare "Rare Rarity Trait")[[reincarnated]]
+### [rare](rare.md "Rare Rarity Trait")[[reincarnated]]
 
 **Category** ancestry; 
 

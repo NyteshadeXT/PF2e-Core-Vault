@@ -12,14 +12,14 @@ license: OGL
 ---
 # Emerald Fulcrum Lens
 ## Item 10
-### [unique](unique.md "Unique Rarity Trait")[[invested]][[3-Rules/trait_reference/occult|Occult]][[void]]
+### [unique](unique.md "Unique Rarity Trait")[[invested]][[occult|Occult]][[void]]
 
 
 **Price** 1000 gp; 
 **Bulk** 3; **Size** med
 **Usage** held-in-one-hand
 
-This concave green lens is pitted and flawed; its jagged edges can cut those who don't handle it with care. While you have the _Emerald Fulcrum Lens_ invested, your flesh appears waxen and pallid. You gain void healing and [[Spells/Harm|Harm]] spells gain a +4 status bonus to the Hit Points they restore to you. You can also activate the lens in the following ways.
+This concave green lens is pitted and flawed; its jagged edges can cut those who don't handle it with care. While you have the _Emerald Fulcrum Lens_ invested, your flesh appears waxen and pallid. You gain void healing and [[Harm|Harm]] spells gain a +4 status bonus to the Hit Points they restore to you. You can also activate the lens in the following ways.
 
 [[Equipment Effects/Effect_ Emerald Fulcrum Lens|Effect: Emerald Fulcrum Lens]]
 

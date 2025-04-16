@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Using your ancestors' bones, you manifest their spirits around you in a fossilized form, terrifying your foes. You can cast [[Spells/Mask of Terror|Mask of Terror]] on yourself as a primal innate spell once per day. When you do, you appear as a skeletal lizardfolk ancestor, twisted in a way that inspires the deepest fears of those who observe you.
+Using your ancestors' bones, you manifest their spirits around you in a fossilized form, terrifying your foes. You can cast [[Mask of Terror|Mask of Terror]] on yourself as a primal innate spell once per day. When you do, you appear as a skeletal lizardfolk ancestor, twisted in a way that inspires the deepest fears of those who observe you.
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

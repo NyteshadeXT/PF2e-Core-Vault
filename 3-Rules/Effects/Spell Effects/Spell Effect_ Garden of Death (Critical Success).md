@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Garden of Death|Garden of Death]]
+Granted by [[Garden of Death|Garden of Death]]
 
 A poisonous garden forms, and you and the secondary casters gain a +2 circumstance bonus to Nature or Crafting checks to deal with the plants or animals, such as feeding them or harvesting poison from them.
 

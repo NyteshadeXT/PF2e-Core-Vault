@@ -15,7 +15,7 @@ license: OGL
 ---
 # Sparking Spellgun (Moderate)
 ## Item 9
-### [[attack]][[consumable]][[3-Rules/trait_reference/fire]][[magical]][[spellgun]]
+### [[attack]][[consumable]][[3-Rules/Trait Reference/F/fire]][[magical]][[spellgun]]
 
 **Category** other; 
 **Price** 150 gp; 

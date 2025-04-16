@@ -16,7 +16,7 @@ license: ORC
 ---
 # Cythbikian Staff
 ## Item 15
-### [unique](unique.md "Unique Rarity Trait")[[fungus]][[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
+### [unique](unique.md "Unique Rarity Trait")[[fungus]][[magical|Magical]][[3-Rules/Trait Reference/S/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -45,13 +45,13 @@ When you invest this staff, a thin layer of fungi grows on your hands, remaining
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Timber|Timber]]
-*   **1st** [[Spells/Wall of Shrubs|Wall of Shrubs]], [[Spells/Wooden Fists|Wooden Fists]]
-*   **2nd** [[Spells/Oaken Resilience|Oaken Resilience]], [[Spells/Splinter Volley|Splinter Volley]]
-*   **3rd** [[Spells/Sudden Blight|Sudden Blight]], [[Spells/Wall of Thorns|Wall of Thorns]]
-*   **4th** [[Spells/Murderous Vine|Murderous Vine]], [[Spells/Fungal Infestation|Fungal Infestation]]
-*   **5th** [[Spells/Life-Draining Roots|Life-Draining Roots]], [[Spells/Plant Form|Plant Form]]
-*   **6th** [[Spells/Lignify|Lignify]], [[Spells/Tangling Creepers|Tangling Creepers]]
+*   **Cantrip** [[Timber|Timber]]
+*   **1st** [[Wall of Shrubs|Wall of Shrubs]], [[Wooden Fists|Wooden Fists]]
+*   **2nd** [[Oaken Resilience|Oaken Resilience]], [[Splinter Volley|Splinter Volley]]
+*   **3rd** [[Sudden Blight|Sudden Blight]], [[Wall of Thorns|Wall of Thorns]]
+*   **4th** [[Murderous Vine|Murderous Vine]], [[Fungal Infestation|Fungal Infestation]]
+*   **5th** [[Life-Draining Roots|Life-Draining Roots]], [[Plant Form|Plant Form]]
+*   **6th** [[Lignify|Lignify]], [[Tangling Creepers|Tangling Creepers]]
 
 *Source: Pathfinder #202: Severed at the Root*
 *ORC*

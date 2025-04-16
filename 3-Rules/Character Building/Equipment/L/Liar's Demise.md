@@ -15,7 +15,7 @@ license: OGL
 ---
 # Liar's Demise
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[divine]][[3-Rules/trait_reference/poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[divine]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 650 gp; 
@@ -40,7 +40,7 @@ This thick green cream quickly seeps into victim's skin. In addition to causing 
 
 * * *
 
-**Craft Requirements** Supply one casting of [[Spells/Ring of Truth|Ring of Truth]].
+**Craft Requirements** Supply one casting of [[3-Rules/Character Building/Spells/R/Ring of Truth|Ring of Truth]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

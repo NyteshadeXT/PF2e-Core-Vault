@@ -12,7 +12,7 @@ license: OGL
 ---
 # Warding Statuette (Greater)
 ## Item 13
-### [[3-Rules/trait_reference/force]][[magical]][[spellheart]]
+### [[3-Rules/trait_reference/F/force]][[magical]][[spellheart]]
 
 
 **Price** 2600 gp; 
@@ -32,7 +32,7 @@ This small figurine is carved from soapstone in the shape of a deity or guardian
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Shield|Shield]].
+**Effect** You cast [[Shield|Shield]].
 
 * * *
 
@@ -40,7 +40,7 @@ This small figurine is carved from soapstone in the shape of a deity or guardian
 
 **Frequency** once per day
 
-**Effect** You cast 5th-rank [[Spells/Spiritual Weapon|Spiritual Weapon]].
+**Effect** You cast 5th-rank [[Spiritual Weapon|Spiritual Weapon]].
 
 * * *
 
@@ -48,7 +48,7 @@ This small figurine is carved from soapstone in the shape of a deity or guardian
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Spiritual Guardian|Spiritual Guardian]].
+**Effect** You cast [[Spiritual Guardian|Spiritual Guardian]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -11,7 +11,7 @@ aliases: ["Boiling Oil Chute"]
 ---
 
 # Boiling Oil *Hazard  4*  
-[environmental](3-rules/trait_reference/environmental.md "Environmental Hazard Trait") [Fire](3-rules/trait_reference/fire.md "Fire Item Trait") [mechanical](3-rules/trait_reference/mechanical.md "Mechanical Item Trait")  [trap](3-rules/trait_reference/trap.md "Trap Hazard Trait")  
+[environmental](environmental.md "Environmental Hazard Trait") [Fire](3-Rules/trait_reference/F/fire.md "Fire Item Trait") [mechanical](mechanical.md "Mechanical Item Trait")  [trap](trap.md "Trap Hazard Trait")  
 
 **Stealth** DC 22 (Trained)  
 **Description** When triggered boiling oil is released from the chute above scalding anyone caught in the area.

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wand of the Snowfields (7th-Rank Spell)
 ## Item 18
-### [[3-Rules/trait_reference/cold]][[magical]][[wand]]
+### [[3-Rules/trait_reference/C/cold]][[magical]][[wand]]
 
 
 **Price** 24000 gp; 
@@ -28,7 +28,7 @@ This wand is a slender length of ice-blue glass.
 
 **Frequency** once per day, plus overcharge
 
-**Effect** You cast [[Spells/Howling Blizzard|Howling Blizzard]] at 7th-rank. Snow lingers in the spell's area, remaining as difficult terrain for 1 minute.
+**Effect** You cast [[Howling Blizzard|Howling Blizzard]] at 7th-rank. Snow lingers in the spell's area, remaining as difficult terrain for 1 minute.
 
 * * *
 

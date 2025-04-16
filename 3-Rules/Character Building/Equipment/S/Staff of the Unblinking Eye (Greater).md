@@ -34,11 +34,11 @@ The stone head piece of this smooth wooden staff is carved to look like a lidles
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Detect Magic|Detect Magic]]
-*   **1st** [[Spells/Sure Strike|Sure Strike]]
-*   **2nd** [[Spells/Darkvision|Darkvision]], [[Spells/See the Unseen|See the Unseen]], [[Spells/Translate|Translate]]
-*   **3rd** [[Spells/Darkvision|Darkvision]], [[Spells/Mind Reading|Mind Reading]]
-*   **4th** [[Spells/Clairvoyance|Clairvoyance]], [[Spells/Detect Scrying|Detect Scrying]], [[Spells/Telepathy|Telepathy]]
+*   **Cantrip** [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]]
+*   **1st** [[Sure Strike|Sure Strike]]
+*   **2nd** [[3-Rules/Character Building/Spells/D/Darkvision|Darkvision]], [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]], [[Translate|Translate]]
+*   **3rd** [[3-Rules/Character Building/Spells/D/Darkvision|Darkvision]], [[Mind Reading|Mind Reading]]
+*   **4th** [[Clairvoyance|Clairvoyance]], [[Detect Scrying|Detect Scrying]], [[3-Rules/Character Building/Spells/T/Telepathy|Telepathy]]
 
 **Craft Requirements** Supply one casting of all listed ranks of all listed spells.
 

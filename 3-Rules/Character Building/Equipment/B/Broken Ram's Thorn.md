@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-The thorny growths on a rosethorn ram's horns break off into jagged pieces when these animals fight. When used to enhance the two-action version of a [[Spells/Howling Blizzard|Howling Blizzard]] spell, these thorns cause the squares directly adjacent to every creature within the spell's area of effect to become littered with icy caltrops. The first creature that moves into each affected square must succeed at an Acrobatics check check with a DC equal to spell's save DC or take an amount of cold damage equal to the spell's rank. When a creature takes damage from the icy caltrops, enough are damaged that other creatures moving into that square are safe.
+The thorny growths on a rosethorn ram's horns break off into jagged pieces when these animals fight. When used to enhance the two-action version of a [[Howling Blizzard|Howling Blizzard]] spell, these thorns cause the squares directly adjacent to every creature within the spell's area of effect to become littered with icy caltrops. The first creature that moves into each affected square must succeed at an Acrobatics check check with a DC equal to spell's save DC or take an amount of cold damage equal to the spell's rank. When a creature takes damage from the icy caltrops, enough are damaged that other creatures moving into that square are safe.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

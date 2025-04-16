@@ -17,7 +17,7 @@ license: OGL
 ---
 # Water Bomb (Moderate)
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[nonlethal]][[splash]][[3-Rules/trait_reference/water]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[nonlethal]][[splash]][[3-Rules/trait_reference/W/water]]
 
 |  |  |
 | -- | -- |

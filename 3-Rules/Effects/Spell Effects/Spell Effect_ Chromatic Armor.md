@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Chromatic Armor|Chromatic Armor]]
+Granted by [[Chromatic Armor|Chromatic Armor]]
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

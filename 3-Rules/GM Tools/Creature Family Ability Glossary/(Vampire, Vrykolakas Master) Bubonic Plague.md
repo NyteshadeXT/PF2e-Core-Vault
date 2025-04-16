@@ -10,7 +10,7 @@ license: OGL
 ---
 # (Vampire, Vrykolakas Master) Bubonic Plague
 
-### [[disease]]
+### [[3-Rules/trait_reference/D/disease]]
 
 
 

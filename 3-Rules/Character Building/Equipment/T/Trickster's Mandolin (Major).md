@@ -38,12 +38,12 @@ Sought after by many unscrupulous bards, this instrument is surprisingly light a
 
 **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Prestidigitation|Prestidigitation]]
-*   **1st** [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Item Facade|Item Facade]], [[Spells/Ventriloquism|Ventriloquism]]
-*   **2nd** [[Spells/Illusory Creature|Illusory Creature]], [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Invisibility|Invisibility]], [[Spells/Mirror Image|Mirror Image]]
-*   **3rd** [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Phantom Prison|Phantom Prison]], [[Spells/Sculpt Sound|Sculpt Sound]]
-*   **4th** [[Spells/Confusion|Confusion]], [[Spells/Invisibility|Invisibility]], [[Spells/Illusory Disguise|Illusory Disguise]]
-*   **5th** [[Spells/Hallucination|Hallucination]], [[Spells/Illusory Scene|Illusory Scene]], [[Spells/Illusory Disguise|Illusory Disguise]]
+*   **Cantrip** [[Prestidigitation|Prestidigitation]]
+*   **1st** [[Illusory Disguise|Illusory Disguise]], [[Item Facade|Item Facade]], [[Ventriloquism|Ventriloquism]]
+*   **2nd** [[Illusory Creature|Illusory Creature]], [[Illusory Disguise|Illusory Disguise]], [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]], [[Mirror Image|Mirror Image]]
+*   **3rd** [[Illusory Disguise|Illusory Disguise]], [[Phantom Prison|Phantom Prison]], [[Sculpt Sound|Sculpt Sound]]
+*   **4th** [[Confusion|Confusion]], [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]], [[Illusory Disguise|Illusory Disguise]]
+*   **5th** [[Hallucination|Hallucination]], [[Illusory Scene|Illusory Scene]], [[Illusory Disguise|Illusory Disguise]]
 
 * * *
 

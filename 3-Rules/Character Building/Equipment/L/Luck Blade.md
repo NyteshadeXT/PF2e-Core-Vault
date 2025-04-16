@@ -17,7 +17,7 @@ license: OGL
 ---
 # Luck Blade
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[agile]][[divine]][[finesse]][[fortune]][[magical]][[versatile-s]]
+### [rare](rare.md "Rare Rarity Trait")[[agile]][[divine]][[finesse]][[fortune]][[magical]][[versatile-s]]
 
 |  |  |
 | -- | -- |

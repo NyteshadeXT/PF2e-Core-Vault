@@ -16,7 +16,7 @@ license: ORC
 ---
 # Gladiator's Roar `pf2:2`
 ## Feat 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[emotion]][[fear]][[3-Rules/trait_reference/mental]][[3-Rules/trait_reference/sonic]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[3-Rules/trait_reference/S/sonic]]
 
 **Category** class; 
 

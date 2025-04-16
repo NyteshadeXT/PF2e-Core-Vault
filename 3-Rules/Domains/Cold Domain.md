@@ -10,6 +10,6 @@ tags:
 # Cold Domain
 **Deities** [[Deities/Alglenweis|Alglenweis]], [[Deities/Gozreh|Gozreh]], [[Deities/Hshurha|Hshurha]], [[Deities/Kostchtchie|Kostchtchie]], [[Deities/Pulura|Pulura]], [[Deities/Uvuko|Uvuko]], [[Deities/Yamatsumi|Yamatsumi]]
 
-**Domain Spell** [[Spells/Winter Bolt|Winter Bolt]]; **Advanced Domain Spell** [[Spells/Diamond Dust|Diamond Dust]]
+**Domain Spell** [[Winter Bolt|Winter Bolt]]; **Advanced Domain Spell** [[Diamond Dust|Diamond Dust]]
 
 You control ice, snow, and freezing temperatures.

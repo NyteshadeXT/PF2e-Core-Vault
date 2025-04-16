@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-The energy that flows in your blood can save a life in the direst of times. You prevent the creature from dying and restore 6d8 + your Constitution modifier Hit Points to it. You can't use Cantorian Restoration if the triggering effect was a death effect or an effect that leaves no remains, such as [[Spells/Disintegrate|Disintegrate]].
+The energy that flows in your blood can save a life in the direst of times. You prevent the creature from dying and restore 6d8 + your Constitution modifier Hit Points to it. You can't use Cantorian Restoration if the triggering effect was a death effect or an effect that leaves no remains, such as [[Disintegrate|Disintegrate]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

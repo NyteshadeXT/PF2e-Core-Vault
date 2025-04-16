@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Resist Energy|Resist Energy]]
+Granted by [[Resist Energy|Resist Energy]]
 
 A shield of elemental energy protects a creature against one type of energy damage. Choose acid, cold, electricity, fire, or sonic damage. The target and its gear gain resistance 5 against the damage type you chose.
 

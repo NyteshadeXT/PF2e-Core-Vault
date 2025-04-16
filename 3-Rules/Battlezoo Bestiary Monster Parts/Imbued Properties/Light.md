@@ -26,16 +26,16 @@ MAGICAL
 
 **Path** Magic; Choose when you first imbue the weapon for the granted spells to be either arcane or divine.
 
-*   **2nd** The weapon can cast _[[Spells/Light|light]]_ as a cantrip, heightened to half the item's level rounded up.
+*   **2nd** The weapon can cast _[[3-Rules/Character Building/Spells/L/Light|light]]_ as a cantrip, heightened to half the item's level rounded up.
 *   **4th** Strikes with the weapon deal 1 additional fire damage as the light warms from within; this additional damage has the light trait.
-*   **6th** The weapon can cast _[[Spells/Faerie Fire|faerie fire]]_ once per day.
-*   **8th** The weapon can cast _[[Spells/Holy Light|searing light]]_ once per day.
+*   **6th** The weapon can cast _[[Faerie Fire|faerie fire]]_ once per day.
+*   **8th** The weapon can cast _[[3-Rules/Character Building/Spells/H/Holy Light|searing light]]_ once per day.
 *   **10th** The weapon's _searing light_ heightens to 4th level.
-*   **12th** The weapon's faerie fire heightens to 4th level, and it can cast _[[Spells/Chromatic Ray|chromatic ray]]_ once per day.
+*   **12th** The weapon's faerie fire heightens to 4th level, and it can cast _[[Chromatic Ray|chromatic ray]]_ once per day.
 *   **14th** The fire damage increases to 1d4.
 *   **16th** The weapon's _chromatic ray_, _faerie fire_, and _searing light_ heighten to 6th level.
 *   **18th** The fire damage increases to 1d6.
-*   **20th** The weapon can cast 9th-level _[[Spells/Sunburst|sunburst]]_ once per day.
+*   **20th** The weapon can cast 9th-level _[[Sunburst|sunburst]]_ once per day.
 
 * * *
 

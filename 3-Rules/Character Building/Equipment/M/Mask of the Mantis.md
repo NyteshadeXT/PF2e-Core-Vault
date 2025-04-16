@@ -12,7 +12,7 @@ license: ORC
 ---
 # Mask of the Mantis
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 150 gp; 
@@ -31,7 +31,7 @@ While wearing a _mask of the mantis_, you gain a +1 item bonus to Perception che
 
 **Frequency** once per day
 
-**Effect** You cast either [[Spells/Darkvision|Darkvision]] or [[Spells/See the Unseen|See the Unseen]] on yourself.
+**Effect** You cast either [[3-Rules/Character Building/Spells/D/Darkvision|Darkvision]] or [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]] on yourself.
 
 * * *
 

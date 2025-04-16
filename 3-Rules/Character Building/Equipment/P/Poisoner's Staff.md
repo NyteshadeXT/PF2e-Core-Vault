@@ -14,7 +14,7 @@ license: OGL
 ---
 # Poisoner's Staff
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -37,8 +37,8 @@ This gnarled staff is covered with thorns and coated with a glistening lacquer t
 
 * * *
 
-*   **Cantrips** [[Spells/Guidance|Guidance]]
-*   **1st** [[Spells/Detect Poison|Detect Poison]], [[Spells/Spider Sting|Spider Sting]]
+*   **Cantrips** [[Guidance|Guidance]]
+*   **1st** [[Detect Poison|Detect Poison]], [[Spider Sting|Spider Sting]]
 
 * * *
 

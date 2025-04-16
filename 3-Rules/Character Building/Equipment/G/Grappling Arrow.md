@@ -10,7 +10,7 @@ license: OGL
 ---
 # Grappling Arrow
 
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 **Category** ammo; 
 **Price** 2 sp; 

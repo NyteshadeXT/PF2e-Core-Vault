@@ -13,7 +13,7 @@ license: OGL
 ---
 # Share Senses `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]][[3-Rules/trait_reference/scrying]][[summoner]]
+### [[3-Rules/Rule References/Concentrate]][[3-Rules/Trait Reference/S/scrying]][[summoner]]
 
 **Category** interaction; 
 

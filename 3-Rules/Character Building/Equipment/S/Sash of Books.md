@@ -12,7 +12,7 @@ license: OGL
 ---
 # Sash of Books
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[apex]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[apex]][[invested]][[magical]]
 
 
 **Price** 15000 gp; 
@@ -33,7 +33,7 @@ This elegant black sash features stylized crimson books embroidered at either en
 
 **Frequency** once per day
 
-**Effect** You become keenly aware of your surroundings and become able to anticipate dangers. You gain the effects of [[Spells/Foresight|Foresight]].
+**Effect** You become keenly aware of your surroundings and become able to anticipate dangers. You gain the effects of [[3-Rules/Character Building/Spells/F/Foresight|Foresight]].
 
 *Source: Pathfinder #192: Worst of All Possible Worlds*
 *OGL*

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Remorhaz Armor
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/fire]][[invested]][[laminar]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/F/fire]][[invested]][[laminar]][[magical]]
 
 **Category** medium; **Group** skeletal
 **Price** 975 gp; 
@@ -27,7 +27,7 @@ This _+1 resilient fire-resistant niyaháat_ is often created to mark the passag
 
 **Frequency** once per day
 
-**Effect** The armor is sheathed in a [[Spells/Fire Shield|Fire Shield]].
+**Effect** The armor is sheathed in a [[Fire Shield|Fire Shield]].
 
 * * *
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Sentinel Horn
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[auditory]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[auditory]][[magical]]
 
 
 **Price** 250 gp; 

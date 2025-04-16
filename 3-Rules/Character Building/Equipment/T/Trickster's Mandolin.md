@@ -38,8 +38,8 @@ Sought after by many unscrupulous bards, this instrument is surprisingly light a
 
 **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Prestidigitation|Prestidigitation]]
-*   **1st** [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Item Facade|Item Facade]], [[Spells/Ventriloquism|Ventriloquism]]
+*   **Cantrip** [[Prestidigitation|Prestidigitation]]
+*   **1st** [[Illusory Disguise|Illusory Disguise]], [[Item Facade|Item Facade]], [[Ventriloquism|Ventriloquism]]
 
 * * *
 

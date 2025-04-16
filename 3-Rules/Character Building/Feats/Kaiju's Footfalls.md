@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** mightyfall kobold heritage
 * * *
-You channel the might and mass of a kaiju. You can cast [[Spells/Enlarge|Enlarge]] as an innate primal spell twice per day, targeting yourself. The first time each turn you [[Actions/High Jump|High Jump]], [[Actions/Leap|Leap]], or [[Actions/Long Jump|Long Jump]] while affected by this spell, creatures of your size or smaller adjacent to where you land must attempt a Reflex check save against your class DC or spell DC, whichever is higher.
+You channel the might and mass of a kaiju. You can cast [[Enlarge|Enlarge]] as an innate primal spell twice per day, targeting yourself. The first time each turn you [[Actions/High Jump|High Jump]], [[Actions/Leap|Leap]], or [[Actions/Long Jump|Long Jump]] while affected by this spell, creatures of your size or smaller adjacent to where you land must attempt a Reflex check save against your class DC or spell DC, whichever is higher.
 
 * * *
 

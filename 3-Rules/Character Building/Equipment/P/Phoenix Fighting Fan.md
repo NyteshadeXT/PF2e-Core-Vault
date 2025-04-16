@@ -18,7 +18,7 @@ license: OGL
 ---
 # Phoenix Fighting Fan
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[agile]][[artifact]][[backstabber]][[deadly-d6]][[finesse]][[magical]][[monk]]
+### [rare](rare.md "Rare Rarity Trait")[[agile]][[artifact]][[backstabber]][[deadly-d6]][[finesse]][[magical]][[monk]]
 
 |  |  |
 | -- | -- |
@@ -41,7 +41,7 @@ This elegant +3 greater striking flaming silver fighting fan features sharp silv
 
 * * *
 
-**Effect** You call upon the fan's extradimensional powers to trap a creature in Hao Jin's repository, a small demiplane that holds the countless relics Hao Jin collected over her lifetime (though a trapped creature cannot interact with any of these relics). The fighting fan casts [[Spells/Quandary|Quandary]] on a creature within 30 feet. The fan automatically Sustains the Spell as long as you Strike a creature with it each round. The DC 34 Survival check or DC 34 Perception check DC to escape the demiplane is 34. The spell ends once the creature escapes, you fail to Strike a creature with the fan during a round, or after 1 minute, whichever comes first.
+**Effect** You call upon the fan's extradimensional powers to trap a creature in Hao Jin's repository, a small demiplane that holds the countless relics Hao Jin collected over her lifetime (though a trapped creature cannot interact with any of these relics). The fighting fan casts [[Quandary|Quandary]] on a creature within 30 feet. The fan automatically Sustains the Spell as long as you Strike a creature with it each round. The DC 34 Survival check or DC 34 Perception check DC to escape the demiplane is 34. The spell ends once the creature escapes, you fail to Strike a creature with the fan during a round, or after 1 minute, whichever comes first.
 
 * * *
 
@@ -49,7 +49,7 @@ This elegant +3 greater striking flaming silver fighting fan features sharp silv
 
 * * *
 
-**Effect** The fan casts 8th-rank [[Spells/Raise Dead|Raise Dead]], consuming the phoenix fighting fan in the process.
+**Effect** The fan casts 8th-rank [[Raise Dead|Raise Dead]], consuming the phoenix fighting fan in the process.
 
 *Source: Pathfinder #166: Despair on Danger Island*
 *OGL*

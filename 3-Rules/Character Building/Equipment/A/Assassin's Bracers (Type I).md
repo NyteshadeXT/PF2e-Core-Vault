@@ -28,7 +28,7 @@ These paired bracers of red leather appear as plain armbands on the outside but 
 
 * * *
 
-**Effect** You designate one creature within 30 feet. You cast 4th-rank [[Spells/Invisibility|Invisibility]] on yourself, but the designated creature can still see you. The bracers enhance your appearance to the designated creature, making you appear more fearsome and unnerving, granting you a +1 item bonus to attempts to [[Actions/Feint|Feint]] or [[Actions/Demoralize|Demoralize]] the designated creature. The designated creature takes a –1 item penalty to saving throws against fear effects.
+**Effect** You designate one creature within 30 feet. You cast 4th-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] on yourself, but the designated creature can still see you. The bracers enhance your appearance to the designated creature, making you appear more fearsome and unnerving, granting you a +1 item bonus to attempts to [[Actions/Feint|Feint]] or [[Actions/Demoralize|Demoralize]] the designated creature. The designated creature takes a –1 item penalty to saving throws against fear effects.
 
 *Source: Pathfinder Adventure: Prey for Death*
 *ORC*

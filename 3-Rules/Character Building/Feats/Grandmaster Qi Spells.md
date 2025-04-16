@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Qi Spells
 * * *
-You have unlocked a qi technique achievable only by those who attain complete mastery of both their body and their spirit. You gain [[Spells/Embrace Nothingness|Embrace Nothingness]], [[Spells/Qi Form|Qi Form]], or another 9th-rank qi spell you have access to.
+You have unlocked a qi technique achievable only by those who attain complete mastery of both their body and their spirit. You gain [[Embrace Nothingness|Embrace Nothingness]], [[Qi Form|Qi Form]], or another 9th-rank qi spell you have access to.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

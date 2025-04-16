@@ -26,16 +26,16 @@ MAGICAL
 
 **Path** Magic; Choose when you first imbue the weapon for the granted spells to be either arcane or primal.
 
-*   **2nd** The weapon can cast _[[Spells/Gale Blast|gale blast]]_ as a cantrip, heightened to half the item's level rounded up.
-*   **4th** The weapon can cast _[[Spells/Gust of Wind|gust of wind]]_ once per day.
+*   **2nd** The weapon can cast _[[Gale Blast|gale blast]]_ as a cantrip, heightened to half the item's level rounded up.
+*   **4th** The weapon can cast _[[Gust of Wind|gust of wind]]_ once per day.
 *   **6th** Strikes with the weapon deal 1 additional slashing damage from blades of wind; this additional damage has the air trait.
-*   **8th** The weapon can cast _[[Spells/Wall of Wind|wall of wind]]_ once per day.
-*   **10th** The weapon can cast _[[Spells/Air Walk|air walk]]_ once per day.
-*   **12th** The weapon can cast _[[Spells/Elemental Gift|elemental gift]]_ (air only) once per day.
+*   **8th** The weapon can cast _[[Wall of Wind|wall of wind]]_ once per day.
+*   **10th** The weapon can cast _[[Air Walk|air walk]]_ once per day.
+*   **12th** The weapon can cast _[[Elemental Gift|elemental gift]]_ (air only) once per day.
 *   **14th** The additional slashing damage increases to 1d4.
 *   **16th** The additional slashing damage increases to 1d6.
 *   **18th** The weapon's _elemental gift_ (air only) heightens to 8th level.
-*   **20th** The weapon can cast 9th-level _[[Spells/Whirlwind|whirlwind]]_ once per day.
+*   **20th** The weapon can cast 9th-level _[[Whirlwind|whirlwind]]_ once per day.
 
 * * *
 

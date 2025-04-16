@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Lay on Hands|Lay on Hands]]
+Granted by [[Lay on Hands|Lay on Hands]]
 
 If the target is one of your allies, they also gain a +2 status bonus to AC for 1 round.
 

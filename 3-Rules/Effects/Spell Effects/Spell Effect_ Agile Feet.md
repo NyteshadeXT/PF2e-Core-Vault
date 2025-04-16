@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Agile Feet|Agile Feet]].
+Granted by [[Agile Feet|Agile Feet]].
 
 You gain a +5-foot status bonus to your Speed.
 

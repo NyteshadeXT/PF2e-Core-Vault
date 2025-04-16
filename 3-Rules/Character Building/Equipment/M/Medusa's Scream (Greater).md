@@ -28,7 +28,7 @@ The ghastly visage of a slain medusa's head stares out from this steel shield (H
 
 * * *
 
-**Effect** You reveal the medusa's face, focusing its gaze on one creature within 30 feet. The shield casts a DC 35 [[Spells/Petrify|Petrify]] spell with a range of 30 feet.
+**Effect** You reveal the medusa's face, focusing its gaze on one creature within 30 feet. The shield casts a DC 35 [[Petrify|Petrify]] spell with a range of 30 feet.
 
 * * *
 

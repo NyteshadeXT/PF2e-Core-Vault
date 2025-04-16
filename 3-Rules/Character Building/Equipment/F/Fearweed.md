@@ -14,7 +14,7 @@ license: OGL
 ---
 # Fearweed
 ## Item 10
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[contact]][[3-Rules/Rule References/Divine]][[3-Rules/trait_reference/poison|Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[contact]][[3-Rules/Rule References/Divine]][[3-Rules/Trait Reference/P/poison|Poison]]
 
 **Category** poison; 
 **Price** 160 gp; 
@@ -41,7 +41,7 @@ Cultivated by mashing and fermenting toxic weeds found in lonely graveyards, fea
 
 * * *
 
-**Craft Requirements** Supply one casting of 4th-rank [[Spells/Fear|Fear]].
+**Craft Requirements** Supply one casting of 4th-rank [[3-Rules/Character Building/Spells/F/Fear|Fear]].
 
 *Source: Pathfinder #160: Assault on Hunting Lodge Seven*
 *OGL*

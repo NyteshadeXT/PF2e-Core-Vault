@@ -14,7 +14,7 @@ license: OGL
 ---
 # Slide Pistol
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[capacity-5]][[concussive]][[fatal-d10]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[capacity-5]][[concussive]][[fatal-d10]]
 
 |  |  |
 | -- | -- |

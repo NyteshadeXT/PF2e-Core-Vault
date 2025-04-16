@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-Choose either [[Spells/Lightning Bolt|Lightning Bolt]] or [[Spells/Gust of Wind|Gust of Wind]]. You Cast the chosen Spell as a 6th-rank primal innate spell in the direction of the target of the triggering action.
+Choose either [[Lightning Bolt|Lightning Bolt]] or [[Gust of Wind|Gust of Wind]]. You Cast the chosen Spell as a 6th-rank primal innate spell in the direction of the target of the triggering action.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

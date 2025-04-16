@@ -16,7 +16,7 @@ license: OGL
 ---
 # Gearblade
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[backswing]][[clockwork]][[invested]][[magical]][[shove]]
+### [rare](rare.md "Rare Rarity Trait")[[backswing]][[clockwork]][[invested]][[magical]][[3-Rules/Trait Reference/S/shove]]
 
 |  |  |
 | -- | -- |
@@ -39,7 +39,7 @@ Shaped like a blade made from spinning gears, this _+2 greater striking_ weapon 
 
 * * *
 
-**Effect** The target's weapon is pulled through the gearblade's gears and shoots out the other side, landing 20 feet away in a direction of your choice. The target must attempt a DC 36 Reflex check save. On a failure, the limb holding their weapon is also pulled into the _gearblade_, and the creature takes 3d12 bludgeoning damage. On a critical failure, they take 6d12 bludgeoning damage and the limb becomes unusable until healed by a [[Spells/Regenerate|Regenerate]] spell or a similar effect.
+**Effect** The target's weapon is pulled through the gearblade's gears and shoots out the other side, landing 20 feet away in a direction of your choice. The target must attempt a DC 36 Reflex check save. On a failure, the limb holding their weapon is also pulled into the _gearblade_, and the creature takes 3d12 bludgeoning damage. On a critical failure, they take 6d12 bludgeoning damage and the limb becomes unusable until healed by a [[Regenerate|Regenerate]] spell or a similar effect.
 
 *Source: Pathfinder #161: Belly of the Black Whale*
 *OGL*

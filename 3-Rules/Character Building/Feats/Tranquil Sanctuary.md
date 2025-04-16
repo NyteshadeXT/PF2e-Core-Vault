@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Idyllkin
 * * *
-Whenever possible, you follow the serene path and encourage others to do the same. You can cast [[Spells/Sanctuary|Sanctuary]] once per day as a 1st-rank divine innate spell.
+Whenever possible, you follow the serene path and encourage others to do the same. You can cast [[Sanctuary|Sanctuary]] once per day as a 1st-rank divine innate spell.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

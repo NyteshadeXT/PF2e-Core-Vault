@@ -12,7 +12,7 @@ license: OGL
 ---
 # Smoky Hag Eye
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[invested]][[occult]][[scrying]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[occult]][[3-Rules/Trait Reference/S/scrying]]
 
 
 **Price** 450 gp; 

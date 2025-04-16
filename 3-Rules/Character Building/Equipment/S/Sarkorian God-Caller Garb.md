@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sarkorian God-Caller Garb
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[comfort]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[comfort]][[invested]][[magical]]
 
 **Category** unarmored; **Group** cloth
 **Price** 250 gp; 

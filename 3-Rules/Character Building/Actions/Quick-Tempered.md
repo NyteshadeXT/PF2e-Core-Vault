@@ -12,7 +12,7 @@ license: ORC
 ---
 # Quick-Tempered `pf2:0`
 
-### [[3-Rules/trait_reference/barbarian]]
+### [[barbarian]]
 
 **Category** offensive; 
 

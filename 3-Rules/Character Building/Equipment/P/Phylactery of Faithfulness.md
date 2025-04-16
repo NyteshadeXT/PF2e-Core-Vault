@@ -28,7 +28,7 @@ Just before you perform an action that would be anathema to the phylactery's dei
 
 * * *
 
-**Effect** You ask for guidance about a particular course of action, gaining the effects of an [[Spells/Augury|Augury]] spell.
+**Effect** You ask for guidance about a particular course of action, gaining the effects of an [[Augury|Augury]] spell.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

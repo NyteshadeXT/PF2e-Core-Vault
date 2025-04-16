@@ -9,7 +9,7 @@ license: OGL
 ---
 # Knight's Standard
 
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 5 gp; 

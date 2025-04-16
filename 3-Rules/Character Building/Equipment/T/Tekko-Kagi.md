@@ -17,7 +17,7 @@ license: OGL
 ---
 # Tekko-Kagi
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[disarm]][[finesse]][[free-hand]][[monk]][[parry]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[3-Rules/trait_reference/D/disarm]][[finesse]][[free-hand]][[monk]][[parry]]
 
 |  |  |
 | -- | -- |

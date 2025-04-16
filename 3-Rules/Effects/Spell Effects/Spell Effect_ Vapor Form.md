@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Vapor Form|Vapor Form]]
+Granted by [[Vapor Form|Vapor Form]]
 
 The target gains resistance 8 to physical damage and is immune to precision damage. The target also gains a fly Speed of 10 feet.
 

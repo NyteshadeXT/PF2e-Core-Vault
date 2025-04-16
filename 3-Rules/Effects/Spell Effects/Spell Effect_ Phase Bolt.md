@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Phase Bolt|Phase Bolt]]
+Granted by [[Phase Bolt|Phase Bolt]]
 
 If the target has any circumstance bonuses to AC, reduce that bonus by 2 for this attack.
 

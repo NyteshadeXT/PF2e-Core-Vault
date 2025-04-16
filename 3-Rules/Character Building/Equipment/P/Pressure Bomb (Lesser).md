@@ -16,7 +16,7 @@ license: OGL
 ---
 # Pressure Bomb (Lesser)
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/force]][[splash]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/F/force]][[splash]]
 
 |  |  |
 | -- | -- |

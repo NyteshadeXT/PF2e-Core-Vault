@@ -19,7 +19,7 @@ license: ORC
 **Bulk** 0; **Size** med
 **Usage** worn
 
-This glass amulet is set on a steel backing shaped like a cage and flickers with an eerie crimson glow. Magically sealed within is a portion of a hellcat's ever-burning heart. While wearing the amulet, you gain a +1 item bonus to Stealth checks made while in bright light, and you can cast the [[Spells/Light|Light]] cantrip emanating from the amulet as an innate divine spell.
+This glass amulet is set on a steel backing shaped like a cage and flickers with an eerie crimson glow. Magically sealed within is a portion of a hellcat's ever-burning heart. While wearing the amulet, you gain a +1 item bonus to Stealth checks made while in bright light, and you can cast the [[3-Rules/Character Building/Spells/L/Light|Light]] cantrip emanating from the amulet as an innate divine spell.
 
 * * *
 

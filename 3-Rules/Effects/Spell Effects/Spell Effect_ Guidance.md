@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Guidance|Guidance]]
+Granted by [[Guidance|Guidance]]
 
 You have divine guidance, granting you a +1 status bonus to one attack roll, Perception check, saving throw, or skill check you attempt before the duration ends. You choose which roll to use the bonus on before rolling. If you use the bonus, the spell ends. Either way, you are then temporarily immune for 1 hour.
 

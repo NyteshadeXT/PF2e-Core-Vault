@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Glimpse Weakness|Glimpse Weakness]]
+Granted by [[Glimpse Weakness|Glimpse Weakness]]
 
 You deal additional precision damage equal to 1 + this spell's rank, and then the spell ends.
 

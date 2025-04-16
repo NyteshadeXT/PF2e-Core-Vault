@@ -15,7 +15,7 @@ license: OGL
 ---
 # Hardened Harrow Deck
 ## Item 14
-### [rare](rare "Rare Rarity Trait")[[agile]][[deadly-d10]][[magical]][[thrown]]
+### [rare](rare.md "Rare Rarity Trait")[[agile]][[deadly-d10]][[magical]][[thrown]]
 
 |  |  |
 | -- | -- |

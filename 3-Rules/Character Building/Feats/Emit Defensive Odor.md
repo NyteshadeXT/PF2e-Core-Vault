@@ -14,7 +14,7 @@ license: ORC
 ---
 # Emit Defensive Odor `pf2:1`
 ## Feat 1
-### [[athamaru]][[inhaled]][[3-Rules/trait_reference/poison]]
+### [[athamaru]][[inhaled]][[3-Rules/trait_reference/P/poison]]
 
 **Category** ancestry; 
 

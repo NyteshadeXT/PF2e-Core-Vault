@@ -11,7 +11,7 @@ license: OGL
 ---
 # Orb of Dragonkind
 ## Item 25
-### [unique](unique "Unique Rarity Trait")[[arcane]][[artifact]]
+### [unique](unique.md "Unique Rarity Trait")[[arcane]][[artifact]]
 
 
 **Price** 0 gp; 

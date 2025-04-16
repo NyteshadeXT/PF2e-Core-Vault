@@ -10,6 +10,6 @@ tags:
 # Plague Domain
 **Deities** [[Deities/Apollyon|Apollyon]], [[Deities/Cyth-V'sug|Cyth-V'sug]], [[Deities/Ghlaunder|Ghlaunder]], [[Deities/Lady Nanbyo|Lady Nanbyo]]
 
-**Domain Spell** [[Spells/Divine Plagues|Divine Plagues]]; **Advanced Domain Spell** [[Spells/Foul Miasma|Foul Miasma]]
+**Domain Spell** [[Divine Plagues|Divine Plagues]]; **Advanced Domain Spell** [[Foul Miasma|Foul Miasma]]
 
 You wield disease and pestilence like a weapon.

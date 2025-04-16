@@ -11,7 +11,7 @@ license: OGL
 ---
 # Silent Bell
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[magical]]
 
 
 **Price** 600 gp; 

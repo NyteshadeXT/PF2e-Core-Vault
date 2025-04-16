@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Contagious Idea|Contagious Idea]]
+Granted by [[Contagious Idea|Contagious Idea]]
 
 You gain temporary Hit Points equal to the spell rank.
 

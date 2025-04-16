@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Apex Companion|Apex Companion]].
+Granted by [[3-Rules/Character Building/Spells/A/Apex Companion|Apex Companion]].
 
 Your animal companion gains the following statistics and abilities while in its apex form.
 

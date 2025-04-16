@@ -27,7 +27,7 @@ This long, silky neckcloth has the ability to be tied into a convincing semblanc
 
 * * *
 
-**Effect** You make adjustments to the crooner's cravat, transforming it into any type of stylish chosen neckwear; as you do so, you cast a 1st-rank [[Spells/Illusory Disguise|Illusory Disguise]] on yourself.
+**Effect** You make adjustments to the crooner's cravat, transforming it into any type of stylish chosen neckwear; as you do so, you cast a 1st-rank [[Illusory Disguise|Illusory Disguise]] on yourself.
 
 **Activate—Influential Croon** `pf2:2` (auditory, emotion, linguistic)
 
@@ -35,7 +35,7 @@ This long, silky neckcloth has the ability to be tied into a convincing semblanc
 
 * * *
 
-**Effect** You pour emotion into your vocal performance, projecting an empathetic bond that fascinates listeners. You cast enthrall (DC 30 Will check save). When you first activate Influential Croon, you can also cast [[Spells/Subconscious Suggestion|Subconscious Suggestion]] on one creature within 30 feet (DC 30 Will check save).
+**Effect** You pour emotion into your vocal performance, projecting an empathetic bond that fascinates listeners. You cast enthrall (DC 30 Will check save). When you first activate Influential Croon, you can also cast [[Subconscious Suggestion|Subconscious Suggestion]] on one creature within 30 feet (DC 30 Will check save).
 
 *Source: Pathfinder #204: Stage Fright*
 *ORC*

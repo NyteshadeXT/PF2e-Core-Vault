@@ -17,7 +17,7 @@ license: OGL
 ---
 # Vine of Roses
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[finesse]][[Holy]][[3-Rules/trait_reference/light]][[magical]][[trip]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/D/disarm]][[finesse]][[Holy]][[3-Rules/trait_reference/L/light]][[magical]][[3-Rules/trait_reference/T/trip]]
 
 |  |  |
 | -- | -- |
@@ -44,7 +44,7 @@ This _+1 striking disrupting spiked chain_ comes in a rich, green color with ros
 
 **Trigger** You critically succeed at a Strike against a fiend or undead
 
-**Effect** The weapon unleashes its light in an attempt to destroy the target. The _vine of roses_ casts a 3rd-rank [[Spells/Holy Light|Holy Light]] spell with the triggering creature as the target. In place of a spell attack roll, make a weapon attack roll with the _vine of roses_ using the same multiple attack penalty as the triggering Strike.
+**Effect** The weapon unleashes its light in an attempt to destroy the target. The _vine of roses_ casts a 3rd-rank [[3-Rules/Character Building/Spells/H/Holy Light|Holy Light]] spell with the triggering creature as the target. In place of a spell attack roll, make a weapon attack roll with the _vine of roses_ using the same multiple attack penalty as the triggering Strike.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Prismatic Plate
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 **Category** heavy; **Group** plate
 **Price** 14000 gp; 
@@ -29,7 +29,7 @@ With its standard-grade dawnsilver polished to a mirrorlike sheen, this _+2 resi
 
 * * *
 
-**Effect** You surround yourself in a coruscating field of red, orange, yellow, green, blue, indigo, and violet light for 1 minute. Each color has a different effect, based on the effects of a 7th-rank [[Spells/Chromatic Wall|Chromatic Wall]] spell, and you apply the effects of each color once before it disappears from your field of light, which can happen in the following two ways.
+**Effect** You surround yourself in a coruscating field of red, orange, yellow, green, blue, indigo, and violet light for 1 minute. Each color has a different effect, based on the effects of a 7th-rank [[Chromatic Wall|Chromatic Wall]] spell, and you apply the effects of each color once before it disappears from your field of light, which can happen in the following two ways.
 
 First, the field attempts a counteract check (counteract rank 7, counteract modifier +27) against any effect that would be blocked by a chromatic wall of any of the colors still surrounding you in your field of light. Succeed or fail, that color then disappears from your field of light.
 

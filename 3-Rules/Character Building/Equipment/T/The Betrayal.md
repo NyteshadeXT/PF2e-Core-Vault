@@ -34,7 +34,7 @@ _The Betrayal_ represents selfishness and envy, twisting outcomes toward unfavor
 
 * * *
 
-**Effect** You turn the tables on your foes, bringing one of them into your ranks and compelling them to attack their allies. You cast [[Spells/Dominate|Dominate]] on a creature, but can only issue commands to attack or otherwise harm, betray, or inconvenience its allies. The rank of the spell is one-half your level, rounded down (minimum 6th level), and the save DC is your class DC (Will check).
+**Effect** You turn the tables on your foes, bringing one of them into your ranks and compelling them to attack their allies. You cast [[Dominate|Dominate]] on a creature, but can only issue commands to attack or otherwise harm, betray, or inconvenience its allies. The rank of the spell is one-half your level, rounded down (minimum 6th level), and the save DC is your class DC (Will check).
 
 *Source: Pathfinder #192: Worst of All Possible Worlds*
 *OGL*

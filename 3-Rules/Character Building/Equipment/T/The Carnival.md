@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-_The Carnival_ represents false dreams. When you have _The Carnival_ invested, your flat check DCs to obtain reliable information from divination effects (such as [[Spells/Augury|Augury]] or [[Spells/Read Fate|Read Fate]], or the activation of this card) are reduced by 2 (but not to less than 2). Casting a divination effect with a flat check, whether or not the flat check succeeds, gives a series of subtly different visions that don't confuse the meaning but make you [[Conditions/Stupefied|Stupefied 1]] for 1 round. If you're at least 17th level, the flat check is instead reduced by 3.
+_The Carnival_ represents false dreams. When you have _The Carnival_ invested, your flat check DCs to obtain reliable information from divination effects (such as [[Augury|Augury]] or [[Read Fate|Read Fate]], or the activation of this card) are reduced by 2 (but not to less than 2). Casting a divination effect with a flat check, whether or not the flat check succeeds, gives a series of subtly different visions that don't confuse the meaning but make you [[Conditions/Stupefied|Stupefied 1]] for 1 round. If you're at least 17th level, the flat check is instead reduced by 3.
 
 **Activate** `pf2:1` (divination, prediction) envision
 

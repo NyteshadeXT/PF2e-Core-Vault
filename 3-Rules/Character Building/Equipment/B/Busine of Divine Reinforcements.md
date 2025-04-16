@@ -38,7 +38,7 @@ This long, straight, trumpet-like instrument is made of well-polished brass and 
 
 * * *
 
-**Effect** You blow into the busine and conjure a celestial with the effects of a 6th-rank [[Spells/Summon Celestial|Summon Celestial]] spell, but there are no alignment restrictions to define which celestials you can call. The celestial will fight only evil creatures and leaves after all present evil creatures have been defeated or the spell's duration ends, whichever comes first. You can Sustain the Activation to extend the spell's duration, as normal. If you have a deity and the conjured celestial's alignment is one of your deity's preferred alignments, the effect functions as a normal 6th-rank _summon celestial_ spell instead, meaning the celestial will fight any creature, not just evil creatures, and will perform other tasks as you command.
+**Effect** You blow into the busine and conjure a celestial with the effects of a 6th-rank [[Summon Celestial|Summon Celestial]] spell, but there are no alignment restrictions to define which celestials you can call. The celestial will fight only evil creatures and leaves after all present evil creatures have been defeated or the spell's duration ends, whichever comes first. You can Sustain the Activation to extend the spell's duration, as normal. If you have a deity and the conjured celestial's alignment is one of your deity's preferred alignments, the effect functions as a normal 6th-rank _summon celestial_ spell instead, meaning the celestial will fight any creature, not just evil creatures, and will perform other tasks as you command.
 
 *Source: Pathfinder Lost Omens: Knights of Lastwall*
 *OGL*

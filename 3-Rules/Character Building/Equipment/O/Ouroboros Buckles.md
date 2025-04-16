@@ -14,7 +14,7 @@ license: OGL
 ---
 # Ouroboros Buckles
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[adjusted]][[comfort]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[adjusted]][[comfort]][[invested]][[magical]]
 
 **Category** light; **Group** leather
 **Price** 40000 gp; 

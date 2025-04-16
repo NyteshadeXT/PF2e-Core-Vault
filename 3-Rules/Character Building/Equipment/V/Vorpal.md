@@ -11,7 +11,7 @@ license: ORC
 ---
 # Vorpal
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 
 **Price** 15000 gp; 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Robe of the Archmagi
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[comfort]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[comfort]][[invested]][[magical]]
 
 **Category** unarmored; 
 **Price** 6500 gp; 

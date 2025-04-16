@@ -14,7 +14,7 @@ license: ORC
 ---
 # Golden Gloves
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[apex]][[Holy]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[apex]][[Holy]][[invested]][[magical]]
 
 
 **Price** 40000 gp; 

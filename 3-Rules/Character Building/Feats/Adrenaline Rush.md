@@ -13,7 +13,7 @@ license: ORC
 ---
 # Adrenaline Rush
 ## Feat 1
-### [[barbarian]][[rage]]
+### [[barbarian]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

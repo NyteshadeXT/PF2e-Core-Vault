@@ -15,7 +15,7 @@ license: OGL
 ---
 # Celestial Staff
 ## Item 17
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[Holy]][[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[Holy]][[magical|Magical]][[3-Rules/Trait Reference/S/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -34,14 +34,14 @@ Heavenly radiance shines from an active _celestial staff_, a golden staff capped
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Divine Lance|Divine Lance]] (good only)
-*   **1st** [[Spells/Bless|Bless]], [[Spells/Protection|Protection]]
-*   **2nd** [[Spells/Everlight|Everlight]], [[Spells/Inner Radiance Torrent|Inner Radiance Torrent]]
-*   **3rd** [[Spells/Circle of Protection|Circle of Protection]], [[Spells/Anointed Ground|Sanctified Ground]]
-*   **4th** [[Spells/Holy Cascade|Holy Cascade]], [[Spells/Inner Radiance Torrent|Inner Radiance Torrent]]
-*   **5th** [[Spells/Spiritual Guardian|Spiritual Guardian]], [[Spells/Summon Celestial|Summon Celestial]]
-*   **6th** [[Spells/Holy Cascade|Holy Cascade]], [[Spells/Summon Celestial|Summon Celestial]]
-*   **7th** [[Spells/Angel Form|Angel Form]], [[Spells/Inner Radiance Torrent|Inner Radiance Torrent]], [[Spells/Summon Celestial|Summon Celestial]]
+*   **Cantrip** [[Divine Lance|Divine Lance]] (good only)
+*   **1st** [[Bless|Bless]], [[Protection|Protection]]
+*   **2nd** [[Everlight|Everlight]], [[Inner Radiance Torrent|Inner Radiance Torrent]]
+*   **3rd** [[Circle of Protection|Circle of Protection]], [[Anointed Ground|Sanctified Ground]]
+*   **4th** [[Holy Cascade|Holy Cascade]], [[Inner Radiance Torrent|Inner Radiance Torrent]]
+*   **5th** [[Spiritual Guardian|Spiritual Guardian]], [[Summon Celestial|Summon Celestial]]
+*   **6th** [[Holy Cascade|Holy Cascade]], [[Summon Celestial|Summon Celestial]]
+*   **7th** [[Angel Form|Angel Form]], [[Inner Radiance Torrent|Inner Radiance Torrent]], [[Summon Celestial|Summon Celestial]]
 
 * * *
 

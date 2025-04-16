@@ -17,7 +17,7 @@ license: OGL
 **Bulk** 1; **Size** med
 **Usage** held-in-one-hand
 
-This surprisingly sturdy 3-foot-by-3-foot clay tile resembles a thick pressure plate. It can support up to 500 pounds of weight atop it before it is destroyed. The _floorbell_'s nature is obvious at a glance, but mundane or magical means can obscure or camouflage the tile (such as by covering it in scattered leaves or by casting an [[Spells/Illusory Object|Illusory Object]] spell) to make it harder to detect.
+This surprisingly sturdy 3-foot-by-3-foot clay tile resembles a thick pressure plate. It can support up to 500 pounds of weight atop it before it is destroyed. The _floorbell_'s nature is obvious at a glance, but mundane or magical means can obscure or camouflage the tile (such as by covering it in scattered leaves or by casting an [[Illusory Object|Illusory Object]] spell) to make it harder to detect.
 
 * * *
 

@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You're an extraordinary teacher, capable of inspiring your students to amazing feats of athletics and ingenuity. Once per day, you can cast [[Spells/Heroism|Heroism]] as an innate divine spell; in addition to its normal effects, the spell also grants temporary Hit Points equal to half your level. You can't cast this spell on yourself.
+You're an extraordinary teacher, capable of inspiring your students to amazing feats of athletics and ingenuity. Once per day, you can cast [[Heroism|Heroism]] as an innate divine spell; in addition to its normal effects, the spell also grants temporary Hit Points equal to half your level. You can't cast this spell on yourself.
 
 [[Feat_Feature Effects/Effect_ Mentor of Legends|Effect: Mentor of Legends]]
 

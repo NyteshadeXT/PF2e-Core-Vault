@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bagpipes of Turmoil (Major)
 ## Item 12
-### [[coda]][[3-Rules/trait_reference/occult|Occult]][[3-Rules/trait_reference/staff|Staff]]
+### [[coda]][[occult|Occult]][[3-Rules/Trait Reference/S/staff|Staff]]
 
 
 **Price** 1900 gp; 
@@ -29,12 +29,12 @@ While those who appreciate bagpipes may like the sound of this gray reed and bla
 
 **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Daze|Daze]]
-*   **1st** [[Spells/Bane|Bane]]
-*   **2nd** [[Spells/Deafness|Deafness]], [[Spells/Knock|Knock]], [[Spells/Shatter|Shatter]]
-*   **3rd** [[Spells/Agonizing Despair|Agonizing Despair]], [[Spells/Paralyze|Paralyze]]
-*   **4th** [[Spells/Confusion|Confusion]], [[Spells/Painful Vibrations|Painful Vibrations]]
-*   **5th** [[Spells/Banishment|Banishment]], [[Spells/Wave of Despair|Wave of Despair]], [[Spells/Synaptic Pulse|Synaptic Pulse]]
+*   **Cantrip** [[Daze|Daze]]
+*   **1st** [[3-Rules/Character Building/Spells/B/Bane|Bane]]
+*   **2nd** [[Deafness|Deafness]], [[Knock|Knock]], [[Shatter|Shatter]]
+*   **3rd** [[Agonizing Despair|Agonizing Despair]], [[Paralyze|Paralyze]]
+*   **4th** [[Confusion|Confusion]], [[Painful Vibrations|Painful Vibrations]]
+*   **5th** [[Banishment|Banishment]], [[Wave of Despair|Wave of Despair]], [[Synaptic Pulse|Synaptic Pulse]]
 
 * * *
 

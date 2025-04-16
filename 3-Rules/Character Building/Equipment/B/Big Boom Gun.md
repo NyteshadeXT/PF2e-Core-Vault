@@ -15,7 +15,7 @@ license: OGL
 ---
 # Big Boom Gun
 ## Item 1
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[cobbled]][[fatal-d12]][[3-Rules/trait_reference/goblin]][[modular]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[cobbled]][[fatal-d12]][[goblin]][[modular]]
 
 |  |  |
 | -- | -- |

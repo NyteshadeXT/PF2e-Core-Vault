@@ -17,7 +17,7 @@ license: ORC
 ---
 # Acid Flask (Lesser)
 ## Item 1
-### [[3-Rules/trait_reference/acid|Acid]] [[alchemical]][[bomb]][[consumable]][[splash]]
+### [[3-Rules/Trait Reference/A/acid|Acid]] [[alchemical]][[bomb]][[consumable]][[splash]]
 
 |  |  |
 | -- | -- |

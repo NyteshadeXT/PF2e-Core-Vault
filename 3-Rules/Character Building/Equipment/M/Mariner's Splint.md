@@ -13,7 +13,7 @@ license: ORC
 ---
 # Mariner's Splint
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 **Category** heavy; **Group** composite
 **Price** 180 gp; 

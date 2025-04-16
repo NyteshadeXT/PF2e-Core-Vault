@@ -12,7 +12,7 @@ license: OGL
 ---
 # Jiu Huan Dao
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[sweep]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[sweep]]
 
 |  |  |
 | -- | -- |

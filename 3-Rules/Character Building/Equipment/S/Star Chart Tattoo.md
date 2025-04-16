@@ -12,7 +12,7 @@ license: OGL
 ---
 # Star Chart Tattoo
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]][[tattoo]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]][[tattoo]]
 
 
 **Price** 900 gp; 

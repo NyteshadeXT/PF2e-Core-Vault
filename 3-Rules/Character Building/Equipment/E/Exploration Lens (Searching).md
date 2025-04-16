@@ -24,7 +24,7 @@ license: OGL
 
 An _exploration lens_ is a magical glass lens designed for a [[Lantern (Bull's Eye)|Bull's Eye Lantern]]. When light from the lantern passes through the lens, it alters the light to make it easier to perform a common exploration activity with the lantern.
 
-Alternatively, an _exploration lens_ can be installed in a [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] like an aeon stone. In this case, light (such as that from a [[Lantern (Hooded)|Lantern (Hooded)]], [[Torch|Torch]], or [[Spells/Light|Light]] spell) must still pass through the lens and you must hold the wayfinder in your hand for it to function.
+Alternatively, an _exploration lens_ can be installed in a [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] like an aeon stone. In this case, light (such as that from a [[Lantern (Hooded)|Lantern (Hooded)]], [[Torch|Torch]], or [[3-Rules/Character Building/Spells/L/Light|Light]] spell) must still pass through the lens and you must hold the wayfinder in your hand for it to function.
 
 There are several different types of _exploration lens_, each granting benefits with a different type of exploration activity. Each type of lens is distinguishable from all the other types by holding it up to a bright light.
 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Fleeing Shriek `pf2:2`
 ## Feat 9
-### [[auditory]][[kobold]][[3-Rules/trait_reference/sonic]]
+### [[auditory]][[kobold]][[3-Rules/trait_reference/S/sonic]]
 
 **Category** ancestry; 
 

@@ -23,7 +23,7 @@ license: ORC
 
 **Prerequisites** warrior muse
 * * *
-With a rousing call, you exhort an ally to advance. If your next action is to cast the [[Spells/Courageous Anthem|Courageous Anthem]] composition cantrip, one ally of your choice who gains a status bonus from the spell can immediately use their reaction to Stride.
+With a rousing call, you exhort an ally to advance. If your next action is to cast the [[Courageous Anthem|Courageous Anthem]] composition cantrip, one ally of your choice who gains a status bonus from the spell can immediately use their reaction to Stride.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Entropic Wheel|Entropic Wheel]]
+Granted by [[Entropic Wheel|Entropic Wheel]]
 
 When you Cast a Spell that deals fire damage, the target also takes cold damage equal to the number of motes in the entropic wheel. When you Cast a Spell that deals cold damage, the target also takes fire damage equal to the number of motes in the entropic wheel. This applies only to the initial damage of the spell, not to any persistent damage or ongoing effects.
 

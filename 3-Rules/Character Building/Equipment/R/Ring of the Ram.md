@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ring of the Ram
 ## Item 6
-### [[3-Rules/trait_reference/force]][[invested]][[magical]]
+### [[3-Rules/Trait Reference/F/force]][[invested]][[magical]]
 
 
 **Price** 220 gp; 

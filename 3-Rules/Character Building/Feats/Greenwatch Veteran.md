@@ -13,7 +13,7 @@ license: OGL
 ---
 # Greenwatch Veteran
 ## Feat 8
-### [rare](rare "Rare Rarity Trait")[[gunslinger]][[investigator]][[ranger]]
+### [rare](rare.md "Rare Rarity Trait")[[gunslinger]][[investigator]][[ranger]]
 
 **Category** class; 
 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Death Ward|Death Ward]].
+Granted by [[Death Ward|Death Ward]].
 
 You are shielded from void energy, you gain a +4 status bonus to saves against death and void effects.
 

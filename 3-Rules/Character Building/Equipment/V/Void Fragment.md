@@ -13,7 +13,7 @@ license: OGL
 ---
 # Void Fragment
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]][[occult]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[magical]][[occult]]
 
 **Category** other; 
 **Price** 0 gp; 
@@ -28,7 +28,7 @@ Hovering midair, thrumming and whispering of its power, a _void fragment_ is a c
 
 * * *
 
-**Stage 1 (8 Days)** The first time you enter this stage from a given _void fragment_, you gain the effect of a [[Potion of Truespeech|Potion of Truespeech]] for 3 days. The wisp grants you telepathy with a range of 30 feet. Also, you are under the effects of [[Spells/Hidden Mind|Hidden Mind]], except that its status bonus is +1 and it counteracts with a bonus equal to your class DC – 9. The wisp grants you resistance to mental damage equal to half your level. You also have access to the following activation.
+**Stage 1 (8 Days)** The first time you enter this stage from a given _void fragment_, you gain the effect of a [[Potion of Truespeech|Potion of Truespeech]] for 3 days. The wisp grants you telepathy with a range of 30 feet. Also, you are under the effects of [[Hidden Mind|Hidden Mind]], except that its status bonus is +1 and it counteracts with a bonus equal to your class DC – 9. The wisp grants you resistance to mental damage equal to half your level. You also have access to the following activation.
 
 **Activate** `pf2:1` envision; or `pf2:2` command, envision (teleportation)
 
@@ -38,7 +38,7 @@ Hovering midair, thrumming and whispering of its power, a _void fragment_ is a c
 
 * * *
 
-**Stage 2 (24 Days)** You gain imprecise thoughtsense to half your telepathy's range, which increases to 60 feet. However, you have a tough time filtering the mental noise. If any creatures can be detected by your thoughtsense, you take a –1 penalty to Perception checks. When you arrive in a space after using the activation to teleport, you create a @Template\[emanation|distance:10\] that works like [[Spells/Strange Geometry|Strange Geometry]] for 1 round. This emanation can affect you.
+**Stage 2 (24 Days)** You gain imprecise thoughtsense to half your telepathy's range, which increases to 60 feet. However, you have a tough time filtering the mental noise. If any creatures can be detected by your thoughtsense, you take a –1 penalty to Perception checks. When you arrive in a space after using the activation to teleport, you create a @Template\[emanation|distance:10\] that works like [[Strange Geometry|Strange Geometry]] for 1 round. This emanation can affect you.
 
 If you die at this stage or higher, your body implodes. Your soul reincarnates as an aberration of a level close to yours, which extrudes from the location of your implosion. Common forms include amalgamite, brain collector, gibbering mouther, gosreg, intellect devourer, quelaunt, or shoggoth. This creature isn't you, but fleeting memories of your former existence remain with it. You can't be raised from the dead while this monster endures. Its alignment is chaotic evil. The _void fragment_ reappears somewhere on the same planet.
 
@@ -52,7 +52,7 @@ If you die at this stage or higher, your body implodes. Your soul reincarnates a
 
 * * *
 
-**Purging** You must find and slay a chaotic evil aberration or a servant of such creatures the GM deems appropriate. The creature must be of your level or higher. Then, someone must cast a [[Spells/Rest Eternal|Rest Eternal]] ritual on you and the dead being; you must be anointed with the same oils the ritual normally requires. If the ritual results in a success, it casts the slain creature into the void along with the _void fragment_ inside you, ending its effects on you.
+**Purging** You must find and slay a chaotic evil aberration or a servant of such creatures the GM deems appropriate. The creature must be of your level or higher. Then, someone must cast a [[Rest Eternal|Rest Eternal]] ritual on you and the dead being; you must be anointed with the same oils the ritual normally requires. If the ritual results in a success, it casts the slain creature into the void along with the _void fragment_ inside you, ending its effects on you.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

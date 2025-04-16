@@ -15,7 +15,7 @@ license: OGL
 ---
 # War Lance
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[jousting-d6]][[parry]][[shove]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[jousting-d6]][[parry]][[3-Rules/trait_reference/S/shove]]
 
 |  |  |
 | -- | -- |

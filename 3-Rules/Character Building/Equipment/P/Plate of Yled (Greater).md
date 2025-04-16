@@ -13,7 +13,7 @@ license: OGL
 ---
 # Plate of Yled (Greater)
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[bulwark]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[bulwark]][[invested]][[magical]]
 
 **Category** heavy; **Group** plate
 **Price** 415 gp; 
@@ -32,7 +32,7 @@ The armor gains additional abilities if it is a graveknight's armor. If a gravek
 
 * * *
 
-**Effect** The creature is targeted with [[Spells/Death Knell|Death Knell]] (DC 24).
+**Effect** The creature is targeted with [[Death Knell|Death Knell]] (DC 24).
 
 * * *
 

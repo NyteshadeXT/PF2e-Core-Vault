@@ -12,7 +12,7 @@ license: OGL
 ---
 # Grimoire of Unknown Necessities
 ## Item 16
-### [unique](unique "Unique Rarity Trait")[[grimoire]][[invested]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[grimoire]][[invested]][[magical]]
 
 
 **Price** 8000 gp; 

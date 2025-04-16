@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** master in Deception; Vigilante Dedication
 * * *
-Your disparate identities allow you to defeat magic that detects lies. As long as what you say is true from the point of view of your current identity, you can deceive effects like [[Spells/Ring of Truth|Ring of Truth]] that reveal lies.
+Your disparate identities allow you to defeat magic that detects lies. As long as what you say is true from the point of view of your current identity, you can deceive effects like [[3-Rules/Character Building/Spells/R/Ring of Truth|Ring of Truth]] that reveal lies.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

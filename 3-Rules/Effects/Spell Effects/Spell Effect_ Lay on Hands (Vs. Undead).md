@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Lay on Hands|Lay on Hands]]
+Granted by [[Lay on Hands|Lay on Hands]]
 
 If the target is undead, they also gain a -2 status penalty to AC for 1 round.
 

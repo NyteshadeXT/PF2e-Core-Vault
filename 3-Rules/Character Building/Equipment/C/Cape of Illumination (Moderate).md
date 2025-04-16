@@ -12,7 +12,7 @@ license: OGL
 ---
 # Cape of Illumination (Moderate)
 ## Item 9
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/trait_reference/light]][[magical|Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[3-Rules/Trait Reference/L/light]][[magical|Magical]]
 
 
 **Price** 600 gp; 
@@ -23,7 +23,7 @@ This golden cape, embroidered with vibrant red sun rays, sparkles like sunlight 
 
 **Activate** `pf2:2` command, Interact
 
-**Effect** The cape glows with the effects of 4th-rank [[Spells/Light|Light]]. You can Activate the cape again to Dismiss the effect.
+**Effect** The cape glows with the effects of 4th-rank [[3-Rules/Character Building/Spells/L/Light|Light]]. You can Activate the cape again to Dismiss the effect.
 
 * * *
 

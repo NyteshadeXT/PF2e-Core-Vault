@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Requirements** You have a [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]] spell you can cast.
+**Requirements** You have a [[Harm|Harm]] or [[Heal|Heal]] spell you can cast.
 
 * * *
 

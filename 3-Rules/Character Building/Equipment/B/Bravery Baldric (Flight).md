@@ -28,7 +28,7 @@ A _bravery baldric_ is a belt that wraps around the shoulder and draws on your w
 
 **Frequency** once per hour
 
-**Effect** One charge in the baldric expires, and you gain the effects of [[Spells/Fly|Fly]].
+**Effect** One charge in the baldric expires, and you gain the effects of [[3-Rules/Character Building/Spells/F/Fly|Fly]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

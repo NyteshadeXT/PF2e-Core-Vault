@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Unblinking Flame Aura|Unblinking Flame Aura]]
+Granted by [[Unblinking Flame Aura|Unblinking Flame Aura]]
 
 You gain a +2 status bonus on Perception checks and resistance 10 to cold.
 

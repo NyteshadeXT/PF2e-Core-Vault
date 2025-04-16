@@ -12,7 +12,7 @@ license: OGL
 ---
 # Soulspark Candle
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[artifact]][[consecration]][[divine]]
+### [rare](rare.md "Rare Rarity Trait")[[artifact]][[consecration]][[divine]]
 
 
 **Price** 0 gp; 

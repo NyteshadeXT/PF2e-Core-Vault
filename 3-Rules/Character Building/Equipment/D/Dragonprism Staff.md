@@ -14,7 +14,7 @@ license: OGL
 ---
 # Dragonprism Staff
 ## Item 14
-### [[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
+### [[magical|Magical]][[3-Rules/Trait Reference/S/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -33,13 +33,13 @@ A multi-hued array of scales covers a _dragonprism staff_, forming a gradient of
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Gouging Claw|Gouging Claw]], [[Spells/Puff of Poison|Puff of Poison]]
-*   **1st** [[Spells/Breathe Fire|Breathe Fire]], [[Spells/Fear|Fear]]
-*   **2nd** [[Spells/Acid Arrow|Acid Arrow]], [[Spells/Resist Energy|Resist Energy]]
-*   **3rd** [[Spells/Fear|Fear]], [[Spells/Lightning Bolt|Lightning Bolt]]
-*   **4th** [[Spells/Fly|Fly]], [[Spells/Reflective Scales|Reflective Scales]]
-*   **5th** [[Spells/Cone of Cold|Cone of Cold]], [[Spells/Summon Dragon|Summon Dragon]]
-*   **6th** [[Spells/Dragon Form|Dragon Form]], [[Spells/Reflective Scales|Reflective Scales]], [[Spells/Summon Dragon|Summon Dragon]]
+*   **Cantrip** [[Gouging Claw|Gouging Claw]], [[Puff of Poison|Puff of Poison]]
+*   **1st** [[Breathe Fire|Breathe Fire]], [[3-Rules/Character Building/Spells/F/Fear|Fear]]
+*   **2nd** [[Acid Arrow|Acid Arrow]], [[Resist Energy|Resist Energy]]
+*   **3rd** [[3-Rules/Character Building/Spells/F/Fear|Fear]], [[Lightning Bolt|Lightning Bolt]]
+*   **4th** [[3-Rules/Character Building/Spells/F/Fly|Fly]], [[Reflective Scales|Reflective Scales]]
+*   **5th** [[Cone of Cold|Cone of Cold]], [[Summon Dragon|Summon Dragon]]
+*   **6th** [[Dragon Form|Dragon Form]], [[Reflective Scales|Reflective Scales]], [[Summon Dragon|Summon Dragon]]
 
 * * *
 

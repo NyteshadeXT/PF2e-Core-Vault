@@ -13,7 +13,7 @@ license: OGL
 ---
 # Linnorm's Sankeit
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[laminar]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[laminar]][[magical]]
 
 **Category** light; **Group** wood
 **Price** 22750 gp; 

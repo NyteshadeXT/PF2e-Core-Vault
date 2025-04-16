@@ -17,7 +17,7 @@ license: ORC
 ---
 # Constricting Meteor
 ## Item 8
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[backswing]][[3-Rules/trait_reference/disarm]][[magical|Magical]][[3-Rules/trait_reference/reach|Reach]] [[3-Rules/trait_reference/trip|Trip]] 
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[backswing]][[3-Rules/Trait Reference/D/disarm]][[magical|Magical]][[reach|Reach]] [[3-Rules/Trait Reference/T/trip|Trip]] 
 
 |  |  |
 | -- | -- |

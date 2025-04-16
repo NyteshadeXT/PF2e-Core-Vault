@@ -13,7 +13,7 @@ license: OGL
 ---
 # Charred Remains `pf2:0`
 ## Feat 9
-### [[3-Rules/trait_reference/fire]][[naari]][[spellshape]]
+### [[3-Rules/trait_reference/F/fire]][[naari]][[spellshape]]
 
 **Category** ancestry; 
 

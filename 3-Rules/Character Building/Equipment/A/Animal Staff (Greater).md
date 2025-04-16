@@ -15,7 +15,7 @@ license: ORC
 ---
 # Animal Staff (Greater)
 ## Item 8
-### [[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
+### [[magical|Magical]][[3-Rules/Trait Reference/S/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -34,10 +34,10 @@ This staff is topped with carved animal and monster heads. While wielding the st
 
 * * *
 
-*   **Cantrip** [[Spells/Know the Way|Know the Way]]
-*   **1st** [[Spells/Runic Body|Runic Body]] [[Spells/Summon Animal|Summon Animal]]
-*   **2nd** [[Spells/Animal Messenger|Animal Messenger]] [[Spells/Speak with Animals|Speak with Animals]] [[Spells/Summon Animal|Summon Animal]]
-*   **3rd** [[Spells/Animal Form|Animal Form]] [[Spells/Summon Animal|Summon Animal]]
+*   **Cantrip** [[Know the Way|Know the Way]]
+*   **1st** [[Runic Body|Runic Body]] [[Summon Animal|Summon Animal]]
+*   **2nd** [[Animal Messenger|Animal Messenger]] [[Speak with Animals|Speak with Animals]] [[Summon Animal|Summon Animal]]
+*   **3rd** [[Animal Form|Animal Form]] [[Summon Animal|Summon Animal]]
 
 * * *
 

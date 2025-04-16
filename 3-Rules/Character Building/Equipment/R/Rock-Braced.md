@@ -12,7 +12,7 @@ license: OGL
 ---
 # Rock-Braced
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[dwarf]][[magical]][[saggorak]]
+### [rare](rare.md "Rare Rarity Trait")[[dwarf]][[magical]][[saggorak]]
 
 
 **Price** 3000 gp; 

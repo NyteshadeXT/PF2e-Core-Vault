@@ -34,11 +34,11 @@ A _staff of the tempest_ is usually crafted from the wood of a tree struck by li
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Electric Arc|Electric Arc]]
-*   **1st** [[Spells/Hydraulic Push|Hydraulic Push]], [[Spells/Thunderstrike|Thunderstrike]]
-*   **2nd** [[Spells/Mist|Mist]], [[Spells/Resist Energy|Resist Energy]] (electricity only), [[Spells/Thunderstrike|Thunderstrike]]
-*   **3rd** [[Spells/Lightning Bolt|Lightning Bolt]], [[Spells/Wall of Wind|Wall of Wind]]
-*   **4th** [[Spells/Hydraulic Torrent|Hydraulic Torrent]], [[Spells/Lightning Bolt|Lightning Bolt]]
+*   **Cantrip** [[Electric Arc|Electric Arc]]
+*   **1st** [[Hydraulic Push|Hydraulic Push]], [[Thunderstrike|Thunderstrike]]
+*   **2nd** [[Mist|Mist]], [[Resist Energy|Resist Energy]] (electricity only), [[Thunderstrike|Thunderstrike]]
+*   **3rd** [[Lightning Bolt|Lightning Bolt]], [[Wall of Wind|Wall of Wind]]
+*   **4th** [[Hydraulic Torrent|Hydraulic Torrent]], [[Lightning Bolt|Lightning Bolt]]
 
 * * *
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Weapon Surge|Weapon Surge]]
+Granted by [[Weapon Surge|Weapon Surge]]
 
 On your next Strike with the weapon before the start of your next turn, you gain a +1 status bonus to the attack roll, the weapon deals additional spirit damage, and the Strike gains the sanctified trait.
 

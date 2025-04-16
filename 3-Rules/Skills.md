@@ -2,7 +2,7 @@
 Acrobatics measures your ability to perform tasks requiring coordination and grace. When you use the Escape basic action (page 416), you can use your Acrobatics modifier instead of your unarmed attack modifier. You can also use it for the basic actions Arrest a Fall (page 418) and Grab an Edge (page 418) instead of Reflex.
 
 #### BALANCE  `PF2:1`
-[Move](rules/trait_reference/move.md "Action & Ability Trait")  
+[Move](move.md "Action & Ability Trait")  
 
 **Requirements** You are in a square that contains a narrow surface, uneven ground, or another similar feature.
 
@@ -21,7 +21,7 @@ You move across a narrow surface or uneven ground, attempting an Acrobatics chec
 > **Legendary** razor’s edge, chunks of floor falling in midair
 
 #### TUMBLE THROUGH  `PF2:1`
-[Move](rules/trait_reference/move.md "Action & Ability Trait")  
+[Move](move.md "Action & Ability Trait")  
 
 You Stride up to your Speed. During this movement, you can try to move through the space of one enemy. Attempt an Acrobatics check against the enemy’s Reflex DC as soon as you try to enter its space. You can Tumble Through using Climb, Fly, Swim, or another action instead of Stride in the appropriate environment.
 
@@ -30,7 +30,7 @@ You Stride up to your Speed. During this movement, you can try to move through t
 
 ## Acrobatics Trained Actions
 #### MANEUVER IN FLIGHT `PF2:1`
-[Move](rules/trait_reference/move.md "Action & Ability Trait")  
+[Move](move.md "Action & Ability Trait")  
 
 **Requirements** You have a fly Speed.
 
@@ -47,7 +47,7 @@ You try a difficult maneuver while flying. Attempt an Acrobatics check. The GM d
 > Legendary fly through gale force winds
 
 #### SQUEEZE
-[Exploration](rules/trait_reference/exploration.md "Action & Ability Trait") [Move](rules/trait_reference/move.md "Action & Ability Trait")  
+[Exploration](exploration.md "Action & Ability Trait") [Move](move.md "Action & Ability Trait")  
 
 You contort yourself to squeeze through a space so small you can barely fit through. This action is for exceptionally small spaces; many tight spaces are difficult terrain (page 423) that you can move through more quickly and without a check.
 
@@ -70,7 +70,7 @@ You must be trained in Arcana to use it for the following general skill actions.
 - Learn a Spell (page 230) from the arcane tradition.
 
 #### BORROW AN ARCANE SPELL
-[Concentrate](rules/trait_reference/concentrate.md "Action & Ability Trait") [Exploration](rules/trait_reference/exploration.md "Action & Ability Trait") 
+[Concentrate](concentrate.md "Action & Ability Trait") [Exploration](exploration.md "Action & Ability Trait") 
 
 If you’re an arcane spellcaster who prepares spells, you can attempt to prepare a spell from someone else’s arcane spellbook, arcane witch familiar, or the like. The GM sets the DC for the check based on the spell’s rank and rarity; it’s typically a bit easier than Learning the Spell (page 230).
 
@@ -83,7 +83,7 @@ Athletics allows you to perform deeds of physical prowess. Most Athletics action
 Escape: When you use the Escape basic action (page 416), you can use your Athletics modifier instead of your unarmed attack modifier.
 
 #### CLIMB `PF2:1`
-[Move](rules/trait_reference/move.md "Action & Ability Trait")  
+[Move](move.md "Action & Ability Trait")  
 
 **Requirements** You have two hands free.
 
@@ -101,7 +101,7 @@ You attempt an Athletics check to move a maximum distance of 5 feet up, down, or
 > **Legendary** smooth surface
 
 #### FORCE OPEN `PF2:1`
-[Attack](rules/trait_reference/Attack.md "Combat Trait")  
+[attack](attack.md "Combat Trait")  
 
 Using your body, a lever, or some other tool, you attempt to forcefully open a door, window, container or heavy gate. With a high enough result, you can even smash through walls. Without a crowbar, prying something open takes a –2 item penalty to the Athletics check to Force Open.
 
@@ -117,7 +117,7 @@ Using your body, a lever, or some other tool, you attempt to forcefully open a d
 > **Legendary** stone or iron door
 
 #### GRAPPLE `PF2:1`
-[Attack](rules/trait_reference/Attack.md "Combat Trait")  
+[attack](attack.md "Combat Trait")  
 
 **Requirements** You have at least one free hand and your target is no more than one size larger than you.
 
@@ -144,7 +144,7 @@ You Stride, then attempt a DC 15 Athletics check to make a long jump in the dire
 - **Critical Failure** You make a normal horizontal Leap, then fall and land prone.
 
 #### REPOSITION `PF2:1`
-[Attack](rules/trait_reference/Attack.md "Combat Trait")  
+[attack](attack.md "Combat Trait")  
 
 **Requirements** You either have at least one hand free, or you’re grabbing or restraining the target. The target can’t be more than one size larger than you.
 
@@ -155,7 +155,7 @@ You muscle a creature or object around. Attempt an Athletics check against the t
 - **Critical Failure** The target can move you up to 5 feet as though it successfully Repositioned you.
 
 #### SHOVE `PF2:1`
-[Attack](rules/trait_reference/Attack.md "Combat Trait")  
+[attack](attack.md "Combat Trait")  
 
 **Requirements** You have at least one hand free. The target can’t be more than one size larger than you. You push a creature away from you. Attempt an Athletics check against your target’s Fortitude DC.
 
@@ -164,7 +164,7 @@ You muscle a creature or object around. Attempt an Athletics check against the t
 - **Critical Failure** You lose your balance, fall, and land prone.
 
 #### SWIM `PF2:1`
-[Move](rules/trait_reference/move.md "Action & Ability Trait")  
+[Move](move.md "Action & Ability Trait")  
 
 You attempt an Athletics check to move a maximum distance of 10 feet through water. The GM determines the DC based on the turbulence or danger of the water; in most instances of calm water, you get an automatic critical success. If your land Speed is 40 feet or higher, increase the maximum possible distance by 5 feet for every 20 feet of Speed above 20 feet.
 
@@ -182,7 +182,7 @@ If you end your turn in water and haven’t succeeded at a Swim action that turn
 > **Legendary** maelstrom, waterfall
 
 #### TRIP `PF2:1`
-[Attack](rules/trait_reference/Attack.md "Combat Trait")  
+[attack](attack.md "Combat Trait")  
 
 **Requirements** You have at least one hand free. Your target can’t be more than one size larger than you.
 
@@ -194,7 +194,7 @@ You try to knock a creature to the ground. Attempt an Athletics check against th
 
 ## Athletics Trained Action
 #### DISARM `PF2:1`
-[Attack](rules/trait_reference/Attack.md "Combat Trait")  
+[attack](attack.md "Combat Trait")  
 
 **Requirements** You have at least one hand free. The target can’t be more than one size larger than you.
 
@@ -209,7 +209,7 @@ You can use this skill to create and repair items. Even if you’re untrained, y
 - Recall Knowledge (page 231) about alchemical reactions, the value of items, engineering, unusual materials, and alchemical or mechanical creatures. The GM determines which creatures this applies to, but it usually includes constructs.
 
 #### REPAIR
-[Exploration](rules/trait_reference/exploration.md "Action & Ability Trait") [Manipulate](rules/trait_reference/manipulate.md "General Trait")
+[Exploration](exploration.md "Action & Ability Trait") [Manipulate](manipulate.md "General Trait")
 
 **Requirements** You are holding or wearing a repair toolkit (page 290).
 
@@ -224,7 +224,7 @@ You must be trained in Crafting to use it to Earn Income.
 - Earn Income (page 228) by crafting goods for the market.
 
 ## CRAFT
-[Downtime](rules/trait_reference/downtime.md "Action & Ability Trait") [Manipulate](rules/trait_reference/manipulate.md "General Trait")
+[Downtime](downtime.md "Action & Ability Trait") [Manipulate](manipulate.md "General Trait")
 
 You can make an item from raw materials. You need the Alchemical Crafting skill feat to create alchemical items and the Magical Crafting skill feat to create magic items.
 
@@ -259,7 +259,7 @@ If you want to Craft alchemical items or magic items, you need to select the ski
 > If Ezren’s Crafting check result were a 29 or higher, he’d have gotten a critical success. In that case, he’d reduce the remaining amount by 2 gp per day (the amount for a 6th-level expert), lowering the amount needed to complete the item after 13 additional days of work to 39 gp.
 
 ##  IDENTIFY ALCHEMY
-[Concentrate](rules/trait_reference/concentrate.md "Action & Ability Trait") [Exploration](rules/trait_reference/exploration.md "Action & Ability Trait") [Secret](rules/trait_reference/secret.md "General Trait")
+[Concentrate](concentrate.md "Action & Ability Trait") [Exploration](exploration.md "Action & Ability Trait") [Secret](rules/trait_reference/secret.md "General Trait")
 
 **Requirements** You are holding or wearing an alchemist’s toolkit (page 287).
 
@@ -273,7 +273,7 @@ You can identify the nature of an alchemical item with 10 minutes of testing usi
 You can trick and mislead others using disguises, lies, and other forms of subterfuge. Deception often has a drawback if you get found out, and it’s often best to be out of town by the time this happens.
 
 #### CREATE A DIVERSION `PF2:1`
-[Mental](rules/trait_reference/mental.md "Effect Trait")
+[Mental](3-Rules/trait_reference/M/mental.md "Effect Trait")
 
 With a gesture, a trick, or some distracting words, you can create a diversion that draws creatures’ attention elsewhere. If you use a gesture or trick, this action gains the manipulate trait. If you use distracting words, it gains the auditory and linguistic traits.
 
@@ -283,7 +283,7 @@ Attempt a single Deception check and compare it to the Perception DCs of the cre
 - **Failure** You don’t divert the attention of any creatures whose Perception DC exceeds your result, and those creatures are aware you were trying to trick them.
 
 #### IMPERSONATE
-[Concentrate](rules/trait_reference/concentrate.md "Action & Ability Trait") [Exploration](rules/trait_reference/exploration.md "Action & Ability Trait") [Manipulate](rules/trait_reference/manipulate.md "General Trait") [Secret](rules/trait_reference/secret.md "General Trait")
+[Concentrate](concentrate.md "Action & Ability Trait") [Exploration](exploration.md "Action & Ability Trait") [Manipulate](manipulate.md "General Trait") [Secret](rules/trait_reference/secret.md "General Trait")
 
 You create a disguise to pass yourself off as someone or something you are not. Assembling a convincing disguise takes 10 minutes and requires a disguise kit (found on page 288), but a simpler, quicker disguise might do the job if you’re not trying to imitate a specific individual, at the GM’s discretion.
 
@@ -296,7 +296,7 @@ If you’re disguised as a specific individual, the GM might give creatures you 
 - **Critical Failure** The creature can tell you’re not who you claim to be, and it recognizes you if it would know you without a disguise.
 
 #### LIE
-[Auditory](rules/trait_reference/Auditory.md "Effect Trait") [Concentrate](rules/trait_reference/concentrate.md "Action & Ability Trait") [Linguistic](rules/trait_reference/linguistic.md "Effect Trait") [Mental](rules/trait_reference/mental.md "Effect Trait") [Secret](rules/trait_reference/secret.md "General Trait")
+[auditory](auditory.md "Effect Trait") [Concentrate](concentrate.md "Action & Ability Trait") [Linguistic](linguistic.md "Effect Trait") [Mental](3-Rules/trait_reference/M/mental.md "Effect Trait") [Secret](rules/trait_reference/secret.md "General Trait")
 
 You try to fool someone with an untruth. Doing so takes at least 1 round, or longer if the lie is elaborate. You roll a single Deception check and compare it against the Perception DC of every creature you are trying to fool. The GM might give them a circumstance bonus based on the situation and the nature of the lie you are trying to tell. Elaborate or highly unbelievable lies are much harder to get a creature to believe than simpler and more believable lies, and some lies are so big that it’s impossible to get anyone to believe them.
 
@@ -307,7 +307,7 @@ At the GM’s discretion, if a creature initially believes your lie, it might at
 
 ## Deception Trained Action
 #### FEINT `PF2:1`
-[Mental](rules/trait_reference/mental.md "Effect Trait")
+[Mental](3-Rules/trait_reference/M/mental.md "Effect Trait")
 
 **Requirements** You are within melee reach of the target you attempt to Feint.
 
@@ -321,7 +321,7 @@ With a misleading flourish, you leave an opponent unpreparedfor your real attack
 You influence others through negotiation and flattery, or find out information through friendly chats.
 
 #### GATHER INFORMATION
-[Exploration](rules/trait_reference/exploration.md "Action & Ability Trait") [Secret](rules/trait_reference/secret.md "General Trait")
+[Exploration](exploration.md "Action & Ability Trait") [Secret](rules/trait_reference/secret.md "General Trait")
 
 You canvass local markets, taverns, and gathering places in an attempt to learn about a specific individual or topic. The GM determines the DC of the check and the amount of time it takes (typically 2 hours, but sometimes more), along with any benefit you might be able to gain by spending coin on bribes, drinks, or gifts.
 
@@ -336,7 +336,7 @@ You canvass local markets, taverns, and gathering places in an attempt to learn 
 > **Legendary** information known only to an incredibly select few, or only to extraordinary beings
 
 #### MAKE AN IMPRESSION
-[Auditory](rules/trait_reference/Auditory.md "Effect Trait") [Concentrate](rules/trait_reference/concentrate.md "Action & Ability Trait") [Exploration](rules/trait_reference/exploration.md "Action & Ability Trait") [Linguistic](rules/trait_reference/linguistic.md "Effect Trait") [Mental](rules/trait_reference/mental.md "Effect Trait") 
+[auditory](auditory.md "Effect Trait") [Concentrate](concentrate.md "Action & Ability Trait") [Exploration](exploration.md "Action & Ability Trait") [Linguistic](linguistic.md "Effect Trait") [Mental](3-Rules/trait_reference/M/mental.md "Effect Trait") 
 
 With at least 1 minute of conversation, during which you engage in charismatic overtures, flattery, and other acts of goodwill, you seek to make a good impression on someone to make them temporarily agreeable. At the end of the conversation, attempt a Diplomacy check against the Will DC of one target. You can instead choose up to five targets if you take a –2 penalty. The GM might add other bonuses or penalties based on the situation. Any impression you make lasts for only the current social interaction unless the GM decides otherwise. See the Changing Attitudes sidebar for a summary of the attitude conditions.
 
@@ -345,7 +345,7 @@ With at least 1 minute of conversation, during which you engage in charismatic o
 - **Critical Failure** The target’s attitude toward you decreases by one step.
 
 #### REQUEST `PF2:1`
-[Auditory](rules/trait_reference/Auditory.md "Effect Trait") [Concentrate](rules/trait_reference/concentrate.md "Action & Ability Trait") [Linguistic](rules/trait_reference/linguistic.md "Effect Trait") [Mental](rules/trait_reference/mental.md "Effect Trait") 
+[auditory](auditory.md "Effect Trait") [Concentrate](concentrate.md "Action & Ability Trait") [Linguistic](linguistic.md "Effect Trait") [Mental](3-Rules/trait_reference/M/mental.md "Effect Trait") 
 
 You can make a request of a creature that’s friendly or helpful to you. You must couch the request in terms that the target would accept given their current attitude toward you. The GM sets the DC based on the difficulty of the request. Some requests are unsavory or impossible, and even a helpful NPC would never agree to them.
 
@@ -358,7 +358,7 @@ You can make a request of a creature that’s friendly or helpful to you. You mu
 You bend others to your will using threats. Unlike Deception or Diplomacy, Intimidation is typically a blunt instrument with little room for nuance or care.
 
 #### COERCE
-[Auditory](rules/trait_reference/Auditory.md "Effect Trait") [Concentrate](rules/trait_reference/concentrate.md "Action & Ability Trait") [Emotion](rules/trait_reference/emotion.md "Effect Trait") [Exploration](rules/trait_reference/exploration.md "Action & Ability Trait") [Linguistic](rules/trait_reference/linguistic.md "Effect Trait") [Mental](rules/trait_reference/mental.md "Effect Trait") 
+[auditory](auditory.md "Effect Trait") [Concentrate](concentrate.md "Action & Ability Trait") [Emotion](emotion.md "Effect Trait") [Exploration](exploration.md "Action & Ability Trait") [Linguistic](linguistic.md "Effect Trait") [Mental](3-Rules/trait_reference/M/mental.md "Effect Trait") 
 
 With threats either veiled or overt, you attempt to bully a creature into doing what you want. You must spend at least 1 minute of conversation with the creature. At the end of the conversation, attempt an Intimidation check against the target’s Will DC, modified by any circumstances the GM determines. (The attitudes referenced in the effects below are summarized in the Changing Attitudes sidebar on page 239 and described in full in the Conditions Appendix, starting on page 442.)
 
@@ -368,7 +368,7 @@ With threats either veiled or overt, you attempt to bully a creature into doing 
 - **Critical Failure** The target refuses to comply, becomes hostile if they weren’t already, and is temporarily immune to your Coercion for at least 1 week.
 
 #### DEMORALIZE `PF2:1`
-[Auditory](rules/trait_reference/Auditory.md "Effect Trait") [Concentrate](rules/trait_reference/concentrate.md "Action & Ability Trait") [Emotion](rules/trait_reference/emotion.md "Effect Trait") [Fear](rules/trait_reference/fear.md "Effect Trait") [Mental](rules/trait_reference/mental.md "Effect Trait")
+[auditory](auditory.md "Effect Trait") [Concentrate](concentrate.md "Action & Ability Trait") [Emotion](emotion.md "Effect Trait") [Fear](3-Rules/trait_reference/F/fear.md "Effect Trait") [Mental](3-Rules/trait_reference/M/mental.md "Effect Trait")
 
 With a sudden shout, a well-timed taunt, or a cutting put‑down, you can shake an enemy’s resolve. Choose a creature within 30 feet of you who you’re aware of. Attempt an Intimidation check against that target’s Will DC. If the target doesn’t understand the language you are speaking, or you’re not speaking a language, you take a –4 circumstance penalty to the check. Regardless of your result, the target is temporarily immune to your attempts to Demoralize it for 10 minutes.
 
@@ -396,7 +396,7 @@ Even if you’re untrained in Medicine, you can use it to Recall Knowledge.
 - Recall Knowledge (page 231) about diseases, injuries, poisons, and other ailments. You can use this to perform forensic examinations if you spend 10 minutes (or more, as determined by the GM) checking for evidence such as wound patterns. This is most useful when determining how a body was injured or killed.
 
 #### ADMINISTER FIRST AID `PF2:2`
-[Manipulate](rules/trait_reference/manipulate.md "General Trait")
+[Manipulate](manipulate.md "General Trait")
 
 **Requirements** You’re wearing or holding a healer’s toolkit (page 288).
 
@@ -409,7 +409,7 @@ You perform first aid on an adjacent creature that is dying or bleeding. If a cr
 
 ## Medicine Trained Actions
 #### TREAT DISEASE
-[Downtime](rules/trait_reference/downtime.md "Action & Ability Trait") [Manipulate](rules/trait_reference/manipulate.md "General Trait")
+[Downtime](downtime.md "Action & Ability Trait") [Manipulate](manipulate.md "General Trait")
 
 **Requirements** You’re wearing or holding a healer’s toolkit (page 288).
 
@@ -420,7 +420,7 @@ You spend at least 8 hours caring for a diseased creature. Attempt a Medicine ch
 - **Critical Failure** Your efforts cause the creature to take a –2 circumstance penalty to its next save against the disease.
 
 #### TREAT POISON `PF2:1`
-[Manipulate](rules/trait_reference/manipulate.md "General Trait")
+[Manipulate](manipulate.md "General Trait")
 
 **Requirements** You’re wearing or holding a healer’s toolkit (page 288).
 
@@ -431,7 +431,7 @@ You treat a patient to prevent the spread of poison. Attempt a Medicine check ag
 - **Critical Failure** Your efforts cause the creature to take a –2 circumstance penalty to its next save against the poison.
 
 #### TREAT WOUNDS
-[Exploration](rules/trait_reference/exploration.md "Action & Ability Trait") [Healing](rules/trait_reference/Healing.md "Effect Trait") [Manipulate](rules/trait_reference/manipulate.md "General Trait")
+[Exploration](exploration.md "Action & Ability Trait") [healing](healing.md "Effect Trait") [Manipulate](manipulate.md "General Trait")
 
 **Requirements** You’re wearing or holding a healer’s toolkit (page 288).
 
@@ -449,7 +449,7 @@ You know about the natural world, and you command and train animals and magical 
 - Recall Knowledge about fauna, flora, geography, weather, the environment, creatures of natural origin (like animals, beasts, fey, and plants), the First World, and the Elemental Planes.
 
 #### COMMAND AN ANIMAL `PF2:1`
-[Auditory](rules/trait_reference/Auditory.md "Effect Trait") [Concentrate](rules/trait_reference/concentrate.md "Action & Ability Trait")
+[auditory](auditory.md "Effect Trait") [Concentrate](concentrate.md "Action & Ability Trait")
 
 You issue an order to an animal. Attempt a Nature check against the animal’s Will DC. The GM might adjust the DC if the animal has a good attitude toward you, you suggest a course of action it was predisposed toward, or you offer it a treat.
 
@@ -506,7 +506,7 @@ If you want to be particularly skilled with one type of performance, you can sel
 | Orate or sing         | Auditory and linguistic          | 
 
 #### PERFORM `PF2:1`
-[Concentrate](rules/trait_reference/concentrate.md "Action & Ability Trait")
+[Concentrate](concentrate.md "Action & Ability Trait")
 
 When making a brief performance—one song, a quick dance, or a few jokes—you use the Perform action. This action is most useful when you want to prove your capability or impress someone quickly. Performing rarely has an impact on its own, but it might influence the DCs of subsequent Diplomacy checks against the observers, or even change their attitudes if the GM sees fit.
 
@@ -546,7 +546,7 @@ You must be trained in Society to use it to Decipher Writing.
 -  Decipher Writing (page 228) that’s a coded message, text written in an incomplete or archaic form, or in some cases, text in a language you don’t know.
 
 #### CREATE FORGERY
-[Downtime](rules/trait_reference/downtime.md "Action & Ability Trait")  [Secret](rules/trait_reference/secret.md "General Trait")
+[Downtime](downtime.md "Action & Ability Trait")  [Secret](rules/trait_reference/secret.md "General Trait")
 
 **Requirements** You provide the proper writing materials for your forgery.
 
@@ -559,7 +559,7 @@ You create a forged document, usually over the course of a day or a week. The GM
 You are skilled at avoiding detection, allowing you to slip past foes, hide, or conceal an item.
 
 #### CONCEAL AN OBJECT `PF2:1`
-[Manipulate](rules/trait_reference/manipulate.md "General Trait") [Secret](rules/trait_reference/secret.md "General Trait")
+[Manipulate](manipulate.md "General Trait") [Secret](rules/trait_reference/secret.md "General Trait")
 
 You hide a small object on your person (such as a weapon of light Bulk). When you try to sneak a concealed object past someone who might notice it, the GM rolls your Stealth check and compares it to this passive observer’s Perception DC. Once the GM rolls your check for a concealed object, that same result is used no matter how many passive observers you try to sneak it past. If a creature is specifically searching you for an item, it can attempt a Perception check against your Stealth DC (finding the object on success).
 
@@ -576,7 +576,7 @@ You huddle behind cover or greater cover or deeper into concealment to become hi
 **Success** If the creature could see you, you’re now hidden from it instead of observed. If you were hidden from or undetected by the creature, you retain that condition. If you successfully become hidden to a creature but then cease to have cover or greater cover against it or be concealed from it, you become observed again. You cease being hidden if you do anything except Hide, Sneak, or Step. If you attempt to Strike a creature, the creature remains off-guard against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise. The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth check. If a creature uses Seek to make you observed by it, you must successfully Hide to become hidden from it again.
 
 #### SNEAK `PF2:1`
-[Move](rules/trait_reference/move.md "Action & Ability Trait") [Secret](rules/trait_reference/secret.md "General Trait")
+[Move](move.md "Action & Ability Trait") [Secret](rules/trait_reference/secret.md "General Trait")
 
 You attempt to move to another place while becoming or staying undetected. Stride up to half your Speed. (You can use Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type; you must move at half that Speed.)
 
@@ -591,7 +591,7 @@ You are adept at living in the wilderness, foraging for food and building shelte
 - Subsist (page 232) in the wild by foraging for food and building shelter.
 
 #### SENSE DIRECTION
-[Exploration](rules/trait_reference/exploration.md "Action & Ability Trait") [Secret](rules/trait_reference/secret.md "General Trait")
+[Exploration](exploration.md "Action & Ability Trait") [Secret](rules/trait_reference/secret.md "General Trait")
 
 Using the stars, the position of the sun, traits of the geography or flora, or the behavior of fauna, you can stay oriented in the wild. Typically, you attempt a Survival check only once per day, but some environments or changes might necessitate rolling more often. The GM determines the DC and how long this activity takes (usually just a minute or so). More unusual locales or those you’re unfamiliar with might require you to have a minimum proficiency rank to Sense Direction. Without a compass, you take a –2 item penalty to checks to Sense Direction.
 
@@ -607,13 +607,13 @@ Using the stars, the position of the sun, traits of the geography or flora, or t
 
 ## Survival Trained Actions
 #### COVER TRACKS
-[Concentrate](rules/trait_reference/concentrate.md "Action & Ability Trait") [Exploration](rules/trait_reference/exploration.md "Action & Ability Trait") [Move](rules/trait_reference/move.md "Action & Ability Trait")
+[Concentrate](concentrate.md "Action & Ability Trait") [Exploration](exploration.md "Action & Ability Trait") [Move](move.md "Action & Ability Trait")
 You cover your tracks, moving up to half your travel Speed, using the rules on page 438. You don’t need to attempt a Survival check to cover your tracks, but anyone tracking you must succeed at a Survival check against your Survival DC if it is higher than the normal DC to Track.
 
 In some cases, you might Cover Tracks in an encounter. In this case, Cover Tracks is a single action and doesn’t have the exploration trait.
 
 #### TRACK
-[Concentrate](rules/trait_reference/concentrate.md "Action & Ability Trait") [Exploration](rules/trait_reference/exploration.md "Action & Ability Trait") [Move](rules/trait_reference/move.md "Action & Ability Trait")
+[Concentrate](concentrate.md "Action & Ability Trait") [Exploration](exploration.md "Action & Ability Trait") [Move](move.md "Action & Ability Trait")
 
 You follow tracks, moving at up to half your travel Speed, using the rules on page 438. After a successful check to Track, you can continue following the tracks at half your Speed without attempting additional checks for up to 1 hour.
 
@@ -636,14 +636,14 @@ You attempt your Survival check when you start Tracking, once every hour you con
 You are trained in a particular set of skills favored by thieves and miscreants.
 
 #### PALM AN OBJECT `PF2:1`
-[Manipulate](rules/trait_reference/manipulate.md "General Trait")
+[Manipulate](manipulate.md "General Trait")
 You pick up a small, unattended object and try not to be noticed. Roll a single Thievery check against the Perception DCs of all creatures who are currently observing you. You can typically only Palm Objects of negligible Bulk, though the GM might determine otherwise depending on the situation.
 
 - **Success** The creature doesn’t notice you Palming the Object.
 - **Failure** The creature notices you Palming the Object.
 
 #### STEAL `PF2:1`
-[Manipulate](rules/trait_reference/manipulate.md "General Trait")
+[Manipulate](manipulate.md "General Trait")
 
 You try to take a small object from another creature without being noticed. Typically, you can Steal only an object of negligible Bulk, and you automatically fail if the creature who has the object is in combat or on guard.
 
@@ -656,7 +656,7 @@ You might also need to compare your Thievery check result against the Perception
 
 ## Thievery Trained Actions
 #### DISABLE A DEVICE `PF2:2`
-[Manipulate](rules/trait_reference/manipulate.md "General Trait")
+[Manipulate](manipulate.md "General Trait")
 
 This action allows you to disarm a trap or another complex device. Often, a device requires numerous successes before becoming disabled, depending on its construction and complexity. A thieves’ toolkit is helpful and sometimes even required to Disable a Device, as determined by the GM, and sometimes a device requires a higher proficiency rank in Thievery to disable it.
 
@@ -666,7 +666,7 @@ Your Thievery check result determines your progress.
 - **Critical Failure** You trigger the device.
 
 #### PICK A LOCK `PF2:2`
-[Manipulate](rules/trait_reference/manipulate.md "General Trait")
+[Manipulate](manipulate.md "General Trait")
 
 Requirements You’re holding or wearing a thieves’ toolkit (page 292).
 

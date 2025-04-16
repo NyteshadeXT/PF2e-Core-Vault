@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-This still-bloody rib was taken from a priest of Urgathoa at the moment they passed into undeath and has a constant stench of decay. The first time any creature critically fails its saving throw against a [[Spells/Mask of Terror|Mask of Terror]] spell cast using this catalyst, it also takes 6d10 mental damage, with a basic Fortitude save against the spell's DC, as it lives through the memory of having its rib torn from its body. A creature who critically fails against this safe is killed instantly. This effect has the incapacitation trait.
+This still-bloody rib was taken from a priest of Urgathoa at the moment they passed into undeath and has a constant stench of decay. The first time any creature critically fails its saving throw against a [[Mask of Terror|Mask of Terror]] spell cast using this catalyst, it also takes 6d10 mental damage, with a basic Fortitude save against the spell's DC, as it lives through the memory of having its rib torn from its body. A creature who critically fails against this safe is killed instantly. This effect has the incapacitation trait.
 
 Once any creature takes this damage, the defiled costa's effect ends, and no other creatures take the damage, even if they critically fail.
 

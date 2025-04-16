@@ -15,7 +15,7 @@ license: OGL
 ---
 # Bec de Corbin
 ## Item 0
-### [[razing]][[3-Rules/trait_reference/reach|Reach]] [[3-Rules/trait_reference/shove]][[versatile-b]]
+### [[razing]][[reach|Reach]] [[3-Rules/Trait Reference/S/shove]][[versatile-b]]
 
 |  |  |
 | -- | -- |

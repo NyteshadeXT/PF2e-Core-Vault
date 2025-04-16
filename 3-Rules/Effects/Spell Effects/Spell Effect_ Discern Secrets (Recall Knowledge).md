@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Discern Secrets|Discern Secrets]], if you pick Recall Knowledge.
+Granted by [[Discern Secrets|Discern Secrets]], if you pick Recall Knowledge.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

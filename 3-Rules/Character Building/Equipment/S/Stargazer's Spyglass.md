@@ -27,7 +27,7 @@ This ornate spyglass has a brass tube inscribed with constellations and green-ti
 
 * * *
 
-**Effect** You set your eye upon a star and think of someone to cast [[Spells/Guiding Star|Guiding Star]].
+**Effect** You set your eye upon a star and think of someone to cast [[3-Rules/Character Building/Spells/G/Guiding Star|Guiding Star]].
 
 *Source: Pathfinder #188: They Watched the Stars*
 *OGL*

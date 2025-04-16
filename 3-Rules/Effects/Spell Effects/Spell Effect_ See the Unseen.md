@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/See the Unseen|See the Unseen]]
+Granted by [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]]
 
 You can see invisible creatures as though they weren't invisible, although their features are blurred, making them [[Conditions/Concealed|Concealed]] and difficult to identify. You also gain a +2 status bonus to checks you make to disbelieve illusions.
 

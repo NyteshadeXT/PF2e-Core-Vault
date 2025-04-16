@@ -16,7 +16,7 @@ license: OGL
 ---
 # Owlbear Egg
 ## Item 7
-### [[alchemical]][[auditory]][[consumable]][[emotion]][[fear]][[3-Rules/trait_reference/mental]]
+### [[alchemical]][[auditory]][[consumable]][[emotion]][[3-Rules/Trait Reference/F/fear]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** other; 
 **Price** 60 gp; 

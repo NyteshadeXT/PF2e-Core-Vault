@@ -11,7 +11,7 @@ license: OGL
 ---
 # Stag's Helm
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 240 gp; 

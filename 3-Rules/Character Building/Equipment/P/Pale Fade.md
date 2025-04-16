@@ -14,7 +14,7 @@ license: OGL
 ---
 # Pale Fade
 ## Item 19
-### [[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 6000 gp; 

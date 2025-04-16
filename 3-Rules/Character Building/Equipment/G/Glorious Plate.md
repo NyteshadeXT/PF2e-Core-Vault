@@ -14,7 +14,7 @@ license: OGL
 ---
 # Glorious Plate
 ## Item 14
-### [rare](rare "Rare Rarity Trait")[[bulwark]][[invested]][[3-Rules/trait_reference/light]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[bulwark]][[invested]][[3-Rules/Trait Reference/L/light]][[magical]]
 
 **Category** heavy; **Group** plate
 **Price** 4500 gp; 
@@ -35,7 +35,7 @@ In battle, _glorious plate_ sheds bright light in a 10-foot radius, which enemie
 
 **Activate** `pf2:2` command, Interact
 
-**Effect** The armor casts [[Spells/Sanctuary|Sanctuary]] on you.
+**Effect** The armor casts [[Sanctuary|Sanctuary]] on you.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

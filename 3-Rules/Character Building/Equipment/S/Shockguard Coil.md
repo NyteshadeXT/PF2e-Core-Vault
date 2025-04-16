@@ -13,7 +13,7 @@ license: OGL
 ---
 # Shockguard Coil
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 175 gp; 

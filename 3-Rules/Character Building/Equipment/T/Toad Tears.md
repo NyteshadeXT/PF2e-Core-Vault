@@ -14,7 +14,7 @@ license: OGL
 ---
 # Toad Tears
 ## Item 2
-### [[alchemical]][[consumable]][[ingested]][[3-Rules/trait_reference/poison]]
+### [[alchemical]][[consumable]][[ingested]][[3-Rules/trait_reference/P/poison]]
 
 **Category** poison; 
 **Price** 6 gp; 

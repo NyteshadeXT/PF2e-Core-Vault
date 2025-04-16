@@ -10,7 +10,7 @@ license: OGL
 ---
 # Pillow Shield
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 80 gp; 
@@ -33,7 +33,7 @@ The shield's blue enameled face is cool to the touch, and displays the moon's cu
 
 * * *
 
-**Effect** The shield creates an area of vigilance. It casts [[Spells/Alarm|Alarm]] centered on itself; you decide whether it creates a mental alarm or an audible alarm. The alarm goes off at the end of the spell's duration or when triggered as normal, whichever comes first.
+**Effect** The shield creates an area of vigilance. It casts [[Alarm|Alarm]] centered on itself; you decide whether it creates a mental alarm or an audible alarm. The alarm goes off at the end of the spell's duration or when triggered as normal, whichever comes first.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

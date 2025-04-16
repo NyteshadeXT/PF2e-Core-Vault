@@ -10,6 +10,6 @@ tags:
 # Dreams Domain
 **Deities** [[Deities/Desna|Desna]], [[Deities/Imbrex|Imbrex]], [[Deities/Luhar|Luhar]], [[Deities/Xhamen-Dor|Xhamen-Dor]]
 
-**Domain Spell** [[Spells/Sweet Dream|Sweet Dream]]; **Advanced Domain Spell** [[Spells/Dreamer's Call|Dreamer's Call]]
+**Domain Spell** [[Sweet Dream|Sweet Dream]]; **Advanced Domain Spell** [[Dreamer's Call|Dreamer's Call]]
 
 You have the power to enter and manipulate dreams.

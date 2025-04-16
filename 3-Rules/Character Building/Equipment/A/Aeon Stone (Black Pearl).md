@@ -18,7 +18,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** worn
 
-This black pearl sparkles with light. The resonant power allows you to cast [[Spells/Sending|Sending]] once per day.
+This black pearl sparkles with light. The resonant power allows you to cast [[Sending|Sending]] once per day.
 
 * * *
 

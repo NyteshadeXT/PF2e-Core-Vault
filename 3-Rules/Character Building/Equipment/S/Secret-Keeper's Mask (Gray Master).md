@@ -11,7 +11,7 @@ license: OGL
 ---
 # Secret-Keeper's Mask (Gray Master)
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 150 gp; 

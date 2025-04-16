@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Call to Arms|Call to Arms]].
+Granted by [[Call to Arms|Call to Arms]].
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

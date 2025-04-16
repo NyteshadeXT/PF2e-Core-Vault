@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Dutiful Challenge|Dutiful Challenge]]
+Granted by [[Dutiful Challenge|Dutiful Challenge]]
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

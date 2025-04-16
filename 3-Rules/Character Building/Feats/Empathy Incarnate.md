@@ -11,7 +11,7 @@ license: OGL
 ---
 # Empathy Incarnate
 ## Feat 5
-### [rare](rare "Rare Rarity Trait")[[reincarnated]]
+### [rare](rare.md "Rare Rarity Trait")[[reincarnated]]
 
 **Category** ancestry; 
 

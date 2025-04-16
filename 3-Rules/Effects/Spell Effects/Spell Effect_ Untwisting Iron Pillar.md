@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Untwisting Iron Pillar|Untwisting Iron Pillar]]
+Granted by [[Untwisting Iron Pillar|Untwisting Iron Pillar]]
 
 You gain 50 temporary Hit Points that last for the duration or until you lose them, as well as resistance 5 to all physical damage (except adamantine).
 

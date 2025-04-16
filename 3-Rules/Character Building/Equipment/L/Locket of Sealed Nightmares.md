@@ -12,7 +12,7 @@ license: OGL
 ---
 # Locket of Sealed Nightmares
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[illusion]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[illusion]][[invested]][[magical]]
 
 
 **Price** 36000 gp; 
@@ -31,7 +31,7 @@ Each time dawn occurs, you regain the ability to make your daily preparations as
 
 * * *
 
-**Effect** You open the locket to unleash the dreams it has kept at bay. You become fatigued and cast one of the following spells at 9th rank (DC 41): [[Spells/Hallucination|Hallucination]], [[Spells/Sleep|Sleep]], or [[Spells/Weird|Weird]].
+**Effect** You open the locket to unleash the dreams it has kept at bay. You become fatigued and cast one of the following spells at 9th rank (DC 41): [[Hallucination|Hallucination]], [[3-Rules/Character Building/Spells/S/Sleep|Sleep]], or [[Weird|Weird]].
 
 *Source: Pathfinder #156: The Apocalypse Prophet*
 *OGL*

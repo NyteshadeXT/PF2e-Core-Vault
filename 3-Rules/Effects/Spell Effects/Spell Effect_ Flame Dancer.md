@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Flame Dancer|Flame Dancer]]
+Granted by [[Flame Dancer|Flame Dancer]]
 
 The target's unarmed Strikes deal additional fire damage. Critical hits with these Strikes also deal persistent fire damage.
 

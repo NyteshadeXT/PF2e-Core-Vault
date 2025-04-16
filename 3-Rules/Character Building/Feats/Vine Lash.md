@@ -15,7 +15,7 @@ license: ORC
 ---
 # Vine Lash `pf2:1`
 ## Feat 2
-### [rare](rare "Rare Rarity Trait")[[attack]][[deviant]][[magical]][[plant]]
+### [rare](rare.md "Rare Rarity Trait")[[attack]][[deviant]][[magical]][[plant]]
 
 **Category** class; 
 

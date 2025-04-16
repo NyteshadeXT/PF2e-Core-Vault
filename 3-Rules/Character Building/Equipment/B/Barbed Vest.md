@@ -22,7 +22,7 @@ license: OGL
 
 Viciously sharp spiked chains wrap around this [[Studded Leather Armor|Studded Leather Armor]] that can be used to magically harm the wearer and channel supernatural abilities without somehow tearing at the leather itself.
 
-The barbed vest doesn't fuse to you in the usual way. It can be removed and discarded, but 1 day after doing so, you feel driven to recollect the vest at any cost until the curse is removed with a [[Spells/Cleanse Affliction|Cleanse Affliction]] spell.
+The barbed vest doesn't fuse to you in the usual way. It can be removed and discarded, but 1 day after doing so, you feel driven to recollect the vest at any cost until the curse is removed with a [[Cleanse Affliction|Cleanse Affliction]] spell.
 
 Anytime you activate the barbed vest, its chains tighten around you, dealing 1d6 persistent piercing damage. You can remove this persistent damage as normal, but only after deactivating the item's magic as a single action.
 
@@ -32,7 +32,7 @@ Anytime you activate the barbed vest, its chains tighten around you, dealing 1d6
 
 * * *
 
-**Effect** The barbed vest casts [[Spells/Spiritual Weapon|Spiritual Weapon]], summoning a [[Spiked Chain|Spiked Chain]] to fight for you.
+**Effect** The barbed vest casts [[Spiritual Weapon|Spiritual Weapon]], summoning a [[Spiked Chain|Spiked Chain]] to fight for you.
 
 *Source: Pathfinder #159: All or Nothing*
 *OGL*

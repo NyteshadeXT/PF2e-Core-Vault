@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-You turn into vapor, gaining the effects of [[Spells/Vapor Form|Vapor Form]].
+You turn into vapor, gaining the effects of [[Vapor Form|Vapor Form]].
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

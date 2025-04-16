@@ -29,7 +29,7 @@ Each description lists the school of each Varisian emblem, and the tattoo has th
 
 * * *
 
-**Effect** The tattoo casts [[Spells/Liberating Command|Liberating Command]].
+**Effect** The tattoo casts [[Liberating Command|Liberating Command]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

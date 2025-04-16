@@ -16,7 +16,7 @@ license: ORC
 ---
 # Grovel `pf2:1`
 ## Feat 5
-### [[auditory]][[concentrate]][[emotion]][[kobold]][[3-Rules/trait_reference/mental]]
+### [[auditory]][[concentrate]][[emotion]][[kobold]][[3-Rules/trait_reference/M/mental]]
 
 **Category** ancestry; 
 

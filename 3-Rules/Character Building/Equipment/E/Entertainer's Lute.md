@@ -12,7 +12,7 @@ license: OGL
 ---
 # Entertainer's Lute
 ## Item 4
-### [[coda]][[3-Rules/trait_reference/occult|Occult]][[3-Rules/trait_reference/staff|Staff]]
+### [[coda]][[occult|Occult]][[3-Rules/Trait Reference/S/staff|Staff]]
 
 
 **Price** 90 gp; 
@@ -29,8 +29,8 @@ This lustrous lute has a polished body that changes to show whatever decorations
 
 **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Infectious Enthusiasm|Infectious Enthusiasm]]
-*   **1st** [[Spells/Bless|Bless]], [[Spells/Ventriloquism|Ventriloquism]]
+*   **Cantrip** [[Infectious Enthusiasm|Infectious Enthusiasm]]
+*   **1st** [[Bless|Bless]], [[Ventriloquism|Ventriloquism]]
 
 * * *
 

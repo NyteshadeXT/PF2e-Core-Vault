@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Time Mage Dedication
 * * *
-The secrets of time peel back, revealing deeper truths. You gain either the [[Spells/Stasis|Stasis]] domain spell or the [[Spells/Path of Least Resistance|Path of Least Resistance]] focus spell. Increase the number of Focus Points in your pool by 1.
+The secrets of time peel back, revealing deeper truths. You gain either the [[Stasis|Stasis]] domain spell or the [[Path of Least Resistance|Path of Least Resistance]] focus spell. Increase the number of Focus Points in your pool by 1.
 
 * * *
 

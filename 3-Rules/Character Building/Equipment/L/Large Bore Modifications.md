@@ -9,7 +9,7 @@ license: OGL
 ---
 # Large Bore Modifications
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 120 gp; 

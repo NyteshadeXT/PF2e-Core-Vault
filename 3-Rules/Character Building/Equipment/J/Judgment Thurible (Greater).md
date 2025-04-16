@@ -27,7 +27,7 @@ The golden religious symbol on the top of this spherical incense holder shifts i
 
 * * *
 
-**Effect** You cast [[Spells/Divine Lance|Divine Lance]].
+**Effect** You cast [[Divine Lance|Divine Lance]].
 
 **Activate** Cast a Spell
 
@@ -35,7 +35,7 @@ The golden religious symbol on the top of this spherical incense holder shifts i
 
 * * *
 
-**Effect** You cast 6th-rank [[Spells/Divine Wrath|Divine Wrath]].
+**Effect** You cast 6th-rank [[Divine Wrath|Divine Wrath]].
 
 **Activate** Cast a Spell
 
@@ -43,7 +43,7 @@ The golden religious symbol on the top of this spherical incense holder shifts i
 
 * * *
 
-**Effect** You cast [[Spells/Divine Decree|Divine Decree]].
+**Effect** You cast [[Divine Decree|Divine Decree]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

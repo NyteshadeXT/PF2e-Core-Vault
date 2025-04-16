@@ -40,7 +40,7 @@ The resonant power grants a separate activation.
 
 * * *
 
-**Effect** You gain the effect of a [[Spells/Void Warp|Void Warp]] arcane cantrip.
+**Effect** You gain the effect of a [[Void Warp|Void Warp]] arcane cantrip.
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

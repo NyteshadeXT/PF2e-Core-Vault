@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You tap into a bottomless hunger for carnage. You can cast [[Spells/Blood Vendetta|Blood Vendetta]] and [[Spells/Share Life|Share Life]] as 2nd-rank primal spells, each once per day.
+You tap into a bottomless hunger for carnage. You can cast [[Blood Vendetta|Blood Vendetta]] and [[3-Rules/Character Building/Spells/S/Share Life|Share Life]] as 2nd-rank primal spells, each once per day.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

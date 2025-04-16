@@ -14,7 +14,7 @@ license: OGL
 ---
 # Dominion Aura `pf2:2`
 ## Feat 17
-### [[aura]][[divine]][[3-Rules/trait_reference/force]][[nephilim]]
+### [[3-Rules/trait_reference/A/aura]][[divine]][[3-Rules/trait_reference/F/force]][[nephilim]]
 
 **Category** ancestry; 
 

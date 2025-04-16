@@ -15,7 +15,7 @@ license: ORC
 ---
 # Spiked Chain
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[finesse]][[trip]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/D/disarm]][[finesse]][[3-Rules/trait_reference/T/trip]]
 
 |  |  |
 | -- | -- |

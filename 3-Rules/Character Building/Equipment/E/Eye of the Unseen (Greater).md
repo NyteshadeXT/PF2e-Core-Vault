@@ -28,7 +28,7 @@ This prosthetic eye was designed by elven crafters but comes in a range of appea
 
 * * *
 
-**Effect** You focus on the eye to see the unseen. The eye casts 5th-rank [[Spells/See the Unseen|See the Unseen]] on you.
+**Effect** You focus on the eye to see the unseen. The eye casts 5th-rank [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]] on you.
 
 [[Equipment Effects/Effect_ Eye of the Unseen (Greater)|Effect: Eye of the Unseen (Greater)]]
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Orc Knuckle Dagger
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[disarm]][[orc]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[3-Rules/Trait Reference/D/disarm]][[orc]]
 
 |  |  |
 | -- | -- |

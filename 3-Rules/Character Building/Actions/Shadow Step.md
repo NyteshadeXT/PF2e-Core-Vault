@@ -12,7 +12,7 @@ license: OGL
 ---
 # Shadow Step `pf2:1`
 
-### [[3-Rules/trait_reference/shadow]][[teleportation]]
+### [[3-Rules/Trait Reference/S/shadow]][[teleportation]]
 
 **Category** interaction; 
 

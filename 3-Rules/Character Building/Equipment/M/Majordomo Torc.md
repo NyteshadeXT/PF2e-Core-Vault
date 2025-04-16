@@ -12,7 +12,7 @@ license: OGL
 ---
 # Majordomo Torc
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[intelligent]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[intelligent]][[invested]][[magical]]
 
 
 **Price** 200 gp; 
@@ -41,7 +41,7 @@ Upon being invested, the torc appoints itself your majordomo and, given the chan
 
 * * *
 
-**Effect** The majordomo torc casts [[Spells/Befitting Attire|Befitting Attire]] on you, usually to your specifications. However the torc can also choose the appearance of the illusion for you.
+**Effect** The majordomo torc casts [[Befitting Attire|Befitting Attire]] on you, usually to your specifications. However the torc can also choose the appearance of the illusion for you.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

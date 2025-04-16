@@ -14,7 +14,7 @@ license: OGL
 ---
 # Enlightened Presence
 ## Feat 16
-### [[aura]][[emotion]][[3-Rules/trait_reference/mental]][[monk]]
+### [[3-Rules/trait_reference/A/aura]][[emotion]][[3-Rules/trait_reference/M/mental]][[monk]]
 
 **Category** class; 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Repulsion Resin
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[ingested]][[3-Rules/trait_reference/poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[divine]][[ingested]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 1650 gp; 
@@ -41,7 +41,7 @@ This clear, tasteless tar causes the victim to emit waves of harmful mental ener
 
 * * *
 
-**Craft Requirements** Supply one casting of [[Spells/Repulsion|Repulsion]].
+**Craft Requirements** Supply one casting of [[Repulsion|Repulsion]].
 
 *Source: Pathfinder #160: Assault on Hunting Lodge Seven*
 *OGL*

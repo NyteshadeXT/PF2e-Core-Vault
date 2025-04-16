@@ -12,7 +12,7 @@ license: OGL
 ---
 # Entourage
 ## Feat 7
-### [rare](rare "Rare Rarity Trait")[[general]][[skill]]
+### [rare](rare.md "Rare Rarity Trait")[[general]][[skill]]
 
 **Category** skill; 
 

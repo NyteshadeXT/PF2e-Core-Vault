@@ -12,7 +12,7 @@ license: OGL
 ---
 # Mirror Robe
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[invested]][[magical]]
 
 
 **Price** 55 gp; 

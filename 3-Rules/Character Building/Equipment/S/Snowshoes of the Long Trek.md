@@ -10,7 +10,7 @@ license: OGL
 ---
 # Snowshoes of the Long Trek
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 550 gp; 

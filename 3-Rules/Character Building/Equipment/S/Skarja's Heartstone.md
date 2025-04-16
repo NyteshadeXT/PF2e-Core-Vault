@@ -11,20 +11,20 @@ license: OGL
 ---
 # Skarja's Heartstone
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[occult]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[occult]]
 
 
 **Price** 2500 gp; 
 **Bulk** 0; **Size** med
 **Usage** worn
 
-This pale gemstone grants its wearer a +2 item bonus to saving throws and the ability to discern a target's alignment (as [[Spells/Detect Alignment|Detect Alignment]], but can detect chaotic, evil, good, and lawful auras simultaneously) at will by peering through the gemstone.
+This pale gemstone grants its wearer a +2 item bonus to saving throws and the ability to discern a target's alignment (as [[Detect Alignment|Detect Alignment]], but can detect chaotic, evil, good, and lawful auras simultaneously) at will by peering through the gemstone.
 
 Like all hag _heartstones_, this gemstone is powered by Skarja's spirit. Skarja does not need to wear her _heartstone_ to benefit from its powers, but she cannot use them if she hasn't touched her _heartstone_ in the past 7 days. If Skarja's _heartstone_ is separated from her for more than 7 days (or if she's been dead for 7 days), it becomes a non-magical gemstone.
 
 _**Note:** Item is worth 1000 gp when non-magical_
 
-Skarja's _heartstone_ allows her to use additional occult innate spells: [[Spells/Ethereal Jaunt|Ethereal Jaunt]] (9th level) and [[Spells/Seize Soul|Seize Soul]] at will, [[Spells/Shadow Blast|Shadow Blast]] (6th level) twice per day, and [[Spells/Spirit Blast|Spirit Blast]] once per day.
+Skarja's _heartstone_ allows her to use additional occult innate spells: [[Ethereal Jaunt|Ethereal Jaunt]] (9th level) and [[Seize Soul|Seize Soul]] at will, [[Shadow Blast|Shadow Blast]] (6th level) twice per day, and [[Spirit Blast|Spirit Blast]] once per day.
 
 * * *
 

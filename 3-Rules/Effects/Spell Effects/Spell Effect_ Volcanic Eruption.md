@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Volcanic Eruption|Volcanic Eruption]]
+Granted by [[Volcanic Eruption|Volcanic Eruption]]
 
 A creature encased in rock is clumsy 1 and takes a -10-foot status penalty to its Speeds.
 

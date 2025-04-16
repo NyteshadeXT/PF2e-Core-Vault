@@ -10,7 +10,7 @@ license: OGL
 ---
 # Kraken's Guard
 ## Item 19
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 40000 gp; 

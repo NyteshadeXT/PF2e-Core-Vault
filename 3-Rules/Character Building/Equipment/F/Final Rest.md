@@ -40,7 +40,7 @@ This _+3 [[Vitalizing (Greater)|Vitalizing (Greater)]] greater striking silver l
 
 **Frequency** once per day
 
-**Effect** You hold the sword aloft, making it cast [[Spells/Sunburst|Sunburst]] (DC 38 Reflex check).
+**Effect** You hold the sword aloft, making it cast [[Sunburst|Sunburst]] (DC 38 Reflex check).
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

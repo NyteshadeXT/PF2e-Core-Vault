@@ -11,7 +11,7 @@ license: OGL
 ---
 # Rhythm Bone (Greater)
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[auditory]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[auditory]][[magical]]
 
 
 **Price** 64 gp; 
@@ -34,7 +34,7 @@ This small, enchanted bone (most often a jaw) is usually capped with metal at it
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Ghost Sound|Ghost Sound]].
+**Craft Requirements** Supply a casting of [[Ghost Sound|Ghost Sound]].
 
 *Source: Pathfinder #169: Kindled Magic*
 *OGL*

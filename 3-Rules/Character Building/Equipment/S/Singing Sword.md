@@ -15,7 +15,7 @@ license: ORC
 ---
 # Singing Sword
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[intelligent]][[occult]][[versatile-p]]
+### [rare](rare.md "Rare Rarity Trait")[[intelligent]][[occult]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -46,7 +46,7 @@ A _singing sword_ is a _+1 striking_ longsword imbued with the consciousness of 
 
 * * *
 
-**Effect** The _singing sword_ casts [[Spells/Courageous Anthem|Courageous Anthem]].
+**Effect** The _singing sword_ casts [[Courageous Anthem|Courageous Anthem]].
 
 **Activate—Rallying Anthem** `pf2:1` (concentrate)
 
@@ -54,7 +54,7 @@ A _singing sword_ is a _+1 striking_ longsword imbued with the consciousness of 
 
 * * *
 
-**Effect** The _singing sword_ casts [[Spells/Rallying Anthem|Rallying Anthem]].
+**Effect** The _singing sword_ casts [[3-Rules/Character Building/Spells/R/Rallying Anthem|Rallying Anthem]].
 
 **Activate—Counter Performance** `pf2:r` (concentrate)
 
@@ -64,7 +64,7 @@ A _singing sword_ is a _+1 striking_ longsword imbued with the consciousness of 
 
 * * *
 
-**Effect** The _singing sword_ casts [[Spells/Counter Performance|Counter Performance]].
+**Effect** The _singing sword_ casts [[Counter Performance|Counter Performance]].
 
 *Source: Pathfinder GM Core*
 *ORC*

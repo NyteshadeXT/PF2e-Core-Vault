@@ -93,6 +93,6 @@ In ancient times, pukwudgies traveled to the Universe from the First World, perh
 
 At their best, pukwudgies play cruel jokes on mortals they encounter. At their worst, they've been known to kidnap and even kill those who don't treat them with proper respect. Violent fey like twigjacks and redcaps often gather under pukwudgie leadership, much to the pukwudgies' glee.
 
-Pukwudgies make their villages in the oldest forests, concealed under [[Spells/Mirage|Mirage]] spells. They travel freely between the Universe and the First World through tiny portals beneath hills, trees, or stones. No strangers to violence, pukwudgies rarely travel alone and often anoint their quills or weapons with a custom-brewed poison before entering hostile situations.
+Pukwudgies make their villages in the oldest forests, concealed under [[Mirage|Mirage]] spells. They travel freely between the Universe and the First World through tiny portals beneath hills, trees, or stones. No strangers to violence, pukwudgies rarely travel alone and often anoint their quills or weapons with a custom-brewed poison before entering hostile situations.
 
 Standing about 2 feet tall, a pukwudgie sports sharp quills growing from their head that extends down their back. Their skin tone varies by the region in which they live, ranging from pale gray to brown.

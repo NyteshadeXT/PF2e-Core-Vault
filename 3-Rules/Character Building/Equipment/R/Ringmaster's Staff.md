@@ -15,7 +15,7 @@ license: OGL
 ---
 # Ringmaster's Staff
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[magical]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -38,9 +38,9 @@ While wielding a _ringmaster's staff_, your normal voice can be clearly heard by
 
 **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 
-*   **Cantrip** s [[Spells/Light|Light]]
-*   **1st** [[Spells/Gentle Landing|Gentle Landing]], [[Spells/Carryall|Floating Disk]]
-*   **2nd** [[Spells/Revealing Light|Revealing Light]], [[Spells/Illusory Creature|Illusory Creature]], [[Spells/Mist|Mist]]
+*   **Cantrip** s [[3-Rules/Character Building/Spells/L/Light|Light]]
+*   **1st** [[Gentle Landing|Gentle Landing]], [[Carryall|Floating Disk]]
+*   **2nd** [[Revealing Light|Revealing Light]], [[Illusory Creature|Illusory Creature]], [[Mist|Mist]]
 
 *Source: Pathfinder #152: Legacy of the Lost God*
 *OGL*

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Dwarven War Axe
 ## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/dwarf]][[sweep]][[two-hand-d12]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[dwarf]][[sweep]][[two-hand-d12]]
 
 |  |  |
 | -- | -- |

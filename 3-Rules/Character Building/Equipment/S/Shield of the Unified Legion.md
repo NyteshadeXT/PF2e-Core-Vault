@@ -10,7 +10,7 @@ license: OGL
 ---
 # Shield of the Unified Legion
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 
 **Price** 13200 gp; 

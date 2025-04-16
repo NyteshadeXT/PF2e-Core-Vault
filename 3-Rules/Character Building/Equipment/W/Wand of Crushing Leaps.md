@@ -26,11 +26,11 @@ This supple, light wooden wand drifts to the ground like a feather or leaf when 
 
 * * *
 
-**Effect** You cast [[Spells/Jump|Jump]], but can jump up to 60 feet. When you land you shatter the ground, making each creature in a @Template\[emanation|distance:5\] [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn. In addition, the space you land in and all squares in the emanation become difficult terrain for 1 minute.
+**Effect** You cast [[Jump|Jump]], but can jump up to 60 feet. When you land you shatter the ground, making each creature in a @Template\[emanation|distance:5\] [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn. In addition, the space you land in and all squares in the emanation become difficult terrain for 1 minute.
 
 * * *
 
-**Craft Requirements** Supply a casting of 1st-rank [[Spells/Jump|Jump]].
+**Craft Requirements** Supply a casting of 1st-rank [[Jump|Jump]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

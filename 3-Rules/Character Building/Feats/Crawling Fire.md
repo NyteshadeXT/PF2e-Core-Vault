@@ -16,7 +16,7 @@ license: OGL
 ---
 # Crawling Fire `pf2:2`
 ## Feat 6
-### [[3-Rules/trait_reference/fire]][[impulse]][[kineticist]][[manipulate]][[primal]]
+### [[3-Rules/trait_reference/F/fire]][[impulse]][[kineticist]][[manipulate]][[primal]]
 
 **Category** class; 
 

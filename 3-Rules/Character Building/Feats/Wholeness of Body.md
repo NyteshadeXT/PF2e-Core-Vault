@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** ki spells
 * * *
-You can restore your health by tapping into your ki. You gain the [[Spells/Wholeness of Body|Wholeness of Body]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+You can restore your health by tapping into your ki. You gain the [[3-Rules/Character Building/Spells/W/Wholeness of Body|Wholeness of Body]] ki spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

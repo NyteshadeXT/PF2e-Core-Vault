@@ -33,7 +33,7 @@ AC increases to +4 if you are using the [[Actions/Take Cover|Take Cover]] action
 
 * * *
 
-**Effect** You activate the shield's countermeasures. It casts 8th-rank [[Spells/Cleanse Affliction|Cleanse Affliction]] with a counteract modifier of +27 against the triggering curse.
+**Effect** You activate the shield's countermeasures. It casts 8th-rank [[Cleanse Affliction|Cleanse Affliction]] with a counteract modifier of +27 against the triggering curse.
 
   
 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Heroic Presence `pf2:1`
 ## Feat 17
-### [[emotion]][[human]][[3-Rules/trait_reference/mental]]
+### [[emotion]][[human]][[3-Rules/trait_reference/M/mental]]
 
 **Category** ancestry; 
 
@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-The blood of heroes courses through your veins, and you inspire your allies to dig deep and find a new level of resolve. You grant up to 10 willing creatures within 30 feet the effects of a 6th-rank [[Spells/Zealous Conviction|Zealous Conviction]], though the effect automatically ends on a target if you give that target a command they would normally find repugnant. This action has the auditory trait or visual trait, depending on how you inspire your allies.
+The blood of heroes courses through your veins, and you inspire your allies to dig deep and find a new level of resolve. You grant up to 10 willing creatures within 30 feet the effects of a 6th-rank [[Zealous Conviction|Zealous Conviction]], though the effect automatically ends on a target if you give that target a command they would normally find repugnant. This action has the auditory trait or visual trait, depending on how you inspire your allies.
 
 *Source: Pathfinder Player Core*
 *ORC*

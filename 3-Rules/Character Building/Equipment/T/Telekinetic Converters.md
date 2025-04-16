@@ -11,7 +11,7 @@ license: OGL
 ---
 # Telekinetic Converters
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 1950 gp; 
@@ -24,7 +24,7 @@ Copper cables run from these thick leather gloves to nodes that attach to the we
 
 **Requirements** You have a spellcasting class feature and you can cast cantrips
 
-**Effect** You cast [[Spells/Telekinetic Projectile|Telekinetic Projectile]] as an occult cantrip, heightened to a spell rank equal to half your level rounded up.
+**Effect** You cast [[Telekinetic Projectile|Telekinetic Projectile]] as an occult cantrip, heightened to a spell rank equal to half your level rounded up.
 
 * * *
 
@@ -32,7 +32,7 @@ Copper cables run from these thick leather gloves to nodes that attach to the we
 
 **Requirements** You have a spellcasting class feature and have an unexpended spell slot of 5th level or higher
 
-**Effect** You cast your choice of [[Spells/Telekinetic Haul|Telekinetic Haul]] or [[Spells/Telekinetic Maneuver|Telekinetic Maneuver]] as a 5th-rank occult spell, consuming one of your unexpended spell slots of the same rank as if you had used it to cast the spell.
+**Effect** You cast your choice of [[Telekinetic Haul|Telekinetic Haul]] or [[Telekinetic Maneuver|Telekinetic Maneuver]] as a 5th-rank occult spell, consuming one of your unexpended spell slots of the same rank as if you had used it to cast the spell.
 
 *Source: Pathfinder #189: Dreamers of the Nameless Spires*
 *OGL*

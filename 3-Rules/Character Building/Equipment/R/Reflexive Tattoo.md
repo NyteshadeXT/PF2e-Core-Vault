@@ -12,7 +12,7 @@ license: OGL
 ---
 # Reflexive Tattoo
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[tattoo]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]][[tattoo]]
 
 
 **Price** 350 gp; 

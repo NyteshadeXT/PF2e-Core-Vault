@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** devotion spells; tenets of evil
 * * *
-You compel a creature to act toward its own ends rather than consider others. You can cast the [[Spells/Litany of Self-Interest|Litany of Self-Interest]] devotion spell. Increase the number of Focus Points in your focus pool by 1.
+You compel a creature to act toward its own ends rather than consider others. You can cast the [[3-Rules/Character Building/Spells/L/Litany of Self-Interest|Litany of Self-Interest]] devotion spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

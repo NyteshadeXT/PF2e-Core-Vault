@@ -11,7 +11,7 @@ license: OGL
 ---
 # Talisman of the Sphere
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[artifact]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[artifact]][[magical]]
 
 
 **Price** 0 gp; 

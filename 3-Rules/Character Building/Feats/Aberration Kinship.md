@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Your mind resonates with the inscrutable thought processes that inhuman aberrations use to communicate. You can cast [[Spells/Mindlink|Mindlink]] as an innate occult spell once per day, but you can target only aberrations.
+Your mind resonates with the inscrutable thought processes that inhuman aberrations use to communicate. You can cast [[Mindlink|Mindlink]] as an innate occult spell once per day, but you can target only aberrations.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

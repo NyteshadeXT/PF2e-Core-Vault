@@ -17,7 +17,7 @@ license: OGL
 
 
 
-You become honest to a fault. You constantly suffer the critical failure effect of [[Spells/Ring of Truth|Ring of Truth]]. Additionally, you are always offered the worst possible option in a bargain.
+You become honest to a fault. You constantly suffer the critical failure effect of [[3-Rules/Character Building/Spells/R/Ring of Truth|Ring of Truth]]. Additionally, you are always offered the worst possible option in a bargain.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Horizon Walker Dedication
 * * *
-When an obstacle bars your path, you pull a trick from your sleeve to overcome it. You can cast [[Spells/Darkvision|Darkvision]], [[Spells/Gecko Grip|Gecko Grip]], and 4th-rank [[Spells/Water Breathing|Water Breathing]] as innate primal spells, each once per day.
+When an obstacle bars your path, you pull a trick from your sleeve to overcome it. You can cast [[3-Rules/Character Building/Spells/D/Darkvision|Darkvision]], [[Gecko Grip|Gecko Grip]], and 4th-rank [[Water Breathing|Water Breathing]] as innate primal spells, each once per day.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

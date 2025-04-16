@@ -13,7 +13,7 @@ license: OGL
 ---
 # Injection Spear
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[injection]][[reach]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[injection]][[reach]]
 
 |  |  |
 | -- | -- |

@@ -12,7 +12,7 @@ license: ORC
 ---
 # (Zombie) Disgusting Pustules
 
-### [[disease]]
+### [[3-Rules/trait_reference/D/disease]]
 
 **Category** defensive; 
 

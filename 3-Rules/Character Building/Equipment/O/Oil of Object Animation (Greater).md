@@ -13,7 +13,7 @@ license: OGL
 ---
 # Oil of Object Animation (Greater)
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[oil]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[oil]]
 
 **Category** oil; 
 **Price** 1400 gp; 

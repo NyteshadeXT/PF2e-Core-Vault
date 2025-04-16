@@ -11,7 +11,7 @@ license: OGL
 ---
 # Necklace of Knives
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 25 gp; 

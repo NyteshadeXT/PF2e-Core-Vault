@@ -23,7 +23,7 @@ license: ORC
 
 **Prerequisites** Courageous Advance; Courageous Assault
 * * *
-You use your performance to orchestrate an onslaught against your enemies. If your next action is to cast the [[Spells/Courageous Anthem|Courageous Anthem]] composition cantrip, one ally of your choice who gains a status bonus from the spell can immediately use their reaction to Stride and then make a melee Strike.
+You use your performance to orchestrate an onslaught against your enemies. If your next action is to cast the [[Courageous Anthem|Courageous Anthem]] composition cantrip, one ally of your choice who gains a status bonus from the spell can immediately use their reaction to Stride and then make a melee Strike.
 
 *Source: Pathfinder Player Core*
 *ORC*

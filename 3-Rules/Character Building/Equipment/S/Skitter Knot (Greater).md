@@ -14,7 +14,7 @@ license: ORC
 ---
 # Skitter Knot (Greater)
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[magical]][[talisman]]
 
 **Category** other; 
 **Price** 275 gp; 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Whirlwind Toss `pf2:1`
 ## Feat 18
-### [[barbarian]][[rage]]
+### [[barbarian]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

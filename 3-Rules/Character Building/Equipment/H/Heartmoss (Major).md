@@ -13,7 +13,7 @@ license: ORC
 ---
 # Heartmoss (Major)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[healing]][[magical]][[spellheart]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[healing]][[magical]][[spellheart]]
 
 
 **Price** 1750 gp; 
@@ -29,7 +29,7 @@ This burgundy moss grows in heart-shaped clumps and releases a pleasant, calming
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Stabilize|Stabilize]].
+**Effect** You cast [[Stabilize|Stabilize]].
 
 * * *
 
@@ -37,7 +37,7 @@ This burgundy moss grows in heart-shaped clumps and releases a pleasant, calming
 
 **Frequency** once per day
 
-**Effect** You cast 3rd-rank [[Spells/Heal|Heal]].
+**Effect** You cast 3rd-rank [[Heal|Heal]].
 
 * * *
 
@@ -45,7 +45,7 @@ This burgundy moss grows in heart-shaped clumps and releases a pleasant, calming
 
 **Frequency** once per day
 
-**Effect** You cast 4th-rank [[Spells/Sound Body|Sound Body]].
+**Effect** You cast 4th-rank [[Sound Body|Sound Body]].
 
 * * *
 
@@ -53,7 +53,7 @@ This burgundy moss grows in heart-shaped clumps and releases a pleasant, calming
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Healing Well|Healing Well]].
+**Effect** You cast [[Healing Well|Healing Well]].
 
 *Source: Pathfinder #202: Severed at the Root*
 *ORC*

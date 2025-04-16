@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Qi Spells
 * * *
-You gather the wind beneath you, allowing you to soar as you jump. You gain the [[Spells/Wind Jump|Wind Jump]] qi spell.
+You gather the wind beneath you, allowing you to soar as you jump. You gain the [[3-Rules/Character Building/Spells/W/Wind Jump|Wind Jump]] qi spell.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

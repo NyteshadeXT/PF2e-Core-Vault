@@ -14,7 +14,7 @@ license: ORC
 ---
 # Scythe
 ## Item 0
-### [[deadly-d10]][[trip]]
+### [[deadly-d10]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

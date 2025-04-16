@@ -15,7 +15,7 @@ license: OGL
 ---
 # Hydraulic Maneuvers `pf2:1`
 ## Feat 13
-### [[azarketi]][[concentrate]][[manipulate]][[primal]][[3-Rules/trait_reference/water]]
+### [[azarketi]][[concentrate]][[manipulate]][[primal]][[3-Rules/trait_reference/W/water]]
 
 **Category** ancestry; 
 

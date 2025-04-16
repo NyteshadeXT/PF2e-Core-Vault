@@ -13,7 +13,7 @@ license: ORC
 ---
 # Tangle of Battle `pf2:r`
 ## Feat 10
-### [[barbarian]][[rage]]
+### [[barbarian]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

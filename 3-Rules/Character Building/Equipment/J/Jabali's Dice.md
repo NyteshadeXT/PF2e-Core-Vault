@@ -12,7 +12,7 @@ license: OGL
 ---
 # Jabali's Dice
 ## Item 12
-### [[3-Rules/trait_reference/earth]][[magical]]
+### [[3-Rules/Trait Reference/E/earth]][[magical]]
 
 
 **Price** 1800 gp; 
@@ -31,11 +31,11 @@ _Jabali's dice_ are two six-sided dice carved from evenly weighted stone to the 
 
   
 
-| **2-5** | The shuyookh casts [[Spells/Mountain Resilience\|Mountain Resilience]] on you. |
+| **2-5** | The shuyookh casts [[Mountain Resilience\|Mountain Resilience]] on you. |
 | --- | --- |
-| **6-9** | The shuyookh casts [[Spells/Grasping Earth\|Grasping Earth]] but you and your allies are immune to it. |
-| **10-11** | The shuyookh casts [[Spells/Wall of Stone\|Wall of Stone]]. The edges can pass through creatures, which are shunted to the side of the wall opposite that edge. |
-| **12** | The shuyookh casts a DC 31 [[Spells/Petrify\|Petrify]] spell on a creature hostile and in proximity to you. If no appealing target exists, you receive a 10-11 result instead. |
+| **6-9** | The shuyookh casts [[Grasping Earth\|Grasping Earth]] but you and your allies are immune to it. |
+| **10-11** | The shuyookh casts [[Wall of Stone\|Wall of Stone]]. The edges can pass through creatures, which are shunted to the side of the wall opposite that edge. |
+| **12** | The shuyookh casts a DC 31 [[Petrify\|Petrify]] spell on a creature hostile and in proximity to you. If no appealing target exists, you receive a 10-11 result instead. |
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

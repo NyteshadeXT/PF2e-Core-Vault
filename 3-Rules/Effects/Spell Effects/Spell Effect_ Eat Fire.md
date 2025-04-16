@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Eat Fire|Eat Fire]]
+Granted by [[Eat Fire|Eat Fire]]
 
 You gain resistance to fire damage until the end of the current turn.
 

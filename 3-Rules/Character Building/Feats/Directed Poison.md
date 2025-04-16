@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Spell Trickster Dedication; ability to cast cloudkill
 * * *
-When you cast [[Spells/Toxic Cloud|Toxic Cloud]], modify its duration to be sustained up to 1 minute, and modify its standard effect to include the following: The cloud doesn't move away from you each round. Once per round when you Sustain the Spell, you can move the cloud 10 feet in the direction of your choice.
+When you cast [[Toxic Cloud|Toxic Cloud]], modify its duration to be sustained up to 1 minute, and modify its standard effect to include the following: The cloud doesn't move away from you each round. Once per round when you Sustain the Spell, you can move the cloud 10 feet in the direction of your choice.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

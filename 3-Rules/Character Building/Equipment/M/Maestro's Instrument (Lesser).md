@@ -26,7 +26,7 @@ A _maestro's instrument_ can be crafted in the form of any variety of handheld m
 
 * * *
 
-**Effect** You play the instrument, causing it to cast a DC 17 [[Spells/Charm|Charm]] spell.
+**Effect** You play the instrument, causing it to cast a DC 17 [[Charm|Charm]] spell.
 
 * * *
 

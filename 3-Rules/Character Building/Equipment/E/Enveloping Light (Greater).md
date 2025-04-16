@@ -30,7 +30,7 @@ This tattoo is a series of six concentric circles that show up as a soft yellow 
 
 * * *
 
-**Effect** For 5 rounds, your entire body begins to glow, with the effects of a 4th-rank [[Spells/Light|Light]] spell. At the end of each of your turns during this time, you regain 2d8 Hit Points.
+**Effect** For 5 rounds, your entire body begins to glow, with the effects of a 4th-rank [[3-Rules/Character Building/Spells/L/Light|Light]] spell. At the end of each of your turns during this time, you regain 2d8 Hit Points.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

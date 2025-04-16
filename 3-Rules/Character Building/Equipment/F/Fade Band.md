@@ -30,7 +30,7 @@ license: ORC
 
 * * *
 
-This thin, silvery wire wraps around your armor. When you activate the band, it casts a 2nd-rank [[Spells/Invisibility|Invisibility]] spell on you.
+This thin, silvery wire wraps around your armor. When you activate the band, it casts a 2nd-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] spell on you.
 
 *Source: Pathfinder GM Core*
 *ORC*

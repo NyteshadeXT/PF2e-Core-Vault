@@ -18,7 +18,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** worn
 
-This aeon stone allows you to cast 2nd-rank [[Spells/Augury|Augury]] as a divine innate spell once per day.
+This aeon stone allows you to cast 2nd-rank [[Augury|Augury]] as a divine innate spell once per day.
 
 The resonant power causes the _augury_ spell from the aeon stone to always succeed at the DC 6 Flat check to give an answer other than "nothing."
 

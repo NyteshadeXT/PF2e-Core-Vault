@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Forge|Forge]]
+Granted by [[Forge|Forge]]
 
 A metal creature that critically fails its fortitude saving throw against _Forge_ gains weakness 2 \* spell rank to physical damage until the end of the caster's next turn.
 

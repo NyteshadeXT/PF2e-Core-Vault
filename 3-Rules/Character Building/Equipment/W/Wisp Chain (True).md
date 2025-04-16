@@ -14,7 +14,7 @@ license: OGL
 ---
 # Wisp Chain (True)
 ## Item 19
-### [[3-Rules/trait_reference/air]][[invested]][[magical]]
+### [[3-Rules/trait_reference/A/air]][[invested]][[magical]]
 
 **Category** light; **Group** chain
 **Price** 35000 gp; 

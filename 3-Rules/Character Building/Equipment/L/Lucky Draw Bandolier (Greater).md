@@ -11,7 +11,7 @@ license: OGL
 ---
 # Lucky Draw Bandolier (Greater)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 2000 gp; 

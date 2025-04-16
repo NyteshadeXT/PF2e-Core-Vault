@@ -16,7 +16,7 @@ license: OGL
 ---
 # Fighting Fan
 ## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[backstabber]][[deadly-d6]][[3-Rules/Rule References/Finesse]][[3-Rules/trait_reference/monk|Monk]] 
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[backstabber]][[deadly-d6]][[3-Rules/Rule References/Finesse]][[monk|Monk]] 
 
 |  |  |
 | -- | -- |

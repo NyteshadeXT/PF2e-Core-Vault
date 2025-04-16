@@ -12,7 +12,7 @@ license: OGL
 ---
 # Light Writer Plates
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[clockwork]][[3-Rules/trait_reference/light]]
+### [rare](rare.md "Rare Rarity Trait")[[clockwork]][[3-Rules/Trait Reference/L/light]]
 
 **Category** other; 
 **Price** 3 gp; **Quantity** 10

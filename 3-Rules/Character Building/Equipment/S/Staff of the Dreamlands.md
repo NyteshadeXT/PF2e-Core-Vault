@@ -36,9 +36,9 @@ The carved night hag's hand at the end of this sandalwood staff clutches a rough
 
 * * *
 
-*   **Cantrip** [[Spells/Daze|Daze]]
-*   **1st** [[Spells/Alarm|Alarm]], [[Spells/Déjà Vu|Déjà Vu]], [[Spells/Sleep|Sleep]]
-*   **2nd** [[Spells/Phantasmal Treasure|Phantasmal Treasure]], [[Spells/Silence|Silence]]
+*   **Cantrip** [[Daze|Daze]]
+*   **1st** [[Alarm|Alarm]], [[Déjà Vu|Déjà Vu]], [[3-Rules/Character Building/Spells/S/Sleep|Sleep]]
+*   **2nd** [[Phantasmal Treasure|Phantasmal Treasure]], [[Silence|Silence]]
 
 **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 

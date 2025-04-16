@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Sacred Form|Sacred Form]]
+Granted by [[Sacred Form|Sacred Form]]
 
 While in this form, you gain the statistics and abilities listed below. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell. You gain the following statistics and abilities.
 

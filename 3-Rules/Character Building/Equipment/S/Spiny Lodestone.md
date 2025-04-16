@@ -33,7 +33,7 @@ This perfectly octahedral magnetite crystal is covered in a hair-like layer of i
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Needle Darts|Needle Darts]]
+**Effect** You cast [[Needle Darts|Needle Darts]]
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

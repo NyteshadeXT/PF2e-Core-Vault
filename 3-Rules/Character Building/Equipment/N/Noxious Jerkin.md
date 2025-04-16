@@ -13,7 +13,7 @@ license: OGL
 ---
 # Noxious Jerkin
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[comfort]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[comfort]][[invested]][[magical]]
 
 **Category** light; 
 **Price** 2800 gp; 

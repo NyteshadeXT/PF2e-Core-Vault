@@ -29,7 +29,7 @@ There are various types of _aeon stones_, each with a different appearance and m
 
 This red crystalline star covers you in a faint aura when you are subject to lingering wounds. You gain resistance 3 to persistent damage. At the end of any turn where the persistent damage can't overcome this resistance, end that condition.
 
-The resonant power allows you to cast [[Spells/Stabilize|Stabilize]] as a primal innate cantrip.
+The resonant power allows you to cast [[Stabilize|Stabilize]] as a primal innate cantrip.
 
 *Source: Pathfinder GM Core*
 *ORC*

@@ -18,7 +18,7 @@ license: OGL
 
 
 
-The vanaras of old were tricksters able to step across wide rivers or slip into impossibly small spaces. You can cast [[Spells/Enlarge|Enlarge]] and [[Spells/Shrink|Shrink]] once per day each as 2nd-rank divine innate spells. You can target only yourself and other vanaras with these spells.
+The vanaras of old were tricksters able to step across wide rivers or slip into impossibly small spaces. You can cast [[Enlarge|Enlarge]] and [[Shrink|Shrink]] once per day each as 2nd-rank divine innate spells. You can target only yourself and other vanaras with these spells.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

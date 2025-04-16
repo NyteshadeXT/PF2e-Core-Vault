@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Magic's Vessel|Magic's Vessel]]
+Granted by [[Magic's Vessel|Magic's Vessel]]
 
 The target gains a +1 status bonus to saving throws.
 

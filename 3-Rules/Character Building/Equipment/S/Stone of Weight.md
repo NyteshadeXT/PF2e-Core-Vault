@@ -11,7 +11,7 @@ license: OGL
 ---
 # Stone of Weight
 ## Item 2
-### [rare](rare "Rare Rarity Trait")[[cursed]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[magical]]
 
 
 **Price** 0 gp; 

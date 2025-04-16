@@ -14,7 +14,7 @@ license: OGL
 ---
 # Piercing Wind
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[fatal-aim-d10]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[combination]][[concussive]][[fatal-aim-d10]]
 
 |  |  |
 | -- | -- |

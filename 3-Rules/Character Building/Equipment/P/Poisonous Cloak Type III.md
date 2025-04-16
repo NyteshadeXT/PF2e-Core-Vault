@@ -12,7 +12,7 @@ license: OGL
 ---
 # Poisonous Cloak Type III
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
 
 
 **Price** 0 gp; 

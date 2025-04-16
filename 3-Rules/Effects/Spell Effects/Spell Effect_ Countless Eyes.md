@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Countless Eyes|Countless Eyes]].
+Granted by [[Countless Eyes|Countless Eyes]].
 
 * * *
 

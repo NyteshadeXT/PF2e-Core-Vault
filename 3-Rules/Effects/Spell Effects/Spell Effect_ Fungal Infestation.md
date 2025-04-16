@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Fungal Infestation|Fungal Infestation]]
+Granted by [[Fungal Infestation|Fungal Infestation]]
 
 The target has weakness to fire and weakness to slashing.
 

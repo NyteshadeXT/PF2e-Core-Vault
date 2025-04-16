@@ -15,7 +15,7 @@ license: ORC
 ---
 # Orc Necksplitter
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[forceful]][[orc]][[sweep]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[forceful]][[orc]][[sweep]]
 
 |  |  |
 | -- | -- |

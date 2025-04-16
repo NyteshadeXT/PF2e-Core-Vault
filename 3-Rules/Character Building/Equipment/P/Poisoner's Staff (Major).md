@@ -14,7 +14,7 @@ license: OGL
 ---
 # Poisoner's Staff (Major)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -37,13 +37,13 @@ This gnarled staff is covered with thorns and coated with a glistening lacquer t
 
 * * *
 
-*   **Cantrips** [[Spells/Guidance|Guidance]]
-*   **1st** [[Spells/Detect Poison|Detect Poison]], [[Spells/Spider Sting|Spider Sting]]
-*   **2nd** [[Spells/Enhance Victuals|Enhance Victuals]], [[Spells/Imp Sting|Imp Sting]]
-*   **3rd** [[Spells/Cleanse Affliction|Cleanse Affliction]], [[Spells/Stinking Cloud|Stinking Cloud]]
-*   **4th** [[Spells/Swarming Wasp Stings|Swarming Wasp Stings]]
-*   **5th** [[Spells/Toxic Cloud|Toxic Cloud]]
-*   **6th** [[Spells/Purple Worm Sting|Purple Worm Sting]]
+*   **Cantrips** [[Guidance|Guidance]]
+*   **1st** [[Detect Poison|Detect Poison]], [[Spider Sting|Spider Sting]]
+*   **2nd** [[Enhance Victuals|Enhance Victuals]], [[Imp Sting|Imp Sting]]
+*   **3rd** [[Cleanse Affliction|Cleanse Affliction]], [[Stinking Cloud|Stinking Cloud]]
+*   **4th** [[Swarming Wasp Stings|Swarming Wasp Stings]]
+*   **5th** [[Toxic Cloud|Toxic Cloud]]
+*   **6th** [[Purple Worm Sting|Purple Worm Sting]]
 
 * * *
 

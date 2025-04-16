@@ -31,7 +31,7 @@ These curving, delicate designs resemble leaves, vines, or creepers, most often 
 
 * * *
 
-**Effect** The tattoo casts [[Spells/One with Plants|One with Plants]] on you before you can be noticed. The duration of this spell is 1 hour. If you've already Activated the tattoo, you can supply a separate casting of _trees shape_ to recharge the tattoo instead of having the spell's normal effect. This allows you to Activate the tattoo again in the same day. You can do so multiple times each day, but only as many times as you continue to cast _tree shape_ to recharge the tattoo after each use.
+**Effect** The tattoo casts [[One with Plants|One with Plants]] on you before you can be noticed. The duration of this spell is 1 hour. If you've already Activated the tattoo, you can supply a separate casting of _trees shape_ to recharge the tattoo instead of having the spell's normal effect. This allows you to Activate the tattoo again in the same day. You can do so multiple times each day, but only as many times as you continue to cast _tree shape_ to recharge the tattoo after each use.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

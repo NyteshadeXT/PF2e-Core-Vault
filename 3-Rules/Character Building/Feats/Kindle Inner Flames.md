@@ -16,7 +16,7 @@ license: OGL
 ---
 # Kindle Inner Flames `pf2:1`
 ## Feat 8
-### [[3-Rules/trait_reference/fire]][[impulse]][[kineticist]][[primal]][[stance]]
+### [[3-Rules/trait_reference/F/fire]][[impulse]][[kineticist]][[primal]][[stance]]
 
 **Category** class; 
 

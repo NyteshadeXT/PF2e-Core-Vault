@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ambush Tactics
 ## Feat 4
-### [rare](rare "Rare Rarity Trait")[[general]][[skill]]
+### [rare](rare.md "Rare Rarity Trait")[[general]][[skill]]
 
 **Category** skill; 
 

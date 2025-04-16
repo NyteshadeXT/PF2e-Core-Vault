@@ -15,7 +15,7 @@ license: ORC
 ---
 # Mambele
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[disarm]][[thrown-20]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d8]][[3-Rules/Trait Reference/D/disarm]][[thrown-20]]
 
 |  |  |
 | -- | -- |

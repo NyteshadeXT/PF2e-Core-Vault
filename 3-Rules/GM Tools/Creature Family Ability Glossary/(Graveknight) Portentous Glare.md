@@ -16,7 +16,7 @@ license: OGL
 ---
 # (Graveknight) Portentous Glare
 
-### [[aura]][[divine]][[emotion]][[fear]][[3-Rules/trait_reference/mental]][[visual]]
+### [[3-Rules/trait_reference/A/aura]][[divine]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[visual]]
 
 **Category** offensive; 
 

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** focus pool
 * * *
-You can speed yourself up to move and attack more swiftly. You learn the [[Spells/Hasted Assault|Hasted Assault]] conflux spell.
+You can speed yourself up to move and attack more swiftly. You learn the [[3-Rules/Character Building/Spells/H/Hasted Assault|Hasted Assault]] conflux spell.
 
 Increase the number of Focus Points in your focus pool by 1.
 

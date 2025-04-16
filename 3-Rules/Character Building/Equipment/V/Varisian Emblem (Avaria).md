@@ -29,7 +29,7 @@ Each description lists the school of each Varisian emblem, and the tattoo has th
 
 * * *
 
-**Effect** The tattoo casts [[Spells/Tailwind|Tailwind]].
+**Effect** The tattoo casts [[Tailwind|Tailwind]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

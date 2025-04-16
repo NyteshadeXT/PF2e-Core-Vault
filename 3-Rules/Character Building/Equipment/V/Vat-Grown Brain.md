@@ -12,7 +12,7 @@ license: OGL
 ---
 # Vat-Grown Brain
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** other; 
 **Price** 190 gp; 

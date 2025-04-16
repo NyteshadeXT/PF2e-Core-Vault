@@ -13,7 +13,7 @@ license: OGL
 ---
 # Mutagenic Renovator
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]]
 
 **Category** potion; 
 **Price** 180 gp; 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Potion of True Speech
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]]
 
 **Category** potion; 
 **Price** 320 gp; 

@@ -32,7 +32,7 @@ A pointed vampire fang hovers within this smoked-glass vial, its tip crimson wit
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Void Warp|Void Warp]].
+**Effect** You cast [[Void Warp|Void Warp]].
 
 * * *
 
@@ -40,7 +40,7 @@ A pointed vampire fang hovers within this smoked-glass vial, its tip crimson wit
 
 **Frequency** once per day
 
-**Effect** You cast 5th-rank [[Spells/Vampiric Feast|Vampiric Feast]].
+**Effect** You cast 5th-rank [[Vampiric Feast|Vampiric Feast]].
 
 * * *
 
@@ -48,7 +48,7 @@ A pointed vampire fang hovers within this smoked-glass vial, its tip crimson wit
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Vampiric Exsanguination|Vampiric Exsanguination]].
+**Effect** You cast [[Vampiric Exsanguination|Vampiric Exsanguination]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

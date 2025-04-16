@@ -11,7 +11,7 @@ license: OGL
 ---
 # Rite of Reinforcement Exoskeleton
 ## Item 1
-### [rare](rare "Rare Rarity Trait")[[comfort]]
+### [rare](rare.md "Rare Rarity Trait")[[comfort]]
 
 **Category** medium; **Group** plate
 **Price** 0 gp; 

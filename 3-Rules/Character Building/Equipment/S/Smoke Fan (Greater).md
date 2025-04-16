@@ -12,7 +12,7 @@ license: OGL
 ---
 # Smoke Fan (Greater)
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[gadget]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 75 gp; 

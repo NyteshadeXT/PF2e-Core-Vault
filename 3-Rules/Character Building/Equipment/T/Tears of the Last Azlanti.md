@@ -32,7 +32,7 @@ Once per day, you can attempt to exchange the _aeon stone_ in a given bail for a
 | 1 | Patience | Gold nodule |
 |  | **Active Power** Telepathy with a range of 100 feet |  |
 | 2 | Rememberance | Tourmaline sphere |
-|  | **Active Power** Cast [[Spells/Hypercognition\|Hypercognition]] at will |  |
+|  | **Active Power** Cast [[Hypercognition\|Hypercognition]] at will |  |
 | 3 | Resilience | Clear spindle |
 |  | **Active Power** Worn armor gains the [[Antimagic\|Antimagic]] property rune |  |
 | 4 | Tenacity | Pink rhomboid |

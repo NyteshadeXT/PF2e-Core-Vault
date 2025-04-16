@@ -14,7 +14,7 @@ license: OGL
 ---
 # Shattered Plan
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[recovery]][[thrown]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[recovery]][[thrown]]
 
 |  |  |
 | -- | -- |

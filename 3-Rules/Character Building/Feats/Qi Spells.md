@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You have cultivated your qi to produce magical effects. You gain [[Spells/Inner Upheaval|Inner Upheaval]], [[Spells/Qi Rush|Qi Rush]], or another 1st-rank monk qi spell you have access to.
+You have cultivated your qi to produce magical effects. You gain [[Inner Upheaval|Inner Upheaval]], [[Qi Rush|Qi Rush]], or another 1st-rank monk qi spell you have access to.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

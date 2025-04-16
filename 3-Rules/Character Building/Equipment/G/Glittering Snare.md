@@ -15,7 +15,7 @@ license: OGL
 ---
 # Glittering Snare
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]][[visual]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]][[visual]]
 
 **Category** snare; 
 **Price** 18 gp; 

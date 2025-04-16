@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Dragon Claws|Dragon Claws]]
+Granted by [[Dragon Claws|Dragon Claws]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

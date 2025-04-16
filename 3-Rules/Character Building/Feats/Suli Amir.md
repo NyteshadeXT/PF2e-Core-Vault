@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You have power connected to the powerful jann amirs. You can cast [[Spells/Read Omens|Read Omens]] and 4th-rank [[Spells/Invisibility|Invisibility]] each once per day as arcane innate spells, and you can cast [[Spells/Detect Magic|Detect Magic]] at will as an arcane innate cantrip, heightened to a spell rank equal to half your level rounded up.
+You have power connected to the powerful jann amirs. You can cast [[Read Omens|Read Omens]] and 4th-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] each once per day as arcane innate spells, and you can cast [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]] at will as an arcane innate cantrip, heightened to a spell rank equal to half your level rounded up.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

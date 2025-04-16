@@ -13,7 +13,7 @@ license: OGL
 ---
 # Bodysnatcher
 ## Feat 14
-### [rare](rare "Rare Rarity Trait")[[archetype]][[divine]][[polymorph]]
+### [rare](rare.md "Rare Rarity Trait")[[archetype]][[divine]][[polymorph]]
 
 **Category** class; 
 

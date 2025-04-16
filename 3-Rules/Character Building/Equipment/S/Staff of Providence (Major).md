@@ -34,13 +34,13 @@ A large, stylized symbol of an eye adorns the top of this wooden staff, represen
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Guidance|Guidance]]
-*   **1st** [[Spells/Bless|Bless]], [[Spells/Create Water|Create Water]]
-*   **2nd** [[Spells/Augury|Augury]], [[Spells/Create Food|Create Food]], [[Spells/See the Unseen|See the Unseen]], [[Spells/Status|Status]]
-*   **3rd** [[Spells/Safe Passage|Safe Passage]], [[Spells/Wanderer's Guide|Wanderer's Guide]]
-*   **4th** [[Spells/Cleanse Affliction|Cleanse Affliction]], [[Spells/Dispelling Globe|Dispelling Globe]], [[Spells/Status|Status]]
-*   **5th** [[Spells/Dispelling Globe|Dispelling Globe]], [[Spells/Scouting Eye|Scouting Eye]], [[Spells/See the Unseen|See the Unseen]]
-*   **6th** [[Spells/Dispelling Globe|Dispelling Globe]], [[Spells/Scintillating Safeguard|Scintillating Safeguard]], [[Spells/Truesight|Truesight]]
+*   **Cantrip** [[Guidance|Guidance]]
+*   **1st** [[Bless|Bless]], [[Create Water|Create Water]]
+*   **2nd** [[Augury|Augury]], [[Create Food|Create Food]], [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]], [[Status|Status]]
+*   **3rd** [[Safe Passage|Safe Passage]], [[Wanderer's Guide|Wanderer's Guide]]
+*   **4th** [[Cleanse Affliction|Cleanse Affliction]], [[Dispelling Globe|Dispelling Globe]], [[Status|Status]]
+*   **5th** [[Dispelling Globe|Dispelling Globe]], [[Scouting Eye|Scouting Eye]], [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]]
+*   **6th** [[Dispelling Globe|Dispelling Globe]], [[Scintillating Safeguard|Scintillating Safeguard]], [[Truesight|Truesight]]
 
 * * *
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Poisonous Cloak Type II
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
 
 
 **Price** 0 gp; 

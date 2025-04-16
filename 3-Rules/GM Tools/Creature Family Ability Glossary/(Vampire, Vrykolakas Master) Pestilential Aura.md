@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Vampire, Vrykolakas Master) Pestilential Aura
 
-### [[aura]][[divine]]
+### [[3-Rules/trait_reference/A/aura]][[divine]]
 
 **Category** defensive; 
 

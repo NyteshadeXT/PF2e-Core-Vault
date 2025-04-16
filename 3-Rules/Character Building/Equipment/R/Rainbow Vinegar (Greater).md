@@ -14,7 +14,7 @@ license: ORC
 ---
 # Rainbow Vinegar (Greater)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]]
 
 **Category** other; 
 **Price** 110 gp; 

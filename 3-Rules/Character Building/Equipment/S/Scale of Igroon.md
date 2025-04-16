@@ -10,7 +10,7 @@ license: OGL
 ---
 # Scale of Igroon
 ## Item 21
-### [rare](rare "Rare Rarity Trait")[[primal]]
+### [rare](rare.md "Rare Rarity Trait")[[primal]]
 
 
 **Price** 0 gp; 

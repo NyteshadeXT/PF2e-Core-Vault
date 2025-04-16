@@ -17,7 +17,7 @@ license: OGL
 ---
 # Ghosthand's Comet
 ## Item 23
-### [unique](unique "Unique Rarity Trait")[[artifact]][[backstabber]][[concussive]][[fatal-d12]][[kickback]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[backstabber]][[concussive]][[fatal-d12]][[kickback]][[magical]]
 
 |  |  |
 | -- | -- |
@@ -43,7 +43,7 @@ The barrel of this long rifle is translucent in places, forming a swirled patter
 
 **Activate** `pf2:1` envision
 
-**Effect** On your next attempt at a ranged Strike with _Ghosthand's Comet_, the shot phases through any material or magical obstacle, such as a [[Spells/Wall of Force|Wall of Force]], in its path, ignoring all cover. You must attempt the Strike by the end of your turn or this effect is lost.
+**Effect** On your next attempt at a ranged Strike with _Ghosthand's Comet_, the shot phases through any material or magical obstacle, such as a [[Wall of Force|Wall of Force]], in its path, ignoring all cover. You must attempt the Strike by the end of your turn or this effect is lost.
 
 * * *
 

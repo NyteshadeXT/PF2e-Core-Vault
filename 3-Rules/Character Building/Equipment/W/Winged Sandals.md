@@ -13,7 +13,7 @@ license: ORC
 ---
 # Winged Sandals
 ## Item 10
-### [[3-Rules/trait_reference/air]][[invested]][[magical]]
+### [[3-Rules/trait_reference/A/air]][[invested]][[magical]]
 
 
 **Price** 850 gp; 
@@ -22,7 +22,7 @@ license: ORC
 
 Made from soft leather, with delicate white wings attached near the ankles, these sandals are ensorcelled with powerful air magic.
 
-Whenever you fall while wearing these sandals, they automatically cast [[Spells/Gentle Landing|Gentle Landing]] on you. This benefit can't trigger again for 10 minutes.
+Whenever you fall while wearing these sandals, they automatically cast [[Gentle Landing|Gentle Landing]] on you. This benefit can't trigger again for 10 minutes.
 
 * * *
 

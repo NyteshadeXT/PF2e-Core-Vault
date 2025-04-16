@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Incredible Movement; Ki Spells
 * * *
-You can teleport yourself a short distance. You gain the [[Spells/Abundant Step|Abundant Step]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+You can teleport yourself a short distance. You gain the [[3-Rules/Character Building/Spells/A/Abundant Step|Abundant Step]] ki spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

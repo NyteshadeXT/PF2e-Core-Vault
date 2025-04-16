@@ -13,7 +13,7 @@ license: OGL
 ---
 # Periscopic Viewfinder
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[clockwork]][[consumable]][[gadget]]
+### [rare](rare.md "Rare Rarity Trait")[[clockwork]][[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 12 gp; 

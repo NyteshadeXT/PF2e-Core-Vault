@@ -10,7 +10,7 @@ license: OGL
 ---
 # Genealogy Mask
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]]
 
 
 **Price** 10 gp; 
@@ -35,7 +35,7 @@ These large masks are forged of precious metals or carved of wood and tasked wit
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Ancestral Memories|Ancestral Memories]] or [[Spells/Mindlink|Mindlink]]. You must be an Alijae elf.
+**Craft Requirements** Supply a casting of [[Ancestral Memories|Ancestral Memories]] or [[Mindlink|Mindlink]]. You must be an Alijae elf.
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

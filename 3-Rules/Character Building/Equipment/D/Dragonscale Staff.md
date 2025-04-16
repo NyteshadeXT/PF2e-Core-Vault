@@ -16,7 +16,7 @@ license: OGL
 ---
 # Dragonscale Staff
 ## Item 6
-### [[magical|Magical]][[3-Rules/trait_reference/monk|Monk]] [[parry]][[3-Rules/trait_reference/reach|Reach]] [[3-Rules/trait_reference/trip|Trip]] 
+### [[magical|Magical]][[monk|Monk]] [[parry]][[reach|Reach]] [[3-Rules/Trait Reference/T/trip|Trip]] 
 
 |  |  |
 | -- | -- |

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Roll With it (Kingmaker) `pf2:r`
 ## Feat 12
-### [rare](rare "Rare Rarity Trait")[[ranger]]
+### [rare](rare.md "Rare Rarity Trait")[[ranger]]
 
 **Category** class; 
 

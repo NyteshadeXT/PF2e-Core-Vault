@@ -9,7 +9,7 @@ license: OGL
 ---
 # Portable Weapon Mount (Shielded Tripod)
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 50 gp; 

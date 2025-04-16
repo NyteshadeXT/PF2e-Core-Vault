@@ -27,7 +27,7 @@ There are few bonds like those between fighters who have shared blows in an aren
 
 * * *
 
-You emulate the inexorable movement of a glacier. You Stride up to your Speed and make a melee Strike. Regardless of whether your attack hits, the path of your Stride is filled by a 9th-rank [[Spells/Wall of Ice|Wall of Ice]].
+You emulate the inexorable movement of a glacier. You Stride up to your Speed and make a melee Strike. Regardless of whether your attack hits, the path of your Stride is filled by a 9th-rank [[Wall of Ice|Wall of Ice]].
 
 *Source: Pathfinder Fists of the Ruby Phoenix Hardcover Compilation*
 *OGL*

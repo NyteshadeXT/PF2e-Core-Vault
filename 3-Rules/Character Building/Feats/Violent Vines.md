@@ -18,7 +18,7 @@ license: OGL
 
 
 
-When angered, you can imbue nearby vines with your wrath, provoking them into a murderous rampage. Once per hour, you can cast [[Spells/Murderous Vine|Murderous Vine]] as a primal innate spell.
+When angered, you can imbue nearby vines with your wrath, provoking them into a murderous rampage. Once per hour, you can cast [[Murderous Vine|Murderous Vine]] as a primal innate spell.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

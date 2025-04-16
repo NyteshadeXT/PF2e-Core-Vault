@@ -14,7 +14,7 @@ license: OGL
 ---
 # Leopard's Armor
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[flexible]][[invested]][[magical]][[noisy]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[flexible]][[invested]][[magical]][[noisy]]
 
 **Category** medium; **Group** chain
 **Price** 700 gp; 

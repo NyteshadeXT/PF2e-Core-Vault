@@ -32,7 +32,7 @@ This dry clay ball becomes malleable when activated, shifting into a variety of 
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Gouging Claw|Gouging Claw]].
+**Effect** You cast [[Gouging Claw|Gouging Claw]].
 
 * * *
 
@@ -40,7 +40,7 @@ This dry clay ball becomes malleable when activated, shifting into a variety of 
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Enlarge|Enlarge]].
+**Effect** You cast [[Enlarge|Enlarge]].
 
 * * *
 
@@ -48,7 +48,7 @@ This dry clay ball becomes malleable when activated, shifting into a variety of 
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]].
+**Effect** You cast [[Cursed Metamorphosis|Cursed Metamorphosis]].
 
 * * *
 
@@ -56,7 +56,7 @@ This dry clay ball becomes malleable when activated, shifting into a variety of 
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Plant Form|Plant Form]].
+**Effect** You cast [[Plant Form|Plant Form]].
 
 *Source: Pathfinder #202: Severed at the Root*
 *ORC*

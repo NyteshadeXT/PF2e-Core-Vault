@@ -23,7 +23,7 @@ license: OGL
 
 
 
-A slim, symmetrical tree travels from the Plane of Wood. You conjure a tree within 30 feet, as a [[Spells/Protector Tree|Protector Tree]] spell of a rank equal to half your level rounded up. If you use this impulse again, any previous one ends, and an ordinary tree remains.
+A slim, symmetrical tree travels from the Plane of Wood. You conjure a tree within 30 feet, as a [[Protector Tree|Protector Tree]] spell of a rank equal to half your level rounded up. If you use this impulse again, any previous one ends, and an ordinary tree remains.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

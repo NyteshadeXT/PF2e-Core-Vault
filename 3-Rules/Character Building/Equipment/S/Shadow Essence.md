@@ -15,7 +15,7 @@ license: OGL
 ---
 # Shadow Essence
 ## Item 10
-### [[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison]][[void]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/Trait Reference/P/poison]][[void]]
 
 **Category** poison; 
 **Price** 160 gp; 

@@ -33,7 +33,7 @@ From each corner of this carved, triangular badge extends a long, sharp thorn. T
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Timber|Timber]].
+**Effect** You cast [[Timber|Timber]].
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

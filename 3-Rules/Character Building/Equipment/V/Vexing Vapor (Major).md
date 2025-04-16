@@ -18,7 +18,7 @@ license: OGL
 ---
 # Vexing Vapor (Major)
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[inhaled]][[3-Rules/trait_reference/mental]][[3-Rules/trait_reference/poison]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[inhaled]][[3-Rules/trait_reference/M/mental]][[3-Rules/trait_reference/P/poison]][[splash]]
 
 |  |  |
 | -- | -- |

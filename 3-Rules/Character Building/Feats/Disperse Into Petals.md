@@ -15,7 +15,7 @@ license: ORC
 ---
 # Disperse Into Petals
 ## Feat 10
-### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]][[plant]][[polymorph]]
+### [rare](rare.md "Rare Rarity Trait")[[deviant]][[magical]][[plant]][[polymorph]]
 
 **Category** class; 
 

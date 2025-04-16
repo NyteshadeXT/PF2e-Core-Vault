@@ -28,7 +28,7 @@ This pale wooden wand is carved to resemble a thigh bone with metal caps at each
 
 * * *
 
-**Effect** You cast [[Spells/False Vitality|False Vitality]] at 4th rank. During the duration of the spell, wisps that resemble spirits flit around you as long as you have any temporary Hit Points from false life, and you can use the following action.
+**Effect** You cast [[False Vitality|False Vitality]] at 4th rank. During the duration of the spell, wisps that resemble spirits flit around you as long as you have any temporary Hit Points from false life, and you can use the following action.
 
 * * *
 

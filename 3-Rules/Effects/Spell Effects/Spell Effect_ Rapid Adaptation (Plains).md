@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Rapid Adaptation|Rapid Adaptation]]
+Granted by [[Rapid Adaptation|Rapid Adaptation]]
 
 The target gains a +10-foot status bonus to its land Speed.
 

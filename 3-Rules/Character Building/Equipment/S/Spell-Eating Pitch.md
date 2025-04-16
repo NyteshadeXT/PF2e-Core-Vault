@@ -14,7 +14,7 @@ license: OGL
 ---
 # Spell-Eating Pitch
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[injury]][[3-Rules/trait_reference/poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[divine]][[injury]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 325 gp; 
@@ -39,7 +39,7 @@ This gummy resin contains sparkling motes of magical energy that dramatically im
 
 * * *
 
-**Craft Requirements** Supply one casting of 6th-rank [[Spells/Dispel Magic|Dispel Magic]].
+**Craft Requirements** Supply one casting of 6th-rank [[Dispel Magic|Dispel Magic]].
 
 *Source: Pathfinder #160: Assault on Hunting Lodge Seven*
 *OGL*

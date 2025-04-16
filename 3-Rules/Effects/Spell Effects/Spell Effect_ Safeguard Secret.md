@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Safeguard Secret|Safeguard Secret]].
+Granted by [[Safeguard Secret|Safeguard Secret]].
 
 The targets gain +4 status bonus to skill checks (typically Deception checks) to conceal this knowledge and to saving throws against spells that specifically attempt to obtain this knowledge from them and effects that would force them to reveal it.
 

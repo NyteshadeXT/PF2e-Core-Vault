@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Cloak of Light|Cloak of Light]]
+Granted by [[Cloak of Light|Cloak of Light]]
 
 You glow with bright light in a 30-foot radius and dim light to the next 30 feet.
 

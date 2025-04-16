@@ -15,7 +15,7 @@ license: ORC
 ---
 # Khakkhara
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[shove]][[two-hand-d10]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/S/shove]][[two-hand-d10]][[versatile-p]]
 
 |  |  |
 | -- | -- |

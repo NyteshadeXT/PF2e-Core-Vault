@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Clinging Ice|Clinging Ice]]
+Granted by [[Clinging Ice|Clinging Ice]]
 
 The target takes a circumstance penalty to its Speeds.
 

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Starlit Sentinel Dedication
 * * *
-You call out a desperate wish to the stars to save a friend. You gain [[Spells/Breath of Life|Breath of Life]] as an innate arcane spell, which you can cast once per day only while in sentinel form. Interceding in such a direct way temporarily exhausts your constellation's magic, causing you to revert from your sentinel form once the spell is cast.
+You call out a desperate wish to the stars to save a friend. You gain [[Breath of Life|Breath of Life]] as an innate arcane spell, which you can cast once per day only while in sentinel form. Interceding in such a direct way temporarily exhausts your constellation's magic, causing you to revert from your sentinel form once the spell is cast.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

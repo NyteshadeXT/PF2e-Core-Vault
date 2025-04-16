@@ -10,7 +10,7 @@ license: OGL
 ---
 # Ivory Baton
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 
 **Price** 2500 gp; 
@@ -27,7 +27,7 @@ This white, slender rod bears intricately carved reliefs of magnificent animals 
 
 * * *
 
-**Effect** You take control of a construct. This has the effects of [[Spells/Dominate|Dominate]] with a DC of 30, but it affects only constructs. It lacks the mental trait and functions on mindless constructs. It also ignores any golem antimagic the target might have. The effect's duration endsif the baton is destroyed or leaves your possession for at least 1 minute, and you can issue commands to the target only while holding the baton.
+**Effect** You take control of a construct. This has the effects of [[Dominate|Dominate]] with a DC of 30, but it affects only constructs. It lacks the mental trait and functions on mindless constructs. It also ignores any golem antimagic the target might have. The effect's duration endsif the baton is destroyed or leaves your possession for at least 1 minute, and you can issue commands to the target only while holding the baton.
 
 * * *
 

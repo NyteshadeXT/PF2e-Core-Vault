@@ -14,7 +14,7 @@ license: OGL
 ---
 # Daylight Vapor
 ## Item 13
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Divine]][[inhaled]][[3-Rules/trait_reference/poison|Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[3-Rules/Rule References/Divine]][[inhaled]][[3-Rules/Trait Reference/P/poison|Poison]]
 
 **Category** poison; 
 **Price** 500 gp; 
@@ -41,7 +41,7 @@ This heavier-than-air mist emits a soft glow. While this poison lasts, it causes
 
 * * *
 
-**Craft Requirements** Supply one casting of [[Spells/Sunburst|Sunburst]].
+**Craft Requirements** Supply one casting of [[Sunburst|Sunburst]].
 
 *Source: Pathfinder #160: Assault on Hunting Lodge Seven*
 *OGL*

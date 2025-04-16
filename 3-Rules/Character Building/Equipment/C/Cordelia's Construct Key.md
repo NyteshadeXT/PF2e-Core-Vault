@@ -30,7 +30,7 @@ While you're wearing the key, if your attack reduces a construct to 0 Hit Points
 
 * * *
 
-**Effect** You turn the key in the air and create a magic glyph. The key casts 3rd-rank [[Spells/Summon Construct|Summon Construct]].
+**Effect** You turn the key in the air and create a magic glyph. The key casts 3rd-rank [[Summon Construct|Summon Construct]].
 
 * * *
 

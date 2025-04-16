@@ -14,7 +14,7 @@ license: OGL
 ---
 # Red Dragon's Breath Potion (Wyrm)
 ## Item 17
-### [[consumable]][[3-Rules/trait_reference/fire]][[magical]][[potion]]
+### [[consumable]][[3-Rules/Trait Reference/F/fire]][[magical]][[potion]]
 
 **Category** potion; 
 **Price** 3000 gp; 

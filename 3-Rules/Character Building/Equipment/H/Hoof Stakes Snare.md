@@ -14,7 +14,7 @@ license: OGL
 ---
 # Hoof Stakes Snare
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 10 gp; 

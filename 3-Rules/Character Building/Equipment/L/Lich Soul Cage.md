@@ -11,7 +11,7 @@ license: OGL
 ---
 # Lich Soul Cage
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[arcane]][[void]]
+### [rare](rare.md "Rare Rarity Trait")[[arcane]][[void]]
 
 
 **Price** 1600 gp; 

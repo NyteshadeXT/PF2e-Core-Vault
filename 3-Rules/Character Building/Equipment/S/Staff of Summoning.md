@@ -34,9 +34,9 @@ This ash staff is decorated with animals, elementals, and dragons. Creatures sum
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Tangle Vine|Tangle Vine]]
-*   **1st** [[Spells/Summon Animal|Summon Animal]]
-*   **2nd** [[Spells/Marvelous Mount|Marvelous Mount]], [[Spells/Mist|Mist]], [[Spells/Summon Animal|Summon Animal]], [[Spells/Summon Elemental|Summon Elemental]]
+*   **Cantrip** [[Tangle Vine|Tangle Vine]]
+*   **1st** [[Summon Animal|Summon Animal]]
+*   **2nd** [[Marvelous Mount|Marvelous Mount]], [[Mist|Mist]], [[Summon Animal|Summon Animal]], [[Summon Elemental|Summon Elemental]]
 
 **Craft Requirements** Supply one casting of all listed ranks of all listed spells.
 

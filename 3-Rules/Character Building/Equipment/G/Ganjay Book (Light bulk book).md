@@ -9,7 +9,7 @@ license: OGL
 ---
 # Ganjay Book (Light bulk book)
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 10 gp; 

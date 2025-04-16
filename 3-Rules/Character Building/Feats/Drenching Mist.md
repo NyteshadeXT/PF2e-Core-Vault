@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Spell Trickster Dedication; ability to cast obscuring mist
 * * *
-When you cast [[Spells/Mist|Mist]], you can modify it to add the following heightened entry to its effects.
+When you cast [[Mist|Mist]], you can modify it to add the following heightened entry to its effects.
 
 * * *
 

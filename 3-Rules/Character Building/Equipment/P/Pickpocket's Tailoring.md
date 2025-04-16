@@ -9,7 +9,7 @@ license: OGL
 ---
 # Pickpocket's Tailoring
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 100 gp; 

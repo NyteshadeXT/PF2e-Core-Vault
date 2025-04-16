@@ -18,7 +18,7 @@ license: ORC
 ---
 # Frost Fair Yanyuedao
 ## Item 14
-### [unique](unique.md "Unique Rarity Trait")[[artifact]][[3-Rules/Rule References/Cold]][[deadly-d8]][[forceful]][[magical|Magical]][[3-Rules/trait_reference/reach|Reach]] 
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[3-Rules/Rule References/Cold]][[deadly-d8]][[forceful]][[magical|Magical]][[reach|Reach]] 
 
 |  |  |
 | -- | -- |

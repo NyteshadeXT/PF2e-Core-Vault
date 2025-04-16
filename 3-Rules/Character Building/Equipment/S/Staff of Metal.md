@@ -35,9 +35,9 @@ This cylindrical iron staff has colored segments on both ends, one red and one b
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrips** [[Spells/Detect Metal|Detect Metal]]
-*   **1st** [[Spells/Conductive Weapon|Conductive Weapon]], [[Spells/Shielded Arm|Shielded Arm]]
-*   **2nd** [[Spells/Magnetic Attraction|Magnetic Attraction]], [[Spells/Magnetic Repulsion|Magnetic Repulsion]]
+*   **Cantrips** [[Detect Metal|Detect Metal]]
+*   **1st** [[Conductive Weapon|Conductive Weapon]], [[Shielded Arm|Shielded Arm]]
+*   **2nd** [[Magnetic Attraction|Magnetic Attraction]], [[Magnetic Repulsion|Magnetic Repulsion]]
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

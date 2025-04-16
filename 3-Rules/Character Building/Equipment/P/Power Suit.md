@@ -10,7 +10,7 @@ license: OGL
 ---
 # Power Suit
 
-### [unique](unique "Unique Rarity Trait")
+### [unique](unique.md "Unique Rarity Trait")
 
 **Category** medium; **Group** composite
 **Price** 0 gp; 

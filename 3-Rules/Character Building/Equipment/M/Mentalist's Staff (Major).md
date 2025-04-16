@@ -34,12 +34,12 @@ This polished wooden staff bears a swirling motif reminiscent of the folds of a 
 
 * * *
 
-*   **Cantrip** [[Spells/Daze|Daze]]
-*   **1st** [[Spells/Mindlink|Mindlink]] [[Spells/Phantom Pain|Phantom Pain]]
-*   **2nd** [[Spells/Paranoia|Paranoia]]
-*   **3rd** [[Spells/Hypercognition|Hypercognition]] [[Spells/Phantom Pain|Phantom Pain]]
-*   **4th** [[Spells/Rewrite Memory|Rewrite Memory]] [[Spells/Telepathy|Telepathy]]
-*   **5th** [[Spells/Hallucination|Hallucination]] [[Spells/Phantom Pain|Phantom Pain]] [[Spells/Synaptic Pulse|Synaptic Pulse]]
+*   **Cantrip** [[Daze|Daze]]
+*   **1st** [[Mindlink|Mindlink]] [[Phantom Pain|Phantom Pain]]
+*   **2nd** [[Paranoia|Paranoia]]
+*   **3rd** [[Hypercognition|Hypercognition]] [[Phantom Pain|Phantom Pain]]
+*   **4th** [[Rewrite Memory|Rewrite Memory]] [[3-Rules/Character Building/Spells/T/Telepathy|Telepathy]]
+*   **5th** [[Hallucination|Hallucination]] [[Phantom Pain|Phantom Pain]] [[Synaptic Pulse|Synaptic Pulse]]
 
 * * *
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Pact of Blood-Taking
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[contract]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[contract]][[invested]][[magical]]
 
 
 **Price** 0 gp; 

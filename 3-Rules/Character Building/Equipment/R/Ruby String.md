@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ruby String
 ## Item 14
-### [rare](rare "Rare Rarity Trait")[[consumable]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]]
 
 **Category** other; 
 **Price** 900 gp; 

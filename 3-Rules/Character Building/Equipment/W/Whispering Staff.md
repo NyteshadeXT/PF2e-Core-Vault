@@ -60,13 +60,13 @@ This gnarled wooden staff is carved with humanoid faces in various emotional sta
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Detect Magic|Detect Magic]]
-*   **1st** [[Spells/Sure Strike|Sure Strike]]
-*   **2nd** [[Spells/Translate|Translate]], [[Spells/Darkvision|Darkvision]], [[Spells/See the Unseen|See the Unseen]]
-*   **3rd** [[Spells/Clairaudience|Clairaudience]], [[Spells/Darkvision|Darkvision]]
-*   **4th** [[Spells/Clairvoyance|Clairvoyance]], [[Spells/Translate|Translate]], [[Spells/Telepathy|Telepathy]]
-*   **5th** [[Spells/Scouting Eye|Scouting Eye]], [[Spells/Sending|Sending]]
-*   **6th** [[Spells/Telepathy|Telepathy]], [[Spells/Truesight|Truesight]]
+*   **Cantrip** [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]]
+*   **1st** [[Sure Strike|Sure Strike]]
+*   **2nd** [[Translate|Translate]], [[3-Rules/Character Building/Spells/D/Darkvision|Darkvision]], [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]]
+*   **3rd** [[Clairaudience|Clairaudience]], [[3-Rules/Character Building/Spells/D/Darkvision|Darkvision]]
+*   **4th** [[Clairvoyance|Clairvoyance]], [[Translate|Translate]], [[3-Rules/Character Building/Spells/T/Telepathy|Telepathy]]
+*   **5th** [[Scouting Eye|Scouting Eye]], [[Sending|Sending]]
+*   **6th** [[3-Rules/Character Building/Spells/T/Telepathy|Telepathy]], [[Truesight|Truesight]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Iron Wine
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]]
 
 **Category** other; 
 **Price** 3 gp; 

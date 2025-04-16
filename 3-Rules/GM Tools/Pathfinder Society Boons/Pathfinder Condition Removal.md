@@ -25,13 +25,13 @@ Penitent Pathfinder (Slotless Boon): In the course of your adventuring, you foun
 
 Spells available:
 
-*   [[Spells/Dispel Magic|Dispel Magic]] (removes one ongoing spell effect)
+*   [[Dispel Magic|Dispel Magic]] (removes one ongoing spell effect)
     
-*   [[Spells/Cleanse Affliction|Cleanse Affliction]]
+*   [[Cleanse Affliction|Cleanse Affliction]]
     
-*   [[Spells/Restoration|Restoration]]
+*   [[Restoration|Restoration]]
     
-*   [[Spells/Stone to Flesh|Stone to Flesh]]
+*   [[Stone to Flesh|Stone to Flesh]]
 
 *Source: *
 *OGL*

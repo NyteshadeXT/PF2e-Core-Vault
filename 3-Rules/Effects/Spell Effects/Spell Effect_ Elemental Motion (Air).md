@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by casting [[Spells/Elemental Motion|Elemental Motion]] if Air is your element.
+Granted by casting [[Elemental Motion|Elemental Motion]] if Air is your element.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

@@ -29,7 +29,7 @@ These gem-studded golden anklets give you a +3 item bonus to Acrobatics checks. 
 
 * * *
 
-**Effect** You click the anklets together, gaining a +20-foot status bonus to all your Speeds and the effects of [[Spells/Water Walk|Water Walk]] for the next 10 minutes.
+**Effect** You click the anklets together, gaining a +20-foot status bonus to all your Speeds and the effects of [[Water Walk|Water Walk]] for the next 10 minutes.
 
 [[Equipment Effects/Effect_ Anklets of Alacrity|Effect: Anklets of Alacrity]]
 

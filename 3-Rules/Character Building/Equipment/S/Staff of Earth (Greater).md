@@ -35,10 +35,10 @@ Geometric patterns are etched into the smooth brown and gray surface of a staff 
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Scatter Scree|Scatter Scree]]
-*   **1st** [[Spells/Pummeling Rubble|Pummeling Rubble]]
-*   **2nd** [[Spells/Expeditious Excavation|Expeditious Excavation]], [[Spells/Pummeling Rubble|Pummeling Rubble]]
-*   **3rd** [[Spells/Earthbind|Earthbind]], [[Spells/Shifting Sand|Shifting Sand]]
+*   **Cantrip** [[Scatter Scree|Scatter Scree]]
+*   **1st** [[Pummeling Rubble|Pummeling Rubble]]
+*   **2nd** [[Expeditious Excavation|Expeditious Excavation]], [[Pummeling Rubble|Pummeling Rubble]]
+*   **3rd** [[Earthbind|Earthbind]], [[Shifting Sand|Shifting Sand]]
 
 * * *
 

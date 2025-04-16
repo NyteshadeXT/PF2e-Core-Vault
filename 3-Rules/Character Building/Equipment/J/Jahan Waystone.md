@@ -12,7 +12,7 @@ license: OGL
 ---
 # Jahan Waystone
 ## Item 21
-### [rare](rare "Rare Rarity Trait")[[artifact]][[magical]][[teleportation]]
+### [rare](rare.md "Rare Rarity Trait")[[artifact]][[magical]][[teleportation]]
 
 
 **Price** 0 gp; 

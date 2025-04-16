@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You can call forth a holy or unholy word from the realms beyond to punish your foes. Once per day, you can cast [[Spells/Divine Decree|Divine Decree]] as a 7th-rank divine innate spell.
+You can call forth a holy or unholy word from the realms beyond to punish your foes. Once per day, you can cast [[Divine Decree|Divine Decree]] as a 7th-rank divine innate spell.
 
 *Source: Pathfinder Player Core*
 *ORC*

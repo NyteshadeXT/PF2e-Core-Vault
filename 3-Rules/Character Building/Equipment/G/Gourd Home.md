@@ -12,7 +12,7 @@ license: OGL
 ---
 # Gourd Home
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[extradimensional]][[magical]][[structure]]
+### [rare](rare.md "Rare Rarity Trait")[[extradimensional]][[magical]][[structure]]
 
 
 **Price** 650 gp; 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Shock
 ## Item 8
-### [[3-Rules/trait_reference/electricity]][[magical]]
+### [[3-Rules/Trait Reference/E/electricity]][[magical]]
 
 
 **Price** 500 gp; 

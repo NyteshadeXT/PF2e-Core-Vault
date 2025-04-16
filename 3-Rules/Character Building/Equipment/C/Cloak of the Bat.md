@@ -28,7 +28,7 @@ Sewn from several long strips of luxurious brown and black silk, this cloak gran
 
 * * *
 
-**Effect** You can either transform the cloak into bat-like wings that grant you a fly Speed of 30 feet for 10 minutes, or have the cloak turn you into a bat by casting a 4th-rank [[Spells/Pest Form|Pest Form]] spell on you.
+**Effect** You can either transform the cloak into bat-like wings that grant you a fly Speed of 30 feet for 10 minutes, or have the cloak turn you into a bat by casting a 4th-rank [[Pest Form|Pest Form]] spell on you.
 
 [[Equipment Effects/Effect_ Cloak of the Bat|Effect: Cloak of the Bat]]
 

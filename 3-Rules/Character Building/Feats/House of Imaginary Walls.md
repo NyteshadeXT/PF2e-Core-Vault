@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You erect an imaginary barrier others believe to be real. You learn the [[Spells/House of Imaginary Walls|House of Imaginary Walls]] composition cantrip.
+You erect an imaginary barrier others believe to be real. You learn the [[3-Rules/Character Building/Spells/H/House of Imaginary Walls|House of Imaginary Walls]] composition cantrip.
 
 *Source: Pathfinder Player Core*
 *ORC*

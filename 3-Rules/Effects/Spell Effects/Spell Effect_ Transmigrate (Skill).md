@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Transmigrate|Transmigrate]]
+Granted by [[Transmigrate|Transmigrate]]
 
 You gain a +1 status bonus to skill checks.
 

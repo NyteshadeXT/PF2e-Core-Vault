@@ -12,7 +12,7 @@ license: OGL
 ---
 # Mother Maw
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[cursed]][[extradimensional]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[extradimensional]][[magical]]
 
 
 **Price** 6000 gp; 

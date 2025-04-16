@@ -10,6 +10,6 @@ tags:
 # Wood Domain
 **Deities** [[Deities/Shumunue|Shumunue]], [[Deities/Verilorn|Verilorn]]
 
-**Domain Spell** [[Spells/Arms of Nature|Arms of Nature]]; **Advanced Domain Spell** [[Spells/Wood Walk|Wood Walk]]
+**Domain Spell** [[Arms of Nature|Arms of Nature]]; **Advanced Domain Spell** [[Wood Walk|Wood Walk]]
 
 You command the indomitable power of wood.

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Soul Chain
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[cursed]][[disarm]][[finesse]][[magical]][[trip]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[3-Rules/Trait Reference/D/disarm]][[finesse]][[magical]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

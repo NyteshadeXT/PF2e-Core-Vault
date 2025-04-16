@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Daemon Form|Daemon Form]]
+Granted by [[Daemon Form|Daemon Form]]
 
 You infuse yourself with the corrupting death and pure malevolence of Abaddon, transforming into a Large daemon battle form. You must have enough space to expand into or the spell is lost. When you cast this spell you choose either ceustodaemon, leukodaemon, meladaemon, or piscodaemon. The battle form is Medium if you choose ceustodaemon. While in this form, you gain the daemon and fiend traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
 

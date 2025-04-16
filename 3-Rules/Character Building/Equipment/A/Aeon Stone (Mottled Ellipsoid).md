@@ -20,7 +20,7 @@ license: OGL
 
 This aeon stone alters your life force. You gain void healing, which means you are damaged by vitality energy and not healed by vitality healing effects. You don't take void damage, and you are healed by void effects that heal undead.
 
-The resonant power allows you to cast 7th-rank [[Spells/False Vitality|False Vitality]] once per day.
+The resonant power allows you to cast 7th-rank [[False Vitality|False Vitality]] once per day.
 
 *Source: Pathfinder #185: A Taste of Ashes*
 *OGL*

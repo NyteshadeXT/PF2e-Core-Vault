@@ -10,6 +10,6 @@ tags:
 # Luck Domain
 **Deities** [[Deities/Bes|Bes]], [[Deities/Desna|Desna]], [[Deities/Gendowyn|Gendowyn]], [[Deities/Halcamora|Halcamora]], [[Deities/Irez|Irez]], [[Deities/Kofusachi|Kofusachi]], [[Deities/Lao Shu Po|Lao Shu Po]], [[Deities/Nivi Rhombodazzle|Nivi Rhombodazzle]]
 
-**Domain Spell** [[Spells/Bit of Luck|Bit of Luck]]; **Advanced Domain Spell** [[Spells/Lucky Break|Lucky Break]]
+**Domain Spell** [[Bit of Luck|Bit of Luck]]; **Advanced Domain Spell** [[3-Rules/Character Building/Spells/L/Lucky Break|Lucky Break]]
 
 You're unnaturally lucky and keep out of harm's way.

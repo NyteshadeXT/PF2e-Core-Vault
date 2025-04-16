@@ -14,7 +14,7 @@ license: OGL
 ---
 # Starsong Nectar
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[consumable]][[fortune]][[magical]][[potion]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[fortune]][[magical]][[potion]]
 
 **Category** potion; 
 **Price** 14000 gp; 

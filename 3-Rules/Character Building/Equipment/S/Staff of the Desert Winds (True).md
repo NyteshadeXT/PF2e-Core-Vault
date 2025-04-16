@@ -35,16 +35,16 @@ This crooked staff is made from twisting acacia wood and has a sphere of rough s
 
 * * *
 
-*   **Cantrip** [[Spells/Know the Way|Know the Way]]
-*   **1st** [[Spells/Create Water|Create Water]], [[Spells/Vanishing Tracks|Vanishing Tracks]]
-*   **2nd** [[Spells/Environmental Endurance|Environmental Endurance]], [[Spells/Enhance Victuals|Enhance Victuals]]
-*   **3rd** [[Spells/Cleanse Affliction|Cleanse Affliction]], [[Spells/Wall of Wind|Wall of Wind]]
-*   **4th** [[Spells/Air Walk|Air Walk]]
-*   **5th** [[Spells/Elemental Form|Elemental Form]]
-*   **6th** [[Spells/Petrify|Petrify]], [[Spells/Stone to Flesh|Stone to Flesh]]
-*   **7th** [[Spells/Fiery Body|Fiery Body]]
-*   **8th** [[Spells/Desiccate|Desiccate]], [[Spells/Migration|Migration]]
-*   **9th** [[Spells/Storm of Vengeance|Storm of Vengeance]]
+*   **Cantrip** [[Know the Way|Know the Way]]
+*   **1st** [[Create Water|Create Water]], [[Vanishing Tracks|Vanishing Tracks]]
+*   **2nd** [[Environmental Endurance|Environmental Endurance]], [[Enhance Victuals|Enhance Victuals]]
+*   **3rd** [[Cleanse Affliction|Cleanse Affliction]], [[Wall of Wind|Wall of Wind]]
+*   **4th** [[Air Walk|Air Walk]]
+*   **5th** [[Elemental Form|Elemental Form]]
+*   **6th** [[Petrify|Petrify]], [[Stone to Flesh|Stone to Flesh]]
+*   **7th** [[Fiery Body|Fiery Body]]
+*   **8th** [[Desiccate|Desiccate]], [[Migration|Migration]]
+*   **9th** [[Storm of Vengeance|Storm of Vengeance]]
 
 * * *
 

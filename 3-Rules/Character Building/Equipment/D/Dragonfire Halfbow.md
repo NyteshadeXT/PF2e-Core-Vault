@@ -35,7 +35,7 @@ Crafted by layering bamboo with strips of sliced scales harvested from a fire-br
 
 * * *
 
-**Effect** You draw the bow back to its maximum draw length without nocking an arrow, and as you release the string, the _dragonfire halfbow_ casts [[Spells/Fireball|Fireball]] (heightened to 5th-rank; DC 29 Reflex check save), targeted at a point of your choosing within the spell's range. You and your mount are immune to the effects of this _fireball_.
+**Effect** You draw the bow back to its maximum draw length without nocking an arrow, and as you release the string, the _dragonfire halfbow_ casts [[Fireball|Fireball]] (heightened to 5th-rank; DC 29 Reflex check save), targeted at a point of your choosing within the spell's range. You and your mount are immune to the effects of this _fireball_.
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

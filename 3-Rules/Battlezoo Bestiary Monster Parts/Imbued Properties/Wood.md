@@ -26,16 +26,16 @@ WOOD
 
 **Path** Magic; The spells granted by this imbued property are always primal.
 
-*   **2nd** The weapon can cast _[[Spells/Tangle Vine|tanglefoot]]_ as a cantrip, heightened to half the item's level rounded up.
-*   **4th** The weapon can cast _[[Spells/Protector Tree|protector tree]]_ once per day.
+*   **2nd** The weapon can cast _[[Tangle Vine|tanglefoot]]_ as a cantrip, heightened to half the item's level rounded up.
+*   **4th** The weapon can cast _[[Protector Tree|protector tree]]_ once per day.
 *   **6th** The weapon's _protector tree_ heightens to 2nd level.
-*   **8th** The weapon's _protector tree_ heightens to 3rd level and it can cast _[[Spells/Entangling Flora|entangle]]_ once per day.
+*   **8th** The weapon's _protector tree_ heightens to 3rd level and it can cast _[[Entangling Flora|entangle]]_ once per day.
 *   **10th** Strikes with the weapon deal 1 additional piercing damage from thorns and pointed branches; this additional damage has the plant trait.
-*   **12th** The weapon's _entangle_ and _protector tree_ heighten to 4th level and the weapon can cast _[[Spells/Petal Storm|petal storm]]_ once per day.
+*   **12th** The weapon's _entangle_ and _protector tree_ heighten to 4th level and the weapon can cast _[[Petal Storm|petal storm]]_ once per day.
 *   **14th** The additional piercing damage increases to 1d4.
-*   **16th** The weapon's _petal storm_ and _protector tree_ heighten to 6th level and it can cast _[[Spells/Tangling Creepers|tangling creepers]]_ once per day but can no longer cast _entangle_.
+*   **16th** The weapon's _petal storm_ and _protector tree_ heighten to 6th level and it can cast _[[Tangling Creepers|tangling creepers]]_ once per day but can no longer cast _entangle_.
 *   **18th** The additional piercing damage increases to 1d6.
-*   **20th** The weapon's _petal storm_ heightens to 8th level, and it can cast 8th-level _[[Spells/Nature's Reprisal|nature's reprisal]]_ once per day.
+*   **20th** The weapon's _petal storm_ heightens to 8th level, and it can cast 8th-level _[[Nature's Reprisal|nature's reprisal]]_ once per day.
 
 * * *
 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Remove Presence
 ## Feat 8
-### [[amp]][[illusion]][[3-Rules/trait_reference/mental]][[occult]][[psychic]]
+### [[amp]][[illusion]][[3-Rules/trait_reference/M/mental]][[occult]][[psychic]]
 
 **Category** class; 
 

@@ -23,7 +23,7 @@ This long, plain, leaden rod can disrupt magic.
 
 * * *
 
-**Effect** This rod emits a thin, gray beam that negates a spell or magic item, casting a 6th-rank [[Spells/Dispel Magic|Dispel Magic]] spell with a counteract modifier of 1d20+23. Once activated, the rod can't be activated again for 2d6 hours.
+**Effect** This rod emits a thin, gray beam that negates a spell or magic item, casting a 6th-rank [[Dispel Magic|Dispel Magic]] spell with a counteract modifier of 1d20+23. Once activated, the rod can't be activated again for 2d6 hours.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

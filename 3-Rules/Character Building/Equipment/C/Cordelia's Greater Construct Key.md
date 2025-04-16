@@ -32,7 +32,7 @@ A greater key allows you to fully comprehend and thus partially bypass a constru
 
 * * *
 
-**Effect** You turn the key in the air and create a magic glyph. The key casts 5th-rank [[Spells/Summon Construct|Summon Construct]].
+**Effect** You turn the key in the air and create a magic glyph. The key casts 5th-rank [[Summon Construct|Summon Construct]].
 
 * * *
 

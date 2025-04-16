@@ -11,7 +11,7 @@ license: OGL
 ---
 # Twilight Lantern (Lesser)
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/light]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/L/light]][[magical]]
 
 
 **Price** 235 gp; 

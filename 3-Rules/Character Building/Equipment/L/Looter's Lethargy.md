@@ -14,7 +14,7 @@ license: OGL
 ---
 # Looter's Lethargy
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/trait_reference/poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 6 gp; 

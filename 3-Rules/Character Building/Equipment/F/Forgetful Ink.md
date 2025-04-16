@@ -14,7 +14,7 @@ license: OGL
 ---
 # Forgetful Ink
 ## Item 6
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/trait_reference/poison|Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/Trait Reference/P/poison|Poison]]
 
 **Category** poison; 
 **Price** 32 gp; 

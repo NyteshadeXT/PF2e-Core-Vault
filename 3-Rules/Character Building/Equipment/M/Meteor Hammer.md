@@ -15,7 +15,7 @@ license: OGL
 ---
 # Meteor Hammer
 ## Item 0
-### [[backswing]][[disarm]][[reach]][[trip]]
+### [[backswing]][[3-Rules/Trait Reference/D/disarm]][[reach]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

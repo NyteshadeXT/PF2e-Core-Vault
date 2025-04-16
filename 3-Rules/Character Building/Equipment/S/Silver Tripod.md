@@ -14,7 +14,7 @@ license: OGL
 ---
 # Silver Tripod
 ## Item 1
-### [[consumable]][[3-Rules/trait_reference/force]][[magical]][[talisman]]
+### [[consumable]][[3-Rules/Trait Reference/F/force]][[magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 3 gp; 

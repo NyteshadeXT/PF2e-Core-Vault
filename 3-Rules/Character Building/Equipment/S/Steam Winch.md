@@ -9,7 +9,7 @@ license: OGL
 ---
 # Steam Winch
 ## Item 8
-### [rare](rare "Rare Rarity Trait")
+### [rare](rare.md "Rare Rarity Trait")
 
 
 **Price** 425 gp; 

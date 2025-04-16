@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Blood Ward|Blood Ward]]
+Granted by [[Blood Ward|Blood Ward]]
 
 You gain a +1 status bonus to saving throws and AC against creatures with the trait you select.
 

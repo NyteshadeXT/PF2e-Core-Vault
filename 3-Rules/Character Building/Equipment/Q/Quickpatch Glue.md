@@ -10,7 +10,7 @@ license: OGL
 ---
 # Quickpatch Glue
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 **Category** potion; 
 **Price** 10 gp; 

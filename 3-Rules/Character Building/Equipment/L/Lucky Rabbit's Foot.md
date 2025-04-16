@@ -14,7 +14,7 @@ license: OGL
 ---
 # Lucky Rabbit's Foot
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[fortune]][[magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[fortune]][[magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 175 gp; 

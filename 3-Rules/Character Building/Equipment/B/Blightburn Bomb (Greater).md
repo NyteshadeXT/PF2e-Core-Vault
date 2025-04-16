@@ -17,7 +17,7 @@ license: OGL
 ---
 # Blightburn Bomb (Greater)
 ## Item 20
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/disease]][[3-Rules/trait_reference/poison|Poison]][[splash]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/D/disease]][[3-Rules/Trait Reference/P/poison|Poison]][[splash]]
 
 |  |  |
 | -- | -- |

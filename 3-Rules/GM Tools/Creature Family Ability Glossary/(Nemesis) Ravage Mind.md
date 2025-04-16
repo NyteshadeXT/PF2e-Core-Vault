@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Nemesis) Ravage Mind `pf2:2`
 
-### [[3-Rules/trait_reference/mental]][[occult]]
+### [[3-Rules/trait_reference/M/mental]][[occult]]
 
 **Category** offensive; 
 

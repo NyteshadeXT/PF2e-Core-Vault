@@ -16,7 +16,7 @@ license: OGL
 ---
 # Orb Shard
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[agile]][[artifact]][[finesse]][[magical]][[versatile-s]]
+### [rare](rare.md "Rare Rarity Trait")[[agile]][[artifact]][[finesse]][[magical]][[versatile-s]]
 
 |  |  |
 | -- | -- |

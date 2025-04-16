@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Malignant Sustenance|Malignant Sustenance]].
+Granted by [[Malignant Sustenance|Malignant Sustenance]].
 
 *Source: Pathfinder Player Core*
 *ORC*

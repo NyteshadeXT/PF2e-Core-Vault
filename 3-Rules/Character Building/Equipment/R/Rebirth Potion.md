@@ -13,7 +13,7 @@ license: OGL
 ---
 # Rebirth Potion
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]][[potion]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[magical]][[potion]]
 
 **Category** potion; 
 **Price** 150 gp; 

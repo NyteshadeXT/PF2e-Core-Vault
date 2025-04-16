@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cantrip Casting
 ## Feat 2
-### [rare](rare "Rare Rarity Trait")[[pervasive-magic]]
+### [rare](rare.md "Rare Rarity Trait")[[pervasive-magic]]
 
 **Category** class; 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Peace in Dreams Tea
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]][[tea]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]][[tea]]
 
 **Category** potion; 
 **Price** 50 gp; 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Starfaring Cloak
 ## Item 24
-### [unique](unique "Unique Rarity Trait")[[artifact]][[divine]][[invested]][[3-Rules/trait_reference/light]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[divine]][[invested]][[3-Rules/trait_reference/L/light]]
 
 
 **Price** 0 gp; 
@@ -38,7 +38,7 @@ The swirling folds of a _starfaring cloak_ appear to contain the night sky, with
 
 **Frequency** once per day
 
-**Effect** The cloak casts [[Spells/Sleep|Sleep]] at 4th rank (DC 42).
+**Effect** The cloak casts [[3-Rules/Character Building/Spells/S/Sleep|Sleep]] at 4th rank (DC 42).
 
 * * *
 
@@ -46,11 +46,11 @@ The swirling folds of a _starfaring cloak_ appear to contain the night sky, with
 
 **Frequency** once per week
 
-**Effect** The cloak casts [[Spells/Teleport|Teleport]] at 10th rank. If you name no destination, it teleports you to a random planet in a random location that's safe for you.
+**Effect** The cloak casts [[Teleport|Teleport]] at 10th rank. If you name no destination, it teleports you to a random planet in a random location that's safe for you.
 
 * * *
 
-**Destruction** If the wearer of a _starfaring cloak_ is bound by [[Spells/Imprisonment|Imprisonment]] for a century and a day, the cloak dissolves into light. This time is reduced to a year and a day if the wearer is placed in eternal slumber by _imprisonment_ and subjected to the [[Spells/Nightmare|Nightmare]] spell once per day.
+**Destruction** If the wearer of a _starfaring cloak_ is bound by [[Imprisonment|Imprisonment]] for a century and a day, the cloak dissolves into light. This time is reduced to a year and a day if the wearer is placed in eternal slumber by _imprisonment_ and subjected to the [[3-Rules/Character Building/Spells/N/Nightmare|Nightmare]] spell once per day.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

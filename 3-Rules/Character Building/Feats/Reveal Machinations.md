@@ -12,7 +12,7 @@ license: OGL
 ---
 # Reveal Machinations `pf2:1`
 ## Feat 15
-### [rare](rare "Rare Rarity Trait")[[general]][[skill]]
+### [rare](rare.md "Rare Rarity Trait")[[general]][[skill]]
 
 **Category** skill; 
 

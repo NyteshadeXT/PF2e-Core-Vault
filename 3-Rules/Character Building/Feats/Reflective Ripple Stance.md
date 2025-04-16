@@ -13,7 +13,7 @@ license: OGL
 ---
 # Reflective Ripple Stance `pf2:1`
 ## Feat 1
-### [[monk]][[stance]][[3-Rules/trait_reference/water]]
+### [[monk]][[stance]][[3-Rules/trait_reference/W/water]]
 
 **Category** class; 
 

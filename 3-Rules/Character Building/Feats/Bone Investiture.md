@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Bone Magic
 * * *
-You encase yourself in spiritual dinosaur bones to become a Huge dinosaur. You can cast [[Spells/Dinosaur Form|Dinosaur Form]] on yourself as a 5th-rank innate spell once per day.
+You encase yourself in spiritual dinosaur bones to become a Huge dinosaur. You can cast [[Dinosaur Form|Dinosaur Form]] on yourself as a 5th-rank innate spell once per day.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

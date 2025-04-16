@@ -11,14 +11,14 @@ license: OGL
 ---
 # Effect: Overwhelming Perfume
 ## Level 5
-### [[disease]]
+### [[3-Rules/trait_reference/D/disease]]
 
 
 
 
 
 
-Granted by [[Spells/Mantle of the Unwavering Heart|Mantle of the Unwavering Heart]]
+Granted by [[Mantle of the Unwavering Heart|Mantle of the Unwavering Heart]]
 
 Creatures in the aura can't benefit from the scent ability and are sickened 1 as long as they remain in the aura.
 

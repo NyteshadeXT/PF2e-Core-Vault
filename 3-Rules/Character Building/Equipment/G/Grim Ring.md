@@ -12,7 +12,7 @@ license: OGL
 ---
 # Grim Ring
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[detection]][[divine]][[invested]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[detection]][[divine]][[invested]]
 
 
 **Price** 150 gp; 

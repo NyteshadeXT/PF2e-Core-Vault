@@ -13,7 +13,7 @@ license: OGL
 ---
 # Rhoka Sword
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[two-hand-d10]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d8]][[two-hand-d10]]
 
 |  |  |
 | -- | -- |

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Kortos Diamond
 ## Item 22
-### [unique](unique "Unique Rarity Trait")[[artifact]][[divine]][[versatile-p]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[divine]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -53,7 +53,7 @@ If you ever travel farther than 100 miles from the Isle of Kortos while in posse
 
 **Frequency** once per day
 
-**Effect** You hold the _Kortos Diamond_ aloft and proclaim your might in a booming voice. You cast [[Spells/Overwhelming Presence|Overwhelming Presence]] (DC 42).
+**Effect** You hold the _Kortos Diamond_ aloft and proclaim your might in a booming voice. You cast [[Overwhelming Presence|Overwhelming Presence]] (DC 42).
 
 * * *
 

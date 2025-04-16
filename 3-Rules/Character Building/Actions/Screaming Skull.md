@@ -13,7 +13,7 @@ license: OGL
 ---
 # Screaming Skull `pf2:2`
 
-### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Emotion]][[3-Rules/trait_reference/fear]][[3-Rules/Rule References/Mental]]
+### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Emotion]][[3-Rules/Trait Reference/F/fear]][[3-Rules/Rule References/Mental]]
 
 
 

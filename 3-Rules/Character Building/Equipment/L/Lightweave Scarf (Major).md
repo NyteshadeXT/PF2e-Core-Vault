@@ -30,7 +30,7 @@ The first of these strips of glittering cloth was worn by a monk from Jinin who 
 
 * * *
 
-**Effect** You cast [[Spells/Light|Light]].
+**Effect** You cast [[3-Rules/Character Building/Spells/L/Light|Light]].
 
 **Activate** Cast a Spell
 
@@ -38,7 +38,7 @@ The first of these strips of glittering cloth was worn by a monk from Jinin who 
 
 * * *
 
-**Effect** You cast 8th-rank [[Spells/Vibrant Pattern|Vibrant Pattern]].
+**Effect** You cast 8th-rank [[Vibrant Pattern|Vibrant Pattern]].
 
 **Activate** Cast a Spell
 
@@ -46,7 +46,7 @@ The first of these strips of glittering cloth was worn by a monk from Jinin who 
 
 * * *
 
-**Effect** You cast [[Spells/Confusing Colors|Scintillating Pattern]].
+**Effect** You cast [[Confusing Colors|Scintillating Pattern]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

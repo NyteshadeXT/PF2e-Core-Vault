@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You've learned to call upon light to reveal what is hidden. You gain the [[Spells/Light of Revelation|Light of Revelation]]devotion spell. Increase the number of Focus Points in your focus pool by 1.
+You've learned to call upon light to reveal what is hidden. You gain the [[3-Rules/Character Building/Spells/L/Light of Revelation|Light of Revelation]]devotion spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

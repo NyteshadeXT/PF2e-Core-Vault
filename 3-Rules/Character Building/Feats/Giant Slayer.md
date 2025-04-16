@@ -11,7 +11,7 @@ license: OGL
 ---
 # Giant Slayer
 ## Feat 16
-### [rare](rare "Rare Rarity Trait")[[ranger]]
+### [rare](rare.md "Rare Rarity Trait")[[ranger]]
 
 **Category** class; 
 

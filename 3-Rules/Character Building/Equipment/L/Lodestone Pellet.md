@@ -12,7 +12,7 @@ license: OGL
 ---
 # Lodestone Pellet
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]]
 
 **Category** ammo; 
 **Price** 12 gp; 

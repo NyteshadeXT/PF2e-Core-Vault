@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You conjure uncanny orbs of spiritual flame that float above or below the water's surface. You can cast the [[Spells/Ignition|Ignition]] cantrip as a primal innate spell at will, heightened to a spell rank equal to half your level rounded up. Your ignition spell takes the form of orbs of fire, and you can cast it underwater.
+You conjure uncanny orbs of spiritual flame that float above or below the water's surface. You can cast the [[Ignition|Ignition]] cantrip as a primal innate spell at will, heightened to a spell rank equal to half your level rounded up. Your ignition spell takes the form of orbs of fire, and you can cast it underwater.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

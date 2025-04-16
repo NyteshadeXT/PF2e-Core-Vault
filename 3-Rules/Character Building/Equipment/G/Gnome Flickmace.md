@@ -15,7 +15,7 @@ license: ORC
 ---
 # Gnome Flickmace
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[gnome]][[reach]][[sweep]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[gnome]][[reach]][[sweep]]
 
 |  |  |
 | -- | -- |

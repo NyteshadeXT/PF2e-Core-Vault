@@ -15,7 +15,7 @@ license: OGL
 ---
 # Glaive of the Artist
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[forceful]][[magical]][[reach]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d8]][[forceful]][[magical]][[reach]]
 
 |  |  |
 | -- | -- |

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Sleepwalker Dedication
 * * *
-While in your trance, you can blur the line between dreams and reality for others. You gain the [[Spells/Waking Dream|Waking Dream]] focus spell, which you can use only while you're in a Daydream Trance. You gain a pool of Focus Points with 1 Focus Point and you can Refocus by taking a nap for 10 minutes. You become trained in occult spell attack rolls and spell DCs, and your spellcasting ability for these spells is Wisdom.
+While in your trance, you can blur the line between dreams and reality for others. You gain the [[3-Rules/Character Building/Spells/W/Waking Dream|Waking Dream]] focus spell, which you can use only while you're in a Daydream Trance. You gain a pool of Focus Points with 1 Focus Point and you can Refocus by taking a nap for 10 minutes. You become trained in occult spell attack rolls and spell DCs, and your spellcasting ability for these spells is Wisdom.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

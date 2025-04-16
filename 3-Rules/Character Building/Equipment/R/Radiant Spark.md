@@ -11,7 +11,7 @@ license: OGL
 ---
 # Radiant Spark
 ## Item 25
-### [unique](unique "Unique Rarity Trait")[[artifact]][[occult]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[occult]]
 
 
 **Price** 0 gp; 
@@ -30,13 +30,13 @@ If you are good, while holding the Radiant Spark, you are [[Conditions/Sickened|
 
 * * *
 
-**Effect** The Radiant Spark casts a 10th-rank [[Spells/Dominate|Dominate]] spell (DC 49 Will check) on a creature that isn't from the Material Plane. Celestials get an outcome one degree of success worse than the result of their save.
+**Effect** The Radiant Spark casts a 10th-rank [[Dominate|Dominate]] spell (DC 49 Will check) on a creature that isn't from the Material Plane. Celestials get an outcome one degree of success worse than the result of their save.
 
 * * *
 
 **Activate** `pf2:0` envision
 
-**Trigger** You begin casting a [[Spells/Binding Circle|Binding Circle]] ritual
+**Trigger** You begin casting a [[Binding Circle|Binding Circle]] ritual
 
 * * *
 
@@ -58,7 +58,7 @@ If you are good, while holding the Radiant Spark, you are [[Conditions/Sickened|
 
 **Success** The target is [[Conditions/Drained|Drained 2]].
 
-**Failure** The target dies and its essence is trapped within the Radiant Spark. It can be brought back to life only with powerful magic such as [[Spells/Wish|Wish]] or [[Spells/Miracle|Miracle]].
+**Failure** The target dies and its essence is trapped within the Radiant Spark. It can be brought back to life only with powerful magic such as [[Wish|Wish]] or [[Miracle|Miracle]].
 
 **Critical Failure** As failure, and the target can't be brought back to life until the Radiant Spark is destroyed.
 

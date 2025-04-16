@@ -16,7 +16,7 @@ license: ORC
 ---
 # Tiger Fork
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[grapple]][[magical]][[thrown-20]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/D/disarm]][[3-Rules/trait_reference/G/grapple]][[magical]][[thrown-20]]
 
 |  |  |
 | -- | -- |

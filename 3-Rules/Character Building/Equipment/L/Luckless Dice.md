@@ -12,7 +12,7 @@ license: OGL
 ---
 # Luckless Dice
 ## Item 2
-### [rare](rare "Rare Rarity Trait")[[cursed]][[magical]][[misfortune]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[magical]][[misfortune]]
 
 
 **Price** 5 gp; 

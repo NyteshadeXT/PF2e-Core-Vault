@@ -16,7 +16,7 @@ license: ORC
 ---
 # Tengu Gale Blade
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[disarm]][[finesse]][[tengu]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[3-Rules/trait_reference/D/disarm]][[finesse]][[tengu]]
 
 |  |  |
 | -- | -- |

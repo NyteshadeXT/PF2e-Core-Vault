@@ -26,7 +26,7 @@ This polished black wand has a green gem at the tip, and anyone who looks into i
 
 * * *
 
-**Effect** You cast [[Spells/Execute|Execute]] at 8th rank.
+**Effect** You cast [[Execute|Execute]] at 8th rank.
 
 If the spell slays its target, the corpse releases void energy in a 20-foot emanation, dealing void damage equal to double the spell's rank (16 void damage).
 

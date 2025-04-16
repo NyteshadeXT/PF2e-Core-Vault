@@ -14,7 +14,7 @@ license: OGL
 ---
 # Shield Pistol
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[attached-to-shield]][[concussive]][[fatal-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[attached-to-shield]][[concussive]][[fatal-d8]]
 
 |  |  |
 | -- | -- |

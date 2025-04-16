@@ -34,8 +34,8 @@ This white wood staff is capped at each end with a golden cross adorned with rub
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Stabilize|Stabilize]]
-*   **1st** [[Spells/Heal|Heal]]
+*   **Cantrip** [[Stabilize|Stabilize]]
+*   **1st** [[Heal|Heal]]
 
 * * *
 

@@ -23,7 +23,7 @@ license: ORC
 * * *
 You can mimic the sheer mass of the largest beasts. You can cast
 
-[[Spells/Enlarge|Enlarge]], targeting yourself once per 10 minutes as an innate 2nd-rank primal spell. At 12th level, the spell is heightened to 4th rank.
+[[Enlarge|Enlarge]], targeting yourself once per 10 minutes as an innate 2nd-rank primal spell. At 12th level, the spell is heightened to 4th rank.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

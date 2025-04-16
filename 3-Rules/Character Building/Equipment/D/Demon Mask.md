@@ -27,7 +27,7 @@ This terrifying mask is crafted in the visage of a leering demon and grants a +1
 
 * * *
 
-**Effect** The mask casts a [[Spells/Fear|Fear]] spell with a DC of 20.
+**Effect** The mask casts a [[3-Rules/Character Building/Spells/F/Fear|Fear]] spell with a DC of 20.
 
 *Source: Pathfinder GM Core*
 *ORC*

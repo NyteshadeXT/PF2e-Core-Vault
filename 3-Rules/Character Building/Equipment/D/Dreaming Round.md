@@ -16,7 +16,7 @@ license: OGL
 ---
 # Dreaming Round
 ## Item 14
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Rule References/Incapacitation]][[magical|Magical]][[3-Rules/Rule References/Mental]][[3-Rules/trait_reference/sleep]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Rule References/Incapacitation]][[magical|Magical]][[3-Rules/Rule References/Mental]][[3-Rules/Trait Reference/S/sleep]]
 
 **Category** ammo; 
 **Price** 900 gp; 

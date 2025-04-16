@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You've established a stronger connection with your past selves and can play out the memories of your lifetimes in an instant, helping you draw on knowledge that lives deep within your mind. You can cast [[Spells/Hypercognition|Hypercognition]] as an occult innate spell once per day.
+You've established a stronger connection with your past selves and can play out the memories of your lifetimes in an instant, helping you draw on knowledge that lives deep within your mind. You can cast [[Hypercognition|Hypercognition]] as an occult innate spell once per day.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

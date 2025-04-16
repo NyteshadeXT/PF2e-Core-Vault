@@ -12,7 +12,7 @@ license: OGL
 ---
 # Say That Again! `pf2:r`
 ## Feat 6
-### [rare](rare "Rare Rarity Trait")[[general]][[skill]]
+### [rare](rare.md "Rare Rarity Trait")[[general]][[skill]]
 
 **Category** skill; 
 

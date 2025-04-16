@@ -11,7 +11,7 @@ license: OGL
 ---
 # Librarian's Baton
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[detection]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[detection]][[magical]]
 
 
 **Price** 650 gp; 

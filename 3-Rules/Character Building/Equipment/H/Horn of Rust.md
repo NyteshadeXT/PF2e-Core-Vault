@@ -12,7 +12,7 @@ license: OGL
 ---
 # Horn of Rust
 ## Item 5
-### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[invested]][[magical]]
 
 
 **Price** 0 gp; 
@@ -29,10 +29,10 @@ Some of the Horn of Rust's activated powers consume charges, similar to how a ma
 
 **Effect** You expend a number of charges from the Horn of Rust to cast a spell from the following list.
 
-*   Cantrip [[Spells/Divine Lance|Divine Lance]]
-*   1st [[Spells/Noxious Vapors|Noxious Vapors]]
-*   2nd [[Spells/Shatter|Shatter]]
-*   3rd [[Spells/Stinking Cloud|Stinking Cloud]]
+*   Cantrip [[Divine Lance|Divine Lance]]
+*   1st [[Noxious Vapors|Noxious Vapors]]
+*   2nd [[Shatter|Shatter]]
+*   3rd [[Stinking Cloud|Stinking Cloud]]
 
 The following activations do not consume charges from the Horn of Rust, and they can be utilized even when the artifact has no charges available.
 

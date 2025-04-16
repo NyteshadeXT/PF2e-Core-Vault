@@ -32,7 +32,7 @@ If you aren't evil, you're [[Conditions/Drained 1|Drained 2]] and can't recover 
 
 * * *
 
-**Effect** You cast [[Spells/Translocate|Translocate]].
+**Effect** You cast [[Translocate|Translocate]].
 
 **Craft Requirements** You are evil; supply one casting of _dimension door_.
 

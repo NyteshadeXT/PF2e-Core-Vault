@@ -27,7 +27,7 @@ This short golden crown bears a number of gems, each placed in the center of an 
 
 **Trigger** A living creature within 60 feet would die
 
-**Effect** You reach out to the creature with a lifeline. The triggering creature receives the effects of [[Spells/Breath of Life|Breath of Life]], except they recover 7d8 healing Hit Points.
+**Effect** You reach out to the creature with a lifeline. The triggering creature receives the effects of [[Breath of Life|Breath of Life]], except they recover 7d8 healing Hit Points.
 
 * * *
 

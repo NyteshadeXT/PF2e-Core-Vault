@@ -11,7 +11,7 @@ license: OGL
 ---
 # Phantom Shroud
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 15000 gp; 
@@ -26,7 +26,7 @@ This pale blue cloak is wispy, thin, and cold to the touch. When worn, the cloak
 
 * * *
 
-**Effect** You fold the cloak around yourself, and it casts [[Spells/Ethereal Jaunt|Ethereal Jaunt]] on you. You can Sustain the activation for up to 10 minutes. When the activation ends, you return to material form.
+**Effect** You fold the cloak around yourself, and it casts [[Ethereal Jaunt|Ethereal Jaunt]] on you. You can Sustain the activation for up to 10 minutes. When the activation ends, you return to material form.
 
 *Source: Pathfinder #185: A Taste of Ashes*
 *OGL*

@@ -16,7 +16,7 @@ license: ORC
 ---
 # Primal Pollen
 ## Item 5
-### [[consumable]][[inhaled]][[magical]][[3-Rules/trait_reference/poison]][[primal]]
+### [[consumable]][[inhaled]][[magical]][[3-Rules/Trait Reference/P/poison]][[primal]]
 
 **Category** poison; 
 **Price** 25 gp; 

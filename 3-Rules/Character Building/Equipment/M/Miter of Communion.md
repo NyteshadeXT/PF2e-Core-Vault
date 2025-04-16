@@ -11,7 +11,7 @@ license: OGL
 ---
 # Miter of Communion
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 800 gp; 
@@ -26,7 +26,7 @@ This ornate headgear comes in many different shapes and sizes, though most are e
 
 * * *
 
-**Effect** You chant for a minute about a task at hand for the coming week to cast a 4th-rank [[Spells/Read Omens|Read Omens]] spell that grants you cryptic but useful advice.
+**Effect** You chant for a minute about a task at hand for the coming week to cast a 4th-rank [[Read Omens|Read Omens]] spell that grants you cryptic but useful advice.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

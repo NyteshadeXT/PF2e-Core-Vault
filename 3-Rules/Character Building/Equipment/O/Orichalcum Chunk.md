@@ -11,7 +11,7 @@ license: ORC
 ---
 # Orichalcum Chunk
 
-### [rare](rare "Rare Rarity Trait")[[precious]]
+### [rare](rare.md "Rare Rarity Trait")[[precious]]
 
 
 **Price** 1000 gp; 

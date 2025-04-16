@@ -15,7 +15,7 @@ license: ORC
 ---
 # Temperbrand
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[3-Rules/trait_reference/fire]][[magical]][[shove]]
+### [unique](unique "Unique Rarity Trait")[[3-Rules/trait_reference/F/fire]][[magical]][[3-Rules/trait_reference/S/shove]]
 
 |  |  |
 | -- | -- |

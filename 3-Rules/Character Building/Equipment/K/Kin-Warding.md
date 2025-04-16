@@ -11,7 +11,7 @@ license: OGL
 ---
 # Kin-Warding
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[dwarf]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[dwarf]][[magical]]
 
 
 **Price** 52 gp; 

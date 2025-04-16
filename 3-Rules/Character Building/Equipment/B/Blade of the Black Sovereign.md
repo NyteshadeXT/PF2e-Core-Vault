@@ -33,7 +33,7 @@ On a hit against a foe made of metal, wearing metal armor, or using a metal shie
 
 **Activate** `pf2:2` command, Interact
 
-**Effect** You cast the [[Spells/Electric Arc|Electric Arc]] cantrip from the sword as an 8th-rank primal spell, using 10 + your melee attack modifier with the _Blade of the Black Sovereign_ as your spell DC.
+**Effect** You cast the [[Electric Arc|Electric Arc]] cantrip from the sword as an 8th-rank primal spell, using 10 + your melee attack modifier with the _Blade of the Black Sovereign_ as your spell DC.
 
 *Source: Pathfinder Lost Omens: Legends*
 *OGL*

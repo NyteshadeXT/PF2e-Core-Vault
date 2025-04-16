@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sun Orchid Elixir
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[elixir]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[elixir]]
 
 **Category** elixir; 
 **Price** 0 gp; 

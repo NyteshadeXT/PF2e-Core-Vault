@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** dokkaebi goblin heritage
 * * *
-You weave your illusions with greater ability, allowing you to play tricks and slip through the night. You can cast [[Spells/Darkness|Darkness]] and [[Spells/Ventriloquism|Ventriloquism]] as 2nd-rank innate occult spells, each once per day.
+You weave your illusions with greater ability, allowing you to play tricks and slip through the night. You can cast [[3-Rules/Character Building/Spells/D/Darkness|Darkness]] and [[Ventriloquism|Ventriloquism]] as 2nd-rank innate occult spells, each once per day.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

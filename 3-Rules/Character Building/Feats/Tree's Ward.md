@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You've lived among trees for so long they recognize your presence and seek to protect you from harm. You can cast [[Spells/Protector Tree|Protector Tree]] as a primal innate spell once per day.
+You've lived among trees for so long they recognize your presence and seek to protect you from harm. You can cast [[Protector Tree|Protector Tree]] as a primal innate spell once per day.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Life's Last Breath
 ## Item 18
-### [unique](unique "Unique Rarity Trait")[[deadly-d8]][[Holy]][[magical]][[two-hand-d10]]
+### [unique](unique.md "Unique Rarity Trait")[[deadly-d8]][[Holy]][[magical]][[two-hand-d10]]
 
 |  |  |
 | -- | -- |
@@ -40,7 +40,7 @@ _Life's Last Breath_ is a _+3 greater striking [[Unholy|Unholy]] [[Wounding|Woun
 
 * * *
 
-**Effect** You cast a 9th-rank [[Spells/Paralyze|Paralyze]] spell on the target.
+**Effect** You cast a 9th-rank [[Paralyze|Paralyze]] spell on the target.
 
 * * *
 

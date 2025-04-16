@@ -12,7 +12,7 @@ license: OGL
 ---
 # Headbands of Translocation
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[teleportation]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]][[teleportation]]
 
 
 **Price** 10000 gp; 

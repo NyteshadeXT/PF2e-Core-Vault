@@ -17,7 +17,7 @@ license: OGL
 ---
 # Wiles on the Wind `pf2:2`
 ## Feat 12
-### [[3-Rules/trait_reference/air]][[auditory]][[illusion]][[impulse]][[kineticist]][[primal]]
+### [[3-Rules/trait_reference/A/air]][[auditory]][[illusion]][[impulse]][[kineticist]][[primal]]
 
 **Category** class; 
 

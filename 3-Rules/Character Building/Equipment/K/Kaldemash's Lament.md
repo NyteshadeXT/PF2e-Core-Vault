@@ -15,7 +15,7 @@ license: OGL
 ---
 # Kaldemash's Lament
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[concealable]][[concussive]][[fatal-d10]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[concealable]][[concussive]][[fatal-d10]][[magical]]
 
 |  |  |
 | -- | -- |

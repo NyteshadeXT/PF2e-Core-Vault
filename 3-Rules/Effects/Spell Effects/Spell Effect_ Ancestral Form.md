@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Ancestral Form|Ancestral Form]]
+Granted by [[3-Rules/Character Building/Spells/A/Ancestral Form|Ancestral Form]]
 
 You gain resistance to all damage (except force and damage from Strikes with the ghost touch property rune), and this resistance is doubled against non-magical and precision damage.
 

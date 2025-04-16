@@ -28,7 +28,7 @@ A _bravery baldric_ is a belt that wraps around the shoulder and draws on your w
 
 **Frequency** once per hour
 
-**Effect** One charge in the baldric expires, and you gain the effects of [[Spells/Fleet Step|Fleet Step]].
+**Effect** One charge in the baldric expires, and you gain the effects of [[Fleet Step|Fleet Step]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

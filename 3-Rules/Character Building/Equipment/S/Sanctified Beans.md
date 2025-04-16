@@ -14,7 +14,7 @@ license: OGL
 ---
 # Sanctified Beans
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[magical]][[vitality]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[divine]][[magical]][[vitality]]
 
 **Category** other; 
 **Price** 250 gp; 

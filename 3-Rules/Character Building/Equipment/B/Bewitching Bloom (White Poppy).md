@@ -27,7 +27,7 @@ While dormant, this tattoo appears to be a simple flower bud, but when activated
 
 * * *
 
-**Effect** Choose a willing ally you can see within 30 feet. A sense of peace overwhelms the ally. The tattoo casts [[Spells/Calm|Calm]] or [[Spells/Sanctuary|Sanctuary]] (your choice) on the ally. The spell affects only the ally and lasts only until the end of your next turn. Your ally need not be willing if under the control of another creature. However, the controlling creature can attempt a DC 20 Will check save, disrupting your activation on a success.
+**Effect** Choose a willing ally you can see within 30 feet. A sense of peace overwhelms the ally. The tattoo casts [[Calm|Calm]] or [[Sanctuary|Sanctuary]] (your choice) on the ally. The spell affects only the ally and lasts only until the end of your next turn. Your ally need not be willing if under the control of another creature. However, the controlling creature can attempt a DC 20 Will check save, disrupting your activation on a success.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

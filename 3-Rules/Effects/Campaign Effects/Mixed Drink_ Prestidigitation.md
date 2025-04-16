@@ -16,7 +16,7 @@ license: OGL
 
 
 
-You can cast [[Spells/Prestidigitation|Prestidigitation]] as a primal cantrip once within the next day.
+You can cast [[Prestidigitation|Prestidigitation]] as a primal cantrip once within the next day.
 
 *Source: Pathfinder #178: Punks in a Powder Keg*
 *OGL*

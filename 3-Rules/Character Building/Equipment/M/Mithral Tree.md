@@ -15,7 +15,7 @@ license: OGL
 ---
 # Mithral Tree
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concussive]][[elf]][[fatal-d10]][[parry]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concussive]][[elf]][[fatal-d10]][[parry]]
 
 |  |  |
 | -- | -- |

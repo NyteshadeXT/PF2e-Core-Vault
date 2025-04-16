@@ -34,12 +34,12 @@ This white wood staff is capped at each end with a golden cross adorned with rub
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Stabilize|Stabilize]]
-*   **1st** [[Spells/Heal|Heal]]
-*   **2nd** [[Spells/Clear Mind|Clear Mind]] [[Spells/Heal|Heal]] [[Spells/Sound Body|Sound Body]]
-*   **3rd** [[Spells/Cleanse Affliction|Cleanse Affliction]] [[Spells/Heal|Heal]]
-*   **4th** [[Spells/Cleanse Affliction|Cleanse Affliction]] [[Spells/Clear Mind|Clear Mind]] [[Spells/Sound Body|Sound Body]]
-*   **5th** [[Spells/Breath of Life|Breath of Life]] [[Spells/Heal|Heal]]
+*   **Cantrip** [[Stabilize|Stabilize]]
+*   **1st** [[Heal|Heal]]
+*   **2nd** [[Clear Mind|Clear Mind]] [[Heal|Heal]] [[Sound Body|Sound Body]]
+*   **3rd** [[Cleanse Affliction|Cleanse Affliction]] [[Heal|Heal]]
+*   **4th** [[Cleanse Affliction|Cleanse Affliction]] [[Clear Mind|Clear Mind]] [[Sound Body|Sound Body]]
+*   **5th** [[Breath of Life|Breath of Life]] [[Heal|Heal]]
 
 * * *
 

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Nagaji Spell Mysteries
 * * *
-Your magical skill rivals that of accomplished naga spellcasters. During your daily preparations, choose [[Spells/Flicker|Flicker]], [[Spells/Control Water|Control Water]], or [[Spells/Subconscious Suggestion|Subconscious Suggestion]]. You can Cast this Spell as a 5th-rank occult innate spell once that day. You become an expert in occult spell DCs and occult spell attack rolls.
+Your magical skill rivals that of accomplished naga spellcasters. During your daily preparations, choose [[3-Rules/Character Building/Spells/F/Flicker|Flicker]], [[Control Water|Control Water]], or [[Subconscious Suggestion|Subconscious Suggestion]]. You can Cast this Spell as a 5th-rank occult innate spell once that day. You become an expert in occult spell DCs and occult spell attack rolls.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

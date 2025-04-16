@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Your ocular processors are augmented with advanced targeting systems, which allow you to more easily pinpoint your enemy and read their movements. You can cast [[Spells/Sure Strike|Sure Strike]] once per day as a 1st-rank arcane innate spell.
+Your ocular processors are augmented with advanced targeting systems, which allow you to more easily pinpoint your enemy and read their movements. You can cast [[Sure Strike|Sure Strike]] once per day as a 1st-rank arcane innate spell.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

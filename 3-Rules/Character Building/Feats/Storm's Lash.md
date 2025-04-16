@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Wind and lightning have always been friends to you. You can cast the [[Spells/Electric Arc|Electric Arc]] cantrip as a primal innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
+Wind and lightning have always been friends to you. You can cast the [[Electric Arc|Electric Arc]] cantrip as a primal innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Elder Sign
 ## Item 25
-### [rare](rare.md "Rare Rarity Trait")[[artifact]][[3-Rules/trait_reference/occult|Occult]]
+### [rare](rare.md "Rare Rarity Trait")[[artifact]][[occult|Occult]]
 
 
 **Price** 0 gp; 

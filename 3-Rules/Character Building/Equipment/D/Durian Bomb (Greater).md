@@ -18,7 +18,7 @@ license: ORC
 ---
 # Durian Bomb (Greater)
 ## Item 11
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[olfactory]][[3-Rules/trait_reference/plant]][[splash]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[olfactory]][[plant]][[splash]]
 
 |  |  |
 | -- | -- |

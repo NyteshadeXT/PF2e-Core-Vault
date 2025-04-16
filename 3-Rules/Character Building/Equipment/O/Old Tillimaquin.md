@@ -9,7 +9,7 @@ license: OGL
 ---
 # Old Tillimaquin
 ## Item 12
-### [unique](unique "Unique Rarity Trait")
+### [unique](unique.md "Unique Rarity Trait")
 
 
 **Price** 2000 gp; 

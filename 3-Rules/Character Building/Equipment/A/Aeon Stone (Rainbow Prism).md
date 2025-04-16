@@ -34,7 +34,7 @@ While this aeon stone orbits your head, the flat part of its base tumbles to bri
 
 * * *
 
-**Effect** The aeon stone casts a 3rd-rank [[Spells/Illusory Disguise|Illusory Disguise]] on you, which must be of one of the creatures it has currently captured. While you are under the effects of this spell, the aeon stone is [[Conditions/Invisible|Invisible]].
+**Effect** The aeon stone casts a 3rd-rank [[Illusory Disguise|Illusory Disguise]] on you, which must be of one of the creatures it has currently captured. While you are under the effects of this spell, the aeon stone is [[Conditions/Invisible|Invisible]].
 
 The resonant power allows the stone to capture up to 5 images. If removed from the _wayfinder_, you must decide which images to lose.
 

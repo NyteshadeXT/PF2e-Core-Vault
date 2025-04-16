@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Elemental Absorption|Elemental Absorption]]
+Granted by [[Elemental Absorption|Elemental Absorption]]
 
 You absorb elemental energy, which you can release as a powerful counterattack. Choose air, earth, fire, or water. You gain resistance 5 to damage dealt by effects with the chosen elemental trait; if you choose water, you also gain resistance to cold damage. As usual, if a spell has a multiple effects, such as a spell that deals both fire damage and bludgeoning damage with superheated rocks, you gain resistance to only the effects associated with the element you chose. Keep track of how much damage you have prevented with this spell.
 

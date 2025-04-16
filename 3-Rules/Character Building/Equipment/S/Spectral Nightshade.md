@@ -14,7 +14,7 @@ license: OGL
 ---
 # Spectral Nightshade
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[ingested]][[3-Rules/trait_reference/poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[divine]][[ingested]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 450 gp; 
@@ -41,7 +41,7 @@ Belladonna cultivated in planes hazardous to living visitors, such as the Shadow
 
 * * *
 
-**Craft Requirements** Supply one casting of [[Spells/Spirit Blast|Spirit Blast]].
+**Craft Requirements** Supply one casting of [[Spirit Blast|Spirit Blast]].
 
 *Source: Pathfinder #160: Assault on Hunting Lodge Seven*
 *OGL*

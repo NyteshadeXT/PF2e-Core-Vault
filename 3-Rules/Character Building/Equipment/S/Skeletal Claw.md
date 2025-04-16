@@ -18,7 +18,7 @@ license: OGL
 ---
 # Skeletal Claw
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[disarm]][[finesse]][[free-hand]][[magical]][[monk]][[parry]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[3-Rules/Trait Reference/D/disarm]][[finesse]][[free-hand]][[magical]][[monk]][[parry]]
 
 |  |  |
 | -- | -- |
@@ -37,7 +37,7 @@ This _+1 striking tekko-kagi_ resembles a clawed skeletal hand that fits over yo
 
 **Frequency** once per day
 
-**Trigger** You cast a spell to summon an undead creature that has a skeletal structure, such as with [[Spells/Summon Undead|Summon Undead]]
+**Trigger** You cast a spell to summon an undead creature that has a skeletal structure, such as with [[Summon Undead|Summon Undead]]
 
 * * *
 

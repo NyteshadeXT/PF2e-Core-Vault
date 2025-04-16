@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Enlarge|Enlarge]]
+Granted by [[Enlarge|Enlarge]]
 
 Bolstered by magical power, the target grows to size Large. Its equipment grows with it but returns to natural size if removed. The creature is clumsy 1. Its reach increases by 5 feet (or by 10 feet if it started out Tiny), and it gains a +2 status bonus to melee damage. This spell has no effect on a Large or larger creature.
 

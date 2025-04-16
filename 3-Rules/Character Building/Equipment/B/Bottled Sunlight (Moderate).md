@@ -18,7 +18,7 @@ license: OGL
 ---
 # Bottled Sunlight (Moderate)
 ## Item 4
-### [[alchemical]][[bomb]][[consumable]][[3-Rules/Rule References/Fire]][[3-Rules/trait_reference/light]][[splash]][[vitality]]
+### [[alchemical]][[bomb]][[consumable]][[3-Rules/Rule References/Fire]][[3-Rules/Trait Reference/L/light]][[splash]][[vitality]]
 
 |  |  |
 | -- | -- |

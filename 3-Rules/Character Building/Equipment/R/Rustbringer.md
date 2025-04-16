@@ -17,7 +17,7 @@ license: OGL
 ---
 # Rustbringer
 ## Item 10
-### [[disarm]][[magical]][[metal]][[sweep]][[trip]]
+### [[3-Rules/Trait Reference/D/disarm]][[magical]][[metal]][[sweep]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Phantom Piano
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[focused]][[intelligent]][[occult]]
+### [rare](rare.md "Rare Rarity Trait")[[focused]][[intelligent]][[occult]]
 
 
 **Price** 100 gp; 
@@ -35,13 +35,13 @@ When a skilled musician dies before reaching their full potential or accomplishi
 
 While you keep up your end of the bargain, the piano grants you a +2 item bonus to Performance checks made with it. The piano also provides access to composition spells based on your Performance proficiency rank, as if you had the corresponding feat. The spells you can use comprise a cumulative list, but you can cast them only when using the piano. You must spend the actions and Focus Points required to cast these spells.
 
-**Trained:** [[Spells/Uplifting Overture|Uplifting Overture]], [[Spells/Courageous Anthem|Courageous Anthem]]
+**Trained:** [[3-Rules/Character Building/Spells/U/Uplifting Overture|Uplifting Overture]], [[Courageous Anthem|Courageous Anthem]]
 
-**Expert:** [[Spells/Hymn of Healing|Hymn of Healing]], [[Spells/Rallying Anthem|Rallying Anthem]]
+**Expert:** [[3-Rules/Character Building/Spells/H/Hymn of Healing|Hymn of Healing]], [[3-Rules/Character Building/Spells/R/Rallying Anthem|Rallying Anthem]]
 
-**Master:** [[Spells/Symphony of the Unfettered Heart|Symphony of the Unfettered Heart]]
+**Master:** [[3-Rules/Character Building/Spells/S/Symphony of the Unfettered Heart|Symphony of the Unfettered Heart]]
 
-**Legendary:** [[Spells/Soothing Ballad|Soothing Ballad]]
+**Legendary:** [[3-Rules/Character Building/Spells/S/Soothing Ballad|Soothing Ballad]]
 
 A phantom piano has the following activations.
 

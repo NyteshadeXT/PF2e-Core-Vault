@@ -15,7 +15,7 @@ license: ORC
 ---
 # Hobbling Snare
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 15 gp; 

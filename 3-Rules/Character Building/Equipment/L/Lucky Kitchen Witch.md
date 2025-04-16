@@ -11,7 +11,7 @@ license: OGL
 ---
 # Lucky Kitchen Witch
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fortune]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[fortune]][[magical]]
 
 
 **Price** 250 gp; 

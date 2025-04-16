@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Soothing Words|Soothing Words]].
+Granted by [[Soothing Words|Soothing Words]].
 
 The target gains a +1 status bonus to Will saving throws. This bonus increases to +2 against emotion effects
 

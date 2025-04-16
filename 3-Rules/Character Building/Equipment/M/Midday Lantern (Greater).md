@@ -11,7 +11,7 @@ license: OGL
 ---
 # Midday Lantern (Greater)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/light]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/L/light]][[magical]]
 
 
 **Price** 3700 gp; 
@@ -26,7 +26,7 @@ This hooded lantern is made from brilliant, reinforced gold engraved with the im
 
 **Frequency** once per day
 
-**Effect** You raise the lantern and unleash a blast of powerful sunlight. The blast has the effects of 6th-rank [[Spells/Blazing Bolt|Blazing Bolt]] using a spell attack roll of +26, with its effect determined by the number of actions you used to activate the lantern.
+**Effect** You raise the lantern and unleash a blast of powerful sunlight. The blast has the effects of 6th-rank [[Blazing Bolt|Blazing Bolt]] using a spell attack roll of +26, with its effect determined by the number of actions you used to activate the lantern.
 
 *Source: Pathfinder #172: Secrets of the Temple-City*
 *OGL*

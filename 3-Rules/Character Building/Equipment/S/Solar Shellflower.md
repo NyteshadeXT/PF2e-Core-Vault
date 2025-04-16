@@ -14,7 +14,7 @@ license: OGL
 ---
 # Solar Shellflower
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concussive]][[fatal-d10]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concussive]][[fatal-d10]][[magical]]
 
 |  |  |
 | -- | -- |

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Anticipate Peril|Anticipate Peril]]
+Granted by [[Anticipate Peril|Anticipate Peril]]
 
 The target gains a +1 status bonus to its next initiative roll, after which the spell ends.
 

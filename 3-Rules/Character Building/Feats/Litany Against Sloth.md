@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** devotion spells; tenets of good
 * * *
-You rail against the sin of sloth, turning a foe's laziness against it. You can cast the [[Spells/Litany against Sloth|Litany against Sloth]] devotion spell. Increase the number of Focus Points in your focus pool by 1.
+You rail against the sin of sloth, turning a foe's laziness against it. You can cast the [[3-Rules/Character Building/Spells/L/Litany against Sloth|Litany against Sloth]] devotion spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

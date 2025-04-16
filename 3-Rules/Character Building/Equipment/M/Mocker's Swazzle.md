@@ -11,7 +11,7 @@ license: ORC
 ---
 # Mocker's Swazzle
 ## Item 13
-### [unique](unique "Unique Rarity Trait")[[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[magical]]
 
 
 **Price** 3000 gp; 
@@ -28,7 +28,7 @@ A swazzle is a device made of two strips of metal bound with sinew and around a 
 
 **Trigger** A creature within 30 feet of you attempts and fails to [[Actions/Demoralize|Demoralize]] you
 
-**Effect** You quickly fire a retort back at the triggering creature, mocking its failed attempt in a way that makes it laugh at its own ineptitude; you cast [[Spells/Laughing Fit|Laughing Fit]] (DC 30 Will check save) on the triggering creature.
+**Effect** You quickly fire a retort back at the triggering creature, mocking its failed attempt in a way that makes it laugh at its own ineptitude; you cast [[Laughing Fit|Laughing Fit]] (DC 30 Will check save) on the triggering creature.
 
 * * *
 

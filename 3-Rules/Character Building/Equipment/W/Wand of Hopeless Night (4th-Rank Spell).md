@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wand of Hopeless Night (4th-Rank Spell)
 ## Item 10
-### [[3-Rules/trait_reference/darkness]][[magical]][[wand]]
+### [[3-Rules/trait_reference/D/darkness]][[magical]][[wand]]
 
 
 **Price** 1000 gp; 
@@ -28,7 +28,7 @@ This wand is a length of wrought black iron.
 
 **Frequency** once per day, plus overcharge
 
-**Effect** You cast [[Spells/Darkness|Darkness]] at 4th-rank. Each creature that ends its turn within the spell's area must succeed at a DC 27 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure).
+**Effect** You cast [[3-Rules/Character Building/Spells/D/Darkness|Darkness]] at 4th-rank. Each creature that ends its turn within the spell's area must succeed at a DC 27 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure).
 
 * * *
 

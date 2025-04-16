@@ -12,7 +12,7 @@ license: OGL
 ---
 # Trinity Geode
 ## Item 3
-### [[3-Rules/trait_reference/earth]][[magical]][[spellheart]]
+### [[3-Rules/trait_reference/E/earth]][[magical]][[spellheart]]
 
 
 **Price** 60 gp; 
@@ -32,7 +32,7 @@ The crystal chamber within this split geode is divided into three lobes of equal
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Scatter Scree|Scatter Scree]].
+**Effect** You cast [[Scatter Scree|Scatter Scree]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fungal Armor
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 **Category** light; **Group** leather
 **Price** 7200 gp; 
@@ -31,7 +31,7 @@ This _+2 greater resilient [[Studded Leather Armor|Studded Leather Armor]]_ is m
 
 * * *
 
-**Effect** The attack misses you, dealing no damage as you transform into a cloud of spores. You gain the benefits of a [[Spells/Vapor Form|Vapor Form]] spell for 1 minute.
+**Effect** The attack misses you, dealing no damage as you transform into a cloud of spores. You gain the benefits of a [[Vapor Form|Vapor Form]] spell for 1 minute.
 
 For the duration, a cloud of deadly spores surrounds you. Each breathing creature that begins its turn within 10 feet of you takes 6d8 poison damage (DC 35 Fortitude check).
 
@@ -39,7 +39,7 @@ You can [[Actions/Dismiss|Dismiss]] the cloud form.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Toxic Cloud|Toxic Cloud]] and _gaseous form_.
+**Craft Requirements** Supply a casting of [[Toxic Cloud|Toxic Cloud]] and _gaseous form_.
 
 *Source: Pathfinder #161: Belly of the Black Whale*
 *OGL*

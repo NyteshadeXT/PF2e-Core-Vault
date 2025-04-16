@@ -13,7 +13,7 @@ license: OGL
 ---
 # Jezail
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concussive]][[fatal-aim-d12]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concussive]][[fatal-aim-d12]]
 
 |  |  |
 | -- | -- |

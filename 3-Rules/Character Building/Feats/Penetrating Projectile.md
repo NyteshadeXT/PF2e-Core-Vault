@@ -14,7 +14,7 @@ license: ORC
 ---
 # Penetrating Projectile `pf2:2`
 ## Feat 16
-### [[barbarian]][[flourish]][[rage]]
+### [[barbarian]][[flourish]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

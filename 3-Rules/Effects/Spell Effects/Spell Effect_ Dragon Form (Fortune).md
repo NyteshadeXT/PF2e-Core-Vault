@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Dragon Form|Dragon Form]]
+Granted by [[Dragon Form|Dragon Form]]
 
 Calling upon powerful transformative magic, you gain a Large dragon battle form. You must have space to expand or the spell is lost. While in this form, you gain the dragon trait. You have hands in this battle form and can take manipulate actions. You can Dismiss the spell.
 

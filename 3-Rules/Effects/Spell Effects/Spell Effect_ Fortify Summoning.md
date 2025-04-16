@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Fortify Summoning|Fortify Summoning]]
+Granted by [[Fortify Summoning|Fortify Summoning]]
 
 The target gains a +1 status bonus to all checks and DCs (including its AC).
 

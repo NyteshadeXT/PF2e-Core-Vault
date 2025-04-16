@@ -11,7 +11,7 @@ license: OGL
 ---
 # Standard of the Primeval Howl
 ## Item 10
-### [[magical]][[3-Rules/trait_reference/mental]]
+### [[magical]][[3-Rules/trait_reference/M/mental]]
 
 
 **Price** 900 gp; 

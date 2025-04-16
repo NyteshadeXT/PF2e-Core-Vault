@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ka Stone
 
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 0 gp; 
@@ -32,7 +32,7 @@ The ka stone grants you a +1 item bonus to saves against death effects and negat
 
 * * *
 
-**Effect** You cast [[Spells/Enlarge|Enlarge]] on yourself or use one of the other activated abilities granted by a later Living Monolith feat.
+**Effect** You cast [[Enlarge|Enlarge]] on yourself or use one of the other activated abilities granted by a later Living Monolith feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Metuak's Pendant
 ## Item 5
-### [unique](unique "Unique Rarity Trait")[[invested]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 155 gp; 

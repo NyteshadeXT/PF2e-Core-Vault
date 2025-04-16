@@ -13,7 +13,7 @@ license: OGL
 ---
 # Vigilant Mask
 ## Feat 20
-### [rare](rare "Rare Rarity Trait")[[archetype]][[druid]][[wizard]]
+### [rare](rare.md "Rare Rarity Trait")[[archetype]][[druid]][[wizard]]
 
 **Category** class; 
 

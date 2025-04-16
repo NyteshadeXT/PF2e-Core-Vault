@@ -14,7 +14,7 @@ license: OGL
 ---
 # Raining Knives Snare
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 170 gp; 

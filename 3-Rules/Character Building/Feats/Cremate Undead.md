@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Your overwhelming vitality sets undead alight. When you use a [[Spells/Heal|Heal]] spell to damage undead, each undead that takes damage also takes persistent fire damage equal to the spell's rank.
+Your overwhelming vitality sets undead alight. When you use a [[Heal|Heal]] spell to damage undead, each undead that takes damage also takes persistent fire damage equal to the spell's rank.
 
 *Source: Pathfinder Player Core*
 *ORC*

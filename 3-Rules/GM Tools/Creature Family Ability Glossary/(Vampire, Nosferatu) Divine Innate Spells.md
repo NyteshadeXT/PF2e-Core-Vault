@@ -17,7 +17,7 @@ license: OGL
 
 
 
-The nosferatu can cast [[Spells/Telekinetic Haul|Telekinetic Haul]] (heightened to half their level rounded up) three times per day as a divine innate spell. They use a high DC for their level.
+The nosferatu can cast [[Telekinetic Haul|Telekinetic Haul]] (heightened to half their level rounded up) three times per day as a divine innate spell. They use a high DC for their level.
 
 *Source: Pathfinder Bestiary 3*
 *OGL*

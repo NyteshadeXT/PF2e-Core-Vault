@@ -12,7 +12,7 @@ license: OGL
 ---
 # Golden-Cased Bullet (Standard)
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]]
 
 **Category** ammo; 
 **Price** 20 gp; 

@@ -34,9 +34,9 @@ This oak branch grows leaves in spring that change color in autumn and shed in w
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrips** [[Spells/Tangle Vine|Tangle Vine]]
-*   **1st** [[Spells/Runic Body|Runic Body]], [[Spells/Runic Weapon|Runic Weapon]]
-*   **2nd** [[Spells/Entangling Flora|Entangling Flora]], [[Spells/Oaken Resilience|Oaken Resilience]], [[Spells/One with Plants|One with Plants]], [[Spells/Shape Wood|Shape Wood]]
+*   **Cantrips** [[Tangle Vine|Tangle Vine]]
+*   **1st** [[Runic Body|Runic Body]], [[Runic Weapon|Runic Weapon]]
+*   **2nd** [[Entangling Flora|Entangling Flora]], [[Oaken Resilience|Oaken Resilience]], [[One with Plants|One with Plants]], [[Shape Wood|Shape Wood]]
 
 * * *
 

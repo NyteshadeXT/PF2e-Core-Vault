@@ -14,7 +14,7 @@ license: OGL
 ---
 # Cayden's Brew
 ## Item 8
-### [[consumable]][[magical|Magical]][[3-Rules/trait_reference/poison|Poison]][[potion]]
+### [[consumable]][[magical|Magical]][[3-Rules/Trait Reference/P/poison|Poison]][[potion]]
 
 **Category** potion; 
 **Price** 80 gp; 

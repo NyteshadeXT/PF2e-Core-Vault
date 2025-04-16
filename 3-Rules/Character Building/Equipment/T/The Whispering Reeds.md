@@ -11,7 +11,7 @@ license: OGL
 ---
 # The Whispering Reeds
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[artifact]][[occult]]
+### [rare](rare.md "Rare Rarity Trait")[[artifact]][[occult]]
 
 
 **Price** 0 gp; 
@@ -52,7 +52,7 @@ _The Whispering Reeds_ provides several abilities, but you can't activate any of
 
 **Frequency** three times per day
 
-**Effect** You cast one of the following spells at the lowest level possible (unless otherwise specified): [[Spells/Wave of Despair|Wave of Despair]] (one target within 30 feet only), [[Spells/Fear|Fear]] (3rd), [[Spells/Paranoia|Paranoia]], or [[Spells/Phantasmal Killer|Phantasmal Killer]].
+**Effect** You cast one of the following spells at the lowest level possible (unless otherwise specified): [[Wave of Despair|Wave of Despair]] (one target within 30 feet only), [[3-Rules/Character Building/Spells/F/Fear|Fear]] (3rd), [[Paranoia|Paranoia]], or [[Phantasmal Killer|Phantasmal Killer]].
 
 *Source: Pathfinder #163: Ruins of Gauntlight*
 *OGL*

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Iris of the Sky
 ## Item 6
-### [unique](unique "Unique Rarity Trait")[[concussive]][[fatal-aim-d12]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[concussive]][[fatal-aim-d12]][[magical]]
 
 |  |  |
 | -- | -- |

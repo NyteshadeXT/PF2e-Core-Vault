@@ -11,7 +11,7 @@ license: OGL
 ---
 # Shade Hat
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 150 gp; 

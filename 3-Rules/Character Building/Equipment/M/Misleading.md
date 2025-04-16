@@ -26,7 +26,7 @@ This rune attempts to obfuscate your location through illusory trickery. When yo
 
 * * *
 
-**Effect** The armor casts [[Spells/Mislead|Mislead]], affecting you. It lasts until the end of your next turn.
+**Effect** The armor casts [[Mislead|Mislead]], affecting you. It lasts until the end of your next turn.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

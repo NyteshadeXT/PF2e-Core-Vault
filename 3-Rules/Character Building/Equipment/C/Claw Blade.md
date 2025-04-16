@@ -18,7 +18,7 @@ license: ORC
 ---
 # Claw Blade
 ## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[catfolk]][[deadly-d8]][[3-Rules/trait_reference/disarm]][[3-Rules/Rule References/Finesse]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[catfolk]][[deadly-d8]][[3-Rules/Trait Reference/D/disarm]][[3-Rules/Rule References/Finesse]][[versatile-p]]
 
 |  |  |
 | -- | -- |

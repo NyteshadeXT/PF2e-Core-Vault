@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Smoldering Fireballs (7th-Level Spell)
 ## Item 16
-### [[3-Rules/trait_reference/fire]][[magical]][[wand]]
+### [[3-Rules/trait_reference/F/fire]][[magical]][[wand]]
 
 
 **Price** 10000 gp; 
@@ -27,7 +27,7 @@ This blackened, heavily burned stick smells faintly of bat guano.
 
 * * *
 
-**Effect** You cast [[Spells/Fireball|Fireball]] at 7th rank.
+**Effect** You cast [[Fireball|Fireball]] at 7th rank.
 
 Each creature that fails its save takes 3d6 persistent fire damage.
 

@@ -28,7 +28,7 @@ These prosthetic feet and legs, created by dwarven alchemists and spellcasters t
 
 * * *
 
-**Effect** You blast off from the ground, using the force to leap through the air. The _blast feet_ cast [[Spells/Jump|Jump]] on you.
+**Effect** You blast off from the ground, using the force to leap through the air. The _blast feet_ cast [[Jump|Jump]] on you.
 
 * * *
 

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Sleepwalker Dedication
 * * *
-You learn dream-related magic to aid your studies. Choose [[Spells/Dream Message|Dream Message]] or [[Spells/Sleep|Sleep]] upon taking this feat; you learn this spell as a 4th-rank innate occult spell. If you choose sleep, you can cast the spell only while in a Daydream Trance. You become trained in occult spell attack rolls and spell DCs, and your spellcasting ability for these spells is Wisdom.
+You learn dream-related magic to aid your studies. Choose [[Dream Message|Dream Message]] or [[3-Rules/Character Building/Spells/S/Sleep|Sleep]] upon taking this feat; you learn this spell as a 4th-rank innate occult spell. If you choose sleep, you can cast the spell only while in a Daydream Trance. You become trained in occult spell attack rolls and spell DCs, and your spellcasting ability for these spells is Wisdom.
 
 * * *
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Pickled Demon Tongue
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/acid]][[divine]][[spellheart]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/A/acid]][[divine]][[spellheart]]
 
 
 **Price** 60 gp; 
@@ -32,7 +32,7 @@ This small crystal vial contains the forked end of a demon's tongue, preserved i
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Acid Splash|Acid Splash]].
+**Effect** You cast [[Acid Splash|Acid Splash]].
 
 *Source: Pathfinder #188: They Watched the Stars*
 *OGL*

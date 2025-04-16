@@ -11,7 +11,7 @@ license: OGL
 ---
 # (Ulgrem-Axaan) Ichor Coating
 
-### [[disease]]
+### [[3-Rules/trait_reference/D/disease]]
 
 **Category** defensive; 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Growth Gun
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[modular]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[modular]]
 
 |  |  |
 | -- | -- |

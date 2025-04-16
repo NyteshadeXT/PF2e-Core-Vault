@@ -11,7 +11,7 @@ license: OGL
 ---
 # (Zombie, Shock) Arcing Strikes
 
-### [[3-Rules/trait_reference/electricity]]
+### [[3-Rules/trait_reference/E/electricity]]
 
 **Category** offensive; 
 

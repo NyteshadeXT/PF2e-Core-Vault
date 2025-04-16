@@ -16,7 +16,7 @@ license: OGL
 ---
 # Little Love
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[agile]][[finesse]][[magical]][[thrown-10]][[versatile-s]]
+### [rare](rare.md "Rare Rarity Trait")[[agile]][[finesse]][[magical]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |

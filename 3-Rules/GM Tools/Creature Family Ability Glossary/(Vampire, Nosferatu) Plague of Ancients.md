@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Vampire, Nosferatu) Plague of Ancients
 
-### [[disease]][[virulent]]
+### [[3-Rules/trait_reference/D/disease]][[virulent]]
 
 **Category** offensive; 
 

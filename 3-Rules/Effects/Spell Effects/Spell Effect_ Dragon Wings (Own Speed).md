@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by casting [[Spells/Dragon Wings|Dragon Wings]] and gaining a fly Speed equal to your Speed.
+Granted by casting [[Dragon Wings|Dragon Wings]] and gaining a fly Speed equal to your Speed.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

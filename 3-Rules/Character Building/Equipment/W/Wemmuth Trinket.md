@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-The baubles wemmuths use to lure victims to their hunting grounds are dangerous to retrieve and often stained by blood. One of these trinkets covers the plant matter created by [[Spells/Entangling Flora|Entangling Flora]] with blood-drinking thorns. Creatures who fail or critically fail their Reflex saves against _entangling flora_ also take piercing damage equal to the spell's rank.
+The baubles wemmuths use to lure victims to their hunting grounds are dangerous to retrieve and often stained by blood. One of these trinkets covers the plant matter created by [[Entangling Flora|Entangling Flora]] with blood-drinking thorns. Creatures who fail or critically fail their Reflex saves against _entangling flora_ also take piercing damage equal to the spell's rank.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

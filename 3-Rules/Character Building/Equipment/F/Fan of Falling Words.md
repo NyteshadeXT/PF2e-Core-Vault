@@ -25,7 +25,7 @@ This folding handheld paper fan appears blank when first found, but if the wield
 
 * * *
 
-**Effect** You manifest the tapestry of your words, causing the image you depict on the fan to leap off its leaves. The fan casts [[Spells/Mirage|Mirage]] to your specifications (DC 27 Will check save to disbelieve). While this only takes three actions to perform (as opposed to the spell's normal 10 minutes of casting), the effect has no range, and the @Template\[burst|distance:50\] it creates is centered on you.
+**Effect** You manifest the tapestry of your words, causing the image you depict on the fan to leap off its leaves. The fan casts [[Mirage|Mirage]] to your specifications (DC 27 Will check save to disbelieve). While this only takes three actions to perform (as opposed to the spell's normal 10 minutes of casting), the effect has no range, and the @Template\[burst|distance:50\] it creates is centered on you.
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

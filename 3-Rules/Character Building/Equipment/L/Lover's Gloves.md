@@ -14,7 +14,7 @@ license: ORC
 ---
 # Lover's Gloves
 ## Item 8
-### [[emotion]][[invested]][[magical]][[3-Rules/trait_reference/mental]]
+### [[emotion]][[invested]][[magical]][[3-Rules/Trait Reference/M/mental]]
 
 
 **Price** 500 gp; 

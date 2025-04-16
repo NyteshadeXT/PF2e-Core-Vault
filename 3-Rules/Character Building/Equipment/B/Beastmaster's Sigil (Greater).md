@@ -34,7 +34,7 @@ This silver disc displays an ever-changing etching of an animal. When you affix 
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Tame|Tame]].
+**Effect** You cast [[Tame|Tame]].
 
 * * *
 
@@ -42,7 +42,7 @@ This silver disc displays an ever-changing etching of an animal. When you affix 
 
 **Frequency** once per day
 
-**Effect** You cast 3rd-rank [[Spells/Summon Animal|Summon Animal]] to summon a [[3-Rules/Bestiaries/Bestiary 1/G/Giant Monitor Lizard|Giant Monitor Lizard]] (armor), [[Wolverine|Wolverine]] (melee), or [[3-Rules/Bestiaries/Bestiary 1/G/Giant Bat|Giant Bat]] (ranged).
+**Effect** You cast 3rd-rank [[Summon Animal|Summon Animal]] to summon a [[3-Rules/Bestiaries/Bestiary 1/G/Giant Monitor Lizard|Giant Monitor Lizard]] (armor), [[Wolverine|Wolverine]] (melee), or [[3-Rules/Bestiaries/Bestiary 1/G/Giant Bat|Giant Bat]] (ranged).
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

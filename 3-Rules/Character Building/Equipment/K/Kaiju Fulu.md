@@ -13,7 +13,7 @@ license: OGL
 ---
 # Kaiju Fulu
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[fulu]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[fulu]][[magical]]
 
 **Category** fulu; 
 **Price** 500 gp; 

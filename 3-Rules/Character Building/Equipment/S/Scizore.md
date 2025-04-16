@@ -13,7 +13,7 @@ license: OGL
 ---
 # Scizore
 ## Item 0
-### [[disarm]][[parry]]
+### [[3-Rules/Trait Reference/D/disarm]][[parry]]
 
 |  |  |
 | -- | -- |

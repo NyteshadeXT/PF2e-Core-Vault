@@ -12,7 +12,7 @@ license: OGL
 ---
 # Tripline Arrow
 ## Item 2
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[magical]]
 
 **Category** ammo; 
 **Price** 6 gp; 

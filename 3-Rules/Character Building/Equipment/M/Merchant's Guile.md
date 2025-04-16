@@ -10,7 +10,7 @@ license: OGL
 ---
 # Merchant's Guile
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]]
 
 
 **Price** 160 gp; 
@@ -23,7 +23,7 @@ The band of this ring is made from blue-colored iron and has two sharp, decorati
 
 * * *
 
-**Effect** You can determine if an item is magical simply by handling it. You detect no other indication of its power, only whether or not it is magical, granting the effects of a 1st-rank [[Spells/Detect Magic|Detect Magic]] spell that affects only the object.
+**Effect** You can determine if an item is magical simply by handling it. You detect no other indication of its power, only whether or not it is magical, granting the effects of a 1st-rank [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]] spell that affects only the object.
 
 *Source: Pathfinder Adventure: The Fall of Plaguestone*
 *OGL*

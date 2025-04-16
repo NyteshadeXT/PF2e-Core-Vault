@@ -15,7 +15,7 @@ license: ORC
 ---
 # Iron Command `pf2:r`
 
-### [[3-Rules/trait_reference/champion]][[3-Rules/Rule References/Divine]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Mental]]
+### [[champion]][[3-Rules/Rule References/Divine]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Mental]]
 
 **Category** offensive; 
 

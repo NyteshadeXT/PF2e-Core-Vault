@@ -16,7 +16,7 @@ license: ORC
 ---
 # Nunchaku
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[backswing]][[disarm]][[finesse]][[monk]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[backswing]][[3-Rules/Trait Reference/D/disarm]][[finesse]][[monk]]
 
 |  |  |
 | -- | -- |

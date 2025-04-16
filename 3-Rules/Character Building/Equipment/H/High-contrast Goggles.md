@@ -10,7 +10,7 @@ license: ORC
 ---
 # High-contrast Goggles
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 80 gp; 

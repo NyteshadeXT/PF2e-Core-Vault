@@ -23,7 +23,7 @@ The spiritual essence in your blood has opened your senses to the world beyond. 
 
 Spiritsense enables you to sense the spirits of creatures, including living creatures, most non-mindless undead, and haunts within the listed range. As with your hearing and other imprecise senses, you still need to [[Actions/Seek|Seek]] to locate an undetected creature.
 
-As spiritsense detects spiritual essence, not physical bodies, it can detect spirits projected by spells such as [[Spells/Project Image|Project Image]] or possessing otherwise soulless objects. It can't detect soulless bodies, constructs, or objects, and like most senses, it doesn't penetrate through solid objects.
+As spiritsense detects spiritual essence, not physical bodies, it can detect spirits projected by spells such as [[Project Image|Project Image]] or possessing otherwise soulless objects. It can't detect soulless bodies, constructs, or objects, and like most senses, it doesn't penetrate through solid objects.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

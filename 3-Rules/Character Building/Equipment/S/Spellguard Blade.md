@@ -18,7 +18,7 @@ license: ORC
 ---
 # Spellguard Blade
 ## Item 7
-### [[agile]][[disarm]][[finesse]][[magical]][[parry]][[versatile-s]]
+### [[agile]][[3-Rules/Trait Reference/D/disarm]][[finesse]][[magical]][[parry]][[versatile-s]]
 
 |  |  |
 | -- | -- |

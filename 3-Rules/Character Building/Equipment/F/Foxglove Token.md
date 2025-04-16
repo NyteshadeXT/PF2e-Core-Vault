@@ -13,7 +13,7 @@ license: ORC
 ---
 # Foxglove Token
 ## Item 3
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/trait_reference/poison|Poison]][[spellheart]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/Trait Reference/P/poison|Poison]][[spellheart]]
 
 
 **Price** 55 gp; 
@@ -29,7 +29,7 @@ This small piece of wood is finely carved to depict a foxglove. The spell DC of 
 
 * * *
 
-**Effect** You cast [[Spells/Puff of Poison|Puff of Poison]].
+**Effect** You cast [[Puff of Poison|Puff of Poison]].
 
 *Source: Pathfinder #202: Severed at the Root*
 *ORC*

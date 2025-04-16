@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You can disguise yourself with magical illusions. You can cast [[Spells/Illusory Disguise|Illusory Disguise]] once per day as a 1st-rank primal innate spell. At 7th level, the spell is heightened to 2nd rank, and every 2 levels thereafter, the spell is heightened an additional spell rank.
+You can disguise yourself with magical illusions. You can cast [[Illusory Disguise|Illusory Disguise]] once per day as a 1st-rank primal innate spell. At 7th level, the spell is heightened to 2nd rank, and every 2 levels thereafter, the spell is heightened an additional spell rank.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

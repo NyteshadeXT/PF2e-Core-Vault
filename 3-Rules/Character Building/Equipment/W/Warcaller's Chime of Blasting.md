@@ -17,7 +17,7 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-This chime features carvings of destructive runes. When activated, it creates the effects of a 3rd-rank [[Spells/Noise Blast|Noise Blast]] centered on you (DC 20 Fortitude check save). Instead of the spell's normal range, it has a @Template\[emanation|distance:5\]. In addition, creatures that critically fail their save are knocked [[Conditions/Prone|Prone]] by the chime's effect. You can use this chime once per day.
+This chime features carvings of destructive runes. When activated, it creates the effects of a 3rd-rank [[Noise Blast|Noise Blast]] centered on you (DC 20 Fortitude check save). Instead of the spell's normal range, it has a @Template\[emanation|distance:5\]. In addition, creatures that critically fail their save are knocked [[Conditions/Prone|Prone]] by the chime's effect. You can use this chime once per day.
 
 *Source: Pathfinder #170: Spoken on the Song Wind*
 *OGL*

@@ -23,7 +23,7 @@ license: OGL
 * * *
 You grasp the animating force within an undead creature and bend it to your will.
 
-If the next action you use is to cast [[Spells/Harm|Harm]] targeting one undead creature, you transform the effects of that _harm_ spell.
+If the next action you use is to cast [[Harm|Harm]] targeting one undead creature, you transform the effects of that _harm_ spell.
 
 Instead of harm's normal effects, the target becomes controlled by you if its level is equal to or lower than your level - 3. It can attempt a Will saving throw to resist being controlled by you.
 

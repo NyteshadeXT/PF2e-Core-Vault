@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Worm Caller Dedication
 * * *
-You gain [[Spells/Summon Animal|Summon Animal]], heightened to 9th rank, as an innate primal spell that you can cast once per day, but can only summon a [[Purple Worm|Purple Worm]]. At 20th level, you can summon an elite purple worm instead.
+You gain [[Summon Animal|Summon Animal]], heightened to 9th rank, as an innate primal spell that you can cast once per day, but can only summon a [[Purple Worm|Purple Worm]]. At 20th level, you can summon an elite purple worm instead.
 
 *Source: Pathfinder #194: Cult of the Cave Worm*
 *OGL*

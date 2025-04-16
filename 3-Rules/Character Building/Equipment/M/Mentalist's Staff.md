@@ -34,8 +34,8 @@ This polished wooden staff bears a swirling motif reminiscent of the folds of a 
 
 * * *
 
-*   **Cantrip** [[Spells/Daze|Daze]]
-*   **1st** [[Spells/Mindlink|Mindlink]] [[Spells/Phantom Pain|Phantom Pain]]
+*   **Cantrip** [[Daze|Daze]]
+*   **1st** [[Mindlink|Mindlink]] [[Phantom Pain|Phantom Pain]]
 
 * * *
 

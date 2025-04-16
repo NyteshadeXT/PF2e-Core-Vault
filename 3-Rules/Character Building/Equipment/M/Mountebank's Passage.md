@@ -14,7 +14,7 @@ license: OGL
 ---
 # Mountebank's Passage
 ## Item 15
-### [unique](unique "Unique Rarity Trait")[[concussive]][[fatal-d8]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[concussive]][[fatal-d8]][[magical]]
 
 |  |  |
 | -- | -- |

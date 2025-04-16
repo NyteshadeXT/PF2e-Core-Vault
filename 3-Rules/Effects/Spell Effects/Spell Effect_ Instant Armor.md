@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Instant Armor|Instant Armor]]
+Granted by [[3-Rules/Character Building/Spells/I/Instant Armor|Instant Armor]]
 
 You gain the Armor Up! action.
 

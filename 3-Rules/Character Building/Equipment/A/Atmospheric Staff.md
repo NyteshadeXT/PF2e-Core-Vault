@@ -16,7 +16,7 @@ license: OGL
 ---
 # Atmospheric Staff
 ## Item 8
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Air]][[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Air]][[magical|Magical]][[3-Rules/Trait Reference/S/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -35,13 +35,13 @@ This staff is made of a dense wood and strikes the ground with an imposing boom.
 
 * * *
 
-**Cantrip** [[Spells/Gale Blast|Gale Blast]]
+**Cantrip** [[Gale Blast|Gale Blast]]
 
-**1st** [[Spells/Air Bubble|Air Bubble]], [[Spells/Gravitational Pull|Gravitational Pull]]
+**1st** [[Air Bubble|Air Bubble]], [[Gravitational Pull|Gravitational Pull]]
 
-**2nd** [[Spells/Gentle Breeze|Gentle Breeze]]
+**2nd** [[Gentle Breeze|Gentle Breeze]]
 
-**3rd** [[Spells/Gravity Well|Gravity Well]], [[Spells/Tempest Cloak|Tempest Cloak]]
+**3rd** [[Gravity Well|Gravity Well]], [[Tempest Cloak|Tempest Cloak]]
 
 * * *
 

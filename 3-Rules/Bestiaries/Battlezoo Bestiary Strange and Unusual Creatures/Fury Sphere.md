@@ -94,7 +94,7 @@ Occasionally, a fury sphere comes up with a plan to seek out a high mountain, a 
 
 ## Trapping A Sphere
 
-When slain, the spirit of a fury sphere can be contained in a smaller vessel of Bulk 2 or less in the next 10 minutes with a DC 25 Arcana check, DC 25 Religion check, or DC 25 Occultism check check. The sphere trapped in the new vessel can be used as one of the ingredients for an _[[Spells/Animate Object|Animate Object]]_ ritual, creating an object that will begrudgingly follow commands.
+When slain, the spirit of a fury sphere can be contained in a smaller vessel of Bulk 2 or less in the next 10 minutes with a DC 25 Arcana check, DC 25 Religion check, or DC 25 Occultism check check. The sphere trapped in the new vessel can be used as one of the ingredients for an _[[Animate Object|Animate Object]]_ ritual, creating an object that will begrudgingly follow commands.
 
 ## Suggested Monster Parts
 

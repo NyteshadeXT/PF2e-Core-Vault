@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Star Orb
 * * *
-Your star orb hides a deadly miasma. You can cast 5th-rank [[Spells/Toxic Cloud|Toxic Cloud]] as a divine innate spell once per day. The spell's normal components are replaced with a focus component (your star orb) and a somatic component to aim the orb towards the location for the spell.
+Your star orb hides a deadly miasma. You can cast 5th-rank [[Toxic Cloud|Toxic Cloud]] as a divine innate spell once per day. The spell's normal components are replaced with a focus component (your star orb) and a somatic component to aim the orb towards the location for the spell.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

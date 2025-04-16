@@ -33,12 +33,12 @@ Carved of driftwood stained white with the salt of the sea, a _pirate staff_ has
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Gale Blast|Gale Blast]], [[Spells/Know the Way|Know the Way]]
-*   **1st** [[Spells/Seashell of Stolen Sound|Seashell of Stolen Sound]]
-*   **2nd** [[Spells/Mist|Mist]], [[Spells/Water Breathing|Water Breathing]], [[Spells/Water Walk|Water Walk]]
-*   **3rd** [[Spells/Mind of Menace|Mind of Menace]], [[Spells/Water Breathing|Water Breathing]]
-*   **4th** [[Spells/Solid Fog|Solid Fog]], [[Spells/Water Walk|Water Walk]]
-*   **5th** [[Spells/Flowing Strike|Flowing Strike]], [[Spells/Mariner's Curse|Mariner's Curse]]
+*   **Cantrip** [[Gale Blast|Gale Blast]], [[Know the Way|Know the Way]]
+*   **1st** [[Seashell of Stolen Sound|Seashell of Stolen Sound]]
+*   **2nd** [[Mist|Mist]], [[Water Breathing|Water Breathing]], [[Water Walk|Water Walk]]
+*   **3rd** [[Mind of Menace|Mind of Menace]], [[Water Breathing|Water Breathing]]
+*   **4th** [[Solid Fog|Solid Fog]], [[Water Walk|Water Walk]]
+*   **5th** [[Flowing Strike|Flowing Strike]], [[Mariner's Curse|Mariner's Curse]]
 
 * * *
 

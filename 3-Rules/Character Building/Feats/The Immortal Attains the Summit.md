@@ -24,7 +24,7 @@ Your cultivation bearing glorious fruit, you behold Heaven's will. Returning fro
 
 You cease aging and, regardless of your actual existential state, now register as a living being to effects that can detect living creatures (such as lifesense or spiritsense).
 
-In addition, you learn the [[Spells/Control Weather|Control Weather]] and [[Spells/Plant Growth|Plant Growth]] rituals. You can use Occultism instead of Nature for these rituals. On a success with one of these rituals, you gain the effects of a critical success instead.
+In addition, you learn the [[Control Weather|Control Weather]] and [[Plant Growth|Plant Growth]] rituals. You can use Occultism instead of Nature for these rituals. On a success with one of these rituals, you gain the effects of a critical success instead.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

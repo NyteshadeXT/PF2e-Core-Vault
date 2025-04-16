@@ -13,7 +13,7 @@ license: OGL
 ---
 # Resonant Reflection: Reflection of Storm
 ## Feat 17
-### [[3-Rules/trait_reference/air]][[3-Rules/trait_reference/electricity]][[magical]]
+### [[3-Rules/trait_reference/A/air]][[3-Rules/trait_reference/E/electricity]][[magical]]
 
 **Category** deityboon; 
 
@@ -30,7 +30,7 @@ Your body is inured to the devastation inflicted by natural forces. You gain res
 
 * * *
 
-**Effect** You cast [[Spells/Moment of Renewal|Moment of Renewal]] (self only) as an 8th-rank divine innate spell and regain 1 Focus Point.
+**Effect** You cast [[Moment of Renewal|Moment of Renewal]] (self only) as an 8th-rank divine innate spell and regain 1 Focus Point.
 
 *Source: Pathfinder #155: Lord of the Black Sands*
 *OGL*

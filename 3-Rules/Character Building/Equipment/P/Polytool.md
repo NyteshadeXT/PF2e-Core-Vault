@@ -13,7 +13,7 @@ license: OGL
 ---
 # Polytool
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[modular]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[modular]]
 
 |  |  |
 | -- | -- |

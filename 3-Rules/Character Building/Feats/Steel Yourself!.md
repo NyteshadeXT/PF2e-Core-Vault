@@ -15,7 +15,7 @@ license: ORC
 ---
 # Steel Yourself! `pf2:1`
 ## Feat 4
-### [[archetype]][[auditory]][[emotion]][[3-Rules/trait_reference/mental]]
+### [[archetype]][[auditory]][[emotion]][[3-Rules/trait_reference/M/mental]]
 
 **Category** class; 
 

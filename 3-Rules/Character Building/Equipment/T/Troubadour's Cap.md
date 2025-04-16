@@ -27,7 +27,7 @@ This jaunty cap can take the form and color of any type of hat you wish upon inv
 
 * * *
 
-**Effect** You cast [[Spells/Hypnotize|Hypnotize]] (DC 37).
+**Effect** You cast [[Hypnotize|Hypnotize]] (DC 37).
 
 * * *
 
@@ -37,7 +37,7 @@ This jaunty cap can take the form and color of any type of hat you wish upon inv
 
 * * *
 
-**Effect** Picking the feather from your cap, you throw it toward a target, casting [[Spells/Prismatic Spray|Prismatic Spray]] (DC 35).
+**Effect** Picking the feather from your cap, you throw it toward a target, casting [[Prismatic Spray|Prismatic Spray]] (DC 35).
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

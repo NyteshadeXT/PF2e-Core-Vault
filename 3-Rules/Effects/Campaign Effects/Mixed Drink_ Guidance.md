@@ -16,7 +16,7 @@ license: OGL
 
 
 
-You can cast [[Spells/Guidance|Guidance]] as a primal cantrip once within the next day.
+You can cast [[Guidance|Guidance]] as a primal cantrip once within the next day.
 
 *Source: Pathfinder #178: Punks in a Powder Keg*
 *OGL*

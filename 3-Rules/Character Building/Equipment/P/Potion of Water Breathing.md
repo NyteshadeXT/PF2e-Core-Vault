@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-This filmy, gray potion smells of an old fish midden and tastes even worse. After drinking this potion, you gain the effects of a 2nd-rank [[Spells/Water Breathing|Water Breathing]] spell for 1 hour.
+This filmy, gray potion smells of an old fish midden and tastes even worse. After drinking this potion, you gain the effects of a 2nd-rank [[Water Breathing|Water Breathing]] spell for 1 hour.
 
 *Source: Pathfinder GM Core*
 *ORC*

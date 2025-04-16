@@ -19,7 +19,7 @@ license: ORC
 
 
 
-There always seems to be a little rat around to carry messages for you. You can cast [[Spells/Animal Messenger|Animal Messenger]] once per day as a primal innate spell. When you do, the animal that responds is always a rat. If there are no rats within range, the spell is lost.
+There always seems to be a little rat around to carry messages for you. You can cast [[Animal Messenger|Animal Messenger]] once per day as a primal innate spell. When you do, the animal that responds is always a rat. If there are no rats within range, the spell is lost.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

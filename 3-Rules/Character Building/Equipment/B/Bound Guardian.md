@@ -27,7 +27,7 @@ A bound guardian is a tattoo guardian bonded to your skin, which you can tempora
 
 * * *
 
-**Effect** You animate your tattoo guardian, otherwise using the duration and other parameters of a 4th-rank [[Spells/Summon Construct|Summon Construct]] spell. You can have the guardian Fly Free as part of Activating your tattoo. If your tattoo guardian drops to 0 HP, the activation ends, and the inanimate tattoo returns to your skin.
+**Effect** You animate your tattoo guardian, otherwise using the duration and other parameters of a 4th-rank [[Summon Construct|Summon Construct]] spell. You can have the guardian Fly Free as part of Activating your tattoo. If your tattoo guardian drops to 0 HP, the activation ends, and the inanimate tattoo returns to your skin.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

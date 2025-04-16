@@ -12,7 +12,7 @@ license: OGL
 ---
 # Heckling Tools
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[cursed]][[intelligent]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[intelligent]][[magical]]
 
 
 **Price** 0 gp; 

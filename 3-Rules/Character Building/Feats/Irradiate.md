@@ -14,7 +14,7 @@ license: ORC
 ---
 # Irradiate `pf2:2`
 ## Feat 6
-### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]][[3-Rules/trait_reference/poison]]
+### [rare](rare.md "Rare Rarity Trait")[[deviant]][[magical]][[3-Rules/trait_reference/P/poison]]
 
 **Category** class; 
 

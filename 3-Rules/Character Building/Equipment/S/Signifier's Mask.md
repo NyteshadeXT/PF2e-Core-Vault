@@ -9,7 +9,7 @@ license: OGL
 ---
 # Signifier's Mask
 
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 0 gp; 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Sage's Curse|Sage's Curse]]
+Granted by [[Sage's Curse|Sage's Curse]]
 
 The target must roll twice and use the worse result whenever attempting an Arcana, Lore, Occultism, or Society check.
 

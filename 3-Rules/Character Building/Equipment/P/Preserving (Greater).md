@@ -25,7 +25,7 @@ _Preserving runes_ are common among merchants and other travelers who are on the
 
 * * *
 
-**Effect** The container casts [[Spells/Cleanse Cuisine|Cleanse Cuisine]] on all the food and drink within.
+**Effect** The container casts [[Cleanse Cuisine|Cleanse Cuisine]] on all the food and drink within.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

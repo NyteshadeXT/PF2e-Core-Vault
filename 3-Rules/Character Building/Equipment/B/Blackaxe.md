@@ -58,7 +58,7 @@ This potent weapon used by Treerazer is a _+4 greater corrosive major striking o
 
 * * *
 
-**Effect** Make a Strike against a living tree with Blackaxe. If it hits, the tree withers to ash and you heal 250 Hit Points and gain the benefit of a 6th-rank [[Spells/Restoration|Restoration]] (6th) and [[Spells/Sound Body|Sound Body]] spell.
+**Effect** Make a Strike against a living tree with Blackaxe. If it hits, the tree withers to ash and you heal 250 Hit Points and gain the benefit of a 6th-rank [[Restoration|Restoration]] (6th) and [[Sound Body|Sound Body]] spell.
 
 * * *
 

@@ -9,7 +9,7 @@ license: OGL
 ---
 # Starless Scope Lens
 ## Item 9
-### [rare](rare "Rare Rarity Trait")
+### [rare](rare.md "Rare Rarity Trait")
 
 
 **Price** 100 gp; 

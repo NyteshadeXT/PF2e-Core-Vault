@@ -14,7 +14,7 @@ license: OGL
 ---
 # Naginata
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[reach]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d8]][[reach]][[versatile-p]]
 
 |  |  |
 | -- | -- |

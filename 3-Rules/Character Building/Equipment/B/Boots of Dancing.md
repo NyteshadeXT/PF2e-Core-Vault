@@ -19,7 +19,7 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-These boots act as [[Boots of Elvenkind (Greater)|Boots of Elvenkind (Greater)]], but they react wildly to strong physical exertion. While you wear the boots, the curse activates whenever you attempt an Athletics check or Stride more than once in a single round during an encounter. The boots cast an 8th-rank [[Spells/Uncontrollable Dance|Uncontrollable Dance]] spell on you, and you automatically fail your save. Once the curse has activated for the first time, the boots fuse to you.
+These boots act as [[Boots of Elvenkind (Greater)|Boots of Elvenkind (Greater)]], but they react wildly to strong physical exertion. While you wear the boots, the curse activates whenever you attempt an Athletics check or Stride more than once in a single round during an encounter. The boots cast an 8th-rank [[Uncontrollable Dance|Uncontrollable Dance]] spell on you, and you automatically fail your save. Once the curse has activated for the first time, the boots fuse to you.
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

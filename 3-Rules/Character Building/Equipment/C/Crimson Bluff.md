@@ -36,7 +36,7 @@ This _+2 greater striking grievous sawtooth saber_ has a red hilt and a purple-b
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Blur|Blur]] and then you Step or Stride.
+**Effect** You cast [[Blur|Blur]] and then you Step or Stride.
 
 * * *
 

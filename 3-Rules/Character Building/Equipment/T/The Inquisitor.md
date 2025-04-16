@@ -34,7 +34,7 @@ The Inquisitor represents the search for the truth and the power to see through 
 
 * * *
 
-**Effect** You swipe the card over the head of an adjacent creature to delve into their thoughts. You cast [[Spells/Mind Probe|Mind Probe]], but as a two-action spell rather than one that takes 1 minute to cast. The rank of the spell is one-half your level, rounded down (minimum 5th level), and the save DC is your class DC or spell DC (Will check).
+**Effect** You swipe the card over the head of an adjacent creature to delve into their thoughts. You cast [[Mind Probe|Mind Probe]], but as a two-action spell rather than one that takes 1 minute to cast. The rank of the spell is one-half your level, rounded down (minimum 5th level), and the save DC is your class DC or spell DC (Will check).
 
 *Source: Pathfinder #192: Worst of All Possible Worlds*
 *OGL*

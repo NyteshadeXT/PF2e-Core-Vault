@@ -16,14 +16,14 @@ license: OGL
 ---
 # Return to the Sea `pf2:2`
 ## Feat 4
-### [[impulse]][[kineticist]][[morph]][[primal]][[3-Rules/trait_reference/water]]
+### [[impulse]][[kineticist]][[morph]][[primal]][[3-Rules/trait_reference/W/water]]
 
 **Category** class; 
 
 
 
 
-You adapt a creature to living and moving in water. Target a willing creature within 30 feet. For 10 minutes, it gains the effects of a [[Spells/Feet to Fins|Feet to Fins]] spell, can breathe water, and gets a +1 status bonus to AC and saves against any creature with the amphibious, aquatic, or water trait. In addition, its attacks ignore the effects water normally has on bludgeoning and slashing attacks. If you use Return to the Sea again, any existing one ends.
+You adapt a creature to living and moving in water. Target a willing creature within 30 feet. For 10 minutes, it gains the effects of a [[Feet to Fins|Feet to Fins]] spell, can breathe water, and gets a +1 status bonus to AC and saves against any creature with the amphibious, aquatic, or water trait. In addition, its attacks ignore the effects water normally has on bludgeoning and slashing attacks. If you use Return to the Sea again, any existing one ends.
 
 * * *
 

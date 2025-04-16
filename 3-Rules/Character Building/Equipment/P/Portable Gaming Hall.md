@@ -9,7 +9,7 @@ license: OGL
 ---
 # Portable Gaming Hall
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 500 gp; 

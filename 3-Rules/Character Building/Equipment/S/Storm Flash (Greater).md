@@ -17,7 +17,7 @@ license: ORC
 ---
 # Storm Flash (Greater)
 ## Item 18
-### [[deadly-d8]][[disarm]][[3-Rules/trait_reference/electricity]][[finesse]][[magical]]
+### [[deadly-d8]][[3-Rules/trait_reference/D/disarm]][[3-Rules/trait_reference/E/electricity]][[finesse]][[magical]]
 
 |  |  |
 | -- | -- |
@@ -38,7 +38,7 @@ This _+3 greater striking greater shock rapier_ has a golden blade, and miniatur
 
 * * *
 
-**Effect** You cast a 8th-rank [[Spells/Lightning Bolt|Lightning Bolt]] (DC 38).
+**Effect** You cast a 8th-rank [[Lightning Bolt|Lightning Bolt]] (DC 38).
 
 * * *
 

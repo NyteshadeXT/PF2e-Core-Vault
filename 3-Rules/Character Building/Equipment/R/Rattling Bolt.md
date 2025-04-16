@@ -13,7 +13,7 @@ license: OGL
 ---
 # Rattling Bolt
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[arcane]][[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[arcane]][[consumable]][[magical]]
 
 **Category** ammo; 
 **Price** 15 gp; 

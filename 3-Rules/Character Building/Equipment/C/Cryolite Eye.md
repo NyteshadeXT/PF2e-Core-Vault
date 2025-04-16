@@ -25,7 +25,7 @@ You tore your eye from the socket and offered it to whatever spirit would take i
 
 **Frequency** once per day
 
-**Effect** You look through the glass eye sealing your _bargained contract_. The contract casts [[Spells/See the Unseen|See the Unseen]] affecting you.
+**Effect** You look through the glass eye sealing your _bargained contract_. The contract casts [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]] affecting you.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

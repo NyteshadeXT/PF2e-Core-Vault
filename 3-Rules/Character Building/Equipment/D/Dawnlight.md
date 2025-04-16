@@ -25,7 +25,7 @@ This shining symbol of Sarenrae depicts the goddess with her arms held wide. In 
 
 * * *
 
-**Effect** The _dawnlight_ casts 1st-rank [[Spells/Vitality Lash|Vitality Lash]] or [[Spells/Light|Light]]. The _dawnlight_'s spell attack roll and counteract modifier are +7, and any spell with the light trait is treated as though its counteract rank were 1 higher for counteracting darkness.
+**Effect** The _dawnlight_ casts 1st-rank [[Vitality Lash|Vitality Lash]] or [[3-Rules/Character Building/Spells/L/Light|Light]]. The _dawnlight_'s spell attack roll and counteract modifier are +7, and any spell with the light trait is treated as though its counteract rank were 1 higher for counteracting darkness.
 
 * * *
 

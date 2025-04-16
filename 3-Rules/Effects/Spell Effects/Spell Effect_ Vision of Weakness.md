@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Vision of Weakness|Vision of Weakness]]
+Granted by [[3-Rules/Character Building/Spells/V/Vision of Weakness|Vision of Weakness]]
 
 You gain a +2 status bonus to your next attack roll (or skill check made as part of an attack action) against that foe before the end of your turn.
 

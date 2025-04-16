@@ -14,7 +14,7 @@ license: OGL
 ---
 # Sight-Theft Grit
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[ingested]][[3-Rules/trait_reference/poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[divine]][[ingested]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 115 gp; 
@@ -39,7 +39,7 @@ This blackish grit seems to absorb light and resembles particularly dark flakes 
 
 * * *
 
-**Craft Requirements** Supply one casting of [[Spells/Blindness|Blindness]].
+**Craft Requirements** Supply one casting of [[Blindness|Blindness]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

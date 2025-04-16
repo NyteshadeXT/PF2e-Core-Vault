@@ -27,7 +27,7 @@ This elegant silver band often resembles curling fig leaves and fits around your
 
 * * *
 
-**Effect** You cast a 4th-rank [[Spells/Charm|Charm]] spell (DC 38).
+**Effect** You cast a 4th-rank [[Charm|Charm]] spell (DC 38).
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

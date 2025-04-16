@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Figment|Figment]]
+Granted by [[Figment|Figment]]
 
 You can attempt to Create a Diversion with the illusion, gaining a +2 circumstance bonus to your Deception check.
 

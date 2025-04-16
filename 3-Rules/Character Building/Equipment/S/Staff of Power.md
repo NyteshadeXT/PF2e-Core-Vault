@@ -15,7 +15,7 @@ license: OGL
 ---
 # Staff of Power
 ## Item 16
-### [rare](rare "Rare Rarity Trait")[[magical]][[monk]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]][[monk]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -36,13 +36,13 @@ Voluntarily destroying a _staff of power_ unleashes an incredible blast of energ
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **1st** [[Spells/Enfeeble|Enfeeble]]
-*   **2nd** [[Spells/Everlight|Everlight]]
-*   **3rd** [[Spells/Levitate|Levitate]]
-*   **4th** [[Spells/Dispelling Globe|Dispelling Globe]], [[Spells/Paralyze|Paralyze]]
-*   **5th** [[Spells/Force Barrage|Force Barrage]]
-*   **6th** [[Spells/Wall of Force|Wall of Force]]
-*   **7th** [[Spells/Cone of Cold|Cone of Cold]], [[Spells/Fireball|Fireball]], [[Spells/Lightning Bolt|Lightning Bolt]]
+*   **1st** [[Enfeeble|Enfeeble]]
+*   **2nd** [[Everlight|Everlight]]
+*   **3rd** [[Levitate|Levitate]]
+*   **4th** [[Dispelling Globe|Dispelling Globe]], [[Paralyze|Paralyze]]
+*   **5th** [[Force Barrage|Force Barrage]]
+*   **6th** [[Wall of Force|Wall of Force]]
+*   **7th** [[Cone of Cold|Cone of Cold]], [[Fireball|Fireball]], [[Lightning Bolt|Lightning Bolt]]
 
 * * *
 

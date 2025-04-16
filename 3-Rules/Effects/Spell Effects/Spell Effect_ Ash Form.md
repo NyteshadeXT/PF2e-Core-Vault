@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Ash Form|Ash Form]]
+Granted by [[Ash Form|Ash Form]]
 
 You gain fast healing 3, resistance to piercing and slashing damage, and immunity to bleed and precision damage.
 

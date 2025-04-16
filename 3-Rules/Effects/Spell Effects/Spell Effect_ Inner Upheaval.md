@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Inner Upheaval|Inner Upheaval]]
+Granted by [[Inner Upheaval|Inner Upheaval]]
 
 You gain a +1 status bonus to your attack rolls with the Strikes, and the Strikes deal 1d6 extra damage of the chosen type.
 

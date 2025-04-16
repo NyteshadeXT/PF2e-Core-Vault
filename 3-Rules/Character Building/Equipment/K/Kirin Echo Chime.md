@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-The echo of kirin's song can be captured within this small glass chime, which shatters and calls up a meandering breeze of its own when rung. Adding this catalyst to a [[Spells/Gust of Wind|Gust of Wind]] spell causes any flying creatures that would be pushed by the spell's effects to be pushed 30 feet in a direction of your choice, rather than 30 feet in the direction of the spell.
+The echo of kirin's song can be captured within this small glass chime, which shatters and calls up a meandering breeze of its own when rung. Adding this catalyst to a [[Gust of Wind|Gust of Wind]] spell causes any flying creatures that would be pushed by the spell's effects to be pushed 30 feet in a direction of your choice, rather than 30 feet in the direction of the spell.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

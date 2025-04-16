@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Protector's Sphere|Protector's Sphere]]
+Granted by [[Protector's Sphere|Protector's Sphere]]
 
 You gain resistance to all damage.
 

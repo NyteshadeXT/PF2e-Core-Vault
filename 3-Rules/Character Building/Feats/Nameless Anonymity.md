@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Magic Warrior Dedication
 * * *
-Your mask protects you further from divination. Once per day, you can cast [[Spells/Veil of Privacy|Veil of Privacy]] on yourself, heightened to the highest rank of spell you can cast; the spell ends immediately if your mask is removed for even a moment. The spell is of the same tradition as your focus spells.
+Your mask protects you further from divination. Once per day, you can cast [[Veil of Privacy|Veil of Privacy]] on yourself, heightened to the highest rank of spell you can cast; the spell ends immediately if your mask is removed for even a moment. The spell is of the same tradition as your focus spells.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

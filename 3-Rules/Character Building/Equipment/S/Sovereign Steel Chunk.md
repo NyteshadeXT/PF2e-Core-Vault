@@ -10,7 +10,7 @@ license: OGL
 ---
 # Sovereign Steel Chunk
 
-### [rare](rare "Rare Rarity Trait")[[precious]]
+### [rare](rare.md "Rare Rarity Trait")[[precious]]
 
 
 **Price** 700 gp; 

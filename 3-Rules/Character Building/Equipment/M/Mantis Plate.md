@@ -14,7 +14,7 @@ license: ORC
 ---
 # Mantis Plate
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[bulwark]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[bulwark]][[invested]][[magical]]
 
 **Category** heavy; **Group** plate
 **Price** 1900 gp; 

@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You can call the elements to you. You can spend 10 minutes in concert with nature to replace a spell you've prepared in one of your druid spell slots with a [[Spells/Summon Elemental|Summon Elemental]] spell of the same rank.
+You can call the elements to you. You can spend 10 minutes in concert with nature to replace a spell you've prepared in one of your druid spell slots with a [[Summon Elemental|Summon Elemental]] spell of the same rank.
 
 *Source: Pathfinder Player Core*
 *ORC*

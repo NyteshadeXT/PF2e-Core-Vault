@@ -15,7 +15,7 @@ license: OGL
 ---
 # Rod of Razors
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[magical]][[reach]][[tech]][[versatile-s]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]][[reach]][[tech]][[versatile-s]]
 
 |  |  |
 | -- | -- |

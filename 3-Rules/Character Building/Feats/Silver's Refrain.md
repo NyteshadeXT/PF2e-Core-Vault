@@ -11,14 +11,14 @@ license: OGL
 ---
 # Silver's Refrain
 ## Feat 12
-### [rare](rare "Rare Rarity Trait")[[bard]]
+### [rare](rare.md "Rare Rarity Trait")[[bard]]
 
 **Category** class; 
 
 
 
 
-You learn the [[Spells/Silver's Refrain|Silver's Refrain]] composition cantrip, which aids you when fighting devils.
+You learn the [[3-Rules/Character Building/Spells/S/Silver's Refrain|Silver's Refrain]] composition cantrip, which aids you when fighting devils.
 
 *Source: Pathfinder #147: Tomorrow Must Burn*
 *OGL*

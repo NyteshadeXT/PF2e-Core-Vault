@@ -11,7 +11,7 @@ license: OGL
 ---
 # Immaculate Holsters
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 52 gp; 

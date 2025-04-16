@@ -16,7 +16,7 @@ license: OGL
 ---
 # Axe of the Dwarven Lords
 ## Item 26
-### [unique](unique.md "Unique Rarity Trait")[[3-Rules/trait_reference/dwarf]][[magical|Magical]][[sweep]][[thrown-30]][[two-hand-d12]]
+### [unique](unique.md "Unique Rarity Trait")[[dwarf]][[magical|Magical]][[sweep]][[thrown-30]][[two-hand-d12]]
 
 |  |  |
 | -- | -- |
@@ -41,7 +41,7 @@ If you are a dwarf, you gain greater darkvision while holding the axe. If you ar
 
 **Frequency** once per week
 
-**Effect** The axe casts a 10th-rank [[Spells/Summon Elemental|Summon Elemental]] spell to conjure an elite elemental avalanche. The spell is automatically sustained, requiring no action on your part but still allowing you to command the elemental on each of your turns. You can Dismiss the Spell.
+**Effect** The axe casts a 10th-rank [[Summon Elemental|Summon Elemental]] spell to conjure an elite elemental avalanche. The spell is automatically sustained, requiring no action on your part but still allowing you to command the elemental on each of your turns. You can Dismiss the Spell.
 
 * * *
 

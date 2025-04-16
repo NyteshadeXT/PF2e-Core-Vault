@@ -14,7 +14,7 @@ license: OGL
 ---
 # Grinning Pugwampi
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[misfortune]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[misfortune]][[talisman]]
 
 **Category** talisman; 
 **Price** 700 gp; 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Howler Pistol
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[magical]][[scatter-5]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]][[scatter-5]]
 
 |  |  |
 | -- | -- |

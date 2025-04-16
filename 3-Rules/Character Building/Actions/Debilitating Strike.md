@@ -12,7 +12,7 @@ license: ORC
 ---
 # Debilitating Strike `pf2:0`
 
-### [[3-Rules/trait_reference/rogue]]
+### [[rogue]]
 
 **Category** offensive; 
 

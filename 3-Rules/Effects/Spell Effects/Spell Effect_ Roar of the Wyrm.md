@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Roar of the Wyrm|Roar of the Wyrm]].
+Granted by [[Roar of the Wyrm|Roar of the Wyrm]].
 
 You gain a +2 circumstance bonus to Diplomacy checks for 10 minutes against dragons that were in the area at the time of casting.
 

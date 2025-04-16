@@ -20,7 +20,7 @@ license: ORC
 
 
 
-**Cost** Expend a [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]] spell.
+**Cost** Expend a [[Harm|Harm]] or [[Heal|Heal]] spell.
 
 * * *
 

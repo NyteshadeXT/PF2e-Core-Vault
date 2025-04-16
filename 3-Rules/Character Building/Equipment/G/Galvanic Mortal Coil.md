@@ -10,7 +10,7 @@ license: OGL
 ---
 # Galvanic Mortal Coil
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 
 **Price** 970 gp; 
@@ -27,7 +27,7 @@ This porous steel coil wraps around a shard of onyx, supplementing the closely g
 
 * * *
 
-**Effect** You drive the coil into a living creature that has 0 HP while attaching the other end to yourself, in order to damage their heart and possibly siphon their life force. The _galvanic mortal coil_ casts [[Spells/Death Knell|Death Knell]] on the creature DC 27 Will check.
+**Effect** You drive the coil into a living creature that has 0 HP while attaching the other end to yourself, in order to damage their heart and possibly siphon their life force. The _galvanic mortal coil_ casts [[Death Knell|Death Knell]] on the creature DC 27 Will check.
 
 * * *
 
@@ -37,7 +37,7 @@ This porous steel coil wraps around a shard of onyx, supplementing the closely g
 
 * * *
 
-**Effect** You implant the coil into a corpse. The coil casts [[Spells/Talking Corpse|Talking Corpse]] on the body.
+**Effect** You implant the coil into a corpse. The coil casts [[Talking Corpse|Talking Corpse]] on the body.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

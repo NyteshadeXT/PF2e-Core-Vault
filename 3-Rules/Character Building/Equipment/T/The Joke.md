@@ -34,7 +34,7 @@ _The Joke_ represents solving a problem not with strength, but with cleverness o
 
 * * *
 
-**Effect** You perform a quick but amusing card trick with The Joke meant to distract others. You cast [[Spells/Laughing Fit|Laughing Fit]] on up to 10 creatures in range of the spell. The rank of the spell is one-half your level rounded down (minimum 6th level), and the save DC is your class DC (Will check).
+**Effect** You perform a quick but amusing card trick with The Joke meant to distract others. You cast [[Laughing Fit|Laughing Fit]] on up to 10 creatures in range of the spell. The rank of the spell is one-half your level rounded down (minimum 6th level), and the save DC is your class DC (Will check).
 
 *Source: Pathfinder #192: Worst of All Possible Worlds*
 *OGL*

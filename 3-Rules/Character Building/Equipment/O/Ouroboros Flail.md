@@ -15,7 +15,7 @@ license: OGL
 ---
 # Ouroboros Flail
 ## Item 14
-### [[disarm]][[magical]][[sweep]][[trip]]
+### [[3-Rules/Trait Reference/D/disarm]][[magical]][[sweep]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

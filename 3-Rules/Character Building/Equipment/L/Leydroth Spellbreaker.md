@@ -15,7 +15,7 @@ license: ORC
 ---
 # Leydroth Spellbreaker
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[concussive]][[magical]][[scatter-10]]
+### [rare](rare.md "Rare Rarity Trait")[[concussive]][[magical]][[scatter-10]]
 
 |  |  |
 | -- | -- |
@@ -35,7 +35,7 @@ The larynx of a leydroth, a dangerous creature whose roar can unravel magic, is 
 
 **Frequency** once per day
 
-**Effect** The _leydroth spellbreaker_ emits a @Template\[cone|distance:30\] of dispelling energy. Attempt a single counteract check at +25 against each spell or magical effect in the area, plus one item or effect on each creature in the area, with the effects of [[Spells/Dispel Magic|Dispel Magic]].
+**Effect** The _leydroth spellbreaker_ emits a @Template\[cone|distance:30\] of dispelling energy. Attempt a single counteract check at +25 against each spell or magical effect in the area, plus one item or effect on each creature in the area, with the effects of [[Dispel Magic|Dispel Magic]].
 
 * * *
 

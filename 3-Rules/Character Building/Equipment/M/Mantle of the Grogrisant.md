@@ -11,7 +11,7 @@ license: OGL
 ---
 # Mantle of the Grogrisant
 ## Item 18
-### [unique](unique "Unique Rarity Trait")[[invested]][[primal]]
+### [unique](unique.md "Unique Rarity Trait")[[invested]][[primal]]
 
 
 **Price** 22000 gp; 

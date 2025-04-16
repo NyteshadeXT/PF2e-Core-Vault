@@ -16,7 +16,7 @@ license: ORC
 ---
 # Rending Snare
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[kobold]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[kobold]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 700 gp; 

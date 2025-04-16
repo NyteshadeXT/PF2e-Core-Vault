@@ -15,7 +15,7 @@ license: OGL
 ---
 # Brine Dragon Scale
 ## Item 8
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/acid|Acid]] [[consumable]][[talisman]][[3-Rules/trait_reference/water|Water]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/A/acid|Acid]] [[consumable]][[talisman]][[3-Rules/Trait Reference/W/water|Water]]
 
 **Category** other; 
 **Price** 100 gp; 

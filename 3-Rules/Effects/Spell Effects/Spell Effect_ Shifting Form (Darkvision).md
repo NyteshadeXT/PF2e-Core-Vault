@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by casting [[Spells/Shifting Form|Shifting Form]] and choosing to gain darkvision.
+Granted by casting [[Shifting Form|Shifting Form]] and choosing to gain darkvision.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ring of Ravenousness
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
 
 
 **Price** 325 gp; 

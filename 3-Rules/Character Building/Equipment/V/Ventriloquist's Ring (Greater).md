@@ -27,7 +27,7 @@ This elegant copper ring has miniature images of songbirds engraved around its c
 
 * * *
 
-**Effect** Twisting the ring around your finger allows you to magically throw your voice, with the effects of a 2nd-rank [[Spells/Ventriloquism|Ventriloquism]] spell (DC 27 Perception check).
+**Effect** Twisting the ring around your finger allows you to magically throw your voice, with the effects of a 2nd-rank [[Ventriloquism|Ventriloquism]] spell (DC 27 Perception check).
 
 *Source: Pathfinder GM Core*
 *ORC*

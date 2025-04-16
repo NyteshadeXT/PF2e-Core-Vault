@@ -14,7 +14,7 @@ license: OGL
 ---
 # Alluring Performance `pf2:2`
 ## Feat 9
-### [[incapacitation]][[3-Rules/trait_reference/mental]][[vishkanya]][[visual]]
+### [[incapacitation]][[3-Rules/trait_reference/M/mental]][[vishkanya]][[visual]]
 
 **Category** ancestry; 
 

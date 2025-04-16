@@ -12,7 +12,7 @@ license: OGL
 ---
 # Silver Snake Cane
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[metal]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[metal]]
 
 
 **Price** 230 gp; 

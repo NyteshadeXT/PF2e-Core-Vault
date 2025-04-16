@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Draw Ire|Draw Ire]]
+Granted by [[Draw Ire|Draw Ire]]
 
 The target takes a -1 status penalty to attack rolls. On a critical failure the penalty is -2.
 

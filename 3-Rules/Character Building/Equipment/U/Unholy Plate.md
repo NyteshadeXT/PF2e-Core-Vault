@@ -36,7 +36,7 @@ If you're holy, you're [[Conditions/Drained|Drained 2]] and can't recover from t
 
 * * *
 
-**Effect** You cast [[Spells/Translocate|Translocate]].
+**Effect** You cast [[Translocate|Translocate]].
 
 * * *
 

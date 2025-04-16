@@ -96,11 +96,11 @@ Usually planted in gardens or along exterior walls amid mundane plants that serv
 
 A sanguine rose can easily be identified by its unnaturally dusky leaves and vines, which make its bright red flowers and inch-long thorns stand out all the more. Regardless of their telltale features, countless animals and humanoids fall prey to sanguine roses since knowledge of these wretched plants is a well-kept secret among vampires and other cunning undead.
 
-Sanguine roses and their varieties can be created with the _[[Spells/Create Undead|Create Undead]]_ ritual like other undead. The caster of this ritual can substitute Nature (expert) for the usual primary skill check. This makes sanguine roses particularly popular among evil druids and their ilk.
+Sanguine roses and their varieties can be created with the _[[Create Undead|Create Undead]]_ ritual like other undead. The caster of this ritual can substitute Nature (expert) for the usual primary skill check. This makes sanguine roses particularly popular among evil druids and their ilk.
 
 ## Grave Lilies
 
-Several varieties of sanguine rose exist, including the much rarer grave lily, which supposedly feasts upon undead creatures rather than the living. Particularly ancient specimens of either variety have been known to gain a modest level of intelligence, and with it, foul primal magical powers such as _[[Spells/Toxic Cloud|Cloudkill]]_ or _[[Spells/Desiccate|Horrid Wilting]]_.
+Several varieties of sanguine rose exist, including the much rarer grave lily, which supposedly feasts upon undead creatures rather than the living. Particularly ancient specimens of either variety have been known to gain a modest level of intelligence, and with it, foul primal magical powers such as _[[Toxic Cloud|Cloudkill]]_ or _[[Desiccate|Horrid Wilting]]_.
 
 ## Monster Part Subsystem
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Accursed Staff
 ## Item 6
-### [[magical|Magical]][[3-Rules/trait_reference/staff|Staff]] [[two-hand-d8]]
+### [[magical|Magical]][[3-Rules/Trait Reference/S/staff|Staff]] [[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -33,9 +33,9 @@ Iron strips line the body of an _accursed staff_, capping the bottom and folding
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Daze|Daze]]
-*   **1st** [[Spells/Bane|Bane]], [[Spells/Ill Omen|Ill Omen]]
-*   **2nd** [[Spells/Blood Vendetta|Blood Vendetta]], [[Spells/Warrior's Regret|Warrior's Regret]]
+*   **Cantrip** [[Daze|Daze]]
+*   **1st** [[3-Rules/Character Building/Spells/B/Bane|Bane]], [[Ill Omen|Ill Omen]]
+*   **2nd** [[Blood Vendetta|Blood Vendetta]], [[Warrior's Regret|Warrior's Regret]]
 
 * * *
 

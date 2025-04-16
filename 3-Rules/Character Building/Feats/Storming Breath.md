@@ -12,7 +12,7 @@ license: OGL
 ---
 # Storming Breath `pf2:2`
 ## Feat 6
-### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[deviant]][[magical]]
 
 **Category** class; 
 

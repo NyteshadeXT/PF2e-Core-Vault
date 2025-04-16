@@ -16,7 +16,7 @@ license: ORC
 ---
 # Majestic Presence `pf2:1`
 ## Feat 13
-### [[dragonblood]][[emotion]][[fear]][[3-Rules/trait_reference/mental]][[visual]]
+### [[dragonblood]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[visual]]
 
 **Category** ancestry; 
 

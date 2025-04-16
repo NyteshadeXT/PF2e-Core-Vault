@@ -31,9 +31,9 @@ This elaborate metallic webbing feels soft when wrapped around your hands and fo
 
 * * *
 
-**Offense** The metal of the gloves wraps around your weapon and channels the zuhra's magic to cast a 6th-rank [[Spells/Weapon Storm|Weapon Storm]] spell, replicating the metal weapon.
+**Offense** The metal of the gloves wraps around your weapon and channels the zuhra's magic to cast a 6th-rank [[Weapon Storm|Weapon Storm]] spell, replicating the metal weapon.
 
-**Defense** The metal flows off your arms, creating a [[Spells/Blade Barrier|Blade Barrier]]. The blades have the appearance of your weapon. You lose the damaj's gloves' item bonus until the barrier ends, at which point the metal returns to your hands and forearms. You can Dismiss the activation.
+**Defense** The metal flows off your arms, creating a [[Blade Barrier|Blade Barrier]]. The blades have the appearance of your weapon. You lose the damaj's gloves' item bonus until the barrier ends, at which point the metal returns to your hands and forearms. You can Dismiss the activation.
 
 *Source: Paizo Blog: Kineticist Playtest Analysis*
 *OGL*

@@ -84,7 +84,7 @@ creatures:
 
 
 
-Spellskeins created during [[Spells/Control Weather|Control Weather]] rituals have a storm cloud form and can gain the following attack in that form.
+Spellskeins created during [[Control Weather|Control Weather]] rituals have a storm cloud form and can gain the following attack in that form.
 
 * * *
 

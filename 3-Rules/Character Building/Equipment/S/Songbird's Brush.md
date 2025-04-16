@@ -16,7 +16,7 @@ license: OGL
 ---
 # Songbird's Brush
 ## Item 14
-### [rare](rare "Rare Rarity Trait")[[deadly-d8]][[forceful]][[Holy]][[magical]][[reach]]
+### [rare](rare.md "Rare Rarity Trait")[[deadly-d8]][[forceful]][[Holy]][[magical]][[reach]]
 
 |  |  |
 | -- | -- |
@@ -35,7 +35,7 @@ The blade of this _+2 greater striking holy glaive_ shimmers with a prismatic sh
 
 * * *
 
-**Effect** You sweep the _songbird's brush_ in an arc before you, casting [[Spells/Prismatic Spray|Prismatic Spray]] from the glaive. The spell DC is 34. This _prismatic spray_ does not affect good-aligned creatures in its area.
+**Effect** You sweep the _songbird's brush_ in an arc before you, casting [[Prismatic Spray|Prismatic Spray]] from the glaive. The spell DC is 34. This _prismatic spray_ does not affect good-aligned creatures in its area.
 
 * * *
 

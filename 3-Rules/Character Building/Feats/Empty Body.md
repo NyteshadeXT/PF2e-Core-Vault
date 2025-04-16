@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** ki spells
 * * *
-You transmute your body into an ethereal form. You gain the [[Spells/Empty Body|Empty Body]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+You transmute your body into an ethereal form. You gain the [[3-Rules/Character Building/Spells/E/Empty Body|Empty Body]] ki spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

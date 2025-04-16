@@ -14,7 +14,7 @@ license: ORC
 ---
 # Renewed Vigor `pf2:1`
 ## Feat 8
-### [[barbarian]][[concentrate]][[rage]]
+### [[barbarian]][[concentrate]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

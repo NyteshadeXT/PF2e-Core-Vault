@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Oatia Skysage Dedication; Night's Glow
 * * *
-Your power from the moon and stars becomes strong enough to illuminate the night sky. You gain your choice of the [[Spells/Asterism|Asterism]] or [[Spells/Touch of the Moon|Touch of the Moon]] domain spell. Increase the number of Focus Points in your pool by 1.
+Your power from the moon and stars becomes strong enough to illuminate the night sky. You gain your choice of the [[Asterism|Asterism]] or [[Touch of the Moon|Touch of the Moon]] domain spell. Increase the number of Focus Points in your pool by 1.
 
 **Special** You can take this feat a second time, gaining the focus spell that you didn't gain the first time. Increase the number of Focus Points in your pool by 1.
 

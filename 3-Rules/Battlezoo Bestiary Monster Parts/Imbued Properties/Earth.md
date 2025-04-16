@@ -26,16 +26,16 @@ MAGICAL
 
 **Path** Magic; Choose when you first imbue the weapon for the granted spells to be either arcane or primal.
 
-*   **2nd** The weapon can cast _[[Spells/Scatter Scree|scatter scree]]_ as a cantrip, heightened to half the item's level rounded up.
-*   **4th** The weapon can cast _[[Spells/Pummeling Rubble|pummeling rubble]]_ once per day.
+*   **2nd** The weapon can cast _[[Scatter Scree|scatter scree]]_ as a cantrip, heightened to half the item's level rounded up.
+*   **4th** The weapon can cast _[[Pummeling Rubble|pummeling rubble]]_ once per day.
 *   **6th** The weapon's _pummeling rubble_ heightens to 2nd level
-*   **8th** The weapon can cast _[[Spells/Earthbind|earthbind]]_ once per day.
+*   **8th** The weapon can cast _[[Earthbind|earthbind]]_ once per day.
 *   **10th** Strikes with the weapon deal 1 additional piercing damage from spikes of stone; this additional damage has the earth trait.
-*   **12th** The weapon's _earthbind_ and _pummeling rubble_ heighten to 4th level and the weapon can cast _[[Spells/Mountain Resilience|stoneskin]]_ once per day.
+*   **12th** The weapon's _earthbind_ and _pummeling rubble_ heighten to 4th level and the weapon can cast _[[Mountain Resilience|stoneskin]]_ once per day.
 *   **14th** The additional piercing damage increases to 1d4.
 *   **16th** The weapon's _earthbind_, _pummeling rubble_, and _stoneskin_ heighten to 6th level.
 *   **18th** The additional piercing damage increases to 1d6.
-*   **20th** The weapon's _stoneskin_ heightens to 8th level, and it can cast _[[Spells/Earthquake|earthquake]]_ once per day.
+*   **20th** The weapon's _stoneskin_ heightens to 8th level, and it can cast _[[Earthquake|earthquake]]_ once per day.
 
 * * *
 

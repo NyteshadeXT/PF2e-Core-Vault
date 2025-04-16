@@ -11,7 +11,7 @@ license: OGL
 ---
 # (Zombie, Shock) Breath Weapon `pf2:2`
 
-### [[3-Rules/trait_reference/electricity]]
+### [[3-Rules/trait_reference/E/electricity]]
 
 **Category** offensive; 
 

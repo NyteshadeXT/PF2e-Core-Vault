@@ -14,7 +14,7 @@ license: OGL
 ---
 # Gill Hook
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[azarketi]][[grapple]][[reach]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[azarketi]][[3-Rules/Trait Reference/G/grapple]][[reach]]
 
 |  |  |
 | -- | -- |

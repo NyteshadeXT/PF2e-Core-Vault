@@ -18,9 +18,9 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** worn
 
-This functions as a pale lavender ellipsoid aeon stone, but it casts an 8th-rank [[Spells/Dispel Magic|Dispel Magic]] spell with a counteract modifier of 1d20+31.
+This functions as a pale lavender ellipsoid aeon stone, but it casts an 8th-rank [[Dispel Magic|Dispel Magic]] spell with a counteract modifier of 1d20+31.
 
-The resonant power allows you to cast [[Spells/Detect Magic|Detect Magic]] and [[Spells/Read Aura|Read Aura]] as arcane innate spells at will.
+The resonant power allows you to cast [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]] and [[Read Aura|Read Aura]] as arcane innate spells at will.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

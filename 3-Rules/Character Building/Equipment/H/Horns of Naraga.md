@@ -12,7 +12,7 @@ license: OGL
 ---
 # Horns of Naraga
 ## Item 26
-### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[invested]][[magical]]
 
 
 **Price** 0 gp; 

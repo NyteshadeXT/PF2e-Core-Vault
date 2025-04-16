@@ -26,7 +26,7 @@ This leather collar's worn and almost threadbare look belies its magical nature.
 
 * * *
 
-**Effect** You touch your animal companion to transform it into a nonthreatening Tiny creature of the same family or a similar creature (for instance, a house cat instead of a tiger, or a puppy instead of a wolf). This has the effects of [[Spells/Pest Form|Pest Form]] (2nd rank, or 4th rank if your companion can fly). The effect lasts until you Dismiss it.
+**Effect** You touch your animal companion to transform it into a nonthreatening Tiny creature of the same family or a similar creature (for instance, a house cat instead of a tiger, or a puppy instead of a wolf). This has the effects of [[Pest Form|Pest Form]] (2nd rank, or 4th rank if your companion can fly). The effect lasts until you Dismiss it.
 
 *Source: Pathfinder GM Core*
 *ORC*

@@ -18,7 +18,7 @@ license: ORC
 
 
 
-A nymph queen is intrinsically tied to a specific region. As long as the queen is healthy, the environment is exceptionally resilient, allowing the nymph queen to automatically attempt to counteract any spell that would harm the environment (such as the [[Spells/Blight|Blight]] ritual), using her spell DC with a counteract rank equal to the highest-rank druid spell she can cast.
+A nymph queen is intrinsically tied to a specific region. As long as the queen is healthy, the environment is exceptionally resilient, allowing the nymph queen to automatically attempt to counteract any spell that would harm the environment (such as the [[Blight|Blight]] ritual), using her spell DC with a counteract rank equal to the highest-rank druid spell she can cast.
 
 When the nymph queen becomes physically or psychologically unhealthy, however, her warded region eventually becomes twisted or unhealthy as well. In that case, restoring the nymph queen swiftly heals the entire region.
 

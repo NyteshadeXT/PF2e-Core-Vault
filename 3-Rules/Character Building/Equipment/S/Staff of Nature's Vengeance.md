@@ -25,7 +25,7 @@ license: OGL
 
 
 
-This stout staff is made from gnarled hawthorn. When used as a weapon, a staff of nature's vengeance permanently has the effects of [[Spells/Shillelagh|Shillelagh]]
+This stout staff is made from gnarled hawthorn. When used as a weapon, a staff of nature's vengeance permanently has the effects of [[Shillelagh|Shillelagh]]
 
 **Activate** Cast a Spell
 
@@ -35,11 +35,11 @@ This stout staff is made from gnarled hawthorn. When used as a weapon, a staff o
 
 **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 
-*   **Cantrip** [[Spells/Tangle Vine|Tangle Vine]]
-*   **1st** [[Spells/Shocking Grasp|Shocking Grasp]], [[Spells/Spider Sting|Spider Sting]]
-*   **2nd** [[Spells/Floating Flame|Floating Flame]], [[Spells/Vomit Swarm|Vomit Swarm]]
-*   **3rd** [[Spells/Earthbind|Earthbind]], [[Spells/Wall of Thorns|Wall of Thorns]]
-*   **4th** [[Spells/Bestial Curse|Bestial Curse]], [[Spells/Spike Stones|Spike Stones]]
+*   **Cantrip** [[Tangle Vine|Tangle Vine]]
+*   **1st** [[Shocking Grasp|Shocking Grasp]], [[Spider Sting|Spider Sting]]
+*   **2nd** [[Floating Flame|Floating Flame]], [[Vomit Swarm|Vomit Swarm]]
+*   **3rd** [[Earthbind|Earthbind]], [[Wall of Thorns|Wall of Thorns]]
+*   **4th** [[Bestial Curse|Bestial Curse]], [[Spike Stones|Spike Stones]]
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

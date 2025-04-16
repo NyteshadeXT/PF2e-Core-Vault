@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Revel in Retribution|Revel in Retribution]]
+Granted by [[Revel in Retribution|Revel in Retribution]]
 
 You gain the [[Actions/Reactive Strike|Reactive Strike]] ability.
 

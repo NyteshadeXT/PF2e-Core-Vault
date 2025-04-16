@@ -11,7 +11,7 @@ license: OGL
 ---
 # Misdirecting Haversack
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[magical]]
 
 
 **Price** 200 gp; 

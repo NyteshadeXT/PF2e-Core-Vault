@@ -15,7 +15,7 @@ license: OGL
 ---
 # Alcohol
 
-### [[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/trait_reference/poison|Poison]]
+### [[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/Trait Reference/P/poison|Poison]]
 
 **Category** drug; 
 **Price** 1 cp; 

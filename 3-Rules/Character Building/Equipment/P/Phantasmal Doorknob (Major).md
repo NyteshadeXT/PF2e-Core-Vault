@@ -13,7 +13,7 @@ license: OGL
 ---
 # Phantasmal Doorknob (Major)
 ## Item 15
-### [[emotion]][[magical]][[3-Rules/trait_reference/mental]][[spellheart]]
+### [[emotion]][[magical]][[3-Rules/Trait Reference/M/mental]][[spellheart]]
 
 
 **Price** 6000 gp; 
@@ -33,7 +33,7 @@ This ornate doorknob can open doors both material and metaphysical, revealing dr
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Ghost Sound|Ghost Sound]].
+**Effect** You cast [[Ghost Sound|Ghost Sound]].
 
 * * *
 
@@ -41,7 +41,7 @@ This ornate doorknob can open doors both material and metaphysical, revealing dr
 
 **Frequency** once per day
 
-**Effect** You cast 6th-rank [[Spells/Phantasmal Killer|Phantasmal Killer]].
+**Effect** You cast 6th-rank [[Phantasmal Killer|Phantasmal Killer]].
 
 * * *
 
@@ -49,7 +49,7 @@ This ornate doorknob can open doors both material and metaphysical, revealing dr
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Phantasmal Calamity|Phantasmal Calamity]].
+**Effect** You cast [[Phantasmal Calamity|Phantasmal Calamity]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

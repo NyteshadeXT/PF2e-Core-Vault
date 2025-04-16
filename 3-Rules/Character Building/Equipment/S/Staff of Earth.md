@@ -35,8 +35,8 @@ Geometric patterns are etched into the smooth brown and gray surface of a staff 
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Scatter Scree|Scatter Scree]]
-*   **1st** [[Spells/Pummeling Rubble|Pummeling Rubble]]
+*   **Cantrip** [[Scatter Scree|Scatter Scree]]
+*   **1st** [[Pummeling Rubble|Pummeling Rubble]]
 
 * * *
 

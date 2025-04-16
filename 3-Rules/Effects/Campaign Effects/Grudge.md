@@ -15,7 +15,7 @@ license: OGL
 ---
 # Grudge `pf2:1`
 
-### [rare](rare "Rare Rarity Trait")[[emotion]][[fear]][[incapacitation]][[3-Rules/trait_reference/mental]][[occult]]
+### [rare](rare "Rare Rarity Trait")[[emotion]][[3-Rules/trait_reference/F/fear]][[incapacitation]][[3-Rules/trait_reference/M/mental]][[occult]]
 
 **Category** deityboon; 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Strix Vengeance `pf2:r`
 ## Feat 5
-### [[emotion]][[3-Rules/trait_reference/mental]][[strix]]
+### [[emotion]][[3-Rules/trait_reference/M/mental]][[strix]]
 
 **Category** ancestry; 
 

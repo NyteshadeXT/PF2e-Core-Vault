@@ -16,7 +16,7 @@ license: OGL
 ---
 # Piereta
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[deadly-d8]][[disarm]][[divine]][[finesse]][[intelligent]]
+### [unique](unique.md "Unique Rarity Trait")[[deadly-d8]][[3-Rules/Trait Reference/D/disarm]][[divine]][[finesse]][[intelligent]]
 
 |  |  |
 | -- | -- |
@@ -61,7 +61,7 @@ _Piereta_ can use the following activations.
 
 **Frequency** once per day
 
-**Effect** _Piereta_ casts a 9th-rank [[Spells/Field of Life|Field of Life]].
+**Effect** _Piereta_ casts a 9th-rank [[Field of Life|Field of Life]].
 
 *Source: Pathfinder #156: The Apocalypse Prophet*
 *OGL*

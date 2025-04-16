@@ -14,7 +14,7 @@ license: OGL
 ---
 # Juggling Club
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[nonlethal]][[thrown-20]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[nonlethal]][[thrown-20]]
 
 |  |  |
 | -- | -- |

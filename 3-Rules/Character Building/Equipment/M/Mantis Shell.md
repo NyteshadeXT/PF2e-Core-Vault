@@ -11,7 +11,7 @@ license: OGL
 ---
 # Mantis Shell
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[adjusted]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[adjusted]]
 
 **Category** light; **Group** skeletal
 **Price** 10 gp; 

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Dancer's Spear
 ## Item 0
-### [[backswing]][[3-Rules/Rule References/Finesse]][[3-Rules/trait_reference/reach|Reach]] [[sweep]][[versatile-b]]
+### [[backswing]][[3-Rules/Rule References/Finesse]][[reach|Reach]] [[sweep]][[versatile-b]]
 
 |  |  |
 | -- | -- |

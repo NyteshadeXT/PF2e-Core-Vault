@@ -11,7 +11,7 @@ license: OGL
 ---
 # Skyfang Crystal
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 2000 gp; 

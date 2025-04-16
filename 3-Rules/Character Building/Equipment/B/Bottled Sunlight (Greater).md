@@ -18,7 +18,7 @@ license: OGL
 ---
 # Bottled Sunlight (Greater)
 ## Item 12
-### [[alchemical]][[bomb]][[consumable]][[3-Rules/Rule References/Fire]][[3-Rules/trait_reference/light]][[splash]][[vitality]]
+### [[alchemical]][[bomb]][[consumable]][[3-Rules/Rule References/Fire]][[3-Rules/Trait Reference/L/light]][[splash]][[vitality]]
 
 |  |  |
 | -- | -- |

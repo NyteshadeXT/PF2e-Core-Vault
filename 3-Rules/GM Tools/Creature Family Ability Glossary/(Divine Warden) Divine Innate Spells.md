@@ -17,7 +17,7 @@ license: OGL
 
 
 
-A divine warden whose patron deity has any alignment components gains [[Spells/Divine Lance|Divine Lance]] as an innate cantrip. A divine warden with a neutral patron deity instead gains [[Spells/Daze|Daze]] as an innate cantrip.
+A divine warden whose patron deity has any alignment components gains [[Divine Lance|Divine Lance]] as an innate cantrip. A divine warden with a neutral patron deity instead gains [[Daze|Daze]] as an innate cantrip.
 
 *Source: Pathfinder Bestiary 3*
 *OGL*

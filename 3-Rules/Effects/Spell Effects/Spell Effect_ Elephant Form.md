@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Spells/Elephant Form|Elephant Form]]
+Granted by [[Elephant Form|Elephant Form]]
 
-You channel the primal forces of nature to transform into a Large battle form, specifically that of a powerful and terrifying elephant or similar creature, such as a mammoth, mastodon, or anancus. This spell has the effects of [[Spells/Dinosaur Form|Dinosaur Form]], except you gain the following specific abilities instead of the form-specific abilities of dinosaur form.
+You channel the primal forces of nature to transform into a Large battle form, specifically that of a powerful and terrifying elephant or similar creature, such as a mammoth, mastodon, or anancus. This spell has the effects of [[Dinosaur Form|Dinosaur Form]], except you gain the following specific abilities instead of the form-specific abilities of dinosaur form.
 
 *   Speed 40 feet;
 *   **Melee** `pf2:1` foot, **Damage** 2d8 bludgeoning.

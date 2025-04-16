@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Prismatic Armor|Prismatic Armor]]
+Granted by [[Prismatic Armor|Prismatic Armor]]
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

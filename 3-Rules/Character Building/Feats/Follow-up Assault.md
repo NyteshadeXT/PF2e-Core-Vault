@@ -13,7 +13,7 @@ license: ORC
 ---
 # Follow-Up Assault `pf2:1`
 ## Feat 8
-### [[barbarian]][[rage]]
+### [[barbarian]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

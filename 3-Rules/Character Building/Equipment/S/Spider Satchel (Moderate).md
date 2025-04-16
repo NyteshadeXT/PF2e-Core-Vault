@@ -17,7 +17,7 @@ license: ORC
 ---
 # Spider Satchel (Moderate)
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/poison]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/P/poison]][[splash]]
 
 |  |  |
 | -- | -- |

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Honeyscent
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/trait_reference/poison]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 180 gp; 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Consecrated Aura
 ## Feat 14
-### [[archetype]][[aura]][[vitality]]
+### [[archetype]][[3-Rules/trait_reference/A/aura]][[vitality]]
 
 **Category** class; 
 

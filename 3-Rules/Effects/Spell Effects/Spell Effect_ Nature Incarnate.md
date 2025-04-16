@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Nature Incarnate|Nature Incarnate]]
+Granted by [[Nature Incarnate|Nature Incarnate]]
 
 The primal power of the world flows through you. You transform into an incarnation of nature, either a green man or a kaiju. Your battle form is Medium for a green man or Gargantuan (30-foot-by-30-foot space) for a kaiju. While in this form, you gain the plant trait (for a green man) or the beast trait (for a kaiju). You can Dismiss the spell. You gain the following statistics and abilities regardless of which battle form you choose:
 

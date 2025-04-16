@@ -12,7 +12,7 @@ license: OGL
 ---
 # Indomitable Spirit `pf2:1`
 ## Feat 17
-### [rare](rare "Rare Rarity Trait")[[concentrate]][[reincarnated]]
+### [rare](rare.md "Rare Rarity Trait")[[concentrate]][[reincarnated]]
 
 **Category** ancestry; 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Hunter's Dawn
 ## Item 23
-### [unique](unique "Unique Rarity Trait")[[arcane]][[artifact]][[thrown-10]]
+### [unique](unique.md "Unique Rarity Trait")[[arcane]][[artifact]][[thrown-10]]
 
 |  |  |
 | -- | -- |
@@ -45,7 +45,7 @@ On a successful hit, you deal damage (3d6 piercing, due to the atlatl's _greater
 
 **Trigger** You hit a creature with a ranged Strike with _Hunter's Dawn_
 
-**Effect** The target is marked. Once per day, you can cast a 5th-rank [[Spells/Locate|Locate]] spell on the marked target, regardless of its distance from you or your ability to cast spells. This effect persists until it is dispelled (counterspell DC 46), the creature dies, or a new target is marked.
+**Effect** The target is marked. Once per day, you can cast a 5th-rank [[Locate|Locate]] spell on the marked target, regardless of its distance from you or your ability to cast spells. This effect persists until it is dispelled (counterspell DC 46), the creature dies, or a new target is marked.
 
 * * *
 

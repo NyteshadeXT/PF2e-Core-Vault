@@ -16,7 +16,7 @@ license: OGL
 ---
 # Blight Breath
 ## Item 12
-### [[3-Rules/Rule References/Air]][[bottled-breath]][[consumable]][[magical|Magical]][[3-Rules/trait_reference/poison|Poison]]
+### [[3-Rules/Rule References/Air]][[bottled-breath]][[consumable]][[magical|Magical]][[3-Rules/Trait Reference/P/poison|Poison]]
 
 **Category** other; 
 **Price** 350 gp; 

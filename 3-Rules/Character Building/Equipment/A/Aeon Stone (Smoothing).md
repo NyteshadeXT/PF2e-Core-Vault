@@ -29,7 +29,7 @@ There are various types of _aeon stones_, each with a different appearance and m
 
 This spherical piece of silvery stone helps you ignore minor issues. You can ignore status penalties to skill checks from [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Enfeebled|Enfeebled 1]], [[Conditions/Frightened|Frightened 1]], [[Conditions/Sickened|Sickened 1]], and [[Conditions/Stupefied|Stupefied 1]] conditions as long as the value of that condition is 1.
 
-Its resonant power allows you to cast [[Spells/Guidance|Guidance]] as an occult innate cantrip.
+Its resonant power allows you to cast [[Guidance|Guidance]] as an occult innate cantrip.
 
 *Source: Pathfinder GM Core*
 *ORC*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Sporeborn) Contagious Spores
 
-### [[disease]][[fungus]]
+### [[3-Rules/trait_reference/D/disease]][[fungus]]
 
 **Category** offensive; 
 

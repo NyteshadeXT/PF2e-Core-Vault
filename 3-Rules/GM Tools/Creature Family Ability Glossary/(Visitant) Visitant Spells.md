@@ -25,9 +25,9 @@ Some visitants can cast the following innate occult spells. If you give a visita
 
 **Spell Attack** varies
 
-**1st** [[Spells/Fear|Fear]], [[Spells/Enfeeble|Enfeeble]]
+**1st** [[3-Rules/Character Building/Spells/F/Fear|Fear]], [[Enfeeble|Enfeeble]]
 
-**Constant (1st)** [[Spells/Detect Alignment|Detect Alignment]]
+**Constant (1st)** [[Detect Alignment|Detect Alignment]]
 
 *Source: Pathfinder #152: Legacy of the Lost God*
 *OGL*

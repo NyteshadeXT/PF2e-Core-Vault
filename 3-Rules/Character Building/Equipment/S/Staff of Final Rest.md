@@ -35,9 +35,9 @@ This white marble staff is carved into the figure of an abstract knight, its shi
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Vitality Lash|Vitality Lash]]
-*   **1st** [[Spells/Infuse Vitality|Infuse Vitality]], [[Spells/Heal|Heal]]
-*   **2nd** [[Spells/Heal|Heal]], [[Spells/Peaceful Rest|Peaceful Rest]]
+*   **Cantrip** [[Vitality Lash|Vitality Lash]]
+*   **1st** [[Infuse Vitality|Infuse Vitality]], [[Heal|Heal]]
+*   **2nd** [[Heal|Heal]], [[Peaceful Rest|Peaceful Rest]]
 
 * * *
 

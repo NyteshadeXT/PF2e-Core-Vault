@@ -14,7 +14,7 @@ license: ORC
 ---
 # Ogre Hook
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d10]][[trip]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d10]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Shobhad Longrifle
 ## Item 1
-### [rare](rare "Rare Rarity Trait")[[backstabber]][[concussive]][[fatal-d12]][[kickback]][[volley-30]]
+### [rare](rare.md "Rare Rarity Trait")[[backstabber]][[concussive]][[fatal-d12]][[kickback]][[volley-30]]
 
 |  |  |
 | -- | -- |

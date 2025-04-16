@@ -14,7 +14,7 @@ license: OGL
 ---
 # Moon Blossom Tea
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]][[tea]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]][[tea]]
 
 **Category** potion; 
 **Price** 150 gp; 

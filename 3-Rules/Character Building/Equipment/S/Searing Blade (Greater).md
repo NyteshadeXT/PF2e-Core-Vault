@@ -15,7 +15,7 @@ license: ORC
 ---
 # Searing Blade (Greater)
 ## Item 17
-### [[3-Rules/trait_reference/fire]][[magical]][[versatile-p]]
+### [[3-Rules/Trait Reference/F/fire]][[magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -34,7 +34,7 @@ This _+3 greater striking [[Flaming (Greater)|Greater Flaming]] longsword_ has a
 
 * * *
 
-**Effect** You cast the [[Spells/Ignition|Ignition]] cantrip from the sword as a 9th-rank arcane spell, using your melee attack modifier with _searing blade_ as your spell attack modifier.
+**Effect** You cast the [[Ignition|Ignition]] cantrip from the sword as a 9th-rank arcane spell, using your melee attack modifier with _searing blade_ as your spell attack modifier.
 
 * * *
 

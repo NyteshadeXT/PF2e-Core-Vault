@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Repel Metal|Repel Metal]]
+Granted by [[Repel Metal|Repel Metal]]
 
 The target gains a +2 circumstance bonus to AC against the triggering attack.
 

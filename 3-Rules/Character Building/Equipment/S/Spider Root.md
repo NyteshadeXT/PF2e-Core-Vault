@@ -15,7 +15,7 @@ license: ORC
 ---
 # Spider Root
 ## Item 9
-### [[alchemical]][[consumable]][[contact]][[3-Rules/trait_reference/poison]]
+### [[alchemical]][[consumable]][[contact]][[3-Rules/trait_reference/P/poison]]
 
 **Category** poison; 
 **Price** 110 gp; 

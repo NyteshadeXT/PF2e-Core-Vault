@@ -42,9 +42,9 @@ This simple iron staff is capped with a faceted, clear gem.
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Light|Light]]
-*   **2nd** [[Spells/Everlight|Everlight]]
-*   **3rd** [[Spells/Everlight|Everlight]], [[Spells/Holy Light|Holy Light]]
+*   **Cantrip** [[3-Rules/Character Building/Spells/L/Light|Light]]
+*   **2nd** [[Everlight|Everlight]]
+*   **3rd** [[Everlight|Everlight]], [[3-Rules/Character Building/Spells/H/Holy Light|Holy Light]]
 
 * * *
 

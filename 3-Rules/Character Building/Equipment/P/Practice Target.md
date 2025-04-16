@@ -10,7 +10,7 @@ license: OGL
 ---
 # Practice Target
 
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 **Category** other; 
 **Price** 2 sp; **Quantity** 10

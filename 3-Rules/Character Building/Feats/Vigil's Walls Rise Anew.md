@@ -11,7 +11,7 @@ license: OGL
 ---
 # Vigil's Walls Rise Anew `pf2:2`
 ## Feat 10
-### [rare](rare "Rare Rarity Trait")[[archetype]]
+### [rare](rare.md "Rare Rarity Trait")[[archetype]]
 
 **Category** class; 
 

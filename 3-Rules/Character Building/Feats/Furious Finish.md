@@ -13,7 +13,7 @@ license: ORC
 ---
 # Furious Finish `pf2:1`
 ## Feat 2
-### [[barbarian]][[rage]]
+### [[barbarian]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

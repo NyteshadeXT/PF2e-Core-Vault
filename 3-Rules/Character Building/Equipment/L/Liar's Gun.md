@@ -16,7 +16,7 @@ license: OGL
 ---
 # Liar's Gun
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[capacity-4]][[cobbled]][[concussive]][[fatal-d8]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[capacity-4]][[cobbled]][[concussive]][[fatal-d8]][[magical]]
 
 |  |  |
 | -- | -- |

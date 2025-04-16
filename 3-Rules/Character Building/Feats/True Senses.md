@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-Your senses are so sharp they pierce through all illusions. You can heighten your senses to non-magically gain the effects of a 6th-rank [[Spells/Truesight|Truesight]] spell for 10 minutes. The ability to "see through" illusions and polymorph effects applies to any precise sense you possess.
+Your senses are so sharp they pierce through all illusions. You can heighten your senses to non-magically gain the effects of a 6th-rank [[Truesight|Truesight]] spell for 10 minutes. The ability to "see through" illusions and polymorph effects applies to any precise sense you possess.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

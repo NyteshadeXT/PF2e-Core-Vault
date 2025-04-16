@@ -15,7 +15,7 @@ license: ORC
 ---
 # Rapier
 ## Item 0
-### [[deadly-d8]][[disarm]][[finesse]]
+### [[deadly-d8]][[3-Rules/Trait Reference/D/disarm]][[finesse]]
 
 |  |  |
 | -- | -- |

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ka Stone Ritual `pf2:2`
 ## Feat 4
-### [rare](rare "Rare Rarity Trait")[[archetype]]
+### [rare](rare.md "Rare Rarity Trait")[[archetype]]
 
 **Category** class; 
 
@@ -33,7 +33,7 @@ The ka stone grants you a +1 item bonus to saves against death effects and negat
 
 * * *
 
-**Effect** You cast [[Spells/Enlarge|Enlarge]] on yourself or use one of the other activated abilities granted by a later Living Monolith feat.
+**Effect** You cast [[Enlarge|Enlarge]] on yourself or use one of the other activated abilities granted by a later Living Monolith feat.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

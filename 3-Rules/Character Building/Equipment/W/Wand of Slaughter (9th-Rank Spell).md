@@ -28,7 +28,7 @@ This polished black wand has a green gem at the tip, and anyone who looks into i
 
 **Frequency** once per day, plus overcharge
 
-**Effect** You cast [[Spells/Execute|Execute]] at 9th-rank. If the spell slays a living target, the corpse releases grim energy in a @Template\[emanation|distance:20\], dealing 18 void damage.
+**Effect** You cast [[Execute|Execute]] at 9th-rank. If the spell slays a living target, the corpse releases grim energy in a @Template\[emanation|distance:20\], dealing 18 void damage.
 
 * * *
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Entangling Flora|Entangling Flora]]
+Granted by [[Entangling Flora|Entangling Flora]]
 
 The creature takes a -10-foot circumstance penalty to its Speeds.
 

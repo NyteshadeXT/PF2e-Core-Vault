@@ -12,7 +12,7 @@ license: ORC
 ---
 # Liberating Step `pf2:r`
 
-### [[3-Rules/trait_reference/champion]]
+### [[champion]]
 
 **Category** defensive; 
 

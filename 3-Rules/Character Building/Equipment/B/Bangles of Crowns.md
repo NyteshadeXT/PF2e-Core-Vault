@@ -25,7 +25,7 @@ This pair of silver bangles is engraved with images of crowns. While wearing the
 
 **Frequency** once per hour
 
-**Effect** You cast a 3rd-rank [[Spells/Fear|Fear]] spell (DC 38 Will check).
+**Effect** You cast a 3rd-rank [[3-Rules/Character Building/Spells/F/Fear|Fear]] spell (DC 38 Will check).
 
 * * *
 

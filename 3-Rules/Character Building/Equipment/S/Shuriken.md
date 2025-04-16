@@ -15,7 +15,7 @@ license: ORC
 ---
 # Shuriken
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[monk]][[thrown]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[monk]][[thrown]]
 
 |  |  |
 | -- | -- |

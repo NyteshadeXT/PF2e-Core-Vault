@@ -15,7 +15,7 @@ license: ORC
 ---
 # Fluid Form Staff
 ## Item 6
-### [[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
+### [[magical|Magical]][[3-Rules/Trait Reference/S/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -34,8 +34,8 @@ A glass orb atop this metal staff contains fine sand. While wielding the staff, 
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **1st** [[Spells/Pest Form|Pest Form]]
-*   **2nd** [[Spells/Animal Form|Animal Form]], [[Spells/Enlarge|Enlarge]], [[Spells/Shrink|Shrink]]
+*   **1st** [[Pest Form|Pest Form]]
+*   **2nd** [[Animal Form|Animal Form]], [[Enlarge|Enlarge]], [[Shrink|Shrink]]
 
 * * *
 

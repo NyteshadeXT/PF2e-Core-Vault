@@ -26,7 +26,7 @@ This writing instrument was made from the spur of one of the giant divine rooste
 
 * * *
 
-**Effect** Drawing a circle on the ground with your stylus, you cast [[Spells/Field of Life|Field of Life]] centered on yourself.
+**Effect** Drawing a circle on the ground with your stylus, you cast [[Field of Life|Field of Life]] centered on yourself.
 
 * * *
 

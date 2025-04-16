@@ -12,7 +12,7 @@ license: OGL
 ---
 # Pipes of Compulsion (Major)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[coda]][[occult]][[3-Rules/Character Building/Equipment/S/Staff]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[coda]][[occult]][[3-Rules/Character Building/Equipment/S/Staff]]
 
 
 **Price** 1900 gp; 
@@ -29,12 +29,12 @@ These panpipes are made of what seems to be beat-up tin bound by frayed leather 
 
 **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Daze|Daze]]
-*   **1st** [[Spells/Charm|Charm]], [[Spells/Command|Command]], [[Spells/Fear|Fear]]
-*   **2nd** [[Spells/Laughing Fit|Laughing Fit]], [[Spells/Stupefy|Stupefy]]
-*   **3rd** [[Spells/Charm|Charm]], [[Spells/Hypnotize|Hypnotize]], [[Spells/Mind Reading|Mind Reading]], [[Spells/Ring of Truth|Ring of Truth]]
-*   **4th** [[Spells/Confusion|Confusion]], [[Spells/Suggestion|Suggestion]]
-*   **5th** [[Spells/Charm|Charm]], [[Spells/Glimmer of Charm|Glimmer of Charm]], [[Spells/Suggestion|Suggestion]], [[Spells/Telepathy|Telepathy]]
+*   **Cantrip** [[Daze|Daze]]
+*   **1st** [[Charm|Charm]], [[Command|Command]], [[3-Rules/Character Building/Spells/F/Fear|Fear]]
+*   **2nd** [[Laughing Fit|Laughing Fit]], [[Stupefy|Stupefy]]
+*   **3rd** [[Charm|Charm]], [[Hypnotize|Hypnotize]], [[Mind Reading|Mind Reading]], [[3-Rules/Character Building/Spells/R/Ring of Truth|Ring of Truth]]
+*   **4th** [[Confusion|Confusion]], [[Suggestion|Suggestion]]
+*   **5th** [[Charm|Charm]], [[Glimmer of Charm|Glimmer of Charm]], [[Suggestion|Suggestion]], [[3-Rules/Character Building/Spells/T/Telepathy|Telepathy]]
 
 * * *
 

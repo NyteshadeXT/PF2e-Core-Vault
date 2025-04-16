@@ -19,7 +19,7 @@ license: OGL
 ---
 # Monarch
 ## Item 6
-### [unique](unique "Unique Rarity Trait")[[agile]][[3-Rules/trait_reference/air]][[deadly-d6]][[divine]][[finesse]][[relic]][[thrown-20]][[versatile-s]]
+### [unique](unique.md "Unique Rarity Trait")[[agile]][[3-Rules/Trait Reference/A/air]][[deadly-d6]][[divine]][[finesse]][[relic]][[thrown-20]][[versatile-s]]
 
 |  |  |
 | -- | -- |
@@ -40,7 +40,7 @@ _Monarch_ functions as a _+1 striking returning starknife_ that can't have addit
 
 **Requirements** _Monarch_ must possess a major gift
 
-**Effect** _Monarch_ casts [[Spells/Dream Message|Dream Message]] (heightened to 4th rank) to your specifications.
+**Effect** _Monarch_ casts [[Dream Message|Dream Message]] (heightened to 4th rank) to your specifications.
 
 *Source: Pathfinder #200: Seven Dooms for Sandpoint*
 *OGL*

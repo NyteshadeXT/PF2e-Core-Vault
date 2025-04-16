@@ -13,7 +13,7 @@ license: OGL
 ---
 # Boarding Pike
 ## Item 1
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/reach|Reach]] [[3-Rules/trait_reference/shove]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[reach|Reach]] [[3-Rules/Trait Reference/S/shove]]
 
 |  |  |
 | -- | -- |

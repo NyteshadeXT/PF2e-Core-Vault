@@ -12,7 +12,7 @@ license: OGL
 ---
 # Magnetic Suit
 ## Item 4
-### [[aura]][[consumable]]
+### [[3-Rules/Trait Reference/A/aura]][[consumable]]
 
 **Category** other; 
 **Price** 20 gp; 

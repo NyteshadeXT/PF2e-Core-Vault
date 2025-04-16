@@ -14,7 +14,7 @@ license: OGL
 ---
 # Godsbreath Bow
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[deadly-d10]][[magical]][[propulsive]]
+### [rare](rare.md "Rare Rarity Trait")[[deadly-d10]][[magical]][[propulsive]]
 
 |  |  |
 | -- | -- |

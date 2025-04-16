@@ -14,7 +14,7 @@ license: OGL
 ---
 # Privacy Ward Fulu (Hallway)
 ## Item 1
-### [rare](rare "Rare Rarity Trait")[[consumable]][[fulu]][[magical]][[talisman]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[fulu]][[magical]][[talisman]]
 
 **Category** fulu; 
 **Price** 4 gp; 

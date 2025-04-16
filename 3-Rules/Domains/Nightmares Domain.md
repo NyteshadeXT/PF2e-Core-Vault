@@ -10,6 +10,6 @@ tags:
 # Nightmares Domain
 **Deities** [[Deities/Azathoth|Azathoth]], [[Deities/Chamidu|Chamidu]], [[Deities/Groetus|Groetus]], [[Deities/Gyronna|Gyronna]], [[Deities/Jaidz|Jaidz]], [[Deities/Kalekot|Kalekot]], [[Deities/Kelizandri|Kelizandri]], [[Deities/Lamashtu|Lamashtu]], [[Deities/Nyarlathotep (Haunter in the Dark)|Nyarlathotep (Haunter in the Dark)]], [[Deities/Nyarlathotep (The Crawling Chaos)|Nyarlathotep (The Crawling Chaos)]], [[Deities/Sifkesh|Sifkesh]], [[Deities/Treerazer|Treerazer]], [[Deities/Trelmarixian|Trelmarixian]], [[Deities/Zura|Zura]]
 
-**Domain Spell** [[Spells/Waking Nightmare|Waking Nightmare]]; **Advanced Domain Spell** [[Spells/Shared Nightmare|Shared Nightmare]]
+**Domain Spell** [[3-Rules/Character Building/Spells/W/Waking Nightmare|Waking Nightmare]]; **Advanced Domain Spell** [[Shared Nightmare|Shared Nightmare]]
 
 You fill minds with horror and dread.

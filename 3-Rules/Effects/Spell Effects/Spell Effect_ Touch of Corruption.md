@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by failing the save against [[Spells/Touch of Corruption|Touch of Corruption]].
+Granted by failing the save against [[Touch of Corruption|Touch of Corruption]].
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

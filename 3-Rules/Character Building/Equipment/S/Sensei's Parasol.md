@@ -16,7 +16,7 @@ license: OGL
 ---
 # Sensei's Parasol
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[magical]][[monk]][[parry]][[reach]][[trip]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]][[monk]][[parry]][[reach]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

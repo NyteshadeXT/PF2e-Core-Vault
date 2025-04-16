@@ -12,7 +12,7 @@ license: OGL
 ---
 # Thunderblast Slippers
 ## Item 9
-### [[invested]][[magical]][[3-Rules/trait_reference/sonic]]
+### [[invested]][[magical]][[3-Rules/trait_reference/S/sonic]]
 
 
 **Price** 650 gp; 

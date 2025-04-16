@@ -13,7 +13,7 @@ license: OGL
 ---
 # Corpse Stench
 ## Feat 12
-### [[archetype]][[aura]][[olfactory]]
+### [[archetype]][[3-Rules/trait_reference/A/aura]][[olfactory]]
 
 **Category** class; 
 

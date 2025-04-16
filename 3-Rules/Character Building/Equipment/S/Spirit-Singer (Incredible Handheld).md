@@ -9,7 +9,7 @@ license: OGL
 ---
 # Spirit-Singer (Incredible Handheld)
 ## Item 12
-### [rare](rare "Rare Rarity Trait")
+### [rare](rare.md "Rare Rarity Trait")
 
 
 **Price** 1650 gp; 

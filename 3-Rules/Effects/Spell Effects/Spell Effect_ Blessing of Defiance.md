@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Blessing of Defiance|Blessing of Defiance]]
+Granted by [[Blessing of Defiance|Blessing of Defiance]]
 
 Choose one saving throw: Fortitude, Reflex, or Will. The target gets a +4 status bonus to that saving throw for 1 round.
 

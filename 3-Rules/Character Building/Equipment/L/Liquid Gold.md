@@ -13,7 +13,7 @@ license: OGL
 ---
 # Liquid Gold
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 40 gp; 

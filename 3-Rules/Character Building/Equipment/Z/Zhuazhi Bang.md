@@ -16,7 +16,7 @@ license: ORC
 ---
 # Zhuazhi Bang
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[grapple]][[razing]][[trip]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/D/disarm]][[3-Rules/trait_reference/G/grapple]][[razing]][[3-Rules/trait_reference/T/trip]]
 
 |  |  |
 | -- | -- |

@@ -34,7 +34,7 @@ _The Tangled Briar_ signifies the return of ancient triumphs. As long as you hav
 
 * * *
 
-**Effect** You raise the card up above your head and invoke the thorns and briars of the tangled parts of the world; you cast [[Spells/Wall of Thorns|Wall of Thorns]]. The rank of the spell is half your level, rounded down (minimum 6th level). The brambles within this particular wall of thorns are treated as greater difficult terrain.
+**Effect** You raise the card up above your head and invoke the thorns and briars of the tangled parts of the world; you cast [[Wall of Thorns|Wall of Thorns]]. The rank of the spell is half your level, rounded down (minimum 6th level). The brambles within this particular wall of thorns are treated as greater difficult terrain.
 
 *Source: Pathfinder #191: The Destiny War*
 *OGL*

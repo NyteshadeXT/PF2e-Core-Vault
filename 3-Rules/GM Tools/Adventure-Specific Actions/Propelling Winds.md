@@ -11,7 +11,7 @@ license: OGL
 ---
 # Propelling Winds `pf2:2`
 
-### [[3-Rules/trait_reference/air]]
+### [[3-Rules/trait_reference/A/air]]
 
 **Category** offensive; 
 
@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-**Effect** The relic casts [[Spells/Fly|Fly]] targeting you.
+**Effect** The relic casts [[3-Rules/Character Building/Spells/F/Fly|Fly]] targeting you.
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

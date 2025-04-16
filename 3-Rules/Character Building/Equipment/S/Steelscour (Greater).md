@@ -15,7 +15,7 @@ license: OGL
 ---
 # Steelscour (Greater)
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/acid]][[alchemical]][[bomb]][[consumable]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/A/acid]][[alchemical]][[bomb]][[consumable]]
 
 |  |  |
 | -- | -- |

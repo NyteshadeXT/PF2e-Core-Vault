@@ -14,7 +14,7 @@ license: OGL
 ---
 # Lich Dust
 ## Item 9
-### [[alchemical]][[consumable]][[ingested]][[3-Rules/trait_reference/poison]]
+### [[alchemical]][[consumable]][[ingested]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 110 gp; 

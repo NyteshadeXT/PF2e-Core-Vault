@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You can call upon the vital essence of your spirit to restore life to your allies and call forth vines to ensnare and bludgeon your foes. You can cast [[Spells/Field of Life|Field of Life]] and [[Spells/Tangling Creepers|Tangling Creepers]] as 6th-rank primal innate spells once per day each.
+You can call upon the vital essence of your spirit to restore life to your allies and call forth vines to ensnare and bludgeon your foes. You can cast [[Field of Life|Field of Life]] and [[Tangling Creepers|Tangling Creepers]] as 6th-rank primal innate spells once per day each.
 
 *Source: Pathfinder Player Core*
 *ORC*

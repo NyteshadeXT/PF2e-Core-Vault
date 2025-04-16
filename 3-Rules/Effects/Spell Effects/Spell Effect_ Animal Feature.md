@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Animal Feature|Animal Feature]]
+Granted by [[Animal Feature|Animal Feature]]
 
 Without fully transforming your body, you gain one animalistic feature.
 

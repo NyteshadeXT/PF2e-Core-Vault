@@ -18,7 +18,7 @@ license: ORC
 ---
 # Filcher's Fork
 ## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[backstabber]][[deadly-d6]][[3-Rules/Rule References/Finesse]][[3-Rules/trait_reference/halfling]][[thrown-20]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[backstabber]][[deadly-d6]][[3-Rules/Rule References/Finesse]][[halfling]][[thrown-20]]
 
 |  |  |
 | -- | -- |

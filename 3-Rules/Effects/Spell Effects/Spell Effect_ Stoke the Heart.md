@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Stoke the Heart|Stoke the Heart]]
+Granted by [[Stoke the Heart|Stoke the Heart]]
 
 *Source: Pathfinder Player Core*
 *ORC*

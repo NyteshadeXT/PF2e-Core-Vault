@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-**Effect** You gain the effect of [[Spells/Protection|Protection]] against evil.
+**Effect** You gain the effect of [[Protection|Protection]] against evil.
 
 You can activate the tattoo as a reaction instead of a two-action activity, triggered when a demon attacks you or you attempt a saving throw against a demon's ability.
 

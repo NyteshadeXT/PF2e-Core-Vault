@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Insect Form|Insect Form]]
+Granted by [[Insect Form|Insect Form]]
 
 You envision a simple bug and transform into a Medium animal battle form. When you cast this spell, choose a form.
 

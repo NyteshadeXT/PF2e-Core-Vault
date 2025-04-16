@@ -10,6 +10,6 @@ tags:
 # Undeath Domain
 **Deities** [[Deities/Fumeiyoshi|Fumeiyoshi]], [[Deities/Kabriri|Kabriri]], [[Deities/Mahathallah|Mahathallah]], [[Deities/Nhimbaloth|Nhimbaloth]], [[Deities/Urgathoa|Urgathoa]], [[Deities/Zura|Zura]], [[Deities/Zyphus|Zyphus]]
 
-**Domain Spell** [[Spells/Touch of Undeath|Touch of Undeath]]; **Advanced Domain Spell** [[Spells/Malignant Sustenance|Malignant Sustenance]]
+**Domain Spell** [[Touch of Undeath|Touch of Undeath]]; **Advanced Domain Spell** [[Malignant Sustenance|Malignant Sustenance]]
 
 Your magic carries close ties to the undead.

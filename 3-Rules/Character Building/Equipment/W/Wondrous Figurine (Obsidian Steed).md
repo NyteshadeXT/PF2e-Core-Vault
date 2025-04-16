@@ -21,9 +21,9 @@ This sinister-looking black statuette resembles a horse rearing up on its hind l
 
 When activated, this figurine becomes a [[3-Rules/Bestiaries/Bestiary 1/N/Nightmare|Nightmare]].
 
-It can be called upon once per week for up to 24 hours, though it won't use [[Spells/Interplanar Teleport|Interplanar Teleport]] or its other abilities on behalf of its rider.
+It can be called upon once per week for up to 24 hours, though it won't use [[Interplanar Teleport|Interplanar Teleport]] or its other abilities on behalf of its rider.
 
-Although evil, it allows itself to be ridden by creatures of any alignment, although if a good creature mounts it, the rider must attempt a DC 3 Flat check. On a failure, the nightmare uses [[Spells/Interplanar Teleport|Interplanar Teleport]] to take the rider to a random location in the Abyss, where it promptly returns to statue form, stranding its rider in that nightmarish place.
+Although evil, it allows itself to be ridden by creatures of any alignment, although if a good creature mounts it, the rider must attempt a DC 3 Flat check. On a failure, the nightmare uses [[Interplanar Teleport|Interplanar Teleport]] to take the rider to a random location in the Abyss, where it promptly returns to statue form, stranding its rider in that nightmarish place.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

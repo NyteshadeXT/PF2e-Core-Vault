@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Oaken Resilience|Oaken Resilience]]
+Granted by [[Oaken Resilience|Oaken Resilience]]
 
 *Source: Pathfinder Player Core*
 *ORC*

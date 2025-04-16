@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Clinging Rime (7th-level)
 ## Item 16
-### [[3-Rules/trait_reference/cold]][[magical]][[wand]][[3-Rules/trait_reference/water]]
+### [[3-Rules/trait_reference/C/cold]][[magical]][[wand]][[3-Rules/trait_reference/W/water]]
 
 
 **Price** 10000 gp; 
@@ -28,11 +28,11 @@ A thin layer of frost coats this gnarled holly wand.
 
 * * *
 
-**Effect** You cast 7th-rank [[Spells/Frigid Flurry|Frigid Flurry]]. After you cast the spell, the ice crystals freeze to flesh and other surfaces, clinging to the creatures in the area. Each creature that fails its save takes 1d6 persistent cold damage.
+**Effect** You cast 7th-rank [[Frigid Flurry|Frigid Flurry]]. After you cast the spell, the ice crystals freeze to flesh and other surfaces, clinging to the creatures in the area. Each creature that fails its save takes 1d6 persistent cold damage.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Frigid Flurry|Frigid Flurry]] of the appropriate rank.
+**Craft Requirements** Supply a casting of [[Frigid Flurry|Frigid Flurry]] of the appropriate rank.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

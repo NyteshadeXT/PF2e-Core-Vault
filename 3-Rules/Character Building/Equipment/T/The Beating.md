@@ -34,7 +34,7 @@ _The Beating_ symbolizes attack from all sides. If you have _The Beating_ invest
 
 * * *
 
-**Effect** You wave the card to conjure up dozens of violent ghostly figures; you cast [[Spells/Pernicious Poltergeist|Pernicious Poltergeist]], and the area of the spell is treated as difficult terrain in addition to its normal effects. The rank of the spell is one-half your level, rounded down (minimum 6th level), and the save DC is your class DC or spell DC.
+**Effect** You wave the card to conjure up dozens of violent ghostly figures; you cast [[Pernicious Poltergeist|Pernicious Poltergeist]], and the area of the spell is treated as difficult terrain in addition to its normal effects. The rank of the spell is one-half your level, rounded down (minimum 6th level), and the save DC is your class DC or spell DC.
 
 Will check
 

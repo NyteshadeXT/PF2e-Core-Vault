@@ -11,7 +11,7 @@ license: OGL
 ---
 # Root Boots
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 360 gp; 

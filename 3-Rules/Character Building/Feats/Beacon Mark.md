@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Tracing Sigil
 * * *
-When you cast [[Spells/Sigil|Sigil]], you can modify the spell to add the following heightened entry.
+When you cast [[Sigil|Sigil]], you can modify the spell to add the following heightened entry.
 
 * * *
 

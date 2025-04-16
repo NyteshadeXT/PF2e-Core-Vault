@@ -18,7 +18,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** worn
 
-This aeon stone allows you to cast the 1st-rank [[Spells/Shield|Shield]] cantrip as an arcane innate spell, surrounding yourself in pink energy.
+This aeon stone allows you to cast the 1st-rank [[Shield|Shield]] cantrip as an arcane innate spell, surrounding yourself in pink energy.
 
 The resonant power increases the damage prevented by your aeon stone's shield spell from 5 to 10.
 

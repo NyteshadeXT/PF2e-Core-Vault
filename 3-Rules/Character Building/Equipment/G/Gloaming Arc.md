@@ -15,7 +15,7 @@ license: OGL
 ---
 # Gloaming Arc
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[forceful]][[magical]][[3-Rules/Character Building/Equipment/S/Shadow]][[sweep]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[forceful]][[magical]][[3-Rules/Character Building/Equipment/S/Shadow]][[sweep]]
 
 |  |  |
 | -- | -- |

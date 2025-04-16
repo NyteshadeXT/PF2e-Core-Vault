@@ -11,7 +11,7 @@ license: OGL
 ---
 # Queasy Lantern (Lesser)
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/light]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/L/light]][[magical]]
 
 
 **Price** 325 gp; 

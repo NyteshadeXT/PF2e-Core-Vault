@@ -12,7 +12,7 @@ license: OGL
 ---
 # Irondust Stew
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]]
 
 **Category** other; 
 **Price** 15 gp; 

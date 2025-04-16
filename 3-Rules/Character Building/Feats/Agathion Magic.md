@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Idyllkin
 * * *
-The harmonious magic of Nirvana flows through you. You can cast [[Spells/Animal Form|Animal Form]] and [[Spells/Calm|Calm]] each once per day as 2nd-rank divine innate spells.
+The harmonious magic of Nirvana flows through you. You can cast [[Animal Form|Animal Form]] and [[Calm|Calm]] each once per day as 2nd-rank divine innate spells.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

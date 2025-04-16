@@ -28,7 +28,7 @@ This brightly colored linen robe is covered in delicate embroidery depicting cre
 
 * * *
 
-**Effect** You speak a command word, and the embroidered threads in the robe glow vividly. You gain the effects of [[Spells/Water Walk|Water Walk]] for 1 minute, as you momentarily flash freeze the surface of water as you walk across it.
+**Effect** You speak a command word, and the embroidered threads in the robe glow vividly. You gain the effects of [[Water Walk|Water Walk]] for 1 minute, as you momentarily flash freeze the surface of water as you walk across it.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Leiomano
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fatal-d10]][[versatile-s]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[fatal-d10]][[versatile-s]]
 
 |  |  |
 | -- | -- |

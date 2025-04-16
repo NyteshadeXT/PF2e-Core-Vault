@@ -14,7 +14,7 @@ license: OGL
 ---
 # Purgatory Emissary's Staff
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[magical]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -37,12 +37,12 @@ When used as a weapon, a purgatory emissary's staff is a _+2 striking ghost touc
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Vitality Lash|Vitality Lash]]
-*   **1st** [[Spells/Command|Command]], [[Spells/Sanctuary|Sanctuary]]
-*   **2nd** [[Spells/Clear Mind|Clear Mind]] ([[Conditions/Frightened|Frightened]] only), [[Spells/See the Unseen|See the Unseen]]
-*   **3rd** [[Spells/Holy Light|Holy Light]], [[Spells/Ring of Truth|Ring of Truth]]
-*   **4th** [[Spells/Dispel Magic|Dispel Magic]], [[Spells/Talking Corpse|Talking Corpse]]
-*   **5th** [[Spells/Banishment|Banishment]], [[Spells/Truespeech|Truespeech]]
+*   **Cantrip** [[Vitality Lash|Vitality Lash]]
+*   **1st** [[Command|Command]], [[Sanctuary|Sanctuary]]
+*   **2nd** [[Clear Mind|Clear Mind]] ([[Conditions/Frightened|Frightened]] only), [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]]
+*   **3rd** [[3-Rules/Character Building/Spells/H/Holy Light|Holy Light]], [[3-Rules/Character Building/Spells/R/Ring of Truth|Ring of Truth]]
+*   **4th** [[Dispel Magic|Dispel Magic]], [[Talking Corpse|Talking Corpse]]
+*   **5th** [[Banishment|Banishment]], [[3-Rules/Character Building/Spells/T/Truespeech|Truespeech]]
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

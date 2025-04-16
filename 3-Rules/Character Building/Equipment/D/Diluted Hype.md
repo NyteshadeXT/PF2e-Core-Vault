@@ -15,7 +15,7 @@ license: OGL
 ---
 # Diluted Hype
 ## Item 5
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/trait_reference/poison|Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/Trait Reference/P/poison|Poison]]
 
 **Category** drug; 
 **Price** 20 gp; 

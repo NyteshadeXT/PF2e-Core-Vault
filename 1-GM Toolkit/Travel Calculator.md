@@ -10,7 +10,7 @@ HorseshoesofSpeedGreater: false
 HoursPerDay: 8
 MinutesPerMile: 20
 ExhaustionLevel: 0
-TravelDistance: 20
+TravelDistance: 400
 varMins: 60
 ShipCostPerM: 100
 MessengerCostPerM: 7

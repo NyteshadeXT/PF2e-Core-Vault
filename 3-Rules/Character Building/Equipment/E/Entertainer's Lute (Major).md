@@ -12,7 +12,7 @@ license: OGL
 ---
 # Entertainer's Lute (Major)
 ## Item 12
-### [[coda]][[3-Rules/trait_reference/occult|Occult]][[3-Rules/trait_reference/staff|Staff]]
+### [[coda]][[occult|Occult]][[3-Rules/Trait Reference/S/staff|Staff]]
 
 
 **Price** 1900 gp; 
@@ -29,12 +29,12 @@ This lustrous lute has a polished body that changes to show whatever decorations
 
 **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Infectious Enthusiasm|Infectious Enthusiasm]]
-*   **1st** [[Spells/Bless|Bless]], [[Spells/Ventriloquism|Ventriloquism]]
-*   **2nd** [[Spells/Calm|Calm]], [[Spells/Mirror Image|Mirror Image]]
-*   **3rd** [[Spells/Enthrall|Enthrall]], [[Spells/Heroism|Heroism]], [[Spells/Illusory Creature|Illusory Creature]]
-*   **4th** [[Spells/Honeyed Words|Honeyed Words]], [[Spells/Infectious Melody|Infectious Melody]]
-*   **5th** [[Spells/Hallucination|Hallucination]], [[Spells/Illusory Creature|Illusory Creature]], [[Spells/Illusory Scene|Illusory Scene]], [[Spells/Suggestion|Suggestion]]
+*   **Cantrip** [[Infectious Enthusiasm|Infectious Enthusiasm]]
+*   **1st** [[Bless|Bless]], [[Ventriloquism|Ventriloquism]]
+*   **2nd** [[Calm|Calm]], [[Mirror Image|Mirror Image]]
+*   **3rd** [[Enthrall|Enthrall]], [[Heroism|Heroism]], [[Illusory Creature|Illusory Creature]]
+*   **4th** [[Honeyed Words|Honeyed Words]], [[Infectious Melody|Infectious Melody]]
+*   **5th** [[Hallucination|Hallucination]], [[Illusory Creature|Illusory Creature]], [[Illusory Scene|Illusory Scene]], [[Suggestion|Suggestion]]
 
 * * *
 

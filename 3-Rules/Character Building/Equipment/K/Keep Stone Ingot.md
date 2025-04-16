@@ -10,7 +10,7 @@ license: OGL
 ---
 # Keep Stone Ingot
 
-### [rare](rare "Rare Rarity Trait")[[precious]]
+### [rare](rare.md "Rare Rarity Trait")[[precious]]
 
 
 **Price** 7500 gp; 

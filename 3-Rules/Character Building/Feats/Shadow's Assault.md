@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Your shadow assaults your foes. You can cast [[Spells/Shadow Blast|Shadow Blast]] as a 5th-rank occult innate spell once per day. At 17th level, your _shadow blast_ is heightened to 6th level.
+Your shadow assaults your foes. You can cast [[Shadow Blast|Shadow Blast]] as a 5th-rank occult innate spell once per day. At 17th level, your _shadow blast_ is heightened to 6th level.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

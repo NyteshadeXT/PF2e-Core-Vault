@@ -14,7 +14,7 @@ license: OGL
 ---
 # Draft of Stellar Radiance
 ## Item 3
-### [rare](rare.md "Rare Rarity Trait")[[consumable]][[3-Rules/trait_reference/light]][[magical|Magical]][[potion]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[3-Rules/Trait Reference/L/light]][[magical|Magical]][[potion]]
 
 **Category** potion; 
 **Price** 12 gp; 

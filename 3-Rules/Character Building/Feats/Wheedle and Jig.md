@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You make capering motions and silly sounds to captivate onlookers. You can cast [[Spells/Enthrall|Enthrall]] as a 3rd-rank arcane innate spell once per day.
+You make capering motions and silly sounds to captivate onlookers. You can cast [[Enthrall|Enthrall]] as a 3rd-rank arcane innate spell once per day.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

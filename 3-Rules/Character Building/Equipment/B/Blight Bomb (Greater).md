@@ -17,7 +17,7 @@ license: ORC
 ---
 # Blight Bomb (Greater)
 ## Item 11
-### [[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/poison|Poison]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/P/poison|Poison]][[splash]]
 
 |  |  |
 | -- | -- |

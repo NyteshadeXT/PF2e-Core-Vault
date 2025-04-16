@@ -80,10 +80,10 @@ Each kasesh bears a single word of power on their emerald body, from which they 
 
 The kasesh in the stat block bears the word "Stone," but other kaseshi will have their own magics. Some alternative examples, "Darkness" and "Intricacy," follow below.
 
-**Darkness:** This kasesh built the hidden places of the Vault Builders' worlds. The kasesh is 7th level, grants [[Spells/Shadow Blast|Shadow Blast]] and [[Spells/Umbral Journey|Umbral Journey]] to any gestalt they join, and has the following innate spells.
+**Darkness:** This kasesh built the hidden places of the Vault Builders' worlds. The kasesh is 7th level, grants [[Shadow Blast|Shadow Blast]] and [[Umbral Journey|Umbral Journey]] to any gestalt they join, and has the following innate spells.
 
-**Primal Innate Spells** **4th** [[Spells/Darkness|Darkness]] (×2), [[Spells/Enervation|Enervation]]; **3rd** [[Spells/Blindness|Blindness]] (×2), [[Spells/Share Lore|Share Lore]]; **1st** [[Spells/Mindlink|Mindlink]]; **Cantrips (4th)** [[Spells/Detect Magic|Detect Magic]], [[Spells/Telekinetic Projectile|Telekinetic Projectile]]
+**Primal Innate Spells** **4th** [[3-Rules/Character Building/Spells/D/Darkness|Darkness]] (×2), [[Enervation|Enervation]]; **3rd** [[Blindness|Blindness]] (×2), [[Share Lore|Share Lore]]; **1st** [[Mindlink|Mindlink]]; **Cantrips (4th)** [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]], [[Telekinetic Projectile|Telekinetic Projectile]]
 
-**Intricacy:** This kasesh was a decorator and designer. They're 11th level, grant [[Spells/Mirage|Mirage]] and [[Spells/Illusory Scene|Illusory Scene]] to any gestalt they join, and have the following innate spells.
+**Intricacy:** This kasesh was a decorator and designer. They're 11th level, grant [[Mirage|Mirage]] and [[Illusory Scene|Illusory Scene]] to any gestalt they join, and have the following innate spells.
 
-**Primal Innate Spells** **6th** [[Spells/Phantasmal Calamity|Phantasmal Calamity]], [[Spells/Phantasmal Killer|Phantasmal Killer]] (×2); **5th** [[Spells/Cloak of Colors|Cloak of Colors]], [[Spells/Hallucination|Hallucination]], [[Spells/Share Lore|Share Lore]]; **1st** [[Spells/Mindlink|Mindlink]]; **Cantrips (6th)** [[Spells/Detect Magic|Detect Magic]], [[Spells/Telekinetic Projectile|Telekinetic Projectile]]
+**Primal Innate Spells** **6th** [[Phantasmal Calamity|Phantasmal Calamity]], [[Phantasmal Killer|Phantasmal Killer]] (×2); **5th** [[Cloak of Colors|Cloak of Colors]], [[Hallucination|Hallucination]], [[Share Lore|Share Lore]]; **1st** [[Mindlink|Mindlink]]; **Cantrips (6th)** [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]], [[Telekinetic Projectile|Telekinetic Projectile]]

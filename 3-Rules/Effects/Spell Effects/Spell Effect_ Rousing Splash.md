@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Rousing Splash|Rousing Splash]]
+Granted by [[Rousing Splash|Rousing Splash]]
 
 The target gains temporary Hit Points, which last for 1 minute.
 

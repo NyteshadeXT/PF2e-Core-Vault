@@ -12,7 +12,7 @@ license: OGL
 ---
 # Soulspeaker
 ## Item 2
-### [rare](rare "Rare Rarity Trait")[[illusion]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[illusion]][[invested]][[magical]]
 
 
 **Price** 25 gp; 
@@ -25,7 +25,7 @@ This grotesque, amulet-like shrunken head is said to hold a shard of its owner's
 
 **Activate** `pf2:2` command
 
-**Effect** You cast [[Spells/Message|Message]], but instead of your message being transferred directly to a target's ears, the message is stored in the _soulspeaker_. The _soulspeaker's_ eyes open, and the next time it's activated, the _soulspeaker_ repeats the message you spoke to it with a rasping whisper before its eyes close again, the message expended.
+**Effect** You cast [[Message|Message]], but instead of your message being transferred directly to a target's ears, the message is stored in the _soulspeaker_. The _soulspeaker's_ eyes open, and the next time it's activated, the _soulspeaker_ repeats the message you spoke to it with a rasping whisper before its eyes close again, the message expended.
 
 *Source: Pathfinder Adventure: Crown of the Kobold King*
 *OGL*

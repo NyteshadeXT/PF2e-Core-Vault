@@ -14,7 +14,7 @@ license: ORC
 ---
 # Ranseur
 ## Item 0
-### [[disarm]][[reach]]
+### [[3-Rules/Trait Reference/D/disarm]][[reach]]
 
 |  |  |
 | -- | -- |

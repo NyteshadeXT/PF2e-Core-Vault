@@ -10,7 +10,7 @@ license: OGL
 ---
 # Parchment of Direct Message
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 50 gp; 

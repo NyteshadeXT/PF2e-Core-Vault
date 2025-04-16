@@ -28,7 +28,7 @@ This _+2 resilient coral armor_, often favored by allies of merfolk and aquatic 
 
 * * *
 
-**Effect** You cast [[Spells/Coral Eruption|Coral Eruption]]. If you conjure the coral underwater, it ceases dealing damage after 1 minute, but its duration is unlimited. If the magical coral remains in place for 1 year, it becomes non-magical coral from which a reef might grow.
+**Effect** You cast [[Coral Eruption|Coral Eruption]]. If you conjure the coral underwater, it ceases dealing damage after 1 minute, but its duration is unlimited. If the magical coral remains in place for 1 year, it becomes non-magical coral from which a reef might grow.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

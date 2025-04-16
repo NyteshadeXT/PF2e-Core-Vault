@@ -11,7 +11,7 @@ license: OGL
 ---
 # Wind At Your Back
 ## Item 5
-### [[3-Rules/trait_reference/air]][[magical]]
+### [[3-Rules/trait_reference/A/air]][[magical]]
 
 
 **Price** 130 gp; 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Goblin Jubilee `pf2:3`
 
-### [[3-Rules/Rule References/Fire]][[3-Rules/trait_reference/sonic]][[visual]]
+### [[3-Rules/Rule References/Fire]][[3-Rules/Trait Reference/S/sonic]][[visual]]
 
 **Category** offensive; 
 

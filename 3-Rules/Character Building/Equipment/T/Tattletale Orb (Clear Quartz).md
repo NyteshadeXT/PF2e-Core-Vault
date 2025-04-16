@@ -12,7 +12,7 @@ license: OGL
 ---
 # Tattletale Orb (Clear Quartz)
 ## Item 14
-### [rare](rare "Rare Rarity Trait")[[cursed]][[magical]][[scrying]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[magical]][[3-Rules/trait_reference/S/scrying]]
 
 
 **Price** 3800 gp; 

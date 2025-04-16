@@ -10,7 +10,7 @@ license: ORC
 ---
 # Scholarly Journal Compendium
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 30 gp; 

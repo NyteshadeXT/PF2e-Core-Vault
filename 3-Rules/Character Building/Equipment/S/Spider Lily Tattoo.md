@@ -12,7 +12,7 @@ license: OGL
 ---
 # Spider Lily Tattoo
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]][[tattoo]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]][[tattoo]]
 
 
 **Price** 60 gp; 

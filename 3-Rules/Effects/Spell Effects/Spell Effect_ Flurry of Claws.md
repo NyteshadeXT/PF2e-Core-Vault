@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Flurry of Claws|Flurry of Claws]]
+Granted by [[Flurry of Claws|Flurry of Claws]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

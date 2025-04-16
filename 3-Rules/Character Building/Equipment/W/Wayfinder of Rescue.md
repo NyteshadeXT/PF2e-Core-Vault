@@ -18,7 +18,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** worn
 
-As a standard [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]], but once per day you can activate it to cast [[Spells/Heal|Heal]] on a creature other than yourself, using either the one-action or two-action version of heal as a 1st-rank spell.
+As a standard [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]], but once per day you can activate it to cast [[Heal|Heal]] on a creature other than yourself, using either the one-action or two-action version of heal as a 1st-rank spell.
 
 *Source: Pathfinder Society Scenario #1-03: Escaping the Grave*
 *OGL*

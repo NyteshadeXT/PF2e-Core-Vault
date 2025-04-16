@@ -32,7 +32,7 @@ The flow of life energy away from you can't be reversed.
 
 In addition to the effects of your minor curse, you can't be healed by magical effects originating from other creatures. However, if you are unconscious, magical effects can restore you to 1 HP (but no higher). You are affected normally by healing elixirs, potions, and other items.
 
-When you cast [[Spells/Heal|Heal]] and all your targets are living creatures, you roll d12s instead of d8s for the amount of healing.
+When you cast [[Heal|Heal]] and all your targets are living creatures, you roll d12s instead of d8s for the amount of healing.
 
 Whenever you finish casting a non-cantrip spell, you restore Hit Points equal to the spell rank to your choice of either one target of the spell or the creature nearest to you. You can't heal yourself in this way. This healing has the healing, necromancy, and vitality traits, as well as the tradition trait of the spell.
 
@@ -40,7 +40,7 @@ Whenever you finish casting a non-cantrip spell, you restore Hit Points equal to
 
 Life energy tears through you to empower your magic. Some of your spells carry vitality energy with them.
 
-Each time you use a spell slot to cast a 5th-rank or higher spell that takes 2 or more actions to cast, you disperse vitality energy in a @Template\[burst|distance:30\] with the effects of a 3-action [[Spells/Heal|Heal]] spell with a level 4 lower than that of the spell you cast. This healing occurs immediately after you finish Casting the Spell. You don't benefit from this healing. Instead, you lose double the number of Hit Points rolled for the heal spell.
+Each time you use a spell slot to cast a 5th-rank or higher spell that takes 2 or more actions to cast, you disperse vitality energy in a @Template\[burst|distance:30\] with the effects of a 3-action [[Heal|Heal]] spell with a level 4 lower than that of the spell you cast. This healing occurs immediately after you finish Casting the Spell. You don't benefit from this healing. Instead, you lose double the number of Hit Points rolled for the heal spell.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

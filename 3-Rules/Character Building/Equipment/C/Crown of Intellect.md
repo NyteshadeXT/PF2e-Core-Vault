@@ -30,7 +30,7 @@ A trio of brilliant gems have been set into this elegant golden crown. You gain 
 
 * * *
 
-**Effect** You gain the effects of [[Spells/Hypercognition|Hypercognition]].
+**Effect** You gain the effects of [[Hypercognition|Hypercognition]].
 
 *Source: Pathfinder GM Core*
 *ORC*

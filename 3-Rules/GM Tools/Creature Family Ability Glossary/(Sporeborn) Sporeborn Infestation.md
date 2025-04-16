@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Sporeborn) Sporeborn Infestation
 
-### [[disease]][[fungus]]
+### [[3-Rules/trait_reference/D/disease]][[fungus]]
 
 **Category** offensive; 
 

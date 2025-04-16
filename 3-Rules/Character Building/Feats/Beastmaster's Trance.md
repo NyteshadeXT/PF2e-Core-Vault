@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Beastmaster Dedication
 * * *
-You can enter a trance that allows you to briefly inhabit the body of one of your animal companions and share its senses. You gain the focus spell [[Spells/Beastmaster Trance|Beastmaster Trance]]. Increase the number of Focus Points in your focus pool by 1.
+You can enter a trance that allows you to briefly inhabit the body of one of your animal companions and share its senses. You gain the focus spell [[Beastmaster Trance|Beastmaster Trance]]. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

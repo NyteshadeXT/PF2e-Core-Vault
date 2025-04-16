@@ -13,7 +13,7 @@ license: OGL
 ---
 # Jaathoom's Scarf
 ## Item 10
-### [[3-Rules/trait_reference/air]][[invested]][[magical]]
+### [[3-Rules/Trait Reference/A/air]][[invested]][[magical]]
 
 
 **Price** 900 gp; 
@@ -28,7 +28,7 @@ This scarf is made of fine silk that's the same shade of blue as a clear, cloudl
 
 **Frequency** once per day
 
-**Effect** The scarf casts 4th-rank [[Spells/Invisibility|Invisibility]] on you.
+**Effect** The scarf casts 4th-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] on you.
 
 * * *
 

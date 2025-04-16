@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Tempest Form|Tempest Form]]
+Granted by [[Tempest Form|Tempest Form]]
 
 Your body becomes fluid to better suit your surroundings. When you Cast this Spell, choose whether to become air, water, or mist. The spell gains the air trait if you choose air or mist, and the water trait if you choose water or mist. You become amorphous, as does your armor. You lose any item bonus to AC and use your proficiency bonus for unarmored defense to determine your AC. You also gain resistance 10 to physical damage and become immune to precision damage. You can slip through tiny cracks and don't need to breathe. You can't cast spells, activate items, or use actions that have the attack or manipulate trait, except those granted by this spell. You also gain the following effects based on your form.
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Soothe|Soothe]]
+Granted by [[Soothe|Soothe]]
 
 Your mind is bolstered against hostile effects, granting a +2 status bonus to saves against mental effects for the duration.
 

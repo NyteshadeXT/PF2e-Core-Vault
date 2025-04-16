@@ -32,17 +32,17 @@ _Gate attenuators_ are typically worn near the body's core and are shaped like p
 
 **Effect** The _gate attenuator_ casts an 8th-rank spell, with a spell attack modifier of +27 and a spell DC of 37.If you're a kineticist and the spell's element matches one of your kinetic elements, you can use your impulse attack modifier instead of the spell attack modifier or your impulse DC instead of the spell DC. The spell corresponds to the element the item is attuned to, and it gains that element's trait if it doesn't already have it:
 
-**air** [[Spells/Whirlwind|Whirlwind]]
+**air** [[Whirlwind|Whirlwind]]
 
-**earth** [[Spells/Earthquake|Earthquake]]
+**earth** [[Earthquake|Earthquake]]
 
-**fire** [[Spells/Boil Blood|Boil Blood]]
+**fire** [[Boil Blood|Boil Blood]]
 
-**metal** [[Spells/Rust Cloud|Rust Cloud]]
+**metal** [[Rust Cloud|Rust Cloud]]
 
-**water** [[Spells/Whirlpool|Whirlpool]]
+**water** [[Whirlpool|Whirlpool]]
 
-**wood** [[Spells/Pollen Pods|Pollen Pods]]
+**wood** [[Pollen Pods|Pollen Pods]]
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

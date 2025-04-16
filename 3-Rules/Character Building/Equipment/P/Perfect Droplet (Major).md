@@ -12,7 +12,7 @@ license: OGL
 ---
 # Perfect Droplet (Major)
 ## Item 12
-### [[magical]][[spellheart]][[3-Rules/trait_reference/water]]
+### [[magical]][[spellheart]][[3-Rules/Trait Reference/W/water]]
 
 
 **Price** 1800 gp; 
@@ -30,7 +30,7 @@ Intense blue water magically holds its shape-a perfect sphere. The spell DC of a
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Spout|Spout]].
+**Effect** You cast [[Spout|Spout]].
 
 * * *
 
@@ -38,7 +38,7 @@ Intense blue water magically holds its shape-a perfect sphere. The spell DC of a
 
 **Frequency** once per day
 
-**Effect** You cast 4th-rank [[Spells/Aqueous Orb|Aqueous Orb]] or [[Spells/Feet to Fins|Feet to Fins]].
+**Effect** You cast 4th-rank [[Aqueous Orb|Aqueous Orb]] or [[Feet to Fins|Feet to Fins]].
 
 * * *
 
@@ -46,7 +46,7 @@ Intense blue water magically holds its shape-a perfect sphere. The spell DC of a
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Hydraulic Torrent|Hydraulic Torrent]].
+**Effect** You cast [[Hydraulic Torrent|Hydraulic Torrent]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

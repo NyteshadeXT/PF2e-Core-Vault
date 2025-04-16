@@ -15,7 +15,7 @@ license: OGL
 ---
 # Matsuki's Medicinal Wine
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/trait_reference/poison]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** drug; 
 **Price** 12 gp; 

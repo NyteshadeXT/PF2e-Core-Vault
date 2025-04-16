@@ -15,7 +15,7 @@ license: OGL
 ---
 # Shadow's Heart
 ## Item 18
-### [rare](rare "Rare Rarity Trait")[[agile]][[finesse]][[magical]][[trip]]
+### [rare](rare.md "Rare Rarity Trait")[[agile]][[finesse]][[magical]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

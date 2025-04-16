@@ -31,7 +31,7 @@ An image of a keyhole adorns the coat of arms of this stone tower shield (Hardne
 
 **Frequency** once per day
 
-**Effect** The shield floats lazily in the air as bricks quickly fly from it to form a squat stone tower around it. You cast [[Spells/Cozy Cabin|Cozy Cabin]], with the shield becoming the door.
+**Effect** The shield floats lazily in the air as bricks quickly fly from it to form a squat stone tower around it. You cast [[Cozy Cabin|Cozy Cabin]], with the shield becoming the door.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

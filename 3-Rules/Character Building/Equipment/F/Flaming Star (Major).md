@@ -32,7 +32,7 @@ A sheen of red crosses the surface of this star-shaped goldstone medallion when 
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Produce Flame|Produce Flame]].
+**Effect** You cast [[Produce Flame|Produce Flame]].
 
 * * *
 
@@ -40,7 +40,7 @@ A sheen of red crosses the surface of this star-shaped goldstone medallion when 
 
 **Frequency** once per day
 
-**Effect** You cast 4th-rank [[Spells/Fireball|Fireball]].
+**Effect** You cast 4th-rank [[Fireball|Fireball]].
 
 DC 29 Reflex check
 
@@ -50,7 +50,7 @@ DC 29 Reflex check
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Wall of Fire|Wall of Fire]].
+**Effect** You cast [[Wall of Fire|Wall of Fire]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

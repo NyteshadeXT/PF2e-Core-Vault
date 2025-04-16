@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Noisome Acid (2nd-Rank Spell)
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/acid]][[magical]][[wand]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/A/acid]][[magical]][[wand]]
 
 
 **Price** 250 gp; 
@@ -29,7 +29,7 @@ This greasy stick emits a stomach-churning scent when held in a hand.
 
 * * *
 
-**Effect** You cast [[Spells/Acid Arrow|Acid Arrow]] at 2nd rank. A creature that takes initial acid damage from this spell become [[Conditions/Sickened|Sickened 1]]. Use your spell DC if the creatures attempts to recover from this sickness. This is an olfactory effect.
+**Effect** You cast [[Acid Arrow|Acid Arrow]] at 2nd rank. A creature that takes initial acid damage from this spell become [[Conditions/Sickened|Sickened 1]]. Use your spell DC if the creatures attempts to recover from this sickness. This is an olfactory effect.
 
 * * *
 

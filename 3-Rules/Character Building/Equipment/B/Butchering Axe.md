@@ -14,7 +14,7 @@ license: OGL
 ---
 # Butchering Axe
 ## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/orc]][[3-Rules/trait_reference/shove]][[sweep]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[orc]][[3-Rules/Trait Reference/S/shove]][[sweep]]
 
 |  |  |
 | -- | -- |

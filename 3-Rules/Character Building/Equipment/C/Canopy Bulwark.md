@@ -29,7 +29,7 @@ This suit of _+1 assisting leaf weave_ is composed entirely of primal-infused le
 
 * * *
 
-**Effect** You cast [[Spells/Haste|Haste]] targeting yourself. In addition to the effects of the spell, visible primal energy surges over the armor for the duration. This has no mechanical impact.
+**Effect** You cast [[Haste|Haste]] targeting yourself. In addition to the effects of the spell, visible primal energy surges over the armor for the duration. This has no mechanical impact.
 
 * * *
 

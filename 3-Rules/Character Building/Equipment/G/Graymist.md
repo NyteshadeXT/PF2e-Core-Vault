@@ -16,7 +16,7 @@ license: ORC
 ---
 # Graymist
 ## Item 21
-### [unique](unique "Unique Rarity Trait")[[apex]][[artifact]][[divine]][[intelligent]][[invested]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[apex]][[artifact]][[divine]][[intelligent]][[invested]][[magical]]
 
 
 **Price** 0 gp; 
@@ -41,7 +41,7 @@ This black cape flows more like a vaporous liquid than fabric. The cape grants y
 
 **Frequency** once per day
 
-**Effect** With a twirl of the cape, you transform yourself into a puff of gray smoke. You cast [[Spells/Vapor Form|Vapor Form]] on yourself.
+**Effect** With a twirl of the cape, you transform yourself into a puff of gray smoke. You cast [[Vapor Form|Vapor Form]] on yourself.
 
 *Source: Pathfinder #206: Bring the House Down*
 *ORC*

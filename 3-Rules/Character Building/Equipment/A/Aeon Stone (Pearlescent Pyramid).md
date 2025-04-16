@@ -28,7 +28,7 @@ The resonant power grants a special activation.
 
 **Frequency** once per minute
 
-**Effect** You gain the effects of [[Spells/See the Unseen|See the Unseen]] for 1 round.
+**Effect** You gain the effects of [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]] for 1 round.
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

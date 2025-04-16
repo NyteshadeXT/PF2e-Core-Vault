@@ -13,7 +13,7 @@ license: OGL
 ---
 # Mirror of Sleeping Vigil
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[invested]][[magical]][[sleep]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[invested]][[magical]][[3-Rules/Trait Reference/S/sleep]]
 
 
 **Price** 300 gp; 

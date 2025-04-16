@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sparkler
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/trait_reference/fire]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Trait Reference/F/fire]]
 
 **Category** other; 
 **Price** 4 sp; 

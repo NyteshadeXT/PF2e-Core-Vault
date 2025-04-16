@@ -15,7 +15,7 @@ license: OGL
 ---
 # Sansetsukon
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[backswing]][[disarm]][[monk]][[parry]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[backswing]][[3-Rules/Trait Reference/D/disarm]][[monk]][[parry]]
 
 |  |  |
 | -- | -- |

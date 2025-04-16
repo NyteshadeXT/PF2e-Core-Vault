@@ -15,7 +15,7 @@ license: ORC
 ---
 # Spider Venom
 ## Item 5
-### [[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/P/poison]]
 
 **Category** poison; 
 **Price** 25 gp; 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by critically failing [[Spells/Impeccable Flow|Impeccable Flow]]
+Granted by critically failing [[Impeccable Flow|Impeccable Flow]]
 
 You attune yourself to an underlying cosmic order to the world. While you remain in tune with this power, you gain a +1 status bonus to Perception checks, saving throws, and skill checks. If you critically fail any check while under the effects of this spell, the bonus ends and you instead have a -1 status penalty to all checks for the remaining duration.
 

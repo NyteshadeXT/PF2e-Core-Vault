@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by critically succeeding on [[Spells/Fortissimo Composition|Fortissimo Composition]] to enhance [[Spells/Courageous Anthem|Courageous Anthem]].
+Granted by critically succeeding on [[3-Rules/Character Building/Spells/F/Fortissimo Composition|Fortissimo Composition]] to enhance [[Courageous Anthem|Courageous Anthem]].
 
 You are inspired by words or tunes of encouragement. You gain a +3 status bonus to attack rolls, damage rolls, and saves against fear effects.
 

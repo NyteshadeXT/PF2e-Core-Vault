@@ -11,7 +11,7 @@ license: OGL
 ---
 # Duelist's Beacon
 ## Item 8
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/light]][[magical|Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/L/light]][[magical|Magical]]
 
 
 **Price** 450 gp; 

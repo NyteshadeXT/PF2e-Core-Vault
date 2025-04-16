@@ -15,7 +15,7 @@ license: OGL
 ---
 # Blackfinger Blight
 ## Item 12
-### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/trait_reference/poison|Poison]][[virulent]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/Trait Reference/P/poison|Poison]][[virulent]]
 
 **Category** poison; 
 **Price** 350 gp; 

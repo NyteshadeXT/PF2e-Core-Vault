@@ -15,7 +15,7 @@ license: ORC
 ---
 # Fluid Form Staff (Major)
 ## Item 14
-### [[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
+### [[magical|Magical]][[3-Rules/Trait Reference/S/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -34,12 +34,12 @@ A glass orb atop this metal staff contains fine sand. While wielding the staff, 
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **1st** [[Spells/Pest Form|Pest Form]]
-*   **2nd** [[Spells/Animal Form|Animal Form]], [[Spells/Enlarge|Enlarge]], [[Spells/Shrink|Shrink]]
-*   **3rd** [[Spells/Feet to Fins|Feet to Fins]], [[Spells/Insect Form|Insect Form]]
-*   **4th** [[Spells/Aerial Form|Aerial Form]], [[Spells/Animal Form|Animal Form]], [[Spells/Dinosaur Form|Dinosaur Form]]
-*   **5th** [[Spells/Animal Form|Animal Form]], [[Spells/Insect Form|Insect Form]]
-*   **6th** [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]], [[Spells/Dragon Form|Dragon Form]], [[Familiar Abilities/Plant Form|Plant Form]]
+*   **1st** [[Pest Form|Pest Form]]
+*   **2nd** [[Animal Form|Animal Form]], [[Enlarge|Enlarge]], [[Shrink|Shrink]]
+*   **3rd** [[Feet to Fins|Feet to Fins]], [[Insect Form|Insect Form]]
+*   **4th** [[Aerial Form|Aerial Form]], [[Animal Form|Animal Form]], [[Dinosaur Form|Dinosaur Form]]
+*   **5th** [[Animal Form|Animal Form]], [[Insect Form|Insect Form]]
+*   **6th** [[Cursed Metamorphosis|Cursed Metamorphosis]], [[Dragon Form|Dragon Form]], [[Familiar Abilities/Plant Form|Plant Form]]
 
 **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 

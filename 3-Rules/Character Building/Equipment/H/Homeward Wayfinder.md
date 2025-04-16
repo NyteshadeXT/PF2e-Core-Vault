@@ -12,7 +12,7 @@ license: OGL
 ---
 # Homeward Wayfinder
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[teleportation]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]][[teleportation]]
 
 
 **Price** 2750 gp; 

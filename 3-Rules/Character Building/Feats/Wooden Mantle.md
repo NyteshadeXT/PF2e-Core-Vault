@@ -19,7 +19,7 @@ license: OGL
 
 
 
-Your connection to the magic of the Plane of Wood allows you to call upon the power of plants and trees to protect yourself. You can cast [[Spells/Mantle of the Unwavering Heart|Mantle of the Unwavering Heart]] as a 5th-rank primal innate spell once per day.
+Your connection to the magic of the Plane of Wood allows you to call upon the power of plants and trees to protect yourself. You can cast [[Mantle of the Unwavering Heart|Mantle of the Unwavering Heart]] as a 5th-rank primal innate spell once per day.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

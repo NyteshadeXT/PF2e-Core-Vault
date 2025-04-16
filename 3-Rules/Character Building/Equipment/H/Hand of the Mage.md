@@ -24,7 +24,7 @@ This mummified elf hand hangs on a golden chain, its gnarled fingers locked in a
 
 * * *
 
-**Effect** You cast [[Spells/Telekinetic Hand|Telekinetic Hand]].
+**Effect** You cast [[Telekinetic Hand|Telekinetic Hand]].
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

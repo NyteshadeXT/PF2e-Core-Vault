@@ -13,14 +13,14 @@ license: OGL
 ---
 # Kalmaug's Journal
 ## Item 5
-### [unique](unique "Unique Rarity Trait")[[grimoire]][[invested]][[magical]][[relic]]
+### [unique](unique.md "Unique Rarity Trait")[[grimoire]][[invested]][[magical]][[relic]]
 
 
 **Price** 0 gp; 
 **Bulk** 1; **Size** med
 **Usage** held-in-one-hand
 
-This grimoire is constructed from individual tarnished silver plates, bound together to form a fine book. Each "page" contain engraved maps, accounts of sites in Nar-Voth, and daily journals. Throughout the journal, spells and notes are inscribed on the margins and within the text. When Chapter One is completed, this grimoire contains the following spells: [[Spells/Allfood|Allfood]], [[Spells/Deep Sight|Deep Sight]], [[Spells/Fate's Travels|Fate's Travels]], [[Spells/Glowing Trail|Glowing Trail]], [[Spells/Know Location|Know Location]], [[Spells/Stonesense|Stonesense]], [[Spells/Wanderer's Guide|Wanderer's Guide]].
+This grimoire is constructed from individual tarnished silver plates, bound together to form a fine book. Each "page" contain engraved maps, accounts of sites in Nar-Voth, and daily journals. Throughout the journal, spells and notes are inscribed on the margins and within the text. When Chapter One is completed, this grimoire contains the following spells: [[Allfood|Allfood]], [[Deep Sight|Deep Sight]], [[Fate's Travels|Fate's Travels]], [[Glowing Trail|Glowing Trail]], [[Know Location|Know Location]], [[Stonesense|Stonesense]], [[Wanderer's Guide|Wanderer's Guide]].
 
 If you use the grimoire during your daily preparations and are capable of preparing spells of the appropriate rank, when you cast a non-damaging spell prepared from this grimoire, you can Step or Stride up to half your Speed after Casting the Spell. To scribe additional spells into the grimoire, you must provide additional silver plates at the cost of 10 gp per spell when Learning the Spell.
 

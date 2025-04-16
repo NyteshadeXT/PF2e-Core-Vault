@@ -35,12 +35,12 @@ A _socialite staff_ is designed as an ornate cane, its metal body glimmering wit
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Read the Air|Read the Air]]
-*   **1st** [[Spells/Charm|Charm]], [[Spells/Restyle|Restyle]]
-*   **2nd** [[Spells/Befitting Attire|Befitting Attire]], [[Spells/Phantom Crowd|Phantom Crowd]]
-*   **3rd** [[Spells/Bottomless Stomach|Bottomless Stomach]], [[Spells/Shift Blame|Shift Blame]]
-*   **4th** [[Spells/Befitting Attire|Befitting Attire]], [[Spells/Suggestion|Suggestion]]
-*   **5th** [[Spells/Befitting Attire|Befitting Attire]], [[Spells/Charm|Charm]], [[Spells/Glimmer of Charm|Glimmer of Charm]], [[Spells/Suggestion|Suggestion]]
+*   **Cantrip** [[Read the Air|Read the Air]]
+*   **1st** [[Charm|Charm]], [[Restyle|Restyle]]
+*   **2nd** [[Befitting Attire|Befitting Attire]], [[Phantom Crowd|Phantom Crowd]]
+*   **3rd** [[Bottomless Stomach|Bottomless Stomach]], [[Shift Blame|Shift Blame]]
+*   **4th** [[Befitting Attire|Befitting Attire]], [[Suggestion|Suggestion]]
+*   **5th** [[Befitting Attire|Befitting Attire]], [[Charm|Charm]], [[Glimmer of Charm|Glimmer of Charm]], [[Suggestion|Suggestion]]
 
 * * *
 

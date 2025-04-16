@@ -11,7 +11,7 @@ license: OGL
 ---
 # Hongrui's Gratitude
 ## Item 3
-### [unique](unique "Unique Rarity Trait")[[invested]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 60 gp; 

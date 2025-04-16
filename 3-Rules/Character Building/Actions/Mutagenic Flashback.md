@@ -12,7 +12,7 @@ license: OGL
 ---
 # Mutagenic Flashback `pf2:0`
 
-### [[3-Rules/trait_reference/alchemist]][[3-Rules/Rule References/Manipulate]]
+### [[alchemist]][[3-Rules/Rule References/Manipulate]]
 
 **Category** interaction; 
 

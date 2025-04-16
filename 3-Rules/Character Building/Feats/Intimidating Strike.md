@@ -16,7 +16,7 @@ license: ORC
 ---
 # Intimidating Strike `pf2:2`
 ## Feat 2
-### [[barbarian]][[emotion]][[fear]][[fighter]][[3-Rules/trait_reference/mental]]
+### [[barbarian]][[emotion]][[3-Rules/trait_reference/F/fear]][[fighter]][[3-Rules/trait_reference/M/mental]]
 
 **Category** class; 
 

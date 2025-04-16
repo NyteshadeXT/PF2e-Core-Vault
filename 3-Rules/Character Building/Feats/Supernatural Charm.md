@@ -19,7 +19,7 @@ license: ORC
 
 
 
-The elven magic in your blood manifests as a force you can use to become more appealing or alluring. You can cast 1st-rank [[Spells/Charm|Charm]] as an arcane innate spell once per day.
+The elven magic in your blood manifests as a force you can use to become more appealing or alluring. You can cast 1st-rank [[Charm|Charm]] as an arcane innate spell once per day.
 
 *Source: Pathfinder Player Core*
 *ORC*

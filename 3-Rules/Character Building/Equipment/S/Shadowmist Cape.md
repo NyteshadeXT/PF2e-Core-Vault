@@ -39,7 +39,7 @@ This black cape flows more like a vaporous liquid than fabric. The cape grants y
 
 * * *
 
-**Effect** With a twirl of the cape, you transform yourself into a puff of gray smoke. You cast [[Spells/Vapor Form|Vapor Form]] on yourself.
+**Effect** With a twirl of the cape, you transform yourself into a puff of gray smoke. You cast [[Vapor Form|Vapor Form]] on yourself.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Iron Gut|Iron Gut]]
+Granted by [[Iron Gut|Iron Gut]]
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

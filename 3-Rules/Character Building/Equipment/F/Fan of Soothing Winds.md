@@ -27,7 +27,7 @@ This fan of _soothing winds_ has six cloud-shaped glass beads on the bottom of t
 
 * * *
 
-**Effect** You open your fan and turn a bead of your choice. The fan casts a 3-action [[Spells/Heal|Heal]] spell with an area of a @Template\[cone|distance:30\] instead of a @Template\[emanation|distance:30\]; the save DC for an undead creature is 28. This spell gains the air trait. The rank of the spell depends on which bead you're turning: the first two beads cast 4th-rank _heal_, the center two cast 3rd-rank _heal_, and the last two cast 2nd-rank _heal_.
+**Effect** You open your fan and turn a bead of your choice. The fan casts a 3-action [[Heal|Heal]] spell with an area of a @Template\[cone|distance:30\] instead of a @Template\[emanation|distance:30\]; the save DC for an undead creature is 28. This spell gains the air trait. The rank of the spell depends on which bead you're turning: the first two beads cast 4th-rank _heal_, the center two cast 3rd-rank _heal_, and the last two cast 2nd-rank _heal_.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Reducer Round
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]]
 
 **Category** ammo; 
 **Price** 25 gp; 

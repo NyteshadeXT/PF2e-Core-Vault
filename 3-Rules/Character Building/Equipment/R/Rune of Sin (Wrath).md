@@ -12,7 +12,7 @@ license: OGL
 ---
 # Rune of Sin (Wrath)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[arcane]][[invested]][[tattoo]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[arcane]][[invested]][[tattoo]]
 
 
 **Price** 1700 gp; 

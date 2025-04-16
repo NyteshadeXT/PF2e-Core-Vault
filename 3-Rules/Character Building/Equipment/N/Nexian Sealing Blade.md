@@ -14,7 +14,7 @@ license: OGL
 ---
 # Nexian Sealing Blade
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[arcane]][[magical]][[versatile-p]]
+### [rare](rare.md "Rare Rarity Trait")[[arcane]][[magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

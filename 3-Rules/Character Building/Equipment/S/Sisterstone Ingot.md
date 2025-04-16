@@ -10,7 +10,7 @@ license: OGL
 ---
 # Sisterstone Ingot
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[precious]]
+### [rare](rare.md "Rare Rarity Trait")[[precious]]
 
 
 **Price** 200 gp; 

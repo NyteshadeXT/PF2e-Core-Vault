@@ -14,7 +14,7 @@ license: OGL
 ---
 # Stoneraiser Javelin
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/earth]][[magical]][[thrown]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/E/earth]][[magical]][[thrown]]
 
 |  |  |
 | -- | -- |

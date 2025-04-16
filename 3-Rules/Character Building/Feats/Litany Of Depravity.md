@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** tenets of evil
 * * *
-You undercut your enemy's vain moralism, opening their heart to evil. You can cast the [[Spells/Litany of Depravity|Litany of Depravity]] focus spell. Increase the number of Focus Points in your focus pool by 1.
+You undercut your enemy's vain moralism, opening their heart to evil. You can cast the [[3-Rules/Character Building/Spells/L/Litany of Depravity|Litany of Depravity]] focus spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

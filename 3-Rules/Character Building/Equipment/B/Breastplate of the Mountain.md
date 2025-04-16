@@ -26,7 +26,7 @@ Constructed of dull gray metal, this breastplate is decorated with the symbol of
 
 **Frequency** once per day
 
-**Effect** You pound a solid and constant rhythm on your breastplate and cast a 7th-rank [[Spells/Regenerate|Regenerate]] spell on yourself.
+**Effect** You pound a solid and constant rhythm on your breastplate and cast a 7th-rank [[Regenerate|Regenerate]] spell on yourself.
 
 * * *
 

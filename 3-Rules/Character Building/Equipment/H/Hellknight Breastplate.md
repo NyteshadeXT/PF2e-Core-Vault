@@ -10,7 +10,7 @@ license: OGL
 ---
 # Hellknight Breastplate
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 **Category** medium; **Group** plate
 **Price** 10 gp; 

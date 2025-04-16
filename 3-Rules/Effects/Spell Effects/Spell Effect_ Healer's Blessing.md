@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Healer's Blessing|Healer's Blessing]]
+Granted by [[Healer's Blessing|Healer's Blessing]]
 
 When the target regains Hit Points from a healing vitality spell, it regains 2 additional Hit Points. The target regains additional Hit Points from healer's blessing only the first time it regains HP from a given healing spell, so a spell that heals the creature repeatedly over a duration would restore additional Hit Points only once.
 

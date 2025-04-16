@@ -13,7 +13,7 @@ license: OGL
 ---
 # Kraken Bottle
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[expandable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[expandable]]
 
 **Category** other; 
 **Price** 5000 gp; 

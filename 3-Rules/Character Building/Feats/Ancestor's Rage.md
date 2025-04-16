@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You transform into an enormous, otherworldly hyena. You can cast [[Spells/Animal Form|Animal Form]] (canine form only) once per day as a 5th-rank occult innate spell.
+You transform into an enormous, otherworldly hyena. You can cast [[Animal Form|Animal Form]] (canine form only) once per day as a 5th-rank occult innate spell.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

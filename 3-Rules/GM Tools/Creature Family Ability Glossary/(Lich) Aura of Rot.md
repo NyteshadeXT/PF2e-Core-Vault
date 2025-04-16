@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Lich) Aura of Rot
 
-### [[arcane]][[aura]]
+### [[arcane]][[3-Rules/trait_reference/A/aura]]
 
 **Category** defensive; 
 

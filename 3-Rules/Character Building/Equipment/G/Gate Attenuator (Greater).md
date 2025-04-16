@@ -29,17 +29,17 @@ _Gate attenuators_ are typically worn near the body's core and are shaped like p
 
 **Effect** The gate attenuator casts a 5th-rank spell, with a spell attack modifier of +18 and spell DC of 28. If you're a kineticist and the spell's element matches one of your kinetic elements, you can use your impulse attack modifier instead of the spell attack modifier or your impulse DC instead of the spell DC. The spell corresponds to the element the item is attuned to, and it gains that element's trait if it doesn't already have it:
 
-**air** [[Spells/Pressure Zone|Pressure Zone]]
+**air** [[Pressure Zone|Pressure Zone]]
 
-**earth** [[Spells/Sand Form|Sand Form]]
+**earth** [[Sand Form|Sand Form]]
 
-**fire** [[Spells/Flames of Ego|Flames of Ego]]
+**fire** [[Flames of Ego|Flames of Ego]]
 
-**metal** [[Spells/Impaling Spike|Impaling Spike]]
+**metal** [[Impaling Spike|Impaling Spike]]
 
-**water** [[Spells/Freezing Rain|Freezing Rain]]
+**water** [[Freezing Rain|Freezing Rain]]
 
-**wood** [[Spells/Entwined Roots|Entwined Roots]]
+**wood** [[Entwined Roots|Entwined Roots]]
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

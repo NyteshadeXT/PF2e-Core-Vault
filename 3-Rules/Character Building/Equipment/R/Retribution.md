@@ -18,7 +18,7 @@ license: ORC
 ---
 # Retribution
 ## Item 21
-### [unique](unique "Unique Rarity Trait")[[agile]][[artifact]][[backstabber]][[deadly-d8]][[divine]][[finesse]]
+### [unique](unique.md "Unique Rarity Trait")[[agile]][[artifact]][[backstabber]][[deadly-d8]][[divine]][[finesse]]
 
 |  |  |
 | -- | -- |

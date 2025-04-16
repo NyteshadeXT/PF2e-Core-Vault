@@ -15,7 +15,7 @@ license: ORC
 ---
 # Sawtooth Saber
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[finesse]][[twin]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[finesse]][[twin]]
 
 |  |  |
 | -- | -- |

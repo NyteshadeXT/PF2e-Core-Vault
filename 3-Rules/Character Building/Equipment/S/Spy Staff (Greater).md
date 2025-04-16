@@ -44,11 +44,11 @@ In its normal form, a _spy staff_ is a slim rod of burnished wood with subtle et
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Message|Message]]
-*   **1st** [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Invisible Item|Invisible Item]], [[Spells/Message Rune|Message Rune]]
-*   **2nd** [[Spells/Humanoid Form|Humanoid Form]], [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Disguise Magic|Disguise Magic]]
-*   **3rd** [[Spells/Clairaudience|Clairaudience]], [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Veil of Privacy|Veil of Privacy]]
-*   **4th** [[Spells/Clairvoyance|Clairvoyance]], [[Spells/Peaceful Bubble|Peaceful Bubble]]
+*   **Cantrip** [[Message|Message]]
+*   **1st** [[Illusory Disguise|Illusory Disguise]], [[Invisible Item|Invisible Item]], [[Message Rune|Message Rune]]
+*   **2nd** [[Humanoid Form|Humanoid Form]], [[Illusory Disguise|Illusory Disguise]], [[Disguise Magic|Disguise Magic]]
+*   **3rd** [[Clairaudience|Clairaudience]], [[Illusory Disguise|Illusory Disguise]], [[Veil of Privacy|Veil of Privacy]]
+*   **4th** [[Clairvoyance|Clairvoyance]], [[Peaceful Bubble|Peaceful Bubble]]
 
 * * *
 

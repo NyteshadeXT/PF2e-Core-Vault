@@ -13,7 +13,7 @@ license: OGL
 ---
 # Philter of Empty Dreams
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]][[potion]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[magical]][[potion]]
 
 **Category** potion; 
 **Price** 90 gp; 

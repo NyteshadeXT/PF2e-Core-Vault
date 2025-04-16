@@ -14,7 +14,7 @@ license: ORC
 ---
 # All This Will Happen Again `pf2:r`
 ## Feat 1
-### [[fortune]][[3-Rules/trait_reference/mental]][[samsaran]]
+### [[fortune]][[3-Rules/trait_reference/M/mental]][[samsaran]]
 
 **Category** ancestry; 
 

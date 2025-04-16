@@ -16,7 +16,7 @@ license: OGL
 ---
 # Thorn Whip
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[finesse]][[ghoran]][[reach]][[trip]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/D/disarm]][[finesse]][[ghoran]][[reach]][[3-Rules/trait_reference/T/trip]]
 
 |  |  |
 | -- | -- |

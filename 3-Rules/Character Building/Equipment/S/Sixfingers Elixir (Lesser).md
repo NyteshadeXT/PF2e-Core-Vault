@@ -14,7 +14,7 @@ license: OGL
 ---
 # Sixfingers Elixir (Lesser)
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]][[polymorph]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]][[polymorph]]
 
 **Category** elixir; 
 **Price** 25 gp; 

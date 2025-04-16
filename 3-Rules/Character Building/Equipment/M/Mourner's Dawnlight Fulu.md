@@ -13,7 +13,7 @@ license: OGL
 ---
 # Mourner's Dawnlight Fulu
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[fulu]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[fulu]][[magical]]
 
 **Category** fulu; 
 **Price** 120 gp; 

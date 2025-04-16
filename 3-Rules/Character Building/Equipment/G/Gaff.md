@@ -14,7 +14,7 @@ license: ORC
 ---
 # Gaff
 ## Item 0
-### [[trip]][[versatile-p]]
+### [[3-Rules/Trait Reference/T/trip]][[versatile-p]]
 
 |  |  |
 | -- | -- |

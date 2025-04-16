@@ -35,7 +35,7 @@ The Keepers of the _Hollow Star_ believe that this unique magical item, if allow
 
 **Frequency** once per day
 
-**Effect** The _Hollow Star_ casts [[Spells/Phantasmal Killer|Phantasmal Killer]] (DC 25 Will check, DC 25 Fortitude check). The target of this effect receives a brief but overwhelming vision of the world ending as an immense explosion in the sky expands to engulf the world.
+**Effect** The _Hollow Star_ casts [[Phantasmal Killer|Phantasmal Killer]] (DC 25 Will check, DC 25 Fortitude check). The target of this effect receives a brief but overwhelming vision of the world ending as an immense explosion in the sky expands to engulf the world.
 
 * * *
 
@@ -43,7 +43,7 @@ The Keepers of the _Hollow Star_ believe that this unique magical item, if allow
 
 **Frequency** once per day
 
-**Effect** The _Hollow Star_ conjures an aberration to fight for you. This works like [[Spells/Summon Animal|Summon Animal]], except you summon a common creature that has the aberration trait and whose level is 3 or lower.
+**Effect** The _Hollow Star_ conjures an aberration to fight for you. This works like [[Summon Animal|Summon Animal]], except you summon a common creature that has the aberration trait and whose level is 3 or lower.
 
 *Source: Pathfinder #200: Seven Dooms for Sandpoint*
 *OGL*

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Dark Persona's Presence `pf2:0`
 ## Feat 8
-### [[aura]][[emotion]][[fear]][[3-Rules/trait_reference/mental]][[psychic]]
+### [[3-Rules/trait_reference/A/aura]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[psychic]]
 
 **Category** class; 
 

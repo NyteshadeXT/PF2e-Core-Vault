@@ -18,7 +18,7 @@ license: OGL
 
 
 
-The magic of jann runs through your blood. You can cast [[Spells/Enlarge|Enlarge]] and [[Spells/Speak with Animals|Speak with Animals]] once per day each as 2nd-rank arcane innate spells.
+The magic of jann runs through your blood. You can cast [[Enlarge|Enlarge]] and [[Speak with Animals|Speak with Animals]] once per day each as 2nd-rank arcane innate spells.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

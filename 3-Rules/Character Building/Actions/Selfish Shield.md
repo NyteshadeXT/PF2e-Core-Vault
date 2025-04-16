@@ -13,7 +13,7 @@ license: ORC
 ---
 # Selfish Shield `pf2:r`
 
-### [[3-Rules/trait_reference/champion]][[3-Rules/Rule References/Divine]]
+### [[champion]][[3-Rules/Rule References/Divine]]
 
 **Category** defensive; 
 

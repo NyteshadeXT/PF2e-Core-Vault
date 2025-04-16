@@ -17,7 +17,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** etched-onto-a-weapon
 
-This rune prevents enemies from escaping your grasp by [[Conditions/Fleeing|Fleeing]] to other planes. If you critically hit a target with an anchoring weapon, the weapon casts [[Spells/Planar Tether|Planar Tether]] on the target (DC 27 Will, counteract modifier +17).
+This rune prevents enemies from escaping your grasp by [[Conditions/Fleeing|Fleeing]] to other planes. If you critically hit a target with an anchoring weapon, the weapon casts [[Planar Tether|Planar Tether]] on the target (DC 27 Will, counteract modifier +17).
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

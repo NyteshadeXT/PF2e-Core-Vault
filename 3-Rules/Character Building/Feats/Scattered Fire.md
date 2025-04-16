@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Spell Trickster Dedication; ability to cast fireball
 * * *
-When you cast [[Spells/Fireball|Fireball]], you can modify its area to be two non-overlapping 10-foot bursts.
+When you cast [[Fireball|Fireball]], you can modify its area to be two non-overlapping 10-foot bursts.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

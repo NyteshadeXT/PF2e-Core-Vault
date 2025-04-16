@@ -17,7 +17,7 @@ license: OGL
 ---
 # Mindlance
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[arcane]][[concussive]][[fatal-d12]][[kickback]][[3-Rules/trait_reference/mental]][[nonlethal]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[arcane]][[concussive]][[fatal-d12]][[kickback]][[3-Rules/Trait Reference/M/mental]][[nonlethal]]
 
 |  |  |
 | -- | -- |

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Spirit's Wrath `pf2:1`
 ## Feat 12
-### [[attack]][[barbarian]][[concentrate]][[rage]]
+### [[attack]][[barbarian]][[concentrate]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

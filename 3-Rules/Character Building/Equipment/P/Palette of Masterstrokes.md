@@ -10,7 +10,7 @@ license: OGL
 ---
 # Palette of Masterstrokes
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 
 **Price** 1950 gp; 
@@ -25,7 +25,7 @@ This painter's palette is decorated with an image of Shelyn's religious symbol: 
 
 **Frequency** once per day
 
-**Effect** The _palette of masterstrokes_ casts [[Spells/Creation|Creation]] as a 5th-rank divine spell to your specifications.
+**Effect** The _palette of masterstrokes_ casts [[Creation|Creation]] as a 5th-rank divine spell to your specifications.
 
 * * *
 
@@ -33,7 +33,7 @@ This painter's palette is decorated with an image of Shelyn's religious symbol: 
 
 **Frequency** once per hour
 
-**Effect** With a sweeping motion, you swing the _palette of masterstrokes_ in your hand. It casts [[Spells/Dizzying Colors|Dizzying Colors]] as a 4th-rank divine spell. The spell DC is 29 (DC 29 Will check).
+**Effect** With a sweeping motion, you swing the _palette of masterstrokes_ in your hand. It casts [[Dizzying Colors|Dizzying Colors]] as a 4th-rank divine spell. The spell DC is 29 (DC 29 Will check).
 
 *Source: Pathfinder Kingmaker*
 *OGL*

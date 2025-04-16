@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** ki spells
 * * *
-You have mastered a potent technique for using your ki to reinforce your physical form and propel yourself through the air. You gain the [[Spells/Ki Form|Ki Form]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+You have mastered a potent technique for using your ki to reinforce your physical form and propel yourself through the air. You gain the [[3-Rules/Character Building/Spells/K/Ki Form|Ki Form]] ki spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

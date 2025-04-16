@@ -13,7 +13,7 @@ license: OGL
 ---
 # Octopus Bottle
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[expandable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[expandable]]
 
 **Category** other; 
 **Price** 100 gp; 

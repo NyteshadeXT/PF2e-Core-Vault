@@ -16,7 +16,7 @@ license: OGL
 ---
 # Lodestone Bomb (Greater)
 ## Item 18
-### [[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/force]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/F/force]][[splash]]
 
 |  |  |
 | -- | -- |

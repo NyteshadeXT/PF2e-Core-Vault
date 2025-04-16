@@ -29,7 +29,7 @@ This robe is made from dweomerweave, a magical fabric created by spinning minor 
 
 * * *
 
-**Effect** You gain the effects of a 1st-rank [[Spells/Illusory Disguise|Illusory Disguise]] except that the illusion only alters the appearance of the dweomerweave robe, changing it into another garment with an appearance of your choice. The spell persists until the next activation. You can Dismiss the activation.
+**Effect** You gain the effects of a 1st-rank [[Illusory Disguise|Illusory Disguise]] except that the illusion only alters the appearance of the dweomerweave robe, changing it into another garment with an appearance of your choice. The spell persists until the next activation. You can Dismiss the activation.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

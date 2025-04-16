@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You have learned how to become invisible and remain so. You can cast 4th-rank [[Spells/Invisibility|Invisibility]] as a primal innate spell once per hour.
+You have learned how to become invisible and remain so. You can cast 4th-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] as a primal innate spell once per hour.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

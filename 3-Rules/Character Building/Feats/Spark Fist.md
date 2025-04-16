@@ -13,7 +13,7 @@ license: OGL
 ---
 # Spark Fist `pf2:1`
 ## Feat 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[dwarf]][[3-Rules/trait_reference/fire]][[manipulate]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[dwarf]][[3-Rules/trait_reference/F/fire]][[manipulate]]
 
 **Category** ancestry; 
 

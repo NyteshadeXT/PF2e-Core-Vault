@@ -12,7 +12,7 @@ license: OGL
 ---
 # Swamp Lily Quilt
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** other; 
 **Price** 12 gp; 

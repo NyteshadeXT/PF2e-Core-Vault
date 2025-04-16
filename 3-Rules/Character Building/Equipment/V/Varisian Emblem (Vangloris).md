@@ -30,7 +30,7 @@ Each description lists the school of each Varisian emblem, and the tattoo has th
 
 * * *
 
-**Effect** The tattoo casts [[Spells/Ventriloquism|Ventriloquism]].
+**Effect** The tattoo casts [[Ventriloquism|Ventriloquism]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -30,7 +30,7 @@ Identical feathers radiate from the center of this spellheart, held in place by 
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Gale Blast|Gale Blast]].
+**Effect** You cast [[Gale Blast|Gale Blast]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

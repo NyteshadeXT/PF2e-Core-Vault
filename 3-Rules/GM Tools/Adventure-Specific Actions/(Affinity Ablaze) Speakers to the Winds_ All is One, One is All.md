@@ -27,7 +27,7 @@ There are few bonds like those between fighters who have shared blows in an aren
 
 * * *
 
-Borrowing the magic of the Magaambya, you use a legendary spell from Old-Mage Jatembe himself. You cast [[Spells/All is One, One is All|All is One, One is All]] as a 9th-rank arcane or primal innate spell.
+Borrowing the magic of the Magaambya, you use a legendary spell from Old-Mage Jatembe himself. You cast [[All is One, One is All|All is One, One is All]] as a 9th-rank arcane or primal innate spell.
 
 *Source: Pathfinder Fists of the Ruby Phoenix Hardcover Compilation*
 *OGL*

@@ -29,7 +29,7 @@ The boots can grip solid surfaces and help you avoid a fall, allowing you to use
 
 * * *
 
-**Effect** The boots cast [[Spells/Unfettered Movement|Unfettered Movement]] on you.
+**Effect** The boots cast [[Unfettered Movement|Unfettered Movement]] on you.
 
 *Source: Pathfinder GM Core*
 *ORC*

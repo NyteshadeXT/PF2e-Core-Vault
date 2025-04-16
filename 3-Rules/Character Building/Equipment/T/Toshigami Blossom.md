@@ -12,7 +12,7 @@ license: OGL
 ---
 # Toshigami Blossom
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[intelligent]][[invested]][[primal]]
+### [rare](rare.md "Rare Rarity Trait")[[intelligent]][[invested]][[primal]]
 
 
 **Price** 0 gp; 
@@ -41,7 +41,7 @@ A _toshigami blossom_ has the following activations.
 
 **Frequency** once per day
 
-**Effect** The blossom casts [[Spells/Nature's Pathway|Nature's Pathway]] on you to your specifications. If you target only cherry trees, the spell is cast at 6th rank.
+**Effect** The blossom casts [[Nature's Pathway|Nature's Pathway]] on you to your specifications. If you target only cherry trees, the spell is cast at 6th rank.
 
 * * *
 
@@ -49,7 +49,7 @@ A _toshigami blossom_ has the following activations.
 
 **Frequency** once per hour
 
-**Effect** The blossom casts [[Spells/Soothing Blossoms|Soothing Blossoms]] to your specifications.
+**Effect** The blossom casts [[Soothing Blossoms|Soothing Blossoms]] to your specifications.
 
 * * *
 

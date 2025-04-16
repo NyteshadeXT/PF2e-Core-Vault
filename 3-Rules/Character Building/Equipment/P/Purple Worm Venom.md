@@ -14,7 +14,7 @@ license: OGL
 ---
 # Purple Worm Venom
 ## Item 13
-### [[alchemical]][[consumable]][[injury]][[3-Rules/trait_reference/poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 500 gp; 

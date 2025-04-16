@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You can use ki to move with extraordinary speed and make yourself harder to hit. You gain the [[Spells/Ki Rush|Ki Rush]] ki spell and a focus pool of 1 Focus Point.
+You can use ki to move with extraordinary speed and make yourself harder to hit. You gain the [[3-Rules/Character Building/Spells/K/Ki Rush|Ki Rush]] ki spell and a focus pool of 1 Focus Point.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Vexing Tempest `pf2:1`
 ## Feat 12
-### [[3-Rules/trait_reference/air]][[archetype]][[spellshape]]
+### [[3-Rules/trait_reference/A/air]][[archetype]][[spellshape]]
 
 **Category** class; 
 

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Blessed One Dedication
 * * *
-You gain the [[Spells/Protector's Sacrifice|Protector's Sacrifice]] domain spell as a devotion spell. Increase the number of Focus Points in your focus pool by 1.
+You gain the [[Protector's Sacrifice|Protector's Sacrifice]] domain spell as a devotion spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You learn the [[Spells/Pied Piping|Pied Piping]] composition spell, which enables you to control the actions of weak-minded individuals.
+You learn the [[3-Rules/Character Building/Spells/P/Pied Piping|Pied Piping]] composition spell, which enables you to control the actions of weak-minded individuals.
 
 *Source: Pathfinder Player Core*
 *ORC*

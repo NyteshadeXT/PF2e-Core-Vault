@@ -12,7 +12,7 @@ license: OGL
 ---
 # Magnetic Suit (Greater)
 ## Item 10
-### [[aura]][[consumable]]
+### [[3-Rules/Trait Reference/A/aura]][[consumable]]
 
 **Category** other; 
 **Price** 200 gp; 

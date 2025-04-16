@@ -16,7 +16,7 @@ license: ORC
 ---
 # Tears of Death
 ## Item 20
-### [[alchemical]][[consumable]][[contact]][[3-Rules/trait_reference/poison]][[virulent]]
+### [[alchemical]][[consumable]][[contact]][[3-Rules/trait_reference/P/poison]][[virulent]]
 
 **Category** poison; 
 **Price** 12000 gp; 

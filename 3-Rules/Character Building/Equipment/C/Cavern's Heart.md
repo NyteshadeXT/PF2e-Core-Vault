@@ -11,14 +11,14 @@ license: OGL
 ---
 # Cavern's Heart
 ## Item 14
-### [rare](rare.md "Rare Rarity Trait")[[3-Rules/trait_reference/earth]][[magical|Magical]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Trait Reference/E/earth]][[magical|Magical]]
 
 
 **Price** 4100 gp; 
 **Bulk** 0; **Size** med
 **Usage** etched-onto-med-heavy-armor
 
-This armor can channel your life force into an enhanced [[Spells/Wall of Stone|Wall of Stone]].
+This armor can channel your life force into an enhanced [[Wall of Stone|Wall of Stone]].
 
 * * *
 

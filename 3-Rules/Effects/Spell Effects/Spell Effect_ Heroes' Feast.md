@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Heroes' Feast|Heroes' Feast]]
+Granted by [[Heroes' Feast|Heroes' Feast]]
 
 Each guest gains temporary Hit Points. On a critical success, guests also gain a +2 status bonus to saves against disease, fear, and poison effects.
 

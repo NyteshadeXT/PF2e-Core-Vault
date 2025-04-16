@@ -15,7 +15,7 @@ license: OGL
 ---
 # Karambit
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[fatal-d8]][[finesse]][[versatile-s]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[fatal-d8]][[finesse]][[versatile-s]]
 
 |  |  |
 | -- | -- |

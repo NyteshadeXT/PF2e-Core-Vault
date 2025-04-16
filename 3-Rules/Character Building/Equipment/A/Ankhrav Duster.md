@@ -16,7 +16,7 @@ license: ORC
 ---
 # Ankhrav Duster
 ## Item 4
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[free-hand]][[magical|Magical]][[3-Rules/trait_reference/monk|Monk]] 
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[free-hand]][[magical|Magical]][[monk|Monk]] 
 
 |  |  |
 | -- | -- |

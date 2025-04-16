@@ -17,7 +17,7 @@ license: OGL
 ---
 # Jax
 ## Item 8
-### [unique](unique "Unique Rarity Trait")[[combination]][[concussive]][[cursed]][[divine]][[fatal-aim-d10]][[intelligent]]
+### [unique](unique.md "Unique Rarity Trait")[[combination]][[concussive]][[cursed]][[divine]][[fatal-aim-d10]][[intelligent]]
 
 |  |  |
 | -- | -- |
@@ -53,7 +53,7 @@ If ever used to attack an innocent traveler, or if, in _Jax_'s opinion, the atta
 
 **Frequency** once per day
 
-**Effect** _Jax_ casts [[Spells/Heroism|Heroism]] on you.
+**Effect** _Jax_ casts [[Heroism|Heroism]] on you.
 
 * * *
 
@@ -61,7 +61,7 @@ If ever used to attack an innocent traveler, or if, in _Jax_'s opinion, the atta
 
 **Frequency** once per day
 
-**Effect** _Jax_ deems you an unworthy agent of justice. She casts [[Spells/Dominate|Dominate]] on you (DC 24 Will check). If you're chaotic or a worshipper of Lamashtu, you take a -2 penalty to your Will save, and the result of your save is one degree of success worse than the result you rolled. _Jax_ orders you to fight banditry and protect innocent travelers in the Spellscar Desert, renewing the spell as often as necessary until you cease your lawless ways.
+**Effect** _Jax_ deems you an unworthy agent of justice. She casts [[Dominate|Dominate]] on you (DC 24 Will check). If you're chaotic or a worshipper of Lamashtu, you take a -2 penalty to your Will save, and the result of your save is one degree of success worse than the result you rolled. _Jax_ orders you to fight banditry and protect innocent travelers in the Spellscar Desert, renewing the spell as often as necessary until you cease your lawless ways.
 
 *Source: Pathfinder #179: Cradle of Quartz*
 *OGL*

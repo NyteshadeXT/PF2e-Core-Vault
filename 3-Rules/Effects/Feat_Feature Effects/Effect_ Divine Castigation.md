@@ -18,7 +18,7 @@ license: OGL
 
 Imposed by [[Feats/Divine Castigation|Divine Castigation]]
 
-[[Spells/Heal|Heal]] spells you cast damage fiends as though they were undead.
+[[Heal|Heal]] spells you cast damage fiends as though they were undead.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

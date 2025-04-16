@@ -48,7 +48,7 @@ As the artifact's abilities pull material from the Maelstrom, it doesn't functio
 
 * * *
 
-**Effect** The Cane of the Maelstrom casts a 5th-rank [[Spells/Mirage|Mirage]] spell and infuses the illusion with quasi-real substance drawn from the primal chaos of the Maelstrom. Creatures that don't disbelieve the illusion treat structures and terrain created through the spell as though they were real, ascending illusory stairs, becoming trapped by illusory quicksand, and so on. If no creature disbelieves the illusion during its duration, the changes become wholly real and permanent when its duration expires.
+**Effect** The Cane of the Maelstrom casts a 5th-rank [[Mirage|Mirage]] spell and infuses the illusion with quasi-real substance drawn from the primal chaos of the Maelstrom. Creatures that don't disbelieve the illusion treat structures and terrain created through the spell as though they were real, ascending illusory stairs, becoming trapped by illusory quicksand, and so on. If no creature disbelieves the illusion during its duration, the changes become wholly real and permanent when its duration expires.
 
 * * *
 
@@ -56,7 +56,7 @@ As the artifact's abilities pull material from the Maelstrom, it doesn't functio
 
 * * *
 
-**Effect** The Cane of the Maelstrom casts a 5th-rank [[Spells/Creation|Creation]] spell, except the duration is unlimited and you can create delicate or complex objects by succeeding at an applicable Crafting skill check when you activate this ability.
+**Effect** The Cane of the Maelstrom casts a 5th-rank [[Creation|Creation]] spell, except the duration is unlimited and you can create delicate or complex objects by succeeding at an applicable Crafting skill check when you activate this ability.
 
 *Source: Pathfinder #162: Ruins of the Radiant Siege*
 *OGL*

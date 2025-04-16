@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Stormwind Flight|Stormwind Flight]].
+Granted by [[Stormwind Flight|Stormwind Flight]].
 
 You gain a fly Speed equal to your Speed.
 

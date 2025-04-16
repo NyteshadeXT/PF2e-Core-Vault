@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Monstrosity Form|Monstrosity Form]]
+Granted by [[Monstrosity Form|Monstrosity Form]]
 
 You transform into the shape of a legendary monster, assuming a Huge battle form. You must have enough space to expand into or the spell is lost. While in this form, you gain the animal trait. You can Dismiss the spell.
 

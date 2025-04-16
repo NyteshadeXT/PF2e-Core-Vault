@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Tempest Form|Tempest Form]]
+Granted by [[Tempest Form|Tempest Form]]
 
 Your body becomes fluid to better suit your surroundings.
 

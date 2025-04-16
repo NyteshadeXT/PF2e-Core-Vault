@@ -10,7 +10,7 @@ license: OGL
 ---
 # Eldritch Calm
 ## Feat 13
-### [rare](rare "Rare Rarity Trait")
+### [rare](rare.md "Rare Rarity Trait")
 
 **Category** ancestry; 
 

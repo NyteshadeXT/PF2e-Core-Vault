@@ -36,13 +36,13 @@ Despite its utility in combat, the _Spiral Athame_ is intended as a ritual imple
 
 * * *
 
-**Effect** You point the _Spiral Athame_ at a corpse within 30 feet, shielding it from corruption. The _Spiral Athame_ casts 5th-rank [[Spells/Peaceful Rest|Peaceful Rest]] on the corpse.
+**Effect** You point the _Spiral Athame_ at a corpse within 30 feet, shielding it from corruption. The _Spiral Athame_ casts 5th-rank [[Peaceful Rest|Peaceful Rest]] on the corpse.
 
 **Activate** `pf2:2` command, interact (divine, necromancy)
 
 * * *
 
-**Effect** You point the _Spiral Athame_ to the sky and pray, warding creatures against undead. This has the effect of 3rd-rank [[Spells/Circle of Protection|Circle of Protection]], except it wards against undead creatures rather than creatures of a specified alignment, and the emanation is centered on the _Spiral Athame_.
+**Effect** You point the _Spiral Athame_ to the sky and pray, warding creatures against undead. This has the effect of 3rd-rank [[Circle of Protection|Circle of Protection]], except it wards against undead creatures rather than creatures of a specified alignment, and the emanation is centered on the _Spiral Athame_.
 
 **Destruction** If an undead creature uses the _Spiral Athame_ to slay a psychopomp usher while within the Boneyard, the _Spiral Athame_'s pommel shatters and the _Spiral Athame_ becomes a mundane, high-grade silver dagger with no special abilities.
 

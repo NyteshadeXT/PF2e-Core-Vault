@@ -36,12 +36,12 @@ The carved night hag's hand at the end of this sandalwood staff clutches a rough
 
 * * *
 
-*   **Cantrip** [[Spells/Daze|Daze]]
-*   **1st** [[Spells/Alarm|Alarm]], [[Spells/Déjà Vu|Déjà Vu]], [[Spells/Sleep|Sleep]]
-*   **2nd** [[Spells/Phantasmal Treasure|Phantasmal Treasure]], [[Spells/Silence|Silence]]
-*   **3rd** [[Spells/Dream Message|Dream Message]]
-*   **4th** _dream message_, [[Spells/Nightmare|Nightmare]], _sleep_
-*   **5th** [[Spells/Dreaming Potential|Dreaming Potential]], [[Spells/Illusory Scene|Illusory Scene]]
+*   **Cantrip** [[Daze|Daze]]
+*   **1st** [[Alarm|Alarm]], [[Déjà Vu|Déjà Vu]], [[3-Rules/Character Building/Spells/S/Sleep|Sleep]]
+*   **2nd** [[Phantasmal Treasure|Phantasmal Treasure]], [[Silence|Silence]]
+*   **3rd** [[Dream Message|Dream Message]]
+*   **4th** _dream message_, [[3-Rules/Character Building/Spells/N/Nightmare|Nightmare]], _sleep_
+*   **5th** [[Dreaming Potential|Dreaming Potential]], [[Illusory Scene|Illusory Scene]]
 
 **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Albatross Curse|Albatross Curse]]
+Granted by [[Albatross Curse|Albatross Curse]]
 
 You gain a +1 circumstance bonus to attacks against the target of the Albatross Curse.
 

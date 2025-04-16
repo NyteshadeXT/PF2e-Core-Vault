@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Mystic Armor|Mystic Armor]]
+Granted by [[Mystic Armor|Mystic Armor]]
 
 You ward yourself with shimmering magical energy, gaining a +1 item bonus to AC and a maximum Dexterity modifier of +5. While wearing _mystic armor_, you use your unarmored proficiency to calculate your AC.
 

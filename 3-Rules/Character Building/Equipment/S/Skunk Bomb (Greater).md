@@ -17,7 +17,7 @@ license: OGL
 ---
 # Skunk Bomb (Greater)
 ## Item 11
-### [[alchemical]][[bomb]][[consumable]][[olfactory]][[3-Rules/trait_reference/poison]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[olfactory]][[3-Rules/Trait Reference/P/poison]][[splash]]
 
 |  |  |
 | -- | -- |

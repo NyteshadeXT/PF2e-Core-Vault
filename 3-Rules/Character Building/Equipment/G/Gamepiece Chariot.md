@@ -10,7 +10,7 @@ license: OGL
 ---
 # Gamepiece Chariot
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 
 **Price** 1200 gp; 

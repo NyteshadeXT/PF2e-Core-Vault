@@ -31,7 +31,7 @@ They grant you a +3 item bonus to Thievery checks to [[Actions/Disable a Device|
 
 **Frequency** once per day
 
-**Effect** You create the effects of a [[Spells/Rune Trap|Rune Trap]] ritual containing your choice of either a 7th-rank [[Spells/Howling Blizzard|Howling Blizzard]] or 7th-rank [[Spells/Fireball|Fireball]]. You can have only one trapped rune from a _ring of maniacal devices_ active at a time, even if you have multiple rings, and the rune disappears if you lose your investiture in the ring.
+**Effect** You create the effects of a [[Rune Trap|Rune Trap]] ritual containing your choice of either a 7th-rank [[Howling Blizzard|Howling Blizzard]] or 7th-rank [[Fireball|Fireball]]. You can have only one trapped rune from a _ring of maniacal devices_ active at a time, even if you have multiple rings, and the rune disappears if you lose your investiture in the ring.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

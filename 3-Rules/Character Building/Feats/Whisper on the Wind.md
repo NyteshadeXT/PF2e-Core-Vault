@@ -18,14 +18,14 @@ license: OGL
 ---
 # Whisper on the Wind `pf2:1`
 ## Feat 1
-### [[3-Rules/trait_reference/air]][[auditory]][[illusion]][[impulse]][[kineticist]][[linguistic]][[primal]]
+### [[3-Rules/trait_reference/A/air]][[auditory]][[illusion]][[impulse]][[kineticist]][[linguistic]][[primal]]
 
 **Category** class; 
 
 
 
 
-You speak in a whisper, a soft wind carrying your words far away. This has the effect of the [[Spells/Message|Message]] spell with a range of 500 feet, and it can target only a creature surrounded by air. If you start your message with the target's name, you and the target don't need to be able to see each other, nor do you need line of effect.
+You speak in a whisper, a soft wind carrying your words far away. This has the effect of the [[Message|Message]] spell with a range of 500 feet, and it can target only a creature surrounded by air. If you start your message with the target's name, you and the target don't need to be able to see each other, nor do you need line of effect.
 
 * * *
 

@@ -16,7 +16,7 @@ license: ORC
 ---
 # Disturbing Knowledge `pf2:2`
 ## Feat 7
-### [[emotion]][[fear]][[general]][[3-Rules/trait_reference/mental]][[skill]]
+### [[emotion]][[3-Rules/trait_reference/F/fear]][[general]][[3-Rules/trait_reference/M/mental]][[skill]]
 
 **Category** skill; 
 

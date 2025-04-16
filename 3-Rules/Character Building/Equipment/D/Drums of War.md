@@ -12,7 +12,7 @@ license: OGL
 ---
 # Drums of War
 ## Item 4
-### [[coda]][[3-Rules/trait_reference/occult|Occult]][[3-Rules/trait_reference/staff|Staff]]
+### [[coda]][[occult|Occult]][[3-Rules/Trait Reference/S/staff|Staff]]
 
 
 **Price** 90 gp; 
@@ -29,8 +29,8 @@ This handheld snare drum is adorned with garish scenes of battle and triumph. Wh
 
 **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Shield|Shield]]
-*   **1st** [[Spells/Mystic Armor|Mystic Armor]], [[Spells/Force Barrage|Force Barrage]], [[Spells/Sure Strike|Sure Strike]]
+*   **Cantrip** [[Shield|Shield]]
+*   **1st** [[Mystic Armor|Mystic Armor]], [[Force Barrage|Force Barrage]], [[Sure Strike|Sure Strike]]
 
 * * *
 

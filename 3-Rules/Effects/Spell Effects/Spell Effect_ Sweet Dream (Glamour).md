@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Sweet Dream|Sweet Dream]].
+Granted by [[Sweet Dream|Sweet Dream]].
 
 You gain +1 status bonus to Charisma-based skill checks.
 

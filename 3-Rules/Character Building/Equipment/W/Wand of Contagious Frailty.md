@@ -26,11 +26,11 @@ Cracks and healed fractures spiderweb the shaft of this bone wand, worsening eac
 
 * * *
 
-**Effect** You cast [[Spells/Enfeeble|Enfeeble]]. After you cast the spell, if the target is enfeebled, it releases a @Template\[emanation|distance:10\] that doesn't include itself. Each creature in that area must attempt a Fortitude save as if struck by the [[Spells/Enfeeble|Enfeeble]] but gets an outcome one degree of success better than it rolled.
+**Effect** You cast [[Enfeeble|Enfeeble]]. After you cast the spell, if the target is enfeebled, it releases a @Template\[emanation|distance:10\] that doesn't include itself. Each creature in that area must attempt a Fortitude save as if struck by the [[Enfeeble|Enfeeble]] but gets an outcome one degree of success better than it rolled.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Enfeeble|Enfeeble]].
+**Craft Requirements** Supply a casting of [[Enfeeble|Enfeeble]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

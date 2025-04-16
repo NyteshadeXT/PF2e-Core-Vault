@@ -14,7 +14,7 @@ license: OGL
 ---
 # Anchor Spear
 ## Item 13
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/trait_reference/monk|Monk]] [[thrown-20]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[monk|Monk]] [[thrown-20]]
 
 |  |  |
 | -- | -- |

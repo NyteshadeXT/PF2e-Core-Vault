@@ -17,14 +17,14 @@ license: OGL
 ---
 # Rock Rampart `pf2:3`
 ## Feat 12
-### [[3-Rules/trait_reference/earth]][[impulse]][[kineticist]][[manipulate]][[overflow]][[primal]]
+### [[3-Rules/trait_reference/E/earth]][[impulse]][[kineticist]][[manipulate]][[overflow]][[primal]]
 
 **Category** class; 
 
 
 
 
-Drawing on your connection to the Plane of Earth, you form a wall of rock and earth. This has the effect of [[Spells/Wall of Stone|Wall of Stone]], but the wall's maximum length is 40 feet. The wall lasts until the end of your next turn, but you can Sustain it up to 1 minute.
+Drawing on your connection to the Plane of Earth, you form a wall of rock and earth. This has the effect of [[Wall of Stone|Wall of Stone]], but the wall's maximum length is 40 feet. The wall lasts until the end of your next turn, but you can Sustain it up to 1 minute.
 
 * * *
 

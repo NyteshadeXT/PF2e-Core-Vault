@@ -12,7 +12,7 @@ license: OGL
 ---
 # Malleable Clay
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 30 gp; 

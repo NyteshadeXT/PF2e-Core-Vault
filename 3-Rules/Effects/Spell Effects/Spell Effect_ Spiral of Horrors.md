@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Spiral of Horrors|Spiral of Horrors]]
+Granted by [[Spiral of Horrors|Spiral of Horrors]]
 
 Foes in the area are frightened 1 and unable to reduce the condition.
 

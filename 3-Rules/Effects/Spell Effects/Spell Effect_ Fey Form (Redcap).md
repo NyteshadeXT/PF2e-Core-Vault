@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Fey Form|Fey Form]]
+Granted by [[Fey Form|Fey Form]]
 
 Channeling the mischievous fey, you transform into a fey battle form, which is Medium unless stated otherwise. When you cast this spell, choose dryad, elananx, naiad, redcap, or unicorn. If you choose unicorn, the battle form is Large and you must have space to expand or the spell is lost. While in this form, you gain the fey trait. Unless you choose elananx or unicorn, you have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
 

@@ -34,7 +34,7 @@ This silver disc displays an ever-changing etching of an animal. When you affix 
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Tame|Tame]].
+**Effect** You cast [[Tame|Tame]].
 
 * * *
 
@@ -42,7 +42,7 @@ This silver disc displays an ever-changing etching of an animal. When you affix 
 
 **Frequency** once per day
 
-**Effect** You cast 2nd-rank [[Spells/Summon Animal|Summon Animal]] to summon a [[Cave Scorpion|Cave Scorpion]] (armor), [[3-Rules/Bestiaries/Bestiary 1/W/Wolf|Wolf]](melee weapon), or [[3-Rules/Bestiaries/Bestiary 1/V/Vampire Bat Swarm|Vampire Bat Swarm]] (ranged weapon).
+**Effect** You cast 2nd-rank [[Summon Animal|Summon Animal]] to summon a [[Cave Scorpion|Cave Scorpion]] (armor), [[3-Rules/Bestiaries/Bestiary 1/W/Wolf|Wolf]](melee weapon), or [[3-Rules/Bestiaries/Bestiary 1/V/Vampire Bat Swarm|Vampire Bat Swarm]] (ranged weapon).
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

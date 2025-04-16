@@ -15,7 +15,7 @@ license: OGL
 ---
 # Gnome Amalgam Musket
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[fatal-d10]][[gnome]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[combination]][[concussive]][[fatal-d10]][[gnome]]
 
 |  |  |
 | -- | -- |

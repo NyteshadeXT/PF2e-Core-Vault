@@ -16,7 +16,7 @@ license: OGL
 ---
 # Scourge
 ## Item 0
-### [[agile]][[disarm]][[finesse]][[nonlethal]][[sweep]]
+### [[agile]][[3-Rules/Trait Reference/D/disarm]][[finesse]][[nonlethal]][[sweep]]
 
 |  |  |
 | -- | -- |

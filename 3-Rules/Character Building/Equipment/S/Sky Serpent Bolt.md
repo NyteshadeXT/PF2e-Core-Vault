@@ -14,7 +14,7 @@ license: OGL
 ---
 # Sky Serpent Bolt
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/air]][[consumable]][[3-Rules/trait_reference/electricity]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/A/air]][[consumable]][[3-Rules/Trait Reference/E/electricity]][[magical]]
 
 **Category** ammo; 
 **Price** 25 gp; 

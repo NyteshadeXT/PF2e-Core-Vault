@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-Your Arcane Cascade sends threads to the four directions, creating a web of strings dyed by your skill and your enemies' blood. The web fills a 15-foot burst centered on you and is difficult terrain. You can ignore the difficult terrain, and the strings can support your weight, allowing you to walk on them as though you were benefiting from [[Spells/Fly|Fly]].
+Your Arcane Cascade sends threads to the four directions, creating a web of strings dyed by your skill and your enemies' blood. The web fills a 15-foot burst centered on you and is difficult terrain. You can ignore the difficult terrain, and the strings can support your weight, allowing you to walk on them as though you were benefiting from [[3-Rules/Character Building/Spells/F/Fly|Fly]].
 
 The web lasts for 1 minute but ends early if your Arcane Cascade ends or you leave the web.
 

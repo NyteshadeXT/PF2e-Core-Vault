@@ -14,7 +14,7 @@ license: OGL
 ---
 # Ridill
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[magical]][[versatile-p]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

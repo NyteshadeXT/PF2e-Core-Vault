@@ -11,7 +11,7 @@ license: OGL
 ---
 # Tornado Trompo
 ## Item 18
-### [[3-Rules/trait_reference/air]][[magical]]
+### [[3-Rules/trait_reference/A/air]][[magical]]
 
 
 **Price** 19000 gp; 
@@ -38,7 +38,7 @@ Various runes are carved along the entirety of this wooden top. Spinning the top
 
 * * *
 
-**Effect** You call upon the top's power and give the string a powerful pull. The top travels across the ground in a @Template\[line|distance:120\]. As it does, it unleashes a powerful vortex of winds, becoming a tornado temporarily. This tornado has the effects of [[Spells/Whirlwind|Whirlwind]] except that it's not limited by being used outside or in a cramped space and can't be sustained. Creatures in the tornado's path must attempt a DC 38 Reflex check save to determine the effects of the tornado. The tornado ends after traveling its full distance, causing any creatures that rose in the air due to a failed save to begin falling immediately.
+**Effect** You call upon the top's power and give the string a powerful pull. The top travels across the ground in a @Template\[line|distance:120\]. As it does, it unleashes a powerful vortex of winds, becoming a tornado temporarily. This tornado has the effects of [[Whirlwind|Whirlwind]] except that it's not limited by being used outside or in a cramped space and can't be sustained. Creatures in the tornado's path must attempt a DC 38 Reflex check save to determine the effects of the tornado. The tornado ends after traveling its full distance, causing any creatures that rose in the air due to a failed save to begin falling immediately.
 
 *Source: Pathfinder Blog*
 *OGL*

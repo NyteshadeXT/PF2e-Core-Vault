@@ -13,7 +13,7 @@ license: OGL
 ---
 # Organize Labor
 
-### [[concentrate]][[downtime]][[linguistic]][[3-Rules/trait_reference/mental]]
+### [[concentrate]][[downtime]][[linguistic]][[3-Rules/trait_reference/M/mental]]
 
 
 

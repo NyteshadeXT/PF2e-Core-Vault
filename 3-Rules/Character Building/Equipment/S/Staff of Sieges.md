@@ -29,16 +29,16 @@ This adamantine staff is fitted with dawnsilver plates resembling battlements on
 
 **Activate** Cast a Spell;**Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Shield|Shield]], [[Spells/Telekinetic Projectile|Telekinetic Projectile]]
-*   **1st** [[Spells/Gust of Wind|Gust of Wind]], [[Spells/Tailwind|Tailwind]]
-*   **2nd** [[Spells/Mist|Mist]], [[Spells/Web|Web]]
-*   **3rd** [[Spells/Fireball|Fireball]], [[Spells/Wall of Wind|Wall of Wind]]
-*   **4th** [[Spells/Mirage|Mirage]], [[Spells/Solid Fog|Solid Fog]], [[Spells/Wall of Fire|Wall of Fire]]
-*   **5th** [[Spells/Toxic Cloud|Toxic Cloud]], [[Spells/Wall of Stone|Wall of Stone]]
-*   **6th** [[Spells/Fireball|Fireball]], [[Spells/Wall of Force|Wall of Force]]
-*   **7th** [[Spells/Planar Palace|Planar Palace]], [[Spells/Prismatic Spray|Prismatic Spray]]
-*   **8th** [[Spells/Earthquake|Earthquake]], [[Spells/Confusing Colors|Scintillating Pattern]]
-*   **9th** [[Spells/Falling Stars|Falling Stars]]
+*   **Cantrip** [[Shield|Shield]], [[Telekinetic Projectile|Telekinetic Projectile]]
+*   **1st** [[Gust of Wind|Gust of Wind]], [[Tailwind|Tailwind]]
+*   **2nd** [[Mist|Mist]], [[Web|Web]]
+*   **3rd** [[Fireball|Fireball]], [[Wall of Wind|Wall of Wind]]
+*   **4th** [[Mirage|Mirage]], [[Solid Fog|Solid Fog]], [[Wall of Fire|Wall of Fire]]
+*   **5th** [[Toxic Cloud|Toxic Cloud]], [[Wall of Stone|Wall of Stone]]
+*   **6th** [[Fireball|Fireball]], [[Wall of Force|Wall of Force]]
+*   **7th** [[Planar Palace|Planar Palace]], [[Prismatic Spray|Prismatic Spray]]
+*   **8th** [[Earthquake|Earthquake]], [[Confusing Colors|Scintillating Pattern]]
+*   **9th** [[Falling Stars|Falling Stars]]
 
 *Source: Pathfinder #156: The Apocalypse Prophet*
 *OGL*

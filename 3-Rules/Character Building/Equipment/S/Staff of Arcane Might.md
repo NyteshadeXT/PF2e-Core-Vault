@@ -15,7 +15,7 @@ license: ORC
 ---
 # Staff of Arcane Might
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[magical]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -40,12 +40,12 @@ This staff of magically hardened wood is topped with a silver sculpture depictin
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Detect Magic|Detect Magic]]
-*   **1st** [[Spells/Phantasmal Minion|Phantasmal Minion]]
-*   **2nd** [[Spells/Everlight|Everlight]]
-*   **3rd** [[Spells/Force Barrage|Force Barrage]], [[Spells/Paralyze|Paralyze]]
-*   **4th** [[Spells/Dispelling Globe|Dispelling Globe]], [[Spells/Mystic Armor|Mystic Armor]], [[Spells/Translocate|Translocate]]
-*   **5th** [[Spells/Fireball|Fireball]], [[Spells/Force Barrage|Force Barrage]], [[Spells/Lightning Bolt|Lightning Bolt]]
+*   **Cantrip** [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]]
+*   **1st** [[3-Rules/Character Building/Spells/P/Phantasmal Minion|Phantasmal Minion]]
+*   **2nd** [[Everlight|Everlight]]
+*   **3rd** [[Force Barrage|Force Barrage]], [[Paralyze|Paralyze]]
+*   **4th** [[Dispelling Globe|Dispelling Globe]], [[Mystic Armor|Mystic Armor]], [[Translocate|Translocate]]
+*   **5th** [[Fireball|Fireball]], [[Force Barrage|Force Barrage]], [[Lightning Bolt|Lightning Bolt]]
 
 * * *
 

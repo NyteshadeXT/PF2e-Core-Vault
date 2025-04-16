@@ -17,7 +17,7 @@ license: OGL
 ---
 # Scalding Gauntlets (Greater)
 ## Item 13
-### [[agile]][[3-Rules/trait_reference/fire]][[free-hand]][[invested]][[magical]]
+### [[agile]][[3-Rules/Trait Reference/F/fire]][[free-hand]][[invested]][[magical]]
 
 |  |  |
 | -- | -- |

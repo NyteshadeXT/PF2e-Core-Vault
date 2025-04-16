@@ -12,7 +12,7 @@ license: OGL
 ---
 # Seeking Bracelets
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]]
 
 **Category** other; 
 **Price** 12 gp; 

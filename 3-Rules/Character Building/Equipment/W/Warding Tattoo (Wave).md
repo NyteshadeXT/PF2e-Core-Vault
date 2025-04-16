@@ -31,7 +31,7 @@ Many cultures of Golarion have a tattoo to turn away harm; as such, warding tatt
 
 * * *
 
-**Effect** Until the end of the current turn, against the triggering effect, you gain a +1 status bonus to AC and saving throws and gain resistance 2 to damage. The tattoo casts [[Spells/Air Bubble|Air Bubble]].
+**Effect** Until the end of the current turn, against the triggering effect, you gain a +1 status bonus to AC and saving throws and gain resistance 2 to damage. The tattoo casts [[Air Bubble|Air Bubble]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

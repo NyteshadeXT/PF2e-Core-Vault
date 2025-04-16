@@ -34,13 +34,13 @@ This twisted and grim-looking staff is adorned with hideous skull and bone motif
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Void Warp|Void Warp]]
-*   **1st** [[Spells/Grim Tendrils|Grim Tendrils]], [[Spells/Summon Undead|Summon Undead]]
-*   **2nd** [[Spells/Peaceful Rest|Peaceful Rest]], [[Spells/Summon Undead|Summon Undead]]
-*   **3rd** [[Spells/Summon Undead|Summon Undead]], [[Spells/Vampiric Feast|Vampiric Feast]]
-*   **4th** [[Spells/Summon Undead|Summon Undead]], [[Spells/Vision of Death|Vision of Death]]
-*   **5th** [[Spells/Invoke Spirits|Invoke Spirits]], [[Spells/Peaceful Rest|Peaceful Rest]], [[Spells/Summon Undead|Summon Undead]]
-*   **6th** [[Spells/Summon Undead|Summon Undead]], [[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]
+*   **Cantrip** [[Void Warp|Void Warp]]
+*   **1st** [[Grim Tendrils|Grim Tendrils]], [[Summon Undead|Summon Undead]]
+*   **2nd** [[Peaceful Rest|Peaceful Rest]], [[Summon Undead|Summon Undead]]
+*   **3rd** [[Summon Undead|Summon Undead]], [[Vampiric Feast|Vampiric Feast]]
+*   **4th** [[Summon Undead|Summon Undead]], [[Vision of Death|Vision of Death]]
+*   **5th** [[Invoke Spirits|Invoke Spirits]], [[Peaceful Rest|Peaceful Rest]], [[Summon Undead|Summon Undead]]
+*   **6th** [[Summon Undead|Summon Undead]], [[Vampiric Exsanguination|Vampiric Exsanguination]]
 
 **Craft Requirements** Supply one casting of all listed ranks of all listed spells.
 

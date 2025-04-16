@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You can transform into an elemental. Once per day, you can cast [[Spells/Elemental Form|Elemental Form]] as a 7th-rank primal innate spell, but you can only choose the air elemental form.
+You can transform into an elemental. Once per day, you can cast [[Elemental Form|Elemental Form]] as a 7th-rank primal innate spell, but you can only choose the air elemental form.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

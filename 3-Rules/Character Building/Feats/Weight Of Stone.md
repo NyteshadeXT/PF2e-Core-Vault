@@ -16,7 +16,7 @@ license: OGL
 ---
 # Weight Of Stone `pf2:3`
 ## Feat 6
-### [[3-Rules/trait_reference/earth]][[impulse]][[kineticist]][[overflow]][[primal]]
+### [[3-Rules/trait_reference/E/earth]][[impulse]][[kineticist]][[overflow]][[primal]]
 
 **Category** class; 
 
@@ -31,7 +31,7 @@ A packed cloud of thundering boulders descends from the sky, beating down everyo
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is pushed downward 40 feet without taking falling damage. If it reaches the bottom of the cylinder or the ground, the push ends. If the creature is pushed to the ground, it can't Fly, [[Spells/Levitate|Levitate]], or otherwise leave the ground for 1 round.
+**Failure** The creature takes full damage and is pushed downward 40 feet without taking falling damage. If it reaches the bottom of the cylinder or the ground, the push ends. If the creature is pushed to the ground, it can't Fly, [[Levitate|Levitate]], or otherwise leave the ground for 1 round.
 
 **Critical Failure** As failure, but double damage and the distance the creature is pushed is 80 feet.
 

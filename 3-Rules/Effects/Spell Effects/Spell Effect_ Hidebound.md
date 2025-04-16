@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Hidebound|Hidebound]]
+Granted by [[Hidebound|Hidebound]]
 
 The target gains resistance to physical damage, except adamantine, until the beginning of its next turn.
 

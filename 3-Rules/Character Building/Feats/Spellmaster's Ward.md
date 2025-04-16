@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Spellmaster Dedication
 * * *
-You can create a number of powerful shielding runes that bolster your defenses against damaging spells by absorbing the worst of the energy to keep you safe. You gain the [[Spells/Spellmaster's Ward|Spellmaster's Ward]] focus spell. Increase the number of Focus Points in your focus pool by 1.
+You can create a number of powerful shielding runes that bolster your defenses against damaging spells by absorbing the worst of the energy to keep you safe. You gain the [[3-Rules/Character Building/Spells/S/Spellmaster's Ward|Spellmaster's Ward]] focus spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

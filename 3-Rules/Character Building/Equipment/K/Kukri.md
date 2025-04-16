@@ -15,7 +15,7 @@ license: ORC
 ---
 # Kukri
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[finesse]][[trip]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[finesse]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

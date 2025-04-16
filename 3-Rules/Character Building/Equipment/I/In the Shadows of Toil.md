@@ -11,7 +11,7 @@ license: OGL
 ---
 # In the Shadows of Toil
 ## Item 8
-### [unique](unique "Unique Rarity Trait")[[grimoire]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[grimoire]][[magical]]
 
 
 **Price** 500 gp; 

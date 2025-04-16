@@ -12,7 +12,7 @@ license: OGL
 ---
 # Jolt Coil (Major)
 ## Item 12
-### [[3-Rules/trait_reference/electricity]][[magical]][[spellheart]]
+### [[3-Rules/Trait Reference/E/electricity]][[magical]][[spellheart]]
 
 
 **Price** 1750 gp; 
@@ -34,7 +34,7 @@ DC 29 Reflex check
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Electric Arc|Electric Arc]].
+**Effect** You cast [[Electric Arc|Electric Arc]].
 
 * * *
 
@@ -42,7 +42,7 @@ DC 29 Reflex check
 
 **Frequency** once per day
 
-**Effect** You cast 4th-rank [[Spells/Lightning Bolt|Lightning Bolt]].
+**Effect** You cast 4th-rank [[Lightning Bolt|Lightning Bolt]].
 
 * * *
 
@@ -50,7 +50,7 @@ DC 29 Reflex check
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Draw the Lightning|Draw the Lightning]].
+**Effect** You cast [[Draw the Lightning|Draw the Lightning]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

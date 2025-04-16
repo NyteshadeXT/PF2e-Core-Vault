@@ -11,7 +11,7 @@ license: OGL
 ---
 # Mountain to the Sky
 ## Item 16
-### [unique](unique "Unique Rarity Trait")[[magical]][[structure]]
+### [unique](unique.md "Unique Rarity Trait")[[magical]][[structure]]
 
 
 **Price** 10000 gp; 

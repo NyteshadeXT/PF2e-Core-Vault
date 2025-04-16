@@ -14,7 +14,7 @@ license: OGL
 ---
 # Flourishing Finish `pf2:1`
 ## Feat 12
-### [[archetype]][[concentrate]][[emotion]][[3-Rules/trait_reference/mental]]
+### [[archetype]][[concentrate]][[emotion]][[3-Rules/trait_reference/M/mental]]
 
 **Category** class; 
 

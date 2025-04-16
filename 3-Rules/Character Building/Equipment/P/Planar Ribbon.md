@@ -10,7 +10,7 @@ license: OGL
 ---
 # Planar Ribbon
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[occult]]
+### [unique](unique.md "Unique Rarity Trait")[[occult]]
 
 
 **Price** 60000 gp; 
@@ -27,7 +27,7 @@ By twisting and twirling this ordinary-looking leather ribbon, you can temporari
 
 **Effect** The ribbon spins and swirls, creating a circular loop in the air through which you can spy on a creature on another plane.
 
-This has the effects of a [[Spells/Scrying|Scrying]] spell (DC 40) against the creature but functions more as a mundane -albeit interplanar-window; a similar loop appears before the target, and for the duration, both sides can clearly see and hear each other through the created portal, but nothing can pass through.
+This has the effects of a [[3-Rules/Character Building/Spells/S/Scrying|Scrying]] spell (DC 40) against the creature but functions more as a mundane -albeit interplanar-window; a similar loop appears before the target, and for the duration, both sides can clearly see and hear each other through the created portal, but nothing can pass through.
 
 You can Sustain the Activation to gain the effects of Sustaining the Spell. This activation has the scrying trait.
 

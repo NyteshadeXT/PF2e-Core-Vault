@@ -26,17 +26,17 @@ WATER
 
 **Path** Magic; Choose when you first imbue the weapon for the granted spells to be either arcane or primal.
 
-*   **2nd** The weapon can cast _[[Spells/Spout|spout]]_ as a cantrip, heightened to half the item's level rounded up.
-*   **4th** The weapon can cast _[[Spells/Hydraulic Push|hydraulic push]]_ once per day.
+*   **2nd** The weapon can cast _[[Spout|spout]]_ as a cantrip, heightened to half the item's level rounded up.
+*   **4th** The weapon can cast _[[Hydraulic Push|hydraulic push]]_ once per day.
 *   **6th** The weapon's _hydraulic push_ heightens to 2nd level.
     
-*   **8th** The weapon can cast _[[Spells/Aqueous Orb|aqueous orb]]_ once per day.
+*   **8th** The weapon can cast _[[Aqueous Orb|aqueous orb]]_ once per day.
 *   **10th** Strikes with the weapon deal 1 additional bludgeoning damage from a crashing wave of water; this additional damage has the water trait.
-*   **12th** The weapon's _aqueous orb_ and _hydraulic push_ heighten to 4th level and the weapon can cast _[[Spells/Hydraulic Torrent|hydraulic torrent]]_ once per day.
+*   **12th** The weapon's _aqueous orb_ and _hydraulic push_ heighten to 4th level and the weapon can cast _[[Hydraulic Torrent|hydraulic torrent]]_ once per day.
 *   **14th** The additional bludgeoning damage increases to 1d4.
 *   **16th** The weapon's _aqueous orb_, _hydraulic push_, and _hydraulic torrent_ heighten to 6th level.
 *   **18th** The additional bludgeoning damage increases to 1d6.
-*   **20th** The weapon can cast 9th-level _[[Spells/Desiccate|horrid wilting]]_ once per day.
+*   **20th** The weapon can cast 9th-level _[[Desiccate|horrid wilting]]_ once per day.
 
 * * *
 

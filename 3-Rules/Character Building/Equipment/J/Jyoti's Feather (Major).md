@@ -33,7 +33,7 @@ A _jyoti's feather_ is a shimmering red and gold feather, seeming almost metalli
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Stabilize|Stabilize]].
+**Effect** You cast [[Stabilize|Stabilize]].
 
 * * *
 
@@ -41,7 +41,7 @@ A _jyoti's feather_ is a shimmering red and gold feather, seeming almost metalli
 
 **Frequency** once per day
 
-**Effect** You cast 6th-rank [[Spells/Healing Well|Healing Well]].
+**Effect** You cast 6th-rank [[Healing Well|Healing Well]].
 
 * * *
 
@@ -49,7 +49,7 @@ A _jyoti's feather_ is a shimmering red and gold feather, seeming almost metalli
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Field of Life|Field of Life]].
+**Effect** You cast [[Field of Life|Field of Life]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Vampire, Vrykolakas Master) Children of the Night
 
-### [[divine]][[3-Rules/trait_reference/mental]]
+### [[divine]][[3-Rules/trait_reference/M/mental]]
 
 **Category** interaction; 
 

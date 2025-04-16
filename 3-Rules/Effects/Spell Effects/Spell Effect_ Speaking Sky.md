@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Speaking Sky|Speaking Sky]]
+Granted by [[3-Rules/Character Building/Spells/S/Speaking Sky|Speaking Sky]]
 
 The air speaks to you. You can precisely sense any motion within 60 feet through vibration and air movement.
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Competitive Edge|Competitive Edge]].
+Granted by [[Competitive Edge|Competitive Edge]].
 
 You gain a +1 status bonus to attack rolls and skill checks. If an enemy within 20 feet critically succeeds at an attack roll or skill check, your status bonus increases to +3 attack rolls or that specific skill check (whichever the foe critically succeeded at) for 1 round.
 

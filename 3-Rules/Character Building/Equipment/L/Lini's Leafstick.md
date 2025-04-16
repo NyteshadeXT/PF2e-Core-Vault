@@ -12,7 +12,7 @@ license: OGL
 ---
 # Lini's Leafstick
 ## Item 15
-### [unique](unique "Unique Rarity Trait")[[magical]][[plant]][[3-Rules/Character Building/Equipment/S/Staff]]
+### [unique](unique.md "Unique Rarity Trait")[[magical]][[plant]][[3-Rules/Character Building/Equipment/S/Staff]]
 
 
 **Price** 6500 gp; 
@@ -29,13 +29,13 @@ Moss and winding vines give this gnarled staff of wild wood a vibrant green ting
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Tangle Vine|Tangle Vine]]
-*   **1st** [[Spells/Protector Tree|Protector Tree]], [[Spells/Shillelagh|Shillelagh]]
-*   **2nd** [[Spells/Entangling Flora|Entangling Flora]], [[Spells/Shape Wood|Shape Wood]]
-*   **3rd** [[Spells/One with Plants|One with Plants]], [[Spells/Wall of Thorns|Wall of Thorns]]
-*   **4th** [[Spells/Oaken Resilience|Oaken Resilience]], [[Spells/Speak with Plants|Speak with Plants]]
-*   **5th** [[Spells/Plant Form|Plant Form]], [[Spells/Wall of Thorns|Wall of Thorns]]
-*   **6th** [[Spells/Nature's Reprisal|Nature's Reprisal]], [[Spells/Plant Form|Plant Form]]
+*   **Cantrip** [[Tangle Vine|Tangle Vine]]
+*   **1st** [[Protector Tree|Protector Tree]], [[Shillelagh|Shillelagh]]
+*   **2nd** [[Entangling Flora|Entangling Flora]], [[Shape Wood|Shape Wood]]
+*   **3rd** [[One with Plants|One with Plants]], [[Wall of Thorns|Wall of Thorns]]
+*   **4th** [[Oaken Resilience|Oaken Resilience]], [[Speak with Plants|Speak with Plants]]
+*   **5th** [[Plant Form|Plant Form]], [[Wall of Thorns|Wall of Thorns]]
+*   **6th** [[Nature's Reprisal|Nature's Reprisal]], [[Plant Form|Plant Form]]
 
 * * *
 

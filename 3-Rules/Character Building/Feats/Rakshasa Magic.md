@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Beastbrood
 * * *
-You remember the secrets of your rakshasa forebears and know how to apply those memories to get results. You can cast [[Spells/Humanoid Form|Humanoid Form]] and [[Spells/Illusory Creature|Illusory Creature]] once per day each as 2nd-rank divine innate spells.
+You remember the secrets of your rakshasa forebears and know how to apply those memories to get results. You can cast [[Humanoid Form|Humanoid Form]] and [[Illusory Creature|Illusory Creature]] once per day each as 2nd-rank divine innate spells.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

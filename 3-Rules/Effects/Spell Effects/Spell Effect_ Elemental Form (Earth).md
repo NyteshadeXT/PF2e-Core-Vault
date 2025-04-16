@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Elemental Form|Elemental Form]]
+Granted by [[Elemental Form|Elemental Form]]
 
 You call upon the power of the planes to transform into a Medium elemental battle form. While in this form, you gain the earth trait and the elemental trait. You have hands in this battle form and can take manipulate actions. You can Dismiss the spell.
 

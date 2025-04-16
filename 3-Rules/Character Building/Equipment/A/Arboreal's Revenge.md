@@ -31,7 +31,7 @@ This walnut and brass _+1 striking blunderbuss_ has a natural look, with wood wo
 
 _Arboreal's revenge_ is a haunted firearm constructed with wood hewn from a living arboreal, slaying the arboreal and trapping its spirit in the firearm. Perhaps a patient wielder could one day put the arboreal's spirit to rest, or at least come to terms with it, abating the drawbacks of the weapon while keeping its advantages.
 
-When you first fire _arboreal's revenge_, the blunderbuss fuses with you, after which it's almost impossible to remove it from your possession with a [[Spells/Cleanse Affliction|Cleanse Affliction]] or similar effect, like many cursed items. You gain weakness 5 to fire and the flat check for you to recover from persistent fire damage increases from 15 to 17, or from 10 to 12 if you receive appropriate help.
+When you first fire _arboreal's revenge_, the blunderbuss fuses with you, after which it's almost impossible to remove it from your possession with a [[Cleanse Affliction|Cleanse Affliction]] or similar effect, like many cursed items. You gain weakness 5 to fire and the flat check for you to recover from persistent fire damage increases from 15 to 17, or from 10 to 12 if you receive appropriate help.
 
 Whenever you wield _arboreal's revenge_, the arboreal spirit bound to the blunderbuss attempts to overtake you. The wood handgrip sprouts roots which grow around your hand, binding both of your hands to the firearm. You gain a +4 circumstance bonus to your Reflex DC when defending against checks to [[Actions/Disarm|Disarm]] you. However, you can't Release your grip on the blunderbuss until you forcibly tear off the roots, though they do allow you to move your hands enough (and only enough) to reload and fire the blunderbuss. Tearing off the roots takes 1 minute.
 
@@ -57,7 +57,7 @@ The arboreal haunting the firearm can use the following two effects whenever it 
 
 * * *
 
-**Effect** You cast [[Spells/Oaken Resilience|Oaken Resilience]] from the blunderbuss as a 2nd- level primal spell. However, the weakness to fire imposed by barkskin is cumulative with the weakness to fire imposed by this weapon's curse, for a total of weakness 8 to fire.
+**Effect** You cast [[Oaken Resilience|Oaken Resilience]] from the blunderbuss as a 2nd- level primal spell. However, the weakness to fire imposed by barkskin is cumulative with the weakness to fire imposed by this weapon's curse, for a total of weakness 8 to fire.
 
 [[Spell Effects/Spell Effect_ Barkskin (Arboreal's Revenge)|Spell Effect: Barkskin (Arboreal's Revenge)]]
 

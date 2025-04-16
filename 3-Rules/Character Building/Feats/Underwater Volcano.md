@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You can cast [[Spells/Volcanic Eruption|Volcanic Eruption]] as a 7th-rank primal innate spell once per day, except that you can only evoke the volcano on the floor of a body of water, and the effects that normally happen to flying creatures happen to swimming creatures instead.
+You can cast [[Volcanic Eruption|Volcanic Eruption]] as a 7th-rank primal innate spell once per day, except that you can only evoke the volcano on the floor of a body of water, and the effects that normally happen to flying creatures happen to swimming creatures instead.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

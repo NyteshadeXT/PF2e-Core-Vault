@@ -11,7 +11,7 @@ license: ORC
 ---
 # Martyr's Shield
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[divine]]
+### [rare](rare.md "Rare Rarity Trait")[[divine]]
 
 
 **Price** 0 gp; 

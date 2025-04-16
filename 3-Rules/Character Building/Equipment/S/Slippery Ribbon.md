@@ -13,7 +13,7 @@ license: OGL
 ---
 # Slippery Ribbon
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 12 gp; 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Perfume Cloud `pf2:2`
 ## Feat 9
-### [[disease]][[ghoran]]
+### [[3-Rules/trait_reference/D/disease]][[ghoran]]
 
 **Category** ancestry; 
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Tetsubo
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[razing]][[shove]][[sweep]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[razing]][[3-Rules/trait_reference/S/shove]][[sweep]]
 
 |  |  |
 | -- | -- |

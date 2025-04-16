@@ -45,11 +45,11 @@ This staff is made from the femur of a gold dragon wrapped in the multicolored s
 
 **Effect** You expend a number of charges from the staff to cast a spell from this list.
 
-*   **2nd** [[Spells/Illusory Creature|Illusory Creature (Dragons only)]]
-*   **4th** [[Spells/Reflective Scales|Reflective Scales]]
-*   **5th** [[Spells/Summon Dragon|Summon Dragon]]
-*   **6th** [[Spells/Dragon Form|Dragon Form]], [[Spells/Summon Dragon|Summon Dragon]]
-*   **7th** [[Spells/Summon Dragon|Summon Dragon]]
+*   **2nd** [[Illusory Creature|Illusory Creature (Dragons only)]]
+*   **4th** [[Reflective Scales|Reflective Scales]]
+*   **5th** [[Summon Dragon|Summon Dragon]]
+*   **6th** [[Dragon Form|Dragon Form]], [[Summon Dragon|Summon Dragon]]
+*   **7th** [[Summon Dragon|Summon Dragon]]
 
 *Source: Pathfinder #173: Doorway to the Red Star*
 *OGL*

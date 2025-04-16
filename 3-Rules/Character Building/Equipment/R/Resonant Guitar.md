@@ -13,7 +13,7 @@ license: OGL
 ---
 # Resonant Guitar
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[metal]][[3-Rules/trait_reference/sonic]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[metal]][[3-Rules/Trait Reference/S/sonic]]
 
 
 **Price** 1850 gp; 
@@ -22,7 +22,7 @@ license: OGL
 
 Every part of this dark, shining guitar, from the strings to the soundboard, is constructed of metal. When the strings are strummed, the gilding on the guitar ripples like a liquid. A _resonant guitar_ is a virtuoso handheld musical instrument that grants a +2 item bonus to Performance checks attempted while using it.
 
-A _resonant guitar_ is a planar key for [[Spells/Interplanar Teleport|Interplanar Teleport]] and similar magic to travel to the Plane of Metal. When using it in this way, you can play a tune inspired by your destination to make it more likely to arrive where you intend to be, appearing 1d6×25 miles from your intended destination instead of 1d10×25 miles away.
+A _resonant guitar_ is a planar key for [[Interplanar Teleport|Interplanar Teleport]] and similar magic to travel to the Plane of Metal. When using it in this way, you can play a tune inspired by your destination to make it more likely to arrive where you intend to be, appearing 1d6×25 miles from your intended destination instead of 1d10×25 miles away.
 
 * * *
 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Boreal Staff
 ## Item 8
-### [[magical|Magical]][[3-Rules/trait_reference/monk|Monk]] [[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
+### [[magical|Magical]][[monk|Monk]] [[3-Rules/Trait Reference/S/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -42,10 +42,10 @@ A _boreal staff_ is chiseled from a cylinder of ice to form a spiky, jagged icic
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Ray of Frost|Ray of Frost]]
-*   **1st** [[Spells/Chilling Spray|Chilling Spray]], [[Spells/Snowball|Snowball]]
-*   **2nd** [[Spells/Chilling Spray|Chilling Spray]], [[Spells/Snowball|Snowball]]
-*   **3rd** [[Spells/Chilling Spray|Chilling Spray]], [[Spells/Elemental Absorption|Elemental Absorption]] (water only)
+*   **Cantrip** [[Ray of Frost|Ray of Frost]]
+*   **1st** [[Chilling Spray|Chilling Spray]], [[Snowball|Snowball]]
+*   **2nd** [[Chilling Spray|Chilling Spray]], [[Snowball|Snowball]]
+*   **3rd** [[Chilling Spray|Chilling Spray]], [[Elemental Absorption|Elemental Absorption]] (water only)
 
 * * *
 

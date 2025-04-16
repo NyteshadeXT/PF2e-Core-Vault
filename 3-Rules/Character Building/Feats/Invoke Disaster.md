@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Wind Caller
 * * *
-You can invoke nature's fury upon your foes. You gain the [[Spells/Storm Lord|Storm Lord]] order spell.
+You can invoke nature's fury upon your foes. You gain the [[3-Rules/Character Building/Spells/S/Storm Lord|Storm Lord]] order spell.
 
 *Source: Pathfinder Player Core*
 *ORC*

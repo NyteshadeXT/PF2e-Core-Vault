@@ -9,7 +9,7 @@ license: OGL
 ---
 # Scroll Belt
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 15 gp; 

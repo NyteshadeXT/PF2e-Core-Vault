@@ -14,7 +14,7 @@ license: ORC
 ---
 # Tenacious Endurance
 ## Feat 6
-### [[archetype]][[emotion]][[3-Rules/trait_reference/mental]]
+### [[archetype]][[emotion]][[3-Rules/trait_reference/M/mental]]
 
 **Category** class; 
 

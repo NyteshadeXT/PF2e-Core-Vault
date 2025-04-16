@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You tear the veil between the Universe and its shadow. You can cast [[Spells/Interplanar Teleport|Interplanar Teleport]] twice per week as an occult innate spell that can only target yourself; you can travel only to the Universe or Netherworld, and your body serves as the focus component.
+You tear the veil between the Universe and its shadow. You can cast [[Interplanar Teleport|Interplanar Teleport]] twice per week as an occult innate spell that can only target yourself; you can travel only to the Universe or Netherworld, and your body serves as the focus component.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

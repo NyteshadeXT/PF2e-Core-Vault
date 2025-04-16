@@ -28,7 +28,7 @@ This simple scarf is designed for wrapping around the head and comes with a gemm
 
 **Frequency** once per day
 
-**Effect** When you are considering a course of action, you get a gut feeling about whether it's a good idea. You gain the effects of an [[Spells/Augury|Augury]] spell, except that you receive the result from your own instincts rather than an external source.
+**Effect** When you are considering a course of action, you get a gut feeling about whether it's a good idea. You gain the effects of an [[Augury|Augury]] spell, except that you receive the result from your own instincts rather than an external source.
 
 * * *
 

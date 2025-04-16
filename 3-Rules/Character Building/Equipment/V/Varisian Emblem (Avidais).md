@@ -29,7 +29,7 @@ Each description lists the school of each Varisian emblem, and the tattoo has th
 
 * * *
 
-**Effect** The tattoo casts [[Spells/Vanishing Tracks|Vanishing Tracks]].
+**Effect** The tattoo casts [[Vanishing Tracks|Vanishing Tracks]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fossil Fragment (Eurypterid Paddle)
 ## Item 12
-### [[3-Rules/trait_reference/earth]][[magical|Magical]]
+### [[3-Rules/Trait Reference/E/earth]][[magical|Magical]]
 
 
 **Price** 1700 gp; 
@@ -29,7 +29,7 @@ A fossil fragment is a piece of a fossil creature, typically a smaller bone from
 
 * * *
 
-The tip of an oar-like limb specialized for swimming becomes a [[Bestiary 3/Spiny Eurypterid|Spiny Eurypterid]] when activated. It can be called upon once a week for up to 24 hours. The eurypterid can serve as a mount for a creature one size smaller than it or smaller, and when it does, it confers the ability to breathe both air and water upon its rider.
+The tip of an oar-like limb specialized for swimming becomes a [[Spiny Eurypterid|Spiny Eurypterid]] when activated. It can be called upon once a week for up to 24 hours. The eurypterid can serve as a mount for a creature one size smaller than it or smaller, and when it does, it confers the ability to breathe both air and water upon its rider.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

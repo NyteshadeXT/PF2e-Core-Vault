@@ -12,7 +12,7 @@ license: OGL
 ---
 # Server's Stew
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]]
 
 **Category** other; 
 **Price** 60 gp; 

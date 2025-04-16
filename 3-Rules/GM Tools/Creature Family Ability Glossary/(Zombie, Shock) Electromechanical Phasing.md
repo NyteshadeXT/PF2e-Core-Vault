@@ -11,7 +11,7 @@ license: OGL
 ---
 # (Zombie, Shock) Electromechanical Phasing `pf2:2`
 
-### [[3-Rules/trait_reference/electricity]]
+### [[3-Rules/trait_reference/E/electricity]]
 
 **Category** offensive; 
 
@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-**Effect** The shock zombie activates its electromechanical components and begins phasing in and out of reality. The shock zombie casts [[Spells/Flicker|Flicker]] as a 4th-rank divine innate spell.
+**Effect** The shock zombie activates its electromechanical components and begins phasing in and out of reality. The shock zombie casts [[3-Rules/Character Building/Spells/F/Flicker|Flicker]] as a 4th-rank divine innate spell.
 
 *Source: Pathfinder #180: The Smoking Gun*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Angel Form|Angel Form]]
+Granted by [[Angel Form|Angel Form]]
 
 Invoking the celestial realms, you transform into a Small angel battle form. While in this form, you gain the angel and celestial traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
 

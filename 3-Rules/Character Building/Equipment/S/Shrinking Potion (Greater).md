@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-This fungus-flavored potion conveys the effects of the [[Spells/Shrink|Shrink]] spell to make you and all your gear smaller. This potion has no onset, lasts for 1 hour, and grants the effects of a 4th-rank _shrink_ spell. In addition, you gain a +2 item bonus to Stealth checks while shrunken.
+This fungus-flavored potion conveys the effects of the [[Shrink|Shrink]] spell to make you and all your gear smaller. This potion has no onset, lasts for 1 hour, and grants the effects of a 4th-rank _shrink_ spell. In addition, you gain a +2 item bonus to Stealth checks while shrunken.
 
 [[Equipment Effects/Effect_ Shrinking Potion (Greater)|Effect: Shrinking Potion (Greater)]]
 

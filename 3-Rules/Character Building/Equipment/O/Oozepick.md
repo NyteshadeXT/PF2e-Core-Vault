@@ -12,7 +12,7 @@ license: OGL
 ---
 # Oozepick
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** other; 
 **Price** 20 gp; 

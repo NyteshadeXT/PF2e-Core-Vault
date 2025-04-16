@@ -13,7 +13,7 @@ license: OGL
 ---
 # Habu's Cudgel
 ## Item 8
-### [unique](unique "Unique Rarity Trait")[[magical]][[thrown-10]]
+### [unique](unique.md "Unique Rarity Trait")[[magical]][[thrown-10]]
 
 |  |  |
 | -- | -- |
@@ -34,7 +34,7 @@ Long associated with a notorious crime boss in Nantambu, this stout _+1 striking
 
 * * *
 
-**Effect** You gesture at a square within 40 feet with _Habu's Cudgel_. The club causes a frightful wail to unleash from that square and casts [[Spells/Fear|Fear]] (DC 24 Will check) targeting the creature in that square and all adjacent creatures.
+**Effect** You gesture at a square within 40 feet with _Habu's Cudgel_. The club causes a frightful wail to unleash from that square and casts [[3-Rules/Character Building/Spells/F/Fear|Fear]] (DC 24 Will check) targeting the creature in that square and all adjacent creatures.
 
 *Source: Pathfinder #170: Spoken on the Song Wind*
 *OGL*

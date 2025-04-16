@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You've studied the waves, and they obey your will as extensions of your own fin. You can cast [[Spells/Aqueous Orb|Aqueous Orb]] and [[Spells/Control Water|Control Water]] as 5th-rank primal innate spells, each once per day.
+You've studied the waves, and they obey your will as extensions of your own fin. You can cast [[Aqueous Orb|Aqueous Orb]] and [[Control Water|Control Water]] as 5th-rank primal innate spells, each once per day.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

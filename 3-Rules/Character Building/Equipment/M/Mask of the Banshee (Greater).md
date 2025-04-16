@@ -28,7 +28,7 @@ This ice-blue half-mask is adorned with a wicked silver grin that covers the wea
 
 * * *
 
-**Effect** The mask casts a 9th-rank [[Spells/Wails of the Damned|Wails of the Damned]]
+**Effect** The mask casts a 9th-rank [[Wails of the Damned|Wails of the Damned]]
 
 Each living creature in a 40-foot emanation takes 8d10 void damage and must attempt a DC 41 Fortitude check save.
 
@@ -42,7 +42,7 @@ Each living creature in a 40-foot emanation takes 8d10 void damage and must atte
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Wails of the Damned|Wails of the Damned]].
+**Craft Requirements** Supply a casting of [[Wails of the Damned|Wails of the Damned]].
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

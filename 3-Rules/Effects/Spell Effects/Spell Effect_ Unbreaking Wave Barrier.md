@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Unbreaking Wave Barrier|Unbreaking Wave Barrier]]
+Granted by [[Unbreaking Wave Barrier|Unbreaking Wave Barrier]]
 
 You gain a +1 status bonus to AC.
 

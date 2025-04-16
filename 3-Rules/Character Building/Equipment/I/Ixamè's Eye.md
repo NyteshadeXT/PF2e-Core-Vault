@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ixamè's Eye
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 150 gp; 

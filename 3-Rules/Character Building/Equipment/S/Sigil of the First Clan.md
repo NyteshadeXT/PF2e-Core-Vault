@@ -11,7 +11,7 @@ license: OGL
 ---
 # Sigil of the First Clan
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 430 gp; 
@@ -28,7 +28,7 @@ This intricate gold and adamantine clasp depicts the sigil of Clan Taargick, hou
 
 * * *
 
-**Effect** You wield the authority of Clan Taargick like a gavel, enforcing your word as law. You cast 1st-rank [[Spells/Command|Command]] with a DC of 24.
+**Effect** You wield the authority of Clan Taargick like a gavel, enforcing your word as law. You cast 1st-rank [[Command|Command]] with a DC of 24.
 
 *Source: Pathfinder #195: Heavy is the Crown*
 *OGL*

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Orm Choker
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 950 gp; 

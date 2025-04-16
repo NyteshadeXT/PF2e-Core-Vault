@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Archaeologist Dedication
 * * *
-While study is key to your success, a bit of magic can be a helpful aid in discovering the secrets of the past. You can cast [[Spells/Detect Magic|Detect Magic]], [[Spells/Guidance|Guidance]], and [[Spells/Read Aura|Read Aura]] as occult innate cantrips.
+While study is key to your success, a bit of magic can be a helpful aid in discovering the secrets of the past. You can cast [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]], [[Guidance|Guidance]], and [[Read Aura|Read Aura]] as occult innate cantrips.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

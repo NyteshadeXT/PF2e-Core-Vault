@@ -35,7 +35,7 @@ Ketephys's religious symbol, a hawk rising over a silver crescent, is painted on
 
 * * *
 
-**Effect** Ketephys's wrath descends upon your foes. The shield casts good [[Spells/Divine Wrath|Divine Wrath]] with a DC of 27.
+**Effect** Ketephys's wrath descends upon your foes. The shield casts good [[Divine Wrath|Divine Wrath]] with a DC of 27.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

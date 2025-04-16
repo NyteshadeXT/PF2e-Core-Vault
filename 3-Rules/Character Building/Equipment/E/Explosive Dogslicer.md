@@ -16,7 +16,7 @@ license: OGL
 ---
 # Explosive Dogslicer
 ## Item 1
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[backstabber]][[combination]][[fatal-d10]][[3-Rules/trait_reference/goblin]][[scatter-5]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[backstabber]][[combination]][[fatal-d10]][[goblin]][[scatter-5]]
 
 |  |  |
 | -- | -- |

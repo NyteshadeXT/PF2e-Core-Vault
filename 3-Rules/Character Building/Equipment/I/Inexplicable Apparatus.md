@@ -31,7 +31,7 @@ If you succeed at your Crafting check and spend more downtime to continue work o
 
 * * *
 
-**Effect** You command the apparatus to magically jury-rig an item you hold or that's within 5 feet of you. The item is repaired, as a 3rd-rank [[Spells/Mending|Mending]] spell. This lasts for 10 minutes, after which the item returns to its previous state of disrepair unless you've Repaired it before then.
+**Effect** You command the apparatus to magically jury-rig an item you hold or that's within 5 feet of you. The item is repaired, as a 3rd-rank [[Mending|Mending]] spell. This lasts for 10 minutes, after which the item returns to its previous state of disrepair unless you've Repaired it before then.
 
 *Source: Pathfinder GM Core*
 *ORC*

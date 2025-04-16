@@ -35,9 +35,9 @@ This crooked staff is made from twisting acacia wood and has a sphere of rough s
 
 * * *
 
-*   **Cantrip** [[Spells/Know the Way|Know the Way]]
-*   **1st** [[Spells/Create Water|Create Water]], [[Spells/Vanishing Tracks|Vanishing Tracks]]
-*   **2nd** [[Spells/Environmental Endurance|Environmental Endurance]], [[Spells/Enhance Victuals|Enhance Victuals]]
+*   **Cantrip** [[Know the Way|Know the Way]]
+*   **1st** [[Create Water|Create Water]], [[Vanishing Tracks|Vanishing Tracks]]
+*   **2nd** [[Environmental Endurance|Environmental Endurance]], [[Enhance Victuals|Enhance Victuals]]
 
 * * *
 

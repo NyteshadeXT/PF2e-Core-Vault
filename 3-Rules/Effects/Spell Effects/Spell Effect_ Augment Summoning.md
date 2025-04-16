@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by casting [[Spells/Fortify Summoning|Fortify Summoning]]
+Granted by casting [[Fortify Summoning|Fortify Summoning]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

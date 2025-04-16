@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted from willingly receiving [[Spells/Touch of Corruption|Touch of Corruption]].
+Granted from willingly receiving [[Touch of Corruption|Touch of Corruption]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

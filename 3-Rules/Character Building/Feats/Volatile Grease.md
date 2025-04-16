@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Spell Trickster Dedication; ability to cast grease
 * * *
-When you cast [[Spells/Grease|Grease]], you can modify its target to be 1 creature. If you do, replace the spell's standard effects with the following: You splash the target with combustible grease. The target must attempt a Reflex check save.
+When you cast [[Grease|Grease]], you can modify its target to be 1 creature. If you do, replace the spell's standard effects with the following: You splash the target with combustible grease. The target must attempt a Reflex check save.
 
 * * *
 

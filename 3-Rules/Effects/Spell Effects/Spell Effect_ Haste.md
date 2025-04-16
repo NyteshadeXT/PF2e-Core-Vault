@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Haste|Haste]]
+Granted by [[Haste|Haste]]
 
 The target gains the quickened condition and can use the extra action each round only for Strike and Stride actions.
 

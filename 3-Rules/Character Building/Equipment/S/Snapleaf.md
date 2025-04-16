@@ -29,7 +29,7 @@ license: OGL
 
 This small, crystalline carving takes the shape of a tree leaf and attaches to armor or clothing with a simple strap.
 
-When you activate the _snapleaf_, you gain the benefits of [[Spells/Gentle Landing|Gentle Landing]] and a 2nd-rank [[Spells/Invisibility|Invisibility]] spell for 1 minute or until you stop falling, whichever comes first.
+When you activate the _snapleaf_, you gain the benefits of [[Gentle Landing|Gentle Landing]] and a 2nd-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] spell for 1 minute or until you stop falling, whichever comes first.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

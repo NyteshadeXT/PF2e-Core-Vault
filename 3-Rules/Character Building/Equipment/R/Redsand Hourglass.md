@@ -11,7 +11,7 @@ license: OGL
 ---
 # Redsand Hourglass
 ## Item 23
-### [unique](unique "Unique Rarity Trait")[[artifact]][[divine]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[divine]]
 
 
 **Price** 0 gp; 
@@ -44,7 +44,7 @@ This platinum hourglass is filled with red sand, is decorated with imagery of ro
 
 * * *
 
-**Effect** You flip the hourglass sideways, pausing time for everyone but yourself. You cast [[Spells/Freeze Time|Freeze Time]].
+**Effect** You flip the hourglass sideways, pausing time for everyone but yourself. You cast [[Freeze Time|Freeze Time]].
 
 **Destruction** The _Redsand Hourglass_ is destroyed if it's used within the Dimension of Time.
 

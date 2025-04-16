@@ -12,7 +12,7 @@ license: OGL
 ---
 # Scion of Domora Dedication
 ## Feat 4
-### [rare](rare "Rare Rarity Trait")[[archetype]][[dedication]]
+### [rare](rare.md "Rare Rarity Trait")[[archetype]][[dedication]]
 
 **Category** class; 
 

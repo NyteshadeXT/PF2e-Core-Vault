@@ -12,7 +12,7 @@ license: OGL
 ---
 # Look But Don't Touch `pf2:2`
 ## Feat 13
-### [[ghoran]][[3-Rules/trait_reference/poison]]
+### [[ghoran]][[3-Rules/trait_reference/P/poison]]
 
 **Category** ancestry; 
 

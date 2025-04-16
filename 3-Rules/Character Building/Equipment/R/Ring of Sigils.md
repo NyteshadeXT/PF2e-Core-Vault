@@ -19,7 +19,7 @@ license: ORC
 **Bulk** 0; **Size** med
 **Usage** wornring
 
-This silver band is carved with the personal sigils of different individuals, adding one to represent you when you invest it. The ring allows you to cast [[Spells/Sigil|Sigil]] as an arcane innate cantrip.
+This silver band is carved with the personal sigils of different individuals, adding one to represent you when you invest it. The ring allows you to cast [[Sigil|Sigil]] as an arcane innate cantrip.
 
 * * *
 

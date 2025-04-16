@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-When you focus your eyes carefully, your gaze can pierce through all obfuscations, even magical ones. When you use True Gaze, you gain the effects of a 6th-rank [[Spells/Truesight|Truesight]] spell, using your Perception modifier for the counteract check.
+When you focus your eyes carefully, your gaze can pierce through all obfuscations, even magical ones. When you use True Gaze, you gain the effects of a 6th-rank [[Truesight|Truesight]] spell, using your Perception modifier for the counteract check.
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

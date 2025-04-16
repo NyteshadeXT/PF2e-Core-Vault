@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-For 1 minute after you drink this fizzy potion, whenever you Leap, you gain the effect of the 1st-rank [[Spells/Jump|Jump]] spell.
+For 1 minute after you drink this fizzy potion, whenever you Leap, you gain the effect of the 1st-rank [[Jump|Jump]] spell.
 
 *Source: Pathfinder GM Core*
 *ORC*

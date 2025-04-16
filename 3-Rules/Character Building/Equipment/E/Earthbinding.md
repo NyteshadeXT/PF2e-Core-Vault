@@ -27,7 +27,7 @@ A weapon with this rune hums when touched to the ground.
 
 * * *
 
-**Effect** The rune casts a DC 20 [[Spells/Earthbind|Earthbind]] spell on the flying creature.
+**Effect** The rune casts a DC 20 [[Earthbind|Earthbind]] spell on the flying creature.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -9,7 +9,7 @@ license: OGL
 ---
 # Plated Duster
 
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 2 gp; 

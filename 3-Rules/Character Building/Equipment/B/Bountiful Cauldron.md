@@ -25,7 +25,7 @@ This mid-sized, silver cauldron is a boon within areas where access to fresh foo
 
 * * *
 
-**Effect** You stir the cauldron, and it casts a 4th-rank [[Spells/Create Food|Create Food]] spell, filling itself with enough delicious vegetable stew to feed 12 Medium creatures.
+**Effect** You stir the cauldron, and it casts a 4th-rank [[Create Food|Create Food]] spell, filling itself with enough delicious vegetable stew to feed 12 Medium creatures.
 
 *Source: Pathfinder #147: Tomorrow Must Burn*
 *OGL*

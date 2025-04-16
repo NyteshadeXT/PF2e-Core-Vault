@@ -15,7 +15,7 @@ license: ORC
 ---
 # Thorn Brush
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[Holy]][[magical]][[versatile-p]]
+### [rare](rare.md "Rare Rarity Trait")[[Holy]][[magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

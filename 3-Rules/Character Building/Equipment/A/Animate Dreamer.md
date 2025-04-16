@@ -17,7 +17,7 @@ license: OGL
 ---
 # Animate Dreamer
 ## Item 15
-### [rare](rare.md "Rare Rarity Trait")[[concussive]][[3-Rules/trait_reference/dwarf]][[intelligent]][[kickback]][[3-Rules/trait_reference/occult|Occult]][[scatter-10]]
+### [rare](rare.md "Rare Rarity Trait")[[concussive]][[dwarf]][[intelligent]][[kickback]][[occult|Occult]][[scatter-10]]
 
 |  |  |
 | -- | -- |
@@ -59,7 +59,7 @@ An _animate dreamer_ is cunning, intelligent, and patient. It urges you to creat
 
 * * *
 
-**Effect** The _animate dreamer_ focuses on a single unattended inanimate object in an area it can see and exerts its will over the object, temporarily levitating it around. The _animate dreamer_ casts [[Spells/Telekinetic Hand|Telekinetic Hand]] as a 5th-rank occult spell.
+**Effect** The _animate dreamer_ focuses on a single unattended inanimate object in an area it can see and exerts its will over the object, temporarily levitating it around. The _animate dreamer_ casts [[Telekinetic Hand|Telekinetic Hand]] as a 5th-rank occult spell.
 
 * * *
 
@@ -69,7 +69,7 @@ An _animate dreamer_ is cunning, intelligent, and patient. It urges you to creat
 
 * * *
 
-**Effect** The _animate dreamer_ attempts to achieve its goal of occupying a body of its own and casts [[Spells/Possession|Possession]] as a 7th-rank spell with a spell DC of 33. The weapon still functions as a +2 greater striking spell-storing scattergun while this effect is active but loses all other special abilities until the spell expires and the _animate dreamer's_ intellect returns to it.
+**Effect** The _animate dreamer_ attempts to achieve its goal of occupying a body of its own and casts [[3-Rules/Character Building/Spells/P/Possession|Possession]] as a 7th-rank spell with a spell DC of 33. The weapon still functions as a +2 greater striking spell-storing scattergun while this effect is active but loses all other special abilities until the spell expires and the _animate dreamer's_ intellect returns to it.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

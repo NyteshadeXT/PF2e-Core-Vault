@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Mantle of the Frozen Heart|Mantle of the Frozen Heart]]
+Granted by [[Mantle of the Frozen Heart|Mantle of the Frozen Heart]]
 
 You surround yourself in a mantle of frigid ice magic, and your skin and armor morph into cold blue ice. Freezing air emanates from your body, sending a chill down anyone's spine who draws too close and leaving a fine dusting of frost in your wake. As a single action, which has the concentrate trait, you can change one of your chosen abilities to a different option from the list.
 

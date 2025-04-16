@@ -27,7 +27,7 @@ These seemingly ordinary rectangular eyeglasses feature clear lenses framed in c
 
 * * *
 
-**Effect** You cast a 3rd-rank [[Spells/Mending|Mending]]spell on an item you touch.
+**Effect** You cast a 3rd-rank [[Mending|Mending]]spell on an item you touch.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

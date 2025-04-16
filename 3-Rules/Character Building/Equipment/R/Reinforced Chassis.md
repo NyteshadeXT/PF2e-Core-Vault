@@ -11,7 +11,7 @@ license: OGL
 ---
 # Reinforced Chassis
 
-### [rare](rare "Rare Rarity Trait")[[comfort]]
+### [rare](rare.md "Rare Rarity Trait")[[comfort]]
 
 **Category** medium; 
 **Price** 0 gp; 

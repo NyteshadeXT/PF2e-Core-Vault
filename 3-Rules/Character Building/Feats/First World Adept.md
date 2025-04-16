@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** at least one primal innate spell
 * * *
-Over time your fey magic has grown stronger. You gain [[Spells/Invisibility|Invisibility]] and [[Spells/Revealing Light|Revealing Light]] as 2nd-rank primal innate spells. You can cast each of these primal innate spells once per day.
+Over time your fey magic has grown stronger. You gain [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] and [[Revealing Light|Revealing Light]] as 2nd-rank primal innate spells. You can cast each of these primal innate spells once per day.
 
 *Source: Pathfinder Player Core*
 *ORC*

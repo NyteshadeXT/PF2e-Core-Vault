@@ -12,14 +12,14 @@ license: OGL
 ---
 # Singing Stone
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/earth]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/E/earth]][[magical]]
 
 
 **Price** 3000 gp; 
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-A _singing stone_ looks like a drinking cup made of polished rock, and it always faintly hums or keens. Anyone who carries the cup for some time senses that it changes its tune depending on the types of rock nearby and that it grows quiet in areas with little stone. A _singing stone_ is a planar key for [[Spells/Interplanar Teleport|Interplanar Teleport]] and similar magic. When it's used this way, you're more likely to arrive where you intend to be, appearing 1d6×25 miles from your intended destination instead of 1d10×25 miles away.
+A _singing stone_ looks like a drinking cup made of polished rock, and it always faintly hums or keens. Anyone who carries the cup for some time senses that it changes its tune depending on the types of rock nearby and that it grows quiet in areas with little stone. A _singing stone_ is a planar key for [[Interplanar Teleport|Interplanar Teleport]] and similar magic. When it's used this way, you're more likely to arrive where you intend to be, appearing 1d6×25 miles from your intended destination instead of 1d10×25 miles away.
 
 **Activate—Stone's Speech** 1 minute (manipulate)
 

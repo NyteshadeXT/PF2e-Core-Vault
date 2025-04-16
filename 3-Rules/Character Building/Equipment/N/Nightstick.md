@@ -15,7 +15,7 @@ license: OGL
 ---
 # Nightstick
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[finesse]][[nonlethal]][[parry]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[finesse]][[nonlethal]][[parry]]
 
 |  |  |
 | -- | -- |

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Hype
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]]
 
 **Category** drug; 
 **Price** 100 gp; 

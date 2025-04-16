@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You learn the [[Spells/Song of Marching|Song of Marching]] composition cantrip, which enables you and your allies to cross vast distances without strain.
+You learn the [[3-Rules/Character Building/Spells/S/Song of Marching|Song of Marching]] composition cantrip, which enables you and your allies to cross vast distances without strain.
 
 *Source: Pathfinder Player Core*
 *ORC*

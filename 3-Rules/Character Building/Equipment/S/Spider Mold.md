@@ -14,7 +14,7 @@ license: OGL
 ---
 # Spider Mold
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[3-Rules/trait_reference/poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[3-Rules/trait_reference/P/poison]]
 
 **Category** poison; 
 **Price** 20 gp; 

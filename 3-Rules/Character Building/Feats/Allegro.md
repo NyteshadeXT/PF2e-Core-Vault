@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You can quicken your allies with a fast-paced performance. You learn the [[Spells/Allegro|Allegro]] composition cantrip.
+You can quicken your allies with a fast-paced performance. You learn the [[3-Rules/Character Building/Spells/A/Allegro|Allegro]] composition cantrip.
 
 *Source: Pathfinder Player Core*
 *ORC*

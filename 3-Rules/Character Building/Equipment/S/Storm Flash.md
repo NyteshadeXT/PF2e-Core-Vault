@@ -17,7 +17,7 @@ license: ORC
 ---
 # Storm Flash
 ## Item 14
-### [[deadly-d8]][[disarm]][[3-Rules/trait_reference/electricity]][[finesse]][[magical]]
+### [[deadly-d8]][[3-Rules/trait_reference/D/disarm]][[3-Rules/trait_reference/E/electricity]][[finesse]][[magical]]
 
 |  |  |
 | -- | -- |
@@ -38,7 +38,7 @@ This _+2 greater striking shock rapier_ has a golden blade, and miniature electr
 
 * * *
 
-**Effect** You cast a 6th-rank [[Spells/Lightning Bolt|Lightning Bolt]] (DC 33).
+**Effect** You cast a 6th-rank [[Lightning Bolt|Lightning Bolt]] (DC 33).
 
 * * *
 

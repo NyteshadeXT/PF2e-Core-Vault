@@ -16,7 +16,7 @@ license: OGL
 ---
 # Golden Blade of Mzali
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[3-Rules/trait_reference/fire]][[3-Rules/trait_reference/light]][[magical]][[monk]][[thrown-20]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Trait Reference/F/fire]][[3-Rules/Trait Reference/L/light]][[magical]][[monk]][[thrown-20]]
 
 |  |  |
 | -- | -- |
@@ -29,7 +29,7 @@ license: OGL
 
 Each of these golden spears was forged in the days of old Mzali, when the sun kings ruled the city. The majority of these weapons are lost, most likely buried with warriors in tombs and temples sealed by Walkena's decrees. Walkena retains a single golden blade, which he grants to his Master of Spears.
 
-This _+2 greater striking returning spear_ is coated in brilliant gold, and beautiful engravings run along the shaft, depicting the rising and setting of the sun against Mzali's skyline. The spear glows with the effects of 4th-rank [[Spells/Light|Light]]. You can suppress or resume this light by using an action, which has the concentrate trait. When you hit a creature with the spear, it takes 1d6 additional fire damage. When you critically hit a creature with the spear, the creature takes 1d8 persistent fire damage and 1d8 bleed as its blood boils away. Unlike normal when taking two types of persistent damage, a creature needs only a single successful flat check to remove both the fire and bleed damage.
+This _+2 greater striking returning spear_ is coated in brilliant gold, and beautiful engravings run along the shaft, depicting the rising and setting of the sun against Mzali's skyline. The spear glows with the effects of 4th-rank [[3-Rules/Character Building/Spells/L/Light|Light]]. You can suppress or resume this light by using an action, which has the concentrate trait. When you hit a creature with the spear, it takes 1d6 additional fire damage. When you critically hit a creature with the spear, the creature takes 1d8 persistent fire damage and 1d8 bleed as its blood boils away. Unlike normal when taking two types of persistent damage, a creature needs only a single successful flat check to remove both the fire and bleed damage.
 
 * * *
 
@@ -43,8 +43,8 @@ This _+2 greater striking returning spear_ is coated in brilliant gold, and beau
 
 **Effect** You call upon the spear's light to guide the creature away from violence. The creature must choose one of the following options:
 
-*   The creature surrenders, immediately receiving the critical failure effects of [[Spells/Calm|Calm]] and [[Spells/Paralyze|Paralyze]].
-*   The weapon casts 7th-rank [[Spells/Blindness|Blindness]] on the creature with a DC 34 Fortitude check.
+*   The creature surrenders, immediately receiving the critical failure effects of [[Calm|Calm]] and [[Paralyze|Paralyze]].
+*   The weapon casts 7th-rank [[Blindness|Blindness]] on the creature with a DC 34 Fortitude check.
 
 Regardless of the choice, the spear loses its ability to glow with light until your next daily preparations.
 
@@ -56,7 +56,7 @@ Regardless of the choice, the spear loses its ability to glow with light until y
 
 * * *
 
-**Effect** The spear casts 7th-rank [[Spells/Elemental Form|Elemental Form]] on you, choosing fire as the form's trait. The spear loses its additional fire damage until your next daily preparations.
+**Effect** The spear casts 7th-rank [[Elemental Form|Elemental Form]] on you, choosing fire as the form's trait. The spear loses its additional fire damage until your next daily preparations.
 
 *Source: Pathfinder #172: Secrets of the Temple-City*
 *OGL*

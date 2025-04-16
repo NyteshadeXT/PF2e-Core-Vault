@@ -14,14 +14,14 @@ license: ORC
 ---
 # All In My Head `pf2:r`
 ## Feat 18
-### [[bard]][[illusion]][[3-Rules/trait_reference/mental]]
+### [[bard]][[illusion]][[3-Rules/trait_reference/M/mental]]
 
 **Category** class; 
 
 
 
 
-**Trigger** You would take damage from a Strike or spell that doesn't have the death trait or otherwise cause instant death (such as [[Spells/Disintegrate|Disintegrate]]).
+**Trigger** You would take damage from a Strike or spell that doesn't have the death trait or otherwise cause instant death (such as [[Disintegrate|Disintegrate]]).
 
 * * *
 

@@ -19,7 +19,7 @@ license: OGL
 ---
 # Hex Blaster
 ## Item 11
-### [unique](unique "Unique Rarity Trait")[[concussive]][[cursed]][[emotion]][[fatal-d12]][[fear]][[kickback]][[3-Rules/trait_reference/mental]][[occult]]
+### [unique](unique.md "Unique Rarity Trait")[[concussive]][[cursed]][[emotion]][[fatal-d12]][[3-Rules/Trait Reference/F/fear]][[kickback]][[3-Rules/Trait Reference/M/mental]][[occult]]
 
 |  |  |
 | -- | -- |

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** you aren't unholy
 * * *
-You can suffer so that others might live. You can cast the [[Spells/Champion's Sacrifice|Champion's Sacrifice]] devotion spell.
+You can suffer so that others might live. You can cast the [[3-Rules/Character Building/Spells/C/Champion's Sacrifice|Champion's Sacrifice]] devotion spell.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Mindrender Baton
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[tech]]
+### [rare](rare.md "Rare Rarity Trait")[[tech]]
 
 |  |  |
 | -- | -- |

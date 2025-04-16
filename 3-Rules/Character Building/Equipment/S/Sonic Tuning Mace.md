@@ -16,7 +16,7 @@ license: OGL
 ---
 # Sonic Tuning Mace
 ## Item 9
-### [[agile]][[finesse]][[magical]][[shove]][[3-Rules/trait_reference/sonic]]
+### [[agile]][[finesse]][[magical]][[3-Rules/Trait Reference/S/shove]][[3-Rules/Trait Reference/S/sonic]]
 
 |  |  |
 | -- | -- |
@@ -37,7 +37,7 @@ This _+1 striking thundering light mace_ has twin tips, perfectly spaced to reso
 
 * * *
 
-**Effect** You tap the tuning mace against a nearby surface to cast 4th-rank [[Spells/Noise Blast|Noise Blast]] with a DC of 25.
+**Effect** You tap the tuning mace against a nearby surface to cast 4th-rank [[Noise Blast|Noise Blast]] with a DC of 25.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

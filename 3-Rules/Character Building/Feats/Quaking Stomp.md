@@ -14,7 +14,7 @@ license: ORC
 ---
 # Quaking Stomp `pf2:1`
 ## Feat 20
-### [[barbarian]][[manipulate]][[rage]]
+### [[barbarian]][[manipulate]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 
@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You stomp the ground with such force that it creates a minor earthquake, with the effects of the [[Spells/Earthquake|Earthquake]] spell.
+You stomp the ground with such force that it creates a minor earthquake, with the effects of the [[Earthquake|Earthquake]] spell.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

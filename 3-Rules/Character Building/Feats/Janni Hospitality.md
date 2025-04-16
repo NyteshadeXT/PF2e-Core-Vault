@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You can use magic to show others desert hospitality. You can cast 2nd-rank [[Spells/Create Food|Create Food]] once per day and [[Spells/Create Water|Create Water]] twice per day as arcane innate spells.
+You can use magic to show others desert hospitality. You can cast 2nd-rank [[Create Food|Create Food]] once per day and [[Create Water|Create Water]] twice per day as arcane innate spells.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

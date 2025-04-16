@@ -12,7 +12,7 @@ license: OGL
 ---
 # Right of Retribution
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[contract]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[contract]][[invested]][[magical]]
 
 
 **Price** 0 gp; 

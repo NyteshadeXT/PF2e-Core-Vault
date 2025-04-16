@@ -12,7 +12,7 @@ license: OGL
 ---
 # Moonlit Ink
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** other; 
 **Price** 5 gp; 

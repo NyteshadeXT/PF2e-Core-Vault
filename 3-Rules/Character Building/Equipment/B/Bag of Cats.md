@@ -25,7 +25,7 @@ This beautiful leather bag is lined in soft fur and purrs quietly when pet.
 
 **Frequency** once per day
 
-**Effect** You shake the bag to produce a single cat. You cast a 3rd-rank [[Spells/Summon Animal|Summon Animal]] to produce a [[3-Rules/Bestiaries/Bestiary 1/L/Leopard|Leopard]].
+**Effect** You shake the bag to produce a single cat. You cast a 3rd-rank [[Summon Animal|Summon Animal]] to produce a [[3-Rules/Bestiaries/Bestiary 1/L/Leopard|Leopard]].
 
 * * *
 
@@ -33,7 +33,7 @@ This beautiful leather bag is lined in soft fur and purrs quietly when pet.
 
 **Frequency** once per day
 
-**Effect** You pull the bag over your head and it covers you completely. You then exit the bag in the form of a large cat. You gain the effects of 3rd-rank [[Spells/Animal Form|Animal Form]] but must use the cat battle form.
+**Effect** You pull the bag over your head and it covers you completely. You then exit the bag in the form of a large cat. You gain the effects of 3rd-rank [[Animal Form|Animal Form]] but must use the cat battle form.
 
 *Source: Pathfinder #170: Spoken on the Song Wind*
 *OGL*

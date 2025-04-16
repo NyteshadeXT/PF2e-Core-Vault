@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-This glowing piece of flesh increases the spell rank of a spell with the light trait by 1 (maximum 7) when determining whether the spell's light will shine in magical darkness or counteract a [[Spells/Darkness|Darkness]] spell.
+This glowing piece of flesh increases the spell rank of a spell with the light trait by 1 (maximum 7) when determining whether the spell's light will shine in magical darkness or counteract a [[3-Rules/Character Building/Spells/D/Darkness|Darkness]] spell.
 
 *Source: Pathfinder #172: Secrets of the Temple-City*
 *OGL*

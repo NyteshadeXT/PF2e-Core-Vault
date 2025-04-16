@@ -12,7 +12,7 @@ license: OGL
 ---
 # Rime Crystal
 ## Item 3
-### [[3-Rules/trait_reference/cold]][[magical]][[spellheart]]
+### [[3-Rules/Trait Reference/C/cold]][[magical]][[spellheart]]
 
 
 **Price** 55 gp; 
@@ -32,7 +32,7 @@ Slowly spinning at the center of this crystalline orb is a single snowflake, and
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Ray of Frost|Ray of Frost]].
+**Effect** You cast [[Ray of Frost|Ray of Frost]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Swampcall|Swampcall]]
+Granted by [[Swampcall|Swampcall]]
 
 You call upon the spirits of the soil to twist and churn, transforming the terrain in the targeted area into a sodden mess. The area becomes difficult terrain. Creatures in the area when you Cast this Spell must attempt a Reflex saving throw.
 

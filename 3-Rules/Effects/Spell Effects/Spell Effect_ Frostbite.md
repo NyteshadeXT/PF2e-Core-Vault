@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Frostbite|Frostbite]]
+Granted by [[Frostbite|Frostbite]]
 
 The target gains weakness to bludgeoning equal to the spell rank.
 

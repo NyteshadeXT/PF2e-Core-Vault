@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Mind Swap|Mind Swap]]
+Granted by [[Mind Swap|Mind Swap]]
 
 The mind swap is unusually smooth, and the targets gain a +4 circumstance bonus to Deception checks to Impersonate each other.
 

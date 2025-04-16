@@ -23,10 +23,10 @@ Your connection to one of the great elemental aspects of nature deepens, allowin
 
 You gain the advanced order spell associated with your order:
 
-*   if you're a member of the flame order, you gain [[Spells/Combustion|Combustion]];
-*   if you're a member of the stone order, you gain [[Spells/Stone Lance|Stone Lance]];
-*   if you're a member of the storm order, you gain [[Spells/Powerful Inhalation|Powerful Inhalation]];
-*   if you're a member of the wave order, you gain [[Spells/Pulverizing Cascade|Pulverizing Cascade]].
+*   if you're a member of the flame order, you gain [[Combustion|Combustion]];
+*   if you're a member of the stone order, you gain [[Stone Lance|Stone Lance]];
+*   if you're a member of the storm order, you gain [[Powerful Inhalation|Powerful Inhalation]];
+*   if you're a member of the wave order, you gain [[Pulverizing Cascade|Pulverizing Cascade]].
 
 Increase the number of Focus Points in your focus pool by 1.
 

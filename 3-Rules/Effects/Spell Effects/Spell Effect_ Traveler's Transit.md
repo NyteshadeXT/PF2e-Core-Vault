@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Traveler's Transit|Traveler's Transit]]
+Granted by [[Traveler's Transit|Traveler's Transit]]
 
 You gain either a climb Speed or a swim Speed. The Speed is equal to your land Speed.
 

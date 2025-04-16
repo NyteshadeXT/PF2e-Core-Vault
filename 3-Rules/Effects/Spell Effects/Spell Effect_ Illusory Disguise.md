@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Illusory Disguise|Illusory Disguise]]
+Granted by [[Illusory Disguise|Illusory Disguise]]
 
 The target receives a +4 status bonus to Deception checks to prevent others from seeing through the disguise, and lets the target add its level to such Deception checks even if untrained.
 

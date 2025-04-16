@@ -15,7 +15,7 @@ license: ORC
 ---
 # Invisibility Potion
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[illusion]][[magical]][[potion]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[illusion]][[magical]][[potion]]
 
 **Category** potion; 
 **Price** 20 gp; 
@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-An _invisibility_ potion is colorless and oddly lightweight. Upon drinking it, you gain the effects of a 2nd-rank [[Spells/Invisibility|Invisibility]] spell.
+An _invisibility_ potion is colorless and oddly lightweight. Upon drinking it, you gain the effects of a 2nd-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] spell.
 
 *Source: Pathfinder GM Core*
 *ORC*

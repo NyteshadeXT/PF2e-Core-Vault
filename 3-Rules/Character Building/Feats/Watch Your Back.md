@@ -15,7 +15,7 @@ license: ORC
 ---
 # Watch Your Back `pf2:1`
 ## Feat 6
-### [[emotion]][[fear]][[3-Rules/trait_reference/mental]][[rogue]]
+### [[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[rogue]]
 
 **Category** class; 
 

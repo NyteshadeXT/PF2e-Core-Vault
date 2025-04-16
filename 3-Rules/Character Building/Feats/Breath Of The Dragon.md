@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Dragon Disciple Dedication
 * * *
-You can use a powerful breath weapon, much like the dragon you emulate. You gain the [[Spells/Dragon Breath|Dragon Breath]] sorcerer bloodline spell and a focus pool of 1 Focus Point. If you already have a focus pool, increase your number of Focus Points by 1.
+You can use a powerful breath weapon, much like the dragon you emulate. You gain the [[3-Rules/Character Building/Spells/D/Dragon Breath|Dragon Breath]] sorcerer bloodline spell and a focus pool of 1 Focus Point. If you already have a focus pool, increase your number of Focus Points by 1.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

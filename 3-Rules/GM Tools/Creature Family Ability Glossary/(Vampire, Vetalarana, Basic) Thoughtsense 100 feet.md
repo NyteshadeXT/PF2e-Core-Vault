@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Vampire, Vetalarana, Basic) Thoughtsense 100 feet
 
-### [[3-Rules/trait_reference/mental]][[occult]]
+### [[3-Rules/trait_reference/M/mental]][[occult]]
 
 **Category** interaction; 
 

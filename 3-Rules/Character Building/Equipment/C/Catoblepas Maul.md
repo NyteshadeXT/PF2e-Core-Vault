@@ -15,7 +15,7 @@ license: ORC
 ---
 # Catoblepas Maul
 ## Item 12
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/trait_reference/poison|Poison]][[3-Rules/trait_reference/shove]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/Trait Reference/P/poison|Poison]][[3-Rules/Trait Reference/S/shove]]
 
 |  |  |
 | -- | -- |

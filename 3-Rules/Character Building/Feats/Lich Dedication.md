@@ -12,7 +12,7 @@ license: OGL
 ---
 # Lich Dedication
 ## Feat 12
-### [rare](rare "Rare Rarity Trait")[[archetype]][[dedication]]
+### [rare](rare.md "Rare Rarity Trait")[[archetype]][[dedication]]
 
 **Category** class; 
 

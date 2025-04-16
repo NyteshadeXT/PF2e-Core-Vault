@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** ki spells
 * * *
-You can unleash an impactful cone of force by channeling your ki. You gain the [[Spells/Ki Blast|Ki Blast]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+You can unleash an impactful cone of force by channeling your ki. You gain the [[3-Rules/Character Building/Spells/K/Ki Blast|Ki Blast]] ki spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

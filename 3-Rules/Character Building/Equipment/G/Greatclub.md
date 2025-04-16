@@ -14,7 +14,7 @@ license: ORC
 ---
 # Greatclub
 ## Item 0
-### [[backswing]][[shove]]
+### [[backswing]][[3-Rules/Trait Reference/S/shove]]
 
 |  |  |
 | -- | -- |

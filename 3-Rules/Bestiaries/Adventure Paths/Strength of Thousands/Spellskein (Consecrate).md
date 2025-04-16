@@ -84,7 +84,7 @@ creatures:
 
 
 
-Spellskeins created during [[Spells/Consecrate|Consecrate]] rituals have a religious symbol form and can use the one-action activity anoint while in that form.
+Spellskeins created during [[Consecrate|Consecrate]] rituals have a religious symbol form and can use the one-action activity anoint while in that form.
 
 * * *
 

@@ -95,20 +95,20 @@ Rather than embedding the soul focus gem in the construct's neck or chest, it's 
 
 Like a soulbound doll, a soulbound mauler gains an additional 3rd-rank innate spell depending on its alignment, as listed below.
 
-Lawful Good: [[Spells/Heal|Heal]]
+Lawful Good: [[Heal|Heal]]
 
-Neutral Good: [[Spells/Jump|Jump]]
+Neutral Good: [[Jump|Jump]]
 
-Chaotic Good: [[Spells/Haste|Haste]]
+Chaotic Good: [[Haste|Haste]]
 
-Lawful Neutral: [[Spells/Blindness|Blindness]]
+Lawful Neutral: [[Blindness|Blindness]]
 
-Neutral: [[Spells/Shared Invisibility|Shared Invisibility]]
+Neutral: [[Shared Invisibility|Shared Invisibility]]
 
-Chaotic Neutral: [[Spells/Shatter|Shatter]]
+Chaotic Neutral: [[Shatter|Shatter]]
 
-Lawful Evil: [[Spells/Slow|Slow]]
+Lawful Evil: [[Slow|Slow]]
 
-Neutral Evil: [[Spells/Stinking Cloud|Stinking Cloud]]
+Neutral Evil: [[Stinking Cloud|Stinking Cloud]]
 
-Chaotic Evil: [[Spells/Harm|Harm]]
+Chaotic Evil: [[Harm|Harm]]

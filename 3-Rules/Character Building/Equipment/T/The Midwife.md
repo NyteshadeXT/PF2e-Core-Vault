@@ -36,7 +36,7 @@ _The Midwife_ represents the arrival of new life or new information, particularl
 
 * * *
 
-**Effect** You prevent the target from dying or being destroyed and restore to the target 6d8+24 healing Hit Points. This effect can prevent a death effect or [[Spells/Disintegrate|Disintegrate]] from slaying a target. The amount of healing granted increases to 7d8+28 healing if you're at least 15th level, 8d8+32 healing if you're at least 17th level, and 9d8+36 healing if you're at least 19th level.
+**Effect** You prevent the target from dying or being destroyed and restore to the target 6d8+24 healing Hit Points. This effect can prevent a death effect or [[Disintegrate|Disintegrate]] from slaying a target. The amount of healing granted increases to 7d8+28 healing if you're at least 15th level, 8d8+32 healing if you're at least 17th level, and 9d8+36 healing if you're at least 19th level.
 
 *Source: Pathfinder #191: The Destiny War*
 *OGL*

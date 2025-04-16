@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-A marp that gnaws on silver rather than gold grows fur tipped with silver that can be further processed into a versatile spell catalyst. A spellcaster who uses _silvered marp fur_ with an [[Spells/Impaling Spike|Impaling Spike]] spell creates a silver spike rather than a cold iron one.
+A marp that gnaws on silver rather than gold grows fur tipped with silver that can be further processed into a versatile spell catalyst. A spellcaster who uses _silvered marp fur_ with an [[Impaling Spike|Impaling Spike]] spell creates a silver spike rather than a cold iron one.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

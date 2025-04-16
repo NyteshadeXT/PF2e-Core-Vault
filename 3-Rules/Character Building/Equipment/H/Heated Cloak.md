@@ -9,7 +9,7 @@ license: OGL
 ---
 # Heated Cloak
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 160 gp; 

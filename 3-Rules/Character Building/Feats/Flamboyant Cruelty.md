@@ -11,7 +11,7 @@ license: OGL
 ---
 # Flamboyant Cruelty
 ## Feat 8
-### [rare](rare "Rare Rarity Trait")[[swashbuckler]]
+### [rare](rare.md "Rare Rarity Trait")[[swashbuckler]]
 
 **Category** class; 
 

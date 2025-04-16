@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Greater Barghest) Mutation - Toxic Breath `pf2:2`
 
-### [[divine]][[3-Rules/trait_reference/poison]]
+### [[divine]][[3-Rules/trait_reference/P/poison]]
 
 **Category** offensive; 
 

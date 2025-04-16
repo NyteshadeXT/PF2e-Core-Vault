@@ -19,7 +19,7 @@ license: ORC
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-This cypress onusa rod is decorated with a number of paper streamers that rustle when shaken to direct purification magic. Wands of purification contain either [[Spells/Cleanse Affliction|Cleanse Affliction]], [[Spells/Clear Mind|Clear Mind]], or [[Spells/Sound Body|Sound Body]], decided when the wand is created.
+This cypress onusa rod is decorated with a number of paper streamers that rustle when shaken to direct purification magic. Wands of purification contain either [[Cleanse Affliction|Cleanse Affliction]], [[Clear Mind|Clear Mind]], or [[Sound Body|Sound Body]], decided when the wand is created.
 
 **Activate** [[Actions/Cast a Spell|Cast a Spell]]
 

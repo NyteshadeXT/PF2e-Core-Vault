@@ -11,7 +11,7 @@ license: OGL
 ---
 # Tallowheart Mass
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[divine]][[healing]]
+### [rare](rare.md "Rare Rarity Trait")[[divine]][[healing]]
 
 
 **Price** 425 gp; 

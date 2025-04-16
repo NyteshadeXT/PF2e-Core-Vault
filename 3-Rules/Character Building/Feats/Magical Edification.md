@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Loremaster Dedication
 * * *
-You've learned those tidbits of magic that are most conducive to furthering your acquisition and transmission of knowledge. You gain [[Spells/Guidance|Guidance]], [[Spells/Message|Message]], and [[Spells/Sigil|Sigil]] as innate occult cantrips.
+You've learned those tidbits of magic that are most conducive to furthering your acquisition and transmission of knowledge. You gain [[Guidance|Guidance]], [[Message|Message]], and [[Sigil|Sigil]] as innate occult cantrips.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

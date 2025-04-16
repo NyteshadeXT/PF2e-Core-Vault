@@ -11,7 +11,7 @@ license: OGL
 ---
 # Memory Palace
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[structure]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[structure]]
 
 
 **Price** 4200 gp; 

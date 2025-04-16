@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Cosmic Form|Cosmic Form]]
+Granted by [[Cosmic Form|Cosmic Form]]
 
 You recreate your form entirely out of cosmic energy, transforming into a Large battle form. You must have enough space to expand into, or the spell is lost. When you cast this spell, choose to take on the powers of the moon or the sun. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
 

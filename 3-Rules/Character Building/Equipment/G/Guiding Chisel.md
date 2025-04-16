@@ -11,7 +11,7 @@ license: OGL
 ---
 # Guiding Chisel
 ## Item 16
-### [unique](unique "Unique Rarity Trait")[[elf]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[elf]][[magical]]
 
 
 **Price** 10000 gp; 

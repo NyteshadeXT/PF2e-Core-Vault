@@ -24,7 +24,7 @@ You conjure a magical gamtu hat, which is a magic item of light Bulk. The gamtu 
 
 * * *
 
-**Effect** You tap the hat and gain the effects of a 2nd-rank [[Spells/Invisibility|Invisibility]] spell, which lasts for the spell's normal duration, until the hat is removed, or until the hat's normal duration runs out, whichever comes first. After the spell ends, the gamtu disappears.
+**Effect** You tap the hat and gain the effects of a 2nd-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] spell, which lasts for the spell's normal duration, until the hat is removed, or until the hat's normal duration runs out, whichever comes first. After the spell ends, the gamtu disappears.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

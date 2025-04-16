@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Bottle the Storm|Bottle the Storm]]
+Granted by [[Bottle the Storm|Bottle the Storm]]
 
 You gain electricity resistance against the triggering effect.
 

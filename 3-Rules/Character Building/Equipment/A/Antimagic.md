@@ -28,7 +28,7 @@ This intricate rune displaces spell energy, granting you a +1 status bonus to sa
 
 **Trigger** A spell targets you or includes you in its area
 
-**Effect** The armor attempts to counteract the triggering spell with the effect of a 7th-rank [[Spells/Dispel Magic|Dispel Magic]] spell and a counteract modifier of +26.
+**Effect** The armor attempts to counteract the triggering spell with the effect of a 7th-rank [[Dispel Magic|Dispel Magic]] spell and a counteract modifier of +26.
 
 * * *
 

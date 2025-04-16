@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Grimspawn, Pitborn, or Hellspawn
 * * *
-You possess fiendish magic. Choose two of the following spells: [[Spells/Disguise Magic|Disguise Magic]], [[Spells/False Vitality|False Vitality]], [[Spells/Invisibility|Invisibility]], [[Spells/See the Unseen|See the Unseen]], [[Spells/Shatter|Shatter]], or [[Spells/Paranoia|Paranoia]]. You can use each of the chosen spells once per day as 2nd-rank divine innate spells.
+You possess fiendish magic. Choose two of the following spells: [[Disguise Magic|Disguise Magic]], [[False Vitality|False Vitality]], [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]], [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]], [[Shatter|Shatter]], or [[Paranoia|Paranoia]]. You can use each of the chosen spells once per day as 2nd-rank divine innate spells.
 
 Grimspawn typically take false vitality and see the unseen, pitborn typically take paranoia and shatter, and hellspawn typically take invisibility and disguise.
 

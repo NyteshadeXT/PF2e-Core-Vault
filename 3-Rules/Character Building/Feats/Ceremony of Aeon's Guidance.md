@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Your patron aeon has allowed you to call upon their gifts to serve their ends. You can cast [[Spells/Augury|Augury]] and [[Spells/Calm|Calm]] each once per day as 2nd-rank divine innate spells.
+Your patron aeon has allowed you to call upon their gifts to serve their ends. You can cast [[Augury|Augury]] and [[Calm|Calm]] each once per day as 2nd-rank divine innate spells.
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

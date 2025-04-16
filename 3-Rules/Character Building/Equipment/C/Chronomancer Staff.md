@@ -14,7 +14,7 @@ license: OGL
 ---
 # Chronomancer Staff
 ## Item 17
-### [rare](rare.md "Rare Rarity Trait")[[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
+### [rare](rare.md "Rare Rarity Trait")[[magical|Magical]][[3-Rules/Trait Reference/S/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -33,14 +33,14 @@ Clock faces and gears adorn the twisted iron shaft of a _chronomancer staff_, th
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Time Sense|Time Sense]]
-*   **1st** [[Spells/Déjà Vu|Déjà Vu]], [[Spells/Synchronize|Synchronize]]
-*   **2nd** [[Spells/Loose Time's Arrow|Loose Time's Arrow]], [[Spells/Synchronize|Synchronize]]
-*   **3rd** [[Spells/Day's Weight|Day's Weight]], [[Spells/Haste|Haste]], [[Spells/Slow|Slow]], [[Spells/Time Jump|Time Jump]]
-*   **4th** [[Spells/Curse of Lost Time|Curse of Lost Time]]
-*   **5th** [[Spells/Quicken Time|Quicken Time]], [[Spells/Rewinding Step|Rewinding Step]], [[Spells/Stagnate Time|Stagnate Time]]
-*   **6th** [[Spells/Cast into Time|Cast into Time]], [[Spells/Day's Weight|Day's Weight]]
-*   **7th** [[Spells/Time Beacon|Time Beacon]]
+*   **Cantrip** [[Time Sense|Time Sense]]
+*   **1st** [[Déjà Vu|Déjà Vu]], [[Synchronize|Synchronize]]
+*   **2nd** [[Loose Time's Arrow|Loose Time's Arrow]], [[Synchronize|Synchronize]]
+*   **3rd** [[Day's Weight|Day's Weight]], [[Haste|Haste]], [[Slow|Slow]], [[Time Jump|Time Jump]]
+*   **4th** [[Curse of Lost Time|Curse of Lost Time]]
+*   **5th** [[Quicken Time|Quicken Time]], [[Rewinding Step|Rewinding Step]], [[Stagnate Time|Stagnate Time]]
+*   **6th** [[Cast into Time|Cast into Time]], [[Day's Weight|Day's Weight]]
+*   **7th** [[Time Beacon|Time Beacon]]
 
 * * *
 

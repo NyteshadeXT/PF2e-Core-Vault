@@ -15,7 +15,7 @@ license: OGL
 ---
 # Knight Captain's Lance
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[divine]][[jousting-d6]][[reach]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d8]][[divine]][[jousting-d6]][[reach]]
 
 |  |  |
 | -- | -- |

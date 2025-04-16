@@ -11,7 +11,7 @@ license: ORC
 ---
 # Peachwood Branch
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[precious]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[precious]]
 
 
 **Price** 600 gp; 

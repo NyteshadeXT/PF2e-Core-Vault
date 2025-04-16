@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Weaken Earth|Weaken Earth]]
+Granted by [[Weaken Earth|Weaken Earth]]
 
 The target gains weakness to physical damage.
 

@@ -11,7 +11,7 @@ license: ORC
 ---
 # Kotodama Whistle
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 0 gp; 

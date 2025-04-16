@@ -16,7 +16,7 @@ license: OGL
 ---
 # Wand of Dumbfounding Doom (7th-level)
 ## Item 16
-### [[emotion]][[fear]][[incapacitation]][[magical]][[3-Rules/trait_reference/mental]][[prediction]][[wand]]
+### [[emotion]][[3-Rules/trait_reference/F/fear]][[incapacitation]][[magical]][[3-Rules/trait_reference/M/mental]][[prediction]][[wand]]
 
 
 **Price** 10000 gp; 
@@ -31,11 +31,11 @@ Carvings of skulls, monsters, and all manner of violence decorate this wand of b
 
 * * *
 
-**Effect** You cast 7th-rank [[Spells/Impending Doom|Impending Doom]], showing the target a potential death that's gruesome and absurd. If the target becomes [[Conditions/Frightened|Frightened]] by the spell, it also becomes [[Conditions/Stupefied|Stupefied]] with a value 1 higher than the frightened value. This lasts for the duration of the spell.
+**Effect** You cast 7th-rank [[Impending Doom|Impending Doom]], showing the target a potential death that's gruesome and absurd. If the target becomes [[Conditions/Frightened|Frightened]] by the spell, it also becomes [[Conditions/Stupefied|Stupefied]] with a value 1 higher than the frightened value. This lasts for the duration of the spell.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Impending Doom|Impending Doom]] of the appropriate rank.
+**Craft Requirements** Supply a casting of [[Impending Doom|Impending Doom]] of the appropriate rank.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

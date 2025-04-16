@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Precious Metals|Precious Metals]]
+Granted by [[Precious Metals|Precious Metals]]
 
 Your deity blesses base metals to transform them into precious materials.
 

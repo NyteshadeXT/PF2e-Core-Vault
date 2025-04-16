@@ -25,7 +25,7 @@ A flickering rune causes a weapon to shimmer, grow blurry and indistinct, and mo
 
 * * *
 
-**Effect** The flickering weapon casts [[Spells/Blur|Blur]] to your specification.
+**Effect** The flickering weapon casts [[Blur|Blur]] to your specification.
 
 *Source: Pathfinder #200: Seven Dooms for Sandpoint*
 *OGL*

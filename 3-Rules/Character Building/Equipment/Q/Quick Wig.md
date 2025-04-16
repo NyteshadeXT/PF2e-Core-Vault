@@ -12,7 +12,7 @@ license: OGL
 ---
 # Quick Wig
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[invested]][[magical]]
 
 
 **Price** 30 gp; 

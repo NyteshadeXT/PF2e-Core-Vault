@@ -12,7 +12,7 @@ license: OGL
 ---
 # Highhelm War Shield (Lesser)
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[integrated-1d6-s]][[magical]][[shield-throw-20]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[integrated-1d6-s]][[magical]][[shield-throw-20]]
 
 
 **Price** 700 gp; 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Holy Light `pf2:2`
 ## Feat 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[champion]][[cleric]][[concentrate]][[divine]][[3-Rules/trait_reference/light]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[champion]][[cleric]][[concentrate]][[divine]][[3-Rules/trait_reference/L/light]]
 
 **Category** class; 
 

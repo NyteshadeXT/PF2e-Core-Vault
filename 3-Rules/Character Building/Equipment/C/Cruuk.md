@@ -15,7 +15,7 @@ license: ORC
 ---
 # Cruuk
 ## Item 0
-### [[grippli]][[3-Rules/trait_reference/shove]][[thrown-30]]
+### [[grippli]][[3-Rules/Trait Reference/S/shove]][[thrown-30]]
 
 |  |  |
 | -- | -- |

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Hellknight Plate
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[bulwark]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[bulwark]]
 
 **Category** heavy; **Group** plate
 **Price** 35 gp; 

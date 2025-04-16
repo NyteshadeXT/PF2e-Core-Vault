@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Infectious Melody|Infectious Melody]]
+Granted by [[Infectious Melody|Infectious Melody]]
 
 **Success** For 1 round, the creature can communicate only by singing along to the melody. It can speak only on its turn, and it must take the Perform action when it does. The result of the Performance check determines how well it sang, but it stills communicate the information regardless of the result, which has no further mechanical impact than the time spent to take the action. A single Perform check is sufficient for any amount of speaking on the creature's turn. This effect might interfere with verbal components of spells or other linguistic abilities that rely on precise speech; in order to use such an ability successfully, the creature must succeed at a DC 5 Flat check.
 

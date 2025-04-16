@@ -11,7 +11,7 @@ license: OGL
 ---
 # Inquisitive Quill
 ## Item 4
-### [rare](rare "Rare Rarity Trait")[[intelligent]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[intelligent]][[magical]]
 
 
 **Price** 0 gp; 

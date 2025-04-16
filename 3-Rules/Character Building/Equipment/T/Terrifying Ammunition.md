@@ -16,7 +16,7 @@ license: ORC
 ---
 # Terrifying Ammunition
 ## Item 6
-### [[consumable]][[emotion]][[fear]][[magical]][[3-Rules/trait_reference/mental]]
+### [[consumable]][[emotion]][[3-Rules/trait_reference/F/fear]][[magical]][[3-Rules/trait_reference/M/mental]]
 
 **Category** ammo; 
 **Price** 50 gp; 

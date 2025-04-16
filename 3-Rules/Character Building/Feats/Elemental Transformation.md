@@ -28,7 +28,7 @@ license: OGL
 
 * * *
 
-You open your kinetic gate, but rather than activating your kinetic aura, you instead become overwhelmed with transformative elemental energy. You're affected by an [[Spells/Elemental Form|Elemental Form]] spell with the same trait as your kinetic element. You can heighten it to any spell rank up to half your level rounded up.
+You open your kinetic gate, but rather than activating your kinetic aura, you instead become overwhelmed with transformative elemental energy. You're affected by an [[Elemental Form|Elemental Form]] spell with the same trait as your kinetic element. You can heighten it to any spell rank up to half your level rounded up.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Flame Barrier|Flame Barrier]]
+Granted by [[Flame Barrier|Flame Barrier]]
 
 *Source: Pathfinder Player Core*
 *ORC*

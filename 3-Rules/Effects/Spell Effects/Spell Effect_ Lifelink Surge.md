@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Lifelink Surge|Lifelink Surge]].
+Granted by [[3-Rules/Character Building/Spells/L/Lifelink Surge|Lifelink Surge]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

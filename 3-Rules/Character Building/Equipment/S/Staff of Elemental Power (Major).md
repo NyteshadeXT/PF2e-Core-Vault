@@ -34,13 +34,13 @@ This staff is tapered at the base and carved into a gem-studded twist at the top
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Frostbite|Frostbite]]
-*   **1st** [[Spells/Breathe Fire|Breathe Fire]], [[Spells/Pummeling Rubble|Pummeling Rubble]], [[Spells/Thunderstrike|Thunderstrike]]
-*   **2nd** [[Spells/Blazing Bolt|Blazing Bolt]], [[Spells/Resist Energy|Resist Energy]]
-*   **3rd** [[Spells/Fireball|Fireball]], [[Spells/Lightning Bolt|Lightning Bolt]]
-*   **4th** [[Spells/Resist Energy|Resist Energy]], [[Spells/Wall of Fire|Wall of Fire]]
-*   **5th** [[Spells/Howling Blizzard|Howling Blizzard]], [[Spells/Wall of Ice|Wall of Ice]]
-*   **6th** [[Spells/Chain Lightning|Chain Lightning]], [[Spells/Fireball|Fireball]]
+*   **Cantrip** [[Frostbite|Frostbite]]
+*   **1st** [[Breathe Fire|Breathe Fire]], [[Pummeling Rubble|Pummeling Rubble]], [[Thunderstrike|Thunderstrike]]
+*   **2nd** [[Blazing Bolt|Blazing Bolt]], [[Resist Energy|Resist Energy]]
+*   **3rd** [[Fireball|Fireball]], [[Lightning Bolt|Lightning Bolt]]
+*   **4th** [[Resist Energy|Resist Energy]], [[Wall of Fire|Wall of Fire]]
+*   **5th** [[Howling Blizzard|Howling Blizzard]], [[Wall of Ice|Wall of Ice]]
+*   **6th** [[Chain Lightning|Chain Lightning]], [[Fireball|Fireball]]
 
 **Craft Requirements** Supply one casting of all listed ranks of all listed spells.
 

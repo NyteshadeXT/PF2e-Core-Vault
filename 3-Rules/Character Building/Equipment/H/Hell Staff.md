@@ -15,7 +15,7 @@ license: OGL
 ---
 # Hell Staff
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]][[Unholy]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]][[Unholy]]
 
 |  |  |
 | -- | -- |
@@ -34,14 +34,14 @@ A _hell staff_ is a tall, pointed staff forged of red-tinted steel with Infernal
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Divine Lance|Divine Lance]] (evil or lawful only)
-*   **1st** [[Spells/Protection|Protection]], [[Spells/Summon Lesser Servitor|Summon Lesser Servitor]]
-*   **2nd** [[Spells/Summon Lesser Servitor|Summon Lesser Servitor]], _Undetectable Alignment_
-*   **3rd** [[Spells/Chilling Darkness|Chilling Darkness]], [[Spells/Summon Lesser Servitor|Summon Lesser Servitor]]
-*   **4th** [[Spells/Divine Wrath|Divine Wrath]] (evil or lawful only), [[Spells/Summon Lesser Servitor|Summon Lesser Servitor]]
-*   **5th** [[Spells/Flame Strike|Flame Strike]], [[Spells/Summon Fiend|Summon Fiend]]
-*   **6th** [[Spells/Devil Form|Devil Form]], [[Spells/Summon Fiend|Summon Fiend]]
-*   **7th** [[Spells/Divine Decree|Divine Decree]] (evil or lawful only), [[Spells/Summon Fiend|Summon Fiend]]
+*   **Cantrip** [[Divine Lance|Divine Lance]] (evil or lawful only)
+*   **1st** [[Protection|Protection]], [[Summon Lesser Servitor|Summon Lesser Servitor]]
+*   **2nd** [[Summon Lesser Servitor|Summon Lesser Servitor]], _Undetectable Alignment_
+*   **3rd** [[Chilling Darkness|Chilling Darkness]], [[Summon Lesser Servitor|Summon Lesser Servitor]]
+*   **4th** [[Divine Wrath|Divine Wrath]] (evil or lawful only), [[Summon Lesser Servitor|Summon Lesser Servitor]]
+*   **5th** [[Flame Strike|Flame Strike]], [[Summon Fiend|Summon Fiend]]
+*   **6th** [[Devil Form|Devil Form]], [[Summon Fiend|Summon Fiend]]
+*   **7th** [[Divine Decree|Divine Decree]] (evil or lawful only), [[Summon Fiend|Summon Fiend]]
 
 * * *
 

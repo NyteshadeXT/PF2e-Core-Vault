@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "f27eb207b9242a9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Campaign/Age of Worms/Completed/The Whispering Cairn.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Whispering Cairn"
-            }
-          },
-          {
             "id": "a874bd0941e45fab",
             "type": "leaf",
             "state": {
@@ -47,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "DC Calculator"
+            }
+          },
+          {
+            "id": "b458cba3548e93a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Home.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ],
@@ -228,36 +228,49 @@
       "helpmate:HelpMate": false
     }
   },
-  "active": "a874bd0941e45fab",
+  "active": "b458cba3548e93a9",
   "lastOpenFiles": [
-    "4-Campaign/Age of Worms/Completed/The Whispering Cairn.md",
+    "1-GM Toolkit/Encounter Builder.md",
+    "1-GM Toolkit/Home.md",
+    "zz-Attachments/Encounter.jpg",
+    "zz-Attachments/Encounter.jpg.crdownload",
+    "1-GM Toolkit/DM-Screen.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "1-GM Toolkit/Adventure Loot.md",
     "4-Campaign/Age of Worms/The Three Faces of Evil.md",
-    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
-    "2-Party/Age of Worms/Age of Worms Party Dashboard.md",
-    "5-World/NPCs/Diamond Lake/Allustan.md",
+    "4-Campaign/Age of Worms/Completed/The Whispering Cairn.md",
+    "3-Rules/Character Building/Equipment/A/Abadar's Flawless Scale.md",
+    "3-Rules/Character Building/Equipment/A/Absolute Solvent (Lesser).md",
+    "3-Rules/Character Building/Equipment/A/Ablative Armor Plating (Major).md",
+    "3-Rules/Character Building/Equipment/Homebrew/Rockhammer.md",
+    "3-Rules/Character Building/Spells/Z/Zeal for Battle.md",
+    "3-Rules/Character Building/Spells/Y/Ymeri's Mark.md",
+    "3-Rules/Character Building/Spells/W/Wails of the Damned.md",
+    "3-Rules/Character Building/Spells/Z",
+    "3-Rules/Character Building/Spells/Untitled.md",
+    "3-Rules/Character Building/Spells/V/Vacuum.md",
+    "3-Rules/Character Building/Spells/Y",
+    "3-Rules/Character Building/Spells/U/Umbral Extraction.md",
+    "3-Rules/Character Building/Spells/U/Unblinking Flame Aura.md",
+    "3-Rules/Character Building/Spells/T/Tailwind.md",
+    "3-Rules/Character Building/Spells/W",
+    "3-Rules/Character Building/Spells/V",
+    "3-Rules/Character Building/Spells/S/Sacred Beasts.md",
+    "3-Rules/Character Building/Spells/R/Radiant Beam.md",
+    "3-Rules/Character Building/Spells/U",
+    "3-Rules/Character Building/Spells/T",
+    "3-Rules/Character Building/Spells/S",
+    "3-Rules/Character Building/Spells/Q/Qi Blast.md",
+    "3-Rules/Character Building/Spells/R",
+    "3-Rules/Character Building/Spells/P/Pack Attack.md",
+    "3-Rules/Character Building/Spells/O/Oaken Resilience.md",
+    "3-Rules/Character Building/Spells/Q",
+    "3-Rules/Character Building/Spells/N/Nature Incarnate.md",
+    "3-Rules/Character Building/Spells/M/Mad Monkeys.md",
+    "3-Rules/Bestiaries/Bestiary 3/Untitled 1.canvas",
+    "3-Rules/Bestiaries/Bestiary 3/Untitled.canvas",
     "zz-Attachments/PartyDashboardBackground.png",
-    "4-Campaign/Age of Worms/Age of Worms Outline.md",
-    "4-Campaign/Age of Worms/Quests/Dourstone Mine.md",
-    "5-World/NPCs/Diamond Lake/Venelle.md",
-    "5-World/NPCs/Diamond Lake/Tyrol Ebberly.md",
-    "5-World/NPCs/Diamond Lake/Tidwoad.md",
-    "5-World/NPCs/Diamond Lake/Ragnolin Dourstone.md",
-    "5-World/NPCs/Diamond Lake/Kullen.md",
-    "5-World/NPCs/Diamond Lake/Khellek.md",
-    "5-World/NPCs/Diamond Lake/Balabar Smenk.md",
-    "3-Rules/Bestiaries/Homebrew/E/Ebon Aspect.md",
-    "2-Party/Age of Worms/Akiowen.md",
-    "2-Party/Age of Worms/Jayden.md",
-    "2-Party/Age of Worms/Haight Enashberry.md",
-    "2-Party/Age of Worms/Jerrykk.md",
-    "2-Party/Age of Worms/Gornak.md",
-    "2-Party/Age of Worms/Zamosshe.md",
     "zz-Attachments/Jayden.png",
-    "3-Rules/Bestiaries/Homebrew/T/Tengu Blade Sovereign.md",
-    "3-Rules/Bestiaries/Homebrew/T/Tengu Windcaller.md",
-    "3-Rules/Bestiaries/Homebrew/E",
-    "3-Rules/Bestiaries/Uniques/The Faceless One.md",
-    "3-Rules/Bestiaries/Uniques/Rastophan.md",
     "zz-Attachments/Inner Sanctum.png",
     "zz-Attachments/Outer Sanctum.png",
     "zz-Attachments/The Faceless One.png",

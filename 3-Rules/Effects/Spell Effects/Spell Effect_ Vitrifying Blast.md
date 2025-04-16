@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Vitrifying Blast|Vitrifying Blast]]
+Granted by [[Vitrifying Blast|Vitrifying Blast]]
 
 The target gains weakness to sonic and bludgeoning damage.
 

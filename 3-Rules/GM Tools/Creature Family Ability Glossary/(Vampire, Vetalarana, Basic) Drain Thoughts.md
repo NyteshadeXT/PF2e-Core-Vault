@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Vampire, Vetalarana, Basic) Drain Thoughts `pf2:1`
 
-### [[3-Rules/trait_reference/mental]][[occult]]
+### [[3-Rules/trait_reference/M/mental]][[occult]]
 
 **Category** offensive; 
 

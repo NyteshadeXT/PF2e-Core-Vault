@@ -28,7 +28,7 @@ license: OGL
 
 
 
-These thin cloth wraps, which are illegal to use in Highhelm's organized brawls, blend into the skin and add an edge to your blows. The wraps are _+1 striking [[Wounding|Wounding]] handwraps of mighty blows_. When you invest the wraps, they gain the effects of a 3rd-rank [[Spells/Disguise Magic|Disguise Magic]] spell to appear non-magical and resemble simple bandages. Casual observers are unlikely to notice anything amiss with the wraps, but a creature that succeeds at a DC 25 Perception check check can notice something is off about them, though they would still need to find other means to discern the magical nature of the wraps.
+These thin cloth wraps, which are illegal to use in Highhelm's organized brawls, blend into the skin and add an edge to your blows. The wraps are _+1 striking [[Wounding|Wounding]] handwraps of mighty blows_. When you invest the wraps, they gain the effects of a 3rd-rank [[Disguise Magic|Disguise Magic]] spell to appear non-magical and resemble simple bandages. Casual observers are unlikely to notice anything amiss with the wraps, but a creature that succeeds at a DC 25 Perception check check can notice something is off about them, though they would still need to find other means to discern the magical nature of the wraps.
 
 **Activate** `pf2:r` envision
 

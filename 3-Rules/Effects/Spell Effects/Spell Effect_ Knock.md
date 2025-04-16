@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Knock|Knock]]
+Granted by [[Knock|Knock]]
 
 _Knock_ grants a +4 status bonus to any creature that tries to open the target door, lock, or container with an Athletics or a Thievery check.
 

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Thunderstone (Moderate)
 ## Item 3
-### [[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/sonic]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/S/sonic]][[splash]]
 
 |  |  |
 | -- | -- |

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Accompaniment Cloak
 ## Item 11
-### [[focused]][[illusion]][[invested]][[3-Rules/trait_reference/occult|Occult]]
+### [[focused]][[illusion]][[invested]][[occult|Occult]]
 
 
 **Price** 1300 gp; 
@@ -36,7 +36,7 @@ This lush velvet capelet is embroidered with images of musicians playing a wide 
 
 * * *
 
-**Effect** You peel the musicians from the garment and fling them around you. The cloak casts a 4th-rank [[Spells/Phantom Crowd|Phantom Crowd]] spell (DC 28); each of the 10-foot squares must be adjacent to you. The crowd looks like the musicians on the garment and continues to accompany your Performance checks. You can Sustain this effect as described in the spell.
+**Effect** You peel the musicians from the garment and fling them around you. The cloak casts a 4th-rank [[Phantom Crowd|Phantom Crowd]] spell (DC 28); each of the 10-foot squares must be adjacent to you. The crowd looks like the musicians on the garment and continues to accompany your Performance checks. You can Sustain this effect as described in the spell.
 
 * * *
 

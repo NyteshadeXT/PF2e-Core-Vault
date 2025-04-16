@@ -16,7 +16,7 @@ license: OGL
 ---
 # Reaper's Crescent
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[finesse]][[3-Rules/trait_reference/light]][[magical]][[trip]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[finesse]][[3-Rules/Trait Reference/L/light]][[magical]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

@@ -30,7 +30,7 @@ After an activated viper arrow hits a target, the arrow transforms into a [[3-Ru
 
 The viper has the summoned trait and acts at the end of your turn, even though you didn't use the Sustain a Spell action. It is under the GM's control, but it generally attacks the creature the arrow struck. The viper vanishes after 1 minute or when slain.
 
-**Craft Requirements** Supply one casting of [[Spells/Summon Animal|Summon Animal]]
+**Craft Requirements** Supply one casting of [[Summon Animal|Summon Animal]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

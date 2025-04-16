@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Levitate|Levitate]].
+Granted by [[Levitate|Levitate]].
 
 You take a -2 circumstance penalty to attack rolls while floating in the air. You can spend an Interact action to stabilize yourself and negate this penalty for the remainder of the turn.
 

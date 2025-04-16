@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Choking Mist (Obscuring Mist)
 ## Item 6
-### [[magical]][[wand]][[3-Rules/trait_reference/water]]
+### [[magical]][[wand]][[3-Rules/trait_reference/W/water]]
 
 
 **Price** 250 gp; 
@@ -27,11 +27,11 @@ This blackened wood wand has a smoldering tip, emitting a slight trail of steam.
 
 * * *
 
-**Effect** You cast [[Spells/Mist|Mist]], but the mist prevents creatures from being able to breathe in its area. They must hold their breath or start suffocating.
+**Effect** You cast [[Mist|Mist]], but the mist prevents creatures from being able to breathe in its area. They must hold their breath or start suffocating.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Mist|Mist]].
+**Craft Requirements** Supply a casting of [[Mist|Mist]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

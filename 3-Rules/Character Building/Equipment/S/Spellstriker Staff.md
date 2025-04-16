@@ -43,9 +43,9 @@ A _spellstriker staff_ is wrought iron with gleaming arcane sigils etched into i
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Produce Flame|Produce Flame]]
-*   **1st** [[Spells/Echoing Weapon|Echoing Weapon]], [[Spells/Sure Strike|Sure Strike]]
-*   **2nd** [[Spells/Acid Arrow|Acid Arrow]], [[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]
+*   **Cantrip** [[Produce Flame|Produce Flame]]
+*   **1st** [[Echoing Weapon|Echoing Weapon]], [[Sure Strike|Sure Strike]]
+*   **2nd** [[Acid Arrow|Acid Arrow]], [[Telekinetic Maneuver|Telekinetic Maneuver]]
 
 * * *
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Silent Heart
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[tattoo]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]][[tattoo]]
 
 
 **Price** 130 gp; 

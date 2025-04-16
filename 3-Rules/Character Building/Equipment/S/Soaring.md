@@ -26,7 +26,7 @@ A set of soaring armor helps you fly faster and protects you and nearby allies f
 
 * * *
 
-**Effect** You cast [[Spells/Gentle Landing|Gentle Landing]] on the triggering creature.
+**Effect** You cast [[Gentle Landing|Gentle Landing]] on the triggering creature.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

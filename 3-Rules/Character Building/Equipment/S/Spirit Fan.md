@@ -17,7 +17,7 @@ license: OGL
 ---
 # Spirit Fan
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[agile]][[backstabber]][[deadly-d6]][[finesse]][[magical]][[monk]]
+### [rare](rare.md "Rare Rarity Trait")[[agile]][[backstabber]][[deadly-d6]][[finesse]][[magical]][[monk]]
 
 |  |  |
 | -- | -- |

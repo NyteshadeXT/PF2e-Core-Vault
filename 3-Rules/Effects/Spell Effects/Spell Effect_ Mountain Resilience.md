@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Mountain Resilience|Mountain Resilience]]
+Granted by [[Mountain Resilience|Mountain Resilience]]
 
 The target's skin hardens like stone. It gains resistance 5 to physical damage, except adamantine. Each time the target is hit by a bludgeoning, piercing, or slashing attack, _mountain resilience_'s duration decreases by 1 minute.
 

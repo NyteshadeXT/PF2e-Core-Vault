@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Silence|Silence]]
+Granted by [[Silence|Silence]]
 
 The target makes no sound, preventing creatures from noticing it using hearing alone. The target can't use sonic attacks, nor can it use actions with the auditory trait. This prevents it from casting spells due to the magical words involved in casting, with the exception of subtle spells.
 

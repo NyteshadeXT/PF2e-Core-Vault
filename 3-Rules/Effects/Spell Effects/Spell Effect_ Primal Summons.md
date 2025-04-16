@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Primal Summons|Primal Summons]]
+Granted by [[3-Rules/Character Building/Spells/P/Primal Summons|Primal Summons]]
 
 You enhance a summoned creature with the power of the elements.
 

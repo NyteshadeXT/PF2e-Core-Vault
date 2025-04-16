@@ -11,7 +11,7 @@ license: OGL
 ---
 # Greater Awakened Power
 ## Feat 10
-### [rare](rare "Rare Rarity Trait")[[deviant]]
+### [rare](rare.md "Rare Rarity Trait")[[deviant]]
 
 **Category** class; 
 

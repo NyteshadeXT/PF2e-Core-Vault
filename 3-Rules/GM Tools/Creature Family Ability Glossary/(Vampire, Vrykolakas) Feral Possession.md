@@ -15,7 +15,7 @@ license: OGL
 ---
 # (Vampire, Vrykolakas) Feral Possession `pf2:0`
 
-### [[curse]][[divine]][[incapacitation]][[3-Rules/trait_reference/mental]][[possession]]
+### [[curse]][[divine]][[incapacitation]][[3-Rules/trait_reference/M/mental]][[3-Rules/trait_reference/P/possession]]
 
 **Category** defensive; 
 
@@ -28,7 +28,7 @@ license: OGL
 
 **Effect** Unlike most other undead, a vrykolakas isn't destroyed when it reaches 0 HP. Instead, it attempts to cast its spirit into an animal within 100 feet, which must attempt a Will check save (use a high DC for the vrykolakas's level).
 
-On a failure, the animal is possessed. This has the effects of the [[Spells/Possession|Possession]] spell, but it lasts a number of days equal to the vrykolakas's level. This possession can't be counteracted with magic (though [[Spells/Cleanse Affliction|Cleanse Affliction]] works against it normally).
+On a failure, the animal is possessed. This has the effects of the [[3-Rules/Character Building/Spells/P/Possession|Possession]] spell, but it lasts a number of days equal to the vrykolakas's level. This possession can't be counteracted with magic (though [[Cleanse Affliction|Cleanse Affliction]] works against it normally).
 
 If the animal succeeds at its save, the vrykolakas can attempt to possess a different animal within 100 feet. If at any point an animal critically succeeds at its save or no animal is within 100 feet, the vrykolakas fails to possess anything and is destroyed.
 

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Inubrix Ingot
 
-### [rare](rare "Rare Rarity Trait")[[precious]]
+### [rare](rare.md "Rare Rarity Trait")[[precious]]
 
 
 **Price** 5500 gp; 

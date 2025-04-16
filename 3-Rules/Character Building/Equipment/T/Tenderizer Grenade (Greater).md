@@ -18,7 +18,7 @@ license: ORC
 ---
 # Tenderizer Grenade (Greater)
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/acid]][[alchemical]][[bomb]][[consumable]][[plant]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/A/acid]][[alchemical]][[bomb]][[consumable]][[plant]][[splash]]
 
 |  |  |
 | -- | -- |

@@ -39,7 +39,7 @@ A suit of autumn's embrace armor can gain sapience when lovingly crafted by a fa
 
 **Frequency** once per day
 
-**Effect** The armor casts 4th-rank [[Spells/Safe Passage|Safe Passage]], with the protected area beginning from your square and extending to a place of relative safety.
+**Effect** The armor casts 4th-rank [[Safe Passage|Safe Passage]], with the protected area beginning from your square and extending to a place of relative safety.
 
 * * *
 

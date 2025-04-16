@@ -13,7 +13,7 @@ license: ORC
 ---
 # Quick Alchemy `pf2:1`
 
-### [[3-Rules/trait_reference/alchemist]][[3-Rules/Rule References/Manipulate]]
+### [[alchemist]][[3-Rules/Rule References/Manipulate]]
 
 **Category** interaction; 
 

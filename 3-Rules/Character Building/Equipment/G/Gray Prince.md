@@ -14,7 +14,7 @@ license: OGL
 ---
 # Gray Prince
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[magical]][[modular]][[void]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]][[modular]][[void]]
 
 |  |  |
 | -- | -- |

@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Lich) Void Shroud
 
-### [[aura]][[death]]
+### [[3-Rules/trait_reference/A/aura]][[death]]
 
 **Category** defensive; 
 

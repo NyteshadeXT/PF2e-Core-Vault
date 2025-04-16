@@ -12,7 +12,7 @@ license: OGL
 ---
 # Holy Prayer Beads
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[healing]][[vitality]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[divine]][[healing]][[vitality]]
 
 
 **Price** 160 gp; 
@@ -27,7 +27,7 @@ Whenever you cast a divine spell from your own spell slots while holding the pra
 
 **Activate** Cast a Spell
 
-**Effect** Cast [[Spells/Bless|Bless]] or [[Spells/Heal|Heal]], each once per day.
+**Effect** Cast [[Bless|Bless]] or [[Heal|Heal]], each once per day.
 
 * * *
 

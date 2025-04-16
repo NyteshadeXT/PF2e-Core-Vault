@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Folk Healer
 * * *
-Following the traditions of those who came before you, you've learned how to banish effects that cloud the mind, body, and spirit. You can cast a 4th-rank [[Spells/Clear Mind|Clear Mind]] or [[Spells/Sound Body|Sound Body]] as an innate occult spell once per day.
+Following the traditions of those who came before you, you've learned how to banish effects that cloud the mind, body, and spirit. You can cast a 4th-rank [[Clear Mind|Clear Mind]] or [[Sound Body|Sound Body]] as an innate occult spell once per day.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

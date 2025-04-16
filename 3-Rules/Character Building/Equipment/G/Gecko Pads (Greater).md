@@ -13,7 +13,7 @@ license: OGL
 ---
 # Gecko Pads (Greater)
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[gadget]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[clockwork]][[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 125 gp; 

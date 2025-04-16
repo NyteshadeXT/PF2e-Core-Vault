@@ -35,11 +35,11 @@ A crystalline sphere, swirling with constantly shifting constellations, sits ato
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Guidance|Guidance]], [[Spells/Summon Instrument|Summon Instrument]]
-*   **1st** [[Spells/Concordant Choir|Concordant Choir]]
-*   **2nd** [[Spells/Guiding Star|Guiding Star]], [[Spells/Sure Footing|Sure Footing]]
-*   **3rd** [[Spells/Dream Message|Dream Message]], [[Spells/Safe Passage|Safe Passage]], [[Spells/Wanderer's Guide|Wanderer's Guide]]
-*   **4th** [[Spells/Concordant Choir|Concordant Choir]], [[Spells/Dream Message|Dream Message]], [[Spells/Unfettered Movement|Unfettered Movement]], [[Spells/Sure Footing|Sure Footing]]
+*   **Cantrip** [[Guidance|Guidance]], [[Summon Instrument|Summon Instrument]]
+*   **1st** [[Concordant Choir|Concordant Choir]]
+*   **2nd** [[3-Rules/Character Building/Spells/G/Guiding Star|Guiding Star]], [[Sure Footing|Sure Footing]]
+*   **3rd** [[Dream Message|Dream Message]], [[Safe Passage|Safe Passage]], [[Wanderer's Guide|Wanderer's Guide]]
+*   **4th** [[Concordant Choir|Concordant Choir]], [[Dream Message|Dream Message]], [[Unfettered Movement|Unfettered Movement]], [[Sure Footing|Sure Footing]]
 
 * * *
 

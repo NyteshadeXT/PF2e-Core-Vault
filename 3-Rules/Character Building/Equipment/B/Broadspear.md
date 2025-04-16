@@ -14,7 +14,7 @@ license: OGL
 ---
 # Broadspear
 ## Item 0
-### [[3-Rules/trait_reference/reach|Reach]] [[sweep]][[versatile-s]]
+### [[reach|Reach]] [[sweep]][[versatile-s]]
 
 |  |  |
 | -- | -- |

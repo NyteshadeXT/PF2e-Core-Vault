@@ -15,7 +15,7 @@ license: OGL
 ---
 # Elemental Explosion `pf2:2`
 ## Feat 6
-### [[barbarian]][[concentrate]][[primal]][[rage]]
+### [[barbarian]][[concentrate]][[primal]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

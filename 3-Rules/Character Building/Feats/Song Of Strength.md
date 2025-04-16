@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** warrior muse
 * * *
-Your performances inspire strength in your allies to aid them at physical tasks. You learn the [[Spells/Song of Strength|Song of Strength]] composition cantrip.
+Your performances inspire strength in your allies to aid them at physical tasks. You learn the [[3-Rules/Character Building/Spells/S/Song of Strength|Song of Strength]] composition cantrip.
 
 *Source: Pathfinder Player Core*
 *ORC*

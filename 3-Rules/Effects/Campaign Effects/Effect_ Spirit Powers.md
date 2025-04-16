@@ -16,7 +16,7 @@ license: OGL
 
 
 
-When the PCs [[Spells/Transmigrate|Transmigrate]] into the living world during the third chapter of this adventure, they're ectoplasmic beings trapped somewhere between life and undeath. While in this state, the PCs function mostly normally, but appear as semi-solid ectoplasmic versions of themselves. They aren't quite transparent, but their solid bodies seem to waver and shimmer along the edges, giving them an eerie, unsettling appearance. While in this state, they're living creatures but gain some of the following abilities similar to those shared by undead creatures. As living creatures more akin to phantoms, they remain susceptible to negative damage and are healed by positive energy.
+When the PCs [[Transmigrate|Transmigrate]] into the living world during the third chapter of this adventure, they're ectoplasmic beings trapped somewhere between life and undeath. While in this state, the PCs function mostly normally, but appear as semi-solid ectoplasmic versions of themselves. They aren't quite transparent, but their solid bodies seem to waver and shimmer along the edges, giving them an eerie, unsettling appearance. While in this state, they're living creatures but gain some of the following abilities similar to those shared by undead creatures. As living creatures more akin to phantoms, they remain susceptible to negative damage and are healed by positive energy.
 
 **Undead Vision:** They gain low-light vision, or darkvision if their ancestry already has low-light vision.
 

@@ -26,16 +26,16 @@ MAGICAL
 
 **Path** Magic; Choose when you first imbue the weapon for the granted spells to be either arcane or divine.
 
-*   **2nd** The weapon gains a two-action Interact and command activation allowing it to attempt to counteract the _[[Spells/Light|light]]_ cantrip (but not other light effects) with a counteract level equal to half the item's level rounded up.
-*   **4th** The weapon can cast _[[Spells/Penumbral Shroud|penumbral shroud]]_ once per day.
-*   **6th** The weapon can cast _[[Spells/Darkness|darkness]]_ once per day.
-*   **8th** The weapon can cast _[[Spells/Chilling Darkness|chilling darkness]]_ once per day.
+*   **2nd** The weapon gains a two-action Interact and command activation allowing it to attempt to counteract the _[[3-Rules/Character Building/Spells/L/Light|light]]_ cantrip (but not other light effects) with a counteract level equal to half the item's level rounded up.
+*   **4th** The weapon can cast _[[Penumbral Shroud|penumbral shroud]]_ once per day.
+*   **6th** The weapon can cast _[[3-Rules/Character Building/Spells/D/Darkness|darkness]]_ once per day.
+*   **8th** The weapon can cast _[[Chilling Darkness|chilling darkness]]_ once per day.
 *   **10th** Strikes with the weapon deal 1 additional cold damage as the darkness saps warmth; this additional damage has the darkness trait.
 *   **12th** The weapon's _chilling darkness_, darkness, and _penumbral shroud_ heighten to 4th level.
 *   **14th** The additional cold damage increases to 1d4.
 *   **16th** The weapon's _chilling darkness_, _darkness_, and _penumbral shroud_ heighten to 6th level.
 *   **18th** The cold damage increases to 1d6.
-*   **20th** The weapon can cast 9th-level _[[Spells/Eclipse Burst|eclipse burst]]_ once per day.
+*   **20th** The weapon can cast 9th-level _[[Eclipse Burst|eclipse burst]]_ once per day.
 
 * * *
 

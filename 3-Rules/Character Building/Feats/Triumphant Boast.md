@@ -12,7 +12,7 @@ license: OGL
 ---
 # Triumphant Boast
 ## Feat 2
-### [rare](rare "Rare Rarity Trait")[[general]][[skill]]
+### [rare](rare.md "Rare Rarity Trait")[[general]][[skill]]
 
 **Category** skill; 
 

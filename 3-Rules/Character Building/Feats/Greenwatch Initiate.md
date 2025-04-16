@@ -13,7 +13,7 @@ license: OGL
 ---
 # Greenwatch Initiate
 ## Feat 4
-### [rare](rare "Rare Rarity Trait")[[gunslinger]][[investigator]][[ranger]]
+### [rare](rare.md "Rare Rarity Trait")[[gunslinger]][[investigator]][[ranger]]
 
 **Category** class; 
 

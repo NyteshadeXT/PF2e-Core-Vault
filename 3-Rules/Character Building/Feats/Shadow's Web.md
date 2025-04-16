@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Clinging Shadows Initiate
 * * *
-You can launch a wave of shadowy qi outward from your body, damaging your opponents and potentially binding them in place. You gain the [[Spells/Shadow's Web|Shadow's Web]] qi spell.
+You can launch a wave of shadowy qi outward from your body, damaging your opponents and potentially binding them in place. You gain the [[3-Rules/Character Building/Spells/S/Shadow's Web|Shadow's Web]] qi spell.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

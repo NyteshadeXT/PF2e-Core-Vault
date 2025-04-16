@@ -14,7 +14,7 @@ license: OGL
 ---
 # Silver Dragon's Breath Potion (Adult)
 ## Item 12
-### [[3-Rules/trait_reference/cold]][[consumable]][[magical]][[potion]]
+### [[3-Rules/Trait Reference/C/cold]][[consumable]][[magical]][[potion]]
 
 **Category** potion; 
 **Price** 400 gp; 

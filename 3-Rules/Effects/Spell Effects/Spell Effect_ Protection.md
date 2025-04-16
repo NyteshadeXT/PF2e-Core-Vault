@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Protection|Protection]].
+Granted by [[Protection|Protection]].
 
 The target gains a +1 status bonus to Armor Class and saving throws.
 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Staff of the Magi
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[magical]][[monk]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]][[monk]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -36,16 +36,16 @@ Voluntarily destroying a _staff of the magi_ unleashes a truly devastating wave 
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Detect Magic|Detect Magic]], [[Spells/Light|Light]], [[Spells/Telekinetic Hand|Telekinetic Hand]], [[Spells/Telekinetic Projectile|Telekinetic Projectile]]
-*   **1st** [[Spells/Lock|Lock]]
-*   **2nd** [[Spells/Enlarge|Enlarge]], [[Spells/Revealing Light|Revealing Light]], [[Spells/Invisibility|Invisibility]], [[Spells/Knock|Knock]], [[Spells/Telekinetic Maneuver|Telekinetic Maneuver]], [[Spells/Web|Web]]
-*   **3rd** [[Spells/Dispel Magic|Dispel Magic]], [[Spells/Fireball|Fireball]], [[Spells/Lightning Bolt|Lightning Bolt]]
-*   **4th** [[Spells/Invisibility|Invisibility]], [[Spells/Enlarge|Enlarge]], [[Spells/Fireball|Fireball]], [[Spells/Wall of Fire|Wall of Fire]], [[Spells/Web|Web]]
-*   **5th** [[Spells/Cone of Cold|Cone of Cold]], [[Spells/Magic Passage|Magic Passage]], [[Spells/Telekinetic Haul|Telekinetic Haul]]
-*   **6th** [[Spells/Disintegrate|Disintegrate]], [[Spells/Dispel Magic|Dispel Magic]], [[Spells/Fireball|Fireball]], [[Spells/Lightning Bolt|Lightning Bolt]]
-*   **7th** [[Spells/Cone of Cold|Cone of Cold]], [[Spells/Magic Passage|Magic Passage]], [[Spells/Interplanar Teleport|Interplanar Teleport]], [[Spells/Wall of Fire|Wall of Fire]]
-*   **8th** [[Spells/Fireball|Fireball]], [[Spells/Mystic Armor|Mystic Armor]]
-*   **9th** [[Spells/Dispel Magic|Dispel Magic]], [[Spells/Falling Stars|Falling Stars]], [[Spells/Summon Dragon|Summon Dragon]]
+*   **Cantrip** [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]], [[3-Rules/Character Building/Spells/L/Light|Light]], [[Telekinetic Hand|Telekinetic Hand]], [[Telekinetic Projectile|Telekinetic Projectile]]
+*   **1st** [[Lock|Lock]]
+*   **2nd** [[Enlarge|Enlarge]], [[Revealing Light|Revealing Light]], [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]], [[Knock|Knock]], [[Telekinetic Maneuver|Telekinetic Maneuver]], [[Web|Web]]
+*   **3rd** [[Dispel Magic|Dispel Magic]], [[Fireball|Fireball]], [[Lightning Bolt|Lightning Bolt]]
+*   **4th** [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]], [[Enlarge|Enlarge]], [[Fireball|Fireball]], [[Wall of Fire|Wall of Fire]], [[Web|Web]]
+*   **5th** [[Cone of Cold|Cone of Cold]], [[Magic Passage|Magic Passage]], [[Telekinetic Haul|Telekinetic Haul]]
+*   **6th** [[Disintegrate|Disintegrate]], [[Dispel Magic|Dispel Magic]], [[Fireball|Fireball]], [[Lightning Bolt|Lightning Bolt]]
+*   **7th** [[Cone of Cold|Cone of Cold]], [[Magic Passage|Magic Passage]], [[Interplanar Teleport|Interplanar Teleport]], [[Wall of Fire|Wall of Fire]]
+*   **8th** [[Fireball|Fireball]], [[Mystic Armor|Mystic Armor]]
+*   **9th** [[Dispel Magic|Dispel Magic]], [[Falling Stars|Falling Stars]], [[Summon Dragon|Summon Dragon]]
 
 **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 

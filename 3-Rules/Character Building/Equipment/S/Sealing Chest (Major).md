@@ -10,7 +10,7 @@ license: OGL
 ---
 # Sealing Chest (Major)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 3750 gp; 

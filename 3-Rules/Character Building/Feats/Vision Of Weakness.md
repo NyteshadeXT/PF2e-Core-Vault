@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You can call upon divine insights to single out your foes' weak points. You learn the [[Spells/Vision of Weakness|Vision of Weakness]] revelation spell. Increase the number of Focus Points in your focus pool by 1.
+You can call upon divine insights to single out your foes' weak points. You learn the [[3-Rules/Character Building/Spells/V/Vision of Weakness|Vision of Weakness]] revelation spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

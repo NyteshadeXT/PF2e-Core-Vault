@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ice Forge
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[magical]][[structure]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]][[structure]]
 
 
 **Price** 1300 gp; 
@@ -34,7 +34,7 @@ You can return an _ice forge_ to its handheld anvil form by spending a single ac
 
 **Frequency** once per day
 
-**Effect** The _ice forge_ casts [[Spells/Creation|Creation]] (heightened to 5th level) to your specifications.
+**Effect** The _ice forge_ casts [[Creation|Creation]] (heightened to 5th level) to your specifications.
 
 *Source: Pathfinder #189: Dreamers of the Nameless Spires*
 *OGL*

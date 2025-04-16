@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Mantle of the Magma Heart|Mantle of the Magma Heart]]
+Granted by [[Mantle of the Magma Heart|Mantle of the Magma Heart]]
 
 You surround yourself in a mantle of blazing fire magic, and your skin and anything you're wearing morphs into burning hot lava. The air around you swelters with heat, and tiny sparks of flame dance behind you as you pass. As a single action, which has the concentrate trait, you can change one of your chosen abilities to a different option from the list.
 

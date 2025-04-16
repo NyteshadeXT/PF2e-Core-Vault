@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Cryptid, Primeval) Stench
 
-### [[aura]][[olfactory]]
+### [[3-Rules/trait_reference/A/aura]][[olfactory]]
 
 **Category** offensive; 
 

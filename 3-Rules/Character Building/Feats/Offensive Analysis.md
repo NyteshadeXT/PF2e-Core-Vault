@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You can enhance your senses and mental state to consider every aspect of an attack. You can cast [[Spells/Sure Strike|Sure Strike]] as a divine innate spell once per day.
+You can enhance your senses and mental state to consider every aspect of an attack. You can cast [[Sure Strike|Sure Strike]] as a divine innate spell once per day.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

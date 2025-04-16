@@ -14,7 +14,7 @@ license: OGL
 ---
 # Longnight Tea
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]][[tea]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]][[tea]]
 
 **Category** potion; 
 **Price** 12 gp; 

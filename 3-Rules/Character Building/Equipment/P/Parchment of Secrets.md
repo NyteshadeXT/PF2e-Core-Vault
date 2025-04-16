@@ -13,7 +13,7 @@ license: OGL
 ---
 # Parchment of Secrets
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[illusion]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[illusion]][[magical]]
 
 **Category** other; 
 **Price** 8 gp; 

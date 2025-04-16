@@ -12,7 +12,7 @@ license: OGL
 ---
 # Passage Pane
 ## Item 25
-### [rare](rare "Rare Rarity Trait")[[artifact]][[divine]][[teleportation]]
+### [rare](rare.md "Rare Rarity Trait")[[artifact]][[divine]][[teleportation]]
 
 
 **Price** 0 gp; 

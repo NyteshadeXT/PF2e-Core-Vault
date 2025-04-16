@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You remember the revelry of the Night Parade and call them to your aid in a riotous display. You Perform and cast 8th-rank [[Spells/Mad Monkeys|Mad Monkeys]] three times, except that the spell calls various apparitions such as dancing tsukumogami or drinking oni rather than monkeys. Each casting can produce a different kind of mischief. You can Sustain all three Spells each round using a single Perform action.
+You remember the revelry of the Night Parade and call them to your aid in a riotous display. You Perform and cast 8th-rank [[Mad Monkeys|Mad Monkeys]] three times, except that the spell calls various apparitions such as dancing tsukumogami or drinking oni rather than monkeys. Each casting can produce a different kind of mischief. You can Sustain all three Spells each round using a single Perform action.
 
 *Source: Pathfinder #168: King of the Mountain*
 *OGL*

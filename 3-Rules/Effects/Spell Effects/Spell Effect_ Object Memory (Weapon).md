@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Object Memory|Object Memory]].
+Granted by [[Object Memory|Object Memory]].
 
 If you touch a weapon, your proficiency rank with that weapon temporarily increases to trained (if it is not already higher).
 

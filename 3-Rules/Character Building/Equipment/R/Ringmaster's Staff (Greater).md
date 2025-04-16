@@ -15,7 +15,7 @@ license: OGL
 ---
 # Ringmaster's Staff (Greater)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[magical]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -38,12 +38,12 @@ While wielding a _ringmaster's staff_, your normal voice can be clearly heard by
 
 **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 
-*   **Cantrip** s [[Spells/Light|Light]]
-*   **1st** [[Spells/Gentle Landing|Gentle Landing]], [[Spells/Carryall|Floating Disk]]
-*   **2nd** [[Spells/Revealing Light|Revealing Light]], [[Spells/Illusory Creature|Illusory Creature]], [[Spells/Mist|Mist]]
-*   **3rd** [[Spells/Enthrall|Enthrall]], [[Spells/Pyrotechnics|Pyrotechnics]]
-*   **4th** [[Spells/Unfettered Movement|Unfettered Movement]], [[Spells/Summon Animal|Summon Animal]]
-*   **5th** [[Spells/Cloak of Colors|Cloak of Colors]], [[Spells/Command|Command]]
+*   **Cantrip** s [[3-Rules/Character Building/Spells/L/Light|Light]]
+*   **1st** [[Gentle Landing|Gentle Landing]], [[Carryall|Floating Disk]]
+*   **2nd** [[Revealing Light|Revealing Light]], [[Illusory Creature|Illusory Creature]], [[Mist|Mist]]
+*   **3rd** [[Enthrall|Enthrall]], [[Pyrotechnics|Pyrotechnics]]
+*   **4th** [[Unfettered Movement|Unfettered Movement]], [[Summon Animal|Summon Animal]]
+*   **5th** [[Cloak of Colors|Cloak of Colors]], [[Command|Command]]
 
 *Source: Pathfinder #152: Legacy of the Lost God*
 *OGL*

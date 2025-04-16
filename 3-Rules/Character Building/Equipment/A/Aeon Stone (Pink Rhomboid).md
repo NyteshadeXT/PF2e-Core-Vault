@@ -20,7 +20,7 @@ license: OGL
 
 When you invest this stone, you gain 15 temporary Hit Points. If the stone's effects are suppressed, you lose any of the temporary Hit Points remaining until it returns. The temporary Hit Points refresh during your daily preparations; they do not refresh if you re-invest the stone, or invest another _pink rhomboid aeon stone_, before then.
 
-The resonant power allows you to cast the [[Spells/Stabilize|Stabilize]] cantrip as a divine innate spell.
+The resonant power allows you to cast the [[Stabilize|Stabilize]] cantrip as a divine innate spell.
 
 [[Equipment Effects/Effect_ Aeon Stone (Pink Rhomboid)|Effect: Aeon Stone (Pink Rhomboid)]]
 

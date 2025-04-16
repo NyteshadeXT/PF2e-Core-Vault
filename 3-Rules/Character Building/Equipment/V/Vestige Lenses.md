@@ -10,7 +10,7 @@ license: OGL
 ---
 # Vestige Lenses
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[alchemical]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]]
 
 
 **Price** 40 gp; 

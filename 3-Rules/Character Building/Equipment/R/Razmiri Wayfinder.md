@@ -11,7 +11,7 @@ license: OGL
 ---
 # Razmiri Wayfinder
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[magical]]
 
 
 **Price** 900 gp; 

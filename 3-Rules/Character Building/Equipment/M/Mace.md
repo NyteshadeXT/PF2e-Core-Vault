@@ -13,7 +13,7 @@ license: ORC
 ---
 # Mace
 ## Item 0
-### [[shove]]
+### [[3-Rules/Trait Reference/S/shove]]
 
 |  |  |
 | -- | -- |

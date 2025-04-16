@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Song of Strength|Song of Strength]]
+Granted by [[3-Rules/Character Building/Spells/S/Song of Strength|Song of Strength]]
 
 You gain a +1 status bonus to Athletics checks and DCs against Athletics skill actions such as Disarm, Reposition, Shove, and Trip.
 

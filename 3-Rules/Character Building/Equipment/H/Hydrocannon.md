@@ -14,7 +14,7 @@ license: ORC
 ---
 # Hydrocannon
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[modular]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[modular]]
 
 |  |  |
 | -- | -- |

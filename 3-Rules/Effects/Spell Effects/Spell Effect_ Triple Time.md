@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Triple Time|Triple Time]]
+Granted by [[3-Rules/Character Building/Spells/T/Triple Time|Triple Time]]
 
 You gain a +10-foot status bonus to your Speeds.
 

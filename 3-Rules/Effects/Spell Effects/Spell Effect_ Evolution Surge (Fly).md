@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Evolution Surge|Evolution Surge]]
+Granted by [[Evolution Surge|Evolution Surge]]
 
 You flood your eidolon with power, creating a temporary evolution in your eidolon's capabilities. Choose one of the following effects:
 

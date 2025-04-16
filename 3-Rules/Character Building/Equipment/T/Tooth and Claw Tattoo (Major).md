@@ -31,7 +31,7 @@ This tattoo resembles an animal's fangs, claws, or similar natural weapons, lett
 
 * * *
 
-**Effect** The tattoo casts 5th-level [[Spells/Animal Form|Animal Form]] to transform you into the animal that matches your tattoo.
+**Effect** The tattoo casts 5th-level [[Animal Form|Animal Form]] to transform you into the animal that matches your tattoo.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

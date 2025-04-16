@@ -14,7 +14,7 @@ license: OGL
 ---
 # Nightmare Cudgel
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[thrown-10]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]][[thrown-10]]
 
 |  |  |
 | -- | -- |

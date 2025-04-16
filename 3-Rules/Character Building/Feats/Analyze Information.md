@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You can stoke your mind into a burst of analytical prowess. You can cast 3rd-rank [[Spells/Hypercognition|Hypercognition]] once per day as a divine innate spell.
+You can stoke your mind into a burst of analytical prowess. You can cast 3rd-rank [[Hypercognition|Hypercognition]] once per day as a divine innate spell.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

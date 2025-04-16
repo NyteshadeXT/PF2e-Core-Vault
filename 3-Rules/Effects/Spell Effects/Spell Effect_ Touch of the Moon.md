@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Touch of the Moon|Touch of the Moon]]
+Granted by [[Touch of the Moon|Touch of the Moon]]
 
 The target glows with dim light in a 20-foot radius. It also gets a benefit based on a phase of the moon, starting with the new moon and changing to the next phase at the end of each of its turns.
 

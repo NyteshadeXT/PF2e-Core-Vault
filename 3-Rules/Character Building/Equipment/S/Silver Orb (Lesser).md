@@ -13,7 +13,7 @@ license: OGL
 ---
 # Silver Orb (Lesser)
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]]
 
 |  |  |
 | -- | -- |

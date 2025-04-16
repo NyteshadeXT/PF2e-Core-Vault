@@ -14,7 +14,7 @@ license: OGL
 ---
 # (Ravener) Cowering Fear
 
-### [[aura]][[emotion]][[fear]][[3-Rules/trait_reference/mental]]
+### [[3-Rules/trait_reference/A/aura]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]]
 
 **Category** defensive; 
 

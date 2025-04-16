@@ -34,7 +34,7 @@ You wear a _Broken Tusk pendant_ like jewelry or tie it to your clothing. A _Bro
 
 **Effect** You gain a +1 item bonus to AC against the triggering attack, or a +2 item bonus if the animal is the specific kind depicted by the pendant.
 
-Once per day, when you use the _Broken Tusk pendant_'s activation, if the animal misses you, the _Broken Tusk pendant_ casts [[Spells/Dominate|Dominate]] on the animal (DC 30 Will check). You can choose whether to use this once-per-day effect after the animal misses you.
+Once per day, when you use the _Broken Tusk pendant_'s activation, if the animal misses you, the _Broken Tusk pendant_ casts [[Dominate|Dominate]] on the animal (DC 30 Will check). You can choose whether to use this once-per-day effect after the animal misses you.
 
 *Source: Pathfinder #175: Broken Tusk Moon*
 *OGL*

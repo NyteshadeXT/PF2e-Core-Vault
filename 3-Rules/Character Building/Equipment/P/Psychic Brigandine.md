@@ -12,7 +12,7 @@ license: OGL
 ---
 # Psychic Brigandine
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 **Category** heavy; **Group** composite
 **Price** 3000 gp; 

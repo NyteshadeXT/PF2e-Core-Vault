@@ -17,7 +17,7 @@ license: ORC
 ---
 # Waters of Creation `pf2:2`
 ## Feat 10
-### [[cursebound]][[divine]][[healing]][[oracle]][[vitality]][[3-Rules/trait_reference/water]]
+### [[cursebound]][[divine]][[healing]][[oracle]][[vitality]][[3-Rules/trait_reference/W/water]]
 
 **Category** class; 
 

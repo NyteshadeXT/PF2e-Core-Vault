@@ -25,7 +25,7 @@ license: OGL
 
 
 
-A _zombie staff_ is etched with the rotting visage of an undead humanoid grimacing in terror and dismay carved atop it. The staff's [[Spells/Summon Undead|Summon Undead]]spells can be used only to animate undead that have flesh and an Intelligence modifier of –4 or lower.
+A _zombie staff_ is etched with the rotting visage of an undead humanoid grimacing in terror and dismay carved atop it. The staff's [[Summon Undead|Summon Undead]]spells can be used only to animate undead that have flesh and an Intelligence modifier of –4 or lower.
 
 * * *
 
@@ -33,13 +33,13 @@ A _zombie staff_ is etched with the rotting visage of an undead humanoid grimaci
 
 * * *
 
-**Effect** You expend a number of charges from the staff to cast a spell from its list. If you cast [[Spells/Summon Undead|Summon Undead]], you can also cast [[Spells/Protect Companion|Protect Companion]] on the resulting minion as a free action.
+**Effect** You expend a number of charges from the staff to cast a spell from its list. If you cast [[Summon Undead|Summon Undead]], you can also cast [[Protect Companion|Protect Companion]] on the resulting minion as a free action.
 
-*   **Cantrip** [[Spells/Protect Companion|Protect Companion]]
-*   **1st** [[Spells/Summon Undead|Summon Undead]], [[Spells/Necromancer's Generosity|Necromancer's Generosity]]
-*   **2nd** [[Spells/Summon Undead|Summon Undead]], [[Spells/Final Sacrifice|Final Sacrifice]]
-*   **3rd** [[Spells/Summon Undead|Summon Undead]], [[Spells/Bind Undead|Bind Undead]], [[Spells/Necromancer's Generosity|Necromancer's Generosity]]
-*   **4th** [[Spells/Summon Undead|Summon Undead]], [[Spells/Enervation|Enervation]], [[Spells/Final Sacrifice|Final Sacrifice]]
+*   **Cantrip** [[Protect Companion|Protect Companion]]
+*   **1st** [[Summon Undead|Summon Undead]], [[Necromancer's Generosity|Necromancer's Generosity]]
+*   **2nd** [[Summon Undead|Summon Undead]], [[Final Sacrifice|Final Sacrifice]]
+*   **3rd** [[Summon Undead|Summon Undead]], [[Bind Undead|Bind Undead]], [[Necromancer's Generosity|Necromancer's Generosity]]
+*   **4th** [[Summon Undead|Summon Undead]], [[Enervation|Enervation]], [[Final Sacrifice|Final Sacrifice]]
 
 * * *
 

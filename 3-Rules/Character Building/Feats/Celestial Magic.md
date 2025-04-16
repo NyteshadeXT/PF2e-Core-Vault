@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Angelkin, Lawbringer, Musetouched, or another lineage feat associated with celestials
 * * *
-You possess celestial magic. Choose two of the following spells: [[Spells/Clear Mind|Clear Mind]], [[Spells/Everlight|Everlight]], [[Spells/Humanoid Form|Humanoid Form]], [[Spells/Revealing Light|Revealing Light]], [[Spells/Share Life|Share Life]], or [[Spells/Sure Footing|Sure Footing]]. You can use each of the chosen spells once per day as 2nd-rank divine innate spells.
+You possess celestial magic. Choose two of the following spells: [[Clear Mind|Clear Mind]], [[Everlight|Everlight]], [[Humanoid Form|Humanoid Form]], [[Revealing Light|Revealing Light]], [[3-Rules/Character Building/Spells/S/Share Life|Share Life]], or [[Sure Footing|Sure Footing]]. You can use each of the chosen spells once per day as 2nd-rank divine innate spells.
 
 Angelkin typically take clear mind and humanoid form, lawbringers typically have everlight and share life, and musetouched typically have revealing light and sure footing.
 

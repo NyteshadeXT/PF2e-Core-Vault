@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by casting [[Spells/Shifting Form|Shifting Form]] and choosing to gain a climb speed equal to half your Speed.
+Granted by casting [[Shifting Form|Shifting Form]] and choosing to gain a climb speed equal to half your Speed.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

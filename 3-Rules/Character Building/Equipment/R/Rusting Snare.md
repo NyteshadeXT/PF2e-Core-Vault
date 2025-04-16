@@ -14,7 +14,7 @@ license: OGL
 ---
 # Rusting Snare
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 75 gp; 

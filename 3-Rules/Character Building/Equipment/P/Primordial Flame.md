@@ -14,7 +14,7 @@ license: OGL
 ---
 # Primordial Flame
 ## Item 23
-### [unique](unique "Unique Rarity Trait")[[artifact]][[cursed]][[3-Rules/trait_reference/fire]][[3-Rules/trait_reference/light]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[cursed]][[3-Rules/Trait Reference/F/fire]][[3-Rules/Trait Reference/L/light]][[magical]]
 
 
 **Price** 0 gp; 
@@ -45,7 +45,7 @@ The presence of the _Primordial Flame_ alters the surrounding environment, chang
 
 * * *
 
-**Effect** The _Primordial Flame_ casts a 7th-rank [[Spells/Sunburst|Sunburst]] spell. If you can cast spells higher than 7th level, the _Primordial Flame_ automatically heightens sunburst to half your level rounded up.
+**Effect** The _Primordial Flame_ casts a 7th-rank [[Sunburst|Sunburst]] spell. If you can cast spells higher than 7th level, the _Primordial Flame_ automatically heightens sunburst to half your level rounded up.
 
 * * *
 
@@ -53,7 +53,7 @@ The presence of the _Primordial Flame_ alters the surrounding environment, chang
 
 * * *
 
-**Effect** The _Primordial Flame_ casts a 5th-rank [[Spells/Produce Flame|Produce Flame]] spell. If you can cast spells higher than 5th level, the _Primordial Flame_ automatically heightens produce flame to half your level rounded up.
+**Effect** The _Primordial Flame_ casts a 5th-rank [[Produce Flame|Produce Flame]] spell. If you can cast spells higher than 5th level, the _Primordial Flame_ automatically heightens produce flame to half your level rounded up.
 
 * * *
 

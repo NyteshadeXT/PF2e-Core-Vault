@@ -31,7 +31,7 @@ When you pull up the hood of this nondescript gray cloak (an Interact action), y
 
 * * *
 
-**Effect** You pull the cloak's hood up and gain the benefits of a 5th-rank [[Spells/Veil of Privacy|Veil of Privacy]] for 8 hours or until you pull the hood back down, whichever comes first.
+**Effect** You pull the cloak's hood up and gain the benefits of a 5th-rank [[Veil of Privacy|Veil of Privacy]] for 8 hours or until you pull the hood back down, whichever comes first.
 
 *Source: Pathfinder GM Core*
 *ORC*

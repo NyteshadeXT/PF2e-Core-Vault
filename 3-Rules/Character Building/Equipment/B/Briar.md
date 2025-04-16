@@ -49,7 +49,7 @@ Once _Briar_ gains the capability to speak, it can relate to its partner the sad
 
 **Frequency** three times per day
 
-**Effect** _Briar_ casts [[Spells/Oaken Resilience|Oaken Resilience]] on its partner.
+**Effect** _Briar_ casts [[Oaken Resilience|Oaken Resilience]] on its partner.
 
 * * *
 
@@ -65,7 +65,7 @@ Once _Briar_ gains the capability to speak, it can relate to its partner the sad
 
 **Frequency** three times per day
 
-**Effect** _Briar_ casts a 4th-rank [[Spells/Oaken Resilience|Oaken Resilience]] on its partner.
+**Effect** _Briar_ casts a 4th-rank [[Oaken Resilience|Oaken Resilience]] on its partner.
 
 **Activate** `pf2:r`
 
@@ -87,7 +87,7 @@ Once _Briar_ gains the capability to speak, it can relate to its partner the sad
 
 **Frequency** three times per day
 
-**Effect** _Briar_ casts a 6th-rank [[Spells/Oaken Resilience|Oaken Resilience]] on its partner.
+**Effect** _Briar_ casts a 6th-rank [[Oaken Resilience|Oaken Resilience]] on its partner.
 
 **Activate** `pf2:r`
 
@@ -103,7 +103,7 @@ Once _Briar_ gains the capability to speak, it can relate to its partner the sad
 
 **Trigger** _Briar's_ partner would die
 
-**Effect** _Briar_ casts [[Spells/Breath of Life|Breath of Life]] on its partner.
+**Effect** _Briar_ casts [[Breath of Life|Breath of Life]] on its partner.
 
 * * *
 
@@ -119,7 +119,7 @@ First World Lore +36, Nature +34 Int +6, Wis +6, Cha +9 +36
 
 **Frequency** three times per day
 
-**Effect** _Briar_ casts an 8th-rank [[Spells/Oaken Resilience|Oaken Resilience]] on its partner.
+**Effect** _Briar_ casts an 8th-rank [[Oaken Resilience|Oaken Resilience]] on its partner.
 
 **Activate** `pf2:r`
 

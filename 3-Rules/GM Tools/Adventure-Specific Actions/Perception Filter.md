@@ -11,7 +11,7 @@ license: OGL
 ---
 # Perception Filter `pf2:2`
 
-### [[3-Rules/trait_reference/mental]]
+### [[3-Rules/trait_reference/M/mental]]
 
 **Category** offensive; 
 

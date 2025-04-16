@@ -12,7 +12,7 @@ license: OGL
 ---
 # Vial of the Immortal Wellspring
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[contract]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[contract]][[invested]][[magical]]
 
 
 **Price** 0 gp; 
@@ -25,7 +25,7 @@ At a wellspring, you gave your blood to a force of nature and received a vial fr
 
 **Frequency** once per day
 
-**Effect** You drink from the vial of water that seals your _bargained contract_. You gain the effects of a 9th-rank, 2-action [[Spells/Heal|Heal]] spell.
+**Effect** You drink from the vial of water that seals your _bargained contract_. You gain the effects of a 9th-rank, 2-action [[Heal|Heal]] spell.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

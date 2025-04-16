@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You are descended from the valkyries who protect worthy souls, and can hold back death's grasp. You can cast [[Spells/Breath of Life|Breath of Life]] as a divine innate spell once per day.
+You are descended from the valkyries who protect worthy souls, and can hold back death's grasp. You can cast [[Breath of Life|Breath of Life]] as a divine innate spell once per day.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

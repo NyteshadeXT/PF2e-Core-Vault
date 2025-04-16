@@ -21,7 +21,7 @@ license: OGL
 * * *
 You call upon righteousness to expose an evil foe's weakness.
 
-You can cast the [[Spells/Litany of Righteousness|Litany of Righteousness]] devotion spell. Increase the number of Focus Points in your focus pool by 1.
+You can cast the [[3-Rules/Character Building/Spells/L/Litany of Righteousness|Litany of Righteousness]] devotion spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

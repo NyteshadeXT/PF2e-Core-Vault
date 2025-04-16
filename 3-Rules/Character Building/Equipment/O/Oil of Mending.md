@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-A vial of oil of mending appears to have countless translucent threads swirling within. Applying this oil to an item casts a 2nd-rank [[Spells/Mending|Mending]] spell to repair the item.
+A vial of oil of mending appears to have countless translucent threads swirling within. Applying this oil to an item casts a 2nd-rank [[Mending|Mending]] spell to repair the item.
 
 *Source: Pathfinder GM Core*
 *ORC*

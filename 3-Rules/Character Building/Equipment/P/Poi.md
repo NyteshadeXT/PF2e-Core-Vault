@@ -15,7 +15,7 @@ license: OGL
 ---
 # Poi
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[backswing]][[finesse]][[nonlethal]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[backswing]][[finesse]][[nonlethal]]
 
 |  |  |
 | -- | -- |

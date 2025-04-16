@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Cinder Gaze|Cinder Gaze]].
+Granted by [[Cinder Gaze|Cinder Gaze]].
 
 1.  **Terrible Danger** You gain a +2 status bonus to your next initiative roll.
 2.  **New Life** The next time you take damage, just before taking the damage, you gain temporary Hit Points equal to 1 plus your spellcasting ability modifier.

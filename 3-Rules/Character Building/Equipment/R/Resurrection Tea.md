@@ -14,7 +14,7 @@ license: OGL
 ---
 # Resurrection Tea
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]][[tea]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]][[tea]]
 
 **Category** potion; 
 **Price** 25 gp; 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Endure|Endure]]
+Granted by [[Endure|Endure]]
 
 You grant the touched creature temporary Hit Points.
 

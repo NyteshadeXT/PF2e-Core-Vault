@@ -27,7 +27,7 @@ This hugely massive crown is bedazzled with glimmering jewels and enchanted with
 
 **Frequency** once per round
 
-**Effect** You're the subject of the [[Spells/Sanctuary|Sanctuary]] spell until the end of your next turn.
+**Effect** You're the subject of the [[Sanctuary|Sanctuary]] spell until the end of your next turn.
 
 * * *
 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Rapier Pistol
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[backstabber]][[combination]][[concussive]][[fatal-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[backstabber]][[combination]][[concussive]][[fatal-d8]]
 
 |  |  |
 | -- | -- |

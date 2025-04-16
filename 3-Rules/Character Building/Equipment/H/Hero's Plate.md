@@ -14,7 +14,7 @@ license: ORC
 ---
 # Hero's Plate
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[bulwark]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[bulwark]][[invested]][[magical]]
 
 **Category** heavy; **Group** plate
 **Price** 1000 gp; 
@@ -29,7 +29,7 @@ Golden images of heroic deeds decorate the black plates of this _+1 resilient fu
 
 * * *
 
-**Effect** The scenes depicted on your armor shift and change, making room to accommodate your current heroic feats. You cast [[Spells/Heroism|Heroism]] on yourself.
+**Effect** The scenes depicted on your armor shift and change, making room to accommodate your current heroic feats. You cast [[Heroism|Heroism]] on yourself.
 
 *Source: Pathfinder #202: Severed at the Root*
 *ORC*

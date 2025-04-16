@@ -16,7 +16,7 @@ license: OGL
 ---
 # Stepping Stones `pf2:2`
 ## Feat 1
-### [[3-Rules/trait_reference/earth]][[impulse]][[kineticist]][[manipulate]][[primal]]
+### [[3-Rules/trait_reference/E/earth]][[impulse]][[kineticist]][[manipulate]][[primal]]
 
 **Category** class; 
 

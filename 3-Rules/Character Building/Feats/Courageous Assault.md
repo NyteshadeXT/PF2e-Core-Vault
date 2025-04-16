@@ -23,7 +23,7 @@ license: ORC
 
 **Prerequisites** warrior muse
 * * *
-With a mighty shout, you can stir an ally to attack. If your next action is to cast the [[Spells/Courageous Anthem|Courageous Anthem]] composition cantrip, one ally of your choice who gains a status bonus from the spell can immediately use their reaction to make a melee Strike.
+With a mighty shout, you can stir an ally to attack. If your next action is to cast the [[Courageous Anthem|Courageous Anthem]] composition cantrip, one ally of your choice who gains a status bonus from the spell can immediately use their reaction to make a melee Strike.
 
 *Source: Pathfinder Player Core*
 *ORC*

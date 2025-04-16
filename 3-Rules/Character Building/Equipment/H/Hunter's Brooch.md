@@ -12,14 +12,14 @@ license: OGL
 ---
 # Hunter's Brooch
 ## Item 4
-### [unique](unique "Unique Rarity Trait")[[divine]][[invested]][[vitality]]
+### [unique](unique.md "Unique Rarity Trait")[[divine]][[invested]][[vitality]]
 
 
 **Price** 80 gp; 
 **Bulk** L; **Size** med
 **Usage** worn
 
-While wearing this silver religious symbol of Erastil, you can cast the [[Spells/Vitality Lash|Vitality Lash]] cantrip as an innate divine spell.
+While wearing this silver religious symbol of Erastil, you can cast the [[Vitality Lash|Vitality Lash]] cantrip as an innate divine spell.
 
 * * *
 

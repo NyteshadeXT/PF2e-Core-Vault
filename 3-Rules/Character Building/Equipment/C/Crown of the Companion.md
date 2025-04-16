@@ -30,7 +30,7 @@ Stories tell of a forgotten king who once loved his subjects so much he was will
 
 * * *
 
-**Effect** You bow to an ally within 30 feet, creating a magical bond between the two of you as if you cast [[Spells/Share Life|Share Life]] targeting the ally. The link remains even if you move more than 30 feet away from them. At the end of the spell's duration, your ally recovers 4d8 healing Hit Points and you recover half of what they recover.
+**Effect** You bow to an ally within 30 feet, creating a magical bond between the two of you as if you cast [[3-Rules/Character Building/Spells/S/Share Life|Share Life]] targeting the ally. The link remains even if you move more than 30 feet away from them. At the end of the spell's duration, your ally recovers 4d8 healing Hit Points and you recover half of what they recover.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

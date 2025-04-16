@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Share Thoughts
 * * *
-You have an even stranger knack for knowing what other people are thinking. You can cast [[Spells/Mind Reading|Mind Reading]] as an innate occult spell once per day.
+You have an even stranger knack for knowing what other people are thinking. You can cast [[Mind Reading|Mind Reading]] as an innate occult spell once per day.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

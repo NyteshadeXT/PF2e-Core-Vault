@@ -14,7 +14,7 @@ license: ORC
 ---
 # Second Thoughts `pf2:r`
 ## Feat 18
-### [[concentrate]][[3-Rules/trait_reference/mental]][[wizard]]
+### [[concentrate]][[3-Rules/trait_reference/M/mental]][[wizard]]
 
 **Category** class; 
 

@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You learn the [[Spells/Symphony of the Unfettered Heart|Symphony of the Unfettered Heart]] composition spell, which enables you to protect an ally against incapacitating conditions.
+You learn the [[3-Rules/Character Building/Spells/S/Symphony of the Unfettered Heart|Symphony of the Unfettered Heart]] composition spell, which enables you to protect an ally against incapacitating conditions.
 
 *Source: Pathfinder Player Core*
 *ORC*

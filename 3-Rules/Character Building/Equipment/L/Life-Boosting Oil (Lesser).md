@@ -14,7 +14,7 @@ license: OGL
 ---
 # Life-Boosting Oil (Lesser)
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[healing]][[magical]][[oil]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[healing]][[magical]][[oil]]
 
 **Category** oil; 
 **Price** 12 gp; 

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Magazine with 5 Bolts
 
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 **Category** ammo; 
 **Price** 9 sp; 

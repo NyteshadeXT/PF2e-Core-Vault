@@ -12,7 +12,7 @@ license: OGL
 ---
 # Singularity Ammunition
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]]
 
 **Category** ammo; 
 **Price** 550 gp; 

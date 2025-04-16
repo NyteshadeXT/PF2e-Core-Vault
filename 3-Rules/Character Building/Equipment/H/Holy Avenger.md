@@ -13,7 +13,7 @@ license: OGL
 ---
 # Holy Avenger
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[divine]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -34,7 +34,7 @@ The gleaming holy avenger is the iconic weapon of powerful paladins. The crossba
 
 * * *
 
-**Effect** You command the sword and point it at a creature you can see. The sword casts [[Spells/Detect Alignment|Detect Alignment]] to detect evil, but this targets only the selected creature instead of detecting in an area.
+**Effect** You command the sword and point it at a creature you can see. The sword casts [[Detect Alignment|Detect Alignment]] to detect evil, but this targets only the selected creature instead of detecting in an area.
 
 * * *
 
@@ -51,7 +51,7 @@ The gleaming holy avenger is the iconic weapon of powerful paladins. The crossba
 
 * * *
 
-**Effect** You cast [[Spells/Dispel Magic|Dispel Magic]] at the same level as your champion focus spells. It must target an illusion the creature you hit created, a spell affecting the creature you hit, or an item the creature you hit wears or carries. The spell or item you attempt to counteract must be within 120 feet of you.
+**Effect** You cast [[Dispel Magic|Dispel Magic]] at the same level as your champion focus spells. It must target an illusion the creature you hit created, a spell affecting the creature you hit, or an item the creature you hit wears or carries. The spell or item you attempt to counteract must be within 120 feet of you.
 
 * * *
 

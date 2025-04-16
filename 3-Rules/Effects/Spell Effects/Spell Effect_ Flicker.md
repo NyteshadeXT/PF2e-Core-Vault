@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Flicker|Flicker]]
+Granted by [[3-Rules/Character Building/Spells/F/Flicker|Flicker]]
 
 *Source: Pathfinder Player Core*
 *ORC*

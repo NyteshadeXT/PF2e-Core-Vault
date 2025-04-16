@@ -10,7 +10,7 @@ license: OGL
 ---
 # Shard of the Third Seal
 ## Item 9
-### [unique](unique "Unique Rarity Trait")[[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[magical]]
 
 
 **Price** 600 gp; 
@@ -23,7 +23,7 @@ This stone fragment from the Third Seal retains a tiny sliver of that legendary 
 
 **Activate** `pf2:2` envision, Interact
 
-**Effect** You generate the effects of a [[Spells/Vitality Lash|Vitality Lash]] cantrip, heightened to 3rd level.
+**Effect** You generate the effects of a [[Vitality Lash|Vitality Lash]] cantrip, heightened to 3rd level.
 
 * * *
 
@@ -31,7 +31,7 @@ This stone fragment from the Third Seal retains a tiny sliver of that legendary 
 
 **Frequency** once per day
 
-**Effect** By passing the shard over a creature or object, you can produce the effects of a [[Spells/Veil of Privacy|Veil of Privacy]] spell on that target.
+**Effect** By passing the shard over a creature or object, you can produce the effects of a [[Veil of Privacy|Veil of Privacy]] spell on that target.
 
 * * *
 
@@ -39,7 +39,7 @@ This stone fragment from the Third Seal retains a tiny sliver of that legendary 
 
 **Frequency** once per day
 
-**Effect** By gripping the shard tightly and waving it before you, you can produce the effects of a [[Spells/Levitate|Levitate]] spell on yourself.
+**Effect** By gripping the shard tightly and waving it before you, you can produce the effects of a [[Levitate|Levitate]] spell on yourself.
 
 *Source: Pathfinder Adventure: Crown of the Kobold King*
 *OGL*

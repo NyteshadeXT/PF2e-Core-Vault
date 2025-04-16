@@ -15,7 +15,7 @@ license: ORC
 ---
 # Frogskin Tincture
 ## Item 6
-### [[alchemical]][[consumable]][[elixir]][[3-Rules/trait_reference/poison|Poison]]
+### [[alchemical]][[consumable]][[elixir]][[3-Rules/Trait Reference/P/poison|Poison]]
 
 **Category** elixir; 
 **Price** 50 gp; 

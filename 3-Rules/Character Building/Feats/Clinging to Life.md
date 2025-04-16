@@ -11,7 +11,7 @@ license: OGL
 ---
 # Clinging to Life `pf2:0`
 ## Feat 13
-### [rare](rare "Rare Rarity Trait")[[reincarnated]]
+### [rare](rare.md "Rare Rarity Trait")[[reincarnated]]
 
 **Category** ancestry; 
 

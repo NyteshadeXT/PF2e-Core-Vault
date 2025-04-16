@@ -14,7 +14,7 @@ license: ORC
 ---
 # Gasping Lament (Greater)
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[coda]][[invested]][[magical]][[3-Rules/Character Building/Equipment/S/Staff]]
+### [rare](rare.md "Rare Rarity Trait")[[coda]][[invested]][[magical]][[3-Rules/Character Building/Equipment/S/Staff]]
 
 
 **Price** 14500 gp; 
@@ -29,14 +29,14 @@ This collar is a silken cord from which hangs a small silver amulet that bears t
 
 **Effect** You expend a number of charges from the collar to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Message|Message]]
-*   **1st** [[Spells/Charm|Charm]], [[Spells/Command|Command]]
-*   **2nd** [[Spells/Sonata Span|Sonata Span]], [[Spells/Ventriloquism|Ventriloquism]]
-*   **3rd** [[Spells/Enthrall|Enthrall]], [[Spells/Shatter|Shatter]]
-*   **4th** [[Spells/Honeyed Words|Honeyed Words]], [[Spells/Infectious Melody|Infectious Melody]]
-*   **5th** [[Spells/Command|Command]], [[Spells/Concordant Choir|Concordant Choir]]
-*   **6th** [[Spells/Noise Blast|Noise Blast]], [[Spells/Zealous Conviction|Zealous Conviction]]
-*   **7th** [[Spells/Shatter|Shatter]], [[Spells/Vibrant Vibrato|Vibrant Vibrato]]
+*   **Cantrip** [[Message|Message]]
+*   **1st** [[Charm|Charm]], [[Command|Command]]
+*   **2nd** [[Sonata Span|Sonata Span]], [[Ventriloquism|Ventriloquism]]
+*   **3rd** [[Enthrall|Enthrall]], [[Shatter|Shatter]]
+*   **4th** [[Honeyed Words|Honeyed Words]], [[Infectious Melody|Infectious Melody]]
+*   **5th** [[Command|Command]], [[Concordant Choir|Concordant Choir]]
+*   **6th** [[Noise Blast|Noise Blast]], [[Zealous Conviction|Zealous Conviction]]
+*   **7th** [[Shatter|Shatter]], [[Vibrant Vibrato|Vibrant Vibrato]]
 
 * * *
 

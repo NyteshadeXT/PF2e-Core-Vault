@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of the Snowfields (7th-Level Spell)
 ## Item 18
-### [[3-Rules/trait_reference/cold]][[magical]][[wand]]
+### [[3-Rules/trait_reference/C/cold]][[magical]][[wand]]
 
 
 **Price** 24000 gp; 
@@ -27,7 +27,7 @@ This wand is a slender length of ice-blue glass.
 
 * * *
 
-**Effect** You cast [[Spells/Cone of Cold|Cone of Cold]] at 7th rank.
+**Effect** You cast [[Cone of Cold|Cone of Cold]] at 7th rank.
 
 The ground within the spell's area is swathed in deep snow, becoming difficult terrain for 1 minute.
 

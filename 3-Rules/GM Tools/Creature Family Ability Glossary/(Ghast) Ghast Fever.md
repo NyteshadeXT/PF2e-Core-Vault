@@ -11,7 +11,7 @@ license: OGL
 ---
 # (Ghast) Ghast Fever
 
-### [[disease]]
+### [[3-Rules/trait_reference/D/disease]]
 
 **Category** offensive; 
 

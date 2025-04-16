@@ -14,7 +14,7 @@ license: OGL
 ---
 # Masquerade of Seasons Stance `pf2:1`
 ## Feat 4
-### [rare](rare "Rare Rarity Trait")[[bard]][[rogue]][[stance]][[swashbuckler]]
+### [rare](rare.md "Rare Rarity Trait")[[bard]][[rogue]][[stance]][[swashbuckler]]
 
 **Category** class; 
 

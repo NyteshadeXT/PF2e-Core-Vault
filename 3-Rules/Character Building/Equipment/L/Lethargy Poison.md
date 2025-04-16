@@ -17,7 +17,7 @@ license: ORC
 ---
 # Lethargy Poison
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[incapacitation]][[injury]][[3-Rules/trait_reference/poison]][[sleep]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[incapacitation]][[injury]][[3-Rules/Trait Reference/P/poison]][[3-Rules/Trait Reference/S/sleep]]
 
 **Category** poison; 
 **Price** 7 gp; 

@@ -41,13 +41,13 @@ A _guardian staff_ is formed from ivory strands woven in a diamond pattern and c
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Forbidding Ward|Forbidding Ward]]
-*   **1st** [[Spells/Sanctuary|Sanctuary]], [[Spells/Spirit Link|Spirit Link]]
-*   **2nd** [[Spells/Share Life|Share Life]], [[Spells/Spirit Link|Spirit Link]]
-*   **3rd** [[Spells/Life Connection|Life Connection]], [[Spells/Spirit Link|Spirit Link]]
-*   **4th** [[Spells/Unfettered Movement|Unfettered Movement]], [[Spells/Spirit Link|Spirit Link]]
-*   **5th** [[Spells/Blessing of Defiance|Blessing of Defiance]], [[Spells/Death Ward|Death Ward]], [[Spells/Spirit Link|Spirit Link]]
-*   **6th** [[Spells/Unfettered Movement|Unfettered Movement]], [[Spells/Repulsion|Repulsion]], [[Spells/Scintillating Safeguard|Scintillating Safeguard]], [[Spells/Spirit Link|Spirit Link]]
+*   **Cantrip** [[Forbidding Ward|Forbidding Ward]]
+*   **1st** [[Sanctuary|Sanctuary]], [[Spirit Link|Spirit Link]]
+*   **2nd** [[3-Rules/Character Building/Spells/S/Share Life|Share Life]], [[Spirit Link|Spirit Link]]
+*   **3rd** [[Life Connection|Life Connection]], [[Spirit Link|Spirit Link]]
+*   **4th** [[Unfettered Movement|Unfettered Movement]], [[Spirit Link|Spirit Link]]
+*   **5th** [[Blessing of Defiance|Blessing of Defiance]], [[Death Ward|Death Ward]], [[Spirit Link|Spirit Link]]
+*   **6th** [[Unfettered Movement|Unfettered Movement]], [[Repulsion|Repulsion]], [[Scintillating Safeguard|Scintillating Safeguard]], [[Spirit Link|Spirit Link]]
 
 * * *
 

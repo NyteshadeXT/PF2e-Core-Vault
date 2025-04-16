@@ -17,7 +17,7 @@ license: OGL
 
 
 
-The Kallas Devil controls any water she touches. When the Kallas Devil is in water, she can cast [[Spells/Hydraulic Push|Hydraulic Push]] as an occult innate spell at will.
+The Kallas Devil controls any water she touches. When the Kallas Devil is in water, she can cast [[Hydraulic Push|Hydraulic Push]] as an occult innate spell at will.
 
 *Source: Pathfinder Lost Omens: Monsters of Myth*
 *OGL*

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Convince Mengkare
 
-### [[auditory]][[concentrate]][[linguistic]][[3-Rules/trait_reference/mental]]
+### [[auditory]][[concentrate]][[linguistic]][[3-Rules/trait_reference/M/mental]]
 
 **Category** interaction; 
 

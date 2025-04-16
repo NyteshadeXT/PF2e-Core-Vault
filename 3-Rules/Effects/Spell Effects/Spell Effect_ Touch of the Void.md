@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by failing the save against [[Spells/Touch of the Void|Touch of Corruption]].
+Granted by failing the save against [[Touch of the Void|Touch of Corruption]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Nyctessa's Staff
 ## Item 4
-### [unique](unique "Unique Rarity Trait")[[magical]][[monk]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
+### [unique](unique.md "Unique Rarity Trait")[[magical]][[monk]][[3-Rules/Character Building/Equipment/S/Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -38,8 +38,8 @@ When you damage a creature with Nyctessa's staff, that creature gains weakness 2
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Void Warp|Void Warp]]
-*   **1st** [[Spells/Summon Undead|Summon Undead]], [[Spells/Fear|Fear]]
+*   **Cantrip** [[Void Warp|Void Warp]]
+*   **1st** [[Summon Undead|Summon Undead]], [[3-Rules/Character Building/Spells/F/Fear|Fear]]
 
 *Source: Pathfinder Wake the Dead #5*
 *OGL*

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Purloining Cloak
 ## Item 18
-### [rare](rare "Rare Rarity Trait")[[apex]][[intelligent]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[apex]][[intelligent]][[invested]][[magical]]
 
 
 **Price** 24000 gp; 
@@ -36,7 +36,7 @@ Each purloining cloak is a mercurial mantle once worn by a legendary thief or tw
 
 **Activate** `pf2:2` command, envision
 
-**Effect** The cloak casts 2nd-rank [[Spells/Illusory Disguise|Illusory Disguise]] on you, usually to your specifications. However the cloak can choose the appearance of the illusion for you.
+**Effect** The cloak casts 2nd-rank [[Illusory Disguise|Illusory Disguise]] on you, usually to your specifications. However the cloak can choose the appearance of the illusion for you.
 
 * * *
 

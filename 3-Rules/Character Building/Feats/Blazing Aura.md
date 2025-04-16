@@ -14,7 +14,7 @@ license: OGL
 ---
 # Blazing Aura `pf2:r`
 ## Feat 17
-### [[concentrate]][[3-Rules/trait_reference/fire]][[naari]][[primal]]
+### [[concentrate]][[3-Rules/trait_reference/F/fire]][[naari]][[primal]]
 
 **Category** ancestry; 
 

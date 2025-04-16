@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of the Spider (4th-Level Spell)
 ## Item 11
-### [[magical]][[3-Rules/trait_reference/poison]][[wand]]
+### [[magical]][[3-Rules/trait_reference/P/poison]][[wand]]
 
 
 **Price** 1400 gp; 
@@ -27,7 +27,7 @@ The handle of this wand is a 5-inch-long piece of rosewood, but most of its leng
 
 * * *
 
-**Effect** You cast [[Spells/Web|Web]] at 4th rank, but the strands of webbing are envenomed. Any creature that fails their Athletics check or Reflex save to navigate the web takes 2d6 poison damage plus 1d6 persistent poison damage.
+**Effect** You cast [[Web|Web]] at 4th rank, but the strands of webbing are envenomed. Any creature that fails their Athletics check or Reflex save to navigate the web takes 2d6 poison damage plus 1d6 persistent poison damage.
 
 **Craft Requirements** Supply a casting of _web_ at 4th-rank.
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Resonant Reflection: Reflection of Stone
 ## Feat 10
-### [[3-Rules/trait_reference/earth]][[magical]]
+### [[3-Rules/trait_reference/E/earth]][[magical]]
 
 **Category** deityboon; 
 
@@ -29,7 +29,7 @@ Your body is infused with the resilience and durability of stone. You are protec
 
 * * *
 
-**Effect** You cast [[Spells/Mountain Resilience|Mountain Resilience]] as an innate divine spell, heightened to a spell rank equal to half your level rounded up.
+**Effect** You cast [[Mountain Resilience|Mountain Resilience]] as an innate divine spell, heightened to a spell rank equal to half your level rounded up.
 
 *Source: Pathfinder #153: Life's Long Shadows*
 *OGL*

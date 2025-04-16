@@ -20,7 +20,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-This powder shimmers like a thousand tiny motes of light. Activating the dust by sprinkling it on yourself or a creature within reach casts a 4th-rank [[Spells/Invisibility|Invisibility]] spell with a duration of 1 minute on that creature. This invisibility can't be negated or seen through by any spell of 3rd level or lower or any item of 5th level or lower.
+This powder shimmers like a thousand tiny motes of light. Activating the dust by sprinkling it on yourself or a creature within reach casts a 4th-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] spell with a duration of 1 minute on that creature. This invisibility can't be negated or seen through by any spell of 3rd level or lower or any item of 5th level or lower.
 
 **Activate** `pf2:1` Interact
 

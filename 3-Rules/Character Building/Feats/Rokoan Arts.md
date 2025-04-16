@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Ancestral spirits have begun to bond themselves to you, granting you powers characteristic of a rokoa. You can cast [[Spells/Speak with Animals|Speak with Animals]] and [[Spells/Status|Status]] as primal innate spells once per day each.
+Ancestral spirits have begun to bond themselves to you, granting you powers characteristic of a rokoa. You can cast [[Speak with Animals|Speak with Animals]] and [[Status|Status]] as primal innate spells once per day each.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

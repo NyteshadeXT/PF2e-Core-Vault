@@ -40,7 +40,7 @@ This _+1 striking returning trident_ is made of an ancient black metal that glis
 
 **Frequency** once per hour
 
-**Effect** The trident casts 3rd-rank [[Spells/Quench|Quench]] with a DC of 25 and a counteract modifier of +15. You can Sustain the Spell as normal.
+**Effect** The trident casts 3rd-rank [[Quench|Quench]] with a DC of 25 and a counteract modifier of +15. You can Sustain the Spell as normal.
 
 * * *
 
@@ -48,7 +48,7 @@ This _+1 striking returning trident_ is made of an ancient black metal that glis
 
 **Frequency** once per day
 
-**Effect** You call upon the corrupted power of the trident to stay a foe. Attempt a Strike. On a hit, the trident casts 3rd-rank [[Spells/Paralyze|Paralyze]] on the target (DC 25). If the Strike was a critical hit, the target is [[Conditions/Stunned|Stunned 1]] even if it critically succeeds at the save.
+**Effect** You call upon the corrupted power of the trident to stay a foe. Attempt a Strike. On a hit, the trident casts 3rd-rank [[Paralyze|Paralyze]] on the target (DC 25). If the Strike was a critical hit, the target is [[Conditions/Stunned|Stunned 1]] even if it critically succeeds at the save.
 
 * * *
 

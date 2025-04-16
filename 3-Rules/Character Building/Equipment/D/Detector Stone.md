@@ -40,7 +40,7 @@ While you have a _detector stone_ invested, it glows faintly when an undead crea
 
 * * *
 
-**Effect** You focus on the stone as it glows, and your eyes glow with the same tainted light. You detect the auras of evil undead in a 30-foot radius around you and learn each aura's location and strength. This has the effects of a 2nd-rank [[Spells/Detect Alignment|Detect Alignment]] spell but only detects evil undead.
+**Effect** You focus on the stone as it glows, and your eyes glow with the same tainted light. You detect the auras of evil undead in a 30-foot radius around you and learn each aura's location and strength. This has the effects of a 2nd-rank [[Detect Alignment|Detect Alignment]] spell but only detects evil undead.
 
 *Source: Pathfinder Lost Omens: Knights of Lastwall*
 *OGL*

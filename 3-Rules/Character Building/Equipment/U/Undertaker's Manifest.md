@@ -13,7 +13,7 @@ license: OGL
 ---
 # Undertaker's Manifest
 ## Item 6
-### [[3-Rules/trait_reference/darkness]][[grimoire]][[magical]][[3-Rules/Character Building/Equipment/S/Shadow]]
+### [[3-Rules/trait_reference/D/darkness]][[grimoire]][[magical]][[3-Rules/Character Building/Equipment/S/Shadow]]
 
 
 **Price** 220 gp; 

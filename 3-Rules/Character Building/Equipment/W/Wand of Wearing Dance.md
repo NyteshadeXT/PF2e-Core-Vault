@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Wearing Dance
 ## Item 18
-### [[magical]][[3-Rules/trait_reference/mental]][[wand]]
+### [[magical]][[3-Rules/trait_reference/M/mental]][[wand]]
 
 
 **Price** 24000 gp; 
@@ -27,11 +27,11 @@ This colorfully painted wand has a few jingling bells tied to the pommel.
 
 * * *
 
-**Effect** You cast [[Spells/Uncontrollable Dance|Uncontrollable Dance]]. When the spell's duration ends, if the target was forced to dance for 1 minute, it becomes [[Conditions/Fatigued|Fatigued]].
+**Effect** You cast [[Uncontrollable Dance|Uncontrollable Dance]]. When the spell's duration ends, if the target was forced to dance for 1 minute, it becomes [[Conditions/Fatigued|Fatigued]].
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Uncontrollable Dance|Uncontrollable Dance]].
+**Craft Requirements** Supply a casting of [[Uncontrollable Dance|Uncontrollable Dance]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

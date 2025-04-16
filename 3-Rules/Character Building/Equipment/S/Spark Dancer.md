@@ -15,7 +15,7 @@ license: OGL
 ---
 # Spark Dancer
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[capacity-3]][[concussive]][[fatal-d8]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[capacity-3]][[concussive]][[fatal-d8]][[magical]]
 
 |  |  |
 | -- | -- |
@@ -35,7 +35,7 @@ This _+2 greater striking pepperbox_ cycles through several magical cores, swapp
 
 * * *
 
-**Effect** The _spark dancer_ casts either [[Spells/Fireball|Fireball]] or [[Spells/Lightning Bolt|Lightning Bolt]], depending on whether the current core would deal fire or electricity damage, as a 7th-rank arcane spell (DC 30 Reflex check).
+**Effect** The _spark dancer_ casts either [[Fireball|Fireball]] or [[Lightning Bolt|Lightning Bolt]], depending on whether the current core would deal fire or electricity damage, as a 7th-rank arcane spell (DC 30 Reflex check).
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

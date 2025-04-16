@@ -13,7 +13,7 @@ license: ORC
 ---
 # Hellfire Boots
 ## Item 13
-### [[3-Rules/trait_reference/fire]][[invested]][[occult]]
+### [[3-Rules/Trait Reference/F/fire]][[invested]][[occult]]
 
 
 **Price** 3000 gp; 

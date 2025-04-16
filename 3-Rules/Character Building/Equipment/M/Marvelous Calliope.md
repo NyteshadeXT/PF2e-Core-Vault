@@ -11,7 +11,7 @@ license: OGL
 ---
 # Marvelous Calliope
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[structure]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[structure]]
 
 
 **Price** 100 gp; 
@@ -36,7 +36,7 @@ If you use an Interact action to pull the small metal ring on the underside of t
 
 **Frequency** once per hour
 
-**Effect** You play the calliope, causing it to cast [[Spells/Charm|Charm]] on one of the listeners.
+**Effect** You play the calliope, causing it to cast [[Charm|Charm]] on one of the listeners.
 
 *Source: Pathfinder #152: Legacy of the Lost God*
 *OGL*

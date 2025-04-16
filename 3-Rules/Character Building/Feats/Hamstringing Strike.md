@@ -11,7 +11,7 @@ license: OGL
 ---
 # Hamstringing Strike `pf2:1`
 ## Feat 8
-### [rare](rare "Rare Rarity Trait")[[ranger]]
+### [rare](rare.md "Rare Rarity Trait")[[ranger]]
 
 **Category** class; 
 

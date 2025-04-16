@@ -13,7 +13,7 @@ license: OGL
 ---
 # Skyseeker `pf2:2`
 ## Feat 8
-### [[archetype]][[3-Rules/trait_reference/electricity]][[3-Rules/trait_reference/sonic]]
+### [[archetype]][[3-Rules/trait_reference/E/electricity]][[3-Rules/trait_reference/sonic]]
 
 **Category** class; 
 

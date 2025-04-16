@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Trigger** You attempt an attack roll, skill check, or saving throw while performing the course of action from your [[Spells/Augury|Augury]], but you haven't rolled yet.
+**Trigger** You attempt an attack roll, skill check, or saving throw while performing the course of action from your [[Augury|Augury]], but you haven't rolled yet.
 
 * * *
 

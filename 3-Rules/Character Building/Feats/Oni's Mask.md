@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You aren't as malleable as your oni ancestors but still can disguise yourself. You can cast [[Spells/Illusory Disguise|Illusory Disguise]] as a 1st-rank primal innate spell once per day. This spell can't disguise your horns, though you can still hide them normally with a hairstyle or a hood.
+You aren't as malleable as your oni ancestors but still can disguise yourself. You can cast [[Illusory Disguise|Illusory Disguise]] as a 1st-rank primal innate spell once per day. This spell can't disguise your horns, though you can still hide them normally with a hairstyle or a hood.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

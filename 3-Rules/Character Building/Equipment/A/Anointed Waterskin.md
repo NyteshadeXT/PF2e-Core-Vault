@@ -11,7 +11,7 @@ license: OGL
 ---
 # Anointed Waterskin
 ## Item 9
-### [[3-Rules/Rule References/Divine]][[3-Rules/trait_reference/water|Water]]
+### [[3-Rules/Rule References/Divine]][[3-Rules/Trait Reference/W/water|Water]]
 
 
 **Price** 600 gp; 
@@ -28,7 +28,7 @@ This waterskin coruscates with holy energy, causing it to slowly fill itself wit
 
 * * *
 
-**Effect** You throw the anointed waterskin up to 60 feet. The water explodes out of it, with the effects of [[Spells/Holy Cascade|Holy Cascade]].
+**Effect** You throw the anointed waterskin up to 60 feet. The water explodes out of it, with the effects of [[Holy Cascade|Holy Cascade]].
 
 * * *
 
@@ -38,7 +38,7 @@ This waterskin coruscates with holy energy, causing it to slowly fill itself wit
 
 * * *
 
-**Effect** You drink the water within the waterskin, granting you the effects of [[Spells/Bless|Bless]]. As normal with the spell, you can increase the radius with a single action with the concentrate trait.
+**Effect** You drink the water within the waterskin, granting you the effects of [[Bless|Bless]]. As normal with the spell, you can increase the radius with a single action with the concentrate trait.
 
 * * *
 

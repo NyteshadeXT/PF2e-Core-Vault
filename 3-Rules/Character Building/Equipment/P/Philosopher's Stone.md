@@ -13,7 +13,7 @@ license: ORC
 ---
 # Philosopher's Stone
 ## Item 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** toolkit; 
 **Price** 0 gp; 

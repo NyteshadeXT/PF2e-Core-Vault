@@ -11,7 +11,7 @@ license: OGL
 ---
 # Spurned Lute
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[cursed]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[magical]]
 
 
 **Price** 50 gp; 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Disarming Assault `pf2:1`
 ## Feat 8
-### [[barbarian]][[flourish]][[rage]]
+### [[barbarian]][[flourish]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

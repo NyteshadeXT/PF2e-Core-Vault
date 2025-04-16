@@ -14,7 +14,7 @@ license: OGL
 ---
 # Dwarven Dorn-Dergar
 ## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/dwarf]][[razing]][[3-Rules/trait_reference/reach|Reach]] 
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[dwarf]][[razing]][[reach|Reach]] 
 
 |  |  |
 | -- | -- |

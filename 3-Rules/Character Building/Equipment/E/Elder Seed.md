@@ -31,7 +31,7 @@ An enormous, perfect, ripe seed from a tree important to a region's druids, an e
 
 **Stage 4** You die.
 
-**Purging** You must seek out an arboreal, druid, or nature-loving fey that is your level or higher whom you have never met, and pledge your allegiance to that being. Doing so places you under a [[Spells/Geas|Geas]] to accomplish at least one meaningful service, usually a quest, for your new liege. While under the geas, you can't advance to stage 4. Once you complete your service, you regurgitate the elder seed, and its effects on you end.
+**Purging** You must seek out an arboreal, druid, or nature-loving fey that is your level or higher whom you have never met, and pledge your allegiance to that being. Doing so places you under a [[Geas|Geas]] to accomplish at least one meaningful service, usually a quest, for your new liege. While under the geas, you can't advance to stage 4. Once you complete your service, you regurgitate the elder seed, and its effects on you end.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

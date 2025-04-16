@@ -15,7 +15,7 @@ license: OGL
 ---
 # Dreamtime Tea
 ## Item 4
-### [[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/trait_reference/poison|Poison]]
+### [[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/Trait Reference/P/poison|Poison]]
 
 **Category** drug; 
 **Price** 13 gp; 
@@ -34,7 +34,7 @@ This lemony tea blended from rare Vudrani herbs and flowers is widely circulated
 
 **Stage 1** [[Conditions/Stupefied|Stupefied 2]] (1 minute)
 
-**Stage 2** [[Conditions/Unconscious|Unconscious]] and can ask a question with the effects of [[Spells/Augury|Augury]] except the flat check DC is 10 (10 minutes)
+**Stage 2** [[Conditions/Unconscious|Unconscious]] and can ask a question with the effects of [[Augury|Augury]] except the flat check DC is 10 (10 minutes)
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

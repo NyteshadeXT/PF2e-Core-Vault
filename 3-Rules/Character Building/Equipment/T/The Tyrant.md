@@ -34,7 +34,7 @@ As long as you have The Tyrant invested, you gain a +2 item bonus to Intimidatio
 
 * * *
 
-**Effect** You hold the card up to your lips and exhale onto it; you cast [[Spells/Dragon Form|Dragon Form]]. The rank of the spell is half your level, rounded down (minimum 6th level).
+**Effect** You hold the card up to your lips and exhale onto it; you cast [[Dragon Form|Dragon Form]]. The rank of the spell is half your level, rounded down (minimum 6th level).
 
 *Source: Pathfinder #191: The Destiny War*
 *OGL*

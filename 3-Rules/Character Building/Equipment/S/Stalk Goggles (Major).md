@@ -12,7 +12,7 @@ license: OGL
 ---
 # Stalk Goggles (Major)
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]][[morph]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]][[morph]]
 
 
 **Price** 450 gp; 

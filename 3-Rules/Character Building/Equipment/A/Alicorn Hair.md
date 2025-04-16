@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-Hair shed from an alicorn's mane glows when it comes into contact with a living creature. A [[Spells/Stabilize|Stabilize]] spell empowered with an _alicorn hair_ allows you to target 1 additional creature.
+Hair shed from an alicorn's mane glows when it comes into contact with a living creature. A [[Stabilize|Stabilize]] spell empowered with an _alicorn hair_ allows you to target 1 additional creature.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

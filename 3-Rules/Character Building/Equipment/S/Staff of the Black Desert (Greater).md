@@ -35,14 +35,14 @@ While carrying the staff, you gain a +2 circumstance bonus to Occultism checks t
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Know the Way|Know the Way]]
-*   **1st** [[Spells/Create Water|Create Water]] [[Spells/Cleanse Cuisine|Cleanse Cuisine]] [[Spells/Phantasmal Minion|Phantasmal Minion]]
-*   **2nd** [[Spells/Darkvision|Darkvision]] [[Spells/Environmental Endurance|Environmental Endurance]]
-*   **3rd** [[Spells/Earthbind|Earthbind]] [[Spells/Cleanse Affliction|Cleanse Affliction]] [[Spells/Wanderer's Guide|Wanderer's Guide]]
-*   **4th** [[Spells/Air Walk|Air Walk]] [[Spells/Mirage|Mirage]] [[Spells/Rope Trick|Rope Trick]]
-*   **5th** [[Spells/Pillars of Sand|Pillars of Sand]] [[Spells/Illusory Disguise|Illusory Disguise]]
-*   **6th** [[Spells/Purple Worm Sting|Purple Worm Sting]] [[Spells/Summon Entity|Summon Entity]]
-*   **7th** [[Spells/Blightburn Blast|Blightburn Blast]] [[Spells/Control Sand|Control Sand]] [[Spells/Unfettered Pack|Unfettered Pack]]
+*   **Cantrip** [[Know the Way|Know the Way]]
+*   **1st** [[Create Water|Create Water]] [[Cleanse Cuisine|Cleanse Cuisine]] [[3-Rules/Character Building/Spells/P/Phantasmal Minion|Phantasmal Minion]]
+*   **2nd** [[3-Rules/Character Building/Spells/D/Darkvision|Darkvision]] [[Environmental Endurance|Environmental Endurance]]
+*   **3rd** [[Earthbind|Earthbind]] [[Cleanse Affliction|Cleanse Affliction]] [[Wanderer's Guide|Wanderer's Guide]]
+*   **4th** [[Air Walk|Air Walk]] [[Mirage|Mirage]] [[Rope Trick|Rope Trick]]
+*   **5th** [[Pillars of Sand|Pillars of Sand]] [[Illusory Disguise|Illusory Disguise]]
+*   **6th** [[Purple Worm Sting|Purple Worm Sting]] [[Summon Entity|Summon Entity]]
+*   **7th** [[Blightburn Blast|Blightburn Blast]] [[Control Sand|Control Sand]] [[Unfettered Pack|Unfettered Pack]]
 
 * * *
 

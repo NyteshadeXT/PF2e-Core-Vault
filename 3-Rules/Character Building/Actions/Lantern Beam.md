@@ -14,7 +14,7 @@ license: ORC
 ---
 # Lantern Beam `pf2:1`
 
-### [[3-Rules/Rule References/Fire]][[3-Rules/trait_reference/light]][[3-Rules/Rule References/Magical]]
+### [[3-Rules/Rule References/Fire]][[3-Rules/Trait Reference/L/light]][[3-Rules/Rule References/Magical]]
 
 **Category** offensive; 
 

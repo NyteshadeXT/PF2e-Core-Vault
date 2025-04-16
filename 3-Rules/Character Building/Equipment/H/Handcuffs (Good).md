@@ -9,7 +9,7 @@ license: OGL
 ---
 # Handcuffs (Good)
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 350 gp; 

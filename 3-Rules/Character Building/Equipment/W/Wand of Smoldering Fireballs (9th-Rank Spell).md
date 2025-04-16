@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wand of Smoldering Fireballs (9th-Rank Spell)
 ## Item 20
-### [[3-Rules/trait_reference/fire]][[magical]][[wand]]
+### [[3-Rules/trait_reference/F/fire]][[magical]][[wand]]
 
 
 **Price** 70000 gp; 
@@ -28,7 +28,7 @@ This blackened, heavily burned stick smells faintly of saltpeter.
 
 **Frequency** once per day, plus overcharge
 
-**Effect** You cast [[Spells/Fireball|Fireball]] at 9th-rank. Each creature that fails its save takes 4d6 persistent fire damage.
+**Effect** You cast [[Fireball|Fireball]] at 9th-rank. Each creature that fails its save takes 4d6 persistent fire damage.
 
 * * *
 

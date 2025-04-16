@@ -28,7 +28,7 @@ Several sapphires are set along the length of this brilliant silver necklace. Th
 
 * * *
 
-**Effect** You cast a 4th-rank [[Spells/Charm|Charm]] spell with a DC 38 Will check.
+**Effect** You cast a 4th-rank [[Charm|Charm]] spell with a DC 38 Will check.
 
 *Source: Pathfinder GM Core*
 *ORC*

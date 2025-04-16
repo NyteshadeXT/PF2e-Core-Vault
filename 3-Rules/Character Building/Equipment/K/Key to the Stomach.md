@@ -12,7 +12,7 @@ license: OGL
 ---
 # Key to the Stomach
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[contract]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[contract]][[invested]][[magical]]
 
 
 **Price** 0 gp; 
@@ -25,7 +25,7 @@ Whether due to the inconvenience of having a physical body or the desperation of
 
 **Frequency** once per day
 
-**Effect** You absorb any poisons with the key sealing your _bargained contract_. You gain the benefits of a casting of [[Spells/Cleanse Affliction|Cleanse Affliction]].
+**Effect** You absorb any poisons with the key sealing your _bargained contract_. You gain the benefits of a casting of [[Cleanse Affliction|Cleanse Affliction]].
 
 *Source: Pathfinder Dark Archive*
 *OGL*

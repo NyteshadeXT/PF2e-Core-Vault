@@ -15,7 +15,7 @@ license: OGL
 ---
 # Ouroboros Flail (Greater)
 ## Item 17
-### [[disarm]][[magical]][[sweep]][[trip]]
+### [[3-Rules/Trait Reference/D/disarm]][[magical]][[sweep]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

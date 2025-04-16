@@ -12,7 +12,7 @@ license: OGL
 ---
 # Impossible Cake (Greater)
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** other; 
 **Price** 25 gp; 

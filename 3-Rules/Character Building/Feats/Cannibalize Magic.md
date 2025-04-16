@@ -10,7 +10,7 @@ license: OGL
 ---
 # Cannibalize Magic `pf2:2`
 ## Feat 13
-### [rare](rare "Rare Rarity Trait")
+### [rare](rare.md "Rare Rarity Trait")
 
 **Category** ancestry; 
 

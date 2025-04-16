@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Runic Body|Runic Body]]
+Granted by [[Runic Body|Runic Body]]
 
 All the target's unarmed attacks become _+1 striking_ unarmed attacks, gaining a +1 item bonus to attack rolls and increasing the number of damage dice to two.
 

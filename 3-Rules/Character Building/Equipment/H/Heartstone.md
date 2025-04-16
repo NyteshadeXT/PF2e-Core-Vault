@@ -20,7 +20,7 @@ license: OGL
 
 This gemstone grants its wearer a +2 item bonus to saving throws.
 
-Each _heartstone_ is powered by the spirit of a specific night hag. If it's separated from her for 24 hours (or she's been dead for 24 hours), it becomes a nonmagical gemstone. A heartstone allows the hag to use additional occult innate spells: [[Spells/Ethereal Jaunt|Ethereal Jaunt]] (9th level) and [[Spells/Seize Soul|Seize Soul]] at will, and [[Spells/Shadow Blast|Shadow Blast]] twice per day.
+Each _heartstone_ is powered by the spirit of a specific night hag. If it's separated from her for 24 hours (or she's been dead for 24 hours), it becomes a nonmagical gemstone. A heartstone allows the hag to use additional occult innate spells: [[Ethereal Jaunt|Ethereal Jaunt]] (9th level) and [[Seize Soul|Seize Soul]] at will, and [[Shadow Blast|Shadow Blast]] twice per day.
 
 * * *
 

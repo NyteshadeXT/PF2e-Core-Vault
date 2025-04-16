@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ring of Wizardry (Type I)
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[arcane]][[invested]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[arcane]][[invested]]
 
 
 **Price** 360 gp; 

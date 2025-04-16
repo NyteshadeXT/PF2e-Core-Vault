@@ -96,7 +96,7 @@ Unsurprisingly for a being of pure chaos, it can be difficult to predict an unra
 
 ## Unraveled Art
 
-Some unravelers use their powers to create great works of abstract art, partially unraveling objects and materials into beautiful arrangements. Such unravelers substitute Crafting for the Nature or Occultism skill and can cast a 4th-level [[Spells/Slow|Slow]] spell three times per day.
+Some unravelers use their powers to create great works of abstract art, partially unraveling objects and materials into beautiful arrangements. Such unravelers substitute Crafting for the Nature or Occultism skill and can cast a 4th-level [[Slow|Slow]] spell three times per day.
 
 ## Monster Part Subsystem
 

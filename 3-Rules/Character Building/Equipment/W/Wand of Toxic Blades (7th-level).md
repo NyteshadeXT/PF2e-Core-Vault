@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Toxic Blades (7th-level)
 ## Item 17
-### [[3-Rules/trait_reference/force]][[magical]][[3-Rules/trait_reference/poison]][[wand]]
+### [[3-Rules/trait_reference/F/force]][[magical]][[3-Rules/trait_reference/P/poison]][[wand]]
 
 
 **Price** 14000 gp; 
@@ -28,11 +28,11 @@ This slender metal wand is tinted green and small images of bladed weapons are e
 
 * * *
 
-**Effect** You cast 7th-rank [[Spells/Blade Barrier|Blade Barrier]]. Damage from the wall also exposes the damaged creature to [[Dragon Bile|Dragon Bile]]. The poison uses its normal DC. A creature can be exposed to the poison no more than once per turn.
+**Effect** You cast 7th-rank [[Blade Barrier|Blade Barrier]]. Damage from the wall also exposes the damaged creature to [[Dragon Bile|Dragon Bile]]. The poison uses its normal DC. A creature can be exposed to the poison no more than once per turn.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Blade Barrier|Blade Barrier]] of the appropriate rank.
+**Craft Requirements** Supply a casting of [[Blade Barrier|Blade Barrier]] of the appropriate rank.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

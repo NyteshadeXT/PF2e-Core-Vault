@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Entwined Roots|Entwined Roots]]
+Granted by [[Entwined Roots|Entwined Roots]]
 
 Each affected creature gains resistance to bludgeoning and piercing damage.
 

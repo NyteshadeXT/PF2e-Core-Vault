@@ -13,7 +13,7 @@ license: ORC
 ---
 # Scene Stealer's Tunic
 ## Item 13
-### [unique](unique "Unique Rarity Trait")[[comfort]][[invested]]
+### [unique](unique.md "Unique Rarity Trait")[[comfort]][[invested]]
 
 **Category** light; 
 **Price** 3000 gp; 

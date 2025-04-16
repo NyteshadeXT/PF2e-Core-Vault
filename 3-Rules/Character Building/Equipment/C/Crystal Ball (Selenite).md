@@ -12,7 +12,7 @@ license: ORC
 ---
 # Crystal Ball (Selenite)
 ## Item 15
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/trait_reference/scrying]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/Trait Reference/S/scrying]]
 
 
 **Price** 7000 gp; 
@@ -29,7 +29,7 @@ This polished crystal sphere enhances scrying magic. Any visual information rece
 
 * * *
 
-**Effect** The _crystal ball_ casts [[Spells/Clairvoyance|Clairvoyance]] to your specifications.
+**Effect** The _crystal ball_ casts [[Clairvoyance|Clairvoyance]] to your specifications.
 
 * * *
 
@@ -39,7 +39,7 @@ This polished crystal sphere enhances scrying magic. Any visual information rece
 
 * * *
 
-**Effect** The _crystal ball_ casts a DC 36 Will check [[Spells/Scrying|Scrying]] spell to your specifications, with the benefits of [[Spells/See the Unseen|See the Unseen]] on the target.
+**Effect** The _crystal ball_ casts a DC 36 Will check [[3-Rules/Character Building/Spells/S/Scrying|Scrying]] spell to your specifications, with the benefits of [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]] on the target.
 
 *Source: Pathfinder GM Core*
 *ORC*

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Hippopotamus Klar
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[integrated-1d6-s-versatile-p]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[integrated-1d6-s-versatile-p]][[invested]][[magical]]
 
 
 **Price** 1000 gp; 

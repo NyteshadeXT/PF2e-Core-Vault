@@ -34,7 +34,7 @@ This elegant _+1 striking sword cane_ serves equally well as a fashionable acces
 
 * * *
 
-**Effect** You twist the sword cane's hilt, magically merging the blade into the cane. While the blade is merged, it can't be drawn and gains the benefits of a 3rd-rank [[Spells/Disguise Magic|Disguise Magic]] spell to appear non-magical. Passive observers can't attempt a check to notice the cane is anything more than a mundane, if superb, fashion accessory. Those carefully examining it can discern the cane is more than it appears, but doing so is extremely difficult (DC 30 Perception check). Activating the sword cane again releases the blade, allowing it to be drawn normally.
+**Effect** You twist the sword cane's hilt, magically merging the blade into the cane. While the blade is merged, it can't be drawn and gains the benefits of a 3rd-rank [[Disguise Magic|Disguise Magic]] spell to appear non-magical. Passive observers can't attempt a check to notice the cane is anything more than a mundane, if superb, fashion accessory. Those carefully examining it can discern the cane is more than it appears, but doing so is extremely difficult (DC 30 Perception check). Activating the sword cane again releases the blade, allowing it to be drawn normally.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

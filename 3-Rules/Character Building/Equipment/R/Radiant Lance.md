@@ -18,7 +18,7 @@ license: OGL
 ---
 # Radiant Lance
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[divine]][[3-Rules/trait_reference/fire]][[Holy]][[jousting-d6]][[3-Rules/trait_reference/light]][[reach]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d8]][[divine]][[3-Rules/Trait Reference/F/fire]][[Holy]][[jousting-d6]][[3-Rules/Trait Reference/L/light]][[reach]]
 
 |  |  |
 | -- | -- |
@@ -51,7 +51,7 @@ On a hit against an undead creature that is specifically vulnerable to sunlight,
 
 **Frequency** once per day
 
-**Effect** You point the lance at a foe and call out, firing a beam with the effects of a 7th-rank [[Spells/Holy Light|Holy Light]].
+**Effect** You point the lance at a foe and call out, firing a beam with the effects of a 7th-rank [[3-Rules/Character Building/Spells/H/Holy Light|Holy Light]].
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

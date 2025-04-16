@@ -13,7 +13,7 @@ license: OGL
 ---
 # Enervating Wail `pf2:2`
 ## Feat 6
-### [rare](rare "Rare Rarity Trait")[[auditory]][[deviant]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[auditory]][[deviant]][[magical]]
 
 **Category** class; 
 

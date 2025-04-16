@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Spell Trickster Dedication; ability to cast sleep
 * * *
-When you cast [[Spells/Sleep|Sleep]], you can modify the spell to add the following to its standard effects: Subjects of your spell experience troubled dreams. When a target that failed or critically failed its saving throw wakes up, it is [[Conditions/Frightened|Frightened 1]].
+When you cast [[3-Rules/Character Building/Spells/S/Sleep|Sleep]], you can modify the spell to add the following to its standard effects: Subjects of your spell experience troubled dreams. When a target that failed or critically failed its saving throw wakes up, it is [[Conditions/Frightened|Frightened 1]].
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

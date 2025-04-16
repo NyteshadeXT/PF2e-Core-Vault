@@ -11,7 +11,7 @@ license: OGL
 ---
 # Devil's Eye
 ## Feat 4
-### [rare](rare "Rare Rarity Trait")[[aftermath]]
+### [rare](rare.md "Rare Rarity Trait")[[aftermath]]
 
 **Category** class; 
 

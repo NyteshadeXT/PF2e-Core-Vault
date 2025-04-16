@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Magic Stone|Magic Stone]]
+Granted by [[Magic Stone|Magic Stone]]
 
 The stones become _+1 striking disrupting sling bullets_.
 

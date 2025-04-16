@@ -10,7 +10,7 @@ license: OGL
 ---
 # Parade Armor
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[adjustment]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[adjustment]]
 
 
 **Price** 10 gp; 

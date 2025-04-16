@@ -40,7 +40,7 @@ The crown appears as a golden band surrounded by iron spikes that glisten with f
 
 **Frequency** once per day
 
-**Effect** You cast a [[Spells/Nightmare|Nightmare]] spell.
+**Effect** You cast a [[3-Rules/Character Building/Spells/N/Nightmare|Nightmare]] spell.
 
 *Source: Pathfinder Adventure: Crown of the Kobold King*
 *OGL*

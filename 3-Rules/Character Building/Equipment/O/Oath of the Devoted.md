@@ -13,7 +13,7 @@ license: OGL
 ---
 # Oath of the Devoted
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[contract]][[divine]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[contract]][[divine]][[invested]][[magical]]
 
 
 **Price** 0 gp; 

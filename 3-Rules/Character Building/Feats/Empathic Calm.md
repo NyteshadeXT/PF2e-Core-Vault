@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Once per day, you can cast either [[Spells/Calm|Calm]] or [[Spells/Sanctuary|Sanctuary]] as an innate occult spell, heightened to half your level rounded up.
+Once per day, you can cast either [[Calm|Calm]] or [[Sanctuary|Sanctuary]] as an innate occult spell, heightened to half your level rounded up.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

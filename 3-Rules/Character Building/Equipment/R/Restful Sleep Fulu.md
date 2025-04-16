@@ -28,7 +28,7 @@ license: OGL
 
 * * *
 
-This fulu depicts the five-spoke wheel of Qi Zhong, god of magic and medicine, and burns away slowly, like incense. If you fall asleep within the fulu's duration, you regain double the amount of Hit Points you usually gain from resting. You also gain a +2 status bonus to saves against mental effects that occur in your dreams, such as the [[Spells/Nightmare|Nightmare]] spell.
+This fulu depicts the five-spoke wheel of Qi Zhong, god of magic and medicine, and burns away slowly, like incense. If you fall asleep within the fulu's duration, you regain double the amount of Hit Points you usually gain from resting. You also gain a +2 status bonus to saves against mental effects that occur in your dreams, such as the [[3-Rules/Character Building/Spells/N/Nightmare|Nightmare]] spell.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

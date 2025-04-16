@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Adapt Self|Adapt Self]].
+Granted by [[Adapt Self|Adapt Self]].
 
 You gain Darkvision.
 

@@ -17,7 +17,7 @@ license: ORC
 ---
 # Blasting Stone (Lesser)
 ## Item 1
-### [[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/sonic]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/S/sonic]][[splash]]
 
 |  |  |
 | -- | -- |

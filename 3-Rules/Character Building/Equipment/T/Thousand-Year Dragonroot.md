@@ -12,7 +12,7 @@ license: OGL
 ---
 # Thousand-Year Dragonroot
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[magical]]
 
 **Category** other; 
 **Price** 180 gp; 

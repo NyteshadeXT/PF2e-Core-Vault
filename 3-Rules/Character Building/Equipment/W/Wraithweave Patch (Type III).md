@@ -10,7 +10,7 @@ license: OGL
 ---
 # Wraithweave Patch (Type III)
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 
 **Price** 6000 gp; 

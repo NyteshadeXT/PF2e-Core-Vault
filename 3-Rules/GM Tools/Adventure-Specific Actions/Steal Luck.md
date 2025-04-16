@@ -11,7 +11,7 @@ license: OGL
 ---
 # Steal Luck `pf2:r`
 
-### [[contingency]]
+### [[Contingency]]
 
 **Category** offensive; 
 

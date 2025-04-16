@@ -15,7 +15,7 @@ license: ORC
 ---
 # Shears
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[finesse]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[deadly-d8]][[finesse]][[versatile-p]]
 
 |  |  |
 | -- | -- |

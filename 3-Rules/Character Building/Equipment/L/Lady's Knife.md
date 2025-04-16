@@ -16,7 +16,7 @@ license: OGL
 ---
 # Lady's Knife
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[finesse]][[magical]][[thrown-10]][[versatile-s]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[finesse]][[magical]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |
@@ -37,7 +37,7 @@ This _+1 striking returning dagger_ has an elaborate, gemmed handle and can be w
 
 * * *
 
-**Effect** You offer this weapon as a romantic or platonic favor to an ally. You and the ally become linked for 1 day. During this time, you each benefit from the effects of [[Spells/Status|Status]], using each other as the targets.
+**Effect** You offer this weapon as a romantic or platonic favor to an ally. You and the ally become linked for 1 day. During this time, you each benefit from the effects of [[Status|Status]], using each other as the targets.
 
 * * *
 

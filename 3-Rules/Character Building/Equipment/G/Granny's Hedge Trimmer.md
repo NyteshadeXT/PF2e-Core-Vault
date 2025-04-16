@@ -12,7 +12,7 @@ license: OGL
 ---
 # Granny's Hedge Trimmer
 ## Item 1
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 |  |  |
 | -- | -- |

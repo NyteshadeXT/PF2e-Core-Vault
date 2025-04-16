@@ -28,11 +28,11 @@ Pathfinder Society researchers recently created elemental wayfinders with the as
 
 * * *
 
-**Effect** The wayfinder can cast 4th-rank [[Spells/Lightning Bolt|Lightning Bolt]].
+**Effect** The wayfinder can cast 4th-rank [[Lightning Bolt|Lightning Bolt]].
 
 * * *
 
-Additionally, you can cast [[Spells/Gentle Landing|Gentle Landing]] as a primal innate spell once every 10 minutes.
+Additionally, you can cast [[Gentle Landing|Gentle Landing]] as a primal innate spell once every 10 minutes.
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

@@ -17,7 +17,7 @@ license: OGL
 ---
 # Conductive Sphere `pf2:2`
 ## Feat 8
-### [[3-Rules/trait_reference/electricity]][[impulse]][[kineticist]][[manipulate]][[metal]][[primal]]
+### [[3-Rules/trait_reference/E/electricity]][[impulse]][[kineticist]][[manipulate]][[metal]][[primal]]
 
 **Category** class; 
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Magnet Coin
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[teleportation]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[teleportation]]
 
 
 **Price** 50 gp; 

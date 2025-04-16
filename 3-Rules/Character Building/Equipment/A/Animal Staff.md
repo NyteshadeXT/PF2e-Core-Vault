@@ -15,7 +15,7 @@ license: ORC
 ---
 # Animal Staff
 ## Item 4
-### [[magical|Magical]][[3-Rules/trait_reference/staff|Staff]][[two-hand-d8]]
+### [[magical|Magical]][[3-Rules/Trait Reference/S/staff|Staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -34,8 +34,8 @@ This staff is topped with carved animal and monster heads. While wielding the st
 
 * * *
 
-*   **Cantrip** [[Spells/Know the Way|Know the Way]]
-*   **1st** [[Spells/Runic Body|Runic Body]] [[Spells/Summon Animal|Summon Animal]]
+*   **Cantrip** [[Know the Way|Know the Way]]
+*   **1st** [[Runic Body|Runic Body]] [[Summon Animal|Summon Animal]]
 
 * * *
 

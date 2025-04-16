@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by a Kanya's [[Spells/Courageous Anthem|Courageous Anthem]]
+Granted by a Kanya's [[Courageous Anthem|Courageous Anthem]]
 
 You gain a +2 status bonus to attack rolls, damage rolls, and saves against fear effects.
 

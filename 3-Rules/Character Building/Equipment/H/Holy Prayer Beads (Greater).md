@@ -12,7 +12,7 @@ license: OGL
 ---
 # Holy Prayer Beads (Greater)
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[healing]][[vitality]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[divine]][[healing]][[vitality]]
 
 
 **Price** 1400 gp; 
@@ -27,7 +27,7 @@ Whenever you cast a divine spell from your own spell slots while holding the pra
 
 **Activate** Cast a Spell
 
-**Effect** Cast 4th-rank versions of [[Spells/Bless|Bless]], [[Spells/Divine Wrath|Divine Wrath]], [[Spells/Heal|Heal]], or [[Spells/Cleanse Affliction|Cleanse Affliction]] each once per day.
+**Effect** Cast 4th-rank versions of [[Bless|Bless]], [[Divine Wrath|Divine Wrath]], [[Heal|Heal]], or [[Cleanse Affliction|Cleanse Affliction]] each once per day.
 
 * * *
 

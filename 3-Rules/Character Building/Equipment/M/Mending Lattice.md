@@ -14,7 +14,7 @@ license: ORC
 ---
 # Mending Lattice
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 525 gp; 

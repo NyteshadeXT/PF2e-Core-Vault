@@ -15,7 +15,7 @@ license: OGL
 ---
 # Death Knell Powder
 ## Item 14
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Rule References/Divine]][[injury]][[3-Rules/trait_reference/poison|Poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Rule References/Divine]][[injury]][[3-Rules/Trait Reference/P/poison|Poison]]
 
 **Category** poison; 
 **Price** 625 gp; 
@@ -38,7 +38,7 @@ This poison is made from toxic spores reduced to a gray powder and suffused with
 
 * * *
 
-**Craft Requirements** Supply one casting of [[Spells/Death Knell|Death Knell]].
+**Craft Requirements** Supply one casting of [[Death Knell|Death Knell]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

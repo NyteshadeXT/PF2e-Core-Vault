@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Pine Leshy heritage
 * * *
-You're capable of growing as tall as a pine tree for a short time. You gain 2nd-rank [[Spells/Enlarge|Enlarge]] as a primal innate spell. You can cast this spell twice per day and you must target yourself.
+You're capable of growing as tall as a pine tree for a short time. You gain 2nd-rank [[Enlarge|Enlarge]] as a primal innate spell. You can cast this spell twice per day and you must target yourself.
 
 *Source: Pathfinder #176: Lost Mammoth Valley*
 *OGL*

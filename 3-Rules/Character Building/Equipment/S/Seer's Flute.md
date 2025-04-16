@@ -12,7 +12,7 @@ license: OGL
 ---
 # Seer's Flute
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[coda]][[occult]][[3-Rules/Character Building/Equipment/S/Staff]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[coda]][[occult]][[3-Rules/Character Building/Equipment/S/Staff]]
 
 
 **Price** 90 gp; 
@@ -29,8 +29,8 @@ This ivory flute is adorned with many carvings of eyes. Each has jade pupils and
 
 **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Guidance|Guidance]], [[Spells/Read Aura|Read Aura]]
-*   **1st** [[Spells/Detect Alignment|Detect Alignment]]
+*   **Cantrip** [[Guidance|Guidance]], [[Read Aura|Read Aura]]
+*   **1st** [[Detect Alignment|Detect Alignment]]
 
 * * *
 

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** bakuwa lizardfolk heritage or makari lizardfolk heritage
 * * *
-Casting your memory back deep into the past, you take the form of an ancestral guardian. You can cast [[Spells/Animal Form|Animal Form]] on yourself as a 3rd-rank primal innate spell once per day. You must choose the crocodile form.
+Casting your memory back deep into the past, you take the form of an ancestral guardian. You can cast [[Animal Form|Animal Form]] on yourself as a 3rd-rank primal innate spell once per day. You must choose the crocodile form.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

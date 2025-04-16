@@ -14,7 +14,7 @@ license: ORC
 ---
 # Lightning Rings' Overcharge
 ## Feat 12
-### [[archetype]][[3-Rules/trait_reference/electricity]][[magical]]
+### [[archetype]][[3-Rules/trait_reference/E/electricity]][[magical]]
 
 **Category** class; 
 

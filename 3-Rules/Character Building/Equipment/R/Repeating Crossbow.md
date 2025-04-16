@@ -12,7 +12,7 @@ license: OGL
 ---
 # Repeating Crossbow
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[repeating]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[repeating]]
 
 |  |  |
 | -- | -- |

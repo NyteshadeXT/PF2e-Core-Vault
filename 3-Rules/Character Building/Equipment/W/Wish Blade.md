@@ -15,7 +15,7 @@ license: OGL
 ---
 # Wish Blade
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[geniekin]][[resonant]][[two-hand-d10]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/D/disarm]][[geniekin]][[resonant]][[two-hand-d10]]
 
 |  |  |
 | -- | -- |

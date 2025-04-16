@@ -21,7 +21,7 @@ license: ORC
 * * *
 By tapping into the limitless power of the Plane of Wood, you can experience sudden, dramatic growth for a short time. Select one of the following benefits when you gain this feat. This choice is permanent and can't be changed.
 
-*   You gain 2nd-rank [[Spells/Enlarge|Enlarge]] as a primal innate spell. You can cast this spell twice per day and must target yourself. The spell's duration is 30 minutes.
+*   You gain 2nd-rank [[Enlarge|Enlarge]] as a primal innate spell. You can cast this spell twice per day and must target yourself. The spell's duration is 30 minutes.
 *   You gain 4th-rank _enlarge_ as a primal innate spell. You can cast this spell once per day and must target yourself.
 
 * * *

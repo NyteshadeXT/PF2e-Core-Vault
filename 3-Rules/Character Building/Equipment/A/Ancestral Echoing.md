@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ancestral Echoing
 ## Item 15
-### [rare](rare.md "Rare Rarity Trait")[[3-Rules/trait_reference/dwarf]][[magical|Magical]][[saggorak]]
+### [rare](rare.md "Rare Rarity Trait")[[dwarf]][[magical|Magical]][[saggorak]]
 
 
 **Price** 9500 gp; 

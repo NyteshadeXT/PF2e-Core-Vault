@@ -12,7 +12,7 @@ license: OGL
 ---
 # Glue Bullet
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** ammo; 
 **Price** 16 gp; 

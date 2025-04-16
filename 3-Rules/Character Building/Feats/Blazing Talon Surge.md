@@ -13,7 +13,7 @@ license: OGL
 ---
 # Blazing Talon Surge `pf2:2`
 ## Feat 6
-### [[3-Rules/trait_reference/fire]][[flourish]][[monk]]
+### [[3-Rules/trait_reference/F/fire]][[flourish]][[monk]]
 
 **Category** class; 
 

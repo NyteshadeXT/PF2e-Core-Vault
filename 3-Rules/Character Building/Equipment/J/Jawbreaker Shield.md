@@ -10,7 +10,7 @@ license: OGL
 ---
 # Jawbreaker Shield
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 1650 gp; 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Life-Boosting Oil (Greater)
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[healing]][[magical]][[oil]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[healing]][[magical]][[oil]]
 
 **Category** oil; 
 **Price** 300 gp; 

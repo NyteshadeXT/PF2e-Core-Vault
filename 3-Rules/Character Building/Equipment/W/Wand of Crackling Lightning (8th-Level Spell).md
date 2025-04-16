@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Crackling Lightning (8th-Level Spell)
 ## Item 18
-### [[3-Rules/trait_reference/electricity]][[magical]][[wand]]
+### [[3-Rules/trait_reference/E/electricity]][[magical]][[wand]]
 
 
 **Price** 24000 gp; 
@@ -27,7 +27,7 @@ This wand is made of two copper plates separated by a ceramic center.
 
 * * *
 
-**Effect** You cast [[Spells/Lightning Bolt|Lightning Bolt]] at 8th rank, but the spell's area is twice as wide (two adjacent and parallel 120-foot lines) and creatures that fail their save are [[Conditions/Off-Guard|Off-Guard]] for 1 round.
+**Effect** You cast [[Lightning Bolt|Lightning Bolt]] at 8th rank, but the spell's area is twice as wide (two adjacent and parallel 120-foot lines) and creatures that fail their save are [[Conditions/Off-Guard|Off-Guard]] for 1 round.
 
 **Craft Requirements** Supply a casting of lightning bolt at 8th-rank.
 

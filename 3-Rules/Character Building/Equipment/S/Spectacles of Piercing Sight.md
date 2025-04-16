@@ -11,7 +11,7 @@ license: OGL
 ---
 # Spectacles of Piercing Sight
 ## Item 18
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 24000 gp; 

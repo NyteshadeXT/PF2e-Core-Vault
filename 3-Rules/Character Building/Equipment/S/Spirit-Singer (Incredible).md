@@ -9,7 +9,7 @@ license: OGL
 ---
 # Spirit-Singer (Incredible)
 ## Item 11
-### [rare](rare "Rare Rarity Trait")
+### [rare](rare.md "Rare Rarity Trait")
 
 
 **Price** 1250 gp; 

@@ -33,12 +33,12 @@ This staff is constructed from a magically grown amanita mushroom, with a shaft 
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Puff of Poison|Puff of Poison]]
-*   **1st** [[Spells/Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only)
-*   **2nd** [[Spells/Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only), [[Spells/One with Plants|One with Plants]] (giant mushroom only)
-*   **3rd** [[Spells/Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Spells/Stinking Cloud|Stinking Cloud]], [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only), [[Spells/Wall of Thorns|Wall of Thorns]] (resembles wall of fungus; deals poison damage)
-*   **4th** [[Spells/Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Spells/Speak with Plants|Speak with Plants]] (fungus only), [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only)
-*   **5th** [[Spells/Toxic Cloud|Toxic Cloud]], [[Spells/Plant Form|Plant Form]] (resemble giant fungus instead of plant, gain fungus trait instead of plant trait; arboreal type only), [[Spells/Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only)
+*   **Cantrip** [[Puff of Poison|Puff of Poison]]
+*   **1st** [[Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only)
+*   **2nd** [[Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only), [[One with Plants|One with Plants]] (giant mushroom only)
+*   **3rd** [[Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Stinking Cloud|Stinking Cloud]], [[Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only), [[Wall of Thorns|Wall of Thorns]] (resembles wall of fungus; deals poison damage)
+*   **4th** [[Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Speak with Plants|Speak with Plants]] (fungus only), [[Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only)
+*   **5th** [[Toxic Cloud|Toxic Cloud]], [[Plant Form|Plant Form]] (resemble giant fungus instead of plant, gain fungus trait instead of plant trait; arboreal type only), [[Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only)
 
 * * *
 

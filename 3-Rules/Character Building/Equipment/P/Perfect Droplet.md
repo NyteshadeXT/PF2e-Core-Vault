@@ -12,7 +12,7 @@ license: OGL
 ---
 # Perfect Droplet
 ## Item 3
-### [[magical]][[spellheart]][[3-Rules/trait_reference/water]]
+### [[magical]][[spellheart]][[3-Rules/Trait Reference/W/water]]
 
 
 **Price** 55 gp; 
@@ -30,7 +30,7 @@ Intense blue water magically holds its shape-a perfect sphere. The spell DC of a
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Spout|Spout]].
+**Effect** You cast [[Spout|Spout]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

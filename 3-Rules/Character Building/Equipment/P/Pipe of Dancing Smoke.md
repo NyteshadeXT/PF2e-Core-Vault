@@ -11,7 +11,7 @@ license: OGL
 ---
 # Pipe of Dancing Smoke
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/fire]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/F/fire]][[magical]]
 
 
 **Price** 125 gp; 
@@ -26,7 +26,7 @@ This ornate pipe is chiseled from a single bloodstone piece with wooden accents.
 
 * * *
 
-**Effect** The smoke forms a bird that flies up to 120 feet in a direction of your choice. When it collides with a solid object or travels the full range, whichever is shorter, it explodes in a @Template\[burst|distance:20\] of smoke with the effects of [[Spells/Mist|Mist]].
+**Effect** The smoke forms a bird that flies up to 120 feet in a direction of your choice. When it collides with a solid object or travels the full range, whichever is shorter, it explodes in a @Template\[burst|distance:20\] of smoke with the effects of [[Mist|Mist]].
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

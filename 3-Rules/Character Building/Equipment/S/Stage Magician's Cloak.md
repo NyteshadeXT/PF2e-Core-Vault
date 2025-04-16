@@ -35,7 +35,7 @@ This black velvet cloak has a silvery blue iridescent lining. The cloak can be w
 
 **Frequency** once per day
 
-**Effect** Harmless silver smoke issues from the cloak in a @Template\[emanation|distance:10\]. You cast a 2nd-rank [[Spells/Invisibility|Invisibility]] on yourself and are transported, along with all items you're wearing and holding, from your current space to an unoccupied space within 30 feet that you can see. If this would bring another creature with you—even if you're carrying it in an extradimensional space—the transportation part of this effect fails.
+**Effect** Harmless silver smoke issues from the cloak in a @Template\[emanation|distance:10\]. You cast a 2nd-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] on yourself and are transported, along with all items you're wearing and holding, from your current space to an unoccupied space within 30 feet that you can see. If this would bring another creature with you—even if you're carrying it in an extradimensional space—the transportation part of this effect fails.
 
 *Source: Pathfinder #204: Stage Fright*
 *ORC*

@@ -17,7 +17,7 @@ license: ORC
 ---
 # Blight Bomb (Moderate)
 ## Item 3
-### [[alchemical]][[bomb]][[consumable]][[3-Rules/trait_reference/poison|Poison]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/P/poison|Poison]][[splash]]
 
 |  |  |
 | -- | -- |

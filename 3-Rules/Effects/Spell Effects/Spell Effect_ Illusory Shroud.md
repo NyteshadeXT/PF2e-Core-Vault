@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Illusory Shroud|Illusory Shroud]]
+Granted by [[Illusory Shroud|Illusory Shroud]]
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

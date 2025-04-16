@@ -10,7 +10,7 @@ license: OGL
 ---
 # Palanquin of Night
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 825 gp; 

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-You gain low-light vision, darkvision, and [[Spells/See the Unseen|See the Unseen]] for 10 minutes.
+You gain low-light vision, darkvision, and [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]] for 10 minutes.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

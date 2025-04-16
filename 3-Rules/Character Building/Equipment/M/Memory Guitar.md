@@ -11,7 +11,7 @@ license: OGL
 ---
 # Memory Guitar
 ## Item 4
-### [[magical]][[3-Rules/trait_reference/mental]]
+### [[magical]][[3-Rules/Trait Reference/M/mental]]
 
 
 **Price** 100 gp; 
@@ -24,7 +24,7 @@ This simple guitar appears worn and battered from use, but upon close observatio
 
 * * *
 
-**Effect** You play music with the guitar and the instrument's power shares a memory with your audience. When sharing with an audience, you share a memory of yours with anyone within 30 feet. This has the effects of [[Spells/Mindlink|Mindlink]] for anyone that can hear the music.
+**Effect** You play music with the guitar and the instrument's power shares a memory with your audience. When sharing with an audience, you share a memory of yours with anyone within 30 feet. This has the effects of [[Mindlink|Mindlink]] for anyone that can hear the music.
 
 **Activate** `pf2:3` Interact
 

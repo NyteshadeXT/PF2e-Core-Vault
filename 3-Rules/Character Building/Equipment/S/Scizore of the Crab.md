@@ -15,7 +15,7 @@ license: OGL
 ---
 # Scizore of the Crab
 ## Item 5
-### [[disarm]][[grapple]][[magical]][[parry]]
+### [[3-Rules/Trait Reference/D/disarm]][[3-Rules/Trait Reference/G/grapple]][[magical]][[parry]]
 
 |  |  |
 | -- | -- |

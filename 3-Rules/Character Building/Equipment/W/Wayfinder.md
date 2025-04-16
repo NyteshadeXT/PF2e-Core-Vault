@@ -33,7 +33,7 @@ If you have more than one _wayfinder_ with an invested _aeon stone_ on your pers
 
 * * *
 
-**Effect** The _wayfinder_ is targeted by a 1st-rank [[Spells/Light|Light]] spell.
+**Effect** The _wayfinder_ is targeted by a 1st-rank [[3-Rules/Character Building/Spells/L/Light|Light]] spell.
 
 *Source: Pathfinder GM Core*
 *ORC*

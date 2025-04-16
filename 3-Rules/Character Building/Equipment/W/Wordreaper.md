@@ -15,7 +15,7 @@ license: OGL
 ---
 # Wordreaper
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[finesse]][[magical]][[trip]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[finesse]][[magical]][[3-Rules/trait_reference/T/trip]]
 
 |  |  |
 | -- | -- |

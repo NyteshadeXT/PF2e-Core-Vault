@@ -13,7 +13,7 @@ license: OGL
 ---
 # Malleable Mixture (Greater)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]]
 
 **Category** elixir; 
 **Price** 750 gp; 

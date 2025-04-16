@@ -15,7 +15,7 @@ license: ORC
 ---
 # Oil Fire `pf2:1`
 ## Feat 2
-### [[3-Rules/trait_reference/fire]][[inventor]][[manipulate]][[unstable]]
+### [[3-Rules/trait_reference/F/fire]][[inventor]][[manipulate]][[unstable]]
 
 **Category** class; 
 

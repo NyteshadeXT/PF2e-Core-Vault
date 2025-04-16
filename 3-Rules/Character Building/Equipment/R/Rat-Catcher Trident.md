@@ -13,7 +13,7 @@ license: OGL
 ---
 # Rat-Catcher Trident
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[thrown-20]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[thrown-20]]
 
 |  |  |
 | -- | -- |
@@ -34,7 +34,7 @@ When used against a swarm, it ignores the swarm's resistance to piercing damage,
 
 * * *
 
-**Effect** While floating down a river on a raft or boat, you plunge the _rat-catcher trident_ into the water. The trident casts a 5th-rank [[Spells/Control Water|Control Water]] spell on the body of water.
+**Effect** While floating down a river on a raft or boat, you plunge the _rat-catcher trident_ into the water. The trident casts a 5th-rank [[Control Water|Control Water]] spell on the body of water.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

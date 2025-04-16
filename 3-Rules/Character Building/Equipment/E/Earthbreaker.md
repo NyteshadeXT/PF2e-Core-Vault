@@ -15,7 +15,7 @@ license: OGL
 ---
 # Earthbreaker
 ## Item 0
-### [[razing]][[3-Rules/trait_reference/shove]][[two-hand-d10]][[versatile-p]]
+### [[razing]][[3-Rules/Trait Reference/S/shove]][[two-hand-d10]][[versatile-p]]
 
 |  |  |
 | -- | -- |

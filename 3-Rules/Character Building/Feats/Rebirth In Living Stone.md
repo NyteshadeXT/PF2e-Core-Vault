@@ -16,7 +16,7 @@ license: OGL
 ---
 # Rebirth In Living Stone `pf2:1`
 ## Feat 18
-### [[3-Rules/trait_reference/earth]][[impulse]][[kineticist]][[polymorph]][[primal]]
+### [[3-Rules/trait_reference/E/earth]][[impulse]][[kineticist]][[polymorph]][[primal]]
 
 **Category** class; 
 

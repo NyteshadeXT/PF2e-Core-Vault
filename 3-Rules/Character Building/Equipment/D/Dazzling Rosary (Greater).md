@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-When energy courses through these lustrous beads, they glow brightly in the sacred colors of the spellcaster's faith. A [[Spells/Spiritual Weapon|Spiritual Weapon]] empowered with this catalyst flashes with bright light when it critically Strikes a target, causing the target to be [[Conditions/Dazzled|Dazzled]] until the beginning of your next turn. The rosary can be used with a _spiritual weapon_ of any level.
+When energy courses through these lustrous beads, they glow brightly in the sacred colors of the spellcaster's faith. A [[Spiritual Weapon|Spiritual Weapon]] empowered with this catalyst flashes with bright light when it critically Strikes a target, causing the target to be [[Conditions/Dazzled|Dazzled]] until the beginning of your next turn. The rosary can be used with a _spiritual weapon_ of any level.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

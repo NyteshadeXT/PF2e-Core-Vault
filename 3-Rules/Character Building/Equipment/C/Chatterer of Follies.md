@@ -16,7 +16,7 @@ license: OGL
 ---
 # Chatterer of Follies
 ## Item 6
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[magical|Magical]][[3-Rules/trait_reference/shove]][[two-hand-d10]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[magical|Magical]][[3-Rules/Trait Reference/S/shove]][[two-hand-d10]][[versatile-p]]
 
 |  |  |
 | -- | -- |

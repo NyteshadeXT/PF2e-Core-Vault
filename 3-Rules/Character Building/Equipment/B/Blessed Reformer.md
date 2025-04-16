@@ -14,7 +14,7 @@ license: OGL
 ---
 # Blessed Reformer
 ## Item 14
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Divine]][[Holy]][[3-Rules/trait_reference/shove]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Divine]][[Holy]][[3-Rules/Trait Reference/S/shove]]
 
 |  |  |
 | -- | -- |
@@ -33,7 +33,7 @@ The Celestial word for "repent" is etched in golden lettering on the shaft of th
 
 * * *
 
-**Effect** You hold your weapon aloft, calling on righteousness to steel your resolve. You cast [[Spells/Protection|Protection]] on yourself and you must select evil as the chosen alignment.
+**Effect** You hold your weapon aloft, calling on righteousness to steel your resolve. You cast [[Protection|Protection]] on yourself and you must select evil as the chosen alignment.
 
 * * *
 
@@ -50,7 +50,7 @@ The Celestial word for "repent" is etched in golden lettering on the shaft of th
 
 * * *
 
-**Effect** You cast [[Spells/Calm|Calm]] at the same level as your champion focus spells. It must target the creature you hit, and the creature takes a status penalty on its save against the spell equal to the _blessed reformer_'s number of weapon damage dice.
+**Effect** You cast [[Calm|Calm]] at the same level as your champion focus spells. It must target the creature you hit, and the creature takes a status penalty on its save against the spell equal to the _blessed reformer_'s number of weapon damage dice.
 
 * * *
 

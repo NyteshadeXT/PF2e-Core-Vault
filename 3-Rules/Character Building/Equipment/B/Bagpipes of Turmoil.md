@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bagpipes of Turmoil
 ## Item 4
-### [[coda]][[3-Rules/trait_reference/occult|Occult]][[3-Rules/trait_reference/staff|Staff]]
+### [[coda]][[occult|Occult]][[3-Rules/Trait Reference/S/staff|Staff]]
 
 
 **Price** 90 gp; 
@@ -29,8 +29,8 @@ While those who appreciate bagpipes may like the sound of this gray reed and bla
 
 **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Daze|Daze]]
-*   **1st** [[Spells/Bane|Bane]]
+*   **Cantrip** [[Daze|Daze]]
+*   **1st** [[3-Rules/Character Building/Spells/B/Bane|Bane]]
 
 * * *
 

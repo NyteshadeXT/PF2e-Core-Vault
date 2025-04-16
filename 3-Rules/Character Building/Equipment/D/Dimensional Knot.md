@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-Shelynites originally crafted this complex knot of vibrant string for bracelets meant to tie the destinies of two people together. Now, however, spellcasters of all religions use them to enhance their capacity with teleportation magic. Adding this catalyst to a 4th-rank [[Spells/Translocate|Translocate]] spell allows you to bring a single willing adjacent creature along with you; however, the teleportation is somewhat disorienting for them, causing them to become [[Conditions/Stunned|Stunned 1]].
+Shelynites originally crafted this complex knot of vibrant string for bracelets meant to tie the destinies of two people together. Now, however, spellcasters of all religions use them to enhance their capacity with teleportation magic. Adding this catalyst to a 4th-rank [[Translocate|Translocate]] spell allows you to bring a single willing adjacent creature along with you; however, the teleportation is somewhat disorienting for them, causing them to become [[Conditions/Stunned|Stunned 1]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

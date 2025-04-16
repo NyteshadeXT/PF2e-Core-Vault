@@ -13,7 +13,7 @@ license: OGL
 ---
 # Radiant Circuitry `pf2:1`
 ## Feat 1
-### [[android]][[concentrate]][[3-Rules/trait_reference/light]]
+### [[android]][[concentrate]][[3-Rules/trait_reference/L/light]]
 
 **Category** ancestry; 
 

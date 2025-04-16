@@ -28,7 +28,7 @@ license: OGL
 
 * * *
 
-This ornate locket, usually containing a faceless, humanoid portrait, is typically worn on a chain around the neck or attached to your clothing. When activated, the charm casts a [[Spells/Rewrite Memory|Rewrite Memory]] spell (DC 26 Will check) against a single target of the check, removing all memory of your failed attempt and potentially allowing you to make another attempt. The effect can't remove more than 3 minutes of memories from its target.
+This ornate locket, usually containing a faceless, humanoid portrait, is typically worn on a chain around the neck or attached to your clothing. When activated, the charm casts a [[Rewrite Memory|Rewrite Memory]] spell (DC 26 Will check) against a single target of the check, removing all memory of your failed attempt and potentially allowing you to make another attempt. The effect can't remove more than 3 minutes of memories from its target.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

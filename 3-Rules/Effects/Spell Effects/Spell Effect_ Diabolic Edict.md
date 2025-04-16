@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Diabolic Edict|Diabolic Edict]]
+Granted by [[Diabolic Edict|Diabolic Edict]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

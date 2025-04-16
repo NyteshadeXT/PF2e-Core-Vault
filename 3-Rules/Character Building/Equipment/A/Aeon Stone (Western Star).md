@@ -26,7 +26,7 @@ This aeon stone must be activated to provide a benefit.
 
 * * *
 
-**Effect** You activate the aeon stone to gain the effects of a 1st-rank [[Spells/Illusory Disguise|Illusory Disguise]].
+**Effect** You activate the aeon stone to gain the effects of a 1st-rank [[Illusory Disguise|Illusory Disguise]].
 
 The resonant power allows you to render all of your aeon stones and your wayfinder [[Conditions/Invisible|Invisible]] whenever you use the activation to gain the effects of illusory disguise.
 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Reaper's Grasp
 ## Item 11
-### [unique](unique "Unique Rarity Trait")[[concussive]][[fatal-d12]][[kickback]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[concussive]][[fatal-d12]][[kickback]][[magical]]
 
 |  |  |
 | -- | -- |

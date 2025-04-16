@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Paralytic Shock (3rd-level)
 ## Item 8
-### [[3-Rules/trait_reference/electricity]][[magical]][[3-Rules/trait_reference/mental]][[wand]]
+### [[3-Rules/trait_reference/E/electricity]][[magical]][[3-Rules/trait_reference/M/mental]][[wand]]
 
 
 **Price** 500 gp; 
@@ -28,11 +28,11 @@ A two-pronged metal rod, this wand has a handle coated in thick rubber. Each pro
 
 * * *
 
-**Effect** You cast [[Spells/Paralyze|Paralyze]], electrocuting the target into immobility. Each target takes 1d12 electricity damage at the start of its turns while it remains stunned or [[Conditions/Paralyzed|Paralyzed]] due to the spell.
+**Effect** You cast [[Paralyze|Paralyze]], electrocuting the target into immobility. Each target takes 1d12 electricity damage at the start of its turns while it remains stunned or [[Conditions/Paralyzed|Paralyzed]] due to the spell.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Paralyze|Paralyze]]of the appropriate rank.
+**Craft Requirements** Supply a casting of [[Paralyze|Paralyze]]of the appropriate rank.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

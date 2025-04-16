@@ -16,7 +16,7 @@ license: OGL
 ---
 # Tiger's Claw
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[concealable]][[concussive]][[fatal-d10]][[illusion]][[primal]]
+### [rare](rare.md "Rare Rarity Trait")[[concealable]][[concussive]][[fatal-d10]][[illusion]][[primal]]
 
 |  |  |
 | -- | -- |
@@ -40,7 +40,7 @@ This firearm's bullets deal slashing damage instead of piercing and add an addit
 
 * * *
 
-**Effect** You capitalize on the fears your firearm engenders, terrifying your foes. Make a ranged Strike with this firearm against a target. If you successfully deal damage to your target, the target is also affected by a 4th-rank [[Spells/Phantasmal Killer|Phantasmal Killer]] with a spell DC of 28 (DC 28 Will check). While phantasmal killer typically takes the shape of the target's worst fear, this effect always appears to the target in the form of a majestic and ferocious tiger.
+**Effect** You capitalize on the fears your firearm engenders, terrifying your foes. Make a ranged Strike with this firearm against a target. If you successfully deal damage to your target, the target is also affected by a 4th-rank [[Phantasmal Killer|Phantasmal Killer]] with a spell DC of 28 (DC 28 Will check). While phantasmal killer typically takes the shape of the target's worst fear, this effect always appears to the target in the form of a majestic and ferocious tiger.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

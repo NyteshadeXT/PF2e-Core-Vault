@@ -29,7 +29,7 @@ These intricately braided lengths of leather, twine, and ribbon can be worn arou
 
 * * *
 
-**Effect** You cast [[Spells/Message|Message]], targeting the creature wearing the matching cord. The range of this message is planetary.
+**Effect** You cast [[Message|Message]], targeting the creature wearing the matching cord. The range of this message is planetary.
 
 *Source: Pathfinder Special: Fumbus!*
 *OGL*

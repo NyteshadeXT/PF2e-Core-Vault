@@ -26,7 +26,7 @@ This armor can make itself and its wearer quickly change size.
 
 * * *
 
-**Effect** The armor casts your choice of [[Spells/Enlarge|Enlarge]] or [[Spells/Shrink|Shrink]] on you.
+**Effect** The armor casts your choice of [[Enlarge|Enlarge]] or [[Shrink|Shrink]] on you.
 
 *Source: Pathfinder GM Core*
 *ORC*

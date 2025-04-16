@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Fire Shield|Fire Shield]]
+Granted by [[Fire Shield|Fire Shield]]
 
 The target gains resistance to cold damage.
 

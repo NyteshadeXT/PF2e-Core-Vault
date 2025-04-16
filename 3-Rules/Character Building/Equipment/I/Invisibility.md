@@ -27,7 +27,7 @@ Light seems to partially penetrate this armor.
 
 * * *
 
-**Effect** With a thought, you become invisible for 1 minute, gaining the effects of a 2nd-rank [[Spells/Invisibility|Invisibility]] spell.
+**Effect** With a thought, you become invisible for 1 minute, gaining the effects of a 2nd-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] spell.
 
 **Craft Requirements** Supply one casting of _invisibility_.
 

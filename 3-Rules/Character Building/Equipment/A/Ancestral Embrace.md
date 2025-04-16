@@ -52,7 +52,7 @@ This brightly colored _+4 major resilient leather armor_ is inscribed with a spi
 
 * * *
 
-**Effect** The armor casts [[Spells/Avatar|Avatar]], granting these specific additional abilities instead of those associated with a deity: Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain
+**Effect** The armor casts [[Avatar|Avatar]], granting these specific additional abilities instead of those associated with a deity: Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain
 
 *   **Melee** `pf2:1` spear (reach 15 feet, thrown 50 feet), Damage 6d6+6 piercing
 *   **Ranged** `pf2:1` blowgun (range 120 feet), Damage 1d6+3 piercing plus 5d6 poison.

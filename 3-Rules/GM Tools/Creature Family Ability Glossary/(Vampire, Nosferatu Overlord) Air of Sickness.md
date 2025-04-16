@@ -11,7 +11,7 @@ license: OGL
 ---
 # (Vampire, Nosferatu Overlord) Air of Sickness
 
-### [[aura]]
+### [[3-Rules/trait_reference/A/aura]]
 
 **Category** offensive; 
 

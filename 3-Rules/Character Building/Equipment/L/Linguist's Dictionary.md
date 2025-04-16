@@ -24,7 +24,7 @@ Bound in sturdy leather, this thick book has several colorful bookmarks and page
 
 **Frequency** once per day
 
-**Requirements** Your last action was to cast a spell prepared from this grimoire that allows understanding of another language, such as [[Spells/Translate|Translate]] or [[Spells/Truespeech|Truespeech]]
+**Requirements** Your last action was to cast a spell prepared from this grimoire that allows understanding of another language, such as [[Translate|Translate]] or [[3-Rules/Character Building/Spells/T/Truespeech|Truespeech]]
 
 * * *
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Contagious Rage
 ## Feat 20
-### [[auditory]][[barbarian]][[rage]][[visual]]
+### [[auditory]][[barbarian]][[3-Rules/trait_reference/R/rage]][[visual]]
 
 **Category** class; 
 

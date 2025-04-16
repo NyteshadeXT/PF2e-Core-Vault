@@ -13,7 +13,7 @@ license: ORC
 ---
 # Bands of Force
 ## Item 8
-### [[3-Rules/trait_reference/force]][[invested]][[magical|Magical]]
+### [[3-Rules/Trait Reference/F/force]][[invested]][[magical|Magical]]
 
 
 **Price** 500 gp; 

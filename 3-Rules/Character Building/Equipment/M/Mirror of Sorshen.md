@@ -12,7 +12,7 @@ license: ORC
 ---
 # Mirror of Sorshen
 ## Item 25
-### [unique](unique "Unique Rarity Trait")[[artifact]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[magical]]
 
 
 **Price** 0 gp; 
@@ -37,7 +37,7 @@ Whenever an intelligent creature looks in the mirror, they see an image of a per
 
 * * *
 
-**Effect** You control the target for 30 days, with the effect of a critically failed saving throw against [[Spells/Dominate|Dominate]]. If the victim sees the mirror again at any point before this duration expires, the control extends for an additional 30 days from the moment it looked at the mirror again. While there is no initial saving throw, the DC to break free due to commands against the creature's nature is 35.
+**Effect** You control the target for 30 days, with the effect of a critically failed saving throw against [[Dominate|Dominate]]. If the victim sees the mirror again at any point before this duration expires, the control extends for an additional 30 days from the moment it looked at the mirror again. While there is no initial saving throw, the DC to break free due to commands against the creature's nature is 35.
 
 **Destruction** The _Mirror of Sorshen_ shatters into a thousand pieces if an intelligent but completely innocent creature resists the mirror's attraction and then accidentally drops it.
 

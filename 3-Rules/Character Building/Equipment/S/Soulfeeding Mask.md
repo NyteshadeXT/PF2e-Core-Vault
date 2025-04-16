@@ -13,7 +13,7 @@ license: ORC
 ---
 # Soulfeeding Mask
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]][[Unholy]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]][[Unholy]]
 
 
 **Price** 15000 gp; 

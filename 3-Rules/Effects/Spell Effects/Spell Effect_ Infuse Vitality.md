@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Infuse Vitality|Infuse Vitality]].
+Granted by [[Infuse Vitality|Infuse Vitality]].
 
 Each target's unarmed and weapon Strikes deal extra vitality damage.
 

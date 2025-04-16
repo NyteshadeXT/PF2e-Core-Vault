@@ -12,7 +12,7 @@ license: ORC
 ---
 # Crystal Ball (Clear Quartz)
 ## Item 14
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/trait_reference/scrying]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/Trait Reference/S/scrying]]
 
 
 **Price** 3800 gp; 
@@ -31,7 +31,7 @@ The base version of a crystal ball is a sphere of clear quartz, but other versio
 
 * * *
 
-**Effect** The _crystal ball_ casts [[Spells/Clairvoyance|Clairvoyance]] to your specifications.
+**Effect** The _crystal ball_ casts [[Clairvoyance|Clairvoyance]] to your specifications.
 
 * * *
 
@@ -41,7 +41,7 @@ The base version of a crystal ball is a sphere of clear quartz, but other versio
 
 * * *
 
-**Effect** The _crystal ball_ casts a DC 33 Will check [[Spells/Scrying|Scrying]] spell to your specifications.
+**Effect** The _crystal ball_ casts a DC 33 Will check [[3-Rules/Character Building/Spells/S/Scrying|Scrying]] spell to your specifications.
 
 *Source: Pathfinder GM Core*
 *ORC*

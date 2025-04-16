@@ -9,7 +9,7 @@ license: OGL
 ---
 # Hollowed Hilt
 
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 3 gp; 

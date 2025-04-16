@@ -14,7 +14,7 @@ license: ORC
 ---
 # Toxic Blood
 ## Item 9
-### [[graft]][[invested]][[magical]][[3-Rules/trait_reference/poison]]
+### [[graft]][[invested]][[magical]][[3-Rules/trait_reference/P/poison]]
 
 
 **Price** 650 gp; 

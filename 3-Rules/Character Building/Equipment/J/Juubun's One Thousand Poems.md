@@ -11,7 +11,7 @@ license: OGL
 ---
 # Juubun's One Thousand Poems
 ## Item 9
-### [unique](unique "Unique Rarity Trait")[[grimoire]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[grimoire]][[magical]]
 
 
 **Price** 700 gp; 

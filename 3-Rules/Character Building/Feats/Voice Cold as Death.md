@@ -17,7 +17,7 @@ license: OGL
 ---
 # Voice Cold as Death `pf2:1`
 ## Feat 7
-### [[archetype]][[auditory]][[concentrate]][[emotion]][[fear]][[3-Rules/trait_reference/mental]][[skill]]
+### [[archetype]][[auditory]][[concentrate]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[skill]]
 
 **Category** skill; 
 

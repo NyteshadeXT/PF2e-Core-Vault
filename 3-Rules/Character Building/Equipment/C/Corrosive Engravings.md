@@ -12,7 +12,7 @@ license: OGL
 ---
 # Corrosive Engravings
 ## Item 5
-### [[3-Rules/trait_reference/acid|Acid]] [[grimoire]][[magical|Magical]]
+### [[3-Rules/Trait Reference/A/acid|Acid]] [[grimoire]][[magical|Magical]]
 
 
 **Price** 140 gp; 

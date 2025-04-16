@@ -10,6 +10,6 @@ tags:
 # Abomination Domain
 **Deities** [[Deities/Nhimbaloth|Nhimbaloth]]
 
-**Domain Spell** [[Spells/Lift Nature's Caul|Lift Nature's Caul]]; **Advanced Domain Spell** [[Spells/Fearful Feast|Fearful Feast]]
+**Domain Spell** [[Lift Nature's Caul|Lift Nature's Caul]]; **Advanced Domain Spell** [[Fearful Feast|Fearful Feast]]
 
 You seek to instill abhorrence and horror in those around you.

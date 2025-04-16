@@ -10,7 +10,7 @@ license: OGL
 ---
 # Hauling
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 225 gp; 

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Scorching Column `pf2:3`
 ## Feat 1
-### [[3-Rules/trait_reference/fire]][[impulse]][[kineticist]][[overflow]][[primal]]
+### [[3-Rules/trait_reference/F/fire]][[impulse]][[kineticist]][[overflow]][[primal]]
 
 **Category** class; 
 

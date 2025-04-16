@@ -13,7 +13,7 @@ license: OGL
 ---
 # The Lens of the Outreaching Eye
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]][[magical]][[scrying]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]][[magical]][[3-Rules/trait_reference/S/scrying]]
 
 
 **Price** 0 gp; 
@@ -36,7 +36,7 @@ As long as you have the _Lens of the Outreaching Eye_ invested, the Harrowed Rea
 
 **Frequency** once per day
 
-**Effect** The Lens of the Outreaching Eye casts [[Spells/Pinpoint|Pinpoint]] on the Deck of Harrowed Tales.
+**Effect** The Lens of the Outreaching Eye casts [[Pinpoint|Pinpoint]] on the Deck of Harrowed Tales.
 
 * * *
 

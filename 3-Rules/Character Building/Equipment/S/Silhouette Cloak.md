@@ -11,7 +11,7 @@ license: OGL
 ---
 # Silhouette Cloak
 ## Item 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 70000 gp; 

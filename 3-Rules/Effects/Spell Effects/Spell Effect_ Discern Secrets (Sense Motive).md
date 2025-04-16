@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Discern Secrets|Discern Secrets]], if you pick Sense Motive.
+Granted by [[Discern Secrets|Discern Secrets]], if you pick Sense Motive.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

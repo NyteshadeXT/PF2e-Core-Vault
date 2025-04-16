@@ -14,7 +14,7 @@ license: OGL
 ---
 # Roaring Potion (Greater)
 ## Item 18
-### [[consumable]][[magical]][[potion]][[3-Rules/trait_reference/sonic]]
+### [[consumable]][[magical]][[potion]][[3-Rules/Trait Reference/S/sonic]]
 
 **Category** potion; 
 **Price** 3600 gp; 
@@ -29,7 +29,7 @@ Ripples move constantly through a roaring potion, a cloudy liquid that growls wh
 
 **Activate** `pf2:1` envision
 
-**Effect** You gain the effects of a 7th-rank [[Spells/Bullhorn|Bullhorn]] spell. You can Dismiss the activation.
+**Effect** You gain the effects of a 7th-rank [[Bullhorn|Bullhorn]] spell. You can Dismiss the activation.
 
 * * *
 

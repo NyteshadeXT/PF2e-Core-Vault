@@ -12,7 +12,7 @@ license: OGL
 ---
 # Noppera-Bo Hood
 ## Item 4
-### [rare](rare "Rare Rarity Trait")[[illusion]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[illusion]][[invested]][[magical]]
 
 
 **Price** 85 gp; 
@@ -27,7 +27,7 @@ This unpleasant-looking hood appears to be a completely smooth, round sack of sk
 
 * * *
 
-**Effect** You focus on the hood's magic, and then gain the effects of 1st-rank [[Spells/Illusory Disguise|Illusory Disguise]], though it's a transmutation effect rather than an illusion.
+**Effect** You focus on the hood's magic, and then gain the effects of 1st-rank [[Illusory Disguise|Illusory Disguise]], though it's a transmutation effect rather than an illusion.
 
 *Source: Pathfinder #196: The Summer That Never Was*
 *OGL*

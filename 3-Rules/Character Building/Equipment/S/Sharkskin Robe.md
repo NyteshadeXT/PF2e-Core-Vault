@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sharkskin Robe
 ## Item 12
-### [[invested]][[magical]][[3-Rules/trait_reference/water]]
+### [[invested]][[magical]][[3-Rules/Trait Reference/W/water]]
 
 
 **Price** 1900 gp; 

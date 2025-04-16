@@ -13,7 +13,7 @@ license: OGL
 ---
 # Broadleaf Shield (Major)
 ## Item 13
-### [[magical|Magical]][[3-Rules/trait_reference/plant]][[Wood]]
+### [[magical|Magical]][[plant]][[Wood]]
 
 
 **Price** 2750 gp; 

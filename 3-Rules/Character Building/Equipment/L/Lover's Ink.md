@@ -10,7 +10,7 @@ license: OGL
 ---
 # Lover's Ink
 ## Item 2
-### [rare](rare "Rare Rarity Trait")
+### [rare](rare.md "Rare Rarity Trait")
 
 **Category** potion; 
 **Price** 5 gp; 

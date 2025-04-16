@@ -13,7 +13,7 @@ license: ORC
 ---
 # Genius Diadem
 ## Item 18
-### [rare](rare "Rare Rarity Trait")[[apex]][[arcane]][[intelligent]]
+### [rare](rare.md "Rare Rarity Trait")[[apex]][[arcane]][[intelligent]]
 
 
 **Price** 24000 gp; 
@@ -40,7 +40,7 @@ The _genius diadem_ is a _[[Crown of Intellect|Crown of Intellect]]_ that typica
 
 * * *
 
-**Effect** The _genius diadem_ casts 7th-rank [[Spells/Never Mind|Never Mind]].
+**Effect** The _genius diadem_ casts 7th-rank [[Never Mind|Never Mind]].
 
 *Source: Pathfinder GM Core*
 *ORC*

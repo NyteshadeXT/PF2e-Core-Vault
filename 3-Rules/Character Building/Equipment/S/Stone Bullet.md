@@ -24,11 +24,11 @@ license: ORC
 
 * * *
 
-This sling bullet looks like a petrified serpent's eye. A creature hit by an activated _stone bullet_ is subject to the effects of a 6th-rank [[Spells/Petrify|Petrify]] spell (DC 34 Fortitude check).
+This sling bullet looks like a petrified serpent's eye. A creature hit by an activated _stone bullet_ is subject to the effects of a 6th-rank [[Petrify|Petrify]] spell (DC 34 Fortitude check).
 
 * * *
 
-**Craft Requirements** Supply one casting of [[Spells/Petrify|Petrify]].
+**Craft Requirements** Supply one casting of [[Petrify|Petrify]].
 
 *Source: Pathfinder GM Core*
 *ORC*

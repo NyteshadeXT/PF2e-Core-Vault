@@ -15,7 +15,7 @@ license: OGL
 ---
 # Hundred-Moth Caress
 ## Item 8
-### [[deadly-d10]][[divine]][[trip]][[void]]
+### [[deadly-d10]][[divine]][[3-Rules/Trait Reference/T/trip]][[void]]
 
 |  |  |
 | -- | -- |

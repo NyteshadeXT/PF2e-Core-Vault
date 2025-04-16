@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Clinging Shadows Stance|Clinging Shadows Stance]]
+Granted by [[Clinging Shadows Stance|Clinging Shadows Stance]]
 
 You adopt the stance of clinging shadows. You can make shadow grasp Strikes. These deal 1d4 void damage; are in the brawling group; and have the agile, grapple, reach, and unarmed traits.
 

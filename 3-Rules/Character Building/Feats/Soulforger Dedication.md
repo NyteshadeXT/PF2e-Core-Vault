@@ -46,9 +46,9 @@ Your soulforged armament has an essence power you choose when you first bind it.
 
 **Heroic Heart** (enchantment, mental) You gain a +1 status bonus to attack rolls, Perception checks, skill checks, and saves. _Corruption Flaw_ You take a -1 penalty to attack rolls.
 
-**Healing Grace** (healing, vitality) You gain fast healing equal to half your level. You can cast [[Spells/Heal|Heal]] once as an innate spell with a level equal to half your level rounded up. _Corruption Flaw_ Reduce all healing you would receive or grant with a spell by half your level.
+**Healing Grace** (healing, vitality) You gain fast healing equal to half your level. You can cast [[Heal|Heal]] once as an innate spell with a level equal to half your level rounded up. _Corruption Flaw_ Reduce all healing you would receive or grant with a spell by half your level.
 
-**Magical Resilience** (abjuration) Armor or shield only. You gain a +2 status bonus to saving throws and AC against spells. If you're 5th level or higher, you can cast [[Spells/Dispel Magic|Dispel Magic]] once as an innate spell. The spell rank is equal to 1 lower than half your level rounded up (2nd level if you're 5th or 6th level, and so on). _Corruption Flaw_ You take a -1 penalty to saving throws and AC against spells.
+**Magical Resilience** (abjuration) Armor or shield only. You gain a +2 status bonus to saving throws and AC against spells. If you're 5th level or higher, you can cast [[Dispel Magic|Dispel Magic]] once as an innate spell. The spell rank is equal to 1 lower than half your level rounded up (2nd level if you're 5th or 6th level, and so on). _Corruption Flaw_ You take a -1 penalty to saving throws and AC against spells.
 
 **Planar Bond** (abjuration) Armor or shield only. When you manifest the essence form, choose one damage type: acid, cold, electricity, fire, sonic, spirit, vitality, or void. You gain resistance equal to your level + 2 to damage of the selected type. _Corruption Flaw_ You gain weakness 1 to all damage.
 

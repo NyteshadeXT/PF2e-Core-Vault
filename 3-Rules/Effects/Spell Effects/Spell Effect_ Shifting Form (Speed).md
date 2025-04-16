@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by casting [[Spells/Shifting Form|Shifting Form]] and choosing to gain a 20-foot status bonus to your Speed.
+Granted by casting [[Shifting Form|Shifting Form]] and choosing to gain a 20-foot status bonus to your Speed.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

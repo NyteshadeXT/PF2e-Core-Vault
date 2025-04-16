@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Weapon Surge|Weapon Surge]] when applied to a weapon with a major striking rune.
+Granted by [[Weapon Surge|Weapon Surge]] when applied to a weapon with a major striking rune.
 
 On your next Strike with that weapon before the start of your next turn, you gain a +1 status bonus to the attack roll.
 

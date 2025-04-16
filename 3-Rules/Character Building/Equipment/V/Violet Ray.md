@@ -9,7 +9,7 @@ license: OGL
 ---
 # Violet Ray
 ## Item 12
-### [rare](rare "Rare Rarity Trait")
+### [rare](rare.md "Rare Rarity Trait")
 
 
 **Price** 1893 gp; 

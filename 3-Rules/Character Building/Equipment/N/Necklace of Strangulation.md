@@ -12,7 +12,7 @@ license: OGL
 ---
 # Necklace of Strangulation
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
 
 
 **Price** 0 gp; 

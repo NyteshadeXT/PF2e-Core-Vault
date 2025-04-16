@@ -14,7 +14,7 @@ license: OGL
 ---
 # Snarling Badger (Moderate)
 ## Item 12
-### [[consumable]][[magical]][[3-Rules/trait_reference/mental]][[talisman]]
+### [[consumable]][[magical]][[3-Rules/Trait Reference/M/mental]][[talisman]]
 
 **Category** talisman; 
 **Price** 400 gp; 
@@ -29,7 +29,7 @@ license: OGL
 
 * * *
 
-This tarnished steel pendant is inlaid with the face of an enraged badger. When you Activate the talisman, it casts a 6th-rank [[Spells/Heroism|Heroism]] on you. If you lose the wounded condition, the _heroism_ ends immediately.
+This tarnished steel pendant is inlaid with the face of an enraged badger. When you Activate the talisman, it casts a 6th-rank [[Heroism|Heroism]] on you. If you lose the wounded condition, the _heroism_ ends immediately.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

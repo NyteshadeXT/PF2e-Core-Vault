@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Foresight|Foresight]]
+Granted by [[3-Rules/Character Building/Spells/F/Foresight|Foresight]]
 
 While _foresight_ is in effect, the target gains a +2 status bonus to initiative rolls and isn't off-guard against undetected creatures or when flanked.
 

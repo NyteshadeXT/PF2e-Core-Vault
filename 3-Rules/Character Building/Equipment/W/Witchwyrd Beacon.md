@@ -10,7 +10,7 @@ license: OGL
 ---
 # Witchwyrd Beacon
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 
 **Price** 15000 gp; 
@@ -33,7 +33,7 @@ Made of djezet, orichalcum, and luminous, resonant crystal, a _witchwyrd beacon_
 
 **Requirements** you are attuned to the _witchwyrd beacon_
 
-**Effect** You place the _witchwyrd beacon_ on a flat, stable, and immobile surface, then adjust its rings to link it to the site. Once linked, any creature can use a teleportation effect to target the _witchwyrd beacon_ directly, regardless of line of sight. You can [[Spells/Translocate|Translocate]] or [[Spells/Gate|Gate]] to the beacon as if you could see its location, and if you travel to it via an effect like [[Spells/Interplanar Teleport|Interplanar Teleport]], the beacon eliminates the imprecision of the spell. The beacon doesn't change the range of effects, only their accuracy. Once the beacon is used in this manner, it loses its link and must be reactivated again to grant this benefit to attuned creatures.
+**Effect** You place the _witchwyrd beacon_ on a flat, stable, and immobile surface, then adjust its rings to link it to the site. Once linked, any creature can use a teleportation effect to target the _witchwyrd beacon_ directly, regardless of line of sight. You can [[Translocate|Translocate]] or [[Gate|Gate]] to the beacon as if you could see its location, and if you travel to it via an effect like [[Interplanar Teleport|Interplanar Teleport]], the beacon eliminates the imprecision of the spell. The beacon doesn't change the range of effects, only their accuracy. Once the beacon is used in this manner, it loses its link and must be reactivated again to grant this benefit to attuned creatures.
 
 *Source: Pathfinder #191: The Destiny War*
 *OGL*

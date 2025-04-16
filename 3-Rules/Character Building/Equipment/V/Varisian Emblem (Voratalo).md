@@ -29,7 +29,7 @@ Each description lists the school of each Varisian emblem, and the tattoo has th
 
 * * *
 
-**Effect** The tattoo casts [[Spells/Cleanse Cuisine|Cleanse Cuisine]].
+**Effect** The tattoo casts [[Cleanse Cuisine|Cleanse Cuisine]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

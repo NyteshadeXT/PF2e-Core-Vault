@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Unbreaking Wave Vapor|Unbreaking Wave Vapor]]
+Granted by [[Unbreaking Wave Vapor|Unbreaking Wave Vapor]]
 
 You're concealed against the triggering attack and gain a +2 circumstance bonus to AC against it.
 

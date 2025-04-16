@@ -13,7 +13,7 @@ license: OGL
 ---
 # Gloves of Carelessness
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[cursed]][[extradimensional]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[extradimensional]][[invested]][[magical]]
 
 
 **Price** 0 gp; 

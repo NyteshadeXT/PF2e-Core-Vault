@@ -10,6 +10,6 @@ tags:
 # Toil Domain
 **Deities** [[Deities/Chohar|Chohar]], [[Deities/Droskar|Droskar]], [[Deities/Lissala|Lissala]], [[Deities/Mammon|Mammon]], [[Deities/Sairazul|Sairazul]], [[Deities/The Path of the Heavens|The Path of the Heavens]]
 
-**Domain Spell** [[Spells/Practice Makes Perfect|Practice Makes Perfect]]; **Advanced Domain Spell** [[Spells/Tireless Worker|Tireless Worker]]
+**Domain Spell** [[Practice Makes Perfect|Practice Makes Perfect]]; **Advanced Domain Spell** [[Tireless Worker|Tireless Worker]]
 
 You work constantly and refuse to let anything stand in your way.

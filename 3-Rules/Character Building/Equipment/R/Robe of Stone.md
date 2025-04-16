@@ -13,7 +13,7 @@ license: OGL
 ---
 # Robe of Stone
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/earth]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/E/earth]][[invested]][[magical]]
 
 
 **Price** 1400 gp; 
@@ -28,7 +28,7 @@ A _robe of stone_, decorated with patterns reminiscent of gems and geodes, const
 
 * * *
 
-**Effect** The cloak casts [[Spells/Elemental Form|Elemental Form]] on you, transforming you into an earth elemental. In addition to the spell's normal effects, you can Burrow through any earthen matter, including rock, moving at the spell's burrow Speed, leaving no tunnels or signs of your passing. Also, the range of the tremorsense you gain from the robe increases to 30 feet.
+**Effect** The cloak casts [[Elemental Form|Elemental Form]] on you, transforming you into an earth elemental. In addition to the spell's normal effects, you can Burrow through any earthen matter, including rock, moving at the spell's burrow Speed, leaving no tunnels or signs of your passing. Also, the range of the tremorsense you gain from the robe increases to 30 feet.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

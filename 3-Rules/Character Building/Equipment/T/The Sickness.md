@@ -34,7 +34,7 @@ _The Sickness_ represents disease of the body or soul. As long as _The Sickness_
 
 * * *
 
-**Effect** You flick a corner of the card, as if casting aside a tiny pest or fleck of filth from its surface; you cast [[Spells/Abyssal Plague|Abyssal Plague]]. If you are at least 15th-level, you can instead choose to cast [[Spells/Spiritual Epidemic|Spiritual Epidemic]]. Regardless of which spell you cast, the rank of the spell is half your level, rounded down (minimum 6th level), and the save DC is equal to your class DC or spell DC.
+**Effect** You flick a corner of the card, as if casting aside a tiny pest or fleck of filth from its surface; you cast [[Abyssal Plague|Abyssal Plague]]. If you are at least 15th-level, you can instead choose to cast [[Spiritual Epidemic|Spiritual Epidemic]]. Regardless of which spell you cast, the rank of the spell is half your level, rounded down (minimum 6th level), and the save DC is equal to your class DC or spell DC.
 
 _Abyssal Plague_ Fortitude check
 

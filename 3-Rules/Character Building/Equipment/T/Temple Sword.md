@@ -14,7 +14,7 @@ license: ORC
 ---
 # Temple Sword
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[monk]][[trip]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[monk]][[3-Rules/trait_reference/T/trip]]
 
 |  |  |
 | -- | -- |

@@ -27,7 +27,7 @@ Placed under the eyes like rays of light, this tattoo burns away illusions with 
 
 * * *
 
-**Effect** The tattoo casts a 4th-rank [[Spells/Blazing Bolt|Blazing Bolt]], with the rays emitting from your eyes. The number of actions you spend Activating the tattoo determines scorching ray's number of rays. The tattoo also attempts to dispel each illusion on a creature hit by a ray (counteract rank 5th, counteract modifier +19).
+**Effect** The tattoo casts a 4th-rank [[Blazing Bolt|Blazing Bolt]], with the rays emitting from your eyes. The number of actions you spend Activating the tattoo determines scorching ray's number of rays. The tattoo also attempts to dispel each illusion on a creature hit by a ray (counteract rank 5th, counteract modifier +19).
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

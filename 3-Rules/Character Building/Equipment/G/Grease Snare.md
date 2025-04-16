@@ -14,7 +14,7 @@ license: OGL
 ---
 # Grease Snare
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 30 gp; 

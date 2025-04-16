@@ -13,7 +13,7 @@ license: OGL
 ---
 # Pathfinder's Mentor
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[illusion]][[intelligent]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[illusion]][[intelligent]][[invested]][[magical]]
 
 
 **Price** 200 gp; 
@@ -36,7 +36,7 @@ A Pathfinder's mentor is a bi-resonant wayfinder that has developed sapience. Mo
 
 **Activate** `pf2:1` command, envision
 
-**Effect** The wayfinder casts [[Spells/Know the Way|Know the Way]] on you.
+**Effect** The wayfinder casts [[Know the Way|Know the Way]] on you.
 
 * * *
 
@@ -44,7 +44,7 @@ A Pathfinder's mentor is a bi-resonant wayfinder that has developed sapience. Mo
 
 **Frequency** once per day
 
-**Effect** The wayfinder casts [[Spells/Wanderer's Guide|Wanderer's Guide]] on you.
+**Effect** The wayfinder casts [[Wanderer's Guide|Wanderer's Guide]] on you.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

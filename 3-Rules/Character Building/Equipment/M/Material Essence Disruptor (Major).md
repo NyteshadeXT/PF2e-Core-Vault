@@ -12,7 +12,7 @@ license: OGL
 ---
 # Material Essence Disruptor (Major)
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[gadget]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 1300 gp; 

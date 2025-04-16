@@ -12,7 +12,7 @@ license: OGL
 ---
 # Hunter's Hagbook
 ## Item 9
-### [unique](unique "Unique Rarity Trait")[[fortune]][[grimoire]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[fortune]][[grimoire]][[magical]]
 
 
 **Price** 700 gp; 
@@ -25,17 +25,17 @@ When you attempt a saving throw against a coven spell, you can immediately end t
 
 * * *
 
-[[Spells/Caster's Imposition|Caster's Imposition]]
+[[Caster's Imposition|Caster's Imposition]]
 
-[[Spells/Blind Eye|Blind Eye]]
+[[Blind Eye|Blind Eye]]
 
-[[Spells/Blood Duplicate|Blood Duplicate]]
+[[Blood Duplicate|Blood Duplicate]]
 
-[[Spells/Hag's Fruit|Hag's Fruit]]
+[[Hag's Fruit|Hag's Fruit]]
 
-[[Spells/Ritual Obstruction|Ritual Obstruction]]
+[[Ritual Obstruction|Ritual Obstruction]]
 
-[[Spells/Web of Influence|Web of Influence]]
+[[Web of Influence|Web of Influence]]
 
 *Source: Pathfinder #182: Graveclaw*
 *OGL*

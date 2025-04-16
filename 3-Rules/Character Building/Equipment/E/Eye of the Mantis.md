@@ -26,7 +26,7 @@ This 1-inch tall figurine depicts a crouched praying mantis. It's usually carved
 
 **Frequency** once per day
 
-**Effect** You cast 4th-rank [[Spells/Vision of Death|Vision of Death]] (DC 28 Will check). To the target, it always appears as if they are being attacked by an immense praying mantis.
+**Effect** You cast 4th-rank [[Vision of Death|Vision of Death]] (DC 28 Will check). To the target, it always appears as if they are being attacked by an immense praying mantis.
 
 * * *
 
@@ -34,7 +34,7 @@ This 1-inch tall figurine depicts a crouched praying mantis. It's usually carved
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Scouting Eye|Scouting Eye]].
+**Effect** You cast [[Scouting Eye|Scouting Eye]].
 
 *Source: Pathfinder Adventure: Prey for Death*
 *ORC*

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dwarven Thrower
 ## Item 13
-### [[magical|Magical]][[3-Rules/trait_reference/shove]]
+### [[magical|Magical]][[3-Rules/Trait Reference/S/shove]]
 
 |  |  |
 | -- | -- |

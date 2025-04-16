@@ -14,7 +14,7 @@ license: OGL
 ---
 # Sunken Pistol
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[concussive]][[magical]][[scatter-5]]
+### [rare](rare.md "Rare Rarity Trait")[[concussive]][[magical]][[scatter-5]]
 
 |  |  |
 | -- | -- |

@@ -14,14 +14,14 @@ license: ORC
 ---
 # (Ghost) Malevolent Possession `pf2:2`
 
-### [[incapacitation]][[3-Rules/trait_reference/mental]][[possession]]
+### [[incapacitation]][[3-Rules/trait_reference/M/mental]][[3-Rules/trait_reference/P/possession]]
 
 **Category** offensive; 
 
 
 
 
-The ghost attempts to possess an adjacent corporeal creature. This has the same effect as the [[Spells/Possession|Possession]] spell, except since the ghost doesn't have a physical body, it is unaffected by that restriction of the spell.
+The ghost attempts to possess an adjacent corporeal creature. This has the same effect as the [[3-Rules/Character Building/Spells/P/Possession|Possession]] spell, except since the ghost doesn't have a physical body, it is unaffected by that restriction of the spell.
 
 For DCs, use the high spell DC of the ghost's level.
 

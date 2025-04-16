@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Untamed Shift|Untamed Shift]]
+Granted by [[Untamed Shift|Untamed Shift]]
 
 You transform just a part of your body.
 

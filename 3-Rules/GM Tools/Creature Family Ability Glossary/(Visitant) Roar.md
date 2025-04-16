@@ -16,7 +16,7 @@ license: OGL
 ---
 # (Visitant) Roar `pf2:1`
 
-### [[auditory]][[concentrate]][[emotion]][[fear]][[3-Rules/trait_reference/mental]][[primal]]
+### [[auditory]][[concentrate]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[primal]]
 
 **Category** offensive; 
 

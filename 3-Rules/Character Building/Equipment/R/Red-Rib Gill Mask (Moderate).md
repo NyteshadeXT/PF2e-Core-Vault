@@ -12,7 +12,7 @@ license: OGL
 ---
 # Red-Rib Gill Mask (Moderate)
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** other; 
 **Price** 100 gp; 

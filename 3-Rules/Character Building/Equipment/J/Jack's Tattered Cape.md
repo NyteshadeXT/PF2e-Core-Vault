@@ -12,7 +12,7 @@ license: OGL
 ---
 # Jack's Tattered Cape
 ## Item 2
-### [rare](rare "Rare Rarity Trait")[[illusion]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[illusion]][[invested]][[magical]]
 
 
 **Price** 30 gp; 

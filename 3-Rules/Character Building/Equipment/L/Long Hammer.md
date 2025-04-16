@@ -16,7 +16,7 @@ license: OGL
 ---
 # Long Hammer
 ## Item 0
-### [[brace]][[dwarf]][[reach]][[trip]][[versatile-p]]
+### [[brace]][[dwarf]][[reach]][[3-Rules/Trait Reference/T/trip]][[versatile-p]]
 
 |  |  |
 | -- | -- |

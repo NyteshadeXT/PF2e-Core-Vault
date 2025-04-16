@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Animal Companion
 * * *
-You can call upon the essence of every individual animal of a particular species to temporarily transform your animal into an exemplar of its kind. You learn the [[Spells/Apex Companion|Apex Companion]] order spell. Increase the number of Focus Points in your focus pool by 1.
+You can call upon the essence of every individual animal of a particular species to temporarily transform your animal into an exemplar of its kind. You learn the [[3-Rules/Character Building/Spells/A/Apex Companion|Apex Companion]] order spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder #150: Broken Promises*
 *OGL*

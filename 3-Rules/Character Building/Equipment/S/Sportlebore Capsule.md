@@ -15,7 +15,7 @@ license: ORC
 ---
 # Sportlebore Capsule
 ## Item 7
-### [[alchemical]][[consumable]][[ingested]][[3-Rules/trait_reference/poison]]
+### [[alchemical]][[consumable]][[ingested]][[3-Rules/trait_reference/P/poison]]
 
 **Category** other; 
 **Price** 70 gp; 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Mirror-Ball Snare
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]][[visual]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[mechanical]][[snare]][[trap]][[visual]]
 
 **Category** snare; 
 **Price** 40 gp; 

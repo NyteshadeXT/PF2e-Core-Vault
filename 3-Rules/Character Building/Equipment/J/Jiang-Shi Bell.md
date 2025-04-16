@@ -10,7 +10,7 @@ license: OGL
 ---
 # Jiang-Shi Bell
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 1200 gp; 

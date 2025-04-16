@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Traveler's Transit|Traveler's Transit]].
+Granted by [[Traveler's Transit|Traveler's Transit]].
 
 You gain a fly speed equal to your land speed.
 

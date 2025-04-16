@@ -20,7 +20,7 @@ license: ORC
 ---
 # Heavenly Rolling Flames
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[disarm]][[finesse]][[magical]][[monk]][[parry]][[twin]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[3-Rules/Trait Reference/D/disarm]][[finesse]][[magical]][[monk]][[parry]][[twin]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -49,7 +49,7 @@ This set of _+2 greater striking flaming feng huo lun_ is warm to the touch and 
 
 * * *
 
-**Effect** You cast [[Spells/Haste|Haste]] as a 3rd-rank occult spell, but you can target only yourself.
+**Effect** You cast [[Haste|Haste]] as a 3rd-rank occult spell, but you can target only yourself.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

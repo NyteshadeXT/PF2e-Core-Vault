@@ -23,7 +23,7 @@ license: ORC
 
 **Prerequisites** warrior muse; Rallying Anthem
 * * *
-Like the storied heroes who persist in the face of overwhelming odds, you and your allies will hold the line. If your next action is to cast the [[Spells/Rallying Anthem|Rallying Anthem]] composition cantrip, you can Raise a Shield, and one ally of your choice who gains a status bonus from the spell can immediately use their reaction to Raise a Shield.
+Like the storied heroes who persist in the face of overwhelming odds, you and your allies will hold the line. If your next action is to cast the [[3-Rules/Character Building/Spells/R/Rallying Anthem|Rallying Anthem]] composition cantrip, you can Raise a Shield, and one ally of your choice who gains a status bonus from the spell can immediately use their reaction to Raise a Shield.
 
 *Source: Pathfinder Player Core*
 *ORC*

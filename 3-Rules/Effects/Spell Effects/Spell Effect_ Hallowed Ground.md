@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Hallowed Ground|Hallowed Ground]]
+Granted by [[Hallowed Ground|Hallowed Ground]]
 
 Undead creatures have weakness to vitality damage while in the area.
 

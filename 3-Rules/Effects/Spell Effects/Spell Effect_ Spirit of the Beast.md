@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Spirit of the Beast|Spirit of the Beast]]
+Granted by [[3-Rules/Character Building/Spells/S/Spirit of the Beast|Spirit of the Beast]]
 
 When you Cast this Spell, select from one of the following aspects.
 

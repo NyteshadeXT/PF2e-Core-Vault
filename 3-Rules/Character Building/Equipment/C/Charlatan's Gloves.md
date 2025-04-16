@@ -19,7 +19,7 @@ license: ORC
 **Bulk** L; **Size** med
 **Usage** worngloves
 
-Tiny silver hooks decorate these fine silk gloves. They grant a +1 item bonus to Thievery and allow you to cast [[Spells/Telekinetic Hand|Telekinetic Hand]] as an innate occult spell.
+Tiny silver hooks decorate these fine silk gloves. They grant a +1 item bonus to Thievery and allow you to cast [[Telekinetic Hand|Telekinetic Hand]] as an innate occult spell.
 
 *Source: Pathfinder GM Core*
 *ORC*

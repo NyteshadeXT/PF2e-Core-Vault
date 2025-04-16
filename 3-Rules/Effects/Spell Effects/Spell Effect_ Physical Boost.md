@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Physical Boost|Physical Boost]]
+Granted by [[Physical Boost|Physical Boost]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

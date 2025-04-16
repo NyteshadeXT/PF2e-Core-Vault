@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Bard Dedication
 * * *
-Your music, speech, or other performance inspires your allies to dive into battle. You gain the [[Spells/Courageous Anthem|Courageous Anthem]] composition cantrip.
+Your music, speech, or other performance inspires your allies to dive into battle. You gain the [[Courageous Anthem|Courageous Anthem]] composition cantrip.
 
 *Source: Pathfinder Player Core*
 *ORC*

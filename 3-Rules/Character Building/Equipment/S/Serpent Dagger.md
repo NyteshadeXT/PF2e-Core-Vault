@@ -18,7 +18,7 @@ license: ORC
 ---
 # Serpent Dagger
 ## Item 5
-### [[agile]][[finesse]][[magical]][[3-Rules/trait_reference/poison]][[thrown-10]][[versatile-s]]
+### [[agile]][[finesse]][[magical]][[3-Rules/Trait Reference/P/poison]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |

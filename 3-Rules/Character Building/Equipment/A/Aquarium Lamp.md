@@ -11,7 +11,7 @@ license: OGL
 ---
 # Aquarium Lamp
 ## Item 8
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Electricity]][[3-Rules/trait_reference/light]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Electricity]][[3-Rules/Trait Reference/L/light]]
 
 
 **Price** 1500 gp; 

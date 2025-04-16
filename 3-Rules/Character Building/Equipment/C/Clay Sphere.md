@@ -32,7 +32,7 @@ This dry clay ball becomes malleable when activated, shifting into a variety of 
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Gouging Claw|Gouging Claw]].
+**Effect** You cast [[Gouging Claw|Gouging Claw]].
 
 *Source: Pathfinder #202: Severed at the Root*
 *ORC*

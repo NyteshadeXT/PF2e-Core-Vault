@@ -34,7 +34,7 @@ _The Mountain Man_ represents creatures with incredible physical power. As long 
 
 * * *
 
-**Effect** You bring the might of the mountain into your body. You cast 2nd-rank or 4th-rank [[Spells/Enlarge|Enlarge]] upon yourself. If you're at least 15th level, the duration increases to 1 hour.
+**Effect** You bring the might of the mountain into your body. You cast 2nd-rank or 4th-rank [[Enlarge|Enlarge]] upon yourself. If you're at least 15th level, the duration increases to 1 hour.
 
 *Source: Pathfinder #190: The Choosing*
 *OGL*

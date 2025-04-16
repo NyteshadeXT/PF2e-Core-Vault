@@ -14,7 +14,7 @@ license: OGL
 ---
 # Spear of the Destroyer's Flame
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[magical]][[reach]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[magical]][[reach]]
 
 |  |  |
 | -- | -- |
@@ -33,7 +33,7 @@ In addition to its deadliness as a weapon, the _Spear of the Destroyer's Flame_ 
 
 The Army of Fire has unwavering loyalty to the Commander of Flame, an individual who has completed a special activation that ties their soul to the spear. As long as the Army of Fire can see and hear the Commander of Flame, the army will follow the Commander's orders. The Commander of Flame can sense the presence of the Army of Fire and issue orders, regardless of language, with the same effects as for someone in possession of the spear. The Commander of Flame still needs the spear in hand to muster the Army of Fire, however.
 
-If the Commander of Flame doesn't hold the _Spear of the Destroyer's Flame_ for 1 week, it returns to Cuetzmonquali's gut, instantly teleporting to the creature's location. If Cuetzmonquali is dead at this time, the spear also resurrects the creature, using the effects of a critical success on a 10th-rank [[Spells/Resurrect|Resurrect]] ritual.
+If the Commander of Flame doesn't hold the _Spear of the Destroyer's Flame_ for 1 week, it returns to Cuetzmonquali's gut, instantly teleporting to the creature's location. If Cuetzmonquali is dead at this time, the spear also resurrects the creature, using the effects of a critical success on a 10th-rank [[Resurrect|Resurrect]] ritual.
 
 **Activate** 1 minute (envision, Interact)
 

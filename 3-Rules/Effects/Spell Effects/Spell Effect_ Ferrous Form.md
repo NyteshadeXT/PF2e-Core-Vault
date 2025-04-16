@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Ferrous Form|Ferrous Form]]
+Granted by [[Ferrous Form|Ferrous Form]]
 
 Your body transforms entirely into flexible iron. You gain resistance to physical damage, except adamantine. You're immune to death effects, disease, drained, fatigued, healing, nonlethal attacks, paralyzed, poison, sickened, vitality, and void; any of those conditions you had when the spell is cast are suspended until the spell ends, then return with their remaining duration when the spell ends.
 

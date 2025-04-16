@@ -13,7 +13,7 @@ license: OGL
 ---
 # Aeon Stone (Olivine Pendeloque)
 ## Item 14
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/earth]][[invested]][[magical|Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/E/earth]][[invested]][[magical|Magical]]
 
 
 **Price** 1200 gp; 

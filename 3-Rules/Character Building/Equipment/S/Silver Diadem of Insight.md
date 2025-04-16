@@ -30,7 +30,7 @@ This elegant silver diadem inscribed with the symbol of the Aetherial Warden Zos
 
 ---
 
-**Passive Effect** While wearing the diadem, you gain the ability to detect subtle magical auras. You can use the [[3-Rules/Character Building/Spells/Detect Magic|Detect Magic]] cantrip as a primal innate spell, heightened to a level equal to half your character level (rounded up).
+**Passive Effect** While wearing the diadem, you gain the ability to detect subtle magical auras. You can use the [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]] cantrip as a primal innate spell, heightened to a level equal to half your character level (rounded up).
 
 _Source: Homebrew_  
 _OGL_

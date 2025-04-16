@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Animal Feature|Animal Feature]].
+Granted by [[Animal Feature|Animal Feature]].
 
 You gain a Swim Speed equal to your land Speed.
 

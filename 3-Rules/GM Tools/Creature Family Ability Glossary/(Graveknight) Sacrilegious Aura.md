@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Graveknight) Sacrilegious Aura
 
-### [[aura]][[divine]][[void]]
+### [[3-Rules/trait_reference/A/aura]][[divine]][[void]]
 
 **Category** defensive; 
 

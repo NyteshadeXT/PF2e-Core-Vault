@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Silver's Refrain|Silver's Refrain]]
+Granted by [[3-Rules/Character Building/Spells/S/Silver's Refrain|Silver's Refrain]]
 
 Your weapon and unarmed attacks are treated as silver.
 

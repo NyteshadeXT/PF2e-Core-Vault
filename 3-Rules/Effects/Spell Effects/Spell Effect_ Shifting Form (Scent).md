@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by casting [[Spells/Shifting Form|Shifting Form]] and choosing to gain scent 60 feet (imprecise).
+Granted by casting [[Shifting Form|Shifting Form]] and choosing to gain scent 60 feet (imprecise).
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

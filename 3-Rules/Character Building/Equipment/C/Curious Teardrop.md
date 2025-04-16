@@ -43,7 +43,7 @@ The tear prefers not to talk about its past, though it claims to be an actual te
 
 * * *
 
-**Effect** You ask for the _curious teardrop_'s assistance. It casts [[Spells/Curse of Lost Time|Curse of Lost Time]], [[Spells/Ferrous Form|Ferrous Form]], or 7th-rank [[Spells/Elemental Form|Elemental Form]] (metal elemental only), depending on your request.
+**Effect** You ask for the _curious teardrop_'s assistance. It casts [[Curse of Lost Time|Curse of Lost Time]], [[Ferrous Form|Ferrous Form]], or 7th-rank [[Elemental Form|Elemental Form]] (metal elemental only), depending on your request.
 
 **Activate—Reflect Emotions** `pf2:r` (concentrate)
 

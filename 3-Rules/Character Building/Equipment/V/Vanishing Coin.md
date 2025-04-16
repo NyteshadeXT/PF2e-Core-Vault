@@ -32,7 +32,7 @@ license: ORC
 
 This copper coin dangles from a leather strip strung through a hole drilled in the center. Until activated, the coin becomes invisible for a few seconds at random intervals every few minutes.
 
-When you activate the coin, it casts a 2nd-rank [[Spells/Invisibility|Invisibility]] spell on you, lasting until the end of your next turn.
+When you activate the coin, it casts a 2nd-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] spell on you, lasting until the end of your next turn.
 
 *Source: Pathfinder GM Core*
 *ORC*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-The creature gains a +3 status bonus to damage rolls and to saving throws against [[Spells/Wave of Despair|Wave of Despair]].
+The creature gains a +3 status bonus to damage rolls and to saving throws against [[Wave of Despair|Wave of Despair]].
 
 *Source: Pathfinder Bestiary*
 *OGL*

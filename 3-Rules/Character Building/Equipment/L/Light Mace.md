@@ -15,7 +15,7 @@ license: ORC
 ---
 # Light Mace
 ## Item 0
-### [[agile]][[finesse]][[shove]]
+### [[agile]][[finesse]][[3-Rules/Trait Reference/S/shove]]
 
 |  |  |
 | -- | -- |

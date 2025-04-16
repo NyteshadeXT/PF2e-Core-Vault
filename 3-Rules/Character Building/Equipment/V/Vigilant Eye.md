@@ -27,7 +27,7 @@ Carved in this wooden disc is a humanoid eye, painted in muted shades that blend
 
 * * *
 
-**Effect** You cast [[Spells/Detect Magic|Detect Magic]].
+**Effect** You cast [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]].
 
 **Activate** Cast a Spell
 
@@ -35,7 +35,7 @@ Carved in this wooden disc is a humanoid eye, painted in muted shades that blend
 
 * * *
 
-**Effect** You cast [[Spells/Web of Eyes|Web of Eyes]].
+**Effect** You cast [[Web of Eyes|Web of Eyes]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

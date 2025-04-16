@@ -19,7 +19,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** worn
 
-At the center of this silver ring gleams an obsidian gem, its surface emblazoned with a bloodred rune of forgetting. While wearing a _forgotten signet_, you're subjected to [[Spells/Hidden Mind|Hidden Mind]] (+32 counteract bonus) and easily fade from others' memory. Sapient creatures must attempt a DC 42 Will check save each time you depart from their company or they forget you entirely.
+At the center of this silver ring gleams an obsidian gem, its surface emblazoned with a bloodred rune of forgetting. While wearing a _forgotten signet_, you're subjected to [[Hidden Mind|Hidden Mind]] (+32 counteract bonus) and easily fade from others' memory. Sapient creatures must attempt a DC 42 Will check save each time you depart from their company or they forget you entirely.
 
 * * *
 

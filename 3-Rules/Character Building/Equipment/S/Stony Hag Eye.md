@@ -12,7 +12,7 @@ license: OGL
 ---
 # Stony Hag Eye
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[invested]][[occult]][[scrying]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[occult]][[3-Rules/trait_reference/S/scrying]]
 
 
 **Price** 250 gp; 

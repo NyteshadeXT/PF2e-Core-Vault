@@ -11,7 +11,7 @@ license: OGL
 ---
 # Spider Chair
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[clockwork]][[magical]]
 
 
 **Price** 1800 gp; 
@@ -38,7 +38,7 @@ This clockwork traveler's chair has spinnerets and spider legs that allow it to 
 
 * * *
 
-**Effect** You cause the chair to launch an enormous web to hinder your foes, with the effects of a 4th-rank [[Spells/Web|Web]] spell.
+**Effect** You cause the chair to launch an enormous web to hinder your foes, with the effects of a 4th-rank [[Web|Web]] spell.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

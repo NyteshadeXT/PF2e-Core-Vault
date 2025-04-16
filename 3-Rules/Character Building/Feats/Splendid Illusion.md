@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You cover your surroundings in outlandish fantasy. You can cast 6th-rank [[Spells/Illusory Scene|Illusory Scene]] as a primal innate spell once per day.
+You cover your surroundings in outlandish fantasy. You can cast 6th-rank [[Illusory Scene|Illusory Scene]] as a primal innate spell once per day.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

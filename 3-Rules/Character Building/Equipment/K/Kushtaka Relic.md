@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-These relics come in many forms, as the only requirement is they were owned by a human who transformed into a kushtaka. Used as a catalyst for [[Spells/Spirit Blast|Spirit Blast]] against a target possessing another creature, a _kushtaka relic_ attempts to banish such a spirit. A creature who fails the Fortitude save against _spirit blast_ has its grasp on its possessed target weakened. The result of the possessed creature's next Will save against the possession effect is improved by one degree. A creature who is possessing another and critically fails the Fortitude save against _spirit blast_ takes damage and then is banished from the body it was possessing.
+These relics come in many forms, as the only requirement is they were owned by a human who transformed into a kushtaka. Used as a catalyst for [[Spirit Blast|Spirit Blast]] against a target possessing another creature, a _kushtaka relic_ attempts to banish such a spirit. A creature who fails the Fortitude save against _spirit blast_ has its grasp on its possessed target weakened. The result of the possessed creature's next Will save against the possession effect is improved by one degree. A creature who is possessing another and critically fails the Fortitude save against _spirit blast_ takes damage and then is banished from the body it was possessing.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Spiral Chimes
 ## Item 13
-### [[3-Rules/trait_reference/air]][[magical]]
+### [[3-Rules/trait_reference/A/air]][[magical]]
 
 
 **Price** 2500 gp; 
@@ -21,7 +21,7 @@ license: OGL
 
 _Spiral chimes_ are a set of small metal bells decorated with spiraling designs that hang on thin wires from a carved statue of a storm cloud or air elemental. Each bell in the _spiral chimes_ rings at a different tone, and when caught in the turbulent winds of a storm, the bells combine to create deep, full songs.
 
-A set of _spiral chimes_ is a planar key for [[Spells/Interplanar Teleport|Interplanar Teleport]] and similar magic. When the chimes are used this way, you're more likely to arrive where you intend to be, appearing 1d6×25 miles from your intended destination instead of 1d10×25 miles away.
+A set of _spiral chimes_ is a planar key for [[Interplanar Teleport|Interplanar Teleport]] and similar magic. When the chimes are used this way, you're more likely to arrive where you intend to be, appearing 1d6×25 miles from your intended destination instead of 1d10×25 miles away.
 
 **Activate—Forecast Chime** 10 minutes (manipulate, prediction)
 

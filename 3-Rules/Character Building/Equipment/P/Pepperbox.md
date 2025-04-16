@@ -14,7 +14,7 @@ license: OGL
 ---
 # Pepperbox
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[capacity-3]][[concussive]][[fatal-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[capacity-3]][[concussive]][[fatal-d8]]
 
 |  |  |
 | -- | -- |

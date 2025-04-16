@@ -28,7 +28,7 @@ license: OGL
 
 * * *
 
-Even while affixed, this electric blue feather sways lightly in the air, as if always accompanied by a breeze. When activated, the talisman casts fly on you, though the duration is 1 minute. You can Dismiss this activation. If you do, you're affected by [[Spells/Gentle Landing|Gentle Landing]].
+Even while affixed, this electric blue feather sways lightly in the air, as if always accompanied by a breeze. When activated, the talisman casts fly on you, though the duration is 1 minute. You can Dismiss this activation. If you do, you're affected by [[Gentle Landing|Gentle Landing]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

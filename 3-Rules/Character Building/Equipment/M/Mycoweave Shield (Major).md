@@ -9,7 +9,7 @@ license: OGL
 ---
 # Mycoweave Shield (Major)
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 40 gp; 

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Untamed Form
 * * *
-Your understanding of life expands, allowing you to mimic a wider range of creatures. Add the shapes in [[Spells/Insect Form|Insect Form]] to your [[Spells/Untamed Form|Untamed Form]] list. Whenever you use _untamed form_ to polymorph into the non-flying insect shapes listed in pest form, the duration is 24 hours instead of 10 minutes.
+Your understanding of life expands, allowing you to mimic a wider range of creatures. Add the shapes in [[Insect Form|Insect Form]] to your [[3-Rules/Character Building/Spells/U/Untamed Form|Untamed Form]] list. Whenever you use _untamed form_ to polymorph into the non-flying insect shapes listed in pest form, the duration is 24 hours instead of 10 minutes.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-When you transform, you can take on a bear's bulk and size. You can spend an additional action when using Ursine Avenger Form to gain the effects of a 1st-rank [[Spells/Enlarge|Enlarge]] spell, which lasts for the spell's normal duration or until you leave your Ursine Avenger Form, whichever comes first.
+When you transform, you can take on a bear's bulk and size. You can spend an additional action when using Ursine Avenger Form to gain the effects of a 1st-rank [[Enlarge|Enlarge]] spell, which lasts for the spell's normal duration or until you leave your Ursine Avenger Form, whichever comes first.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

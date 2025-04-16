@@ -12,7 +12,7 @@ license: ORC
 ---
 # Mantis Embrace
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 700 gp; 
@@ -29,7 +29,7 @@ These stylized red gloves are constructed from plates of leather that have been 
 
 * * *
 
-**Effect** You Strike the creature you are grappling with a melee weapon or unarmed attack. This Strike deals an additional 3d6 precision damage and gains the death trait. The body of a creature that is slain by Crushing Embrace is so gruesomely damaged that the creature's body cannot be affected by any effect that requires an intact body to function, such as the [[Spells/Talking Corpse|Talking Corpse]] spell.
+**Effect** You Strike the creature you are grappling with a melee weapon or unarmed attack. This Strike deals an additional 3d6 precision damage and gains the death trait. The body of a creature that is slain by Crushing Embrace is so gruesomely damaged that the creature's body cannot be affected by any effect that requires an intact body to function, such as the [[Talking Corpse|Talking Corpse]] spell.
 
 *Source: Pathfinder Adventure: Prey for Death*
 *ORC*

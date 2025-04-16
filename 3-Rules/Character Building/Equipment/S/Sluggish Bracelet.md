@@ -12,7 +12,7 @@ license: OGL
 ---
 # Sluggish Bracelet
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
 
 
 **Price** 58 gp; 

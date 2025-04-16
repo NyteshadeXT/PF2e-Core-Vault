@@ -14,7 +14,7 @@ license: OGL
 ---
 # Dread Helm
 ## Item 4
-### [[alchemical]][[3-Rules/Rule References/Aura]][[3-Rules/Rule References/Emotion]][[3-Rules/trait_reference/fear]][[3-Rules/Rule References/Mental]]
+### [[alchemical]][[3-Rules/Rule References/Aura]][[3-Rules/Rule References/Emotion]][[3-Rules/Trait Reference/F/fear]][[3-Rules/Rule References/Mental]]
 
 
 **Price** 100 gp; 

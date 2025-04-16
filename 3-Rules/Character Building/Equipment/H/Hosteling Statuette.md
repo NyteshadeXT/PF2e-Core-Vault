@@ -12,7 +12,7 @@ license: OGL
 ---
 # Hosteling Statuette
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[companion]][[invested]][[primal]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[companion]][[invested]][[primal]]
 
 
 **Price** 80 gp; 

@@ -24,49 +24,49 @@ Thresholds of Truth provides access to the [[PF2e Journals/Archetypes/Eldritch R
 
 Cantrips
 
-*   [[Spells/Void Warp|Void Warp]]
-*   [[Spells/Light|Light]]
-*   [[Spells/Daze|Daze]]
-*   [[Spells/Detect Magic|Detect Magic]]
-*   [[Spells/Electric Arc|Electric Arc]]
-*   [[Spells/Ghost Sound|Ghost Sound]]
-*   [[Spells/Telekinetic Hand|Telekinetic Hand]]
-*   [[Spells/Light|Light]]
-*   [[Spells/Prestidigitation|Prestidigitation]]
-*   [[Spells/Read Aura|Read Aura]]
-*   [[Spells/Shield|Shield]]
+*   [[Void Warp|Void Warp]]
+*   [[3-Rules/Character Building/Spells/L/Light|Light]]
+*   [[Daze|Daze]]
+*   [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]]
+*   [[Electric Arc|Electric Arc]]
+*   [[Ghost Sound|Ghost Sound]]
+*   [[Telekinetic Hand|Telekinetic Hand]]
+*   [[3-Rules/Character Building/Spells/L/Light|Light]]
+*   [[Prestidigitation|Prestidigitation]]
+*   [[Read Aura|Read Aura]]
+*   [[Shield|Shield]]
 
 1st Level
 
-*   [[Spells/Alarm|Alarm]]
-*   [[Spells/Charm|Charm]]
-*   [[Spells/Dizzying Colors|Dizzying Colors]]
-*   [[Spells/Mystic Armor|Mystic Armor]]
-*   [[Spells/Force Barrage|Force Barrage]]
-*   [[Spells/Sure Strike|Sure Strike]]
-*   [[Spells/Phantasmal Minion|Phantasmal Minion]]
+*   [[Alarm|Alarm]]
+*   [[Charm|Charm]]
+*   [[Dizzying Colors|Dizzying Colors]]
+*   [[Mystic Armor|Mystic Armor]]
+*   [[Force Barrage|Force Barrage]]
+*   [[Sure Strike|Sure Strike]]
+*   [[3-Rules/Character Building/Spells/P/Phantasmal Minion|Phantasmal Minion]]
 
 2nd Level
 
-*   [[Spells/Translate|Translate]]
-*   [[Spells/Dispel Magic|Dispel Magic]]
-*   [[Spells/False Vitality|False Vitality]]
-*   [[Spells/Revealing Light|Revealing Light]]
-*   [[Spells/Web|Web]]
+*   [[Translate|Translate]]
+*   [[Dispel Magic|Dispel Magic]]
+*   [[False Vitality|False Vitality]]
+*   [[Revealing Light|Revealing Light]]
+*   [[Web|Web]]
 
 3rd Level
 
-*   [[Spells/Haste|Haste]]
-*   [[Spells/Lightning Bolt|Lightning Bolt]]
-*   [[Spells/Locate|Locate]]
-*   [[Spells/Paralyze|Paralyze]]
-*   [[Spells/Slow|Slow]]
+*   [[Haste|Haste]]
+*   [[Lightning Bolt|Lightning Bolt]]
+*   [[Locate|Locate]]
+*   [[Paralyze|Paralyze]]
+*   [[Slow|Slow]]
 
 4th Level
 
-*   [[Spells/Clairvoyance|Clairvoyance]]
-*   [[Spells/Daydreamer's Curse|Daydreamer's Curse]]
-*   [[Spells/Containment|Containment]]
+*   [[Clairvoyance|Clairvoyance]]
+*   [[Daydreamer's Curse|Daydreamer's Curse]]
+*   [[Containment|Containment]]
 
 *Source: Pathfinder #164: Hands of the Devil*
 *OGL*

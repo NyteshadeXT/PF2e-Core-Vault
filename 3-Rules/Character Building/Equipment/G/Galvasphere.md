@@ -12,7 +12,7 @@ license: OGL
 ---
 # Galvasphere
 ## Item 4
-### [rare](rare "Rare Rarity Trait")[[consumable]][[gadget]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 20 gp; 

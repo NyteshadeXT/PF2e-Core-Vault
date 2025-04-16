@@ -16,7 +16,7 @@ license: OGL
 ---
 # Puff Dragon
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[mechanical]][[3-Rules/trait_reference/poison]][[snare]][[trap]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[clockwork]][[consumable]][[mechanical]][[3-Rules/Trait Reference/P/poison]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 120 gp; 

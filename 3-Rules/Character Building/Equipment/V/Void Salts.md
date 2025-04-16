@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-This sachet is filled with a fine powder that seethes with energy distilled directly from the Void. When used in casting a [[Spells/Grim Tendrils|Grim Tendrils]] spell, void salts allow you to split the area of the spell, creating any number of lines originating from you that total 30 feet in length. A creature that multiple lines pass through is only affected once.
+This sachet is filled with a fine powder that seethes with energy distilled directly from the Void. When used in casting a [[Grim Tendrils|Grim Tendrils]] spell, void salts allow you to split the area of the spell, creating any number of lines originating from you that total 30 feet in length. A creature that multiple lines pass through is only affected once.
 
 *Source: Pathfinder Wake the Dead #5*
 *OGL*

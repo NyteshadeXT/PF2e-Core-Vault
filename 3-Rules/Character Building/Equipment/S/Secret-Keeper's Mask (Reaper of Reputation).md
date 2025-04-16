@@ -11,7 +11,7 @@ license: OGL
 ---
 # Secret-Keeper's Mask (Reaper of Reputation)
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 60 gp; 

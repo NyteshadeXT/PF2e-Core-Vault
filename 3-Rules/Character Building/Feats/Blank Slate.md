@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** legendary in Deception
 * * *
-Your deceptions confound even the most powerful magic that could spy on you. Detection, revelation, and scrying effects pass right over you, your possessions, and your auras, detecting nothing unless the detecting effect has a counteract rank of 10 or higher. For example, [[Spells/Detect Magic|Detect Magic]] would still detect other magic in the area but not any magic on you, [[Spells/Truesight|Truesight]] wouldn't reveal you, [[Spells/Locate|Locate]] or [[Spells/Scrying|Scrying]] wouldn't find you, and so on.
+Your deceptions confound even the most powerful magic that could spy on you. Detection, revelation, and scrying effects pass right over you, your possessions, and your auras, detecting nothing unless the detecting effect has a counteract rank of 10 or higher. For example, [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]] would still detect other magic in the area but not any magic on you, [[Truesight|Truesight]] wouldn't reveal you, [[Locate|Locate]] or [[3-Rules/Character Building/Spells/S/Scrying|Scrying]] wouldn't find you, and so on.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -27,7 +27,7 @@ This sprig of berry-festooned holly and mistletoe doesn't wilt or rot. It can be
 
 **Frequency** once per 10 minutes
 
-**Effect** You squeeze juice from one of the berries and smear it onto a weapon made primarily of wood to cast [[Spells/Runic Weapon|Runic Weapon]] on it, or onto a creature to cast [[Spells/Runic Body|Runic Body]] on it.
+**Effect** You squeeze juice from one of the berries and smear it onto a weapon made primarily of wood to cast [[Runic Weapon|Runic Weapon]] on it, or onto a creature to cast [[Runic Body|Runic Body]] on it.
 
 * * *
 
@@ -35,7 +35,7 @@ This sprig of berry-festooned holly and mistletoe doesn't wilt or rot. It can be
 
 **Frequency** once per day
 
-**Effect** You touch the sprig, then a tree to cast [[Spells/One with Plants|One with Plants]] upon yourself, turning into a vine on the touched tree.
+**Effect** You touch the sprig, then a tree to cast [[One with Plants|One with Plants]] upon yourself, turning into a vine on the touched tree.
 
 *Source: Pathfinder GM Core*
 *ORC*

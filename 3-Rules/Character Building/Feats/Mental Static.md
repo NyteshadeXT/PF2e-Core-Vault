@@ -14,7 +14,7 @@ license: OGL
 ---
 # Mental Static `pf2:r`
 ## Feat 8
-### [[3-Rules/trait_reference/mental]][[nonlethal]][[occult]][[psychic]]
+### [[3-Rules/trait_reference/M/mental]][[nonlethal]][[occult]][[psychic]]
 
 **Category** class; 
 

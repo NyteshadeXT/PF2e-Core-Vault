@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bloodbane
 ## Item 8
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/dwarf]][[magical|Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[dwarf]][[magical|Magical]]
 
 
 **Price** 475 gp; 

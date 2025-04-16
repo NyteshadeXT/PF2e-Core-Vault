@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Spiritual Warfare (6th-Rank Spell)
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/force]][[magical]][[wand]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/F/force]][[magical]][[wand]]
 
 
 **Price** 6500 gp; 
@@ -29,7 +29,7 @@ This wand juts from an ornate hilt like a short, wooden dagger blade.
 
 * * *
 
-**Effect** You cast [[Spells/Spiritual Weapon|Spiritual Weapon]] at 6th-rank. When you critically hit, you apply the weapon's critical specialization effect. In addition, you can etch one of the following property runes onto the wand: _corrosive_, _flaming_, _frost_, _shock_, _thundering_, or their respective greater versions. The _spiritual weapon's_ Strikes gain the effects of this rune.
+**Effect** You cast [[Spiritual Weapon|Spiritual Weapon]] at 6th-rank. When you critically hit, you apply the weapon's critical specialization effect. In addition, you can etch one of the following property runes onto the wand: _corrosive_, _flaming_, _frost_, _shock_, _thundering_, or their respective greater versions. The _spiritual weapon's_ Strikes gain the effects of this rune.
 
 * * *
 

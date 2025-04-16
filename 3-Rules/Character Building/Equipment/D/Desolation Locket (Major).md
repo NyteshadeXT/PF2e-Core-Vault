@@ -31,7 +31,7 @@ The surface of this golden, heart-shaped locket is nearly worn through with crac
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Haunting Hymn|Haunting Hymn]].
+**Effect** You cast [[Haunting Hymn|Haunting Hymn]].
 
 * * *
 
@@ -39,7 +39,7 @@ The surface of this golden, heart-shaped locket is nearly worn through with crac
 
 **Frequency** once per day
 
-**Effect** You cast 7th-rank [[Spells/Wave of Despair|Wave of Despair]].
+**Effect** You cast 7th-rank [[Wave of Despair|Wave of Despair]].
 
 * * *
 
@@ -47,7 +47,7 @@ The surface of this golden, heart-shaped locket is nearly worn through with crac
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Canticle of Everlasting Grief|Canticle of Everlasting Grief]].
+**Effect** You cast [[Canticle of Everlasting Grief|Canticle of Everlasting Grief]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

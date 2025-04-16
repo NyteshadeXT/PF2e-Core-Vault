@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-A shimmering liquid, _nectar of purification_ is often stored in bottles similar to those used for vinegar. This oil casts a 1st-rank [[Spells/Cleanse Cuisine|Cleanse Cuisine]] spell over any food or drink onto which it's poured. The nectar evaporates as it takes effect, leaving the taste and texture of the food or drink unaltered.
+A shimmering liquid, _nectar of purification_ is often stored in bottles similar to those used for vinegar. This oil casts a 1st-rank [[Cleanse Cuisine|Cleanse Cuisine]] spell over any food or drink onto which it's poured. The nectar evaporates as it takes effect, leaving the taste and texture of the food or drink unaltered.
 
 *Source: Pathfinder GM Core*
 *ORC*

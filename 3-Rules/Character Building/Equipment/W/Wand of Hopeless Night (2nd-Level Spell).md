@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Hopeless Night (2nd-Level Spell)
 ## Item 6
-### [[3-Rules/Character Building/Spells/Darkness]][[magical]][[wand]]
+### [[3-Rules/Character Building/Spells/D/Darkness]][[magical]][[wand]]
 
 
 **Price** 250 gp; 
@@ -27,7 +27,7 @@ This wand is a length of wrought black iron.
 
 * * *
 
-**Effect** You cast [[Spells/Darkness|Darkness]] at 2nd rank. Each creature that ends its turn within the spell's area must succeed at a DC 20 Will check save or become frightened 1 ([[Conditions/Frightened 1|Frightened 2]] on a critical failure).
+**Effect** You cast [[3-Rules/Character Building/Spells/D/Darkness|Darkness]] at 2nd rank. Each creature that ends its turn within the spell's area must succeed at a DC 20 Will check save or become frightened 1 ([[Conditions/Frightened 1|Frightened 2]] on a critical failure).
 
 **Craft Requirements** Supply a casting of darkness at 2nd-rank.
 

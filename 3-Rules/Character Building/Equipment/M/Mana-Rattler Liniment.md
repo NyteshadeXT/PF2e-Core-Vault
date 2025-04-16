@@ -14,7 +14,7 @@ license: OGL
 ---
 # Mana-Rattler Liniment
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]][[morph]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]][[morph]]
 
 **Category** elixir; 
 **Price** 110 gp; 

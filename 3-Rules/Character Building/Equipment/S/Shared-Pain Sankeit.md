@@ -14,7 +14,7 @@ license: OGL
 ---
 # Shared-Pain Sankeit
 ## Item 14
-### [rare](rare "Rare Rarity Trait")[[cursed]][[invested]][[laminar]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[cursed]][[invested]][[laminar]][[magical]]
 
 **Category** light; **Group** wood
 **Price** 5 gp; 

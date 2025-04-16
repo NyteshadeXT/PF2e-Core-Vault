@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ghost Wrangler `pf2:1`
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[barbarian]][[divine]][[rage]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[barbarian]][[divine]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

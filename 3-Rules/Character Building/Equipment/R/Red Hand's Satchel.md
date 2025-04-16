@@ -15,7 +15,7 @@ license: ORC
 ---
 # Red Hand's Satchel
 ## Item 21
-### [unique](unique "Unique Rarity Trait")[[artifact]][[divine]][[extradimensional]][[invested]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[divine]][[extradimensional]][[invested]][[magical]]
 
 
 **Price** 0 gp; 

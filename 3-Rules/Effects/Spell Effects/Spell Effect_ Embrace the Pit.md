@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Embrace the Pit|Embrace the Pit]]
+Granted by [[Embrace the Pit|Embrace the Pit]]
 
 You gain resistance to fire, poison and physical damage (except silver).
 

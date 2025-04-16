@@ -11,7 +11,7 @@ license: OGL
 ---
 # Miogimo's Mask
 ## Item 16
-### [unique](unique "Unique Rarity Trait")[[invested]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 9500 gp; 
@@ -38,7 +38,7 @@ It has two forms. In its first form, the mask depicts a silvery and angelic face
 
 * * *
 
-**Effect** You cast [[Spells/Crisis of Faith|Crisis of Faith]] (DC 34 Will check), targeting up to four creatures within 30 feet. If the mask is in its angelic form, you can target only evil and neutral creatures. If the mask is in its demonic form, you can target only good and neutral creatures.
+**Effect** You cast [[Crisis of Faith|Crisis of Faith]] (DC 34 Will check), targeting up to four creatures within 30 feet. If the mask is in its angelic form, you can target only evil and neutral creatures. If the mask is in its demonic form, you can target only good and neutral creatures.
 
 * * *
 
@@ -48,7 +48,7 @@ It has two forms. In its first form, the mask depicts a silvery and angelic face
 
 * * *
 
-**Effect** You cast [[Spells/Talking Corpse|Talking Corpse]] on the soul fragment, except you communicate telepathically and don't require the fragment's body to speak.
+**Effect** You cast [[Talking Corpse|Talking Corpse]] on the soul fragment, except you communicate telepathically and don't require the fragment's body to speak.
 
 *Source: Pathfinder #161: Belly of the Black Whale*
 *OGL*

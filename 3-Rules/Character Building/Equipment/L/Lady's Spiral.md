@@ -17,7 +17,7 @@ license: OGL
 ---
 # Lady's Spiral
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[finesse]][[magical]][[nonlethal]][[reach]][[trip]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/D/disarm]][[finesse]][[magical]][[nonlethal]][[reach]][[3-Rules/Trait Reference/T/trip]]
 
 |  |  |
 | -- | -- |

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Horn of the Sun Aurochs
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 
 **Price** 3000 gp; 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Hodag Leather
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 **Category** light; **Group** leather
 **Price** 350 gp; 

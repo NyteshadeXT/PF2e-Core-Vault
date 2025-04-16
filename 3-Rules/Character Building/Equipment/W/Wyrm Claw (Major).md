@@ -31,7 +31,7 @@ The tip of a metallic dragon's claw is set into a band of silver. When you summo
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Gouging Claw|Gouging Claw]].
+**Effect** You cast [[Gouging Claw|Gouging Claw]].
 
 * * *
 
@@ -39,7 +39,7 @@ The tip of a metallic dragon's claw is set into a band of silver. When you summo
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Summon Draconic Legion|Summon Draconic Legion]].
+**Effect** You cast [[Summon Draconic Legion|Summon Draconic Legion]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

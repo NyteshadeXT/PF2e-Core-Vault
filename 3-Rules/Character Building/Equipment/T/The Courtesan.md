@@ -35,7 +35,7 @@ The Courtesan represents political intrigue and social niceties. As long as The 
 
 * * *
 
-**Effect** You pass the card over your face and become exactly who you need to be; you cast [[Spells/Illusory Disguise|Illusory Disguise]]. The rank of the spell is one-half your level, rounded down (minimum 6th level). You can change your appearance again at any time during the duration by using a three-action activity, which has the concentrate trait. While under these effects, your Deception checks to Impersonate are one degree of success greater when you use them against a creature that is a lower level than yourself.
+**Effect** You pass the card over your face and become exactly who you need to be; you cast [[Illusory Disguise|Illusory Disguise]]. The rank of the spell is one-half your level, rounded down (minimum 6th level). You can change your appearance again at any time during the duration by using a three-action activity, which has the concentrate trait. While under these effects, your Deception checks to Impersonate are one degree of success greater when you use them against a creature that is a lower level than yourself.
 
 *Source: Pathfinder #192: Worst of All Possible Worlds*
 *OGL*

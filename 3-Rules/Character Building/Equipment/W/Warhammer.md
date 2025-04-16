@@ -13,7 +13,7 @@ license: ORC
 ---
 # Warhammer
 ## Item 0
-### [[shove]]
+### [[3-Rules/trait_reference/S/shove]]
 
 |  |  |
 | -- | -- |

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Phoenix Fulu Holder
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 
 **Price** 2000 gp; 

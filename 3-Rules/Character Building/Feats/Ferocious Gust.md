@@ -14,7 +14,7 @@ license: OGL
 ---
 # Ferocious Gust `pf2:2`
 ## Feat 9
-### [[3-Rules/trait_reference/air]][[concentrate]][[manipulate]][[strix]]
+### [[3-Rules/trait_reference/A/air]][[concentrate]][[manipulate]][[strix]]
 
 **Category** ancestry; 
 
@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-With heavy wing beats, you whip up a furious gust and direct it at your opponents. This air blast has the effects of [[Spells/Gust of Wind|Gust of Wind]] with a fortitude DC equal to your class DC or spell DC, whichever is higher.
+With heavy wing beats, you whip up a furious gust and direct it at your opponents. This air blast has the effects of [[Gust of Wind|Gust of Wind]] with a fortitude DC equal to your class DC or spell DC, whichever is higher.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** cultivation order
 * * *
-You cultivate plants to entrap your foes. You gain the [[Spells/Hedge Prison|Hedge Prison]] order spell.
+You cultivate plants to entrap your foes. You gain the [[3-Rules/Character Building/Spells/H/Hedge Prison|Hedge Prison]] order spell.
 
 *Source: Pathfinder #202: Severed at the Root*
 *ORC*

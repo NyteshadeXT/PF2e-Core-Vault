@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Filled with rancor and hate, you rend the minds of those who displease you. You can cast [[Spells/Warp Mind|Warp Mind]] once per day as an occult innate spell.
+Filled with rancor and hate, you rend the minds of those who displease you. You can cast [[Warp Mind|Warp Mind]] once per day as an occult innate spell.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Harmona Gun
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[kickback]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[kickback]]
 
 |  |  |
 | -- | -- |

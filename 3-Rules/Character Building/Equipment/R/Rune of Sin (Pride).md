@@ -13,7 +13,7 @@ license: OGL
 ---
 # Rune of Sin (Pride)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[arcane]][[illusion]][[invested]][[tattoo]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[arcane]][[illusion]][[invested]][[tattoo]]
 
 
 **Price** 1700 gp; 

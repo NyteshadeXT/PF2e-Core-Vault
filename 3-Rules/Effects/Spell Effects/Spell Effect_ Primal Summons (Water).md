@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Primal Summons|Primal Summons]] when you select water.
+Granted by [[3-Rules/Character Building/Spells/P/Primal Summons|Primal Summons]] when you select water.
 
 The creature gains a swim Speed of 60 feet.
 

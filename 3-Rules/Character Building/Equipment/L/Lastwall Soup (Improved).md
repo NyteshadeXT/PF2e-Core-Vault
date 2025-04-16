@@ -13,7 +13,7 @@ license: OGL
 ---
 # Lastwall Soup (Improved)
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[elixir]]
 
 **Category** elixir; 
 **Price** 160 gp; 

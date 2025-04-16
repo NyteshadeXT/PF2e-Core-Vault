@@ -13,7 +13,7 @@ license: OGL
 ---
 # Blisterwort
 ## Item 11
-### [[consumable]][[injury]][[3-Rules/trait_reference/poison|Poison]]
+### [[consumable]][[injury]][[3-Rules/Trait Reference/P/poison|Poison]]
 
 **Category** poison; 
 **Price** 280 gp; 

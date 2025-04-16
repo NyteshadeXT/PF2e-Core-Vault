@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Runic Weapon|Runic Weapon]]
+Granted by [[Runic Weapon|Runic Weapon]]
 
 The target becomes a _+1 striking weapon_, gaining a +1 item bonus to attack rolls and increasing the number of weapon damage dice to two.
 

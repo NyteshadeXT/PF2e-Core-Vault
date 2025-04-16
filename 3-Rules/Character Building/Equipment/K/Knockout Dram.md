@@ -14,7 +14,7 @@ license: OGL
 ---
 # Knockout Dram
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[3-Rules/trait_reference/poison]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 70 gp; 

@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Requirements** You're under the effects of [[Spells/Untamed Form|Untamed Form]]
+**Requirements** You're under the effects of [[3-Rules/Character Building/Spells/U/Untamed Form|Untamed Form]]
 
 * * *
 

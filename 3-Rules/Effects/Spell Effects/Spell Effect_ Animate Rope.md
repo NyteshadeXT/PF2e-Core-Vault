@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Animate Rope|Animate Rope]]
+Granted by [[Animate Rope|Animate Rope]]
 
 If you succeed, the target takes a -10-foot circumstance penalty to its Speed (-20-foot on a critical success). This ends if the target Escapes against your spell DC or breaks the Rope.
 

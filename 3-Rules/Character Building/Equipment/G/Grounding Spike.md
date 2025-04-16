@@ -17,7 +17,7 @@ license: OGL
 ---
 # Grounding Spike
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[backswing]][[finesse]][[magical]][[reach]][[sweep]][[versatile-b]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[backswing]][[finesse]][[magical]][[reach]][[sweep]][[versatile-b]]
 
 |  |  |
 | -- | -- |

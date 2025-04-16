@@ -27,7 +27,7 @@ This symbol shows your dedication to the magic practiced by some rangers. Most r
 
 * * *
 
-**Effect** You gain 1 Focus Point, which you can use only to cast a ranger warden spell. When you use this Focus Point, the warden's signet also casts a 4th-rank [[Spells/Oaken Resilience|Oaken Resilience]]spell on you. If not used by the end of your turn, this Focus Point is lost.
+**Effect** You gain 1 Focus Point, which you can use only to cast a ranger warden spell. When you use this Focus Point, the warden's signet also casts a 4th-rank [[Oaken Resilience|Oaken Resilience]]spell on you. If not used by the end of your turn, this Focus Point is lost.
 
 * * *
 

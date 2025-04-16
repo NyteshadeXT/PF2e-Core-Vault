@@ -11,7 +11,7 @@ license: OGL
 ---
 # Instant Fortress
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[structure]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]][[structure]]
 
 
 **Price** 9300 gp; 

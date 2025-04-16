@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Shackleborn
 * * *
-You know there's so much more to sensation than whips and chains—but whips and chains also have their place. You can cast [[Spells/Telekinetic Maneuver|Telekinetic Maneuver]] and [[Spells/Web|Web]] once per day each as 2nd-rank divine innate spells; in both cases, the spells manifest shadowy chains rather than their usual visual signifiers.
+You know there's so much more to sensation than whips and chains—but whips and chains also have their place. You can cast [[Telekinetic Maneuver|Telekinetic Maneuver]] and [[Web|Web]] once per day each as 2nd-rank divine innate spells; in both cases, the spells manifest shadowy chains rather than their usual visual signifiers.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

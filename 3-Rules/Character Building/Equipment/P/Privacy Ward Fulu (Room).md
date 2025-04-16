@@ -14,7 +14,7 @@ license: OGL
 ---
 # Privacy Ward Fulu (Room)
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[consumable]][[fulu]][[magical]][[talisman]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[fulu]][[magical]][[talisman]]
 
 **Category** fulu; 
 **Price** 25 gp; 

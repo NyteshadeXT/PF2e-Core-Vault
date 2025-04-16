@@ -15,7 +15,7 @@ license: OGL
 ---
 # Spirit Snare
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[consumable]][[3-Rules/trait_reference/electricity]][[mechanical]][[snare]][[trap]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[3-Rules/trait_reference/E/electricity]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 90 gp; 

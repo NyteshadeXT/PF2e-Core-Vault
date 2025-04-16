@@ -16,7 +16,7 @@ license: ORC
 ---
 # Gnome Hooked Hammer
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[gnome]][[trip]][[two-hand-d10]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[gnome]][[3-Rules/Trait Reference/T/trip]][[two-hand-d10]][[versatile-p]]
 
 |  |  |
 | -- | -- |

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ring of Spell Turning
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 67000 gp; 
@@ -26,7 +26,7 @@ This golden ring has three diamonds set into its face.
 
 * * *
 
-**Effect** The ring replicates the effects of an 8th-rank [[Spells/Spell Turning|Spell Turning]] with a counteract modifier of 1d20+35, possibly causing the triggering spell to reflect back on its caster.
+**Effect** The ring replicates the effects of an 8th-rank [[Spell Turning|Spell Turning]] with a counteract modifier of 1d20+35, possibly causing the triggering spell to reflect back on its caster.
 
 The ring can reflect no more than 9 total ranks of spells per day. If you activate the ring to reflect a spell that would exceed this limit, the attempt fails, but the attempted usage of the ring does not count toward the daily limit.
 

@@ -17,7 +17,7 @@ license: OGL
 ---
 # Torag's Silver Anvil
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[backswing]][[disarm]][[divine]][[magical]][[reach]][[trip]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[backswing]][[3-Rules/trait_reference/D/disarm]][[divine]][[magical]][[reach]][[3-Rules/trait_reference/T/trip]]
 
 |  |  |
 | -- | -- |

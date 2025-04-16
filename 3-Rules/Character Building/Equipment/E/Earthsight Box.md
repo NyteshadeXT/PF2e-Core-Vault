@@ -12,7 +12,7 @@ license: ORC
 ---
 # Earthsight Box
 ## Item 9
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/trait_reference/scrying]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical|Magical]][[3-Rules/Trait Reference/S/scrying]]
 
 
 **Price** 575 gp; 

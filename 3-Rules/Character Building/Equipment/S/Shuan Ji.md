@@ -16,7 +16,7 @@ license: ORC
 ---
 # Shuan Ji
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[backswing]][[forceful]][[reach]][[versatile-p]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[backswing]][[forceful]][[reach]][[versatile-p]]
 
 |  |  |
 | -- | -- |

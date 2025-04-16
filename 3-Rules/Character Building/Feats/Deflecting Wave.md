@@ -15,7 +15,7 @@ license: OGL
 ---
 # Deflecting Wave `pf2:r`
 ## Feat 1
-### [[impulse]][[kineticist]][[primal]][[3-Rules/trait_reference/water]]
+### [[impulse]][[kineticist]][[primal]][[3-Rules/trait_reference/W/water]]
 
 **Category** class; 
 

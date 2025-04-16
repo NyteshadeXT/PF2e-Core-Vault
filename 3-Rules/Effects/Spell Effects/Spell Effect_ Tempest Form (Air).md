@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Tempest Form|Tempest Form]]
+Granted by [[Tempest Form|Tempest Form]]
 
 Your body becomes fluid to better suit your surroundings.
 
@@ -27,7 +27,7 @@ You become amorphous, as does your armor. You lose any item bonus to AC and use 
 **Air**
 
 *   You gain a Fly Speed of 20 feet and become [[Conditions/Invisible|Invisible]] while you are in the air.
-*   You can create the effects of a [[Spells/Gust of Wind|Gust of Wind]] from your space as a 2-action activity, which has the manipulate trait.
+*   You can create the effects of a [[Gust of Wind|Gust of Wind]] from your space as a 2-action activity, which has the manipulate trait.
 
 * * *
 

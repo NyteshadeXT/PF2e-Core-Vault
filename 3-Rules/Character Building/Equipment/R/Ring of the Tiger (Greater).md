@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ring of the Tiger (Greater)
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[primal]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]][[primal]]
 
 
 **Price** 1000 gp; 

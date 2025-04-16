@@ -18,7 +18,7 @@ license: OGL
 ---
 # Skysunder
 ## Item 4
-### [unique](unique "Unique Rarity Trait")[[agile]][[dwarf]][[3-Rules/trait_reference/electricity]][[magical]][[parry]][[relic]][[versatile-b]]
+### [unique](unique.md "Unique Rarity Trait")[[agile]][[dwarf]][[3-Rules/Trait Reference/E/electricity]][[magical]][[parry]][[relic]][[versatile-b]]
 
 |  |  |
 | -- | -- |

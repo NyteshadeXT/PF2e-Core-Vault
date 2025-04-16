@@ -15,7 +15,7 @@ license: ORC
 ---
 # Searing Blade
 ## Item 13
-### [[3-Rules/trait_reference/fire]][[magical]][[versatile-p]]
+### [[3-Rules/Trait Reference/F/fire]][[magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -32,7 +32,7 @@ This _+2 greater striking [[Flaming|Flaming]] longsword_ has an ornate brass hil
 
 * * *
 
-**Effect** You cast the [[Spells/Ignition|Ignition]] cantrip from the sword as a 7th-rank arcane spell, using your melee attack modifier with _searing blade_ as your spell attack modifier.
+**Effect** You cast the [[Ignition|Ignition]] cantrip from the sword as a 7th-rank arcane spell, using your melee attack modifier with _searing blade_ as your spell attack modifier.
 
 *Source: Pathfinder GM Core*
 *ORC*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Metalmist Sphere (Greater)
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]]
 
 **Category** other; 
 **Price** 500 gp; 

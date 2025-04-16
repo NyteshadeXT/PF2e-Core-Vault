@@ -14,7 +14,7 @@ license: ORC
 ---
 # Halfling Sling Staff
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[halfling]][[propulsive]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[halfling]][[propulsive]]
 
 |  |  |
 | -- | -- |

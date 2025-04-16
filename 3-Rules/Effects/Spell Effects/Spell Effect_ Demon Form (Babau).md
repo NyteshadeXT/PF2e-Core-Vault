@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Demon Form|Demon Form]]
+Granted by [[Demon Form|Demon Form]]
 
 You corrupt yourself with the sin of the Abyss, transforming into a Medium demon battle form. When you cast this spell, choose babau, hezrou, nabasu, or vrock. If you choose hezrou, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form, you gain the demon and fiend traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
 

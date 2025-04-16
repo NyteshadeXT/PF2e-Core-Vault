@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-After you drink this bitter draft, your skin thickens like bark. You gain the effects of a 2nd-rank [[Spells/Oaken Resilience|Oaken Resilience]] for 10 minutes.
+After you drink this bitter draft, your skin thickens like bark. You gain the effects of a 2nd-rank [[Oaken Resilience|Oaken Resilience]] for 10 minutes.
 
 *Source: Pathfinder GM Core*
 *ORC*

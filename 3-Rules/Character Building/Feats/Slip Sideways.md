@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Grimspawn, Pitborn, or Hellspawn, or another lineage feat associated with fiends or the Maelstrom
 * * *
-Like many fiends, you have the supernatural ability to teleport yourself to safety. Once per day, you can cast [[Spells/Translocate|Translocate]] as a 5th-rank divine innate spell.
+Like many fiends, you have the supernatural ability to teleport yourself to safety. Once per day, you can cast [[Translocate|Translocate]] as a 5th-rank divine innate spell.
 
 *Source: Pathfinder Player Core*
 *ORC*

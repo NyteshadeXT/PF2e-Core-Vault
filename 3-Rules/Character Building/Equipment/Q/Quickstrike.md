@@ -11,7 +11,7 @@ license: ORC
 ---
 # Quickstrike
 ## Item 16
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[magical]]
 
 
 **Price** 10000 gp; 

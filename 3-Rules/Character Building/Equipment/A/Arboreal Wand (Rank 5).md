@@ -15,7 +15,7 @@ license: ORC
 ---
 # Arboreal Wand (Rank 5)
 ## Item 15
-### [rare](rare.md "Rare Rarity Trait")[[healing]][[magical|Magical]][[vitality]][[3-Rules/trait_reference/wand]]
+### [rare](rare.md "Rare Rarity Trait")[[healing]][[magical|Magical]][[vitality]][[wand]]
 
 **Category** wand; 
 **Price** 6500 gp; 
@@ -30,7 +30,7 @@ This gnarled wand is made from the branch of an arboreal.
 
 * * *
 
-**Effect** You cast [[Spells/Heal|Heal]] at the indicated rank. After you cast the spell, the raw primal energy stored within the arboreal from which the wand was made washes over one target you choose and tries to purify its essence. The wand attempts to counteract the lowest level affliction affecting your target. It uses your casting modifier and a counteract rank of half the wand's item level rounded up.
+**Effect** You cast [[Heal|Heal]] at the indicated rank. After you cast the spell, the raw primal energy stored within the arboreal from which the wand was made washes over one target you choose and tries to purify its essence. The wand attempts to counteract the lowest level affliction affecting your target. It uses your casting modifier and a counteract rank of half the wand's item level rounded up.
 
 * * *
 

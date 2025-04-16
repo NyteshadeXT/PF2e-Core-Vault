@@ -12,7 +12,7 @@ license: OGL
 ---
 # Herd Mask
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[teleportation]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]][[teleportation]]
 
 
 **Price** 210 gp; 
@@ -33,7 +33,7 @@ All _herd masks_ are linked to at least one other herd mask and are usually sold
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Translocate|Translocate]]. You can link a _herd mask_ you create to another _herd mask_ in your possession when you finish crafting it, which causes it to be linked to the chosen mask as well as all other _herd masks_ that are also linked to the chosen mask.
+**Craft Requirements** Supply a casting of [[Translocate|Translocate]]. You can link a _herd mask_ you create to another _herd mask_ in your possession when you finish crafting it, which causes it to be linked to the chosen mask as well as all other _herd masks_ that are also linked to the chosen mask.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

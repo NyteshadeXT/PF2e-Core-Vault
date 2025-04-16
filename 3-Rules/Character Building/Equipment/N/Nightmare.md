@@ -10,7 +10,7 @@ license: OGL
 ---
 # Nightmare
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[magical]]
 
 
 **Price** 250 gp; 
@@ -25,7 +25,7 @@ A _nightmare_ rune creates minor phantasmal alterations to a weapon's appearance
 
 * * *
 
-**Effect** The _nightmare weapon_ casts [[Spells/Nightmare|Nightmare]] to your specifications.
+**Effect** The _nightmare weapon_ casts [[3-Rules/Character Building/Spells/N/Nightmare|Nightmare]] to your specifications.
 
 *Source: Pathfinder #200: Seven Dooms for Sandpoint*
 *OGL*

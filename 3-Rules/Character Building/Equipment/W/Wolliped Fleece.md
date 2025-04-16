@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-A small bundle of _wolliped fleece_ contains the memory of winter snows. Adding this catalyst to a casting of [[Spells/Chilling Spray|Chilling Spray]] coats all squares within the area of effect with a thin layer of ice. These squares become difficult terrain until the beginning of your next turn.
+A small bundle of _wolliped fleece_ contains the memory of winter snows. Adding this catalyst to a casting of [[Chilling Spray|Chilling Spray]] coats all squares within the area of effect with a thin layer of ice. These squares become difficult terrain until the beginning of your next turn.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

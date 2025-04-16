@@ -12,7 +12,7 @@ license: OGL
 ---
 # Curse Maelstrom Dedication
 ## Feat 2
-### [rare](rare "Rare Rarity Trait")[[archetype]][[dedication]]
+### [rare](rare.md "Rare Rarity Trait")[[archetype]][[dedication]]
 
 **Category** class; 
 

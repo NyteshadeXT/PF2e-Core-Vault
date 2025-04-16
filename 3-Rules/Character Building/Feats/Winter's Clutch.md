@@ -16,7 +16,7 @@ license: OGL
 ---
 # Winter's Clutch `pf2:2`
 ## Feat 1
-### [[3-Rules/trait_reference/cold]][[impulse]][[kineticist]][[primal]][[3-Rules/trait_reference/water]]
+### [[3-Rules/trait_reference/C/cold]][[impulse]][[kineticist]][[primal]][[3-Rules/trait_reference/W/water]]
 
 **Category** class; 
 

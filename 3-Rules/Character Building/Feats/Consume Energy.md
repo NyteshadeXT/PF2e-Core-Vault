@@ -12,7 +12,7 @@ license: OGL
 ---
 # Consume Energy `pf2:r`
 ## Feat 2
-### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[deviant]][[magical]]
 
 **Category** class; 
 

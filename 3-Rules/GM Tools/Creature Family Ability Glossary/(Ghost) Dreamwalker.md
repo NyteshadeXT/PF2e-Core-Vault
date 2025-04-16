@@ -13,14 +13,14 @@ license: OGL
 ---
 # (Ghost) Dreamwalker
 
-### [[divine]][[illusion]][[3-Rules/trait_reference/mental]]
+### [[divine]][[illusion]][[3-Rules/trait_reference/M/mental]]
 
 **Category** interaction; 
 
 
 
 
-Anyone who meets the ghost or visits its bound site can become subject to this effect. The first time the subject sleeps after their ghostly encounter, they're targeted by a [[Spells/Nightmare|Nightmare]] spell, with the nightmares being somehow related to the ghost.
+Anyone who meets the ghost or visits its bound site can become subject to this effect. The first time the subject sleeps after their ghostly encounter, they're targeted by a [[3-Rules/Character Building/Spells/N/Nightmare|Nightmare]] spell, with the nightmares being somehow related to the ghost.
 
 Most often this means that the subject relives the ghost's last moments alive, but there are other possibilities. If the ghost wishes, it can manipulate the dreams to send messages or even hold entire conversations with dreamers.
 

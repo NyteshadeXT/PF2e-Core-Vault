@@ -34,12 +34,12 @@ This staff resembles a blackened and burned length of ashen wood. You can Intera
 
 * * *
 
-*   **Cantrip** [[Spells/Ignition|Ignition]]
-*   **1st** [[Spells/Breathe Fire|Breathe Fire]]
-*   **2nd** [[Spells/Breathe Fire|Breathe Fire]], [[Spells/Floating Flame|Floating Flame]]
-*   **3rd** [[Spells/Floating Flame|Floating Flame]], [[Spells/Fireball|Fireball]]
-*   **4th** [[Spells/Fire Shield|Fire Shield]], [[Spells/Fireball|Fireball]] [[Spells/Wall of Fire|Wall of Fire]]
-*   **5th** [[Spells/Fireball|Fireball]] [[Spells/Wall of Fire|Wall of Fire]]
+*   **Cantrip** [[Ignition|Ignition]]
+*   **1st** [[Breathe Fire|Breathe Fire]]
+*   **2nd** [[Breathe Fire|Breathe Fire]], [[Floating Flame|Floating Flame]]
+*   **3rd** [[Floating Flame|Floating Flame]], [[Fireball|Fireball]]
+*   **4th** [[Fire Shield|Fire Shield]], [[Fireball|Fireball]] [[Wall of Fire|Wall of Fire]]
+*   **5th** [[Fireball|Fireball]] [[Wall of Fire|Wall of Fire]]
 
 * * *
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Keen Smell|Keen Smell]]
+Granted by [[Keen Smell|Keen Smell]]
 
 For the spell's duration, you gain scent as an imprecise sense.
 

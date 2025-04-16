@@ -13,7 +13,7 @@ license: OGL
 ---
 # Gossamer Sash
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[consumable]][[illusion]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[illusion]][[magical]]
 
 **Category** other; 
 **Price** 250 gp; 

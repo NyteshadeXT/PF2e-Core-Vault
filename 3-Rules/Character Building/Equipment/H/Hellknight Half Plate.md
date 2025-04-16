@@ -10,7 +10,7 @@ license: OGL
 ---
 # Hellknight Half Plate
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 **Category** heavy; **Group** plate
 **Price** 20 gp; 

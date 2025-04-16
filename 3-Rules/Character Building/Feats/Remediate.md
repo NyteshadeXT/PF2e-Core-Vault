@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-If your next action is to use your divine font to cast a 3-action [[Spells/Heal|Heal]] or [[Spells/Harm|Harm]] spell, you can harness the residual energy to counterbalance opposing forces. In addition to its normal effects, you use your _heal_ or _harm_ spell to attempt to counteract one divine effect in the spell's area.
+If your next action is to use your divine font to cast a 3-action [[Heal|Heal]] or [[Harm|Harm]] spell, you can harness the residual energy to counterbalance opposing forces. In addition to its normal effects, you use your _heal_ or _harm_ spell to attempt to counteract one divine effect in the spell's area.
 
 *Source: Pathfinder Player Core*
 *ORC*

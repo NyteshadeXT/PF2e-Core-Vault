@@ -12,7 +12,7 @@ license: OGL
 ---
 # Starshot Arrow (Greater)
 ## Item 14
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[magical]]
 
 **Category** ammo; 
 **Price** 800 gp; 

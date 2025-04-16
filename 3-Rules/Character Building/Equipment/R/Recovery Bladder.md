@@ -11,7 +11,7 @@ license: OGL
 ---
 # Recovery Bladder
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[consumable]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]]
 
 **Category** other; 
 **Price** 10 gp; 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Golden Branding Iron
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 25 gp; 

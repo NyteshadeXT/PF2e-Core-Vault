@@ -14,7 +14,7 @@ license: ORC
 ---
 # Unleash the Blight `pf2:2`
 ## Feat 10
-### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]][[void]]
+### [rare](rare.md "Rare Rarity Trait")[[deviant]][[magical]][[void]]
 
 **Category** class; 
 

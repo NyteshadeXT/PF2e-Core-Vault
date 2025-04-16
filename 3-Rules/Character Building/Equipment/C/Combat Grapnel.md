@@ -15,7 +15,7 @@ license: OGL
 ---
 # Combat Grapnel
 ## Item 1
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Finesse]][[3-Rules/trait_reference/grapple]][[tethered]][[thrown-20]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Finesse]][[3-Rules/Trait Reference/G/grapple]][[tethered]][[thrown-20]]
 
 |  |  |
 | -- | -- |

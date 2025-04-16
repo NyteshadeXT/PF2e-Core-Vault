@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Plumekith
 * * *
-You are descended from the wondrous garudas, and their keen senses manifest in your magical prowess. You can cast [[Spells/Blur|Blur]] and [[Spells/See the Unseen|See the Unseen]] each once per day as 2nd-rank divine innate spells.
+You are descended from the wondrous garudas, and their keen senses manifest in your magical prowess. You can cast [[Blur|Blur]] and [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]] each once per day as 2nd-rank divine innate spells.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

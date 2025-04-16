@@ -12,7 +12,7 @@ license: OGL
 ---
 # Flurry of Blows `pf2:1`
 
-### [[flourish]][[3-Rules/trait_reference/monk]]
+### [[flourish]][[monk]]
 
 **Category** offensive; 
 

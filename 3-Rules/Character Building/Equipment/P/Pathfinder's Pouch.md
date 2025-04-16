@@ -12,14 +12,14 @@ license: OGL
 ---
 # Pathfinder's Pouch
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[extradimensional]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[extradimensional]][[invested]][[magical]]
 
 
 **Price** 200 gp; 
 **Bulk** 0; **Size** med
 **Usage** worn
 
-This unobtrusive belt pouch is popular among Pathfinders who operate in places where the Society is not welcome. It is constantly under the effects of a 3rd-rank [[Spells/Disguise Magic|Disguise Magic]] spell to appear non-magical. The pouch's normal space holds as much as an ordinary belt pouch, but it also has a small extradimensional space that holds up to 1 Bulk of items. A creature actively inspecting the pouch in its ordinary state discovers the existence of the extradimensional space only on a critical success to Search the pouch (see the Concealing an Item action of the Stealth skill), though when the extradimensional space is active, it's obvious to anyone examining the pouch that it is more than it seems.
+This unobtrusive belt pouch is popular among Pathfinders who operate in places where the Society is not welcome. It is constantly under the effects of a 3rd-rank [[Disguise Magic|Disguise Magic]] spell to appear non-magical. The pouch's normal space holds as much as an ordinary belt pouch, but it also has a small extradimensional space that holds up to 1 Bulk of items. A creature actively inspecting the pouch in its ordinary state discovers the existence of the extradimensional space only on a critical success to Search the pouch (see the Concealing an Item action of the Stealth skill), though when the extradimensional space is active, it's obvious to anyone examining the pouch that it is more than it seems.
 
 **Activate** `pf2:1` Interact
 

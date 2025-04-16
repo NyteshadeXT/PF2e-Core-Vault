@@ -13,7 +13,7 @@ license: OGL
 ---
 # Rain of Embers Stance `pf2:1`
 ## Feat 1
-### [rare](rare "Rare Rarity Trait")[[3-Rules/trait_reference/fire]][[monk]][[stance]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/trait_reference/F/fire]][[monk]][[stance]]
 
 **Category** class; 
 

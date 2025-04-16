@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Sting of the Sea|Sting of the Sea]]
+Granted by [[Sting of the Sea|Sting of the Sea]]
 
 The target takes a –2 penalty to Perception checks involving vision.
 

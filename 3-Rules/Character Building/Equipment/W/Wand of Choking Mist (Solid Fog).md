@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Choking Mist (Solid Fog)
 ## Item 10
-### [[magical]][[wand]][[3-Rules/trait_reference/water]]
+### [[magical]][[wand]][[3-Rules/trait_reference/W/water]]
 
 
 **Price** 1000 gp; 
@@ -27,11 +27,11 @@ This blackened wood wand has a smoldering tip, emitting a slight trail of steam.
 
 * * *
 
-**Effect** You cast [[Spells/Solid Fog|Solid Fog]] but the mist prevents creatures from being able to breathe in its area. They must hold their breath or start suffocating.
+**Effect** You cast [[Solid Fog|Solid Fog]] but the mist prevents creatures from being able to breathe in its area. They must hold their breath or start suffocating.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Solid Fog|Solid Fog]].
+**Craft Requirements** Supply a casting of [[Solid Fog|Solid Fog]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

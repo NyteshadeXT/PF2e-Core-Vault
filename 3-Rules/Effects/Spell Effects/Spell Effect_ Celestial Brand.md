@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Celestial Brand|Celestial Brand]]
+Granted by [[Celestial Brand|Celestial Brand]]
 
 The holy creature deals additional spirit damage.
 

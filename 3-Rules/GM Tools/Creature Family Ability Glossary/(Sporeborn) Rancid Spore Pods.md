@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Sporeborn) Rancid Spore Pods
 
-### [[disease]][[fungus]]
+### [[3-Rules/trait_reference/D/disease]][[fungus]]
 
 **Category** defensive; 
 

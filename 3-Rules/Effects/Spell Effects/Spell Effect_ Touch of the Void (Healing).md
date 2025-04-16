@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted from willingly receiving [[Spells/Touch of the Void|Touch of Corruption]].
+Granted from willingly receiving [[Touch of the Void|Touch of Corruption]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

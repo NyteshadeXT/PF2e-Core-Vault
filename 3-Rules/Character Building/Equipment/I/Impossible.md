@@ -17,7 +17,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** etched-onto-a-weapon
 
-This rune makes a weapon capable of impossible offense and defense. The etched weapon is immune to [[Spells/Dispel Magic|Dispel Magic]] and similar effects that could counteract its magic. If it's a ranged weapon or thrown weapon, its range increment is doubled.
+This rune makes a weapon capable of impossible offense and defense. The etched weapon is immune to [[Dispel Magic|Dispel Magic]] and similar effects that could counteract its magic. If it's a ranged weapon or thrown weapon, its range increment is doubled.
 
 **Activate** `pf2:2` command, envision (teleportation)
 

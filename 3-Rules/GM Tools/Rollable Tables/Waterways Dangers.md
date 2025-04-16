@@ -29,4 +29,4 @@ tags:
 | 87-92 | 1 [[Ravener Husk\|Ravener Husk]] (Moderate 12) |
 | 93-96 | 1 [[Demilich\|Demilich]] (Moderate 13) |
 | 97-99 | 2 [[Worm That Walks Cultist\|Worm That Walks Cultist]] (Moderate 14) |
-| 100 | 1 [[Bestiary 3/Bone Ship\|Bone Ship]] (Moderate 16) |
+| 100 | 1 [[3-Rules/Bestiaries/Bestiary 3/B/Bone Ship\|Bone Ship]] (Moderate 16) |

@@ -34,13 +34,13 @@ An array of dazzling gemstones lines the twisting head of the golden staff. Whil
 
 **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
-*   **Cantrip** [[Spells/Daze|Daze]]
-*   **1st** [[Spells/Charm|Charm]], [[Spells/Command|Command]]
-*   **2nd** [[Spells/Laughing Fit|Laughing Fit]], [[Spells/Stupefy|Stupefy]]
-*   **3rd** [[Spells/Enthrall|Enthrall]]
-*   **4th** [[Spells/Charm|Charm]], [[Spells/Confusion|Confusion]], [[Spells/Suggestion|Suggestion]]
-*   **5th** [[Spells/Command|Command]], [[Spells/Subconscious Suggestion|Subconscious Suggestion]]
-*   **6th** [[Spells/Dominate|Dominate]], [[Spells/Never Mind|Never Mind]]
+*   **Cantrip** [[Daze|Daze]]
+*   **1st** [[Charm|Charm]], [[Command|Command]]
+*   **2nd** [[Laughing Fit|Laughing Fit]], [[Stupefy|Stupefy]]
+*   **3rd** [[Enthrall|Enthrall]]
+*   **4th** [[Charm|Charm]], [[Confusion|Confusion]], [[Suggestion|Suggestion]]
+*   **5th** [[Command|Command]], [[Subconscious Suggestion|Subconscious Suggestion]]
+*   **6th** [[Dominate|Dominate]], [[Never Mind|Never Mind]]
 
 **Craft Requirements** Supply one casting of all listed ranks of all listed spells.
 

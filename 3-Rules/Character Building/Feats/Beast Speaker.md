@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Animal Trainer Dedication
 * * *
-You constantly have the effects of [[Spells/Speak with Animals|Speak with Animals]] as a 2nd-rank innate primal spell. You gain a +2 circumstance bonus to Diplomacy checks to [[Actions/Request|Make a Request]] of animals while this spell is active.
+You constantly have the effects of [[Speak with Animals|Speak with Animals]] as a 2nd-rank innate primal spell. You gain a +2 circumstance bonus to Diplomacy checks to [[Actions/Request|Make a Request]] of animals while this spell is active.
 
 *Source: Pathfinder #152: Legacy of the Lost God*
 *OGL*

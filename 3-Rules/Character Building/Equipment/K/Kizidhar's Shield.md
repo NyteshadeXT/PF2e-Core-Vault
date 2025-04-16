@@ -35,7 +35,7 @@ This _standard-grade duskwood shield_ is perfectly symmetrical and incredibly st
 
 **Frequency** once per day
 
-**Effect** You place the _kizidhar's shield_ into the ground at the edge of your campsite, which can't be more than 30 feet on a side, then speak the name of the kizidhar shuyookh carved into its handle. The shuyookh briefly appears just long enough to make a sweeping gesture, causing sprawling thorns to grow in an unnaturally symmetrical formation around the campsite, protecting it for the next 8 hours with an effect that's otherwise identical to [[Spells/Wall of Thorns|Wall of Thorns]]. All creatures within the campsite are then immediately affected by a three-action [[Spells/Heal|Heal]] spell cast at 4th rank by the shield. After 8 hours, the wall rots away, and the shield can be retrieved as an Interact action.
+**Effect** You place the _kizidhar's shield_ into the ground at the edge of your campsite, which can't be more than 30 feet on a side, then speak the name of the kizidhar shuyookh carved into its handle. The shuyookh briefly appears just long enough to make a sweeping gesture, causing sprawling thorns to grow in an unnaturally symmetrical formation around the campsite, protecting it for the next 8 hours with an effect that's otherwise identical to [[Wall of Thorns|Wall of Thorns]]. All creatures within the campsite are then immediately affected by a three-action [[Heal|Heal]] spell cast at 4th rank by the shield. After 8 hours, the wall rots away, and the shield can be retrieved as an Interact action.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

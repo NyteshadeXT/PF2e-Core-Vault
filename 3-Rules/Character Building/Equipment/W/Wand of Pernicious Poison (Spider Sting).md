@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Pernicious Poison (Spider Sting)
 ## Item 4
-### [[magical]][[3-Rules/trait_reference/poison]][[wand]]
+### [[magical]][[3-Rules/trait_reference/P/poison]][[wand]]
 
 
 **Price** 100 gp; 
@@ -27,11 +27,11 @@ This wand is made of chitin, topped with a hooked barb that weeps droplets of fo
 
 * * *
 
-**Effect** You cast [[Spells/Spider Sting|Spider Sting]]. The poison the spell delivers gains the virulent trait.
+**Effect** You cast [[Spider Sting|Spider Sting]]. The poison the spell delivers gains the virulent trait.
 
 * * *
 
-**Craft Requirements** Supply a casting of [[Spells/Spider Sting|Spider Sting]].
+**Craft Requirements** Supply a casting of [[Spider Sting|Spider Sting]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

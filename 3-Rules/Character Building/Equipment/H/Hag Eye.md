@@ -13,14 +13,14 @@ license: ORC
 ---
 # Hag Eye
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[invested]][[occult]][[scrying]]
+### [rare](rare.md "Rare Rarity Trait")[[invested]][[occult]][[3-Rules/Trait Reference/S/scrying]]
 
 
 **Price** 50 gp; 
 **Bulk** 0; **Size** med
 **Usage** worn
 
-This item appears to be an ordinary semiprecious stone and is typically mounted on a brooch or ring, but the stone is, in fact, an eyeball. This illusion can be seen through with [[Spells/Truesight|Truesight]] or similar magic, and anyone who interacts with the item feels its wet, sticky surface, allowing them to attempt to disbelieve the illusion (DC 19 Perception check). Many hags claim a hag eye is more effective if plucked from a living, awake creature, but this is likely just a convenient excuse for sadism.
+This item appears to be an ordinary semiprecious stone and is typically mounted on a brooch or ring, but the stone is, in fact, an eyeball. This illusion can be seen through with [[Truesight|Truesight]] or similar magic, and anyone who interacts with the item feels its wet, sticky surface, allowing them to attempt to disbelieve the illusion (DC 19 Perception check). Many hags claim a hag eye is more effective if plucked from a living, awake creature, but this is likely just a convenient excuse for sadism.
 
 The hag eye produces no direct benefit for the wearer, but allows the hag who created it, or any member of their coven, to peer through the eye using the [[Actions/Seek|Seek]] action. This has no range limit, provided the hag is on the same plane.
 

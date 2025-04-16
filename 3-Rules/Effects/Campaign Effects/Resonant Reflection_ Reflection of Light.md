@@ -12,7 +12,7 @@ license: OGL
 ---
 # Resonant Reflection: Reflection of Light
 ## Feat 10
-### [[3-Rules/trait_reference/light]][[magical]]
+### [[3-Rules/trait_reference/L/light]][[magical]]
 
 **Category** deityboon; 
 
@@ -29,7 +29,7 @@ Your eyes are imbued with an inner light that is not visible externally but that
 
 * * *
 
-**Effect** You cast [[Spells/Holy Light|Holy Light]] as an innate divine spell, heightened to a spell rank equal to half your level rounded up.
+**Effect** You cast [[3-Rules/Character Building/Spells/H/Holy Light|Holy Light]] as an innate divine spell, heightened to a spell rank equal to half your level rounded up.
 
 *Source: Pathfinder #153: Life's Long Shadows*
 *OGL*

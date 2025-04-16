@@ -13,7 +13,7 @@ license: OGL
 ---
 # Knapsack of Halflingkind
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[extradimensional]][[healing]][[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[extradimensional]][[healing]][[invested]][[magical]]
 
 
 **Price** 675 gp; 

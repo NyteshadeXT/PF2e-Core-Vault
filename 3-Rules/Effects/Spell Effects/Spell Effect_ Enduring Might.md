@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Enduring Might|Enduring Might]]
+Granted by [[Enduring Might|Enduring Might]]
 
 *Source: Pathfinder Player Core*
 *ORC*

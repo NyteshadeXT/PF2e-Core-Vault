@@ -18,7 +18,7 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** worncloak
 
-This cloth of gold cape was originally gifted to one of Goka's emperors centuries ago. Since then, it has spawned many imitations, which are all alike in that they are dyed with an elaborate seal depicting two drakes flanking Goka's palace and the Seven Dragons Bridge. The beautiful cape grants you a +3 item bonus to checks to [[Actions/Lie|Lie]] and to [[Actions/Make an Impression|Make an Impression]]. While you wear the cape, the weather (including wind and fog) doesn't affect your movement or vision. Additionally, whenever you fall while wearing the cape of the open sky, the cape automatically casts [[Spells/Gentle Landing|Gentle Landing]] on you.
+This cloth of gold cape was originally gifted to one of Goka's emperors centuries ago. Since then, it has spawned many imitations, which are all alike in that they are dyed with an elaborate seal depicting two drakes flanking Goka's palace and the Seven Dragons Bridge. The beautiful cape grants you a +3 item bonus to checks to [[Actions/Lie|Lie]] and to [[Actions/Make an Impression|Make an Impression]]. While you wear the cape, the weather (including wind and fog) doesn't affect your movement or vision. Additionally, whenever you fall while wearing the cape of the open sky, the cape automatically casts [[Gentle Landing|Gentle Landing]] on you.
 
 * * *
 

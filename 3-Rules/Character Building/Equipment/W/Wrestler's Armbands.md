@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wrestler's Armbands
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[intelligent]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[intelligent]][[invested]][[magical]]
 
 
 **Price** 645 gp; 

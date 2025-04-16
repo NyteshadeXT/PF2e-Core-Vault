@@ -10,7 +10,7 @@ license: OGL
 ---
 # Shield Augmentation
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[adjustment]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[adjustment]]
 
 
 **Price** 8 sp; 

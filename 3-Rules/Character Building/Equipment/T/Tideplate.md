@@ -28,7 +28,7 @@ Rippling water motifs decorate this simple suit of +1 _resilient full plate_. Th
 
 * * *
 
-**Effect** The ripples on the armor begin to undulate, matching the movement of any nearby water. The armor casts [[Spells/Water Walk|Water Walk]] on you.
+**Effect** The ripples on the armor begin to undulate, matching the movement of any nearby water. The armor casts [[Water Walk|Water Walk]] on you.
 
 **Activate—Submerge** `pf2:2` (concentrate, manipulate, polymorph)
 

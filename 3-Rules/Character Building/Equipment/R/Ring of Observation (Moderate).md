@@ -11,14 +11,14 @@ license: OGL
 ---
 # Ring of Observation (Moderate)
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical]]
 
 
 **Price** 300 gp; 
 **Bulk** 0; **Size** med
 **Usage** worn
 
-This simple gold ring is engraved with eyes and is inlaid with a single amber-colored cat-eye gemstone. While the gemstone itself isn't magical, it gives off the eerie impression that it's watching you. A Firebrand makes use of this ring to determine if they've drawn the attention of locals and guards without the owner giving away the fact that they know others are watching. More powerful versions of the ring help Firebrands escape the sight of others when necessary. The ring can cast [[Spells/Invisibility|Invisibility]] on you once per day.
+This simple gold ring is engraved with eyes and is inlaid with a single amber-colored cat-eye gemstone. While the gemstone itself isn't magical, it gives off the eerie impression that it's watching you. A Firebrand makes use of this ring to determine if they've drawn the attention of locals and guards without the owner giving away the fact that they know others are watching. More powerful versions of the ring help Firebrands escape the sight of others when necessary. The ring can cast [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] on you once per day.
 
 * * *
 

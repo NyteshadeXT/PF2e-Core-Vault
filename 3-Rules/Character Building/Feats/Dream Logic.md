@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dream Logic
 ## Feat 14
-### [[archetype]][[3-Rules/trait_reference/mental]][[occult]]
+### [[archetype]][[3-Rules/trait_reference/M/mental]][[occult]]
 
 **Category** class; 
 

@@ -11,7 +11,7 @@ license: ORC
 ---
 # Peachwood Lumber
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[precious]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[precious]]
 
 
 **Price** 6000 gp; 

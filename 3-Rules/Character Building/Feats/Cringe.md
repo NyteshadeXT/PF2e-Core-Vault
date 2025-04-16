@@ -15,7 +15,7 @@ license: ORC
 ---
 # Cringe `pf2:r`
 ## Feat 1
-### [[emotion]][[kobold]][[3-Rules/trait_reference/mental]][[visual]]
+### [[emotion]][[kobold]][[3-Rules/trait_reference/M/mental]][[visual]]
 
 **Category** ancestry; 
 

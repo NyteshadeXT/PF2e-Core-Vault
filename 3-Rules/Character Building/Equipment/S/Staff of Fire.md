@@ -34,8 +34,8 @@ This staff resembles a blackened and burned length of ashen wood. You can Intera
 
 * * *
 
-*   **Cantrip** [[Spells/Ignition|Ignition]]
-*   **1st** [[Spells/Breathe Fire|Breathe Fire]]
+*   **Cantrip** [[Ignition|Ignition]]
+*   **1st** [[Breathe Fire|Breathe Fire]]
 
 * * *
 

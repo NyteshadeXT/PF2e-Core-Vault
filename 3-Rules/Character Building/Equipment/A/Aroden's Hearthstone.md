@@ -11,7 +11,7 @@ license: OGL
 ---
 # Aroden's Hearthstone
 ## Item 25
-### [unique](unique.md "Unique Rarity Trait")[[3-Rules/trait_reference/arcane|Arcane]][[artifact]]
+### [unique](unique.md "Unique Rarity Trait")[[arcane|Arcane]][[artifact]]
 
 
 **Price** 0 gp; 

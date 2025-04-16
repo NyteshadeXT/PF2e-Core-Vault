@@ -11,7 +11,7 @@ license: OGL
 ---
 # Sinister Knight
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[illusion]][[magical]]
 
 
 **Price** 500 gp; 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spells/Regenerate|Regenerate]]
+Granted by [[Regenerate|Regenerate]]
 
 The target gains regeneration, which restores Hit Points to it at the start of each of its turns.
 

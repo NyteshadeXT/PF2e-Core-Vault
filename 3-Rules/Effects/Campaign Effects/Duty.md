@@ -14,7 +14,7 @@ license: OGL
 ---
 # Duty `pf2:2`
 
-### [rare](rare "Rare Rarity Trait")[[incapacitation]][[linguistic]][[3-Rules/trait_reference/mental]][[occult]]
+### [rare](rare "Rare Rarity Trait")[[incapacitation]][[linguistic]][[3-Rules/trait_reference/M/mental]][[occult]]
 
 **Category** deityboon; 
 

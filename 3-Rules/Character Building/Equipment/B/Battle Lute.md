@@ -13,7 +13,7 @@ license: OGL
 ---
 # Battle Lute
 ## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/shove]][[two-hand-d8]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/S/shove]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

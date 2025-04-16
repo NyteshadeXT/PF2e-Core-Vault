@@ -13,7 +13,7 @@ license: OGL
 ---
 # Bottled Night
 ## Item 3
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/trait_reference/darkness]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Trait Reference/D/darkness]]
 
 **Category** other; 
 **Price** 12 gp; 

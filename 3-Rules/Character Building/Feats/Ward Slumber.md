@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Sleepwalker Dedication
 * * *
-Just before going to sleep, you can perform a 10-minute ward to protect the slumber of up to eight creatures within 30 feet of you. All creatures affected by the ritual gain a +4 status bonus on saving throws against [[Spells/Nightmare|Nightmare]], a night hag's dream haunting, or other effects influencing dreams (such as those provided by this archetype) until your next daily preparations. They heal double the usual amount of Hit Points from resting.
+Just before going to sleep, you can perform a 10-minute ward to protect the slumber of up to eight creatures within 30 feet of you. All creatures affected by the ritual gain a +4 status bonus on saving throws against [[3-Rules/Character Building/Spells/N/Nightmare|Nightmare]], a night hag's dream haunting, or other effects influencing dreams (such as those provided by this archetype) until your next daily preparations. They heal double the usual amount of Hit Points from resting.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

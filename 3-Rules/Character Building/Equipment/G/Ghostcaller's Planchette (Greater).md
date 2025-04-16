@@ -31,7 +31,7 @@ This miniature wooden planchette is engraved with symbols designed to attract sp
 
 **Activate** Cast a Spell
 
-**Effect** You cast [[Spells/Void Warp|Void Warp]].
+**Effect** You cast [[Void Warp|Void Warp]].
 
 * * *
 
@@ -39,7 +39,7 @@ This miniature wooden planchette is engraved with symbols designed to attract sp
 
 **Frequency** once per day
 
-**Effect** You cast 7th-rank [[Spells/Invoke Spirits|Invoke Spirits]].
+**Effect** You cast 7th-rank [[Invoke Spirits|Invoke Spirits]].
 
 * * *
 
@@ -47,7 +47,7 @@ This miniature wooden planchette is engraved with symbols designed to attract sp
 
 **Frequency** once per day
 
-**Effect** You cast [[Spells/Tempest of Shades|Tempest of Shades]].
+**Effect** You cast [[Tempest of Shades|Tempest of Shades]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

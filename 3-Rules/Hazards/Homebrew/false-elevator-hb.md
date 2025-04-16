@@ -11,7 +11,7 @@ aliases: ["False Elevator"]
 
 # False Elevator  *Hazard -1*  
 
-[simple](3-rules/trait_reference/simple.md "Simple Hazard Trait")  [mechanical](3-rules/trait_reference/mechanical.md "Mechanical Hazard Trait")  [trap](3-rules/trait_reference/trap.md "Trap Hazard Trait")  [unique](3-rules/trait_reference/unique.md "Unique Rarity Trait")
+[simple](3-rules/trait_reference/simple.md "Simple Hazard Trait")  [mechanical](mechanical.md "Mechanical Hazard Trait")  [trap](trap.md "Trap Hazard Trait")  [unique](3-rules/trait_reference/unique.md "Unique Rarity Trait")
 
 **Stealth** DC 18 (trained)  
 **Description** After the someone stands within the elevator the doors close and the contraption crushes everything contained within.

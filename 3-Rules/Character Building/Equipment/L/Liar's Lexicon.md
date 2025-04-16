@@ -11,7 +11,7 @@ license: OGL
 ---
 # Liar's Lexicon
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[grimoire]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[grimoire]][[magical]]
 
 
 **Price** 1000 gp; 

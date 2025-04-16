@@ -14,7 +14,7 @@ license: OGL
 ---
 # Sky-Piercing Bow
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[deadly-d10]][[magical]][[propulsive]]
+### [rare](rare.md "Rare Rarity Trait")[[deadly-d10]][[magical]][[propulsive]]
 
 |  |  |
 | -- | -- |
@@ -58,7 +58,7 @@ Large turquoise gems stud the outer edge of this sturdy +3 greater striking ghos
 
 * * *
 
-**Effect** You fire a volley of arrows into the sky. You create the effects of a successful [[Spells/Control Weather|Control Weather]] ritual.
+**Effect** You fire a volley of arrows into the sky. You create the effects of a successful [[Control Weather|Control Weather]] ritual.
 
 *Source: Pathfinder #167: Ready? Fight!*
 *OGL*

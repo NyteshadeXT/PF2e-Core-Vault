@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Discern Secrets|Discern Secrets]], if you pick Seek.
+Granted by [[Discern Secrets|Discern Secrets]], if you pick Seek.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

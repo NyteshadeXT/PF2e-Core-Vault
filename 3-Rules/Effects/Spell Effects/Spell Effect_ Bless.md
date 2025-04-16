@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Spells/Bless|Bless]]
+Granted by [[Bless|Bless]]
 
 Blessings from beyond help you strike true. You gain a +1 status bonus to attack rolls.
 

@@ -17,14 +17,14 @@ license: OGL
 ---
 # Architect of Flame `pf2:3`
 ## Feat 12
-### [[3-Rules/trait_reference/fire]][[impulse]][[kineticist]][[manipulate]][[overflow]][[primal]]
+### [[3-Rules/trait_reference/F/fire]][[impulse]][[kineticist]][[manipulate]][[overflow]][[primal]]
 
 **Category** class; 
 
 
 
 
-Flames rise and shape to your will, forming a wall or dome of your design. You create a [[Spells/Wall of Fire|Wall of Fire]] within 120 feet. In addition to the normal choices, you can make the wall up to 10 feet long and 60 feet high. The wall lasts until the end of your next turn, but you can Sustain it up to 1 minute.
+Flames rise and shape to your will, forming a wall or dome of your design. You create a [[Wall of Fire|Wall of Fire]] within 120 feet. In addition to the normal choices, you can make the wall up to 10 feet long and 60 feet high. The wall lasts until the end of your next turn, but you can Sustain it up to 1 minute.
 
 * * *
 

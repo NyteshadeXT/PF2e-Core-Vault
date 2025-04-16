@@ -16,7 +16,7 @@ license: ORC
 ---
 # Startling Appearance (Vigilante) `pf2:1`
 ## Feat 6
-### [[archetype]][[emotion]][[fear]][[3-Rules/trait_reference/mental]][[vigilante]]
+### [[archetype]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[vigilante]]
 
 **Category** class; 
 

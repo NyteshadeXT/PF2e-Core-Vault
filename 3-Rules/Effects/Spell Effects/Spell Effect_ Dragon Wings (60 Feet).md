@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by casting [[Spells/Dragon Wings|Dragon Wings]] and gaining a 60 foot fly Speed.
+Granted by casting [[Dragon Wings|Dragon Wings]] and gaining a 60 foot fly Speed.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

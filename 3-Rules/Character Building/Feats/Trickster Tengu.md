@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You can transform yourself or the bodies of others to express your displeasure. Once per day, you can cast either [[Spells/Aerial Form|Aerial Form]] or [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]] as a 7th-rank primal innate spell. You must take the form of a bird when casting this aerial form.
+You can transform yourself or the bodies of others to express your displeasure. Once per day, you can cast either [[Aerial Form|Aerial Form]] or [[Cursed Metamorphosis|Cursed Metamorphosis]] as a 7th-rank primal innate spell. You must take the form of a bird when casting this aerial form.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

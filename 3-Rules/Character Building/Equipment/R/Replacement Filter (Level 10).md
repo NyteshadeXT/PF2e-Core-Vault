@@ -9,7 +9,7 @@ license: OGL
 ---
 # Replacement Filter (Level 10)
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")
+### [uncommon](uncommon.md "Uncommon Rarity Trait")
 
 
 **Price** 155 gp; 

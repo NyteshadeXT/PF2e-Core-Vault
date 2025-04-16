@@ -14,7 +14,7 @@ license: ORC
 ---
 # Shake it Off `pf2:1`
 ## Feat 2
-### [[barbarian]][[concentrate]][[rage]]
+### [[barbarian]][[concentrate]][[3-Rules/trait_reference/R/rage]]
 
 **Category** class; 
 

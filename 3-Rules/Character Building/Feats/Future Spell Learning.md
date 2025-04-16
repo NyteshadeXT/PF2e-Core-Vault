@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Time Mage Dedication
 * * *
-More future memories of time magic percolate back to the present, teaching you spells you've yet to learn. Add [[Spells/Behold the Weave|Behold the Weave]], [[Spells/Cast into Time|Cast into Time]], [[Spells/Haste|Haste]], [[Spells/Loose Time's Arrow|Loose Time's Arrow]], [[Spells/Quicken Time|Quicken Time]], [[Spells/Slow|Slow]], and [[Spells/Stagnate Time|Stagnate Time]] to your spell list. You can thus potentially learn these spells even if they aren't normally on your tradition's spell list.
+More future memories of time magic percolate back to the present, teaching you spells you've yet to learn. Add [[Behold the Weave|Behold the Weave]], [[Cast into Time|Cast into Time]], [[Haste|Haste]], [[Loose Time's Arrow|Loose Time's Arrow]], [[Quicken Time|Quicken Time]], [[Slow|Slow]], and [[Stagnate Time|Stagnate Time]] to your spell list. You can thus potentially learn these spells even if they aren't normally on your tradition's spell list.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

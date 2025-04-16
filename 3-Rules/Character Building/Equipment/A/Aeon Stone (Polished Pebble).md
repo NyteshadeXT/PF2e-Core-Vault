@@ -13,7 +13,7 @@ license: OGL
 ---
 # Aeon Stone (Polished Pebble)
 ## Item 3
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/earth]][[invested]][[magical|Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/E/earth]][[invested]][[magical|Magical]]
 
 
 **Price** 50 gp; 
@@ -22,7 +22,7 @@ license: OGL
 
 A _polished pebble aeon stone_ imbues you with the strength of the earth, granting a +1 item bonus to saves and DCs against attempts to grapple or swallow you.
 
-The stone's resonant power allows you to cast [[Spells/Grease|Grease]] as a primal innate spell once per day. You can target only surfaces, not objects, with this spell.
+The stone's resonant power allows you to cast [[Grease|Grease]] as a primal innate spell once per day. You can target only surfaces, not objects, with this spell.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

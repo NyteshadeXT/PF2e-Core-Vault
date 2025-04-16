@@ -13,7 +13,7 @@ license: OGL
 ---
 # Screech Shooter (Greater)
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[kickback]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[kickback]][[magical]]
 
 |  |  |
 | -- | -- |

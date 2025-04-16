@@ -11,7 +11,7 @@ license: OGL
 ---
 # Drum of Upheaval
 ## Item 20
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/trait_reference/earth]][[magical|Magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/E/earth]][[magical|Magical]]
 
 
 **Price** 60000 gp; 
@@ -38,7 +38,7 @@ This heavy drum is engraved along the sides with images of centaurs in fierce co
 
 * * *
 
-**Effect** The drum casts a DC 43 Reflex check [[Spells/Earthquake|Earthquake]] spell.
+**Effect** The drum casts a DC 43 Reflex check [[Earthquake|Earthquake]] spell.
 
 * * *
 

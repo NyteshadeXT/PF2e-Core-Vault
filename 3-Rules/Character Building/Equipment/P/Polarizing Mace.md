@@ -15,7 +15,7 @@ license: OGL
 ---
 # Polarizing Mace
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[finesse]][[magical]][[shove]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[finesse]][[magical]][[3-Rules/Trait Reference/S/shove]]
 
 |  |  |
 | -- | -- |

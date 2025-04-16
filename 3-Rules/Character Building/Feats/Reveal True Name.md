@@ -17,7 +17,7 @@ license: OGL
 ---
 # Reveal True Name `pf2:2`
 ## Feat 1
-### [rare](rare "Rare Rarity Trait")[[auditory]][[concentrate]][[emotion]][[general]][[3-Rules/trait_reference/mental]][[skill]][[true-name]]
+### [rare](rare.md "Rare Rarity Trait")[[auditory]][[concentrate]][[emotion]][[general]][[3-Rules/trait_reference/M/mental]][[skill]][[true-name]]
 
 **Category** skill; 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Tome of Dripping Shadows
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[grimoire]][[illusion]][[magical]][[3-Rules/Character Building/Equipment/S/Shadow]]
+### [rare](rare.md "Rare Rarity Trait")[[grimoire]][[illusion]][[magical]][[3-Rules/Character Building/Equipment/S/Shadow]]
 
 
 **Price** 1000 gp; 

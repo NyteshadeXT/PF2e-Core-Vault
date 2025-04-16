@@ -12,7 +12,7 @@ license: OGL
 ---
 # Scapular of Shields
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[apex]][[invested]][[magical]]
+### [rare](rare.md "Rare Rarity Trait")[[apex]][[invested]][[magical]]
 
 
 **Price** 15000 gp; 

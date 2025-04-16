@@ -11,7 +11,7 @@ license: OGL
 ---
 # Gauntlight
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[magical]]
+### [unique](unique.md "Unique Rarity Trait")[[artifact]][[magical]]
 
 
 **Price** 0 gp; 

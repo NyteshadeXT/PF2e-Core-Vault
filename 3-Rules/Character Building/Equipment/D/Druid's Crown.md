@@ -36,9 +36,9 @@ Made of materials scavenged from wild places, a _druid's crown_ can be rebuilt f
 
 | Material | Item Bonus | Spell |
 | --- | --- | --- |
-| Antlers | Intimidation | [[Spells/Enlarge\|Enlarge]] |
-| Flowers | Diplomacy | [[Spells/Animal Allies\|Animal Allies]] |
-| Leaves | Stealth | [[Spells/One with Plants\|One with Plants]] |
+| Antlers | Intimidation | [[Enlarge\|Enlarge]] |
+| Flowers | Diplomacy | [[Animal Allies\|Animal Allies]] |
+| Leaves | Stealth | [[One with Plants\|One with Plants]] |
 
 *Source: Pathfinder Treasure Vault*
 *OGL*
