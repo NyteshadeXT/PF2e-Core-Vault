@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/Home.md",
+                "file": "1-GM Toolkit/Tests/Abadar's Flawless Scale.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Abadar's Flawless Scale"
+            }
+          },
+          {
+            "id": "0850c8d4f1eb83f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Tests/Abadar's Flawless Scale.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Abadar's Flawless Scale"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "d417767c01c7881d",
@@ -228,53 +242,55 @@
       "helpmate:HelpMate": false
     }
   },
-  "active": "b458cba3548e93a9",
+  "active": "0850c8d4f1eb83f2",
   "lastOpenFiles": [
-    "1-GM Toolkit/Encounter Builder.md",
+    "1-GM Toolkit/Tests/DC Calculator WIP.md",
+    "1-GM Toolkit/Tests/Abadar's Flawless Scale 1.md",
+    "1-GM Toolkit/Tests/Item Card Dataview Template.md",
+    "1-GM Toolkit/Tests/Abadar's Flawless Scale.md",
+    "Item Card Old.md",
+    "3-Rules/Character Building/Equipment/A/Abadar's Flawless Scale.md",
+    "zz-Attachments/Assets/AdventureIcon.png",
+    "zz-Attachments/Assets/ImagePlaceholder.png",
+    "zz-Attachments/Assets/PlaceholderImage.png",
+    "5-World/Settlements/Diamond Lake.md",
+    "zz-Attachments/Assets/PartyLogo.jpg",
+    "zz-Attachments/Assets/Northern Faerun Map.jpg",
+    "zz-Attachments/Assets/MapPlaceholder.png",
+    "zz-Attachments/The Known World.png",
+    "1-GM Toolkit/Tests/Enchanting.md",
+    "1-GM Toolkit/Tests/1-trait_summary.md",
     "1-GM Toolkit/Home.md",
-    "zz-Attachments/Encounter.jpg",
-    "zz-Attachments/Encounter.jpg.crdownload",
+    "1-GM Toolkit/Random_Gems_Table.md",
+    "1-GM Toolkit/Encounter Builder.md",
+    "5-World/Maps/Aetheria Fracta.md",
+    "1-GM Toolkit/Vault Report.md",
+    "1-GM Toolkit/Travel Calculator.md",
+    "1-GM Toolkit/Random_Jewelry_Table.md",
+    "1-GM Toolkit/DunGen (Random Dungeon Generator).md",
     "1-GM Toolkit/DM-Screen.md",
     "1-GM Toolkit/DC Calculator.md",
     "1-GM Toolkit/Adventure Loot.md",
+    "5-World/Deities/Kataklysmos.md",
     "4-Campaign/Age of Worms/The Three Faces of Evil.md",
-    "4-Campaign/Age of Worms/Completed/The Whispering Cairn.md",
-    "3-Rules/Character Building/Equipment/A/Abadar's Flawless Scale.md",
-    "3-Rules/Character Building/Equipment/A/Absolute Solvent (Lesser).md",
-    "3-Rules/Character Building/Equipment/A/Ablative Armor Plating (Major).md",
-    "3-Rules/Character Building/Equipment/Homebrew/Rockhammer.md",
-    "3-Rules/Character Building/Spells/Z/Zeal for Battle.md",
-    "3-Rules/Character Building/Spells/Y/Ymeri's Mark.md",
-    "3-Rules/Character Building/Spells/W/Wails of the Damned.md",
+    "5-World/NPCs/Diamond Lake/Allustan.md",
+    "5-World/Points of Interest/Diamond Lake/The Emporium.md",
+    "5-World/Maps",
+    "2-Session Journals/Age-of-Worms/AoW Session 011.md",
+    "2-Session Journals/Age-of-Worms/Aow Session 010.md",
+    "zz-Attachments/Passage of the Face.webp",
+    "zz-Attachments/Encounter.jpg",
+    "zz-Attachments/Encounter.jpg.crdownload",
     "3-Rules/Character Building/Spells/Z",
-    "3-Rules/Character Building/Spells/Untitled.md",
-    "3-Rules/Character Building/Spells/V/Vacuum.md",
     "3-Rules/Character Building/Spells/Y",
-    "3-Rules/Character Building/Spells/U/Umbral Extraction.md",
-    "3-Rules/Character Building/Spells/U/Unblinking Flame Aura.md",
-    "3-Rules/Character Building/Spells/T/Tailwind.md",
     "3-Rules/Character Building/Spells/W",
     "3-Rules/Character Building/Spells/V",
-    "3-Rules/Character Building/Spells/S/Sacred Beasts.md",
-    "3-Rules/Character Building/Spells/R/Radiant Beam.md",
     "3-Rules/Character Building/Spells/U",
     "3-Rules/Character Building/Spells/T",
     "3-Rules/Character Building/Spells/S",
-    "3-Rules/Character Building/Spells/Q/Qi Blast.md",
     "3-Rules/Character Building/Spells/R",
-    "3-Rules/Character Building/Spells/P/Pack Attack.md",
-    "3-Rules/Character Building/Spells/O/Oaken Resilience.md",
-    "3-Rules/Character Building/Spells/Q",
-    "3-Rules/Character Building/Spells/N/Nature Incarnate.md",
-    "3-Rules/Character Building/Spells/M/Mad Monkeys.md",
     "3-Rules/Bestiaries/Bestiary 3/Untitled 1.canvas",
     "3-Rules/Bestiaries/Bestiary 3/Untitled.canvas",
-    "zz-Attachments/PartyDashboardBackground.png",
-    "zz-Attachments/Jayden.png",
-    "zz-Attachments/Inner Sanctum.png",
-    "zz-Attachments/Outer Sanctum.png",
-    "zz-Attachments/The Faceless One.png",
-    "zz-Attachments/Labyrinth of Vecna.png",
-    "zz-Attachments/Morlock Tunnel.png"
+    "zz-Attachments/PartyDashboardBackground.png"
   ]
 }

@@ -1,5 +1,5 @@
 ```dataviewjs 
-const {  attunement = {}, damage = {}, description = "",  mechanics = "", image, page, range = "", subweight, tags = [], value = "", weight = "" } = dv.current();
+const {  attunement = {}, damage = {}, entries = "", image, page, range = "", subweight, tags = [], value = "", weight = "" } = dv.current();
 const name = dv.current().name;
 
 // ===== SOURCE HANDLER =====
@@ -40,6 +40,11 @@ if (pg && pg.trim() !== "" && source && source.endsWith(".pdf)")) {
 let imageFormat = app.vault.getAbstractFileByPath(image) ? `>![[${image}|itemcard200]]\n` : "";
 
 // ===== /IMAGE HANDLER =====
+
+// ===== LEVEL HANDLER =====
+const itemLevel = dv.current().level ?? "";
+
+// ===== /LEVEL HANDLER =====
 
 
 // ===== ATTUNEMENT HANDLER =====
@@ -94,7 +99,7 @@ if (tags.includes('Weapon')) {
   type = `${weaponClass ? weaponClass : ''} ${attackType ? attackType : ''} Weapon`.trim();
 }
 
-const itemlevel = dv.current().level ?? '';
+const tier = tags.includes('Minor') ? 'Minor tier' : (tags.includes('Major') ? 'Major tier' : '');
 
 let subHeader = ''
 if (tags.some(tag => ['Finesse', 'Heavy', 'Light', 'Reach' , 'Special' , 'Two-Handed'].includes(tag))) {
@@ -104,9 +109,10 @@ if (tags.some(tag => ['Finesse', 'Heavy', 'Light', 'Reach' , 'Special' , 'Two-Ha
     .join(', ');
 }
 
+
 const rarities = ['Common', 'Uncommon', 'Rare']
 const rarity = rarities.find(rarity => tags.includes(rarity)) || '';// Find the first matching rarity or returns empty string
-let itemTypeRarityAttune = [subHeader, type, rarity, itemlevel].filter(Boolean).join(", ") + attune;
+let itemTypeRarityAttune = [subHeader, type, rarity, tier].filter(Boolean).join(", ") + attune;
 
 // ===== /TYPE, RARITY, ATTUNEMENT FORMATTER =====
 
@@ -184,23 +190,19 @@ if (tags.includes('Loading')) {
 if (rangeFormat) { rangeFormat += '|'; }
 // ===== /RANGED AMMO AND WEAPON FORMATTER =====
 
-// ===== USAGE FORMATTER =====
-const usage = dv.current().usage ?? ''; // Get usage field, default to empty string
-
-// ===== /USAGE FORMATTER =====
 
 
+// ===== FINAL CARD OUTPUT =====
 let card = `>[!infobox|s-t no-i wfull itemcard] # ${name}
 ${imageFormat}># <div style="position: relative; width: 100%;"><span style="color:#BCCAD8; position: absolute; left: 50%; font-size:20px; transform: translateX(-50%);">${itemTypeRarityAttune}</span><span style="font-size:20px; float: right; padding-right: 4px;">${formattedSource}</span></div>
 >|||
->|:-:|:-:|${damageFormat}${rangeFormat}${valueFormat}${weightFormat}${usage ? `\n>|Usage:|${usage}|` : ''}
+>|:-:|:-:|${damageFormat}${rangeFormat}${valueFormat}${weightFormat}
 >
 >>[!infobox|clean no-t no-i center item-text] <!-- -->
-${description.split("\n").map(line => line.trim() ? `${line}` : "").join("<br>")}
-<br>
-${mechanics.split("\n").map(line => line.trim() ? `${line}` : "").join("<br>")}
+${entries.split("\n").map(line => line.trim() ? `${line}` : "").join("<br>")}
 `;
 
 dv.paragraph(card);
 console.log(card);
+// ===== /FINAL CARD OUTPUT =====
 ```

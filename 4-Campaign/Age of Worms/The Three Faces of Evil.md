@@ -3,16 +3,23 @@ tags:
   - "#Adventure"
 art: zz-Attachments/Three Faces of Evil Banner.png
 quicknote: The Three Faces of Evil requires the PCs to sneak into Dourstone Mine, destroy The Ebon Triad cultists, and defeat a newly born creature knows as the Ebon Aspect.
-whichparty: "[[Age of Worms Party Dashboard]]"
+whichparty:
+  - "[[Age of Worms Party Dashboard]]"
 adventure_status: In Progress
 adventure_level: 2
-total_xp: 2008
-completed_xp: 380
+total_xp: 2360
+completed_xp: 590
 awarded_pp: 0
-awarded_gp: 49
-awarded_sp: 0
+awarded_gp: 92
+awarded_sp: 21
 awarded_cp: 0
-awarded_permanent_items: 
+awarded_permanent_items:
+  - name: Magic Wand (Harm)
+    ilvl: 0
+    gp: 0
+  - name: Low-Grade Cold Iron Longsword
+    ilvl: 2
+    gp: 44
 awarded_consumable_items:
   - name: Healing Potion (Minor)
     ilvl: 1
@@ -705,14 +712,14 @@ The archers continue to harass the party until the characters make it to the bas
 > [!tip]+ Treasure
 > The morlocks in addition to their gear have 21 sp between the two of them.  One of them has a set of fine ivory dice with small gems set in their faces to mark the numerical on each side.  As a set the dice are worth 30 gp.
 > 
-> - [ ] gp::30
-> - [ ] sp::21
+> - [x] gp::30
+> - [x] sp::21
 
 ![[Morlock Tunnel.png]]
 
 # Encounter 15: The Tunnel
 **Encounter Difficulty:**   
-- [ ] low (60 XP) Level 3
+- [x] low (60 XP) Level 3
 
 > [!note]+ Read Aloud
 > This cave is little more than a wide crack the rocks Five feet wide and perhaps six feet tall, it provides a jagged, twisty passage.
@@ -741,12 +748,12 @@ The morlock lurks in the passage waiting for approaching PCs if she hears the so
 > [!tip]+ Treasure
 > In addition to her equipment, the barbarian has several trophies from a drow priestess that she slew. In a bloodstained burlap sack are 3 gp, the preserved head of a female dark elf, and a [[Magic Wand (1st-Rank Spell)|Magic Wand (Harm)]].
 > 
-> - [ ] gp::3
-> - [ ] permanent::[[Magic Wand (1st-Rank Spell)|Magic Wand (Harm)]] [ilvl::000] [gp::000]
+> - [x] gp::3
+> - [x] permanent::[[Magic Wand (1st-Rank Spell)|Magic Wand (Harm)]] [ilvl::000] [gp::000]
 
 # Encounter 16: Choker Tunnels
 **Encounter Difficulty:**   
-- [ ] low (60 XP) Level 3
+- [x] low (60 XP) Level 3
 
 > [!note]+ Read Aloud
 > The cavern's floor is choked with loose rubble, fallen stalactites, and other debris. Here and there, stalagmites poke up through the loose rocks. Ahead, a ten-foot-wide passage opens in the far wall.
@@ -777,12 +784,12 @@ The two chokers fight to the death. They attempt to hide at the top of the pile,
 > [!tip]+ Treasure
 > The chokers hide the remains of their past victims within the debris pile, Here, а DC 15 Search check uncovers the gnawed bones of two morlocks along with a broken morningstar, а leather necklace set with four rubies worth 10 gp, and a Low-Grade Cold Iron Longsword.
 > 
-> - [ ] gp::10
-> - [ ] permanent::[[Cold Iron Chunk|Low-Grade Cold Iron Longsword]] [ilvl::2] [gp::44]
+> - [x] gp::10
+> - [x] permanent::[[Cold Iron Chunk|Low-Grade Cold Iron Longsword]] [ilvl::2] [gp::44]
 
 # Encounter 17: The Bridge
 **Encounter Difficulty:**   
-- [ ] moderate (90 XP) Level 4
+- [x] moderate (90 XP) Level 4
 
 > [!note]+ Read Aloud
 > The rope bridge sways slightly, stirred by the almost imperceptible movement of air in this cavern. It consists of three lengths of rope arranged in a V-shape. The lower point of the V serves as a foothold, while the upper arms allow one to hold steady as they cross.

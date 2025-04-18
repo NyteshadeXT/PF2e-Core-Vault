@@ -104,7 +104,7 @@
   "showSelectImageIcon": true,
   "selectImageIconOpacity": 40,
   "selectImageIconFlag": "red",
-  "defaultSelectImagePath": "",
+  "defaultSelectImagePath": "zz-Attachments",
   "useShortPath": true,
   "bannerGap": 12,
   "bannerIconSize": 70,

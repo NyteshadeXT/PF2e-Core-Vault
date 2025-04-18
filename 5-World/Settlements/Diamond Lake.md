@@ -84,7 +84,7 @@ defence: Weak
 
 > [!metadata|map]- Map
 > ```leaflet
-> id: TBD
+> id: Diamond-Lake
 > image: [[Diamond Lake.webp]]
 > lock: true
 > recenter: true

@@ -1,21 +1,15 @@
----
-obsidianUIMode: preview
----
-
-
 > [!cards|4]
-> **[[Map-Faerun]]**
-> [![[Northern Faerun Map.jpg|sban htiny ctr]]](Lampoteuo)
+> **[[5-World/Maps/Aetheria Fracta|Aetheria Fracta]]**
+> [![[The Known World.png\|hmed]]](/5-World/Maps/Aetheria%20Fracta)
 > 
 > **[[Encounter Builder]]**
-> [![Encounter](Encounter.jpg)](/1-GM%20Toolkit/Encounter%20Builder)
+> [![[Encounter.jpg\|hmed]]](/1-GM%20Toolkit/Encounter%20Builder)
 >
 > **[[Link]]**
 > [![[AdventureIcon.png\|sban htiny ctr]]](Lampoteuo)
 > 
 > **[[Link]]**
 > [![[PartyLogo.jpg\|sban htiny ctr p+t]]|](Party%201%2FExample%20Party%201)
-
 
 > [!infobox]
 > # Session Journals

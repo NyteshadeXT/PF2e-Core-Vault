@@ -1,5 +1,265 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "TBD",
+      "locked": true,
+      "lastAccessed": 1744991450540,
+      "markers": [
+        {
+          "id": "ID_d8795bc9caaa",
+          "type": "default",
+          "loc": [
+            -26.405155692477635,
+            39.04002830191666
+          ],
+          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "5-World/Points of Interest/Diamond Lake/The Emporium.md"
+      ]
+    },
+    {
+      "id": "Diamond-Lake",
+      "locked": true,
+      "lastAccessed": 1744991873427,
+      "markers": [
+        {
+          "id": "ID_5b5b6868c929",
+          "type": "default",
+          "loc": [
+            -25.16685565794367,
+            21.798776238766536
+          ],
+          "link": "The Emporium",
+          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69082828ab18",
+          "type": "default",
+          "loc": [
+            -23.09059265566569,
+            29.383601321337864
+          ],
+          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1aeb79282a99",
+          "type": "default",
+          "loc": [
+            -22.360525620109563,
+            22.307009237744367
+          ],
+          "link": "Lazare's House",
+          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9bf969ba190a",
+          "type": "default",
+          "loc": [
+            -21.18938001376934,
+            21.09166945757999
+          ],
+          "link": "The Feral Dog",
+          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9d80b187879",
+          "type": "default",
+          "loc": [
+            -22.515205228494118,
+            17.887591855328445
+          ],
+          "link": "Tidwod's",
+          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f888a93a7b1a",
+          "type": "default",
+          "loc": [
+            -25.476214874712788,
+            18.948252027108268
+          ],
+          "link": "General Store - Diamond Lake",
+          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e948abb96af9",
+          "type": "default",
+          "loc": [
+            -13.587982116013956,
+            9.380213394177796
+          ],
+          "link": "The Captain's Blade",
+          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8ca08992809",
+          "type": "default",
+          "loc": [
+            -19.222739278594258,
+            17.75500933385597
+          ],
+          "link": "Venelle's",
+          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_190bea995baa",
+          "type": "default",
+          "loc": [
+            -13.455399594541477,
+            14.528834644692346
+          ],
+          "link": "Allustan",
+          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4af91abaeb7a",
+          "type": "default",
+          "loc": [
+            -11.201496729509357,
+            34.68137790850895
+          ],
+          "link": "Osgood Smithy",
+          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_287968c9cae9",
+          "type": "default",
+          "loc": [
+            -2.075399834820477,
+            9.888446393155627
+          ],
+          "link": "The Whispering Cairn#Part 5. The Old Observatory",
+          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9e9eac8b91b",
+          "type": "default",
+          "loc": [
+            -17.32238980415541,
+            36.22817399235453
+          ],
+          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a6acae94a3b",
+          "type": "default",
+          "loc": [
+            -5.102700741775384,
+            27.89757222650051
+          ],
+          "link": "The Three Faces of Evil#Part 1: What Writhes Within",
+          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "5-World/Settlements/Diamond Lake.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
