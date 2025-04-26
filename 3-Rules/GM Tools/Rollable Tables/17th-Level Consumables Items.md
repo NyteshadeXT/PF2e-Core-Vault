@@ -13,8 +13,8 @@ Table of 17th-Level Consumables Items
 | 1d102 | result |
 |------|--------|
 | 1-6 | [[Spellstrike Ammunition (Type VIII)\|Spellstrike Ammunition (Type VIII)]] |
-| 7-12 | [[Acid Flask (Major)\|Acid Flask (Major)]] |
-| 13-18 | [[Alchemist's Fire (Major)\|Alchemist's Fire (Major)]] |
+| 7-12 | [[3-Rules/Character Building/Equipment/A/Acid Flask (Major)\|Acid Flask (Major)]] |
+| 13-18 | [[3-Rules/Character Building/Equipment/A/Alchemist's Fire (Major)\|Alchemist's Fire (Major)]] |
 | 19-24 | [[Bottled Lightning (Major)\|Bottled Lightning (Major)]] |
 | 25-30 | [[Frost Vial (Major)\|Frost Vial (Major)]] |
 | 31-36 | [[Glue Bomb (Major)\|Tanglefoot Bag (Major)]] |

@@ -1,84 +1,41 @@
 {
   "main": {
-    "id": "2346616a58401193",
+    "id": "4ffbcb9b0ff79fb8",
     "type": "split",
     "children": [
       {
-        "id": "db2f35fd107ee3a3",
+        "id": "4fec69dc3fd1f5b5",
         "type": "tabs",
         "children": [
           {
-            "id": "836ea7301980348b",
+            "id": "28c48d9821a8d63e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Three Faces of Evil.md",
+                "file": "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Three Faces of Evil"
-            }
-          },
-          {
-            "id": "a874bd0941e45fab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/DC Calculator.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "DC Calculator"
-            }
-          },
-          {
-            "id": "b458cba3548e93a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 3.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Abadar's Flawless Scale - Option 3"
-            }
-          },
-          {
-            "id": "8ab2a3aac725dc62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 2.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Abadar's Flawless Scale - Option 2"
+              "title": "Abadar's Flawless Scale - Option 1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6a7fdeed59d1df14",
+    "id": "0bc5b3be8860309a",
     "type": "split",
     "children": [
       {
-        "id": "a8d6119381517879",
+        "id": "1e0d01eeeb0b6326",
         "type": "tabs",
         "children": [
           {
-            "id": "6b0c2cf4e5795a39",
+            "id": "5047f1190ddb93b4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -91,7 +48,7 @@
             }
           },
           {
-            "id": "19e22f00647fc61a",
+            "id": "b2997151db973aa0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -108,7 +65,7 @@
             }
           },
           {
-            "id": "53b02617c761960c",
+            "id": "3096a71f7c018b44",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -121,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 300
   },
   "right": {
-    "id": "d417767c01c7881d",
+    "id": "96fe26c9abf98fe0",
     "type": "split",
     "children": [
       {
-        "id": "2ac63158a12e7a32",
+        "id": "17f58ddd55331629",
         "type": "tabs",
         "children": [
           {
-            "id": "23d7c16a521e6984",
+            "id": "5a2cb7758dd6bdcb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 2.md",
+                "file": "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Abadar's Flawless Scale - Option 2"
+              "title": "Backlinks for Abadar's Flawless Scale - Option 1"
             }
           },
           {
-            "id": "0921d3d8d778cc4f",
+            "id": "4078cb84ed1afe43",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Session Journals/Age-of-Worms/AoW Session 008.md",
+                "file": "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AoW Session 008"
+              "title": "Outgoing links from Abadar's Flawless Scale - Option 1"
             }
           },
           {
-            "id": "d96e10dbb1bee6e7",
+            "id": "b9a415b5fb150133",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,22 +137,22 @@
             }
           },
           {
-            "id": "879642c6da3368aa",
+            "id": "4fe2a02614de7a52",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Session Journals/Age-of-Worms/AoW Session 008.md",
+                "file": "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AoW Session 008"
+              "title": "Outline of Abadar's Flawless Scale - Option 1"
             }
           },
           {
-            "id": "e555763106ff4483",
+            "id": "c7e2ab53cb2ae82b",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -205,29 +162,13 @@
             }
           },
           {
-            "id": "a6da6ae470dfc03c",
+            "id": "f755f626e9ccb41e",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
               "icon": "dices",
               "title": "Dice Tray"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7e7fccc656bc2e03",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "db0065e186747ab5",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
             }
           }
         ]
@@ -239,7 +180,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pexels-banner:🚩 Pixel Banner Menu": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -255,58 +195,14 @@
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "helpmate:HelpMate": false
+      "helpmate:HelpMate": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "b458cba3548e93a9",
+  "active": "28c48d9821a8d63e",
   "lastOpenFiles": [
-    "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 2.md",
     "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 3.md",
-    "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 1.md",
-    "1-GM Toolkit/Tests/Untitled.md",
-    "3-Rules/Bestiaries/Uniques/Kenora.md",
-    "1-GM Toolkit/Tests/NPCGen.md",
-    "2-Party/Age of Worms/Haight Enashberry.md",
-    "3-Rules/Bestiaries/Uniques/Filge.md",
-    "3-Rules/Character Building/Spells/B/Bacchanalia.md",
-    "1-GM Toolkit/Tests/Item Card Dataview Template.md",
-    "1-GM Toolkit/DC Calculator.md",
-    "zz-Templates/GM Templates/Locations/Template - Adventure.md",
-    "zz-Attachments/Age of Worms-20241013135345875.webp",
-    "zz-Templates/GM Templates/Characters/Template - Organization.md",
-    "zz-Templates/GM Templates/Characters/Template - Hierarchy.md",
-    "zz-Templates/GM Templates/Characters/Template - Deity.md",
-    "zz-Templates/GM Templates/Characters/Template - Player.md",
-    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
-    "3-Rules/Bestiaries/Uniques/The Faceless One.md",
-    "3-Rules/Bestiaries/Homebrew/T/Tengu Blade Sovereign.md",
-    "3-Rules/Skills.md",
-    "zz-Attachments/Tengu blade Soverign.jpg",
-    "zz-Attachments/Tengu blade Soverign.jpg.crdownload",
-    "3-Rules/GM Tools/Bestiary Ability Glossary/Sneak Attack.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 011.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 012.md",
-    "5-World/Factions/The Aetherial Wardens.md",
-    "5-World/Factions/Dungeon Seekers Guild.md",
-    "1-GM Toolkit/Tests/DC Calculator WIP.md",
-    "zz-Attachments/Assets/AdventureIcon.png",
-    "zz-Attachments/Assets/ImagePlaceholder.png",
-    "zz-Attachments/Assets/PlaceholderImage.png",
-    "zz-Attachments/Assets/PartyLogo.jpg",
-    "zz-Attachments/Assets/Northern Faerun Map.jpg",
-    "zz-Attachments/Assets/MapPlaceholder.png",
-    "zz-Attachments/The Known World.png",
-    "5-World/Maps",
-    "zz-Attachments/Passage of the Face.webp",
-    "zz-Attachments/Encounter.jpg.crdownload",
-    "3-Rules/Character Building/Spells/Z",
-    "3-Rules/Character Building/Spells/Y",
-    "3-Rules/Character Building/Spells/W",
-    "3-Rules/Character Building/Spells/V",
-    "3-Rules/Character Building/Spells/U",
-    "3-Rules/Character Building/Spells/T",
-    "3-Rules/Character Building/Spells/S",
-    "3-Rules/Bestiaries/Bestiary 3/Untitled 1.canvas",
-    "3-Rules/Bestiaries/Bestiary 3/Untitled.canvas"
+    "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 2.md",
+    "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 1.md"
   ]
 }

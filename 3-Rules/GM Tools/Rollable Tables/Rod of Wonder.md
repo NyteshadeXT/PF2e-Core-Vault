@@ -16,7 +16,7 @@ This peculiar rod is strange and unpredictable. Each time it is activated, it pr
 | 4-8 | [[3-Rules/Character Building/Spells/D/Darkness\|Darkness]] |
 | 9 | Summon a [[3-Rules/Bestiaries/Bestiary 1/G/Giant Stag Beetle\|Giant Stag Beetle]] (5th-level [[Summon Animal\|Summon Animal]]) |
 | 10-13 | A stream of 600 large and colorful butterflies pours forth, fluttering in a 20-foot burst for 2 rounds; creatures are [[Conditions/Blinded\|Blinded]] while in the cloud of butterflies |
-| 14-15 | All the target's weapons animate with the effects of the [[Animated\|Dancing]] rune |
+| 14-15 | All the target's weapons animate with the effects of the [[3-Rules/Character Building/Equipment/A/Animated\|Dancing]] rune |
 | 16-25 | [[Lightning Bolt\|Lightning Bolt]] |
 | 26-29 | Grass grows in a 60-foot cone in front of the rod, or existing grass grows at 10 × normal rate |
 | 30 | Target turns blue, green, or purple with an unlimited duration |

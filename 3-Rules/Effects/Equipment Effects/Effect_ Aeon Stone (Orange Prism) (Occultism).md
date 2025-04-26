@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Aeon Stone (Amplifying)|Aeon Stone (Orange Prism)]] when the last spell you cast was an Occult spell.
+Granted by [[3-Rules/Character Building/Equipment/A/Aeon Stone (Amplifying)|Aeon Stone (Orange Prism)]] when the last spell you cast was an Occult spell.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

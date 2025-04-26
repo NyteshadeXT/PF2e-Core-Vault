@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Ankhrav Duster|Ankhrav Duster]]
+Granted by [[3-Rules/Character Building/Equipment/A/Ankhrav Duster|Ankhrav Duster]]
 
 Your Strikes with the _ankhrav duster_ deal an additional 1d6 persistent acid damage.
 

@@ -15,7 +15,7 @@ Table of 15th-Level Permanent Items
 | 1-3 | [[Plate Armor of the Deep\|Plate Armor of the Deep]] |
 | 4-6 | [[Crystal Ball (Selenite)\|Crystal Ball (Selenite)]] |
 | 7-9 | [[Wondrous Figurine (Obsidian Steed)\|Wondrous Figurine (Obsidian Steed)]] |
-| 10-12 | [[Antimagic\|Antimagic]] |
+| 10-12 | [[3-Rules/Character Building/Equipment/A/Antimagic\|Antimagic]] |
 | 13-18 | [[Corrosive (Greater)\|Corrosive (Greater)]] |
 | 19-24 | [[Flaming (Greater)\|Flaming (Greater)]] |
 | 25-30 | [[Frost (Greater)\|Frost (Greater)]] |

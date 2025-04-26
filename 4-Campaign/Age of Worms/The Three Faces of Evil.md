@@ -1223,7 +1223,7 @@ His two acolytes wear tattered purple robes and prominent holy symbols of Vecna.
 **The Cauldron** The cauldron contains the rest of the unfortunate skeleton’s organs. Breaking the seal releases an awful stench, Anyone in the room must make a DC 15 Fortitude save or become [[Sickened| Sickened 3]]. The cauldron contains а mixture of chemicals and human organs. 
 
 > [!tip]+ Treasure
-> The beakers, tubes, and other glassware are a complete [[Alchemist's Lab (Expanded)]]. The liquids within them. include two vials of [[Acid Flask (Moderate)]], three vials of [[Alchemist's Fire (Moderate)]], and a wide variety of other chemicals. 
+> The beakers, tubes, and other glassware are a complete [[3-Rules/Character Building/Equipment/A/Alchemist's Lab (Expanded)]]. The liquids within them. include two vials of [[3-Rules/Character Building/Equipment/A/Acid Flask (Moderate)]], three vials of [[3-Rules/Character Building/Equipment/A/Alchemist's Fire (Moderate)]], and a wide variety of other chemicals. 
 > 
 > Scattered about the Faceless One's laboratory, amidst his tools and equipment, are 11 gp and 11 sp in coins, six garnets worth 3 gp each, а [[Cloak of Repute]], and a [[Sturdy Shield (Minor)]].
 > 
@@ -1231,14 +1231,14 @@ His two acolytes wear tattered purple robes and prominent holy symbols of Vecna.
 > 
 > - [ ] gp::29
 > - [ ] sp::11
-> - [ ] permanent::[[Alchemist's Lab (Expanded)|Alchemist's Lab (Expanded)]] [ilvl::3] [gp::55]
+> - [ ] permanent::[[3-Rules/Character Building/Equipment/A/Alchemist's Lab (Expanded)|Alchemist's Lab (Expanded)]] [ilvl::3] [gp::55]
 > - [ ] permanent::[[Cloak of Repute|Cloak of Repute]] [ilvl::4] [gp::90]
 > - [ ] permanent::[[Sturdy Shield (Minor)|Sturdy Shield (Minor)]] [ilvl::4] [gp::100]
-> - [ ] consumable::[[Acid Flask (Moderate)|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
-> - [ ] consumable::[[Acid Flask (Moderate)|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
-> - [ ] consumable::[[Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
-> - [ ] consumable::[[Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
-> - [ ] consumable::[[Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
+> - [ ] consumable::[[3-Rules/Character Building/Equipment/A/Acid Flask (Moderate)|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
+> - [ ] consumable::[[3-Rules/Character Building/Equipment/A/Acid Flask (Moderate)|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
+> - [ ] consumable::[[3-Rules/Character Building/Equipment/A/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
+> - [ ] consumable::[[3-Rules/Character Building/Equipment/A/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
+> - [ ] consumable::[[3-Rules/Character Building/Equipment/A/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
 
 # Part 5: The God in the Pool
 **Encounter Difficulty:**   

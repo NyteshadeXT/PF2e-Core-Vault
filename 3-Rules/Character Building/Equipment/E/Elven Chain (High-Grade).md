@@ -19,7 +19,7 @@ license: ORC
 **Bulk** L; **Size** med
 **Usage** wornarmor
 
-Elven chain is a [[Chain Shirt|Chain Shirt]] made of dawnsilver that glitters in even the faintest light. Because it's constructed with small, supple rings, it has no check penalty.
+Elven chain is a [[3-Rules/Character Building/Equipment/C/Chain Shirt|Chain Shirt]] made of dawnsilver that glitters in even the faintest light. Because it's constructed with small, supple rings, it has no check penalty.
 
 Created by elven artisans employing ancient crafting techniques, elven chain is exceptionally quiet. Unlike other chain shirts-even other dawnsilver chain shirts-elven chain does not have the noisy trait. This suit of armor can be etched with runes like any other dawnsilver chain shirt.
 

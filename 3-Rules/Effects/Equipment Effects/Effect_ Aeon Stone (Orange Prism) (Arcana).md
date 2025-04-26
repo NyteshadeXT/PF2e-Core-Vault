@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by activating [[Aeon Stone (Amplifying)|Aeon Stone (Orange Prism)]] when the last spell you cast was an Arcane spell.
+Granted by activating [[3-Rules/Character Building/Equipment/A/Aeon Stone (Amplifying)|Aeon Stone (Orange Prism)]] when the last spell you cast was an Arcane spell.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

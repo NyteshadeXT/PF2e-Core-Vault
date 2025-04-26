@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Aeon Stone (Sprouting)|Aeon Stone (Sprouting)]]
+Granted by [[3-Rules/Character Building/Equipment/A/Aeon Stone (Sprouting)|Aeon Stone (Sprouting)]]
 
 You gain 8 temporary Hit Points.
 

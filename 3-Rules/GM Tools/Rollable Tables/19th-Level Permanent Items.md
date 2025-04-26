@@ -24,7 +24,7 @@ Table of 19th-Level Permanent Items
 | 46 | [[Luck Blade (Wishing)\|Luck Blade (Wishing)]] |
 | 47-49 | [[Mattock of the Titans\|Mattock of the Titans]] |
 | 50-55 | +3 major striking Handwraps of Mighty Blows |
-| 56-58 | [[Aeon Stone (Lavender and Green Ellipsoid)\|Aeon Stone (Lavender and Green Ellipsoid)]] |
+| 56-58 | [[3-Rules/Character Building/Equipment/A/Aeon Stone (Lavender and Green Ellipsoid)\|Aeon Stone (Lavender and Green Ellipsoid)]] |
 | 59-64 | [[Berserker's Cloak (Greater)\|Berserker's Cloak (Greater)]] |
 | 65-67 | [[Robe of the Archmagi (Greater)\|Robe of the Archmagi (Greater)]] |
 | 68-73 | [[Third Eye\|Third Eye]] |

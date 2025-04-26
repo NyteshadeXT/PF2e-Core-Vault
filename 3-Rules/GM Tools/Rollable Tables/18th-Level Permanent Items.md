@@ -20,7 +20,7 @@ Table of 18th-Level Permanent Items
 | 31-36 | [[Marvelous Medicines (Greater)\|Marvelous Medicines (Greater)]] |
 | 37-42 | [[Possibility Tome\|Possibility Tome]] |
 | 43-48 | [[Thurible of Revelation (Greater)\|Thurible of Revelation (Greater)]] |
-| 49-54 | [[Armor Potency (+3)\|Armor Potency (+3)]] |
+| 49-54 | [[3-Rules/Character Building/Equipment/A/Armor Potency (+3)\|Armor Potency (+3)]] |
 | 55-60 | [[Fortification (Greater)\|Fortification (Greater)]] |
 | 61 | [[Indestructible Shield\|Indestructible Shield]] |
 | 62-64 | [[Reflecting Shield\|Reflecting Shield]] |

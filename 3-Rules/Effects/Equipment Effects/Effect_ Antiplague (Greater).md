@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Antiplague (Greater)|Antiplague (Greater)]]
+Granted by [[3-Rules/Character Building/Equipment/A/Antiplague (Greater)|Antiplague (Greater)]]
 
 Implemented effects:
 

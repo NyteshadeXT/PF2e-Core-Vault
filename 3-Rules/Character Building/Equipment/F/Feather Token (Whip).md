@@ -23,7 +23,7 @@ Each feather token appears to be a simple feather from some exotic bird. The fea
 
 **Activate** `pf2:1` Interact
 
-This feather transforms into a _+1 striking [[Animated|Dancing]] whip_ when activated. The whip immediately jumps from your grasp and proceeds to attack your enemies until 1 minute has passed or it fails its flat check for _dancing_, at which point it vanishes. If the whip's target isn't prone, the whip uses its actions to attempt to Trip that creature instead of making a Strike. The whip's total attack modifier for Striking or Tripping is +18 instead of the normal bonus for a _dancing_ weapon.
+This feather transforms into a _+1 striking [[3-Rules/Character Building/Equipment/A/Animated|Dancing]] whip_ when activated. The whip immediately jumps from your grasp and proceeds to attack your enemies until 1 minute has passed or it fails its flat check for _dancing_, at which point it vanishes. If the whip's target isn't prone, the whip uses its actions to attempt to Trip that creature instead of making a Strike. The whip's total attack modifier for Striking or Tripping is +18 instead of the normal bonus for a _dancing_ weapon.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

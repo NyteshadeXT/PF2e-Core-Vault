@@ -25,7 +25,7 @@ Table of 9th-Level Permanent Items
 | 55-60 | [[Wand of Continuation (3rd-Rank Spell)\|Wand of Continuation (3rd-Rank Spell)]] |
 | 61-66 | [[Wand of Shardstorm (3rd-Rank Spell)\|Wand of Manifold Missiles (3rd-Rank Spell)]] |
 | 67-72 | [[Gloom Blade\|Gloom Blade]] |
-| 73-78 | [[Armbands of Athleticism\|Armbands of Athleticism]] |
+| 73-78 | [[3-Rules/Character Building/Equipment/A/Armbands of Athleticism\|Armbands of Athleticism]] |
 | 79-81 | [[Belt of the Five Kings\|Belt of the Five Kings]] |
 | 82-87 | [[Bracers of Missile Deflection (Greater)\|Bracers of Missile Deflection (Greater)]] |
 | 88-93 | [[Coyote Cloak (Greater)\|Coyote Cloak (Greater)]] |

@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-This alchemical candle is attached to a tall pole and grounding stake. When the flare is lit, it sprays a concentrated cloud of pheromones to attract the attention of a specific kind of animal (see [[Animal Pheromones (Greater)|alchemical pheromones]]). Similar to animal pheromones, when you learn the formula for a pheromone flare, you learn the formulas for all common animals.
+This alchemical candle is attached to a tall pole and grounding stake. When the flare is lit, it sprays a concentrated cloud of pheromones to attract the attention of a specific kind of animal (see [[3-Rules/Character Building/Equipment/A/Animal Pheromones (Greater)|alchemical pheromones]]). Similar to animal pheromones, when you learn the formula for a pheromone flare, you learn the formulas for all common animals.
 
 A pheromone flare has a built-in delayed activation timer of up to 1 hour. When it's activated, the flare releases a cloud of pheromones in a @Template\[emanation|distance:60\] that lasts for 1 hour. A strong wind reduces the emanation to 15 feet for as long as the wind lasts. Moving the flare after it has been activated ends the effect. A designated animal that enters the area must attempt a DC 35 Will check save with the following effects. Animals with an Intelligence modifier of –3 or higher increase the result of their save by one step.
 

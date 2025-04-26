@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Alchemist Goggles|Alchemist Goggles]]
+Granted by [[3-Rules/Character Building/Equipment/A/Alchemist Goggles|Alchemist Goggles]]
 
 When making Strikes with alchemical bombs, you ignore lesser cover.
 

@@ -12,9 +12,9 @@ Table of Lesser Semiprecious Stones
 
 | 1d100 | result |
 |------|--------|
-| 1-7 | [[Agate\|Agate]] |
-| 8-14 | [[Alabaster\|Alabaster]] |
-| 15-21 | [[Azurite\|Azurite]] |
+| 1-7 | [[3-Rules/Character Building/Equipment/A/Agate\|Agate]] |
+| 8-14 | [[3-Rules/Character Building/Equipment/A/Alabaster\|Alabaster]] |
+| 15-21 | [[3-Rules/Character Building/Equipment/A/Azurite\|Azurite]] |
 | 22-28 | [[Hematite\|Hematite]] |
 | 29-35 | [[Lapis lazuli\|Lapis lazuli]] |
 | 36-42 | [[3-Rules/Character Building/Equipment/M/Malachite\|Malachite]] |

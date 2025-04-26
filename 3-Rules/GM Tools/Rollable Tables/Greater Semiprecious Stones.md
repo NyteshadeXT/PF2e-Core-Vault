@@ -12,8 +12,8 @@ Table of Greater Semiprecious Stones
 
 | 1d100 | result |
 |------|--------|
-| 1-10 | [[Amber\|Amber]] |
-| 11-20 | [[Amethyst\|Amethyst]] |
+| 1-10 | [[3-Rules/Character Building/Equipment/A/Amber\|Amber]] |
+| 11-20 | [[3-Rules/Character Building/Equipment/A/Amethyst\|Amethyst]] |
 | 21-30 | [[Chrysoberyl\|Chrysoberyl]] |
 | 31-40 | [[Coral\|Coral]] |
 | 41-50 | [[Garnet\|Garnet]] |

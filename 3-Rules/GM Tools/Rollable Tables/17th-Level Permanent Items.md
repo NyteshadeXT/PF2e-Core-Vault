@@ -12,7 +12,7 @@ Table of 17th-Level Permanent Items
 
 | 1d36 | result |
 |------|--------|
-| 1 | [[Anklets of Alacrity\|Anklets of Alacrity]] |
+| 1 | [[3-Rules/Character Building/Equipment/A/Anklets of Alacrity\|Anklets of Alacrity]] |
 | 2 | [[Belt of Giant Strength\|Belt of Giant Strength]] |
 | 3 | [[Belt of Long Life\|Belt of Regeneration]] |
 | 4 | [[Circlet of Persuasion\|Circlet of Persuasion]] |
@@ -33,8 +33,8 @@ Table of 17th-Level Permanent Items
 | 20 | [[Searing Blade (Greater)\|Flame Tongue (Greater)]] |
 | 21 | [[Luck Blade\|Luck Blade]] |
 | 22 | Dawnsilver Weapon (High-Grade) |
-| 24 | [[Alchemist Goggles (Major)\|Alchemist Goggles (Major)]] |
-| 25 | [[Armbands of Athleticism (Greater)\|Armbands of Athleticism (Greater)]] |
+| 24 | [[3-Rules/Character Building/Equipment/A/Alchemist Goggles (Major)\|Alchemist Goggles (Major)]] |
+| 25 | [[3-Rules/Character Building/Equipment/A/Armbands of Athleticism (Greater)\|Armbands of Athleticism (Greater)]] |
 | 27 | [[Cloak of the Bat (Greater)\|Cloak of the Bat (Greater)]] |
 | 28 | [[Daredevil Boots (Greater)\|Daredevil Boots (Greater)]] |
 | 29 | [[Dread Blindfold\|Dread Blindfold]] |

@@ -29,13 +29,13 @@ From _[[Class Features/Blessed Armament|Blessed Armament]]_
 
 From _[[Feats/Radiant Armament|Radiant Armament]]_:
 
-[[Astral|Astral]], [[Brilliant|Brilliant]], [[Holy|Holy]], or [[Unholy|Unholy]]
+[[3-Rules/Character Building/Equipment/A/Astral|Astral]], [[Brilliant|Brilliant]], [[Holy|Holy]], or [[Unholy|Unholy]]
 
 * * *
 
 From _[[Feats/Armament Paragon|Armament Paragon]]_:
 
-[[Animated|Animated]], [[Vitalizing (Greater)|Vitalizing (Greater)]], or [[Keen|Keen]]
+[[3-Rules/Character Building/Equipment/A/Animated|Animated]], [[Vitalizing (Greater)|Vitalizing (Greater)]], or [[Keen|Keen]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

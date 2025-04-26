@@ -13,7 +13,7 @@ Table of 14th-Level Permanent Items
 | 1d120 | result |
 |------|--------|
 | 1-6 | Magic Armor (+2 Greater Resilient) |
-| 7-12 | [[Alacritous Horseshoes (Greater)\|Horseshoes of Speed (Greater)]] |
+| 7-12 | [[3-Rules/Character Building/Equipment/A/Alacritous Horseshoes (Greater)\|Horseshoes of Speed (Greater)]] |
 | 13-15 | [[Crystal Ball (Clear Quartz)\|Crystal Ball (Clear Quartz)]] |
 | 16-21 | [[Primeval Mistletoe (Greater)\|Primeval Mistletoe (Greater)]] |
 | 22-27 | [[Rod of Negation\|Rod of Negation]] |

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Viking Weapon Familiarity
 * * *
-You are even more skilled in the weapons of your people. You gain the critical specialization effects of the [[Battle Axe|Battle Axe]], [[Hatchet|Hatchet]], [[Longsword|Longsword]], and [[Shortsword|Shortsword]].
+You are even more skilled in the weapons of your people. You gain the critical specialization effects of the [[3-Rules/Character Building/Equipment/B/Battle Axe|Battle Axe]], [[Hatchet|Hatchet]], [[Longsword|Longsword]], and [[Shortsword|Shortsword]].
 
 Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in the above four weapons.
 

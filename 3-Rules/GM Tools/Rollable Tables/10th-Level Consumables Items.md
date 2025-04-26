@@ -13,8 +13,8 @@ Table of 10th-Level Consumables Items
 | 1d72 | result |
 |------|--------|
 | 1-6 | [[Elemental Gem\|Elemental Gem]] |
-| 7-12 | [[Antidote (Greater)\|Antidote (Greater)]] |
-| 13-18 | [[Antiplague (Greater)\|Antiplague (Greater)]] |
+| 7-12 | [[3-Rules/Character Building/Equipment/A/Antidote (Greater)\|Antidote (Greater)]] |
+| 13-18 | [[3-Rules/Character Building/Equipment/A/Antiplague (Greater)\|Antiplague (Greater)]] |
 | 19-24 | [[Bravo's Brew (Moderate)\|Bravo's Brew (Moderate)]] |
 | 25-30 | [[Eagle Eye Elixir (Greater)\|Eagle Eye Elixir (Greater)]] |
 | 31-36 | [[Mistform Elixir (Greater)\|Mistform Elixir (Greater)]] |

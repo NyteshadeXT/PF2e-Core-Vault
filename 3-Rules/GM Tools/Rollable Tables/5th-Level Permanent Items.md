@@ -17,7 +17,7 @@ Table of 5th-Level Permanent Items
 | 13-18 | Silver Armor (Low-Grade) |
 | 19-21 | [[Holy Prayer Beads\|Holy Prayer Beads]] |
 | 22-27 | [[Skeleton Key\|Skeleton Key]] |
-| 28-33 | [[Armor Potency (+1)\|Armor Potency (+1)]] |
+| 28-33 | [[3-Rules/Character Building/Equipment/A/Armor Potency (+1)\|Armor Potency (+1)]] |
 | 34-39 | [[Raiment\|Glamered]] |
 | 40-45 | [[Vitalizing\|Disrupting]] |
 | 46-51 | [[Pocket Stage\|Pocket Stage]] |

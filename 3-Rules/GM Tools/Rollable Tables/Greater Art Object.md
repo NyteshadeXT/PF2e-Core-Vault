@@ -13,7 +13,7 @@ Table of Greater Art Objects
 | 1d100 | result |
 |------|--------|
 | 1-5 | [[Gilded ceremonial armor\|Gilded ceremonial armor]] |
-| 6-10 | [[Ancient dragon skull etched with mystic sigils\|Ancient dragon skull etched with mystic sigils]] |
+| 6-10 | [[3-Rules/Character Building/Equipment/A/Ancient dragon skull etched with mystic sigils\|Ancient dragon skull etched with mystic sigils]] |
 | 11-15 | [[Original manuscript from a world‑famous author\|Original manuscript from a world‑famous author]] |
 | 16-20 | [[Gold and aquamarine diadem\|Gold and aquamarine diadem]] |
 | 21-25 | [[Gold dragon statuette\|Gold dragon statuette]] |

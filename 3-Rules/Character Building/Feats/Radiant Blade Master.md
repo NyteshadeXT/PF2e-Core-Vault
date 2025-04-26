@@ -21,7 +21,7 @@ license: OGL
 * * *
 Your divine ally turns your chosen weapon into a paragon of its type.
 
-When you choose the weapon for your blade divine ally during your preparations, add the following property runes to the list of effects you can choose from: [[Animated|Dancing]], [[Vitalizing (Greater)|Vitalizing (Greater)]], and [[Keen|Keen]].
+When you choose the weapon for your blade divine ally during your preparations, add the following property runes to the list of effects you can choose from: [[3-Rules/Character Building/Equipment/A/Animated|Dancing]], [[Vitalizing (Greater)|Vitalizing (Greater)]], and [[Keen|Keen]].
 
 [[Feat_Feature Effects/Effect_ Blade Ally|Effect: Blade Ally]]
 

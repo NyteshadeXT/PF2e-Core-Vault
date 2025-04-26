@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Antidote (Major)|Antidote (Major)]]
+Granted by [[3-Rules/Character Building/Equipment/A/Antidote (Major)|Antidote (Major)]]
 
 Implemented effects:
 

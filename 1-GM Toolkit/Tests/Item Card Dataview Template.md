@@ -1,6 +1,11 @@
 ```dataviewjs 
-const {  attunement = {}, damage = {}, description = "",  mechanics = "", image, page, range = "", subweight, tags = [], value = "", weight = "" } = dv.current();
+//const {  attunement = {}, damage = {}, description = "",  mechanics = "", image, page, range = "", subweight, tags = [], //value = "", weight = "" } = dv.current();
+//const name = dv.current().name;
+
+const {  attunement = {}, damage = {}, description = "", mechanics = "", image, page, range = "", subweight, tags = [], value = "", weight = "", baseAC = "", modAC = "", dexCap = "", strRequirement = "", checkPenalty = "", speedPenalty = ""  
+} = dv.current();
 const name = dv.current().name;
+
 
 // ===== SOURCE HANDLER =====
 let source = dv.current().source ?? "", formattedSource = source;
@@ -37,7 +42,7 @@ if (pg && pg.trim() !== "" && source && source.endsWith(".pdf)")) {
 
 
 // ===== IMAGE HANDLER =====
-let imageFormat = app.vault.getAbstractFileByPath(image) ? `>![[${image}|itemcard200]]\n` : "";
+let imageFormat = app.vault.getAbstractFileByPath(image) ? `>![[${image}|hsmall]]\n` : "";
 
 // ===== /IMAGE HANDLER =====
 
@@ -72,6 +77,7 @@ if (attunement.reqAttune === true && attunement.reqAttune) {
 // ===== TYPE, RARITY, ATTUNEMENT FORMATTER =====
 let type = '';
 let attackType = '';
+let armorType = "";
 let weaponClass = '';
 
 // Check if 'Weapon' tag exists
@@ -90,26 +96,46 @@ if (tags.includes('Weapon')) {
     weaponClass = 'Simple';
   }
 
-  // Combine the values for output, skipping blank values
+  // Construct type for weapons
   type = `${weaponClass ? weaponClass : ''} ${attackType ? attackType : ''} Weapon`.trim();
+}
+
+// Check if 'Armor' tag exists
+if (tags.includes('Armor')) {
+  // Determine armor classification
+  if (tags.includes('Light')) {
+    armorType = 'Light';
+  } else if (tags.includes('Medium')) {
+    armorType = 'Medium';
+  } else if (tags.includes('Heavy')) {
+    armorType = 'Heavy';
+  }
+
+  // Assign armor type as "Light Armor", etc.
+  type = armorType ? `${armorType} Armor` : "Armor";
 }
 
 const itemlevel = dv.current().level ?? '';
 
-let subHeader = ''
-if (tags.some(tag => ['Finesse', 'Heavy', 'Light', 'Reach' , 'Special' , 'Two-Handed'].includes(tag))) {
-  subHeader = ' ' + tags
-    .filter(tag => ['Finesse', 'Heavy', 'Light', 'Reach' , 'Special' , 'Two-Handed'].includes(tag))
-    .map(tag => `[[${tag}]]`) // Wrap each tag in [[ ]]
+
+// List of tags to exclude
+const excludedTags = ['Weapon', 'Melee', 'Ranged', 'Martial', 'Simple', 'Armor', 'Light', 'Medium', 'Heavy', 'Uncommon', 'Rare'];
+
+// Filter out tags that are NOT in the exclusion list
+let subHeaderTags = tags.filter(tag => !excludedTags.includes(tag));
+
+let subHeader = '';
+if (subHeaderTags.length > 0) {
+  subHeader = ' ' + subHeaderTags
+    .map(tag => `<span style="border: 3px solid #F4E1C1; background-color: #833C0C; color: white; padding: 3px 6px; border-radius: 4px;">[[${tag}]]</span>`)
     .join(', ');
 }
 
-const rarities = ['Common', 'Uncommon', 'Rare']
-const rarity = rarities.find(rarity => tags.includes(rarity)) || '';// Find the first matching rarity or returns empty string
-let itemTypeRarityAttune = [subHeader, type, rarity, itemlevel].filter(Boolean).join(", ") + attune;
+const rarities = ['Common', 'Uncommon', 'Rare'];
+const rarity = rarities.find(rarity => tags.includes(rarity)) || ''; // Find the first matching rarity or return empty string
+let itemTypeRarityAttune = [type, rarity, itemlevel].filter(Boolean).join(", ") + attune;
 
 // ===== /TYPE, RARITY, ATTUNEMENT FORMATTER =====
-
 
 // ===== DAMAGE FORMATTER =====
 let damagePieces = [];
@@ -170,7 +196,6 @@ if (weight != "") {
 // ===== /WEIGHT FORMATTER =====
 
 
-
 // ===== RANGED AMMO AND WEAPON FORMATTER =====
 let rangeFormat = '';
 if (tags.includes('Ammunition') || tags.includes('Thrown')) {
@@ -184,22 +209,56 @@ if (tags.includes('Loading')) {
 if (rangeFormat) { rangeFormat += '|'; }
 // ===== /RANGED AMMO AND WEAPON FORMATTER =====
 
-// ===== USAGE FORMATTER =====
-const usage = dv.current().usage ?? ''; // Get usage field, default to empty string
+// ===== USAGE AND GROUP FORMATTER =====
+let usageFormat = '';
+let groupFormat = '';
 
-// ===== /USAGE FORMATTER =====
+if (dv.current().usage) {usageFormat = `\n>|Usage:|${dv.current().usage}|`;
+}
+
+if (dv.current().group) {groupFormat = `\n>|Group:|${dv.current().group}|`;
+}
+// ===== /USAGE AND GROUP FORMATTER =====
+
+// ===== ARMOR FORMATTER =====
+let baseACFormat = '';
+let modACFormat = '';
+let dexCapFormat = '';
+let strRequirementFormat = '';
+let checkPenaltyFormat = '';
+let speedPenaltyFormat = '';
+
+if (dv.current().baseAC) {baseACFormat = `\n>|Base AC:|${dv.current().baseAC}|`;
+}
+
+if (dv.current().modAC) {modACFormat = `\n>|Modified AC:|${dv.current().modAC}|`;
+}
+
+if (dv.current().dexCap) {dexCapFormat = `\n>|Dex Cap:|${dv.current().dexCap}|`;
+}
+
+if (dv.current().strRequirement) {strRequirementFormat = `\n>|STR Requirement:|${dv.current().strRequirement}|`;
+}
+if (dv.current().checkPenalty) {checkPenaltyFormat = `\n>|Check Penalty:|${dv.current().checkPenalty}|`;
+}
+if (dv.current().speedPenalty) {speedPenaltyFormat = `\n>|Speed Penalty:|${dv.current().speedPenalty}|`;
+}
+
+// ===== /ARMOR FORMATTER =====
 
 
 let card = `>[!infobox|s-t no-i wfull itemcard] # ${name}
-${imageFormat}># <div style="position: relative; width: 100%;"><span style="color:#BCCAD8; position: absolute; left: 50%; font-size:20px; transform: translateX(-50%);">${itemTypeRarityAttune}</span><span style="font-size:20px; float: right; padding-right: 4px;">${formattedSource}</span></div>
+${imageFormat}># <div style="position: relative; width: 100%;"><span style="color:#375623; position: absolute; left: 50%; font-size:20px; transform: translateX(-50%);">${itemTypeRarityAttune}</span><br><div style="color:#833C0C; position: absolute; left: 50%; font-size:20px; transform: translateX(-50%);">${subHeader}</div></div><br><br>
 >|||
->|:-:|:-:|${damageFormat}${rangeFormat}${valueFormat}${weightFormat}${usage ? `\n>|Usage:|${usage}|` : ''}
+>|:-:|:-:|${baseACFormat}${modACFormat}${dexCapFormat}${strRequirementFormat}${checkPenaltyFormat}${speedPenaltyFormat}${groupFormat}${rangeFormat}${valueFormat}${weightFormat}${usageFormat}${damageFormat}
 >
 >>[!infobox|clean no-t no-i center item-text] <!-- -->
-${description.split("\n").map(line => line.trim() ? `${line}` : "").join("<br>")}
-<br>
-${mechanics.split("\n").map(line => line.trim() ? `${line}` : "").join("<br>")}
+>>${description.split("\n").map(line => line.trim() ? `${line}` : "").join("<br>")}
+>><br>
+>>${mechanics.split("\n").map(line => line.trim() ? `${line}` : "").join("<br>")}
+>><span style="color:#833C0C; font-size:20px; float: right; padding-right: 4px;">${formattedSource}</span>
 `;
+
 
 dv.paragraph(card);
 console.log(card);

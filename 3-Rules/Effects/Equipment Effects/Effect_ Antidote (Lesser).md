@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Antidote (Lesser)|Antidote (Lesser)]]
+Granted by [[3-Rules/Character Building/Equipment/A/Antidote (Lesser)|Antidote (Lesser)]]
 
 Implemented effects:
 

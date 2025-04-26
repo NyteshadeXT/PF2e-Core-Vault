@@ -15,4 +15,4 @@ tags:
 | 1-6 | [[Half Plate\|Half Plate]] |
 | 7-12 | [[Splint Mail\|Splint Mail]] |
 | 13-18 | [[Everlight Crystal\|Everlight Crystal]] |
-| 19-21 | [[Aeon Stone (Consumed)\|Aeon Stone (Consumed)]] |
+| 19-21 | [[3-Rules/Character Building/Equipment/A/Aeon Stone (Consumed)\|Aeon Stone (Consumed)]] |

@@ -21,7 +21,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-By combining a [[Alchemist's Fire (Lesser)|Alchemist's Fire (Lesser)]], a [[Blasting Stone (Lesser)|Blasting Stone (Lesser)]], and other catalysts with a pressure sensitive trigger, you create a snare that creates a fiery and thunderous explosion when triggered. The target and all creatures in adjacent squares take 1d4 persistent fire damage.
+By combining a [[3-Rules/Character Building/Equipment/A/Alchemist's Fire (Lesser)|Alchemist's Fire (Lesser)]], a [[Blasting Stone (Lesser)|Blasting Stone (Lesser)]], and other catalysts with a pressure sensitive trigger, you create a snare that creates a fiery and thunderous explosion when triggered. The target and all creatures in adjacent squares take 1d4 persistent fire damage.
 
 * * *
 

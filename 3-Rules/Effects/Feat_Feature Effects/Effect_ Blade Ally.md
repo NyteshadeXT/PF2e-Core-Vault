@@ -34,7 +34,7 @@ From _[[Feats/Radiant Blade Spirit|Radiant Blade Spirit]]_:
 
 From _[[Feats/Radiant Blade Master|Radiant Blade Master]]_:
 
-[[Animated|Dancing]], [[Vitalizing (Greater)|Vitalizing (Greater)]], or [[Keen|Keen]]
+[[3-Rules/Character Building/Equipment/A/Animated|Dancing]], [[Vitalizing (Greater)|Vitalizing (Greater)]], or [[Keen|Keen]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

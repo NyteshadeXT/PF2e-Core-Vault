@@ -85,4 +85,4 @@ The most common aluum is powered by the bound soul of a loyal city servant, but 
 
 * * *
 
-Aluums are powerful metal and stone constructs originally created by the Pactmasters to maintain order in Katapesh. The construction of each aluum includes the creation of an _[[Aluum Charm|Aluum Charm]]_, a brass pendant set with a blue crystal designed to control that particular construct. The charm constructed at the same time as an aluum is called its linked charm.
+Aluums are powerful metal and stone constructs originally created by the Pactmasters to maintain order in Katapesh. The construction of each aluum includes the creation of an _[[3-Rules/Character Building/Equipment/A/Aluum Charm|Aluum Charm]]_, a brass pendant set with a blue crystal designed to control that particular construct. The charm constructed at the same time as an aluum is called its linked charm.

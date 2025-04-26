@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You can rub this bronze-colored oil onto a melee weapon to grant it the _[[Animated|Animated]]_ rune. Once you fail a flat check for the weapon, causing it to fall, this effect ends.
+You can rub this bronze-colored oil onto a melee weapon to grant it the _[[3-Rules/Character Building/Equipment/A/Animated|Animated]]_ rune. Once you fail a flat check for the weapon, causing it to fall, this effect ends.
 
 *Source: Pathfinder GM Core*
 *ORC*

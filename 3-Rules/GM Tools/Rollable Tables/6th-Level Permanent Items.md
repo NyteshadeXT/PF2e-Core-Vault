@@ -32,7 +32,7 @@ Table of 6th-Level Permanent Items
 | 97-102 | [[Wand of Widening (2nd-Rank Spell)\|Wand of Widening (2nd-Rank Spell)]] |
 | 103-105 | [[Bloodletting Kukri\|Bloodletting Kukri]] |
 | 106-111 | [[Twining Staff\|Twining Staff]] |
-| 112-114 | [[Aeon Stone (Gold Nodule)\|Aeon Stone (Gold Nodule)]] |
+| 112-114 | [[3-Rules/Character Building/Equipment/A/Aeon Stone (Gold Nodule)\|Aeon Stone (Gold Nodule)]] |
 | 115-120 | [[Choker of Elocution\|Choker of Elocution]] |
 | 121-123 | [[Clandestine Cloak\|Clandestine Cloak]] |
 | 124-129 | [[Charm of Resistance\|Ring of Energy Resistance]] |

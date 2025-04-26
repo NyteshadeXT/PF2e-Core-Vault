@@ -1,0 +1,49 @@
+---
+obsidianUIMode: preview
+title: "Animal Staff (Major)"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - pf2e/weapon
+  - trait/magical
+  - trait/staff
+  - trait/two-hand-d8
+  - trait/common
+  - category/simple
+  - remaster
+aliases: "Compendium.pf2e.equipment-srd.Item.Oo7IpJQDSTmzUyzG"
+license: ORC
+---
+# Animal Staff (Major)
+## Item 12
+### [[magical|Magical]][[3-Rules/Trait Reference/S/staff|Staff]][[two-hand-d8]]
+
+|  |  |
+| -- | -- |
+| **Category** simple melee weapon | **Group** club |
+| **Price** 1900 gp |  |
+| **Bulk** 1 | **Size** med |
+| **Damage** 1d4 bludgeoning  | **Usage** held-in-one-hand |
+
+
+
+This staff is topped with carved animal and monster heads. While wielding the staff, you gain a +2 circumstance bonus to Nature checks to identify animals.
+
+**Activate** Cast a Spell
+
+**Effect** You expend a number of charges from the staff to cast a spell from its list.
+
+* * *
+
+*   **Cantrip** [[Know the Way|Know the Way]]
+*   **1st** [[Runic Body|Runic Body]] [[Summon Animal|Summon Animal]]
+*   **2nd** [[Animal Messenger|Animal Messenger]] [[Speak with Animals|Speak with Animals]] [[Summon Animal|Summon Animal]]
+*   **3rd** [[Animal Form|Animal Form]] [[Summon Animal|Summon Animal]]
+*   **4th** [[Summon Animal|Summon Animal]]
+*   **5th** [[Animal Form|Animal Form]] [[Moon Frenzy|Moon Frenzy]] [[Summon Animal|Summon Animal]]
+
+* * *
+
+**Craft Requirements** Supply one casting of all listed levels of all listed spells.
+
+*Source: Pathfinder GM Core*
+*ORC*

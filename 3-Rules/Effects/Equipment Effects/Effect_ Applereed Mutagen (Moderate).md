@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Applereed Mutagen (Moderate)|Applereed Mutagen (Moderate)]]
+Granted by [[3-Rules/Character Building/Equipment/A/Applereed Mutagen (Moderate)|Applereed Mutagen (Moderate)]]
 
 Implemented effects:
 

@@ -13,7 +13,7 @@ Table of 20th-Level Consumables Items
 | 1d25 | result |
 |------|--------|
 | 1-3 | [[Elixir of Rejuvenation\|Elixir of Rejuvenation]] |
-| 4 | [[Antimagic Oil\|Antimagic Oil]] |
+| 4 | [[3-Rules/Character Building/Equipment/A/Antimagic Oil\|Antimagic Oil]] |
 | 5-10 | [[Tears of Death\|Tears of Death]] |
 | 11-16 | [[Flying Blade Wheel Snare\|Flying Blade Wheel Snare]] |
 | 17-22 | [[Instant Evisceration Snare\|Instant Evisceration Snare]] |

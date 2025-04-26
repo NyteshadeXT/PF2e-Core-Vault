@@ -16,8 +16,8 @@ Table of 3rd-Level Consumables
 | 7-12 | [[Slumber Arrow\|Sleep Arrow]] |
 | 13-18 | [[Spellstrike Ammunition (Type I)\|Spellstrike Ammunition (Type I)]] |
 | 19-24 | [[Vine Arrow\|Vine Arrow]] |
-| 25-30 | [[Acid Flask (Moderate)\|Acid Flask (Moderate)]] |
-| 31-36 | [[Alchemist's Fire (Moderate)\|Alchemist's Fire (Moderate)]] |
+| 25-30 | [[3-Rules/Character Building/Equipment/A/Acid Flask (Moderate)\|Acid Flask (Moderate)]] |
+| 31-36 | [[3-Rules/Character Building/Equipment/A/Alchemist's Fire (Moderate)\|Alchemist's Fire (Moderate)]] |
 | 37-42 | [[Bottled Lightning (Moderate)\|Bottled Lightning (Moderate)]] |
 | 43-48 | [[Frost Vial (Moderate)\|Frost Vial (Moderate)]] |
 | 49-54 | [[Glue Bomb (Moderate)\|Tanglefoot Bag (Moderate)]] |

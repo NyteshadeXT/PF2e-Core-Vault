@@ -39,4 +39,4 @@ Table of 16th-Level Permanent Items
 | 99-104 | [[Frost Brand\|Frost Brand]] |
 | 105-110 | Silver Weapon (High-Grade) |
 | 111-116 | +3 greater striking Handwraps of Mighty Blows |
-| 117-119 | [[Aeon Stone (Amplifying)\|Aeon Stone (Amplifying)]] |
+| 117-119 | [[3-Rules/Character Building/Equipment/A/Aeon Stone (Amplifying)\|Aeon Stone (Amplifying)]] |

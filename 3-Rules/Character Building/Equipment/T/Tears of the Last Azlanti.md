@@ -34,7 +34,7 @@ Once per day, you can attempt to exchange the _aeon stone_ in a given bail for a
 | 2 | Rememberance | Tourmaline sphere |
 |  | **Active Power** Cast [[Hypercognition\|Hypercognition]] at will |  |
 | 3 | Resilience | Clear spindle |
-|  | **Active Power** Worn armor gains the [[Antimagic\|Antimagic]] property rune |  |
+|  | **Active Power** Worn armor gains the [[3-Rules/Character Building/Equipment/A/Antimagic\|Antimagic]] property rune |  |
 | 4 | Tenacity | Pink rhomboid |
 |  | **Active Power** Wielded weapons gain the [[Vorpal\|Vorpal]] property rune |  |
 | 5 | Wisdom | Orange prism |

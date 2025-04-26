@@ -26,7 +26,7 @@ license: OGL
 
 
 
-This +2 greater striking [[Animated|Dancing]] shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is broken halfway up its length, but this doesn't impair the sword's function.
+This +2 greater striking [[3-Rules/Character Building/Equipment/A/Animated|Dancing]] shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is broken halfway up its length, but this doesn't impair the sword's function.
 
 * * *
 

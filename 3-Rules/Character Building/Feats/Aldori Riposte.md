@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-You riposte with your [[Aldori Dueling Sword|Aldori Dueling Sword]] when your enemy leaves an opening. Make a melee Strike or use a [[Actions/Disarm|Disarm]] action against the triggering opponent using your Aldori dueling sword.
+You riposte with your [[3-Rules/Character Building/Equipment/A/Aldori Dueling Sword|Aldori Dueling Sword]] when your enemy leaves an opening. Make a melee Strike or use a [[Actions/Disarm|Disarm]] action against the triggering opponent using your Aldori dueling sword.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

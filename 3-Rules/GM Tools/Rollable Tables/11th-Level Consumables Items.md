@@ -13,8 +13,8 @@ Table of 11th-Level Consumables Items
 | 1d105 | result |
 |------|--------|
 | 1-6 | [[Spellstrike Ammunition (Type V)\|Spellstrike Ammunition (Type V)]] |
-| 7-12 | [[Acid Flask (Greater)\|Acid Flask (Greater)]] |
-| 13-18 | [[Alchemist's Fire (Greater)\|Alchemist's Fire (Greater)]] |
+| 7-12 | [[3-Rules/Character Building/Equipment/A/Acid Flask (Greater)\|Acid Flask (Greater)]] |
+| 13-18 | [[3-Rules/Character Building/Equipment/A/Alchemist's Fire (Greater)\|Alchemist's Fire (Greater)]] |
 | 19-24 | [[Bottled Lightning (Greater)\|Bottled Lightning (Greater)]] |
 | 25-30 | [[Frost Vial (Greater)\|Frost Vial (Greater)]] |
 | 31-36 | [[Glue Bomb (Greater)\|Tanglefoot Bag (Greater)]] |

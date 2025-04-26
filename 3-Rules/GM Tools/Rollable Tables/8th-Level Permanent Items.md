@@ -33,7 +33,7 @@ Table of 8th-Level Permanent Items
 | 104-109 | [[undefined]] |
 | 110-115 | [[undefined]] |
 | 116-121 | [[undefined]] |
-| 122-127 | [[Animal Staff (Greater)\|Animal Staff (Greater)]] |
+| 122-127 | [[3-Rules/Character Building/Equipment/A/Animal Staff (Greater)\|Animal Staff (Greater)]] |
 | 128-133 | [[Mentalist's Staff (Greater)\|Mentalist's Staff (Greater)]] |
 | 134-139 | [[Staff of Fire (Greater)\|Staff of Fire (Greater)]] |
 | 140-145 | [[Staff of Healing (Greater)\|Staff of Healing (Greater)]] |

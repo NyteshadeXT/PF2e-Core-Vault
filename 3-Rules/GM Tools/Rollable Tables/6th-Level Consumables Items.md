@@ -14,8 +14,8 @@ Table of 6th-Level Consumables Items
 |------|--------|
 | 1-6 | [[Dust of Appearance\|Dust of Appearance]] |
 | 7-12 | [[Feather Token (Tree)\|Feather Token (Tree)]] |
-| 13-18 | [[Antidote (Moderate)\|Antidote (Moderate)]] |
-| 19-24 | [[Antiplague (Moderate)\|Antiplague (Moderate)]] |
+| 13-18 | [[3-Rules/Character Building/Equipment/A/Antidote (Moderate)\|Antidote (Moderate)]] |
+| 19-24 | [[3-Rules/Character Building/Equipment/A/Antiplague (Moderate)\|Antiplague (Moderate)]] |
 | 25-30 | [[Mistform Elixir (Moderate)\|Mistform Elixir (Moderate)]] |
 | 31-36 | [[Oil of Weightlessness (Greater)\|Oil of Weightlessness (Greater)]] |
 | 37-42 | [[Salve of Antiparalysis\|Salve of Antiparalysis]] |

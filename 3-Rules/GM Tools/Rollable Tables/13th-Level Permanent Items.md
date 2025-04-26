@@ -18,7 +18,7 @@ Table of 13th-Level Permanent Items
 | 16-21 | [[Mail of Luck\|Mail of Luck]] |
 | 22-27 | [[Spacious Pouch (Type IV)\|Bag of Holding (Type IV)]] |
 | 28-33 | [[Wondrous Figurine (Marble Elephant)\|Wondrous Figurine (Marble Elephant)]] |
-| 34-36 | [[Animated\|Dancing]] |
+| 34-36 | [[3-Rules/Character Building/Equipment/A/Animated\|Dancing]] |
 | 37-39 | [[Keen\|Keen]] |
 | 40-42 | [[Spell Reservoir\|Spell-Storing]] |
 | 43-48 | [[Sturdy Shield (Greater)\|Sturdy Shield (Greater)]] |
@@ -27,7 +27,7 @@ Table of 13th-Level Permanent Items
 | 61-66 | [[Wand of Shardstorm (5th-Rank Spell)\|Wand of Manifold Missiles (5th-Rank Spell)]] |
 | 67-72 | [[Dwarven Thrower\|Dwarven Thrower]] |
 | 73-78 | [[Searing Blade\|Flame Tongue]] |
-| 79-81 | [[Aeon Stone (Pale Lavender Ellipsoid)\|Aeon Stone (Pale Lavender Ellipsoid)]] |
+| 79-81 | [[3-Rules/Character Building/Equipment/A/Aeon Stone (Pale Lavender Ellipsoid)\|Aeon Stone (Pale Lavender Ellipsoid)]] |
 | 82-87 | [[Propulsive Boots\|Boots of Speed]] |
 | 88-93 | [[Eye of Fortune\|Eye of Fortune]] |
 | 94-96 | [[Knapsack of Halflingkind (Greater)\|Knapsack of Halflingkind (Greater)]] |

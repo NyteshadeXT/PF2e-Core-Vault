@@ -23,7 +23,7 @@ Table of Moderate Art Objects
 | 41-45 | [[Porcelain vase inlaid with gold\|Porcelain vase inlaid with gold]] |
 | 46-50 | [[Enormous tapestry of a major battle\|Enormous tapestry of a major battle]] |
 | 51-55 | [[Gold necklace with peridots\|Gold necklace with peridots]] |
-| 56-60 | [[Alabaster idol\|Alabaster idol]] |
+| 56-60 | [[3-Rules/Character Building/Equipment/A/Alabaster idol\|Alabaster idol]] |
 | 61-65 | [[Coral idol of an elemental lord\|Coral idol of an elemental lord]] |
 | 66-70 | [[Silver mirror with gilded frame\|Silver mirror with gilded frame]] |
 | 71-75 | [[Silver flagon inscribed with fields\|Silver flagon inscribed with fields]] |

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Applereed Mutagen (Greater)|Applereed Mutagen (Greater)]]
+Granted by [[3-Rules/Character Building/Equipment/A/Applereed Mutagen (Greater)|Applereed Mutagen (Greater)]]
 
 Implemented effects:
 
