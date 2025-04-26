@@ -32,7 +32,7 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "+12"
-languages: "Abyssal, Common, Draconic, Giant, Infernal, Tengu"
+languages: "Astral, Common, Diabolic, Draconic, Jotun, Tengu"
 skills:
   - name: "Skills"
     desc: "Arcana +15, Occultism +14, Crafting +13, Deception +11, Society +11, Stealth +10"
@@ -57,7 +57,7 @@ attacks:
     desc: "`pf2:1` Dagger +12 (agile, finesse, versatile S)\n__Damage__ 1d4+2 piercing"
 
   - name: "Arcane Prepared Spells"
-    desc: "DC 23, attack +15; __3rd__ _[[Lightning Bolt]]_, _[[Summon Elemental]]_; __2nd__ _[[False Vitality]]_, _[[Floating Flame]]_, _[[Web]]_; __1st__ _[[Force Barrage]]_, _[[Mystic Armor]]_; __Cantrips (3rd)__ _[[Daze]]_, _[[Ray of Frost]]_, _[[Detect Magic]]_, _[[Shield]]_"
+    desc: "DC 23, attack +15; __3rd__ _[[Lightning Bolt]]_, _[[Elemental Absorption]]_, _[[Stinking Cloud]]_ ; __2nd__ _[[False Vitality]]_, _[[Floating Flame]]_, _[[Web]]_; __1st__ _[[Force Barrage]]_, _[[Grease]]_, _[[Mystic Armor]]_; __Cantrips (3rd)__ _[[Daze]]_, _[[Ray of Frost]]_, _[[Detect Magic]]_, _[[Shield]]_"
 
   - name: "Scrolls and Consumables"
     desc: "_Scrolls_: _Lightning Bolt (3rd)_, _Summon Elemental (3rd)_\n_Potions_: 4x _[[Lesser Healing Potion]]_"

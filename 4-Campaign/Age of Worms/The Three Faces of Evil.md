@@ -8,7 +8,7 @@ whichparty:
 adventure_status: In Progress
 adventure_level: 2
 total_xp: 2360
-completed_xp: 590
+completed_xp: 910
 awarded_pp: 0
 awarded_gp: 92
 awarded_sp: 21
@@ -841,7 +841,7 @@ darkMode: false
 
 # Encounter 18: Cliff Chamber
 **Encounter Difficulty:**   
-- [ ] moderate (80 XP) Level 4
+- [x] moderate (80 XP) Level 4
 
 > [!note]+ Read Aloud
 > The roof of this large cavern glistens twenty feet above and is traced with faint veins of iron ore. The quarters here are tight and cramped. Barely ten feet to the east, the cavern floor rises up into a nearly vertical slope.
@@ -865,7 +865,7 @@ The morlocks shout for help once they spot intruders. The monsters in areas 19 a
 
 # Encounter 19: Common Chamber
 **Encounter Difficulty:**   
-- [ ] severe (120 XP) Level 4
+- [x] severe (120 XP) Level 4
 
 > [!note]+ Read Aloud
 > The scent of rotting meat and offal fills the air here. Moldering furs, crude bedrolls and other signs of 2 campsite cover the floor of this large, natural cave. Spears and crude axes are piled near the entrance to the left, along with a disorganized stack of shields.
@@ -890,8 +890,8 @@ The morlocks fight to the death. They are fanatics to Enthnul's cause and are re
 > [!tip]+ Treasure
 > The morlock warriors keep their personal treasure here, hidden in a variety of small nooks and hollows. There are four treasure caches in the room. Each requires a DC 20 [[Search]] check to uncover. The first cache contains a jade figurine of Erythnul worth 10 gp, the second holds 50 sp in coins, the third has three garnets worth 3 gp each, and the fourth contains a silver necklace set with three gems worth 5 gp.
 > 
-> - [ ] gp::24
-> - [ ] sp::50
+> - [x] gp::24
+> - [x] sp::50
 
 # Encounter 20: Chieftain's Lodge
 **Encounter Difficulty:**   
@@ -928,7 +928,7 @@ The chieftain is a simple, brutal warrior and a bully at heart. He seeks out the
 
 # Encounter 21: Temple to Erythnul
 **Encounter Difficulty:**   
-- [ ] severe (120 XP) Level 4
+- [x] severe (120 XP) Level 4
 
 > [!note]+ Read Aloud
 > This long passage through the rocks winds down and down, deeper into the ground. It curves ahead like a spiral. The air grows musty and sickening with the scent of rotting flesh. Eventually, the passage opens into a wide cavern, where it ends at the top of a short cliff that stands ten feet above the cave floor below. From ahead, the dim glow of a lantern or small fire casts a dull, red glow.
@@ -1098,7 +1098,7 @@ Since the tengu rely on stealth and careful teamwork, they do not simply mob the
 > 
 > **Group 1** has a total of 16 gp in coins scatted about their bedrolls and camping gear.
 > **Group 2** has another 10 gp in coins, along with a small lockbox ([[Skills#Thievery|Thievery]] DC 20) that holds two small diamonds worth 5 gp each. 
-> **Group 3** has another 15 gp and a [[Reinforcing Rune (Minor)]] on a runestone kept hidden within a hollow in the floor of their chamber ([[Skills#Thievery|Thievery]] DC 20).
+> **Group 3** has another 15 gp and a [[Reinforcing Rune (Minor)]] on a runestone kept hidden within a hollow in the floor of their chamber ([[Skills#Perception|Perception]] DC 20).
 > 
 > - [ ] gp::51
 > - [ ] permanent::[[Reinforcing Rune (Minor)]] [ilvl::4] [gp::75]
@@ -1154,7 +1154,7 @@ At the start of the encounter, place the following foes on the map:
  - 2: [[Corrupted Priest]] W
  - 1: [[3-Rules/Bestiaries/Monster Core/Ghost Commoner|Ghost Commoner]] H
 
-```encounter-table
+```encounter
 name: The Inner Sanctum
 party: PartyName
 creatures:
@@ -1181,7 +1181,7 @@ The ghost moves to attack the PCs, driven by an intense hatred of all non-believ
 > [!tip]+ Treasure
 > In addition to their gear the cultists have 48 gold split between them.  The also each carry an [[Oak Potion]] and a [[Ghost Oil]].  Set upon the altar are a variety of offerings to Vecna. They include two golden goblets worth 5 gp each and a bronze sacrificial dagger set with blood red rubies worth 25 sp.
 > 
-> - [ ] gp::35
+> - [ ] gp::82
 > - [ ] sp::25
 > - [ ] consumable::[[Oak Potion|Oak Potion]] [ilvl::4] [gp::15]
 > - [ ] consumable::[[Oak Potion|Oak Potion]] [ilvl::4] [gp::15]

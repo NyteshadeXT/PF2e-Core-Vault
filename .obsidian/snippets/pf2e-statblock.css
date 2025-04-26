@@ -1,0 +1,14 @@
+.pf2e-item-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1em;
+  border-bottom: 2px solid #3f2222;
+  padding-bottom: 0.1em; /* reduced from 0.25em */
+}
+
+.pf2e-item-header h1,
+.pf2e-item-header h2 {
+  margin: 0; /* remove default bottom spacing */
+  padding: 0; /* ensure no extra space */
+}

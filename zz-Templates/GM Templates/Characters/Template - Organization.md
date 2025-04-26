@@ -1,7 +1,7 @@
 ---
 tags:
   - Organization
-art: zz_Attachments/Misc/PlaceholderImage.png
+art: zz-Attachments/Assets/PlaceholderImage.png
 ---
 
 > [!metadata|metadata]- Metadata 

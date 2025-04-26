@@ -3,15 +3,13 @@
   "cssTheme": "ITS Theme",
   "theme": "moonstone",
   "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "Internal-Links",
+    "pf2e-statblock",
+    "HoverProperties_-_Columns",
     "S - Encoded Fonts",
     "S - Encoded Icons",
-    "supercharged-links-gen",
-    "HoverProperties_-_Columns",
-    "pf2e-spell",
-    "pf2-compendium",
-    "pf2-only-statblocks",
-    "Pathfinder Hazard",
-    "Internal-Links"
+    "pf2-compendium"
   ],
   "baseFontSize": 16
 }

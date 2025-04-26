@@ -20,16 +20,15 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/tengu-sneak.webp| ]]
+token: [[Tengu blade Soverign.jpg]]
 source: "Homebrew"
 name: "Tengu Blade Sovereign"
 level: "Creature 4"
 
 alignment: ""
 size: "Medium"
-trait_01: [[chaotic]]
-trait_02: [[humanoid]]
-trait_03: [[tengu]]
+trait_01: [[humanoid]]
+trait_02: [[tengu]]
 modifier: 6
 perception:
   - name: "Perception"
@@ -80,9 +79,9 @@ attacks:
 ```
 
 ```encounter-table
-name: Tengu Sneak
+name: Tengu Blade Soverign
 creatures:
-  - 1: Tengu Sneak
+  - 1: Tengu Blade Soverign
 ```
 
 

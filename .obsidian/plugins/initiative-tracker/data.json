@@ -1,38 +1,38 @@
 {
   "players": [
     {
-      "note": "Gornak",
-      "path": "2-Party/Age of Worms/Gornak.md",
-      "name": "Gornak",
-      "level": 1,
-      "player": true
-    },
-    {
       "note": "Haight Enashberry",
       "path": "2-Party/Age of Worms/Haight Enashberry.md",
       "name": "Haight Enashberry",
-      "level": 1,
+      "level": 3,
       "player": true
     },
     {
       "note": "Akiowen",
       "path": "2-Party/Age of Worms/Akiowen.md",
       "name": "Akiowen",
-      "level": 1,
+      "level": 3,
       "player": true
     },
     {
       "note": "Zamosshe",
       "path": "2-Party/Age of Worms/Zamosshe.md",
       "name": "Zamosshe",
-      "level": 1,
+      "level": 3,
       "player": true
     },
     {
-      "note": "Bob-3",
-      "path": "2-Party/Age of Worms/Bob-3.md",
-      "name": "Bob-3",
-      "level": 1,
+      "note": "Jerrykk",
+      "path": "2-Party/Age of Worms/Jerrykk.md",
+      "name": "Jerrykk",
+      "level": 3,
+      "player": true
+    },
+    {
+      "note": "Jayden",
+      "path": "2-Party/Age of Worms/Jayden.md",
+      "name": "Jayden",
+      "level": 3,
       "player": true
     }
   ],
@@ -40,10 +40,11 @@
     {
       "name": "Age of Worms",
       "players": [
-        "Gornak",
         "Haight Enashberry",
         "Akiowen",
-        "Zamosshe"
+        "Zamosshe",
+        "Jerrykk",
+        "Jayden"
       ]
     }
   ],
