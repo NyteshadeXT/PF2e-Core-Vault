@@ -13,3 +13,5 @@ tags:
 **Domain Spell** [[Hurtling Stone|Hurtling Stone]]; **Advanced Domain Spell** [[Localized Quake|Localized Quake]]
 
 You control soil and stone.
+
+[[earth]]

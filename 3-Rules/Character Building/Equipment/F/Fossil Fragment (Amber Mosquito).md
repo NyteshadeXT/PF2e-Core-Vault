@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fossil Fragment (Amber Mosquito)
 ## Item 13
-### [[3-Rules/Trait Reference/E/earth]][[magical|Magical]]
+### [[3-Rules/Trait Reference/E/Earth]][[magical|Magical]]
 
 
 **Price** 2500 gp; 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Adamantine Echo
 ## Item 5
-### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Trait Reference/E/earth]][[invested]][[magical|Magical]][[relic]]
+### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Trait Reference/E/Earth]][[invested]][[magical|Magical]][[relic]]
 
 
 **Price** 0 gp; 

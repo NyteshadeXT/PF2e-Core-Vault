@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fossil Fragment (Triceratops Frill)
 ## Item 15
-### [[3-Rules/Trait Reference/E/earth]][[magical|Magical]]
+### [[3-Rules/Trait Reference/E/Earth]][[magical|Magical]]
 
 
 **Price** 6000 gp; 

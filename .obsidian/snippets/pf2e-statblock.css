@@ -11,4 +11,5 @@
 .pf2e-item-header h2 {
   margin: 0; /* remove default bottom spacing */
   padding: 0; /* ensure no extra space */
+  line-height: 1.2; /* optional: ensures baseline alignment looks crisp */
 }

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Singing Stone
 ## Item 13
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/E/earth]][[magical]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/E/Earth]][[magical]]
 
 
 **Price** 3000 gp; 

@@ -17,7 +17,7 @@ license: ORC
 ---
 # Crystal Shards (Moderate)
 ## Item 4
-### [[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/E/earth]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/E/Earth]][[splash]]
 
 |  |  |
 | -- | -- |

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Exuviae Powder
 ## Item 14
-### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Trait Reference/E/earth]]
+### [rare](rare.md "Rare Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Trait Reference/E/Earth]]
 
 **Category** other; 
 **Price** 750 gp; 

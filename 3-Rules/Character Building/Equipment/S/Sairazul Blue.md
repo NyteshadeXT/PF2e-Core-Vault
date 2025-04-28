@@ -15,7 +15,7 @@ license: OGL
 ---
 # Sairazul Blue
 ## Item 10
-### [rare](rare.md "Rare Rarity Trait")[[consumable]][[3-Rules/Trait Reference/E/earth]][[magical]][[potion]]
+### [rare](rare.md "Rare Rarity Trait")[[consumable]][[3-Rules/Trait Reference/E/Earth]][[magical]][[potion]]
 
 **Category** potion; 
 **Price** 180 gp; 

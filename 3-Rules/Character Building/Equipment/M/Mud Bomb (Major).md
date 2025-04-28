@@ -16,7 +16,7 @@ license: OGL
 ---
 # Mud Bomb (Major)
 ## Item 17
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/E/earth]][[splash]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/E/Earth]][[splash]]
 
 |  |  |
 | -- | -- |

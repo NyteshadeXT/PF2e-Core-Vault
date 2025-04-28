@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fossil Fragment (Tyrannosaur Tooth)
 ## Item 17
-### [[3-Rules/Trait Reference/E/earth]][[magical|Magical]]
+### [[3-Rules/Trait Reference/E/Earth]][[magical|Magical]]
 
 
 **Price** 14000 gp; 

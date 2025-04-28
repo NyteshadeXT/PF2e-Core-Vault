@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 1.md",
+                "file": "3-Rules/Trait Reference/E/Earth.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Abadar's Flawless Scale - Option 1"
+              "title": "Earth"
+            }
+          },
+          {
+            "id": "d18beaa666222822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Tests/Battle Axe Option 3.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Battle Axe Option 3"
+            }
+          },
+          {
+            "id": "85b47cda27c515ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Tests/Chain Shirt Option 3.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chain Shirt Option 3"
+            }
+          },
+          {
+            "id": "9f775c308c743a9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Tests/A 1/adamantine-ingot.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "adamantine-ingot"
+            }
+          },
+          {
+            "id": "d20a39bc6fcfcd26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-Templates/Markdown/Item Card Template.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Item Card Template"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.5
   },
   "right": {
     "id": "96fe26c9abf98fe0",
@@ -199,10 +256,34 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "28c48d9821a8d63e",
+  "active": "9f775c308c743a9a",
   "lastOpenFiles": [
-    "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 3.md",
-    "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 2.md",
-    "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 1.md"
+    "1-GM Toolkit/Tests/A 1/accompaniment-cloak.md",
+    "1-GM Toolkit/Tests/A 1/acid-spitter.md",
+    "1-GM Toolkit/Tests/Chain Shirt Option 3.md",
+    "1-GM Toolkit/Tests/A 1/abadars-flawless-scale.md",
+    "1-GM Toolkit/Tests/A 1/Adaptive Cogwheel.md",
+    "1-GM Toolkit/Tests/A 1/adamantine-echo.md",
+    "zz-Templates/Markdown/Item Card Template.md",
+    "1-GM Toolkit/Tests/Battle Axe Option 3.md",
+    "3-Rules/Domains/Earth Domain.md",
+    "3-Rules/Trait Reference/E/Earth.md",
+    "3-Rules/Trait Reference/U/unique.md",
+    "1-GM Toolkit/Tests/A 1/adamantine-ingot.md",
+    "3-Rules/Trait Reference/U/uncommon.md",
+    "1-GM Toolkit/Tests/A 1/acrobats-staff.md",
+    "1-GM Toolkit/Tests/A 1/adamantine-chunk.md",
+    "1-GM Toolkit/Tests/A 1/abysium-chunk.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "1-GM Toolkit/Tests/Chain Shirt.md",
+    "1-GM Toolkit/Tests/Battle Axe.md",
+    "1-GM Toolkit/Tests/A 1/acid-flask-moderate.md",
+    "1-GM Toolkit/Tests/A 1/acid-flask-major.md",
+    "1-GM Toolkit/Tests/A 1/acid-flask-lesser.md",
+    "1-GM Toolkit/Tests/A 1/acid-flask-greater.md",
+    "1-GM Toolkit/Tests/A 1/achaekeks-kiss.md",
+    "1-GM Toolkit/Tests/A 1/abysium-powder.md",
+    "1-GM Toolkit/Tests/A 1/accursed-staff-greater.md",
+    "zz-Attachments/accompaniment-cloak.png"
   ]
 }

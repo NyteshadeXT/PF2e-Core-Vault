@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sandcastle
 ## Item 11
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/E/earth]][[magical]][[structure]]
+### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/E/Earth]][[magical]][[structure]]
 
 
 **Price** 1250 gp; 

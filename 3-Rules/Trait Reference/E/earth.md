@@ -5,7 +5,7 @@ tags:
 - compendium/src/pf2e/crb
 - trait/category/energy-element
 - trait/category/planar
-aliases: ["Earth"]
+aliases: "trait-earth"
 ---
 # Earth  
 *Source: Core Rulebook p. 631*  
