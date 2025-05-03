@@ -58,12 +58,12 @@ health:
     desc: "36"
 
 attacks:
-  - name: Melee
-    desc: "⬻ flail +10 ([[disarm]], [[sweep]], [[trip]]); __Damage__ 1d6+3 bludgeoning"
-  - name: Melee.
-    desc: "⬻ dagger +10 ([[agile]], [[finesse]], [[thrown 10ft]], [[versatile s]]); __Damage__ 1d4+3 piercing"
-  - name: Ranged
-    desc: "⬻ dagger +10 ([[agile]], [[finesse]], [[thrown 10ft]], [[versatile s]]); __Damage__ 1d4 piercing"
+  - name: Melee ⬻ flail
+    desc: "+10 ([[disarm]], [[sweep]], [[trip]]); __Damage__ 1d6+3 bludgeoning"
+  - name: Melee ⬻ dagger
+    desc: "+10 ([[agile]], [[finesse]], [[thrown 10ft]], [[versatile s]]); __Damage__ 1d4+3 piercing"
+  - name: Ranged ⬻ dagger
+    desc: "+10 ([[agile]], [[finesse]], [[thrown 10ft]], [[versatile s]]); __Damage__ 1d4 piercing"
 
 sourcebook: "_Homebrew_"
 ````

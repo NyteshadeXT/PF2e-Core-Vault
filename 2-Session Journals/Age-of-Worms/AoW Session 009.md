@@ -2,7 +2,7 @@
 tags:
   - "#SessionNote"
 characters:
-  - "[[Allustan]]"
+  - "[[5-World/NPCs/Diamond Lake/Allustan]]"
   - "[[Tidwoad]]"
   - "[[Balabar Smenk]]"
   - "[[Venelle]]"

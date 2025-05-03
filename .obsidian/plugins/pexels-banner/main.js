@@ -63,6 +63,7 @@ var init_constants = __esm({
         GENERATE: "generate",
         GENERATE_BANNER_IDEA: "generate-banner-idea",
         GENERATE_BANNER_IDEA_FROM_SEED: "generate-banner-idea-from-seed",
+        REWRITE_BANNER_IDEA: "rewrite-banner-idea",
         HISTORY: "history",
         HISTORY_COUNT: "history/count",
         HISTORY_PAGE: "history/page",
@@ -76,7 +77,8 @@ var init_constants = __esm({
         BANNER_VOTES_USER_VOTE: "api/banner-votes/:id/user-vote",
         BANNER_VOTES_UPVOTE: "api/banner-votes/:id/upvote",
         BANNER_VOTES_DOWNVOTE: "api/banner-votes/:id/downvote",
-        INFO: "api/pixel-banner-info"
+        INFO: "api/pixel-banner-info",
+        DAILY_GAME: "games/daily-embed"
       },
       SHOP_URL: "https://ko-fi.com/s/7ce609ff2c",
       DONATE_URL: "https://ko-fi.com/jparkerweb"
@@ -98,15 +100,14 @@ var init_releaseNotesModal = __esm({
       onOpen() {
         const { contentEl } = this;
         contentEl.empty();
+        this.modalEl.addClass("pixel-banner-release-notes-modal");
+        this.addStyles();
         contentEl.createEl("h2", { text: `Welcome to \u{1F6A9} Pixel Banner v${this.version}` });
         contentEl.createEl("p", {
           text: "After each update you'll be prompted with the release notes. You can disable this in the plugin settings General tab.",
           cls: "release-notes-instructions"
         });
-        const promotionalLinks = contentEl.createEl("div");
-        promotionalLinks.style.display = "flex";
-        promotionalLinks.style.flexDirection = "row";
-        promotionalLinks.style.justifyContent = "space-around";
+        const promotionalLinks = contentEl.createEl("div", { cls: "promotional-links" });
         const equilllabsLink = promotionalLinks.createEl("a", {
           href: "https://www.equilllabs.com",
           target: "equilllabs"
@@ -114,9 +115,7 @@ var init_releaseNotesModal = __esm({
         equilllabsLink.createEl("img", {
           attr: {
             height: "36",
-            style: "border:0px;height:36px;",
             src: "https://raw.githubusercontent.com/jparkerweb/pixel-banner/refs/heads/main/img/equilllabs.png?raw=true",
-            border: "0",
             alt: "eQuill Labs"
           }
         });
@@ -127,9 +126,7 @@ var init_releaseNotesModal = __esm({
         discordLink.createEl("img", {
           attr: {
             height: "36",
-            style: "border:0px;height:36px;",
             src: "https://raw.githubusercontent.com/jparkerweb/pixel-banner/refs/heads/main/img/discord.png?raw=true",
-            border: "0",
             alt: "Discord"
           }
         });
@@ -140,24 +137,114 @@ var init_releaseNotesModal = __esm({
         kofiLink.createEl("img", {
           attr: {
             height: "36",
-            style: "border:0px;height:36px;",
             src: "https://raw.githubusercontent.com/jparkerweb/pixel-banner/refs/heads/main/img/support.png?raw=true",
-            border: "0",
             alt: "Buy Me a Coffee at ko-fi.com"
           }
         });
         const notesContainer = contentEl.createDiv("release-notes-container");
         notesContainer.innerHTML = this.releaseNotes;
-        contentEl.createEl("div", { cls: "release-notes-spacer" }).style.height = "20px";
+        contentEl.createEl("div", { cls: "release-notes-spacer" });
         new import_obsidian7.Setting(contentEl).addButton((btn) => btn.setButtonText("Close").onClick(() => this.close()));
         const modalEl = this.modalEl;
         modalEl.style.position = "absolute";
         modalEl.style.left = `${modalEl.getBoundingClientRect().left}px`;
         modalEl.style.top = `${modalEl.getBoundingClientRect().top}px`;
       }
+      addStyles() {
+        const styleEl = document.createElement("style");
+        styleEl.id = "pixel-banner-release-notes-styles";
+        const existingStyle = document.getElementById(styleEl.id);
+        if (existingStyle) {
+          existingStyle.remove();
+        }
+        styleEl.textContent = `
+            .pixel-banner-release-notes-modal {
+                max-width: 600px;
+                width: 100%;
+                top: 50% !important;
+                left: 50% !important;
+                transform: translate(-50%, -50%);
+            }
+            
+            .promotional-links {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-around;
+                margin: 15px 0;
+            }
+            
+            .promotional-links img {
+                border: 0;
+                height: 36px;
+                transition: transform 0.2s ease;
+            }
+            
+            .promotional-links a:hover img {
+                transform: scale(1.1);
+            }
+            
+            .release-notes-instructions {
+                font-size: 0.75em;
+                font-weight: 300;
+                letter-spacing: 2px;
+                text-align: center;
+                margin: 10px 0;
+            }
+
+            .release-notes-container {
+                max-height: 400px;
+                overflow-y: auto;
+                padding: 10px;
+                margin: 10px 0;
+                border-radius: 5px;
+                background-color: var(--background-secondary);
+            }
+
+            .release-notes-container img {
+                max-width: 100%;
+            }
+
+            .release-notes-section {
+                margin: 10px 0;
+            }
+
+            .release-notes-section h4 {
+                margin: 15px 0 5px 0;
+                color: var(--text-accent-hover);
+            }
+
+            .release-notes-container > ul {
+                padding-left: 25px;
+            }
+            
+            .release-notes-container ul:not(:last-of-type) {
+                padding-bottom: 20px;
+            }
+
+            .release-notes-section ul {
+                margin: 0;
+                padding-left: 20px;
+            }
+
+            .release-notes-container li,
+            .release-notes-section li {
+                margin: 5px 0;
+            }
+
+            .release-notes-spacer {
+                margin: 10px 0;
+                height: 20px;
+            }
+        `;
+        document.head.appendChild(styleEl);
+      }
       onClose() {
         const { contentEl } = this;
         contentEl.empty();
+        const styleEl = document.getElementById("pixel-banner-release-notes-styles");
+        if (styleEl) {
+          styleEl.remove();
+        }
       }
     };
   }
@@ -169,27 +256,47 @@ var init_imageViewModal = __esm({
   "src/modal/modals/imageViewModal.js"() {
     import_obsidian8 = require("obsidian");
     ImageViewModal = class extends import_obsidian8.Modal {
-      constructor(app, imageUrl) {
+      constructor(app, imageUrl, bannerPath = "") {
         super(app);
         this.imageUrl = imageUrl;
+        this.bannerPath = bannerPath;
       }
       onOpen() {
         this.modalEl.addClass("pixel-banner-image-modal");
+        this.addStyles();
         const { contentEl } = this;
         contentEl.empty();
         contentEl.addClass("pixel-banner-image-view-modal");
         const imageContainer = contentEl.createDiv("image-container");
         const img = imageContainer.createEl("img", {
           attr: {
-            src: this.imageUrl,
-            style: "max-width: 100%; max-height: 90vh; object-fit: contain;"
+            src: this.imageUrl
           }
         });
+        if (this.bannerPath) {
+          const pathContainer = contentEl.createEl("div", { cls: "path-container" });
+          const pathDisplay = pathContainer.createEl("div", {
+            text: this.bannerPath,
+            cls: "banner-path"
+          });
+          const copyButton = pathContainer.createEl("button", {
+            text: "Copy Path",
+            cls: "mod-cta"
+          });
+          copyButton.addEventListener("click", () => {
+            navigator.clipboard.writeText(this.bannerPath).then(() => {
+              const originalText = copyButton.textContent;
+              copyButton.textContent = "Copied!";
+              setTimeout(() => {
+                copyButton.textContent = originalText;
+              }, 2e3);
+            });
+          });
+        }
         const closeButton = contentEl.createEl("button", {
           text: "Close",
-          cls: "mod-cta"
+          cls: "mod-cta close-button"
         });
-        closeButton.style.marginTop = "10px";
         closeButton.addEventListener("click", () => this.close());
         this.scope.register([], "Escape", () => this.close());
         const modalEl = this.modalEl;
@@ -197,9 +304,98 @@ var init_imageViewModal = __esm({
         modalEl.style.left = `${modalEl.getBoundingClientRect().left}px`;
         modalEl.style.top = `${modalEl.getBoundingClientRect().top}px`;
       }
+      addStyles() {
+        const styleEl = document.createElement("style");
+        styleEl.id = "pixel-banner-image-view-styles";
+        const existingStyle = document.getElementById(styleEl.id);
+        if (existingStyle) {
+          existingStyle.remove();
+        }
+        styleEl.textContent = `
+            .pixel-banner-image-modal {
+                max-width: 80vw;
+                max-height: 90vh;
+                width: 100%;
+                height: auto;
+                top: 50% !important;
+                left: 50% !important;
+                transform: translate(-50%, -50%);
+            }
+
+            .pixel-banner-image-view-modal {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                padding: 20px;
+            }
+
+            .pixel-banner-image-view-modal img {
+                max-width: 100%;
+                max-height: 90vh;
+                object-fit: contain;
+                border-radius: 8px;
+                box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            }
+
+            .pixel-banner-image-view-modal button {
+                padding: 8px 16px;
+                border-radius: 4px;
+                cursor: pointer;
+                transition: background-color 0.2s ease-in-out;
+            }
+
+            .pixel-banner-image-view-modal .image-container {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-bottom: 10px;
+            }
+
+            .pixel-banner-image-view-modal .image-container img {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width: 100%;
+                height: 100%;
+                max-width: 100%;
+                max-height: 90vh;
+                object-fit: contain;
+            }
+
+            .pixel-banner-image-view-modal .path-container {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+
+            .pixel-banner-image-view-modal .banner-path {
+                flex-grow: 1;
+                margin-right: 10px;
+                font-family: var(--font-monospace);
+                font-size: 0.9em;
+                overflow-x: auto;
+                padding: 4px;
+                background-color: var(--background-secondary);
+                border-radius: 4px;
+            }
+
+            .pixel-banner-image-view-modal .close-button {
+                margin-top: 10px;
+                width: 150px;
+            }
+        `;
+        document.head.appendChild(styleEl);
+      }
       onClose() {
         const { contentEl } = this;
         contentEl.empty();
+        const styleEl = document.getElementById("pixel-banner-image-view-styles");
+        if (styleEl) {
+          styleEl.remove();
+        }
       }
     };
   }
@@ -227,6 +423,9 @@ var init_folderSelectionModal = __esm({
       addStyle() {
         const style = document.createElement("style");
         style.textContent = `
+            .prompt.pixel-banner-folder-select-modal {
+                top: unset !important;
+            }
             .pixel-banner-folder-select-modal .prompt {
                 position: fixed !important;
                 top: 50% !important;
@@ -605,10 +804,12 @@ var init_selectPixelBannerModal = __esm({
         const { contentEl } = this;
         contentEl.empty();
         await this.initializeBasicUI();
-        this.initializeAPIDependentSections().catch((error) => {
-          console.error("Error initializing API-dependent sections:", error);
-          this.updateAPIStatusUI(false);
-        });
+        if (this.plugin.settings.pixelBannerPlusEnabled) {
+          this.initializeAPIDependentSections().catch((error) => {
+            console.error("Error initializing API-dependent sections:", error);
+            this.updateAPIStatusUI(false);
+          });
+        }
       }
       // Create a loading spinner element
       createLoadingSpinner() {
@@ -690,76 +891,86 @@ var init_selectPixelBannerModal = __esm({
         const hasBanner = activeFile ? this.plugin.hasBannerFrontmatter(activeFile) || ((_b = (_a = this.plugin.app.metadataCache.getFileCache(activeFile)) == null ? void 0 : _a.frontmatter) == null ? void 0 : _b[this.plugin.settings.customBannerShuffleField[0]]) : false;
         const mainContainer = contentEl.createDiv({ cls: "pixel-banner-main-container" });
         const bannerSourceSection = mainContainer.createDiv({ cls: "pixel-banner-section" });
-        bannerSourceSection.createEl("h3", { text: "Select Banner Source", cls: "pixel-banner-section-title" });
+        bannerSourceSection.createEl("h3", {
+          text: "Select Banner Source",
+          cls: "pixel-banner-section-title",
+          attr: {
+            style: `
+                    margin: 0;
+                `
+          }
+        });
         const bannerSourceButtons = bannerSourceSection.createDiv({
           cls: "pixel-banner-source-buttons"
         });
-        const aiButton = bannerSourceButtons.createEl("button", {
-          cls: "pixel-banner-source-button pixel-banner-api-dependent",
-          attr: {
-            style: `
-                    position: relative;
-                `
-          }
-        });
-        const aiButtonContent = aiButton.createDiv({ cls: "pixel-banner-button-content" });
-        aiButtonContent.createEl("span", { text: "\u2728", cls: "pixel-banner-button-icon" });
-        aiButtonContent.createEl("div", { cls: "pixel-banner-button-text-container" }).createEl("span", {
-          text: "AI Banner",
-          cls: "pixel-banner-button-text"
-        });
-        const aiLoadingOverlay = aiButton.createDiv({
-          cls: "pixel-banner-button-loading-overlay",
-          attr: {
-            style: `
-                    position: absolute;
-                    top: 0;
-                    left: 0;
-                    right: 0;
-                    bottom: 0;
-                    display: flex;
-                    justify-content: center;
-                    align-items: center;
-                    background-color: var(--background-primary);
-                    opacity: 0.8;
-                    z-index: 10;
-                `
-          }
-        });
-        aiLoadingOverlay.appendChild(this.createLoadingSpinner());
-        const storeButton = bannerSourceButtons.createEl("button", {
-          cls: "pixel-banner-source-button pixel-banner-api-dependent",
-          attr: {
-            style: `
-                    position: relative;
-                `
-          }
-        });
-        const storeButtonContent = storeButton.createDiv({ cls: "pixel-banner-button-content" });
-        storeButtonContent.createEl("span", { text: "\u{1F3EA}", cls: "pixel-banner-button-icon" });
-        storeButtonContent.createEl("div", { cls: "pixel-banner-button-text-container" }).createEl("span", {
-          text: "Store",
-          cls: "pixel-banner-button-text"
-        });
-        const storeLoadingOverlay = storeButton.createDiv({
-          cls: "pixel-banner-button-loading-overlay",
-          attr: {
-            style: `
-                    position: absolute;
-                    top: 0;
-                    left: 0;
-                    right: 0;
-                    bottom: 0;
-                    display: flex;
-                    justify-content: center;
-                    align-items: center;
-                    background-color: var(--background-primary);
-                    opacity: 0.8;
-                    z-index: 10;
-                `
-          }
-        });
-        storeLoadingOverlay.appendChild(this.createLoadingSpinner());
+        if (this.plugin.settings.pixelBannerPlusEnabled) {
+          const aiButton = bannerSourceButtons.createEl("button", {
+            cls: "pixel-banner-source-button pixel-banner-api-dependent",
+            attr: {
+              style: `
+                        position: relative;
+                    `
+            }
+          });
+          const aiButtonContent = aiButton.createDiv({ cls: "pixel-banner-button-content" });
+          aiButtonContent.createEl("span", { text: "\u2728", cls: "pixel-banner-button-icon" });
+          aiButtonContent.createEl("div", { cls: "pixel-banner-button-text-container" }).createEl("span", {
+            text: "AI Banner",
+            cls: "pixel-banner-button-text"
+          });
+          const aiLoadingOverlay = aiButton.createDiv({
+            cls: "pixel-banner-button-loading-overlay",
+            attr: {
+              style: `
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        right: 0;
+                        bottom: 0;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        background-color: var(--background-primary);
+                        opacity: 0.8;
+                        z-index: 10;
+                    `
+            }
+          });
+          aiLoadingOverlay.appendChild(this.createLoadingSpinner());
+          const storeButton = bannerSourceButtons.createEl("button", {
+            cls: "pixel-banner-source-button pixel-banner-api-dependent",
+            attr: {
+              style: `
+                        position: relative;
+                    `
+            }
+          });
+          const storeButtonContent = storeButton.createDiv({ cls: "pixel-banner-button-content" });
+          storeButtonContent.createEl("span", { text: "\u{1F3EA}", cls: "pixel-banner-button-icon" });
+          storeButtonContent.createEl("div", { cls: "pixel-banner-button-text-container" }).createEl("span", {
+            text: "Store",
+            cls: "pixel-banner-button-text"
+          });
+          const storeLoadingOverlay = storeButton.createDiv({
+            cls: "pixel-banner-button-loading-overlay",
+            attr: {
+              style: `
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        right: 0;
+                        bottom: 0;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        background-color: var(--background-primary);
+                        opacity: 0.8;
+                        z-index: 10;
+                    `
+            }
+          });
+          storeLoadingOverlay.appendChild(this.createLoadingSpinner());
+        }
         const vaultButton = bannerSourceButtons.createEl("button", {
           cls: "pixel-banner-source-button"
         });
@@ -837,7 +1048,15 @@ var init_selectPixelBannerModal = __esm({
           new WebAddressModal(this.app, this.plugin).open();
         });
         const customizationSection = mainContainer.createDiv({ cls: "pixel-banner-section" });
-        customizationSection.createEl("h3", { text: "Customize Banner", cls: "pixel-banner-section-title" });
+        customizationSection.createEl("h3", {
+          text: "Customize Banner",
+          cls: "pixel-banner-section-title",
+          attr: {
+            style: `
+                    margin: 0;
+                `
+          }
+        });
         const customizationOptions = customizationSection.createDiv({ cls: "pixel-banner-customization-options" });
         const bannerIconButton = customizationOptions.createEl("button", {
           cls: "pixel-banner-customize-button"
@@ -895,57 +1114,58 @@ var init_selectPixelBannerModal = __esm({
         if (!hasBanner) {
           const noBannerMessage = customizationSection.createDiv({ cls: "pixel-banner-no-banner-message" });
           noBannerMessage.createEl("p", {
-            text: "No banner found for this note. Add a banner first to enable customization options.",
+            text: "Add a banner first to enable customization options.",
             cls: "pixel-banner-message-text"
           });
         }
-        const accountSection = mainContainer.createDiv({
-          cls: "pixel-banner-section pixel-banner-api-dependent",
-          attr: {
-            style: `
-                    font-size: .9em;
-                    margin-top: 10px;
-                    gap: 5px;
-                    position: relative;
-                `
-          }
-        });
-        const accountTitle = accountSection.createEl("h3", {
-          text: "Pixel Banner Plus Account",
-          cls: "pixel-banner-section-title",
-          attr: {
-            style: `
-                    margin: 0;
-                    cursor: help;
-                `
-          }
-        });
-        const accountInfo = accountSection.createDiv({
-          cls: "pixel-banner-account-info",
-          attr: {
-            style: "visibility: hidden;"
-          }
-        });
-        const accountLoadingOverlay = accountSection.createDiv({
-          cls: "pixel-banner-section-loading-overlay",
-          attr: {
-            style: `
-                    position: absolute;
-                    top: 0;
-                    left: 0;
-                    right: 0;
-                    bottom: 0;
-                    display: flex;
-                    justify-content: center;
-                    align-items: center;
-                    background-color: var(--background-primary);
-                    opacity: 0.8;
-                    z-index: 10;
-                    min-height: 50px;
-                `
-          }
-        });
-        accountLoadingOverlay.appendChild(this.createLoadingSpinner());
+        if (this.plugin.settings.pixelBannerPlusEnabled) {
+          const accountSection = mainContainer.createDiv({
+            cls: "pixel-banner-section pixel-banner-api-dependent",
+            attr: {
+              style: `
+                        gap: 5px;
+                        position: relative;
+                    `
+            }
+          });
+          const accountTitle = accountSection.createEl("h3", {
+            text: "Pixel Banner Plus Account",
+            cls: "pixel-banner-section-title",
+            attr: {
+              style: `
+                        margin: 0;
+                        cursor: help;
+                        width: max-content;
+                    `
+            }
+          });
+          const accountInfo = accountSection.createDiv({
+            cls: "pixel-banner-account-info",
+            attr: {
+              style: "visibility: hidden;"
+            }
+          });
+          const accountLoadingOverlay = accountSection.createDiv({
+            cls: "pixel-banner-section-loading-overlay",
+            attr: {
+              style: `
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        right: 0;
+                        bottom: 0;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        background-color: var(--background-primary);
+                        opacity: 0.8;
+                        z-index: 10;
+                        min-height: 50px;
+                    `
+            }
+          });
+          accountLoadingOverlay.appendChild(this.createLoadingSpinner());
+        }
         this.addStyle();
       }
       // Initialize the API-dependent UI sections
@@ -994,167 +1214,325 @@ var init_selectPixelBannerModal = __esm({
             }
           }
         });
-        const accountSection = contentEl.querySelector(".pixel-banner-section.pixel-banner-api-dependent");
-        if (accountSection) {
-          const accountInfo = accountSection.querySelector(".pixel-banner-account-info");
-          if (accountInfo) {
-            accountInfo.style.visibility = "visible";
-            accountInfo.empty();
-            const statusContainer = accountInfo.createDiv({
-              attr: {
-                style: `
-                            display: flex;
-                            flex-direction: row;
-                            gap: 10px;
-                            align-items: center;
-                            cursor: help;
-                        `
-              }
-            });
-            const openPlusSettings = async () => {
-              this.close();
-              await this.app.setting.open();
-              await new Promise((resolve) => setTimeout(resolve, 300));
-              const settingsTabs = document.querySelectorAll(".vertical-tab-header-group .vertical-tab-nav-item");
-              for (const tab of settingsTabs) {
-                if (tab.textContent.includes("Pixel Banner")) {
-                  tab.click();
-                  break;
-                }
-              }
-              const pixelBannerSettingsTabs = document.querySelectorAll(".pixel-banner-settings-tabs > button.pixel-banner-settings-tab");
-              for (const tab of pixelBannerSettingsTabs) {
-                if (tab.textContent.includes("Plus")) {
-                  tab.click();
-                  break;
-                }
-              }
-            };
-            const accountTitle = accountSection.querySelector(".pixel-banner-section-title");
-            if (accountTitle) accountTitle.addEventListener("click", openPlusSettings);
-            const isConnected = this.plugin.pixelBannerPlusEnabled;
-            const pixelBannerPlusServerOnline = this.plugin.pixelBannerPlusServerOnline;
-            const statusText = !isOnline || !pixelBannerPlusServerOnline ? "\u{1F6A8} Servers Offline \u{1F6A8}" : isConnected ? "\u2705 Authorized" : "\u274C Not Authorized";
-            const statusBorderColor = !isOnline || !pixelBannerPlusServerOnline ? "#FF6B6B" : isConnected ? "#20bf6b" : "#FF0000";
-            const statusEl = statusContainer.createEl("span", {
-              text: statusText,
-              cls: "pixel-banner-status-value",
-              attr: {
-                style: `border: 1px dotted ${statusBorderColor};`
-              }
-            });
-            statusEl.addEventListener("click", openPlusSettings);
-            if (isOnline && pixelBannerPlusServerOnline) {
-              const tokenCount = this.plugin.pixelBannerPlusBannerTokens !== void 0 ? `\u{1FA99} ${this.plugin.pixelBannerPlusBannerTokens.toString()} Tokens` : "\u2753 Unknown";
-              const tokenCountEl = statusContainer.createEl("span", {
-                text: tokenCount,
-                cls: "pixel-banner-status-value",
+        if (this.plugin.settings.pixelBannerPlusEnabled) {
+          const accountSection = contentEl.querySelector(".pixel-banner-section.pixel-banner-api-dependent");
+          if (accountSection) {
+            const accountInfo = accountSection.querySelector(".pixel-banner-account-info");
+            if (accountInfo) {
+              accountInfo.style.visibility = "visible";
+              accountInfo.empty();
+              const statusContainer = accountInfo.createDiv({
                 attr: {
                   style: `
-                                border: 1px dotted #F3B93B;
-                                display: ${pixelBannerPlusServerOnline && this.plugin.pixelBannerPlusEnabled ? "inline-flex" : "none"};
+                                display: flex;
+                                flex-direction: row;
+                                gap: 10px;
+                                align-items: center;
+                                cursor: help;
                             `
                 }
               });
-              tokenCountEl.addEventListener("click", openPlusSettings);
-            } else {
-              const retryButton = statusContainer.createEl("button", {
-                text: "\u{1F504} Try Again",
-                cls: "pixel-banner-account-button pixel-banner-retry-button",
-                attr: {
-                  style: `
-                                background-color: var(--background-accent) !important;
-                                color: var(--text-on-accent) !important;
-                                margin-left: 10px;
-                            `
-                }
-              });
-              retryButton.addEventListener("click", async () => {
-                statusContainer.empty();
-                statusContainer.createEl("span", {
-                  text: "Connecting...",
-                  cls: "pixel-banner-status-value"
-                });
-                const tempSpinner = this.createLoadingSpinner();
-                statusContainer.appendChild(tempSpinner);
-                try {
-                  await this.plugin.verifyPixelBannerPlusCredentials();
-                  await this.plugin.getPixelBannerInfo();
-                  this.updateAPIStatusUI(true);
-                } catch (error) {
-                  console.error("Error reconnecting:", error);
-                  this.plugin.pixelBannerPlusServerOnline = false;
-                  this.updateAPIStatusUI(false);
-                }
-              });
-            }
-            if (pixelBannerPlusServerOnline && isConnected && this.plugin.pixelBannerPlusBannerTokens === 0) {
-              const buyTokensButton = accountInfo.createEl("button", {
-                cls: "pixel-banner-account-button pixel-banner-buy-tokens-button",
-                text: "\u{1F4B5} Buy More Tokens"
-              });
-              buyTokensButton.addEventListener("click", (event) => {
-                event.preventDefault();
-                window.open(PIXEL_BANNER_PLUS.SHOP_URL, "_blank");
-              });
-            } else if (pixelBannerPlusServerOnline && !isConnected) {
-              const signupButton = accountInfo.createEl("button", {
-                cls: "pixel-banner-account-button pixel-banner-signup-button",
-                text: "\u{1F6A9} Signup for Free!"
-              });
-              signupButton.addEventListener("click", (event) => {
-                event.preventDefault();
-                const signupUrl = PIXEL_BANNER_PLUS.API_URL + PIXEL_BANNER_PLUS.ENDPOINTS.SIGNUP;
-                window.open(signupUrl, "_blank");
-              });
-            }
-            const cloudVersion = this.plugin.pixelBannerVersion;
-            const currentVersion = this.plugin.settings.lastVersion;
-            const isCloudVersionGreater = semver.gt(cloudVersion, currentVersion);
-            let versionText, cursor;
-            if (isCloudVersionGreater) {
-              versionText = `\u{1F504} Update Available!`;
-              cursor = "pointer";
-            } else {
-              versionText = ``;
-              cursor = "default";
-            }
-            const versionInfo = accountInfo.createDiv({
-              text: versionText,
-              attr: {
-                style: `
-                            display: flex;
-                            flex-direction: row;
-                            gap: 10px;
-                            align-items: center;
-                            cursor: ${cursor};
-                            margin-left: auto;
-                            animation: pixel-banner-scale-up-down 3s ease-in-out infinite;
-                        `
-              }
-            });
-            if (isCloudVersionGreater) {
-              const openCommunityPlugins = async () => {
+              const openPlusSettings = async () => {
                 this.close();
                 await this.app.setting.open();
                 await new Promise((resolve) => setTimeout(resolve, 300));
                 const settingsTabs = document.querySelectorAll(".vertical-tab-header-group .vertical-tab-nav-item");
                 for (const tab of settingsTabs) {
-                  if (tab.textContent.includes("Community plugins")) {
+                  if (tab.textContent.includes("Pixel Banner")) {
                     tab.click();
                     break;
                   }
                 }
-                await new Promise((resolve) => setTimeout(resolve, 500));
-                const allTheButtons = document.querySelectorAll("button.mod-cta");
-                for (const button of allTheButtons) {
-                  if (button.textContent.includes("Check for updates")) {
-                    button.click();
+                const pixelBannerSettingsTabs = document.querySelectorAll(".pixel-banner-settings-tabs > button.pixel-banner-settings-tab");
+                for (const tab of pixelBannerSettingsTabs) {
+                  if (tab.textContent.includes("Plus")) {
+                    tab.click();
                     break;
                   }
                 }
               };
-              versionInfo.addEventListener("click", openCommunityPlugins);
+              const accountTitle = accountSection.querySelector(".pixel-banner-section-title");
+              if (accountTitle) accountTitle.addEventListener("click", openPlusSettings);
+              const isConnected = this.plugin.pixelBannerPlusEnabled;
+              const pixelBannerPlusServerOnline = this.plugin.pixelBannerPlusServerOnline;
+              const statusText = !isOnline || !pixelBannerPlusServerOnline ? "\u{1F6A8} Servers Offline \u{1F6A8}" : isConnected ? "\u2705 Authorized" : "\u274C Not Authorized";
+              const statusBorderColor = !isOnline || !pixelBannerPlusServerOnline ? "#FF6B6B" : isConnected ? "#177d47" : "#FF0000";
+              const statusEl = statusContainer.createEl("span", {
+                text: statusText,
+                cls: "pixel-banner-status-value",
+                attr: {
+                  style: `border: 1px dashed ${statusBorderColor};`
+                }
+              });
+              statusEl.addEventListener("click", openPlusSettings);
+              const isMobileDevice = window.navigator.userAgent.includes("Android") || window.navigator.userAgent.includes("iPhone") || window.navigator.userAgent.includes("iPad") || window.navigator.userAgent.includes("iPod");
+              if (isOnline && pixelBannerPlusServerOnline) {
+                const tokenCount = this.plugin.pixelBannerPlusBannerTokens !== void 0 ? `\u{1FA99} ${this.plugin.pixelBannerPlusBannerTokens.toString()} Tokens` : "\u2753 Unknown";
+                const tokenCountEl = statusContainer.createEl("span", {
+                  text: tokenCount,
+                  cls: "pixel-banner-status-value",
+                  attr: {
+                    style: `
+                                    border: 1px dashed #bba00f;
+                                    display: ${pixelBannerPlusServerOnline && this.plugin.pixelBannerPlusEnabled ? "inline-flex" : "none"};
+                                `
+                  }
+                });
+                tokenCountEl.addEventListener("click", openPlusSettings);
+                if (!isMobileDevice && isConnected) {
+                  const gameButton = statusContainer.createEl("button", {
+                    cls: "pixel-banner-game-button",
+                    attr: {
+                      style: `
+                                        margin-left: auto;
+                                        margin-right: 10px;
+                                        padding: 4px 10px;
+                                        background: transparent;
+                                        border: none;
+                                        box-shadow: none;
+                                        cursor: pointer;
+                                        font-size: 14px;
+                                        display: none;
+                                        text-transform: uppercase;
+                                    `
+                    }
+                  });
+                  gameButton.innerHTML = "\u{1F579}\uFE0F";
+                  gameButton.title = "Play Daily Game (optional)... chance to win Banner Tokens";
+                  gameButton.addEventListener("click", () => {
+                    this.close();
+                    new DailyGameModal(this.app, this.plugin.settings.pixelBannerPlusEmail, this.plugin.settings.pixelBannerPlusApiKey, this.plugin).open();
+                  });
+                  const showGameButton = isOnline && this.plugin.pixelBannerPlusServerOnline && this.plugin.pixelBannerPlusEnabled && !this.plugin.settings.enableDailyGame;
+                  gameButton.style.display = showGameButton ? "inline-block" : "none";
+                }
+                if (!isMobileDevice && this.plugin.settings.enableDailyGame && isConnected) {
+                  const dailyGameContainer = accountInfo.createDiv({
+                    cls: "pixel-banner-daily-game-container",
+                    attr: {
+                      style: `
+                                        display: flex;
+                                        flex-direction: row;
+                                        align-items: center;
+                                        gap: 10px;
+                                        justify-content: space-between;
+                                        width: 100%;
+                                        border-top: 1px solid var(--modal-border-color);
+                                        padding-top: 20px;
+                                        margin-top: 10px;
+                                    `
+                    }
+                  });
+                  const dailyGameInfoBlock = dailyGameContainer.createDiv({
+                    attr: {
+                      style: `
+                                        display: flex;
+                                        flex-direction: column;
+                                        align-items: flex-start;
+                                        gap: 5px;
+                                        width: 100%;
+                                    `
+                    }
+                  });
+                  const infoBlockRow1 = dailyGameInfoBlock.createEl("div");
+                  infoBlockRow1.createEl("span", { text: "\u{1F3AE} Daily Game " });
+                  infoBlockRow1.createEl("span", {
+                    text: this.plugin.pixelBannerPlusDailyGameName,
+                    attr: {
+                      style: `
+                                        font-style: italic;
+                                        padding: 0px 8px;
+                                        border-radius: 7px;
+                                        line-height: 1.38;
+                                        color: var(--text-color);
+                                        background-color: var(--interactive-normal);
+                                        box-shadow: var(--input-shadow);
+                                    `
+                    }
+                  });
+                  const infoBlockRow2 = dailyGameInfoBlock.createEl("div");
+                  infoBlockRow2.createEl("span", { text: "\u{1F3C6} High Score " });
+                  infoBlockRow2.createEl("span", {
+                    text: this.plugin.pixelBannerPlusHighScore,
+                    attr: { style: `
+                                    font-style: italic;
+                                    padding: 0px 8px;
+                                    border-radius: 7px;
+                                    line-height: 1.38;
+                                    color: var(--text-color);
+                                    background-color: var(--interactive-normal);
+                                    box-shadow: var(--input-shadow);
+                                ` }
+                  });
+                  const infoBlockRow3 = dailyGameInfoBlock.createEl("div");
+                  infoBlockRow3.createEl("span", { text: "\u{1F4B0} Current Jackpot " });
+                  infoBlockRow3.createEl("span", {
+                    text: `\u{1FA99} ${this.plugin.pixelBannerPlusJackpot} Tokens`,
+                    attr: { style: `
+                                    font-style: italic;
+                                    padding: 0px 8px;
+                                    border-radius: 7px;
+                                    line-height: 1.38;
+                                    color: var(--text-color);
+                                    background-color: var(--interactive-normal);
+                                    box-shadow: var(--input-shadow);
+                                ` }
+                  });
+                  const infoBlockRow4 = dailyGameInfoBlock.createEl("div");
+                  infoBlockRow4.createEl("span", { text: "\u23F0 Time Left " });
+                  infoBlockRow4.createEl("span", {
+                    text: this.plugin.pixelBannerPlusTimeLeft,
+                    attr: { style: `
+                                    font-style: italic;
+                                    padding: 0px 8px;
+                                    border-radius: 7px;
+                                    line-height: 1.38;
+                                    color: var(--text-color);
+                                    background-color: var(--interactive-normal);
+                                    box-shadow: var(--input-shadow);
+                                ` }
+                  });
+                  const infoBlockRow5 = dailyGameInfoBlock.createEl("div");
+                  infoBlockRow5.createEl("span", {
+                    text: "3 FREE",
+                    attr: {
+                      style: `
+                                        background: darkgreen;
+                                        color: white;
+                                        padding: 0px 4px;
+                                        border-radius: 5px;
+                                        letter-spacing: 1px;
+                                    `
+                    }
+                  });
+                  infoBlockRow5.createEl("span", { text: " plays per day!" });
+                  const dailyGameButton = dailyGameContainer.createEl("button", {
+                    cls: "pixel-banner-account-button pixel-banner-daily-game-button",
+                    attr: {
+                      style: `
+                                        min-width: 110px;
+                                    `
+                    }
+                  });
+                  const dailyGameContent = dailyGameButton.createDiv({
+                    cls: "pixel-banner-button-content",
+                    attr: {
+                      style: `
+                                        display: flex;
+                                        align-items: center;
+                                        gap: 10px;
+                                    `
+                    }
+                  });
+                  dailyGameContent.createEl("span", { text: "\u{1F579}\uFE0F", cls: "pixel-banner-button-icon pixel-banner-twinkle-animation" });
+                  dailyGameContent.createEl("div", { cls: "pixel-banner-button-text-container" }).createEl("span", {
+                    text: "Play Daily Game",
+                    cls: "pixel-banner-button-text"
+                  });
+                  dailyGameButton.addEventListener("click", () => {
+                    this.close();
+                    new DailyGameModal(this.app, this.plugin.settings.pixelBannerPlusEmail, this.plugin.settings.pixelBannerPlusApiKey, this.plugin).open();
+                  });
+                }
+              } else {
+                const retryButton = statusContainer.createEl("button", {
+                  text: "\u{1F504} Try Again",
+                  cls: "pixel-banner-account-button pixel-banner-retry-button",
+                  attr: {
+                    style: `
+                                    background-color: var(--background-accent) !important;
+                                    color: var(--text-on-accent) !important;
+                                    margin-left: 10px;
+                                `
+                  }
+                });
+                retryButton.addEventListener("click", async () => {
+                  statusContainer.empty();
+                  statusContainer.createEl("span", {
+                    text: "Connecting...",
+                    cls: "pixel-banner-status-value"
+                  });
+                  const tempSpinner = this.createLoadingSpinner();
+                  statusContainer.appendChild(tempSpinner);
+                  try {
+                    await this.plugin.verifyPixelBannerPlusCredentials();
+                    await this.plugin.getPixelBannerInfo();
+                    this.updateAPIStatusUI(true);
+                  } catch (error) {
+                    console.error("Error reconnecting:", error);
+                    this.plugin.pixelBannerPlusServerOnline = false;
+                    this.updateAPIStatusUI(false);
+                  }
+                });
+              }
+              if (pixelBannerPlusServerOnline && isConnected && this.plugin.pixelBannerPlusBannerTokens === 0) {
+                const buyTokensButton = accountInfo.createEl("button", {
+                  cls: "pixel-banner-account-button pixel-banner-buy-tokens-button",
+                  text: "\u{1F4B5} Buy More Tokens"
+                });
+                buyTokensButton.addEventListener("click", (event) => {
+                  event.preventDefault();
+                  window.open(PIXEL_BANNER_PLUS.SHOP_URL, "_blank");
+                });
+              } else if (pixelBannerPlusServerOnline && !isConnected) {
+                const signupButton = accountInfo.createEl("button", {
+                  cls: "pixel-banner-account-button pixel-banner-signup-button",
+                  text: "\u{1F6A9} Signup for Free!"
+                });
+                signupButton.addEventListener("click", (event) => {
+                  event.preventDefault();
+                  const signupUrl = PIXEL_BANNER_PLUS.API_URL + PIXEL_BANNER_PLUS.ENDPOINTS.SIGNUP;
+                  window.open(signupUrl, "_blank");
+                });
+              }
+              const cloudVersion = this.plugin.pixelBannerVersion;
+              const currentVersion = this.plugin.settings.lastVersion;
+              const isCloudVersionGreater = semver.gt(cloudVersion, currentVersion);
+              let versionText, cursor;
+              if (isCloudVersionGreater) {
+                versionText = `\u{1F504} Update Available!`;
+                cursor = "pointer";
+              } else {
+                versionText = ``;
+                cursor = "default";
+              }
+              const versionInfo = accountInfo.createDiv({
+                text: versionText,
+                attr: {
+                  style: `
+                                display: flex;
+                                flex-direction: row;
+                                gap: 10px;
+                                align-items: center;
+                                cursor: ${cursor};
+                                margin-left: auto;
+                                animation: pixel-banner-scale-up-down 3s ease-in-out infinite;
+                            `
+                }
+              });
+              if (isCloudVersionGreater) {
+                const openCommunityPlugins = async () => {
+                  this.close();
+                  await this.app.setting.open();
+                  await new Promise((resolve) => setTimeout(resolve, 300));
+                  const settingsTabs = document.querySelectorAll(".vertical-tab-header-group .vertical-tab-nav-item");
+                  for (const tab of settingsTabs) {
+                    if (tab.textContent.includes("Community plugins")) {
+                      tab.click();
+                      break;
+                    }
+                  }
+                  await new Promise((resolve) => setTimeout(resolve, 500));
+                  const allTheButtons = document.querySelectorAll("button.mod-cta");
+                  for (const button of allTheButtons) {
+                    if (button.textContent.includes("Check for updates")) {
+                      button.click();
+                      break;
+                    }
+                  }
+                };
+                versionInfo.addEventListener("click", openCommunityPlugins);
+              }
             }
           }
         }
@@ -1165,9 +1543,8 @@ var init_selectPixelBannerModal = __esm({
             .pixel-banner-main-container {
                 display: flex;
                 flex-direction: column;
-                gap: 24px;
+                gap: 15px;
                 padding: 0 16px 16px;
-                overflow-y: auto;
                 max-height: 80vh;
                 width: 100%;
                 box-sizing: border-box;
@@ -1178,6 +1555,7 @@ var init_selectPixelBannerModal = __esm({
                 flex-direction: column;
                 gap: 16px;
                 width: 100%;
+                padding: 14px;
             }
             
             .pixel-banner-section-title {
@@ -1207,7 +1585,6 @@ var init_selectPixelBannerModal = __esm({
                 transition: all 0.2s ease;
                 flex: 1;
                 min-width: 80px;
-                min-height: 100px;
                 height: 100%;
                 box-sizing: border-box;
                 overflow: hidden;
@@ -1276,7 +1653,6 @@ var init_selectPixelBannerModal = __esm({
                 transition: all 0.2s ease;
                 flex: 1;
                 min-width: 80px;
-                min-height: 100px;
                 height: 100%;
                 box-sizing: border-box;
                 overflow: hidden;
@@ -1300,20 +1676,18 @@ var init_selectPixelBannerModal = __esm({
             }
             
             .pixel-banner-no-banner-message {
-                margin-top: 8px;
-                padding: 12px;
                 background: var(--background-modifier-error-rgb);
                 border-radius: 8px;
-                opacity: 0.7;
                 width: 100%;
                 box-sizing: border-box;
             }
             
             .pixel-banner-message-text {
                 margin: 0;
-                color: var(--text-error);
+                color: var(--text-accent-hover);
                 font-size: 14px;
                 text-align: center;
+                text-transform: uppercase;
             }
             
             .pixel-banner-settings-button:hover {
@@ -1323,9 +1697,9 @@ var init_selectPixelBannerModal = __esm({
             /* Pixel Banner Plus Account styles */
             .pixel-banner-account-info {
                 display: flex;
-                flex-direction: row;
-                justify-content: flex-start;
-                align-items: center;
+                flex-direction: column;
+                justify-content: center;
+                align-items: flex-start;
                 flex-wrap: wrap;
                 gap: 10px;
                 width: 100%;
@@ -1333,7 +1707,7 @@ var init_selectPixelBannerModal = __esm({
             
             .pixel-banner-status-value {
                 padding: 3px 7px;
-                border-radius: 0px;
+                border-radius: 15px;
                 font-size: .8em;
                 letter-spacing: 1px;
                 background-color: var(--background-primary);
@@ -1342,14 +1716,20 @@ var init_selectPixelBannerModal = __esm({
             }
             
             .pixel-banner-account-button {
-                padding: 3px 7px;
-                border-radius: 5px;
-                cursor: pointer;
-                text-transform: uppercase;
-                letter-spacing: 1px;
-                font-size: .7em;
-                transition: all 0.2s ease;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                padding: 12px 8px;
+                border-radius: 8px;
                 border: 1px solid var(--background-modifier-border);
+                background: var(--background-primary);
+                cursor: pointer;
+                transition: all 0.2s ease;
+                flex: 1;
+                min-width: 80px;
+                height: 100%;
+                box-sizing: border-box;
+                overflow: hidden;
             }
             
             .pixel-banner-account-button:hover {
@@ -1369,7 +1749,7 @@ var init_selectPixelBannerModal = __esm({
             }
             
             .pixel-banner-retry-button {
-                background-color: var(--background-modifier-success) !important;
+                background-color: var(--background-accent) !important;
                 color: var(--text-on-accent) !important;
                 font-size: 0.8em !important;
                 padding: 4px 8px !important;
@@ -1403,6 +1783,13 @@ var init_selectPixelBannerModal = __esm({
                 .pixel-banner-source-button,
                 .pixel-banner-customize-button {
                     padding: 16px 8px;
+                }
+            }
+            
+            @media (max-width: 590px) {
+                .pixel-banner-daily-game-container {
+                    flex-direction: column !important;
+                    align-items: flex-start !important;
                 }
             }
             
@@ -1455,6 +1842,8 @@ var init_generateAIBannerModal = __esm({
         this.modalEl.addClass("pixel-banner-ai-modal");
         this.downloadHistory = new DownloadHistory();
         this.isLoading = true;
+        this.provider = "TOGETHER";
+        this.resolution = "1360 \xD7 768 (Landscape)";
         this.currentPage = 1;
         this.totalPages = 1;
         this.itemsPerPage = 9;
@@ -1579,13 +1968,16 @@ var init_generateAIBannerModal = __esm({
             headers: {
               "X-User-Email": this.plugin.settings.pixelBannerPlusEmail,
               "X-API-Key": this.plugin.settings.pixelBannerPlusApiKey,
+              "X-Pixel-Banner-Version": this.plugin.settings.lastVersion,
               "Accept": "application/json",
               "Content-Type": "application/json"
             },
             body: JSON.stringify({
               prompt: this.prompt,
               width: this.width,
-              height: this.height
+              height: this.height,
+              provider: this.provider,
+              resolution: this.resolution
             })
           });
           if (response.status === 200 && response.json.image) {
@@ -1751,6 +2143,7 @@ var init_generateAIBannerModal = __esm({
           headers: {
             "X-User-Email": this.plugin.settings.pixelBannerPlusEmail,
             "X-API-Key": this.plugin.settings.pixelBannerPlusApiKey,
+            "X-Pixel-Banner-Version": this.plugin.settings.lastVersion,
             "Accept": "application/json"
           }
         });
@@ -1834,6 +2227,29 @@ var init_generateAIBannerModal = __esm({
 
                 .pixel-banner-generate-btn-container button {
                     min-width: 150px;
+                }
+
+                .pixel-banner-image-controls {
+                    margin-top: 10px;
+                    display: flex;
+                    justify-content: center;
+                    gap: 10px;
+                }
+
+                .pixel-banner-generated-image-wrapper {
+                    width: 100%;
+                    border-radius: 8px;
+                    overflow: hidden;
+                    background: var(--background-secondary);
+
+                }
+
+                .pixel-banner-generated-image {
+                    width: inherit;
+                    height: auto;
+                    display: block;
+                    animation: pixel-banner-fade-in 1300ms ease-in-out;
+                    margin: 0 auto;
                 }
 
                 /* History container styles */
@@ -1938,7 +2354,8 @@ var init_generateAIBannerModal = __esm({
                     letter-spacing: 1px;
                 }
                 .pixel-banner-inspiration-button,
-                .pixel-banner-inspiration-from-seed-button {
+                .pixel-banner-inspiration-from-seed-button,
+                .pixel-banner-rewrite-button {
                     padding: 4px 12px;
                     border-radius: 4px;
                     cursor: pointer;
@@ -1949,11 +2366,13 @@ var init_generateAIBannerModal = __esm({
                     margin-left: 10px;
                 }
                 .pixel-banner-inspiration-button:hover,
-                .pixel-banner-inspiration-from-seed-button:hover {
+                .pixel-banner-inspiration-from-seed-button:hover,
+                .pixel-banner-rewrite-button:hover {
                     background-color: var(--interactive-accent-hover);
                 }
                 .pixel-banner-inspiration-button:disabled,
-                .pixel-banner-inspiration-from-seed-button:disabled {
+                .pixel-banner-inspiration-from-seed-button:disabled,
+                .pixel-banner-rewrite-button:disabled {
                     opacity: 0.7;
                     cursor: not-allowed;
                     background-color: var(--interactive-accent);
@@ -1974,6 +2393,23 @@ var init_generateAIBannerModal = __esm({
                     .pixel-banner-generate-btn-container { flex-direction: column !important; }
                     .pixel-banner-generate-btn-container button { width: 100% !important; }
                 }
+                
+                .pixel-banner-ai-modal .setting-item-control select.dropdown {
+                    width: 100%;
+                    height: auto;
+                    border-radius: 4px;
+                    padding: 8px;
+                    background-color: var(--background-secondary);
+                    color: var(--text-normal);
+                    border: 1px solid var(--background-modifier-border);
+                }
+                
+                .pixel-banner-ai-modal .setting-item-control select.dropdown:focus {
+                    border-color: var(--interactive-accent);
+                    outline: none;
+                }
+                
+                /* ------------------- */
             `
         });
         contentEl.createEl("h2", {
@@ -1995,7 +2431,7 @@ var init_generateAIBannerModal = __esm({
           }
         });
         const promptDescription = promptAllowedSection.createEl("p", {
-          text: "Simply enter a prompt, optionally adjust the width and height, and let AI generate a banner for you. Dont have any prompt ideas? Use the \u{1F4A1} inspiration button to get started, or grow a basic prompt into something special with the \u{1F331} grow your idea button.",
+          text: 'Simply enter a prompt, optionally adjust the width and height, and let AI generate a banner for you. Dont have any prompt ideas? Use the "\u{1F4A1} INSPIRATION" button to get started, or grow a basic prompt into something special with the "\u{1F331} GROW IDEA" button. You can also use the "\u270F\uFE0F REWRITE PROMPT" button to improve your existing prompt.',
           cls: "pixel-banner-prompt-description",
           attr: {
             "style": `
@@ -2021,7 +2457,7 @@ var init_generateAIBannerModal = __esm({
         promptContainer.createDiv({ cls: "setting-item-name", text: "\u{1F58B}\uFE0F Creative Banner Prompt" });
         promptContainer.createDiv({
           cls: "setting-item-description",
-          text: 'TIP \u21E2 Type a few words and then press the "\u{1F331}" button to grow your idea into something special!',
+          text: 'TIP \u21E2 Type a few words and then press the "\u{1F331} GROW IDEA" button to transform your basic idea into something special!',
           attr: {
             "style": `
                     color: var(--text-muted); 
@@ -2055,12 +2491,12 @@ var init_generateAIBannerModal = __esm({
         const promptInspirationContainer = promptControl.createDiv({ cls: "pixel-banner-prompt-inspiration-container" });
         const inspirationButton = promptInspirationContainer.createEl("button", {
           cls: "pixel-banner-inspiration-button",
-          text: "\u{1F4A1} Inspiration"
+          text: "\u{1F4A1} INSPIRATION"
         });
         inspirationButton.addEventListener("click", () => this.getPromptInspiration());
         const inspirationFromSeedButton = promptInspirationContainer.createEl("button", {
           cls: "pixel-banner-inspiration-from-seed-button",
-          text: "\u{1F331} Grow your Idea",
+          text: "\u{1F331} GROW IDEA",
           attr: {
             style: `
                     border-bottom: 1px solid var(--interactive-accent-hover);
@@ -2068,12 +2504,96 @@ var init_generateAIBannerModal = __esm({
           }
         });
         inspirationFromSeedButton.addEventListener("click", () => this.getPromptInspirationFromSeed());
+        const rewritePromptButton = promptInspirationContainer.createEl("button", {
+          cls: "pixel-banner-rewrite-button",
+          text: "\u270F\uFE0F REWRITE PROMPT",
+          attr: {
+            style: `
+                    border-bottom: 1px solid var(--interactive-accent-hover);
+                `
+          }
+        });
+        rewritePromptButton.addEventListener("click", () => this.rewritePrompt());
         const inspirationClearButton = promptInspirationContainer.createEl("button", {
           cls: "pixel-banner-inspiration-clear-button",
-          text: "\u{1F5D1}\uFE0F Clear"
+          text: "\u{1F5D1}\uFE0F CLEAR"
         });
         inspirationClearButton.addEventListener("click", () => this.clearPromptInspiration());
-        const widthContainer = promptAllowedSection.createDiv({ cls: "setting-item pixel-banner-ai-control-row", attr: { style: "padding-bottom: 0;" } });
+        const modelContainer = promptAllowedSection.createDiv({
+          cls: "setting-item pixel-banner-ai-control-row",
+          attr: { style: "padding-bottom: 0;" }
+        });
+        const modelInfo = modelContainer.createDiv({ cls: "setting-item-info" });
+        modelInfo.createDiv({ cls: "setting-item-name", text: "AI Model" });
+        modelInfo.createDiv({
+          cls: "setting-item-description",
+          text: "Select AI model for image generation",
+          attr: { style: "font-size: 0.8em;" }
+        });
+        const modelControl = modelContainer.createDiv({
+          cls: "setting-item-control",
+          attr: { style: "display: flex; gap: 15px;" }
+        });
+        const fluxContainer = modelControl.createDiv({ attr: { style: "display: flex; align-items: center; gap: 5px;" } });
+        const fluxRadio = fluxContainer.createEl("input", {
+          type: "radio",
+          attr: {
+            id: "flux-model",
+            name: "provider",
+            value: "TOGETHER",
+            checked: true,
+            // Always set FLUX as default
+            style: `
+                    cursor: pointer;
+                `
+          }
+        });
+        fluxContainer.createEl("label", {
+          attr: {
+            for: "flux-model",
+            style: `
+                    cursor: pointer;
+                `
+          }
+        }).innerHTML = 'FLUX <span style="font-size: 0.77em; color: var(--text-muted); letter-spacing: 0.5px;"> \u22C5 DEFAULT</span>';
+        const hidreamContainer = modelControl.createDiv({ attr: { style: "display: flex; align-items: center; gap: 5px;" } });
+        const hidreamRadio = hidreamContainer.createEl("input", {
+          type: "radio",
+          attr: {
+            id: "hidream-model",
+            name: "provider",
+            value: "REPLICATE",
+            checked: false,
+            style: `
+                    cursor: pointer;
+                `
+          }
+        });
+        hidreamContainer.createEl("label", {
+          text: "HiDream",
+          attr: {
+            for: "hidream-model",
+            style: `
+                    cursor: pointer;
+                `
+          }
+        });
+        fluxRadio.addEventListener("change", (e) => {
+          if (e.target.checked) {
+            this.provider = "TOGETHER";
+            this.updateInputVisibility();
+          }
+        });
+        hidreamRadio.addEventListener("change", (e) => {
+          if (e.target.checked) {
+            this.provider = "REPLICATE";
+            this.updateInputVisibility();
+          }
+        });
+        const widthContainer = promptAllowedSection.createDiv({
+          cls: "setting-item pixel-banner-ai-control-row flux-control",
+          attr: { style: "padding-bottom: 0;" }
+        });
         const widthInfo = widthContainer.createDiv({ cls: "setting-item-info" });
         widthInfo.createDiv({ cls: "setting-item-name", text: "Width" });
         widthInfo.createDiv({ cls: "setting-item-description", text: this.width });
@@ -2089,7 +2609,9 @@ var init_generateAIBannerModal = __esm({
           this.width = parseInt(e.target.value);
           widthInfo.querySelector(".setting-item-description").textContent = this.width;
         });
-        const heightContainer = promptAllowedSection.createDiv({ cls: "setting-item pixel-banner-ai-control-row" });
+        const heightContainer = promptAllowedSection.createDiv({
+          cls: "setting-item pixel-banner-ai-control-row flux-control"
+        });
         const heightInfo = heightContainer.createDiv({ cls: "setting-item-info" });
         heightInfo.createDiv({ cls: "setting-item-name", text: "Height" });
         heightInfo.createDiv({ cls: "setting-item-description", text: this.height });
@@ -2104,6 +2626,45 @@ var init_generateAIBannerModal = __esm({
         heightSlider.addEventListener("input", (e) => {
           this.height = parseInt(e.target.value);
           heightInfo.querySelector(".setting-item-description").textContent = this.height;
+        });
+        const resolutionContainer = promptAllowedSection.createDiv({
+          cls: "setting-item pixel-banner-ai-control-row hidream-control",
+          attr: { style: "display: none;" }
+          // Hidden by default
+        });
+        const resolutionInfo = resolutionContainer.createDiv({ cls: "setting-item-info" });
+        resolutionInfo.createDiv({ cls: "setting-item-name", text: "Resolution" });
+        resolutionInfo.createDiv({
+          cls: "setting-item-description",
+          text: "Select image resolution and orientation",
+          attr: { style: "font-size: 0.8em;" }
+        });
+        const resolutionControl = resolutionContainer.createDiv({ cls: "setting-item-control" });
+        const resolutionSelect = resolutionControl.createEl("select", {
+          cls: "dropdown",
+          attr: { id: "resolution" }
+        });
+        const resolutionOptions = [
+          { value: "1360 \xD7 768 (Landscape)", text: "1360 \xD7 768 (Landscape)" },
+          { value: "1248 \xD7 832 (Landscape)", text: "1248 \xD7 832 (Landscape)" },
+          { value: "1168 \xD7 880 (Landscape)", text: "1168 \xD7 880 (Landscape)" },
+          { value: "1024 \xD7 1024 (Square)", text: "1024 \xD7 1024 (Square)" },
+          { value: "880 \xD7 1168 (Portrait)", text: "880 \xD7 1168 (Portrait)" },
+          { value: "832 \xD7 1248 (Portrait)", text: "832 \xD7 1248 (Portrait)" },
+          { value: "768 \xD7 1360 (Portrait)", text: "768 \xD7 1360 (Portrait)" }
+        ];
+        resolutionOptions.forEach((option, index) => {
+          const optionEl = resolutionSelect.createEl("option", {
+            text: option.text,
+            attr: {
+              value: option.value,
+              selected: index === 0
+              // Select first option by default
+            }
+          });
+        });
+        resolutionSelect.addEventListener("change", (e) => {
+          this.resolution = e.target.value;
         });
         const promptDisallowedSection = contentEl.createDiv({
           cls: "prompt-disallowed-section",
@@ -2262,6 +2823,27 @@ var init_generateAIBannerModal = __esm({
           await this.refreshHistoryContainer();
         }
         this.hideLoadingSpinner();
+        if (promptInput) {
+          setTimeout(() => {
+            promptInput.focus();
+          }, 100);
+        }
+        this.updateInputVisibility();
+        setTimeout(() => {
+          const fluxModelInput = document.getElementById("flux-model");
+          if (fluxModelInput) {
+            fluxModelInput.checked = true;
+            const event = new Event("change", { bubbles: true });
+            fluxModelInput.dispatchEvent(event);
+          }
+        }, 50);
+        setTimeout(() => {
+          const resolutionSelect2 = this.contentEl.querySelector("#resolution");
+          if (resolutionSelect2) {
+            resolutionSelect2.value = this.resolution;
+          }
+        }, 50);
+        this.hideLoadingSpinner();
       }
       async getPromptInspiration() {
         var _a;
@@ -2278,6 +2860,7 @@ var init_generateAIBannerModal = __esm({
             headers: {
               "X-User-Email": this.plugin.settings.pixelBannerPlusEmail,
               "X-API-Key": this.plugin.settings.pixelBannerPlusApiKey,
+              "X-Pixel-Banner-Version": this.plugin.settings.lastVersion,
               "Accept": "application/json"
             }
           });
@@ -2285,7 +2868,7 @@ var init_generateAIBannerModal = __esm({
             const promptInput = this.contentEl.querySelector("#ai-banner-prompt");
             if (promptInput) {
               let promptIdea = (_a = response.json.bannerIdea) == null ? void 0 : _a.toLowerCase();
-              promptIdea = promptIdea.replace(/[^a-zA-Z0-9\s]/g, "").trim();
+              promptIdea = promptIdea.trim();
               promptInput.value = promptIdea;
               this.prompt = promptIdea;
             }
@@ -2318,6 +2901,7 @@ var init_generateAIBannerModal = __esm({
             headers: {
               "X-User-Email": this.plugin.settings.pixelBannerPlusEmail,
               "X-API-Key": this.plugin.settings.pixelBannerPlusApiKey,
+              "X-Pixel-Banner-Version": this.plugin.settings.lastVersion,
               "Accept": "application/json"
             }
           });
@@ -2325,7 +2909,7 @@ var init_generateAIBannerModal = __esm({
             const promptInput = this.contentEl.querySelector("#ai-banner-prompt");
             if (promptInput) {
               let promptIdea = (_a = response.json.bannerIdea) == null ? void 0 : _a.toLowerCase();
-              promptIdea = promptIdea.replace(/[^a-zA-Z0-9\s]/g, "").trim();
+              promptIdea = promptIdea.trim();
               promptInput.value = promptIdea;
               this.prompt = promptIdea;
             }
@@ -2336,6 +2920,47 @@ var init_generateAIBannerModal = __esm({
         } finally {
           inspirationFromSeedButton.textContent = originalText;
           inspirationFromSeedButton.disabled = false;
+        }
+      }
+      async rewritePrompt() {
+        var _a;
+        const rewritePromptButton = this.contentEl.querySelector(".pixel-banner-rewrite-button");
+        const originalText = rewritePromptButton.textContent;
+        const promptTextarea = this.contentEl.querySelector("#ai-banner-prompt");
+        let seed = promptTextarea.value.trim();
+        if (seed.length === 0) {
+          new import_obsidian13.Notice("Please enter at lease one word in the Prompt box to generate a rewritten prompt.");
+          return;
+        }
+        try {
+          rewritePromptButton.textContent = "\u23F3";
+          rewritePromptButton.disabled = true;
+          const inspirationUrl = new URL(PIXEL_BANNER_PLUS.ENDPOINTS.REWRITE_BANNER_IDEA, PIXEL_BANNER_PLUS.API_URL).toString();
+          const response = await (0, import_obsidian13.requestUrl)({
+            url: inspirationUrl + `/${seed}`,
+            method: "GET",
+            headers: {
+              "X-User-Email": this.plugin.settings.pixelBannerPlusEmail,
+              "X-API-Key": this.plugin.settings.pixelBannerPlusApiKey,
+              "X-Pixel-Banner-Version": this.plugin.settings.lastVersion,
+              "Accept": "application/json"
+            }
+          });
+          if (response.status === 200 && response.json.bannerIdea) {
+            const promptInput = this.contentEl.querySelector("#ai-banner-prompt");
+            if (promptInput) {
+              let promptIdea = (_a = response.json.bannerIdea) == null ? void 0 : _a.toLowerCase();
+              promptIdea = promptIdea.trim();
+              promptInput.value = promptIdea;
+              this.prompt = promptIdea;
+            }
+          }
+        } catch (error) {
+          console.error("Failed to rewrite prompt:", error);
+          new import_obsidian13.Notice("Failed to rewrite prompt. Please try again.");
+        } finally {
+          rewritePromptButton.textContent = originalText;
+          rewritePromptButton.disabled = false;
         }
       }
       async clearPromptInspiration() {
@@ -2394,6 +3019,7 @@ var init_generateAIBannerModal = __esm({
             headers: {
               "X-User-Email": this.plugin.settings.pixelBannerPlusEmail,
               "X-API-Key": this.plugin.settings.pixelBannerPlusApiKey,
+              "X-Pixel-Banner-Version": this.plugin.settings.lastVersion,
               "Accept": "application/json"
             }
           });
@@ -2409,6 +3035,7 @@ var init_generateAIBannerModal = __esm({
             headers: {
               "X-User-Email": this.plugin.settings.pixelBannerPlusEmail,
               "X-API-Key": this.plugin.settings.pixelBannerPlusApiKey,
+              "X-Pixel-Banner-Version": this.plugin.settings.lastVersion,
               "Accept": "application/json"
             }
           });
@@ -2519,6 +3146,7 @@ var init_generateAIBannerModal = __esm({
             headers: {
               "X-User-Email": this.plugin.settings.pixelBannerPlusEmail,
               "X-API-Key": this.plugin.settings.pixelBannerPlusApiKey,
+              "X-Pixel-Banner-Version": this.plugin.settings.lastVersion,
               "Accept": "application/json"
             }
           });
@@ -2616,6 +3244,18 @@ var init_generateAIBannerModal = __esm({
           this.loadingOverlay.remove();
         }
       }
+      // Method to update visibility of inputs based on selected provider
+      updateInputVisibility() {
+        const fluxControls = document.querySelectorAll(".flux-control");
+        const hidreamControls = document.querySelectorAll(".hidream-control");
+        if (this.provider === "REPLICATE") {
+          fluxControls.forEach((el) => el.style.display = "none");
+          hidreamControls.forEach((el) => el.style.display = "flex");
+        } else {
+          fluxControls.forEach((el) => el.style.display = "flex");
+          hidreamControls.forEach((el) => el.style.display = "none");
+        }
+      }
     };
   }
 });
@@ -2690,6 +3330,115 @@ var init_imageSelectionModal = __esm({
         contentEl.empty();
         const style = document.createElement("style");
         style.textContent = `
+            .pixel-banner-image-modal {
+                width: var(--dialog-max-width);
+                top: unset !important;
+            }
+
+            .pixel-banner-image-select-modal {
+                top: unset !important;
+                width: var(--dialog-max-width);
+                max-width: 1100px;
+            }
+
+            .pixel-banner-image-select-modal .pixel-banner-image-delete {
+                position: absolute;
+                top: 8px;
+                right: 8px;
+                width: 24px;
+                height: 24px;
+                background-color: var(--background-secondary);
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                opacity: .5;
+                transition: opacity 0.2s ease, background-color 0.2s ease;
+                cursor: pointer;
+                z-index: 2;
+            }
+
+            .pixel-banner-image-select-modal .pixel-banner-image-wrapper:hover .pixel-banner-image-delete {
+                opacity: 1;
+            }
+
+            .pixel-banner-image-select-modal .pixel-banner-image-delete:hover {
+                background-color: red;
+                color: white;
+                opacity: 1;
+            }
+
+            .pixel-banner-image-select-modal .pixel-banner-image-delete svg {
+                width: 16px;
+                height: 16px;
+            }
+
+            .pixel-banner-image-select-description {
+                margin-top: -15px;
+                font-size: 0.8em;
+                word-break: break-all;
+                color: var(--text-muted);
+                margin-bottom: 15px;
+            }
+
+            .pixel-banner-search-container {
+                margin-bottom: 1rem;
+            }
+            
+            .pixel-banner-search-container input {
+                width: 100%;
+                padding: 8px;
+                border-radius: 4px;
+                border: 1px solid var(--background-modifier-border);
+            }
+
+            .pixel-banner-search-container .search-row {
+                flex: 1;
+                display: flex;
+                gap: 8px;
+                margin: 0;
+            }
+
+            .pixel-banner-search-container .controls-row {
+                flex: 0 auto;
+                display: flex;
+                gap: 8px;
+                margin: 0;
+            }
+
+            .pixel-banner-image-thumbnail {
+                width: 100%;
+                height: 150px;
+                object-fit: cover;
+                border-radius: 2px;
+            }
+
+            .pixel-banner-image-path {
+                margin-top: 8px;
+                font-size: 0.8em;
+                word-break: break-all;
+                color: var(--text-muted);
+            }
+
+            .pixel-banner-image-error {
+                height: 150px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background-color: var(--background-modifier-error);
+                color: var(--text-error);
+                border-radius: 2px;
+            }
+
+            .pixel-banner-image-grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+                gap: 1rem;
+                padding: 0 1rem;
+                overflow-y: auto;
+                max-height: 60vh;
+            }
+
             .pixel-banner-pagination-button {
                 padding: 4px 8px;
                 border-radius: 4px;
@@ -2807,6 +3556,30 @@ var init_imageSelectionModal = __esm({
                 .pixel-banner-pagination { flex-direction: column !important; }
                 .pixel-banner-pagination .pixel-banner-controls { flex-direction: column !important; }
             }
+
+            @media screen and (max-width: 775px) {
+                .pixel-banner-search-container {
+                    flex-direction: column !important;
+                    gap: 8px !important;
+                }
+
+                .pixel-banner-search-container .search-row {
+                    display: flex;
+                    width: 100%;
+                    gap: 8px;
+                }
+
+                .pixel-banner-search-container .controls-row {
+                    display: flex;
+                    width: 100%;
+                    gap: 8px;
+                    align-items: center;
+                }
+
+                .pixel-banner-search-container input[type="text"] {
+                    flex: 1;
+                }
+            }
         `;
         document.head.appendChild(style);
         this.style = style;
@@ -2831,10 +3604,10 @@ var init_imageSelectionModal = __esm({
           text: "Clear"
         });
         const controlsRow = searchContainer.createDiv({ cls: "controls-row" });
-        if (this.plugin.pixelBannerPlusServerOnline) {
+        if (this.plugin.pixelBannerPlusEnabled && this.plugin.pixelBannerPlusServerOnline) {
           const pixelBannerPlusGenAIButton = controlsRow.createEl("button");
           pixelBannerPlusGenAIButton.addClass("radial-pulse-animation");
-          const sparkleSpan = pixelBannerPlusGenAIButton.createSpan({ cls: "twinkle-animation", text: "\u2728 " });
+          const sparkleSpan = pixelBannerPlusGenAIButton.createSpan({ cls: "pixel-banner-twinkle-animation", text: "\u2728 " });
           pixelBannerPlusGenAIButton.createSpan({ cls: "margin-left-5", text: "AI" });
           pixelBannerPlusGenAIButton.addEventListener("click", () => {
             this.close();
@@ -22467,7 +23240,7 @@ var init_emojiSelectionModal = __esm({
           value: this.currentBannerIconField || ""
         });
         const setBannerButton = bannerIconContainer.createEl("button", {
-          text: "Update Banner Icon",
+          text: "\u{1F4BE} Set Banner Icon",
           cls: "set-banner-button",
           attr: {
             style: `
@@ -22476,10 +23249,39 @@ var init_emojiSelectionModal = __esm({
                 `
           }
         });
-        setBannerButton.addEventListener("click", async () => {
+        const removeBannerIconButton = bannerIconContainer.createEl("button", {
+          text: "\u{1F5D1}\uFE0F Remove Icon",
+          cls: "remove-banner-icon-button cursor-pointer"
+        });
+        const handleSetBannerButtonClick = async () => {
           this.closedByButton = true;
           const trimmedValue = this.bannerIconInput.value.trim();
           await this.onChoose(trimmedValue === "" ? null : trimmedValue);
+          if (trimmedValue === "") {
+            const activeFile3 = this.app.workspace.getActiveFile();
+            if (activeFile3) {
+              await this.app.fileManager.processFrontMatter(activeFile3, (frontmatter2) => {
+                const bannerIconField2 = Array.isArray(this.plugin.settings.customBannerIconField) ? this.plugin.settings.customBannerIconField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconField;
+                const iconSizeField = Array.isArray(this.plugin.settings.customBannerIconSizeField) ? this.plugin.settings.customBannerIconSizeField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconSizeField;
+                const iconYPositionField = Array.isArray(this.plugin.settings.customBannerIconVeritalOffsetField) ? this.plugin.settings.customBannerIconVeritalOffsetField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconVeritalOffsetField;
+                const iconXPositionField = Array.isArray(this.plugin.settings.customBannerIconXPositionField) ? this.plugin.settings.customBannerIconXPositionField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconXPositionField;
+                const iconColorField = Array.isArray(this.plugin.settings.customBannerIconColorField) ? this.plugin.settings.customBannerIconColorField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconColorField;
+                const iconBgColorField = Array.isArray(this.plugin.settings.customBannerIconBackgroundColorField) ? this.plugin.settings.customBannerIconBackgroundColorField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconBackgroundColorField;
+                const iconXPaddingField = Array.isArray(this.plugin.settings.customBannerIconPaddingXField) ? this.plugin.settings.customBannerIconPaddingXField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconPaddingXField;
+                const iconYPaddingField = Array.isArray(this.plugin.settings.customBannerIconPaddingYField) ? this.plugin.settings.customBannerIconPaddingYField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconPaddingYField;
+                const iconBorderRadiusField = Array.isArray(this.plugin.settings.customBannerIconBorderRadiusField) ? this.plugin.settings.customBannerIconBorderRadiusField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconBorderRadiusField;
+                delete frontmatter2[bannerIconField2];
+                delete frontmatter2[iconSizeField];
+                delete frontmatter2[iconYPositionField];
+                delete frontmatter2[iconXPositionField];
+                delete frontmatter2[iconColorField];
+                delete frontmatter2[iconBgColorField];
+                delete frontmatter2[iconXPaddingField];
+                delete frontmatter2[iconYPaddingField];
+                delete frontmatter2[iconBorderRadiusField];
+              });
+            }
+          }
           this.close();
           const activeFile2 = this.app.workspace.getActiveFile();
           if (activeFile2) {
@@ -22522,14 +23324,11 @@ var init_emojiSelectionModal = __esm({
               new TargetPositionModal(this.app, this.plugin).open();
             }
           }
-        });
-        const clearBannerIconButton = bannerIconContainer.createEl("button", {
-          text: "Clear Icon",
-          cls: "clear-banner-icon-button cursor-pointer"
-        });
-        clearBannerIconButton.addEventListener("click", () => {
+        };
+        setBannerButton.addEventListener("click", handleSetBannerButtonClick);
+        removeBannerIconButton.addEventListener("click", async () => {
           this.bannerIconInput.value = "";
-          this.bannerIconInput.focus();
+          await handleSetBannerButtonClick();
         });
         contentEl.createEl("h5", { text: "Emoji Selector" });
         const searchContainer = contentEl.createDiv({ cls: "emoji-search-container" });
@@ -22679,7 +23478,7 @@ var init_getCurrentTheme = __esm({
 });
 
 // src/modal/modals/targetPositionModal.js
-var import_obsidian16, import_obsidian17, TargetPositionModal;
+var import_obsidian16, TargetPositionModal;
 var init_targetPositionModal = __esm({
   "src/modal/modals/targetPositionModal.js"() {
     import_obsidian16 = require("obsidian");
@@ -22688,7 +23487,6 @@ var init_targetPositionModal = __esm({
     init_selectPixelBannerModal();
     init_flags();
     init_frontmatterUtils();
-    import_obsidian17 = require("obsidian");
     TargetPositionModal = class extends import_obsidian16.Modal {
       constructor(app, plugin, onPositionChange) {
         var _a;
@@ -22698,6 +23496,8 @@ var init_targetPositionModal = __esm({
         this.isDragging = false;
         const activeFile = this.app.workspace.getActiveFile();
         const frontmatter = (_a = this.app.metadataCache.getFileCache(activeFile)) == null ? void 0 : _a.frontmatter;
+        const alignmentField = Array.isArray(this.plugin.settings.customBannerAlignmentField) ? this.plugin.settings.customBannerAlignmentField[0].split(",")[0].trim() : this.plugin.settings.customBannerAlignmentField;
+        this.currentAlignment = (frontmatter == null ? void 0 : frontmatter[alignmentField]) || "center";
         const displayField = Array.isArray(this.plugin.settings.customImageDisplayField) ? this.plugin.settings.customImageDisplayField[0].split(",")[0].trim() : this.plugin.settings.customImageDisplayField;
         this.currentDisplay = (frontmatter == null ? void 0 : frontmatter[displayField]) || this.plugin.settings.imageDisplay;
         const xField = Array.isArray(this.plugin.settings.customXPositionField) ? this.plugin.settings.customXPositionField[0].split(",")[0].trim() : this.plugin.settings.customXPositionField;
@@ -22706,12 +23506,20 @@ var init_targetPositionModal = __esm({
         this.currentY = (frontmatter == null ? void 0 : frontmatter[yField]) || this.plugin.settings.yPosition;
         const heightField = Array.isArray(this.plugin.settings.customBannerHeightField) ? this.plugin.settings.customBannerHeightField[0].split(",")[0].trim() : this.plugin.settings.customBannerHeightField;
         this.currentHeight = (frontmatter == null ? void 0 : frontmatter[heightField]) || this.plugin.settings.bannerHeight;
+        const maxWidthField = Array.isArray(this.plugin.settings.customBannerMaxWidthField) ? this.plugin.settings.customBannerMaxWidthField[0].split(",")[0].trim() : this.plugin.settings.customBannerMaxWidthField;
+        const maxWidthValue = frontmatter == null ? void 0 : frontmatter[maxWidthField];
+        const directMaxWidth = frontmatter == null ? void 0 : frontmatter["banner-max-width"];
+        const maxWidthExists = maxWidthValue !== void 0 && maxWidthValue !== null || directMaxWidth !== void 0 && directMaxWidth !== null;
+        const isMaxWidthUnset = !maxWidthExists;
+        this.currentMaxWidth = isMaxWidthUnset ? 1928 : parseInt(maxWidthValue || directMaxWidth) || 1928;
         const contentStartPositionField = Array.isArray(this.plugin.settings.customContentStartField) ? this.plugin.settings.customContentStartField[0].split(",")[0].trim() : this.plugin.settings.customContentStartField;
         this.currentContentStartPosition = (frontmatter == null ? void 0 : frontmatter[contentStartPositionField]) || this.plugin.settings.contentStartPosition;
         const bannerIconXPositionField = Array.isArray(this.plugin.settings.customBannerIconXPositionField) ? this.plugin.settings.customBannerIconXPositionField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconXPositionField;
         this.currentBannerIconXPosition = (frontmatter == null ? void 0 : frontmatter[bannerIconXPositionField]) || this.plugin.settings.bannerIconXPosition;
         const repeatField = Array.isArray(this.plugin.settings.customImageRepeatField) ? this.plugin.settings.customImageRepeatField[0].split(",")[0].trim() : this.plugin.settings.customImageRepeatField;
         this.currentRepeat = (frontmatter == null ? void 0 : frontmatter[repeatField]) !== void 0 ? frontmatter[repeatField] : this.plugin.settings.imageRepeat;
+        const fadeField = Array.isArray(this.plugin.settings.customFadeField) ? this.plugin.settings.customFadeField[0].split(",")[0].trim() : this.plugin.settings.customFadeField;
+        this.currentFade = (frontmatter == null ? void 0 : frontmatter[fadeField]) !== void 0 ? frontmatter[fadeField] : this.plugin.settings.fade;
         this.currentZoom = 100;
         if (this.currentDisplay && this.currentDisplay.endsWith("%")) {
           this.currentZoom = parseInt(this.currentDisplay) || 100;
@@ -22720,15 +23528,13 @@ var init_targetPositionModal = __esm({
       }
       // Helper to update frontmatter with new display value
       updateDisplayMode(mode, zoom = null) {
-        const activeFile = this.app.workspace.getActiveFile();
-        if (!activeFile) return;
         const displayField = Array.isArray(this.plugin.settings.customImageDisplayField) ? this.plugin.settings.customImageDisplayField[0].split(",")[0].trim() : this.plugin.settings.customImageDisplayField;
         const repeatField = Array.isArray(this.plugin.settings.customImageRepeatField) ? this.plugin.settings.customImageRepeatField[0].split(",")[0].trim() : this.plugin.settings.customImageRepeatField;
         let newValue = mode;
         if (mode === "cover-zoom") {
           newValue = `${zoom}%`;
         }
-        this.app.fileManager.processFrontMatter(activeFile, (fm) => {
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (fm) => {
           fm[displayField] = newValue;
           if (mode === "contain" || mode === "auto") {
             fm[repeatField] = this.currentRepeat;
@@ -22739,57 +23545,61 @@ var init_targetPositionModal = __esm({
           }
         });
       }
+      updateBannerMaxWidth(maxWidth) {
+        const maxWidthField = Array.isArray(this.plugin.settings.customBannerMaxWidthField) ? this.plugin.settings.customBannerMaxWidthField[0].split(",")[0].trim() : this.plugin.settings.customBannerMaxWidthField;
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (frontmatter) => {
+          if (maxWidth === "unset") {
+            if (maxWidthField in frontmatter) {
+              delete frontmatter[maxWidthField];
+            }
+          } else {
+            frontmatter[maxWidthField] = maxWidth;
+          }
+        });
+        setTimeout(() => {
+          const view = this.app.workspace.getActiveViewOfType(import_obsidian16.MarkdownView);
+          if (view) {
+            this.plugin.updateBanner(view, true);
+          }
+        }, 350);
+      }
       updateBannerHeight(height) {
-        const activeFile = this.app.workspace.getActiveFile();
-        if (!activeFile) return;
         const heightField = Array.isArray(this.plugin.settings.customBannerHeightField) ? this.plugin.settings.customBannerHeightField[0].split(",")[0].trim() : this.plugin.settings.customBannerHeightField;
-        this.app.fileManager.processFrontMatter(activeFile, (frontmatter) => {
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (frontmatter) => {
           frontmatter[heightField] = height;
         });
       }
       updateBannerContentStartPosition(position) {
-        const activeFile = this.app.workspace.getActiveFile();
-        if (!activeFile) return;
         const contentStartPositionField = Array.isArray(this.plugin.settings.customContentStartField) ? this.plugin.settings.customContentStartField[0].split(",")[0].trim() : this.plugin.settings.customContentStartField;
-        this.app.fileManager.processFrontMatter(activeFile, (frontmatter) => {
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (frontmatter) => {
           frontmatter[contentStartPositionField] = position;
         });
       }
       updateBannerIconXPosition(position) {
-        const activeFile = this.app.workspace.getActiveFile();
-        if (!activeFile) return;
         const bannerIconXPositionField = Array.isArray(this.plugin.settings.customBannerIconXPositionField) ? this.plugin.settings.customBannerIconXPositionField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconXPositionField;
-        this.app.fileManager.processFrontMatter(activeFile, (frontmatter) => {
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (frontmatter) => {
           frontmatter[bannerIconXPositionField] = position;
         });
       }
       updateBannerIconSize(size) {
-        const activeFile = this.app.workspace.getActiveFile();
-        if (!activeFile) return;
         const bannerIconSizeField = Array.isArray(this.plugin.settings.customBannerIconSizeField) ? this.plugin.settings.customBannerIconSizeField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconSizeField;
-        this.app.fileManager.processFrontMatter(activeFile, (frontmatter) => {
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (frontmatter) => {
           frontmatter[bannerIconSizeField] = size;
         });
       }
       updateBannerIconColor(color) {
-        const activeFile = this.app.workspace.getActiveFile();
-        if (!activeFile) return;
         const bannerIconColorField = Array.isArray(this.plugin.settings.customBannerIconColorField) ? this.plugin.settings.customBannerIconColorField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconColorField;
-        this.app.fileManager.processFrontMatter(activeFile, (frontmatter) => {
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (frontmatter) => {
           frontmatter[bannerIconColorField] = color;
         });
       }
       updateBannerIconFontWeight(fontWeight) {
-        const activeFile = this.app.workspace.getActiveFile();
-        if (!activeFile) return;
         const bannerIconFontWeightField = Array.isArray(this.plugin.settings.customBannerIconFontWeightField) ? this.plugin.settings.customBannerIconFontWeightField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconFontWeightField;
-        this.app.fileManager.processFrontMatter(activeFile, (frontmatter) => {
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (frontmatter) => {
           frontmatter[bannerIconFontWeightField] = fontWeight;
         });
       }
       updateBannerIconBgColor(color, alpha) {
-        const activeFile = this.app.workspace.getActiveFile();
-        if (!activeFile) return;
         const bannerIconBgColorField = Array.isArray(this.plugin.settings.customBannerIconBackgroundColorField) ? this.plugin.settings.customBannerIconBackgroundColorField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconBackgroundColorField;
         let finalColor = color;
         if (alpha < 100) {
@@ -22813,56 +23623,56 @@ var init_targetPositionModal = __esm({
             }
           }
         }
-        this.app.fileManager.processFrontMatter(activeFile, (frontmatter) => {
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (frontmatter) => {
           frontmatter[bannerIconBgColorField] = finalColor;
         });
       }
       updateBannerIconPaddingX(paddingX) {
-        const activeFile = this.app.workspace.getActiveFile();
-        if (!activeFile) return;
         const bannerIconPaddingXField = Array.isArray(this.plugin.settings.customBannerIconPaddingXField) ? this.plugin.settings.customBannerIconPaddingXField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconPaddingXField;
-        this.app.fileManager.processFrontMatter(activeFile, (frontmatter) => {
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (frontmatter) => {
           frontmatter[bannerIconPaddingXField] = paddingX;
         });
       }
       updateBannerIconPaddingY(paddingY) {
-        const activeFile = this.app.workspace.getActiveFile();
-        if (!activeFile) return;
         const bannerIconPaddingYField = Array.isArray(this.plugin.settings.customBannerIconPaddingYField) ? this.plugin.settings.customBannerIconPaddingYField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconPaddingYField;
-        this.app.fileManager.processFrontMatter(activeFile, (frontmatter) => {
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (frontmatter) => {
           frontmatter[bannerIconPaddingYField] = paddingY;
         });
       }
       updateBannerIconBorderRadius(borderRadius) {
-        const activeFile = this.app.workspace.getActiveFile();
-        if (!activeFile) return;
         const bannerIconBorderRadiusField = Array.isArray(this.plugin.settings.customBannerIconBorderRadiusField) ? this.plugin.settings.customBannerIconBorderRadiusField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconBorderRadiusField;
-        this.app.fileManager.processFrontMatter(activeFile, (frontmatter) => {
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (frontmatter) => {
           frontmatter[bannerIconBorderRadiusField] = borderRadius;
         });
       }
       updateBannerIconVerticalOffset(verticalOffset) {
-        const activeFile = this.app.workspace.getActiveFile();
-        if (!activeFile) return;
         const bannerIconVerticalOffsetField = Array.isArray(this.plugin.settings.customBannerIconVeritalOffsetField) ? this.plugin.settings.customBannerIconVeritalOffsetField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconVeritalOffsetField;
-        this.app.fileManager.processFrontMatter(activeFile, (frontmatter) => {
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (frontmatter) => {
           frontmatter[bannerIconVerticalOffsetField] = verticalOffset;
         });
       }
       updateTitleColor(color) {
-        const activeFile = this.app.workspace.getActiveFile();
-        if (!activeFile) return;
         const titleColorField = Array.isArray(this.plugin.settings.customTitleColorField) ? this.plugin.settings.customTitleColorField[0].split(",")[0].trim() : this.plugin.settings.customTitleColorField;
-        this.app.fileManager.processFrontMatter(activeFile, (frontmatter) => {
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (frontmatter) => {
           frontmatter[titleColorField] = color;
         });
       }
       updateRepeatMode(repeat) {
-        const activeFile = this.app.workspace.getActiveFile();
-        if (!activeFile) return;
         const repeatField = Array.isArray(this.plugin.settings.customImageRepeatField) ? this.plugin.settings.customImageRepeatField[0].split(",")[0].trim() : this.plugin.settings.customImageRepeatField;
-        this.app.fileManager.processFrontMatter(activeFile, (fm) => {
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (fm) => {
           fm[repeatField] = repeat;
+        });
+      }
+      updateBannerAlignment(alignment) {
+        const alignmentField = Array.isArray(this.plugin.settings.customBannerAlignmentField) ? this.plugin.settings.customBannerAlignmentField[0].split(",")[0].trim() : this.plugin.settings.customBannerAlignmentField;
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (fm) => {
+          fm[alignmentField] = alignment;
+        });
+      }
+      updateBannerFade(fade) {
+        const fadeField = Array.isArray(this.plugin.settings.customFadeField) ? this.plugin.settings.customFadeField[0].split(",")[0].trim() : this.plugin.settings.customFadeField;
+        this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (frontmatter) => {
+          frontmatter[fadeField] = fade;
         });
       }
       onPositionChange(x, y) {
@@ -22887,6 +23697,8 @@ var init_targetPositionModal = __esm({
         modalEl.style.width = "max-content";
         modalEl.style.height = "max-content";
         bgEl.style.opacity = "0";
+        const activeFile = this.app.workspace.getActiveFile();
+        const frontmatter = activeFile ? ((_a = this.app.metadataCache.getFileCache(activeFile)) == null ? void 0 : _a.frontmatter) || {} : {};
         const dragHandle = contentEl.createDiv({
           cls: "drag-handle",
           attr: {
@@ -22916,24 +23728,48 @@ var init_targetPositionModal = __esm({
                     font-weight: 600;
                     letter-spacing: 1px;
                     text-transform: uppercase;
+                    margin-top: 15px;
                     margin-bottom: 10px;
                 `
           }
         });
-        const bannerImageHeaderButton = bannerImageHeader.createEl("button", {
-          text: "\u270F\uFE0F Change Image",
+        const bannerImageHeaderButtons = bannerImageHeader.createEl("div", {
+          cls: "banner-image-header-buttons",
+          attr: {
+            style: `
+                    display: flex;
+                    flex-direction: row;
+                    flex-wrap: wrap;
+                    gap: 5px;
+                `
+          }
+        });
+        const bannerImageHeaderChangeButton = bannerImageHeaderButtons.createEl("button", {
+          text: "\u270F\uFE0F Change Banner",
           cls: "banner-image-header-button cursor-pointer",
           attr: {
             style: `
-                    margin-top: 15px;
                     text-transform: uppercase;
                     font-size: .8em;
                 `
           }
         });
-        bannerImageHeaderButton.addEventListener("click", () => {
+        bannerImageHeaderChangeButton.addEventListener("click", () => {
           this.close();
           new SelectPixelBannerModal(this.app, this.plugin).open();
+        });
+        const bannerImageHeaderRemoveButton = bannerImageHeaderButtons.createEl("button", {
+          text: "\u{1F5D1}\uFE0F Remove Banner",
+          cls: "banner-image-header-button cursor-pointer",
+          attr: {
+            style: `
+                    text-transform: uppercase;
+                    font-size: .8em;
+                `
+          }
+        });
+        bannerImageHeaderRemoveButton.addEventListener("click", () => {
+          this.resetPixelBannerNoteSettings(true);
         });
         const mainContainer = contentEl.createDiv({
           cls: "main-container--banner-image",
@@ -23016,6 +23852,103 @@ var init_targetPositionModal = __esm({
           zoomValue.setText(`${this.currentZoom}%`);
           this.updateDisplayMode("cover-zoom", this.currentZoom);
         });
+        const maxWidthContainer = mainContainer.createDiv({
+          cls: "max-width-container",
+          attr: {
+            style: `
+                    display: flex;
+                    flex-direction: column;
+                    gap: 10px;
+                    align-items: center;
+                    min-width: 60px;
+                    flex: 0 auto;
+                `
+          }
+        });
+        const maxWidthLabel = maxWidthContainer.createEl("div", {
+          text: "Max Width",
+          cls: "max-width-label",
+          attr: {
+            style: `
+                    color: var(--text-muted); 
+                    font-size: 0.9em;
+                `
+          }
+        });
+        const maxWidthField = Array.isArray(this.plugin.settings.customBannerMaxWidthField) ? this.plugin.settings.customBannerMaxWidthField[0].split(",")[0].trim() : this.plugin.settings.customBannerMaxWidthField;
+        const maxWidthValue = frontmatter == null ? void 0 : frontmatter[maxWidthField];
+        const directMaxWidth = frontmatter == null ? void 0 : frontmatter["banner-max-width"];
+        const maxWidthExists = maxWidthValue !== void 0 && maxWidthValue !== null || directMaxWidth !== void 0 && directMaxWidth !== null;
+        const isMaxWidthUnset = !maxWidthExists;
+        this.currentMaxWidth = isMaxWidthUnset ? 1928 : parseInt(maxWidthValue || directMaxWidth) || 1928;
+        const unsetContainer = maxWidthContainer.createDiv({
+          cls: "unset-container",
+          attr: {
+            style: `
+                    display: flex;
+                    align-items: center;
+                    gap: 5px;
+                    margin-bottom: 5px;
+                `
+          }
+        });
+        const unsetCheckbox = unsetContainer.createEl("input", {
+          type: "checkbox",
+          cls: "unset-checkbox"
+        });
+        const shouldBeChecked = isMaxWidthUnset;
+        unsetCheckbox.checked = shouldBeChecked;
+        unsetContainer.createEl("span", {
+          text: "unset"
+        });
+        const maxWidthValueDisplay = maxWidthContainer.createDiv({
+          cls: "max-width-value",
+          attr: {
+            style: `
+                    font-family: var(--font-monospace);
+                    font-size: 0.9em;
+                    ${isMaxWidthUnset ? "color: var(--text-muted);" : ""}
+                `
+          }
+        });
+        maxWidthValueDisplay.setText(isMaxWidthUnset ? "unset" : `${this.currentMaxWidth}px`);
+        const maxWidthSlider = maxWidthContainer.createEl("input", {
+          type: "range",
+          cls: "max-width-slider",
+          attr: {
+            min: "100",
+            max: "2560",
+            step: "10",
+            value: this.currentMaxWidth,
+            disabled: isMaxWidthUnset,
+            draggable: false,
+            style: `
+                    width: 15px;
+                    height: 30px;
+                    flex: 1;
+                    writing-mode: vertical-lr;
+                    direction: rtl;
+                    ${isMaxWidthUnset ? "opacity: 0.5;" : ""}
+                `
+          }
+        });
+        unsetCheckbox.addEventListener("change", () => {
+          const isUnset = unsetCheckbox.checked;
+          maxWidthSlider.disabled = isUnset;
+          maxWidthSlider.style.opacity = isUnset ? "0.5" : "1";
+          maxWidthValueDisplay.style.color = isUnset ? "var(--text-muted)" : "";
+          maxWidthValueDisplay.setText(isUnset ? "unset" : `${this.currentMaxWidth}px`);
+          if (isUnset) {
+            this.updateBannerMaxWidth("unset");
+          } else {
+            this.updateBannerMaxWidth(this.currentMaxWidth);
+          }
+        });
+        maxWidthSlider.addEventListener("input", () => {
+          this.currentMaxWidth = parseInt(maxWidthSlider.value);
+          maxWidthValueDisplay.setText(`${this.currentMaxWidth}px`);
+          this.updateBannerMaxWidth(this.currentMaxWidth);
+        });
         const heightContainer = mainContainer.createDiv({
           cls: "height-container",
           attr: {
@@ -23034,7 +23967,7 @@ var init_targetPositionModal = __esm({
           cls: "height-label",
           attr: {
             style: `
-                    color: var(--text-muted);
+                    color: var(--text-muted); 
                     font-size: 0.9em;
                 `
           }
@@ -23187,6 +24120,105 @@ var init_targetPositionModal = __esm({
           contentStartPositionValue.setText(`${this.currentContentStartPosition}px`);
           this.updateBannerContentStartPosition(this.currentContentStartPosition);
         });
+        const bannerSettingsRow2 = contentEl.createDiv({
+          attr: {
+            style: `
+                display: flex;
+                flex-direction: row;
+                gap: 10px;
+                align-items: center;
+                flex: 0 auto;
+                margin-top: 10px;
+                `
+          }
+        });
+        bannerSettingsRow2.createEl("div", {
+          text: "Banner Alignment",
+          attr: {
+            style: `
+                    color: var(--text-muted); 
+                    font-size: 0.9em;
+                `
+          }
+        });
+        const alignmentSelect = bannerSettingsRow2.createEl("select", { cls: "alignment-select" });
+        [
+          { value: "left", text: "Left" },
+          { value: "center", text: "Center" },
+          { value: "right", text: "Right" }
+        ].forEach((option) => {
+          const optionEl = alignmentSelect.createEl("option", {
+            text: option.text,
+            value: option.value
+          });
+          if (option.value === this.currentAlignment) {
+            optionEl.selected = true;
+          }
+        });
+        alignmentSelect.addEventListener("change", () => {
+          this.currentAlignment = alignmentSelect.value;
+          this.updateBannerAlignment(this.currentAlignment);
+        });
+        const bannerFadeContainer = bannerSettingsRow2.createDiv({
+          cls: "setting-item",
+          attr: {
+            style: `
+                    flex: 1;
+                    display: flex;
+                    flex-direction: row;
+                    gap: 10px;
+                    align-items: center;
+                `
+          }
+        });
+        const bannerFadeHeader = bannerFadeContainer.createDiv({
+          text: "Banner Fade",
+          attr: {
+            style: `
+                    color: var(--text-muted); 
+                    font-size: 0.9em;
+                `
+          }
+        });
+        const bannerFadeSliderContainer = bannerFadeContainer.createDiv({
+          attr: {
+            style: `
+                    flex: 1;
+                    display: flex;
+                    gap: 10px;
+                    align-items: center;
+                `
+          }
+        });
+        const bannerFadeSlider = bannerFadeSliderContainer.createEl("input", {
+          type: "range",
+          cls: "slider",
+          attr: {
+            min: -300,
+            max: 100,
+            step: 5,
+            value: this.currentFade,
+            style: `
+                    flex: 1;
+                `
+          }
+        });
+        const bannerFadeValue = bannerFadeSliderContainer.createDiv({
+          text: this.currentFade,
+          attr: {
+            style: `
+                    color: var(--text-muted);
+                    font-size: 0.9em;
+                    min-width: 45px;
+                    text-align: right;
+                `
+          }
+        });
+        bannerFadeSlider.addEventListener("input", (e) => {
+          const value = parseInt(e.target.value);
+          this.updateBannerFade(value);
+          bannerFadeValue.setText(value.toString());
+        });
         const openEmojiPicker = () => {
           this.close();
           new EmojiSelectionModal(
@@ -23216,8 +24248,6 @@ var init_targetPositionModal = __esm({
                 `
           }
         });
-        const activeFile = this.app.workspace.getActiveFile();
-        const frontmatter = (_a = this.app.metadataCache.getFileCache(activeFile)) == null ? void 0 : _a.frontmatter;
         const bannerIconField = Array.isArray(this.plugin.settings.customBannerIconField) ? this.plugin.settings.customBannerIconField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconField;
         let hasBannerIcon = frontmatter && frontmatter[bannerIconField] && frontmatter[bannerIconField].trim() !== "";
         if (!hasBannerIcon) {
@@ -23228,7 +24258,6 @@ var init_targetPositionModal = __esm({
               if (refreshedFrontmatter && refreshedFrontmatter[bannerIconField] && refreshedFrontmatter[bannerIconField].trim() !== "") {
                 hasBannerIcon = true;
               }
-              console.log("hasBannerIcon after delay", hasBannerIcon);
               resolve();
             }, 400);
           });
@@ -23479,9 +24508,7 @@ var init_targetPositionModal = __esm({
           }
         });
         const iconColorField = Array.isArray(this.plugin.settings.customBannerIconColorField) ? this.plugin.settings.customBannerIconColorField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconColorField;
-        const currentTheme = getCurrentTheme_default();
-        let defaultColor = currentTheme === "dark" ? "#ffffff" : "#000000";
-        let currentIconColor = defaultColor;
+        let currentIconColor = this.plugin.settings.bannerIconColor;
         if ((frontmatter == null ? void 0 : frontmatter[iconColorField]) || this.plugin.settings.bannerIconColor) {
           const colorValue = (frontmatter == null ? void 0 : frontmatter[iconColorField]) || this.plugin.settings.bannerIconColor;
           if (typeof colorValue === "string" && colorValue.startsWith("#")) {
@@ -23491,6 +24518,29 @@ var init_targetPositionModal = __esm({
           }
         }
         this.currentBannerIconColor = currentIconColor;
+        const ensureValidHexColor = (color) => {
+          if (!color || !/^#[0-9A-F]{6}$/i.test(color)) {
+            return "#000000";
+          }
+          return color;
+        };
+        const bannerIconColorPicker = bannerIconColorContainer.createEl("input", {
+          type: "color",
+          cls: "banner-icon-color-picker",
+          attr: {
+            value: ensureValidHexColor(this.currentBannerIconColor),
+            style: `
+                    width: 30px;
+                    height: 30px;
+                    cursor: pointer;
+                    padding: 0;
+                    background-color: transparent;
+                    margin-left: 5px;
+                    border: 1px solid;
+                    border-radius: 50%;
+                `
+          }
+        });
         const bannerIconColorInput = bannerIconColorContainer.createEl("input", {
           type: "text",
           cls: "banner-icon-color-input",
@@ -23501,13 +24551,6 @@ var init_targetPositionModal = __esm({
                     flex: 1;
                     max-width: 120px;
                 `
-          }
-        });
-        const bannerIconColorPicker = bannerIconColorContainer.createEl("input", {
-          type: "color",
-          cls: "banner-icon-color-picker",
-          attr: {
-            value: this.currentBannerIconColor && this.currentBannerIconColor.startsWith("#") ? this.currentBannerIconColor : ""
           }
         });
         bannerIconColorInput.addEventListener("change", () => {
@@ -23612,7 +24655,7 @@ var init_targetPositionModal = __esm({
           }
         });
         const iconBgColorField = Array.isArray(this.plugin.settings.customBannerIconBackgroundColorField) ? this.plugin.settings.customBannerIconBackgroundColorField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconBackgroundColorField;
-        let currentColor = defaultColor;
+        let currentColor = this.plugin.settings.bannerIconBackgroundColor;
         let currentAlpha = 100;
         if ((frontmatter == null ? void 0 : frontmatter[iconBgColorField]) || this.plugin.settings.bannerIconBackgroundColor) {
           const colorValue = (frontmatter == null ? void 0 : frontmatter[iconBgColorField]) || this.plugin.settings.bannerIconBackgroundColor;
@@ -23647,7 +24690,17 @@ var init_targetPositionModal = __esm({
           type: "color",
           cls: "banner-icon-bg-color-picker",
           attr: {
-            value: this.currentBannerIconBgColor && this.currentBannerIconBgColor.startsWith("#") ? this.currentBannerIconBgColor : defaultColor
+            value: this.currentBannerIconBgColor && this.currentBannerIconBgColor.startsWith("#") ? this.currentBannerIconBgColor : "",
+            style: `
+                    width: 30px;
+                    height: 30px;
+                    cursor: pointer;
+                    padding: 0;
+                    background-color: transparent;
+                    margin-left: 5px;
+                    border: 1px solid;
+                    border-radius: 50%;
+                `
           }
         });
         const alphaSliderRow = colorPickerAndAlphaSliderRow.createDiv({
@@ -24007,7 +25060,7 @@ var init_targetPositionModal = __esm({
                   const flagColorField = this.plugin.settings.customFlagColorField[0];
                   frontmatter2[flagColorField] = color;
                 });
-                const view = this.plugin.app.workspace.getActiveViewOfType(import_obsidian17.MarkdownView);
+                const view = this.plugin.app.workspace.getActiveViewOfType(import_obsidian16.MarkdownView);
                 if (view) {
                   await this.plugin.updateBanner(view, true);
                 }
@@ -24038,7 +25091,7 @@ var init_targetPositionModal = __esm({
             style: `
                     color: var(--text-muted);
                     font-size: 0.9em;
-                    min-width: 120px;
+                    min-width: 90px;
                 `
           }
         });
@@ -24065,7 +25118,7 @@ var init_targetPositionModal = __esm({
             placeholder: "#RRGGBB or color name",
             style: `
                     flex: 1;
-                    max-width: 120px;
+                    max-width: 90px;
                 `
           }
         });
@@ -24073,7 +25126,15 @@ var init_targetPositionModal = __esm({
           type: "color",
           cls: "title-color-picker",
           attr: {
-            value: this.currentTitleColor && this.currentTitleColor.startsWith("#") ? this.currentTitleColor : getCurrentTheme_default() === "dark" ? "#ffffff" : "#000000"
+            value: this.currentTitleColor && this.currentTitleColor.startsWith("#") ? this.currentTitleColor : getCurrentTheme_default() === "dark" ? "#ffffff" : "#000000",
+            style: `
+                    width: 30px;
+                    height: 30px;
+                    cursor: pointer;
+                    padding: 0;
+                    background-color: transparent;
+                    margin-left: 5px;
+                `
           }
         });
         titleColorInput.addEventListener("change", () => {
@@ -24125,7 +25186,7 @@ var init_targetPositionModal = __esm({
         closeSettingsButton.addEventListener("click", () => {
           this.close();
         });
-        resetButton.addEventListener("click", () => {
+        this.resetPixelBannerNoteSettings = (deleteBannerAndIcon = false) => {
           displaySelect.value = "cover";
           zoomContainer.style.display = "none";
           repeatContainer.style.display = "none";
@@ -24133,14 +25194,16 @@ var init_targetPositionModal = __esm({
           heightSlider.value = this.plugin.settings.bannerHeight;
           contentStartPositionSlider.value = this.plugin.settings.contentStartPosition;
           bannerIconXPositionSlider.value = this.plugin.settings.bannerIconXPosition;
-          const currentTheme2 = getCurrentTheme_default();
-          let defaultColor2 = currentTheme2 === "dark" ? "#ffffff" : "#000000";
+          bannerFadeSlider.value = this.plugin.settings.fade;
+          bannerFadeValue.setText(this.plugin.settings.fade.toString());
+          const currentTheme = getCurrentTheme_default();
+          let defaultColor = currentTheme === "dark" ? "#ffffff" : "#000000";
           if (bannerIconSizeSlider) bannerIconSizeSlider.value = this.plugin.settings.bannerIconSize;
           if (bannerIconColorInput) {
-            const defaultIconColor = this.plugin.settings.bannerIconColor || defaultColor2;
+            const defaultIconColor = this.plugin.settings.bannerIconColor || defaultColor;
             bannerIconColorInput.value = defaultIconColor;
             if (bannerIconColorPicker) {
-              bannerIconColorPicker.value = defaultIconColor.startsWith("#") ? defaultIconColor : defaultColor2;
+              bannerIconColorPicker.value = defaultIconColor.startsWith("#") ? defaultIconColor : defaultColor;
             }
             this.updateBannerIconColor(defaultIconColor);
           }
@@ -24149,28 +25212,28 @@ var init_targetPositionModal = __esm({
             let defaultAlpha = 100;
             if (this.plugin.settings.bannerIconBackgroundColor) {
               const colorValue = this.plugin.settings.bannerIconBackgroundColor;
-              const rgbaMatch = colorValue.match(/rgba\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*,\s*([\d.]+)\s*\)/);
+              const rgbaMatch = colorValue == null ? void 0 : colorValue.match(/rgba\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*,\s*([\d.]+)\s*\)/);
               if (rgbaMatch) {
                 const r = parseInt(rgbaMatch[1]);
                 const g = parseInt(rgbaMatch[2]);
                 const b = parseInt(rgbaMatch[3]);
-                defaultColor2 = `#${r.toString(16).padStart(2, "0")}${g.toString(16).padStart(2, "0")}${b.toString(16).padStart(2, "0")}`;
+                defaultColor = `#${r.toString(16).padStart(2, "0")}${g.toString(16).padStart(2, "0")}${b.toString(16).padStart(2, "0")}`;
                 defaultAlpha = Math.round(parseFloat(rgbaMatch[4]) * 100);
-              } else if (colorValue.startsWith("#")) {
-                defaultColor2 = colorValue;
+              } else if (colorValue == null ? void 0 : colorValue.startsWith("#")) {
+                defaultColor = colorValue;
               } else if (colorValue) {
-                defaultColor2 = colorValue;
+                defaultColor = colorValue;
               }
             }
-            bannerIconBgColorInput.value = defaultColor2;
-            if (bannerIconBgColorPicker) bannerIconBgColorPicker.value = defaultColor2.startsWith("#") ? defaultColor2 : "#ffffff";
+            bannerIconBgColorInput.value = defaultColor;
+            if (bannerIconBgColorPicker) bannerIconBgColorPicker.value = defaultColor.startsWith("#") ? defaultColor : "#ffffff";
             if (alphaSlider) alphaSlider.value = defaultAlpha;
             if (alphaValue) alphaValue.setText(`${defaultAlpha}%`);
             if (colorPreview) {
-              colorPreview.style.backgroundColor = defaultColor2;
+              colorPreview.style.backgroundColor = defaultColor;
               colorPreview.style.opacity = defaultAlpha / 100;
             }
-            this.updateBannerIconBgColor(defaultColor2, defaultAlpha);
+            this.updateBannerIconBgColor(defaultColor, defaultAlpha);
           }
           if (bannerIconPaddingXSlider) bannerIconPaddingXSlider.value = this.plugin.settings.bannerIconPaddingX;
           if (bannerIconPaddingYSlider) bannerIconPaddingYSlider.value = this.plugin.settings.bannerIconPaddingY;
@@ -24180,6 +25243,14 @@ var init_targetPositionModal = __esm({
           heightValue.setText(`${this.plugin.settings.bannerHeight}px`);
           contentStartPositionValue.setText(`${this.plugin.settings.contentStartPosition}px`);
           bannerIconXPositionValue.setText(`${this.plugin.settings.bannerIconXPosition}`);
+          if (unsetCheckbox) {
+            unsetCheckbox.checked = true;
+            maxWidthValueDisplay.style.color = "var(--text-muted)";
+            maxWidthValueDisplay.setText("unset");
+          }
+          if (alignmentSelect) {
+            alignmentSelect.value = "center";
+          }
           if (bannerIconSizeValue) bannerIconSizeValue.setText(`${this.plugin.settings.bannerIconSize}`);
           if (bannerIconPaddingXValue) bannerIconPaddingXValue.setText(`${this.plugin.settings.bannerIconPaddingX}`);
           if (bannerIconPaddingYValue) bannerIconPaddingYValue.setText(`${this.plugin.settings.bannerIconPaddingY}`);
@@ -24195,11 +25266,13 @@ var init_targetPositionModal = __esm({
           this.app.fileManager.processFrontMatter(activeFile2, (frontmatter2) => {
             const displayField = Array.isArray(this.plugin.settings.customImageDisplayField) ? this.plugin.settings.customImageDisplayField[0].split(",")[0].trim() : this.plugin.settings.customImageDisplayField;
             const heightField = Array.isArray(this.plugin.settings.customBannerHeightField) ? this.plugin.settings.customBannerHeightField[0].split(",")[0].trim() : this.plugin.settings.customBannerHeightField;
+            const maxWidthField2 = Array.isArray(this.plugin.settings.customBannerMaxWidthField) ? this.plugin.settings.customBannerMaxWidthField[0].split(",")[0].trim() : this.plugin.settings.customBannerMaxWidthField;
             const xField = Array.isArray(this.plugin.settings.customXPositionField) ? this.plugin.settings.customXPositionField[0].split(",")[0].trim() : this.plugin.settings.customXPositionField;
             const yField = Array.isArray(this.plugin.settings.customYPositionField) ? this.plugin.settings.customYPositionField[0].split(",")[0].trim() : this.plugin.settings.customYPositionField;
             const contentStartPositionField = Array.isArray(this.plugin.settings.customContentStartField) ? this.plugin.settings.customContentStartField[0].split(",")[0].trim() : this.plugin.settings.customContentStartField;
             const bannerIconXPositionField = Array.isArray(this.plugin.settings.customBannerIconXPositionField) ? this.plugin.settings.customBannerIconXPositionField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconXPositionField;
             const repeatField = Array.isArray(this.plugin.settings.customImageRepeatField) ? this.plugin.settings.customImageRepeatField[0].split(",")[0].trim() : this.plugin.settings.customImageRepeatField;
+            const fadeField = Array.isArray(this.plugin.settings.customFadeField) ? this.plugin.settings.customFadeField[0].split(",")[0].trim() : this.plugin.settings.customFadeField;
             const bannerIconSizeField = Array.isArray(this.plugin.settings.customBannerIconSizeField) ? this.plugin.settings.customBannerIconSizeField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconSizeField;
             const bannerIconColorField = Array.isArray(this.plugin.settings.customBannerIconColorField) ? this.plugin.settings.customBannerIconColorField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconColorField;
             const bannerIconFontWeightField = Array.isArray(this.plugin.settings.customBannerIconFontWeightField) ? this.plugin.settings.customBannerIconFontWeightField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconFontWeightField;
@@ -24210,10 +25283,12 @@ var init_targetPositionModal = __esm({
             const bannerIconVerticalOffsetField = Array.isArray(this.plugin.settings.customBannerIconVeritalOffsetField) ? this.plugin.settings.customBannerIconVeritalOffsetField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconVeritalOffsetField;
             delete frontmatter2[displayField];
             delete frontmatter2[heightField];
+            delete frontmatter2[maxWidthField2];
             delete frontmatter2[xField];
             delete frontmatter2[yField];
             delete frontmatter2[contentStartPositionField];
             delete frontmatter2[repeatField];
+            delete frontmatter2[fadeField];
             delete frontmatter2[bannerIconXPositionField];
             delete frontmatter2[bannerIconSizeField];
             delete frontmatter2[bannerIconColorField];
@@ -24223,17 +25298,18 @@ var init_targetPositionModal = __esm({
             delete frontmatter2[bannerIconPaddingYField];
             delete frontmatter2[bannerIconBorderRadiusField];
             delete frontmatter2[bannerIconVerticalOffsetField];
+            const alignmentField = Array.isArray(this.plugin.settings.customBannerAlignmentField) ? this.plugin.settings.customBannerAlignmentField[0].split(",")[0].trim() : this.plugin.settings.customBannerAlignmentField;
+            delete frontmatter2[alignmentField];
             const flagColorField = Array.isArray(this.plugin.settings.customFlagColorField) ? this.plugin.settings.customFlagColorField[0].split(",")[0].trim() : this.plugin.settings.customFlagColorField;
-            console.log("Removing flag color field:", flagColorField);
             delete frontmatter2[flagColorField];
-            const defaultColor3 = this.plugin.settings.selectImageIconFlag;
-            const radios = flagRadioContainer.querySelectorAll('input[type="radio"]');
-            radios.forEach((radio) => {
-              radio.checked = radio.value === defaultColor3;
-            });
+            if (deleteBannerAndIcon) {
+              const bannerField = Array.isArray(this.plugin.settings.customBannerField) ? this.plugin.settings.customBannerField[0].split(",")[0].trim() : this.plugin.settings.customBannerField;
+              const bannerIconField2 = Array.isArray(this.plugin.settings.customBannerIconField) ? this.plugin.settings.customBannerIconField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconField;
+              delete frontmatter2[bannerField];
+              delete frontmatter2[bannerIconField2];
+            }
           });
           if (flagRadioContainer) {
-            console.log("Updating flag radio buttons after reset");
             const flagRadios = flagRadioContainer.querySelectorAll('input[type="radio"]');
             flagRadios.forEach((radio) => {
               radio.checked = radio.value === this.plugin.settings.selectImageIconFlag;
@@ -24264,6 +25340,18 @@ var init_targetPositionModal = __esm({
           verticalLine.style.left = `${this.currentX}%`;
           horizontalLine.style.top = `${this.currentY}%`;
           updatePositionIndicator();
+          setTimeout(() => {
+            const view = this.app.workspace.getActiveViewOfType(import_obsidian16.MarkdownView);
+            if (view) {
+              this.plugin.updateBanner(view, true);
+            }
+          }, 750);
+          if (deleteBannerAndIcon) {
+            this.close();
+          }
+        };
+        resetButton.addEventListener("click", () => {
+          this.resetPixelBannerNoteSettings();
         });
         const repeatContainer = controlPanel.createDiv({
           cls: "repeat-container",
@@ -24326,7 +25414,7 @@ var init_targetPositionModal = __esm({
         let offsetX, offsetY;
         let isCrosshairDragging = false;
         modalEl.addEventListener("mousedown", (e) => {
-          if (e.target === zoomSlider || e.target === heightSlider || e.target === contentStartPositionSlider || e.target === bannerIconXPositionSlider || e.target === bannerIconSizeSlider || e.target === bannerIconColorPicker || e.target === bannerIconColorInput || e.target === bannerIconPaddingXSlider || e.target === bannerIconPaddingYSlider || e.target === bannerIconBorderRadiusSlider || e.target === bannerIconVerticalOffsetSlider || e.target === alphaSlider || e.target === bannerIconBgColorPicker || e.target === bannerIconBgColorInput || e.target === titleColorPicker || e.target === titleColorInput || e.target === targetArea || e.target === verticalLine || e.target === horizontalLine) return;
+          if (e.target === zoomSlider || e.target === heightSlider || e.target === maxWidthSlider || e.target === contentStartPositionSlider || e.target === bannerFadeSlider || e.target === bannerIconXPositionSlider || e.target === bannerIconSizeSlider || e.target === bannerIconColorPicker || e.target === bannerIconColorInput || e.target === bannerIconPaddingXSlider || e.target === bannerIconPaddingYSlider || e.target === bannerIconBorderRadiusSlider || e.target === bannerIconVerticalOffsetSlider || e.target === alphaSlider || e.target === bannerIconBgColorPicker || e.target === bannerIconBgColorInput || e.target === titleColorPicker || e.target === titleColorInput || e.target === targetArea || e.target === verticalLine || e.target === horizontalLine) return;
           isDragging = true;
           offsetX = e.clientX - modalEl.getBoundingClientRect().left;
           offsetY = e.clientY - modalEl.getBoundingClientRect().top;
@@ -24370,6 +25458,245 @@ var init_targetPositionModal = __esm({
       addStyle() {
         const style = document.createElement("style");
         style.textContent = `
+            /* --------------------------- */
+            /* -- Target Position Modal -- */
+            /* --------------------------- */
+            .target-position-modal {
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+            }
+
+            .target-position-modal .target-container {
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+                flex-grow: 1;
+                min-width: 200px;
+            }
+
+            .target-position-modal .target-area {
+                box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+                border-radius: 4px;
+            }
+
+            .target-position-modal .position-indicator {
+                padding: 4px;
+                border-radius: 4px;
+                background-color: var(--background-secondary);
+            }
+
+            .target-position-modal .crosshair-line {
+                position: absolute;
+                background-color: var(--text-accent);
+                pointer-events: none;
+            }
+
+            .target-position-modal .vertical {
+                width: 1px;
+                height: 100%;
+            }
+
+            .target-position-modal .horizontal {
+                width: 100%;
+                height: 1px;
+            }
+
+            .target-position-modal .control-panel {
+                background-color: var(--background-secondary);
+                padding: 15px;
+                border-radius: 8px;
+            }
+
+            .target-position-modal .display-mode-select {
+                width: 100%;
+                min-width: max-content;
+                padding: 6px;
+                border-radius: 4px;
+                border: 1px solid var(--background-modifier-border);
+                background-color: var(--background-primary);
+                color: var(--text-normal);
+            }
+
+            .target-position-modal .zoom-container {
+                position: relative;
+            }
+
+            .target-position-modal .zoom-slider {
+                width: 15px;
+                background-color: var(--background-primary);
+                border-radius: 5px;
+                cursor: pointer;
+                margin: 10px auto;
+                appearance: none;
+            }
+
+            .target-position-modal .zoom-slider::-webkit-slider-runnable-track {
+                width: 100%;
+                height: 200px;
+                background: var(--background-modifier-border);
+                border-radius: 5px;
+                border: none;
+            }
+
+            .target-position-modal .zoom-slider::-moz-range-track {
+                width: 100%;
+                height: 200px;
+                background: var(--background-modifier-border);
+                border-radius: 5px;
+                border: none;
+            }
+
+            .target-position-modal .zoom-slider::-webkit-slider-thumb {
+                -webkit-appearance: none;
+                width: 20px;
+                height: 20px;
+                border-radius: 50%;
+                background: var(--text-accent);
+                cursor: pointer;
+                border: none;
+                margin-top: 90px;
+                position: relative;
+                left: -2px;
+            }
+
+            .target-position-modal .zoom-slider::-moz-range-thumb {
+                width: 20px;
+                height: 20px;
+                border-radius: 50%;
+                background: var(--text-accent);
+                cursor: pointer;
+                border: none;
+            }
+
+            .target-position-modal .zoom-value {
+                color: var(--text-muted);
+                text-align: center;
+            }
+
+            .target-position-modal .height-slider,
+            .target-position-modal .content-start-position-slider {
+                width: 15px;
+                background-color: var(--background-primary);
+                border-radius: 5px;
+                cursor: pointer;
+                margin: 10px auto;
+                appearance: none;
+            }
+
+            .target-position-modal .height-slider::-webkit-slider-runnable-track,
+            .target-position-modal .content-start-position-slider::-webkit-slider-runnable-track {
+                width: 100%;
+                height: 200px;
+                background: var(--background-modifier-border);
+                border-radius: 5px;
+                border: none;
+            }
+
+            .target-position-modal .height-slider::-moz-range-track,
+            .target-position-modal .content-start-position-slider::-moz-range-track {
+                width: 100%;
+                height: 200px;
+                background: var(--background-modifier-border);
+                border-radius: 5px;
+                border: none;
+            }
+
+            .target-position-modal .max-width-slider::-webkit-slider-runnable-track,
+            .target-position-modal .height-slider::-webkit-slider-runnable-track,
+            .target-position-modal .content-start-position-slider::-webkit-slider-runnable-track {
+                width: 100%;
+                height: 200px;
+                background: var(--background-modifier-border);
+                border-radius: 5px;
+                border: none;
+            }
+
+            .target-position-modal .max-width-slider::-moz-range-track,
+            .target-position-modal .height-slider::-moz-range-track,
+            .target-position-modal .content-start-position-slider::-moz-range-track {
+                width: 100%;
+                height: 200px;
+                background: var(--background-modifier-border);
+                border-radius: 5px;
+                border: none;
+            }
+
+            .target-position-modal .max-width-slider::-webkit-slider-thumb,
+            .target-position-modal .height-slider::-webkit-slider-thumb,
+            .target-position-modal .content-start-position-slider::-webkit-slider-thumb {
+                -webkit-appearance: none;
+                width: 20px;
+                height: 20px;
+                border-radius: 50%;
+                background: var(--text-accent);
+                cursor: pointer;
+                border: none;
+                margin-top: 90px;
+                position: relative;
+                left: -2px;
+            }
+
+            .target-position-modal .max-width-slider:disabled {
+                opacity: 0;
+                cursor: not-allowed;
+            }
+
+            .target-position-modal .max-width-slider::-moz-range-thumb,
+            .target-position-modal .height-slider::-moz-range-thumb,
+            .target-position-modal .content-start-position-slider::-moz-range-thumb {
+                width: 20px;
+                height: 20px;
+                border-radius: 50%;
+                background: var(--text-accent);
+                cursor: pointer;
+                border: none;
+            }
+
+            .target-position-modal .height-value,
+            .target-position-modal .content-start-position-value {
+                color: var(--text-muted);
+                text-align: center;
+            }
+
+            .target-position-modal .max-width-container,
+            .target-position-modal .height-container,
+            .target-position-modal .content-start-position-container {
+                display: flex;
+                flex-direction: column;
+                gap: 5px;
+                align-items: center;
+                background-color: var(--background-secondary);
+                padding: 15px;
+                border-radius: 4px;
+            }
+
+            .target-position-modal .height-label,
+            .target-position-modal .content-start-position-label {
+                color: var(--text-muted);
+                font-size: 0.9em;
+            }
+
+            .target-position-modal .height-value,
+            .target-position-modal .content-start-position-value {
+                font-family: var(--font-monospace);
+                font-size: 0.9em;
+                color: var(--text-muted);
+            }
+
+            .target-position-modal .reset-button {
+                padding: 8px;
+                width: 100%;
+                font-size: 14px;
+                border-radius: 4px;
+                cursor: pointer;
+                transition: background-color 0.2s ease;
+            }
+
+            .target-position-modal .reset-button:hover {
+                background-color: var(--interactive-accent-hover);
+            }
+
             .target-position-modal .target-area {
                 box-shadow: 0 2px 5px rgba(0,0,0,0.1);
             }
@@ -24441,16 +25768,16 @@ var init_targetPositionModal = __esm({
 });
 
 // src/modal/modals/pixelBannerStoreModal.js
-var import_obsidian18, PixelBannerStoreModal, ConfirmPurchaseModal;
+var import_obsidian17, PixelBannerStoreModal, ConfirmPurchaseModal;
 var init_pixelBannerStoreModal = __esm({
   "src/modal/modals/pixelBannerStoreModal.js"() {
-    import_obsidian18 = require("obsidian");
+    import_obsidian17 = require("obsidian");
     init_constants();
     init_handlePinIconClick();
     init_modals();
     init_flags();
     init_selectPixelBannerModal();
-    PixelBannerStoreModal = class extends import_obsidian18.Modal {
+    PixelBannerStoreModal = class extends import_obsidian17.Modal {
       constructor(app, plugin) {
         super(app);
         this.plugin = plugin;
@@ -24598,6 +25925,7 @@ var init_pixelBannerStoreModal = __esm({
               headers: {
                 "x-user-email": this.plugin.settings.pixelBannerPlusEmail,
                 "x-api-key": this.plugin.settings.pixelBannerPlusApiKey,
+                "X-Pixel-Banner-Version": this.plugin.settings.lastVersion,
                 "Accept": "application/json"
               }
             }
@@ -24644,8 +25972,8 @@ var init_pixelBannerStoreModal = __esm({
           }
         });
         this.nextCategoryButton = this.categoryControlsContainer.createEl("button", {
-          text: "Next Category",
-          cls: "pixel-banner-store-next-category",
+          text: "\u25B6\uFE0F Next Category",
+          cls: "pixel-banner-store-next-category radial-pulse-animation",
           attr: {
             style: `
                     display: ${this.plugin.pixelBannerPlusEnabled ? "inline-flex" : "none"};
@@ -24866,6 +26194,7 @@ var init_pixelBannerStoreModal = __esm({
               headers: {
                 "x-user-email": this.plugin.settings.pixelBannerPlusEmail,
                 "x-api-key": this.plugin.settings.pixelBannerPlusApiKey,
+                "X-Pixel-Banner-Version": this.plugin.settings.lastVersion,
                 "Accept": "application/json"
               }
             }
@@ -24888,7 +26217,7 @@ var init_pixelBannerStoreModal = __esm({
       async searchBanners(page = 1) {
         this.searchTerm = this.searchInput.value.trim();
         if (!this.searchTerm) {
-          new import_obsidian18.Notice("Please enter a search term");
+          new import_obsidian17.Notice("Please enter a search term");
           return;
         }
         this.isSearchMode = true;
@@ -24910,6 +26239,7 @@ var init_pixelBannerStoreModal = __esm({
                 "Content-Type": "application/json",
                 "x-user-email": this.plugin.settings.pixelBannerPlusEmail,
                 "x-api-key": this.plugin.settings.pixelBannerPlusApiKey,
+                "X-Pixel-Banner-Version": this.plugin.settings.lastVersion,
                 "Accept": "application/json"
               },
               body: JSON.stringify({
@@ -25130,6 +26460,7 @@ var init_pixelBannerStoreModal = __esm({
                       headers: {
                         "x-user-email": this.plugin.settings.pixelBannerPlusEmail,
                         "x-api-key": this.plugin.settings.pixelBannerPlusApiKey,
+                        "X-Pixel-Banner-Version": this.plugin.settings.lastVersion,
                         "Accept": "application/json"
                       }
                     });
@@ -25170,7 +26501,7 @@ var init_pixelBannerStoreModal = __esm({
                     }
                   } catch (error) {
                     console.error("Error purchasing image:", error);
-                    new import_obsidian18.Notice("Failed to purchase image. Please try again.");
+                    new import_obsidian17.Notice("Failed to purchase image. Please try again.");
                   }
                 }, this.plugin).open();
               } else {
@@ -25179,6 +26510,7 @@ var init_pixelBannerStoreModal = __esm({
                     headers: {
                       "x-user-email": this.plugin.settings.pixelBannerPlusEmail,
                       "x-api-key": this.plugin.settings.pixelBannerPlusApiKey,
+                      "X-Pixel-Banner-Version": this.plugin.settings.lastVersion,
                       "Accept": "application/json"
                     }
                   });
@@ -25277,6 +26609,7 @@ var init_pixelBannerStoreModal = __esm({
             headers: {
               "x-user-email": this.plugin.settings.pixelBannerPlusEmail,
               "x-api-key": this.plugin.settings.pixelBannerPlusApiKey,
+              "X-Pixel-Banner-Version": this.plugin.settings.lastVersion,
               "Content-Type": "application/json",
               "Accept": "application/json"
             }
@@ -25293,7 +26626,7 @@ var init_pixelBannerStoreModal = __esm({
           }
         } catch (error) {
           console.error("Error upvoting banner:", error);
-          new import_obsidian18.Notice("Failed to upvote banner. Please try again.");
+          new import_obsidian17.Notice("Failed to upvote banner. Please try again.");
         }
       }
       // Downvote a banner
@@ -25306,6 +26639,7 @@ var init_pixelBannerStoreModal = __esm({
             headers: {
               "x-user-email": this.plugin.settings.pixelBannerPlusEmail,
               "x-api-key": this.plugin.settings.pixelBannerPlusApiKey,
+              "X-Pixel-Banner-Version": this.plugin.settings.lastVersion,
               "Content-Type": "application/json",
               "Accept": "application/json"
             }
@@ -25322,7 +26656,7 @@ var init_pixelBannerStoreModal = __esm({
           }
         } catch (error) {
           console.error("Error downvoting banner:", error);
-          new import_obsidian18.Notice("Failed to downvote banner. Please try again.");
+          new import_obsidian17.Notice("Failed to downvote banner. Please try again.");
         }
       }
       // Toggle between search mode and category browsing mode
@@ -25439,8 +26773,7 @@ var init_pixelBannerStoreModal = __esm({
             }
             
             .pixel-banner-store-search-button,
-            .pixel-banner-store-stop-search-button,
-            .pixel-banner-store-search-all-button {
+            .pixel-banner-store-stop-search-button {
                 background-color: var(--interactive-accent) !important;
                 color: var(--text-on-accent) !important;
             }
@@ -25787,7 +27120,7 @@ var init_pixelBannerStoreModal = __esm({
         }
       }
     };
-    ConfirmPurchaseModal = class extends import_obsidian18.Modal {
+    ConfirmPurchaseModal = class extends import_obsidian17.Modal {
       constructor(app, cost, prompt, previewImage, onConfirm, plugin) {
         super(app);
         this.cost = cost;
@@ -25865,7 +27198,7 @@ var init_pixelBannerStoreModal = __esm({
           }
         });
         const confirmButton = buttonContainer.createEl("button", {
-          text: "\u{1FA99} Purchase",
+          text: "\u{1FA99} Spend Token",
           cls: "mod-cta radial-pulse-animation"
         });
         confirmButton.addEventListener("click", () => {
@@ -25908,12 +27241,12 @@ var init_pixelBannerStoreModal = __esm({
 });
 
 // src/modal/modals/webAddressModal.js
-var import_obsidian19, WebAddressModal;
+var import_obsidian18, WebAddressModal;
 var init_webAddressModal = __esm({
   "src/modal/modals/webAddressModal.js"() {
-    import_obsidian19 = require("obsidian");
+    import_obsidian18 = require("obsidian");
     init_modals();
-    WebAddressModal = class extends import_obsidian19.Modal {
+    WebAddressModal = class extends import_obsidian18.Modal {
       constructor(app, plugin) {
         super(app);
         this.plugin = plugin;
@@ -26094,7 +27427,7 @@ var init_webAddressModal = __esm({
                         delete frontmatter[iconField];
                       }
                     });
-                    const view = this.plugin.app.workspace.getActiveViewOfType(import_obsidian19.MarkdownView);
+                    const view = this.plugin.app.workspace.getActiveViewOfType(import_obsidian18.MarkdownView);
                     if (view) {
                       const contentEl2 = view.contentEl;
                       if (contentEl2) {
@@ -26162,9 +27495,117 @@ var init_webAddressModal = __esm({
   }
 });
 
+// src/modal/modals/dailyGame.js
+var import_obsidian19, DailyGameModal;
+var init_dailyGame = __esm({
+  "src/modal/modals/dailyGame.js"() {
+    import_obsidian19 = require("obsidian");
+    init_constants();
+    init_selectPixelBannerModal();
+    DailyGameModal = class extends import_obsidian19.Modal {
+      constructor(app, userEmail, apiKey, plugin) {
+        super(app);
+        this.userEmail = userEmail;
+        this.apiKey = apiKey;
+        this.iframe = null;
+        this.plugin = plugin;
+      }
+      onOpen() {
+        const style = document.createElement("style");
+        style.innerHTML = `
+        .pixel-banner-game-modal {
+        width: 800px;
+        max-width: 90vw;
+        }
+
+        .pixel-banner-game-modal .game-container {
+        margin: 1rem 0;
+        border: 1px solid var(--background-modifier-border);
+        border-radius: 4px;
+        overflow: hidden;
+        height: 600px;
+        }
+
+        .pixel-banner-game-modal iframe {
+        border: none;
+        }
+    `;
+        const { contentEl } = this;
+        contentEl.addClass("pixel-banner-game-modal");
+        const gameContainer = contentEl.createDiv({ cls: "game-container" });
+        this.iframe = gameContainer.createEl("iframe", {
+          attr: {
+            src: `${PIXEL_BANNER_PLUS.API_URL}${PIXEL_BANNER_PLUS.ENDPOINTS.DAILY_GAME}`,
+            width: "100%",
+            height: "600px",
+            frameborder: "0",
+            allowfullscreen: "true",
+            allow: "clipboard-write; encrypted-media",
+            sandbox: "allow-scripts allow-same-origin allow-popups allow-forms"
+          }
+        });
+        const buttonContainer = contentEl.createDiv({
+          cls: "button-container",
+          attr: {
+            style: `
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            `
+          }
+        });
+        const buyTokensButton = buttonContainer.createEl("button", {
+          cls: "pixel-banner-account-button pixel-banner-buy-tokens-button",
+          text: "\u{1F4B5} Buy More Tokens"
+        });
+        buyTokensButton.addEventListener("click", (event) => {
+          event.preventDefault();
+          window.open(PIXEL_BANNER_PLUS.SHOP_URL, "_blank");
+        });
+        const backToMainButton = buttonContainer.createEl("button", {
+          text: "\u21E0 Main Menu",
+          cls: "cursor-pointer",
+          attr: {
+            style: `
+              margin-left: auto;
+              width: max-content;
+              min-width: auto;
+          `
+          }
+        });
+        backToMainButton.addEventListener("click", () => {
+          this.close();
+          new SelectPixelBannerModal(this.app, this.plugin).open();
+        });
+        this.iframe.onload = () => {
+          this.sendAuthToIframe();
+        };
+      }
+      sendAuthToIframe() {
+        if (!this.iframe.contentWindow) {
+          console.error("Iframe content window not available");
+          return;
+        }
+        this.iframe.contentWindow.postMessage({
+          type: "auth",
+          data: {
+            userEmail: this.userEmail,
+            apiKey: this.apiKey
+          }
+        }, PIXEL_BANNER_PLUS.API_URL);
+      }
+      onClose() {
+        const { contentEl } = this;
+        contentEl.empty();
+      }
+    };
+  }
+});
+
 // src/modal/modals.js
 var modals_exports = {};
 __export(modals_exports, {
+  DailyGameModal: () => DailyGameModal,
   EmojiSelectionModal: () => EmojiSelectionModal,
   FolderSelectionModal: () => FolderSelectionModal,
   GenerateAIBannerModal: () => GenerateAIBannerModal,
@@ -26190,6 +27631,7 @@ var init_modals = __esm({
     init_selectPixelBannerModal();
     init_pixelBannerStoreModal();
     init_webAddressModal();
+    init_dailyGame();
   }
 });
 
@@ -26204,7 +27646,7 @@ module.exports = __toCommonJS(main_exports);
 var import_obsidian28 = require("obsidian");
 
 // virtual-module:virtual:release-notes
-var releaseNotes = '<a href="https://www.youtube.com/watch?v=pJFsMfrWak4">\n  <img src="https://pixel-banner.online/img/pixel-banner-v3-transparent-bg.png" alt="Pixel Banner" style="max-width: 400px;">\n</a>\n\n<h2>\u{1F389} What&#39;s New</h2>\n<h3>v3.2.5 - 2025-04-10</h3>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>main banner select modal now opens immediately and isn&#39;t blocked by server checks (improved experience for users that are &quot;offline&quot;)</li>\n</ul>\n<h3>v3.2.4 - 2025-04-06</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>resolved issue with default custom filed values for x/y position (new users were unable to set x/y on notes)</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>added support for Markdown image syntax in Banner frontmatter: <code>&quot;![](imgage-path|url)&quot;</code></li>\n</ul>\n<h3>v3.2.3 - 2025-03-28</h3>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>improved server connection check logic</li>\n<li>remove unnecessary server calls for store banner voting</li>\n</ul>\n<h3>v3.2.2 - 2025-03-26</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Fix alignment of the &quot;prompt&quot; text area on the <code>Generate with AI</code> modal</li>\n</ul>\n<h3>v3.2.1 - 2025-03-26</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Resolved issue with the <code>content start</code> position of a Note without a banner</li>\n</ul>\n<h3>v3.2.0 - 2025-03-25</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Basic &quot;Banner View&quot; to hover previews</li>\n<li>New &quot;Add Banner Icon&quot; button will be displayed on the <code>Targeting Modal</code> if an icon doesn&#39;t already exist</li>\n<li>Added <code>NEW</code> and <code>HOT</code> metadata badges to banners in the store</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Addressed style conflicts with the <code>Border</code> theme and <code>Style Settings</code></li>\n<li>Improved Performance: added <code>debounce</code> logic to internal rendering functions to prevent unnecessary subsequent calls</li>\n<li>Improved Performance: reduce <code>content</code> push flicker by immediately setting the content at its start position before rendering Banner assets</li>\n</ul>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Resolved issue with the &quot;Set Banner Icon&quot; &amp; &quot;Adjust Position, Size &amp; Style&quot; buttons being disabled if the note was set to use a <code>shuffle banner</code></li>\n<li>Adjusted style to accommodate for mobile screen sizes</li>\n</ul>\n<h3>v3.1.0 - 2025-03-22</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Modal for setting banner source from a URL</li>\n<li>Add voting functionality to Pixel Banner Store</li>\n<li>Added clear instruction to the top of the &quot;Set Banner Icon&quot; modal</li>\n<li>Enhance the visibility of the &quot;\u{1F331} GROW YOUR IDEA&quot; button on the AI Banner modal to make it more prominent, highlighting its usefulness</li>\n<li>Show a &quot;Upgrade Available&quot; message in the footer of the Pixel Banner Main Menu if a new version is available</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Added back ability to prevent the <code>\u{1F6A9}</code> select pixel banner icon from being displayed on notes (you can still set the opacity of the icon when enabled)</li>\n<li>Improved UX of dragging/selecting banner position when using the <code>crosshair</code> targeting control</li>\n</ul>\n<h3>v3.0.0 - 2025-03-19</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>New <code>Pixel Banner Plus \u{1F6A9}\u2795</code> premium features:<blockquote>\n<ul>\n<li>Curated Store of Images to choose from</li>\n<li>Generate banners using custom &quot;text to banner&quot; prompts</li>\n<li>Get image prompt inspiration from the AI models</li>\n<li>Cloud Server endpoint for handling user accounts and AI interactions (<a href="https://pixel-banner.online/">https://pixel-banner.online/</a>)</li>\n</ul>\n</blockquote>\n</li>\n<li>When using the &#39;\u{1F4CC} Pin Banner&#39; action, you can specify to not use the saved image as a banner (good for just saving file)</li>\n<li>Targeting Modal now has controls for all Image Banner and Icons settings!</li>\n<li>Added support for <code>.avif</code> images</li>\n<li>Added extra calculation to ensure Banner Icon position is within the Note&#39;s visible bounds</li>\n<li>Added <code>repeat</code> option to the <code>contain</code> section of the Targeting Modal</li>\n<li>Support for embedded image format in the Banner frontmatter field: <code>![[image.jpg]]</code></li>\n<li>YouTube promo video: <a href="https://www.youtube.com/watch?v=pJFsMfrWak4">https://www.youtube.com/watch?v=pJFsMfrWak4</a></li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Complete restructuring of plugin codebase for better organization and maintainability</li>\n<li>The Targeting Modal slider controls won&#39;t unintentionally drag the modal</li>\n</ul>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Fixed issue with the <code>Folder</code> selection modal displaying the suggested directory twice when saving a banner image</li>\n<li>Resolved issue with cleaning up cached banner icons when loading notes without banner icons</li>\n</ul>\n';
+var releaseNotes = '<a href="https://www.youtube.com/watch?v=VWS1efySjZM">\n  <img src="https://pixel-banner.online/img/pixel-banner-transparent-bg.png" alt="Pixel Banner" style="max-width: 400px;">\n</a>\n\n<h2>\u{1F389} What&#39;s New</h2>\n<h3>v3.4.5 - 2025-04-30</h3>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Additional improvements to compatability with <code>Better Search Views</code> plugin</li>\n</ul>\n<h3>v3.4.4 - 2025-04-28</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Add settings toggle to allow turning OFF all <code>Pixel Banner Plus</code> features, API calls and related content for those that don&#39;t want it</li>\n</ul>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Resolved conflict with Banner images showing in the hover popover preview for backlinks in the <code>Better Search Views</code> plugin</li>\n</ul>\n<h3>v3.4.3 - 2025-04-24</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>New <code>Show Banner in Popover Previews</code> setting to control banner visibility in hover popovers (enabled by default)</li>\n</ul>\n<h3>v3.4.2 - 2025-04-23</h3>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Added an example section to the <code>3rd Party API Settings</code> tab for clarity</li>\n<li>Minor General Setting tab formatting improvements</li>\n</ul>\n<h3>v3.4.1 - 2025-04-22</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Added <code>Banner Fade</code> slider control to the Targeting &amp; Positioning UI</li>\n<li>New <code>HiDream</code> AI Model support for Banner Image generation</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Set Banner Icon modal now has a &quot;Remove Icon&quot; button to claer the banner icon easily</li>\n<li>Updated emoji selection modal to handle cleaning up banner icon properties if the icon is removed</li>\n</ul>\n<h3>v3.4.0 - 2025-04-19</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li><p>New <code>Max Width</code> setting for banners to control the maximum width of the banner</p>\n</li>\n<li><p>New <code>Banner Alignment</code> control to adjust placement when a banner doesn&#39;t fill the width of the note</p>\n<a href="https://www.youtube.com/watch?v=VWS1efySjZM">\n  <img src="https://pixel-banner.online/img/pixel-banner-truck.jpg" alt="Pixel Banner" style="max-width: 400px;">\n</a></li>\n</ul>\n';
 
 // src/settings/settings.js
 var import_obsidian6 = require("obsidian");
@@ -26270,7 +27712,7 @@ function random20characters() {
 }
 function createAPISettings(containerEl, plugin) {
   const calloutEl = containerEl.createEl("div", { cls: "tab-callout" });
-  calloutEl.createEl("div", { text: "\u{1F310} Optionally select which 3rd party API provider to use for fetching images. See the Examples tab for more information on referencing images by URL or local image. You can use any combination of API keyword, URL, or local image between notes." });
+  calloutEl.createEl("div", { text: "\u{1F310} Optionally select which 3rd party API provider to use for displaying random images." });
   new import_obsidian.Setting(containerEl).setName("API Provider").setDesc("Select the API provider for fetching images").addDropdown((dropdown) => dropdown.addOption("all", "All (Random)").addOption("pexels", "Pexels").addOption("pixabay", "Pixabay").addOption("flickr", "Flickr").addOption("unsplash", "Unsplash").setValue(plugin.settings.apiProvider).onChange(async (value) => {
     plugin.settings.apiProvider = value;
     await plugin.saveSettings();
@@ -26362,6 +27804,43 @@ function createAPISettings(containerEl, plugin) {
     button.setDisabled(false);
     new import_obsidian.Notice(isValid ? "\u2705 Unsplash API key is valid!" : "\u274C Invalid Unsplash API key");
   }));
+  const exampleContainer = containerEl.createEl("div", {
+    attr: {
+      style: `
+                margin: 20px 0;
+                padding: 20px;
+                border: 1px solid var(--modal-border-color);
+                border-radius: 7px;
+            `
+    }
+  });
+  exampleContainer.createEl("div", {
+    text: "Usage Example",
+    attr: {
+      style: `
+                font-weight: bold;
+                font-size: 1.1rem;
+                color: var(--color-accent);
+            `
+    }
+  });
+  exampleContainer.createEl("div", {
+    text: "Add keyword(s) to the banner frontmatter to display random API images matching the keywords.",
+    attr: {
+      style: `
+                margin: 10px 0;
+            `
+    }
+  });
+  exampleContainer.createEl("img", {
+    attr: {
+      src: "https://raw.githubusercontent.com/jparkerweb/pixel-banner/refs/heads/main/img/3rd-party-apis-example.jpg",
+      style: `
+                width: auto;
+                max-width: 100%;
+            `
+    }
+  });
   new import_obsidian.Setting(containerEl).setName("Images").setDesc("Configure settings for images fetched from API. These settings apply when using keywords to fetch random images.").setHeading();
   new import_obsidian.Setting(containerEl).setName("Show Pin Icon").setDesc("Show a pin icon on random banner images that allows saving them to your vault. Once pinned, your frontmatter will be updated to use the local image instead of the API image.").addToggle((toggle) => toggle.setValue(plugin.settings.showPinIcon).onChange(async (value) => {
     plugin.settings.showPinIcon = value;
@@ -26963,6 +28442,20 @@ function createCustomFieldsSettings(containerEl, plugin) {
       placeholder: "banner-repeat, image-repeat, repeat"
     },
     {
+      setting: "customBannerMaxWidthField",
+      name: "Banner Max Width Field Names",
+      desc: "Set custom field names for the banner maximum width in frontmatter",
+      values: "800px, 100%, 1200px",
+      placeholder: "banner-max-width, max-width, banner-width"
+    },
+    {
+      setting: "customBannerAlignmentField",
+      name: "Banner Alignment Field Names",
+      desc: "Set custom field names for the banner alignment in frontmatter",
+      values: "left, center, right",
+      placeholder: "banner-alignment"
+    },
+    {
       setting: "customBannerHeightField",
       name: "Banner Height Field Names",
       desc: "Set custom field names for the banner height in frontmatter",
@@ -26973,7 +28466,7 @@ function createCustomFieldsSettings(containerEl, plugin) {
       setting: "customFadeField",
       name: "Fade Field Names",
       desc: "Set custom field names for the fade in frontmatter",
-      values: "-75, -150, 0",
+      values: "-300, -50, 0, 100",
       placeholder: "banner-fade, fade, fade-amount"
     },
     {
@@ -27121,7 +28614,7 @@ function createGeneralSettings(containerEl, plugin) {
   const calloutEl = containerEl.createEl("div", { cls: "tab-callout margin-bottom-0" });
   calloutEl.createEl("div", { text: "\u2699\uFE0F Configure default settings for all notes." });
   const SelectImageSettingsGroup = containerEl.createDiv({ cls: "setting-group" });
-  const showSelectImageIconSetting = new import_obsidian4.Setting(SelectImageSettingsGroup).setName("Show Select Image Icon").setDesc("Show the banner selector icon in the top-left corner of notes").addToggle((toggle) => toggle.setValue(plugin.settings.showSelectImageIcon).onChange(async (value) => {
+  const showSelectImageIconSetting = new import_obsidian4.Setting(SelectImageSettingsGroup).setName("Show Pixel Banner Flag").setDesc("Show the banner selector icon in the top-left corner of notes").addToggle((toggle) => toggle.setValue(plugin.settings.showSelectImageIcon).onChange(async (value) => {
     plugin.settings.showSelectImageIcon = value;
     await plugin.saveSettings();
     plugin.updateAllBanners();
@@ -27134,7 +28627,7 @@ function createGeneralSettings(containerEl, plugin) {
     }
     plugin.updateAllBanners();
   }));
-  const selectImageIconOpacitySetting = new import_obsidian4.Setting(SelectImageSettingsGroup).setName("Pixel Banner Icon Opacity").setDesc("Set the opacity of the banner selector icon in the top-left corner (0-100)").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(plugin.settings.selectImageIconOpacity).setDynamicTooltip().onChange(async (value) => {
+  const selectImageIconOpacitySetting = new import_obsidian4.Setting(SelectImageSettingsGroup).setName("Pixel Banner Flag Opacity").setDesc("Set the opacity of the banner selector icon in the top-left corner (0-100)").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(plugin.settings.selectImageIconOpacity).setDynamicTooltip().onChange(async (value) => {
     plugin.settings.selectImageIconOpacity = value;
     await plugin.saveSettings();
     plugin.updateAllBanners();
@@ -27249,20 +28742,6 @@ function createGeneralSettings(containerEl, plugin) {
       toggleComponent.setValue(DEFAULT_SETTINGS.openTargetingModalAfterSelectingBannerOrIcon);
     }
   }));
-  new import_obsidian4.Setting(containerEl).setName("Image Vertical Position").setDesc("Set the vertical position of the image (0-100)").addSlider(
-    (slider) => slider.setLimits(0, 100, 1).setValue(plugin.settings.yPosition).setDynamicTooltip().onChange(async (value) => {
-      plugin.settings.yPosition = value;
-      await plugin.saveSettings();
-      plugin.updateAllBanners();
-    })
-  ).addExtraButton((button) => button.setIcon("reset").setTooltip("Reset to default").onClick(async () => {
-    plugin.settings.yPosition = DEFAULT_SETTINGS.yPosition;
-    await plugin.saveSettings();
-    plugin.updateAllBanners();
-    const sliderEl = button.extraSettingsEl.parentElement.querySelector(".slider");
-    sliderEl.value = DEFAULT_SETTINGS.yPosition;
-    sliderEl.dispatchEvent(new Event("input"));
-  }));
   new import_obsidian4.Setting(containerEl).setName("Image Horizontal Position").setDesc("Set the horizontal position of the image (0-100)").addSlider(
     (slider) => slider.setLimits(0, 100, 1).setValue(plugin.settings.xPosition).setDynamicTooltip().onChange(async (value) => {
       plugin.settings.xPosition = value;
@@ -27275,6 +28754,20 @@ function createGeneralSettings(containerEl, plugin) {
     plugin.updateAllBanners();
     const sliderEl = button.extraSettingsEl.parentElement.querySelector(".slider");
     sliderEl.value = DEFAULT_SETTINGS.xPosition;
+    sliderEl.dispatchEvent(new Event("input"));
+  }));
+  new import_obsidian4.Setting(containerEl).setName("Image Vertical Position").setDesc("Set the vertical position of the image (0-100)").addSlider(
+    (slider) => slider.setLimits(0, 100, 1).setValue(plugin.settings.yPosition).setDynamicTooltip().onChange(async (value) => {
+      plugin.settings.yPosition = value;
+      await plugin.saveSettings();
+      plugin.updateAllBanners();
+    })
+  ).addExtraButton((button) => button.setIcon("reset").setTooltip("Reset to default").onClick(async () => {
+    plugin.settings.yPosition = DEFAULT_SETTINGS.yPosition;
+    await plugin.saveSettings();
+    plugin.updateAllBanners();
+    const sliderEl = button.extraSettingsEl.parentElement.querySelector(".slider");
+    sliderEl.value = DEFAULT_SETTINGS.yPosition;
     sliderEl.dispatchEvent(new Event("input"));
   }));
   new import_obsidian4.Setting(containerEl).setName("Content Start Position").setDesc("Set the default vertical position where the content starts (in pixels)").addText((text) => text.setPlaceholder("150").setValue(String(plugin.settings.contentStartPosition)).onChange(async (value) => {
@@ -27361,8 +28854,8 @@ function createGeneralSettings(containerEl, plugin) {
     inputEl.value = DEFAULT_SETTINGS.bannerHeight;
     inputEl.dispatchEvent(new Event("input"));
   }));
-  new import_obsidian4.Setting(containerEl).setName("Banner Fade").setDesc("Set the default fade effect for the banner image (-1500 to 100)").addSlider(
-    (slider) => slider.setLimits(-1500, 100, 5).setValue(plugin.settings.fade).setDynamicTooltip().onChange(async (value) => {
+  new import_obsidian4.Setting(containerEl).setName("Banner Fade").setDesc("Set the default fade effect for the banner image (-300 to 100)").addSlider(
+    (slider) => slider.setLimits(-300, 100, 5).setValue(plugin.settings.fade).setDynamicTooltip().onChange(async (value) => {
       plugin.settings.fade = value;
       await plugin.saveSettings();
       plugin.updateAllBanners();
@@ -27479,6 +28972,21 @@ function createGeneralSettings(containerEl, plugin) {
       toggleComponent.setValue(DEFAULT_SETTINGS.hideEmbeddedNoteBanners);
     }
     plugin.updateEmbeddedBannersVisibility();
+  }));
+  new import_obsidian4.Setting(containerEl).setName("Show Banner in Popover Previews").setDesc("Show banners in popover note previews").addToggle((toggle) => toggle.setValue(plugin.settings.showBannerInPopoverPreviews).onChange(async (value) => {
+    plugin.settings.showBannerInPopoverPreviews = value;
+    await plugin.saveSettings();
+    plugin.updateAllBanners();
+  })).addExtraButton((button) => button.setIcon("reset").setTooltip("Reset to default").onClick(async () => {
+    plugin.settings.showBannerInPopoverPreviews = DEFAULT_SETTINGS.showBannerInPopoverPreviews;
+    await plugin.saveSettings();
+    plugin.updateAllBanners();
+    const checkboxContainer = button.extraSettingsEl.parentElement.querySelector(".checkbox-container");
+    const toggleEl = checkboxContainer.querySelector("input");
+    if (toggleEl) {
+      toggleEl.checked = DEFAULT_SETTINGS.showBannerInPopoverPreviews;
+      checkboxContainer.classList.toggle("is-enabled", DEFAULT_SETTINGS.showBannerInPopoverPreviews);
+    }
   }));
   const showViewImageIconSetting = new import_obsidian4.Setting(containerEl).setName("Show View Image Icon").setDesc("Show an icon to view the banner image in full screen").addToggle((toggle) => toggle.setValue(plugin.settings.showViewImageIcon).onChange(async (value) => {
     plugin.settings.showViewImageIcon = value;
@@ -27679,6 +29187,7 @@ function createGeneralSettings(containerEl, plugin) {
 var import_obsidian5 = require("obsidian");
 init_constants();
 function createPixelBannerPlusSettings(containerEl, plugin) {
+  plugin.pixelBannerPlusEnabled = plugin.settings.pixelBannerPlusEnabled !== false;
   const calloutElPixelBannerPlus = containerEl.createEl("div", { cls: "tab-callout margin-bottom-0" });
   calloutElPixelBannerPlus.createEl("h4", {
     text: "\u2728 Pixel Banner Plus \u2728",
@@ -27688,25 +29197,59 @@ function createPixelBannerPlusSettings(containerEl, plugin) {
   });
   calloutElPixelBannerPlus.createEl("div", { text: "Pixel Banner Plus enhances your notes with AI-generated, high-quality banners. Using a token-based system, you can instantly create stunning, customized visuals\u2014no design skills needed. Sign up for free to access the banner store, which includes a selection of zero-token banners at no cost. No subscription required\u2014simply purchase tokens whenever you need AI-generated designs. Transform your Obsidian workspace with professional banners, starting for free and only adding tokens as needed." });
   const pixelBannerPlusSettingsGroup = containerEl.createDiv({ cls: "setting-group" });
-  new import_obsidian5.Setting(pixelBannerPlusSettingsGroup).setName("Pixel Banner Plus Email Address").setDesc("Your email address for Pixel Banner Plus authentication").addText(
+  const plusDependentSettings = containerEl.createDiv({ cls: "pixel-banner-plus-dependent-settings" });
+  function updatePlusDependentSettingsVisibility(isEnabled) {
+    if (isEnabled) {
+      plusDependentSettings.style.display = "block";
+    } else {
+      plusDependentSettings.style.display = "none";
+    }
+  }
+  new import_obsidian5.Setting(pixelBannerPlusSettingsGroup).setName("Pixel Banner Plus Enabled").setDesc("Enable or disable Pixel Banner Plus features").addToggle((toggle) => toggle.setValue(plugin.settings.pixelBannerPlusEnabled !== false).onChange(async (value) => {
+    plugin.pixelBannerPlusEnabled = value;
+    plugin.settings.pixelBannerPlusEnabled = value;
+    await plugin.saveSettings();
+    updatePlusDependentSettingsVisibility(value);
+  })).addExtraButton((button) => button.setIcon("reset").setTooltip("Reset to default").onClick(async () => {
+    plugin.settings.pixelBannerPlusEnabled = DEFAULT_SETTINGS.pixelBannerPlusEnabled;
+    plugin.pixelBannerPlusEnabled = plugin.settings.pixelBannerPlusEnabled;
+    await plugin.saveSettings();
+    const toggleComponent = button.extraSettingsEl.parentElement.querySelector(".checkbox-container input");
+    if (toggleComponent) {
+      toggleComponent.checked = plugin.settings.pixelBannerPlusEnabled;
+      toggleComponent.parentElement.classList.toggle("is-enabled", plugin.settings.pixelBannerPlusEnabled);
+      toggleComponent.dispatchEvent(new Event("change"));
+    }
+    updatePlusDependentSettingsVisibility(plugin.settings.pixelBannerPlusEnabled);
+  })).then((setting) => {
+    const nameEl = setting.nameEl;
+    if (nameEl) {
+      nameEl.innerHTML = '<span class="pixel-banner-twinkle-animation">\u2728</span> Pixel Banner Plus Enabled';
+    }
+  });
+  updatePlusDependentSettingsVisibility(plugin.settings.pixelBannerPlusEnabled !== false);
+  const accountSettingsGroup = plusDependentSettings.createDiv({ cls: "setting-group margin-top-0" });
+  new import_obsidian5.Setting(accountSettingsGroup).setName("Pixel Banner Plus Email Address").setDesc("Your email address for Pixel Banner Plus authentication").addText(
     (text) => text.setPlaceholder("Enter your email address").setValue(plugin.settings.pixelBannerPlusEmail).onChange(async (value) => {
       plugin.settings.pixelBannerPlusEmail = value;
       await plugin.saveSettings();
       if (!value) {
         plugin.pixelBannerPlusEnabled = false;
+        plugin.settings.pixelBannerPlusEnabled = false;
       }
     }).inputEl.style = "width: 100%; max-width: 275px; padding: 5px 10px;"
   );
-  new import_obsidian5.Setting(pixelBannerPlusSettingsGroup).setName("Pixel Banner Plus API Key").setDesc("Your API key for Pixel Banner Plus authentication").addText(
+  new import_obsidian5.Setting(accountSettingsGroup).setName("Pixel Banner Plus API Key").setDesc("Your API key for Pixel Banner Plus authentication").addText(
     (text) => text.setPlaceholder("Enter your API key").setValue(plugin.settings.pixelBannerPlusApiKey).onChange(async (value) => {
       plugin.settings.pixelBannerPlusApiKey = value;
       await plugin.saveSettings();
       if (!value) {
         plugin.pixelBannerPlusEnabled = false;
+        plugin.settings.pixelBannerPlusEnabled = false;
       }
     }).inputEl.style = "width: 100%; max-width: 275px; padding: 5px 10px;"
   );
-  new import_obsidian5.Setting(pixelBannerPlusSettingsGroup).setName("Establish Connection").setDesc("Establish a connection to your Pixel Banner Plus account").addButton((button) => {
+  new import_obsidian5.Setting(accountSettingsGroup).setName("Establish Connection").setDesc("Establish a connection to your Pixel Banner Plus account").addButton((button) => {
     const buttonEl = button.buttonEl;
     buttonEl.style.textTransform = "uppercase";
     buttonEl.style.letterSpacing = "1px";
@@ -27767,8 +29310,26 @@ function createPixelBannerPlusSettings(containerEl, plugin) {
       button.setDisabled(false);
     });
   });
-  updateSignupSection(pixelBannerPlusSettingsGroup, plugin);
-  const accountStatusGroup = containerEl.createDiv({ cls: "setting-group" });
+  new import_obsidian5.Setting(accountSettingsGroup).setName("Show Daily Game").setDesc("Enable the daily game feature in the banner selection modal for a chance to win the daily jackpot's Tokens").addToggle((toggle) => toggle.setValue(plugin.settings.enableDailyGame).onChange(async (value) => {
+    plugin.settings.enableDailyGame = value;
+    await plugin.saveSettings();
+  })).addExtraButton((button) => button.setIcon("reset").setTooltip("Reset to default").onClick(async () => {
+    plugin.settings.enableDailyGame = DEFAULT_SETTINGS.enableDailyGame;
+    await plugin.saveSettings();
+    const toggleComponent = button.extraSettingsEl.parentElement.querySelector(".checkbox-container input");
+    if (toggleComponent) {
+      toggleComponent.checked = DEFAULT_SETTINGS.enableDailyGame;
+      toggleComponent.parentElement.classList.toggle("is-enabled", DEFAULT_SETTINGS.enableDailyGame);
+      toggleComponent.dispatchEvent(new Event("change"));
+    }
+  })).then((setting) => {
+    const nameEl = setting.nameEl;
+    if (nameEl) {
+      nameEl.innerHTML = '<span class="pixel-banner-twinkle-animation">\u{1F579}\uFE0F</span> Show Daily Game';
+    }
+  });
+  updateSignupSection(plusDependentSettings, plugin);
+  const accountStatusGroup = plusDependentSettings.createDiv({ cls: "setting-group" });
   accountStatusGroup.createEl("h3", { text: "Account Status" });
   updateAccountStatusSection(accountStatusGroup, plugin);
 }
@@ -27801,7 +29362,15 @@ function updateSignupSection(containerEl, plugin) {
 }
 function updateAccountStatusSection(containerEl, plugin) {
   containerEl.empty();
-  containerEl.createEl("h3", { text: "Account Status" });
+  containerEl.createEl("h3", {
+    text: "Account Status",
+    attr: {
+      style: `
+                margin-top: 0;
+                margin-bottom: 0;
+            `
+    }
+  });
   new import_obsidian5.Setting(containerEl).setName("Connection Status").setDesc("Current status of your Pixel Banner Plus account").addText((text) => {
     const statusText = plugin.pixelBannerPlusServerOnline ? plugin.pixelBannerPlusEnabled ? "\u2705 Authorized" : "\u274C Not Authorized" : "\u{1F6A8} Servers Offline \u{1F6A8}";
     const isLightMode = document.body.classList.contains("theme-light");
@@ -27877,6 +29446,7 @@ function updateAccountStatusSection(containerEl, plugin) {
 var DEFAULT_SETTINGS = {
   pixelBannerPlusEmail: "",
   pixelBannerPlusApiKey: "",
+  pixelBannerPlusEnabled: true,
   apiProvider: "all",
   pexelsApiKey: "",
   pixabayApiKey: "",
@@ -27886,14 +29456,16 @@ var DEFAULT_SETTINGS = {
   imageOrientation: "landscape",
   numberOfImages: 10,
   defaultKeywords: "nature, abstract, landscape, technology, art, cityscape, wildlife, ocean, mountains, forest, space, architecture, food, travel, science, music, sports, fashion, business, education, health, culture, history, weather, transportation, industry, people, animals, plants, patterns",
-  yPosition: 50,
   xPosition: 50,
+  yPosition: 60,
   customBannerField: ["banner"],
-  customYPositionField: ["banner-y, y"],
   customXPositionField: ["banner-x, x"],
+  customYPositionField: ["banner-y, y"],
   customContentStartField: ["content-start"],
   customImageDisplayField: ["banner-display"],
   customImageRepeatField: ["banner-repeat"],
+  customBannerMaxWidthField: ["banner-max-width"],
+  customBannerAlignmentField: ["banner-align"],
   customBannerHeightField: ["banner-height"],
   customFadeField: ["banner-fade"],
   customBorderRadiusField: ["banner-radius"],
@@ -27916,7 +29488,7 @@ var DEFAULT_SETTINGS = {
   imageDisplay: "cover",
   imageRepeat: false,
   bannerHeight: 350,
-  fade: -75,
+  fade: -70,
   bannerFadeInAnimationDuration: 300,
   borderRadius: 17,
   showPinIcon: false,
@@ -27931,6 +29503,7 @@ var DEFAULT_SETTINGS = {
   enableImageShuffle: false,
   hideEmbeddedNoteTitles: false,
   hideEmbeddedNoteBanners: false,
+  showBannerInPopoverPreviews: true,
   showSelectImageIcon: true,
   selectImageIconOpacity: 40,
   selectImageIconFlag: "red",
@@ -27948,7 +29521,8 @@ var DEFAULT_SETTINGS = {
   bannerIconBorderRadius: "17",
   bannerIconVeritalOffset: "0",
   openBannerIconModalAfterSelectingBanner: true,
-  openTargetingModalAfterSelectingBannerOrIcon: true
+  openTargetingModalAfterSelectingBannerOrIcon: true,
+  enableDailyGame: false
 };
 var FolderSuggestModal = class extends import_obsidian6.FuzzySuggestModal {
   constructor(app, onChoose) {
@@ -28496,6 +30070,7 @@ async function verifyPixelBannerPlusCredentials(plugin) {
         headers: {
           "X-User-Email": plugin.settings.pixelBannerPlusEmail,
           "X-API-Key": plugin.settings.pixelBannerPlusApiKey,
+          "X-Pixel-Banner-Version": plugin.settings.lastVersion,
           "Accept": "application/json"
         }
       }
@@ -28505,10 +30080,15 @@ async function verifyPixelBannerPlusCredentials(plugin) {
       return {
         serverOnline: true,
         verified: data.success,
-        bannerTokens: data.banner_tokens
+        bannerTokens: data.banner_tokens,
+        jackpot: data.jackpot,
+        dailyGameName: data.daily_game,
+        highScore: data.high_score,
+        topUser: data.top_user,
+        timeLeft: data.time_left
       };
     }
-    return { serverOnline: true, verified: false, bannerTokens: 0 };
+    return { serverOnline: true, verified: false, bannerTokens: 0, jackpot: 0, dailyGameName: "", highScore: 0, topUser: "", timeLeft: "0" };
   } catch (error) {
     console.error("Failed to verify Pixel Banner Plus credentials:", error);
     const errorMessage = error.message.toLowerCase();
@@ -28521,7 +30101,12 @@ async function verifyPixelBannerPlusCredentials(plugin) {
     return {
       serverOnline: !isConnectionError || isUnauthorized,
       verified: false,
-      bannerTokens: 0
+      bannerTokens: 0,
+      jackpot: 0,
+      dailyGameName: "",
+      highScore: 0,
+      topUser: "",
+      timeLeft: "0"
     };
   }
 }
@@ -28604,7 +30189,7 @@ async function addPixelBanner(plugin, el, ctx) {
     viewContent.classList.add("pixel-banner");
     plugin.setupResizeObserver(viewContent);
     plugin.applyBannerWidth(viewContent);
-  } else if (isHoverPopover) {
+  } else if (isHoverPopover && plugin.settings.showBannerInPopoverPreviews) {
     const previewEl = viewContent.querySelector(".markdown-preview-view");
     if (previewEl) {
       previewEl.classList.add("pixel-banner");
@@ -28621,7 +30206,7 @@ async function addPixelBanner(plugin, el, ctx) {
     if (!container) {
       container = viewContent;
     }
-  } else if (isHoverPopover) {
+  } else if (isHoverPopover && plugin.settings.showBannerInPopoverPreviews) {
     container = viewContent.querySelector(".markdown-preview-sizer") || viewContent.querySelector(".markdown-preview-view");
     if (!container) {
       if (viewContent.classList.contains("markdown-preview-view")) {
@@ -28693,11 +30278,11 @@ async function addPixelBanner(plugin, el, ctx) {
       viewImageIcon.innerHTML = "\u{1F5BC}\uFE0F";
       viewImageIcon._isPersistentViewImage = true;
       viewImageIcon.innerHTML = "\u{1F5BC}\uFE0F";
-      viewImageIcon._updateVisibility = (newUrl) => {
+      viewImageIcon._updateVisibility = (newUrl, originalPath) => {
         viewImageIcon.style.display = newUrl ? "block" : "none";
         if (newUrl) {
           viewImageIcon.onclick = () => {
-            new ImageViewModal(plugin.app, newUrl).open();
+            new ImageViewModal(plugin.app, newUrl, originalPath).open();
           };
         }
       };
@@ -28789,7 +30374,8 @@ async function addPixelBanner(plugin, el, ctx) {
       bannerDiv.style.display = "block";
       const viewImageIcon = container.querySelector(":scope > .view-image-icon");
       if (viewImageIcon && viewImageIcon._updateVisibility) {
-        viewImageIcon._updateVisibility(imageUrl);
+        const bannerValue = getFrontmatterValue(frontmatter, plugin.settings.customBannerField);
+        viewImageIcon._updateVisibility(imageUrl, bannerValue || file.path);
       }
       plugin.applyBannerSettings(bannerDiv, ctx, isEmbedded);
       const hideEmbeddedNoteBanners = getFrontmatterValue(frontmatter, plugin.settings.customHideEmbeddedNoteBannersField) || (folderSpecific2 == null ? void 0 : folderSpecific2.hideEmbeddedNoteBanners) || plugin.settings.hideEmbeddedNoteBanners || false;
@@ -28852,7 +30438,8 @@ async function addPixelBanner(plugin, el, ctx) {
                 bannerDiv.style.backgroundImage = `url('${newImageUrl}')`;
                 const viewImageIcon2 = container.querySelector(":scope > .view-image-icon");
                 if (viewImageIcon2 && viewImageIcon2._updateVisibility) {
-                  viewImageIcon2._updateVisibility(newImageUrl);
+                  const bannerValue = getFrontmatterValue(frontmatter, plugin.settings.customBannerField);
+                  viewImageIcon2._updateVisibility(newImageUrl, bannerValue || file.path);
                 }
                 pinIcon.onclick = async () => {
                   try {
@@ -28991,6 +30578,7 @@ async function updateBanner(plugin, view, isContentChange, updateMode = plugin.U
   let bannerHeight = (_i = (_h = getFrontmatterValue(frontmatter, plugin.settings.customBannerHeightField)) != null ? _h : folderSpecific == null ? void 0 : folderSpecific.bannerHeight) != null ? _i : plugin.settings.bannerHeight;
   let fade = (_k = (_j = getFrontmatterValue(frontmatter, plugin.settings.customFadeField)) != null ? _j : folderSpecific == null ? void 0 : folderSpecific.fade) != null ? _k : plugin.settings.fade;
   let borderRadius = (_m = (_l = getFrontmatterValue(frontmatter, plugin.settings.customBorderRadiusField)) != null ? _l : folderSpecific == null ? void 0 : folderSpecific.borderRadius) != null ? _m : plugin.settings.borderRadius;
+  let maxWidth = getFrontmatterValue(frontmatter, plugin.settings.customBannerMaxWidthField) || (folderSpecific == null ? void 0 : folderSpecific.bannerMaxWidth) || "unset";
   if (bannerImage) {
     await addPixelBanner(plugin, contentEl, {
       frontmatter,
@@ -29005,6 +30593,7 @@ async function updateBanner(plugin, view, isContentChange, updateMode = plugin.U
       bannerHeight,
       fade,
       borderRadius,
+      maxWidth,
       isReadingView: view.getMode && view.getMode() === "preview"
     });
     plugin.lastYPositions.set(view.file.path, yPosition);
@@ -29187,10 +30776,11 @@ async function updateBanner(plugin, view, isContentChange, updateMode = plugin.U
 }
 var debouncedApplyBannerSettings = debounceAndSwallow(applyBannerSettings, 350);
 function applyBannerSettings(plugin, bannerDiv, ctx, isEmbedded) {
-  const { frontmatter, imageDisplay, imageRepeat, bannerHeight, fade, borderRadius } = ctx;
+  const { frontmatter, imageDisplay, imageRepeat, bannerHeight, fade, borderRadius, maxWidth } = ctx;
   const folderSpecific = plugin.getFolderSpecificImage(ctx.file.path);
   const pixelBannerYPosition = getFrontmatterValue(frontmatter, plugin.settings.customYPositionField) || (folderSpecific == null ? void 0 : folderSpecific.yPosition) || plugin.settings.yPosition;
   const pixelBannerXPosition = getFrontmatterValue(frontmatter, plugin.settings.customXPositionField) || (folderSpecific == null ? void 0 : folderSpecific.xPosition) || plugin.settings.xPosition;
+  const pixelBannerMaxWidth = getFrontmatterValue(frontmatter, plugin.settings.customBannerMaxWidthField) || (folderSpecific == null ? void 0 : folderSpecific.bannerMaxWidth) || "unset";
   const titleColor = getFrontmatterValue(frontmatter, plugin.settings.customTitleColorField) || (folderSpecific == null ? void 0 : folderSpecific.titleColor) || plugin.settings.titleColor;
   const bannerIconSize = getFrontmatterValue(frontmatter, plugin.settings.customBannerIconSizeField) || (folderSpecific == null ? void 0 : folderSpecific.bannerIconSize) || plugin.settings.bannerIconSize || 70;
   const bannerIconXPosition = getFrontmatterValue(frontmatter, plugin.settings.customBannerIconXPositionField) || (folderSpecific == null ? void 0 : folderSpecific.bannerIconXPosition) || plugin.settings.bannerIconXPosition || 25;
@@ -29213,6 +30803,13 @@ function applyBannerSettings(plugin, bannerDiv, ctx, isEmbedded) {
     bannerIconVeritalOffset = 0;
   }
   const hideEmbeddedNoteBanners = getFrontmatterValue(frontmatter, plugin.settings.customHideEmbeddedNoteBannersField) || (folderSpecific == null ? void 0 : folderSpecific.hideEmbeddedNoteBanners) || plugin.settings.hideEmbeddedNoteBanners || false;
+  const bannerAlignment = getFrontmatterValue(frontmatter, plugin.settings.customBannerAlignmentField) || "center";
+  let alignmentValue = "0 auto";
+  if (bannerAlignment === "left") {
+    alignmentValue = "0 auto 0 0";
+  } else if (bannerAlignment === "right") {
+    alignmentValue = "0 0 0 auto";
+  }
   bannerDiv.style.backgroundSize = imageDisplay || "cover";
   bannerDiv.style.backgroundRepeat = imageRepeat ? "repeat" : "no-repeat";
   if (hideEmbeddedNoteBanners && isEmbedded) {
@@ -29223,6 +30820,8 @@ function applyBannerSettings(plugin, bannerDiv, ctx, isEmbedded) {
   bannerDiv.style.setProperty("--pixel-banner-fade", `${fade}%`);
   bannerDiv.style.setProperty("--pixel-banner-fade-in-animation-duration", `${plugin.settings.bannerFadeInAnimationDuration}ms`);
   bannerDiv.style.setProperty("--pixel-banner-radius", `${borderRadius}px`);
+  const maxWidthValue = pixelBannerMaxWidth === "unset" ? "unset" : `${pixelBannerMaxWidth}px`;
+  bannerDiv.style.setProperty("--pixel-banner-max-width", maxWidthValue);
   let bannerIconStart = `${bannerIconSize}px`;
   let bannerHeightPlusIcon = `0px`;
   if (!hideEmbeddedNoteBanners) {
@@ -29233,6 +30832,7 @@ function applyBannerSettings(plugin, bannerDiv, ctx, isEmbedded) {
   if (container) {
     container.style.setProperty("--pixel-banner-y-position", `${pixelBannerYPosition}%`);
     container.style.setProperty("--pixel-banner-x-position", `${pixelBannerXPosition}%`);
+    container.style.setProperty("--pixel-banner-max-width", maxWidthValue);
     container.style.setProperty("--pixel-banner-title-color", titleColor);
     container.style.setProperty("--pixel-banner-icon-size", `${bannerIconSize}px`);
     container.style.setProperty("--pixel-banner-icon-start", bannerIconStart);
@@ -29246,6 +30846,7 @@ function applyBannerSettings(plugin, bannerDiv, ctx, isEmbedded) {
     container.style.setProperty("--pixel-banner-icon-border-radius", `${bannerIconBorderRadius}px`);
     container.style.setProperty("--pixel-banner-icon-vertical-offset", `${bannerIconVeritalOffset}px`);
     container.style.setProperty("--pixel-banner-embed-min-height", `${bannerHeightPlusIcon}`);
+    container.style.setProperty("--pixel-banner-alignment", alignmentValue);
   }
 }
 var debouncedApplyContentStartPosition = debounceAndSwallow(applyContentStartPosition, 350);
@@ -30085,6 +31686,13 @@ var PixelBannerPlugin = class extends import_obsidian28.Plugin {
         new GenerateAIBannerModal(this.app, this).open();
       }
     });
+    this.addCommand({
+      id: "play-daily-game",
+      name: "\u{1F579}\uFE0F Play Daily Game",
+      callback: () => {
+        new DailyGameModal(this.app, this.settings.pixelBannerPlusEmail, this.settings.pixelBannerPlusApiKey, this).open();
+      }
+    });
     this.registerEvent(
       this.app.workspace.on("active-leaf-change", this.handleActiveLeafChange.bind(this))
     );
@@ -30154,6 +31762,7 @@ var PixelBannerPlugin = class extends import_obsidian28.Plugin {
       if (!isPreview && !isHoverPopover) return;
       const file = ctx.sourcePath ? this.app.vault.getAbstractFileByPath(ctx.sourcePath) : null;
       if (!file) return;
+      if (isHoverPopover && !this.settings.showBannerInPopoverPreviews) return;
       const frontmatter = (_a = this.app.metadataCache.getFileCache(file)) == null ? void 0 : _a.frontmatter;
       let bannerImage = null;
       for (const field of this.settings.customBannerField) {
@@ -30553,11 +32162,28 @@ var PixelBannerPlugin = class extends import_obsidian28.Plugin {
   // -- verify pixel banner plus credentials --
   // ------------------------------------------
   async verifyPixelBannerPlusCredentials() {
-    const result = await verifyPixelBannerPlusCredentials(this);
-    this.pixelBannerPlusServerOnline = result.serverOnline;
-    this.pixelBannerPlusEnabled = result.verified;
-    this.pixelBannerPlusBannerTokens = result.bannerTokens;
-    return result;
+    if (this.settings.pixelBannerPlusEnabled) {
+      const result = await verifyPixelBannerPlusCredentials(this);
+      this.pixelBannerPlusServerOnline = result.serverOnline;
+      this.pixelBannerPlusEnabled = result.verified;
+      this.pixelBannerPlusBannerTokens = result.bannerTokens;
+      this.pixelBannerPlusJackpot = result.jackpot;
+      this.pixelBannerPlusDailyGameName = result.dailyGameName;
+      this.pixelBannerPlusHighScore = result.highScore || "0";
+      this.pixelBannerPlusTopUser = result.topUser;
+      this.pixelBannerPlusTimeLeft = result.timeLeft;
+      return result;
+    }
+    return {
+      serverOnline: false,
+      verified: false,
+      bannerTokens: 0,
+      jackpot: 0,
+      dailyGameName: "",
+      highScore: "0",
+      topUser: "",
+      timeLeft: 0
+    };
   }
   // -------------------------------- //
   // -- get pixel banner plus info -- //

@@ -10,7 +10,8 @@ name: "Kenora"
 level: 2
 ---
 
-```statblock
+
+```statblock 
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
@@ -58,3 +59,4 @@ attacks:
 
 sourcebook: "_Homebrew_"
 ````
+^37066d

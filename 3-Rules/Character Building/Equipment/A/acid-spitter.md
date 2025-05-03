@@ -3,34 +3,38 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-item, h-line
-name: "addlebrain"
-aliases: "Addlebrain"
-source: "Pathfinder #147: Tomorrow Must Burn"
-pg: "71"
-rarity: "Rare"
-trait01: "Alchemical"
-trait02: "Consumable"
-trait03: "Inhaled"
-trait04: "Poison"
+name: "acid-spitter"
+aliases: "Acid Spitter"
+source: "Pathfinder Guns and Gears"
+pg: "78"
+rarity: "Uncommon"
+trait01: "Acid"
+trait02: "Clockwork"
+trait03: "Consumable"
+trait04: "Mechanical"
+trait05: "Snare"
+trait06: "Trap"
 image: zz-Attachments/assets/imageplaceholder.png
-level: 7
-weight: L
-value: "58"
+level: 4
+weight: 0
+value: "15"
 subvalue: "gp"
-invest:
-usage: "held in 2 hands"
-license: "OGL"
-identify: "Identify Alchemy (Crafting) DC 28"
-description: "Certain Scarlet Triad poisoners use toxins like addlebrain to keep captured prisoners docile and compliant for short periods of time until they can be properly shackled and imprisoned. Addlebrain is distilled from a hallucinogenic lichen that can often be found growing in the sewers below particularly large cities like Katapesh.<br><br>Once soaked in special reagents and then dried, a dose of addlebrain must be either lit with flame or tossed into a fire to activate, whereupon it unleashes a cloud of toxin as normal for an inhaled poison."
+invest: 
+usage: ""
+license: "ORC"
+identify: ""
+description: "This item resembles a small tin clockwork lizard."
 powerTitle: "Effect"
 actionEconomy: 
 type: 
 frequency: 
-mechanics: "**Saving Throw** DC 25 Fortitude; **Onset** 1 minute; **Maximum Duration** 1 day; **Stage 1** [[enfeebled|Enfeebled 1]] 1 and [[stupefied|Stupefied 1]] (10 minutes); **Stage 2** [[enfeebled|Enfeebled 2]] and [[stupefied|Stupefied 2]] (1 hour); **Stage 3** [[fatigued]], [[enfeebled|Enfeebled 4]] and [[stupefied|Stupefied 4]] (1 day)"
+trigger: "a creature moves adjacent to it"
+mechanics: "**Effect** The acid spitter spits out a glob of acid. The target must succeed at a DC 20 Reflex saving throw or take `dice: 3d6` 3d6 acid damage. <br><br>**Critical Success** The creature is unaffected. <br>**Success** The creature takes full damage. <br>**Failure** The creature takes full damage and 5 persistent acid damage. <br>**Critical Failure** The creature takes double damage and 10 persistent acid damage."
 powerTitle2: ""
 actionEconomy2: 
 type2: 
 frequency2: 
+trigger2: 
 mechanics2: "**Secondary Effect** "
 craft: 
 

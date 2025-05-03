@@ -3,30 +3,30 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-item, h-line
-name: "addlebrain"
-aliases: "Addlebrain"
-source: "Pathfinder #147: Tomorrow Must Burn"
-pg: "71"
-rarity: "Rare"
+name: "addiction-suppressant-moderate"
+aliases: "Addiction Suppressant (Moderate)"
+source: "Treasure Vault"
+pg: "58"
+rarity: ""
 trait01: "Alchemical"
 trait02: "Consumable"
-trait03: "Inhaled"
-trait04: "Poison"
+trait03: "Elixir"
+trait04: "Healing"
 image: zz-Attachments/assets/imageplaceholder.png
-level: 7
+level: 6
 weight: L
-value: "58"
+value: "30"
 subvalue: "gp"
-invest:
-usage: "held in 2 hands"
+invest: 
+usage: "held in 1 hand"
 license: "OGL"
-identify: "Identify Alchemy (Crafting) DC 28"
-description: "Certain Scarlet Triad poisoners use toxins like addlebrain to keep captured prisoners docile and compliant for short periods of time until they can be properly shackled and imprisoned. Addlebrain is distilled from a hallucinogenic lichen that can often be found growing in the sewers below particularly large cities like Katapesh.<br><br>Once soaked in special reagents and then dried, a dose of addlebrain must be either lit with flame or tossed into a fire to activate, whereupon it unleashes a cloud of toxin as normal for an inhaled poison."
+identify: "Identify Alchemy (Crafting) DC 15"
+description: "When you use a dose of addiction suppressant, it suppresses the effects of that addiction for 1 day, as if you had taken an actual dose of the drug, but without any of the drug's effects, and it doesn't increase the addiction DC. You also gain an item bonus against the ongoing save against the drug's addiction depending on the type of addiction suppressant.<br><br>For every drug, a specific suppressant must be crafted— no generalized addiction suppressant yet exists. In order to create an addiction suppressant, you must begin with a dose of the drug to be suppressed, then use alchemical reagents to generate an elixir that can be used to fight that drug's addiction. An addiction suppressant must be a higher level than the drug it is meant to suppress in order to work.<br><br> **Special** An addiction suppressant has the same rarity as the specific drug it's crafted to suppress."
 powerTitle: "Effect"
 actionEconomy: 
 type: 
 frequency: 
-mechanics: "**Saving Throw** DC 25 Fortitude; **Onset** 1 minute; **Maximum Duration** 1 day; **Stage 1** [[enfeebled|Enfeebled 1]] 1 and [[stupefied|Stupefied 1]] (10 minutes); **Stage 2** [[enfeebled|Enfeebled 2]] and [[stupefied|Stupefied 2]] (1 hour); **Stage 3** [[fatigued]], [[enfeebled|Enfeebled 4]] and [[stupefied|Stupefied 4]] (1 day)"
+mechanics: "You gain a +2 item bonus."
 powerTitle2: ""
 actionEconomy2: 
 type2: 

@@ -65,33 +65,24 @@ awarded_consumable_items:
 
 # **`=this.file.name`**
 
-> [!metadata|quests]- Quests
-> ```dataview
-> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes, status AS Status
-> FROM "4-Campaign/Age of Worms/Quests"
-> WHERE econtains(tags, "Quest") AND econtains(adventure, this.file.link)
-> SORT file.name ASC
-
-
-
 ## Overview
 The Three Faces of Evil requires the PCs to sneak into Dourstone Mine, destroy [[The Ebon Triad]] cultists, and defeat a newly born creature knows as the Ebon Aspect.  The miners themselves, while not necessarily innocents, aren't cultists.  The PCs must sneak by them or use Diplomacy to gain access to the mines.  Once they overcome this obstacle, they must defeat each of the cults that comprise this cell of [[The Ebon Triad]]. Finally, as the last cultists fall, the Ebon aspect arises to avenge its worshiper-creators.  once the PCs defeat this abomination, they escape back to the surface, where they quickly become embroiled in their next adventure.
 
 # Part 1: What Writhes Within
 Allustan recently unearthed increasing evidence of strange undead creatures infested with tiny green worms stalking the hills south of Diamond Lake.  He is worried that these undead creatures could represent a greave threat to [[Diamond Lake]]. Thus, he asks the adventurers to pursue the few leads he has uncovered so far.
 
-Allustan's studies show that the worms might be somehow connected to an ancient temple hidden beneath the earth.  According to his calculations, the temple is located beneath a copper mine owned by [[Ragnolin Dourstone]]. Ragnolin is known as a surly, paranoid and greedy mine manager and [[Allustan]] fears that he may be connected to the temple if it is currently occupied.
+Allustan's studies show that the worms might be somehow connected to an ancient temple hidden beneath the earth.  According to his calculations, the temple is located beneath a copper mine owned by [[Ragnolin Dourstone]]. Ragnolin is known as a surly, paranoid and greedy mine manager and [[5-World/NPCs/Diamond Lake/Allustan]] fears that he may be connected to the temple if it is currently occupied.
 
-[[Allustan]] suggests that the merchant [[Balabar Smenk]] could provide a useful gateway to Ragnolin's mine.  Balabar and Ragnolin have a well know rivalry.  Neither is trustworthy, but their animosity might be enough to make Balabar open to an offer of alliance with the party.  The recover of Smenk's letter to Filge from the observatory in [[The Whispering Cairn|The Whispering Cairn]] suggests that Smenk knows more about the situation in the Dourstone Mine then he should.
+[[5-World/NPCs/Diamond Lake/Allustan]] suggests that the merchant [[Balabar Smenk]] could provide a useful gateway to Ragnolin's mine.  Balabar and Ragnolin have a well know rivalry.  Neither is trustworthy, but their animosity might be enough to make Balabar open to an offer of alliance with the party.  The recover of Smenk's letter to Filge from the observatory in [[The Whispering Cairn|The Whispering Cairn]] suggests that Smenk knows more about the situation in the Dourstone Mine then he should.
 
 By the time the PCs have finished exploring [[The Whispering Cairn|The Whispering Cairn]], Smenk already hates them and wants to see them destroyed or run out of town.  Better yet, he comes upon the idea of sending them agains the cultists below the Dourstone Mine, hoping to take care of two problems at once.
 
 If the PCs don't set up a meeting with Smenk within a week of their encounter with Filge, the mine manager takes it upon himself to invite them to meet with him, ordering a subordinate to sneak into the PCs headquarters with a note setting up a rendezvous at Smenk's home in [[Diamond Lake]]. If the situation warrants it, perhaps Smenk kidnaps a PCs familiar just to show them that they're dealing with a professional criminal.
 
-In either case, [[Allustan]] belives that the temple is occupied and he worries that it's inhabitants are behind the strange undead in the southern hills.  He knows little of [[The Ebon Triad]], but he has managed to uncover the location of an elevator within the mines.  He tells the PCs that the elevator is the most convenient way into the temple.
+In either case, [[5-World/NPCs/Diamond Lake/Allustan]] belives that the temple is occupied and he worries that it's inhabitants are behind the strange undead in the southern hills.  He knows little of [[The Ebon Triad]], but he has managed to uncover the location of an elevator within the mines.  He tells the PCs that the elevator is the most convenient way into the temple.
 
 ## Talking to Smenk
-Unknown to [[Allustan]], Smenk is secretly in league with the Ebon Triad.  While the Faceless One managed to subvert [[Ragnolin Dourstone]] with bribes and promises of power, he sees Balabar as another useful tool, particularly if Ragnolin turns against the Triad.  Balabar wants [[The Ebon Triad]] destroyed.  The PCs, if they are in his debt, could prove the perfect weapon to distract the Triad or defeat the cultists while he makes an escape.
+Unknown to [[5-World/NPCs/Diamond Lake/Allustan]], Smenk is secretly in league with the Ebon Triad.  While the Faceless One managed to subvert [[Ragnolin Dourstone]] with bribes and promises of power, he sees Balabar as another useful tool, particularly if Ragnolin turns against the Triad.  Balabar wants [[The Ebon Triad]] destroyed.  The PCs, if they are in his debt, could prove the perfect weapon to distract the Triad or defeat the cultists while he makes an escape.
 
 To encourage the PCs to assist him, Smenk claims that he is terrified of the cultists, and that he was pressured into helping them.  He tells the PCs about his right-hand man, and plays up a sense of betrayal, as if his brand of villainy is somehow more respectable than that of [[The Ebon Triad]].
 
@@ -250,7 +241,7 @@ Before running encounters here, be sure to study the “Temple Organization” s
 
 ## Encounter 2: Chamber of the Guardians
 **Encounter Difficulty:**   
-- [ ] Moderate (80 XP) Level 3
+- [x] Moderate (80 XP) Level 3
 
 > [!note]+ Read Aloud
 > A dozen suits of armor, ranging from battered. leathers to rusted plate, line this chambers walls. The bleached white bones of human, dwarf, and orc skeletons contrast with the dark, bloodstained armor. The suits are carefully arranged, as if the dead were preparing. to march for war, Each has a mace hooked to its belt, while bells of varying shapes and sizes hang from the armor on long, leather strips.
@@ -291,7 +282,7 @@ The skeletons will attack until defeated.
 
 ## Encounter 3: Chamber of the Faithful
 **Encounter Difficulty:**   
-- [ ] Trivial (40 XP) Level 3
+- [x] Trivial (40 XP) Level 3
 
 > [!note]+ Read Aloud
 > Blankets cover the floor of this chamber, surrounding a wooden crate atop which stands a small, crude statue of a six armed humanoid figure. A few battered weapons, spears, clubs, and fails lean against the far wall. Stone pegs carved into the wall light this area with flickering, bright flames.
@@ -317,11 +308,11 @@ The cultists are fanatical in their dedication to Theldrick, the high priest of 
 > [!tip]+ Treasure
 > A successful DC 15 [[Search]] check of the wooden crate in the center of the room reveals a small trove hidden beneath a loose flagstone. The treasure. consists of a golden holy symbol of Hextor worth 5 gp and the broken blade of a silver, ceremonial dagger worth 2 gp.
 > 
-> - [ ] gp::7
+> - [x] gp::7
 
 ## Encounter 4: The Guard Chamber
 **Encounter Difficulty:**   
-- [ ] Moderate (80 XP) Level 3
+- [x] Moderate (80 XP) Level 3
 
 > [!note]+ Read Aloud
 > This chamber holds two beds against the east wall, a long, wooden table along the south wall, two stools, and a weapons rack along the west wall. A suit of leather armor lies on the table with a variety of tools spread out around it.
@@ -346,8 +337,8 @@ The tieflings have learned to fight as a pair. While one readies his axe, the ot
 > [!tip]+ Treasure
 > The leather armor is a mundane suit that one of the tieflings is in the process of repairing, while the tools around it comprise a complete [[Repair Toolkit (Superb)]]. A DC 15 [[Search]] of one bed reveals а small, velvet bag containing 7 gp and a golden necklace worth 5 gp.
 > 
-> - [ ] gp::12
-> - [ ] permanent::[[Repair Toolkit (Superb)]] [ilvl::3] [gp::25]
+> - [x] gp::12
+> - [x] permanent::[[Repair Toolkit (Superb)]] [ilvl::3] [gp::25]
 
 ## Encounter 5: Chamber of the Beast
 **Encounter Difficulty:**   
@@ -895,7 +886,7 @@ The morlocks fight to the death. They are fanatics to Enthnul's cause and are re
 
 # Encounter 20: Chieftain's Lodge
 **Encounter Difficulty:**   
-- [ ] moderate (80 XP) Level 4
+- [x] moderate (80 XP) Level 4
 
 > [!note]+ Read Aloud
 > This chamber presents a macabre sight. А bewildering variety of humanoid and monstrous skulls are mounted on the walls just outside this chamber with crude, iron spikes. The chamber beyond is a small, cramped space that smells strongly of damp earth. A great pile of furs and blankets lies in the center of the room.
@@ -922,9 +913,9 @@ The chieftain is a simple, brutal warrior and a bully at heart. He seeks out the
 > [!tip]+ Treasure
 > The chieftain keeps his treasure mingled amidst his bedding. His personal cache consists of 4 rubies worth 15 gp each, 150 sp in coins kept within leather pouch, a jeweled statuette of an elven warrior worth 25 gp, and a [[Smuggler's Sack (Type I)]].
 > 
-> - [ ] gp::85
-> - [ ] sp::150
-> - [[Smuggler's Sack (Type I)]] [ilvl::4] [gp::75]
+> - [x] gp::85
+> - [x] sp::150
+> - [x] [[Smuggler's Sack (Type I)]] [ilvl::4] [gp::75]
 
 # Encounter 21: Temple to Erythnul
 **Encounter Difficulty:**   
@@ -967,9 +958,9 @@ The morlock guards attempt to hold off the characters. They adopt a position to 
 > 
 > In addition, Grallak carries two scrolls that summarize his latest visions. They are written in Common, as they are meant for the Faceless One, but the rambling, disjointed style is difficult to comprehend. A DC 18 [[Decipher Writing|Decipher Writing (Society)]]] check uncovers their basic intents. The letters state that a great power stirs, and that а swarm of worms is at hand. It speaks of a power growing in the pool of the Dark Cathedral, a power that will serve the Ebon Triad as a champion, but that a still greater force drives the power of evil forward. One passage in particular stands out: “At last the will of the Ebon Triad be done. With the return, of great Kyuss, the Age of Worms is finally upon us!"
 > 
-> - [ ] gp::20
-> - [ ] sp::500
-> - [ ] permanent::[[Rope of Climbing (Lesser)]] [ilvl::3] [gp::45]
+> - [x] gp::20
+> - [x] sp::500
+> - [x] permanent::[[Rope of Climbing (Lesser)]] [ilvl::3] [gp::45]
 
 # Part 4: The Labyrinth of Vecna
 The Faceless One and his followers knew that they had uncovered one of Vecna's great secrets when they discovered this strange labyrinth directly north of the Overgod's bubbling pool. Powerful magic flows through this place, and the Faceless One suspects that at one time in the distant past Vecna himself dwelled within these halls.

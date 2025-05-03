@@ -99,14 +99,6 @@ awarded_consumable_items:
 
 # **`=this.file.name`**
 
-> [!metadata|quests]- Quests
-> ```dataview
-> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes, status AS Status
-> FROM "4-Campaign/Age of Worms/Quests"
-> WHERE econtains(tags, "Quest") AND econtains(adventure, this.file.link)
-> SORT file.name ASC
-
-
 ## Overview
 The bulk of the adventure involved the exploration of the Whispering Cairn, a sizable dungeon complex loaded with ancient traps and a collection of interesting (and territorial) inhabitants.  Deep within the complex, the PCs come across the ghost of Alastor Land, the runaway child who fell victim to one of the cairn's traps 30 years ago.  The undead horror blocks the PCs' progress, promising to Abandon the cairn if the characters return his bones to the small family cemetery on the farmstead just outside town.
 
@@ -194,7 +186,7 @@ A DC 5 [[seek]] action turns up a few shards of an unidentifiable shiny black su
 In ancient days, a grand ring of portals connected several Aetherial Warden burial cairns, but now only two such portals still function, the one in [[The Whispering Cairn#3. Collapsed Passage|area 3]] and it's partner in the undisturbed cairn of Icosiol, the slain Warden whose grand tomb served as the main stop along the circle of black glass gates.  The base of the apparatus bears Icosiol's personal sigil, which has been all but forgotten by history.  See the Glyphs of the Aetherial Wardens sidebar for more information on how the PCs can learn more about the strange symbol.
 
 > [!tip]+ Treasure
-> The shards of glass might fetch as much as 5 gp from the right buyer.  In [[Diamond Lake]], that means the gnome jeweler [[Tidwoad]] or the magician [[Allustan]].
+> The shards of glass might fetch as much as 5 gp from the right buyer.  In [[Diamond Lake]], that means the gnome jeweler [[Tidwoad]] or the magician [[5-World/NPCs/Diamond Lake/Allustan]].
 > 
 > - [x] gp::5
 
@@ -857,7 +849,7 @@ The sarcophagus is completely sealed, exhibiting not even a seam under the lid. 
 If the addressed character utters the word "Zosiel," bright blue light sines around the sarcophagus lid.  It fades a few seconds later, revealing a seam between the lid and the rest of the sarcophagus.  Lifting the lid revels the treasure within.
 
 > [!tip]+ Treasure
-> Within the sarcophagus are all the remains of Zosiel: a slight silver diadem known as a [[Silver Diadem of Insight]]. The sarcophagus also includes two long slightly curved black horns with red tips (worth 3 gp each) and a pewter box inscribed with alien, writhing letterforms.  A DC 15 [[Skills#Occultism|Occultism]] check identifies the glyphs as those typically used by Chaos.  Melted metal keeps the box sealed, but a decent application of force is sufficient to snap off the lid. Inside is a long handle attached to an adamantine loop.  This inactive minor artifact radiates strong transmutation magic, but is currently dormant and does nothing.  It can be fully activated as a [[Talisman of the Sphere]] inn "A Gathering of Winds," the sixth installment of the Age of Worms.  [[Allustan]] can identify the time by name at a glance, noting that the [[Sphere of Annihilation]] were holes in the continuity of the multiverse, and that anything they touched was utterly destroyed.  After the Battle of Aetherion legend holds that the Wardens scattered them to the corners of the universe.  Far more numerous are the talismans that were said to grant their owners some measure of control over the spheres.  [[Allustan]] urges the PCs to keep the valuable minor artifact.  "one must always be prepared," he says with a wink and a smile.
+> Within the sarcophagus are all the remains of Zosiel: a slight silver diadem known as a [[Silver Diadem of Insight]]. The sarcophagus also includes two long slightly curved black horns with red tips (worth 3 gp each) and a pewter box inscribed with alien, writhing letterforms.  A DC 15 [[Skills#Occultism|Occultism]] check identifies the glyphs as those typically used by Chaos.  Melted metal keeps the box sealed, but a decent application of force is sufficient to snap off the lid. Inside is a long handle attached to an adamantine loop.  This inactive minor artifact radiates strong transmutation magic, but is currently dormant and does nothing.  It can be fully activated as a [[Talisman of the Sphere]] inn "A Gathering of Winds," the sixth installment of the Age of Worms.  [[5-World/NPCs/Diamond Lake/Allustan]] can identify the time by name at a glance, noting that the [[Sphere of Annihilation]] were holes in the continuity of the multiverse, and that anything they touched was utterly destroyed.  After the Battle of Aetherion legend holds that the Wardens scattered them to the corners of the universe.  Far more numerous are the talismans that were said to grant their owners some measure of control over the spheres.  [[5-World/NPCs/Diamond Lake/Allustan]] urges the PCs to keep the valuable minor artifact.  "one must always be prepared," he says with a wink and a smile.
 > 
 > - [x] gp::6
 > - [x] permanent::[[Silver Diadem of Insight|Silver Diadem of Insight]] [ilvl::3] [gp::60]

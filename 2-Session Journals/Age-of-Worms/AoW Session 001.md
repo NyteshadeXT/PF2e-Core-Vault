@@ -78,7 +78,7 @@ The players have discovered so far:
 ## Post
 ### New Creations
 
-**Important Note** Zamosshe knows [[Allustan]].  Likely a apprentice relationship but could be something more.  Watch to see if Aaron tries to build on this.
+**Important Note** Zamosshe knows [[5-World/NPCs/Diamond Lake/Allustan]].  Likely a apprentice relationship but could be something more.  Watch to see if Aaron tries to build on this.
 
 ### Date & Time
 

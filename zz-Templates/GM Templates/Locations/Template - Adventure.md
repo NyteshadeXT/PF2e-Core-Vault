@@ -48,6 +48,10 @@ art: zz-Attachments/PlaceholderImage.png
 > [!kirk|info] Prompt (Remove me)
 > Provide an overarching overview of this adventure. What is the central theme or conflict driving the narrative? Outline the potential quests or objectives that the players may embark on. Consider the variety of challenges, encounters, or tasks they might face. Additionally, describe how the adventure begins. What inciting incident or call to action propels the players into the unfolding storyline? Use this section to set the stage, introduce key elements, and establish the initial motivations that will guide the players throughout the adventure.
 
+## Adventure Hooks
+> [!kirk|info] Prompt (Remove me)
+> Adventure hooks are the catalysts that pull players into a story, giving them a reason to embark on their journey. They set the stage for excitement, mystery, and danger, enticing characters to step beyond the mundane and into the unknown. A hook can be as simple as a cryptic letter arriving in the dead of night, a town elder pleading for help, or an ancient prophecy foretelling doom unless heroes intervene. Whether subtle or dramatic, adventure hooks serve a vital role in player engagement—sparking curiosity, driving motivation, and creating urgency. The best hooks make players feel personally involved, pushing them to ask, "What happens next?" and propelling them deeper into the unfolding tale. 
+
 ## [[Template - Quest]]
 ### Aftermath
 > [!kirk|info] Prompt (Remove me)

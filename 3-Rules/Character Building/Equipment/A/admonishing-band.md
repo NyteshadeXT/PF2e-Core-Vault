@@ -3,42 +3,36 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-item, h-line
-name: "advancing"
-aliases: "Advancing"
-source: "Treasure Vault"
-pg: "12"
-rarity: ""
-trait01: "Magical"
-trait02: "Necromancy"
-trait03: ""
-trait04: ""
-trait05: ""
-trait06: ""
-trait07: ""
-trait08: ""
+name: "admonishing-band"
+aliases: "Admonishing Band"
+source: "Pathfinder Guns and Gears"
+pg: 184
+rarity: 
+trait01: "Consumable"
+trait02: "Enchantment"
+trait03: "Magical"
+trait04: "Talisman"
 image: zz-Attachments/assets/imageplaceholder.png
-level: 9
+level: 4
 weight: 0
-value: "625"
+value: "20"
 subvalue: "gp"
 invest:
-usage: "etched onto heavy armor"
-license: "OGL"
-identify: "Identify Magic (Arcana, Nature, Occultism or Religion) DC 26"
-identify: ""
-description: "This rune charges up as you defeat your foes, driving you forward across the battlefield with every victory."
+usage: "affixed to a firearm"
+license: "ORC"
+identify: "Identify Magic (Arcana, Nature, Occultism or Religion) DC 19"
+description: "This wide strip of treated lizard hide is wrapped around the grip or stock of the affixed weapon, augmenting the unease that your gunshot creates."
 powerTitle: "Effect"
-actionEconomy: 0
-type: "(command)"
-frequency: 
-requirement: "Your last action or activity reduced an enemy to 0 Hit Points"
+actionEconomy:
+type:
+frequency:
+requirement: "You're trained in [[Skills#Intimidation|Intimidation]]."
 trigger:
-mechanics: "You Stride up to 15 feet. This movement doesn't trigger reactions. You can Burrow, Climb, Fly, or Swim instead of Striding if you have the corresponding movement type."
+mechanics: " When you activate it, you fire your gun into the air with the effects of [[Warning Shot]]. If you already have the Warning Shot feat, the target doesn't become temporarily immune to your [[Demoralize]], potentially allowing you to Demoralize them again."
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
-requirements2: 
 trigger2:
 mechanics2: "**Secondary Effect** "
 craft:
@@ -75,7 +69,10 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
+
 ---
+
+
 ```meta-bind-embed
 [[Item Card Template]]
 ```

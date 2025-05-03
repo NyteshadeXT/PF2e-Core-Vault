@@ -98,5 +98,6 @@
   "ITS@@link-weight": 800,
   "ITS@@accent2-lite@@dark": "#000000",
   "ITS@@inactive@@dark": "#000000",
-  "ITS@@inactive@@light": "#000000"
+  "ITS@@inactive@@light": "#000000",
+  "ITS@@hvr@@light": "#B33C2E"
 }

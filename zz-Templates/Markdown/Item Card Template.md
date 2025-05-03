@@ -14,6 +14,7 @@ trait03:
 trait04:
 image: zz-Attachments/assets/imageplaceholder.png
 level: 
+group: 
 weight: 
 value: ""
 subvalue: ""
@@ -22,15 +23,27 @@ usage: ""
 license: ""
 identify: ""
 description: ""
+
+#========================================================#
+#                  Ability #1 PROPERTIES                 #
+#========================================================#
 powerTitle: "Effect"
 actionEconomy: 
 type: 
 frequency: 
-mechanics: "**Effect** "
+requirement:
+trigger:
+mechanics: ""
+
+#========================================================#
+#                  Ability #2 PROPERTIES                 #
+#========================================================#
 powerTitle2: ""
 actionEconomy2: 
 type2: 
 frequency2: 
+requirement2:
+trigger2: 
 mechanics2: "**Secondary Effect** "
 craft: 
 
@@ -66,6 +79,7 @@ conditionImmunity:
 #========================================================#
 weaponBase: 
 armorBase: 
+shieldBase:
 
 ---
 
@@ -220,61 +234,102 @@ dv.list(output);
 
 ---
 
-```ad-embed-ability 
 ```dataviewjs
 const data = dv.current();
 
-// Primary power output
-let powerBlocks = [];
+// Only display if there's a primary or secondary power
+if (data.powerTitle || data.powerTitle2) {
+  let output = "";
 
-function createPowerBlock(powerTitle, actionEconomy, type, frequency, mechanics) {
-  let actionEconomyOutput = "";
-  let frequencyOutput = "";
+  function getActionIconCode(actionEconomy) {
+    if (!actionEconomy) return "";
 
-  if (actionEconomy != null && typeof actionEconomy === 'string') {
-    actionEconomyOutput = "`pf2:" + actionEconomy.trim() + "`";
-  } else if (actionEconomy != null) {
-    actionEconomyOutput = "`pf2:" + actionEconomy + "`";
+    const trimmed = actionEconomy.toString().trim().toLowerCase();
+
+    switch (trimmed) {
+      case "1":
+        return "`pf2:1`";
+      case "2":
+        return "`pf2:2`";
+      case "3":
+        return "`pf2:3`";
+      case "0":
+        return "`pf2:0`";
+      case "r":
+      case "reaction":
+        return "`pf2:r`";
+      case "f":
+      case "free":
+        return "`pf2:f`";
+      default:
+        return "";
+    }
   }
 
-  if (frequency != null && frequency.trim() !== "") {
-    frequencyOutput = "**Frequency** " + frequency;
+  function createPowerBlock(powerTitle, actionEconomy, type, frequency, requirement, trigger, mechanics) {
+    const actionEconomyOutput = getActionIconCode(actionEconomy);
+
+    const frequencyRequirementTriggerOutput = [];
+
+    if (frequency && frequency.trim() !== "") {
+      frequencyRequirementTriggerOutput.push(`**Frequency:** ${frequency}`);
+    }
+
+    if (requirement && requirement.trim() !== "") {
+      frequencyRequirementTriggerOutput.push(`**Requirements:** ${requirement}`);
+    }
+
+    if (trigger && trigger.trim() !== "") {
+      frequencyRequirementTriggerOutput.push(`**Trigger:** ${trigger}`);
+    }
+
+    const combinedOutput = frequencyRequirementTriggerOutput.length > 0 ? frequencyRequirementTriggerOutput.join("\n\n") + "\n\n" : "";
+
+    let block = `### **${powerTitle}** ${actionEconomyOutput} ${type ? type : ""}\n\n`;
+    if (combinedOutput) {
+      block += combinedOutput;
+    }
+    block += `${mechanics}\n`;
+
+    return block;
   }
 
-  let titleLine = `**${powerTitle}**`;
-  if (actionEconomyOutput) {
-    titleLine += ` ${actionEconomyOutput}`;
-  }
-  if (type) {
-    titleLine += ` ${type}`;
+  // Build the complete Markdown content (inside a div for the box)
+  output += `\n<div class="pf2e-ability-textbox">\n\n`;
+
+  if (data.powerTitle) {
+    output += createPowerBlock(
+      data.powerTitle,
+      data.actionEconomy,
+      data.type,
+      data.frequency,
+      data.requirement,
+      data.trigger,
+      data.mechanics
+    );
   }
 
-  let block = `
-  <span style="display: block; text-align: center;">${titleLine}</span>
-  
-  ${frequencyOutput ? `${frequencyOutput}\n\n` : ""}
-  ${mechanics}
-  `;
+  if (data.powerTitle2) {
+    if (data.powerTitle) {
+      output += `\n<hr class="pf2e-divider">\n\n`; // Fancy divider between powers
+    }
+    output += createPowerBlock(
+      data.powerTitle2,
+      data.actionEconomy2,
+      data.type2,
+      data.frequency2,
+      data.requirement2,
+      data.trigger2,
+      data.mechanics2
+    );
+  }
 
-  return block;
+  output += `\n</div>\n`;
+
+  // Output the whole thing as Markdown
+  dv.paragraph(output);
 }
 
-// Add the first power always
-if (data.powerTitle) {
-  powerBlocks.push(createPowerBlock(data.powerTitle, data.actionEconomy, data.type, data.frequency, data.mechanics));
-}
-
-// Add the second power only if it exists
-if (data.powerTitle2) {
-  // Add a line separator if both powerTitle and powerTitle2 exist
-  if (data.powerTitle && data.powerTitle2) {
-    powerBlocks.push('<hr>');
-  }
-  powerBlocks.push(createPowerBlock(data.powerTitle2, data.actionEconomy2, data.type2, data.frequency2, data.mechanics2));
-}
-
-// Output everything
-dv.paragraph(powerBlocks.join("\n\n"));
 ```
 
 

@@ -1,6 +1,7 @@
 {
   "pixelBannerPlusEmail": "",
   "pixelBannerPlusApiKey": "",
+  "pixelBannerPlusEnabled": true,
   "apiProvider": "all",
   "pexelsApiKey": "",
   "pixabayApiKey": "",
@@ -10,16 +11,16 @@
   "imageOrientation": "landscape",
   "numberOfImages": 10,
   "defaultKeywords": "nature, abstract, landscape, technology, art, cityscape, wildlife, ocean, mountains, forest, space, architecture, food, travel, science, music, sports, fashion, business, education, health, culture, history, weather, transportation, industry, people, animals, plants, patterns",
-  "yPosition": 33,
   "xPosition": 50,
+  "yPosition": 33,
   "customBannerField": [
     "banner"
   ],
-  "customYPositionField": [
-    "banner-y, y"
-  ],
   "customXPositionField": [
     "banner-x, x"
+  ],
+  "customYPositionField": [
+    "banner-y, y"
   ],
   "customContentStartField": [
     "content-start"
@@ -29,6 +30,12 @@
   ],
   "customImageRepeatField": [
     "banner-repeat"
+  ],
+  "customBannerMaxWidthField": [
+    "banner-max-width"
+  ],
+  "customBannerAlignmentField": [
+    "banner-align"
   ],
   "customBannerHeightField": [
     "banner-height"
@@ -92,7 +99,7 @@
   "showPinIcon": false,
   "pinnedImageFolder": "pixel-banner-images",
   "showReleaseNotes": true,
-  "lastVersion": "3.2.5",
+  "lastVersion": "3.4.5",
   "showRefreshIcon": false,
   "showViewImageIcon": false,
   "hidePixelBannerFields": true,
@@ -101,6 +108,7 @@
   "enableImageShuffle": false,
   "hideEmbeddedNoteTitles": false,
   "hideEmbeddedNoteBanners": false,
+  "showBannerInPopoverPreviews": true,
   "showSelectImageIcon": true,
   "selectImageIconOpacity": 40,
   "selectImageIconFlag": "red",
@@ -118,5 +126,6 @@
   "bannerIconBorderRadius": "17",
   "bannerIconVeritalOffset": "0",
   "openBannerIconModalAfterSelectingBanner": true,
-  "openTargetingModalAfterSelectingBannerOrIcon": true
+  "openTargetingModalAfterSelectingBannerOrIcon": true,
+  "enableDailyGame": false
 }

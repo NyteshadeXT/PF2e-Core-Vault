@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28c48d9821a8d63e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Trait Reference/E/Earth.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Earth"
-            }
-          },
-          {
             "id": "d18beaa666222822",
             "type": "leaf",
             "state": {
@@ -36,45 +22,45 @@
             }
           },
           {
-            "id": "85b47cda27c515ed",
+            "id": "5274e81f5fea79fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/Tests/Chain Shirt Option 3.md",
+                "file": "1-GM Toolkit/Tests/A 1/Adventurer's Pack.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chain Shirt Option 3"
+              "title": "Adventurer's Pack"
             }
           },
           {
-            "id": "9f775c308c743a9a",
+            "id": "ab2f14d82603cb46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/Tests/A 1/adamantine-ingot.md",
+                "file": "4-Campaign/Age of Worms/The Three Faces of Evil.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "adamantine-ingot"
+              "title": "The Three Faces of Evil"
             }
           },
           {
-            "id": "d20a39bc6fcfcd26",
+            "id": "4b982c8f7cf59e67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Templates/Markdown/Item Card Template.md",
-                "mode": "source",
+                "file": "3-Rules/Character Building/Languages.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Item Card Template"
+              "title": "Languages"
             }
           }
         ],
@@ -135,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 287.5
   },
   "right": {
     "id": "96fe26c9abf98fe0",
@@ -227,12 +213,43 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "3c6db982988fe094",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "531fd33e6236187e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3561f6737fde34c",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_48eb889b3b69",
+                "id": "ID_6a19e81938db",
+                "parent": "ID_4ac999481a8a"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 249.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -253,37 +270,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "helpmate:HelpMate": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "9f775c308c743a9a",
+  "active": "4b982c8f7cf59e67",
   "lastOpenFiles": [
-    "1-GM Toolkit/Tests/A 1/accompaniment-cloak.md",
-    "1-GM Toolkit/Tests/A 1/acid-spitter.md",
-    "1-GM Toolkit/Tests/Chain Shirt Option 3.md",
-    "1-GM Toolkit/Tests/A 1/abadars-flawless-scale.md",
-    "1-GM Toolkit/Tests/A 1/Adaptive Cogwheel.md",
-    "1-GM Toolkit/Tests/A 1/adamantine-echo.md",
-    "zz-Templates/Markdown/Item Card Template.md",
+    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
     "1-GM Toolkit/Tests/Battle Axe Option 3.md",
-    "3-Rules/Domains/Earth Domain.md",
-    "3-Rules/Trait Reference/E/Earth.md",
-    "3-Rules/Trait Reference/U/unique.md",
-    "1-GM Toolkit/Tests/A 1/adamantine-ingot.md",
-    "3-Rules/Trait Reference/U/uncommon.md",
-    "1-GM Toolkit/Tests/A 1/acrobats-staff.md",
-    "1-GM Toolkit/Tests/A 1/adamantine-chunk.md",
-    "1-GM Toolkit/Tests/A 1/abysium-chunk.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "1-GM Toolkit/Tests/Chain Shirt.md",
-    "1-GM Toolkit/Tests/Battle Axe.md",
-    "1-GM Toolkit/Tests/A 1/acid-flask-moderate.md",
-    "1-GM Toolkit/Tests/A 1/acid-flask-major.md",
-    "1-GM Toolkit/Tests/A 1/acid-flask-lesser.md",
-    "1-GM Toolkit/Tests/A 1/acid-flask-greater.md",
-    "1-GM Toolkit/Tests/A 1/achaekeks-kiss.md",
-    "1-GM Toolkit/Tests/A 1/abysium-powder.md",
-    "1-GM Toolkit/Tests/A 1/accursed-staff-greater.md",
+    "1-GM Toolkit/Tests/A 1/Adventurer's Pack.md",
+    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+    "3-Rules/Bestiaries/Uniques/Allustan-Stats.md",
+    "3-Rules/Bestiaries/Uniques/Theldrick.md",
+    "3-Rules/Bestiaries/Uniques/Rastophan.md",
+    "3-Rules/Bestiaries/Uniques/Filge.md",
+    "5-World/NPCs/Diamond Lake/Allustan.md",
+    "3-Rules/Bestiaries/Uniques/Garras.md",
+    "3-Rules/Bestiaries/Uniques/Kenora.md",
+    "4-Campaign/Age of Worms/Completed/The Whispering Cairn.md",
+    "zz-Templates/GM Templates/Locations/Template - Adventure.md",
+    "zz-Templates/Markdown/Combat Templates/Insert Custom Monster (TTRPG Statblock).md",
+    "3-Rules/Character Building/Languages.md",
+    "zz-Templates/GM Templates/Story Notes/Template - Quest.md",
+    "zz-Templates/Markdown/April's Timeline/Timeline - Render Timeline.md",
+    "zz-Templates/Markdown/April's Timeline/Timeline - Insert Event into Frontmatter.md",
+    "zz-Templates/Markdown/April's Timeline/Timeline - Add Event.md",
+    "zz-Templates/Markdown/Call Out Boxes/Call Out Boxes.md",
+    "zz-Templates/Obsidian Markdown Formatting.md",
+    "zz-Templates/Markdown/Update XP.md",
+    "zz-Templates/Markdown/Update Treasure.md",
+    "zz-Templates/Markdown/Item Card Template.md",
+    "zz-Templates/Markdown/Insert Timeline Event.md",
+    "zz-Templates/Markdown/Insert Timeline.md",
     "zz-Attachments/accompaniment-cloak.png"
   ]
 }

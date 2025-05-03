@@ -5,7 +5,7 @@ whichparty: "[[Age of Worms Party Dashboard]]"
 sessiondate: 2025-02-06
 quicknote: The players talk to Alustan and journey back to the Whispering Carin.
 characters:
-  - "[[Allustan]]"
+  - "[[5-World/NPCs/Diamond Lake/Allustan]]"
 locations:
   - "[[5-World/Settlements/Diamond Lake.md|Diamond Lake]]"
   - "[[The Whispering Cairn|The Whispering Cairn]]"
@@ -58,7 +58,7 @@ This is a list of links to various notes within your Vault. Use this to give you
 
 ## During
 ### Events
-The players spoke with [[Allustan]] and discovered some of the background of the Whispering Cairn and of the [[Aetherial Wardens]].  They journeyed back to the Cairn and continued exploring.  Eventually they figured out the [[The Whispering Cairn#7. False Tomb]] location and delved deeper into the ruins.  Entering the [[The Whispering Cairn#Lair of the Architect]] they got separated and encountered the Lurking Stranglers as well as the gas trap in the first room.  In the [[The Whispering Cairn#13. Workshop]] Gornak triggers the encounter with the [[3-Rules/Bestiaries/Monster Core/Sod Hound|Sod Hound]] and we end the night there.
+The players spoke with [[5-World/NPCs/Diamond Lake/Allustan]] and discovered some of the background of the Whispering Cairn and of the [[Aetherial Wardens]].  They journeyed back to the Cairn and continued exploring.  Eventually they figured out the [[The Whispering Cairn#7. False Tomb]] location and delved deeper into the ruins.  Entering the [[The Whispering Cairn#Lair of the Architect]] they got separated and encountered the Lurking Stranglers as well as the gas trap in the first room.  In the [[The Whispering Cairn#13. Workshop]] Gornak triggers the encounter with the [[3-Rules/Bestiaries/Monster Core/Sod Hound|Sod Hound]] and we end the night there.
 
 ### Travel & Rest
 No noteworthy travel or rest in this session.

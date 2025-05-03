@@ -141,9 +141,10 @@ When the PCs first encounter Allustan, the wizard prefers to deal with them whil
 >> [!metadata|mannerism] Mannerisms
 > `VIEW[{mannerisms}][text]`
 
-## Key Skills
-Concentration +12 (+16 when casting defensively), Knowledge (arcana) +16, Knowledge (history) +13, Knowledge (local) +11, Knowledge (planes) +13, Listen +6, Spellcraft +18, Spot +6
-Brew Potion, Scribe Scroll
+## Statblock
+```statblock
+monster: "Allustan-Stats"
+```
 
 ## Goals
 The old tombs in the hills fascinate Allustan, and were a primary factor in his decision to relocate to his childhood home.  He hopes to make a long-term study of the cairns and plans eventually to publish his findings in a small encyclopedia.  Any questions the PCs bring to him about the Whispering Cairn immediately pique his interest, and adventurers who bring regular news of plundered tombs and traps avoided find him more and more welcoming with each visit.

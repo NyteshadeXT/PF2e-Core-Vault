@@ -13,3 +13,41 @@
   padding: 0; /* ensure no extra space */
   line-height: 1.2; /* optional: ensures baseline alignment looks crisp */
 }
+
+.pf2e-ability-textbox {
+  background-color: #f3e9d2	; /* Soft parchment */
+  border: 1px solid #000; /* Crisp black */
+  padding: 1em;
+  border-radius: 8px;
+  margin: 1em 0;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.pf2e-ability-textbox h3 {
+  color: #7b2716; /* Deep PF2e maroon */
+  text-align: center;
+  margin-bottom: 0.5em;
+}
+
+.pf2e-ability-textbox em {
+  color: #666666; /* Dark gray for frequency */
+}
+
+.pf2e-divider {
+  border: none;
+  border-top: 1px solid #c94f44; /* Pathfinder reddish divider */
+  margin: 1em 0;
+}
+
+/* Ability Box Links Styling */
+.pf2e-ability-textbox a {
+  color: #7b2716; /* Deep maroon */
+  text-decoration: underline;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.pf2e-ability-textbox a:hover {
+  color: #b33c2e; /* Action red */
+  text-shadow: 0 0 6px #b33c2e; /* Soft red glow */
+}
+

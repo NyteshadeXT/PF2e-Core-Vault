@@ -40,4 +40,4 @@ tags:
   - [[Battlezoo Bestiary_ Strange and Unusual/Journals/Monster Parts Subsystem/Table 5A_ Imbuing Cost by Item Level (Weapons and Armor)|Table 5A: Imbuing Cost by Item Level (Weapons and Armor)]]
   - [[Battlezoo Bestiary_ Strange and Unusual/Journals/Monster Parts Subsystem/Table 5B_ Imbuing Costs by Item Level (Shields, Perception Items, and Skill Items)|Table 5B: Imbuing Costs by Item Level (Shields, Perception Items, and Skill Items)]]
 - [[Battlezoo Bestiary_ Strange and Unusual/Journals/Monster Parts Subsystem/Table_ Monsters by Level|Table: Monsters by Level]]
-- [[Languages]]
+- [[3-Rules/Battlezoo Bestiary Monster Parts/Monster Parts Subsystem - Battlezoo Bestiary/Languages]]

@@ -11,79 +11,99 @@ level: 19
 ---
 
 ```statblock
-columns: 2
-forcecolumns: true
-layout: Basic Pathfinder 2e Layout
-source: "B1"
-name: "Ancient Red Dragon"
-level: "Creature 19"
-rare_02: "Uncommon"
-alignment: "CE"
-size: "Huge"
-trait_04: "Dragon"
-trait_05: "Fire"
-modifier: 35
-perception:
-  - name: "Perception"
-    desc: "Perception +35; __darkvision__, __imprecise scent 60__, __smoke vision__;"
-languages: "Abyssal, Common, Draconic, Dwarven, Jotun, Orcish; "
+layout: Pathfinder 2e Creature Layout
+source: B1
+sourcebook: Bestiary p. 105
+name: Adult Black Dragon
+level: Creature 11
+
+alignment: "[CE](rules/traits/ce-b1.md)"
+size: "[large](rules/traits/large-b1.md)"
+traits:
+  - "[acid](rules/traits/acid.md)"
+  - "[amphibious](rules/traits/amphibious-b1.md)"
+  - "[dragon](rules/traits/dragon.md)"
+
+modifier: 22
+senses: darkvision, scent (imprecise) 60
+languages: common, draconic, jotun
 skills:
-  - name: "Skills"
-    desc: "__Acrobatics__: +30 (1d20+30); __Arcana__: +35 (1d20+35); __Athletics__: +37 (1d20+37); __Deception__: +35 (1d20+35); __Diplomacy__: +35 (1d20+35); __Intimidation__: +37 (1d20+37); __Stealth__: +33 (1d20+33); "
-abilityMods: [9, 5, 8, 5, 6, 7]
+  - Acrobatics: 18
+  - Arcana: 19
+  - Athletics: 24
+  - Deception: 20
+  - Intimidation: 20
+  - Stealth: 20
+attributes:
+  - str: 7
+  - dex: 3
+  - con: 5
+  - int: 2
+  - wis: 3
+  - cha: 3
+speed: 50 feet, fly 120 feet, walk 50 feet, swim 50 feet
 
-abilities_top:
-  - name: "Smoke Vision"
-    desc: "  Smoke doesn't impair a red dragon's vision; it ignores the [[rules/conditions.md#Concealed|concealed]] condition from smoke."
-abilities_mid:
-  - name: "Dragon Heat"
-    desc: " ([[arcane]], [[aura]], [[evocation]], [[fire]]);  10 feet, 4d6 (4d6) fire damage (DC 39 basic Reflex)"
-  - name: "Frightful Presence"
-    desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 40."
-  - name: "Attack of Opportunity"
-    desc: "⬲  Jaws only."
-  - name: "Redirect Fire"
-    desc: "⬲ ([[abjuration]], [[arcane]]); __Trigger__ A creature within 100 feet casts a fire spell, or a fire spell otherwise comes into effect from a source within 100 feet. __Effect__  The dragon makes all the choices to determine the targets, destination, or other effects of the spell, as though it were the caster."
+ac: 31
+saves:
+  - fort: 23
+  - ref: 18
+  - will: 21
+  - note: +1 status to all saves vs. magic
+hp: 215
+immunities: "[acid](rules/traits/acid.md), paralyzed, [sleep](rules/traits/sleep.md)"
+
+
 abilities_bot:
-  - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The dragon breathes a blast of flame that deals 20d6 (20d6) fire damage in a 60-foot cone (DC 42 basic Reflex save). It can't use Breath Weapon again for 1d4 (1d4) rounds."
-  - name: "Draconic Frenzy"
-    desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one wing [[Strike]] in any order."
-  - name: "Draconic Momentum"
-    desc: "  The dragon recharges its Breath Weapon whenever it scores a critical hit with a [[Strike]]."
-  - name: "Manipulate Flames"
-    desc: "⬻ ([[arcane]], [[concentrate]], [[transmutation]]);  The red dragon attempts to take control of a magical fire or a fire spell within 100 feet. If it succeeds at a counteract check (counteract level 10, counteract modifier +32), the original caster loses control of the spell or magic fire, control is transferred to the dragon, and the dragon counts as having Sustained the Spell with this action (if applicable). The dragon can choose to end the spell instead of taking control, if it chooses."
-
-speed: 60 feet, fly 180 feet
-
-ac: 45
-armorclass:
-  - name: AC
-    desc: "45; __Fort__: +35 (1d20+35); __Ref__: +32 (1d20+32); __Will__: +35 (1d20+35);"
-hp: 425
-health:
-  - name: HP
-    desc: "425;  __Immunities__ fire, paralyzed, sleep; __Weaknesses__ cold 20;"
-
+  - name: Breath Weapon
+    desc: >
+      ⬺ ([acid](rules/traits/acid.md), [arcane](rules/traits/arcane.md), [evocation](rules/traits/evocation.md)) The dragon breathes a spray of acid that deals 12d6 acid damage in an 80-foot line (DC 30 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.
+  - name: Corrupt Water
+    desc: >
+      ⬻ ([arcane](rules/traits/arcane.md), [concentrate](rules/traits/concentrate.md), [necromancy](rules/traits/necromancy.md))
+      **Frequency** once per day;
+      **Effect** The dragon permanently befouls 10 cubic feet of liquid within 90 feet. The liquid becomes undrinkable and unable to support water-breathing life. This destroys liquid magic or alchemical items if they're of a lower level than the dragon (a creature can attempt a DC 28 Will save to protect liquids in its possession). This doesn't affect the liquids in a creature's body.
+  - name: Draconic Frenzy
+    desc: >
+      ⬺ The dragon makes two claw [Strikes](rules/actions/strike.md) and one horns [Strike](rules/actions/strike.md) in any order.
+  - name: Draconic Momentum
+    desc: >
+      The dragon recharges its Breath Weapon whenever it scores a critical hit with a [Strike](rules/actions/strike.md).
+abilities_mid:
+  - name: "[Frightful Presence](rules/abilities/frightful-presence.md)"
+    desc: "([aura](rules/traits/aura.md), [emotion](rules/traits/emotion.md), [fear](rules/traits/fear.md), [mental](rules/traits/mental.md))([aura](rules/traits/aura.md), [emotion](rules/traits/emotion.md), [fear](rules/traits/fear.md), [mental](rules/traits/mental.md)) 90 feet, DC 28"
+  - name: Tail Lash
+    desc: >
+      ⬲
+      **Trigger** A creature within reach of the dragon's tail takes an action to [Strike](rules/actions/strike.md) or attempt a skill check;
+      **Effect** The dragon [Strikes](rules/actions/strike.md) with its tail at the triggering creature at a –2 penalty. If it hits, the creature takes a –2 circumstance penalty to the triggering roll.
 
 attacks:
-  - name: Melee
-    desc: "⬻ jaws +37 ([[fire]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 4d10+17 (4d10+17) piercing plus 3d6 (3d6) fire"
-  - name: Melee
-    desc: "⬻ claw +37 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 4d8+17 (4d8+17) slashing"
-  - name: Melee
-    desc: "⬻ tail +35 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 4d10+15 (4d10+15) slashing"
-  - name: Melee
-    desc: "⬻ wing +35 ([[agile]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 3d8+15 (3d8+15) slashing"
+  - name: ___Melee___ ⬻ jaws
+    desc: ([acid](rules/traits/acid.md), [magical](rules/traits/magical.md), [reach 10 feet](rules/traits/reach-10-feet.md))
+    bonus: 25
+    damage: "2d12+13 piercing plus 2d6 acid"
+  - name: ___Melee___ ⬻ claw
+    desc: ([agile](rules/traits/agile.md), [magical](rules/traits/magical.md))
+    bonus: 25
+    damage: "2d10+13 slashing"
+  - name: ___Melee___ ⬻ tail
+    desc: ([magical](rules/traits/magical.md), [reach 15 feet](rules/traits/reach-15-feet.md))
+    bonus: 23
+    damage: "2d12+11 bludgeoning"
+  - name: ___Melee___ ⬻ horns
+    desc: ([magical](rules/traits/magical.md), [reach 10 feet](rules/traits/reach-10-feet.md))
+    bonus: 23
+    damage: "1d10+11 piercing"
 
 spellcasting:
-  - name: "Arcane Innate Spells"
-    desc: "DC 42; __Cantrips (9th)__ [[detect-magic|detect magic]], [[read-aura|read aura]]; __4th__ [[suggestion]] (at will);"
-sourcebook: "_Bestiary_, page 112."
+  - name: Arcane Innate Spells
+    dc: 30
+    desc: >
+      **2nd** [darkness](compendium/spells/darkness.md) (at will);
 ```
 
 ```encounter-table
-name: Ancient Red Dragon
+name: Adult Black Dragon
 creatures:
-  - 1: Ancient Red Dragon
+  - 1: Adult Black Dragon
 ```

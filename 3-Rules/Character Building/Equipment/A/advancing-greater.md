@@ -3,8 +3,8 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-item, h-line
-name: "advancing"
-aliases: "Advancing"
+name: "advancing-greater"
+aliases: "Advancing (Greater)"
 source: "Treasure Vault"
 pg: "12"
 rarity: ""
@@ -17,14 +17,14 @@ trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 9
+level: 16
 weight: 0
-value: "625"
+value: "8000"
 subvalue: "gp"
 invest:
 usage: "etched onto heavy armor"
 license: "OGL"
-identify: "Identify Magic (Arcana, Nature, Occultism or Religion) DC 26"
+identify: "Identify Magic (Arcana, Nature, Occultism or Religion) DC 35"
 identify: ""
 description: "This rune charges up as you defeat your foes, driving you forward across the battlefield with every victory."
 powerTitle: "Effect"
@@ -33,7 +33,7 @@ type: "(command)"
 frequency: 
 requirement: "Your last action or activity reduced an enemy to 0 Hit Points"
 trigger:
-mechanics: "You Stride up to 15 feet. This movement doesn't trigger reactions. You can Burrow, Climb, Fly, or Swim instead of Striding if you have the corresponding movement type."
+mechanics: "You Stride up to you speed. This movement doesn't trigger reactions. You can Burrow, Climb, Fly, or Swim instead of Striding if you have the corresponding movement type."
 powerTitle2:
 actionEconomy2:
 type2:

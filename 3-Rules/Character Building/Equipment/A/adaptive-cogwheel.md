@@ -3,30 +3,30 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-item, h-line
-name: "addlebrain"
-aliases: "Addlebrain"
-source: "Pathfinder #147: Tomorrow Must Burn"
-pg: "71"
-rarity: "Rare"
-trait01: "Alchemical"
-trait02: "Consumable"
-trait03: "Inhaled"
-trait04: "Poison"
+name: "adaptive-cogwheel"
+aliases: "Adaptive Cogwheel"
+source: "Pathfinder Guns and Gears"
+pg: "184"
+rarity: ""
+trait01: "Consumable"
+trait02: "Magical"
+trait03: "Talisman"
+trait04: "Transmutation"
 image: zz-Attachments/assets/imageplaceholder.png
-level: 7
-weight: L
-value: "58"
+level: 2
+weight: 0
+value: "5"
 subvalue: "gp"
-invest:
-usage: "held in 2 hands"
-license: "OGL"
-identify: "Identify Alchemy (Crafting) DC 28"
-description: "Certain Scarlet Triad poisoners use toxins like addlebrain to keep captured prisoners docile and compliant for short periods of time until they can be properly shackled and imprisoned. Addlebrain is distilled from a hallucinogenic lichen that can often be found growing in the sewers below particularly large cities like Katapesh.<br><br>Once soaked in special reagents and then dried, a dose of addlebrain must be either lit with flame or tossed into a fire to activate, whereupon it unleashes a cloud of toxin as normal for an inhaled poison."
+invest: 
+usage: "affixed to a firearm"
+license: "ORC"
+identify: "Identify Magic (Arcana, Nature, Occultism or Religion) DC 16"
+description: "This tiny copper gear is attached to the side of a firearm with a matching bolt or pin."
 powerTitle: "Effect"
 actionEconomy: 
 type: 
 frequency: 
-mechanics: "**Saving Throw** DC 25 Fortitude; **Onset** 1 minute; **Maximum Duration** 1 day; **Stage 1** [[enfeebled|Enfeebled 1]] 1 and [[stupefied|Stupefied 1]] (10 minutes); **Stage 2** [[enfeebled|Enfeebled 2]] and [[stupefied|Stupefied 2]] (1 hour); **Stage 3** [[fatigued]], [[enfeebled|Enfeebled 4]] and [[stupefied|Stupefied 4]] (1 day)"
+mechanics: "When you activate it, the affixed weapon magically transfigures itself into the form of any simple or martial firearm to which you have access, harmlessly ejecting any contained ammunition in the process. Any runes or attached items present on the affixed weapon remain active unless incompatible with its new form, in which case they're suppressed for the duration of the transformation. The effect lasts until the beginning of your next turn."
 powerTitle2: ""
 actionEconomy2: 
 type2: 
