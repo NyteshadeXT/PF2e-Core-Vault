@@ -7,11 +7,11 @@ whichparty:
   - "[[Age of Worms Party Dashboard]]"
 adventure_status: In Progress
 adventure_level: 2
-total_xp: 2360
-completed_xp: 910
+total_xp: 2500
+completed_xp: 1330
 awarded_pp: 0
-awarded_gp: 92
-awarded_sp: 21
+awarded_gp: 240
+awarded_sp: 721
 awarded_cp: 0
 awarded_permanent_items:
   - name: Magic Wand (Harm)
@@ -241,7 +241,7 @@ Before running encounters here, be sure to study the “Temple Organization” s
 
 ## Encounter 2: Chamber of the Guardians
 **Encounter Difficulty:**   
-- [x] Moderate (80 XP) Level 3
+- [x] Trivial (60 XP) Level 3
 
 > [!note]+ Read Aloud
 > A dozen suits of armor, ranging from battered. leathers to rusted plate, line this chambers walls. The bleached white bones of human, dwarf, and orc skeletons contrast with the dark, bloodstained armor. The suits are carefully arranged, as if the dead were preparing. to march for war, Each has a mace hooked to its belt, while bells of varying shapes and sizes hang from the armor on long, leather strips.
@@ -282,7 +282,7 @@ The skeletons will attack until defeated.
 
 ## Encounter 3: Chamber of the Faithful
 **Encounter Difficulty:**   
-- [x] Trivial (40 XP) Level 3
+- [x] Trivial (20 XP) Level 3
 
 > [!note]+ Read Aloud
 > Blankets cover the floor of this chamber, surrounding a wooden crate atop which stands a small, crude statue of a six armed humanoid figure. A few battered weapons, spears, clubs, and fails lean against the far wall. Stone pegs carved into the wall light this area with flickering, bright flames.
@@ -312,7 +312,7 @@ The cultists are fanatical in their dedication to Theldrick, the high priest of 
 
 ## Encounter 4: The Guard Chamber
 **Encounter Difficulty:**   
-- [x] Moderate (80 XP) Level 3
+- [x] Low (60 XP) Level 3
 
 > [!note]+ Read Aloud
 > This chamber holds two beds against the east wall, a long, wooden table along the south wall, two stools, and a weapons rack along the west wall. A suit of leather armor lies on the table with a variety of tools spread out around it.
@@ -832,7 +832,7 @@ darkMode: false
 
 # Encounter 18: Cliff Chamber
 **Encounter Difficulty:**   
-- [x] moderate (80 XP) Level 4
+- [x] severe (120 XP) Level 4
 
 > [!note]+ Read Aloud
 > The roof of this large cavern glistens twenty feet above and is traced with faint veins of iron ore. The quarters here are tight and cramped. Barely ten feet to the east, the cavern floor rises up into a nearly vertical slope.
@@ -856,7 +856,7 @@ The morlocks shout for help once they spot intruders. The monsters in areas 19 a
 
 # Encounter 19: Common Chamber
 **Encounter Difficulty:**   
-- [x] severe (120 XP) Level 4
+- [x] extreme (180 XP) Level 4
 
 > [!note]+ Read Aloud
 > The scent of rotting meat and offal fills the air here. Moldering furs, crude bedrolls and other signs of 2 campsite cover the floor of this large, natural cave. Spears and crude axes are piled near the entrance to the left, along with a disorganized stack of shields.
@@ -886,7 +886,7 @@ The morlocks fight to the death. They are fanatics to Enthnul's cause and are re
 
 # Encounter 20: Chieftain's Lodge
 **Encounter Difficulty:**   
-- [x] moderate (80 XP) Level 4
+- [x] severe (120 XP) Level 4
 
 > [!note]+ Read Aloud
 > This chamber presents a macabre sight. А bewildering variety of humanoid and monstrous skulls are mounted on the walls just outside this chamber with crude, iron spikes. The chamber beyond is a small, cramped space that smells strongly of damp earth. A great pile of furs and blankets lies in the center of the room.
@@ -915,11 +915,11 @@ The chieftain is a simple, brutal warrior and a bully at heart. He seeks out the
 > 
 > - [x] gp::85
 > - [x] sp::150
-> - [x] [[Smuggler's Sack (Type I)]] [ilvl::4] [gp::75]
+> - [x] permanent::[[Smuggler's Sack (Type I)]] [ilvl::4] [gp::75]
 
 # Encounter 21: Temple to Erythnul
 **Encounter Difficulty:**   
-- [x] severe (120 XP) Level 4
+- [x] extreme (180 XP) Level 4
 
 > [!note]+ Read Aloud
 > This long passage through the rocks winds down and down, deeper into the ground. It curves ahead like a spiral. The air grows musty and sickening with the scent of rotting flesh. Eventually, the passage opens into a wide cavern, where it ends at the top of a short cliff that stands ten feet above the cave floor below. From ahead, the dim glow of a lantern or small fire casts a dull, red glow.
