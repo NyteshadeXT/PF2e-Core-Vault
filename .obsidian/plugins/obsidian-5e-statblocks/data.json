@@ -349,7 +349,7 @@
   "useDice": true,
   "renderDice": true,
   "export": true,
-  "showAdvanced": false,
+  "showAdvanced": true,
   "version": {
     "major": 4,
     "minor": 9,

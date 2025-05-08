@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "5274e81f5fea79fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Tests/A 1/Adventurer's Pack.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Adventurer's Pack"
-            }
-          },
-          {
             "id": "ab2f14d82603cb46",
             "type": "leaf",
             "state": {
@@ -48,23 +34,8 @@
               "icon": "lucide-file",
               "title": "The Three Faces of Evil"
             }
-          },
-          {
-            "id": "4b982c8f7cf59e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Tests/B 1/backfire-mantle.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "backfire-mantle"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,6 +217,70 @@
             }
           }
         ]
+      },
+      {
+        "id": "c748d2c75b284604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce71173fdfbc0e65",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "334dfd9d26fa8477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df05219889c3dfe0",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c343a37936e5e341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0870f3c069b14eea",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d903be1112b987c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73aee8d0979de845",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -274,34 +309,39 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4b982c8f7cf59e67",
+  "active": "5047f1190ddb93b4",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/B/Backfire Mantle.md",
-    "1-GM Toolkit/Tests/B 1/backfire-mantle.md",
-    "3-Rules/Character Building/Equipment/B/Backfire Mantle (Greater).md",
-    "1-GM Toolkit/Tests/Battle Axe Option 3.md",
-    "2-Session Journals/Aow Session 014.md",
-    "1-GM Toolkit/Tests/B 1/backfire-mantle-(greater).md",
-    "1-GM Toolkit/Tests/B 1/unnamed-item.md",
-    "1-GM Toolkit/Tests/B 1/buzzsaw-axe.md",
-    "1-GM Toolkit/Tests/B 1/buzzsaw-axe-(major).md",
-    "1-GM Toolkit/Tests/B 1/buzzsaw-axe-(greater).md",
-    "1-GM Toolkit/Tests/B 1/buugeng.md",
-    "1-GM Toolkit/Tests/B 1/butterfly-sword.md",
-    "1-GM Toolkit/Tests/B 1/butchering-axe.md",
-    "1-GM Toolkit/Tests/B 1/busine-of-divine-reinforcements.md",
-    "1-GM Toolkit/Tests/B 1/burr-shield.md",
-    "1-GM Toolkit/Tests/B 1/burnished-plating.md",
-    "1-GM Toolkit/Tests/B 1/burning-badger-guts-snare.md",
-    "1-GM Toolkit/Tests/B 1/burglars-rosebud.md",
-    "1-GM Toolkit/Tests/B 1/burglars-rosebud-(greater).md",
-    "1-GM Toolkit/Tests/B 1/bullhook.md",
-    "1-GM Toolkit/Tests/B 1/bullhook-(greater).md",
-    "1-GM Toolkit/Tests/B 1/bubbling-scale.md",
-    "1-GM Toolkit/Tests/B 1/brooch-of-shielding.md",
-    "1-GM Toolkit/Tests/B 1/brooch-of-inspiration.md",
-    "1-GM Toolkit/Tests/B 1/brooch-of-inspiration-(major).md",
-    "1-GM Toolkit/Tests/B 1/brooch-of-inspiration-(greater).md",
+    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+    "4-Campaign/Age of Worms/itemlink.md",
+    "2-Party/Age of Worms/Zamosshe.md",
+    "2-Party/Age of Worms/Jerrykk.md",
+    "2-Party/Age of Worms/Jayden.md",
+    "2-Party/Age of Worms/Haight Enashberry.md",
+    "2-Party/Age of Worms/Gornak.md",
+    "2-Party/Age of Worms/Akiowen.md",
+    "3-Rules/Bestiaries/Homebrew/S/spawn-of-kyuss.md",
+    "3-Rules/Bestiaries/Homebrew/E/Ebon Aspect.md",
+    "zz-Attachments/Twisted Branch Lair.png",
+    "3-Rules/Bestiaries/Uniques/Kushak.md",
+    "3-Rules/Bestiaries/Uniques/Todrik.md",
+    "3-Rules/Bestiaries/Uniques/Shesht.md",
+    "3-Rules/Bestiaries/Uniques/Merovinn Bask.md",
+    "3-Rules/Bestiaries/Uniques/Filge.md",
+    "3-Rules/Bestiaries/Uniques/Allustan-Stats.md",
+    "3-Rules/Bestiaries/Homebrew/S/Untitled.md",
+    "3-Rules/Bestiaries/Bestiary 1/T/Troll.md",
+    "5-World/NPCs/Marzena.md",
+    "3-Rules/Bestiaries/Homebrew/S/shard-spider.md",
+    "zz-Templates/Markdown/Combat Templates/Insert Custom Monster (TTRPG Statblock).md",
+    "zz-Attachments/image-3.png",
+    "zz-Attachments/spawn-of-kyuss.png",
+    "zz-Attachments/Blackwall Keep Map.png",
+    "zz-Attachments/Blackwall Keep.png",
+    "zz-Templates/Markdown/Combat Templates/Insert Dungeon Map (Leaflet).md",
+    "zz-Templates/Markdown/Combat Templates/Insert Custom Encounter Table (Initiative Tracker).md",
+    "zz-Templates/Markdown/Combat Templates/Insert Custom Encounter (Initiative Tracker).md",
     "1-GM Toolkit/Tests/B 1",
     "1-GM Toolkit/Tests/New folder",
     "zz-Attachments/accompaniment-cloak.png"

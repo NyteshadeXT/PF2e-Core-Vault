@@ -8,7 +8,7 @@ Status: Active
 Player: Derek
 pronounced: jay-den
 Class: Rogue
-level: 3
+level: 4
 Ancestry: Human
 gender: Male
 age: Young Adult

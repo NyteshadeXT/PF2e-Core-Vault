@@ -49,13 +49,13 @@ armorclass:
 hp: 145
 health:
   - name: Resistances
-    desc: "acid 10, fire 10"
+    desc: "acid 10, fire 10, physical 5"
   - name: Immunities
     desc: "cold"
   - name: Weaknesses
     desc: "holy 5"
   - name: HP
-    desc: "145; __Hardy Defenses__: SR 19 (reaction: see Blessing of Vecna); DR 5 (magic)"
+    desc: "145; Reaction: see Blessing of Vecna"
 
 abilities_top:
   - name: "Items"
@@ -64,6 +64,8 @@ abilities_top:
 abilities_mid:
   - name: "Blessing of Vecna"
     desc: "`pf2:r` (Divine, Healing, Magical) **Trigger:** A spell targeting the Ebon Aspect fails to affect it due to it's immunities or resistances. **Effect:** Once per round the Ebon Aspect regains HP equal to twice the amount of the resisted damage."
+  - name: "Bloodthirst of Erythnul"
+    desc: "`pf2:r` (Divine, Emotion, Fortune) **Trigger:** The Ebon Aspect scores a critical hit or is reduced to half its HP or less. **Frequency:** Once per day **Effect:** For 1 round, the Ebon Aspect gains:\n\n- Resistance 10 to all damage (bypassed by +2 or higher potency weapons)\n\n- Fast Healing 10\n\n- +2 status bonus to attack and damage rolls\n\n- Melee Strikes gain the [[Forceful]] trait"
 
 attacks:
   - name: "Melee"
@@ -74,10 +76,6 @@ attacks:
 
   - name: "Melee.."
     desc: "`pf2:1` Claw (Mangled) +17 (agile, magical)\n__Damage__ 1d4+5 bludgeoning\n__Effect__ On a critical hit, the target is Clumsy 1 for 1 round as the malformed limb smashes their defenses"
-
-  - name: "Bloodthirst of Erythnul"
-    desc: "`pf2:0` (Divine, Emotion, Fortune) **Trigger:** The Ebon Aspect scores a critical hit or is reduced to half its HP or less. **Frequency:** Once per day **Effect:** For 1 round, the Ebon Aspect gains:\n\n- Resistance 10 to all damage (bypassed by +2 or higher potency weapons)\n\n- Fast Healing 10\n\n- +2 status bonus to attack and damage rolls\n\n- Melee Strikes gain the [[Forceful]] trait"
-
   - name: "Standard of Hextor"
     desc: "`pf2:2` (Divine, Force, Visual) **Frequency:** Once per day **Effect:** Casts a heightened version of [[Spiritual Weapon]] (4th level) The weapon appears as a flail adjacent to a target within 60 ft.  It makes a Strike at +13 to hit, 2d8+3 force damage.  The weapon lasts 1 minute and further Strikes require 1 action per attack."
 ```

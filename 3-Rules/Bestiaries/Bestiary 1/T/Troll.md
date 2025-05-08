@@ -49,24 +49,20 @@ armorclass:
     desc: "20; __Fort__ +17, __Ref__ +11, __Will__ +7"
 hp: 115
 health:
-  - name: ""
   - name: HP
     desc: "115, regeneration 20 (deactivated by acid or fire); __Weaknesses__ fire 10"
 abilities_top:
   - name: ""
 
 abilities_mid:
-  - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
     desc: "`pf2:r`  "
 
 attacks:
-  - name: ""
-
   - name: "Melee"
     desc: "`pf2:1` Jaws +14 (reach 10 feet)\n__Damage__  2d10 + 5 piercing"
 
-  - name: "Melee"
+  - name: "Melee."
     desc: "`pf2:1` Claw +14 (agile, reach 10 feet)\n__Damage__  2d8 + 5 slashing"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
