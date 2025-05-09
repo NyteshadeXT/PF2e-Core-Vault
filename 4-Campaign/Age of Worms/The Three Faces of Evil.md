@@ -7,29 +7,81 @@ whichparty:
   - "[[Age of Worms Party Dashboard]]"
 adventure_status: In Progress
 adventure_level: 2
-total_xp: 2500
-completed_xp: 1330
-awarded_pp: 0
-awarded_gp: 240
-awarded_sp: 721
-awarded_cp: 0
+total_xp: 2400
+completed_xp: 1650
 awarded_permanent_items:
+  - name: Repair Toolkit (Superb)
+    ilvl: 3
+    gp: 25
+    date: 05.09.2025
+  - name: Magic Wand (Heal)
+    ilvl: 3
+    gp: 60
+    date: 05.09.2025
   - name: Magic Wand (Harm)
     ilvl: 0
     gp: 0
+    date: 05.09.2025
   - name: Low-Grade Cold Iron Longsword
     ilvl: 2
     gp: 44
+    date: 05.09.2025
+  - name: Smuggler's Sack (Type I)
+    ilvl: 4
+    gp: 75
+    date: 05.09.2025
+  - name: Rope of Climbing (Lesser)
+    ilvl: 3
+    gp: 45
+    date: 05.09.2025
 awarded_consumable_items:
-  - name: Healing Potion (Minor)
+  - name: Healing Potion (Minor) x2
     ilvl: 1
     gp: 4
-  - name: Healing Potion (Minor)
-    ilvl: 1
-    gp: 4
+    date: 05.09.2025
   - name: Potency Crystal
     ilvl: 1
     gp: 4
+    date: 05.09.2025
+  - name: Healing Potion (Lesser)
+    ilvl: 3
+    gp: 12
+    date: 05.09.2025
+  - name: Eagle Eye Elixir (Lesser)
+    ilvl: 1
+    gp: 4
+    date: 05.09.2025
+  - name: Bravo's Brew (Lesser)
+    ilvl: 2
+    gp: 7
+    date: 05.09.2025
+  - name: Silvertongue Mutagen (Lesser)
+    ilvl: 1
+    gp: 4
+    date: 05.09.2025
+  - name: Scroll of Silence
+    ilvl: 1
+    gp: 4
+    date: 05.09.2025
+  - name: Scroll of Dispel Magic
+    ilvl: 3
+    gp: 12
+    date: 05.09.2025
+  - name: Potion of Fire Retaliation (Lesser)
+    ilvl: 3
+    gp: 12
+    date: 05.09.2025
+completed_xp_log:
+  - date: 05.01.2025
+    xp: 140
+  - date: 05.08.2025
+    xp: 260
+awarded_coin:
+  - date: 05.08.2025
+    pp: 0
+    gp: 217
+    sp: 301
+    cp: 0
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -241,7 +293,7 @@ Before running encounters here, be sure to study the “Temple Organization” s
 
 ## Encounter 2: Chamber of the Guardians
 **Encounter Difficulty:**   
-- [x] Trivial (60 XP) Level 3
+- [x] Trivial (80 XP) Level 3
 
 > [!note]+ Read Aloud
 > A dozen suits of armor, ranging from battered. leathers to rusted plate, line this chambers walls. The bleached white bones of human, dwarf, and orc skeletons contrast with the dark, bloodstained armor. The suits are carefully arranged, as if the dead were preparing. to march for war, Each has a mace hooked to its belt, while bells of varying shapes and sizes hang from the armor on long, leather strips.
@@ -282,7 +334,7 @@ The skeletons will attack until defeated.
 
 ## Encounter 3: Chamber of the Faithful
 **Encounter Difficulty:**   
-- [x] Trivial (20 XP) Level 3
+- [x] Trivial (40 XP) Level 3
 
 > [!note]+ Read Aloud
 > Blankets cover the floor of this chamber, surrounding a wooden crate atop which stands a small, crude statue of a six armed humanoid figure. A few battered weapons, spears, clubs, and fails lean against the far wall. Stone pegs carved into the wall light this area with flickering, bright flames.
@@ -312,7 +364,7 @@ The cultists are fanatical in their dedication to Theldrick, the high priest of 
 
 ## Encounter 4: The Guard Chamber
 **Encounter Difficulty:**   
-- [x] Low (60 XP) Level 3
+- [x] Moderate (80 XP) Level 3
 
 > [!note]+ Read Aloud
 > This chamber holds two beds against the east wall, a long, wooden table along the south wall, two stools, and a weapons rack along the west wall. A suit of leather armor lies on the table with a variety of tools spread out around it.
@@ -338,11 +390,11 @@ The tieflings have learned to fight as a pair. While one readies his axe, the ot
 > The leather armor is a mundane suit that one of the tieflings is in the process of repairing, while the tools around it comprise a complete [[Repair Toolkit (Superb)]]. A DC 15 [[Search]] of one bed reveals а small, velvet bag containing 7 gp and a golden necklace worth 5 gp.
 > 
 > - [x] gp::12
-> - [x] permanent::[[Repair Toolkit (Superb)]] [ilvl::3] [gp::25]
+> - [x] permanent::[[Repair Toolkit (Superb)|Repair Toolkit (Superb)]] [ilvl::3] [gp::25]
 
 ## Encounter 5: Chamber of the Beast
 **Encounter Difficulty:**   
-- [ ] Low (40 XP) Level 3
+- [x] Trivial (30 XP) Level 4
 
 Use the following description as the characters approach the door to this chamber.
 > [!note]+ Read Aloud
@@ -369,7 +421,7 @@ Unless the characters are quiet ог clever, there is little chance that they fa
 
 ## Encounter 6: Inner Guard Chamber
 **Encounter Difficulty:**   
-- [ ] Severe (120 XP) Level 3
+- [x] Moderate (90 XP) Level 4
 
 > [!note]+ Read Aloud
 > A tapestry depicting a six-armed, fiendish beast carrying a bewildering variety dominates the north wall.
@@ -398,8 +450,8 @@ If the PCs are trapped in area 11, the two guards move to guard the door leading
 > [!tip]+ Treasure
 > Each of the tieflings carry 11 sp.  Additionally, one tiefling carries a plain, silver ring inlaid with several small emeralds worth 10 gp total.
 > 
-> - [ ] gp::10
-> - [ ] sp::33
+> - [x] gp::10
+> - [x] sp::33
 
 ## Encounter 7: Barracks
 > [!note]+ Read Aloud
@@ -412,7 +464,7 @@ This chamber serves as a barracks for the guards in area 5 and for the tiefling 
 
 ## Encounter 8: Priest's Chambers
 **Encounter Difficulty:**   
-- [ ] Low (60 XP) Level 3
+- [x] Trivial (40 XP) Level 4
 
 > [!note]+ Read Aloud
 > Light from a pair of torches casts strange shadows across the blood-red walls of this chamber. Two wooden chairs are set opposite each other around a round table. Upon the table rests a thick, leather-bound book, a rusty dagger, a quill, inkpot, and several sheets of parchment. A wooden screen blocks off half the room near a large bed covered in blankets and furs.
@@ -443,18 +495,18 @@ Kendra first calls for the undead in area 9. She directs the zombies to fight al
 > 
 > Kendra and Garras keep their valuables in a small, wooden treasure chest beneath their bed. The chest is locked ([[Skills#Thievery|Thievery]] DC 20) and Kendra carries the key. Within the chest is 20 gp and a jeweled bracer worth 40 gp.
 > 
-> - [ ] gp::7
-> - [ ] gp::60
-> - [ ] permanent::[[Magic Wand (1st-Rank Spell)|Magic Wand (Heal)]] [ilvl::3] [gp::60]
-> - [ ] consumable::[[Healing Potion (Lesser)]] [ilvl::3] [gp::12]
-> - [ ] consumable::[[Eagle Eye Elixir (Lesser)]] [ilvl::1] [gp::4]
-> - [ ] consumable::[[Bravo's Brew (Lesser)]] [ilvl::2] [gp::7]
-> - [ ] consumable::[[Silvertongue Mutagen (Lesser)]] [ilvl::1] [gp::4]
-> - [ ] consumable::[[Scroll of 1st-rank Spell|Scroll of Silence]] [ilvl::1] [gp::4]
+> - [x] gp::7
+> - [x] gp::60
+> - [x] permanent::[[Magic Wand (1st-Rank Spell)|Magic Wand (Heal)]] [ilvl::3] [gp::60]
+> - [x] consumable::[[Healing Potion (Lesser)|Healing Potion (Lesser)]] [ilvl::3] [gp::12]
+> - [x] consumable::[[Eagle Eye Elixir (Lesser)|Eagle Eye Elixir (Lesser)]] [ilvl::1] [gp::4]
+> - [x] consumable::[[Bravo's Brew (Lesser)|Bravo's Brew (Lesser)]] [ilvl::2] [gp::7]
+> - [x] consumable::[[Silvertongue Mutagen (Lesser)|Silvertongue Mutagen (Lesser)]] [ilvl::1] [gp::4]
+> - [x] consumable::[[Scroll of 1st-rank Spell|Scroll of Silence]] [ilvl::1] [gp::4]
 
 ## Encounter 9: Chapel of Hextor
 **Encounter Difficulty:**   
-- [ ] Low (120 XP) Level 3
+- [x] Trivial (40 XP) Level 4
 
 > [!note]+ Read Aloud
 > A pair of torches mounted on long, iron poles shed flickering light across this chamber. A small stone altar stands between the two torches. A red tapestry emblazoned with the symbol of a gauntlet grasping six arrows hangs from the wall behind the altar. Four statues of men clad in chainmail and leather masks, each carrying a greatsword, stand along the wall, two on each side of the altar.
@@ -491,7 +543,7 @@ A pair of troglodyte zombies dwell in this chamber. They attack anyone who lacks
 
 ## Encounter 10: Theldrick's Chamber
 **Encounter Difficulty:**   
-- [ ] Severe (80 XP) Level 3
+- [x] Low (60 XP) Level 4
 
 The door to this room is locked ([[Skills#Thievery|Thievery]] DC 20). Theldrick, detailed below but likely encountered elsewhere, holds the key.
 
@@ -516,11 +568,11 @@ If the PCs catch Theldrick in his room, he tries to surrender to buy time, He ac
 > [!tip]+ Treasure
 > The weapons rack holds a mace, a pair of flails and a crossbow. Theldrick keeps his personal treasure and trophies in a locked ([[Skills#Thievery|Thievery]] DC 22) chest beneath. his bed. The chest contains 70 sp in a leather bag and a fist-sized gold bust of a dwarf wearing a gem-studded crown worth 100 gp.  In addition to his combat gear, Theldrick is carrying a holy symbol of Hextor worth 5 gp, keys to area 10 and the chests in areas 9 and 10, [[Scroll of 2nd-rank Spell|Scroll of Dispel Magic]] and a [[Potion of Fire Retaliation (Lesser)]]
 > 
-> - [ ] gp::100
-> - [ ] gp::5
-> - [ ] sp::7004
-> - [ ] consumable::[[Scroll of 2nd-rank Spell|Scroll of Dispel Magic]] [ilvl::3] [gp::12]
-> - [ ] consumable::[[Potion of Fire Retaliation (Lesser)]] [ilvl::3] [gp::12]
+> - [x] gp::100
+> - [x] gp::5
+> - [x] sp::70
+> - [x] consumable::[[Scroll of 2nd-rank Spell|Scroll of Dispel Magic]] [ilvl::3] [gp::12]
+> - [x] consumable::[[Potion of Fire Retaliation (Lesser)|Potion of Fire Retaliation (Lesser)]] [ilvl::3] [gp::12]
 
 ## Encounter 11: Battle Temple of Hextor
 **Encounter Difficulty:**   
@@ -548,7 +600,7 @@ The temple guards, if any are in this area, use their bows against the party. Th
 > [!tip]+ Treasure
 > The blood-red ruby set оп the statue's forehead is worth 35 gp.
 > 
-> - [ ] gp::35
+> - [x] gp::35
 
 # Part 3: The Caves of Erythnul
 Unlike the other wings of the Black Cathedral, the caves of Erythnul are little more than natural fissures within the rock. The morlocks who dwell here arrived several months ago at the behest of their leader Grallak Kur, a cleric who led his followers on an unholy pilgrimage through the Underdark. Dreams and visions sent by one of Erythnul’s minions guided Grallak's steps until he arrived here. While the other factions distrust the morlocks, they provide a convenient buffer between the forces of Hextor and Vecna.
@@ -915,7 +967,7 @@ The chieftain is a simple, brutal warrior and a bully at heart. He seeks out the
 > 
 > - [x] gp::85
 > - [x] sp::150
-> - [x] permanent::[[Smuggler's Sack (Type I)]] [ilvl::4] [gp::75]
+> - [x] permanent::[[Smuggler's Sack (Type I)|Smuggler's Sack (Type I)]] [ilvl::4] [gp::75]
 
 # Encounter 21: Temple to Erythnul
 **Encounter Difficulty:**   
@@ -960,7 +1012,7 @@ The morlock guards attempt to hold off the characters. They adopt a position to 
 > 
 > - [x] gp::20
 > - [x] sp::500
-> - [x] permanent::[[Rope of Climbing (Lesser)]] [ilvl::3] [gp::45]
+> - [x] permanent::[[Rope of Climbing (Lesser)|Rope of Climbing (Lesser)]] [ilvl::3] [gp::45]
 
 # Part 4: The Labyrinth of Vecna
 The Faceless One and his followers knew that they had uncovered one of Vecna's great secrets when they discovered this strange labyrinth directly north of the Overgod's bubbling pool. Powerful magic flows through this place, and the Faceless One suspects that at one time in the distant past Vecna himself dwelled within these halls.
@@ -1249,7 +1301,7 @@ creatures:
 
 А hellish entity slumbers within the pool's depths, slowly gathering the energies it needs to awaken. Unfortunately for the characters, their intrusion into this place arouses its wrath. If the PCs defeat all three cults, the Ebon Aspect rises to avenge its worshipers. As soon as the last of the three high priests (Theldrick in area 10, Grallak Kur in area 21, and The Faceless One in area 27) is slain or driven off, the aspect materailizes fully and clambers up from the pool in area 1. Luckily for the PGs, the Ebon Aspect of the Over- god is in a weak state as it has not yet summoned all its power,
 
-If the PCs don't kill the three high priests, and instead capture them, the Ebon Aspect's manifestation is delayed fora short time. Only 1d4 hours after the PCs take their prisoners from this area, the Ebon Aspect manifests in the flesh. This action immediately slays any surviving high priests as it draws on their souls for its birth.
+If the PCs don't kill the three high priests, and instead capture them, the Ebon Aspect's manifestation is delayed for a short time. Only 1d4 hours after the PCs take their prisoners from this area, the Ebon Aspect manifests in the flesh. This action immediately slays any surviving high priests as it draws on their souls for its birth.
 
 The Ebon Aspect takes ten minutes to gather its strength once it emerges, during which time it smashes the elevator car to splinters if its reachable. Once these ten minutes pass, the horrific fiend grows more mobile. It can sense the PCs to a range of one mile, as if with a constant locate creature effect, and it immediately seeks the PCs out, intending to slay them to the last.
 

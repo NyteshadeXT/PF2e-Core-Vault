@@ -1,0 +1,76 @@
+---
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "explosive-ammunition"
+aliases: "Explosive Ammunition"
+source: "Pathfinder GM Core"
+pg: ""
+rarity: ""
+trait01: "consumable"
+trait02: "fire"
+trait03: "magical"
+trait04: "common"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 9
+weight: 
+value: "130"
+subvalue: "gp"
+invest:
+usage: "held in one hand"
+license: "ORC"
+identify:
+description: "**Ammunition** any  **Activate** `pf2:1` (manipulate)  * * *  This piece of ammunition is coated in gritty black soot. When activated _explosive ammunition_ hits a target, the missile explodes in a 10-foot burst, dealing 6d6 fire damage to each creature in the area (including the target). Each creature must attempt a DC 25 Reflex check save."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
+---

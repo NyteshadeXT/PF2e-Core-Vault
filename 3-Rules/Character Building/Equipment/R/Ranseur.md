@@ -1,31 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Ranseur"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/disarm
-  - trait/reach
-  - trait/common
-  - category/martial
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.UfurZQK6H6SgOjqe"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "ranseur"
+aliases: "Ranseur"
+source: "Pathfinder Player Core"
+pg: ""
+rarity: ""
+trait01: "disarm"
+trait02: "reach"
+trait03: "common"
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: 2
+value: "2"
+subvalue: "gp"
+invest:
+usage: "held in two hands "
+license: "ORC"
+identify:
+description: "This polearm is a long trident with a central prong that's longer than the other two."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d10 piercing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Ranseur
-## Item 0
-### [[3-Rules/Trait Reference/D/disarm]][[reach]]
-
-|  |  |
-| -- | -- |
-| **Category** martial melee weapon | **Group** polearm |
-| **Price** 2 gp |  |
-| **Bulk** 2 | **Size** med |
-| **Damage** 1d10 piercing  | **Usage** held-in-two-hands |
-
-
-
-This polearm is a long trident with a central prong that's longer than the other two.
-
-*Source: Pathfinder Player Core*
-*ORC*

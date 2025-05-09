@@ -14,1019 +14,125 @@ WHERE awarded_pp OR awarded_gp OR awarded_sp OR awarded_cp
 ```
 
 # Items Awarded by Level
-> [!note]+ Level 11 Items 
-> ###### 11500gp; Permanent: 2 11th, 2 12th; Consumable 2 10th, 2 11th, 2 12th
-> ```dataviewjs
-> const dataviewApi = app.plugins.plugins.dataview?.api;
-> 
-> if (dataviewApi) {
->     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
->     let items = [];
-> 
->     for (let page of pages) {
->         if (page.awarded_permanent_items) {
->             items = items.concat(page.awarded_permanent_items.map(item => ({
->                 ...item,
->                 type: "Permanent",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->         if (page.awarded_consumable_items) {
->             items = items.concat(page.awarded_consumable_items.map(item => ({
->                 ...item,
->                 type: "Consumable",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->     }
-> 
->     items = items.filter(item => item.ilvl === 11);
->     
->     // Calculate the total gold pieces
->     const totalGoldPieces = items.reduce((sum, item) => sum + item.gp, 0);
-> 
->     // Create a table element
->     const table = dv.container.createEl("table", { cls: "item-table" });
->     const headerRow = table.createEl("tr");
->     headerRow.createEl("th", { text: "Name" });
->     headerRow.createEl("th", { text: "Item Level" });
->     headerRow.createEl("th", { text: "Gold Pieces" });
->     headerRow.createEl("th", { text: "Type" });
->     headerRow.createEl("th", { text: "Note Name" });
-> 
->     for (let item of items) {
->         const row = table.createEl("tr");
->         const nameCell = row.createEl("td");
->         nameCell.createEl("a", { text: item.displayName, href: item.link });
->         row.createEl("td", { text: item.ilvl });
->         row.createEl("td", { text: item.gp });
->         row.createEl("td", { text: item.type });
->         row.createEl("td", { text: item.noteName });
->     }
-> 
->     // Add the total row
->     const totalRow = table.createEl("tr");
->     totalRow.createEl("td", { text: "Total", attr: { colspan: 2 } });
->     totalRow.createEl("td", { text: totalGoldPieces });
->     totalRow.createEl("td", { attr: { colspan: 2 } });
-> 
->     // Add some basic styling
->     const style = document.createElement('style');
->     style.textContent = `
->         .item-table {
->             width: 100%;
->             border-collapse: collapse;
->         }
->         .item-table th, .item-table td {
->             border: 1px solid #ddd;
->             padding: 8px;
->         }
->         .item-table th {
->             background-color: #333;
->             color: #fff;
->             text-align: left;
->         }
->         .item-table tr:nth-child(even) {
->             background-color: #586ccf;
->         }
->         .item-table tr:hover {
->             background-color: #FFFFFF;
->         }
->     `;
->     document.head.appendChild(style);
-> }
-> ```
+```dataviewjs
+const dataviewApi = app.plugins.plugins.dataview?.api;
 
+if (dataviewApi) {
+    const MAX_LEVEL = 20;
+    const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
 
+    // Static hardcoded summaries per level (you can modify or expand this list as needed)
+    const summaries = {
+        1:  "(175gp; Permanent: 2 1st, 2 2nd; Consumable 3 1st, 2 2nd)",
+        2:  "(300gp; Permanent: 2 2nd, 2 3rd; Consumable 2 1st, 2 2nd, 2 3rd)",
+        3:  "(500gp; Permanent: 2 3rd, 2 4th; Consumable 2 2nd, 2 3rd, 2 4th)",
+        4:  "(850gp; Permanent: 2 4th, 2 5th; Consumable 2 3th, 2 4th, 2 5th)",
+        5:  "(1350gp; Permanent: 2 5th, 2 6th; Consumable 2 4th, 2 5th, 2 6th)",
+        6:  "(2000gp; Permanent: 2 6th, 2 7th; Consumable 2 5th, 2 6th, 2 7th)",
+        7:  "(2900gp; Permanent: 2 7th, 2 8th; Consumable 2 6th, 2 7th, 2 8th)",
+        8:  "(4000gp; Permanent: 2 8th, 2 9th; Consumable 2 7th, 2 8th, 2 9th)",
+        9:  "(5700gp; Permanent: 2 9th, 2 10th; Consumable 2 8th, 2 9th, 2 10th)",
+        10: "(8000gp; Permanent: 2 10th, 2 11th; Consumable 2 9th, 2 10th, 2 11th)",
+        11: "(11500gp; Permanent: 2 11th, 2 12th; Consumable 2 10th, 2 11th, 2 12th)"
+    };
 
+    for (let level = 1; level <= MAX_LEVEL; level++) {
+        let items = [];
 
-> [!note]+ Level 10 Items 
-> ###### 8000gp; Permanent: 2 10th, 2 11th; Consumable 2 9th, 2 10th, 2 11th
-> ```dataviewjs
-> const dataviewApi = app.plugins.plugins.dataview?.api;
-> 
-> if (dataviewApi) {
->     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
->     let items = [];
-> 
->     for (let page of pages) {
->         if (page.awarded_permanent_items) {
->             items = items.concat(page.awarded_permanent_items.map(item => ({
->                 ...item,
->                 type: "Permanent",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->         if (page.awarded_consumable_items) {
->             items = items.concat(page.awarded_consumable_items.map(item => ({
->                 ...item,
->                 type: "Consumable",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->     }
-> 
->     items = items.filter(item => item.ilvl === 10);
->     
->     // Calculate the total gold pieces
->     const totalGoldPieces = items.reduce((sum, item) => sum + item.gp, 0);
-> 
->     // Create a table element
->     const table = dv.container.createEl("table", { cls: "item-table" });
->     const headerRow = table.createEl("tr");
->     headerRow.createEl("th", { text: "Name" });
->     headerRow.createEl("th", { text: "Item Level" });
->     headerRow.createEl("th", { text: "Gold Pieces" });
->     headerRow.createEl("th", { text: "Type" });
->     headerRow.createEl("th", { text: "Note Name" });
-> 
->     for (let item of items) {
->         const row = table.createEl("tr");
->         const nameCell = row.createEl("td");
->         nameCell.createEl("a", { text: item.displayName, href: item.link });
->         row.createEl("td", { text: item.ilvl });
->         row.createEl("td", { text: item.gp });
->         row.createEl("td", { text: item.type });
->         row.createEl("td", { text: item.noteName });
->     }
-> 
->     // Add the total row
->     const totalRow = table.createEl("tr");
->     totalRow.createEl("td", { text: "Total", attr: { colspan: 2 } });
->     totalRow.createEl("td", { text: totalGoldPieces });
->     totalRow.createEl("td", { attr: { colspan: 2 } });
-> 
->     // Add some basic styling
->     const style = document.createElement('style');
->     style.textContent = `
->         .item-table {
->             width: 100%;
->             border-collapse: collapse;
->         }
->         .item-table th, .item-table td {
->             border: 1px solid #ddd;
->             padding: 8px;
->         }
->         .item-table th {
->             background-color: #333;
->             color: #fff;
->             text-align: left;
->         }
->         .item-table tr:nth-child(even) {
->             background-color: #586ccf;
->         }
->         .item-table tr:hover {
->             background-color: #FFFFFF;
->         }
->     `;
->     document.head.appendChild(style);
-> }
-> ```
+        for (let page of pages) {
+            if (page.awarded_permanent_items) {
+                items = items.concat(page.awarded_permanent_items.map(item => {
+                    return {
+                        ...item,
+                        type: "Permanent",
+                        displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
+                        noteName: page.file.name,
+                        gp: item.gp || 0,
+                        ilvl: item.ilvl || 0
+                    };
+                }));
+            }
+            if (page.awarded_consumable_items) {
+                items = items.concat(page.awarded_consumable_items.map(item => {
+                    return {
+                        ...item,
+                        type: "Consumable",
+                        displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
+                        noteName: page.file.name,
+                        gp: item.gp || 0,
+                        ilvl: item.ilvl || 0
+                    };
+                }));
+            }
+        }
 
+        items = items.filter(item => item.ilvl === level);
+        items.sort((a, b) => a.displayName.localeCompare(b.displayName));
 
+        if (items.length > 0) {
+            dv.header(3, `Level ${level} Items`);
+            dv.paragraph(`###### ${summaries[level] || "(summary placeholder)"}`);
 
+            const totalGoldPieces = items.reduce((sum, item) => sum + item.gp, 0);
 
+            const table = dv.container.createEl("table", { cls: "item-table" });
+            const headerRow = table.createEl("tr");
+            ["Name", "Item Level", "Gold Pieces", "Type", "Note Name"].forEach(h =>
+                headerRow.createEl("th", { text: h })
+            );
 
-> [!note]+ Level 9 Items 
-> ###### 5700gp; Permanent: 2 9th, 2 10th; Consumable 2 8th, 2 9th, 2 10th
-> ```dataviewjs
-> const dataviewApi = app.plugins.plugins.dataview?.api;
-> 
-> if (dataviewApi) {
->     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
->     let items = [];
-> 
->     for (let page of pages) {
->         if (page.awarded_permanent_items) {
->             items = items.concat(page.awarded_permanent_items.map(item => ({
->                 ...item,
->                 type: "Permanent",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->         if (page.awarded_consumable_items) {
->             items = items.concat(page.awarded_consumable_items.map(item => ({
->                 ...item,
->                 type: "Consumable",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->     }
-> 
->     items = items.filter(item => item.ilvl === 9);
->     
->     // Calculate the total gold pieces
->     const totalGoldPieces = items.reduce((sum, item) => sum + item.gp, 0);
-> 
->     // Create a table element
->     const table = dv.container.createEl("table", { cls: "item-table" });
->     const headerRow = table.createEl("tr");
->     headerRow.createEl("th", { text: "Name" });
->     headerRow.createEl("th", { text: "Item Level" });
->     headerRow.createEl("th", { text: "Gold Pieces" });
->     headerRow.createEl("th", { text: "Type" });
->     headerRow.createEl("th", { text: "Note Name" });
-> 
->     for (let item of items) {
->         const row = table.createEl("tr");
->         const nameCell = row.createEl("td");
->         nameCell.createEl("a", { text: item.displayName, href: item.link });
->         row.createEl("td", { text: item.ilvl });
->         row.createEl("td", { text: item.gp });
->         row.createEl("td", { text: item.type });
->         row.createEl("td", { text: item.noteName });
->     }
-> 
->     // Add the total row
->     const totalRow = table.createEl("tr");
->     totalRow.createEl("td", { text: "Total", attr: { colspan: 2 } });
->     totalRow.createEl("td", { text: totalGoldPieces });
->     totalRow.createEl("td", { attr: { colspan: 2 } });
-> 
->     // Add some basic styling
->     const style = document.createElement('style');
->     style.textContent = `
->         .item-table {
->             width: 100%;
->             border-collapse: collapse;
->         }
->         .item-table th, .item-table td {
->             border: 1px solid #ddd;
->             padding: 8px;
->         }
->         .item-table th {
->             background-color: #333;
->             color: #fff;
->             text-align: left;
->         }
->         .item-table tr:nth-child(even) {
->             background-color: #586ccf;
->         }
->         .item-table tr:hover {
->             background-color: #FFFFFF;
->         }
->     `;
->     document.head.appendChild(style);
-> }
-> ```
+            for (let item of items) {
+                const row = table.createEl("tr");
+                row.createEl("td", { text: item.displayName });
+                row.createEl("td", { text: item.ilvl });
+                row.createEl("td", { text: item.gp });
+                row.createEl("td", { text: item.type });
+                row.createEl("td", { text: item.noteName });
+            }
 
+            const totalRow = table.createEl("tr");
+            totalRow.createEl("td", { text: "Total", attr: { colspan: 2 } });
+            totalRow.createEl("td", { text: totalGoldPieces });
+            totalRow.createEl("td", { attr: { colspan: 2 } });
+        }
+    }
 
+    const style = document.createElement("style");
+    style.textContent = `
+        .item-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-family: 'Noto Serif', 'Georgia', serif;
+            background-color: #f3efe4;
+            color: #2e1a0f;
+        }
 
+        .item-table th {
+            background-color: #7a4f1b;
+            color: #f9e5c1;
+            text-align: left;
+            padding: 8px;
+            border-bottom: 2px solid #d4b071;
+            font-weight: bold;
+        }
 
+        .item-table td {
+            padding: 6px 8px;
+            border: 1px solid #d4b071;
+        }
 
-> [!note]+ Level 8 Items
-> ###### (4000gp; Permanent: 2 8th, 2 9th; Consumable 2 7th, 2 8th, 2 9th)
-> ```dataviewjs
-> const dataviewApi = app.plugins.plugins.dataview?.api;
-> 
-> if (dataviewApi) {
->     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
->     let items = [];
-> 
->     for (let page of pages) {
->         if (page.awarded_permanent_items) {
->             items = items.concat(page.awarded_permanent_items.map(item => ({
->                 ...item,
->                 type: "Permanent",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->         if (page.awarded_consumable_items) {
->             items = items.concat(page.awarded_consumable_items.map(item => ({
->                 ...item,
->                 type: "Consumable",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->     }
-> 
->     items = items.filter(item => item.ilvl === 8);
->     
->     // Calculate the total gold pieces
->     const totalGoldPieces = items.reduce((sum, item) => sum + item.gp, 0);
-> 
->     // Create a table element
->     const table = dv.container.createEl("table", { cls: "item-table" });
->     const headerRow = table.createEl("tr");
->     headerRow.createEl("th", { text: "Name" });
->     headerRow.createEl("th", { text: "Item Level" });
->     headerRow.createEl("th", { text: "Gold Pieces" });
->     headerRow.createEl("th", { text: "Type" });
->     headerRow.createEl("th", { text: "Note Name" });
-> 
->     for (let item of items) {
->         const row = table.createEl("tr");
->         const nameCell = row.createEl("td");
->         nameCell.createEl("a", { text: item.displayName, href: item.link });
->         row.createEl("td", { text: item.ilvl });
->         row.createEl("td", { text: item.gp });
->         row.createEl("td", { text: item.type });
->         row.createEl("td", { text: item.noteName });
->     }
-> 
->     // Add the total row
->     const totalRow = table.createEl("tr");
->     totalRow.createEl("td", { text: "Total", attr: { colspan: 2 } });
->     totalRow.createEl("td", { text: totalGoldPieces });
->     totalRow.createEl("td", { attr: { colspan: 2 } });
-> 
->     // Add some basic styling
->     const style = document.createElement('style');
->     style.textContent = `
->         .item-table {
->             width: 100%;
->             border-collapse: collapse;
->         }
->         .item-table th, .item-table td {
->             border: 1px solid #ddd;
->             padding: 8px;
->         }
->         .item-table th {
->             background-color: #333;
->             color: #fff;
->             text-align: left;
->         }
->         .item-table tr:nth-child(even) {
->             background-color: #586ccf;
->         }
->         .item-table tr:hover {
->             background-color: #FFFFFF;
->         }
->     `;
->     document.head.appendChild(style);
-> }
-> ```
+        .item-table tr:nth-child(even) td {
+            background-color: #ede3d0;
+        }
 
+        .item-table tr:hover td {
+            background-color: #fff8e1;
+        }
 
-
-
-
-> [!note]+ Level 7 Items
-> ###### (2900gp; Permanent: 2 7th, 2 8th; Consumable 2 6th, 2 7th, 2 8th)
-> ```dataviewjs
-> const dataviewApi = app.plugins.plugins.dataview?.api;
-> 
-> if (dataviewApi) {
->     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
->     let items = [];
-> 
->     for (let page of pages) {
->         if (page.awarded_permanent_items) {
->             items = items.concat(page.awarded_permanent_items.map(item => ({
->                 ...item,
->                 type: "Permanent",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->         if (page.awarded_consumable_items) {
->             items = items.concat(page.awarded_consumable_items.map(item => ({
->                 ...item,
->                 type: "Consumable",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->     }
-> 
->     items = items.filter(item => item.ilvl === 7);
->     
->     // Calculate the total gold pieces
->     const totalGoldPieces = items.reduce((sum, item) => sum + item.gp, 0);
-> 
->     // Create a table element
->     const table = dv.container.createEl("table", { cls: "item-table" });
->     const headerRow = table.createEl("tr");
->     headerRow.createEl("th", { text: "Name" });
->     headerRow.createEl("th", { text: "Item Level" });
->     headerRow.createEl("th", { text: "Gold Pieces" });
->     headerRow.createEl("th", { text: "Type" });
->     headerRow.createEl("th", { text: "Note Name" });
-> 
->     for (let item of items) {
->         const row = table.createEl("tr");
->         const nameCell = row.createEl("td");
->         nameCell.createEl("a", { text: item.displayName, href: item.link });
->         row.createEl("td", { text: item.ilvl });
->         row.createEl("td", { text: item.gp });
->         row.createEl("td", { text: item.type });
->         row.createEl("td", { text: item.noteName });
->     }
-> 
->     // Add the total row
->     const totalRow = table.createEl("tr");
->     totalRow.createEl("td", { text: "Total", attr: { colspan: 2 } });
->     totalRow.createEl("td", { text: totalGoldPieces });
->     totalRow.createEl("td", { attr: { colspan: 2 } });
-> 
->     // Add some basic styling
->     const style = document.createElement('style');
->     style.textContent = `
->         .item-table {
->             width: 100%;
->             border-collapse: collapse;
->         }
->         .item-table th, .item-table td {
->             border: 1px solid #ddd;
->             padding: 8px;
->         }
->         .item-table th {
->             background-color: #333;
->             color: #fff;
->             text-align: left;
->         }
->         .item-table tr:nth-child(even) {
->             background-color: #586ccf;
->         }
->         .item-table tr:hover {
->             background-color: #FFFFFF;
->         }
->     `;
->     document.head.appendChild(style);
-> }
-> ```
-
-
-
-
-> [!note]+ Level 6 Items
-> ###### (2000gp; Permanent: 2 6th, 2 7th; Consumable 2 5th, 2 6th, 2 7th)
-> ```dataviewjs
-> const dataviewApi = app.plugins.plugins.dataview?.api;
-> 
-> if (dataviewApi) {
->     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
->     let items = [];
-> 
->     for (let page of pages) {
->         if (page.awarded_permanent_items) {
->             items = items.concat(page.awarded_permanent_items.map(item => ({
->                 ...item,
->                 type: "Permanent",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->         if (page.awarded_consumable_items) {
->             items = items.concat(page.awarded_consumable_items.map(item => ({
->                 ...item,
->                 type: "Consumable",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->     }
-> 
->     items = items.filter(item => item.ilvl === 6);
->     
->     // Calculate the total gold pieces
->     const totalGoldPieces = items.reduce((sum, item) => sum + item.gp, 0);
-> 
->     // Create a table element
->     const table = dv.container.createEl("table", { cls: "item-table" });
->     const headerRow = table.createEl("tr");
->     headerRow.createEl("th", { text: "Name" });
->     headerRow.createEl("th", { text: "Item Level" });
->     headerRow.createEl("th", { text: "Gold Pieces" });
->     headerRow.createEl("th", { text: "Type" });
->     headerRow.createEl("th", { text: "Note Name" });
-> 
->     for (let item of items) {
->         const row = table.createEl("tr");
->         const nameCell = row.createEl("td");
->         nameCell.createEl("a", { text: item.displayName, href: item.link });
->         row.createEl("td", { text: item.ilvl });
->         row.createEl("td", { text: item.gp });
->         row.createEl("td", { text: item.type });
->         row.createEl("td", { text: item.noteName });
->     }
-> 
->     // Add the total row
->     const totalRow = table.createEl("tr");
->     totalRow.createEl("td", { text: "Total", attr: { colspan: 2 } });
->     totalRow.createEl("td", { text: totalGoldPieces });
->     totalRow.createEl("td", { attr: { colspan: 2 } });
-> 
->     // Add some basic styling
->     const style = document.createElement('style');
->     style.textContent = `
->         .item-table {
->             width: 100%;
->             border-collapse: collapse;
->         }
->         .item-table th, .item-table td {
->             border: 1px solid #ddd;
->             padding: 8px;
->         }
->         .item-table th {
->             background-color: #333;
->             color: #fff;
->             text-align: left;
->         }
->         .item-table tr:nth-child(even) {
->             background-color: #586ccf;
->         }
->         .item-table tr:hover {
->             background-color: #FFFFFF;
->         }
->     `;
->     document.head.appendChild(style);
-> }
-> ```
-
-
-
-
-
-> [!note]+ Level 5 Items
-> ###### (1350gp; Permanent: 2 5th, 2 6th; Consumable 2 4th, 2 5th, 2 6th)
-> ```dataviewjs
-> const dataviewApi = app.plugins.plugins.dataview?.api;
-> 
-> if (dataviewApi) {
->     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
->     let items = [];
-> 
->     for (let page of pages) {
->         if (page.awarded_permanent_items) {
->             items = items.concat(page.awarded_permanent_items.map(item => ({
->                 ...item,
->                 type: "Permanent",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->         if (page.awarded_consumable_items) {
->             items = items.concat(page.awarded_consumable_items.map(item => ({
->                 ...item,
->                 type: "Consumable",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->     }
-> 
->     items = items.filter(item => item.ilvl === 5);
->     
->     // Calculate the total gold pieces
->     const totalGoldPieces = items.reduce((sum, item) => sum + item.gp, 0);
-> 
->     // Create a table element
->     const table = dv.container.createEl("table", { cls: "item-table" });
->     const headerRow = table.createEl("tr");
->     headerRow.createEl("th", { text: "Name" });
->     headerRow.createEl("th", { text: "Item Level" });
->     headerRow.createEl("th", { text: "Gold Pieces" });
->     headerRow.createEl("th", { text: "Type" });
->     headerRow.createEl("th", { text: "Note Name" });
-> 
->     for (let item of items) {
->         const row = table.createEl("tr");
->         const nameCell = row.createEl("td");
->         nameCell.createEl("a", { text: item.displayName, href: item.link });
->         row.createEl("td", { text: item.ilvl });
->         row.createEl("td", { text: item.gp });
->         row.createEl("td", { text: item.type });
->         row.createEl("td", { text: item.noteName });
->     }
-> 
->     // Add the total row
->     const totalRow = table.createEl("tr");
->     totalRow.createEl("td", { text: "Total", attr: { colspan: 2 } });
->     totalRow.createEl("td", { text: totalGoldPieces });
->     totalRow.createEl("td", { attr: { colspan: 2 } });
-> 
->     // Add some basic styling
->     const style = document.createElement('style');
->     style.textContent = `
->         .item-table {
->             width: 100%;
->             border-collapse: collapse;
->         }
->         .item-table th, .item-table td {
->             border: 1px solid #ddd;
->             padding: 8px;
->         }
->         .item-table th {
->             background-color: #333;
->             color: #fff;
->             text-align: left;
->         }
->         .item-table tr:nth-child(even) {
->             background-color: #586ccf;
->         }
->         .item-table tr:hover {
->             background-color: #FFFFFF;
->         }
->     `;
->     document.head.appendChild(style);
-> }
-> ```
-
-
-
-
-
-> [!note]+ Level 4 Items
-> ###### (850gp; Permanent: 2 4th, 2 5th; Consumable 2 3th, 2 4th, 2 5th)
-> ```dataviewjs
-> const dataviewApi = app.plugins.plugins.dataview?.api;
-> 
-> if (dataviewApi) {
->     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
->     let items = [];
-> 
->     for (let page of pages) {
->         if (page.awarded_permanent_items) {
->             items = items.concat(page.awarded_permanent_items.map(item => ({
->                 ...item,
->                 type: "Permanent",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->         if (page.awarded_consumable_items) {
->             items = items.concat(page.awarded_consumable_items.map(item => ({
->                 ...item,
->                 type: "Consumable",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->     }
-> 
->     items = items.filter(item => item.ilvl === 4);
->     
->     // Calculate the total gold pieces
->     const totalGoldPieces = items.reduce((sum, item) => sum + item.gp, 0);
-> 
->     // Create a table element
->     const table = dv.container.createEl("table", { cls: "item-table" });
->     const headerRow = table.createEl("tr");
->     headerRow.createEl("th", { text: "Name" });
->     headerRow.createEl("th", { text: "Item Level" });
->     headerRow.createEl("th", { text: "Gold Pieces" });
->     headerRow.createEl("th", { text: "Type" });
->     headerRow.createEl("th", { text: "Note Name" });
-> 
->     for (let item of items) {
->         const row = table.createEl("tr");
->         const nameCell = row.createEl("td");
->         nameCell.createEl("a", { text: item.displayName, href: item.link });
->         row.createEl("td", { text: item.ilvl });
->         row.createEl("td", { text: item.gp });
->         row.createEl("td", { text: item.type });
->         row.createEl("td", { text: item.noteName });
->     }
-> 
->     // Add the total row
->     const totalRow = table.createEl("tr");
->     totalRow.createEl("td", { text: "Total", attr: { colspan: 2 } });
->     totalRow.createEl("td", { text: totalGoldPieces });
->     totalRow.createEl("td", { attr: { colspan: 2 } });
-> 
->     // Add some basic styling
->     const style = document.createElement('style');
->     style.textContent = `
->         .item-table {
->             width: 100%;
->             border-collapse: collapse;
->         }
->         .item-table th, .item-table td {
->             border: 1px solid #ddd;
->             padding: 8px;
->         }
->         .item-table th {
->             background-color: #333;
->             color: #fff;
->             text-align: left;
->         }
->         .item-table tr:nth-child(even) {
->             background-color: #586ccf;
->         }
->         .item-table tr:hover {
->             background-color: #FFFFFF;
->         }
->     `;
->     document.head.appendChild(style);
-> }
-> ```
-
-
-
-
-
-> [!note]+ Level 3 Items
-> ###### (500gp; Permanent: 2 3rd, 2 4th; Consumable 2 2nd, 2 3rd, 2 4th)
-> ```dataviewjs
-> const dataviewApi = app.plugins.plugins.dataview?.api;
-> 
-> if (dataviewApi) {
->     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
->     let items = [];
-> 
->     for (let page of pages) {
->         if (page.awarded_permanent_items) {
->             items = items.concat(page.awarded_permanent_items.map(item => ({
->                 ...item,
->                 type: "Permanent",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->         if (page.awarded_consumable_items) {
->             items = items.concat(page.awarded_consumable_items.map(item => ({
->                 ...item,
->                 type: "Consumable",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->     }
-> 
->     items = items.filter(item => item.ilvl === 3);
->     
->     // Calculate the total gold pieces
->     const totalGoldPieces = items.reduce((sum, item) => sum + item.gp, 0);
-> 
->     // Create a table element
->     const table = dv.container.createEl("table", { cls: "item-table" });
->     const headerRow = table.createEl("tr");
->     headerRow.createEl("th", { text: "Name" });
->     headerRow.createEl("th", { text: "Item Level" });
->     headerRow.createEl("th", { text: "Gold Pieces" });
->     headerRow.createEl("th", { text: "Type" });
->     headerRow.createEl("th", { text: "Note Name" });
-> 
->     for (let item of items) {
->         const row = table.createEl("tr");
->         const nameCell = row.createEl("td");
->         nameCell.createEl("a", { text: item.displayName, href: item.link });
->         row.createEl("td", { text: item.ilvl });
->         row.createEl("td", { text: item.gp });
->         row.createEl("td", { text: item.type });
->         row.createEl("td", { text: item.noteName });
->     }
-> 
->     // Add the total row
->     const totalRow = table.createEl("tr");
->     totalRow.createEl("td", { text: "Total", attr: { colspan: 2 } });
->     totalRow.createEl("td", { text: totalGoldPieces });
->     totalRow.createEl("td", { attr: { colspan: 2 } });
-> 
->     // Add some basic styling
->     const style = document.createElement('style');
->     style.textContent = `
->         .item-table {
->             width: 100%;
->             border-collapse: collapse;
->         }
->         .item-table th, .item-table td {
->             border: 1px solid #ddd;
->             padding: 8px;
->         }
->         .item-table th {
->             background-color: #333;
->             color: #fff;
->             text-align: left;
->         }
->         .item-table tr:nth-child(even) {
->             background-color: #586ccf;
->         }
->         .item-table tr:hover {
->             background-color: #FFFFFF;
->         }
->     `;
->     document.head.appendChild(style);
-> }
-> ```
-
-
-
-
-
-> [!note]+ Level 2 Items
-> ###### (300gp; Permanent: 2 2nd, 2 3rd; Consumable 2 1st, 2 2nd, 2 3rd)
-> ```dataviewjs
-> const dataviewApi = app.plugins.plugins.dataview?.api;
-> 
-> if (dataviewApi) {
->     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
->     let items = [];
-> 
->     for (let page of pages) {
->         if (page.awarded_permanent_items) {
->             items = items.concat(page.awarded_permanent_items.map(item => ({
->                 ...item,
->                 type: "Permanent",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->         if (page.awarded_consumable_items) {
->             items = items.concat(page.awarded_consumable_items.map(item => ({
->                 ...item,
->                 type: "Consumable",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->     }
-> 
->     items = items.filter(item => item.ilvl === 2);
->     
->     // Calculate the total gold pieces
->     const totalGoldPieces = items.reduce((sum, item) => sum + item.gp, 0);
-> 
->     // Create a table element
->     const table = dv.container.createEl("table", { cls: "item-table" });
->     const headerRow = table.createEl("tr");
->     headerRow.createEl("th", { text: "Name" });
->     headerRow.createEl("th", { text: "Item Level" });
->     headerRow.createEl("th", { text: "Gold Pieces" });
->     headerRow.createEl("th", { text: "Type" });
->     headerRow.createEl("th", { text: "Note Name" });
-> 
->     for (let item of items) {
->         const row = table.createEl("tr");
->         const nameCell = row.createEl("td");
->         nameCell.createEl("a", { text: item.displayName, href: item.link });
->         row.createEl("td", { text: item.ilvl });
->         row.createEl("td", { text: item.gp });
->         row.createEl("td", { text: item.type });
->         row.createEl("td", { text: item.noteName });
->     }
-> 
->     // Add the total row
->     const totalRow = table.createEl("tr");
->     totalRow.createEl("td", { text: "Total", attr: { colspan: 2 } });
->     totalRow.createEl("td", { text: totalGoldPieces });
->     totalRow.createEl("td", { attr: { colspan: 2 } });
-> 
->     // Add some basic styling
->     const style = document.createElement('style');
->     style.textContent = `
->         .item-table {
->             width: 100%;
->             border-collapse: collapse;
->         }
->         .item-table th, .item-table td {
->             border: 1px solid #ddd;
->             padding: 8px;
->         }
->         .item-table th {
->             background-color: #333;
->             color: #fff;
->             text-align: left;
->         }
->         .item-table tr:nth-child(even) {
->             background-color: #586ccf;
->         }
->         .item-table tr:hover {
->             background-color: #FFFFFF;
->         }
->     `;
->     document.head.appendChild(style);
-> }
-> ```
-
-
-
-
-
-> [!note]+ Level 1 Items
-> ###### (175gp; Permanent: 2 1st, 2 2nd; Consumable 3 1st, 2 2nd)
-> ```dataviewjs
-> const dataviewApi = app.plugins.plugins.dataview?.api;
-> 
-> if (dataviewApi) {
->     const pages = dataviewApi.pages('"4-Campaign/Age of Worms"');
->     let items = [];
-> 
->     for (let page of pages) {
->         if (page.awarded_permanent_items) {
->             items = items.concat(page.awarded_permanent_items.map(item => ({
->                 ...item,
->                 type: "Permanent",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->         if (page.awarded_consumable_items) {
->             items = items.concat(page.awarded_consumable_items.map(item => ({
->                 ...item,
->                 type: "Consumable",
->                 link: page.file.path,
->                 displayName: item.name.includes('|') ? item.name.split('|')[1] : item.name,
->                 noteName: page.file.name,
->                 gp: item.gp || 0
->             })));
->         }
->     }
-> 
->     items = items.filter(item => item.ilvl === 1);
->     
->     // Calculate the total gold pieces
->     const totalGoldPieces = items.reduce((sum, item) => sum + item.gp, 0);
-> 
->     // Create a table element
->     const table = dv.container.createEl("table", { cls: "item-table" });
->     const headerRow = table.createEl("tr");
->     headerRow.createEl("th", { text: "Name" });
->     headerRow.createEl("th", { text: "Item Level" });
->     headerRow.createEl("th", { text: "Gold Pieces" });
->     headerRow.createEl("th", { text: "Type" });
->     headerRow.createEl("th", { text: "Note Name" });
-> 
->     for (let item of items) {
->         const row = table.createEl("tr");
->         const nameCell = row.createEl("td");
->         nameCell.createEl("a", { text: item.displayName, href: item.link });
->         row.createEl("td", { text: item.ilvl });
->         row.createEl("td", { text: item.gp });
->         row.createEl("td", { text: item.type });
->         row.createEl("td", { text: item.noteName });
->     }
-> 
->     // Add the total row
->     const totalRow = table.createEl("tr");
->     totalRow.createEl("td", { text: "Total", attr: { colspan: 2 } });
->     totalRow.createEl("td", { text: totalGoldPieces });
->     totalRow.createEl("td", { attr: { colspan: 2 } });
-> 
->     // Add some basic styling
->     const style = document.createElement('style');
->     style.textContent = `
->         .item-table {
->             width: 100%;
->             border-collapse: collapse;
->         }
->         .item-table th, .item-table td {
->             border: 1px solid #ddd;
->             padding: 8px;
->         }
->         .item-table th {
->             background-color: #333;
->             color: #fff;
->             text-align: left;
->         }
->         .item-table tr:nth-child(even) {
->             background-color: #586ccf;
->         }
->         .item-table tr:hover {
->             background-color: #FFFFFF;
->         }
->     `;
->     document.head.appendChild(style);
-> }
-> ```
+        .item-table td:first-child {
+            font-weight: bold;
+        }
+    `;
+    document.head.appendChild(style);
+}
+```

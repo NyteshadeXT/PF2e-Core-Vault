@@ -1,32 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Zulfikar"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/deadly-d8
-  - trait/disarm
-  - trait/sweep
-  - trait/versatile-p
-  - trait/uncommon
-  - category/advanced
-aliases: "Compendium.pf2e.equipment-srd.Item.LdOXiIVgRWpnOtcd"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "zulfikar"
+aliases: "Zulfikar"
+source: "Pathfinder Lost Omens Impossible Lands"
+pg: ""
+rarity: ""
+trait01: "deadly-d8"
+trait02: "disarm"
+trait03: "sweep"
+trait04: "versatile-p"
+trait05: "uncommon"
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: 1
+value: "4"
+subvalue: "gp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "This curved blade has a bifurcated tip, creating what looks like a second blade. It's a customary practice among zulfikar users to have religious or personal inscriptions upon the blade."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d6 slashing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Zulfikar
-## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[3-Rules/trait_reference/D/disarm]][[sweep]][[versatile-p]]
-
-|  |  |
-| -- | -- |
-| **Category** advanced melee weapon | **Group** sword |
-| **Price** 4 gp |  |
-| **Bulk** 1 | **Size** med |
-| **Damage** 1d6 slashing  | **Usage** held-in-one-hand |
-
-
-
-This curved blade has a bifurcated tip, creating what looks like a second blade. It's a customary practice among zulfikar users to have religious or personal inscriptions upon the blade.
-
-*Source: Pathfinder Lost Omens: Impossible Lands*
-*OGL*

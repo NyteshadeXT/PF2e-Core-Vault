@@ -1,23 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Aim-Aiding"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - trait/magical
-  - trait/common
-aliases: "Compendium.pf2e.equipment-srd.Item.mKlUg7SWC5LcOqaj"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "aim-aiding"
+aliases: "Aim-Aiding"
+source: "Pathfinder Treasure Vault"
+pg: ""
+rarity: ""
+trait01: "magical"
+trait02: "common"
+trait03: ""
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 6
+weight: 
+value: "225"
+subvalue: "gp"
+invest:
+usage: "etched onto armor"
+license: "ORC"
+identify:
+description: "Armor etched with this rune aids in routing ranged attacks aimed at an enemy around you. You don't provide enemies cover against your allies' ranged attacks."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Aim-Aiding
-## Item 6
-### [[magical|Magical]]
-
-
-**Price** 225 gp; 
-**Bulk** 0; **Size** med
-**Usage** etched-onto-armor
-
-Armor etched with this rune aids in routing ranged attacks aimed at an enemy around you. You don't provide enemies cover against your allies' ranged attacks.
-
-*Source: Pathfinder Treasure Vault*
-*OGL*

@@ -1,32 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Flail"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/disarm
-  - trait/sweep
-  - trait/trip
-  - trait/common
-  - category/martial
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.t5FbyZtRL4qV0V7k"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "flail"
+aliases: "Flail"
+source: "Pathfinder Player Core"
+pg: ""
+rarity: ""
+trait01: "disarm"
+trait02: "sweep"
+trait03: "trip"
+trait04: "common"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: 1
+value: "8"
+subvalue: "sp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "This weapon consists of a wooden handle attached to a spiked ball or cylinder by a chain, rope, or strap of leather."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d6 bludgeoning
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Flail
-## Item 0
-### [[3-Rules/Trait Reference/D/disarm]][[sweep]][[3-Rules/Trait Reference/T/trip|Trip]] 
-
-|  |  |
-| -- | -- |
-| **Category** martial melee weapon | **Group** flail |
-| **Price** 8 sp |  |
-| **Bulk** 1 | **Size** med |
-| **Damage** 1d6 bludgeoning  | **Usage** held-in-one-hand |
-
-
-
-This weapon consists of a wooden handle attached to a spiked ball or cylinder by a chain, rope, or strap of leather.
-
-*Source: Pathfinder Player Core*
-*ORC*

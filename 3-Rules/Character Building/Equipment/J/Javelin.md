@@ -1,31 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Javelin"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/thrown
-  - trait/common
-  - category/simple
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.JNt7GmLCCVz5BiEI"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "javelin"
+aliases: "Javelin"
+source: "Pathfinder Player Core"
+pg: ""
+rarity: ""
+trait01: "thrown"
+trait02: "common"
+trait03: ""
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: L
+value: "1"
+subvalue: "sp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "This thin spear is well balanced for throwing but is not designed for melee use."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 30 ft
+ammoType:
+damage: 1d6 piercing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Javelin
-## Item 0
-### [[thrown]]
-
-|  |  |
-| -- | -- |
-| **Category** simple ranged weapon | **Group** dart |
-| **Price** 1 sp |  |
-| **Bulk** L | **Size** med |
-|**Range** 30 ft.| **Reload** -|
-| **Damage** 1d6 piercing  | **Usage** held-in-one-hand |
-
-
-
-This thin spear is well balanced for throwing but is not designed for melee use.
-
-*Source: Pathfinder Player Core*
-*ORC*

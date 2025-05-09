@@ -1,0 +1,76 @@
+---
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "five-feather-wreath-(greater)"
+aliases: "Five-Feather Wreath (Greater)"
+source: "Pathfinder Secrets of Magic"
+pg: ""
+rarity: ""
+trait01: "air"
+trait02: "magical"
+trait03: "spellheart"
+trait04: "common"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 8
+weight: 
+value: "425"
+subvalue: "gp"
+invest:
+usage: "affixed to armor or a weapon"
+license: "ORC"
+identify:
+description: "Identical feathers radiate from the center of this spellheart, held in place by woven straw. The spell attack roll of any spell cast by Activating this item is +14, and the spell DC is 24.  *   **Armor** You gain a +1 item bonus to Acrobatics checks and resistance 5 to falling damage. *   **Weapon** After you cast an air spell by Activating the _wreath_, you can Fly 5 feet as a single action, or you can Fly 25 feet as a free action if the spell you cast wasn't a cantrip. This must be your next action, and if you don't have a fly Speed, you must end the flight on solid ground or fall.  [[Equipment Effects/Effect_ Five-Feather Wreath - Armor|Effect: Five-Feather Wreath - Armor]]  * * *  **Activate** Cast a Spell  **Effect** You cast [[Spells/Gale Blast|Gale Blast]].  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast [[Spells/Wall of Wind|Wall of Wind]]."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
+---

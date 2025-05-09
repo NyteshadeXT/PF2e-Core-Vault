@@ -1,29 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Thundermace"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/backswing
-  - trait/uncommon
-  - category/simple
-aliases: "Compendium.pf2e.equipment-srd.Item.3NQj5gtHIYFYlAch"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "thundermace"
+aliases: "Thundermace"
+source: "Pathfinder Lost Omens The Grand Bazaar"
+pg: ""
+rarity: ""
+trait01: "backswing"
+trait02: "uncommon"
+trait03: ""
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: 2
+value: "2"
+subvalue: "sp"
+invest:
+usage: "held in two hands "
+license: "ORC"
+identify:
+description: "This deceptively dangerous weapon is essentially a mace with a longer haft and larger, often flanged head."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d8 bludgeoning
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Thundermace
-## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[backswing]]
-
-|  |  |
-| -- | -- |
-| **Category** simple melee weapon | **Group** club |
-| **Price** 2 sp |  |
-| **Bulk** 2 | **Size** med |
-| **Damage** 1d8 bludgeoning  | **Usage** held-in-two-hands |
-
-
-
-This deceptively dangerous weapon is essentially a mace with a longer haft and larger, often flanged head.
-
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
-*OGL*

@@ -1,32 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Fauchard"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/deadly-d8
-  - trait/reach
-  - trait/sweep
-  - trait/trip
-  - trait/common
-  - category/martial
-aliases: "Compendium.pf2e.equipment-srd.Item.FuS6F91Rhd4m3T6d"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "fauchard"
+aliases: "Fauchard"
+source: "Pathfinder Lost Omens Character Guide"
+pg: ""
+rarity: ""
+trait01: "deadly-d8"
+trait02: "reach"
+trait03: "sweep"
+trait04: "trip"
+trait05: "common"
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: 2
+value: "14"
+subvalue: "sp"
+invest:
+usage: "held in two hands "
+license: "ORC"
+identify:
+description: "A fauchard is similar to a glaive, save that its cutting edge is along the concave side. Fauchards are favored by Crimson Reclaimers for hacking through waves of zombies. The fauchard is a martial melee weapon."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d8 slashing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Fauchard
-## Item 0
-### [[deadly-d8]][[reach|Reach]] [[sweep]][[3-Rules/Trait Reference/T/trip|Trip]] 
-
-|  |  |
-| -- | -- |
-| **Category** martial melee weapon | **Group** polearm |
-| **Price** 14 sp |  |
-| **Bulk** 2 | **Size** med |
-| **Damage** 1d8 slashing  | **Usage** held-in-two-hands |
-
-
-
-A fauchard is similar to a glaive, save that its cutting edge is along the concave side. Fauchards are favored by Crimson Reclaimers for hacking through waves of zombies. The fauchard is a martial melee weapon.
-
-*Source: Pathfinder Lost Omens: Character Guide*
-*OGL*

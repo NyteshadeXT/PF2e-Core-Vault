@@ -1,30 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Leiomano"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/fatal-d10
-  - trait/versatile-s
-  - trait/uncommon
-  - category/martial
-aliases: "Compendium.pf2e.equipment-srd.Item.27CO2NIr5yMgA6sa"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "leiomano"
+aliases: "Leiomano"
+source: "Pathfinder Treasure Vault"
+pg: ""
+rarity: ""
+trait01: "fatal-d10"
+trait02: "versatile-s"
+trait03: "uncommon"
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: 1
+value: "2"
+subvalue: "gp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "This thick club is inset with sharp teeth, typically from a shark, that easily tear flesh. It's the preferred weapon of many Minatan warriors."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d6 bludgeoning
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Leiomano
-## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[fatal-d10]][[versatile-s]]
-
-|  |  |
-| -- | -- |
-| **Category** martial melee weapon | **Group** club |
-| **Price** 2 gp |  |
-| **Bulk** 1 | **Size** med |
-| **Damage** 1d6 bludgeoning  | **Usage** held-in-one-hand |
-
-
-
-This thick club is inset with sharp teeth, typically from a shark, that easily tear flesh. It's the preferred weapon of many Minatan warriors.
-
-*Source: Pathfinder Treasure Vault*
-*OGL*

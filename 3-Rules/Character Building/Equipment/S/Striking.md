@@ -1,26 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Striking"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - trait/magical
-  - trait/common
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.DxCuJKynlnMQZHgp"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "striking"
+aliases: "Striking"
+source: "Pathfinder GM Core"
+pg: ""
+rarity: ""
+trait01: "magical"
+trait02: "common"
+trait03: ""
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 4
+weight: 
+value: "65"
+subvalue: "gp"
+invest:
+usage: "etched onto a weapon"
+license: "ORC"
+identify:
+description: "A _striking_ rune stores destructive magic in the weapon, increasing the weapon damage dice it deals to two instead of one. For instance, a _+1 striking dagger_ would deal 2d4 damage instead of 1d4 damage.  You can upgrade the _striking_ rune already etched on a weapon to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Striking
-## Item 4
-### [[magical]]
-
-
-**Price** 65 gp; 
-**Bulk** 0; **Size** med
-**Usage** etched-onto-a-weapon
-
-A _striking_ rune stores destructive magic in the weapon, increasing the weapon damage dice it deals to two instead of one. For instance, a _+1 striking dagger_ would deal 2d4 damage instead of 1d4 damage.
-
-You can upgrade the _striking_ rune already etched on a weapon to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.
-
-*Source: Pathfinder GM Core*
-*ORC*

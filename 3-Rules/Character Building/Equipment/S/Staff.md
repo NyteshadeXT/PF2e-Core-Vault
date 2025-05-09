@@ -1,31 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Staff"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/monk
-  - trait/two-hand-d8
-  - trait/common
-  - category/simple
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.FVjTuBCIefAgloUU"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "staff"
+aliases: "Staff"
+source: "Pathfinder Player Core"
+pg: ""
+rarity: ""
+trait01: "monk"
+trait02: "two-hand-d8"
+trait03: "common"
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: 1
+value: "0"
+subvalue: "gp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "This long piece of wood can aid in walking and deliver a mighty blow."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d4 bludgeoning
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Staff
-## Item 0
-### [[monk]][[two-hand-d8]]
-
-|  |  |
-| -- | -- |
-| **Category** simple melee weapon | **Group** club |
-| **Price** 0 gp |  |
-| **Bulk** 1 | **Size** med |
-| **Damage** 1d4 bludgeoning  | **Usage** held-in-one-hand |
-
-
-
-This long piece of wood can aid in walking and deliver a mighty blow.
-
-*Source: Pathfinder Player Core*
-*ORC*

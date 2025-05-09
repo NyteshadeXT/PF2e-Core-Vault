@@ -1,34 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Starknife"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/agile
-  - trait/deadly-d6
-  - trait/finesse
-  - trait/thrown-20
-  - trait/versatile-s
-  - trait/common
-  - category/martial
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.Mv2I6M70bagbaBPn"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "starknife"
+aliases: "Starknife"
+source: "Pathfinder Player Core"
+pg: ""
+rarity: ""
+trait01: "agile"
+trait02: "deadly-d6"
+trait03: "finesse"
+trait04: "thrown-20"
+trait05: "versatile-s"
+trait06: "common"
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: L
+value: "2"
+subvalue: "gp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "From a central metal ring, four tapering metal blades extend like points on a compass rose. When gripping a starknife from the center, the wielder can use it as a melee weapon. It can also be thrown short distances."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d4 piercing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Starknife
-## Item 0
-### [[agile]][[deadly-d6]][[finesse]][[thrown-20]][[versatile-s]]
-
-|  |  |
-| -- | -- |
-| **Category** martial melee weapon | **Group** knife |
-| **Price** 2 gp |  |
-| **Bulk** L | **Size** med |
-| **Damage** 1d4 piercing  | **Usage** held-in-one-hand |
-
-
-
-From a central metal ring, four tapering metal blades extend like points on a compass rose. When gripping a starknife from the center, the wielder can use it as a melee weapon. It can also be thrown short distances.
-
-*Source: Pathfinder Player Core*
-*ORC*

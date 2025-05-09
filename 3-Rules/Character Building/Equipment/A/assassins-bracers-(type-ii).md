@@ -1,0 +1,76 @@
+---
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "assassins-bracers-(type-ii)"
+aliases: "Assassin's Bracers (Type II)"
+source: "Pathfinder Adventure: Prey for Death"
+pg: ""
+rarity: ""
+trait01: "illusion"
+trait02: "invested"
+trait03: "magical"
+trait04: "uncommon"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 15
+weight: L
+value: "6500"
+subvalue: "gp"
+invest:
+usage: "wornbracers"
+license: "ORC"
+identify:
+description: "These paired bracers of red leather appear as plain armbands on the outside but display the branded symbol of [[Deities/Achaekek|Achaekek]] on the inside. They grant the wearer a +2 item bonus to AC and saving throws, and a maximum Dexterity modifier of +5 as armor. You can affix talismans to _assassin's bracers_ as though they were light armor.  * * *  **Activate—Focus on the Doomed** `pf2:2` (concentrate, manipulate)  **Frequency** once per day  **Effect** You designate one creature within 30 feet. You cast 4th-rank [[Spells/Invisibility|Invisibility]] on yourself, but the designated creature can still see you. The bracers enhance your appearance to the designated creature, making you appear more fearsome and unnerving, granting you a +2 item bonus to attempts to [[Actions/Feint|Feint]] or [[Actions/Demoralize|Demoralize]] the designated creature. The designated creature takes a –2 item penalty to saving throws against fear effects.  [[Equipment Effects/Effect_ Focus on the Doomed|Effect: Focus on the Doomed]]  [[Equipment Effects/Effect_ Focus on the Doomed (Fear Penalty)|Effect: Focus on the Doomed (Fear Penalty)]]"
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
+---

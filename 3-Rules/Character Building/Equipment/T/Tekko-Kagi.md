@@ -1,34 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Tekko-Kagi"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/agile
-  - trait/disarm
-  - trait/finesse
-  - trait/free-hand
-  - trait/monk
-  - trait/parry
-  - trait/uncommon
-  - category/martial
-aliases: "Compendium.pf2e.equipment-srd.Item.vsJ0zvYZzduP7rtD"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "tekko-kagi"
+aliases: "Tekko-Kagi"
+source: "Pathfinder Treasure Vault"
+pg: ""
+rarity: ""
+trait01: "agile"
+trait02: "disarm"
+trait03: "finesse"
+trait04: "free-hand"
+trait05: "monk"
+trait06: "parry"
+trait07: "uncommon"
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: L
+value: "2"
+subvalue: "sp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "Four curved blades attached to a sturdy handlebar give the wielder of this close-combat weapon the illusion of having claws that extend from their fist. Adherents of [[Deities/Bastet|Bastet]] favor the tekko-kagi for catching their foes off guard."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d4 slashing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Tekko-Kagi
-## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[3-Rules/trait_reference/D/disarm]][[finesse]][[free-hand]][[monk]][[parry]]
-
-|  |  |
-| -- | -- |
-| **Category** martial melee weapon | **Group** brawling |
-| **Price** 2 sp |  |
-| **Bulk** L | **Size** med |
-| **Damage** 1d4 slashing  | **Usage** held-in-one-hand |
-
-
-
-Four curved blades attached to a sturdy handlebar give the wielder of this close-combat weapon the illusion of having claws that extend from their fist. Adherents of [[Deities/Bastet|Bastet]] favor the tekko-kagi for catching their foes off guard.
-
-*Source: Pathfinder Treasure Vault*
-*OGL*

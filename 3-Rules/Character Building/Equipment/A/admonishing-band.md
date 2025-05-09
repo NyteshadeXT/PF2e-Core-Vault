@@ -5,30 +5,33 @@
 cssclass: pf2e-item, h-line
 name: "admonishing-band"
 aliases: "Admonishing Band"
-source: "Pathfinder Guns and Gears"
-pg: 184
-rarity: 
-trait01: "Consumable"
-trait02: "Enchantment"
-trait03: "Magical"
-trait04: "Talisman"
+source: "Pathfinder Guns & Gears"
+pg: ""
+rarity: ""
+trait01: "consumable"
+trait02: "magical"
+trait03: "talisman"
+trait04: "common"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 4
-weight: 0
+weight: 
 value: "20"
 subvalue: "gp"
 invest:
-usage: "affixed to a firearm"
+usage: "affixed to firearm"
 license: "ORC"
-identify: "Identify Magic (Arcana, Nature, Occultism or Religion) DC 19"
-description: "This wide strip of treated lizard hide is wrapped around the grip or stock of the affixed weapon, augmenting the unease that your gunshot creates."
-powerTitle: "Effect"
+identify:
+description: "**Usage** affixed to a firearm  **Activate** `pf2:1` (concentrate)  **Requirements** You're trained in Intimidation.  * * *  This wide strip of treated lizard hide is wrapped around the grip or stock of the affixed weapon, augmenting the unease that your gunshot creates. When you activate it, you fire your gun into the air with the effects of [[Feats/Warning Shot|Warning Shot]]. If you already have the Warning Shot feat, the target doesn't become temporarily immune to your Demoralize, potentially allowing you to Demoralize them again."
+powerTitle:
 actionEconomy:
 type:
 frequency:
-requirement: "You're trained in [[Skills#Intimidation|Intimidation]]."
 trigger:
-mechanics: " When you activate it, you fire your gun into the air with the effects of [[Warning Shot]]. If you already have the Warning Shot feat, the target doesn't become temporarily immune to your [[Demoralize]], potentially allowing you to Demoralize them again."
+mechanics:
 powerTitle2:
 actionEconomy2:
 type2:
@@ -40,9 +43,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range:
+range: 
 ammoType:
-damage:
+damage: 
 dmg1:
 dmg1Type:
 dmg2:
@@ -71,8 +74,3 @@ weaponBase:
 armorBase:
 
 ---
-
-
-```meta-bind-embed
-[[Item Card Template]]
-```

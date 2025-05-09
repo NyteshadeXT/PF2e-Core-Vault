@@ -1,23 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Stanching"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - trait/magical
-  - trait/uncommon
-aliases: "Compendium.pf2e.equipment-srd.Item.NJtIwMIzjdRqupAM"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "stanching"
+aliases: "Stanching"
+source: "Pathfinder Lost Omens The Grand Bazaar"
+pg: ""
+rarity: ""
+trait01: "magical"
+trait02: "uncommon"
+trait03: ""
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 5
+weight: 
+value: "130"
+subvalue: "gp"
+invest:
+usage: "etched onto armor"
+license: "ORC"
+identify:
+description: "These symbols close bloody wounds. Armor with this rune reduces the DC of the flat check to end persistent bleed damage from 15 to 12 (7 with particularly effective assistance)."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Stanching
-## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
-
-
-**Price** 130 gp; 
-**Bulk** 0; **Size** med
-**Usage** etched-onto-armor
-
-These symbols close bloody wounds. Armor with this rune reduces the DC of the flat check to end persistent bleed damage from 15 to 12 (7 with particularly effective assistance).
-
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
-*OGL*

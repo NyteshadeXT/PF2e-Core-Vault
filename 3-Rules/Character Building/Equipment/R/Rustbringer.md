@@ -1,42 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Rustbringer"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/disarm
-  - trait/magical
-  - trait/metal
-  - trait/sweep
-  - trait/trip
-  - trait/common
-  - category/martial
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.rnoP6uPxauJiSGPK"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "rustbringer"
+aliases: "Rustbringer"
+source: "Pathfinder Rage of Elements"
+pg: ""
+rarity: ""
+trait01: "disarm"
+trait02: "magical"
+trait03: "metal"
+trait04: "sweep"
+trait05: "trip"
+trait06: "common"
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 10
+weight: 1
+value: "900"
+subvalue: "gp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "The handle, chain, and spiked ball of this _+1 striking corrosive flail_ are all made of iron so rusted that the weapon appears nonfunctional at first glance. On Strikes against a creature that's primarily made of metal, it gains the deadly d10 trait.  **Activate—Rusting Disarm** `pf2:r`  **Trigger** You critically succeed at a [[Actions/Disarm|Disarm]] attempt with the flail against a metal weapon  * * *  **Effect** Flakes of acid-laden rust are deposited on the disarmed weapon. The weapon takes 2d6 damage, ignoring the weapon's Hardness."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 2d6 bludgeoning
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Rustbringer
-## Item 10
-### [[3-Rules/Trait Reference/D/disarm]][[magical]][[metal]][[sweep]][[3-Rules/Trait Reference/T/trip]]
-
-|  |  |
-| -- | -- |
-| **Category** martial melee weapon | **Group** flail |
-| **Price** 900 gp |  |
-| **Bulk** 1 | **Size** med |
-| **Damage** 2d6 bludgeoning  | **Usage** held-in-one-hand |
-
-
-
-The handle, chain, and spiked ball of this _+1 striking corrosive flail_ are all made of iron so rusted that the weapon appears nonfunctional at first glance. On Strikes against a creature that's primarily made of metal, it gains the deadly d10 trait.
-
-**Activate—Rusting Disarm** `pf2:r`
-
-**Trigger** You critically succeed at a [[Actions/Disarm|Disarm]] attempt with the flail against a metal weapon
-
-* * *
-
-**Effect** Flakes of acid-laden rust are deposited on the disarmed weapon. The weapon takes 2d6 damage, ignoring the weapon's Hardness.
-
-*Source: Pathfinder Rage of Elements*
-*OGL*

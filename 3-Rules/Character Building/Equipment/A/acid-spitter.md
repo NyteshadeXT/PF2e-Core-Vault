@@ -5,75 +5,72 @@
 cssclass: pf2e-item, h-line
 name: "acid-spitter"
 aliases: "Acid Spitter"
-source: "Pathfinder Guns and Gears"
-pg: "78"
-rarity: "Uncommon"
-trait01: "Acid"
-trait02: "Clockwork"
-trait03: "Consumable"
-trait04: "Mechanical"
-trait05: "Snare"
-trait06: "Trap"
+source: "Pathfinder Guns & Gears"
+pg: ""
+rarity: ""
+trait01: "acid"
+trait02: "clockwork"
+trait03: "consumable"
+trait04: "mechanical"
+trait05: "snare"
+trait06: "trap"
+trait07: "uncommon"
+trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 4
-weight: 0
+weight: 
 value: "15"
 subvalue: "gp"
-invest: 
-usage: ""
+invest:
+usage: "held in one hand"
 license: "ORC"
-identify: ""
-description: "This item resembles a small tin clockwork lizard."
-powerTitle: "Effect"
-actionEconomy: 
-type: 
-frequency: 
-trigger: "a creature moves adjacent to it"
-mechanics: "**Effect** The acid spitter spits out a glob of acid. The target must succeed at a DC 20 Reflex saving throw or take `dice: 3d6` 3d6 acid damage. <br><br>**Critical Success** The creature is unaffected. <br>**Success** The creature takes full damage. <br>**Failure** The creature takes full damage and 5 persistent acid damage. <br>**Critical Failure** The creature takes double damage and 10 persistent acid damage."
-powerTitle2: ""
-actionEconomy2: 
-type2: 
-frequency2: 
-trigger2: 
+identify:
+description: "This tin clockwork lizard is activated when a creature moves adjacent to it, at which point it spits out a glob of acid. The target must succeed at a DC 20 Reflex check saving throw or take 3d6 acid damage.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes full damage.  **Failure** The creature takes full damage and 5 persistent acid damage.  **Critical Failure** The creature takes double damage and 10 persistent acid damage."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
 mechanics2: "**Secondary Effect** "
-craft: 
+craft:
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range:
+range: 
 ammoType:
 damage: 
-dmg1: 
-dmg1Type: 
-dmg2: 
-dmg2Type: 
-weaponType: 
-weaponCategory: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC: 
-modAC: 
-dexCap: 
-strRequirement: 
-checkPenalty: 
-speedPenalty: 
-armorCategory: 
-resist: 
-immunity: 
-conditionImmunity: 
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
 
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase: 
-armorBase: 
+weaponBase:
+armorBase:
 
 ---
-
-
-```meta-bind-embed
-[[Item Card Template]]
-```

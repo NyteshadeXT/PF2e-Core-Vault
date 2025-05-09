@@ -1,0 +1,76 @@
+---
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "alacritous-horseshoes-(greater)"
+aliases: "Alacritous Horseshoes (Greater)"
+source: "Pathfinder GM Core"
+pg: ""
+rarity: ""
+trait01: "companion"
+trait02: "invested"
+trait03: "primal"
+trait04: "common"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 14
+weight: 1
+value: "4250"
+subvalue: "gp"
+invest:
+usage: "wornhorseshoes"
+license: "ORC"
+identify:
+description: "When you affix these simple iron horseshoes to the hooves of an ordinary horse or a quadrupedal animal companion and the animal companion invests them, that creature gains a +10-foot item bonus to its land Speed and a +3 item bonus to Athletics checks to High Jump and Long Jump.  In addition, when it Leaps, it can move 5 feet farther if jumping horizontally or 3 feet higher if jumping vertically."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
+---

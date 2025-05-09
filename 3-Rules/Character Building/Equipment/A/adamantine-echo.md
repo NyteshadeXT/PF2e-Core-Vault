@@ -6,70 +6,71 @@ cssclass: pf2e-item, h-line
 name: "adamantine-echo"
 aliases: "Adamantine Echo"
 source: "Pathfinder #193: Mantle of Gold"
-pg: "83"
-rarity: "Unique"
-trait01: "Abjuration"
-trait02: "Earth"
-trait03: "Invested"
-trait04: "Magical"
-trait05: "Relic"
+pg: ""
+rarity: ""
+trait01: "earth"
+trait02: "invested"
+trait03: "magical"
+trait04: "relic"
+trait05: "rare"
+trait06: ""
+trait07: ""
+trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
 weight: L
-value: ""
-subvalue: ""
-invest: "Yes"
-usage: "incorporated into armor"
-license: "OGL"
-identify: "Identify Magic (Arcana, Nature, Occultism or Religion) DC 30"
-description: "Made from glossy, nearly black [[adamantine]], this large fragment of a plate armor vambrace provides little protection on its own. However, when incorporated into an intact suit of armor, it functions as a +1 [[armor potency]] rune."
-powerTitle: "Relic Advancement and Powers"
-actionEconomy: 
-type: 
-frequency: 
-mechanics: "**Forming the Bond** The PCs complete the [[Rite of Repatriation]]. <br>**Advancing the Bond** Survive (or even triumph against) seemingly impossible odds. <br>**Minor Gifts** [beginner’s luck], [ease burden], [shattered earth] <br>**Major Gifts** [raise ramparts], [steal luck]"
-powerTitle2: ""
-actionEconomy2: 
-type2: 
-frequency2: 
+value: "0"
+subvalue: "gp"
+invest:
+usage: "etched onto armor"
+license: "ORC"
+identify:
+description: "Made from glossy, nearly black adamantine, this large fragment of a plate armor vambrace provides little protection on its own. However, when incorporated into an intact suit of armor, it functions as a +1 armor potency rune."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
 mechanics2: "**Secondary Effect** "
-craft: 
+craft:
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range:
+range: 
 ammoType:
 damage: 
-dmg1: 
-dmg1Type: 
-dmg2: 
-dmg2Type: 
-weaponType: 
-weaponCategory: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC: 
-modAC: 
-dexCap: 
-strRequirement: 
-checkPenalty: 
-speedPenalty: 
-armorCategory: 
-resist: 
-immunity: 
-conditionImmunity: 
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
 
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase: 
-armorBase: 
+weaponBase:
+armorBase:
 
 ---
-
-```meta-bind-embed
-[[Item Card Template]]
-```

@@ -1,32 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Rapier"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/deadly-d8
-  - trait/disarm
-  - trait/finesse
-  - trait/common
-  - category/martial
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.tH5GirEy7YB3ZgCk"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "rapier"
+aliases: "Rapier"
+source: "Pathfinder Player Core"
+pg: ""
+rarity: ""
+trait01: "deadly-d8"
+trait02: "disarm"
+trait03: "finesse"
+trait04: "common"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: 1
+value: "2"
+subvalue: "gp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "The rapier is a long and thin piercing blade with a basket hilt. It is prized among many as a dueling weapon."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d6 piercing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Rapier
-## Item 0
-### [[deadly-d8]][[3-Rules/Trait Reference/D/disarm]][[finesse]]
-
-|  |  |
-| -- | -- |
-| **Category** martial melee weapon | **Group** sword |
-| **Price** 2 gp |  |
-| **Bulk** 1 | **Size** med |
-| **Damage** 1d6 piercing  | **Usage** held-in-one-hand |
-
-
-
-The rapier is a long and thin piercing blade with a basket hilt. It is prized among many as a dueling weapon.
-
-*Source: Pathfinder Player Core*
-*ORC*

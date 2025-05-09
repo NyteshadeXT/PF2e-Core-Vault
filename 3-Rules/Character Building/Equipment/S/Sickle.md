@@ -1,32 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Sickle"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/agile
-  - trait/finesse
-  - trait/trip
-  - trait/common
-  - category/simple
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.ynnBwzkzsR6B73iO"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "sickle"
+aliases: "Sickle"
+source: "Pathfinder Player Core"
+pg: ""
+rarity: ""
+trait01: "agile"
+trait02: "finesse"
+trait03: "trip"
+trait04: "common"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: L
+value: "2"
+subvalue: "sp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "Originally a farming tool used for reaping grain, this one-handed weapon has a short wooden handle ending in a curved blade, sometimes sharpened on both sides."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d4 slashing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Sickle
-## Item 0
-### [[agile]][[finesse]][[3-Rules/Trait Reference/T/trip]]
-
-|  |  |
-| -- | -- |
-| **Category** simple melee weapon | **Group** knife |
-| **Price** 2 sp |  |
-| **Bulk** L | **Size** med |
-| **Damage** 1d4 slashing  | **Usage** held-in-one-hand |
-
-
-
-Originally a farming tool used for reaping grain, this one-handed weapon has a short wooden handle ending in a curved blade, sometimes sharpened on both sides.
-
-*Source: Pathfinder Player Core*
-*ORC*

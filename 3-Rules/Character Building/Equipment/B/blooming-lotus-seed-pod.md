@@ -1,0 +1,76 @@
+---
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "blooming-lotus-seed-pod"
+aliases: "Blooming Lotus Seed Pod"
+source: "Pathfinder Rage of Elements"
+pg: ""
+rarity: ""
+trait01: "consumable"
+trait02: "magical"
+trait03: "plant"
+trait04: "wood"
+trait05: "uncommon"
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 7
+weight: L
+value: "68"
+subvalue: "gp"
+invest:
+usage: "held in one hand"
+license: "ORC"
+identify:
+description: "The seeds of this lotus seed pod scatter with incredible ease and accuracy, quickly growing into temporary plants.  * * *  **Activate - Floating Pads** `pf2:1` (manipulate)  **Effect** You scatter the blooming lotus seed pod's seeds across a non-damaging liquid surface within 40 feet of you, where they form into 5 lotus pads that each float in place in a separate square within range for 1 minute. Each lotus pad has a 10- foot radius and can support 1 Large creature, 2 Medium creatures, or 4 Small creatures.  * * *  **Activate - Blooming Flower** 10 minutes (manipulate)  **Effect** You plant the blooming lotus seed pod in the ground and a giant lotus flower blooms in that square. Over the next 8 hours, creatures who sleep for at least 6 hours within 30 feet of the lotus flower gain the benefits of long-term rest as though they'd spent an entire day and night resting, and all creatures within the affected area are immune to the effects of the [[Spells/Nightmare|Nightmare]] spell and other magical effects that affect only sleeping creatures."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
+---

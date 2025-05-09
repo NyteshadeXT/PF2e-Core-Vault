@@ -5,64 +5,72 @@
 cssclass: pf2e-item, h-line
 name: "accursed-staff"
 aliases: "Accursed Staff"
-source: "Treasure Vault"
-pg: "130"
+source: "Pathfinder Treasure Vault"
+pg: ""
 rarity: ""
-trait01: "Magical"
-trait02: "Necromancy"
-trait03: "Staff"
-trait04: 
+trait01: "magical"
+trait02: "staff"
+trait03: "two-hand-d8"
+trait04: "common"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 6
 weight: 1
 value: "250"
 subvalue: "gp"
-attunement: 
-reqAttune: 
-reqAttuneTags: 
-usage: "held in 1 hand"
-license: "OGL"
-identify: "Identify Magic (Arcana, Nature, Occultism or Religion) DC 22"
-description: "Iron strips line the body of an accursed staff, capping the bottom and folding into an intricate knot at the top. While wielding an accursed staff, you’re empowered by the curses you inflict. If an enemy fails a saving throw against a spell you cast that has the curse trait, you gain temporary Hit Points equal to double that spell’s level. These temporary Hit Points last 10 minutes. The enemy must be a significant threat and can’t have been a willing subject of the curse."
-powerTitle: "Cast a Spell"
-actionEconomy: 
-type: 
-frequency: 
-mechanics: "**Effect** You expend a number of charges from the staff to cast a spell from its list. <br>   - **Cantrip** [[daze]] <br>- **1st** [[bane]], [[ill omen]] <br>- **2nd** [[blood vendetta]], [[Warrior's Regret]]"
-powerTitle2: ""
-actionEconomy2: 
-type2: 
-frequency2: 
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "Iron strips line the body of an _accursed staff_, capping the bottom and folding into an intricate knot at the top. While wielding an _accursed staff_, you're empowered by the curses you inflict. If an enemy fails a saving throw against a spell you cast that has the curse trait, you gain temporary Hit Points equal to double that spell's rank. These temporary Hit Points last 10 minutes. The enemy must be a significant threat and can't have been a willing subject of the curse.  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Daze|Daze]] *   **1st** [[Spells/Bane|Bane]], [[Spells/Ill Omen|Ill Omen]] *   **2nd** [[Spells/Blood Vendetta|Blood Vendetta]], [[Spells/Warrior's Regret|Warrior's Regret]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
 mechanics2: "**Secondary Effect** "
-craft: "Supply one casting of all listed levels of all listed spells."
+craft:
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range:
+range: 
 ammoType:
-damage: 
-dmg1: 
-dmg1Type: 
-dmg2: 
-dmg2Type: 
-weaponType: 
-weaponCategory: 
+damage: 1d4 bludgeoning
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC: 
-modAC: 
-dexCap: 
-strRequirement: 
-checkPenalty: 
-speedPenalty: 
-resist: 
-immunity: 
-conditionImmunity: 
----
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
 
-```meta-bind-embed
-[[Item Card Template]]
-```
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
+---

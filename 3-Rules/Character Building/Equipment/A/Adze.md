@@ -1,32 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Adze"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/forceful
-  - trait/grippli
-  - trait/sweep
-  - trait/common
-  - category/martial
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.8V4mgecGASsQ7fjl"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "adze"
+aliases: "Adze"
+source: "Pathfinder Player Core 2"
+pg: ""
+rarity: ""
+trait01: "forceful"
+trait02: "grippli"
+trait03: "sweep"
+trait04: "common"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: 2
+value: "1"
+subvalue: "gp"
+invest:
+usage: "held in two hands "
+license: "ORC"
+identify:
+description: "A common cutting tool, an adze resembles an axe—but the cutting edge is horizontal, rather than vertical. The adze's shape makes it popular among woodworkers, and tripkee builders often use them to construct their treetop homes. The tool also serves as an effective weapon, due in part to the immense strength required to swing it."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d10 slashing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Adze
-## Item 0
-### [[forceful]][[grippli]][[sweep]]
-
-|  |  |
-| -- | -- |
-| **Category** martial melee weapon | **Group** axe |
-| **Price** 1 gp |  |
-| **Bulk** 2 | **Size** med |
-| **Damage** 1d10 slashing  | **Usage** held-in-two-hands |
-
-
-
-A common cutting tool, an adze resembles an axe—but the cutting edge is horizontal, rather than vertical. The adze's shape makes it popular among woodworkers, and tripkee builders often use them to construct their treetop homes. The tool also serves as an effective weapon, due in part to the immense strength required to swing it.
-
-*Source: Pathfinder Player Core 2*
-*ORC*

@@ -1,24 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Shadow"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - trait/magical
-  - trait/common
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.kEy7Uc1VisizGgtf"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "shadow"
+aliases: "Shadow"
+source: "Pathfinder GM Core"
+pg: ""
+rarity: ""
+trait01: "magical"
+trait02: "common"
+trait03: ""
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 5
+weight: 
+value: "55"
+subvalue: "gp"
+invest:
+usage: "etched onto lm nonmetal armor"
+license: "ORC"
+identify:
+description: "Armor etched with this rune takes on a hazy black appearance. You gain a +1 item bonus to Stealth checks while wearing the armor."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Shadow
-## Item 5
-### [[magical]]
-
-
-**Price** 55 gp; 
-**Bulk** 0; **Size** med
-**Usage** etched-onto-lm-nonmetal-armor
-
-Armor etched with this rune takes on a hazy black appearance. You gain a +1 item bonus to Stealth checks while wearing the armor.
-
-*Source: Pathfinder GM Core*
-*ORC*

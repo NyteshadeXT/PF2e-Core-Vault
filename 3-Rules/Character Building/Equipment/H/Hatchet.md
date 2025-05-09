@@ -1,32 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Hatchet"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/agile
-  - trait/sweep
-  - trait/thrown-10
-  - trait/common
-  - category/martial
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.LGgvev6AV0So8tP9"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "hatchet"
+aliases: "Hatchet"
+source: "Pathfinder Player Core"
+pg: ""
+rarity: ""
+trait01: "agile"
+trait02: "sweep"
+trait03: "thrown-10"
+trait04: "common"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: L
+value: "4"
+subvalue: "sp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "This small axe can be used in close combat or thrown."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d6 slashing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Hatchet
-## Item 0
-### [[agile]][[sweep]][[thrown-10]]
-
-|  |  |
-| -- | -- |
-| **Category** martial melee weapon | **Group** axe |
-| **Price** 4 sp |  |
-| **Bulk** L | **Size** med |
-| **Damage** 1d6 slashing  | **Usage** held-in-one-hand |
-
-
-
-This small axe can be used in close combat or thrown.
-
-*Source: Pathfinder Player Core*
-*ORC*

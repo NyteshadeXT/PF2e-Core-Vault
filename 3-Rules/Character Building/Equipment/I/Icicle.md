@@ -1,46 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Icicle"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/cold
-  - trait/magical
-  - trait/reach
-  - trait/common
-  - category/simple
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.NARrXbTyQ2X6hA7e"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "icicle"
+aliases: "Icicle"
+source: "Pathfinder GM Core"
+pg: ""
+rarity: ""
+trait01: "cold"
+trait02: "magical"
+trait03: "reach"
+trait04: "common"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 16
+weight: 2
+value: "10000"
+subvalue: "gp"
+invest:
+usage: "held in two hands "
+license: "ORC"
+identify:
+description: "This _+2 greater striking greater frost longspear_ appears to be a single continuous icicle stretching over 6 feet long. The icicle automatically extinguishes non-magical fires in a 20-foot emanation. While wielding it, you gain fire resistance 5.  * * *  **Activate—Quench Flames** `pf2:2` (concentrate, manipulate)  **Effect** You swing the icicle into the area of an ongoing magical fire, and the spear attempts to counteract the fire with a counteract modifier of +27. If it fails, it can't attempt to counteract the same fire again.  * * *  **Activate—Ice Spike** `pf2:2` (concentrate, manipulate)  **Frequency** once per day  **Effect** The icicle grows rapidly, piercing creatures in a 30-foot line. Each creature in the area takes 11d6 cold damage with a DC 35 Reflex check. A creature that fails its save also takes 3d6 persistent bleed damage (double on a critical failure)."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 3d8 piercing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Icicle
-## Item 16
-### [[3-Rules/Trait Reference/C/cold]][[magical]][[reach]]
-
-|  |  |
-| -- | -- |
-| **Category** simple melee weapon | **Group** spear |
-| **Price** 10000 gp |  |
-| **Bulk** 2 | **Size** med |
-| **Damage** 3d8 piercing  | **Usage** held-in-two-hands |
-
-
-
-This _+2 greater striking greater frost longspear_ appears to be a single continuous icicle stretching over 6 feet long. The icicle automatically extinguishes non-magical fires in a @Template\[emanation|distance:20\]. While wielding it, you gain fire resistance 5.
-
-* * *
-
-**Activate—Quench Flames** `pf2:2` (concentrate, manipulate)
-
-**Effect** You swing the icicle into the area of an ongoing magical fire, and the spear attempts to counteract the fire with a counteract modifier of +27. If it fails, it can't attempt to counteract the same fire again.
-
-* * *
-
-**Activate—Ice Spike** `pf2:2` (concentrate, manipulate)
-
-**Frequency** once per day
-
-**Effect** The icicle grows rapidly, piercing creatures in a @Template\[line|distance:30\]. Each creature in the area takes 11d6 cold damage with a DC 35 Reflex check. A creature that fails its save also takes 3d6 persistent bleed damage (double on a critical failure).
-
-*Source: Pathfinder GM Core*
-*ORC*

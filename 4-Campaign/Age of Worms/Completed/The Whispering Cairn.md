@@ -36,13 +36,7 @@ awarded_permanent_items:
     ilvl: 3
     gp: 60
 awarded_consumable_items:
-  - name: Healing Potion (Minor)
-    ilvl: 1
-    gp: 4
-  - name: Healing Potion (Minor)
-    ilvl: 1
-    gp: 4
-  - name: Healing Potion (Minor)
+  - name: Healing Potion (Minor) x4
     ilvl: 1
     gp: 4
   - name: Spell Scroll (1st level) Detect Metal
@@ -51,9 +45,6 @@ awarded_consumable_items:
   - name: Potion of Emergency Excape
     ilvl: 1
     gp: 3
-  - name: Healing Potion (Minor)
-    ilvl: 1
-    gp: 4
   - name: Surging Serum (Minor)
     ilvl: 2
     gp: 5

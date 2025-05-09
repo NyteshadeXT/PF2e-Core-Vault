@@ -1,33 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Gakgung"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/deadly-d8
-  - trait/monk
-  - trait/propulsive
-  - trait/common
-  - category/martial
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.0E9ADJkQUVsz7A4G"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "gakgung"
+aliases: "Gakgung"
+source: "Pathfinder Lost Omens Tian Xia Character Guide"
+pg: ""
+rarity: ""
+trait01: "deadly-d8"
+trait02: "monk"
+trait03: "propulsive"
+trait04: "common"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: L
+value: "2"
+subvalue: "gp"
+invest:
+usage: "held in one plus hands "
+license: "ORC"
+identify:
+description: "A gakgung is a type of composite reflex bow that combines speed and power in equal amounts for effective precision shooting."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 100 ft
+ammoType:
+damage: 1d6 piercing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Gakgung
-## Item 0
-### [[deadly-d8]][[monk]][[propulsive]]
-
-|  |  |
-| -- | -- |
-| **Category** martial ranged weapon | **Group** bow |
-| **Price** 2 gp |  |
-| **Bulk** L | **Size** med |
-|**Range** 100 ft.| **Reload** 0|
-| **Damage** 1d6 piercing  | **Usage** held-in-one-plus-hands |
-
-
-
-A gakgung is a type of composite reflex bow that combines speed and power in equal amounts for effective precision shooting.
-
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
-*ORC*

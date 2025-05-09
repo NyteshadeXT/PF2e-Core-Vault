@@ -1,32 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Arquebus"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/concussive
-  - trait/fatal-d12
-  - trait/kickback
-  - trait/uncommon
-  - category/martial
-aliases: "Compendium.pf2e.equipment-srd.Item.ChTaE7jhvCjcS6jI"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "arquebus"
+aliases: "Arquebus"
+source: "Pathfinder Guns & Gears"
+pg: ""
+rarity: ""
+trait01: "concussive"
+trait02: "fatal-d12"
+trait03: "kickback"
+trait04: "uncommon"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: 2
+value: "8"
+subvalue: "gp"
+invest:
+usage: "held in two hands "
+license: "ORC"
+identify:
+description: "This is a long gun that offers more range than the average firearm, though the long barrel and ferocious kickback make the weapon particularly unsteady unless a tripod or other stand is used to stabilize it. The arquebus is one of the most commonly used long guns among the soldiers of Dongun Hold and Alkenstar."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 150 ft
+ammoType:
+damage: 1d8 piercing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Arquebus
-## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[concussive]][[fatal-d12]][[kickback]]
-
-|  |  |
-| -- | -- |
-| **Category** martial ranged weapon | **Group** firearm |
-| **Price** 10 gp |  |
-| **Bulk** 2 | **Size** med |
-|**Range** 150 ft.| **Reload** 1|
-| **Damage** 1d8 piercing  | **Usage** held-in-two-hands |
-
-
-
-This is a long rifle that offers more range than the average firearm, though the long barrel and ferocious kickback make the weapon particularly unsteady unless a tripod or other stand is used to stabilize it. The arquebus is one of the most commonly used long guns among the soldiers of Dongun Hold and Alkenstar.
-
-*Source: Pathfinder Guns & Gears*
-*OGL*

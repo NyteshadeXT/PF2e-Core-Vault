@@ -1,32 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Tetsubo"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/razing
-  - trait/shove
-  - trait/sweep
-  - trait/uncommon
-  - category/martial
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.FjeKuljhpaIiDTI7"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "tetsubo"
+aliases: "Tetsubo"
+source: "Pathfinder Lost Omens Tian Xia Character Guide"
+pg: ""
+rarity: ""
+trait01: "razing"
+trait02: "shove"
+trait03: "sweep"
+trait04: "uncommon"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: 3
+value: "3"
+subvalue: "gp"
+invest:
+usage: "held in two hands "
+license: "ORC"
+identify:
+description: "The tetsubo is a war club constructed out of heavy wood shod with iron studs, designed for smashing through armor and defenses. A tetsubo made entirely out of metal might also be referred to as a kanabo."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d10 bludgeoning
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Tetsubo
-## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[razing]][[3-Rules/trait_reference/S/shove]][[sweep]]
-
-|  |  |
-| -- | -- |
-| **Category** martial melee weapon | **Group** club |
-| **Price** 3 gp |  |
-| **Bulk** 3 | **Size** med |
-| **Damage** 1d10 bludgeoning  | **Usage** held-in-two-hands |
-
-
-
-The tetsubo is a war club constructed out of heavy wood shod with iron studs, designed for smashing through armor and defenses. A tetsubo made entirely out of metal might also be referred to as a kanabo.
-
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
-*ORC*

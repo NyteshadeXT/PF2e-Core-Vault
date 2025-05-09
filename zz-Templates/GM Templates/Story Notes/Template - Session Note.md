@@ -1,4 +1,5 @@
 ---
+lastUpdate: 05.09.2025
 tags:
   - "#SessionNote"
 ---
@@ -64,18 +65,154 @@ Use this area to track the party's travel and rest activities during the session
 > [!kirk|info] Prompt (Remove me)
 Use this space to record all loot, rewards, and purchases obtained by the party during the session. Document any valuable items, treasures, or magical artifacts they acquire. Note down rewards for completing quests or overcoming challenges. Additionally, keep track of any purchases the party makes, detailing items, costs, and relevant information. This section serves as a consolidated record of the party's wealth and acquisitions, aiding in resource management and future gameplay decisions.
 
-**Session XP:** 
+### Loot, Rewards & Purchases
+#### **Session XP:** `=this.session_coin.gp`
 
-**Coin**
-- gp: xxx
-- sp: xxx
-- cp: xxx
+#### Coin
+- pp: `=this.session_coin.pp`
+- gp: `=this.session_coin.gp`
+- sp: `=this.session_coin.sp`
+- cp: `=this.session_coin.cp`
+<br>
 
-**Consumable Items**
-- [x] consumable::[[Test|Test]] [ilvl::0] [gp::xxxx]
+#### Permanent Items
+```dataviewjs
+// Inject custom table styling (only once per session)
+if (!document.getElementById("styled-item-table")) {
+    const style = document.createElement("style");
+    style.id = "styled-item-table";
+    style.textContent = `
+        .item-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-family: 'Noto Serif', 'Georgia', serif;
+            background-color: #f3efe4;
+            color: #2e1a0f;
+        }
 
-**Permanent Items**
-- [x] permanent::[[Test|Test]] [ilvl::0] [gp::xxxx]
+        .item-table th {
+            background-color: #7a4f1b;
+            color: #f9e5c1;
+            text-align: left;
+            padding: 8px;
+            border-bottom: 2px solid #d4b071;
+            font-weight: bold;
+        }
+
+        .item-table td {
+            padding: 6px 8px;
+            border: 1px solid #d4b071;
+        }
+
+        .item-table tr:nth-child(even) td {
+            background-color: #ede3d0;
+        }
+
+        .item-table tr:hover td {
+            background-color: #fff8e1;
+        }
+
+        .item-table td:first-child {
+            font-weight: bold;
+        }
+    `;
+    document.head.appendChild(style);
+}
+
+const items = dv.current().session_items_permanent ?? [];
+if (items.length === 0) {
+    dv.paragraph("_No permanent items recorded for this session._");
+} else {
+    const table = dv.el("table", "", { cls: "item-table" });
+    const thead = table.createTHead();
+    const headerRow = thead.insertRow();
+    ["Item", "Level", "Price (gp)"].forEach(h => {
+        const th = document.createElement("th");
+        th.textContent = h;
+        headerRow.appendChild(th);
+    });
+
+    const tbody = table.createTBody();
+    for (let i of items) {
+        const row = tbody.insertRow();
+        [i.name, i.ilvl, i.gp].forEach(val => {
+            const td = row.insertCell();
+            td.textContent = val;
+        });
+    }
+}
+
+
+```
+
+#### Consumable Items
+```dataviewjs
+// Inject custom table styling (only once per session)
+if (!document.getElementById("styled-item-table")) {
+    const style = document.createElement("style");
+    style.id = "styled-item-table";
+    style.textContent = `
+        .item-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-family: 'Noto Serif', 'Georgia', serif;
+            background-color: #f3efe4;
+            color: #2e1a0f;
+        }
+
+        .item-table th {
+            background-color: #7a4f1b;
+            color: #f9e5c1;
+            text-align: left;
+            padding: 8px;
+            border-bottom: 2px solid #d4b071;
+            font-weight: bold;
+        }
+
+        .item-table td {
+            padding: 6px 8px;
+            border: 1px solid #d4b071;
+        }
+
+        .item-table tr:nth-child(even) td {
+            background-color: #ede3d0;
+        }
+
+        .item-table tr:hover td {
+            background-color: #fff8e1;
+        }
+
+        .item-table td:first-child {
+            font-weight: bold;
+        }
+    `;
+    document.head.appendChild(style);
+}
+
+const items = dv.current().session_items_consumable ?? [];
+if (items.length === 0) {
+    dv.paragraph("_No permanent items recorded for this session._");
+} else {
+    const table = dv.el("table", "", { cls: "item-table" });
+    const thead = table.createTHead();
+    const headerRow = thead.insertRow();
+    ["Item", "Level", "Price (gp)"].forEach(h => {
+        const th = document.createElement("th");
+        th.textContent = h;
+        headerRow.appendChild(th);
+    });
+
+    const tbody = table.createTBody();
+    for (let i of items) {
+        const row = tbody.insertRow();
+        [i.name, i.ilvl, i.gp].forEach(val => {
+            const td = row.insertCell();
+            td.textContent = val;
+        });
+    }
+}
+
+```
 
 ## Post
 ### New Creations

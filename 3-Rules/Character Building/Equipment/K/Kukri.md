@@ -1,32 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Kukri"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/agile
-  - trait/finesse
-  - trait/trip
-  - trait/uncommon
-  - category/martial
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.TDrO7Xdyn7juFy3c"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "kukri"
+aliases: "Kukri"
+source: "Pathfinder Player Core"
+pg: ""
+rarity: ""
+trait01: "agile"
+trait02: "finesse"
+trait03: "trip"
+trait04: "uncommon"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: L
+value: "6"
+subvalue: "sp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "The blade of this foot-long knife curves inward and lacks a cross guard at the hilt."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d6 slashing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Kukri
-## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[finesse]][[3-Rules/Trait Reference/T/trip]]
-
-|  |  |
-| -- | -- |
-| **Category** martial melee weapon | **Group** knife |
-| **Price** 6 sp |  |
-| **Bulk** L | **Size** med |
-| **Damage** 1d6 slashing  | **Usage** held-in-one-hand |
-
-
-
-The blade of this foot-long knife curves inward and lacks a cross guard at the hilt.
-
-*Source: Pathfinder Player Core*
-*ORC*

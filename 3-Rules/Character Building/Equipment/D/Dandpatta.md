@@ -1,30 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Dandpatta"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/agile
-  - trait/twin
-  - trait/uncommon
-  - category/martial
-aliases: "Compendium.pf2e.equipment-srd.Item.5v2mhiBbYQDhlsw5"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "dandpatta"
+aliases: "Dandpatta"
+source: "Pathfinder Lost Omens Impossible Lands"
+pg: ""
+rarity: ""
+trait01: "agile"
+trait02: "twin"
+trait03: "uncommon"
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: L
+value: "8"
+subvalue: "sp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "This long, narrow blade is attached to a gauntlet that also acts as a handguard."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d6 slashing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Dandpatta
-## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Rule References/Agile]][[twin]]
-
-|  |  |
-| -- | -- |
-| **Category** martial melee weapon | **Group** sword |
-| **Price** 8 sp |  |
-| **Bulk** L | **Size** med |
-| **Damage** 1d6 slashing  | **Usage** held-in-one-hand |
-
-
-
-This long, narrow blade is attached to a gauntlet that also acts as a handguard.
-
-*Source: Pathfinder Lost Omens: Impossible Lands*
-*OGL*

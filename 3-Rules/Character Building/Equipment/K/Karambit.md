@@ -1,32 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Karambit"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/agile
-  - trait/fatal-d8
-  - trait/finesse
-  - trait/versatile-s
-  - trait/uncommon
-  - category/advanced
-aliases: "Compendium.pf2e.equipment-srd.Item.8XwE8hsWBFoIdoDC"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "karambit"
+aliases: "Karambit"
+source: "Pathfinder #166: Despair on Danger Island"
+pg: ""
+rarity: ""
+trait01: "agile"
+trait02: "fatal-d8"
+trait03: "finesse"
+trait04: "versatile-s"
+trait05: "uncommon"
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: L
+value: "2"
+subvalue: "gp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "This small curved blade resembles a tiger's claw and is capable of delivering deep wounds."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d4 piercing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Karambit
-## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[agile]][[fatal-d8]][[finesse]][[versatile-s]]
-
-|  |  |
-| -- | -- |
-| **Category** advanced melee weapon | **Group** knife |
-| **Price** 2 gp |  |
-| **Bulk** L | **Size** med |
-| **Damage** 1d4 piercing  | **Usage** held-in-one-hand |
-
-
-
-This small curved blade resembles a tiger's claw and is capable of delivering deep wounds.
-
-*Source: Pathfinder #166: Despair on Danger Island*
-*OGL*

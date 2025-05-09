@@ -1,33 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Dagger"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/agile
-  - trait/finesse
-  - trait/thrown-10
-  - trait/versatile-s
-  - trait/common
-  - category/simple
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.rQWaJhI5Bko5x14Z"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "dagger"
+aliases: "Dagger"
+source: "Pathfinder Player Core"
+pg: ""
+rarity: ""
+trait01: "agile"
+trait02: "finesse"
+trait03: "thrown-10"
+trait04: "versatile-s"
+trait05: "common"
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: L
+value: "2"
+subvalue: "sp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "This small, bladed weapon is held in one hand and used to stab a creature in close combat. It can also be thrown."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d4 piercing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Dagger
-## Item 0
-### [[3-Rules/Rule References/Agile]][[3-Rules/Rule References/Finesse]][[thrown-10]][[versatile-s]]
-
-|  |  |
-| -- | -- |
-| **Category** simple melee weapon | **Group** knife |
-| **Price** 2 sp |  |
-| **Bulk** L | **Size** med |
-| **Damage** 1d4 piercing  | **Usage** held-in-one-hand |
-
-
-
-This small, bladed weapon is held in one hand and used to stab a creature in close combat. It can also be thrown.
-
-*Source: Pathfinder Player Core*
-*ORC*

@@ -1,31 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Talwar"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/forceful
-  - trait/two-hand-d10
-  - trait/versatile-p
-  - trait/common
-  - category/martial
-aliases: "Compendium.pf2e.equipment-srd.Item.GuWKXErLL5R43sIy"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "talwar"
+aliases: "Talwar"
+source: "Pathfinder Lost Omens Impossible Lands"
+pg: ""
+rarity: ""
+trait01: "forceful"
+trait02: "two-hand-d10"
+trait03: "versatile-p"
+trait04: "common"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: 1
+value: "2"
+subvalue: "gp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "Longer, and with less curve than a scimitar, this blade is ubiquitous in guard and mercenary groups throughout Casmaron."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 1d6 slashing
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Talwar
-## Item 0
-### [[forceful]][[two-hand-d10]][[versatile-p]]
-
-|  |  |
-| -- | -- |
-| **Category** martial melee weapon | **Group** sword |
-| **Price** 2 gp |  |
-| **Bulk** 1 | **Size** med |
-| **Damage** 1d6 slashing  | **Usage** held-in-one-hand |
-
-
-
-Longer, and with less curve than a scimitar, this blade is ubiquitous in guard and mercenary groups throughout Casmaron.
-
-*Source: Pathfinder Lost Omens: Impossible Lands*
-*OGL*

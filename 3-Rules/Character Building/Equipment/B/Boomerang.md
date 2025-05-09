@@ -1,31 +1,76 @@
 ---
-obsidianUIMode: preview
-title: "Boomerang"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/recovery
-  - trait/thrown
-  - trait/uncommon
-  - category/martial
-aliases: "Compendium.pf2e.equipment-srd.Item.y5bkwzClxfs6gpDn"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "boomerang"
+aliases: "Boomerang"
+source: "Pathfinder Treasure Vault"
+pg: ""
+rarity: ""
+trait01: "recovery"
+trait02: "thrown"
+trait03: "uncommon"
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 0
+weight: L
+value: "2"
+subvalue: "sp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+description: "The boomerang is a carved piece of wood designed to curve as it flies through the air, returning to the wielder after a successful throw."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 60 ft
+ammoType:
+damage: 1d6 bludgeoning
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Boomerang
-## Item 0
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[recovery]][[thrown]]
-
-|  |  |
-| -- | -- |
-| **Category** martial ranged weapon | **Group** club |
-| **Price** 2 sp |  |
-| **Bulk** L | **Size** med |
-|**Range** 60 ft.| **Reload** -|
-| **Damage** 1d6 bludgeoning  | **Usage** held-in-one-hand |
-
-
-
-The boomerang is a carved piece of wood designed to curve as it flies through the air, returning to the wielder after a successful throw.
-
-*Source: Pathfinder Treasure Vault*
-*OGL*

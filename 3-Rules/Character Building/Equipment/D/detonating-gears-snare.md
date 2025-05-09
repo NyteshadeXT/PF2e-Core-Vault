@@ -1,0 +1,76 @@
+---
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-item, h-line
+name: "detonating-gears-snare"
+aliases: "Detonating Gears Snare"
+source: "Pathfinder Guns & Gears"
+pg: ""
+rarity: ""
+trait01: "auditory"
+trait02: "clockwork"
+trait03: "consumable"
+trait04: "mechanical"
+trait05: "snare"
+trait06: "trap"
+trait07: "common"
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 3
+weight: 
+value: "12"
+subvalue: "gp"
+invest:
+usage: "held in one hand"
+license: "ORC"
+identify:
+description: "This snare uses clockwork stressed almost to the breaking point, which activates with a powerful explosion that deals 3d8 piercing damage to the first creature entering the snare's square. The creature must attempt a DC 19 Reflex check saving throw.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes half damage.  **Failure** The creature takes full damage and 3 bleed damage.  **Critical Failure** The creature takes double damage and 6 bleed damage."
+powerTitle:
+actionEconomy:
+type:
+frequency:
+trigger:
+mechanics:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
+---

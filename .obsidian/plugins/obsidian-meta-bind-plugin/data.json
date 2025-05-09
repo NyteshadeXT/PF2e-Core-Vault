@@ -8,8 +8,6 @@
     "shortName": "Mo"
   },
   "syncInterval": 200,
-  "minSyncInterval": 50,
-  "maxSyncInterval": 1000,
   "enableJs": true,
   "viewFieldDisplayNullAsEmpty": true,
   "enableSyntaxHighlighting": true,
@@ -128,8 +126,25 @@
       "declaration": "INPUT[inlineSelect(option(null), option(False), option(Mixed), option(True))]"
     }
   ],
-  "buttonTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "New Session",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Session",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:816fdc87-bfff-4071-9415-b39920820d96"
+        }
+      ]
+    }
+  ],
   "excludedFolders": [
     "templates"
-  ]
+  ],
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000
 }
