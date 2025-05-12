@@ -3,29 +3,29 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-item, h-line
-name: "aeon-stone-(lavender-and-green-ellipsoid)"
-aliases: "Aeon Stone (Lavender and Green Ellipsoid)"
-source: "Pathfinder Core Rulebook"
+name: "book-of-translation-advanced"
+aliases: "Book of Translation (Advanced)"
+source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: ""
-rarity: ""
-trait01: "invested"
-trait02: "magical"
-trait03: "uncommon"
+rarity: "uncommon"
+trait01: ""
+trait02: ""
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 19
-weight: 
-value: "30000"
+level: 5
+weight: L
+value: "125"
 subvalue: "gp"
 invest:
-usage: "worn"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This functions as a pale lavender ellipsoid aeon stone, but it casts an 8th-rank [[Spells/Dispel Magic|Dispel Magic]] spell with a counteract modifier of 1d20+31.  The resonant power allows you to cast [[Spells/Detect Magic|Detect Magic]] and [[Spells/Read Aura|Read Aura]] as arcane innate spells at will."
+description: "The book is leather-bound and decorated with the symbol of the Lantern Lodge. Red and gold cords wrap around the book and tie to keep it shut. Each volume offers translation for a different language. When working with a book of translation, you can attempt Diplomacy checks to Gather Information or to Make an Impression with creatures that speak the language featured in the book, even if you do not speak the language. Such checks take 10 times longer to complete. An advanced book of translation features more complex phrases, local colloquialisms, and assumes a rudimentary understanding of the featured language. Checks attempted while using an advanced book of translation do not take a circumstance penalty."
 powerTitle:
 actionEconomy:
 type:

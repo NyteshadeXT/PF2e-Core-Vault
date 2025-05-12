@@ -6,14 +6,14 @@ cssclass: pf2e-item, h-line
 name: "acid-flask-(moderate)"
 aliases: "Acid Flask (Moderate)"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "244"
 rarity: ""
 trait01: "acid"
 trait02: "alchemical"
 trait03: "bomb"
 trait04: "consumable"
 trait05: "splash"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -25,13 +25,13 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  This flask filled with corrosive acid deals 1 acid damage, 2d6 persistent acid damage, and 2 acid splash damage. You gain a +1 item bonus to attack rolls."
-powerTitle:
-actionEconomy:
-type:
+description: 
+powerTitle: "Acid"
+actionEconomy: 1
+type: ([[Strike]])
 frequency:
 trigger:
-mechanics:
+mechanics: "This flask filled with corrosive acid deals 1 acid damage, `dice: 2d6` 2d6 persistent acid damage, and 2 acid splash damage. You gain a +1 item bonus to attack rolls."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -74,3 +74,8 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+]

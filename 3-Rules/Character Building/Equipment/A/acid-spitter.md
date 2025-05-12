@@ -6,15 +6,15 @@ cssclass: pf2e-item, h-line
 name: "acid-spitter"
 aliases: "Acid Spitter"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "78"
+rarity: "uncommon"
 trait01: "acid"
 trait02: "clockwork"
 trait03: "consumable"
 trait04: "mechanical"
 trait05: "snare"
 trait06: "trap"
-trait07: "uncommon"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 4
@@ -25,13 +25,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This tin clockwork lizard is activated when a creature moves adjacent to it, at which point it spits out a glob of acid. The target must succeed at a DC 20 Reflex check saving throw or take 3d6 acid damage.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes full damage.  **Failure** The creature takes full damage and 5 persistent acid damage.  **Critical Failure** The creature takes double damage and 10 persistent acid damage."
-powerTitle:
+description: 
+powerTitle: "Acid Spit"
 actionEconomy:
 type:
 frequency:
 trigger:
-mechanics:
+mechanics: "This tin clockwork lizard is activated when a creature moves adjacent to it, at which point it spits out a glob of acid. The target must succeed at a DC 20 Reflex check saving throw or take 'dice: 3d6' 3d6 acid damage.<BR><BR>**Critical Success** The creature is unaffected.<BR>**Success** The creature takes full damage.<BR>**Failure** The creature takes full damage and 5 persistent acid damage.<BR>**Critical Failure** The creature takes double damage and 10 persistent acid damage."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -74,3 +74,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

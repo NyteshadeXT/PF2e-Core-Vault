@@ -6,13 +6,13 @@ cssclass: pf2e-item, h-line
 name: "addlebrain"
 aliases: "Addlebrain"
 source: "Pathfinder #147: Tomorrow Must Burn"
-pg: ""
-rarity: ""
+pg: "71"
+rarity: "rare"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "inhaled"
 trait04: "poison"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -25,13 +25,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Certain Scarlet Triad poisoners use toxins like addlebrain to keep captured prisoners docile and compliant for short periods of time until they can be properly shackled and imprisoned. Addlebrain is distilled from a hallucinogenic lichen that can often be found growing in the sewers below particularly large cities like Katapesh.  Once soaked in special reagents and then dried, a dose of addlebrain must be either lit with flame or tossed into a fire to activate, whereupon it unleashes a cloud of toxin as normal for an inhaled poison.  * * *  **Activate** `pf2:1` Interact (Inhaled)  **Saving Throw** DC 25 Fortitude check  **Onset** 1 minute  **Maximum Duration** 1 day  **Stage 1** [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Stupefied|Stupefied 1]] (10 minutes)  **Stage 2** [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Stupefied|Stupefied 2]] (1 hour)  **Stage 3** [[Conditions/Fatigued|Fatigued]], [[Conditions/Enfeebled|Enfeebled 4]], and [[Conditions/Stupefied|Stupefied 4]] (1 day)"
-powerTitle:
-actionEconomy:
-type:
+description: "Certain Scarlet Triad poisoners use toxins like addlebrain to keep captured prisoners docile and compliant for short periods of time until they can be properly shackled and imprisoned. Addlebrain is distilled from a hallucinogenic lichen that can often be found growing in the sewers below particularly large cities like Katapesh.  Once soaked in special reagents and then dried, a dose of addlebrain must be either lit with flame or tossed into a fire to activate, whereupon it unleashes a cloud of toxin as normal for an inhaled poison."
+powerTitle: "Poison"
+actionEconomy: 1
+type: ([[Interact|Interact (Inhaled)]])
 frequency:
 trigger:
-mechanics:
+mechanics: "**Saving Throw** DC 25 Fortitude check  **Onset** 1 minute  **Maximum Duration** 1 day<br>**Stage 1** [[Enfeebled 1]] and [[Stupefied 1]] (10 minutes)  <br>**Stage 2** [[Enfeebled|Enfeebled 2]] and [[Stupefied|Stupefied 2]] (1 hour)  <br>**Stage 3** [[Fatigued]], [[Enfeebled|Enfeebled 4]], and [[Stupefied|Stupefied 4]] (1 day)"
 powerTitle2:
 actionEconomy2:
 type2:
@@ -74,3 +74,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

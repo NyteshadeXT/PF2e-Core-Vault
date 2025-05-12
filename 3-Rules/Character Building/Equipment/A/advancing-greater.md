@@ -3,35 +3,36 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-item, h-line
-name: "aeon-stone-(clear-quartz-octagon)"
-aliases: "Aeon Stone (Clear Quartz Octagon)"
-source: "Pathfinder #179: Cradle of Quartz"
-pg: ""
+name: "advancing-greater"
+aliases: "Advancing (Greater)"
+source: "Pathfinder Treasure Vault"
+pg: "12"
 rarity: ""
-trait01: "invested"
-trait02: "magical"
-trait03: "uncommon"
+trait01: "magical"
+trait02: ""
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 4
+level: 16
 weight: 
-value: "90"
+value: "8000"
 subvalue: "gp"
 invest:
-usage: "worn"
+usage: "etched onto heavy armor"
 license: "ORC"
 identify:
-description: "This clear quartz stone appears to have been smashed and then repaired by pouring molten copper into the cracks and fitting the shards back together using the copper as a sort of mortar. When a non-magical item in your possession with a value of 90 gp or less and a Bulk of 1 Bulk or less would become broken, this aeon stone automatically activates, preventing the item from breaking by restoring the item's current Hit Points to the item's maximum Hit Points. The stone then turns permanently into a _[[Equipment/Aeon Stone (Consumed)|Aeon Stone (Dull Grey)]]_.  The stone's resonant power allows you to cast 1st-rank [[Spells/Mending|Mending]] as a divine innate spell once per day."
-powerTitle:
-actionEconomy:
-type:
+description: "This rune charges up as you defeat your foes, driving you forward across the battlefield with every victory.  "
+powerTitle: "Advancing"
+actionEconomy: 0
+type: ([[command]])
 frequency:
+requirement: "Your last action or activity reduced an enemy to 0 Hit Points"
 trigger:
-mechanics:
+mechanics: "You Stride up to to your Speed. This movement doesn't trigger reactions. You can Burrow, Climb, Fly, or Swim instead of Striding if you have the corresponding movement type."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -74,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

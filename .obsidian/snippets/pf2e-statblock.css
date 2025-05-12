@@ -51,3 +51,55 @@
   text-shadow: 0 0 6px #b33c2e; /* Soft red glow */
 }
 
+/* Rarity Tags */
+.pf2e-rarity {
+  display: inline-block;
+  padding: 0.2em 0.6em;
+  font-size: 0.85em;
+  font-weight: bold;
+  border-radius: 999px;
+  border: 3px solid #d4af37; /* Gold border */
+  color: white;
+  text-transform: uppercase;
+  margin-right: 0.5em;
+}
+
+.pf2e-rarity.common {
+  background-color: #555; /* Neutral gray for Common */
+}
+
+.pf2e-rarity.uncommon {
+  background-color: #cc7722; /* Rust-orange for Uncommon */
+}
+
+.pf2e-rarity.rare {
+  background-color: #1a365d; /* Navy blue for Rare */
+}
+
+.pf2e-rarity.unique {
+  background-color: #6b2d8c; /* Royal purple for Unique */
+}
+
+/* Trait Pill Styling */
+.pf2e-blocktrait {
+  display: inline-block;
+  padding: 0.15em 0.55em;
+  font-size: 0.85em;
+  font-weight: 600;
+  background-color: #7b2716; /* Pathfinder red */
+  border: 3px solid #d4af37; /* Gold border */
+  border-radius: 999px;
+  color: white;
+  margin: 0 0.35em 0.35em 0;
+  text-transform: uppercase;
+}
+
+.pf2e-blocktrait a {
+  color: white !important;
+  text-decoration: none; /* Optional: remove underline */
+}
+
+.pf2e-blocktrait a:hover {
+  text-decoration: underline; /* Optional: underline on hover */
+}
+

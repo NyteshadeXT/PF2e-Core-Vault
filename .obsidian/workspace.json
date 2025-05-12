@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/A/aboutface-figurehead.md",
+                "file": "3-Rules/Character Building/Equipment/A/aeon-stone-(pearlescent-pyramid).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "aboutface-figurehead"
+              "title": "aeon-stone-(pearlescent-pyramid)"
             }
           },
           {
@@ -41,58 +41,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Templates/Markdown/Insert Item.md",
+                "file": "1-GM Toolkit/DoTo List.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Insert Item"
+              "title": "DoTo List"
             }
           },
           {
-            "id": "e44e08970b5a4017",
+            "id": "2f34af5987923c59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/Adventure Loot.md",
+                "file": "zz-Templates/Markdown/Insert Item Metabind.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Adventure Loot"
+              "title": "Insert Item Metabind"
             }
           },
           {
-            "id": "f8bc35dffae44685",
+            "id": "d6f558e4f76bbe36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/Buttons.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Buttons"
-            }
-          },
-          {
-            "id": "c0af3e099817caa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zz-Templates/GM Templates/Story Notes/Template - Rumour.md",
+                "file": "zz-Templates/Markdown/Item Card Template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Template - Rumour"
+              "title": "Item Card Template"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 277.5
   },
   "right": {
     "id": "96fe26c9abf98fe0",
@@ -270,7 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,35 +280,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c0af3e099817caa6",
+  "active": "a18fb4975270d304",
   "lastOpenFiles": [
-    "zz-Templates/GM Templates/Story Notes/Template - Service.md",
-    "zz-Templates/GM Templates/Story Notes/Template - Session Note.md",
-    "zz-Templates/GM Templates/Locations/Template - Settlement.md",
-    "zz-Templates/GM Templates/Story Notes/Template - Rumour.md",
-    "zz-Templates/GM Templates/Story Notes/Template - Quest.md",
-    "zz-Templates/Markdown/Insert Timeline.md",
-    "zz-Templates/Markdown/Insert Timeline Event.md",
-    "1-GM Toolkit/Tests/DC Calculator WIP.md",
-    "1-GM Toolkit/Tests/Enchanting.md",
-    "1-GM Toolkit/Tests/NPC_Normal_Templater.md",
-    "1-GM Toolkit/Tests/Valindra Morrana.md",
-    "1-GM Toolkit/Tests/The Seer's Fate - Shop Example.md",
-    "1-GM Toolkit/Tests/Template - NPC.md",
-    "1-GM Toolkit/Tests/Spotting__Sneaking_Calculator.md",
-    "1-GM Toolkit/Tests/Session 76 - Returning North, Again.md",
-    "1-GM Toolkit/DC Calculator.md",
-    "1-GM Toolkit/Buttons.md",
-    "2-Session Journals/Age-of-Worms/Aow Session 015.md",
-    "2-Session Journals/Age-of-Worms/Aow Session 014.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 013.md",
-    "2-Session Journals/Age-of-Worms/Old/AoW Session 001.md",
+    "3-Rules/Effects/Conditions/Drained.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-(pearlescent-pyramid).md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-(nourishing).md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-mottled-ellipsoid.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-gold-nodule.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-lavender-and-green-ellipsoid.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-formulating.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-envisioning.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-dusty-rose-prism.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-cymophane-cabochon.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-delaying.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-consumed.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-clear-quartz-octagon.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-black-pearl.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-black-disc.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-azure-briolette.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-amplifying.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-amber-sphere.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-agate-ellipsoid.md",
+    "3-Rules/Character Building/Equipment/A/adze.md",
+    "zz-Attachments/adze.png",
+    "3-Rules/Character Building/Equipment/A/advancing-greater.md",
+    "3-Rules/Character Building/Equipment/A/admirers-bouquet.md",
+    "3-Rules/Character Building/Equipment/A/admonishing-band.md",
+    "3-Rules/Character Building/Equipment/A/advancing.md",
+    "zz-Templates/Markdown/Item Card Template.md",
+    "1-GM Toolkit/DoTo List.md",
     "2-Session Journals/Age-of-Worms/Old",
-    "1-GM Toolkit/GM Screen/GM Screen.md",
-    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
-    "zz-Templates/Markdown/Update Session Note.md",
-    "zz-Templates/Markdown/Update Adventure YAML.md",
-    "1-GM Toolkit/Adventure Loot.md",
     "3-Rules/Character Building/Equipment/Z",
     "3-Rules/Character Building/Equipment/Y",
     "3-Rules/Character Building/Equipment/X",

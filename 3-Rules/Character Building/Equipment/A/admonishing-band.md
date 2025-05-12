@@ -6,12 +6,12 @@ cssclass: pf2e-item, h-line
 name: "admonishing-band"
 aliases: "Admonishing Band"
 source: "Pathfinder Guns & Gears"
-pg: ""
+pg: "184"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -25,13 +25,14 @@ invest:
 usage: "affixed to firearm"
 license: "ORC"
 identify:
-description: "**Usage** affixed to a firearm  **Activate** `pf2:1` (concentrate)  **Requirements** You're trained in Intimidation.  * * *  This wide strip of treated lizard hide is wrapped around the grip or stock of the affixed weapon, augmenting the unease that your gunshot creates. When you activate it, you fire your gun into the air with the effects of [[Feats/Warning Shot|Warning Shot]]. If you already have the Warning Shot feat, the target doesn't become temporarily immune to your Demoralize, potentially allowing you to Demoralize them again."
-powerTitle:
-actionEconomy:
-type:
+description: "This wide strip of treated lizard hide is wrapped around the grip or stock of the affixed weapon, augmenting the unease that your gunshot creates. "
+powerTitle: "Warning Shot"
+actionEconomy: 1
+type: ([[concentrate|Concentrate]])
 frequency:
+requirement: "You're trained in Intimidation."
 trigger:
-mechanics:
+mechanics: "When you activate it, you fire your gun into the air with the effects of the Warning Shot feat. If you already have the Warning Shot feat, the target doesn't become temporarily immune to your Demoralize, potentially allowing you to Demoralize them again."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -74,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

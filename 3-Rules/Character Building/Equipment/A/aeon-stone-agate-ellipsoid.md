@@ -3,14 +3,14 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-item, h-line
-name: "aeon-stone-(agate-ellipsoid)"
+name: "aeon-stone-agate-ellipsoid"
 aliases: "Aeon Stone (Agate Ellipsoid)"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
-pg: ""
-rarity: ""
+pg: "121"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -25,19 +25,19 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This aeon stone allows you to cast 2nd-rank [[Spells/Augury|Augury]] as a divine innate spell once per day.  The resonant power causes the _augury_ spell from the aeon stone to always succeed at the DC 6 Flat check to give an answer other than "nothing.""
-powerTitle:
+description: "Over millennia, these mysterious, intricately cut gemstones have been hoarded by mystics and fanatics hoping to discover their secrets. Despite their myriad forms and functions, these stones are purportedly all fragments of crystal tools used by otherworldly entities to construct the universe in primeval times.  When you invest one of these precisely shaped crystals, the stone orbits your head instead of being worn on your body. You can stow an _aeon stone_ with an Interact action, and an orbiting stone can be snatched out of the air with a successful Disarm action against you. A stowed or removed stone remains invested, but its effects are suppressed until you return it to orbit your head again.  There are various types of _aeon stones_, each with a different appearance and magical effect. Each _aeon stone_ also gains a resonant power when slotted into a special magical item called a _wayfinder_."
+powerTitle: "Augury"
 actionEconomy:
 type:
 frequency:
 trigger:
-mechanics:
-powerTitle2:
+mechanics: "This aeon stone allows you to cast 2nd-rank [[Augury]] as a divine innate spell once per day."
+powerTitle2: "Resonant Power"
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
-mechanics2: "**Secondary Effect** "
+mechanics2: "The resonant power causes the _augury_ spell from the aeon stone to always succeed at the DC 6 Flat check to give an answer other than 'nothing'."
 craft:
 
 #========================================================#
@@ -74,3 +74,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

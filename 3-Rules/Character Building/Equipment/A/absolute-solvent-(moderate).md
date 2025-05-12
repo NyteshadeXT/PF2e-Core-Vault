@@ -6,11 +6,11 @@ cssclass: pf2e-item, h-line
 name: "absolute-solvent-(moderate)"
 aliases: "Absolute Solvent (Moderate)"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "295"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -25,13 +25,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Originally formulated as a means of dissolving [[Equipment/Everlasting Adhesive|Everlasting Adhesive]], this powerful solvent can break almost any adhesive's grip. As absolute solvent is particularly effective against everlasting adhesive, it automatically dissolves everlasting adhesive. It attempts to counteract any other adhesives, such as [[Equipment/Glue Bomb (Lesser)|Glue Bombs]], at 6th-rank and has a counteract modifier of +19."
-powerTitle:
-actionEconomy:
-type:
+description: 
+powerTitle: "Effect"
+actionEconomy: 1
+type: ([[manipulate]])
 frequency:
 trigger:
-mechanics:
+mechanics: "Originally formulated as a means of dissolving [[everlasting-adhesive|Everlasting Adhesive]], this powerful solvent can break almost any adhesive's grip. As absolute solvent is particularly effective against everlasting adhesive, it automatically dissolves everlasting adhesive. It attempts to counteract any other adhesives, such as [[glue-bomb-(lesser)|Glue Bomb]], at 6th-rank and has a counteract modifier of +19."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -74,3 +74,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

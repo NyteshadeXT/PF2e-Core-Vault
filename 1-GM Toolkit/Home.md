@@ -1,9 +1,9 @@
 > [!cards|4]
 > **[[5-World/Maps/Aetheria Fracta|Aetheria Fracta]]**
-> [![[The Known World.png\|hmed]]](/5-World/Maps/Aetheria%20Fracta)
+> [![[The Known World.png\|htiny]]](/5-World/Maps/Aetheria%20Fracta)
 > 
 > **[[Encounter Builder]]**
-> [![[Encounter.jpg\|hmed]]](/1-GM%20Toolkit/Encounter%20Builder)
+> [![[Encounter.jpg\|htiny]]](/1-GM%20Toolkit/Encounter%20Builder)
 >
 > **[[Link]]**
 > [![[AdventureIcon.png\|sban htiny ctr]]](Lampoteuo)

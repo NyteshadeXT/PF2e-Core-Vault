@@ -6,10 +6,10 @@ cssclass: pf2e-item, h-line
 name: "advancing"
 aliases: "Advancing"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "12"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -25,13 +25,14 @@ invest:
 usage: "etched onto heavy armor"
 license: "ORC"
 identify:
-description: "This rune charges up as you defeat your foes, driving you forward across the battlefield with every victory.  **Activate** `pf2:0` command  **Requirements** Your last action or activity reduced an enemy to 0 Hit Points  * * *  **Effect** You Stride up to 15 feet. This movement doesn't trigger reactions. You can Burrow, Climb, Fly, or Swim instead of Striding if you have the corresponding movement type."
-powerTitle:
-actionEconomy:
-type:
+description: "This rune charges up as you defeat your foes, driving you forward across the battlefield with every victory."
+powerTitle: "Advancing"
+actionEconomy: 0
+type: ([[Command]])
 frequency:
-trigger:
-mechanics:
+requirement: "Your last action or activity reduced an enemy to 0 Hit Points"
+trigger: 
+mechanics: "You Stride up to 15 feet. This movement doesn't trigger reactions. You can Burrow, Climb, Fly, or Swim instead of Striding if you have the corresponding movement type."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -74,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

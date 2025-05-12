@@ -32,6 +32,7 @@ actionEconomy:
 type: 
 frequency: 
 requirement:
+activation:
 trigger:
 mechanics: ""
 
@@ -43,6 +44,7 @@ actionEconomy2:
 type2: 
 frequency2: 
 requirement2:
+activation2:
 trigger2: 
 mechanics2: "**Secondary Effect** "
 craft: 
@@ -115,30 +117,27 @@ dv.span(`
 let rarity = dv.current().rarity;
 let traits = [];
 
-// Loop through trait01 to trait08 and add them if they exist
 for (let i = 1; i <= 8; i++) {
-  let trait = dv.current()[`trait0${i}`];
-  if (trait) {
-    traits.push(trait.toUpperCase()); // Add trait in uppercase
+  let traitValue = dv.current()[`trait0${i}`];
+  if (traitValue) {
+    traits.push(traitValue);
   }
 }
 
-// Prepare the output, starting with the rarity
-let output = [];
+let output = "";
 if (rarity) {
-  let value = rarity.toLowerCase();
-  let label = rarity.toUpperCase();
-  output.push(`[${label}](${value}.md "${rarity} Rarity Trait")`);
+  let rarityClass = rarity.toLowerCase();
+  let rarityLabel = rarity.toUpperCase();
+  output += `<span class="pf2e-rarity ${rarityClass}">${rarityLabel}</span>`;
 }
 
-// Add each trait to the same line
-traits.forEach(trait => {
-  let value = trait.toLowerCase();
-  output.push(`[${trait.toUpperCase()}](trait-${trait.toLowerCase()}.md "${trait} Item Trait")`);
+traits.forEach(t => {
+  const traitLink = `[[${t.toLowerCase()}|${t.toUpperCase()}]]`;
+  output += `<span class="pf2e-blocktrait">${traitLink}</span>`;
 });
 
-// Output the combined result
-dv.paragraph(output.join(" "));
+dv.paragraph(output);
+
 ```
 
 ```dataviewjs
@@ -162,20 +161,28 @@ if (data.armorBase != null || data.weaponBase != null) {
 }
 
 // Category (Weapon Category and Armor Category) and Weapon Type on the same line
-if (data.weaponCategory != null || data.armorCategory != null || data.weaponType != null) {
+if (data.weaponCategory || data.armorCategory || data.weaponType || data.group) {
   let parts = [];
 
-  if (data.weaponCategory != null || data.armorCategory != null) {
-    let categories = [];
-    if (data.weaponCategory != null) categories.push(data.weaponCategory);
-    if (data.armorCategory != null) categories.push(data.armorCategory);
-    parts.push("**Category** " + categories.join(" – "));
+  // Build the category string
+  let categoryParts = [];
+  if (data.weaponCategory) categoryParts.push(data.weaponCategory);
+  if (data.armorCategory) categoryParts.push(data.armorCategory);
+  if (categoryParts.length > 0) {
+    parts.push("**Category** " + categoryParts.join(" – "));
   }
 
-  if (data.weaponType != null) {
+  // Add Type
+  if (data.weaponType) {
     parts.push("**Type** " + data.weaponType);
   }
 
+  // Add Group
+  if (data.group) {
+    parts.push("**Group** " + data.group);
+  }
+
+  // Push combined line
   output.push(parts.join("; "));
 }
 
@@ -266,63 +273,70 @@ if (data.powerTitle || data.powerTitle2) {
     }
   }
 
-  function createPowerBlock(powerTitle, actionEconomy, type, frequency, requirement, trigger, mechanics) {
-    const actionEconomyOutput = getActionIconCode(actionEconomy);
+function createPowerBlock(powerTitle, actionEconomy, type, frequency, activation, requirement, trigger, mechanics) {
+  const actionEconomyOutput = getActionIconCode(actionEconomy);
 
-    const frequencyRequirementTriggerOutput = [];
+  const sectionLines = [];
 
-    if (frequency && frequency.trim() !== "") {
-      frequencyRequirementTriggerOutput.push(`**Frequency:** ${frequency}`);
-    }
-
-    if (requirement && requirement.trim() !== "") {
-      frequencyRequirementTriggerOutput.push(`**Requirements:** ${requirement}`);
-    }
-
-    if (trigger && trigger.trim() !== "") {
-      frequencyRequirementTriggerOutput.push(`**Trigger:** ${trigger}`);
-    }
-
-    const combinedOutput = frequencyRequirementTriggerOutput.length > 0 ? frequencyRequirementTriggerOutput.join("\n\n") + "\n\n" : "";
-
-    let block = `### **${powerTitle}** ${actionEconomyOutput} ${type ? type : ""}\n\n`;
-    if (combinedOutput) {
-      block += combinedOutput;
-    }
-    block += `${mechanics}\n`;
-
-    return block;
+  if (frequency && frequency.trim() !== "") {
+    sectionLines.push(`**Frequency:** ${frequency}`);
   }
+
+  if (activation && activation.trim() !== "") {
+    sectionLines.push(`**Activation:** ${activation}`);
+  }
+
+  if (requirement && requirement.trim() !== "") {
+    sectionLines.push(`**Requirements:** ${requirement}`);
+  }
+
+  if (trigger && trigger.trim() !== "") {
+    sectionLines.push(`**Trigger:** ${trigger}`);
+  }
+
+  const combinedOutput = sectionLines.length > 0 ? sectionLines.join("\n\n") + "\n\n" : "";
+
+  let block = `### **${powerTitle}** ${actionEconomyOutput} ${type ? type : ""}\n\n`;
+  if (combinedOutput) {
+    block += combinedOutput;
+  }
+  block += `${mechanics}\n`;
+
+  return block;
+}
+
 
   // Build the complete Markdown content (inside a div for the box)
   output += `\n<div class="pf2e-ability-textbox">\n\n`;
 
-  if (data.powerTitle) {
-    output += createPowerBlock(
-      data.powerTitle,
-      data.actionEconomy,
-      data.type,
-      data.frequency,
-      data.requirement,
-      data.trigger,
-      data.mechanics
-    );
-  }
+if (data.powerTitle) {
+  output += createPowerBlock(
+    data.powerTitle,
+    data.actionEconomy,
+    data.type,
+    data.frequency,
+    data.activation,
+    data.requirement,
+    data.trigger,
+    data.mechanics
+  );
+}
 
-  if (data.powerTitle2) {
-    if (data.powerTitle) {
-      output += `\n<hr class="pf2e-divider">\n\n`; // Fancy divider between powers
-    }
-    output += createPowerBlock(
-      data.powerTitle2,
-      data.actionEconomy2,
-      data.type2,
-      data.frequency2,
-      data.requirement2,
-      data.trigger2,
-      data.mechanics2
-    );
+if (data.powerTitle2) {
+  if (data.powerTitle) {
+    output += `\n<hr class="pf2e-divider">\n\n`;
   }
+  output += createPowerBlock(
+    data.powerTitle2,
+    data.actionEconomy2,
+    data.type2,
+    data.frequency2,
+    data.activation2,
+    data.requirement2,
+    data.trigger2,
+    data.mechanics2
+  );
+}
 
   output += `\n</div>\n`;
 

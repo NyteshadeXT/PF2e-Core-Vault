@@ -5,13 +5,13 @@
 cssclass: pf2e-item, h-line
 name: "addiction-suppressant-(lesser)"
 aliases: "Addiction Suppressant (Lesser)"
-source: "Pathfinder Lost Omens Legends"
-pg: ""
+source: "Treasure Vault"
+pg: "58"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -25,20 +25,20 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  When you use a dose of addiction suppressant, it suppresses the effects of that addiction for 1 day, as if you had taken an actual dose of the drug but without any of the drug's effects, and it doesn't increase the addiction DC. You also gain a +1 item bonus against the ongoing save against the drug's addiction depending on the type of addiction suppressant.  For every drug, a specific suppressant must be crafted- no generalized addiction suppressant yet exists. In order to create an addiction suppressant, you must begin with a dose of the drug to be suppressed, then use alchemical reagents to generate an elixir that can be used to fight that drug's addiction. An addiction suppressant must be a higher level than the drug it is meant to suppress in order to work."
-powerTitle:
-actionEconomy:
-type:
+description: 
+powerTitle: "Effect"
+actionEconomy: 1
+type: ([[Interact]])
 frequency:
 trigger:
-mechanics:
+mechanics: "When you use a dose of addiction suppressant, it suppresses the effects of that addiction for 1 day, as if you had taken an actual dose of the drug but without any of the drug's effects, and it doesn't increase the addiction DC. You also gain a +1 item bonus against the ongoing save against the drug's addiction depending on the type of addiction suppressant.  An addiction suppressant must be a higher level than the drug it is meant to suppress in order to work."
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "For every drug, a specific suppressant must be crafted- no generalized addiction suppressant yet exists. In order to create an addiction suppressant, you must begin with a dose of the drug to be suppressed, then use alchemical reagents to generate an elixir that can be used to fight that drug's addiction. "
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -74,3 +74,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

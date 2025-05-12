@@ -31,11 +31,69 @@
       "setFileExistsBehavior": false
     },
     {
-      "id": "1f4f2f7d-d7de-446b-b811-81a8b234b08a",
-      "name": "Test",
+      "id": "ace78dd4-2e91-4b01-a409-86c48c1bf7f8",
+      "name": "New Item",
       "type": "Template",
-      "command": false,
-      "templatePath": "",
+      "command": true,
+      "templatePath": "zz-Templates/Markdown/Insert Item.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": true
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "958a2479-ba30-41a6-bb89-e649fe7d7c4d",
+      "name": "Update Session Note",
+      "type": "Template",
+      "command": true,
+      "templatePath": "zz-Templates/Markdown/Update Session Note.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "2-Session Journals/Age-of-Worms"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "3bbeb5fd-987e-4ef3-9a1d-7fa986419e95",
+      "name": "Update Adventure YAML",
+      "type": "Template",
+      "command": true,
+      "templatePath": "zz-Templates/Markdown/Update Adventure YAML.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""

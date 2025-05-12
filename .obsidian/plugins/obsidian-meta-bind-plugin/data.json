@@ -140,6 +140,48 @@
           "command": "quickadd:choice:816fdc87-bfff-4071-9415-b39920820d96"
         }
       ]
+    },
+    {
+      "label": "New Item",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "New-Item",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:ace78dd4-2e91-4b01-a409-86c48c1bf7f8"
+        }
+      ]
+    },
+    {
+      "label": "Update Session Note",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "Update-Session",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:958a2479-ba30-41a6-bb89-e649fe7d7c4d"
+        }
+      ]
+    },
+    {
+      "label": "Update Adventure",
+      "hidden": false,
+      "class": "",
+      "tooltip": "",
+      "id": "Update-Adventure",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:3bbeb5fd-987e-4ef3-9a1d-7fa986419e95"
+        }
+      ]
     }
   ],
   "excludedFolders": [
