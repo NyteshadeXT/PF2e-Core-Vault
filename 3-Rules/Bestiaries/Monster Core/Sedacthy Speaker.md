@@ -58,6 +58,9 @@ abilities_top:
   - name: "Sea Speech"
     desc: "  A sedacthy speaking Thalassic can be understood by any animal that has a swim Speed or the amphibious or aquatic trait. By spending a week regularly interacting with such an animal, the sedacthy can make it permanently helpful."
 
+  - name: "[[Bestiary Ability Glossary/Wavesense|Wavesense (Imprecise) 30 feet]]"
+    desc: "  This sense allows a monster to feel vibrations caused by movement through a liquid. It's an imprecise sense with a limited range (listed in the ability). Wavesense functions only if monster and the subject are in the same body of liquid, and only if the subject is moving through the liquid."
+
 abilities_mid:
   - name: ""
   - name: "Speaker's Privilege"
@@ -66,17 +69,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +16 (agile)\n__Damage__  1d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+16 (agile, unarmed)\n__Damage__  1d6 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 ()\n__Damage__  1d4 bleed 1d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (unarmed)\n__Damage__  1d4 bleed 1d6 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Trident +17 (magical)\n__Damage__  1d8 + 10 piercing"
+  - name: "**Melee** `pf2:1` Trident"
+    desc: "+17 (magical)\n__Damage__  1d8 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +14 (magical, thrown 20 ft.)\n__Damage__  1d8 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+14 (magical, thrown 20 ft.)\n__Damage__  1d8 + 8 piercing"
 
   - name: "Animal Shield"
     desc: "`pf2:1`  **Requirements** The sedacthy speaker is adjacent to a Large or larger animal ally\n* * *\n\n**Effect** The speaker gains cover until the start of their next turn or when they're no longer adjacent to the animal, whichever comes first."
@@ -85,7 +88,7 @@ attacks:
     desc: "  The speaker's Strikes deal 1d6 additional damage to creatures that are [[Conditions/Frightened|Frightened]] or [[Conditions/Sickened|Sickened]]."
 
   - name: "Painful Cry"
-    desc: "`pf2:2` (mental,sonic) The sedacthy shrieks across a range of painfully high tones, dealing 3d6 sonic damage and 1d6 mental damage to all creatures in a @Template[cone|distance:30], with a DC 23 Fortitude check save. A creature that fails its save is [[Conditions/Sickened|Sickened 1]]."
+    desc: "`pf2:2` (mental,sonic) The sedacthy shrieks across a range of painfully high tones, dealing 3d6 sonic damage and 1d6 mental damage to all creatures in a 30-foot cone, with a DC 23 Fortitude check save. A creature that fails its save is [[Conditions/Sickened|Sickened 1]]."
 
   - name: "Shared Feast"
     desc: "`pf2:2`  The sedacthy makes a jaws Strike. If it hits, an ally of their choice can spend a reaction to make a jaws Strike against the same target. Allies with beaks or similar attacks can use those instead of jaws."

@@ -35,7 +35,7 @@ perception:
 languages: "Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6, Deception: +6, Nature: +5, Stealth: +6, Acrobatics: +6, Deception: +6, Nature: +5, Stealth: +6"
+    desc: "Acrobatics: +6, Deception: +6, Nature: +5, Stealth: +6"
 abilityMods: [0, 3, 0, 2, 3, 3]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Paper +8 (agile, finesse, reach 0 feet)\n__Damage__  1d8 slashing"
+  - name: "**Melee** `pf2:1` Paper"
+    desc: "+8 (agile, finesse, reach 0 feet)\n__Damage__  1d8 slashing"
 
   - name: "Change Shape"
     desc: "`pf2:1` (concentrate,polymorph,primal) Living origamis can fold themselves into a variety of tiny forms. This doesn't change its attacks but gives them a fly Speed of 30 feet if they take the shape of something with wings or a swim Speed of 30 feet if they take the shape of a fish. This ability does not grant the ability to breathe underwater."

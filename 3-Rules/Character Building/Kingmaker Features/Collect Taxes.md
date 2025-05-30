@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Collect Taxes"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/commerce
   - trait/downtime
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.77aIhr8LOfTt1QHp"
 license: OGL
 ---
 # Collect Taxes
-
+## 
 ### [[commerce]][[downtime]]
 
 **Category** kingdom-activity; 

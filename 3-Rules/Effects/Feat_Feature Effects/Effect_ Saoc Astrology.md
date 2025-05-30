@@ -16,7 +16,9 @@ license: OGL
 
 
 
-This effect grants you the selected circumstance bonus or penalty to skill checks.
+Granted by [[Feats/Saoc Astrology|Saoc Astrology]]
 
-*Source: Pathfinder Lost Omens: Character Guide*
+You gain the selected circumstance bonus or penalty to skill checks.
+
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

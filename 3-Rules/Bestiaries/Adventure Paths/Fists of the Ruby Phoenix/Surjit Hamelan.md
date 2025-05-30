@@ -62,16 +62,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Surjit can use a ranged weapon to make an Attack of Opportunity as though the weapon had a reach of 10 feet.\n\n* * *\n"
+    desc: "`pf2:r`  Surjit can use a ranged weapon to make an Attack of Opportunity as though the weapon had a reach of 10 feet.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hook Sword +26 (disarm, parry, trip, twin)\n__Damage__  2d6 + 11 slashing"
+  - name: "**Melee** `pf2:1` Hook Sword"
+    desc: "+26 (disarm, parry, trip, twin)\n__Damage__  2d6 + 11 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +28 (deadly 2d10, magical, range increment 60 feet, reload 0)\n__Damage__  3d6 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+28 (deadly 2d10, magical, range increment 60 feet, reload 0)\n__Damage__  3d6 + 11 piercing"
 
   - name: "Clear the Rain"
     desc: "`pf2:2`  Surjit Strides twice. Difficult terrain doesn't slow his movement. Any space Surjit enters becomes normal terrain rather than difficult terrain (or difficult terrain rather than greater difficult terrain) until the start of his next turn."

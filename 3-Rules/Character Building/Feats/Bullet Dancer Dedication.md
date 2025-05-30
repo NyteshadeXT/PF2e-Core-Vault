@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/uncommon
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.j1hhTLOq7o80XCyV"
-license: OGL
+license: ORC
 ---
 # Bullet Dancer Dedication
 ## Feat 2
@@ -18,11 +19,15 @@ license: OGL
 
 
 
-**Prerequisites** expert in unarmored defense and trained in simple weapons
+**Prerequisites** expert in unarmored defense
 * * *
-You've learned how to synchronize traditional martial arts and guns. You gain the [[Actions/Bullet Dancer Stance|Bullet Dancer Stance]] action and are trained in bayonets and reinforced stocks. Whenever your proficiency in any weapon increases to expert or beyond, you gain that new proficiency with bayonets, reinforced stocks, simple firearms and unarmed attacks.
+You mix guns and melee into a deadly art. You gain the Bullet Dancer Stance action. You are also granted familiarity with bayonets, reinforced stocks, martial firearms, and martial combination weapons; for the purposes of proficiency and abilities from this archetype, you treat bayonets, reinforced stocks, martial firearms, and martial combination weapons as simple weapons. You gain access to uncommon combination weapons that have a firearm ranged form.
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Bullet Dancer|Bullet Dancer]] dedication archetype.
+**[[Actions/Bullet Dancer Stance|Bullet Dancer Stance]]** `pf2:1` (stance)
+
+[[Actions/Bullet Dancer Stance]]
+
+[[PF2e Journals/Archetypes/Bullet Dancer|Bullet Dancer]]
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

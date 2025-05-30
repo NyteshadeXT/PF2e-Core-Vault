@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +26 (agile, finesse)\n__Damage__  3d6 + 11 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+26 (agile, finesse, unarmed)\n__Damage__  3d6 + 11 slashing"
 
   - name: "Innate Primal Spells"
     desc: "DC 33, attack +25; __5th __  _[[Spells/Charm|Charm (At Will)]]_, _[[Spells/Illusory Disguise|Illusory Disguise (x3)]]_"
@@ -68,7 +68,7 @@ attacks:
     desc: "`pf2:2`  **Requirements** The rivka has not attacked yet this turn\n* * *\n\n**Effect** The rivka lashes out with four of its razor-like claws. It makes four Strikes: the first at its highest attack bonus, the next two with a -4 penalty to their attack rolls, and the last one with a -8 penalty. This ability counts as four Strikes for the purpose of its multiple attack penalty."
 
   - name: "Kaiju Ray"
-    desc: "`pf2:2` (primal) The rivka opens its maw and projects a @Template[line|distance:60] of primal energy that deals 14d6 fire damage (DC 32 Reflex check save). The type of damage dealt by the ray depends on which kaiju the rivka has most recently fed from (see above). The rivka can't use Kaiju Ray again for 1d4 rounds."
+    desc: "`pf2:2` (primal) The rivka opens its maw and projects a 60-foot line of primal energy that deals 14d6 fire damage (DC 32 Reflex check save). The type of damage dealt by the ray depends on which kaiju the rivka has most recently fed from (see above). The rivka can't use Kaiju Ray again for 1d4 rounds."
  
 ```
 

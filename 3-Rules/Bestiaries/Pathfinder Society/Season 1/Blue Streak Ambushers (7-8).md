@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +15 (agile, magical, trip)\n__Damage__  1d6 + 7 slashing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+15 (agile, magical, trip)\n__Damage__  1d6 + 7 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Techno-Junk Sniper Rifle +15 (range increment 90 feet, reload 1)\n__Damage__  3d6 fire"
+  - name: "**Ranged** `pf2:1` Techno-Junk Sniper Rifle"
+    desc: "+15 (range increment 90 feet, reload 1)\n__Damage__  3d6 fire"
 
   - name: "Trick Attack"
     desc: "`pf2:1`  The ambusher musters their guile to attempt a clever attack that catches their foe unprepared. The ambusher chooses one of their weapons. The next attack with that weapon deals an extra 2d6 precision damage. In addition, the ambusher can Interact to draw the weapon (or to reload it if they choose the sniper rifle)."

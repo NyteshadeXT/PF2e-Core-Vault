@@ -66,8 +66,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +9 (agile, finesse, versatile s)\n__Damage__  1d6 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+9 (agile, finesse, versatile s)\n__Damage__  1d6 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Speak with Animals|Speak with Animals (At Will) (Arthropods Only)]]_; __1st __  _[[Spells/Bane|Bane]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"

@@ -20,5 +20,5 @@ Granted by [[Feats/Animate Net|Animate Net]]
 
 On a success, the target is [[Conditions/Off-Guard|Off-Guard]] and takes a -10-foot circumstance penalty to its Speeds until it Escapes; on a critical success, it's also [[Conditions/Immobilized|Immobilized]] until it Escapes.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

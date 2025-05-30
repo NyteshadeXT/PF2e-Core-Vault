@@ -59,16 +59,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +28 (magical, reach 10 feet)\n__Damage__  3d10 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+28 (magical, reach 10 feet, unarmed)\n__Damage__  3d10 + 12 bludgeoning"
 
   - name: "Breath Poison"
-    desc: "`pf2:2` (arcane,poison) The iron warden exhales poisonous gas in a @Template[burst|distance:10] centered on the corner of one of the iron warden's squares. The gas persists until the start of the warden's next turn. Any creature in the area (or that later enters the area) is exposed to the iron warden's poison.\n\nThe warden can't Breathe Poison again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,poison) The iron warden exhales poisonous gas in a 10-foot burst centered on the corner of one of the iron warden's squares. The gas persists until the start of the warden's next turn. Any creature in the area (or that later enters the area) is exposed to the iron warden's poison.\n\nThe warden can't Breathe Poison again for 1d4 rounds."
 
   - name: "Inexorable March"
     desc: "`pf2:1`  The iron warden Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can attempt to bar the way by succeeding at a DC 37 Fortitude check save. On a critical success, the resisting creature takes no damage; otherwise, it's damaged as if hit by the iron warden's fist."

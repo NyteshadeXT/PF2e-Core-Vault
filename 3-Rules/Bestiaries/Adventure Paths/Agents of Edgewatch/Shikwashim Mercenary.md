@@ -56,28 +56,28 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Deep Breath"
     desc: "  A Shikwashim mercenary can hold their breath for 20 minutes."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +20 (forceful, magical, sweep)\n__Damage__  2d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+20 (forceful, magical, sweep)\n__Damage__  2d6 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +19 ()\n__Damage__  1d6 + 10 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+19 (unarmed)\n__Damage__  1d6 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +19 (agile)\n__Damage__  1d4 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+19 (agile)\n__Damage__  1d4 + 10 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +19 (thrown 30 ft.)\n__Damage__  1d6 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+19 (thrown 30 ft.)\n__Damage__  1d6 + 10 piercing"
 
   - name: "Coordinated Distraction"
     desc: "`pf2:1` (auditory,concentrate,visual) With a sharp whistle or wave of their hand, the mercenary distracts an opponent so one of the mercenary's allies can land a clean blow.\n\nThe mercenary chooses a target and an ally, both of whom must be within 30 feet of the mercenary. The target is [[Conditions/Off-Guard|Off-Guard]] against the first Strike the mercenary's ally makes on its next turn; if the ally doesn't Strike that target, the effect is lost.\n\nDepending on how the mercenary distracts their foe, this action gains either the auditory or visual trait."

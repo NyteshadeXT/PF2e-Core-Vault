@@ -12,7 +12,7 @@ license: OGL
 ---
 # Chronoskimmer Dedication
 ## Feat 2
-### [rare](rare.md "Rare Rarity Trait")[[archetype]][[dedication]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[dedication]]
 
 **Category** class; 
 
@@ -23,9 +23,7 @@ You became partially unstuck from time and have learned how to manipulate your p
 
 Additionally, if your initiative roll result is tied with an opponent's initiative roll, you go first. Your manipulation of time grants you access to a number of abilities, some of which require a saving throw. The DC for these abilities is either your class DC or spell DC, whichever is higher, and is called your chronoskimmer DC.
 
-* * *
-
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Chronoskimmer|Chronoskimmer]] archetype.
+[[PF2e Journals/Archetypes/Chronoskimmer|Chronoskimmer]]
 
 * * *
 

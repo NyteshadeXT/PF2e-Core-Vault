@@ -55,17 +55,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +14 ()\n__Damage__  2d8 + 6 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+14 (unarmed)\n__Damage__  2d8 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +12 ()\n__Damage__  2d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+12 (unarmed)\n__Damage__  2d6 + 6 bludgeoning"
 
   - name: "Rhinoceros Charge"
     desc: "`pf2:2`  The rhinoceros Strides twice, then makes a horn Strike. As long as the rhinoceros moved at least 20 feet, the Strike's damage increases to 3d8+6 piercing damage. A Medium or smaller creature struck by this attack must succeed at a DC 21 Reflex check save or be automatically [[Actions/Shove|Shoved]] back 5 feet and knocked [[Conditions/Prone|Prone]] by the force of the blow."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, foot, DC 18 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Medium or smaller, foot, DC 18 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

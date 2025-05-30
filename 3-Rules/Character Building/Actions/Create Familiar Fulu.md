@@ -13,7 +13,7 @@ license: ORC
 ---
 # Create Familiar Fulu `pf2:2`
 
-### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Manipulate]]
+### [[concentrate]][[manipulate]]
 
 **Category** interaction; 
 
@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-**Effect** You make a pinching motion, and your familiar dissolves into magical energy that re-forms between your fingers as a fulu magical item. The fulu must be at least two levels lower than your level, and you don’t need to spend the normal monetary cost in magical components or attempt a Crafting check. You can then choose to [[Actions/Affix a Talisman|Affix a Talisman]] as part of this activity to affix your familiar fulu. While transformed, your familiar doesn’t grant its normal benefits, and it remains transformed until your next daily preparations or until you Activate the fulu, at which point your familiar reappears in an unoccupied space adjacent to you.
+**Effect** You make a pinching motion, and your familiar dissolves into magical energy that re-forms between your fingers as a fulu magical item. The fulu must be at least two levels lower than your level, and you don't need to spend the normal monetary cost in magical components or attempt a Crafting check. You can then choose to [[Actions/Affix a Talisman|Affix a Talisman]] as part of this activity to affix your familiar fulu. While transformed, your familiar doesn't grant its normal benefits, and it remains transformed until your next daily preparations or until you Activate the fulu, at which point your familiar reappears in an unoccupied space adjacent to you.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

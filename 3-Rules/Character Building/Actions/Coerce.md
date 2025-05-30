@@ -9,8 +9,7 @@ tags:
   - trait/exploration
   - trait/linguistic
   - trait/mental
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd"
@@ -18,14 +17,14 @@ license: ORC
 ---
 # Coerce
 
-### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Emotion]][[exploration]][[linguistic]][[3-Rules/Rule References/Mental]][[skill]]
+### [[auditory]][[concentrate]][[emotion]][[exploration]][[linguistic]][[mental]]
 
 **Category** interaction; 
 
 
 
 
-With threats either veiled or overt, you attempt to bully a creature into doing what you want. You must spend at least 1 minute of conversation with the creature. At the end of the conversation, attempt an Intimidation check against the target's Will DC, modified by any circumstances the GM determines. (The attitudes referenced in the effects below are summarized in the Changing Attitudes section at the bottom)
+With threats either veiled or overt, you attempt to bully a creature into doing what you want. You must spend at least 1 minute of conversation with the creature. At the end of the conversation, attempt an [[Actions/coerce|coerce]]{Intimidation} check against the target's Will DC, modified by any circumstances the GM determines. (The attitudes referenced in the effects below are summarized in the Changing Attitudes section at the bottom)
 
 * * *
 

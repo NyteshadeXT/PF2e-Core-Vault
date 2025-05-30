@@ -21,5 +21,5 @@ Granted by [[Feats/Dissolution's Sight|Dissolution's Sight]]
 
 You gain greater darkvision.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

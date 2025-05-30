@@ -59,19 +59,22 @@ abilities_mid:
     desc: " (aura,divine,emotion,fear,mental) 15 feet. A fallen champion emanates an aura of utter despair. Living creatures are [[Conditions/Frightened|Frightened 1]] while in a fallen champion's aura. They can't naturally recover from this fear while in the area but recover instantly once they leave the aura.\n\n[[Bestiary Effects/Effect_ Despair|Effect: Despair]]"
 
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Final Blasphemy"
     desc: " (divine,void) When the herexen is destroyed, it explodes in a wave of void energy with the effects of a 4th-rank, 3-action [[Spells/Harm|Harm]] spell (DC 26 Fortitude check). The herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Machete +20 (deadly d8, magical, sweep)\n__Damage__  2d6 + 11 slashing plus heretics-smite"
+  - name: "**Melee** `pf2:1` Machete"
+    desc: "+20 (deadly d8, magical, sweep)\n__Damage__  2d6 + 11 slashing plus heretics-smite"
 
   - name: "Divine Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Harm|Harm (x2)]]_"

@@ -19,6 +19,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_CHATTERING_JAW.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Chattering Jaws"
 level: "Creature -1"
@@ -61,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 ()\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (unarmed)\n__Damage__  1d4 + 1 piercing"
  
 ```
 

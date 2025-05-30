@@ -58,13 +58,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Aldori Dueling Sword +6 (finesse, versatile p)\n__Damage__  1d8 - 1 slashing"
+  - name: "**Melee** `pf2:1` Aldori Dueling Sword"
+    desc: "+6 (finesse, versatile p)\n__Damage__  1d8 - 1 slashing"
 
   - name: "[[Actor.xiowQvReC58NPbD5.Item.YiAJAUnLYTzQ6ys0|Unnerving Prowess]]"
     desc: "  **Trigger** Dura critically succeeds at a Strike or [[Actions/Disarm|Disarm]] with her Aldori dueling sword.\n\n**Effect** Dura attempts to [[Actions/Demoralize|Demoralize]] the target of her Strike or Disarm. This Demoralize attempt does not have the auditory trait, nor does Dura take a penalty to the check if the target doesn't understand her language."

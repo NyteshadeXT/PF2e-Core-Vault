@@ -56,19 +56,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +10 ()\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+10 ()\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heavy Crossbow +8 (range increment 120 feet, reload 2)\n__Damage__  1d10 piercing"
+  - name: "**Ranged** `pf2:1` Heavy Crossbow"
+    desc: "+8 (range increment 120 feet, reload 2)\n__Damage__  1d10 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 15, attack +7; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_"

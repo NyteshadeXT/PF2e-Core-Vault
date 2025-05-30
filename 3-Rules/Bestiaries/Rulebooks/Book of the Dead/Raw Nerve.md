@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Thoughtsense 60 feet"
@@ -60,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Nerve Ending +20 (agile, finesse, magical)\n__Damage__  2d10 + 9 electricity plus involuntary-reaction"
+  - name: "**Melee** `pf2:1` Nerve Ending"
+    desc: "+20 (agile, finesse, magical)\n__Damage__  2d10 + 9 electricity plus involuntary-reaction"
 
   - name: "Accelerating Inquest"
     desc: "`pf2:1` (concentrate,detection,occult) The raw nerve mentally probes a creature within 100 feet, attempting an Occultism check check against the creature's Will DC. On a success, the raw nerve can Step, and gains a +2 circumstance bonus to AC against that creature until the start of the raw nerve's next turn."
@@ -73,7 +76,7 @@ attacks:
     desc: "  A creature struck by a raw nerve's nerve ending strike must succeed at a DC 26 Reflex check saving throw or be unable to use reactions until the start of its next turn."
 
   - name: "Synaptic Overload"
-    desc: "`pf2:3` (incapacitation,mental,occult) The raw nerve releases a burst of mental energy in a @Template[cone|distance:30], dealing 4d12 mental damage to each creature in the cone (DC 23 Will check save).\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Stunned|Stunned 1]].\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Stunned|Stunned 2]]"
+    desc: "`pf2:3` (incapacitation,mental,occult) The raw nerve releases a burst of mental energy in a 30-foot cone, dealing 4d12 mental damage to each creature in the cone (DC 23 Will check save).\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Stunned|Stunned 1]].\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Stunned|Stunned 2]]"
  
 ```
 

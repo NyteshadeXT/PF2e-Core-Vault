@@ -16,7 +16,7 @@ license: OGL
 
 
 
-You can cast [[3-Rules/Character Building/Spells/L/Light|Light]] as a primal cantrip once within the next day.
+You can cast [[Spells/Light|Light]] as a primal cantrip once within the next day.
 
 *Source: Pathfinder #178: Punks in a Powder Keg*
 *OGL*

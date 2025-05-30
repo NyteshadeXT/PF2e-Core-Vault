@@ -59,11 +59,14 @@ abilities_top:
     desc: "[[Equipment/Leather Armor|Leather Carpenter's Apron]], [[Equipment/Hammer|Hammer]], Hand Drill, Keys to all non-secret doors on ground floor"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hand Drill +14 ()\n__Damage__  1d6 + 7 piercing 2d6 void"
+  - name: "**Melee** `pf2:1` Hand Drill"
+    desc: "+14 ()\n__Damage__  1d6 + 7 piercing 2d6 void"
 
   - name: "Drill Deeper"
     desc: "`pf2:1` (manipulate) **Requirements** Nils Kelveken hit a creature with a hand drill Strike with his previous action\n* * *\n\n**Effect** Nils grabs the drill and twists, drilling deeper into the victim. He automatically deals 1d8 piercing damage, and the creature being drilled into must succeed at a DC 22 Fortitude check save to avoid taking an additional 1d6 bleed (2d6 bleed on a critical failure)."

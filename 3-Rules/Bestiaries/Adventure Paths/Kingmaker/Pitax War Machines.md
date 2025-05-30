@@ -23,7 +23,7 @@ level: "Army 14"
 
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: siege
 modifier: 25
 perception:
@@ -31,7 +31,7 @@ perception:
   - name: "Scouting"
     desc: "+25"
   - name: "Recruitment DC"
-    desc: "; __Consumption__ 0"
+    desc: "15; __Consumption__ 1"
   - name: "Description"
     desc: "These siege weapons are positioned atop all of the city's watchtowers and afford a controlling view of all approaches."
 ac: 36

@@ -29,5 +29,5 @@ license: ORC
 
 You always have a special batch of preserved liquor ready for each day. You serve your liquor to a willing adjacent creature. The creature recovers Hit Points equal to twice your level. Additionally, for 1 hour, all Diplomacy checks to influence the creature gain a +1 status bonus.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

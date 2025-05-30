@@ -23,5 +23,5 @@ By moving your clan dagger with rapid precision, you can protect yourself more e
 
 [[Equipment Effects/Effect_ Parry|Effect: Parry]]
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

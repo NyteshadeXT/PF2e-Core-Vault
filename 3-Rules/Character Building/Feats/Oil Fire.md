@@ -15,7 +15,7 @@ license: ORC
 ---
 # Oil Fire `pf2:1`
 ## Feat 2
-### [[3-Rules/trait_reference/F/fire]][[inventor]][[manipulate]][[unstable]]
+### [[fire]][[inventor]][[manipulate]][[unstable]]
 
 **Category** class; 
 
@@ -39,5 +39,5 @@ Your armor includes flame-resistant gauntlets with oil-filled finger joints. The
 
 **Critical Failure** The target takes 1 persistent fire damage equal to your level.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

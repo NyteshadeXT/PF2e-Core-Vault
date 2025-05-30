@@ -26,7 +26,7 @@ license: OGL
 
 You've sworn yourself as a sentry for the Knights of Lastwall, the first line of defense against incursions by the Whispering Tyrant throughout Golarion. You become trained in Athletics and in Undead Lore; if you were already trained, you become an expert instead. Finally, you gain the [[Feats/Reactive Shield|Reactive Shield]] fighter feat.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Lastwall Sentry|Lastwall Sentry]] archetype.
+[[PF2e Journals/Archetypes/Lastwall Sentry|Lastwall Sentry]]
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

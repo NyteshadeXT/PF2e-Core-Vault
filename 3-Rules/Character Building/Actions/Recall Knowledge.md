@@ -5,8 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
   - trait/secret
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo"
@@ -14,7 +13,7 @@ license: ORC
 ---
 # Recall Knowledge `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]][[secret]][[skill]]
+### [[concentrate]][[secret]]
 
 **Category** interaction; 
 

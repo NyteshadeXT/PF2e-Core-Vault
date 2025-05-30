@@ -41,7 +41,7 @@ attacks:
   - name: ""
 
   - name: "Feral Roar"
-    desc: "action (auditory, fear, mental) **Trigger** A creature approaches within 10 feet of the polar bear spirit\n* * *\n\n**Effect** The polar bear spirit roars. Each creature in the room must attempt a DC 28 Will check save. The enraged polar bear spirit rolls initiative.\n* * *\n\n**Critical Success** The creature is unaffected. Success The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature takes 6d6 sonic damage and is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature takes 12d6 sonic damage and is [[Conditions/Frightened|Frightened 3]]."
+    desc: "action (auditory, fear, mental) **Trigger** A creature approaches within 10 feet of the polar bear spirit\n* * *\n\n**Effect** The polar bear spirit roars. Each creature in the room must attempt a DC 28 Will check save. The enraged polar bear spirit rolls initiative.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature takes 6d6 sonic damage and is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature takes 12d6 sonic damage and is [[Conditions/Frightened|Frightened 3]]."
   - name: "Melee"
     desc: "Spiritual Claws +21 (agile, magical) "
 

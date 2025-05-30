@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 ()\n__Damage__  1d6 + 7 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (unarmed)\n__Damage__  1d6 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +11 (two-hand d8)\n__Damage__  1d4 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+11 (two-hand d8)\n__Damage__  1d4 + 7 bludgeoning"
 
   - name: "Spontaneous Primal Spells"
-    desc: "DC 21, attack +13; __3rd __ (2 slots) _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Cleanse Affliction|Neutralize Poison]]_; __2nd __ (4 slots) _[[Spells/Environmental Endurance|Endure Elements]]_, _[[Spells/Enlarge|Enlarge]]_, _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Gecko Grip|Spider Climb]]_; __1st __ (4 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Goblin Pox|Goblin Pox]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Stabilize|Stabilize]]_"
+    desc: "DC 21, attack +13; __3rd __ (2 slots) _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Cleanse Affliction|Neutralize Poison]]_; __2nd __ (4 slots) _[[Spells/Environmental Endurance|Endure Elements]]_, _[[Spells/Enlarge|Enlarge]]_, _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Gecko Grip|Spider Climb]]_; __1st __ (4 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Goblin Pox|Goblin Pox]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Stabilize|Stabilize]]_"
  
 ```
 

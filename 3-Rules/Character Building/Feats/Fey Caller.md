@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You have learned some of the tricks the fey use to bend primal magic toward illusions and trickery. Add [[Illusory Disguise|Illusory Disguise]], [[Illusory Object|Illusory Object]], and [[Illusory Scene|Illusory Scene]] to your spell list, which you cast as primal spells.
+You have learned some of the tricks the fey use to bend primal magic toward illusions and trickery. Add [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Illusory Object|Illusory Object]], and [[Spells/Illusory Scene|Illusory Scene]] to your spell list, which you cast as primal spells.
 
 *Source: Pathfinder Player Core*
 *ORC*

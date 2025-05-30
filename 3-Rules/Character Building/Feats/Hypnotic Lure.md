@@ -15,7 +15,7 @@ license: OGL
 ---
 # Hypnotic Lure `pf2:2`
 ## Feat 5
-### [[concentrate]][[3-Rules/trait_reference/M/mental]][[nagaji]][[occult]][[visual]]
+### [[concentrate]][[mental]][[nagaji]][[occult]][[visual]]
 
 **Category** ancestry; 
 
@@ -36,5 +36,5 @@ Your unblinking gaze is so intense it can befuddle the mind of others, drawing y
 
 **Critical Failure** The target must use all its actions on its next turn to approach you. It can't Delay or take any reactions until it has reached a space that's adjacent to you (or as close to you as possible if it reaches an impassable barrier).
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

@@ -26,5 +26,5 @@ license: ORC
 
 As you fall to the ground, you transform into a white bottle, gourd, or sake jar, then roll away before anyone can pick you up. You [[Actions/Crawl|Crawl]] up to two times, and your movement doesn't provoke reactions—you somehow always roll just out of reach. When you come to a stop, you return to your tanuki form, face down on the ground.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

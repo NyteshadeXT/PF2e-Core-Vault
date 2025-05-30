@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Ka Stone Ritual
 * * *
-You gain a unique communion with the earth and stones. You learn the Terran language and you can Activate your _ka stone_ with a 10-minute activation (envision) to cast [[Speak with Stones|Speak with Stones]].
+You gain a unique communion with the earth and stones. You learn the Terran language and you can Activate your _ka stone_ with a 10-minute activation (envision) to cast [[Spells/Speak with Stones|Speak with Stones]].
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Crafter's Workshop"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.gdkQ04RgMJZ0QxbZ"
 license: OGL
 ---
 # Crafter's Workshop
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

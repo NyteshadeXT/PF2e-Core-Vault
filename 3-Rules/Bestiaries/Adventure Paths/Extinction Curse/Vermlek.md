@@ -56,6 +56,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Recoil from Wasted Opportunities"
@@ -64,14 +67,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +12 (unholy)\n__Damage__  2d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+12 (unholy)\n__Damage__  2d8 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 (agile, unholy)\n__Damage__  2d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (agile, unarmed, unholy)\n__Damage__  2d6 + 3 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +12 (unholy, versatile p)\n__Damage__  1d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+12 (unholy, versatile p)\n__Damage__  1d8 + 4 slashing"
 
   - name: "Divine Innate Spells"
     desc: "DC 19, attack +11; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_"

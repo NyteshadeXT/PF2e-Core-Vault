@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wax Stirring Stick +10 (agile, nonlethal, unarmed)\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Wax Stirring Stick"
+    desc: "+10 (agile, nonlethal, unarmed)\n__Damage__  1d6 + 5 bludgeoning"
 
   - name: "Crystaline Mutation"
     desc: "  When Darius drinks any mutagen, his teeth and fingernails grow sharp crystalline edges."
 
   - name: "Spray Hot Wax"
-    desc: "`pf2:2`  Darius sprays hot wax from his improvised wax sprayer in a @Template[cone|distance:15]. All creatures in the area must attempt a DC 20 Reflex check save. Scented candle homonoculi in the area take no damage, instead healing 2d6 healing damage. After using the hot wax cannon, Darius can't use it again until he takes two Interact actions while adjacent to the cauldron of bubbling wax to reload the sprayer.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes 2d6 fire damage.\n\n**Failure** The creature takes 3d6 fire damage plus 1d6 persistent fire damage.\n\n**Critical Failure** The creature takes 5d6 fire damage plus 2d6 persistent fire damage."
+    desc: "`pf2:2`  Darius sprays hot wax from his improvised wax sprayer in a 15-foot cone. All creatures in the area must attempt a DC 20 Reflex check save. Scented candle homonoculi in the area take no damage, instead healing 2d6 healing damage. After using the hot wax cannon, Darius can't use it again until he takes two Interact actions while adjacent to the cauldron of bubbling wax to reload the sprayer.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes 2d6 fire damage.\n\n**Failure** The creature takes 3d6 fire damage plus 1d6 persistent fire damage.\n\n**Critical Failure** The creature takes 5d6 fire damage plus 2d6 persistent fire damage."
  
 ```
 

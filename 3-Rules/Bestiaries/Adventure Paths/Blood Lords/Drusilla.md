@@ -19,6 +19,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/PZO90182_DRUSILLA.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Drusilla"
 level: "Creature 7"
@@ -52,14 +53,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 10 (Deactivated by Acid or Fire)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 ()\n__Damage__  2d8 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (unarmed)\n__Damage__  2d8 + 10 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +18 (agile, backswing)\n__Damage__  2d4 + 10 bludgeoning plus befuddling-lash"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+18 (agile, backswing)\n__Damage__  2d4 + 10 bludgeoning plus befuddling-lash"
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Holy Light|Searing Light]]_, _[[Spells/Summon Animal|Summon Animal]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __2nd __  _[[Spells/Speak with Animals|Speak with Animals (At Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
@@ -71,7 +75,7 @@ attacks:
     desc: " (curse,mental) When Drusilla damages a creature with her tail, a wave of befuddlement clouds the target's thoughts. The creature must succeed at a DC 23 Will check save or become [[Conditions/Stupefied|Stupefied 1]] ([[Conditions/Stupefied|Stupefied 2]] on a critical failure) for 1 minute."
 
   - name: "Manipulate Luck"
-    desc: "`pf2:1` (curse,primal) Drusilla touches another creature to manipulate the creature's luck. The creature must attempt a DC 25 Will check save. On a failure, Drusilla chooses good luck or bad luck. If she chooses good luck, the affected creature can roll twice on one d20 roll within the next day and use the higher result; this is a fortune effect. If Drusilla chooses bad luck, the creature must roll twice and use the lower result on its next d20 roll; this is a misfortune effect. Once Drusilla has affected a target with Manipulate Luck, that target is temporarily immune to Manipulate Luck from any huldra for 1 day.\n\n[[Campaign Effects/Effect_ Manipulate Luck - Drusilla (Good)|Effect: Manipulate Luck - Drusilla (Good)]]\n\n[[Bestiary Effects/Effect_ Manipulate Luck (Bad)|Effect: Manipulate Luck (Bad)]]"
+    desc: "`pf2:1` (curse,primal) Drusilla touches another creature to manipulate the creature's luck. The creature must attempt a DC 25 Will check save. On a failure, Drusilla chooses good luck or bad luck. If she chooses good luck, the affected creature can roll twice on one d20 roll within the next day and use the higher result; this is a fortune effect. If Drusilla chooses bad luck, the creature must roll twice and use the lower result on its next d20 roll; this is a misfortune effect. Once Drusilla has affected a target with Manipulate Luck, that target is temporarily immune to Manipulate Luck from any huldra for 1 day.\n\n[[Bestiary Effects/Effect_ Manipulate Luck - Drusilla (Good)|Effect: Manipulate Luck - Drusilla (Good)]]\n\n[[Bestiary Effects/Effect_ Manipulate Luck (Bad)|Effect: Manipulate Luck (Bad)]]"
  
 ```
 

@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Imitate Fauna|Imitate Fauna]]
+Granted by [[Spells/Imitate Fauna|Imitate Fauna]]
 
-The target gains a +4 status bonus to Deception checks to prevent other animals from seeing through their disguise
+You gain a +4 status bonus to Deception checks to prevent other animals from seeing through their disguise
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

@@ -54,22 +54,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Verdant Burst"
-    desc: " (healing) When a leaf leshy dies, a burst of primal energy explodes from its body, restoring 1d4 Hit Points to each plant creature in a @Template[emanation|distance:30]. This area is filled with tree saplings, becoming difficult terrain. If the terrain is not a viable environment for these trees, they wither after 24 hours."
+    desc: " (healing) When a leaf leshy dies, a burst of primal energy explodes from its body, restoring 1d4 healing Hit Points to each plant creature in a 30-foot emanation. This area is filled with tree saplings, becoming difficult terrain. If the terrain is not a viable environment for these trees, they wither after 24 hours."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longspear +1 (reach 10 feet)\n__Damage__  1d8 - 3 piercing"
+  - name: "**Melee** `pf2:1` Longspear"
+    desc: "+1 (reach 10 feet)\n__Damage__  1d8 - 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Seedpod +4 (range increment 30 feet)\n__Damage__  1d6 - 2 bludgeoning plus deafening-blow"
+  - name: "**Ranged** `pf2:1` Seedpod"
+    desc: "+4 (range increment 30 feet)\n__Damage__  1d6 - 2 bludgeoning plus deafening-blow"
 
   - name: "Primal Innate Spells"
     desc: "DC 12, attack +6; __4th __  _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The leaf leshy transforms into a Small tree. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The leaf leshy transforms into a Small tree. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Deafening Blow"
     desc: "  When a leaf leshy hits with its seedpod Strike, the target must attempt a DC 14 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected and temporarily immune for 24 hours.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Deafened|Deafened]] for 1 round.\n\n**Critical Failure** The target is [[Conditions/Deafened|Deafened]] for 1 minute."

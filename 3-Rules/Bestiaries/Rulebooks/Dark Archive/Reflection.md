@@ -51,8 +51,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Reflected Weapon +17 (versatile p, versatile s)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Reflected Weapon"
+    desc: "+17 (versatile p, versatile s)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Reflection Routine"
     desc: " (magical,trap) Each reflection has 2 actions which it uses to Step, Stride, or Strike (in any combination). Reflections can act on the same turn they're created."

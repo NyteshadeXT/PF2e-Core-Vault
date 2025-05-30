@@ -50,19 +50,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 30 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +7 (agile)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+7 (agile, unarmed)\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mouth Beam +6 (cold, magical, range increment 60 feet)\n__Damage__  2d4 + 1 cold"
+  - name: "**Ranged** `pf2:1` Mouth Beam"
+    desc: "+6 (cold, magical, range increment 60 feet)\n__Damage__  2d4 + 1 cold"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Barbed Net +6 (range increment 20 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Barbed Net"
+    desc: "+6 (range increment 20 feet)\n__Damage__ "
 
   - name: "Barbed Net"
     desc: "  When a crumbling automaton hits a creature with their barbed net, the net wraps around the target, which becomes [[Conditions/Clumsy|Clumsy 1]] and takes a -10-foot circumstance penalty to its Speeds. If the Strike was a critical success, the target is also [[Conditions/Immobilized|Immobilized]]. When a creature Escapes (DC 17), or if the Strike misses, the net crumbles into nothing. Each time a creature attempts to [[Actions/Escape|Escape]], it takes 1d6 slashing damage from the net's barbs, regardless of whether the attempt succeeds."

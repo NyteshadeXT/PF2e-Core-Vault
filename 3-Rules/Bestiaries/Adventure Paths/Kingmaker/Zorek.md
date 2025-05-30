@@ -55,17 +55,20 @@ abilities_top:
     desc: "[[Equipment/Spear|+2 Striking Spear]], [[Equipment/Hide Armor|+1 Resilient Hide Armor]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 10]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +32 (magical)\n__Damage__  2d6 + 8 piercing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+32 (magical)\n__Damage__  2d6 + 8 piercing 1d6 spirit"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +32 (magical, thrown 20 ft.)\n__Damage__  2d6 + 8 piercing 1d6 spirit"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+32 (magical, thrown 20 ft.)\n__Damage__  2d6 + 8 piercing 1d6 spirit"
 
   - name: "Divine Prepared Spells"
     desc: "DC 36, attack +26; __6th __  _[[Spells/Repulsion|Repulsion]]_, _[[Spells/Spirit Blast|Spirit Blast]]_; __5th __  _[[Spells/Flame Strike|Flame Strike]]_; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Weapon Storm|Weapon Storm]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Holy Light|Searing Light]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Silence|Silence]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_"

@@ -61,10 +61,16 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Orc Necksplitter|+3 Wounding Greater Striking Cleaver (Large)]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Bloody Chain Aura"
     desc: " (aura,divine) 20 feet. Chains of blood bind a bleeding creature to the Daemonic Skinner.\n\nCreatures in range that are taking [[Conditions/Persistent Damage|Persistent Bleed Damage]] can't move out of the aura.\n\nThe Skinner can have only one aura active at a time.\n\nShe can switch her active aura as an Interact action."
@@ -78,11 +84,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Cleaver +38 (forceful, magical, reach 10 feet, sweep, unholy)\n__Damage__  4d8 + 20 slashing 2d6 spirit 1d6 bleed"
+  - name: "**Melee** `pf2:1` Cleaver"
+    desc: "+38 (forceful, magical, reach 10 feet, sweep, unholy)\n__Damage__  4d8 + 20 slashing 2d6 spirit 1d6 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Blood Chain +36 (disarm, finesse, magical, reach 20 feet, trip, unholy)\n__Damage__  4d8 + 20 piercing plus grab 2d6 spirit plus grab"
+  - name: "**Melee** `pf2:1` Blood Chain"
+    desc: "+36 (disarm, finesse, magical, reach 20 feet, trip, unholy)\n__Damage__  4d8 + 20 piercing plus grab 2d6 spirit plus grab"
 
   - name: "Divine Innate Spells"
     desc: "DC 38, attack +30; __6th __ (1 slots) _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_, _[[Spells/Weapon Storm|Weapon Storm]]_; __5th __ (1 slots) _[[Spells/Translocate|Dimension Door]]_; __4th __ (1 slots) _[[Spells/Translocate|Dimension Door (At Will)]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"
@@ -94,7 +100,7 @@ attacks:
     desc: "`pf2:2`  **Requirements** The Daemonic Skinner has a creature grabbed with her blood chain or a creature is affected by her bloody chain aura\n* * *\n\n**Effect** The Skinner pulls the creature into the nearest open adjacent square and makes a cleaver Strike against the creature."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

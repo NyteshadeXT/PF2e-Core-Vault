@@ -60,20 +60,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +26 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  3d4 + 11 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+26 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  3d4 + 11 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dart +26 (agile, magical, reload 0, thrown 20 ft.)\n__Damage__  2d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dart"
+    desc: "+26 (agile, magical, reload 0, thrown 20 ft.)\n__Damage__  2d4 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Foxfire +24 (range increment 20 feet)\n__Damage__  3d4 electricity"
+  - name: "**Ranged** `pf2:1` Foxfire"
+    desc: "+24 (range increment 20 feet)\n__Damage__  3d4 electricity"
 
   - name: "Innate Divine Spells"
     desc: "DC 33, attack +25; __5th __ (1 slots) _[[Spells/Illusory Scene|Illusory Scene]]_; __1st __ (1 slots) _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(7th)__ _[[Spells/Daze|Daze]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) Ji-yook transforms into her human form. Using Change Shape counts as creating a disguise for the Impersonate use of Deception. Ji-yook can remain in her human form indefinitely, and she can shift back to her true kitsune form by using this action again.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) Ji-yook transforms into her human form. Using Change Shape counts as creating a disguise for the Impersonate use of Deception. Ji-yook can remain in her human form indefinitely, and she can shift back to her true kitsune form by using this action again.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Foxfire Blast"
     desc: "`pf2:2` (electricity,flourish,magical) Ji-yook makes a fist Strike. On a hit, the target takes an additional 3d4 electricity damage and is pushed back 10 feet. On a critical hit, the target is pushed back and then knocked [[Conditions/Prone|Prone]]"

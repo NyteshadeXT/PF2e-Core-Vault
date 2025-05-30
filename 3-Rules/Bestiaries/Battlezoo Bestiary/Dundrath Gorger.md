@@ -68,20 +68,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +17 (magical, reach 10 feet)\n__Damage__  1d8 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+17 (magical, reach 10 feet)\n__Damage__  1d8 + 9 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Trunk +17 (reach 10 feet, sweep)\n__Damage__  2d6 + 9 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Trunk"
+    desc: "+17 (reach 10 feet, sweep)\n__Damage__  2d6 + 9 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tusk +17 ()\n__Damage__  2d8 + 9 piercing plus impaling-tusk"
+  - name: "**Melee** `pf2:1` Tusk"
+    desc: "+17 ()\n__Damage__  2d8 + 9 piercing plus impaling-tusk"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +15 (magical, thrown 10 ft.)\n__Damage__  1d8 + 9 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+15 (magical, thrown 10 ft.)\n__Damage__  1d8 + 9 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +15 (thrown 30 ft.)\n__Damage__  1d6 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+15 (thrown 30 ft.)\n__Damage__  1d6 + 9 piercing"
 
   - name: "Impaling Tusk"
     desc: "  When the dundrath rolls a critical hit with its tusk Strike against a Medium or smaller creature, it impales that creature, which becomes stuck to the tusk.\n\nThe stuck creature moves with the dundrath and takes 1d6 bleed damage until it either [[Actions/Escape|Escapes]] or someone uses [[Actions/Force Open|Force Open]] to break the tusk (either is DC 24)."

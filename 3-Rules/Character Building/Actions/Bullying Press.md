@@ -4,7 +4,7 @@ title: "Bullying Press"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/flourish
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.TXqTIwNGULs3j6CH"

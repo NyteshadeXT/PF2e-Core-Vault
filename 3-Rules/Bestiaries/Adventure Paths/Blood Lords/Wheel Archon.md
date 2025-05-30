@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/PZO90183_Wheel_Archon.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Wheel Archon"
 level: "Creature 16"
@@ -56,6 +57,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "All-Knowing Eyes"
@@ -64,17 +68,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Slam +30 (holy, magical)\n__Damage__  3d12 + 14 bludgeoning 1d6 spirit"
+  - name: "**Melee** `pf2:1` Slam"
+    desc: "+30 (holy, magical, unarmed)\n__Damage__  3d12 + 14 bludgeoning 1d6 spirit"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Tongue of Flame +33 (fire, holy, magical, range 30 feet)\n__Damage__  3d4 + 8 fire 1d6 spirit"
+  - name: "**Ranged** `pf2:1` Tongue of Flame"
+    desc: "+33 (fire, holy, magical, range 30 feet)\n__Damage__  3d4 + 8 fire 1d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 37, attack +29; __8th __  _[[Spells/Antimagic Field|Antimagic Field]]_, _[[Spells/Divine Wrath|Divine Wrath]]_; __7th __  _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Flame Strike|Flame Strike]]_, _[[Spells/Scouting Eye|Prying Eye]]_; __6th __  _[[Spells/Zealous Conviction|Zealous Conviction]]_\n__Constant__  __(8th)__ _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Fiery Spokes"
-    desc: "`pf2:2` (divine,fire,holy) The wheel archon spins furiously, emitting a rain of divine fire. All creatures in a @Template[emanation|distance:60] take 12d6 fire damage and 5d6 spirit damage (DC 37 Reflex check). The wheel archon can't use Fiery Spokes for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire,holy) The wheel archon spins furiously, emitting a rain of divine fire. All creatures in a 60-foot emanation take 12d6 fire damage and 5d6 spirit damage (DC 37 Reflex check). The wheel archon can't use Fiery Spokes for 1d4 rounds."
 
   - name: "Focus Gaze"
     desc: "`pf2:1` (concentrate,divine,mental,visual) The wheel archon fixes its gaze on a creature they can see within 30 feet. The target must immediately attempt a DC 37 Will check save against the wheel archon's all-knowing eyes. If the creature is under any magical effect that disguises it or has altered its shape, the wheel archon attempts to counter that magical disguise effect (counteract +29, 8th level). After attempting its save, the creature is then temporarily immune until the start of the wheel archon's next turn."

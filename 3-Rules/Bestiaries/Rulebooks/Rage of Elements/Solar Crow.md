@@ -60,19 +60,19 @@ abilities_mid:
     desc: "`pf2:r` (light,visual) **Trigger** A creature within 120 feet attempts to target the solar crow\n* * *\n\n**Effect** The solar crow defensively repositions a wing to shine light into the attacker's eyes. The target is [[Conditions/Dazzled|Dazzled]] for the duration of the triggering effect, granting the solar crow concealment against it."
 
   - name: "Glow"
-    desc: " (aura,fire,light) 25 feet. The solar crow casts bright light in a @Template[emanation|distance:25] (and dim light for the next 25 feet)."
+    desc: " (aura,fire,light) 25 feet. The solar crow casts bright light in a 25-foot emanation (and dim light for the next 25 feet)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +22 (finesse)\n__Damage__  2d10 + 8 piercing 2d6 fire"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+22 (finesse, unarmed)\n__Damage__  2d10 + 8 piercing 2d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +22 (agile, finesse)\n__Damage__  2d6 fire plus grab 1d10 + 8 slashing plus grab"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+22 (agile, finesse, unarmed)\n__Damage__  2d6 fire plus grab 1d10 + 8 slashing plus grab"
 
   - name: "Blinding Heat"
-    desc: "`pf2:2` (fire,incapacitation,light,visual) The solar crow expands its wings and unleashes blazing hot, blinding light in a @Template[emanation|distance:120]. Each creature in the area takes 9d6 fire damage with a DC 29 Reflex check save. The crow can't use Blinding Heat again for 1d4 rounds, and its glow aura is deactivated during this time.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature takes full damage and is [[Conditions/Blinded|Blinded]] for 1 round.\n\n**Critical Failure** The creature takes double damage and is blinded for 1 minute."
+    desc: "`pf2:2` (fire,incapacitation,light,visual) The solar crow expands its wings and unleashes blazing hot, blinding light in a 120-foot emanation. Each creature in the area takes 9d6 fire damage with a DC 29 Reflex check save. The crow can't use Blinding Heat again for 1d4 rounds, and its glow aura is deactivated during this time.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature takes full damage and is [[Conditions/Blinded|Blinded]] for 1 round.\n\n**Critical Failure** The creature takes double damage and is blinded for 1 minute."
 
   - name: "Burning Talons"
     desc: "  A creature [[Conditions/Grabbed|Grabbed]] by the solar crow takes 1d4 persistent fire damage. It can't recover from this damage while grabbed by the crow."
@@ -81,7 +81,7 @@ attacks:
     desc: "  A solar crow can Fly at half Speed while it has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in its talons, carrying that creature along with it."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

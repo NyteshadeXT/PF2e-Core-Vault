@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +19 (agile, finesse, versatile p)\n__Damage__  1d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+19 (agile, finesse, versatile p)\n__Damage__  1d6 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +19 (range increment 120 feet, reload 1)\n__Damage__  2d8 + 6 piercing plus giant-scorpion-venom"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+19 (range increment 120 feet, reload 1)\n__Damage__  2d8 + 6 piercing plus giant-scorpion-venom"
 
   - name: "Running Poison Strike"
     desc: "`pf2:2`  **Frequency** three times per day\n* * *\n\n**Effect** The poisoner Strides, poisoning their weapon as they move. The poisoner moves up to their Speed and makes a melee Strike that deals 2d8 poison damage. This has no effect on a Strike that already deals poison damage."

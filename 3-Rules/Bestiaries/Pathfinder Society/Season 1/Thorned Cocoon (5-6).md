@@ -50,19 +50,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +12 (reach 10 feet)\n__Damage__  2d8 + 3 slashing"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+12 (reach 10 feet)\n__Damage__  2d8 + 3 slashing"
 
   - name: "Feed on Thoughts"
     desc: "`pf2:2` (manipulate,mental) The cocoon unravels as it envelops a Small, Medium, or Large humanoid creature that's unconscious, willing, or [[Conditions/Fascinated|Fascinated]] by Hypnotic Thrum, and that is within reach of the cocoon's tendrils, moving into the creature's space as part of this action. The creature must succeed at a DC 21 Fortitude check save or become [[Conditions/Stupefied|Stupefied 1]] and take 2d6 mental damage and 2d6 slashing damage (double damage on a critical failure). Feeding on a creature's Thoughts doesn't end fascination caused by Hypnotic Thrum."
 
   - name: "Hypnotic Thrum"
-    desc: "`pf2:2` (mental) The thorned cocoon relays Qxal's telepathic coercions in either a @Template[line|distance:30] or a @Template[cone|distance:15]. Each creature in the emanation must attempt a DC 21 Will check save. Once a creature succeeds at any save against Hypnotic Thrum, it becomes temporarily immune for 24 hours.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]]. For as long as it is fascinated, it must spend each of its actions to move closer to the thorned cocoon as expediently as possible, while avoiding obvious dangers. If the creature is adjacent to the thorned cocoon, it stays still and doesn't act.\n\n**Critical Failure** As failure, but the condition doesn't end automatically. The creature can attempt a new save at the end of each of its turns. On a success, the fascinated condition ends."
+    desc: "`pf2:2` (mental) The thorned cocoon relays Qxal's telepathic coercions in either a 30-foot line or a 15-foot cone. Each creature in the emanation must attempt a DC 21 Will check save. Once a creature succeeds at any save against Hypnotic Thrum, it becomes temporarily immune for 24 hours.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]]. For as long as it is fascinated, it must spend each of its actions to move closer to the thorned cocoon as expediently as possible, while avoiding obvious dangers. If the creature is adjacent to the thorned cocoon, it stays still and doesn't act.\n\n**Critical Failure** As failure, but the condition doesn't end automatically. The creature can attempt a new save at the end of each of its turns. On a success, the fascinated condition ends."
  
 ```
 

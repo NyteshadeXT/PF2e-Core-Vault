@@ -13,7 +13,7 @@ license: ORC
 ---
 # Starlit Sentinel Dedication
 ## Feat 2
-### [rare](rare.md "Rare Rarity Trait")[[archetype]][[dedication]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[dedication]]
 
 **Category** class; 
 
@@ -26,5 +26,5 @@ You've been chosen by one of the constellations of the Tian Xia zodiac. You gain
 
 [[PF2e Journals/Archetypes/Starlit Sentinel|Starlit Sentinel]]
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

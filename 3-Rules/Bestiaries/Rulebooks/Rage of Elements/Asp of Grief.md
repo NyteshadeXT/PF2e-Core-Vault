@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 (agile, finesse)\n__Damage__  2d12 + 10 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (agile, finesse, unarmed)\n__Damage__  2d12 + 10 piercing"
 
   - name: "Iron Grief"
     desc: "  If the asp casts magnetic acceleration while charged with grief, it can either heighten the spell to 5th rank or target up to three creatures instead of one, rolling separately against each. After casting the spell, the asp is no longer charged with grief."

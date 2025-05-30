@@ -75,8 +75,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Ectoplasmic Splash +12 (magical, range increment 30 feet)\n__Damage__  1d6 + 4 void plus ectoplasmic-dishwater"
+  - name: "**Ranged** `pf2:1` Ectoplasmic Splash"
+    desc: "+12 (magical, range increment 30 feet)\n__Damage__  1d6 + 4 void plus ectoplasmic-dishwater"
 
   - name: "Ectoplasmic Dishwater"
     desc: " (divine,poison) **Saving Throw** DC 21 Fortitude;\n* * *\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round);\n\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Sickened|Sickened 1]] (1 round);\n\n**Stage 3** 1d6 poison damage, off-guard, and [[Conditions/Sickened|Sickened 2]] (1 round)"

@@ -6,7 +6,7 @@ tags:
   - trait/arcane
   - trait/aura
   - trait/mental
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.871jo3ZGnybF6dC8"
@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Lich) Blasphemous Utterances
 
-### [[arcane]][[3-Rules/trait_reference/A/aura]][[3-Rules/trait_reference/M/mental]]
+### [[arcane]][[aura]][[mental]]
 
 **Category** defensive; 
 

@@ -60,16 +60,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Intimidating Attack of Opportunity]]"
-    desc: "`pf2:r` (emotion,fear,mental) Kralgurn's Attacks of Opportunity not only wound creatures, but also shatter their confidence. If Kralgurn hits and deals damage with an Attack of Opportunity, the target is [[Conditions/Frightened|Frightened 2]], or [[Conditions/Frightened|Frightened 4]] on a critical hit.\n\n* * *\n"
+    desc: "`pf2:r` (emotion,fear,mental) Kralgurn's Attacks of Opportunity not only wound creatures, but also shatter their confidence. If Kralgurn hits and deals damage with an Attack of Opportunity, the target is [[Conditions/Frightened|Frightened 2]], or [[Conditions/Frightened|Frightened 4]] on a critical hit.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
+
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Corrosive Whip +31 (disarm, magical, nonlethal, reach, trip)\n__Damage__  2d4 + 16 slashing 1d6 acid"
+  - name: "**Melee** `pf2:1` Corrosive Whip"
+    desc: "+31 (disarm, magical, nonlethal, reach, trip)\n__Damage__  2d4 + 16 slashing 1d6 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +27 (deadly d10, magical, range increment 60 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 12 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+27 (deadly d10, magical, range increment 60 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 12 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 34, attack +26; __4th __  _[[Spells/Enlarge|Enlarge (Self Only)]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_"

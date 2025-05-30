@@ -17,7 +17,13 @@ license: ORC
 
 
 
-Granted by [[Malignant Sustenance|Malignant Sustenance]].
+Granted by [[Spells/Malignant Sustenance|Malignant Sustenance]]
+
+You gain fast healing 7
+
+* * *
+
+**Heightened (+1)** The fast healing increases by 2.
 
 *Source: Pathfinder Player Core*
 *ORC*

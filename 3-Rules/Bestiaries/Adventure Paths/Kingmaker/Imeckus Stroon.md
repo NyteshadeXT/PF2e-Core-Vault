@@ -69,20 +69,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +24 (two-hand d8)\n__Damage__  2d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+24 (two-hand d8)\n__Damage__  2d4 + 3 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +21 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+21 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +21 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+21 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Arcane Spells Prepared"
-    desc: "DC 33, attack +23; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Scrying|Scrying]]_, _[[Spells/Teleport|Teleport]]_; __5th __  _[[Spells/Sending|Sending]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __  _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Floating Flame|Flaming Sphere]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Lock|Lock]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Light|Light]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
+  - name: "Arcane Prepared Spells"
+    desc: "DC 33, attack +23; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Scrying|Scrying]]_, _[[Spells/Teleport|Teleport]]_; __5th __  _[[Spells/Sending|Sending]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __  _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Floating Flame|Flaming Sphere]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Lock|Lock]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Light|Light]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Staff of Fire (Major)"
-    desc: "DC 33, attack +23; __5th __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __4th __  _[[Spells/Fire Shield|Fire Shield]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Floating Flame|Flaming Sphere]]_; __2nd __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Floating Flame|Flaming Sphere]]_; __1st __ (7 slots) _[[Spells/Breathe Fire|Burning Hands]]_\n__Cantrips__  __(6th)__ _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 33, attack +23; __5th __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __4th __  _[[Spells/Fire Shield|Fire Shield]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Floating Flame|Flaming Sphere]]_; __2nd __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Floating Flame|Flaming Sphere]]_; __1st __ (7 slots) _[[Spells/Breathe Fire|Burning Hands]]_\n__Cantrips__  __(6th)__ _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
 
   - name: "Drain Lintwerth"
     desc: " (arcane) **Frequency** once per day;\n\n**Requirements** Imeckus hasn't yet acted on his turn and Lintwerth is in an adjacent square\n* * *\n\n**Effect** Imeckus draws power from his bond with his familiar. During his turn, he gains the ability to cast one spell he prepared today and already cast, without spending a spell slot. He must still Cast the Spell and meet the spell's other requirements."

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You conjure the force of the tides to gain a +4 circumstance bonus to AC until the end of your next turn. You can Sustain the effect to a maximum duration of 5 rounds.
+Granted by [[Feats/Tidal Shield|Tidal Shield]]
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+You gain a +4 circumstance bonus to AC.
+
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Visap +7 (agile, finesse, injection, versatile p)\n__Damage__  1d4 slashing plus vishkanyan-venom"
+  - name: "**Melee** `pf2:1` Visap"
+    desc: "+7 (agile, finesse, injection, versatile p)\n__Damage__  1d4 slashing plus vishkanyan-venom"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 18, attack +10; __1st __ (2 slots) _[[Spells/Dizzying Colors|Dizzying Colors]]_, _[[Spells/Force Barrage|Force Barrage]]_, _[[Spells/Kinetic Ram|Kinetic Ram]]_\n__Cantrips__  __(1st)__ _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_, _[[Spells/Telekinetic Rend|Telekinetic Rend]]_"

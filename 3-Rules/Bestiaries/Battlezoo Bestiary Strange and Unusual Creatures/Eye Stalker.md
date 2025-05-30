@@ -35,7 +35,7 @@ perception:
 languages: "Aklo"
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Stealth: +15, Athletics: +17, Stealth: +15"
+    desc: "Athletics: +17, Stealth: +15"
 abilityMods: [6, 4, 4, 4, 6, 2]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +18 ()\n__Damage__  2d8 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+18 ()\n__Damage__  2d8 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile, reach 10 feet)\n__Damage__  2d4 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, reach 10 feet)\n__Damage__  2d4 + 8 slashing"
 
   - name: "Extract Eyes"
     desc: "`pf2:2` (attack,occult) The eye stalker attempts an Athletics check against the creature's Fortitude DC. On a success, it deals 2d4+8 piercing damage as it extracts one of the creature's eyes, with the optic nerves still magically functional, from its socket. On a critical success, it extracts both eyes and deals double damage. A creature with all its eyes stolen is [[undefined]] until it recovers one or more of eyes. A creature can retrieve the stolen eyes and return them to its empty socket with an Interact action. As long as they do so while the eyes last (typically within 1 week of being stolen), this instantly reattaches their eyes and restores their vision. Stories tell of creatures forced to replace their missing eyes with those from another creature robbed by an eye stalker, granting them unusual senses temporarily or permanently. This might be possible at the GM's discretion."

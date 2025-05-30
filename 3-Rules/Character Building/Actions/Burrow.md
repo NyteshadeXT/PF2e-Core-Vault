@@ -3,16 +3,15 @@ obsidianUIMode: preview
 title: "Burrow"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
   - trait/move
-  - trait/common
+  - trait/
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.H6v1VgowHaKHnVlG"
 license: ORC
 ---
 # Burrow `pf2:1`
 
-### [[general]][[move]]
+### [[move]]
 
 
 

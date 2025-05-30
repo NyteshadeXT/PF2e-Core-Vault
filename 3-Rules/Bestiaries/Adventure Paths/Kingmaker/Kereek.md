@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +11 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+11 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Arcane Spontaneous Spells"
-    desc: "DC 22, attack +14; __3rd __ (2 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Slow|Slow]]_; __2nd __ (3 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mist|Obscuring Mist]]_; __1st __ (3 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Pest Form|Pest Form]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 22, attack +14; __3rd __ (2 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Slow|Slow]]_; __2nd __ (3 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mist|Obscuring Mist]]_; __1st __ (3 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Pest Form|Pest Form]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Hurried Retreat"
     desc: "`pf2:1`  **Requirements** The kobold warrior is adjacent to at least one enemy.\n* * *\n\n**Effect** The kobold warrior Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy."

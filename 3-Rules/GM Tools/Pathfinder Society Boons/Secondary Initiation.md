@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Secondary Initiation"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.opaFl76Nbz1dITLz"
 license: OGL
 ---
 # Secondary Initiation
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

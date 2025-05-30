@@ -14,7 +14,7 @@ license: OGL
 ---
 # Alluring Performance `pf2:2`
 ## Feat 9
-### [[incapacitation]][[3-Rules/trait_reference/M/mental]][[vishkanya]][[visual]]
+### [[incapacitation]][[mental]][[vishkanya]][[visual]]
 
 **Category** ancestry; 
 
@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-You command the attention of those around you with an elegant display. Attempt a Performance check check and compare it to the Will DC of each creature in a @Template\[emanation|distance:15\].
+You command the attention of those around you with an elegant display. Attempt a Performance check check and compare it to the Will DC of each creature in a 15-foot emanation.
 
 * * *
 
@@ -38,5 +38,5 @@ You command the attention of those around you with an elegant display. Attempt a
 
 **Critical Failure** The target is unaffected.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

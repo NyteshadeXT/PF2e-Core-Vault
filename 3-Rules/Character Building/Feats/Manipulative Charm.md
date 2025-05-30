@@ -21,7 +21,7 @@ license: OGL
 * * *
 Against humanoids, you gain a +1 circumstance bonus to Deception checks to [[Actions/Lie|Lie]], and to Diplomacy checks to [[Actions/Gather Information|Gather Information]] and [[Actions/Make an Impression|Make an Impression]].
 
-Once per day, you can cast [[Charm|Charm]] as a divine innate spell using your class DC or spell DC, whichever is higher. Casting it requires staring into the target's eyes, giving the spell the visual trait. At 5th level and every 2 levels thereafter, the spell is heightened by an additional level, to a maximum of a 9th-rank charm when you are 19th level.
+Once per day, you can cast [[Spells/Charm|Charm]] as a divine innate spell using your class DC or spell DC, whichever is higher. Casting it requires staring into the target's eyes, giving the spell the visual trait. At 5th level and every 2 levels thereafter, the spell is heightened by an additional level, to a maximum of a 9th-rank charm when you are 19th level.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

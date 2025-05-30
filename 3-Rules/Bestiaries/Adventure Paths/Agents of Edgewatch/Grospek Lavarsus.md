@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Lawkeeper +19 (nonlethal, thrown 10 ft.)\n__Damage__  1d6 + 13 bludgeoning"
+  - name: "**Ranged** `pf2:1` Lawkeeper"
+    desc: "+19 (nonlethal, thrown 10 ft.)\n__Damage__  1d6 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +16 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+16 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "Furious Pacifier"
     desc: "  Lavarsus adds double his Strength modifier to any nonlethal melee Strikes he makes with a bludgeoning weapon."

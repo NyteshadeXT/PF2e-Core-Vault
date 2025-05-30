@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Ichthyosis Mutagen|Ichthyosis Mutagen]]
+Granted by [[Equipment/Ichthyosis Mutagen|Ichthyosis Mutagen]]
 
 **Benefit** For 1 minute, you gain fast healing 2 and automatically succeed at flat checks to recover from persistent bleed damage.
 

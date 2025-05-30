@@ -62,11 +62,14 @@ abilities_mid:
   - name: "Iron Mind"
     desc: "  Duergar crushers automatically disbelieve all illusions of 2nd level or lower."
 
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` War Flail +15 (disarm, magical, sweep, trip)\n__Damage__  2d10 + 5 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` War Flail"
+    desc: "+15 (disarm, magical, sweep, trip)\n__Damage__  2d10 + 5 bludgeoning plus knockdown"
 
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +10; __3rd __  _[[Spells/Enlarge|Enlarge (Self Only)]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_\n__Cantrips__  __(3rd)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -75,7 +78,7 @@ attacks:
     desc: "`pf2:1`  **Requirements** An adjacent creature is prone\n* * *\n\n**Effect** The duergar crusher stomps down on the prone creature, dealing 2d8+5 bludgeoning damage (DC 22 Reflex check save)."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

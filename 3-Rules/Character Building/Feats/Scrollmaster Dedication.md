@@ -24,9 +24,7 @@ Your experience chronicling adventures and discoveries grants you heightened dis
 
 If you have the [[Feats/Thorough Reports|Thorough Reports]] feat and have expert proficiency in the skill you're using to Recall Knowledge, your circumstance bonus to Recall Knowledge about creatures from that feat increases to +4.
 
-* * *
+[[PF2e Journals/Archetypes/Scrollmaster|Scrollmaster]]
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Scrollmaster|Scrollmaster]] archetype.
-
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

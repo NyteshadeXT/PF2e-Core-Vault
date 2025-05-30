@@ -8,8 +8,9 @@ tags:
   - trait/modification
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.wKFQreilUASJkKzV"
-license: OGL
+license: ORC
 ---
 # Collapse Construct `pf2:1`
 ## Feat 2
@@ -26,4 +27,4 @@ You've modified your construct companion and built it out of light materials, en
 In compact form, your construct can't act but is easily carried, with a Bulk of 2 if it's Small, 4 if it's Medium, or 8 if it's Large. The compact form has wheels, so you can easily drag it behind you at half your Speed (rather than the usual slower Speed for dragging).
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

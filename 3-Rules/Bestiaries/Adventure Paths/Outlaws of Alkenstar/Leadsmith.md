@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +15 ()\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+15 ()\n__Damage__  1d6 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +15 (thrown 10 ft.)\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+15 (thrown 10 ft.)\n__Damage__  1d6 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dwarven Scattergun +15 (concussive, dwarf, kickback, range increment 50 feet, reload 2, scatter 10)\n__Damage__  1d8 piercing"
+  - name: "**Ranged** `pf2:1` Dwarven Scattergun"
+    desc: "+15 (concussive, dwarf, kickback, range increment 50 feet, reload 2, scatter 10)\n__Damage__  1d8 piercing"
 
   - name: "Bully Effect"
     desc: "  The Leadsmith's melee and ranged Strikes deal an additional 2d6 bludgeoning damage to creatures that were Shoved within the past round."

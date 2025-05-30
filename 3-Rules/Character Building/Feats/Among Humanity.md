@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-Your talents in shapechanging allow you to pass unseen. When you Change Shape into your humanoid form, you gain the effects of 3rd-rank [[Illusory Disguise|Illusory Disguise]] for 1 hour or until you shift back, except it's a polymorph effect rather than an illusion.
+Your talents in shapechanging allow you to pass unseen. When you Change Shape into your humanoid form, you gain the effects of 3rd-rank [[Spells/Illusory Disguise|Illusory Disguise]] for 1 hour or until you shift back, except it's a polymorph effect rather than an illusion.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

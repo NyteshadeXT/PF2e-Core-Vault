@@ -66,8 +66,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 (agile)\n__Damage__  2d8 + 8 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (agile)\n__Damage__  2d8 + 8 bludgeoning plus grab"
 
   - name: "Primal Innate Spells"
     desc: "DC 22, attack +14; __4th __ (1 slots) _[[Spells/Mirage|Hallucinatory Terrain]]_; __2nd __ (1 slots) _[[Spells/Mist|Obscuring Mist]]_"

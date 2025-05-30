@@ -60,25 +60,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Catch Rock|Catch Rock]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Requirements** The monster must have a free hand but can [[Actions/Release|Release]] anything it's holding as part of this reaction.\n\n**Trigger** The monster is targeted with a thrown rock Strike or a rock would fall on the monster.\n* * *\n\n**Effect** The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatclub +27 (backswing, reach 10 feet, shove)\n__Damage__  3d10 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Greatclub"
+    desc: "+27 (backswing, reach 10 feet, shove)\n__Damage__  3d10 + 13 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +26 (agile, reach 10 feet)\n__Damage__  3d6 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+26 (agile, reach 10 feet, unarmed)\n__Damage__  3d6 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +23 (brutal, range increment 120 feet)\n__Damage__  2d8 + 13 bludgeoning plus rock"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+23 (brutal, range increment 120 feet)\n__Damage__  2d8 + 13 bludgeoning plus rock"
 
   - name: "Knockback"
     desc: "`pf2:1`  **Requirements** The hill giant's last action was a successful melee Strike\n\n**Effect** The hill giant's swing drives their enemy back. They push the foe back 5 feet, with the effects of a successful [[Actions/Shove|Shove]]. The hill giant can follow the foe as normal on a successful Shove."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
 
   - name: "Wide Swing"
     desc: "`pf2:1`  The hill giant makes a single greatclub Strike and compares the attack roll result to the ACs of up to two foes within its reach.\n\nThis counts as two attacks for the hill giant's multiple attack penalty."

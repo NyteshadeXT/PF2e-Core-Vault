@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/downtime
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.iBf9uGn5LOHkWpZ6"
 license: OGL
 ---
 # Craft Disharmonic Instrument
 
-### [[downtime]][[3-Rules/Rule References/Manipulate]]
+### [[downtime]][[manipulate]]
 
 **Category** interaction; 
 
@@ -37,5 +37,5 @@ This activity requires seven disharmonic heartslivers, the formula for a disharm
 
 **Critical Failure** As failure, and whenever you're on the same plane as Kothogaz, it can immediately teleport to you with its Disharmonic Door ability.
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

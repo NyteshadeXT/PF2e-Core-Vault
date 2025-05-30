@@ -59,17 +59,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +17 (agile, finesse, versatile s)\n__Damage__  2d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+17 (agile, finesse, versatile s)\n__Damage__  2d6 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +15 ()\n__Damage__  2d8 + 7 piercing"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+15 ()\n__Damage__  2d8 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +17 (agile, finesse)\n__Damage__  2d4 + 7 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+17 (agile, finesse)\n__Damage__  2d4 + 7 slashing plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +17 (range 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+17 (range 30 feet)\n__Damage__ "
 
   - name: "Dual Stab"
     desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The zecui makes two shortsword Strikes against an [[Conditions/Immobilized|Immobilized]] or [[Conditions/Off-Guard|Off-Guard]] target. These strikes count towards the zecui's multiple attack penalty, but it doesn't increase until after the second attack."
@@ -78,7 +78,7 @@ attacks:
     desc: "`pf2:1`  The zecui fuses much of their chitin into a black metallic shell. They gain resistance 5 to all damage (except mental and spirit) until they next take a move action."
 
   - name: "Spit Mucus"
-    desc: "  A creature hit by the zecui's spit attack is [[Conditions/Immobilized|Immobilized]] by the larva-infested mucus and stuck to the nearest surface until it [[/act escape dc=25]]{Escapes (DC 25)}. While that creature is immobilized, it is exposed to zecui larvae at the end of each of its turns."
+    desc: "  A creature hit by the zecui's spit attack is [[Conditions/Immobilized|Immobilized]] by the larva-infested mucus and stuck to the nearest surface until it [[Actions/escape dc=25|escape dc=25]]{Escapes (DC 25)}. While that creature is immobilized, it is exposed to zecui larvae at the end of each of its turns."
 
   - name: "Zecui Larvae"
     desc: " (disease) **Saving Throw** DC 25 Fortitude check\n* * *\n\n**Stage 1** visible lumps as the larvae move but no ill effect (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 3** [[Conditions/Drained|Drained 2]] (1 day)\n\n**Stage 4** [[Conditions/Drained|Drained 3]] and controlled by the zecui larva (1 day)\n\n**Stage 5** the creature dies and the adult zecui can emerge from the corpse as an Interact action"

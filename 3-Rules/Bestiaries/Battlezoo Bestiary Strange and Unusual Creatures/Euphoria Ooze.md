@@ -35,7 +35,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +12, Athletics: +12"
+    desc: "Athletics: +12"
 abilityMods: [5, -2, 5, -5, 0, -5]
 speed: 10 feet,  climb 10 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +14 ()\n__Damage__  2d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+14 ()\n__Damage__  2d6 + 5 bludgeoning"
 
   - name: "Euphoric Vapors"
     desc: " (aura,olfactory,poison) 15 feet. A creature that enters the aura or begins its turn there must succeed a DC 21 Fortitude check save or become [[undefined]] and [[undefined]] for 1 minute. On a success, the creature is temporarily immune for 1 minute."

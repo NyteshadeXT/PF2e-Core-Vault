@@ -24,5 +24,5 @@ You gain a +4 circumstance bonus to the DCs of checks for others to [[Actions/Se
 
 If you store a weapon in your arm, you can use a single action to Interact to draw the weapon into the hand corresponding to your internal cavity, then Strike with the weapon.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

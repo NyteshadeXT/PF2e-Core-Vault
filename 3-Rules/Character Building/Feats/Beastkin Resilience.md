@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** Werecreature Dedication; beastkin
 * * *
-You've regained beastkin protections after becoming a full werecreature. You no longer gain silver weakness from Werecreature Dedication
+You've regained beastkin protections after becoming a full werecreature. You no longer gain silver weakness from Werecreature Dedication.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

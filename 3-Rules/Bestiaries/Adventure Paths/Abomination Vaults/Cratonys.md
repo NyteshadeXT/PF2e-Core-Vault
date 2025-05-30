@@ -56,13 +56,19 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
   - name: "Painsight"
     desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed|Doomed]], [[Conditions/Dying|Dying]], and [[Conditions/Wounded|Wounded]] conditions, as well as the value of those conditions"
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 10 (Deactivated by Holy or Silver)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Unnerving Gaze"
     desc: " (aura,divine,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it sees the face of a departed loved one in place of the evangelist's face. The creature must succeed at a DC 21 Will check save or become [[Conditions/Frightened|Frightened 2]] ([[Conditions/Frightened|Frightened 3]] on a critical failure)."
@@ -70,8 +76,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Chain +17 (disarm, magical, reach 10 feet, trip, unholy)\n__Damage__  2d8 + 7 piercing plus impaling-chain,rusty-chains 1d6 bleed plus impaling-chain,rusty-chains"
+  - name: "**Melee** `pf2:1` Chain"
+    desc: "+17 (disarm, magical, reach 10 feet, trip, unholy)\n__Damage__  2d8 + 7 piercing plus impaling-chain,rusty-chains 1d6 bleed plus impaling-chain,rusty-chains"
 
   - name: "Animate Chains"
     desc: " (divine) Chains in the evangelist's vicinity sprout barbs and writhe menacingly. The evangelist can make chain Strikes against any creature that is adjacent to an unattended chain within 20 feet, in addition to those within the reach of the evangelist's chain Strike."

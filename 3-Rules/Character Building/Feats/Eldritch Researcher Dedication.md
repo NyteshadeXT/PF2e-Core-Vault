@@ -24,9 +24,7 @@ You gain the ability to cast a single arcane or occult cantrip of your choice (w
 
 Regardless of whether you choose an arcane or occult cantrip, you also become an expert in your choice of either Arcana or Occultism. You also gain a +1 circumstance bonus to checks you attempt with the chosen skill when Investigating or Identifying Magic.
 
-* * *
-
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Eldritch Researcher|Eldritch Researcher]] archetype.
+[[PF2e Journals/Archetypes/Eldritch Researcher|Eldritch Researcher]]
 
 *Source: Pathfinder #164: Hands of the Devil*
 *OGL*

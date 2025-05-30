@@ -64,17 +64,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +35 (reach 10 feet)\n__Damage__  3d10 + 17 bludgeoning plus chromatic-slam,improved-grab"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+35 (reach 10 feet, unarmed)\n__Damage__  3d10 + 17 bludgeoning plus chromatic-slam,improved-grab"
 
   - name: "Chromatic Slam"
     desc: "  The ooze's pseudopod Strikes deal an additional 2d10 damage of the same type it resists from its Chromatic Shift ability, if any."
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  3d10+13 bludgeoning damage, DC 40 Fortitude check"
+    desc: "`pf2:1`  3d10+13 bludgeoning damage, DC 40 Fortitude check\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC. A creature that fails this save falls [[Conditions/Unconscious|Unconscious]], and a creature that succeeds is then temporarily immune to falling unconscious from Greater Constrict for 1 minute."
 
   - name: "Pseudopod Eruption"
     desc: "`pf2:2`  The chromatic ooze concentrates its mass into several pseudopods, increasing its reach to 30 feet until the end of its turn. It then Strikes at up to four different creatures within its reach. This counts as two attacks for the ooze's multiple attack penalty, but the penalty doesn't increase until after it makes all the attacks."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

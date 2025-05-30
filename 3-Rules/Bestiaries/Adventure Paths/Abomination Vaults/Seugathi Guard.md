@@ -55,6 +55,12 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Longsword|Longsword]], [[Equipment/Magic Wand (2nd-Rank Spell)|Wand of See Invisibility (Level 2)]]"
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Command Confusion"
@@ -66,11 +72,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +17 (agile, finesse)\n__Damage__  2d6 + 5 piercing plus seugathi-venom"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+17 (agile, finesse)\n__Damage__  2d6 + 5 piercing plus seugathi-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +14 (reach 10 feet, versatile p)\n__Damage__  1d8 + 5 piercing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+14 (reach 10 feet, versatile p)\n__Damage__  1d8 + 5 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Levitate|Levitate]]_, _[[Spells/Mind Reading|Mind Reading (x3)]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -102,4 +108,4 @@ The most common seugathis spawned by neothelids are seugathi servants. Their mas
 
 * * *
 
-The wicked, alien [[Neothelid|Neothelids]] impregnate themselves through ritualistic magic to produce wormlike servitor creatures called seugathis. These creatures spawn with a strong psychic drive to complete some task on behalf of the neothelids' far-reaching plans. These directives are diverse, strange, and usually cruel toward humanoid life.
+The wicked, alien [[Bestiary 2/Neothelid|Neothelids]] impregnate themselves through ritualistic magic to produce wormlike servitor creatures called seugathis. These creatures spawn with a strong psychic drive to complete some task on behalf of the neothelids' far-reaching plans. These directives are diverse, strange, and usually cruel toward humanoid life.

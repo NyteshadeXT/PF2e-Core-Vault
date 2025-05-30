@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Gavel +38 (magical, unholy)\n__Damage__  4d10 + 20 bludgeoning 1d10 + 10 spirit"
+  - name: "**Melee** `pf2:1` Gavel"
+    desc: "+38 (magical, unholy)\n__Damage__  4d10 + 20 bludgeoning 1d10 + 10 spirit"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Gavel +36 (magical, range increment 100 feet, unholy)\n__Damage__  4d10 + 20 bludgeoning 1d10 + 10 spirit"
+  - name: "**Ranged** `pf2:1` Gavel"
+    desc: "+36 (magical, range increment 100 feet, unholy)\n__Damage__  4d10 + 20 bludgeoning 1d10 + 10 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 47, attack +34\n__Constant__  __(10th)__ _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"

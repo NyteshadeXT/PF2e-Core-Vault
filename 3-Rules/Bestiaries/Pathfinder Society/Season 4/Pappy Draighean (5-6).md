@@ -55,8 +55,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +11 (two-hand d8)\n__Damage__  1d4 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+11 (two-hand d8)\n__Damage__  1d4 + 8 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Invisibility|Invisibility (Self only)]]_; __1st __  _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Shillelagh|Shillelagh]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap184-the-ghouls-hunger/assets/art/PZO90184_GHOUL_RAZORCLAW.webp| ]]
 source: "Pathfinder #184: The Ghouls Hunger"
 name: "Ghoul Razorclaw"
 level: "Creature 13"
@@ -60,23 +61,26 @@ abilities_mid:
   - name: "Deny Advantage"
     desc: "  The razorclaw isn't [[Conditions/Off-Guard|Off-Guard]] to creatures of 13th level or lower that are [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], flanking, or using [[Class Features/Surprise Attack|Surprise Attack]]."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +27 (finesse)\n__Damage__  3d8 + 12 piercing plus ghoul-ghoul-fever,ghoul-paralysis"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+27 (finesse, unarmed)\n__Damage__  3d8 + 12 piercing plus ghoul-ghoul-fever,ghoul-paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +27 (agile, finesse)\n__Damage__  3d6 + 12 slashing plus adamantine-edges"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+27 (agile, finesse, unarmed)\n__Damage__  3d6 + 12 slashing plus adamantine-edges"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +27 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+27 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 10 piercing"
 
   - name: "Adamantine Edges"
     desc: "  The ghoul's claws have been dipped in adamantine. The razorclaw treats any object they hit with a claw Strike as if it had half as much Hardness and any creature they hit as if they had half as much physical resistance."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** The ghoul is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghoul devours a chunk of the corpse and regains 7d6 Hit Points.\n\nIt can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The ghoul is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghoul devours a chunk of the corpse and regains 7d6 healing Hit Points.\n\nIt can regain Hit Points from any given corpse only once."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Ghoul Fever|Ghoul Fever]]"
     desc: " (disease) **Saving Throw** DC 31 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 4d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 4d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."

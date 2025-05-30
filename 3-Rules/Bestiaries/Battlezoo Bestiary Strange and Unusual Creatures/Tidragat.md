@@ -35,7 +35,7 @@ perception:
 languages: "Common, Draconic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Arcana: +9, Athletics: +6, Deception: +9, Stealth: +11, Thievery: +11, Acrobatics: +10, Arcana: +9, Athletics: +6, Deception: +9, Stealth: +11, Thievery: +11"
+    desc: "Acrobatics: +10, Arcana: +9, Athletics: +6, Deception: +9, Stealth: +11, Thievery: +11"
 abilityMods: [1, 4, 1, 4, 1, 3]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +10 (agile, finesse)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+10 (agile, finesse)\n__Damage__  1d6 + 5 slashing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_; __1st __  _[[Spells/Invisible Item|Invisible Item (At Will)]]_"

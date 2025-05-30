@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Dyzallin can use Attack of Opportunity when a creature within his reach uses a concentrate action, in addition to the usual trigger. He can disrupt triggering concentrate actions, and he disrupts actions with a successful attack roll, not just a critical success.\n\n* * *\n"
+    desc: "`pf2:r`  Dyzallin can use Attack of Opportunity when a creature within his reach uses a concentrate action, in addition to the usual trigger. He can disrupt triggering concentrate actions, and he disrupts actions with a successful attack roll, not just a critical success.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Mirror Rejuvenation"
     desc: " (divine) When Dyzallin is destroyed, necromantic energies rebuild his body inside the mirror in his laboratory over the next 1d10 days.\n\nHis re-forming body is visible in the mirror, but the mirror can't be destroyed while he is re-forming unless a [[Spells/Consecrate|Consecrate]] ritual is first cast upon it. Once Dyzallin's rejuvenation is complete, he steps out of the mirror."
@@ -66,14 +66,17 @@ abilities_mid:
   - name: "Utter Despair"
     desc: " (aura,divine,emotion,fear,incapacitation,mental) 30 feet. Living creatures are [[Conditions/Frightened|Frightened 2]] while in Dyzallin's utter despair aura. They can't naturally recover from this fear while in the area but lose the frightened condition immediately upon leaving the area.\n\nWhen a creature first enters the aura, it must succeed at a DC 39 Will check save (after taking the penalty from being frightened) or be [[Conditions/Paralyzed|Paralyzed]] for 1d4 rounds.\n\nThe creature is then temporarily immune to the paralysis caused by the utter despair aura for 24 hours.\n\n[[Bestiary Effects/Effect_ Utter Despair|Effect: Utter Despair]]"
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +34 (agile, finesse)\n__Damage__  4d10 + 12 bludgeoning plus insidious-mummy-rot"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+34 (agile, finesse, unarmed)\n__Damage__  4d10 + 12 bludgeoning plus insidious-mummy-rot"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +36 (range increment 60 feet, reload 1)\n__Damage__  3d6 + 12 piercing plus insidious-mummy-rot"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+36 (range increment 60 feet, reload 1)\n__Damage__  3d6 + 12 piercing plus insidious-mummy-rot"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 41, attack +33; __10th __ (1 slots) _[[Spells/Freeze Time|Time Stop]]_; __9th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Foresight|Foresight]]_, _[[Spells/Overwhelming Presence|Overwhelming Presence]]_, _[[Spells/Telepathic Demand|Telepathic Demand]]_; __8th __ (4 slots) _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Confusing Colors|Scintillating Pattern]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (5 slots) _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Visions of Danger|Visions of Danger]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __ (4 slots) _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Mislead|Mislead]]_, _[[Spells/Repulsion|Repulsion]]_, _[[Spells/Truesight|True Seeing]]_; __5th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_; __4th __ (4 slots) _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Read Omens|Read Omens]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __ (4 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Clairaudience|Clairaudience]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Veil of Privacy|Nondetection]]_; __2nd __ (4 slots) _[[Spells/Augury|Augury]]_, _[[Spells/Blur|Blur]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Carryall|Floating Disk]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Item Facade|Item Facade]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_"
@@ -82,7 +85,7 @@ attacks:
     desc: "DC 41, attack +33; __8th __  _[[Spells/Moment of Renewal|Moment of Renewal]]_; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Faerie Fire|Faerie Fire (At Will)]]_\n__Cantrips__  __(10th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Commune|Commune]]_, _[[Spells/Collective Memories|Legend Lore]]_, _[[Spells/Terminate Bloodline|Terminate Bloodline]]_"
+    desc: "_Commune_, _Legend Lore_, _Terminate Bloodline_"
 
   - name: "Channel Rot"
     desc: " (divine) Dyzallin can deliver insidious mummy rot through any weapons he wields."

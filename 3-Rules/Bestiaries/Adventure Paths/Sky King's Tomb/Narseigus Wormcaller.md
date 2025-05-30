@@ -55,10 +55,16 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Staff|+1 Striking Staff]], [[Equipment/Wand of Widening (5th-Rank Spell)|Wand of Widening (5th-Rank Spell)]], [[Equipment/Religious Symbol (Silver)|Religious Symbol]]"
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 10 Feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Inexorable"
     desc: "  When Narseigus gains the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], or [[Conditions/Stunned|Stunned]] condition, roll a DC 15 Flat check. On a success, he ignores the condition."
+
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
 
   - name: "Shake It Off"
     desc: "`pf2:1` (fortune,primal) **Frequency** once per day\n\n**Trigger** Narseigus fails or critically fails a saving throw against a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n* * *\n\n**Effect** Narseigus rerolls the triggering saving throw and uses the better result."
@@ -66,11 +72,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +20 (magical, two-hand d8)\n__Damage__  2d4 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+20 (magical, two-hand d8)\n__Damage__  2d4 + 8 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +25 (reach 10 feet)\n__Damage__  1d10 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+25 (reach 10 feet)\n__Damage__  1d10 + 13 bludgeoning"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 30, attack +24; __6th __ (3 slots) _[[Spells/Dominate|Dominate]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Slow|Slow]]_; __5th __ (4 slots) _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_, _[[Spells/Vomit Swarm|Vomit Swarm]]_; __4th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Enervation|Enervation]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Translocate|Translocate]]_; __3rd __ (4 slots) _[[Spells/Haste|Haste]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Translate|Translate]]_; __2nd __ (4 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Darkness|Darkness]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __ (4 slots) _[[Spells/Alarm|Alarm]]_, _[[Spells/Command|Command]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(6th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"

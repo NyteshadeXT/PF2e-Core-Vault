@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Feats/Pain is Temporary|Pain is Temporary]]
+
 You gain resistance 10 to all damage.
 
 *Source: Pathfinder #199: To Bloom Below the Web*

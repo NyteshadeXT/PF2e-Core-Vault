@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Glaive +15 (deadly d8, forceful, magical, reach 10 feet)\n__Damage__  2d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Glaive"
+    desc: "+15 (deadly d8, forceful, magical, reach 10 feet)\n__Damage__  2d8 + 6 slashing"
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 25, attack +17; __4th __ (3 slots) _[[Spells/Divine Wrath|Divine Wrath]]_; __3rd __ (4 slots) _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Dispel Magic|Dispel Magic]]_; __2nd __ (4 slots) _[[Spells/Clear Mind|Clear Mind (Remove Frightened Only)]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Noise Blast|Noise Blast]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_; __1st __ (4 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Read Aura|Read Aura]]_"

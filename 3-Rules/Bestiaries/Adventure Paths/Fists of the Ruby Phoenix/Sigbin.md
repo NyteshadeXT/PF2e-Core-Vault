@@ -61,20 +61,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +14 (agile, finesse)\n__Damage__  2d4 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+14 (agile, finesse)\n__Damage__  2d4 + 5 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +14 (finesse)\n__Damage__  2d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+14 (finesse)\n__Damage__  2d6 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +12 (agile, finesse, reach 10 feet)\n__Damage__  2d4 + 5 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+12 (agile, finesse, reach 10 feet)\n__Damage__  2d4 + 5 bludgeoning plus knockdown"
 
   - name: "Shadow Drain"
     desc: "`pf2:2`  **Requirements** The sigbin is [[Conditions/Unnoticed|Unnoticed]] by its target.\n* * *\n\n**Effect** The sigbin makes a fangs Strike (unlike other Strikes, this does not end its [[Conditions/Invisible|invisibility]] if the sigbin is invisible). On a hit, the target takes nonlethal damage from the Strike and becomes [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical hit). The sigbin gains 15 temporary Hit Points that remain for 1 hour."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

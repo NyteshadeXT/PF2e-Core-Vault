@@ -20,5 +20,5 @@ Granted by [[Divine Intercessions/Shelyn - Major Boon|Shelyn - Major Boon]]
 
 You and your allies gain a +3 status bonus to saving throws and skill checks as long as you can see each other.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

@@ -25,5 +25,5 @@ license: OGL
 
 Your mind is a deep well of psychic potential. You regain 1 Focus Point, up to your usual maximum.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Shrink|Shrink]]
+Granted by [[Spells/Shrink|Shrink]]
 
-The target shrinks to become Tiny in size. Its equipment shrinks with it but returns to its original size if removed. The creature's reach changes to 0 feet. This spell has no effect on a Tiny creature.
+You shrink to become Tiny in size. Your equipment shrinks with you but returns to its original size if removed. Your reach changes to 0 feet.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +15 ()\n__Damage__  2d8 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+15 (unarmed)\n__Damage__  2d8 + 7 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +15 (agile)\n__Damage__  2d4 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+15 (agile, unarmed)\n__Damage__  2d4 + 7 bludgeoning"
  
 ```
 

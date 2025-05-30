@@ -68,11 +68,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) To put Chandriu to rest permanently, a hero must convince her to stop pining over Volluk with a successful DC 21 Diplomacy check check.\n\nRegardless of the result of this check, Chandriu flies into a rage and attacks, but if the Diplomacy check is successful, she is [[Conditions/Slowed|Slowed 1]] for 10 rounds while she fights. If defeated while she is slowed, she is put to rest.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +16 (agile, finesse, magical)\n__Damage__  3d8 + 4 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+16 (agile, finesse, magical)\n__Damage__  3d8 + 4 void"
 
   - name: "Despairing Cry"
     desc: "`pf2:2` (auditory,divine,emotion,mental) Chandriu wails in despair at her loss and betrayal, forcing each living creature within 30 feet to attempt a DC 24 Will check save.\n\nOn a failure, a creature becomes [[Conditions/Slowed|Slowed 1]] ([[Conditions/Slowed|Slowed 2]] on a critical failure) for 1 round as they are overcome with sadness over their own missed opportunities. On a success, a creature is temporarily immune to Chandriu's Despairing Cry for 1 minute."

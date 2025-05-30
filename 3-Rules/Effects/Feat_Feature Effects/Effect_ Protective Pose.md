@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Protective Pose|Protective Pose]]
 
-Creatures gain resistance to your choice of acid, cold, electricity, fire, or sonic damage equal to half your level.
+You gain resistance to either acid, cold, electricity, fire, or sonic damage equal to half the origin's level.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

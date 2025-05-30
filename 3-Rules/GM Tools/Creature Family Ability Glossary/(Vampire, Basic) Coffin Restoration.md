@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/divine
   - trait/void
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.FXHjmH1oce7Z3tZb"

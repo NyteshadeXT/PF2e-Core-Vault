@@ -4,14 +4,14 @@ title: "Stop"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.9gDMkIfDifh61yLz"
 license: OGL
 ---
 # Stop `pf2:1`
 
-### [[3-Rules/Rule References/Manipulate]]
+### [[manipulate]]
 
 **Category** interaction; 
 

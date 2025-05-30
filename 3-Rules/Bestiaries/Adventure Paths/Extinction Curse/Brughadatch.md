@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 ()\n__Damage__  2d10 + 9 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (unarmed)\n__Damage__  2d10 + 9 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +19 (agile)\n__Damage__  2d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+19 (agile, unarmed)\n__Damage__  2d8 + 5 slashing"
 
   - name: "Primal Innate Spells"
-    desc: "DC 28, attack +22; __4th __  _[[Spells/Charm|Charm (At-Will)]]_, _[[Spells/Confusion|Confusion]]_; __3rd __  _[[Spells/Enthrall|Enthrall (x3)]]_; __2nd __  _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_; __1st __  _[[Spells/Fear|Fear (At-Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 28, attack +22; __4th __  _[[Spells/Charm|Charm (At-Will)]]_, _[[Spells/Confusion|Confusion]]_; __3rd __  _[[Spells/Enthrall|Enthrall (x3)]]_; __2nd __  _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_; __1st __  _[[Spells/Fear|Fear (At-Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
 
   - name: "Deceitful Feast"
     desc: " (illusion) The brughadatch conjures a decadent, enticing feast void of nutritional substance. This conjuration takes 1 minute and lasts for 24 hours. For each item of illusory food a creature eats, it must attempt a DC 29 Will check save.\n* * *\n\n**Critical Success** The creature sees through the illusion and becomes immune to the effects of Deceitful Feast for 24 hours.\n\n**Success** The creature doesn't see through the illusion but is unaffected by the food.\n\n**Failure** The creature takes a -1 circumstance penalty to Will saves against any of the brughadatch's spells or abilities. The penalty increases with each failed save, to a maximum of -5.\n\n**Critical Failure** As failure, plus for 1 hour, the creature's attitude becomes helpful to the brughadatch, and the creature can't use hostile actions against them.\n\n[[Bestiary Effects/Effect_ Deceitful Feast (Failure)|Effect: Deceitful Feast (Failure)]]"
@@ -75,7 +75,7 @@ attacks:
     desc: "`pf2:1`  **Requirements** Targets must have critically failed a save against a brughadatch's Deceitful Feast or charm innate spell\n\n**Frequency** once per round\n* * *\n\n**Effect** The brughadatch feasts on the souls of the creatures they've tricked. They target up to five creatures within 30 feet and feast on their ambient brainpower, dealing 4d10 mental damage (DC 26 Will check save) to each creature. Unless a target succeeds at the Will save, this damage does not end the [[Spells/Charm|Charm]] effect or the effect of Deceitful Feast as a hostile action normally would."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

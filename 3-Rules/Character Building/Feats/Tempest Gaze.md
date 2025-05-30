@@ -22,5 +22,5 @@ license: ORC
 * * *
 Your third eye grows stronger and more powerful. When you use Storming Gaze, you can increase the area to a 30-foot cone and double the number of damage dice; half deal electricity damage, and half deal sonic damage. If you Storming Gaze in this way, you can't use it again for 1 hour.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

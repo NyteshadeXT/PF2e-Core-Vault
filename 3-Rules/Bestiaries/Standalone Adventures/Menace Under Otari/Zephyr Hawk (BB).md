@@ -3,7 +3,7 @@ title: "Zephyr Hawk (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.cBHpMcVaLRPZu9po" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.sAfjpjAS56jtrUbi" 
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/elemental
@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +11 (agile, finesse)\n__Damage__  1d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+11 (agile, finesse)\n__Damage__  1d8 + 4 slashing"
 
   - name: "Circling Attack"
     desc: "`pf2:2`  The zephyr hawk flies up to half its Speed, makes two wing Strikes, then flies up to half its Speed again to return to its original location. The second half of this movement doesn't trigger reactions like Reactive Strike. The second attack uses the same multiple attack penalty as the first, but attacks it makes after this take a -8 multiple attack penalty."

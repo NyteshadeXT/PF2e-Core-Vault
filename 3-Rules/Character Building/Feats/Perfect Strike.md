@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Student of Perfection Dedication
 * * *
-You gain the [[3-Rules/Character Building/Spells/P/Perfect Strike|Perfect Strike]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+You gain the [[Spells/Perfect Strike|Perfect Strike]] ki spell. Increase the number of Focus Points in your focus pool by 1.
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +6 (agile, finesse, versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+6 (agile, finesse, versatile s)\n__Damage__  1d4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +6 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+6 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
 
   - name: "Gang Up"
     desc: "  An enemy is [[Conditions/Off-Guard|Off-Guard]] against the Rustsworn initiate's melee attacks due to flanking as long as that enemy is within both their reach and their ally's reach."

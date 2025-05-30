@@ -20,7 +20,7 @@ license: OGL
 
 Your physical form can combine with that of your eidolon, granting benefits but limiting your capabilities.
 
-You Manifest your Eidolon, but instead of summoning it into an adjacent open space, you become it. While Manifested in this way, you use its statistics, and you can't act except to direct it to use Manifest an Eidolon to unmanifest it.
+You [[Actions/Manifest Eidolon|Manifest your Eidolon]], but instead of summoning it into an adjacent open space, you become it. You can also Meld Into Eidolon while the eidolon is already manifested as long as it's adjacent to you. While Manifested in this way, you use its statistics, and you can't act except to direct it to use Manifest an Eidolon to unmanifest it.
 
 Since you can't act, you can't Cast Spells, activate or benefit from magic items that normally benefit you and not your eidolon, perform actions that have the tandem trait, or use other abilities that require you, and not the eidolon, to act.
 

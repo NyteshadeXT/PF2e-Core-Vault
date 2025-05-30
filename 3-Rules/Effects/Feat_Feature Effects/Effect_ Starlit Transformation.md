@@ -21,5 +21,5 @@ Granted by [[Actions/Starlit Transformation|Starlit Transformation]]
 
 Your weapon gains a +1 status bonus to damage rolls. You can fling bolts of starlight from your weapon with a Strike action, using your melee attack modifier with the weapon. These bolts deal 1d4 force damage and have the arcane and force traits.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

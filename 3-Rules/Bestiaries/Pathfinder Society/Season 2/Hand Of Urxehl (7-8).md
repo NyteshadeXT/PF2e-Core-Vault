@@ -61,6 +61,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 5 (Deactivated by Holy)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Dominating Will"
     desc: " (aura,divine,fear,mental) 10 feet. A creature that enters the area must attempt a DC 28 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d6 spirit damage.\n\n**Failure** The creature takes 4d6 spirit damage and is [[Conditions/Frightened|Frightened 1]] for 1 round.\n\n**Critical Failure** The creature takes 8d6 spirit damage and is frightened 1 as long as the portal to the Abyss remains open."
 
@@ -70,8 +73,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Grasping Claw +19 (agile, reach 1,000 feet, unholy)\n__Damage__  2d12 + 17 slashing"
+  - name: "**Melee** `pf2:1` Grasping Claw"
+    desc: "+19 (agile, reach 1,000 feet, unholy)\n__Damage__  2d12 + 17 slashing"
  
 ```
 

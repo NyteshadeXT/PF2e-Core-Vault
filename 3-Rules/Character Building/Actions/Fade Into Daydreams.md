@@ -6,7 +6,7 @@ tags:
   - trait/illusion
   - trait/psyche
   - trait/psychic
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.AJeLwbQBt1YH3S6v"
 license: OGL

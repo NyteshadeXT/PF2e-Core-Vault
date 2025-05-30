@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Relocate Capital"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/leadership
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.XaK0Q9fda8IiIvrz"
 license: OGL
 ---
 # Relocate Capital
-
+## 
 ### [[downtime]][[leadership]]
 
 **Category** kingdom-activity; 

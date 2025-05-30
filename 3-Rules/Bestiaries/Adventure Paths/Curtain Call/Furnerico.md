@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +28 (reach 10 feet)\n__Damage__  3d12 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+28 (reach 10 feet, unarmed)\n__Damage__  3d12 + 14 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acidic Slime +25 (range 60 feet)\n__Damage__  3d6 acid 4d6 acid"
+  - name: "**Ranged** `pf2:1` Acidic Slime"
+    desc: "+25 (range 60 feet)\n__Damage__  3d6 acid 4d6 acid"
 
   - name: "Feast on Illness"
     desc: "`pf2:1` (occult) **Requirements** The furnerico's last action was a successful pseudopod Strike against a creature with the [[Conditions/Sickened|Sickened]] condition\n* * *\n\n**Effect** The furnerico feeds off the sweet sickness of the creature, gaining 30 temporary hit points for 1 minute."

@@ -36,7 +36,7 @@ perception:
 languages: "Aklo, Chthonian, Common, Goblin, Varisian"
 skills:
   - name: "Skills"
-    desc: "Athletics: +14, Intimidation: +4, Medicine: +12, Nature: +12, Stealth: +12"
+    desc: "Athletics: +14, Intimidation: +14, Medicine: +12, Nature: +12, Stealth: +12"
 abilityMods: [4, 2, 5, 2, 1, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder #200: Seven Dooms for Sandpoint_"
@@ -56,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Rejuvenation|Rejuvenation]]"
     desc: " (divine) When a graveknight is destroyed, its armor rebuilds its body over the course of 1d10 days-or more quickly if the armor is worn by a living host. If the body is destroyed before then, the process restarts.\n\nA graveknight can only be permanently destroyed by obliterating its armor (such as with [[Spells/Disintegrate|Disintegrate]]), transporting it to the Forge of Creation, or throwing it into the heart of a volcano."
@@ -64,14 +64,17 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Graveknight) Sacrilegious Aura|Sacrilegious Aura]]"
     desc: " (aura,divine) 30 feet. When a creature in the aura uses a vitality spell or ability, the graveknight automatically attempts to counteract it, with a counteract modifier of +13."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dogslicer +15 (agile, backstabber, finesse, goblin, magical)\n__Damage__  1d6 bleed 2d6 + 4 slashing 1d6 fire"
+  - name: "**Melee** `pf2:1` Dogslicer"
+    desc: "+15 (agile, backstabber, finesse, goblin, magical)\n__Damage__  1d6 bleed 2d6 + 4 slashing 1d6 fire"
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Devastating Blast|Devastating Blast]]"
-    desc: "`pf2:2` (arcane,cold) The graveknight unleashes a @Template[cone|distance:30] of energy. Creatures in the area take 4d12 fire damage (DC 24 Reflex check save).\n\nThe graveknight can use this ability once every 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) The graveknight unleashes a 30-foot cone of energy. Creatures in the area take 4d12 fire damage (DC 24 Reflex check save).\n\nThe graveknight can use this ability once every 1d4 rounds."
 
   - name: "Dogslicer Cruelty"
     desc: "  On a critical hit with a dogslicer, Ripnugget yanks bits of flesh from his victim as he rips the blade free. The target becomes [[Conditions/Sickened|Sickened 1]] from the pain, and is [[Conditions/Off-Guard|Off-Guard]] as long as they remain sickened."

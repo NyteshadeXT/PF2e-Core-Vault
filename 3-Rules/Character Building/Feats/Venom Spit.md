@@ -22,5 +22,5 @@ You've learned the art of lobbing toxic spittle at vulnerable spots on your foes
 
 **Special** If you have the hooded nagaji heritage, in addition to your venomous spit's normal critical hit effect, the target is also [[Conditions/Dazzled|Dazzled]] until the start of your next turn.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

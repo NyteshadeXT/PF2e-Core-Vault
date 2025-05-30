@@ -56,14 +56,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +19 (two-hand d8)\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+19 (two-hand d8)\n__Damage__  1d4 + 6 bludgeoning"
 
   - name: "Primal Spontaneous Spells"
     desc: "DC 29, attack +21; __5th __ (2 slots) _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __ (2 slots) _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_, _[[Spells/Ice Storm|Ice Storm]]_; __3rd __ (2 slots) _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __ (3 slots) _[[Spells/Create Food|Create Food]]_, _[[Spells/Environmental Endurance|Endure Elements]]_, _[[Spells/Water Walk|Water Walk]]_; __1st __ (4 slots) _[[Spells/Air Bubble|Air Bubble]]_, _[[Spells/Create Water|Create Water]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(5th)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Light|Light]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Stabilize|Stabilize]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Reincarnate|Reincarnate]]_, _[[Spells/Summerland Spell|Summerland Spell]]_"
+    desc: "_Reincarnate_, _Summerland Spell_"
 
   - name: "Child of Winter"
     desc: "  When Jesseri Casts a Spell that deals damage and doesn't have a duration, she deals additional cold damage that's equal to the spell's rank and ignores cold resistance 10."

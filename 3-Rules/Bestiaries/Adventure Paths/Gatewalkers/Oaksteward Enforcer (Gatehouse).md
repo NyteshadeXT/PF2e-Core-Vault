@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +6 (two-hand d8)\n__Damage__  1d4 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+6 (two-hand d8)\n__Damage__  1d4 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heavy Crossbow +5 (range increment 120 feet, reload 2)\n__Damage__  1d10 piercing"
+  - name: "**Ranged** `pf2:1` Heavy Crossbow"
+    desc: "+5 (range increment 120 feet, reload 2)\n__Damage__  1d10 piercing"
 
   - name: "Primal Prepared Spells"
     desc: "DC 16, attack +8; __1st __  _[[Spells/Runic Body|Magic Fang]]_, _[[Spells/Shillelagh|Shillelagh]]_\n__Cantrips__  __(1st)__ _[[Spells/Light|Light]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

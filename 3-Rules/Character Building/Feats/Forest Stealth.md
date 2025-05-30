@@ -25,5 +25,5 @@ license: OGL
 
 You are skilled at quickly hiding behind bits of underbrush or foliage. You [[Actions/Take Cover|Take Cover]] and then use that cover to [[Actions/Hide|Hide]].
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

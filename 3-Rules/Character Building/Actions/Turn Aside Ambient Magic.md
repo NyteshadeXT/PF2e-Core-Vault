@@ -12,7 +12,7 @@ license: ORC
 ---
 # Turn Aside Ambient Magic `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]]
+### [[concentrate]]
 
 **Category** defensive; 
 

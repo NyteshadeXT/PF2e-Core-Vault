@@ -56,16 +56,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +23 (reach 15 feet)\n__Damage__  2d12 + 13 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+23 (reach 15 feet, unarmed)\n__Damage__  2d12 + 13 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile, reach 15 feet)\n__Damage__  2d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, reach 15 feet, unarmed)\n__Damage__  2d8 + 13 slashing"
 
   - name: "Eerie Flexibility"
     desc: "  Despite its size, the gug's multiple joints allow it to fit through tight spaces as if it were a Medium creature. While [[Actions/Squeeze|Squeezing]], it can move at its full Speed."
@@ -74,7 +74,7 @@ attacks:
     desc: "`pf2:2`  The gug makes up to four claw Strikes, each against a different target. These attacks all count toward the gug's multiple attack penalty, but the penalty doesn't increase until after the gug makes all its attacks."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n\n* * *\n"
+    desc: "`pf2:1`  Claw\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
  
 ```
 

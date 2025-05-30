@@ -4,11 +4,12 @@ title: "Effect: Deadweight Snare (Success)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.NYOi1F9cW3axHrdc"
-license: OGL
+license: ORC
 ---
 # Effect: Deadweight Snare (Success)
-## Level 1
+## Level 2
 ### 
 
 
@@ -16,7 +17,9 @@ license: OGL
 
 
 
-The creature takes a -1 status penalty to attack rolls for 1 round or until it Escapes (DC 18).
+Granted by [[Equipment/Deadweight Snare|Deadweight Snare]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
-*OGL*
+You take a -1 status penalty to attack rolls.
+
+*Source: Pathfinder Player Core 2*
+*ORC*

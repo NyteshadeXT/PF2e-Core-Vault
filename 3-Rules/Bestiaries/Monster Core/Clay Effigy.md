@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +24 (magical, reach 10 feet, sanctified)\n__Damage__  2d6 spirit 2d10 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+24 (magical, reach 10 feet, sanctified, unarmed)\n__Damage__  2d6 spirit 2d10 + 6 bludgeoning"
 
   - name: "Cast Out"
-    desc: "`pf2:2` (divine,sanctified,spirit) A @Template[emanation|distance:20] of spiritual energy pushes against intruders, as though trying to drive their souls away. Each creature in the area takes 8d6 spirit damage depending on a DC 29 Will check save.\n\nThe clay effigy can't Cast Out again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and 3d6 persistent spirit damage. The persistent damage ends if the creature moves over 60 feet from the clay effigy or the effigy is destroyed.\n\n**Critical Failure** As failure, except the persistent damage is increased to 6d6 persistent spirit."
+    desc: "`pf2:2` (divine,sanctified,spirit) A 20-foot emanation of spiritual energy pushes against intruders, as though trying to drive their souls away. Each creature in the area takes 8d6 spirit damage depending on a DC 29 Will check save.\n\nThe clay effigy can't Cast Out again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and 3d6 persistent spirit damage. The persistent damage ends if the creature moves over 60 feet from the clay effigy or the effigy is destroyed.\n\n**Critical Failure** As failure, except the persistent damage is increased to 6d6 persistent spirit."
 
   - name: "Heavy Stride"
     desc: "`pf2:2`  The clay effigy Strides and can move through the spaces of Medium and smaller creatures. Each creature it moves through must succeed at a DC 29 Reflex check save or be knocked [[Conditions/Prone|Prone]]."

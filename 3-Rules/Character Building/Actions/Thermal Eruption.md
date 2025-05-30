@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/fire
   - trait/primal
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.cx5tBTy6weK6YSw9"
 license: OGL
 ---
 # Thermal Eruption `pf2:2`
 
-### [[3-Rules/Rule References/Fire]][[primal]]
+### [[fire]][[primal]]
 
 **Category** offensive; 
 
@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-**Effect** You concentrate your thermal energy and explode it outward. All creatures in a @Template\[emanation|distance:20\] take 14d6 fire damage with a basic Reflex save. Afterward, you lose all effects of the Dormant Eruption feat until your next daily preparations.
+**Effect** You concentrate your thermal energy and explode it outward. All creatures in a 20-foot emanation take 14d6 fire damage with a basic Reflex save. Afterward, you lose all effects of the Dormant Eruption feat until your next daily preparations.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

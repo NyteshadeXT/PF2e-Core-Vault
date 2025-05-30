@@ -60,23 +60,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 (reach 10 feet)\n__Damage__  2d12 + 9 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (reach 10 feet, unarmed)\n__Damage__  2d12 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (agile)\n__Damage__  2d8 + 9 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (agile, unarmed)\n__Damage__  2d8 + 9 slashing"
 
   - name: "Capsize"
     desc: "`pf2:1` (attack) The dragon turtle tries to capsize an adjacent aquatic vessel of their size or smaller. The dragon turtle must succeed at a DC 30 Athletics check check (reduce the DC by 5 for each size smaller than the dragon turtle) or the pilot's Sailing Lore DC, whichever is higher."
 
   - name: "Conjure Storm"
-    desc: "`pf2:1` (air,aura,primal,water) The dragon turtle summons a mighty storm to rage around themself. The area in a @Template[emanation|distance:30] around the turtle becomes difficult terrain for all other flying and swimming creatures. The dragon turtle can end the storm by taking this action again."
+    desc: "`pf2:1` (air,aura,primal,water) The dragon turtle summons a mighty storm to rage around themself. The area in a 30-foot emanation around the turtle becomes difficult terrain for all other flying and swimming creatures. The dragon turtle can end the storm by taking this action again."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon turtle makes two Claw Strikes and one Jaws Strike in any order."
 
   - name: "Tsunami"
-    desc: "`pf2:2` (primal,water) The dragon turtle unleashes their destructive prowess by creating a massive growing wave that deals 7d6 bludgeoning damage in a @Template[cone|distance:60] (DC 27 Reflex check save). The wave's damage increases by 10 for creatures who are more than 30 feet away. A creature that fails its save is knocked [[Conditions/Prone|Prone]].\n\nThe dragon turtle can't use Tsunami again for 1d4 rounds."
+    desc: "`pf2:2` (primal,water) The dragon turtle unleashes their destructive prowess by creating a massive growing wave that deals 7d6 bludgeoning damage in a 60-foot cone (DC 27 Reflex check save). The wave's damage increases by 10 for creatures who are more than 30 feet away. A creature that fails its save is knocked [[Conditions/Prone|Prone]].\n\nThe dragon turtle can't use Tsunami again for 1d4 rounds."
  
 ```
 

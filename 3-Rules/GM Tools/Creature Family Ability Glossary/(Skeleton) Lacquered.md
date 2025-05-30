@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Skeleton) Lacquered"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.ZRHUnhaHK2w1el8f"
 license: OGL

@@ -59,16 +59,22 @@ abilities_top:
   - name: "Painsight"
     desc: " (divine) A precentor automatically knows whether a creature it sees has any of the [[Conditions/Doomed|Doomed]], [[Conditions/Dying|Dying]], and [[Conditions/Wounded|Wounded]] conditions, as well as the value of those conditions."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 25 (Deactivated by Holy or Silver)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Unnerving Gaze"
     desc: " (aura,divine,mental,visual) 30 feet. When a creature ends its turn in the aura, it must succeed at a DC 38 Will check save or become [[Conditions/Doomed|Doomed 1]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +31 (agile, finesse, reach 10 feet, unholy)\n__Damage__  4d10 + 6 slashing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+31 (agile, finesse, reach 10 feet, unarmed, unholy)\n__Damage__  4d10 + 6 slashing 1d6 bleed"
 
   - name: "Divine Innate Spells"
     desc: "DC 38, attack +30; __9th __  _[[Spells/Wails of the Damned|Wail of the Banshee]]_; __8th __  _[[Spells/Harm|Harm]]_, _[[Spells/Interplanar Teleport|Plane Shift (At Will) (Self Only) (to the Universe or Netherworld only)]]_; __5th __  _[[Spells/Noise Blast|Sound Burst (At Will)]]_, _[[Spells/Synesthesia|Synesthesia (At Will)]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Sigil|Sigil]]_\n__Constant__  __(8th)__ _[[Spells/Hidden Mind|Mind Blank]]_ __(6th)__ _[[Spells/Fly|Fly]]_, _[[Spells/Truesight|True Seeing]]_"

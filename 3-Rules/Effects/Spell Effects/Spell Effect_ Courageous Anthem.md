@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Courageous Anthem|Courageous Anthem]]
+Granted by [[Spells/Courageous Anthem|Courageous Anthem]]
 
 You gain a +1 status bonus to attack rolls, damage rolls, and saves against fear effects.
 

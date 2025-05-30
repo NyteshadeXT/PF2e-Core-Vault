@@ -11,7 +11,7 @@ aliases: "Compendium.pf2e.feats-srd.Item.AO3qHCGDU552NEIj"
 license: ORC
 ---
 # Kin Hunter
-## Feat 1
+## Feat 5
 ### [[yaoguai]]
 
 **Category** ancestry; 
@@ -22,5 +22,5 @@ license: ORC
 * * *
 You're adept at combating other supernatural creatures. When you succeed at a Recall Knowledge check using Occultism or Yaoguai Lore, you gain a +1 circumstance bonus to damage with weapons and unarmed attacks against that creature and all creatures of the exact same type for the next minute. If your attack would deal more than one weapon die of damage (as is common at higher levels than 1st), the bonus is equal to the number of weapon dice or unarmed attack dice. Additionally, you gain a +1 circumstance bonus to saving throws against their abilities for the next minute. For example, if you're facing three jiang-shi, you would gain these bonuses against all three of them.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

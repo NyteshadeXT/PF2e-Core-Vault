@@ -31,5 +31,5 @@ Your ranged attacks push your foes away from your allies. Make a ranged Strike, 
 
 **Failure** The target is [[Conditions/Off-Guard|Off-Guard]] for 1 round.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

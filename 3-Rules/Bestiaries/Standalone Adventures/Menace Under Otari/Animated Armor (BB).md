@@ -3,10 +3,11 @@ title: "Animated Armor (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.cZDiyluplFqRxmGy" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.CFlx1tkRxKC9qAC7" 
 tags:
   - pf2e/creature/type/construct
   - pf2e/creature/type/mindless
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -25,12 +26,13 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "construct"
-trait_02: "mindless"
+trait_01: [[construct]]
+trait_02: [[mindless]]
 modifier: 6
 perception:
   - name: "Perception"
     desc: "+6; Darkvision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Athletics: +9"
@@ -57,12 +59,18 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +11 (magical, versatile p)\n__Damage__  1d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+11 (magical, versatile p)\n__Damage__  1d8 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Armored Fist +9 (agile, magical)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Armored Fist"
+    desc: "+9 (agile, magical)\n__Damage__  1d6 + 4 bludgeoning"
  
+```
+
+```encounter-table
+name: Animated Armor (BB)
+creatures:
+  - 1: Animated Armor (BB)
 ```
 
 

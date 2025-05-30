@@ -67,26 +67,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +17 (magical, versatile p)\n__Damage__  2d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+17 (magical, versatile p)\n__Damage__  2d8 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +16 ()\n__Damage__  1d10 + 6 piercing 1d6 fire"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+16 ()\n__Damage__  1d10 + 6 piercing 1d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +16 (agile)\n__Damage__  1d10 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+16 (agile, unarmed)\n__Damage__  1d10 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +16 (reach 10 feet)\n__Damage__  1d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+16 (reach 10 feet)\n__Damage__  1d8 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thrown Rock +15 (thrown 20 ft., deadly d6)\n__Damage__  2d6 + 6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Thrown Rock"
+    desc: "+15 (thrown 20 ft.)\n__Damage__  2d6 + 6 bludgeoning"
 
   - name: "Divine Prepared Spells"
-    desc: "DC 25, attack +17; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Floating Flame|Flaming Sphere]]_; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 25, attack +17; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Floating Flame|Flaming Sphere]]_; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine,fire) The priest breathes fire that deals 7d6 fire damage in a @Template[cone|distance:30] (DC 23 Reflex check save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire) The priest breathes fire that deals 7d6 fire damage in a 30-foot cone (DC 23 Reflex check save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Shrieking Frenzy"
     desc: " (primal) **Trigger** The charau-ka's turn begins.\n\n**Frequency** once per hour\n* * *\n\n**Effect** The charau-ka dragon priest is [[Conditions/Quickened|Quickened]] until the end of its turn, and can use the extra action to Stride or Strike. While in the frenzy, the dragon priest can't speak and automatically critically fails Stealth checks, due to its loud wailing."
@@ -95,7 +95,7 @@ attacks:
     desc: "  Any weapon a charau-ka dragon priest throws gains the deadly d6 weapon trait. Furthermore, when a dragon priest throws an improvised weapon, it does not take the -2 penalty for doing so, nor does it take a penalty for using a thrown improvised weapon with the nonlethal trait to make a lethal attack."
 
   - name: "Volcanic Eruption"
-    desc: "`pf2:3` (divine,fire) **Requirement** The priest is standing on the ground.\n* * *\n\n**Effect** The priest slams his fists into the ground, causing fire to erupt from the earth. Each non-worshipper of Dahak standing on the ground in a @Template[emanation|distance:15] must succeed at a DC 25 Reflex check save or fall [[Conditions/Prone|Prone]] and take 1d6 bludgeoning damage and 2d6 fire damage."
+    desc: "`pf2:3` (divine,fire) **Requirement** The priest is standing on the ground.\n* * *\n\n**Effect** The priest slams his fists into the ground, causing fire to erupt from the earth. Each non-worshipper of Dahak standing on the ground in a 15-foot emanation must succeed at a DC 25 Reflex check save or fall [[Conditions/Prone|Prone]] and take 1d6 bludgeoning damage and 2d6 fire damage."
  
 ```
 

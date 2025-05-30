@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Barding of the Zephyr|Barding of the Zephyr]]
+Granted by [[Equipment/Barding of the Zephyr|Barding of the Zephyr]]
 
 You trace a finger along the wind motifs on the barding, granting your companion wearing the barding a fly Speed of 30 feet for 10 minutes. Even if the companion doesn't have the mount special ability, it can still Fly while being ridden.
 

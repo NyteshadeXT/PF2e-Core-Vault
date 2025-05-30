@@ -5,14 +5,15 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/magical
   - trait/spellshot
-  - trait/common
+  - trait/
   - category/offensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.TSDbyYRQwhIyY2Oq"
-license: OGL
+license: ORC
 ---
 # Energy Shot `pf2:0`
 
-### [[3-Rules/Rule References/Magical]][[spellshot]]
+### [[magical]][[spellshot]]
 
 **Category** offensive; 
 
@@ -28,4 +29,4 @@ You unleash a small surge of magical energy into your weapon, shrouding the bull
 [[Feat_Feature Effects/Effect_ Energy Shot|Effect: Energy Shot]]
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

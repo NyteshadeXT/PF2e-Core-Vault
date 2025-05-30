@@ -21,5 +21,5 @@ license: OGL
 * * *
 You keep hold of your weapons even when knocked out. You gain a +2 circumstance bonus to your Reflex DC when defending against checks to Disarm you. In addition, when you fall unconscious, you don't drop any weapons that you're currently wielding, though somebody else can remove them from you.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

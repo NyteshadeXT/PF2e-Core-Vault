@@ -3,8 +3,7 @@ obsidianUIMode: preview
 title: "Take Cover"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz"
@@ -12,7 +11,7 @@ license: ORC
 ---
 # Take Cover `pf2:1`
 
-### [[general]]
+### 
 
 **Category** interaction; 
 

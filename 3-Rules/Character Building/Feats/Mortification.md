@@ -21,5 +21,5 @@ license: OGL
 * * *
 Your reckonings have prepared your body for physical punishment. Choose bludgeoning, piercing, or slashing damage, based on the nature of your physical reckonings. You gain resistance to the chosen damage type equal to your number of class feats from the Hellknight Armiger archetype and other Hellknight archetypes.
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

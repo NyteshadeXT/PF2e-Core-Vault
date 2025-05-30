@@ -12,9 +12,11 @@ tags:
   - trait/mental
   - trait/common
   - tradition/arcane
+  - tradition/occult
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.pBevG6bSQOiyflev" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Befuddle  `pf2:2`"
@@ -30,7 +32,7 @@ columnWidth: x
 abilities_top:
   - name: ""
   - name: "Traditions"
-    desc: "arcane"
+    desc: "arcane, occult"
   - name: "Range"
     desc: "30 feet; **Targets** 1 creature"
   - name: "Defense"
@@ -39,6 +41,6 @@ abilities_top:
     desc: "1 round"
 abilities_mid:
   - name: ""
-    desc: "You sow seeds of confusion in your target's mind, causing their actions and thoughts to become clumsy.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Stupefied|Stupefied 1]].\n\n**Failure** The target is [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied 2]].\n\n**Critical Failure** The target is [[Conditions/Clumsy|Clumsy 3]], [[Conditions/Stupefied|Stupefied 3]], and [[Conditions/Confused|Confused]]."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+    desc: "You sow seeds of confusion in your target's mind, causing its actions and thoughts to become clumsy.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Stupefied|Stupefied 1]].\n\n**Failure** The target is [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied 2]].\n\n**Critical Failure** The target is [[Conditions/Clumsy|Clumsy 3]], [[Conditions/Stupefied|Stupefied 3]], and [[Conditions/Confused|Confused]]."
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

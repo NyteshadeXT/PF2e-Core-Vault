@@ -3,15 +3,14 @@ obsidianUIMode: preview
 title: "Avert Gaze"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
-  - trait/common
+  - trait/
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.UWdRX1VelipCzrCg"
 license: ORC
 ---
 # Avert Gaze `pf2:1`
 
-### [[general]]
+### 
 
 
 

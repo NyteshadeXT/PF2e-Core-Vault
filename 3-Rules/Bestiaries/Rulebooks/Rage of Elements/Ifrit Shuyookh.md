@@ -54,6 +54,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Scimitar|+2 Striking Scimitar]], [[Equipment/Breastplate|+1 Resilient Breastplate]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Exploit Regret"
@@ -65,11 +68,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +31 (fire, forceful, magical, reach 10 feet, sweep)\n__Damage__  2d6 + 16 slashing 4d6 fire"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+31 (fire, forceful, magical, reach 10 feet, sweep)\n__Damage__  2d6 + 16 slashing 4d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +29 (agile, magical, reach 10 feet)\n__Damage__  1d4 + 16 bludgeoning 4d6 fire"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+29 (agile, magical, reach 10 feet, unarmed)\n__Damage__  1d4 + 16 bludgeoning 4d6 fire"
 
   - name: "Arcane Innate Spells"
     desc: "DC 35, attack +27; __7th __  _[[Compendium.pf2e.spells-srd.Item.nRINcQb81Wt4KeFu|Interplanar Teleport (At Will; To Astral Plane, Elemental Planes, or the Universe Only)]]_, _[[Spells/Volcanic Eruption|Volcanic Eruption]]_; __5th __  _[[Spells/Fire's Pathway|Fire's Pathway]]_, _[[Spells/Fireball|Fireball (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (x2)]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ignition|Ignition]]_, _[[Spells/Illuminate|Illuminate]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
@@ -78,7 +81,7 @@ attacks:
     desc: " (fire) When the ifrit Grabs or restrains a creature, that creature takes 4d6 fire damage, and takes 4d6 fire damage at the end of each of its turns until freed."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The shuyookh transforms into a Small or Medium fire elemental or reptile, such as a snake. This doesn't affect the shuyookh's statistics, but it could change the damage type of their Strikes."
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The shuyookh transforms into a Small or Medium fire elemental or reptile, such as a snake. This doesn't affect the shuyookh's statistics, but it could change the damage type of their Strikes.\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Combat Grab"
     desc: "`pf2:1`  **Requirements** The ifrit shuyookh has a hand free\n* * *\n\n**Effect** The shuyookh makes a melee Strike. If the Strike hits, the target is [[Conditions/Grabbed|Grabbed]] in the shuyookh's free hand."

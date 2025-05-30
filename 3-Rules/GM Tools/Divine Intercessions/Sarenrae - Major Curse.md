@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Sarenrae - Major Curse"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/curse
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.DuGA57MDiwEKp7Y1"
 license: OGL
 ---
 # Sarenrae - Major Curse
-
+## Feat 1
 ### 
 
 **Category** curse; 
@@ -25,5 +25,5 @@ You deal minimum damage except against fiends and undead.
 
 All creatures except fiends and undead gain a +4 status bonus to their AC and saving throws against your attacks and other effects.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

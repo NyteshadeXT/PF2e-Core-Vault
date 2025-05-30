@@ -12,7 +12,7 @@ license: ORC
 ---
 # Accommodating Mount
 ## Feat 5
-### [[Centaur]]
+### [[centaur]]
 
 **Category** ancestry; 
 

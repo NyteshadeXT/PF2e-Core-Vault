@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Granted by [[Cheetah's Elixir (Lesser)|Cheetah's Elixir (Lesser)]]
+Granted by [[Equipment/Cheetah's Elixir (Lesser)|Cheetah's Elixir (Lesser)]]
+
+You gain a +5 foot status bonus to your Speed.
 
 *Source: Pathfinder GM Core*
 *ORC*

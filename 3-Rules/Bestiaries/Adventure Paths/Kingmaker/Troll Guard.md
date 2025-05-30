@@ -57,8 +57,11 @@ abilities_top:
     desc: "[[Equipment/Battle Axe|+1 Striking Battle Axe]], [[Equipment/Full Plate|+2 Resilient Full Plate]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 40 (Deactivated by Acid or Fire)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Vigorous Shake"
     desc: "`pf2:r`  **Trigger** The troll guard takes [[Conditions/Persistent Damage|Persistent]] acid or fire damage.\n* * *\n\n**Effect** The troll guard shakes itself to remove persistent acid or fire effects. The troll guard immediately attempts a DC 15 Flat check check to end the persistent damage that triggered this reaction. If the troll guard succeeds at this check, it can immediately use Primordial Roar as part of this reaction."
@@ -66,23 +69,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +31 (reach 10 feet, sweep)\n__Damage__  4d8 + 16 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+31 (reach 10 feet, sweep)\n__Damage__  4d8 + 16 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +30 (reach 10 feet)\n__Damage__  3d12 + 16 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+30 (reach 10 feet, unarmed)\n__Damage__  3d12 + 16 piercing"
 
   - name: "Axe Critical Specialization"
     desc: "  The troll guard has access to axe critical specialization effects."
 
   - name: "Forced Regeneration"
-    desc: "`pf2:1` (concentrate) **Requirements** The troll guard's regeneration is not currently deactivated.\n* * *\n\n**Effect** The guard king regains 20 HP."
+    desc: "`pf2:1` (concentrate) **Requirements** The troll guard's regeneration is not currently deactivated.\n* * *\n\n**Effect** The guard king regains 20 healing HP."
 
   - name: "Primordial Roar"
     desc: "`pf2:1` (auditory,emotion,fear,mental) The troll guard unleashes a bestial roar. Each non-troll creature within 100 feet must attempt a DC 35 Will check save. The creature is then temporarily immune for 10 minutes.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]]\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]]\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]]"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Battleaxe\n\n* * *\n"
+    desc: "`pf2:1`  Battleaxe\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
 
   - name: "Twin Chop"
     desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The troll guard lashes out at two foes with its axes. The troll guard attempts two battleaxe Strikes, each of which must target a different foe within reach. These attacks count toward the troll's multiple attack penalty, but the multiple attack penalty doesn't increase until after the troll makes both attacks."

@@ -19,6 +19,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/pzo90186 kemnebi&#x27;sPuppet.webp| ]]
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Kemnebi's Puppet"
 level: "Creature 16"
@@ -58,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +32 (agile)\n__Damage__  3d6 + 15 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+32 (agile, unarmed)\n__Damage__  3d6 + 15 bludgeoning plus grab"
 
   - name: "Gang Up"
     desc: "  Kemnebi's puppets work together to take down more powerful foes. A puppet's Strikes deal an additional 4d6 damage against a creature that's [[Conditions/Grabbed|Grabbed]] by at least one of the puppet's allies."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

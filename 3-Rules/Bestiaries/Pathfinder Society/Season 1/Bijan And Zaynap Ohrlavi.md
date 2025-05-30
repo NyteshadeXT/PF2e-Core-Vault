@@ -61,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +15 (agile, finesse, magical, trip)\n__Damage__  1d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+15 (agile, finesse, magical, trip)\n__Damage__  1d6 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Moderate Acid Flask +16 (range increment 20 feet, splash)\n__Damage__  1 acid 2d6 acid 2 acid"
+  - name: "**Ranged** `pf2:1` Moderate Acid Flask"
+    desc: "+16 (range increment 20 feet, splash)\n__Damage__  1 acid 2d6 acid 2 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Moderate Bottled Lightning +16 (range increment 20 feet, splash)\n__Damage__  2d6 electricity 2 electricity"
+  - name: "**Ranged** `pf2:1` Moderate Bottled Lightning"
+    desc: "+16 (range increment 20 feet, splash)\n__Damage__  2d6 electricity 2 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Moderate Frost Vial +16 (range increment 20 feet, splash)\n__Damage__  2d6 cold 2 cold"
+  - name: "**Ranged** `pf2:1` Moderate Frost Vial"
+    desc: "+16 (range increment 20 feet, splash)\n__Damage__  2d6 cold 2 cold"
 
   - name: "Alchemist Goggles"
     desc: "  The alchemist's [[Equipment/Alchemist Goggles|Alchemist Goggles]] allow them to ignore lesser cover when making Strikes with alchemical bombs."

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You are granted a +2 item bonus to Diplomacy checks made in the language granted by Server's Stew for 1 hour.
+Granted by [[Equipment/Server's Stew|Server's Stew]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+You are granted a +2 item bonus to Diplomacy checks made in the language granted by Server's Stew.
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

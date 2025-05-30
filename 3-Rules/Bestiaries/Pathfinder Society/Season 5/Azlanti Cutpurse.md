@@ -60,17 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +12 (agile, finesse, versatile s)\n__Damage__  1d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+12 (agile, finesse, versatile s)\n__Damage__  1d6 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +12 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+12 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +12 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+12 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +12 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  2d6 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+12 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  2d6 + 5 piercing"
 
   - name: "Quick Draw"
     desc: "`pf2:1`  An Azlanti cutpurse Interacts to draw a weapon, then Strikes with that weapon."

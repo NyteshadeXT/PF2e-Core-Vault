@@ -7,14 +7,14 @@ tags:
   - trait/concentrate
   - trait/linguistic
   - trait/mental
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.mluc8JLd20HjGrqu"
 license: OGL
 ---
 # Convince Mengkare
 
-### [[auditory]][[concentrate]][[linguistic]][[3-Rules/trait_reference/M/mental]]
+### [[auditory]][[concentrate]][[linguistic]][[mental]]
 
 **Category** interaction; 
 

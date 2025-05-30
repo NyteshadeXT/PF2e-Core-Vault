@@ -21,5 +21,5 @@ license: OGL
 * * *
 Your spines grow back much faster than other shisks. You can use the [[Actions/Barbed Quills|Barbed Quills]] reaction once every 10 minutes.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

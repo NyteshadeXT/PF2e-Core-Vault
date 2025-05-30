@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +7 (shove)\n__Damage__  1d8 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+7 (shove)\n__Damage__  1d8 + 4 bludgeoning"
 
   - name: "Big Thwunk"
     desc: "`pf2:2`  The guard makes a melee Strike with their warhammer. On a successful hit, the target is pushed back 5 feet, with the effects of a successful Shove. If the target is [[Conditions/Off-Guard|Off-Guard]], then the guard can follow the foe."

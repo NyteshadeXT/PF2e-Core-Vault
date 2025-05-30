@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Constrict"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-ability-glossary-srd.Item.g26YiEIfSHCpLocV"

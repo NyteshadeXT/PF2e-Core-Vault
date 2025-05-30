@@ -3,8 +3,7 @@ obsidianUIMode: preview
 title: "Invest an Item"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.lvqPQDdWT2DDO0k2"
@@ -12,7 +11,7 @@ license: ORC
 ---
 # Invest an Item
 
-### [[general]]
+### 
 
 **Category** interaction; 
 

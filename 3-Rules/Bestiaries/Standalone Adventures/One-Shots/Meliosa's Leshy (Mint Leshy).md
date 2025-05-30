@@ -53,13 +53,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Verdant Burst"
-    desc: " (healing) When a leshy dies, a burst of primal energy explodes from its body, restoring 2d8 Hit Points to each plant creature within a @Template[emanation|distance:30]. This area is filled with plants of the same type as the leshy, becoming difficult terrain. If the terrain isn't a viable environment for these plants, they wither after 24 hours."
+    desc: " (healing) When a leshy dies, a burst of primal energy explodes from its body, restoring 2d8 healing Hit Points to each plant creature within a 30-foot emanation. This area is filled with plants of the same type as the leshy, becoming difficult terrain. If the terrain isn't a viable environment for these plants, they wither after 24 hours."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +10 (agile, finesse)\n__Damage__  1d8 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+10 (agile, finesse, unarmed)\n__Damage__  1d8 + 4 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 16, attack +8; __4th __  _[[Spells/Speak with Plants|Speak with Plants]]_"
@@ -68,7 +68,7 @@ attacks:
     desc: "`pf2:1` (concentrate,polymorph,primal) The leshy transforms into a Small plant. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]]."
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:2`  DC 18 Reflex check, 1d6 bludgeoning plus 1d6 poison damage, Escape DC 18, Rupture 6\n\n* * *\n"
+    desc: "`pf2:2`  DC 18 Reflex check, 1d6 bludgeoning plus 1d6 poison damage, Escape DC 18, Rupture 6\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of any creatures in its path. Any creature of the monster's size or smaller whose space the monster moves through can attempt a Reflex save with the listed DC to avoid being engulfed. A creature unable to act automatically critically fails this save. If a creature succeeds at its save, it can choose to be either pushed aside (out of the monster's path) or pushed in front of the monster to the end of the monster's movement. The monster can attempt to Engulf the same creature only once in a single use of Engulf. The monster can contain as many creatures as can fit in its space.\n\nA creature that fails its save is pulled into the monster's body. It is [[Conditions/Grabbed|Grabbed]], is [[Conditions/Slowed|Slowed 1]], and has to hold its breath or start suffocating. The creature takes the listed amount of damage when first engulfed and at the end of each of its turns while it's engulfed. An engulfed creature can get free by [[Actions/Escape|Escaping]] against the listed escape DC. An engulfed creature can attack the monster engulfing it, but only with unarmed attacks or with weapons of light Bulk or less. The engulfing creature is [[Conditions/Off-Guard|Off-Guard]] against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the engulfed creature cuts itself free.\n\n[[Bestiary Effects/Effect_ Engulf and Swallow Whole|Effect: Engulf and Swallow Whole]]\n\nA creature that gets free by either method can immediately breathe and exits the swallowing monster's space.\n\nIf the monster dies, all creatures it has engulfed are automatically released as the monster's form loses cohesion."
  
 ```
 

@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 ()\n__Damage__  1d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (unarmed)\n__Damage__  1d8 + 3 piercing"
 
   - name: "Pack Attack"
     desc: "  The floolf's attack deals 1d8 extra damage to creatures within the reach of at least two of floolf's allies."

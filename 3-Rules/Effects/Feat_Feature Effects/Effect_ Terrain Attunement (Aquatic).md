@@ -8,7 +8,7 @@ aliases: "Compendium.pf2e.feat-effects.Item.pkWudzFWfKnggT1f"
 license: OGL
 ---
 # Effect: Terrain Attunement (Aquatic)
-## Level 1
+## Level 2
 ### 
 
 

@@ -35,7 +35,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +27, Occultism: +22, Stealth: +27, Acrobatics: +27, Occultism: +22, Stealth: +27"
+    desc: "Acrobatics: +27, Occultism: +22, Stealth: +27"
 abilityMods: [-5, 7, 0, 4, 5, 7]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dimensional Shear +24 ()\n__Damage__  3d8 + 11 force plus dimension-rend 2d6 fire plus dimension-rend"
+  - name: "**Melee** `pf2:1` Dimensional Shear"
+    desc: "+24 ()\n__Damage__  3d8 + 11 force plus dimension-rend 2d6 fire plus dimension-rend"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dimensional Slice +24 (range increment 30 feet)\n__Damage__  3d6 + 11 force 1d6 fire"
+  - name: "**Ranged** `pf2:1` Dimensional Slice"
+    desc: "+24 (range increment 30 feet)\n__Damage__  3d6 + 11 force 1d6 fire"
 
   - name: "Dimension Rend"
     desc: " (incapacitation,occult) A creature hit by a between's dimensional shear Strike must attempt a DC 29 Will check save as the between tries to rip away the creature's dimensions. The creature is then temporarily immune to dimension rend for 1 minute.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[undefined]] for 1 round.\n\n**Critical Failure** The target is [[undefined]], blinded for 1 minute, and becomes out of phase with reality for 1 minute. In this state, it can pass through solid objects as if it was incorporeal, it can't attempt Strength-based checks against physical creatures or objects, its Speed is halved and it takes a –1 status penalty to attack rolls."

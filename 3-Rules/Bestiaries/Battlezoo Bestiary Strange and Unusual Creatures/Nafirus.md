@@ -37,7 +37,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +18, Deception: +17, Intimidation: +19, Nature: +18, Performance: +17, Stealth: +17, Survival: +18, Acrobatics: +18, Athletics: +18, Deception: +17, Intimidation: +19, Nature: +18, Stealth: +17, Survival: +18, Performance: +17"
+    desc: "Acrobatics: +18, Athletics: +18, Deception: +17, Intimidation: +19, Nature: +18, Performance: +17, Stealth: +17, Survival: +18"
 abilityMods: [3, 6, 4, 3, 4, 6]
 speed: 10 feet,  fly 60 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +21 (agile, finesse)\n__Damage__  2d10 + 9 piercing plus grab"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+21 (agile, finesse)\n__Damage__  2d10 + 9 piercing plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +21 (magical, propulsive, range increment 60 feet, reload 1)\n__Damage__  2d6 + 9 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+21 (magical, propulsive, range increment 60 feet, reload 1)\n__Damage__  2d6 + 9 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +17; __5th __  _[[Spells/Lightning Storm|Lightning Storm]]_; __4th __  _[[Spells/Unfettered Movement|Freedom of Movement]]_; __3rd __  _[[Spells/Animal Vision|Animal Vision (At Will)]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __  _[[Spells/Ash Cloud|Ash Cloud]]_; __1st __  _[[Spells/Gust of Wind|Gust of Wind]]_\n__Cantrips__  __(5th)__ _[[Spells/Electric Arc|Electric Arc]]_"

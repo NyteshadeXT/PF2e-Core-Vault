@@ -12,7 +12,7 @@ license: OGL
 ---
 # Explosive Death Drop `pf2:1`
 ## Feat 14
-### [[3-Rules/trait_reference/F/fire]][[monk]]
+### [[fire]][[monk]]
 
 **Category** class; 
 
@@ -36,5 +36,5 @@ You lift your enemy into the air before bringing them crashing down with a fiery
 
 **Critical Failure** As failure, but you fall prone.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

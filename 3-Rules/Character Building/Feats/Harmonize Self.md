@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Qi Spells
 * * *
-You can restore your health by tapping into your qi. You gain the [[3-Rules/Character Building/Spells/H/Harmonize Self|Harmonize Self]] qi spell.
+You can restore your health by tapping into your qi. You gain the [[Spells/Harmonize Self|Harmonize Self]] qi spell.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

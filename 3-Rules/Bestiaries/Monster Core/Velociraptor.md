@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 (finesse)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (finesse, unarmed)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +8 (agile, finesse)\n__Damage__  1d4 + 3 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+8 (agile, finesse, unarmed)\n__Damage__  1d4 + 3 slashing"
 
   - name: "Leaping Charge"
     desc: "`pf2:1`  The velociraptor Strides up to 10 feet, ignoring difficult terrain as it leaps over obstacles. It then makes a Strike with its talons, gaining a +1 circumstance bonus to its attack roll."

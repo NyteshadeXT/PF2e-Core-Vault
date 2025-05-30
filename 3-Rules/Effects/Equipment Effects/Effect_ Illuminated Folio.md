@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Illuminated Folio|Illuminated Folio]]
+Granted by [[Equipment/Illuminated Folio|Illuminated Folio]]
 
 These summoned creatures appear as living illustrations, granting them resistance to physical damage equal to half their level and weakness 5 to fire and to any ability with the water trait.
 

@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +9 ()\n__Damage__  1d6 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+9 ()\n__Damage__  1d6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +9 (thrown 10 ft.)\n__Damage__  1d6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+9 (thrown 10 ft.)\n__Damage__  1d6 bludgeoning"
 
   - name: "Occult Prepared Spells"
     desc: "DC 17, attack +6; __1st __  _[[Spells/Ill Omen|Ill Omen]]_, _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(1st)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_"

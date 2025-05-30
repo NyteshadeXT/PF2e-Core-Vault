@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +13 (agile, finesse)\n__Damage__  2d4 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+13 (agile, finesse)\n__Damage__  2d4 + 5 bludgeoning"
 
   - name: "Occult Innate Spells"
     desc: "DC 22, attack +14; __7th __ (1 slots) _[[Spells/Interplanar Teleport|Plane Shift (Self Only; To Shadow Plane Only)]]_; __3rd __ (2 slots) _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (3 slots) _[[Spells/Blur|Blur (Self Only)]]_, _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Status|Status]]_; __1st __ (3 slots) _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Mindlink|Mindlink]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

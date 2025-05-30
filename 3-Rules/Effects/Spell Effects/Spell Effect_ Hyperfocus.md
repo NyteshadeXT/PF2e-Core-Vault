@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Hyperfocus|Hyperfocus]].
+Granted by [[Spells/Clouded Focus|Hyperfocus]].
 
 The target gains a +1 status bonus to Perception checks attempted with any of its precise senses.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

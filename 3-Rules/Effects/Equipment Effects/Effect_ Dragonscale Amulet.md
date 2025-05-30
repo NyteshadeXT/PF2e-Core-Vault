@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Dragonscale Amulet|Dragonscale Amulet]]
+Granted by [[Equipment/Dragonscale Amulet|Dragonscale Amulet]]
 
-If you take damage of one of these types from a dragon's Breath Weapon, the amulet begins to glow brightly; for the next 10 minutes, your resistance against that type of damage increases to 20.
+You gain resistance 20 to the damage type of a Dragon's Breath weapon you took damage from.
 
 *Source: Pathfinder #148: Fires of the Haunted City*
 *OGL*

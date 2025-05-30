@@ -33,7 +33,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +25, Athletics: +25, Intimidation: +22, Stealth: +25, Survival: +22, Acrobatics: +25, Athletics: +25, Intimidation: +22, Stealth: +25, Survival: +22"
+    desc: "Acrobatics: +25, Athletics: +25, Intimidation: +22, Stealth: +25, Survival: +22"
 abilityMods: [5, 7, 5, -4, 4, 2]
 speed: 40 feet,  climb 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +26 (finesse, reach 40 feet)\n__Damage__  3d12 + 11 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+26 (finesse, reach 40 feet)\n__Damage__  3d12 + 11 bludgeoning plus improved-grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Detritus +26 (range increment 30 feet)\n__Damage__  3d8 + 11 bludgeoning plus stunning-detritus"
+  - name: "**Ranged** `pf2:1` Detritus"
+    desc: "+26 (range increment 30 feet)\n__Damage__  3d8 + 11 bludgeoning plus stunning-detritus"
 
   - name: "Stunning Detritus"
     desc: "  When a stiltwalker makes a telling blow with its thrown detritus, the detritus clobbers its target so hard that it leaves the target momentarily stunned and unable to react to the stiltwalker's further rampage. When the stiltwalker critically hits a creature with its detritus Strike, and the critical hit deals damage to the detritus Strike's target, the target of the detritus Strike becomes [[undefined]]."

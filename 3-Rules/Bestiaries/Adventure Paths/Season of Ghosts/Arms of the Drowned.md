@@ -33,7 +33,7 @@ hp: 46
 health:
   - name: ""
   - name: "HP"
-    desc: "46; __Immunities__  object immunities,  critical hits,  precision"
+    desc: "46; __Immunities__  object immunities,  critical hits,  precision; __Weaknesses__ vitality 5"
 perception:
   - name: ""
   - name: "Stealth DC 20" 

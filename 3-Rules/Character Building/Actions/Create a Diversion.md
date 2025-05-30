@@ -4,8 +4,7 @@ title: "Create a Diversion"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/mental
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA"
@@ -13,14 +12,14 @@ license: ORC
 ---
 # Create a Diversion `pf2:1`
 
-### [[3-Rules/Rule References/Mental]][[skill]]
+### [[mental]]
 
 **Category** interaction; 
 
 
 
 
-With a gesture, a trick, or some distracting words, you can create a diversion that draws creatures' attention elsewhere. If you use a gesture or trick, this action gains the manipulate trait. If you use distracting words, it gains the auditory and linguistic traits.
+With a [[Actions/create-a-diversion variant=gesture|create-a-diversion variant=gesture]]{gesture}, a [[Actions/create-a-diversion variant=trick|create-a-diversion variant=trick]]{trick}, or some [[Actions/create-a-diversion variant=distracting-words|create-a-diversion variant=distracting-words]]{distracting words}, you can create a diversion that draws creatures' attention elsewhere. If you use a gesture or trick, this action gains the manipulate trait. If you use distracting words, it gains the auditory and linguistic traits.
 
 Attempt a single Deception check and compare it to the Perception DCs of the creatures whose attention you're trying to divert. Whether or not you succeed, creatures you attempt to divert gain a +4 circumstance bonus to their Perception DCs against your attempts to Create a Diversion for 1 minute.
 

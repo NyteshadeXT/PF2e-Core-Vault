@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 (unholy)\n__Damage__  1d10 + 2 piercing plus grab 1d6 acid plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed, unholy)\n__Damage__  1d10 + 2 piercing plus grab 1d6 acid plus grab"
 
   - name: "Gout of Acid"
-    desc: "`pf2:2` (acid,primal) The corrosive lizard vomits a gout of acid in a @Template[cone|distance:15]. Each creature in this area takes 3d6 acid damage (DC 20 Reflex check save).\n\nThe lizard can't use Gout of Acid again for 1d4 rounds."
+    desc: "`pf2:2` (acid,primal) The corrosive lizard vomits a gout of acid in a 15-foot cone. Each creature in this area takes 3d6 acid damage (DC 20 Reflex check save).\n\nThe lizard can't use Gout of Acid again for 1d4 rounds."
 
   - name: "Lurching Charge"
     desc: "`pf2:2`  The corrosive lizard Strides up to double its Speed and then makes a jaws Strike. If the lizard moved at least 20 feet away from its starting position, it gains a +2 circumstance bonus to this attack roll."

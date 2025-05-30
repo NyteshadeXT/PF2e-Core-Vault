@@ -37,7 +37,7 @@ perception:
 languages: "Thalassic; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Athletics: +8, Intimidation: +5, Stealth: +6, Athletics: +8, Intimidation: +5, Stealth: +6"
+    desc: "Athletics: +8, Intimidation: +5, Stealth: +6"
 abilityMods: [3, 2, 4, 0, 1, -1]
 speed: 10 feet,  swim 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d6 + 4 piercing 1d4 bleed"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 ()\n__Damage__  1d6 + 4 piercing 1d4 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile)\n__Damage__  1d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile)\n__Damage__  1d6 + 4 slashing"
 
   - name: "Deadly Duo"
     desc: "`pf2:r`  **Trigger** Another emperor shark penguin succeeds on a jaws Strike against an enemy within this emperor shark penguin's reach\n* * *\n\n**Effect** The emperor shark penguin makes a jaws Strike against the same enemy. Only one emperor shark penguin can use Deadly Duo from a single triggering jaws Strike, and the jaws Strike made with Deadly Duo can't trigger any additional emperor shark penguins' Deadly Duo reactions."

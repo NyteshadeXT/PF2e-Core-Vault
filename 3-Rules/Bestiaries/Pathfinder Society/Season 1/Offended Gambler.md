@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +6 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+6 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 1 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Slap +6 (agile, nonlethal)\n__Damage__  1d4 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Slap"
+    desc: "+6 (agile, nonlethal)\n__Damage__  1d4 + 1 bludgeoning"
 
   - name: "Flurry of Slaps"
     desc: "`pf2:1` (flourish) The offended gambler makes two slap Strikes. If both hit the same creature, they combine their damage for the purpose of resistances and weaknesses.\n\nThe gamblers apply their multiple attack penalty to the Strikes normally."

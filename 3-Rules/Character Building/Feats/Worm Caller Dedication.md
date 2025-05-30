@@ -22,8 +22,6 @@ license: OGL
 * * *
 You pledge yourself to understanding and emulating one of the most powerful creatures of the Darklands: the mighty cave worm. You gain the [[Actions/Shake It Off|Shake It Off]] reaction.
 
-* * *
-
 [[PF2e Journals/Archetypes/Worm Caller Archetype|Worm Caller Archetype]]
 
 *Source: Pathfinder #194: Cult of the Cave Worm*

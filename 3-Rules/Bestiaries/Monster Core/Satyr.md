@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +14 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+14 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +14 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+14 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +14 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+14 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 21, attack +13; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Sleep|Sleep]]_, _[[Spells/Suggestion|Suggestion]]_\n__Cantrips__  __(2nd)__ _[[Spells/Courageous Anthem|Courageous Anthem]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_, _[[Spells/Triple Time|Triple Time]]_, _[[Spells/Uplifting Overture|Uplifting Overture]]_"
@@ -75,7 +75,7 @@ attacks:
     desc: "  When the satyr Plays the Pipes to cast a spell, he can Step or Stride as part of the activity."
 
   - name: "Play the Pipes"
-    desc: "`pf2:3` (auditory,primal) **Requirements** The satyr is holding a musical instrument.\n* * *\n\n**Effect** The satyr plays a melody on his instrument to cast [[Spells/Charm|Charm]], [[Spells/Fear|Fear]], [[Spells/Sleep|Sleep]], or [[Spells/Suggestion|Suggestion]] without expending the spell slot.\n\nThe spell gains the auditory trait and targets all creatures in a @Template[emanation|distance:60] instead of its usual targets. A creature that succeeds at its Will save against any spell is then temporarily immune from spells played from that satyr's pipes for 1 minute. Satyrs are immune to this music."
+    desc: "`pf2:3` (auditory,primal) **Requirements** The satyr is holding a musical instrument.\n* * *\n\n**Effect** The satyr plays a melody on his instrument to cast [[Spells/Charm|Charm]], [[Spells/Fear|Fear]], [[Spells/Sleep|Sleep]], or [[Spells/Suggestion|Suggestion]] without expending the spell slot.\n\nThe spell gains the auditory trait and targets all creatures in a 60-foot emanation instead of its usual targets. A creature that succeeds at its Will save against any spell is then temporarily immune from spells played from that satyr's pipes for 1 minute. Satyrs are immune to this music."
  
 ```
 

@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 (finesse)\n__Damage__  1d4 + 2 piercing plus incendiary-dollop"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (finesse, unarmed)\n__Damage__  1d4 + 2 piercing plus incendiary-dollop"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +8 (agile, finesse)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+8 (agile, finesse)\n__Damage__ "
 
   - name: "Hopping Charge"
     desc: "`pf2:2`  The groplit Strides twice, Leaps twice, or Strides once and Leaps once. It then makes a jaws Strike at the end of the movement."
@@ -89,4 +89,4 @@ Groplits are famously loyal and highly sociable companions, and they make for de
 
 As a result of the way their bones are structured, groplits exhibit an imperturbable smile, of sorts-a physical feature which some find as creepy (or enraging) as others find it endearing. Its apparently ceaseless jubilation has given this creature the nickname "the grinning toad" in some parts of the world.
 
-Because they love to lap up oily matter of all kinds, groplits are naturally drawn to greasy animals like [[3-Rules/Bestiaries/Bestiary 1/S/Slurk|Slurks]], [[Giant Slug|Giant Slugs]], and lagofirs. For the most part, such animals rarely mind the company of an amiable groplit, though there's no such thing as a free meal; groplits who drop their guard amid their found family often end up on the wrong side of their companions' intestinal tracts.
+Because they love to lap up oily matter of all kinds, groplits are naturally drawn to greasy animals like [[Monster Core/Slurk|Slurks]], [[Bestiary 2/Giant Slug|Giant Slugs]], and lagofirs. For the most part, such animals rarely mind the company of an amiable groplit, though there's no such thing as a free meal; groplits who drop their guard amid their found family often end up on the wrong side of their companions' intestinal tracts.

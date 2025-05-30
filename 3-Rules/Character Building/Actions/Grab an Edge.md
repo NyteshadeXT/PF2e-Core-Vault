@@ -3,9 +3,8 @@ obsidianUIMode: preview
 title: "Grab an Edge"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY"
@@ -13,7 +12,7 @@ license: ORC
 ---
 # Grab an Edge `pf2:r`
 
-### [[general]][[3-Rules/Rule References/Manipulate]]
+### [[manipulate]]
 
 **Category** interaction; 
 

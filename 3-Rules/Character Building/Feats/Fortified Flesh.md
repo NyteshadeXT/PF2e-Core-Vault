@@ -21,5 +21,5 @@ license: OGL
 * * *
 Your flesh takes on the hardness of stone. You gain resistance to physical damage (except adamantine) equal to your number of class feats from the Living Monolith archetype.
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

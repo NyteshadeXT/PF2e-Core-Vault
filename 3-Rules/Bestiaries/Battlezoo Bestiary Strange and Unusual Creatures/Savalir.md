@@ -37,7 +37,7 @@ perception:
 languages: "Aklo, Elven"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Intimidation: +17, Stealth: +22, Survival: +17, Acrobatics: +22, Intimidation: +17, Stealth: +22, Survival: +17"
+    desc: "Acrobatics: +22, Intimidation: +17, Stealth: +22, Survival: +17"
 abilityMods: [5, 7, 7, 5, -2, -2]
 speed: 35 feet,  climb 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (agile, finesse)\n__Damage__  2d8 + 9 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (agile, finesse)\n__Damage__  2d8 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Caustic Spit +21 (range increment 30 feet)\n__Damage__  2d10 + 9 acid"
+  - name: "**Ranged** `pf2:1` Caustic Spit"
+    desc: "+21 (range increment 30 feet)\n__Damage__  2d10 + 9 acid"
 
   - name: "Alchemical Restoration"
     desc: "`pf2:1` (alchemical,healing) **Frequency** once per day\n* * *\n\n**Effect** The savalir floods its system with medicinal alchemy, healing 5d6+12 Hit Points and gaining a +2 item bonus on saves against disease and poison for 1 minute.\n\n[[Effects/Effect_ Alchemical Restoration|Effect: Alchemical Restoration]]"

@@ -17,9 +17,9 @@ license: OGL
 
 
 
-**Prerequisites** Hellknight Armiger Dedication, Hellknight Dedication or Hellknight Signifier Dedication
+**Prerequisites** Hellknight Armiger Dedication; Hellknight Dedication or Hellknight Signifer Dedication
 * * *
 You gain the greater order benefit for the Hellknight order to which you belong.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

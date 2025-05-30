@@ -54,20 +54,23 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 2 (while underwater)]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (finesse)\n__Damage__  2d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (finesse, unarmed)\n__Damage__  2d6 + 4 slashing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 20, attack +12; __2nd __ (1 slots) _[[Spells/Acid Arrow|Acid Arrow]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (acid,arcane) Muraxi breathes acid in a @Template[cone|distance:15] that deals 2d6 acid damage to each creature within the area (DC 20 Reflex check save).\n\nMuraxi can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (acid,arcane) Muraxi breathes acid in a 15-foot cone that deals 2d6 acid damage to each creature within the area (DC 20 Reflex check save).\n\nMuraxi can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Drench"
-    desc: "`pf2:1` (arcane,water) Muraxi puts out all fires in a @Template[emanation|distance:5]. She extinguishes all non-magical fires automatically and attempts to counteract magical fires (+10 counteract modifier)."
+    desc: "`pf2:1` (arcane,water) Muraxi puts out all fires in a 5-foot emanation. She extinguishes all non-magical fires automatically and attempts to counteract magical fires (+10 counteract modifier)."
  
 ```
 

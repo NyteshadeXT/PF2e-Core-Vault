@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pick +10 (fatal d10)\n__Damage__  1d6 piercing"
+  - name: "**Melee** `pf2:1` Pick"
+    desc: "+10 (fatal d10)\n__Damage__  1d6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +11 (propulsive, range increment 50 feet)\n__Damage__  1d6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+11 (propulsive, range increment 50 feet)\n__Damage__  1d6 bludgeoning"
 
   - name: "Primal Prepared Spells"
     desc: "DC 24, attack +14; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/One with Stone|One with Stone]]_; __2nd __  _[[Spells/Acid Grip|Acid Grip]]_, _[[Spells/Deafness|Deafness]]_, _[[Spells/Gecko Grip|Gecko Grip]]_; __1st __  _[[Spells/Ant Haul|Ant Haul]]_, _[[Spells/Thunderstrike|Thunderstrike]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(3rd)__ _[[Spells/Caustic Blast|Caustic Blast]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ignition|Ignition]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_"

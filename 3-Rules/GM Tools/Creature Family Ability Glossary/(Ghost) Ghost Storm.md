@@ -6,14 +6,14 @@ tags:
   - trait/air
   - trait/aura
   - trait/divine
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.i7m74TphAiFYvzPL"
 license: OGL
 ---
 # (Ghost) Ghost Storm
 
-### [[3-Rules/trait_reference/A/air]][[3-Rules/trait_reference/A/aura]][[divine]]
+### [[air]][[aura]][[divine]]
 
 **Category** defensive; 
 

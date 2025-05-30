@@ -8,8 +8,9 @@ tags:
   - trait/multiclass
   - trait/uncommon
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.USt0jwK8XI5loG4E"
-license: OGL
+license: ORC
 ---
 # Gunslinger Dedication
 ## Feat 2
@@ -21,9 +22,13 @@ license: OGL
 
 **Prerequisites** Dexterity +2
 * * *
-You become trained in simple and martial crossbows and simple and martial firearms. You become trained in gunslinger class DC. Choose a [[Class Features/Gunslinger's Way|Gunslinger Way]]. You become trained in your way's associated skill; if you were already trained in this skill, you become trained in a skill of your choice. You don't gain any other abilities from your choice of way.
+You excel in using specific types of ranged weapons. You have familiarity with martial crossbows and firearms, treating them as simple weapons for the purposes of proficiency.
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Gunslinger|Gunslinger]] archetype.
+You gain access to uncommon martial and simple crossbows and firearms that do not have an ancestry trait. You become trained in gunslinger class DC.
+
+Choose a gunslinger way. You become trained in your way's associated skill; if you were already trained in this skill, you become trained in a skill of your choice. You don't gain any other abilities from your choice of way.
+
+[[PF2e Journals/Archetypes/Gunslinger|Gunslinger]]
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

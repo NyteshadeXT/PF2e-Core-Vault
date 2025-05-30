@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Bestial Curse|Bestial Curse]]
+Granted by [[Spells/Bestial Curse|Bestial Curse]]
 
 The creature gains weakness 1 to silver.
 

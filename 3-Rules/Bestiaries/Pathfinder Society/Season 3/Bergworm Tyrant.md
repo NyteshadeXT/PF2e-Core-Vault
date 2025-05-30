@@ -48,6 +48,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Ice Burrow 20 feet"
     desc: "  The bergworm can Burrow through ice or snow with a Speed of 20 feet. It moves at its full burrow Speed."
 
@@ -56,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 ()\n__Damage__  1d10 + 5 piercing plus grab 1d8 cold plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (unarmed)\n__Damage__  1d10 + 5 piercing plus grab 1d8 cold plus grab"
 
   - name: "Gnaw"
     desc: "`pf2:1`  **Requirements** The bergworm has a creature [[Conditions/Grabbed|Grabbed]] from its jaws Strike\n* * *\n\n**Effect** The bergworm gnaws on the target creature, burrowing through its flesh and freezing its skin. This deals 1d10 piercing damage and 1d8 cold damage. A creature that takes cold damage in this way is [[Conditions/Clumsy|Clumsy 1]] until it receives any kind or amount of healing."
@@ -66,7 +69,7 @@ attacks:
     desc: "  A creature that hits a bergworm with an unarmed Strike or a non-reach melee Strike takes 1d8 piercing damage (DC 17 Reflex check save). On a critical failure, the creature also takes 1d4 persistent cold damage."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

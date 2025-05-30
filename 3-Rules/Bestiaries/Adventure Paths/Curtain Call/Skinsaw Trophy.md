@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Silver Scissors +30 (agile, backstabber, fatal d12, finesse)\n__Damage__  3d6 + 14 slashing"
+  - name: "**Melee** `pf2:1` Silver Scissors"
+    desc: "+30 (agile, backstabber, fatal d12, finesse)\n__Damage__  3d6 + 14 slashing"
 
   - name: "Am I Pretty?"
     desc: "`pf2:1`  The kuchisake-onna asks a single adjacent target, \"Am I pretty?\" The target must attempt a DC 35 Will check save. If it fails, it is [[Conditions/Immobilized|Immobilized]] for 1 round, and if it critically fails, it is [[Conditions/Paralyzed|Paralyzed]] for 1 round, though still able to respond to the question; this is a mental effect.\n\nIf the target responds \"No\", the kuchisake-onna makes two silver scissors Strikes against the target. If the target responds \"Yes\", the kuchisake-onna makes no Strikes this turn and must use Even Now? as their next action (waiting until the first action of their next turn, if necessary). If the target otherwise responds in a confusing or noncommittal manner, the kuchisake-onna becomes [[Conditions/Off-Guard|Off-Guard]] to all creatures for 1 round but can otherwise act normally."
@@ -78,7 +78,7 @@ attacks:
     desc: "  The kuchisake-onna's silver scissors Strikes are manifestations of the toxic malice that created them and vanish when the kuchisake-onna is destroyed.\n\nWhen the kuchisake-onna has less than half their maximum Hit Points remaining, this concentrated enmity begins to leak out and make their attacks more vicious. Their silver scissors Strikes deal 6d6 persistent bleed damage.\n* * *\n\n_Note: Due to a later published errata this persistent damage is doubled on a critical hit. Due to the high damage potential for this creature's level that interaction may not be intended._"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Silver Scissors\n\n* * *\n"
+    desc: "`pf2:1`  Silver Scissors\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
  
 ```
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Snap Out of It! (Marshal) `pf2:1`
 ## Feat 4
-### [[archetype]][[auditory]][[emotion]][[3-Rules/trait_reference/M/mental]]
+### [[archetype]][[auditory]][[emotion]][[mental]]
 
 **Category** class; 
 
@@ -28,6 +28,8 @@ You give a quick shout, hoping to shake the fog clouding your ally's thoughts.
 Choose one target ally in your marshal's aura who is affected by a mental effect that allowed a Will save and has a duration of no longer than 1 minute. That ally can immediately attempt a Will save with a +1 circumstance bonus against the effect's DC, ending the effect on a success. This can't end the effect for any creatures other than your target ally.
 
 Regardless of the result of the save, your ally is temporarily immune to Snap Out of It! for 10 minutes.
+
+[[Feat_Feature Effects/Effect_ Snap Out of It! (Marshal)|Effect: Snap Out of It! (Marshal)]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

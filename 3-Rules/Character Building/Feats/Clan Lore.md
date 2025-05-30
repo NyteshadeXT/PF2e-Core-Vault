@@ -37,5 +37,5 @@ Your identity as a member of your clan is as central to your sense of self as yo
 | Clan Tolorr | Diplomacy and Society | Library Lore |
 | Clan Vanderholl | Athletics and Crafting | Labor Lore |
 
-*Source: Pathfinder Lost Omens: Highhelm*
+*Source: Pathfinder Lost Omens Highhelm*
 *OGL*

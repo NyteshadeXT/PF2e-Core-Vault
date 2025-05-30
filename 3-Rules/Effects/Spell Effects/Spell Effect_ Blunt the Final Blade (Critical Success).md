@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You gain a +2 status bonus to saves against death and fear effects for the next year.
+Granted by [[Spells/Blunt the Final Blade|Blunt the Final Blade]]
+
+You gain a +2 status bonus to saves against death and fear effects.
 
 *Source: Pathfinder Adventure: Night of the Gray Death*
 *OGL*

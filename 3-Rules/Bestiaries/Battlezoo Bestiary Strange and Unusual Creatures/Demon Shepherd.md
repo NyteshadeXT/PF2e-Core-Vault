@@ -41,7 +41,7 @@ perception:
 languages: "Chthonian, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Athletics: +19, Deception: +19, Intimidation: +22, Occultism: +19, Religion: +19, Acrobatics: +17, Athletics: +19, Deception: +19, Intimidation: +22, Occultism: +19, Religion: +19"
+    desc: "Acrobatics: +17, Athletics: +19, Deception: +19, Intimidation: +22, Occultism: +19, Religion: +19"
 abilityMods: [7, 5, 7, 7, 7, 5]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -69,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scythe +23 (deadly d10, magical, trip, unholy)\n__Damage__  2d10 + 13 slashing"
+  - name: "**Melee** `pf2:1` Scythe"
+    desc: "+23 (deadly d10, magical, trip, unholy)\n__Damage__  2d10 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +22 (agile, unholy)\n__Damage__  2d12 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+22 (agile, unholy)\n__Damage__  2d12 + 13 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 26, attack +18; __5th __  _[[Spells/Impending Doom|Impending Doom]]_, _[[Spells/Rip the Spirit|Rip the Spirit]]_; __1st __  _[[Spells/Command|Command (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_"

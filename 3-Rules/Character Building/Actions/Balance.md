@@ -4,15 +4,14 @@ title: "Balance"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/move
-  - trait/skill
-  - trait/common
+  - trait/
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej"
 license: ORC
 ---
 # Balance `pf2:1`
 
-### [[move]][[skill]]
+### [[move]]
 
 
 
@@ -23,7 +22,7 @@ license: ORC
 
 * * *
 
-You move across a narrow surface or uneven ground, attempting an Acrobatics check against its Balance DC. You are [[Conditions/Off-Guard|Off-Guard]] while on a narrow surface or uneven ground.
+You move across a narrow surface or uneven ground, attempting an [[Actions/balance|balance]]{Acrobatics} check against its Balance DC. You are [[Conditions/Off-Guard|Off-Guard]] while on a narrow surface or uneven ground.
 
 * * *
 

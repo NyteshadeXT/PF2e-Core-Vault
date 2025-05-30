@@ -3,9 +3,6 @@ title: Endless Struggle
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
-  - chaotic
-  - evil
-  - haunt
   - pf2eHazard
   - complex
 source: Pathfinder Kingmaker
@@ -24,9 +21,6 @@ name: "Endless Struggle"
 level: "Hazard 8"
 
 trait_06: "Complex"
-trait_01: [[chaotic]]
-trait_02: [[evil]]
-trait_03: [[haunt]]
 modifier: 18
 sourcebook: "_Pathfinder Kingmaker_"
 ac: 27

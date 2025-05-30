@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Call of the Wild
 * * *
-Whenever you summon an ally, you can empower it with the elemental power of air, earth, fire, or water. You gain the [[3-Rules/Character Building/Spells/P/Primal Summons|Primal Summons]] order spell.
+Whenever you summon an ally, you can empower it with the elemental power of air, earth, fire, or water. You gain the [[Spells/Primal Summons|Primal Summons]] order spell.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -48,10 +48,16 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Reweave Fate"
     desc: "`pf2:1` (primal) **Trigger** A non-suvarden creature within 30 feet of the suvarden attempts an attack roll, skill check, or saving throw\n* * *\n\n**Effect** The suvarden interferes with the triggering creature's action, pushing it toward a specific outcome. The suvarden decides on a favorable or an unfavorable outcome. With a favorable outcome, the creature rolls the triggering check a second time and takes the higher result; this is a fortune effect. With an unfavorable outcome, the creature rolls the triggering check a second time and takes the lower result; this is a misfortune effect. Regardless of the outcome, the triggering creature becomes immune to Reweave Fate for 1 day."
@@ -59,17 +65,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Antler +16 ()\n__Damage__  2d12 + 6 piercing"
+  - name: "**Melee** `pf2:1` Antler"
+    desc: "+16 ()\n__Damage__  2d12 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +16 (reach 10 feet)\n__Damage__  2d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+16 (reach 10 feet)\n__Damage__  2d8 + 6 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +17; __3rd __  _[[Spells/Hypercognition|Hypercognition]]_; __2nd __  _[[Spells/Augury|Augury (x2)]]_; __1st __  _[[Spells/Sure Strike|True Strike (x3)]]_\n__Cantrips__  __(4th)__ _[[Spells/Guidance|Guidance]]_, _[[Spells/Know the Way|Know Direction]]_"
 
   - name: "Web of Fate"
-    desc: "`pf2:2` (primal) The suvarden creates a web spun from the threads of fate in a @Template[burst|distance:10] within 30 feet. The squares filled with the web are difficult terrain. Each square can be cleared of the web by a single attack or effect that deals at least 5 slashing damage or 1 fire damage. A square has AC 5, and it automatically fails its saving throws. Each time a creature in the web begins to use a move action or enters the web during a move action, it must attempt a DC 25 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and doesn't need to attempt further saving throws against the web.\n\n**Success** The creature is momentarily baffled by glimpses of possible futures and is [[Conditions/Off-Guard|Off-Guard]] for 1 round.\n\n**Failure** Possibilities spun throughout the web overwhelm the creature. It becomes [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** As failure, but the duration is 1 minute and the creature is [[Conditions/Sickened|Sickened 1]] while it's confused."
+    desc: "`pf2:2` (primal) The suvarden creates a web spun from the threads of fate in a 10-foot burst within 30 feet. The squares filled with the web are difficult terrain. Each square can be cleared of the web by a single attack or effect that deals at least 5 slashing damage or 1 fire damage. A square has AC 5, and it automatically fails its saving throws. Each time a creature in the web begins to use a move action or enters the web during a move action, it must attempt a DC 25 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and doesn't need to attempt further saving throws against the web.\n\n**Success** The creature is momentarily baffled by glimpses of possible futures and is [[Conditions/Off-Guard|Off-Guard]] for 1 round.\n\n**Failure** Possibilities spun throughout the web overwhelm the creature. It becomes [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** As failure, but the duration is 1 minute and the creature is [[Conditions/Sickened|Sickened 1]] while it's confused."
  
 ```
 

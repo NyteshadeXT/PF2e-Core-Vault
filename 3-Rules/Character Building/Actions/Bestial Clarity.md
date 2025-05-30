@@ -25,5 +25,5 @@ license: OGL
 
 **Effect** Your bestial manifestation becomes more pronounced, and your mind gains a flash of clarity as your instincts take over. You can reroll the triggering saving throw with a +2 circumstance bonus, but you must use the new result. This is a fortune effect.
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

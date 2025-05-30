@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +19 (magical, shove)\n__Damage__  3d8 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+19 (magical, shove)\n__Damage__  3d8 + 9 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine,fire) The spawn breathes flames that deals 9d6 fire damage to all creatures in a @Template[cone|distance:30] (DC 26 Reflex check save).\n\nThey can't use Breath Weapon again for 1d4 rounds"
+    desc: "`pf2:2` (divine,fire) The spawn breathes flames that deals 9d6 fire damage to all creatures in a 30-foot cone (DC 26 Reflex check save).\n\nThey can't use Breath Weapon again for 1d4 rounds"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The spawn makes two claw Strikes and one bite Strike in any order."

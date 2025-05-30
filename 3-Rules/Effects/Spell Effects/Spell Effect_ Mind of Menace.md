@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Mind of Menace|Mind of Menace]]
+Granted by [[Spells/Mind of Menace|Mind of Menace]]
 
-You gain the Fight with Fear reaction.
+You gain the [[Actions/Fight with Fear|Fight with Fear]] reaction.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

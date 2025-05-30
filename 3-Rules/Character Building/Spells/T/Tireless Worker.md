@@ -11,15 +11,16 @@ tags:
   - trait/focus
   - trait/healing
   - trait/manipulate
-  - trait/common
+  - trait/uncommon
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.gzvRDpM6EvcfYHeu" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Tireless Worker  `pf2:2`"
 level: "Focus 4"
-
+rare_03: [[Uncommon]]
 trait_01: [[cleric]]
 trait_02: [[concentrate]]
 trait_03: [[focus]]
@@ -36,6 +37,6 @@ abilities_top:
     desc: "1 minute"
 abilities_mid:
   - name: ""
-    desc: "You suppress your choice of one of the following conditions that's affecting the target: [[Conditions/Clumsy|Clumsy]], [[Conditions/Encumbered|Encumbered]], [[Conditions/Enfeebled|Enfeebled]], or [[Conditions/Fatigued|Fatigued]]. If you don't remove the effect that caused the condition, the condition returns after the spell's duration expires."
-sourcebook: "_Pathfinder #148: Fires of the Haunted City_"
+    desc: "You suppress your choice of one of the following conditions that's affecting the target: [[Conditions/Clumsy|Clumsy]], [[Conditions/Encumbered|Encumbered]], [[Conditions/Enfeebled|Enfeebled]], or [[Conditions/Fatigued|Fatigued]]. The duration of the condition doesn't elapse while it is suppressed, so if you don't remove the effect that caused the condition, the condition returns after the spell's duration expires."
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

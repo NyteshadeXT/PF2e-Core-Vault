@@ -18,5 +18,5 @@ license: OGL
 
 The horrors at the end of reality become overwhelming and constantly race through your mind. You are permanently [[Conditions/Stupefied|Stupefied 2]].
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +19 (agile, finesse)\n__Damage__  2d8 + 7 piercing plus dark-naga-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+19 (agile, finesse)\n__Damage__  2d8 + 7 piercing plus dark-naga-venom"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 24, attack +16; __4th __ (4 slots) _[[Spells/Summon Undead|Animate Dead]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Sanguine Mist|Sanguine Mist]]_; __3rd __ (4 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Rouse Skeletons|Rouse Skeletons]]_; __2nd __ (4 slots) _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Soothe|Soothe]]_; __1st __ (4 slots) _[[Spells/Gravitational Pull|Gravitational Pull]]_, _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(4th)__ _[[Spells/Bullhorn|Bullhorn]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"

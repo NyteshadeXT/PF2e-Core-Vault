@@ -55,6 +55,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Handwraps of Mighty Blows|+3 Major Striking Greater Shock Handwraps of Mighty Blows]], [[Equipment/Potion of Flying (Greater)|Potion of Flying (Greater)]]"
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Nimble Dodge"
@@ -63,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fingers +38 (agile, finesse, magical, unarmed)\n__Damage__  4d6 + 14 piercing plus ki-absorption"
+  - name: "**Melee** `pf2:1` Fingers"
+    desc: "+38 (agile, finesse, magical, unarmed)\n__Damage__  4d6 + 14 piercing plus ki-absorption"
 
-  - name: "Melee"
-    desc: "`pf2:1` Palm +37 (forceful, magical, shove, unarmed)\n__Damage__  6d6 + 14 bludgeoning plus ki-absorption"
+  - name: "**Melee** `pf2:1` Palm"
+    desc: "+37 (forceful, magical, shove, unarmed)\n__Damage__  6d6 + 14 bludgeoning plus ki-absorption"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Vitality Blast +38 (magical, range increment 60 feet, unarmed, versatile vitality, void)\n__Damage__  4d8 + 8 void"
+  - name: "**Ranged** `pf2:1` Vitality Blast"
+    desc: "+38 (magical, range increment 60 feet, unarmed, versatile vitality, void)\n__Damage__  4d8 + 8 void"
 
   - name: "Ki Absorption"
     desc: "  Hakusa absorbs vitality with each blow. She gains fast healing 10 for 1 round whenever she successfully Strikes with a melee unarmed attack."
@@ -82,7 +85,7 @@ attacks:
     desc: "  Hakusa's Strikes deal an extra 5d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Swallows in Flight"
-    desc: "`pf2:2` (certain-kill,void) **Frequency** once per round\n* * *\n\n**Effect** Hakusa strikes a series of pressure points on her target's body that redirects its ki to the heart, before following up with a palm strike to the sternum. She makes a fingers Strike and a palm Strike, dealing damage as normal. If both hit, the target takes 8d10 void damage as its life energy escapes from its body in a shower of bird-shaped sparks. The target attempts a DC 43 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes half the void damage.\n\n**Failure** The target takes full damage, its life energy exploding violently from its back in a @Template[cone|distance:30] originating from the target. All of Hakusa's other enemies in the cone also take the void damage (DC 43 Fortitude check save).\n\n**Critical Failure** As failure, but the target takes double void damage."
+    desc: "`pf2:2` (certain-kill,void) **Frequency** once per round\n* * *\n\n**Effect** Hakusa strikes a series of pressure points on her target's body that redirects its ki to the heart, before following up with a palm strike to the sternum. She makes a fingers Strike and a palm Strike, dealing damage as normal. If both hit, the target takes 8d10 void damage as its life energy escapes from its body in a shower of bird-shaped sparks. The target attempts a DC 43 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes half the void damage.\n\n**Failure** The target takes full damage, its life energy exploding violently from its back in a 30-foot cone originating from the target. All of Hakusa's other enemies in the cone also take the void damage (DC 43 Fortitude check save).\n\n**Critical Failure** As failure, but the target takes double void damage."
  
 ```
 

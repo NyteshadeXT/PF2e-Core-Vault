@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Saurian Spike|Saurian Spike]]  
-  
-You gain an imprecise scent with range 30ft.
+Granted by [[Equipment/Saurian Spike|Saurian Spike]], [[Equipment/Saurian Spike (Greater)|Saurian Spike (Greater)]], [[Equipment/Saurian Spike (Major)|Saurian Spike (Major)]]
+
+You gain an imprecise scent, or precise scent (_major_).
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

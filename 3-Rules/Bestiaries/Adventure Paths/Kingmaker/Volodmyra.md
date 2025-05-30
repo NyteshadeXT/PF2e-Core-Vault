@@ -56,13 +56,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +11 (magical, sweep)\n__Damage__  1d12 + 4 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+11 (magical, sweep)\n__Damage__  1d12 + 4 slashing"
 
   - name: "Overhand Smash"
     desc: "`pf2:2`  **Requirements** Volodmyra is wielding her greataxe and is adjacent to an enemy\n\n**Effect** Volodmyra raises her greataxe above her head and puts all of her might into a single attack. If the attack hits, Volodmyra deals an additional 8 points of damage and the opponent must succeed at a DC 17 Fortitude check save to avoid being knocked [[Conditions/Prone|Prone]]."

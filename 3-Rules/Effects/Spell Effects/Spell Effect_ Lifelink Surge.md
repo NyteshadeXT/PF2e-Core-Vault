@@ -16,7 +16,13 @@ license: OGL
 
 
 
-Granted by [[3-Rules/Character Building/Spells/L/Lifelink Surge|Lifelink Surge]].
+Granted by [[Spells/Lifelink Surge|Lifelink Surge]]
+
+You gain fast healing 4
+
+* * *
+
+**Heightened (+1)** The fast healing increases by 2.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

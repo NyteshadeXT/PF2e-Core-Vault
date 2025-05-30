@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Hydra Mutagen|Hydra Mutagen]]
+Granted by [[Equipment/Hydra Mutagen|Hydra Mutagen]]
 
 **Benefit** You gain all-around vision and a +3 item bonus to all Intelligence- and Wisdom-based skill checks.
 

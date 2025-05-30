@@ -24,29 +24,31 @@ license: ORC
 
 * * *
 
-You transform reflexively when in danger. You cast untamed form to transform into one shape granted by one of the prerequisite feats you have, depending on the trigger. Your shape's resistances and weaknesses apply against the triggering damage.
-
-**Trigger** You fall 10 feet or more
-
-**Effect** Choose a shape from [[Aerial Form|Aerial Form]].
+You transform reflexively when in danger. You cast [[Spells/Untamed Form|Untamed Form]] to transform into one shape granted by one of the prerequisite feats you have, depending on the trigger. Your shape's resistances and weaknesses apply against the triggering damage.
 
 * * *
 
-**Trigger** You take acid, cold, electricity, fire, or poison damage
+**Trigger** You fall 10 feet or more
 
-**Effect** Choose a shape from [[Dragon Form|Dragon Form]] that resists the triggering damage.
+**Effect** Choose a shape from [[Spells/Aerial Form|Aerial Form]].
+
+* * *
+
+**Trigger** You take bludgeoning or poison damage
+
+**Effect** Choose a primal dragon shape from [[Spells/Dragon Form|Dragon Form]] that resists the triggering damage.
 
 * * *
 
 **Trigger** You take fire damage
 
-**Effect** Choose a fire elemental shape from [[Elemental Form|Elemental Form]].
+**Effect** Choose a fire elemental shape from [[Spells/Elemental Form|Elemental Form]].
 
 * * *
 
 **Trigger** You take poison damage
 
-**Effect** Choose a shape from [[Plant Form|Plant Form]].
+**Effect** Choose a shape from [[Spells/Plant Form|Plant Form]].
 
 *Source: Pathfinder Player Core*
 *ORC*

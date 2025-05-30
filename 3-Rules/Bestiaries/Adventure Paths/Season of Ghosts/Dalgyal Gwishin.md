@@ -57,21 +57,24 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense (Precise) 120 feet]]"
-    desc: "  The dalgyal gwishin senses the vital essence of living and undead creatures within the listed range.\n\n* * *\n"
+    desc: "  The dalgyal gwishin senses the vital essence of living and undead creatures within the listed range.\n* * *\n\nLifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
 
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 30 feet DC 19 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 30 feet DC 19 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Stone-Faced"
     desc: "  While the dalgyal gwishin has no physical body, its stone face is solid. It can't pass through solid objects."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Head +12 (finesse, magical)\n__Damage__  2d6 + 2 bludgeoning 2d6 mental"
+  - name: "**Melee** `pf2:1` Head"
+    desc: "+12 (finesse, magical)\n__Damage__  2d6 + 2 bludgeoning 2d6 mental"
 
   - name: "Jealous Frenzy"
     desc: "`pf2:r` (divine,mental) **Trigger** The dalgyal gwishin Strikes a creature that has a higher Charisma modifier than itself\n\n**Frequency** once per day\n* * *\n\n**Effect** The dalgyal gwishin enters an envious frenzy as it senses strong ties of friendship and personality within the creature it struck. The dalgyal gwishin becomes [[Conditions/Quickened|Quickened]] but can only use its quickened action to Strike the triggering creature. If the dalgyal gwishin fails to Strike the triggering creature at least once during its turn, Jealous Frenzy ends. It also ends after 1 minute. After Jealous Frenzy ends, the dalgyal gwishin is [[Conditions/Slowed|Slowed 1]] for 1 minute."

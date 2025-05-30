@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap184-the-ghouls-hunger/assets/art/PZO90184_GHOULS_SECRET_EATER.webp| ]]
 source: "Pathfinder #184: The Ghouls Hunger"
 name: "Ghoul Gnawer"
 level: "Creature 11"
@@ -57,23 +58,26 @@ abilities_top:
     desc: "[[Compendium.pf2e.equipment-srd.Item.c40Zn2TCRr3inIBA|Staff of Necromancy]], [[Equipment/Clothing (Ordinary)|Hooded Robe]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +19 (finesse)\n__Damage__  2d10 + 12 piercing plus ghoul-ghoul-fever,ghoul-paralysis"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+19 (finesse, unarmed)\n__Damage__  2d10 + 12 piercing plus ghoul-ghoul-fever,ghoul-paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +19 (agile, finesse)\n__Damage__  2d8 + 10 slashing plus ghoul-paralysis"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+19 (agile, finesse, unarmed)\n__Damage__  2d8 + 10 slashing plus ghoul-paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +19 (two-hand d8)\n__Damage__  2d8 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+19 (two-hand d8)\n__Damage__  2d8 + 10 bludgeoning"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 34, attack +26; __6th __ (3 slots) _[[Spells/Dominate|Dominate]]_, _[[Spells/Scrying|Scrying]]_, _[[Spells/Spirit Blast|Spirit Blast]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __ (4 slots) _[[Spells/Abyssal Plague|Abyssal Plague]]_, _[[Spells/Invoke Spirits|Invoke Spirits]]_, _[[Spells/Rip the Spirit|Rip the Spirit]]_, _[[Spells/Wall of Flesh|Wall of Flesh]]_; __4th __ (4 slots) _[[Spells/Chroma Leach|Chroma Leach]]_, _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Talking Corpse|Talking Corpse]]_\n__Cantrips__  __(6th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Haunting Hymn|Haunting Hymn]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** The ghoul gnawer is adjacent to the corpse of a creature that died within the last hour\n* * *\n\n**Effect** The ghoul gnawer devours a chunk of the corpse and regains 5d6 Hit Points. It can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The ghoul gnawer is adjacent to the corpse of a creature that died within the last hour\n* * *\n\n**Effect** The ghoul gnawer devours a chunk of the corpse and regains 5d6 healing Hit Points. It can regain Hit Points from any given corpse only once."
 
   - name: "Drain Corpse"
     desc: "`pf2:r` (occult) **Frequency** once per day\n\n**Trigger** The ghoul gnawer uses Consume Flesh\n* * *\n\n**Effect** In addition to gaining Hit Points, using Consume Flesh refreshes one spell slot the cultist has already expended."

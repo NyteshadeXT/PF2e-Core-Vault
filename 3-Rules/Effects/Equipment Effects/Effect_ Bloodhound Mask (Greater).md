@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Bloodhound Mask (Greater)|Bloodhound Mask (Greater)]]
+Granted by [[Equipment/Bloodhound Mask (Greater)|Bloodhound Mask (Greater)]]
+
+You gain an imprecise scent with a 60 foot range and a +3 item bonus to your Survival check to Track a creature by its scent.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

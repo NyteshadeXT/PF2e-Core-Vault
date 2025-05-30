@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/PZO90183_GRACE_THE_RHINO.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Grace "The Rhino" Owano"
 level: "Creature 10"
@@ -56,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Devastator"
     desc: "  Grace's Strikes ignore 10 points of a creature's resistance to physical damage."
@@ -64,14 +65,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +23 (magical, versatile p)\n__Damage__  2d12 + 11 slashing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+23 (magical, versatile p)\n__Damage__  2d12 + 11 slashing 1d6 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 (agile, nonlethal, unarmed)\n__Damage__  2d6 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+23 (agile, nonlethal, unarmed)\n__Damage__  2d6 + 11 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +26 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+26 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 11 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 29, attack +21; __5th __  _[[Spells/Divine Wrath|Divine Wrath]]_\n__Cantrips__  __(5th)__ _[[Spells/Divine Lance|Divine Lance]]_"

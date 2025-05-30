@@ -53,16 +53,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Cobra Form Only)]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity (Boar Form Only)]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +9 (agile, reach 10 feet)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+9 (agile, reach 10 feet)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Functional Form"
     desc: "  Depending on the creature it resembles, the topiary beast gains additional abilities.\n\n**Ape** The branch Strike is agile, has reach 10 feet, and deals bludgeoning damage instead of piercing damage.\n\n**Boar** The topiary beast gains the Ferocity reaction.\n\n**Cobra** The beast gains the Attack of Opportunity reaction."

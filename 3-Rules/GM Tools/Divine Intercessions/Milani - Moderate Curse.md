@@ -18,5 +18,5 @@ license: OGL
 
 Ropes, chains, manacles, and other equipment used to bind or constrain become blazing hot in your hands, bursting into flame or melting as if engulfed in a forge. When you attempt to hold such an item, you take 2d6 fire damage and the item is destroyed.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

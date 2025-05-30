@@ -51,24 +51,27 @@ hp: 110
 health:
   - name: ""
   - name: HP
-    desc: "110"
+    desc: "110; __Weaknesses__ axe vulnerability 5, fire 5"
 abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Staff|Staff]], [[Equipment/Wooden Shield|Wooden Shield]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +16 (reach 10 feet, two-hand d8)\n__Damage__  2d4 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+16 (reach 10 feet, two-hand d8)\n__Damage__  2d4 + 10 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 22, attack +14; __7th __  _[[Compendium.pf2e.spells-srd.Item.nRINcQb81Wt4KeFu|Interplanar Teleport (At Will; To Astral Plane, Elemental Planes, or the Universe Only)]]_; __5th __  _[[Spells/Nature's Pathway|Nature's Pathway (At Will)]]_; __2nd __  _[[Spells/Entangling Flora|Entangling Flora (x2)]]_, _[[Spells/Invisibility|Invisibility (x2)]]_, _[[Compendium.pf2e.spells-srd.Item.CJJ27kJew3nq0Du6|One With Plants]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(6th)__ _[[Spells/Speak with Plants|Speak with Plants]]_, _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The kizidhar transforms into a Small or Medium wood elemental or plant creature. This doesn't affect the kizidhar's statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The kizidhar transforms into a Small or Medium wood elemental or plant creature. This doesn't affect the kizidhar's statistics, but it could change the damage type of their Strikes.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Parting the Trees"
     desc: "  The genie ignores difficult terrain from plants, and can share their space with larger plants, such as trees."
@@ -77,7 +80,7 @@ attacks:
     desc: "`pf2:1`  The kizidhar creates a wooden item out of their body that appears in their hand and remains attached. The item can be a one-handed simple weapon, shield, or object of light Bulk. A kizidhar can instead use this ability to transform an item it's already holding or to remove an object to free its hand. Any item created with Sculpt Wood crumbles to splinters if removed from the kizidhar's possession."
 
   - name: "Take Root"
-    desc: "`pf2:1` (arcane,plant,wood) The genie thrusts their weapon into the ground. Plants sprout and grow out of the ground in a @Template[burst|distance:20] centered on one corner of the kizidhar's square. All squares on the ground in that area are difficult terrain until the kizidhar uses this ability again."
+    desc: "`pf2:1` (arcane,plant,wood) The genie thrusts their weapon into the ground. Plants sprout and grow out of the ground in a 20-foot burst centered on one corner of the kizidhar's square. All squares on the ground in that area are difficult terrain until the kizidhar uses this ability again."
  
 ```
 

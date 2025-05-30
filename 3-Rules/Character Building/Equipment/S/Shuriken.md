@@ -1,76 +1,33 @@
 ---
-#========================================================#
-#                     CORE PROPERTIES                    #
-#========================================================#
-cssclass: pf2e-item, h-line
-name: "shuriken"
-aliases: "Shuriken"
-source: "Pathfinder Player Core"
-pg: ""
-rarity: ""
-trait01: "agile"
-trait02: "monk"
-trait03: "thrown"
-trait04: "uncommon"
-trait05: ""
-trait06: ""
-trait07: ""
-trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 0
-weight: 
-value: "1"
-subvalue: "cp"
-invest:
-usage: "held in one hand "
-license: "ORC"
-identify:
-description: "This "throwing star" is a small piece of flat metal with sharp edges, designed to be flung with a flick of the wrist."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
-trigger2:
-mechanics2: "**Secondary Effect** "
-craft:
-
-#========================================================#
-#                   WEAPON PROPERTIES                    #
-#========================================================#
-range: 20 ft
-ammoType:
-damage: 1d4 piercing
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
-
-#========================================================#
-#                    ARMOR PROPERTIES                    #
-#========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
-resist:
-immunity:
-conditionImmunity:
-
-#========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
-#========================================================#
-weaponBase:
-armorBase:
-
+obsidianUIMode: preview
+title: "Shuriken"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - pf2e/weapon
+  - trait/agile
+  - trait/monk
+  - trait/thrown
+  - trait/uncommon
+  - category/martial
+  - remaster
+aliases: "Compendium.pf2e.equipment-srd.Item.fjkwYZ0hRmBztwBG"
+license: ORC
 ---
+# Shuriken
+## Item 0
+### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[monk]][[thrown]]
+
+|  |  |
+| -- | -- |
+| **Category** martial ranged weapon | **Group** dart |
+| **Price** 1 cp |  |
+| **Bulk** 0 | **Size** med |
+|**Range** 20 ft.| **Reload** 0|
+| **Damage** 1d4 piercing  | **Usage** held-in-one-hand |
+
+
+
+This "throwing star" is a small piece of flat metal with sharp edges, designed to be flung with a flick of the wrist.
+
+*Source: Pathfinder Player Core*
+*ORC*

@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/PZO90183_Shimmernewt.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Shimmernewt"
 level: "Creature 6"
@@ -57,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 ()\n__Damage__  2d10 + 8 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (unarmed)\n__Damage__  2d10 + 8 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +17 (reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning plus trip"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+17 (reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning plus trip"
 
   - name: "Gaping Chomp"
     desc: "`pf2:1`  The shimmernewt chews on a creature that it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. The target creature must attempt a DC 24 Fortitude check save.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes 1d10 piercing damage.\n\n**Failure** The creature takes 2d10 piercing damage and 1d6 bleed damage.\n\n**Critical Failure** The creature takes 4d10 piercing damage, 1d6 bleed damage, and is [[Conditions/Sickened|Sickened 2]] by the pain of the chomp."
@@ -73,7 +74,7 @@ attacks:
     desc: "`pf2:1` (attack,skill) **Requirements** You have at least one hand free. Your target can't be more than one size larger than you\n* * *\n\nYou try to knock a creature to the ground. Attempt an Athletics check against the target's Reflex DC.\n* * *\n\n**Critical Success** The target falls and lands [[Conditions/Prone|Prone]] and takes 1d6 bludgeoning damage.\n\n**Success** The target falls and lands prone.\n\n**Critical Failure** You lose your balance and fall and land prone."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

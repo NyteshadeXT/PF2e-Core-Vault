@@ -60,17 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +16 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+16 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +15 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+15 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +15 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+15 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Coat Pistol +15 (concealable, concussive, fatal d8, range increment 30 feet, reload 1)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Coat Pistol"
+    desc: "+15 (concealable, concussive, fatal d8, range increment 30 feet, reload 1)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Scoundrel's Feint"
     desc: "  When Lanks successfully [[Actions/Feint|Feints]], his target is [[Conditions/Off-Guard|Off-Guard]] against his attacks until the end of his next turn. On a critical success, the target is off-guard against all attacks until the end of Lanks's next turn."

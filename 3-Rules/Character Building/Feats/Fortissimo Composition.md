@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** maestro muse
 * * *
-Your anthems grow louder and more potent, bolstered by your muse's power. You learn the [[3-Rules/Character Building/Spells/F/Fortissimo Composition|Fortissimo Composition]] spellshape focus spell.
+Your anthems grow louder and more potent, bolstered by your muse's power. You learn the [[Spells/Fortissimo Composition|Fortissimo Composition]] spellshape focus spell.
 
 *Source: Pathfinder Player Core*
 *ORC*

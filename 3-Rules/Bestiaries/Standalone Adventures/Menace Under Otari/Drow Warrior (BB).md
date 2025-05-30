@@ -65,14 +65,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +9 (deadly d8, finesse)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+9 (deadly d8, finesse)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +9 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+9 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +9 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+9 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Quick Draw"
     desc: "`pf2:1`  The drow warrior draws a weapon using the Interact action, then Strikes with that weapon."

@@ -16,7 +16,7 @@ license: ORC
 ---
 # Dance of the Mousedeer `pf2:1`
 ## Feat 1
-### [[illusion]][[occult]][[3-Rules/trait_reference/S/shadow]][[visual]][[wayang]]
+### [[illusion]][[occult]][[shadow]][[visual]][[wayang]]
 
 **Category** ancestry; 
 
@@ -33,5 +33,5 @@ You move your body in a pattern that evokes the small and clever Sister Mousedee
 
 **Critical Failure** The opponent grasps the movements of your dance, becoming temporarily immune to your Dance of the Mousedeer for 1 day.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

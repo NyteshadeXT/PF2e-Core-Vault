@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +7 (agile, finesse, reach 0 feet)\n__Damage__  1d4 + 1 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+7 (agile, finesse, reach 0 feet, unarmed)\n__Damage__  1d4 + 1 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Splinter +7 (range increment 30 feet)\n__Damage__  1d4 piercing"
+  - name: "**Ranged** `pf2:1` Splinter"
+    desc: "+7 (range increment 30 feet)\n__Damage__  1d4 piercing"
 
   - name: "Bramble Jump"
     desc: "`pf2:3` (plant,primal,teleportation,wood) **Requirements** The twigjack is in undergrowth\n* * *\n\n**Effect** The twigjack scrambles into the undergrowth and instantly teleports to a square of undergrowth within 60 feet. This movement doesn't trigger reactions."

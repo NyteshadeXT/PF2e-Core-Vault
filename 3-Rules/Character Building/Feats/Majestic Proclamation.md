@@ -28,5 +28,5 @@ You announce your name to your enemies, bringing your constellation to bear in a
 
 You can use Majestic Proclamation as a single action if your previous action was [[Actions/Starlit Transformation|Starlit Transformation]].
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

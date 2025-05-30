@@ -56,22 +56,28 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy (Touch)]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +9 (agile, finesse, magical, unholy)\n__Damage__  1d4 - 1 piercing plus imp-venom 1d4 spirit plus imp-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+9 (agile, finesse, magical, unholy)\n__Damage__  1d4 - 1 piercing plus imp-venom 1d4 spirit plus imp-venom"
 
   - name: "Divine Innate Spells"
     desc: "DC 17, attack +9; __4th __  _[[Spells/Read Omens|Read Omens]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) *   **Boar**\n    *   **Size** Medium\n    *   [[Bestiary Ability Glossary/Scent|Scent (Imprecise) 30 feet]]\n    *   **Speed** 40 feet\n    *   **Melee** tusk +9/+4/-1 (finesse), **Damage** 1d10-1 piercing damage\n*   **Giant Spider**\n    *   **Size** Medium\n    *   **Speed** 25 feet, climb 25 feet\n    *   **Melee** fangs +9/+4/-1 (finesse, poison), **Damage** 1d6-1 piercing damage plus 1d4 poison damage\n*   **Rat**\n    *   [[Bestiary Ability Glossary/Scent|Scent]]\n    *   **Speed** 20 feet\n    *   **Melee** jaws +9/+5/+1 (agile, finesse), **Damage** 1 piercing damage\n*   **Raven**\n    *   [[Bestiary Ability Glossary/Scent|Scent]]\n    *   **Speed** 10 feet, fly 40 feet\n    *   **Melee** beak +9/+4/-1 (finesse), **Damage** 1 piercing damage\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) *   **Boar**\n    *   **Size** Medium\n    *   [[Bestiary Ability Glossary/Scent|Scent (Imprecise) 30 feet]]\n    *   **Speed** 40 feet\n    *   **Melee** tusk +9/+4/-1 (finesse), **Damage** 1d10-1 piercing damage\n*   **Giant Spider**\n    *   **Size** Medium\n    *   **Speed** 25 feet, climb 25 feet\n    *   **Melee** fangs +9/+4/-1 (finesse, poison), **Damage** 1d6-1 piercing damage plus 1d4 poison damage\n*   **Rat**\n    *   [[Bestiary Ability Glossary/Scent|Scent]]\n    *   **Speed** 20 feet\n    *   **Melee** jaws +9/+5/+1 (agile, finesse), **Damage** 1 piercing damage\n*   **Raven**\n    *   [[Bestiary Ability Glossary/Scent|Scent]]\n    *   **Speed** 10 feet, fly 40 feet\n    *   **Melee** beak +9/+4/-1 (finesse), **Damage** 1 piercing damage\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Diabolic Healing"
-    desc: "`pf2:1` (concentrate,divine,healing) **Frequency** once per round.\n* * *\n\n**Effect** The imp regains 1d6 Hit Points."
+    desc: "`pf2:1` (concentrate,divine,healing) **Frequency** once per round.\n* * *\n\n**Effect** The imp regains 1d6 healing Hit Points."
 
   - name: "Imp Venom"
     desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** 1d6 poison damage, clumsy 1, and [[Conditions/Slowed|Slowed 1]] (1 round)"

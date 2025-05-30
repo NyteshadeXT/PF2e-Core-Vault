@@ -22,5 +22,5 @@ You have cultivated your exoskeleton's form for close combat, using knots, whorl
 
 **Special** You can select this feat twice, choosing the other unarmed attack the second time you take it.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

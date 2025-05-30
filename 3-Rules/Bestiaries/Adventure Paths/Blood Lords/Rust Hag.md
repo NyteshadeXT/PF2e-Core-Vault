@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/PZO90182_rust_hag.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Rust Hag"
 level: "Creature 8"
@@ -63,17 +64,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile, magical)\n__Damage__  2d6 + 10 slashing plus rusting-touch"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, magical, unarmed)\n__Damage__  2d6 + 10 slashing plus rusting-touch"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Ghost Touch Arquebus +20 (concussive, fatal d12, kickback, magical, range increment 150 feet, reload 1)\n__Damage__  2d8 + 11 piercing plus hagshot"
+  - name: "**Ranged** `pf2:1` Ghost Touch Arquebus"
+    desc: "+20 (concussive, fatal d12, kickback, magical, range increment 150 feet, reload 1)\n__Damage__  2d8 + 11 piercing plus hagshot"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flintlock Pistol +20 (concussive, fatal d8, magical, range increment 40 feet, reload 1)\n__Damage__  2d4 + 11 piercing plus hagshot"
+  - name: "**Ranged** `pf2:1` Flintlock Pistol"
+    desc: "+20 (concussive, fatal d8, magical, range increment 40 feet, reload 1)\n__Damage__  2d4 + 11 piercing plus hagshot"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The rust hag can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The rust hag can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Hagshot"
     desc: "  Any firearm wielded by a rust hag gains the benefits of _+1 striking_ and _[[Equipment/Ghost Touch|Ghost Touch]]_ runes, and it functions properly no matter how rusty it gets. In addition, when a rust hag critically hits a target with a firearm, the target must succeed at a DC 26 Fortitude check save or be [[Conditions/Stunned|Stunned 1]]."

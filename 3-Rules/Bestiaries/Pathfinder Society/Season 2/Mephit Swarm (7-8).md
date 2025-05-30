@@ -60,11 +60,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 2]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
 attacks:
   - name: ""
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (acid,air,arcane,cold,earth,electricity,fire) The mephit swarm breathes energy in a @Template[cone|distance:15] that deals 1d10 acid, 1d10 cold, 1d10 electric, and 1d10 fire damage to each creature within the area (DC 22 Reflex check save).\n\nThe mephit swarm can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (acid,air,arcane,cold,earth,electricity,fire) The mephit swarm breathes energy in a 15-foot cone that deals 1d10 acid + 1d10 cold + 1d10 electricity + 1d10 fire damage to each creature within the area (DC 22 Reflex check save).\n\nThe mephit swarm can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Swarming Claws"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 3d6 piercing damage (DC 22 Reflex check save)."

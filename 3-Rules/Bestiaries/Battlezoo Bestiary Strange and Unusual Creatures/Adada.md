@@ -35,7 +35,7 @@ perception:
 languages: "tongue of nonsense"
 skills:
   - name: "Skills"
-    desc: "Arcana: +31, Athletics: +30, Crafting: +33, Performance: +36, Arcana: +31, Athletics: +30, Crafting: +33, Performance: +36, Art Lore: +33"
+    desc: "Arcana: +31, Athletics: +30, Crafting: +33, Performance: +36, Art Lore: +33"
 abilityMods: [9, 6, 9, 6, 6, 9]
 speed: 50 feet,  burrow 35 feet,  fly 40 feet,  swim 35 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -68,11 +68,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Plume +33 (magical, reach 15 feet)\n__Damage__  3d10 + 17 slashing plus anti-poetry"
+  - name: "**Melee** `pf2:1` Plume"
+    desc: "+33 (magical, reach 15 feet)\n__Damage__  3d10 + 17 slashing plus anti-poetry"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +33 (agile, magical, reach 20 feet)\n__Damage__  3d8 + 17 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+33 (agile, magical, reach 20 feet)\n__Damage__  3d8 + 17 piercing plus improved-grab"
 
   - name: "Divine Innate Spells"
     desc: "DC 38, attack +30; __8th __  _[[Spells/Teleport|Teleport]]_\n__Constant__  __(8th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Hidden Mind|Mind Blank]]_"

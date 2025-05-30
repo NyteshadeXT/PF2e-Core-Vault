@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Clockwork Creature) Wind-Up"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.xS8ybzuqPSi3Jb8k"
 license: OGL

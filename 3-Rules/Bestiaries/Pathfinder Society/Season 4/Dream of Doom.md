@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Imminent Demise"
@@ -60,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Nightmare Tendril +18 (agile, finesse)\n__Damage__  3d8 void plus endless-nightmare 1d6 mental plus endless-nightmare"
+  - name: "**Melee** `pf2:1` Nightmare Tendril"
+    desc: "+18 (agile, finesse)\n__Damage__  3d8 void plus endless-nightmare 1d6 mental plus endless-nightmare"
 
   - name: "Occult Innate Spells"
     desc: "DC 26, attack +16; __4th __  _[[Spells/Translocate|Dimension Door (At will)]]_, _[[Spells/Impending Doom|Impending Doom]]_, _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Sleep|Sleep]]_; __3rd __  _[[Spells/Fear|Fear]]_"

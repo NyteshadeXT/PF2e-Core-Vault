@@ -72,8 +72,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +21 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 11 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+21 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 11 piercing"
 
   - name: "Debilitating Strike"
     desc: "  **Trigger** Drandle Dreng's Strike hits an [[Conditions/Off-Guard|Off-Guard]] creature and deals damage\n* * *\n\n**Effect** Drandle Dreng chooses one of the following debilitations for the target, which lasts until the end of his next turn:\n\n*   it can't flank or contribute to allies' flanking,\n*   it takes a -10-foot status penalty to its Speeds,\n*   or it becomes [[Conditions/Enfeebled|Enfeebled 1]]."

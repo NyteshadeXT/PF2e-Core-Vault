@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Wash Your Luck|Wash Your Luck]].
+Granted by [[Spells/Wash Your Luck|Wash Your Luck]]
 
-Once during the spell's duration, before rolling a check, you can cancel out a misfortune effect on that roll, as normal when a fortune and misfortune effect apply to the same roll. After canceling out the misfortune effect, the spell ends, and you are then temporarily immune to wash your luck for 10 minutes.
+Once, before rolling a check, you can cancel out a misfortune effect on that roll, as normal when a fortune and misfortune effect apply to the same roll. After canceling out the misfortune effect, the spell ends.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

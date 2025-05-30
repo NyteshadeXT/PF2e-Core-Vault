@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Proboscis +4 (finesse)\n__Damage__  1d4 + 2 piercing plus attach"
+  - name: "**Melee** `pf2:1` Proboscis"
+    desc: "+4 (finesse)\n__Damage__  1d4 + 2 piercing plus attach"
 
   - name: "Leaping Strike"
     desc: "`pf2:2`  The blood mouse uses its strong hind legs to propel itself at its prey and attack. The blood mouse makes a proboscis Strike against a creature up to 10 feet away. On a hit, the Strike deals 2d4+4 piercing damage and the blood mouse attaches to the creature."

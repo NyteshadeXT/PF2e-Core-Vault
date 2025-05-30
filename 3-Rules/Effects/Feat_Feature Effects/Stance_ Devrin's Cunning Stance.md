@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Your aura grants you and your allies a +1 status bonus to skill checks. When you or an ally in the aura Strike an [[Conditions/Off-Guard|Off-Guard]] enemy, that enemy can't use reactions until the beginning of its next turn.
+Granted by [[Feats/Devrin's Cunning Stance|Devrin's Cunning Stance]]
 
-*Source: Pathfinder Lost Omens: Firebrands*
+Your aura grants you and your allies a +1 status bonus to skill checks. When you or an ally in the aura Strike an off-guard enemy, that enemy can't use reactions until the beginning of its next turn.
+
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

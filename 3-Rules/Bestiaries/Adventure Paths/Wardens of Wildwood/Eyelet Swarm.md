@@ -53,6 +53,12 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Swarm Mind|Swarm Mind]]"
+    desc: "  This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
+
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
   - name: "Send Signal"
     desc: "`pf2:1`  The eyelet sends an emergency signal through its scrying sensor to a linked scrying station (see Witness) up to 10 miles away. This transmits the eyelet's distance and direction from the station at the time of sending."
 

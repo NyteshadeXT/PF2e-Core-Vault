@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Scent|Scent]]"
+    desc: "  Scent involves sensing creatures or objects by smell, and is usually a vague sense. The range is listed in the ability, and it functions only if the creature or object being detected emits an aroma (for instance, incorporeal creatures usually do not exude an aroma).\n\nIf a creature emits a heavy aroma or is upwind, the GM can double or even triple the range of scent abilities used to detect that creature, and the GM can reduce the range if a creature is downwind."
+
   - name: "Leshy Friend"
     desc: "  Table Hounds are raised by Leaf Leshy in tandem with the canine's animal mother. The leshy intermingle magical herbs with the hound's regular food as soon as they are weened. This grants the hound the leshy trait and it is treated as a leshy for all effects. It also counts as a plant for a leshy's verdant burst."
 
@@ -61,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +6 (finesse)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+6 (finesse, unarmed)\n__Damage__  1d4 + 1 piercing"
  
 ```
 

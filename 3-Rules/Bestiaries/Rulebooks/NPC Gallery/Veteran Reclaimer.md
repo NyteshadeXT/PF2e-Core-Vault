@@ -22,7 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Character Guide"
+source: "Pathfinder Lost Omens Character Guide"
 name: "Veteran Reclaimer"
 level: "Creature 11"
 
@@ -43,7 +43,7 @@ skills:
     desc: "Acrobatics: +20, Athletics: +19, Intimidation: +15, Medicine: +19, Nature: +18, Religion: +20, Survival: +22"
 abilityMods: [4, 5, 4, 0, 3, 0]
 speed: 25 feet
-sourcebook: "_Pathfinder Lost Omens: Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Character Guide_"
 ac: 29
 armorclass:
   - name: AC
@@ -62,17 +62,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword +21 (magical, two-hand d12)\n__Damage__  2d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Bastard Sword"
+    desc: "+21 (magical, two-hand d12)\n__Damage__  2d8 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +21 (agile, versatile s)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+21 (agile, versatile s)\n__Damage__  1d4 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +21 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+21 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +22 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+22 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 6 piercing"
 
   - name: "Crimson Vengeance"
     desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** The veteran reclaimer is wielding a ranged weapon with reload 0.\n* * *\n\n**Effect** The veteran reclaimer makes two Strikes with the required weapon against a target that has attacked the veteran reclaimer or one of their allies within the last round (the multiple attack penalty applies normally).\n\nIf both hit the creature, combine their damage for the purpose of resistances and weaknesses."

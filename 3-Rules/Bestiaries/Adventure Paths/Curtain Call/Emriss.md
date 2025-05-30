@@ -50,6 +50,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Hide Armor|+1 Resilient Hide Armor]]"
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Divine Aegis"
@@ -58,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pincer +24 (agile)\n__Damage__  3d8 + 12 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Pincer"
+    desc: "+24 (agile)\n__Damage__  3d8 + 12 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +24 (reach 10 feet)\n__Damage__  3d6 + 12 piercing plus girtablilu-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+24 (reach 10 feet)\n__Damage__  3d6 + 12 piercing plus girtablilu-venom"
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 33, attack +24; __6th __ (3 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Truesight|Truesight]]_; __5th __ (3 slots) _[[Spells/Elemental Form|Elemental Form]]_, _[[Spells/Toxic Cloud|Toxic Cloud]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Heal|Heal]]_; __2nd __ (3 slots) _[[Spells/Create Food|Create Food]]_, _[[Spells/Mist|Mist]]_, _[[Spells/Revealing Light|Revealing Light]]_; __1st __ (3 slots) _[[Spells/Create Water|Create Water]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ignition|Ignition]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Stabilize|Stabilize]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  3d8+6 bludgeoning, DC 24 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  3d8+6 bludgeoning, DC 24 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Desert Stride"
     desc: "  A girtablilu ignores natural difficult terrain in the desert."
@@ -77,7 +80,7 @@ attacks:
     desc: " (poison) **Saving Throw** DC 30 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 3d6 poison damage and enfeebled 1 (1 round)\n\n**Stage 3** 3d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

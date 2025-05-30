@@ -63,17 +63,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +21 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 8 piercing plus wyvern-poison"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+21 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 8 piercing plus wyvern-poison"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Flask (Moderate) +22 (bomb, consumable, infused, range increment 30 feet, splash)\n__Damage__  1 acid 2d6 acid 2 acid"
+  - name: "**Ranged** `pf2:1` Acid Flask (Moderate)"
+    desc: "+22 (bomb, consumable, infused, range increment 30 feet, splash)\n__Damage__  1 acid 2d6 acid 2 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire (Moderate) +22 (bomb, consumable, infused, range increment 30 feet, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire (Moderate)"
+    desc: "+22 (bomb, consumable, infused, range increment 30 feet, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Tanglefoot Bag (Moderate) +22 (bomb, consumable, infused, range increment 30 feet)\n__Damage__  0 bludgeoning"
+  - name: "**Ranged** `pf2:1` Tanglefoot Bag (Moderate)"
+    desc: "+22 (bomb, consumable, infused, range increment 30 feet)\n__Damage__  0 bludgeoning"
 
   - name: "Alchemical Formulas (10th)"
     desc: "  moderate acid flask, moderate alchemist's fire, greater antidote, moderate bravo's brew, moderate elixir of life, moderate tanglefoot bag, wyvern poison"

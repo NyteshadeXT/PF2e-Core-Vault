@@ -21,5 +21,5 @@ license: OGL
 * * *
 You've slept many nights in your armor and gotten used to it. You can sleep in armor overnight without being fatigued the next day. If you were already fatigued before sleeping, the armor doesn't prevent you from recovering from being fatigued.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

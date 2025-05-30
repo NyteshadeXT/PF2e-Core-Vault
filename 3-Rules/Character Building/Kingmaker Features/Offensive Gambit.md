@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Offensive Gambit"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/army
   - trait/downtime
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.4QbqwZxEbSt3qcHw"
 license: OGL
 ---
 # Offensive Gambit
-
+## 
 ### [[army]][[downtime]]
 
 **Category** kingdom-activity; 

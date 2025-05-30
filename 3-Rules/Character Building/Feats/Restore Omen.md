@@ -19,7 +19,8 @@ license: OGL
 
 
 
-
+**Prerequisites** Harrower Dedication
+* * *
 **Requirements** You do not have an active harrow omen.
 
 * * *

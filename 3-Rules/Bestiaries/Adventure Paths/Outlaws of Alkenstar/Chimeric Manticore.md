@@ -55,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Three-Headed"
     desc: "  Any ability that would sever a chimera's head (such as a critical hit with a [[Equipment/Vorpal|Vorpal]] Weapon) severs one head at random. Losing a head doesn't kill a chimera (as long as it has one head left), but it does prevent it from making Strikes with the lost head or using the head's Breath Weapon."
@@ -63,23 +63,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dragon Jaws +18 ()\n__Damage__  2d6 + 8 piercing 2d6 electricity"
+  - name: "**Melee** `pf2:1` Dragon Jaws"
+    desc: "+18 ()\n__Damage__  2d6 + 8 piercing 2d6 electricity"
 
-  - name: "Melee"
-    desc: "`pf2:1` Lion Jaws +18 ()\n__Damage__  2d10 + 8 piercing"
+  - name: "**Melee** `pf2:1` Lion Jaws"
+    desc: "+18 ()\n__Damage__  2d10 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Goat Horns +18 ()\n__Damage__  2d10 + 8 piercing"
+  - name: "**Melee** `pf2:1` Goat Horns"
+    desc: "+18 ()\n__Damage__  2d10 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, unarmed)\n__Damage__  2d6 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spike +16 (range increment 40 feet)\n__Damage__  1d10 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Spike"
+    desc: "+16 (range increment 40 feet)\n__Damage__  1d10 + 8 piercing"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane) The chimeric manticore's blue-dragon head breathes a @Template[line|distance:60] of electricity that deals 8d6 electricity damage to all creatures in the area (DC 25 Reflex check).\n\nThe chimeric manticore can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane) The chimeric manticore's blue-dragon head breathes a 60-foot line of electricity that deals 8d6 electricity damage to all creatures in the area (DC 25 Reflex check).\n\nThe chimeric manticore can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Spike Volley"
     desc: "`pf2:1`  The manticore flings up to two spikes from its tail, targeting either two different creatures or a single creature. If the manticore targets two different creatures, these creatures must be within 20 feet of one another, and the manticore makes a separate Strike against each; this counts as only one Strike for the manticore's multiple attack penalty, and the penalty doesn't increase until after both attacks. If the manticore fires both spikes at the same creature, it makes a single Strike. If the attack hits, it deals the damage of a single spike, but the target is pinned in place, rendering it [[Conditions/Immobilized|Immobilized]]. A creature that succeeds at a DC 25 Athletics check check (attempted as a single action) can pull the spike free.\n\nA manticore can hurl no more than 12 spikes in 24 hours."

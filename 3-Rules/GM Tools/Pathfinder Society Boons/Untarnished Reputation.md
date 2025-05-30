@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Untarnished Reputation"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.Gmzby7whs5O0wuYC"
 license: OGL
 ---
 # Untarnished Reputation
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

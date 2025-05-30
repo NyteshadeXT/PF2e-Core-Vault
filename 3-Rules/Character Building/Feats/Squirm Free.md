@@ -24,5 +24,5 @@ license: OGL
 
 You're used to slipping out of a bigger creature's grasp or escaping a child's overly enthusiastic hug. You attempt to [[Actions/Escape|Escape]].
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

@@ -58,19 +58,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +7 (two-hand d8)\n__Damage__  1d4 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+7 (two-hand d8)\n__Damage__  1d4 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +7 (range increment 50 feet, reload 0)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+7 (range increment 50 feet, reload 0)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Primal Prepared Spells"
-    desc: "DC 16, attack +6; __1st __  _[[Spells/Heal|Heal]]_\n__Cantrips__  __(1st)__ _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Light|Light]]_, _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 16, attack +6; __1st __  _[[Spells/Heal|Heal]]_\n__Cantrips__  __(1st)__ _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Light|Light]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
 
   - name: "Druid Order Spells"
     desc: "1 Focus Point, DC 16, attack +6; __1st __ (1 slots) _[[Spells/Heal Animal|Heal Animal]]_"

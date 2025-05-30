@@ -6,7 +6,7 @@ tags:
   - trait/concentrate
   - trait/exploration
   - trait/investigator
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.xTK2zsWFyxSJvYbX"
@@ -14,7 +14,7 @@ license: ORC
 ---
 # Pursue a Lead
 
-### [[3-Rules/Rule References/Concentrate]][[exploration]][[investigator]]
+### [[concentrate]][[exploration]][[investigator]]
 
 **Category** interaction; 
 

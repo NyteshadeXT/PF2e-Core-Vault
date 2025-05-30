@@ -62,14 +62,17 @@ abilities_mid:
   - name: "Knock It Away"
     desc: "`pf2:r`  **Trigger** Kragala is holding a drumstick and is targeted with a ranged weapon attack by an attacker she can see\n* * *\n\n**Effect** Kragala gains a +2 circumstance bonus to AC against the triggering attack."
 
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Drumstick +13 (agile)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Drumstick"
+    desc: "+13 (agile)\n__Damage__  1d6 + 3 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Drumstick +10 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Ranged** `pf2:1` Drumstick"
+    desc: "+10 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 21, attack +13; __2nd __ (3 slots) _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Noise Blast|Sound Burst]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __ (4 slots) _[[Spells/Bless|Bless]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Protection|Protection]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

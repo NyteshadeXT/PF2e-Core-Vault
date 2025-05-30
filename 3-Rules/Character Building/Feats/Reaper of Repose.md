@@ -21,5 +21,5 @@ license: OGL
 * * *
 Your skill and fervor allow you to pierce undead defenses and exploit their weaknesses. When you make an attack using a weapon with which you have master proficiency and hit an undead creature, you ignore 5 points of the creature's resistances, and the undead's weaknesses are 2 higher against your attack.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

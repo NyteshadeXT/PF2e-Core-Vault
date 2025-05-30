@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +8 (agile, finesse, trip)\n__Damage__  1d4 + 3 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+8 (agile, finesse, trip)\n__Damage__  1d4 + 3 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +8 (disarm, finesse, nonlethal, reach, trip)\n__Damage__  1d4 + 3 slashing"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+8 (disarm, finesse, nonlethal, reach, trip)\n__Damage__  1d4 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thrown Debris +8 (thrown 20 ft., deadly d6)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Ranged** `pf2:1` Thrown Debris"
+    desc: "+8 (thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Shrieking Frenzy"
     desc: " (primal) **Trigger** The charau-ka's turn begins.\n\n**Frequency** once per hour\n* * *\n\n**Effect** The charau-ka is [[Conditions/Quickened|Quickened]] until the end of its turn, and can use the extra action to Stride or Strike. Due to its loud wailing while in a shrieking frenzy, the charau-ka can't speak and automatically critically fails all Stealth checks."

@@ -21,5 +21,5 @@ license: OGL
 * * *
 Your draconic wings have grown large and strong enough for flight. You gain a fly Speed equal to your Speed, using your wings to stay aloft.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

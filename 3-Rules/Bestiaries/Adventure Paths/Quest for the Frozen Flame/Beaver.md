@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +6 ()\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+6 (unarmed)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Construct Shelter"
     desc: "  The beaver takes 1 minute to rapidly construct a simple mound along one side of its space, which can be used to Take Cover."

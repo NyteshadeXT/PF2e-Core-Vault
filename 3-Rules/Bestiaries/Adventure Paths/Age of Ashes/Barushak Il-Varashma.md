@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Morningstar +20 (versatile p)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Morningstar"
+    desc: "+20 (versatile p)\n__Damage__  2d6 + 8 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +21 (agile, finesse, versatile s)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+21 (agile, finesse, versatile s)\n__Damage__  1d4 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +21 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+21 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 32, attack +22; __6th __  _[[Spells/Collective Transposition|Collective Transposition]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Summon Fiend|Summon Fiend]]_; __4th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Summon Fiend|Summon Fiend (Hell Hound Only)]]_; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Summon Fiend|Summon Fiend (Augur Velstrac Only)]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Carryall|Floating Disk]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(6th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
@@ -76,7 +76,7 @@ attacks:
     desc: "2 Focus Points, DC 22, attack +14; __6th __  _[[Spells/Fortify Summoning|Augment Summoning]]_, _[[Spells/Dimensional Steps|Dimensional Steps]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Binding Circle|Planar Binding]]_"
+    desc: "_Planar Binding_"
 
   - name: "Drain Bonded Item"
     desc: "  **Frequency** once per day\n\n**Requirements** Barushak hasn't acted yet on this turn.\n* * *\n\n**Effect** This turn, Barushak can cast one prepared spell he has already cast today without spending a spell slot. He must still Cast the Spell and meet the spell's other requirements."

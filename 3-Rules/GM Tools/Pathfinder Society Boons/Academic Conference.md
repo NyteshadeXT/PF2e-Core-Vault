@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Academic Conference"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.XoamInggkxLh6Zo0"
 license: OGL
 ---
 # Academic Conference
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

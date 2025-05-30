@@ -39,7 +39,7 @@ perception:
 languages: "Common, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Intimidation: +18, Nature: +20, Stealth: +20, Acrobatics: +18, Intimidation: +18, Nature: +20, Stealth: +20"
+    desc: "Acrobatics: +18, Intimidation: +18, Nature: +20, Stealth: +20"
 abilityMods: [-5, 4, 4, 4, 4, 3]
 speed:  fly 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -66,8 +66,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hydrokinetic Wave +20 ()\n__Damage__  2d8 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Hydrokinetic Wave"
+    desc: "+20 ()\n__Damage__  2d8 + 11 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 28, attack +20; __5th __  _[[Spells/Control Water|Control Water]]_; __4th __  _[[Spells/Hydraulic Torrent|Hydraulic Torrent (x2)]]_"

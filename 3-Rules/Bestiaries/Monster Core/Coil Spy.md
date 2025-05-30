@@ -61,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +14 (agile, finesse, versatile s)\n__Damage__  1d6 + 5 piercing plus serpentfolk-venom"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+14 (agile, finesse, versatile s)\n__Damage__  1d6 + 5 piercing plus serpentfolk-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +14 (finesse)\n__Damage__  1d6 + 5 piercing plus serpentfolk-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+14 (finesse)\n__Damage__  1d6 + 5 piercing plus serpentfolk-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow (Spider Venom) +10 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 3 piercing plus spider-venom"
+  - name: "**Ranged** `pf2:1` Hand Crossbow (Spider Venom)"
+    desc: "+10 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 3 piercing plus spider-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow (Serpentfolk Venom) +10 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 3 piercing plus serpentfolk-venom"
+  - name: "**Ranged** `pf2:1` Hand Crossbow (Serpentfolk Venom)"
+    desc: "+10 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 3 piercing plus serpentfolk-venom"
 
   - name: "Occult Innate Spells"
     desc: "DC 21, attack +13; __4th __  _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_; __2nd __  _[[Spells/Blur|Blur (Self Only, At Will)]]_; __1st __  _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_"

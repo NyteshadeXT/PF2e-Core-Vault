@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +8 (deadly d6, finesse)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+8 (deadly d6, finesse)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +8 (agile, finesse)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+8 (agile, finesse)\n__Damage__  1d4 + 2 piercing"
  
 ```
 

@@ -60,17 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +9 (agile, finesse, magical, versatile s)\n__Damage__  1d6 - 2 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+9 (agile, finesse, magical, versatile s)\n__Damage__  1d6 - 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shingle Tile +7 (thrown 10 ft.)\n__Damage__  1d6 - 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Shingle Tile"
+    desc: "+7 (thrown 10 ft.)\n__Damage__  1d6 - 2 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
-    desc: "  The jinkin deals 1d6 extra precision damage to off-guard creatures.\n\n* * *\n"
+    desc: "  The jinkin deals 1d6 extra precision damage to off-guard creatures.\n* * *\n\nWhen the monster Strikes a creature that has the [[Conditions/Off-Guard|Off-Guard]] condition with an agile or finesse melee weapon, an agile or finesse unarmed attack, or a ranged weapon attack, it also deals the listed precision damage. For a ranged attack with a thrown weapon, that weapon must also be an agile or finesse weapon."
 
   - name: "Tinker"
     desc: " (curse,primal) A group of six jinkins can work together for an hour to imbue an item with a curse at a range of 60 feet. While this process is lengthy, it's also unobtrusive and can be performed while [[Actions/Hide|Hiding]]. Jinkins prefer to use this ability on magic items. The curse makes the item unreliable (DC 5 Flat check check or waste any action to Interact with or Activate the item), adds a bizarre requirement to use the item, or imparts some other curse of a similar caliber."

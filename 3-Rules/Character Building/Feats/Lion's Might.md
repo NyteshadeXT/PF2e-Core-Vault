@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Bright Lion Dedication
 * * *
-You've trained with the weapons of the Bright Lions. You gain access to [[Lion Scythe|Lion Scythes]] and [[Sun Sling|Sun Slings]]. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank with lion scythes and sun slings.
+You've trained with the weapons of the Bright Lions. You gain access to [[Equipment/Lion Scythe|Lion Scythes]] and [[Equipment/Sun Sling|Sun Slings]]. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank with lion scythes and sun slings.
 
 *Source: Pathfinder #172: Secrets of the Temple-City*
 *OGL*

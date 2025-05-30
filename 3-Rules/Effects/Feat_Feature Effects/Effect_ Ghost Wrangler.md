@@ -20,5 +20,5 @@ Granted by [[Feats/Ghost Wrangler|Ghost Wrangler]]
 
 Your fists gain the effects of the ghost touch property rune.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You gain lifesense as an imprecise sense with a range of 30 feet for 1 hour as long as you continue to hold the charm. This allows you to sense the life force that animates living creatures and the perverse force that animates the dead, though you can't distinguish between the two.
+Granted by [[Equipment/Nosoi Charm|Nosoi Charm]]
+
+You gain lifesense as an imprecise sense with a range of 30 feet.
 
 *Source: Pathfinder Adventure: Night of the Gray Death*
 *OGL*

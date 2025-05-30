@@ -65,7 +65,7 @@ attacks:
   - name: "Routine"
     desc: "(3 actions) On each of the trap's actions, the flock of paper birds attacks a different creature. On a successful hit, each target must attempt a DC 26 Reflex check save. On a failure, they take 2d6 persistent bleed damage."
   - name: "Reset"
-    desc: "The trap deactivates and resets if no hostile creatures  \nremain outside."
+    desc: "The trap deactivates and resets if no hostile creatures remain outside."
 ```
 
 ```encounter-table

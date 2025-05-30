@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/aura
   - trait/olfactory
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.Ez8sVqv1EBcJuorK"
 license: OGL
 ---
 # (Zombie) Putrid Stench
 
-### [[3-Rules/trait_reference/A/aura]][[olfactory]]
+### [[aura]][[olfactory]]
 
 **Category** defensive; 
 

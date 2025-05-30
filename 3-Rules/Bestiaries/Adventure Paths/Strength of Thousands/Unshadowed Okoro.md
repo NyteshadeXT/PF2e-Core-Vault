@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +28 (agile, finesse, nonlethal, unarmed)\n__Damage__  3d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+28 (agile, finesse, nonlethal, unarmed)\n__Damage__  3d4 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +28 (deadly 2d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  3d6 + 22 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+28 (deadly 2d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  3d6 + 22 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 40, attack +32; __9th __ (3 slots) _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Prismatic Sphere|Prismatic Sphere]]_, _[[Spells/Telepathic Demand|Telepathic Demand]]_; __8th __ (3 slots) _[[Spells/Quandary|Maze]]_, _[[Spells/Prismatic Wall|Prismatic Wall]]_, _[[Spells/Spirit Song|Spirit Song]]_; __7th __ (3 slots) _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_; __6th __ (3 slots) _[[Spells/Collective Transposition|Collective Transposition]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __ (3 slots) _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_; __4th __ (3 slots) _[[Spells/Flicker|Blink]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (3 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Noise Blast|Sound Burst]]_; __1st __ (3 slots) _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(9th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

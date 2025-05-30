@@ -57,7 +57,7 @@ attacks:
     desc: "`pf2:r` **Trigger** A creature is within the way station.\n* * *\n\n**Effect** The vision of Dahak appears in a 15-foot space adjacent to that creature and rolls initiative."
 
   - name: "Breath Weapon"
-    desc: "action (divine, fire) The vision of Dahak unleashes a blast of fire from its burning maw, creating a @Template[cone|distance:60] that deals 6d6 fire damage to all creatures within (DC 26 Reflex check save)."
+    desc: "action (divine, fire) The vision of Dahak unleashes a blast of fire from its burning maw, creating a 60-foot cone that deals 6d6 fire damage to all creatures within (DC 26 Reflex check save)."
 
   - name: "Routine"
     desc: "(2 actions) The vision of Dahak manifests next to the creature that is closest to the center of the way station, then uses its Breath Weapon in a direction that catches the most possible targets in its area."

@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Spells/Tomorrow's Dawn|Tomorrow's Dawn]]
+
 You cast bright light in a 20-foot radius (and dim light for the next 20 feet) and gain mental resistance.
 
 *Source: Pathfinder #197: Let the Leaves Fall*

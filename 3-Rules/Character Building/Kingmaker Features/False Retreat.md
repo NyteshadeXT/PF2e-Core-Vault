@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 title: "False Retreat"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/infantry
   - trait/morale
   - trait/skirmisher
-  - trait/common
+  - trait/
   - category/army-war-action
 aliases: "Compendium.pf2e.kingmaker-features.Item.AOFU8pOTMjVdiyNd"
 license: OGL
 ---
 # False Retreat `pf2:r`
-
+## 
 ### [[infantry]][[morale]][[skirmisher]]
 
 **Category** army-war-action; 

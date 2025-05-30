@@ -33,7 +33,7 @@ trait_03: [[swarm]]
 modifier: 11
 perception:
   - name: "Perception"
-    desc: "+11; "
+    desc: "+11; Low-Light Vision"
 languages: ""
 skills:
   - name: "Skills"

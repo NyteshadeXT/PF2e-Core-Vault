@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Werecreature) Animal Empathy"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.iAXHLkxuuCUOwqkN"

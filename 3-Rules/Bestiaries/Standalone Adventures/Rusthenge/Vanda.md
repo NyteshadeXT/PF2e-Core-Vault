@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +10 (magical, versatile p)\n__Damage__  1d12 + 3 slashing"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+10 (magical, versatile p)\n__Damage__  1d12 + 3 slashing"
  
 ```
 

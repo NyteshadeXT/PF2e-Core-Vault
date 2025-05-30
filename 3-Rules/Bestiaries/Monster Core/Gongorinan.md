@@ -55,28 +55,34 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Club|+1 Striking Club]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +24 ()\n__Damage__  2d6 + 9 bludgeoning plus reject-tools"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+24 ()\n__Damage__  2d6 + 9 bludgeoning plus reject-tools"
 
-  - name: "Melee"
-    desc: "`pf2:1` Pincer +23 (magical, unholy)\n__Damage__  2d6 mental plus grab 2d10 + 9 slashing plus grab"
+  - name: "**Melee** `pf2:1` Pincer"
+    desc: "+23 (magical, unholy)\n__Damage__  2d6 mental plus grab 2d10 + 9 slashing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +23 (agile, magical, reach 10 feet, unholy)\n__Damage__  2d6 + 9 bludgeoning 2d6 mental"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+23 (agile, magical, reach 10 feet, unarmed, unholy)\n__Damage__  2d6 + 9 bludgeoning 2d6 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +23 (magical, unholy)\n__Damage__  2d6 + 9 piercing plus gongorinan-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+23 (magical, unholy)\n__Damage__  2d6 + 9 piercing plus gongorinan-venom"
 
   - name: "Occult Innate Spells"
     desc: "DC 30, attack +22; __6th __  _[[Spells/Cursed Metamorphosis|Cursed Metamorphosis]]_, _[[Spells/Petrify|Petrify]]_; __3rd __  _[[Spells/One with Stone|One with Stone (At Will)]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Unfettered Movement]]_"
 
   - name: "Disquieting Display"
-    desc: "`pf2:2` (concentrate,mental,occult,visual) The gongorinan opens its maw to reveal the forms [[Conditions/Hidden|Hidden]] there, making observers question their own bodies. Creatures in a @Template[emanation|distance:30] must attempt a DC 30 Will check save, after which they are temporarily immune to further Disquieting Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Clumsy|Clumsy 1]] for 1 round.\n\n**Failure** The creature is [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Critical Failure** As failure, but for 1 minute."
+    desc: "`pf2:2` (concentrate,mental,occult,visual) The gongorinan opens its maw to reveal the forms [[Conditions/Hidden|Hidden]] there, making observers question their own bodies. Creatures in a 30-foot emanation must attempt a DC 30 Will check save, after which they are temporarily immune to further Disquieting Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Clumsy|Clumsy 1]] for 1 round.\n\n**Failure** The creature is [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Critical Failure** As failure, but for 1 minute."
 
   - name: "Gongorinan Venom"
     desc: " (poison,polymorph) **Saving Throw** DC 30 Fortitude check\n* * *\n\n**Stage 1** [[Conditions/Stupefied|Stupefied 1]] and cosmetic signs appear of turning into an animal, fungus, or plant (1 round)\n\n**Stage 2** [[Conditions/Stupefied|Stupefied 2]] and [[Conditions/Clumsy|Clumsy 2]] (1 round)\n\n**Stage 3** [[Conditions/Stupefied|Stupefied 4]] and [[Conditions/Clumsy|Clumsy 4]] (1 round)\n\n**Stage 4** [[Conditions/Paralyzed|Paralyzed]] as changes completely overtake the body (1 round)\n\n**Stage 5** the victim permanently transforms into an animal, fungus, or plant in mind and body as a permanent curse, and the affliction ends"
@@ -88,7 +94,7 @@ attacks:
     desc: " (mental,occult) A creature hit by the gongorinan's club must succeed at a DC 30 Will check save or [[Actions/Release|Release]] any manufactured items it's holding."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

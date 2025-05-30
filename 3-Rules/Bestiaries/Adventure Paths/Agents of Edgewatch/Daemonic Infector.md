@@ -56,6 +56,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Combustible"
@@ -67,8 +73,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +36 (agile, finesse, magical, unholy)\n__Damage__  4d8 + 14 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+36 (agile, finesse, magical, unarmed, unholy)\n__Damage__  4d8 + 14 slashing 1d6 spirit"
 
   - name: "Divine Prepared Spells"
     desc: "DC 46, attack +38; __10th __  _[[Spells/Miracle|Miracle]]_; __9th __  _[[Spells/Telepathic Demand|Telepathic Demand]]_; __8th __  _[[Spells/Spiritual Epidemic|Spiritual Epidemic]]_; __7th __  _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Energy Aegis|Energy Aegis]]_, _[[Spells/Regenerate|Regenerate]]_; __6th __  _[[Spells/Blade Barrier|Blade Barrier]]_, _[[Spells/Spirit Blast|Spirit Blast]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Abyssal Plague|Abyssal Plague]]_, _[[Spells/Sending|Sending]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Divine Wrath|Divine Wrath]]_; __3rd __  _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Heroism|Heroism]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Cleanse Affliction|Neutralize Poison]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Silence|Silence]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Cleanse Cuisine|Purify Food and Drink]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(10th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_"
@@ -80,7 +86,7 @@ attacks:
     desc: "3 Focus Points, DC 46, attack +38; __10th __  _[[Spells/Death's Call|Death's Call]]_, _[[Spells/Eradicate Undeath|Eradicate Undeath]]_"
 
   - name: "Breathe Death"
-    desc: "`pf2:2` (divine,poison) The Daemonic Infector exhales a @Template[line|distance:30] of concentrated fumes.\n\nEach creature in the area takes 12d10 poison damage (DC 44 Fortitude check save; on a critical failure the creature is also [[Conditions/Drained|Drained 1]]).\n\nThe Infector can't Breathe Death again for 1d4 rounds."
+    desc: "`pf2:2` (divine,poison) The Daemonic Infector exhales a 30-foot line of concentrated fumes.\n\nEach creature in the area takes 12d10 poison damage (DC 44 Fortitude check save; on a critical failure the creature is also [[Conditions/Drained|Drained 1]]).\n\nThe Infector can't Breathe Death again for 1d4 rounds."
 
   - name: "Infector"
     desc: "`pf2:2` (concentrate,divine) The Daemonic targets a creature within 30 feet that's currently subject to a poison affliction. The poison affliction progresses to the next stage."

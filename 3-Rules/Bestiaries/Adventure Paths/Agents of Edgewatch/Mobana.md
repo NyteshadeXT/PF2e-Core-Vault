@@ -74,11 +74,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +20 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 + 10 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+20 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +22 (deadly 2d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+22 (deadly 2d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 6 piercing"
 
   - name: "Poison Weapon"
     desc: "`pf2:1` (manipulate) **Requirements** Mobana is wielding a piercing or slashing weapon and has a free hand.\n* * *\n\n**Effect** Mobana applies a poison to the weapon."

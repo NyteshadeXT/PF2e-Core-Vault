@@ -57,13 +57,19 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Whip|+3 Greater Striking Greater Frost Whip]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
   - name: "Painsight"
     desc: " (divine) A velstrac automatically knows whether a creature it sees has any of the [[Conditions/Doomed|Doomed]], [[Conditions/Dying|Dying]], and [[Conditions/Wounded|Wounded]] conditions, as well as the value of those conditions."
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 20 (Deactivated by Holy or Silver)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Glimpse of Stolen Flesh"
     desc: " (aura,divine,fear,mental,visual) 30 feet. When a creature ends its turn in the aura, it sees pieces of its own body amid the interlocutor's form. The creature must succeed at a DC 33 Will check save or become [[Conditions/Stunned|Stunned 1]]."
@@ -71,11 +77,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +28 (deadly 2d10, magical, reach 10 feet, unholy)\n__Damage__  3d8 + 15 slashing 2d6 bleed"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+28 (deadly 2d10, magical, reach 10 feet, unarmed, unholy)\n__Damage__  3d8 + 15 slashing 2d6 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +31 (disarm, finesse, magical, nonlethal, reach 15 feet, trip, unholy)\n__Damage__  1d6 cold 3d4 + 15 slashing"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+31 (disarm, finesse, magical, nonlethal, reach 15 feet, trip, unholy)\n__Damage__  1d6 cold 3d4 + 15 slashing"
 
   - name: "Divine Innate Spells"
     desc: "DC 36, attack +23; __8th __  _[[Spells/Heal|Heal (x2)]]_; __7th __ (1 slots) _[[Spells/Regenerate|Regenerate]]_; __6th __  _[[Spells/Restoration|Restoration (x2)]]_; __5th __ (1 slots) _[[Spells/Breath of Life|Breath of Life]]_\n__Cantrips__  __(8th)__ _[[Spells/Stabilize|Stabilize]]_"

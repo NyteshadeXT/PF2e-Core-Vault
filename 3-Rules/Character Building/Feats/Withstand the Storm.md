@@ -27,5 +27,5 @@ license: ORC
 
 Your skin hardens like bark and gains the sheen of glazed clay, lessening the wild's ruinous sting against your body. You gain resistance equal to your level against the triggering damage type.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

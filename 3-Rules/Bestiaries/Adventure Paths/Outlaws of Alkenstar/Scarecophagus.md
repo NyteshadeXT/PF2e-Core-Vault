@@ -61,7 +61,7 @@ abilities_mid:
     desc: " (aura,divine,emotion,fear,incapacitation,mental) 30 feet. Living creatures are [[Conditions/Frightened|Frightened 1]] while in a scarecophagus' despair aura. They can't naturally recover from this fear while in the emanation but recover instantly once they leave it. When a creature first enters the emanation, it must succeed at a DC 22 Will check save (after taking the penalty from being frightened 1) or be [[Conditions/Paralyzed|Paralyzed]] for 1 round. The creature is then temporarily immune to this paralysis for 24 hours.\n\n[[Bestiary Effects/Effect_ Despair|Effect: Despair]]"
 
   - name: "Disgorge Mummy"
-    desc: "  If a scarecophagus is reduced to 0 Hit Points by any damage other than vitality energy, it cracks open as it's destroyed, allowing the undead mummy trapped for eons within its core to rise. This is a weak [[Bestiary 1/Mummy Guardian|Mummy Guardian]]; if the mummy guardian survives on its own for a month, it loses the weak adjustment. If the scarecophagus is reduced to 0 Hit Points by vitality energy, it cracks open as it's destroyed and the mummy within turns to dust, destroyed as well."
+    desc: "  If a scarecophagus is reduced to 0 Hit Points by any damage other than vitality energy, it cracks open as it's destroyed, allowing the undead mummy trapped for eons within its core to rise. This is a weak [[Monster Core/Mummy Guardian|Mummy Guardian]]; if the mummy guardian survives on its own for a month, it loses the weak adjustment. If the scarecophagus is reduced to 0 Hit Points by vitality energy, it cracks open as it's destroyed and the mummy within turns to dust, destroyed as well."
 
   - name: "Vulnerable to Vitality Energy"
     desc: "  A scarecophagus takes damage from vitality energy as if it were an undead creature."
@@ -69,8 +69,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +15 (agile, magical, reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+15 (agile, magical, reach 10 feet, unarmed)\n__Damage__  2d6 + 7 bludgeoning"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Dispel Magic|Dispel Magic]]_; __1st __  _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

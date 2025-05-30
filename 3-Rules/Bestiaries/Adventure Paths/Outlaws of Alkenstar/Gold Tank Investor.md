@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +4 ()\n__Damage__  1d4 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+4 ()\n__Damage__  1d4 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +4 (thrown 10 ft.)\n__Damage__  1d4 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+4 (thrown 10 ft.)\n__Damage__  1d4 bludgeoning"
  
 ```
 

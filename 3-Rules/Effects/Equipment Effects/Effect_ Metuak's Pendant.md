@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Metuak's Pendant|Metuak's Pendant]]
+
 The creature gains a +1 status bonus to saving throws against mental effects that would make them confused, controlled, frightened, or stupefied.
 
 *Source: Pathfinder #176: Lost Mammoth Valley*

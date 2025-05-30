@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hot Air +7 (air)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Hot Air"
+    desc: "+7 (air)\n__Damage__ "
 
-  - name: "Ranged"
-    desc: "`pf2:1` Lightning Bolt +7 (electricity, range increment 50 feet)\n__Damage__  1d6 electricity"
+  - name: "**Ranged** `pf2:1` Lightning Bolt"
+    desc: "+7 (electricity, range increment 50 feet)\n__Damage__  1d6 electricity"
 
   - name: "Downcast"
-    desc: "`pf2:2` (air,emotion,mental) The despairing pall Flies up to its Speed, then rains gloom and despair in a @Template[line|distance:15] straight down. Creatures in the area must succeed at a DC 16 Will check save or take a –1 status penalty to attack rolls until the end of the despairing pall's next turn.\n\n[[Bestiary Effects/Effect_ Downcast|Effect: Downcast]]"
+    desc: "`pf2:2` (air,emotion,mental) The despairing pall Flies up to its Speed, then rains gloom and despair in a 15-foot line straight down. Creatures in the area must succeed at a DC 16 Will check save or take a –1 status penalty to attack rolls until the end of the despairing pall's next turn.\n\n[[Bestiary Effects/Effect_ Downcast|Effect: Downcast]]"
  
 ```
 

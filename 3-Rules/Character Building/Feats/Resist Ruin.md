@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Your duskwalker heritage allows you to extend protection against void energy. You gain resistance 5 to void, and once per day, you can cast [[False Vitality|False Vitality]] as a 5th-rank divine innate spell.
+Your duskwalker heritage allows you to extend protection against void energy. You gain resistance 5 to void, and once per day, you can cast [[Spells/False Vitality|False Vitality]] as a 5th-rank divine innate spell.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 60 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Anchored Soul"
     desc: "  The stone spider is bonded to a specific settlement and must remain within 10 miles of the settlement's border."
 
@@ -66,8 +69,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spirit Web +14 (holy, range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Spirit Web"
+    desc: "+14 (holy, range increment 30 feet)\n__Damage__ "
 
   - name: "Divine Innate Spells"
     desc: "DC 21, attack +13; __3rd __  _[[Spells/Dream Message|Dream Message]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will, Evil Only)]]_"

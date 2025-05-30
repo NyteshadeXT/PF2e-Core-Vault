@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Horizon Hunters Champion, Improved"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.Sc9gT40T28tFhSzq"
 license: OGL
 ---
 # Horizon Hunters Champion, Improved
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

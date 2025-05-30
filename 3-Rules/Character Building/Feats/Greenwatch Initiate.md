@@ -13,7 +13,7 @@ license: OGL
 ---
 # Greenwatch Initiate
 ## Feat 4
-### [rare](rare.md "Rare Rarity Trait")[[gunslinger]][[investigator]][[ranger]]
+### [rare](rare "Rare Rarity Trait")[[gunslinger]][[investigator]][[ranger]]
 
 **Category** class; 
 
@@ -23,5 +23,5 @@ license: OGL
 * * *
 You've received the basic training developed for all Greenwatch recruits. You become an expert in Survival and gain the [[Feats/Experienced Tracker|Experienced Tracker]] and [[Feats/Survey Wildlife|Survey Wildlife]] skill feats.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

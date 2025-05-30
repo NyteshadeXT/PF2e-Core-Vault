@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Your weapons and unarmed attacks gain the holy weapon rune while you hold them. In addition, Strikes your allies make while they're within 30 feet of you gain the holy trait.
+Granted by [[Adventure-Specific Actions/Righteous Call|Righteous Call]]
+
+Strikes your allies make while they're within 30 feet of you gain the holy trait.
 
 *Source: Pathfinder GM Core*
 *ORC*

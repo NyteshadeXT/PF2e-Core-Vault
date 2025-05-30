@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +11 ()\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+11 ()\n__Damage__  1d6 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +12 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+12 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
 
   - name: "Quick Draw"
     desc: "`pf2:1`  The delinquent draws a weapon with an [[Actions/Interact|Interact]] action, then [[Actions/Strike|Strikes]] with the weapon they just drew."

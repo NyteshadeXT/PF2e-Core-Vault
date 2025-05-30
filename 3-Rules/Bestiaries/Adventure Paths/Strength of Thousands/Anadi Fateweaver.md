@@ -64,29 +64,29 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +13 (finesse)\n__Damage__  2d6 + 6 piercing plus anadi-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+13 (finesse)\n__Damage__  2d6 + 6 piercing plus anadi-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +13 (agile, finesse, versatile p)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+13 (agile, finesse, versatile p)\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +13 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+13 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Innate Arcane Spells"
     desc: "DC 23, attack +15; __2nd __ (2 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Web|Web]]_; __1st __ (3 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_"
 
   - name: "Spontaneous Arcane Spells"
-    desc: "DC 23, attack +15; __3rd __ (2 slots) _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __ (3 slots) _[[Spells/Augury|Augury]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Status|Status]]_; __1st __ (3 slots) _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 23, attack +15; __3rd __ (2 slots) _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __ (3 slots) _[[Spells/Augury|Augury]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Status|Status]]_; __1st __ (3 slots) _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Arcane Weaving|Arcane Weaving]]_"
+    desc: "_Arcane Weaving_"
 
   - name: "Anadi Venom"
     desc: " (poison) **Saving Throw** DC 20 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Clumsy|Clumsy 1]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The anadi changes into their hybrid, spider, or human form. The above statistics assume the anadi is in hybrid form. While in human form, the anadi seeker loses their climb Speed and can't use their fangs attack. When in spider form, they can't use weapons.\n\n* * *\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The anadi changes into their hybrid, spider, or human form. The above statistics assume the anadi is in hybrid form. While in human form, the anadi seeker loses their climb Speed and can't use their fangs attack. When in spider form, they can't use weapons.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
  
 ```
 

@@ -35,6 +35,6 @@ abilities_top:
     desc: "varies"
 abilities_mid:
   - name: ""
-    desc: "You shape the shadow substance of the Netherworld into a blast. Choose acid, bludgeoning, cold, electricity, fire, force, piercing, slashing, sonic, or spirit damage; and choose a @Template[cone|distance:30], a @Template[burst|distance:15] within 120 feet, or a @Template[line|distance:50]. The blast deals 6d8 damage of the type you chose to each creature in the area.\n* * *\n\n**Heightened (+1)** The damage increases by 1d8."
+    desc: "You shape the shadow substance of the Netherworld into a blast. Choose acid, bludgeoning, cold, electricity, fire, force, piercing, slashing, sonic, or spirit damage, and choose a 30-foot cone, a 15-foot burst within 120 feet, or a 50-foot line. The blast deals 6d8 damage of the type you chose to each creature in the area (6d8 acid, 6d8 bludgeoning, 6d8 cold, 6d8 electricity, 6d8 fire, 6d8 force, 6d8 piercing, 6d8 slashing, 6d8 sonic, or 6d8 spirit).\n* * *\n\n**Heightened (+1)** The damage increases by 1d8."
 sourcebook: "_Pathfinder Player Core_"
 ```

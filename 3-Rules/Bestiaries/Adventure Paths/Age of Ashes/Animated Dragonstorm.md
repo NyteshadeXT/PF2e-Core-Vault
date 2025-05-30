@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +35 (deadly 3d12, magical, reach 15 feet)\n__Damage__  5d10 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+35 (deadly 3d12, magical, reach 15 feet, unarmed)\n__Damage__  5d10 + 12 bludgeoning"
 
   - name: "Channel Dragonstorm"
-    desc: "`pf2:2` (divine) The animated dragonstorm directs a @Template[cone|distance:30] of dragonstorm energy. This deals 3d8 acid, 3d8 cold, 3d8 electricity, 3d8 fire, and 3d8 poison damage to creatures in the cone (DC 40 Reflex check save). The animated dragonstorm can't use Channel Dragonstorm again for 1d4 rounds."
+    desc: "`pf2:2` (divine) The animated dragonstorm directs a 30-foot cone of dragonstorm energy. This deals 3d8 acid, 3d8 cold, 3d8 electricity, 3d8 fire, and 3d8 poison damage to creatures in the cone (DC 40 Reflex check save). The animated dragonstorm can't use Channel Dragonstorm again for 1d4 rounds."
 
   - name: "Destructive Strikes"
     desc: "  The animated dragonstorm's attacks ignore the Hardness of objects with Hardness 20 or less."

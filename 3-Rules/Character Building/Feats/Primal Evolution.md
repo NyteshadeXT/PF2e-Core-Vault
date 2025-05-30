@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** bloodline that grants primal spells
 * * *
-You can call upon the creatures of the wild for aid. You gain an additional spell slot of your highest rank, which you can use only to cast [[Summon Animal|Summon Animal]] or [[Summon Plant or Fungus|Summon Plant or Fungus]]. You can cast either of these spells using that spell slot, even if it they aren't in your spell repertoire.
+You can call upon the creatures of the wild for aid. You gain an additional spell slot of your highest rank, which you can use only to cast [[Spells/Summon Animal|Summon Animal]] or [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]]. You can cast either of these spells using that spell slot, even if it they aren't in your spell repertoire.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

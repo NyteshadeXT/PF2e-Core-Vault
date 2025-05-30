@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Dream Research"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.6hrDW8tF6CDIaZl7"
 license: OGL

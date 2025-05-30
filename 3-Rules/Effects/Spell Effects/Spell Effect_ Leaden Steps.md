@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Leaden Steps|Leaden Steps]]
+Granted by [[Spells/Leaden Steps|Leaden Steps]]
 
 The target is [[Conditions/Encumbered|Encumbered]] and has a weakness to electricity.
 

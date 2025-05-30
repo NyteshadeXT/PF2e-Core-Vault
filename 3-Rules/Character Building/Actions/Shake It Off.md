@@ -21,7 +21,7 @@ license: OGL
 
 **Frequency** once per day
 
-**Trigger** You fail or critically fail a saving throw against a condition or adverse effect (such as [[Cursed Metamorphosis|Cursed Metamorphosis]])
+**Trigger** You fail or critically fail a saving throw against a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])
 
 * * *
 

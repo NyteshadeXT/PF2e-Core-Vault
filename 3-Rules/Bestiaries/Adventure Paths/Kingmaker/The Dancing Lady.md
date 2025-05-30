@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile, finesse)\n__Damage__  2d6 + 7 slashing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, finesse, unarmed)\n__Damage__  2d6 + 7 slashing 1d6 bleed"
 
   - name: "Primal Innate Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_; __2nd __  _[[Spells/Entangling Flora|Entangle]]_"
@@ -67,10 +67,10 @@ attacks:
     desc: "`pf2:2` (incapacitation,mental,primal,visual) The baobhan sith sways rhythmically and Strides up to their Speed. Each creature within 30 feet of the baobhan sith at the end of their movement must attempt a DC 26 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Captivating Dance for 24 hours.\n\n**Success** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round and is temporarily immune to Captivating Dance for 24 hours.\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend at least 1 of its actions on each of its turns to move closer to the baobhan sith as expediently as possible, while avoiding obvious dangers. If the creature ends its movement or turn adjacent to the fey, it is [[Conditions/Slowed|Slowed 1]] until the end of its next turn.\n\n**Critical Failure** As failure, but the creature must spend each of its actions moving closer to the baobhan sith, and if it ends its movement or turn adjacent to the fey, it is [[Conditions/Paralyzed|Paralyzed]] until the end of its next turn."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The Dancing Lady can transform into a large bat, with the effects from the bird option in the [[Spells/Aerial Form|Aerial Form]] spell.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The Dancing Lady can transform into a large bat, with the effects from the bird option in the [[Spells/Aerial Form|Aerial Form]] spell.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Drink Blood"
-    desc: "`pf2:1`  **Requirements** A bleeding creature is within the baobhan sith's reach\n* * *\n\n**Effect** The baobhan sith tries to Drink the Blood from the bleeding creature's wounds. The baobhan sith attempts an Athletics check check against the victim's Fortitude DC. On a success, the victim becomes [[Conditions/Drained|Drained 1]] and the baobhan sith regains 10 HP, gaining any Hit Points in excess of their maximum Hit Points as temporary Hit Points.\n\nDrinking Blood from a victim that's already drained doesn't restore any Hit Points to the baobhan sith but increases the victim's drained value by 1. A victim's drained condition decreases by 1 per week. A blood transfusion, which requires 10 minutes, a successful DC 20 Medicine check check, and sufficient blood or a blood donor, reduces the drained value by 1."
+    desc: "`pf2:1`  **Requirements** A bleeding creature is within the baobhan sith's reach\n* * *\n\n**Effect** The baobhan sith tries to Drink the Blood from the bleeding creature's wounds. The baobhan sith attempts an Athletics check check against the victim's Fortitude DC. On a success, the victim becomes [[Conditions/Drained|Drained 1]] and the baobhan sith regains 10 healing HP, gaining any Hit Points in excess of their maximum Hit Points as temporary Hit Points.\n\nDrinking Blood from a victim that's already drained doesn't restore any Hit Points to the baobhan sith but increases the victim's drained value by 1. A victim's drained condition decreases by 1 per week. A blood transfusion, which requires 10 minutes, a successful DC 20 Medicine check check, and sufficient blood or a blood donor, reduces the drained value by 1."
  
 ```
 

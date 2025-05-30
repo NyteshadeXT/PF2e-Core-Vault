@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/disease
   - trait/virulent
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.NgiwaeUqMPfkYvQq"
 license: OGL
 ---
 # (Vampire, Nosferatu) Plague of Ancients
 
-### [[3-Rules/trait_reference/D/disease]][[virulent]]
+### [[disease]][[virulent]]
 
 **Category** offensive; 
 

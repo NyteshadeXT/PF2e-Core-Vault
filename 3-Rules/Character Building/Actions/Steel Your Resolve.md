@@ -3,14 +3,13 @@ obsidianUIMode: preview
 title: "Steel Your Resolve"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.actionspf2e.Item.D2PNfIw7U6Ks0VY4"
 license: OGL
 ---
 # Steel Your Resolve `pf2:1`
 
-### [[general]]
+### 
 
 
 

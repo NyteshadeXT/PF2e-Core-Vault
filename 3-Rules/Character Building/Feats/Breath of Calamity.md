@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Your roar shakes the earth and splits the heavens. Once per day, you can cast [[Chain Lightning|Chain Lightning]] as a 7th-rank innate occult spell. Any creature that critically fails its save against the spell is [[Conditions/Blinded|Blinded]] and [[Conditions/Deafened|Deafened]] for 1 round.
+Your roar shakes the earth and splits the heavens. Once per day, you can cast [[Spells/Chain Lightning|Chain Lightning]] as a 7th-rank innate occult spell. Any creature that critically fails its save against the spell is [[Conditions/Blinded|Blinded]] and [[Conditions/Deafened|Deafened]] for 1 round.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

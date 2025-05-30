@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Skeleton) Blaze"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.9oy2zWxy7Klk9FxR"
 license: OGL

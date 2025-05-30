@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +14 (agile, finesse, trip)\n__Damage__  1d6 + 7 slashing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+14 (agile, finesse, trip)\n__Damage__  1d6 + 7 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shuriken +14 (agile, monk, reload 0, thrown 20 ft.)\n__Damage__  1d4 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Shuriken"
+    desc: "+14 (agile, monk, reload 0, thrown 20 ft.)\n__Damage__  1d4 + 7 piercing"
 
   - name: "Envenom"
     desc: "`pf2:1`  **Frequency** once per day\n* * *\n\n**Effect** Using either saliva or blood, the infiltrator applies vishkanyan venom to one weapon they're holding. To use their blood, they must be injured, or they can deal themselves 1 slashing damage as part of the action."

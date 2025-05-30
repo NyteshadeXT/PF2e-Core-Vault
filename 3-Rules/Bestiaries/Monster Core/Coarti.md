@@ -55,6 +55,15 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Morningstar|+1 Morningstar]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Blood Contract"
@@ -63,20 +72,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Morningstar +18 (magical, unholy, versatile p)\n__Damage__  1d6 + 10 bludgeoning 1d6 spirit"
+  - name: "**Melee** `pf2:1` Morningstar"
+    desc: "+18 (magical, unholy, versatile p)\n__Damage__  1d6 + 10 bludgeoning 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +17 (agile, unholy, versatile p)\n__Damage__  1d6 fire 1d6 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+17 (agile, unholy, versatile p)\n__Damage__  1d6 fire 1d6 + 7 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Translocate|Translocate (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Diabolic Pact|Diabolic Pact]]_"
+    desc: "_Diabolic Pact_"
 
   - name: "Despairing Shriek"
-    desc: "`pf2:2` (divine,sonic,unholy) The coarti lets out a terrible cry, dealing 4d6 sonic damage to all creatures in a @Template[emanation|distance:30] with a DC 25 Will check save. Holy creatures that fail this save are also [[Conditions/Frightened|Frightened 2]]; this added effect has the emotion, fear, and mental traits.\n\nThe coarti can't use Despairing Shriek again for 1d4 rounds."
+    desc: "`pf2:2` (divine,sonic,unholy) The coarti lets out a terrible cry, dealing 4d6 sonic damage to all creatures in a 30-foot emanation with a DC 25 Will check save. Holy creatures that fail this save are also [[Conditions/Frightened|Frightened 2]]; this added effect has the emotion, fear, and mental traits.\n\nThe coarti can't use Despairing Shriek again for 1d4 rounds."
 
   - name: "Wing Snap"
     desc: "`pf2:1`  **Frequency** once per turn\n* * *\n\n**Effect** The coarti makes two wing Strikes, then falls if it's flying. It can't Fly until the end of its turn."

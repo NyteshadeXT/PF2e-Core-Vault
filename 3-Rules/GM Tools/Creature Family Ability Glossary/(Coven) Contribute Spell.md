@@ -4,7 +4,7 @@ title: "(Coven) Contribute Spell"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.zkjsfsweJmsB66CS"
 license: OGL

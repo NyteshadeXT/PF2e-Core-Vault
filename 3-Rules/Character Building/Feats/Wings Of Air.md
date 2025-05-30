@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Wings Of Air"
+title: "Wings of Air"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/morph
@@ -11,7 +11,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.FUOUyhHufNH4ri7H"
 license: OGL
 ---
-# Wings Of Air `pf2:2`
+# Wings of Air `pf2:2`
 ## Feat 9
 ### [[morph]][[primal]][[sylph]]
 
@@ -26,5 +26,5 @@ license: OGL
 
 You can strain to call forth feathered or cloudy wings from your back. Once manifested, these wings remain for 10 minutes. You gain a fly Speed equal to your land Speed while you've manifested your wings.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

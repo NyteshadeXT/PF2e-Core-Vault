@@ -22,5 +22,7 @@ license: ORC
 * * *
 When you take the [[Actions/Seek|Seek]] action, you can use hearing as a precise sense with a range of 40 feet until the start of your next turn. You can also use this sense while you [[Actions/Search|Search]].
 
+[[Feat_Feature Effects/Effect_ Echolocation|Effect: Echolocation]]
+
 *Source: Pathfinder Howl of the Wild*
 *ORC*

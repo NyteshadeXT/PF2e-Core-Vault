@@ -55,6 +55,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Composite Longbow|+1 Striking Composite Longbow]], 50x [[Equipment/Arrows|Arrows]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Plaguesense (Imprecise) 60 feet"
     desc: "  A leukodaemon senses any creature with a disease, and they know the type and current stage of all diseases carried by any creature within range."
 
@@ -66,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 (disease, magical, reach 10 feet, unholy)\n__Damage__  2d12 + 9 piercing plus daemonic-pestilence"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (disease, magical, reach 10 feet, unarmed, unholy)\n__Damage__  2d12 + 9 piercing plus daemonic-pestilence"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (agile, disease, magical, reach 10 feet, unholy)\n__Damage__  2d8 + 9 slashing plus daemonic-pestilence"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (agile, disease, magical, reach 10 feet, unarmed, unholy)\n__Damage__  2d8 + 9 slashing plus daemonic-pestilence"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +21 (deadly d10, disease, magical, propulsive, range increment 100 feet, reload 0, unholy, volley 30 ft.)\n__Damage__  2d8 + 9 piercing plus daemonic-pestilence"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+21 (deadly d10, disease, magical, propulsive, range increment 100 feet, reload 0, unholy, volley 30 ft.)\n__Damage__  2d8 + 9 piercing plus daemonic-pestilence"
 
   - name: "Divine Innate Spells"
     desc: "DC 26, attack +18; __5th __  _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Dispel Magic|Dispel Magic (x2)]]_, _[[Spells/Translocate|Translocate (At Will)]]_"
@@ -82,7 +85,7 @@ attacks:
     desc: " (disease) The leukodaemon can telepathically communicate with the afflicted creature at any distance on the same plane\n\n**Saving Throw** DC 28 Fortitude check\n* * *\n\n**Stage 1** carrier (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 3** [[Conditions/Drained|Drained 2]] (1 day)\n\n**Stage 4** drained 2 (1 day)\n\n**Stage 5** [[Conditions/Drained|Drained 3]] (1 week)\n\n**Stage 6** dead"
 
   - name: "Plague Breath"
-    desc: "`pf2:2` (divine,unholy) The leukodaemon exhales a cloud of corpse-bloated, biting black flies in a @Template[cone|distance:20]. Creatures within the cone take 4d8 piercing damage (DC 28 Reflex check save). A creature that fails the save becomes [[Conditions/Sickened|Sickened 1]] (or [[Conditions/Sickened|Sickened 2]] on a critical failure)."
+    desc: "`pf2:2` (divine,unholy) The leukodaemon exhales a cloud of corpse-bloated, biting black flies in a 20-foot cone. Creatures within the cone take 4d8 piercing damage (DC 28 Reflex check save). A creature that fails the save becomes [[Conditions/Sickened|Sickened 1]] (or [[Conditions/Sickened|Sickened 2]] on a critical failure)."
 
   - name: "Quicken Pestilence"
     desc: "`pf2:1` (divine,manipulate) The leukodaemon coaxes a disease into full bloom. They choose a target in their aura of pestilence that's currently affected by a disease. That creature must attempt a Fortitude save against the disease as if the interval for the disease's current stage had passed."

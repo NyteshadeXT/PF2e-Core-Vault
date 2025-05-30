@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Backgrounds/Harrow-Chosen|Harrow-Chosen]]
+
 This benefit is determined by alignment of the card you draw from the deck. The card can match both alignment components with yours (true match), match a single alignment component with yours (partial match), have no matching alignment components (unmatched), or have a diametrically opposed alignment to yours (misaligned).
 
 **True match**: You gain a +1 circumstance bonus to a saving throw of your choice (Fortitude, Reflex, or Will) for 1 minute.

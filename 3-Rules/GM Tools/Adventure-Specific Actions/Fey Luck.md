@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/fortune
   - trait/primal
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.7WczIXwjOs9raMja"
 license: OGL

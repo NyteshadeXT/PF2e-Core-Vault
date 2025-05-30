@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Call on Ancient Blood"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.8w6esW689NNbbq3i"
 license: ORC

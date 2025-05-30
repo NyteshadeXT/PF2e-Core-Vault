@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Rebirth In Living Stone"
+title: "Rebirth in Living Stone"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/earth
@@ -14,9 +14,9 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.mNiJvsbyxdLBnTRs"
 license: OGL
 ---
-# Rebirth In Living Stone `pf2:1`
+# Rebirth in Living Stone `pf2:1`
 ## Feat 18
-### [[3-Rules/trait_reference/E/earth]][[impulse]][[kineticist]][[polymorph]][[primal]]
+### [[earth]][[impulse]][[kineticist]][[polymorph]][[primal]]
 
 **Category** class; 
 

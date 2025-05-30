@@ -62,19 +62,19 @@ abilities_mid:
     desc: "  Each time the First Blade is critically hit, he attempts a DC 17 Flat check. On a success, it becomes a normal hit."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +31 (magical, reach 10 feet, versatile p)\n__Damage__  2d12 + 16 slashing 1d6 bleed 1d6 spirit"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+31 (magical, reach 10 feet, versatile p)\n__Damage__  2d12 + 16 slashing 1d6 bleed 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +29 (agile, reach 10 feet)\n__Damage__  3d6 + 16 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+29 (agile, reach 10 feet, unarmed)\n__Damage__  3d6 + 16 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +29 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 16 bludgeoning 1d6 spirit"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+29 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 16 bludgeoning 1d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 36, attack +28; __6th __  _[[Spells/Blessed Boundary|Blessed Boundary]]_; __5th __  _[[Spells/Translocate|Translocate (x3)]]_, _[[Spells/Weapon Storm|Weapon Storm]]_\n__Constant__  __(6th)__ _[[Spells/Fly|Fly]]_"

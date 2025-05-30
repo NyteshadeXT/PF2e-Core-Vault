@@ -7,8 +7,9 @@ tags:
   - trait/nephilim
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.D5beAl2SwNcT3brp"
-license: OGL
+license: ORC
 ---
 # Faultspawn
 ## Feat 1
@@ -19,9 +20,9 @@ license: OGL
 
 
 
-You bear a grudge, inherited from a blasphemous asura forebear in your bloodline, against a particular deity and their works. You also have some vestigial signs of your previous incarnation, such as a second set of shoulder blades without usable arms, a set of mostly closed eyes where no eyes belong, or strange scarring reminiscent of a mouth.
+You bear a grudge, inherited from a blasphemous asura forebear in your bloodline, against a particular deity and their works.
 
 You gain the [[Actions/Find Fault|Find Fault]] reaction.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
-*OGL*
+*Source: Pathfinder War of Immortals*
+*ORC*

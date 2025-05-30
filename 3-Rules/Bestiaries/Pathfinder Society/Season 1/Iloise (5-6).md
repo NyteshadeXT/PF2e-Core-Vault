@@ -69,14 +69,17 @@ abilities_mid:
   - name: "Shock Field"
     desc: "`pf2:r` (electricity,force) **Trigger** A creature hits Iloise with a melee Strike\n* * *\n\n**Effect** A surge of energy lashes out at the attacker and propels Iloise away from danger. The triggering creature takes 2d6 electricity damage (DC 19 Reflex check save). If a reach weapon was used to make the attack, the result of the Reflex save is one degree of success better. Iloise then Steps 10 feet away from the attacker"
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Meat Cleaver +11 (deadly d8, sweep)\n__Damage__  1d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Meat Cleaver"
+    desc: "+11 (deadly d8, sweep)\n__Damage__  1d6 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bomb +15 (splash, thrown 30 ft.)\n__Damage__  2d6 electricity 5 electricity"
+  - name: "**Ranged** `pf2:1` Bomb"
+    desc: "+15 (splash, thrown 30 ft.)\n__Damage__  2d6 electricity 5 electricity"
 
   - name: "Death Gasp"
     desc: "`pf2:1`  Iloise draws in a deep breath and holds it, temporarily suspending her biological processes and becoming undead. She gains the undead trait and becomes immune to bleed, death effects, disease, [[Conditions/Paralyzed|Paralyzed]], and poison. Any such effects she is currently suffering from are suspended. Death Gasp lasts as long as she holds her breath.\n\n[[Bestiary Effects/Effect_ Death Gasp|Effect: Death Gasp]]"

@@ -52,14 +52,14 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Club|Shillelagh]], [[Item.eDO54Z8RdjL2ymgW|Avernal Cape]]"
+    desc: "[[Equipment/Club|Shillelagh]], [[Equipment/Avernal Cape|Avernal Cape]]"
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shillelagh +15 (shove)\n__Damage__  2d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Shillelagh"
+    desc: "+15 (shove)\n__Damage__  2d8 + 6 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_; __1st __  _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Shillelagh|Shillelagh]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Dirge of Doom|Dirge of Doom]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

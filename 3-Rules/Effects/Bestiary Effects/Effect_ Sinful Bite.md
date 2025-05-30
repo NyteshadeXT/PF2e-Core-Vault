@@ -17,7 +17,7 @@ license: ORC
 
 
 
-The creature takes a -10-foot status penalty to its Speeds.
+You take a -10-foot status penalty to your Speeds.
 
 *Source: Pathfinder Monster Core*
 *ORC*

@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatpick +14 (fatal d12)\n__Damage__  1d10 + 7 piercing"
+  - name: "**Melee** `pf2:1` Greatpick"
+    desc: "+14 (fatal d12)\n__Damage__  1d10 + 7 piercing"
 
   - name: "Bone Missile"
     desc: "`pf2:2`  The Raseri Kanton skeleton yanks a rib from its ribcage to use as a javelin. The skeleton loses 4 untyped HP, then makes a ranged Strike with an attack bonus of +10 that deals 1d10+11 piercing damage with a range increment of 20 feet."

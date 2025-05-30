@@ -59,17 +59,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 (poison)\n__Damage__  2d6 + 4 piercing 1d4 poison"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (poison, unarmed)\n__Damage__  2d6 + 4 piercing 1d4 poison"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 (agile)\n__Damage__  2d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (agile, unarmed)\n__Damage__  2d6 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +12 (reach 10 feet)\n__Damage__  1d8 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+12 (reach 10 feet)\n__Damage__  1d8 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +12 ()\n__Damage__  1d12 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+12 (unarmed)\n__Damage__  1d12 + 4 bludgeoning"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon makes two claw Strikes and one tail Strike in any order."
@@ -78,7 +78,7 @@ attacks:
     desc: "  When the dragon gets a critical success on a Strike, they recharge their Poison Breath."
 
   - name: "Poison Breath"
-    desc: "`pf2:2` (arcane,poison) The dragon breathes a toxic cloud that deals 5d6 poison damage in a @Template[cone|distance:30]. Each creature in the area must attempt a DC 21 Reflex check save.\n\nThe dragon can't use their Poison Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,poison) The dragon breathes a toxic cloud that deals 5d6 poison damage in a 30-foot cone. Each creature in the area must attempt a DC 21 Reflex check save.\n\nThe dragon can't use their Poison Breath again for 1d4 rounds."
  
 ```
 

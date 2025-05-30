@@ -6,8 +6,9 @@ tags:
   - trait/dwarf
   - trait/uncommon
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.67UXSHUUH0K36xyB"
-license: OGL
+license: ORC
 ---
 # Smoke Sight
 ## Feat 9
@@ -22,7 +23,7 @@ license: OGL
 
 * * *
 
-You're used to fighting and hiding in a haze of smoke and flame. You automatically succeed at the DC 5 flat check to target a [[Conditions/Concealed|Concealed]] creature if that creature is concealed only by smoke. When you are concealed or [[Conditions/Hidden|Hidden]] in smoke, increase the DC of the flat check to target you to 6 if you're concealed or 12 if you're hidden.
+You're used to fighting and hiding in a haze of smoke and flame. You automatically succeed at the DC 5 Flat check to target a [[Conditions/Concealed|Concealed]] creature if that creature is concealed only by smoke. When you are concealed or [[Conditions/Hidden|Hidden]] in smoke, increase the DC of the flat check to target you to 6 if you're concealed or 12 if you're hidden.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

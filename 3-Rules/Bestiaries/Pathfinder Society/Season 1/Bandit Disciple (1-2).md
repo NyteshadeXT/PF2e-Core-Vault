@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +6 (forceful, sweep)\n__Damage__  1d6 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+6 (forceful, sweep)\n__Damage__  1d6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +6 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+6 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "Cheap Shot"
     desc: "  The bandit disciple deals an extra 1 precision damage to [[Conditions/Blinded|Blinded]] creatures."

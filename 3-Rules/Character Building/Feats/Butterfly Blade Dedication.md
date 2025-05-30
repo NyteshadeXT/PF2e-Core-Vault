@@ -24,7 +24,7 @@ license: OGL
 
 You become trained in Deception and Stealth; if you were already trained, you become an expert instead. Whenever your proficiency rank in any weapon increases to expert or beyond, you also gain that new proficiency rank with butterfly swords. You gain access to butterfly swords.
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Butterfly Blade|Butterfly Blade]] archetype.
+[[PF2e Journals/Archetypes/Butterfly Blade|Butterfly Blade]]
 
 *Source: Pathfinder #166: Despair on Danger Island*
 *OGL*

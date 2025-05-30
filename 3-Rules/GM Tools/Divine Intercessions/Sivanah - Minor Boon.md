@@ -22,5 +22,5 @@ Once, when a foe rolls a success on a Perception check to disbelieve your illusi
 
 Sivanah typically grants this benefit to protect an elaborate or consequential illusory deception, and she never uses it to improve the effect of a harmful illusion.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

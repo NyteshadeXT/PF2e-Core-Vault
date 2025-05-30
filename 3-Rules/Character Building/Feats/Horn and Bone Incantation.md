@@ -20,7 +20,7 @@ license: ORC
 
 
 
-You invoke mantras of tellurian rebirth. You gain the ability to cast [[Animal Form|Animal Form]] and [[Humanoid Form|Humanoid Form]] as 2nd-rank primal innate spells, each once per day.
+You invoke mantras of tellurian rebirth. You gain the ability to cast [[Spells/Animal Form|Animal Form]] and [[Spells/Humanoid Form|Humanoid Form]] as 2nd-rank primal innate spells, each once per day.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

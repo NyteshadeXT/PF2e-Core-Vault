@@ -53,25 +53,28 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Spear|+2 Greater Striking Spear]], [[Equipment/Gill Hook|+1 Striking Mancatcher]], [[Equipment/Leather Armor|Leather Armor]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +32 (magical, reach 15 feet)\n__Damage__  3d6 + 16 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+32 (magical, reach 15 feet)\n__Damage__  3d6 + 16 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Mancatcher +31 (magical, reach 20 feet)\n__Damage__  2d6 + 16 slashing plus grab,restrain"
+  - name: "**Melee** `pf2:1` Mancatcher"
+    desc: "+31 (magical, reach 20 feet)\n__Damage__  2d6 + 16 slashing plus grab,restrain"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +30 (deadly d12, reach 15 feet)\n__Damage__  3d10 + 16 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+30 (deadly d12, reach 15 feet, unarmed)\n__Damage__  3d10 + 16 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +30 (agile, finesse, reach 10 feet, trip)\n__Damage__  3d6 + 16 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+30 (agile, finesse, reach 10 feet, trip)\n__Damage__  3d6 + 16 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +32 (magical, thrown 20 ft.)\n__Damage__  3d6 + 16 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+32 (magical, thrown 20 ft.)\n__Damage__  3d6 + 16 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 37, attack +29; __4th __  _[[Spells/Air Walk|Air Walk]]_; __3rd __  _[[Spells/Animal Vision|Animal Vision (At Will) (Dinosaurs Only)]]_\n__Constant__  __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"
@@ -89,7 +92,7 @@ attacks:
     desc: "`pf2:1`  The saurian warmonger makes three Strikes: one Strike each with the weapons in their hands and one Strike with their tail. They can perform these attacks in any order, though each counts toward their multiple attack penalty as normal.\n\nAfter making a Three-Limbed Lunge, the warmonger is [[Conditions/Off-Guard|Off-Guard]] until the beginning of their next turn."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

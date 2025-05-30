@@ -62,6 +62,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Swarm Mind|Swarm Mind]]"
+    desc: "  This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
+
   - name: "Cute But Deadly"
     desc: " (aura,visual) 30 feet. The sight of these bunnies with their red glowing eyes and sharp teeth is so unsettling that upon seeing them a creature must attempt a DC 17 Will check save. On a failure, that creature becomes [[Conditions/Frightened|Frightened 1]] (or [[Conditions/Frightened|Frightened 2]] on a critical failure) and cannot lower their frightened condition lower than 1 while within the aura. A creature that succeeds at its save is temporarily immune to all abyssal bunny swarm's cute but deadly auras for 1 minute."
 

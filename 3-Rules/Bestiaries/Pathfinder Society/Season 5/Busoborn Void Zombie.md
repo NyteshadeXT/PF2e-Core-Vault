@@ -53,20 +53,23 @@ abilities_mid:
   - name: "Salt Water Vulnerability"
     desc: "  Salt water acts as an extremely strong acid to the larval akata inside a void zombie. A splash of salt water deals 1d6 acid damage to a void zombie, while full immersion in salt water deals 4d6 acid damage per round. The larval akata within retreats to the depths of its body on any round it takes damage as a result of this vulnerability, and the void zombie becomes [[Conditions/Slowed|Slowed 1]] until the end of its next turn."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +13 ()\n__Damage__  3d6 + 5 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+13 (unarmed)\n__Damage__  3d6 + 5 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Feeding Tendril +10 (agile, reach 10 feet)\n__Damage__  3d4 + 5 piercing plus feed-on-blood"
+  - name: "**Melee** `pf2:1` Feeding Tendril"
+    desc: "+10 (agile, reach 10 feet)\n__Damage__  3d4 + 5 piercing plus feed-on-blood"
 
   - name: "Blood Drain"
     desc: "`pf2:1`  **Requirements** The void zombie's previous action was a successful feeding tendril Strike against the target creature\n* * *\n\n**Effect** The void zombie uses its feeding tendril to drain blood from the creature it has struck. This deals 2d4 bleed damage, and a creature that takes this damage is [[Conditions/Drained|Drained 1]] until it receives healing (of any kind or amount)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

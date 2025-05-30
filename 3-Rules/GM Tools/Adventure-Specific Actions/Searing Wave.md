@@ -11,7 +11,7 @@ license: OGL
 ---
 # Searing Wave `pf2:2`
 
-### [[3-Rules/trait_reference/F/fire]]
+### [[fire]]
 
 **Category** offensive; 
 
@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-**Effect** You allow a portion of the fire magic housed in your relic to escape in a direction of your choice. You deal 1d10 fire damage for every 2 levels of the relic to all creatures in a @Template\[cone|distance:30\] (Reflex check). You can't use Searing Wave again for 1d4 rounds.
+**Effect** You allow a portion of the fire magic housed in your relic to escape in a direction of your choice. You deal 1d10 fire damage for every 2 levels of the relic to all creatures in a 30-foot cone (Reflex check). You can't use Searing Wave again for 1d4 rounds.
 
 *Source: Pathfinder #194: Cult of the Cave Worm*
 *OGL*

@@ -55,17 +55,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +14 (deadly d10)\n__Damage__  2d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+14 (deadly d10, unarmed)\n__Damage__  2d8 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +14 (agile)\n__Damage__  2d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+14 (agile, unarmed)\n__Damage__  2d6 + 4 piercing"
 
   - name: "Pounce"
     desc: "`pf2:1`  The alce Strides and makes a talon Strike at the end of that movement. If the alce began this action [[Conditions/Hidden|Hidden]], it remains hidden until after the attack."
 
   - name: "Regal Shriek"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The alce unleashes a shriek that transitions into a terrifying roar. Each creature in a @Template[emanation|distance:60] must attempt a DC 20 Will check save. Regardless of the result, creatures are temporarily immune to all griffons' Regal Shrieks for 10 minutes.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]]. Animals are [[Conditions/Slowed|Slowed 1]] for as long as they're frightened.\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]]. Animals are [[Conditions/Paralyzed|Paralyzed]] as long as they're frightened."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The alce unleashes a shriek that transitions into a terrifying roar. Each creature in a 60-foot emanation must attempt a DC 20 Will check save. Regardless of the result, creatures are temporarily immune to all griffons' Regal Shrieks for 10 minutes.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]]. Animals are [[Conditions/Slowed|Slowed 1]] for as long as they're frightened.\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]]. Animals are [[Conditions/Paralyzed|Paralyzed]] as long as they're frightened."
  
 ```
 

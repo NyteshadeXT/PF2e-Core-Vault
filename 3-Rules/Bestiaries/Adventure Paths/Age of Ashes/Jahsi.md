@@ -64,20 +64,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Disrupting Cold Iron Dagger +19 (agile, cold iron, magical, versatile s)\n__Damage__  1d4 + 7 piercing"
+  - name: "**Melee** `pf2:1` Disrupting Cold Iron Dagger"
+    desc: "+19 (agile, cold iron, magical, versatile s)\n__Damage__  1d4 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Silver Dagger +19 (agile, magical, silver, versatile s)\n__Damage__  2d4 + 7 piercing"
+  - name: "**Melee** `pf2:1` Silver Dagger"
+    desc: "+19 (agile, magical, silver, versatile s)\n__Damage__  2d4 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Disrupting Cold Iron Dagger +19 (agile, cold iron, magical, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Disrupting Cold Iron Dagger"
+    desc: "+19 (agile, cold iron, magical, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Silver Dagger +19 (agile, magical, silver, thrown 10 ft., versatile s)\n__Damage__  2d4 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Silver Dagger"
+    desc: "+19 (agile, magical, silver, thrown 10 ft., versatile s)\n__Damage__  2d4 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Longbow +19 (deadly d10, magical, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Longbow"
+    desc: "+19 (deadly d10, magical, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 3 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 24, attack +16\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Shadowplay `pf2:1`
 ## Feat 5
-### [[illusion]][[occult]][[3-Rules/trait_reference/shadow]][[wayang]]
+### [[illusion]][[occult]][[shadow]][[wayang]]
 
 **Category** ancestry; 
 
@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-As your blow lands, you detach from your shadow to get the drop on your enemy. You attempt to [[/act tumble-through options=shadowplay]] the opponent's space, with a +2 circumstance bonus to the Acrobatics check. If you succeed, your shadow rises up from the ground, flanking your opponent until the beginning of your next turn.
+As your blow lands, you detach from your shadow to get the drop on your enemy. You attempt to [[Actions/tumble-through options=shadowplay|tumble-through options=shadowplay]] the opponent's space, with a +2 circumstance bonus to the Acrobatics check. If you succeed, your shadow rises up from the ground, flanking your opponent until the beginning of your next turn.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

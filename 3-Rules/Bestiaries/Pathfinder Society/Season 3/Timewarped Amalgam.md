@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +7 (agile)\n__Damage__  1d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+7 (agile, unarmed)\n__Damage__  1d6 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Wail +7 (range increment 15 feet, sonic)\n__Damage__  1d4 sonic plus anguish"
+  - name: "**Ranged** `pf2:1` Wail"
+    desc: "+7 (range increment 15 feet, sonic)\n__Damage__  1d4 sonic plus anguish"
 
   - name: "Anguish"
     desc: "  The wail of a timewarped amalgam transfers fragments of the amalgam's pain onto those who hear it. The target must succeed at a DC 17 Will check saving throw or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure). After attempting this save, a creature is temporarily immune to Anguish for 24 hours."

@@ -64,17 +64,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +17 (agile, finesse, magical, trip)\n__Damage__  1d4 + 7 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+17 (agile, finesse, magical, trip)\n__Damage__  1d4 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Acid Flask (Moderate) +16 (bomb, consumable, infused, splash)\n__Damage__  1 acid 2d6 acid 2 acid"
+  - name: "**Melee** `pf2:1` Acid Flask (Moderate)"
+    desc: "+16 (bomb, consumable, infused, splash)\n__Damage__  1 acid 2d6 acid 2 acid"
 
-  - name: "Melee"
-    desc: "`pf2:1` Alchemist&#x27;s Fire (Moderate) +16 (bomb, consumable, infused, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
+  - name: "**Melee** `pf2:1` Alchemist&#x27;s Fire (Moderate)"
+    desc: "+16 (bomb, consumable, infused, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Frost Vial (Moderate) +16 (bomb, consumable, infused, splash)\n__Damage__  2d6 cold 2 cold"
+  - name: "**Melee** `pf2:1` Frost Vial (Moderate)"
+    desc: "+16 (bomb, consumable, infused, splash)\n__Damage__  2d6 cold 2 cold"
 
   - name: "Quick Bomber"
     desc: "`pf2:1`  The reckless scientist Interacts to draw a bomb, then Strikes with it."

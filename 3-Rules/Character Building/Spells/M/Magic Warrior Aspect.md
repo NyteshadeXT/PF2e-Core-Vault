@@ -34,5 +34,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You call upon the aspect of the animal from your mask, gaining physical features reminiscent of that animal. You morph slightly into that creature, gaining the Speeds and senses you would gain from using [[Spells/Animal Form|Animal Form]] to turn into the type of animal your mask represents; these special Speeds can't be increased by status bonuses or item bonuses."
-sourcebook: "_Pathfinder Lost Omens: World Guide_"
+sourcebook: "_Pathfinder Lost Omens World Guide_"
 ```

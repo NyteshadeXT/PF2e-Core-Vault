@@ -53,11 +53,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +20 ()\n__Damage__  2d10 + 8 piercing plus joro-spider-venom,knockdown"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+20 ()\n__Damage__  2d10 + 8 piercing plus joro-spider-venom,knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Web +17 (range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Web"
+    desc: "+17 (range increment 30 feet)\n__Damage__ "
+
+  - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Joro Spider Venom"
     desc: " (incapacitation,poison) **Saving Throw** DC 25 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d8 poison (1 round)\n\n**Stage 2** 1d8 poison and [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 3** 1d8 poison and [[Conditions/Slowed|Slowed 2]] (1 round)\n\n**Stage 4** 2d8 poison and [[Conditions/Paralyzed|Paralyzed]] (1d4 rounds)"

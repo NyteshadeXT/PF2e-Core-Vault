@@ -20,5 +20,5 @@ Granted by [[Feats/Crystal Luminescence|Crystal Luminescence]]
 
 The radius of the bright light and dim light of your crystal luminescence increase by 10 feet.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

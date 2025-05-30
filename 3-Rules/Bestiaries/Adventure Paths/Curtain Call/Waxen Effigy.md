@@ -56,20 +56,23 @@ abilities_mid:
   - name: "Memento Vulnerability"
     desc: "  Waxen effigies retain an attachment to objects they had a strong tie to in life. A character who holds such a memento in a hand can use it to alter the effects of [[Actions/Demoralize|Demoralize]]. Doing so adds the manipulate trait to Demoralize. If the attempt to Demoralize the waxen effigy is successful, it becomes [[Conditions/Slowed|Slowed 1]] ([[Conditions/Slowed|Slowed 2]] on a critical success) for 1 round rather than becoming frightened. On a critical failure, the waxen effigy loses Memento Vulnerability for 24 hours."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
   - name: "Wax Trail"
     desc: "  A waxen effigy leaves behind a trail of molten wax when it Strides, making any spaces it moves through difficult hazardous terrain until the beginning of its next turn, whereupon the molten wax trail vanishes. Creatures moving through the wax trail take 4d6 fire damage each time they do so (DC 40 Reflex check save)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +35 (agile, fire, magical)\n__Damage__  2d6 fire 3d10 + 17 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+35 (agile, fire, magical, unarmed)\n__Damage__  2d6 fire 3d10 + 17 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wax Spray +30 (fire, magical)\n__Damage__  3d8 + 8 bludgeoning 2d6 fire"
+  - name: "**Melee** `pf2:1` Wax Spray"
+    desc: "+30 (fire, magical)\n__Damage__  3d8 + 8 bludgeoning 2d6 fire"
 
   - name: "Enervating Howl"
-    desc: "`pf2:2` (auditory) The waxen effigy emits a gurgling howl, sapping the life energy from all living creatures within 30 feet. Affected creatures must attempt a DC 40 Fortitude check save. The waxen effigy can't use Enervating Howl again for [[/gmr 1d4 #Recharge Enervating Howl]]{1d4 rounds}\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 6d6 void damage and is [[Conditions/Drained|Drained 1]].\n\n**Failure** The creature takes 12d6 void damage and is [[Conditions/Drained|Drained 2]].\n\n**Critical Failure** The creature takes 24d6 void damage, is drained 2, and is [[Conditions/Doomed|Doomed 1]] for as long as they have the drained condition."
+    desc: "`pf2:2` (auditory) The waxen effigy emits a gurgling howl, sapping the life energy from all living creatures within 30 feet. Affected creatures must attempt a DC 40 Fortitude check save. The waxen effigy can't use Enervating Howl again for 1d4 rounds\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 6d6 void damage and is [[Conditions/Drained|Drained 1]].\n\n**Failure** The creature takes 12d6 void damage and is [[Conditions/Drained|Drained 2]].\n\n**Critical Failure** The creature takes 24d6 void damage, is drained 2, and is [[Conditions/Doomed|Doomed 1]] for as long as they have the drained condition."
  
 ```
 

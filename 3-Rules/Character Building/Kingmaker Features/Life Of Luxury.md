@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Life Of Luxury"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/common
+  - trait/
   - category/kingdom-feature
 aliases: "Compendium.pf2e.kingmaker-features.Item.sMBQ8i8xN1X0rSs9"
 license: OGL

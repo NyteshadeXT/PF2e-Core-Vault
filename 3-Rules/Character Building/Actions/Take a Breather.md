@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
   - trait/stamina
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.qc0VsZ0UesnurUUB"
 license: OGL
 ---
 # Take a Breather
 
-### [[exploration]][[Stamina]]
+### [[exploration]][[stamina]]
 
 **Category** interaction; 
 

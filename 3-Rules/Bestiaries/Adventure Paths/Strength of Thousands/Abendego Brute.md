@@ -61,20 +61,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fighter&#x27;s Fork +20 (magical, shove)\n__Damage__  1d8 + 8 piercing"
+  - name: "**Melee** `pf2:1` Fighter&#x27;s Fork"
+    desc: "+20 (magical, shove)\n__Damage__  1d8 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +19 (agile, unarmed)\n__Damage__  1d10 + 8 bludgeoning plus push"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+19 (agile, unarmed)\n__Damage__  1d10 + 8 bludgeoning plus push"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Fighter&#x27;s Fork +18 (magical, thrown 20 ft.)\n__Damage__  1d8 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Fighter&#x27;s Fork"
+    desc: "+18 (magical, thrown 20 ft.)\n__Damage__  1d8 + 8 piercing"
 
   - name: "Brute Strength"
     desc: "  Abendego brutes deal an extra 2d8 damage with tridents, and a trident gains the shove trait while the brute is using it in melee (both the extra damage dice and the shove trait are included in the _fighter's fork_ Strikes above)."
 
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

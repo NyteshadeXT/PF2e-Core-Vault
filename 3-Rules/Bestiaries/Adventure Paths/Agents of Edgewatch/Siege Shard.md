@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Slam +11 ()\n__Damage__  1d8 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Slam"
+    desc: "+11 (unarmed)\n__Damage__  1d8 + 4 bludgeoning"
 
   - name: "Innate Occult Spells"
     desc: "DC 20, attack +12; __3rd __ (1 slots) _[[Spells/One with Stone|Meld into Stone (At Will)]]_; __2nd __ (1 slots) _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_\n__Cantrips__  __(2nd)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

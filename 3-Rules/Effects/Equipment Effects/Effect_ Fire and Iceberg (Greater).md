@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You gain resistance 10 to fire and cold for 5 minutes.
+Granted by [[Equipment/Fire and Iceberg (Greater)|Fire and Iceberg (Greater)]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+You gain resistance 10 to fire and cold.
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

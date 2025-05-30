@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Inspiring Spotlight|Inspiring Spotlight]]
+Granted by [[Equipment/Inspiring Spotlight|Inspiring Spotlight]]
+
+You gain a +1 item bonus to saving throws and Charisma-based skill checks.
 
 *Source: Pathfinder #152: Legacy of the Lost God*
 *OGL*

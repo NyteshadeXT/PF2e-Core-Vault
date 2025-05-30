@@ -23,6 +23,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap185-a-taste-of-ashes/assets/art/SYKEVER.webp| ]]
 source: "Pathfinder Book of the Dead"
 name: "Sykever"
 level: "Creature 15"
@@ -58,6 +59,18 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Entropy's Shadow"
@@ -66,14 +79,17 @@ abilities_mid:
   - name: "Sunlight Powerlessness"
     desc: "  A sykever caught in sunlight is [[Conditions/Stunned|Stunned 2]] and [[Conditions/Clumsy|Clumsy 2]]."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +31 (magical, reach 10 feet)\n__Damage__  3d8 + 12 bludgeoning 1d10 cold 2d8 bleed"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+31 (magical, reach 10 feet, unarmed)\n__Damage__  3d8 + 12 bludgeoning 1d10 cold 2d8 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Arm Spike +31 (agile, magical, reach 10 feet)\n__Damage__  3d8 + 12 piercing 1d10 cold"
+  - name: "**Melee** `pf2:1` Arm Spike"
+    desc: "+31 (agile, magical, reach 10 feet)\n__Damage__  3d8 + 12 piercing 1d10 cold"
 
   - name: "Divine Innate Spells"
     desc: "DC 36, attack +28; __7th __  _[[Spells/Harm|Harm (x3)]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Interplanar Teleport|Plane Shift (to the Universe, Void, or Netherworld only)]]_; __6th __  _[[Spells/Truesight|True Seeing]]_; __4th __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Invisibility|Invisibility (x3)]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(8th)__ _[[Spells/Air Walk|Air Walk]]_"

@@ -49,16 +49,19 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 10 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 (finesse, magical)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (finesse, magical, unarmed)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +8 (agile, finesse, magical)\n__Damage__  1d4 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+8 (agile, finesse, magical, unarmed)\n__Damage__  1d4 + 3 slashing"
 
   - name: "Jaunt"
     desc: "`pf2:1` (move,primal,teleportation) The poracha teleports up to 40 feet to a location it can see.\n\nIt can't use Jaunt again for 1d4 rounds."

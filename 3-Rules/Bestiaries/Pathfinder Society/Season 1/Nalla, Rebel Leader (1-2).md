@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +8 (agile, finesse, nonlethal)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+8 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 3 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +8 (versatile p)\n__Damage__  1d8 + 3 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+8 (versatile p)\n__Damage__  1d8 + 3 slashing"
 
   - name: "Spontaneous Occult Spells"
     desc: "DC 15, attack +5; __1st __ (2 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(1st)__ _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

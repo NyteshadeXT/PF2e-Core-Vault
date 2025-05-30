@@ -60,28 +60,28 @@ abilities_mid:
     desc: "`pf2:r` (concentrate) **Trigger** A creature the brine dragon observes within 30 feet uses a concentrate action\n* * *\n\n**Effect** The dragon spits a glob of caustic salt water at the creature. The creature takes 6d6 acid damage (DC 34 Reflex check save). On a failure, the concentrate action is disrupted."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 34 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 34 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +32 (acid, magical, reach 20 feet)\n__Damage__  3d10 + 16 piercing 4d4 acid"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+32 (acid, magical, reach 20 feet, unarmed)\n__Damage__  3d10 + 16 piercing 4d4 acid"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +32 (agile, magical, reach 15 feet)\n__Damage__  3d10 + 16 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+32 (agile, magical, reach 15 feet, unarmed)\n__Damage__  3d10 + 16 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +30 (magical, reach 25 feet)\n__Damage__  3d12 + 16 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+30 (magical, reach 25 feet)\n__Damage__  3d12 + 16 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +30 (magical, reach 20 feet)\n__Damage__  2d12 + 16 piercing"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+30 (magical, reach 20 feet)\n__Damage__  2d12 + 16 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 37, attack +29; __6th __  _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_; __5th __  _[[Spells/Control Water|Control Water (x3)]]_, _[[Spells/Mariner's Curse|Mariner's Curse]]_; __4th __  _[[Spells/Hydraulic Push|Hydraulic Push (At Will)]]_, _[[Spells/Mist|Mist (At Will)]]_"
 
   - name: "Brine Breath"
-    desc: "`pf2:2` (acid,primal) Izhkarial breathes a spray of acidic salt water that deals 17d6 acid damage in a 120-foot line (DC 37 Reflex check save). She can't use Brine Breath again for [[/gmr 1d4 #Recharge Brine Breath]]{1d4 rounds}."
+    desc: "`pf2:2` (acid,primal) Izhkarial breathes a spray of acidic salt water that deals 17d6 acid damage in a 120-foot line (DC 37 Reflex check save). She can't use Brine Breath again for 1d4 rounds."
 
   - name: "Capsize"
     desc: "`pf2:1` (attack) The dragon tries to capsize an adjacent aquatic vessel of their size or smaller. They must succeed at an Athletics check with a DC of 35 (reduced by 5 for each size smaller the vessel is than the dragon) or the pilot's Sailing Lore DC, whichever is higher."

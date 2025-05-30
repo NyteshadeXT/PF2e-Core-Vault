@@ -7,14 +7,14 @@ tags:
   - trait/earth
   - trait/incapacitation
   - trait/primal
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.WUXY9F8SLVQSC2b8"
 license: OGL
 ---
 # (Siabrae) Stony Shards
 
-### [[curse]][[3-Rules/trait_reference/E/earth]][[incapacitation]][[primal]]
+### [[curse]][[earth]][[incapacitation]][[primal]]
 
 **Category** offensive; 
 

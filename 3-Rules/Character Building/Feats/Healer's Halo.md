@@ -25,5 +25,5 @@ license: OGL
 
 Your halo can enhance positive energy. Creatures who have recovered Hit Points from a positive healing effect recover an additional 1d6 healing Hit Points. Creatures who benefit from this power become temporarily immune to its effect for the next 10 minutes.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

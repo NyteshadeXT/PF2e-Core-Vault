@@ -59,16 +59,16 @@ abilities_mid:
     desc: "`pf2:r`  **Trigger** An opponent within the Onyx Alliance agent's reach critically fails on a melee Strike targeted at the agent\n* * *\n\n**Effect** The Onyx Alliance agent makes a melee Strike or Trip attempt against the opponent and then Steps."
 
   - name: "Shadow Retreat"
-    desc: "`pf2:3` (occult,shadow,teleportation) **Frequency** once per year\n* * *\n\n**Effect** Activating a special ritual taught through the Onyx Alliance, the agent teleports to a safe house located in the Shadow Plane.\n\nSimultaneous with the teleportation, a @Template[emanation|distance:5] of darkness appears where the agent once stood. The darkness lasts for one minute."
+    desc: "`pf2:3` (occult,shadow,teleportation) **Frequency** once per year\n* * *\n\n**Effect** Activating a special ritual taught through the Onyx Alliance, the agent teleports to a safe house located in the Shadow Plane.\n\nSimultaneous with the teleportation, a 5-foot emanation of darkness appears where the agent once stood. The darkness lasts for one minute."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +14 (disarm, finesse, nonlethal, reach, trip)\n__Damage__  1d4 + 10 slashing"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+14 (disarm, finesse, nonlethal, reach, trip)\n__Damage__  1d4 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sap +14 (agile, nonlethal)\n__Damage__  1d4 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Sap"
+    desc: "+14 (agile, nonlethal)\n__Damage__  1d4 + 10 bludgeoning"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 21, attack +13; __2nd __ (4 slots) _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Silence|Silence]]_; __1st __ (4 slots) _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_"

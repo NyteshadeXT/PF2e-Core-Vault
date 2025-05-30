@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.YrRlbIzjsFlGGmVN"
-license: OGL
+license: ORC
 ---
 # Black Powder Blaze `pf2:2`
 ## Feat 8
@@ -23,11 +24,11 @@ license: OGL
 
 * * *
 
-You learn to take advantage of every shot, flying across the battlefield with the help of your weapon's recoil. Stride and use Black Powder Boost. Make a melee Strike with the required weapon at any point during the Black Powder Boost.
+You launch yourself across the battlefield. Stride and use [[Feats/Black Powder Boost|Black Powder Boost]]. Make a melee Strike with an attached weapon or the required weapon's combination melee form, at any point during the Black Powder Boost.
 
 * * *
 
 **Special** If you have [[Feats/Bullet Dancer Burn|Bullet Dancer Burn]], apply the additional fire damage to the granted Strike.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

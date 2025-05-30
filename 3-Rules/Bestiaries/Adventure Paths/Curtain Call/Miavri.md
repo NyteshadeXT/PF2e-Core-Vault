@@ -55,17 +55,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +26 ()\n__Damage__  3d10 + 13 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+26 (unarmed)\n__Damage__  3d10 + 13 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +26 (agile)\n__Damage__  3d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+26 (agile, unarmed)\n__Damage__  3d8 + 13 slashing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 33, attack +25; __5th __  _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_; __1st __  _[[Spells/Charm|Charm (At Will)]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d10+13 piercing, DC 33 Fortitude check ([[Conditions/Grabbed|Grabbed]] by jaws only)\n\n* * *\n"
+    desc: "`pf2:1`  2d10+13 piercing, DC 33 Fortitude check ([[Conditions/Grabbed|Grabbed]] by jaws only)\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Head Spin"
     desc: "  The kishi switches between showing their attractive human face and their snarling hyena face. A kishi can use their innate spell and their Deception and Diplomacy skills only when their human face is showing, and they can use their jaws Strike only when their hyena face is showing."
@@ -77,7 +77,7 @@ attacks:
     desc: "  A creature [[Conditions/Grabbed|Grabbed]] in the kishi's jaws can barely speak; a creature must succeed at a DC 8 Flat check check to provide verbal components for spells, doing so in a choked whisper."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

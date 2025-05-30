@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Viperous Elixir (Greater)|Viperous Elixir (Greater)]]
+Granted by [[Equipment/Viperous Elixir (Greater)|Viperous Elixir (Greater)]]
 
 You gain a fangs unarmed attack that deals 1d6 piercing damage. You gain a +3 item bonus to unarmed attack and damage rolls when you Strike with your fangs or another bite attack.
 

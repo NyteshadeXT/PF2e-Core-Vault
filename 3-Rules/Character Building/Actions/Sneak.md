@@ -5,8 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/move
   - trait/secret
-  - trait/skill
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4"
@@ -14,7 +13,7 @@ license: ORC
 ---
 # Sneak `pf2:1`
 
-### [[move]][[secret]][[skill]]
+### [[move]][[secret]]
 
 **Category** defensive; 
 
@@ -23,7 +22,7 @@ license: ORC
 
 You attempt to move to another place while becoming or staying undetected. Stride up to half your Speed. (You can use Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type; you must move at half that Speed.)
 
-At the end of your movement, the GM rolls your [[/act sneak]] check in secret and compares the result to the Perception DC of each creature you were [[Conditions/Hidden|Hidden]] from or [[Conditions/Undetected|Undetected]] by at the start of your movement. If you have cover or greater cover from the creature throughout your Stride, you gain the +2 circumstance bonus from cover (or +4 from greater cover) to your Stealth check. Because you're moving, the bonus increase from Taking Cover doesn't apply. You don't get to roll against a creature if, at the end of your movement, you neither are [[Conditions/Concealed|Concealed]] from it nor have cover or greater cover against it. You automatically become observed by such a creature.
+At the end of your movement, the GM rolls your [[Actions/sneak|sneak]] check in secret and compares the result to the Perception DC of each creature you were [[Conditions/Hidden|Hidden]] from or [[Conditions/Undetected|Undetected]] by at the start of your movement. If you have cover or greater cover from the creature throughout your Stride, you gain the +2 circumstance bonus from cover (or +4 from greater cover) to your Stealth check. Because you're moving, the bonus increase from Taking Cover doesn't apply. You don't get to roll against a creature if, at the end of your movement, you neither are [[Conditions/Concealed|Concealed]] from it nor have cover or greater cover against it. You automatically become observed by such a creature.
 
 * * *
 

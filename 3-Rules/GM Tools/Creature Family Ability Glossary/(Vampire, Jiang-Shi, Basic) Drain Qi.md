@@ -4,7 +4,7 @@ title: "(Vampire, Jiang-Shi, Basic) Drain Qi"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/divine
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.QMlQ5AvcunCvjlfM"
 license: OGL

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Drain Emotion `pf2:2`
 ## Feat 9
-### [rare](rare.md "Rare Rarity Trait")[[3-Rules/trait_reference/M/mental]]
+### [rare](rare "Rare Rarity Trait")[[mental]]
 
 **Category** ancestry; 
 
@@ -25,5 +25,5 @@ You touch an adjacent creature and attempt to draw out its excess emotion. Attem
 
 **Special** This feat gains the trait appropriate for your ancestry (human for human, goblin for goblin, etc.).
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

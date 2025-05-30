@@ -4,8 +4,9 @@ title: "Effect: Aura of Faith"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.VOOShYoB4gTopZtg"
-license: OGL
+license: ORC
 ---
 # Effect: Aura of Faith
 ## Level 12
@@ -18,7 +19,7 @@ license: OGL
 
 Granted by [[Feats/Aura of Faith|Aura of Faith]]
 
-Your first strike against an unholy creature each round deals an additional 1 spirit damage.
+You add the holy trait to your Strikes.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-Nothing invigorates you more than your own freshly spilled blood. You gain the effects of [[Haste|Haste]] for 1 minute.
+Nothing invigorates you more than your own freshly spilled blood. You gain the effects of [[Spells/Haste|Haste]] for 1 minute.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Begin Stampede `pf2:3`
 ## Feat 17
-### [[Minotaur]][[visual]]
+### [[minotaur]][[visual]]
 
 **Category** ancestry; 
 

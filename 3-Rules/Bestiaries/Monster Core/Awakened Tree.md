@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +16 (reach 15 feet)\n__Damage__  2d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+16 (reach 15 feet)\n__Damage__  2d8 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Root +16 (trip)\n__Damage__  2d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Root"
+    desc: "+16 (trip)\n__Damage__  2d6 + 6 bludgeoning"
  
 ```
 

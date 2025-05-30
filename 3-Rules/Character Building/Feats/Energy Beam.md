@@ -6,8 +6,9 @@ tags:
   - trait/automaton
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.AMbYEv9rUt2fcR7F"
-license: OGL
+license: ORC
 ---
 # Energy Beam
 ## Feat 1
@@ -23,4 +24,4 @@ You can channel your core's power through the magical gem that serves as your ey
 **Enhancement** You channel greater power. Increase the damage die of your energy beam by one step, from 1d4 to 1d6.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

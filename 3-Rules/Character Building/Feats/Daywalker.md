@@ -20,5 +20,5 @@ license: OGL
 
 Whether through painstaking exposure, devoted prayer, or simple luck, you've found a greater affinity for life through the sun's light. When in an area of direct natural sunlight, your void healing is suppressed, meaning you are healed by vitality healing effects and harmed by void energy.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

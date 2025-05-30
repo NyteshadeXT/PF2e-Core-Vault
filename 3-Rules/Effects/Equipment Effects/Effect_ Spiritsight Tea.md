@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Spiritsight Tea|Spiritsight Tea]]
+
 You gain a +1 item bonus to Perception checks to Seek incorporeal creatures.
 
 *Source: Pathfinder #197: Let the Leaves Fall*

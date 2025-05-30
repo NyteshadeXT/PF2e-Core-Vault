@@ -68,17 +68,20 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) Removing this room's tables and tools allows Jarelle to move on to the afterlife.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +14 (agile, finesse, magical)\n__Damage__  3d8 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+14 (agile, finesse, magical)\n__Damage__  3d8 void"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Malevolent Possession|Malevolent Possession]]"
     desc: "`pf2:2` (divine,incapacitation,mental,possession) Jarelle attempts to possess an adjacent corporeal creature. This has the same effect as the [[Spells/Possession|Possession]] spell (with a spell DC of 22), except since Jarelle doesn't have a physical body, she is unaffected by that restriction of the spell."
 
   - name: "Poisoned Breath"
-    desc: "`pf2:2` (divine,poison) Jarelle exhales a @Template[cone|distance:15] of toxic mist that deals 5d6 poison damage (DC 22 Fortitude check save; on a critical failure, the target is also [[Conditions/Enfeebled|Enfeebled 1]] for 24 hours).\n\nShe then can't use Poisoned Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,poison) Jarelle exhales a 15-foot cone of toxic mist that deals 5d6 poison damage (DC 22 Fortitude check save; on a critical failure, the target is also [[Conditions/Enfeebled|Enfeebled 1]] for 24 hours).\n\nShe then can't use Poisoned Breath again for 1d4 rounds."
  
 ```
 

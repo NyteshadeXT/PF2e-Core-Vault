@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/downtime
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.z1noqZiavhnqQL50"
 license: OGL

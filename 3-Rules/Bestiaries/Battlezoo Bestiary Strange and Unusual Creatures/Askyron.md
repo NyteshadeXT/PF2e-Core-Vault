@@ -33,7 +33,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +35, Athletics: +31, Deception: +35, Stealth: +35, Acrobatics: +35, Athletics: +31, Deception: +35, Previous Reality Lore: +38, Stealth: +35"
+    desc: "Acrobatics: +35, Athletics: +31, Deception: +35, Stealth: +35, Previous Reality Lore: +38"
 abilityMods: [9, 10, 6, 9, 5, 6]
 speed: 40 feet,  burrow 40 feet,  fly 90 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Unmaker Sceptre +37 (finesse, force, magical)\n__Damage__  3d10 + 17 force"
+  - name: "**Melee** `pf2:1` Unmaker Sceptre"
+    desc: "+37 (finesse, force, magical)\n__Damage__  3d10 + 17 force"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Unmaker Bolt +35 (force, magical, range increment 60 feet)\n__Damage__  3d10 + 17 force"
+  - name: "**Ranged** `pf2:1` Unmaker Bolt"
+    desc: "+35 (force, magical, range increment 60 feet)\n__Damage__  3d10 + 17 force"
 
   - name: "Arcane Innate Spells"
     desc: "DC 37, attack +29; __10th __  _[[Spells/Teleport|Teleport]]_; __7th __  _[[Spells/Disintegrate|Disintegrate (At Will)]]_, _[[Spells/Interplanar Teleport|Plane Shift]]_; __5th __  _[[Spells/Truespeech|Tongues (At Will)]]_\n__Cantrips__  __(9th)__ _[[Spells/Shield|Shield]]_"

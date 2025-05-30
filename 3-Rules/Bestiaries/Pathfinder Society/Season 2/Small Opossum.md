@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (deadly d10)\n__Damage__  1d10 + 2 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (deadly d10, unarmed)\n__Damage__  1d10 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +8 (agile)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+8 (agile, unarmed)\n__Damage__  1d6 + 2 slashing"
 
   - name: "Scurry Underfoot"
     desc: "`pf2:1`  The opossum Strides up to half its speed. It can pass through other creatures' spaces during this movement, though it must end its movement in an unoccupied space."

@@ -52,11 +52,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 10 (Deactivated by Acid or Fire)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d12 + 2 piercing plus bloodfire-fever,knockdown"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (unarmed)\n__Damage__  1d12 + 2 piercing plus bloodfire-fever,knockdown"
 
   - name: "Bloodfire Fever"
     desc: " (disease) **Saving Throw** DC 16 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 3** Enfeebled 1 and [[Conditions/Clumsy|Clumsy 1]] (1 day)\n\n**Stage 4** [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Clumsy|Clumsy 2]] (1 day)\n\n**Stage 5** Enfeebled 2, Clumsy 2, and [[Conditions/Fatigued|Fatigued]] (1 day)"
@@ -65,7 +68,7 @@ attacks:
     desc: "  The frostbitten trollhound deals an extra 1d4 damage to creatures within reach of at least two of its allies."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

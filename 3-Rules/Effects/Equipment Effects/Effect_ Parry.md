@@ -4,8 +4,9 @@ title: "Effect: Parry"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.fRlvmul3LbLo2xvR"
-license: OGL
+license: ORC
 ---
 # Effect: Parry
 ## Level 1
@@ -16,7 +17,7 @@ license: OGL
 
 
 
-You position your weapon defensively, gaining a +1 circumstance bonus to AC until the start of your next turn.
+You gain a +1 circumstance bonus to AC.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bayonet +16 ()\n__Damage__  1d6 + 6 piercing 2d6 fire"
+  - name: "**Melee** `pf2:1` Bayonet"
+    desc: "+16 ()\n__Damage__  1d6 + 6 piercing 2d6 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +15 (deadly d10, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 2 piercing 2d6 fire"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+15 (deadly d10, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 2 piercing 2d6 fire"
 
   - name: "Davai!"
     desc: "`pf2:1`  Semyon orders his troops to fire, selecting a single target he can see. All allies that can hear or see him gain a +1 status bonus to attack and damage rolls against that creature until the beginning of Semyon's next turn. (Note: The Guiding Words effect provides this bonus)\n\n[[Bestiary Effects/Effect_ Guiding Words|Effect: Davai!]]"

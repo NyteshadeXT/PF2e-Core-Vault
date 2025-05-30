@@ -53,16 +53,19 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Falchion|+1 Striking Wounding Falchion]], [[Equipment/Studded Leather Armor|+1 Resilient Studded Leather Armor]], [[Equipment/Religious Symbol (Wooden)|Bone Symbol of Lamashtu]], [[Equipment/The Lost|The Lost]], [[Compendium.pf2e.equipment-srd.Item.VHxXMvBeBTq2FSdf|Material Component Pouch]]"
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Falchion +24 (forceful, magical, sweep)\n__Damage__  2d10 + 10 slashing"
+  - name: "**Melee** `pf2:1` Falchion"
+    desc: "+24 (forceful, magical, sweep)\n__Damage__  2d10 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +25 (agile)\n__Damage__  3d4 + 10 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+25 (agile, unarmed)\n__Damage__  3d4 + 10 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Divine Vessel|Divine Vessel]]_, _[[Spells/Regenerate|Regenerate]]_; __6th __  _[[Spells/Repulsion|Repulsion]]_; __5th __  _[[Spells/Drop Dead|Drop Dead]]_, _[[Spells/Shadow Blast|Shadow Blast]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Protection|Protection]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(7th)__ _[[Spells/Bullhorn|Bullhorn]]_, _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

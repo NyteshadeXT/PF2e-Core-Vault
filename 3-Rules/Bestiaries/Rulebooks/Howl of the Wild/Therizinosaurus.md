@@ -31,7 +31,7 @@ trait_02: [[dinosaur]]
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "+18; "
+    desc: "+18; Low-Light Vision, Scent (Imprecise) 30 Feet"
 languages: ""
 skills:
   - name: "Skills"
@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (reach 20 feet)\n__Damage__  2d12 + 7 slashing plus winnowing-claws"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (reach 20 feet, unarmed)\n__Damage__  2d12 + 7 slashing plus winnowing-claws"
 
   - name: "Stomp Pests"
     desc: "`pf2:2`  The therizinosaurus stomps about, dealing 5d8 bludgeoning damage (DC 28 Reflex check save) to each adjacent creature. Large or smaller creatures who fail their save are also knocked [[Conditions/Prone|Prone]]."

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Current charges stored in your [[Tactician's Helm|Tactician's Helm]].
+Current charges stored in your [[Equipment/Tactician's Helm|Tactician's Helm]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

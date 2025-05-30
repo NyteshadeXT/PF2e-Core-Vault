@@ -50,8 +50,14 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 20 (Deactivated by Cold)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Deflect Arrow"
     desc: "`pf2:r`  **Trigger** The doprillu is the target of a physical ranged attack\n\n**Requirements** The doprillu is aware of the attack, isn't [[Conditions/Off-Guard|Off-Guard]] against it, and has a hand free\n* * *\n\n**Effect** The doprillu gains a +4 circumstance bonus to its AC against the triggering attack."
 
@@ -64,8 +70,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +30 (agile, magical)\n__Damage__  3d8 + 16 bludgeoning plus improved-grab 2d6 fire plus improved-grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+30 (agile, magical, unarmed)\n__Damage__  3d8 + 16 bludgeoning plus improved-grab 2d6 fire plus improved-grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 28, attack +18\n__Constant__  __(6th)__ _[[Spells/See the Unseen|See Invisibility]]_"
@@ -75,6 +81,9 @@ attacks:
 
   - name: "Whirlwind Throw"
     desc: "`pf2:2`  **Requirements** The doprillu has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The doprillu whirls the grabbed creature about, making a Body Strike against each creature in reach. After that Strike, the doprillu can hurl the grabbed creature up to 50 feet as a ranged Strike. This Strike has the same attack modifier and damage as Body Strike, but has the thrown 20 feet weapon trait."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

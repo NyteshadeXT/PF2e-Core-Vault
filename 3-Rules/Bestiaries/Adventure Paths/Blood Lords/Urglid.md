@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap184-the-ghouls-hunger/assets/art/PZO90184_GRAVE_DEMON.webp| ]]
 source: "Pathfinder #184: The Ghouls Hunger"
 name: "Urglid"
 level: "Creature 13"
@@ -56,31 +57,37 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Consecration Vulnerability"
     desc: "  Dedicated to the desecration of graves, an urglid takes 3d6 + 6 mental damage each round it's within the area of an effect with the consecration trait. In addition, the demon takes triple the damage from _[[Equipment/Holy Water|Holy Water]]_."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
 
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +27 (agile, deadly 2d10, magical, reach 10 feet, unholy)\n__Damage__  3d10 + 16 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+27 (agile, deadly 2d10, magical, reach 10 feet, unarmed, unholy)\n__Damage__  3d10 + 16 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Leg +25 (agile, magical, reach 15 feet, unholy)\n__Damage__  3d12 + 21 bludgeoning"
+  - name: "**Melee** `pf2:1` Leg"
+    desc: "+25 (agile, magical, reach 15 feet, unholy)\n__Damage__  3d12 + 21 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 30, attack +22; __8th __  _[[Spells/Earthquake|Earthquake]]_; __5th __  _[[Spells/Magic Passage|Passwall (At Will)]]_, _[[Spells/Wall of Stone|Wall of Stone (x3)]]_; __3rd __  _[[Spells/Earthbind|Earthbind (At Will)]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "Earth Glide"
     desc: "  The urglid can [[Actions/Burrow|Burrow]] through any earthen matter, including rock. When they do so, the urglid moves at their full burrow Speed, leaving no tunnels or signs of its passing unless they choose to do so."
 
   - name: "Gravechoke"
-    desc: "`pf2:2` (concentrate,divine,earth,olfactory) The urglid emits a putrid pulse that targets all living creatures within a @Template[emanation|distance:30]. Creatures in this area that fail a DC 30 Fortitude check save become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
+    desc: "`pf2:2` (concentrate,divine,earth,olfactory) The urglid emits a putrid pulse that targets all living creatures within a 30-foot emanation. Creatures in this area that fail a DC 30 Fortitude check save become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
 
   - name: "Ravenous Earth"
     desc: "`pf2:1` (concentrate,earth) With a single, devious thought, the urglid causes a mound of grave soil to well up at a creature's feet. A creature failing a DC 30 Reflex check save is [[Conditions/Restrained|Restrained]]. The restrained creature then begins sinking below the ground into a spontaneously formed grave. A creature restrained by this ability for three rounds is buried 6 feet deep in the ground and begins suffocating within 1 minute. A buried creature must be dug up to be freed. A creature who is slain by Ravenous Earth rises as a ghoul the next midnight."

@@ -25,5 +25,5 @@ You thrust your hand or weapon into the ground and release a pulse that creates 
 
 [[Feat_Feature Effects/Effect_ Sheltering Pulse|Effect: Sheltering Pulse]]
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

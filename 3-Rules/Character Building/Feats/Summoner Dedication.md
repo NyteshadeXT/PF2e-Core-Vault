@@ -27,9 +27,7 @@ Your eidolon is trained in unarmed attacks and unarmored defense, and shares you
 
 At 5th level, the eidolon's ability score that was reduced to 16 increases to 18, before applying ability boosts. At levels 5, 10, 15, and 20, your eidolon also gets four ability boosts, which follow the same rules as yours.
 
-* * *
-
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Summoner|Summoner]] archetype.
+[[PF2e Journals/Archetypes/Summoner|Summoner]]
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

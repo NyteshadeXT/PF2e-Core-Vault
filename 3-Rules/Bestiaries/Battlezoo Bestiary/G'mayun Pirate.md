@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +4 (agile, finesse, versatile s)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+4 (agile, finesse, versatile s)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +4 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+4 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dart +7 (agile, thrown 20 ft.)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Dart"
+    desc: "+7 (agile, thrown 20 ft.)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Dolent Aria"
     desc: "`pf2:2` (auditory,emotion) The g'mayun sings a beautiful but mournful melody to inflict sorrow in the hearts of its foes. Each foe within 60 feet must succeed at a DC 13 Will save or become [[Conditions/Slowed|Slowed 1]] for 1 minute. If the creature is attacked during this time, it can make another Will save to end the effect early.\n\nAfter 1 minute, the creature is immune to the g'mayun's Dolent Aria for 24 hours."

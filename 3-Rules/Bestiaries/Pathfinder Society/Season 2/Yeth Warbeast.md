@@ -56,13 +56,16 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 (unholy)\n__Damage__  3d8 + 6 piercing plus knockdown,sinister-bite 1d6 spirit plus knockdown,sinister-bite"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (unarmed, unholy)\n__Damage__  3d8 + 6 piercing plus knockdown,sinister-bite 1d6 spirit plus knockdown,sinister-bite"
 
   - name: "Divine Innate Spells"
     desc: "DC 25, attack +17\n__Constant__  __(4th)__ _[[Spells/Air Walk|Air Walk]]_"
@@ -71,13 +74,13 @@ attacks:
     desc: "`pf2:3` (auditory,concentrate,divine,fear,mental) The yeth warbeast emits an unearthly howl audible up to 300 feet feet away. Any non-fiend creature that hears the howl must succeed at a DC 25 Will check save or become [[Conditions/Frightened|Frightened 1]]. Any creature that critically fails and is within 60 feet of the yeth warbeast is instead [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1d4 rounds (or until it recovers from its frightened condition).\n\nWhether it succeeds or fails the saving throw, the creature is then temporarily immune to Bay for 24 hours."
 
   - name: "Ear-splitting Howl"
-    desc: "`pf2:2` (auditory,divine,fear,mental,sonic) The yeth warbeast releases a piercing bark that deals 8d6 sonic damage in a @Template[cone|distance:20] (DC 25 Reflex check save). A creature that critically fails also becomes [[Conditions/Frightened|Frightened 1]], or increases the value of its frightened condition by 1 if already frightened.\n\nThe warbeast can't use Ear-Splitting Howl again for 1d4 rounds."
+    desc: "`pf2:2` (auditory,divine,fear,mental,sonic) The yeth warbeast releases a piercing bark that deals 8d6 sonic damage in a 20-foot cone (DC 25 Reflex check save). A creature that critically fails also becomes [[Conditions/Frightened|Frightened 1]], or increases the value of its frightened condition by 1 if already frightened.\n\nThe warbeast can't use Ear-Splitting Howl again for 1d4 rounds."
 
   - name: "Sinister Bite"
     desc: "  A good creature bitten by a yeth hound must attempt a DC 25 Will check save. On a critical success, the creature is temporarily immune to sinister bite for 1 minute. A creature that fails becomes [[Conditions/Frightened|Frightened 1]], or increases the value of its frightened condition by 1 if already frightened."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

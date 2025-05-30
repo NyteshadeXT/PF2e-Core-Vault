@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flaming Fist +13 ()\n__Damage__  1d8 + 5 bludgeoning 2d4 fire"
+  - name: "**Melee** `pf2:1` Flaming Fist"
+    desc: "+13 ()\n__Damage__  1d8 + 5 bludgeoning 2d4 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Flaming Peat Ball +10 (reload 1)\n__Damage__  4d6 bludgeoning 1d6 fire 2d4 fire"
+  - name: "**Melee** `pf2:1` Flaming Peat Ball"
+    desc: "+10 (reload 1)\n__Damage__  4d6 bludgeoning 1d6 fire 2d4 fire"
  
 ```
 

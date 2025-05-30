@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +7 (two-hand d8)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+7 (two-hand d8)\n__Damage__  1d4 bludgeoning"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_"

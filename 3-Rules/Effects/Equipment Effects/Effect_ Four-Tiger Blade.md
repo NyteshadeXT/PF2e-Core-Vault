@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Four-Tiger Blade|Four-Tiger Blade]]
+
 You gain resistance 10 to void damage.
 
 *Source: Pathfinder #199: To Bloom Below the Web*

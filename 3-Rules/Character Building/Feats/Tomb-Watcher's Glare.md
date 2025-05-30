@@ -22,5 +22,5 @@ license: OGL
 * * *
 When you critically hit an undead creature, or an undead creature critically fails a saving throw against one of your abilities, you drive your divine wrath home in your enemy's heart. The undead is [[Conditions/Enfeebled|Enfeebled 1]] for 1 round.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

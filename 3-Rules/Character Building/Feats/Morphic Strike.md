@@ -27,5 +27,5 @@ You can lash out with a portion of your previous self. You gain a melee unarmed 
 *   **Object** `pf2:1` striking surface (sweep), Damage 1d8 bludgeoning or slashing (chosen when you gain this feat)
 *   **Vegetation** `pf2:1` root (reach), Damage 1d6 bludgeoning
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

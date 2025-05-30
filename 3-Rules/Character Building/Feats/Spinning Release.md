@@ -13,7 +13,7 @@ license: ORC
 ---
 # Spinning Release `pf2:3`
 ## Feat 14
-### [[archetype]][[3-Rules/trait_reference/M/mental]]
+### [[archetype]][[mental]]
 
 **Category** class; 
 

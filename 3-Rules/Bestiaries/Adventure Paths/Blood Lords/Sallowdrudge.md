@@ -19,6 +19,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/PZO2101 HUMAN SAILOR.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Sallowdrudge"
 level: "Creature 1"
@@ -56,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Trident +9 ()\n__Damage__  1d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Trident"
+    desc: "+9 ()\n__Damage__  1d8 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +9 (range increment 20 feet)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+9 (range increment 20 feet)\n__Damage__  1d8 + 4 piercing"
 
   - name: "Entangling Net"
     desc: "`pf2:1`  A Sallowdrudge uses their net to [[Actions/Grapple|Grapple]] a Medium or smaller creature within 30 feet. On a success, the target is [[Conditions/Grabbed|Grabbed]] until it Escapes (DC 16) or until an adjacent creature Interacts to remove the net. On a critical hit, the target is [[Conditions/Restrained|Restrained]] rather than grabbed. The Sallowdrudge can't use Entangling Net again until they take 1 minute to refold their net."

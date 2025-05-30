@@ -57,6 +57,12 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Hand Crossbow|+2 Striking Hand Crossbow]], [[Equipment/The Demon's Lantern|The Demon's Lantern]], 10x [[Equipment/Bolts|Bolts (Poisoned with Shadow Essence)]], 10x [[Equipment/Nethershade|Shadow Essence (Applied to Bolts)]], Bejeweled Belt"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Rejection Vulnerability"
@@ -68,20 +74,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +27 (agile, finesse, magical, unholy)\n__Damage__  3d8 + 10 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+27 (agile, finesse, magical, unarmed, unholy)\n__Damage__  3d8 + 10 slashing 1d6 spirit"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +28 (magical, range increment 60 feet, reload 1, unholy)\n__Damage__  2d6 piercing plus shadow-essence"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+28 (magical, range increment 60 feet, reload 1, unholy)\n__Damage__  2d6 piercing plus shadow-essence"
 
   - name: "Divine Innate Spells"
     desc: "DC 34, attack +26; __7th __  _[[Spells/Warp Mind|Warp Mind]]_; __6th __  _[[Spells/Dominate|Dominate]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Suggestion|Suggestion (At Will)]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_; __2nd __  _[[Spells/Detect Alignment|Detect Alignment (At Will)]]_; __1st __  _[[Spells/Charm|Charm (At Will)]]_\n__Constant__  __(7th)__ _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The succubus can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning).\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The succubus can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning).\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Passionate Kiss"
     desc: "`pf2:1` (divine,emotion,mental) **Frequency** Once per round.\n* * *\n\n**Effect** Fate's Prophet engages a creature they have [[Conditions/Grabbed|Grabbed]] in an embrace or other act of passion to drain its vital essence. The kiss makes the creature [[Conditions/Drained|Drained 1]] or increases its drained condition by 1, to a maximum of 4. The creature takes 5d6 void damage and the succubus regains Hit Points equal to the damage dealt. The target must succeed at a DC 34 Will check save or be affected by a [[Spells/Suggestion|Suggestion]] to submit to more actions of passion rather than trying to [[Actions/Escape|Escape]]."

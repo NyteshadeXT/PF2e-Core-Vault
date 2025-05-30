@@ -19,6 +19,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/Pharasma_Cleric_finished_dark.webp| ]]
 source: "Pathfinder Gamemastery Guide"
 name: "Priest of Pharasma"
 level: "Creature 6"
@@ -56,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +13 (agile, magical, versatile s)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+13 (agile, magical, versatile s)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +13 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+13 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  1d6 + 5 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Circle of Protection|Circle of Protection]]_, _[[Spells/Holy Light|Searing Light]]_; __2nd __  _[[Spells/Peaceful Rest|Gentle Repose]]_, _[[Spells/Silence|Silence]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Infuse Vitality|Disrupting Weapons]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Spirit Link|Spirit Link]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
@@ -69,7 +70,7 @@ attacks:
     desc: "1 Focus Point, DC 24, attack +16; __3rd __  _[[Spells/Death's Call|Death's Call]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Consecrate|Consecrate]]_"
+    desc: "_Consecrate_"
 
   - name: "Healing Hands"
     desc: "  When the priest casts [[Spells/Heal|Heal]], they roll d10s instead of d8s."

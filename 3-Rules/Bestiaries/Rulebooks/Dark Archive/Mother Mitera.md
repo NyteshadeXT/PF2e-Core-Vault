@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +18 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 7 piercing 1d6 mental 1d6 bleed"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+18 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 7 piercing 1d6 mental 1d6 bleed"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +18 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  2d4 + 7 piercing 1d6 mental 1d6 bleed"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+18 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  2d4 + 7 piercing 1d6 mental 1d6 bleed"
 
   - name: "Primal Prepared Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Murderous Vine|Murderous Vine]]_, _[[Spells/Petal Storm|Petal Storm]]_; __3rd __  _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Mind of Menace|Mind of Menace]]_, _[[Spells/Soothing Blossoms|Soothing Blossoms]]_; __2nd __  _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/One with Plants|Tree Shape]]_\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Message|Message]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

@@ -70,8 +70,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hand +32 (finesse, magical)\n__Damage__  4d10 + 14 void plus terrifying-touch"
+  - name: "**Melee** `pf2:1` Hand"
+    desc: "+32 (finesse, magical)\n__Damage__  4d10 + 14 void plus terrifying-touch"
 
   - name: "Terrifying Touch"
     desc: " (emotion,fear,occult) A creature damaged by the banshee's touch that isn't already frightened must attempt a DC 38 Will check save (DC 43 Will check if the attack was a critical hit). If the creature fails its save, it's [[Conditions/Frightened|Frightened 2]]; on a critical failure, the creature also cowers with fear and is [[Conditions/Stunned|Stunned 4]]. If the creature is protected against fear by a spell or magic item, the banshee's touch first attempts to counteract the protection effect, with the effect of a 9th-rank [[Spells/Dispel Magic|Dispel Magic]] spell."
@@ -80,7 +80,7 @@ attacks:
     desc: "`pf2:r` (occult) **Trigger** A foe critically hits the banshee, or the banshee critically fails their save against a foe's damaging effect\n* * *\n\n**Effect** The banshee lashes back at their tormentor, dealing 4d10+14 mental damage with a DC 38 Will check save and applying the effects of terrifying touch based on the results of the same Will save."
 
   - name: "Wail"
-    desc: "`pf2:2` (auditory,concentrate,death,occult) The banshee unleashes a soul-chilling [[Spells/Wails of the Damned|Wails of the Damned]] (DC 38 Fortitude check, 8d10 void). This Wail overcomes silence and similar effects of 5th rank or lower. The banshee can instead use Wail as a three-action activity to overcome such effects of up to 8th rank.\n\nThe banshee's Wail resonates for 1 round, and any creature that comes within the area during that time must attempt a save against the effect. A creature can't be affected more than once by the same Wail. The banshee can't Wail again for [[/gmr 1d4 #Recharge Wail]] rounds."
+    desc: "`pf2:2` (auditory,concentrate,death,occult) The banshee unleashes a soul-chilling [[Spells/Wails of the Damned|Wails of the Damned]] (DC 38 Fortitude check, 8d10 void). This Wail overcomes silence and similar effects of 5th rank or lower. The banshee can instead use Wail as a three-action activity to overcome such effects of up to 8th rank.\n\nThe banshee's Wail resonates for 1 round, and any creature that comes within the area during that time must attempt a save against the effect. A creature can't be affected more than once by the same Wail. The banshee can't Wail again for 1d4 rounds."
  
 ```
 

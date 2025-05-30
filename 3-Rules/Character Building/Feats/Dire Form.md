@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Your hybrid shape is a hulking beast. While in your hybrid shape, you gain the effects of [[Enlarge|Enlarge]].
+Your hybrid shape is a hulking beast. While in your hybrid shape, you gain the effects of [[Spells/Enlarge|Enlarge]].
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

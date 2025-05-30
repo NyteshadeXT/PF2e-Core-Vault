@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +28 (agile, finesse, versatile s)\n__Damage__  3d4 + 10 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+28 (agile, finesse, versatile s)\n__Damage__  3d4 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Harrow Card +30 (agile, magical, thrown 20 ft.)\n__Damage__  3d4 + 10 slashing 3d6 force"
+  - name: "**Ranged** `pf2:1` Harrow Card"
+    desc: "+30 (agile, magical, thrown 20 ft.)\n__Damage__  3d4 + 10 slashing 3d6 force"
 
   - name: "Spontaneous Occult Spells"
     desc: "DC 36, attack +30; __8th __ (2 slots) _[[Spells/Confusing Colors|Scintillating Pattern]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (3 slots) _[[Spells/Planar Seal|Dimensional Lock]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Project Image|Project Image]]_; __6th __ (3 slots) _[[Spells/Collective Transposition|Collective Transposition]]_, _[[Spells/Spellwrack|Spellwrack]]_, _[[Spells/Spirit Blast|Spirit Blast]]_; __5th __ (3 slots) _[[Spells/Banishment|Banishment]]_, _[[Spells/Shadow Siphon|Shadow Siphon]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_; __4th __ (3 slots) _[[Spells/Confusion|Confusion]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse]]_, _[[Spells/Telepathy|Telepathy]]_; __3rd __ (3 slots) _[[Spells/Circle of Protection|Circle of Protection]]_, _[[Spells/Shared Invisibility|Invisibility Sphere]]_, _[[Spells/Veil of Privacy|Nondetection]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Paranoia|Paranoia]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __ (3 slots) _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Summon Fey|Summon Fey]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_"

@@ -53,7 +53,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Creature Family Ability Glossary/(Clockwork Creature) Wind-Up|Wind-Up]]"
-    desc: "  1 week DC 40 Thievery check\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  1 week [[Actions/disable-device dc=40|disable-device dc=40]]{DC 40 Thievery}\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +36 (reach 30 feet)\n__Damage__  4d12 + 18 bludgeoning plus stutter-time"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+36 (reach 30 feet, unarmed)\n__Damage__  4d12 + 18 bludgeoning plus stutter-time"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +36 (agile, reach 20 feet)\n__Damage__  4d8 + 18 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+36 (agile, reach 20 feet, unarmed)\n__Damage__  4d8 + 18 bludgeoning"
 
   - name: "Overclock"
     desc: "`pf2:1`  The clockwork clock tower loses 1 day from its winding time and becomes [[Conditions/Quickened|Quickened]] for 3 rounds. It can use this extra action to Step, Stride, or Strike. This quickened condition ends immediately if the clock tower is damaged by orichalcum."
@@ -79,7 +79,7 @@ attacks:
     desc: " (arcane,incapacitation) A creature struck by a clockwork clock tower's fist must make a DC 40 Will check save as time flows unevenly around it.\n* * *\n\n**Critical Success** The creature is [[Conditions/Quickened|Quickened]] for 1 round and can use this extra action to Step, Stride, or Strike.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Stunned|Stunned 3]].\n\n**Critical Failure** The creature is knocked out of time, which ceases to flow around the creature for 1 round. It is invulnerable to all damage, it can't be targeted or affected by anything, and no rounds elapse for any timed durations, conditions, afflictions, and other effects it has. The target can't act and remains fixed in place, defying gravity if applicable. After time begins to flow again for it, the creature is stunned 3."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 42 Reflex check save"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 42 Reflex check save\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

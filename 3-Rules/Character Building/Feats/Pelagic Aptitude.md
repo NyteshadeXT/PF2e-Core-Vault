@@ -22,5 +22,5 @@ You've learned special tricks to survive underwater. You gain the trained profic
 
 When in an aquatic environment, if you roll a critical failure on a Survival skill check to [[Actions/Sense Direction|Sense Direction]] or [[Actions/Subsist|Subsist]], you get a failure instead.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

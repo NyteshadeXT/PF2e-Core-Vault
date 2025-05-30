@@ -23,7 +23,7 @@ license: OGL
 
 
 
-Razor-sharp slivers of metal fall from the sky. Each creature in a @Template\[burst|distance:20\] within 60 feet takes 3d6 slashing damage with a Reflex check save against your class DC. The razors embed in all surfaces in the area, making them hazardous terrain for 1 minute. A creature that moves through this hazardous terrain takes 3 slashing damage for every square of the area it moves into.
+Razor-sharp slivers of metal fall from the sky. Each creature in a 20-foot burst within 60 feet takes 3d6 slashing damage with a Reflex check save against your class DC. The razors embed in all surfaces in the area, making them hazardous terrain for 1 minute. A creature that moves through this hazardous terrain takes 3 slashing damage for every square of the area it moves into.
 
 * * *
 

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Swift Traveler"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.K21KQsrR3RMcJ1du"
 license: OGL
 ---
 # Swift Traveler
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

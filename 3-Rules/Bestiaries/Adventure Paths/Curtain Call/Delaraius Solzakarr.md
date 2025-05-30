@@ -53,11 +53,11 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "+3 Greater Striking Spell Reservoir Unholy Wounding Speed Orichalcum Shortsword, +2 Greater Resilient Raiment Greater Winged Studded Leather Armor, A History of Secrets, Crystal Ball (Peridot), Skinsaw Eye, Wand of Massacre (Rank 9)"
+    desc: "[[Equipment/Shortsword|+3 Greater Striking Spell Reservoir Unholy Wounding Quickstrike Orichalcum Shortsword]], [[Equipment/Studded Leather Armor|+2 Greater Resilient Raiment Greater Winged Studded Leather Armor]], A History of Secrets, [[Equipment/Crystal Ball (Peridot)|Crystal Ball (Peridot)]], Skinsaw Eye, [[Equipment/Magic Wand (9th-Rank Spell)|Wand of Massacre (Rank 9)]]"
 abilities_mid:
   - name: ""
   - name: "Skinsaw Eye"
-    desc: "  Norgorber granted Delaraius an eye to aid him in his quest for vengeance, but this eye also significantly enhances the priest. It grants him darkvision and truesight as a constant innate spell, and also increases all of his attribute modifiers by 4. He is immune to bleed damage, magical detection and mental communication (unless he chooses otherwise), and magical alteration of his memories unless he chooses to be affected or the effect comes from a deity or artifact. The Skinsaw Eye serves as a religious symbol for Delaraius. If he ever loses the Skinsaw Eye, Delaraius loses all of these benefits and becomes [[Conditions/Drained|Drained 3]]."
+    desc: "  Norgorber granted Delaraius an eye to aid him in his quest for vengeance, but this eye also significantly enhances the priest. It grants him darkvision and [[Spells/Truesight|Truesight]] as a constant innate spell, and also increases all of his attribute modifiers by 4. He is immune to bleed damage, magical detection and mental communication (unless he chooses otherwise), and magical alteration of his memories unless he chooses to be affected or the effect comes from a deity or artifact. The _Skinsaw Eye_ serves as a religious symbol for Delaraius. If he ever loses the _Skinsaw Eye_, Delaraius loses all of these benefits and becomes [[Conditions/Drained|Drained 3]]."
 
   - name: "Vulnerable to Sunlight"
     desc: "  Delaraius takes 50 damage for every hour he's exposed to sunlight."
@@ -65,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +37 (agile, finesse, magical, versatile s)\n__Damage__  1d6 bleed 3d6 + 12 piercing 1d4 spirit"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+37 (agile, finesse, magical, versatile s)\n__Damage__  1d6 bleed 3d6 + 12 piercing 1d4 spirit"
 
   - name: "Divine Prepared Spells"
     desc: "DC 42, attack +34; __10th __  _[[Spells/Gate|Gate]]_; __9th __  _[[Spells/Overwhelming Presence|Overwhelming Presence]]_; __8th __  _[[Spells/Pinpoint|Pinpoint]]_; __7th __  _[[Spells/Interplanar Teleport|Interplanar Teleport]]_, _[[Spells/Planar Seal|Planar Seal]]_, _[[Spells/Regenerate|Regenerate]]_; __6th __  _[[Spells/Dominate|Dominate]]_, _[[Spells/Repulsion|Repulsion]]_; __5th __  _[[Spells/Scouting Eye|Scouting Eye]]_, _[[Spells/Truespeech|Truespeech]]_; __4th __  _[[Spells/Talking Corpse|Talking Corpse]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_, _[[Spells/Vision of Death|Vision of Death]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Dream Message|Dream Message]]_; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Calm|Calm]]_, _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Translate|Translate]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Lock|Lock]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(10th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Void Warp|Void Warp]]_"

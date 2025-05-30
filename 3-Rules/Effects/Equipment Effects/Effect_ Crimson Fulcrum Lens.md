@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Crimson Fulcrum Lens|Crimson Fulcrum Lens]]
+Granted by [[Equipment/Crimson Fulcrum Lens|Crimson Fulcrum Lens]]
 
 You gain a +2 item bonus to saving throws against fear effects and a +2 item bonus to your melee Strike damage (this increases to a +4 item bonus to damage if the melee Strike is a jaws attack).
 

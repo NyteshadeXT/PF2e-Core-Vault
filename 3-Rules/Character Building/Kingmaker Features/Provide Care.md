@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Provide Care"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/leadership
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.ofQBVTc54viN8v6C"
 license: OGL
 ---
 # Provide Care
-
+## 
 ### [[downtime]][[leadership]]
 
 **Category** kingdom-activity; 

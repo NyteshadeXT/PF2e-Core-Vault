@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 (reach 10 feet)\n__Damage__  2d6 + 8 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (reach 10 feet, unarmed)\n__Damage__  2d6 + 8 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +14 (reach 10 feet)\n__Damage__  1d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+14 (reach 10 feet)\n__Damage__  1d6 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +9 (thrown 20 ft.)\n__Damage__  1d6 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+9 (thrown 20 ft.)\n__Damage__  1d6 + 8 piercing"
 
   - name: "Toss Kobold"
     desc: "`pf2:2`  **Requirements** A kobold is within 10 feet of the ogre\n* * *\n\n**Effect** The ogre picks up the kobold and hurls it at another creature within 30 feet. This ranged Strike has a +14 attack modifier and deals 2d8+6 bludgeoning damage. The kobold takes half the damage dealt to the target and is [[Conditions/Prone|Prone]]."

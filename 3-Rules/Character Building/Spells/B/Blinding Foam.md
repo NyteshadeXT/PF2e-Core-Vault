@@ -42,5 +42,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You spray a colorful, caustic foam into the target's eyes, which clings to their face. Make a spell attack roll. If you hit, you deal 5d10 acid damage and 1d6 persistent acid damage, and the target is [[Conditions/Blinded|Blinded]] for the duration. The foam can be removed with 3 Interact actions, which ends the persistent acid damage. These Interact actions don't need to be consecutive. When the target's persistent acid damage ends, the spell automatically ends.\n* * *\n\n**Heightened (8th)** The initial damage increases to 9d10, and the persistent acid damage increases to 2d6."
-sourcebook: "_Pathfinder Lost Omens: Firebrands_"
+sourcebook: "_Pathfinder Lost Omens Firebrands_"
 ```

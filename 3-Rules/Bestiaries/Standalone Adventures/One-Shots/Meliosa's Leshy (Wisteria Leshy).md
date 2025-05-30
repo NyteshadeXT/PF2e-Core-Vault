@@ -53,13 +53,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Verdant Burst"
-    desc: " (healing) When a leshy dies, a burst of primal energy explodes from its body, restoring 2d8 Hit Points to each plant creature within a @Template[emanation|distance:30]. This area is filled with plants of the same type as the leshy, becoming difficult terrain. If the terrain isn't a viable environment for these plants, they wither after 24 hours."
+    desc: " (healing) When a leshy dies, a burst of primal energy explodes from its body, restoring 2d8 healing Hit Points to each plant creature within a 30-foot emanation. This area is filled with plants of the same type as the leshy, becoming difficult terrain. If the terrain isn't a viable environment for these plants, they wither after 24 hours."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +10 (agile, finesse)\n__Damage__  1d6 + 4 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+10 (agile, finesse, unarmed)\n__Damage__  1d6 + 4 bludgeoning plus grab"
 
   - name: "Primal Innate Spells"
     desc: "DC 16, attack +8; __4th __  _[[Spells/Speak with Plants|Speak with Plants]]_"
@@ -68,10 +68,10 @@ attacks:
     desc: "`pf2:1` (concentrate,polymorph,primal) The leshy transforms into a Small plant. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]]."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6+4 bludgeoning, DC 18 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d6+4 bludgeoning, DC 18 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

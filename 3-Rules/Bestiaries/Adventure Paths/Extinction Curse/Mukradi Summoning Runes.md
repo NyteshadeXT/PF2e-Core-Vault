@@ -43,7 +43,7 @@ attacks:
   - name: ""
 
   - name: "Summon Monster"
-    desc: "`pf2:r` (occult, summon) **Trigger** A creature enters the circle without uttering the passphrase, \"Praise to the Water Lizard\"\n* * *\n\n**Effect** The trap summons a [[Bestiary 1/Mukradi|Mukradi]]. The mukradi rolls initiative and remains for 1 minute, after which the spell ends and the mukradi disappears. The mukradi also disappears if someone disables the trap before the duration expires. The mukradi can use 3 actions each round and can use reactions, unlike most summoned creatures."
+    desc: "`pf2:r` (occult, summon) **Trigger** A creature enters the circle without uttering the passphrase, \"Praise to the Water Lizard\"\n* * *\n\n**Effect** The trap summons a [[Monster Core/Mukradi|Mukradi]]. The mukradi rolls initiative and remains for 1 minute, after which the spell ends and the mukradi disappears. The mukradi also disappears if someone disables the trap before the duration expires. The mukradi can use 3 actions each round and can use reactions, unlike most summoned creatures."
 
 
   - name: "Reset"

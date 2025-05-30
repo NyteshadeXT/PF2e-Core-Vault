@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Thermal Remedy|Thermal Remedy]]
+Granted by [[Spells/Thermal Remedy|Thermal Remedy]]
 
 Choose one of the benefits listed below. Any creature that consumes the targeted drink or food gains that benefit.
 

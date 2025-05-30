@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.zAJY8rLvZjzOK0Mt"
-license: OGL
+license: ORC
 ---
 # Sin Reservoir
 ## Feat 8
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Runelord Dedication
 * * *
-During daily preparations, you can indulge in your associated sin. When you do, you gain one additional spell slot of any spell rank up to two levels below the highest-level wizard spell you can cast. You can prepare only a spell of your specialized school in this slot. As with any other act, indulging in your sin might change your alignment if your behavior harms someone else.
+During your daily preparations, you can indulge in your associated sin or meditate on its values (and risks). When you do, you gain one additional spell slot of any spell level up to two levels below the highest-level wizard spell you can cast. You can prepare only one of your curriculum spells in this slot.
 
-*Source: Pathfinder Secrets of Magic*
-*OGL*
+*Source: Pathfinder Lost Omens Rival Academies*
+*ORC*

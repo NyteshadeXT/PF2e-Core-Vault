@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/eidolon
   - trait/occult
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.KyKXp599tK9BgodC"
 license: OGL
 ---
 # Dutiful Retaliation `pf2:r`
 
-### [[eidolon]][[3-Rules/Rule References/Occult]]
+### [[eidolon]][[occult]]
 
 **Category** offensive; 
 

@@ -23,9 +23,7 @@ license: OGL
 * * *
 You cast spells like a magus, gaining a spellbook with four common arcane cantrips of your choice. You gain the Cast a Spell activity. You can prepare two cantrips each day from your spellbook. Each time you gain a spell slot of a new level from the magus archetype, add a spell of that rank or lower to your spellbook. You're trained in arcane spell attack rolls and spell DCs. Your key spellcasting attribute for magus archetype spells is Intelligence, and they are arcane magus spells. You become trained in Arcana; if you were already trained in Arcana, you instead become trained in a skill of your choice. You become trained in simple weapons.
 
-* * *
-
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Magus|Magus]] archetype.
+[[PF2e Journals/Archetypes/Magus|Magus]]
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

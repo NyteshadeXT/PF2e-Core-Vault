@@ -57,8 +57,11 @@ abilities_top:
     desc: "[[Equipment/Glaive|+2 Greater Striking Glaive]], [[Equipment/Full Plate|+2 Greater Resilient Full Plate]], Chain of Lovelies"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 45 (Deactivated by Acid or Fire)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Vigorous Shake"
     desc: "`pf2:r`  **Trigger** The troll king takes [[Conditions/Persistent Damage|Persistent]] acid or fire damage.\n* * *\n\n**Effect** The troll king shakes itself to remove persistent acid or fire effects. The troll king immediately attempts a DC 15 Flat check check to end the persistent damage that triggered this reaction. If the troll king succeeds at this check, it can immediately use Primordial Roar as part of this reaction."
@@ -66,17 +69,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +35 (reach 10 feet)\n__Damage__  2d12 + 23 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+35 (reach 10 feet, unarmed)\n__Damage__  2d12 + 23 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +24 (agile, reach 10 feet)\n__Damage__  2d8 + 23 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+24 (agile, reach 10 feet, unarmed)\n__Damage__  2d8 + 23 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Glaive +35 (deadly d8, forceful, magical, reach 15 feet)\n__Damage__  3d8 + 17 slashing"
+  - name: "**Melee** `pf2:1` Glaive"
+    desc: "+35 (deadly d8, forceful, magical, reach 15 feet)\n__Damage__  3d8 + 17 slashing"
 
   - name: "Forced Regeneration"
-    desc: "`pf2:1` (concentrate) **Requirements** The troll king's regeneration is not currently deactivated.\n* * *\n\n**Effect** The troll king regains 25 HP."
+    desc: "`pf2:1` (concentrate) **Requirements** The troll king's regeneration is not currently deactivated.\n* * *\n\n**Effect** The troll king regains 25 healing HP."
 
   - name: "Jangle the Chain"
     desc: "`pf2:1` (auditory,emotion,manipulate,mental,primal) The Misbegotten Troll shakes his chain of caged sprites, causing the supernatural cages to amplify their despair. All creatures other than the Misbegotten Troll or his smilodon pets within 30 feet must attempt a DC 40 Will check save. The Misbegotten Troll can't Jangle the Chain again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Jangle the Chain for 24 hours.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]] by despair.\n\n**Failure** The creature is [[Conditions/Stunned|Stunned 1]] by sadness, and then sickened 1 by despair once the stun effect ends.\n\n**Critical Failure** The creature is [[Conditions/Stunned|Stunned 3]] by sadness, and then [[Conditions/Sickened|Sickened 2]] by despair once the stun effect ends."
@@ -85,7 +88,7 @@ attacks:
     desc: "`pf2:1` (auditory,emotion,fear,mental) The troll king unleashes a bestial roar. Each non-troll creature within 100 feet must attempt a DC 40 Will check save. The creature is then temporarily immune for 10 minutes.\n\nThis ability doesn't affect his pet black smilodons.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]]\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]]\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]]"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  claw\n\n* * *\n"
+    desc: "`pf2:1`  claw\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
 
   - name: "Unstoppable Charge"
     desc: "`pf2:3`  The troll king Strides twice in a straight line. It can make up to two claw Strikes during this movement and one jaws Strike at the end of its movement. It can't Strike the same creature more than once."

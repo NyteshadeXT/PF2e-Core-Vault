@@ -61,14 +61,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Antlers +13 (deadly d8)\n__Damage__  2d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Antlers"
+    desc: "+13 (deadly d8)\n__Damage__  2d6 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +13 ()\n__Damage__  2d4 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+13 ()\n__Damage__  2d4 + 7 bludgeoning"
 
   - name: "Furious Charge"
     desc: "`pf2:2`  The megaloceros Strides twice and makes a hoof Strike after either Stride. If the Strike hits, the megaloceros deals an additional 2d4 bludgeoning damage."

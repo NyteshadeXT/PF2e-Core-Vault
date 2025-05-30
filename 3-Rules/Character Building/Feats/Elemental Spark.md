@@ -12,13 +12,13 @@ license: ORC
 ---
 # Elemental Spark
 ## Feat 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Bestiaries/Bestiary 1/S/Sprite]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[sprite]]
 
 **Category** ancestry; 
 
 
 
-**Prerequisites** Sprite’s Spark
+**Prerequisites** Sprite's Spark
 * * *
 **Access** Tian Xia origin (but see **Special**)
 
@@ -41,5 +41,5 @@ You've learned to alter the magic of your sprite's spark, imparting them with el
 
 **Special** If you're a kineticist, an elemental sorcerer, or a geniekin versatile heritage other than suli, you also have access to Elemental Spark, though you must take the corresponding element; for instance, a hydrokineticist would have access to water, or an ardande geniekin would have access to wood.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

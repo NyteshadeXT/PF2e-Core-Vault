@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +6 (hampering, nonlethal, unarmed)\n__Damage__  1d4 + 1 bludgeoning plus faceglomph"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+6 (hampering, nonlethal, unarmed)\n__Damage__  1d4 + 1 bludgeoning plus faceglomph"
 
   - name: "Faceglomph"
     desc: "`pf2:r`  **Trigger** The sharktopus eidolon makes a successful tentacle strike\n* * *\n\n**Effect** the sharktopus makes an Athletics check to [[Actions/Grapple|Grapple]]. If it is successful, the target is [[Conditions/Blinded|Blinded]] until it escapes."

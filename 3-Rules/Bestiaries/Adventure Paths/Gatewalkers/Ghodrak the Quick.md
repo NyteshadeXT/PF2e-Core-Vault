@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +14 (agile, sweep)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+14 (agile, sweep)\n__Damage__  1d6 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +14 (agile, thrown 10 ft.)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+14 (agile, thrown 10 ft.)\n__Damage__  1d6 + 2 slashing"
 
   - name: "Axe Critical Specialization"
     desc: "  When Ghodrak lands a critical hit with a hatchet Strike, he can choose one creature adjacent to the initial target (and within reach if the critical hit was a melee Strike). If the creature's AC is lower than Ghodrak's attack roll result for the critical hit, he deals damage to that creature equal to the result of the weapon damage die rolled. This amount isn't doubled, and no bonuses or other additional dice apply to this damage."

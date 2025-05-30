@@ -1,28 +1,30 @@
 ---
 obsidianUIMode: preview
-title: "Channel The Godmind"
+title: "Channel the Godmind"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/aphorite
+  - trait/nephilim
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.DYFOlJlMoDuHjrZx"
-license: OGL
+license: ORC
 ---
-# Channel The Godmind `pf2:2`
+# Channel the Godmind `pf2:2`
 ## Feat 17
-### [[aphorite]]
+### [[nephilim]]
 
 **Category** ancestry; 
 
 
 
-
+**Prerequisites** Aeonbound
+* * *
 **Frequency** once per day
 
 * * *
 
-You tap into the Godmind's collective cognitive well, rapidly parsing near-infinite variables to read your surroundings. For 1 minute, you gain precise motion sense out to 60 feet, you can see invisible creatures and objects, and you gain the effects of a 9th-rank [[Truesight|Truesight]].
+You tap into the collective consciousness of the Godmind, the governing entity of axiomite society, to rapidly parse near-infinite variables to read your surroundings. For 1 minute, you gain precise motion sense out to 60 feet, you can see [[Conditions/Invisible|Invisible]] creatures and objects, and you gain the benefits of [[Spells/Truesight|Truesight]] (with a counteract check modifier equal to your Perception modifier).
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder War of Immortals*
+*ORC*

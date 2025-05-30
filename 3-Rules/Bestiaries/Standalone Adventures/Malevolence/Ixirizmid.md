@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Precise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Clever Disguises"
@@ -61,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile, finesse)\n__Damage__  2d8 + 5 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, finesse, unarmed)\n__Damage__  2d8 + 5 slashing plus grab"
 
   - name: "Rituals"
-    desc: "_[[Spells/Extract Brain|Extract Brain]]_"
+    desc: "_Extract Brain_"
 
   - name: "Eviscerate"
     desc: "`pf2:1` (manipulate) Ixirizmid performs a swift and painful surgery on a creature it has grabbed or restrained, or who's otherwise immobilized. They roll a Medicine check check against the target's Fortitude DC. Regardless of the result, the target then becomes temporarily immune to Eviscerate for 24 hours.\n* * *\n\n**Critical Success** The target takes 8d6 slashing damage, is [[Conditions/Slowed|Slowed 1]] for 1 round, and becomes [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Enfeebled|Enfeebled 1]], or [[Conditions/Stupefied|Stupefied 1]] (the mi-go chooses) for 24 hours.\n\n**Success** The target takes 5d6 slashing damage and is [[Conditions/Slowed|Slowed 1]] for 1 round by the pain.\n\n**Failure** The target takes 3d6 slashing damage.\n\n**Critical Failure** The target takes no damage."
@@ -74,7 +77,7 @@ attacks:
     desc: "  Ixirizmid deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Lion's Might
 * * *
-You gain access to the [[Lion Scythe|Lion Scythe's]] and [[Sun Sling|Sun Sling's]] critical specialization effects.
+You gain access to the [[Equipment/Lion Scythe|Lion Scythe's]] and [[Equipment/Sun Sling|Sun Sling's]] critical specialization effects.
 
 *Source: Pathfinder #172: Secrets of the Temple-City*
 *OGL*

@@ -52,19 +52,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d6 + 6 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (unarmed)\n__Damage__  1d6 + 6 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +9 (agile, finesse)\n__Damage__  1d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+9 (agile, finesse)\n__Damage__  1d6 + 3 slashing"
 
   - name: "Dirt Breath"
-    desc: "`pf2:2` (arcane,earth) The prairie drake spits a ball of dirt that explodes into a shower of rocks and mud. The attack has a range of 30 feet and explodes in a @Template[burst|distance:5]. Creatures within the burst take 3d6 bludgeoning damage (DC 16 Reflex check). Plant creatures in the area take no damage on a successful save; regardless, once per day, plant creatures can spend 10 minutes in the area to absorb the nutrients and heal 1d8 Hit Points. The prairie drake can't use Dirt Breath again for 1d6 rounds."
+    desc: "`pf2:2` (arcane,earth) The prairie drake spits a ball of dirt that explodes into a shower of rocks and mud. The attack has a range of 30 feet and explodes in a 5-foot burst. Creatures within the burst take 3d6 bludgeoning damage (DC 16 Reflex check). Plant creatures in the area take no damage on a successful save; regardless, once per day, plant creatures can spend 10 minutes in the area to absorb the nutrients and heal 1d8 healing Hit Points. The prairie drake can't use Dirt Breath again for 1d6 rounds."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The prairie drake makes one jaws Strike and two wing Strikes in any order."
@@ -76,7 +79,7 @@ attacks:
     desc: "`pf2:2`  Roxy makes a wing Strike against a target within reach. On a critical hit, the target is [[Conditions/Blinded|Blinded]] until the end of its next turn."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

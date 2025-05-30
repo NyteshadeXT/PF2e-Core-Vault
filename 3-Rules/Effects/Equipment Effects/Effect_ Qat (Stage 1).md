@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Qat|Qat]]
+Granted by [[Equipment/Qat|Qat]]
 
 The creature gains a +1 item bonus to Reflex saves.
 
-*Source: Pathfinder Lost Omens: Absalom, City of Lost Omens*
+*Source: Pathfinder Lost Omens Absalom, City of Lost Omens*
 *OGL*

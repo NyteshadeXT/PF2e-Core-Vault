@@ -36,5 +36,5 @@ You have an eye for detail and a mouth for pointing out flaws, which makes it al
 
 **Critical Failure** As failure, but the penalty is –2.
 
-*Source: Pathfinder Lost Omens: Highhelm*
+*Source: Pathfinder Lost Omens Highhelm*
 *OGL*

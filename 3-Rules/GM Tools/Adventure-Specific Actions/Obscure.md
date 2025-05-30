@@ -12,7 +12,7 @@ license: OGL
 ---
 # Obscure
 
-### [[illusion]][[3-Rules/trait_reference/shadow]]
+### [[illusion]][[shadow]]
 
 **Category** offensive; 
 

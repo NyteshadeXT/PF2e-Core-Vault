@@ -24,5 +24,5 @@ license: OGL
 * * *
 You bestow the mystical vision granted to you by your muse upon your allies. If your next action is to cast a non-cantrip spell that affects one or more of your allies, all affected allies gain your spiritsense for 1 minute.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

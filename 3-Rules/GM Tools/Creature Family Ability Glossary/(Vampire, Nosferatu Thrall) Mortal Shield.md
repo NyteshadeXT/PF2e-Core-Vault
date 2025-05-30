@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Vampire, Nosferatu Thrall) Mortal Shield"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.OQt7nHInDBAmHaG6"
 license: OGL

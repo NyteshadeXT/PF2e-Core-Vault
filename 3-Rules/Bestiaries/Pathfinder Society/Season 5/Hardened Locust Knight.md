@@ -62,17 +62,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Chitin Dagger +16 (agile, finesse, versatile s)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Melee** `pf2:1` Chitin Dagger"
+    desc: "+16 (agile, finesse, versatile s)\n__Damage__  1d4 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Chitin Dagger +16 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Chitin Dagger"
+    desc: "+16 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Rotcarver Scythe +17 (deadly d10, magical, trip)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Rotcarver Scythe"
+    desc: "+17 (deadly d10, magical, trip)\n__Damage__  2d6 + 8 slashing"
 
   - name: "Cutting Plague"
-    desc: "`pf2:2` (divine) The carved maggots in the blade of the rotcarver scythe shoot out in a @Template[cone|distance:30], transforming into a swarm of locusts. Creatures in the area take 7d6 piercing damage as they're cut by the locusts' spurs (DC 24 Reflex check save). The locust knight can't use this ability again for 1d4 rounds."
+    desc: "`pf2:2` (divine) The carved maggots in the blade of the rotcarver scythe shoot out in a 30-foot cone, transforming into a swarm of locusts. Creatures in the area take 7d6 piercing damage as they're cut by the locusts' spurs (DC 24 Reflex check save). The locust knight can't use this ability again for 1d4 rounds."
 
   - name: "Lunge"
     desc: "`pf2:1`  The locust knight makes a Strike with their rotcarver scythe, increasing their reach by 5 feet for that Strike. They can choose to [[Actions/Trip|Trip]] their opponent instead of making a Strike."

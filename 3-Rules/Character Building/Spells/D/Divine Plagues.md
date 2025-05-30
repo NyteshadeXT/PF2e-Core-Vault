@@ -13,8 +13,9 @@ tags:
   - trait/manipulate
   - trait/common
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.NkeLctXo9FLGnDhi" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Divine Plagues  `pf2:2`"
@@ -31,11 +32,11 @@ columnWidth: x
 abilities_top:
   - name: ""
   - name: "Range"
-    desc: "15 feet"
+    desc: "15 feet; **Targets** 1 creature"
   - name: "Defense"
     desc: " fortitude"
 abilities_mid:
   - name: ""
-    desc: "Your deity sends wracking plagues. The target must attempt a Fortitude save. When you Cast the Spell, decide whether the disease inflicts the Clumsy, Enfeebled, or Stupefied condition.\n\n**Divine Plague** (disease) **Level** 1\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Enfeebled|Enfeebled 1]], or [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** [[Conditions/Slowed|Slowed 1]], and Clumsy 1, Enfeebled 1, or Stupefied 1 (1 round)\n\n**Stage 3** Clumsy 1, Enfeebled 1, or Stupefied 1 and the target can't recover from the condition until they are cured (1 day)\n* * *\n\n**Success** The target is unaffected.\n\n**Failure** The target is afflicted with divine plague at stage 1.\n\n**Critical Failure** The target is afflicted with divine plague at stage 2.\n* * *\n\n**Heightened (5th)** The divine plague disease gains the virulent trait. The condition value for the Clumsy, Enfeebled, or Stupefied condition is 2 instead of 1."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+    desc: "Your deity sends wracking plagues. The target must attempt a Fortitude save. When you Cast the Spell, decide whether the disease inflicts the clumsy, enfeebled, or stupefied condition.\n\n**Success** The target is unaffected.\n\n**Failure** The target is afflicted with stage 1 divine plague.\n\n**Critical Failure** The target is afflicted with stage 2 divine plague.\n* * *\n\n**Divine Plague** (disease) Level 1\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Enfeebled|Enfeebled 1]], or [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** [[Conditions/Slowed|Slowed 1]] and clumsy 1, enfeebled 1, or stupefied 1 (1 round)\n\n**Stage 3** clumsy 1, enfeebled 1, or stupefied 1 and the target can't recover from the condition until they are cured (1 day)\n* * *\n\n**Heightened (5th)** The divine plague disease gains the virulent trait. The condition value for the clumsy, enfeebled, or stupefied condition is 2 instead of 1"
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

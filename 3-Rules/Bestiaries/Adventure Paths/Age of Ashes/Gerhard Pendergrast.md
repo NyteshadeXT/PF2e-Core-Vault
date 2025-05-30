@@ -63,23 +63,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +19 (disarm, finesse, magical, nonlethal, reach 10 feet, trip)\n__Damage__  2d4 + 6 slashing"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+19 (disarm, finesse, magical, nonlethal, reach 10 feet, trip)\n__Damage__  2d4 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 (agile, finesse)\n__Damage__  1d4 + 6 bludgeoning plus manly-left-hook"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (agile, finesse, unarmed)\n__Damage__  1d4 + 6 bludgeoning plus manly-left-hook"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +18 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+18 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +18 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+18 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
 
   - name: "Manly Left Hook"
     desc: "  A creature struck by Gerhard's punch must succeed at a DC 23 Fortitude check save or be [[Conditions/Stunned|Stunned 1]] (or [[Conditions/Stunned|Stunned 3]] on a critical failure)."
 
   - name: "Shoddy Blunderbuss"
-    desc: "`pf2:2`  Gerhard fires an explosive shot from his blunderbuss that deals 4d6 bludgeoning damage plus 2d10 fire damage to all creatures in a @Template[cone|distance:30] (DC 26 Reflex check).\n\nWhen firing the blunderbuss, Gerhard must succeed at a DC 20 Crafting check or Engineering Lore check or the weapon explodes, damaging him for the same amount as the creatures in the cone and destroying itself. If someone other than Gerhard uses the weapon, they must critically succeed at the check. A successful DC 22 Crafting check check is enough to confirm the weapon's unstable nature if someone examines it beforehand.\n\nReloading the blunderbuss takes 3 Interact actions: adding 1 dose of gunpowder, adding 1 grapeshot canister, and packing the contents."
+    desc: "`pf2:2`  Gerhard fires an explosive shot from his blunderbuss that deals 4d6 bludgeoning damage plus 2d10 fire damage to all creatures in a 30-foot cone (DC 26 Reflex check).\n\nWhen firing the blunderbuss, Gerhard must succeed at a DC 20 Crafting check or Engineering Lore check or the weapon explodes, damaging him for the same amount as the creatures in the cone and destroying itself. If someone other than Gerhard uses the weapon, they must critically succeed at the check. A successful DC 22 Crafting check check is enough to confirm the weapon's unstable nature if someone examines it beforehand.\n\nReloading the blunderbuss takes 3 Interact actions: adding 1 dose of gunpowder, adding 1 grapeshot canister, and packing the contents."
 
   - name: "Whip Swing"
     desc: "`pf2:2` (move) **Requirement** Gerhard is in a jungle, dense forest, or an area with numerous overhead beams.\n* * *\n\n**Effect** Gerhard uses his whip to lash upward to wrap around an overhanging tree branch; he then swings up to 30 feet in a straight line, and must end the movement on solid ground or fall."

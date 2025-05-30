@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Adamantine Claw +20 (adamantine, agile, reach 15 feet)\n__Damage__  2d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Adamantine Claw"
+    desc: "+20 (adamantine, agile, reach 15 feet)\n__Damage__  2d8 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Adamantine Fangs +20 (adamantine, reach 15 feet)\n__Damage__  2d10 + 10 piercing plus shuln-saliva"
+  - name: "**Melee** `pf2:1` Adamantine Fangs"
+    desc: "+20 (adamantine, reach 15 feet)\n__Damage__  2d10 + 10 piercing plus shuln-saliva"
 
   - name: "Armor-Rending"
     desc: "  Any time the shuln scores a critical hit with a melee Strike, it also deals the same amount of damage to the target's armor, bypassing any Hardness lower than 10, like adamantine."

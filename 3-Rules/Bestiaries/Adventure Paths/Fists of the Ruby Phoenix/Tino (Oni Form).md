@@ -67,10 +67,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
   - name: "[[Bestiary Ability Glossary/Retributive Strike|Retributive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** An enemy damages the monster's ally, and both are within 15 feet of the monster.\n* * *\n\n**Effect** The ally gains resistance to all damage against the triggering damage equal to 2 + the monster's level. If the foe is within reach, the monster makes a melee Strike against it."
 
   - name: "Wall of Iron"
     desc: "`pf2:1`  Tino raises his kanabo defensively, gaining a +2 circumstance bonus to AC."
@@ -78,14 +78,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Head +35 (deadly d10, reach 10 feet, sweep, unholy)\n__Damage__  5d8 + 17 piercing"
+  - name: "**Melee** `pf2:1` Head"
+    desc: "+35 (deadly d10, reach 10 feet, sweep, unholy)\n__Damage__  5d8 + 17 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +35 (agile, finesse, nonlethal, reach 10 feet, unarmed, unholy)\n__Damage__  5d6 + 17 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+35 (agile, finesse, nonlethal, reach 10 feet, unarmed, unholy)\n__Damage__  5d6 + 17 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Kanabo +33 (backswing, reach 15 feet, shove, unholy)\n__Damage__  5d10 + 15 bludgeoning"
+  - name: "**Melee** `pf2:1` Kanabo"
+    desc: "+33 (backswing, reach 15 feet, shove, unholy)\n__Damage__  5d10 + 15 bludgeoning"
 
   - name: "A Kanabo to an Oni"
     desc: "`pf2:2`  Tino loses himself further to the oni, pulling out even more strength. He makes a kanabo Strike that deals two additional weapon dice of damage."

@@ -26,5 +26,5 @@ license: OGL
 
 You paid attention during your studies and remember the right way to attack various creatures. Choose a creature that meets the requirements. You learn the resistances, immunities, or weaknesses of the creature (your choice) without needing to successfully Recall Knowledge.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

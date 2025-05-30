@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +11 (sweep)\n__Damage__  1d12 + 6 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+11 (sweep)\n__Damage__  1d12 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +8 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+8 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Felling Blow"
     desc: "`pf2:2`  Corax lunges toward a foe and makes a Strike with his greataxe, increasing his reach by 5 feet for that Strike. If he hits, the target must succeed at a DC 19 Fortitude check save to avoid being knocked [[Conditions/Prone|Prone]] (and [[Conditions/Stunned|Stunned 1]] on a critical failure)."

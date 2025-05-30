@@ -25,5 +25,5 @@ You can take to the skies at any time. You have a fly Speed of 25 feet at all ti
 
 **Special** You can take this feat a second time. If you do, your fly Speed increases to 35 feet.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

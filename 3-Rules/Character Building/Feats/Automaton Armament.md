@@ -6,8 +6,9 @@ tags:
   - trait/automaton
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.0DSCucjk9WZAw4xT"
-license: OGL
+license: ORC
 ---
 # Automaton Armament
 ## Feat 1
@@ -23,4 +24,4 @@ You've been provided a body part designed for combat. You gain either a claw or 
 **Enhancement** Your attacking part is reinforced. Increase the damage die of the unarmed attack you gain from this feat by one step (from 1d4 to 1d6, or from 1d6 to 1d8).
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

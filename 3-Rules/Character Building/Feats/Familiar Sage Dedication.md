@@ -27,5 +27,5 @@ You've forged an empowered mystical bond with your familiar. You gain the [[Feat
 
 **Special** You can take Familiar Sage Dedication even if you haven't yet gained three feats from the [[PF2e Journals/Archetypes/Familiar Master|Familiar Master]] archetype, and you can take Familiar Master Dedication even if you haven't yet gained three feats from the familiar sage archetype. You can't select another dedication feat until you've gained two other feats from the familiar master or [[PF2e Journals/Archetypes/Familiar Sage|Familiar Sage]] archetypes.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

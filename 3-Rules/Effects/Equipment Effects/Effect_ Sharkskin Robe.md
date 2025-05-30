@@ -17,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Sharkskin Robe|Sharkskin Robe]]
+Granted by [[Equipment/Sharkskin Robe|Sharkskin Robe]]
 
-For 1 minute, any time you make a Strike, your weapon or unarmed attack gains the benefit of the _underwater_ weapon property rune.
+Your weapon or unarmed attack gains the benefit of the _underwater_ weapon property rune.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

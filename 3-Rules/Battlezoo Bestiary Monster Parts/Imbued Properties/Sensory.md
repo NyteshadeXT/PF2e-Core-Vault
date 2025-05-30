@@ -27,4 +27,4 @@ Magical
 *   **14th** Once per day, you can activate the item as a two-action envision activation to gain 30-foot imprecise scent for 1 hour
 *   **16th** While investing the item, you gain 30-foot imprecise scent
 *   **18th** While investing the item, you gain greater darkvision
-*   **20th** While investing the item, you constantly gain the effects of 6th-level _True Seeing_
+*   **20th** While investing the item, you constantly gain the effects of 6th-level _[[Spells/Truesight|True Seeing]]_

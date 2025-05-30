@@ -28,7 +28,7 @@ You apply a contact poison or injury poison to the required weapon; if you have 
 
 * * *
 
-**Special** During your daily preparations, you can prepare a number of simple injury poisons equal to your rogue level. These follow the rules for injury poisons, except that they deal 1d4 poison damage with no saving throw. Only you can apply these poisons properly, and they expire the next time you prepare.
+**Special** During your daily preparations, you can prepare a number of simple injury poisons equal to your level. These follow the rules for injury poisons, except that they deal 1d4 poison damage with no saving throw. Only you can apply these poisons properly, and they expire the next time you prepare.
 
 *Source: Pathfinder Player Core*
 *ORC*

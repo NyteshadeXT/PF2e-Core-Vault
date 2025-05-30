@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Starsong Nectar|Starsong Nectar]]
+Granted by [[Equipment/Starsong Nectar|Starsong Nectar]]
 
 You gain a +3 status bonus to attack rolls, initiative rolls, Perception checks, saving throws, and skill checks, and you aren't off-guard against undetected creatures or when flanked.
 

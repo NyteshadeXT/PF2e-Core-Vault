@@ -54,6 +54,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Aromatic"
     desc: "  When a cacaodaemon is reduced to half its HP, the ruptures to its rind exude a fragrant tropical scent. Creatures within 10 feet of the cacaodaemon take a -1 circumstance penalty to Will saving throws until the cacaodaemon dies or is healed above half its HP."
 
@@ -62,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Nib Teeth +9 (unholy)\n__Damage__  1d6 + 3 piercing plus bitter-heart"
+  - name: "**Melee** `pf2:1` Nib Teeth"
+    desc: "+9 (unholy)\n__Damage__  1d6 + 3 piercing plus bitter-heart"
 
   - name: "Bitter Heart"
     desc: " (poison) The dissonance between the cacaodaemon's sweet scent and bitter inside drains the victim's spirit\n\n**Saving Throw** DC 17 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d8 mental damage and [[Conditions/Off-Guard|Off-Guard]] (1 round).\n\n**Stage 2** 1d8 mental damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 3** 1d12 mental damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)"

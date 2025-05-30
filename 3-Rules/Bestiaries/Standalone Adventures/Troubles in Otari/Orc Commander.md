@@ -58,19 +58,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Maul +10 (shove)\n__Damage__  1d12 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Maul"
+    desc: "+10 (shove)\n__Damage__  1d12 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +10 (agile, nonlethal)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+10 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Battle Cry"
     desc: "`pf2:1` (concentrate,emotion,mental) Bellowing mightily, the commander gives themself and all orc allies within 60 feet who can hear them a +1 status bonus to attack and damage rolls until the start of the orc commander's next turn.\n\n[[Bestiary Effects/Effect_ Battle Cry|Effect: Battle Cry]]"

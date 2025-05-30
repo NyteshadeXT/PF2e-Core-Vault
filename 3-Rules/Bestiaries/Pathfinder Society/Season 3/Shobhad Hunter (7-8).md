@@ -57,19 +57,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Falchion +17 (forceful, reach 10 feet, sweep)\n__Damage__  1d10 + 9 slashing"
+  - name: "**Melee** `pf2:1` Falchion"
+    desc: "+17 (forceful, reach 10 feet, sweep)\n__Damage__  1d10 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +14 (range increment 30 feet, thrown)\n__Damage__  1d6 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+14 (range increment 30 feet, thrown)\n__Damage__  1d6 + 9 piercing"
 
   - name: "Determined Charge"
     desc: "`pf2:2`  The shobhad hunter Strides, ignoring non-magical difficult terrain and uneven ground. If the shobhad ends their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy."

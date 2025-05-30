@@ -55,8 +55,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile, finesse)\n__Damage__  1d8 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, finesse, unarmed)\n__Damage__  1d8 + 3 slashing"
 
   - name: "Squirt Blood"
     desc: "`pf2:1`  **Frequency** once per day\n* * *\n\n**Effect** The ikeshti squirts blood from one of their eyes at a target within 30 feet. The target must attempt a DC 18 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."

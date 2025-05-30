@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-11 - Devil's Keep"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.ePZOmPbGXzrEaXXs"
 license: OGL
 ---
 # S1-11 - Devil's Keep `pf2:r`
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

@@ -53,11 +53,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 (reach 10 feet)\n__Damage__  1d10 + 4 bludgeoning plus improved-push 1d6 electricity plus improved-push"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (reach 10 feet, unarmed)\n__Damage__  1d10 + 4 bludgeoning plus improved-push 1d6 electricity plus improved-push"
 
   - name: "Voltaic Surge"
     desc: "`pf2:r` (electricity) **Trigger** The technic zombie critically hits a creature with a fist Strike\n* * *\n\n**Effect** The Technic zombie releases a jolt of electricity through its fist, dealing 2d6 electricity damage to the target. Additionally, the target becomes [[Conditions/Clumsy|Clumsy 2]] for 1 round (DC 18 Reflex check negates)\n\n**Frequency** once per minute"
+
+  - name: "[[Bestiary Ability Glossary/Improved Push|Improved Push]]"
+    desc: "  The monster can use [[Bestiary Ability Glossary/Push|Push]] as a free action triggered by a hit with its initial attack."
  
 ```
 

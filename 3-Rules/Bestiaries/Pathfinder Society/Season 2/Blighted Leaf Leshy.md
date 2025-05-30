@@ -61,20 +61,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Leaf Razor +7 (agile, finesse)\n__Damage__  1d8 + 1 piercing"
+  - name: "**Melee** `pf2:1` Leaf Razor"
+    desc: "+7 (agile, finesse)\n__Damage__  1d8 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Seedpod +7 (range increment 30 feet)\n__Damage__  1d8 bludgeoning plus sickening-blow"
+  - name: "**Ranged** `pf2:1` Seedpod"
+    desc: "+7 (range increment 30 feet)\n__Damage__  1d8 bludgeoning plus sickening-blow"
 
   - name: "Primal Innate Spells"
     desc: "DC 15, attack +7; __4th __  _[[Spells/Speak with Plants|Speak with Plants (Trees Only)]]_"
 
   - name: "Blightburst"
-    desc: " (disease) When a blighted leaf leshy dies, a burst of rotted compost explodes from its body, dealing 1d6 slashing damage and 1d6 poison damage to each creature in a @Template[emanation|distance:30]. This area then fills with blighted saplings, becoming difficult terrain until the saplings wither 24 hours later."
+    desc: " (disease) When a blighted leaf leshy dies, a burst of rotted compost explodes from its body, dealing 1d6 slashing damage and 1d6 poison damage to each creature in a 30-foot emanation. This area then fills with blighted saplings, becoming difficult terrain until the saplings wither 24 hours later."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The blighted leaf leshy transforms into a Small gnarled, rotted tree. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The blighted leaf leshy transforms into a Small gnarled, rotted tree. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Sickening Blow"
     desc: "  When a blighted leaf leshy hits with its seedpod Strike, the target must attempt a DC 17 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected and temporarily immune for 24 hours.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** The target is [[Conditions/Sickened|Sickened 2]]."

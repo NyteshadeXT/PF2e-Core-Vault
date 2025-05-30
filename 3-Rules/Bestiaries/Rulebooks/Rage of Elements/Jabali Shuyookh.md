@@ -54,25 +54,31 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Falchion|+1 Striking Falchion]]"
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Falchion +28 (forceful, magical, reach 10 feet, sweep)\n__Damage__  2d10 + 14 slashing"
+  - name: "**Melee** `pf2:1` Falchion"
+    desc: "+28 (forceful, magical, reach 10 feet, sweep)\n__Damage__  2d10 + 14 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +27 (agile, magical, nonlethal, reach 10 feet)\n__Damage__  2d6 + 13 bludgeoning plus push,stone-clutch"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+27 (agile, magical, nonlethal, reach 10 feet, unarmed)\n__Damage__  2d6 + 13 bludgeoning plus push,stone-clutch"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +27 (brutal, range increment 120 feet)\n__Damage__  2d8 + 13 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+27 (brutal, range increment 120 feet)\n__Damage__  2d8 + 13 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 32, attack +24; __8th __  _[[Spells/Earthquake|Earthquake]]_; __7th __  _[[Compendium.pf2e.spells-srd.Item.nRINcQb81Wt4KeFu|Interplanar Teleport (To Astral Plane, Elemental Planes, or the Universe Only)]]_; __6th __  _[[Spells/Mountain Resilience|Mountain Resilience (At Will; Self Only)]]_, _[[Spells/Petrify|Petrify]]_; __5th __  _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __  _[[Spells/Shape Stone|Shape Stone (At Will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The jabali transforms into a Small or Medium earth elemental or land animal, typically a camel or dog. This doesn't affect the shuyookh's statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The jabali transforms into a Small or Medium earth elemental or land animal, typically a camel or dog. This doesn't affect the shuyookh's statistics, but it could change the damage type of their Strikes.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Earth Glide"
     desc: "  The jabali can Burrow through dirt and stone at their full burrow Speed, leaving no tunnels or signs of their passing."
@@ -90,7 +96,7 @@ attacks:
     desc: "`pf2:1` (arcane,earth) The jabali deals 2d6+13 bludgeoning damage to all creatures within 100 feet that are [[Conditions/Grabbed|Grabbed]] by stone clutch, with a DC 32 Fortitude check save."
 
   - name: "[[Bestiary Ability Glossary/Push|Push 15 feet]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

@@ -52,19 +52,25 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 2 (While Underground)]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +8 ()\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+8 (unarmed)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 17, attack +9; __2nd __ (1 slots) _[[Spells/Enlarge|Enlarge (Self Only)]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,earth) The scorched earth mephit breathes rocks in a @Template[cone|distance:15] that deals 2d4 fire damage and 1d4 persistent fire damage to each creature within the area (DC 17 Reflex check save).\n\nThe scorched earth mephit can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,earth) The scorched earth mephit breathes rocks in a 15-foot cone that deals 2d4 fire damage and 1d4 persistent fire damage to each creature within the area (DC 17 Reflex check save).\n\nThe scorched earth mephit can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Magma Swim"
     desc: "  A scorched earth mephit's swim Speed functions only when the elemental is Swimming through magma or molten lava."

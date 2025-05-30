@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "All In My Head"
+title: "All in My Head"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/bard
@@ -12,16 +12,16 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.wqAdzjRUOvTpKFKq"
 license: ORC
 ---
-# All In My Head `pf2:r`
+# All in My Head `pf2:r`
 ## Feat 18
-### [[bard]][[illusion]][[3-Rules/trait_reference/M/mental]]
+### [[bard]][[illusion]][[mental]]
 
 **Category** class; 
 
 
 
 
-**Trigger** You would take damage from a Strike or spell that doesn't have the death trait or otherwise cause instant death (such as [[Disintegrate|Disintegrate]]).
+**Trigger** You would take damage from a Strike or spell that doesn't have the death trait or otherwise cause instant death (such as [[Spells/Disintegrate|Disintegrate]]).
 
 * * *
 

@@ -26,5 +26,5 @@ license: OGL
 
 You dart away from your foe's attack with a casual laugh, using the opening to cause mischief. You attempt to [[Actions/Steal|Steal]] an item from the triggering creature, ignoring the usual restriction that the creature can't be in combat.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

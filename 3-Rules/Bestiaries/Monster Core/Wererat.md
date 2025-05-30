@@ -68,20 +68,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +10 (agile, finesse, versatile s)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+10 (agile, finesse, versatile s)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +10 (agile, finesse)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+10 (agile, finesse, unarmed)\n__Damage__  1d6 + 2 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 (finesse)\n__Damage__  1d8 + 2 piercing plus werecreature-curse-of-the-werecreature"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (finesse, unarmed)\n__Damage__  1d8 + 2 piercing plus werecreature-curse-of-the-werecreature"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +10 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+10 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) *   **Human**\n    *   **Melee** fist +10 **Damage** 1d4+2 bludgeoning\n*   **Rat**\n    *   **Size** small\n    *   **Speed** 30 feet, climb 10 feet\n* * *\n\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\n\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\n\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) *   **Human**\n    *   **Melee** fist +10 **Damage** 1d4+2 bludgeoning\n*   **Rat**\n    *   **Size** small\n    *   **Speed** 30 feet, climb 10 feet\n* * *\n\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\n\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\n\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Curse of the Werecreature|Curse of the Wererat]]"
     desc: " (curse,primal) This curse affects only humanoids.\n* * *\n\n**Saving Throw** DC 15 Fortitude check\n\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn.\n\nThe creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."

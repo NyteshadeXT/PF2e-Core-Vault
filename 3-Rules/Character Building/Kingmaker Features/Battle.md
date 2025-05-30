@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 title: "Battle"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/attack
-  - trait/common
+  - trait/
   - category/army-war-action
 aliases: "Compendium.pf2e.kingmaker-features.Item.qCxyuNhzaaYlYBum"
 license: OGL
 ---
 # Battle `pf2:1`
-
+## 
 ### [[attack]]
 
 **Category** army-war-action; 

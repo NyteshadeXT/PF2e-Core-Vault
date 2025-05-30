@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Swift Block Cabochon|Swift Block Cabochon]]
+Granted by [[Equipment/Swift Block Cabochon|Swift Block Cabochon]]
 
 Increase the shield's Hardness by 5 against the triggering attack.
 

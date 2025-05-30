@@ -18,5 +18,5 @@ license: OGL
 
 The imperfect automaton draws upon the target's emotions to recall a semblance of mortal feeling, gaining a +5-foot status bonus to its Speed for 1 minute.
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

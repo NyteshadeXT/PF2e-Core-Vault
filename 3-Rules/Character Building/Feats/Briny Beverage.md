@@ -22,5 +22,5 @@ license: ORC
 * * *
 You can survive off the sea as well as gain insight from its waters. You can drink saltwater and quench your thirst as though it's freshwater. In addition, once per day, you can take a gulp of seawater using an Interact action to gain imprecise wavesense with a range of 20 feet, which lasts for 1 minute. This wavesense functions only within the body of water you drank from.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

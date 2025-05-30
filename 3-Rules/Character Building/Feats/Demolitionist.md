@@ -6,8 +6,9 @@ tags:
   - trait/dwarf
   - trait/uncommon
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.WldISqAE5Rw3Ewzn"
-license: OGL
+license: ORC
 ---
 # Demolitionist
 ## Feat 9
@@ -25,4 +26,4 @@ license: OGL
 You know how to destroy objects with a well-placed explosion. Whenever you hit with a bomb Strike against a trap or an unattended object, you ignore the first 5 points of the object's Hardness.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

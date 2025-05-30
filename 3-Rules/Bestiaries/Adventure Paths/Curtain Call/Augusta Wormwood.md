@@ -59,17 +59,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +26 (agile, magical, sweep)\n__Damage__  3d6 + 10 slashing 1d6 acid 1d4 void"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+26 (agile, magical, sweep)\n__Damage__  3d6 + 10 slashing 1d6 acid 1d4 void"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +26 (agile, magical, sweep, thrown 10 ft.)\n__Damage__  3d6 + 10 slashing 1d4 void 1d6 acid"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+26 (agile, magical, sweep, thrown 10 ft.)\n__Damage__  3d6 + 10 slashing 1d4 void 1d6 acid"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 34, attack +26; __7th __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Retrocognition|Retrocognition]]_, _[[Spells/Soothe|Soothe]]_; __6th __ (3 slots) _[[Spells/Never Mind|Never Mind]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Scrying|Scrying]]_; __5th __ (3 slots) _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Translocate|Translocate]]_, _[[Spells/Truespeech|Truespeech]]_; __4th __ (3 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Honeyed Words|Honeyed Words]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (3 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Stupefy|Stupefy]]_, _[[Spells/Translate|Translate]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Phantasmal Minion|Phantasmal Minion]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Message|Message]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Binding Circle|Binding Circle]]_, _[[Spells/Call Spirit|Call Spirit]]_"
+    desc: "_Binding Circle_, _Call Spirit_"
 
   - name: "Infernal Insight"
     desc: "`pf2:1` (auditory,emotion,linguistic,mental,occult) Augusta Wormwood draws upon her knowledge of how secrets kept can weigh upon the mind along with her supernatural heritage from being the granddaughter of a gylou devil to unnerve a creature she can see within 30 feet. She speaks aloud an uncanny insight about the target's fears, doubts, and shames; the target must then attempt a DC 34 Will check save, after which they're temporarily immune to Infernal Insight for 24 hours.\n* * *\n\n**Critical Success** The target is unaffected, and Augusta suddenly doubts her own abilities instead; she can't use Infernal Insight again for 24 hours.\n\n**Success** The target experiences a twinge of self-doubt and shame and takes a –1 status penalty to all Will saving throws until the end of their next turn.\n\n**Failure** As success, but the penalty increases to a –2 status penalty and lasts for 1 minute; in addition, the target is [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Critical Failure** As failure, but slowed 1 for 1 minute."

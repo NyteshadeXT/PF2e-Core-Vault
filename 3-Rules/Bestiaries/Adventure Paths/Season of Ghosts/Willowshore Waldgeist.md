@@ -54,16 +54,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Fleeting Existence"
     desc: "  These waldgeists are only fleeting manifestations of a failed exorcism. They vanish after 1 minute has passed from their first manifestation in the mindscape."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Lignifying Hand +16 (finesse, magical)\n__Damage__  2d8 + 5 void plus lignify"
+  - name: "**Melee** `pf2:1` Lignifying Hand"
+    desc: "+16 (finesse, magical)\n__Damage__  2d8 + 5 void plus lignify"
 
   - name: "Primal Innate Spells"
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Wall of Thorns|Wall of Thorns]]_\n__Cantrips__  __(4th)__ _[[Spells/Tangle Vine|Tanglefoot]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"

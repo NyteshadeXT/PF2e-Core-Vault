@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +15 (agile, finesse, trip)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+15 (agile, finesse, trip)\n__Damage__  1d4 + 2 slashing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 20, attack +12; __2nd __ (3 slots) _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Phantom Pain|Phantom Pain]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Mystic Armor|Mage Armor]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"

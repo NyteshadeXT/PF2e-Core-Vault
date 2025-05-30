@@ -4,7 +4,7 @@ title: "(Zombie) Plague-Ridden"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/disease
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.MhymIeTQoxbacG1o"
@@ -12,14 +12,34 @@ license: ORC
 ---
 # (Zombie) Plague-Ridden
 
-### [[3-Rules/trait_reference/D/disease]]
+### [[disease]]
 
 **Category** defensive; 
 
 
 
 
-The zombie emits an aura of rot and disease that causes wounds to fester. Any living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 void damage. This damage increases by 1d6 for every 6 levels the zombie has.
+The zombie carries a plague that can create more of its own kind.
+
+This functions as the [[Monster Core/Plague Zombie|Plague Zombie's]] zombie rot, except at stage 5, the victim rises as another of the zombie's type, rather than a plague zombie.
+
+* * *
+
+**Zombie Rot**
+
+An infected creature can't heal damage it takes from zombie rot until it has been cured of the disease.
+
+**Saving Throw** Fortitude check. Use the high spell DC for the zombie's level.
+
+**Stage 1** carrier with no ill effect (1 day)
+
+**Stage 2** 1d6 void damage (1 day)
+
+**Stage 3** 1d6 void damage (1 day)
+
+**Stage 4** 1d6 void damage (1 day)
+
+**Stage 5** dead, rising as another of the zombie's type immediately
 
 *Source: Pathfinder Monster Core*
 *ORC*

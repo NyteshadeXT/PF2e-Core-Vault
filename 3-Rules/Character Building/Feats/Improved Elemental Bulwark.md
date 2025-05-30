@@ -21,5 +21,5 @@ license: OGL
 * * *
 You gain resistance 10 from Elemental Bulwark instead of 5.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

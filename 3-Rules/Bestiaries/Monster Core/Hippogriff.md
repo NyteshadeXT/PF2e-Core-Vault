@@ -53,19 +53,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Buck|Buck]]"
-    desc: "`pf2:r`  DC 17 Reflex check"
+    desc: "`pf2:r`  DC 17 Reflex check\n* * *\n\nMost monsters that serve as mounts can attempt to buck off unwanted or annoying riders, but most mounts will not use this reaction against a trusted creature unless the mounts are spooked or mistreated.\n\n**Trigger** A creature [[Actions/Mount|Mounts]] or uses the [[Actions/Command an Animal|Command an Animal]] action while riding the monster.\n* * *\n\n**Effect** The triggering creature must succeed at a Reflex saving throw against the listed DC or fall off the creature and land [[Conditions/Prone|Prone]]. If the save is a critical failure, the triggering creature also takes 1d6 bludgeoning damage in addition to the normal damage for the fall."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +9 ()\n__Damage__  1d10 + 3 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+9 (unarmed)\n__Damage__  1d10 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +9 (agile)\n__Damage__  1d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+9 (agile, unarmed)\n__Damage__  1d6 + 3 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +9 (reach 10 feet)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+9 (reach 10 feet)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Flying Strafe"
     desc: "`pf2:2`  The hippogriff Flies up to its fly speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. The attacks take the normal multiple attack penalty."

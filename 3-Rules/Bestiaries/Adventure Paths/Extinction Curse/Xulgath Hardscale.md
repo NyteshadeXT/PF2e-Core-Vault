@@ -61,7 +61,7 @@ abilities_mid:
     desc: "`pf2:0`  **Trigger** The hardscale uses the [[Bestiary Ability Glossary/Shield Block|Shield Block]] reaction, and the opponent that triggered Shield Block is adjacent to the hardscale and is not more than one size larger than it\n* * *\n\n**Effect** The hardscale makes an Athletics check to [[Actions/Shove|Shove]] the opponent. This shove doesn't increase the hardscale's multiple attack penalty. If they roll a critical failure, they get a failure instead. If they roll a success, they get a critical success instead."
 
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Hardscale Shield Stance"
     desc: "  A hardscale always has their shield raised as if they had used the [[Actions/Raise a Shield|Raise a Shield]] action, as long as they meet that action's requirements."
@@ -70,7 +70,7 @@ abilities_mid:
     desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 32 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  At the beginning of each of their turns, the hardscale receives an additional reaction that they can use only for Shield Block.\n\n* * *\n"
+    desc: "`pf2:r`  At the beginning of each of their turns, the hardscale receives an additional reaction that they can use only for Shield Block.\n* * *\n\n**Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
   - name: "Shield Warden"
     desc: "  If the hardscale has their shield raised, they can [[Bestiary Ability Glossary/Shield Block|Shield Block]] when an attack is made against an adjacent ally. If they do, the shield prevents that ally from taking damage instead of the hardscale."
@@ -78,17 +78,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +24 (magical, shove, deadly 2d8)\n__Damage__  2d8 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+24 (magical, shove)\n__Damage__  2d8 + 11 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +23 ()\n__Damage__  3d6 + 11 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+23 (unarmed)\n__Damage__  3d6 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile)\n__Damage__  3d4 + 11 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, unarmed)\n__Damage__  3d4 + 11 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +21 (thrown 20 ft.)\n__Damage__  1d6 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+21 (thrown 20 ft.)\n__Damage__  1d6 + 11 piercing"
 
   - name: "Hammer Mastery"
     desc: "  The hardscale deals an extra 1d8 damage with weapons with the shove trait, and weapons with the shove trait gain the deadly 2d8 trait when the hardscale uses them (both the extra weapon damage die and the deadly trait have already been included in the hardscale's warhammer Strike above)."

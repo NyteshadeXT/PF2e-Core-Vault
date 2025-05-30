@@ -57,14 +57,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 ()\n__Damage__  2d8 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (unarmed)\n__Damage__  2d8 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile)\n__Damage__  1d6 + 5 slashing 1d6 sonic"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, unarmed)\n__Damage__  1d6 + 5 slashing 1d6 sonic"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Screech +10 (range 60 feet, sonic)\n__Damage__  4d6 sonic"
+  - name: "**Ranged** `pf2:1` Screech"
+    desc: "+10 (range 60 feet, sonic)\n__Damage__  4d6 sonic"
 
   - name: "Auditory Swipe"
     desc: "`pf2:r`  **Trigger** A creature within the morthak's reach uses an auditory action\n* * *\n\n**Effect** The morthak makes a claw Strike against the triggering creature."

@@ -33,7 +33,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Stealth: +5, Survival: +4, Stealth: +5, Survival: +4"
+    desc: "Stealth: +5, Survival: +4"
 abilityMods: [0, 3, 3, -5, 2, 0]
 speed: 10 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 (agile, finesse, reach 0 feet)\n__Damage__  1d4 piercing plus attach"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (agile, finesse, reach 0 feet)\n__Damage__  1d4 piercing plus attach"
 
   - name: "Attach"
     desc: "  When a extra toe hits a humanoid creature larger than itself with its jaws, and that creature has a foot, the extra toe attaches itself to that creature like an additional natural toe, releasing an anesthetic such that the creature doesn't notice the bite or attachment. This is similar to [[Bestiary Ability Glossary/Grab|Grabbing]] the creature, but the extra toe moves with that creature rather than holding it in place. The extra toe is flat- footed while attached. If the extra toe is killed or pushed away while attached to a creature, that creature takes 1 persistent bleed damage. Escaping the attach or removing the extra toe in other ways doesn't cause bleed damage."

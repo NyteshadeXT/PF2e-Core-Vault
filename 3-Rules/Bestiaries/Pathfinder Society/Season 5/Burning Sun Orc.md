@@ -54,19 +54,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +15 (magical, sweep)\n__Damage__  2d12 + 2 slashing plus knockdown"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+15 (magical, sweep)\n__Damage__  2d12 + 2 slashing plus knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +13 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  2d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+13 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  2d6 + 4 piercing"
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

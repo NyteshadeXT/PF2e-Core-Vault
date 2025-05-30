@@ -39,7 +39,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Athletics: +18, Deception: +16, Intimidation: +18, Nature: +16, Stealth: +18, Survival: +16, Athletics: +18, Deception: +16, Intimidation: +18, Nature: +16, Stealth: +18, Survival: +16"
+    desc: "Athletics: +18, Deception: +16, Intimidation: +18, Nature: +16, Stealth: +18, Survival: +16"
 abilityMods: [6, 3, 4, 4, 6, 3]
 speed:  swim 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +18 ()\n__Damage__  2d10 + 10 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+18 ()\n__Damage__  2d10 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile, reach 10 feet)\n__Damage__  2d6 + 10 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, reach 10 feet)\n__Damage__  2d6 + 10 slashing plus grab"
 
   - name: "Primal Innate Spells"
     desc: "DC 23, attack +15; __4th __  _[[Spells/Coral Eruption|Coral Eruption]]_, _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_; __3rd __  _[[Spells/Animal Vision|Animal Vision (At Will)]]_, _[[Spells/Crashing Wave|Crashing Wave]]_; __2nd __  _[[Spells/Darkness|Darkness]]_\n__Cantrips__  __(4th)__ _[[Spells/Spout|Spout]]_"

@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Feats/Mountain Strategy|Mountain Strategy]]
+
 Marks a target that critically hit you.
 
 *Source: Pathfinder Player Core*

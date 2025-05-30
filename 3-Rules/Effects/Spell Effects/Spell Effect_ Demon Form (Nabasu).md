@@ -16,11 +16,9 @@ license: OGL
 
 
 
-Granted by [[Demon Form|Demon Form]]
+Granted by [[Spells/Demon Form|Demon Form]]
 
-You corrupt yourself with the sin of the Abyss, transforming into a Medium demon battle form. When you cast this spell, choose babau, hezrou, nabasu, or vrock. If you choose hezrou, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form, you gain the demon and fiend traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
-
-You gain the following statistics and abilities regardless of the form that you choose:
+You transform into a Medium demon battle form. While in this form, you gain the demon and fiend traits. You have hands in this battle form and can use manipulate actions. You gain the following statistics and abilities regardless of the form that you choose:
 
 *   AC = 20 + your level. Ignore your armor check's penalty and Speed reduction.
 *   30 temporary Hit Points, weakness 5 to cold iron, and weakness 5 to holy.
@@ -31,8 +29,9 @@ You gain the following statistics and abilities regardless of the form that you 
 You also gain specific abilities based on the type of demon you choose:
 
 *   **Nabasu** Speed 25 feet, fly 40 feet;
+    
     *   **Melee** `pf2:1` jaws, **Damage** 2d10+10 piercing plus 1d6 spirit;
-    *   **Melee** `pf2:1` claw (agile), **Damage** 2d6 slashing plus 1d6 spirit.
+    *   **Melee** `pf2:1` claw (agile), **Damage** 2d6+10 slashing plus 1d6 spirit.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

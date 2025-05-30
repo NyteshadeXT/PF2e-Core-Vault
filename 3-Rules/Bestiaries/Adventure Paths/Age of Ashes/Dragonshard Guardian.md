@@ -48,28 +48,31 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 42 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 42 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +41 (magical, reach 15 feet)\n__Damage__  6d10 + 8 piercing 2d10 bleed"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+41 (magical, reach 15 feet, unarmed)\n__Damage__  6d10 + 8 piercing 2d10 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +41 (agile, magical, reach 10 feet)\n__Damage__  9d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+41 (agile, magical, reach 10 feet, unarmed)\n__Damage__  9d6 + 8 slashing"
 
   - name: "Innate Arcane Spells"
     desc: "DC 44, attack +36\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,fire) The construct breathes in one of two ways, then can't use Breath Weapon again for 1d4 rounds.\n\n- Flame (arcane, evocation, fire) A blast of flame deals 15d10 fire damage to all creatures in a @Template[cone|distance:60] (DC 45 Reflex check save). This fire damage does not harm objects or constructs.\n\n- Weakening Gas (arcane, necromancy) A cloud of gold-flecked gas forces each creature in a @Template[cone|distance:60] to attempt a DC 45 Fortitude check save; the effect lasts 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Enfeebled|Enfeebled 2]].\n\n**Failure** The creature is [[Conditions/Enfeebled|Enfeebled 5]].\n\n**Critical Failure** The creature is [[Conditions/Enfeebled|Enfeebled 8]]."
+    desc: "`pf2:2` (arcane,fire) The construct breathes in one of two ways, then can't use Breath Weapon again for 1d4 rounds.\n\n- Flame (arcane, evocation, fire) A blast of flame deals 15d10 fire damage to all creatures in a 60-foot cone (DC 45 Reflex check save). This fire damage does not harm objects or constructs.\n\n- Weakening Gas (arcane, necromancy) A cloud of gold-flecked gas forces each creature in a 60-foot cone to attempt a DC 45 Fortitude check save; the effect lasts 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Enfeebled|Enfeebled 2]].\n\n**Failure** The creature is [[Conditions/Enfeebled|Enfeebled 5]].\n\n**Critical Failure** The creature is [[Conditions/Enfeebled|Enfeebled 8]]."
 
   - name: "Reverberating Revenge"
-    desc: "`pf2:r` (arcane,fire) **Trigger** The dragonshard guardian takes cold, fire, electricity, or sonic damage from a non-dragonshard guardian source\n* * *\n\n**Effect** The dragonshard guardian's body absorbs the energy entirely, preventing the damage from harming the construct. Its body reverberates and transforms the absorbed energy before projecting it outward in a @Template[burst|distance:60].\n\nEach creature within the burst takes an amount of fire damage equal to the amount of energy damage absorbed by the triggering attack, including any damage resisted by the guardian's resistances and additional damage from its weakness (DC 45 Reflex check save).\n\nThis fire damage doesn't harm objects or constructs."
+    desc: "`pf2:r` (arcane,fire) **Trigger** The dragonshard guardian takes cold, fire, electricity, or sonic damage from a non-dragonshard guardian source\n* * *\n\n**Effect** The dragonshard guardian's body absorbs the energy entirely, preventing the damage from harming the construct. Its body reverberates and transforms the absorbed energy before projecting it outward in a 60-foot burst.\n\nEach creature within the burst takes an amount of fire damage equal to the amount of energy damage absorbed by the triggering attack, including any damage resisted by the guardian's resistances and additional damage from its weakness (DC 45 Reflex check save).\n\nThis fire damage doesn't harm objects or constructs."
  
 ```
 
@@ -81,4 +84,4 @@ creatures:
 
 
 
-Created by Mengkare and powered by a shard of the _[[Orb of Dragonkind|Orb of Gold Dragonkind]]_, this construct is made of sculpted crystal draped in a beautiful gold filigree frame.
+Created by Mengkare and powered by a shard of the _[[Equipment/Orb of Dragonkind|Orb of Gold Dragonkind]]_, this construct is made of sculpted crystal draped in a beautiful gold filigree frame.

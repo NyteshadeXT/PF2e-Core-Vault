@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +11 ()\n__Damage__  1d6 + 5 bludgeoning plus rust,tetanus"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+11 (unarmed)\n__Damage__  1d6 + 5 bludgeoning plus rust,tetanus"
 
   - name: "Rust"
     desc: "  When a rust ooze critically succeeds at a pseudopod Strike, it deals 2d6 acid damage to a metal item the target is wearing or holding, ignoring the item's Hardness. If a creature uses the Shield Block reaction with a metal shield against a rust ooze's pseudopod attack, the shield is automatically broken, but no other item is rusted."

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Leopard's Armor|Leopard's Armor]]
+Granted by [[Equipment/Leopard's Armor|Leopard's Armor]]
+
+You gain a +2 item bonus to Stealth checks and Intimidation checks to Demoralize, but take a -2 penalty to Diplomacy and Society checks.
 
 *Source: Pathfinder #170: Spoken on the Song Wind*
 *OGL*

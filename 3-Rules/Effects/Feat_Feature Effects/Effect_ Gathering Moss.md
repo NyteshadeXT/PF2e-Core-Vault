@@ -20,5 +20,5 @@ Granted by [[Feats/Gathering Moss|Gathering Moss]]
 
 You gain fast healing equal to your level.
 
-*Source: Pathfinder Lost Omens: Highhelm*
+*Source: Pathfinder Lost Omens Highhelm*
 *OGL*

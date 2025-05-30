@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You gain a +1 item bonus to Diplomacy checks to [[Actions/Make an Impression|Make an Impression]] and Perception checks to [[Actions/Sense Motive|Sense Motive]].
+Granted by [[Equipment/Diplomat's Charcuterie|Diplomat's Charcuterie]]
+
+You gain a +1 item bonus to Diplomacy checks to Make an Impression and Perception checks to Sense Motive.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

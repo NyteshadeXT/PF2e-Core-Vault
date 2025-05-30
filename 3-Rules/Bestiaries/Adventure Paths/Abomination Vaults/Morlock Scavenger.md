@@ -55,19 +55,22 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Dagger|Dagger]]"
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +9 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+9 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 (agile)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (agile, unarmed)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Scuttling Attack"
     desc: "`pf2:2`  The morlock scavenger Strides twice, ignoring difficult terrain caused by natural cavern features like rubble or stalagmites. At any point during its movement, the morlock can make a melee Strike against an enemy in its reach."

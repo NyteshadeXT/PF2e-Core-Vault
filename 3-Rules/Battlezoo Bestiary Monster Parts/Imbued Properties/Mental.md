@@ -26,16 +26,16 @@ Mental
 
 **Path** Magic; Choose when you first imbue the weapon for the granted spells to be either arcane or occult
 
-*   **2nd** The weapon can cast _Daze_ as a cantrip, heightened to half the item's level rounded up
-*   **4th** The weapon can cast _Phantom Pain_ once per day
-*   **6th** The weapon's _phantom pain_ is heightened to 2nd-level, and the weapon can cast either _phantom pain_ or _Warrior's Regret_ once per day not both
+*   **2nd** The weapon can cast _[[undefined]]_ as a cantrip, heightened to half the item's level rounded up
+*   **4th** The weapon can cast _[[undefined]]_ once per day
+*   **6th** The weapon's _phantom pain_ is heightened to 2nd-level, and the weapon can cast either _phantom pain_ or _[[undefined]]_ once per day not both
 *   **8th** The weapon's _phantom pain_ and _warrior's regret_ each heightens to 3rd level and it can cast both _phantom pain_ and _warrior's regret_ once day
 *   **10th** Strikes with the weapon deal 1 additional mental damage
-*   **12th** The weapon's _phantom pain_ and _warrior's regret_ heighten to 4th level, and the weapon can cast _Phantasmal Killer_ once per day
+*   **12th** The weapon's _phantom pain_ and _warrior's regret_ heighten to 4th level, and the weapon can cast _[[undefined]]_ once per day
 *   **14th** The additional mental damage increases to 1d4
-*   **16th** The weapon's _phantom pain_ and _phantasmal killer_ heighten to 6th level, and the weapon can cast _Phantasmal Calamity_ once per day, but it can no longer cast _warrior's regret_
+*   **16th** The weapon's _phantom pain_ and _phantasmal killer_ heighten to 6th level, and the weapon can cast _[[undefined]]_ once per day, but it can no longer cast _warrior's regret_
 *   **18th** The additional mental damage increases to 1d6
-*   **20th** The weapon can cast _Weird_ once per day
+*   **20th** The weapon can cast _[[undefined]]_ once per day
 
 * * *
 
@@ -44,9 +44,9 @@ Mental
 *   **4th** Strikes with the weapon deal 1 additional mental damage;
 *   **6th** The additional mental damage increases to 1d4
 *   **8th** The additional mental damage increases to 1d6
-*   **10th** On a critical hit, the target is Stupefied 1 for 1 round
+*   **10th** On a critical hit, the target is [[undefined]] for 1 round
 *   **12th** The mental damage dealt by this imbued property ignores resistances
-*   **16th** On a critical hit, the target is Stupefied 2 for 1 round
+*   **16th** On a critical hit, the target is [[undefined]] for 1 round
 *   **18th** The additional mental damage increases to 1d8
 *   **20th** On a successful Strike with the weapon, before applying mental damage, the target gains weakness 1 to mental until the beginning of your next turn
 

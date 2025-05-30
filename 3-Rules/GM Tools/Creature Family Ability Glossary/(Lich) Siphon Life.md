@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Lich) Siphon Life"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.b3p8x6sgTa0BOvAb"

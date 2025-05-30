@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 (agile)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (agile, unarmed)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Disorienting Dance"
     desc: "`pf2:1` (mental,visual) The baby brine shark spins quickly in place, disorienting observers. All creatures within 15 feet must attempt at DC 17 Will check save, with the following effects. The baby brine shark can't use disorienting dance again for 1d4 rounds.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Off-Guard|Off-Guard]] for 1 round.\n\n**Critical Failure** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round."

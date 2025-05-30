@@ -48,6 +48,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Smoke Susceptibility"
     desc: "  A giant bee is [[Conditions/Slowed|Slowed 1]] for 1 round if it starts its turn in heavy smoke."
 
@@ -56,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +11 (deadly d8)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+11 (deadly d8)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +11 (agile)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+11 (agile)\n__Damage__  1d6 + 4 piercing"
  
 ```
 

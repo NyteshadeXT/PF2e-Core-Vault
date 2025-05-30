@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 title: "Feint"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/attack
   - trait/infantry
   - trait/skirmisher
-  - trait/common
+  - trait/
   - category/army-war-action
 aliases: "Compendium.pf2e.kingmaker-features.Item.Hi4LKGOKe6yMDOH5"
 license: OGL
 ---
 # Feint `pf2:1`
-
+## 
 ### [[attack]][[infantry]][[skirmisher]]
 
 **Category** army-war-action; 

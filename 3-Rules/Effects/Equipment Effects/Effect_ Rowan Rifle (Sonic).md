@@ -16,7 +16,9 @@ license: OGL
 
 
 
-The _Rowan Rifle_'s damage type changes from its current damage type to sonic. On the next sunrise, the _Rowan Rifle_ returns to dealing fire damage.
+Granted by [[Equipment/Rowan Rifle|Rowan Rifle]]
+
+The _Rowan Rifle's_ damage type changes from its current damage type to sonic.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

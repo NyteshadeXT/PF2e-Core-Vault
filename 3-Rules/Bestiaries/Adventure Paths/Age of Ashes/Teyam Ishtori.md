@@ -56,6 +56,9 @@ abilities_top:
   - name: "Torpor"
     desc: "  Typically, a demilich is inert when encountered and doesn't take actions until its [[Spells/Contingency|Contingency]] reaction has been triggered."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Contingency"
@@ -67,11 +70,14 @@ abilities_mid:
   - name: "Telekinetic Whirlwind"
     desc: " (arcane,aura) 20 feet. Telekinetic whirlwind activates when Teyam ends torpor. Loose debris in the area whip up into a whirling storm. This obscures vision, making any creature in the area concealed, and causes creatures in its area (except Teyam) to treat all creatures as concealed. Any creature other than Teyam that enters or begins its turn in the aura takes 2d12 bludgeoning damage."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +36 (finesse, magical, reach 0 feet)\n__Damage__  1d4 + 3 piercing 8d6 void"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+36 (finesse, magical, reach 0 feet, unarmed)\n__Damage__  1d4 + 3 piercing 8d6 void"
 
   - name: "Arcane Innate Spells"
     desc: "DC 43, attack +37; __10th __  _[[Spells/Wails of the Damned|Wail of the Banshee]]_; __8th __  _[[Spells/Spell Turning|Spell Turning (At Will)]]_; __4th __  _[[Spells/Flicker|Blink (At Will)]]_, _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver (At Will)]]_\n__Cantrips__  __(10th)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"

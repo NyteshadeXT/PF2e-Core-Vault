@@ -37,7 +37,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Intimidation: +15, Athletics: +17, Intimidation: +15"
+    desc: "Athletics: +17, Intimidation: +15"
 abilityMods: [6, 2, 4, -3, 2, 4]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +18 ()\n__Damage__  2d10 + 10 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+18 ()\n__Damage__  2d10 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 (agile)\n__Damage__  2d6 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (agile)\n__Damage__  2d6 + 10 bludgeoning"
 
   - name: "Bellowing Curse"
     desc: "`pf2:2` (auditory,curse,occult,void) The boe erchitu bellows towards a living creature, weakening and disorienting it with a partial transformation into a boe erchitu. The creature must attempt a DC 25 Will check save, with the following effects.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is briefly cursed, and its features shift slightly into a boe erchitu, including the growth of tiny horns. They are [[undefined]], [[undefined]], and [[undefined]] for 1 round.\n\n**Failure** As success, but the duration is 1 hour.\n\n**Critical Failure** As success, but the duration is 1 month."

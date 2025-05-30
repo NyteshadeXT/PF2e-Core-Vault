@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +24 (magical, unholy)\n__Damage__  3d10 + 13 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+24 (magical, reach 10 feet, unarmed, unholy)\n__Damage__  3d10 + 13 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +24 (agile, fire, magical, unholy)\n__Damage__  2d8 + 10 bludgeoning 2d6 fire"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+24 (agile, fire, magical, unholy)\n__Damage__  2d8 + 10 bludgeoning 2d6 fire"
 
   - name: "Divine Innate Spells"
     desc: "DC 30, attack +22; __7th __  _[[Spells/Interplanar Teleport|Interplanar Teleport (Self and Rider Only)]]_"
@@ -75,7 +75,7 @@ attacks:
     desc: "`pf2:2` (divine,fire,unholy) The nightmare Strides or Flies up to triple its Speed. Its hooves burst with intense flame, dealing 6d6 fire damage with a DC 30 Reflex check save to each creature other than the nightmare's rider that the nightmare moves adjacent to during its gallop. Each creature can be affected only once during a single use of Flaming Gallop."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, hoof, DC 30 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Large or smaller, hoof, DC 30 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

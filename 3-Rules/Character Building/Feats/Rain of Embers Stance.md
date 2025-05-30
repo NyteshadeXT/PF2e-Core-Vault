@@ -13,7 +13,7 @@ license: OGL
 ---
 # Rain of Embers Stance `pf2:1`
 ## Feat 1
-### [rare](rare.md "Rare Rarity Trait")[[3-Rules/trait_reference/F/fire]][[monk]][[stance]]
+### [rare](rare "Rare Rarity Trait")[[fire]][[monk]][[stance]]
 
 **Category** class; 
 
@@ -28,5 +28,5 @@ You enter the stance of an enraged phoenix, holding your fingers as rigid as dea
 
 While in Rain of Embers Stance, you gain a +1 status bonus to AC and fire resistance equal to half your level (minimum 1).
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

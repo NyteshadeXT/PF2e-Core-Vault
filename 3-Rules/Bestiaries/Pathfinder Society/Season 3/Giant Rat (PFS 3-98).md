@@ -53,8 +53,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 (agile, finesse)\n__Damage__  1d6 + 1 piercing plus filth-fever"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (agile, finesse, unarmed)\n__Damage__  1d6 + 1 piercing plus filth-fever"
 
   - name: "Filth Fever"
     desc: " (disease) The [[Conditions/Sickened|Sickened]] and [[Conditions/Unconscious|Unconscious]] conditions from filth fever don't improve on their own until the disease is cured.\n\n**Saving Throw** DC 14 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1d4 hours)\n\n**Stage 2** [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** Sickened 1 and [[Conditions/Slowed|Slowed 1]] (1 day)\n\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day)\n\n**Stage 5** dead"

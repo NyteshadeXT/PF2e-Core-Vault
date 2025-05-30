@@ -33,7 +33,7 @@ perception:
 abilities_top:
   - name: ""
   - name: "Space"
-    desc: "65 feet long, 65 feet wide, 130 feet high"
+    desc: "50 feet long, 50 feet wide, 50 feet high"
   - name: "Crew"
     desc: "1 pilot, 200 turners, 3000 pushers; **Passengers** 306"
   - name: "Piloting Check"

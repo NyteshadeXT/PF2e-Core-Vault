@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Extending Sawtooth Saber +28 (agile, finesse, magical, twin)\n__Damage__  3d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Extending Sawtooth Saber"
+    desc: "+28 (agile, finesse, magical, twin)\n__Damage__  3d6 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wounding Sawtooth Saber +28 (agile, finesse, magical, twin)\n__Damage__  2d6 + 12 slashing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Wounding Sawtooth Saber"
+    desc: "+28 (agile, finesse, magical, twin)\n__Damage__  2d6 + 12 slashing 1d6 bleed"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shuriken +26 (agile, monk, reload 0, thrown 20 ft.)\n__Damage__  1d4 + 10 piercing plus blightburn-resin"
+  - name: "**Ranged** `pf2:1` Shuriken"
+    desc: "+26 (agile, monk, reload 0, thrown 20 ft.)\n__Damage__  1d4 + 10 piercing plus blightburn-resin"
 
   - name: "Divine Prepared Spells"
     desc: "DC 33, attack +25; __4th __  _[[Spells/Translocate|Translocate]]_; __3rd __  _[[Spells/Paralyze|Paralyze]]_; __2nd __  _[[Spells/Mist|Mist]]_; __1st __  _[[Spells/Sure Strike|Sure Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Figment|Figment]]_, _[[Spells/Sigil|Sigil]]_"
@@ -79,7 +79,7 @@ attacks:
     desc: " (alchemical,contact,poison) **Saving Throw** DC 30 Fortitude check\n\n**Onset** 1 minute\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 6d6 poison damage (1 round)\n\n**Stage 2** 7d6 poison damage (1 round)\n\n**Stage 3** 9d6 poison damage (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) You transform into a specific alternate form determined by your heritage. If your heritage doesn't list a form, your alternate form is a tailless form, which is a common Medium humanoid ancestry prevalent where you grew up (typically human). This form is the same age and body type as your true form and has roughly analogous physical traits, such as hair color. Using Change Shape counts as creating a disguise for the Impersonate use of Deception. You lose any unarmed Strikes you gained from a kitsune heritage or ancestry feat in this form. You can remain in your alternate form indefinitely, and you can shift back to your true kitsune form by using this action again."
+    desc: "`pf2:1` (concentrate,divine,polymorph) You transform into a specific alternate form determined by your heritage. If your heritage doesn't list a form, your alternate form is a tailless form, which is a common Medium humanoid ancestry prevalent where you grew up (typically human). This form is the same age and body type as your true form and has roughly analogous physical traits, such as hair color. Using Change Shape counts as creating a disguise for the Impersonate use of Deception. You lose any unarmed Strikes you gained from a kitsune heritage or ancestry feat in this form. You can remain in your alternate form indefinitely, and you can shift back to your true kitsune form by using this action again.\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Crimson Shroud"
     desc: "`pf2:1` (healing,magical) **Frequency** five times per day\n* * *\n\n**Effect** Talaro shrouds himself in a veil of red mist for 1 minute. While the shroud is active, he gains fast healing 7. He can Interact with his shroud, swirling it around himself to gain a +1 circumstance bonus to AC until the beginning of his next turn. If he dies while the shroud is active, his entire body vanishes into red mist, leaving behind only his gear."

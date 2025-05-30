@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +2 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+2 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +5 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+5 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
 
   - name: "Prepared Arcane Spells"
     desc: "DC 15, attack +7; __1st __  _[[Spells/Grease|Grease]]_\n__Cantrips__  __(1st)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

@@ -70,14 +70,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +10 (agile, finesse, versatile s)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+10 (agile, finesse, versatile s)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +10 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+10 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Lesser Alchemist&#x27;s Fire +10 (alchemical, bomb, range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
+  - name: "**Ranged** `pf2:1` Lesser Alchemist&#x27;s Fire"
+    desc: "+10 (alchemical, bomb, range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Wendlyn deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

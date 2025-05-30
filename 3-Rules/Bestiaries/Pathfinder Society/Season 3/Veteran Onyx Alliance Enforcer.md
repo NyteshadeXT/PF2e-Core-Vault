@@ -58,16 +58,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Shadowy Ambush"
-    desc: "  When the Onyx Alliance enforcer rolls initiative using Deception or Stealth, they can attempt to [[Actions/Demoralize|Demoralize]] one creature as a free action."
+    desc: "  When the Onyx Alliance enforcer rolls initiative using Deception or Stealth, they can attempt to [[Actions/demoralize|demoralize]] one creature as a free action."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +12 (agile, sweep)\n__Damage__  1d6 + 9 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+12 (agile, sweep)\n__Damage__  1d6 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +10 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 9 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+10 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 9 slashing"
 
   - name: "Dread Striker"
     desc: "  [[Conditions/Frightened|Frightened]] creatures are [[Conditions/Off-Guard|Off-Guard]] to the Onyx Alliance enforcer."

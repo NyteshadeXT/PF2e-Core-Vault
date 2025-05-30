@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +29 (agile, finesse, reach 10 feet)\n__Damage__  3d8 + 14 slashing plus drain-potential"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+29 (agile, finesse, reach 10 feet, unarmed)\n__Damage__  3d8 + 14 slashing plus drain-potential"
 
   - name: "Drain Potential"
     desc: " (misfortune,void) The morrowkin tries to drain the motivation from its target, who must attempt a DC 31 Fortitude check save. If the target fails, it is [[Conditions/Doomed|Doomed 1]] ([[Conditions/Doomed|Doomed 2]] on a critical failure) and must roll twice and use the worse result on all checks for 1 minute. Creatures wearing a hope talisman are unaffected."
 
   - name: "Swallow Future"
-    desc: "`pf2:2` (mental,void) The morrowkin inhales and draws forth the future deeds of all creatures around it. All creatures within a @Template[emanation|distance:30] of the morrowkin take 6d8+18 mental damage and must attempt a DC 34 Will check save. The morrowkin can't Swallow Future again for 1 minute.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage and is [[Conditions/Doomed|Doomed 1]].\n\n**Failure** The creature takes full damage and is [[Conditions/Doomed|Doomed 2]].\n\n**Critical Failure** The creature takes double damage and becomes [[Conditions/Doomed|Doomed 4]] (likely causing it to die immediately)."
+    desc: "`pf2:2` (mental,void) The morrowkin inhales and draws forth the future deeds of all creatures around it. All creatures within a 30-foot emanation of the morrowkin take 6d8+18 mental damage and must attempt a DC 34 Will check save. The morrowkin can't Swallow Future again for 1 minute.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage and is [[Conditions/Doomed|Doomed 1]].\n\n**Failure** The creature takes full damage and is [[Conditions/Doomed|Doomed 2]].\n\n**Critical Failure** The creature takes double damage and becomes [[Conditions/Doomed|Doomed 4]] (likely causing it to die immediately)."
 
   - name: "Tomorrow's Fury"
     desc: "`pf2:2`  The morrowkin makes claw attacks against any number of targets within reach. The claw attacks count against the morrowkin's multiple attack penalty, but don't apply the penalty until after all attacks have been made."

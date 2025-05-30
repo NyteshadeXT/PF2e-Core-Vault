@@ -18,15 +18,7 @@ license: OGL
 
 Granted by [[Feats/Paragon's Guard|Paragon's Guard]].
 
-* * *
-
-**Requirements** You are wielding a shield
-
-* * *
-
-Once you've had a moment to set your stance, you always have your shield ready without a thought.
-
-While you are in this stance, you constantly have your shield raised as if you'd used the [[Actions/Raise a Shield|Raise a Shield]] action, as long as you meet that action's requirements.
+You constantly have your shield raised as if you'd used the [[Actions/Raise a Shield|Raise a Shield]] action, as long as you meet that action's requirements.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

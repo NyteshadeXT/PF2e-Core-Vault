@@ -53,7 +53,7 @@ attacks:
   - name: ""
 
   - name: "Pollinate"
-    desc: "`pf2:r` (mental, poison, primal) **Trigger** The door is touched, or the lock is opened\n* * *\n\n**Effect** The flowers spray poisonous pollen in a @Template[cone|distance:30]. A creature in the area must attempt a DC 24 Fortitude check save, with the following effect.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d10+11 poison damage and becomes [[Conditions/Enfeebled|Enfeebled 2]].\n\n**Failure** The creature takes 3d10+16 poison damage and 1d10 persistent poison damage, becomes enfeebled 2, and takes a –2 status penalty to Perception checks for 1d4 hours.\n\n**Critical Failure** The creature takes 4d10+22 poison damage and 1d10 persistent poison damage, becomes [[Conditions/Enfeebled|Enfeebled 4]], and takes a –2 status penalty to Perception checks and saves against poison for 24 hours."
+    desc: "`pf2:r` (mental, poison, primal) **Trigger** The door is touched, or the lock is opened\n* * *\n\n**Effect** The flowers spray poisonous pollen in a 30-foot cone. A creature in the area must attempt a DC 24 Fortitude check save, with the following effect.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d10+11 poison damage and becomes [[Conditions/Enfeebled|Enfeebled 2]].\n\n**Failure** The creature takes 3d10+16 poison damage and 1d10 persistent poison damage, becomes enfeebled 2, and takes a –2 status penalty to Perception checks for 1d4 hours.\n\n**Critical Failure** The creature takes 4d10+22 poison damage and 1d10 persistent poison damage, becomes [[Conditions/Enfeebled|Enfeebled 4]], and takes a –2 status penalty to Perception checks and saves against poison for 24 hours."
 
 
   - name: "Reset"

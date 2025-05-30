@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +18 (agile, finesse, magical, versatile s)\n__Damage__  1d6 + 3 piercing plus hunting-spider-venom"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+18 (agile, finesse, magical, versatile s)\n__Damage__  1d6 + 3 piercing plus hunting-spider-venom"
 
   - name: "Primal Innate Spells"
     desc: "DC 20, attack +12; __4th __  _[[Spells/Shatter|Shatter]]_; __2nd __  _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"

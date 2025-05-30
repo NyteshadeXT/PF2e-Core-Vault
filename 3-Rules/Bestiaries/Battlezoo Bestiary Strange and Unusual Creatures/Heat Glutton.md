@@ -37,7 +37,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19, Athletics: +22, Intimidation: +19, Stealth: +19, Survival: +19, Acrobatics: +19, Athletics: +22, Intimidation: +19, Stealth: +19, Survival: +19"
+    desc: "Acrobatics: +19, Athletics: +22, Intimidation: +19, Stealth: +19, Survival: +19"
 abilityMods: [0, 0, 0, 0, 0, 0]
 speed: 35 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +23 (reach 10 feet)\n__Damage__  2d12 + 13 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+23 (reach 10 feet)\n__Damage__  2d12 + 13 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile)\n__Damage__  2d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile)\n__Damage__  2d8 + 13 slashing"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

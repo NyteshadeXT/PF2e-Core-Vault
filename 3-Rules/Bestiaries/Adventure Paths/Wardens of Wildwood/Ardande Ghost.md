@@ -64,11 +64,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) When a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +23 (agile, finesse, magical)\n__Damage__  2d10 + 13 void plus phantom-blight"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+23 (agile, finesse, magical)\n__Damage__  2d10 + 13 void plus phantom-blight"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Corrupting Gaze|Corrupting Gaze]]"
     desc: "`pf2:2`  The ghost stares at a creature it can see within 30 feet. The target takes 6d6 void damage with a DC 30 Will check save.\n\nA creature that fails its save is also [[Conditions/Stupefied|Stupefied 1]] for 1 minute."

@@ -66,13 +66,13 @@ Use this area to track the party's travel and rest activities during the session
 Use this space to record all loot, rewards, and purchases obtained by the party during the session. Document any valuable items, treasures, or magical artifacts they acquire. Note down rewards for completing quests or overcoming challenges. Additionally, keep track of any purchases the party makes, detailing items, costs, and relevant information. This section serves as a consolidated record of the party's wealth and acquisitions, aiding in resource management and future gameplay decisions.
 
 ### Loot, Rewards & Purchases
-#### **Session XP:** `=this.session_coin.gp`
+#### **Session XP:** `VIEW[{session_xp}]`
 
 #### Coin
-- pp: `=this.session_coin.pp`
-- gp: `=this.session_coin.gp`
-- sp: `=this.session_coin.sp`
-- cp: `=this.session_coin.cp`
+- pp: `VIEW[{session_coin.pp}]`
+- gp: `VIEW[{session_coin.gp}]`
+- sp: `VIEW[{session_coin.sp}]`
+- cp: `VIEW[{session_coin.cp}]`
 <br>
 
 #### Permanent Items

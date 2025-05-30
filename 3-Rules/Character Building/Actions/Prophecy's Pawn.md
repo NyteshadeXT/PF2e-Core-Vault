@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/divine
   - trait/fortune
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.vdnuczo4ktS7ow7N"
 license: OGL
 ---
 # Prophecy's Pawn `pf2:0`
 
-### [[3-Rules/Rule References/Divine]][[fortune]]
+### [[divine]][[fortune]]
 
 **Category** interaction; 
 

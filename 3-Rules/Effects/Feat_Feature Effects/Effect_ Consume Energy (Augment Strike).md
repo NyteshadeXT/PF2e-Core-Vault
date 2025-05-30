@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Feats/Consume Energy|Consume Energy]]
+
 Strikes with the chosen weapon or unarmed attack deal an additional 1d6 damage of a type matching the energy you consumed.
 
 *Source: Pathfinder Dark Archive*

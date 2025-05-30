@@ -28,7 +28,7 @@ license: ORC
 
 * * *
 
-You diagnose your patient, then prepare and administer a dose of elemental medicine to a creature. [[Healer's Toolkit|Healer's tools]] contain basic ingredients for crafting elemental medicine, though you might also need to gather more potent ingredients from your environment. The medicine's effects last 24 hours, and no character can benefit from more than one elemental medicine at a time. Attempt a Crafting check, Herbalism Lore check, or Medicine check check against a standard DC of the recipient's level (in the case of especially wellknown or obscure afflictions, the GM should apply an adjustment to lower or increase the DC, respectively). As the minute qualities of the patient's condition can change on a day-to-day basis, you must attempt a new check to prepare elemental medicine each day you treat a patient, even if the affliction you're treating doesn't change. You can diagnose and treat up to 6 creatures during your daily preparations, making a separate check for each patient.
+You diagnose your patient, then prepare and administer a dose of elemental medicine to a creature. [[Equipment/Healer's Toolkit|Healer's tools]] contain basic ingredients for crafting elemental medicine, though you might also need to gather more potent ingredients from your environment. The medicine's effects last 24 hours, and no character can benefit from more than one elemental medicine at a time. Attempt a Crafting check, Herbalism Lore check, or Medicine check check against a standard DC of the recipient's level (in the case of especially wellknown or obscure afflictions, the GM should apply an adjustment to lower or increase the DC, respectively). As the minute qualities of the patient's condition can change on a day-to-day basis, you must attempt a new check to prepare elemental medicine each day you treat a patient, even if the affliction you're treating doesn't change. You can diagnose and treat up to 6 creatures during your daily preparations, making a separate check for each patient.
 
 * * *
 
@@ -42,5 +42,5 @@ You diagnose your patient, then prepare and administer a dose of elemental medic
 
 [[Feat_Feature Effects/Effect_ Prepare Elemental Medicine|Effect: Prepare Elemental Medicine]]
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

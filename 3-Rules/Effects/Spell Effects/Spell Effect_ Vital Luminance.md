@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Spells/Vital Luminance|Vital Luminance]]
+
 You glow with bright light in a 30-foot emanation (and dim light to the next 30 feet).
 
 If an undead creature damages you with an attack or spell while it's within the area of your light, that creature takes vitality damage equal to half your luminance reservoir value. It takes this damage only the first time it damages you in a round. (2 vitality)

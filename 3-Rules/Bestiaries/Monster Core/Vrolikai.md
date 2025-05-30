@@ -54,6 +54,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 Feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Death-Stealing Gaze"
@@ -62,20 +68,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +38 (magical, reach 10 feet, unholy)\n__Damage__  4d12 + 18 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+38 (magical, reach 10 feet, unarmed, unholy)\n__Damage__  4d12 + 18 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Black Flame Knife +40 (agile, magical, unholy)\n__Damage__  3d4 + 18 piercing 2d6 void"
+  - name: "**Melee** `pf2:1` Black Flame Knife"
+    desc: "+40 (agile, magical, unholy)\n__Damage__  3d4 + 18 piercing 2d6 void"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +38 (magical, reach 15 feet, unholy)\n__Damage__  4d8 + 18 piercing plus mindwarping"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+38 (magical, reach 15 feet, unholy)\n__Damage__  4d8 + 18 piercing plus mindwarping"
 
   - name: "Divine Innate Spells"
     desc: "DC 44, attack +36; __10th __  _[[Spells/Execute|Execute]]_, _[[Spells/Massacre|Massacre]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __7th __  _[[Spells/Regenerate|Regenerate]]_; __4th __  _[[Spells/Translocate|Translocate (At Will)]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|Truesight]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Demonic Pact]]_"
+    desc: "_Demonic Pact_"
 
   - name: "Black Flame Knives"
     desc: "`pf2:1` (divine,unholy) The vrolikai manifests a dagger-shaped blade of what looks like crystallized black flame in each of their four hands. These weapons function as _+2 greater striking daggers_ that deal an additional 2d6 void damage. They fade away into nothingness 1 minute after a vrolikai no longer carries them."

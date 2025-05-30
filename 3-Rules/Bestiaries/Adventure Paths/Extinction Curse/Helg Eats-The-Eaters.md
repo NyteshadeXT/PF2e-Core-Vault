@@ -59,16 +59,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +30 (reach 15 feet)\n__Damage__  3d12 + 13 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+30 (reach 15 feet, unarmed)\n__Damage__  3d12 + 13 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +30 (agile, reach 15 feet)\n__Damage__  3d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+30 (agile, reach 15 feet, unarmed)\n__Damage__  3d8 + 13 slashing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 36, attack +28; __8th __  _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Quandary|Maze]]_; __7th __  _[[Spells/Entrancing Eyes|Entrancing Eyes]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __  _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Purple Worm Sting|Purple Worm Sting]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __  _[[Spells/Blood Feast|Blood Feast]]_, _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Scouting Eye|Prying Eye]]_; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Containment|Resilient Sphere]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Rune Trap|Glyph of Warding]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/False Vitality|False Life]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(8th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_"
@@ -77,7 +77,7 @@ attacks:
     desc: "1 Focus Point, DC 36, attack +28; __8th __  _[[Spells/Call of the Grave|Call of the Grave]]_, _[[Spells/Life Siphon|Life Siphon]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead]]_, _[[Spells/Inveigle|Inveigle]]_, _[[Spells/Statuette|Statuette]]_"
+    desc: "_Create Undead_, _Inveigle_, _Statuette_"
 
   - name: "Enervating Tug"
     desc: "  **Frequency** once per turn\n\n**Requirements** Helg's most recent action was to cast a non-cantrip necromancy spell\n* * *\n\n**Effect** Helg drains away the life force from a creature targeted by the spell, with a result depending on its Fortitude save (DC 36 Fortitude check). This effect is magical and can be counteracted with [[Spells/Dispel Magic|Dispel Magic]] (Level 15, DC 36). This ability cannot affect a creature that critically succeeded at the spell's saving throw, if any.\n* * *\n\n**Critical Success** No effect.\n\n**Success** [[Conditions/Enfeebled|Enfeebled 1]] for 1 round.\n\n**Failure** [[Conditions/Fatigued|Fatigued]].\n\n**Critical Failure** Fatigued, and rest does not remove the creature's fatigued condition for 1 week."
@@ -86,7 +86,7 @@ attacks:
     desc: "`pf2:2`  Helg makes up to three claw Strikes, each against a different target. These attacks all count toward Helg's multiple attack penalty, but the penalty doesn't increase until after she makes all her attacks."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  **Strike**: claw\n\n* * *\n"
+    desc: "`pf2:1`  **Strike**: claw\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
  
 ```
 

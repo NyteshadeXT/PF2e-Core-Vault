@@ -58,25 +58,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Visperath +11 (sweep)\n__Damage__  1d8 + 4 slashing plus power-attack 1 acid plus power-attack"
+  - name: "**Melee** `pf2:1` Visperath"
+    desc: "+11 (sweep)\n__Damage__  1d8 + 4 slashing plus power-attack 1 acid plus power-attack"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +10 (agile, versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+10 (agile, versatile s)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Lunge"
     desc: "`pf2:1`  Eleukas makes a Strike with a melee weapon, increasing the reach of the Strike by 5 feet."
 
   - name: "[[Bestiary Ability Glossary/Power Attack|Power Attack]]"
-    desc: "`pf2:2`  "
+    desc: "`pf2:2`  **Frequency** once per round\n* * *\n\n**Effect** The monster makes a melee Strike. This counts as two attacks when calculating the monster's multiple attack penalty. If this Strike hits, the monster deals an extra die of weapon damage."
  
 ```
 

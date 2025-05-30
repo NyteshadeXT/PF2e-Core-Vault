@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Granted by [[Feats/Crimson Shroud|Crimson Shroud]].
+Granted by [[Feats/Crimson Shroud|Crimson Shroud]]
+
+You gain fast healing equal to half your level. You gain the [[Actions/Swirl Crimson Shroud|Swirl Crimson Shroud]] action.
 
 *Source: Pathfinder Adventure: Prey for Death*
 *ORC*

@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shadow Hand +18 (finesse, magical)\n__Damage__  2d10 + 6 void"
+  - name: "**Melee** `pf2:1` Shadow Hand"
+    desc: "+18 (finesse, magical)\n__Damage__  2d10 + 6 void"
 
   - name: "Divine Innate Spells"
     desc: "DC 25, attack +17; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_"
@@ -74,7 +74,7 @@ attacks:
     desc: "`pf2:2`  **Requirements** Siora can see the target she intends to mark\n* * *\n\n**Effect** Siora designates a single target as her mark. She gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] her target, and her spectral hand Strikes against her target gain the deadly d8 weapon trait."
 
   - name: "Shadow Spawn"
-    desc: "  When a creature's shadow is pulled free by Steal Shadow, it becomes a [[Bestiary 1/Shadow|Shadow Spawn]] under the command of the shadow that created it. This shadow spawn doesn't have Steal Shadow. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its [[Conditions/Enfeebled|Enfeeblement]], its shadow returns to it and the shadow spawn is extinguished."
+    desc: "  When a creature's shadow is pulled free by Steal Shadow, it becomes a [[Monster Core/Shadow Spawn|Shadow Spawn]] under the command of the shadow that created it. This shadow spawn doesn't have Steal Shadow. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its [[Conditions/Enfeebled|Enfeeblement]], its shadow returns to it and the shadow spawn is extinguished."
 
   - name: "Slink in Shadows"
     desc: "  The shadow can [[Actions/Hide|Hide]] or end its [[Actions/Sneak|Sneak]] in a creature's or object's shadow."

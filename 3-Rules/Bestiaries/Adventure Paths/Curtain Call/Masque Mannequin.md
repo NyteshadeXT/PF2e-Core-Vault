@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +29 (agile)\n__Damage__  3d8 + 16 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+29 (agile, unarmed)\n__Damage__  3d8 + 16 bludgeoning plus improved-grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Spirit Blast|Spirit Blast (x3)]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_"
@@ -73,6 +73,9 @@ attacks:
 
   - name: "Refashion"
     desc: "`pf2:1` (incapacitation,occult) **Requirements** The masque mannequin is grappling a living creature\n* * *\n\n**Effect** The [[Conditions/Grabbed|Grabbed]] creature must attempt a DC 36 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round as its body grows more wooden.\n\n**Failure** The creature is petrified for the next 24 hours, but instead of turning to stone, it turns into a wooden mannequin. It can attempt a new save at the end of each of its turns.\n\n**Critical Failure** The creature turns into a wooden mannequin permanently."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

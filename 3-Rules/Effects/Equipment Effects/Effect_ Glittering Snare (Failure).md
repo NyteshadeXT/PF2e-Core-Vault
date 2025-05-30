@@ -16,7 +16,9 @@ license: OGL
 
 
 
-The creature takes a -2 status penalty to Stealth checks for 2 minutes or until it spends a 2-action activity, which has the manipulate trait, to remove the glitter. If the creature was [[Conditions/Invisible|Invisible]], the glitter outlines it for 1 round, making it [[Conditions/Concealed|Concealed]] rather than [[Conditions/Undetected|Undetected]] to visual senses.
+Granted by [[Equipment/Glittering Snare|Glittering Snare]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+You take a -2 status penalty to Stealth checks.
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

@@ -36,7 +36,7 @@ trait_05: [[unholy]]
 modifier: 33
 perception:
   - name: "Perception"
-    desc: "+33; Darkvision, Lifesense 1 Feet"
+    desc: "+33; Darkvision, Lifesense 1000 Feet"
 languages: "Common; telepathy 100 feet"
 skills:
   - name: "Skills"
@@ -56,6 +56,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 1,000 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Soul Bleed"
@@ -64,8 +70,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hand +38 (finesse, magical, reach, reach 15 feet)\n__Damage__  4d10 + 16 void plus life-sap"
+  - name: "**Melee** `pf2:1` Hand"
+    desc: "+38 (finesse, magical, reach, reach 15 feet)\n__Damage__  4d10 + 16 void plus life-sap"
 
   - name: "Flailing Touch"
     desc: "`pf2:2`  The gray death makes up to four hand Strikes, each against a different target it can reach. It increases its reach to 100 feet with these Strikes. These Strikes count as one attack for the gray death's multiple attack penalty, and the penalty doesn't increase until after the attacks."

@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +7 (agile, finesse, versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+7 (agile, finesse, versatile s)\n__Damage__  1d4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +7 (agile, range increment 10 feet, versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+7 (agile, range increment 10 feet, versatile s)\n__Damage__  1d4 piercing"
 
   - name: "Prepared Arcane Spells"
     desc: "DC 19, attack +9; __2nd __  _[[Spells/Invisibility|Invisibility]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Mystic Armor|Mage Armor]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(2nd)__ _[[Spells/Light|Light]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"

@@ -67,8 +67,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +19 (agile, finesse, unarmed)\n__Damage__  2d4 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+19 (agile, finesse, unarmed)\n__Damage__  2d4 + 3 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 23, attack +13; __2nd __ (2 slots) _[[Spells/Animal Messenger|Animal Messenger]]_"

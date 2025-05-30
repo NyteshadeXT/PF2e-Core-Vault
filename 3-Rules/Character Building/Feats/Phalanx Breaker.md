@@ -6,8 +6,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.BkEOwv3SRtefczpO"
-license: OGL
+license: ORC
 ---
 # Phalanx Breaker `pf2:2`
 ## Feat 6
@@ -26,4 +27,4 @@ license: OGL
 You know that to take out an enemy formation, you must punch a hole through its center. Make a ranged Strike with the required weapon against a target within the weapon's first range increment. The target is pushed directly back 10 feet (20 feet on a critical hit), and if this pushes the target into an obstacle, the target takes bludgeoning damage equal to half your level.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

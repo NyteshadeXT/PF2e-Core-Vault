@@ -58,10 +58,10 @@ attacks:
     desc: "`pf2:r` **Trigger** The vault is exposed\n* * *\n\n**Effect** The vault makes a poison dart spray Strike at a random creature within 30 feet. The trap then rolls initiative."
 
   - name: "Electrify"
-    desc: "action The metal vault crackles with electricity. In air, this would damage only creatures touching it; in water, the trap deals 2d8 electricity damage to all creatures in a @Template[emanation|distance:10] (DC 25 Fortitude check)."
+    desc: "action The metal vault crackles with electricity. In air, this would damage only creatures touching it; in water, the trap deals 2d8 electricity damage to all creatures in a 10-foot emanation (DC 25 Fortitude check)."
 
   - name: "Launch Darts"
-    desc: "action The vault fires a stream of poisoned darts. The trap attacks all creatures in a @Template[line|distance:30] with its poison dart spray Strike; roll 1d8 to determine the line's direction. These Strikes don't have a multiple attack penalty."
+    desc: "action The vault fires a stream of poisoned darts. The trap attacks all creatures in a 30-foot line with its poison dart spray Strike; roll 1d8 to determine the line's direction. These Strikes don't have a multiple attack penalty."
 
   - name: "Spin"
     desc: "action The vault spins quickly for 1 round. While it Spins, checks to disable the trap have a -2 circumstance penalty, and it Launches Darts at all creatures within 30 feet of it, rather than in a line."

@@ -51,16 +51,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 ()\n__Damage__  1d8 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (unarmed)\n__Damage__  1d8 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +11 (agile, finesse)\n__Damage__  1d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+11 (agile, finesse, unarmed)\n__Damage__  1d6 + 6 slashing"
 
   - name: "Unbalancing Blow"
     desc: "  Any creature a grick critically hits is [[Conditions/Off-Guard|Off-Guard]] against its attacks until the end of the grick's next turn."

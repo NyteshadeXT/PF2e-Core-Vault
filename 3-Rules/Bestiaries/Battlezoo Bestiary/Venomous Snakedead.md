@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +12 (reach 10 feet)\n__Damage__  1d8 + 6 piercing plus snakedead-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+12 (reach 10 feet)\n__Damage__  1d8 + 6 piercing plus snakedead-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 (agile)\n__Damage__  1d10 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (agile)\n__Damage__  1d10 + 6 bludgeoning"
 
   - name: "Snakedead Venom"
     desc: "  **Saving Throw** DC 17 Fortitude;\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** 1d6 poison (1 round);\n\n**Stage 2** 1d6 poison and [[Conditions/Drained|Drained 1]] (1 round)"

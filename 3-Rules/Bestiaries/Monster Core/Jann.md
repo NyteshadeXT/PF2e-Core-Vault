@@ -65,6 +65,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Composite Shortbow|Composite Shortbow]], [[Equipment/Scimitar|Scimitar]], 20x [[Equipment/Arrows|Arrows]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Commanding Presence"
@@ -76,14 +79,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +14 (forceful, sweep)\n__Damage__  1d6 + 7 slashing plus all-made-one"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+14 (forceful, sweep)\n__Damage__  1d6 + 7 slashing plus all-made-one"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 (agile, magical, nonlethal)\n__Damage__  1d4 + 7 bludgeoning plus all-made-one"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (agile, magical, nonlethal, unarmed)\n__Damage__  1d4 + 7 bludgeoning plus all-made-one"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +12 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 5 piercing plus all-made-one"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+12 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 5 piercing plus all-made-one"
 
   - name: "Arcane Innate Spells"
     desc: "DC 21, attack +13; __7th __  _[[Spells/Interplanar Teleport|Interplanar Teleport (to Astral Plane, Elemental Planes, or the Universe only)]]_; __4th __  _[[Spells/Read Omens|Read Omens]]_; __2nd __  _[[Spells/Invisibility|Invisibility (x2)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Know the Way|Know the Way]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
@@ -92,7 +95,7 @@ attacks:
     desc: "`pf2:1`  The jann calls upon all of the elements that make up their being to gain an additional arcane spell they can cast at will and empower their Strikes with the element, dealing an extra 1d4 damage of the listed type. These benefits last until the jann uses this ability again.\n\n*   Air [[Spells/Tailwind|Tailwind]], 1d4 electricity;\n*   Earth [[Spells/Pummeling Rubble|Pummeling Rubble]], 1d4 bludgeoning;\n*   Fire [[Spells/Breathe Fire|Breathe Fire]], 1d4 fire;\n*   Metal [[Spells/Thunderstrike|Thunderstrike]], 1d4 electricity;\n*   Water [[Spells/Hydraulic Push|Hydraulic Push]], 1d4 bludgeoning;\n*   Wood [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]], 1d4 piercing."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The jann transforms into any Small or Medium animal. This doesn't affect their statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The jann transforms into any Small or Medium animal. This doesn't affect their statistics, but it could change the damage type of their Strikes.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Wanderer's Wish"
     desc: "`pf2:3`  **Frequency** three times per year\n* * *\n\n**Effect** The jann instantly grants the benefits of a critical success with the [[Spells/Wish|Wish]] ritual to a mortal creature. This has no cost. That creature specifies what they wish for, but the interpretation is up to the jann. A jann typically attempts to grant wishes in a way that encourages growth and exploration.\n\nA summoned jann can't use this ability."

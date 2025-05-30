@@ -58,20 +58,23 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +15 (reach 10 feet)\n__Damage__  2d10 + 5 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+15 (reach 10 feet, unarmed)\n__Damage__  2d10 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +15 ()\n__Damage__  2d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+15 (unarmed)\n__Damage__  2d6 + 6 bludgeoning"
 
   - name: "Rhinoceros Charge"
     desc: "`pf2:2`  The rhino Strides twice, then makes a horn Strike. As long as the rhino moved at least 20 feet, the Strike's damage increases to 3d12+5 piercing. A Medium or smaller creature struck by this attack must succeed at a DC 22 Reflex check save or be automatically Shoved back 5 feet and knocked [[Conditions/Prone|Prone]] by the force of the blow."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, foot, DC 19 Reflex check"
+    desc: "`pf2:3`  Medium or smaller, foot, DC 19 Reflex check\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

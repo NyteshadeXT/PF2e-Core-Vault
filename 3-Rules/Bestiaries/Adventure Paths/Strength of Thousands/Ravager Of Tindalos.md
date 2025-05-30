@@ -52,6 +52,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Otherworldly Mind"
@@ -66,11 +72,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +34 (magical)\n__Damage__  3d10 + 14 piercing 2d6 mental"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+34 (magical, unarmed)\n__Damage__  3d10 + 14 piercing 2d6 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +34 (agile, magical)\n__Damage__  3d8 + 14 slashing 2d6 mental"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+34 (agile, magical, unarmed)\n__Damage__  3d8 + 14 slashing 2d6 mental"
 
   - name: "Innate Occult Spells"
     desc: "DC 40, attack +32; __8th __  _[[Spells/Planar Tether|Dimensional Anchor]]_, _[[Spells/Disappearance|Disappearance (Self Only)]]_, _[[Spells/Pinpoint|Discern Location]]_; __7th __  _[[Spells/Haste|Haste]]_; __6th __  _[[Spells/Slow|Slow]]_\n__Constant__  __(9th)__ _[[Spells/Truesight|True Seeing]]_"

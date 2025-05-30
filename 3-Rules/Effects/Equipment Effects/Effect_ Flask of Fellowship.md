@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Flask of Fellowship|Flask of Fellowship]]
+
 You gain a +1 item bonus on your Diplomacy check.
 
 *Source: Pathfinder Secrets of Magic*

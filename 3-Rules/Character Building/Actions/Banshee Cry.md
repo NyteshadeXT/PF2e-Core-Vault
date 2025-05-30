@@ -3,10 +3,11 @@ obsidianUIMode: preview
 title: "Banshee Cry"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.b3h3QqvwS5fnaiu1"
-license: OGL
+license: ORC
 ---
 # Banshee Cry `pf2:r`
 
@@ -17,11 +18,11 @@ license: OGL
 
 
 
-**Trigger** A creature within 30 feet Casts a Spell that has a verbal component or Activates an Item using a command Activation
+**Trigger** A creature within 30 feet Casts a Spell or Activates an Item using a concentrate Activation
 
 * * *
 
-**Effect** You set off a firework to explode with a loud screech near the creature. The creature must attempt a Will save.
+**Effect** You expend 1 fireworks display or 3 versatile vials to set off a firework that explodes with a loud screech near the creature. The creature must attempt a Will check save.
 
 * * *
 
@@ -32,4 +33,4 @@ license: OGL
 **Critical Failure** The triggering action is disrupted.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

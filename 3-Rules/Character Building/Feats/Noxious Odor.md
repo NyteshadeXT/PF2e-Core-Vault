@@ -13,7 +13,7 @@ license: ORC
 ---
 # Noxious Odor
 ## Feat 5
-### [[athamaru]][[3-Rules/trait_reference/P/poison]]
+### [[athamaru]][[poison]]
 
 **Category** ancestry; 
 

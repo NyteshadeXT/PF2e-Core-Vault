@@ -4,7 +4,7 @@ title: "(Vampire, Vrykolakas) Drink Blood"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/divine
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.98twzz56mMGN5Ftw"
 license: OGL

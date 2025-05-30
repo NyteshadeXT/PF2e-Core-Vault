@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Perfect Droplet|Perfect Droplet]]
+Granted by [[Equipment/Perfect Droplet|Perfect Droplet]], [[Equipment/Perfect Droplet (Greater)|Perfect Droplet (Greater)]], [[Equipment/Perfect Droplet (Major)|Perfect Droplet (Major)]]
 
-You gain resistance 2 to water effects and attacks by water creatures.
+You gain resistance to water effects and attacks by water creatures.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

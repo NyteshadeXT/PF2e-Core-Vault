@@ -20,5 +20,5 @@ You seem to be unaffected by storms.
 
 You ignore all effects and penalties caused by precipitation and winds, and you can see normally through fog, rain, and other weather conditions.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

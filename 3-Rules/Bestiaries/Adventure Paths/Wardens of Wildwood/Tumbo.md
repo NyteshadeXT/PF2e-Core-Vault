@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 (agile, finesse)\n__Damage__  1d4 + 5 electricity"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (agile, finesse, unarmed)\n__Damage__  1d4 + 5 electricity"
 
   - name: "Arc Lightning"
     desc: " (electricity,move,primal) The spark bat transforms into lightning that arcs to a large piece of metal within 100 feet, such as a suit of metal armor or a metal weapon. The bat then returns to its normal form in a space adjacent to the metal. This movement doesn't trigger reactions."

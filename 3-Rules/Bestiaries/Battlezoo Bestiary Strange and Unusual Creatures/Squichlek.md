@@ -37,7 +37,7 @@ perception:
 languages: "Aklo; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +7, Intimidation: +9, Stealth: +10, Acrobatics: +10, Athletics: +7, Intimidation: +9, Stealth: +10"
+    desc: "Acrobatics: +10, Athletics: +7, Intimidation: +9, Stealth: +10"
 abilityMods: [1, 4, 1, -1, 0, 1]
 speed: 10 feet,  fly 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +10 (finesse)\n__Damage__  1d12 + 5 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+10 (finesse)\n__Damage__  1d12 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +10 (agile, finesse)\n__Damage__  1d8 + 5 bludgeoning plus agonizing-enzyme"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+10 (agile, finesse)\n__Damage__  1d8 + 5 bludgeoning plus agonizing-enzyme"
 
   - name: "Disturbing Display"
     desc: "`pf2:1` (emotion,mental,occult,visual) The squichlek writhes its tentacles in a particularly disturbing manner, and creatures in a 10-foot emanation must attempt a DC 19 Will check save. Once a creature attempts this save, it is temporarily immune to further Disturbing Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[undefined]] until its next turn.\n\n**Failure** The creature is [[undefined]], and is off-guard for as long as it is sickened.\n\n**Critical Failure** The creature is [[undefined]] and is off-guard for as long as it is sickened."

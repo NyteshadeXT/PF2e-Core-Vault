@@ -55,19 +55,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +31 (agile, finesse, magical, nonlethal, reach 10 feet, unarmed)\n__Damage__  2d10 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+31 (agile, finesse, magical, nonlethal, reach 10 feet, unarmed)\n__Damage__  2d10 + 14 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Longrifle +34 (backstabber, concussive, fatal d12, kickback, range increment 120 feet, reload 1, volley 30 ft.)\n__Damage__  3d8 + 9 bludgeoning"
+  - name: "**Ranged** `pf2:1` Longrifle"
+    desc: "+34 (backstabber, concussive, fatal d12, kickback, range increment 120 feet, reload 1, volley 30 ft.)\n__Damage__  3d8 + 9 bludgeoning"
 
   - name: "Sniper's Devastation"
     desc: "`pf2:3`  The shobhad sniper makes a fist Strike against a Medium or smaller creature. If this attack is successful, the shobhad sniper deals no damage, but they immediately [[Bestiary Ability Glossary/Grab|Grab]] and throw their target up to 30 feet in a direction of their choice and then make a ranged Strike with their longrifle against the target, after which the target falls [[Conditions/Prone|Prone]] in the designated location.\n\nAs normal, the creature doesn't take any additional falling damage from the throw."

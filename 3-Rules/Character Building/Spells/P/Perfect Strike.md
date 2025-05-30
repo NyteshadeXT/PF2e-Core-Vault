@@ -30,5 +30,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "**Trigger** You miss a Strike with an unarmed attack.\n* * *\n\nYou call upon insight from your training to recover accuracy. Reroll the missed attack roll and keep the new result."
-sourcebook: "_Pathfinder Lost Omens: World Guide_"
+sourcebook: "_Pathfinder Lost Omens World Guide_"
 ```

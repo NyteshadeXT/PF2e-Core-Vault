@@ -59,13 +59,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` +1 Striking Falchion +22 (forceful, sweep)\n__Damage__  2d10 + 7 slashing"
+  - name: "**Melee** `pf2:1` +1 Striking Falchion"
+    desc: "+22 (forceful, sweep)\n__Damage__  2d10 + 7 slashing"
 
   - name: "Call to Halt"
     desc: "`pf2:2` (auditory,concentrate,emotion,mental) Andera makes an Intimidation check check and compares it to the Will DC of each creature she chooses within 30 feet. Regardless of her result, the targets are temporarily immune for 10 minutes.\n* * *\n\n**Critical Success** The target is [[Conditions/Paralyzed|Paralyzed]] for 1 minute and becomes [[Conditions/Frightened|Frightened 2]].\n\n**Success** The target takes a -10-foot penalty to all its Speeds for 1 minute and becomes [[Conditions/Frightened|Frightened 1]].\n\n[[Bestiary Effects/Effect_ Call to Halt (Success)|Effect: Call to Halt (Success)]]"

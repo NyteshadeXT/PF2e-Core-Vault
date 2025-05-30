@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Drawer +17 (magical)\n__Damage__  2d8 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Drawer"
+    desc: "+17 (magical)\n__Damage__  2d8 + 9 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Poison Bottle +14 (magical, thrown 20 ft.)\n__Damage__  2d6 + 3 bludgeoning plus poison-stock"
+  - name: "**Ranged** `pf2:1` Poison Bottle"
+    desc: "+14 (magical, thrown 20 ft.)\n__Damage__  2d6 + 3 bludgeoning plus poison-stock"
 
   - name: "Poison Stock"
     desc: "  When the cabinet hits a creature with its poison bottle Strike, roll 1d4 to determine what kind of poison splashes onto the struck creature:\n\n1.  nerve poison ([[Conditions/Clumsy|Clumsy 1]])\n2.  weakening poison ([[Conditions/Enfeebled|Enfeebled 1]])\n3.  noxious poison ([[Conditions/Sickened|Sickened 1]])\n4.  clouded mind poison ([[Conditions/Stupefied|Stupefied 1]]).\n\nThe target must attempt a DC 24 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unafected.\n\n**Success** The creature takes 1d6 poison.\n\n**Failure** The creature takes 2d6 poison and is aficted with the rolled poison's associated condition until the end of its next turn.\n\n**Critical Failure** The creature takes 2d6 poison and is aficted with the rolled poison's associated condition for 1d4+1 rounds."

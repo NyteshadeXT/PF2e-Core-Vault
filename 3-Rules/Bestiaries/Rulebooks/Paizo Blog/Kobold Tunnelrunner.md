@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Pick +6 (agile, fatal d8)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Light Pick"
+    desc: "+6 (agile, fatal d8)\n__Damage__  1d4 + 1 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The kobold tunnelrunner deals an extra 1d4 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

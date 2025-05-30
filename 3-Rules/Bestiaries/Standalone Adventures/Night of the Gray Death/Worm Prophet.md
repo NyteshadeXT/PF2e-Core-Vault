@@ -69,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +32 (agile, finesse, versatile s)\n__Damage__  3d4 + 8 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+32 (agile, finesse, versatile s)\n__Damage__  3d4 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +32 (agile, thrown 10 ft., versatile s)\n__Damage__  3d4 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+32 (agile, thrown 10 ft., versatile s)\n__Damage__  3d4 + 8 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 40, attack +32; __8th __ (6 slots) _[[Spells/Pinpoint|Discern Location]]_, _[[Spells/Spiritual Epidemic|Spiritual Epidemic]]_; __7th __  _[[Spells/Divine Vessel|Divine Vessel]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __ (3 slots) _[[Spells/Spellwrack|Spellwrack]]_, _[[Spells/Spirit Blast|Spirit Blast]]_, _[[Spells/Truesight|True Seeing]]_, _[[Spells/Zealous Conviction|Zealous Conviction]]_; __5th __ (3 slots) _[[Spells/Death Ward|Death Ward]]_, _[[Spells/Drop Dead|Drop Dead]]_, _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Spiritual Guardian|Spiritual Guardian]]_; __4th __ (3 slots) _[[Spells/Unfettered Movement|Freedom of Movement]]_; __3rd __ (3 slots) _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Cleanse Affliction|Neutralize Poison]]_, _[[Spells/Ring of Truth|Zone of Truth]]_; __2nd __ (3 slots) _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Enhance Victuals|Enhance Victuals]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Restoration|Restoration]]_; __1st __ (3 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(9th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_"

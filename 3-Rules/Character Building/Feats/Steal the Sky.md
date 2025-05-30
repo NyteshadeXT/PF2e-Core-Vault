@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Jalmeri Heavenseeker Dedication
 * * *
-You can take away the air that keeps a flying foe aloft. You gain the [[3-Rules/Character Building/Spells/S/Steal the Sky|Steal the Sky]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+You can take away the air that keeps a flying foe aloft. You gain the [[Spells/Steal the Sky|Steal the Sky]] ki spell. Increase the number of Focus Points in your focus pool by 1.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

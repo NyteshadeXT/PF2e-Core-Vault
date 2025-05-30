@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/divine
   - trait/illusion
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.lAnJ25DSs44Ya8jg"
 license: OGL

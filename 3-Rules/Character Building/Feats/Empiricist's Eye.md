@@ -18,12 +18,13 @@ license: ORC
 
 
 
-
+**Prerequisites** empiricism methodology
+* * *
 Sharp and piercing, your eyes see all and convey more. Your Point Out actions lose the auditory trait, and you don't need to be heard to convey the information to your allies. In addition, a creature you Point Out is [[Conditions/Off-Guard|Off-Guard]] to your allies until the start of your next turn.
 
 * * *
 
-**Special** If you have the Blind-Fight feat, your allies gain that feat's benefits against any creature that's off-guard due to Empiricist's Eye.
+**Special** If you have the [[Feats/Blind-Fight|Blind-Fight]] feat, your allies gain that feat's benefits against any creature that's off-guard due to Empiricist's Eye.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

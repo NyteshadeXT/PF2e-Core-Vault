@@ -22,5 +22,5 @@ While many kashrishi never use their horns for more than cracking open hard-shel
 
 **Special** If you have the xyloshi heritage, your horn instead deals 1d8 piercing damage.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

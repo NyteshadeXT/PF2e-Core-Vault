@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +12 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+12 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +11 (agile, nonlethal)\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+11 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Gravity Well|Gravity Well]]_, _[[Spells/Phantom Prison|Phantom Prison]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/False Vitality|False Vitality]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Web|Web]]_; __1st __  _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Gentle Landing|Gentle Landing]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Mystic Armor|Mystic Armor]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(3rd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Gale Blast|Gale Blast]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Tangle Vine|Tangle Vine]]_"

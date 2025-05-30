@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Wildborn Magic
 * * *
-The whispers of the jungle grant you more diverse access to simple primal magic. You can cast [[3-Rules/Character Building/Spells/L/Light|Light]], [[Vitality Lash|Vitality Lash]] and [[Tangle Vine|Tangle Vine]] as innate primal spells at will. If you chose one of those spells with Wildborn Magic, you can select a new spell for Wildborn Magic.
+The whispers of the jungle grant you more diverse access to simple primal magic. You can cast [[Spells/Light|Light]], [[Spells/Vitality Lash|Vitality Lash]] and [[Spells/Tangle Vine|Tangle Vine]] as innate primal spells at will. If you chose one of those spells with Wildborn Magic, you can select a new spell for Wildborn Magic.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

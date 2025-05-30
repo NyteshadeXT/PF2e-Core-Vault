@@ -23,5 +23,5 @@ You become a hybrid of your ancestry and a saumen kar. Your size increases to La
 
 You also gain the [[Actions/Blizzard Evasion|Blizzard Evasion]] reaction.
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

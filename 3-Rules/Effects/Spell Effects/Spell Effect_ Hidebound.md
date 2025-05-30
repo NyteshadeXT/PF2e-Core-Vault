@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Hidebound|Hidebound]]
+Granted by [[Spells/Hidebound|Hidebound]]
 
-The target gains resistance to physical damage, except adamantine, until the beginning of its next turn.
+You gain resistance to physical damage, except adamantine, until the beginning of its next turn.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

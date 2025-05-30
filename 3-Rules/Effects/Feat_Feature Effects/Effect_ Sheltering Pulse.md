@@ -21,5 +21,5 @@ Granted by [[Feats/Sheltering Pulse|Sheltering Pulse]]
 
 You gain a +1 status bonus to AC.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

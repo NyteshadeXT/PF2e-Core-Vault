@@ -66,20 +66,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatpick +16 (fatal d12)\n__Damage__  1d12 + 5 piercing plus concentrated-xulgath-bile"
+  - name: "**Melee** `pf2:1` Greatpick"
+    desc: "+16 (fatal d12)\n__Damage__  1d12 + 5 piercing plus concentrated-xulgath-bile"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 ()\n__Damage__  2d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (unarmed)\n__Damage__  2d6 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +16 (agile, finesse)\n__Damage__  2d4 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+16 (agile, finesse, unarmed)\n__Damage__  2d4 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Flask +17 (range increment 20 feet, splash)\n__Damage__  5 acid 2d6 + 2 acid 4 acid"
+  - name: "**Ranged** `pf2:1` Acid Flask"
+    desc: "+17 (range increment 20 feet, splash)\n__Damage__  5 acid 2d6 + 2 acid 4 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire +17 (range increment 20 feet, splash)\n__Damage__  2d8 + 2 fire 4 fire 4 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire"
+    desc: "+17 (range increment 20 feet, splash)\n__Damage__  2d8 + 2 fire 4 fire 4 fire"
 
   - name: "Concentrated Xulgath Bile"
     desc: " (poison) The [[Conditions/Sickened|Sickened]] condition from concentrated xulgath bile doesn't improve on its own until the target recovers from the poison. A target who recovers from concentrated xulgath bile is immune to being sickened by this poison for 1 minute\n\n**Saving Throw** DC 22 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d10 poison damage and [[Conditions/Sickened|Sickened 1]] (1 round)\n\n**Stage 2** 2d10 poison damage and [[Conditions/Sickened|Sickened 2]] (1 round)\n\n**Stage 3** 2d10 poison damage and [[Conditions/Sickened|Sickened 3]] (1 round)"

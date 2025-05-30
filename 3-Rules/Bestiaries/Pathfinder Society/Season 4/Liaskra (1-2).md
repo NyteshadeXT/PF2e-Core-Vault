@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Barbed Quills"
     desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** Liaskra is hit with an unarmed Strike or a Strike with a non-reach melee weapon\n* * *\n\n**Effect** Liaskra breaks off quills in her attacker's flesh. She deals 1d8 piercing damage to the triggering creature (DC 17 Reflex check). On a critical failure, the creature also takes 1d4 bleed damage as the quills hook into their flesh."
@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Quills +8 (finesse, unarmed)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Quills"
+    desc: "+8 (finesse, unarmed)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +8 (agile, finesse, trip)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+8 (agile, finesse, trip)\n__Damage__  1d6 + 3 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +9 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+9 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "Trick Attack"
     desc: "`pf2:1`  Liaskra musters her guile to attempt a clever attack that catches her foe unprepared. Liaskra chooses one of her weapons. The next attack with that weapon deals an extra 1d6 precision damage. In addition, Liaskra can Interact to draw the weapon (or to reload it if she chooses the hand crossbow)."

@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +24 (magical, reach 10 feet, nonlethal)\n__Damage__  3d10 + 10 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+24 (magical, reach 10 feet, unarmed, nonlethal)\n__Damage__  3d10 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +24 (agile, magical, reach 10 feet, nonlethal)\n__Damage__  3d8 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+24 (agile, magical, reach 10 feet, nonlethal)\n__Damage__  3d8 + 10 bludgeoning"
 
   - name: "Festive Rampage"
     desc: "  **Requirements** The Mari Lwyd enters a building after winning the Pwnco, and was not both told to behave itself and offered alcohol or cheese\n* * *\n\n**Effect** The Mari Lwyd flies into a destructive celebratory rampage. As long as the Mari Lwyd remains in the building, it gains resistance 10 to all damage and its strikes ignore 10 Hardness. The Mari Lwyd loses the benefits of this ability if it attacks a living creature, and typically smashes furniture instead."

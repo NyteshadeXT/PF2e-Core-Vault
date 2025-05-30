@@ -43,5 +43,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You override a target's olfactory senses, luring them to a specific location through tantalizing false scents. Select a single square within range that is not hazardous or occupied by a creature. The target is drawn to the selected location, becoming euphoric upon arrival. The target must attempt a Will save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is distracted by the tantalizing scents, becoming [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Failure** The target is [[Conditions/Stupefied|Stupefied 2]] and moves toward the selected location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way.\n\n**Critical Failure** The target is [[Conditions/Stupefied|Stupefied 4]] and moves to the selected location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way. If the creature reaches the destination, it must remain in that location for 1d4 rounds but can otherwise act normally.\n* * *\n\n**Heightened (+2)** You target 1 additional creature, selecting a different square within range as their destination."
-sourcebook: "_Pathfinder Lost Omens: Legends_"
+sourcebook: "_Pathfinder Lost Omens Legends_"
 ```

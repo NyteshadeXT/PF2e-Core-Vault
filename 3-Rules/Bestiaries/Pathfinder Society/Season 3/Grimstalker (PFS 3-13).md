@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile)\n__Damage__  2d6 + 7 slashing plus grimstalker-sap"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, unarmed)\n__Damage__  2d6 + 7 slashing plus grimstalker-sap"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_, _[[Spells/One with Plants|Tree Shape]]_\n__Cantrips__  __(3rd)__ _[[Spells/Tangle Vine|Tanglefoot]]_"

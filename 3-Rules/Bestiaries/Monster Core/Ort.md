@@ -56,13 +56,16 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +8 (agile, magical, unholy)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+8 (agile, magical, unarmed, unholy)\n__Damage__  1d4 + 2 slashing"
 
   - name: "Subservience"
     desc: "  Orts have little drive of their own, but other devils can take command of them. A non-ort devil can issue a command to all orts within 60 feet of it with a single action, which has the auditory and concentrate traits. The devil picks one of the following orders orts can understand, and the orts follow that order. The command and its effects end once the commander is out of the ort's sight, when a new command is issued by the same or another devil, or when the ort dies.\n\n*   **Kill** The ort attacks one target the commander singles out and gains a +1 circumstance bonus to attack rolls against the target.\n*   **Defend** The ort circles the commander and attacks any creature that comes near. It gains a +1 circumstance bonus to AC and saves.\n*   **Fetch** The ort gains a +10–foot circumstance bonus to its Speed and attempts to get an object or person the commander singles out. It attacks anyone and anything that gets in the way.\n*   **Work** The ort performs drudge work dictated by the commander."

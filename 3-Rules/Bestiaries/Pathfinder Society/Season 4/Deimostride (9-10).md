@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +22 (magical, unholy)\n__Damage__  2d10 + 9 piercing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+22 (magical, unarmed, unholy)\n__Damage__  2d10 + 9 piercing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +22 (agile, fire, magical, unholy)\n__Damage__  1d8 + 9 bludgeoning 1d6 spirit 2d8 fire"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+22 (agile, fire, magical, unholy)\n__Damage__  1d8 + 9 bludgeoning 1d6 spirit 2d8 fire"
 
   - name: "Divine Innate Spells"
     desc: "DC 26, attack +18; __7th __  _[[Spells/Ethereal Jaunt|Ethereal Jaunt (Self and Rider Only)]]_, _[[Spells/Interplanar Teleport|Plane Shift (Self and Rider Only)]]_"
@@ -75,7 +75,7 @@ attacks:
     desc: "`pf2:2` (fire) Deimostride Strides or Flies up to triple its Speed. Its hooves burst with intense flame, dealing 6d6-2 fire damage (DC 28 Reflex check save) once to each creature other than his rider that he moves adjacent to during its gallop."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, hoof, DC 28 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Large or smaller, hoof, DC 28 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

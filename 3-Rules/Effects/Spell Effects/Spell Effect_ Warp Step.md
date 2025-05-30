@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Warp Step|Warp Step]]
+Granted by [[Spells/Warp Step|Warp Step]]
 
 You gain a +5-foot status bonus to your Speed.
 

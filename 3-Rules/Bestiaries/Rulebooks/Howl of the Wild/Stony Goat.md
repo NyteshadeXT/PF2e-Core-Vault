@@ -55,14 +55,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "Self-Petrify"
     desc: "`pf2:r` (polymorph) **Trigger** The stony goat gains the [[Conditions/Frightened|Frightened]] condition or takes more than 8 damage in a single hit\n* * *\n\n**Effect** The stony goat turns to stone in self-defense. It gains the [[Conditions/Petrified|Petrified]] condition for 1d4 rounds. If the goat is damaged while it's petrified, it immediately heals by that amount by absorbing minerals from its cud, causing its cud to lose value equal to the amount of Hit Points restored (for instance, losing 5 gp worth of value to restore 5 Hit Points); if the goat's cud is reduced to 0 gp, it has the minerals fully drained from it, and the goat won't form more cud until it has eaten a sufficient quantity of rock and slept."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Head +8 ()\n__Damage__  1d8 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Head"
+    desc: "+8 ()\n__Damage__  1d8 + 3 bludgeoning"
 
   - name: "Overhead Leap"
     desc: "`pf2:1` (move) The stony goat [[Actions/Leap|Leaps]] up to 12 feet vertically and 20 feet horizontally; this movement doesn't trigger reactions."

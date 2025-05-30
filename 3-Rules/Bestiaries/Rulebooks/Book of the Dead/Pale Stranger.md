@@ -62,17 +62,20 @@ abilities_mid:
   - name: "Undying Vendetta"
     desc: " (emotion,occult) If the pale stranger's murderer dies, the pale stranger is immediately destroyed. A pale stranger that can't sense their murderer must attempt a DC 11 Flat check once every 24 hours to avoid becoming [[Conditions/Immobilized|Immobilized]] and [[Conditions/Prone|Prone]]; they immediately rise again once they can sense their murderer. A murderer who becomes undead does not trigger the pale stranger's destruction until the murderer is finally destroyed. The pale stranger gains a +2 status bonus to checks and DCs against their murderer."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pistol Whip +20 (magical)\n__Damage__  2d6 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Pistol Whip"
+    desc: "+20 (magical)\n__Damage__  2d6 + 9 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +21 (agile, finesse, nonlethal)\n__Damage__  1d6 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+21 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d6 + 9 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flintlock Pistol +24 (concussive, fatal d8, range increment 40 feet)\n__Damage__  2d4 + 6 piercing plus bullets-of-vengeance"
+  - name: "**Ranged** `pf2:1` Flintlock Pistol"
+    desc: "+24 (concussive, fatal d8, range increment 40 feet)\n__Damage__  2d4 + 6 piercing plus bullets-of-vengeance"
 
   - name: "Bullets of Vengeance"
     desc: " (occult) Shots from a pale stranger's firearms deal an additional 1d6 precision damage, or 2d6 precision damage against the one who murdered them. A creature who has never killed a living being doesn't take this precision damage. When a pale stranger critically succeeds at a ranged Strike with a pistol, the target must succeed at a DC 29 Fortitude check save or be [[Conditions/Stunned|Stunned 1]]."

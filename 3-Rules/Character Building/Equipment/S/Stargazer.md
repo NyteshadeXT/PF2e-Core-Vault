@@ -1,76 +1,32 @@
 ---
-#========================================================#
-#                     CORE PROPERTIES                    #
-#========================================================#
-cssclass: pf2e-item, h-line
-name: "stargazer"
-aliases: "Stargazer"
-source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
-trait01: "invested"
-trait02: "magical"
-trait03: "scrying"
-trait04: "thrown-10"
-trait05: "uncommon"
-trait06: ""
-trait07: ""
-trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 14
-weight: 1
-value: "6500"
-subvalue: "gp"
-invest:
-usage: "held in one hand "
-license: "ORC"
-identify:
-description: "When you invest this clear quartz crystal ball, it orbits your head like an aeon stone. As long as you have the stargazer invested, you can use an Interact action to direct it to orbit one of your hands where you can telekinetically smash the orb into foes, wielding it as a _+2 greater striking returning club_. While you're directing the stargazer, your hand is full, and you can send it back to your head with another Interact action. On a critical hit, the stargazer pulses with hypnotic starlight, [[Conditions/Dazzled|Dazzling]] the struck creature for 1 round. A stargazer doesn't add critical specialization effects."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
-trigger2:
-mechanics2: "**Secondary Effect** "
-craft:
-
-#========================================================#
-#                   WEAPON PROPERTIES                    #
-#========================================================#
-range: 
-ammoType:
-damage: 3d6 bludgeoning
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
-
-#========================================================#
-#                    ARMOR PROPERTIES                    #
-#========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
-resist:
-immunity:
-conditionImmunity:
-
-#========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
-#========================================================#
-weaponBase:
-armorBase:
-
+obsidianUIMode: preview
+title: "Stargazer"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - pf2e/weapon
+  - trait/invested
+  - trait/magical
+  - trait/scrying
+  - trait/thrown-10
+  - trait/uncommon
+  - category/simple
+aliases: "Compendium.pf2e.equipment-srd.Item.mkFrHOwWJaHF0aGp"
+license: OGL
 ---
+# Stargazer
+## Item 14
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[scrying]][[thrown-10]]
+
+|  |  |
+| -- | -- |
+| **Category** simple melee weapon | **Group** club |
+| **Price** 6500 gp |  |
+| **Bulk** 1 | **Size** med |
+| **Damage** 3d6 bludgeoning  | **Usage** held-in-one-hand |
+
+
+
+When you invest this clear quartz crystal ball, it orbits your head like an aeon stone. As long as you have the stargazer invested, you can use an Interact action to direct it to orbit one of your hands where you can telekinetically smash the orb into foes, wielding it as a _+2 greater striking returning club_. While you're directing the stargazer, your hand is full, and you can send it back to your head with another Interact action. On a critical hit, the stargazer pulses with hypnotic starlight, [[Conditions/Dazzled|Dazzling]] the struck creature for 1 round. A stargazer doesn't add critical specialization effects.
+
+*Source: Pathfinder Treasure Vault*
+*OGL*

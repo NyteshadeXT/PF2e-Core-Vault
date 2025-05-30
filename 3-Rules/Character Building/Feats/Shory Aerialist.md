@@ -21,5 +21,5 @@ license: OGL
 * * *
 Unique in Golarion's history, the Shory people developed fighting styles dedicated to combat in the air. You gain a +2 circumstance bonus to Acrobatics checks to Maneuver in Flight and a +5-foot status bonus to your fly Speed whenever you are flying via magic.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

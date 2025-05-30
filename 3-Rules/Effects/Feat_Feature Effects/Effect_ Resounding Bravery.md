@@ -4,8 +4,9 @@ title: "Effect: Resounding Bravery"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.NMmsJyeMTawpgLVR"
-license: OGL
+license: ORC
 ---
 # Effect: Resounding Bravery
 ## Level 8
@@ -16,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Feats/Resounding Bravery|Resounding Bravery]] if you critically succeed at a Will save against a foe's ability.
+Granted by [[Feats/Resounding Bravery|Resounding Bravery]]
 
-You gain a +1 status bonus to saves and a number of temporary Hit Points equal to half your level for 1 minute.
+You gain a +1 status bonus to saves and a number of temporary Hit Points equal to half your level. On a Critical Success, you gain a +2 status bonus to saves and a number of temporary Hit Points equal to your level.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

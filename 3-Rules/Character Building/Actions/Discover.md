@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
   - trait/secret
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.JLPY5hl4qiJ1zLi1"
 license: OGL
 ---
 # Discover
 
-### [[3-Rules/Rule References/Concentrate]][[secret]]
+### [[concentrate]][[secret]]
 
 **Category** interaction; 
 

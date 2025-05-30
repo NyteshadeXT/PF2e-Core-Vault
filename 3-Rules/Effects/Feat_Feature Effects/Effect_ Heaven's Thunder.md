@@ -18,9 +18,9 @@ license: OGL
 
 Granted by [[Feats/Heaven's Thunder|Heaven's Thunder]]
 
-Until the end of your next turn, your unarmed attacks and any monk weapons you wield deal additional electricity and sonic damage; the amount of each damage type is equal to the number of damage dice for the weapon or unarmed attack. Any creature who successfully Grapples you or is successfully Grappled by you takes this damage immediately after the Grapple check is resolved (using the number of damage dice of your unarmed attack to determine the damage dealt).
+Your unarmed attacks and any monk weapons you wield deal additional electricity and sonic damage; the amount of each damage type is equal to the number of damage dice for the weapon or unarmed attack.
 
-If you also know the _ki blast_ ki spell, you can choose to deal either electricity or sonic damage with the spell instead of force while this effect is active (_ki blast_ loses the force trait and gains the electricity or sonic trait instead).
+If you also know the _qi blast_ qi spell, you can choose to deal either electricity or sonic damage with the spell instead of force (_qi blast_ loses the force trait and gains the electricity or sonic trait instead).
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

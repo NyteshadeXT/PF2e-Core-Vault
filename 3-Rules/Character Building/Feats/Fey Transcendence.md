@@ -10,7 +10,7 @@ license: OGL
 ---
 # Fey Transcendence
 ## Feat 17
-### [rare](rare.md "Rare Rarity Trait")
+### [rare](rare "Rare Rarity Trait")
 
 **Category** ancestry; 
 
@@ -24,5 +24,5 @@ You become a powerful fey creature, gaining strengths tied to the First World bu
 
 **Special** This feat gains the trait appropriate for your ancestry (human for human, goblin for goblin, etc.).
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

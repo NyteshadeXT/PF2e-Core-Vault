@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pick +22 (fatal d10, magical)\n__Damage__  1d6 + 10 piercing"
+  - name: "**Melee** `pf2:1` Pick"
+    desc: "+22 (fatal d10, magical)\n__Damage__  1d6 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +23 (deadly d10, magical, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+23 (deadly d10, magical, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 8 piercing"
 
   - name: "Rain of Arrows"
-    desc: "`pf2:2`  The sniper fires one arrow at each creature they choose within a @Template[burst|distance:15]. The center of the burst must be within 100 feet of the sniper, but can't be within 30 feet. The sniper makes each attack roll separately. All attacks count toward the sniper's multiple attack penalty, but the penalty increases only after all the attacks are made."
+    desc: "`pf2:2`  The sniper fires one arrow at each creature they choose within a 15-foot burst. The center of the burst must be within 100 feet of the sniper, but can't be within 30 feet. The sniper makes each attack roll separately. All attacks count toward the sniper's multiple attack penalty, but the penalty increases only after all the attacks are made."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The scarlet triad sniper deals an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

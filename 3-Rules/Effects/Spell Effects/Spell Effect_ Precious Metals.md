@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Precious Metals|Precious Metals]]
+Granted by [[Spells/Precious Metals|Precious Metals]]
 
-Your deity blesses base metals to transform them into precious materials.
+The metal in the target transforms from its normal metal into cold iron, copper, gold, iron, silver, or steel. If the spell's rank is 8th or higher, add adamantine and dawnsilver to the options.
 
 *Source: Pathfinder Player Core*
 *ORC*

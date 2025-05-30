@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +14 (agile, finesse, magical, versatile s)\n__Damage__  1d4 + 4 piercing 1d10 fire"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+14 (agile, finesse, magical, versatile s)\n__Damage__  1d4 + 4 piercing 1d10 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +12 (agile, finesse, magical, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing 1d10 fire"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+12 (agile, finesse, magical, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing 1d10 fire"
 
   - name: "Divine Prepared Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_, _[[Spells/Sigil|Sigil]]_"

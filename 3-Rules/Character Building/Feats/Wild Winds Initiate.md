@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Qi Spells
 * * *
-You learn a stance that lets you attack from a distance. You gain the [[Wild Winds Stance|Wild Winds Stance]] qi spell.
+You learn a stance that lets you attack from a distance. You gain the [[Spells/Wild Winds Stance|Wild Winds Stance]] qi spell.
 
 While entering the stance is a qi spell, the wind crash Strikes the stance grants are not, so you can use them as often as you like while in the stance.
 

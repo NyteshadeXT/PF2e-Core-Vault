@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-Q02 - Student of the Unforgiving Fire"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.y8sk7Q4uAtacYdR2"
 license: OGL
 ---
 # S1-Q02 - Student of the Unforgiving Fire
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Piston +18 (reach 10 feet)\n__Damage__  2d8 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Piston"
+    desc: "+18 (reach 10 feet)\n__Damage__  2d8 + 9 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Artillery Shell +18 (fatal d12, range increment 100 feet)\n__Damage__  2d8 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Artillery Shell"
+    desc: "+18 (fatal d12, range increment 100 feet)\n__Damage__  2d8 + 9 piercing"
 
   - name: "Barrage"
     desc: "`pf2:2`  The mechanical artillerist makes three artillery shell Strikes, each of which must be aimed at a different target. Each Strike counts toward its multiple attack penalty, but the penalty doesn't increase until after it has made all three attacks."

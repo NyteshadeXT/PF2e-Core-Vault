@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Leader By Example"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.hy1gMMpRmujuw8i4"
 license: OGL
 ---
 # Leader By Example
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

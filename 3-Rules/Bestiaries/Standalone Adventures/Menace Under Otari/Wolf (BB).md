@@ -3,7 +3,7 @@ title: "Wolf (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.Oilfs8Atv2LjAsUS" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.BN5Lb6IsQ9Wyu3rL" 
 tags:
   - pf2e/creature/type/animal
   - pf2eMonster
@@ -54,8 +54,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d6 + 2 piercing plus knockdown"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (unarmed)\n__Damage__  1d6 + 2 piercing plus knockdown"
 
   - name: "Pack Attack"
     desc: "  The wolf's jaws Strike deals 1d4 extra damage to creatures within reach of two of the wolf's allies."

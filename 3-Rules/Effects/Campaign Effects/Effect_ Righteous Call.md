@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Adventure-Specific Actions/Righteous Call|Righteous Call]]
+
 Your Strikes gain the holy trait.
 
 *Source: Pathfinder GM Core*

@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +10 (agile)\n__Damage__  2d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+10 (agile, unarmed)\n__Damage__  2d6 + 5 slashing"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
     desc: "`pf2:1` (arcane,concentrate,polymorph) The doppelganger takes on the specific appearance of any Small or Medium humanoid it has seen. This doesn't change the doppelganger's Stride speed or their attack and damage bonuses with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning)."

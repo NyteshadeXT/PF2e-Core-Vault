@@ -53,13 +53,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Coiled Strike (Special)]]"
-    desc: "`pf2:r`  As Reactive Strike, but the snake can use this reaction only if it's Coiled.\n\n* * *\n"
+    desc: "`pf2:r`  As Reactive Strike, but the snake can use this reaction only if it's Coiled.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +11 (finesse)\n__Damage__  1d8 + 3 piercing plus giant-viper-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+11 (finesse)\n__Damage__  1d8 + 3 piercing plus giant-viper-venom"
 
   - name: "Coil"
     desc: "`pf2:1`  The giant viper uses an action to coil itself. While Coiled, the reach of its fangs is 10 feet and it has the Reactive Strike reaction. After the giant viper Strikes with its fangs, it becomes uncoiled."

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-07 - Blast from the Past"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.0izXWwYqRGQq74mG"
 license: OGL
 ---
 # S1-07 - Blast from the Past
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

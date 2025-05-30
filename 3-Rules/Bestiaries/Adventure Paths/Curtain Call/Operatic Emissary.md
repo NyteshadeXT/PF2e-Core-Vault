@@ -53,7 +53,10 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "+2 Striking Returning Trident"
+    desc: "[[Equipment/Trident|+2 Striking Returning Trident]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Messenger's Amnesty"
@@ -65,17 +68,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +26 (holy, magical, thrown 20 ft.)\n__Damage__  2d8 + 12 piercing 1d4 spirit"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+26 (holy, magical, thrown 20 ft.)\n__Damage__  2d8 + 12 piercing 1d4 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Trident +30 (holy, magical)\n__Damage__  2d8 + 16 piercing 1d4 spirit"
+  - name: "**Melee** `pf2:1` Trident"
+    desc: "+30 (holy, magical)\n__Damage__  2d8 + 16 piercing 1d4 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 36, attack +28; __7th __  _[[Spells/Blessed Boundary|Blessed Boundary]]_, _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Clear Mind|Clear Mind]]_, _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Heal|Heal]]_; __3rd __  _[[Spells/Ring of Truth|Ring of Truth (At will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_\n__Cantrips__  __(8th)__ _[[Spells/Light|Light]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Angelic Messenger|Angelic Messenger]]_"
+    desc: "_Angelic Messenger_"
 
   - name: "Nonlethal Damage"
     desc: "  When they attack, the operatic emissaries take a –2 circumstance penalty to their Strikes with their tridents, as they make nonlethal Strikes with the weapons. They avoid using lethal spells like [[Spells/Blessed Boundary|Blessed Boundary]], [[Spells/Divine Decree|Divine Decree]], or [[Spells/Divine Wrath|Divine Wrath]] in the fight."

@@ -23,5 +23,5 @@ You can modify the size and shape of your horn over time using your mental power
 
 **Special** You can take this feat a second time, adding the traits you didn't choose when you first took it.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Bestial Protection
 ## Feat 6
-### [[archetype]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]]
+### [[archetype]][[emotion]][[fear]][[mental]]
 
 **Category** class; 
 

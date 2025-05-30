@@ -54,16 +54,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Katana +28 (deadly d8, magical, two-hand d10, versatile p)\n__Damage__  3d6 + 11 slashing"
+  - name: "**Melee** `pf2:1` Katana"
+    desc: "+28 (deadly d8, magical, two-hand d10, versatile p)\n__Damage__  3d6 + 11 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +22 (magical, propulsive, range increment 50 feet, reload 1)\n__Damage__  2d6 + 11 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+22 (magical, propulsive, range increment 50 feet, reload 1)\n__Damage__  2d6 + 11 bludgeoning"
 
   - name: "Dueling Expertise"
     desc: "  The weapon master deals an extra 2d10 damage to creatures that are not adjacent to any allies or other foes."

@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip Of Compliance +23 (finesse, reach 10 feet, trip)\n__Damage__  2d4 + 12 slashing"
+  - name: "**Melee** `pf2:1` Whip Of Compliance"
+    desc: "+23 (finesse, reach 10 feet, trip)\n__Damage__  2d4 + 12 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +22 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+22 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 30, attack +24; __6th __ (2 slots) _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Paranoia|Paranoia]]_; __5th __ (3 slots) _[[Spells/Cloak of Colors|Cloak of Colors]]_, _[[Spells/Command|Command]]_, _[[Spells/Wave of Despair|Crushing Despair]]_; __4th __ (3 slots) _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __3rd __ (3 slots) _[[Spells/Translate|Comprehend Language]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Force Barrage|Magic Missile]]_; __2nd __ (3 slots) _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Ghostly Carrier|Spectral Hand]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (3 slots) _[[Spells/Disguise Magic|Magic Aura]]_, _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(6th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"

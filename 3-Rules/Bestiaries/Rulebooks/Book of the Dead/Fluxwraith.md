@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/PZO2110 FLUXWRAITH .webp| ]]
 source: "Pathfinder Book of the Dead"
 name: "Fluxwraith"
 level: "Creature 17"
@@ -56,16 +57,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense (Imprecise) 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Time-shifting Touch +34 (agile, finesse, magical)\n__Damage__  3d8 + 14 force plus time-shift"
+  - name: "**Melee** `pf2:1` Time-shifting Touch"
+    desc: "+34 (agile, finesse, magical)\n__Damage__  3d8 + 14 force plus time-shift"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Temporal Fracturing Ray +34 (magical, range increment 30 feet)\n__Damage__  3d6 + 14 mental plus terrible-foresight"
+  - name: "**Ranged** `pf2:1` Temporal Fracturing Ray"
+    desc: "+34 (magical, range increment 30 feet)\n__Damage__  3d6 + 14 mental plus terrible-foresight"
 
   - name: "Occult Innate Spells"
     desc: "DC 39, attack +31; __10th __  _[[Spells/Freeze Time|Time Stop]]_; __8th __  _[[Spells/Déjà Vu|Déjà Vu (At Will)]]_; __7th __  _[[Spells/Cast into Time|Cast into Time]]_, _[[Spells/Day's Weight|Day's Weight]]_, _[[Spells/Paralyze|Paralyze]]_; __3rd __  _[[Spells/Haste|Haste (Self Only)]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_\n__Cantrips__  __(9th)__ _[[Spells/Daze|Daze]]_"

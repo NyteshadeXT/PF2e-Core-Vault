@@ -6,25 +6,26 @@ tags:
   - trait/magical
   - trait/spellshot
   - trait/teleportation
-  - trait/common
+  - trait/
   - category/interaction
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.DYn1igFjCGJEiP22"
-license: OGL
+license: ORC
 ---
 # Recall Ammunition `pf2:r`
 
-### [[3-Rules/Rule References/Magical]][[spellshot]][[teleportation]]
+### [[magical]][[spellshot]][[teleportation]]
 
 **Category** interaction; 
 
 
 
 
-**Trigger** You miss with a firearm or crossbow Strike while using an ordinary level-0 bolt or bullet
+**Trigger** You miss with a firearm or crossbow Strike.
 
 * * *
 
-You amplify the connection between bullet and firearm, calling your missed shot back into your gun. The ammunition you just fired is reloaded back into your gun and immediately ready to fire again.
+You create a bond to your ammunition, calling your missed shot back. The ammunition you just fired is reloaded back into your weapon. If the ammunition was a piece of magical or alchemical ammunition that normally requires one or more actions to activate, you must re-activate it before firing again.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

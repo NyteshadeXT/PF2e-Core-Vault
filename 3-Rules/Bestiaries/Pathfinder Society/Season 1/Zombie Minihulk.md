@@ -61,17 +61,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hunk Of Meat +17 (reach 10 feet)\n__Damage__  2d10 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Hunk Of Meat"
+    desc: "+17 (reach 10 feet)\n__Damage__  2d10 + 9 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hunk Of Meat +9 (thrown 10 ft.)\n__Damage__  2d10 + 9 bludgeoning"
+  - name: "**Ranged** `pf2:1` Hunk Of Meat"
+    desc: "+9 (thrown 10 ft.)\n__Damage__  2d10 + 9 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Corpse +17 (brutal, thrown 30 ft.)\n__Damage__  2d6 + 9 bludgeoning"
+  - name: "**Ranged** `pf2:1` Corpse"
+    desc: "+17 (brutal, thrown 30 ft.)\n__Damage__  2d6 + 9 bludgeoning"
 
   - name: "Corpse Throwing"
     desc: "  A zombie minihulk can throw corpses at foes. While any Medium dead body will do, they sometimes throw zombie shamblers, who take just as much damage from being thrown as the target they hit. A thrown shambler lands prone, but if it's not destroyed, it can rise and use other actions normally."

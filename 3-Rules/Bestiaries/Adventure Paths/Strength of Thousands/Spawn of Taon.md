@@ -56,20 +56,23 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +24 ()\n__Damage__  2d12 + 13 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+24 (unarmed)\n__Damage__  2d12 + 13 slashing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +24 (agile)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+24 (agile)\n__Damage__ "
 
   - name: "Paralysis"
     desc: " (incapacitation,occult) A living creature hit by a mohrg's tongue Strike must succeed at a DC 30 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. The creature can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each attempt."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

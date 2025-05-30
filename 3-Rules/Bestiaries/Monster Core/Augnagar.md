@@ -54,25 +54,31 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +28 (magical, reach 10 feet, unholy)\n__Damage__  3d12 + 14 piercing plus rotting-curse 3d6 bleed plus rotting-curse"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+28 (magical, reach 10 feet, unarmed, unholy)\n__Damage__  3d12 + 14 piercing plus rotting-curse 3d6 bleed plus rotting-curse"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sting +28 (agile, finesse, magical, reach 15 feet, unholy)\n__Damage__  3d8 + 14 slashing 3d6 bleed"
+  - name: "**Melee** `pf2:1` Sting"
+    desc: "+28 (agile, finesse, magical, reach 15 feet, unholy)\n__Damage__  3d8 + 14 slashing 3d6 bleed"
 
   - name: "Occult Innate Spells"
     desc: "DC 31, attack +23; __5th __  _[[Spells/Translocate|Translocate (x3)]]_\n__Constant__  __(7th)__ _[[Spells/Truesight|Truesight]]_"
 
   - name: "Confusing Display"
-    desc: "`pf2:2` (concentrate,emotion,fear,incapacitation,mental,occult,visual) The augnagar's writhing limbs and flesh seethe and squirm in a disorienting and unsettling manner. Creatures in a @Template[emanation|distance:30] must attempt a DC 34 Will check save, after which they are temporarily immune to further Confusing Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Failure** The creature is stupefied 1 and [[Conditions/Confused|Confused]] for 1 minute.\n\n**Critical Failure** As failure, but the creature can't attempt a flat check to recover from confusion whenever it takes damage from an attack or spell."
+    desc: "`pf2:2` (concentrate,emotion,fear,incapacitation,mental,occult,visual) The augnagar's writhing limbs and flesh seethe and squirm in a disorienting and unsettling manner. Creatures in a 30-foot emanation must attempt a DC 34 Will check save, after which they are temporarily immune to further Confusing Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Failure** The creature is stupefied 1 and [[Conditions/Confused|Confused]] for 1 minute.\n\n**Critical Failure** As failure, but the creature can't attempt a flat check to recover from confusion whenever it takes damage from an attack or spell."
 
   - name: "Inhale Vitality"
-    desc: "`pf2:2` (occult,void) **Frequency** once per day\n* * *\n\n**Effect** The augnagar inhales sharply, drawing life force out of creatures in a @Template[cone|distance:50]. Creatures in the area take 14d6 void damage with a DC 34 Fortitude check save. A creature that fails its save is also [[Conditions/Fatigued|Fatigued]].\n\nIf any creatures take damage from this activity, the augnagar becomes [[Conditions/Quickened|Quickened]] for 1 round, and it can use the extra action only to Stride or Strike."
+    desc: "`pf2:2` (occult,void) **Frequency** once per day\n* * *\n\n**Effect** The augnagar inhales sharply, drawing life force out of creatures in a 50-foot cone. Creatures in the area take 14d6 void damage with a DC 34 Fortitude check save. A creature that fails its save is also [[Conditions/Fatigued|Fatigued]].\n\nIf any creatures take damage from this activity, the augnagar becomes [[Conditions/Quickened|Quickened]] for 1 round, and it can use the extra action only to Stride or Strike."
 
   - name: "Rotting Curse"
     desc: " (curse,disease,occult) **Saving Throw** DC 32 Fortitude check\n* * *\n\n**Stage 1** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 2** drained 2 and the creature displays hideous, festering wounds exuding a horrific stench. When the victim takes piercing or slashing damage, creatures within 30 feet must succeed at a DC 32 Fortitude check save or become [[Conditions/Sickened|Sickened 1]]. The victim automatically fails this save (1 day)."

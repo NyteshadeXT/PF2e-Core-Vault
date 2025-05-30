@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Rovagug - Minor Boon"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/deityboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.4FkVB4uQK4eHZJ6Z"
 license: OGL
 ---
 # Rovagug - Minor Boon
-
+## Feat 1
 ### 
 
 **Category** deityboon; 
@@ -25,5 +25,5 @@ Once, one of your failed or successful attacks becomes a critical hit, and your 
 
 Rovagug typically grants this boon when the critical hit could destroy something precious or significant.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

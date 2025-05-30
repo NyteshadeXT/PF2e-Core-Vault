@@ -15,7 +15,7 @@ license: OGL
 ---
 # Armor in Earth `pf2:1`
 ## Feat 1
-### [[3-Rules/trait_reference/E/earth]][[impulse]][[kineticist]][[primal]]
+### [[earth]][[impulse]][[kineticist]][[primal]]
 
 **Category** class; 
 

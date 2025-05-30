@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 title: "Rally"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/morale
-  - trait/common
+  - trait/
   - category/army-war-action
 aliases: "Compendium.pf2e.kingmaker-features.Item.8XXylMGJuqe1ozMk"
 license: OGL
 ---
 # Rally `pf2:2`
-
+## 
 ### [[morale]]
 
 **Category** army-war-action; 

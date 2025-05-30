@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Weapon Trance|Weapon Trance]]
+Granted by [[Spells/Weapon Trance|Weapon Trance]]
 
 Your proficiency with martial weapons is equal to your proficiency with simple weapons.
 

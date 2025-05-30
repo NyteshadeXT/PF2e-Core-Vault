@@ -22,7 +22,7 @@ license: OGL
 
 
 
-You stop holding your power back, unleashing it all in a catastrophic blast. All creatures in a @Template\[emanation|distance:20\] take 1d6 bludgeoning damage per level with a Reflex check. Your psyche subsides as your power is expended.
+You stop holding your power back, unleashing it all in a catastrophic blast. All creatures in a 20-foot emanation take 1d6 bludgeoning damage per level with a Reflex check. Your psyche subsides as your power is expended.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

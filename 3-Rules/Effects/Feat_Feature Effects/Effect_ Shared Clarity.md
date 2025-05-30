@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Shared Clarity|Shared Clarity]]
 
-Allies within 15 feet of you who failed the same saving throw against the same mental effect can also spend their reactions to reroll the failed saving throw with a +2 circumstance bonus.
+You can reroll the failed saving throw against the mental effect with a +2 circumstance bonus.
 
 *Source: Pathfinder Player Core*
 *ORC*

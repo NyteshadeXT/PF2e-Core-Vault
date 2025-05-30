@@ -61,23 +61,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +10 (agile, finesse, versatile s)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+10 (agile, finesse, versatile s)\n__Damage__  1d4 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +10 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+10 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Flask (Moderate) +12 (bomb, consumable, infused, range increment 30 feet, splash)\n__Damage__  2d6 acid 1 acid 2 acid"
+  - name: "**Ranged** `pf2:1` Acid Flask (Moderate)"
+    desc: "+12 (bomb, consumable, infused, range increment 30 feet, splash)\n__Damage__  2d6 acid 1 acid 2 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire (Moderate) +12 (bomb, consumable, infused, range increment 30 feet, splash)\n__Damage__  2 fire 2 fire 1d8 + 1 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire (Moderate)"
+    desc: "+12 (bomb, consumable, infused, range increment 30 feet, splash)\n__Damage__  2 fire 2 fire 1d8 + 1 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Frost Vial (Moderate) +12 (bomb, consumable, infused, range increment 30 feet, splash)\n__Damage__  2 cold 1d6 + 1 cold"
+  - name: "**Ranged** `pf2:1` Frost Vial (Moderate)"
+    desc: "+12 (bomb, consumable, infused, range increment 30 feet, splash)\n__Damage__  2 cold 1d6 + 1 cold"
 
   - name: "Far Lob"
     desc: "  The grenadier's bombs have a range increment of 30 feet (instead of 20 feet)."

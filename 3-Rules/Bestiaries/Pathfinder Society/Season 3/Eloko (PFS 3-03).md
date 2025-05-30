@@ -56,17 +56,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 ()\n__Damage__  2d8 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (unarmed)\n__Damage__  2d8 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +16 (agile, magical, versatile s)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+16 (agile, magical, versatile s)\n__Damage__  1d4 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +16 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+16 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blowgun +17 (agile, nonlethal, range increment 20 feet, reload 1)\n__Damage__  1 piercing 2d4 poison"
+  - name: "**Ranged** `pf2:1` Blowgun"
+    desc: "+17 (agile, nonlethal, range increment 20 feet, reload 1)\n__Damage__  1 piercing 2d4 poison"
 
   - name: "Primal Innate Spells"
     desc: "DC 22, attack +14; __1st __  _[[Spells/Charm|Charm]]_"

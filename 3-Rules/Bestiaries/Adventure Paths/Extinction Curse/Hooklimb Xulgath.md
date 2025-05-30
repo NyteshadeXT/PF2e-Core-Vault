@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Powerful Stench"
     desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 28 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
@@ -66,17 +66,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +22 ()\n__Damage__  1d6 + 13 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+22 (unarmed)\n__Damage__  1d6 + 13 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +22 (agile)\n__Damage__  2d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+22 (agile, unarmed)\n__Damage__  2d8 + 13 slashing"
 
   - name: "Raking Claws"
     desc: "`pf2:1`  The hooklimb flexes hooklike barbs on its claws. Until the start of the hooklimb's next turn, its claws Strikes deal an additional 1d10 persistent bleed damage."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  **Strike:** Claw"
+    desc: "`pf2:1`  **Strike:** Claw\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
  
 ```
 

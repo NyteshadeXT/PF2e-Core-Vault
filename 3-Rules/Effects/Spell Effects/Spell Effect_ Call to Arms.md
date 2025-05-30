@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Call to Arms|Call to Arms]].
+Granted by [[Spells/Call to Arms|Call to Arms]]
+
+You gain a status bonus to your initiative and you gain temporary Hit Points.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

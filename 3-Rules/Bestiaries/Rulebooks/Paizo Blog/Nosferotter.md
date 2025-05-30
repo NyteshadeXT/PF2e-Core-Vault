@@ -52,20 +52,23 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +10 (agile)\n__Damage__  1d4 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+10 (agile, unarmed)\n__Damage__  1d4 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaw +10 ()\n__Damage__  1d8 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaw"
+    desc: "+10 ()\n__Damage__  1d8 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Throw Rock and/or Skull +10 (thrown 30 ft.)\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Throw Rock and/or Skull"
+    desc: "+10 (thrown 30 ft.)\n__Damage__  1d4 + 6 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  30 feet\n\n* * *\n"
+    desc: "`pf2:1`  30 feet\n* * *\n\n**Requirements** The monster is hiding in water and a creature that hasn't detected it is within the listed number of feet.\n* * *\n\n**Effect** The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a Strike against it. The creature is [[Conditions/Off-Guard|Off-Guard]] against this Strike."
 
   - name: "Dead Gaze"
     desc: "`pf2:2` (mental,visual) Look into its beady little eyes. You are now [[Conditions/Stunned|Stunned]] for 1 round unless you succeeded on a DC 20 Will check save."

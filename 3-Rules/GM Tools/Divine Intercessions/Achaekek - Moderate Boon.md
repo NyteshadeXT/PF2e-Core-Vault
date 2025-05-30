@@ -17,7 +17,7 @@ license: ORC
 
 
 
-You can cast [[Blood Vendetta|Blood Vendetta]] once per day as an innate divine spell; this spell automatically heightens to a rank equal to your half your level.
+You can cast [[Spells/Blood Vendetta|Blood Vendetta]] once per day as an innate divine spell; this spell automatically heightens to a rank equal to your half your level.
 
 *Source: Pathfinder Adventure: Prey for Death*
 *ORC*

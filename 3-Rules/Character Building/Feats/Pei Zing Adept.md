@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Prerequisites** Prepare Elemental Medicine; expert in Crafting,Herbalism Lore, or Medicine
+**Prerequisites** Prepare Elemental Medicine; expert in Crafting, Herbalism Lore, or Medicine
 * * *
 **Access** Tian Xia origin
 
@@ -29,5 +29,5 @@ You're practiced at timing preparations to the point where you can treat multipl
 
 If you're a master in one of the prerequisite skills, you can administer to up to four recipients, and if you're legendary, you can administer to up to eight.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

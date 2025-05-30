@@ -57,6 +57,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Longspear|+1 Longspear]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Mercy Vulnerability"
@@ -68,20 +71,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longspear +19 (magical, reach, unholy)\n__Damage__  1d6 + 8 piercing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Longspear"
+    desc: "+19 (magical, reach, unholy)\n__Damage__  1d6 + 8 piercing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +18 (magical, unholy)\n__Damage__  2d6 + 8 piercing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+18 (magical, unarmed, unholy)\n__Damage__  2d6 + 8 piercing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile, magical, unholy)\n__Damage__  1d6 + 8 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, magical, unarmed, unholy)\n__Damage__  1d6 + 8 slashing 1d6 spirit"
 
   - name: "Innate Divine Spells"
     desc: "DC 26, attack +16; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Translocate|Dimension Door (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/See the Unseen|See Invisibility]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "Grievous Strike"
     desc: "`pf2:2` (attack) The babau makes an attack with the intent of creating a particularly horrific and gory wound. It make a melee Strike. This counts as two attacks when calculating their multiple attack penalty. If this Strike hits, the babau deals an additional 1d6 damage and the creature struck is [[Conditions/Sickened|Sickened 2]] for 1 round; this [[Conditions/Sickened|Sickened]] condition cannot be removed by retching."

@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tree Claws +14 ()\n__Damage__  2d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Tree Claws"
+    desc: "+14 ()\n__Damage__  2d8 + 5 slashing"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,poison) The dragon forest rot breathes a toxic cloud that deals 5d6 poison damage in a @Template[cone|distance:15] (DC 20 Fortitude check save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,poison) The dragon forest rot breathes a toxic cloud that deals 5d6 poison damage in a 15-foot cone (DC 20 Fortitude check save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
  
 ```
 

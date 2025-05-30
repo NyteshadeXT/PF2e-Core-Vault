@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Stonebound Dedication
 * * *
-You learn to call a powerful guardian of earth and stone to your side. You can cast [[Summon Elemental|Summon Elemental]] as an innate primal spell once per day, and can only summon elementals with the earth trait. This spell is automatically heightened to half your level rounded up.
+You learn to call a powerful guardian of earth and stone to your side. You can cast [[Spells/Summon Elemental|Summon Elemental]] as an innate primal spell once per day, and can only summon elementals with the earth trait. This spell is automatically heightened to half your level rounded up.
 
 *Source: Pathfinder #195: Heavy is the Crown*
 *OGL*

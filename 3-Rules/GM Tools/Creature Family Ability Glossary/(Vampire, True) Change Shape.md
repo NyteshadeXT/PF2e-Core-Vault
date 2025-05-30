@@ -6,7 +6,7 @@ tags:
   - trait/concentrate
   - trait/divine
   - trait/polymorph
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.ZMTnwyXjyfy7Ryi6"
@@ -23,9 +23,9 @@ license: ORC
 
 The vampire transforms into one of its animal forms or back into its normal form. Most vampires can turn into a bat, but some can turn into a different creature, such as a rat or a wolf.
 
-Use the options in the [[Aerial Form|Aerial Form]] and [[Animal Form|Animal Form]] spells as guidelines.
+Use the options in the [[Spells/Aerial Form|Aerial Form]] and [[Spells/Animal Form|Animal Form]] spells as guidelines.
 
-*   **Bat** The vampire changes into a [[3-Rules/Bestiaries/Bestiary 1/V/Vampire Bat Swarm|Bat Swarm]] or [[3-Rules/Bestiaries/Bestiary 1/G/Giant Bat|Giant Bat]]. They gain echolocation 40 feet, a land Speed of 20 feet and a fly Speed of 30 feet, and a fangs Strike with the same attack bonus as their highest melee attack. These fangs deal the same amount of damage as the vampire's claws, but deal piercing damage rather than slashing damage.
+*   **Bat** The vampire changes into a [[Monster Core/Vampire Bat Swarm|Bat Swarm]] or [[Monster Core/Giant Bat|Giant Bat]]. They gain echolocation 40 feet, a land Speed of 20 feet and a fly Speed of 30 feet, and a fangs Strike with the same attack bonus as their highest melee attack. These fangs deal the same amount of damage as the vampire's claws, but deal piercing damage rather than slashing damage.
 
 * * *
 

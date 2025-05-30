@@ -65,23 +65,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile, reach 10 feet)\n__Damage__  1d10 + 7 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, reach 10 feet, unarmed)\n__Damage__  1d10 + 7 slashing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +13 (reach 10 feet, sweep)\n__Damage__  1d12 + 7 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+13 (reach 10 feet, sweep)\n__Damage__  1d12 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +13 (agile, sweep)\n__Damage__  1d6 + 7 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+13 (agile, sweep)\n__Damage__  1d6 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 (reach 10 feet)\n__Damage__  1d12 + 7 piercing plus werecreature-curse-of-the-werecreature"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (reach 10 feet, unarmed)\n__Damage__  1d12 + 7 piercing plus werecreature-curse-of-the-werecreature"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +10 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 7 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+10 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 7 slashing"
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) *   **Human**\n    *   **Size** Medium\n    *   **Melee** fist +13 **Damage** 1d4+7\n*   **Grizzly Bear**\n    *   **Speed** 35 feet\n* * *\n\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\n\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\n\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) *   **Human**\n    *   **Size** Medium\n    *   **Melee** fist +13 **Damage** 1d4+7\n*   **Grizzly Bear**\n    *   **Speed** 35 feet\n* * *\n\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\n\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\n\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Curse of the Werecreature|Curse of the Werebear]]"
     desc: " (curse,primal) This curse affects only humanoids.\n* * *\n\n**Saving Throw** DC 18 Fortitude check\n\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn.\n\nThe creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."
@@ -96,7 +96,7 @@ attacks:
     desc: " (polymorph,primal) When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2.\n\nWhen the moon sets or the sun rises, the werecreature returns to humanoid form and is [[Conditions/Fatigued|Fatigued]] for 2d4 hours.\n\n[[Bestiary Effects/Effect_ Moon Frenzy|Effect: Moon Frenzy]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -62,16 +62,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 (unholy)\n__Damage__  2d10 + 6 piercing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (unarmed, unholy)\n__Damage__  2d10 + 6 piercing 1d6 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile, unholy)\n__Damage__  2d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile, unarmed, unholy)\n__Damage__  2d8 + 6 slashing"
 
   - name: "Divine Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Flicker|Blink (At Will)]]_, _[[Spells/Confusion|Confusion]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Enlarge|Enlarge]]_; __3rd __  _[[Spells/Levitate|Levitate (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_; __1st __  _[[Spells/Charm|Charm]]_"

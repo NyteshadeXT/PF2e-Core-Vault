@@ -21,5 +21,5 @@ Granted by [[Feats/Geobukseon Retaliation|Geobukseon Retaliation]]
 
 You gain a +4 circumstance bonus to AC and resistance 2 to bludgeoning, piercing, and slashing damage.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

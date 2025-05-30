@@ -57,6 +57,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Staff of Power|Lorthact's Staff of Power]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
   - name: "Divination Immunity"
     desc: "  As a side effect of existing slightly outside the normal time stream, Lorthact is difficult to detect via divination spells and abilities. These effects function as though Lorthact and items he carries are not present, and those specifically targeting him, such as scrying, fail entirely unless the source of the divination is a higher level than Lorthact-in which case they succeed only if the caster succeeds at a secret flat check."
 
@@ -65,17 +68,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +32 (two-hand d8, unholy, versatile p)\n__Damage__  3d4 + 14 bludgeoning plus thought-theft 2d8 mental plus thought-theft"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+32 (two-hand d8, unholy, versatile p)\n__Damage__  3d4 + 14 bludgeoning plus thought-theft 2d8 mental plus thought-theft"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +30 (agile, magical, unholy)\n__Damage__  3d4 + 14 slashing plus thought-theft 2d8 mental plus thought-theft"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+30 (agile, magical, unarmed, unholy)\n__Damage__  3d4 + 14 slashing plus thought-theft 2d8 mental plus thought-theft"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 37, attack +29; __8th __  _[[Spells/Desiccate|Horrid Wilting]]_; __5th __  _[[Spells/Shadow Blast|Shadow Blast]]_; __4th __  _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_"
 
   - name: "Arcane Innate Spells"
-    desc: "DC 37, attack +29; __8th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Quandary|Maze]]_, _[[Spells/Suggestion|Suggestion]]_; __7th __  _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Teleport|Teleport]]_; __6th __  _[[Spells/Dominate|Dominate (x2)]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Scrying|Scrying (x3)]]_, _[[Spells/Slow|Slow]]_; __5th __  _[[Spells/Translocate|Dimension Door (At Will)]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_\n__Constant__  __(8th)__ _[[Spells/Truespeech|Tongues]]_"
+    desc: "DC 37, attack +29; __8th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Quandary|Maze]]_, _[[Spells/Suggestion|Suggestion]]_; __7th __  _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Teleport|Teleport]]_; __6th __  _[[Spells/Dominate|Dominate (x2)]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Scrying|Scrying (x3)]]_, _[[Spells/Slow|Slow]]_; __5th __  _[[Spells/Translocate|Dimension Door (At Will)]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_\n__Constant__  __(8th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Arcane Absorption"
     desc: "`pf2:3` (arcane,manipulate,mental) **Requirements** Any creature adjacent to Lorthact is [[Conditions/Stupefied|Stupefied]], capable of casting prepared arcane spells, and is either [[Conditions/Immobilized|Immobilized]], [[Conditions/Unconscious|Unconscious]], or willing\n* * *\n\n**Effect** Lorthact attempts to drain a 1st- through 8th-rank prepared spell from the target, who can resist with a successful DC 37 Will check saving throw. On a failure or against a willing target, the prepared arcane spell is transferred from that creature as if it were cast, and Lorthact immediately prepares that spell in the same rank slot. If he already had a spell prepared in that slot, the previously prepared spell is lost. That creature is then immune to Arcane Absorption for 24 hours."

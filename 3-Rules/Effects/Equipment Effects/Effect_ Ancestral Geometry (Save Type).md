@@ -16,7 +16,9 @@ license: OGL
 
 
 
+Granted by [[Equipment/Ancestral Geometry|Ancestral Geometry]]
 
+Determines the save type.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -25,5 +25,5 @@ license: OGL
 
 You draw on your connection with the Shadow Plane to see through all but the deepest darkness. You gain greater darkvision for 1 minute.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

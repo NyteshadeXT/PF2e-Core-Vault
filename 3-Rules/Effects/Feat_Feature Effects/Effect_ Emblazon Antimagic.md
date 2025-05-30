@@ -19,8 +19,8 @@ license: ORC
 
 Granted by [[Feats/Emblazon Antimagic|Emblazon Antimagic]]
 
-*   **Shield** When the wielder has the shield raised, they gain the shield's circumstance bonus to saving throws against magic.
-*   **Weapon** When the weapon's wielder critically hits with the weapon, they can attempt to counteract a spell on their target, using half their level, rounded up, as the counteract rank.
+*   **Shield** You gain the shield's circumstance bonus to saving throws against magic.
+*   **Weapon** When you critically hit with the weapon, you can attempt to counteract a spell on the target, using half your level, rounded up, as the counteract rank.
 
 *Source: Pathfinder Player Core*
 *ORC*

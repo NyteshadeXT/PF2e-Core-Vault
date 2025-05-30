@@ -50,31 +50,34 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +12 (deadly d8)\n__Damage__  2d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+12 (deadly d8, unarmed)\n__Damage__  2d6 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Longspear +12 (reach 10 feet)\n__Damage__  1d8 + 7 piercing"
+  - name: "**Melee** `pf2:1` Longspear"
+    desc: "+12 (reach 10 feet)\n__Damage__  1d8 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Lightning Echo +14 (electricity, range 60 feet)\n__Damage__  2d10 electricity 1d4 electricity"
+  - name: "**Ranged** `pf2:1` Lightning Echo"
+    desc: "+14 (electricity, range 60 feet)\n__Damage__  2d10 electricity 1d4 electricity"
 
   - name: "Primal Innate Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Animal Messenger|Animal Messenger (Ravens Only)]]_, _[[Spells/Speak with Animals|Speak with Animals]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Gentle Landing|Feather Fall]]_\n__Constant__  __(2nd)__ _[[Spells/Vanishing Tracks|Pass Without Trace]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The kadlaka can change their appearance to that of a Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes but might change the type of damage their melee Strikes deal (typically to bludgeoning). While in their humanoid shape, the kadlaka can't use Wingbeat. Each kadlaka has a fixed humanoid form-they can't adopt a different appearance each time they use this ability.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The kadlaka can change their appearance to that of a Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes but might change the type of damage their melee Strikes deal (typically to bludgeoning). While in their humanoid shape, the kadlaka can't use Wingbeat. Each kadlaka has a fixed humanoid form-they can't adopt a different appearance each time they use this ability.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Silent Lightning"
     desc: " (illusion,primal) A kadlaka's movements are practically silent. Against a creature using only hearing to perceive them, they gain a +4 circumstance bonus to their Stealth check. As normal, this benefit also improves the kadlaka's Stealth DC."
 
   - name: "Wingbeat"
-    desc: "`pf2:2` (primal,sonic) The kadlaka beats their wings with a mighty peal of thunder. Creatures in a @Template[emanation|distance:15] take 5d6 sonic damage (DC 21 Fortitude check). On a failed save, the creature is also pushed 5 feet away from the kadlaka.\n\nThe kadlaka can't use Wingbeat again for 1d4 rounds."
+    desc: "`pf2:2` (primal,sonic) The kadlaka beats their wings with a mighty peal of thunder. Creatures in a 15-foot emanation take 5d6 sonic damage (DC 21 Fortitude check). On a failed save, the creature is also pushed 5 feet away from the kadlaka.\n\nThe kadlaka can't use Wingbeat again for 1d4 rounds."
  
 ```
 

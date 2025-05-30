@@ -31,7 +31,7 @@ trait_02: [[dinosaur]]
 modifier: 9
 perception:
   - name: "Perception"
-    desc: "+9; "
+    desc: "+9; Low-Light Vision, Scent (Imprecise) 30 Feet"
 languages: ""
 skills:
   - name: "Skills"
@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Head +10 ()\n__Damage__  1d8 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Head"
+    desc: "+10 ()\n__Damage__  1d8 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +10 (agile)\n__Damage__  1d6 + 4 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+10 (agile)\n__Damage__  1d6 + 4 bludgeoning plus knockdown"
  
 ```
 

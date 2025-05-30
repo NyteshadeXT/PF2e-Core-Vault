@@ -58,16 +58,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spore Burst"
-    desc: " (healing,void) When a hyphae tyrant dies, a burst of primal energy explodes from its body in a @Template[emanation|distance:30], restoring 3d8 to each fungus creature and dealing 3d8 void damage (basic Fortitude save) to each non-fungus creature in the area. This area is filled with fungus, becoming difficult terrain."
+    desc: " (healing,void) When a hyphae tyrant dies, a burst of primal energy explodes from its body in a 30-foot emanation, restoring 3d8 to each fungus creature and dealing 3d8 void damage (basic Fortitude save) to each non-fungus creature in the area. This area is filled with fungus, becoming difficult terrain."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +10 (agile, finesse)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+10 (agile, finesse, unarmed)\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spore Pod +12 (range increment 30 feet)\n__Damage__  2d6 + 3 bludgeoning plus spores"
+  - name: "**Ranged** `pf2:1` Spore Pod"
+    desc: "+12 (range increment 30 feet)\n__Damage__  2d6 + 3 bludgeoning plus spores"
 
   - name: "Occult Prepared Spells"
     desc: "DC 21, attack +13; __1st __  _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Lose the Path|Lose the Path]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_"
@@ -76,13 +76,13 @@ attacks:
     desc: "DC 20, attack +12; __4th __  _[[Spells/Speak with Plants|Speak with Plants]]_; __1st __  _[[Spells/Protector Tree|Protector Tree (Creates Fungus)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Mycoguardian|Create Mycoguardian]]_"
+    desc: "_Create Mycoguardian_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph) The hyphae tyrant transforms into a Small fungus. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph) The hyphae tyrant transforms into a Small fungus. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "[[Actor.zMoOfK6QSycciTaG.Item.eA8XIQs39g3Y3ATP|Spore Cloud]]"
-    desc: "`pf2:1` (poison) A hyphae tyrant unleashes a cloud of spores in a @Template[emanation|distance:20]. Each non-fungi creature in this area must succeed at a DC 20 Fortitude check save or take 2 persistent poison damage. A creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet (or 10 feet on a critical failure)."
+    desc: "`pf2:1` (poison) A hyphae tyrant unleashes a cloud of spores in a 20-foot emanation. Each non-fungi creature in this area must succeed at a DC 20 Fortitude check save or take 2 persistent poison damage. A creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet (or 10 feet on a critical failure)."
 
   - name: "Spores"
     desc: "  A creature that takes damage from a hyphae tyrant's spore pod Strike must attempt a saving throw with the same DC and effect as its Spore Cloud ability."

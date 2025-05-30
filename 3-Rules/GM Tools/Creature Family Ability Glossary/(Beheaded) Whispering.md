@@ -7,14 +7,14 @@ tags:
   - trait/emotion
   - trait/fear
   - trait/mental
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.X0KoXRDEJYYtwGgK"
 license: OGL
 ---
 # (Beheaded) Whispering
 
-### [[3-Rules/trait_reference/A/aura]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]]
+### [[aura]][[emotion]][[fear]][[mental]]
 
 **Category** offensive; 
 

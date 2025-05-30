@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stone Knife +13 (agile, finesse, versatile s)\n__Damage__  2d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Stone Knife"
+    desc: "+13 (agile, finesse, versatile s)\n__Damage__  2d4 + 4 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Vapor Form|Gaseous Form]]_, _[[Spells/Ice Storm|Ice Storm]]_, _[[Spells/Solid Fog|Solid Fog]]_; __3rd __  _[[Spells/Fireball|Fireball (Deals Cold Damage)]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Mirror Image|Mirror Image (Wand)]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __  _[[Spells/Chilling Spray|Chilling Spray]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Snowball|Snowball]]_\n__Cantrips__  __(4th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Sigil|Sigil]]_"

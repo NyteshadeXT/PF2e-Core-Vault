@@ -4,14 +4,14 @@ title: "Affix a Fulu"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.9Nmz5114UB87n7Aj"
 license: OGL
 ---
 # Affix a Fulu `pf2:1`
 
-### [[3-Rules/Rule References/Manipulate]]
+### [[manipulate]]
 
 **Category** interaction; 
 

@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[3-Rules/Character Building/Equipment/A/Amphisbaena Spittle|Amphisbaena Spittle]]
+Granted by [[Equipment/Amphisbaena Spittle|Amphisbaena Spittle]]
 
-The eye blinks open, preventing the target from being flanked.
+The target cannot be flanked until the start of its next turn.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

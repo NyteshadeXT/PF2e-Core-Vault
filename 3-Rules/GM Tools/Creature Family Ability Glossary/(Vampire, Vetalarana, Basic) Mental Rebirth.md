@@ -7,14 +7,14 @@ tags:
   - trait/incapacitation
   - trait/mental
   - trait/occult
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.268Q7HdtylwpznvG"
 license: OGL
 ---
 # (Vampire, Vetalarana, Basic) Mental Rebirth
 
-### [[curse]][[incapacitation]][[3-Rules/trait_reference/M/mental]][[occult]]
+### [[curse]][[incapacitation]][[mental]][[occult]]
 
 **Category** defensive; 
 

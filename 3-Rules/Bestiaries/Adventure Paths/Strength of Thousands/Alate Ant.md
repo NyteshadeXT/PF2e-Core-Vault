@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +32 (finesse)\n__Damage__  3d8 + 10 slashing plus grab"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+32 (finesse)\n__Damage__  3d8 + 10 slashing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +32 (agile, finesse)\n__Damage__  3d4 + 10 piercing plus red-ant-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+32 (agile, finesse)\n__Damage__  3d4 + 10 piercing plus red-ant-venom"
 
   - name: "Frenzy"
     desc: "`pf2:1`  **Frequency** Once per day\n* * *\n\n**Effect** The alate ant enters a state of jittery agitation. It becomes [[Conditions/Quickened|Quickened]] for 3 rounds and can use the extra action only to Fly or Strike."
@@ -69,13 +69,13 @@ attacks:
     desc: "  The alate ant deals an additional 3d6 precision damage to any creature within reach of at least two of the ant's allies."
 
   - name: "Pheromone Spray"
-    desc: "`pf2:2` (emotion,mental) The alate ant sprays a cloud of pheromones in a @Template[cone|distance:15]. Non-ant creatures in the cone must succeed at a DC 37 Will check save or become [[Conditions/Confused|Confused]] for 1d4 rounds (1 minute on a critical failure). It can't use Pheromone Spray again for 1d4 rounds."
+    desc: "`pf2:2` (emotion,mental) The alate ant sprays a cloud of pheromones in a 15-foot cone. Non-ant creatures in the cone must succeed at a DC 37 Will check save or become [[Conditions/Confused|Confused]] for 1d4 rounds (1 minute on a critical failure). It can't use Pheromone Spray again for 1d4 rounds."
 
   - name: "Red Ant Venom"
     desc: " (poison) While a creature is enfeebled from this poison, it is [[Conditions/Confused|Confused]] (this confusion is an emotion, enchantment, and mental effect).\n\n**Saving Throw** DC 37 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 3d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 4d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)\n\n**Stage 3** 6d6 poison damage and [[Conditions/Enfeebled|Enfeebled 3]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

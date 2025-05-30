@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Ascendant Dragon Spirit|Ascendant Dragon Spirit]]
+
 Your unarmed Strikes deal an additional 1d6 poison damage and an additional 1d6 void damage.
 
 *Source: Pathfinder #199: To Bloom Below the Web*

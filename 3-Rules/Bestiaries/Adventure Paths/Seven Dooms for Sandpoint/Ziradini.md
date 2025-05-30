@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +18 (magical, shove)\n__Damage__  1d6 cold 2d8 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+18 (magical, shove)\n__Damage__  1d6 cold 2d8 + 9 bludgeoning"
 
   - name: "Divine Prepared Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_; __3rd __  _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Vampiric Feast|Vampiric Feast]]_; __2nd __  _[[Spells/Silence|Silence]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Command|Command]]_, _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(4th)__ _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Void Warp|Void Warp]]_"

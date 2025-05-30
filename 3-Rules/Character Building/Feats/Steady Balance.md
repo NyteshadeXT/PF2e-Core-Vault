@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** trained in Acrobatics
 * * *
-You can keep your balance easily, even in adverse conditions. Whenever you roll a success using the [[Actions/Balance|Balance]] action, you get a critical success instead. You're not [[Conditions/Off-Guard|Off-Guard]] while attempting to Balance on narrow surfaces and uneven ground. Thanks to your incredible balance, you can attempt an Acrobatics check instead of a Reflex save to [[Actions/Grab an Edge|Grab an Edge]].
+You can keep your balance easily, even in adverse conditions. Whenever you roll a success using the [[Actions/Balance|Balance]] action, you get a critical success instead. You're not [[Conditions/Off-Guard|Off-Guard]] while attempting to Balance on narrow surfaces and uneven ground.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +18 (electricity, finesse)\n__Damage__  2d8 + 6 piercing plus coppermouth-venom 1d4 electricity plus coppermouth-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+18 (electricity, finesse)\n__Damage__  2d8 + 6 piercing plus coppermouth-venom 1d4 electricity plus coppermouth-venom"
 
   - name: "Coppermouth Venom"
     desc: " (electricity,poison) **Saving Throw** DC 25 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison and 1d6 electricity (1 round)\n\n**Stage 2** 2d6 poison and 1d6 electricity and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 3** 2d6 poison and 2d6 electricity and [[Conditions/Clumsy|Clumsy 2]]"
@@ -70,7 +70,7 @@ attacks:
     desc: "`pf2:2` (electricity) The coppermouth manipulates its own nervous system by increasing its reaction time, Striding and making two Strikes against different targets during the movement. Both attacks count toward its multiple attack penalty, but the penalty doesn't increase until after it has made both attacks."
 
   - name: "Venomous Spit"
-    desc: "`pf2:2` (electricity,poison) The coppermouth unleashes a stream of electrified venom in a @Template[line|distance:30]. The venom deals 8d6 electricity damage (DC 22 Reflex check) and creatures that take damage from the venom are immediately exposed to coppermouth venom. The copper mouth can't use Venomous Spit again for 1d4 rounds."
+    desc: "`pf2:2` (electricity,poison) The coppermouth unleashes a stream of electrified venom in a 30-foot line. The venom deals 8d6 electricity damage (DC 22 Reflex check) and creatures that take damage from the venom are immediately exposed to coppermouth venom. The copper mouth can't use Venomous Spit again for 1d4 rounds."
  
 ```
 

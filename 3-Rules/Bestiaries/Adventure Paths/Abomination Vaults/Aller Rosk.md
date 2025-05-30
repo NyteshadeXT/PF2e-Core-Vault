@@ -58,14 +58,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d8 + 7 piercing plus ghoul-ghoul-fever,ghoul-paralysis"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (unarmed)\n__Damage__  2d8 + 7 piercing plus ghoul-ghoul-fever,ghoul-paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile)\n__Damage__  2d6 + 7 slashing plus ghoul-paralysis"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, unarmed)\n__Damage__  2d6 + 7 slashing plus ghoul-paralysis"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Tattooed Flesh]]"
     desc: "`pf2:1` (manipulate) **Requirements** Aller is adjacent to a tattooed scrap of flesh or to the corpse of a creature that died within the last hour\n\nAller devours a bite of flesh and regains 4d6 healing Hit Points. If the piece of flesh was tattooed, he is also [[Conditions/Quickened|Quickened 1]] and can use this extra action to make a jaws Strike.\n\nAller then can't Consume Flesh for 1d4 rounds. He has one piece of tattooed flesh on his person."

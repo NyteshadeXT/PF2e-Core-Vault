@@ -55,6 +55,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "[[Creature Family Ability Glossary/(Ghost) Site Bound|Site Bound]]"
     desc: "  The nemhaith is bound to a place or large stationary object and can't venture more than 500 feet from this focus.\n* * *\n\nA typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location."
 
@@ -66,14 +69,17 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) Destroying the ritual object or place used in the nemhaith's creation destroys the nemhaith, freeing its bound spirits to move on to the afterlife.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spirit Tendril +29 (agile, finesse, magical)\n__Damage__  3d10 + 14 void plus drain-life"
+  - name: "**Melee** `pf2:1` Spirit Tendril"
+    desc: "+29 (agile, finesse, magical)\n__Damage__  3d10 + 14 void plus drain-life"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spirit Dart +29 (agile, magical, range 100 feet)\n__Damage__  3d8 + 14 void plus drain-life"
+  - name: "**Ranged** `pf2:1` Spirit Dart"
+    desc: "+29 (agile, magical, range 100 feet)\n__Damage__  3d8 + 14 void plus drain-life"
 
   - name: "Divine Innate Spells"
     desc: "DC 36, attack +28; __8th __  _[[Spells/Execute|Execute (x3)]]_, _[[Spells/Harm|Harm (x3)]]_, _[[Spells/Wall of Force|Wall of Force]]_"
@@ -82,7 +88,7 @@ attacks:
     desc: " (divine) When the nemhaith damages a living creature with its spirit tendril Strike, the creature must succeed at a DC 36 Fortitude check save or become [[Conditions/Drained|Drained 2]].\n\nFurther damage dealt by the nemhaith increases the condition value by 1 on a failed save, to a maximum of drained 4."
 
   - name: "Rage of Spirits"
-    desc: "`pf2:2`  The nemhaith's bound spirits rage and smash everything in a @Template[emanation|distance:30]. Creatures in this area take 4d6 sonic damage and 4d6 void damage (DC 36 Fortitude check save)."
+    desc: "`pf2:2`  The nemhaith's bound spirits rage and smash everything in a 30-foot emanation. Creatures in this area take 4d6 sonic damage and 4d6 void damage (DC 36 Fortitude check save)."
 
   - name: "Throw Spirits"
     desc: "`pf2:1`  The nemhaith directs its bound spirits as a group to move up to 1 mile away (they have a fly Speed of 60 feet). The nemhaith can see and hear through the thrown spirits, but it loses its aura and can't use its spirit dart ranged Strike or Rage of Spirits.\n\nThe nemhaith regains these abilities when the spirits return to the nemhaith's space."

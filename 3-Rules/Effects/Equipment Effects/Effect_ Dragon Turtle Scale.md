@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Dragon Turtle Scale|Dragon Turtle Scale]]
+Granted by [[Equipment/Dragon Turtle Scale|Dragon Turtle Scale]], [[Equipment/Dragon Turtle Scale (Greater)|Dragon Turtle Scale (Greater)]]
 
-When you activate the scale, for 1 minute you gain a swim Speed equal to half your land Speed.
+You gain a swim Speed equal to half your land Speed or equal to your land Speed (_greater_) .
 
 *Source: Pathfinder GM Core*
 *ORC*

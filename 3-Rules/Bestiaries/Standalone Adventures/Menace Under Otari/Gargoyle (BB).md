@@ -3,7 +3,7 @@ title: "Gargoyle (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.aeCoh4u6c5kt1iCs" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.cvfIkEF6xmWn2soN" 
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/earth
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 ()\n__Damage__  2d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (unarmed)\n__Damage__  2d8 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile)\n__Damage__  2d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, unarmed)\n__Damage__  2d6 + 3 slashing"
 
   - name: "Statue"
     desc: "`pf2:1` (concentrate) Until the next time they use an action, the gargoyle appears to be a statue. A creature must succeed at a DC 32 Perception check check to figure out that the statue is really a creature."

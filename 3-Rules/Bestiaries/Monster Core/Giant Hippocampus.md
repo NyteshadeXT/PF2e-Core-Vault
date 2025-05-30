@@ -55,13 +55,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Buck|Buck]]"
-    desc: "`pf2:r`  DC 28 Reflex check"
+    desc: "`pf2:r`  DC 28 Reflex check\n* * *\n\nMost monsters that serve as mounts can attempt to buck off unwanted or annoying riders, but most mounts will not use this reaction against a trusted creature unless the mounts are spooked or mistreated.\n\n**Trigger** A creature [[Actions/Mount|Mounts]] or uses the [[Actions/Command an Animal|Command an Animal]] action while riding the monster.\n* * *\n\n**Effect** The triggering creature must succeed at a Reflex saving throw against the listed DC or fall off the creature and land [[Conditions/Prone|Prone]]. If the save is a critical failure, the triggering creature also takes 1d6 bludgeoning damage in addition to the normal damage for the fall."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +18 (reach 15 feet)\n__Damage__  2d6 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+18 (reach 15 feet)\n__Damage__  2d6 + 10 bludgeoning"
 
   - name: "Sudden Retreat"
     desc: "`pf2:2`  The giant hippocampus makes a tail Strike, then Swims with a +10-foot circumstance bonus to its swim Speed. It gains a +2 circumstance bonus to AC against reactions triggered by this movement."

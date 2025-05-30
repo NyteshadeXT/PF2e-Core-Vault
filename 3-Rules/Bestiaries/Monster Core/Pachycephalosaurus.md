@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Skull +11 (forceful, reach 10 feet)\n__Damage__  1d10 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Skull"
+    desc: "+11 (forceful, reach 10 feet)\n__Damage__  1d10 + 6 bludgeoning"
 
   - name: "Clobbering Charge"
     desc: "`pf2:2`  The pachycephalosaurus Strides up to its Speed. If it ends its movement within melee reach of a target, it can make a skull Strike against that target. If the pachycephalosaurus critically hits with this Strike, the creature hit is [[Conditions/Stunned|Stunned 1]]."

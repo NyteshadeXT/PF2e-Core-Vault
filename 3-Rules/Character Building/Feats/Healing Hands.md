@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** healing font
 * * *
-Your vitality is even more vibrant and restorative. When you cast [[Heal|Heal]], you roll d10s instead of d8s.
+Your vitality is even more vibrant and restorative. When you cast [[Spells/Heal|Heal]], you roll d10s instead of d8s.
 
 *Source: Pathfinder Player Core*
 *ORC*

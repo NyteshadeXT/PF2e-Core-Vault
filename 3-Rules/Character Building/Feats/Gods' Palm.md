@@ -25,5 +25,5 @@ You control your spirit energy when you attack, using it to reinforce yourself o
 
 [[Feat_Feature Effects/Effect_ God's Palm (Temporary Hit Points)|Effect: God's Palm (Temporary Hit Points)]]
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

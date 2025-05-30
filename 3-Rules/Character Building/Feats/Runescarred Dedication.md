@@ -28,7 +28,7 @@ Whether through blood (if you're Varisian, Shoanti, or New Thassilonian) or by e
 
 Choose one cantrip from the arcane list. One of the runes on your body corresponds to the chosen cantrip, and you can cast the chosen cantrip as an innate arcane spell.
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Runescarred|Runescarred]] archetype.
+[[PF2e Journals/Archetypes/Runescarred|Runescarred]]
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

@@ -68,8 +68,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spirit Fist +9 (finesse)\n__Damage__  2d4 + 5 force plus push"
+  - name: "**Melee** `pf2:1` Spirit Fist"
+    desc: "+9 (finesse)\n__Damage__  2d4 + 5 force plus push"
 
   - name: "Occult Innate Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Phantom Pain|Phantom Pain]]_; __1st __  _[[Spells/Command|Command (At Will)]]_"

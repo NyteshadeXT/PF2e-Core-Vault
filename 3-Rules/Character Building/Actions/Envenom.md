@@ -4,14 +4,14 @@ title: "Envenom"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX"
 license: OGL
 ---
 # Envenom `pf2:1`
 
-### [[3-Rules/Rule References/Manipulate]]
+### [[manipulate]]
 
 **Category** offensive; 
 
@@ -38,5 +38,5 @@ Through use of either saliva or blood, you use your innate toxins to apply vishk
 
 **Stage 3** 1d4 poison damage (1 round)
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

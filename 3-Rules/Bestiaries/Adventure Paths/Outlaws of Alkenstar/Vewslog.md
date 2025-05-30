@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
   - name: "Flash of Insight"
     desc: "`pf2:0` (divine,fortune,occult) **Trigger** Vewslog is about to roll a d20\n\n**Frequency** once per day\n* * *\n\n**Effect** The cyclops peers into an occluded spectrum of possible futures. He gets a success (but not a critical success) on the roll instead of rolling."
@@ -69,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +19 (reach 10 feet, sweep)\n__Damage__  1d12 + 10 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+19 (reach 10 feet, sweep)\n__Damage__  1d12 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dueling Pistol +21 (concealable, concussive, fatal d10, magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dueling Pistol"
+    desc: "+21 (concealable, concussive, fatal d10, magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 3 piercing"
 
   - name: "Deadeye"
     desc: "  Vewslog's ranged attacks deal an additional 4d6 precision damage."

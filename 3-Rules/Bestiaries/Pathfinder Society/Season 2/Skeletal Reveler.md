@@ -59,17 +59,20 @@ abilities_top:
     desc: "4x Broken Bottle, Serving Tray"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Serving Tray +6 ()\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Serving Tray"
+    desc: "+6 ()\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +6 (agile)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+6 (agile, unarmed)\n__Damage__  1d4 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Broken Bottle +6 (thrown 20 ft.)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Ranged** `pf2:1` Broken Bottle"
+    desc: "+6 (thrown 20 ft.)\n__Damage__  1d4 + 2 slashing"
  
 ```
 

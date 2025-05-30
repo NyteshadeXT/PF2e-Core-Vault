@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +17 (versatile p)\n__Damage__  1d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+17 (versatile p)\n__Damage__  1d8 + 7 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Clan Pistol +19 (concussive, fatal d10, magical, range increment 80 feet, reload 1)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Clan Pistol"
+    desc: "+19 (concussive, fatal d10, magical, range increment 80 feet, reload 1)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Firearms Critical Specialization"
     desc: "  When the shieldmarshal makes a critical hit with a firearm weapon, the target must succeed at a DC 25 Fortitude check save or be [[Conditions/Stunned|Stunned 1]]."

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Cold Iron Blanch (Greater)|Cold Iron Blanch (Greater)]]
+Granted by [[Equipment/Cold Iron Blanch (Greater)|Cold Iron Blanch (Greater)]]
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+The weapon or ammunition counts as cold iron instead of its normal precious material (such as silver) for any physical damage it deals, if applicable.
+
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

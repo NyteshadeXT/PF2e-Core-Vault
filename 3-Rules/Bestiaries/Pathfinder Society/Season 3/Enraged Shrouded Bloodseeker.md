@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Barbed Leg +12 (finesse)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Barbed Leg"
+    desc: "+12 (finesse)\n__Damage__ "
 
   - name: "Attach"
     desc: "  When a bloodseeker hits a target larger than itself, its barbed legs attach it to that creature. This is similar to grabbing the creature, but the bloodseeker moves with that creature rather than holding it in place.\n\nThe bloodseeker is [[Conditions/Off-Guard|Off-Guard]] while attached. If the bloodseeker is killed or pushed away while attached to a creature it has drained blood from, that creature takes 1 bleed damage.\n\nEscaping the attach or removing the bloodseeker in other ways doesn't cause bleed damage."

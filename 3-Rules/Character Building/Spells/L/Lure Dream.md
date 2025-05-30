@@ -36,5 +36,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You reach out to the dream realm, beckoning an animate dream to your side. This works like [[Spells/Summon Animal|Summon Animal]], except you summon an [[Bestiary 2/Animate Dream|Animate Dream]]."
-sourcebook: "_Pathfinder Lost Omens: Monsters of Myth_"
+sourcebook: "_Pathfinder Lost Omens Monsters of Myth_"
 ```

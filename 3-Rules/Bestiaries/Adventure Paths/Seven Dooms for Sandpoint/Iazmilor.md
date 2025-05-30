@@ -51,22 +51,28 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Warhammer|+1 Striking Voidglass Warhammer]], [[Equipment/Magic Wand (3rd-Rank Spell)|Wand of Blindness (Rank 3)]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 30 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "[[Bestiary 3/Grioth Scout/Echolocation (Precise) 30 feet|Echolocation (Precise) 30 feet]]"
     desc: "  A grioth can use its hearing as a precise sense at the listed range."
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
   - name: "[[Bestiary 3/Grioth Scout/No Breath|No Breath]]"
     desc: "  A grioth doesn't breathe except to speak and is immune to effects that require breathing (such as an inhaled poison)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +17 (shove)\n__Damage__  2d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+17 (shove)\n__Damage__  2d8 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 (agile, finesse)\n__Damage__  2d8 + 6 piercing plus grioth-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (agile, finesse, unarmed)\n__Damage__  2d8 + 6 piercing plus grioth-venom"
 
   - name: "Divine Prepared Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_; __3rd __  _[[Spells/Vampiric Feast|Vampiric Feast]]_; __2nd __  _[[Spells/Create Food|Create Food]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Silence|Silence]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(4th)__ _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Stabilize|Stabilize]]_"

@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/IRON_TAVIAH_FINAL.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Iron Taviah"
 level: "Creature 6"
@@ -64,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Iron Claws +16 (agile, cold iron, magical, reach 10 feet)\n__Damage__  2d8 + 6 slashing plus grab"
+  - name: "**Melee** `pf2:1` Iron Claws"
+    desc: "+16 (agile, cold iron, magical, reach 10 feet)\n__Damage__  2d8 + 6 slashing plus grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 21, attack +13; __3rd __  _[[Spells/False Vitality|False Life]]_, _[[Spells/Haste|Haste]]_"
@@ -74,16 +75,16 @@ attacks:
     desc: "DC 21, attack +13; __3rd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Curse of Lost Time|Curse of Lost Time]]_, _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Mimic Undead|Mimic Undead]]_, _[[Spells/Summon Construct|Summon Construct]]_, _[[Spells/Water Walk|Water Walk]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead (Zombie)]]_, _[[Spells/Elemental Sentinel|Elemental Sentinel]]_, _[[Spells/Heartbond|Heartbond]]_, _[[Spells/Inveigle|Inveigle]]_, _[[Spells/Mystic Carriage|Mystic Carriage]]_, _[[Spells/Phantasmal Custodians|Unseen Custodians]]_"
+    desc: "_Create Undead (Zombie)_, _Elemental Sentinel_, _Heartbond_, _Inveigle_, _Mystic Carriage_, _Unseen Custodians_"
 
   - name: "Bonds of Iron"
-    desc: "`pf2:2` (attack,occult) **Frequency** once per day\n* * *\n\n**Effect** Iron Taviah can cause a cage built of cold iron fingernails to spring from nothingness around a target at a range of up to 30 feet, attempting an Athletics check to [[Actions/Grapple|Grapple]] against the target's Fortitude DC; if the target has a weakness to cold iron, Taviah gains a +2 circumstance bonus to this check. Unlike a normal Grapple, Taviah doesn't need to be within reach and can move as she pleases, and a successful attempt lasts until the creature Escapes (DC 24), causing the cage to crumble into rust. Any creature can attempt to destroy the cage by attacking it; the cage has an AC of 19, Hardness 10, and 40 Hit Points."
+    desc: "`pf2:2` (attack,occult) **Frequency** once per day\n* * *\n\n**Effect** Iron Taviah can cause a cage built of cold iron fingernails to spring from nothingness around a target at a range of up to 30 feet, attempting an Athletics check to [[Actions/grapple|grapple]] against the target's Fortitude DC; if the target has a weakness to cold iron, Taviah gains a +2 circumstance bonus to this check. Unlike a normal Grapple, Taviah doesn't need to be within reach and can move as she pleases, and a successful attempt lasts until the creature [[Actions/escape dc=24|escape dc=24]]{Escapes} (DC 24), causing the cage to crumble into rust. Any creature can attempt to destroy the cage by attacking it; the cage has an AC of 19, Hardness 10, and 40 Hit Points."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) Iron Taviah can take on the appearance of any Medium female humanoid. This doesn't change her Speed, or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) Iron Taviah can take on the appearance of any Medium female humanoid. This doesn't change her Speed, or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  Claw\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
 
   - name: "Ritual Specialist"
     desc: "  Iron Taviah has a +2 circumstance bonus to the primary checks to perform a ritual. In addition, she can reduce the number of secondary casters for a ritual by 1. When she does, she must fulfill any requirements for the secondary caster, and she attempts the secondary check normally performed by that secondary caster. She can't replace a secondary caster who is the target of the spell (as in the [[Spells/Atone|Atone]] ritual)."
@@ -92,7 +93,7 @@ attacks:
     desc: "  When the characters meet Iron Taviah, the Graveclaw is at the height of its power. As a scattered coven, the Graveclaw grants Taviah the ability to cast the following spells as 3rd-rank occult spells, once per day each, without requiring help from her fellow coven members:[[Spells/Acid Arrow|Acid Arrow]], [[Spells/Curse of Lost Time|Curse of Lost Time]], [[Spells/Earthbind|Earthbind]], [[Spells/Harm|Harm]], [[Spells/Mimic Undead|Mimic Undead]], [[Spells/Summon Construct|Summon Construct]], and [[Spells/Water Walk|Water Walk]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

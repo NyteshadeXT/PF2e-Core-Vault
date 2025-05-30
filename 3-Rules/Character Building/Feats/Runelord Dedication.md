@@ -8,24 +8,23 @@ tags:
   - trait/dedication
   - trait/rare
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.mz2x4HFrWT8usbEL"
-license: OGL
+license: ORC
 ---
 # Runelord Dedication
 ## Feat 2
-### [rare](rare.md "Rare Rarity Trait")[[archetype]][[class]][[dedication]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[class]][[dedication]]
 
 **Category** class; 
 
 
 
-**Prerequisites** runelord specialization
+**Prerequisites** runelord
 * * *
-Your rune magic increases, and you practice with your school's associated weapon. You gain an additional cantrip of your chosen arcane school, and each time you gain a level (including this level), you add an additional spell from your chosen arcane school to your spellbook, with the same restrictions as the two spells you normally add.
+Your connection to your sin suffuses all magic you use. When you contemplate or indulge in your sin to Refocus, you can also exchange one spell you have prepared for one of your curriculum or sin spells of the same rank.
 
-* * *
+[[PF2e Journals/Archetypes/Runelord (Class Archetype)|Runelord (Class Archetype)]]
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Runelord|Runelord]] archetype.
-
-*Source: Pathfinder Secrets of Magic*
-*OGL*
+*Source: Pathfinder Lost Omens Rival Academies*
+*ORC*

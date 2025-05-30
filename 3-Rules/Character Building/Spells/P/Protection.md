@@ -35,6 +35,6 @@ abilities_top:
     desc: "1 minute"
 abilities_mid:
   - name: ""
-    desc: "You ward a creature against harm. The target gains a +1 status bonus to Armor Class and saving throws.\n* * *\n\n**Heightened (3rd)** You can choose to have the benefits also affect all your allies in a @Template[emanation|distance:10] around the target.\n\n[[Spell Effects/Spell Effect_ Protection|Spell Effect: Protection]]"
+    desc: "You ward a creature against harm. The target gains a +1 status bonus to Armor Class and saving throws.\n* * *\n\n**Heightened (3rd)** You can choose to have the benefits also affect all your allies in a 10-foot emanation around the target.\n\n[[Spell Effects/Spell Effect_ Protection|Spell Effect: Protection]]"
 sourcebook: "_Pathfinder Player Core_"
 ```

@@ -73,13 +73,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Jaws Only)]]"
-    desc: "`pf2:r`  Jaws only\n\n* * *\n"
+    desc: "`pf2:r`  Jaws only\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Dragonstorm Aura"
     desc: " (aura,divine) 10 feet. DC 45 Reflex check\n* * *\n\n10d6 damage split evenly between acid, cold electricity, fire, and poison."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 120 feet. DC 45 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 120 feet. DC 45 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Redirect Energy"
     desc: "`pf2:r` (divine) **Trigger** A creature within 100 feet casts an acid, cold, fire, electricity, or poison spell, or such a spell otherwise comes into effect from a source within 100 feet\n* * *\n\n**Effect** The manifestation of Dahak makes all the choices to determine the targets, destination, or other effects of the spell, as though it were the caster."
@@ -87,23 +87,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +44 (fire, magical, reach 20 feet)\n__Damage__  5d10 + 10 piercing plus improved-grab 4d6 fire plus improved-grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+44 (fire, magical, reach 20 feet, unarmed)\n__Damage__  5d10 + 10 piercing plus improved-grab 4d6 fire plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +44 (agile, magical, reach 15 feet)\n__Damage__  8d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+44 (agile, magical, reach 15 feet, unarmed)\n__Damage__  8d8 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +43 (magical, reach 25 feet)\n__Damage__  6d10 + 12 slashing plus improved-push"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+43 (magical, reach 25 feet)\n__Damage__  6d10 + 12 slashing plus improved-push"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +43 (agile, magical, reach 20 feet)\n__Damage__  8d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+43 (agile, magical, reach 20 feet)\n__Damage__  8d8 + 8 slashing"
 
   - name: "Prepared Divine Spells"
     desc: "DC 48, attack +44; __10th __  _[[Spells/Miracle|Miracle]]_; __9th __  _[[Spells/Massacre|Massacre]]_, _[[Spells/Telepathic Demand|Telepathic Demand]]_; __7th __  _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Execute|Finger of Death]]_; __6th __  _[[Spells/Blade Barrier|Blade Barrier]]_, _[[Spells/Spirit Blast|Spirit Blast]]_; __5th __  _[[Spells/Abyssal Plague|Abyssal Plague]]_, _[[Spells/Drop Dead|Drop Dead]]_; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d10+10 bludgeoning damage plus 2d6 fire damage, DC 48 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d10+10 bludgeoning damage plus 2d6 fire damage, DC 48 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon makes two claw Strikes and one wing Strike in any order."
@@ -112,10 +112,16 @@ attacks:
     desc: "  The dragon recharges its Breath Weapon whenever it scores a critical hit with a Strike."
 
   - name: "Dragonstorm Breath"
-    desc: "`pf2:2` (divine) The manifestation of Dahak breathes a blast of dragonstorm energy that deals 5d6 acid, 5d6 cold, 5d6 electricity, 5d6 fire, and 5d6 poison damage in a @Template[cone|distance:60] (DC 48 Reflex check save). It can't use Dragonstorm Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine) The manifestation of Dahak breathes a blast of dragonstorm energy that deals 5d6 acid, 5d6 cold, 5d6 electricity, 5d6 fire, and 5d6 poison damage in a 60-foot cone (DC 48 Reflex check save). It can't use Dragonstorm Breath again for 1d4 rounds."
 
   - name: "Focused Breath Weapon"
-    desc: "`pf2:1` (divine) The manifestation breathes a blast of energy that deals 12d12 damage in a @Template[line|distance:90] (DC 44 Reflex check save). The type of damage this Breath Weapon deals can be acid, cold, electricity, fire, or poison, as chosen by the manifestation when it attacks. The manifestation can't use its focused Breath Weapon again for 2 rounds, and the next time it uses its Breath Weapon, it must deal a different type of damage than the previous usage."
+    desc: "`pf2:1` (divine) The manifestation breathes a blast of energy that deals 12d12 damage in a 90-foot line (DC 44 Reflex check save). The type of damage this Breath Weapon deals can be acid, cold, electricity, fire, or poison, as chosen by the manifestation when it attacks. The manifestation can't use its focused Breath Weapon again for 2 rounds, and the next time it uses its Breath Weapon, it must deal a different type of damage than the previous usage."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
+
+  - name: "[[Bestiary Ability Glossary/Improved Push|Improved Push]]"
+    desc: "  The monster can use [[Bestiary Ability Glossary/Push|Push]] as a free action triggered by a hit with its initial attack."
  
 ```
 

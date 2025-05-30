@@ -26,5 +26,5 @@ To drink a creature's blood, either your last action must have been a fangs Stri
 
 Draining the life force from an unwilling humanoid creature is a greater violation than just drinking their blood. Taste Blood has the evil trait unless the target is willing or is an active foe in combat.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

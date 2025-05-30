@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +10 (agile, finesse, versatile s)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+10 (agile, finesse, versatile s)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sap +7 (agile, nonlethal)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Sap"
+    desc: "+7 (agile, nonlethal)\n__Damage__  1d6 + 2 bludgeoning"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 20, attack +10; __2nd __ (2 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __ (3 slots) _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Disguise Magic|Magic Aura]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"

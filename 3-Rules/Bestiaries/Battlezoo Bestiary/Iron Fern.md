@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Iron Leaf +10 (versatile p)\n__Damage__  2d4 + 4 slashing"
+  - name: "**Melee** `pf2:1` Iron Leaf"
+    desc: "+10 (versatile p)\n__Damage__  2d4 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Iron Leaf +7 (range increment 20 feet, versatile p)\n__Damage__  2d4 + 4 slashing"
+  - name: "**Ranged** `pf2:1` Iron Leaf"
+    desc: "+7 (range increment 20 feet, versatile p)\n__Damage__  2d4 + 4 slashing"
 
   - name: "Release Spores"
     desc: "`pf2:2`  The iron fern shakes its fronds mightily, creating a cloud of iron spores in a 30-foot emanation. The cloud lasts for 1 minute or until dispersed by a strong wind. A creature that begins its turn in the cloud takes 4d4 piercing damage (DC 17 basic Fortitude save). On a critical failure, the creature is [[Conditions/Blinded|Blinded]] for 1 round.\n\nThe iron fern can't Release Spores again for 1d4 rounds."

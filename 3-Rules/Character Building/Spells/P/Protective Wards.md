@@ -36,6 +36,6 @@ abilities_top:
     desc: "1 minute"
 abilities_mid:
   - name: ""
-    desc: "You expand a ring of glyphs that shields your allies. You and any allies in the area gain a +1 status bonus to AC. Each time you Sustain the spell, the emanation's radius increases by 5 feet, to a maximum of 30 feet.\n\n[[Spell Effects/Aura_ Protective Ward|Aura: Protective Ward]]"
+    desc: "You expand a ring of glyphs that shields your allies. You and any allies in the area gain a +1 status bonus to AC. Each time you Sustain the spell, the emanation's radius increases by 5 feet, to a maximum of 30 feet.\n\n[[Spell Effects/Aura_ Protective Wards|Aura: Protective Wards]]"
 sourcebook: "_Pathfinder Player Core_"
 ```

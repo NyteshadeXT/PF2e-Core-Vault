@@ -14,7 +14,7 @@ license: ORC
 ---
 # Moment of Clarity `pf2:1`
 ## Feat 1
-### [[barbarian]][[concentrate]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[concentrate]][[rage]]
 
 **Category** class; 
 

@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Warding Statuette|Warding Statuette]] and [[Warding Statuette (Greater)|Warding Statuette (Greater)]]
+Granted by [[Equipment/Warding Statuette|Warding Statuette]], [[Equipment/Warding Statuette (Greater)|Warding Statuette (Greater)]]
 
-The creature gains a +1 status bonus to AC until the start of your next turn.
+You gain a +1 status bonus to AC.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

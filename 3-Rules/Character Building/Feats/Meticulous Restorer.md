@@ -21,5 +21,5 @@ license: ORC
 
 Waste not, want not; your steady eye allows you to restore craftwork quickly while conserving valuable material. You gain the Quick Repair feat. In addition, when you roll a critical failure while attempting to Repair an item, you get a failure instead.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

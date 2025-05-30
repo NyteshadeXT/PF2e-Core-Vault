@@ -67,20 +67,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +11 (sweep)\n__Damage__  1d12 + 6 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+11 (sweep)\n__Damage__  1d12 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +11 (agile, sweep)\n__Damage__  1d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+11 (agile, sweep)\n__Damage__  1d6 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Antler +11 ()\n__Damage__  1d8 + 6 piercing plus werecreature-curse-of-the-werecreature"
+  - name: "**Melee** `pf2:1` Antler"
+    desc: "+11 ()\n__Damage__  1d8 + 6 piercing plus werecreature-curse-of-the-werecreature"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +8 (agile, thrown 10 ft.)\n__Damage__  1d6 + 6 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+8 (agile, thrown 10 ft.)\n__Damage__  1d6 + 6 slashing"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) Medium human with fist +11 for 1d4+6 bludgeoning,\n\nor\n\nLarge moose with antler and hoof +11 for 1d8+6 bludgeoning.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) Medium human with fist +11 for 1d4+6 bludgeoning,\n\nor\n\nLarge moose with antler and hoof +11 for 1d8+6 bludgeoning.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Curse of the Werecreature|Curse of the Weremoose]]"
     desc: " (curse,primal) This curse affects only humanoids.\n* * *\n\n**Saving Throw** DC 17 Fortitude check\n\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn.\n\nThe creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."

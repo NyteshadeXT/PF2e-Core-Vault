@@ -56,16 +56,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Stench|Stench]]"
-    desc: " (aura,olfactory) 10 feet, DC 14 Fortitude check\n\n* * *\n"
+    desc: " (aura,olfactory) 10 feet, DC 14 Fortitude check\n* * *\n\nA creature entering the aura or starting its turn in the area must succeed at a Fortitude save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] as long as it's sickened on a critical failure). A creature that succeeds at its save or recovers from being sickened is temporarily immune to all stench auras for 1 minute."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 (finesse)\n__Damage__  1d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (finesse, unarmed)\n__Damage__  1d8 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile, finesse)\n__Damage__  1d8 + 3 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, finesse, unarmed)\n__Damage__  1d8 + 3 slashing plus grab"
 
   - name: "Slurp Blood"
     desc: "`pf2:1` (divine) **Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within the tough Puddles ghoul's reach\n* * *\n\n**Effect** The ghoul bites the creature, slurping its blood. This requires an Athletics check against the target's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim takes 1d8+3 piercing damage and the tough Puddles ghoul regains 4 healing Hit Points, gaining any excess HP as temporary HP."
@@ -74,7 +77,7 @@ attacks:
     desc: "`pf2:1` (move) The Puddles ghoul jumps up to half its Speed or swims up to half its swim Speed. This movement doesn't trigger reactions."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

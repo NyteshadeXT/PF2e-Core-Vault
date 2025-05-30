@@ -68,7 +68,6 @@ None
 **Permanent Items**
 > - [x] [[Smuggler's Sack (Type I)]] [ilvl::4] [gp::75]
 > - [x] permanent::[[Rope of Climbing (Lesser)]] [ilvl::3] [gp::45]
-> - [x] permanent::[[Cold Iron Chunk|Low-Grade Cold Iron Longsword]] [ilvl::2] [gp::44]
 
 ## Post
 ### New Creations

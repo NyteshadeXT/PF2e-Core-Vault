@@ -18,7 +18,7 @@ license: ORC
 
 
 
-**Prerequisites** Tail Whip
+**Prerequisites** Iruxi Armaments (Tail)
 * * *
 **Trigger** You become [[Conditions/Grabbed|Grabbed]].
 

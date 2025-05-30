@@ -17,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Take Root|Take Root]]
+Granted by [[Spells/Take Root|Take Root]]
 
-The targeted creature gains a +1 circumstance bonus to their Fortitude DC against attempts to Shove them and a +1 circumstance bonus to their Reflex DC against attempts to Disarm or Trip them.
+You gain a +1 circumstance bonus to your Fortitude DC against attempts to Shove you and a +1 circumstance bonus to your Reflex DC against attempts to Disarm or Trip you.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

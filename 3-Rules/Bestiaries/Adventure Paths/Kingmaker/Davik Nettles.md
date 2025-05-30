@@ -53,6 +53,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Ranseur|+1 Ranseur]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Fearsome Gaze"
@@ -67,11 +70,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ranseur +14 (disarm, magical, reach 10 feet)\n__Damage__  1d10 + 7 piercing"
+  - name: "**Melee** `pf2:1` Ranseur"
+    desc: "+14 (disarm, magical, reach 10 feet)\n__Damage__  1d10 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +13 (agile)\n__Damage__  2d4 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+13 (agile, unarmed)\n__Damage__  2d4 + 7 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 21, attack +13; __4th __  _[[Spells/Nightmare|Nightmare]]_\n__Constant__  __(2nd)__ _[[Spells/Water Walk|Water Walk (Self Only)]]_"

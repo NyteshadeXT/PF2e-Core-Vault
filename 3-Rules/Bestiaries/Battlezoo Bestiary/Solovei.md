@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +15 (finesse)\n__Damage__  2d8 + 5 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+15 (finesse)\n__Damage__  2d8 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +15 (agile, finesse)\n__Damage__  2d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+15 (agile, finesse)\n__Damage__  2d6 + 5 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The solovei deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures.\n\n* * *\n"

@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fighting Fan +22 (agile, backstabber, deadly d6, finesse)\n__Damage__  2d4 + 6 slashing"
+  - name: "**Melee** `pf2:1` Fighting Fan"
+    desc: "+22 (agile, backstabber, deadly d6, finesse)\n__Damage__  2d4 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Energy Surge +22 (range increment 30 feet)\n__Damage__  4d6 + 6 fire"
+  - name: "**Ranged** `pf2:1` Energy Surge"
+    desc: "+22 (range increment 30 feet)\n__Damage__  4d6 + 6 fire"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 32, attack +24; __6th __ (2 slots) _[[Spells/Dominate|Dominate]]_, _[[Spells/Slow|Slow]]_; __5th __ (3 slots) _[[Spells/Mirror Malefactors|Mirror Malefactors]]_, _[[Spells/Repelling Pulse|Repelling Pulse]]_, _[[Spells/Rip the Spirit|Rip the Spirit]]_; __4th __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Containment|Containment]]_, _[[Spells/Telepathy|Telepathy]]_; __3rd __ (3 slots) _[[Spells/Force Barrage|Force Barrage]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Translate|Translate]]_; __2nd __ (3 slots) _[[Spells/Darkvision|Darkvision]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __ (3 slots) _[[Spells/Soothe|Soothe]]_, _[[Spells/Sure Strike|Sure Strike]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Read Aura|Read Aura]]_"
@@ -78,7 +78,7 @@ attacks:
     desc: "2 Focus Points, DC 32, attack +24; __6th __  _[[Spells/Counter Performance|Counter Performance]]_\n__Cantrips__  __(6th)__ _[[Spells/Courageous Anthem|Courageous Anthem]]_, _[[Spells/Dirge of Doom|Dirge of Doom]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Blight|Blight]]_"
+    desc: "_Blight_"
 
   - name: "Delicious"
     desc: "  Ghorans were originally created to be scrumptious food. A ghoran takes an additional 5 damage from jaws Strikes, fangs Strikes, or other similar Strikes with a creature's mouth. When a ghoran is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by a creature's jaws, fangs, or mouth, the DC to [[Actions/Escape|Escape]] is increased by 2."

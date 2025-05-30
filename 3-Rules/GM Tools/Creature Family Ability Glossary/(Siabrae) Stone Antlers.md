@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Siabrae) Stone Antlers"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.TIJ7r9lXvNYSIMLI"
 license: OGL

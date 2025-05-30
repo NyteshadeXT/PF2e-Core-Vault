@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Mace +13 (agile, finesse, shove)\n__Damage__  1d4 bludgeoning 2d8 poison"
+  - name: "**Melee** `pf2:1` Light Mace"
+    desc: "+13 (agile, finesse, shove)\n__Damage__  1d4 bludgeoning 2d8 poison"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bottled Lightning +14 (bomb, range increment 30 feet, splash)\n__Damage__  2d6 electricity 2 electricity"
+  - name: "**Ranged** `pf2:1` Bottled Lightning"
+    desc: "+14 (bomb, range increment 30 feet, splash)\n__Damage__  2d6 electricity 2 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Frost Vial +14 (bomb, range increment 30 feet, splash)\n__Damage__  2d6 cold 2 cold"
+  - name: "**Ranged** `pf2:1` Frost Vial"
+    desc: "+14 (bomb, range increment 30 feet, splash)\n__Damage__  2d6 cold 2 cold"
 
   - name: "Alchemical Formulas (5th)"
     desc: "  lesser antidote, moderate bottled lightning, moderate frost vial, graveroot, hunting spider venom, moderate quicksilver mutagen, moderate silvertongue mutagen"

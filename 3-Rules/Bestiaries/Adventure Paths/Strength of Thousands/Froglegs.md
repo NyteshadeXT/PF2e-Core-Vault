@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +20 (agile, finesse, magical, versatile s, deadly d10)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+20 (agile, finesse, magical, versatile s)\n__Damage__  1d4 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Habu&#x27;s Cudgel +19 (magical)\n__Damage__  2d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Habu&#x27;s Cudgel"
+    desc: "+19 (magical)\n__Damage__  2d6 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +20 (agile, magical, thrown 10 ft., versatile s, deadly d10)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+20 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
 
   - name: "Knife Fighter"
     desc: "  Froglegs deals an additional 2d6 precision damage with weapons from the knife group, and knives gain the deadly d10 weapon property while she wields them. (Already added to dagger attacks)"

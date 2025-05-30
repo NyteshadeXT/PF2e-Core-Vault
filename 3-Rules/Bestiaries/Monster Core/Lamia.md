@@ -58,17 +58,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +17 ()\n__Damage__  1d6 + 10 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+17 ()\n__Damage__  1d6 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +16 (agile)\n__Damage__  1d6 + 10 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+16 (agile)\n__Damage__  1d6 + 10 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +14 (thrown 10 ft.)\n__Damage__  1d6 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+14 (thrown 10 ft.)\n__Damage__  1d6 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +13 (thrown 30 ft.)\n__Damage__  1d6 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+13 (thrown 30 ft.)\n__Damage__  1d6 + 10 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Sleep|Sleep]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Humanoid Form|Humanoid Form (At Will)]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_, _[[Spells/Illusory Object|Illusory Object (At Will)]]_, _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_"
@@ -77,7 +77,7 @@ attacks:
     desc: "`pf2:2` (curse,mental,occult) The lamia touches a creature, who must succeed at a DC 23 Will check save or become [[Conditions/Stupefied|Stupefied 1]]. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of [[Conditions/Stupefied|Stupefied 4]]). This condition value decreases by 1 every 24 hours."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -21,5 +21,5 @@ license: OGL
 * * *
 You surround yourself in a mantle of Rain-Scribe magic and Stride twice; difficult terrain does not reduce your Speed, even if the difficult terrain has been manipulated by magic. Your magic clears the difficult terrain in each square you entered; until your next turn, those squares aren't difficult terrain for any creature walking through them (or are normal difficult terrain if they were previously greater difficult terrain).
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

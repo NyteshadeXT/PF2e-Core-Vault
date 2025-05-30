@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +9 (agile, finesse, versatile s)\n__Damage__  1d6 - 1 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+9 (agile, finesse, versatile s)\n__Damage__  1d6 - 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dart +9 (agile, range increment 20 feet, thrown)\n__Damage__  1d4 - 1 piercing plus black-adder-venom"
+  - name: "**Ranged** `pf2:1` Dart"
+    desc: "+9 (agile, range increment 20 feet, thrown)\n__Damage__  1d4 - 1 piercing plus black-adder-venom"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9; __2nd __ (1 slots) _[[Spells/Speak with Animals|Speak with Animals (At Will) (Arthropods Only)]]_; __1st __ (1 slots) _[[Spells/Bane|Bane]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"

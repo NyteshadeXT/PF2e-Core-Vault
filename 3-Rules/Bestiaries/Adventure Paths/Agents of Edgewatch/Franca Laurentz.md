@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +27 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 9 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+27 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +27 (magical, range increment 120 feet, reload 1)\n__Damage__  2d8 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+27 (magical, range increment 120 feet, reload 1)\n__Damage__  2d8 piercing"
 
   - name: "Bloody Rebel"
     desc: "`pf2:2`  Franca quickly slashes at nearby foes, aiming to maim rather than disable. She makes up to three melee Strikes, each against a different creature within reach.\n\nThese Strikes count toward Franca's multiple attack penalty, but the penalty doesn't increase until after all three Strikes are made.\n\nOn a hit, the Strike deals 3 bleed damage instead of its normal damage.\n\nOn a critical hit, the creature is [[Conditions/Off-Guard|Off-Guard]] until the beginning of Franca's next turn or until they spend an action to remove the condition, whichever comes first."

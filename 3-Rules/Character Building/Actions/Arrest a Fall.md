@@ -3,15 +3,14 @@ obsidianUIMode: preview
 title: "Arrest a Fall"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
-  - trait/common
+  - trait/
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.qm7xptMSozAinnPS"
 license: ORC
 ---
 # Arrest a Fall `pf2:r`
 
-### [[general]]
+### 
 
 
 

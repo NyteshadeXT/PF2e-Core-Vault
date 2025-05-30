@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** zoophonia muse
 * * *
-You call to the wilds with the voice of a songbird, thereby summoning a cloud of its kin. You learn the [[3-Rules/Character Building/Spells/S/Songbird's Call|Songbird's Call]] composition spell.
+You call to the wilds with the voice of a songbird, thereby summoning a cloud of its kin. You learn the [[Spells/Songbird's Call|Songbird's Call]] composition spell.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

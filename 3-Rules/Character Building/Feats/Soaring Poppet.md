@@ -20,5 +20,5 @@ license: OGL
 
 Your construction has flaps of cloth or wicker that can keep you aloft. You gain a fly Speed of 15 feet.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

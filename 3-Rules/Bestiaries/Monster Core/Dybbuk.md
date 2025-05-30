@@ -56,16 +56,25 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/At-Will Spells|At-Will Spells]]"
+    desc: "  The monster can cast its at-will spells any number of times without using up spell slots."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 30 feet. DC 33 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 30 feet. DC 33 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +28 (agile, finesse, magical, unholy)\n__Damage__  3d10 + 14 void 2d6 spirit"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+28 (agile, finesse, magical, unholy)\n__Damage__  3d10 + 14 void 2d6 spirit"
 
   - name: "Occult Innate Spells"
     desc: "DC 36, attack +30; __6th __  _[[Spells/Dominate|Dominate]]_, _[[Spells/Never Mind|Never Mind]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver (At Will)]]_; __5th __  _[[Spells/Chilling Darkness|Chilling Darkness (x2)]]_, _[[Spells/Fear|Fear]]_; __4th __  _[[Spells/Rewrite Memory|Rewrite Memory]]_; __3rd __  _[[Spells/Fear|Fear (At Will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

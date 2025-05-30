@@ -54,6 +54,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Trap Dodger"
@@ -62,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Chained Dagger +30 (agile, finesse, magical, reach 10 feet, unholy, versatile s)\n__Damage__  4d4 + 14 piercing 2d6 bleed"
+  - name: "**Melee** `pf2:1` Chained Dagger"
+    desc: "+30 (agile, finesse, magical, reach 10 feet, unholy, versatile s)\n__Damage__  4d4 + 14 piercing 2d6 bleed"
 
   - name: "Divine Innate Spells"
     desc: "DC 32, attack +28; __7th __  _[[Spells/Rune Trap|Glyph of Warding (x3)]]_, _[[Spells/Paralyze|Paralyze]]_; __4th __  _[[Spells/Fear|Fear]]_, _[[Spells/Invisibility|Invisibility (At Will)]]_, _[[Spells/Phantom Pain|Phantom Pain (At Will)]]_; __2nd __  _[[Spells/Death Knell|Death Knell]]_\n__Constant__  __(4th)__ _[[Spells/Air Walk|Air Walk]]_ __(1st)__ _[[Spells/Detect Alignment|Detect Alignment (Good Only)]]_"

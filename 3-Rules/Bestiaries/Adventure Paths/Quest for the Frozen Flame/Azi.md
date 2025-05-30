@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +15 (magical, two-hand d8)\n__Damage__  1d6 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+15 (magical, two-hand d8)\n__Damage__  1d6 bludgeoning"
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 26, attack +18; __4th __ (4 slots) _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Boneshaker|Boneshaker]]_, _[[Spells/Enervation|Enervation]]_, _[[Spells/Talking Corpse|Talking Corpse]]_; __3rd __ (4 slots) _[[Spells/Bind Undead|Bind Undead]]_, _[[Spells/Blindness|Blindness]]_, _[[Spells/False Vitality|False Life]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (4 slots) _[[Spells/Bone Spray|Bone Spray]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/False Vitality|False Life]]_, _[[Spells/Sudden Blight|Sudden Blight]]_; __1st __ (4 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(4th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Guidance|Guidance]]_"

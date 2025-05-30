@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Engines of War"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/common
+  - trait/
   - category/army-tactic
 aliases: "Compendium.pf2e.kingmaker-features.Item.8bBRW8SxM5bgwjXJ"
 license: OGL

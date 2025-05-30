@@ -54,6 +54,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Virulent Burst"
@@ -62,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stalk +10 (agile, disarm, finesse, trip)\n__Damage__  1d6 + 5 bludgeoning plus burning-sap"
+  - name: "**Melee** `pf2:1` Stalk"
+    desc: "+10 (agile, disarm, finesse, trip)\n__Damage__  1d6 + 5 bludgeoning plus burning-sap"
 
   - name: "Primal Innate Spells"
     desc: "DC 14, attack +6\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants (Weeds Only)]]_"

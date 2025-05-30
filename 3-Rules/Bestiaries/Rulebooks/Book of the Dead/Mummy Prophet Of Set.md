@@ -63,23 +63,26 @@ abilities_mid:
   - name: "Sand Vision"
     desc: "  The prophet ignores the [[Conditions/Concealed|Concealed]] condition from particles of sand and dust in the air."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +25 (magical)\n__Damage__  3d6 + 11 piercing plus sand-rot"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+25 (magical)\n__Damage__  3d6 + 11 piercing plus sand-rot"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +24 (agile)\n__Damage__  3d4 + 11 bludgeoning plus sand-rot"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+24 (agile, unarmed)\n__Damage__  3d4 + 11 bludgeoning plus sand-rot"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +24 (magical, thrown 20 ft.)\n__Damage__  3d6 + 11 piercing plus sand-rot"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+24 (magical, thrown 20 ft.)\n__Damage__  3d6 + 11 piercing plus sand-rot"
 
   - name: "Divine Prepared Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Eclipse Burst|Eclipse Burst]]_; __6th __  _[[Spells/Disintegrate|Disintegrate]]_; __5th __  _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Wall of Flesh|Wall of Flesh]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Cup of Dust|Cup of Dust]]_; __2nd __  _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Penumbral Shroud|Penumbral Shroud]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(7th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Breath of Sand"
-    desc: "`pf2:2` (concentrate,divine,earth,void) **Requirements** The prophet's Sandstorm is active\n* * *\n\n**Effect** The prophet inhales its Sandstorm, suppressing the effect until the end of the prophet's next turn. It then exhales a @Template[cone|distance:120] of negatively charged sand that deals 7d6 void and 7d6 slashing damage (DC 33 Reflex check)."
+    desc: "`pf2:2` (concentrate,divine,earth,void) **Requirements** The prophet's Sandstorm is active\n* * *\n\n**Effect** The prophet inhales its Sandstorm, suppressing the effect until the end of the prophet's next turn. It then exhales a 120-foot cone of negatively charged sand that deals 7d6 void and 7d6 slashing damage (DC 33 Reflex check)."
 
   - name: "Channel Rot"
     desc: " (divine) The mummy prophet of Set can deliver devastating rot through melee weapons they wield."
@@ -91,7 +94,7 @@ attacks:
     desc: " (curse,disease,divine) This affliction can't be reduced below stage 1, nor can damage from it be healed, until successfully treated with [[Spells/Cleanse Affliction|Cleanse Affliction]] or a similar effect; the affliction can then be removed as normal for a disease. A creature killed by sand rot turns to sand and can't be resurrected except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic\n\n**Saving Throw**DC 31 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 minute)\n\n**Stage 2** 12d6 void damage, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Stupefied|Stupefied 2]] (1 day)"
 
   - name: "Sandstorm"
-    desc: "`pf2:3` (divine,earth) **Frequency** once per day\n* * *\n\n**Effect** The mummy creates a temporary sandstorm in a @Template[emanation|distance:30] that lasts for 1 minute. Creatures within the emanation take a -4 circumstance penalty to Perception checks and must succeed at a DC 33 Fortitude check save or be forced to hold their breath or start suffocating. A creature within the sandstorm at the end of its turn takes 2d6 void and 1d6 slashing damage."
+    desc: "`pf2:3` (divine,earth) **Frequency** once per day\n* * *\n\n**Effect** The mummy creates a temporary sandstorm in a 30-foot emanation that lasts for 1 minute. Creatures within the emanation take a -4 circumstance penalty to Perception checks and must succeed at a DC 33 Fortitude check save or be forced to hold their breath or start suffocating. A creature within the sandstorm at the end of its turn takes 2d6 void and 1d6 slashing damage."
  
 ```
 

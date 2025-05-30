@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +24 (electricity)\n__Damage__  2d12 + 5 piercing 2d6 electricity"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+24 (electricity, unarmed)\n__Damage__  2d12 + 5 piercing 2d6 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Electrical Burst +22 (electricity, range 60 feet)\n__Damage__  4d10 electricity"
+  - name: "**Ranged** `pf2:1` Electrical Burst"
+    desc: "+22 (electricity, range 60 feet)\n__Damage__  4d10 electricity"
 
   - name: "Healing Pulse"
     desc: "`pf2:3` (electricity,healing,primal) The lightning turtle releases a pulse of low-intensity electricity from its body to promote healing. This restores 5d8 healing Hit Points to the turtle and each living ally within 10 feet, including creatures normally immune to electricity. The turtle can't use Healing Pulse again for 1 minute and is temporarily immune to the Healing Pulse of any lightning turtle for 1 minute."

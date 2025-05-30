@@ -37,7 +37,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, Deception: +7, Occultism: +22, Stealth: +25, Athletics: +22, Deception: +7, Occultism: +22, Stealth: +25, Parenting Lore: +20"
+    desc: "Athletics: +22, Deception: +7, Occultism: +22, Stealth: +25, Parenting Lore: +20"
 abilityMods: [5, 4, 3, 2, 5, 7]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +24 (magical)\n__Damage__  3d6 + 11 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+24 (magical)\n__Damage__  3d6 + 11 bludgeoning plus improved-grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 32, attack +24; __6th __  _[[Spells/Rewrite Memory|Modify Memory]]_, _[[Spells/Sleep|Sleep (x2)]]_; __5th __  _[[Spells/Soothe|Soothe (x2)]]_; __4th __  _[[Spells/Rewrite Memory|Modify Memory (x2)]]_, _[[Spells/Sleep|Sleep (x2)]]_; __1st __  _[[Spells/Sanctuary|Sanctuary]]_"

@@ -61,11 +61,14 @@ abilities_mid:
   - name: "Despair"
     desc: " (aura,divine,emotion,fear,incapacitation,mental) 30 feet. Living creatures are [[Conditions/Frightened|Frightened 1]] while in a mummy guardian's despair aura. They can't naturally recover from this fear while in the area but recover instantly once they leave the area. When a creature first enters the area, it must succeed at a DC 22 Will check save (after taking the penalty from being frightened) or be [[Conditions/Paralyzed|Paralyzed]] for 1 round. The creature is then temporarily immune for 24 hours.\n\n[[Bestiary Effects/Effect_ Despair|Effect: Despair]]"
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +16 ()\n__Damage__  2d6 + 7 bludgeoning plus blinding-rot"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+16 (unarmed)\n__Damage__  2d6 + 7 bludgeoning plus blinding-rot"
 
   - name: "Blinding Rot"
     desc: " (curse,disease,divine,void) Cilios's fist Strikes expose those they damage to blinding rot. This disease and any damage from it can't be healed until this curse is removed. A creature killed by blinding rot turns to dust and can't be resurrected except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic.\n\n**Saving Throw** DC 22 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 minute)\n\n**Stage 2** 4d6 void damage and [[Conditions/Dazzled|Dazzled]] (1 day)\n\n**Stage 3** 4d6 void damage and [[Conditions/Blinded|Blinded]] (1 day)"

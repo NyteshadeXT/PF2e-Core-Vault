@@ -54,19 +54,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 ()\n__Damage__  1d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (unarmed)\n__Damage__  1d8 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +8 ()\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+8 ()\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +7 (thrown 20 ft.)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+7 (thrown 20 ft.)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9; __1st __  _[[Spells/Charm|Charm]]_"

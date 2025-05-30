@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +9 (agile, finesse, versatile s)\n__Damage__  1d6 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+9 (agile, finesse, versatile s)\n__Damage__  1d6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +9 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+9 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
 
   - name: "Construct Trap"
     desc: "`pf2:3` (manipulate) The kobold scout creates a rudimentary trap on any square adjacent to it. This must be on a surface, such as a floor, wall, or ceiling. The trap activates the next time a creature moves adjacent to it.\n\nThe creature takes 1d6 piercing damage and 1 persistent bleed damage with a DC 16 Reflex check save. The trap is destroyed when activated or after 1 hour, whichever comes first.\n\nThe scout typically carries enough raw materials to make one trap."

@@ -58,25 +58,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Orc Knuckle Dagger +8 (agile, disarm)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Orc Knuckle Dagger"
+    desc: "+8 (agile, disarm)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +7 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+7 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Flask +9 (range increment 20 feet, splash)\n__Damage__  1 acid 1d6 acid 1 acid"
+  - name: "**Ranged** `pf2:1` Acid Flask"
+    desc: "+9 (range increment 20 feet, splash)\n__Damage__  1 acid 1d6 acid 1 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire +9 (range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire"
+    desc: "+9 (range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bottled Lightning +9 (range increment 20 feet, splash)\n__Damage__  1d6 electricity 1 electricity"
+  - name: "**Ranged** `pf2:1` Bottled Lightning"
+    desc: "+9 (range increment 20 feet, splash)\n__Damage__  1d6 electricity 1 electricity"
  
 ```
 

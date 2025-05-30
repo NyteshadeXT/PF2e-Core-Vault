@@ -41,6 +41,6 @@ abilities_top:
     desc: "until the next time you make your daily preparations"
 abilities_mid:
   - name: ""
-    desc: "You sanctify the area, sprinkling it with certain oils and warding it against your foes. Choose aberrations, celestials, dragons, fiends, monitors, or undead. All creatures in the area gain a +1 status bonus to AC, attack rolls, damage rolls, and saving throws against the chosen creatures."
+    desc: "You sanctify the area, sprinkling it with certain oils and warding it against your foes. Choose aberrations, celestials, dragons, fiends, monitors, or undead. All creatures in the area gain a +1 status bonus to AC, attack rolls, damage rolls, and saving throws against the chosen creatures.\n\n[[Spell Effects/Spell Effect_ Anointed Ground|Spell Effect: Anointed Ground]]"
 sourcebook: "_Pathfinder Player Core 2_"
 ```

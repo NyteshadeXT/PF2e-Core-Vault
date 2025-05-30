@@ -62,17 +62,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Infested Touch +15 (finesse, magical)\n__Damage__  2d10 + 4 void"
+  - name: "**Melee** `pf2:1` Infested Touch"
+    desc: "+15 (finesse, magical)\n__Damage__  2d10 + 4 void"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Wrathful Toss (bludgeoning) +13 (magical, occult, range increment 60 feet)\n__Damage__  2d12 bludgeoning"
+  - name: "**Ranged** `pf2:1` Wrathful Toss (bludgeoning)"
+    desc: "+13 (magical, occult, range increment 60 feet)\n__Damage__  2d12 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Wrathful Toss (piercing) +13 (magical, occult, range increment 160 feet)\n__Damage__  2d12 piercing"
+  - name: "**Ranged** `pf2:1` Wrathful Toss (piercing)"
+    desc: "+13 (magical, occult, range increment 160 feet)\n__Damage__  2d12 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Wrathful Toss (slashing) +13 (magical, occult, range increment 60 feet)\n__Damage__  2d12 slashing"
+  - name: "**Ranged** `pf2:1` Wrathful Toss (slashing)"
+    desc: "+13 (magical, occult, range increment 60 feet)\n__Damage__  2d12 slashing"
 
   - name: "Scrap Tempest"
     desc: "`pf2:2` (concentrate,occult) The infested clockwork heap unleashes a cloud of loosely connected debris that whirls around its body at incredible speed. Each creature within 30 feet takes 2d10 bludgeoning damage (DC 22 Fortitude check)."

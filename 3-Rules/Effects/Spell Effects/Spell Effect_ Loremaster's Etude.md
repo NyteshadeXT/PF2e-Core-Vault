@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[3-Rules/Character Building/Spells/L/Loremaster's Etude|Loremaster's Etude]]
+Granted by [[Spells/Loremaster's Etude|Loremaster's Etude]]
 
 Roll the triggering Recall Knowledge skill check twice and use the higher result.
 

@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Much like morrignas, you feel an affinity for spiders. You can cast [[Animal Messenger|Animal Messenger]], [[Speak with Animals|Speak with Animals]], and [[Gecko Grip|Gecko Grip]] each once per day as 2nd-rank divine innate spells.
+Much like morrignas, you feel an affinity for spiders. You can cast [[Spells/Animal Messenger|Animal Messenger]], [[Spells/Speak with Animals|Speak with Animals]], and [[Spells/Gecko Grip|Gecko Grip]] each once per day as 2nd-rank divine innate spells.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

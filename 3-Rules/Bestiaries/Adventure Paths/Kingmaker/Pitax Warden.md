@@ -54,16 +54,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +26 (versatile p)\n__Damage__  2d12 + 9 slashing"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+26 (versatile p)\n__Damage__  2d12 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +23 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+23 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 9 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 30, attack +22; __4th __ (1 slots) _[[Spells/Discern Lies|Discern Lies]]_; __3rd __ (1 slots) _[[Spells/Haste|Haste]]_; __2nd __ (1 slots) _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __ (1 slots) _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Shield|Shield]]_"

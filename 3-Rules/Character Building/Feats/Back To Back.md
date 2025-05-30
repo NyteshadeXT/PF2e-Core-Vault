@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Back To Back"
+title: "Back to Back"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/archetype
@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.E7eceezD3NDmBVBb"
 license: ORC
 ---
-# Back To Back
+# Back to Back
 ## Feat 8
 ### [[archetype]]
 

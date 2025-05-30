@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Mask of Allure|Mask of Allure]]
+Granted by [[Equipment/Mask of Allure|Mask of Allure]]
+
+You gain a +4 status bonus to the triggering check.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

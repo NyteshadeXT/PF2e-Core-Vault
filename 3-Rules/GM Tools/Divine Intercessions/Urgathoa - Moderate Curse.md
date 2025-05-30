@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Urgathoa - Moderate Curse"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/curse
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.9EMaYf6odFEyjdSr"
 license: OGL
 ---
 # Urgathoa - Moderate Curse
-
+## Feat 1
 ### 
 
 **Category** curse; 
@@ -19,5 +19,5 @@ license: OGL
 
 Urgathoa cuts you off from vitality energy without granting you the blessing of undeath. You are harmed by vitality effects and don't recover Hit Points from them, as if you were an undead or had void healing, but you are still harmed by void effects as normal.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

@@ -4,8 +4,9 @@ title: "Effect: Overdrive"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.1XlJ9xLzL19GHoOL"
-license: OGL
+license: ORC
 ---
 # Effect: Overdrive
 ## Level 1
@@ -16,7 +17,9 @@ license: OGL
 
 
 
-Your gizmos go into a state of incredible efficiency called critical overdrive, adding great power to your attacks. Your Strikes deal additional damage equal to your Intelligence modifier for 1 minute. After the Overdrive ends, your gizmos become unusable as they cool down or reset, and you can't use Overdrive for 1 minute.
+Granted by [[Actions/Overdrive|Overdrive]]
+
+Your Strikes deal additional damage equal to your Intelligence modifier on a critical success, or half your Intelligence modifier on a success. On a failure, your Strikes deal 1 additional fire damage instead.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

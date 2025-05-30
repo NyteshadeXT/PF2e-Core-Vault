@@ -19,13 +19,7 @@ license: ORC
 
 Granted by [[Feats/Buckler Dance|Buckler Dance]]
 
-* * *
-
-**Requirements** You are wielding a [[Buckler|Buckler]].
-
-* * *
-
-You constantly have your buckler raised as if you'd used [[Actions/Raise a Shield|Raise a Shield]].
+You constantly have your buckler raised as if you'd used Raise a Shield.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

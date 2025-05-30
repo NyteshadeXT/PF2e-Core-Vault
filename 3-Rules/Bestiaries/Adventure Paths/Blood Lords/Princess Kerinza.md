@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/PZO90183_kerinzaDoll.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Princess Kerinza"
 level: "Creature 10"
@@ -61,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 (agile, finesse, magical)\n__Damage__  2d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+23 (agile, finesse, magical, unarmed)\n__Damage__  2d8 + 6 bludgeoning"
 
   - name: "Occult Innate Spells"
     desc: "DC 28, attack +20; __5th __  _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Harm|Harm]]_; __4th __  _[[Spells/Fly|Fly]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_\n__Cantrips__  __(5th)__ _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"

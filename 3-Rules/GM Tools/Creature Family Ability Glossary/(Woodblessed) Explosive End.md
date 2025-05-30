@@ -13,14 +13,14 @@ license: ORC
 ---
 # (Woodblessed) Explosive End
 
-### [[primal]][[Wood]]
+### [[primal]][[wood]]
 
 **Category** offensive; 
 
 
 
 
-When the woodblessed dies, the planar portal inside of them collapses, causing them to explode in a @Template\[burst|distance:20\] of vines that deal 1d6 bludgeoning damage per level to all creatures with a Reflex check save against the woodblessed's spell DC. The woodblessed's body is completely consumed, though their root network and gear remain behind.
+When the woodblessed dies, the planar portal inside of them collapses, causing them to explode in a 20-foot burst of vines that deal 1d6 bludgeoning damage per level to all creatures with a Reflex check save against the woodblessed's spell DC. The woodblessed's body is completely consumed, though their root network and gear remain behind.
 
 *Source: Pathfinder #202: Severed at the Root*
 *ORC*

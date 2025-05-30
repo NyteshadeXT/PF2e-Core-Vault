@@ -16,7 +16,9 @@ license: OGL
 
 
 
-The creatures gains a +4 status bonus to Deceptions checks to pass as their chosen age, and can add their level to this check as a proficiency bonus if untrained.
+Granted by [[Equipment/Tteokguk of Time Advancement|Tteokguk of Time Advancement]]
+
+You gain a +4 status bonus to Deceptions checks to pass as your chosen age, and can add your level to this check as a proficiency bonus if untrained.
 
 *Source: Pathfinder Blog*
 *OGL*

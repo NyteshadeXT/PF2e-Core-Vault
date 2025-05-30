@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 title: "Advance"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/maneuver
-  - trait/common
+  - trait/
   - category/army-war-action
 aliases: "Compendium.pf2e.kingmaker-features.Item.wHoXoyci1lddRR2R"
 license: OGL
 ---
 # Advance `pf2:1`
-
+## 
 ### [[maneuver]]
 
 **Category** army-war-action; 

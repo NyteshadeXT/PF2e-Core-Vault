@@ -54,6 +54,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Miasma of Pollution"
@@ -62,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +29 (magical, reach 15 feet, unholy)\n__Damage__  3d8 + 14 bludgeoning plus pollution-infusion 1d6 spirit plus pollution-infusion"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+29 (magical, reach 15 feet, unarmed, unholy)\n__Damage__  3d8 + 14 bludgeoning plus pollution-infusion 1d6 spirit plus pollution-infusion"
 
   - name: "Divine Innate Spells"
     desc: "DC 38, attack +28; __8th __ (2 slots) _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Spiritual Epidemic|Spiritual Epidemic]]_; __5th __ (2 slots) _[[Spells/Toxic Cloud|Cloudkill (At Will)]]_, _[[Spells/Translocate|Dimension Door]]_; __4th __ (1 slots) _[[Spells/Translocate|Dimension Door (At Will)]]_; __1st __ (1 slots) _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_"
@@ -72,7 +75,7 @@ attacks:
     desc: " (disease,virulent) Non-fiend creatures adjacent to the afflicted creature take a -1 circumstance penalty to saving throws against disease\n\n**Saving Throw** DC 36 Fortitude check\n\n**Stage 1** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 2** [[Conditions/Doomed|Doomed 1]] and [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 3** [[Conditions/Doomed|Doomed 1]] and [[Conditions/Drained|Drained 2]] (1 day)\n\n**Stage 4** [[Conditions/Doomed|Doomed 2]] and [[Conditions/Drained|Drained 2]] (1 week)\n\n**Stage 5** dead.\n\n[[Bestiary Effects/Effect_ Pollution Infusion|Effect: Pollution Infusion]]"
 
   - name: "Retch of Foulness"
-    desc: "`pf2:2` (acid,divine) The sordesdaemon exhales a spray of sewage that deals 8d6 acid damage and 8d6 poison damage in a @Template[cone|distance:30] (DC 40 Fortitude check save).\n\nIt can't use Retch of Foulness again for 1d4 rounds."
+    desc: "`pf2:2` (acid,divine) The sordesdaemon exhales a spray of sewage that deals 8d6 acid damage and 8d6 poison damage in a 30-foot cone (DC 40 Fortitude check save).\n\nIt can't use Retch of Foulness again for 1d4 rounds."
  
 ```
 

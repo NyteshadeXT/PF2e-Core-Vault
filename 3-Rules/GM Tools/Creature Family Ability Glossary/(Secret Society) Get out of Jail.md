@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Secret Society) Get out of Jail"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.3oajfAIPSf77dSBL"
 license: OGL
 ---

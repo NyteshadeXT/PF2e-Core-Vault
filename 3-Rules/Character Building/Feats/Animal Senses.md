@@ -24,5 +24,5 @@ You gain one of the following senses available to your inherent animal: darkvisi
 
 **Special** You can select this feat multiple times, choosing a different sense each time.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

@@ -24,19 +24,19 @@ You are the center of your own tiny tempest, ever surrounded by wind and rain th
 
 #### Minor Curse
 
-An aura of a whirling storm whips up in a @Template\[emanation|distance:5\] around you and in your space. The aura puts out small non-magical fires 1 round after they're lit or brought into your aura.
+An aura of a whirling storm whips up in a 5-foot emanation around you and in your space. The aura puts out small non-magical fires 1 round after they're lit or brought into your aura.
 
 Electrical energy builds up within your storm, turning you into a lightning rod; you gain weakness 2 to electricity, and electricity spells or effects that have additional effects for a creature wearing or holding metal treat you as though you were wearing metal.
 
 #### Moderate Curse
 
-Your minor curse's aura expands to a @Template\[emanation|distance:10\] and carries rain on the winds. The whirling winds impose a -2 circumstance penalty on ranged attack rolls using physical ammunition that target you or originate from you.
+Your minor curse's aura expands to a 10-foot emanation and carries rain on the winds. The whirling winds impose a -2 circumstance penalty on ranged attack rolls using physical ammunition that target you or originate from you.
 
 Your weakness to electricity increases to 5 or half your level, whichever is greater, but torrential rain grants you an equal amount of fire resistance.
 
 #### Major Curse (11th)
 
-Your minor curse's aura expands to a @Template\[emanation|distance:15\] and grows stronger. High winds blowing outward in the aura impede creatures' progress. The aura is difficult terrain for Large and smaller creatures on the ground, and for Huge or smaller flying creatures. You aren't affected by this difficult terrain.
+Your minor curse's aura expands to a 15-foot emanation and grows stronger. High winds blowing outward in the aura impede creatures' progress. The aura is difficult terrain for Large and smaller creatures on the ground, and for Huge or smaller flying creatures. You aren't affected by this difficult terrain.
 
 The electricity arcing through you becomes dangerous. Any creature that touches you or damages you with an unarmed melee attack or non-reach melee weapon takes 1d6 electricity damage. As normal, this doesn't affect creatures you touch.
 

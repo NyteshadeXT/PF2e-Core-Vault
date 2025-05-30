@@ -22,5 +22,5 @@ license: OGL
 * * *
 You are able to weave your words in such a way that you never use actual lies, but still mislead people to certain conclusions. You can attempt to make a [[Actions/Request|Request]] of a creature using Deception instead of Diplomacy. You can attempt to [[Actions/Lie|Lie]] to a creature using Diplomacy instead of Deception. If you fail your check to Lie, the creature realizes that you were twisting words to fool them without outright lying.
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

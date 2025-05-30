@@ -12,7 +12,7 @@ license: OGL
 ---
 # Like a Roach
 ## Feat 1
-### [rare](rare.md "Rare Rarity Trait")[[downtime]][[reincarnated]]
+### [rare](rare "Rare Rarity Trait")[[downtime]][[reincarnated]]
 
 **Category** ancestry; 
 

@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Knife +9 (agile, versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Knife"
+    desc: "+9 (agile, versatile s)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Knife +9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Knife"
+    desc: "+9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 18, attack +10; __1st __ (2 slots) _[[Spells/Hydraulic Push|Hydraulic Push (x2)]]_\n__Cantrips__  __(1st)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ray of Frost|Ray of Frost]]_"

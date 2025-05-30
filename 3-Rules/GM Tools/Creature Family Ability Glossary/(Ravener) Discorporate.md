@@ -4,7 +4,7 @@ title: "(Ravener) Discorporate"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/divine
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.HLPLYJ9bOazb2ZPX"
 license: OGL

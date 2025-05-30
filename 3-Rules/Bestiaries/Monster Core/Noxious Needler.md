@@ -60,16 +60,16 @@ abilities_mid:
     desc: "  A noxious needler's body contains six alchemical chambers filled with different substances. When a noxious needler's ability calls upon a randomly determined alchemical effect, roll 1d6 and consult the following (if you roll the result of a chamber that was shattered, there is no alchemical effect):\n\n  \n\n| 1d6 | Alchemical Effect |\n| --- | --- |\n| 1 | Acid Damage |\n| 2 | Cold Damage |\n| 3 | Electricity Damage |\n| 4 | Fire Damage |\n| 5 | Poison Damage |\n| 6 | Sickness: DC 26 Fortitude check save or [[Conditions/Sickened\\|Sickened 1]] ([[Conditions/Sickened\\|Sickened 2]] on a critical failure) |"
 
   - name: "Alchemical Rupture"
-    desc: "  When a noxious needler takes physical damage from a critical hit or is affected by a shatter spell, one glass chamber within its body shatters, spewing alchemical liquid in a @Template[emanation|distance:5]. Roll on the alchemical chambers list to determine which one shatters—on a roll of 1–5, creatures in the area take 10d6 damage of the appropriate type (DC 28 basic Reflex). On a roll of 6, creatures must instead save against the sickness effect.\n\n  \n\n| 1d6 | Alchemical Effect |\n| --- | --- |\n| 1 | 10d6 acid damage DC 28 Reflex check |\n| 2 | 10d6 cold damage DC 28 Reflex check |\n| 3 | 10d6 electricity damage DC 28 Reflex check |\n| 4 | 10d6 fire damage DC 28 Reflex check |\n| 5 | 10d6 poison damage DC 28 Reflex check |\n| 6 | Sickness: DC 26 Fortitude check save or [[Conditions/Sickened\\|Sickened 1]] ([[Conditions/Sickened\\|Sickened 2]] on a critical failure) |"
+    desc: "  When a noxious needler takes physical damage from a critical hit or is affected by a shatter spell, one glass chamber within its body shatters, spewing alchemical liquid in a 5-foot emanation. Roll on the alchemical chambers list to determine which one shatters—on a roll of 1–5, creatures in the area take 10d6 damage of the appropriate type (DC 28 basic Reflex). On a roll of 6, creatures must instead save against the sickness effect.\n\n  \n\n| 1d6 | Alchemical Effect |\n| --- | --- |\n| 1 | 10d6 acid damage DC 28 Reflex check |\n| 2 | 10d6 cold damage DC 28 Reflex check |\n| 3 | 10d6 electricity damage DC 28 Reflex check |\n| 4 | 10d6 fire damage DC 28 Reflex check |\n| 5 | 10d6 poison damage DC 28 Reflex check |\n| 6 | Sickness: DC 26 Fortitude check save or [[Conditions/Sickened\\|Sickened 1]] ([[Conditions/Sickened\\|Sickened 2]] on a critical failure) |"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Syringe +22 (magical, reach 10 feet)\n__Damage__  2d10 + 6 piercing plus alchemical-injection"
+  - name: "**Melee** `pf2:1` Syringe"
+    desc: "+22 (magical, reach 10 feet)\n__Damage__  2d10 + 6 piercing plus alchemical-injection"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bomb +20 (magical, thrown 20 ft.)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Bomb"
+    desc: "+20 (magical, thrown 20 ft.)\n__Damage__ "
 
   - name: "Alchemical Injection"
     desc: "  When a noxious needler hits a creature with a syringe Strike, roll 1d6 on the alchemical chambers list to determine the additional effect of the attack. The syringe deals an additional 2d6 damage of the appropriate type (or exposes the target to the sickness effect, as appropriate).\n\n  \n\n| 1d6 | Alchemical Effect |\n| --- | --- |\n| 1 | 2d6 acid damage |\n| 2 | 2d6 cold damage |\n| 3 | 2d6 electricity damage |\n| 4 | 2d6 fire damage |\n| 5 | 2d6 poison damage |\n| 6 | Sickness: DC 26 Fortitude check save or [[Conditions/Sickened\\|Sickened 1]] ([[Conditions/Sickened\\|Sickened 2]] on a critical failure) |"

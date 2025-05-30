@@ -51,13 +51,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tusk +12 ()\n__Damage__  2d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Tusk"
+    desc: "+12 (unarmed)\n__Damage__  2d6 + 6 piercing"
 
   - name: "Boar Charge"
     desc: "`pf2:2`  The boar Strides twice and then makes a tusk Strike. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll."

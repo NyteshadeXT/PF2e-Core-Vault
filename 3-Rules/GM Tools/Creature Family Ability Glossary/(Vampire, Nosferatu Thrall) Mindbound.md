@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Vampire, Nosferatu Thrall) Mindbound"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.LKxsPOf0hAS32Sp8"
 license: OGL

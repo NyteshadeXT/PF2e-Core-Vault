@@ -6,8 +6,9 @@ tags:
   - trait/automaton
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.uclbKFsrqCW6tQmB"
-license: OGL
+license: ORC
 ---
 # Core Rejuvenation `pf2:0`
 ## Feat 13
@@ -20,7 +21,7 @@ license: OGL
 
 **Frequency** once per day
 
-**Trigger** You have the dying condition and are about to attempt a recovery check.
+**Trigger** You have the [[Conditions/Dying|Dying]] condition and are about to attempt a recovery check.
 
 * * *
 
@@ -29,4 +30,4 @@ Your soul taps into your core's power to push against the grasp of death and all
 **Enhancement** Your soul can draw even more power from your core, granting you additional benefits. When you use Core Rejuvenation, you also gain a number of temporary Hit Points equal to three times your level. These Hit Points remain for 1 minute.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

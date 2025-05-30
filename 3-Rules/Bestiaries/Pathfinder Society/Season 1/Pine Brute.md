@@ -56,13 +56,13 @@ abilities_mid:
     desc: "  A pine brute takes 5 additional damage from axes."
 
   - name: "Sap"
-    desc: "  A pine brute's bark secretes sticky sap. Any creature that hits the pine brute with a melee attack, is hit by the pine brute, or otherwise touches the pine brute must succeed at a DC 17 Reflex check save or suffer the effects of a lesser tanglefoot bag, also becoming [[Conditions/Clumsy|Clumsy 1]] until the sticky substance is removed. A creature striking the pine brute with a weapon or object can automatically succeed at this Reflex save by leaving the object stuck to the pine brute. The object can then be removed with a successful DC 17 Athletics check check (made as a single action).\n\nA pine brute can have any number of objects stuck to it at a time. The pine brute can release a stuck object by using a single action, and the sap dissolves 1 minute after the pine brute dies, releasing all stuck objects.\n\n[[Equipment Effects/Effect_ Glue Bomb (Lesser)|Effect: Tanglefoot Bag (Lesser)]]"
+    desc: "  A pine brute's bark secretes sticky sap. Any creature that hits the pine brute with a melee attack, is hit by the pine brute, or otherwise touches the pine brute must succeed at a DC 17 Reflex check save or suffer the effects of a lesser tanglefoot bag, also becoming [[Conditions/Clumsy|Clumsy 1]] until the sticky substance is removed. A creature striking the pine brute with a weapon or object can automatically succeed at this Reflex save by leaving the object stuck to the pine brute. The object can then be removed with a successful DC 17 Athletics check check (made as a single action).\n\nA pine brute can have any number of objects stuck to it at a time. The pine brute can release a stuck object by using a single action, and the sap dissolves 1 minute after the pine brute dies, releasing all stuck objects.\n\n[[Equipment Effects/Effect_ Glue Bomb|Effect: Tanglefoot Bag (Lesser)]]"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +8 ()\n__Damage__  1d6 + 3 piercing plus sap"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+8 ()\n__Damage__  1d6 + 3 piercing plus sap"
  
 ```
 

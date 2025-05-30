@@ -66,20 +66,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +25 (magical, reach 15 feet)\n__Damage__  3d10 + 12 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+25 (magical, reach 15 feet, unarmed)\n__Damage__  3d10 + 12 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +25 (agile, magical, reach 10 feet)\n__Damage__  3d6 + 12 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+25 (agile, magical, reach 10 feet)\n__Damage__  3d6 + 12 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +23 (magical, reach 20 feet)\n__Damage__  3d8 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+23 (magical, reach 20 feet)\n__Damage__  3d8 + 12 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 35, attack +27; __6th __  _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Mirage|Mirage]]_, _[[Spells/Vibrant Pattern|Vibrant Pattern]]_; __4th __  _[[Spells/Illusory Object|Illusory Object (At Will)]]_, _[[Spells/Invisibility|Invisibility]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_\n__Cantrips__  __(7th)__ _[[Spells/Figment|Figment]]_, _[[Spells/Message|Message]]_"
 
   - name: "Captivating Display"
-    desc: "`pf2:1` (arcane,visual) **Frequency** once per 10 minutes\n* * *\n\n**Effect** The dragon opens the fins on their head, creating a radiant display of enthralling colors. Each creature in a @Template[emanation|distance:30] must succeed at a DC 33 Will check save or be [[Conditions/Dazzled|Dazzled]] and [[Conditions/Slowed|Slowed 1]] (or [[Conditions/Slowed|Slowed 2]] on a critical failure) for 1 round. Regardless of the result, a creature is then temporarily immune to Captivating Display for 1 minute."
+    desc: "`pf2:1` (arcane,visual) **Frequency** once per 10 minutes\n* * *\n\n**Effect** The dragon opens the fins on their head, creating a radiant display of enthralling colors. Each creature in a 30-foot emanation must succeed at a DC 33 Will check save or be [[Conditions/Dazzled|Dazzled]] and [[Conditions/Slowed|Slowed 1]] (or [[Conditions/Slowed|Slowed 2]] on a critical failure) for 1 round. Regardless of the result, a creature is then temporarily immune to Captivating Display for 1 minute."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon makes two claw Strikes and one tail Strike in any order."
@@ -88,7 +88,7 @@ attacks:
     desc: "  The dragon recharges their Hallucinatory Breath whenever they score a critical hit with a Strike."
 
   - name: "Hallucinatory Breath"
-    desc: "`pf2:2` (arcane,emotion,mental) The dragon breathes a cloud that assaults the senses and deals 12d6 mental damage in a @Template[cone|distance:40] (DC 33 Will check save). A creature that fails its save is also [[Conditions/Confused|Confused]] for 1 round (1 minute on a critical failure) and is then temporarily immune to being confused by Hallucinatory Breath for 1 hour.\n\nThe dragon can't use Hallucinatory Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,emotion,mental) The dragon breathes a cloud that assaults the senses and deals 12d6 mental damage in a 40-foot cone (DC 33 Will check save). A creature that fails its save is also [[Conditions/Confused|Confused]] for 1 round (1 minute on a critical failure) and is then temporarily immune to being confused by Hallucinatory Breath for 1 hour.\n\nThe dragon can't use Hallucinatory Breath again for 1d4 rounds."
 
   - name: "Lunging Bite"
     desc: "`pf2:2`  The dragon lunges their head forward, making a jaws Strike with an extended reach of 25 feet."

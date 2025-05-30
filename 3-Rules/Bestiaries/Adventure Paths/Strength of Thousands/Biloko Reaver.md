@@ -56,19 +56,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Maul +23 (magical, shove)\n__Damage__  2d12 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Maul"
+    desc: "+23 (magical, shove)\n__Damage__  2d12 + 12 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +22 ()\n__Damage__  2d8 + 12 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+22 (unarmed)\n__Damage__  2d8 + 12 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +22 (thrown 20 ft.)\n__Damage__  1d6 + 12 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+22 (thrown 20 ft.)\n__Damage__  1d6 + 12 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 26, attack +18; __1st __ (1 slots) _[[Spells/Charm|Charm]]_"

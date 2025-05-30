@@ -9,19 +9,20 @@ tags:
   - trait/concentrate
   - trait/light
   - trait/manipulate
-  - trait/uncommon
+  - trait/common
   - tradition/arcane
   - tradition/divine
   - tradition/occult
   - tradition/primal
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.v3vFzGazNSFEDdRB" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Radiant Field  `pf2:3`"
 level: "Spell 2"
-rare_03: [[Uncommon]]
+
 trait_01: [[concentrate]]
 trait_02: [[light]]
 trait_03: [[manipulate]]
@@ -40,6 +41,6 @@ abilities_top:
     desc: "1 minute"
 abilities_mid:
   - name: ""
-    desc: "You create an area of bright light. Creatures with [[Bestiary Ability Glossary/Light Blindness|Light Blindness]] that are [[Conditions/Blinded|Blinded]] by _radiant field_ and remain in the area must attempt a Fortitude save at the start of their turns. On a failure, a creature remains blinded for 1 round; this is an incapacitation effect.\n\nThis spell also suppresses magical darkness of your radiant field spell's rank or lower.\n* * *\n\n**Heightened (4th)** Creatures seen through the area are [[Conditions/Concealed|Concealed]] to creatures with light blindness, even those that are outside the area."
-sourcebook: "_Pathfinder #172: Secrets of the Temple-City_"
+    desc: "You create an area of bright light. Creatures with [[Bestiary Ability Glossary/Light Blindness|Light Blindness]] that are [[Conditions/Blinded|Blinded]] by _radiant field_ and remain in the area must attempt a Fortitude save at the start of their turns. On a failure, a creature remains blinded for 1 round; this is an incapacitation effect.\n\nThis spell also suppresses magical darkness of your _radiant field_ spell's rank or lower.\n* * *\n\n**Heightened (4th)** Creatures seen through the area are [[Conditions/Concealed|Concealed]] to creatures outside the area. Creatures with light blindness can continue to be blinded by the field as long as the field is visible, even when outside of the field."
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

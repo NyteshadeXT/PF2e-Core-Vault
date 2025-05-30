@@ -16,7 +16,9 @@ license: OGL
 
 
 
-For the remainder of your turn, if you roll a failure or critical failure on a saving throw against a harmful effect, you get a success instead.
+Granted by [[Feats/Reckless Abandon|Reckless Abandon]]
+
+If you roll a failure or critical failure on a saving throw against a harmful effect, you get a success instead.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

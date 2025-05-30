@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Spells/Open the Wall of Ghosts|Open the Wall of Ghosts]]
+
 You gain a +2 status bonus to Armor Class and saving throws.
 
 *Source: Pathfinder #197: Let the Leaves Fall*

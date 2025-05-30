@@ -4,8 +4,9 @@ title: "Effect: Distracting Feint"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.7hRgBo0fRQBxMK7g"
-license: OGL
+license: ORC
 ---
 # Effect: Distracting Feint
 ## Level 1
@@ -18,7 +19,7 @@ license: OGL
 
 Granted by [[Feats/Distracting Feint|Distracting Feint]]
 
-While a creature is [[Conditions/Off-Guard|Off-Guard]] by your Feint, it also takes a -2 circumstance penalty to Perception checks and Reflex saves.
+While you are off-guard by the origin's Feint, you also takes a -2 circumstance penalty to Perception checks and Reflex saves.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

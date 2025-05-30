@@ -17,11 +17,9 @@ license: ORC
 
 
 
-Granted by [[Impenetrable Scale|Impenetrable Scale]]
+Granted by [[Equipment/Impenetrable Scale|Impenetrable Scale]]
 
-Whenever the armor's _fortification_ rune successfully turns a significant foe's critical hit into a normal hit, one of the scales on the armor turns violet. You gain resistance to physical damage equal to the number of violet scales, to a maximum of 8.
-
-At dawn each day, all the violet scales return to normal.
+You gain resistance to physical damage equal to the number of violet scales, to a maximum of 8.
 
 *Source: Pathfinder GM Core*
 *ORC*

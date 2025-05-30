@@ -12,7 +12,7 @@ license: OGL
 ---
 # Living Vessel Dedication
 ## Feat 2
-### [rare](rare.md "Rare Rarity Trait")[[archetype]][[dedication]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[dedication]]
 
 **Category** class; 
 
@@ -25,9 +25,7 @@ You need to spend at least an hour each day assuaging the entity within you or y
 
 You also gain the [[Actions/Entity's Resurgence|Entity's Resurgence]] reaction, allowing you to unleash your entity in lieu of falling [[Conditions/Unconscious|Unconscious]], though at the risk of letting it enact its will.
 
-* * *
-
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Living Vessel|Living Vessel]] archetype.
+[[PF2e Journals/Archetypes/Living Vessel|Living Vessel]]
 
 *Source: Pathfinder Dark Archive*
 *OGL*

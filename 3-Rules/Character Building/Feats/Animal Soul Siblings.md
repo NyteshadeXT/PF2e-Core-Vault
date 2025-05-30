@@ -11,14 +11,14 @@ license: OGL
 ---
 # Animal Soul Siblings
 ## Feat 5
-### [rare](rare.md "Rare Rarity Trait")[[reincarnated]]
+### [rare](rare "Rare Rarity Trait")[[reincarnated]]
 
 **Category** ancestry; 
 
 
 
 
-Your eyes have been opened to the spiritual essence suffusing the world. You gain [[Speak with Animals|Speak with Animals]] as a primal innate spell that you can cast once per day. You get a +1 circumstance bonus to Diplomacy checks to [[Actions/Gather Information|Gather Information]] from animals.
+Your eyes have been opened to the spiritual essence suffusing the world. You gain [[Spells/Speak with Animals|Speak with Animals]] as a primal innate spell that you can cast once per day. You get a +1 circumstance bonus to Diplomacy checks to [[Actions/Gather Information|Gather Information]] from animals.
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +31 (magical, two-hand d8)\n__Damage__  8d4 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+31 (magical, two-hand d8)\n__Damage__  8d4 + 8 bludgeoning"
 
   - name: "Prepared Arcane Spells"
     desc: "DC 45, attack +36; __10th __  _[[Spells/Remake|Remake]]_, _[[Spells/Freeze Time|Time Stop]]_; __9th __  _[[Spells/Disjunction|Disjunction]]_, _[[Spells/Implosion|Implosion]]_, _[[Spells/Massacre|Massacre]]_, _[[Spells/Prismatic Sphere|Prismatic Sphere]]_; __8th __  _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __  _[[Spells/Contingency|Contingency]]_, _[[Spells/Energy Aegis|Energy Aegis]]_, _[[Spells/Mask of Terror|Mask of Terror]]_, _[[Spells/Power Word Blind|Power Word Blind]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __  _[[Spells/Dominate|Dominate]]_, _[[Spells/Repulsion|Repulsion]]_, _[[Spells/Spellwrack|Spellwrack]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Chromatic Wall|Chromatic Wall]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __  _[[Spells/Flicker|Blink]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Veil of Privacy|Nondetection]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Mystic Armor|Mage Armor]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(10th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
@@ -73,7 +73,7 @@ attacks:
     desc: "3 Focus Points, DC 45, attack +36; __10th __  _[[Spells/Energy Absorption|Energy Absorption]]_, _[[Spells/Protective Wards|Protective Ward]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Freedom|Freedom]]_, _[[Spells/Collective Memories|Legend Lore]]_, _[[Spells/Binding Circle|Planar Binding]]_"
+    desc: "_Freedom_, _Legend Lore_, _Planar Binding_"
 
   - name: "Drain Bonded Item"
     desc: "  **Frequency** once per day\n\n**Requirements** Emaliza hasn't acted yet on this turn\n* * *\n\n**Effect** Emaliza can cast one prepared spell she has already cast today without spending a spell slot."

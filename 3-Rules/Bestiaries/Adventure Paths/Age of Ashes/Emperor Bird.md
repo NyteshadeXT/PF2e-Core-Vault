@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +11 ()\n__Damage__  1d10 + 2 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+11 (unarmed)\n__Damage__  1d10 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +11 (agile, reach 10 feet)\n__Damage__  1d8 + 3 slashing"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+11 (agile, reach 10 feet)\n__Damage__  1d8 + 3 slashing"
 
   - name: "Dazzling Display"
     desc: "`pf2:2` (mental,primal,visual) The emperor bird flaps its mesmerizing wings. Each creature within 15 feet that can see the emperor bird must attempt a DC 19 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is dazzled for 1d4 rounds.\n\n**Critical Failure** The creature is [[Conditions/Confused|Confused]] for 1d4 rounds."

@@ -24,6 +24,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap185-a-taste-of-ashes/assets/art/PZO90185 UMBRAEX DARVAKKA.webp| ]]
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Umbraex"
 level: "Creature 21"
@@ -60,8 +61,17 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 100 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 20 (Deactivated by Fire or Holy)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Ashen Rise"
     desc: " (divine) When an umbraex is destroyed, its body discorporates into fine ash before being restored, fully healed, 1d4 rounds later. An umbraex can't use this ability as long as its remains are within an area consecrated to a good deity or an area of bright light. The umbraex can't use Ashen Rise again for 1 day."
 
@@ -71,17 +81,20 @@ abilities_mid:
   - name: "Sunlight Powerlessness"
     desc: "  An umbraex caught in sunlight is [[Conditions/Stunned|Stunned 2]] and [[Conditions/Clumsy|Clumsy 2]]."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +38 (magical, reach 20 feet)\n__Damage__  2d10 + 12 piercing 2d10 cold 2d10 void"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+38 (magical, reach 20 feet, unarmed)\n__Damage__  2d10 + 12 piercing 2d10 cold 2d10 void"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +38 (agile, magical, reach 20 feet)\n__Damage__  2d8 + 10 piercing 2d10 cold 2d10 void"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+38 (agile, magical, reach 20 feet, unarmed)\n__Damage__  2d8 + 10 piercing 2d10 cold 2d10 void"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Icy Blast +37 (cold, magical, range increment 60 feet)\n__Damage__  8d6 cold 2d10 void"
+  - name: "**Ranged** `pf2:1` Icy Blast"
+    desc: "+37 (cold, magical, range increment 60 feet)\n__Damage__  8d6 cold 2d10 void"
 
   - name: "Divine Innate Spells"
     desc: "DC 44, attack +36; __9th __  _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Harm|Harm (x3)]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (to the Universe, Void, or Netherworld only)]]_, _[[Spells/Truesight|True Seeing]]_; __4th __  _[[Spells/Darkness|Darkness (At Will)]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_"

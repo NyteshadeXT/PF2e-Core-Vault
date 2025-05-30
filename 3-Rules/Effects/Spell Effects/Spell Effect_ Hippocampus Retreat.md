@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Hippocampus Retreat|Hippocampus Retreat]]
+Granted by [[Spells/Hippocampus Retreat|Hippocampus Retreat]]
 
 If you already have a swim Speed, you can Swim up to your Speed with a +10-foot circumstance bonus. You gain a +2 circumstance bonus to your AC against reactions triggered by this movement.
 

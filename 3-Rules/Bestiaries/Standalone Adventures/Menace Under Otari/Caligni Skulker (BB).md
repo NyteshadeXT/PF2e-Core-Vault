@@ -3,7 +3,7 @@ title: "Caligni Skulker (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.7AzIsyvVOg19fSoa" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.9YPFqikAmURwcTEO" 
 tags:
   - pf2e/creature/type/caligni
   - pf2e/creature/type/humanoid
@@ -31,7 +31,7 @@ trait_02: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
-    desc: "+8; "
+    desc: "+8; Darkvision"
 languages: ""
 skills:
   - name: "Skills"
@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +10 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+10 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +10 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+10 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
 
   - name: "[[Menace Under Otari/Caligni Hunter (BB)/Darkening Poison|Darkening Poison]]"
     desc: "`pf2:1` (poison) The next time the skulker deals damage with a dagger Strike, the target must succeed at a DC 16 Fortitude check save or take 1d8 poison damage and treat all creatures as [[Conditions/Concealed|Concealed]] for 1 round."

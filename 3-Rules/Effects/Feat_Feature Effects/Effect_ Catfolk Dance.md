@@ -16,7 +16,9 @@ license: OGL
 
 
 
+Granted by [[Feats/Catfolk Dance|Catfolk Dance]]
+
 The target creature gains a -2 circumstance penalty to Reflex saves
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

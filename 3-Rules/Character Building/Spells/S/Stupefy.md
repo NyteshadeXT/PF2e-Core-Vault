@@ -32,11 +32,11 @@ abilities_top:
   - name: "Traditions"
     desc: "arcane, occult"
   - name: "Range"
-    desc: "30 feet; **Targets** 1 living creature"
+    desc: "30 feet; **Targets** 1 creature"
   - name: "Defense"
     desc: " will"
   - name: "Duration"
-    desc: "1 minute"
+    desc: "varies"
 abilities_mid:
   - name: ""
     desc: "You dull the target's mind, depending on its Will save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Stupefied|Stupefied 1]] until the start of your next turn.\n\n**Failure** The target is [[Conditions/Stupefied|Stupefied 2]] for 1 minute.\n\n**Critical Failure** The target is [[Conditions/Stupefied|Stupefied 3]] for 1 minute."

@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Spells/Phase Familiar|Phase Familiar]]
+
 Your familiar gains resistance to all damage and is immune to precision damage.
 
 *Source: Pathfinder Player Core*

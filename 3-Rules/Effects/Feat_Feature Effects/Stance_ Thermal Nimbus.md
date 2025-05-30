@@ -17,6 +17,8 @@ license: OGL
 
 
 
+Granted by [[Feats/Thermal Nimbus|Thermal Nimbus]]
+
 Choose cold or fire. You and allies in your kinetic aura gain resistance equal to your level to damage of that type.
 
 *Source: Pathfinder Rage of Elements*

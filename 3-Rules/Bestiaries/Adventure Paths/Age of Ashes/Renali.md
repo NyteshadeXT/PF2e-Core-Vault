@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +12 (finesse)\n__Damage__  2d6 + 3 piercing plus anadi-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+12 (finesse)\n__Damage__  2d6 + 3 piercing plus anadi-venom"
 
   - name: "Arcane Innate Spells"
     desc: "DC 22, attack +14; __2nd __  _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __  _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_"
@@ -69,7 +69,7 @@ attacks:
     desc: " (poison) **Saving Throw** DC 20 Fortitude check\n* * *\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Clumsy|Clumsy 1]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) Renali changes into her true form, spider form, or human form. The above statistics assume Renali is in her true form. While in their human form, Renali can't use her fangs attack and loses her climb Speed. When in spider form, she can't use weapons.\n\n* * *\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) Renali changes into her true form, spider form, or human form. The above statistics assume Renali is in her true form. While in their human form, Renali can't use her fangs attack and loses her climb Speed. When in spider form, she can't use weapons.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Spin Silk"
     desc: " (concentrate,exploration,manipulate) By spending several minutes, an anadi can produce silk to craft items made of cloth. A single anadi can produce enough silk in a day to craft a single garment."

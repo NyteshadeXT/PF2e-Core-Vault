@@ -6,8 +6,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.YlaLePtgDXGB0Fsf"
-license: OGL
+license: ORC
 ---
 # Penetrating Fire `pf2:2`
 ## Feat 10
@@ -25,4 +26,4 @@ license: OGL
 You blast a bullet through one foe and into another. Choose two targets, one of which would give the other lesser cover against your ranged attacks. Make a single ranged Strike with the required weapon against both targets. This attack ignores any lesser cover the nearer target provides the other. Roll damage only once and apply it to each creature you hit. Penetrating Fire counts as two attacks for your multiple attack penalty.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

@@ -55,14 +55,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +24 (agile, finesse)\n__Damage__  3d10 + 8 piercing plus spirit-naga-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+24 (agile, finesse)\n__Damage__  3d10 + 8 piercing plus spirit-naga-venom"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 32, attack +20; __6th __ (4 slots) _[[Spells/Dominate|Dominate]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Spirit Blast|Spirit Blast]]_; __5th __ (4 slots) _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_, _[[Spells/Truespeech|Tongues]]_; __4th __ (4 slots) _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Confusion|Confusion]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Rewrite Memory|Modify Memory]]_; __3rd __ (4 slots) _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (4 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Humanoid Form|Humanoid Form]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Inveigle|Inveigle]]_"
+    desc: "_Inveigle_"
 
   - name: "Spirit Naga Venom"
     desc: " (poison) **Saving Throw** DC 32 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)"

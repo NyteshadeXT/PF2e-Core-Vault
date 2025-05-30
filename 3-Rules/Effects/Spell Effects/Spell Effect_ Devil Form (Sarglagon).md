@@ -16,11 +16,9 @@ license: OGL
 
 
 
-Granted by [[Devil Form|Devil Form]]
+Granted by [[Spells/Devil Form|Devil Form]]
 
-You bind yourself to the power of Hell, transforming into a Medium devil battle form. When you cast this spell, choose barbazu, erinys, osyluth, or sarglagon. If you choose osyluth or sarglagon, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form you gain the devil and fiend traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
-
-You gain the following statistics and abilities regardless of the form that you choose:
+You transform into a Large devil battle form. While in this form you gain the devil and fiend traits. You have hands in this battle form and can use manipulate actions. You gain the following statistics and abilities regardless of the form that you choose:
 
 *   AC = 22 + your level. Ignore your armor check's penalty and Speed reduction.
 *   5 temporary Hit Points, resistance 5 to physical damage (except silver), and weakness 5 to holy.
@@ -32,8 +30,9 @@ You gain the following statistics and abilities regardless of the form that you 
 You also gain specific abilities based on the type of devil you choose:
 
 *   **Sarglagon** Speed 25 feet, fly 25 feet, swim 30 feet;
-    *   **Melee** `pf2:1` fangs, **Damage** 2d10+10 piercing plus 1d6 spirit;
-    *   **Melee** `pf2:1` tentacle arm (agile), **Damage** 1d8 bludgeoning plus 1d6 spirit and 1d6 poison.
+    
+    *   **Melee** `pf2:1` fangs (magical, unholy), **Damage** 2d10+10 piercing;
+    *   **Melee** `pf2:1` tentacle arm (agile, magical, unholy), **Damage** 1d8+10 bludgeoning plus 1d6 poison.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

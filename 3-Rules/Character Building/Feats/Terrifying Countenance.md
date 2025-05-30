@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Vigilante Dedication; Member of the Grey Gardeners
 * * *
-You can erect a magical cowl that terrorizes your enemies. Once per day, you can cast [[Mask of Terror|Mask of Terror]] as an innate occult spell, targeting yourself. If you critically hit a creature that's temporarily immune to the spell, the creature's temporary immunity ends.
+You can erect a magical cowl that terrorizes your enemies. Once per day, you can cast [[Spells/Mask of Terror|Mask of Terror]] as an innate occult spell, targeting yourself. If you critically hit a creature that's temporarily immune to the spell, the creature's temporary immunity ends.
 
 *Source: Pathfinder Adventure: Night of the Gray Death*
 *OGL*

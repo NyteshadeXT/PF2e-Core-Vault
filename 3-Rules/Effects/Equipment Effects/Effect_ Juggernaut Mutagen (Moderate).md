@@ -16,19 +16,11 @@ license: OGL
 
 
 
-Granted by [[Juggernaut Mutagen (Moderate)|Juggernaut Mutagen (Moderate)]]
+Granted by [[Equipment/Juggernaut Mutagen (Moderate)|Juggernaut Mutagen (Moderate)]]
 
-Implemented effects:
+**Benefit** You gain a +2 item bonus to Fortitude saves and 10 temporary Hit Points.
 
-*   +2 item bonus to Fortitude saves
-*   Gain 10 temporary Hit Points
-*   \-2 penalty to Will saves
-*   \-2 penalty to Perception checks
-*   \-2 penalty to initiative rolls
-
-Unimplemented effects:
-
-*   Whenever you are at maximum Hit Points for at least 1 full minute, you regain the temporary Hit Points.
+**Drawback** You take a -2 penalty to Will saves, Perception checks and initiative rolls.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

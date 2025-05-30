@@ -25,5 +25,5 @@ As long as you have at least one item in your throat pocket, your speech is noti
 
 Placing an item in your throat pocket or retrieving one is an Interact action. You can empty your throat pocket with a single action, causing everything you had stored in it to fall to the ground in your square. Any item that was covered in dirt or grime comes out clean.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

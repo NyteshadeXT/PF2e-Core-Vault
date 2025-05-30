@@ -6,7 +6,7 @@ tags:
   - trait/concentrate
   - trait/polymorph
   - trait/primal
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.08egiRxOvMX97XTc"

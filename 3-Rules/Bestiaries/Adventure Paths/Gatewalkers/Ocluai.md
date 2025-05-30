@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "Lost in the Dark"
@@ -60,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +10 ()\n__Damage__  3d4 + 3 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+10 (unarmed)\n__Damage__  3d4 + 3 slashing"
 
   - name: "Corner of the Eye"
-    desc: "`pf2:2` (illusion,mental,primal,visual) The ocluai creates a wave of disturbing illusory images in a @Template[burst|distance:10] centered on a point within 60 feet. Any creature caught in this burst takes 3d6 mental (DC 20 Will check) as their peripheral vision churns with terrifying visions of worm-eaten corpses and monsters ready to pounce."
+    desc: "`pf2:2` (illusion,mental,primal,visual) The ocluai creates a wave of disturbing illusory images in a 10-foot burst centered on a point within 60 feet. Any creature caught in this burst takes 3d6 mental (DC 20 Will check) as their peripheral vision churns with terrifying visions of worm-eaten corpses and monsters ready to pounce."
  
 ```
 

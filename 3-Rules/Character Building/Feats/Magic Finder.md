@@ -23,5 +23,5 @@ You've learned a few tricks to ensure you find every last magic item and interes
 
 When you cast detect magic or read aura from this feat on an item or creature under the effect of a magic aura spell or interact with an item under the effect of an item facade spell, you gain a +2 circumstance bonus on your check to disbelieve the illusion.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

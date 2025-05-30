@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Second Chance"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.Fy7gw5WhPD8Gzxeb"
 license: OGL
 ---
 # Second Chance
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

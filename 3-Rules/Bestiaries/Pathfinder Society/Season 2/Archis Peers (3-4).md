@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +9 (agile, trip)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+9 (agile, trip)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +8 (agile, unarmed)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+8 (agile, unarmed)\n__Damage__  1d4 + 3 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Archis deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +24 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+24 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 7 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +27 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  3d8 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+27 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  3d8 + 7 piercing"
 
   - name: "Pinning Shot"
     desc: "`pf2:1`  The archery specialist makes a longbow Strike. If the attack hits, it deals no damage and instead imparts the bow critical specialization effect. If the attack is a critical hit, the target must succeed at two separate Interact actions to pull the missile free."
@@ -69,7 +69,7 @@ attacks:
     desc: "  The archery specialist ignores the penalty to their attack rolls from the volley trait"
 
   - name: "Rain of Arrows"
-    desc: "`pf2:2` (flourish) The archery specialist fires several arrows at once, each aimed to land in a @Template[burst|distance:10] within 60 feet. The archery specialist makes a longbow Strike and compares the attack roll result to the AC of all creatures in the burst. The specialist rolls damage only once and applies it to each creature hit. Rain of Arrows counts as three attacks for the archery specialist's multiple attack penalty."
+    desc: "`pf2:2` (flourish) The archery specialist fires several arrows at once, each aimed to land in a 10-foot burst within 60 feet. The archery specialist makes a longbow Strike and compares the attack roll result to the AC of all creatures in the burst. The specialist rolls damage only once and applies it to each creature hit. Rain of Arrows counts as three attacks for the archery specialist's multiple attack penalty."
  
 ```
 

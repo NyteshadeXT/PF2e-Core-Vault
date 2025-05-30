@@ -54,16 +54,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +15 (magical, sweep)\n__Damage__  1d12 + 8 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+15 (magical, sweep)\n__Damage__  1d12 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +14 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+14 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 6 piercing"
 
   - name: "Rage"
     desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** The recon scout isn't [[Conditions/Fatigued|Fatigued]] or raging\n* * *\n\n**Effect** s The recon scout gains 9 temporary Hit Points that last until the rage ends. While raging, they deal 8 additional damage with melee attacks, gain a +10-foot status bonus to their Speed, and take a –1 penalty to AC. The recon scout can't use concentrate actions except [[Actions/Seek|Seek]] and rage actions. The rage lasts for 1 minute, until there are no enemies the recon scout can perceive, or until the recon scout falls [[Conditions/Unconscious|Unconscious]]. Once the rage ends, the recon scout can't Rage again for 1 minute.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"

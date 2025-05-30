@@ -40,7 +40,7 @@ attacks:
   - name: ""
 
   - name: "Routine"
-    desc: "(one action) Panicked attendees suffer stings and accidentally injure one another in their fear and confusion. Increase the Casualties score by 1. This increases to [[/gmr 1d3 #Casualties]] if one swarm is stinging the crowd, and it increases to [[/gmr 1d3+1 #Casualties]] if both swarms are stinging the crowd."
+    desc: "(one action) Panicked attendees suffer stings and accidentally injure one another in their fear and confusion. Increase the Casualties score by 1. This increases to 1d3 if one swarm is stinging the crowd, and it increases to 1d3+1 if both swarms are stinging the crowd."
 
 ```
 

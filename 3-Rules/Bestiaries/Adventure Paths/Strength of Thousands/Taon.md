@@ -58,22 +58,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Mohrg Spawn"
     desc: " (occult) A living creature slain by a mohrg that had a lower level than the mohrg rises as a mohrg spawn after 1d4 rounds, on its turn. This mohrg spawn is under the command of the mohrg that created it.\n\nIf the creator of the mohrg spawn is destroyed, the mohrg spawn is destroyed as well, immediately collapsing into a pile of decayed flesh and bones."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +29 ()\n__Damage__  3d12 + 14 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+29 (unarmed)\n__Damage__  3d12 + 14 slashing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +29 (agile, reach 10 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+29 (agile, reach 10 feet)\n__Damage__ "
 
-  - name: "Melee"
-    desc: "`pf2:1` Spellcutter +31 (magical, versatile p)\n__Damage__  3d8 + 14 slashing"
+  - name: "**Melee** `pf2:1` Spellcutter"
+    desc: "+31 (magical, versatile p)\n__Damage__  3d8 + 14 slashing"
 
   - name: "Cruel Reactions"
     desc: "  Taon gains an extra reaction each round that can be used only to make an Attack of Opportunity."
@@ -82,7 +85,7 @@ attacks:
     desc: " (incapacitation,occult) A living creature hit by a mohrg's tongue Strike must succeed at a DC 30 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. The creature can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each attempt."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

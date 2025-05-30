@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Basic Red Mantis Magic
 * * *
-You gain the [[3-Rules/Character Building/Spells/M/Mantis Form|Mantis Form]] focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point.
+You gain the [[Spells/Mantis Form|Mantis Form]] focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point.
 
 *Source: Pathfinder Adventure: Prey for Death*
 *ORC*

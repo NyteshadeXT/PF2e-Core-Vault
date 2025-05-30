@@ -66,20 +66,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +19 (disarm, finesse, nonlethal, reach 10 feet, trip)\n__Damage__  1d4 + 10 slashing"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+19 (disarm, finesse, nonlethal, reach 10 feet, trip)\n__Damage__  1d4 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +19 ()\n__Damage__  2d8 + 10 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+19 (unarmed)\n__Damage__  2d8 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +19 (agile)\n__Damage__  2d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+19 (agile, unarmed)\n__Damage__  2d6 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +20 (deadly 2d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+20 (deadly 2d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire (Moderate) +20 (bomb, range increment 20 feet, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire (Moderate)"
+    desc: "+20 (bomb, range increment 20 feet, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
 
   - name: "Feral Directive"
     desc: "`pf2:2`  The xulgath attempts to [[Actions/Command an Animal|Command an Animal]] on their mount, but instead of demanding a specific action such as Stride or Strike, the xulgath gives a general directive, such as to return to camp or to attack a small group the mount can see. The mount and the xulgath each retain 3 actions on their turns, but the mount doesn't change its general tactics until the xulgath uses Feral Directive or Command an Animal again."

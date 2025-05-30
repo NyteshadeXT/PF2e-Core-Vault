@@ -54,30 +54,36 @@ hp: 150
 health:
   - name: ""
   - name: HP
-    desc: "150, Thresholds 100 (12 squares), 50 (8 squares); ; __Weaknesses__ area damage 12, splash damage 6"
+    desc: "150, Thresholds 100 (3 segments), 50 (2 segments); __Weaknesses__ area damage 12, splash damage 6"
 abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Steel Shield|Steel Shield]]"
   - name: "[[Bestiary Ability Glossary/Form Up|Form Up]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The troop chooses one of the squares it currently occupies and redistributes its squares to any configuration in which all squares are contiguous and within 15 feet of the chosen square. The troop can't share its space with other creatures."
 
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
+
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
+
+  - name: "[[Compendium.pf2e.bestiary-ability-glossary-srd.Item.RJbI07QSiYp0SF9A|Troop Defenses]]"
+    desc: "  Troops are composed of many individuals, represented by four \"segments\" on a battle grid. Each segment is 10 feet on each side and as tall as the individual members of the troop. Segments must remain contiguous. Each one has to share at least 5 feet of one of its edges with another segment—being adjacent on a diagonal isn't sufficient! You can measure flanking, cover, and the like using the center of any segment.\n\nA troop has two Hit Point thresholds in its HP entry and loses segments as it crosses thresholds. Typically, the higher threshold is at 2/3 of the troop's maximum Hit Points and the lower is at 1/3 of its maximum. Once the troop drops below the higher threshold, it loses one segment, leaving three segments (12 squares) remaining and setting the first threshold as the troop's new maximum Hit Points. This repeats when the troop drops below the lower threshold, leaving two segments (8 squares). At 0 Hit Points, the troop disperses entirely, with the few remaining members surrendering, [[Conditions/Fleeing|Fleeing]], or easily dispatched, as determined by the GM. Typically the creature who caused the troop to lose a segment decides which to remove, or the GM decides when a specific creature wasn't responsible. To restore lost segments and maximum Hit Points, a troop needs to spend downtime to use long-term treatment on casualties or recruit new members to replace the fallen.\n\nTroops are typically immune to non-damaging effects that target a single creature, such as a [[Spells/Charm|Charm]] spell or the [[Actions/Demoralize|Demoralize]] action. An ability that can target 5 or more creatures can target an entire segment, increasing to two segments if it can target 10 or more creatures and to the entire troop if it can target 20 or more creatures. An ability that affects all creatures in a certain range affects all segments in range (make any checks or saves separately for each segment). As examples, an 8th rank _charm_ spell (with 10 targets) can affect two segments, and an ability that Demoralizes all creatures within 30 feet of you would affect all segments that are fully within that range. A non-damaging ability that would prevent a segment from acting, cause them to flee, or otherwise make them unable to function as part of the troop for a round or more removes the segment entirely. The troop loses a number of HP required to bring it to the next threshold. If an ability both deals damage and has a non-damaging effect, apply the damage then the rest of the effect."
 
 attacks:
   - name: ""
 
   - name: "Bolt Barrage"
-    desc: "`pf2:2`  The hryngar breccia squad draws or reloads its crossbows, then launches a ranged attack in the form of a volley. This volley is a @Template[burst|distance:10] within 120 feet that deals 4d8 piercing damage (DC 28 Reflex check save). When the hryngar breccia squad is reduced to 8 or fewer squares, this area decreases to a @Template[burst|distance:5]."
+    desc: "`pf2:2`  The hryngar breccia squad draws or reloads its crossbows, then launches a ranged attack in the form of a volley. This volley is a 10-foot burst within 120 feet that deals 4d8 piercing damage (DC 28 Reflex check save). When the hryngar breccia squad is reduced to 8 or fewer squares, this area decreases to a 5-foot burst."
 
   - name: "General Melee"
-    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The hryngar breccia squad engages in a coordinated attack with its melee weapons against each enemy within 5 feet (DC 28 Reflex check save). The damage depends on the number of actions.\n\n`pf2:1` 1d8+6 bludgeoning damage\n\n`pf2:2` 2d8+10 bludgeoning damage\n\n`pf2:3` 3d8+14 bludgeoning damage"
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The hryngar breccia squad engages in a coordinated attack with its melee weapons against each enemy in a 5-foot emanation (DC 28 Reflex check save). The damage depends on the number of actions.\n\n`pf2:1` 1d8+6 bludgeoning damage\n\n`pf2:2` 2d8+10 bludgeoning damage\n\n`pf2:3` 3d8+14 bludgeoning damage"
 
   - name: "Raise Shields"
     desc: "`pf2:1`  The hryngar breccia squad raises steel shields, with the effects of Raise a Shield.\n* * *\n\n[[Equipment Effects/Effect_ Raise a Shield|Effect: Raise a Shield]]"

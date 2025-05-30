@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "No Cause For Alarm"
+title: "No Cause for Alarm"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/auditory
@@ -16,9 +16,9 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.6ON8DjFXSMITZleX"
 license: ORC
 ---
-# No Cause For Alarm `pf2:3`
+# No Cause for Alarm `pf2:3`
 ## Feat 1
-### [[auditory]][[concentrate]][[emotion]][[general]][[linguistic]][[3-Rules/trait_reference/M/mental]][[skill]]
+### [[auditory]][[concentrate]][[emotion]][[general]][[linguistic]][[mental]][[skill]]
 
 **Category** skill; 
 
@@ -26,7 +26,7 @@ license: ORC
 
 **Prerequisites** trained in Diplomacy
 * * *
-You attempt to reduce panic. Attempt a Diplomacy check check, comparing it to the Will DC of creatures in a @Template\[emanation|distance:10\] around you who are [[Conditions/Frightened|Frightened]]. Each of them is temporarily immune for 1 hour.
+You attempt to reduce panic. Attempt a Diplomacy check check, comparing it to the Will DC of creatures in a 10-foot emanation around you who are [[Conditions/Frightened|Frightened]]. Each of them is temporarily immune for 1 hour.
 
 * * *
 

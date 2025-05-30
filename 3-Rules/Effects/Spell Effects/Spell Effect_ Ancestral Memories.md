@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Ancestral Memories|Ancestral Memories]]
+Granted by [[Spells/Ancestral Memories|Ancestral Memories]]
 
 You either gain a status bonus to the next spell attack roll you attempt, or an enemy takes a status penalty to the next saving throw they attempt against a spell you cast.
 

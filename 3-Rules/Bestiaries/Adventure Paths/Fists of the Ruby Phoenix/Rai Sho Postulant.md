@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +33 (magical)\n__Damage__  3d10 + 17 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+33 (magical, unarmed)\n__Damage__  3d10 + 17 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Icicle +31 (cold, magical, thrown 20 ft.)\n__Damage__  2d8 + 17 piercing 1d8 cold"
+  - name: "**Ranged** `pf2:1` Icicle"
+    desc: "+31 (cold, magical, thrown 20 ft.)\n__Damage__  2d8 + 17 piercing 1d8 cold"
 
   - name: "Innate Divine Spells"
     desc: "DC 37, attack +29; __8th __ (1 slots) _[[Spells/Mist|Obscuring Mist (manifests snowfall instead of mist)]]_"

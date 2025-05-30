@@ -58,10 +58,13 @@ abilities_top:
   - name: "Link Swords"
     desc: "`pf2:1` (flourish,stance) **Requirements** Jin-Hae is wielding two hook swords\n* * *\n\n**Effect** Jin-Hae either links her swords together or unlinks them. If the swords are linked, she can make linked hook sword Strikes; if the swords are unlinked, she can make hook sword Strikes."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Susceptible to Death"
     desc: "  Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death.\n\nA phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like [[Spells/Execute|Execute]]) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife."
@@ -69,17 +72,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hook Sword +35 (disarm, magical, parry, trip, twin)\n__Damage__  6d6 + 20 slashing"
+  - name: "**Melee** `pf2:1` Hook Sword"
+    desc: "+35 (disarm, magical, parry, trip, twin)\n__Damage__  6d6 + 20 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Linked Hook Swords +35 (magical, reach 10 feet, sweep)\n__Damage__  6d6 + 20 slashing"
+  - name: "**Melee** `pf2:1` Linked Hook Swords"
+    desc: "+35 (magical, reach 10 feet, sweep)\n__Damage__  6d6 + 20 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Feng Huo Lun +35 (agile, disarm, finesse, magical, parry, thrown 20 ft., twin, versatile p)\n__Damage__  3d6 + 15 slashing 3d6 fire"
+  - name: "**Ranged** `pf2:1` Feng Huo Lun"
+    desc: "+35 (agile, disarm, finesse, magical, parry, thrown 20 ft., twin, versatile p)\n__Damage__  3d6 + 15 slashing 3d6 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Vacuum Slash +35 (air, divine, range increment 60 feet)\n__Damage__  6d6 + 10 slashing"
+  - name: "**Ranged** `pf2:1` Vacuum Slash"
+    desc: "+35 (air, divine, range increment 60 feet)\n__Damage__  6d6 + 10 slashing"
 
   - name: "Innate Divine Spells"
     desc: "DC 40, attack +32\n__Constant__  __(7th)__ _[[Spells/Air Walk|Air Walk]]_"

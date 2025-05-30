@@ -17,7 +17,9 @@ license: ORC
 
 
 
-The target takes a –10-foot status penalty to its Speed (or a –15-foot status penalty on a critical hit).
+Granted by [[Feats/Leech-Clip|Leech-Clip]]
+
+You take a –10-foot status penalty to your Speed (or a –15-foot status penalty on a critical hit).
 
 *Source: Pathfinder Player Core 2*
 *ORC*

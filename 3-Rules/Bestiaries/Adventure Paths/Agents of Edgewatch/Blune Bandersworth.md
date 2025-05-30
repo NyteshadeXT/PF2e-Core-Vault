@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +34 (deadly 3d8, disarm, finesse, magical)\n__Damage__  4d6 + 11 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+34 (deadly 3d8, disarm, finesse, magical)\n__Damage__  4d6 + 11 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 42, attack +38; __8th __  _[[Spells/Polar Ray|Polar Ray]]_, _[[Spells/Confusing Colors|Scintillating Pattern]]_; __7th __  _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Project Image|Project Image]]_, _[[Spells/Spell Turning|Spell Turning]]_; __6th __  _[[Spells/Dragon Form|Dragon Form]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Repulsion|Repulsion]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Cloak of Colors|Cloak of Colors]]_, _[[Spells/Shadow Siphon|Shadow Siphon]]_, _[[Spells/Summon Dragon|Summon Dragon]]_; __4th __  _[[Spells/Flicker|Blink]]_, _[[Spells/Creation|Creation]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Mountain Resilience|Stoneskin]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Create Food|Create Food]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Mystic Armor|Mage Armor]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"

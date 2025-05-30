@@ -41,7 +41,7 @@ attacks:
   - name: ""
 
   - name: "Summon Crawling Hands"
-    desc: "`pf2:r` (occult, summon) **Trigger** A creature comes within 30 feet of the remains\n* * *\n\n**Effect** The haunt summons three [[Bestiary 2/Crawling Hand|Crawling Hands]], which emerge from the pile of dust to attack nearby creatures. The hands roll initiative and remain for 7 rounds, after which the summoning spell ends and the hands disappear. The hands also disappear if someone disables the trap before the duration expires.\n\nThe summoned hands can use 3 actions each round and can use reactions, unlike most summoned creatures."
+    desc: "`pf2:r` (occult, summon) **Trigger** A creature comes within 30 feet of the remains\n* * *\n\n**Effect** The haunt summons three [[Monster Core/Crawling Hand|Crawling Hand]], which emerge from the pile of dust to attack nearby creatures. The hands roll initiative and remain for 7 rounds, after which the summoning spell ends and the hands disappear. The hands also disappear if someone disables the trap before the duration expires.\n\nThe summoned hands can use 3 actions each round and can use reactions, unlike most summoned creatures."
 
   - name: "Routine"
     desc: "(1 action) Spectral hands grasp at creatures in the area. Each creature within 30 feet of the dust pile takes 1d4 void damage (DC 17 Will check save; creatures that critically fail this saving throw are [[Conditions/Slowed|Slowed 1]] for 1 round)."

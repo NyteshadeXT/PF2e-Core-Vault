@@ -70,8 +70,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Silver Blade +28 (magical, silver, two-hand d12)\n__Damage__  2d8 + 11 slashing 1d6 bleed 1d6 mental"
+  - name: "**Melee** `pf2:1` Silver Blade"
+    desc: "+28 (magical, silver, two-hand d12)\n__Damage__  2d8 + 11 slashing 1d6 bleed 1d6 mental"
 
   - name: "Occult Innate Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Phantom Pain|Phantom Pain]]_; __6th __  _[[Spells/Dominate|Dominate]]_, _[[Spells/Illusory Scene|Illusory Scene]]_; __5th __  _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_, _[[Spells/Item Facade|Item Facade]]_\n__Cantrips__  __(7th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

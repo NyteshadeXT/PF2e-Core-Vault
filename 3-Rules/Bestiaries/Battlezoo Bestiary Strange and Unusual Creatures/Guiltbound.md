@@ -39,7 +39,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, Intimidation: +22, Athletics: +22, Intimidation: +22"
+    desc: "Athletics: +22, Intimidation: +22"
 abilityMods: [7, 0, 5, 3, 3, 6]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Murder Weapon +22 (magical)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Murder Weapon"
+    desc: "+22 (magical)\n__Damage__  2d8 + 10 void plus mounting-terror"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dangling Corpse Arm +21 (reach 10 feet, sweep)\n__Damage__  2d6 + 10 bludgeoning plus grab,mounting-terror"
+  - name: "**Melee** `pf2:1` Dangling Corpse Arm"
+    desc: "+21 (reach 10 feet, sweep)\n__Damage__  2d6 + 10 bludgeoning plus grab,mounting-terror"
 
   - name: "Mounting Terror"
     desc: " (emotion,fear,void) A creature struck by the guiltbound begins to experience the moments that led up to the murder, eventually reliving the heart- stopping instant before the victim's death. They must attempt a DC 23 Will check save, and they take a –2 circumstance penalty to their save if they've damaged the guiltbound in the last round.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[undefined]].\n\n**Failure** The creature is [[undefined]] and takes 1d8 void damage.\n\n**Critical Failure** The creature is [[undefined]], [[undefined]], and takes 4d8 void damage."

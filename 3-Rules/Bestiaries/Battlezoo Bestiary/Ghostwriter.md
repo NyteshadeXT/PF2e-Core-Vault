@@ -67,8 +67,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Quill +12 (agile, finesse, magical)\n__Damage__  2d4 + 8 void"
+  - name: "**Melee** `pf2:1` Ghostly Quill"
+    desc: "+12 (agile, finesse, magical)\n__Damage__  2d4 + 8 void"
 
   - name: "Prepared Arcane Spells"
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Rune Trap|Glyph of Warding]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Translate|Comprehend Language]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(3rd)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

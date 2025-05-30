@@ -17,18 +17,20 @@ license: OGL
 ---
 # Body of Air `pf2:r`
 ## Feat 14
-### [[3-Rules/trait_reference/A/air]][[impulse]][[kineticist]][[overflow]][[polymorph]][[primal]]
+### [[air]][[impulse]][[kineticist]][[overflow]][[polymorph]][[primal]]
 
 **Category** class; 
 
 
 
 
-**Trigger** An enemy you can observe targets you with an attack or other damaging effect (Only required for reaction)
+`pf2:r` or `pf2:2`
+
+**Trigger** An enemy you can observe targets you with an attack or other damaging effect.
 
 * * *
 
-Your gathered air consumes your body, leaving only a cloud of living vapor. This has the same effects on you as vapor form. The effect lasts until the end of your next turn, but you can Sustain the form up to 5 minutes. If you activate your kinetic aura, Body of Air ends.
+Your gathered air consumes your body, leaving only a cloud of living vapor. This has the same effects on you as [[Spells/Vapor Form|Vapor Form]]. The effect lasts until the end of your next turn, but you can Sustain the form up to 5 minutes. If you activate your kinetic aura, Body of Air ends.
 
 You can use Body of Air as a reaction only when the trigger is met, but you can use it as a 2-action activity without the trigger being met.
 

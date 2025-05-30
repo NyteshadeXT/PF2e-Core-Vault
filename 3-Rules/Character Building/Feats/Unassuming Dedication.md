@@ -24,5 +24,5 @@ license: OGL
 
 Your family instilled the values of care and patience into you from a young age. You gain a +1 circumstance bonus to checks to perform a downtime activity.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Infuse Vitality|Infuse Vitality]].
+Granted by [[Spells/Infuse Vitality|Infuse Vitality]]
 
-Each target's unarmed and weapon Strikes deal extra vitality damage.
+Your unarmed and weapon Strikes deal extra vitality damage.
 
 *Source: Pathfinder Player Core*
 *ORC*

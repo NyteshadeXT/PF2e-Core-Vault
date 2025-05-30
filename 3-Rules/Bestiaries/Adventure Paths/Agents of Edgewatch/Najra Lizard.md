@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 ()\n__Damage__  2d6 piercing plus najra-lizard-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (unarmed)\n__Damage__  2d6 piercing plus najra-lizard-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Venomous Spit +14 (agile, poison, range increment 20 feet)\n__Damage__  1d4 poison plus najra-lizard-venom"
+  - name: "**Ranged** `pf2:1` Venomous Spit"
+    desc: "+14 (agile, poison, range increment 20 feet)\n__Damage__  1d4 poison plus najra-lizard-venom"
 
   - name: "Najra Lizard Venom"
     desc: "  The creature is extremely thirsty and can't quench its thirst while poisoned\n\n**Saving Throw** DC 21 Fortitude check\n\n**Maximum Duration** 4 hours\n\n**Stage 1** 1d4 poison damage, [[Conditions/Fatigued|Fatigued]], and 1d4 damage that can't be recovered until the creature quenches its thirst (1 round)\n\n**Stage 2** as stage 1 (1 hour)"

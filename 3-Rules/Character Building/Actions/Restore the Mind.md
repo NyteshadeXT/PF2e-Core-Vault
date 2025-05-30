@@ -8,14 +8,14 @@ tags:
   - trait/mental
   - trait/psyche
   - trait/psychic
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.XkrN7gxdRXTYYBkX"
 license: OGL
 ---
 # Restore the Mind `pf2:1`
 
-### [[3-Rules/Rule References/Emotion]][[healing]][[3-Rules/Rule References/Mental]][[psyche]][[psychic]]
+### [[emotion]][[healing]][[mental]][[psyche]][[psychic]]
 
 **Category** defensive; 
 

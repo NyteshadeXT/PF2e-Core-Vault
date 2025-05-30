@@ -70,11 +70,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +27 (magical, unholy)\n__Damage__  3d8 + 14 cold 2d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+27 (magical, unarmed, unholy)\n__Damage__  3d8 + 14 cold 2d6 spirit"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +27 (agile, magical, sweep, thrown 10 ft., unholy)\n__Damage__  3d6 + 14 slashing 1d6 spirit"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+27 (agile, magical, sweep, thrown 10 ft., unholy)\n__Damage__  3d6 + 14 slashing 1d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 34, attack +26; __5th __ (1 slots) _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Shadow Siphon|Shadow Siphon]]_; __2nd __  _[[Spells/Darkness|Darkness]]_; __1st __  _[[Spells/Fear|Fear]]_\n__Cantrips__  __(7th)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

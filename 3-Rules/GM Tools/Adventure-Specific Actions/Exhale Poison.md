@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Exhale Poison"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.aCFKA59YgGDNnSJ8"
 license: OGL
@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-You sharply exhale the poison that previously surrounded you in a @Template\[cone|distance:15\]. Creatures in the area are affected by the poison; the poison's DC and effects are unchanged.
+You sharply exhale the poison that previously surrounded you in a 15-foot cone. Creatures in the area are affected by the poison; the poison's DC and effects are unchanged.
 
 *Source: Pathfinder #153: Life's Long Shadows*
 *OGL*

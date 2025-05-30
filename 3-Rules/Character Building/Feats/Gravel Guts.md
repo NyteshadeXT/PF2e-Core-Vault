@@ -21,5 +21,5 @@ license: OGL
 * * *
 Stone never becomes queasy, so why should you? You gain a +1 circumstance bonus to saving throws against the [[Conditions/Sickened|Sickened]] condition. When you succeed at a Fortitude save to reduce your sickened value, you reduce it by 2 (or by 3 on a critical success).
 
-*Source: Pathfinder Lost Omens: Highhelm*
+*Source: Pathfinder Lost Omens Highhelm*
 *OGL*

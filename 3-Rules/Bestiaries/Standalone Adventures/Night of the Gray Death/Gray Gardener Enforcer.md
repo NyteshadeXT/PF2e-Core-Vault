@@ -72,14 +72,17 @@ abilities_mid:
   - name: "Rotting Flesh"
     desc: "  Any creature that hits the Gray Gardener enforcer with an unarmed attack, tries to Grapple them, or otherwise touches the gurgist is covered with rotten flesh and putrid fluids. The creature must succeed at a DC 36 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spiked Chain +35 (disarm, trip)\n__Damage__  3d8 + 13 slashing plus grab 2d8 bleed plus grab"
+  - name: "**Melee** `pf2:1` Spiked Chain"
+    desc: "+35 (disarm, trip)\n__Damage__  3d8 + 13 slashing plus grab 2d8 bleed plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +33 (agile)\n__Damage__  3d8 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+33 (agile, unarmed)\n__Damage__  3d8 + 13 bludgeoning"
 
   - name: "Chain Garotte"
     desc: "  The Gray Gardener enforcer's spiked chain Strike deals 2d8 bleed, and they can use it to Grab up to two foes. The enforcer can still attack with their spiked chain if they Grab one creature, but not when they Grab two."
@@ -91,7 +94,7 @@ attacks:
     desc: "`pf2:1`  3d8+7 slashing damage, DC 38 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC. A creature that fails this save falls [[Conditions/Unconscious|Unconscious]], and a creature that succeeds is then temporarily immune to falling unconscious from Greater Constrict for 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

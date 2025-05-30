@@ -61,20 +61,23 @@ abilities_mid:
   - name: "Undying Vendetta"
     desc: " (emotion,occult) If the revenant's murderer dies, the revenant is immediately destroyed. A revenant that can't sense their murderer must attempt a DC 11 Flat check check once every 24 hours to avoid becoming [[Conditions/Immobilized|Immobilized]] and [[Conditions/Prone|Prone]]; they immediately rise again once they can sense their murderer. A murderer who becomes undead does not trigger the revenant's destruction until the murderer is finally destroyed. The revenant gains a +2 status bonus to checks and DCs against their murderer."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile)\n__Damage__  2d8 + 5 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile, unarmed)\n__Damage__  2d8 + 5 slashing plus grab"
 
   - name: "Baleful Shriek"
-    desc: "`pf2:2` (auditory,emotion,fear,incapacitation,mental) The revenant wails horribly. Each creature within a @Template[burst|distance:60] must attempt a DC 23 Will check save. Regardless of the outcome of their saving throw, affected creatures are then immune to Baleful Shriek for 1 hour. The revenant's murderer never improves their degree of success due to this ability's incapacitation trait.\n\nThe revenant can't use Baleful Shriek again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Failure** The creature is frightened 2 and [[Conditions/Paralyzed|Paralyzed]] for 1 round.\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]] and paralyzed for 1d4 rounds."
+    desc: "`pf2:2` (auditory,emotion,fear,incapacitation,mental) The revenant wails horribly. Each creature within a 60-foot burst must attempt a DC 23 Will check save. Regardless of the outcome of their saving throw, affected creatures are then immune to Baleful Shriek for 1 hour. The revenant's murderer never improves their degree of success due to this ability's incapacitation trait.\n\nThe revenant can't use Baleful Shriek again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Failure** The creature is frightened 2 and [[Conditions/Paralyzed|Paralyzed]] for 1 round.\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]] and paralyzed for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6+5 bludgeoning, DC 24 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d6+5 bludgeoning, DC 24 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

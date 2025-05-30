@@ -74,20 +74,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +33 (magical, reach 20 feet, unholy)\n__Damage__  3d12 + 17 piercing plus enfeebling-bite 1d6 spirit plus enfeebling-bite"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+33 (magical, reach 20 feet, unarmed, unholy)\n__Damage__  3d12 + 17 piercing plus enfeebling-bite 1d6 spirit plus enfeebling-bite"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +33 (agile, magical, reach 20 feet, unholy)\n__Damage__  3d8 + 17 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+33 (agile, magical, reach 20 feet, unarmed, unholy)\n__Damage__  3d8 + 17 slashing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Pincer +33 (magical, reach 20 feet, unholy)\n__Damage__  3d8 + 17 bludgeoning plus improved-grab 1d6 spirit plus improved-grab"
+  - name: "**Melee** `pf2:1` Pincer"
+    desc: "+33 (magical, reach 20 feet, unholy)\n__Damage__  3d8 + 17 bludgeoning plus improved-grab 1d6 spirit plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +33 (magical, reach 20 feet, unholy)\n__Damage__  3d6 + 17 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+33 (magical, reach 20 feet, unholy)\n__Damage__  3d6 + 17 slashing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Gearblade +33 (disarm, magical, unholy, versatile b)\n__Damage__  3d12 + 17 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Gearblade"
+    desc: "+33 (disarm, magical, unholy, versatile b)\n__Damage__  3d12 + 17 slashing 1d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 37, attack +27; __8th __  _[[Spells/Divine Decree|Divine Decree]]_; __7th __  _[[Spells/Fly|Fly]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Translocate|Dimension Door (x2)]]_, _[[Spells/Scouting Eye|Prying Eye (x3)]]_; __4th __  _[[Spells/Clairvoyance|Clairvoyance (x3)]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_"
@@ -96,7 +96,7 @@ attacks:
     desc: "DC 36, attack +26"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "Enfeebling Bite"
     desc: " (divine) If the shemhazian's jaws Strike damages a creature, the target is [[Conditions/Enfeebled|Enfeebled 3]]. The target can attempt a DC 37 Fortitude check save to reduce this to [[Conditions/Enfeebled|Enfeebled 1]] (or be unaffected on a critical success)."

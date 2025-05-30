@@ -62,14 +62,17 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) When Syarstik is destroyed, he re-forms after 2d4 days within area **E9**, fully healed. Syarstik can be permanently destroyed only by a non-possessed wielder of the _Primordial Flame_."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Fangs +15 (finesse, magical)\n__Damage__  2d6 + 6 void"
+  - name: "**Melee** `pf2:1` Ghostly Fangs"
+    desc: "+15 (finesse, magical)\n__Damage__  2d6 + 6 void"
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Claw +15 (agile, finesse, magical)\n__Damage__  2d4 + 4 void"
+  - name: "**Melee** `pf2:1` Ghostly Claw"
+    desc: "+15 (agile, finesse, magical)\n__Damage__  2d4 + 4 void"
 
   - name: "Awaken Painting"
     desc: "`pf2:2` (divine) Syarstik animates a cave painting within 60 feet for 10 minutes. The painting's movement mimics Syarstik's, so the connection between the ghost and the awakened painting is obvious. Creatures other than Syarstik within 10 feet of the awakened painting are [[Conditions/Off-Guard|Off-Guard]] because of these eerie movements. Syarstik can make ghostly fangs Strikes at any creature within 10 feet of a cave painting; the target's cover or concealment from the cave painting, rather than from Syarstik, applies to this Strike.\n\nA creature adjacent to an awakened painting can spend 2 actions to attempt a DC 18 Occultism check or DC 18 Religion check check (to compel the awakened painting to abate) or a DC 20 Crafting check or DC 20 Thievery check check (to thoroughly smear the cave painting). On a success, the painting is destroyed, and the animation ceases. Either way, this activity has the concentrate trait.\n\nDestroying three awakened paintings quells Syarstik's anger, causing the great cat to cease his attacks."

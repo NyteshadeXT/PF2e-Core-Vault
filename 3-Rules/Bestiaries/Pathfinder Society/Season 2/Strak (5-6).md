@@ -61,22 +61,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Orc Necksplitter +16 (forceful, orc, sweep)\n__Damage__  1d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Orc Necksplitter"
+    desc: "+16 (forceful, orc, sweep)\n__Damage__  1d8 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Moderate Acid Flask +15 (range increment 30 feet, splash)\n__Damage__  4 acid 2d6 acid"
+  - name: "**Ranged** `pf2:1` Moderate Acid Flask"
+    desc: "+15 (range increment 30 feet, splash)\n__Damage__  4 acid 2d6 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Moderate Alchemist&#x27;s Fire +15 (range increment 30 feet)\n__Damage__  2d8 fire 2d6 fire 4 fire"
+  - name: "**Ranged** `pf2:1` Moderate Alchemist&#x27;s Fire"
+    desc: "+15 (range increment 30 feet)\n__Damage__  2d8 fire 2d6 fire 4 fire"
 
   - name: "Quick Bomber"
     desc: "`pf2:1`  Strak draws an alchemical bomb with an Interact action and throws it as a ranged Strike."

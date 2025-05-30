@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You have a powerful connection to the Boneyard and its courts, granting you the ability to travel to and from the Boneyard. You can cast [[Interplanar Teleport|Interplanar Teleport]] as a divine innate spell twice per week. This can be used only to travel to the Boneyard or from the Boneyard to the Universe. Due to your unique connection to the Boneyard, your body serves as the locus, and you don't require a planar key.
+You have a powerful connection to the Boneyard and its courts, granting you the ability to travel to and from the Boneyard. You can cast [[Spells/Interplanar Teleport|Interplanar Teleport]] as a divine innate spell twice per week. This can be used only to travel to the Boneyard or from the Boneyard to the Universe. Due to your unique connection to the Boneyard, your body serves as the locus, and you don't require a planar key.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -54,29 +54,29 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Dagger|+2 Striking Returning Dagger]], [[Equipment/Scimitar|+3 Major Striking Speed Scimitar]], [[Equipment/Shield Spikes|+2 Greater Striking Shield Spikes]], [[Equipment/Steel Shield|Steel Shield]], [[Equipment/Chain Mail|+2 Greater Resilient Chain Mail]], [[Equipment/Manacles (Superior)|Manacles (Superior)]], [[Equipment/Winged Sandals|Winged Boots]], [[Equipment/Oblivion Essence|Oblivion Essence]], [[Equipment/Weeping Midnight|Weeping Midnight]], Wasp Trapped in Amber"
+    desc: "[[Equipment/Dagger|+2 Striking Returning Dagger]], [[Equipment/Scimitar|+3 Major Striking Quickstrike Scimitar]], [[Equipment/Shield Spikes|+2 Greater Striking Shield Spikes]], [[Equipment/Steel Shield|Steel Shield]], [[Equipment/Chain Mail|+2 Greater Resilient Chain Mail]], [[Equipment/Manacles (Superior)|Manacles (Superior)]], [[Equipment/Winged Sandals|Winged Boots]], [[Equipment/Oblivion Essence|Oblivion Essence]], [[Equipment/Weeping Midnight|Weeping Midnight]], Wasp Trapped in Amber"
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Perfect Will"
     desc: "  If Uri rolls a success on a Will saving throw, he gets a critical success instead; if he rolls a critical failure on a Will save, he gets a failure instead."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Speed Scimitar +37 (forceful, magical, sweep)\n__Damage__  4d6 + 17 slashing"
+  - name: "**Melee** `pf2:1` Speed Scimitar"
+    desc: "+37 (forceful, magical, sweep)\n__Damage__  4d6 + 17 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shield Spikes +36 (magical)\n__Damage__  3d6 + 17 piercing"
+  - name: "**Melee** `pf2:1` Shield Spikes"
+    desc: "+36 (magical)\n__Damage__  3d6 + 17 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +34 (agile, thrown 10 ft., versatile s)\n__Damage__  4d4 + 12 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+34 (agile, thrown 10 ft., versatile s)\n__Damage__  4d4 + 12 piercing"
 
   - name: "Punish Imperfection"
     desc: "`pf2:r`  **Trigger** A creature within Uri's reach fails an attack roll, saving throw, or skill check\n* * *\n\n**Effect** Uri makes an unarmed Strike against the triggering creature. If the attack hits, the target must succeed at a DC 41 Fortitude check save or become [[Conditions/Enfeebled|Enfeebled 3]] until the end of its next turn ([[Conditions/Enfeebled|Enfeebled 4]] on a critical failure)."

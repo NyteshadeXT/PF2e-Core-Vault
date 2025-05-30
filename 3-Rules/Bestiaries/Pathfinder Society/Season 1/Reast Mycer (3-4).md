@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
   - name: "Swear Vengeance"
     desc: "`pf2:r`  **Trigger** A creature that Reast can see damages a follower of Groetus other than Reast\n* * *\n\n**Effect** Reast gains the effect of a 1st-rank [[Spells/Sure Strike|Sure Strike]] spell. If Reast makes an attack roll against anyone other than the triggering creature, the true strike ends with no effect.\n\nReast can use this reaction once per day."
@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flail +12 (disarm, sweep, trip)\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Flail"
+    desc: "+12 (disarm, sweep, trip)\n__Damage__  1d6 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +9 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+9 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 19, attack +11; __2nd __  _[[Spells/Restoration|Restoration]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Share Life|Shield Other]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Runic Weapon|Magic Weapon]]_, _[[Spells/Spirit Link|Spirit Link]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_"

@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +23 (agile, magical, unholy)\n__Damage__  3d10 + 11 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+23 (agile, magical, unholy)\n__Damage__  3d10 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +24 (agile, finesse, magical, unholy)\n__Damage__  3d8 + 11 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+24 (agile, finesse, magical, unarmed, unholy)\n__Damage__  3d8 + 11 slashing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 32, attack +24; __6th __ (3 slots) _[[Spells/Dominate|Dominate]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Spirit Blast|Spirit Blast]]_; __5th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_; __4th __ (4 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __ (4 slots) _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Slow|Slow]]_; __2nd __ (4 slots) _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Silence|Silence]]_; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(6th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -78,13 +78,13 @@ attacks:
     desc: "DC 32, attack +24; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead]]_"
+    desc: "_Create Undead_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) Vaklish takes on the appearance of any Medium humanoid. This doesn't change Valish's Speed or the attack and damage modifiers with his Strikes but might change the damage type his Strikes deal (typically to bludgeoning). He typically loses his fangs Strike unless the humanoid form has fangs or a similar unarmed attack.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) Vaklish takes on the appearance of any Medium humanoid. This doesn't change Valish's Speed or the attack and damage modifiers with his Strikes but might change the damage type his Strikes deal (typically to bludgeoning). He typically loses his fangs Strike unless the humanoid form has fangs or a similar unarmed attack.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Disturbing Vision"
-    desc: "`pf2:1` (concentrate,mental,occult) Vaklish's eyes flash green as it projects a telepathic wave in a @Template[emanation|distance:30]. All creatures in the area are assailed by a vision of evil decadence from one of the rakshasa's past lives. Each non-evil creature in the area must succeed at a DC 32 Will check save or become [[Conditions/Sickened|Sickened 1]] (and [[Conditions/Stunned|Stunned 1]] on a critical failure).\n\nThe visions last 1d4 rounds, and while they do, Vaklish and all evil creatures in the area gain a +1 status bonus to all checks. Vaklish can use this ability again only once the previous visions end.\n\n[[Bestiary Effects/Effect_ Disturbing Vision|Effect: Disturbing Vision]]"
+    desc: "`pf2:1` (concentrate,mental,occult) Vaklish's eyes flash green as it projects a telepathic wave in a 30-foot emanation. All creatures in the area are assailed by a vision of evil decadence from one of the rakshasa's past lives. Each non-evil creature in the area must succeed at a DC 32 Will check save or become [[Conditions/Sickened|Sickened 1]] (and [[Conditions/Stunned|Stunned 1]] on a critical failure).\n\nThe visions last 1d4 rounds, and while they do, Vaklish and all evil creatures in the area gain a +1 status bonus to all checks. Vaklish can use this ability again only once the previous visions end.\n\n[[Bestiary Effects/Effect_ Disturbing Vision|Effect: Disturbing Vision]]"
  
 ```
 

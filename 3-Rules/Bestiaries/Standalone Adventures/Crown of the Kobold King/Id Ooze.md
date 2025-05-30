@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 60 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Id Ooze Acid"
     desc: "  An id ooze's acid damages only metal and organic materials, not stone."
 
@@ -67,17 +70,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +18 (agile)\n__Damage__  2d4 + 8 bludgeoning plus grab 1d6 acid plus grab"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+18 (agile, unarmed)\n__Damage__  2d4 + 8 bludgeoning plus grab 1d6 acid plus grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Phantom Pain|Phantom Pain]]_; __3rd __  _[[Spells/Fear|Fear]]_, _[[Spells/Hypnotize|Hypnotic Pattern]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d4+8 bludgeoning plus 1d6 acid, DC 25 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d4+8 bludgeoning plus 1d6 acid, DC 25 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -54,17 +54,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "No Breath"
     desc: "  The elder thing doesn't breathe and is immune to effects that require breathing (such as inhaled poison)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +13 (agile)\n__Damage__  2d6 + 6 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+13 (agile, unarmed)\n__Damage__  2d6 + 6 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6+6 bludgeoning, DC 22 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d6+6 bludgeoning, DC 22 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Hibernate"
     desc: "  The elder thing enters a state of hibernation after focusing its thoughts for 1 minute. While hibernating, an elder thing is [[Conditions/Unconscious|Unconscious]]. The elder thing can remain in hibernation as long as it wishes—while hibernating, it doesn't need to eat or drink, nor does it age. Time effectively stands still for a hibernating elder thing. Any effect that would normally rouse an unconscious creature can end an elder thing's hibernation, but the elder thing must attempt a DC 25 Will check save. On a success, the elder thing awakens in 2d4 rounds; otherwise it takes 1d4 days to wake from hibernation. The elder thing can set the length of its hibernation when it enters this state, so that it can awaken after a set amount of time has passed. When awakening in this way, the elder thing does so in only 1d4 rounds, with no Will save necessary."
@@ -73,7 +76,7 @@ attacks:
     desc: "  The elder thing's wings allow it to fly in regions where flight is normally impossible, such as outer space. It gains a +2 circumstance bonus to checks made to Maneuver in Flight, and on saving throws against effects that impede flight."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -59,6 +59,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 15 (Deactivated by Earthbane)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Blessed by the Winds"
     desc: " (air,aura) 80 feet. The winds grow turbulent for those who would dare to fly in the same space as an anemos, but they take care to never harm or inconvenience their shepherd. Air within the emanation is difficult terrain for Flying creatures that do not have the air trait. While the aura is active, the anemos cannot be affected by environmental air or weather affects unless they choose to be."
 
@@ -71,20 +74,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Thunderbolt +35 (electricity, magical)\n__Damage__  3d8 + 12 electricity 3d6 sonic"
+  - name: "**Melee** `pf2:1` Thunderbolt"
+    desc: "+35 (electricity, magical)\n__Damage__  3d8 + 12 electricity 3d6 sonic"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thunderbolt +35 (electricity, magical, thrown 30 ft.)\n__Damage__  3d8 + 10 electricity 3d6 sonic"
+  - name: "**Ranged** `pf2:1` Thunderbolt"
+    desc: "+35 (electricity, magical, thrown 30 ft.)\n__Damage__  3d8 + 10 electricity 3d6 sonic"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Air Blast +35 (agile, air, magical, range 100 feet)\n__Damage__  3d10 + 12 bludgeoning"
+  - name: "**Ranged** `pf2:1` Air Blast"
+    desc: "+35 (agile, air, magical, range 100 feet)\n__Damage__  3d10 + 12 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 40, attack +32; __9th __  _[[Spells/Cleanse Air|Cleanse Air]]_; __7th __  _[[Spells/Humanoid Form|Humanoid Form (At Will)]]_; __4th __  _[[Spells/Airlift|Airlift (At Will)]]_, _[[Spells/Vapor Form|Vapor Form (At Will)]]_, _[[Spells/Voice on the Breeze|Voice on the Breeze (At Will)]]_; __1st __  _[[Spells/Air Bubble|Air Bubble (At Will)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Control Weather|Control Weather]]_, _[[Spells/Sky Signs|Sky Signs]]_"
+    desc: "_Control Weather_, _Sky Signs_"
 
   - name: "Collect Thunder"
     desc: " (electricity,manipulate) **Requirements** The anemos has a hand free\n* * *\n\n**Effect** The anemos runs a hand through the winds that swirl around them, the sparks from their fingertips coalescing into a thunderbolt. The anemos creates a thunderbolt in their open hand. If the anemos spends an action to Collect Thunder, a bolt instead strikes their open hand, creating a booming peal that deafens all creatures within 20 feet for 1 round unless they succeed at a DC 40 Fortitude check save; this adds the auditory trait to Collect Thunder. Any thunderbolts dissipate after 1 round."

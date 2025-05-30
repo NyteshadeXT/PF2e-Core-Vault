@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Unblinking Flame Aura|Unblinking Flame Aura]]
+Granted by [[Spells/Unblinking Flame Aura|Unblinking Flame Aura]]
 
 You gain a +2 status bonus on Perception checks and resistance 10 to cold.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

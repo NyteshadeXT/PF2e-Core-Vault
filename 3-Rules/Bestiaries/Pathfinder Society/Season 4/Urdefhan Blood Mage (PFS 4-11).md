@@ -53,19 +53,25 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Kukri|+1 Striking Kukri]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "Necrotic Decay"
-    desc: " (divine,void) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a @Template[emanation|distance:5] around the body.\n\nThis gas deals 8d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 24 Fortitude check save)."
+    desc: " (divine,void) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body.\n\nThis gas deals 8d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 24 Fortitude check save)."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +16 (agile, trip)\n__Damage__  2d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+16 (agile, trip)\n__Damage__  2d6 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d6 + 8 piercing plus wicked-bite"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (unarmed)\n__Damage__  2d6 + 8 piercing plus wicked-bite"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 26, attack +18; __4th __ (4 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __ (4 slots) _[[Spells/Haste|Haste]]_, _[[Spells/Levitate|Levitate]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Ghoulish Cravings|Ghoulish Cravings]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (4 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Phantom Pain|Phantom Pain]]_\n__Cantrips__  __(8th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -77,7 +83,7 @@ attacks:
     desc: "`pf2:1` (occult,spellshape) **Frequency** once per round\n* * *\n\n**Effect** The blood mage cuts themself and takes 8 slashing damage. If the blood mage's next action is to Cast a Spell, the action can't be disrupted, and if the spell has a range, the blood mage can increase that spell's range by 30 feet."
 
   - name: "Wicked Bite"
-    desc: "`pf2:1`  **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action\n* * *\n\n**Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a fortitude save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n\n*   **Drain Blood** DC 26 Fortitude check The urdefhan drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained|Drained 1]] and the urdefhan regains 10 HP (or, on a critical failure, it's [[Conditions/Drained|Drained 2]] and the urdefhan regains 20 HP).\n*   **Drain Vitality** (necromancy) DC 26 Fortitude check The urdefhan draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour on a critical failure)."
+    desc: "`pf2:1`  **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action\n* * *\n\n**Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a fortitude save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n\n*   **Drain Blood** DC 26 Fortitude check The urdefhan drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained|Drained 1]] and the urdefhan regains 10 healing HP (or, on a critical failure, it's [[Conditions/Drained|Drained 2]] and the urdefhan regains 20 healing HP).\n*   **Drain Vitality** (necromancy) DC 26 Fortitude check The urdefhan draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour on a critical failure)."
  
 ```
 

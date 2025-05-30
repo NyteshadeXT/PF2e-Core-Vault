@@ -22,5 +22,5 @@ license: OGL
 * * *
 You are comfortable and socially capable in almost any cultural context. When you use the Society skill to Subsist, if you roll a critical failure, you get a failure instead; if you roll a success, you get a critical success instead; and if you roll a critical success, you can provide for another additional creature. Furthermore, when you attempt a Society check to Recall Knowledge about cultural practices and roll a critical failure, you get a failure instead.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

@@ -49,6 +49,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Axe Vulnerability"
@@ -60,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +15 (reach 15 feet)\n__Damage__  2d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+15 (reach 15 feet)\n__Damage__  2d8 + 6 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Animal Allies|Animal Allies (x2)]]_; __2nd __  _[[Spells/Animal Messenger|Animal Messenger]]_\n__Constant__  __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"

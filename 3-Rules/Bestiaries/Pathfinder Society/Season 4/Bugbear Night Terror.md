@@ -64,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +11 (agile, nonlethal, unholy)\n__Damage__  1d4 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+11 (agile, nonlethal, unarmed, unholy)\n__Damage__  1d4 + 8 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +11 (unholy)\n__Damage__  1d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+11 (unholy)\n__Damage__  1d6 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +8 (thrown 20 ft., unholy)\n__Damage__  1d6 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+8 (thrown 20 ft., unholy)\n__Damage__  1d6 + 8 piercing"
 
   - name: "Startling Grasp"
     desc: "`pf2:1`  The bugbear Strides up to 10 feet and attempts to [[Action Macros/Grapple_ Athletics|Grapple: Athletics]] a creature they're [[Conditions/Undetected|Undetected]] by. If they succeed, the creature is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] if the bugbear critically succeeds at their Athletics check to Grapple."

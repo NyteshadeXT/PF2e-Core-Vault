@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 (finesse)\n__Damage__  2d4 + 4 piercing plus cosmic-blight"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (finesse)\n__Damage__  2d4 + 4 piercing plus cosmic-blight"
 
   - name: "Occult Innate Spells"
     desc: "DC 21, attack +11; __2nd __ (1 slots) _[[Spells/Darkness|Darkness]]_; __1st __ (2 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Fear|Fear]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -92,7 +92,7 @@ The transformed house drake's appearance is what gives these creatures their mon
 
 ## Worlds of Potential
 
-Like typical [[House Drake|House Drakes]], shadowless house drakes are almost exclusively found in certain cosmopolitan cities. Unlike their mundane brethren, however, these shadowy dragons are not bound to just one planet. Indeed, their bizarre interactions with the greater cosmos has planted descendants of the original shadowless house drakes on every celestial body in the solar system.
+Like typical [[Bestiary 3/House Drake|House Drakes]], shadowless house drakes are almost exclusively found in certain cosmopolitan cities. Unlike their mundane brethren, however, these shadowy dragons are not bound to just one planet. Indeed, their bizarre interactions with the greater cosmos has planted descendants of the original shadowless house drakes on every celestial body in the solar system.
 
 ## Monster Part Subsystem
 

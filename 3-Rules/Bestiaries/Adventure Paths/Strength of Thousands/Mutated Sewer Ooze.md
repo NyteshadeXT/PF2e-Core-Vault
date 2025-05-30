@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +17 (agile, deadly d10, finesse, versatile s)\n__Damage__  2d8 + 5 bludgeoning 1d4 acid 1d4 acid"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+17 (agile, deadly d10, finesse, unarmed, versatile s)\n__Damage__  2d8 + 5 bludgeoning 1d4 acid 1d4 acid"
 
   - name: "Filth Wave"
-    desc: "`pf2:1`  **Frequency** once per minute\n* * *\n\n**Effect** The sewer ooze unleashes a wave of filth, covering all creatures within a @Template[emanation|distance:20]. Each creature in the area must succeed at a DC 24 Reflex check save or take 1d4 acid damage and a -10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[Conditions/Prone|Prone]]). A creature can spend an Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action.\n\n[[Bestiary Effects/Effect_ Filth Wave|Effect: Filth Wave]]"
+    desc: "`pf2:1`  **Frequency** once per minute\n* * *\n\n**Effect** The sewer ooze unleashes a wave of filth, covering all creatures within a 20-foot emanation. Each creature in the area must succeed at a DC 24 Reflex check save or take 1d4 acid damage and a -10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[Conditions/Prone|Prone]]). A creature can spend an Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action.\n\n[[Bestiary Effects/Effect_ Filth Wave|Effect: Filth Wave]]"
  
 ```
 

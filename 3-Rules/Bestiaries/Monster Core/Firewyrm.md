@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Explosion"
-    desc: " (fire) When the firewyrm dies, it explodes, dealing 6d6 fire damage to each creature in a @Template[emanation|distance:10|traits:fire,damaging-effect] (DC 28 Reflex check save)."
+    desc: " (fire) When the firewyrm dies, it explodes, dealing 6d6 fire damage to each creature in a 10-foot emanation (DC 28 Reflex check save)."
 
   - name: "Intense Heat"
     desc: " (aura,fire) 10 feet. 4d6 fire damage DC 25 Reflex check"
@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +20 (reach 15 feet)\n__Damage__  2d8 + 11 fire 2d8 fire"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+20 (reach 15 feet)\n__Damage__  2d8 + 11 fire 2d8 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Fire Mote +20 (range increment 60 feet)\n__Damage__  2d8 + 6 fire"
+  - name: "**Ranged** `pf2:1` Fire Mote"
+    desc: "+20 (range increment 60 feet)\n__Damage__  2d8 + 6 fire"
 
   - name: "Breath Fire"
-    desc: "`pf2:2` (fire,primal) The firewyrm breathes a @Template[cone|distance:30] of fire dealing 7d6 fire + 2d8 persistent fire damage to every creature within the cone (DC 28 Reflex check save).\n\nThe firewyrm can't Breathe Fire again for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) The firewyrm breathes a 30-foot cone of fire dealing 7d6 fire + 2d8 persistent fire damage to every creature within the cone (DC 28 Reflex check save).\n\nThe firewyrm can't Breathe Fire again for 1d4 rounds."
  
 ```
 

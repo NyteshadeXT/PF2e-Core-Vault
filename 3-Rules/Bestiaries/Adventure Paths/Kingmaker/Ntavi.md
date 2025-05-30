@@ -56,16 +56,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Maul +16 (magical, shove)\n__Damage__  1d12 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Maul"
+    desc: "+16 (magical, shove)\n__Damage__  1d12 + 7 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +16 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+16 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 7 piercing"
 
   - name: "Furious Power Attack"
     desc: "`pf2:2`  Ntavi makes a melee Strike. This counts as one attack when calculating her multiple attack penalty. If the Strike hits, she deals an extra die of weapon damage."

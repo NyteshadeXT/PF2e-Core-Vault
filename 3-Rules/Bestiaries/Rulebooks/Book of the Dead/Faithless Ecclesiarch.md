@@ -61,11 +61,14 @@ abilities_mid:
   - name: "Inspire the Faithless"
     desc: " (aura,divine) 30 feet. Other herexens are bolstered by the presence of a faithless ecclesiarch. Whenever a herexen in the aura casts a [[Spells/Harm|Harm]] spell, that _harm_ spell is heightened by 1 rank (to a maximum of 3rd)."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +14 (magical, two-hand d8)\n__Damage__  1d4 + 5 bludgeoning plus heretics-smite"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+14 (magical, two-hand d8)\n__Damage__  1d4 + 5 bludgeoning plus heretics-smite"
 
   - name: "Divine Prepared Spells"
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Levitate|Levitate]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

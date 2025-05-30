@@ -61,20 +61,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Mace +30 (agile, finesse, shove)\n__Damage__  2d4 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Light Mace"
+    desc: "+30 (agile, finesse, shove)\n__Damage__  2d4 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Greater Acid Flask +30 (acid, alchemical, bomb, consumable, range increment 60 feet, splash)\n__Damage__  1 acid plus uncanny-bombs 3d6 acid plus uncanny-bombs 3 acid plus uncanny-bombs"
+  - name: "**Ranged** `pf2:1` Greater Acid Flask"
+    desc: "+30 (acid, alchemical, bomb, consumable, range increment 60 feet, splash)\n__Damage__  1 acid plus uncanny-bombs 3d6 acid plus uncanny-bombs 3 acid plus uncanny-bombs"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Greater Alchemist&#x27;s Fire +30 (alchemical, bomb, consumable, fire, range increment 60 feet, splash)\n__Damage__  3d8 fire plus uncanny-bombs 3 fire plus uncanny-bombs 3 fire plus uncanny-bombs"
+  - name: "**Ranged** `pf2:1` Greater Alchemist&#x27;s Fire"
+    desc: "+30 (alchemical, bomb, consumable, fire, range increment 60 feet, splash)\n__Damage__  3d8 fire plus uncanny-bombs 3 fire plus uncanny-bombs 3 fire plus uncanny-bombs"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Greater Frost Vial +30 (alchemical, bomb, cold, consumable, range increment 60 feet, splash)\n__Damage__  3d6 cold plus uncanny-bombs 3 cold plus uncanny-bombs"
+  - name: "**Ranged** `pf2:1` Greater Frost Vial"
+    desc: "+30 (alchemical, bomb, cold, consumable, range increment 60 feet, splash)\n__Damage__  3d6 cold plus uncanny-bombs 3 cold plus uncanny-bombs"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Greater Thunderstone +30 (alchemical, bomb, consumable, range increment 60 feet, sonic, splash)\n__Damage__  3d4 sonic plus uncanny-bombs 3 sonic plus uncanny-bombs"
+  - name: "**Ranged** `pf2:1` Greater Thunderstone"
+    desc: "+30 (alchemical, bomb, consumable, range increment 60 feet, sonic, splash)\n__Damage__  3d4 sonic plus uncanny-bombs 3 sonic plus uncanny-bombs"
 
   - name: "Alchemical Formulas"
     desc: "  [[Equipment/Acid Flask (Greater)|Acid Flask (Greater)]]\n\n[[Equipment/Alchemist's Fire (Greater)|Alchemist's Fire (Greater)]]\n\n[[Equipment/Bottled Lightning (Greater)|Bottled Lightning (Greater)]]\n\n[[Equipment/Darkvision Elixir (Greater)|Darkvision Elixir (Greater)]]\n\n[[Equipment/Deathcap Powder|Deathcap Powder]]\n\n[[Equipment/Elixir of Life (Greater)|Elixir of Life (Greater)]]\n\n[[Equipment/Frost Vial (Greater)|Frost Vial (Greater)]]\n\n[[Equipment/Lethargy Poison|Lethargy Poison]]\n\n[[Equipment/Cave Worm Venom|Purple Worm Venom]]\n\n[[Equipment/Glue Bomb (Greater)|Tanglefoot Bag (Greater)]]"

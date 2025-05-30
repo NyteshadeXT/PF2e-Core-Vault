@@ -65,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +22 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 10 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+22 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 10 piercing"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 30, attack +22; __5th __ (3 slots) _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Dispel Magic|Dispel Magic]]_; __4th __ (3 slots) _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __ (3 slots) _[[Spells/Haste|Haste]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Slow|Slow]]_; __2nd __ (4 slots) _[[Spells/Invisibility|Invisibility]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Pathfinder Condition Removal"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.yA4XwJFMiam3Gacc"
 license: OGL
 ---
 # Pathfinder Condition Removal
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 
@@ -25,13 +25,13 @@ Penitent Pathfinder (Slotless Boon): In the course of your adventuring, you foun
 
 Spells available:
 
-*   [[Dispel Magic|Dispel Magic]] (removes one ongoing spell effect)
+*   [[Spells/Dispel Magic|Dispel Magic]] (removes one ongoing spell effect)
     
-*   [[Cleanse Affliction|Cleanse Affliction]]
+*   [[Spells/Cleanse Affliction|Cleanse Affliction]]
     
-*   [[Restoration|Restoration]]
+*   [[Spells/Restoration|Restoration]]
     
-*   [[Stone to Flesh|Stone to Flesh]]
+*   [[Spells/Stone to Flesh|Stone to Flesh]]
 
 *Source: *
 *OGL*

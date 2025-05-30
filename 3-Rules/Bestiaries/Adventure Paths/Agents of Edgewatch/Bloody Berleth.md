@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shovel +24 (deadly d10, magical, trip)\n__Damage__  2d10 + 11 slashing"
+  - name: "**Melee** `pf2:1` Shovel"
+    desc: "+24 (deadly d10, magical, trip)\n__Damage__  2d10 + 11 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heavy Crossbow +19 (range increment 120 feet, reload 2)\n__Damage__  1d10 piercing"
+  - name: "**Ranged** `pf2:1` Heavy Crossbow"
+    desc: "+19 (range increment 120 feet, reload 2)\n__Damage__  1d10 piercing"
 
   - name: "Concussive Beatdown"
     desc: "`pf2:1`  **Requirements** Berleth has just used his shovel to Trip a creature\n* * *\n\n**Effect** Berleth brutally brings his shovel down on the prone foe, making a shovel Strike. On a hit, the Strike deals damage as normal, plus the target must make a DC 30 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]].\n\n**Failure** The creature is [[Conditions/Stunned|Stunned 2]].\n\n**Critical Failure** The creature is [[Conditions/Stunned|Stunned 2]] and [[Conditions/Clumsy|Clumsy 1]] for 1 minute."

@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/aura
   - trait/divine
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.s6JRMjgA7hSGUAYX"
 license: OGL
 ---
 # (Vampire, Vrykolakas Master) Pestilential Aura
 
-### [[3-Rules/trait_reference/A/aura]][[divine]]
+### [[aura]][[divine]]
 
 **Category** defensive; 
 

@@ -36,5 +36,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "When you Cast the Spell, you plunge the required weapon into the ground, where it crackles with crimson lightning. When you Cast the Spell, and the first time during each of your subsequent turns that you Sustain the spell, the crimson lightning arcs. When the weapon arcs, one enemy of your choice within 30 feet of the weapon takes 3d12 electricity damage (basic Reflex save). If you Interact to draw the weapon from the ground, the spell ends.\n* * *\n\n**Heightened (+2)** The damage increases by 1d12."
-sourcebook: "_Pathfinder Lost Omens: Knights of Lastwall_"
+sourcebook: "_Pathfinder Lost Omens Knights of Lastwall_"
 ```

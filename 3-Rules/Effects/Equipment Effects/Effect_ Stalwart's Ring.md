@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Stalwart's Ring|Stalwart's Ring]]
+Granted by [[Equipment/Stalwart's Ring|Stalwart's Ring]]
+
+You gain 5 temporary Hit Points.
 
 *Source: Pathfinder Adventure: The Fall of Plaguestone*
 *OGL*

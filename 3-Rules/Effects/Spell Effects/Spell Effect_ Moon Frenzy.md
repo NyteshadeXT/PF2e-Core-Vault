@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Moon Frenzy|Moon Frenzy]]
+Granted by [[Spells/Moon Frenzy|Moon Frenzy]]
 
-Targets gain temporary Hit Points, a +10-foot status bonus to their Speeds, and weakness to silver. They also grow vicious fangs and claws, which are unarmed attacks. If a target is in the light of a full moon, it also grows by one size if it were Medium or smaller. This increases the reach of a Medium or Tiny creature by 5 feet.
+You gain temporary Hit Points, a +10-foot status bonus to your Speeds, and weakness to silver. You also grow vicious fangs and claws, which are unarmed attacks. If a target is in the light of a full moon, it also grows by one size if it were Medium or smaller. This increases the reach of a Medium or Tiny creature by 5 feet.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -1,19 +1,19 @@
 ---
 obsidianUIMode: preview
 title: "Covering Fire"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/attack
   - trait/cavalry
   - trait/infantry
   - trait/skirmisher
-  - trait/common
+  - trait/
   - category/army-war-action
 aliases: "Compendium.pf2e.kingmaker-features.Item.GIbm9qo8VuFgPywJ"
 license: OGL
 ---
 # Covering Fire `pf2:2`
-
+## 
 ### [[attack]][[cavalry]][[infantry]][[skirmisher]]
 
 **Category** army-war-action; 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Fire in the Hole"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.UEkGL7uAGYDPFNfK"
 license: OGL

@@ -52,10 +52,10 @@ attacks:
   - name: ""
 
   - name: "Portal"
-    desc: "`pf2:r` (magical) **Trigger** The PCs approach the _mushroom ring_\n* * *\n\n**Effect** An [[Bestiary 1/Elananx|Elananx]] emerges from the portal to defend it, and the hazard then rolls initiative."
+    desc: "`pf2:r` (magical) **Trigger** The PCs approach the _mushroom ring_\n* * *\n\n**Effect** An [[Monster Core/Elananx|Elananx]] emerges from the portal to defend it, and the hazard then rolls initiative."
 
   - name: "Routine"
-    desc: "(1 action) A [[Bestiary 1/Elananx|Elananx]] emerges from the _mushroom ring_ and defends it. All elananxes use the _mushroom ring's_ initiative."
+    desc: "(1 Action) A [[Monster Core/Elananx|Elananx]] emerges from the _mushroom ring_ and defends it. All elananxes use the _mushroom ring's_ initiative."
 
 ```
 

@@ -16,11 +16,9 @@ license: OGL
 
 
 
-You gain a +1 circumstance bonus to saves and gain 8 temporary Hit Points.
+Granted by [[Spells/Euphoric Renewal|Euphoric Renewal]]
 
-* * *
-
-**Heightened (+1)** The number of temporary HP increases by 2.
+You gain a +1 circumstance bonus to saves and temporary Hit Points.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

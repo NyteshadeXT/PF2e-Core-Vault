@@ -25,5 +25,5 @@ If you're a lethoci kashrishi who takes this feat, your modifications also make 
 
 **Special** You can take this feat only at 1st level, and you can't retrain into this feat.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

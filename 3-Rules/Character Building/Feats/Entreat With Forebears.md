@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Entreat With Forebears"
+title: "Entreat with Forebears"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/sorcerer
@@ -9,7 +9,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.EaIczkGVI5DUo3c9"
 license: OGL
 ---
-# Entreat With Forebears
+# Entreat with Forebears
 ## Feat 2
 ### [[sorcerer]]
 

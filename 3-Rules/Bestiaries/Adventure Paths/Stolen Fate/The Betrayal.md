@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +37 (magical, versatile p)\n__Damage__  4d12 + 15 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+37 (magical, versatile p)\n__Damage__  4d12 + 15 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Harrow Card +30 (agile, magical, range increment 20 feet, thrown)\n__Damage__  3d6 + 15 piercing"
+  - name: "**Ranged** `pf2:1` Harrow Card"
+    desc: "+30 (agile, magical, range increment 20 feet, thrown)\n__Damage__  3d6 + 15 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 42, attack +34; __9th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Foresight|Foresight]]_, _[[Spells/Wails of the Damned|Wail of the Banshee]]_; __8th __  _[[Spells/Pinpoint|Discern Location]]_, _[[Spells/Quandary|Maze]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __  _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Visions of Danger|Visions of Danger]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __  _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Spirit Blast|Spirit Blast]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Shadow Siphon|Shadow Siphon]]_, _[[Spells/Synesthesia|Synesthesia]]_; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __  _[[Spells/Augury|Augury]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Ill Omen|Ill Omen]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(10th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

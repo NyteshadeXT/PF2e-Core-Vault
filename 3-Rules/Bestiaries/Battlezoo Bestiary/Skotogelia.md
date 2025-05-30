@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shadow Fist +13 (finesse, magical)\n__Damage__  2d6 + 4 void"
+  - name: "**Melee** `pf2:1` Shadow Fist"
+    desc: "+13 (finesse, magical)\n__Damage__  2d6 + 4 void"
 
   - name: "Occult Prepared Spells"
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __  _[[Spells/Translate|Comprehend Language]]_, _[[Spells/Darkness|Darkness]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __  _[[Spells/Carryall|Floating Disk]]_, _[[Spells/Lock|Lock]]_, _[[Spells/Mindlink|Mindlink]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

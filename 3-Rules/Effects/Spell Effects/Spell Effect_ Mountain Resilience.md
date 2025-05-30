@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Mountain Resilience|Mountain Resilience]]
+Granted by [[Spells/Mountain Resilience|Mountain Resilience]]
 
-The target's skin hardens like stone. It gains resistance 5 to physical damage, except adamantine. Each time the target is hit by a bludgeoning, piercing, or slashing attack, _mountain resilience_'s duration decreases by 1 minute.
+You gain resistance to physical damage, except adamantine.
 
 *Source: Pathfinder Player Core*
 *ORC*

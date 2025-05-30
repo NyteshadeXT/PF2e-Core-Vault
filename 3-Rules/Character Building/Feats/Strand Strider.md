@@ -20,5 +20,5 @@ license: OGL
 
 Your eight legs serve you well when climbing walls and webs alike. You gain a climb speed of 25 feet in your spider shape.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

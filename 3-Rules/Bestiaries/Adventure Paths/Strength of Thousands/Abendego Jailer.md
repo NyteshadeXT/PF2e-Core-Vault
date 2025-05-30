@@ -56,19 +56,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mancatcher +23 (reach 10 feet)\n__Damage__  1d8 + 9 slashing plus restrain"
+  - name: "**Melee** `pf2:1` Mancatcher"
+    desc: "+23 (reach 10 feet)\n__Damage__  1d8 + 9 slashing plus restrain"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +23 (agile, versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+23 (agile, versatile s)\n__Damage__  1d4 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +22 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+22 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
 
   - name: "Restrain"
     desc: "  When the jailer makes a successful mancatcher Strike, their target must succeed at a DC 27 Reflex check save or become [[Conditions/Grabbed|Grabbed]] until the end of the jailer's next turn.\n\nEach time the target fails an attempt to [[Actions/Escape|Escape]] the jailer, it takes 2d6 piercing damage."

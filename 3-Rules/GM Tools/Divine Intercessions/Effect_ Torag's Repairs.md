@@ -20,5 +20,5 @@ Granted by [[Divine Intercessions/Torag - Minor Boon|Torag - Minor Boon]]
 
 The item's Hardness doubles.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

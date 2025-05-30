@@ -23,7 +23,7 @@ level: "Army 10"
 rare_03: [[Rare]]
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: skirmisher
 modifier: 20
 perception:
@@ -33,7 +33,7 @@ perception:
   - name: "Recruitment DC"
     desc: "32; __Consumption__ 1"
   - name: "Description"
-    desc: "Capable of striding across water, these bog striders from the settlement of Tok-Nikrat (encounter area **HT12**) fight with nets and spears."
+    desc: "Capable of striding across water, these bog striders from the settlement of Tok-Nikrat (encounter area **HT12**) fight with nets and spears."
 ac: 31
 armorclass:
   - name: AC

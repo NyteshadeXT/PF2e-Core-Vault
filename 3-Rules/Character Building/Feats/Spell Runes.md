@@ -21,5 +21,5 @@ license: OGL
 * * *
 The magical runes on your body grant you several magical abilities. Choose a 1st-rank arcane spell. You gain a spell rune on your body corresponding to the chosen spell, which you can cast once per day as an innate spell. At 6th level, you gain a spell rune corresponding to a 2nd-rank arcane spell, and at 8th level, you gain a spell rune corresponding to a 3rd-rank arcane spell.
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

@@ -54,22 +54,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Critical Vulnerability"
     desc: "  A critical hit damages the construct's controls, making it [[Conditions/Clumsy|Clumsy 1]] until repaired. Additional critical hits increase this value, up to [[Conditions/Clumsy|Clumsy 4]]."
 
   - name: "Ridden Construct"
-    desc: "  The construct is piloted by a [[Bestiary 1/Leaf Leshy|Leaf Leshy]] who can be targeted separately but has greater cover. The leshy can't take actions of their own while inside the construct, other than to leave it, which takes 1 minute."
+    desc: "  The construct is piloted by a [[Monster Core/Leaf Leshy|Leaf Leshy]] who can be targeted separately but has greater cover. The leshy can't take actions of their own while inside the construct, other than to leave it, which takes 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wooden Sword +11 (versatile p)\n__Damage__  1d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Wooden Sword"
+    desc: "+11 (versatile p)\n__Damage__  1d8 + 4 slashing"
  
 ```
 

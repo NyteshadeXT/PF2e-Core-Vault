@@ -20,5 +20,5 @@ license: OGL
 
 Your body is almost as flexible as your shadow. When you critically fail at Squeezing, you get a failure instead. Additionally, when you roll a success at an Escape check, you get a critical success instead; if you roll a critical success, you can Step instead of Striding up to 5 feet.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

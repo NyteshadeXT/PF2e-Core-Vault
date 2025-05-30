@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +22 (agile)\n__Damage__  3d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+22 (agile, unarmed)\n__Damage__  3d8 + 10 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 32, attack +24; __4th __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Honeyed Words|Glibness]]_, _[[Spells/Suggestion|Suggestion (x3)]]_; __3rd __  _[[Spells/Sleep|Sleep]]_; __2nd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_, _[[Spells/Illusory Object|Illusory Object (At Will)]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) All-Seeing Hajeck can take on the appearance of a Varisian woman—her appearance from her previous life. This doesn't change her Speed or her attack and damage modifiers, but does prevent her from using Hajeck's Caress.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) All-Seeing Hajeck can take on the appearance of a Varisian woman—her appearance from her previous life. This doesn't change her Speed or her attack and damage modifiers, but does prevent her from using Hajeck's Caress.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Hajeck's Caress"
     desc: "`pf2:2` (curse,mental,occult) Hajeck touches a creature, who must succeed at a DC 32 Will check save or become [[Conditions/Stupefied|Stupefied 1]] ([[Conditions/Stupefied|Stupefied 2]] on a critical failure). If the target fails additional saves against this ability, the condition value increases by 2 (to a maximum of [[Conditions/Stupefied|Stupefied 4]]). This condition value decreases by 1 every 24 hours."

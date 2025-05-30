@@ -26,14 +26,14 @@ Magical
 
 **Path** Magic; Choose when you first imbue the weapon for the granted spells to be either arcane or primal
 
-*   **2nd** The weapon can cast _Electric Arc_ as a cantrip, heightened to half the item's level rounded up
-*   **4th** The weapon can cast _Shocking Grasp_ once per day
+*   **2nd** The weapon can cast _[[undefined]]_ as a cantrip, heightened to half the item's level rounded up
+*   **4th** The weapon can cast _[[undefined]]_ once per day
 *   **6th** The weapon's _shocking grasp_ heightens to 2nd level
-*   **8th** The weapon can cast _Lightning Bolt_ once per day
+*   **8th** The weapon can cast _[[undefined]]_ once per day
 *   **10th** Strikes with the weapon deal 1 additional electricity damage
-*   **12th** The weapon's _lightning bolt_ heightens to 4th level, and the weapon can cast _Lightning Storm_ once per day
+*   **12th** The weapon's _lightning bolt_ heightens to 4th level, and the weapon can cast _[[undefined]]_ once per day
 *   **14th** The additional electricity damage increases to 1d4
-*   **16th** The weapon can cast _Chain Lightning_ but can no longer cast _lightning bolt_. The weapon's _shocking grasp_ and _lightning storm_ heighten to 6th level
+*   **16th** The weapon can cast _[[undefined]]_ but can no longer cast _lightning bolt_. The weapon's _shocking grasp_ and _lightning storm_ heighten to 6th level
 *   **18th** The additional electricity damage increases to 1d6
 *   **20th** The weapon's _chain lightning_ heightens to 9th level, and _lightning storm_ and _shocking grasp_ heighten to 7th level
 

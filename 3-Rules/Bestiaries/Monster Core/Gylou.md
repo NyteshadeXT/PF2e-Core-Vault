@@ -54,6 +54,15 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Reflexive Grab"
@@ -62,20 +71,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +30 (agile, finesse, magical, unholy)\n__Damage__  3d8 + 12 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+30 (agile, finesse, magical, unarmed, unholy)\n__Damage__  3d8 + 12 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +30 (finesse, magical, reach 10 feet, unholy)\n__Damage__  3d12 + 12 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+30 (finesse, magical, reach 10 feet, unarmed, unholy)\n__Damage__  3d12 + 12 bludgeoning plus grab"
 
   - name: "Divine Innate Spells"
     desc: "DC 36, attack +28; __7th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Dominate|Dominate]]_; __5th __  _[[Spells/Illusory Object|Illusory Object (At Will)]]_, _[[Spells/Slither|Slither]]_, _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Enthrall|Enthrall (At Will)]]_, _[[Spells/Translocate|Translocate (At Will)]]_\n__Constant__  __(7th)__ _[[Spells/Truesight|Truesight]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Diabolic Pact|Diabolic Pact]]_"
+    desc: "_Diabolic Pact_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) "
+    desc: "`pf2:1` (concentrate,divine,polymorph) The monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Encage in Tentacles"
     desc: "`pf2:1` (attack) **Requirements** The gylou has a Medium or smaller creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The gylou transfers the grabbed creature into their lower body's net of encaging tentacles, freeing their limbs and tentacles to make Strikes. This has the same effects as [[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]] (Medium, 2d12+12 bludgeoning, Rupture 30), except the encaged creature is not at risk of suffocation, and the gylou can bring the encaged creature with them when they cast [[Spells/Translocate|Translocate]]. A gylou can have only one creature encaged at a time."
@@ -84,7 +93,7 @@ attacks:
     desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The gylou attempts a skill check but hasn't rolled yet\n* * *\n\n**Effect** The gylou demonstrates a preternatural ability for the task at hand. They use their Deception modifier for the triggering check and for all skill checks using the same skill thereafter until the next time the gylou uses this ability or until 24 hours have passed, whichever happens first."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

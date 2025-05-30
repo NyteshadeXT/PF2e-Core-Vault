@@ -58,23 +58,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +27 (agile, magical, unarmed)\n__Damage__  3d6 + 13 bludgeoning 1d6 cold"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+27 (agile, magical, unarmed)\n__Damage__  3d6 + 13 bludgeoning 1d6 cold"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tornado Lunge +27 (agile, reach 10 feet, unarmed)\n__Damage__  3d8 + 13 bludgeoning plus improved-knockdown 1d6 cold plus improved-knockdown"
+  - name: "**Melee** `pf2:1` Tornado Lunge"
+    desc: "+27 (agile, reach 10 feet, unarmed)\n__Damage__  3d8 + 13 bludgeoning plus improved-knockdown 1d6 cold plus improved-knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Wind Crash +27 (agile, nonlethal, propulsive, range increment 30 feet, unarmed)\n__Damage__  3d6 + 13 bludgeoning 1d6 cold"
+  - name: "**Ranged** `pf2:1` Wind Crash"
+    desc: "+27 (agile, nonlethal, propulsive, range increment 30 feet, unarmed)\n__Damage__  3d6 + 13 bludgeoning 1d6 cold"
 
   - name: "Focus Spells"
     desc: "2 Focus Points, DC 34, attack +26; __8th __  _[[Spells/Wild Winds Stance|Wild Winds Stance]]_, _[[Spells/Wind Jump|Wind Jump]]_"
 
   - name: "Breath of the Glacier"
-    desc: "`pf2:2` (cold) The monk lets loose a powerful breath of air, whose effect depends on the type of energy to which the monk is attuned. The monk can't use this ability again for 1d4 rounds.\n\nPravan blows icy winds in a @Template[cone|distance:30], dealing 10d6 cold damage. Creatures in the area must attempt a DC 33 Reflex check save as ice forms around them. The Speed penalty or immobilized condition caused by this ability persist until a creature either Breaks Open the ice or Escapes (DC 37 in either case), or if the creature takes at least 30 fire damage.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and takes a -5- foot status penalty to its Speeds.\n\n**Failure** The creature takes full damage and takes a -15-foot status penalty to its Speeds.\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Immobilized|Immobilized]]."
+    desc: "`pf2:2` (cold) The monk lets loose a powerful breath of air, whose effect depends on the type of energy to which the monk is attuned. The monk can't use this ability again for 1d4 rounds.\n\nPravan blows icy winds in a 30-foot cone, dealing 10d6 cold damage. Creatures in the area must attempt a DC 33 Reflex check save as ice forms around them. The Speed penalty or immobilized condition caused by this ability persist until a creature either Breaks Open the ice or Escapes (DC 37 in either case), or if the creature takes at least 30 fire damage.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and takes a -5- foot status penalty to its Speeds.\n\n**Failure** The creature takes full damage and takes a -15-foot status penalty to its Speeds.\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Immobilized|Immobilized]]."
 
   - name: "Flurry of Blows"
     desc: "`pf2:1` (flourish) The monk makes two Strikes with his fist or with a monk weapon. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses."
+
+  - name: "[[Bestiary Ability Glossary/Improved Knockdown|Improved Knockdown]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature as a free action. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

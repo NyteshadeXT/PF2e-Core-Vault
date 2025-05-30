@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/arcane
   - trait/wizard
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.v82XtjAVN4ffgVVR"
@@ -13,7 +13,7 @@ license: ORC
 ---
 # Drain Bonded Item `pf2:0`
 
-### [[3-Rules/Rule References/Arcane]][[wizard]]
+### [[arcane]][[wizard]]
 
 **Category** interaction; 
 

@@ -17,6 +17,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Frost Breath|Frost Breath]]
+
 You gain resistance 5 to cold.
 
 *Source: Pathfinder Rage of Elements*

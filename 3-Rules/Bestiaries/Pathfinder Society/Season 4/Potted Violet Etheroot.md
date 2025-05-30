@@ -55,6 +55,9 @@ abilities_top:
   - name: "Emotion Sense"
     desc: " (emotion,mental) The potted violet etheroot can sense the emotions of creatures within 120 feet as an imprecise sense. Emotion sense is a precise sense against creatures under an emotion effect. A creature under the effects of [[Spells/Calm|Calm]] or the serenity effect of the etheroot's Incite Emotion ability can't be noticed via emotion sense."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Soulfired Pot"
@@ -63,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stalked Bite +18 (magical, reach 20 feet)\n__Damage__  2d10 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Stalked Bite"
+    desc: "+18 (magical, reach 20 feet)\n__Damage__  2d10 + 8 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +18 (agile, finesse, magical, reach 15 feet)\n__Damage__  2d6 + 8 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+18 (agile, finesse, magical, reach 15 feet, unarmed)\n__Damage__  2d6 + 8 bludgeoning plus knockdown"
 
   - name: "Occult Innate Spells"
     desc: "DC 25, attack +17\n__Constant__  __(4th)__ _[[Spells/See the Unseen|See Invisibility]]_"
@@ -79,7 +82,7 @@ attacks:
     desc: "`pf2:1`  The potted violet etheroot makes two Strikes with two different tentacles, each limb targeting a different creature. This counts as two attacks toward the etheroot's multiple attack penalty for further actions, but the penalty doesn't increase until after both attacks are made."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

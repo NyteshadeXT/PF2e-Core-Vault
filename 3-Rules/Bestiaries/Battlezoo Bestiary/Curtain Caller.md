@@ -73,11 +73,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Curtain Hook +22 (magical, reach 15 feet, sweep)\n__Damage__  2d12 + 12 piercing"
+  - name: "**Melee** `pf2:1` Curtain Hook"
+    desc: "+22 (magical, reach 15 feet, sweep)\n__Damage__  2d12 + 12 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sandbag +22 (magical, range increment 60 feet)\n__Damage__  2d8 + 12 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sandbag"
+    desc: "+22 (magical, range increment 60 feet)\n__Damage__  2d8 + 12 bludgeoning"
 
   - name: "Occult Innate Spells"
     desc: "DC 30, attack +22; __5th __ (2 slots) _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Illusory Scene|Illusory Scene]]_; __4th __ (1 slots) _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __3rd __ (3 slots) _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Noise Blast|Sound Burst]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"

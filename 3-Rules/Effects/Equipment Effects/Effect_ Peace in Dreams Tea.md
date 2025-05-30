@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Peace in Dreams Tea|Peace in Dreams Tea]]
+
 You gain a +1 item bonus to all saving throws against mental effects.
 
 *Source: Pathfinder #197: Let the Leaves Fall*

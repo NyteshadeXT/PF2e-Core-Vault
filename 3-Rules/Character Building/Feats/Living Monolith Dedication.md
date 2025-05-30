@@ -24,11 +24,9 @@ license: OGL
 
 * * *
 
-You've begun to inscribe a magical stone called a _ka stone_ that you will some day tie to your soul. You gain knowledge of Ancient Osirion and a connection to your nascent _ka stone_. If you fail a recovery check while dying, your dying condition does not increase; if you critically fail, your dying condition increases by only 1. You become trained in Ancient Osirion Lore, or expert if you were already trained.
+You've begun to inscribe a magical stone called a _[[Equipment/Ka Stone|Ka Stone]]_ that you will some day tie to your soul. You gain knowledge of Ancient Osirion and a connection to your nascent _ka stone_. If you fail a recovery check while dying, your dying condition does not increase; if you critically fail, your dying condition increases by only 1. You become trained in Ancient Osirion Lore, or expert if you were already trained.
 
-* * *
+[[PF2e Journals/Archetypes/Living Monolith|Living Monolith]] archetype.
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Living Monolith|Living Monolith]] archetype.
-
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The Aspis agent deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

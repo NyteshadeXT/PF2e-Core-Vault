@@ -31,7 +31,7 @@ trait_02: [[aquatic]]
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "+7; "
+    desc: "+7; Low-Light Vision"
 languages: ""
 skills:
   - name: "Skills"
@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +7 (finesse)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+7 (finesse)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spines +6 ()\n__Damage__  1d4 + 2 piercing plus stonefish-venom"
+  - name: "**Melee** `pf2:1` Spines"
+    desc: "+6 ()\n__Damage__  1d4 + 2 piercing plus stonefish-venom"
 
   - name: "Stonefish Venom"
     desc: " (poison) **Saving Throw** DC 16 Fortitude check\n\n**Maximum Duration** 3 hours\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 2]] (10 minutes)\n\n**Stage 3** 3d6 poison and clumsy 2 (1 hour)"

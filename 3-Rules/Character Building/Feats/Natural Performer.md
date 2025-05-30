@@ -20,5 +20,5 @@ license: OGL
 
 Entertainment comes naturally to you. You become trained in Performance and gain one 1st-level Performance skill feat.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

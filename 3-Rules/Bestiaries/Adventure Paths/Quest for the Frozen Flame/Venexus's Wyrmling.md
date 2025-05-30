@@ -60,7 +60,7 @@ abilities_mid:
     desc: "`pf2:r` (arcane,cold) **Trigger** An adjacent creature deals piercing or slashing damage to the wyrmling\n* * *\n\n**Effect** The wyrmling's blood splatters onto the triggering creature, dealing 1d4 cold damage. A creature that takes cold damage in this way is [[Conditions/Slowed|Slowed 1]] for 1 round."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 19 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 19 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Snow Vision"
     desc: "  Snow doesn't impair a white dragon's vision; the wyrmling ignores concealment from snowfall."
@@ -68,17 +68,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 (cold, magical)\n__Damage__  2d8 + 5 piercing 1d4 cold"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (cold, magical, unarmed)\n__Damage__  2d8 + 5 piercing 1d4 cold"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile, magical)\n__Damage__  2d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, magical, unarmed)\n__Damage__  2d6 + 5 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +13 (magical, reach 10 feet)\n__Damage__  2d8 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+13 (magical, reach 10 feet)\n__Damage__  2d8 + 5 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,cold) The wyrmling breathes a cloud of frost that deals 6d6 cold damage in a @Template[cone|distance:30] (DC 22 Reflex check). They can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,cold) The wyrmling breathes a cloud of frost that deals 6d6 cold damage in a 30-foot cone (DC 22 Reflex check). They can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The wyrmling makes two claw Strikes and one tail Strike in any order."

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Ulgrem-Axaan) Crushing Weight"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.yfcqbMRmCkfPWV9O"
 license: OGL
@@ -23,5 +23,5 @@ license: OGL
 
 **Effect** Ulgrem-Axaan's tail clamps down around the creature, dealing 2d4+8 bludgeoning damage (DC 25 Fortitude check save).
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

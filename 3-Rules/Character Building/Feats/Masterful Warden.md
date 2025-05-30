@@ -22,9 +22,9 @@ license: ORC
 * * *
 Your mastery of warden magic increases. You gain your choice of one warden spell from the master warden spells.
 
-[[Ephemeral Tracking|Ephemeral Tracking]]
+[[Spells/Ephemeral Tracking|Ephemeral Tracking]]
 
-[[3-Rules/Character Building/Spells/R/Ranger's Bramble|Ranger's Bramble]]
+[[Spells/Ranger's Bramble|Ranger's Bramble]]
 
 * * *
 

@@ -53,14 +53,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Proboscis +10 ()\n__Damage__  1d8 + 4 piercing plus suck-blood,flea-fever"
+  - name: "**Melee** `pf2:1` Proboscis"
+    desc: "+10 ()\n__Damage__  1d8 + 4 piercing plus suck-blood,flea-fever"
 
   - name: "Flea Fever"
     desc: " (disease) Drain from flea fever can't be reduced or recovered from naturally until the disease is cured.\n\n**Saving Throw** DC 18 Fortitude check\n\n**Stage 1** [[Conditions/Drained|Drained 1]] (1d4 hours)\n\n**Stage 2** drained 1 and [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** [[Conditions/Drained|Drained 2]] and sickened 1 (1 day)\n\n**Stage 4** [[Conditions/Drained|Drained 3]] and sickened 1 (1 day)\n\n**Stage 5** dead"
 
   - name: "Suck Blood"
-    desc: "`pf2:1`  **Requirements** The giant flea's last action was a successful proboscis Strike\n* * *\n\n**Effect** The giant flea drinks the creature's blood. The victim becomes [[Conditions/Drained|Drained 1]] and the flea regains 5 HP."
+    desc: "`pf2:1`  **Requirements** The giant flea's last action was a successful proboscis Strike\n* * *\n\n**Effect** The giant flea drinks the creature's blood. The victim becomes [[Conditions/Drained|Drained 1]] and the flea regains 5 healing HP."
  
 ```
 

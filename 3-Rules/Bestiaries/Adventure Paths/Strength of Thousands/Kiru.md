@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +12 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing plus knife-jab"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+12 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing plus knife-jab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +12 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing plus knife-jab"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+12 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing plus knife-jab"
 
   - name: "Knife Jab"
     desc: "  Creatures hit by Kiru's dagger Strike must succeed at a Fortitude (Strike was a Success)Fortitude (Strike was a Critical Success) save or become [[Conditions/Clumsy|Clumsy 1]] for 1 round (1 minute on a critical failure)."

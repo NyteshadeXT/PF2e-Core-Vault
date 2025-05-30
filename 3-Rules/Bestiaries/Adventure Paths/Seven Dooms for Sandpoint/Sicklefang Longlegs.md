@@ -53,8 +53,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 (deadly d10)\n__Damage__  2d10 + 5 piercing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (deadly d10, unarmed)\n__Damage__  2d10 + 5 piercing 1d6 bleed"
 
   - name: "Bob"
     desc: "`pf2:1`  The sicklefang longlegs begins to bob up and down, using its legs almost like springs to cause its body to bounce and sway in an unsettling manner. Until the start of the sicklefang longlegs's next turn, it gains a +2 status bonus to its Armor Class."

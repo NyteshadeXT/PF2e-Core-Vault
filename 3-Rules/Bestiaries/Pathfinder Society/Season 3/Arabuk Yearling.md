@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 ()\n__Damage__  2d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (unarmed)\n__Damage__  2d8 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Antler +12 ()\n__Damage__  1d6 + 4 piercing 1d4 sonic"
+  - name: "**Melee** `pf2:1` Antler"
+    desc: "+12 ()\n__Damage__  1d6 + 4 piercing 1d4 sonic"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Antler Reverberation +11 (range increment 15 feet, sonic)\n__Damage__  2d6 sonic"
+  - name: "**Ranged** `pf2:1` Antler Reverberation"
+    desc: "+11 (range increment 15 feet, sonic)\n__Damage__  2d6 sonic"
 
   - name: "Pounce"
     desc: "`pf2:1`  The arabuk Strides and makes a Strike at the end of that movement. If the arabuk began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."

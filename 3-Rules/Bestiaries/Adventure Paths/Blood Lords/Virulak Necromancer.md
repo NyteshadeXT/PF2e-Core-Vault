@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/PZO90182 VIRULAK NECROMANCER.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Virulak Necromancer"
 level: "Creature 7"
@@ -54,11 +55,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile)\n__Damage__  2d8 + 6 slashing plus undead-virulence"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, unarmed)\n__Damage__  2d8 + 6 slashing plus undead-virulence"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 25, attack +17; __4th __ (3 slots) _[[Spells/Enervation|Enervation]]_, _[[Spells/Vampiric Maiden|Vampiric Maiden]]_; __3rd __ (4 slots) _[[Spells/Bind Undead|Bind Undead]]_, _[[Spells/Blindness|Blindness]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (4 slots) _[[Spells/False Vitality|False Life]]_, _[[Spells/Peaceful Rest|Gentle Repose]]_, _[[Spells/Ghostly Carrier|Spectral Hand]]_; __1st __ (4 slots) _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(4th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

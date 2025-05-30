@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Buzz-Saw Knuckles +14 (finesse, free-hand)\n__Damage__  2d6 + 5 slashing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Buzz-Saw Knuckles"
+    desc: "+14 (finesse, free-hand)\n__Damage__  2d6 + 5 slashing 1d6 bleed"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Really Big Gun +12 (deadly d12, free-hand, range 60 feet, volley 30 ft.)\n__Damage__  2d12 piercing plus really-big-gun"
+  - name: "**Ranged** `pf2:1` Really Big Gun"
+    desc: "+12 (deadly d12, free-hand, range 60 feet, volley 30 ft.)\n__Damage__  2d12 piercing plus really-big-gun"
 
   - name: "Buzz-Saw Knuckles"
     desc: "  Nixbrix has custom-built knuckle-dusters called buzz-saw knuckles. Only he knows how to operate them."

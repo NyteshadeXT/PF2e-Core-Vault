@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Oracular Warning|Oracular Warning]]
 
-Each ally gains temporary Hit Points equal to half your level, which last for 1 minute.
+Each ally gains temporary Hit Points equal to half your level.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

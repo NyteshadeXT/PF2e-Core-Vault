@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Prismatic Shield|Prismatic Shield]]
+Granted by [[Spells/Prismatic Shield|Prismatic Shield]]
+
+You gain a +2 circumstance bonus to your AC against attacks with larger ranged weapons.
 
 *Source: Pathfinder #162: Ruins of the Radiant Siege*
 *OGL*

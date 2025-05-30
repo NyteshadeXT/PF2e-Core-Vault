@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Iomedae - Minor Boon"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/deityboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.dTJP2Hg4ZJu4Ck2y"
 license: OGL
 ---
 # Iomedae - Minor Boon
-
+## Feat 1
 ### 
 
 **Category** deityboon; 
@@ -21,5 +21,5 @@ You always present yourself at your best. Your clothing and person are always cl
 
 This doesn't prevent you from being exposed to diseases and other afflictions via filth, but it protects you as well as if you had washed thoroughly right away.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

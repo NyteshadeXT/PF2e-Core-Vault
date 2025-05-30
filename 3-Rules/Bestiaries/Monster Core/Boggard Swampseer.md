@@ -60,17 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +10 (two-hand d8)\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+10 (two-hand d8)\n__Damage__  1d4 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +10 (reach 10 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+10 (reach 10 feet)\n__Damage__ "
 
   - name: "Primal Prepared Spells"
     desc: "DC 21, attack +11; __2nd __  _[[Spells/Acid Grip|Acid Grip]]_, _[[Spells/Mist|Mist]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Jump|Jump]]_, _[[Spells/Runic Weapon|Runic Weapon]]_\n__Cantrips__  __(2nd)__ _[[Spells/Caustic Blast|Caustic Blast]]_, _[[Spells/Frostbite|Frostbite]]_, _[[Spells/Tangle Vine|Tangle Vine]]_"
 
   - name: "Destructive Croak"
-    desc: "`pf2:2` (sonic) The swampseer utters a powerful croak that deals 4d6 sonic damage to any non-boggard within a @Template[emanation|distance:15] (DC 19 Fortitude check save); any creature with the frightened condition takes additional sonic damage equal to twice the value of its frightened condition.\n\nThe boggard can't use Destructive Croak again for 1d4 rounds."
+    desc: "`pf2:2` (sonic) The swampseer utters a powerful croak that deals 4d6 sonic damage to any non-boggard within a 15-foot emanation (DC 19 Fortitude check save); any creature with the frightened condition takes additional sonic damage equal to twice the value of its frightened condition.\n\nThe boggard can't use Destructive Croak again for 1d4 rounds."
 
   - name: "Drowning Drone"
     desc: "`pf2:r` (auditory,mental) **Trigger** The boggard swampseer or one of their allies within 60 feet attempts a saving throw against an auditory or sonic effect\n* * *\n\n**Effect** The swampseer releases a croak that drowns out other sounds. They roll a Performance check check. They and boggard allies in the area can use the higher result between the swampseer's Performance check and their saves to resolve the effects against the auditory or sonic effect."

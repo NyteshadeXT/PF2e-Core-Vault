@@ -1,76 +1,25 @@
 ---
-#========================================================#
-#                     CORE PROPERTIES                    #
-#========================================================#
-cssclass: pf2e-item, h-line
-name: "frost"
-aliases: "Frost"
-source: "Pathfinder GM Core"
-pg: ""
-rarity: ""
-trait01: "cold"
-trait02: "magical"
-trait03: "common"
-trait04: ""
-trait05: ""
-trait06: ""
-trait07: ""
-trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 8
-weight: 
-value: "500"
-subvalue: "gp"
-invest:
-usage: "etched onto a weapon"
-license: "ORC"
-identify:
-description: "This weapon is empowered with freezing ice. It deals an additional 1d6 cold damage on a successful Strike. On a critical hit, the target is also [[Conditions/Slowed|Slowed 1]] until the end of your next turn unless it succeeds at a DC 24 Fortitude check save."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
-trigger2:
-mechanics2: "**Secondary Effect** "
-craft:
-
-#========================================================#
-#                   WEAPON PROPERTIES                    #
-#========================================================#
-range: 
-ammoType:
-damage: 
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
-
-#========================================================#
-#                    ARMOR PROPERTIES                    #
-#========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
-resist:
-immunity:
-conditionImmunity:
-
-#========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
-#========================================================#
-weaponBase:
-armorBase:
-
+obsidianUIMode: preview
+title: "Frost"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - trait/cold
+  - trait/magical
+  - trait/common
+  - remaster
+aliases: "Compendium.pf2e.equipment-srd.Item.M5M1WJ5KzbYfRGsY"
+license: ORC
 ---
+# Frost
+## Item 8
+### [[cold]][[magical]]
+
+
+**Price** 500 gp; 
+**Bulk** 0; **Size** med
+**Usage** etched-onto-a-weapon
+
+This weapon is empowered with freezing ice. It deals an additional 1d6 cold damage on a successful Strike. On a critical hit, the target is also [[Conditions/Slowed|Slowed 1]] until the end of your next turn unless it succeeds at a DC 24 Fortitude check save.
+
+*Source: Pathfinder GM Core*
+*ORC*

@@ -6,8 +6,9 @@ tags:
   - trait/automaton
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.FI4MnH0KQfIKJRNT"
-license: OGL
+license: ORC
 ---
 # Arcane Locomotion
 ## Feat 13
@@ -23,4 +24,4 @@ You've modified your body to allow you to augment your movement. You gain either
 **Enhancement** Your body allows for even further forms of movement. You can either select the option from this feat you haven't chosen yet (climb Speed or swim Speed), or you can increase your land Speed by 5 feet and increase the Speed you chose from this feat increase to be equal to your adjusted land Speed.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

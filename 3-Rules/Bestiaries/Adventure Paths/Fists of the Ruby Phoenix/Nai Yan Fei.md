@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Butterfly Sword +35 (agile, disarm, finesse, magical, parry, twin)\n__Damage__  4d4 + 13 slashing"
+  - name: "**Melee** `pf2:1` Butterfly Sword"
+    desc: "+35 (agile, disarm, finesse, magical, parry, twin)\n__Damage__  4d4 + 13 slashing"
 
   - name: "Debilitating Strike"
     desc: "  **Trigger** Nai Yan Fei hits an off-guard creature and deals damage.\n* * *\n\n**Effect** Nai Yan Fei applies one of the following debilitations, which lasts until the end of her next turn.\n\n*   **Debilitation** The target takes a -10-foot status penalty to its Speeds.\n*   **Debilitation** The target becomes [[Conditions/Enfeebled|Enfeebled 1]].\n*   **Debilitation** The target can't flank other creatures, and it can't provide flanking for its allies.\n*   **Debilitation** The target doesn't gain a circumstance bonus to AC from Raising a Shield, lesser cover, or standard cover; it gains only a +2 circumstance bonus to AC from greater cover or Taking Cover.\n\n[[Feat_Feature Effects/Effect_ Debilitating Strike|Effect: Debilitating Strike]]"

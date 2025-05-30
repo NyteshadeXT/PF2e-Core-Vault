@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Bequethal"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.GRiNBy8yv4sWp1ua"
 license: OGL
 ---
 # Bequethal
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

@@ -62,17 +62,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Storm-fist +17 (forceful, unarmed)\n__Damage__  2d6 + 5 bludgeoning 1d6 electricity"
+  - name: "**Melee** `pf2:1` Storm-fist"
+    desc: "+17 (forceful, unarmed)\n__Damage__  2d6 + 5 bludgeoning 1d6 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Electrical Discharge +12 (range increment 30 feet)\n__Damage__  4d6 electricity"
+  - name: "**Ranged** `pf2:1` Electrical Discharge"
+    desc: "+12 (range increment 30 feet)\n__Damage__  4d6 electricity"
 
   - name: "Programmed Combo"
     desc: "`pf2:2`  Synthetic Khismar makes two storm-fist Strikes against a single target. If either of the attacks deals damage, the target is [[Conditions/Off-Guard|Off-Guard]] until the beginning of Synthetic Khismar's next turn. His multiple attack penalty increases after making both attacks."
 
   - name: "Self-Destruct"
-    desc: "`pf2:2`  **Requirements** Synthetic Khismar has 20 HP or fewer\n* * *\n\n**Effect** Synthetic Khismar explodes in a ball of burning plasma, destroying himself completely and dealing 8d6 electricity damage to all creatures within @Template[emanation|distance:10] (DC 24 Reflex check)\n* * *\n\n**Special** Synthetic Khismar automatically activates this ability as a free action when brought to 0 Hit Points."
+    desc: "`pf2:2`  **Requirements** Synthetic Khismar has 20 HP or fewer\n* * *\n\n**Effect** Synthetic Khismar explodes in a ball of burning plasma, destroying himself completely and dealing 8d6 electricity damage to all creatures within 10-foot emanation (DC 24 Reflex check)\n* * *\n\n**Special** Synthetic Khismar automatically activates this ability as a free action when brought to 0 Hit Points."
 
   - name: "Technology Control"
     desc: " (concentrate) **Frequency** once per turn\n\n**Range** 100 feet\n* * *\n\n**Effect** Synthetic Khismar chooses the target of one technological construct or hazard; if this would cause the technological construct or hazard to attack a creature it would not normally attack, it takes a -2 circumstance penalty to its attack rolls and DCs against that creature.\n\n[[Bestiary Effects/Effect_ Technology Control|Effect: Technology Control]]"

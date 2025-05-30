@@ -69,17 +69,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Blade of the Rabbit Prince +34 (agile, finesse, magical, versatile s)\n__Damage__  3d6 + 13 piercing"
+  - name: "**Melee** `pf2:1` Blade of the Rabbit Prince"
+    desc: "+34 (agile, finesse, magical, versatile s)\n__Damage__  3d6 + 13 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Harrow Card +34 (agile, deadly d10, magical, thrown 20 ft.)\n__Damage__  3d4 + 13 piercing"
+  - name: "**Ranged** `pf2:1` Harrow Card"
+    desc: "+34 (agile, deadly d10, magical, thrown 20 ft.)\n__Damage__  3d4 + 13 piercing"
 
   - name: "Innate Occult Spells"
     desc: "DC 38, attack +28; __9th __  _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Synesthesia|Synesthesia]]_; __7th __  _[[Spells/Resist Energy|Resist Energy]]_; __6th __  _[[Spells/Cursed Metamorphosis|Baleful Polymorph (At Will)]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Imprisonment|Imprisonment]]_, _[[Spells/Inveigle|Inveigle]]_"
+    desc: "_Imprisonment_, _Inveigle_"
 
   - name: "Bloody Jab"
     desc: "  Whenever the Rabbit Prince deals piercing damage, he also deals 2d10 persistent bleed damage."

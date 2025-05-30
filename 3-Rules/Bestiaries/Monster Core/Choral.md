@@ -54,6 +54,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/At-Will Spells|At-Will Spells]]"
+    desc: "  The monster can cast its at-will spells any number of times without using up spell slots."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Harmonizing Aura"
@@ -62,17 +68,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 (agile, finesse, holy, magical)\n__Damage__  2d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (agile, finesse, holy, magical, unarmed)\n__Damage__  2d6 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Piercing Hymn +17 (holy, magical, range 90 feet, sonic)\n__Damage__  4d6 sonic plus deafening-aria"
+  - name: "**Ranged** `pf2:1` Piercing Hymn"
+    desc: "+17 (holy, magical, range 90 feet, sonic)\n__Damage__  4d6 sonic plus deafening-aria"
 
   - name: "Divine Innate Spells"
     desc: "DC 23, attack +15; __3rd __  _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Clear Mind|Clear Mind (At Will)]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Noise Blast|Noise Blast]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_, _[[Spells/Noise Blast|Noise Blast (At Will)]]_; __1st __  _[[Spells/Counter Performance|Counter Performance (At Will)]]_\n__Cantrips__  __(3rd)__ _[[Spells/Courageous Anthem|Courageous Anthem]]_, _[[Spells/Uplifting Overture|Uplifting Overture]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Angelic Messenger|Angelic Messenger]]_"
+    desc: "_Angelic Messenger_"
 
   - name: "Deafening Aria"
     desc: "  On a critical hit with piercing hymn, the target is [[Conditions/Deafened|Deafened]] for one minute."

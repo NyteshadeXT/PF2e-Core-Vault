@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Assisting Shot|Assisting Shot]]
 
-The next creature other than you to attack the same target before the start of your next turn gains a circumstance bonus to their roll.
+You gain a circumstance bonus to your attack roll.
 
 *Source: Pathfinder Player Core*
 *ORC*

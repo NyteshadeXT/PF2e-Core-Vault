@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You hurl away enemies with the force of your landing. You Fly and, if you end your movement on a solid surface, your landing sends out a shock wave of air. Each creature within 10 feet of your landing position must succeed at a Reflex save against your class DC or be pushed 10 feet away. This is forced movement.
+You hurl away enemies with the force of your landing. You Fly and, if you end your movement on a solid surface, your landing sends out a shock wave of air. Each creature within 10 feet of your landing position must succeed at a Reflex check save against your class DC or be pushed 10 feet away. This is forced movement.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

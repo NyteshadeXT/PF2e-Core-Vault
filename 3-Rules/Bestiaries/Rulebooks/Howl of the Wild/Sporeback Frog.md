@@ -29,7 +29,7 @@ trait_01: [[animal]]
 modifier: 12
 perception:
   - name: "Perception"
-    desc: "+12; "
+    desc: "+12; Low-Light Vision"
 languages: ""
 skills:
   - name: "Skills"
@@ -54,17 +54,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 ()\n__Damage__  2d8 + 6 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (unarmed)\n__Damage__  2d8 + 6 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +15 (reach 15 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+15 (reach 15 feet)\n__Damage__ "
 
   - name: "Seed Spores"
     desc: "  A creature hit by the sporeback frog's tongue Strike takes 1d6 persistent poison damage as fungal spores begin to grow."
 
   - name: "Soporific Spores"
-    desc: "`pf2:2` (mental,poison) The sporeback frog shakes the plants and fungi on its back until they emit a cloud of spores in a @Template[emanation|distance:20]. All creatures in the area must succeed a DC 22 Fortitude check save or become [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied 2]] for 1 minute ([[Conditions/Clumsy|Clumsy 3]] and [[Conditions/Stupefied|Stupefied 3]] on a critical failure). This ability can't be used again for 1d4 rounds."
+    desc: "`pf2:2` (mental,poison) The sporeback frog shakes the plants and fungi on its back until they emit a cloud of spores in a 20-foot emanation. All creatures in the area must succeed a DC 22 Fortitude check save or become [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied 2]] for 1 minute ([[Conditions/Clumsy|Clumsy 3]] and [[Conditions/Stupefied|Stupefied 3]] on a critical failure). This ability can't be used again for 1d4 rounds."
  
 ```
 

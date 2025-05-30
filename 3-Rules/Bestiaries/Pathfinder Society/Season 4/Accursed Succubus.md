@@ -56,6 +56,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Rejection Vulnerability"
@@ -67,17 +73,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile, finesse, magical, unholy)\n__Damage__  2d6 + 6 slashing 1d4 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, finesse, magical, unarmed, unholy)\n__Damage__  2d6 + 6 slashing 1d4 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 26, attack +18; __6th __  _[[Spells/Dominate|Dominate]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Suggestion|Suggestion (At Will)]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_; __2nd __  _[[Spells/Detect Alignment|Detect Alignment (At Will)]]_; __1st __  _[[Spells/Charm|Charm (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The succubus can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning).\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The succubus can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning).\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Embrace"
     desc: "`pf2:1` (attack) The succubus attempts to [[Actions/Grapple|Grapple]] a creature using their Diplomacy bonus instead of Athletics. If the creature is willing, the succubus grapples it automatically."

@@ -4,7 +4,7 @@ title: "Hunt the Animals"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.FLz8SEF0Y4UEavvD"
 license: OGL

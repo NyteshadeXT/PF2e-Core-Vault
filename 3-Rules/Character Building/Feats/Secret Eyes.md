@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You can call forth an invisible eye to let you peek on secrets. Once per day, you can cast [[Scouting Eye|Scouting Eye]] as an innate occult spell.
+You can call forth an invisible eye to let you peek on secrets. Once per day, you can cast [[Spells/Scouting Eye|Scouting Eye]] as an innate occult spell.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

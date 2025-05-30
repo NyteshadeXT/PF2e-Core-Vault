@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Qi Spells
 * * *
-You have achieved near-total mastery of your qi. You gain [[3-Rules/Character Building/Spells/M/Medusa's Wrath|Medusa's Wrath]], [[Touch of Death|Touch of Death]], or another 8th-rank qi spell you have access to.
+You have achieved near-total mastery of your qi. You gain [[Spells/Medusa's Wrath|Medusa's Wrath]], [[Spells/Touch of Death|Touch of Death]], or another 8th-rank qi spell you have access to.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

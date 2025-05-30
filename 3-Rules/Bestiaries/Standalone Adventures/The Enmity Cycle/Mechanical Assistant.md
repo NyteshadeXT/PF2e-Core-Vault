@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 ()\n__Damage__  2d8 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (unarmed)\n__Damage__  2d8 + 7 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Retractable Blade +12 (agile, finesse)\n__Damage__  2d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Retractable Blade"
+    desc: "+12 (agile, finesse)\n__Damage__  2d6 + 7 piercing"
  
 ```
 

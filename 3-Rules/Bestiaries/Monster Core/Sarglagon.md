@@ -56,6 +56,15 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Heavy Aura"
@@ -67,17 +76,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +20 (magical, unholy)\n__Damage__  2d12 + 9 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+20 (magical, unholy)\n__Damage__  2d12 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle Arm +20 (agile, magical, unholy)\n__Damage__  2d8 + 9 bludgeoning plus sarglagon-venom"
+  - name: "**Melee** `pf2:1` Tentacle Arm"
+    desc: "+20 (agile, magical, unholy)\n__Damage__  2d8 + 9 bludgeoning plus sarglagon-venom"
 
   - name: "Divine Innate Spells"
     desc: "DC 23, attack +18; __5th __  _[[Spells/Control Water|Control Water]]_, _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_, _[[Spells/Translocate|Translocate (At Will)]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_\n__Constant__  __(2nd)__ _[[Spells/See the Unseen|See the Unseen]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Diabolic Pact|Diabolic Pact]]_"
+    desc: "_Diabolic Pact_"
 
   - name: "Drown"
     desc: "`pf2:2` (divine,incapacitation) The sarglagon conjures murky water to fill the lungs of a creature within 30 feet of it that can't breathe water. The target must attempt a DC 26 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target coughs up water and is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The target is holding its breath. The only action it can take is to attempt a Fortitude save against Drown to expel the water, which is a single action.\n\n**Critical Failure** The target falls [[Conditions/Unconscious|Unconscious]] and begins suffocating. If the target succeeds at its Fortitude save while suffocating, it coughs up the water and can breathe again."

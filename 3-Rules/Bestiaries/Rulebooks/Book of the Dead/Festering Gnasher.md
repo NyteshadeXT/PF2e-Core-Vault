@@ -54,11 +54,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (agile, finesse, reach 0 feet)\n__Damage__  1d4 + 3 piercing plus brain-rot"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (agile, finesse, reach 0 feet, unarmed)\n__Damage__  1d4 + 3 piercing plus brain-rot"
 
   - name: "Brain Rot"
     desc: " (disease) **Saving Throw** DC 14 Fortitude check\n* * *\n\n**Onset** 1 day\n\n**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (3 days)\n\n**Stage 2** [[Conditions/Stupefied|Stupefied 2]] and [[Conditions/Slowed|Slowed 1]] (1 day)\n\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] with spasms (1 day)\n\n**Stage 4** death"

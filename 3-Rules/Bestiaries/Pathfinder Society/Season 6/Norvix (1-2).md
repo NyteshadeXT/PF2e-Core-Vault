@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Locust Dagger +6 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Locust Dagger"
+    desc: "+6 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Locust Dagger +6 (thrown 10 ft.)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Locust Dagger"
+    desc: "+6 (thrown 10 ft.)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Void Warp|Void Warp]]_"
@@ -70,7 +70,7 @@ attacks:
     desc: "1 Focus Point, DC 18, attack +10; __1st __  _[[Spells/Phase Familiar|Phase Familiar]]_\n__Cantrips__  __(1st)__ _[[Spells/Stoke the Heart|Stoke the Heart]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Demonic Pact]]_"
+    desc: "_Demonic Pact_"
 
   - name: "Unleashed Familiar"
     desc: "  Norvix's familiar is a giant rat named Squelch. She can take her actions independently of Norvix's commands and has her statistics presented separately. She has the familiar of restored spirit ability, so when Norvix Casts or Sustains a hex, one willing creature within 15 feet of Squelch gains 2 temporary Hit Points until the start of his next turn."

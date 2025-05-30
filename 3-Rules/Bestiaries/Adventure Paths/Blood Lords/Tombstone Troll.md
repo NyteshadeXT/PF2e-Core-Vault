@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_Tombstone_Troll.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Tombstone Troll"
 level: "Creature 1"
@@ -56,26 +57,29 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 5 (Deactivated by Acid, Fire, or Vitality)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (unarmed)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile)\n__Damage__  1d4 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, unarmed)\n__Damage__  1d4 + 3 slashing"
 
   - name: "Death Feast"
     desc: "`pf2:1` (manipulate) **Requirements** The troll's last action was a jaws Strike that damaged a living creature or a corpse\n* * *\n\n**Effect** The troll deals 1d6 bleed damage to the target as it swallows a mouthful of meat and converts it into void energy. Its jaws and claw Strikes deal 1 additional void damage for 1 minute or until it uses its Grave Breath, whichever comes first."
 
   - name: "Grave Breath"
-    desc: "`pf2:2` (death,occult,void) **Requirements** The troll is bloated with void energy from a Death Feast\n* * *\n\n**Effect** The troll breathes a @Template[cone|distance:15] of putrid, soul-chilling gas. Each living creature in the area takes 2d6 void damage (DC 14 Fortitude check). On a failure, the creature also becomes [[Conditions/Sickened|Sickened 1]]. The troll can't use Grave Breath until it uses Death Feast again."
+    desc: "`pf2:2` (death,occult,void) **Requirements** The troll is bloated with void energy from a Death Feast\n* * *\n\n**Effect** The troll breathes a 15-foot cone of putrid, soul-chilling gas. Each living creature in the area takes 2d6 void damage (DC 14 Fortitude check). On a failure, the creature also becomes [[Conditions/Sickened|Sickened 1]]. The troll can't use Grave Breath until it uses Death Feast again."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  Claw\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
  
 ```
 

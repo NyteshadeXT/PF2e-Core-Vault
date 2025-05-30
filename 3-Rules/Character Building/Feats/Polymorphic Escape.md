@@ -25,5 +25,5 @@ license: ORC
 
 You polymorph into a tiny vermin, a cloud of leaves, or another shape that allows you to escape. Attempt a DC 16 Flat check; on a success, you ignore the triggering effect and can Step. You then return to your humanoid shape.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

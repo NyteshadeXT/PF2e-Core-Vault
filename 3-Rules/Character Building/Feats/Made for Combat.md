@@ -30,5 +30,5 @@ You can use your body as a deadly weapon. You gain one of the following melee un
 
 **Special** You can take this feat only at 1st level, and you can't retrain into or out of this feat.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

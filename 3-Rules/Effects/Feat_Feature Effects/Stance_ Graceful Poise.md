@@ -18,9 +18,7 @@ license: OGL
 
 Granted by [[Feats/Graceful Poise|Graceful Poise]]
 
-With the right positioning, your off-hand weapon can strike like a scorpion's stinger.
-
-While you are in this stance, if you make your second Strike from [[Feats/Double Slice|Double Slice]] with an agile weapon, Double Slice counts as one attack when calculating your multiple attack penalty.
+When you make your second Strike from Double Slice with an agile weapon, Double Slice counts as one attack when calculating your multiple attack penalty.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

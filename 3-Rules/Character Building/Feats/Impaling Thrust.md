@@ -13,7 +13,7 @@ license: ORC
 ---
 # Impaling Thrust `pf2:2`
 ## Feat 14
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

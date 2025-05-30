@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +9 (two-hand d8)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+9 (two-hand d8)\n__Damage__  1d4 bludgeoning"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Translate|Comprehend Language]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Illusory Creature|Illusory Creature]]_; __1st __  _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

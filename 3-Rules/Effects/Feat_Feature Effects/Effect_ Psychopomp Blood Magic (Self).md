@@ -18,7 +18,7 @@ license: OGL
 
 Granted by [[Class Features/Bloodline_ Psychopomp|Bloodline: Psychopomp]]
 
-The border between life and death becomes blurred to you. You gain a +2 status bonus to Fortitude saving throws for 1 round.
+You gain a +2 status bonus to Fortitude saving throws.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

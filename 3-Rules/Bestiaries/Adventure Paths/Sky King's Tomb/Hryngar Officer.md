@@ -60,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Aura of Command"
     desc: " (aura,emotion,mental) 30 feet. The captain of the guard bolsters lower-level guards under their command, granting them a +1 status bonus to their attack rolls and a +2 status bonus to their Will saves.\n\n[[Bestiary Effects/Effect_ Under Command|Effect: Under Command]]\n\n[[Bestiary Effects/Effect_ Aura of Command|Effect: Aura of Command]]"
@@ -68,8 +68,11 @@ abilities_mid:
   - name: "Bravery"
     desc: "  When the captain of the guard rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the [[Conditions/Frightened|Frightened]] condition, reduce its value by 1."
 
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
   - name: "Shield Warden"
     desc: "  When the captain has their shield raised, they can [[Bestiary Ability Glossary/Shield Block|Shield Block]] when an attack is made against an adjacent ally. If they do, the shield prevents that ally from taking damage instead of the captain."
@@ -77,11 +80,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +18 (magical, versatile p)\n__Damage__  1d8 + 11 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+18 (magical, versatile p)\n__Damage__  1d8 + 11 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +12 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+12 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 6 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Paranoia|Paranoia]]_\n__Cantrips__  __(3rd)__ _[[Spells/Sigil|Sigil]]_"

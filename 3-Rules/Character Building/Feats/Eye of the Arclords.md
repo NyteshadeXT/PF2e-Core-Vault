@@ -40,5 +40,5 @@ While the eye is open, you gain the following benefits:
 
 After your third eye closes, you are dazzled for an amount of time equal to how long you had it open.
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

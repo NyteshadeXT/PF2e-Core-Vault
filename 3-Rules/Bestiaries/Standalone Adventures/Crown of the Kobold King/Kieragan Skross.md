@@ -52,20 +52,23 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Light Hammer|+1 Striking Returning Light Hammer]], [[Equipment/Religious Symbol (Wooden)|Defiled Religions Symbol of Droskar]]"
+    desc: "[[Equipment/Light Hammer|+1 Striking Returning Light Hammer]], [[Equipment/Religious Symbol (Wooden)|Defiled Religious Symbol of Droskar]]"
 abilities_mid:
   - name: ""
-  - name: "[[Bestiary 3/Herexen/Final Blasphemy|Final Blasphemy]]"
+  - name: "[[Monster Core/Herexen/Final Blasphemy|Final Blasphemy]]"
     desc: " (divine,void) When the herexen is destroyed, it explodes in a wave of void energy with the effects of a 3-action 4th-rank [[Spells/Harm|Harm]] spell (DC 26 Fortitude check).\n\nThe herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Hammer +19 (agile, magical)\n__Damage__  2d6 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Light Hammer"
+    desc: "+19 (agile, magical)\n__Damage__  2d6 + 9 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +15 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 9 bludgeoning"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+15 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 9 bludgeoning"
 
   - name: "Divine Prepared Spells"
     desc: "DC 26, attack +20; __1st __  _[[Spells/Harm|Harm]]_"
@@ -73,7 +76,7 @@ attacks:
   - name: "Cleric Domain Spells"
     desc: "2 Focus Points, DC 20, attack +10; __4th __  _[[Spells/Commanding Lash|Commanding Lash]]_, _[[Spells/Touch of Obedience|Touch of Obedience]]_"
 
-  - name: "[[Bestiary 3/Herexen/Heretic's Smite|Heretic's Smite]]"
+  - name: "[[Monster Core/Herexen/Heretic's Smite|Heretic's Smite]]"
     desc: " (divine) While wielding the favored weapon of its former deity (such as a dagger for an ex-Pharasmin herexen), the herexen's Strikes deal an additional 2d6 spirit damage against creatures that can cast divine spells."
  
 ```

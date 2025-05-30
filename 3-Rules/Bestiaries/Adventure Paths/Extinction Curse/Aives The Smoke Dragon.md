@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +13 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing plus smoke-exhalation"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+13 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing plus smoke-exhalation"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +13 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing plus smoke-exhalation"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+13 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing plus smoke-exhalation"
 
   - name: "Divine Innate Spells"
     desc: "DC 18, attack +10; __2nd __ (1 slots) _[[Spells/Darkness|Darkness]]_"

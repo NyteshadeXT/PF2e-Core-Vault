@@ -64,17 +64,20 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) Returning her sister's [[Equipment/Holy Prayer Beads|Holy Prayer Beads]] and revealing her fate allows Yuni to move on (although she'll return as a ghost next year if the PCs don't break the Willowshore mindscape before then).\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +15 (agile, finesse, magical)\n__Damage__  2d8 + 8 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+15 (agile, finesse, magical)\n__Damage__  2d8 + 8 void"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Frightful Moan|Frightful Moan]]"
     desc: "`pf2:2` (auditory,divine,emotion,fear,mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 25 Will check save. On a failure, a creature becomes [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
 
   - name: "Tiger Attack"
-    desc: "`pf2:2` (divine) Yuni cries out in pain as a ghostly tiger appears to rip and tear at her body, only for additional ghostly tigers to appear and do the same to all creatures in a @Template[emanation|distance:30]. Creatures in this area take 4d6 slashing damage (DC 25 Reflex check save)."
+    desc: "`pf2:2` (divine) Yuni cries out in pain as a ghostly tiger appears to rip and tear at her body, only for additional ghostly tigers to appear and do the same to all creatures in a 30-foot emanation. Creatures in this area take 4d6 slashing damage (DC 25 Reflex check save)."
  
 ```
 

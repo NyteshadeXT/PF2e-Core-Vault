@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 (unholy)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed, unholy)\n__Damage__  1d8 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile, unholy)\n__Damage__  1d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, unarmed, unholy)\n__Damage__  1d6 + 4 slashing"
 
   - name: "Divine Innate Spells"
     desc: "DC 18, attack +10; __1st __ (2 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_\n__Cantrips__  __(1st)__ _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"

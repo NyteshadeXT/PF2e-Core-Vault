@@ -12,7 +12,7 @@ license: ORC
 ---
 # Herbal Forager
 ## Feat 9
-### [[Centaur]]
+### [[centaur]]
 
 **Category** ancestry; 
 

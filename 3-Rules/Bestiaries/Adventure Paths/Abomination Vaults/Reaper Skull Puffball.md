@@ -56,13 +56,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spore Explosion"
-    desc: "  When the reaper skull puffball dies, it explodes, dealing 8d8 poison damage to each creature in a @Template[emanation|distance:20] (DC 28 Fortitude check save).\n\nCreatures that fail their save are exposed to skull rot."
+    desc: "  When the reaper skull puffball dies, it explodes, dealing 8d8 poison damage to each creature in a 20-foot emanation (DC 28 Fortitude check save).\n\nCreatures that fail their save are exposed to skull rot."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +21 (finesse, reach 10 feet)\n__Damage__  2d12 + 8 bludgeoning plus paralysis"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+21 (finesse, reach 10 feet)\n__Damage__  2d12 + 8 bludgeoning plus paralysis"
 
   - name: "Paralysis"
     desc: " (incapacitation,poison) A creature hit by the puffball's tendril must succeed a DC 28 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. The paralyzed creature can attempt a new save at the end of each of its turns."
@@ -71,7 +71,7 @@ attacks:
     desc: " (poison) **Saving Throw** DC 28 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d8 poison damage plus [[Conditions/Enfeebled|Enfeebled 2]] (1 round)\n\n**Stage 2** 2d8 poison damage plus enfeebled 2 and [[Conditions/Drained|Drained 1]] (1 round)\n\n**Stage 3** 3d8 poison damage plus enfeebled 2 and [[Conditions/Drained|Drained 2]] (1d4 rounds)"
 
   - name: "Spore Cloud"
-    desc: "`pf2:2` (poison) The puffball releases a @Template[cone|distance:30] of spores that deals 4d8 poison damage (DC 28 Fortitude check save) to creatures in the cone.\n\nCreatures that fail this save are also exposed to skull rot."
+    desc: "`pf2:2` (poison) The puffball releases a 30-foot cone of spores that deals 4d8 poison damage (DC 28 Fortitude check save) to creatures in the cone.\n\nCreatures that fail this save are also exposed to skull rot."
  
 ```
 

@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap184-the-ghouls-hunger/assets/art/PZO90184_ROTBOMBER.webp| ]]
 source: "Pathfinder #184: The Ghouls Hunger"
 name: "Rotbomber"
 level: "Creature 12"
@@ -62,19 +63,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Pressurized Pustules"
-    desc: "  When a rotbomber takes acid, fire, physical or sonic damage, there is a chance a prematurely developed pustule bursts open, determined by a DC 11 Flat check. All creatures in a @Template[emanation|distance:10] must succeed at DC 29 Fortitude check save or become [[Conditions/Sickened|Sickened 2]]. A creature that gets a critical failure becomes [[Conditions/Sickened|Sickened 3]]. Any creature who attempts this save becomes temporarily immune to pressurized pustules for 24 hours."
+    desc: "  When a rotbomber takes acid, fire, physical or sonic damage, there is a chance a prematurely developed pustule bursts open, determined by a DC 11 Flat check. All creatures in a 10-foot emanation must succeed at DC 29 Fortitude check save or become [[Conditions/Sickened|Sickened 2]]. A creature that gets a critical failure becomes [[Conditions/Sickened|Sickened 3]]. Any creature who attempts this save becomes temporarily immune to pressurized pustules for 24 hours."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +24 ()\n__Damage__  3d8 + 12 piercing plus necrotic-rot"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+24 (unarmed)\n__Damage__  3d8 + 12 piercing plus necrotic-rot"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +20 (reach 10 feet)\n__Damage__  3d6 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+20 (reach 10 feet, unarmed)\n__Damage__  3d6 + 10 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Necrotic Pustule +26 (range increment 60 feet, splash, void)\n__Damage__  3d10 + 14 bludgeoning plus necrotic-rot"
+  - name: "**Ranged** `pf2:1` Necrotic Pustule"
+    desc: "+26 (range increment 60 feet, splash, void)\n__Damage__  3d10 + 14 bludgeoning plus necrotic-rot"
 
   - name: "Gaseous Smash"
     desc: "`pf2:2`  **Frequency** once per round\n* * *\n\n**Effect** The rotbomber pulls two necrotic pustules from its body, one in each hand, and leaps into the air in an attempt to detonate them simultaneously on a hapless victim. The rotbomber Leaps up to 15 feet horizontally and 10 feet vertically to land in a square adjacent to a target creature and makes a necrotic pustule Strike against the target. If the Strike hits, it deals an additional 4d6 bludgeoning damage to the target. This counts as two attacks for the purposes of determining the rotbomber's multiple attack penalty, but the penalty does not increase until after the Gaseous Smash."

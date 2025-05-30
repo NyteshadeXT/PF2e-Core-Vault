@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Blade +8 (magical, sweep)\n__Damage__  1d4 + 3 slashing"
+  - name: "**Melee** `pf2:1` Blade"
+    desc: "+8 (magical, sweep)\n__Damage__  1d4 + 3 slashing"
  
 ```
 

@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/PZO90182 VIRULAK VILLAGER.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Virulak Villager"
 level: "Creature 3"
@@ -57,11 +58,14 @@ abilities_mid:
   - name: "Mob Mentality"
     desc: "  As long as the virulak villager and their allies aren't outnumbered by enemies, the virulak villager is immune to fear."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +12 (agile)\n__Damage__  1d8 + 4 slashing plus grab,undead-virulence"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+12 (agile, unarmed)\n__Damage__  1d8 + 4 slashing plus grab,undead-virulence"
 
   - name: "[[Compendium.pf2e.bestiary-family-ability-glossary.Item.FnMu3hjI2osqmjCW|Lingering Ichor]]"
     desc: "`pf2:r` (poison) **Trigger** The virulak takes piercing or slashing damage from a melee Strike\n* * *\n\n**Effect** The virulak squirts a jet of poisonous ichor from the wound. The creature making the triggering Strike takes 1 persistent poison damage."
@@ -70,7 +74,7 @@ attacks:
     desc: " (poison,virulent) **Saving Throw** DC 19 Fortitude check\n* * *\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d10 poison damage (1 round)\n\n**Stage 2** 1d12 poison damage (1 round)\n\n**Stage 3** 2d10 poison damage (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

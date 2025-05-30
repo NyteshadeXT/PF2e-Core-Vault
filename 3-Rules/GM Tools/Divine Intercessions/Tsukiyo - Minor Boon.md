@@ -22,5 +22,5 @@ Once, when you roll a failure on a saving throw against a mental effect, you get
 
 Tsukiyo typically grants this boon against a particularly consequential mental effect.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

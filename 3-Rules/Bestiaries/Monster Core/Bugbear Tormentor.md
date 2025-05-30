@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +11 (agile, versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+11 (agile, versatile s)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +11 (agile, trip)\n__Damage__  1d4 + 6 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+11 (agile, trip)\n__Damage__  1d4 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
 
   - name: "Sneak Attack"
     desc: "  The bugbear tormentor deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

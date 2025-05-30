@@ -36,7 +36,7 @@ perception:
 languages: "Common, Goblin, Fey, Jotun"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Deception: +11, Diplomacy: +9, Intimidation: +11, Stealth: +10, Survival: +12"
+    desc: "Athletics: +13, Deception: +11, Diplomacy: +9, Intimidation: +11, Stealth: +10, Survival: +12"
 abilityMods: [5, 2, 3, 2, 2, 3]
 speed: 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -60,20 +60,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile, unholy)\n__Damage__  2d6 + 5 slashing plus unhealing-wound"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, unarmed, unholy)\n__Damage__  2d6 + 5 slashing plus unhealing-wound"
 
   - name: "Divine Innate Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mist|Mist]]_\n__Cantrips__  __(2nd)__ _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The barghest takes on the shape of a humanoid, a dog, or its true form. Their size changes to match the new form. When the barghest is a humanoid, their claw Strike deals bludgeoning damage and they lose their jaws Strike. When the barghest is a dog, their Speed changes to 35 feet. Each individual barghest has only one humanoid form and one dog form.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The barghest takes on the shape of a humanoid, a dog, or its true form. Their size changes to match the new form. When the barghest is a humanoid, their claw Strike deals bludgeoning damage and they lose their jaws Strike. When the barghest is a dog, their Speed changes to 35 feet. Each individual barghest has only one humanoid form and one dog form.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Unhealing Wound"
     desc: " (curse,primal) A creature damaged by the barghest's claws must succeed at a DC 21 Fortitude check save or be cursed. The cursed creature can't regain Hit Points except via magic until it returns to maximum Hit Points. The creature can attempt a new saving throw against the curse every 24 hours."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

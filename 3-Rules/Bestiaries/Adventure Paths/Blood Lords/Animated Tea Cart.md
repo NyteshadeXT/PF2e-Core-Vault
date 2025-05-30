@@ -19,6 +19,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/tokens/Tea Cart.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Animated Tea Cart"
 level: "Creature 8"
@@ -56,17 +57,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Slam +15 (magical)\n__Damage__  2d8 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Slam"
+    desc: "+15 (magical, unarmed)\n__Damage__  2d8 + 9 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dish +15 (magical, range increment 30 feet, versatile p, versatile s)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Ranged** `pf2:1` Dish"
+    desc: "+15 (magical, range increment 30 feet, versatile p, versatile s)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Construct Armor (Hardness 8)"
     desc: "  Like normal objects, an animated tea cart has Hardness. This Hardness reduces any damage the tea cart takes by an amount equal to the Hardness. Once an animated tea cart is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 24."
 
   - name: "Scald"
-    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The tea cart ejects piping-hot tea in a @Template[cone|distance:15] that deals 5d6 fire damage (DC 26 Reflex check)."
+    desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The tea cart ejects piping-hot tea in a 15-foot cone that deals 5d6 fire damage (DC 26 Reflex check)."
  
 ```
 

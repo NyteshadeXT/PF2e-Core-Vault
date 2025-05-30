@@ -42,7 +42,7 @@ health:
 perception:
   - name: ""
   - name: "Stealth DC 24" 
-    desc: "(expert) or _[[Spells/Detect Magic|Detect Magic]]_"
+    desc: "(expert) or [[Spells/Detect Magic|Detect Magic]]"
 abilities_top:
   - name: ""
   - name: "Description"
@@ -50,7 +50,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Disable"
-    desc: "DC 28 Thievery check (trained) to open the crate with gradual release of its magical energy, or _[[Spells/Dispel Magic|Dispel Magic]]_ (2nd rank; counteract DC 24) to dispel the rune"
+    desc: "DC 28 Thievery check (trained) to open the crate with gradual release of its magical energy, or [[Spells/Dispel Magic|Dispel Magic]] (2nd rank; counteract DC 24) to dispel the rune"
 attacks:
   - name: ""
 

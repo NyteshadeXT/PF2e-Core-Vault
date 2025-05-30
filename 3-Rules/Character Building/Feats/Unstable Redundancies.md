@@ -6,8 +6,9 @@ tags:
   - trait/inventor
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.5zeKULjKDkiIenhu"
-license: OGL
+license: ORC
 ---
 # Unstable Redundancies `pf2:0`
 ## Feat 14
@@ -27,4 +28,4 @@ You've built triple redundancies into your innovation and added all sorts of buf
 You can't rely on your Unstable Redundancies again until you spend 10 minutes setting them back up. If you spend 10 minutes retuning your innovation so you can use unstable actions again, you can set up your Unstable Redundancies during the same time.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

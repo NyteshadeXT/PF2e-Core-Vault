@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** focus pool
 * * *
-The moving power of your songs can stir the spirits of the dead to rise once more and fight alongside you. You learn the [[3-Rules/Character Building/Spells/S/Song of the Fallen|Song of the Fallen]] composition spell. Increase the number of Focus Points in your focus pool by 1.
+The moving power of your songs can stir the spirits of the dead to rise once more and fight alongside you. You learn the [[Spells/Song of the Fallen|Song of the Fallen]] composition spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder #150: Broken Promises*
 *OGL*

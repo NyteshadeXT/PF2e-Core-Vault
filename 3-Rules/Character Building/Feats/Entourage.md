@@ -12,7 +12,7 @@ license: OGL
 ---
 # Entourage
 ## Feat 7
-### [rare](rare.md "Rare Rarity Trait")[[general]][[skill]]
+### [rare](rare "Rare Rarity Trait")[[general]][[skill]]
 
 **Category** skill; 
 
@@ -28,5 +28,5 @@ These admirers do not travel with you to places that are obviously dangerous, in
 
 When you [[Actions/Gather Information|Gather Information]], you can use your admirers to assist you, granting a +1 circumstance bonus to your Diplomacy check and reducing the time it takes even further (typically to 30 minutes, rather than 1 hour with the Hobnobber feat alone). If you have the [[Feats/Sow Rumor|Sow Rumor]] feat, you can have your admirers assist you, with the same benefits as Gather Information.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

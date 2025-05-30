@@ -66,6 +66,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Scimitar|+1 Striking Scimitar]], [[Equipment/Composite Longbow|+1 Striking Composite Longbow]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Commanding Presence"
@@ -77,14 +80,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +20 (forceful, magical, sweep)\n__Damage__  2d6 + 12 slashing plus all-made-one"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+20 (forceful, magical, sweep)\n__Damage__  2d6 + 12 slashing plus all-made-one"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +19 (agile, magical, nonlethal)\n__Damage__  1d8 + 9 bludgeoning plus all-made-one"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+19 (agile, magical, nonlethal, unarmed)\n__Damage__  1d8 + 9 bludgeoning plus all-made-one"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +18 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 9 piercing plus all-made-one"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+18 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 9 piercing plus all-made-one"
 
   - name: "Arcane Innate Spells"
     desc: "DC 26, attack +18; __7th __  _[[Compendium.pf2e.spells-srd.Item.nRINcQb81Wt4KeFu|Interplanar Teleport (At Will; To Astral Plane, Elemental Planes, or the Universe only)]]_; __4th __  _[[Spells/Invisibility|Invisibility (x2)]]_, _[[Spells/Read Omens|Read Omens]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Know the Way|Know the Way]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
@@ -96,7 +99,7 @@ attacks:
     desc: "`pf2:1`  The jann shuyookh calls upon all the elements that make up their being and chooses one. They gain an additional arcane spell they can cast at will and empower their Strikes with the element, dealing an extra 1d6 damage of the listed type. These benefits last until the shuyookh uses this ability again.\n\n*   Air: [[Spells/Lightning Bolt|Lightning Bolt]], 1d6 electricity;\n*   Earth: [[Spells/One with Stone|One with Stone]], 1d6 bludgeoning;\n*   Fire: [[Spells/Fireball|Fireball]], 1d6 fire;\n*   Metal: [[Spells/Noxious Metals|Noxious Metals]], 1d6 electricity;\n*   Water: [[Spells/Wall of Water|Wall of Water]], 1d6 bludgeoning;\n*   Wood: [[Spells/Wall of Thorns|Wall of Thorns]], 1d6 piercing."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The jann transforms into a Small or Medium elemental or animal. This doesn't affect the gennayn's statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The jann transforms into a Small or Medium elemental or animal. This doesn't affect the gennayn's statistics, but it could change the damage type of their Strikes.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
  
 ```
 

@@ -32,5 +32,5 @@ There are times when skills or looks are not enough to convince someone of your 
 
 **Critical Failure** The target sees the information presented by the item as granting a higher level of authority than anticipated, and immediately treats you with the proper deference. As failure, and the target's attitude toward you immediately improves by one step.
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

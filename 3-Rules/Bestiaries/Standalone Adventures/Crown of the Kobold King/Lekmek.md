@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatpick +11 (fatal d12)\n__Damage__  1d10 + 6 piercing"
+  - name: "**Melee** `pf2:1` Greatpick"
+    desc: "+11 (fatal d12)\n__Damage__  1d10 + 6 piercing"
 
   - name: "False Retreat"
     desc: "`pf2:1`  **Requirements** Lekmek is adjacent to at least one enemy\n* * *\n\n**Effect** Lekmek Strides, as if he were attempting to run away but is actually attempting to open a foe up for an attack. If Lekmek's Stride triggers a reaction, he can attempt a greatpick Strike (using his highest attack modifier) on the creature that takes this reaction. If he does so, Lekmek gains a +1 circumstance bonus on his attack roll."

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Undying Conviction
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/trait_reference/A/aura]][[cleric]][[oracle]][[wizard]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[aura]][[cleric]][[oracle]][[wizard]]
 
 **Category** class; 
 
@@ -22,7 +22,7 @@ license: OGL
 
 **Prerequisites** able to create or control undead; cleric with a negative font, oracle of bones, or necromancer wizard
 * * *
-Your presence has a bolstering effect on your undead minions. Undead creatures under your control and within a @Template\[emanation|distance:30\] around you gain a +2 status bonus to saving throws to resist vitality damage and to Will saving throws to resist effects that would make them controlled.
+Your presence has a bolstering effect on your undead minions. Undead creatures under your control and within a 30-foot emanation around you gain a +2 status bonus to saving throws to resist vitality damage and to Will saving throws to resist effects that would make them controlled.
 
 [[Feat_Feature Effects/Effect_ Under Control|Effect: Under Control]]
 

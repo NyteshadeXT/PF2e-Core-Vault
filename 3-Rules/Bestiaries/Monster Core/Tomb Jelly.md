@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +15 ()\n__Damage__  1d6 acid plus tomb-curse 1d8 + 6 bludgeoning plus tomb-curse"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+15 (unarmed)\n__Damage__  1d6 acid plus tomb-curse 1d8 + 6 bludgeoning plus tomb-curse"
 
   - name: "Bound in Death"
     desc: "`pf2:1` (healing,void) The tomb jelly splatters some of its substance on a willing undead creature within its reach. The target regains 5 void healing HP and its melee Strikes get the benefits of tomb curse until the end of its next turn."

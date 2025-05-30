@@ -7,8 +7,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.9p4oFIn791VAmzUn"
-license: OGL
+license: ORC
 ---
 # Cauterize `pf2:1`
 ## Feat 6
@@ -26,4 +27,4 @@ license: OGL
 You use the smoking barrel of your firearm to sear shut a bleeding wound. Make a Strike with your firearm. You then press the heated barrel to the wounds of you or an ally within reach that is taking persistent bleed damage, giving an immediate flat check to end the bleed with the lower DC for particularly effective assistance.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

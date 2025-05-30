@@ -27,5 +27,7 @@ license: ORC
 
 You call upon divine power and make a weapon or unarmed Strike against the enemy who triggered your champion's reaction. The Strike deals one extra weapon damage die. If this Strike hits, until the start of your next turn, the target gains weakness equal to half your level to all Strikes made by you and your allies.
 
+[[Feat_Feature Effects/Effect_ Blessed Counterstrike|Effect: Blessed Counterstrike]]
+
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -17,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Conch of Otherworldly Seas|Conch of Otherworldly Seas]]
+Granted by [[Equipment/Conch of Otherworldly Seas|Conch of Otherworldly Seas]]
 
-You hold the horn to your ear and can understand and speak Thalassic as long as it remains there.
+You can understand and speak Thalassic.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

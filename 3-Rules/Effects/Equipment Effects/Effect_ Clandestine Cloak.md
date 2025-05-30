@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Clandestine Cloak|Clandestine Cloak]]
+Granted by [[Equipment/Clandestine Cloak|Clandestine Cloak]]
+
+You gain a +1 item bonus to Stealth checks and to Deception checks to Impersonate a forgettable background character, such as a servant, but also taking a -1 item penalty to Diplomacy and Intimidation checks.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

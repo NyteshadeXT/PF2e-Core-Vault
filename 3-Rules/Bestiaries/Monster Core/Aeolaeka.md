@@ -57,13 +57,19 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Warhammer|+1 Striking Warhammer]]"
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Precise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +25 (holy, magical, shove)\n__Damage__  2d8 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+25 (holy, magical, shove)\n__Damage__  2d8 + 12 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 32, attack +24; __6th __  _[[Spells/Petrify|Petrify]]_, _[[Spells/Sure Footing|Sure Footing]]_; __5th __  _[[Spells/Heal|Heal]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Wall of Stone|Wall of Stone]]_, _[[Spells/Weapon Storm|Weapon Storm]]_; __3rd __  _[[Spells/Earthbind|Earthbind (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/Speak with Stones|Speak with Stones]]_, _[[Spells/Truespeech|Truespeech]]_"
@@ -72,7 +78,7 @@ attacks:
     desc: "  An aeolaeka can Burrow through any earthen matter, including rock. When they do so, the aeolaeka moves at their full burrow Speed, leaving no tunnels or signs of their passing."
 
   - name: "Liberate the Earth"
-    desc: "`pf2:2` (concentrate,divine,earth) The aeolaeka conjures churning stones, creating a @Template[line|distance:60] of rolling boulders. Creatures in the line take 10d6 bludgeoning damage with a DC 35 Reflex check save. The area is difficult terrain for 24 hours before the leftover stone crumbles to dust. The aeolaeka can't Liberate the Earth for 1d4 rounds.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is knocked [[Conditions/Prone|Prone]].\n\n**Critical Failure** The creature takes double damage, is knocked prone, and is [[Conditions/Immobilized|Immobilized]] by the rubble ([[/act escape dc=32]])."
+    desc: "`pf2:2` (concentrate,divine,earth) The aeolaeka conjures churning stones, creating a 60-foot line of rolling boulders. Creatures in the line take 10d6 bludgeoning damage with a DC 35 Reflex check save. The area is difficult terrain for 24 hours before the leftover stone crumbles to dust. The aeolaeka can't Liberate the Earth for 1d4 rounds.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is knocked [[Conditions/Prone|Prone]].\n\n**Critical Failure** The creature takes double damage, is knocked prone, and is [[Conditions/Immobilized|Immobilized]] by the rubble ([[Actions/escape dc=32|escape dc=32]])."
 
   - name: "Statue"
     desc: "`pf2:1` (concentrate) Until the next time they act, the aeolaeka appears to be a statue. They have an automatic result of 45 on Deception checks and DCs to pass as a statue."

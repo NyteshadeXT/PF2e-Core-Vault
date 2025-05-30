@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Silence Heresy"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/bonus
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.feats-srd.Item.tPhhaCbaQqwenkzx"
 license: OGL
 ---
 # Silence Heresy `pf2:2`
-
+## Feat 1
 ### 
 
 **Category** bonus; 
@@ -20,5 +20,5 @@ license: OGL
 * * *
 You channel a power that stifles dangerous words. Make a melee Strike. If the attack hits, the target is unable to speak in a voice louder than a whisper for 1 round. This prevents the target from using most auditory effects involving its voice, and it must succeed at a DC 5 Flat check to Cast a Spell with a verbal component or the spell is disrupted. If your Strike is a critical hit, the target is entirely unable to speak for 1 round and is limited to a whisper for 1 minute thereafter. Once a creature has been affected by this ability, it is temporarily immune for 1 minute.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

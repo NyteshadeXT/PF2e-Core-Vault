@@ -58,6 +58,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Blight Dependent"
@@ -66,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +14 (finesse, magical)\n__Damage__  2d8 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+14 (finesse, magical)\n__Damage__  2d8 + 2 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Thorn Spike +14 (magical)\n__Damage__  2d6 piercing 1d6 poison"
+  - name: "**Melee** `pf2:1` Thorn Spike"
+    desc: "+14 (magical)\n__Damage__  2d6 piercing 1d6 poison"
 
   - name: "Primal Innate Spells"
     desc: "DC 22, attack +14; __5th __ (2 slots) _[[Spells/Nature's Pathway|Tree Stride (x2)]]_; __4th __ (2 slots) _[[Spells/Suggestion|Suggestion (x2)]]_; __3rd __ (1 slots) _[[Spells/Sudden Blight|Sudden Blight]]_; __2nd __ (3 slots) _[[Spells/Entangling Flora|Entangle (At Will)]]_, _[[Spells/Fungal Infestation|Fungal Infestation (x3)]]_, _[[Spells/One with Plants|Tree Shape (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Tangle Vine|Tanglefoot]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"

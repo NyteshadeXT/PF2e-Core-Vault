@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Effect: Rebirth In Living Stone"
+title: "Effect: Rebirth in Living Stone"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/
@@ -8,8 +8,8 @@ tags:
 aliases: "Compendium.pf2e.feat-effects.Item.zqgOjMU9TGoGwJWc"
 license: OGL
 ---
-# Effect: Rebirth In Living Stone
-## Level 1
+# Effect: Rebirth in Living Stone
+## Level 18
 ### 
 
 
@@ -17,13 +17,9 @@ license: OGL
 
 
 
-Granted by [[Feats/Rebirth In Living Stone|Rebirth In Living Stone]]
+Granted by [[Feats/Rebirth in Living Stone|Rebirth in Living Stone]]
 
-Rock overflows from within you to consume your form before cracking open to reveal your body transformed into living stone. You gain 40 temporary Hit Points. You're immune to critical hits and precision damage. You can't be pushed, pulled, or tripped while you're standing on earth or stone. Your earth Elemental Blasts deal an additional 1d10 damage of their normal type. These benefits last until the end of your next turn, but you can Sustain them up to 1 minute. After you gain temporary Hit Points from this impulse, you can't do so again for 10 minutes.
-
-* * *
-
-**Level (20th)** You gain 50 temporary Hit Points.
+You gain temporary Hit Points. You're immune to critical hits and precision damage. Your earth Elemental Blasts deal an additional 1d10 damage of their normal type.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

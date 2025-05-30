@@ -59,11 +59,14 @@ abilities_top:
     desc: "4x [[Equipment/Hatchet|+2 Striking Hatchet]], [[Equipment/Hide Armor|+2 Greater Resilient Hide Armor]], 5x Rock, [[Equipment/Sack|Sack]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 20]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Catch Rock|Catch Rock]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Requirements** The monster must have a free hand but can [[Actions/Release|Release]] anything it's holding as part of this reaction.\n\n**Trigger** The monster is targeted with a thrown rock Strike or a rock would fall on the monster.\n* * *\n\n**Effect** The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock."
 
   - name: "Juggernaut"
     desc: "  When Kargstaad rolls a success on a Fortitude save, he gets a critical success instead."
@@ -71,11 +74,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +37 (agile, magical, sweep)\n__Damage__  3d6 + 18 slashing 2d6 cold"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+37 (agile, magical, sweep)\n__Damage__  3d6 + 18 slashing 2d6 cold"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +35 (brutal, range increment 120 feet)\n__Damage__  2d10 + 18 bludgeoning plus rock"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+35 (brutal, range increment 120 feet)\n__Damage__  2d10 + 18 bludgeoning plus rock"
 
   - name: "Chill Breath"
     desc: "`pf2:1` (cold,primal) The frost giant breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 9d6 cold damage. Each creature in the cone must attempt a DC 41 Reflex check save.\n\nA creature that fails its save is also [[Conditions/Immobilized|Immobilized]] and takes 2d6 cold damage at the end of each of its turns until it gets free (Escape DC 41).\n\nThe giant can't use Chill Breath again for 1d4 rounds."
@@ -90,7 +93,7 @@ attacks:
     desc: "`pf2:1`  **Requirements** Kargstaad isn't [[Conditions/Fatigued|Fatigued]] or raging.\n* * *\n\n**Effect** Kargstaad gains 25 temporary hit points, deals an extra 12 points of damage with thrown rocks, and deals an extra 6 points of damage with hatchets. He takes a -1 penalty to AC and can't use actions with the concentrate trait (except [[Actions/Seek|Seek]]) unless they also have the rage trait.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
 
   - name: "Wide Swing"
     desc: "`pf2:1`  The frost giant makes a single greataxe Strike and compares the attack roll result to the ACs of up to two foes within its reach. This counts as two attacks for the frost giant's multiple attack penalty."

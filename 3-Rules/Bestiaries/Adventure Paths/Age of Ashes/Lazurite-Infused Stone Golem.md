@@ -55,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Golem) Golem Antimagic|Golem Antimagic]]"
-    desc: "  harmed by _cold_ and _vitality_ (5d10, 2d8 from areas or persistent damage); healed by _void_ (area 2d8 healing Hit Points); slowed by _earth_\n* * *\n\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. These exceptions are listed in shortened form in the golem's stat block, with the full rules appearing here. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n\n*   **Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n*   **Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n*   **Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's slowed 1 for that round.\n*   **Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
+    desc: "  Harmed by cold and vitality (5d10 untyped, 2d8 untyped from areas or persistent damage); healed by void (area 2d8 healing HP); slowed by earth\n* * *\n\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. These exceptions are listed in shortened form in the golem's stat block, with the full rules appearing here. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n\n*   **Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n*   **Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n*   **Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's slowed 1 for that round.\n*   **Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
 
   - name: "Necrotic Field"
     desc: " (aura,divine) 30 feet. Vitality energy effects within the golem's necrotic field deal only half their normal damage. Additionally, all undead within its aura deal an additional 1d6 void damage with their natural attacks.\n\n[[Bestiary Effects/Effect_ Necrotic Field|Effect: Necrotic Field]]"
@@ -66,17 +66,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +26 (magical, reach 10 feet)\n__Damage__  2d10 + 11 bludgeoning 2d6 void"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+26 (magical, reach 10 feet, unarmed)\n__Damage__  2d10 + 11 bludgeoning 2d6 void"
 
   - name: "Inexorable March"
     desc: "`pf2:1`  The golem Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can bar the way by succeeding at a DC 36 Fortitude check save. On a critical success, the resisting creature takes no damage; otherwise, it takes damage equal to that dealt by the golem's fist Strike"
 
   - name: "Necrotic Affliction"
-    desc: "`pf2:r`  **Trigger** The golem hits a slowed creature.\n* * *\n\n**Effect** The creature must succeed at a DC 34 Fortitude check save or become [[Conditions/Drained|Drained 1]] (or [[Conditions/Drained|Drained 2]] on a critical failure) as the golem's lazurite leeches vital energies and causes wounds to rot."
+    desc: "`pf2:r`  **Trigger** The golem hits a [[Conditions/Slowed|Slowed]] creature.\n* * *\n\n**Effect** The creature must succeed at a DC 34 Fortitude check save or become [[Conditions/Drained|Drained 1]] (or [[Conditions/Drained|Drained 2]] on a critical failure) as the golem's lazurite leeches vital energies and causes wounds to rot."
 
   - name: "Necrotic Pulse"
-    desc: "`pf2:1` (arcane,concentrate,disease,void) Each creature in a @Template[emanation|distance:10] must succeed at a DC 32 Fortitude check save or take 1d6 persistent void damage and be [[Conditions/Slowed|Slowed 1]] for 1 minute as their flesh and bones temporarily atrophy. The golem can't use Necrotic Pulse again for 1d4 rounds."
+    desc: "`pf2:1` (arcane,concentrate,disease,void) Each creature in a 10-foot emanation must succeed at a DC 32 Fortitude check save or take 1d6 persistent void damage and be [[Conditions/Slowed|Slowed 1]] for 1 minute as their flesh and bones temporarily atrophy. The golem can't use Necrotic Pulse again for 1d4 rounds."
  
 ```
 

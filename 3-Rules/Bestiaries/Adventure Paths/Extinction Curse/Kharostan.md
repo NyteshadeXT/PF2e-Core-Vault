@@ -57,25 +57,34 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Composite Longbow|+1 Striking Composite Longbow]], [[Equipment/Rhoka Sword|+2 Greater Striking Rhoka Sword]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], 40x [[Equipment/Arrows|Arrows]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Necrotic Decay"
-    desc: " (divine,void) When Kharostan dies, his daemon-tainted flesh quickly rots away and sublimates into a foul-smelling gas that fills a @Template[emanation|distance:10] around his body.\n\nAll creatures within the area take 20d6 void damage as their flesh curdles and rots as well (DC 37 Fortitude check save)."
+    desc: " (divine,void) When Kharostan dies, his daemon-tainted flesh quickly rots away and sublimates into a foul-smelling gas that fills a 10-foot emanation around his body.\n\nAll creatures within the area take 20d6 void damage as their flesh curdles and rots as well (DC 37 Fortitude check save)."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rhoka Sword +32 (fatal d10, magical, reach 10 feet, two-hand d12, unholy)\n__Damage__  3d8 + 12 slashing"
+  - name: "**Melee** `pf2:1` Rhoka Sword"
+    desc: "+32 (fatal d10, magical, reach 10 feet, two-hand d12, unholy)\n__Damage__  3d8 + 12 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +31 (unholy)\n__Damage__  3d8 + 12 piercing plus wicked-bite"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+31 (unarmed, unholy)\n__Damage__  3d8 + 12 piercing plus wicked-bite"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +32 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, unholy, volley 30 ft.)\n__Damage__  2d8 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+32 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, unholy, volley 30 ft.)\n__Damage__  2d8 + 9 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 37, attack +29; __2nd __  _[[Spells/Death Knell|Death Knell]]_; __1st __  _[[Spells/Gentle Landing|Feather Fall (At Will) (Self Only)]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Constant__  __(8th)__ _[[Spells/Truesight|True Seeing]]_"
@@ -93,7 +102,7 @@ attacks:
     desc: " (rage) **Trigger** Kharostan's turn begins and he has 140 or fewer Hit Points\n* * *\n\n**Effect** Kharostan throws caution to the wind to finish the fight. He gains a +2 status bonus to attack rolls, a -2 status penalty to AC, and a -1 status penalty to saves. He can also make a Wicked Bite each time he damages a creature with his jaws Strike, in addition to the usual once per round usage for a free action. These effects last until his rage ends or he has more than 140 Hit Points, whichever comes first."
 
   - name: "Wicked Bite"
-    desc: "  **Trigger** Kharostan damages a creature with a jaws Strike\n\n**Frequency** once per round\n* * *\n\n**Effect** Kharostan's bite leaves the victim's flesh translucent around the site of the injury. He chooses one of the effects below, each of which requires the damaged creature to attempt a DC 37 Fortitude check save.\n\nIf the jaws Strike was a critical hit, the creature takes both effects, rolling the saving throw once and using the result for both effects.\n\n*   **Drain Blood** Kharostan drinks some of the victim's blood. On a failed save, the victim is [[Conditions/Doomed|Doomed 1]] and [[Conditions/Drained|Drained 1]], and Kharostan regains 20 HP (on a critical failure, the creature is [[Conditions/Doomed|Doomed 2]] and [[Conditions/Drained|Drained 2]], and Kharostan regains 40 HP).\n*   **Drain Vitality** (necromancy) Kharostan draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour on a failed save (or [[Conditions/Enfeebled|Enfeebled 3]] for 1 hour on a critical failure)."
+    desc: "  **Trigger** Kharostan damages a creature with a jaws Strike\n\n**Frequency** once per round\n* * *\n\n**Effect** Kharostan's bite leaves the victim's flesh translucent around the site of the injury. He chooses one of the effects below, each of which requires the damaged creature to attempt a DC 37 Fortitude check save.\n\nIf the jaws Strike was a critical hit, the creature takes both effects, rolling the saving throw once and using the result for both effects.\n\n*   **Drain Blood** Kharostan drinks some of the victim's blood. On a failed save, the victim is [[Conditions/Doomed|Doomed 1]] and [[Conditions/Drained|Drained 1]], and Kharostan regains 20 healing HP (on a critical failure, the creature is [[Conditions/Doomed|Doomed 2]] and [[Conditions/Drained|Drained 2]], and Kharostan regains 40 healing HP).\n*   **Drain Vitality** (necromancy) Kharostan draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour on a failed save (or [[Conditions/Enfeebled|Enfeebled 3]] for 1 hour on a critical failure)."
  
 ```
 

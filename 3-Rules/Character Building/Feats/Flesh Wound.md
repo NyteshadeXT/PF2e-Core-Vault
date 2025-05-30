@@ -6,8 +6,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Xdf00Kmv5C3qqrtK"
-license: OGL
+license: ORC
 ---
 # Flesh Wound `pf2:1`
 ## Feat 12
@@ -23,4 +24,4 @@ You fire to ensure that even if your shot doesn't land cleanly, it still lands c
 **Failure** Though your attack misses, it still deals one die of damage plus any damage from your weapon specialization class feature. This uses your weapon's normal damage die and damage type. This attack doesn't add extra damage from any other sources or abilities.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

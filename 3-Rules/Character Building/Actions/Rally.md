@@ -8,14 +8,14 @@ tags:
   - trait/exploration
   - trait/linguistic
   - trait/mental
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.xJEkXFJgEfEida27"
 license: OGL
 ---
 # Rally
 
-### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Emotion]][[exploration]][[linguistic]][[3-Rules/Rule References/Mental]]
+### [[auditory]][[emotion]][[exploration]][[linguistic]][[mental]]
 
 **Category** interaction; 
 

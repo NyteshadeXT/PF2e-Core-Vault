@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You mentally increase the input of your hearing aids. You gain a +1 item bonus to all hearing-based Perception checks for 10 minutes.
+Granted by [[Equipment/Enhanced Hearing Aids|Enhanced Hearing Aids]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+You gain a +1 item bonus to all hearing-based Perception checks.
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

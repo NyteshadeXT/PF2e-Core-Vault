@@ -16,7 +16,7 @@ license: ORC
 ---
 # Tragic Lament `pf2:r`
 ## Feat 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[auditory]][[emotion]][[linguistic]][[3-Rules/trait_reference/M/mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[auditory]][[emotion]][[linguistic]][[mental]]
 
 **Category** class; 
 

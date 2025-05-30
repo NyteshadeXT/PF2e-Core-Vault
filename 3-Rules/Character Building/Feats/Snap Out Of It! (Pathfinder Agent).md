@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Snap Out Of It! (Pathfinder Agent)"
+title: "Snap Out of It! (Pathfinder Agent)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/archetype
@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.n3vpCWPjXAInRTyR"
 license: OGL
 ---
-# Snap Out Of It! (Pathfinder Agent) `pf2:2`
+# Snap Out of It! (Pathfinder Agent) `pf2:2`
 ## Feat 8
 ### [[archetype]][[skill]]
 
@@ -32,5 +32,5 @@ Pathfinders are trained to help each other be safe and successful, and you know 
 
 **Critical Failure** You increase the value of the chosen condition by 1. If you chose fascinated, increase the duration by 1 round instead.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

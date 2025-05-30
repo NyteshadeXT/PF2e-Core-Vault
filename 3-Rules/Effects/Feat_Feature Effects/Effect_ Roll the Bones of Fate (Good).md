@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Roll the Bones of Fate|Roll the Bones of Fate]]
 
-You or an ally can roll twice on your next attack roll or skill check, taking the higher result.
+You can roll twice on your next attack roll or skill check, taking the higher result.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

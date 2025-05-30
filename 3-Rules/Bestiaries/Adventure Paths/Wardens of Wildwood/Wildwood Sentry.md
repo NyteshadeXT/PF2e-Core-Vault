@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +21 (agile, finesse, versatile s)\n__Damage__  1d4 + 12 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+21 (agile, finesse, versatile s)\n__Damage__  1d4 + 12 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +21 (sweep)\n__Damage__  1d8 + 12 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+21 (sweep)\n__Damage__  1d8 + 12 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +22 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+22 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 11 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +17; __3rd __  _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Earthbind|Earthbind]]_; __2nd __  _[[Spells/Revealing Light|Revealing Light]]_, _[[Spells/Speak with Animals|Speak with Animals (At Will)]]_\n__Cantrips__  __(3rd)__ _[[Spells/Know the Way|Know the Way]]_, _[[Spells/Sigil|Sigil]]_"

@@ -26,5 +26,5 @@ license: OGL
 
 Your Hellknight training drilled details of Hell's denizens deep into your mind. Make an attempt to Recall Knowledge about a devil you're observing. If you roll a critical failure on this check, you get a failure instead.
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

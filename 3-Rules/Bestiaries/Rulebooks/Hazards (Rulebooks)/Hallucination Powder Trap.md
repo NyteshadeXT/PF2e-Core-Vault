@@ -53,7 +53,7 @@ attacks:
   - name: ""
 
   - name: "Powder Burst"
-    desc: "`pf2:r` (mental, poison) **Trigger** The latch is opened or the tube is broken.\n* * *\n\n**Effect** The tube explodes, spraying hallucinogenic powder in a @Template[cone|distance:30]. Any creature in the cone must succeed at a DC 24 Will check save or be confused for 1 round and take a -2 status penalty to Perception checks and saves against mental effects for 1d4 hours. On a critical failure, the penalty is instead -4.\n\n[[Bestiary Effects/Effect_ Powder Burst|Effect: Powder Burst]]"
+    desc: "`pf2:r` (mental, poison) **Trigger** The latch is opened or the tube is broken.\n* * *\n\n**Effect** The tube explodes, spraying hallucinogenic powder in a 30-foot cone. Any creature in the cone must succeed at a DC 24 Will check save or be confused for 1 round and take a -2 status penalty to Perception checks and saves against mental effects for 1d4 hours. On a critical failure, the penalty is instead -4.\n\n[[Bestiary Effects/Effect_ Powder Burst|Effect: Powder Burst]]"
 
 
 

@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dogslicer +7 (agile, backstabber, finesse)\n__Damage__  1d6 slashing"
+  - name: "**Melee** `pf2:1` Dogslicer"
+    desc: "+7 (agile, backstabber, finesse)\n__Damage__  1d6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +7 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+7 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
  
 ```
 

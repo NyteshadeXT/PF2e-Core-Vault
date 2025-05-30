@@ -23,7 +23,7 @@ license: ORC
 
 You spend 10 minutes and open yourself to the divine mysteries of the world, peering into the most sinister portents of the future.
 
-You gain the effects of [[Augury|Augury]], except you learn only about the dangers ahead; any results of "good" are instead "nothing," and results of "mixed" are instead "bad." If you are legendary in Religion, you take only 1 minute to Read Disaster.
+You gain the effects of [[Spells/Augury|Augury]], except you learn only about the dangers ahead; any results of "good" are instead "nothing," and results of "mixed" are instead "bad." If you are legendary in Religion, you take only 1 minute to Read Disaster.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

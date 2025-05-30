@@ -32,5 +32,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You call upon the earth and your ki to shield you from your enemies. You gain 50 temporary Hit Points that last for the duration or until you lose them, as well as resistance 5 to all physical damage (except adamantine).\n\n[[Spell Effects/Spell Effect_ Untwisting Iron Pillar|Spell Effect: Untwisting Iron Pillar]]"
-sourcebook: "_Pathfinder Lost Omens: Impossible Lands_"
+sourcebook: "_Pathfinder Lost Omens Impossible Lands_"
 ```

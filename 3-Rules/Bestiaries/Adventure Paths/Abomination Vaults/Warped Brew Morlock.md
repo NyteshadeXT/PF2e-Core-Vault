@@ -52,22 +52,25 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wooden Chair +7 (forceful)\n__Damage__  1d8 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Wooden Chair"
+    desc: "+7 (forceful)\n__Damage__  1d8 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (agile)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (agile, unarmed)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Pewter Mug +8 (range increment 10 feet)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Ranged** `pf2:1` Pewter Mug"
+    desc: "+8 (range increment 10 feet)\n__Damage__  1d4 + 4 bludgeoning"
 
   - name: "Instinctual Tinker"
-    desc: "`pf2:2`  The morlock tinkers with an adjacent construct or mechanical hazard. They attempt a Crafting check check against the construct's or hazard's Fortitude DC. The morlock can't succeed if the target's level is more than double the morlock's.\n* * *\n\n**Critical Success** The target gains 4d6 Hit Points and a +1 circumstance bonus to attack rolls for 1 minute.\n\n**Success** The target gains 2d6 Hit Points.\n\n**Critical Failure** The morlock injures itself, taking 2d6 damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion).\n\n[[Bestiary Effects/Effect_ Instinctual Tinker (Critical Success)|Effect: Instinctual Tinker (Critical Success)]]"
+    desc: "`pf2:2`  The morlock tinkers with an adjacent construct or mechanical hazard. They attempt a Crafting check check against the construct's or hazard's Fortitude DC. The morlock can't succeed if the target's level is more than double the morlock's.\n* * *\n\n**Critical Success** The target gains 4d6 healing Hit Points and a +1 circumstance bonus to attack rolls for 1 minute.\n\n**Success** The target gains 2d6 healing Hit Points.\n\n**Critical Failure** The morlock injures itself, taking 2d6 untyped damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion).\n\n[[Bestiary Effects/Effect_ Instinctual Tinker (Critical Success)|Effect: Instinctual Tinker (Critical Success)]]"
 
   - name: "Leap Attack"
     desc: "`pf2:2`  The morlock Strides up to twice its Speed, during which it attempts a [[Actions/High Jump|High Jump]] or a [[Actions/Long Jump|Long Jump]]. At any point during its movement, the morlock can make a melee Strike against an enemy in its reach.\n\nThe morlock then can't use Leap Attack for 1 round."

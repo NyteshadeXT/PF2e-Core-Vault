@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Cleaver +6 (agile)\n__Damage__  1d6 slashing"
+  - name: "**Melee** `pf2:1` Cleaver"
+    desc: "+6 (agile)\n__Damage__  1d6 slashing"
  
 ```
 

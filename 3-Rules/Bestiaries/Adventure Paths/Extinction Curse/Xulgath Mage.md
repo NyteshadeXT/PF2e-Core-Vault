@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Mace +15 (agile, magical, shove)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Light Mace"
+    desc: "+15 (agile, magical, shove)\n__Damage__  1d4 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 ()\n__Damage__  1d8 + 2 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (unarmed)\n__Damage__  1d8 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 (agile)\n__Damage__  2d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (agile, unarmed)\n__Damage__  2d6 + 2 slashing"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 26, attack +18; __4th __ (3 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_; __3rd __ (4 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Force Barrage|Magic Missile]]_; __2nd __ (4 slots) _[[Spells/Create Food|Create Food]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __ (4 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(4th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

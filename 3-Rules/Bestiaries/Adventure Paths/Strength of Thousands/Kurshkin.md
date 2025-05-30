@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +12 (agile, finesse, magical, versatile s)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+12 (agile, finesse, magical, versatile s)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +12 (deadly d10, magical, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+12 (deadly d10, magical, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "Innate Primal Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Speak with Animals|Speak with Animals (At Will)]]_; __1st __ (2 slots) _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(2nd)__ _[[Spells/Prestidigitation|Prestidigitation]]_"

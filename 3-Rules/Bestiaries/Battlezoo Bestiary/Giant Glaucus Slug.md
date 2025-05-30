@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +12 (agile)\n__Damage__  2d6 + 5 piercing plus consume-poison"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+12 (agile)\n__Damage__  2d6 + 5 piercing plus consume-poison"
 
-  - name: "Melee"
-    desc: "`pf2:1` Cerata +13 (agile, finesse)\n__Damage__  1d6 + 5 bludgeoning plus concentrated-jellyfish-venom"
+  - name: "**Melee** `pf2:1` Cerata"
+    desc: "+13 (agile, finesse)\n__Damage__  1d6 + 5 bludgeoning plus concentrated-jellyfish-venom"
 
   - name: "Concentrated Jellyfish Venom"
     desc: " (poison) **Saving Throw** DC 22 Fortitude;\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 round);\n\n**Stage 2** 1d6 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round);\n\n**Stage 3** 2d6 poison damage and [[Conditions/Clumsy|Clumsy 3]] (1 round)"

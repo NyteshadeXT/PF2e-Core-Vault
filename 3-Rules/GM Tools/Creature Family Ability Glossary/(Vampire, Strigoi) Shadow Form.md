@@ -6,14 +6,14 @@ tags:
   - trait/concentrate
   - trait/divine
   - trait/shadow
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.eQLGYrJhu787pEwc"
 license: OGL
 ---
 # (Vampire, Strigoi) Shadow Form `pf2:1`
 
-### [[concentrate]][[divine]][[3-Rules/trait_reference/shadow]]
+### [[concentrate]][[divine]][[shadow]]
 
 **Category** defensive; 
 

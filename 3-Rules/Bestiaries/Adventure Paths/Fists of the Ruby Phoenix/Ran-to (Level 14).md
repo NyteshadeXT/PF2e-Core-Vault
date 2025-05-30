@@ -58,16 +58,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  When a creature triggers Ran-to's Attack of Opportunity, he can attempt an Athletics check to [[Actions/Grapple|Grapple]] the triggering creature instead of making a melee Strike. He can still disrupt a triggering manipulate action if he critically succeeds his attempt.\n\n* * *\n"
+    desc: "`pf2:r`  When a creature triggers Ran-to's Attack of Opportunity, he can attempt an Athletics check to [[Actions/Grapple|Grapple]] the triggering creature instead of making a melee Strike. He can still disrupt a triggering manipulate action if he critically succeeds his attempt.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Gauntlet +30 (agile, free-hand, magical)\n__Damage__  3d4 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Gauntlet"
+    desc: "+30 (agile, free-hand, magical)\n__Damage__  3d4 + 14 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Halfling Sling Staff +28 (magical, propulsive, range increment 80 feet, reload 1)\n__Damage__  3d10 + 10 bludgeoning"
+  - name: "**Ranged** `pf2:1` Halfling Sling Staff"
+    desc: "+28 (magical, propulsive, range increment 80 feet, reload 1)\n__Damage__  3d10 + 10 bludgeoning"
 
   - name: "Body Slam"
     desc: "`pf2:1`  **Requirements** Ran-to has a creature grabbed.\n* * *\n\n**Effect** Ran-to throws his foe against the ground. The grabbed creature takes 8d6 bludgeoning damage and is knocked [[Conditions/Prone|Prone]]. The grapple ends."

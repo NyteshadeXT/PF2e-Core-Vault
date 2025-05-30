@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You gain a fly Speed equal to your Speed for 1 minute. (Defaults to 25)
+Granted by [[Equipment/Energy Robe of Electricity|Energy Robe of Electricity]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+You gain a fly Speed equal to your Speed for 1 minute.
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

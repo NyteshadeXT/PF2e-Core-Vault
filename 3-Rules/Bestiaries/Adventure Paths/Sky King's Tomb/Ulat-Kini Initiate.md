@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile, finesse)\n__Damage__  1d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, finesse, unarmed)\n__Damage__  1d8 + 5 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +13 ()\n__Damage__  1 bleed 2d4 + 5 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+13 ()\n__Damage__  1 bleed 2d4 + 5 piercing"
 
   - name: "Flurry of Claws"
     desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The ulat-kini initiate makes two claw Strikes against a single target."

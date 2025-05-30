@@ -5,21 +5,21 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
   - trait/manipulate
-  - trait/common
+  - trait/
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.UAaQk93a30nx0nYY"
 license: ORC
 ---
 # Affix a Talisman
 
-### [[exploration]][[3-Rules/Rule References/Manipulate]]
+### [[exploration]][[manipulate]]
 
 
 
 
 
 
-**Requirements** You must use a [[Repair Toolkit|Repair Toolkit]]
+**Requirements** You must use a [[Equipment/Repair Toolkit|Repair Toolkit]]
 
 * * *
 

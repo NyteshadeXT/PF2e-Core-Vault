@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +8 (agile, finesse, versatile s)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+8 (agile, finesse, versatile s)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +10 (thrown 20 ft.)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+10 (thrown 20 ft.)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Quick Trap"
     desc: "`pf2:3`  The kobold trapmaster deploys one of their spike traps in an adjacent square.\n* * *\n\nOnce this trap is deployed in a square, it deals 2d8 piercing damage to anyone who steps on that square and they must attempt a DC 17 Reflex check saving throw. A hero takes no damage on a critical success, half damage on a success, full damage on a failure, and double damage on a critical failure. These traps can be disabled with a successful DC 15 Thievery check check."

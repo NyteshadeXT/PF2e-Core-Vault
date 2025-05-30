@@ -14,7 +14,7 @@ license: OGL
 ---
 # (Blackfrost Dead) Mindburning Gaze `pf2:2`
 
-### [[emotion]][[3-Rules/trait_reference/F/fear]][[occult]][[visual]]
+### [[emotion]][[fear]][[occult]][[visual]]
 
 **Category** offensive; 
 

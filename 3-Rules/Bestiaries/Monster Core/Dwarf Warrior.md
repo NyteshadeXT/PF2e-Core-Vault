@@ -56,16 +56,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +8 (shove)\n__Damage__  1d8 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+8 (shove)\n__Damage__  1d8 + 2 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Clan Dagger +8 (agile, parry, versatile b)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Clan Dagger"
+    desc: "+8 (agile, parry, versatile b)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Dwarven Doughtiness"
     desc: "  A dwarf is often calm and collected in the face of imminent danger. At the end of this dwarf's turn, reduce their frightened condition by 2 instead of 1."

@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +16 ()\n__Damage__  2d10 + 6 piercing plus grab"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+16 ()\n__Damage__  2d10 + 6 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +16 (agile)\n__Damage__  2d8 + 6 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+16 (agile, unarmed)\n__Damage__  2d8 + 6 slashing plus grab"
 
   - name: "Pierce Armor"
     desc: "`pf2:1`  The smilodon makes a fangs Strike against a creature that's [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].\n\nIf the attack hits, the creature is knocked [[Conditions/Prone|Prone]]; if the creature is wearing armor with hardness 10 or lower, the armor is [[Conditions/Broken|Broken]].\n\nIf this Strike breaks a creature's armor or damages a creature who is unarmored or wearing broken armor, the creature also takes 2d6 bleed. This Strike doesn't further damage armor that's already broken."
@@ -71,7 +71,7 @@ attacks:
     desc: "  The smilodon deals 1d6 extra precision damage to creatures that are [[Conditions/Off-Guard|Off-Guard]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

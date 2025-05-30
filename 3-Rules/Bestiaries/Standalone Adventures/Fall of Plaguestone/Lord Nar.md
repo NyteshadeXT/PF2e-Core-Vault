@@ -58,19 +58,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` +1 Greatclub +14 (backswing, shove)\n__Damage__  1d10 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` +1 Greatclub"
+    desc: "+14 (backswing, shove)\n__Damage__  1d10 + 5 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +11 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+11 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +10 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+10 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 5 slashing"
 
   - name: "No Escape"
     desc: "`pf2:r`  **Trigger** An adjacent foe moves away.\n* * *\n\n**Effect** Lord Nar may move up to his speed but must end his move as close to the triggering creature as possible without entering the triggering creature's square."

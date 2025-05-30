@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Clinging Ice|Clinging Ice]]
+Granted by [[Spells/Clinging Ice|Clinging Ice]]
 
-The target takes a circumstance penalty to its Speeds.
+You take a circumstance penalty to your Speeds.
 
 *Source: Pathfinder Player Core*
 *ORC*

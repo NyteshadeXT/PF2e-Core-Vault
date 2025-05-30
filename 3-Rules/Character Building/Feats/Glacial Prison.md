@@ -18,7 +18,7 @@ license: OGL
 ---
 # Glacial Prison `pf2:2`
 ## Feat 12
-### [[3-Rules/trait_reference/C/cold]][[impulse]][[incapacitation]][[kineticist]][[overflow]][[primal]][[3-Rules/trait_reference/W/water]]
+### [[cold]][[impulse]][[incapacitation]][[kineticist]][[overflow]][[primal]][[water]]
 
 **Category** class; 
 

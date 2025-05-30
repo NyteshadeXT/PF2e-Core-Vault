@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Beheaded) Entangling"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.HEmOAVbJ3T9pon6T"
 license: OGL

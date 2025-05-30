@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Protective Mentor"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.PXtBhRVHM28angjV"
 license: OGL
 ---
 # Protective Mentor
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 
@@ -28,11 +28,7 @@ While working with less experienced Pathfinder allies, you shield your more frag
 
 **Special**: A PC can only benefit from two mentor boons.
 
-[[Feat_Feature Effects/Effect_ Protective Mentor Boon (Liked) (PFS)|Effect: Protective Mentor Boon (Liked) (PFS)]]
-
-[[Feat_Feature Effects/Effect_ Protective Mentor Boon (Admired) (PFS)|Effect: Protective Mentor Boon (Admired) (PFS)]]
-
-[[Feat_Feature Effects/Effect_ Protective Mentor Boon (Revered) (PFS)|Effect: Protective Mentor Boon (Revered) (PFS)]]
+[[Campaign Effects/Effect_ Protective Mentor|Effect: Protective Mentor]]
 
 *Source: *
 *OGL*

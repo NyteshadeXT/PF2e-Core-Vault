@@ -52,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Release Rakshasa"
-    desc: "`pf2:r` (arcane, summon) **Trigger** The mirror breaks\n* * *\n\n**Effect** The mirror releases a [[Bestiary 3/Raktavarna|Raktavarna]] rakshasa. The raktavarna rolls initiative and remains for 3 rounds, after which the spell ends and the rakshasa disappears. The summoned raktavarna can use 3 actions each round and can use reactions, unlike most summoned creatures."
+    desc: "`pf2:r` (arcane, summon) **Trigger** The mirror breaks\n* * *\n\n**Effect** The mirror releases a [[Monster Core/Raktavarna|Raktavarna]] rakshasa. The raktavarna rolls initiative and remains for 3 rounds, after which the spell ends and the rakshasa disappears. The summoned raktavarna can use 3 actions each round and can use reactions, unlike most summoned creatures."
 
   - name: "Fiend's Luck"
     desc: "`pf2:0` (fortune, misfortune) **Trigger** Fasiel is within 100 feet, this is the closest intact wicked reflections hazard, and a hostile creature's action would cause Fasiel to gain the [[Conditions/Blinded|Blinded]], [[Conditions/Confused|Confused]], controlled, [[Conditions/Fascinated|Fascinated]], [[Conditions/Immobilized|Immobilized]], [[Conditions/Paralyzed|Paralyzed]], petrified, [[Conditions/Restrained|Restrained]], slowed, stunned, or [[Conditions/Unconscious|Unconscious]] condition or would deal 20+ damage to Fasiel\n* * *\n\n**Effect** The mirror breaks and disrupts the action."

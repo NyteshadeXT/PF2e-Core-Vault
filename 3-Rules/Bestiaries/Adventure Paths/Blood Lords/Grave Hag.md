@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/PZO90182_grave_hag.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Grave Hag"
 level: "Creature 9"
@@ -65,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (agile, magical)\n__Damage__  2d8 + 10 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (agile, magical, unarmed)\n__Damage__  2d8 + 10 slashing plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Grave Ray +18 (occult, range 60 feet)\n__Damage__  2d12 + 10 void"
+  - name: "**Ranged** `pf2:1` Grave Ray"
+    desc: "+18 (occult, range 60 feet)\n__Damage__  2d12 + 10 void"
 
   - name: "Occult Innate Spells"
     desc: "DC 29, attack +19; __5th __  _[[Spells/Abyssal Plague|Abyssal Plague]]_, _[[Spells/Summon Undead|Animate Dead]]_, _[[Spells/Toxic Cloud|Cloudkill]]_; __3rd __  _[[Spells/Bind Undead|Bind Undead (x3)]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Death Knell|Death Knell (At Will)]]_"
@@ -87,7 +88,7 @@ attacks:
     desc: "  A grave hag appears as an undead creature to magical effects."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

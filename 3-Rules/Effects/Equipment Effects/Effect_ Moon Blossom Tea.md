@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Moon Blossom Tea|Moon Blossom Tea]]
+
 You gain a +2 item bonus to initiative rolls.
 
 *Source: Pathfinder #197: Let the Leaves Fall*

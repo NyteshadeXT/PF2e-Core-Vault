@@ -58,19 +58,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Artus can use his soul arrow for attacks of opportunity against creatures within 10 feet.\n\n* * *\n"
+    desc: "`pf2:r`  Artus can use his soul arrow for attacks of opportunity against creatures within 10 feet.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Elven Curve Blade +23 (finesse, forceful, magical)\n__Damage__  2d8 + 12 slashing"
+  - name: "**Melee** `pf2:1` Elven Curve Blade"
+    desc: "+23 (finesse, forceful, magical)\n__Damage__  2d8 + 12 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +30 (deadly d10, magical, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  3d8 + 12 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+30 (deadly d10, magical, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  3d8 + 12 piercing"
 
   - name: "Soul Arrow"
-    desc: "  When Artus Strikes with his longbow, he can shoot an arrow made from his soul. This arrow appears to be made of pure light and casts bright light in a @Template[burst|distance:20] (and dim light for another 20 feet). When Artus rolls a critical hit on a longbow Strike with a soul arrow, the target is [[Conditions/Dazzled|Dazzled]] until the end of Artus's next turn."
+    desc: "  When Artus Strikes with his longbow, he can shoot an arrow made from his soul. This arrow appears to be made of pure light and casts bright light in a 20-foot burst (and dim light for another 20 feet). When Artus rolls a critical hit on a longbow Strike with a soul arrow, the target is [[Conditions/Dazzled|Dazzled]] until the end of Artus's next turn."
 
   - name: "Veering Miss"
     desc: "`pf2:r`  **Trigger** Artus misses but doesn't critically miss with a soul arrow longbow Strike\n* * *\n\n**Effect** The arrow veers back and attempts to hit the target again. Artus attempts a new ranged Strike using the same multiple attack penalty as the missed Strike. This veering attack doesn't count toward Artus's multiple attack penalty. This new attack roll ignores cover and greater cover."

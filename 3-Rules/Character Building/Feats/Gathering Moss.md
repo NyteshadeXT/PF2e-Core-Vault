@@ -26,5 +26,5 @@ license: OGL
 
 By rooting yourself in place, you are able to focus your body's natural healing to work faster. You gain fast healing equal to your level. This fast healing remains for 1 minute or until you end your Tenacious Stance, whichever comes first.
 
-*Source: Pathfinder Lost Omens: Highhelm*
+*Source: Pathfinder Lost Omens Highhelm*
 *OGL*

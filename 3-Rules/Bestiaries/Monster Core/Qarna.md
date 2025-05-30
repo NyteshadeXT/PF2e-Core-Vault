@@ -38,7 +38,7 @@ perception:
 languages: "Diabolic, Draconic, Empyrean, Utopian; Truespeech"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Intimidation: +11, Nature: +11, Religion: +9, Stealth: +10, Survival: +11"
+    desc: "Acrobatics: +12, Athletics: +11, Intimidation: +11, Nature: +11, Religion: +9, Stealth: +10, Survival: +11"
 abilityMods: [3, 4, 3, 1, 3, 1]
 speed: 35 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -55,19 +55,25 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Composite Longbow|Composite Longbow]], 20x [[Equipment/Arrows|Arrows]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "Archon's Protection"
     desc: "`pf2:r`  **Trigger** An enemy damages the archon's ally and both are within 15 feet of the archon\n* * *\n\n**Effect** The ally gains resistance 5 to all damage against the triggering damage and the archon can make a Strike against the enemy."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +13 (holy, magical)\n__Damage__  1d8 + 9 piercing plus push"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+13 (holy, magical, unarmed)\n__Damage__  1d8 + 9 piercing plus push"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +14 (deadly d10, holy, magical, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+14 (deadly d10, holy, magical, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 7 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 21, attack +13; __4th __  _[[Spells/Translocate|Translocate (x3)]]_; __2nd __  _[[Spells/Animal Messenger|Animal Messenger (x3)]]_; __1st __  _[[Spells/Charm|Charm (Animals Only) (x3)]]_, _[[Spells/Sure Strike|Sure Strike (x3)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Light|Light]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
@@ -82,7 +88,7 @@ attacks:
     desc: "`pf2:1` (divine,healing,manipulate,vitality) The qarna touches a willing living creature to take on that creature's wounds. The qarna transfers up to 30 of their own HP to the touched creature. (The qarna can't transfer more HP than they currently have.)"
 
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

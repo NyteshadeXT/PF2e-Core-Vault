@@ -62,6 +62,9 @@ abilities_top:
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Tied to the Land|Tied to the Land]]"
     desc: "  The queen is tied to a body of water or area with a great deal of water features.\n* * *\n\nA nymph queen is intrinsically tied to a specific region. As long as the queen is healthy, the environment is exceptionally resilient, allowing the nymph queen to automatically attempt to counteract any spell that would harm the environment (such as the [[Spells/Blight|Blight]] ritual), using her spell DC with a counteract rank equal to the highest-rank druid spell she can cast.\n\nWhen the nymph queen becomes physically or psychologically unhealthy, however, her warded region eventually becomes twisted or unhealthy as well. In that case, restoring the nymph queen swiftly heals the entire region."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Nymph's Beauty|Nymph's Beauty]]"
@@ -70,11 +73,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Aqueous Fist +18 (agile, finesse, magical, water)\n__Damage__  2d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Aqueous Fist"
+    desc: "+18 (agile, finesse, magical, water)\n__Damage__  2d8 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Water Orb +18 (magical, range 60 feet, water)\n__Damage__  4d6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Water Orb"
+    desc: "+18 (magical, range 60 feet, water)\n__Damage__  4d6 bludgeoning"
 
   - name: "Primal Prepared Spells"
     desc: "DC 28, attack +18; __3rd __  _[[Spells/Aqueous Orb|Aqueous Orb]]_, _[[Spells/Earthbind|Earthbind]]_; __2nd __  _[[Spells/Animal Messenger|Animal Messenger]]_, _[[Spells/One with Plants|One with Plants]]_, _[[Spells/Revealing Light|Revealing Light]]_; __1st __  _[[Spells/Air Bubble|Air Bubble]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Summon Animal|Summon Animal]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Frostbite|Frostbite]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Stabilize|Stabilize]]_"
@@ -83,7 +86,7 @@ attacks:
     desc: "DC 28, attack +20; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Create Water|Create Water]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Tidal Surge|Tidal Surge]]_"
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n\n* * *\n"
+    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Focus Beauty|Focus Beauty]]"
     desc: "`pf2:1` (emotion,mental,primal,visual) If a target already affected by nymph's beauty fails its save, the image of the queen sears into the creature's mind, effectively blinding the creature until its vision is restored with sound body or a similar effect.\n\nThe naiad queen can Dismiss the effect.\n* * *\n\nThe nymph queen focuses her beauty upon a target, who must attempt a save against her nymph's beauty aura (DC 23 Will check save). If the creature fails and was already affected by the aura, it takes a greater effect described in the nymph queen's entry.\n\nA nymph queen can Focus Beauty on a given creature only once per turn."

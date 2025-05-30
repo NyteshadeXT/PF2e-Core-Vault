@@ -23,7 +23,7 @@ license: ORC
 * * *
 You meander around unpredictably, and then ambush your opponents without warning.
 
-Choose one enemy. Stride, [[Actions/Feint|Feint]] against that opponent, and then make a Strike against it. For your Feint, you can attempt a Stealth check instead of the Deception check that's usually required, using the terrain around you to surprise your foe.
+Choose one enemy. Stride, [[Actions/Feint|Feint]] against that opponent, and then make a Strike against it. For your Feint, you can attempt a [[Actions/feint skill=stealth|feint skill=stealth]]{Stealth} check instead of the Deception check that's usually required, using the terrain around you to surprise your foe.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

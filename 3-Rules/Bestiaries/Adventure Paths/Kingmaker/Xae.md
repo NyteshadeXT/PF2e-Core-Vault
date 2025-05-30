@@ -64,11 +64,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) When a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +21 (agile, finesse, magical)\n__Damage__  2d10 + 12 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+21 (agile, finesse, magical)\n__Damage__  2d10 + 12 void"
 
   - name: "Shyka's Judgement"
     desc: "`pf2:2` (mental,primal) Xae clasps her hands together and cries out in Sylvan for Shyka to judge those who dare intrude upon the shrine-\"Aid me, Shyka, so that your shrine will remain undefiled!\" The seven statues around the perimeter of the room suddenly animate and hurl spectral versions of their hourglass-headed maces into the room, filling area **A3** with a whirling vortex of pale blue-and-white energy. All living creatures in area **A3** must attempt a DC 30 Will check save. Xae cannot call upon Shyka's Judgment for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 6d6 mental damage.\n\n**Failure** The creature takes 12d6 mental damage and is [[Conditions/Slowed|Slowed 1]] as their mind struggles with memories that seem to be from past lives that weigh the character's current actions in judgment.\n\n**Critical Failure** The creature takes 18d6 mental damage and is [[Conditions/Stunned|Stunned 1]] by their mental struggle with their judgmental past lives. The creature also takes 2d6 persistent mental damage that ends if they leave area **A3**."

@@ -29,7 +29,7 @@ license: ORC
 
 * * *
 
-You have battled against foes whose bodies naturally regenerate, and while yours doesn't do so all the time, it can happen in a pinch. You gain the effects of a 7th-rank regenerate spell. At 20th level, you gain the effects of a 9th-rank regenerate instead.
+You have battled against foes whose bodies naturally regenerate, and while yours doesn't do so all the time, it can happen in a pinch. You gain the effects of a 7th-rank [[Spells/Regenerate|Regenerate]] spell. At 20th level, you gain the effects of a 9th-rank _regenerate_ instead.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

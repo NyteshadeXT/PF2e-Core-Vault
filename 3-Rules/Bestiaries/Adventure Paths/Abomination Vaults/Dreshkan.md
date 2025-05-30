@@ -55,20 +55,23 @@ abilities_mid:
   - name: "Defensive Needle"
     desc: "`pf2:r`  **Trigger** A creature critically fails a melee Strike against the dreshkan\n* * *\n\n**Effect** The dreshkan makes a needle Strike against that creature."
 
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
   - name: "Partially Technological"
     desc: "  A dreshkan is partially technological. Vitality healing effects only heal a dreshkan half as much as normal."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile, finesse)\n__Damage__  2d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, finesse, unarmed)\n__Damage__  2d6 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Needle +13 (range increment 30 feet)\n__Damage__  1d4 piercing 2d8 electricity"
+  - name: "**Ranged** `pf2:1` Needle"
+    desc: "+13 (range increment 30 feet)\n__Damage__  1d4 piercing 2d8 electricity"
 
   - name: "Needle Spray"
-    desc: "`pf2:3`  The dreshkan braces itself on all four limbs and sprays needles at as many creatures as it would like in a @Template[cone|distance:30], dealing 2d4 piercing damage plus 2d8 electricity damage. Each targeted creature in the area must attempt a DC 21 Reflex check."
+    desc: "`pf2:3`  The dreshkan braces itself on all four limbs and sprays needles at as many creatures as it would like in a 30-foot cone, dealing 2d4 piercing damage plus 2d8 electricity damage. Each targeted creature in the area must attempt a DC 21 Reflex check."
 
   - name: "Swarming Stance"
     desc: "  A dreshkan can share the same space as a morlock or another dreshkan, but no more than two such creatures can occupy the same space. When these creatures share the same space, they gain a +1 circumstance bonus to attack rolls."
@@ -83,7 +86,7 @@ creatures:
 
 
 
-Because morlocks are descended from distant human ancestors, clumsily or hastily fleshwarping a morlock simply produces a [[3-Rules/Bestiaries/Bestiary 1/G/Grothlut|Grothlut]]. Skilled fleshwarpers, however, can tease out a morlock's genetic differences to make an entirely different creature. Creating a dreshkan involves replacing the morlock's bones with a metal skeleton. This new skeleton is often heavily augmented, such as with spiderlike limbs protruding from the spine or magazines of tiny, deadly needles. Arcane electricity courses through the dreshkan thereafter, making it jumpy and irritable.
+Because morlocks are descended from distant human ancestors, clumsily or hastily fleshwarping a morlock simply produces a [[Monster Core/Grothlut|Grothlut]]. Skilled fleshwarpers, however, can tease out a morlock's genetic differences to make an entirely different creature. Creating a dreshkan involves replacing the morlock's bones with a metal skeleton. This new skeleton is often heavily augmented, such as with spiderlike limbs protruding from the spine or magazines of tiny, deadly needles. Arcane electricity courses through the dreshkan thereafter, making it jumpy and irritable.
 
 Morlocks view dreshkans as impressive fusions of flesh and technology and gladly fight alongside these creatures, whom they view as paragons of morlock potential.
 

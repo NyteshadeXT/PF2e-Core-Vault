@@ -27,5 +27,5 @@ Your familiar is a divine emissary, sent to you by your deity or patron and infu
 *   [[Familiar Abilities/Medic|Medic]]
 *   [[Familiar Abilities/Radiant|Radiant]]
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

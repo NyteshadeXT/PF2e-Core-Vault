@@ -53,8 +53,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +10 ()\n__Damage__  1d8 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+10 ()\n__Damage__  1d8 + 4 bludgeoning"
 
   - name: "Shattering Hooves"
     desc: "  The hooves of the stone horse are as hard as iron; if the horse makes a Hoof Strike and gets a critical hit, the target's armor is damaged as well, the attack dealing as much damage to the armor as it dealt to the target (Hardness applies as normal). If the target uses shield block against the stone horse's critical hit with a hoof attack, treat the shield's Hardness as 5 points lower (minimum 0)."

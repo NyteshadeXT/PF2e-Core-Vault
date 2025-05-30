@@ -60,14 +60,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 20 (Deactivated by Cold)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Breath-Seared Greatsword +27 (magical, versatile p)\n__Damage__  1d12 + 9 slashing 2d6 void 3d6 fire"
+  - name: "**Melee** `pf2:1` Breath-Seared Greatsword"
+    desc: "+27 (magical, versatile p)\n__Damage__  1d12 + 9 slashing 2d6 void 3d6 fire"
 
   - name: "Breath-Seared Sword"
     desc: "  The dragonscarred dead's weapon is magically scorched by a dragon's breath. When wielded by the dragonscarred dead who carried it in life, the sword deals an extra 2d6 void damage and 3d6 fire damage. In the hands of any other creature, it is merely a broken greatsword."

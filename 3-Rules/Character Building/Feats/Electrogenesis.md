@@ -14,7 +14,7 @@ license: ORC
 ---
 # Electrogenesis `pf2:2`
 ## Feat 6
-### [[archetype]][[3-Rules/trait_reference/E/electricity]][[primal]]
+### [[archetype]][[electricity]][[primal]]
 
 **Category** class; 
 
@@ -23,6 +23,8 @@ license: ORC
 **Prerequisites** Wild Mimic Dedication; you have seen a creature deal electricity damage with an unarmed Strike or have identified a creature capable of dealing electricity damage with an unarmed Strike in combat
 * * *
 **Frequency** once per 10 minutes
+
+* * *
 
 Some animals and beasts have electric organs in their body that they can use to jolt their prey. You may not have the requisite physiology to do the same, but a touch of primal magic can achieve the same effect. Make a melee unarmed Strike against a creature. If the Strike hits, it deals an additional 1d12 electricity damage, and the creature must make a Fortitude check save against the higher of your class DC or spell DC.
 

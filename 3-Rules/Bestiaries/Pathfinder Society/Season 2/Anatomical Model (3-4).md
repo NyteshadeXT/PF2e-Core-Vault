@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Slam +14 ()\n__Damage__  2d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Slam"
+    desc: "+14 (unarmed)\n__Damage__  2d6 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Guts +12 (range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Guts"
+    desc: "+12 (range increment 30 feet)\n__Damage__ "
 
   - name: "Slimy Guts"
     desc: "  A creature hit by the anatomical model's guts attack is [[Conditions/Off-Guard|Off-Guard]] until it takes an action to remove the guts. A creature critically hit by the anatomical model's guts attack is [[Conditions/Immobilized|Immobilized]] until it [[Actions/Escape|Escapes]]."

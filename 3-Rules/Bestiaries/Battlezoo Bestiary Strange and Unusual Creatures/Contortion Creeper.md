@@ -33,7 +33,7 @@ perception:
 languages: "Aklo, Common, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Deception: +10, Stealth: +12, Thievery: +12, Acrobatics: +11, Deception: +10, Stealth: +12, Thievery: +12"
+    desc: "Acrobatics: +11, Deception: +10, Stealth: +12, Thievery: +12"
 abilityMods: [3, 5, 3, 1, -1, 2]
 speed: 25 feet,  climb 10 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Junk Carapace +14 (finesse, modular b, p, or s)\n__Damage__  2d8 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Junk Carapace"
+    desc: "+14 (finesse, modular b, p, or s)\n__Damage__  2d8 + 5 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Limb +14 (agile, finesse)\n__Damage__  2d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Limb"
+    desc: "+14 (agile, finesse)\n__Damage__  2d6 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Junk +14 (modular b, p, or s, range increment 30 feet)\n__Damage__  2d4 + 5 bludgeoning"
+  - name: "**Ranged** `pf2:1` Junk"
+    desc: "+14 (modular b, p, or s, range increment 30 feet)\n__Damage__  2d4 + 5 bludgeoning"
 
   - name: "Inhabit"
     desc: "`pf2:2` (move) **Requirements** The contortion creeper doesn't currently Inhabit an object\n* * *\n\n**Effect** The contortion creeper crawls inside an adjacent unattended Tiny object with Hardness 5 or less, such as a metal can, a small bag, or similar container. The container becomes an extradimensional space with an interior large enough for the creeper to fit inside, regardless of the object's exterior volume. While Inhabiting an object, the contortion creeper gains a +2 circumstance bonus to AC and loses its weakness to slashing damage. The object's Hardness increases to 5 and its Hit Points and Break Threshold increase to 20 and 10 via the contortion creeper's extradimensional magic. The creeper remains Inhabiting the object until the object breaks or the creeper Inhabits a new object. When not Inhabiting an object, the creeper can't use its junk carapace Strike."

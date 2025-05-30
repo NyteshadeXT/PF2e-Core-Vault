@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +10 (thrown 20 ft., fatal d10)\n__Damage__  1d8 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+10 (thrown 20 ft.)\n__Damage__  1d8 + 1 piercing"
 
   - name: "Primal Prepared Spells"
-    desc: "DC 20, attack +12; __2nd __  _[[Spells/Oaken Resilience|Barkskin]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Summon Elemental|Summon Elemental]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Spider Sting|Spider Sting]]_, _[[Spells/Summon Animal|Summon Animal]]_\n__Cantrips__  __(2nd)__ _[[Spells/Light|Light]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 20, attack +12; __2nd __  _[[Spells/Oaken Resilience|Barkskin]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Summon Elemental|Summon Elemental]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Spider Sting|Spider Sting]]_, _[[Spells/Summon Animal|Summon Animal]]_\n__Cantrips__  __(2nd)__ _[[Spells/Light|Light]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Demonic Strength"
     desc: "  Corrupted priests deal an extra 1d8 damage with their tridents, and any trident gains the fatal d10 trait while the priest is using it (both the extra weapon damage die and the fatal trait have already been included above)."

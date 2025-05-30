@@ -31,6 +31,8 @@ abilities_top:
     desc: "primal"
   - name: "Range"
     desc: "30 feet; **Targets** your companion or eidolon"
+  - name: "Defense"
+    desc: " fortitude"
   - name: "Duration"
     desc: "1 minute"
 abilities_mid:

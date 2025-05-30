@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You get a +4 circumstance bonus to AC and are [[Conditions/Quickened|Quickened]]. The additional action can be used to Strike or Stride.
+Granted by [[Feats/Indomitable Spirit|Indomitable Spirit]]
+
+You get a +4 circumstance bonus to AC and are quickened. The additional action can be used to Strike or Stride.
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

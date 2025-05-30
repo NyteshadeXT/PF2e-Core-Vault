@@ -4,14 +4,14 @@ title: "Warding Sign"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/common
+  - trait/
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.7pdG8l9POMK76Lf2"
 license: ORC
 ---
 # Warding Sign `pf2:r`
 
-### [[3-Rules/Rule References/Concentrate]]
+### [[concentrate]]
 
 
 

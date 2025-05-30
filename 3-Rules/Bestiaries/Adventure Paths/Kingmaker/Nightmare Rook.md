@@ -54,11 +54,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 20 (Deactivated by Cold Iron or Lawful)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "[[Bestiary Ability Glossary/Buck|Buck]]"
-    desc: "`pf2:r`  DC 42 Reflex check"
+    desc: "`pf2:r`  DC 42 Reflex check\n* * *\n\nMost monsters that serve as mounts can attempt to buck off unwanted or annoying riders, but most mounts will not use this reaction against a trusted creature unless the mounts are spooked or mistreated.\n\n**Trigger** A creature [[Actions/Mount|Mounts]] or uses the [[Actions/Command an Animal|Command an Animal]] action while riding the monster.\n* * *\n\n**Effect** The triggering creature must succeed at a Reflex saving throw against the listed DC or fall off the creature and land [[Conditions/Prone|Prone]]. If the save is a critical failure, the triggering creature also takes 1d6 bludgeoning damage in addition to the normal damage for the fall."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 39 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 39 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Wing Rebuff"
     desc: "`pf2:r`  **Trigger** A creature moves from beyond the reach of the roc's wing to within the reach of the roc's wing.\n* * *\n\n**Effect** The roc makes a wing Strike against the triggering creature. If the roc Pushes the creature, it disrupts the triggering move action."
@@ -66,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +38 (reach 15 feet)\n__Damage__  4d12 + 18 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+38 (reach 15 feet, unarmed)\n__Damage__  4d12 + 18 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +38 (agile, reach 15 feet)\n__Damage__  4d8 + 18 slashing plus improved-grab"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+38 (agile, reach 15 feet, unarmed)\n__Damage__  4d8 + 18 slashing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +38 (agile, reach 30 feet)\n__Damage__  4d8 + 18 bludgeoning plus improved-push"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+38 (agile, reach 30 feet)\n__Damage__  4d8 + 18 bludgeoning plus improved-push"
 
   - name: "Occult Innate Spells"
     desc: "DC 42, attack +34; __10th __  _[[Spells/Alter Reality|Alter Reality]]_; __9th __  _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Weird|Weird]]_; __8th __  _[[Spells/Phantasmal Killer|Phantasmal Killer (x3)]]_"
@@ -86,6 +89,12 @@ attacks:
 
   - name: "Snatch"
     desc: "  A roc can Fly at half Speed while it has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in either or both of its talons, carrying that creature along with it."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
+
+  - name: "[[Bestiary Ability Glossary/Improved Push|Improved Push 10 feet]]"
+    desc: "  The monster can use [[Bestiary Ability Glossary/Push|Push]] as a free action triggered by a hit with its initial attack."
  
 ```
 

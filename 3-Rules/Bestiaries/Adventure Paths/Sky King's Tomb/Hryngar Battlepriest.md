@@ -59,17 +59,20 @@ abilities_top:
     desc: "[[Equipment/Light Hammer|+1 Striking Returning Light Hammer]], [[Equipment/Chain Mail|Chain Mail]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
   - name: "Sheltered Command"
     desc: "`pf2:r` (auditory,linguistic,mental) **Trigger** The battlepriest is targeted with an attack while adjacent to or sharing a space with a hryngar\n* * *\n\n**Effect** The battlepriest commands the hryngar to intercept the attack. The hryngar becomes the target of the attack."
 
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +20 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+20 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +20 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+20 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Divine Prepared Spells"
     desc: "DC 28, attack +20; __5th __  _[[Spells/Flame Strike|Flame Strike]]_, _[[Spells/Spiritual Guardian|Spiritual Guardian]]_; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Heroism|Heroism]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/See the Unseen|See the Unseen]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Shield|Shield]]_"

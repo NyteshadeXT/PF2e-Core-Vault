@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-19 - Iolite Trainee Hobgoblin"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.p8TKPInhya6oab1w"
 license: OGL
 ---
 # S1-19 - Iolite Trainee Hobgoblin
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

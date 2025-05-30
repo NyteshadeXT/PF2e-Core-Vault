@@ -4,11 +4,12 @@ title: "Effect: Lock On"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.xtqOIXCe0Nsd0QCt"
-license: OGL
+license: ORC
 ---
 # Effect: Lock On
-## Level 1
+## Level 10
 ### 
 
 
@@ -16,7 +17,9 @@ license: OGL
 
 
 
-The construct gains a +2 circumstance bonus to attack rolls against the designated enemy until the end of the turn. If you use 2 actions for the Command, the bonus is instead a +3 circumstance bonus, or a +4 circumstance bonus if you're legendary in Crafting.
+Granted by [[Feats/Lock On|Lock On]]
+
+You gain a circumstance bonus to attack rolls against the designated enemy.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

@@ -6,13 +6,13 @@ tags:
   - trait/auditory
   - trait/concentrate
   - trait/occult
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.actionspf2e.Item.9X80J5RN21Uoaeiw"
 license: OGL
 ---
 # Binding Vow `pf2:1`
 
-### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Occult]]
+### [[auditory]][[concentrate]][[occult]]
 
 
 

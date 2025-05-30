@@ -37,7 +37,7 @@ perception:
 languages: "Arboreal, Fey"
 skills:
   - name: "Skills"
-    desc: "Athletics: +20, Stealth: +16, Athletics: +20, Stealth: +16"
+    desc: "Athletics: +20, Stealth: +16"
 abilityMods: [6, 3, 7, 1, 4, 1]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bough +21 (reach 15 feet)\n__Damage__  2d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Bough"
+    desc: "+21 (reach 15 feet)\n__Damage__  2d6 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Root +21 (agile, reach 20 feet, trip)\n__Damage__  2d8 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Root"
+    desc: "+21 (agile, reach 20 feet, trip)\n__Damage__  2d8 + 10 bludgeoning"
 
   - name: "Explosion"
     desc: "`pf2:2` (fire,sonic) **Frequency** once per day\n* * *\n\n**Effect** The thunderhead willow expends all of its collected energy, unleashing a thunderous blast that deals 5d6 fire damage and 5d6 sonic damage ([[/r 5d6[fire],5d6[sonic],2d6[electricity]]] with Lightning Collection active) in a 30-foot emanation to creatures, non- creature plants, and unattended objects (DC 28 Reflex check save). Flammable objects and creatures that fail the Reflex save also catch fire and take 1d6 persistent fire damage. Until Explosion is recharged, a thunderhead willow deals no electricity damage with its bough Strike and is unable to use its Whirling Dynamo ability or Branches Down reaction."

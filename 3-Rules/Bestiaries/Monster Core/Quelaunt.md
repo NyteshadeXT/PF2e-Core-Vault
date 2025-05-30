@@ -50,13 +50,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +30 (agile, magical, reach 10 feet)\n__Damage__  3d8 + 12 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+30 (agile, magical, reach 10 feet, unarmed)\n__Damage__  3d8 + 12 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 39, attack +31; __7th __  _[[Spells/Wave of Despair|Wave of Despair (x3)]]_; __3rd __  _[[Spells/Fear|Fear (At Will)]]_; __2nd __  _[[Spells/Laughing Fit|Laughing Fit]]_\n__Constant__  __(4th)__ _[[Spells/Fly|Fly]]_"

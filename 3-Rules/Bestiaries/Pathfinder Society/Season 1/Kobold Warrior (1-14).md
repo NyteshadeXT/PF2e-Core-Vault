@@ -60,17 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +3 ()\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+3 ()\n__Damage__  1d6 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +5 (thrown 20 ft.)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+5 (thrown 20 ft.)\n__Damage__  1d6 + 1 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Alchemist&#x27;s Fire (Lesser) +5 (bomb, consumable, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
+  - name: "**Melee** `pf2:1` Alchemist&#x27;s Fire (Lesser)"
+    desc: "+5 (bomb, consumable, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +5 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d4 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+5 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d4 bludgeoning"
 
   - name: "Hurried Retreat"
     desc: "`pf2:1`  **Requirements** The kobold warrior is adjacent to at least one enemy.\n* * *\n\n**Effect** The kobold warrior Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy."

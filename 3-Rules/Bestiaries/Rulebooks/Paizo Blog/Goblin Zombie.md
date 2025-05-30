@@ -59,22 +59,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Alchemical Rupture"
-    desc: "  When the goblin zombie is reduced to 0 Hit Points, an alchemical device jammed in its belly ruptures. Roll 1d4 and consult the following for the effect:\n\n  \n\n| 1d4 | Alchemical Effect |\n| --- | --- |\n| 1 | creatures in a @Template[emanation\\|distance:5] take 1d3 persistent acid damage |\n| 2 | creatures in a 5-foot emanation take 1d4 fire damage (DC 16 Reflex check save) |\n| 3 | creatures in a 5-foot emanation take 1d4 poison damage (DC 16 Fortitude check save) |\n| 4 | smoke billows out in a 5-foot emanation for 1 round (creatures in that area are [[Conditions/Concealed\\|Concealed]], and all other creatures are concealed to them) |"
+    desc: "  When the goblin zombie is reduced to 0 Hit Points, an alchemical device jammed in its belly ruptures. Roll 1d4 and consult the following for the effect:\n\n  \n\n| 1d4 | Alchemical Effect |\n| --- | --- |\n| 1 | creatures in a 5-foot emanation take 1d3 persistent acid damage |\n| 2 | creatures in a 5-foot emanation take 1d4 fire damage (DC 16 Reflex check save) |\n| 3 | creatures in a 5-foot emanation take 1d4 poison damage (DC 16 Fortitude check save) |\n| 4 | smoke billows out in a 5-foot emanation for 1 round (creatures in that area are [[Conditions/Concealed\\|Concealed]], and all other creatures are concealed to them) |"
 
   - name: "Slow"
     desc: "  A goblin zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +7 ()\n__Damage__  1d6 + 3 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+7 (unarmed)\n__Damage__  1d6 + 3 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 ()\n__Damage__  1d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (unarmed)\n__Damage__  1d8 + 3 piercing"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

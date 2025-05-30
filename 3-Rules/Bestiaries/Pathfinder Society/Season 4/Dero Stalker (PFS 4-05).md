@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Aklys +8 (trip)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Aklys"
+    desc: "+8 (trip)\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Aklys +10 (ranged trip, tethered, thrown 20 ft.)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Aklys"
+    desc: "+10 (ranged trip, tethered, thrown 20 ft.)\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +10 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing plus giant-centipede-venom"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+10 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing plus giant-centipede-venom"
 
   - name: "Occult Innate Spells"
     desc: "DC 17, attack +9\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"

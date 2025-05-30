@@ -65,23 +65,26 @@ abilities_mid:
   - name: "Counter Feint"
     desc: "`pf2:r`  **Trigger** A creature fails to [[Actions/Feint|Feint]] the king's agent\n* * *\n\n**Effect** The creature is [[Conditions/Off-Guard|Off-Guard]] against the next melee attack that the king's agent attempts before the end of their next turn."
 
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +13 (agile, finesse, nonlethal)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+13 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +13 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+13 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +13 (agile, finesse, thrown 20 ft.)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+13 (agile, finesse, thrown 20 ft.)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bola +13 (nonlethal, ranged trip, thrown 20 ft.)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Ranged** `pf2:1` Bola"
+    desc: "+13 (nonlethal, ranged trip, thrown 20 ft.)\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +13 (range 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+13 (range 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Paranoia|Paranoia]]_\n__Cantrips__  __(3rd)__ _[[Spells/Sigil|Sigil]]_"

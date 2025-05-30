@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Butterfly Blade Dedication
 * * *
-You know how to alter the perceptions of others. You can cast [[Aura of the Unremarkable|Aura of the Unremarkable]] once per day as an innate arcane spell. The spell uses your class DC or spell DC, whichever is higher.
+You know how to alter the perceptions of others. You can cast [[Spells/Aura of the Unremarkable|Aura of the Unremarkable]] once per day as an innate arcane spell. The spell uses your class DC or spell DC, whichever is higher.
 
 *Source: Pathfinder #166: Despair on Danger Island*
 *OGL*

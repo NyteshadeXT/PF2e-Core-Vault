@@ -35,7 +35,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Stealth: +13, Acrobatics: +13, Stealth: +13"
+    desc: "Acrobatics: +13, Stealth: +13"
 abilityMods: [0, 4, 5, -4, 0, 5]
 speed:  fly 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Myriad Tongues +17 (finesse)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Myriad Tongues"
+    desc: "+17 (finesse)\n__Damage__  2d12 + 4 void plus warding-horror"
 
-  - name: "Melee"
-    desc: "`pf2:1` Invisible Claw +17 (agile, finesse)\n__Damage__  2d10 + 4 slashing"
+  - name: "**Melee** `pf2:1` Invisible Claw"
+    desc: "+17 (agile, finesse)\n__Damage__  2d10 + 4 slashing"
 
   - name: "Warding Horror"
     desc: "`pf2:1` (mental,void) **Requirements** The susurration's last action was a successfully Strike with its myriad tongues that dealt damage to a creature\n* * *\n\n**Effect** Twisting, shadowy coils of negative energy and body horror branch out from the creature initially licked by the susurration's horrifying tongues. Up to two other creatures within 15 feet of the target take 2d6 negative and 2d6 mental damage, with a DC 22 Will check save."

@@ -52,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Pitfall and Plunger"
-    desc: "`pf2:r` **Trigger** A creature walks onto the trapdoor\n* * *\n\n**Effect** Anyone within 10 feet of the room's northern wall falls 40 feet down the shaft to area **E33**, taking 20 bludgeoning damage and landing prone in the ochre jelly's pit.\n\nThe victims can [[Actions/Grab an Edge|Grab an Edge]] to avoid falling.\n\nThe DC to Grab an Edge is 20; the DC to [[Actions/Climb|Climb]] the walls is 22."
+    desc: "`pf2:r` **Trigger** A creature walks onto the trapdoor\n* * *\n\n**Effect** Anyone within 10 feet of the room's northern wall falls 40 feet down the shaft to area **E33**, taking 20 bludgeoning damage and landing [[Conditions/Prone|Prone]] in the ochre jelly's pit.\n\nThe victims can [[Actions/Grab an Edge|Grab an Edge]] to avoid falling.\n\nThe DC to Grab an Edge is 20; the DC to [[Actions/Climb|Climb]] the walls is 22."
 
 
 

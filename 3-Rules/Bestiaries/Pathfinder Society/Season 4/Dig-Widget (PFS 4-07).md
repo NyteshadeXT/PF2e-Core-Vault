@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Infiltration Tools"
     desc: "  A dig-widget's face consists of a set of [[Equipment/Thieves' Toolkit (Infiltrator)|Infiltrator Thieves' Tools]]. They can be salvaged from a destroyed dig-widget with a successful DC 20 Crafting check check. On a failed check, the tools are destroyed."
 
@@ -61,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Drill +12 (fatal d10, finesse)\n__Damage__  2d6 + 3 piercing 1d4 bleed"
+  - name: "**Melee** `pf2:1` Drill"
+    desc: "+12 (fatal d10, finesse)\n__Damage__  2d6 + 3 piercing 1d4 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Corkscrew +12 (finesse)\n__Damage__  2d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Corkscrew"
+    desc: "+12 (finesse)\n__Damage__  2d8 + 3 piercing"
 
   - name: "Fastening Leap"
     desc: "`pf2:1`  The dig-widget Leaps up 20 feet onto a creature or object and attempts a corkscrew Strike against it. If the Strike damages the target, the dig-widget attaches to the target (typically to the back of a creature). This is similar to [[Bestiary Ability Glossary/Grab|Grabbing]] the creature, but the dig-widget moves with that creature rather than holding it in place. While attached, the dig-widget can't use its corkscrew. The dig-widget can be [[Actions/Shove|Shoved]] off, or it can detach itself with an Interact action."

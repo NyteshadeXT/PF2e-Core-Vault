@@ -26,5 +26,5 @@ license: OGL
 
 You harness the oncoming flames and twist them into a screen of heat and smoke, granting you [[Conditions/Concealed|concealment]] until the beginning of your next turn.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

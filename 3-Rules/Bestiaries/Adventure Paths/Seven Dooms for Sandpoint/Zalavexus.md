@@ -55,16 +55,28 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Ventriloquist's Ring (Greater)|Ventriloquist's Ring (Greater)]]"
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 10]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
+  - name: "[[Bestiary Ability Glossary/Swarm Mind|Swarm Mind]]"
+    desc: "  This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
+
   - name: "Discorporate"
     desc: " (splash) When the worm that walks is reduced to 0 HP, it discorporates and the component worms that make up its body disperse in every direction. If even a single worm escapes, the worm that walks will eventually re-form using a process that typically takes 1d10 days.\n\nWhile the exact circumstances and surroundings determine how long the worm that walks's foes have to dispatch the fleeing worms before they escape, usually its foes have only a single round. Typically, this requires the application of an area effect or splash weapon within 1 round to the space where the worm that walks collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 Flat check check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the worms escape, and the worm that walks is destroyed permanently.\n\nAt the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the worm that walks."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +21 (reach 10 feet)\n__Damage__  4d8 + 6 piercing"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+21 (reach 10 feet)\n__Damage__  4d8 + 6 piercing"
 
   - name: "Primal Spontaneous Spells"
     desc: "DC 29, attack +21; __5th __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __ (3 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Shape Stone|Shape Stone]]_; __3rd __ (3 slots) _[[Spells/Earthbind|Earthbind]]_, _[[Spells/One with Stone|One with Stone]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __ (3 slots) _[[Spells/Gecko Grip|Gecko Grip]]_, _[[Spells/Revealing Light|Revealing Light]]_, _[[Spells/Web|Web]]_; __1st __ (3 slots) _[[Spells/Gentle Landing|Gentle Landing]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Tailwind|Tailwind]]_\n__Cantrips__  __(5th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Tangle Vine|Tangle Vine]]_"

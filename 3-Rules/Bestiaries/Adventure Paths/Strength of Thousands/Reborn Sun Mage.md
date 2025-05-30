@@ -60,22 +60,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Burning Sacrifice"
-    desc: " (divine,fire) When the sun mage is destroyed, they explode in a blast of flame that deals 6d6 fire damage in a @Template[emanation|distance:10] (DC 27 Reflex check save). Creatures that critically fail their saves are marked with Walkena's religious symbol on a visible area of their body, which remains for 1 day. This mark allows Walkena to treat the creature as if he knew the creature's identity but not having met them for the purposes of [[Spells/Scrying|Scrying]], lowering the spell's DC by 2. The sun mage's gear and treasure are unaffected by the explosion and left in a pile where they die."
+    desc: " (divine,fire) When the sun mage is destroyed, they explode in a blast of flame that deals 6d6 fire damage in a 10-foot emanation (DC 27 Reflex check save). Creatures that critically fail their saves are marked with Walkena's religious symbol on a visible area of their body, which remains for 1 day. This mark allows Walkena to treat the creature as if he knew the creature's identity but not having met them for the purposes of [[Spells/Scrying|Scrying]], lowering the spell's DC by 2. The sun mage's gear and treasure are unaffected by the explosion and left in a pile where they die."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +19 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 4 bludgeoning 2d6 fire"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+19 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 4 bludgeoning 2d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +17 (magical, two-hand d8)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+17 (magical, two-hand d8)\n__Damage__  1d4 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sunfire +19 (fire, magical, range increment 40 feet)\n__Damage__  3d6 + 12 fire"
+  - name: "**Ranged** `pf2:1` Sunfire"
+    desc: "+19 (fire, magical, range increment 40 feet)\n__Damage__  3d6 + 12 fire"
 
   - name: "Primal Spontaneous Spells"
-    desc: "DC 30, attack +22; __6th __ (3 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Fire Seeds|Fire Seeds]]_, _[[Spells/Purple Worm Sting|Purple Worm Sting]]_; __5th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Elemental Form|Elemental Form]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __ (4 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Shape Stone|Shape Stone]]_, _[[Spells/Mountain Resilience|Stoneskin]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __ (4 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Haste|Haste]]_, _[[Spells/One with Stone|Meld into Stone]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __ (4 slots) _[[Spells/Oaken Resilience|Barkskin]]_, _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Gecko Grip|Spider Climb]]_; __1st __ (4 slots) _[[Spells/Grease|Grease]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(6th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_"
+    desc: "DC 30, attack +22; __6th __ (3 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Fire Seeds|Fire Seeds]]_, _[[Spells/Purple Worm Sting|Purple Worm Sting]]_; __5th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Elemental Form|Elemental Form]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __ (4 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Shape Stone|Shape Stone]]_, _[[Spells/Mountain Resilience|Stoneskin]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __ (4 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Haste|Haste]]_, _[[Spells/One with Stone|Meld into Stone]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __ (4 slots) _[[Spells/Oaken Resilience|Barkskin]]_, _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Gecko Grip|Spider Climb]]_; __1st __ (4 slots) _[[Spells/Grease|Grease]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(6th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Divine Innate Spells"
     desc: "DC 30, attack +22; __5th __ (1 slots) _[[Spells/Breathe Fire|Burning Hands]]_\n__Cantrips__  __(6th)__ _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"

@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Grim Sandglass|Grim Sandglass]]
+Granted by [[Equipment/Grim Sandglass|Grim Sandglass]], [[Equipment/Grim Sandglass (Greater)|Grim Sandglass (Greater)]], [[Equipment/Grim Sandglass (Major)|Grim Sandglass (Major)]]
 
-You gain resistance 2 to void.
+You gain resistance to void.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Seal Fate|Seal Fate]]
+Granted by [[Spells/Seal Fate|Seal Fate]]
 
-The target gains weakness to the chosen damage type.
+You gain weakness to the chosen damage type.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

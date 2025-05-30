@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +12 (agile, finesse, reach 10 feet, unholy, versatile p)\n__Damage__  1d6 + 6 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+12 (agile, finesse, reach 10 feet, unarmed, unholy, versatile p)\n__Damage__  1d6 + 6 slashing 1d6 spirit"
 
   - name: "Haunting Assault"
     desc: "`pf2:2`  The scarecrow makes two claw Strikes against a single creature, then [[Actions/Demoralize|Demoralizes]] that creature."

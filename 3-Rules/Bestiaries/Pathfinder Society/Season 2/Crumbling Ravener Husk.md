@@ -62,19 +62,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Boneshatter"
-    desc: "`pf2:r`  **Trigger** The ravener husk takes bludgeoning damage\n* * *\n\n**Effect** The ravener's brittle bones shatter, spraying bone shards everywhere. Every creature within a @Template[emanation|distance:10] of the ravener husk takes 5d6 piercing damage (DC 25 Reflex check save)."
+    desc: "`pf2:r`  **Trigger** The ravener husk takes bludgeoning damage\n* * *\n\n**Effect** The ravener's brittle bones shatter, spraying bone shards everywhere. Every creature within a 10-foot emanation of the ravener husk takes 5d6 piercing damage (DC 25 Reflex check save)."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 25 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 25 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 (magical, reach 15 feet)\n__Damage__  2d8 + 10 piercing 2d4 void"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (magical, reach 15 feet, unarmed)\n__Damage__  2d8 + 10 piercing 2d4 void"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (agile, magical, reach 10 feet)\n__Damage__  2d4 + 10 slashing 2d4 void"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (agile, magical, reach 10 feet, unarmed)\n__Damage__  2d4 + 10 slashing 2d4 void"
 
   - name: "Breath Weapon"
     desc: "`pf2:2` (divine,void) The ravener husk breathes a torrent of void energy that deals 11d6 void damage in a 40-foot cone (DC 28 Reflex check save).\n\nThey can't use Breath Weapon again for 1d4 rounds."

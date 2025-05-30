@@ -19,6 +19,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_FLOATING_FEMUR.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Floating Femur"
 level: "Creature -1"
@@ -55,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Femur Head +8 (fatal d10)\n__Damage__  1d4 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Femur Head"
+    desc: "+8 (fatal d10)\n__Damage__  1d4 + 1 bludgeoning"
 
   - name: "Gotcha!"
     desc: "  A floating femur freezes up if [[Conditions/Grabbed|Grabbed]]. For 1 minute after the femur becomes grabbed or [[Conditions/Restrained|Restrained]] by a creature, the femur can't act, and the creature holding it can use it as a _+1 club_ with the fatal d10 trait. After that time, the floating femur can act and is generally quite aggressive toward whomever used it as a weapon."

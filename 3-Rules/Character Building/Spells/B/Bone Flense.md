@@ -36,6 +36,6 @@ abilities_top:
     desc: "1 minute"
 abilities_mid:
   - name: ""
-    desc: "The target weapon becomes imbued with Achaekek's power and glows softly with crimson light akin to that shed by a candle. When a creature with a skeleton or exoskeleton takes damage from a Strike delivered by this weapon, the creature's bones nearest to the wound instantly sprout jagged, razor-sharp spurs that flense the muscle and flesh from inside out. The creature takes an additional 1d6 persistent bleed damage from the Strike. You can use the [[Actions/Erupting Spurs|Erupting Spurs]] reaction.\n* * *\n\n**Heightened (+2)** The persistent bleed damage increases by 1d6. The damage from Erupting Spurs increases by 4d6."
+    desc: "The target weapon becomes imbued with Achaekek's power and glows softly with crimson light akin to that shed by a candle. When a creature with a skeleton or exoskeleton takes damage from a Strike delivered by this weapon, the creature's bones nearest to the wound instantly sprout jagged, razor-sharp spurs that flense the muscle and flesh from inside out. The creature takes an additional 1d6 persistent bleed damage from the Strike. You can use the [[Actions/Erupting Spurs|Erupting Spurs]] reaction.\n\n[[Spell Effects/Effect_ Bone Flense (Damage)|Effect: Bone Flense (Damage)]]\n\n[[Spell Effects/Effect_ Bone Flense (Reaction)|Effect: Bone Flense (Reaction)]]\n* * *\n\n**Heightened (+2)** The persistent bleed damage increases by 1d6. The damage from Erupting Spurs increases by 4d6."
 sourcebook: "_Pathfinder Adventure: Prey for Death_"
 ```

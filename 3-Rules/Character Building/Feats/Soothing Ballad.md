@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You soothe your allies' wounds with the power of your performance. You learn the [[3-Rules/Character Building/Spells/S/Soothing Ballad|Soothing Ballad]] composition spell.
+You soothe your allies' wounds with the power of your performance. You learn the [[Spells/Soothing Ballad|Soothing Ballad]] composition spell.
 
 *Source: Pathfinder Player Core*
 *ORC*

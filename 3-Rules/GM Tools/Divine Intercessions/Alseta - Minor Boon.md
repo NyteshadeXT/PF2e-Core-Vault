@@ -18,9 +18,9 @@ license: OGL
 
 Alseta's guiding hand aids your journeys.
 
-Once, when employing teleportation magic, you appear exactly on target, even if you used a notoriously imprecise spell like [[Interplanar Teleport|Interplanar Teleport]].
+Once, when employing teleportation magic, you appear exactly on target, even if you used a notoriously imprecise spell like [[Spells/Interplanar Teleport|Interplanar Teleport]].
 
 Alseta typically grants this boon for extremely consequential magical travel, especially when time is of the essence.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

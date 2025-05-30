@@ -65,17 +65,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +26 (agile, finesse)\n__Damage__  2d8 + 7 slashing plus disarm"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+26 (agile, finesse, unarmed)\n__Damage__  2d8 + 7 slashing plus disarm"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +26 (finesse)\n__Damage__  3d8 + 7 piercing 2d6 poison"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+26 (finesse, unarmed)\n__Damage__  3d8 + 7 piercing 2d6 poison"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +28 (range increment 60 feet, reload 1)\n__Damage__  2d6 + 3 piercing 2d6 poison"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+28 (range increment 60 feet, reload 1)\n__Damage__  2d6 + 3 piercing 2d6 poison"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The gimmerling takes on the appearance of any humanoid. In humanoid form, They lose their treacherous aura, and their equipment appears to be trinkets or toys. If the chosen form lacks claws or fangs, they lose the matching Strike. If they lose their claw Strike, they gain a fist Strike that is identical except that it deals bludgeoning damage.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The gimmerling takes on the appearance of any humanoid. In humanoid form, They lose their treacherous aura, and their equipment appears to be trinkets or toys. If the chosen form lacks claws or fangs, they lose the matching Strike. If they lose their claw Strike, they gain a fist Strike that is identical except that it deals bludgeoning damage.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Sly Disarm"
     desc: "`pf2:1`  **Requirements** The gimmerling's last action was a successful claw Strike\n* * *\n\n**Effect** The gimmerling attempts to [[Actions/Disarm|Disarm]] the creature they hit. They gain a +4 status bonus on the Athletics check. This attempt neither applies nor counts toward the gimmerling's multiple attack penalty."

@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - trait/general
   - trait/skill
-  - trait/common
+  - trait/
   - category/kingdom-feat
 aliases: "Compendium.pf2e.kingmaker-features.Item.3tI2d60BTA3hN2MW"
 license: OGL

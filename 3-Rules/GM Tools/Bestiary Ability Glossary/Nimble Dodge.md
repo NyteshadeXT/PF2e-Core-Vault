@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Nimble Dodge"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-ability-glossary-srd.Item.wCnsRCHvtZkZTmO0"
 license: OGL

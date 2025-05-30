@@ -48,6 +48,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Frost Susceptibility"
@@ -59,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vines +21 (agile)\n__Damage__  2d6 + 9 slashing"
+  - name: "**Melee** `pf2:1` Vines"
+    desc: "+21 (agile)\n__Damage__  2d6 + 9 slashing"
 
   - name: "Black Seed Cloud"
     desc: "`pf2:2`  **Requirements** the Counteflora's bracts are not tightened.\n* * *\n\nThe counteflora releases a cloud of black seedpods in a 15-foot-radius emanation. Non-counteflora creatures in the area must succeed at a Fortitude save or breathe in the toxic seeds. (Against plants and fungi, the seeds burrow into the creatures' flesh rather than infiltrate their lungs.)"

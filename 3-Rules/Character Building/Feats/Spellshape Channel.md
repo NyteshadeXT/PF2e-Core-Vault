@@ -20,7 +20,7 @@ license: ORC
 
 
 
-Deep understanding of divine revelations into the nature of vital essence allows you to freely manipulate the energy of life and death. Use one spellshape action you can perform that normally takes 1 action and can be applied to the [[Harm|Harm]] or [[Heal|Heal]] spell. If you use it in this way, its effects apply only to a _harm_ or _heal_ spell.
+Deep understanding of divine revelations into the nature of vital essence allows you to freely manipulate the energy of life and death. Use one spellshape action you can perform that normally takes 1 action and can be applied to the [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]] spell. If you use it in this way, its effects apply only to a _harm_ or _heal_ spell.
 
 *Source: Pathfinder Player Core*
 *ORC*

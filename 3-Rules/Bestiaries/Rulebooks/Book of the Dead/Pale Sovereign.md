@@ -56,28 +56,34 @@ abilities_top:
   - name: "Sense Visitors"
     desc: " (detection,occult) A pale sovereign automatically knows when a creature enters or leaves their demesne, though this doesn't give them precise knowledge of the creature's location."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Aura of Charm"
     desc: " (aura,emotion,incapacitation,mental,occult) 80 feet. The aura of a pale sovereign is beguiling and inviting, affecting creatures beginning their turns within it with an 8th-rank [[Spells/Charm|Charm]] (DC 39 Will check save). A creature that fails its Will save perceives the pale sovereign as they were in life, not their current undead form. A creature that succeeds at its save is then temporarily immune to that pale sovereign's aura for 24 hours."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rosebriar Lash +28 (finesse, magical, reach 10 feet, versatile p)\n__Damage__  4d8 + 8 slashing 2d6 bleed"
+  - name: "**Melee** `pf2:1` Rosebriar Lash"
+    desc: "+28 (finesse, magical, reach 10 feet, versatile p)\n__Damage__  4d8 + 8 slashing 2d6 bleed"
 
   - name: "Occult Innate Spells"
     desc: "DC 41, attack +33; __8th __  _[[Spells/Spirit Song|Spirit Song]]_, _[[Spells/Spiritual Epidemic|Spiritual Epidemic]]_; __7th __  _[[Spells/Curse of Lost Time|Curse of Lost Time]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Project Image|Project Image]]_, _[[Spells/Suggestion|Suggestion]]_; __6th __  _[[Spells/Bestial Curse|Bestial Curse]]_, _[[Spells/Cloak of Colors|Cloak of Colors]]_, _[[Spells/Enthrall|Enthrall (At Will)]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_\n__Constant__  __(5th)__ _[[Spells/Air Walk|Air Walk]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Garden of Death|Garden of Death]]_, _[[Spells/Phantasmal Custodians|Unseen Custodians]]_, _[[Spells/Ward Domain|Ward Domain]]_"
+    desc: "_Garden of Death_, _Unseen Custodians_, _Ward Domain_"
 
   - name: "Curse of Eternal Sleep"
     desc: "`pf2:2` (curse,incapacitation,mental,occult,sleep) The pale sovereign touches an adjacent living creature to send it into an endless slumber. The target must attempt a DC 39 Will check save.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune for 24 hours.\n\n**Success** The target becomes drowsy and is [[Conditions/Slowed|Slowed 1]] for 1 minute.\n\n**Failure** The target falls [[Conditions/Unconscious|Unconscious]], though it doesn't fall [[Conditions/Prone|Prone]] or release what it's holding. It can't awaken with a successful Perception check, though dealing any amount of damage to the creature breaks the slumber. If it's still unconscious after 1 hour, it awakens.\n\n**Critical Failure** The target falls unconscious permanently, falling prone, and can't be awoken as long as the curse remains."
 
   - name: "Siphon Vitality"
-    desc: "`pf2:3` (occult,void) The pale sovereign siphons the life force from creatures around them. All living creatures in a @Template[emanation|distance:30] take 6d8 void damage (DC 39 Fortitude check). The pale sovereign regains HP equal to the highest damage a single creature took from this effect."
+    desc: "`pf2:3` (occult,void) The pale sovereign siphons the life force from creatures around them. All living creatures in a 30-foot emanation take 6d8 void damage (DC 39 Fortitude check). The pale sovereign regains HP equal to the highest damage a single creature took from this effect."
  
 ```
 

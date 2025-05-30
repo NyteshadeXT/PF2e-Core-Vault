@@ -38,5 +38,5 @@ As you spin around and create wide arching circles with your fans, you manifest 
 
 **Critical Failure** The creature is unaffected and temporarily immune to further uses of Peony's Flourish for 24 hours.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

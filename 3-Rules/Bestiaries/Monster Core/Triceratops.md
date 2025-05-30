@@ -60,23 +60,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horns +19 (reach 15 feet)\n__Damage__  2d8 + 9 piercing plus knockdown"
+  - name: "**Melee** `pf2:1` Horns"
+    desc: "+19 (reach 15 feet)\n__Damage__  2d8 + 9 piercing plus knockdown"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +19 (reach 10 feet)\n__Damage__  2d6 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+19 (reach 10 feet, unarmed)\n__Damage__  2d6 + 9 bludgeoning"
 
   - name: "Lumbering Charge"
     desc: "`pf2:1`  The triceratops Strides up to 10 feet and then makes a Strike."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, DC 26 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Large or smaller, foot, DC 26 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
 
   - name: "Vicious Gore"
     desc: "  A triceratops deals 2d6 extra persistent bleed damage to [[Conditions/Prone|Prone]] targets it hits with its horns."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

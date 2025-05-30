@@ -4,7 +4,7 @@ title: "Drive"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/move
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.uS3qDAgOkZ7b8ERL"
 license: OGL

@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 (magical)\n__Damage__  2d8 + 8 bludgeoning plus grab 1d6 fire plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (magical, unarmed)\n__Damage__  2d8 + 8 bludgeoning plus grab 1d6 fire plus grab"
 
   - name: "Encase"
     desc: "`pf2:1` (attack) The tallow guardian attempts to pull a Medium or smaller creature it has [[Conditions/Grabbed|Grabbed]] into its body. The tallow guardian attempts an Athletics check check opposed by the grabbed creature's Reflex DC. If it succeeds, it encases the creature with its body. An encased creature is grabbed, is [[Conditions/Slowed|Slowed 1]], and must hold its breath or start suffocating. It takes 2d6 fire damage from the tallow guardian's molten hot wax when it's first encased, and at the end of each of its turns while it's encased.\n\nA tallow guardian can only have one encased creature at a time; if a tallow guardian encases a new creature, a previously encased creature is forced out of its body into an adjacent square of the creature's choice.\n\nAn encased creature can break free with a successful DC 22 check to [[Actions/Escape|Escape]]. An encased creature can attack the tallow guardian, but only with unarmed attacks or with weapons of light Bulk or less. The tallow guardian is [[Conditions/Off-Guard|Off-Guard]] against the attack. If the tallow guardian takes 7 or more bludgeoning or slashing damage from an encased creature, the creature wrenches itself free. A creature that gets free by either method can immediately breathe and exits the tallow guardian's space, but it continues to take 1d6 persistent fire damage from the molten wax that clings to its body.\n\nIf a tallow guardian is destroyed, any creature it has encased is automatically released as the guardian's body collapses into a shapeless mound of tallow."

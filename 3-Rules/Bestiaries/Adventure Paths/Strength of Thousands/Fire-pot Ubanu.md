@@ -61,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +17 (magical)\n__Damage__  2d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+17 (magical)\n__Damage__  2d6 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire +19 (range increment 20 feet, splash)\n__Damage__  2d8 + 2 fire 4 fire 6 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire"
+    desc: "+19 (range increment 20 feet, splash)\n__Damage__  2d8 + 2 fire 4 fire 6 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +19 (magical, range increment 20 feet)\n__Damage__  2d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+19 (magical, range increment 20 feet)\n__Damage__  2d6 + 3 piercing"
 
   - name: "Primal Spontaneous Spells"
-    desc: "DC 26, attack +18; __4th __ (2 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Fire Shield|Fire Shield]]_; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Haste|Haste]]_; __2nd __ (3 slots) _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Mist|Obscuring Mist]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __ (3 slots) _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Jump|Jump]]_, _[[Spells/Mending|Mending]]_\n__Cantrips__  __(4th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 26, attack +18; __4th __ (2 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Fire Shield|Fire Shield]]_; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Haste|Haste]]_; __2nd __ (3 slots) _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Mist|Obscuring Mist]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __ (3 slots) _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Jump|Jump]]_, _[[Spells/Mending|Mending]]_\n__Cantrips__  __(4th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
 
   - name: "Distracting Spells"
     desc: "  Creatures who fail a saving throw against one of Ubanu's spells are [[Conditions/Off-Guard|Off-Guard]] to his attacks until the end of his turn or until the end of his next turn on a critical failure."

@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 90 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Earthbound"
     desc: "  When not touching solid ground, the elemental avalanche is [[Conditions/Slowed|Slowed 1]], can't use reactions, and can't Trample."
 
@@ -66,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +24 (reach 20 feet)\n__Damage__  2d12 + 11 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+24 (reach 20 feet, unarmed)\n__Damage__  2d12 + 11 bludgeoning plus knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +24 (brutal, range increment 80 feet)\n__Damage__  2d12 + 7 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+24 (brutal, range increment 80 feet)\n__Damage__  2d12 + 7 bludgeoning"
 
   - name: "Earth Glide"
     desc: "  The elemental avalanche can Burrow through any earthen matter, including rock. When it does so, the elemental avalanche moves at its full burrow Speed, leaving no tunnels or signs of its passing."
@@ -79,10 +82,10 @@ attacks:
     desc: "`pf2:2`  The elemental avalanche deals 4d12 bludgeoning damage to each [[Conditions/Prone|Prone]] creature within the elemental's melee reach with a DC 30 Reflex check save."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, fist, DC 30 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Large or smaller, fist, DC 30 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

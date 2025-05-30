@@ -25,5 +25,5 @@ license: OGL
 
 Nex's Fleshforges shaped you not to achieve individual greatness at arms, but rather to become a part of a legion, a modular piece integral to the combined arms stratagems of Nexian battlemages. You become trained in Arcana and Athletics. If you would automatically become trained in one of those skills, you instead gain the trained rank in another skill of your choice. You also become trained in Warfare Lore.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

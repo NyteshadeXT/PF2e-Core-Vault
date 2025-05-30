@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Qi Form|Qi Form]]
+Granted by [[Spells/Qi Form|Qi Form]]
 
 You gain a fly Speed equal to your land Speed. Choose force, spirit, vitality, or void damage. All your Strikes deal 1d6 additional damage of the chosen type.
 

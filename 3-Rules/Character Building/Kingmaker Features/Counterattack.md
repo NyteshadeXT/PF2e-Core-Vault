@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Counterattack"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/infantry
   - trait/skirmisher
-  - trait/common
+  - trait/
   - category/army-war-action
 aliases: "Compendium.pf2e.kingmaker-features.Item.8wjiF3ctXUjP9oyX"
 license: OGL
 ---
 # Counterattack `pf2:r`
-
+## 
 ### [[infantry]][[skirmisher]]
 
 **Category** army-war-action; 

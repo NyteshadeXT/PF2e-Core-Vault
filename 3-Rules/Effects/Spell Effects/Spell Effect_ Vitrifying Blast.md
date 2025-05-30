@@ -17,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Vitrifying Blast|Vitrifying Blast]]
+Granted by [[Spells/Vitrifying Blast|Vitrifying Blast]]
 
-The target gains weakness to sonic and bludgeoning damage.
+You gain weakness to sonic and bludgeoning damage.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

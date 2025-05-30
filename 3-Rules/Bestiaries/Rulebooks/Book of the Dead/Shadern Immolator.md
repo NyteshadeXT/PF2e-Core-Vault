@@ -66,11 +66,14 @@ abilities_mid:
   - name: "Smoke Vision"
     desc: "  The shadern ignores the [[Conditions/Concealed|Concealed]] condition from smoke."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +9 (agile, finesse, unarmed)\n__Damage__  1d4 + 2 bludgeoning plus smoldering-fist 1 fire plus smoldering-fist"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+9 (agile, finesse, unarmed)\n__Damage__  1d4 + 2 bludgeoning plus smoldering-fist 1 fire plus smoldering-fist"
 
   - name: "Death Gasp"
     desc: "`pf2:1` (divine) The shadern draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead. The shadern gains the undead trait and becomes immune to bleed, death effects, disease, [[Conditions/Paralyzed|Paralyzed]], poison, and sleep. Any such effects the shadern is currently inflicted with are suspended but take effect again once they take a breath.\n\nDeath Gasp lasts as long as the shadern holds their breath (up to 8 rounds).\n\n[[Bestiary Effects/Effect_ Death Gasp|Effect: Death Gasp]]"

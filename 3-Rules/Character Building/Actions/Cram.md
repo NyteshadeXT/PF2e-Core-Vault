@@ -4,7 +4,7 @@ title: "Cram"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/downtime
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.I75R9NSfsVrit6cU"
 license: OGL

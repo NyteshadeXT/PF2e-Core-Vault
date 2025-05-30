@@ -18,7 +18,8 @@ license: OGL
 
 A catchy fiddling tune compels the creature to dance about.
 
-**Failure** Off-guard and -10-foot status penalty to Speeds  
+**Failure** Off-guard and -10-foot status penalty to Speeds
+
 **Critical Failure** As failure, and also slowed 1
 
 *Source: Pathfinder Bestiary*

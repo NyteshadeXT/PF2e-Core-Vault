@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Envy of the World"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/common
+  - trait/
   - category/kingdom-feature
 aliases: "Compendium.pf2e.kingmaker-features.Item.FQJqfnB9FDaLttWa"
 license: OGL

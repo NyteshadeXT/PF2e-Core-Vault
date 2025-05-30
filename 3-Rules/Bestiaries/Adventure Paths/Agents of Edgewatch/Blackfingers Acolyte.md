@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +15 (agile, finesse, magical, versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+15 (agile, finesse, magical, versatile s)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +14 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing plus bolts"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+14 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing plus bolts"
 
   - name: "Divine Prepared Spells"
     desc: "DC 24, attack +17; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Heroism|Heroism]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Augury|Augury]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_"

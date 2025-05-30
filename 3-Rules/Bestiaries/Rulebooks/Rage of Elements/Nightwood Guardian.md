@@ -62,11 +62,14 @@ abilities_mid:
   - name: "Flesh of Wood"
     desc: " (primal,wood) Wounds inflicted on a nightwood guardian turn their flesh to wood. When the guardian is reduced to 40 HP or fewer, their body becomes solid wood. They are stunned, have resistance 10 to all damage, and have regeneration 40 (deactivated by fire). This ends once the guardian has 100 HP or more, though they can choose to stay in this form indefinitely."
 
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
   - name: "Shield Eyes"
     desc: "  When a nightwood guardian has their shield raised, they protect their eyes, losing the [[Conditions/Blinded|Blinded]] and [[Conditions/Dazzled|Dazzled]] conditions from light blindness and other light effects."
@@ -74,14 +77,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +21 (reach 10 feet)\n__Damage__  3d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+21 (reach 10 feet)\n__Damage__  3d8 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 ()\n__Damage__  2d12 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (unarmed)\n__Damage__  2d12 + 6 piercing"
 
   - name: "Nightwood Roar"
-    desc: "`pf2:2` (concentrate,darkness,primal) **Frequency** once per hour;\n* * *\n\n**Effect** The guardian roars, snuffing out lights in a @Template[cone|distance:30]. Ordinary flames and lights are extinguished, and the guardian attempts to counteract any magical light with a +21 counteract modifier and a counteract rank of 5."
+    desc: "`pf2:2` (concentrate,darkness,primal) **Frequency** once per hour;\n* * *\n\n**Effect** The guardian roars, snuffing out lights in a 30-foot cone. Ordinary flames and lights are extinguished, and the guardian attempts to counteract any magical light with a +21 counteract modifier and a counteract rank of 5."
  
 ```
 

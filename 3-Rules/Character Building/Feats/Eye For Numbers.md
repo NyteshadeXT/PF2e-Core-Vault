@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Eye For Numbers"
+title: "Eye for Numbers"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/general
@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.0N8TtGSk5enoLBZ8"
 license: OGL
 ---
-# Eye For Numbers `pf2:1`
+# Eye for Numbers `pf2:1`
 ## Feat 1
 ### [[general]][[skill]]
 

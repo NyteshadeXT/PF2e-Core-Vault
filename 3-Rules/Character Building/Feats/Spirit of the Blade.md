@@ -25,5 +25,5 @@ You charge your blade with spiritual energy, allowing it to cut through spirits 
 
 At 10th level, you deal an additional 2d6 spirit damage with this ability, and at 18th level, you deal an additional 3d6 spirit damage.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

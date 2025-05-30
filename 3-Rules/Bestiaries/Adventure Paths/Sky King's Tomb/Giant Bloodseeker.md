@@ -56,17 +56,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Barbed Leg +11 (agile, finesse)\n__Damage__  1d4 + 3 piercing plus grab"
+  - name: "**Melee** `pf2:1` Barbed Leg"
+    desc: "+11 (agile, finesse)\n__Damage__  1d4 + 3 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Proboscis +7 ()\n__Damage__  1d6 + 3 piercing plus blood-drain"
+  - name: "**Melee** `pf2:1` Proboscis"
+    desc: "+7 ()\n__Damage__  1d6 + 3 piercing plus blood-drain"
 
   - name: "Blood Drain"
     desc: "`pf2:1`  **Requirements** The bloodseeker's last action was a successful Strike with its proboscis against a target with blood\n* * *\n\n**Effect** The bloodseeker sucks blood from that target, dealing 2d4 damage, and the bloodseeker gains temporary Hit Points equal to the damage dealt. The target becomes [[Conditions/Drained|Drained 1]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

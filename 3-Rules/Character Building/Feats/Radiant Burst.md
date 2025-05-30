@@ -15,7 +15,7 @@ license: OGL
 ---
 # Radiant Burst `pf2:2`
 ## Feat 13
-### [[3-Rules/trait_reference/F/fire]][[incapacitation]][[3-Rules/trait_reference/L/light]][[naari]][[visual]]
+### [[fire]][[incapacitation]][[light]][[naari]][[visual]]
 
 **Category** ancestry; 
 
@@ -38,5 +38,5 @@ Your skin glows with intensity. Creatures within 10 feet who can see you must su
 
 **Critical Failure** The creature is blinded for 4 rounds and dazzled for 10 minutes.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

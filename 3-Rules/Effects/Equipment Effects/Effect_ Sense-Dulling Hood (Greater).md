@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Sense-Dulling Hood (Greater)|Sense-Dulling Hood (Greater)]]
+Granted by [[Equipment/Sense-Dulling Hood (Greater)|Sense-Dulling Hood (Greater)]]
 
-The mask grants you a +4 item bonus to saving throws against auditory, olfactory, and visual effects. Since it dulls your senses without depriving you of them, the mask also imposes a –1 penalty to rolls and checks using Perception.
+The mask grants you a +4 item bonus to saving throws against auditory, olfactory, and visual effects. The mask also imposes a –1 penalty to rolls and checks using Perception.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

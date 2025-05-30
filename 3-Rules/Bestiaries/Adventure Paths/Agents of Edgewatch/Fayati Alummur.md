@@ -66,17 +66,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +20 (deadly d8, disarm, finesse)\n__Damage__  2d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+20 (deadly d8, disarm, finesse)\n__Damage__  2d6 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Main-Gauche +20 (agile, disarm, finesse, magical, parry, versatile s)\n__Damage__  2d4 + 5 piercing"
+  - name: "**Melee** `pf2:1` Main-Gauche"
+    desc: "+20 (agile, disarm, finesse, magical, parry, versatile s)\n__Damage__  2d4 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +20 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+20 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +20 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+20 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
 
   - name: "Deepen the Wound"
     desc: "`pf2:1`  **Requirements** Fayati's last attack was a successful melee Strike with her rapier\n* * *\n\n**Effect** Fayati makes a main-gauche Strike against the same creature that she just hit. This Strike deals an additional 4d6 precision damage."

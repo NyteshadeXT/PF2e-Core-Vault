@@ -39,6 +39,6 @@ abilities_top:
     desc: "1 minute"
 abilities_mid:
   - name: ""
-    desc: "A long, jagged needle jabs into the target foe's psyche whenever it tries to attack a creature your patron holds in special regard. Name yourself or one of your allies. The target takes 2 mental damage any time it uses a hostile action against the named creature, with a basic Will save.\n* * *\n\n**Heightened (+1)** Increase the damage by 2 mental."
+    desc: "A long, jagged needle jabs into the target foe's psyche whenever it tries to attack a creature your patron holds in special regard. Name yourself or one of your allies. The target takes 2 mental damage any time it uses a hostile action against the named creature, with a basic Will save.\n* * *\n\n**Heightened (+1)** Increase the damage by 2."
 sourcebook: "_Pathfinder Player Core_"
 ```

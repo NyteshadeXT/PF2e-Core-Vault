@@ -37,7 +37,7 @@ perception:
 languages: "Pyric; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +7, Stealth: +10, Acrobatics: +10, Athletics: +7, Stealth: +10"
+    desc: "Acrobatics: +10, Athletics: +7, Stealth: +10"
 abilityMods: [0, 4, 3, -2, 0, 4]
 speed: 25 feet,  climb 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +12 (finesse, fire)\n__Damage__  1d8 piercing plus raging-flames"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+12 (finesse, fire)\n__Damage__  1d8 piercing plus raging-flames"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Boiling Spit +12 (fire, range increment 20 feet)\n__Damage__  1d6 fire plus raging-flames"
+  - name: "**Ranged** `pf2:1` Boiling Spit"
+    desc: "+12 (fire, range increment 20 feet)\n__Damage__  1d6 fire plus raging-flames"
 
   - name: "Raging Flames"
     desc: "  The bigger the flames, the more powerful a furnace newt's attacks. A furnace newt's Strikes deal an additional 1d4 fire damage when it's Small, but this damage increases when its size increases from All-Consuming Fire. Its Strikes instead add 2d4 damage if it's Medium, 3d4 damage if it's Large, and 4d4 damage if it's Huge."

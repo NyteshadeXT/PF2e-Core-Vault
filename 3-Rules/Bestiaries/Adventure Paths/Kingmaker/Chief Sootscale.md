@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +8 (thrown 10 ft.)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+8 (thrown 10 ft.)\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +10 (thrown 10 ft.)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+10 (thrown 10 ft.)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Bark Orders"
     desc: "`pf2:1` (auditory) Chief Sootscale pushes other kobolds under his command to fight harder and more bravely. Until the start of his next turn, all kobold allies within 30 feet of him gain a +1 status bonus on attack rolls and saving throws against fear effects.\n\n[[Bestiary Effects/Effect_ Bark Orders|Effect: Bark Orders]]"

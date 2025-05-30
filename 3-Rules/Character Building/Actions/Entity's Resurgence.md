@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Entity's Resurgence"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.5bCZGpp9yFHXDz1j"
 license: OGL

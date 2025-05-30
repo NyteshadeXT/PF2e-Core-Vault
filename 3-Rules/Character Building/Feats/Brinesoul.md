@@ -21,5 +21,5 @@ license: OGL
 
 Your elemental ancestor's legacy asserts itself as brackish water, like the seawater of the ocean. You gain the [[Actions/Salt Wound|Salt Wound]] reaction.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

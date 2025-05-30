@@ -19,6 +19,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_scrabbling_ribcage.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Scrabbling Ribcage"
 level: "Creature 1"
@@ -58,17 +59,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jagged Ribs +7 ()\n__Damage__  1d6 + 2 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jagged Ribs"
+    desc: "+7 ()\n__Damage__  1d6 + 2 piercing plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 bludgeoning, DC 17 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d8 bludgeoning, DC 17 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Skittering Rush"
     desc: "`pf2:2`  The scrabbling ribcage Strides or Climbs twice, with its Speeds increased by 10 feet for this movement."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

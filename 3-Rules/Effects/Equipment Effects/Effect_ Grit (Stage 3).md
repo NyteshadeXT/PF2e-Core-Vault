@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Grit|Grit]]
+Granted by [[Equipment/Grit|Grit]]
 
 The creature takes a -4 item penalty to Perception checks.
 
-*Source: Pathfinder Lost Omens: Absalom, City of Lost Omens*
+*Source: Pathfinder Lost Omens Absalom, City of Lost Omens*
 *OGL*

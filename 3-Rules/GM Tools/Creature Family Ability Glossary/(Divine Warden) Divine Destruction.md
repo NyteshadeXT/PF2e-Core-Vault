@@ -4,7 +4,7 @@ title: "(Divine Warden) Divine Destruction"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/divine
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.jD0M3yV6gjkXafsJ"
 license: OGL
@@ -18,7 +18,7 @@ license: OGL
 
 
 
-When the divine warden is reduced to 0 HP, it erupts with divine energy in a @Template\[emanation|distance:30\], dealing 1d6 damageType damage per level. This damage is either vitality or void, determined by the patron deity's divine font (chosen at the divine warden's creation if the deity offers a choice), and this ability gains the corresponding trait. Each creature in the area must attempt a Will check save with the following outcomes.
+When the divine warden is reduced to 0 HP, it erupts with divine energy in a 30-foot emanation, dealing 1d6 damageType damage per level. This damage is either vitality or void, determined by the patron deity's divine font (chosen at the divine warden's creation if the deity offers a choice), and this ability gains the corresponding trait. Each creature in the area must attempt a Will check save with the following outcomes.
 
 * * *
 

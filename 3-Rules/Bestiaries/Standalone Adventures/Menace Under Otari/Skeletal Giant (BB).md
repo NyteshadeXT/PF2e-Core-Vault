@@ -3,7 +3,7 @@ title: "Skeletal Giant (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.5MVBU86ZRw2ANMQn" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.sEgjgitJmwYYa4mV" 
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/skeleton
@@ -61,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +12 (reach 10 feet)\n__Damage__  1d12 + 5 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+12 (reach 10 feet)\n__Damage__  1d12 + 5 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horns +12 (agile)\n__Damage__  1d10 + 5 piercing"
+  - name: "**Melee** `pf2:1` Horns"
+    desc: "+12 (agile)\n__Damage__  1d10 + 5 piercing"
 
   - name: "Broad Swipe"
     desc: "`pf2:2`  The skeletal giant makes two Strikes with its greataxe against two adjacent foes, both of whom are within its reach. The second attack uses the same multiple attack penalty as the first, but attacks it makes after this take a -10 multiple attack penalty (or a -8 multiple attack penalty for its horns)."
 
   - name: "Terrifying Charge"
-    desc: "`pf2:2`  The giant Strides and makes a horns Strike with a +4 circumstance bonus to damage.\n\nIf the strike hits, the giant attempts to [[Actions/Demoralize|Demoralize]] the target."
+    desc: "`pf2:2`  The giant Strides and makes a horns Strike with a +4 circumstance bonus to damage.\n\nIf the strike hits, the giant attempts to [[Actions/demoralize|demoralize]] the target."
  
 ```
 

@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +13 (agile, finesse, trip)\n__Damage__  1d6 + 7 slashing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+13 (agile, finesse, trip)\n__Damage__  1d6 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +13 (agile, finesse, nonlethal)\n__Damage__  1d4 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+13 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 7 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +13 (range increment 60 feet)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+13 (range increment 60 feet)\n__Damage__  1d6 piercing"
 
   - name: "Deny Advantage"
     desc: "  Neidre isn't [[Conditions/Off-Guard|Off-Guard]] to hidden, undetected, or flanking creatures of her level or lower, or creatures of her level or lower using surprise attack. However, they can still help their allies flank."

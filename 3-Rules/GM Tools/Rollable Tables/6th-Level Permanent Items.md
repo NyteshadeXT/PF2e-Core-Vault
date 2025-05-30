@@ -8,32 +8,36 @@ tags:
 ---
 
 # 6th-Level Permanent Items
-Table of 6th-Level Permanent Items
+<p>Table of 6th-Level Permanent Items</p>
 
-| 1d135 | result |
+| 1d156 | result |
 |------|--------|
-| 1-3 | [[Ghoul Hide\|Ghoul Hide]] |
-| 4-6 | [[Chime of Opening\|Chime of Opening]] |
-| 7-12 | [[Cloud Pouch\|Horn of Fog]] |
-| 13-18 | [[Primeval Mistletoe\|Primeval Mistletoe]] |
-| 19-24 | [[Traveler's Any-Tool\|Traveler's Any-Tool]] |
-| 25-30 | [[Shifting\|Shifting]] |
-| 31-36 | [[Lion's Shield\|Lion's Shield]] |
-| 37-42 | [[Spellguard Shield\|Spellguard Shield]] |
-| 43-48 | [[undefined]] |
-| 49-54 | [[undefined]] |
-| 55-60 | [[undefined]] |
-| 61-66 | [[undefined]] |
-| 67-72 | [[undefined]] |
-| 73-78 | [[undefined]] |
-| 79-84 | [[undefined]] |
-| 85-90 | [[undefined]] |
-| 91-96 | [[Verdant Staff\|Verdant Staff]] |
-| 97-102 | [[Wand of Widening (2nd-Rank Spell)\|Wand of Widening (2nd-Rank Spell)]] |
-| 103-105 | [[Bloodletting Kukri\|Bloodletting Kukri]] |
-| 106-111 | [[Twining Staff\|Twining Staff]] |
-| 112-114 | [[3-Rules/Character Building/Equipment/A/Aeon Stone (Gold Nodule)\|Aeon Stone (Gold Nodule)]] |
-| 115-120 | [[Choker of Elocution\|Choker of Elocution]] |
-| 121-123 | [[Clandestine Cloak\|Clandestine Cloak]] |
-| 124-129 | [[Charm of Resistance\|Ring of Energy Resistance]] |
-| 130-135 | [[Ring of the Ram\|Ring of the Ram]] |
+| 1-6 | [[Equipment/Cloud Pouch\|Cloud Pouch]] |
+| 7-12 | [[Equipment/Traveler's Any-Tool\|Traveler's Any-Tool]] |
+| 13-18 | [[Equipment/Ready\|Ready]] |
+| 19-24 | [[Equipment/Shifting\|Shifting]] |
+| 25-30 | [[Equipment/Lion's Shield\|Lion's Shield]] |
+| 31-36 | [[Equipment/Spellguard Shield\|Spellguard Shield]] |
+| 37-42 | [[Equipment/Fluid Form Staff\|Fluid Form Staff]] |
+| 43-48 | [[Equipment/Staff of Control\|Staff of Control]] |
+| 49-54 | [[Equipment/Staff of Elemental Power\|Staff of Elemental Power]] |
+| 55-60 | [[Equipment/Staff of Phantasms\|Staff of Phantasms]] |
+| 61-66 | [[Equipment/Staff of Protection\|Staff of Protection]] |
+| 67-72 | [[Equipment/Staff of Summoning\|Staff of Summoning]] |
+| 73-78 | [[Equipment/Staff of the Dead\|Staff of the Dead]] |
+| 79-81 | [[Equipment/Staff of the Unblinking Eye\|Staff of the Unblinking Eye]] |
+| 82-87 | [[Equipment/Verdant Staff\|Verdant Staff]] |
+| 88-93 | [[Equipment/Wand of Widening (2nd-Rank Spell)\|Wand of Widening (2nd-Rank Spell)]] |
+| 94-96 | [[Equipment/Bloodletting Kukri\|Bloodletting Kukri]] |
+| 97-102 | Twinning Staff |
+| 103-105 | [[Equipment/Aeon Stone (Sprouting)\|Aeon Stone (Sprouting)]] |
+| 106-111 | [[Equipment/Charm of Resistance\|Charm of Resistance]] |
+| 112-117 | [[Equipment/Choker of Elocution\|Choker of Elocution]] |
+| 118-120 | [[Equipment/Clandestine Cloak\|Clandestine Cloak]] |
+| 121-126 | [[Equipment/Primeval Mistletoe\|Primeval Mistletoe]] |
+| 127-132 | [[Equipment/Ring of Sigils (Greater)\|Ring of Sigils (Greater)]] |
+| 133-135 | [[Equipment/Ghoul Hide\|Ghoul Hide]] |
+| 136-138 | [[Equipment/Staff of Impossible Visions\|Staff of Impossible Visions]] |
+| 139-144 | [[Equipment/Staff of Providence\|Staff of Providence]] |
+| 145-150 | [[Equipment/Staff of the Tempest\|Staff of the Tempest]] |
+| 151-156 | [[Equipment/Wand of Hopeless Night (2nd-Rank Spell)\|Wand of Hopeless Night (2nd-Rank Spell)]] |

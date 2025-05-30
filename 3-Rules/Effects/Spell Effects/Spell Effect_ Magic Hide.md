@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Granted by [[3-Rules/Character Building/Spells/M/Magic Hide|Magic Hide]]
+Granted by [[Spells/Magic Hide|Magic Hide]]
+
+You gain a +1 status bonus to AC.
 
 *Source: Pathfinder Player Core*
 *ORC*

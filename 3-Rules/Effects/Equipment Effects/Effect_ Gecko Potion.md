@@ -16,13 +16,9 @@ license: OGL
 
 
 
-Granted by [[Gecko Potion|Gecko Potion]]
+Granted by [[Equipment/Gecko Potion|Gecko Potion]]
 
-Implemented effects:
-
-*   +1 item bonus to Athletics checks to [[Actions/Climb|Climb]]
-*   +1 item bonus to Thievery checks to [[Actions/Palm an Object|Palm an Object]]
-*   +1 item bonus to Reflex DC against [[Actions/Disarm|Disarm]] attempts
+You gain a +1 item bonus to Climb and Palm an Object checks and to your Reflex DC against Disarm attempts.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

@@ -52,10 +52,13 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Cloak of Shadows"
     desc: "  Temagyrs are constantly surrounded by shifting shadows. A temagyr can always Hide in dim light or darkness."
@@ -63,8 +66,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +9 ()\n__Damage__  1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+9 ()\n__Damage__  1d4 + 4 piercing"
 
   - name: "Shadow Bite"
     desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The temagyr attempts to tear away and swallow a gobbet of shadow from a creature within reach. The creature must attempt a DC 17 Fortitude check save.\n\n**Success** The target takes no damage.\n\n**Failure** The target takes 1d4+4 piercing and the temagyr gains 2 temporary Hit Points for 1 minute.\n\n**Critical Failure** The target takes 2d4+8 piercing and the temagyr gains 4 temporary Hit Points for 1 minute."

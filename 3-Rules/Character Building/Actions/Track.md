@@ -6,8 +6,7 @@ tags:
   - trait/concentrate
   - trait/exploration
   - trait/move
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD"
@@ -15,18 +14,18 @@ license: ORC
 ---
 # Track
 
-### [[3-Rules/Rule References/Concentrate]][[exploration]][[move]][[skill]]
+### [[concentrate]][[exploration]][[move]]
 
 **Category** interaction; 
 
 
 
 
-You follow tracks, moving at up to half your travel Speed, using the [[Travel Speed|Travel Speed]] rules. After a successful check to Track, you can continue following the tracks at half your Speed without attempting additional checks for up to 1 hour.
+You follow tracks, moving at up to half your travel Speed, using the [[PF2e Journals/GM Screen/Travel Speed|Travel Speed]] rules. After a successful check to Track, you can continue following the tracks at half your Speed without attempting additional checks for up to 1 hour.
 
 In some cases, you might Track in an encounter. In this case, Track is a single action and doesn't have the exploration trait, but you might need to roll more often because you're in a tense situation. The GM determines how often you must attempt this check.
 
-You attempt your Survival check when you start Tracking, once every hour you continue tracking, and any time something significant changes in the trail. The GM determines the DCs for such checks, depending on the freshness of the trail, the weather, and the type of ground.
+You attempt your [[Actions/track|track]]{Survival} check when you start Tracking, once every hour you continue tracking, and any time something significant changes in the trail. The GM determines the DCs for such checks, depending on the freshness of the trail, the weather, and the type of ground.
 
 ## Sample Track Tasks
 

@@ -29,5 +29,5 @@ license: ORC
 
 Your familiar coils around you, protecting you with its magical resistance. You gain the benefits of your familiar's resistance ability until the start of your next turn. If your familiar has any upgrades to this ability, such as major resistance, you gain them as well. Once per day, if your familiar's resistance is a different damage type, your familiar's resistance ability changes to the appropriate type. If you already have resistance of the same type, choose the higher of the two.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

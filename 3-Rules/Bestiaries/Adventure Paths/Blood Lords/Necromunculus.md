@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_Necromunculus.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Necromunculus"
 level: "Creature 0"
@@ -60,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +7 (agile, finesse, magical)\n__Damage__  1d4 slashing plus stupefying-touch"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+7 (agile, finesse, magical, unarmed)\n__Damage__  1d4 slashing plus stupefying-touch"
 
   - name: "Stupefying Touch"
     desc: "  A creature damaged by a necromunculus's claw Strike must succeed at a DC 15 Will check saving throw or become [[Conditions/Stupefied|Stupefied 1]] for 1 round."

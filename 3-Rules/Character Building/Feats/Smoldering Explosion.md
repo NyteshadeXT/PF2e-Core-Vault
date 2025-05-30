@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Spell Trickster Dedication; ability to cast fireball
 * * *
-When you cast [[Fireball|Fireball]] heightened to at least 4th rank, you can modify the spell to add the following to its standard effects: Your fireball leaves behind a brief cloud of smoke in its area. While it's smoke instead of mist, this cloud otherwise has the effects of [[Mist|Mist]], except that it lasts only 1 round.
+When you cast [[Spells/Fireball|Fireball]] heightened to at least 4th rank, you can modify the spell to add the following to its standard effects: Your fireball leaves behind a brief cloud of smoke in its area. While it's smoke instead of mist, this cloud otherwise has the effects of [[Spells/Mist|Mist]], except that it lasts only 1 round.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

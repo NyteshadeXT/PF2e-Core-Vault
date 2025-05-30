@@ -7,7 +7,7 @@ tags:
   - trait/concentrate
   - trait/exploration
   - trait/visual
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.tfa4Sh7wcxCEqL29"
@@ -15,7 +15,7 @@ license: ORC
 ---
 # Follow the Expert
 
-### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Concentrate]][[exploration]][[visual]]
+### [[auditory]][[concentrate]][[exploration]][[visual]]
 
 **Category** interaction; 
 

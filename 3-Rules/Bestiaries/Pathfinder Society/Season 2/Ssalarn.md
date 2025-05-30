@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 (magical)\n__Damage__  1d8 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (magical, unarmed)\n__Damage__  1d8 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +10 (agile, magical)\n__Damage__  1d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+10 (agile, magical, unarmed)\n__Damage__  1d6 + 6 slashing"
 
   - name: "Gelid Breath"
     desc: "`pf2:1`  The tatzlwyrm belches a puff of frigid vapor into the face of an adjacent creature, which must attempt a DC 15 Fortitude check save; the creature takes a -2 circumstance penalty to this save if it's [[Conditions/Grabbed|Grabbed]] or [[Conditions/Off-Guard|Off-Guard]]. The tatzlwyrm can't use Gelid Breath again for 2 rounds.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Clumsy|Clumsy 1]] for 1 round.\n\n**Failure** The target takes 2d6 cold damage and is clumsy 1 for 1 round.\n\n**Critical Failure** The target takes 4d6 cold damage and is clumsy 1 for 1 minute."

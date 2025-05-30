@@ -21,5 +21,5 @@ license: OGL
 * * *
 Your environment requires you to climb cave walls or tree trunks with great regularity. You gain a Climb speed of 10 feet.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

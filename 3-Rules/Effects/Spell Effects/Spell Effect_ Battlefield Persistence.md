@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Battlefield Persistence|Battlefield Persistence]]
+Granted by [[Spells/Battlefield Persistence|Battlefield Persistence]]
 
 You gain a +2 status bonus to the triggering save.
 

@@ -4,8 +4,7 @@ title: "Long Jump"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/move
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2"
@@ -13,14 +12,14 @@ license: ORC
 ---
 # Long Jump `pf2:2`
 
-### [[move]][[skill]]
+### [[move]]
 
 **Category** interaction; 
 
 
 
 
-You Stride, then attempt a DC 15 Athletics check to make a long jump in the direction you were Striding. If you didn't Stride at least 10 feet, you automatically fail your check. The GM might increase or decrease this DC depending on the situation.
+You Stride, then attempt a DC 15 [[Actions/long-jump|long-jump]]{Athletics} check to make a long jump in the direction you were Striding. If you didn't Stride at least 10 feet, you automatically fail your check. The GM might increase or decrease this DC depending on the situation.
 
 * * *
 

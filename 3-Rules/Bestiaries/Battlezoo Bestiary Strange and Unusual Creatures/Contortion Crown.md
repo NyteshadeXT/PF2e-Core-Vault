@@ -33,7 +33,7 @@ perception:
 languages: "Aklo, Common, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +25, Society: +20, Stealth: +22, Thievery: +25, Acrobatics: +25, Stealth: +22, Thievery: +25, Society: +20"
+    desc: "Acrobatics: +25, Society: +20, Stealth: +22, Thievery: +25"
 abilityMods: [7, 4, 7, 5, 2, 4]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -52,19 +52,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Improvised Block"
-    desc: "`pf2:r`  **Trigger** The contortion crown would take damage while Inhabiting an object\n* * *\n\n**Effect** The crown wards off the blow with its improvised carapace. The object's Hardness prevents up to 15 damage. The crown and the object both take any remaining damage, possibly breaking or destroying the object and expelling the crown. The object has 60 Hit Points and a Break Threshold of 30."
+    desc: "`pf2:1`  **Trigger** The contortion crown would take damage while Inhabiting an object\n* * *\n\n**Effect** The crown wards off the blow with its improvised carapace. The object's Hardness prevents up to 15 damage. The crown and the object both take any remaining damage, possibly breaking or destroying the object and expelling the crown. The object has 60 Hit Points and a Break Threshold of 30."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Junk Carapace +26 ()\n__Damage__  3d10 + 13 bludgeoning plus improved-push"
+  - name: "**Melee** `pf2:1` Junk Carapace"
+    desc: "+26 ()\n__Damage__  3d10 + 13 bludgeoning plus improved-push"
 
-  - name: "Melee"
-    desc: "`pf2:1` Limb +26 (reach 20 feet, sweep)\n__Damage__  3d10 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Limb"
+    desc: "+26 (reach 20 feet, sweep)\n__Damage__  3d10 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Junk +26 (brutal, modular b, p, or s, range increment 120 feet)\n__Damage__  3d6 + 13 bludgeoning"
+  - name: "**Ranged** `pf2:1` Junk"
+    desc: "+26 (brutal, modular b, p, or s, range increment 120 feet)\n__Damage__  3d6 + 13 bludgeoning"
 
   - name: "Inhabit"
     desc: "`pf2:2` (move) **Requirements** The contortion crown doesn't currently Inhabit an object\n* * *\n\n**Effect** contortion crown inhabits a Gargantuan object such as a small building, vehicle, or similar dwelling, and the dwelling’s Hardness becomes 15, with 60 Hit Points and a Break Threshold of 30. The object becomes an extradimensional space with an interior large enough for the creeper to fit inside, regardless of the object's exterior volume. While Inhabiting an object, the contortion crown gains a +2 circumstance bonus to AC and loses its weakness to slashing damage. The crown remains Inhabiting the object until the object breaks or the crown Inhabits a new object. When not Inhabiting an object, the crown can't use its junk carapace Strike."

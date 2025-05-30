@@ -69,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +19 (agile, finesse, versatile s)\n__Damage__  2d4 + 8 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+19 (agile, finesse, versatile s)\n__Damage__  2d4 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +19 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  2d4 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+19 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  2d4 + 8 piercing"
 
   - name: "Kobold Breath"
-    desc: "`pf2:2` (arcane,poison) Urok breathes a poisonous mist that deals 5d4 poison damage in a @Template[cone|distance:15] (DC 25 Fortitude check save).\n\nHe can't use Kobold Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,poison) Urok breathes a poisonous mist that deals 5d4 poison damage in a 15-foot cone (DC 25 Fortitude check save).\n\nHe can't use Kobold Breath again for 1d4 rounds."
 
   - name: "Mastermind"
     desc: "  If Urok successfully identifies a creature using Recall Knowledge, that creature is off-guard against his attacks until the start of his next turn; if he critically succeeds, it's off-guard against his attacks for 1 minute."

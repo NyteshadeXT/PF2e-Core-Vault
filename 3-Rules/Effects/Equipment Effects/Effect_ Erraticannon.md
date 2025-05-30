@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Erraticannon|Erraticannon]]
+Granted by [[Equipment/Erraticannon|Erraticannon]]
 
 Each time you attack with the weapon, roll to determine the damage type of the Strike.
 

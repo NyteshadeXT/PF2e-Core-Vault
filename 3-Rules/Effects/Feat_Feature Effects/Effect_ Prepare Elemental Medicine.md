@@ -19,9 +19,9 @@ license: ORC
 
 Granted by [[Feats/Prepare Elemental Medicine|Prepare Elemental Medicine]]
 
-The recipient is granted a circumstance bonus to saves against an affliction, or a –1 circumstance penalty on a critical failure.
+You gain a circumstance bonus to saves against an affliction, or a –1 circumstance penalty on a critical failure.
 
 If you have [[Feats/Energy Fortification|Energy Fortification]] and use Occultism to Prepare Elemental Medicine, the recipient gains resistance and weakness to vitality damage and void damage based on the element you chose.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -55,6 +55,12 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Rapier|+1 Striking Rapier]], 2x [[Equipment/Acid Flask (Moderate)|Infused Acid Flask (Moderate)]], 2x [[Equipment/Bottled Lightning (Moderate)|Infused Bottled Lightning (Moderate)]], [[Equipment/Alchemist's Lab (Expanded)|Alchemist's Lab (Expanded)]], Jafaki's Round Key, Jafaki's Four-pronged Key, [[Equipment/Magic Wand (2nd-Rank Spell)|Wand of Peaceful Rest (Rank 2)]], [[Equipment/Magic Wand (2nd-Rank Spell)|Wand of Force Barrage (Rank 1)]], 2x [[Equipment/Wyvern Poison|Infused Wyvern Poison]], 2x [[Equipment/Cognitive Mutagen (Moderate)|Infused Cognitive Mutagen (Moderate)]], 2x [[Equipment/Elixir of Life (Lesser)|Infused Elixir of Life (Lesser)]], 2x [[Equipment/Mistform Elixir (Moderate)|Infused Mistform Elixir (Moderate)]]"
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Infused Items"
     desc: "  Jafaki carries these infused items: 2 [[Equipment/Acid Flask (Moderate)|Moderate Acid Flasks]], 2 [[Equipment/Bottled Lightning (Moderate)|Moderate Bottled Lightnings]], 2 [[Equipment/Cognitive Mutagen (Moderate)|Moderate Cognitive Mutagens]], 2 [[Equipment/Elixir of Life (Lesser)|Lesser Elixirs of Life]], 2 [[Equipment/Mistform Elixir (Moderate)|Moderate Mistform Elixirs]], and 2 doses of [[Equipment/Wyvern Poison|Wyvern Poison]] (one of which they have already applied to their rapier). These items last for 24 hours, or until the next time Jafaki makes their daily preparations."
 
@@ -69,17 +75,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +18 (agile, finesse)\n__Damage__  2d6 + 5 piercing plus seugathi-venom"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+18 (agile, finesse)\n__Damage__  2d6 + 5 piercing plus seugathi-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +19 (deadly d8, disarm, finesse, reach 10 feet)\n__Damage__  2d6 + 5 piercing plus wyvern-poison"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+19 (deadly d8, disarm, finesse, reach 10 feet)\n__Damage__  2d6 + 5 piercing plus wyvern-poison"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Flask +19 (bomb, range increment 20 feet, splash)\n__Damage__  5 acid 2d6 + 2 acid 6 acid"
+  - name: "**Ranged** `pf2:1` Acid Flask"
+    desc: "+19 (bomb, range increment 20 feet, splash)\n__Damage__  5 acid 2d6 + 2 acid 6 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bottled Lightning +19 (bomb, range increment 20 feet, splash)\n__Damage__  2d6 + 2 electricity 6 electricity"
+  - name: "**Ranged** `pf2:1` Bottled Lightning"
+    desc: "+19 (bomb, range increment 20 feet, splash)\n__Damage__  2d6 + 2 electricity 6 electricity"
 
   - name: "Occult Innate Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Confusion|Confusion (x3)]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __  _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Levitate|Levitate]]_, _[[Spells/Mind Reading|Mind Reading (x3)]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

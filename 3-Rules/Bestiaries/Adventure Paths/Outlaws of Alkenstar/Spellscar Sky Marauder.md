@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +15 (forceful, magical, sweep)\n__Damage__  2d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+15 (forceful, magical, sweep)\n__Damage__  2d6 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +15 (agile, finesse)\n__Damage__  2d4 + 6 slashing plus mana-fever"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+15 (agile, finesse, unarmed)\n__Damage__  2d4 + 6 slashing plus mana-fever"
 
   - name: "Arcane Innate Spells"
     desc: "DC 22, attack +14; __1st __  _[[Spells/Sanctuary|Sanctuary (x3)]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(3rd)__ _[[Spells/Sigil|Sigil]]_"

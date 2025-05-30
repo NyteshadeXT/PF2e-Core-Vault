@@ -23,5 +23,7 @@ license: OGL
 * * *
 You now have four cantrips per day instead of three. At 4th level, you have five cantrips per day instead of four.
 
+[[PF2e Journals/Archetypes/Flexible Spellcaster (Class Archetype)|Flexible Spellcaster (Class Archetype)]]
+
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +9 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+9 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +9 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+9 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 23, attack +14; __2nd __ (3 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(2nd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

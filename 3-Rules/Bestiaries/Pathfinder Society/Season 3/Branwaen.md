@@ -56,14 +56,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sap +5 (agile, nonlethal)\n__Damage__  1d6 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Sap"
+    desc: "+5 (agile, nonlethal)\n__Damage__  1d6 + 1 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Clan Dagger +5 (agile, parry, versatile b)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Clan Dagger"
+    desc: "+5 (agile, parry, versatile b)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +7 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+7 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Branwaen deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

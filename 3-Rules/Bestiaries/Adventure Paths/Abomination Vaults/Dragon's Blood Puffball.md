@@ -56,16 +56,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Spore Explosion"
-    desc: "  When the dragon's blood puffball dies, it explodes, dealing 7d8 poison damage to each creature in a @Template[emanation|distance:20] (DC 26 Fortitude check save)."
+    desc: "  When the dragon's blood puffball dies, it explodes, dealing 7d8 poison damage to each creature in a 20-foot emanation (DC 26 Fortitude check save)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bloom +18 ()\n__Damage__  2d10 + 8 bludgeoning 1d6 poison"
+  - name: "**Melee** `pf2:1` Bloom"
+    desc: "+18 ()\n__Damage__  2d10 + 8 bludgeoning 1d6 poison"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spore Jet +18 (range increment 30 feet)\n__Damage__  3d8 poison"
+  - name: "**Ranged** `pf2:1` Spore Jet"
+    desc: "+18 (range increment 30 feet)\n__Damage__  3d8 poison"
  
 ```
 

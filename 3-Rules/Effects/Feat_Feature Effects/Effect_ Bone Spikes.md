@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Feats/Bone Spikes|Bone Spikes]]
+
 You can make bone spike unarmed Strikes, which deal 1d6 piercing damage and have the versatile S and sweep traits.
 
 *Source: Pathfinder Dark Archive*

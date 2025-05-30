@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +31 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+31 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 8 bludgeoning"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 42, attack +34; __10th __ (2 slots) _[[Spells/Alter Reality|Alter Reality]]_, _[[Spells/Gate|Gate]]_; __9th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Foresight|Foresight]]_, _[[Spells/Wails of the Damned|Wail of the Banshee]]_, _[[Spells/Weird|Weird (Blood Magic)]]_; __8th __ (4 slots) _[[Spells/Pinpoint|Discern Location]]_, _[[Spells/Quandary|Maze]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_, _[[Spells/Unrelenting Observation|Unrelenting Observation (Blood Magic)]]_; __7th __ (4 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Retrocognition|Retrocognition (Blood Magic)]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __ (4 slots) _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Spirit Blast|Spirit Blast]]_, _[[Spells/Teleport|Teleport]]_, _[[Spells/Truesight|True Seeing (Blood Magic)]]_; __5th __ (4 slots) _[[Spells/Cloak of Colors|Cloak of Colors]]_, _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Shadow Siphon|Shadow Siphon (Blood Magic)]]_, _[[Spells/Synesthesia|Synesthesia]]_; __4th __ (4 slots) _[[Spells/Flicker|Blink]]_, _[[Spells/Confusion|Confusion]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Suggestion|Suggestion (Blood Magic)]]_; __3rd __ (4 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Wanderer's Guide|Wanderer's Guide (Blood Magic)]]_; __2nd __ (4 slots) _[[Spells/Augury|Augury (Blood Magic)]]_, _[[Spells/Blur|Blur]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __ (4 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Ill Omen|Ill Omen (Blood Magic)]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(10th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic (Blood Magic)]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -71,7 +71,7 @@ attacks:
     desc: "  When Raven casts a bloodline spell, she gains [[Conditions/Concealed|Concealment]] for 1 round, but can't use it to [[Actions/Hide|Hide]]."
 
   - name: "Harrow Burst"
-    desc: "`pf2:2` (occult) Raven unleashes a mass of magical harrow cards, dealing 15d8 slashing damage in a @Template[emanation|distance:30] (DC 42 Reflex check save). A creature that fails its save rolls 1d6 to determine a suit of cards: 1 = hammers (Strength), 2 = keys (Dexterity), 3 = shields (Constitution), 4 = books (Intelligence), 5 = stars (Wisdom), 6 = crowns (Charisma). The creature takes a –1 status penalty to all checks related to that ability score for 1 round (–2 status penalty on a critical failure). Raven can't use Harrow Burst again for 1d4 rounds.\n\n[[Bestiary Effects/Effect_ Harrow Burst|Effect: Harrow Burst]]"
+    desc: "`pf2:2` (occult) Raven unleashes a mass of magical harrow cards, dealing 15d8 slashing damage in a 30-foot emanation (DC 42 Reflex check save). A creature that fails its save rolls 1d6 to determine a suit of cards: 1 = hammers (Strength), 2 = keys (Dexterity), 3 = shields (Constitution), 4 = books (Intelligence), 5 = stars (Wisdom), 6 = crowns (Charisma). The creature takes a –1 status penalty to all checks related to that ability score for 1 round (–2 status penalty on a critical failure). Raven can't use Harrow Burst again for 1d4 rounds.\n\n[[Bestiary Effects/Effect_ Harrow Burst|Effect: Harrow Burst]]"
  
 ```
 

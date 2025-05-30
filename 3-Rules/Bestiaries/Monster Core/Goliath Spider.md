@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +24 (reach 10 feet)\n__Damage__  2d12 + 12 piercing plus goliath-spider-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+24 (reach 10 feet)\n__Damage__  2d12 + 12 piercing plus goliath-spider-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Web +22 (range increment 60 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Web"
+    desc: "+22 (range increment 60 feet)\n__Damage__ "
 
   - name: "Descend on a Web"
     desc: "`pf2:1` (move) The goliath spider moves straight down up to 120 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count for falling damage.\n\nA creature that successfully Strikes the web (AC 20, Hardness 5, 20 HP) severs it, causing the spider to fall."

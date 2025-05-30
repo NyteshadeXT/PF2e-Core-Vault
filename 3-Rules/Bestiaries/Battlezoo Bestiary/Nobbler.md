@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mouth +15 (nonlethal)\n__Damage__  2d6 + 6 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Mouth"
+    desc: "+15 (nonlethal)\n__Damage__  2d6 + 6 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

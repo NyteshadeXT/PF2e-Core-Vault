@@ -37,7 +37,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Intimidation: +12, Nature: +12, Performance: +12, Stealth: +12, Thievery: +10, Acrobatics: +10, Intimidation: +12, Nature: +12, Performance: +12, Stealth: +12, Thievery: +10"
+    desc: "Acrobatics: +10, Intimidation: +12, Nature: +12, Performance: +12, Stealth: +12, Thievery: +10"
 abilityMods: [2, 5, 2, 3, 3, 5]
 speed: 30 feet,  climb 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 (finesse, magical)\n__Damage__  2d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (finesse, magical)\n__Damage__  2d6 + 5 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Vomit Swarm|Vomit Swarm]]_; __1st __  _[[Spells/Jump|Jump]]_, _[[Spells/Mud Pit|Mud Pit]]_, _[[Spells/Pest Form|Pest Form]]_, _[[Spells/Restyle|Restyle]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Spout|Spout]]_"

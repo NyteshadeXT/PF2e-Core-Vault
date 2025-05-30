@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Clockwork Cloak|Clockwork Cloak]]
+Granted by [[Equipment/Clockwork Cloak|Clockwork Cloak]]
+
+You take a -4 penalty to Perception checks while on standby mode. If you leave standby mode to initiate combat, you gain a +2 item bonus to your initiative roll.
 
 *Source: Pathfinder #161: Belly of the Black Whale*
 *OGL*

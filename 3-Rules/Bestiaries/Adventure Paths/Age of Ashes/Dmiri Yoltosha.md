@@ -60,17 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +13 (deadly d8, disarm, finesse)\n__Damage__  2d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+13 (deadly d8, disarm, finesse)\n__Damage__  2d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +12 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+12 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +12 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+12 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +12 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+12 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Flurry"
     desc: "  Dmiri's multiple attack penalty against her hunted prey is -3 (-2 with an agile weapon) on her second attack and -6 (-4 with an agile weapon) on her third or subsequent attacks."

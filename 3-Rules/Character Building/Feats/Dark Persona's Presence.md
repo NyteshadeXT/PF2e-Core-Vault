@@ -15,7 +15,7 @@ license: OGL
 ---
 # Dark Persona's Presence `pf2:0`
 ## Feat 8
-### [[3-Rules/trait_reference/A/aura]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[psychic]]
+### [[aura]][[emotion]][[fear]][[mental]][[psychic]]
 
 **Category** class; 
 
@@ -28,7 +28,7 @@ license: OGL
 
 When you Unleash your Psyche, all your rage and pain-the portion of your psyche dedicated to cruel retribution-come along with it.
 
-The force of your dark persona's negativity batters constantly against all creatures in a @Template\[emanation|distance:30\] when you Unleash your Psyche and for as long as your Psyche is Unleashed. A creature must attempt a Will check save against your spell DC the first time it enters the emanation, or if it's in the emanation when you take this action; it doesn't need to attempt a save again, even if it leaves the emanation and returns. A creature frightened by your Dark Persona's Presence can't decrease its frightened value below 1 while within the emanation.
+The force of your dark persona's negativity batters constantly against all creatures in a 30-foot emanation when you Unleash your Psyche and for as long as your Psyche is Unleashed. A creature must attempt a Will check save against your spell DC the first time it enters the emanation, or if it's in the emanation when you take this action; it doesn't need to attempt a save again, even if it leaves the emanation and returns. A creature frightened by your Dark Persona's Presence can't decrease its frightened value below 1 while within the emanation.
 
 * * *
 

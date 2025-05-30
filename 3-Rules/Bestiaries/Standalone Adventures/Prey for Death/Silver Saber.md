@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Leg +33 (magical, reach 10 feet)\n__Damage__  3d10 + 16 slashing 2d6 bleed"
+  - name: "**Melee** `pf2:1` Leg"
+    desc: "+33 (magical, reach 10 feet)\n__Damage__  3d10 + 16 slashing 2d6 bleed"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spike +33 (magical, range 30 feet)\n__Damage__  3d6 + 16 piercing"
+  - name: "**Ranged** `pf2:1` Spike"
+    desc: "+33 (magical, range 30 feet)\n__Damage__  3d6 + 16 piercing"
 
   - name: "Focus Gaze"
     desc: "`pf2:1` (aura,divine,incapacitation,mental,visual) Silver Saber focuses their gaze on a creature they can see within 30 feet. The target must immediately attempt a Will save against Reflect Truths. If the creature was already so affected, it becomes [[Conditions/Stunned|Stunned 1]]. After attempting its save, the creature is then temporarily immune until the start of Silver Saber's next turn."

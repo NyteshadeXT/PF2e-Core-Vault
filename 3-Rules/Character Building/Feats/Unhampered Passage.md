@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You won't allow others to restrain you. You can cast [[Unfettered Movement|Unfettered Movement]] on yourself as a primal innate spell once per day.
+You won't allow others to restrain you. You can cast [[Spells/Unfettered Movement|Unfettered Movement]] on yourself as a primal innate spell once per day.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -59,6 +59,9 @@ abilities_top:
   - name: "Status Sight"
     desc: "  The Grim Reaper automatically knows the Hit Points, conditions, afflictions, and emotions of all creatures it can see."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Aura of Misfortune"
@@ -68,13 +71,13 @@ abilities_mid:
     desc: "`pf2:r` (divine,teleportation) **Trigger** A creature within 100 feet makes a ranged attack or uses an action that has the concentrate, manipulate, or move trait\n* * *\n\n**Effect** The Grim Reaper teleports to a square adjacent to the triggering creature and makes a melee Strike against it. If the Strike hits, the Grim Reaper disrupts the triggering action."
 
   - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
-    desc: "  The Grim Reaper can choose whether or not it takes vitality damage.\n\n* * *\n"
+    desc: "  The Grim Reaper can choose whether or not it takes vitality damage.\n* * *\n\nA creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Keen Scythe +40 (agile, deadly 3d10, magical, reach 10 feet, trip)\n__Damage__  4d10 + 23 slashing plus death-strike,energy-drain"
+  - name: "**Melee** `pf2:1` Keen Scythe"
+    desc: "+40 (agile, deadly 3d10, magical, reach 10 feet, trip)\n__Damage__  4d10 + 23 slashing plus death-strike,energy-drain"
 
   - name: "Divine Innate Spells"
     desc: "DC 47, attack +37; __10th __  _[[Spells/Execute|Execute (x4)]]_; __7th __  _[[Spells/Interplanar Teleport|Interplanar Teleport]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|Truesight]]_ __(3rd)__ _[[Spells/Haste|Haste]]_ __(2nd)__ _[[Spells/See the Unseen|See the Unseen]]_"

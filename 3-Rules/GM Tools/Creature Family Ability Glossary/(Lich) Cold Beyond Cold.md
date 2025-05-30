@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Lich) Cold Beyond Cold"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.wh2T2L5SMsa32RyE"

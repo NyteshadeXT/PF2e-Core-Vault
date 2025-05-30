@@ -6,7 +6,9 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - pf2eSpell
   - spell/level/4
+  - trait/concentrate
   - trait/fire
+  - trait/manipulate
   - trait/common
   - tradition/divine
   - tradition/primal
@@ -19,7 +21,9 @@ license: OGL
 name: "Phoenix Ward  `pf2:2`"
 level: "Spell 4"
 
-trait_01: [[fire]]
+trait_01: [[concentrate]]
+trait_02: [[fire]]
+trait_03: [[manipulate]]
 layout: Basic Pathfinder 2e Layout
 columns: 1
 columnWidth: x

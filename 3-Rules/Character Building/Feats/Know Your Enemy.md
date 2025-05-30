@@ -26,5 +26,5 @@ license: ORC
 
 You aim to turn knowledge into power against your foes. Attempt a Recall Knowledge check against an enemy you're observing. Any ally within your aura who's trained in the skill you use to attempt the Recall Knowledge check can use their reaction to Aid you on the check without having prepared to help first.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

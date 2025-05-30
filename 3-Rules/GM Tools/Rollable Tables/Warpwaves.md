@@ -10,7 +10,7 @@ tags:
 # Warpwaves
 <p>Many proteans can subject their foes to disorienting alterations perceived in time and space by creating ripples of unstable reality in the environment called warpwaves.</p>
 <p>When a creature fails its saving throw and is affected by a warpwave, roll 1d8 and consult the table below for the specific effect on that creature.</p>
-<p>Unless indicated otherwise, a warpwave effect lasts for [[/br 1d4 #rounds]]{1d4 rounds}, and a new warpwave effect negates any previous warpwave effect already affecting a creature.</p>
+<p>Unless indicated otherwise, a warpwave effect lasts for [[/gmr 1d4 #rounds]]{1d4 rounds}, and a new warpwave effect negates any previous warpwave effect already affecting a creature.</p>
 
 | 1d8 | result |
 |------|--------|

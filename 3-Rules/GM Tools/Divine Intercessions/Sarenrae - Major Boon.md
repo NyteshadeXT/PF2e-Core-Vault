@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Sarenrae - Major Boon"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/deityboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.dL6r0VfFIWlAazDW"
 license: OGL
 ---
 # Sarenrae - Major Boon
-
+## Feat 1
 ### 
 
 **Category** deityboon; 
@@ -23,5 +23,5 @@ When you roll a success at a check to [[Actions/Request|Request]] something, you
 
 In addition, all creatures other than fiends, undead, and mindless creatures allow you one chance to speak your piece and make requests before entering combat. If you or an ally ever use the time from the request to gain an advantage in an ensuing combat (for example, by casting preparatory spells, positioning for combat, or waiting out your opponent's preparatory spells), Sarenrae immediately revokes this boon, or possibly curses your ally.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

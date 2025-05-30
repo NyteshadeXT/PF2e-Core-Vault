@@ -32,5 +32,5 @@ Any creature in a 5-foot emanation around the mine when it detonates takes 1d4 b
 
 **Unstable Function** You push the safety limits of your gizmo, forcing it to synthesize and launch additional sea mines, exceeding the daily limit. Add the unstable trait to Xidao Sea Mine Drop. You create up to 3 additional sea mines that you can immediately deploy in different unoccupied spaces up to 30 feet away.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

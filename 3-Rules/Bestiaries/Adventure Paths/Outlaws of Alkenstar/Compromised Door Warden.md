@@ -54,18 +54,18 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Repeating Crossbow|Repeating Crossbow]], [[Equipment/Repeating Crossbow Magazine|Repeating Crossbow Magazine]]"
   - name: "[[Creature Family Ability Glossary/(Clockwork Creature) Wind-Up|Wind-Up]]"
-    desc: "  24 hours, DC 19 Thievery check, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  24 hours, [[Actions/disable-device dc=19|disable-device dc=19]]{DC 19 Thievery}, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 (reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning plus push"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (reach 10 feet, unarmed)\n__Damage__  2d6 + 7 bludgeoning plus push"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Repeating Crossbow +12 (range increment 120 feet, reload 0, repeating)\n__Damage__  1d8 piercing"
+  - name: "**Ranged** `pf2:1` Repeating Crossbow"
+    desc: "+12 (range increment 120 feet, reload 0, repeating)\n__Damage__  1d8 piercing"
 
   - name: "Brace Door"
     desc: "`pf2:1`  The door warden holds shut an adjacent door. This ends the door warden's turn. Until the start of its next turn, as long as it remains functional and in the same square, other creatures trying to get through must succeed at a DC 21 Athletics check check to [[Actions/Force Open|Force Open]] the door."
@@ -77,7 +77,7 @@ attacks:
     desc: "  At the beginning of its turn, the compromised door warden rolls 1d4 to determine how many actions it has for that turn (to a maximum of 3 actions per turn). The door warden's Speed each turn is 10 feet times the result of that same die roll, to a maximum of 25 feet per turn (that is, a roll of 3 or 4 indicates a Speed of 25 feet)."
 
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

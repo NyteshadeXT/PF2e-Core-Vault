@@ -55,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Three Headed"
     desc: "  Any ability that would sever a chimera's head (such as a critical hit with a _[[Equipment/Vorpal|Vorpal Weapon]]_) severs one head at random. Losing a head doesn't kill a chimera (as long as it has one head left), but it does prevent it from making Strikes with the lost head or using the head's Breath Weapon."
@@ -66,20 +66,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dragon Jaws +26 ()\n__Damage__  2d6 + 11 piercing 3d6 fire"
+  - name: "**Melee** `pf2:1` Dragon Jaws"
+    desc: "+26 ()\n__Damage__  2d6 + 11 piercing 3d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Lion Jaws +26 ()\n__Damage__  3d10 + 11 piercing"
+  - name: "**Melee** `pf2:1` Lion Jaws"
+    desc: "+26 ()\n__Damage__  3d10 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Goat Horns +26 ()\n__Damage__  3d10 + 11 piercing"
+  - name: "**Melee** `pf2:1` Goat Horns"
+    desc: "+26 ()\n__Damage__  3d10 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +26 (agile)\n__Damage__  3d8 + 11 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+26 (agile, unarmed)\n__Damage__  3d8 + 11 slashing"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane) The oversized chimera breathes a @Template[cone|distance:30] of fire that deals 13d6 fire damage to all creatures in the area (DC 32 Reflex check save).\n\nThe chimera can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane) The oversized chimera breathes a 30-foot cone of fire that deals 13d6 fire damage to all creatures in the area (DC 32 Reflex check save).\n\nThe chimera can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Draconic Bite"
     desc: "  An oversized chimera's dragon head deals an extra 3d6 fire damage _(already included)_."

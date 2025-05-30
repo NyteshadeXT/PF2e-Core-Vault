@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +14 (reach 10 feet, sweep)\n__Damage__  1d12 + 8 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+14 (reach 10 feet, sweep)\n__Damage__  1d12 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +14 ()\n__Damage__  1d8 + 8 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+14 (unarmed)\n__Damage__  1d8 + 8 piercing"
 
   - name: "Axe Swipe"
     desc: "`pf2:2`  The minotaur swings their axe in a wide arc, making greataxe Strikes against any two foes who are adjacent to each other and within the minotaur's reach. The multiple attack penalty does not increase until after both attacks are resolved."

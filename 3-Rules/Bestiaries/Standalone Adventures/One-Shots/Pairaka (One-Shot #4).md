@@ -57,6 +57,12 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "10x [[Equipment/Dart|Poisoned Dart]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Hatred of Red"
@@ -65,23 +71,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +16 (agile, finesse, magical, unholy)\n__Damage__  2d8 + 6 slashing plus bubonic-plague 1d6 spirit plus bubonic-plague"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+16 (agile, finesse, magical, unarmed, unholy)\n__Damage__  2d8 + 6 slashing plus bubonic-plague 1d6 spirit plus bubonic-plague"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Poisoned Dart +16 (agile, thrown 20 ft., unholy)\n__Damage__  1d4 + 6 piercing 1d8 poison"
+  - name: "**Ranged** `pf2:1` Poisoned Dart"
+    desc: "+16 (agile, thrown 20 ft., unholy)\n__Damage__  1d4 + 6 piercing 1d8 poison"
 
   - name: "Divine Innate Spells"
     desc: "DC 25, attack +15; __4th __ (5 slots) _[[Spells/Charm|Charm (At Will)]]_, _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Compendium.pf2e.spells-srd.Item.c2bTWBNO1BYX4Zfg|Misdirection (At Will, Self Only)]]_, _[[Spells/Outcast's Curse|Outcast's Curse (At Will)]]_, _[[Spells/Suggestion|Suggestion (At Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Div Pact|Div Pact]]_"
+    desc: "_Div Pact_"
 
   - name: "Bubonic Plague"
     desc: " (disease) A creature can't remove the fatigued condition while infected\n\n**Saving Throw** DC 23 Fortitude check\n* * *\n\n**Onset** 1 day\n\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 2]] and fatigued (1 day)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 3]], fatigued, and take 1d6 bleed every 1d20 minutes (1 day)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The pairaka can take the appearance of any Small or Medium humanoid or animal. This doesn't change their Speed or their attack and damage modifiers with the Strikes, but it might change the damage type their strikes deal.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The pairaka can take the appearance of any Small or Medium humanoid or animal. This doesn't change their Speed or their attack and damage modifiers with the Strikes, but it might change the damage type their strikes deal.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Tormenting Dreams"
     desc: "`pf2:2` (divine,emotion,mental) **Frequency** once per day\n* * *\n\n**Effect** The pairaka torments a sleeping creature within 100 feet with visions of betrayals by loved ones and friends. The target must attempt a DC 25 Will check save, with the effects of the [[Spells/Nightmare|Nightmare]] spell."

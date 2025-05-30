@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +15 (agile, finesse, magical, versatile s)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+15 (agile, finesse, magical, versatile s)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` War Razor +17 (agile, backstabber, deadly d8, finesse)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Melee** `pf2:1` War Razor"
+    desc: "+17 (agile, backstabber, deadly d8, finesse)\n__Damage__  1d4 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +17 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+17 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  When attacking an [[Conditions/Off-Guard|Off-Guard]] creature, the Skinsaw murderer deals 1d6 additional precision damage."

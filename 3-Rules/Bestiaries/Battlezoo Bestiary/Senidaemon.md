@@ -74,8 +74,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Molten Hand +18 (finesse, magical, unholy)\n__Damage__  2d6 + 4 bludgeoning 2d6 spirit"
+  - name: "**Melee** `pf2:1` Molten Hand"
+    desc: "+18 (finesse, magical, unholy)\n__Damage__  2d6 + 4 bludgeoning 2d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 24, attack +16; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Silence|Silence]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_\n__Constant__  __(2nd)__ _[[Spells/Silence|Silence (Self)]]_"

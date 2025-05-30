@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[3-Rules/Character Building/Spells/L/Light|Light]]
+Granted by [[Spells/Light|Light]]
 
 You attach an orb of light to a willing creature, causing it to float near that creature as it moves.
 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Giant's Lunge `pf2:1`
 ## Feat 14
-### [[barbarian]][[concentrate]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[concentrate]][[rage]]
 
 **Category** class; 
 

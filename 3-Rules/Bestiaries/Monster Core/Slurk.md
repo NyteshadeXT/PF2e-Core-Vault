@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tusks +11 (deadly d10)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Tusks"
+    desc: "+11 (deadly d10)\n__Damage__  1d8 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Slime Squirt +9 (range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Slime Squirt"
+    desc: "+9 (range increment 30 feet)\n__Damage__ "
 
   - name: "Belly Grease"
     desc: "`pf2:3`  The slurk extrudes a slippery grease from its ventral glands to coat the floor under it and in a 5-foot emanation, turning the affected area into uneven ground for 10 minutes, after which it dries to a putrid crust. The DC to [[Actions/Balance|Balance]] across the slime is 18."

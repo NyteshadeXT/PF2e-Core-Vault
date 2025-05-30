@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Morningstar +8 (versatile p)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Morningstar"
+    desc: "+8 (versatile p)\n__Damage__  1d6 + 3 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +8 (reach 10 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+8 (reach 10 feet)\n__Damage__ "
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +7 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 1 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+7 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 1 bludgeoning"
 
   - name: "Swamp Passage"
     desc: "  A boggard scout ignores difficult terrain caused by swamp terrain features."

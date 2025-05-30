@@ -61,26 +61,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shovel +6 ()\n__Damage__  1d6 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Shovel"
+    desc: "+6 ()\n__Damage__  1d6 + 1 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +6 (agile, finesse, versatile s)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+6 (agile, finesse, versatile s)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +6 (thrown 10 ft.)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+6 (thrown 10 ft.)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Bottled Lightning (Lesser) (Infused) +7 (bomb, consumable, infused, splash)\n__Damage__  1d6 electricity 1 electricity"
+  - name: "**Melee** `pf2:1` Bottled Lightning (Lesser) (Infused)"
+    desc: "+7 (bomb, consumable, infused, splash)\n__Damage__  1d6 electricity 1 electricity"
 
-  - name: "Melee"
-    desc: "`pf2:1` Frost Vial (Lesser) (Infused) +7 (bomb, consumable, infused, splash)\n__Damage__  1d6 cold 1 cold"
+  - name: "**Melee** `pf2:1` Frost Vial (Lesser) (Infused)"
+    desc: "+7 (bomb, consumable, infused, splash)\n__Damage__  1d6 cold 1 cold"
 
-  - name: "Melee"
-    desc: "`pf2:1` Thunderstone (Lesser) (Infused) +7 (bomb, consumable, infused, splash)\n__Damage__  1d4 sonic 1 sonic"
+  - name: "**Melee** `pf2:1` Thunderstone (Lesser) (Infused)"
+    desc: "+7 (bomb, consumable, infused, splash)\n__Damage__  1d4 sonic 1 sonic"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Holy Water +7 (consumable, holy, splash, thrown 20 ft.)\n__Damage__  1d6 spirit 1 spirit"
+  - name: "**Ranged** `pf2:1` Holy Water"
+    desc: "+7 (consumable, holy, splash, thrown 20 ft.)\n__Damage__  1d6 spirit 1 spirit"
  
 ```
 

@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +15 (deadly d10)\n__Damage__  2d8 + 6 piercing plus sanguinary-disease"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+15 (deadly d10)\n__Damage__  2d8 + 6 piercing plus sanguinary-disease"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile, reach 10 feet)\n__Damage__  2d6 + 6 slashing plus sanguinary-disease"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, reach 10 feet)\n__Damage__  2d6 + 6 slashing plus sanguinary-disease"
 
   - name: "Sanguinary Disease"
     desc: " (disease) Bloodless creatures are immune. The sickened condition does not improve on its own until the disease is cured.\n\n**Saving Throw** DC 24 Fortitude;\n\n**Stage 1** [[Conditions/Sickened|Sickened 1]] (1 hour);\n\n**Stage 2** sickened 1 and [[Conditions/Drained|Drained 1]] (1d4 hours);\n\n**Stage 3** sickened 1 and [[Conditions/Drained|Drained 2]] (2d4 hours);\n\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day);\n\n**Stage 5** dead"

@@ -60,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  The mummy pharaoh can use Attack of Opportunity when a creature within its reach uses a concentrate action, in addition to its normal trigger. It can disrupt triggering concentrate actions, and it disrupts actions on any hit, not just a critical hit.\n\n* * *\n"
+    desc: "`pf2:r`  The mummy pharaoh can use Attack of Opportunity when a creature within its reach uses a concentrate action, in addition to its normal trigger. It can disrupt triggering concentrate actions, and it disrupts actions on any hit, not just a critical hit.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Great Despair"
     desc: " (aura,divine,emotion,fear,incapacitation,mental) 30 feet. Living creatures are [[Conditions/Frightened|Frightened 1]] while in a mummy pharaoh's despair aura. They can't naturally recover from this fear while in the area but recover instantly once they leave the area. When a creature first enters the area, it must succeed at a DC 25 Will check save (after taking the penalty from being frightened) or be [[Conditions/Paralyzed|Paralyzed]] for 1 round. The creature is then temporarily immune for 24 hours.\n\n[[Bestiary Effects/Effect_ Despair|Effect: Despair]]"
@@ -74,11 +74,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +20 (agile)\n__Damage__  1d10 + 11 bludgeoning plus insidious-mummy-rot"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+20 (agile, unarmed)\n__Damage__  1d10 + 11 bludgeoning plus insidious-mummy-rot"
 
-  - name: "Melee"
-    desc: "`pf2:1` Longspear +21 (magical, reach 10 feet)\n__Damage__  2d8 + 11 piercing plus insidious-mummy-rot"
+  - name: "**Melee** `pf2:1` Longspear"
+    desc: "+21 (magical, reach 10 feet)\n__Damage__  2d8 + 11 piercing plus insidious-mummy-rot"
 
   - name: "Channel Rot"
     desc: " (divine) The mummy pharaoh can deliver insidious mummy rot through melee weapons it wields."
@@ -87,7 +87,7 @@ attacks:
     desc: " (curse,disease,divine) This disease and any damage from it can't be healed until this curse is removed. A creature killed by insidious mummy rot turns to sand and can't be resurrected except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic.\n\n**Saving Throw** DC 26 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 minute)\n\n**Stage 2** 8d6 void damage and [[Conditions/Stupefied|Stupefied 2]] (1 day)"
 
   - name: "Sandstorm Wrath"
-    desc: "`pf2:2` (concentrate,divine,fire) The mummy pharaoh exhales a @Template[cone|distance:60] of superheated sand that deals 5d6 fire damage and 5d6 slashing damage (DC 28 Reflex check save).\n\nThe mummy pharaoh can't use Sandstorm Wrath again for 1d4 rounds."
+    desc: "`pf2:2` (concentrate,divine,fire) The mummy pharaoh exhales a 60-foot cone of superheated sand that deals 5d6 fire damage and 5d6 slashing damage (DC 28 Reflex check save).\n\nThe mummy pharaoh can't use Sandstorm Wrath again for 1d4 rounds."
  
 ```
 

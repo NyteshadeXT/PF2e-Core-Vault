@@ -65,14 +65,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pincer +29 (deadly 2d10, magical, reach 15 feet, unholy)\n__Damage__  3d10 + 17 bludgeoning plus grab 1d6 spirit plus grab"
+  - name: "**Melee** `pf2:1` Pincer"
+    desc: "+29 (deadly 2d10, magical, reach 15 feet, unholy)\n__Damage__  3d10 + 17 bludgeoning plus grab 1d6 spirit plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +29 (agile, magical, reach 10 feet, unholy)\n__Damage__  3d6 + 17 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+29 (agile, magical, reach 10 feet, unarmed, unholy)\n__Damage__  3d6 + 17 slashing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +29 (magical, reach 10 feet, unholy)\n__Damage__  3d12 + 17 piercing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+29 (magical, reach 10 feet, unarmed, unholy)\n__Damage__  3d12 + 17 piercing 1d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 36, attack +26; __7th __  _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Reverse Gravity|Reverse Gravity]]_; __6th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Translocate|Dimension Door (x2)]]_, _[[Spells/Truespeech|Tongues]]_; __4th __  _[[Spells/Confusion|Confusion]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_\n__Cantrips__  __(8th)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -81,7 +81,7 @@ attacks:
     desc: "DC 36, attack +26"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "Captive Rake"
     desc: "`pf2:1`  **Requirements** A creature is grabbed in the glabrezu's pincer.\n* * *\n\n**Effect** The glabrezu pulls the grabbed creature up to 5 feet closer, then makes two claw Strikes against it. Those Strikes count as one attack when determining a treachery demon's multiple attack penalty, and the penalty doesn't increase until after both Strikes."

@@ -51,19 +51,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Coiled Opportunity (Special)]]"
-    desc: "`pf2:r`  As Attack of Opportunity, but the serpent can use this reaction only if it's coiled.\n\n* * *\n"
+    desc: "`pf2:r`  As Attack of Opportunity, but the serpent can use this reaction only if it's coiled.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +11 (finesse)\n__Damage__  1d8 + 2 piercing 1d4 electricity"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+11 (finesse)\n__Damage__  1d8 + 2 piercing 1d4 electricity"
 
   - name: "Coil"
     desc: "`pf2:1`  The serpent uses an action to coil itself; increasing its reach with its fangs from 5 feet to 10 feet. After the serpent strikes with its fangs, it becomes uncoiled."
 
   - name: "Lightning Rattle"
-    desc: "`pf2:2`  The serpent rattles its strange metal tail and unleashes a bolt of lightning in a @Template[line|distance:60]. The bolt deals 2d10 electricity damage (DC 17 Reflex check save).\n\nOnce the giant lightning serpent uses this ability, it must wait 1d4 rounds before doing so again."
+    desc: "`pf2:2`  The serpent rattles its strange metal tail and unleashes a bolt of lightning in a 60-foot line. The bolt deals 2d10 electricity damage (DC 17 Reflex check save).\n\nOnce the giant lightning serpent uses this ability, it must wait 1d4 rounds before doing so again."
  
 ```
 

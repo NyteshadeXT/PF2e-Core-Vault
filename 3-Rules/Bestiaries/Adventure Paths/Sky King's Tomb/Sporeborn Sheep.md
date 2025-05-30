@@ -64,11 +64,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +9 ()\n__Damage__  1d8 + 4 bludgeoning plus grab,zombie-rot"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+9 (unarmed)\n__Damage__  1d8 + 4 bludgeoning plus grab,zombie-rot"
 
   - name: "Wasting Wheeze"
     desc: "`pf2:r` (poison) **Frequency** once per 1d4 rounds\n\n**Trigger** The headless spore sheep takes a critical hit or is reduced to 0 Hit Points\n* * *\n\n**Effect** The headless spore sheep exhales a cloud of spores through its neck. Adjacent living creatures take 1d6 poison damage and are [[Conditions/Sickened|Sickened 1]] unless they succeed at a DC 18 Fortitude check save."
@@ -77,7 +80,7 @@ attacks:
     desc: " (disease) An infected creature can't heal damage it takes from zombie rot until it has been cured of the disease.\n* * *\n\n**Saving Throw** DC 18 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 1d6 void damage (1 day)\n\n**Stage 3** 1d6 void damage (1 day)\n\n**Stage 4** 1d6 void damage (1 day)\n\n**Stage 5** dead, rising as a plague zombie immediately"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

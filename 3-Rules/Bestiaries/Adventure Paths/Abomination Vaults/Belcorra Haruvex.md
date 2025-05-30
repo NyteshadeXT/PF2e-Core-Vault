@@ -71,11 +71,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) When Belcorra is destroyed, she re-forms in 2d4 days within the Empty Vault (though she can reduce that time by empowering herself with glimmers of Nhimbaloth's essence using the [[Equipment/Ebon Fulcrum Lens|Ebon Fulcrum Lens]]).\n\nBelcorra can only be permanently destroyed if she enacts her full revenge on Absalom or if Nhimbaloth devours her soul."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +24 (agile, finesse, magical)\n__Damage__  3d8 + 12 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+24 (agile, finesse, magical)\n__Damage__  3d8 + 12 void"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 33, attack +25; __6th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Truesight|True Seeing]]_; __5th __ (4 slots) _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Truespeech|Tongues]]_; __4th __ (4 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Dispelling Globe|Globe of Invulnerability]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Spell Immunity|Spell Immunity]]_; __3rd __ (4 slots) _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Veil of Privacy|Nondetection]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (4 slots) _[[Spells/Death Knell|Death Knell]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (4 slots) _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Spider Sting|Spider Sting]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -84,7 +87,7 @@ attacks:
     desc: "2 Focus Points, DC 33, attack +25; __6th __  _[[Spells/Aberrant Whispers|Aberrant Whispers]]_, _[[Spells/Tentacular Limbs|Tentacular Limbs]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Collective Memories|Legend Lore]]_, _[[Spells/Binding Circle|Planar Binding]]_, _[[Spells/Teleportation Circle|Teleportation Circle]]_"
+    desc: "_Legend Lore_, _Planar Binding_, _Teleportation Circle_"
 
   - name: "Blood Magic"
     desc: "  Each time Belcorra casts a sorcerer bloodline spell or an aberrant bloodline granted spell, she can grant herself or a target of the spell a +2 status bonus to Will saving throws for 1 round.\n\n[[Bestiary Effects/Effect_ Blood Magic|Effect: Blood Magic]]"

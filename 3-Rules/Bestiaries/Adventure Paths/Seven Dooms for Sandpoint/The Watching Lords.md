@@ -43,7 +43,7 @@ attacks:
   - name: ""
 
   - name: "Conjure the Guardians"
-    desc: "`pf2:r` **Trigger** A non-chaotic-evil creature approaches within 20 feet of the doors to area **G4**\n* * *\n\n**Effect** The statues appear to hiss and growl, and a moment later, four [[Bestiary 3/Brimorak|Brimorak]] demons appear in the hallway—two near the entrance to area **G1**, and two near the entrance to area **G4**. The four demons attack at once, rolling initiative as normal. They fight to the death, but vanish after 1 minute has passed."
+    desc: "`pf2:r` **Trigger** A non-chaotic-evil creature approaches within 20 feet of the doors to area **G4**\n* * *\n\n**Effect** The statues appear to hiss and growl, and a moment later, four [[Monster Core/Brimorak|Brimorak]] demons appear in the hallway—two near the entrance to area **G1**, and two near the entrance to area **G4**. The four demons attack at once, rolling initiative as normal. They fight to the death, but vanish after 1 minute has passed."
 
 
   - name: "Reset"

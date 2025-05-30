@@ -62,17 +62,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stylet +19 ()\n__Damage__  3d8 + 6 piercing 1d8 bleed"
+  - name: "**Melee** `pf2:1` Stylet"
+    desc: "+19 ()\n__Damage__  3d8 + 6 piercing 1d8 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +19 (agile, reach 10 feet)\n__Damage__  3d6 + 6 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+19 (agile, reach 10 feet)\n__Damage__  3d6 + 6 slashing plus grab"
 
   - name: "Vacuum Mouth"
-    desc: "`pf2:2`  **Requirements** The giant tardigrade doesn't have a target [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The giant tardigrade draws in air with its mouth. All creatures in a @Template[cone|distance:20] must succeed at a DC 25 Reflex check save or be pulled adjacent to the giant tardigrade. The tardigrade chooses one creature that failed its save, Grabbing the target in its claws and making a stylet Strike."
+    desc: "`pf2:2`  **Requirements** The giant tardigrade doesn't have a target [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The giant tardigrade draws in air with its mouth. All creatures in a 20-foot cone must succeed at a DC 25 Reflex check save or be pulled adjacent to the giant tardigrade. The tardigrade chooses one creature that failed its save, Grabbing the target in its claws and making a stylet Strike."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

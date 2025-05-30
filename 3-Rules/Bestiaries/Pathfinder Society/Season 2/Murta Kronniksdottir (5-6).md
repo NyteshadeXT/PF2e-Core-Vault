@@ -56,16 +56,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Maul +16 (shove)\n__Damage__  2d12 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Maul"
+    desc: "+16 (shove)\n__Damage__  2d12 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +13 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+13 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Rage"
     desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** Murta isn't fatigued or raging\n* * *\n\n**Effect** Murta gains 9 temporary Hit Points that last until the rage ends. While raging, she deals 8 additional damage with melee attacks, gains a +10- foot status bonus to her Speed, and takes a -1 penalty to AC. Murta can't use concentrate actions except Seek and rage actions. The rage lasts for 1 minute, until there are no enemies she can perceive, or until she falls unconscious.\n\nOnce the rage ends, Murta can't again for 1 minute."

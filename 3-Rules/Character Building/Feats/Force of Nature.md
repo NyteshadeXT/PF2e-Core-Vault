@@ -24,5 +24,7 @@ license: ORC
 * * *
 You're a nigh-unstoppable killing machine, with only silver able to quell your rampage. When in hybrid or animal shape, you gain fast healing 5. If you take damage from a silver weapon, your fast healing deactivates until the end of your next turn.
 
+[[Feat_Feature Effects/Effect_ Force of Nature (Silver Damage)|Effect: Force of Nature (Silver Damage)]]
+
 *Source: Pathfinder Howl of the Wild*
 *ORC*

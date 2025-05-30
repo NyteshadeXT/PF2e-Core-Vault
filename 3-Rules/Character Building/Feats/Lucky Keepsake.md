@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Leshy Superstition
 * * *
-You have a [[3-Rules/Character Building/Equipment/L/Lucky Keepsake|Keepsake]] that grants you luck. You gain a +1 circumstance bonus to saves against spells and magical effects at all times, not just when you use [[Feats/Leshy Superstition|Leshy Superstition]]. If you lose the keepsake, you lose the bonus until you designate a new keepsake, typically over the course of a week.
+You have a [[Equipment/Lucky Keepsake|Keepsake]] that grants you luck. You gain a +1 circumstance bonus to saves against spells and magical effects at all times, not just when you use [[Feats/Leshy Superstition|Leshy Superstition]]. If you lose the keepsake, you lose the bonus until you designate a new keepsake, typically over the course of a week.
 
 *Source: Pathfinder Player Core*
 *ORC*

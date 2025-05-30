@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Naturalist"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.0FwLrQb5EeQDAUNW"
 license: OGL
 ---
 # Naturalist
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +18 ()\n__Damage__  2d10 + 10 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+18 ()\n__Damage__  2d10 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile, finesse)\n__Damage__  2d6 + 8 slashing plus improved-grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, finesse)\n__Damage__  2d6 + 8 slashing plus improved-grab"
 
   - name: "Four-Clawed Maul"
     desc: "`pf2:2`  The afneith makes four claw Strikes, each with a -2 penalty, against a creature it has [[Conditions/Grabbed|Grabbed]].\n\nThese Strikes count toward the afneith's multiple attack penalty, but the penalty doesn't increase until after all of these attacks."

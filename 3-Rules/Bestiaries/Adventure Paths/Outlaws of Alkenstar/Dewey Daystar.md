@@ -59,16 +59,16 @@ abilities_mid:
     desc: "  A cactus leshy is covered in spines. A creature that Grabs the cactus leshy takes 1d8+3 piercing damage."
 
   - name: "Verdant Burst"
-    desc: "  When Dewey Daystar dies, a burst of primal energy explodes from his body, restoring 2d8 Hit Points to each plant creature in a @Template[emanation|distance:30]. This area fills with cacti, becoming difficult terrain. If the terrain is not a viable environment for the cacti, they wither after 24 hours."
+    desc: "  When Dewey Daystar dies, a burst of primal energy explodes from his body, restoring 2d8 healing to each plant creature in a 30-foot emanation. This area fills with cacti, becoming difficult terrain. If the terrain is not a viable environment for the cacti, they wither after 24 hours."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spine +8 (finesse, unarmed)\n__Damage__  1d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Spine"
+    desc: "+8 (finesse, unarmed)\n__Damage__  1d8 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spine +8 (range increment 20 feet, unarmed)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Spine"
+    desc: "+8 (range increment 20 feet, unarmed)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Runic Body|Magic Fang]]_\n__Cantrips__  __(1st)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

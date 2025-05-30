@@ -28,5 +28,5 @@ license: ORC
 
 You react to harm by flowing into an elemental stance with new advantages. You [[Actions/Cycle Elemental Stance|Cycle Elemental Stance]] and gain a +2 circumstance bonus to AC until the end of your next turn.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

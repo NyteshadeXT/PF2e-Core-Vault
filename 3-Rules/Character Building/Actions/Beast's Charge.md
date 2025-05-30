@@ -4,7 +4,7 @@ title: "Beast's Charge"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/eidolon
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.cx0juTYewwBmrYWv"
 license: OGL

@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +28 (agile, magical)\n__Damage__  3d10 + 13 slashing plus improved-grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+28 (agile, magical, unarmed)\n__Damage__  3d10 + 13 slashing plus improved-grab"
 
   - name: "Innate Occult Spells"
     desc: "DC 35, attack +27; __5th __ (2 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Shadow Blast|Shadow Blast]]_"
@@ -70,6 +70,9 @@ attacks:
 
   - name: "Pounce"
     desc: "`pf2:1`  Grandfather Mantis Strides, then Strikes."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

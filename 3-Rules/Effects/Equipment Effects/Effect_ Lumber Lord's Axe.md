@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Lumber Lord's Axe|Lumber Lord's Axe]]
+Granted by [[Equipment/Lumber Lord's Axe|Lumber Lord's Axe]]
 
 The _lumber lord's axe's_ blade transforms into your choice of standard-grade adamantine or standard-grade dawnsilver.
 

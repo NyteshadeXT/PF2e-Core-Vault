@@ -17,7 +17,7 @@ license: ORC
 
 
 
-The creature takes a -10-foot penalty to its Speeds.
+You take a penalty to your Speeds.
 
 *Source: Pathfinder Monster Core*
 *ORC*

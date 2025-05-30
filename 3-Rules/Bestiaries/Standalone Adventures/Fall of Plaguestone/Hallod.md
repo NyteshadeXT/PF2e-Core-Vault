@@ -60,14 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +12 (agile, trip)\n__Damage__  1d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+12 (agile, trip)\n__Damage__  1d6 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +11 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+11 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heavy Crossbow +10 (range increment 120 feet, reload 2)\n__Damage__  1d10 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Heavy Crossbow"
+    desc: "+10 (range increment 120 feet, reload 2)\n__Damage__  1d10 + 2 piercing"
+
+  - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Dirty Trick"
     desc: "  **Trigger** Hallod scores a critical hit with a melee attack.\n* * *\n\n**Effect** Hallod can attempt an Athletics check to [[Actions/Shove|Shove]] or [[Actions/Trip|Trip]] the target of his attack. This uses the same multiple attack penalty as the attack, but it does not count as an additional attack for that penalty"

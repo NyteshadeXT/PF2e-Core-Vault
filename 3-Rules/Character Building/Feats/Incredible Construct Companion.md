@@ -6,8 +6,9 @@ tags:
   - trait/inventor
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.58LYCoLrCzG2Ll8b"
-license: OGL
+license: ORC
 ---
 # Incredible Construct Companion
 ## Feat 8
@@ -22,4 +23,4 @@ license: OGL
 Thanks to your continual tinkering, your construct companion has advanced to an astounding new stage of engineering, enhancing all its attributes. Your construct companion becomes an incredible construct companion.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

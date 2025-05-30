@@ -8,10 +8,11 @@ tags:
   - mechanical
   - pf2eHazard
   - complex
+  - remaster
 source: Pathfinder Guns &amp; Gears
 aliases: "Compendium.pf2e.hazards.Actor.4jAJh3cTLIgkqtou" 
 level: 14
-license: OGL
+license: ORC
 statblock: inline
 ---
 

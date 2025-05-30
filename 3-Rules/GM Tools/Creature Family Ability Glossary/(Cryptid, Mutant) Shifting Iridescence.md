@@ -4,7 +4,7 @@ title: "(Cryptid, Mutant) Shifting Iridescence"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/magical
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.ZUxt6s54TMgydXoW"
 license: OGL

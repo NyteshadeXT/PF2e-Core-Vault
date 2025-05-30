@@ -54,13 +54,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +17 (forceful, magical, sweep)\n__Damage__  1d6 fire 2d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+17 (forceful, magical, sweep)\n__Damage__  1d6 fire 2d6 + 10 slashing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 25, attack +17; __5th __  _[[Spells/Blink Charge|Blink Charge]]_, _[[Spells/Flame Strike|Flame Strike]]_; __4th __  _[[Spells/Radiant Beam|Radiant Beam]]_; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Heroism|Heroism]]_, _[[Spells/Holy Light|Holy Light]]_; __2nd __  _[[Spells/See the Unseen|See the Unseen]]_, _[[Spells/Status|Status]]_, _[[Spells/Warrior's Regret|Warrior's Regret]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Bless|Bless]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(5th)__ _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Haunting Hymn|Haunting Hymn]]_, _[[Spells/Vitality Lash|Vitality Lash]]_"

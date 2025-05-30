@@ -21,5 +21,5 @@ license: OGL
 * * *
 The venom injected by your fangs disorients your foes. A creature damaged by your [[Actions/Anadi Venom|Anadi Venom]] must attempt a Fortitude check save against your class or spell DC, whichever is higher, or become [[Conditions/Off-Guard|Off-Guard]] for 1 round.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

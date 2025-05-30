@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.RHEdvEFz3QKiRKlr"
-license: OGL
+license: ORC
 ---
 # Topple Giants
 ## Feat 8
@@ -26,4 +27,4 @@ When an ally within your overwatch field attempts to [[Actions/Disarm|Disarm]], 
 [[Feat_Feature Effects/Effect_ Topple Giants|Effect: Topple Giants]]
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

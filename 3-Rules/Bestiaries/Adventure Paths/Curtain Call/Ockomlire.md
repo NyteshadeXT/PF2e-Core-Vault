@@ -52,13 +52,16 @@ abilities_top:
   - name: "Emotion Vulnerability"
     desc: "  If an ockomlire fails a saving throw against an emotion effect, they loses their resistance to mental damage and gains an equal amount of weakness to mental damage (weakness to mental 15 for the typical ockomlire) until the end of their next turn.\n\n[[Bestiary Effects/Effect_ Emotion Vulnerability|Effect: Emotion Vulnerability]]"
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +27 (forceful)\n__Damage__  3d10 + 14 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+27 (forceful, unarmed)\n__Damage__  3d10 + 14 piercing plus improved-grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Calm|Calm (At Will)]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_"
@@ -67,7 +70,10 @@ attacks:
     desc: "`pf2:2` (occult) The ockomlire attempts to devour a spell effect from a creature they've [[Conditions/Grabbed|Grabbed]]. To successfully do so, they must counteract that effect with an Occultism check. If the spell effect is an emotion effect, the ockomlire gains a +2 circumstance bonus to this check.\n* * *\n\n**Critical Success** The spell is countered, the ockomlire gains temporary Hit Points equal to twice the spell's rank for 1 minute, and the grabbed creature becomes [[Conditions/Stupefied|Stupefied 2]] for 1 minute.\n\n**Success** As success but [[Conditions/Stupefied|Stupefied 1]].\n\n**Critical Failure** The attempt backfires, and the ockomlire becomes overwhelmed; their emotion vulnerability becomes active until the end of their turn."
 
   - name: "Haze of Despair"
-    desc: "`pf2:2` (emotion,mental,occult) **Requirements** The ockomlire has temporary hit points gained from Devour Magic\n* * *\n\n**Effect** s The ockomlire digests the magic and releases mist that stings the eyes and heart alike. The ockomlire loses any temporary Hit Points they have and all non-ockomlire creatures in a @Template[emanation|distance:30] take 9d10 mental damage (DC 33 Will check save)."
+    desc: "`pf2:2` (emotion,mental,occult) **Requirements** The ockomlire has temporary hit points gained from Devour Magic\n* * *\n\n**Effect** s The ockomlire digests the magic and releases mist that stings the eyes and heart alike. The ockomlire loses any temporary Hit Points they have and all non-ockomlire creatures in a 30-foot emanation take 9d10 mental damage (DC 33 Will check save)."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

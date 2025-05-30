@@ -40,5 +40,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "**Area** 10-foot radius, 60-foot-tall cylinder\n* * *\n\nYou inundate the area with concentrated vitality energy, which scours away the stain of undeath. Each creature in the area takes 6d8 vitality damage and must attempt a basic Reflex save. Creatures that fail the save also take 1d8 persistent vitality damage. Creatures that take persistent vitality damage from scouring pulse are wreathed in a heatless halo of light. They emit bright light in a 5-foot radius preventing them from being [[Conditions/Concealed|Concealed]]; if the creature is [[Conditions/Invisible|Invisible]], they're concealed while affected by scouring pulse, rather than being undetected.\n* * *\n\n**Heightened (8th)** The vitality damage increases to 9d8 damage, and the persistent vitality damage increases to 2d8 persistent vitality damage. Creatures remain suffused in light for 1d4 additional rounds after removing the persistent vitality damage."
-sourcebook: "_Pathfinder Lost Omens: Knights of Lastwall_"
+sourcebook: "_Pathfinder Lost Omens Knights of Lastwall_"
 ```

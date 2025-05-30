@@ -62,17 +62,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Adamantine Bite +23 (adamantine, reach 10 feet)\n__Damage__  2d12 + 12 piercing plus devour-metal"
+  - name: "**Melee** `pf2:1` Adamantine Bite"
+    desc: "+23 (adamantine, reach 10 feet)\n__Damage__  2d12 + 12 piercing plus devour-metal"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile)\n__Damage__  2d6 + 12 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, unarmed)\n__Damage__  2d6 + 12 slashing"
 
   - name: "Devour Metal"
     desc: "  Any time the oregorger scores a critical hit with an adamantine bite attack, it deals the same amount of damage to any metal armor worn by the target, automatically bypassing any Hardness lower than 10. If a creature uses the Shield Block reaction with a metal shield against an oregorger's adamantine bite, the shield is automatically broken, but no other item takes damage from that attack. Unattended metal items automatically take full damage from an oregorger's adamantine bite attack, ignoring their Hardness if it's lower than 10."
 
   - name: "Searing Spew"
-    desc: "`pf2:2` (acid) The oregorger belches forth a cloud of caustic, rusted debris from its maw, filling a cube adjacent to itself that's @Template[line|distance:10|width:10] feet on each side. Any creature in this area takes 6d6 acid + 6d6 slashing damage (DC 30 Reflex check). The ground under the cloud is difficult terrain for 1 hour, after which the shrapnel crumbles to dust.\n\nThe oregorger can't use Searing Spew again for 1d4 rounds, but the ability recharges if the oregorger damages an item with devour metal."
+    desc: "`pf2:2` (acid) The oregorger belches forth a cloud of caustic, rusted debris from its maw, filling a cube adjacent to itself that's 10-foot line feet on each side. Any creature in this area takes 6d6 acid + 6d6 slashing damage (DC 30 Reflex check). The ground under the cloud is difficult terrain for 1 hour, after which the shrapnel crumbles to dust.\n\nThe oregorger can't use Searing Spew again for 1d4 rounds, but the ability recharges if the oregorger damages an item with devour metal."
  
 ```
 

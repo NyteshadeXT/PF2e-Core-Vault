@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Summon Healing Servitor|Summon Healing Servitor]]
+Granted by [[Spells/Summon Healing Servitor|Summon Healing Servitor]]
 
-All allies within 20 feet of the Servitor gain temporary Hit Points until the servitor departs.
+You gain temporary Hit Points.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

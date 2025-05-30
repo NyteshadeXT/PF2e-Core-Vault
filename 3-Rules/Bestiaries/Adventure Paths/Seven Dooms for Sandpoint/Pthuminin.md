@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Thoughtsense 60 feet"
     desc: " (mental,occult) The gosreg senses a creature's mental essence as a precise sense with the listed range; it cannot sense mindless creatures with thoughtsense."
 
@@ -63,17 +66,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 (finesse)\n__Damage__  2d10 + 7 piercing 1d10 mental"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (finesse, unarmed)\n__Damage__  2d10 + 7 piercing 1d10 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (agile, finesse)\n__Damage__  2d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (agile, finesse, unarmed)\n__Damage__  2d8 + 7 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 30, attack +22; __6th __  _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Phantom Pain|Phantom Pain]]_; __5th __  _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Sending|Sending]]_, _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_; __4th __  _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Suggestion|Suggestion (x3)]]_; __2nd __  _[[Compendium.pf2e.spells-srd.Item.FzAtX8yXBjTaisJK|Undetectable Alignment]]_\n__Cantrips__  __(6th)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The gosreg takes on the appearance of any Small or Medium humanoid. This doesn't change its Speed or its attack and damage modifiers with its Strikes, but it might change the damage type its Strikes deal (typically to bludgeoning).\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The gosreg takes on the appearance of any Small or Medium humanoid. This doesn't change its Speed or its attack and damage modifiers with its Strikes, but it might change the damage type its Strikes deal (typically to bludgeoning).\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Mind Bolt"
     desc: "`pf2:2` (illusion,mental,occult) A gosreg concentrates its field of discordant mental energy and projects it into the mind of an enemy within 60 feet. The target takes 6d6 mental damage (DC 30 Will check save). On a critical failure, the creature is also [[Conditions/Confused|Confused]] for 1d4 rounds."

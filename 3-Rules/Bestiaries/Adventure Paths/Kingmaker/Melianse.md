@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile, finesse)\n__Damage__  2d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, finesse, unarmed)\n__Damage__  2d6 + 5 slashing"
 
   - name: "Primal Spontaneous Spells"
     desc: "DC 22, attack +14; __3rd __ (4 slots) _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Mist|Obscuring Mist]]_, _[[Spells/Web|Web]]_; __1st __ (4 slots) _[[Spells/Goblin Pox|Goblin Pox]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Spider Sting|Spider Sting]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
@@ -68,7 +68,7 @@ attacks:
     desc: "DC 22, attack +14; __2nd __  _[[Spells/Water Breathing|Water Breathing]]_; __1st __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Inveigle|Inveigle]]_"
+    desc: "_Inveigle_"
 
   - name: "Grant Desire"
     desc: "`pf2:3` (primal) **Frequency** once per day\n\n**Effect** Melianse can duplicate any 3rd-rank spell or produce any effect with a power level in line with a 3rd-rank spell, but only in response to the request or desire of a non-fey creature. The creature whose desire is granted can never again benefit from Melianse's Grant Desire ability."

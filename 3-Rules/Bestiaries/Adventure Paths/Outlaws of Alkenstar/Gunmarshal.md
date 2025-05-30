@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +11 (agile, finesse, versatile s)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+11 (agile, finesse, versatile s)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flintlock Musket +11 (concussive, fatal d10, range increment 70 feet, reload 1)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Flintlock Musket"
+    desc: "+11 (concussive, fatal d10, range increment 70 feet, reload 1)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Firearms Critical Specialization"
     desc: "  When the gunmarshal makes a critical hit with a firearm, the target must succeed at a DC 18 Fortitude check save or be [[Conditions/Stunned|Stunned 1]]."

@@ -20,5 +20,5 @@ license: OGL
 
 You have mastered how to hunt with your pack. If an enemy is within reach of you and at least two of your allies, that enemy is off-guard against you.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

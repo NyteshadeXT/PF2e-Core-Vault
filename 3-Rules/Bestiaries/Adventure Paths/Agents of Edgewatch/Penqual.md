@@ -56,11 +56,20 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Easy to Call"
     desc: "  The sahkil is considered 2 levels lower for the purposes of being summoned by rituals (such as [[Spells/Binding Circle|Binding Circle]]), but is always free to attack or leave instead of negotiate unless the primary caster's check is a critical success."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Swarm Mind|Swarm Mind]]"
+    desc: "  This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
+
   - name: "Crowded Mob"
     desc: "  The penqual is a swarm of Medium figures that can squeeze supernaturally close to other creatures. Though its component creatures are larger than those of a typical swarm, a penqual can nevertheless share the spaces of other creatures."
 

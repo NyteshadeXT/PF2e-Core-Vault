@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[3-Rules/Character Building/Equipment/A/Assassin Vine Wine|Assassin Vine Wine]] and [[3-Rules/Character Building/Equipment/A/Aged Assassin Vine Wine|Aged Assassin Vine Wine]]
+Granted by [[Equipment/Assassin Vine Wine|Assassin Vine Wine]] and [[Equipment/Aged Assassin Vine Wine|Aged Assassin Vine Wine]]
 
 You gain tremorsense at a range of 30 feet
 

@@ -20,7 +20,7 @@ license: ORC
 
 
 
-You can add the full ingredients of a second elixir to an elixir you make to create a hybrid concoction. You must expend an additional versatile vial to make this combined elixir, and the ingredients must be for an elixir you could create with [[Actions/Quick Alchemy|Quick Alchemy]]. When this combination elixir is consumed, both the constituent elixirs take effect. For example, you can combine two [[Elixir of Life (Lesser)|Lesser Elixirs of Life]] to create a combined elixir that heals twice the normal amount, or you can combine a [[Darkvision Elixir (Lesser)|Lesser Darkvision Elixir]] with a [[Eagle Eye Elixir (Lesser)|Lesser Eagle-Eye Elixir]] to both gain darkvision and find secret doors.
+You can add the full ingredients of a second elixir to an elixir you make to create a hybrid concoction. You must expend an additional versatile vial to make this combined elixir, and the ingredients must be for an elixir you could create with [[Actions/Quick Alchemy|Quick Alchemy]]. When this combination elixir is consumed, both the constituent elixirs take effect. For example, you can combine two [[Equipment/Elixir of Life (Lesser)|Lesser Elixirs of Life]] to create a combined elixir that heals twice the normal amount, or you can combine a [[Equipment/Darkvision Elixir (Lesser)|Lesser Darkvision Elixir]] with a [[Equipment/Eagle Eye Elixir (Lesser)|Lesser Eagle-Eye Elixir]] to both gain darkvision and find secret doors.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -13,7 +13,7 @@ license: OGL
 ---
 # High-Speed Regeneration `pf2:0`
 ## Feat 6
-### [rare](rare.md "Rare Rarity Trait")[[deviant]][[healing]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[deviant]][[healing]][[magical]]
 
 **Category** class; 
 

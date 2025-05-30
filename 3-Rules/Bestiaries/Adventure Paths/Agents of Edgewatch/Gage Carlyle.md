@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +22 (agile, finesse, magical, thrown 10 ft., versatile s)\n__Damage__  3d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+22 (agile, finesse, magical, thrown 10 ft., versatile s)\n__Damage__  3d4 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +22 (magical, range increment 60 feet, reload 1)\n__Damage__  3d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+22 (magical, range increment 60 feet, reload 1)\n__Damage__  3d6 piercing"
 
   - name: "Charming Liar"
     desc: "  When Gage gets a critical success using the [[Actions/Lie|Lie]] action, the target's attitude toward him improves by one step, as though he'd succeeded at using Diplomacy to [[Actions/Make an Impression|Make an Impression]].\n\nThis works only once per conversation, and if he critically succeeds against multiple targets using the same result, he chooses one creature's attitude to improve.\n\nTo use this ability, Gage must be lying to impart seemingly important information, inflate his status, or ingratiate himself, which trivial or irrelevant lies can't achieve."

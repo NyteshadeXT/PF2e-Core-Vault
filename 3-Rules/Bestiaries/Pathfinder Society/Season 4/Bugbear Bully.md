@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatclub +10 (backswing, shove)\n__Damage__  1d10 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Greatclub"
+    desc: "+10 (backswing, shove)\n__Damage__  1d10 + 7 bludgeoning"
 
   - name: "Brute Force"
     desc: "`pf2:2`  The bugbear bully strides up to half its speed and then attempts to either [[Action Macros/Shove_ Athletics|Shove: Athletics]] or [[Action Macros/Trip_ Athletics|Trip: Athletics]] a creature. If they critically fail, they treat the result as a failure."

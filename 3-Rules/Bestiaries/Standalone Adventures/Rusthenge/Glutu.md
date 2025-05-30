@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +11 (disarm, finesse, nonlethal, reach 10 feet, trip)\n__Damage__  1d4 + 6 slashing"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+11 (disarm, finesse, nonlethal, reach 10 feet, trip)\n__Damage__  1d4 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +10 (reach 10 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+10 (reach 10 feet)\n__Damage__ "
 
   - name: "Divine Prepared Spells"
     desc: "DC 21, attack +11; __2nd __  _[[Spells/Noise Blast|Sound Burst]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(2nd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
@@ -78,7 +78,7 @@ attacks:
     desc: "  A boggard swampseer ignores difficult terrain caused by swamp terrain features."
 
   - name: "Terrifying Croak"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The boggard swampseer unleashes a terrifying croak. Any non-boggard within @Template[emanation|distance:30] becomes [[Conditions/Frightened|Frightened 1]] unless they succeed at a DC 19 Will check save.\n\nThose who critically succeed are temporarily immune for 1 minute."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The boggard swampseer unleashes a terrifying croak. Any non-boggard within 30-foot emanation becomes [[Conditions/Frightened|Frightened 1]] unless they succeed at a DC 19 Will check save.\n\nThose who critically succeed are temporarily immune for 1 minute."
 
   - name: "Tongue Grab"
     desc: "  If the boggard swampseer hits a creature with its tongue, that creature becomes [[Conditions/Grabbed|Grabbed]] by the boggard. Unlike with a normal grab, the creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the boggard's tongue.\n\nA creature can sever the tongue by hitting AC 15 and dealing at least 4 slashing damage. Though this doesn't deal any damage to the boggard, it prevents it from using its tongue Strike until it regrows its tongue, which takes a week."

@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Katar +10 (agile, deadly d6, finesse, monk)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Katar"
+    desc: "+10 (agile, deadly d6, finesse, monk)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +8 (agile, finesse)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+8 (agile, finesse)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +10 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+10 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
 
   - name: "Cheek Pouches"
     desc: "  A ratfolk has stretchy cheek pouches that can store up to 1 cubic foot of objects. The ratfolk can remove or store an item using the Interact action. As long as the ratfolk has at least one object in its cheek pouches, its speech is noticeably difficult to understand."

@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Your affinity for void energy spills outward and grants you a refilling well of necromantic essence. Once per hour, you can cast [[Harm|Harm]] as a 6th-rank divine innate spell.
+Your affinity for void energy spills outward and grants you a refilling well of necromantic essence. Once per hour, you can cast [[Spells/Harm|Harm]] as a 6th-rank divine innate spell.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

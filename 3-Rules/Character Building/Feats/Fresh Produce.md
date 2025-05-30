@@ -18,7 +18,7 @@ license: OGL
 ---
 # Fresh Produce `pf2:1`
 ## Feat 1
-### [[healing]][[impulse]][[kineticist]][[plant]][[primal]][[vitality]][[Wood]]
+### [[healing]][[impulse]][[kineticist]][[plant]][[primal]][[vitality]][[wood]]
 
 **Category** class; 
 

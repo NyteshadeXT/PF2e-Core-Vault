@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/mental
   - trait/occult
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.5LW1k5DUkzbbYuYL"
 license: OGL
 ---
 # Daydream Trance `pf2:1`
 
-### [[3-Rules/Rule References/Mental]][[3-Rules/Rule References/Occult]]
+### [[mental]][[occult]]
 
 **Category** interaction; 
 

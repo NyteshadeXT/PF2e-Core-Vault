@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Wyrm Claw|Wyrm Claw]]
+Granted by [[Equipment/Wyrm Claw|Wyrm Claw]], [[Equipment/Wyrm Claw (Greater)|Wyrm Claw (Greater)]], [[Equipment/Wyrm Claw (Major)|Wyrm Claw (Major)]]
 
-After you cast a conjuration spell by activating the _wyrm claw_, you gain resistance 5 to acid, cold, electricity, and fire for the next minute.
+You gain resistance to acid, cold, electricity, and fire.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

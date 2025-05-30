@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +7 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+7 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
 
   - name: "Gang Up"
     desc: "  Any enemy is [[Conditions/Off-Guard|Off-Guard]] against the tough robber's melee attacks due to flanking as long as the enemy is within melee reach of both the tough robber and one of the tough robber's allies."

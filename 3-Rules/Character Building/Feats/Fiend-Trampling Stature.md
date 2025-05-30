@@ -21,5 +21,5 @@ license: ORC
 
 Fiends unfortunate enough to be trampled beneath your feet or rent within your grasp are swiftly granulated into bone kindling and blood powder, and the pain of your strikes prevents them from action. Whenever you critically hit a creature that's [[Conditions/Prone|Prone]], [[Conditions/Grabbed|Grabbed]], or [[Conditions/Restrained|Restrained]], it can't use reactions for 1 round.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

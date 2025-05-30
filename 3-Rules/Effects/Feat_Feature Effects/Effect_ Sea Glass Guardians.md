@@ -17,7 +17,9 @@ license: OGL
 
 
 
-The creature gains a +1 status bonus to AC and saving throws.
+Granted by [[Feats/Sea Glass Guardians|Sea Glass Guardians]]
+
+You gain a +1 status bonus to AC and saving throws.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

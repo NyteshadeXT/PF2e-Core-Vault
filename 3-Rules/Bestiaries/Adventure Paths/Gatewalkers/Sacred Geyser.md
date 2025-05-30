@@ -45,7 +45,7 @@ attacks:
   - name: ""
 
   - name: "Sacred Geyser"
-    desc: "`pf2:r` **Trigger** A creature dips a vessel or otherwise attempts to remove water from the oasis\n* * *\n\n**Effect** A jet of magical boiling water targets the triggering creature and affects all creatures within 5 feet of the target. Creatures caught in the burst take 2d10+13 fire (basic DC 23 Reflex check save)."
+    desc: "`pf2:r` **Trigger** A creature dips a vessel or otherwise attempts to remove water from the oasis\n* * *\n\n**Effect** A jet of magical boiling water targets the triggering creature and affects all creatures within 5 feet of the target. Creatures caught in the burst take 2d10+13 fire (DC 23 Reflex check save)."
 
 
   - name: "Reset"

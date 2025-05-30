@@ -18,6 +18,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/PZO90186 INTELLECT ASSEMBLAGE.webp| ]]
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Intellect Assemblage"
 level: "Creature 19"
@@ -48,8 +49,17 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Bardic Lore"
     desc: "  Intellect assemblages are created from the thoughts and memories of hundreds of individuals, providing them a near limitless collection of data to pull from. Intellect assemblages have access to Bardic Lore, a special Lore skill allowing them to Recall Knowledge on any topic."
+
+  - name: "[[Bestiary Ability Glossary/Thoughtsense|Thoughtsense 100 feet]]"
+    desc: " (mental,occult) Thoughtsense allows a monster to sense all non-mindless creatures at the listed range."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
 
 abilities_mid:
   - name: ""
@@ -62,11 +72,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +36 (magical)\n__Damage__  3d8 + 18 piercing plus invasive-thoughts 2d8 mental plus invasive-thoughts"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+36 (magical, unarmed)\n__Damage__  3d8 + 18 piercing plus invasive-thoughts 2d8 mental plus invasive-thoughts"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Memory Shard +31 (magical, range increment 60 feet)\n__Damage__  2d8 + 13 piercing plus invasive-thoughts 2d8 mental plus invasive-thoughts"
+  - name: "**Ranged** `pf2:1` Memory Shard"
+    desc: "+31 (magical, range increment 60 feet)\n__Damage__  2d8 + 13 piercing plus invasive-thoughts 2d8 mental plus invasive-thoughts"
 
   - name: "Occult Innate Spells"
     desc: "DC 41, attack +33; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_, _[[Spells/Oneiric Mire|Oneiric Mire]]_; __2nd __  _[[Spells/Blur|Blur]]_\n__Cantrips__  __(10th)__ _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_\n__Constant__  __(7th)__ _[[Spells/Truespeech|Tongues]]_"

@@ -18,7 +18,7 @@ license: OGL
 
 Granted by [[Feats/Guide the Timeline|Guide the Timeline]]
 
-Choose an ally or a foe. If you choose an ally, the next time within the next round that ally makes an attack roll or skill check, they roll it twice and take the higher result. If you choose a foe, the next time within the next round that foe makes an attack roll or skill check, they must roll twice and take the lower result.
+If you are an ally, the next time you make an attack roll or skill check, roll it twice and take the higher result. If you are a foe, the next time you make an attack roll or skill check, you must roll twice and take the lower result.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

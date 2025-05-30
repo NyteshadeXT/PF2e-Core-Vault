@@ -63,20 +63,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +14 (agile, finesse, versatile s)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+14 (agile, finesse, versatile s)\n__Damage__  1d4 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +14 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+14 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +14 (magical, range increment 60 feet, reload 1)\n__Damage__  2d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+14 (magical, range increment 60 feet, reload 1)\n__Damage__  2d6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Frost Vial (Moderate) +14 (range increment 30 feet)\n__Damage__  2d6 cold 2 cold"
+  - name: "**Ranged** `pf2:1` Frost Vial (Moderate)"
+    desc: "+14 (range increment 30 feet)\n__Damage__  2d6 cold 2 cold"
 
   - name: "Foul Concoction"
-    desc: "`pf2:2` (manipulate,poison) **Frequency** once per day\n* * *\n\n**Effect** Aliver quickly mixes alchemical catalysts and materials together, creating a burst of foul-smelling smoke that fills a @Template[emanation|distance:10]. The cloud functions as [[Spells/Stinking Cloud|Stinking Cloud]] (DC 25 Fortitude check) except that Aliver is immune to the putrid stench created by the concoction."
+    desc: "`pf2:2` (manipulate,poison) **Frequency** once per day\n* * *\n\n**Effect** Aliver quickly mixes alchemical catalysts and materials together, creating a burst of foul-smelling smoke that fills a 10-foot emanation. The cloud functions as [[Spells/Stinking Cloud|Stinking Cloud]] (DC 25 Fortitude check) except that Aliver is immune to the putrid stench created by the concoction."
 
   - name: "Precise Poisoning"
     desc: "`pf2:2`  Aliver applies a dose of poison (typically a dose of [[Equipment/Giant Wasp Venom|Giant Wasp Venom]]) to a bolt on his crossbow, then takes careful aim with the poisoned bolt and attempts a ranged Strike with his hand crossbow. If he hits, he inflicts an additional 1d6 piercing damage with the bolt as well as the poison effect."

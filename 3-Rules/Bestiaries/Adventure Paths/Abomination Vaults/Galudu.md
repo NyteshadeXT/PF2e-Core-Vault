@@ -53,10 +53,13 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Dagger|Dagger]], [[Equipment/Wand of Continuation (4th-Rank Spell)|Wand of Continuation (4th-Rank Spell)]]"
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 abilities_mid:
   - name: ""
   - name: "Death Motes"
-    desc: " (force,light) When Galudu dies, her body explodes into brilliant motes of magical energy. All creatures in a @Template[burst|distance:20] take 12d6 force damage (DC 30 Reflex check save). Galudu's gear is unaffected by the explosion and is left in a pile where she died."
+    desc: " (force,light) When Galudu dies, her body explodes into brilliant motes of magical energy. All creatures in a 20-foot burst take 12d6 force damage (DC 30 Reflex check save). Galudu's gear is unaffected by the explosion and is left in a pile where she died."
 
   - name: "Opportune Step"
     desc: "`pf2:r`  **Trigger** A dazzled or blinded creature, or a creature with light blindness, ends its move adjacent to Galudu\n* * *\n\n**Effect** Galudu Steps."
@@ -64,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +22 (agile, finesse, versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+22 (agile, finesse, versatile s)\n__Damage__  1d4 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +22 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+22 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 30, attack +22; __6th __  _[[Spells/Dominate|Dominate]]_, _[[Spells/Mislead|Mislead]]_, _[[Spells/Repulsion|Repulsion]]_; __5th __  _[[Spells/Banishment|Banishment]]_, _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Cone of Cold|Cone of Cold]]_; __4th __  _[[Spells/Dispelling Globe|Globe of Invulnerability]]_, _[[Compendium.pf2e.spells-srd.Item.hkfH9Z53hPzcOwNB|Veil]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Rune Trap|Glyph of Warding]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_; __2nd __  _[[Spells/Create Food|Create Food]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Alarm|Alarm]]_, _[[Spells/Create Water|Create Water]]_\n__Cantrips__  __(6th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Message|Message]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
@@ -80,7 +83,7 @@ attacks:
     desc: "  Galudu deals an additional 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Survivor's Nourishment"
-    desc: " (healing) A creature that eats food conjured by Galudu's create food spell regains 4d4 Hit Points. A creature can only benefit from this healing once per week."
+    desc: " (healing) A creature that eats food conjured by Galudu's create food spell regains 4d4 healing Hit Points. A creature can only benefit from this healing once per week."
  
 ```
 

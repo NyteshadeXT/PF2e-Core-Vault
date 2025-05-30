@@ -35,7 +35,7 @@ perception:
 languages: "Common, Fey; can&#x27;t speak any language; communicates via sign language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +9, Crafting: +9, Society: +9, Stealth: +11, Thievery: +13, Acrobatics: +10, Athletics: +9, Crafting: +9, Society: +9, Stealth: +11, Thievery: +13"
+    desc: "Acrobatics: +10, Athletics: +9, Crafting: +9, Society: +9, Stealth: +11, Thievery: +13"
 abilityMods: [1, 4, 1, 1, 3, 3]
 speed: 20 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vine +12 (agile, finesse)\n__Damage__  1d8 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Vine"
+    desc: "+12 (agile, finesse)\n__Damage__  1d8 + 4 bludgeoning"
 
   - name: "Clever Vines"
     desc: "`pf2:2`  The keyweed Strides up to once, and it then shapes itself into a suitable tool and [[Actions/Disable a Device|Disables a Device]] or [[Actions/Pick a Lock|Picks a Lock]]. It has an expert proficiency in Thievery for the purpose of determining what hazards it can disable, and it has an expert proficiency in Perception for the purpose of determining what hazard it can detect."

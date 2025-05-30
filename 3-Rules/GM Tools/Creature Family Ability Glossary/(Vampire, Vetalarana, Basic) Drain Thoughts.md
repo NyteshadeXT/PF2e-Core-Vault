@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/mental
   - trait/occult
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.EpDyZ0mG9beLkBna"
 license: OGL
 ---
 # (Vampire, Vetalarana, Basic) Drain Thoughts `pf2:1`
 
-### [[3-Rules/trait_reference/M/mental]][[occult]]
+### [[mental]][[occult]]
 
 **Category** offensive; 
 

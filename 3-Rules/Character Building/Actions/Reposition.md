@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You muscle a creature or object around. Attempt an Athletics check against the target's Fortitude DC.
+You muscle a creature or object around. Attempt an [[Actions/reposition|reposition]]{Athletics} check against the target's Fortitude DC.
 
 * * *
 

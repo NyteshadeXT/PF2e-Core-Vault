@@ -61,14 +61,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +17 (reach 10 feet)\n__Damage__  2d10 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+17 (reach 10 feet, unarmed)\n__Damage__  2d10 + 9 bludgeoning"
 
   - name: "Corpse Throwing"
-    desc: "  A zombie hulk can throw corpses at foes. While any Medium dead body will do, they sometimes throw [[Bestiary 1/Zombie Shambler|Zombie Shamblers]], who take just as much damage from being thrown as the target they hit. A thrown shambler lands [[Conditions/Prone|Prone]], but if it's not destroyed, it can rise and use other actions normally."
+    desc: "  A zombie hulk can throw corpses at foes. While any Medium dead body will do, they sometimes throw [[Monster Core/Zombie Shambler|Zombie Shamblers]], who take just as much damage from being thrown as the target they hit. A thrown shambler lands [[Conditions/Prone|Prone]], but if it's not destroyed, it can rise and use other actions normally."
 
   - name: "Wide Swing"
     desc: "`pf2:1`  The zombie hulk makes a hunk of meat Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within the Strike's reach. This attack counts as two attacks for the zombie hulk's multiple attack penalty."

@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Veil of Dreams|Veil of Dreams]]
+Granted by [[Spells/Veil of Dreams|Veil of Dreams]]
 
-The target takes a -1 status penalty to Perception, attack rolls, and Will saves. This penalty increases to -2 for Will saves against sleep effects.
+You take a -1 status penalty to Perception, attack rolls, and Will saves. This penalty increases to -2 for Will saves against sleep effects.
 
 *Source: Pathfinder Player Core*
 *ORC*

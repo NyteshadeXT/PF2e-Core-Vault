@@ -53,7 +53,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Creature Family Ability Glossary/(Clockwork Creature) Wind-Up|Wind-Up]]"
-    desc: "  24 hours, DC 26 Thievery check, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  24 hours, [[Actions/disable-device dc=26|disable-device dc=26]]{DC 26 Thievery}, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
@@ -66,26 +66,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 (magical, reach 10 feet)\n__Damage__  2d10 + 9 piercing plus clockwork-serpent-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (magical, reach 10 feet, unarmed)\n__Damage__  2d10 + 9 piercing plus clockwork-serpent-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Coils +20 (magical)\n__Damage__  2d12 + 9 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Coils"
+    desc: "+20 (magical)\n__Damage__  2d12 + 9 bludgeoning plus grab"
 
   - name: "Clockwork Serpent Venom"
     desc: " (arcane,magical,poison) **Saving Throw** DC 26 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 2d6 poison damage, [[Conditions/Enfeebled|Enfeebled 1]], and off-guard (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d10+6 bludgeoning, DC 26 Fortitude check\n\n**Requirements** The clockwork serpent is in constrictor mode\n\n* * *\n"
+    desc: "`pf2:1`  2d10+6 bludgeoning, DC 26 Fortitude check\n\n**Requirements** The clockwork serpent is in constrictor mode\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Intimidating Hood"
-    desc: "`pf2:2` (arcane,emotion,fear,mental) **Requirements** The clockwork serpent is in cobra mode\n* * *\n\n**Effect** The clockwork serpent flares out a cobra hood. All creatures within a @Template[emanation|distance:15] must succeed at a DC 26 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure)."
+    desc: "`pf2:2` (arcane,emotion,fear,mental) **Requirements** The clockwork serpent is in cobra mode\n* * *\n\n**Effect** The clockwork serpent flares out a cobra hood. All creatures within a 15-foot emanation must succeed at a DC 26 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure)."
 
   - name: "Shattering Rattle"
-    desc: "`pf2:2` (arcane,sonic) **Requirements** The clockwork serpent is in rattlesnake mode\n* * *\n\n**Effect** The clockwork serpent rattles its tail, then snaps it like a whip to create a devastating blast of sonic energy in a @Template[cone|distance:30]. Creatures in the area take 9d6 sonic damage (DC 26 Fortitude check save)."
+    desc: "`pf2:2` (arcane,sonic) **Requirements** The clockwork serpent is in rattlesnake mode\n* * *\n\n**Effect** The clockwork serpent rattles its tail, then snaps it like a whip to create a devastating blast of sonic energy in a 30-foot cone. Creatures in the area take 9d6 sonic damage (DC 26 Fortitude check save)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -52,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Axiomatic Polymorph"
-    desc: "`pf2:r` (divine) **Trigger** A creature moves within 10 feet of the entryway to the Hall of Wonders (area **N4**) without speaking the passphrase (\"The History and Future of Humanity\") in Utopian\n* * *\n\n**Effect** Each creature within 20 feet of the door is targeted by [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]] (DC 42 Will check save), except the effect transforms creatures into the form of an [[Bestiary 1/Arbiter|Arbiter]] aeon rather than that of an animal."
+    desc: "`pf2:r` (divine) **Trigger** A creature moves within 10 feet of the entryway to the Hall of Wonders (area **N4**) without speaking the passphrase (\"The History and Future of Humanity\") in Utopian\n* * *\n\n**Effect** Each creature within 20 feet of the door is targeted by [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]] (DC 42 Will check save), except the effect transforms creatures into the form of an [[Monster Core/Arbiter|Arbiter]] aeon rather than that of an animal."
 
 
   - name: "Reset"

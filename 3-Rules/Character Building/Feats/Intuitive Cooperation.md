@@ -24,5 +24,5 @@ license: OGL
 
 You are accustomed to working alongside others, relying on each other to get by. You gain a +2 circumstance bonus to checks to [[Actions/Aid|Aid]], and your allies gain a +2 circumstance bonus to checks to Aid you.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

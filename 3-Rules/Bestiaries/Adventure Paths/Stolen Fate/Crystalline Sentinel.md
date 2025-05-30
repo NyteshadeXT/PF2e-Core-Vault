@@ -50,16 +50,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaw +24 (deadly d10)\n__Damage__  2d12 + 13 piercing plus crystal-corruption"
+  - name: "**Melee** `pf2:1` Jaw"
+    desc: "+24 (deadly d10)\n__Damage__  2d12 + 13 piercing plus crystal-corruption"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +24 (agile)\n__Damage__  2d8 + 13 slashing plus crystal-corruption"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+24 (agile, unarmed)\n__Damage__  2d8 + 13 slashing plus crystal-corruption"
 
   - name: "Claw Frenzy"
     desc: "`pf2:2`  The Crystalline Sentinel makes three claw Strikes; no more than two can be against the same target. These attacks count toward it's multiple attack penalty, but the penalty doesn't increase until after all the attacks have been made."

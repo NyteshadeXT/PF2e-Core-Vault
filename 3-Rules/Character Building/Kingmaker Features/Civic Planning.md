@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Civic Planning"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/common
+  - trait/
   - category/kingdom-feature
 aliases: "Compendium.pf2e.kingmaker-features.Item.AK3JMI3Bgz5QQw03"
 license: OGL

@@ -54,6 +54,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Virulent Burst"
@@ -62,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +7 (agile, finesse)\n__Damage__  1d4 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+7 (agile, finesse)\n__Damage__  1d4 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rotten Fruit +11 (range 60 feet)\n__Damage__  1d6 + 2 bludgeoning plus bitter-harvest"
+  - name: "**Ranged** `pf2:1` Rotten Fruit"
+    desc: "+11 (range 60 feet)\n__Damage__  1d6 + 2 bludgeoning plus bitter-harvest"
 
   - name: "Primal Innate Spells"
     desc: "DC 14, attack +6\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants (Trees Only)]]_"

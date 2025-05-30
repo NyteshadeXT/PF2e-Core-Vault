@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_BANK_PILLAR.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Phalanx of Phalanges"
 level: "Creature 1"

@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Feats/High-Speed Regeneration|High-Speed Regeneration]]
+
 You gain a +10-foot status bonus to your Speed.
 
 *Source: Pathfinder Dark Archive*

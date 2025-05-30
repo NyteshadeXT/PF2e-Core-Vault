@@ -18,13 +18,9 @@ license: OGL
 
 Granted by [[Feats/Jellyfish Stance|Jellyfish Stance]]
 
-**Requirements** You are unarmored.
+You can make stinging lash attacks that deal 1d6 slashing damage. These attacks are in the brawling group, and have the finesse, nonlethal, reach, and unarmed traits.
 
-* * *
-
-You relax your posture and loosen your joints, allowing yourself to move with incredible fluidity. You can make stinging lash attacks that deal 1d6 slashing damage. These attacks are in the brawling group, and have the finesse, nonlethal, reach, and unarmed traits.
-
-While in Jellyfish Stance, you gain a +2 circumstance bonus to Reflex saves and on checks to [[Actions/Escape|Escape]] and [[Actions/Squeeze|Squeeze]].
+You gain a +2 circumstance bonus to Reflex saves and on checks to Escape and Squeeze.
 
 *Source: Pathfinder Fists of the Ruby Phoenix Hardcover Compilation*
 *OGL*

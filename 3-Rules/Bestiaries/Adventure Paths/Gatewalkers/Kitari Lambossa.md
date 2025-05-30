@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Main-Gauche +16 (agile, disarm, parry, versatile s)\n__Damage__  1d4 + 10 piercing"
+  - name: "**Melee** `pf2:1` Main-Gauche"
+    desc: "+16 (agile, disarm, parry, versatile s)\n__Damage__  1d4 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +17 (forceful, magical, sweep)\n__Damage__  1d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+17 (forceful, magical, sweep)\n__Damage__  1d6 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +14 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+14 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Dual Disarm"
     desc: "`pf2:2`  The captain makes two Strikes, one with their rapier and one with their main-gauche (in either order). If both Strikes hit, the ship captain can attempt to [[Actions/Disarm|Disarm]] the target.\n\nTheir multiple attack penalty increases only after all the attacks are made."

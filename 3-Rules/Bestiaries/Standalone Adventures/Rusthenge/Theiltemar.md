@@ -59,11 +59,14 @@ abilities_mid:
   - name: "Rusting Death"
     desc: "  When Theiltemar is destroyed, his bones explode as the necromantic energy holding him together is released. This shreds his rusted chain mail as well, flinging rusty shards of jagged metal in all directions. Adjacent creatures take 2d6 piercing damage (DC 21 Reflex check save) and are exposed to rust creep. As his remains settled to the floor, the wall of force blocking area **F14** flickers and fades."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +12 (agile, finesse)\n__Damage__  2d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+12 (agile, finesse, unarmed)\n__Damage__  2d6 + 4 slashing"
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 21, attack +13; __2nd __ (4 slots) _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Darkness|Darkness]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Sudden Blight|Sudden Blight]]_; __1st __ (4 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

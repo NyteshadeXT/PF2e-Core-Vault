@@ -35,5 +35,5 @@ Every good Firebrand knows that style can be as important as substance—so long
 
 **Critical Failure** You drop both firearms and two rounds on the ground in your space.
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 ()\n__Damage__  2d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (unarmed)\n__Damage__  2d6 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Harpoon +12 (range 60 feet)\n__Damage__  2d6 + 5 piercing plus barbed-filament"
+  - name: "**Ranged** `pf2:1` Harpoon"
+    desc: "+12 (range 60 feet)\n__Damage__  2d6 + 5 piercing plus barbed-filament"
 
   - name: "Barbed Filament"
     desc: "  A creature hit by the tree fisher's barbed filament is [[Conditions/Grabbed|Grabbed]]. The tree fisher can move while it has a creature grabbed with its filament, but automatically releases the Grab if the tree fisher moves beyond the filament's 60-foot length. A creature grabbed by the filament at the beginning of its turn takes 5 bleed.\n\nThe tree fisher can sever the filament and release any creature grabbed by it as a free action. The filament can be severed by a Strike that deals at least 10 slashing to it. This doesn't deal any damage to the tree fisher itself. The filament has AC 17, and its [[Actions/Escape|Escape]] DC is 19.\n\nThe tree fisher has only one harpoon; if the filament is severed, the tree fisher loses this ability and its ranged attack for 1 week as it fashions a new harpoon."

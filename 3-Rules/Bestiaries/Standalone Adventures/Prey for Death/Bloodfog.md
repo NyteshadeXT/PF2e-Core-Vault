@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Misty Tendril +33 (agile, finesse, reach 15 feet)\n__Damage__  3d6 bleed plus blood-siphon 5d6 slashing plus blood-siphon"
+  - name: "**Melee** `pf2:1` Misty Tendril"
+    desc: "+33 (agile, finesse, reach 15 feet)\n__Damage__  3d6 bleed plus blood-siphon 5d6 slashing plus blood-siphon"
 
   - name: "Occult Innate Spells"
     desc: "DC 35, attack +27; __8th __  _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination (x3)]]_; __7th __  _[[Spells/Vampiric Feast|Vampiric Feast (x3)]]_; __6th __  _[[Spells/Blood Vendetta|Blood Vendetta (At Will)]]_"

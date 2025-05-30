@@ -18,5 +18,5 @@ license: OGL
 
 With Kazutal's blessing, food tastes richer. Any meal that you eat tastes delicious and has improved nutritional value. This doesn't protect you from anything dangerous in your food, but it also doesn't prevent you from tasting those dangerous elements of the food.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

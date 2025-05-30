@@ -53,6 +53,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Pervert Miracle"
@@ -64,20 +70,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +29 (reach 10 feet, unholy)\n__Damage__  3d10 + 14 piercing 2d6 spirit"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+29 (reach 10 feet, unarmed, unholy)\n__Damage__  3d10 + 14 piercing 2d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +29 (agile, reach 10 feet, unholy)\n__Damage__  3d6 + 14 slashing 2d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+29 (agile, reach 10 feet, unarmed, unholy)\n__Damage__  3d6 + 14 slashing 2d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +29 (reach 20 feet, unholy)\n__Damage__  3d6 + 14 bludgeoning plus improved-knockdown 2d6 spirit plus improved-knockdown"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+29 (reach 20 feet, unholy)\n__Damage__  3d6 + 14 bludgeoning plus improved-knockdown 2d6 spirit plus improved-knockdown"
 
   - name: "Divine Innate Spells"
     desc: "DC 34, attack +26; __7th __  _[[Spells/Bane|Bane]]_, _[[Spells/Bless|Bless]]_, _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Disguise Magic|Disguise Magic (Constant, Self Only)]]_, _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Heal|Heal (x3)]]_, _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_, _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Sound Body|Sound Body]]_, _[[Spells/Translocate|Translocate]]_, _[[Spells/Veil of Privacy|Veil of Privacy (Constant, Self Only)]]_; __4th __  _[[Spells/Translocate|Translocate (At Will)]]_\n__Constant__  __(7th)__ _[[Spells/See the Unseen|See the Unseen]]_"
 
   - name: "Sap Mind"
     desc: "`pf2:1` (divine,mental) The nikaramsa focuses their gaze on one creature within 60 feet. That target must attempt a DC 34 Will check save. Regardless of the outcome of the saving throw, the target then becomes temporarily immune for 1 day.\n* * *\n\n**Critical Success** The nikaramsa is caught off guard by the strength of the target's resistance and becomes [[Conditions/Stupefied|Stupefied 2]] until the end of their next turn.\n\n**Success** The target resists the nikaramsa's influence.\n\n**Failure** The target's focus and willpower drain away; it becomes [[Conditions/Stupefied|Stupefied 2]] for 1 minute.\n\n**Critical Failure** As failure, but the target becomes [[Conditions/Stupefied|Stupefied 3]] for 1 hour."
+
+  - name: "[[Bestiary Ability Glossary/Improved Knockdown|Improved Knockdown]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature as a free action. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

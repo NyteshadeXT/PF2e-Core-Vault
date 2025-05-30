@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Torag - Major Boon"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/deityboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.AdNAeWhnq5Is3AZb"
 license: OGL
 ---
 # Torag - Major Boon
-
+## Feat 1
 ### 
 
 **Category** deityboon; 
@@ -27,5 +27,5 @@ As long as you are holding a shield, you are always [[Actions/Defend|Defending]]
 
 While you are using a shield, its Hardness increases by 5.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

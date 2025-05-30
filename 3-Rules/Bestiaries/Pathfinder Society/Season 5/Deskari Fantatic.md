@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +12 (agile, finesse, versatile s)\n__Damage__  2d4 + 7 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+12 (agile, finesse, versatile s)\n__Damage__  2d4 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +11 (agile, thrown 10 ft., versatile s)\n__Damage__  2d4 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+11 (agile, thrown 10 ft., versatile s)\n__Damage__  2d4 + 7 piercing"
 
   - name: "Frenzied Assault"
     desc: "`pf2:3`  The Deskari fanatic Strides to an enemy creature and makes three Strikes in a frenzy. These Strikes have a +1 status bonus to attack and a +2 status bonus to damage. The Deskari fanatic can't make a frenzied assault on a creature it's already in melee with."

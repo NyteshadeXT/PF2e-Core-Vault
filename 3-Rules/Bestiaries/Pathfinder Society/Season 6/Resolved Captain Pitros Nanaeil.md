@@ -76,11 +76,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bloodletting Kukri +19 (agile, finesse, trip)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Bloodletting Kukri"
+    desc: "+19 (agile, finesse, trip)\n__Damage__  2d6 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +19 (forceful, sweep)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+19 (forceful, sweep)\n__Damage__  2d6 + 8 slashing"
 
   - name: "Double Slice"
     desc: "`pf2:2`  Nanaeil lashes out at his foe with both weapons. He makes two Strikes, one with each melee weapon, each using his current multiple attack penalty. Both Strikes must have the same target. If both attacks hit, combine their damage, then add any other applicable effects from both weapons. Precision damage is added only once. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating his multiple attack penalty."

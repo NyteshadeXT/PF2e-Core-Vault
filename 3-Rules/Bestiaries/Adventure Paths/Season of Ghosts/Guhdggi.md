@@ -65,17 +65,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Broken Spear +14 (magical, reach 10 feet, unholy)\n__Damage__  2d6 + 6 piercing 1d6 mental"
+  - name: "**Melee** `pf2:1` Broken Spear"
+    desc: "+14 (magical, reach 10 feet, unholy)\n__Damage__  2d6 + 6 piercing 1d6 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hair Lash +13 (agile, unholy)\n__Damage__  2d6 + 6 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Hair Lash"
+    desc: "+13 (agile, unholy)\n__Damage__  2d6 + 6 bludgeoning plus grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +10; __3rd __  _[[Spells/Slow|Slow]]_, _[[Spells/Wanderer's Guide|Wanderer's Guide]]_; __2nd __  _[[Spells/Item Facade|Item Facade]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Know the Way|Know the Way]]_"
 
   - name: "Belch Butterflies"
-    desc: "`pf2:2` (occult) The guhdggi opens both of its mouths and, from its innermost humanoid mouth, belches forth a blast of red butterflies in a @Template[cone|distance:15]. All creatures in the area must attempt a DC 22 Reflex check save as the hideous insects' razor sharp wings and tiny claws slash and cut away at exposed flesh. The guhdggi can't Belch Butterflies again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature takes no damage from the butterflies.\n\n**Success** The creature takes 2d6 slashing damage from the butterflies.\n\n**Failure** The creature takes 4d6 slashing damage, 1d6 persistent bleed damage, and is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** The creature takes 8d6 slashing damage, 2d6 persistent bleed damage, and is [[Conditions/Sickened|Sickened 2]]."
+    desc: "`pf2:2` (occult) The guhdggi opens both of its mouths and, from its innermost humanoid mouth, belches forth a blast of red butterflies in a 15-foot cone. All creatures in the area must attempt a DC 22 Reflex check save as the hideous insects' razor sharp wings and tiny claws slash and cut away at exposed flesh. The guhdggi can't Belch Butterflies again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature takes no damage from the butterflies.\n\n**Success** The creature takes 2d6 slashing damage from the butterflies.\n\n**Failure** The creature takes 4d6 slashing damage, 1d6 persistent bleed damage, and is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** The creature takes 8d6 slashing damage, 2d6 persistent bleed damage, and is [[Conditions/Sickened|Sickened 2]]."
 
   - name: "Cage Prey"
     desc: "`pf2:1` (attack) **Requirements** The guhdggi has grappled a Medium or smaller creature with its hair lash and doesn't have a creature caged\n* * *\n\n**Effect** The guhdggi attempts an Athletics check opposed by the [[Conditions/Grabbed|Grabbed]] creature's Reflex DC. If it succeeds, it places the creature into the cage it carries on its back. The guhdggi's hair lash no longer grapples the creature, and it can't attack a creature in its cage.\n\nThe caged creature is grabbed. It takes 2d4+6 mental damage when first caged and at the end of each of its turns while it's caged. A caged victim can attempt to [[Actions/Force Open|Force Open]] or [[Actions/Escape|Escape]] the cage with a DC 22 check, or it can attack the cage's wicker bars, but only with unarmed attacks or with weapons of light Bulk or less. Other creatures can attack the wicker bars as well but can't attempt to Force Open the cage or aid a caged creature's Escape if the guhdggi can resist. Attacks against the cage resolve against the guhdggi's AC, and if the cage takes at least 16 bludgeoning or slashing damage from a single attack or spell, the caged creature gets free.\n\nIf the guhdggi dies, its cage crumbles to fragments."
@@ -90,7 +90,7 @@ attacks:
     desc: "  When a guhdggi wields a broken non-magical weapon, they do not take any of the disadvantages of the weapon being broken. While the guhdggi wields it, the weapon becomes a +1 striking weapon that deals an additional 1d6 mental damage on a successful hit."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d8 + 3 piercing plus decomposing-toxin"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d8 + 3 piercing plus decomposing-toxin"
 
   - name: "Ambush"
     desc: "`pf2:r`  **Trigger** A target creature passes within 20 feet of the olobigonde's hiding place and has not detected the olobigonde\n* * *\n\n**Effect** The olobigonde lunges out of its hiding place, Swims directly toward the triggering creature, and makes a jaws Strike against it. The target creature is [[Conditions/Off-Guard|Off-Guard]] to this attack."

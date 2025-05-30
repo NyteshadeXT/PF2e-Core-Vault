@@ -16,7 +16,9 @@ license: OGL
 
 
 
-The creature gains a +1 item bonus to saves versus fire effects.
+Granted by [[Equipment/Blaze|Blaze]]
+
+You gain a +1 item bonus to saves versus fire effects.
 
 *Source: Pathfinder #178: Punks in a Powder Keg*
 *OGL*

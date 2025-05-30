@@ -59,11 +59,14 @@ abilities_mid:
   - name: "Light Vulnerability"
     desc: "  Attacks against the shadow are treated as magical if made by a creature who is in magical light or with an object that is in magical light (such as from the [[Spells/Light|Light]] spell)."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shadow Hand +15 (finesse, magical)\n__Damage__  2d6 + 3 void"
+  - name: "**Melee** `pf2:1` Shadow Hand"
+    desc: "+15 (finesse, magical)\n__Damage__  2d6 + 3 void"
 
   - name: "Shadow Spawn"
     desc: "  When a creature's shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the shadow that created it. This [[Monster Core/Shadow Spawn|Shadow Spawn]] doesn't have Steal Shadow and is perpetually and incurably [[Conditions/Clumsy|Clumsy 2]].\n\nIf the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished."

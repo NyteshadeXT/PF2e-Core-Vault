@@ -21,5 +21,5 @@ license: OGL
 * * *
 Your exoskeleton's weapons are even more potent. If you have a claws unarmed attack, it gains the deadly d8 trait. If you have a branch unarmed attack, it gains the shove and trip traits.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

@@ -56,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Occult Catharsis"
-    desc: " (emotion,healing,occult) Krohan's magic converts his pain into spellpower. After he casts an innate occult spell, he attempts a DC 5 Flat check, increasing the DC by twice the spell's rank if it was not a cantrip. On a success, Krohan's Spirits Drawn to Suffering effect ends; he can reduce the value of one condition affecting him by 1, and he regains 2d6 Hit Points."
+    desc: " (emotion,healing,occult) Krohan's magic converts his pain into spellpower. After he casts an innate occult spell, he attempts a DC 5 Flat check, increasing the DC by twice the spell's rank if it was not a cantrip. On a success, Krohan's Spirits Drawn to Suffering effect ends; he can reduce the value of one condition affecting him by 1, and he regains 2d6 healing Hit Points."
 
   - name: "Spirits Drawn to Suffering"
     desc: "`pf2:0` (occult) **Frequency** once per 10 minutes\n\n**Trigger** Krohan critically fails a saving throw, takes mental damage, takes damage from a critical hit, or gains a harmful condition with a numerical value (such as frightened or sickened). This effect does not trigger due to self-harm or similarly engineered circumstances.\n* * *\n\n**Effect** Krohan gains the ability to cast his innate occult spells for 1 minute."
@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pick +10 (fatal d10)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Pick"
+    desc: "+10 (fatal d10)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +8 (deadly d10, propulsive, range increment 60 feet)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+8 (deadly d10, propulsive, range increment 60 feet)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 19, attack +11; __2nd __  _[[Spells/Soothe|Soothe]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Runic Weapon|Magic Weapon]]_, _[[Spells/Spirit Link|Spirit Link]]_\n__Cantrips__  __(2nd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_"

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Irrigation"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/region
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.J1yiZK4gr5c9zFOl"
 license: OGL
 ---
 # Irrigation
-
+## 
 ### [[downtime]][[region]]
 
 **Category** kingdom-activity; 

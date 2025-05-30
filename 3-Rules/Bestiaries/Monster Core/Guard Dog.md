@@ -55,8 +55,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +6 ()\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+6 (unarmed)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Pack Attack"
     desc: "  The dog's Strikes deal 1d4 extra damage to creatures within the reach of at least two of the dog's allies."

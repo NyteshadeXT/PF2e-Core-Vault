@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Orchestral Brooch|Orchestral Brooch]]
+
 You receive a +1 status bonus to your Performance check. If you roll a success, you get a critical success instead.
 
 *Source: Pathfinder Secrets of Magic*

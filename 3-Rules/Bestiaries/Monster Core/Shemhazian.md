@@ -54,6 +54,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Paralyzing Gaze"
@@ -68,23 +74,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +33 (magical, reach 20 feet, unholy)\n__Damage__  3d12 + 17 piercing plus enfeebling-bite"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+33 (magical, reach 20 feet, unarmed, unholy)\n__Damage__  3d12 + 17 piercing plus enfeebling-bite"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +33 (agile, magical, reach 20 feet, unholy)\n__Damage__  3d8 + 17 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+33 (agile, magical, reach 20 feet, unarmed, unholy)\n__Damage__  3d8 + 17 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Pincer +33 (magical, reach 20 feet, unholy)\n__Damage__  3d8 + 17 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Pincer"
+    desc: "+33 (magical, reach 20 feet, unholy)\n__Damage__  3d8 + 17 bludgeoning plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +33 (magical, reach 30 feet, unholy)\n__Damage__  3d6 + 17 slashing"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+33 (magical, reach 30 feet, unholy)\n__Damage__  3d6 + 17 slashing"
 
   - name: "Divine Innate Spells"
     desc: "DC 37, attack +29; __8th __  _[[Spells/Divine Decree|Divine Decree]]_; __5th __  _[[Spells/Scouting Eye|Scouting Eye (x3)]]_, _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Clairvoyance|Clairvoyance (x3)]]_, _[[Spells/Translocate|Translocate (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_\n__Constant__  __(7th)__ _[[Spells/Truesight|Truesight]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Demonic Pact]]_"
+    desc: "_Demonic Pact_"
 
   - name: "Enfeebling Bite"
     desc: " (divine) If the shemhazian's jaws Strike damages a creature, the target is [[Conditions/Enfeebled|Enfeebled 3]] for 24 hours. The target can attempt a DC 37 Fortitude check save to reduce this to [[Conditions/Enfeebled|Enfeebled 1]] (or be unaffected on a critical success)."
@@ -93,7 +99,10 @@ attacks:
     desc: "`pf2:1` (concentrate,divine,incapacitation,visual) The shemhazian focuses their gaze on a non-demon creature they can see within 30 feet. If that creature isn't already [[Conditions/Slowed|Slowed]] by the shemhazian's paralyzing gaze, it must attempt a save against the shemhazian's paralyzing gaze. If that creature is slowed, it must succeed at a DC 35 Fortitude check save or be [[Conditions/Paralyzed|Paralyzed]] for 1 round.\n\nA shemhazian can't use this ability against the same creature more than once per round."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n\n* * *\n"
+    desc: "`pf2:1`  Claw\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

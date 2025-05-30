@@ -15,7 +15,7 @@ license: OGL
 ---
 # Liquid Euphoria
 ## Item 4
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[inhaled]][[3-Rules/Trait Reference/P/poison|Poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[inhaled]][[poison]]
 
 **Category** drug; 
 **Price** 18 gp; 
@@ -36,9 +36,9 @@ Skilled alchemists can extract the oil from a euphoria ooze to make a flammable 
 
 **Stage 1** +2 item bonus to Will saves against fear and emotion effects (10 minutes)
 
-**Stage 2** Stupefied 2, Clumsy 2 (1 minute)
+**Stage 2** [[undefined]], [[undefined]] (1 minute)
 
-**Stage 3** Confused (1 hour)
+**Stage 3** [[undefined]] (1 hour)
 
 *Source: Battlezoo Bestiary: Strange and Unusual*
 *OGL*

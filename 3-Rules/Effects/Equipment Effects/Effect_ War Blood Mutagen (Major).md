@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[War Blood Mutagen (Major)|War Blood Mutagen (Major)]]
+Granted by [[Equipment/War Blood Mutagen (Major)|War Blood Mutagen (Major)]]
 
 You gain a +4 item bonus to your attack rolls with this weapon and to Will saves against fear effects.
 

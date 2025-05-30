@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +5 (agile, trip)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+5 (agile, trip)\n__Damage__  1d4 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +3 (thrown 10 ft.)\n__Damage__  1d4 + 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+3 (thrown 10 ft.)\n__Damage__  1d4 + 2 bludgeoning"
 
   - name: "Power of the Mob"
     desc: "  When three or more commoners are adjacent to each other each commoner gets a +1 circumstance bonus to Athletics checks to [[Actions/Shove|Shove]], attack rolls, and damage rolls."

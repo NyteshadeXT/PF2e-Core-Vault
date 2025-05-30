@@ -21,5 +21,5 @@ license: OGL
 * * *
 Your thorns are many, vicious, and sharp. If you have the Hidden Thorn feat, your thorn attack gains the deadly d6 trait. If you have the thorned rose heritage, you can use the [[Actions/Wicked Thorns|Wicked Thorns]] reaction once every hour.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

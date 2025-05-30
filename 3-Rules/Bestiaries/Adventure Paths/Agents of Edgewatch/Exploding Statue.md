@@ -52,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Explosion"
-    desc: "`pf2:r` **Trigger** A creature opens the northern door without first disabling the trip wire\n* * *\n\n**Effect** The statue explodes, spraying shrapnel to the west in a @Template[cone|distance:5] and dealing 1d10+7 piercing and 1d10 fire damage to all creatures in the affected area (DC 18 Reflex check save)."
+    desc: "`pf2:r` **Trigger** A creature opens the northern door without first disabling the trip wire\n* * *\n\n**Effect** The statue explodes, spraying shrapnel to the west in a 5-foot cone and dealing 1d10+7 piercing and 1d10 fire damage to all creatures in the affected area (DC 18 Reflex check save)."
 
 
 

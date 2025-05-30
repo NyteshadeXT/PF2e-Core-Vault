@@ -59,17 +59,20 @@ abilities_top:
     desc: "[[Equipment/Dwarven War Axe|Ceremonial Dwarven War Axe]], [[Equipment/Silk ceremonial armor|Ceremonial Robes]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` War Axe +10 (dwarf, sweep, two-hand d12)\n__Damage__  1d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` War Axe"
+    desc: "+10 (dwarf, sweep, two-hand d12)\n__Damage__  1d8 + 7 slashing"
 
   - name: "Divine Innate Spells"
     desc: "DC 17, attack +9; __2nd __ (1 slots) _[[Spells/Reaper's Lantern|Reaper's Lantern]]_; __1st __ (1 slots) _[[Spells/Bane|Bane]]_"
 
   - name: "Forge-Flame Breath"
-    desc: "`pf2:2` (divine) The forged bones calls on the power contained in its mask to shoot a burst of forge-hot flames at intruders, dealing 3d6 fire damage in a @Template[cone|distance:15] (DC 17 Reflex check save).\n\nThe forged bones can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (divine) The forged bones calls on the power contained in its mask to shoot a burst of forge-hot flames at intruders, dealing 3d6 fire damage in a 15-foot cone (DC 17 Reflex check save).\n\nThe forged bones can't use Breath Weapon again for 1d4 rounds."
  
 ```
 

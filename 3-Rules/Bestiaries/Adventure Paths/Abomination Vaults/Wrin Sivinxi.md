@@ -68,14 +68,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Starknife +12 (agile, deadly d6, finesse, magical, versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Melee** `pf2:1` Starknife"
+    desc: "+12 (agile, deadly d6, finesse, magical, versatile s)\n__Damage__  1d4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +10 (agile, finesse, unarmed)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+10 (agile, finesse, unarmed)\n__Damage__  1d4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Starknife +12 (agile, deadly d6, magical, thrown 20 ft., versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Ranged** `pf2:1` Starknife"
+    desc: "+12 (agile, deadly d6, magical, thrown 20 ft., versatile s)\n__Damage__  1d4 piercing"
 
   - name: "Primal Spontaneous Spells"
     desc: "DC 22, attack +14; __3rd __ (3 slots) _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Heal|Heal]]_, _[[Compendium.pf2e.spells-srd.Item.RneiyehRO6f7LP44|Remove Disease]]_; __2nd __ (4 slots) _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Restoration|Restoration]]_, _[[Spells/Web|Web]]_; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Pest Form|Pest Form]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Stabilize|Stabilize]]_"

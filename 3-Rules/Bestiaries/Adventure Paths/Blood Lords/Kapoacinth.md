@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/PZO90182_KAPOACINTH.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Kapoacinth"
 level: "Creature 4"
@@ -59,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Wing Buffet"
     desc: "`pf2:r`  **Trigger** An adjacent creature attacks the kapoacinth while the kapoacinth is Swimming\n* * *\n\n**Effect** The kapoacinth pushes the triggering creature 5 feet away from them, and the kapoacinth moves 10 feet in the opposite direction. If the triggering creature can no longer attack the kapoacinth from its new location, the attack misses."
@@ -67,11 +68,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 ()\n__Damage__  2d8 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (unarmed)\n__Damage__  2d8 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +13 (agile)\n__Damage__  2d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+13 (agile)\n__Damage__  2d6 + 6 slashing"
 
   - name: "Coral Reef"
     desc: "`pf2:1` (concentrate) Until the next time they act, the kapoacinth appears to be a lump of coral. They have an automatic result of 31 on Deception checks and DCs to pass as coral."

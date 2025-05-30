@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Rovagug - Moderate Boon"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/deityboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.a1OZtMQSzjYOm0P3"
 license: OGL
 ---
 # Rovagug - Moderate Boon
-
+## Feat 1
 ### 
 
 **Category** deityboon; 
@@ -25,5 +25,5 @@ Additionally, you can stomach eating anything you can fit down your throat-even 
 
 You gain a +4 status bonus to saves resulting from eating something, such as diseases, poisons, or other effects of the ingested object. This doesn't allow you to digest magic items that would otherwise be difficult or impossible to destroy, such as cursed items or artifacts.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

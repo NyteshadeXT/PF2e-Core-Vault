@@ -5,21 +5,21 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/divine
   - trait/poison
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.KcUHCVhHnkMD8j3k"
 license: OGL
 ---
 # (Greater Barghest) Mutation - Toxic Breath `pf2:2`
 
-### [[divine]][[3-Rules/trait_reference/P/poison]]
+### [[divine]][[poison]]
 
 **Category** offensive; 
 
 
 
 
-The barghest breathes a cloud of toxic gas that deals 8d6 poison damage to all creatures in a @Template\[cone|distance:30\] (DC 25 Fortitude check save).
+The barghest breathes a cloud of toxic gas that deals 8d6 poison damage to all creatures in a 30-foot cone (DC 25 Fortitude check save).
 
 It can't use Toxic Breath again for 1d4 rounds.
 

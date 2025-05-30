@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +11 (thrown 20 ft.)\n__Damage__  1d8 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+11 (thrown 20 ft.)\n__Damage__  1d8 + 6 piercing"
  
 ```
 

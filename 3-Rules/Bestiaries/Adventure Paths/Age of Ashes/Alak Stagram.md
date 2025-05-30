@@ -56,16 +56,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +10 (versatile p)\n__Damage__  1d12 + 4 slashing"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+10 (versatile p)\n__Damage__  1d12 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +7 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+7 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Intimidating Strike"
     desc: "`pf2:2` (emotion,fear,mental) Alak's blow not only wounds creatures but also shatters their confidence. He makes a melee Strike. If he hits and deals damage, the target is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit."

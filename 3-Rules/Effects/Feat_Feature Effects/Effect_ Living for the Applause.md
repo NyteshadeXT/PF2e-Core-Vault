@@ -16,7 +16,9 @@ license: OGL
 
 
 
+Granted by [[Feats/Living for the Applause|Living for the Applause]]
+
 You gain a +1 circumstance bonus to AC.
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

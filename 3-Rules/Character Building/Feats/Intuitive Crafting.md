@@ -3,26 +3,28 @@ obsidianUIMode: preview
 title: "Intuitive Crafting"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/aphorite
+  - trait/nephilim
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.XKDFgBEtFdEzCz8X"
-license: OGL
+license: ORC
 ---
 # Intuitive Crafting
 ## Feat 1
-### [[aphorite]]
+### [[nephilim]]
 
 **Category** ancestry; 
 
 
 
-
-Your affinity with process and order makes you a natural artisan. You gain the trained proficiency rank in Crafting (or another skill of your choice, if you're already trained in Crafting). You gain the [[Feats/Specialty Crafting|Specialty Crafting]] skill feat in a specialty of your choice.
+**Prerequisites** Aeonbound
+* * *
+Your affinity with process and order makes you a natural artisan. You are trained in Crafting. If you were already trained in Crafting, you instead gain the [[Feats/Specialty Crafting|Specialty Crafting]] skill feat in a specialty of your choice; if you have both, you instead become trained in a skill of your choice. In addition, when you critically fail to Repair an item, you get a failure instead.
 
 * * *
 
-_Note: If you are already trained in the skill provided by this feat, you need to manually select an alternative skill._
+_Note: If you were already trained in Crafting, you need to manually add the Specialty Crafting feat or select an alternative skill._
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder War of Immortals*
+*ORC*

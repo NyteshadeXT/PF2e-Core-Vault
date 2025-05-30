@@ -72,11 +72,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Debris +23 (agile, magical)\n__Damage__  2d6 + 11 bludgeoning 1d6 spirit"
+  - name: "**Melee** `pf2:1` Debris"
+    desc: "+23 (agile, magical)\n__Damage__  2d6 + 11 bludgeoning 1d6 spirit"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Gravity Arc +23 (magical, range increment 60 feet)\n__Damage__  2d10 + 11 force 1d6 spirit"
+  - name: "**Ranged** `pf2:1` Gravity Arc"
+    desc: "+23 (magical, range increment 60 feet)\n__Damage__  2d10 + 11 force 1d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 29, attack +21; __5th __ (1 slots) _[[Spells/Telekinetic Haul|Telekinetic Haul]]_; __4th __ (5 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"
@@ -105,7 +105,7 @@ Arcarayuts are more inclined to pursue knowledge than most inevitables. They eng
 
 ## Valuable Inevitable
 
-When an arcarayut is destroyed, its diamond center turns gray and dull and falls lifelessly to the ground. This crystal can be dissolved in protean blood to create 1d6 doses of [[Oil of Weightlessness (Greater)|Oil of Weightlessness (Greater)]] or a single dose of [[Oil of Repulsion|Oil of Repulsion]]. This fact, in addition to the countless treasures that often float around arcarayuts, makes these inevitables valuable targets for plane-hopping treasure hunters.
+When an arcarayut is destroyed, its diamond center turns gray and dull and falls lifelessly to the ground. This crystal can be dissolved in protean blood to create 1d6 doses of [[Equipment/Oil of Weightlessness (Greater)|Oil of Weightlessness (Greater)]] or a single dose of [[Equipment/Oil of Repulsion|Oil of Repulsion]]. This fact, in addition to the countless treasures that often float around arcarayuts, makes these inevitables valuable targets for plane-hopping treasure hunters.
 
 ## Monster Part Subsystem
 

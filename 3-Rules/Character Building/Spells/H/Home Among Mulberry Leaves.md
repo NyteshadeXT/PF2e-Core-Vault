@@ -31,5 +31,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "**Requirements** You're wielding qi-infused fabric.\n* * *\n\nQi-formed threads unravel from your fabric on conjured needles as your attack makes contact with an enemy and wraps it in place like an insect in its cocoon. Make a melee Strike with your qi-infused fabric. On a success, the target is [[Conditions/Immobilized|Immobilized]] until the start of your next turn, though it can attempt to [[Actions/Escape|Escape]] against your spell DC. On a critical success, your needles anchor in the target's nerve centers after the threads bind it, making it your choice of [[Conditions/Clumsy|Clumsy 1]] or [[Conditions/Enfeebled|Enfeebled 1]] until the start of your next turn, in addition to immobilizing it."
-sourcebook: "_Pathfinder Lost Omens: Tian Xia Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Tian Xia Character Guide_"
 ```

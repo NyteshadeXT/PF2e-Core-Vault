@@ -62,7 +62,7 @@ attacks:
   - name: ""
 
   - name: "Primal Innate Spells"
-    desc: "DC 0, attack +0\n__Cantrips__  __(4th)__ _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 0, attack +0\n__Cantrips__  __(4th)__ _[[Spells/Know the Way|Know Direction]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
  
 ```
 

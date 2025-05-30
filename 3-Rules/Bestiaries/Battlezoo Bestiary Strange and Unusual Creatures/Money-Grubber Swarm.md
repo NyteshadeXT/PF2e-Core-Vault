@@ -43,7 +43,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Stealth: +5, Thievery: +5, Stealth: +5, Thievery: +5"
+    desc: "Stealth: +5, Thievery: +5"
 abilityMods: [-5, 3, 2, -4, 1, 0]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"

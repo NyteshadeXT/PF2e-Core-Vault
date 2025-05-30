@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +8 ()\n__Damage__  1d4 - 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+8 ()\n__Damage__  1d4 - 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Ultrasonic Pulse +11 (magical, range 20 feet)\n__Damage__  1d4 sonic"
+  - name: "**Ranged** `pf2:1` Ultrasonic Pulse"
+    desc: "+11 (magical, range 20 feet)\n__Damage__  1d4 sonic"
 
   - name: "Primal Innate Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Heal|Heal]]_, _[[Spells/Clear Mind|Remove Fear]]_; __1st __  _[[Spells/Anticipate Peril|Anticipate Peril]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Mending|Mending]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"

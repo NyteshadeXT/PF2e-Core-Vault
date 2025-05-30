@@ -33,7 +33,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +20, Athletics: +20"
+    desc: "Athletics: +20"
 abilityMods: [6, 2, 4, -4, 1, 2]
 speed: 35 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -57,14 +57,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 ()\n__Damage__  2d10 + 12 slashing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 ()\n__Damage__  2d10 + 12 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +21 (agile, reach 10 feet)\n__Damage__  2d8 + 10 piercing"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+21 (agile, reach 10 feet)\n__Damage__  2d8 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bile +19 (range increment 30 feet)\n__Damage__  2d8 + 10 acid"
+  - name: "**Ranged** `pf2:1` Bile"
+    desc: "+19 (range increment 30 feet)\n__Damage__  2d8 + 10 acid"
 
   - name: "Corrosive Strikes"
     desc: " (acid) While the gastrophage is under the affects of persistent acid damage, its jaws and tail Strikes deal an additional 1d6 acid damage."

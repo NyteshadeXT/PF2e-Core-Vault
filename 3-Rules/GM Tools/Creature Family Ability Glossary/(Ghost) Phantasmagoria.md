@@ -9,14 +9,14 @@ tags:
   - trait/mental
   - trait/olfactory
   - trait/visual
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.cYkEpJzpMu3mCrFc"
 license: OGL
 ---
 # (Ghost) Phantasmagoria `pf2:3`
 
-### [[auditory]][[divine]][[illusion]][[3-Rules/trait_reference/M/mental]][[olfactory]][[visual]]
+### [[auditory]][[divine]][[illusion]][[mental]][[olfactory]][[visual]]
 
 **Category** interaction; 
 

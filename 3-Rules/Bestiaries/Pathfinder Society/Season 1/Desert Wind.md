@@ -54,8 +54,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +9 (agile)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+9 (agile)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Gallop"
     desc: "`pf2:2`  Desert Wind Strides twice. He has a +10-foot circumstance bonus to his Speed during these Strides."

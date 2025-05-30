@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 (agile, finesse)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (agile, finesse, unarmed)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Ram"
     desc: "`pf2:2`  The hermit rat rolls in its vessel up to its full movement, ramming into a target in its path and dealing 1d6 bludgeoning damage (DC 16 Reflex check save)."

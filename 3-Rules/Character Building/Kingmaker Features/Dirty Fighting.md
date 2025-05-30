@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Dirty Fighting"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/attack
   - trait/skirmisher
-  - trait/common
+  - trait/
   - category/army-war-action
 aliases: "Compendium.pf2e.kingmaker-features.Item.G2eBcOnUHb3yT7JL"
 license: OGL
 ---
 # Dirty Fighting `pf2:1`
-
+## 
 ### [[attack]][[skirmisher]]
 
 **Category** army-war-action; 

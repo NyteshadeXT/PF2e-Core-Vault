@@ -20,5 +20,5 @@ license: OGL
 
 Your connection to the sun has become an unbreakable bond. You don't become temporarily immune to the effects of your [[Ancestry Features/Sunlight Healing|Sunlight Healing]], and instead of rolling to recover Hit Points, you gain the maximum number of HP possible (for example, 64 HP instead of 8d8).
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

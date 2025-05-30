@@ -39,6 +39,6 @@ abilities_top:
     desc: "basic reflex"
 abilities_mid:
   - name: ""
-    desc: "Water blasts upward, coming out of the ground, rising from a pool, or even manifesting from thin air. Any creatures in the area take 2d4 bludgeoning damage, with a basic Reflex saving throw. A creature that critically fails its save is disoriented by the explosion of water, becoming [[Conditions/Off-Guard|Off-Guard]] until the end of your next turn.\n\nYou can change this spell's area to a @Template[burst|distance:5], provided you center the burst in a body of water. This body of water can be as small as a pond or creek, but not as small as a puddle or bathtub.\n* * *\n\n**Heightened (+1)** The damage increases by 1d4."
+    desc: "Water blasts upward, coming out of the ground, rising from a pool, or even manifesting from thin air. Any creatures in the area take 2d4 bludgeoning damage, with a basic Reflex saving throw. A creature that critically fails its save is disoriented by the explosion of water, becoming [[Conditions/Off-Guard|Off-Guard]] until the end of your next turn.\n\nYou can change this spell's area to a 5-foot burst, provided you center the burst in a body of water. This body of water can be as small as a pond or creek, but not as small as a puddle or bathtub.\n* * *\n\n**Heightened (+1)** The damage increases by 1d4."
 sourcebook: "_Pathfinder Player Core 2_"
 ```

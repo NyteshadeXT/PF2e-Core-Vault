@@ -62,20 +62,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile, finesse, magical)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, finesse, magical, unarmed)\n__Damage__  2d6 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +20 (finesse, magical)\n__Damage__  2d8 + 8 piercing plus grab"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+20 (finesse, magical)\n__Damage__  2d8 + 8 piercing plus grab"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A hantu denai's Strikes deal an additional 2d6 precision damage to [[Conditions/Frightened|Frightened]] and [[Conditions/Off-Guard|Off-Guard]] creatures"
 
   - name: "Terrifying Cry"
-    desc: "`pf2:2` (auditory,emotion,fear,mental) The hantu denai unleashes a loud animal cry to scare off nearby creatures. Each creature in a @Template[emanation|distance:120] must attempt a DC 27 Will check save and is then immune to the hantu denai's Terrifying Cry for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Fleeing|Fleeing]] for 1 round and [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is fleeing for 1 round and [[Conditions/Frightened|Frightened 3]]."
+    desc: "`pf2:2` (auditory,emotion,fear,mental) The hantu denai unleashes a loud animal cry to scare off nearby creatures. Each creature in a 120-foot emanation must attempt a DC 27 Will check save and is then immune to the hantu denai's Terrifying Cry for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Fleeing|Fleeing]] for 1 round and [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is fleeing for 1 round and [[Conditions/Frightened|Frightened 3]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

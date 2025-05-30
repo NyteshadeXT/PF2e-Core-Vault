@@ -11,7 +11,7 @@ license: ORC
 ---
 # Swarm Forth `pf2:2`
 
-### [[3-Rules/Rule References/Concentrate]]
+### [[concentrate]]
 
 
 

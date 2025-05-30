@@ -53,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Savage"
     desc: "`pf2:r`  **Trigger** A creature [[Conditions/Grabbed|Grabbed]] by the wyvern critically fails a skill check to Escape.\n* * *\n\n**Effect** The wyvern makes a stinger Strike against the triggering creature."
@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +35 (reach 10 feet)\n__Damage__  3d12 + 17 piercing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+35 (reach 10 feet)\n__Damage__  3d12 + 17 piercing 1d6 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Barbed Tongue +35 (reach 30 feet)\n__Damage__  3d6 + 17 slashing plus ripping-grab"
+  - name: "**Melee** `pf2:1` Barbed Tongue"
+    desc: "+35 (reach 30 feet)\n__Damage__  3d6 + 17 slashing plus ripping-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +35 (agile, reach 20 feet)\n__Damage__  3d10 + 17 piercing plus barbtongued-wyvern-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+35 (agile, reach 20 feet)\n__Damage__  3d10 + 17 piercing plus barbtongued-wyvern-venom"
 
   - name: "Barbtongued Wyvern Venom"
     desc: " (poison) **Saving Throw** DC 40 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 5d12 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** 6d12 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round)\n\n**Stage 3** 7d12 poison damage and [[Conditions/Clumsy|Clumsy 3]] (1 round)"

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-The target takes a -10-foot circumstance penalty to its Speeds for 1 round.
+Granted by [[Equipment/Silkspinner's Shield|Silkspinner's Shield]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+You take a -10-foot circumstance penalty to your Speeds.
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

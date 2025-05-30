@@ -60,17 +60,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 2 (Deactivated by Acid or Fire)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Sonic Redirection"
     desc: "`pf2:r`  **Trigger** The spark troll would take sonic damage\n* * *\n\n**Effect** The spark troll redirects hazardous sonic vibrations to another target within 30 feet. The spark troll gains resistance 5 against the triggering damage, and their chosen target must succeed at a DC 16 Reflex check save or be knocked [[Conditions/Prone|Prone]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Barbed Tongue +7 (finesse, reach 10 feet, unholy)\n__Damage__  1d4 piercing"
+  - name: "**Melee** `pf2:1` Barbed Tongue"
+    desc: "+7 (finesse, reach 10 feet, unholy)\n__Damage__  1d4 piercing"
 
   - name: "Lightning Blast"
-    desc: "`pf2:2` (concentrate,electricity,primal) The spark troll calls lightning down from the sky, then redirects it out from their hands in a @Template[line|distance:40]. Creatures in the line take 1d4 electricity damage (DC 16 Reflex check save)."
+    desc: "`pf2:2` (concentrate,electricity,primal) The spark troll calls lightning down from the sky, then redirects it out from their hands in a 40-foot line. Creatures in the line take 1d4 electricity damage (DC 16 Reflex check save)."
  
 ```
 

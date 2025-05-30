@@ -57,17 +57,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +11 ()\n__Damage__  1d10 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+11 (unarmed)\n__Damage__  1d10 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +10 (reach 10 feet)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+10 (reach 10 feet)\n__Damage__  1d8 + 4 piercing"
 
   - name: "Shaky Footing"
     desc: "  When an arboreal sapling critically fails an attack roll or Reflex saving throw, it becomes [[Conditions/Prone|Prone]] unless it succeeds at a DC 11 Flat check."
 
   - name: "Timber!"
-    desc: "`pf2:r`  **Trigger** An arboreal sapling that is not [[Conditions/Prone|Prone]] either becomes prone or is reduced to 0 HP\n* * *\n\n**Effect** The arboreal sapling topples over, dealing 2d6 bludgeoning damage to itself and to creatures in a @Template[line|distance:10] (DC 16 Reflex check). Creatures that critically fail the saving throw are also knocked prone."
+    desc: "`pf2:r`  **Trigger** An arboreal sapling that is not [[Conditions/Prone|Prone]] either becomes prone or is reduced to 0 HP\n* * *\n\n**Effect** The arboreal sapling topples over, dealing 2d6 bludgeoning damage to itself and to creatures in a 10-foot line (DC 16 Reflex check). Creatures that critically fail the saving throw are also knocked prone."
  
 ```
 

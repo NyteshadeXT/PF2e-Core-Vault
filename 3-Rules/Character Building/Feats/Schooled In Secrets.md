@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Schooled In Secrets"
+title: "Schooled in Secrets"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/general
@@ -11,7 +11,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.lEgYzFHransLkSvI"
 license: ORC
 ---
-# Schooled In Secrets
+# Schooled in Secrets
 ## Feat 1
 ### [[general]][[skill]]
 
@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** trained in Occultism
 * * *
-You notice the signs and symbols that members of mystery cults and other secret societies use to declare their affiliation to fellow members. You can use Occultism in place of Diplomacy to [[/act gather-information skill=occultism]]{Gather Information} about such groups and in place of Deception to [[/act impersonate skill=occultism]]{Impersonate} a member of these groups.
+You notice the signs and symbols that members of mystery cults and other secret societies use to declare their affiliation to fellow members. You can use Occultism in place of Diplomacy to [[Actions/gather-information skill=occultism|gather-information skill=occultism]]{Gather Information} about such groups and in place of Deception to [[Actions/impersonate skill=occultism|impersonate skill=occultism]]{Impersonate} a member of these groups.
 
 If you belong to a secret cult, lodge, sect, or similar organization, you automatically recognize members of your group unless they are specifically attempting to conceal their presence from you. They also recognize your standing unless you are specifically concealing it.
 

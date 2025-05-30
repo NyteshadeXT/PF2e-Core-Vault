@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/PZO90183_NWANYIAN_SKIRMISHER.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Zuntishan Guard"
 level: "Creature 6"
@@ -58,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +17 (agile, finesse, trip)\n__Damage__  1d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+17 (agile, finesse, trip)\n__Damage__  1d6 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +17 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+17 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Warded Ground"
     desc: "`pf2:1` (stance) The guard designates a 10-foot radius area within 30 feet as a protected zone. The guard's Strikes against targets in the protected zone deal an additional 2d6 precision damage."

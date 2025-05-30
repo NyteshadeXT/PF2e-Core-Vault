@@ -61,13 +61,13 @@ abilities_mid:
     desc: "`pf2:r` (rage) **Trigger** A foe within the corrupted retainer's reach attempts to move away from them\n* * *\n\n**Effect** The corrupted retainer keeps pace with the triggering foe. The corrupted retainer Strides up to their Speed, following that foe and keeping it in reach throughout its movement until it stops moving or the corrupted retainer has moved their full Speed."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +11 (thrown 20 ft., fatal d10)\n__Damage__  1d8 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+11 (thrown 20 ft.)\n__Damage__  1d8 + 2 piercing"
 
   - name: "Demonic Strength"
     desc: "  Corrupted retainers deal an extra 1d8 damage with their tridents, and any trident gains the fatal d10 trait while the corrupted retainer is using it (both the extra weapon damage die and the fatal trait have already been included in the corrupted retainer's trident Strike above)."

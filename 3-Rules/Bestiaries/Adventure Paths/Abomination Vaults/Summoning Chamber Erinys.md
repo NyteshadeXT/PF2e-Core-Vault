@@ -57,31 +57,40 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Composite Longbow|+1 Striking Composite Longbow]], [[Equipment/Longsword|Longsword]], [[Equipment/Breastplate|Breastplate]], [[Equipment/Rope|100 feet of Erinys-Hair Rope]], 60x [[Equipment/Arrows|Arrows]], Fragment of Urevian's Pendant"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flaming Longsword +19 (fire, magical, unholy, versatile p)\n__Damage__  1d8 + 8 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Flaming Longsword"
+    desc: "+19 (fire, magical, unholy, versatile p)\n__Damage__  1d8 + 8 slashing 1d6 spirit"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flaming Composite Longbow +20 (deadly d10, fire, magical, range increment 100 feet, reload 0, unholy, volley 30 ft.)\n__Damage__  2d8 + 4 piercing 1d6 spirit"
+  - name: "**Ranged** `pf2:1` Flaming Composite Longbow"
+    desc: "+20 (deadly d10, fire, magical, range increment 100 feet, reload 0, unholy, volley 30 ft.)\n__Damage__  2d8 + 4 piercing 1d6 spirit"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rope +19 (magical, range increment 30 feet, unholy)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Rope"
+    desc: "+19 (magical, range increment 30 feet, unholy)\n__Damage__ "
 
   - name: "Divine Innate Spells"
     desc: "DC 26, attack +18; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Retributive Pain|Retributive Pain]]_; __3rd __  _[[Spells/Fear|Fear (At Will)]]_; __2nd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Diabolic Pact|Infernal Pact]]_"
+    desc: "_Infernal Pact_"
 
   - name: "Flames of Fury"
     desc: "  Any weapon an erinys holds gains the effects of a _[[Equipment/Flaming|Flaming]]_ rune while they hold it."
 
   - name: "Furious Fusillade"
-    desc: "`pf2:3`  The erinys hovers in place if they are flying and fires one arrow at any number of creatures in a @Template[cone|distance:30]. Each attack is rolled separately. This counts as one attack for the purpose of the erinys's multiple attack penalty."
+    desc: "`pf2:3`  The erinys hovers in place if they are flying and fires one arrow at any number of creatures in a 30-foot cone. Each attack is rolled separately. This counts as one attack for the purpose of the erinys's multiple attack penalty."
 
   - name: "Rope Snare"
     desc: "  An erinys carries a coil of rope woven of their hair (use the statistics for [[Equipment/Rope|Rope]]) that animates in their hands.\n\nWhen a creature is hit by the erinys's rope, a segment of the rope tears loose and wraps itself around the creature, imposing a 10-foot circumstance penalty to Speed. The piece that tears off is 10 feet long for a Medium or smaller creature, and doubles in length for each size larger than Medium.\n\nWhen a creature [[Actions/Escape|Escapes]] the effect (DC 26), the detached segment of rope withers away into useless black sludge.\n\n[[Bestiary Effects/Effect_ Rope Snare|Effect: Rope Snare]]"

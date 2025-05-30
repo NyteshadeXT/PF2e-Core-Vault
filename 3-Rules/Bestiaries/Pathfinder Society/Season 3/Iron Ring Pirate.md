@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Bravery"
     desc: "  When the pirate rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the [[Conditions/Frightened|Frightened]] condition, reduce its value by 1."
@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +8 (forceful, sweep)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+8 (forceful, sweep)\n__Damage__  1d6 + 2 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +9 (agile, versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+9 (agile, versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Boarding Action"
     desc: "`pf2:2`  The pirate swings on a rope or Strides, moving up to double their Speed. If the pirate boarded or disembarked a boat during this movement, they can make a melee Strike at the end of their movement that deals one extra damage die on a hit."

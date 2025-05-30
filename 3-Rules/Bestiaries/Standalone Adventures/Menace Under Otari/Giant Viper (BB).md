@@ -3,7 +3,7 @@ title: "Giant Viper (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.KsWAIXTTh3mfNWOY" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.AJ5LuNMVPLCydryP" 
 tags:
   - pf2e/creature/type/animal
   - pf2eMonster
@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +11 (finesse)\n__Damage__  1d8 + 3 piercing plus giant-viper-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+11 (finesse)\n__Damage__  1d8 + 3 piercing plus giant-viper-venom"
 
   - name: "Coil"
     desc: "`pf2:1`  The giant viper uses an action to coil itself. While coiled, it can target a creature up to 10 feet away with its fangs Strike. After the giant viper Strikes with its fangs, it becomes uncoiled."

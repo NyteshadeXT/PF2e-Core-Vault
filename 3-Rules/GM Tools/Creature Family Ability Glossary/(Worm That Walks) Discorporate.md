@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Worm That Walks) Discorporate"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.QlrbnkeZu6M4kvOy"
 license: OGL

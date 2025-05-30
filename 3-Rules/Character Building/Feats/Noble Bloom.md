@@ -15,7 +15,7 @@ license: ORC
 ---
 # Noble Bloom `pf2:r`
 ## Feat 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[emotion]][[leshy]][[3-Rules/trait_reference/M/mental]][[visual]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[emotion]][[leshy]][[mental]][[visual]]
 
 **Category** ancestry; 
 
@@ -32,5 +32,5 @@ license: ORC
 
 Certain plants and flowers hold a reputation throughout Tian Xia for being strong and upstanding, able to weather adversity. In the moment your ally would succumb to their injuries, you stand tall and bloom proudly, radiating this strength for them. Your ally avoids being knocked out and remains at 1 Hit Point, and their [[Conditions/Wounded|Wounded]] condition increases by 1, as does your own.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

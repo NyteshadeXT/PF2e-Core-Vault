@@ -12,7 +12,7 @@ license: ORC
 ---
 # Goring Charge `pf2:2`
 ## Feat 9
-### [[Minotaur]]
+### [[minotaur]]
 
 **Category** ancestry; 
 

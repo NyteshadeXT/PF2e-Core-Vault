@@ -9,7 +9,6 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/oni
-  - pf2e/creature/type/unholy
   - pf2eMonster
   - pf2e/creature/level/13
   - remaster
@@ -34,7 +33,6 @@ trait_01: [[cold]]
 trait_02: [[giant]]
 trait_03: [[humanoid]]
 trait_04: [[oni]]
-trait_05: [[unholy]]
 modifier: 26
 perception:
   - name: "Perception"
@@ -58,6 +56,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
   - name: "Snow Vision"
     desc: "  Snow doesn't impair the snow oni's vision; they ignore concealment from snowfall."
 
@@ -70,31 +71,31 @@ abilities_mid:
     desc: "`pf2:r`  **Trigger** The snow oni is targeted by a ranged Strike or spell attack roll that doesn't have the fire trait\n* * *\n\n**Effect** The snow oni creates a reflective blockade of ice, gaining a +4 circumstance bonus to AC against the triggering attack roll. If the attack misses, the snow oni redirects the attack to another creature within 20 feet of the snow oni. The attacker rerolls the attack roll against the new target."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +27 (agile, magical, reach 10 feet)\n__Damage__  2d8 + 16 bludgeoning 2d6 cold"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+27 (agile, magical, reach 10 feet, unarmed)\n__Damage__  2d8 + 16 bludgeoning 2d6 cold"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +27 (magical, reach 10 feet)\n__Damage__  2d6 + 16 piercing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+27 (magical, reach 10 feet, unarmed)\n__Damage__  2d6 + 16 piercing 1d6 bleed"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Ice Dart +25 (cold, magical, range increment 60 feet)\n__Damage__  3d10 + 4 cold 1d6 spirit"
+  - name: "**Ranged** `pf2:1` Ice Dart"
+    desc: "+25 (cold, magical, range increment 60 feet)\n__Damage__  3d10 + 4 cold 1d6 spirit"
 
   - name: "Primal Innate Spells"
     desc: "DC 31, attack +23; __2nd __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph) The snow oni can take on the appearance of any Medium or Large humanoid creature. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph) The snow oni can take on the appearance of any Medium or Large humanoid creature. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Chilling Combo"
     desc: "`pf2:1` (cold) The snow oni makes two fist Strikes targeting the same creature. If they both hit, the target becomes [[Conditions/Slowed|Slowed 1]] for 1 round."
 
   - name: "Falling Frozen Lightning"
-    desc: "`pf2:2` (cold,primal) The snow oni calls down a bolt of icy lightning, white as fallen snow. The bolt strikes a location within 60 feet, freezing the air into a cloud of snow that fills a @Template[burst|distance:20] and lasts for 1 minute.\n\nAll creatures within the snow become [[Conditions/Concealed|Concealed]], and all creatures outside the snow become concealed to creatures within it. A creature that enters the snow or begins its turn there takes 15 cold damage, with a DC 33 Fortitude check save."
+    desc: "`pf2:2` (cold,primal) The snow oni calls down a bolt of icy lightning, white as fallen snow. The bolt strikes a location within 60 feet, freezing the air into a cloud of snow that fills a 20-foot burst and lasts for 1 minute.\n\nAll creatures within the snow become [[Conditions/Concealed|Concealed]], and all creatures outside the snow become concealed to creatures within it. A creature that enters the snow or begins its turn there takes 15 cold damage, with a DC 33 Fortitude check save."
  
 ```
 

@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +11 (agile, reach 10 feet)\n__Damage__  2d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+11 (agile, reach 10 feet, unarmed)\n__Damage__  2d6 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d8 + 4 piercing"
 
   - name: "Frightening Display"
     desc: "`pf2:2` (auditory,emotion,fear,mental) The gorilla beats its chest in a terrifying display. Creatures within 30 feet must attempt a DC 20 Will check save.\n\nWhile a creature is [[Conditions/Frightened|Frightened]] by this ability, it is [[Conditions/Off-Guard|Off-Guard]] to the gorilla.\n* * *\n\n**Critical Success** No effect and temporarily immune for 1 minute.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 2]]."

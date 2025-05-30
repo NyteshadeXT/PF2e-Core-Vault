@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +11 (agile)\n__Damage__  1d4 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+11 (agile)\n__Damage__  1d4 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +11 (two-hand d8)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+11 (two-hand d8)\n__Damage__  1d4 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +11 (agile, trip)\n__Damage__  1d4 + 4 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+11 (agile, trip)\n__Damage__  1d4 + 4 slashing"
 
   - name: "Primal Prepared Spells"
     desc: "DC 21, attack +11; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Humanoid Form|Humanoid Form]]_; __1st __  _[[Spells/Breathe Fire|Breathe Fire]]_, _[[Spells/Spider Sting|Spider Sting]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(2nd)__ _[[Spells/Ignition|Ignition]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Tangle Vine|Tangle Vine]]_"

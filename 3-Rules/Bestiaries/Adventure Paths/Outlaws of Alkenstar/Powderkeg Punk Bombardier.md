@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +7 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+7 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire +9 (bomb, range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire"
+    desc: "+9 (bomb, range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
 
   - name: "Bombing Run"
     desc: "`pf2:2`  The bombardier draws two bombs, and then Strides and makes two Strikes with a bomb before, after, or during the movement."

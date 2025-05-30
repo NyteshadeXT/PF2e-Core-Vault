@@ -12,7 +12,7 @@ license: OGL
 ---
 # Sacral Lord
 ## Feat 4
-### [rare](rare.md "Rare Rarity Trait")[[champion]][[oracle]]
+### [rare](rare "Rare Rarity Trait")[[champion]][[oracle]]
 
 **Category** class; 
 
@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** trained in Occultism or Religion
 * * *
-By right of ritual or sheer stubbornness, you have claimed rulership of the land. Claim a defined territory, such as a small section of forest or river, or a district of a larger city. Within its borders, you can cast [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]], [[Guidance|Guidance]], and [[Sigil|Sigil]] as innate divine cantrips, and you gain a +1 circumstance bonus to [[Actions/Make an Impression|Make an Impression]] on creatures that have the celestial, fiend, fey, monitor, or spirit traits.
+By right of ritual or sheer stubbornness, you have claimed rulership of the land. Claim a defined territory, such as a small section of forest or river, or a district of a larger city. Within its borders, you can cast [[Spells/Detect Magic|Detect Magic]], [[Spells/Guidance|Guidance]], and [[Spells/Sigil|Sigil]] as innate divine cantrips, and you gain a +1 circumstance bonus to [[Actions/Make an Impression|Make an Impression]] on creatures that have the celestial, fiend, fey, monitor, or spirit traits.
 
 * * *
 

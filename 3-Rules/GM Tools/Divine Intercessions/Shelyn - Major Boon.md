@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Shelyn - Major Boon"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/deityboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.l7n8n4fAoRLIn95W"
 license: OGL
 ---
 # Shelyn - Major Boon
-
+## Feat 1
 ### 
 
 **Category** deityboon; 
@@ -25,5 +25,5 @@ Additionally, the love you share with your friends inspires them. You and your a
 
 [[Divine Intercessions/Effect_ Shelyn's Love|Effect: Shelyn's Love]]
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

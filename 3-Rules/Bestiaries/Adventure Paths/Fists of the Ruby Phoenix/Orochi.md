@@ -59,11 +59,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 37 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 37 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Head: Weaknesses and Immunities"
     desc: "  **HP** 60, multiple heads\n\n**Immunities** area damage\n\n**Weaknesses** cold iron 15\n\n**Resistances** poison 15"
@@ -71,14 +74,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +35 (reach 40 feet)\n__Damage__  3d12 + 18 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+35 (reach 40 feet, unarmed)\n__Damage__  3d12 + 18 piercing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +35 (agile, magical, reach 50 feet)\n__Damage__  3d10 + 18 bludgeoning plus improved-knockdown"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+35 (agile, magical, reach 50 feet)\n__Damage__  3d10 + 18 bludgeoning plus improved-knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +34 (brutal, range increment 100 feet)\n__Damage__  3d8 + 18 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+34 (brutal, range increment 100 feet)\n__Damage__  3d8 + 18 bludgeoning"
 
   - name: "Multiple Opportunities"
     desc: "  The orochi gains an extra reaction per round for each of their heads that remains beyond the first, which it can use only to make Attacks of Opportunity. They can't use more than 1 reaction on the same triggering action, and the orochi must use a different head for each Attack of Opportunity."
@@ -87,7 +90,13 @@ attacks:
     desc: "`pf2:2`  The orochi makes a number of jaws Strikes equal to the number of their remaining heads, each against a different target. The orochi's multiple attack penalty doesn't increase until after the orochi makes all of their attacks."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 2d12+18 bludgeoning damage, Rupture 40\n\n* * *\n"
+    desc: "`pf2:1` (attack) Huge, 2d12+18 bludgeoning damage, Rupture 40\n* * *\n\nThe monster attempts to swallow a creature of the listed size or smaller that it has grabbed or restrained in its jaws or mouth. If a swallowed creature is of the maximum size listed, the monster can't use Swallow Whole again. If the creature is smaller than the maximum, the monster can usually swallow more creatures; the GM determines the maximum. The monster attempts an Athletics check check opposed by the grabbed creature's Reflex DC. If it succeeds, it swallows the creature. The monster's mouth or jaws no longer grab a creature it has swallowed, so the monster is free to use them to Strike or Grab once again. The monster can't attack creatures it has swallowed.\n\nA swallowed creature is [[Conditions/Grabbed|Grabbed]], is [[Conditions/Slowed|Slowed 1]], and has to hold its breath or start suffocating. The swallowed creature takes the listed amount of damage when first swallowed and at the end of each of its turns while it's swallowed. If the victim [[Actions/Escape|Escapes]] this ability's grabbed condition, it exits through the monster's mouth. This frees any other creature grabbed in the monster's mouth or jaws. A swallowed creature can attack the monster that has swallowed it, but only with unarmed attacks or with weapons of light Bulk or less. The swallowing creature is [[Conditions/Off-Guard|Off-Guard]] against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the swallowed creature cuts itself free. A creature that gets free by either Escaping or cutting itself free can immediately breathe and exits the swallowing monster's space.\n\n[[Bestiary Effects/Effect_ Engulf and Swallow Whole|Effect: Engulf and Swallow Whole]]\n\nIf the monster dies, a swallowed creature can be freed by creatures adjacent to the corpse if they spend a combined total of 3 actions cutting the monster open with a weapon or unarmed attack that deals piercing or slashing damage."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
+
+  - name: "[[Bestiary Ability Glossary/Improved Knockdown|Improved Knockdown]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature as a free action. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

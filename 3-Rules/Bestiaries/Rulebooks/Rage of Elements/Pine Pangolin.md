@@ -58,20 +58,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile)\n__Damage__  2d12 + 3 piercing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile, unarmed)\n__Damage__  2d12 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +17 ()\n__Damage__  2d8 + 3 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+17 ()\n__Damage__  2d8 + 3 bludgeoning plus grab"
 
   - name: "Roll Up"
     desc: "`pf2:1` (move) The pine pangolin falls [[Conditions/Prone|Prone]], closes up its scales, and rolls into a ball. While Rolled Up, the pangolin gains resistance 10 to physical damage and total immunity to falling damage from heights of 50 feet or less. The only action the pine pangolin can take is to Stand, and the effects of Roll Up end once the pangolin Stands."
 
   - name: "Secrete Tar"
-    desc: "`pf2:1` (plant) The pine pangolin secretes a brown, sticky tar within a @Template[emanation|distance:5], making those squares difficult terrain for 1 minute. Each creature that enters or starts its turn in a tarred square must succeed at a DC 25 Fortitude check save or become [[Conditions/Immobilized|Immobilized]] until it Escapes. On a critical failure, the creature falls [[Conditions/Prone|Prone]]; prone creatures take a –2 circumstance penalty to their checks to [[Actions/Escape|Escape]] the tar. The pine pangolin is immune to the effects of its own tar."
+    desc: "`pf2:1` (plant) The pine pangolin secretes a brown, sticky tar within a 5-foot emanation, making those squares difficult terrain for 1 minute. Each creature that enters or starts its turn in a tarred square must succeed at a DC 25 Fortitude check save or become [[Conditions/Immobilized|Immobilized]] until it Escapes. On a critical failure, the creature falls [[Conditions/Prone|Prone]]; prone creatures take a –2 circumstance penalty to their checks to [[Actions/Escape|Escape]] the tar. The pine pangolin is immune to the effects of its own tar."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +31 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 11 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+31 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +32 (agile, finesse, magical, thrown 10 ft., versatile s)\n__Damage__  2d4 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+32 (agile, finesse, magical, thrown 10 ft., versatile s)\n__Damage__  2d4 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +30 (magical, range increment 120 feet, reload 1)\n__Damage__  2d8 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+30 (magical, range increment 120 feet, reload 1)\n__Damage__  2d8 + 6 piercing"
 
   - name: "Point Blank"
     desc: "`pf2:1` (flourish) The master assassin makes a crossbow Strike against an adjacent enemy; unlike most ranged Strikes, this Strike doesn't provoke reactions. If successful, the attack deals an additional 4d8 precision damage."

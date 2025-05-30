@@ -4,6 +4,7 @@ title: "Spell Effect: Element Embodied (Fire)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.spell-effects.Item.lmAwCy7isFvLYdGd"
 license: OGL
 ---
@@ -16,11 +17,9 @@ license: OGL
 
 
 
-Granted by [[Element Embodied|Element Embodied]]
+Granted by [[Spells/Element Embodied|Element Embodied]]
 
-Drawing upon the deepest wells of magic in an elemental plane, you transform into a spectacular elemental. You can choose between an air elemental, earth elemental, fire elemental, or water elemental. Your battle form is Gargantuan, and you must have enough space to expand into or the spell is lost. While in this form, you gain the elemental trait and the trait for the element you choose. You can Dismiss the spell.
-
-You gain the following statistics and abilities regardless of which battle form you choose:
+You transform into a Gargantuan elemental battle form. While in this form, you gain the elemental trait and the fire trait. You gain the following statistics and abilities regardless of which battle form you choose:
 
 *   AC = 25 + your level. Ignore your armor's check penalty and Speed reduction.
 *   30 temporary Hit Points.
@@ -31,9 +30,10 @@ You gain the following statistics and abilities regardless of which battle form 
 You also gain specific abilities based on the type of elemental you choose:
 
 *   **Fire Elemental** 50 feet; immunity to fire; weakness to cold 10;
+    
     *   **Intense Heat** (aura, fire) 30 feet. A creature that enters the aura or starts its turn in the aura takes 5d6 fire damage with a Reflex check save against your spell DC. A creature can take damage from the aura only once per round;
     *   **Melee** `pf2:1` tendril (reach 25 feet), **Damage** 3d10+12 fire plus 2d6 persistent fire;
     *   **Ranged** `pf2:1` fire mote (range increment 60 feet), **Damage** 4d8+6 bludgeoning.
 
-*Source: Pathfinder Secrets of Magic*
+*Source: Pathfinder Rage of Elements*
 *OGL*

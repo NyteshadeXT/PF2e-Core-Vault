@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 (finesse)\n__Damage__  1d8 + 4 fire 1d4 fire"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (finesse, unarmed)\n__Damage__  1d8 + 4 fire 1d4 fire"
 
   - name: "Breath Weapon"
     desc: "`pf2:2` (fire,primal) The cinder rat breathes fire in a 15-foot cone that deals 4d6 fire damage (DC 19 Reflex check save). The cinder rat can't use Breath Weapon again for 1d4 rounds."

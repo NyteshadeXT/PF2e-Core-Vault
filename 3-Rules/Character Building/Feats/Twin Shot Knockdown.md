@@ -6,8 +6,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.aWk0JaqVaUf2Cz9a"
-license: OGL
+license: ORC
 ---
 # Twin Shot Knockdown `pf2:2`
 ## Feat 10
@@ -25,4 +26,4 @@ license: OGL
 You fire at an enemy while targeting a part of its anatomy that will disrupt its balance. Make two Strikes against the same target, one with each of the required weapons. If both Strikes are successful, the target is also knocked [[Conditions/Prone|Prone]].
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

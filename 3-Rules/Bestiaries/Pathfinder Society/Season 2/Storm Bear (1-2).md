@@ -58,17 +58,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d8 + 3 piercing 1d4 electricity"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d8 + 3 piercing 1d4 electricity"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile)\n__Damage__  1d6 + 3 slashing plus knockdown"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, unarmed)\n__Damage__  1d6 + 3 slashing plus knockdown"
 
   - name: "Thunderous Roar"
     desc: "`pf2:2` (auditory,primal,sonic) The storm bear unleashes a deafening roar. Any non-storm bear creature within 10 feet takes 2d6 sonic damage (DC 17 Fortitude check save); creatures that critically fail this save are deafened for 1d6 rounds.\n\nThe storm bear can't use Thunderous Roar again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

@@ -25,5 +25,5 @@ license: OGL
 
 You reinforce your shield with a rocky outgrowth of metal and stone. You Raise your Shield. If you use the Shield Block reaction before your next turn, add your character level to your shield's Hardness when determining how much damage is blocked.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

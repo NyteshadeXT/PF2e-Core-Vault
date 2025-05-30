@@ -59,17 +59,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 ()\n__Damage__  2d10 + 9 piercing plus ghast-ghast-fever,ghast-paralysis"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (unarmed)\n__Damage__  2d10 + 9 piercing plus ghast-ghast-fever,ghast-paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile)\n__Damage__  2d8 + 9 slashing plus ghast-paralysis,grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, unarmed)\n__Damage__  2d8 + 9 slashing plus ghast-paralysis,grab"
 
   - name: "[[Creature Family Ability Glossary/(Ghast) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** The ghastly bear is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghastly bear devours a chunk of the corpse and regains 6d6 Hit Points.\n\nIt can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The ghastly bear is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghastly bear devours a chunk of the corpse and regains 6d6 healing Hit Points.\n\nIt can regain Hit Points from any given corpse only once."
 
   - name: "[[Creature Family Ability Glossary/(Ghast) Ghast Fever|Ghast Fever]]"
     desc: " (disease) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 3d8 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 3d8 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghast|Ghast]] the next midnight"
@@ -81,7 +84,7 @@ attacks:
     desc: " (incapacitation,occult) Any living creature hit by a ghastly bear's attack must succeed at a DC 26 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -21,5 +21,5 @@ license: OGL
 * * *
 You lash out with your tongue to disarm your foe. You attempt to Disarm a creature within 10 feet, ignoring the requirement that you must have at least one hand free.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

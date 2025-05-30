@@ -34,5 +34,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You unleash a mighty wave from your hand that buffets back your foes. Each creature in the area must attempt a Fortitude saving throw. If a creature pushed by _unbreaking wave advance_ would be pushed into a solid barrier or another creature, it stops at that point and takes 3d6 damage.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is pushed 10 feet.\n\n**Critical Failure** The creature is pushed 20 feet.\n* * *\n\n**Heightened (+1)** The damage for pushing a creature into a solid barrier increases by 1d6."
-sourcebook: "_Pathfinder Lost Omens: World Guide_"
+sourcebook: "_Pathfinder Lost Omens World Guide_"
 ```

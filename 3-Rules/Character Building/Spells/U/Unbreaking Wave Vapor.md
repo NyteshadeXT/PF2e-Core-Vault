@@ -30,5 +30,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "**Trigger** You're targeted by an attack made by an attacker you can see.\n* * *\n\nYou're [[Conditions/Concealed|Concealed]] against the triggering attack and gain a +2 circumstance bonus to AC against it. After the triggering attack is complete, you can Step if the triggering attack hit or Step twice if the triggering attack missed.\n\n[[Spell Effects/Spell Effect_ Unbreaking Wave Vapor|Spell Effect: Unbreaking Wave Vapor]]"
-sourcebook: "_Pathfinder Lost Omens: Impossible Lands_"
+sourcebook: "_Pathfinder Lost Omens Impossible Lands_"
 ```

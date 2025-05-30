@@ -53,14 +53,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 ()\n__Damage__  1d10 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (unarmed)\n__Damage__  1d10 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +12 (agile)\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+12 (agile, unarmed)\n__Damage__  1d6 + 6 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,fire) The fleshforge dreg breathes flames that deal 4d6 fire damage to all creatures in a @Template[cone|distance:15] (DC 15 Reflex check save).\n\nThe fleshforge dreg can't use its breath weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) The fleshforge dreg breathes flames that deal 4d6 fire damage to all creatures in a 15-foot cone (DC 15 Reflex check save).\n\nThe fleshforge dreg can't use its breath weapon again for 1d4 rounds."
  
 ```
 

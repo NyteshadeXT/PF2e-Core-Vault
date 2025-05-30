@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Lamashtu - Minor Boon"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/deityboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.6f8zTNIs5XXzkhkR"
 license: OGL
 ---
 # Lamashtu - Minor Boon
-
+## Feat 1
 ### 
 
 **Category** deityboon; 
@@ -25,5 +25,5 @@ Whether the attack deals bludgeoning, slashing, or piercing damage depends on th
 
 If the unarmed Strike replaces a limb, you can still use the mutated limb for its original functions. Lamashtu chooses the form and function of your mutation.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (unarmed)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Pounce"
     desc: "`pf2:1`  The young arabuk Strides and makes a Strike at the end of that movement. If the arabuk began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."

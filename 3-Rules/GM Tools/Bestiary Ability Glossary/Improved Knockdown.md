@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Improved Knockdown"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-ability-glossary-srd.Item.LbnsT8yXchHMQT3t"
@@ -18,7 +18,11 @@ license: ORC
 
 
 
-The monster can use [[Bestiary Ability Glossary/Knockdown|Knockdown]] as a free action triggered by a hit with its initial attack.
+**Requirements** The monster's last action was a successful Strike that lists Improved Knockdown in its damage entry
+
+* * *
+
+**Effect** The monster attempts to [[Actions/trip|trip]] the creature as a free action. This attempt neither applies nor counts toward the monster's multiple attack penalty.
 
 *Source: Pathfinder Monster Core*
 *ORC*

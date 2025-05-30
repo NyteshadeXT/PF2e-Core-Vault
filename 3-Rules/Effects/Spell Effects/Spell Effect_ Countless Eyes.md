@@ -17,11 +17,9 @@ license: ORC
 
 
 
-Granted by [[Countless Eyes|Countless Eyes]].
+Granted by [[Spells/Countless Eyes|Countless Eyes]]
 
-* * *
-
-The subject can't be flanked for the spell's duration. In addition, when the subject succeeds when Seeking, it critically succeeds instead.
+You can't be flanked. When you roll a success on Seek action, you critically succeed instead.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

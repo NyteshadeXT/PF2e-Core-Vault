@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +7 (agile, finesse, nonlethal)\n__Damage__  1d4 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+7 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 1 bludgeoning"
 
   - name: "Combat Pickpocket"
     desc: "`pf2:2`  **Requirements** The robber novice is in the same square or adjacent to the target\n* * *\n\n**Effect** The robber novice can attempt to [[Actions/Steal|Steal]] an object they can see on the target using their Thievery modifier against the target's Perception DC."

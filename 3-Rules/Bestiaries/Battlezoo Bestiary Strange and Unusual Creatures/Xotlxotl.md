@@ -39,7 +39,7 @@ perception:
 languages: "Aklo, Thalassic"
 skills:
   - name: "Skills"
-    desc: "Athletics: +6, Nature: +5, Occultism: +6, Stealth: +7, Survival: +6, Athletics: +6, Nature: +5, Occultism: +6, Stealth: +7, Survival: +6"
+    desc: "Athletics: +6, Nature: +5, Occultism: +6, Stealth: +7, Survival: +6"
 abilityMods: [2, 3, 4, 2, 2, 3]
 speed: 25 feet,  swim 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -67,14 +67,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +8 ()\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+8 ()\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acidic Spittle +9 (range 30 feet)\n__Damage__  1 acid 1d6 acid"
+  - name: "**Ranged** `pf2:1` Acidic Spittle"
+    desc: "+9 (range 30 feet)\n__Damage__  1 acid 1d6 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +9 (range increment 20 feet)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+9 (range increment 20 feet)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Sudden Mutation"
     desc: "`pf2:1`  **Frequency** Once per day\n* * *\n\n**Effect** The xotlxotl gains a +1 item bonus to Fortitude saves and 5 temporary Hit Points, but suffers a –2 penalty to Will saves, perception checks, and initiative rolls for 1 minute."

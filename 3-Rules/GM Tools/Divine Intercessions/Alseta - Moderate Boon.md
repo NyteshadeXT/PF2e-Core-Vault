@@ -16,7 +16,7 @@ license: OGL
 
 
 
-New doors open themselves for you. You can cast [[Knock|Knock]] once per day as a divine innate spell.
+New doors open themselves for you. You can cast [[Spells/Knock|Knock]] once per day as a divine innate spell.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

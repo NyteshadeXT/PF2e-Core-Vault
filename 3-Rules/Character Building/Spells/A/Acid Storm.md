@@ -13,8 +13,9 @@ tags:
   - tradition/arcane
   - tradition/primal
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.ZW8ovbu1etdfMre3" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Acid Storm  `pf2:2`"
@@ -39,5 +40,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You evoke a storm of acid rain that pelts the area for the spell's duration. A creature that begins its turn in the area takes 3d8 acid damage (basic Reflex save).\n* * *\n\n**Heightened (+2)** The damage increases by 1d8."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

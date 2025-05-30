@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +8 (agile, finesse, sweep)\n__Damage__  1d6 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+8 (agile, finesse, sweep, unarmed)\n__Damage__  1d6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Chakri +8 (agile, deadly d8, reload 0, thrown 30 ft.)\n__Damage__  1d4 slashing"
+  - name: "**Ranged** `pf2:1` Chakri"
+    desc: "+8 (agile, deadly d8, reload 0, thrown 30 ft.)\n__Damage__  1d4 slashing"
  
 ```
 

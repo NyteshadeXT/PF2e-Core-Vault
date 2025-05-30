@@ -20,7 +20,7 @@ license: ORC
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-fortune-adult.webp| ]]
+token: [[modules/pf2e-tokens-monster-core/assets/portraits/dragon-fortune-ancient.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Fortune Dragon (Ancient, Spellcaster)"
 level: "Creature 19"
@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +34 (magical, reach 20 feet)\n__Damage__  4d10 + 15 piercing 1d6 force"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+34 (magical, reach 20 feet, unarmed)\n__Damage__  4d10 + 15 piercing 1d6 force"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +34 (agile, magical, reach 15 feet)\n__Damage__  1d6 force 4d6 + 15 piercing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+34 (agile, magical, reach 15 feet, unarmed)\n__Damage__  1d6 force 4d6 + 15 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +32 (magical, reach 25 feet)\n__Damage__  1d6 force 4d10 + 15 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+32 (magical, reach 25 feet)\n__Damage__  1d6 force 4d10 + 15 bludgeoning"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 45, attack +37; __9th __  _[[Spells/Detonate Magic|Detonate Magic]]_, _[[Spells/Falling Stars|Falling Stars]]_, _[[Spells/Phantasmagoria|Phantasmagoria]]_; __8th __  _[[Spells/Arctic Rift|Arctic Rift]]_, _[[Spells/Disappearance|Disappearance]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __  _[[Spells/Contingency|Contingency]]_, _[[Spells/Energy Aegis|Energy Aegis]]_, _[[Spells/Planar Palace|Planar Palace]]_; __6th __  _[[Spells/Cursed Metamorphosis|Cursed Metamorphosis]]_, _[[Spells/Teleport|Teleport]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __  _[[Spells/Howling Blizzard|Howling Blizzard]]_, _[[Spells/Scouting Eye|Scouting Eye]]_, _[[Spells/Toxic Cloud|Toxic Cloud]]_; __4th __  _[[Spells/Flicker|Flicker]]_, _[[Spells/Translocate|Translocate]]_, _[[Spells/Vision of Death|Vision of Death]]_; __3rd __  _[[Spells/Aqueous Orb|Aqueous Orb]]_, _[[Spells/Haste|Haste]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mist|Mist]]_, _[[Spells/Web|Web]]_; __1st __  _[[Spells/Grease|Grease]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Item Facade|Item Facade]]_, _[[Spells/Phantasmal Minion|Phantasmal Minion]]_\n__Cantrips__  __(10th)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
@@ -79,13 +79,13 @@ attacks:
     desc: "DC 45, attack +37; __10th __ (3 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Force Barrage|Force Barrage]]_, _[[Spells/Implosion|Implosion]]_, _[[Spells/Quandary|Quandary]]_, _[[Spells/Slither|Slither]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_, _[[Spells/Warp Mind|Warp Mind]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Disruptive Breath"
-    desc: "`pf2:2` (arcane,force) The dragon unleashes a spray of magic-disrupting energies that deals 18d6 force damage in a @Template[cone|distance:60] (DC 45 Reflex check save). Creatures that fail become [[Conditions/Stupefied|Stupefied 1]] ([[Conditions/Stupefied|Stupefied 2]] on a critical failure) for 1 minute.\n\nThe dragon can't use Disruptive Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,force) The dragon unleashes a spray of magic-disrupting energies that deals 18d6 force damage in a 60-foot cone (DC 45 Reflex check save). Creatures that fail become [[Conditions/Stupefied|Stupefied 1]] ([[Conditions/Stupefied|Stupefied 2]] on a critical failure) for 1 minute.\n\nThe dragon can't use Disruptive Breath again for 1d4 rounds."
 
   - name: "Drain Hoard"
     desc: "`pf2:1`  **Requirements** The dragon is within 60 feet of their hoard\n\n**Frequency** once per day\n* * *\n\n**Effect** The dragon draws power out of the magic items in their hoard, regaining all their expended spontaneous spell slots."
 
   - name: "Share the Wealth"
-    desc: "`pf2:2`  **Requirements** The dragon's body is covered in riches (this is typically the case when the dragon is first encountered)\n* * *\n\n**Effect** The dragon shakes their body aggressively, sending coins and other riches flying in every direction, dealing 18d10 bludgeoning damage with a DC 40 Reflex check save to all creatures in a @Template[emanation|distance:50]. The dragon's body is then no longer covered in riches."
+    desc: "`pf2:2`  **Requirements** The dragon's body is covered in riches (this is typically the case when the dragon is first encountered)\n* * *\n\n**Effect** The dragon shakes their body aggressively, sending coins and other riches flying in every direction, dealing 18d10 bludgeoning damage with a DC 40 Reflex check save to all creatures in a 50-foot emanation. The dragon's body is then no longer covered in riches."
 
   - name: "Treasure Dive"
     desc: "`pf2:2`  **Requirements** The dragon's body isn't covered in riches and the dragon is adjacent to their hoard\n* * *\n\n**Effect** The dragon Strides or Burrows through their hoard using their land Speed. They coat themself in coins, magic items, and other treasures. This contact with magical items revitalizes the dragon, causing them to regain one expended spontaneous spell slot.\n\nThe dragon can move through other creatures while moving in this way. Creatures in the dragon's path, or above it if the dragon Burrows, must succeed at a DC 38 Reflex check save or be pushed 10 feet (or pushed 20 feet and knocked [[Conditions/Prone|Prone]] on a critical failure)."

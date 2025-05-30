@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +14 ()\n__Damage__  2d10 + 7 slashing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+14 ()\n__Damage__  2d10 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +14 (agile)\n__Damage__  2d8 + 7 piercing"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+14 (agile)\n__Damage__  2d8 + 7 piercing"
  
 ```
 

@@ -56,6 +56,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Universal Language"
     desc: "  Anything spoken by the brainchild is perceived by the listener in its native language."
 
@@ -68,7 +71,7 @@ abilities_mid:
     desc: "  The first time in any round when someone plays a flute within 30 feet of Heh Shan-Bao, he must attempt a Will check save against the flute player's Performance DC. This DC increases by 4 if the flute player is someone (at the GM's discretion) who's strongly religious.\n* * *\n\n**Critical Success** Heh Shan-Bao is unaffected.\n\n**Success** Heh Shan-Bao becomes [[Conditions/Frightened|Frightened 1]].\n\n**Failure** Heh Shan-Bao becomes [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** Heh Shan-Bao becomes [[Conditions/Frightened|Frightened 3]] and is [[Conditions/Fleeing|Fleeing]] until the end of his next turn."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 100 feet DC 30 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 100 feet DC 30 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Persistence of Memory"
     desc: " (illusion,mental,occult) When a brainchild is destroyed, it returns if anyone still fully believes it exists, re-forming within 100 feet of any believer after 2d4 days."
@@ -76,8 +79,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Illusory Claws +26 (mental, occult)\n__Damage__  4d8 + 10 mental"
+  - name: "**Melee** `pf2:1` Illusory Claws"
+    desc: "+26 (mental, occult)\n__Damage__  4d8 + 10 mental"
 
   - name: "Occult Innate Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Phantasmal Calamity|Phantasmal Calamity (Creates a Flesh-Eating Swarm of Red Nindoru Butterflies)]]_; __6th __  _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer (Image Resembles Kugaptee) (x3)]]_; __5th __  _[[Spells/Shatter|Shatter (x3)]]_, _[[Spells/Translocate|Translocate (x2)]]_\n__Cantrips__  __(7th)__ _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Message|Message]]_"

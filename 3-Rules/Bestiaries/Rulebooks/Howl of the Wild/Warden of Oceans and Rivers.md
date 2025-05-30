@@ -33,7 +33,7 @@ trait_03: [[water]]
 modifier: 39
 perception:
   - name: "Perception"
-    desc: "+39; "
+    desc: "+39; Darkvision, Scent (Imprecise) 200 Feet"
 languages: "voices of nature"
 skills:
   - name: "Skills"
@@ -53,6 +53,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Scent|Scent (Imprecise) 200 feet]]"
+    desc: "  Scent involves sensing creatures or objects by smell, and is usually a vague sense. The range is listed in the ability, and it functions only if the creature or object being detected emits an aroma (for instance, incorporeal creatures usually do not exude an aroma).\n\nIf a creature emits a heavy aroma or is upwind, the GM can double or even triple the range of scent abilities used to detect that creature, and the GM can reduce the range if a creature is downwind."
+
+  - name: "[[Bestiary Ability Glossary/Darkvision|Darkvision]]"
+    desc: "  A monster with darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. Some forms of magical darkness, such as a 4th-rank [[Spells/Darkness|Darkness]] spell, block normal darkvision. A monster with [[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]], however, can see through even these forms of magical darkness."
+
   - name: "[[Creature Family Ability Glossary/(Warden of the Wild) Voice of Nature|Voice of Nature]]"
     desc: "  Though the Wardens of the Wild do not speak in words, they can communicate complex concepts flawlessly and wordlessly with any animal, beast, plant, or other creature of the natural world through prolonged eye contact. Sapient creatures with strong ties to the natural world, such as animal instinct barbarians or druids who speak the Wildsong, can somewhat understand a Warden of the Wild, though the meaning can be vague."
 
@@ -67,11 +73,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horned Crown +41 (magical, reach 10 feet)\n__Damage__  2d8 + 15 cold 2d8 + 15 poison"
+  - name: "**Melee** `pf2:1` Horned Crown"
+    desc: "+41 (magical, reach 10 feet)\n__Damage__  2d8 + 15 cold 2d8 + 15 poison"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +43 (agile, magical, reach 30 feet)\n__Damage__  4d10 + 16 bludgeoning plus grasp-of-the-deep"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+43 (agile, magical, unarmed, reach 30 feet)\n__Damage__  4d10 + 16 bludgeoning plus grasp-of-the-deep"
 
   - name: "All Are One"
     desc: "`pf2:1`  **Frequency** once per turn\n* * *\n\n**Effect** The warden attracts organisms that extend their influence. The area of bioluminescent maelstrom and the reach of their tentacle Strike increase by 10 feet for 1 minute, to a maximum of an additional 30 feet."

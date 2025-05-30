@@ -63,23 +63,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Syringe +34 (agile)\n__Damage__  2d8 + 10 piercing"
+  - name: "**Melee** `pf2:1` Syringe"
+    desc: "+34 (agile)\n__Damage__  2d8 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +29 (agile, finesse, magical, thrown 10 ft., versatile s)\n__Damage__  4d4 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+29 (agile, finesse, magical, thrown 10 ft., versatile s)\n__Damage__  4d4 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Major Acid Flask +36 (acid, alchemical, bomb, range increment 20 feet, splash)\n__Damage__  1 acid 4d6 acid 4 acid"
+  - name: "**Ranged** `pf2:1` Major Acid Flask"
+    desc: "+36 (acid, alchemical, bomb, range increment 20 feet, splash)\n__Damage__  1 acid 4d6 acid 4 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Major Alchemist&#x27;s Fire +36 (alchemical, bomb, fire, range increment 20 feet, splash)\n__Damage__  4d8 fire 4 fire 4 fire"
+  - name: "**Ranged** `pf2:1` Major Alchemist&#x27;s Fire"
+    desc: "+36 (alchemical, bomb, fire, range increment 20 feet, splash)\n__Damage__  4d8 fire 4 fire 4 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Major Bottled Lightning +36 (alchemical, bomb, electricity, range increment 20 feet, splash)\n__Damage__  4d6 electricity 4 electricity"
+  - name: "**Ranged** `pf2:1` Major Bottled Lightning"
+    desc: "+36 (alchemical, bomb, electricity, range increment 20 feet, splash)\n__Damage__  4d6 electricity 4 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Major Frost Vial +36 (alchemical, bomb, cold, range increment 20 feet, splash)\n__Damage__  4d6 cold 4 cold"
+  - name: "**Ranged** `pf2:1` Major Frost Vial"
+    desc: "+36 (alchemical, bomb, cold, range increment 20 feet, splash)\n__Damage__  4d6 cold 4 cold"
 
   - name: "Inject Unstable Mutagen"
     desc: " (alchemical,mutagen,polymorph) **Trigger** Ingnovim damages a creature with a syringe Strike\n* * *\n\n**Effect** The creature injected with unstable mutagen must attempt a DC 41 Fortitude check save to resist the injection.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Sickened|Sickened 2]].\n\n**Failure** The target's body shifts and mutates, growing difficult to control; the target is [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Enfeebled|Enfeebled 2]] for 24 hours.\n\n**Critical Failure** The target's body completely distorts into a shuddering blob of warped flesh that is incapable of action; the target is [[Conditions/Paralyzed|Paralyzed]]. Every 24 hours, the target may attempt a new saving throw against this effect; on a critical success, the paralysis ends."

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Fey Tracker
 ## Feat 6
-### [rare](rare.md "Rare Rarity Trait")[[gunslinger]][[investigator]][[ranger]]
+### [rare](rare "Rare Rarity Trait")[[gunslinger]][[investigator]][[ranger]]
 
 **Category** class; 
 
@@ -23,5 +23,5 @@ license: OGL
 * * *
 You are exceptionally skilled at noticing the subtle techniques fey use to avoid notice. You gain a +2 circumstance bonus to Survival checks to [[Actions/Track|Track]] fey creatures, to Perception checks to [[Actions/Seek|Seek]] for [[Conditions/Hidden|Hidden]] fey, and to your Perception DC to resist a fey creature's attempt to [[Actions/Create a Diversion|Create a Diversion]].
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

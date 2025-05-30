@@ -28,5 +28,5 @@ This form is the same age and body type as your true form and has roughly analog
 
 You can Sustain your Oni Form for up to 10 minutes, though you must then spend at least 10 minutes in your natural form before using Oni Form again.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

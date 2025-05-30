@@ -16,7 +16,7 @@ license: OGL
 
 
 
-
+The member of the Copper Hand deals an additional 1d6 precision damage the first time they deal damage.
 
 *Source: Pathfinder #158: Sixty Feet Under*
 *OGL*

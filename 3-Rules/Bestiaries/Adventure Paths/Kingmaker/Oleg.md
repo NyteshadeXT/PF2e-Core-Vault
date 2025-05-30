@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +8 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+8 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +6 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+6 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
  
 ```
 

@@ -5,13 +5,13 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
   - trait/magical
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.actionspf2e.Item.iTx0vXAhiS4lKwEi"
 license: OGL
 ---
 # Psychic Defense `pf2:r`
 
-### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Magical]]
+### [[concentrate]][[magical]]
 
 
 

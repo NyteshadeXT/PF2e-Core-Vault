@@ -68,11 +68,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shock +11 (magical)\n__Damage__  1d8 + 2 electricity"
+  - name: "**Melee** `pf2:1` Shock"
+    desc: "+11 (magical)\n__Damage__  1d8 + 2 electricity"
 
   - name: "Consume Confusion"
-    desc: "`pf2:1` (concentrate) **Frequency** once per round\n\n**Requirement** A creature within 15 feet of the flickerwisp is [[Conditions/Confused|Confused]]\n* * *\n\n**Effect** The flickerwisp feeds on the creature's confusion, even as its flashing body and disjointed gyrations cause existing confusion effects to persist.\n\nIt regains 1d4 Hit Points, and if the creature's confused condition has a limited duration, it lasts 1 additional round."
+    desc: "`pf2:1` (concentrate) **Frequency** once per round\n\n**Requirement** A creature within 15 feet of the flickerwisp is [[Conditions/Confused|Confused]]\n* * *\n\n**Effect** The flickerwisp feeds on the creature's confusion, even as its flashing body and disjointed gyrations cause existing confusion effects to persist.\n\nIt regains 1d4 healing Hit Points, and if the creature's confused condition has a limited duration, it lasts 1 additional round."
 
   - name: "Flicker"
     desc: "`pf2:2` (emotion,mental,visual) The flickerwisp churns and flits in the air around an adjacent creature's head, and its length flashes and sparkles in a bewildering array of distracting pulsations.\n\nThe creature must succeed at a DC 18 Will check save or become [[Conditions/Confused|Confused]] for 1 round (2 rounds on a critical failure). On a critical success, the creature is temporarily immune to for 24 hours."

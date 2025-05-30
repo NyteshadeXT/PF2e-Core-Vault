@@ -10,7 +10,7 @@ tags:
   - trait/concentrate
   - trait/emotion
   - trait/focus
-  - trait/manipulate
+  - trait/mental
   - trait/uncommon
 
   - remaster
@@ -25,7 +25,7 @@ trait_01: [[cleric]]
 trait_02: [[concentrate]]
 trait_03: [[emotion]]
 trait_04: [[focus]]
-trait_05: [[manipulate]]
+trait_05: [[mental]]
 layout: Basic Pathfinder 2e Layout
 columns: 1
 columnWidth: x

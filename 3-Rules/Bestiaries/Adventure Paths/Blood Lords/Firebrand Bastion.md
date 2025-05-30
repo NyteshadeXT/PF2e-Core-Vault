@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
   - name: "Shield Warden"
     desc: "  When a Firebrand bastion has a shield raised, they can use their Shield Block reaction when an attack is made against an adjacent ally. If they do, the shield prevents that ally from taking damage instead of preventing the bastion from taking damage, following the normal rules for Shield block."
@@ -69,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Morningstar +33 (magical, versatile p)\n__Damage__  3d6 + 14 bludgeoning plus blessed-armaments"
+  - name: "**Melee** `pf2:1` Morningstar"
+    desc: "+33 (magical, versatile p)\n__Damage__  3d6 + 14 bludgeoning plus blessed-armaments"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +27 (range increment 30 feet)\n__Damage__  1d6 + 14 piercing plus blessed-armaments"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+27 (range increment 30 feet)\n__Damage__  1d6 + 14 piercing plus blessed-armaments"
 
   - name: "Battering Blow"
     desc: "`pf2:1`  The Firebrand bastion Strikes an adjacent creature, then [[Actions/Shove|Shoves]] the same creature."

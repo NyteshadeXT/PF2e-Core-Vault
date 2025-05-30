@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Feats/Shed Tail|Shed Tail]]
+
 You take a -2 circumstance penalty on checks to Balance.
 
 *Source: Pathfinder Player Core 2*

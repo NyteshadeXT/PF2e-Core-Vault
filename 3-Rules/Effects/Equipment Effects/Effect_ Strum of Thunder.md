@@ -17,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Resonant Guitar|Resonant Guitar]]
+Granted by [[Equipment/Resonant Guitar|Resonant Guitar]]
 
-This item gains the _thundering_ rune for 1 hour.
+This item gains the _thundering_ rune.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

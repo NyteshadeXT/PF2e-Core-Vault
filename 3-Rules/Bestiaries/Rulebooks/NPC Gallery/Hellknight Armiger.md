@@ -20,7 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Character Guide"
+source: "Pathfinder Lost Omens Character Guide"
 name: "Hellknight Armiger"
 level: "Creature 4"
 
@@ -39,7 +39,7 @@ skills:
     desc: "Athletics: +12, Intimidation: +10, Religion: +10, Society: +7, Hell Lore: +8"
 abilityMods: [4, 1, 3, 0, 3, 0]
 speed: 20 feet
-sourcebook: "_Pathfinder Lost Omens: Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Character Guide_"
 ac: 22
 armorclass:
   - name: AC
@@ -56,16 +56,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` War Flail +13 (disarm, sweep, trip)\n__Damage__  1d10 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` War Flail"
+    desc: "+13 (disarm, sweep, trip)\n__Damage__  1d10 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +10 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+10 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 4 piercing"
 
   - name: "Weapon Mastery"
     desc: "  When the Hellknight armiger scores a critical hit with their war flail, their target is knocked [[Conditions/Prone|Prone]]."

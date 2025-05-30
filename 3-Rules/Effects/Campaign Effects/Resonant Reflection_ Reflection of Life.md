@@ -7,7 +7,7 @@ tags:
   - trait/magical
   - trait/common
   - category/deityboon
-aliases: "Compendium.pf2e.campaign-effects.Item.8eMGYNilWV3dFAUI"
+aliases: "Compendium.pf2e.campaign-effects.Item.eckkKdNGlaPlAgOW"
 license: OGL
 ---
 # Resonant Reflection: Reflection of Life

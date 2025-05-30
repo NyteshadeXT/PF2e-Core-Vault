@@ -54,28 +54,28 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Bravery"
     desc: "  When an Ulfen soldier rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the [[Conditions/Frightened|Frightened]] condition, reduce its value by 1."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +12 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 6 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+12 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +12 (versatile p)\n__Damage__  1d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+12 (versatile p)\n__Damage__  1d8 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Javelin +12 (thrown)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Javelin"
+    desc: "+12 (thrown)\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortbow +12 (deadly d10)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Shortbow"
+    desc: "+12 (deadly d10)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Intimidating Strike"
     desc: "`pf2:2` (emotion,fear,mental) The Ulfen soldier makes a melee Strike. If they hit and deal damage, the target is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit."

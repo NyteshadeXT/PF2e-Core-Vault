@@ -4,7 +4,7 @@ title: "Mighty Rage"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/barbarian
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.74iat04PtfG8gn2Q"
 license: OGL

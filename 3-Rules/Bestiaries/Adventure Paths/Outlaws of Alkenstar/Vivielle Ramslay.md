@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +13 (agile, finesse, versatile s)\n__Damage__  1d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+13 (agile, finesse, versatile s)\n__Damage__  1d6 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +13 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+13 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 22, attack +14; __3rd __ (1 slots) _[[Spells/Clairaudience|Clairaudience]]_; __2nd __ (3 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Paranoia|Paranoia]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Sigil|Sigil]]_"

@@ -60,34 +60,34 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Catch Rock|Catch Rock]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Requirements** The monster must have a free hand but can [[Actions/Release|Release]] anything it's holding as part of this reaction.\n\n**Trigger** The monster is targeted with a thrown rock Strike or a rock would fall on the monster.\n* * *\n\n**Effect** The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spiked Greatclub +33 (backswing, reach 10 feet, shove, versatile p)\n__Damage__  3d12 + 17 bludgeoning"
+  - name: "**Melee** `pf2:1` Spiked Greatclub"
+    desc: "+33 (backswing, reach 10 feet, shove, versatile p)\n__Damage__  3d12 + 17 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +31 (agile, reach 10 feet)\n__Damage__  1d6 + 17 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+31 (agile, reach 10 feet, unarmed)\n__Damage__  1d6 + 17 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +29 (brutal, range increment 120 feet)\n__Damage__  1d8 + 17 bludgeoning plus rock"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+29 (brutal, range increment 120 feet)\n__Damage__  1d8 + 17 bludgeoning plus rock"
 
   - name: "Kob's Ruinous Strike"
     desc: "`pf2:2`  Kob Moleg makes a melee Strike. If he hits and deals damage, the target is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
 
   - name: "Wide Swing"
     desc: "`pf2:1`  The hill giant makes a single greatclub Strike and compares the attack roll result to the ACs of up to two foes within its reach.\n\nThis counts as two attacks for the hill giant's multiple attack penalty."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -34,5 +34,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You create a puff of colorful smoke that quickly disperses while you become temporarily [[Conditions/Invisible|Invisible]]. You become [[Conditions/Undetected|Undetected]] to all creatures unless they can see invisible creatures. You Stride. At the end of your movement, if you have cover, greater cover, or concealment, attempt a Stealth check check to Hide. You gain a +2 status bonus to this Stealth check. The invisibility then ends, and you either become [[Conditions/Observed|Observed]] or [[Conditions/Hidden|Hidden]] to creatures as determined by your check to Hide, if you made one.\n\n[[Spell Effects/Spell Effect_ Flashy Disappearance|Spell Effect: Flashy Disappearance]]"
-sourcebook: "_Pathfinder Lost Omens: Firebrands_"
+sourcebook: "_Pathfinder Lost Omens Firebrands_"
 ```

@@ -16,7 +16,11 @@ license: OGL
 
 
 
-Granted by [[Boulderhead Bock|Boulderhead Bock]].
+Granted by [[Equipment/Boulderhead Bock|Boulderhead Bock]].
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+You gain a +1 item bonus to saving throws against effects that would make you stunned or stupefied.
+
+You take a -2 item penalty to Perception checks.
+
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

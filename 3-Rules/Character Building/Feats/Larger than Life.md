@@ -22,5 +22,5 @@ license: ORC
 * * *
 When you Change Shape, you can assume the form of a creature that's Large or Huge in size. In addition to your increased space, you gain a +1 circumstance bonus to Intimidation checks.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

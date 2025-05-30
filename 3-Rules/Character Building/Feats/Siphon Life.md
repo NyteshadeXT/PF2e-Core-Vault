@@ -14,7 +14,7 @@ license: OGL
 ---
 # Siphon Life `pf2:2`
 ## Feat 10
-### [rare](rare.md "Rare Rarity Trait")[[aftermath]][[flourish]][[magical]][[void]]
+### [rare](rare "Rare Rarity Trait")[[aftermath]][[flourish]][[magical]][[void]]
 
 **Category** class; 
 

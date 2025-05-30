@@ -54,16 +54,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +7 (agile, finesse)\n__Damage__  1d6 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+7 (agile, finesse)\n__Damage__  1d6 slashing"
 
   - name: "Primal Prepared Spells"
-    desc: "DC 20, attack +10; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Web|Web]]_; __1st __  _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 20, attack +10; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Web|Web]]_; __1st __  _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Druid Order Spells"
     desc: "1 Focus Point, DC 20, attack +10; __2nd __ (1 slots) _[[Spells/Untamed Shift|Wild Morph]]_"

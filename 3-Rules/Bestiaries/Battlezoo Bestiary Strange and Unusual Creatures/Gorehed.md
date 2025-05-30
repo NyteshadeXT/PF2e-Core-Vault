@@ -37,7 +37,7 @@ perception:
 languages: "Aklo, Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +11, Deception: +13, Nature: +9, Stealth: +12, Survival: +9, Acrobatics: +12, Athletics: +11, Deception: +13, Nature: +9, Stealth: +12, Survival: +9"
+    desc: "Acrobatics: +12, Athletics: +11, Deception: +13, Nature: +9, Stealth: +12, Survival: +9"
 abilityMods: [4, 5, 4, -2, 2, 4]
 speed: 20 feet,  swim 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d8 + 4 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 ()\n__Damage__  2d8 + 4 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile, finesse)\n__Damage__  2d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, finesse)\n__Damage__  2d6 + 4 slashing"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

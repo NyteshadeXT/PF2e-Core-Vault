@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Morningstar +10 (versatile p)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Morningstar"
+    desc: "+10 (versatile p)\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +10 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+10 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 2 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 22, attack +12; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(2nd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Know the Way|Know Direction]]_"
@@ -71,10 +71,10 @@ attacks:
     desc: "1 Focus Point, DC 22, attack +12; __2nd __ (1 slots) _[[Spells/Touch of Undeath|Touch of Undeath]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead]]_"
+    desc: "_Create Undead_"
 
   - name: "Necrotic Infusion"
-    desc: "`pf2:1`  If the next action Ralthiss takes is to cast harm to restore Hit Points to a single undead creature, the target then deals an additional 1d6 void damage with its melee weapons and unarmed attacks until the end of its next turn.\n\n[[Feat_Feature Effects/Effect_ Divine Infusion|Effect: Divine Infusion]]"
+    desc: "`pf2:1`  If the next action Ralthiss takes is to cast [[Spells/Harm|Harm]] to restore Hit Points to a single undead creature, the target then deals an additional 1d6 void damage with its melee weapons and unarmed attacks until the end of its next turn.\n\n[[Feat_Feature Effects/Effect_ Divine Infusion|Effect: Divine Infusion]]"
 
   - name: "Sap Life"
     desc: "  When Ralthiss casts a [[Spells/Harm|Harm]] spell and damages at least one living creature, he regains Hit Points equal to the spell rank of his _harm_ spell."

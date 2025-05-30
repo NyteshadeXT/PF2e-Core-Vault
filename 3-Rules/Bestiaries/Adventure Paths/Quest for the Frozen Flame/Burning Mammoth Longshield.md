@@ -56,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
   - name: "Spurred by Death"
     desc: "`pf2:r`  **Trigger** An ally within 30 feet reduces a creature to 0 HP\n* * *\n\n**Effect** The longshield Steps or Strides."
@@ -64,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +9 ()\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+9 ()\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shield Boss +9 ()\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Shield Boss"
+    desc: "+9 ()\n__Damage__  1d6 + 3 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +7 (thrown 20 ft.)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+7 (thrown 20 ft.)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Opportunistic Defense"
     desc: "  **Trigger** The longshield successfully Strikes with their shield boss\n* * *\n\n**Effect** The longshield Raises their Shield."

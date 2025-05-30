@@ -47,7 +47,7 @@ sourcebook: "_Pathfinder #195: Heavy is the Crown_"
 ac: 25
 armorclass:
   - name: AC
-    desc: "25; __Fort__ +15, __Ref__ +17, __Will__ +12;  +2 status to all saves vs. magic"
+    desc: "25; __Fort__ +15, __Ref__ +17, __Will__ +12; +2 status to all saves vs. magic"
 hp: 115
 health:
   - name: ""
@@ -62,14 +62,17 @@ abilities_mid:
   - name: "Disengaging Shot"
     desc: "`pf2:r`  **Requirements** The hryngar assassin is equipped with a loaded repeating heavy crossbow\n\n**Trigger** A creature critically misses the hryngar assassin with a melee Strike\n* * *\n\n**Effect** The hryngar assassin Strides, then Strikes the triggering creature with their repeating heavy crossbow; the target is [[Conditions/Off-Guard|Off-Guard]] against this Strike."
 
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +17 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+17 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Repeating Heavy Crossbow +18 (magical, range increment 180 feet, reload 1, repeating)\n__Damage__  2d10 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Repeating Heavy Crossbow"
+    desc: "+18 (magical, range increment 180 feet, reload 1, repeating)\n__Damage__  2d10 + 2 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 25, attack +17; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Paranoia|Paranoia]]_\n__Cantrips__  __(4th)__ _[[Spells/Sigil|Sigil]]_"

@@ -62,11 +62,14 @@ abilities_mid:
   - name: "Blighted Consumption"
     desc: "`pf2:r` (curse,divine,poison) **Trigger** A creature within 30 feet eats or drinks (including an alchemical item or potion)\n* * *\n\n**Effect** The food or drink burns like the caustic substances fed to the mummy before its death. If the creature fails a DC 24 Fortitude check save, they become [[Conditions/Sickened|Sickened 2]] after they finish the consumption and can't reduce their sickened condition while within 30 feet of any mummy."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +16 (agile)\n__Damage__  2d10 + 7 bludgeoning plus choking-pain"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+16 (agile, unarmed)\n__Damage__  2d10 + 7 bludgeoning plus choking-pain"
 
   - name: "Choking Pain"
     desc: "`pf2:1` (divine,illusion,mental,void) **Requirements** The mummy's last action was a successful fist Strike\n* * *\n\n**Effect** The mummy shares the pain of its dying moments with the target of that Strike. That creature takes 3d8 void damage with a DC 24 Will check save. If the creature critically fails the saving throw, it can't speak for 1 round, including to Cast a Spell."

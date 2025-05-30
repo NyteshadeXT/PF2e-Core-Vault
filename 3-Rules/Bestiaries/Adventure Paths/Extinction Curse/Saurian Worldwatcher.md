@@ -53,6 +53,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "2x [[Equipment/Javelin|Javelin]], [[Equipment/Naginata|+2 Greater Striking Naginata]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Raptor Jaw Disarm"
@@ -61,20 +64,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Naginata +35 (deadly d8, magical, reach 20 feet, versatile p)\n__Damage__  3d8 + 19 slashing plus stunning-blow"
+  - name: "**Melee** `pf2:1` Naginata"
+    desc: "+35 (deadly d8, magical, reach 20 feet, versatile p)\n__Damage__  3d8 + 19 slashing plus stunning-blow"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +33 (deadly d12, magical, reach 15 feet)\n__Damage__  3d10 + 17 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+33 (deadly d12, magical, reach 15 feet, unarmed)\n__Damage__  3d10 + 17 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +35 (agile, finesse, magical, reach 10 feet)\n__Damage__  4d10 + 19 bludgeoning plus stunning-blow"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+35 (agile, finesse, magical, reach 10 feet, unarmed)\n__Damage__  4d10 + 19 bludgeoning plus stunning-blow"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +35 (agile, finesse, magical, reach 10 feet, trip)\n__Damage__  3d6 + 19 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+35 (agile, finesse, magical, reach 10 feet, trip)\n__Damage__  3d6 + 19 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +35 (thrown 30 ft.)\n__Damage__  1d6 + 19 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+35 (thrown 30 ft.)\n__Damage__  1d6 + 19 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 40, attack +32; __9th __  _[[Spells/Fiery Body|Fiery Body]]_, _[[Spells/Summon Animal|Summon Animal (Dinosaurs Only)]]_, _[[Spells/Volcanic Eruption|Volcanic Eruption]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_; __3rd __  _[[Spells/Animal Vision|Animal Vision (At Will) (Dinosaurs Only)]]_; __2nd __  _[[Spells/Animal Messenger|Animal Messenger]]_\n__Constant__  __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"

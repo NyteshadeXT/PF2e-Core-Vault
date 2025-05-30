@@ -58,20 +58,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +13 (agile, nonlethal)\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+13 (agile, nonlethal, unarmed)\n__Damage__  1d6 + 5 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Naval Pike +11 ()\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Naval Pike"
+    desc: "+11 ()\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +13 (agile, versatile s)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+13 (agile, versatile s)\n__Damage__  1d4 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Naval Pike +13 (thrown 20 ft.)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Naval Pike"
+    desc: "+13 (thrown 20 ft.)\n__Damage__  1d6 + 5 piercing"
 
   - name: "Bosun's Command"
-    desc: "`pf2:1` (auditory,concentrate,emotion,linguistic,mental) **Frequency** once per round\n* * *\n\n**Effect** The bosun orders an ally to attack or to get in position. Until the end of the ally's next turn, they gain the bosun's choice of a +2 status bonus to attack rolls or a +10-foot status bonus to their Speeds.\n* * *\n\n*   [[Bestiary Effects/Effect_ Bosun's Command - Attack Bonus|Effect: Bosun's Command - Attack Bonus]]\n*   [[Bestiary Effects/Effect_ Bosun's Command - Speed Bonus|Effect: Bosun's Command - Speed Bonus]]"
+    desc: "`pf2:1` (auditory,concentrate,emotion,linguistic,mental) **Frequency** once per round\n* * *\n\n**Effect** The bosun orders an ally to attack or to get in position. Until the end of the ally's next turn, they gain the bosun's choice of a +2 status bonus to attack rolls or a +10-foot status bonus to their Speeds.\n\n[[Bestiary Effects/Effect_ Bosun's Command|Effect: Bosun's Command]]"
 
   - name: "Pike and Strike"
     desc: "`pf2:2`  The bosun Strikes with their naval pike.\n\nIf this Strike hits, the bosun can either move the target 5 feet within the pike's reach or make a fist Strike against the target without increasing their multiple attack penalty until after the fist Strike."

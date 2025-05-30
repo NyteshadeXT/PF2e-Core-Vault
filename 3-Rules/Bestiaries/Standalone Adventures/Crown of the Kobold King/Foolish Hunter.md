@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +3 (agile, finesse, versatile s)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+3 (agile, finesse, versatile s)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +5 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+5 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
  
 ```
 

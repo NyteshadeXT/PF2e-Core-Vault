@@ -55,6 +55,9 @@ abilities_top:
     desc: "[[Equipment/Composite Shortbow|+1 Composite Shortbow]], [[Equipment/Shortsword|Shortsword]], 60x [[Equipment/Arrows|Arrows]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "Biting Snakes"
     desc: "`pf2:r`  **Trigger** A creature ends its turn adjacent to the medusa.\n* * *\n\n**Effect** The medusa makes a snake fangs Strike against the creature."
 
@@ -64,14 +67,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +18 (agile, finesse, versatile s)\n__Damage__  1d6 + 10 piercing plus serpent-venom"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+18 (agile, finesse, versatile s)\n__Damage__  1d6 + 10 piercing plus serpent-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Snake Fangs +16 (agile, finesse)\n__Damage__  1d4 + 10 piercing plus serpent-venom"
+  - name: "**Melee** `pf2:1` Snake Fangs"
+    desc: "+16 (agile, finesse)\n__Damage__  1d4 + 10 piercing plus serpent-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +19 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 9 piercing plus serpent-venom"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+19 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 9 piercing plus serpent-venom"
 
   - name: "Focus Gaze"
     desc: "`pf2:1` (arcane,concentrate,incapacitation,visual) The medusa fixes their glare at a creature they can see within 30 feet. The target must immediately attempt a DC 25 Fortitude check save against the medusa's glass gaze. If the creature was already [[Conditions/Slowed|Slowed]] by glass gaze before attempting its save, a failed save causes it to be [[Conditions/Petrified|Petrified]] permanently.\n\nAfter attempting its save, the creature is then temporarily immune until the start of the medusa's next turn."

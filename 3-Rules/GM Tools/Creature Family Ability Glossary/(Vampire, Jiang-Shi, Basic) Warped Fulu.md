@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Vampire, Jiang-Shi, Basic) Warped Fulu"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.hwrZQSADT36TjDdv"
 license: OGL

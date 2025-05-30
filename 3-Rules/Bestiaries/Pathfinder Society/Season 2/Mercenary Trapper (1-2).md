@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +5 (agile, versatile s)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+5 (agile, versatile s)\n__Damage__  1d6 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +5 (thrown 30 ft.)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+5 (thrown 30 ft.)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Trapped Prey"
     desc: "  The mercenary trapper's attacks deal an extra 1d4 precision damage to creatures that are [[Conditions/Immobilized|Immobilized]] by a mechanical jaws trap."

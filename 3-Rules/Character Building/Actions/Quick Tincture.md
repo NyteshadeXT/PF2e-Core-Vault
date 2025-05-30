@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/investigator
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.QHFMeJGzFWj2QczA"
@@ -13,7 +13,7 @@ license: ORC
 ---
 # Quick Tincture `pf2:1`
 
-### [[investigator]][[3-Rules/Rule References/Manipulate]]
+### [[investigator]][[manipulate]]
 
 **Category** interaction; 
 

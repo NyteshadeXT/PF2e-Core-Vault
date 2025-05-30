@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +8 ()\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+8 ()\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +7 (thrown 20 ft.)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+7 (thrown 20 ft.)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +7 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 1 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+7 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 1 bludgeoning"
 
   - name: "Muscle Slicer"
     desc: "  A target critically hit by a hunter's Strike is [[Conditions/Off-Guard|Off-Guard]] until the end of its next turn."

@@ -7,8 +7,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.b7KZ7Fg5u5z2gqvt"
-license: OGL
+license: ORC
 ---
 # Called Shot `pf2:2`
 ## Feat 10
@@ -27,4 +28,4 @@ You target a specific area of your foe's anatomy to debilitating effect. Declare
 *   **Wings** If the target is flying using its wings, it immediately falls 20 feet, or 40 feet on a critical hit. The fall is gradual enough that if the target hits the ground, it takes no damage from the fall.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

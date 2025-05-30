@@ -21,5 +21,5 @@ license: OGL
 
 You're firm in your convictions and have girded your mind against outside influence. You gain a +1 circumstance bonus to saves against mental effects. This bonus increases to +2 against mental effects originating from undead.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

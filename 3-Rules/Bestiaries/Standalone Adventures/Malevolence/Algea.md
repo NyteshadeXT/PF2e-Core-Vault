@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
   - name: "See Magic"
     desc: "  An algea can see magic auras on creatures or objects that it can observe; it can't see magic auras on creatures or objects that are hidden from its view. It learns the schools of magic for all spells affecting creatures."
 
@@ -67,7 +70,7 @@ attacks:
     desc: "DC 30, attack +22; __7th __ (1 slots) _[[Spells/Interplanar Teleport|Plane Shift (Self and soul caged creatures only, to the Boneyard only)]]_; __4th __ (2 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Talking Corpse|Talking Corpse]]_; __2nd __ (1 slots) _[[Spells/Invisibility|Invisibility]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Call Spirit|Call Spirit]]_"
+    desc: "_Call Spirit_"
 
   - name: "Drain Magic"
     desc: " (divine) Whenever a creature fails its save against Frenzied Beaks, the algea attempts to counter a spell effect active on that creature (6th level, counteract check +22). The algea can choose which effect to attempt to counteract for each creature."

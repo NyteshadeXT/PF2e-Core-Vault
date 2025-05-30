@@ -7,8 +7,9 @@ tags:
   - trait/visual
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Stydu9VtrhQZFZxt"
-license: OGL
+license: ORC
 ---
 # Fake Out `pf2:r`
 ## Feat 2
@@ -28,4 +29,4 @@ license: OGL
 With a skilled flourish of your weapon, you force an enemy to acknowledge you as a threat. Make an attack roll to [[Actions/Aid|Aid]] the triggering attack. If you dealt damage to that enemy with the same weapon since the start of your last turn, you gain a +1 circumstance bonus to this roll.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

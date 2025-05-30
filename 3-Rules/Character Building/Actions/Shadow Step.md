@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/shadow
   - trait/teleportation
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.VQ5OxaDKE0lCj8Mr"
 license: OGL
 ---
 # Shadow Step `pf2:1`
 
-### [[3-Rules/Trait Reference/S/shadow]][[teleportation]]
+### [[shadow]][[teleportation]]
 
 **Category** interaction; 
 

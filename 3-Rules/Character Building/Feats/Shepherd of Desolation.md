@@ -12,7 +12,7 @@ license: OGL
 ---
 # Shepherd of Desolation
 ## Feat 12
-### [[archetype]][[3-Rules/trait_reference/A/aura]]
+### [[archetype]][[aura]]
 
 **Category** class; 
 
@@ -22,5 +22,5 @@ license: OGL
 * * *
 You know how to keep others alive in the Gravelands' murkiest shadows. Allies within 10 feet of you gain the benefit of [[Feats/Survivor of Desolation|Survivor of Desolation]]. If you are a champion, this aura is a champion aura, even though you gained it from Knight Reclaimant instead of a champion feat or feature.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

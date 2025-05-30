@@ -25,5 +25,5 @@ license: OGL
 
 You transform unrealized spell energy into a protective shield. If you're a spontaneous spellcaster, expend a spell slot; if you're a prepared spellcaster, expend a spell prepared in a spell slot. Reduce the triggering damage by an amount equal to four times the level of the expended slot or spell.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

@@ -60,6 +60,9 @@ abilities_top:
   - name: "Tied to the Land"
     desc: "  A summer hora queen is intrinsically tied to a specific region, such as a forest or hilly plain. For 3 months around the summer solstice, the environment is supernaturally resilient, allowing the queen to automatically attempt to counteract spells and rituals that would harm the environment, such as [[Spells/Blight|Blight]], with a +27 counteract modifier and a counteract rank of 7. For the 3 months around the winter solstice, however, her warded region becomes twisted or unhealthy unless a winter hora queen is present."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Nymph's Beauty|Nymph's Beauty]]"
@@ -68,11 +71,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Solar Blade +27 (agile, finesse, magical, versatile p)\n__Damage__  3d8 + 8 slashing 1d6 fire"
+  - name: "**Melee** `pf2:1` Solar Blade"
+    desc: "+27 (agile, finesse, magical, versatile p)\n__Damage__  3d8 + 8 slashing 1d6 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Solar Ray +27 (magical, range increment 60 feet)\n__Damage__  3d12 + 6 fire"
+  - name: "**Ranged** `pf2:1` Solar Ray"
+    desc: "+27 (magical, range increment 60 feet)\n__Damage__  3d12 + 6 fire"
 
   - name: "Primal Prepared Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Fiery Body|Fiery Body]]_, _[[Spells/Regenerate|Regenerate]]_; __6th __  _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_, _[[Spells/Blanket of Stars|Blanket Of Stars]]_, _[[Spells/Speak with Stones|Stone Tell]]_; __5th __  _[[Spells/Banishment|Banishment]]_, _[[Spells/Nature's Pathway|Tree Stride]]_; __4th __  _[[Spells/Fire Shield|Fire Shield]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Vital Beacon|Vital Beacon]]_; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Veil of Privacy|Nondetection]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Sound Body|Restore Senses]]_, _[[Spells/One with Plants|Tree Shape]]_, _[[Spells/Water Walk|Water Walk]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Tailwind|Longstrider]]_, _[[Spells/Pest Form|Pest Form]]_\n__Cantrips__  __(7th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
@@ -81,7 +84,7 @@ attacks:
     desc: "DC 33, attack +25; __7th __  _[[Spells/Curse of Lost Time|Curse of Lost Time]]_, _[[Spells/Sunburst|Sunburst]]_; __6th __  _[[Spells/Truesight|True Seeing]]_; __3rd __ (2 slots) _[[Spells/Animal Vision|Animal Vision]]_; __2nd __ (2 slots) _[[Spells/Animal Messenger|Animal Messenger]]_, _[[Spells/Faerie Fire|Faerie Fire]]_; __1st __ (2 slots) _[[Spells/Alarm|Alarm]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_\n__Cantrips__  __(7th)__ _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Light|Light]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_ __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n\n* * *\n"
+    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Focus Beauty"
     desc: "`pf2:1` (emotion,incapacitation,mental,primal,visual) The hora queen focuses her beauty upon a target within her aura. The creature must attempt a Will save. On a failure, it is affected as if by the hora queen's nymph's beauty aura; if it was already affected by the aura, it's [[Conditions/Blinded|Blinded]] until its sight is restored via restore senses or similar effect, or until the hora queen chooses to remove the effect using a single action, which has the concentrate trait. A hora queen can Focus Beauty on a given creature only once per turn."

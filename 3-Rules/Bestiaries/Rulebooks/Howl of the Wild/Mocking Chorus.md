@@ -54,6 +54,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "[[Actor.FUnnTzkARhfNi5cP.Item.TowRcjxa5ZN7kGUP|Hydra Regeneration]]"
     desc: "  The hydra has regeneration equal to 3 × the number of heads it has. If a hydra's body is missing any heads and the remaining stumps have not been cauterized, the hydra attempts a DC 43 Fortitude check save after it regains Hit Points from regeneration. On a success, one uncauterized stump regrows two heads; on a critical success, two uncauterized stumps regrow into two heads each. The hydra can never grow more than double the number of heads it ordinarily has. The hydra's regeneration only fully deactivates if all its heads are severed and all stumps are cauterized, at which point it dies."
 
@@ -66,20 +69,20 @@ abilities_mid:
   - name: "[[Actor.FUnnTzkARhfNi5cP.Item.PjV6SBjIY1Ge7WUB|Reactive Heads]]"
     desc: "  A hydra gains an extra reaction per round for each of its heads beyond the first, which it can use only to make Reactive Strikes. It can't use more than 1 reaction on the same triggering action, even if a creature leaves several squares within its reach, and the hydra must use a different head for each Reactive Strike it makes. Whenever one of the hydra's heads is severed, the hydra loses 1 of its extra reactions per round."
 
-  - name: "[[Actions/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  **Trigger** A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\nYou lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a manipulate action, you disrupt that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike."
+  - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +37 (reach 15 feet)\n__Damage__  4d12 + 14 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+37 (reach 15 feet, unarmed)\n__Damage__  4d12 + 14 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Harsh Language +35 (auditory, range increment 90 feet)\n__Damage__  4d10 + 14 sonic"
+  - name: "**Ranged** `pf2:1` Harsh Language"
+    desc: "+35 (auditory, range increment 90 feet)\n__Damage__  4d10 + 14 sonic"
 
   - name: "Petty Whispers"
-    desc: "`pf2:1` (auditory,mental) The mocking chorus adopts the voices of its enemies, spreading lies and jeers among would-be allies and tearing apart trusted friends. Creatures in a @Template[emanation|distance:60] of the mocking chorus must attempt a DC 37 Will check save. The mocking chorus can't use petty whispers again for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune for 1 day.\n\n**Success** As failure, but the creature takes half damage and is not [[Conditions/Confused|Confused]].\n\n**Failure** The creature takes 12d10 mental damage and is confused for 1 minute. It can attempt a new save at the end of each of its turns to end the confusion.\n\n**Critical Failure** The creature takes 15d10 mental damage and is confused for 1 minute, with no save to end early."
+    desc: "`pf2:1` (auditory,mental) The mocking chorus adopts the voices of its enemies, spreading lies and jeers among would-be allies and tearing apart trusted friends. Creatures in a 60-foot emanation of the mocking chorus must attempt a DC 37 Will check save. The mocking chorus can't use petty whispers again for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune for 1 day.\n\n**Success** As failure, but the creature takes half damage and is not [[Conditions/Confused|Confused]].\n\n**Failure** The creature takes 12d10 mental damage and is confused for 1 minute. It can attempt a new save at the end of each of its turns to end the confusion.\n\n**Critical Failure** The creature takes 15d10 mental damage and is confused for 1 minute, with no save to end early."
  
 ```
 

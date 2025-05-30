@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Pledge of Fealty (Trained)"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/leadership
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.nc4XV5NFuHDz93O0"
 license: OGL
 ---
 # Pledge of Fealty (Trained)
-
+## 
 ### [[downtime]][[leadership]]
 
 **Category** kingdom-activity; 

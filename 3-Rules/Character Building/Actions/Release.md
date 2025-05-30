@@ -3,9 +3,8 @@ obsidianUIMode: preview
 title: "Release"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.wQYmDStjdjn0I26t"
@@ -13,7 +12,7 @@ license: ORC
 ---
 # Release `pf2:0`
 
-### [[general]][[3-Rules/Rule References/Manipulate]]
+### [[manipulate]]
 
 **Category** interaction; 
 

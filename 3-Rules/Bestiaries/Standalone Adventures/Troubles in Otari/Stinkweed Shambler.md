@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vine +11 (agile, finesse)\n__Damage__  1d8 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Vine"
+    desc: "+11 (agile, finesse)\n__Damage__  1d8 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Seedpod +11 (range increment 30 feet)\n__Damage__  2d4 + 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Seedpod"
+    desc: "+11 (range increment 30 feet)\n__Damage__  2d4 + 2 bludgeoning"
 
   - name: "Waving Weed"
     desc: "`pf2:1`  The stinkweed shambler Strides up to half its Speed. This movement doesn't provoke reactions."

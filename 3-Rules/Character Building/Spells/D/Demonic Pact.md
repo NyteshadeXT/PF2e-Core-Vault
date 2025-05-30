@@ -31,6 +31,6 @@ abilities_top:
 
 abilities_mid:
   - name: ""
-    desc: "You call in a favor from one demon of level 2 or lower, two demons of level 0 or lower, or three demons of level –1 or lower.\n* * *\n\n**Critical Success** You conjure the demon or demons. They are eager to pursue the task, so they don't ask for a favor.\n\n**Success** You conjure the demon or demons. They are not eager to pursue the task, so they require a favor in return.\n\n**Failure** You don't conjure any demons.\n\n**Critical Failure** The demon or demons are angry that you disturbed them. They appear before you, but they immediately attack you.\n* * *\n\n**Heightened (+1)** Increase the level of demon you call by 1 for each option."
+    desc: "You call in a favor from one demon of level 2 or lower, two demons of level 0 or lower, or three demons of level –1 or lower.\n* * *\n\n**Critical Success** You conjure the demon or demons. They are eager to pursue the task, so they don't ask for a favor.\n\n**Success** You conjure the demon or demons. They are not eager to pursue the task, so they require a favor in return.\n\n**Failure** You don't conjure any demons.\n\n**Critical Failure** The demon or demons are angry that you disturbed them. They appear before you, but they immediately attack you.\n* * *\n\n**Heightened (+1)** Increase the level of demon you call by 2 for each option."
 sourcebook: "_Pathfinder Monster Core_"
 ```

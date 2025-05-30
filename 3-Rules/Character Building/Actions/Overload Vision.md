@@ -4,14 +4,14 @@ title: "Overload Vision"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.ZJcc7KGOEsYvN6SE"
 license: OGL
 ---
 # Overload Vision `pf2:r`
 
-### [[3-Rules/Rule References/Concentrate]]
+### [[concentrate]]
 
 **Category** defensive; 
 

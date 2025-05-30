@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +15 (versatile p)\n__Damage__  1d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+15 (versatile p)\n__Damage__  1d8 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +15 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+15 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "Opportunistic Maneuver"
     desc: "`pf2:r`  **Trigger** Mashkudu Shoves, Trips, or Disarms a creature\n* * *\n\n**Effect** Mashkudu attempts a Thievery check to Steal an object the target carries."

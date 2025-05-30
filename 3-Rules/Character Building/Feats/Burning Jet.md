@@ -15,7 +15,7 @@ license: OGL
 ---
 # Burning Jet `pf2:2`
 ## Feat 1
-### [[3-Rules/trait_reference/F/fire]][[impulse]][[kineticist]][[primal]]
+### [[fire]][[impulse]][[kineticist]][[primal]]
 
 **Category** class; 
 

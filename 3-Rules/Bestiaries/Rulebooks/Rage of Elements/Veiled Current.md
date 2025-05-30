@@ -59,17 +59,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Static Fold +19 (agile, finesse, reach 10 feet)\n__Damage__  2d10 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Static Fold"
+    desc: "+19 (agile, finesse, reach 10 feet)\n__Damage__  2d10 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Static Scream +19 (range increment 50 feet)\n__Damage__  2d8 + 4 sonic"
+  - name: "**Ranged** `pf2:1` Static Scream"
+    desc: "+19 (range increment 50 feet)\n__Damage__  2d8 + 4 sonic"
 
   - name: "Envelop"
     desc: "`pf2:2`  **Requirements** The veiled current begins their turn with a target of their size or smaller [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The veiled current maintains the Grab and coalesces around the creature, stretching themself into a semisolid veil that smothers the creature within. This thereafter has the same effect as if the veiled current had [[Bestiary Ability Glossary/Engulf|Engulfed]] the creature (DC 26, 1d8+8 bludgeoning, [[Actions/Escape|Escape]] DC 26, Rupture 17). As engulfing a creature is a hostile action, the veiled current is [[Conditions/Hidden|Hidden]] instead of undetected every round it has a creature engulfed."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

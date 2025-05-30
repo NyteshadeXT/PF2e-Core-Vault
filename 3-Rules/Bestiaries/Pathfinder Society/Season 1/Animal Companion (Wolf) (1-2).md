@@ -55,8 +55,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +6 (finesse)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+6 (finesse, unarmed)\n__Damage__  1d6 + 2 bludgeoning"
 
   - name: "Support"
     desc: "`pf2:1`  The animal companion supports its druid master, tearing tendons with each opening. Until the start of the druid's next turn, any Strikes that damage targets that the animal companion threatens give the target a -5-foot status penalty to its Speeds for 1 minute (-10 on a critical success). While using Support, the only other actions an animal companion can use on its turn are movement actions to get into position. If an animal companion has used any other actions on its turn, it cannot Support its master."

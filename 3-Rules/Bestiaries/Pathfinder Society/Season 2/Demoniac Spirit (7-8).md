@@ -58,16 +58,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Vengeful Flash"
     desc: "`pf2:r`  **Trigger** A creature makes a successful melee attack against the spirit or makes a successful Acrobatics check to [[Actions/Tumble Through|Tumble Through]] the spirit's space\n* * *\n\n**Effect** The spirit emits a brief pulse of void energy that deals 5d6 void damage to the triggering creature (DC 26 Reflex check save)."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spectral Claw +21 (finesse, reach 20 feet)\n__Damage__  2d10 + 7 void plus drain-life"
+  - name: "**Melee** `pf2:1` Spectral Claw"
+    desc: "+21 (finesse, reach 20 feet)\n__Damage__  2d10 + 7 void plus drain-life"
 
   - name: "Arcane Innate Spells"
     desc: "DC 28, attack +20; __4th __ (2 slots) _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Paralyze|Paralyze]]_; __3rd __ (2 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Fireball|Fireball]]_; __2nd __ (2 slots) _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver (x2)]]_"

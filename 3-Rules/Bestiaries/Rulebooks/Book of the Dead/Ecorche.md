@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/PZO2110 Ecorche.webp| ]]
 source: "Pathfinder Book of the Dead"
 name: "Ecorche"
 level: "Creature 16"
@@ -59,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +33 (agile)\n__Damage__  3d8 + 17 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+33 (agile, unarmed)\n__Damage__  3d8 + 17 slashing"
 
   - name: "Flaying Flurry"
     desc: "`pf2:2`  The ecorche attempts two claw Strikes against the same target. If both hit and deal damage, it attempts to pull the skin off its target. It attempts an Athletics check check against the enemy's Fortitude DC.\n* * *\n\n**Critical Success** The ecorche fully pulls the target's skin off its body. The creature takes 4d8 bleed, and it's [[Conditions/Frightened|Frightened 4]] and [[Conditions/Stunned|Stunned 4]]. The bleed damage can't end naturally, only ending if the creature regains at least 75 HP or regains at least 10 HP from regeneration.\n\n**Success** The target takes 2d8 bleed and is [[Conditions/Stunned|Stunned 1]]."

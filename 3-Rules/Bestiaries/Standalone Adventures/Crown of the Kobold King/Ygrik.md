@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flying Talon +11 (agile, finesse, ranged trip, tethered, trip)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Flying Talon"
+    desc: "+11 (agile, finesse, ranged trip, tethered, trip)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flying Talon +11 (agile, ranged trip, tethered, thrown 10 ft., trip)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Flying Talon"
+    desc: "+11 (agile, ranged trip, tethered, thrown 10 ft., trip)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Intimidating Retreat"
     desc: "`pf2:1`  **Requirements** Ygrik is adjacent to at least one enemy and at least one ally;\n\n**Effect** Ygrik commands an adjacent ally to fight harder and threatens dire punishment if the ally fails to obey; that ally gains a +1 circumstance bonus to its next melee Strike attack roll, as long as that attack is made before the start of Ygrik's next turn. Ygrik then Strides up to his Speed and gains a +2 circumstance bonus to AC against reactions triggered by this movement. He must end this movement in a space that isn't adjacent to any enemy."

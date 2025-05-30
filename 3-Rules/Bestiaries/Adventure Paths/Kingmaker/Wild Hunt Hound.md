@@ -61,6 +61,9 @@ abilities_top:
   - name: "Wild Hunt Link"
     desc: " (aura,magical) 500 feet. A wild hunt hound grants all other members of the wild hunt in the aura except wild hunt hounds the effects of its constant [[Spells/See the Unseen|See the Unseen]] innate spell."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Instinctive Cooperation"
@@ -72,8 +75,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +29 (agile, magical)\n__Damage__  3d10 + 11 piercing plus knockdown"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+29 (agile, magical, unarmed)\n__Damage__  3d10 + 11 piercing plus knockdown"
 
   - name: "Primal Innate Spells"
     desc: "DC 34, attack +26; __7th __  _[[Spells/Dispel Magic|Dispel Magic]]_; __6th __  _[[Spells/Speak with Stones|Stone Tell]]_; __5th __  _[[Spells/Locate|Locate (x3)]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_\n__Constant__  __(7th)__ _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Speak with Animals|Speak with Animals]]_, _[[Spells/Speak with Plants|Speak with Plants]]_"
@@ -82,10 +85,10 @@ attacks:
     desc: "`pf2:1` (concentrate,fear,incapacitation,mental,primal,visual) The wild hunt hound fixes its glare at a creature it can see within 30 feet. The target must immediately attempt a Will save against the wild hunt hound's wild gaze. If the creature was already slowed by the wild gaze before attempting its save, a failed save causes it to be [[Conditions/Paralyzed|Paralyzed]] for 1 round. After attempting its save, the creature is temporarily immune to Focus Gaze from any wild hunt until the start of the wild hunt hound's next turn."
 
   - name: "Summon Pack"
-    desc: "`pf2:2` (aura,primal) **Frequency** once per day\n\n**Effect** With a howl, the wild hunt hound summons a fog that manifests into several misty hounds. These foggy hounds shift and race and howl in a @Template[emanation|distance:20] [[Bestiary Ability Glossary/Aura|Aura]] as long as the wild hunt hound Sustains the effect. While the hounds seem to be made of fog, their teeth are very real, and any creature that ends its turn in this aura takes 6d6 piercing damage from numerous bites (DC 31 Reflex check)."
+    desc: "`pf2:2` (aura,primal) **Frequency** once per day\n\n**Effect** With a howl, the wild hunt hound summons a fog that manifests into several misty hounds. These foggy hounds shift and race and howl in a 20-foot emanation [[Bestiary Ability Glossary/Aura|Aura]] as long as the wild hunt hound Sustains the effect. While the hounds seem to be made of fog, their teeth are very real, and any creature that ends its turn in this aura takes 6d6 piercing damage from numerous bites (DC 31 Reflex check)."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

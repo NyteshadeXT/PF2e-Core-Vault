@@ -58,22 +58,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike (Fangs Only)]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +14 ()\n__Damage__  2d8 + 5 piercing 1d6 fire"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+14 ()\n__Damage__  2d8 + 5 piercing 1d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +14 (reach 10 feet)\n__Damage__  2d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+14 (reach 10 feet)\n__Damage__  2d6 + 5 bludgeoning"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The flame drake makes two Fangs Strikes and one Tail Strike in any order."
 
   - name: "Fireball Breath"
-    desc: "`pf2:2` (fire,primal) The flame drake expels a ball of flame to a range of 180 feet that explodes in a @Template[burst|distance:20]. Creatures in the burst take 6d6 fire damage (DC 22 Reflex check save).\n\nThe flame drake can't use Fireball Breath again for 1d6 rounds."
+    desc: "`pf2:2` (fire,primal) The flame drake expels a ball of flame to a range of 180 feet that explodes in a 20-foot burst. Creatures in the burst take 6d6 fire damage (DC 22 Reflex check save).\n\nThe flame drake can't use Fireball Breath again for 1d6 rounds."
 
   - name: "Speed Surge"
     desc: "`pf2:1` (move) **Frequency** three times per day\n* * *\n\n**Effect** The flame drake Strides or Flies twice."

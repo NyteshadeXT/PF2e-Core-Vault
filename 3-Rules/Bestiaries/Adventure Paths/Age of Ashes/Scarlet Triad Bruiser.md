@@ -58,19 +58,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatclub +22 (backswing, shove)\n__Damage__  2d10 + 1 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Greatclub"
+    desc: "+22 (backswing, shove)\n__Damage__  2d10 + 1 bludgeoning plus knockdown"
 
-  - name: "Melee"
-    desc: "`pf2:1` Kick +21 (agile)\n__Damage__  1d8 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Kick"
+    desc: "+21 (agile)\n__Damage__  1d8 + 11 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +21 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  2d6 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+21 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  2d6 + 8 piercing"
 
   - name: "Batter the Fallen"
     desc: "  The Scarlet Triad Bruiser's kick Strikes deal 2d6 extra damage to [[Conditions/Prone|Prone]] creatures."

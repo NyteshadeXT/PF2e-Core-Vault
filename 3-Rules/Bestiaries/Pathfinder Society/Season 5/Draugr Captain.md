@@ -59,14 +59,17 @@ abilities_top:
     desc: "[[Equipment/Greataxe|Greataxe]], [[Equipment/Leather Armor|Leather Armor]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +12 (sweep)\n__Damage__  1d12 + 6 slashing plus grotesque-gift"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+12 (sweep)\n__Damage__  1d12 + 6 slashing plus grotesque-gift"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 (agile)\n__Damage__  1d4 + 6 slashing plus grotesque-gift"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (agile, unarmed)\n__Damage__  1d4 + 6 slashing plus grotesque-gift"
 
   - name: "Divine Innate Spells"
     desc: "DC 27, attack +19; __2nd __  _[[Spells/Mist|Mist]]_"

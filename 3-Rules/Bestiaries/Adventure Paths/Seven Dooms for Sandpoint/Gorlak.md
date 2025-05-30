@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ogre Hook +18 (deadly d10, magical, reach 10 feet, trip)\n__Damage__  2d10 + 9 piercing"
+  - name: "**Melee** `pf2:1` Ogre Hook"
+    desc: "+18 (deadly d10, magical, reach 10 feet, trip)\n__Damage__  2d10 + 9 piercing"
 
   - name: "Embed Hook"
     desc: "`pf2:1`  **Requirements** Gorlak's previous action was a successful Strike on a creature with his ogre hook\n* * *\n\n**Effect** Gorlak twists his hook to embed it in the creature by attempting an DC 25 Athletics check save) and becomes [[Conditions/Immobilized|Immobilized]] until Gorlak attempts another Strike with his Ogre Hook or attempts to Fling Foe the creature."

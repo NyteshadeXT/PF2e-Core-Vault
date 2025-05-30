@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mace +18 (magical, shove)\n__Damage__  1d6 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Mace"
+    desc: "+18 (magical, shove)\n__Damage__  1d6 + 12 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +20 (deadly d10, magical, range increment 60 feet, reload 0)\n__Damage__  2d6 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+20 (deadly d10, magical, range increment 60 feet, reload 0)\n__Damage__  2d6 + 11 piercing"
 
   - name: "Beast Training"
     desc: "  Whenever a beastmaster cultist and one of their animal allies are adjacent to the same foe, they both count as flanking that foe regardless of their actual positions."

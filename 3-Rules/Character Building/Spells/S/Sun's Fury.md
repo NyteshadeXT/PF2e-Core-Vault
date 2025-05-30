@@ -35,5 +35,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "The target weapon becomes wreathed in a glowing flame. The weapon deals an additional 1d4 fire and 1 spirit damage on a successful Strike. In addition, the flame causes the weapon to glow as bright as a torch. You can Dismiss the spell.\n\n[[Spell Effects/Spell Effect_ Sun's Fury|Spell Effect: Sun's Fury]]"
-sourcebook: "_Pathfinder Lost Omens: Legends_"
+sourcebook: "_Pathfinder Lost Omens Legends_"
 ```

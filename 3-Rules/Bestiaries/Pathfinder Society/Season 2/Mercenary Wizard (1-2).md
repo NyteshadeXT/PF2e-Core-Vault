@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mace +5 (shove)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Mace"
+    desc: "+5 (shove)\n__Damage__  1d6 + 2 bludgeoning"
 
   - name: "Prepared Arcane Spells"
-    desc: "DC 16, attack +6; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(1st)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
+    desc: "DC 16, attack +6; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(1st)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Focus Spells"
     desc: "1 Focus Point, DC 16, attack +6; __1st __ (1 slots) _[[Spells/Force Bolt|Force Bolt]]_"

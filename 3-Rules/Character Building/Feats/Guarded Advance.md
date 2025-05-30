@@ -21,5 +21,5 @@ license: OGL
 * * *
 You slowly advance on the battlefield, taking utmost caution. You either Step and Raise a Shield or Raise a Shield and Step.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

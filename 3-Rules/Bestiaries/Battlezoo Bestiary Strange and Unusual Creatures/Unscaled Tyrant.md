@@ -39,7 +39,7 @@ perception:
 languages: "Draconic, Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Diplomacy: +11, Intimidation: +13, Religion: +9, Stealth: +11, Acrobatics: +11, Diplomacy: +11, Intimidation: +13, Religion: +9, Stealth: +11"
+    desc: "Acrobatics: +11, Diplomacy: +11, Intimidation: +13, Religion: +9, Stealth: +11"
 abilityMods: [-2, 5, 3, 3, 2, 5]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -61,16 +61,16 @@ abilities_mid:
     desc: " (arcane,aura) 60 feet.\n\nMindless undead of level 2 or lower within the aura that are not otherwise controlled follow an unscaled tyrant's commands reflexively, treating the scion and its kobold minions as allies."
 
   - name: "Eternal Service"
-    desc: "`pf2:r` (arcane) **Trigger** A kobold ally is slain within 30 feet of the unscaled tyrant\n* * *\n\n**Effect** The fallen scion immediately sends a bolt of negative energy towards the fallen ally. The ally sloughs off its skin and rises as a Small-sized [[Bestiary 1/Skeleton Guard|Skeleton Guard]], acting at its same spot in the initiative order. The new skeleton guard begins its turn [[undefined]] and holding any weapons the kobold held when it fell, rather than the usual scimitar."
+    desc: "`pf2:r` (arcane) **Trigger** A kobold ally is slain within 30 feet of the unscaled tyrant\n* * *\n\n**Effect** The fallen scion immediately sends a bolt of negative energy towards the fallen ally. The ally sloughs off its skin and rises as a Small-sized [[undefined]], acting at its same spot in the initiative order. The new skeleton guard begins its turn [[undefined]] and holding any weapons the kobold held when it fell, rather than the usual scimitar."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hand +11 (finesse)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Hand"
+    desc: "+11 (finesse)\n__Damage__  2d4 + 4 void"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Unnerving Ray +11 (range 60 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Unnerving Ray"
+    desc: "+11 (range 60 feet)\n__Damage__  2d8 + 5 void"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 0, attack +0; __2nd __ (2 slots) _[[Spells/Summon Undead|Animate Dead]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Shield|Shield]]_"

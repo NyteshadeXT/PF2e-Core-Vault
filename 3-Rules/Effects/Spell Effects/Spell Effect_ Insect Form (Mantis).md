@@ -17,13 +17,9 @@ license: ORC
 
 
 
-Granted by [[Insect Form|Insect Form]]
+Granted by [[Spells/Insect Form|Insect Form]]
 
-You envision a simple bug and transform into a Medium animal battle form. When you cast this spell, choose a form.
-
-You can decide the specific type of animal (such as such as a ladybug or scarab for beetle), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait. You can Dismiss this spell.
-
-You gain the following statistics and abilities regardless of which battle form you choose:
+You transform into a Medium animal battle form. While in this form, you gain the animal trait. You gain the following statistics and abilities regardless of which battle form you choose:
 
 *   AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.
 *   10 temporary Hit Points.
@@ -34,6 +30,7 @@ You gain the following statistics and abilities regardless of which battle form 
 You also gain specific abilities based on the form you choose:
 
 *   **Mantis**
+    
     *   Speed 40 feet; imprecise scent 30 feet;
     *   Melee `pf2:1` foreleg, **Damage** 2d8 bludgeoning.
 

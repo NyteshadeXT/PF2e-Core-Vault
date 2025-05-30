@@ -55,8 +55,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +13 (finesse, magical)\n__Damage__  1d8 - 2 piercing plus calcification"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+13 (finesse, magical, unarmed)\n__Damage__  1d8 - 2 piercing plus calcification"
 
   - name: "Calcification"
     desc: " (incapacitation,primal) A peck from a cockatrice hardens the flesh of the creature struck. The target must succeed at a DC 20 Fortitude check save or become [[Conditions/Slowed|Slowed 1]] (or [[Conditions/Slowed|Slowed 2]] on a critical failure). Further failed saves against calcification increase the slowed condition. Once a creature's actions are reduced to 0 by calcification, that creature becomes [[Conditions/Petrified|Petrified]]. If the creature isn't petrified, the slowed conditions end once 1 minute passes without the creature failing a save against calcification.\n\nEvery 24 hours after it was petrified, the victim can attempt a DC 20 Fortitude check save to recover. On a success, it becomes flesh again, but is slowed 1 for the next 24 hours. On a critical success, the creature recovers and isn't slowed. On a failure, the creature remains petrified but can try again in 24 hours. On a critical failure, the petrification is permanent, and the creature can't attempt any more saves."

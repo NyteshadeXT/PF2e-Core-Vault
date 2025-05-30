@@ -18,5 +18,5 @@ license: OGL
 
 Ghlaunder teaches you to bide your time, corrupting and infecting until the time is right. When you expose a creature to a disease and it succeeds at its Fortitude save, it is still infected unless it critically succeeds. However, such a creature experiences no effects and the disease does not progress for the first 24 hours, even if the disease is normally fast-acting or someone uses another ability to progress the disease. It's very difficult to detect the infection in the first day; the DC for Medicine checks to do so is 5 higher.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

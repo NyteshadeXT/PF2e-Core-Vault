@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Prerequisites** Hellknight Signifer Dedication 
+**Prerequisites** Hellknight Signifer Dedication
 * * *
 **Requirements** You are wearing your signifer's mask.
 
@@ -27,5 +27,5 @@ license: OGL
 
 You harness the magical energy flowing through your eyeless mask to effortlessly protect you from visual effects. You [[Actions/Avert Gaze|Avert your Gaze]].
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

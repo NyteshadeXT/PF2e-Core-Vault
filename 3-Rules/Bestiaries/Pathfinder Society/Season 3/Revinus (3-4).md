@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +11 (agile, versatile s)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+11 (agile, versatile s)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +11 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+11 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "Disorienting Shot"
     desc: "`pf2:2`  Revinus makes a ranged Strike with his crossbow. He must then Stride. If the ranged Strike hits, the target is [[Conditions/Off-Guard|Off-Guard]] until the start of Revinus's next turn."

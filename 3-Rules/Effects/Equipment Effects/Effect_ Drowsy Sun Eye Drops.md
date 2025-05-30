@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Drowsy Sun Eye Drops|Drowsy Sun Eye Drops]]
+Granted by [[Equipment/Drowsy Sun Eye Drops|Drowsy Sun Eye Drops]]
 
 You gain darkvision to a range of 30 feet.
 
-*Source: Pathfinder Lost Omens: Travel Guide*
+*Source: Pathfinder Lost Omens Travel Guide*
 *OGL*

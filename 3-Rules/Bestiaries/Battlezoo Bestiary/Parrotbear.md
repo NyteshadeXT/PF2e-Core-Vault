@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +12 ()\n__Damage__  1d12 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+12 ()\n__Damage__  1d12 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +12 (agile)\n__Damage__  1d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+12 (agile)\n__Damage__  1d8 + 6 slashing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The parrotbear's talon Strikes deal an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures.\n\n* * *\n"

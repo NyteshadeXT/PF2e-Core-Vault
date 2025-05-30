@@ -15,14 +15,14 @@ license: OGL
 ---
 # Catchy Tune `pf2:1`
 ## Feat 5
-### [[auditory]][[concentrate]][[emotion]][[3-Rules/trait_reference/M/mental]][[3-Rules/Bestiaries/Bestiary 1/S/Sprite]]
+### [[auditory]][[concentrate]][[emotion]][[mental]][[sprite]]
 
 **Category** ancestry; 
 
 
 
 
-You create a tune so catchy, your foes can't help but dance along. Attempt a Performance check check against the Will DCs of all enemies in a @Template\[emanation|distance:30\].
+You create a tune so catchy, your foes can't help but dance along. Attempt a Performance check check against the Will DCs of all enemies in a 30-foot emanation.
 
 * * *
 
@@ -32,5 +32,5 @@ You create a tune so catchy, your foes can't help but dance along. Attempt a Per
 
 **Critical Failure** The target is temporarily immune for 1 hour.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

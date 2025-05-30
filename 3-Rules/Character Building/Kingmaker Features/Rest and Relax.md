@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Rest and Relax"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/leadership
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.G6UuSaPpXYa80qDw"
 license: OGL
 ---
 # Rest and Relax
-
+## 
 ### [[downtime]][[leadership]]
 
 **Category** kingdom-activity; 

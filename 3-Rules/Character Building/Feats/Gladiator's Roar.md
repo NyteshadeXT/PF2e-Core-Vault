@@ -16,7 +16,7 @@ license: ORC
 ---
 # Gladiator's Roar `pf2:2`
 ## Feat 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[3-Rules/trait_reference/S/sonic]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[emotion]][[fear]][[mental]][[sonic]]
 
 **Category** class; 
 
@@ -28,7 +28,7 @@ license: ORC
 
 * * *
 
-You can project your voice into a high-pitched screech that damages your foes. Your roar can be heard twice as far as normal, and creatures within a @Template\[cone|distance:15\] take 6d10 sonic damage and must attempt a Fortitude check save against your class DC or spell DC, whichever is higher. If your Gladiator's Roar triggers Play to the Crowd, you gain a +2 status bonus to your Performance check to do so.
+You can project your voice into a high-pitched screech that damages your foes. Your roar can be heard twice as far as normal, and creatures within a 15-foot cone take 6d10 sonic damage and must attempt a Fortitude check save against your class DC or spell DC, whichever is higher. If your Gladiator's Roar triggers Play to the Crowd, you gain a +2 status bonus to your Performance check to do so.
 
 * * *
 

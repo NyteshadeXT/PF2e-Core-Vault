@@ -68,11 +68,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +30 (magical, reach 20 feet)\n__Damage__  3d12 + 17 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+30 (magical, reach 20 feet)\n__Damage__  3d12 + 17 bludgeoning plus improved-grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Black Bile +30 (acid, range increment 60 feet)\n__Damage__  4d10 acid 3d6 void"
+  - name: "**Ranged** `pf2:1` Black Bile"
+    desc: "+30 (acid, range increment 60 feet)\n__Damage__  4d10 acid 3d6 void"
 
   - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
     desc: "  The monster can use [[Bestiary Ability Glossary/Grab|Grab]] as a free action triggered by a hit with its initial attack. A monster with Improved Grab still needs to spend an action to extend the duration for creatures it already has [[Conditions/Grabbed|Grabbed]]."

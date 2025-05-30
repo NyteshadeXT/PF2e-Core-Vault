@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Gust +14 (finesse, reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Gust"
+    desc: "+14 (finesse, reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning"
 
   - name: "Forceful Winds"
-    desc: "`pf2:2` (air) The living whirlwind creates a @Template[line|distance:60] of violent wind. Creatures in the area must succeed at a DC 25 Fortitude check save or be pushed back 10 feet and knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:2` (air) The living whirlwind creates a 60-foot line of violent wind. Creatures in the area must succeed at a DC 25 Fortitude check save or be pushed back 10 feet and knocked [[Conditions/Prone|Prone]]."
  
 ```
 

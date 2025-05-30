@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +15 (agile, finesse)\n__Damage__  2d6 + 5 force plus grab"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+15 (agile, finesse)\n__Damage__  2d6 + 5 force plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Energy Bolt +15 (force, range increment 60 feet)\n__Damage__  2d6 + 5 force"
+  - name: "**Ranged** `pf2:1` Energy Bolt"
+    desc: "+15 (force, range increment 60 feet)\n__Damage__  2d6 + 5 force"
 
   - name: "Occult Innate Spells"
     desc: "DC 20, attack +12; __3rd __ (2 slots) _[[Spells/Haste|Haste]]_, _[[Spells/Slow|Slow]]_"

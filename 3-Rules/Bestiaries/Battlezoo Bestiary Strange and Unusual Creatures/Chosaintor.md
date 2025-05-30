@@ -35,7 +35,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +7, Deception: +9, Diplomacy: +7, Intimidation: +7, Stealth: +8, Acrobatics: +8, Athletics: +7, Deception: +9, Diplomacy: +7, Intimidation: +7, Stealth: +8"
+    desc: "Acrobatics: +8, Athletics: +7, Deception: +9, Diplomacy: +7, Intimidation: +7, Stealth: +8"
 abilityMods: [1, 3, 0, 2, 4, 3]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (finesse, reach 0 feet)\n__Damage__  1d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (finesse, reach 0 feet)\n__Damage__  1d8 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile, finesse, reach 0 feet)\n__Damage__  1d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, finesse, reach 0 feet)\n__Damage__  1d6 + 3 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Charm|Charm]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Tame|Tame]]_"

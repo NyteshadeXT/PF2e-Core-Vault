@@ -28,5 +28,5 @@ license: OGL
 
 You quickly assess the threat so you can relay the information to your team. Attempt a Recall Knowledge check against the triggering creature.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

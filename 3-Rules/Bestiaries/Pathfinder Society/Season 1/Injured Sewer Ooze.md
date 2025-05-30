@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +8 ()\n__Damage__  1d4 + 2 bludgeoning 1d4 acid"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+8 (unarmed)\n__Damage__  1d4 + 2 bludgeoning 1d4 acid"
 
   - name: "Filth Wave"
-    desc: "`pf2:1`  **Frequency** once per minute\n* * *\n\n**Effect** The sewer ooze unleashes a wave of filth, covering all creatures within a @Template[emanation|distance:20]. Each creature in the area must succeed at a DC 15 Reflex check save or take 1d4 acid damage and take a -10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[Conditions/Prone|Prone]]). A creature can spend and Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action."
+    desc: "`pf2:1`  **Frequency** once per minute\n* * *\n\n**Effect** The sewer ooze unleashes a wave of filth, covering all creatures within a 20-foot emanation. Each creature in the area must succeed at a DC 15 Reflex check save or take 1d4 acid damage and take a -10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[Conditions/Prone|Prone]]). A creature can spend and Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action."
  
 ```
 

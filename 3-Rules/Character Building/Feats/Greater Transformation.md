@@ -22,5 +22,5 @@ license: ORC
 * * *
 You can assume your oni form more easily, and with greater benefits. Your oni form lasts for 10 minutes without the need to Sustain it. While in your oni form, your reach increases by 5 feet.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

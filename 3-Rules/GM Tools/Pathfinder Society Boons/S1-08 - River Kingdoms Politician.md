@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-08 - River Kingdoms Politician"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.lJ1lNwGxV0IrsN2z"
 license: OGL
 ---
 # S1-08 - River Kingdoms Politician
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

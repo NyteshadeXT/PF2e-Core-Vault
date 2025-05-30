@@ -52,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Slam Shut"
-    desc: "`pf2:r` **Trigger** A creature steps onto the trap's pressure plate (indicated on the map)\n* * *\n\n**Effect** The front of the iron maiden slams shut with incredible force and locks itself. The triggering creature takes 4d10+10 piercing damage and 2d6 bleed (DC 26 Reflex check save; if the creature critically succeeds, they avoid the trap completely). The triggering creature is also immobilized. The victim can end their immobilization only once a creature outside the iron maiden unlocks the device (requiring two successful DC 28 Thievery check checks to Disable a Device) or breaks the iron maiden, after which the trapped creature must succeed at a DC 25 check to Escape the trap's spike-lined interior."
+    desc: "`pf2:r` **Trigger** A creature steps onto the trap's pressure plate (indicated on the map)\n* * *\n\n**Effect** The front of the iron maiden slams shut with incredible force and locks itself. The triggering creature takes 4d10+10 piercing damage and 2d6 bleed (DC 26 Reflex check save; if the creature critically succeeds, they avoid the trap completely). The triggering creature is also immobilized. The victim can end their immobilization only once a creature outside the iron maiden unlocks the device (requiring two successful [[Actions/disable-device dc=28|disable-device dc=28]]{DC 28 Thievery} checks to Disable a Device) or breaks the iron maiden, after which the trapped creature must succeed at a DC 25 check to Escape the trap's spike-lined interior."
 
 
   - name: "Reset"

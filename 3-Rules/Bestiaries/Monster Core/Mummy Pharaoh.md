@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike (Special)]]"
-    desc: "`pf2:r`  The mummy pharaoh can use Reactive Strike when a creature within its reach uses a concentrate action, in addition to its normal trigger. It can disrupt triggering concentrate actions, and it disrupts actions on any hit, not just a critical hit.\n\n* * *\n"
+    desc: "`pf2:r`  The mummy pharaoh can use Reactive Strike when a creature within its reach uses a concentrate action, in addition to its normal trigger. It can disrupt triggering concentrate actions, and it disrupts actions on any hit, not just a critical hit.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Rejuvenation"
     desc: " (divine) When a mummy pharaoh is destroyed, necromantic energies rebuild its body in its tomb over 1d10 days. If the body is destroyed during that time, the process starts anew. A reforming mummy pharaoh is destroyed permanently if their tomb is consecrated."
@@ -72,17 +72,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +20 (agile)\n__Damage__  1d6 void 1d10 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+20 (agile, unarmed)\n__Damage__  1d6 void 1d10 + 11 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Longspear +21 (magical, reach 10 feet)\n__Damage__  1d6 void 2d8 + 11 piercing"
+  - name: "**Melee** `pf2:1` Longspear"
+    desc: "+21 (magical, reach 10 feet)\n__Damage__  1d6 void 2d8 + 11 piercing"
 
   - name: "Sandstorm Wrath"
-    desc: "`pf2:2` (concentrate,divine,earth,fire) The mummy pharaoh exhales a @Template[cone|distance:60] of superheated sand that deals 5d6 fire and 5d6 slashing damage (DC 28 Reflex check save).\n\nThe mummy pharaoh can't use Sandstorm Wrath again for 1d4 rounds."
+    desc: "`pf2:2` (concentrate,divine,earth,fire) The mummy pharaoh exhales a 60-foot cone of superheated sand that deals 5d6 fire and 5d6 slashing damage (DC 28 Reflex check save).\n\nThe mummy pharaoh can't use Sandstorm Wrath again for 1d4 rounds."
 
   - name: "Veil of Sand"
-    desc: "`pf2:1` (aura,divine,earth) Sand whirls around the mummy pharaoh in a @Template[emanation|distance:5] until the beginning of their next turn. Creatures inside the sand are [[Conditions/Concealed|Concealed]] to those outside it and any living creature ending its turn within the sand takes 4d6 slashing damage with a DC 28 Fortitude check save\n\nVeil of Sand ends if the mummy takes damage from their water weakness."
+    desc: "`pf2:1` (aura,divine,earth) Sand whirls around the mummy pharaoh in a 5-foot emanation until the beginning of their next turn. Creatures inside the sand are [[Conditions/Concealed|Concealed]] to those outside it and any living creature ending its turn within the sand takes 4d6 slashing damage with a DC 28 Fortitude check save\n\nVeil of Sand ends if the mummy takes damage from their water weakness."
  
 ```
 

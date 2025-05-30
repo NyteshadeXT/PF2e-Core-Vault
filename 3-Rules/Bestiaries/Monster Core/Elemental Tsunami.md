@@ -65,17 +65,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wave +24 (reach 20 feet)\n__Damage__  2d12 + 12 bludgeoning plus push-or-pull-10-feet"
+  - name: "**Melee** `pf2:1` Wave"
+    desc: "+24 (reach 20 feet)\n__Damage__  2d12 + 12 bludgeoning plus push-or-pull-10-feet"
 
   - name: "Drench"
-    desc: "`pf2:1` (primal,water) The elemental puts out all fires in a @Template[emanation|distance:20].\n\nIt extinguishes all non-magical fires automatically and attempts to counteract magical fires (+20 counteract modifier)."
+    desc: "`pf2:1` (primal,water) The elemental puts out all fires in a 20-foot emanation.\n\nIt extinguishes all non-magical fires automatically and attempts to counteract magical fires (+20 counteract modifier)."
 
   - name: "Surge"
     desc: "`pf2:2`  The elemental tsunami momentarily expands to fill the area of its vortex. Creatures within the aura take 5d12+6 bludgeoning damage with a DC 31 Fortitude check save. A creature that fails this save is pushed 20 feet.\n\nThe elemental tsunami then shrinks to its normal space and can't Surge again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Push|Push or Pull 10 feet]]"
-    desc: "`pf2:1`  The elemental tsunami can choose whether to push or pull the creature on a succesful hit.\n* * *\n\n**Push** `pf2:1`\n* * *\n\n**Pull** `pf2:1`"
+    desc: "`pf2:1`  The elemental tsunami can choose whether to push or pull the creature on a succesful hit.\n* * *\n\n**Push** `pf2:1`\n\n**Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance.\n* * *\n\n**Pull** `pf2:1`\n\n**Requirements** The monster's last action was a success with a Strike that lists Pull in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Reposition|Reposition]] the creature, moving it closer to the monster. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Pull lists a distance, change the distance the creature is pulled on a success to that distance."
  
 ```
 

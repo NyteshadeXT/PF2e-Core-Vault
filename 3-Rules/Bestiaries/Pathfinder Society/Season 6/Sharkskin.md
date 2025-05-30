@@ -64,17 +64,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 (finesse, unarmed)\n__Damage__  1d6 + 9 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (finesse, unarmed)\n__Damage__  1d6 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fearsome Scimitar +16 (emotion, fear, forceful, magical, mental, sweep)\n__Damage__  2d6 + 9 slashing"
+  - name: "**Melee** `pf2:1` Fearsome Scimitar"
+    desc: "+16 (emotion, fear, forceful, magical, mental, sweep)\n__Damage__  2d6 + 9 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Underwater Scimitar +16 (forceful, magical, sweep, water)\n__Damage__  2d6 + 9 slashing"
+  - name: "**Melee** `pf2:1` Underwater Scimitar"
+    desc: "+16 (forceful, magical, sweep, water)\n__Damage__  2d6 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +12 (magical, range increment 120 feet, water)\n__Damage__  2d8 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+12 (magical, range increment 120 feet, water)\n__Damage__  2d8 + 2 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The creature's Strikes deal an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -86,7 +86,7 @@ attacks:
     desc: "`pf2:2`  Sharkskin makes one Strike with xir _+1 striking fearsome scimitar_ and then one with xir _+1 striking underwater scimitar_. If xe hits with the first attack, xir target is [[Conditions/Off-Guard|Off-Guard]] against the second attack."
 
   - name: "You're Next"
-    desc: "`pf2:r` (emotion,fear,mental) **Trigger** Sharkskin reduces an enemy to 0 hit points\n* * *\n\n**Effect** Sharkskin attempts an Intimidation check to [[Actions/Demoralize|Demoralize]] a single creature xe can see with a +2 circumstance bonus."
+    desc: "`pf2:r` (emotion,fear,mental) **Trigger** Sharkskin reduces an enemy to 0 hit points\n* * *\n\n**Effect** Sharkskin attempts an Intimidation check to [[Actions/demoralize options=youre-next|demoralize options=youre-next]] a single creature xe can see with a +2 circumstance bonus."
  
 ```
 

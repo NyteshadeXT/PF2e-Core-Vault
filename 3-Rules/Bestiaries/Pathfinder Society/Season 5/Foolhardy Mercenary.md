@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +5 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+5 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +5 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+5 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
  
 ```
 

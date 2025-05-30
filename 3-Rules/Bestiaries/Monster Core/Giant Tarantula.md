@@ -55,20 +55,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +17 ()\n__Damage__  2d8 + 8 piercing plus giant-tarantula-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+17 ()\n__Damage__  2d8 + 8 piercing plus giant-tarantula-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Leg +17 (reach 10 feet)\n__Damage__  1d12 + 8 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Leg"
+    desc: "+17 (reach 10 feet)\n__Damage__  1d12 + 8 bludgeoning plus knockdown"
 
   - name: "Giant Tarantula Venom"
     desc: " (poison) **Saving Throw** DC 23 Fortitude check\n* * *\n\n**Maximum Duration** 8 rounds\n\n**Stage 1** 1d10 poison damage (1 round)\n\n**Stage 2** 1d12 poison damage, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** 2d6 poison damage, [[Conditions/Clumsy|Clumsy 2]], and off-guard (1 round)\n\n**Stage 4** 2d6 poison damage and [[Conditions/Paralyzed|Paralyzed]] (1 round)"
 
   - name: "Hair Barrage"
-    desc: "`pf2:2`  The tarantula flicks its legs, flinging spiky hairs in a @Template[cone|distance:15]. This deals 4d6 piercing damage with a DC 25 Reflex check save."
+    desc: "`pf2:2`  The tarantula flicks its legs, flinging spiky hairs in a 15-foot cone. This deals 4d6 piercing damage with a DC 25 Reflex check save."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

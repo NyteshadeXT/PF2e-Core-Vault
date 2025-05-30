@@ -61,7 +61,7 @@ abilities_mid:
     desc: "`pf2:r` (arcane,cold) **Trigger** An adjacent creature deals piercing or slashing damage to Venexus\n* * *\n\n**Effect** Venexus's blood splatters onto the triggering creature, dealing 2d6 cold damage. A creature that takes cold damage in this way is [[Conditions/Slowed|Slowed 1]] for 1 round."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 25 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 25 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Mist Shroud"
     desc: " (arcane,aura,water) 10 feet. The _Primordial Flame_ continually heats the cold emanating from Venexus's body, surrounding the dragon in a thin veil of fog. Creatures in the aura are [[Conditions/Concealed|Concealed]], and other creatures are concealed to creatures in the area. Venexus's storm vision allows her to see through this concealment, however. If wind disperses the aura, it returns automatically at the start of Venexus's turn. The aura is suppressed in water."
@@ -72,23 +72,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 (cold, magical, reach 10 feet)\n__Damage__  2d10 + 10 piercing 1d6 cold"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (cold, magical, reach 10 feet, unarmed)\n__Damage__  2d10 + 10 piercing 1d6 cold"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (agile, magical)\n__Damage__  2d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (agile, magical, unarmed)\n__Damage__  2d8 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +20 (magical, reach 15 feet)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+20 (magical, reach 15 feet)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 25, attack +17; __2nd __ (1 slots) _[[Spells/Mist|Obscuring Mist (At Will)]]_; __1st __ (1 slots) _[[Spells/Gust of Wind|Gust of Wind (At Will)]]_"
 
   - name: "Primal Innate Spells"
-    desc: "DC 25, attack +17; __7th __  _[[Spells/Sunburst|Sunburst]]_\n__Cantrips__  __(5th)__ _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 25, attack +17; __7th __  _[[Spells/Sunburst|Sunburst]]_\n__Cantrips__  __(5th)__ _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,cold) Venexus breathes a cloud of frost that deals 10d6 cold damage in a @Template[cone|distance:40] (DC 28 Reflex check). She can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,cold) Venexus breathes a cloud of frost that deals 10d6 cold damage in a 40-foot cone (DC 28 Reflex check). She can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  Venexus makes two claw Strikes and one tail Strike in any order."

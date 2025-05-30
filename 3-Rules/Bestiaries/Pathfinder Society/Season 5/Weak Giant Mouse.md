@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +4 (finesse)\n__Damage__  1d4 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+4 (finesse)\n__Damage__  1d4 piercing"
  
 ```
 

@@ -4,7 +4,7 @@ title: "Run Over"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/move
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.lID4rJHAVZB6tavf"
 license: OGL

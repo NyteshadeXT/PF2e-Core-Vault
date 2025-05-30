@@ -35,7 +35,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +13, Deception: +8, Intimidation: +12, Stealth: +10, Survival: +10, Acrobatics: +12, Athletics: +13, Deception: +8, Intimidation: +12, Stealth: +10, Survival: +10"
+    desc: "Acrobatics: +12, Athletics: +13, Deception: +8, Intimidation: +12, Stealth: +10, Survival: +10"
 abilityMods: [5, 3, 4, -4, 2, 1]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d8 + 6 piercing plus curse-of-the-twistwere"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 ()\n__Damage__  2d8 + 6 piercing plus curse-of-the-twistwere"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile)\n__Damage__  2d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile)\n__Damage__  2d6 + 6 slashing"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
     desc: "`pf2:1` (concentrate,polymorph,primal) The twistwere wolf changes into their hybrid or animal shape. Each shape has a specific, persistent appearance. Its natural form looks like a normal wolf, whereas its hybrid form looks like a twisted version of a wolf."

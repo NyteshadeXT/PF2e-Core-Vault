@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You gain Greater Darkvision for 1 minute.
+Granted by [[Feats/Shadow Sight|Shadow Sight]]
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+You gain Greater Darkvision.
+
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

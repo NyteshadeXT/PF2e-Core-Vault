@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Snare Specialist
 * * *
-You can prepare a seemingly impossible number of snares in advance, and you're ready to spring them on unsuspecting foes. Double the number of prepared snares from Snare Specialist.
+You can prepare a seemingly impossible number of snares in advance, and you're ready to spring them on unsuspecting foes. Double the number of prepared snares from [[Feats/Snare Specialist|Snare Specialist]].
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

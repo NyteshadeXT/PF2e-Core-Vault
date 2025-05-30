@@ -54,6 +54,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Ear for Secrets"
@@ -68,8 +74,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Leg +29 (agile, finesse, magical, unholy)\n__Damage__  3d6 + 14 slashing 2d6 spirit"
+  - name: "**Melee** `pf2:1` Leg"
+    desc: "+29 (agile, finesse, magical, unholy)\n__Damage__  3d6 + 14 slashing 2d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 34, attack +26; __7th __  _[[Spells/Fear|Fear (At Will)]]_, _[[Spells/Mask of Terror|Mask of Terror (At Will) (Self Only)]]_; __5th __ (3 slots) _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(7th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Guidance|Guidance]]_\n__Constant__  __(7th)__ _[[Spells/Truesight|True Seeing]]_"

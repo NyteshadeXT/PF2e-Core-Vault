@@ -22,5 +22,5 @@ license: ORC
 * * *
 You've delved into the power of your legacy. You gain all the mechanical benefits of the yaoguai heritage you selected at first level, allowing you to take feats and gain any benefits that require a specific yaoguai heritage.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

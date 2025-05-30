@@ -4,8 +4,7 @@ title: "Maneuver in Flight"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/move
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.Qf1ylAbdVi1rkc8M"
@@ -13,7 +12,7 @@ license: ORC
 ---
 # Maneuver in Flight `pf2:1`
 
-### [[move]][[skill]]
+### [[move]]
 
 **Category** interaction; 
 
@@ -24,7 +23,7 @@ license: ORC
 
 * * *
 
-You try a difficult maneuver while flying. Attempt an Acrobatics check. The GM determines what maneuvers are possible, but they rarely allow you to move farther than your fly Speed.
+You try a difficult maneuver while flying. Attempt an [[Actions/maneuver-in-flight|maneuver-in-flight]]{Acrobatics} check. The GM determines what maneuvers are possible, but they rarely allow you to move farther than your fly Speed.
 
 * * *
 

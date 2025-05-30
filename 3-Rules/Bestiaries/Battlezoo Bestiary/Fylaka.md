@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 ()\n__Damage__  2d8 + 8 piercing plus grab,spirit-touch"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 ()\n__Damage__  2d8 + 8 piercing plus grab,spirit-touch"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile)\n__Damage__  2d6 + 8 slashing plus spirit-touch"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile)\n__Damage__  2d6 + 8 slashing plus spirit-touch"
 
   - name: "Innate Divine Spells"
     desc: "DC 23, attack +15; __5th __  _[[Spells/Locate|Locate]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Locate|Locate]]_; __4th __  _[[Spells/Translocate|Dimension Door]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_"

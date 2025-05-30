@@ -48,7 +48,7 @@ hp: 300
 health:
   - name: ""
   - name: HP
-    desc: "300; __Resistances__ physical 10 (except weapons)"
+    desc: "300; __Resistances__ physical (weapons only) 10"
 abilities_top:
   - name: ""
   - name: "Items"
@@ -56,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "No Time To Die"
     desc: "  As long as Armag wields _Ovinrbaane_ and is raging, the combination of the sword's magic and Armag's furious conviction that he is the true Armag protects him from death. His eyes and the sword's blade weep with blood and glow with red light at this time. As long as these conditions persist, he never increases beyond [[Conditions/Dying|Dying 3]] and is not rendered [[Conditions/Unconscious|Unconscious]]. Instead, Armag becomes [[Conditions/Confused|Confused]] and continues to fight. If _Ovinrbaane_ is taken from him (such as via a successful [[Actions/Disarm|Disarm]]), or if his rage ends while he is dying, he immediately dies regardless of his dying condition value. If he's healed to at least 1 Hit Point, the confusion effect immediately ends."
@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ovinrbaane +28 (artifact, cursed, intelligent, magical, versatile p)\n__Damage__  2d12 + 13 slashing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Ovinrbaane"
+    desc: "+28 (artifact, cursed, intelligent, magical, versatile p)\n__Damage__  2d12 + 13 slashing 1d6 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shoulder Spikes +27 ()\n__Damage__  3d6 + 13 piercing"
+  - name: "**Melee** `pf2:1` Shoulder Spikes"
+    desc: "+27 ()\n__Damage__  3d6 + 13 piercing"
 
   - name: "Armag's Rage"
     desc: "  **Requirements** Armag is not [[Conditions/Fatigued|Fatigued]] or raging.\n* * *\n\n**Effect** Armag flies into a rage that lasts 1 minute. While raging, he gains a +6 status bonus to damage rolls and suffers a -1 status penalty to AC. During his rage, Armag gains an additional reaction at the start of his turn, but he can only use this additional reaction for [[Bestiary Ability Glossary/Attack of Opportunity|Attacks of Opportunity]]. After the rage ends, Armag is fatigued.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"

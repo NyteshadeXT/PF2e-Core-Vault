@@ -56,6 +56,9 @@ abilities_top:
   - name: "Wild Empathy"
     desc: "  The blodeuwedd can use Diplomacy to [[Actions/Make an Impression|Make an Impression]] on and make very simple [[Actions/Request|Requests]] of animals."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Allergen Aura"
@@ -64,17 +67,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +12 (agile)\n__Damage__  2d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+12 (agile, unarmed)\n__Damage__  2d8 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +15 (propulsive, range increment 50 feet)\n__Damage__  2d6 + 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+15 (propulsive, range increment 50 feet)\n__Damage__  2d6 + 2 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Mirage|Hallucinatory Terrain]]_, _[[Spells/Rewrite Memory|Modify Memory]]_, _[[Spells/Sleep|Sleep]]_; __3rd __  _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/Entangling Flora|Entangle (x3)]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Tangle Vine|Tanglefoot]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:2` (concentrate,polymorph,primal) A blodeuwedd can take on the appearance of a single unique humanoid or the form of a prairie owl.\n\nWhen in humanoid form, the blodeuwedd loses its claw attack.\n\nIn owl form, its statistics change as follows:\n\n*   **Size** Small;\n*   **Speed** fly 60 feet;\n*   **Melee** `pf2:1` talons +15, Damage 1d3-1 slashing.\n\nA blodeuwedd can return to their normal form as a free action.\n\n* * *\n"
+    desc: "`pf2:2` (concentrate,polymorph,primal) A blodeuwedd can take on the appearance of a single unique humanoid or the form of a prairie owl.\n\nWhen in humanoid form, the blodeuwedd loses its claw attack.\n\nIn owl form, its statistics change as follows:\n\n*   **Size** Small;\n*   **Speed** fly 60 feet;\n*   **Melee** `pf2:1` talons +15, Damage 1d3-1 slashing.\n\nA blodeuwedd can return to their normal form as a free action.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Living Footsteps"
     desc: "  Every Stride action taken by a blodeuwedd causes small plants, grasses, and wildflowers to sprout from the ground, though they can suppress this effect if they desire. In a region or terrain that wouldn't normally support plant life, these plants thrive for 1 minute before withering away."

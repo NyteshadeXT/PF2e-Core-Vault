@@ -6,8 +6,9 @@ tags:
   - trait/automaton
   - trait/uncommon
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.h9b5CId7S7gV7j2t"
-license: OGL
+license: ORC
 ---
 # Axial Recall
 ## Feat 17
@@ -18,7 +19,7 @@ license: OGL
 
 
 
-You have reconfigured the magical resonance of your core to attune to the planar energies of Axis. You can cast [[Interplanar Teleport|Interplanar Teleport]] twice per week as an arcane innate spell that can only target yourself; you can travel only to Axis or the Material Plane, and your body serves as the focus component.
+You have reconfigured the magical resonance of your core to attune to the planar energies of Axis, enabling instantaneous travel to that plane. You can cast [[Spells/Interplanar Teleport|Interplanar Teleport]] twice per week as an arcane innate spell that can only target yourself; you can travel only to Axis or the Universe, and your body serves as the focus component.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Divine Aegis|Divine Aegis]]
 
-Until the beginning of your next turn, you gain a +1 circumstance bonus to saving throws against non-divine magical effects, but you also take a -1 circumstance penalty to saves against divine effects.
+You gain a +1 circumstance bonus to saving throws against non-divine magical effects, but you also take a -1 circumstance penalty to saves against divine effects.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

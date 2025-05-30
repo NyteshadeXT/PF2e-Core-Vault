@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Magic Warrior Dedication
 * * *
-You can transform fully into the animal your mask represents. You gain the [[3-Rules/Character Building/Spells/M/Magic Warrior Transformation|Magic Warrior Transformation]] focus spell.
+You can transform fully into the animal your mask represents. You gain the [[Spells/Magic Warrior Transformation|Magic Warrior Transformation]] focus spell.
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

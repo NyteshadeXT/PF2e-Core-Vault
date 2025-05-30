@@ -20,5 +20,5 @@ license: OGL
 
 You're particularly skilled at helping others with a task. You gain a +2 circumstance bonus on checks to [[Actions/Aid|Aid]], and you don't give your ally a -1 circumstance penalty to their check if you critically fail your attempt to Aid.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

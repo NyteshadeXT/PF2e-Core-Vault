@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "AoA #150: Boon B - Paragon of Promise"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.We3sJV72xtdPeMjp"
 license: OGL
 ---
 # AoA #150: Boon B - Paragon of Promise
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

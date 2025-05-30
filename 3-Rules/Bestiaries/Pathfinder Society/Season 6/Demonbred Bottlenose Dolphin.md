@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Snout +7 ()\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Snout"
+    desc: "+7 ()\n__Damage__  1d6 + 3 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 ()\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (unarmed)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Ramming Speed"
     desc: "`pf2:2`  The bottlenose dolphin [[Actions/Swim|Swims]] twice and then makes a snout Strike. As long as it moved at least 20 feet, it gains a +1 circumstance bonus to its attack roll.\n\nA Large or smaller creature hit by this attack must succeed at a DC 17 Fortitude check save or be [[Conditions/Slowed|Slowed 1]] for 1 round."

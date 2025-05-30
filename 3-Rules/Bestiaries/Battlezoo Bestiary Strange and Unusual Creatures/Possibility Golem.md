@@ -37,7 +37,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +27, Athletics: +30, Stealth: +27, Acrobatics: +27, Athletics: +30, Stealth: +27"
+    desc: "Acrobatics: +27, Athletics: +30, Stealth: +27"
 abilityMods: [8, 4, 6, -4, 0, -5]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -73,11 +73,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +28 (magical, reach 10 feet)\n__Damage__  3d10 + 17 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+28 (magical, reach 10 feet)\n__Damage__  3d10 + 17 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Phase Fist +28 (agile, magical, reach 15 feet)\n__Damage__  3d8 + 17 bludgeoning plus untether-from-reality"
+  - name: "**Melee** `pf2:1` Phase Fist"
+    desc: "+28 (agile, magical, reach 15 feet)\n__Damage__  3d8 + 17 bludgeoning plus untether-from-reality"
 
   - name: "Impossible Flank"
     desc: "`pf2:2`  The golem makes two fist Strikes against a creature within the Golem's Cloud of Possibility, attacking once from the front and then immediately following up with an attack from behind. Whether or not the first attack hits, the second attack deals 2d6 additional force damage. Apply the multiple attack penalty to the Strikes normally."

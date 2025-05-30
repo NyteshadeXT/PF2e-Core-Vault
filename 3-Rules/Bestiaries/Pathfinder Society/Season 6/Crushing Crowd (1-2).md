@@ -51,10 +51,10 @@ attacks:
   - name: ""
 
   - name: "Crush"
-    desc: "`pf2:r` **Trigger** Lady Embersplitter announces that the victim has died\n* * *\n\n**Effect** The crowd begins moving around the bailey and deals 2d6+2 bludgeoning damage in a @Template[emanation|distance:10] (DC 18 Reflex check save), and then rolls initiative."
+    desc: "`pf2:r` **Trigger** Lady Embersplitter announces that the victim has died\n* * *\n\n**Effect** The crowd begins moving around the bailey and deals 2d6+2 bludgeoning damage in a 10-foot emanation (DC 18 Reflex check save), and then rolls initiative."
 
   - name: "Routine"
-    desc: "(1 action) On its initiative, the crowd moves 5 feet toward the exit in area **A1**, then crushes any creature in a @Template[emanation|distance:10], dealing 2d6+2 bludgeoning damage. All targets must attempt a DC 18 Reflex check save.\n\n**Failure** The target takes full damage and becomes [[Conditions/Prone|Prone]].\n\n**Critical Failure** The target takes double damage, becomes prone, and is [[Conditions/Clumsy|Clumsy 1]] for 1 round."
+    desc: "(1 action) On its initiative, the crowd moves 5 feet toward the exit in area **A1**, then crushes any creature in a 10-foot emanation, dealing 2d6+2 bludgeoning damage. All targets must attempt a DC 18 Reflex check save.\n\n**Failure** The target takes full damage and becomes [[Conditions/Prone|Prone]].\n\n**Critical Failure** The target takes double damage, becomes prone, and is [[Conditions/Clumsy|Clumsy 1]] for 1 round."
 
 ```
 

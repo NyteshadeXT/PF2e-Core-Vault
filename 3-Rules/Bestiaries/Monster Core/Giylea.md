@@ -56,6 +56,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "All-Knowing Eyes"
     desc: " (aura,divine,mental,visual) 30 feet.\n\nWhen a creature ends its turn in the giylea's aura, it must attempt a DC 34 Will check save. If the creature fails, any Deception check it attempts until the end of its next turn has its result reduced by one degree of success. If a creature is currently disguised or in a shape other than its true form when it fails its save, it also becomes [[Conditions/Stupefied|Stupefied 1]] until the end of its next turn."
 
@@ -65,17 +68,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Slam +30 (holy, magical)\n__Damage__  1d6 fire 3d12 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Slam"
+    desc: "+30 (holy, magical, unarmed)\n__Damage__  1d6 fire 3d12 + 14 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Tongue of Flame +33 (fire, holy, magical, range 30 feet)\n__Damage__  7d6 fire"
+  - name: "**Ranged** `pf2:1` Tongue of Flame"
+    desc: "+33 (fire, holy, magical, range 30 feet)\n__Damage__  7d6 fire"
 
   - name: "Divine Innate Spells"
     desc: "DC 37, attack +29; __9th __  _[[Spells/Detonate Magic|Detonate Magic]]_; __8th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Ring of Truth|Ring of Truth (At Will)]]_; __7th __  _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Divine Immolation|Divine Immolation]]_, _[[Spells/Scouting Eye|Scouting Eye]]_, _[[Spells/Zealous Conviction|Zealous Conviction]]_\n__Constant__  __(8th)__ _[[Spells/Ring of Truth|Ring of Truth]]_, _[[Spells/Truesight|Truesight]]_, _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "Fiery Spokes"
-    desc: "`pf2:2` (divine,fire,holy,spirit) The giylea spins furiously, emitting a rain of divine fire. All creatures in a @Template[emanation|distance:60] take 12d6 fire damage and 5d6 spirit damage with a DC 37 Reflex check save. The giylea can't use Fiery Spokes for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire,holy,spirit) The giylea spins furiously, emitting a rain of divine fire. All creatures in a 60-foot emanation take 12d6 fire damage and 5d6 spirit damage with a DC 37 Reflex check save. The giylea can't use Fiery Spokes for 1d4 rounds."
 
   - name: "Focus Gaze"
     desc: "`pf2:1` (concentrate,divine,mental,visual) The giylea fixes their gaze on a creature they can see within 30 feet. The target must immediately attempt a DC 37 Will check save against the giylea's all-knowing eyes. If the creature is under any magical effect that disguises it or has altered its shape, the giylea attempts to counter that magical disguise effect (counteract +29, 8th rank). After attempting its save, the creature is then temporarily immune until the start of the giylea's next turn."

@@ -56,14 +56,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +19 ()\n__Damage__  2d6 + 7 piercing plus drider-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+19 ()\n__Damage__  2d6 + 7 piercing plus drider-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Web +20 (range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Web"
+    desc: "+20 (range increment 30 feet)\n__Damage__ "
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +21 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d8 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+21 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d8 + 7 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 28, attack +20; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Vampiric Feast|Vampiric Feast]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Force Barrage|Force Barrage]]_\n__Cantrips__  __(5th)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"

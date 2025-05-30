@@ -22,5 +22,5 @@ license: ORC
 * * *
 Mortal worries are such simple matters to you that you leave them behind almost as quickly as you experience them. You can use [[Feats/All This Will Happen Again|All This Will Happen Again]] once per hour, rather than once per day.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

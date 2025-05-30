@@ -58,6 +58,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Deflecting Gale"
@@ -72,23 +78,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Phantom Hoof +35 (force, magical)\n__Damage__  4d10 + 15 force"
+  - name: "**Melee** `pf2:1` Phantom Hoof"
+    desc: "+35 (force, magical)\n__Damage__  4d10 + 15 force"
 
-  - name: "Melee"
-    desc: "`pf2:1` Phantom Horn +35 (agile, force, magical)\n__Damage__  4d8 + 15 force"
+  - name: "**Melee** `pf2:1` Phantom Horn"
+    desc: "+35 (agile, force, magical)\n__Damage__  4d8 + 15 force"
 
   - name: "Innate Divine Spells"
     desc: "DC 41, attack +33; __8th __  _[[Spells/Calm|Calm Emotions (At Will)]]_, _[[Spells/Gust of Wind|Gust of Wind (x3)]]_, _[[Spells/Heal|Heal (x2)]]_, _[[Spells/Punishing Winds|Punishing Winds]]_, _[[Spells/Spirit Link|Spirit Link (with Jin-Hae only)]]_; __2nd __  _[[Spells/Detect Alignment|Detect Alignment (At Will)]]_\n__Cantrips__  __(9th)__ _[[Spells/Light|Light]]_\n__Constant__  __(9th)__ _[[Spells/Air Walk|Air Walk]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine,fire) Cloudsplitter breathes fire in a @Template[cone|distance:30], dealing 18d6 fire damage (DC 40 Reflex check save). Cloudsplitter can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire) Cloudsplitter breathes fire in a 30-foot cone, dealing 18d6 fire damage (DC 40 Reflex check save). Cloudsplitter can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Rearing Thrust"
     desc: "`pf2:2`  The Cloudsplitter rushes forward, rears up on their hind legs, and descends upon their target with their horn. Cloudsplitter Strides and makes a horn Strike. If this Strike hits, it deals an additional 2d8 damage, and the target is knocked [[Conditions/Prone|Prone]]."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, phantom hoof, DC 40 Reflex check save\n\n* * *\n"
+    desc: "`pf2:3`  Medium or smaller, phantom hoof, DC 40 Reflex check save\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

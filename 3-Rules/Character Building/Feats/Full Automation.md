@@ -6,8 +6,9 @@ tags:
   - trait/inventor
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.6yJxUx0W2hwHckNi"
-license: OGL
+license: ORC
 ---
 # Full Automation
 ## Feat 20
@@ -26,4 +27,4 @@ You become so entwined with your innovations that you can use them without a sec
 *   **Weapon** Your weapon becomes easier to wield with deadly efficacy, almost as if it is an extension of your body. It speeds effortlessly toward whatever target you choose as long as you are holding it. You can use the extra action to Strike with your innovation.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

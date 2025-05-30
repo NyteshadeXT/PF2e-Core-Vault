@@ -13,7 +13,7 @@ license: ORC
 ---
 # Threatening Pursuit `pf2:1`
 ## Feat 13
-### [[auditory]][[Minotaur]]
+### [[auditory]][[minotaur]]
 
 **Category** ancestry; 
 

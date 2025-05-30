@@ -6,8 +6,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.lFVqejlf52cdYrZy"
-license: OGL
+license: ORC
 ---
 # Munitions Crafter
 ## Feat 1
@@ -18,9 +19,11 @@ license: OGL
 
 
 
-Bullets and bombs can be scarce in some parts, so you've learned to make your own. You become trained in Crafting and gain the alchemist's infused reagents class feature, gaining a number of reagents each day equal to your level. You also gain the [[Feats/Alchemical Crafting|Alchemical Crafting]] feat and four additional formulas for 1st-level alchemical items.
+Bullets and bombs can be scarce in some parts, so you've learned to make your own. You become trained in Crafting and gain the advanced alchemy benefits. You can use the advanced alchemy benefits to create a number of daily consumables equal to 4 + half your level (rounded up); these consumables must be bombs or alchemical ammunition.
 
-You gain infused reagents (a pool of reagents usable to make alchemical items) and advanced alchemy (allowing you to make alchemical items during your daily preparations without the normal cost or time expenditure). You gain batches of infused reagents per day equal to your level, which you can use to create only bombs or alchemical ammunition. Your advanced alchemy level for creating these is 1 and doesn't increase on its own. If you use a batch of infused reagents to create basic level-0 ammunition such as black powder cartridges or black powder doses, you produce 10 rounds of ammunition.
+You gain a formula book that includes the formula for black powder and four 1st-level types of common or uncommon alchemical ammunition or bombs of your choice.
+
+When crafting alchemical ammunition, including black powder in doses or rounds, using advanced alchemy, you create the ammunition in batches of 4 (meaning that if you were 4th level and used all of your advanced alchemy consumables to create alchemical ammunition, you could create a maximum of 24 rounds). You cannot use advanced alchemy to Craft horns or kegs of black powder.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

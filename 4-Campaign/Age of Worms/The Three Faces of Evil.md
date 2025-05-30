@@ -8,80 +8,111 @@ whichparty:
 adventure_status: In Progress
 adventure_level: 2
 total_xp: 2400
-completed_xp: 1650
-awarded_permanent_items:
-  - name: Repair Toolkit (Superb)
-    ilvl: 3
-    gp: 25
-    date: 05.09.2025
-  - name: Magic Wand (Heal)
-    ilvl: 3
-    gp: 60
-    date: 05.09.2025
-  - name: Magic Wand (Harm)
-    ilvl: 0
-    gp: 0
-    date: 05.09.2025
-  - name: Low-Grade Cold Iron Longsword
-    ilvl: 2
+completed_xp: 1880
+completed_xp_log:
+  - date: 2025-04-10
+    xp: 300
+  - date: 2025-04-24
+    xp: 690
+  - date: 2025-05-01
+    xp: 140
+  - date: 2025-05-08
+    xp: 60
+  - date: 2025-05-29
+    xp: 230
+awarded_coin:
+  - date: 2025-04-10
+    pp: 0
+    gp: 61
+    sp: 0
+    cp: 0
+  - date: 2025-04-17
+    pp: 0
+    gp: 87
+    sp: 21
+    cp: 0
+  - date: 2025-04-24
+    pp: 0
+    gp: 249
+    sp: 700
+    cp: 0
+  - date: 2025-05-01
+    pp: 0
     gp: 44
-    date: 05.09.2025
-  - name: Smuggler's Sack (Type I)
-    ilvl: 4
-    gp: 75
-    date: 05.09.2025
-  - name: Rope of Climbing (Lesser)
-    ilvl: 3
-    gp: 45
-    date: 05.09.2025
+    sp: 0
+    cp: 0
+  - date: 2025-05-08
+    pp: 0
+    gp: 332
+    sp: 103
+    cp: 0
+  - date: 2025-05-29
+    pp: 0
+    gp: 36
+    sp: 0
+    cp: 0
 awarded_consumable_items:
   - name: Healing Potion (Minor) x2
     ilvl: 1
     gp: 4
-    date: 05.09.2025
+    date: 2025-04-10
   - name: Potency Crystal
     ilvl: 1
     gp: 4
-    date: 05.09.2025
+    date: 2025-04-10
   - name: Healing Potion (Lesser)
     ilvl: 3
     gp: 12
-    date: 05.09.2025
+    date: 2025-05-08
   - name: Eagle Eye Elixir (Lesser)
     ilvl: 1
     gp: 4
-    date: 05.09.2025
+    date: 2025-05-08
   - name: Bravo's Brew (Lesser)
     ilvl: 2
     gp: 7
-    date: 05.09.2025
+    date: 2025-05-08
   - name: Silvertongue Mutagen (Lesser)
     ilvl: 1
     gp: 4
-    date: 05.09.2025
+    date: 2025-05-08
   - name: Scroll of Silence
     ilvl: 1
     gp: 4
-    date: 05.09.2025
+    date: 2025-05-08
   - name: Scroll of Dispel Magic
     ilvl: 3
     gp: 12
-    date: 05.09.2025
+    date: 2025-05-08
   - name: Potion of Fire Retaliation (Lesser)
     ilvl: 3
     gp: 12
-    date: 05.09.2025
-completed_xp_log:
-  - date: 05.01.2025
-    xp: 140
-  - date: 05.08.2025
-    xp: 260
-awarded_coin:
-  - date: 05.08.2025
-    pp: 0
-    gp: 217
-    sp: 301
-    cp: 0
+    date: 2025-05-08
+awarded_permanent_items:
+  - name: Magic Wand (Harm)
+    ilvl: 0
+    gp: 0
+    date: 2025-04-17
+  - name: Low-Grade Cold Iron Longsword
+    ilvl: 2
+    gp: 44
+    date: 2025-04-17
+  - name: Smuggler's Sack (Type I)
+    ilvl: 4
+    gp: 75
+    date: 2025-04-24
+  - name: Rope of Climbing (Lesser)
+    ilvl: 3
+    gp: 45
+    date: 2025-04-24
+  - name: Repair Toolkit (Superb)
+    ilvl: 3
+    gp: 25
+    date: 2025-05-01
+  - name: Magic Wand (Heal)
+    ilvl: 3
+    gp: 60
+    date: 2025-05-08
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -217,7 +248,7 @@ darkMode: false
 
 ## Encounter 1. The Dark Cathedral
 **Encounter Difficulty:**   
-- [x] Moderate (80 XP) Level 3
+> - [<] Moderate (80 XP) Level 3
 
 > [!note]+ Read Aloud
 > As the elevator grinds to a halt, you find yourself in a strange room. Three short passages lead away from the chamber—one to the north, another to the east, and the third to the west. Each passage ends in a marble doorway. The door to the north bears an eerie symbol—a human hand clutching an eye. Crimson banners frame the eastern doorway, each emblazoned with the image of a gauntleted fist gripping six arrows. The western door, in stark contrast, is plain and unmarked.
@@ -248,11 +279,11 @@ A DC 20 [[Seek]] check made in the area around the pool or on the platform above
 > [!tip]+ Treasure
 > The uppermost platform above the pool bears a small, wicker basket filled with an offering to the Overgod. It contains 4 gp in a leather pouch and а silver idol of Erythnul worth 10 gp.  Additionally, the guards each have one [[Healing Potion (Minor)]].  One of the guards is carrying 7 gp and a [[Potency Crystal]] while the other has a skeleton key which opens all of the locks in areas 2 though 11.
 > 
-> - [x] gp::7
-> - [x] gp::14
-> - [x] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
-> - [x] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
-> - [x] consumable::[[Potency Crystal|Potency Crystal]] [ilvl::1] [gp::4]
+> - [<] gp::7
+> - [<] gp::14
+> - [<] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [<] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [<] consumable::[[Potency Crystal|Potency Crystal]] [ilvl::1] [gp::4]
 
 # Part 2: Citadel of Hextor
 
@@ -293,7 +324,7 @@ Before running encounters here, be sure to study the “Temple Organization” s
 
 ## Encounter 2: Chamber of the Guardians
 **Encounter Difficulty:**   
-- [x] Trivial (80 XP) Level 3
+> - [<] Trivial (80 XP) Level 3
 
 > [!note]+ Read Aloud
 > A dozen suits of armor, ranging from battered. leathers to rusted plate, line this chambers walls. The bleached white bones of human, dwarf, and orc skeletons contrast with the dark, bloodstained armor. The suits are carefully arranged, as if the dead were preparing. to march for war, Each has a mace hooked to its belt, while bells of varying shapes and sizes hang from the armor on long, leather strips.
@@ -334,7 +365,7 @@ The skeletons will attack until defeated.
 
 ## Encounter 3: Chamber of the Faithful
 **Encounter Difficulty:**   
-- [x] Trivial (40 XP) Level 3
+> - [<] Trivial (40 XP) Level 3
 
 > [!note]+ Read Aloud
 > Blankets cover the floor of this chamber, surrounding a wooden crate atop which stands a small, crude statue of a six armed humanoid figure. A few battered weapons, spears, clubs, and fails lean against the far wall. Stone pegs carved into the wall light this area with flickering, bright flames.
@@ -360,11 +391,11 @@ The cultists are fanatical in their dedication to Theldrick, the high priest of 
 > [!tip]+ Treasure
 > A successful DC 15 [[Search]] check of the wooden crate in the center of the room reveals a small trove hidden beneath a loose flagstone. The treasure. consists of a golden holy symbol of Hextor worth 5 gp and the broken blade of a silver, ceremonial dagger worth 2 gp.
 > 
-> - [x] gp::7
+> - [<] gp::7
 
 ## Encounter 4: The Guard Chamber
 **Encounter Difficulty:**   
-- [x] Moderate (80 XP) Level 3
+> - [<] Moderate (80 XP) Level 3
 
 > [!note]+ Read Aloud
 > This chamber holds two beds against the east wall, a long, wooden table along the south wall, two stools, and a weapons rack along the west wall. A suit of leather armor lies on the table with a variety of tools spread out around it.
@@ -389,12 +420,12 @@ The tieflings have learned to fight as a pair. While one readies his axe, the ot
 > [!tip]+ Treasure
 > The leather armor is a mundane suit that one of the tieflings is in the process of repairing, while the tools around it comprise a complete [[Repair Toolkit (Superb)]]. A DC 15 [[Search]] of one bed reveals а small, velvet bag containing 7 gp and a golden necklace worth 5 gp.
 > 
-> - [x] gp::12
-> - [x] permanent::[[Repair Toolkit (Superb)|Repair Toolkit (Superb)]] [ilvl::3] [gp::25]
+> - [<] gp::12
+> - [<] permanent::[[Repair Toolkit (Superb)|Repair Toolkit (Superb)]] [ilvl::3] [gp::25]
 
 ## Encounter 5: Chamber of the Beast
 **Encounter Difficulty:**   
-- [x] Trivial (30 XP) Level 4
+> - [<] Trivial (30 XP) Level 4
 
 Use the following description as the characters approach the door to this chamber.
 > [!note]+ Read Aloud
@@ -421,7 +452,7 @@ Unless the characters are quiet ог clever, there is little chance that they fa
 
 ## Encounter 6: Inner Guard Chamber
 **Encounter Difficulty:**   
-- [x] Moderate (90 XP) Level 4
+> - [<] Moderate (90 XP) Level 4
 
 > [!note]+ Read Aloud
 > A tapestry depicting a six-armed, fiendish beast carrying a bewildering variety dominates the north wall.
@@ -450,8 +481,8 @@ If the PCs are trapped in area 11, the two guards move to guard the door leading
 > [!tip]+ Treasure
 > Each of the tieflings carry 11 sp.  Additionally, one tiefling carries a plain, silver ring inlaid with several small emeralds worth 10 gp total.
 > 
-> - [x] gp::10
-> - [x] sp::33
+> - [<] gp::10
+> - [<] sp::33
 
 ## Encounter 7: Barracks
 > [!note]+ Read Aloud
@@ -464,7 +495,7 @@ This chamber serves as a barracks for the guards in area 5 and for the tiefling 
 
 ## Encounter 8: Priest's Chambers
 **Encounter Difficulty:**   
-- [x] Trivial (40 XP) Level 4
+> - [<] Trivial (40 XP) Level 4
 
 > [!note]+ Read Aloud
 > Light from a pair of torches casts strange shadows across the blood-red walls of this chamber. Two wooden chairs are set opposite each other around a round table. Upon the table rests a thick, leather-bound book, a rusty dagger, a quill, inkpot, and several sheets of parchment. A wooden screen blocks off half the room near a large bed covered in blankets and furs.
@@ -495,18 +526,18 @@ Kendra first calls for the undead in area 9. She directs the zombies to fight al
 > 
 > Kendra and Garras keep their valuables in a small, wooden treasure chest beneath their bed. The chest is locked ([[Skills#Thievery|Thievery]] DC 20) and Kendra carries the key. Within the chest is 20 gp and a jeweled bracer worth 40 gp.
 > 
-> - [x] gp::7
-> - [x] gp::60
-> - [x] permanent::[[Magic Wand (1st-Rank Spell)|Magic Wand (Heal)]] [ilvl::3] [gp::60]
-> - [x] consumable::[[Healing Potion (Lesser)|Healing Potion (Lesser)]] [ilvl::3] [gp::12]
-> - [x] consumable::[[Eagle Eye Elixir (Lesser)|Eagle Eye Elixir (Lesser)]] [ilvl::1] [gp::4]
-> - [x] consumable::[[Bravo's Brew (Lesser)|Bravo's Brew (Lesser)]] [ilvl::2] [gp::7]
-> - [x] consumable::[[Silvertongue Mutagen (Lesser)|Silvertongue Mutagen (Lesser)]] [ilvl::1] [gp::4]
-> - [x] consumable::[[Scroll of 1st-rank Spell|Scroll of Silence]] [ilvl::1] [gp::4]
+> - [<] gp::7
+> - [<] gp::60
+> - [<] permanent::[[Magic Wand (1st-Rank Spell)|Magic Wand (Heal)]] [ilvl::3] [gp::60]
+> - [<] consumable::[[Healing Potion (Lesser)|Healing Potion (Lesser)]] [ilvl::3] [gp::12]
+> - [<] consumable::[[Eagle Eye Elixir (Lesser)|Eagle Eye Elixir (Lesser)]] [ilvl::1] [gp::4]
+> - [<] consumable::[[Bravo's Brew (Lesser)|Bravo's Brew (Lesser)]] [ilvl::2] [gp::7]
+> - [<] consumable::[[Silvertongue Mutagen (Lesser)|Silvertongue Mutagen (Lesser)]] [ilvl::1] [gp::4]
+> - [<] consumable::[[Scroll of 1st-rank Spell|Scroll of Silence]] [ilvl::1] [gp::4]
 
 ## Encounter 9: Chapel of Hextor
 **Encounter Difficulty:**   
-- [x] Trivial (40 XP) Level 4
+> - [<] Trivial (40 XP) Level 4
 
 > [!note]+ Read Aloud
 > A pair of torches mounted on long, iron poles shed flickering light across this chamber. A small stone altar stands between the two torches. A red tapestry emblazoned with the symbol of a gauntlet grasping six arrows hangs from the wall behind the altar. Four statues of men clad in chainmail and leather masks, each carrying a greatsword, stand along the wall, two on each side of the altar.
@@ -543,7 +574,7 @@ A pair of troglodyte zombies dwell in this chamber. They attack anyone who lacks
 
 ## Encounter 10: Theldrick's Chamber
 **Encounter Difficulty:**   
-- [x] Low (60 XP) Level 4
+> - [<] Low (60 XP) Level 4
 
 The door to this room is locked ([[Skills#Thievery|Thievery]] DC 20). Theldrick, detailed below but likely encountered elsewhere, holds the key.
 
@@ -568,11 +599,11 @@ If the PCs catch Theldrick in his room, he tries to surrender to buy time, He ac
 > [!tip]+ Treasure
 > The weapons rack holds a mace, a pair of flails and a crossbow. Theldrick keeps his personal treasure and trophies in a locked ([[Skills#Thievery|Thievery]] DC 22) chest beneath. his bed. The chest contains 70 sp in a leather bag and a fist-sized gold bust of a dwarf wearing a gem-studded crown worth 100 gp.  In addition to his combat gear, Theldrick is carrying a holy symbol of Hextor worth 5 gp, keys to area 10 and the chests in areas 9 and 10, [[Scroll of 2nd-rank Spell|Scroll of Dispel Magic]] and a [[Potion of Fire Retaliation (Lesser)]]
 > 
-> - [x] gp::100
-> - [x] gp::5
-> - [x] sp::70
-> - [x] consumable::[[Scroll of 2nd-rank Spell|Scroll of Dispel Magic]] [ilvl::3] [gp::12]
-> - [x] consumable::[[Potion of Fire Retaliation (Lesser)|Potion of Fire Retaliation (Lesser)]] [ilvl::3] [gp::12]
+> - [<] gp::100
+> - [<] gp::5
+> - [<] sp::70
+> - [<] consumable::[[Scroll of 2nd-rank Spell|Scroll of Dispel Magic]] [ilvl::3] [gp::12]
+> - [<] consumable::[[Potion of Fire Retaliation (Lesser)|Potion of Fire Retaliation (Lesser)]] [ilvl::3] [gp::12]
 
 ## Encounter 11: Battle Temple of Hextor
 **Encounter Difficulty:**   
@@ -600,7 +631,7 @@ The temple guards, if any are in this area, use their bows against the party. Th
 > [!tip]+ Treasure
 > The blood-red ruby set оп the statue's forehead is worth 35 gp.
 > 
-> - [x] gp::35
+> - [<] gp::35
 
 # Part 3: The Caves of Erythnul
 Unlike the other wings of the Black Cathedral, the caves of Erythnul are little more than natural fissures within the rock. The morlocks who dwell here arrived several months ago at the behest of their leader Grallak Kur, a cleric who led his followers on an unholy pilgrimage through the Underdark. Dreams and visions sent by one of Erythnul’s minions guided Grallak's steps until he arrived here. While the other factions distrust the morlocks, they provide a convenient buffer between the forces of Hextor and Vecna.
@@ -651,7 +682,7 @@ darkMode: false
 
 # Encounter 12: Stone Forest
 **Encounter Difficulty:**   
-- [x] Severe (120 XP) Level 3
+> - [<] Severe (120 XP) Level 3
 
 > [!note]+ Read Aloud
 > A forest of stalactites and stalagmites fills this cavern. The rocky formations make it difficult to see far ahead, as they choke most of this natural cave. The steady, rhythmic splash of water dripping into a puddle echoes through the chamber. The ground here is rough and uneven.
@@ -678,7 +709,7 @@ The morlocks attempt to hide behind the stalactites and stalagmites, granting th
 
 # Encounter 13: The Ledge
 **Encounter Difficulty:**   
-- [x] Moderate (100 XP) Level 3
+> - [<] Moderate (100 XP) Level 3
 
 > [!note]+ Read Aloud
 > The corridor turns to reveal another room choked with rocky formations. Stalagmites and stalactites block the line of sight ahead. Like the last chamber, this place has а rocky, uneven floor of natural stone. It slopes downward, and here and there rivulets of water flow southward.
@@ -713,7 +744,7 @@ The kennel master attempts to hide at his location ([[Spot]] DC 19) As the PCs e
 > [!tip]+ Treasure
 > If the PCs make а DC 15 [[Search]] of the area they find a rough campsite where the morlock has stashed four agates worth 2 gp each and a large ruby worth 20 gр.
 > 
-> - [x] gp::28
+> - [<] gp::28
 
 ## 14-17: The Horseshoe Cavern
 The following encounter areas require a thorough familiarity with the rules for the Climb skill and falling. The PCs must navigate a cavern shaped like a 2 horseshoe, first climbing down the cliff in area 14 while morlock archers pelt them with arrows, then across the cavern floor (area 16) while risking an attack from the chokers in that area, and then back up a cliff face to area 17. The PCs might also take the short cut through area 15, but they must then face the morlock barbarian who guards that passage. However, that might be preferable to battling her while trying to climb to area 17 from the cavern floor.
@@ -722,7 +753,7 @@ The morlocks use the terrain to their advantage. They remain out of melee range,
 
 # Encounter 14: Descent into the Dark
 **Encounter Difficulty:**   
-- [x] Moderate (80 XP) Level 3
+> - [<] Moderate (80 XP) Level 3
 
 > [!note]+ Read Aloud
 > A great pit drops into darkness. Crude, iron spikes have been driven into the cliff face, offering you a convenient path downward. The shaft's roof is fifteen feet above the cliffs edge. Jagged stalactites hang from the ceiling.
@@ -755,14 +786,14 @@ The archers continue to harass the party until the characters make it to the bas
 > [!tip]+ Treasure
 > The morlocks in addition to their gear have 21 sp between the two of them.  One of them has a set of fine ivory dice with small gems set in their faces to mark the numerical on each side.  As a set the dice are worth 30 gp.
 > 
-> - [x] gp::30
-> - [x] sp::21
+> - [<] gp::30
+> - [<] sp::21
 
 ![[Morlock Tunnel.png]]
 
 # Encounter 15: The Tunnel
 **Encounter Difficulty:**   
-- [x] low (60 XP) Level 3
+> - [<] low (60 XP) Level 3
 
 > [!note]+ Read Aloud
 > This cave is little more than a wide crack the rocks Five feet wide and perhaps six feet tall, it provides a jagged, twisty passage.
@@ -791,12 +822,12 @@ The morlock lurks in the passage waiting for approaching PCs if she hears the so
 > [!tip]+ Treasure
 > In addition to her equipment, the barbarian has several trophies from a drow priestess that she slew. In a bloodstained burlap sack are 3 gp, the preserved head of a female dark elf, and a [[Magic Wand (1st-Rank Spell)|Magic Wand (Harm)]].
 > 
-> - [x] gp::3
-> - [x] permanent::[[Magic Wand (1st-Rank Spell)|Magic Wand (Harm)]] [ilvl::000] [gp::000]
+> - [<] gp::3
+> - [<] permanent::[[Magic Wand (1st-Rank Spell)|Magic Wand (Harm)]] [ilvl::000] [gp::000]
 
 # Encounter 16: Choker Tunnels
 **Encounter Difficulty:**   
-- [x] low (60 XP) Level 3
+> - [<] low (60 XP) Level 3
 
 > [!note]+ Read Aloud
 > The cavern's floor is choked with loose rubble, fallen stalactites, and other debris. Here and there, stalagmites poke up through the loose rocks. Ahead, a ten-foot-wide passage opens in the far wall.
@@ -827,12 +858,12 @@ The two chokers fight to the death. They attempt to hide at the top of the pile,
 > [!tip]+ Treasure
 > The chokers hide the remains of their past victims within the debris pile, Here, а DC 15 Search check uncovers the gnawed bones of two morlocks along with a broken morningstar, а leather necklace set with four rubies worth 10 gp, and a Low-Grade Cold Iron Longsword.
 > 
-> - [x] gp::10
-> - [x] permanent::[[Cold Iron Chunk|Low-Grade Cold Iron Longsword]] [ilvl::2] [gp::44]
+> - [<] gp::10
+> - [<] permanent::[[Cold Iron Chunk|Low-Grade Cold Iron Longsword]] [ilvl::2] [gp::44]
 
 # Encounter 17: The Bridge
 **Encounter Difficulty:**   
-- [x] moderate (90 XP) Level 4
+> - [<] moderate (90 XP) Level 4
 
 > [!note]+ Read Aloud
 > The rope bridge sways slightly, stirred by the almost imperceptible movement of air in this cavern. It consists of three lengths of rope arranged in a V-shape. The lower point of the V serves as a foothold, while the upper arms allow one to hold steady as they cross.
@@ -884,7 +915,7 @@ darkMode: false
 
 # Encounter 18: Cliff Chamber
 **Encounter Difficulty:**   
-- [x] severe (120 XP) Level 4
+> - [<] severe (120 XP) Level 4
 
 > [!note]+ Read Aloud
 > The roof of this large cavern glistens twenty feet above and is traced with faint veins of iron ore. The quarters here are tight and cramped. Barely ten feet to the east, the cavern floor rises up into a nearly vertical slope.
@@ -908,7 +939,7 @@ The morlocks shout for help once they spot intruders. The monsters in areas 19 a
 
 # Encounter 19: Common Chamber
 **Encounter Difficulty:**   
-- [x] extreme (180 XP) Level 4
+> - [<] extreme (180 XP) Level 4
 
 > [!note]+ Read Aloud
 > The scent of rotting meat and offal fills the air here. Moldering furs, crude bedrolls and other signs of 2 campsite cover the floor of this large, natural cave. Spears and crude axes are piled near the entrance to the left, along with a disorganized stack of shields.
@@ -933,12 +964,12 @@ The morlocks fight to the death. They are fanatics to Enthnul's cause and are re
 > [!tip]+ Treasure
 > The morlock warriors keep their personal treasure here, hidden in a variety of small nooks and hollows. There are four treasure caches in the room. Each requires a DC 20 [[Search]] check to uncover. The first cache contains a jade figurine of Erythnul worth 10 gp, the second holds 50 sp in coins, the third has three garnets worth 3 gp each, and the fourth contains a silver necklace set with three gems worth 5 gp.
 > 
-> - [x] gp::24
-> - [x] sp::50
+> - [<] gp::24
+> - [<] sp::50
 
 # Encounter 20: Chieftain's Lodge
 **Encounter Difficulty:**   
-- [x] severe (120 XP) Level 4
+> - [<] severe (120 XP) Level 4
 
 > [!note]+ Read Aloud
 > This chamber presents a macabre sight. А bewildering variety of humanoid and monstrous skulls are mounted on the walls just outside this chamber with crude, iron spikes. The chamber beyond is a small, cramped space that smells strongly of damp earth. A great pile of furs and blankets lies in the center of the room.
@@ -965,13 +996,13 @@ The chieftain is a simple, brutal warrior and a bully at heart. He seeks out the
 > [!tip]+ Treasure
 > The chieftain keeps his treasure mingled amidst his bedding. His personal cache consists of 4 rubies worth 15 gp each, 150 sp in coins kept within leather pouch, a jeweled statuette of an elven warrior worth 25 gp, and a [[Smuggler's Sack (Type I)]].
 > 
-> - [x] gp::85
-> - [x] sp::150
-> - [x] permanent::[[Smuggler's Sack (Type I)|Smuggler's Sack (Type I)]] [ilvl::4] [gp::75]
+> - [<] gp::85
+> - [<] sp::150
+> - [<] permanent::[[Smuggler's Sack (Type I)|Smuggler's Sack (Type I)]] [ilvl::4] [gp::75]
 
 # Encounter 21: Temple to Erythnul
 **Encounter Difficulty:**   
-- [x] extreme (180 XP) Level 4
+> - [<] extreme (180 XP) Level 4
 
 > [!note]+ Read Aloud
 > This long passage through the rocks winds down and down, deeper into the ground. It curves ahead like a spiral. The air grows musty and sickening with the scent of rotting flesh. Eventually, the passage opens into a wide cavern, where it ends at the top of a short cliff that stands ten feet above the cave floor below. From ahead, the dim glow of a lantern or small fire casts a dull, red glow.
@@ -1010,9 +1041,9 @@ The morlock guards attempt to hold off the characters. They adopt a position to 
 > 
 > In addition, Grallak carries two scrolls that summarize his latest visions. They are written in Common, as they are meant for the Faceless One, but the rambling, disjointed style is difficult to comprehend. A DC 18 [[Decipher Writing|Decipher Writing (Society)]]] check uncovers their basic intents. The letters state that a great power stirs, and that а swarm of worms is at hand. It speaks of a power growing in the pool of the Dark Cathedral, a power that will serve the Ebon Triad as a champion, but that a still greater force drives the power of evil forward. One passage in particular stands out: “At last the will of the Ebon Triad be done. With the return, of great Kyuss, the Age of Worms is finally upon us!"
 > 
-> - [x] gp::20
-> - [x] sp::500
-> - [x] permanent::[[Rope of Climbing (Lesser)|Rope of Climbing (Lesser)]] [ilvl::3] [gp::45]
+> - [<] gp::20
+> - [<] sp::500
+> - [<] permanent::[[Rope of Climbing (Lesser)|Rope of Climbing (Lesser)]] [ilvl::3] [gp::45]
 
 # Part 4: The Labyrinth of Vecna
 The Faceless One and his followers knew that they had uncovered one of Vecna's great secrets when they discovered this strange labyrinth directly north of the Overgod's bubbling pool. Powerful magic flows through this place, and the Faceless One suspects that at one time in the distant past Vecna himself dwelled within these halls.
@@ -1068,7 +1099,7 @@ Four groups of monsters inhabit the labyrinth, three small bands of tengu and a 
 **Group 1:** These six tengu rogues are charged with watching over the entrance to the labyrinth. They use а small peep hole in the secret раsage east of their campsite to watch the entrance.
 
 **Encounter Difficulty:**   
-- [ ] Severe (120 XP) Level 4
+> - [<] Severe (120 XP) Level 4
 
 At the start of the encounter, place the following foes on the map: 
  - 6: [[3-Rules/Bestiaries/Monster Core/Tengu Sneak|Tengu Sneak]] W
@@ -1098,7 +1129,7 @@ creatures:
 **Group 3:** This band of tengu includes the tengu leader, his sorcerer lieutenant, and 2 rogues. If the tengu leader hears word from groups 1 or 2, he moves his followers to the secret doors just south of the inner sanctum to ambush anyone who comes too close to the secret chambers.
 
 **Encounter Difficulty:**   
-- [ ] Severe (110 XP) Level 4
+> - [<] Severe (110 XP) Level 4
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[3-Rules/Bestiaries/Monster Core/Tengu Sneak|Tengu Sneak]] W
@@ -1140,10 +1171,12 @@ Since the tengu rely on stealth and careful teamwork, they do not simply mob the
 > The three groups each keep their treasure in the rooms they use as quarters.
 > 
 > **Group 1** has a total of 16 gp in coins scatted about their bedrolls and camping gear.
-> **Group 2** has another 10 gp in coins, along with a small lockbox ([[Skills#Thievery|Thievery]] DC 20) that holds two small diamonds worth 5 gp each. 
-> **Group 3** has another 15 gp and a [[Reinforcing Rune (Minor)]] on a runestone kept hidden within a hollow in the floor of their chamber ([[Skills#Perception|Perception]] DC 20).
+> **Group 2** has another 15 gp and a [[Reinforcing Rune (Minor)]] on a runestone kept hidden within a hollow in the floor of their chamber ([[Skills#Perception|Perception]] DC 20).
+> **Group 3** has another 10 gp in coins, along with a small lockbox ([[Skills#Thievery|Thievery]] DC 20) that holds two small diamonds worth 5 gp each. 
 > 
-> - [ ] gp::51
+> - [<] gp::16
+> - [<] gp::20
+> - [ ] gp::15
 > - [ ] permanent::[[Reinforcing Rune (Minor)]] [ilvl::4] [gp::75]
 
 # Encounter 23: Outer Sanctum

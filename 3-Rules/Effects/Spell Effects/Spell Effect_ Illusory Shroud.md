@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Illusory Shroud|Illusory Shroud]]
+Granted by [[Spells/Illusory Shroud|Illusory Shroud]]
 
-*Source: Pathfinder Lost Omens: Firebrands*
+You gain a +1 status bonus to Stealth checks to Hide or Sneak.
+
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

@@ -60,25 +60,31 @@ abilities_top:
   - name: "[[Actor.pomHkkLGJxTvpAyA.Item.TOApogIgln0yhGda|Smoke Vision]]"
     desc: "  The wight captain ignores the [[Conditions/Concealed|Concealed]] condition from smoke."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Final Spite"
-    desc: "`pf2:r` (auditory,divine) **Trigger** The wight captain is reduced to 0 Hit Points\n* * *\n\n**Effect** The wight captain blows a battered war horn before being destroyed. The unnerving blast summons reinforcements, raising 1d4 corpses in a @Template[emanation|distance:200] as [[Bestiary 1/Wight|Wights]]."
+    desc: "`pf2:r` (auditory,divine) **Trigger** The wight captain is reduced to 0 Hit Points\n* * *\n\n**Effect** The wight captain blows a battered war horn before being destroyed. The unnerving blast summons reinforcements, raising 1d4 corpses in a 200-foot emanation as [[Monster Core/Wight|Wights]]."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +24 (magical, versatile p)\n__Damage__  2d8 + 11 slashing plus drain-life"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+24 (magical, versatile p)\n__Damage__  2d8 + 11 slashing plus drain-life"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile)\n__Damage__  2d8 + 11 slashing plus drain-life"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, unarmed)\n__Damage__  2d8 + 11 slashing plus drain-life"
 
   - name: "Divine Innate Spells"
     desc: "DC 26, attack +18\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
@@ -93,7 +99,7 @@ attacks:
     desc: " (divine) A living humanoid killed by a wight captain's weapon or claw Strike rises as a stalker wight after 1d4 rounds. This spawn is under the command of the wight commander that killed them. They don't have drain life or spawn stalker wight and are [[Conditions/Clumsy|Clumsy 2]] for as long as they're a wight spawn. If the creator of the stalker wight spawn dies, the wight spawn becomes a fully autonomous stalker wight; they regain their free will, gain drain life and spawn stalker wight, and are no longer clumsy."
 
   - name: "Tactical Direction"
-    desc: "`pf2:2` (auditory) Each wight ally in a @Template[emanation|distance:30] gains the [[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]] reaction until the end of their next turn."
+    desc: "`pf2:2` (auditory) Each wight ally in a 30-foot emanation gains the [[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]] reaction until the end of their next turn."
  
 ```
 

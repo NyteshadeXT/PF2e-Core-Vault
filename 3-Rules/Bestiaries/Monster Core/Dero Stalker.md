@@ -56,19 +56,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Vulnerable to Sunlight"
-    desc: "  A dero stalker takes 4 damage for every hour they're exposed to sunlight."
+    desc: "  A dero stalker takes 4 untyped damage for every hour they're exposed to sunlight."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +8 ()\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+8 ()\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +10 (thrown 10 ft.)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+10 (thrown 10 ft.)\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +10 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing plus lethargy-poison"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+10 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing plus lethargy-poison"
 
   - name: "Occult Innate Spells"
     desc: "DC 17, attack +9\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_"

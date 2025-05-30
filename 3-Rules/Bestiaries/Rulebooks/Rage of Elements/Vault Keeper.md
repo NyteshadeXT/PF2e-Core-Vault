@@ -51,6 +51,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 120 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 300 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Craft Crystal Wand"
     desc: " (exploration) **Frequency** twice per day\n* * *\n\n**Effect** The vault keeper spends 10 minutes creating a magic wand out of radioactive green crystal, containing any 5th-rank or lower earth spell of their choice. The wand can be used by other creatures, but it crumbles to sand at the end of the day and has no monetary value."
 
@@ -60,19 +66,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +28 (agile, finesse, magical)\n__Damage__  3d10 + 10 slashing plus constraining-crystal"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+28 (agile, finesse, magical, unarmed)\n__Damage__  3d10 + 10 slashing plus constraining-crystal"
 
-  - name: "Melee"
-    desc: "`pf2:1` Crystal Wand +28 (finesse, magical, radiation)\n__Damage__  3d4 + 10 piercing 4d6 poison"
+  - name: "**Melee** `pf2:1` Crystal Wand"
+    desc: "+28 (finesse, magical, radiation)\n__Damage__  3d4 + 10 piercing 4d6 poison"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crystal Shard +28 (earth, magical, range increment 100 feet)\n__Damage__  5d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Crystal Shard"
+    desc: "+28 (earth, magical, range increment 100 feet)\n__Damage__  5d6 + 6 piercing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 34, attack +26; __7th __  _[[Spells/Petrify|Petrify]]_, _[[Spells/Summon Elemental|Summon Elemental (Earth Only)]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __6th __  _[[Spells/Scrying|Scrying]]_, _[[Compendium.pf2e.spells-srd.Item.nH3Rgzzv0b6IeKdd|Speak With Stones (At Will)]]_; __5th __  _[[Spells/Shatter|Shatter (At Will)]]_, _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Earthbind|Earthbind (At Will)]]_, _[[Spells/Shape Stone|Shape Stone (At Will)]]_, _[[Spells/Translocate|Translocate (At Will)]]_"
@@ -81,7 +87,7 @@ attacks:
     desc: " (earth,magical) When the vault keeper deals damage with a claw Strike, glowing green crystals cluster at the site of the attack. The target must succeed at a DC 31 Fortitude check save or become [[Conditions/Clumsy|Clumsy 1]] for 1 hour (or [[Conditions/Clumsy|Clumsy 2]] on a critical failure). If the creature is already clumsy due to constraining crystal, additional failures increase that clumsy value instead, to a maximum of [[Conditions/Clumsy|Clumsy 4]]."
 
   - name: "Crystal Burst"
-    desc: "`pf2:2` (arcane,earth) An explosion of razor-sharp splinters deals 15d6 piercing damage in a @Template[burst|distance:30] within 120 feet, with a DC 35 Reflex check save. The vault keeper can't use Crystal Burst again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,earth) An explosion of razor-sharp splinters deals 15d6 piercing damage in a 30-foot burst within 120 feet, with a DC 35 Reflex check save. The vault keeper can't use Crystal Burst again for 1d4 rounds."
 
   - name: "Slashing Surge"
     desc: "`pf2:2`  The vault keeper Strides or Climbs and makes two claw Strikes at any point during that movement. Each Strike must target a different creature. The multiple attack penalty doesn't increase until after both attacks."

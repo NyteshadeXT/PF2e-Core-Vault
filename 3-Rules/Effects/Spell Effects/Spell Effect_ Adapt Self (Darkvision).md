@@ -4,8 +4,9 @@ title: "Spell Effect: Adapt Self (Darkvision)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.spell-effects.Item.0gv9D5RlrF5cKA3I"
-license: OGL
+license: ORC
 ---
 # Spell Effect: Adapt Self (Darkvision)
 ## Level 1
@@ -16,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Adapt Self|Adapt Self]].
+Granted by [[Spells/Adapt Self|Adapt Self]].
 
 You gain Darkvision.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
-*OGL*
+*Source: Pathfinder Lost Omens Divine Mysteries*
+*ORC*

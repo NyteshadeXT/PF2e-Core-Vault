@@ -30,5 +30,5 @@ The damage die for your fist changes to 1d6 instead of 1d4, and your fist gains 
 
 [[PF2e Journals/Archetypes/Spirit Warrior|Spirit Warrior]]
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

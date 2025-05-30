@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/pzo90186 shadowLeydroth.webp| ]]
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Shadow Leydroth"
 level: "Creature 17"
@@ -65,17 +66,20 @@ abilities_mid:
   - name: "Menace to Magic"
     desc: "`pf2:r` (primal) **Trigger** A creature within 60 feet Casts a Spell\n* * *\n\n**Effect** The leydroth attempts an Intimidation check check to counteract the triggering spell."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +33 (magical, reach 10 feet)\n__Damage__  3d10 + 16 void 1d10 bleed"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+33 (magical, reach 10 feet, unarmed)\n__Damage__  3d10 + 16 void 1d10 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +33 (agile, magical, reach 10 feet)\n__Damage__  3d10 + 16 void"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+33 (agile, magical, reach 10 feet, unarmed)\n__Damage__  3d10 + 16 void"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn Sweep +33 (magical, reach 10 feet, sweep, versatile p)\n__Damage__  3d12 + 16 void"
+  - name: "**Melee** `pf2:1` Horn Sweep"
+    desc: "+33 (magical, reach 10 feet, sweep, versatile p)\n__Damage__  3d12 + 16 void"
 
   - name: "Primal Innate Spells"
     desc: "DC 38, attack +28; __9th __  _[[Spells/Disjunction|Disjunction (x2)]]_; __7th __  _[[Spells/Dispel Magic|Dispel Magic (At will)]]_"
@@ -84,7 +88,7 @@ attacks:
     desc: "DC 38, attack +28; __2nd __  _[[Spells/Darkness|Darkness]]_"
 
   - name: "Dispelling Roar"
-    desc: "`pf2:2` (auditory,emotion,fear,mental,primal) The leydroth unleashes a bestial roar that reverberates within a @Template[emanation|distance:30]. It rolls an Intimidation check and compares the result to the Will DC of each creature in the area, with the effects of [[Actions/Demoralize|Demoralize]].\n\nIt also uses this result to attempt to counteract each spell or magical effect in the area, plus one item or effect on each creature in the area, with the effects of [[Spells/Dispel Magic|Dispel Magic]].\n\nThe leydroth can't use Dispelling Roar again for 1d4 rounds."
+    desc: "`pf2:2` (auditory,emotion,fear,mental,primal) The leydroth unleashes a bestial roar that reverberates within a 30-foot emanation. It rolls an Intimidation check and compares the result to the Will DC of each creature in the area, with the effects of [[Actions/Demoralize|Demoralize]].\n\nIt also uses this result to attempt to counteract each spell or magical effect in the area, plus one item or effect on each creature in the area, with the effects of [[Spells/Dispel Magic|Dispel Magic]].\n\nThe leydroth can't use Dispelling Roar again for 1d4 rounds."
 
   - name: "Dispelling Strike"
     desc: " (primal) **Frequency** once per round\n\n**Trigger** The leydroth hits a creature, object, or spell effect with a Strike\n* * *\n\n**Effect** The leydroth casts its innate [[Spells/Dispel Magic|Dispel Magic]], targeting one effect on the creature struck."

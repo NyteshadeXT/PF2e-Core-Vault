@@ -62,14 +62,17 @@ abilities_mid:
   - name: "Vengeful Exhalation"
     desc: "`pf2:r` (inhaled,poison) **Trigger** An adjacent creature damages the putrifer\n* * *\n\n**Effect** The putrifer exhales, exposing the triggering creature to noxious putrescence"
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rotting Fist +21 (magical)\n__Damage__  2d8 + 12 bludgeoning 1d8 poison"
+  - name: "**Melee** `pf2:1` Rotting Fist"
+    desc: "+21 (magical)\n__Damage__  2d8 + 12 bludgeoning 1d8 poison"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bursting Seedpod +20 (range increment 30 feet)\n__Damage__  2d6 + 6 bludgeoning plus noxious-putrescence"
+  - name: "**Ranged** `pf2:1` Bursting Seedpod"
+    desc: "+20 (range increment 30 feet)\n__Damage__  2d6 + 6 bludgeoning plus noxious-putrescence"
 
   - name: "Primal Innate Spells"
     desc: "DC 28, attack +20; __5th __  _[[Spells/Entangling Flora|Entangling Flora (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Puff of Poison|Puff of Poison]]_, _[[Spells/Tangle Vine|Tangle Vine]]_\n__Constant__  __(5th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"

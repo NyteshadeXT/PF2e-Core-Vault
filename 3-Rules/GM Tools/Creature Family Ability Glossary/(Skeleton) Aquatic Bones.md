@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Skeleton) Aquatic Bones"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.AvoSAlqB8mZfjwr9"
 license: OGL

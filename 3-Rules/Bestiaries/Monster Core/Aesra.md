@@ -55,19 +55,28 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Full Plate|Full Plate]]"
+  - name: "[[Bestiary Ability Glossary/At-Will Spells|At-Will Spells]]"
+    desc: "  The monster can cast its at-will spells any number of times without using up spell slots."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "Archon's Protection"
     desc: "`pf2:r`  **Trigger** An enemy damages the archon's ally and both are within 15 feet of the archon\n* * *\n\n**Effect** The ally gains resistance 10 to all damage against the triggering damage and the archon can make a Strike against the enemy."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flame of Justice +18 (holy, magical, versatile p)\n__Damage__  1d6 fire plus flame-of-justice 2d10 + 5 slashing plus flame-of-justice"
+  - name: "**Melee** `pf2:1` Flame of Justice"
+    desc: "+18 (holy, magical, versatile p)\n__Damage__  1d6 fire plus flame-of-justice 2d10 + 5 slashing plus flame-of-justice"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flame of Justice +15 (holy, magical, range increment 30 feet, versatile p)\n__Damage__  1d6 fire plus flame-of-justice 2d10 + 5 slashing plus flame-of-justice"
+  - name: "**Ranged** `pf2:1` Flame of Justice"
+    desc: "+15 (holy, magical, range increment 30 feet, versatile p)\n__Damage__  1d6 fire plus flame-of-justice 2d10 + 5 slashing plus flame-of-justice"
 
   - name: "Divine Innate Spells"
     desc: "DC 24, attack +16; __4th __  _[[Spells/Translocate|Translocate (At Will)]]_; __1st __  _[[Spells/Sure Strike|Sure Strike (x3)]]_\n__Cantrips__  __(4th)__ _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
@@ -76,7 +85,7 @@ attacks:
     desc: " (divine,holy) An aesra's spirit of righteousness manifests as a two-handed sword of fire. If disarmed or thrown as a ranged weapon, the flame of justice vanishes after landing or dealing damage and reappears in the aesra's hands again instantly. On a critical hit, the target also takes 2d6 persistent fire damage."
 
   - name: "Flaming Slash"
-    desc: "`pf2:2` (divine,fire,holy,manipulate) The aesra sweeps their sword, creating a @Template[cone|distance:15] of sacred flame that deals 5d6 fire damage with a DC 23 Reflex check save."
+    desc: "`pf2:2` (divine,fire,holy,manipulate) The aesra sweeps their sword, creating a 15-foot cone of sacred flame that deals 5d6 fire damage with a DC 23 Reflex check save."
 
   - name: "Maintain Formation"
     desc: "  When an aesra casts [[Spells/Translocate|Translocate]], they can bring an adjacent willing archon along with them. That archon appears in an empty space adjacent to the aesra's new space."

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Fine Living"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/common
+  - trait/
   - category/kingdom-feature
 aliases: "Compendium.pf2e.kingmaker-features.Item.CtNmx1wUgHDikQqI"
 license: OGL

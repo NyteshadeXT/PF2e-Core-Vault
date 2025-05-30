@@ -33,7 +33,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +4, Crafting: +4, Deception: +7, Performance: +5, Stealth: +8, Survival: +8, Acrobatics: +8, Athletics: +4, Deception: +7, Performance: +5, Stealth: +8, Survival: +8, Crafting: +4"
+    desc: "Acrobatics: +8, Athletics: +4, Crafting: +4, Deception: +7, Performance: +5, Stealth: +8, Survival: +8"
 abilityMods: [-2, 3, 1, -2, 3, 1]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -54,8 +54,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +9 ()\n__Damage__  1d6 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+9 ()\n__Damage__  1d6 + 1 bludgeoning"
  
 ```
 

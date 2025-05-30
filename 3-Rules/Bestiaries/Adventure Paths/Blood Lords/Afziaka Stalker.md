@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap185-a-taste-of-ashes/assets/art/PZO90185_AFZIAKA_STALKER.webp| ]]
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Afziaka Stalker"
 level: "Creature 12"
@@ -60,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +26 ()\n__Damage__  3d10 + 13 piercing plus hunger-pangs"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+26 ()\n__Damage__  3d10 + 13 piercing plus hunger-pangs"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +26 (agile)\n__Damage__  3d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+26 (agile, unarmed)\n__Damage__  3d8 + 13 slashing"
 
   - name: "Hunger Pangs"
     desc: " (curse,divine) A creature damaged by the afziaka's fangs must succeed at a DC 30 Fortitude check save or become [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour. The creature can remove this condition earlier by consuming at least a handful of raw meat."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  Claw\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
 
   - name: "Slip Between"
     desc: "`pf2:2` (concentrate,divine,teleportation) The stalker teleports into an occupied space it can see within 50 feet and makes a melee Strike."

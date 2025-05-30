@@ -23,5 +23,5 @@ You use the power of your Rain-Scribe magic to draw on a stream of primal power 
 
 You can draw on primal power to stay awake and alert while otherwise resting your body and mind, gaining the full benefits of an 8-hour rest without falling asleep. When you do, you lose the other benefits of Rain- Scribe Sustenance for 1 week while your primal energies recharge.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

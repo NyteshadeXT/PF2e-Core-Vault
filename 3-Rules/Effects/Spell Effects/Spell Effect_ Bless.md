@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Bless|Bless]]
+Granted by [[Spells/Bless|Bless]]
 
-Blessings from beyond help you strike true. You gain a +1 status bonus to attack rolls.
+You gain a +1 status bonus to attack rolls.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

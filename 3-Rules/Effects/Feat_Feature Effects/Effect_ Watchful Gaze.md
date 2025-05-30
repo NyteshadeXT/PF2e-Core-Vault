@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You gain [[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]] until the start of your next turn. This lets you see in all directions and prevents you from being flanked.
+Granted by [[Feats/Watchful Gaze|Watchful Gaze]]
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+You gain All-Around Vision until the start of your next turn. This lets you see in all directions and prevents you from being flanked.
+
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

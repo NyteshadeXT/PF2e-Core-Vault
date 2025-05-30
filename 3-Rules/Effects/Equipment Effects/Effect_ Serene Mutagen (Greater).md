@@ -17,21 +17,11 @@ license: ORC
 
 
 
-Granted by [[Serene Mutagen (Greater)|Serene Mutagen (Greater)]]
+Granted by [[Equipment/Serene Mutagen (Greater)|Serene Mutagen (Greater)]]
 
-Implemented effects:
+**Benefit** You gain a +3 bonus to Will saves and Perception, Medicine, Nature, Religion, and Survival checks. This bonus improves to +4 when you attempt Will saves against mental effects. When you roll a success on a Will save against a mental effect, you get a critical success instead.
 
-*   +3 item bonus to Will saves
-*   +4 item bonus to Will saves against mental effects
-*   +3 item bonus to Perception checks
-*   +3 item bonus to Medicine, Nature, Religion and Survival checks
-*   \-1 penalty to attack rolls
-*   Treat Will success as critical success
-
-Unimplemented effects:
-
-*   \-1 penalty to save DCs of offensive spells
-*   \-1 penalty per damage die to all weapon, unarmed attack and spell damage rolls
+**Drawback** You take a -1 penalty to attack rolls and save DCs of offensive spells, and a -1 penalty per damage die to all weapon and unarmed attack damage.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

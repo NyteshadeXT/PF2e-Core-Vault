@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +17 (agile, fatal d12, reach 10 feet)\n__Damage__  2d4 + 8 slashing 1d8 bleed"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+17 (agile, fatal d12, reach 10 feet)\n__Damage__  2d4 + 8 slashing 1d8 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 ()\n__Damage__  2d10 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (unarmed)\n__Damage__  2d10 + 8 slashing"
 
   - name: "Anticoagulant"
     desc: "  The skull peeler's razor-sharp tongue is coated in an anticoagulant substance that makes wounds it inflicts particularly hard to close.\n\nThe DC of the flat check to end the persistent bleed damage from a skull peeler's tongue is DC 16 Flat check, or DC 11 Flat check with appropriate assistance."

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Potion of Emergency Escape|Potion of Emergency Escape]]
+Granted by [[Equipment/Potion of Emergency Escape|Potion of Emergency Escape]]
 
 You become fleeing and you gain a +40-foot status bonus to all your Speeds for the duration as long as you are fleeing.
 

@@ -73,11 +73,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +22 (reach 10 feet)\n__Damage__  3d8 + 10 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+22 (reach 10 feet, unarmed)\n__Damage__  3d8 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +22 (agile)\n__Damage__  3d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+22 (agile, unarmed)\n__Damage__  3d6 + 10 slashing"
 
   - name: "Innate Primal Spells"
     desc: "DC 31, attack +23; __5th __  _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Gust of Wind|Gust of Wind (At Will)]]_, _[[Spells/Wall of Wind|Wall of Wind (At Will)]]_"

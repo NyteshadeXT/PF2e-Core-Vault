@@ -39,7 +39,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +33, Athletics: +33"
+    desc: "Athletics: +33"
 abilityMods: [9, -4, 8, -5, 6, 4]
 speed:  fly 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -69,8 +69,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +32 (reach 30 feet)\n__Damage__  3d12 + 17 piercing plus giggle-fits"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+32 (reach 30 feet)\n__Damage__  3d12 + 17 piercing plus giggle-fits"
 
   - name: "Giggle Fits"
     desc: " (emotion,mental) A creature Engulfed by the congealed laughter or struck by its jaws Strike is afflicted with a horrible, uncontrollable urge to laugh along with it. The creature suffers the effects of a hideous laughter spell with a DC 34 Will check save until the beginning of the congealed laughter's next turn."

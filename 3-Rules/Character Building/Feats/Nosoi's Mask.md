@@ -25,5 +25,5 @@ You are trained in Intimidation and gain the [[Feats/Intimidating Glare|Intimida
 
 You also know how to make masks like those worn by psychopomps, a process that takes 1 hour and 1 sp of appropriate material. If you instead pay 50 gp for a splendid psychopomp mask, the mask grants you a +1 item bonus to Intimidation while you are wearing it. Its usage is worn (mask).
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

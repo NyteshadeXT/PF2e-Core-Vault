@@ -72,11 +72,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Katana +32 (deadly 2d8, disarm, magical, two-hand d10, versatile p)\n__Damage__  3d6 + 13 slashing 2d6 spirit 2d6 void"
+  - name: "**Melee** `pf2:1` Katana"
+    desc: "+32 (deadly 2d8, disarm, magical, two-hand d10, versatile p)\n__Damage__  3d6 + 13 slashing 2d6 spirit 2d6 void"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dart +29 (agile, thrown 20 ft.)\n__Damage__  1d4 + 11 piercing 2d6 spirit 2d6 void"
+  - name: "**Ranged** `pf2:1` Dart"
+    desc: "+29 (agile, thrown 20 ft.)\n__Damage__  1d4 + 11 piercing 2d6 spirit 2d6 void"
 
   - name: "Occult Prepared Spells"
     desc: "DC 39, attack +31; __6th __ (2 slots) _[[Spells/Blade Barrier|Blade Barrier]]_, _[[Spells/Mislead|Mislead]]_; __4th __  _[[Spells/Unfettered Movement|Freedom of Movement]]_"
@@ -85,7 +85,7 @@ attacks:
     desc: "DC 41, attack +33; __6th __  _[[Spells/Dominate|Dominate]]_, _[[Spells/Zealous Conviction|Zealous Conviction]]_; __5th __  _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_; __4th __  _[[Compendium.pf2e.spells-srd.Item.hkfH9Z53hPzcOwNB|Veil]]_; __3rd __  _[[Spells/Enthrall|Enthrall]]_; __2nd __  _[[Spells/Illusory Creature|Illusory Creature (At Will)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Geas|Geas]]_, _[[Spells/Unfettered Mark|Unfettered Mark]]_"
+    desc: "_Geas_, _Unfettered Mark_"
  
 ```
 

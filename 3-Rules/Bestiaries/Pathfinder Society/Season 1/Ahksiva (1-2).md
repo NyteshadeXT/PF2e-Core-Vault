@@ -55,7 +55,10 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) Ahksiva adds [[Spells/Entangling Flora|Entangling Flora]], [[Spells/Outcast's Curse|Outcast's Curse]], and [[Spells/Wall of Thorns|Wall of Thorns]] to her coven's spells.\n\n* * *\n"
+    desc: " (mental,occult) Ahksiva adds [[Spells/Entangling Flora|Entangling Flora]], [[Spells/Outcast's Curse|Outcast's Curse]], and [[Spells/Wall of Thorns|Wall of Thorns]] to her coven's spells.\n* * *\n\nThis monster can form a coven with two or more other creatures who also have the coven ability. This involves performing an 8-hour ceremony with all prospective coven members. After the coven is formed, each of its members gains elite adjustments, adjusting their levels accordingly. Coven members can sense other members' locations and conditions by spending a single action, which has the concentrate trait, and can sense what another coven member is sensing as a two-action activity, which has the concentrate trait as well.\n\nCovens also grant spells and rituals to their members, but these can be cast only in cooperation between three coven members who are all within 30 feet of one another. A coven member can contribute to a coven spell with a single action that has the concentrate trait. If two coven members have contributed these actions within the last round, a third member can cast a coven spell on her turn by spending the normal spellcasting actions. A coven can cast its coven spells an unlimited number of times but can cast only one coven spell each round. All covens grant the 8th-rank [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]] spell and all the following spells, which the coven can cast at any rank up to 5th: [[Spells/Augury|Augury]], [[Spells/Charm|Charm]], [[Spells/Clairaudience|Clairaudience]], [[Spells/Clairvoyance|Clairvoyance]], [[Spells/Dream Message|Dream Message]], [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Illusory Scene|Illusory Scene]], [[Spells/Scouting Eye|Scouting Eye]], and [[Spells/Talking Corpse|Talking Corpse]]. Individual creatures with the coven ability also grant additional spells to any coven they join. A coven can also cast the [[Spells/Control Weather|Control Weather]] ritual, with a DC of 23 instead of the standard DC.\n\nIf a coven member's departure or death brings the coven below three members, the remaining members keep their elite adjustments for 24 hours, but without enough members to contribute the necessary actions, they can't cast coven spells."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
 
 abilities_mid:
   - name: ""
@@ -65,8 +68,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +12 (agile, magical)\n__Damage__  1d10 + 4 slashing plus enfeebling-humors"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+12 (agile, magical, unarmed)\n__Damage__  1d10 + 4 slashing plus enfeebling-humors"
 
   - name: "Occult Innate Spells"
     desc: "DC 19, attack +13; __2nd __ (1 slots) _[[Spells/Invisibility|Invisibility (At Will)]]_, _[[Spells/One with Plants|Tree Shape (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Message|Message]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_ __(2nd)__ _[[Spells/Water Breathing|Water Breathing]]_ __(1st)__ _[[Spells/Vanishing Tracks|Pass Without Trace]]_"
@@ -84,7 +87,7 @@ attacks:
     desc: " (occult) A creature damaged by a hag's claw must succeed at a DC 19 Fortitude check save or be [[Conditions/Enfeebled|Enfeebled 1]] for 1 day. On a critical failure, or if it gets hit again and fails its save a second time, it's [[Conditions/Enfeebled|Enfeebled 2]] for 1 day."
 
   - name: "Exhale Miasma"
-    desc: "`pf2:2` (occult) Ahksiva exhales a miasma of green vapors. Each living creature in a @Template[cone|distance:15] is affected by her enfeebling humors (attempting a save as normal). She can't use Exhale Miasma again for 1d4 rounds."
+    desc: "`pf2:2` (occult) Ahksiva exhales a miasma of green vapors. Each living creature in a 15-foot cone is affected by her enfeebling humors (attempting a save as normal). She can't use Exhale Miasma again for 1d4 rounds."
  
 ```
 

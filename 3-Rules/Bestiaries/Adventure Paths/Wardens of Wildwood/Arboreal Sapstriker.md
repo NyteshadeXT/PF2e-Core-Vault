@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +17 ()\n__Damage__  2d8 + 6 bludgeoning plus sap"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+17 ()\n__Damage__  2d8 + 6 bludgeoning plus sap"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sap +17 (agile, range increment 30 feet)\n__Damage__  2d6 + 6 bludgeoning plus sap"
+  - name: "**Ranged** `pf2:1` Sap"
+    desc: "+17 (agile, range increment 30 feet)\n__Damage__  2d6 + 6 bludgeoning plus sap"
 
   - name: "Amber Tomb"
     desc: "`pf2:r`  **Trigger** A foe critically succeeds at a Strike against the arboreal sapstriker with a weapon that deals piercing or slashing damage, or a foe deals damage to an arboreal sapstriker with an axe\n* * *\n\n**Effect** The arboreal sapstriker attempts to [[Actions/Disarm|Disarm]] the triggering foe's weapon, using its Fortitude modifier in place of its Athletics modifier. If it critically succeeds, the weapon is lodged into the sapstriker rather than falling to the ground. A creature can retrieve a lodged weapon by Disarming the sapstriker as if it were wielding the weapon."

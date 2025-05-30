@@ -4,7 +4,7 @@ title: "Unleash Psyche"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/psychic
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.7GeguyqyD1TjoC4r"
 license: OGL

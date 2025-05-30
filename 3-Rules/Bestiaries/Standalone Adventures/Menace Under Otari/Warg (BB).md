@@ -3,7 +3,7 @@ title: "Warg (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.CF82XJwObLx0TPnV" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.x7Aa4Tvr9eBaHryF" 
 tags:
   - pf2e/creature/type/beast
   - pf2eMonster
@@ -29,11 +29,11 @@ trait_01: [[beast]]
 modifier: 8
 perception:
   - name: "Perception"
-    desc: "+8; "
+    desc: "+8; Darkvision"
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +0, Athletics: +8, Deception: +6, Intimidation: +6, Stealth: +7, Survival: +8"
+    desc: "Acrobatics: +7, Athletics: +8, Deception: +6, Intimidation: +6, Stealth: +7, Survival: +8"
 abilityMods: [4, 3, 3, -1, 2, 2]
 speed: 40 feet
 sourcebook: "_Pathfinder Beginner Box_"
@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d8 + 4 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d8 + 4 piercing plus grab"
 
   - name: "Pack Attack"
     desc: "  The warg's jaws Strike deals 1d4 extra damage to creatures within reach of two of the warg's allies."

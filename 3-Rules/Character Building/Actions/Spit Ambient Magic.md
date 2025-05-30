@@ -13,7 +13,7 @@ license: ORC
 ---
 # Spit Ambient Magic `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Magical]]
+### [[concentrate]][[magical]]
 
 **Category** offensive; 
 

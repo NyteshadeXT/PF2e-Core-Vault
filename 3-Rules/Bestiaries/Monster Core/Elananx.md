@@ -55,16 +55,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Cinder Dispersal"
-    desc: "`pf2:r` (fire,primal) **Frequency** once per day\n\n**Trigger** The elananx takes damage from a hostile source\n* * *\n\n**Effect** The elananx disperses into a cloud of smoke and cinders, filling its space and a @Template[emanation|distance:20]. While in this form, the elananx can't be attacked or targeted, and it doesn't take up space. Anything inside this cloud is [[Conditions/Concealed|Concealed]], and any creature ending its turn there takes 2d6 fire damage. At the start of its turn, the elananx returns to its normal form in any square the cloud covered. If the elananx Strikes a creature using its first action after returning to its normal form, the target is [[Conditions/Off-Guard|Off-Guard]] and the Strike deals an extra 1d6 fire damage."
+    desc: "`pf2:r` (fire,primal) **Frequency** once per day\n\n**Trigger** The elananx takes damage from a hostile source\n* * *\n\n**Effect** The elananx disperses into a cloud of smoke and cinders, filling its space and a 20-foot emanation. While in this form, the elananx can't be attacked or targeted, and it doesn't take up space. Anything inside this cloud is [[Conditions/Concealed|Concealed]], and any creature ending its turn there takes 2d6 fire damage. At the start of its turn, the elananx returns to its normal form in any square the cloud covered. If the elananx Strikes a creature using its first action after returning to its normal form, the target is [[Conditions/Off-Guard|Off-Guard]] and the Strike deals an extra 1d6 fire damage."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 (magical)\n__Damage__  2d6 + 8 piercing 1d6 fire"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (magical, unarmed)\n__Damage__  2d6 + 8 piercing 1d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +16 (agile)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+16 (agile, unarmed)\n__Damage__  2d6 + 8 slashing"
 
   - name: "Pack Attack"
     desc: "  The elananx's Strikes deal an extra 1d6 damage to creatures within the reach of at least two of its allies."

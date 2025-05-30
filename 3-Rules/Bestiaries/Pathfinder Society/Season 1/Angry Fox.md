@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 (finesse)\n__Damage__  1d4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (finesse, unarmed)\n__Damage__  1d4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +8 (agile, finesse)\n__Damage__  1d4 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+8 (agile, finesse)\n__Damage__  1d4 slashing"
 
   - name: "Pounce"
     desc: "`pf2:1`  The fox Strides and makes a Strike at the end of that movement. If the fox begins this action hidden, it remains hidden until after this ability's Strike."

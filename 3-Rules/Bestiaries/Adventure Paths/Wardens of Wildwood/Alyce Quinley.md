@@ -55,16 +55,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +17 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+17 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +16 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+16 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 8 piercing"
 
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) Alyce designates a single creature as her prey and focuses her attacks against that creature. She must be able to see, hear, or otherwise detect the prey, or she must be tracking the prey during exploration. She gains a +2 circumstance bonus to Perception checks when she Seeks her prey and a +2 circumstance bonus to Survival checks when she [[Actions/Track|Tracks]] her prey. Alyce also ignores the penalty for making ranged attacks within her second range increment against the prey she's hunting. Alyce can only have one creature designated as her prey at a time. If she uses Hunt Prey against a creature when she already has a creature designated, the prior creature loses the designation and the new prey gains the designation. Her designation lasts until her next daily preparations."

@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/bloodlords-zombie-horse.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Zombie Horse"
 level: "Creature 1"
@@ -61,17 +62,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (unarmed)\n__Damage__  1d8 + 4 piercing"
 
   - name: "Chomp at the Bone"
     desc: "`pf2:1`  **Requirements** The zombie horse's previous action was a jaws Strike that dealt damage to its target\n* * *\n\n**Effect** the zombie horse makes a second jaws Strike as it violently gnashes its teeth and bites deep into the target's flesh. On a success, the target takes an additional 1d4 persistent bleed damage."
 
   - name: "Feast"
-    desc: "`pf2:2` (manipulate) If the zombie horse is adjacent to a helpless or [[Conditions/Unconscious|Unconscious]] creature, or a deceased creature that died in the past hour, the zombie can feast upon its flesh to heal itself. This restores 1 Hit Point. If the creature is alive, the zombie horse deals damage equal to its jaws damage."
+    desc: "`pf2:2` (manipulate) If the zombie horse is adjacent to a helpless or [[Conditions/Unconscious|Unconscious]] creature, or a deceased creature that died in the past hour, the zombie can feast upon its flesh to heal itself. This restores 1 healing Hit Point. If the creature is alive, the zombie horse deals damage equal to its jaws damage."
  
 ```
 

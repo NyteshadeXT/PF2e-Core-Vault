@@ -18,6 +18,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/pzo90186 ghiono.webp| ]]
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Ghiono"
 level: "Creature 18"
@@ -63,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +35 (agile, finesse, magical, versatile s)\n__Damage__  4d4 cold 3d4 + 12 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+35 (agile, finesse, magical, versatile s)\n__Damage__  4d4 cold 3d4 + 12 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +33 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  4d4 cold 1d4 + 12 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+33 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  4d4 cold 1d4 + 12 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 37, attack +29; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self Only; to Shadow Plane or Material Plane Only)]]_; __4th __  _[[Spells/Vapor Form|Gaseous Form (At Will)]]_\n__Cantrips__  __(9th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_"

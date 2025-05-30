@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +5 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+5 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 3 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Chair +3 ()\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Chair"
+    desc: "+3 ()\n__Damage__  1d6 + 3 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mug +1 (range increment 10 feet)\n__Damage__  1d3 + 3 bludgeoning"
+  - name: "**Ranged** `pf2:1` Mug"
+    desc: "+1 (range increment 10 feet)\n__Damage__  1d3 + 3 bludgeoning"
  
 ```
 

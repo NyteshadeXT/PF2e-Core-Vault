@@ -69,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +8 (agile, finesse)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+8 (agile, finesse)\n__Damage__  1d6 + 2 bludgeoning"
 
   - name: "Primal Innate Spells"
-    desc: "DC 19, attack +11; __1st __ (1 slots) _[[Spells/Breathe Fire|Burning Hands (At Will)]]_\n__Cantrips__  __(1st)__ _[[Spells/Produce Flame|Produce Flame]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants (Pyrophytic Plants Only)]]_"
+    desc: "DC 19, attack +11; __1st __ (1 slots) _[[Spells/Breathe Fire|Burning Hands (At Will)]]_\n__Cantrips__  __(1st)__ _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants (Pyrophytic Plants Only)]]_"
 
   - name: "Self-Immolate"
     desc: "`pf2:1` (fire,primal) The wildfire leshy wills its own burning embers to flare up, creating a thick plume of opaque smoke where it stands in a 5-foot emanation.\n\nThe wildfire leshy takes 4 points of damage. All creatures within the affected area are [[Conditions/Concealed|Concealed]], and all other creatures are concealed to them.\n\nThe smoke persists for 1 minute or until it is dispersed by a strong wind."

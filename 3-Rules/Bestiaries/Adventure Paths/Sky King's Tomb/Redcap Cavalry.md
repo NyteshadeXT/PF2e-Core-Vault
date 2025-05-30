@@ -61,17 +61,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 10]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "Divine Revulsion"
-    desc: " (emotion,fear,mental) If a redcap sees a creature brandish a religious symbol of a good deity (which requires an interact action by that creature) or use one to cast a divine spell, the redcap must attempt a DC 19 Will check save. It then becomes temporarily immune to all brandished religious symbols for 10 minutes.\n* * *\n\n**Critical Success** The redcap is unaffected\n\n**Success** The redcap is [[Conditions/Frightened|Frightened 2]]\n\n**Failure** The redcap gains the [[Conditions/Fleeing|Fleeing]] condition for 1 round and is [[Conditions/Frightened|Frightened 4]]"
+    desc: " (emotion,fear,mental) If a redcap sees a creature brandish a religious symbol of a good deity (which requires an interact action by that creature) or use one to cast a divine spell, the redcap must attempt a DC 21 Will check save. It then becomes temporarily immune to all brandished religious symbols for 10 minutes.\n* * *\n\n**Critical Success** The redcap is unaffected\n\n**Success** The redcap is [[Conditions/Frightened|Frightened 2]]\n\n**Failure** The redcap gains the [[Conditions/Fleeing|Fleeing]] condition for 1 round and is [[Conditions/Frightened|Frightened 4]]"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scythe +17 (deadly d10, trip)\n__Damage__  1d10 + 11 slashing"
+  - name: "**Melee** `pf2:1` Scythe"
+    desc: "+17 (deadly d10, trip)\n__Damage__  1d10 + 11 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Boot +15 (agile, versatile b)\n__Damage__  1d6 + 9 piercing"
+  - name: "**Melee** `pf2:1` Boot"
+    desc: "+15 (agile, versatile b)\n__Damage__  1d6 + 9 piercing"
 
   - name: "Blood Soak"
     desc: "`pf2:1` (manipulate) The redcap dips its cap in the blood of a slain foe. The foe must have died in the last minute, and the redcap must have helped kill it. The redcap gains a +4 status bonus to damage rolls for 1 minute.\n\n[[Bestiary Effects/Effect_ Blood Soak|Effect: Blood Soak]]"

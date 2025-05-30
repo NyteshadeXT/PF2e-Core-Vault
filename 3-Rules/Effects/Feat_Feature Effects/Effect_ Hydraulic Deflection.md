@@ -18,5 +18,7 @@ license: OGL
 
 Granted by [[Feats/Hydraulic Deflection|Hydraulic Deflection]]
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+You gain a +1 circumstance bonus to AC.
+
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

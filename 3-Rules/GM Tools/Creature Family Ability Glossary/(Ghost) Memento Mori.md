@@ -6,14 +6,14 @@ tags:
   - trait/divine
   - trait/illusion
   - trait/mental
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.nF7RKPONY5H9kEIo"
 license: OGL
 ---
 # (Ghost) Memento Mori `pf2:2`
 
-### [[divine]][[illusion]][[3-Rules/trait_reference/M/mental]]
+### [[divine]][[illusion]][[mental]]
 
 **Category** offensive; 
 

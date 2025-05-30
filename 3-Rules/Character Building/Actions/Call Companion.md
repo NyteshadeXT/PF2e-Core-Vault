@@ -4,7 +4,7 @@ title: "Call Companion"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.8kGpUUUSX1sB2OqQ"
 license: OGL

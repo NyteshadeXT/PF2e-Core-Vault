@@ -60,17 +60,20 @@ abilities_mid:
   - name: "Emotional Extremes"
     desc: "  If a creature rolls a success at a check to affect an unfeeling empath with an emotion effect, the creature gets a critical success instead. If a creature rolls a failure to affect an unfeeling empath with an emotion effect, the creature gets a critical failure instead. Likewise, when an unfeeling empath rolls a success at a Will save against an emotion effect, it gets a critical success instead. When a unfeeling empath rolls a failure at a Will save against an emotion effect, it gets a critical failure instead."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +11 (agile)\n__Damage__  1d8 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+11 (agile, unarmed)\n__Damage__  1d8 + 3 bludgeoning"
 
   - name: "Cathartic Howl"
-    desc: "`pf2:2` (auditory,emotion,mental,sonic) **Requirements** The unfeeling empath is under an emotion effect\n* * *\n\n**Effect** The unfeeling empath attempts to counteract the emotion effect, with a counteract modifier of +11. It then howls, projecting those emotions in a @Template[cone|distance:15] (or a @Template[cone|distance:30] if the unfeeling empath successfully counteracted the emotion effect). Creatures in the area take 2d8 mental damage (DC 18 Will check save). A creature that critically fails this saving throw also takes 1d4 mental persistent damage."
+    desc: "`pf2:2` (auditory,emotion,mental,sonic) **Requirements** The unfeeling empath is under an emotion effect\n* * *\n\n**Effect** The unfeeling empath attempts to counteract the emotion effect, with a counteract modifier of +11. It then howls, projecting those emotions in a 15-foot cone (or a 30-foot cone if the unfeeling empath successfully counteracted the emotion effect). Creatures in the area take 2d8 mental damage (DC 18 Will check save). A creature that critically fails this saving throw also takes 1d4 mental persistent damage."
 
   - name: "Drink Emotions"
-    desc: "`pf2:1` (emotion,healing,mental) **Requirements** An enemy is under an emotion effect within 20 feet of the unfeeling empath\n* * *\n\n**Effect** The unfeeling empath regains 1d4 Hit Points and becomes emotionally excited for 3 rounds. While excited, the unfeeling empath takes a –1 penalty to AC, gains a +1 status bonus to attack rolls, and deals an additional 1d4 mental damage with its melee Strikes.\n\n[[Bestiary Effects/Effect_ Drink Emotions|Effect: Drink Emotions]]"
+    desc: "`pf2:1` (emotion,healing,mental) **Requirements** An enemy is under an emotion effect within 20 feet of the unfeeling empath\n* * *\n\n**Effect** The unfeeling empath regains 1d4 healing Hit Points and becomes emotionally excited for 3 rounds. While excited, the unfeeling empath takes a –1 penalty to AC, gains a +1 status bonus to attack rolls, and deals an additional 1d4 mental damage with its melee Strikes.\n\n[[Bestiary Effects/Effect_ Drink Emotions|Effect: Drink Emotions]]"
 
   - name: "Goad"
     desc: "`pf2:1` (emotion,mental,occult) The unfeeling empath floods a creature within 30 feet with countless memories and sensations. The target must attempt a DC 18 Will check save.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Stupefied|Stupefied 1]] until the end of the unfeeling empath's next turn.\n\n**Critical Failure** The target is [[Conditions/Stupefied|Stupefied 2]] for 1d4 rounds."

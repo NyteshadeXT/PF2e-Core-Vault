@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by Throne from the [[3-Rules/Character Building/Equipment/D/Deck of Many Things|Deck of Many Things]]
+Granted by Throne from the [[Equipment/Deck of Many Things|Deck of Many Things]]
+
+You gain a permanent +4 status bonus to Diplomacy checks.
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

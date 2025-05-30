@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile)\n__Damage__  2d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, unarmed)\n__Damage__  2d6 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +15 (reach 10 feet)\n__Damage__  2d10 + 6 bludgeoning plus clobbering-tail"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+15 (reach 10 feet)\n__Damage__  2d10 + 6 bludgeoning plus clobbering-tail"
 
   - name: "Clobbering Tail"
     desc: "  A glyptodon's stiff tail is its strongest weapon. When a glyptodon critically hits with its tail Strike, the target is [[Conditions/Off-Guard|Off-Guard]] for 1 round."

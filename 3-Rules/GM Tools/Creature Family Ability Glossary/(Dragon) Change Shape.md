@@ -6,7 +6,7 @@ tags:
   - trait/arcane
   - trait/concentrate
   - trait/polymorph
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.mEbrInCpag7YThH2"
 license: OGL

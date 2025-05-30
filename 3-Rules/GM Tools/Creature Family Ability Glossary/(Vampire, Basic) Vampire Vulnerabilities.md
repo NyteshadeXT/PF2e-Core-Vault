@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Vampire, Basic) Vampire Vulnerabilities"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.5DuBTf37u88IrphJ"

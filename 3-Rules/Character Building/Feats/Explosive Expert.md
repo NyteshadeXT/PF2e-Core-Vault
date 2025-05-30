@@ -6,8 +6,9 @@ tags:
   - trait/dwarf
   - trait/uncommon
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.TYe3dsNlks91YAks"
-license: OGL
+license: ORC
 ---
 # Explosive Expert
 ## Feat 13
@@ -23,7 +24,7 @@ license: OGL
 
 * * *
 
-You have continued training in volatile weapons and gained a deeper understanding. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency for simple and martial bombs and firearms.
+Through your extensive training with volatile weapons, you've built up a fair bit of tolerance to your own black powder explosions. You are immune to splash damage caused by your own Strikes with bombs and firearms (such as the splash damage from the scatter trait).
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

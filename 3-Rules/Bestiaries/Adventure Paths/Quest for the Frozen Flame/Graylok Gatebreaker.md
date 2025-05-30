@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +20 (magical, reach 10 feet, sweep)\n__Damage__  2d8 + 9 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+20 (magical, reach 10 feet, sweep)\n__Damage__  2d8 + 9 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +20 (reach 10 feet)\n__Damage__  2d8 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+20 (reach 10 feet, unarmed)\n__Damage__  2d8 + 7 bludgeoning"
 
   - name: "Freeze Blade"
     desc: "`pf2:1`  The frost giant gatebreaker breathes on the blade of their battleaxe, coating it in a layer of magical ice. For 1 minute, the frost giant's battleaxe Strikes gain the cold trait, and creatures struck by the battleaxe are [[Conditions/Slowed|Slowed 1]]; at the end of each of their turns, the slowed creature can attempt a DC 23 Fortitude check save to end the condition."

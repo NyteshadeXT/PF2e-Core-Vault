@@ -4,8 +4,9 @@ title: "Effect: Channel the Godmind"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.7hQnwwsixZmXzdIT"
-license: OGL
+license: ORC
 ---
 # Effect: Channel the Godmind
 ## Level 17
@@ -16,7 +17,9 @@ license: OGL
 
 
 
-Granted by [[Feats/Channel The Godmind|Channel The Godmind]].
+Granted by [[Feats/Channel the Godmind|Channel the Godmind]]
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+You gain precise motion sense out to 60 feet.
+
+*Source: Pathfinder War of Immortals*
+*ORC*

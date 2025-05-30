@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Mana Wastes Mutant) Vengeful Bite"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.mqai5e7YAuK2tbB9"
 license: OGL
@@ -23,5 +23,5 @@ license: OGL
 
 **Effect** The mutant makes a maw Strike against the triggering creature.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

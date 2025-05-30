@@ -18,8 +18,9 @@ license: ORC
 
 
 
-
-Your injury poisons can spray onto creatures. You gain the toxicologist alchemist's greater field discovery.
+**Prerequisites** Poisoner Dedication
+* * *
+Your injury poisons can spray onto creatures. You gain the toxicologist alchemist's [[Class Features/Greater Field Discovery (Toxicologist)|Greater Field Discovery]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

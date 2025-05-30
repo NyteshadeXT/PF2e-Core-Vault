@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Feats/Point Blank Stance|Point-Blank Shot]].
+Granted by [[Feats/Point Blank Stance|Point Blank Stance]]
 
 When using a ranged weapon that doesn't have the volley trait, you gain a +2 circumstance bonus to damage rolls on attacks against targets within the weapon's first range increment.
 

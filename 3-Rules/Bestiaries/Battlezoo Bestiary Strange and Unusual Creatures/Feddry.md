@@ -37,7 +37,7 @@ perception:
 languages: "Common; (spoken and signed)"
 skills:
   - name: "Skills"
-    desc: "Crafting: +3, Deception: +5, Diplomacy: +5, Society: +3, Stealth: +6, Crafting: +3, Deception: +5, Diplomacy: +5, Society: +3, Stealth: +6, Rock Lore: +6"
+    desc: "Crafting: +3, Deception: +5, Diplomacy: +5, Society: +3, Stealth: +6, Rock Lore: +6"
 abilityMods: [2, 3, 2, 0, 1, 3]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,17 +59,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +8 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+8 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +8 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+8 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +8 (agile, finesse, nonlethal)\n__Damage__  1d4 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+8 (agile, finesse, nonlethal)\n__Damage__  1d4 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +8 (nonlethal, thrown 10 ft.)\n__Damage__  1d4 + 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+8 (nonlethal, thrown 10 ft.)\n__Damage__  1d4 + 2 bludgeoning"
 
   - name: "Roll"
     desc: "`pf2:1` (move) **Requirements** The feddry is Withdrawn into Rock\n* * *\n\n**Effect** The feddry rolls slowly across the ground, moving 5 feet."

@@ -4,7 +4,7 @@ title: "Expeditious Inspection"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/investigator
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.jftNJjBNxp2cleoi"

@@ -55,25 +55,28 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Light Pick|+1 Striking Light Pick]], [[Equipment/Studded Leather Armor|Studded Leather Armor]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Pick +13 (agile, fatal d8, magical)\n__Damage__  2d4 + 7 piercing"
+  - name: "**Melee** `pf2:1` Light Pick"
+    desc: "+13 (agile, fatal d8, magical)\n__Damage__  2d4 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +13 ()\n__Damage__  1d6 + 7 slashing 1d6 acid"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+13 ()\n__Damage__  1d6 + 7 slashing 1d6 acid"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile)\n__Damage__  1d6 + 7 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, unarmed)\n__Damage__  1d6 + 7 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 19, attack +11; __1st __  _[[Spells/Acidic Burst|Acidic Burst]]_\n__Cantrips__  __(2nd)__ _[[Spells/Acid Splash|Acid Splash]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (acid,primal) Akrida spits a gout of slimy green acid in a @Template[line|distance:30] that deals 5d6 acid damage (DC 20 Reflex check).\n\nAkrida can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (acid,primal) Akrida spits a gout of slimy green acid in a 30-foot line that deals 5d6 acid damage (DC 20 Reflex check).\n\nAkrida can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Frantic Scramble"
     desc: "`pf2:2`  Akrida makes three claw Strikes against a single creature within reach. His multiple attack penalty doesn't increase until after he makes all three Strikes."

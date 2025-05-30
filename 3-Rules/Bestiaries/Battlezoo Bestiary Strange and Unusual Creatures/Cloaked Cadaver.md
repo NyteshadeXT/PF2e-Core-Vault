@@ -37,7 +37,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Intimidation: +19, Stealth: +19, Acrobatics: +22, Intimidation: +19, Stealth: +19"
+    desc: "Acrobatics: +22, Intimidation: +19, Stealth: +19"
 abilityMods: [3, 7, 5, 2, 5, 3]
 speed:  fly 45 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -67,8 +67,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Touch of Paralysis +23 (agile, finesse, magical)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Touch of Paralysis"
+    desc: "+23 (agile, finesse, magical)\n__Damage__  2d6 + 10 void plus paralysis"
 
   - name: "Cloaked Embrace"
     desc: "`pf2:2` (divine,void) **Requirements** An adjacent living creature is [[undefined]]\n* * *\n\n**Effect** The cloaked cadaver drains the vital essences of the creature, which must attempt a DC 29 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[undefined]], and [[undefined]] for 1 hour.\n\n**Failure** The creature takes 12d6 void damage, is [[undefined]], [[undefined]], and [[undefined]] for 1 hour.\n\n**Critical Failure** As failure, but the creature takes 24d6 void damage."

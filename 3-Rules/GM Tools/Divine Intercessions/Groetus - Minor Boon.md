@@ -20,5 +20,5 @@ You wield power over disorder.
 
 Once, when you are [[Conditions/Confused|Confused]], you act normally enough to control your own actions in combat without penalty for the duration, though you still babble incoherently and otherwise behave strangely.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

@@ -59,25 +59,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 31 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 31 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Tail Lash"
-    desc: "`pf2:r`  **Trigger** A creature within reach of the dragon's tail takes an action to Strike or attempt a skill check\n* * *\n\n**Effect** The dragon Strikes with its tail at the triggering creature at a -2 penalty. If it hits, the creature takes a -2 circumstance penalty to the triggering roll.\n\n[[Bestiary Effects/Effect_ Tail Lash (Attack Roll)|Effect: Tail Lash (Attack Roll)]]\n\n[[Bestiary Effects/Effect_ Tail Lash (Skill Check)|Effect: Tail Lash (Skill Check)]]"
+    desc: "`pf2:r`  **Trigger** A creature within reach of the dragon's tail takes an action to Strike or attempt a skill check\n* * *\n\n**Effect** The dragon Strikes with its tail at the triggering creature at a -2 penalty. If it hits, the creature takes a -2 circumstance penalty to the triggering roll.\n\n[[Bestiary Effects/Effect_ Tail Lash|Effect: Tail Lash]]"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +29 (acid, magical, reach 10 feet)\n__Damage__  3d10 + 13 piercing 2d6 acid"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+29 (acid, magical, reach 10 feet, unarmed)\n__Damage__  3d10 + 13 piercing 2d6 acid"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +29 (agile, magical)\n__Damage__  3d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+29 (agile, magical, unarmed)\n__Damage__  3d8 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +27 (magical, reach 15 feet)\n__Damage__  3d10 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+27 (magical, reach 15 feet)\n__Damage__  3d10 + 11 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horns +27 (magical, reach 10 feet)\n__Damage__  2d6 + 11 piercing"
+  - name: "**Melee** `pf2:1` Horns"
+    desc: "+27 (magical, reach 10 feet)\n__Damage__  2d6 + 11 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 34, attack +26; __6th __  _[[Spells/Dominate|Dominate]]_, _[[Spells/Scrying|Scrying]]_; __5th __  _[[Spells/Control Water|Control Water]]_, _[[Spells/Mariner's Curse|Mariner's Curse]]_, _[[Spells/Truespeech|Truespeech]]_; __4th __  _[[Spells/Mirage|Mirage]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Translocate|Translocate]]_; __3rd __  _[[Spells/Bind Undead|Bind Undead]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Shrink Item|Shrink Item]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Humanoid Form|Humanoid Form]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_, _[[Spells/Translate|Translate]]_; __1st __  _[[Spells/Alarm|Alarm]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Sure Strike|Sure Strike]]_\n__Cantrips__  __(7th)__ _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
@@ -86,7 +86,7 @@ attacks:
     desc: "DC 34, attack +26; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (acid,arcane) Scarhorn breathes a spray of acid that deals 15d6 acid damage in an @Template[line|distance:80] (DC 34 Reflex check save). She can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (acid,arcane) Scarhorn breathes a spray of acid that deals 15d6 acid damage in an 80-foot line (DC 34 Reflex check save). She can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Corrupt Water"
     desc: "`pf2:1` (arcane,concentrate) **Frequency** Once per day\n* * *\n\n**Effect** The dragon permanently befouls 10 cubic feet of liquid within 90 feet. The liquid becomes undrinkable and unable to support water-breathing life.\n\nThis destroys liquid magic or alchemical items if they're of a lower level than the dragon (a creature can attempt a DC 31 Will check save to protect liquids in its possession). This doesn't affect liquids in a creature's body."

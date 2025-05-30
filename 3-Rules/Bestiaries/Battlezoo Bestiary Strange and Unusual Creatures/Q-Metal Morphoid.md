@@ -33,7 +33,7 @@ perception:
 languages: "Aklo, Petran"
 skills:
   - name: "Skills"
-    desc: "Athletics: +28, Stealth: +23, Athletics: +28, Stealth: +23"
+    desc: "Athletics: +28, Stealth: +23"
 abilityMods: [8, 5, 8, 4, 5, -4]
 speed: 30 feet,  burrow 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -60,23 +60,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hammer Fist +29 (reach 10 feet)\n__Damage__  3d10 + 18 bludgeoning plus improved-push"
+  - name: "**Melee** `pf2:1` Hammer Fist"
+    desc: "+29 (reach 10 feet)\n__Damage__  3d10 + 18 bludgeoning plus improved-push"
 
-  - name: "Melee"
-    desc: "`pf2:1` Serrated Tentacle +29 (reach 10 feet)\n__Damage__  3d10 + 18 slashing 1d8 bleed"
+  - name: "**Melee** `pf2:1` Serrated Tentacle"
+    desc: "+29 (reach 10 feet)\n__Damage__  3d10 + 18 slashing 1d8 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spike +29 (reach 20 feet)\n__Damage__  3d10 + 18 piercing"
+  - name: "**Melee** `pf2:1` Spike"
+    desc: "+29 (reach 20 feet)\n__Damage__  3d10 + 18 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Appendage (Hammer Fist) +26 (range increment 60 feet)\n__Damage__  3d10 + 18 bludgeoning plus fling-appendage 1d6 fire plus fling-appendage"
+  - name: "**Ranged** `pf2:1` Appendage (Hammer Fist)"
+    desc: "+26 (range increment 60 feet)\n__Damage__  3d10 + 18 bludgeoning plus fling-appendage 1d6 fire plus fling-appendage"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Appendage (Serrated Tentacle) +26 (range increment 60 feet)\n__Damage__  3d10 + 18 slashing plus fling-appendage 1d6 fire plus fling-appendage"
+  - name: "**Ranged** `pf2:1` Appendage (Serrated Tentacle)"
+    desc: "+26 (range increment 60 feet)\n__Damage__  3d10 + 18 slashing plus fling-appendage 1d6 fire plus fling-appendage"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Appendage (Spike) +26 (range increment 60 feet)\n__Damage__  3d10 + 18 piercing plus fling-appendage 1d6 fire plus fling-appendage"
+  - name: "**Ranged** `pf2:1` Appendage (Spike)"
+    desc: "+26 (range increment 60 feet)\n__Damage__  3d10 + 18 piercing plus fling-appendage 1d6 fire plus fling-appendage"
 
   - name: "Absorb Q-metal"
     desc: "`pf2:1`  **Requirements** The q-metal morphoid is standing in or adjacent to an area containing q-metal\n* * *\n\n**Effect** The morphoid absorbs the q-metal into its form, recovering 20 healing hit points."

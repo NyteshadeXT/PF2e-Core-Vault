@@ -55,13 +55,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Construct Armor (Hardness 2)"
-    desc: "  Like normal objects, an animated broom has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once an animated broom is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 13."
+    desc: "  Like normal objects, an animated broom has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once an animated broom is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and reducing its Armor Class to 13."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bristles +6 (agile, finesse, magical)\n__Damage__  1d4 bludgeoning plus dust"
+  - name: "**Melee** `pf2:1` Bristles"
+    desc: "+6 (agile, finesse, magical)\n__Damage__  1d4 bludgeoning plus dust"
 
   - name: "Dust"
     desc: "  A creature hit by an animated broom's bristles must succeed at a DC 15 Fortitude check save or spend its next action coughing. Even if hit by multiple dust attacks, the creature has to spend only 1 action coughing to clear the dust out.\n\nA creature that doesn't breathe is immune to this effect."

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Orm Choker|Orm Choker]]
+Granted by [[Equipment/Orm Choker|Orm Choker]]
 
 You gain a swim Speed of 45 feet, and you gain a +4 circumstance bonus to Stealth checks in water.
 

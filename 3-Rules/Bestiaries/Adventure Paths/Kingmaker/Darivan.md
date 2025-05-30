@@ -62,16 +62,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Bloom Regeneration"
-    desc: "`pf2:r` (divine) **Trigger** Darivan takes damage while he's within the Cradle of Lamashtu.\n\n**Effect** Darivan cries out a quick prayer to the Mother of Monsters, and filaments of fungus slither up into his wounded body, healing 4d6 points of damage. For the next 4 rounds, Darivan gains regeneration 10; this regeneration can be deactivated by cold iron or spirit damage. Darivan can't activate Bloom Regeneration again for 24 hours.\n\n[[Bestiary Effects/Effect_ Bloom Regeneration|Effect: Bloom Regeneration]]"
+    desc: "`pf2:r` (divine) **Trigger** Darivan takes damage while he's within the Cradle of Lamashtu.\n\n**Effect** Darivan cries out a quick prayer to the Mother of Monsters, and filaments of fungus slither up into his wounded body, healing 4d6 healing points of damage. For the next 4 rounds, Darivan gains regeneration 10; this regeneration can be deactivated by cold iron or spirit damage. Darivan can't activate Bloom Regeneration again for 24 hours.\n\n[[Bestiary Effects/Effect_ Bloom Regeneration|Effect: Bloom Regeneration]]"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Falchion +23 (forceful, magical, sweep)\n__Damage__  2d10 + 8 slashing"
+  - name: "**Melee** `pf2:1` Falchion"
+    desc: "+23 (forceful, magical, sweep)\n__Damage__  2d10 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, unarmed)\n__Damage__  2d6 + 8 slashing"
 
   - name: "Primal Spontaneous Spells"
     desc: "DC 29, attack +21; __5th __ (4 slots) _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Magic Passage|Passwall]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __ (4 slots) _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Shape Stone|Shape Stone]]_, _[[Spells/Speak with Plants|Speak with Plants]]_, _[[Spells/Vital Beacon|Vital Beacon]]_, _[[Spells/Weapon Storm|Weapon Storm]]_; __3rd __ (4 slots) _[[Spells/Animal Vision|Animal Vision]]_, _[[Spells/Blindness|Blindness]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_, _[[Spells/Slow|Slow]]_; __2nd __ (4 slots) _[[Spells/Oaken Resilience|Barkskin]]_, _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Create Food|Create Food]]_, _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Revealing Light|Glitterdust]]_; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Tailwind|Longstrider]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(5th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
@@ -101,4 +101,4 @@ Male half-orc sorcerer
 
 Darivan is not the classic image of a Lamashtan cultist. While deeply religious, his magical power stems not from his faith, but from a link to his ancestral past. The favor of a dryad helped his grandfather escape from a brutal life and find a safe new homeland for his people, but Darivan never held patience for that. To Darivan, his sorcerous legacy and his sinister faith are two wholly separate elements, but his recent visions of the bloom of Lamashtu bringing a new swath of monsters to the Stolen Lands has compelled him strongly, showing him how his fey ancestry and his demonic faith can be made stronger.
 
-In combat, Darivan relies on his spells against ranged foes and his falchion and claw in melee. He activates Bloom Regeneration if an attack reduces him to 100 Hit Points or fewer, then shifts tactics to casting [[Air Walk|Air Walk]] and retreating upward to use spells against foes.
+In combat, Darivan relies on his spells against ranged foes and his falchion and claw in melee. He activates Bloom Regeneration if an attack reduces him to 100 Hit Points or fewer, then shifts tactics to casting [[Spells/Air Walk|Air Walk]] and retreating upward to use spells against foes.

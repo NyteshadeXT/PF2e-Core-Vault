@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 ()\n__Damage__  2d8 + 7 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (unarmed)\n__Damage__  2d8 + 7 piercing"
  
 ```
 

@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +9 (agile, finesse, trip)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+9 (agile, finesse, trip)\n__Damage__  1d6 + 2 slashing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Mirror Lelzeshin deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

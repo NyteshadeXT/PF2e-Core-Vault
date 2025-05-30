@@ -62,17 +62,20 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghast) Stench|Stench]]"
     desc: " (aura,olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 22 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] as long as it's sickened on a critical failure).\n\nWhile within the aura, the creature takes a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\n\n[[Bestiary Effects/Effect_ Stench|Effect: Stench]]"
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 (finesse)\n__Damage__  2d8 + 10 piercing plus ghast-ghast-fever,ghast-paralysis"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (finesse, unarmed)\n__Damage__  2d8 + 10 piercing plus ghast-ghast-fever,ghast-paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile, finesse)\n__Damage__  2d6 + 10 slashing plus ghast-paralysis"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile, finesse, unarmed)\n__Damage__  2d6 + 10 slashing plus ghast-paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Flail +18 (disarm, magical, sweep, trip)\n__Damage__  2d6 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Flail"
+    desc: "+18 (disarm, magical, sweep, trip)\n__Damage__  2d6 + 10 bludgeoning"
 
   - name: "Divine Prepared Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Crisis of Faith|Crisis of Faith]]_; __2nd __  _[[Spells/Silence|Silence]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

@@ -62,17 +62,20 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Skeleton) Explosive Death|Explosive Death]]"
     desc: "  When the skeleton is destroyed, its bones shatter and explode as the necromantic energy holding it together is released.\n\nAdjacent creatures take 1d6 slashing damage DC 10 Reflex check save."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +6 (forceful, sweep)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+6 (forceful, sweep)\n__Damage__  1d6 + 2 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +6 (agile, finesse)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+6 (agile, finesse, unarmed)\n__Damage__  1d4 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +6 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+6 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
  
 ```
 

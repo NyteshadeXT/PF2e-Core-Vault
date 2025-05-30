@@ -18,7 +18,7 @@ license: OGL
 
 Granted by [[Actions/Conduct Energy|Conduct Energy]]
 
-You channel energy into your weapon. The weapon deals 1 additional damage per weapon damage die until the start of your next turn. This damage type matches the trait of the triggering action or spell. If your triggering action or spell had multiple eligible traits, you select one of those traits.
+The weapon deals 1 additional damage per weapon damage die. This damage type matches the trait of the triggering action or spell.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

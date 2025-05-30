@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Claim Hex"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/region
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.cvOXpo1Sy8nfXfPO"
 license: OGL
 ---
 # Claim Hex
-
+## 
 ### [[downtime]][[region]]
 
 **Category** kingdom-activity; 

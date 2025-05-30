@@ -20,7 +20,7 @@ license: OGL
 
 Your inborn arcane power manifests as your exemplar's most time-honored spells.
 
-Choose one 1st-rank spell and one 2nd-rank spell from those listed for a dragon spellcaster of your draconic exemplar's type (such as [[Alarm|Alarm]], [[Blur|Blur]], [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]], and [[Sure Strike|Sure Strike]] for a black dragon exemplar).
+Choose one 1st-rank spell and one 2nd-rank spell from those listed for a dragon spellcaster of your draconic exemplar's type (such as [[Spells/Alarm|Alarm]], [[Spells/Blur|Blur]], [[Spells/Invisibility|Invisibility]], and [[Spells/Sure Strike|Sure Strike]] for a black dragon exemplar).
 
 You can cast each of these spells once per day as arcane innate spells. You gain the trained proficiency rank in arcane spell attack rolls and spell DCs, and your key spellcasting ability is Charisma.
 

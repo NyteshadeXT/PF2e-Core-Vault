@@ -60,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Defensive Charm"
     desc: "`pf2:r` (arcane,manipulate) **Trigger** Vharnev is the target of a ranged attack\n* * *\n\n**Effect** Vharnev quickly traces a defensive rune between himself and the source of the ranged attack, giving him a +2 circumstance bonus to AC against the triggering attack."
@@ -68,8 +68,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +23 (magical, sweep)\n__Damage__  1d6 bleed 2d8 + 11 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+23 (magical, sweep)\n__Damage__  1d6 bleed 2d8 + 11 slashing"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 26, attack +18; __5th __ (2 slots) _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Weapon Storm|Weapon Storm]]_; __4th __ (2 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __ (2 slots) _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Haste|Haste]]_\n__Cantrips__  __(5th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

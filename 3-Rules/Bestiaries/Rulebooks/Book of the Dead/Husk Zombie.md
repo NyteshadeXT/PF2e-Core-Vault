@@ -60,14 +60,17 @@ abilities_mid:
   - name: "Slow"
     desc: "  A husk zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +11 (agile, versatile s)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+11 (agile, versatile s)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +11 (agile)\n__Damage__  1d8 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+11 (agile, unarmed)\n__Damage__  1d8 + 4 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The husk zombie deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

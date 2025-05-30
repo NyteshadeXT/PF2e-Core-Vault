@@ -48,6 +48,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Thoughtsense|Thoughtsense (Imprecise) 60 feet]]"
+    desc: "  Thoughtsense allows a monster to sense all non-mindless creatures at the listed range."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Reconstruct Spell"
@@ -56,17 +62,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Touch +19 (agile, finesse)\n__Damage__  2d10 + 7 mental plus search-memory"
+  - name: "**Melee** `pf2:1` Touch"
+    desc: "+19 (agile, finesse)\n__Damage__  2d10 + 7 mental plus search-memory"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mind Bolt +21 (range 60 feet)\n__Damage__  2d12 + 4 mental"
+  - name: "**Ranged** `pf2:1` Mind Bolt"
+    desc: "+21 (range 60 feet)\n__Damage__  2d12 + 4 mental"
 
   - name: "Occult Innate Spells"
     desc: "DC 28, attack +20; __4th __  _[[Spells/Rewrite Memory|Modify Memory (AT Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Telekinetic Hand|Mage Hand]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Redact"
-    desc: " (occult) By spending an hour in contact with a non-magical document or piece of artwork no larger than 1 Bulk, a loreavor can consume either a few words from the text or render the artistry of the work more mundane. Doing so heals the loreavor of 4d8 HP. Words fade from the text, leaving an obvious blank space behind, while artwork is reduced in worth by 10% of its original value. A loreavor can consume incidental text in this manner from a spellbook but cannot consume actual spells recorded in the book. The loreavor can't use Redact for 24 hours."
+    desc: " (occult) By spending an hour in contact with a non-magical document or piece of artwork no larger than 1 Bulk, a loreavor can consume either a few words from the text or render the artistry of the work more mundane. Doing so heals the loreavor of 4d8 healing HP. Words fade from the text, leaving an obvious blank space behind, while artwork is reduced in worth by 10% of its original value. A loreavor can consume incidental text in this manner from a spellbook but cannot consume actual spells recorded in the book. The loreavor can't use Redact for 24 hours."
 
   - name: "Search Memory"
     desc: " (mental,occult) When the loreavor damages a creature with its touch Strike, the creature must succeed at a DC 28 Will check save or become [[Conditions/Stupefied|Stupefied 1]], or [[Conditions/Stupefied|Stupefied 2]] on a critical failure."

@@ -35,7 +35,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +24, Athletics: +27, Crafting: +24, Medicine: +24, Stealth: +24, Thievery: +27, Acrobatics: +24, Athletics: +27, Crafting: +24, Medicine: +24, Stealth: +24, Thievery: +27"
+    desc: "Acrobatics: +24, Athletics: +27, Crafting: +24, Medicine: +24, Stealth: +24, Thievery: +27"
 abilityMods: [8, 9, 5, 8, 2, 0]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +27 ()\n__Damage__  3d10 + 16 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+27 ()\n__Damage__  3d10 + 16 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Finger Dart +27 (agile, range 30 feet)\n__Damage__  3d6 + 12 piercing"
+  - name: "**Ranged** `pf2:1` Finger Dart"
+    desc: "+27 (agile, range 30 feet)\n__Damage__  3d6 + 12 piercing"
 
   - name: "Deep Pockets"
     desc: "`pf2:1` (divine,extradimensional) The meddling hands Interacts to place one held object into an interdimensional pocket deep inside its teeming mass. This space functions as a [[Equipment/Spacious Pouch (Type I)|Bag of Holding (Type I)]]. It can remove an object by using this ability again. The Deep Pocket disgorges its contents into an adjacent square when the meddling hands dies."

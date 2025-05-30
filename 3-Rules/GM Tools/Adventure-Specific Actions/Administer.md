@@ -7,13 +7,13 @@ tags:
   - trait/downtime
   - trait/linguistic
   - trait/mental
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.Qkm7jcKPA3elk9Nx"
 license: OGL
 ---
 # Administer
 
-### [[concentrate]][[downtime]][[linguistic]][[3-Rules/trait_reference/M/mental]]
+### [[concentrate]][[downtime]][[linguistic]][[mental]]
 
 
 

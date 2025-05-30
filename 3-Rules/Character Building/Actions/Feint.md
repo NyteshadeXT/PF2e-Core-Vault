@@ -4,8 +4,7 @@ title: "Feint"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/mental
-  - trait/skill
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X"
@@ -13,7 +12,7 @@ license: ORC
 ---
 # Feint `pf2:1`
 
-### [[3-Rules/Rule References/Mental]][[skill]]
+### [[mental]]
 
 **Category** offensive; 
 
@@ -24,7 +23,7 @@ license: ORC
 
 * * *
 
-With a misleading flourish, you leave an opponent unprepared for your real attack. Attempt a Deception check against your target's Perception DC.
+With a misleading flourish, you leave an opponent unprepared for your real attack. Attempt a [[Actions/feint|feint]]{Deception} check against your target's Perception DC.
 
 * * *
 

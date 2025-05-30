@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +21 (magical, reach 10 feet, sweep)\n__Damage__  2d12 + 8 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+21 (magical, reach 10 feet, sweep)\n__Damage__  2d12 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +18 (reach 10 feet)\n__Damage__  2d8 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+18 (reach 10 feet, unarmed)\n__Damage__  2d8 + 9 bludgeoning"
 
   - name: "Ice Stride"
     desc: "  A frost giant isn't impeded by difficult terrain caused by snow or ice, nor do they need to attempt Acrobatics checks to keep from falling on slippery ice."
@@ -75,7 +75,7 @@ attacks:
     desc: "`pf2:2`  The Graylok artillerist combines gelatin and other substances over their greataxe to ignite it. For 1 minute, the greataxe gains the fire trait, and creatures hit by it take 4 persistent fire damage."
 
   - name: "Throw Bomb"
-    desc: "`pf2:2` (alchemical,fire) **Requirements** The Graylok artillerist has two free hands\n* * *\n\n**Effect** The Graylok artillerist Interacts with a firebomb and then throws it at a point within 100 feet. The bomb erupts in a @Template[burst|distance:10], and works as [[Equipment/Alchemist's Fire (Moderate)|moderate alchemist fire]], except it inflicts 4d6 fire damage with a DC 23 Reflex check save. Creatures that fail or critically fail this save also take 4 persistent fire damage."
+    desc: "`pf2:2` (alchemical,fire) **Requirements** The Graylok artillerist has two free hands\n* * *\n\n**Effect** The Graylok artillerist Interacts with a firebomb and then throws it at a point within 100 feet. The bomb erupts in a 10-foot burst, and works as [[Equipment/Alchemist's Fire (Moderate)|moderate alchemist fire]], except it inflicts 4d6 fire damage with a DC 23 Reflex check save. Creatures that fail or critically fail this save also take 4 persistent fire damage."
 
   - name: "Wide Swing"
     desc: "`pf2:1`  The frost giant makes a single greataxe Strike and compares the attack roll result to the ACs of up to two foes within their reach. This counts as two attacks for the frost giant's multiple attack penalty."

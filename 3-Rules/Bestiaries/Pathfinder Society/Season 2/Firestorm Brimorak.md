@@ -56,6 +56,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 60 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Boiling Blood"
@@ -70,17 +73,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flaming Sword +18 (magical, unholy)\n__Damage__  2d10 + 4 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Flaming Sword"
+    desc: "+18 (magical, unholy)\n__Damage__  2d10 + 4 slashing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +18 (agile, unholy)\n__Damage__  2d6 + 4 bludgeoning 1d6 spirit"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+18 (agile, unholy)\n__Damage__  2d6 + 4 bludgeoning 1d6 spirit"
 
   - name: "Divine Innate Spells"
-    desc: "DC 24, attack +16; __5th __ (1 slots) _[[Spells/Translocate|Dimension Door]]_; __4th __ (2 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Fireball|Fireball]]_\n__Cantrips__  __(4th)__ _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 24, attack +16; __5th __ (1 slots) _[[Spells/Translocate|Dimension Door]]_; __4th __ (2 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Fireball|Fireball]]_\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "Breath Weapon"
     desc: "`pf2:2` (divine,fire) The brimorak spits their boiling blood in a 20-foot line that deals 8d6 fire damage (DC 24 Reflex check save).\n\nThe brimorak can't use their Breath Weapon again for 1d4 rounds.\n\nThe ground within this area becomes slippery, with the effects of a [[Spells/Grease|Grease]] spell targeting an area until it's cleaned up or the brimorak is able to use their Breath Weapon again, whichever comes first."

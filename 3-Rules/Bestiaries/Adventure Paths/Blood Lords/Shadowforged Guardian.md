@@ -19,6 +19,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/PZO90183_Shadowforged_Guardian_.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Shadowforged Guardian"
 level: "Creature 10"
@@ -50,6 +51,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
   - name: "Eager Shadows"
     desc: "  The shadowforged guardian increases all of its Speeds by 30 feet during the first round of combat after rolling initiative."
 
@@ -64,14 +68,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile, reach)\n__Damage__  2d8 + 11 slashing plus push 1d6 cold plus push"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, reach, unarmed)\n__Damage__  2d8 + 11 slashing plus push 1d6 cold plus push"
 
   - name: "Shadow Breath"
-    desc: "`pf2:2` (occult,shadow) The shadowforged guardian expels a @Template[cone|distance:30] of twisting shadows from its mouth. All creatures in the area must attempt a DC 29 Fortitude check save. The guardian can't use Shadow Breath for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Enfeebled|Enfeebled 1]] until the end of its next turn.\n\n**Failure** The creature is enfeebled 1 for 1 hour and [[Conditions/Slowed|Slowed 1]] for 1 minute.\n\n**Critical Failure** The creature is [[Conditions/Enfeebled|Enfeebled 2]] for 24 hours and [[Conditions/Slowed|Slowed 2]] for 1 minute."
+    desc: "`pf2:2` (occult,shadow) The shadowforged guardian expels a 30-foot cone of twisting shadows from its mouth. All creatures in the area must attempt a DC 29 Fortitude check save. The guardian can't use Shadow Breath for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Enfeebled|Enfeebled 1]] until the end of its next turn.\n\n**Failure** The creature is enfeebled 1 for 1 hour and [[Conditions/Slowed|Slowed 1]] for 1 minute.\n\n**Critical Failure** The creature is [[Conditions/Enfeebled|Enfeebled 2]] for 24 hours and [[Conditions/Slowed|Slowed 2]] for 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

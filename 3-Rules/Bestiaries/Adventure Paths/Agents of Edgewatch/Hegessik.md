@@ -52,11 +52,20 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Entropy Sense (Imprecise) 60 feet"
     desc: " (divine,prediction) A hegessik can anticipate the most likely location of a creature through their supernatural insight into the forces of chaotic probabilities and chance. This grants the hegessik the ability to sense creatures within the listed range.\n\nThe hegessik's entropy sense doesn't detect creatures under the effects of [[Spells/Veil of Privacy|Veil of Privacy]] or that are otherwise shielded from divinations and predictions."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 10]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "Maddening Whispers"
     desc: " (aura,divine,mental) 30 feet. A susurrus of distracting whispers and dilations in reality surround a hegessik.\n\nWhen a non-protean ends its turn in the aura, it must attempt a DC 33 Will check save. If it fails, it becomes [[Conditions/Confused|Confused]] for 1 round."
 
@@ -66,26 +75,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +30 (magical, reach 10 feet)\n__Damage__  3d8 + 14 piercing plus warpwave-strike 1d6 spirit plus warpwave-strike"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+30 (magical, reach 10 feet, unarmed)\n__Damage__  3d8 + 14 piercing plus warpwave-strike 1d6 spirit plus warpwave-strike"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +30 (agile, magical, reach 10 feet)\n__Damage__  2d8 + 14 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+30 (agile, magical, reach 10 feet, unarmed)\n__Damage__  2d8 + 14 slashing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +30 (magical, reach 15 feet)\n__Damage__  2d8 + 14 bludgeoning plus grab 1d6 spirit plus grab"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+30 (magical, reach 15 feet)\n__Damage__  2d8 + 14 bludgeoning plus grab 1d6 spirit plus grab"
 
   - name: "Divine Innate Spells"
     desc: "DC 38, attack +30; __8th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Divine Aura|Divine Aura (Chaotic Only)]]_, _[[Spells/Divine Wrath|Divine Wrath]]_; __7th __  _[[Spells/Dispel Magic|Dispel Magic (At Will)]]_, _[[Spells/Interplanar Teleport|Plane Shift]]_; __6th __  _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_, _[[Spells/Slow|Slow (At Will)]]_, _[[Spells/Teleport|Teleport (At Will) (Self Only)]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Self Only)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_ __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The hegessik takes the appearance of any Large or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The hegessik takes the appearance of any Large or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d8+14 bludgeoning damage, DC 36 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d8+14 bludgeoning damage, DC 36 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Leaching Glare"
-    desc: "`pf2:1` (divine) The hegessik briefly opens its third eye.\n\nNon-protean creatures in a @Template[cone|distance:30] must succeed at a DC 38 Will check save or become [[Conditions/Stupefied|Stupefied 2]] for 1 round ([[Conditions/Stupefied|Stupefied 3]] on a critical failure)."
+    desc: "`pf2:1` (divine) The hegessik briefly opens its third eye.\n\nNon-protean creatures in a 30-foot cone must succeed at a DC 38 Will check save or become [[Conditions/Stupefied|Stupefied 2]] for 1 round ([[Conditions/Stupefied|Stupefied 3]] on a critical failure)."
 
   - name: "Telekinetic Reach"
     desc: "`pf2:2` (divine,force) The hegessik manifests psychic versions of its natural attacks and makes a Strike with each of its jaws, claw, and tail, in any order. These Strikes have a reach of 60 feet.\n\nThese attacks count toward the hegessik's multiple attack penalty, but the penalty doesn't increase until after it makes all the attacks."
@@ -94,7 +103,7 @@ attacks:
     desc: " (divine) Any creature struck and damaged by a hegessik's jaws Strike must succeed at a DC 36 Fortitude check save or be subject to a [[Rollable Tables/Warpwaves|Warpwave]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

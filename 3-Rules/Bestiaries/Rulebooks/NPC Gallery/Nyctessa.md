@@ -63,20 +63,23 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Nyctessa&#x27;s Staff +11 (two-hand d8)\n__Damage__  1d4 bludgeoning plus sepulchral-drain"
+  - name: "**Melee** `pf2:1` Nyctessa&#x27;s Staff"
+    desc: "+11 (two-hand d8)\n__Damage__  1d4 bludgeoning plus sepulchral-drain"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +11 (grapple, unarmed)\n__Damage__  1d6 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+11 (grapple, unarmed)\n__Damage__  1d6 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 23, attack +15; __3rd __  _[[Spells/Bind Undead|Bind Undead]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Vampiric Feast|Vampiric Feast]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Dispel Magic|Dispel Magic]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Runic Weapon|Runic Weapon]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Void Warp|Void Warp]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead]]_"
+    desc: "_Create Undead_"
 
   - name: "Drain Bonded Staff"
     desc: " (arcane) **Frequency** once per day\n* * *\n\n**Effect** Nyctessa expends the power stored in her staff. This turn she can cast one spell she prepared today and already cast, without spending a spell slot."

@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Slam +6 (agile, finesse, magical)\n__Damage__  1d6 bludgeoning"
+  - name: "**Melee** `pf2:1` Slam"
+    desc: "+6 (agile, finesse, magical, unarmed)\n__Damage__  1d6 bludgeoning"
  
 ```
 

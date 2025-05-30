@@ -59,34 +59,34 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Death Flood"
-    desc: " (primal,water) When the great grodair dies, his body explodes in a blast of pressurized water that deals 6d6 bludgeoning damage to creatures within a @Template[emanation|distance:15] (DC 25 Reflex check save). A creature that fails its save is pushed 5 feet (or 10 feet on a critical failure)."
+    desc: " (primal,water) When the great grodair dies, his body explodes in a blast of pressurized water that deals 6d6 bludgeoning damage to creatures within a 15-foot emanation (DC 25 Reflex check save). A creature that fails its save is pushed 5 feet (or 10 feet on a critical failure)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +18 ()\n__Damage__  2d10 + 9 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+18 (unarmed)\n__Damage__  2d10 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +18 (reach 10 feet)\n__Damage__  1d12 + 9 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+18 (reach 10 feet, unarmed)\n__Damage__  1d12 + 9 bludgeoning plus knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Water Jet +16 (range increment 60 feet)\n__Damage__  4d6 bludgeoning plus push"
+  - name: "**Ranged** `pf2:1` Water Jet"
+    desc: "+16 (range increment 60 feet)\n__Damage__  4d6 bludgeoning plus push"
 
   - name: "Primal Spontaneous Spells"
     desc: "DC 25, attack +15; __5th __ (1 slots) _[[Spells/Control Water|Control Water]]_"
 
   - name: "Muddy Field"
-    desc: "`pf2:1` (primal,water) The great grodair transforms all soil, sand, or similar sediment in a @Template[emanation|distance:10] into mud for 1 round. This mud is difficult terrain for creatures other than grodairs."
+    desc: "`pf2:1` (primal,water) The great grodair transforms all soil, sand, or similar sediment in a 10-foot emanation into mud for 1 round. This mud is difficult terrain for creatures other than grodairs."
 
   - name: "Organ of Endless Water"
     desc: "`pf2:1` (manipulate,primal,water) The great grodair causes water to pour from a magical sac on his spine, either a stream of water at a rate of 1 gallon per round, or a fountain in a 5-foot-long stream at a rate of 5 gallons per round. He can stop the flow of water as a single action."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
 
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Garundi, Mauxi, or Tian-Uae ethnicity
 * * *
-Your ancestors hailed from the flying cities of the Shory, and a few simple tricks have come down through the ages to you. You can cast 4th-rank [[3-Rules/Character Building/Spells/F/Fly|Fly]] on yourself as an innate arcane spell once per day.
+Your ancestors hailed from the flying cities of the Shory, and a few simple tricks have come down through the ages to you. You can cast 4th-rank [[Spells/Fly|Fly]] on yourself as an innate arcane spell once per day.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

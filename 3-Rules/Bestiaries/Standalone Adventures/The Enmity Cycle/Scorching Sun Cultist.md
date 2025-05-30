@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +10 (forceful, sweep)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+10 (forceful, sweep)\n__Damage__  1d6 + 5 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Scorpion Whip +10 (disarm, finesse, reach 10 feet, trip)\n__Damage__  1d4 + 5 slashing"
+  - name: "**Melee** `pf2:1` Scorpion Whip"
+    desc: "+10 (disarm, finesse, reach 10 feet, trip)\n__Damage__  1d4 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +7 (range increment 60 feet)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+7 (range increment 60 feet)\n__Damage__  1d6 + 3 piercing"
  
 ```
 

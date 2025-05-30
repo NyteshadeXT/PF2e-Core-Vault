@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +14 (magical, unholy, versatile p)\n__Damage__  1d8 + 3 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+14 (magical, unholy, versatile p)\n__Damage__  1d8 + 3 slashing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile, magical, unholy)\n__Damage__  2d4 + 3 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, magical, unholy)\n__Damage__  2d4 + 3 slashing 1d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 24, attack +16; __6th __  _[[Spells/Dominate|Dominate]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Mind Probe|Mind Probe (At Will)]]_; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Dispel Magic|Dispel Magic]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Command|Command (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"

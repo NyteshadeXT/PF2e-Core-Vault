@@ -20,5 +20,5 @@ Tsukiyo shares some of his own nature and can lead a favored soul back along the
 
 The next time you would die, you are instead instantly restored to full health and lose any negative conditions you have.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

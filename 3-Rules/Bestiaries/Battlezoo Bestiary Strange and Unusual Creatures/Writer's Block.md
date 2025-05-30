@@ -35,7 +35,7 @@ perception:
 languages: "Common, Necril; tongues"
 skills:
   - name: "Skills"
-    desc: "Deception: +13, Diplomacy: +13, Intimidation: +13, Performance: +12, Society: +13, Stealth: +12, Deception: +13, Intimidation: +13, Diplomacy: +13, Performance: +12, Society: +13, Stealth: +12"
+    desc: "Deception: +13, Diplomacy: +13, Intimidation: +13, Performance: +12, Society: +13, Stealth: +12"
 abilityMods: [3, 5, 4, 4, 5, 5]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sharp Edge +13 (finesse)\n__Damage__  2d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Sharp Edge"
+    desc: "+13 (finesse)\n__Damage__  2d8 + 7 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Ink Spray +15 (mental, range 40 feet)\n__Damage__  2d6 + 5 mental plus forced-reading 1d6 mental plus forced-reading"
+  - name: "**Ranged** `pf2:1` Ink Spray"
+    desc: "+15 (mental, range 40 feet)\n__Damage__  2d6 + 5 mental plus forced-reading 1d6 mental plus forced-reading"
 
   - name: "Occult Innate Spells"
     desc: "DC 19, attack +11\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"

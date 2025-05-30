@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Torag - Minor Boon"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/deityboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.e7Y4jKHQ3ptbSuxc"
 license: OGL
 ---
 # Torag - Minor Boon
-
+## Feat 1
 ### 
 
 **Category** deityboon; 
@@ -27,5 +27,5 @@ Torag can grant this boon just as the item would have been destroyed, preventing
 
 Occasionally, he grants this boon to restore an item important to dwarven history that has already been fully destroyed.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

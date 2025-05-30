@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Nantambu Chime-Ringer Dedication
 * * *
-To keep the peace, you disrupt those who seek to break it. You can cast [[Deafness|Deafness]] and 4th-rank [[Silence|Silence]] once per day each as innate spells. The tradition of these spells is the one you chose for the Nantambu Chime-Ringer Dedication feat.
+To keep the peace, you disrupt those who seek to break it. You can cast [[Spells/Deafness|Deafness]] and 4th-rank [[Spells/Silence|Silence]] once per day each as innate spells. The tradition of these spells is the one you chose for the Nantambu Chime-Ringer Dedication feat.
 
 *Source: Pathfinder #170: Spoken on the Song Wind*
 *OGL*

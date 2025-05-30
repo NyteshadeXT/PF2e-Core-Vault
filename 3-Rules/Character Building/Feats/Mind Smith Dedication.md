@@ -32,9 +32,7 @@ You can project your mind weapon using an Interact action, just as you would dra
 
 Upon creating your mind weapon, you also learn to use a mind smith's keepsake: an object of light Bulk, such as a bracelet or figurine, that you wear or keep on your person and inscribe with weapon runes. Your keepsake can't be a magic item, nor can it have any significant monetary value beyond the value of any runes you inscribe on it. You can buy and inscribe fundamental runes and weapon property runes onto your keepsake in the same way you would for a regular weapon, and you can move runes to and from your keepsake to other weapons or runestones for the usual cost. Any runes inscribed on the keepsake apply to your mind weapon when you create it. If your keepsake is ever lost or destroyed, you can spend 1 week of downtime imprinting a new object with your weapon's mental properties, though this new keepsake won't have any of the runes that were inscribed on the prior keepsake.
 
-* * *
-
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Mind Smith|Mind Smith]] archetype.
+[[PF2e Journals/Archetypes/Mind Smith|Mind Smith]]
 
 *Source: Pathfinder Dark Archive*
 *OGL*

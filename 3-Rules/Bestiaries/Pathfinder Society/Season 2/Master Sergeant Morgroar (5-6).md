@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Halberd +19 (reach 10 feet, versatile s)\n__Damage__  1d10 + 13 piercing"
+  - name: "**Melee** `pf2:1` Halberd"
+    desc: "+19 (reach 10 feet, versatile s)\n__Damage__  1d10 + 13 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +18 (brutal, deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 13 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+18 (brutal, deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 13 piercing"
 
   - name: "General's Cry"
-    desc: "  When a hobgoblin general rolls initiative, as long as they can perceive at least one foe, they can yell a mighty battle cry. The hobgoblin general attempts an Intimidate check to [[Actions/Demoralize|Demoralize]] a single foe within 60 feet as a free action. If successful, any ally with the goblin trait can, as its first action on its first turn of the combat, Stride up to double its speed as a single action."
+    desc: "  When a hobgoblin general rolls initiative, as long as they can perceive at least one foe, they can yell a mighty battle cry. The hobgoblin general attempts an Intimidate check to [[Actions/demoralize|demoralize]] a single foe within 60 feet as a free action. If successful, any ally with the goblin trait can, as its first action on its first turn of the combat, Stride up to double its speed as a single action."
 
   - name: "Polearm Critical Specialization"
     desc: "  On a critical hit, the target of the critical hit is moved 5 feet in a direction of Morgroar's choice."

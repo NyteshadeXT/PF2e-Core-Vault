@@ -11,7 +11,7 @@ license: OGL
 ---
 # Activate Resonant Reflection `pf2:2`
 
-### [[3-Rules/Rule References/Magical]]
+### [[magical]]
 
 **Category** interaction; 
 

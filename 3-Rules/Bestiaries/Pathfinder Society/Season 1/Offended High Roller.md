@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +9 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+9 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Slap +9 (agile, nonlethal)\n__Damage__  1d4 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Slap"
+    desc: "+9 (agile, nonlethal)\n__Damage__  1d4 + 1 bludgeoning"
 
   - name: "Flurry of Slaps"
     desc: "`pf2:1` (flourish) The offended high roller makes two slap Strikes. If both hit the same creature, they combine their damage for the purpose of resistances and weaknesses.\n\nThe high rollers apply their multiple attack penalty to the Strikes normally."

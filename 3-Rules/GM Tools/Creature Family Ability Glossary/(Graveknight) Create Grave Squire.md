@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Graveknight) Create Grave Squire"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.W5fD1ebH6Ri8HNzh"
@@ -20,7 +20,7 @@ license: ORC
 
 The graveknight can gift a piece of their armor to another creature, which becomes their grave squire.
 
-The graveknight can communicate telepathically with their squire at any distance, see through the squire's senses, and cast [[Suggestion|Suggestion]] as a divine innate spell through the telepathic link at will; the squire treats their degree of success as one step worse.
+The graveknight can communicate telepathically with their squire at any distance, see through the squire's senses, and cast [[Spells/Suggestion|Suggestion]] as a divine innate spell through the telepathic link at will; the squire treats their degree of success as one step worse.
 
 If the graveknight's main armor is destroyed, the squire's piece expands to cover the squire's body over 1d10 days, after which point it becomes the graveknight's new body.
 

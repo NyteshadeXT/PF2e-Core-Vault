@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S2-03 - Fluent in Cyclops"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.CKyGNdBL8Qt4ysKt"
 license: OGL
 ---
 # S2-03 - Fluent in Cyclops
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

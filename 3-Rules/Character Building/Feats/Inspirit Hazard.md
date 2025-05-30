@@ -32,5 +32,5 @@ You awaken a spirit of creation within the hazard. You learn the hazard's effect
 
 Once in the next 10 minutes, when you observe a creature take an action that would trigger one of the hazard's reactions or free actions if you hadn't Disabled it, you can use a reaction to rearm the hazard, causing the observed creature to trigger it immediately.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

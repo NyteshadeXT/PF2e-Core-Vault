@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Lucky Number|Lucky Number]].
+Granted by [[Spells/Lucky Number|Lucky Number]].
 
 You gain the [[Actions/That's My Number|That's My Number]] reaction; once you use the reaction, the spell ends.
 

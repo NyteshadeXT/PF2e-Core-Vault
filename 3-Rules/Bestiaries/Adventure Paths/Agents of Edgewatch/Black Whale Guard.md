@@ -61,26 +61,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +24 (thrown 10 ft.)\n__Damage__  1d6 + 11 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+24 (thrown 10 ft.)\n__Damage__  1d6 + 11 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Nightmare Cudgel +25 (thrown 10 ft.)\n__Damage__  2d6 + 11 acid"
+  - name: "**Ranged** `pf2:1` Nightmare Cudgel"
+    desc: "+25 (thrown 10 ft.)\n__Damage__  2d6 + 11 acid"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +24 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+24 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 9 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +22 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+22 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Clobber"
-    desc: "`pf2:1`  The guard makes a club Strike. On a hit, if the target is off-guard, the target must succeed at a DC 33 Fortitude check save or be stunned 2."
+    desc: "`pf2:1`  The guard makes a club Strike. On a hit, if the target is [[Conditions/Off-Guard|Off-Guard]], the target must succeed at a DC 33 Fortitude check save or be [[Conditions/Stunned|Stunned 2]]."
 
   - name: "Hammering Flurry"
     desc: "`pf2:2`  The guard makes three club Strikes against a single target, ignoring the multiple attack penalty until after all three attacks are completed."
 
   - name: "Shatter Defenses"
-    desc: "`pf2:1` (press) **Requirements** A frightened creature is within melee reach of the Black Whale guard\n* * *\n\n**Effect** The guard makes a melee Strike against the frightened creature. If they hit and deal damage, the target becomes off-guard as long as it's frightened. If the target is already off-guard, it can't reduce its frightened value below 1 until the start of the guard's next turn."
+    desc: "`pf2:1` (press) **Requirements** A [[Conditions/Frightened|Frightened]] creature is within melee reach of the Black Whale guard\n* * *\n\n**Effect** The guard makes a melee Strike against the frightened creature. If they hit and deal damage, the target becomes [[Conditions/Off-Guard|Off-Guard]] as long as it's frightened. If the target is already off-guard, it can't reduce its frightened value below 1 until the start of the guard's next turn."
  
 ```
 

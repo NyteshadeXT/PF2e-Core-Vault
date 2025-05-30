@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Elven Curve Blade +18 (finesse, forceful)\n__Damage__  1d8 + 12 slashing"
+  - name: "**Melee** `pf2:1` Elven Curve Blade"
+    desc: "+18 (finesse, forceful)\n__Damage__  1d8 + 12 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +17 (agile, finesse)\n__Damage__  2d4 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+17 (agile, finesse)\n__Damage__  2d4 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +17 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+17 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 10 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 21, attack +13; __3rd __ (1 slots) _[[Spells/Jump|Jump]]_; __2nd __ (1 slots) _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_"

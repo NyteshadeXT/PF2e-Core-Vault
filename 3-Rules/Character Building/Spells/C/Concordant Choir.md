@@ -35,6 +35,6 @@ abilities_top:
     desc: "basic fortitude"
 abilities_mid:
   - name: ""
-    desc: "You unleash a dangerous consonance of reverberating sound, focusing on a single target or spreading out to damage many foes. The number of actions you spend Casting this Spell determines its targets, range, area, and other parameters.\n* * *\n\n`pf2:1` The spell deals 1d4 sonic damage to a single enemy, with a basic Fortitude save.\n\n`pf2:2` (manipulate) The spell deals 2d4 sonic damage to all creatures in a @Template[burst|distance:10], with a basic Fortitude save.\n\n`pf2:3` (manipulate) The spell deals 2d4 sonic damage to all creatures in a @Template[emanation|distance:30], with a basic Fortitude save.\n* * *\n\n**Heightened (+1)** The damage increases by 1d4 for the 1-action version, or 2d4 for the other versions."
+    desc: "You unleash a dangerous consonance of reverberating sound, focusing on a single target or spreading out to damage many foes. The number of actions you spend Casting this Spell determines its targets, range, area, and other parameters.\n* * *\n\n`pf2:1` The spell deals 1d4 sonic damage to a single enemy, with a basic Fortitude save.\n\n`pf2:2` (manipulate) The spell deals 2d4 sonic damage to all creatures in a 10-foot burst, with a basic Fortitude save.\n\n`pf2:3` (manipulate) The spell deals 2d4 sonic damage to all creatures in a 30-foot emanation, with a basic Fortitude save.\n* * *\n\n**Heightened (+1)** The damage increases by 1d4 for the 1-action version, or 2d4 for the other versions."
 sourcebook: "_Pathfinder Player Core 2_"
 ```

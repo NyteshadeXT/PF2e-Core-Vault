@@ -54,14 +54,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Falchion +14 (forceful, reach 10 feet, sweep)\n__Damage__  1d10 + 7 slashing"
+  - name: "**Melee** `pf2:1` Falchion"
+    desc: "+14 (forceful, reach 10 feet, sweep)\n__Damage__  1d10 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 (agile, reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (agile, reach 10 feet, unarmed)\n__Damage__  2d6 + 7 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +14 (thrown 30 ft.)\n__Damage__  1d6 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+14 (thrown 30 ft.)\n__Damage__  1d6 + 8 piercing"
 
   - name: "Booming Voice"
     desc: " (auditory,primal) A derhii can use its voice as a signal. The sound can be heard up to 12 miles away as a thrumming in the air that conveys 20 words of information over the course of 5 minutes."

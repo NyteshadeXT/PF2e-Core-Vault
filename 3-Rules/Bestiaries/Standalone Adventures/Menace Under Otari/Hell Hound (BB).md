@@ -3,7 +3,7 @@ title: "Hell Hound (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.jeAGl6OAVrrIPgu3" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.RTviEfjYnsXa0wkT" 
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/fiend
@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 (magical, unholy)\n__Damage__  1d8 + 4 piercing 1d6 fire"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (magical, unarmed, unholy)\n__Damage__  1d8 + 4 piercing 1d6 fire"
 
   - name: "Hellfire Breath"
-    desc: "`pf2:1` (divine,fire) The hell hound breathes flames that deal 4d6 fire damage to all creatures in a @Template[cone|distance:15]. Each affected creature must attempt a DC 19 Reflex check save.\n\nThe hell hound can't use Breath Weapon again for 1d4 rounds. If the hell hound would take fire damage or is the target of a fire effect, its Hellfire Breath recharges."
+    desc: "`pf2:1` (divine,fire) The hell hound breathes flames that deal 4d6 fire damage to all creatures in a 15-foot cone. Each affected creature must attempt a DC 19 Reflex check save.\n\nThe hell hound can't use Breath Weapon again for 1d4 rounds. If the hell hound would take fire damage or is the target of a fire effect, its Hellfire Breath recharges."
 
   - name: "Pack Attack"
     desc: "  The hell hound's jaws Strike deals 1d4 extra damage to creatures within reach of two of the hell hounds' allies."

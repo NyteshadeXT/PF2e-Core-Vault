@@ -25,5 +25,5 @@ license: OGL
 
 You advance and retreat quickly. You gain a +10-foot status bonus to your speed.
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

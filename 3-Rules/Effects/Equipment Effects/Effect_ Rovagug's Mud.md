@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Rovagug's Mud|Rovagug's Mud]], [[Rovagug's Mud (Greater)|Rovagug's Mud (Greater)]]
+Granted by [[Equipment/Rovagug's Mud|Rovagug's Mud]], [[Equipment/Rovagug's Mud (Greater)|Rovagug's Mud (Greater)]]
 
 You have a +2 item bonus to saving throws against incapacitation effects.
 

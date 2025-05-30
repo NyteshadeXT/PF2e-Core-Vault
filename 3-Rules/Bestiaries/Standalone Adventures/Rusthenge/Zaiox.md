@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Aklys +9 (trip)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Aklys"
+    desc: "+9 (trip)\n__Damage__  1d6 + 3 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Aklys +11 (ranged trip, tethered, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Ranged** `pf2:1` Aklys"
+    desc: "+11 (ranged trip, tethered, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 24, attack +16; __2nd __ (4 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Noise Blast|Sound Burst]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __ (4 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(2nd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Message|Message]]_"

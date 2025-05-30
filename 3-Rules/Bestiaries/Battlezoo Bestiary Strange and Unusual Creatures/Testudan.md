@@ -39,7 +39,7 @@ perception:
 languages: "Draconic, Thalassic; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Athletics: +37, Intimidation: +32, Athletics: +37, Intimidation: +32"
+    desc: "Athletics: +37, Intimidation: +32"
 abilityMods: [10, 5, 10, -2, 2, 5]
 speed: 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Lion Jaw +36 (poison, reach 15 feet)\n__Damage__  4d10 + 18 piercing 1d8 poison"
+  - name: "**Melee** `pf2:1` Lion Jaw"
+    desc: "+36 (poison, reach 15 feet)\n__Damage__  4d10 + 18 piercing 1d8 poison"
 
-  - name: "Melee"
-    desc: "`pf2:1` Bear Claw +34 (reach 15 feet)\n__Damage__  4d8 + 18 slashing plus improved-grab"
+  - name: "**Melee** `pf2:1` Bear Claw"
+    desc: "+34 (reach 15 feet)\n__Damage__  4d8 + 18 slashing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Serpent Tail +36 (agile, reach 20 feet)\n__Damage__  4d8 + 18 bludgeoning"
+  - name: "**Melee** `pf2:1` Serpent Tail"
+    desc: "+36 (agile, reach 20 feet)\n__Damage__  4d8 + 18 bludgeoning"
 
   - name: "Bestial Frenzy"
     desc: "`pf2:2`  The testudan makes up to six bear claw Strikes, attacking a given creature no more than once. It doesn't increase its multiple attack penalty until after making all six attacks."

@@ -23,5 +23,5 @@ You'll eat anything and anyone. Whenever you inflict [[Conditions/Persistent Dam
 
 [[Feat_Feature Effects/Effect_ Hungry Goblin|Effect: Hungry Goblin]]
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

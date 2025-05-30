@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +7 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 - 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+7 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 - 1 bludgeoning"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 18, attack +10; __1st __ (3 slots) _[[Spells/Alarm|Alarm]]_, _[[Spells/Bless|Bless]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Spirit Link|Spirit Link]]_\n__Cantrips__  __(1st)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

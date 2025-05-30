@@ -24,7 +24,5 @@ Even your fears serve as fuel for your fighting spirit. When you critically succ
 
 [[Feat_Feature Effects/Effect_ Resounding Bravery|Effect: Resounding Bravery]]
 
-[[Feat_Feature Effects/Effect_ Resounding Bravery (vs. Fear)|Effect: Resounding Bravery (vs. Fear)]]
-
 *Source: Pathfinder Player Core*
 *ORC*

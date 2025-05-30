@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Kuworsys) Rain Blows"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.WtRxZEPH963RkUCj"
 license: OGL
@@ -23,5 +23,5 @@ license: OGL
 
 **Effect** Kuworsys Strikes each creature within its reach, to a maximum of four Strikes (one for each available limb). It can make limb Strikes or weapon Strikes, including with ranged weapons, but can use each weapon only once. Each attack counts toward Kuworsys's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all the attacks.
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

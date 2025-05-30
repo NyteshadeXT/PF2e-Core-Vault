@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +6 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 - 2 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+6 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 - 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Luminous Spark +6 (fire, light, magical, range 20 feet)\n__Damage__  1d4 fire"
+  - name: "**Ranged** `pf2:1` Luminous Spark"
+    desc: "+6 (fire, light, magical, range 20 feet)\n__Damage__  1d4 fire"
 
   - name: "Hilarious Insult"
     desc: "`pf2:1` (auditory,emotion,linguistic,mental) The ether sprite taunts a creature within 30 feet and rolls Performance check against the target's Will DC. On a success, the target is [[Conditions/Confused|Confused]] until the end of their next turn."

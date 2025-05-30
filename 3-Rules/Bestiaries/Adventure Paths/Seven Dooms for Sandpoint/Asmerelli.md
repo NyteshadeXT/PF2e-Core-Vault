@@ -58,20 +58,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Machete +10 (deadly d8, sweep)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Machete"
+    desc: "+10 (deadly d8, sweep)\n__Damage__  1d6 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +16 (deadly d10, magical, range increment 60 feet, reload 0)\n__Damage__  1d6 + 2 piercing 1d6 fire"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+16 (deadly d10, magical, range increment 60 feet, reload 0)\n__Damage__  1d6 + 2 piercing 1d6 fire"
 
   - name: "Divine Spontaneous Spells"
-    desc: "DC 24, attack +16; __3rd __ (4 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Holy Light|Holy Light]]_, _[[Spells/Vampiric Feast|Vampiric Feast]]_; __2nd __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Floating Flame|Floating Flame]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Noise Blast|Noise Blast]]_; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_, _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Light|Light]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 24, attack +16; __3rd __ (4 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Holy Light|Holy Light]]_, _[[Spells/Vampiric Feast|Vampiric Feast]]_; __2nd __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Floating Flame|Floating Flame]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Noise Blast|Noise Blast]]_; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_, _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Light|Light]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Sorcerer Bloodline Spells"
     desc: "1 Focus Point, DC 24, attack +16; __3rd __  _[[Spells/Diabolic Edict|Diabolic Edict]]_, _[[Spells/Embrace the Pit|Embrace the Pit]]_"
 
   - name: "Devil's Cursed Breath"
-    desc: "`pf2:2` (curse,divine,fire) **Frequency** once per day\n* * *\n\n**Effect** Asmerelli bites down on her tongue (taking 1 slashing damage), then exhales a @Template[cone|distance:15] of burning smoke. Each creature in the area must attempt a DC 24 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 3d8 fire damage.\n\n**Failure** The creature takes 6d8 fire damage and is [[Conditions/Sickened|Sickened 1]] by the agonizing pain of the burns.\n\n**Critical Failure** The creature takes 6d8 fire damage, is sickened 1 by the agonizing pain of the burns, and becomes cursed. The victim's burns never fully vanish, and the cursed creature takes a –2 status penalty to all attacks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does.\n\n[[Bestiary Effects/Effect_ Devil's Cursed Breath|Effect: Devil's Cursed Breath]]"
+    desc: "`pf2:2` (curse,divine,fire) **Frequency** once per day\n* * *\n\n**Effect** Asmerelli bites down on her tongue (taking 1 slashing damage), then exhales a 15-foot cone of burning smoke. Each creature in the area must attempt a DC 24 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 3d8 fire damage.\n\n**Failure** The creature takes 6d8 fire damage and is [[Conditions/Sickened|Sickened 1]] by the agonizing pain of the burns.\n\n**Critical Failure** The creature takes 6d8 fire damage, is sickened 1 by the agonizing pain of the burns, and becomes cursed. The victim's burns never fully vanish, and the cursed creature takes a –2 status penalty to all attacks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does.\n\n[[Bestiary Effects/Effect_ Devil's Cursed Breath|Effect: Devil's Cursed Breath]]"
 
   - name: "Reach Spell"
     desc: "`pf2:1` (manipulate,spellshape) If the next action Asmerelli takes is to Cast a Spell that has a range, increase that spell's range by 30 feet."

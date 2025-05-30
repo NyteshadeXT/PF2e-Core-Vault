@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Rejuvenation|Rejuvenation]]"
     desc: " (divine) When a graveknight is destroyed, their armor rebuilds their body over the course of 1d10 days—or more quickly if the armor is worn by a living host. If the body is destroyed before then, the process restarts.\n\nA graveknight can only be permanently destroyed by obliterating their armor (such as with [[Spells/Disintegrate|Disintegrate]]), transporting it to the Forge of Creation, or throwing it into the heart of a volcano."
@@ -66,20 +66,23 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Graveknight) Sacrilegious Aura|Sacrilegious Aura]]"
     desc: " (aura,divine,void) 30 feet.\n\nWhen a creature in the aura uses a vitality spell or ability, the graveknight automatically attempts to counteract it, with a counteract modifier of +17."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Frost Greatsword +24 (cold, magical, versatile p)\n__Damage__  2d12 + 10 slashing 1d6 cold"
+  - name: "**Melee** `pf2:1` Frost Greatsword"
+    desc: "+24 (cold, magical, versatile p)\n__Damage__  2d12 + 10 slashing 1d6 cold"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 (agile, cold)\n__Damage__  2d6 + 10 bludgeoning 1d6 cold"
+  - name: "**Melee** `pf2:1` Frost Fist"
+    desc: "+24 (agile, cold, magical)\n__Damage__  2d6 + 10 bludgeoning 1d6 cold"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Frost Composite Longbow +21 (cold, deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 6 piercing 1d6 cold"
+  - name: "**Ranged** `pf2:1` Frost Composite Longbow"
+    desc: "+21 (cold, deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 6 piercing 1d6 cold"
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Devastating Blast|Devastating Blast]]"
-    desc: "`pf2:2` (arcane,cold) The graveknight unleashes a @Template[cone|distance:30] of energy. Creatures in the area take 11d6 cold with a DC 29 Reflex check.\n\nThe graveknight can use this ability once every 1d4 rounds."
+    desc: "`pf2:2` (arcane,cold) The graveknight unleashes a 30-foot cone of energy. Creatures in the area take 11d6 cold with a DC 29 Reflex check.\n\nThe graveknight can use this ability once every 1d4 rounds."
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Graveknight's Curse|Graveknight's Curse]]"
     desc: " (arcane,curse) This curse affects anyone who wears a graveknight's armor for at least 1 hour\n\n**Saving Throw** DC 33 Will check save\n\n**Onset** 1 hour\n\n**Stage 1** [[Conditions/Doomed|Doomed 1]] and can't remove armor (1 day)\n\n**Stage 2** [[Conditions/Doomed|Doomed 2]], –10-foot status penalty to Speeds, and can't remove armor (1 day)\n\n**Stage 3** dies and transforms into the armor's graveknight."

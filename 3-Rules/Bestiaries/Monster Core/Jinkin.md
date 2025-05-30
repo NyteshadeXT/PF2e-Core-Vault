@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +9 (agile, finesse, magical, versatile s)\n__Damage__  1d6 - 2 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+9 (agile, finesse, magical, versatile s)\n__Damage__  1d6 - 2 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"

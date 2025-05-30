@@ -60,28 +60,31 @@ abilities_top:
   - name: "Ravenspeaker"
     desc: " (divine) Valkyries use ravens as servants and spies. They can speak with ravens, and they can have up to three raven servitors who follow their commands. Valkyries can constantly observe whatever their commanded ravens sense."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Recall the Fallen"
-    desc: "`pf2:r` (divine,healing) **Frequency** once per day\n\n**Trigger** An allied creature within 60 feet who isn't a construct or undead is reduced to 0 Hit Points and their [[Conditions/Dying|Dying]] value is 2 or less\n* * *\n\n**Effect** The valkyrie restores 5d10 Hit Points to the target."
+    desc: "`pf2:r` (divine,healing) **Frequency** once per day\n\n**Trigger** An allied creature within 60 feet who isn't a construct or undead is reduced to 0 Hit Points and their [[Conditions/Dying|Dying]] value is 2 or less\n* * *\n\n**Effect** The valkyrie restores 5d10 healing Hit Points to the target."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +28 (magical)\n__Damage__  2d6 + 15 piercing 1d12 electricity"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+28 (magical)\n__Damage__  2d6 + 15 piercing 1d12 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +26 (magical, thrown 20 ft.)\n__Damage__  2d6 + 15 piercing 1d12 electricity"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+26 (magical, thrown 20 ft.)\n__Damage__  2d6 + 15 piercing 1d12 electricity"
 
   - name: "Divine Innate Spells"
     desc: "DC 29, attack +21; __7th __  _[[Spells/Interplanar Teleport|Interplanar Teleport (Self and Mount Only)]]_; __6th __  _[[Spells/Heal|Heal]]_, _[[Spells/Heroism|Heroism]]_, _[[Spells/Infuse Vitality|Infuse Vitality]]_, _[[Spells/Weapon Storm|Weapon Storm]]_; __5th __  _[[Spells/Command|Command]]_; __3rd __  _[[Spells/Augury|Augury]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Status|Status]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "Storm of Battle"
-    desc: "`pf2:2` (divine,electricity) The valkyrie hurls her spear into the air, creating a massive storm in a @Template[burst|distance:100]. Spears of lightning rain down upon enemies in the area, dealing 4d12 electricity damage (DC 32 Reflex check save)."
+    desc: "`pf2:2` (divine,electricity) The valkyrie hurls her spear into the air, creating a massive storm in a 100-foot burst. Spears of lightning rain down upon enemies in the area, dealing 4d12 electricity damage (DC 32 Reflex check save)."
  
 ```
 

@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +12 (finesse)\n__Damage__  1d8 + 3 piercing plus anadi-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+12 (finesse)\n__Damage__  1d8 + 3 piercing plus anadi-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +12 (agile, finesse, trip)\n__Damage__  1d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+12 (agile, finesse, trip)\n__Damage__  1d6 + 3 slashing"
 
   - name: "Innate Arcane Spells"
     desc: "DC 20, attack +12; __2nd __ (2 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Web|Web]]_; __1st __ (3 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_"
@@ -74,7 +74,7 @@ attacks:
     desc: " (poison) **Saving Throw** DC 18 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d6 poison damage, off-guard, and [[Conditions/Clumsy|Clumsy 1]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The anadi changes into their hybrid, spider, or human form. The above statistics assume the anadi is in hybrid form. While in human form, the anadi seeker loses their climb Speed and can't use their fangs attack. When in spider form, they can't use weapons.\n\n* * *\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The anadi changes into their hybrid, spider, or human form. The above statistics assume the anadi is in hybrid form. While in human form, the anadi seeker loses their climb Speed and can't use their fangs attack. When in spider form, they can't use weapons.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The anadi lurker deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

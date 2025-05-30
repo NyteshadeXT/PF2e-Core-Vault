@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 (reach 10 feet)\n__Damage__  2d8 + 7 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (reach 10 feet, unarmed)\n__Damage__  2d8 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +16 (agile, reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+16 (agile, reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning"
 
   - name: "Intimidating Display"
     desc: "`pf2:2` (auditory,emotion,fear,mental,visual) The giant frilled lizard Strides. If it ends that Stride adjacent to at least one other creature, it suddenly displays its colorful neck frills and issues a frightening hiss. Each adjacent creature must succeed at a DC 21 Will check save or become [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure).\n\nThe creature is then temporarily immune to Intimidating Display for 1 minute."

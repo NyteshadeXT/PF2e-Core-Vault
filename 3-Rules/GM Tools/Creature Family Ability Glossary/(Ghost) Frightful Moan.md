@@ -8,7 +8,7 @@ tags:
   - trait/emotion
   - trait/fear
   - trait/mental
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.aiwlPSmNY9b6Psvd"
@@ -16,7 +16,7 @@ license: ORC
 ---
 # (Ghost) Frightful Moan `pf2:2`
 
-### [[auditory]][[divine]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]]
+### [[auditory]][[divine]][[emotion]][[fear]][[mental]]
 
 **Category** offensive; 
 

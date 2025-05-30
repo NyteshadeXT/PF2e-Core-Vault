@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +22 (finesse)\n__Damage__  2d6 + 8 piercing plus ghoul-fever,paralysis 1d6 spirit plus ghoul-fever,paralysis 1d6 void plus ghoul-fever,paralysis"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+22 (finesse, unarmed)\n__Damage__  2d6 + 8 piercing plus ghoul-fever,paralysis 1d6 spirit plus ghoul-fever,paralysis 1d6 void plus ghoul-fever,paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +22 (agile, finesse)\n__Damage__  2d4 + 8 slashing plus paralysis 1d6 void plus paralysis 1d6 spirit plus paralysis"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+22 (agile, finesse)\n__Damage__  2d4 + 8 slashing plus paralysis 1d6 void plus paralysis 1d6 spirit plus paralysis"
 
   - name: "Consume Flesh"
-    desc: "`pf2:1` (manipulate) **Requirements** The ghoul is adjacent to the corpse of an evil or chaotic creature that died within the last hour.\n* * *\n\n**Effect** The ghoul devours a chunk of the corpse and regains 6d6 Hit Points. It can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The ghoul is adjacent to the corpse of an evil or chaotic creature that died within the last hour.\n* * *\n\n**Effect** The ghoul devours a chunk of the corpse and regains 6d6 healing Hit Points. It can regain Hit Points from any given corpse only once."
 
   - name: "Ghoul Fever"
     desc: " (disease) **Saving Throw** DC 27 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a zeal-damned ghoul the next midnight."

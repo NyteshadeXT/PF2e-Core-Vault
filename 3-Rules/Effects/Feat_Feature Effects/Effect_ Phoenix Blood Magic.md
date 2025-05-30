@@ -18,7 +18,7 @@ license: OGL
 
 Granted by [[Class Features/Bloodline_ Phoenix|Bloodline: Phoenix]]
 
-Choose to have either you or a target of the spell gain temporary Hit Points equal to the spell's rank for 1 round.
+You gain temporary Hit Points equal to the spell's rank.
 
 *Source: Pathfinder #168: King of the Mountain*
 *OGL*

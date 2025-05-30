@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
   - trait/occult
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.yXk0G8l0leaqHh1U"
 license: OGL
 ---
 # Host Spirit
 
-### [[exploration]][[3-Rules/Rule References/Occult]]
+### [[exploration]][[occult]]
 
 **Category** interaction; 
 

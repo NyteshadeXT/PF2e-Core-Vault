@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Shrinking Potion|Shrinking Potion]]
+Granted by [[Equipment/Shrinking Potion|Shrinking Potion]]
 
-This fungus-flavored potion conveys the effects of the _shrink_ spell to make you and all your gear smaller.
+You gain the effects of the _shrink_ spell.
 
 *Source: Pathfinder GM Core*
 *ORC*

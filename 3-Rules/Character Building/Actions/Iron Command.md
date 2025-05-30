@@ -7,7 +7,7 @@ tags:
   - trait/divine
   - trait/emotion
   - trait/mental
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.M8RCbthRhB4bxO9t"
@@ -15,7 +15,7 @@ license: ORC
 ---
 # Iron Command `pf2:r`
 
-### [[champion]][[3-Rules/Rule References/Divine]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Mental]]
+### [[champion]][[divine]][[emotion]][[mental]]
 
 **Category** offensive; 
 

@@ -54,13 +54,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Horrifying Display"
-    desc: "`pf2:0` (emotion,fear,mental,visual) **Trigger** The cythnophorian uses Fungal Possession\n* * *\n\n**Effect** All creatures in a @Template[emanation|distance:10] must attempt a DC 26 Will check save or become [[Conditions/Sickened|Sickened 1]], or [[Conditions/Sickened|Sickened 2]] on a critical failure. Affected creatures are [[Conditions/Off-Guard|Off-Guard]] for as long as they're sickened. Once a creature attempts this save, it's temporarily immune for 1 minute."
+    desc: "`pf2:0` (emotion,fear,mental,visual) **Trigger** The cythnophorian uses Fungal Possession\n* * *\n\n**Effect** All creatures in a 10-foot emanation must attempt a DC 26 Will check save or become [[Conditions/Sickened|Sickened 1]], or [[Conditions/Sickened|Sickened 2]] on a critical failure. Affected creatures are [[Conditions/Off-Guard|Off-Guard]] for as long as they're sickened. Once a creature attempts this save, it's temporarily immune for 1 minute."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +18 ()\n__Damage__  2d10 + 10 piercing plus creeping-death,fungal-possession"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+18 ()\n__Damage__  2d10 + 10 piercing plus creeping-death,fungal-possession"
 
   - name: "Creeping Death"
     desc: " (contact,poison) **Saving Throw** DC 22 Fortitude check\n\n**Onset** 1 round\n\n**Stage 1** 2d6 poison damage and [[Conditions/Stunned|Stunned 1]] (1 round)\n\n**Stage 2** 4d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 3** 6d6 poison damage and [[Conditions/Confused|Confused]] (1 round)\n\n**Stage 4** 6d6 poison damage and [[Conditions/Controlled|Controlled]] (1 round). A creature that dies while infected with creeping death immediately releases a burst of spores as if using the cythnophorian's Spore Cloud ability. If the corpse is not burned, it rises as the host of a new cythnophorian 12 hours later."
@@ -69,7 +69,7 @@ attacks:
     desc: "`pf2:2` (concentrate,manipulate,move,possession) **Requirements** The cythnophorian's last action was a Strike that killed a target of size Medium or smaller\n* * *\n\n**Effect** The cythnophorian rips itself out of its current host and burrows its way into the corpse of its latest victim, regaining 3d4 healing Hit Points and taking control of the corpse as its new host. The cythnophorian enters the space of its new host, and its former host's corpse falls to the ground in its previous space. Moving to a new host doesn't change the cythnophorian's abilities or movement Speeds."
 
   - name: "Spore Cloud"
-    desc: "`pf2:1` (incapacitation,poison) The cythnophorian emits a cloud of toxic spores, exposing all creatures within a @Template[emanation|distance:15] to creeping death. The cythnophorian can't use Spore Cloud again for 1d4 rounds."
+    desc: "`pf2:1` (incapacitation,poison) The cythnophorian emits a cloud of toxic spores, exposing all creatures within a 15-foot emanation to creeping death. The cythnophorian can't use Spore Cloud again for 1d4 rounds."
  
 ```
 

@@ -56,13 +56,16 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +22 (agile, finesse, magical, unholy)\n__Damage__  1d6 fire 2d8 + 4 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+22 (agile, finesse, magical, unarmed, unholy)\n__Damage__  1d6 fire 2d8 + 4 slashing 1d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 28, attack +22; __5th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Shadow Blast|Shadow Blast]]_; __4th __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Translocate|Dimension Door (At will)]]_; __3rd __  _[[Spells/Fear|Fear]]_\n__Cantrips__  __(5th)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

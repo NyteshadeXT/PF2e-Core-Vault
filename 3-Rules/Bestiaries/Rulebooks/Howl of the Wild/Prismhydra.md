@@ -51,6 +51,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "Hydra Regeneration"
     desc: "  The hydra has regeneration equal to 3 × the number of heads it has. If a hydra's body is missing any heads and the remaining stumps have not been cauterized, the hydra attempts a DC 39 Fortitude check save after it regains Hit Points from regeneration. On a success, one uncauterized stump regrows two heads; on a critical success, two uncauterized stumps regrow into two heads each. The hydra can never grow more than double the number of heads it ordinarily has. The hydra's regeneration only fully deactivates if all its heads are severed and all stumps are cauterized, at which point it dies."
 
@@ -66,17 +69,17 @@ abilities_mid:
   - name: "Reactive Heads"
     desc: "  A hydra gains an extra reaction per round for each of its heads beyond the first, which it can use only to make Reactive Strikes. It can't use more than 1 reaction on the same triggering action, even if a creature leaves several squares within its reach, and the hydra must use a different head for each Reactive Strike it makes. Whenever one of the hydra's heads is severed, the hydra loses 1 of its extra reactions per round."
 
-  - name: "[[Actions/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  **Trigger** A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\nYou lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a manipulate action, you disrupt that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike."
+  - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +31 (reach 15 feet)\n__Damage__  3d12 + 14 piercing plus chromatic-explosion"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+31 (reach 15 feet)\n__Damage__  3d12 + 14 piercing plus chromatic-explosion"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spittle +28 (acid, range increment 60 feet)\n__Damage__  1d12 acid plus chromatic-explosion"
+  - name: "**Ranged** `pf2:1` Spittle"
+    desc: "+28 (acid, range increment 60 feet)\n__Damage__  1d12 acid plus chromatic-explosion"
 
   - name: "Chromatic Explosion"
     desc: "  A prismhydra's heads are replete with arcane energy. Whenever the prismhydra successfully Strikes an opponent with its spittle, or when an opponent cauterizes one of the prismhydra's heads, the opponent takes 6d6 damage of the type matching the head's vulnerability (typically acid, cold, fire, or electricity), with a DC 37 Reflex check save."

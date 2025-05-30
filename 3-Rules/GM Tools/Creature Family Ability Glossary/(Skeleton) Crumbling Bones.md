@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Skeleton) Crumbling Bones"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.YVw626nVHlWwm4ej"
 license: OGL
 ---

@@ -65,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +10 (agile, unholy)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+10 (agile, unholy)\n__Damage__  1d4 + 6 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Item Facade|Item Facade]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Phantom Pain|Phantom Pain]]_\n__Cantrips__  __(1st)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -78,7 +78,7 @@ attacks:
     desc: "`pf2:r`  **Trigger** The meokdan critically hits a living creature with its bite\n* * *\n\n**Effect** The meokdan Snacks on the creature."
 
   - name: "Snack"
-    desc: "`pf2:2`  The meokdan attempts a bite Strike against an adjacent creature or chews on a handheld object they're carrying. If the creature is living or the object is food, the meokdan gurgles in delight and restores 1d8+8 Hit Points. If the creature is undead or a construct, or the object is inedible, the meokdan shrieks in frustration and gains a +1 status bonus to attack rolls and saving throws until the end of its next turn. The meokdan can't Snack again for 1 round."
+    desc: "`pf2:2`  The meokdan attempts a bite Strike against an adjacent creature or chews on a handheld object they're carrying. If the creature is living or the object is food, the meokdan gurgles in delight and restores 1d8+8 healing Hit Points. If the creature is undead or a construct, or the object is inedible, the meokdan shrieks in frustration and gains a +1 status bonus to attack rolls and saving throws until the end of its next turn. The meokdan can't Snack again for 1 round."
  
 ```
 

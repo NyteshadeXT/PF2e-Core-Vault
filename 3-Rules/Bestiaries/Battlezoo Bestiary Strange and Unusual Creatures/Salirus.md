@@ -37,7 +37,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +15, Athletics: +12, Deception: +11, Intimidation: +11, Nature: +15, Stealth: +16, Survival: +13, Acrobatics: +15, Athletics: +12, Deception: +11, Intimidation: +11, Nature: +15, Stealth: +16, Survival: +13, Swamp Lore: +14"
+    desc: "Acrobatics: +15, Athletics: +12, Deception: +11, Intimidation: +11, Nature: +15, Stealth: +16, Survival: +13, Swamp Lore: +14"
 abilityMods: [2, 5, 4, 3, 5, 2]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +17 (agile, finesse)\n__Damage__  2d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+17 (agile, finesse)\n__Damage__  2d6 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +17 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+17 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 7 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 21, attack +13; __4th __  _[[Spells/Solid Fog|Solid Fog]]_; __3rd __  _[[Spells/Animal Vision|Animal Vision (At Will)]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Sudden Blight|Sudden Blight]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"

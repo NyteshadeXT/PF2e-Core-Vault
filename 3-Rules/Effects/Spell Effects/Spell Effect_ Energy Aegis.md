@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Energy Aegis|Energy Aegis]]
+Granted by [[Spells/Energy Aegis|Energy Aegis]]
 
 The target gains resistance to acid, cold, electricity, fire, force, sonic, vitality, and void damage.
 

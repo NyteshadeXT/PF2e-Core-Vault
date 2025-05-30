@@ -3,7 +3,7 @@ title: "Basilisk (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.rPHxXClTnoPYHYuZ" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.mX47c0W9rizbmMBM" 
 tags:
   - pf2e/creature/type/beast
   - pf2eMonster
@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (unarmed)\n__Damage__  2d8 + 4 piercing"
 
   - name: "Petrifying Gaze"
     desc: "`pf2:2` (arcane,concentrate) The basilisk stares at a creature it can see within 30 feet. If the creature can see the basilisk, that creature must attempt a DC 22 Fortitude check save.\n\nIf it fails and hasn't already gained the slowed condition from Petrifying Glance or this ability, it gains the [[Conditions/Slowed|Slowed 1]] condition. If the creature fails this save when it already has the slowed condition from this ability or Petrifying Glance, the creature is permanently turned to [[Conditions/Petrified|Stone]].\n\nA creature petrified in this manner that is coated with fresh basilisk blood is instantly restored to flesh. A single basilisk contains enough blood to coat up to 2 creatures in this manner."

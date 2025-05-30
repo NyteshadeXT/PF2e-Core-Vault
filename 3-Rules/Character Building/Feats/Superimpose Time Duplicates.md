@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-You call alternate versions of yourself, either from a different timeline or perhaps yourself from a different point in your current timeline, to aid you in combat. Until the start of your next turn, these alternate selves flicker in and out in your vicinity, providing flanking for you against all enemies within your reach. Flanking with your time duplicates is the same as flanking with an ally and so is subject to effects like [[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]] or the [[Class Features/Deny Advantage|Deny Advantage]] class feature.
+You call alternate versions of yourself, either from a different timeline or perhaps yourself from a different point in your current timeline, to aid you in combat. Until the start of your next turn, these alternate selves flicker in and out in your vicinity, providing flanking for you against all enemies within your reach. Flanking with your time duplicates is the same as flanking with an ally and so is subject to effects like All-Around Vision or the [[Class Features/Deny Advantage|Deny Advantage]] class feature.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

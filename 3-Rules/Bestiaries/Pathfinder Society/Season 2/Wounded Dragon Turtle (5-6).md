@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +18 (reach 10 feet)\n__Damage__  2d12 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+18 (reach 10 feet, unarmed)\n__Damage__  2d12 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile)\n__Damage__  2d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, unarmed)\n__Damage__  2d8 + 6 slashing"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (air,fire,primal) The dragon turtle breathes a massive blast of steam that deals 8d6 fire damage to creatures within a @Template[cone|distance:40] (DC 24 Reflex check save). This steam blast affects creatures within the water, as well as outside.\n\nThe dragon turtle can't use its Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (air,fire,primal) The dragon turtle breathes a massive blast of steam that deals 8d6 fire damage to creatures within a 40-foot cone (DC 24 Reflex check save). This steam blast affects creatures within the water, as well as outside.\n\nThe dragon turtle can't use its Breath Weapon again for 1d4 rounds."
 
   - name: "Capsize"
     desc: "`pf2:1` (attack,move) The dragon turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The dragon turtle must succeed at an Athletics check with a DC of 27 or the pilot's Sailing Lore DC, whichever is higher."

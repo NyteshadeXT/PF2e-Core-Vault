@@ -69,17 +69,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Morningstar +24 (magical, versatile p)\n__Damage__  2d6 + 9 bludgeoning 2d6 spirit 2d6 void"
+  - name: "**Melee** `pf2:1` Morningstar"
+    desc: "+24 (magical, versatile p)\n__Damage__  2d6 + 9 bludgeoning 2d6 spirit 2d6 void"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +24 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 6 bludgeoning 2d6 spirit 2d6 void"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+24 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 6 bludgeoning 2d6 spirit 2d6 void"
 
   - name: "Innate Occult Spells"
     desc: "DC 33, attack +23; __6th __  _[[Spells/Dominate|Dominate]]_, _[[Spells/Zealous Conviction|Zealous Conviction]]_; __5th __  _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_; __4th __  _[[Compendium.pf2e.spells-srd.Item.hkfH9Z53hPzcOwNB|Veil]]_; __3rd __  _[[Spells/Enthrall|Enthrall]]_; __2nd __  _[[Spells/Illusory Creature|Illusory Creature]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Geas|Geas (Ritual)]]_"
+    desc: "_Geas (Ritual)_"
  
 ```
 

@@ -60,19 +60,19 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Falchion +13 (forceful, sweep)\n__Damage__  1d10 + 7 slashing"
+  - name: "**Melee** `pf2:1` Falchion"
+    desc: "+13 (forceful, sweep)\n__Damage__  1d10 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 (agile)\n__Damage__  1d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (agile, unarmed)\n__Damage__  1d6 + 7 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 24, attack +12; __3rd __  _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Runic Weapon|Magic Weapon]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_"
 
-  - name: "[[Bestiary 1/Gnoll Hunter/Pack Attack|Pack Attack]]"
+  - name: "[[Monster Core/Kholo Hunter/Pack Attack|Pack Attack]]"
     desc: "  Krashk deals an additional 1d4 damage to any creature that's within reach of at least two of her allies."
 
-  - name: "[[Bestiary 1/Gnoll Hunter/Rugged Travel|Rugged Travel]]"
+  - name: "[[Monster Core/Kholo Hunter/Rugged Travel|Rugged Travel]]"
     desc: "  Krashk ignores the first square of difficult terrain she moves into each time she Steps or Strides."
  
 ```

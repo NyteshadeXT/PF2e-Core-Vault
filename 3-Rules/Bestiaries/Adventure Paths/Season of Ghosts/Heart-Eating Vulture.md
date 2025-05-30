@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +12 ()\n__Damage__  2d8 + 4 piercing plus carrion-fever"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+12 (unarmed)\n__Damage__  2d8 + 4 piercing plus carrion-fever"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +12 (agile, finesse, magical)\n__Damage__  2d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+12 (agile, finesse, magical, unarmed)\n__Damage__  2d6 + 4 slashing"
 
   - name: "Carrion Fever"
     desc: " (disease) The sickened condition from carrion fever can't be reduced while the affliction remains\n\n**Saving Throw** DC 21 Fortitude check\n* * *\n\n**Onset** 1 day\n\n**Stage 1** [[Conditions/Sickened|Sickened 1]] and [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 2** sickened 1, [[Conditions/Slowed|Slowed 1]], and fatigued (1 day)"

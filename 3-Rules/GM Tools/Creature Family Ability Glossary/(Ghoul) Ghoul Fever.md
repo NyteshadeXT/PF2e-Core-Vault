@@ -4,14 +4,14 @@ title: "(Ghoul) Ghoul Fever"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/disease
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.N7UV5CZXtcoxDxCF"
 license: OGL
 ---
 # (Ghoul) Ghoul Fever
 
-### [[3-Rules/trait_reference/D/disease]]
+### [[disease]]
 
 **Category** offensive; 
 
@@ -32,7 +32,7 @@ license: OGL
 
 **Stage 5** as stage 4 (1 day)
 
-**Stage 6** dead, and rises as a [[Ghoul|Ghoul]] the next midnight.
+**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight.
 
 *Source: Pathfinder Bestiary*
 *OGL*

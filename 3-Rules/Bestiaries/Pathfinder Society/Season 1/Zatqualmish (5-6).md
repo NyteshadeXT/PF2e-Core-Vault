@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +12 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+12 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 1 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortbow +12 (deadly d10)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Shortbow"
+    desc: "+12 (deadly d10)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 25, attack +16; __3rd __ (3 slots) _[[Spells/Haste|Haste]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (3 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

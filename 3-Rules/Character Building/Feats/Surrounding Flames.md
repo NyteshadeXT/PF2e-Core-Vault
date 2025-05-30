@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Spell Trickster Dedication; ability to cast wall of fire
 * * *
-When you cast [[Wall of Fire|Wall of Fire]], you can modify its standard effects as follows: Instead of a 5-foot-thick, 10-foot-radius ring of flame, you can form the wall into a 10-foot-radius hemisphere of fire.
+When you cast [[Spells/Wall of Fire|Wall of Fire]], you can modify its standard effects as follows: Instead of a 5-foot-thick, 10-foot-radius ring of flame, you can form the wall into a 10-foot-radius hemisphere of fire.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

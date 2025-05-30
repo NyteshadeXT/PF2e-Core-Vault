@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +5 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 - 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+5 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 - 1 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Heavy Book +0 ()\n__Damage__  1d6 - 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Heavy Book"
+    desc: "+0 ()\n__Damage__  1d6 - 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heavy Book +3 (thrown 10 ft.)\n__Damage__  1d6 - 1 bludgeoning"
+  - name: "**Ranged** `pf2:1` Heavy Book"
+    desc: "+3 (thrown 10 ft.)\n__Damage__  1d6 - 1 bludgeoning"
  
 ```
 

@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +12 (holy, magical)\n__Damage__  1d10 + 4 piercing 1d4 spirit"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+12 (holy, magical, unarmed)\n__Damage__  1d10 + 4 piercing 1d4 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +12 (agile, magical)\n__Damage__  1d8 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+12 (agile, magical)\n__Damage__  1d8 + 4 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 21, attack +13; __5th __  _[[Spells/Nature's Pathway|Nature's Pathway]]_; __3rd __  _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Heal|Heal (x2)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Light|Light]]_"

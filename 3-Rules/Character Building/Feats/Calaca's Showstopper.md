@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-You've spent many an evening learning songs and tales featuring calacas, death's wandering minstrels. You dramatically unleash a stunning blast of sound by smashing an instrument you hold or belting out a discordant note. This has the effects of [[Synaptic Pulse|Synaptic Pulse]], but the effect is auditory rather than mental. The DC is either your class or spell DC, whichever is higher.
+You've spent many an evening learning songs and tales featuring calacas, death's wandering minstrels. You dramatically unleash a stunning blast of sound by smashing an instrument you hold or belting out a discordant note. This has the effects of [[Spells/Synaptic Pulse|Synaptic Pulse]], but the effect is auditory rather than mental. The DC is either your class or spell DC, whichever is higher.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

@@ -21,7 +21,7 @@ license: OGL
 * * *
 **Frequency** once per day
 
-**Requirements** You have cast [[Summon Undead|Summon Undead]] this turn.
+**Requirements** You have cast [[Spells/Summon Undead|Summon Undead]] this turn.
 
 * * *
 

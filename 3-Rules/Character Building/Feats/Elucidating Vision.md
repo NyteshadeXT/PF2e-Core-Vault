@@ -21,5 +21,5 @@ license: ORC
 
 Your eyes have seen many things in your past lives, and your sight seems to have grown more powerful over your lifetimes. You gain darkvision.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

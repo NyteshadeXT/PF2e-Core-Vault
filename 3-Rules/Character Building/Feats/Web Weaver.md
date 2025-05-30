@@ -24,5 +24,5 @@ You can use your webbing to [[Actions/Craft|Craft]] simple, nonconsumable thread
 
 These temporary items take you only 1 day to Craft instead of 4. If you're an expert in Crafting, you can Craft these items in 1 hour; if you're a master, you can Craft them in 10 minutes; if you're legendary, you can Craft them in 1 minute.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

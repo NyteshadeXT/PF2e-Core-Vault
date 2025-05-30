@@ -59,25 +59,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 41 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 41 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Tail Lash"
-    desc: "`pf2:r`  **Trigger** A creature within reach of the dragon's tail takes an action to Strike or attempt a skill check\n* * *\n\n**Effect** The dragon Strikes with its tail at the triggering creature at a -2 penalty. If it hits, the creature takes a -2 circumstance penalty to the triggering roll.\n\n[[Bestiary Effects/Effect_ Tail Lash (Attack Roll)|Effect: Tail Lash (Attack Roll)]]\n\n[[Bestiary Effects/Effect_ Tail Lash (Skill Check)|Effect: Tail Lash (Skill Check)]]"
+    desc: "`pf2:r`  **Trigger** A creature within reach of the dragon's tail takes an action to Strike or attempt a skill check\n* * *\n\n**Effect** The dragon Strikes with its tail at the triggering creature at a -2 penalty. If it hits, the creature takes a -2 circumstance penalty to the triggering roll.\n\n[[Bestiary Effects/Effect_ Tail Lash|Effect: Tail Lash]]"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +39 (acid, magical, reach 20 feet)\n__Damage__  4d12 + 18 piercing 2d6 acid 2d6 acid"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+39 (acid, magical, reach 20 feet, unarmed)\n__Damage__  4d12 + 18 piercing 2d6 acid 2d6 acid"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +39 (agile, magical, reach 15 feet)\n__Damage__  4d8 + 18 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+39 (agile, magical, reach 15 feet, unarmed)\n__Damage__  4d8 + 18 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +37 (magical, reach 25 feet)\n__Damage__  4d6 + 16 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+37 (magical, reach 25 feet)\n__Damage__  4d6 + 16 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horns +37 (magical, reach 20 feet)\n__Damage__  3d6 + 16 piercing"
+  - name: "**Melee** `pf2:1` Horns"
+    desc: "+37 (magical, reach 20 feet)\n__Damage__  3d6 + 16 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 44, attack +32; __10th __  _[[Spells/Freeze Time|Time Stop]]_; __9th __  _[[Spells/Disjunction|Disjunction]]_, _[[Spells/Implosion|Implosion]]_, _[[Spells/Weird|Weird]]_; __8th __  _[[Spells/Disappearance|Disappearance]]_, _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Hidden Mind|Mind Blank]]_; __7th __  _[[Spells/Execute|Finger of Death]]_, _[[Spells/Reverse Gravity|Reverse Gravity]]_, _[[Spells/Spell Turning|Spell Turning]]_; __6th __  _[[Spells/Dominate|Dominate]]_, _[[Spells/Truesight|True Seeing]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Scouting Eye|Prying Eye]]_; __4th __  _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Containment|Resilient Sphere]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(7th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
@@ -86,7 +86,7 @@ attacks:
     desc: "DC 44, attack +36; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (acid,arcane) Ilthuliak breathes a spray of acid that deals 22d6 acid damage in a 100 foot line (DC 44 Reflex check save).\n\nShe can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (acid,arcane) Ilthuliak breathes a spray of acid that deals 22d6 acid damage in a 100-foot line (DC 44 Reflex check save).\n\nShe can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Corrupt Water"
     desc: "`pf2:1` (arcane,concentrate) **Frequency** Once per day\n* * *\n\n**Effect** The dragon permanently befouls 10 cubic feet of liquid within 90 feet. The liquid becomes undrinkable and unable to support water-breathing life.\n\nThis destroys liquid magic or alchemical items if they're of a lower level than the dragon (a creature can attempt a DC 41 Will check save to protect liquids in its possession). This doesn't affect liquids in a creature's body."

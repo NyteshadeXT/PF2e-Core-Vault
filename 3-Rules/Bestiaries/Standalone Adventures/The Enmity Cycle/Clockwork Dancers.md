@@ -25,7 +25,7 @@ level: "Hazard 7"
 trait_06: "Complex"
 trait_01: [[mechanical]]
 trait_02: [[trap]]
-modifier: 6
+modifier: 16
 sourcebook: "_Pathfinder Adventure: The Enmity Cycle_"
 ac: 24
 armorclass:
@@ -38,7 +38,7 @@ health:
     desc: "58; __Hardness__ 15; __Immunities__  object immunities,  critical hits,  precision; __Weaknesses__ sonic 10"
 perception:
   - name: ""
-  - name: "Stealth DC 6" 
+  - name: "Stealth DC 16" 
     desc: "(expert)"
 abilities_top:
   - name: ""

@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Torch +7 ()\n__Damage__  1d4 + 1 bludgeoning 1 fire"
+  - name: "**Melee** `pf2:1` Torch"
+    desc: "+7 ()\n__Damage__  1d4 + 1 bludgeoning 1 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +5 (agile, versatile s)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+5 (agile, versatile s)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +5 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+5 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "Cheek Pouches"
     desc: "  Like all ratfolk, Cog has stretchy cheek pouches that can store up to 1 cubic foot of objects (though no more than 4 light items). Cog can remove or store an item using the Interact action. As long as Cog has at least one object in his cheek pouches, his speech is noticeably difficult to understand."

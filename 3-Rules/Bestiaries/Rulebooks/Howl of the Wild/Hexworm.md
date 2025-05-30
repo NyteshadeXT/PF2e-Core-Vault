@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +8 ()\n__Damage__  2d6 + 2 piercing plus arcane-consumption"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+8 ()\n__Damage__  2d6 + 2 piercing plus arcane-consumption"
 
   - name: "Arcane Consumption"
     desc: "`pf2:1`  The hexworm attempts to consume the magic of an adjacent magical effect or unattended magic item. It attempts a counteract check against the target with a +11 modifier. On a success, the magical effect ends. A magic item instead becomes a mundane item for 1 round. The hexworm gains 2d8 healing Hit Points."

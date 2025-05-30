@@ -35,7 +35,7 @@ perception:
 languages: "Common, Draconic, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Arcana: +11, Athletics: +5, Crafting: +9, Deception: +9, Diplomacy: +9, Nature: +8, Occultism: +8, Religion: +8, Society: +9, Stealth: +11, Survival: +8, Thievery: +11, Acrobatics: +9, Arcana: +11, Athletics: +5, Crafting: +9, Deception: +9, Diplomacy: +9, Nature: +8, Occultism: +8, Religion: +8, Society: +9, Stealth: +11, Survival: +8, Thievery: +11"
+    desc: "Acrobatics: +9, Arcana: +11, Athletics: +5, Crafting: +9, Deception: +9, Diplomacy: +9, Nature: +8, Occultism: +8, Religion: +8, Society: +9, Stealth: +11, Survival: +8, Thievery: +11"
 abilityMods: [0, 4, 2, 4, 3, 4]
 speed: 20 feet,  fly 45 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -65,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fae Wand +11 (agile, finesse)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fae Wand"
+    desc: "+11 (agile, finesse)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 20, attack +12\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Read Aura|Read Aura]]_"

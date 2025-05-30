@@ -3,7 +3,7 @@ title: "Pugwampi (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.jnmUcTs4hn1c5bz9" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.aeOzCBpwnUVcpqxI" 
 tags:
   - pf2e/creature/type/fey
   - pf2e/creature/type/gremlin
@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +8 (agile, finesse, magical, versatile s)\n__Damage__  1d6 - 1 slashing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+8 (agile, finesse, magical, versatile s)\n__Damage__  1d6 - 1 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +8 (deadly d10, magical, range increment 60 feet, reload 0)\n__Damage__  1d6 - 1 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+8 (deadly d10, magical, range increment 60 feet, reload 0)\n__Damage__  1d6 - 1 piercing"
  
 ```
 

@@ -18,7 +18,7 @@ license: OGL
 
 Granted by [[Feats/Seedpod|Seedpod]]
 
-On a critical hit, a seedpod bursts, issuing forth a tangle of vegetation that imposes a -10-foot circumstance penalty on the target's Speed for 1 round.
+You take a -10-foot circumstance penalty to your Speed.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

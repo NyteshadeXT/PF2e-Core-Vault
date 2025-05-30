@@ -25,5 +25,5 @@ license: OGL
 
 You produce a specialized venom that burns out other toxins and impurities in your body. For each disease or poison currently affecting you, attempt a Medicine check to counteract that disease or poison. As normal, your counteract rank is equal to half your level rounded up.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

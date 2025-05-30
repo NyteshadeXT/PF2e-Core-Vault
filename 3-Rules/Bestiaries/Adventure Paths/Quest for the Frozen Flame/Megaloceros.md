@@ -51,16 +51,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Buck|Buck]]"
-    desc: "`pf2:r`  DC 21 Reflex check"
+    desc: "`pf2:r`  DC 21 Reflex check\n* * *\n\nMost monsters that serve as mounts can attempt to buck off unwanted or annoying riders, but most mounts will not use this reaction against a trusted creature unless the mounts are spooked or mistreated.\n\n**Trigger** A creature [[Actions/Mount|Mounts]] or uses the [[Actions/Command an Animal|Command an Animal]] action while riding the monster.\n* * *\n\n**Effect** The triggering creature must succeed at a Reflex saving throw against the listed DC or fall off the creature and land [[Conditions/Prone|Prone]]. If the save is a critical failure, the triggering creature also takes 1d6 bludgeoning damage in addition to the normal damage for the fall."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Antlers +13 (deadly d8)\n__Damage__  2d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Antlers"
+    desc: "+13 (deadly d8)\n__Damage__  2d6 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +13 ()\n__Damage__  2d4 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+13 ()\n__Damage__  2d4 + 7 bludgeoning"
 
   - name: "Furious Charge"
     desc: "`pf2:2`  The megaloceros Strides twice and makes a hoof Strike after either Stride. If the Strike hits, the megaloceros deals an additional 2d4 bludgeoning damage."

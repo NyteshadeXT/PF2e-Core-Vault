@@ -52,6 +52,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "Planar Keys, [[Equipment/Magic Wand (7th-Rank Spell)|Wand of Eclipse Burst (Rank 7)]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Poison Sense (Precise) 30 feet"
@@ -60,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +29 ()\n__Damage__  3d12 + 14 piercing plus karumzek-venom"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+29 ()\n__Damage__  3d12 + 14 piercing plus karumzek-venom"
 
   - name: "Divine Prepared Spells"
     desc: "DC 36, attack +28; __7th __  _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Execute|Execute]]_, _[[Spells/Interplanar Teleport|Interplanar Teleport]]_; __6th __  _[[Spells/Spirit Blast|Spirit Blast]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __  _[[Spells/Breath of Life|Breath of Life]]_, _[[Spells/Shadow Blast|Shadow Blast]]_; __4th __  _[[Spells/Fly|Fly]]_; __3rd __  _[[Spells/Blindness|Blindness]]_; __2nd __  _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/See the Unseen|See the Unseen]]_, _[[Spells/Spiritual Armament|Spiritual Armament]]_, _[[Spells/Translate|Translate]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Message|Message]]_, _[[Spells/Void Warp|Void Warp]]_"

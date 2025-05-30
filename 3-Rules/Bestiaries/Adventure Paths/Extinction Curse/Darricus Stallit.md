@@ -61,19 +61,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword +21 (magical)\n__Damage__  2d8 + 9 slashing"
+  - name: "**Melee** `pf2:1` Bastard Sword"
+    desc: "+21 (magical)\n__Damage__  2d8 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +16 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+16 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 6 piercing"
 
   - name: "[[Bestiary Ability Glossary/Power Attack|Power Attack]]"
-    desc: "`pf2:2`  "
+    desc: "`pf2:2`  **Frequency** once per round\n* * *\n\n**Effect** The monster makes a melee Strike. This counts as two attacks when calculating the monster's multiple attack penalty. If this Strike hits, the monster deals an extra die of weapon damage."
 
   - name: "Swipe"
     desc: "`pf2:2`  Darricus makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within his melee reach and adjacent to each other. He rolls damage only once and applies it to each creature he hit. This Strike counts as two attacks for calculating his multiple attack penalty."

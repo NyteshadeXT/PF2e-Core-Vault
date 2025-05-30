@@ -8,8 +8,7 @@ tags:
   - trait/exploration
   - trait/linguistic
   - trait/mental
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q"
@@ -17,14 +16,14 @@ license: ORC
 ---
 # Make an Impression
 
-### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Concentrate]][[exploration]][[linguistic]][[3-Rules/Rule References/Mental]][[skill]]
+### [[auditory]][[concentrate]][[exploration]][[linguistic]][[mental]]
 
 **Category** interaction; 
 
 
 
 
-With at least 1 minute of conversation, during which you engage in charismatic overtures, flattery, and other acts of goodwill, you seek to make a good impression on someone to make them temporarily agreeable. At the end of the conversation, attempt a Diplomacy check against the Will DC of one target. You can instead choose up to five targets if you take a –2 penalty. The GM might add other bonuses or penalties based on the situation. Any impression you make lasts for only the current social interaction unless the GM decides otherwise. See Changing Attitudes below for a summary of the attitude conditions.
+With at least 1 minute of conversation, during which you engage in charismatic overtures, flattery, and other acts of goodwill, you seek to make a good impression on someone to make them temporarily agreeable. At the end of the conversation, attempt a [[Actions/make-an-impression|make-an-impression]]{Diplomacy} check against the Will DC of one target. You can instead choose up to five targets if you take a –2 penalty. The GM might add other bonuses or penalties based on the situation. Any impression you make lasts for only the current social interaction unless the GM decides otherwise. See Changing Attitudes below for a summary of the attitude conditions.
 
 * * *
 

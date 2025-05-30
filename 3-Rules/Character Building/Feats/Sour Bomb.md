@@ -29,5 +29,5 @@ You can mix ingredients with a powerful sour smell into an alchemical bomb to ma
 
 **Critical Failure** The creature is [[Conditions/Sickened|Sickened 2]], and [[Conditions/Fleeing|Fleeing]] for 1 round from the smell.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -33,7 +33,7 @@ You roll a handful of bones to learn (or perhaps influence) the future course of
 
 **1 Good** You or an ally within 30 feet can roll twice on your next attack roll or skill check, taking the higher result. This is a fortune effect. [[Feat_Feature Effects/Effect_ Roll the Bones of Fate (Good)|Effect: Roll the Bones of Fate (Good)]]
 
-**2 Bad** One creature you are observing within 30 feet must succeed at a Will save against your spellcasting DC; on a failure, the target must roll twice on their next attack roll or skill check that takes at least one action to perform, taking the lower result. This is a misfortune effect.
+**2 Bad** One creature you are observing within 30 feet must succeed at a Will save against your spell DC; on a failure, the target must roll twice on their next attack roll or skill check that takes at least one action to perform, taking the lower result. This is a misfortune effect.
 
 **3 Mixed** You gain the benefits of rolling both a 1 and a 2.
 

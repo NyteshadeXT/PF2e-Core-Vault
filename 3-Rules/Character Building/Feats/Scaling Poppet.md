@@ -20,5 +20,5 @@ license: OGL
 
 Your construction integrates ropes, hooks, or other tools to help you move across steep surfaces. You gain a climb Speed of 15 feet.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

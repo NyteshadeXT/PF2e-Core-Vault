@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "Golden Sun"
@@ -61,23 +64,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +30 (finesse, fire, magical)\n__Damage__  3d6 + 14 piercing 3d6 fire"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+30 (finesse, fire, magical, unarmed)\n__Damage__  3d6 + 14 piercing 3d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +30 (agile, finesse, fire, magical)\n__Damage__  3d4 + 14 piercing 3d6 fire"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+30 (agile, finesse, fire, magical, unarmed)\n__Damage__  3d4 + 14 piercing 3d6 fire"
 
   - name: "Fiery Transformation"
-    desc: "`pf2:2` (concentrate,fire,polymorph,primal) The sanzuwu transforms into an enormous bird made of flame. As the sanzuwu begins their transformation, creatures within a @Template[emanation|distance:10] take 6d8 fire damage (DC 33 Reflex check save). While in their flame form, the sanzuwu gains the effects of 4th-rank [[Spells/Enlarge|Enlarge]]. They can use Fiery Transformation again to revert back to their standard form."
+    desc: "`pf2:2` (concentrate,fire,polymorph,primal) The sanzuwu transforms into an enormous bird made of flame. As the sanzuwu begins their transformation, creatures within a 10-foot emanation take 6d8 fire damage (DC 33 Reflex check save). While in their flame form, the sanzuwu gains the effects of 4th-rank [[Spells/Enlarge|Enlarge]]. They can use Fiery Transformation again to revert back to their standard form."
 
   - name: "Radiant Blast"
-    desc: "`pf2:2` (fire,primal) The sanzuwu opens their mouth to produce a bead of burning energy, hurling it a point within 200 feet. The bead detonates, dealing 7d8 fire damage and 4d10 sonic damage to all creatures in a @Template[burst|distance:30] (DC 33 Reflex check save). Creatures that critically fail become [[Conditions/Blinded|Blinded]] for 1 round. The sanzuwu can't use Radiant Blast again for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) The sanzuwu opens their mouth to produce a bead of burning energy, hurling it a point within 200 feet. The bead detonates, dealing 7d8 fire damage and 4d10 sonic damage to all creatures in a 30-foot burst (DC 33 Reflex check save). Creatures that critically fail become [[Conditions/Blinded|Blinded]] for 1 round. The sanzuwu can't use Radiant Blast again for 1d4 rounds."
 
   - name: "Scorch Earth"
     desc: "`pf2:2`  **Requirements** The sanzuwu is standing on the ground\n* * *\n\n**Effect** The sanzuwu Strides. A 6th-rank [[Spells/Wall of Fire|Wall of Fire]] appears in all the spaces the sanzuwu left during this movement, lasting for 1 round. The sanzuwu can't use Scorch Earth again for 1d4 rounds."
 
   - name: "Transfixing Sunbeam"
-    desc: "`pf2:2` (incapacitation,light,primal) **Requirements** The sanzuwu is in their fiery form\n* * *\n\n**Effect** The sanzuwu spreads their wings, emitting a bright cascade of light in a @Template[cone|distance:30]. Creatures in the cone must attempt a DC 33 Fortitude check save.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Stunned|Stunned 1]].\n\n**Critical Failure** The creature is [[Conditions/Stunned|Stunned 2]]."
+    desc: "`pf2:2` (incapacitation,light,primal) **Requirements** The sanzuwu is in their fiery form\n* * *\n\n**Effect** The sanzuwu spreads their wings, emitting a bright cascade of light in a 30-foot cone. Creatures in the cone must attempt a DC 33 Fortitude check save.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Stunned|Stunned 1]].\n\n**Critical Failure** The creature is [[Conditions/Stunned|Stunned 2]]."
  
 ```
 

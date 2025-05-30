@@ -21,5 +21,5 @@ Granted by [[Feats/Protective Cycle|Protective Cycle]]
 
 You gain a +2 circumstance bonus to AC.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

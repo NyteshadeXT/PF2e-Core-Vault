@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Vampire, Jiang-Shi, Minister) Dark Enlightenment"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.xwbiTvx3qyVEOqh6"
 license: OGL

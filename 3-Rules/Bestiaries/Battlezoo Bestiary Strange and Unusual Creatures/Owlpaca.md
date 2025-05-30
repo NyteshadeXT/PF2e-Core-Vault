@@ -33,7 +33,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +9, Intimidation: +7, Acrobatics: +9, Athletics: +9, Intimidation: +7"
+    desc: "Acrobatics: +9, Athletics: +9, Intimidation: +7"
 abilityMods: [4, 2, 4, -4, 3, 0]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -54,11 +54,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +12 ()\n__Damage__  1d10 + 6 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+12 ()\n__Damage__  1d10 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +10 (range 15 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+10 (range 15 feet)\n__Damage__ "
 
   - name: "Eye Peck"
     desc: "`pf2:2`  The owlpaca pecks a creature's eyes, using its long neck to reach them. The owlpaca makes a beak Strike against a Large or smaller creature with eyes. If the Strike hits, the creature takes 1d4 persistent bleed damage and is [[undefined]] until it removes the bleed damage. If the creature is also sickened by owlpaca spit, it's [[undefined]] until it either removes the bleed damage or the sickened condition."

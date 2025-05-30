@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 30 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Twilight Spirit"
@@ -58,23 +61,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 ()\n__Damage__  2d8 + 7 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (unarmed)\n__Damage__  2d8 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +14 (agile)\n__Damage__  2d6 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+14 (agile)\n__Damage__  2d6 + 7 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bone Javelin +11 (thrown 30 ft.)\n__Damage__  2d6 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Bone Javelin"
+    desc: "+11 (thrown 30 ft.)\n__Damage__  2d6 + 7 piercing"
 
   - name: "Fossil Fury"
-    desc: "`pf2:2` (earth,primal) **Frequency** once per hour\n* * *\n\n**Effect** s The iruxi ossature beckons with glowing hands, commanding the earth to trip up opponents and marshaling the bone walls of its protectorate to lash out at intruders. The floor in a @Template[cone|distance:30] in front of the ossature becomes difficult terrain for 1 minute. Any square of a wall built by iruxis that's in the cone lashes out, with fossilized claws damaging any enemy within 5 feet of the wall. This deals 6d6 piercing damage with a DC 22 Reflex check. A creature attempts the save only once, even if adjacent to more than one affected square of the wall. Fossil Fury has no effect on the ossature's allies and never damages iruxi eggs."
+    desc: "`pf2:2` (earth,primal) **Frequency** once per hour\n* * *\n\n**Effect** s The iruxi ossature beckons with glowing hands, commanding the earth to trip up opponents and marshaling the bone walls of its protectorate to lash out at intruders. The floor in a 30-foot cone in front of the ossature becomes difficult terrain for 1 minute. Any square of a wall built by iruxis that's in the cone lashes out, with fossilized claws damaging any enemy within 5 feet of the wall. This deals 6d6 piercing damage with a DC 22 Reflex check. A creature attempts the save only once, even if adjacent to more than one affected square of the wall. Fossil Fury has no effect on the ossature's allies and never damages iruxi eggs."
 
   - name: "Terrain Advantage"
     desc: "  Non-lizardfolk creatures in difficult terrain and non-lizardfolk creatures that are in water and lack a swim Speed are [[Conditions/Off-Guard|Off-Guard]] to the iruxi ossature."
 
   - name: "Totems of the Past"
-    desc: "`pf2:2` (mental,primal) The iruxi ossature visits visions made of starlight, resembling totemic paintings or constellation diagrams, upon creatures in a @Template[emanation|distance:30]. Any lizardfolk allies in the area are inspired, gaining a +1 status bonus to attack rolls, and each enemy in the area must succeed at a DC 21 Will check save or be [[Conditions/Dazzled|Dazzled]]. Both effects last for 1 minute or until the ossature is destroyed, whichever comes first.\n\n[[Bestiary Effects/Effect_ Totems of the Past|Effect: Totems of the Past]]"
+    desc: "`pf2:2` (mental,primal) The iruxi ossature visits visions made of starlight, resembling totemic paintings or constellation diagrams, upon creatures in a 30-foot emanation. Any lizardfolk allies in the area are inspired, gaining a +1 status bonus to attack rolls, and each enemy in the area must succeed at a DC 21 Will check save or be [[Conditions/Dazzled|Dazzled]]. Both effects last for 1 minute or until the ossature is destroyed, whichever comes first.\n\n[[Bestiary Effects/Effect_ Totems of the Past|Effect: Totems of the Past]]"
  
 ```
 

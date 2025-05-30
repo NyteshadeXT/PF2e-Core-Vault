@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-You reach into another creature's timeline and attempt to alter their flow of time. Select a creature within 30 feet. That creature attempts a Fortitude check saving throw against your chronoskimmer DC. The creature takes the effects of [[Slow|Slow]] based on the result of its saving throw.
+You reach into another creature's timeline and attempt to alter their flow of time. Select a creature within 30 feet. That creature attempts a Fortitude check saving throw against your chronoskimmer DC. The creature takes the effects of [[Spells/Slow|Slow]] based on the result of its saving throw.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Walk on the Wind
 ## Feat 16
-### [rare](rare.md "Rare Rarity Trait")[[aftermath]][[3-Rules/trait_reference/A/air]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[aftermath]][[air]][[magical]]
 
 **Category** class; 
 

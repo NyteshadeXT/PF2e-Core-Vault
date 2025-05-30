@@ -52,7 +52,7 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Staff of Healing (Major)|Staff of Healing (Major)]], [[Equipment/Explorer's Clothing|+1 Explorer's Clothing]], [[Equipment/Religious Symbol (Wooden)|Religious Symbol of Pharasma]], Key Ring, [[Equipment/Scroll of 3rd-rank Spell|Scroll of Blindness (Level 3)]], [[Equipment/Scroll of 3rd-rank Spell|Scroll of Crisis of Faith (Level 3)]], 4x [[Equipment/Scroll of 5th-rank Spell|Scroll of Heal (Level 5)]], [[Equipment/Scroll of 5th-rank Spell|Scroll of Flame Strike (Level 5)]], 3x [[Equipment/Scroll of 4th-rank Spell|Scroll of Sound Burst (Level 4)]]"
+    desc: "[[Equipment/Staff of Healing (Major)|Staff of Healing (Major)]], [[Equipment/Explorer's Clothing|+1 Explorer's Clothing]], [[Equipment/Religious Symbol (Wooden)|Religious Symbol of Pharasma]], Key Ring, [[Equipment/Scroll of 3rd-rank Spell|Scroll of Blindness (Level 3)]], [[Equipment/Scroll of 3rd-rank Spell|Scroll of Crisis of Faith (Level 3)]], [[Equipment/Scroll of 5th-rank Spell|Scroll of Flame Strike (Level 5)]], 3x [[Equipment/Scroll of 4th-rank Spell|Scroll of Sound Burst (Level 4)]], 4x [[Equipment/Scroll of 5th-rank Spell|Scroll of Heal (Rank 5)]]"
 abilities_mid:
   - name: ""
   - name: "False Faith"
@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +16 (two-hand d8)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+16 (two-hand d8)\n__Damage__  1d4 + 4 bludgeoning"
 
   - name: "Rituals"
-    desc: "_[[Spells/Call Spirit|Call Spirit]]_, _[[Spells/Rest Eternal|Rest Eternal]]_"
+    desc: "_Call Spirit_, _Rest Eternal_"
 
   - name: "Trick Item"
     desc: "`pf2:1` (manipulate) Abridan attempts to trick his staff or a scroll by attempting a Religion check against the item's Trick DC.\n* * *\n\n**Success** For the rest of his turn, Abridan can spend actions to activate the staff or scroll as if he could normally use it.\n\n**Failure** Abridan can't use the item or try to trick it again this turn, but can try again on subsequent turns.\n\n**Critical Failure** Abridan can't use the item, and can't try to trick it again until his next daily preparation at sunrise.\n* * *\n\nThe trick DCs for Abridan's items are as follows:\n\n*   **Major Staff of Healing** DC 30 Religion check\n*   **Scroll of Blindness** DC 20 Religion check\n*   **Scroll of Crisis of Faith** DC 20 Religion check\n*   **Scroll of Heal** DC 26 Religion check\n*   **Scroll of Flame Strike** DC 26 Religion check\n*   **Scroll of Sound Burst** DC 23 Religion check"

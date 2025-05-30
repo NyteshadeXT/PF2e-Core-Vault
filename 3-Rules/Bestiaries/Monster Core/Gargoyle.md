@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 ()\n__Damage__  2d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (unarmed)\n__Damage__  2d8 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile)\n__Damage__  2d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, unarmed)\n__Damage__  2d6 + 3 slashing"
 
   - name: "Statue"
     desc: "`pf2:1` (concentrate) Until the next time it acts, the gargoyle appears to be a statue. It has an automatic result of 32 on Deception checks and DCs to pass as a statue."

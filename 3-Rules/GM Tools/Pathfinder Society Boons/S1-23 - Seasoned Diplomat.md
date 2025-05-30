@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-23 - Seasoned Diplomat"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.0CqkYRFUlb0tB9li"
 license: OGL
 ---
 # S1-23 - Seasoned Diplomat
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

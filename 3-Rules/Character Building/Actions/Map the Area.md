@@ -4,14 +4,14 @@ title: "Map the Area"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.Ba9EuLV1I2b1ue9P"
 license: OGL
 ---
 # Map the Area
 
-### [[3-Rules/Rule References/Concentrate]]
+### [[concentrate]]
 
 **Category** interaction; 
 

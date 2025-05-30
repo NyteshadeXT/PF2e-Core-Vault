@@ -27,5 +27,5 @@ license: ORC
 
 You harden your form as you dance between shapes. You gain temporary Hit Points equal to your level that last for 1 minute.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -57,19 +57,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Tail Lash"
-    desc: "`pf2:r`  **Trigger** A creature within reach of the river drake's tail uses an action to Strike or attempt a skill check.\n* * *\n\n**Effect** The river drake attempts to Strike the triggering creature with its tail. If it hits, the creature takes a -2 circumstance penalty to the triggering roll.\n\n[[Bestiary Effects/Effect_ Tail Lash (Attack Roll)|Effect: Tail Lash (Attack Roll)]]\n\n[[Bestiary Effects/Effect_ Tail Lash (Skill Check)|Effect: Tail Lash (Skill Check)]]"
+    desc: "`pf2:r`  **Trigger** A creature within reach of the river drake's tail uses an action to Strike or attempt a skill check.\n* * *\n\n**Effect** The river drake attempts to Strike the triggering creature with its tail. If it hits, the creature takes a -2 circumstance penalty to the triggering roll.\n\n[[Bestiary Effects/Effect_ Tail Lash|Effect: Tail Lash]]"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +12 ()\n__Damage__  2d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+12 ()\n__Damage__  2d8 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +12 (reach 10 feet)\n__Damage__  2d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+12 (reach 10 feet)\n__Damage__  2d6 + 3 bludgeoning"
 
   - name: "Caustic Mucus"
-    desc: "`pf2:2` (acid,primal) The river drake spits a ball of caustic mucus up to a range of 50 feet that explodes in a @Template[burst|distance:10]. Creatures within the burst take 4d6 acid damage (DC 19 Reflex check save). Those that fail this save also take 1d6 persistent acid damage and take a –5-foot status penalty to their Speed. This Speed reduction ends with the persistent acid damage.\n\nThe river drake can't use Caustic Mucus again for 1d6 rounds.\n\n[[Bestiary Effects/Effect_ Caustic Mucus|Effect: Caustic Mucus]]"
+    desc: "`pf2:2` (acid,primal) The river drake spits a ball of caustic mucus up to a range of 50 feet that explodes in a 10-foot burst. Creatures within the burst take 4d6 acid damage (DC 19 Reflex check save). Those that fail this save also take 1d6 persistent acid damage and take a –5-foot status penalty to their Speed. This Speed reduction ends with the persistent acid damage.\n\nThe river drake can't use Caustic Mucus again for 1d6 rounds.\n\n[[Bestiary Effects/Effect_ Caustic Mucus|Effect: Caustic Mucus]]"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The river drake makes one Fangs Strike and two Tail Strikes in any order."

@@ -37,7 +37,7 @@ perception:
 languages: "Common, Fey, Gnomish; thrallspeech"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19, Crafting: +22, Deception: +22, Nature: +19, Society: +19, Stealth: +22, Survival: +19, Thievery: +19, Acrobatics: +19, Crafting: +22, Deception: +22, Nature: +19, Society: +19, Stealth: +22, Survival: +19, Thievery: +19"
+    desc: "Acrobatics: +19, Crafting: +22, Deception: +22, Nature: +19, Society: +19, Stealth: +22, Survival: +19, Thievery: +19"
 abilityMods: [5, 7, 5, 4, 7, 5]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (agile, finesse, magical)\n__Damage__  2d12 + 11 slashing plus ascending-critical"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (agile, finesse, magical)\n__Damage__  2d12 + 11 slashing plus ascending-critical"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +23 (deadly d10, magical, range increment 60 feet, reload 0)\n__Damage__  2d6 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+23 (deadly d10, magical, range increment 60 feet, reload 0)\n__Damage__  2d6 + 8 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 29, attack +21; __5th __  _[[Spells/Locate|Locate (Thrall Only) (x2)]]_; __4th __  _[[Spells/Darkness|Darkness (x2)]]_, _[[Spells/Translocate|Dimension Door (x2)]]_; __3rd __  _[[Spells/Haste|Haste]]_; __2nd __  _[[Spells/Entangling Flora|Entangle (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

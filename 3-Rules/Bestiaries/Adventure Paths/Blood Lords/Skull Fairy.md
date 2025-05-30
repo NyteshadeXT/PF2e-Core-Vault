@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_Skull_Fairy.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Skull Fairy"
 level: "Creature 3"
@@ -63,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +11 (agile, finesse, magical)\n__Damage__  1d10 + 4 bludgeoning plus skull-twist"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+11 (agile, finesse, magical, unarmed)\n__Damage__  1d10 + 4 bludgeoning plus skull-twist"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Faerie Fire|Faerie Fire]]_; __1st __  _[[Spells/Fear|Fear]]_\n__Cantrips__  __(2nd)__ _[[Spells/Telekinetic Hand|Mage Hand]]_"

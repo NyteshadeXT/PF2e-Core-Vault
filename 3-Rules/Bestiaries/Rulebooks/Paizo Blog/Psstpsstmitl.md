@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +38 (finesse)\n__Damage__  4d10 + 24 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+38 (finesse, unarmed)\n__Damage__  4d10 + 24 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +38 (agile, finesse, reach 20 feet)\n__Damage__  4d6 + 17 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+38 (agile, finesse, reach 20 feet, unarmed)\n__Damage__  4d6 + 17 slashing"
 
   - name: "Pounce"
     desc: "`pf2:1`  The psstpsstmitl Strides and makes a Strike at the end of that movement. If the psstpsstmitl began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."
@@ -71,10 +71,10 @@ attacks:
     desc: "  The psstpsstmitl deals 2d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures"
 
   - name: "Topple"
-    desc: "`pf2:2`  The psstpsstmitl swipes one giant paw across the battlefield in a @Template[cone|distance:30]. All creatures in the cone must attempt a Reflex save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is pushed 10 feet away from the psstpsstmitl and is knocked [[Conditions/Prone|Prone]]\n\n**Failure** The target is pushed 20 feet away from the psstpsstmitl and is knocked prone.\n\n**Critical Failure** As failure, and the target is [[Conditions/Stunned|Stunned 2]]"
+    desc: "`pf2:2`  The psstpsstmitl swipes one giant paw across the battlefield in a 30-foot cone. All creatures in the cone must attempt a Reflex save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is pushed 10 feet away from the psstpsstmitl and is knocked [[Conditions/Prone|Prone]]\n\n**Failure** The target is pushed 20 feet away from the psstpsstmitl and is knocked prone.\n\n**Critical Failure** As failure, and the target is [[Conditions/Stunned|Stunned 2]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

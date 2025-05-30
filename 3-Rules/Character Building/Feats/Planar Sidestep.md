@@ -34,5 +34,5 @@ license: OGL
 
 You shift your body briefly between planes, reducing the damage from your foe's attack. You gain resistance 25 to all damage against the triggering attack. Observers simply see you shimmer with elemental energy for a moment, just as the attack lands.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

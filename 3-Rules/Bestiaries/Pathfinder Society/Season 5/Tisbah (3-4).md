@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Visap +10 (agile, finesse, injection, versatile p)\n__Damage__  1d4 slashing plus vishkanyan-venom"
+  - name: "**Melee** `pf2:1` Visap"
+    desc: "+10 (agile, finesse, injection, versatile p)\n__Damage__  1d4 slashing plus vishkanyan-venom"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 21, attack +13; __2nd __ (2 slots) _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __ (2 slots) _[[Spells/Dizzying Colors|Dizzying Colors]]_, _[[Spells/Force Barrage|Force Barrage]]_, _[[Spells/Kinetic Ram|Kinetic Ram]]_\n__Cantrips__  __(2nd)__ _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_ __(1st)__ _[[Spells/Telekinetic Rend|Telekinetic Rend]]_"
@@ -75,7 +75,7 @@ attacks:
     desc: "  Tisbah's range for [[Spells/Telekinetic Projectile|Telekinetic Projectile]] increases to 60 feet."
 
   - name: "Unleash Psyche"
-    desc: "  **Trigger** Tisbah's starts her turn with half or less Hit Points remaining\n* * *\n\n**Effect** Tisbah is surrounded by a swirl of psychic energy that effortlessly moves small objects around her. She deals 2d6 force damage to all creatures in a @Template[emanation|distance:20] (DC 21 Reflex check save) and is [[Conditions/Stunned|Stunned 1]]. She gains a +4 status bonus to damage when casting telekinetic projectile or telekinetic rend. This effect remains for 2 rounds or until Tisbah is [[Conditions/Unconscious|Unconscious]], whichever comes first."
+    desc: "  **Trigger** Tisbah's starts her turn with half or less Hit Points remaining\n* * *\n\n**Effect** Tisbah is surrounded by a swirl of psychic energy that effortlessly moves small objects around her. She deals 2d6 force damage to all creatures in a 20-foot emanation (DC 21 Reflex check save) and is [[Conditions/Stunned|Stunned 1]]. She gains a +4 status bonus to damage when casting telekinetic projectile or telekinetic rend. This effect remains for 2 rounds or until Tisbah is [[Conditions/Unconscious|Unconscious]], whichever comes first."
 
   - name: "Vishkanyan Venom"
     desc: " (injury,poison) **Saving Throw** DC 21 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage (1 round)\n\n**Stage 2** 1d4 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 3** 1d4 poison damage, off-guard, and a –5-foot penalty to Speed (1 round)"

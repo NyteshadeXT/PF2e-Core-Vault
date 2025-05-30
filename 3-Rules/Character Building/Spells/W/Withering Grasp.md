@@ -14,8 +14,9 @@ tags:
   - trait/void
   - trait/common
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.7tp97g0UCJ9wOrd5" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Withering Grasp  `pf2:2`"
@@ -36,6 +37,6 @@ abilities_top:
     desc: "touch; **Targets** 1 creature or object"
 abilities_mid:
   - name: ""
-    desc: "Your touch rots organic material and decays objects. Make a melee spell attack roll. Your touch deals 1d12 void damage plus 1d4 persistent void damage. If a creature uses an item to block _withering grasp_, such as with the Shield Block reaction, the item is automatically affected, but the creature does not take damage (even if there is damage left over after the shield's Hardness). Unlike normal void damage, the void damage from _withering grasp_ damages objects, constructs, and the like by eroding them away.\n* * *\n\n**Critical Success** Your touch deals double damage (both initial and persistent). If you target an object, lower its Hardness by 4 for 1 minute.\n\n**Success** Your touch deals full damage. If you target an object, lower its Hardness by 2 for 1 minute.\n* * *\n\n**Heightened (+1)** The damage increases by 1d12 and the persistent damage increases by 1. If you target an object, lower its Hardness by an additional 1 point on both a success and a critical success."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+    desc: "Your touch rots organic material and decays objects. Make a spell attack against the target's AC. Your touch deals 1d12 void damage plus 1d4 persistent void damage. If a creature uses an item to block withering grasp, such as with the Shield Block reaction, the item is automatically affected, but the creature doesn't take damage (even if there is damage left over after the shield's Hardness). Unlike normal void damage, the void damage from withering grasp damages objects, constructs, and the like by eroding away their substance.\n* * *\n\n**Critical Success** Your touch deals double damage (both initial and persistent). If you target an object, lower its Hardness by 4 for 1 minute.\n\n**Success** Your touch deals full damage. If you target an object, lower its Hardness by 2 for 1 minute.\n* * *\n\n**Heightened (+1)** The damage increases by 1d12 and the persistent damage increases by 1. If you target an object, lower its Hardness by an additional 1 point on both a success and a critical success."
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

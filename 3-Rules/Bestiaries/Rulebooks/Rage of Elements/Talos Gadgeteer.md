@@ -53,7 +53,7 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "3x [[Equipment/Light Hammer|Light Hammer]], [[Equipment/Leather Armor|Leather Armor]], [[Equipment/Artisan's Toolkit|Artisan's Tools]], [[Equipment/Formula Book (Blank)|Formula Book (Blank)]], [[Equipment/Ablative Shield Plating (Lesser)|Ablative Shield Plating (Lesser)]], [[Equipment/Blast Boots (Lesser)|Blast Boots (Lesser)]], 3x [[Equipment/Explosive Mine (Lesser)|Explosive Mine (Lesser)]]"
+    desc: "3x [[Equipment/Light Hammer|Light Hammer]], [[Equipment/Leather Armor|Leather Armor]], [[Equipment/Artisan's Toolkit|Artisan's Tools]], [[Equipment/Formula Book (Blank)|Formula Book (Blank)]], [[Equipment/Blast Boots (Lesser)|Blast Boots (Lesser)]], 3x [[Equipment/Explosive Mine (Lesser)|Explosive Mine (Lesser)]], [[Equipment/Ablative Armor Plating (Lesser)|Ablative Armor Plating (Lesser)]]"
 abilities_mid:
   - name: ""
   - name: "Reflective Defense"
@@ -62,14 +62,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +8 (agile, finesse, versatile s)\n__Damage__  1d6 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+8 (agile, finesse, unarmed, versatile s)\n__Damage__  1d6 + 1 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Hammer +6 (agile)\n__Damage__  1d6 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Light Hammer"
+    desc: "+6 (agile)\n__Damage__  1d6 + 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +8 (agile, thrown 20 ft.)\n__Damage__  1d6 + 1 bludgeoning"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+8 (agile, thrown 20 ft.)\n__Damage__  1d6 + 1 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 14, attack +6\n__Cantrips__  __(1st)__ _[[Spells/Detect Metal|Detect Metal]]_"

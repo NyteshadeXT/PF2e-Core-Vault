@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Feats/Benefactor's Majesty|Benefactor's Majesty]]
+
 You gain temporary Hit Points equal to your level.
 
 *Source: Pathfinder Player Core 2*

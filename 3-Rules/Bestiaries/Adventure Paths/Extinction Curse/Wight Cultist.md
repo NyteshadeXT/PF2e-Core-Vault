@@ -58,14 +58,17 @@ abilities_mid:
   - name: "Dreadful Spite"
     desc: "`pf2:r`  **Trigger** The wight cultist is reduced to 0 Hit Points\n* * *\n\n**Effect** The wight makes a Strike before being destroyed. It doesn't gain any temporary HP from drain life on this Strike. A creature hit by this Strike is also [[Conditions/Doomed|Doomed 1]] for 1 minute."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ranseur +26 (disarm, magical, reach)\n__Damage__  2d10 + 13 piercing plus drain-life"
+  - name: "**Melee** `pf2:1` Ranseur"
+    desc: "+26 (disarm, magical, reach)\n__Damage__  2d10 + 13 piercing plus drain-life"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +25 ()\n__Damage__  3d6 + 13 bludgeoning plus drain-life"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+25 (unarmed)\n__Damage__  3d6 + 13 bludgeoning plus drain-life"
 
   - name: "Divine Innate Spells"
     desc: "DC 29, attack +19; __6th __ (1 slots) _[[Spells/Wave of Despair|Crushing Despair]]_; __5th __ (2 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Downpour|Downpour]]_; __3rd __ (1 slots) _[[Spells/Paralyze|Paralyze (At Will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Shield|Shield]]_"

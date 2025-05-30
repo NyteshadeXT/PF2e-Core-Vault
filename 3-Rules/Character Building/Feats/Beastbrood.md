@@ -25,5 +25,5 @@ One of your ancestors was a rakshasa, the corrupt and aristocratic reincarnated 
 
 _Note: If you are already trained in the skill provided by this feat, you need to manually select an alternative skill._
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

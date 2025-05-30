@@ -12,7 +12,7 @@ license: ORC
 ---
 # Starlit Transformation `pf2:1`
 
-### [[3-Rules/Rule References/Arcane]]
+### [[arcane]]
 
 **Category** interaction; 
 
@@ -27,5 +27,5 @@ license: ORC
 
 While you're in sentinel form, your transformed weapon shines with starlight and gains a +1 status bonus to damage rolls with the weapon. You can fling bolts of starlight from your weapon with a Strike action, using your melee attack modifier with the weapon. These bolts deal 1d4 force damage, have a range of 60 feet, are affected by your weapon runes, and have the arcane and force traits.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

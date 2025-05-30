@@ -13,7 +13,7 @@ license: ORC
 ---
 # No Escape `pf2:r`
 ## Feat 2
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

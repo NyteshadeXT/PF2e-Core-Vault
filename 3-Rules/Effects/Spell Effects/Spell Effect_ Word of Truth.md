@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Word of Truth|Word of Truth]]
+Granted by [[Spells/Word of Truth|Word of Truth]]
 
 You gain a +2 status bonus to Diplomacy checks.
 

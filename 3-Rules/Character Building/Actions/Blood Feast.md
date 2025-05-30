@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Blood Feast"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.actionspf2e.Item.AOWwwXVDWwliFlWj"
 license: OGL
 ---

@@ -57,6 +57,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Greatsword|Greatsword]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Free Blade"
@@ -68,11 +71,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Holy Greatsword +33 (holy, magical, versatile p)\n__Damage__  3d12 + 16 slashing"
+  - name: "**Melee** `pf2:1` Holy Greatsword"
+    desc: "+33 (holy, magical, versatile p)\n__Damage__  3d12 + 16 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Ray +31 (holy, light, range increment 300 feet)\n__Damage__  3d12 spirit"
+  - name: "**Ranged** `pf2:1` Light Ray"
+    desc: "+31 (holy, light, range increment 300 feet)\n__Damage__  3d12 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 38, attack +30; __8th __ (1 slots) _[[Spells/Prismatic Wall|Prismatic Wall]]_; __7th __ (1 slots) _[[Spells/Chromatic Wall|Chromatic Wall]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Heal|Heal (x5)]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_; __6th __ (1 slots) _[[Spells/Illusory Scene|Illusory Scene]]_; __5th __ (1 slots) _[[Spells/Banishment|Banishment]]_; __4th __ (6 slots) _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_, _[[Spells/Restoration|Restoration]]_; __3rd __ (1 slots) _[[Spells/Mind Reading|Mind Reading]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Detect Alignment|Detect Alignment (At Will) (Evil Only)]]_, _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_\n__Cantrips__  __(7th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_\n__Constant__  __(7th)__ _[[Spells/See the Unseen|See Invisibility]]_ __(5th)__ _[[Spells/Truespeech|Tongues]]_"
@@ -81,7 +84,7 @@ attacks:
     desc: "DC 38, attack +30"
 
   - name: "Rituals"
-    desc: "_[[Spells/Resurrect|Resurrect]]_"
+    desc: "_Resurrect_"
 
   - name: "Choose Weakness"
     desc: "`pf2:1` (concentrate,divine,manipulate) A ghaele attempts to [[Actions/Recall Knowledge|Recall Knowledge]] about a foe they are facing.\n\nIf successful, they can change the elemental damage dealt by their greatsword and light ray to acid, cold, electricity, fire, or sonic, usually to match the foe's weakness.\n\nThey can also change their energy resistance to any of these energy types (this can be a different type than for their attacks).\n\nThe choices remain until they next use Choose Weakness."

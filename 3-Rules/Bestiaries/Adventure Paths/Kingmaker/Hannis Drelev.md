@@ -56,19 +56,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +26 (disarm, magical, versatile p)\n__Damage__  2d8 + 11 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+26 (disarm, magical, versatile p)\n__Damage__  2d8 + 11 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +25 (agile, sweep)\n__Damage__  1d6 + 11 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+25 (agile, sweep)\n__Damage__  1d6 + 11 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +23 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+23 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 6 piercing"
 
   - name: "Defensive Slice"
     desc: "`pf2:2`  **Requirement** Baron Drelev hasn't attempted a Strike during this turn.\n* * *\n\n**Effect** Baron Drelev assumes a defensive position with his weapons out, then attempts a melee Strike. He takes a -2 status penalty on all Strikes (including this one) and gains a +2 status bonus to his AC until the start of his next turn.\n\n[[Bestiary Effects/Effect_ Defensive Slice|Effect: Defensive Slice]]"

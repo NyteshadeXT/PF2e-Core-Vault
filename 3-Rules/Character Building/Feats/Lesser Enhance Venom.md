@@ -33,5 +33,5 @@ Your venom grows deadlier and more plentiful. You upgrade the vishkanyan venom y
 
 **Stage 3** 2d6 poison damage (1 round)
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

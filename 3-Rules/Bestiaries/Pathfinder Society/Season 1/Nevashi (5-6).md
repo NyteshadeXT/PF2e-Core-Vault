@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +15 (finesse, magical, unholy)\n__Damage__  2d6 + 4 piercing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+15 (finesse, magical, unholy)\n__Damage__  2d6 + 4 piercing 1d6 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile, finesse, magical, unholy)\n__Damage__  2d4 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, finesse, magical, unarmed, unholy)\n__Damage__  2d4 + 4 slashing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 22, attack +15; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Sigil|Sigil]]_"
@@ -75,7 +75,7 @@ attacks:
     desc: "DC 19, attack +11; __4th __  _[[Spells/Clairvoyance|Clairvoyance]]_; __3rd __  _[[Spells/Clairaudience|Clairaudience]]_, _[[Spells/Mind Reading|Mind Reading (At Will)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) Nevashi takes on the appearance of any Small humanoid. This doesn't change the dandasuka's Speed or its attack and damage modifiers with its Strikes, but it might change the damage type its Strikes deal. The type changes to bludgeoning when disguised as Rindle.\n\nHe typically loses his fangs Strike unless the humanoid form has fangs or a similar unarmed attack, which Rindle does not.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) Nevashi takes on the appearance of any Small humanoid. This doesn't change the dandasuka's Speed or its attack and damage modifiers with its Strikes, but it might change the damage type its Strikes deal. The type changes to bludgeoning when disguised as Rindle.\n\nHe typically loses his fangs Strike unless the humanoid form has fangs or a similar unarmed attack, which Rindle does not.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Nevashi deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

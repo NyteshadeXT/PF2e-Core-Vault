@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/PZO90183_KERINA_THE_LONELY_MAIDEN.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Kerinza"
 level: "Creature 12"
@@ -64,14 +65,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Mace +26 (agile, finesse, magical, shove)\n__Damage__  2d4 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Light Mace"
+    desc: "+26 (agile, finesse, magical, shove)\n__Damage__  2d4 + 8 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Snake Fangs +25 ()\n__Damage__  2d6 + 8 piercing plus serpent-venom"
+  - name: "**Melee** `pf2:1` Snake Fangs"
+    desc: "+25 ()\n__Damage__  2d6 + 8 piercing plus serpent-venom"
 
   - name: "Arcane Spontaneous Spells"
-    desc: "DC 32, attack +24; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Speak with Stones|Stone Tell]]_, _[[Spells/Stone to Flesh|Stone to Flesh]]_; __5th __ (3 slots) _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Mountain Resilience|Stoneskin]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 32, attack +24; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Speak with Stones|Stone Tell]]_, _[[Spells/Stone to Flesh|Stone to Flesh]]_; __5th __ (3 slots) _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Mountain Resilience|Stoneskin]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Focus Gaze"
     desc: "`pf2:1` (arcane,concentrate,incapacitation,visual) Kerinza fixes her glare on a creature she can see within 30 feet. The target must attempt a DC 32 Fortitude check save against Kerinza's petrifying gaze. If the target was already [[Conditions/Slowed|Slowed]] before attempting its save, a failed save causes it to be [[Conditions/Petrified|Petrified]] permanently. After attempting its save, the creature is then temporarily immune until the start of Kerinza's next turn."

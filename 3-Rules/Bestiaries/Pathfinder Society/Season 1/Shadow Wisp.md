@@ -59,11 +59,14 @@ abilities_mid:
   - name: "Light Weakness"
     desc: "  An object shedding magical light (such as from the [[Spells/Light|Light]] spell) deals additional damage to the shadow wisp."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shadow Tendril +8 (finesse, magical)\n__Damage__  1d6 void"
+  - name: "**Melee** `pf2:1` Shadow Tendril"
+    desc: "+8 (finesse, magical)\n__Damage__  1d6 void"
 
   - name: "Shroud"
     desc: "`pf2:1` (divine) **Requirements** The shadow wisp's previous action was a hit against an adjacent creature with its shadow tendril Strike.\n* * *\n\n**Effect** The shadow wisp [[Actions/Step|Steps]] into the creature's space and attempts an Acrobatics check check against the target's Reflex DC to attach itself to the target's shadow.\n\nAs long as it remains attached, it moves with the target and is [[Conditions/Off-Guard|Off-Guard]] to attacks from the target. The target can spend a move action on its turn to attempt a Reflex save against the wisp's Acrobatics DC to escape the shroud."

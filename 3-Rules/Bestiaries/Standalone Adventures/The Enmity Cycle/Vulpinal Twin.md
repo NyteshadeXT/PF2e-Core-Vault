@@ -55,16 +55,19 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Musical Instrument (Handheld)|Musical Instrument (Handheld)]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 (finesse, magical, unholy)\n__Damage__  2d10 + 4 piercing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (finesse, magical, unarmed, unholy)\n__Damage__  2d10 + 4 piercing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile, finesse, magical, unholy)\n__Damage__  2d6 + 4 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, finesse, magical, unarmed, unholy)\n__Damage__  2d6 + 4 slashing 1d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 24, attack +18; __4th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Divine Wrath|Divine Wrath]]_; __3rd __  _[[Spells/Agonizing Despair|Agonizing Despair]]_, _[[Spells/Blindness|Blindness]]_, _[[Spells/Noise Blast|Sound Burst]]_; __2nd __  _[[Spells/Deafness|Deafness]]_, _[[Spells/Detect Alignment|Detect Alignment (Good Only) (At Will)]]_, _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_\n__Constant__  __(5th)__ _[[Spells/Speak with Animals|Speak with Animals]]_, _[[Spells/Truespeech|Tongues]]_"

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Triton's Conch|Triton's Conch]]
+Granted by [[Equipment/Triton's Conch|Triton's Conch]]
+
+You gain a +2 item bonus to Athletics checks to Swim.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

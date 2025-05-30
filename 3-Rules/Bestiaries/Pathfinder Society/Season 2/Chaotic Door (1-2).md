@@ -3,7 +3,6 @@ title: Chaotic Door (1-2)
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
-  - chaotic
   - magical
   - trap
   - pf2eHazard
@@ -24,9 +23,8 @@ name: "Chaotic Door (1-2)"
 level: "Hazard 1"
 
 
-trait_01: [[chaotic]]
-trait_02: [[magical]]
-trait_03: [[trap]]
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 10
 sourcebook: "_Pathfinder Society Scenario #2-09: The Seven Secrets of Dacilane Academy_"
 ac: 19

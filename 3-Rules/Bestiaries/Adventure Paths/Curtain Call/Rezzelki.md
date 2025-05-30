@@ -52,6 +52,9 @@ abilities_top:
   - name: "Glutton Scent"
     desc: "  A rezzelki's scent ability becomes a precise sense against its favored meal."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Favored Meal"
@@ -63,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +22 (forceful, magical)\n__Damage__  2d12 + 10 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+22 (forceful, magical)\n__Damage__  2d12 + 10 bludgeoning plus knockdown"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +22 (agile, reach 10 feet)\n__Damage__  2d6 + 6 slashing 1d6 acid"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+22 (agile, reach 10 feet)\n__Damage__  2d6 + 6 slashing 1d6 acid"
 
   - name: "Primal Innate Spells"
     desc: "DC 29, attack +21\n__Constant__  __(5th)__ _[[Spells/Fly|Fly]]_"
@@ -76,7 +79,7 @@ attacks:
     desc: "`pf2:2` (attack) The rezzelki Strikes a target with a particularly powerful blow from its tail, with enough force to potentially pulverize bone. This Strike treats any object it hits as if it had half as much Hardness as usual, unless the object's hardness is greater than the rezzelki's level. If the Fracturing Smash hits, it deals two extra dice of weapon damage. A creature with a skeleton that takes damage must succeed at a DC 26 Fortitude check save or become [[Conditions/Clumsy|Clumsy 1]] ([[Conditions/Clumsy|Clumsy 2]] on a critical failure) by the Fracturing Smash as its bones are partially broken."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

@@ -67,8 +67,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +31 (agile, magical)\n__Damage__  3d12 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+31 (agile, magical, unarmed)\n__Damage__  3d12 + 13 slashing"
 
   - name: "Innate Occult Spells"
     desc: "DC 37, attack +29; __8th __  _[[Spells/Chain Lightning|Chain Lightning (Coven)]]_, _[[Spells/Lightning Bolt|Lightning Bolt (Coven)]]_, _[[Spells/Interplanar Teleport|Plane Shift (Coven)]]_, _[[Spells/Punishing Winds|Punishing Winds (Coven)]]_"

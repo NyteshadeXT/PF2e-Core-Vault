@@ -53,17 +53,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +27 (reach 10 feet)\n__Damage__  2d10 + 9 piercing plus caustic-monitor-venom,improved-grab 2d8 acid plus caustic-monitor-venom,improved-grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+27 (reach 10 feet, unarmed)\n__Damage__  2d10 + 9 piercing plus caustic-monitor-venom,improved-grab 2d8 acid plus caustic-monitor-venom,improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +27 ()\n__Damage__  2d8 + 13 slashing 2d6 bleed"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+27 (unarmed)\n__Damage__  2d8 + 13 slashing 2d6 bleed"
 
   - name: "Caustic Monitor Venom"
     desc: " (poison) **Saving Throw** DC 32 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 4d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 4d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
 
   - name: "Caustic Spray"
-    desc: "`pf2:2` (acid) The caustic monitor spits a spray of corrosive bile that deals 5d8 acid damage in a @Template[cone|distance:20] (DC 32 Reflex check save). It can't use Caustic Spray again for 1d4 rounds."
+    desc: "`pf2:2` (acid) The caustic monitor spits a spray of corrosive bile that deals 5d8 acid damage in a 20-foot cone (DC 32 Reflex check save). It can't use Caustic Spray again for 1d4 rounds."
 
   - name: "Corrosive Flesh"
     desc: "  A creature that touches the caustic monitor takes 2d8 acid damage (DC 32 Fortitude check save)."
@@ -73,6 +73,9 @@ attacks:
 
   - name: "Lurching Charge"
     desc: "`pf2:2`  The caustic monitor Strides twice, then makes a jaws Strike. If the monitor moved at least 20 feet away from its starting position, it gains a +2 circumstance bonus to this attack roll."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

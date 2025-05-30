@@ -36,6 +36,6 @@ abilities_top:
     desc: "1 minute"
 abilities_mid:
   - name: ""
-    desc: "Leathery wings sprout from your back, giving you a fly Speed of 60 feet or your Speed, whichever is faster. If you're still flying when this spell's duration would end, you float to the ground, as with the effects of [[Spells/Gentle Landing|Gentle Landing]].\n* * *\n\n**Heightened (8th)** The duration increases to 10 minutes.\n\n[[Spell Effects/Spell Effect_ Dragon Wings (60 Feet)|Spell Effect: Dragon Wings (60 Feet)]]\n\n[[Spell Effects/Spell Effect_ Dragon Wings (Own Speed)|Spell Effect: Dragon Wings (Own Speed)]]"
+    desc: "Leathery wings sprout from your back, giving you a fly Speed of 60 feet or your Speed, whichever is faster. If you're still flying when this spell's duration would end, you float to the ground, as with the effects of [[Spells/Gentle Landing|Gentle Landing]].\n* * *\n\n**Heightened (8th)** The duration increases to 10 minutes.\n\n[[Spell Effects/Spell Effect_ Dragon Wings|Spell Effect: Dragon Wings]]"
 sourcebook: "_Pathfinder Player Core 2_"
 ```

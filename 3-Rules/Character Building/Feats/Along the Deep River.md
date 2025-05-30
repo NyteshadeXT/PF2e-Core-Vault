@@ -12,7 +12,7 @@ license: ORC
 ---
 # Along the Deep River
 ## Feat 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Bestiaries/Bestiary 1/S/Sprite]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[sprite]]
 
 **Category** ancestry; 
 
@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-Once per year, when you die, you turn into an immaterial ball of light. After a week, you return to life with the effects of a successful (but not critically successful) 9th-rank [[Reincarnate|Reincarnate]] ritual. You always reincarnate into a sprite, but you _reincarnate_ as a randomly selected sprite heritage.
+Once per year, when you die, you turn into an immaterial ball of light. After a week, you return to life with the effects of a successful (but not critically successful) 9th-rank [[Spells/Reincarnate|Reincarnate]] ritual. You always reincarnate into a sprite, but you _reincarnate_ as a randomly selected sprite heritage.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

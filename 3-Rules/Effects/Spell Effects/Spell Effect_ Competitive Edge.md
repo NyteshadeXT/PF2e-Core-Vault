@@ -17,13 +17,9 @@ license: ORC
 
 
 
-Granted by [[Competitive Edge|Competitive Edge]].
+Granted by [[Spells/Competitive Edge|Competitive Edge]]
 
-You gain a +1 status bonus to attack rolls and skill checks. If an enemy within 20 feet critically succeeds at an attack roll or skill check, your status bonus increases to +3 attack rolls or that specific skill check (whichever the foe critically succeeded at) for 1 round.
-
-* * *
-
-**Heightened (7th)** Increase the base bonus to +2 and the increased bonus after an enemy critically succeeds to +4.
+You gain a status bonus to attack rolls and skill checks. This bonus increases if an enemy critically succeeds at an attack roll or skill check.
 
 *Source: Pathfinder Player Core*
 *ORC*

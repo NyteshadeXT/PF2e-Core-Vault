@@ -58,16 +58,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Cleaver +24 (forceful, sweep)\n__Damage__  2d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Cleaver"
+    desc: "+24 (forceful, sweep)\n__Damage__  2d8 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spiked Chain +22 (disarm, finesse, reach 15 feet, trip)\n__Damage__  2d8 + 6 piercing plus grab"
+  - name: "**Melee** `pf2:1` Spiked Chain"
+    desc: "+22 (disarm, finesse, reach 15 feet, trip)\n__Damage__  2d8 + 6 piercing plus grab"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Bloody Sneak Attack]]"
     desc: "  Any creature taking [[Conditions/Persistent Damage|Persistent Bleed Damage]] is [[Conditions/Off-Guard|Off-Guard]] against the Skinner's attacks. When attacking an off-guard creature, the Skinner deals an additional 2d6 precision damage."
@@ -85,7 +85,7 @@ attacks:
     desc: "`pf2:2`  **Requirements** The Skinner has a creature grabbed with her spiked chain\n* * *\n\n**Effect** The Skinner pulls the creature into the nearest open adjacent square and makes a cleaver Strike against the creature."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

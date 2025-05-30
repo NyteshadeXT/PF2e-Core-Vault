@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[3-Rules/Character Building/Equipment/A/Aeon Stone (Amplifying)|Aeon Stone (Amplifying)]]
+Granted by [[Equipment/Aeon Stone (Amplifying)|Aeon Stone (Amplifying)]]
 
 The resonant power grants you a +2 item bonus to Arcana, Nature, Occultism, or Religion checks-whichever corresponds to the tradition of the last spell you enhanced with this _aeon stone_.
 

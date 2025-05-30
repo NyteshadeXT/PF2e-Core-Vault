@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +17 (forceful, magical, sweep)\n__Damage__  2d6 + 12 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+17 (forceful, magical, sweep)\n__Damage__  2d6 + 12 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +16 (agile, magical, nonlethal)\n__Damage__  1d4 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+16 (agile, magical, nonlethal, unarmed)\n__Damage__  1d4 + 12 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +15 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+15 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 7 piercing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 24, attack +16; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (to Astral Plane, Elemental Planes, or Material Plane only)]]_; __2nd __  _[[Spells/Create Food|Create Food]]_, _[[Spells/Invisibility|Invisibility (x3)]]_, _[[Spells/Speak with Animals|Speak with Animals]]_; __1st __  _[[Spells/Create Water|Create Water]]_"

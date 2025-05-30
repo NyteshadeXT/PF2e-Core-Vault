@@ -37,7 +37,7 @@ perception:
 languages: "Common, Draconic"
 skills:
   - name: "Skills"
-    desc: "Arcana: +27, Athletics: +27, Crafting: +25, Deception: +30, Diplomacy: +27, Intimidation: +30, Society: +25, Stealth: +25, Arcana: +27, Athletics: +27, Crafting: +25, Deception: +30, Diplomacy: +27, Intimidation: +30, Society: +25, Stealth: +25"
+    desc: "Arcana: +27, Athletics: +27, Crafting: +25, Deception: +30, Diplomacy: +27, Intimidation: +30, Society: +25, Stealth: +25"
 abilityMods: [6, 0, 6, 6, 4, 7]
 speed: 25 feet,  climb 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -70,8 +70,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Superheated Tendril +30 (reach 10 feet)\n__Damage__  2d12 + 10 bludgeoning plus coin-brand 2d12 fire plus coin-brand"
+  - name: "**Melee** `pf2:1` Superheated Tendril"
+    desc: "+30 (reach 10 feet)\n__Damage__  2d12 + 10 bludgeoning plus coin-brand 2d12 fire plus coin-brand"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 36, attack +28; __8th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Quandary|Maze]]_, _[[Spells/Hidden Mind|Mind Blank]]_; __7th __ (4 slots) _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Tempest of Shades|Tempest of Shades]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

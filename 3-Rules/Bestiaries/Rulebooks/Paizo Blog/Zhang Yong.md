@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Soul Strike +23 (agile, finesse, nonlethal, unarmed)\n__Damage__  2d8 + 14 bludgeoning 1d6 spirit"
+  - name: "**Melee** `pf2:1` Soul Strike"
+    desc: "+23 (agile, finesse, nonlethal, unarmed)\n__Damage__  2d8 + 14 bludgeoning 1d6 spirit"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Greater Ghost Charge +23 (splash, thrown 10 ft.)\n__Damage__  3d8 vitality 3 vitality"
+  - name: "**Ranged** `pf2:1` Greater Ghost Charge"
+    desc: "+23 (splash, thrown 10 ft.)\n__Damage__  3d8 vitality 3 vitality"
 
   - name: "Disrupting Strikes"
     desc: "`pf2:1`  Zhang Yong calls forth vitality energy from within to help him destroy undead. His weapons and unarmed Strikes gain the effects of a greater disrupting property rune until the start of his next turn.\n* * *\n\nA Greater Disrupting weapon pulses with vitality energy, dealing an extra 2d6 vitality damage to undead On a critical hit, instead of being enfeebled 1, the undead creature must attempt a Fortitude check save with the following effects. This is an incapacitation effect.\n* * *\n\n**Critical Success** It's [[Conditions/Enfeebled|Enfeebled 1]] until the end of your next turn.\n\n**Success** It's [[Conditions/Enfeebled|Enfeebled 2]] until the end of your next turn.\n\n**Failure** It's [[Conditions/Enfeebled|Enfeebled 3]] until the end of your next turn.\n\n**Critical Failure** It's destroyed."

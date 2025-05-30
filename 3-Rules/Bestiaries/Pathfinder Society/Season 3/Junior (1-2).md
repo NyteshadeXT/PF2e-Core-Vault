@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +7 (agile, unarmed)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+7 (agile, unarmed)\n__Damage__  1d6 + 2 bludgeoning"
 
   - name: "Animate Assistants"
     desc: "`pf2:2` (arcane,concentrate) **Frequency** 4 times per day. Animated knickknacks present at the beginning of the encounter count toward this limit\n* * *\n\n**Effect** Junior animates an unattended mundane object within 5 feet. Because Junior is damaged, the construct can't control its assistants, so the object acts on its own. The object fights using the statistics for an animated knickknack, attacking the nearest living creatures. It ceases to be animated after 1 hour, or if Junior is disabled or destroyed."

@@ -31,7 +31,7 @@ trait_02: [[ethereal]]
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "+18; "
+    desc: "+18; Darkvision, Scent (Imprecise) 30 Feet"
 languages: ""
 skills:
   - name: "Skills"
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 ()\n__Damage__  2d10 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (unarmed)\n__Damage__  2d10 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile)\n__Damage__  2d8 + 8 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile, unarmed)\n__Damage__  2d8 + 8 slashing plus grab"
 
   - name: "Clouded Charge"
     desc: "`pf2:2` (concentrate,occult,visual) The mist bear Strides twice. During this movement, wisps of ethereal smoke trail from its body, making it [[Conditions/Concealed|Concealed]]. The mist bear then Strikes. The target is [[Conditions/Off-Guard|Off-Guard]] to this attack if the bear moved at least 20 feet."

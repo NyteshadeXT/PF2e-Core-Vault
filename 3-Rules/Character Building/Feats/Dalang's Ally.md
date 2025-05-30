@@ -14,7 +14,7 @@ license: ORC
 ---
 # Dalang's Ally `pf2:1`
 ## Feat 13
-### [[occult]][[3-Rules/trait_reference/S/shadow]][[wayang]]
+### [[occult]][[shadow]][[wayang]]
 
 **Category** ancestry; 
 
@@ -23,5 +23,5 @@ license: ORC
 
 You move your shadow as a master puppeteer, allowing it to dance around your enemies and serve you in combat. Until the start of your next turn, your shadow darts around with your foes, providing flanking for you against all enemies within your reach. Flanking with your shadow is the same as flanking with an ally and so is subject to effects like all-around vision or the deny advantage class feature.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

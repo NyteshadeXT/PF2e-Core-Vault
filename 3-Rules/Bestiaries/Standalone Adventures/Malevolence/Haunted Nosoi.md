@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: " (divine) Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
   - name: "Truespeech"
     desc: "  The haunted nosoi speaks in Requian, the language of psychopomps, but all creatures hear its words in their native languages."
 
@@ -60,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +8 (finesse, magical)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+8 (finesse, magical, unarmed)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Vengeful Burst"
     desc: "`pf2:r` (divine) **Trigger** The haunted nosoi is destroyed or it enters a square adjacent to a corrupted psychopomp in area D5\n* * *\n\n**Effect** The haunted nosoi dies as it explodes into a burst of vitality energy. This heals all living creatures within 10 feet for 3d6 vitality damage.If triggered in area D5, the Vengeful Burst deals 2d12 void damage to any corrupted psychopomps in that area (DC 18 Will check save)"

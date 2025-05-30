@@ -35,7 +35,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +5, Deception: +3, Stealth: +7, Athletics: +5, Deception: +3, Stealth: +7"
+    desc: "Athletics: +5, Deception: +3, Stealth: +7"
 abilityMods: [2, 3, 2, -5, 0, -1]
 speed: 10 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Carnivorous Brim +6 (agile, finesse, reach 0 feet)\n__Damage__  1d4 bludgeoning plus attach"
+  - name: "**Melee** `pf2:1` Carnivorous Brim"
+    desc: "+6 (agile, finesse, reach 0 feet)\n__Damage__  1d4 bludgeoning plus attach"
 
   - name: "Attach"
     desc: "`pf2:1`  **Requirements** The carnivorous chapeau's last action was a successful Strike against a target larger than itself\n* * *\n\n**Effect** The carnivorous chapeau attaches itself to its victim's head. This is similar to grabbing the creature, but the carnivorous chapeau moves with that creature rather than holding it in place. The carnivorous chapeau is flat- footed while attached."

@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +38 (finesse)\n__Damage__  4d12 + 18 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+38 (finesse, unarmed)\n__Damage__  4d12 + 18 piercing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Thorny Vine +38 (agile, finesse, reach 10 feet)\n__Damage__  4d8 + 18 slashing plus immense-mandragora-venom"
+  - name: "**Melee** `pf2:1` Thorny Vine"
+    desc: "+38 (agile, finesse, reach 10 feet)\n__Damage__  4d8 + 18 slashing plus immense-mandragora-venom"
 
   - name: "Apocalyptic Shriek"
     desc: "`pf2:1` (auditory,mental,primal) **Frequency** once per day\n* * *\n\n**Effect** The immense mandragora emits a devastating shriek. Each non-mandragora creature within 30 feet must attempt a DC 42 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]] and takes 8d8 mental damage.\n\n**Failure** The creature is [[Conditions/Sickened|Sickened 2]] and takes 16d8 mental damage.\n\n**Critical Failure** The creature is sickened 2, [[Conditions/Slowed|Slowed 1]], and takes 150 mental damage. As long as the creature remains sickened, this slowed condition value can't be reduced below 1."
@@ -77,6 +77,9 @@ attacks:
 
   - name: "Immense Mandragora Venom"
     desc: " (poison) **Saving Throw** DC 42 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 4d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 4d6 poison damage, [[Conditions/Confused|Confused]], and stupefied 1 (1 round)\n\n**Stage 3** 6d6 poison damage, confused, and stupefied 1 (1 round)"
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

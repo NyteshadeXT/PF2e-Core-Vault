@@ -18,7 +18,7 @@ license: OGL
 
 Granted by [[Class Features/Bloodline_ Shadow|Bloodline: Shadow]]
 
-Shadows grow deeper around you or one target, either granting a +1 status bonus to Stealth or imposing a -1 status penalty to Perception for 1 round.
+You gain a +1 status bonus to Stealth or a -1 status penalty to Perception.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

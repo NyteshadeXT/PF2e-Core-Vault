@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Magical Edification
 * * *
-You've continued to expand your compendium of tools to compile knowledge. You can cast [[Translate|Translate]], [[Mindlink|Mindlink]], and [[Secret Page|Secret Page]] as innate occult spells, each once per day. When you cast _secret page_, it is automatically heightened to the same spell rank as your cantrips from Magical Edification.
+You've continued to expand your compendium of tools to compile knowledge. You can cast [[Spells/Translate|Translate]], [[Spells/Mindlink|Mindlink]], and [[Spells/Secret Page|Secret Page]] as innate occult spells, each once per day. When you cast _secret page_, it is automatically heightened to the same spell rank as your cantrips from Magical Edification.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

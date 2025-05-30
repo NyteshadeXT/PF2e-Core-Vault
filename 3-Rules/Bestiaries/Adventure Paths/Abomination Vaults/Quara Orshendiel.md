@@ -55,6 +55,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Kukri|+1 Striking Kukri]], [[Equipment/Repeating Hand Crossbow|+1 Striking Repeating Hand Crossbow]], [[Equipment/Chain Shirt|Chain Shirt]], [[Equipment/Shootist Bandolier|Shootist Bandolier]], Quara's Key, [[Equipment/Repeating Hand Crossbow Magazine|Repeating Hand Crossbow Magazine]], 4x [[Equipment/Stupor Poison|Stupor Poison]]"
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 abilities_mid:
   - name: ""
   - name: "Commanding Aura"
@@ -69,11 +72,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +24 (agile, finesse, trip)\n__Damage__  2d6 + 9 slashing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+24 (agile, finesse, trip)\n__Damage__  2d6 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Repeating Hand Crossbow +24 (range increment 60 feet, reload 0, repeating)\n__Damage__  2d6 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Repeating Hand Crossbow"
+    desc: "+24 (range increment 60 feet, reload 0, repeating)\n__Damage__  2d6 + 9 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 28, attack +18; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Faerie Fire|Faerie Fire (At Will)]]_\n__Cantrips__  __(6th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"

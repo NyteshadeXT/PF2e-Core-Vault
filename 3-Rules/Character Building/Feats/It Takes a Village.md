@@ -21,5 +21,5 @@ license: ORC
 
 Your community bond creates better dynamics when working together. You gain a +4 circumstance bonus to checks to Aid.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

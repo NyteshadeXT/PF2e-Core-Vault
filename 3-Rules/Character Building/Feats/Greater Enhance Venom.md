@@ -35,5 +35,5 @@ You upgrade the vishkanyan venom you can apply with [[Actions/Envenom|Envenom]] 
 
 **Stage 3** 11d6 poison damage (1 round)
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

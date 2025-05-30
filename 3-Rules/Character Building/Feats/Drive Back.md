@@ -27,5 +27,5 @@ license: OGL
 
 You push the enemy back and attempt to intercede between the foe and your ally. You attempt to [[Actions/Shove|Shove]] the triggering enemy with your shield just as it attacks, pushing it back just after the attempt. Your shield has the shove trait for this Shove attempt. If the shove succeeds, you throw off your enemy's timing, and the enemy takes a -1 circumstance penalty on its attack roll against your ally.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

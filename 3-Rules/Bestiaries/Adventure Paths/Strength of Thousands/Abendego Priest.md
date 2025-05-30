@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +24 (agile, magical, versatile s)\n__Damage__  2d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+24 (agile, magical, versatile s)\n__Damage__  2d6 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +22 (agile, versatile s)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+22 (agile, versatile s)\n__Damage__  1d4 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +22 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+22 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 30, attack +22; __5th __ (3 slots) _[[Spells/Flame Strike|Flame Strike]]_, _[[Spells/Sending|Sending]]_, _[[Spells/Shadow Blast|Shadow Blast]]_; __4th __ (3 slots) _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Chilling Darkness|Chilling Darkness]]_; __2nd __ (3 slots) _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Silence|Silence]]_, _[[Spells/Water Breathing|Water Breathing]]_; __1st __ (3 slots) _[[Spells/Command|Command]]_, _[[Spells/Create Water|Create Water]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_"

@@ -20,5 +20,5 @@ license: OGL
 
 The ridges and flaps of your skin steer you through the water. You gain a swim Speed of 15 feet.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

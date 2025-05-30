@@ -6,7 +6,7 @@ tags:
   - trait/morph
   - trait/primal
   - trait/tengu
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.mVscmsZWWcVACdU5"
 license: OGL

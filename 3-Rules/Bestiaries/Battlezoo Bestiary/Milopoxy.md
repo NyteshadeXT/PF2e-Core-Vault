@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword +19 (magical, two-hand d12)\n__Damage__  2d8 + 9 slashing"
+  - name: "**Melee** `pf2:1` Bastard Sword"
+    desc: "+19 (magical, two-hand d12)\n__Damage__  2d8 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +18 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+18 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 2 piercing"
 
   - name: "Bask in Glory"
     desc: "`pf2:1` (emotion,incapacitation,mental,primal,visual) Requirement The milopoxy can be seen by its ward or at least one non-hostile creature;\n\n**Effect** The milopoxy shows off its imagined heroism, magically compelling witnesses to cheer. It rolls a Diplomacy check against the Will DC of its ward and all non-hostile creatures within 60 feet. As long as one creature cheers, the milopoxy gains a +1 status bonus to attack rolls, damage rolls, and saves against fear effects.\n\nRegardless of its save result, each creature is immune to Bask In Glory for 24 hours.\n* * *\n\n**Critical Success** The creature uses all its actions to cheer for the milopoxy. It does so for up to 1 minute or until the milopoxy doesn't Bask In Glory at least once on a subsequent round, whichever comes first. If the creature or one of its allies is attacked, it can make a DC 26 Will save to end the effect.\n\n**Success** As critical success, but the duration is until the end of the creature's next turn.\n\n**Failure** The creature is unaffected."

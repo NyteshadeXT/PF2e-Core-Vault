@@ -21,5 +21,5 @@ license: OGL
 * * *
 You undulate your body in a series of sinuous serpentine motions as you swim, drastically improving the speed at which you move through the water. Your swim Speed increases from 10 feet to 25 feet.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

@@ -17,6 +17,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Spun Cloud (Blue)|Spun Cloud (Blue)]]
+
 Creatures gain resistance 5 to electricity while in the cloud.
 
 *Source: Pathfinder Rage of Elements*

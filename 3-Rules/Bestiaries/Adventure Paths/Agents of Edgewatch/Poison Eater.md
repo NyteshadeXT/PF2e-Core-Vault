@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Toxin-Inured"
     desc: "  A poison eater can't gain the [[Conditions/Enfeebled|Enfeebled]] or [[Conditions/Sickened|Sickened]] condition from poisons."
@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Maul +19 (magical, shove)\n__Damage__  1d12 + 6 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Maul"
+    desc: "+19 (magical, shove)\n__Damage__  1d12 + 6 bludgeoning plus knockdown"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +18 (agile, versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+18 (agile, versatile s)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +17 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+17 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
 
   - name: "Consume Poison"
     desc: "`pf2:2` (manipulate) The poison eater uses an Interact action to draw a dose of poison and eats it, gaining strength.\n\nThe poison-eater's Strikes deal two weapon dice of damage rather than one. The poison eater is affected by the consumed poison normally and, therefore, usually chooses poisons mitigated by their poison resistance and toxin-inured ability.\n\nAt the end of each of their turns, the poison eater attempts a DC 17 Flat check check; on a success, this ability ends."
@@ -82,7 +82,7 @@ attacks:
     desc: "  **Requirements** The poison eater isn't [[Conditions/Fatigued|Fatigued]] or already in a frenzy\n\n**Trigger** the poison eater damages a creature while Consume Poison is in effect\n* * *\n\n**Effect** The poison eater flies into a frenzy that lasts for 1 minute. While in a frenzy, the poison eater gains a +1 status bonus to attack rolls with melee Strikes, gains a +4 status bonus to damage rolls with melee Strikes, gains 20 temporary Hit Points until the end of the frenzy, and takes a -2 status penalty to AC. The poison eater can't voluntarily end their frenzy. After their frenzy, the poison eater is fatigued.\n\n[[Bestiary Effects/Effect_ Poison Frenzy|Effect: Poison Frenzy]]"
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

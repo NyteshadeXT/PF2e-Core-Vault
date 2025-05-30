@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +9 ()\n__Damage__  1d6 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+9 ()\n__Damage__  1d6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +10 (thrown 20 ft.)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+10 (thrown 20 ft.)\n__Damage__  1d6 piercing"
 
   - name: "Occult Prepared Spells"
     desc: "DC 18, attack +12; __2nd __  _[[Spells/Augury|Augury]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Silence|Silence]]_; __1st __  _[[Spells/Bless|Bless]]_, _[[Spells/Liberating Command|Liberating Command]]_, _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

@@ -59,29 +59,32 @@ abilities_top:
     desc: "[[Equipment/Hatchet|Hatchet]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 15 (Deactivated by Acid or Fire)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 (reach 10 feet)\n__Damage__  2d8 + 9 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (reach 10 feet, unarmed)\n__Damage__  2d8 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +15 (agile, reach 10 feet, sweep)\n__Damage__  2d6 + 9 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+15 (agile, reach 10 feet, sweep)\n__Damage__  2d6 + 9 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile, reach 10 feet)\n__Damage__  2d4 + 9 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, reach 10 feet, unarmed)\n__Damage__  2d4 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +13 (agile, sweep, thrown 10 ft.)\n__Damage__  2d6 + 9 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+13 (agile, sweep, thrown 10 ft.)\n__Damage__  2d6 + 9 slashing"
 
   - name: "Ice Stride"
     desc: "  A frost troll hunter isn't impeded by difficult terrain caused by snow or ice, nor do they need to attempt Acrobatics checks to keep from falling on slippery ice."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n\n* * *\n"
+    desc: "`pf2:1`  Claw\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
 
   - name: "Skirmish Strike"
     desc: "`pf2:1` (flourish) The frost troll hunter's feet and weapons move in tandem. They can either Step and then Strike, or Strike and then Step."

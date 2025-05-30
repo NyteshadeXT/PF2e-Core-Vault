@@ -12,7 +12,7 @@ license: ORC
 ---
 # Stubborn Defiance
 ## Feat 9
-### [[Centaur]]
+### [[centaur]]
 
 **Category** ancestry; 
 

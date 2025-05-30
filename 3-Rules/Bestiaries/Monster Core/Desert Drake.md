@@ -63,17 +63,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +19 ()\n__Damage__  2d12 + 10 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+19 ()\n__Damage__  2d12 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +19 (reach 10 feet)\n__Damage__  2d10 + 10 bludgeoning plus push"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+19 (reach 10 feet)\n__Damage__  2d10 + 10 bludgeoning plus push"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The desert drake makes two Fangs Strikes and one Tail Strike in any order."
 
   - name: "Sandstorm Breath"
-    desc: "`pf2:2` (earth,primal) The desert drake spits a ball of abrasive sand with a range of 60 feet that explodes into a cloud with a @Template[burst|distance:15]. Creatures in the area take 9d6 slashing damage (DC 27 Reflex check save).\n\nThe desert drake can't use Sandstorm Breath again for 1d6 rounds, during which the sandstorm lingers in the area. This lingering sandstorm grants [[Conditions/Concealed|Concealment]] to everything within it and conceals everything outside from them."
+    desc: "`pf2:2` (earth,primal) The desert drake spits a ball of abrasive sand with a range of 60 feet that explodes into a cloud with a 15-foot burst. Creatures in the area take 9d6 slashing damage (DC 27 Reflex check save).\n\nThe desert drake can't use Sandstorm Breath again for 1d6 rounds, during which the sandstorm lingers in the area. This lingering sandstorm grants [[Conditions/Concealed|Concealment]] to everything within it and conceals everything outside from them."
 
   - name: "Speed Surge"
     desc: "`pf2:1` (move) **Frequency** three times per day\n* * *\n\n**Effect** The desert drake Strides or Flies twice."
@@ -82,7 +82,7 @@ attacks:
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the desert drake."
 
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

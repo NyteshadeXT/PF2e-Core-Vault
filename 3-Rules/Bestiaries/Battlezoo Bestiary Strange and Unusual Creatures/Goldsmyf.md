@@ -35,7 +35,7 @@ perception:
 languages: "Fey, Gnomish; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Stealth: +22, Thievery: +22, Stealth: +22, Acrobatics: +22, Thievery: +22"
+    desc: "Acrobatics: +22, Stealth: +22, Thievery: +22"
 abilityMods: [5, 6, 4, -2, 7, 4]
 speed: 20 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +23 (agile, finesse)\n__Damage__  2d10 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+23 (agile, finesse)\n__Damage__  2d10 + 11 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 29, attack +18; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self Only; To The Fey Realm Or Back To The Material Plane Only) (x2)]]_; __5th __  _[[Spells/Magic Passage|Passwall]]_; __4th __  _[[Spells/Fire Shield|Fire Shield (x3)]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Solid Fog|Solid Fog]]_; __2nd __  _[[Spells/Faerie Fire|Faerie Fire (x2)]]_, _[[Spells/Revealing Light|Glitterdust (x2)]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

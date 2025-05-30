@@ -44,7 +44,7 @@ attacks:
     desc: "`pf2:r` **Trigger** Sarnia's psychic intrusion begins\n* * *\n\n**Effect** The hazard rolls initiative."
 
   - name: "Routine"
-    desc: "(1 action) On the hazard's initiative, a boil erupts from the ground and bursts. This blast strikes as many enemies as possible in a @Template[burst|distance:15] anywhere on the isle, dealing 5d8 force damage (DC 26 Reflex check or DC 26 Will check, target's choice) to enemies in the area. Aslynn avoids targeting the nightmares with the blast."
+    desc: "(1 action) On the hazard's initiative, a boil erupts from the ground and bursts. This blast strikes as many enemies as possible in a 15-foot burst anywhere on the isle, dealing 5d8 force damage (DC 26 Reflex check or DC 26 Will check, target's choice) to enemies in the area. Aslynn avoids targeting the nightmares with the blast."
 
 ```
 

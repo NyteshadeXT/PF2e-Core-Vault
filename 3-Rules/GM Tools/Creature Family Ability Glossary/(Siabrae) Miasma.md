@@ -6,14 +6,14 @@ tags:
   - trait/aura
   - trait/disease
   - trait/primal
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.Es8g7kZrLAuNdiD1"
 license: OGL
 ---
 # (Siabrae) Miasma
 
-### [[3-Rules/trait_reference/A/aura]][[3-Rules/trait_reference/D/disease]][[primal]]
+### [[aura]][[disease]][[primal]]
 
 **Category** defensive; 
 

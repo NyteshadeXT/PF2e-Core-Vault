@@ -61,16 +61,22 @@ abilities_top:
   - name: "Herecite Deity"
     desc: "  A herecite is associated with one evil god and is always of the same alignment as that god. Whenever it wields its deity's favored weapon, that weapon gains the unholy rune. The herecite's creators select two domains from their deity; the herecite can cast the domain spells and the advanced domain spells from those domains as cleric focus spells. The herecite can cast the deity's other granted cleric spells as divine innate spells. Most herecites have 2 Focus Points in their focus pool. The herecite presented here is a herecite of Zevgavizeb."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Perverse Prayer"
     desc: "`pf2:r` (auditory,divine) **Trigger** A creature within 30 feet uses the Sustain a Spell action to sustain a divine spell or the Cast a Spell action to cast a divine spell with a verbal component\n* * *\n\n**Effect** The herecite warps the caster's prayers into a sacrilegious echo praising the evils of its own deity. The triggering caster must succeed at a DC 29 Will check saving throw or their spell is disrupted and their action wasted."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Unholy Spiked Gauntlet +22 (agile, free-hand, unholy)\n__Damage__  2d4 + 10 piercing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Unholy Spiked Gauntlet"
+    desc: "+22 (agile, free-hand, unholy)\n__Damage__  2d4 + 10 piercing 1d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 28, attack +20; __5th __ (1 slots) _[[Spells/Ravening Maw|Ravening Maw]]_; __3rd __ (3 slots) _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Harm|Harm (At-Will)]]_, _[[Spells/One with Stone|Meld into Stone]]_; __2nd __ (3 slots) _[[Spells/Darkness|Darkness (x3)]]_; __1st __ (1 slots) _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Constant__  __(5th)__ _[[Spells/Detect Alignment|Detect Alignment (Good Only)]]_"
@@ -79,7 +85,7 @@ attacks:
     desc: "2 Focus Points, DC 28, attack +20; __5th __  _[[Spells/Athletic Rush|Athletic Rush]]_, _[[Spells/Enduring Might|Enduring Might]]_, _[[Spells/Nature's Bounty|Nature's Bounty]]_, _[[Spells/Vibrant Thorns|Vibrant Thorns]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Consecrate|Consecrate]]_"
+    desc: "_Consecrate_"
 
   - name: "Assault the Soul"
     desc: "`pf2:3` (concentrate,divine) **Requirements** The herecite is in a cabal of three or more members, two of which are within 60 feet and have used Cabal Communion within the last round\n* * *\n\n**Effect** The herecite casts [[Spells/Seize Soul|Seize Soul]], [[Spells/Spirit Blast|Spirit Blast]], or [[Spells/Spiritual Epidemic|Spiritual Epidemic]] (DC 31). Once a herecite has used this ability (whether or not it was successful), the cabal must wait 24 hours before one of its members can use Assault the Soul again."

@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +10 (agile, finesse, versatile s)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+10 (agile, finesse, versatile s)\n__Damage__  1d6 + 5 piercing"
 
   - name: "Discorporate"
-    desc: "`pf2:3` (move) The swarm assassin dissolves its humanoid shape, becoming a shapeless swarm of locusts. Its equipment falls to the ground in its current space. In its discorporated form, the swarm assassin can squeeze through any space as wide as a locust. Its statistics change to those of a [[Bestiary 1/Centipede Swarm|Centipede Swarm]], but it retains its Intelligence and inflicts shadow locust poison instead of centipede swarm venom.\n\nIt cannot use any of its other abilities until it reincorporates itself by spending an action (this action has the move trait)."
+    desc: "`pf2:3` (move) The swarm assassin dissolves its humanoid shape, becoming a shapeless swarm of locusts. Its equipment falls to the ground in its current space. In its discorporated form, the swarm assassin can squeeze through any space as wide as a locust. Its statistics change to those of a [[undefined]], but it retains its Intelligence and inflicts shadow locust poison instead of centipede swarm venom.\n\nIt cannot use any of its other abilities until it reincorporates itself by spending an action (this action has the move trait)."
 
   - name: "Poison Weapon"
     desc: "`pf2:1` (manipulate) The swarm assassin secretes its shadow locust poison onto its weapon."

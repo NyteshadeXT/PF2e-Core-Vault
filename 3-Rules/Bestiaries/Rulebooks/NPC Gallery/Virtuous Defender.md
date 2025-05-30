@@ -21,7 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Character Guide"
+source: "Pathfinder Lost Omens Character Guide"
 name: "Virtuous Defender"
 level: "Creature 4"
 
@@ -41,7 +41,7 @@ skills:
     desc: "Diplomacy: +12, Intimidation: +11, Religion: +9, Survival: +9, Shining Crusade Lore: +8"
 abilityMods: [4, 0, 3, 0, 1, 3]
 speed: 20 feet
-sourcebook: "_Pathfinder Lost Omens: Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Character Guide_"
 ac: 22
 armorclass:
   - name: AC
@@ -58,22 +58,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Retributive Strike|Retributive Strike]]"
-    desc: "`pf2:r`  The virtuous defender can Step to put the foe in reach before making a melee Retributive Strike.\n\n**Damage Reduction** 6\n\n* * *\n"
+    desc: "`pf2:r`  The virtuous defender can Step to put the foe in reach before making a melee Retributive Strike.\n\n**Damage Reduction** 6\n* * *\n\n**Trigger** An enemy damages the monster's ally, and both are within 15 feet of the monster.\n* * *\n\n**Effect** The ally gains resistance to all damage against the triggering damage equal to 2 + the monster's level. If the foe is within reach, the monster makes a melee Strike against it."
 
   - name: "Shield Ally"
     desc: "  The virtuous defender's shield is sturdier in their hands. The statistics for the shield above include this benefit; it's a normal steel shield for anyone else."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +12 (versatile p)\n__Damage__  1d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+12 (versatile p)\n__Damage__  1d8 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +8 (deadly d10, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+8 (deadly d10, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 4 piercing"
 
   - name: "Divine Focus Spells"
     desc: "1 Focus Point, DC 19, attack +11; __2nd __  _[[Spells/Lay on Hands|Lay on Hands]]_, _[[Spells/Veil of Confidence|Veil of Confidence]]_"

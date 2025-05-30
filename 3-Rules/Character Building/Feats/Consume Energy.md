@@ -12,7 +12,7 @@ license: OGL
 ---
 # Consume Energy `pf2:r`
 ## Feat 2
-### [rare](rare.md "Rare Rarity Trait")[[deviant]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]]
 
 **Category** class; 
 
@@ -29,9 +29,9 @@ Your connection to energy is so much stronger than the offending display in fron
 
 **Awakening** The energy you consume helps empower your abilities. The next ability from the dragon classification that you use increases its range by 30 feet if it has a range, or increases its area by 10 feet if it's a cone or line. If you don't use this benefit within 1 minute, it fades.
 
-@Template\[cone|distance:40\]
+40-foot cone
 
-@Template\[line|distance:70\]
+70-foot line
 
 * * *
 

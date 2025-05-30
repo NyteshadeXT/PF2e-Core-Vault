@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Blessing of Defiance|Blessing of Defiance]]
+Granted by [[Spells/Blessing of Defiance|Blessing of Defiance]]
 
-Choose one saving throw: Fortitude, Reflex, or Will. The target gets a +4 status bonus to that saving throw for 1 round.
+Choose one saving throw: Fortitude, Reflex, or Will. The target gets a +4 status bonus to that saving throw.
 
 If you cast the two-action version, you additionally receive the following: if you choose Fortitude, the target gains resistance 15 to poison. If you choose Reflex, the target gains a +15-foot status bonus to its Speeds. If you choose Will, the target gains resistance 15 to mental damage.
 

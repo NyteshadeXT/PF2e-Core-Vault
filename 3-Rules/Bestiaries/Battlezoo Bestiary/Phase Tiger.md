@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +18 (magical)\n__Damage__  2d10 + 8 piercing plus grab"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+18 (magical)\n__Damage__  2d10 + 8 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile, magical)\n__Damage__  2d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, magical)\n__Damage__  2d8 + 8 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 22, attack +14; __4th __  _[[Spells/Translocate|Dimension Door]]_"

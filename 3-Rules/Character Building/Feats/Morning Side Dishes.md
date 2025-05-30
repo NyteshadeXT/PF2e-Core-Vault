@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Wandering Chef Dedication
 * * *
-You know a proper breakfast should have a variety of sides. You gain the advanced alchemy benefits, and you can create 5 alchemical food consumables during your daily preparations.
+You know a proper breakfast should have a variety of sides. You gain the [[PF2e Journals/Archetypes/advanced alchemy benefits|advanced alchemy benefits]], and you can create 5 alchemical food consumables during your daily preparations.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

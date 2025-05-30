@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Swarm Form|Swarm Form]]
+Granted by [[Spells/Swarm Form|Swarm Form]]
 
 While in swarm form, you have the swarm trait and you gain resistance to slashing and piercing damage and weakness to area and splash damage.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

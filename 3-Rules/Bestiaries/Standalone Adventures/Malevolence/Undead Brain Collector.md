@@ -61,14 +61,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +18 ()\n__Damage__  2d10 + 8 piercing plus mind-rotting-toxin"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+18 (unarmed)\n__Damage__  2d10 + 8 piercing plus mind-rotting-toxin"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +18 (agile)\n__Damage__  2d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+18 (agile)\n__Damage__  2d8 + 8 slashing"
 
   - name: "Brainlash"
     desc: "`pf2:2` (mental,occult) The undead brain collector extrudes a writhing tangle of ectoplasm from its bursted brain blisters. These ectoplasmic strands lash out at all living targets within 30 feet. Targets in this area must attempt a DC 25 Will check save.\n\nAfter the undead brain collector uses this ability, seven phantom brains glow and shimmer where its brain blisters once were. It can't use Brainlash again until all seven phantom brains are Absorbed.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 4d6 mental damage.\n\n**Failure** The creature takes 8d6 mental damage.\n\n**Critical Failure** The creature takes 8d6 mental damage and is [[Conditions/Confused|Confused]]."

@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Skewer +27 (reach 15 feet)\n__Damage__  3d10 + 8 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Skewer"
+    desc: "+27 (reach 15 feet)\n__Damage__  3d10 + 8 piercing plus improved-grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hot Oil +25 (range 30 feet)\n__Damage__  3d6 + 7 fire plus marinade 3 fire plus marinade 1d8 fire plus marinade"
+  - name: "**Ranged** `pf2:1` Hot Oil"
+    desc: "+25 (range 30 feet)\n__Damage__  3d6 + 7 fire plus marinade 3 fire plus marinade 1d8 fire plus marinade"
 
   - name: "Marinade"
     desc: "  A creature taking persistent fire damage from the brochmaw's hot oil Strike is more readily cooked, taking a –2 circumstance penalty to Fortitude saves against Roast for as long as it is taking persistent fire damage."
@@ -73,6 +73,9 @@ attacks:
 
   - name: "Skewer Master"
     desc: "  The skewers of a brochmaw are more than long enough to hold multiple creatures. A brochmaw can have up to three creatures [[Conditions/Grabbed|Grabbed]] on its skewer, and it can still make Strikes with its skewer even if it has creatures grabbed, though it can't target creatures it has grabbed."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

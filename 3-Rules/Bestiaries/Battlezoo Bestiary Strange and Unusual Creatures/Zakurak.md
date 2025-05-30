@@ -39,7 +39,7 @@ perception:
 languages: "Chthonian, Diabolic, Draconic, Empyrean, Requian; telepathy 200 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +39, Athletics: +45, Deception: +43, Intimidation: +48, Nature: +38, Occultism: +39, Religion: +40, Acrobatics: +39, Athletics: +45, Deception: +43, Intimidation: +48, Nature: +38, Occultism: +39, Religion: +40, Dragon Lore: +42"
+    desc: "Acrobatics: +39, Athletics: +45, Deception: +43, Intimidation: +48, Nature: +38, Occultism: +39, Religion: +40, Dragon Lore: +42"
 abilityMods: [11, 9, 12, 7, 10, 13]
 speed: 60 feet,  fly 200 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -78,14 +78,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +44 (magical, reach 20 feet, unholy)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+44 (magical, reach 20 feet, unholy)\n__Damage__  5d10 + 23 piercing plus improved-grab 1d10 spirit plus improved-grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Claw +44 (agile, magical, range 15 feet, unholy)\n__Damage__  5d8 + 23 slashing"
+  - name: "**Ranged** `pf2:1` Claw"
+    desc: "+44 (agile, magical, range 15 feet, unholy)\n__Damage__  5d8 + 23 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +44 (magical, reach 25 feet, unholy, versatile b)\n__Damage__  5d10 + 23 piercing plus improved-push"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+44 (magical, reach 25 feet, unholy, versatile b)\n__Damage__  5d10 + 23 piercing plus improved-push"
 
   - name: "Divine Innate Spells"
     desc: "DC 48, attack +40; __10th __  _[[Spells/Summon Dragon|Summon Dragon (Adult Red Dragon Only)]]_; __9th __  _[[Spells/Summon Draconic Legion|Summon Draconic Legion]]_, _[[Spells/Summon Dragon|Summon Dragon (Adult Blue or Green Dragon Only)]]_; __8th __  _[[Spells/Dispel Magic|Dispel Magic (At Will)]]_, _[[Spells/Divine Aura|Divine Aura]]_; __7th __  _[[Spells/Shadow Raid|Shadow Raid]]_, _[[Spells/Tempest of Shades|Tempest of Shades]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __  _[[Spells/Spellwrack|Spellwrack (x2)]]_; __3rd __  _[[Spells/Fear|Fear (At Will)]]_\n__Constant__  __(10th)__ _[[Spells/Truesight|True Seeing]]_"

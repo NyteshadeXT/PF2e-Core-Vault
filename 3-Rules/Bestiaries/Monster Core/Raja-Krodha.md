@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +20 (agile, magical, unholy)\n__Damage__  2d12 + 10 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+20 (agile, magical, unholy)\n__Damage__  2d12 + 10 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +22 (agile, finesse, magical, unholy)\n__Damage__  2d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+22 (agile, finesse, magical, unarmed, unholy)\n__Damage__  2d8 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Taravari +22 (forceful, magical, sweep)\n__Damage__  3d6 + 7 slashing"
+  - name: "**Melee** `pf2:1` Taravari"
+    desc: "+22 (forceful, magical, sweep)\n__Damage__  3d6 + 7 slashing"
 
   - name: "Divine Innate Spells"
     desc: "DC 29, attack +21; __5th __  _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Invoke Spirits|Invoke Spirits]]_; __4th __  _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_, _[[Spells/Vampiric Feast|Vampiric Feast]]_; __3rd __  _[[Spells/Clairaudience|Clairaudience]]_, _[[Spells/Haste|Haste]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_"
@@ -82,7 +82,7 @@ attacks:
     desc: "2 Focus Points, DC 29, attack +21; __5th __  _[[Spells/Ignite Ambition|Ignite Ambition]]_, _[[Spells/Savor the Sting|Savor the Sting]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph) The raja-krodha takes on the appearance of any Medium humanoid. This doesn't change the raja-krodha's Speed or their attack and damage modifiers with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning). They lose their fangs Strike unless the humanoid form has fangs or a similar unarmed attack.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph) The raja-krodha takes on the appearance of any Medium humanoid. This doesn't change the raja-krodha's Speed or their attack and damage modifiers with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning). They lose their fangs Strike unless the humanoid form has fangs or a similar unarmed attack.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Cruel Majesty"
     desc: "`pf2:1` (emotion,mental,visual) **Requirements** The rakshasa is not in its true form\n* * *\n\n**Effect** The rakshasa Changes Shape into its true form in a display that is equal parts terrifying and majestic. Creatures within 30 feet of the rakshasa must succeed at a DC 29 Will check save or be [[Conditions/Off-Guard|Off-Guard]] to the rakshasa until the beginning of the rakshasa's next turn as they are awestruck."
@@ -91,7 +91,10 @@ attacks:
     desc: "  The raja-krodha deals 2d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium, 2d12+6 bludgeoning, Rupture 15\n\n* * *\n"
+    desc: "`pf2:1` (attack) Medium, 2d12+6 bludgeoning, Rupture 15\n* * *\n\nThe monster attempts to swallow a creature of the listed size or smaller that it has grabbed or restrained in its jaws or mouth. If a swallowed creature is of the maximum size listed, the monster can't use Swallow Whole again. If the creature is smaller than the maximum, the monster can usually swallow more creatures; the GM determines the maximum. The monster attempts an Athletics check check opposed by the grabbed creature's Reflex DC. If it succeeds, it swallows the creature. The monster's mouth or jaws no longer grab a creature it has swallowed, so the monster is free to use them to Strike or Grab once again. The monster can't attack creatures it has swallowed.\n\nA swallowed creature is [[Conditions/Grabbed|Grabbed]], is [[Conditions/Slowed|Slowed 1]], and has to hold its breath or start suffocating. The swallowed creature takes the listed amount of damage when first swallowed and at the end of each of its turns while it's swallowed. If the victim [[Actions/Escape|Escapes]] this ability's grabbed condition, it exits through the monster's mouth. This frees any other creature grabbed in the monster's mouth or jaws. A swallowed creature can attack the monster that has swallowed it, but only with unarmed attacks or with weapons of light Bulk or less. The swallowing creature is [[Conditions/Off-Guard|Off-Guard]] against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the swallowed creature cuts itself free. A creature that gets free by either Escaping or cutting itself free can immediately breathe and exits the swallowing monster's space.\n\n[[Bestiary Effects/Effect_ Engulf and Swallow Whole|Effect: Engulf and Swallow Whole]]\n\nIf the monster dies, a swallowed creature can be freed by creatures adjacent to the corpse if they spend a combined total of 3 actions cutting the monster open with a weapon or unarmed attack that deals piercing or slashing damage."
+
+  - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

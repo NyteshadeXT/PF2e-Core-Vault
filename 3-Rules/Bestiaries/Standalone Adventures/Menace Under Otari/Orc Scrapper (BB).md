@@ -3,7 +3,7 @@ title: "Orc Scrapper (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.0oWKApY5FR8IO7GG" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.YReM6QbqwUz3UTP7" 
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +7 (agile, disarm)\n__Damage__  1d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+7 (agile, disarm)\n__Damage__  1d8 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +7 (agile, nonlethal)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+7 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 3 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +4 (thrown 30 ft.)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+4 (thrown 30 ft.)\n__Damage__  1d6 + 3 piercing"
  
 ```
 

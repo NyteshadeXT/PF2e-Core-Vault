@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +15 (magical, two-hand d8)\n__Damage__  2d4 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+15 (magical, two-hand d8)\n__Damage__  2d4 + 8 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Backbiter +19 (concealable, concussive, fatal d10, magical)\n__Damage__  2d6 + 8 piercing plus curse-of-conflicted-loyalties"
+  - name: "**Melee** `pf2:1` Backbiter"
+    desc: "+19 (concealable, concussive, fatal d10, magical)\n__Damage__  2d6 + 8 piercing plus curse-of-conflicted-loyalties"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 27, attack +21; __4th __ (4 slots) _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Rewrite Memory|Modify Memory]]_, _[[Spells/Mountain Resilience|Stoneskin]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Telepathy|Telepathy]]_; __3rd __ (4 slots) _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __ (4 slots) _[[Spells/Augury|Augury]]_, _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (4 slots) _[[Spells/Bless|Bless]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Lock|Lock]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(4th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Shield|Shield]]_"

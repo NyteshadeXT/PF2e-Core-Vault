@@ -6,13 +6,13 @@ tags:
   - trait/concentrate
   - trait/emotion
   - trait/mental
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.actionspf2e.Item.2424g94rpoiN1IPh"
 license: OGL
 ---
 # Catharsis `pf2:r`
 
-### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Mental]]
+### [[concentrate]][[emotion]][[mental]]
 
 
 

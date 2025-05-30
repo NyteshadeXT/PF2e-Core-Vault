@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 ()\n__Damage__  1d6 + 5 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (unarmed)\n__Damage__  1d6 + 5 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +10 (reach 15 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+10 (reach 15 feet)\n__Damage__ "
 
   - name: "Sticky Feet"
     desc: "  Giant frogs are not off-guard when [[Actions/Balance|Balancing]] on a narrow surface, and they gain a +4 bonus to Reflex saves to avoid falling."
@@ -66,7 +66,7 @@ attacks:
     desc: "  A creature hit by the riding frog's tongue becomes [[Conditions/Grabbed|Grabbed]] by the riding frog. The creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the frog's tongue. A creature can sever the tongue with a Strike against AC 13 that deals at least 2 slashing damage.\n\nThis deals no damage to the frog but prevents it from using its tongue Strike until it regrows its tongue, which takes a week."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

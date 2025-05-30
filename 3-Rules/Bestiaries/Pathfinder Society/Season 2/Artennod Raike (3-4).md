@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Retribution Axe +15 (sweep)\n__Damage__  1d12 + 7 slashing"
+  - name: "**Melee** `pf2:1` Retribution Axe"
+    desc: "+15 (sweep)\n__Damage__  1d12 + 7 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +14 (deadly d10, range increment 60 feet)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+14 (deadly d10, range increment 60 feet)\n__Damage__  1d6 + 5 piercing"
 
   - name: "Aspis Ambush"
     desc: "  Raike can always use Deception or Diplomacy in place of other skills when determining Initiative."

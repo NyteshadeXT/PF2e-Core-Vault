@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 (agile, finesse)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (agile, finesse, unarmed)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Explosive Harness"
-    desc: "  The rat is connected to an explosive harness, which displays an ominous 1-minute pocket watch. The harness will explode after 1 minute (10 rounds) if it is not disabled, or immediately if the rat takes fire damage. This explosion deals 2d6 fire damage to the rat and all creatures within a 5-foot burst (DC 15 Reflex check save) and ignites flammable objects in the area.  \nIf the rat is [[Conditions/Grabbed|Grappled]], [[Conditions/Restrained|Restrained]], or [[Conditions/Unconscious|Unconscious]], an adjacent creature can attempt to safely remove and disable the harness with a successful DC 17 Nature check or DC 17 Thievery check check or a successful DC 15 Tanning Lore check check. An attempt to disable the harness uses two actions."
+    desc: "  The rat is connected to an explosive harness, which displays an ominous 1-minute pocket watch. The harness will explode after 1 minute (10 rounds) if it is not disabled, or immediately if the rat takes fire damage. This explosion deals 2d6 fire damage to the rat and all creatures within a 5-foot burst (DC 15 Reflex check save) and ignites flammable objects in the area.\n\nIf the rat is [[Conditions/Grabbed|Grappled]], [[Conditions/Restrained|Restrained]], or [[Conditions/Unconscious|Unconscious]], an adjacent creature can attempt to safely remove and disable the harness with a successful DC 17 Nature check or DC 17 Thievery check check or a successful DC 15 Tanning Lore check check. An attempt to disable the harness uses two actions."
  
 ```
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Ghostly Weapon|Ghostly Weapon]]
+Granted by [[Spells/Ghostly Weapon|Ghostly Weapon]]
 
 The weapon gains the effects of the _ghost touch_ property rune and becomes magical if it wasn't already.
 

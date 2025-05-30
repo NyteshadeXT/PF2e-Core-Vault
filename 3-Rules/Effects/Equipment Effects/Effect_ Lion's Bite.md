@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Lion's Shield|Lion's Shield]]
+Granted by [[Equipment/Lion's Shield|Lion's Shield]]
 
 The shield's biting maw is a martial melee weapon that deals 2d6 piercing damage and has the deadly d6 trait; it can't be enhanced by runes.
 

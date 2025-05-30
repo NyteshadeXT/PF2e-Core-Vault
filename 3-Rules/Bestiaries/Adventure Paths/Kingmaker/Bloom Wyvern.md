@@ -53,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Savage"
     desc: "`pf2:r`  **Trigger** A creature [[Conditions/Grabbed|Grabbed]] by the wyvern critically fails a skill check to Escape.\n* * *\n\n**Effect** The wyvern makes a stinger Strike against the triggering creature."
@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +20 (reach 10 feet)\n__Damage__  2d12 + 9 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+20 (reach 10 feet)\n__Damage__  2d12 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 ()\n__Damage__  2d10 + 9 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (unarmed)\n__Damage__  2d10 + 9 slashing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +18 (agile, reach 10 feet)\n__Damage__  2d6 + 5 piercing plus wyvern-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+18 (agile, reach 10 feet)\n__Damage__  2d6 + 5 piercing plus wyvern-venom"
 
   - name: "Powerful Dive"
     desc: "`pf2:2` (move) The wyvern Flies up to its fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If it ends the movement within melee reach of at least one enemy its size or smaller, it can make a claw Strike against that enemy. If the claw hits, as a free action the wyvern can either automatically [[Bestiary Ability Glossary/Grab|Grab]] the target or knock it [[Conditions/Prone|Prone]]."
@@ -80,7 +80,7 @@ attacks:
     desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 5d6 poison damage (1 round)\n\n**Stage 2** 6d6 poison damage (1 round)\n\n**Stage 3** 8d6 poison damage (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

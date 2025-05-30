@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-15 - Finadar Leshy"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.hxp0fDMrB7BT3y3T"
 license: OGL
 ---
 # S1-15 - Finadar Leshy
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

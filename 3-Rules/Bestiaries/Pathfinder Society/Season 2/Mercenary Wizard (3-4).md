@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mace +7 (shove)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Mace"
+    desc: "+7 (shove)\n__Damage__  1d6 + 2 bludgeoning"
 
   - name: "Prepared Arcane Spells"
-    desc: "DC 19, attack +9; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Chilling Spray|Chilling Spray]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(2nd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
+    desc: "DC 19, attack +9; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Chilling Spray|Chilling Spray]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(2nd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Focus Spells"
     desc: "1 Focus Point, DC 19, attack +9; __2nd __  _[[Spells/Force Bolt|Force Bolt]]_"

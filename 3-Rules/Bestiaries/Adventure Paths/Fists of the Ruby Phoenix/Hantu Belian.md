@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +22 (agile, finesse, magical)\n__Damage__  2d6 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+22 (agile, finesse, magical, unarmed)\n__Damage__  2d6 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +22 (finesse, magical)\n__Damage__  2d8 + 13 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+22 (finesse, magical, unarmed)\n__Damage__  2d8 + 13 piercing"
 
   - name: "Innate Occult Spells"
     desc: "DC 30, attack +22; __7th __  _[[Spells/Possession|Possession (Greater Possession)]]_; __6th __  _[[Spells/Heal|Heal]]_; __4th __  _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse]]_; __3rd __  _[[Spells/Fear|Fear]]_, _[[Compendium.pf2e.spells-srd.Item.RneiyehRO6f7LP44|Remove Disease]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

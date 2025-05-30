@@ -62,14 +62,17 @@ abilities_mid:
   - name: "Final Spite"
     desc: "`pf2:r`  **Trigger** The cairn wight is reduced to 0 Hit Points\n* * *\n\n**Effect** The cairn wight makes a Strike before being destroyed. It doesn't gain any temporary HP from drain life on this Strike."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +12 (versatile p)\n__Damage__  1d8 + 7 slashing plus drain-life"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+12 (versatile p)\n__Damage__  1d8 + 7 slashing plus drain-life"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 (agile)\n__Damage__  1d6 + 7 slashing plus drain-life"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (agile, unarmed)\n__Damage__  1d6 + 7 slashing plus drain-life"
 
   - name: "Cairn Wight Spawn"
     desc: " (divine) A living humanoid slain by a cairn wight's weapon or claw Strike rises as a [[Bestiary 2/Cairn Wight|Spawned Wight]] after 1d4 rounds. This spawned wight is under the command of the cairn wight that killed it. It doesn't have drain life or cairn wight spawn and is [[Conditions/Clumsy|Clumsy 2]] for as long as it is a spawned wight. If its creator dies, the spawned wight becomes a full-fledged, autonomous cairn wight; it regains its free will, gains drain life and cairn wight spawn, and is no longer clumsy."

@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +6 (agile, magical, versatile s)\n__Damage__  1d6 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+6 (agile, magical, versatile s)\n__Damage__  1d6 piercing"
  
 ```
 

@@ -53,8 +53,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 ()\n__Damage__  1d10 + 5 piercing plus filth-fever,gnaw-bones,knockdown"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (unarmed)\n__Damage__  1d10 + 5 piercing plus filth-fever,gnaw-bones,knockdown"
 
   - name: "Drag"
     desc: "`pf2:1`  The enormous rat makes a jaws Strike against a [[Conditions/Prone|Prone]] enemy. If it hits, in addition to dealing damage, the enormous rat Strides up to 10 feet, dragging the enemy along."
@@ -66,7 +66,7 @@ attacks:
     desc: "  A creature that's critically hit by an enormous rat must succeed at a DC 20 Fortitude check save or become [[Conditions/Wounded|Wounded 1]] as the creature's bones or cartilage are crushed by the rat's jaws."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

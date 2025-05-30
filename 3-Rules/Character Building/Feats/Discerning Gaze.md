@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Vigilante Dedication; Member of the Grey Gardeners
 * * *
-You have a sense for when people are lying. You gain a +1 circumstance bonus on your secret Perception checks to Sense Motive.
+You have a sense for when people are lying. You gain a +1 circumstance bonus on your secret Perception checks to [[Actions/Sense Motive|Sense Motive]].
 
 If you use Sense Motive on a creature you have currently condemned with Harsh Judgment, your GM rolls the Perception check twice and takes the higher result (this is a fortune effect).
 

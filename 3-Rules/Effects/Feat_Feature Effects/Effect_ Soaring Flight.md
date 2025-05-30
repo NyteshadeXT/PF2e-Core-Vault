@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.feat-effects.Item.ytG5XJmkOnDOTjNN"
 license: ORC
 ---
 # Effect: Soaring Flight
-## Level 9
+## Level 5
 ### 
 
 
@@ -17,7 +17,9 @@ license: ORC
 
 
 
-To be a tengu is to be unburdened by the concerns of the world below. You grow a pair of magical wings or expand your existing ones. For 5 minutes, you gain a fly Speed equal to your land Speed or 20 feet, whichever is greater.
+Granted by [[Feats/Soaring Flight|Soaring Flight]]
+
+You gain a fly Speed of 20 feet for this movement.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

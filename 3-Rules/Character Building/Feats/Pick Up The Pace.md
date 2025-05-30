@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Pick Up The Pace"
+title: "Pick up the Pace"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/general
@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.38uOVS8fLZxraUrg"
 license: ORC
 ---
-# Pick Up The Pace
+# Pick up the Pace
 ## Feat 3
 ### [[general]]
 

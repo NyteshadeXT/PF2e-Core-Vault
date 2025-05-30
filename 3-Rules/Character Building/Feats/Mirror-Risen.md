@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.FHK4ZEl8SkGOpKdF"
 license: OGL
 ---
-# Mirror-Risen `pf2:r`
+# Mirror-Risen
 ## Feat 1
 ### [[lineage]][[reflection]]
 

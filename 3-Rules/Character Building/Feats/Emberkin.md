@@ -23,5 +23,5 @@ A peri's roaring spirit burns in your soul. Peris engage in constant struggle to
 
 You gain a +1 circumstance bonus to saving throws against fire effects, and your perception is unaffected by non-magical flames, fog and smoke.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

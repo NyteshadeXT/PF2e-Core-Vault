@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Shadowcaster Dedication
 * * *
-You've delved deeper into the mysteries of shadow and become blessed with magical power that increases your skills in the arts of deception and persuasion. You gain the [[Inscrutable Mask|Inscrutable Mask]] domain spell. Increase the number of Focus Points in your focus pool by 1.
+You've delved deeper into the mysteries of shadow and become blessed with magical power that increases your skills in the arts of deception and persuasion. You gain the [[Spells/Inscrutable Mask|Inscrutable Mask]] domain spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

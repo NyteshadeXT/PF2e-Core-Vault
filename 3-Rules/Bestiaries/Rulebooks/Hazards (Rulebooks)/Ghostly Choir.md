@@ -42,7 +42,7 @@ attacks:
   - name: ""
 
   - name: "Profane Chant"
-    desc: "`pf2:r` (auditory, emotion, fear, mental, occult) **Trigger** A creature moves within 10 feet of the section of floor from which the choir can arise\n* * *\n\n**Effect** The choir rises, and its song deals 4d8+18 mental damage to non-evil creatures within 30 feet of the souls' spectral forms. Affected creatures must each attempt a DC 24 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and becomes [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature takes full damage and becomes [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature takes double damage. It also becomes [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1 round."
+    desc: "`pf2:r` (auditory, emotion, fear, mental, occult) **Trigger** A creature moves within 10 feet of the section of floor from which the choir can arise\n* * *\n\n**Effect** The choir rises, and its song deals 4d8+18 mental damage to living creatures within 30 feet of the souls' spectral forms. Affected creatures must each attempt a DC 24 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and becomes [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature takes full damage and becomes [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature takes double damage. It also becomes [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1 round."
 
 
 

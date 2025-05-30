@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Emerald Fulcrum Lens|Emerald Fulcrum Lens]]
+Granted by [[Equipment/Emerald Fulcrum Lens|Emerald Fulcrum Lens]]
 
 You gain a +2 item bonus to saving throws against magic.
 

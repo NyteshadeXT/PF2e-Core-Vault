@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 ()\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (unarmed)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Pack Attack"
     desc: "  A taxidermic dog's Strikes deal 1d4 extra damage to creatures within the reach of the taxidermic dog's two allies."

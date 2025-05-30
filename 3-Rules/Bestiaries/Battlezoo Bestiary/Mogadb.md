@@ -54,13 +54,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Slough Skin"
-    desc: "`pf2:r`  **Trigger** The mogadb takes 30 or more slashing damage in a single round;\n* * *\n\n**Effect** The mogadb's vessel is destroyed, leaving behind a swarm of animals. This does not break the spell holding the swarm together, which continues to attack as a [[Bestiary 1/Rat Swarm|Rat Swarm]] with a maximum number of Hit Points equal to the mogadb's remaining Hit Points."
+    desc: "`pf2:r`  **Trigger** The mogadb takes 30 or more slashing damage in a single round;\n* * *\n\n**Effect** The mogadb's vessel is destroyed, leaving behind a swarm of animals. This does not break the spell holding the swarm together, which continues to attack as a [[undefined]] with a maximum number of Hit Points equal to the mogadb's remaining Hit Points."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sack +12 ()\n__Damage__  1d10 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Sack"
+    desc: "+12 ()\n__Damage__  1d10 + 6 bludgeoning"
 
   - name: "Tumble Over"
     desc: "  A mogadb moves by the forceful heaving of the animals within its skin sack, not any traditional means of locomotion. The mogadb ignores natural difficult terrain."

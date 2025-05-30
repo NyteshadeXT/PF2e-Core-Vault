@@ -60,11 +60,14 @@ abilities_mid:
   - name: "Final Blasphemy"
     desc: " (divine,void) When the herexen is destroyed, it explodes in a wave of void energy with the effects of a 3-action, 4th-rank [[Spells/Harm|Harm]] spell (DC 26 Fortitude check).\n\nThe herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +16 (two-hand d8)\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+16 (two-hand d8)\n__Damage__  1d4 + 6 bludgeoning"
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 26, attack +18; __4th __ (3 slots) _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Noise Blast|Noise Blast]]_; __3rd __ (3 slots) _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Dispel Magic|Dispel Magic]]_; __2nd __ (3 slots) _[[Spells/Darkness|Darkness]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Silence|Silence]]_; __1st __ (3 slots) _[[Spells/Command|Command]]_, _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Fear|Fear]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Void Warp|Void Warp]]_"
@@ -73,7 +76,7 @@ attacks:
     desc: "2 Focus Points, DC 26, attack +18; __4th __  _[[Spells/Tempest Touch|Tempest Touch]]_, _[[Spells/Thunderburst|Thunderburst]]_"
 
   - name: "Swarming Curse"
-    desc: "  Hundreds of biting flies crawl over Narlo's bones, filling out his armor almost like his flesh once did. When these flies burn, they harm Narlo as well, imparting weakness to fire 5. Whenever Narlo casts a spell, these flies burst from his body to fill a @Template[emanation|distance:10] around him in a buzzing, biting cloud until the start of his next turn. During this time, he loses his weakness to fire, and any creature that ends their turn within the emanation takes 4d6 piercing damage (DC 23 Reflex check save) from the biting flies."
+    desc: "  Hundreds of biting flies crawl over Narlo's bones, filling out his armor almost like his flesh once did. When these flies burn, they harm Narlo as well, imparting weakness to fire 5. Whenever Narlo casts a spell, these flies burst from his body to fill a 10-foot emanation around him in a buzzing, biting cloud until the start of his next turn. During this time, he loses his weakness to fire, and any creature that ends their turn within the emanation takes 4d6 piercing damage (DC 23 Reflex check save) from the biting flies."
  
 ```
 

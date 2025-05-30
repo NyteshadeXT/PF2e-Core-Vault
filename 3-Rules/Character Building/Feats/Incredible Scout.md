@@ -21,9 +21,9 @@ license: ORC
 
 **Prerequisites** master in Perception
 * * *
-When you scout, you are particularly alert for danger, granting your allies precious moments to prepare to fight. When using the Scout exploration activity, you grant your allies a +2 circumstance bonus to their initiative rolls instead of a +1 circumstance bonus.
+When you scout, you are particularly alert for danger, granting your allies precious moments to prepare to fight. When using the [[Actions/Scout|Scout]] exploration activity, you grant your allies a +2 circumstance bonus to their initiative rolls instead of a +1 circumstance bonus.
 
-[[Other Effects/Effect_ Scouting (Incredible Scout)|Effect: Scouting (Incredible Scout)]]
+[[Feat_Feature Effects/Effect_ Scout (Incredible Scout)|Effect: Scout (Incredible Scout)]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +17 (agile, finesse, versatile s)\n__Damage__  2d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+17 (agile, finesse, versatile s)\n__Damage__  2d6 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +16 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+16 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 25, attack +17; __3rd __  _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Darkvision|Darkvision]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Sound Body|Restore Senses]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Shield|Shield]]_"

@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +9 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+9 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +9 (deadly d8, range increment 60 feet)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+9 (deadly d8, range increment 60 feet)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Double Shot"
     desc: "`pf2:1`  The elf ranger makes two shortbow Strikes targeting two different creatures within the shortbow's first range increment. Both Strikes uses the elf's current multiple attack penalty, but each strike takes a –2 penalty."

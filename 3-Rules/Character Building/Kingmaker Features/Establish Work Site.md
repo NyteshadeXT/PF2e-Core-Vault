@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Establish Work Site"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/region
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.8B6PmgtMH2TthBSX"
 license: OGL
 ---
 # Establish Work Site
-
+## 
 ### [[downtime]][[region]]
 
 **Category** kingdom-activity; 

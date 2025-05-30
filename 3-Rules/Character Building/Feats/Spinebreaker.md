@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You squeeze your opponent in a vicious bear hug, putting intense pressure on their nerves, joints, or other pain points. Attempt an Athletics check to Grapple the creature you have grabbed or restrained, with the following effects instead of the usual effects.
+You squeeze your opponent in a vicious bear hug, putting intense pressure on their nerves, joints, or other pain points. Attempt an Athletics check to [[Actions/grapple|grapple]] a creature you have grabbed or restrained, with the following additional effects if you succeed.
 
 * * *
 

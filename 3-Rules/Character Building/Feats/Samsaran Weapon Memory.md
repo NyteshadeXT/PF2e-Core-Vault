@@ -23,5 +23,5 @@ The training of your past lives and even of those of samsarans who came before i
 
 At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

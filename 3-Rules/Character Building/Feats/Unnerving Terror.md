@@ -16,7 +16,7 @@ license: ORC
 ---
 # Unnerving Terror `pf2:2`
 ## Feat 13
-### [[auditory]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[yaoguai]]
+### [[auditory]][[emotion]][[fear]][[mental]][[yaoguai]]
 
 **Category** ancestry; 
 
@@ -41,5 +41,5 @@ You let out a mighty howl, chant of death, or speak with eerie repetition that p
 
 **Critical Failure** The target is [[Conditions/Frightened|Frightened 2]] and off-guard.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

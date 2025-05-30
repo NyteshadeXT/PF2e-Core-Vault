@@ -53,17 +53,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 (reach 10 feet)\n__Damage__  1d8 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (reach 10 feet, unarmed)\n__Damage__  1d8 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Waterspout +10 (brutal, range increment 30 feet, water)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Waterspout"
+    desc: "+10 (brutal, range increment 30 feet, water)\n__Damage__ "
 
   - name: "Adolescent Sea Serpent Algae"
     desc: " (incapacitation,poison) The water in the ballast organs around the sea serpent's neck is full of psychotropic algae.\n\n**Saving throw** DC 20 Fortitude check\n\n**Maximum duration** 3 rounds\n\n**Stage 1** [[Conditions/Confused|Confused]] and, if flying, spends its first action each turn to descend 20 feet (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d4+6 bludgeoning damage, no listed Fortitude save\n\n* * *\n"
+    desc: "`pf2:1`  1d4+6 bludgeoning damage, no listed Fortitude save\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Spine Rake"
     desc: "`pf2:2` (attack,move) The young sea serpent extends the spines along its back and Swims or Strides. Each creature the serpent is adjacent to at any point during its movement takes 1d8+4 slashing damage (DC 17 Reflex check save)."

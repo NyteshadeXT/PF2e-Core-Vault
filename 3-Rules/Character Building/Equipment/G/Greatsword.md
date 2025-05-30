@@ -1,76 +1,30 @@
 ---
-#========================================================#
-#                     CORE PROPERTIES                    #
-#========================================================#
-cssclass: pf2e-item, h-line
-name: "greatsword"
-aliases: "Greatsword"
-source: "Pathfinder Player Core"
-pg: ""
-rarity: ""
-trait01: "versatile-p"
-trait02: "common"
-trait03: ""
-trait04: ""
-trait05: ""
-trait06: ""
-trait07: ""
-trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 0
-weight: 2
-value: "2"
-subvalue: "gp"
-invest:
-usage: "held in two hands "
-license: "ORC"
-identify:
-description: "This immense two-handed sword is nearly as tall as its wielder. Its lower blade is often somewhat dulled to allow it to be gripped for extra leverage in close-quarter fights."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
-trigger2:
-mechanics2: "**Secondary Effect** "
-craft:
-
-#========================================================#
-#                   WEAPON PROPERTIES                    #
-#========================================================#
-range: 
-ammoType:
-damage: 1d12 slashing
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
-
-#========================================================#
-#                    ARMOR PROPERTIES                    #
-#========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
-resist:
-immunity:
-conditionImmunity:
-
-#========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
-#========================================================#
-weaponBase:
-armorBase:
-
+obsidianUIMode: preview
+title: "Greatsword"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - pf2e/weapon
+  - trait/versatile-p
+  - trait/common
+  - category/martial
+  - remaster
+aliases: "Compendium.pf2e.equipment-srd.Item.UX71GkWBL9g41VwM"
+license: ORC
 ---
+# Greatsword
+## Item 0
+### [[versatile-p]]
+
+|  |  |
+| -- | -- |
+| **Category** martial melee weapon | **Group** sword |
+| **Price** 2 gp |  |
+| **Bulk** 2 | **Size** med |
+| **Damage** 1d12 slashing  | **Usage** held-in-two-hands |
+
+
+
+This immense two-handed sword is nearly as tall as its wielder. Its lower blade is often somewhat dulled to allow it to be gripped for extra leverage in close-quarter fights.
+
+*Source: Pathfinder Player Core*
+*ORC*

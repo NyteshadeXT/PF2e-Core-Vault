@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Open Road Lodge Gear"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.7uj8i2ckfC3zEjsg"
 license: OGL
 ---
 # Open Road Lodge Gear
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

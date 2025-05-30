@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/Aquatic Ooze.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Aquatic Ooze"
 level: "Creature 4"
@@ -63,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +13 (agile)\n__Damage__  1d6 + 5 bludgeoning plus grab,paralysis 1d6 acid plus grab,paralysis"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+13 (agile, unarmed)\n__Damage__  1d6 + 5 bludgeoning plus grab,paralysis 1d6 acid plus grab,paralysis"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6 bludgeoning plus 1d6 acid, DC 21 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d6 bludgeoning plus 1d6 acid, DC 21 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Gray Ooze Acid"
     desc: "  A gray ooze's acid damages only metal and organic materials, not stone."
@@ -76,7 +77,7 @@ attacks:
     desc: " (incapacitation) A creature hit by the ooze's pseudopod is [[Conditions/Paralyzed|Paralyzed]] unless it succeeds at a DC 19 Fortitude check save. A victim can attempt a new save to recover at the end of each of its turns."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

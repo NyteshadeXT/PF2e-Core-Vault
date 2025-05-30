@@ -56,22 +56,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Stench|Stench]]"
-    desc: " (aura,olfactory) 30 feet DC 16 Fortitude check\n\n* * *\n"
+    desc: " (aura,olfactory) 30 feet DC 16 Fortitude check\n* * *\n\nA creature entering the aura or starting its turn in the area must succeed at a Fortitude save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] as long as it's sickened on a critical failure). A creature that succeeds at its save or recovers from being sickened is temporarily immune to all stench auras for 1 minute."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +10 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+10 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (unarmed)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +10 (agile, finesse)\n__Damage__  1d4 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+10 (agile, finesse, unarmed)\n__Damage__  1d4 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Hidden Movement"
     desc: "  If a xulgath skulker starts their turn [[Conditions/Undetected|Undetected]] by a creature or merely [[Conditions/Hidden|Hidden]] from it, that creature is [[Conditions/Off-Guard|Off-Guard]] against the skulker's attacks until the end of the skulker's turn."

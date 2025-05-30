@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Crystal Stinger +10 (agile)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Crystal Stinger"
+    desc: "+10 (agile)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Tail Spike +10 (range increment 60 feet)\n__Damage__  1d6 + 5 piercing plus sink-into-stone"
+  - name: "**Ranged** `pf2:1` Tail Spike"
+    desc: "+10 (range increment 60 feet)\n__Damage__  1d6 + 5 piercing plus sink-into-stone"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Figment|Figment (Chiming, Clinking, or Rattling Sounds Only)]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"

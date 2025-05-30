@@ -4,14 +4,14 @@ title: "(Zombie, Shock) Arcing Strikes"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/electricity
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.GD1ZD4Rl2hTPhvjL"
 license: OGL
 ---
 # (Zombie, Shock) Arcing Strikes
 
-### [[3-Rules/trait_reference/E/electricity]]
+### [[electricity]]
 
 **Category** offensive; 
 

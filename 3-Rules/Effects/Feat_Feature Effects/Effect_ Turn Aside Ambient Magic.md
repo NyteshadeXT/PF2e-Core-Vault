@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Actions/Turn Aside Ambient Magic|Turn Aside Ambient Magic]]
 
-Choose acid, cold, electricity, fire, or sonic damage. Until the beginning of your next turn, you gain resistance against the chosen damage type equal to half your level.
+Choose acid, cold, electricity, fire, or sonic damage. You gain resistance against the chosen damage type equal to half your level.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Pick +7 (agile, fatal d8)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Light Pick"
+    desc: "+7 (agile, fatal d8)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +9 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 1 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+9 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 1 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 14, attack +6; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_"

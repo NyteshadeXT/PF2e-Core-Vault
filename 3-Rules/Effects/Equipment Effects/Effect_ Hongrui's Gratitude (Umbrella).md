@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Hongrui's Gratitude|Hongrui's Gratitude]]
+
 You gain a +1 item bonus to Survival checks.
 
 *Source: Pathfinder #196: The Summer That Never Was*

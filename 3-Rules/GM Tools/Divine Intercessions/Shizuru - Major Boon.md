@@ -20,5 +20,5 @@ Shizuru bestows upon you a golden suit of armor made from sunlight, or transform
 
 Once per hour while you are wearing the armor, if an attack would reduce your Hit Points to 0, the attack is instead completely negated.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Discern Secrets|Discern Secrets]]
+Granted by [[Spells/Discern Secrets|Discern Secrets]]
 
 You gain a +1 status bonus to the statistic used for the Recall Knowledge, Seek, or Sense Motive roll (a skill or Perception) on the roll and as long as you Sustain the spell.
 

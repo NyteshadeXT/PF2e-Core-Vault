@@ -65,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +34 (reach 25 feet)\n__Damage__  3d10 + 19 bludgeoning plus improved-grab,prismatic-touch"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+34 (reach 25 feet)\n__Damage__  3d10 + 19 bludgeoning plus improved-grab,prismatic-touch"
 
   - name: "Prismatic Touch"
     desc: " (arcane) A creature hit by the prismatic ooze's pseudopod or [[Conditions/Grabbed|Grabbed]] by the prismatic ooze at the start of the ooze's turn experiences an additional effect depending on which color the ooze is at that moment. The creature is then immune to Prismatic Touch until the start of the ooze's next turn.\n\nRoll 1d8 to determine which color affects the target. If the color has been counteracted (see Prismatic Vulnerability), then Prismatic Touch has no effect. Each effect is DC 38.\n\n*   **1. Red**: 3d6 fire damage (DC 38 basic Reflex save)\n*   **2. Orange**: 3d8 acid damage (DC 38 basic Reflex save)\n*   **3. Yellow**: 4d6 electricity damage (DC 38 basic Reflex save)\n*   **4. Green**: 2d6 poison damage plus [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute (DC 38 basic Fortitude save; no enfeebled on a success)\n*   **5. Blue**: [[Spells/Petrify|Flesh to Stone]] DC 38 Will\n*   **6. Indigo**: _[[Spells/Warp Mind|Warp Mind]]_ DC 38 Will\n*   **7. Violet**: The target is [[Conditions/Slowed|Slowed 1]] for 1 minute. A successful DC 38 Will save negates; on a critically failed save, the target is sent to another plane, with the effect of _[[Spells/Interplanar Teleport|Plane Shift]]_.\n*   **8. Potent Strike:** The target is affected by two colors-roll twice, rerolling duplicates or results of 8."

@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dogslicer +8 (agile, backstabber, finesse)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Dogslicer"
+    desc: "+8 (agile, backstabber, finesse)\n__Damage__  1d6 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +8 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+8 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 17, attack +7; __1st __ (2 slots) _[[Spells/Bless|Bless]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(1st)__ _[[Spells/Courageous Anthem|Courageous Anthem]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Message|Message]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

@@ -13,13 +13,14 @@ license: OGL
 ---
 # Wellspring Mage Dedication
 ## Feat 2
-### [rare](rare.md "Rare Rarity Trait")[[archetype]][[class]][[dedication]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[class]][[dedication]]
 
 **Category** class; 
 
 
 
-
+**Prerequisites** wellspring magic
+* * *
 There's no longer a limit on how many temporary spell slots you can gain per day from wellspring magic.
 
 **Special** You can't select another dedication feat until you gain two other feats from the [[PF2e Journals/Archetypes/Wellspring Mage|Wellspring Mage]] archetype.

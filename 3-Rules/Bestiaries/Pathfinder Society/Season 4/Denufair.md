@@ -59,11 +59,14 @@ abilities_mid:
   - name: "Stench"
     desc: " (aura,olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 13 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] for as long as it's sickened on a critical failure). While within the aura, affected creatures take a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 (finesse, reach 0 feet)\n__Damage__  1d4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (finesse, reach 0 feet, unarmed)\n__Damage__  1d4 piercing"
 
   - name: "Feral Leap"
     desc: "`pf2:2` (move) Denufair jumps with a maximum height and distance each equal to half its Speed. This movement doesn't trigger reactions. At any point, the predatory rabbit attempts a jaws Strike."

@@ -18,20 +18,7 @@ license: OGL
 
 Granted by [[Feats/Avenge in Glory|Avenge in Glory]]
 
-**Frequency** once per day
+You gain temporary Hit Points equal to your level. As long as you have these temporary Hit Points, you gain a +1 circumstance bonus to attack and damage rolls.
 
-**Access** mountain dwarf ethnicity
-
-**Trigger** An ally within 30 feet gains the [[Conditions/Dying|Dying]] condition.
-
-* * *
-
-You honor your ally's life, gaining temporary Hit Points equal to your level for 1 minute. As long as you have these temporary Hit Points, you gain a +1 circumstance bonus to attack and damage rolls.
-
-Implemented Effects:
-
-*   Temporary hitpoints based on level
-*   Sets a circumstance bonus of +1 to attack and damage rolls
-
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

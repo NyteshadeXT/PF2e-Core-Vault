@@ -61,11 +61,14 @@ abilities_mid:
   - name: "Crumbling Form"
     desc: "  A decrepit mummy is barely cohesive. Once a decrepit mummy is reduced to fewer than half their Hit Points, or immediately upon being damaged by a critical hit, they start falling apart, reducing their Armor Class to 15."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +11 ()\n__Damage__  1d8 + 3 bludgeoning plus lesser-mummy-rot"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+11 (unarmed)\n__Damage__  1d8 + 3 bludgeoning plus lesser-mummy-rot"
 
   - name: "Lesser Mummy Rot"
     desc: " (disease,divine,void) The damage from this disease can't be healed while a creature still has the disease. A creature killed by lesser mummy rot turns to dust and can't be resurrected except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic\n\n**Saving Throw** DC 16 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 minute)\n\n**Stage 2** 2d6 void damage and [[Conditions/Stupefied|Stupefied 1]] (1 day)"

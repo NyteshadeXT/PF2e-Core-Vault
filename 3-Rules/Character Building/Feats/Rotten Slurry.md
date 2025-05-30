@@ -14,7 +14,7 @@ license: ORC
 ---
 # Rotten Slurry `pf2:1`
 ## Feat 2
-### [rare](rare.md "Rare Rarity Trait")[[attack]][[deviant]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[attack]][[deviant]][[magical]]
 
 **Category** class; 
 

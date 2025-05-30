@@ -23,7 +23,7 @@ level: "Army 6"
 
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: skirmisher
 modifier: 14
 perception:
@@ -31,9 +31,9 @@ perception:
   - name: "Scouting"
     desc: "+14"
   - name: "Recruitment DC"
-    desc: "; __Consumption__ 1"
+    desc: "15; __Consumption__ 1"
   - name: "Description"
-    desc: "This army is a band of hunters and trappers who have gathered into a ragtag group of archers led by Mayor Loy Rezbin."
+    desc: "This army is a band of hunters and trappers who have gathered into a ragtag group of archers led by Mayor Loy Rezbin."
 ac: 24
 armorclass:
   - name: AC

@@ -59,16 +59,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Boneshard Burst"
-    desc: "  When a clacking skull swarm is reduced to 0 Hit Points, it erupts in an explosion of foul energy and bone fragments in a @Template[burst|distance:30], dealing 2d12+2 piercing damage and 2d12+2 void damage (DC 31 Reflex check save)."
+    desc: "  When a clacking skull swarm is reduced to 0 Hit Points, it erupts in an explosion of foul energy and bone fragments in a 30-foot burst, dealing 2d12+2 piercing damage and 2d12+2 void damage (DC 31 Reflex check save)."
 
   - name: "Chattering Teeth"
     desc: " (arcane,auditory,aura,emotion,incapacitation,mental) 60 feet. A clacking skull swarm emits a cacophony of chattering. A creature entering or beginning its turn within the area must succeed at a DC 31 Will check save or become [[Conditions/Confused|Confused]] for 1 round. A creature that successfully saves is immune to that swarm's chattering teeth for 24 hours. The swarm can stop or resume this ability as a free action."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
   - name: "Shrieking Scream"
-    desc: "`pf2:2` (auditory,emotion,fear,mental) The clacking skull swarm emits a terrifying, painful scream that deals 10d6+4 sonic damage to all creatures in a @Template[cone|distance:30] (DC 31 Will check save). A creature that fails this save is also [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure).\n\nThe swarm can't use Frightening Scream again for 1d4 rounds."
+    desc: "`pf2:2` (auditory,emotion,fear,mental) The clacking skull swarm emits a terrifying, painful scream that deals 10d6+4 sonic damage to all creatures in a 30-foot cone (DC 31 Will check save). A creature that fails this save is also [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure).\n\nThe swarm can't use Frightening Scream again for 1d4 rounds."
 
   - name: "Swarming Gnaw"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 4d8+2 piercing damage (DC 31 Reflex check save)."

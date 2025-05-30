@@ -16,11 +16,9 @@ license: OGL
 
 
 
-Three faintly glowing wisps of fire float around your head. Each time you hit a creature with a Strike, one of the wisps goes hurtling towards that creature, dealing 1d4 fire damage. If you Cast a Spell with the fire trait while you have fewer than three wisps, a new wisp appears.
+Granted by [[Spells/Flame Wisp|Flame Wisp]]
 
-* * *
-
-**Heightened (+2)** The damage increases by 1d4.
+Each time you hit a creature with a Strike, you deal fire damage.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

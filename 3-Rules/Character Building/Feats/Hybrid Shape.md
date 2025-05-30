@@ -22,5 +22,5 @@ Mastery of your shapeshifting lets you combine the best features of your humanoi
 
 This form gains all the benefits of your spider shape as well as the ability to use items and take manipulate actions just as easily as your human shape.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

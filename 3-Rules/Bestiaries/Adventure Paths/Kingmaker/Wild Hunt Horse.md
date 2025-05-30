@@ -61,10 +61,13 @@ abilities_top:
   - name: "Wild Hunt Link"
     desc: " (aura,magical) 500 feet. A wild hunt horse grants a +10-foot status bonus to wild hunt creatures' Speed other than wild hunt horses."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Buck|Buck]]"
-    desc: "`pf2:r`  DC 36 Reflex check"
+    desc: "`pf2:r`  DC 36 Reflex check\n* * *\n\nMost monsters that serve as mounts can attempt to buck off unwanted or annoying riders, but most mounts will not use this reaction against a trusted creature unless the mounts are spooked or mistreated.\n\n**Trigger** A creature [[Actions/Mount|Mounts]] or uses the [[Actions/Command an Animal|Command an Animal]] action while riding the monster.\n* * *\n\n**Effect** The triggering creature must succeed at a Reflex saving throw against the listed DC or fall off the creature and land [[Conditions/Prone|Prone]]. If the save is a critical failure, the triggering creature also takes 1d6 bludgeoning damage in addition to the normal damage for the fall."
 
   - name: "Instinctive Cooperation"
     desc: "  The wild hunt horse automatically achieves a critical success on saving throws against effects created by other allied wild hunt creatures."
@@ -78,23 +81,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +30 (agile, magical)\n__Damage__  1d8 bleed 3d10 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+30 (agile, magical)\n__Damage__  1d8 bleed 3d10 + 11 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 36, attack +28; __8th __  _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Nature's Pathway|Tree Stride (Self plus Willing Rider)]]_; __6th __  _[[Spells/Speak with Stones|Stone Tell]]_\n__Cantrips__  __(8th)__ _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_\n__Constant__  __(8th)__ _[[Spells/Speak with Animals|Speak with Animals]]_, _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Bewildering Hoofbeats"
-    desc: "`pf2:2` (auditory,aura,emotion,mental,primal) 60 feet. The wild hunt horse stamps its hooves and prances in place, creating the sound of hundreds of horses apparently approaching from all directions. Each creature within @Template[emanation|distance:60] must attempt a DC 33 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Bewildering Hoofbeats for 1 hour.\n\n**Success** The creature is distracted by the sound. Until the start of the creature's next turn, if it attempts to use a reaction, it must succeed at a DC 5 Flat check or the reaction is disrupted, wasted with no effect.\n\n**Failure** The creature is bewildered by the sound, with the same effects as success except it is also [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** As failure, but the confusion effect persists for 1 minute or until the creature recovers by other means."
+    desc: "`pf2:2` (auditory,aura,emotion,mental,primal) 60 feet. The wild hunt horse stamps its hooves and prances in place, creating the sound of hundreds of horses apparently approaching from all directions. Each creature within 60-foot emanation must attempt a DC 33 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Bewildering Hoofbeats for 1 hour.\n\n**Success** The creature is distracted by the sound. Until the start of the creature's next turn, if it attempts to use a reaction, it must succeed at a DC 5 Flat check or the reaction is disrupted, wasted with no effect.\n\n**Failure** The creature is bewildered by the sound, with the same effects as success except it is also [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** As failure, but the confusion effect persists for 1 minute or until the creature recovers by other means."
 
   - name: "Deafening Cry"
-    desc: "`pf2:1` (auditory,primal,sonic) The wild hunt horse gives out a thundering cry in a @Template[cone|distance:15]. Creatures in the area take 16d6 sonic damage (DC 36 Fortitude check, plus [[Conditions/Deafened|Deafened]] for 1 minute on a critical failure). The wild hunt horse can't use Deafening Cry again for 1d4 rounds."
+    desc: "`pf2:1` (auditory,primal,sonic) The wild hunt horse gives out a thundering cry in a 15-foot cone. Creatures in the area take 16d6 sonic damage (DC 36 Fortitude check, plus [[Conditions/Deafened|Deafened]] for 1 minute on a critical failure). The wild hunt horse can't use Deafening Cry again for 1d4 rounds."
 
   - name: "Focus Gaze"
     desc: "`pf2:1` (concentrate,fear,incapacitation,mental,primal,visual) The wild hunt horse fixes its glare at a creature it can see within 30 feet. The target must immediately attempt a Will save against the wild hunt hound's wild gaze. If the creature was already slowed by the wild gaze before attempting its save, a failed save causes it to be [[Conditions/Paralyzed|Paralyzed]] for 1 round. After attempting its save, the creature is temporarily immune to Focus Gaze from any wild hunt until the start of the wild hunt horse's next turn."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, Hoof, DC 36 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Medium or smaller, Hoof, DC 36 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

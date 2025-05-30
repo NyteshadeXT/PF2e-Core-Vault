@@ -16,9 +16,9 @@ license: OGL
 
 
 
-The target rolls twice and takes the higher result. This strike deals an extra die of damage on a hit if the attacker has fewer than half their maximum Hit Points, or two extra dice if they have fewer than one quarter their maximum Hit Points. This is a fortune effect.
+Granted by [[PF2e Journals/Hero Point Deck/Strike True|Strike True]]
 
-[[Other Effects/Effect_ Strike True|Effect: Strike True]]
+You roll twice and take the higher result on your Strike. This Strike deals an extra die of damage on a hit if the attacker has fewer than half their maximum Hit Points, or two extra dice if they have fewer than one quarter their maximum Hit Points.
 
 *Source: Pathfinder Hero Point Deck*
 *OGL*

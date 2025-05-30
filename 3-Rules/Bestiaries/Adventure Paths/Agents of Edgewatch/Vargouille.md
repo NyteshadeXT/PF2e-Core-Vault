@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +10 (finesse, unholy)\n__Damage__  1d8 + 3 piercing plus vargouille-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+10 (finesse, unholy)\n__Damage__  1d8 + 3 piercing plus vargouille-venom"
 
   - name: "Kiss"
     desc: "`pf2:1`  The vargouille kisses an adjacent creature that's asleep, [[Conditions/Paralyzed|Paralyzed]], or [[Conditions/Unconscious|Unconscious]], exposing it to the vargouille transformation disease."

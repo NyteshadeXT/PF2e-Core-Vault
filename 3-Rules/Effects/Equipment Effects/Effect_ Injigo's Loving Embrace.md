@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Injigo's Loving Embrace|Injigo's Loving Embrace]]
+
 You gain resistance 5 to mental damage and a +1 item bonus to saving throws against mental effects
 
 *Source: Pathfinder #198: No Breath to Cry*

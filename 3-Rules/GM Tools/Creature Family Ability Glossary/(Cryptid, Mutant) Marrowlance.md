@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Cryptid, Mutant) Marrowlance"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.WLmFKSzR6Xz9RqAu"
 license: OGL

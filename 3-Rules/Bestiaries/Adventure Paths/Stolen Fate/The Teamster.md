@@ -54,11 +54,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +32 (magical, versatile p)\n__Damage__  3d12 + 15 slashing"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+32 (magical, versatile p)\n__Damage__  3d12 + 15 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Harrow Card +30 (agile, magical, range increment 20 feet, thrown)\n__Damage__  3d6 + 15 piercing"
+  - name: "**Ranged** `pf2:1` Harrow Card"
+    desc: "+30 (agile, magical, range increment 20 feet, thrown)\n__Damage__  3d6 + 15 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 35, attack +27; __8th __  _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __  _[[Spells/Visions of Danger|Visions of Danger]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Confusion|Confusion]]_; __2nd __  _[[Spells/Augury|Augury]]_; __1st __  _[[Spells/Ill Omen|Ill Omen (At Will)]]_\n__Cantrips__  __(9th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

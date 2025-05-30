@@ -21,11 +21,11 @@ license: ORC
 
 You've trained with one of the ranger sects known as wardens, who practice a specialized type of primal magic. You gain your choice of one warden spell from these initial warden spells (or another you have access to).
 
-[[Gravity Weapon|Gravity Weapon]]
+[[Spells/Gravity Weapon|Gravity Weapon]]
 
-[[3-Rules/Character Building/Spells/H/Heal Companion|Heal Companion]]
+[[Spells/Heal Companion|Heal Companion]]
 
-[[3-Rules/Character Building/Spells/M/Magic Hide|Magic Hide]]
+[[Spells/Magic Hide|Magic Hide]]
 
 * * *
 

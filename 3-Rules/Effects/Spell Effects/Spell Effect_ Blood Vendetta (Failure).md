@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Blood Vendetta|Blood Vendetta]]
+Granted by [[Spells/Blood Vendetta|Blood Vendetta]]
 
-Until the bleeding stops, the target has weakness 1 to piercing and slashing damage.
+You gain weakness 1 to piercing and slashing damage until the bleeding stops.
 
 *Source: Pathfinder Player Core*
 *ORC*

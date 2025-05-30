@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile, finesse)\n__Damage__  2d10 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, finesse, unarmed)\n__Damage__  2d10 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +18 (agile, finesse, reach 10 feet)\n__Damage__  2d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+18 (agile, finesse, reach 10 feet)\n__Damage__  2d8 + 6 bludgeoning"
 
   - name: "Noxious Fumes"
     desc: "`pf2:2`  **Requirements** The belker is occupying the same space as a Medium or smaller creature\n* * *\n\n**Effect** The belker attempts to flow into the creature's lungs; the creature must attempt a DC 24 Fortitude check save. On a failure, the creature partially inhales the belker and is [[Conditions/Immobilized|Immobilized]] by the pain of the smoke rasping in its throat and lungs. The creature can attempt to exhale the belker by spending an action coughing and succeeding at a DC 24 Fortitude check save.\n\nMost of the belker remains outside the creature, so the belker can still act normally. If the belker moves out of the creature's space or uses again, the creature automatically exhales it."

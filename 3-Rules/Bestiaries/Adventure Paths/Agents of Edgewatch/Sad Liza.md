@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` War Razor +33 (agile, backstabber, deadly d8, finesse)\n__Damage__  3d4 + 11 slashing"
+  - name: "**Melee** `pf2:1` War Razor"
+    desc: "+33 (agile, backstabber, deadly d8, finesse)\n__Damage__  3d4 + 11 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +31 (agile, finesse, thrown 20 ft., versatile s)\n__Damage__  1d4 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+31 (agile, finesse, thrown 20 ft., versatile s)\n__Damage__  1d4 + 11 piercing"
 
   - name: "Bloody Mayhem"
     desc: "`pf2:2`  Sad Liza Strides three times. Once per Stride, she can attempt a war razor Strike against a creature in her reach at any point during the Stride; she must make each Strike against a different creature, but she doesn't apply her multiple attack penalty until after making all her Strikes. If any of the Strikes are a critical failure, Bloody Mayhem immediately ends."

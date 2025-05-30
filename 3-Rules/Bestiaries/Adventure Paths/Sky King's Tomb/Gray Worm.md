@@ -48,6 +48,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 100 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Blood Scent"
     desc: "  The gray worm can smell blood in the air from up to 1 mile away, or in the earth from up to 1,000 feet away."
 
@@ -57,19 +60,22 @@ abilities_mid:
     desc: "  The gray worm recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], and [[Conditions/Stunned|Stunned]] conditions at the end of its turn. It's also immune to penalties to its Speeds and the [[Conditions/Immobilized|Immobilized]] condition, and it ignores difficult terrain and greater difficult terrain."
 
   - name: "Shake It Off"
-    desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The gray worm would be affected by a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n* * *\n\n**Effect** The gray worm negates the triggering condition or effect.\n* * *\n\n**Effect** s from artifacts, deities, or a similarly powerful source can't be avoided in this way."
+    desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The gray worm would be affected by a condition or adverse effect (such as [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]])\n* * *\n\n**Effect** The gray worm negates the triggering condition or effect. Effects from artifacts, deities, or a similarly powerful source can't be avoided in this way."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +24 (deadly d10, reach 15 feet)\n__Damage__  2d10 + 10 piercing 2d6 bleed"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+24 (deadly d10, reach 15 feet, unarmed)\n__Damage__  2d10 + 10 piercing 2d6 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +24 (deadly d10, reach 15 feet)\n__Damage__  2d8 + 10 piercing plus paralysis"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+24 (deadly d10, reach 15 feet)\n__Damage__  2d8 + 10 piercing plus paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Body +22 (reach 15 feet)\n__Damage__  2d8 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Body"
+    desc: "+22 (reach 15 feet)\n__Damage__  2d8 + 9 bludgeoning"
 
   - name: "Paralysis"
     desc: " (incapacitation,occult) Any living creature hit by a gray worm's stinger Strike must succeed at a DC 27 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."

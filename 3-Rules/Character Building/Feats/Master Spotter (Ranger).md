@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.rW1q7x5CMf9Rh1bi"
-license: OGL
+license: ORC
 ---
 # Master Spotter (Ranger)
 ## Feat 12
@@ -21,5 +22,5 @@ license: OGL
 * * *
 Your proficiency rank in Perception increases to master.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

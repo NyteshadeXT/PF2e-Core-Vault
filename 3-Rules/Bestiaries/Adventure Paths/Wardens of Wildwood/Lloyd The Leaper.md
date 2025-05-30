@@ -52,28 +52,31 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/War Razor|Sally Sharp-tongue]], [[Equipment/Unmemorable Mantle|Unmemorable Mantle]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Ghastly Visage"
     desc: "`pf2:1` (concentrate,curse,emotion,fear,mental,primal,visual) Lloyd the Leaper locks eyes with a creature he can see within 30 feet. The target must immediately attempt a DC 23 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure), and it can't reduce its frightened condition below 1 for 24 hours or until this curse is removed. After attempting its save, the creature is temporarily immune to this ability for 24 hours."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sally Sharp-tongue +18 (agile, backstabber, deadly d8, finesse, magical)\n__Damage__  3d4 + 7 slashing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Sally Sharp-tongue"
+    desc: "+18 (agile, backstabber, deadly d8, finesse, magical)\n__Damage__  3d4 + 7 slashing 1d6 bleed"
 
   - name: "Innate Primal Spells"
     desc: "DC 26, attack +18; __5th __  _[[Spells/Magic Passage|Magic Passage]]_; __2nd __  _[[Spells/Calm|Calm]]_; __1st __  _[[Spells/Gentle Landing|Gentle Landing (At Will)]]_\n__Constant__  __(2nd)__ _[[Spells/Vanishing Tracks|Vanishing Tracks]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) Lloyd takes on the appearance of a Small or Medium humanoid dressed in exquisite finery. This doesn't change his Speed or his attack and damage modifiers with his Strikes. When in this form, Lloyd gains a Diplomacy modifier equal to his Intimidation modifier.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) Lloyd takes on the appearance of a Small or Medium humanoid dressed in exquisite finery. This doesn't change his Speed or his attack and damage modifiers with his Strikes. When in this form, Lloyd gains a Diplomacy modifier equal to his Intimidation modifier.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Haze of Dreams"
-    desc: "`pf2:2` (incapacitation,mental,poison,primal,sleep) Lloyd exhales a cloud of clammy gray fog. Each creature in a @Template[cone|distance:15] must attempt a DC 23 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected and becomes temporarily immune for 24 hours.\n\n**Success** The creature is [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Failure** The creature falls [[Conditions/Unconscious|Unconscious]]. It wakes up automatically if it's still unconscious after 1 minute.\n\n**Critical Failure** The creature falls unconscious. It wakes up automatically if it's still unconscious after 1 hour."
+    desc: "`pf2:2` (incapacitation,mental,poison,primal,sleep) Lloyd exhales a cloud of clammy gray fog. Each creature in a 15-foot cone must attempt a DC 23 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected and becomes temporarily immune for 24 hours.\n\n**Success** The creature is [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Failure** The creature falls [[Conditions/Unconscious|Unconscious]]. It wakes up automatically if it's still unconscious after 1 minute.\n\n**Critical Failure** The creature falls unconscious. It wakes up automatically if it's still unconscious after 1 hour."
 
   - name: "Vanishing Leap"
     desc: "`pf2:r` (illusion,primal) **Trigger** Lloyd uses Vault\n* * *\n\n**Effect** Lloyd becomes [[Conditions/Invisible|Invisible]] for 1 round."

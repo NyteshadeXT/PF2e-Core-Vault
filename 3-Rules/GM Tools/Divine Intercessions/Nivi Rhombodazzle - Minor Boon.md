@@ -22,5 +22,5 @@ Once, instead of attempting the check you would normally roll, you attempt a DC 
 
 Nivi always grants this boon when the odds are stacked against you (though this same effect is an alternate to her minor curse if she uses it for a check when you would have been very likely to succeed).
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

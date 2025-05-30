@@ -6,7 +6,7 @@ tags:
   - trait/concentrate
   - trait/fortune
   - trait/investigator
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.m0f2B7G9eaaTmhFL"
@@ -14,7 +14,7 @@ license: ORC
 ---
 # Devise a Stratagem `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]][[fortune]][[investigator]]
+### [[concentrate]][[fortune]][[investigator]]
 
 **Category** offensive; 
 

@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +8 ()\n__Damage__  1d6 acid plus grab"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+8 (unarmed)\n__Damage__  1d6 acid plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d4 bludgeoning plus 1d4 acid, DC 17 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d4 bludgeoning plus 1d4 acid, DC 17 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Envelop"
     desc: "`pf2:2`  **Requirements** The giant amoeba begins its turn with a target its size or smaller [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The giant amoeba maintains the [[Bestiary Ability Glossary/Grab|Grab]] and extends pseudopods to surround the creature and pull it inside the amoeba's body. This thereafter has the same effect as if the amoeba had [[Bestiary Ability Glossary/Engulf|Engulfed]] the creature (DC 17, 1d6 acid damage, Escape DC 17, Rupture 3)."
@@ -73,7 +73,7 @@ attacks:
     desc: "  A giant amoeba's acid damages only organic material-not metal, stone, or other inorganic substances."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

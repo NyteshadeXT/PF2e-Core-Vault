@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scourge +31 (agile, disarm, finesse, magical, nonlethal, sweep)\n__Damage__  3d4 + 13 slashing"
+  - name: "**Melee** `pf2:1` Scourge"
+    desc: "+31 (agile, disarm, finesse, magical, nonlethal, sweep)\n__Damage__  3d4 + 13 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heavy Crossbow +25 (magical, range increment 120 feet, reload 2)\n__Damage__  2d10 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Heavy Crossbow"
+    desc: "+25 (magical, range increment 120 feet, reload 2)\n__Damage__  2d10 + 8 piercing"
 
   - name: "Flog Mercilessly"
     desc: "`pf2:1` (flourish) Calennia Strikes with her _scourge_. On a hit, she rolls damage three times. This damage is combined (for the purpose of overcoming damage resistance, for example)."

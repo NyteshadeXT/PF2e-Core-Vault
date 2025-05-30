@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Brain Blisters"
@@ -63,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +23 ()\n__Damage__  2d12 + 9 piercing plus brain-collector-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+23 (unarmed)\n__Damage__  2d12 + 9 piercing plus brain-collector-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile)\n__Damage__  2d8 + 9 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, unarmed)\n__Damage__  2d8 + 9 slashing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 29, attack +21; __4th __ (2 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (4 slots) _[[Spells/Humanoid Form|Humanoid Form]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Paranoia|Paranoia]]_; __1st __ (4 slots) _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(5th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
@@ -79,7 +82,7 @@ attacks:
     desc: "`pf2:1` (manipulate) The brain collector collects a brain of a creature that has been dead for no more than 1 minute. It can then use an Interact action to secure the brain in one of its empty brain blisters."
 
   - name: "[[Creature Family Ability Glossary/(Cryptid, Mutant) Explosive End|Explosive End]]"
-    desc: "  The mutant brain collector's death reveals one last surprise as it explodes into radioactive ash. When it dies, it explodes, dealing 5d6 acid damage to each creature in a @Template[emanation|distance:10], with a basic DC 27 Reflex check save."
+    desc: "  The mutant brain collector's death reveals one last surprise as it explodes into radioactive ash. When it dies, it explodes, dealing 5d6 acid damage to each creature in a 10-foot emanation, with a basic DC 27 Reflex check save."
 
   - name: "[[Creature Family Ability Glossary/(Cryptid, Mutant) Shifting Iridescence|Shifting Iridescence]]"
     desc: " (magical) Whenever the mutant brain collector takes energy damage to which it isn't resistant or immune, after taking the damage normally, it gains resistance 10 to that damage type. If it had a resistance to a different damage type from shifting iridescence, it replaces the old resistance with the new resistance."

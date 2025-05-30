@@ -24,7 +24,9 @@ license: ORC
 
 * * *
 
-Sinking your claws in, you propel yourself at shocking speed. You Climb up to your land Speed and make a claw Strike at any point during that movement. After you finish the movement, attempt an Athletics check against the surface's Climb DC.
+Sinking your claws in, you propel yourself at shocking speed. You Climb up to your land Speed and make a claw Strike at any point during that movement. After you finish the movement, attempt an Athletics check check against the surface's Climb DC.
+
+* * *
 
 **Success** You maintain your position.
 

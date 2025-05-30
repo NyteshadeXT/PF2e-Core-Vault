@@ -60,17 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +9 (agile)\n__Damage__  1d10 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+9 (agile)\n__Damage__  1d10 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +8 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 1 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+8 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 1 bludgeoning"
 
   - name: "Load Sachet"
     desc: "`pf2:1`  **Requirements** The centaur herbalist has at least one herbal sachet;\n* * *\n\n**Effect** The centaur herbalist Interacts to load an herbal sachet in her sling. The next ranged Strike she makes with her sling deals an additional 1d6 poison damage."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 18 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 18 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

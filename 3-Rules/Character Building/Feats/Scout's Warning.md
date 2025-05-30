@@ -20,11 +20,11 @@ license: ORC
 
 
 
-**Trigger** You are about to roll a Perception or Survival check for initiative.
+**Trigger** You are about to roll a Perception, Stealth, or Survival check for initiative.
 
 * * *
 
-You visually or audibly warn your allies of danger, granting them each a +1 circumstance bonus to their initiative rolls. Depending on whether you use gestures or call out, this action gains either the visual or auditory trait, respectively.
+You visually or audibly warn your allies of danger, granting them each a +1 circumstance bonus to their initiative rolls, or a +2 circumstance bonus if you're using the [[Actions/Scout|Scout]] exploration activity. Depending on whether you use gestures or call out, this action gains either the visual or the auditory trait, respectively.
 
 [[Feat_Feature Effects/Effect_ Scout's Warning|Effect: Scout's Warning]]
 

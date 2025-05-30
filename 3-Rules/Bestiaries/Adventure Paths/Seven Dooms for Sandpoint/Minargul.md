@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +13 (agile, finesse, magical, trip)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+13 (agile, finesse, magical, trip)\n__Damage__  1d4 + 2 slashing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 24, attack +14; __3rd __  _[[Spells/Blindness|Blindness]]_; __2nd __  _[[Spells/Augury|Augury]]_, _[[Spells/Noise Blast|Noise Blast]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Stabilize|Stabilize]]_"
@@ -76,7 +76,7 @@ attacks:
     desc: "  Whistlewing (bat)"
 
   - name: "Whistle Up Cursed Flames"
-    desc: "`pf2:2` (curse,divine,fire) Minargul whistles a high-pitched shrill note, breathing out a blast of fire and foul-smelling smoke as she does so. All creatures in a @Template[cone|distance:15] must attempt a DC 24 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 3d6 fire damage.\n\n**Failure** The creature takes 6d6 fire damage and is [[Conditions/Sickened|Sickened 1]] by the agonizing pain of the burns.\n\n**Critical Failure** The creature takes 6d6 fire damage and is cursed. The burns caused by the fire linger, and the charred flesh remains blistered. The cursed creature takes a –1 status penalty to all checks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does."
+    desc: "`pf2:2` (curse,divine,fire) Minargul whistles a high-pitched shrill note, breathing out a blast of fire and foul-smelling smoke as she does so. All creatures in a 15-foot cone must attempt a DC 24 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 3d6 fire damage.\n\n**Failure** The creature takes 6d6 fire damage and is [[Conditions/Sickened|Sickened 1]] by the agonizing pain of the burns.\n\n**Critical Failure** The creature takes 6d6 fire damage and is cursed. The burns caused by the fire linger, and the charred flesh remains blistered. The cursed creature takes a –1 status penalty to all checks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does."
  
 ```
 

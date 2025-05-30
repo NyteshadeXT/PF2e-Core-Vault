@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +7 (thrown 20 ft.)\n__Damage__  1d8 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+7 (thrown 20 ft.)\n__Damage__  1d8 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +10 (thrown 20 ft.)\n__Damage__  1d8 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+10 (thrown 20 ft.)\n__Damage__  1d8 + 3 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 16, attack +8; __2nd __  _[[Spells/Speak with Animals|Speak with Animals (At Will) (Arthropods Only)]]_; __1st __  _[[Spells/Bane|Bane]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"

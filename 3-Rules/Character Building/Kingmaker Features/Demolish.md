@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Demolish"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/civic
   - trait/downtime
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.rw2BHBpLyh5Xvqw5"
 license: OGL
 ---
 # Demolish
-
+## 
 ### [[civic]][[downtime]]
 
 **Category** kingdom-activity; 

@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 (magical, unholy)\n__Damage__  2d6 + 7 piercing plus daemon-fever 1d6 spirit plus daemon-fever"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (magical, unholy)\n__Damage__  2d6 + 7 piercing plus daemon-fever 1d6 spirit plus daemon-fever"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +18 (disease, magical, range increment 120 feet, reload 1, unholy)\n__Damage__  2d8 + 7 piercing plus daemon-fever 1d6 spirit plus daemon-fever"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+18 (disease, magical, range increment 120 feet, reload 1, unholy)\n__Damage__  2d8 + 7 piercing plus daemon-fever 1d6 spirit plus daemon-fever"
 
   - name: "Divine Innate Spells"
     desc: "DC 23, attack +15; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Dispel Magic|Dispel Magic]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_"

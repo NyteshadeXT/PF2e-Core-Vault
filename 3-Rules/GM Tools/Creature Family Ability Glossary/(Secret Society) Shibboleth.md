@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Secret Society) Shibboleth"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.YELSFD2oTNMFkPJ2"
 license: OGL

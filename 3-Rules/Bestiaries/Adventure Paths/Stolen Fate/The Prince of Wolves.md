@@ -67,20 +67,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Morningstar +36 (magical, versatile p)\n__Damage__  3d6 + 15 bludgeoning 1d6 bleed"
+  - name: "**Melee** `pf2:1` Morningstar"
+    desc: "+36 (magical, versatile p)\n__Damage__  3d6 + 15 bludgeoning 1d6 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Gloom Blade +36 (agile, finesse, magical, versatile s)\n__Damage__  3d6 + 13 piercing"
+  - name: "**Melee** `pf2:1` Gloom Blade"
+    desc: "+36 (agile, finesse, magical, versatile s)\n__Damage__  3d6 + 13 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +33 (agile, finesse)\n__Damage__  3d6 + 13 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+33 (agile, finesse, unarmed)\n__Damage__  3d6 + 13 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 38, attack +30; __9th __  _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __8th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Teleport|Teleport]]_; __7th __  _[[Spells/Fly|Fly]]_, _[[Spells/Paralyze|Paralyze]]_; __6th __  _[[Spells/Truesight|True Seeing]]_\n__Cantrips__  __(10th)__ _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph) The Prince changes into his humanoid shape, hybrid shape, or wolf shape. While in hybrid shape, he gains a jaws Strike. While in animal shape, he gains the effects of a 5th-rank casting of [[Spells/Animal Form|Animal Form]] to become a canine. He prefers fighting in hybrid shape.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph) The Prince changes into his humanoid shape, hybrid shape, or wolf shape. While in hybrid shape, he gains a jaws Strike. While in animal shape, he gains the effects of a 5th-rank casting of [[Spells/Animal Form|Animal Form]] to become a canine. He prefers fighting in hybrid shape.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) The Prince designates one or two targets he can see or hear as his prey. He gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] and [[Actions/Track|Track]] his prey. If he uses Hunt Prey against a third creature when he already has two designated, a prior creature of his choice loses the designation. His designation lasts until his next daily preparations."

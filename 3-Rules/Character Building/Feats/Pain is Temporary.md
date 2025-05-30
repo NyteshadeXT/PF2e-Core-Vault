@@ -12,7 +12,7 @@ license: OGL
 ---
 # Pain is Temporary `pf2:2`
 ## Feat 13
-### [rare](rare.md "Rare Rarity Trait")[[concentrate]][[reincarnated]]
+### [rare](rare "Rare Rarity Trait")[[concentrate]][[reincarnated]]
 
 **Category** ancestry; 
 

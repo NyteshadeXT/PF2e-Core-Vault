@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +13 (agile, finesse, magical, versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+13 (agile, finesse, magical, versatile s)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +13 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+13 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 23, attack +15; __3rd __  _[[Spells/Bind Undead|Bind Undead]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/False Vitality|False Life]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Gecko Grip|Spider Climb]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Mystic Armor|Mage Armor]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
@@ -75,7 +75,7 @@ attacks:
     desc: "1 Focus Point, DC 23, attack +15; __3rd __  _[[Spells/Call of the Grave|Call of the Grave]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead]]_"
+    desc: "_Create Undead_"
 
   - name: "Drain Bonded Item"
     desc: " (arcane) When Voz uses this ability, she also regains 1 Focus Point.\n* * *\n\n**Frequency** once per day\n* * *\n\nYou expend the power stored in your bonded item, as long as the item is on your person. During your turn, you gain the ability to cast one spell you prepared today and already cast, without spending a spell slot. You must still [[Actions/Cast a Spell|Cast the Spell]] and meet the spell's other requirements."

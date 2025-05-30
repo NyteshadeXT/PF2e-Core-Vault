@@ -35,7 +35,7 @@ perception:
 languages: "Common, Daemonic, Diabolic, Varisian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +33, Arcana: +29, Crafting: +29, Deception: +33, Intimidation: +31, Occultism: +27, Religion: +28, Stealth: +0, Thievery: +30, Theater Lore: +27"
+    desc: "Acrobatics: +33, Arcana: +29, Crafting: +29, Deception: +33, Intimidation: +31, Occultism: +27, Religion: +28, Stealth: +30, Thievery: +30, Theater Lore: +27"
 abilityMods: [2, 5, 1, 4, 3, 6]
 speed: 25 feet
 sourcebook: "_Pathfinder #205: Singer, Stalker, Skinsaw Man_"
@@ -51,7 +51,7 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Staff of Phantasms (Major)|Staff of Phantasms (Major)]], [[Equipment/War Razor|+3 Greater Striking Astral Keen Wounding War Razor]], [[Equipment/Explorer's Clothing|+3 Greater Resilient Raiment Greater Invisibility Explorer's Clothing]], [[Equipment/Cloak of Swiftness|Cloak of Swiftness]], Soulfeeding Mask, Ring of Keys, [[Equipment/Magic Wand (7th-Rank Spell)|Wand of Planar Seal (Rank 7)]], [[Equipment/Magic Wand (5th-Rank Spell)|Wand of Translocate (Rank 5)]]"
+    desc: "[[Equipment/Staff of Phantasms (Major)|Staff of Phantasms (Major)]], [[Equipment/War Razor|+3 Greater Striking Astral Keen Wounding War Razor]], [[Equipment/Explorer's Clothing|+3 Greater Resilient Raiment Greater Invisibility Explorer's Clothing]], [[Equipment/Cloak of Swiftness|Cloak of Swiftness]], [[Equipment/Soulfeeding Mask|Soulfeeding Mask]], Ring of Keys, [[Equipment/Magic Wand (7th-Rank Spell)|Wand of Planar Seal (Rank 7)]], [[Equipment/Magic Wand (5th-Rank Spell)|Wand of Translocate (Rank 5)]]"
 abilities_mid:
   - name: ""
   - name: "Living Secret"
@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` War Razor +31 (agile, backstabber, deadly d8, finesse, magical)\n__Damage__  1d6 spirit 1d6 bleed 3d4 + 8 slashing"
+  - name: "**Melee** `pf2:1` War Razor"
+    desc: "+31 (agile, backstabber, deadly d8, finesse, magical)\n__Damage__  1d6 spirit 1d6 bleed 3d4 + 8 slashing"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 39, attack +31; __9th __ (2 slots) _[[Spells/Foresight|Foresight]]_, _[[Spells/Phantasmagoria|Phantasmagoria]]_; __8th __ (2 slots) _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Hidden Mind|Hidden Mind]]_\n__Cantrips__  __(9th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -70,7 +70,7 @@ attacks:
     desc: "2 Focus Points, DC 39, attack +31; __9th __  _[[Spells/Evolution Surge|Evolution Surge]]_, _[[Spells/Lifelink Surge|Lifelink Surge]]_\n__Cantrips__  __(9th)__ _[[Spells/Boost Eidolon|Boost Eidolon]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Teleportation Circle|Teleportation Circle]]_"
+    desc: "_Teleportation Circle_"
 
   - name: "Manifest Facade"
     desc: "`pf2:3` (arcane,concentrate,manipulate,teleportation) Fenton causes Facade to appear in an open adjacent space. Facade can then take a single action. If Facade is already manifested, they're instead unmanifested. Facade must remain within 100 feet of Fenton at all times; if forced beyond this distance (or if Fenton is reduced to 0 Hit Points), Facade unmanifests."

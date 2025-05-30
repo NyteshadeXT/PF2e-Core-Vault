@@ -61,11 +61,14 @@ abilities_mid:
   - name: "Collapse"
     desc: "`pf2:r`  **Trigger** The Iroran skeleton is critically hit\n* * *\n\n**Effect** The Iroran skeleton collapses into a pile of bones and the attack deals damage for a hit, rather than a critical hit.\n\nThe skeleton can reform in a standing position as an action, but until it does, it is [[Conditions/Immobilized|Immobilized]] and [[Conditions/Off-Guard|Off-Guard]]."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +24 (agile, finesse)\n__Damage__  4d6 + 12 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+24 (agile, finesse, unarmed)\n__Damage__  4d6 + 12 slashing"
 
   - name: "Flurry of Claws"
     desc: "`pf2:1` (flourish) The Iroran skeleton makes two claw Strikes. If both hit the same creature, the damage is combined for the purpose of resistances and weaknesses.\n\nThe multiple attack penalty applies to the Strikes as normal."

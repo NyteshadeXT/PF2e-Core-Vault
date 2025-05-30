@@ -22,5 +22,5 @@ Most half-orcs have visible tusks, but yours are particularly large and sharp, c
 
 **Special** You can take this feat only at 1st level, and you can't retrain out of this feat or into this feat.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

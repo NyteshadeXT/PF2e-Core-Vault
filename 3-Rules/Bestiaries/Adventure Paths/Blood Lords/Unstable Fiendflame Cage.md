@@ -48,7 +48,7 @@ attacks:
     desc: "`pf2:r` (divine) **Trigger** A creature enters the area\n* * *\n\n**Effect** The triggering creature is exposed to the Fiendflame Cage's clashing energies. The triggering creature takes 8d6 spirit damage, 4d6 spirit damage, and 4d6 spirit damage (DC 47 Fortitude check). The trap then rolls initiative."
 
   - name: "Routine"
-    desc: "(2 actions) On its initiative, the Fiendflame Cage uses 1 action to release a wave of hellfire, dealing 2d10+12 evil damage and 2d10+12 fire damage to all creatures in a 15-foot-radius burst (DC 47 Reflex check). The Fiendflame Cage uses its second action to release a wave of holy light, dealing 2d10+12 good damage and 2d10+12 fire damage to all creatures in a 15-foot-radius burst (DC 47 Reflex check)."
+    desc: "(2 actions) On its initiative, the Fiendflame Cage uses 1 action to release a wave of hellfire, dealing 2d10+12 spirit damage and 2d10+12 fire damage to all creatures in a 15-foot-radius burst (DC 47 Reflex check). The Fiendflame Cage uses its second action to release a wave of holy light, dealing 2d10+12 spirit damage and 2d10+12 fire damage to all creatures in a 15-foot-radius burst (DC 47 Reflex check)."
   - name: "Reset"
     desc: "The trap resets after 24 hours."
 ```

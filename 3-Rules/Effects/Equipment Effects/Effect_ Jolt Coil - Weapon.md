@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Jolt Coil|Jolt Coil]]
+Granted by [[Equipment/Jolt Coil|Jolt Coil]], [[Equipment/Jolt Coil (Greater)|Jolt Coil (Greater)]], [[Equipment/Jolt Coil (Major)|Jolt Coil (Major)]]
 
-After you cast an electricity spell by activating the _coil_, your Strikes with the weapon deal an additional 1d4 electricity damage until the end of your next turn.
+Strikes with the weapon deal additional electricity damage until the end of your next turn.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -62,22 +62,25 @@ abilities_mid:
     desc: "`pf2:r` (plant) **Trigger** Avathrael is the target of a physical attack\n* * *\n\n**Effect** Avathrael raises their plant-covered wings to block the incoming blow. They gain a +2 circumstance bonus to AC against the triggering attack. If the attack misses, it's deflected by Avathrael's wing, causing some of the dangerous plants growing on the wing to burst and release a cloud of toxic pollen. The triggering creature takes 2d10 poison damage (DC 29 Fortitude check save). On a critical failure, the triggering creature is also [[Conditions/Sickened|Sickened 1]]."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet DC 29 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet DC 29 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
+
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +26 (magical, reach 15 feet)\n__Damage__  3d10 + 11 piercing 1d8 poison"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+26 (magical, reach 15 feet, unarmed)\n__Damage__  3d10 + 11 piercing 1d8 poison"
 
-  - name: "Melee"
-    desc: "`pf2:1` Razor Tail +24 (magical, reach 20 feet)\n__Damage__  4d8 + 11 bludgeoning 1d8 bleed"
+  - name: "**Melee** `pf2:1` Razor Tail"
+    desc: "+24 (magical, reach 20 feet)\n__Damage__  4d8 + 11 bludgeoning 1d8 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shadow Claws +26 (agile, magical, reach 10 feet)\n__Damage__  1d8 void 2d8 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Shadow Claws"
+    desc: "+26 (agile, magical, reach 10 feet)\n__Damage__  1d8 void 2d8 + 11 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Seedpod +22 (range increment 60 feet)\n__Damage__  2d6 + 11 bludgeoning 1d6 poison"
+  - name: "**Ranged** `pf2:1` Seedpod"
+    desc: "+22 (range increment 60 feet)\n__Damage__  2d6 + 11 bludgeoning 1d6 poison"
 
   - name: "Arcane Innate Spells"
     desc: "DC 32, attack +24; __6th __  _[[Spells/Shadow Blast|Shadow Blast (x2)]]_; __5th __  _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Umbral Journey|Umbral Journey]]_; __4th __  _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Darkness|Darkness]]_; __3rd __  _[[Spells/Inscrutable Mask|Inscrutable Mask]]_; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_"
@@ -86,19 +89,19 @@ attacks:
     desc: "DC 32, attack +24; __6th __  _[[Spells/Nature's Reprisal|Nature's Reprisal]]_, _[[Spells/Tangling Creepers|Tangling Creepers]]_; __5th __  _[[Spells/Nature's Pathway|Nature's Pathway]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/One with Plants|One with Plants]]_, _[[Spells/Shape Wood|Shape Wood (At Will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Tangle Vine|Tangle Vine]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_ __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_ __(1st)__ _[[Spells/Vanishing Tracks|Vanishing Tracks]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Awaken Animal|Awaken Animal]]_, _[[Spells/Blight|Blight]]_, _[[Spells/Commune|Commune]]_, _[[Spells/Dread Ambience|Dread Ambience]]_, _[[Spells/Plant Growth|Plant Growth]]_, _[[Spells/Primal Call|Primal Call]]_, _[[Spells/Ward Domain|Ward Domain]]_"
+    desc: "_Awaken Animal_, _Blight_, _Commune_, _Dread Ambience_, _Plant Growth_, _Primal Call_, _Ward Domain_"
 
   - name: "Draconic Momentum"
     desc: "  Avathrael recharges their Poison Breath whenever they score a critical hit with a Strike."
 
   - name: "Poison Breath"
-    desc: "`pf2:2` (poison,primal) Avathrael exhales a cloud of sweet-smelling poisonous gas that deals 13d6 poison damage in a @Template[cone|distance:50] (DC 32 Fortitude check save). A creature that critically fails is also [[Conditions/Sickened|Sickened 2]]. Avathrael can't use Poison Breath again for 1d4 rounds."
+    desc: "`pf2:2` (poison,primal) Avathrael exhales a cloud of sweet-smelling poisonous gas that deals 13d6 poison damage in a 50-foot cone (DC 32 Fortitude check save). A creature that critically fails is also [[Conditions/Sickened|Sickened 2]]. Avathrael can't use Poison Breath again for 1d4 rounds."
 
   - name: "Shadow Step"
     desc: "`pf2:1` (arcane,healing,teleportation) **Frequency** twice per day\n* * *\n\n**Effect** Avathrael teleports with the effects of a 4th-rank [[Spells/Translocate|Translocate]] spell, but Avathrael must begin and end the teleportation effect in an area of dim light or darkness. If they use 2 actions to activate this ability, Avathrael also regains 8d10 healing Hit Points. Avathrael can't use Shadow Step again for 1d4 rounds."
 
   - name: "Shape Shadow Realm"
-    desc: "`pf2:2` (arcane,concentrate,shadow) Avathrael mentally reshapes their realm, reshaping terrain and creating obstacles to hinder their foes. All squares within a @Template[burst|distance:50] become difficult terrain. Creatures in the area take 10d6 void damage (DC 32 Reflex check save) from the shadows. On a failure, that creature is additionally [[Conditions/Grabbed|Grabbed]] by the malleable shadows ([[Actions/Escape|Escape]] DC 32). At the beginning of Avathrael's turn, each creature that's grabbed takes 4d6 void damage. Avathrael can't use Shape Shadow Realm again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,concentrate,shadow) Avathrael mentally reshapes their realm, reshaping terrain and creating obstacles to hinder their foes. All squares within a 50-foot burst become difficult terrain. Creatures in the area take 10d6 void damage (DC 32 Reflex check save) from the shadows. On a failure, that creature is additionally [[Conditions/Grabbed|Grabbed]] by the malleable shadows ([[Actions/Escape|Escape]] DC 32). At the beginning of Avathrael's turn, each creature that's grabbed takes 4d6 void damage. Avathrael can't use Shape Shadow Realm again for 1d4 rounds."
 
   - name: "Snuff Light"
     desc: "  **Frequency** once per round\n* * *\n\n**Effect** Avathrael exhales, automatically extinguishing all non-magical lights within 100 feet. Avathrael attempts to counteract each light source within 100 feet (+22 counteract)."

@@ -4,11 +4,12 @@ title: "Effect: Helpful Tinkering"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.MbtWd4PvUHmwPtFO"
-license: OGL
+license: ORC
 ---
 # Effect: Helpful Tinkering
-## Level 1
+## Level 10
 ### 
 
 
@@ -18,7 +19,7 @@ license: OGL
 
 Granted by [[Feats/Helpful Tinkering|Helpful Tinkering]]
 
-For 1 minute, the chosen ally's Strikes with the chosen weapon gain the same offensive boost your innovation has.
+Your strikes with the chosen weapon gain the same offensive boost your inventor ally's innovation has.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

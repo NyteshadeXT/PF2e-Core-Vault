@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** blessed armament
 * * *
-Add the following property runes to the list you can choose for your blessed armament: [[3-Rules/Character Building/Equipment/A/Animated|Animated]], [[Fearsome (Greater)|Greater Fearsome]], [[Grievous|Grievous]], [[Keen|Keen]], and [[Vitalizing (Greater)|Greater Vitalizing]]. If you have the [[Feats/Radiant Armament|Radiant Armament]] feat, add greater [[3-Rules/Character Building/Equipment/A/Astral (Greater)|Greater Astral]] and [[Brilliant (Greater)|Greater Brilliant]] to the list as well.
+Add the following property runes to the list you can choose for your blessed armament: [[Equipment/Animated|Animated]], [[Equipment/Fearsome (Greater)|Greater Fearsome]], [[Equipment/Grievous|Grievous]], [[Equipment/Keen|Keen]], and [[Equipment/Vitalizing (Greater)|Greater Vitalizing]]. If you have the [[Feats/Radiant Armament|Radiant Armament]] feat, add greater [[Equipment/Astral (Greater)|Greater Astral]] and [[Equipment/Brilliant (Greater)|Greater Brilliant]] to the list as well.
 
 In addition, you can change the rune you've selected for the day to a different rune from your list as a single action that has the concentrate and divine traits. Changing the rune doesn't restore abilities that can be used only a limited number of times.
 

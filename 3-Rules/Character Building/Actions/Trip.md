@@ -4,8 +4,7 @@ title: "Trip"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/attack
-  - trait/skill
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP"
@@ -13,7 +12,7 @@ license: ORC
 ---
 # Trip `pf2:1`
 
-### [[attack]][[skill]]
+### [[attack]]
 
 **Category** offensive; 
 
@@ -24,7 +23,7 @@ license: ORC
 
 * * *
 
-You try to knock a creature to the ground. Attempt an Athletics check against the target's Reflex DC.
+You try to knock a creature to the ground. Attempt an [[Actions/trip|trip]]{Athletics} check against the target's Reflex DC.
 
 * * *
 

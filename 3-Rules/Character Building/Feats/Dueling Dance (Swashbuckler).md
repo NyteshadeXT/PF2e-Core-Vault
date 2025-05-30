@@ -18,7 +18,7 @@ license: OGL
 
 
 
-**Prerequisites** Dueling Parry
+**Prerequisites** Extravagant Parry
 * * *
 **Requirements** You are wielding only a single one-handed melee weapon and have your other hand or hands free.
 

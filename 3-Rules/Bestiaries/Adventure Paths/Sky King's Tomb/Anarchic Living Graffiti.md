@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +8 (agile, finesse)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+8 (agile, finesse, unarmed)\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Paint +8 (nonlethal, range increment 20 feet)\n__Damage__  1d4 + 2 bludgeoning plus splatter"
+  - name: "**Ranged** `pf2:1` Paint"
+    desc: "+8 (nonlethal, range increment 20 feet)\n__Damage__  1d4 + 2 bludgeoning plus splatter"
 
   - name: "Splatter"
     desc: "  A living graffiti splatters paint into a creature's face with its paint Strike. On a hit, the target is [[Conditions/Dazzled|Dazzled]] for 1 round or until it Interacts to remove the paint from its face."

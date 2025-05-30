@@ -56,23 +56,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tusk +14 (reach 10 feet)\n__Damage__  3d8 + 7 piercing"
+  - name: "**Melee** `pf2:1` Tusk"
+    desc: "+14 (reach 10 feet, unarmed)\n__Damage__  3d8 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Trunk +16 (reach 15 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Trunk"
+    desc: "+16 (reach 15 feet)\n__Damage__ "
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +14 (reach 10 feet)\n__Damage__  2d10 + 7 bludgeoning plus color-splash"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+14 (reach 10 feet, unarmed)\n__Damage__  2d10 + 7 bludgeoning plus color-splash"
 
   - name: "Color Splash"
     desc: " (visual) When the iridescent elephant stomps its foot, a bright, disorienting burst of light pulses through its leg. Each creatures adjacent to the iridescent elephant when it makes a foot Strike (regardless of whether or not it hit) must succeed at a DC 24 Will check save or be [[Conditions/Off-Guard|Off-Guard]] until the beginning of the elephant's next turn."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, DC 22 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Large or smaller, foot, DC 22 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
 
   - name: "Trunk Beam"
-    desc: " (light,visual) **Frequency** once per day\n* * *\n\n**Effect** The iridescent elephant blasts a beam of light from its trunk in a @Template[line|distance:30]. Each creature in the area must attempt a DC 22 Fortitude check save.\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 minute.\n\n**Critical Failure** The creature is blinded permanently."
+    desc: " (light,visual) **Frequency** once per day\n* * *\n\n**Effect** The iridescent elephant blasts a beam of light from its trunk in a 30-foot line. Each creature in the area must attempt a DC 22 Fortitude check save.\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 minute.\n\n**Critical Failure** The creature is blinded permanently."
 
   - name: "Grabbing Trunk"
     desc: "  A Medium or smaller creature hit by the elephant's trunk is [[Conditions/Grabbed|Grabbed]]. If the elephant moves, it can bring the grabbed creature along with it."

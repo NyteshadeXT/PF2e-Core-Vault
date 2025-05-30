@@ -25,5 +25,5 @@ You gain the lesser order benefit of a Hellknight order other than the one to wh
 
 **Special** You can select this feat multiple times, gaining the lesser order benefit from a different order each time by training with members of that order.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

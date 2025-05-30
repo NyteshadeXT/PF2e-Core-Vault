@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Esoteric Wayfinder"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.SujEcE3H5n9kx1PI"
 license: OGL
 ---
 # Esoteric Wayfinder `pf2:0`
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 
@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-You have modified your [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] to focus your mental energy, driving more reliable insights. When you purchase this boon, you apply its benefits to one wayfinder in your possession, granting you a special free action ability when the wayfinder is invested and in your possession.
+You have modified your [[Equipment/Wayfinder|Wayfinder]] to focus your mental energy, driving more reliable insights. When you purchase this boon, you apply its benefits to one wayfinder in your possession, granting you a special free action ability when the wayfinder is invested and in your possession.
 
 You can activate this ability as a free action before you Recall Knowledge. If you roll a critical failure on the Recall Knowledge check, you instead get a failure.
 

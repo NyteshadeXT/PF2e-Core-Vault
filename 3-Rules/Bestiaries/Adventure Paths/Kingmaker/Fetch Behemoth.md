@@ -54,25 +54,31 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 45 (Deactivated by Fire or Void)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "[[Bestiary Ability Glossary/Catch Rock|Catch Rock]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Requirements** The monster must have a free hand but can [[Actions/Release|Release]] anything it's holding as part of this reaction.\n\n**Trigger** The monster is targeted with a thrown rock Strike or a rock would fall on the monster.\n* * *\n\n**Effect** The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +38 (magical, reach 10 feet)\n__Damage__  4d6 + 18 bludgeoning 4d6 mental"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+38 (magical, reach 10 feet, unarmed)\n__Damage__  4d6 + 18 bludgeoning 4d6 mental"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +38 (brutal, range increment 120 feet)\n__Damage__  4d4 + 18 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+38 (brutal, range increment 120 feet)\n__Damage__  4d4 + 18 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 42, attack +34; __10th __  _[[Spells/Cataclysm|Cataclysm]]_; __9th __  _[[Spells/Disjunction|Disjunction]]_; __8th __  _[[Spells/Earthquake|Earthquake]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (to or from the First World only)]]_\n__Constant__  __(9th)__ _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Truespeech|Tongues]]_"
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
  
 ```
 

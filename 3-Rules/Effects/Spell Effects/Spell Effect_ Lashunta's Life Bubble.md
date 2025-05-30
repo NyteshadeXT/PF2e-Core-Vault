@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You gain a +1 status bonus to saves against inhaled dangers.
+Granted by [[Spells/Lashunta's Life Bubble|Lashunta's Life Bubble]]
+
+You gain a status bonus to saves against inhaled dangers.
 
 *Source: Pathfinder #187: The Seventh Arch*
 *OGL*

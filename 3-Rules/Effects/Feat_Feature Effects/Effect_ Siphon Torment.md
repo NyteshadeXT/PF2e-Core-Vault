@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Siphon Torment|Siphon Torment]]
 
-The target gains temporary Hit Points equal to your level.
+You gain temporary Hit Points equal to the origin's level.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/pzo90186 VICE CHANCELLOR STROH.webp| ]]
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Vice-Chancellor Vikroti Stroh"
 level: "Creature 18"
@@ -60,11 +61,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Lich) Rejuvenation|Rejuvenation]]"
     desc: " (arcane) When Vikroti is destroyed, her soul immediately transfers to her [[Equipment/Lich Soul Cage|Soul Cage]]. She can be permanently destroyed only if her soul cage is found and destroyed."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hand +33 (finesse, magical)\n__Damage__  6d8 + 8 cold plus cold-beyond-cold"
+  - name: "**Melee** `pf2:1` Hand"
+    desc: "+33 (finesse, magical)\n__Damage__  6d8 + 8 cold plus cold-beyond-cold"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 44, attack +36; __8th __  _[[Spells/Polar Ray|Polar Ray]]_; __7th __  _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Frigid Flurry|Frigid Flurry]]_; __6th __  _[[Spells/Dominate|Dominate]]_, _[[Spells/Teleport|Teleport]]_; __5th __  _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fly|Fly]]_; __3rd __  _[[Spells/Bind Undead|Bind Undead]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/False Vitality|False Life]]_, _[[Spells/Final Sacrifice|Final Sacrifice]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Summon Undead|Animate Dead]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Necromancer's Generosity|Necromancer's Generosity]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(9th)__ _[[Spells/Ancient Dust|Ancient Dust]]_, _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Read Aura|Read Aura]]_"

@@ -52,10 +52,10 @@ attacks:
   - name: ""
 
   - name: "Portal"
-    desc: "`pf2:r` (magical) **Trigger** The PCs approach the _mushroom ring_\n* * *\n\n**Effect** A [[Bestiary 1/Pugwampi|Pugwampi]] emerges from the portal to defend it, and the hazard then rolls initiative."
+    desc: "`pf2:r` (magical) **Trigger** The PCs approach the _mushroom ring_\n* * *\n\n**Effect** A [[Monster Core/Pugwampi|Pugwampi]] emerges from the portal to defend it, and the hazard then rolls initiative."
 
   - name: "Routine"
-    desc: "(1 action) A [[Bestiary 1/Pugwampi|Pugwampi]] emerges from the _mushroom ring_ and defends it. All pugwampis use the _mushroom ring's_ initiative."
+    desc: "(1 action) A [[Monster Core/Pugwampi|Pugwampi]] emerges from the _mushroom ring_ and defends it. All pugwampis use the _mushroom ring's_ initiative."
 
 ```
 

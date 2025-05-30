@@ -18,6 +18,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap185-a-taste-of-ashes/assets/art/PZO90185_GHIASI_PORTRAIT.webp| ]]
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Ghiasi's Double"
 level: "Creature 14"
@@ -66,8 +67,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +29 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 15 piercing 2d6 cold"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+29 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 15 piercing 2d6 cold"
 
   - name: "Occult Innate Spells"
     desc: "DC 34, attack +26; __7th __  _[[Spells/Shadow Blast|Shadow Blast (x3)]]_; __5th __  _[[Spells/Scouting Eye|Prying Eye]]_; __4th __  _[[Spells/Vapor Form|Gaseous Form (At Will)]]_, _[[Spells/Honeyed Words|Glibness]]_\n__Cantrips__  __(7th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_"

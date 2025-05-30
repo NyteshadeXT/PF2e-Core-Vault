@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Eye For Treasure"
+title: "Eye for Treasure"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/dwarf
@@ -9,7 +9,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.nB8BD9rIg9hfFGns"
 license: OGL
 ---
-# Eye For Treasure
+# Eye for Treasure
 ## Feat 1
 ### [[dwarf]]
 

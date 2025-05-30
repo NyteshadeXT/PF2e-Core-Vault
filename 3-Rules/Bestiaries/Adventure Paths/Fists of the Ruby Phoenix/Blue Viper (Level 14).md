@@ -64,26 +64,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +27 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+27 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Greater Acid Flask +29 (acid, alchemical, bomb, consumable, range increment 20 feet, splash)\n__Damage__  1 acid 3d6 acid 3 acid"
+  - name: "**Ranged** `pf2:1` Greater Acid Flask"
+    desc: "+29 (acid, alchemical, bomb, consumable, range increment 20 feet, splash)\n__Damage__  1 acid 3d6 acid 3 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Greater Alchemist&#x27;s Fire +29 (alchemical, bomb, consumable, fire, range increment 20 feet, splash)\n__Damage__  3d8 fire 3 fire 3 fire"
+  - name: "**Ranged** `pf2:1` Greater Alchemist&#x27;s Fire"
+    desc: "+29 (alchemical, bomb, consumable, fire, range increment 20 feet, splash)\n__Damage__  3d8 fire 3 fire 3 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Greater Bottled Lightning +29 (alchemical, bomb, consumable, electricity, range increment 20 feet, splash)\n__Damage__  3d6 electricity 3 electricity"
+  - name: "**Ranged** `pf2:1` Greater Bottled Lightning"
+    desc: "+29 (alchemical, bomb, consumable, electricity, range increment 20 feet, splash)\n__Damage__  3d6 electricity 3 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Greater Frost Vial +29 (alchemical, bomb, cold, consumable, range increment 20 feet, splash)\n__Damage__  3d6 cold 3 cold"
+  - name: "**Ranged** `pf2:1` Greater Frost Vial"
+    desc: "+29 (alchemical, bomb, cold, consumable, range increment 20 feet, splash)\n__Damage__  3d6 cold 3 cold"
 
   - name: "Pinpoint Poisoner"
     desc: "  When Blue Viper successfully Strikes an [[Conditions/Off-Guard|Off-Guard]] creature with a poisoned weapon or exposes an off-guard creature to an inhaled poison, the creature takes a -2 circumstance penalty to its initial save against that poison."
 
   - name: "Poison Spray"
-    desc: "`pf2:1`  **Requirements** Blue Viper is holding a contact or injury poison.\n* * *\n\n**Effect** Blue Viper swigs the poison and sprays it out of his mouth, affecting a @Template[cone|distance:15]. Blue Viper isn't exposed to the poison. All creatures in the cone are immediately exposed to the poison and each creature must attempt a Fortitude save against the poison."
+    desc: "`pf2:1`  **Requirements** Blue Viper is holding a contact or injury poison.\n* * *\n\n**Effect** Blue Viper swigs the poison and sprays it out of his mouth, affecting a 15-foot cone. Blue Viper isn't exposed to the poison. All creatures in the cone are immediately exposed to the poison and each creature must attempt a Fortitude save against the poison."
 
   - name: "Potent Poisoner"
     desc: "  Blue Viper's infused poisons have a DC of 34."

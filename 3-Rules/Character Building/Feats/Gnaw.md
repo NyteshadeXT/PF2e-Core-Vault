@@ -21,5 +21,5 @@ license: OGL
 * * *
 With enough time and determination, you can chew through nearly anything. You deal double your jaws damage to an unattended, inanimate object.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

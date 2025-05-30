@@ -54,25 +54,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +25 (agile, finesse)\n__Damage__  3d4 + 12 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+25 (agile, finesse, unarmed)\n__Damage__  3d4 + 12 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Falchion +26 (forceful, magical, sweep)\n__Damage__  2d10 + 12 slashing"
+  - name: "**Melee** `pf2:1` Falchion"
+    desc: "+26 (forceful, magical, sweep)\n__Damage__  2d10 + 12 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +25 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 12 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+25 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 12 piercing"
 
   - name: "Captivating Song"
     desc: "`pf2:1` (auditory,concentrate,incapacitation,mental,primal) The harpy cries out an eerie, compelling melody. Each non-harpy creature within a 300-foot aura must attempt a DC 33 Will check save to avoid becoming captivated by the harpy's song. The effect lasts for 1 round, but if the harpy uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Captivating Song, that creature is temporarily immune to Captivating Songs for 24 hours.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend each of its actions to move closer to the harpy as expediently as possible, while avoiding obvious dangers. If a captivated creature is adjacent to the harpy, it stays still and doesn't act. If attacked by the harpy, the creature is freed from captivation at the end of the harpy's turn.\n\n**Critical Failure** As failure, but if attacked by the harpy, the creature can attempt a new save at the start of its next turn, rather than being freed at the end of the harpy's turn."
 
   - name: "Dread Cry"
-    desc: "`pf2:2` (auditory,concentrate,primal,sonic) Queen Kawlinawk utters a screech in a @Template[cone|distance:60] that harms her enemies but heartens her allies. The screech deals 14d6 sonic damage to non-harpy creatures in the area (DC 33 Fortitude check). Harpies in the area can instead use a reaction to Fly, Step, or Stride; one harpy in the area, of Queen Kawlinawk's choice, can instead use a reaction to Strike. Queen Kawlinawk can't use Dread Cry for 1d4 rounds."
+    desc: "`pf2:2` (auditory,concentrate,primal,sonic) Queen Kawlinawk utters a screech in a 60-foot cone that harms her enemies but heartens her allies. The screech deals 14d6 sonic damage to non-harpy creatures in the area (DC 33 Fortitude check). Harpies in the area can instead use a reaction to Fly, Step, or Stride; one harpy in the area, of Queen Kawlinawk's choice, can instead use a reaction to Strike. Queen Kawlinawk can't use Dread Cry for 1d4 rounds."
 
   - name: "War Formation"
     desc: "  Queen Kawlinawk deals an extra 2d6 damage with her melee Strikes to any creature that's within reach of at least one of her allies."

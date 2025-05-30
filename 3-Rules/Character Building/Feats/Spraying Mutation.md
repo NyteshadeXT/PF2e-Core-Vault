@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Ostilli Host Dedication
 * * *
-Your ostilli can launch a multitude of darts at once over a short distance. When you Spit Ambient Magic, you can have it affect all creatures within a @Template\[cone|distance:15\] instead of the normal target.
+Your ostilli can launch a multitude of darts at once over a short distance. When you Spit Ambient Magic, you can have it affect all creatures within a 15-foot cone instead of the normal target.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

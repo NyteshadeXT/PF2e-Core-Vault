@@ -58,19 +58,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Venom Explosion"
-    desc: "`pf2:r` (poison) **Trigger** The venom mage is reduced to 0 Hit Points\n* * *\n\n**Effect** The venom mage explodes into a cloud of poison within a @Template[burst|distance:20]. The venom mage then reforms at a point they choose within the burst, avoids being knocked out, and remains at 1 Hit Point. The venom mage's wounded value increases by 1 when they use this ability, and they can't use this ability when they're wounded 3 or more. Creatures other than the venom mage within the burst must attempt a Fortitude save.\n* * *\n\n**Critical Success** No effect.\n\n**Success** The creature is sickened 1.\n\n**Failure** The creature is sickened 2 and cannot recover from the sickened condition while within 20 feet of the venom mage.\n\n**Critical Failure** As failure, but sickened 4."
+    desc: "`pf2:r` (poison) **Trigger** The venom mage is reduced to 0 Hit Points\n* * *\n\n**Effect** The venom mage explodes into a cloud of poison within a 20-foot burst. The venom mage then reforms at a point they choose within the burst, avoids being knocked out, and remains at 1 Hit Point. The venom mage's wounded value increases by 1 when they use this ability, and they can't use this ability when they're wounded 3 or more. Creatures other than the venom mage within the burst must attempt a Fortitude save.\n* * *\n\n**Critical Success** No effect.\n\n**Success** The creature is sickened 1.\n\n**Failure** The creature is sickened 2 and cannot recover from the sickened condition while within 20 feet of the venom mage.\n\n**Critical Failure** As failure, but sickened 4."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +17 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+17 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Poisoner&#x27;s Staff +17 (magical, two-hand d8)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Poisoner&#x27;s Staff"
+    desc: "+17 (magical, two-hand d8)\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +19 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+19 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
 
   - name: "Primal Spontaneous Spells"
     desc: "DC 28, attack +17; __5th __ (2 slots) _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Wyvern Sting|Wyvern Sting]]_; __4th __ (3 slots) _[[Spells/Heal|Heal]]_, _[[Spells/Summon Animal|Summon Animal]]_, _[[Spells/Swarming Wasp Stings|Swarming Wasp Stings]]_; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __ (3 slots) _[[Spells/Animal Messenger|Animal Messenger]]_, _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Imp Sting|Imp Sting]]_; __1st __ (3 slots) _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Read Aura|Read Aura]]_"

@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +14 (agile)\n__Damage__  1d10 + 6 piercing plus grab"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+14 (agile, unarmed)\n__Damage__  1d10 + 6 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +14 ()\n__Damage__  1d12 + 6 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+14 (unarmed)\n__Damage__  1d12 + 6 piercing"
 
   - name: "Bloodcurdling Screech"
     desc: "`pf2:1` (fear,mental) Each creature within 80 feet who can hear the owlbear's screech must attempt a DC 20 Will check save. The creatures can't be affected by another screech for 1 minute. On a critical success, the creature is unaffected; on a success, the creature gains the [[Conditions/Frightened|Frightened 1]] condition; on a failure, the creature gains the [[Conditions/Frightened|Frightened 2]] condition; on a critical failure, the creature gains the [[Conditions/Frightened|Frightened 3]] condition and must spend its next turn running away from the owlbear."

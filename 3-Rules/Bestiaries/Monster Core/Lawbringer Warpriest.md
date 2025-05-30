@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +13 (versatile p)\n__Damage__  1d12 + 7 slashing"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+13 (versatile p)\n__Damage__  1d12 + 7 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +11 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+11 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 3 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 20, attack +12; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Haste|Haste]]_; __2nd __  _[[Spells/Enlarge|Enlarge]]_; __1st __  _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Sure Strike|Sure Strike]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_"

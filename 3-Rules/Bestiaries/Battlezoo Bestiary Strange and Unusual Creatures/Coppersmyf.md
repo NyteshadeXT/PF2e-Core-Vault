@@ -35,7 +35,7 @@ perception:
 languages: "Fey, Gnomish; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Crafting: +10, Stealth: +11, Acrobatics: +11, Crafting: +10, Stealth: +11, Cooking Lore: +12"
+    desc: "Acrobatics: +11, Crafting: +10, Stealth: +11, Cooking Lore: +12"
 abilityMods: [2, 5, 0, -2, 2, 1]
 speed:  fly 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Meat Cleaver +13 (agile, finesse)\n__Damage__  2d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Meat Cleaver"
+    desc: "+13 (agile, finesse)\n__Damage__  2d8 + 4 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Revealing Light|Glitterdust (x3)]]_"

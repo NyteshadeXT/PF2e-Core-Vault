@@ -59,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Disrupted Link"
     desc: "  While a convergent soldier is [[Conditions/Confused|Confused]], [[Conditions/Fascinated|Fascinated]], or [[Conditions/Frightened|Frightened]], they loses their convergent link and convergent tactics abilities."
@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword +31 (magical, two-hand d12)\n__Damage__  2d8 + 12 slashing plus convergent-tactics"
+  - name: "**Melee** `pf2:1` Bastard Sword"
+    desc: "+31 (magical, two-hand d12)\n__Damage__  2d8 + 12 slashing plus convergent-tactics"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Longbow +29 (deadly d10, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 9 piercing plus convergent-tactics"
+  - name: "**Ranged** `pf2:1` Longbow"
+    desc: "+29 (deadly d10, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 9 piercing plus convergent-tactics"
 
   - name: "Convergent Tactics"
     desc: "  The convergent soldier's attacks deal an extra 4d8 damage to creatures within reach of one of their allies with convergent tactics."

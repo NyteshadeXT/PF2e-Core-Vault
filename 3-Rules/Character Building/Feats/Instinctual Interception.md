@@ -21,5 +21,5 @@ license: OGL
 * * *
 You react to movement with hardly a thought, seeming constantly poised to spring. At the start of each of your turns, you gain an additional reaction that you can use only to Interrupt Charge.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

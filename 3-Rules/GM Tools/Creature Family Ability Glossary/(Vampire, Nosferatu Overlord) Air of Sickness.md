@@ -4,14 +4,14 @@ title: "(Vampire, Nosferatu Overlord) Air of Sickness"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/aura
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.yDE3ZEoxRUqQmAsX"
 license: OGL
 ---
 # (Vampire, Nosferatu Overlord) Air of Sickness
 
-### [[3-Rules/trait_reference/A/aura]]
+### [[aura]]
 
 **Category** offensive; 
 

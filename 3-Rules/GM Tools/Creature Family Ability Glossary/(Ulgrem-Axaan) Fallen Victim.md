@@ -4,7 +4,7 @@ title: "(Ulgrem-Axaan) Fallen Victim"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/attack
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.RQ9NaIerG95wkhjl"
 license: OGL
@@ -24,5 +24,5 @@ license: OGL
 
 **Effect** Ulgrem-Axaan attempts a jaws Strike against the creature. If successful, Ulgrem-Axaan immediately [[Conditions/Grabbed|Grabs]] the creature, and the creature takes an additional 2d10 bludgeoning damage.
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

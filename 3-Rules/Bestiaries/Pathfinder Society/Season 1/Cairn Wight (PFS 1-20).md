@@ -61,14 +61,17 @@ abilities_mid:
   - name: "Final Spite"
     desc: "`pf2:r`  **Trigger** The wight is reduced to 0 Hit Points.\n* * *\n\n**Effect** The wight makes a Strike before being destroyed. It doesn't gain any temporary HP from drain life on this Strike."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword +12 ()\n__Damage__  1d12 + 4 slashing plus drain-life"
+  - name: "**Melee** `pf2:1` Bastard Sword"
+    desc: "+12 ()\n__Damage__  1d12 + 4 slashing plus drain-life"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +12 (agile)\n__Damage__  1d4 + 4 slashing plus drain-life"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+12 (agile, unarmed)\n__Damage__  1d4 + 4 slashing plus drain-life"
 
   - name: "Drain Life"
     desc: " (divine) When the wight damages a living creature with its claw Strike, the wight gains 3 temporary Hit Points and the creature must succeed at a DC 17 Fortitude check save or become [[Conditions/Drained|Drained 1]]. Further damage dealt by the wraith increases the amount of drain by 1 on a failed save to a maximum of drained 4."

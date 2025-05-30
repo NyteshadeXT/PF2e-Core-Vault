@@ -60,22 +60,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Echoblade +23 (magical, reach 10 feet, two-hand d8)\n__Damage__  2d4 + 15 bludgeoning 1d8 force"
+  - name: "**Melee** `pf2:1` Echoblade"
+    desc: "+23 (magical, reach 10 feet, two-hand d8)\n__Damage__  2d4 + 15 bludgeoning 1d8 force"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 (agile, reach 10 feet)\n__Damage__  2d8 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+23 (agile, reach 10 feet, unarmed)\n__Damage__  2d8 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Echoblade +23 (magical, thrown 30 ft.)\n__Damage__  2d4 + 15 bludgeoning 1d8 force"
+  - name: "**Ranged** `pf2:1` Echoblade"
+    desc: "+23 (magical, thrown 30 ft.)\n__Damage__  2d4 + 15 bludgeoning 1d8 force"
 
   - name: "Colossal Echo"
-    desc: "`pf2:2` (force) **Requirements** The swordkeeper has a central weapon\n* * *\n\n**Effect** The swordkeeper projects a massive echoblade held in all four hands, dealing 9d8 force damage to all creatures in a @Template[line|distance:30] (DC 30 Reflex check save).\n\nIt can't use Colossal Echo again for 1d4 rounds."
+    desc: "`pf2:2` (force) **Requirements** The swordkeeper has a central weapon\n* * *\n\n**Effect** The swordkeeper projects a massive echoblade held in all four hands, dealing 9d8 force damage to all creatures in a 30-foot line (DC 30 Reflex check save).\n\nIt can't use Colossal Echo again for 1d4 rounds."
 
   - name: "Echoblade Flurry"
     desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The swordkeeper makes two melee Echoblade Strikes. If both Strikes hit the same creature, combine their damage for the purpose of resistances and weakness. Apply the swordkeeper's multiple attack penalty normally."

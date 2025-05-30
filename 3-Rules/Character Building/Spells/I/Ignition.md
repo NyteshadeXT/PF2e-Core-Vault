@@ -39,6 +39,6 @@ abilities_top:
     desc: "30 feet; **Targets** 1 creature"
 abilities_mid:
   - name: ""
-    desc: "You snap your fingers and point at a target, which begins to smolder. Make a spell attack roll against the target's AC, dealing 2d4 fire damage on a hit. If the target is within your melee reach, you can choose to make a melee spell attack with the flame instead of a ranged spell attack, which increases all the spell's damage dice to d6s.\n* * *\n\n**Critical Success** The target takes double damage and 1d4 persistent fire damage.\n\n**Success** The target takes full damage.\n* * *\n\n**Heightened (+1)** The initial damage increases by 1d4 and the persistent fire damage on a critical hit increases by 1d4.\n\nScaling Persistent Fire Damage\n\nScaling Fire Damage (Melee)"
+    desc: "You snap your fingers and point at a target, which begins to smolder. Make a spell attack roll against the target's AC, dealing 2d4 fire damage on a hit. If the target is within your melee reach, you can choose to make a melee spell attack with the flame instead of a ranged spell attack, which increases all the spell's damage dice to d6s.\n* * *\n\n**Critical Success** The target takes double damage and 1d4 persistent fire damage.\n\n**Success** The target takes full damage.\n* * *\n\n**Heightened (+1)** The initial damage increases by 1d4 and the persistent fire damage on a critical hit increases by 1d4.\n\nScaling Persistent Fire Damage\n\nScaling Persistent Fire Damage (Melee)"
 sourcebook: "_Pathfinder Player Core_"
 ```

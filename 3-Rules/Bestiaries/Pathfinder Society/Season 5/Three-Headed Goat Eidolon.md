@@ -55,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Three Headed"
     desc: "  Any ability that would sever one of the three-headed goat's heads (such as a critical hit with a vorpal weapon) severs one head at random. Losing a head doesn't kill the three-headed goat (as long as it has one head left), but it does prevent it from making Strikes with the lost head or using the head's Breath Weapon."
@@ -66,20 +66,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Markhor Goat Bite +14 ()\n__Damage__  1d6 poison 1d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Markhor Goat Bite"
+    desc: "+14 ()\n__Damage__  1d6 poison 1d8 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Saanen Goat Bite +14 ()\n__Damage__  1d6 fire 1d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Saanen Goat Bite"
+    desc: "+14 ()\n__Damage__  1d6 fire 1d8 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +14 (agile)\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+14 (agile)\n__Damage__  1d6 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Boer Goat Bite +14 ()\n__Damage__  1d6 sonic 1d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Boer Goat Bite"
+    desc: "+14 ()\n__Damage__  1d6 sonic 1d8 + 6 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane) The two-headed goat breathes a @Template[cone|distance:20] that deals 3d6 damage to all creatures in the area (DC 18 basic save of a type indicated below).\n\nThe two-headed goat can't use either of its Breath Weapons again for 1d4 rounds.\n\n*   **Boer** Cone of 3d6 sonic (DC 18 Will check)\n*   **Markhor** Cone of 3d6 poison (DC 18 Fortitude check)\n*   **Saanen** Cone of 3d6 fire (DC 18 Reflex check)"
+    desc: "`pf2:2` (arcane) The two-headed goat breathes a 20-foot cone that deals 3d6 damage to all creatures in the area (DC 18 basic save of a type indicated below).\n\nThe two-headed goat can't use either of its Breath Weapons again for 1d4 rounds.\n\n*   **Boer** Cone of 3d6 sonic (DC 18 Will check)\n*   **Markhor** Cone of 3d6 poison (DC 18 Fortitude check)\n*   **Saanen** Cone of 3d6 fire (DC 18 Reflex check)"
 
   - name: "Elemental Bite"
     desc: "  Each head deals an extra 1d6 damage of a type matching the head's breath weapon."

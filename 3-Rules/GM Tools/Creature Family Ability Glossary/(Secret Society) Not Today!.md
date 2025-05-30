@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Secret Society) Not Today!"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.gSXxJ2FYEGrX1Psy"
 license: OGL

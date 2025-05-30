@@ -15,7 +15,7 @@ license: ORC
 ---
 # Mesmerizing Gaze `pf2:2`
 ## Feat 6
-### [[archetype]][[emotion]][[3-Rules/trait_reference/M/mental]][[visual]]
+### [[archetype]][[emotion]][[mental]][[visual]]
 
 **Category** class; 
 

@@ -33,7 +33,7 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "+10; Darkvision"
-languages: "Common"
+languages: "Common, Ysoki"
 skills:
   - name: "Skills"
     desc: "Acrobatics: +9, Crafting: +12, Deception: +7, Society: +10, Stealth: +12, Thievery: +9"
@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +12 (agile, finesse)\n__Damage__  1d4 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+12 (agile, finesse)\n__Damage__  1d4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemical Grenade +13 (range increment 20 feet, splash)\n__Damage__  1d6 acid"
+  - name: "**Ranged** `pf2:1` Alchemical Grenade"
+    desc: "+13 (range increment 20 feet, splash)\n__Damage__  1d6 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +12 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+12 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "Cheek Pouches"
     desc: "  A ratfolk grenadier has stretchy cheek pouches that can store up to 1 cubic foot of objects (though no more than 4 light items). The ratfolk can remove or store an item using the Interact action. As long as the ratfolk has at least one object in their cheek pouches, their speech is noticeably difficult to understand."

@@ -58,17 +58,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +15 ()\n__Damage__  2d8 + 8 bludgeoning plus bogwid-fever"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+15 (unarmed)\n__Damage__  2d8 + 8 bludgeoning plus bogwid-fever"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Larval Spit +14 (range increment 10 feet)\n__Damage__  2d8 bleed plus ravenous-young"
+  - name: "**Ranged** `pf2:1` Larval Spit"
+    desc: "+14 (range increment 10 feet)\n__Damage__  2d8 bleed plus ravenous-young"
 
   - name: "Bogwid Fever"
     desc: " (disease) **Saving Throw** DC 20 Fortitude check\n\n**Onset** 1 day\n* * *\n\n**Stage 1** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 2]], and the DC to recover from persistent bleed is increased by 2 (1 day)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 3]], and the DC to recover from persistent bleed is increased by 5 (1 day)\n\n**Stage 4** [[Conditions/Enfeebled|Enfeebled 4]], the DC to recover from persistent bleed is increased by 5, and you take 1d8 persistent bleed damage every 1d4 hours (1 day)\n* * *\n\n[[Bestiary Effects/Effect_ Bogwid Fever|Effect: Bogwid Fever]]"
 
   - name: "Ravenous Young"
-    desc: "  The larvae launched from the bogwid attach themselves to the target and begin to feed. Once a larva is attached, the target becomes [[Conditions/Drained|Drained 1]]. While the larva remains attached, the target cannot recover from persistent bleed. To remove the larva, the target can attempt to [[/act escape dc=21]]. Additionally, any area damage dealt to the target destroys all attached larvae.\n* * *\n\n[[Bestiary Effects/Effect_ Ravenous Young|Effect: Ravenous Young]]"
+    desc: "  The larvae launched from the bogwid attach themselves to the target and begin to feed. Once a larva is attached, the target becomes [[Conditions/Drained|Drained 1]]. While the larva remains attached, the target cannot recover from persistent bleed. To remove the larva, the target can attempt to [[Actions/escape dc=21|escape dc=21]]. Additionally, any area damage dealt to the target destroys all attached larvae.\n* * *\n\n[[Bestiary Effects/Effect_ Ravenous Young|Effect: Ravenous Young]]"
  
 ```
 

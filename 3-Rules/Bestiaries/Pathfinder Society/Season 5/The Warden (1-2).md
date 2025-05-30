@@ -55,8 +55,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +7 (two-hand d8)\n__Damage__  1d4 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+7 (two-hand d8)\n__Damage__  1d4 + 2 bludgeoning"
 
   - name: "Occult Prepared Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_, _[[Spells/Void Warp|Void Warp]]_"

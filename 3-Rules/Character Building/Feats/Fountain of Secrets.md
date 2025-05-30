@@ -24,5 +24,5 @@ license: OGL
 
 You constantly remember details about the world. You attempt a check to Recall Knowledge. If you succeed, you gain additional information or context. If you critically succeed, at the GM's discretion you might gain even more additional information or context than normal.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

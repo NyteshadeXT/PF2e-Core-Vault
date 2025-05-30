@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/arcane
   - trait/mental
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.tdqw4QXzA2x7fDLT"
 license: OGL
 ---
 # (Lich) Pillage Mind `pf2:r`
 
-### [[arcane]][[3-Rules/trait_reference/M/mental]]
+### [[arcane]][[mental]]
 
 **Category** offensive; 
 

@@ -37,7 +37,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +38, Athletics: +38, Intimidation: +38, Stealth: +38, Acrobatics: +38, Athletics: +38, Intimidation: +38, Stealth: +38"
+    desc: "Acrobatics: +38, Athletics: +38, Intimidation: +38, Stealth: +38"
 abilityMods: [10, 11, 10, 3, 2, 8]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Skinwhip +38 (finesse, reach 40 feet)\n__Damage__  4d12 + 19 slashing"
+  - name: "**Melee** `pf2:1` Skinwhip"
+    desc: "+38 (finesse, reach 40 feet)\n__Damage__  4d12 + 19 slashing"
 
   - name: "Mutable Combatant"
     desc: "  **Trigger** the thousand skins begins its turn\n* * *\n\n**Effect** The thousand skins chooses one of the following benefits to gain until the start of its next turn:\n\n*   The thousand skins gains a +2 circumstance bonus to its AC.\n*   The thousand skins deals 2d6 additional damage with its skinwhip and Skinwhip Eruption.\n*   The thousand skins gains a +2 circumstance bonus to its Athletics checks.\n*   The thousand skins gains 20 temporary Hit Points that last until its next turn.\n\n[[Effects/Effect_ Mutable Combatant|Effect: Mutable Combatant]]"

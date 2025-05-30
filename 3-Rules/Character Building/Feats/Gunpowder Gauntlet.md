@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.FbzbZc4LGUTcz9tA"
-license: OGL
+license: ORC
 ---
 # Gunpowder Gauntlet `pf2:1`
 ## Feat 4
@@ -27,11 +28,11 @@ Your flair keeps foes' attention, as your motions with your gun draw your foes i
 
 * * *
 
-**Critical Success** The target takes a -2 status penalty to attack rolls against creatures other than you until the beginning of your next turn.
+**Critical Success** The target takes a –2 status penalty to attack rolls against creatures other than you until the beginning of your next turn.
 
-**Success** The target takes a -1 status penalty to attack rolls against creatures other than you until the beginning of your next turn.
+**Success** The target takes a –1 status penalty to attack rolls against creatures other than you until the beginning of your next turn.
 
 [[Feat_Feature Effects/Effect_ Gunpowder Gauntlet|Effect: Gunpowder Gauntlet]]
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

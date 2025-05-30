@@ -53,8 +53,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 ()\n__Damage__  1d8 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (unarmed)\n__Damage__  1d8 + 6 piercing"
 
   - name: "Grinding Bite"
     desc: "`pf2:1`  **Requirements** The giant tapir's last action was a successful jaws Strike against a creature\n* * *\n\n**Effect** The tapir gnaws the target's flesh and muscle with its blunt teeth. The creature must attempt a DC 18 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Enfeebled|Enfeebled 1]] until the start of its next turn.\n\n**Failure** The creature takes 2d4 bludgeoning damage and is enfeebled 1 until the end of its next turn.\n\n**Critical Failure** The creature takes 4d4 bludgeoning damage and is enfeebled 1 for 1 minute."

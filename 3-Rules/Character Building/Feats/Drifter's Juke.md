@@ -7,8 +7,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.FNO2hfGmxqJngD4A"
-license: OGL
+license: ORC
 ---
 # Drifter's Juke `pf2:2`
 ## Feat 6
@@ -27,4 +28,4 @@ license: OGL
 You move in and out of range to complement your attacks. You Step, make a Strike, Step, and make another Strike. One Strike must be a ranged Strike using your firearm or crossbow, and the other must be a melee Strike using your melee weapon or unarmed attack. You can choose not to take one or both Steps.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

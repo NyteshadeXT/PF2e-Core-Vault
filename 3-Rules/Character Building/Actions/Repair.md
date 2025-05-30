@@ -5,8 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
   - trait/manipulate
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.bT3skovyLUtP22ME"
@@ -14,14 +13,14 @@ license: ORC
 ---
 # Repair
 
-### [[exploration]][[3-Rules/Rule References/Manipulate]][[skill]]
+### [[exploration]][[manipulate]]
 
 **Category** interaction; 
 
 
 
 
-**Requirements** You are holding or wearing a [[Repair Toolkit|Repair Kit]]
+**Requirements** You are holding or wearing a [[Equipment/Repair Toolkit|Repair Kit]]
 
 * * *
 

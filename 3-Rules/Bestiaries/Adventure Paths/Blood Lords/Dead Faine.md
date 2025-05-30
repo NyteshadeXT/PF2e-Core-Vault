@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/pzo90186 deadFaine.webp| ]]
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Dead Faine"
 level: "Creature 17"
@@ -63,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +33 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 8 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+33 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +33 (agile, finesse)\n__Damage__  1d4 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+33 (agile, finesse, unarmed)\n__Damage__  1d4 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +33 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  3d4 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+33 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  3d4 + 8 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 35, attack +27; __5th __  _[[Spells/Truespeech|Tongues]]_; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise]]_; __2nd __  _[[Spells/Mimic Undead|Mimic Undead (x2)]]_"

@@ -3,7 +3,7 @@ title: "Giant Rat (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.AYwdybUfm4meGUTJ" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.iIJPJcDT8wlJ8z5M" 
 tags:
   - pf2e/creature/type/animal
   - pf2eMonster
@@ -54,8 +54,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 (agile, finesse)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (agile, finesse, unarmed)\n__Damage__  1d6 + 1 piercing"
  
 ```
 

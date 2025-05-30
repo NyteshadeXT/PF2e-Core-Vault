@@ -6,8 +6,9 @@ tags:
   - trait/automaton
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.N8Ci3w5gQ68rj6a6"
-license: OGL
+license: ORC
 ---
 # Arcane Camouflage
 ## Feat 9
@@ -19,9 +20,9 @@ license: OGL
 
 **Prerequisites** Hunter automaton
 * * *
-You have developed magical techniques to aid you with stalking your prey. You can cast [[Blur|Blur]] and [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] each once per day as 2nd-rank arcane innate spells.
+You have developed magical techniques to aid you with stalking your prey. You can cast [[Spells/Blur|Blur]] and [[Spells/Invisibility|Invisibility]] each once per day as 2nd-rank arcane innate spells.
 
 **Enhancement** Your camouflage is more potent. Your blur spell now lasts 10 minutes and when you cast invisibility, you can choose to gain the effects of the 4th-rank version of the spell. In addition, you can now cast blur and invisibility each twice per day.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

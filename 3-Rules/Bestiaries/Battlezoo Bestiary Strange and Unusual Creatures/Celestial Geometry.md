@@ -35,7 +35,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +28, Athletics: +28"
+    desc: "Athletics: +28"
 abilityMods: [8, 4, 5, -5, 5, -5]
 speed:  fly 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Face +27 (shove)\n__Damage__  3d12 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Face"
+    desc: "+27 (shove)\n__Damage__  3d12 + 14 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 37, attack +29; __7th __  _[[Spells/Translocate|Dimension Door]]_; __6th __  _[[Spells/Teleport|Teleport]]_"

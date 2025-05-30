@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/champion
   - trait/divine
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.enQieRrITuEQZxx2"
@@ -13,7 +13,7 @@ license: ORC
 ---
 # Selfish Shield `pf2:r`
 
-### [[champion]][[3-Rules/Rule References/Divine]]
+### [[champion]][[divine]]
 
 **Category** defensive; 
 

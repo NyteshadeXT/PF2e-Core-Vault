@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fighting Fan +35 (agile, backstabber, deadly d6, finesse, monk)\n__Damage__  6d4 + 14 slashing"
+  - name: "**Melee** `pf2:1` Fighting Fan"
+    desc: "+35 (agile, backstabber, deadly d6, finesse, monk)\n__Damage__  6d4 + 14 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Piercing Note +35 (range increment 60 feet, sonic)\n__Damage__  4d10 + 17 sonic"
+  - name: "**Ranged** `pf2:1` Piercing Note"
+    desc: "+35 (range increment 60 feet, sonic)\n__Damage__  4d10 + 17 sonic"
 
   - name: "Focus Spells"
     desc: "1 Focus Point, DC 41, attack +33; __10th __  _[[Spells/Fortissimo Composition|Inspire Heroics]]_\n__Cantrips__  __(10th)__ _[[Spells/House of Imaginary Walls|House of Imaginary Walls]]_, _[[Spells/Courageous Anthem|Inspire Courage]]_, _[[Spells/Rallying Anthem|Inspire Defense]]_"

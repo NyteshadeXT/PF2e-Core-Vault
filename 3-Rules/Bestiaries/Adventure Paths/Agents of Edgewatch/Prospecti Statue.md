@@ -61,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stone Fist +19 (magical)\n__Damage__  2d12 + 6 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Stone Fist"
+    desc: "+19 (magical)\n__Damage__  2d12 + 6 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +18 (magical, versatile p)\n__Damage__  1d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+18 (magical, versatile p)\n__Damage__  1d8 + 10 slashing"
 
   - name: "Stone Robes"
     desc: "`pf2:1`  The Prospecti statue turns suddenly, causing its robes, which flow like fabric despite being as hard as stone, to swing about and damage opponents.\n\nCreatures adjacent to the animated statue take 2d6+6 bludgeoning damage (DC 25 Reflex check save; on a critical failure, the creature is also knocked [[Conditions/Prone|Prone]])."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

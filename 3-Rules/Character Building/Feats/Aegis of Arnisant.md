@@ -25,5 +25,5 @@ license: OGL
 
 Inspired by the tale of Arnisant, you transform your shield into a magic ward. Until the beginning of your next turn, you gain the [[Actions/Absorb into the Aegis|Absorb into the Aegis]] reaction.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

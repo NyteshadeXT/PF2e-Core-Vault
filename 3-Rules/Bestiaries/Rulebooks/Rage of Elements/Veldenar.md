@@ -53,8 +53,11 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Natural Invisibility"
     desc: "  A veldenar is naturally [[Conditions/Invisible|Invisible]] and only becomes visible when using a hostile action. Creatures it has engulfed remain visible within it, albeit slightly blurred by the veldenar's translucent skin."
@@ -65,11 +68,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +25 (reach 15 feet)\n__Damage__  2d10 + 10 bludgeoning 1d10 cold"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+25 (reach 15 feet)\n__Damage__  2d10 + 10 bludgeoning 1d10 cold"
 
   - name: "Vacuum"
-    desc: "`pf2:2` (air) **Requirements** The veldenar doesn't have a creature engulfed\n* * *\n\n**Effect** The veldenar forcefully unlocks then expands its jaws to inhale the air in a @Template[cone|distance:15] before it, pulling Large or smaller creatures into its cavernous maw. The veldenar [[Bestiary Ability Glossary/Engulf|Engulfs]] the creatures in the area (DC 27 Reflex check, 1d10+10 cold, [[Actions/Escape|Escape]] DC 27, Rupture 25)."
+    desc: "`pf2:2` (air) **Requirements** The veldenar doesn't have a creature engulfed\n* * *\n\n**Effect** The veldenar forcefully unlocks then expands its jaws to inhale the air in a 15-foot cone before it, pulling Large or smaller creatures into its cavernous maw. The veldenar [[Bestiary Ability Glossary/Engulf|Engulfs]] the creatures in the area (DC 27 Reflex check, 1d10+10 cold, [[Actions/Escape|Escape]] DC 27, Rupture 25)."
  
 ```
 

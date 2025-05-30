@@ -24,7 +24,7 @@ Your ability to captivate others borders on the preternatural. You are seldom at
 
 Choose two cantrips from the occult list; each cantrip must be from either the enchantment or illusion school. You gain access to the Cast a Spell activity and can cast these spells as occult innate spells. You're trained in occult spell attack rolls and spell DCs. If you have a hand free, you can usually replace material components with somatic components, so you don't need to use a spell component pouch. Your key spellcasting ability for these spells is Charisma.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Captivator|Captivator]] archetype.
+[[PF2e Journals/Archetypes/Captivator|Captivator]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

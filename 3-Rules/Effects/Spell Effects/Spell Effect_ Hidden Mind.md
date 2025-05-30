@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Powerful wards hide a creature from magic that would spy on it or affect its mind. The target gains a +4 status bonus to saves against mental effects. _Hidden mind_ attempts to counteract any detection, revelation, and scrying effects as if its spell rank were 1 higher than its actual rank. On a success, the effect functions normally except that it detects nothing about the target and its possessions. For instance, _detect magic_ would still detect other magic in the area, but not any magic on the target.
+Granted by [[Spells/Hidden Mind|Hidden Mind]]
+
+You gain a +4 status bonus to saves against mental effects.
 
 *Source: Pathfinder GM Core*
 *ORC*

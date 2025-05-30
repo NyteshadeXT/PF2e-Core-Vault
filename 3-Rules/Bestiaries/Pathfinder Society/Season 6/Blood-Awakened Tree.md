@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +16 (reach 15 feet)\n__Damage__  1d6 bleed 2d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+16 (reach 15 feet)\n__Damage__  1d6 bleed 2d8 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Root +16 (trip, versatile p)\n__Damage__  2d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Root"
+    desc: "+16 (trip, versatile p)\n__Damage__  2d6 + 6 bludgeoning"
 
   - name: "Drink Blood"
     desc: "`pf2:1` (attack) **Requirements** The blood-awakened tree's last action was a successful root Strike against a target currently taking persistent bleed damage.\n* * *\n\n**Effect** The tree drives its roots into the target's open wounds and drinks their blood. The roots Strike deals piercing damage with an additional 2d6 piercing, and the tree recovers hit points equal to half the additional damage dealt."

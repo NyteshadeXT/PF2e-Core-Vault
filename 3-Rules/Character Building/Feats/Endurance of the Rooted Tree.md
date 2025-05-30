@@ -21,7 +21,7 @@ license: OGL
 * * *
 Just as the Vale of Aroden retains light and life despite inhospitable surroundings, you can sustain yourself regardless of your environment. You don't need to eat, drink, or breathe.
 
-In addition, you can cast the [[3-Rules/Character Building/Spells/H/Harmonize Self|Wholeness of Body]] ki spell almost effortlessly. You can cast it as a free action that triggers at the start of your turn.
+In addition, you can cast the [[Spells/Harmonize Self|Wholeness of Body]] ki spell almost effortlessly. You can cast it as a free action that triggers at the start of your turn.
 
 *Source: Pathfinder #156: The Apocalypse Prophet*
 *OGL*

@@ -25,6 +25,7 @@ art: zz-Attachments/PlaceholderImage.png
 >> **Quick Notes** |  `INPUT[textArea:quicknote]`
 >> **Which Party** | `INPUT[Null][suggester(optionQuery(#Party AND !"z_Templates"), useLinks(partial)):whichparty]` |
 >> **Adventure Status** | `INPUT[Status][:adventure_status]` |
+>> **Adventure Level**|`INPUT[textArea:adventure_level]`|
 
 > [!infobox]
 > `VIEW[!\[\[{art}\]\]][text(renderMarkdown)]`

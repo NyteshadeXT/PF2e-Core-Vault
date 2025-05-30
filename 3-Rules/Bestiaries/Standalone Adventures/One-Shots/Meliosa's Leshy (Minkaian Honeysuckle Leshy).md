@@ -56,13 +56,13 @@ abilities_mid:
     desc: "  The honeysuckle leshy gains a +1 status bonus to Reflex and Fortitude saves and DCs against trip and forced movement."
 
   - name: "Verdant Burst"
-    desc: " (healing) When a leshy dies, a burst of primal energy explodes from its body, restoring 2d8 Hit Points to each plant creature within a @Template[emanation|distance:30]. This area is filled with plants of the same type as the leshy, becoming difficult terrain. If the terrain isn't a viable environment for these plants, they wither after 24 hours."
+    desc: " (healing) When a leshy dies, a burst of primal energy explodes from its body, restoring 2d8 healing Hit Points to each plant creature within a 30-foot emanation. This area is filled with plants of the same type as the leshy, becoming difficult terrain. If the terrain isn't a viable environment for these plants, they wither after 24 hours."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +10 (agile, finesse)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+10 (agile, finesse, unarmed)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 16, attack +8; __4th __  _[[Spells/Speak with Plants|Speak with Plants]]_"

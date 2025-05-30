@@ -17,11 +17,9 @@ license: ORC
 
 
 
-Granted by [[Dragon Form|Dragon Form]]
+Granted by [[Spells/Dragon Form|Dragon Form]]
 
-Calling upon powerful transformative magic, you gain a Large dragon battle form. You must have space to expand or the spell is lost. While in this form, you gain the dragon trait. You have hands in this battle form and can take manipulate actions. You can Dismiss the spell.
-
-You gain the following statistics and abilities regardless of which battle form you choose:
+You transform into a Large dragon battle form. While in this form, you gain the dragon trait. You have hands in this battle form and can take manipulate actions. You gain the following statistics and abilities regardless of which battle form you choose:
 
 *   AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.
 *   10 temporary Hit Points.
@@ -35,6 +33,7 @@ You gain the following statistics and abilities regardless of which battle form 
 You also gain specific abilities based on the type of dragon you choose:
 
 *   **Adamantine**
+    
     *   **Melee** `pf2:1` jaws, **Damage** 2d12 piercing plus 2d6 bludgeoning;
     *   **Melee** `pf2:1` claw (agile), **Damage** 3d10 slashing;
     *   **Melee** `pf2:1` tail (reach 10 feet), **Damage** 3d10 bludgeoning;
@@ -42,7 +41,7 @@ You also gain specific abilities based on the type of dragon you choose:
 
 * * *
 
-**Heightened (8th)** Your battle form is Huge, you gain a +20-foot status bonus to your fly Speed, and your attacks have 10-foot reach (or 15-foot reach if they previously had 10-foot reach). You instead gain AC = 21 + your level, 15 temporary HP, an attack modifier of +28, a damage bonus of +12, Athletics +28, and a +14 status bonus to breath weapon damage (6d10+14 bludgeoning damage).
+**Heightened (8th)** Your battle form is Huge, you gain a +20-foot status bonus to your fly Speed, and your attacks have 10-foot reach (or 15-foot reach if they previously had 10-foot reach). You instead gain AC = 21 + your level, 15 temporary HP, an attack modifier of +28, a damage bonus of +12, and Athletics +28. Your Dragon Breath deals an additional 4d6 damage.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -25,5 +25,5 @@ Your Speed increases by 5 feet; the Speed increase from this feat isn't cumulati
 
 Allies who begin their turn in combat adjacent to you gain a +5-foot status bonus to their Speed for the round.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

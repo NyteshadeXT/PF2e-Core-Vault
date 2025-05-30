@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-You call forth a ghostly manifestation of the worm spirit. Choose an intersection on the ground within 60 feet; the ghostly maw of a worm emerges from the ground, attacking all creatures in a @Template\[burst|distance:10\]. Each creature in the area must attempt a Reflex check save.
+You call forth a ghostly manifestation of the worm spirit. Choose an intersection on the ground within 60 feet; the ghostly maw of a worm emerges from the ground, attacking all creatures in a 10-foot burst. Each creature in the area must attempt a Reflex check save.
 
 * * *
 

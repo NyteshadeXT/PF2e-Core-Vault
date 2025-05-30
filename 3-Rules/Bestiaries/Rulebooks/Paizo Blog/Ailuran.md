@@ -62,14 +62,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +13 ()\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+13 ()\n__Damage__  1d6 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile)\n__Damage__  1d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, unarmed)\n__Damage__  1d6 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Boomerang +13 (range increment 20 feet)\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Boomerang"
+    desc: "+13 (range increment 20 feet)\n__Damage__  1d6 + 6 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 20, attack +12; __5th __ (1 slots) _[[Spells/Magic Passage|Passwall]]_; __2nd __ (1 slots) _[[Spells/Revealing Light|Glitterdust (x2)]]_, _[[Spells/Illusory Object|Illusory Object (At Will) (Silver Objects only)]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_\n__Constant__  __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"

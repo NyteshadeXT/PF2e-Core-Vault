@@ -56,14 +56,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 ()\n__Damage__  1d12 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (unarmed)\n__Damage__  1d12 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile, finesse)\n__Damage__  1d8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, finesse, unarmed)\n__Damage__  1d8 slashing"
 
   - name: "Spotlight"
-    desc: "`pf2:1` (concentrate,light) Bright light shines from the blindheim's eyes in a @Template[emanation|distance:30] (also creating dim light to 60 feet). Each creature in the bright light when the blindheim uses this action, or who enters it while the light continues, must attempt a DC 18 Fortitude check save. It is then temporarily immune for 1 hour. This light remains until the blindheim dims its eyes by using this action again.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1d4 rounds.\n\n**Critical Failure** The creature is Blinded for 1 hour."
+    desc: "`pf2:1` (concentrate,light) Bright light shines from the blindheim's eyes in a 30-foot emanation (also creating dim light to 60 feet). Each creature in the bright light when the blindheim uses this action, or who enters it while the light continues, must attempt a DC 18 Fortitude check save. It is then temporarily immune for 1 hour. This light remains until the blindheim dims its eyes by using this action again.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1d4 rounds.\n\n**Critical Failure** The creature is Blinded for 1 hour."
  
 ```
 

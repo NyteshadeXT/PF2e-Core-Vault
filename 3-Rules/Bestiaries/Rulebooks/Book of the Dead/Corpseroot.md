@@ -63,23 +63,26 @@ abilities_mid:
   - name: "Plant"
     desc: "  When it isn't in danger, the corpseroot spends 1 minute rooting to the earth, becoming planted in place. While the corpseroot is planted and immobile, creatures must actively [[Actions/Seek|Seek]] and succeed at a DC 36 Perception check check (DC 40 Perception check in forests) to detect the corpseroot's true nature."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +24 (reach 15 feet)\n__Damage__  3d12 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+24 (reach 15 feet)\n__Damage__  3d12 + 10 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Root +24 (agile, reach 20 feet, trip)\n__Damage__  3d8 + 10 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Root"
+    desc: "+24 (agile, reach 20 feet, trip)\n__Damage__  3d8 + 10 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rotten Fruit +20 (range increment 20 feet, splash)\n__Damage__  3d4 + 7 bludgeoning 2d6 poison"
+  - name: "**Ranged** `pf2:1` Rotten Fruit"
+    desc: "+20 (range increment 20 feet, splash)\n__Damage__  3d4 + 7 bludgeoning 2d6 poison"
 
   - name: "Take Root"
-    desc: "`pf2:1` (primal) **Frequency** once per round\n\n**Requirements** The corpseroot has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The corpseroot buries its roots into the creature, dealing 1d6+11 piercing damage and draining the target's life force (DC 30 Fortitude check). On a failure, the creature is [[Conditions/Drained|Drained 1]] (or increases the value by 1 if already drained), and the corpseroot regains 10 HP. If this would make a creature drained 5, the creature dies."
+    desc: "`pf2:1` (primal) **Frequency** once per round\n\n**Requirements** The corpseroot has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The corpseroot buries its roots into the creature, dealing 1d6+11 piercing damage and draining the target's life force (DC 30 Fortitude check). On a failure, the creature is [[Conditions/Drained|Drained 1]] (or increases the value by 1 if already drained), and the corpseroot regains 10 healing HP. If this would make a creature drained 5, the creature dies."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

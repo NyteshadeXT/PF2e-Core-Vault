@@ -53,19 +53,25 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Dagger|Dagger]], 3x [[Equipment/Darkening Poison|Darkening Poison]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "Final Night"
-    desc: " (darkness,occult) When the caligni skulker dies, their remains dissolve into a @Template[emanation|distance:20] of inky darkness before dissipating. The darkness extinguishes non-magical light sources and attempts to counteract magical light as a 1st-rank effect with a +10 counteract modifier.\n\nThe skulker's possessions are left in a pile where they died."
+    desc: " (darkness,occult) When the caligni skulker dies, their remains dissolve into a 20-foot emanation of inky darkness before dissipating. The darkness extinguishes non-magical light sources and attempts to counteract magical light as a 1st-rank effect with a +10 counteract modifier.\n\nThe skulker's possessions are left in a pile where they died."
+
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +10 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing plus darkening-poison"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+10 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing plus darkening-poison"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing plus darkening-poison"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing plus darkening-poison"
 
   - name: "Sneak Attack"
     desc: "  The caligni skulker deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

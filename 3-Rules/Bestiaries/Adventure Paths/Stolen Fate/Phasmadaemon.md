@@ -54,10 +54,16 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet DC 35 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 60 feet DC 35 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Unending Terror"
     desc: "  Escaping fear near a phasmadaemon is no simple task. Creatures don't automatically reduce their [[Conditions/Frightened|Frightened]] condition while they are within the phasmadaemon's Frightful Presence aura. Instead, they must attempt a Will save at the end of their turn against the DC of the effect that caused the condition. On a success, the creature's frightened condition is reduced by 1."
@@ -65,17 +71,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +33 (magical, reach 10 feet, unholy)\n__Damage__  1d6 spirit plus grab 3d10 + 16 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+33 (magical, reach 10 feet, unarmed, unholy)\n__Damage__  1d6 spirit plus grab 3d10 + 16 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +33 (agile, magical, reach 10 feet, unholy)\n__Damage__  3d8 + 16 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+33 (agile, magical, reach 10 feet, unarmed, unholy)\n__Damage__  3d8 + 16 slashing 1d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 38, attack +30; __9th __  _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Weird|Weird]]_; __8th __  _[[Spells/Mask of Terror|Mask of Terror]]_; __7th __  _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Shadow Blast|Shadow Blast]]_; __6th __  _[[Spells/Shadow Blast|Shadow Blast (x2)]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Shadow Siphon|Shadow Siphon (x2)]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Nightmare|Nightmare (At Will)]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will, Good Only)]]_\n__Constant__  __(9th)__ _[[Spells/Truesight|True Seeing]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  3d10+6 bludgeoning, DC 35 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  3d10+6 bludgeoning, DC 35 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Consume Fear"
     desc: "`pf2:1` (emotion,fear,mental) **Requirements** The phasmadaemon has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The phasmadaemon feeds on the creature's mortality and innate terror, dealing 6d8 mental damage. The creature must attempt a DC 38 Will check save.\n* * *\n\n**Critical Success** The creature takes no damage and manages to break free from the phasmadaemon's grab.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and increases their frightened conditioned by 1, to a maximum of [[Conditions/Frightened|Frightened 4]].\n\n**Critical Failure** The creature takes double damage and increases their frightened condition by 2, to a maximum of frightened 4. If the creature is already frightened 4, it must attempt a DC 38 Fortitude check saving throw. If it fails, it is reduced to 0 Hit Points and dies. This effect has the death and incapacitation traits."
@@ -84,10 +90,10 @@ attacks:
     desc: "  The phasmadaemon can Squeeze through tight spaces as if it were a Small creature. While Squeezing, it can move at its full Speed. The phasmadaemon can even Squeeze through spaces that typically fit only a Tiny creature, but does so at the standard speed for Squeezing."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  Claw\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

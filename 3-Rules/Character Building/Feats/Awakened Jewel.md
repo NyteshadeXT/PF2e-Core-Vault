@@ -22,5 +22,5 @@ license: ORC
 
 You once held the head gem of a deceased ancestor or loved one, and it awakened a mysterious power in your own. You gain one cantrip from the occult spell list. As long as you possess your head gem, you can cast this spell as an innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

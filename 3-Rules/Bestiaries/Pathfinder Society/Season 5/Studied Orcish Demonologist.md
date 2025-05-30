@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longspear +19 (magical, reach)\n__Damage__  1d8 + 11 piercing"
+  - name: "**Melee** `pf2:1` Longspear"
+    desc: "+19 (magical, reach)\n__Damage__  1d8 + 11 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Containment|Resilient Sphere]]_; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Rune Trap|Glyph of Warding]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Blur|Blur]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Mending|Mending]]_\n__Cantrips__  __(4th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_"

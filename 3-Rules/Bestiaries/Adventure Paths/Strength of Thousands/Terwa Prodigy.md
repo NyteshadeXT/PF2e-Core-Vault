@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile, finesse)\n__Damage__  2d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, finesse, unarmed)\n__Damage__  2d6 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Longbow +17 (deadly d10, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Longbow"
+    desc: "+17 (deadly d10, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 5 piercing"
 
   - name: "Innate Primal Spells"
     desc: "DC 24, attack +16; __3rd __ (3 slots) _[[Spells/Fireball|Fireball (x2)]]_, _[[Spells/Heal|Heal]]_; __2nd __ (4 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Heal|Heal]]_; __1st __ (4 slots) _[[Spells/Heal|Heal (x2)]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_\n__Cantrips__  __(3rd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Stabilize|Stabilize]]_"

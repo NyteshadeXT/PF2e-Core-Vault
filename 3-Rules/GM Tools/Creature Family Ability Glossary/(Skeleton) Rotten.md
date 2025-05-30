@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Skeleton) Rotten"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.2GhEuIlgLj02gV9r"
 license: OGL
 ---

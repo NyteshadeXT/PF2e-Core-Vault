@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by activating [[Lover's Gloves|Lover's Gloves]]
+Granted by activating [[Equipment/Lover's Gloves|Lover's Gloves]]
+
+You gain a +1 status bonus to saving throws and 10 temporary Hit Points
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

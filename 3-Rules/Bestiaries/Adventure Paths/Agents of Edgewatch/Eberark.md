@@ -57,14 +57,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +23 (magical, reach 15 feet)\n__Damage__  2d10 + 11 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+23 (magical, reach 15 feet, unarmed)\n__Damage__  2d10 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile, fire, magical, reach 15 feet)\n__Damage__  2d6 + 11 slashing 1d4 fire"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, fire, magical, reach 15 feet, unarmed)\n__Damage__  2d6 + 11 slashing 1d4 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +21 (agile, range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+21 (agile, range increment 30 feet)\n__Damage__ "
 
   - name: "Arrogant Taunts"
     desc: "`pf2:1` (auditory,emotion,fear,mental) The eberark utters crude insults and growls threateningly. Each creature within 30 feet must attempt a DC 27 Will check save.\n\nThe creature is then temporarily immune for 10 minutes.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]] and [[Conditions/Paralyzed|Paralyzed]] for 1 round.\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]] and paralyzed for 1d4 rounds."

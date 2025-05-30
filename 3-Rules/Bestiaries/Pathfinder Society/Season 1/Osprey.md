@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +6 (finesse)\n__Damage__  1d4 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+6 (finesse, unarmed)\n__Damage__  1d4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +6 (agile, finesse)\n__Damage__  1d4 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+6 (agile, finesse, unarmed)\n__Damage__  1d4 slashing"
 
   - name: "Diving Attack"
     desc: "`pf2:2`  The osprey Flies up to double its fly Speed in a straight line, descending at least 10 feet, and then makes a talon Strike."

@@ -51,6 +51,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 10 (Deactivated by Piercing)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Destabilizing Field"
     desc: " (aura) 40 feet. A creature that begins its turn within the area feels its body begin to stretch and must succeed at a DC 33 Fortitude check save or become destabilized.\n\nA destabilized creature emits a 10-foot destabilizing field aura and becomes [[Conditions/Sickened|Sickened 1]]. The destabilization ends when the creature is no longer sickened.\n\nA creature that succeeds at its saving throw against the aura is temporarily immune to all destabilizing fields for 1 minute."
 
@@ -60,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Limb +24 ()\n__Damage__  3d10 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Limb"
+    desc: "+24 ()\n__Damage__  3d10 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Warping Ray +27 (deadly 2d8, magical, range 100 feet)\n__Damage__  3d8 + 10 force"
+  - name: "**Ranged** `pf2:1` Warping Ray"
+    desc: "+27 (deadly 2d8, magical, range 100 feet)\n__Damage__  3d8 + 10 force"
 
   - name: "Occult Innate Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Vision of Death|Vision of Death (Causes Those Who are Affected to Believe They're Being Turned Inside Out)]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __  _[[Spells/Flicker|Flicker]]_"

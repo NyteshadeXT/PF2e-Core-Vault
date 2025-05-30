@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Vampire, Jiang-Shi, Minister) Distant Steps"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.1AnBJbwfdlvzA7SK"
 license: OGL

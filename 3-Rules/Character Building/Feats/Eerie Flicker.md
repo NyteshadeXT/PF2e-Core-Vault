@@ -12,7 +12,7 @@ license: OGL
 ---
 # Eerie Flicker `pf2:r`
 ## Feat 2
-### [rare](rare.md "Rare Rarity Trait")[[deviant]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]]
 
 **Category** class; 
 

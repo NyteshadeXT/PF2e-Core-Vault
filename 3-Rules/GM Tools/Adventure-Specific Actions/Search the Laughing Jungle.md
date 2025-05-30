@@ -6,7 +6,7 @@ tags:
   - trait/concentrate
   - trait/exploration
   - trait/move
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.OSFi8oH5ndLgnksD"
 license: OGL

@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +12 (agile, finesse, unholy)\n__Damage__  2d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+12 (agile, finesse, unholy)\n__Damage__  2d6 + 5 slashing"
 
   - name: "Divine Innate Spells"
     desc: "DC 21, attack +13; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __2nd __  _[[Spells/Charm|Charm]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Invisibility|Invisibility (At Will; Self Only)]]_, _[[Spells/Phantom Pain|Phantom Pain (At Will)]]_"

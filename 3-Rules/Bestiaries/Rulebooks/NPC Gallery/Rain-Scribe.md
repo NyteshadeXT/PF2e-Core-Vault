@@ -21,7 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Character Guide"
+source: "Pathfinder Lost Omens Character Guide"
 name: "Rain-Scribe"
 level: "Creature 4"
 
@@ -41,7 +41,7 @@ skills:
     desc: "Acrobatics: +9, Arcana: +7, Athletics: +8, Nature: +12, Stealth: +11, Survival: +12"
 abilityMods: [2, 3, 1, 1, 4, 0]
 speed: 40 feet
-sourcebook: "_Pathfinder Lost Omens: Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Character Guide_"
 ac: 21
 armorclass:
   - name: AC
@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +9 (forceful, sweep)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+9 (forceful, sweep)\n__Damage__  1d6 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +10 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+10 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 1 piercing"
 
   - name: "Primal Prepared Spells"
     desc: "DC 21, attack +11; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Gecko Grip|Spider Climb]]_; __1st __  _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Tailwind|Longstrider]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Light|Light]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

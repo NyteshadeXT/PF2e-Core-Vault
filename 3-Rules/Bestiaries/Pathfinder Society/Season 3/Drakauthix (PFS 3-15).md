@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +20 (reach 30 feet)\n__Damage__  3d8 + 9 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+20 (reach 30 feet, unarmed)\n__Damage__  3d8 + 9 piercing plus improved-grab"
 
   - name: "Reel In"
     desc: "`pf2:1`  The drakauthix pulls all creatures it has [[Conditions/Grabbed|Grabbed]] 15 feet closer to itself."
@@ -70,6 +70,9 @@ attacks:
 
   - name: "Whirlwind of Hooks"
     desc: "`pf2:2`  The drakauthix whirls, whipping creatures around it. The drakauthix makes a tentacle Strike against every creature within its reach."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

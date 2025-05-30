@@ -3,7 +3,7 @@ title: "Ghoul Stalker (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.LHHgGSs0ELCR4CYK" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.iLkQt8A99nQWUI8k" 
 tags:
   - pf2e/creature/type/ghoul
   - pf2e/creature/type/undead
@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (finesse)\n__Damage__  1d8 + 1 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (finesse, unarmed)\n__Damage__  1d8 + 1 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile, finesse)\n__Damage__  1d6 + 1 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, finesse, unarmed)\n__Damage__  1d6 + 1 slashing"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) The ghoul devours a chunk of a creature that died within the last hour and regains 1d6 Hit Points.\n\nThe ghoul can regain Hit Points from a given body only once."
+    desc: "`pf2:1` (manipulate) The ghoul devours a chunk of a creature that died within the last hour and regains 1d6 healing Hit Points.\n\nThe ghoul can regain Hit Points from a given body only once."
 
   - name: "Sneak Attack"
     desc: "  The ghoul stalker deals an extra 1d4 damage to creatures that have the [[Conditions/Off-Guard|Off-Guard]] condition."

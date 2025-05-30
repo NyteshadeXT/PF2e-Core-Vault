@@ -21,7 +21,7 @@ license: ORC
 
 
 
-Your spell shrouds you in a billowing cloud. If your next action is to Cast a Spell that targets you, you surround yourself in a @Template\[emanation|distance:15\] of dense magical mist that lasts until the start of your next turn. All creatures within the cloud become [[Conditions/Concealed|Concealed]], and all creatures outside the cloud are concealed to creatures within it.
+Your spell shrouds you in a billowing cloud. If your next action is to Cast a Spell that targets you, you surround yourself in a 15-foot emanation of dense magical mist that lasts until the start of your next turn. All creatures within the cloud become [[Conditions/Concealed|Concealed]], and all creatures outside the cloud are concealed to creatures within it.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

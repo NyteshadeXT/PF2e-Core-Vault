@@ -55,10 +55,13 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Kukri|+1 Striking Kukri]], Leng Ruby, Fragment of Urevian's Pendant"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Fast Healing|Planar Fast Healing]]"
-    desc: "  A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, they have fast healing 5. They lose this ability on Leng or in areas where planar connections do not function. If killed, their body dissolves into nothingness in 1d4 rounds, leaving behind their equipment. A slain denizen reforms in Leng; they can be permanently killed only when their planar fast healing doesn't function.\n\n* * *\n"
+    desc: "  A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, they have fast healing 5. They lose this ability on Leng or in areas where planar connections do not function. If killed, their body dissolves into nothingness in 1d4 rounds, leaving behind their equipment. A slain denizen reforms in Leng; they can be permanently killed only when their planar fast healing doesn't function.\n* * *\n\nA monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
 
   - name: "No Breath"
     desc: "  Denizens of Leng don't need to breathe."
@@ -66,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +18 (agile, finesse, magical, trip)\n__Damage__  2d6 + 6 slashing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+18 (agile, finesse, magical, trip)\n__Damage__  2d6 + 6 slashing 1d6 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 (agile, finesse)\n__Damage__  2d10 + 6 piercing plus debilitating-bite"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (agile, finesse, unarmed)\n__Damage__  2d10 + 6 piercing plus debilitating-bite"
 
   - name: "Occult Innate Spells"
     desc: "DC 27, attack +19; __4th __  _[[Spells/Outcast's Curse|Outcast's Curse]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Levitate|Levitate]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_\n__Cantrips__  __(4th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_\n__Constant__  __(4th)__ _[[Spells/Truespeech|Tongues]]_"

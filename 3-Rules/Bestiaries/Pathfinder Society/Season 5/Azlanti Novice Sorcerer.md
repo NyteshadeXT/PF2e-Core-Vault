@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +9 (agile, finesse, versatile s)\n__Damage__  2d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+9 (agile, finesse, versatile s)\n__Damage__  2d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +9 (agile, thrown 10 ft., versatile s)\n__Damage__  2d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+9 (agile, thrown 10 ft., versatile s)\n__Damage__  2d4 + 4 piercing"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 21, attack +13; __2nd __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Knock|Knock]]_; __1st __ (4 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(2nd)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Tangle Vine|Tangle Vine]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

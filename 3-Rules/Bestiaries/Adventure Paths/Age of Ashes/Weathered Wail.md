@@ -59,14 +59,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 30 (Deactivated by Cold Iron)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +33 (fire, magical, reach 10 feet)\n__Damage__  3d10 + 12 piercing 2d6 fire"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+33 (fire, magical, reach 10 feet, unarmed)\n__Damage__  3d10 + 12 piercing 2d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +33 (agile, fire, magical, reach 10 feet)\n__Damage__  3d8 + 12 slashing plus grab 2d6 fire plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+33 (agile, fire, magical, reach 10 feet, unarmed)\n__Damage__  3d8 + 12 slashing plus grab 2d6 fire plus grab"
 
   - name: "Primal Innate Spells"
     desc: "DC 38, attack +30; __8th __  _[[Spells/Migration|Wind Walk]]_; __4th __  _[[Spells/Nightmare|Nightmare (see Dream Haunting)]]_"
@@ -75,7 +78,7 @@ attacks:
     desc: "DC 38, attack +28"
 
   - name: "Rituals"
-    desc: "_[[Spells/Control Weather|Control Weather]]_"
+    desc: "_Control Weather_"
 
   - name: "Dream Haunting"
     desc: "  A target that fails its save against the wendigo's [[Spells/Nightmare|Nightmare]] is exposed to wendigo torment."
@@ -90,7 +93,7 @@ attacks:
     desc: " (curse,mental,primal) A creature affected by wendigo torment can't recover beyond stage 1 until it has been restored to full HP.\n\n**Saving Throw** DC 38 Will check\n\n**Stage 1** [[Conditions/Stupefied|Stupefied 4]] (1 day)\n\n**Stage 2** As stage 1 (1 day)\n\n**Stage 3** The creature searches for an individual of its own ancestry to kill and devour. It then becomes affected by wind walk and sprints into the sky so fast that its feet burn away into jagged stumps. As the creature wind walks into the sky, it is replaced by a new wendigo over 2d6 minutes.\n\n[[Spells/Wish|Wish]], similar magic, or a 9th-rank [[Spells/Resurrect|Resurrect]] ritual can return the victim to life. The new wendigo remains even if the victim is resurrected."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

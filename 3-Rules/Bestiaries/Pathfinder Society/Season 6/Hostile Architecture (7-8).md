@@ -50,7 +50,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Disable"
-    desc: "DC 22 Religion check (trained) to strategically destroy the runes, DC 24 Thievery check to disrupt the beam from collecting the facet, or _[[Spells/Dispel Magic|Dispel Magic]]_ (4th rank, counteract DC 24) to dispel the rune"
+    desc: "DC 22 Religion check (trained) to strategically destroy the runes, DC 24 Thievery check to disrupt the beam from collecting the facet, or [[Spells/Dispel Magic|Dispel Magic]] (4th rank, counteract DC 24) to dispel the rune"
 attacks:
   - name: ""
 

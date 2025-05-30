@@ -56,25 +56,28 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Death Stench"
     desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 32 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 2]] and [[Conditions/Doomed|Doomed 1]] for as long as it is sickened; on a critical failure, the creature is instead [[Conditions/Doomed|Doomed 2]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to any creature's death stench for 1 minute."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +27 (magical)\n__Damage__  2d6 + 14 piercing plus drain-life,terror-master"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+27 (magical)\n__Damage__  2d6 + 14 piercing plus drain-life,terror-master"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +26 (agile)\n__Damage__  3d6 + 14 slashing plus drain-life,terror-master"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+26 (agile, unarmed)\n__Damage__  3d6 + 14 slashing plus drain-life,terror-master"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +26 ()\n__Damage__  3d8 + 14 piercing plus drain-life,terror-master"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+26 (unarmed)\n__Damage__  3d8 + 14 piercing plus drain-life,terror-master"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +24 (magical, range increment 20 feet)\n__Damage__  2d6 + 14 piercing plus hungry-spear,terror-master"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+24 (magical, range increment 20 feet)\n__Damage__  2d6 + 14 piercing plus hungry-spear,terror-master"
 
   - name: "Drain Life"
     desc: " (divine) When the Raptor Guard wight damages a living creature with a melee Strike, the wight gains 13 temporary Hit Points and the target creature must succeed at a DC 32 Fortitude check save or become [[Conditions/Drained|Drained 1]]. Further damage dealt by the wight increases the drained condition by 1 on a failed save, to a maximum of [[Conditions/Drained|Drained 4]]."
@@ -86,7 +89,7 @@ attacks:
     desc: "  As long as the Raptor Guard wears its dinosaur-skull helm, its Strikes deal an additional 1d10 void damage, or an additional 2d10 void damage to [[Conditions/Frightened|Frightened]] creatures."
 
   - name: "Wight Spawn"
-    desc: " (divine) A living humanoid slain by a Raptor Guard wight's melee Strike rises as a [[Bestiary 1/Wight|Wight]] after 1d4 rounds. This wight spawn is under the command of the Raptor Guard that killed it. It doesn't have the drain life or wight spawn abilities and is [[Conditions/Clumsy|Clumsy 2]]. If the creator of the wight spawn dies, the wight spawn becomes a full-fledged, autonomous wight; it regains its free will, gains the drain life and wight spawn abilities, and is no longer clumsy."
+    desc: " (divine) A living humanoid slain by a Raptor Guard wight's melee Strike rises as a [[Monster Core/Wight|Wight]] after 1d4 rounds. This wight spawn is under the command of the Raptor Guard that killed it. It doesn't have the drain life or wight spawn abilities and is [[Conditions/Clumsy|Clumsy 2]]. If the creator of the wight spawn dies, the wight spawn becomes a full-fledged, autonomous wight; it regains its free will, gains the drain life and wight spawn abilities, and is no longer clumsy."
  
 ```
 

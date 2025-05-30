@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Smash From The Air"
+title: "Smash from the Air"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/fighter
@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.7ATVpDUM6pRq6HOR"
 license: ORC
 ---
-# Smash From The Air
+# Smash from the Air
 ## Feat 18
 ### [[fighter]]
 
@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Cut From the Air
 * * *
-Your expertise enables you to knock away spells. You can use [[Feats/Cut from the Air|Cut from the Air]] against ranged spell attacks.
+Your expertise enables you to knock away spells. You can use [[Feats/Cut From the Air|Cut From the Air]] against ranged spell attacks.
 
 *Source: Pathfinder Player Core*
 *ORC*

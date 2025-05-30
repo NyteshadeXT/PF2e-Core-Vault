@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap185-a-taste-of-ashes/assets/art/PZO90185 SORVINAESEN.webp| ]]
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Sorvinaesen"
 level: "Creature 17"
@@ -55,22 +56,28 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Guisarme|+2 Striking Guisarme]], 16x Small Bag of Ash Containing a Black Onyx Gem, [[Compendium.pf2e.equipment-srd.Item.eFqKVKrf62XOGWUw|Belt Pouch]]"
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense (Imprecise) 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Catch Rock|Catch Rock]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Requirements** The monster must have a free hand but can [[Actions/Release|Release]] anything it's holding as part of this reaction.\n\n**Trigger** The monster is targeted with a thrown rock Strike or a rock would fall on the monster.\n* * *\n\n**Effect** The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Guisarme +31 (magical, reach 15 feet, trip)\n__Damage__  2d10 + 12 slashing"
+  - name: "**Melee** `pf2:1` Guisarme"
+    desc: "+31 (magical, reach 15 feet, trip)\n__Damage__  2d10 + 12 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +30 (agile, reach 10 feet)\n__Damage__  3d6 + 12 slashing plus impart-doom"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+30 (agile, reach 10 feet, unarmed)\n__Damage__  3d6 + 12 slashing plus impart-doom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +28 (brutal, range increment 120 feet)\n__Damage__  3d8 + 12 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+28 (brutal, range increment 120 feet)\n__Damage__  3d8 + 12 bludgeoning"
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 38, attack +30; __9th __ (2 slots) _[[Spells/Overwhelming Presence|Overwhelming Presence]]_, _[[Spells/Zealous Conviction|Zealous Conviction]]_; __8th __ (3 slots) _[[Spells/Blade Barrier|Blade Barrier]]_, _[[Spells/Divine Aura|Divine Aura]]_, _[[Spells/Spiritual Epidemic|Spiritual Epidemic]]_; __7th __ (3 slots) _[[Spells/Divine Vessel|Divine Vessel]]_, _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Execute|Finger of Death]]_; __6th __ (3 slots) _[[Spells/Heroism|Heroism]]_, _[[Spells/Spirit Blast|Spirit Blast]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __ (3 slots) _[[Spells/Abyssal Plague|Abyssal Plague]]_, _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Truespeech|Tongues]]_; __4th __ (3 slots) _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Read Omens|Read Omens]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse]]_; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Heroism|Heroism]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (3 slots) _[[Spells/Sure Footing|Remove Paralysis]]_, _[[Spells/Sound Body|Restore Senses]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __ (3 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Create Water|Create Water]]_, _[[Spells/Fear|Fear]]_\n__Cantrips__  __(9th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
@@ -79,16 +86,16 @@ attacks:
     desc: "DC 38, attack +30; __9th __  _[[Spells/Bind Undead|Bind Undead (x3)]]_, _[[Spells/Harm|Harm (x3)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead]]_"
+    desc: "_Create Undead_"
 
   - name: "Font of Death"
-    desc: "`pf2:3` (divine,void) The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of void energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with void energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this void energy from the corpse in an explosion that deals 10d12 void damage energy in a @Template[burst|distance:15] (DC 36 Fortitude check save); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused."
+    desc: "`pf2:3` (divine,void) The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of void energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with void energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this void energy from the corpse in an explosion that deals 10d12 void damage energy in a 15-foot burst (DC 36 Fortitude check save); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused."
 
   - name: "Impart Doom"
     desc: " (divine) A creature hit by Sorvinaesen's claw Strike, or one who critically fails a save from one of Sorvinaesen's spells, becomes [[Conditions/Doomed|Doomed 1]]."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
 
   - name: "Visions of Death"
     desc: "  Sorvinaesen's Strikes deal an additional 2d10 mental damage to doomed creatures as visions of their impending deaths fill their minds."

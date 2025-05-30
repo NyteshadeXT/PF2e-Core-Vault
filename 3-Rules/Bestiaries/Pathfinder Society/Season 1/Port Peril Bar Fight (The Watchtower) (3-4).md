@@ -53,7 +53,7 @@ attacks:
     desc: "General Mayhem +9 (nonlethal) Damage can be bludgeoning, slashing or piercing."
 
   - name: "Get the Goods!"
-    desc: "action (visual) Gaming chips, a money purse, or jewels from a broken necklace scatter across the ground. All creatures within a @Template[burst|distance:15] that could be enticed by material wealth must attempt a DC 21 Will check saving throw or be [[Conditions/Fascinated|Fascinated]] for 1 round or until a creature has used an Interact action to scoop up the valuables. This effect is a Watchtower specialty."
+    desc: "action (visual) Gaming chips, a money purse, or jewels from a broken necklace scatter across the ground. All creatures within a 15-foot burst that could be enticed by material wealth must attempt a DC 21 Will check saving throw or be [[Conditions/Fascinated|Fascinated]] for 1 round or until a creature has used an Interact action to scoop up the valuables. This effect is a Watchtower specialty."
 
   - name: "Routine"
     desc: "(2 actions) The bar fight uses its first action to make a general mayhem Strike against all creatures in any area that has not been disabled. Make one Strike against each enemy in the area and roll the damage only once for all targets. The bar fight then uses its second action to use Port Peril specialty."

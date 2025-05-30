@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +6 (two-hand d8)\n__Damage__  1d4 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+6 (two-hand d8)\n__Damage__  1d4 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Flask (Lesser) +5 (bomb, consumable, range increment 30 feet, splash)\n__Damage__  1d6 acid 1 acid"
+  - name: "**Ranged** `pf2:1` Acid Flask (Lesser)"
+    desc: "+5 (bomb, consumable, range increment 30 feet, splash)\n__Damage__  1d6 acid 1 acid"
 
   - name: "Primal Prepared Spells"
     desc: "DC 16, attack +8; __1st __  _[[Spells/Runic Body|Magic Fang]]_, _[[Spells/Shillelagh|Shillelagh]]_\n__Cantrips__  __(1st)__ _[[Spells/Light|Light]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

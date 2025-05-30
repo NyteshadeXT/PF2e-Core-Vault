@@ -56,17 +56,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Morningstar +18 (magical, versatile p)\n__Damage__  1d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Morningstar"
+    desc: "+18 (magical, versatile p)\n__Damage__  1d6 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +17 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 6 bludgeoning 3d4 + 3 force"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+17 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 6 bludgeoning 3d4 + 3 force"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bottled Lightning +17 (alchemical, bomb, range increment 30 feet)\n__Damage__  2d6 electricity 2 electricity"
+  - name: "**Ranged** `pf2:1` Bottled Lightning"
+    desc: "+17 (alchemical, bomb, range increment 30 feet)\n__Damage__  2d6 electricity 2 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Frost Vial +19 (alchemical, bomb, range increment 30 feet)\n__Damage__  2d6 cold 2 cold"
+  - name: "**Ranged** `pf2:1` Frost Vial"
+    desc: "+19 (alchemical, bomb, range increment 30 feet)\n__Damage__  2d6 cold 2 cold"
 
   - name: "Bullyrag Beatdown"
     desc: "  Whenever the gang tough makes a successful melee Strike against a frightened creature, the Strike deals an extra weapon die of damage."

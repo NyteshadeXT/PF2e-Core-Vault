@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-The small spirits known as kodama pride themselves in taking care of trees and other vegetation, and they'll happily come to your aid as well. You can cast [[Helpful Wood Spirits|Helpful Wood Spirits]] as a 2nd-rank innate primal spell twice per day
+The small spirits known as kodama pride themselves in taking care of trees and other vegetation, and they'll happily come to your aid as well. You can cast [[Spells/Helpful Wood Spirits|Helpful Wood Spirits]] as a 2nd-rank innate primal spell twice per day
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

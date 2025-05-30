@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +10 (finesse)\n__Damage__  1d8 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+10 (finesse, unarmed)\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Alchemical Strike"
     desc: "  An alchemical drudge contains a special reservoir that can be loaded with the contents of one alchemical bomb that deals acid, cold, electricity, or fire damage, allowing the drudge to imbue its fist attacks with this damage. Each hit deals 1d6 points of damage of the same type as that of the bomb loaded into it. Each bomb has enough fluid in it for 10 successful strikes.\n\n[[Bestiary Effects/Effect_ Alchemical Strike|Effect: Alchemical Strike]]"

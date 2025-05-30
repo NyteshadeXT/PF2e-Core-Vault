@@ -73,17 +73,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vine +46 (deadly 3d12, versatile p)\n__Damage__  4d10 + 27 bludgeoning plus absorb-magic,improved-grab"
+  - name: "**Melee** `pf2:1` Vine"
+    desc: "+46 (deadly 3d12, versatile p)\n__Damage__  4d10 + 27 bludgeoning plus absorb-magic,improved-grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thorn +43 (fatal d12, range increment 120 feet, reload 0)\n__Damage__  4d8 + 27 piercing plus embed"
+  - name: "**Ranged** `pf2:1` Thorn"
+    desc: "+43 (fatal d12, range increment 120 feet, reload 0)\n__Damage__  4d8 + 27 piercing plus embed"
 
   - name: "Primal Innate Spells"
     desc: "DC 48, attack +40; __10th __  _[[Spells/Flourishing Flora|Flourishing Flora (x3)]]_, _[[Spells/Heal|Heal (x3)]]_, _[[Spells/Nature's Pathway|Nature's Pathway (At Will)]]_, _[[Spells/Regenerate|Regenerate (x3)]]_, _[[Spells/Truesight|Truesight]]_; __9th __  _[[Spells/Energy Aegis|Energy Aegis]]_, _[[Spells/Entwined Roots|Entwined Roots]]_; __8th __  _[[Spells/Desiccate|Desiccate]]_, _[[Spells/Life-Draining Roots|Life-Draining Roots]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Awaken Animal|Awaken Animal]]_, _[[Spells/Commune|Commune]]_, _[[Spells/Control Weather|Control Weather]]_, _[[Spells/Plant Growth|Plant Growth]]_, _[[Spells/Primal Call|Primal Call]]_, _[[Spells/Wish|Wish]]_"
+    desc: "_Awaken Animal_, _Commune_, _Control Weather_, _Plant Growth_, _Primal Call_, _Wish_"
 
   - name: "Absorb Magic"
     desc: "`pf2:1`  The green man's vines leach away magic and transform it into life essence for the green man. On a successful vine Strike, the green man attempts to counteract one spell active on the target (typically one vexing the green man, or determined randomly if they aren't aware of specific effects), with a counteract rank of 10 and a modifier of +38.\n\nIf the effect is counteracted, the green man gains 30 temporary Hit Points that last for 10 minutes."
@@ -111,6 +111,9 @@ attacks:
 
   - name: "Vine Forest"
     desc: "`pf2:2`  The green man lashes out with all six vines to attack many opponents. They make up to six vine Strikes, each against a different target; this counts as one attack for their multiple attack penalty, increasing only after all the attacks are made."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -58,17 +58,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +17 (magical, reach)\n__Damage__  2d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+17 (magical, reach)\n__Damage__  2d6 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Torch +16 (agile, finesse, shove)\n__Damage__  1d6 fire 1d4 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Torch"
+    desc: "+16 (agile, finesse, shove)\n__Damage__  1d6 fire 1d4 + 5 bludgeoning"
 
   - name: "Divine Prepared Spells"
-    desc: "DC 26, attack +18; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Talking Corpse|Talking Corpse]]_; __3rd __  _[[Spells/Holy Light|Holy Light]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Peaceful Rest|Peaceful Rest]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Command|Command]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_"
+    desc: "DC 26, attack +18; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Talking Corpse|Talking Corpse]]_; __3rd __  _[[Spells/Holy Light|Holy Light]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Peaceful Rest|Peaceful Rest]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Command|Command]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Consecrate|Consecrate]]_"
+    desc: "_Consecrate_"
 
   - name: "Purifying Flames"
     desc: "`pf2:2` (divine,fire) The exorcist attempts to Strike a creature with their torch, attacking with great precision and causing the torch's fires to flare up. This Strike gains a +2 status bonus to its attack roll and inflicts an additional 2d6 fire damage on a hit instead of just 1d6 fire damage. An undead, spirit, or transmigrated creature hit by this attack must also attempt a DC 26 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected by this additional effect, and some of the fire flares back onto the exorcist, inflicting 2d6 fire damage to the exorcist (DC 26 Reflex check save).\n\n**Success** The creature is unaffected by this additional effect.\n\n**Failure** The purifying flames cause the creature to become [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Stupefied|Stupefied 1]] until the end of its next turn.\n\n**Critical Failure** As failure, but [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied 2]] for 1 minute."

@@ -3,15 +3,14 @@ obsidianUIMode: preview
 title: "Aid"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
-  - trait/common
+  - trait/
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW"
 license: ORC
 ---
 # Aid `pf2:r`
 
-### [[general]]
+### 
 
 
 

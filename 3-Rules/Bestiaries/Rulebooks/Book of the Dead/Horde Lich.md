@@ -61,11 +61,14 @@ abilities_mid:
   - name: "Shatter Block"
     desc: "`pf2:r`  **Trigger** A creature scores a critical hit on the horde lich\n\n**Requirements** The horde lich has at least one servitor attached (see Servitor Assembly)\n* * *\n\n**Effect** The critical hit is a normal hit instead. One of the horde lich's servitors detaches from them and is placed in an open, adjacent space, [[Conditions/Prone|Prone]]. The servitor takes the damage from the triggering attack."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hand +27 (finesse, magical)\n__Damage__  5d8 void"
+  - name: "**Melee** `pf2:1` Hand"
+    desc: "+27 (finesse, magical)\n__Damage__  5d8 void"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 39, attack +31; __8th __  _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Power Word Stun|Power Word Stun]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __  _[[Spells/Power Word Blind|Power Word Blind]]_, _[[Spells/Project Image|Project Image]]_, _[[Spells/Spell Turning|Spell Turning]]_, _[[Spells/True Target|True Target]]_; __6th __  _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Repulsion|Repulsion]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Hallucination|Hallucination]]_; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Compendium.pf2e.spells-srd.Item.hkfH9Z53hPzcOwNB|Veil]]_; __3rd __  _[[Spells/Haste|Haste]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Alarm|Alarm]]_, _[[Spells/Command|Command]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Shield|Shield]]_"

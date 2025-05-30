@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Upstage"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.F0JgJR2rXKOg9k1z"

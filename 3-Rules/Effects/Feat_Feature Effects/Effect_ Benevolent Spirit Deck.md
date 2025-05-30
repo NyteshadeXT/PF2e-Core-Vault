@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Feats/Benevolent Spirit Deck|Benevolent Spirit Deck]]
+
 You gain a +1 status bonus to AC and resistance depending on your harrow omen.
 
 *Source: Pathfinder Stolen Fate Player's Guide*

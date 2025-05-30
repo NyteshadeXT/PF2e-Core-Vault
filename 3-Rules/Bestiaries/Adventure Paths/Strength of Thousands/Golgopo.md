@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 (finesse)\n__Damage__  2d8 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (finesse, unarmed)\n__Damage__  2d8 + 5 bludgeoning"
 
   - name: "Innate Occult Spells"
     desc: "DC 26, attack +18; __4th __ (2 slots) _[[Spells/Read Omens|Read Omens]]_, _[[Spells/Seal Fate|Seal Fate]]_; __3rd __ (3 slots) _[[Spells/Locate|Locate]]_, _[[Spells/Veil of Privacy|Nondetection (x2)]]_; __2nd __ (3 slots) _[[Spells/Augury|Augury]]_, _[[Spells/Paranoia|Paranoia]]_, _[[Spells/Sound Body|Restore Senses]]_; __1st __ (1 slots) _[[Spells/Ill Omen|Ill Omen]]_"

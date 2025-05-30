@@ -36,7 +36,7 @@ trait_05: [[unholy]]
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "+18; "
+    desc: "+18; Darkvision"
 languages: "Aklo, Common, Necril, Sakvroth"
 skills:
   - name: "Skills"
@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +27 (finesse)\n__Damage__  3d10 + 10 piercing plus ghoul-ghoul-fever,profane-paralysis 2d6 void plus ghoul-ghoul-fever,profane-paralysis"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+27 (finesse, unarmed)\n__Damage__  3d10 + 10 piercing plus ghoul-ghoul-fever,profane-paralysis 2d6 void plus ghoul-ghoul-fever,profane-paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +27 (agile, finesse)\n__Damage__  3d6 + 10 slashing plus profane-paralysis 2d6 void plus profane-paralysis"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+27 (agile, finesse, unarmed)\n__Damage__  3d6 + 10 slashing plus profane-paralysis 2d6 void plus profane-paralysis"
 
   - name: "Occult Innate Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Noise Blast|Sound Burst]]_; __6th __  _[[Spells/Rewrite Memory|Modify Memory]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Teleport|Teleport]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Confusion|Confusion (x3)]]_; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_\n__Cantrips__  __(7th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

@@ -64,22 +64,22 @@ abilities_mid:
     desc: "  The clockwork assassin ignores the concealed condition from smoke."
 
   - name: "Wind-Up"
-    desc: "  For the clockwork assassin to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. The assassin can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).A creature can attempt a DC 31 Thievery check check to Disable a Device to wind the assassin down. For each success, the assassin loses 1 hour of operational time. This can be done even if the assassin is in standby mode."
+    desc: "  For the clockwork assassin to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. The assassin can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).A creature can attempt a [[Actions/disable-device dc=31|disable-device dc=31]]{DC 31 Thievery} check to Disable a Device to wind the assassin down. For each success, the assassin loses 1 hour of operational time. This can be done even if the assassin is in standby mode."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier Hand +27 (deadly d8, disarm, finesse, magical)\n__Damage__  3d6 + 12 piercing plus unbalancing-blow"
+  - name: "**Melee** `pf2:1` Rapier Hand"
+    desc: "+27 (deadly d8, disarm, finesse, magical)\n__Damage__  3d6 + 12 piercing plus unbalancing-blow"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spinning Blade +27 (agile, deadly d10, magical, range increment 120 feet)\n__Damage__  2d10 + 9 slashing"
+  - name: "**Ranged** `pf2:1` Spinning Blade"
+    desc: "+27 (agile, deadly d10, magical, range increment 120 feet)\n__Damage__  2d10 + 9 slashing"
 
   - name: "Rapid Repair"
     desc: " (manipulate) The clockwork assassin spends 1 hour of its operational time to repair itself, regaining 25 Hit Points and refilling its integrated projectile launcher with 4 spinning blades (to a maximum of 10) and 2 smoke bombs (to a maximum of 5)."
 
   - name: "Smoke Bomb Launcher"
-    desc: "`pf2:1` (manipulate) The clockwork assassin launches a smoke bomb. A screen of thick, opaque smoke fills a @Template[burst|distance:10] within 60 feet of the clockwork assassin. Creatures within the area are concealed, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind."
+    desc: "`pf2:1` (manipulate) The clockwork assassin launches a smoke bomb. A screen of thick, opaque smoke fills a 10-foot burst within 60 feet of the clockwork assassin. Creatures within the area are concealed, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind."
 
   - name: "Sneak Attack"
     desc: "  The clockwork assassin's Strikes deal an additional 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

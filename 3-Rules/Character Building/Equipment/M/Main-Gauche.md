@@ -1,76 +1,34 @@
 ---
-#========================================================#
-#                     CORE PROPERTIES                    #
-#========================================================#
-cssclass: pf2e-item, h-line
-name: "main-gauche"
-aliases: "Main-Gauche"
-source: "Pathfinder Player Core"
-pg: ""
-rarity: ""
-trait01: "agile"
-trait02: "disarm"
-trait03: "finesse"
-trait04: "parry"
-trait05: "versatile-s"
-trait06: "common"
-trait07: ""
-trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 0
-weight: L
-value: "5"
-subvalue: "sp"
-invest:
-usage: "held in one hand "
-license: "ORC"
-identify:
-description: "This parrying dagger features a robust guard to protect the wielder's hand."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
-trigger2:
-mechanics2: "**Secondary Effect** "
-craft:
-
-#========================================================#
-#                   WEAPON PROPERTIES                    #
-#========================================================#
-range: 
-ammoType:
-damage: 1d4 piercing
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
-
-#========================================================#
-#                    ARMOR PROPERTIES                    #
-#========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
-resist:
-immunity:
-conditionImmunity:
-
-#========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
-#========================================================#
-weaponBase:
-armorBase:
-
+obsidianUIMode: preview
+title: "Main-Gauche"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - pf2e/weapon
+  - trait/agile
+  - trait/disarm
+  - trait/finesse
+  - trait/parry
+  - trait/versatile-s
+  - trait/common
+  - category/martial
+  - remaster
+aliases: "Compendium.pf2e.equipment-srd.Item.iWcw1sFLAzByVLBP"
+license: ORC
 ---
+# Main-Gauche
+## Item 0
+### [[agile]][[disarm]][[finesse]][[parry]][[versatile-s]]
+
+|  |  |
+| -- | -- |
+| **Category** martial melee weapon | **Group** knife |
+| **Price** 5 sp |  |
+| **Bulk** L | **Size** med |
+| **Damage** 1d4 piercing  | **Usage** held-in-one-hand |
+
+
+
+This parrying dagger features a robust guard to protect the wielder's hand.
+
+*Source: Pathfinder Player Core*
+*ORC*

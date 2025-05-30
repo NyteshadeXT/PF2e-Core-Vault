@@ -55,16 +55,19 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Pendant of the Occult|Pendant of the Occult]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 30 Feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 ()\n__Damage__  1d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (unarmed)\n__Damage__  1d6 + 3 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +12 ()\n__Damage__  2d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+12 ()\n__Damage__  2d4 + 3 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 22, attack +14; __4th __ (2 slots) _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Seal Fate|Seal Fate]]_; __3rd __ (2 slots) _[[Spells/Agonizing Despair|Agonizing Despair]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Sculpt Sound|Sculpt Sound]]_; __2nd __ (3 slots) _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __ (3 slots) _[[Spells/Alarm|Alarm]]_, _[[Spells/Déjà Vu|Déjà Vu]]_, _[[Spells/Ill Omen|Ill Omen]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +14 ()\n__Damage__  2d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+14 ()\n__Damage__  2d6 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horns +12 (deadly d8)\n__Damage__  2d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Horns"
+    desc: "+12 (deadly d8)\n__Damage__  2d6 + 6 piercing"
 
   - name: "Storm Step"
     desc: " (electricity,magical) Whenever the aurochs moves at least its full Speed as part of a Stride or Trample action, it rises off the ground on a billow of thunderous storm clouds.\n\nUntil the end of its next turn, the aurochs can effortlessly climb vertical and horizontal surfaces, it takes no damage from falls, and its attacks deal an additional 1d6 electricity damage.\n* * *\n\n[[Effects/Effect_ Storm Step|Effect: Storm Step]]"

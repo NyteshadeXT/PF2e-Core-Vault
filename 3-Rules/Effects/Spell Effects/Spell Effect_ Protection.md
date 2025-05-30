@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Protection|Protection]].
+Granted by [[Spells/Protection|Protection]].
 
-The target gains a +1 status bonus to Armor Class and saving throws.
+You gain a +1 status bonus to Armor Class and saving throws.
 
 *Source: Pathfinder Player Core*
 *ORC*

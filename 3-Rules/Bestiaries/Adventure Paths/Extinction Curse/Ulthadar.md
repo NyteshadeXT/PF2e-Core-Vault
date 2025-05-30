@@ -66,14 +66,17 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) Ulthadar can't move on to the afterlife until Moonstone Hall is restored to a position of prominence within Escadar and staffed with new priests.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +18 (agile, finesse, magical)\n__Damage__  2d6 + 10 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+18 (agile, finesse, magical)\n__Damage__  2d6 + 10 void"
 
   - name: "Draining Touch"
-    desc: "`pf2:2`  Ulthadar attempts to drain a living creature's life force. He makes a ghostly hand Strike but deals no damage on a hit. Instead, the target is [[Conditions/Drained|Drained 1]] for 1 day and Ulthadar regains 4 Hit Points."
+    desc: "`pf2:2`  Ulthadar attempts to drain a living creature's life force. He makes a ghostly hand Strike but deals no damage on a hit. Instead, the target is [[Conditions/Drained|Drained 1]] for 1 day and Ulthadar regains 4 healing Hit Points."
  
 ```
 

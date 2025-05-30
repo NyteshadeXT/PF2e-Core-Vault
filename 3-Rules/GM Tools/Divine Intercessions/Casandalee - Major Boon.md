@@ -18,7 +18,7 @@ license: OGL
 
 Casandalee backs up your memory and soul within her divine data flow.
 
-After you die, she casts your consciousness into a new artificial body. While Casandalee constructed your new body artificially, it is otherwise similar to the old, with the same effects as a critical success on a [[Resurrect|Resurrect]] ritual. Casandalee is instead willing to provide different bodies to those who request them.
+After you die, she casts your consciousness into a new artificial body. While Casandalee constructed your new body artificially, it is otherwise similar to the old, with the same effects as a critical success on a [[Spells/Resurrect|Resurrect]] ritual. Casandalee is instead willing to provide different bodies to those who request them.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

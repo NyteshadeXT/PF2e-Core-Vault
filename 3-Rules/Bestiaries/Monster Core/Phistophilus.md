@@ -38,7 +38,7 @@ perception:
 languages: "Aklo, Chthonian, Common, Diabolic, Draconic, Empyrean, Sakvroth; Telepathy 100 feet, Truespeech"
 skills:
   - name: "Skills"
-    desc: "Arcana: +19, Deception: +23, Diplomacy: +21, Intimidation: +21, Religion: +19, Society: +19, Stealth: +18, Legal Lore: +25"
+    desc: "Arcana: +19, Athletics: +19, Deception: +23, Diplomacy: +21, Intimidation: +21, Religion: +19, Society: +19, Stealth: +18, Legal Lore: +25"
 abilityMods: [3, 4, 4, 7, 5, 5]
 speed: 25 feet
 sourcebook: "_Pathfinder Monster Core_"
@@ -54,6 +54,15 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Ward Contract"
@@ -62,17 +71,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Binding Contract +23 (agile, disarm, magical, reach 10 feet, trip, unholy)\n__Damage__  3d6 + 11 slashing plus grab,infernal-wound"
+  - name: "**Melee** `pf2:1` Binding Contract"
+    desc: "+23 (agile, disarm, magical, reach 10 feet, trip, unholy)\n__Damage__  3d6 + 11 slashing plus grab,infernal-wound"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +21 (magical)\n__Damage__  3d10 + 11 piercing plus infernal-wound"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+21 (magical, unarmed)\n__Damage__  3d10 + 11 piercing plus infernal-wound"
 
   - name: "Divine Innate Spells"
     desc: "DC 31, attack +23; __10th __  _[[Spells/Scrying|Scrying (At Will, See Infernal Investment)]]_; __7th __  _[[Spells/Interplanar Teleport|Interplanar Teleport]]_; __5th __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Locate|Locate (At Will)]]_, _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Sending|Sending (At Will)]]_, _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Peaceful Bubble|Peaceful Bubble]]_, _[[Spells/Silence|Silence]]_, _[[Spells/Translocate|Translocate (At Will)]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Diabolic Pact|Diabolic Pact]]_"
+    desc: "_Diabolic Pact_"
 
   - name: "Draft Contract"
     desc: "`pf2:3` (divine,manipulate) The contract devil produces an infernal contract for a single living mortal. This contract can grant a wide range of abilities and effects, akin to the power of a [[Spells/Wish|Wish]] ritual but fulfilled to the letter by the contract devil. To receive any of those benefits, the mortal must willingly sign its true name to the contract. At that point, the mortal's soul is bound to the contract devil and Hell.\n\nWhile the contract is in effect, the victim can't be restored to life except by _wish_ or similar magic. If the mortal is restored to life by those means, the contract devil knows which mortal came to life and can locate the creature or creatures who restored the mortal to life for 1 year, gaining the effects of a [[Spells/Locate|Locate]] spell with unlimited range. Avoiding the terms of an infernal contract is difficult and often dangerous."
@@ -84,7 +93,7 @@ attacks:
     desc: " (divine) The wounds from a contract devil's Strikes resist healing.\n\nA spellcaster or item attempting to use healing magic on a creature suffering first attempts to counteract infernal wound (DC 29). If it is not counteracted, the healing has no effect."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

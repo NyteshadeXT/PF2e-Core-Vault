@@ -56,19 +56,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Halberd +23 (magical, reach 10 feet, versatile s)\n__Damage__  2d10 + 11 piercing"
+  - name: "**Melee** `pf2:1` Halberd"
+    desc: "+23 (magical, reach 10 feet, versatile s)\n__Damage__  2d10 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +22 (agile, finesse)\n__Damage__  2d4 + 11 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+22 (agile, finesse, unarmed)\n__Damage__  2d4 + 11 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +23 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+23 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 11 piercing"
 
   - name: "Captivating Song"
     desc: "`pf2:1` (auditory,concentrate,incapacitation,mental,primal) The harpy cries out an eerie, compelling melody. Each non-harpy creature within a 300-foot aura must attempt a DC 29 Will check save to avoid becoming captivated by the harpy's song. The effect lasts for 1 round, but if the harpy uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Captivating Song, that creature is temporarily immune to Captivating Songs for 24 hours.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend each of its actions to move closer to the harpy as expediently as possible, while avoiding obvious dangers. If a captivated creature is adjacent to the harpy, it stays still and doesn't act. If attacked by the harpy, the creature is freed from captivation at the end of the harpy's turn.\n\n**Critical Failure** As failure, but if attacked by the harpy, the creature can attempt a new save at the start of its next turn, rather than being freed at the end of the harpy's turn."

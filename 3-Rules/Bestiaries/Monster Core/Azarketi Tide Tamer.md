@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +18 (thrown 20 ft.)\n__Damage__  1d8 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+18 (thrown 20 ft.)\n__Damage__  1d8 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +18 (thrown 20 ft.)\n__Damage__  1d8 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+18 (thrown 20 ft.)\n__Damage__  1d8 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +17 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+17 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "Aquatic Predator"
     desc: "  An azarketi deals 2d8 additional damage on a successful weapon Strike while they are underwater."

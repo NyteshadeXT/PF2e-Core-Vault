@@ -20,5 +20,5 @@ Ghlaunder rewards his followers with the ability to safely spread illness—or o
 
 You do not take negative effects from any disease you are infected with unless or until Ghlaunder rescinds this benefit.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

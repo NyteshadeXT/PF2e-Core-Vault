@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.6dJokwhIMvjAHL52"
-license: OGL
+license: ORC
 ---
 # Practiced Reloads
 ## Feat 10
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Gunslinger Dedication
 * * *
-You've mastered the reloading techniques and methods usually practiced by only the most dedicated firearm professionals. You gain the slinger's reload for the way you selected with Gunslinger's Dedication.
+You've mastered the reloading techniques and methods usually practiced by only the most dedicated firearm professionals. You gain the slinger's reload for the way you selected with [[Feats/Gunslinger Dedication|Gunslinger Dedication]].
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Stoked Flame Stance `pf2:1`
 ## Feat 1
-### [[3-Rules/trait_reference/F/fire]][[monk]][[stance]]
+### [[fire]][[monk]][[stance]]
 
 **Category** class; 
 

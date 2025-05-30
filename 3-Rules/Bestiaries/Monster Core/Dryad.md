@@ -59,6 +59,9 @@ abilities_top:
   - name: "Nature Empathy"
     desc: "  The dryad can ask questions of, receive answers from, and use the Diplomacy skill with animals and plants."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Tree Dependent"
@@ -67,8 +70,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +12 (finesse, magical)\n__Damage__  1d12 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+12 (finesse, magical)\n__Damage__  1d12 + 2 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 20, attack +12; __5th __  _[[Spells/Nature's Pathway|Nature's Pathway (x2)]]_; __4th __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Suggestion|Suggestion]]_; __2nd __  _[[Spells/Entangling Flora|Entangling Flora (At Will)]]_, _[[Spells/One with Plants|One with Plants (At Will, See Tree Meld)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Tangle Vine|Tangle Vine]]_"

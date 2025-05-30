@@ -16,13 +16,11 @@ license: OGL
 
 
 
-Granted by [[Stone Body Mutagen (Moderate)|Stone Body Mutagen (Moderate)]]
+Granted by [[Equipment/Stone Body Mutagen (Moderate)|Stone Body Mutagen (Moderate)]]
 
-Implemented effects:
+**Benefit** You gain resistance 5 to physical damage (except bludgeoning).
 
-*   \-2 penalty to Reflex saves
-*   \-10 foot penalty to Speed
-*   Resistance 5 to physical damage (except bludgeoning)
+**Drawback** Your speeds are reduced by 10 feet (minimum 5 feet) and you take a -2 penalty to Reflex saves.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

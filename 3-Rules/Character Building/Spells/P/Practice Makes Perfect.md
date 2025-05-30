@@ -11,8 +11,9 @@ tags:
   - trait/manipulate
   - trait/uncommon
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.HOj2YsTpkoMpYJH9" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Practice Makes Perfect  `pf2:r`"
@@ -27,9 +28,9 @@ columnWidth: x
 abilities_top:
   - name: ""
   - name: "Range"
-    desc: "30 feet"
+    desc: "30 feet; **Targets** the triggering creature"
 abilities_mid:
   - name: ""
-    desc: "**Trigger** You or an ally within range fails a skill check for a skill in which you or they are trained.\n* * *\n\nThe target gains a +2 status bonus to the triggering check, or a +3 bonus if the target has master or better proficiency in the skill. This bonus can change the outcome of the target's check.\n\n[[Spell Effects/Spell Effect_ Practice Makes Perfect|Spell Effect: Practice Makes Perfect]]"
-sourcebook: "_Pathfinder #148: Fires of the Haunted City_"
+    desc: "**Trigger** You or an ally within range fails a skill check for a skill in which you or they are trained.\n* * *\n\nThe target gains a +2 status bonus to the triggering check, or a +3 bonus if the target has master or better proficiency in the skill. This bonus can change the outcome of the target's skill check.\n\n[[Spell Effects/Spell Effect_ Practice Makes Perfect|Spell Effect: Practice Makes Perfect]]"
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

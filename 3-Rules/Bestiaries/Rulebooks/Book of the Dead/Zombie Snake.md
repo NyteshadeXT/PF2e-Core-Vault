@@ -61,11 +61,14 @@ abilities_mid:
   - name: "Slow"
     desc: "  A zombie snake is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +7 ()\n__Damage__  1d6 + 3 piercing plus filth-fever"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+7 ()\n__Damage__  1d6 + 3 piercing plus filth-fever"
 
   - name: "Filth Fever"
     desc: " (disease) The sickened and unconscious conditions from filth fever can't end or be reduced until the disease is cured\n\n**Saving Throw** DC 14 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1d4 hours)\n\n**Stage 2** [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** sickened 1 and [[Conditions/Slowed|Slowed 1]] (1 day)\n\n**Stage 4** [[Conditions/Unconscious|Unconscious]] (1 day)\n\n**Stage 5** dead"

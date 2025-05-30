@@ -58,16 +58,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Explosion"
-    desc: " (fire) When the living wildfire dies, it explodes, dealing 3d6 fire damage to each creature in a @Template[emanation|distance:10|traits:fire,damaging-effect] (DC 19 Reflex check save)."
+    desc: " (fire) When the living wildfire dies, it explodes, dealing 3d6 fire damage to each creature in a 10-foot emanation (DC 19 Reflex check save)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +15 (agile, finesse, reach 10 feet)\n__Damage__  2d6 + 6 fire 2d4 fire"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+15 (agile, finesse, reach 10 feet)\n__Damage__  2d6 + 6 fire 2d4 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Fire Mote +15 (range increment 60 feet)\n__Damage__  2d6 + 3 fire"
+  - name: "**Ranged** `pf2:1` Fire Mote"
+    desc: "+15 (range increment 60 feet)\n__Damage__  2d6 + 3 fire"
 
   - name: "Spreading Flames"
     desc: "`pf2:1` (fire,primal) **Requirements** The living wildfire's last action was a Strike that dealt fire damage\n* * *\n\n**Effect** The fire flares, dealing 3d6 fire damage to each creature adjacent to that target with a DC 19 Reflex check save."

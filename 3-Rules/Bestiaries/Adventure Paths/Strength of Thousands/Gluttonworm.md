@@ -48,6 +48,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense 100 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Dune Dispersal"
@@ -62,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +37 (deadly 3d10, reach 20 feet)\n__Damage__  4d12 + 18 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+37 (deadly 3d10, reach 20 feet, unarmed)\n__Damage__  4d12 + 18 piercing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Body +33 ()\n__Damage__  4d8 + 18 bludgeoning"
+  - name: "**Melee** `pf2:1` Body"
+    desc: "+33 ()\n__Damage__  4d8 + 18 bludgeoning"
 
   - name: "Fast Swallow"
     desc: "`pf2:r`  **Trigger** The gluttonworm Grabs a creature, or a creature fails a Reflex save against a Gulping Charge\n* * *\n\n**Effect** The gluttonworm uses Swallow Whole."
@@ -75,10 +78,13 @@ attacks:
     desc: "`pf2:3`  The gluttonworm Strides up to double its Speed and can move through the spaces of Large or smaller creatures, gulping each creature whose space the worm enters and attempting a body Strike against each of them.\n\nThe gluttonworm can use this Strike on each creature only once in a single use of Gulping Charge. Creatures can attempt a DC 41 Reflex check save against this damage."
 
   - name: "Spew Sandstorm"
-    desc: "`pf2:3` (air,earth,primal) The gluttonworm exhales swirling sand in a @Template[cone|distance:60]. Creatures in the area must attempt a DC 41 Reflex check save.\n\nIt can't Spew Sandstorm again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 4d6 slashing damage and 4d6 bludgeoning damage from the scouring sand.\n\n**Failure** The creature takes 8d6 slashing damage and 8d6 bludgeoning damage from the sand, and is [[Conditions/Dazzled|Dazzled]] until the end of its next turn.\n\n**Critical Failure** The creature takes 12d6 slashing damage and 12d6 bludgeoning damage and is [[Conditions/Blinded|Blinded]] for 1 hour."
+    desc: "`pf2:3` (air,earth,primal) The gluttonworm exhales swirling sand in a 60-foot cone. Creatures in the area must attempt a DC 41 Reflex check save.\n\nIt can't Spew Sandstorm again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 4d6 slashing damage and 4d6 bludgeoning damage from the scouring sand.\n\n**Failure** The creature takes 8d6 slashing damage and 8d6 bludgeoning damage from the sand, and is [[Conditions/Dazzled|Dazzled]] until the end of its next turn.\n\n**Critical Failure** The creature takes 12d6 slashing damage and 12d6 bludgeoning damage and is [[Conditions/Blinded|Blinded]] for 1 hour."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 3d10+17 bludgeoning and 2d6 slashing, Rupture 36\n\n* * *\n"
+    desc: "`pf2:1` (attack) Huge, 3d10+17 bludgeoning and 2d6 slashing, Rupture 36\n* * *\n\nThe monster attempts to swallow a creature of the listed size or smaller that it has grabbed or restrained in its jaws or mouth. If a swallowed creature is of the maximum size listed, the monster can't use Swallow Whole again. If the creature is smaller than the maximum, the monster can usually swallow more creatures; the GM determines the maximum. The monster attempts an Athletics check check opposed by the grabbed creature's Reflex DC. If it succeeds, it swallows the creature. The monster's mouth or jaws no longer grab a creature it has swallowed, so the monster is free to use them to Strike or Grab once again. The monster can't attack creatures it has swallowed.\n\nA swallowed creature is [[Conditions/Grabbed|Grabbed]], is [[Conditions/Slowed|Slowed 1]], and has to hold its breath or start suffocating. The swallowed creature takes the listed amount of damage when first swallowed and at the end of each of its turns while it's swallowed. If the victim [[Actions/Escape|Escapes]] this ability's grabbed condition, it exits through the monster's mouth. This frees any other creature grabbed in the monster's mouth or jaws. A swallowed creature can attack the monster that has swallowed it, but only with unarmed attacks or with weapons of light Bulk or less. The swallowing creature is [[Conditions/Off-Guard|Off-Guard]] against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the swallowed creature cuts itself free. A creature that gets free by either Escaping or cutting itself free can immediately breathe and exits the swallowing monster's space.\n\n[[Bestiary Effects/Effect_ Engulf and Swallow Whole|Effect: Engulf and Swallow Whole]]\n\nIf the monster dies, a swallowed creature can be freed by creatures adjacent to the corpse if they spend a combined total of 3 actions cutting the monster open with a weapon or unarmed attack that deals piercing or slashing damage."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

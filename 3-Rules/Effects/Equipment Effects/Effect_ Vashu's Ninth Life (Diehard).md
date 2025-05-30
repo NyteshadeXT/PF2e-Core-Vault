@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Vashu's Ninth Life|Vashu's Ninth Life]]
+
 You gain the benefits of the [[Feats/Diehard|Diehard]] feat.
 
 *Source: Pathfinder #198: No Breath to Cry*

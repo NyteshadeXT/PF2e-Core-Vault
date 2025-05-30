@@ -12,7 +12,7 @@ license: OGL
 ---
 # I've Had Many Jobs
 ## Feat 5
-### [rare](rare.md "Rare Rarity Trait")[[downtime]][[reincarnated]]
+### [rare](rare "Rare Rarity Trait")[[downtime]][[reincarnated]]
 
 **Category** ancestry; 
 

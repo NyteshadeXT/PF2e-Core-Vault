@@ -54,22 +54,25 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +7 (agile, finesse, holy, magical, reach 0 feet)\n__Damage__  1d4 - 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+7 (agile, finesse, holy, magical, reach 0 feet, unarmed)\n__Damage__  1d4 - 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Starlight Ray +7 (holy, light, range 30 feet)\n__Damage__  2d4 spirit"
+  - name: "**Ranged** `pf2:1` Starlight Ray"
+    desc: "+7 (holy, light, range 30 feet)\n__Damage__  2d4 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 17, attack +9; __4th __  _[[Spells/Read Omens|Read Omens]]_; __1st __  _[[Spells/Heal|Heal]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Unfettered Movement]]_"
 
   - name: "Starlight Blast"
-    desc: "`pf2:2` (holy,light) The lyrakien unleashes a blast of holy starlight in a @Template[emanation|distance:5]. Enemies in the area take 2d6 spirit damage with a DC 17 Reflex check save. The lyrakien can't use Starlight Blast or their starlight ray ranged attack for 1d4 rounds."
+    desc: "`pf2:2` (holy,light) The lyrakien unleashes a blast of holy starlight in a 5-foot emanation. Enemies in the area take 2d6 spirit damage with a DC 17 Reflex check save. The lyrakien can't use Starlight Blast or their starlight ray ranged attack for 1d4 rounds."
  
 ```
 

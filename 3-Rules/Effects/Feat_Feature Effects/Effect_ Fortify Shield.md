@@ -8,7 +8,7 @@ aliases: "Compendium.pf2e.feat-effects.Item.ghZFZWUh5Z20vOlR"
 license: OGL
 ---
 # Effect: Fortify Shield
-## Level 1
+## Level 5
 ### 
 
 
@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Add your level to your shield's Hardness.
+Granted by [[Feats/Fortify Shield|Fortify Shield]]
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+You Raise your Shield. Add your character level to your shield's Hardness.
+
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

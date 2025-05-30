@@ -52,6 +52,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Swarm Mind|Swarm Mind]]"
+    desc: "  This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
+
   - name: "Snatch Up"
     desc: "`pf2:r`  **Trigger** A creature leaves the swarm's space\n* * *\n\n**Effect** The creature must attempt a DC 18 Fortitude check save to escape the swarm's space or they are picked up and thrown 5 feet, taking 1d6 bludgeoning damage."
 

@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pick +8 (fatal d10, magical)\n__Damage__  2d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Pick"
+    desc: "+8 (fatal d10, magical)\n__Damage__  2d6 + 3 piercing"
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 20, attack +12; __2nd __ (3 slots) _[[Spells/Enlarge|Enlarge]]_, _[[Spells/Ghoulish Cravings|Ghoulish Cravings]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Sudden Blight|Sudden Blight]]_; __1st __ (4 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(2nd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"
@@ -70,7 +70,7 @@ attacks:
     desc: "1 Focus Point, DC 20, attack +12; __2nd __  _[[Spells/Glutton's Jaws|Glutton's Jaw]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead]]_, _[[Spells/Inveigle|Inveigle]]_"
+    desc: "_Create Undead_, _Inveigle_"
 
   - name: "Reach Spell"
     desc: "`pf2:1` (spellshape) If Meitremar's next action this turn is to Cast a Spell that has a range, he increases that spell's range by 30 feet (or increases the range of a touch spell to 30 feet)."

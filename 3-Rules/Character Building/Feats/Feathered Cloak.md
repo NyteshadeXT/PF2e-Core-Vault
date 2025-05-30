@@ -20,5 +20,5 @@ license: OGL
 
 To blend in with the grounded and wingless, you fold your wings just so on your back, creating the illusion of a feathered cloak. You receive a +2 circumstance bonus to Deception checks to [[Actions/Impersonate|Impersonate]] a version of yourself who is not a strix. Additionally, your folded wings help you obscure objects on your person, providing a +2 circumstance bonus to Stealth checks to [[Actions/Conceal an Object|Conceal an Object]].
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

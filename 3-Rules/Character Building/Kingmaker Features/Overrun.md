@@ -4,7 +4,7 @@ title: "Overrun"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/cavalry
-  - trait/common
+  - trait/
   - category/army-tactic
 aliases: "Compendium.pf2e.kingmaker-features.Item.ib8BcumGskNVJdZS"
 license: OGL

@@ -53,19 +53,22 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Shortbow|Shortbow]], [[Equipment/Sickle|Sickle]], 20x [[Equipment/Arrows|Arrows]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +16 (finesse)\n__Damage__  2d8 + 4 piercing plus serpentfolk-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+16 (finesse)\n__Damage__  2d8 + 4 piercing plus serpentfolk-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +16 (agile, finesse, trip)\n__Damage__  1d4 + 4 piercing plus serpentfolk-venom"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+16 (agile, finesse, trip)\n__Damage__  1d4 + 4 piercing plus serpentfolk-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +16 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 4 piercing plus serpentfolk-venom"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+16 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 4 piercing plus serpentfolk-venom"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 25, attack +17; __4th __ (2 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Noxious Vapors|Noxious Vapors]]_; __3rd __ (3 slots) _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __ (3 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/False Vitality|False Life]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __ (3 slots) _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Item Facade|Item Facade]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(4th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
@@ -77,7 +80,7 @@ attacks:
     desc: " (poison) **Saving Throw** DC 23 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
 
   - name: "Venom Pool"
-    desc: "`pf2:2` (arcane,poison) **Frequency** once per day\n* * *\n\n**Effect** The venom caller conjures a @Template[burst|distance:10] of liquid poison within 60 feet. Each creature that begins its turn in the area takes 4d6 poison damage (DC 25 Fortitude check save). On a critical failure, creatures also take 1d6 persistent poison. Once per turn, starting the turn after the venom caller uses Venom Pool, the venom caller can use a single action, which has the concentrate trait, to increase the radius of the burst by 5 feet. The pool of venom lasts for 1 minute, at which time it evaporates without a trace."
+    desc: "`pf2:2` (arcane,poison) **Frequency** once per day\n* * *\n\n**Effect** The venom caller conjures a 10-foot burst of liquid poison within 60 feet. Each creature that begins its turn in the area takes 4d6 poison damage (DC 25 Fortitude check save). On a critical failure, creatures also take 1d6 persistent poison. Once per turn, starting the turn after the venom caller uses Venom Pool, the venom caller can use a single action, which has the concentrate trait, to increase the radius of the burst by 5 feet. The pool of venom lasts for 1 minute, at which time it evaporates without a trace."
  
 ```
 

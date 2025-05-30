@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +26 (unarmed)\n__Damage__  3d10 + 14 slashing 1d6 cold"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+26 (unarmed)\n__Damage__  3d10 + 14 slashing 1d6 cold"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +28 (magical)\n__Damage__  2d6 + 14 piercing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+28 (magical)\n__Damage__  2d6 + 14 piercing 1d6 bleed"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +30 (magical, thrown 20 ft.)\n__Damage__  2d6 + 14 piercing 1d6 bleed"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+30 (magical, thrown 20 ft.)\n__Damage__  2d6 + 14 piercing 1d6 bleed"
 
   - name: "Primal Innate Spells"
     desc: "DC 31, attack +23; __7th __  _[[Spells/Howling Blizzard|Howling Blizzard]]_\n__Cantrips__  __(7th)__ _[[Spells/Frostbite|Frostbite]]_"

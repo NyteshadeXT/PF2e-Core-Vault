@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-Q08 - Numerian Archaeologist"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.yNTePhAPVMguqUVA"
 license: OGL
 ---
 # S1-Q08 - Numerian Archaeologist `pf2:0`
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Raise Slabs `pf2:2`
 
-### [[3-Rules/Rule References/Divine]][[3-Rules/Trait Reference/E/Earth]]
+### [[divine]][[earth]]
 
 **Category** offensive; 
 

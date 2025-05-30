@@ -6,7 +6,7 @@ tags:
   - trait/incapacitation
   - trait/mental
   - trait/possession
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.iwLj14liESK5OBN8"
@@ -14,14 +14,14 @@ license: ORC
 ---
 # (Ghost) Malevolent Possession `pf2:2`
 
-### [[incapacitation]][[3-Rules/trait_reference/M/mental]][[3-Rules/trait_reference/P/possession]]
+### [[incapacitation]][[mental]][[possession]]
 
 **Category** offensive; 
 
 
 
 
-The ghost attempts to possess an adjacent corporeal creature. This has the same effect as the [[3-Rules/Character Building/Spells/P/Possession|Possession]] spell, except since the ghost doesn't have a physical body, it is unaffected by that restriction of the spell.
+The ghost attempts to possess an adjacent corporeal creature. This has the same effect as the [[Spells/Possession|Possession]] spell, except since the ghost doesn't have a physical body, it is unaffected by that restriction of the spell.
 
 For DCs, use the high spell DC of the ghost's level.
 

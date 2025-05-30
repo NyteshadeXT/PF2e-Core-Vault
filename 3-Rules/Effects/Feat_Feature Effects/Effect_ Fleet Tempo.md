@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You and all allies within 30 feet gain a +10-foot status bonus to all Speeds for 1 minute.
+Granted by [[Feats/Fleet Tempo|Fleet Tempo]]
+
+You gain a +10-foot status bonus to all Speeds.
 
 *Source: Pathfinder #170: Spoken on the Song Wind*
 *OGL*

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-The creature gains a +2 item bonus to Athletics checks
+Granted by [[Equipment/Demon Dust|Demon Dust]]
 
-*Source: Pathfinder Lost Omens: Absalom, City of Lost Omens*
+You gain a +2 item bonus to Athletics checks
+
+*Source: Pathfinder Lost Omens Absalom, City of Lost Omens*
 *OGL*

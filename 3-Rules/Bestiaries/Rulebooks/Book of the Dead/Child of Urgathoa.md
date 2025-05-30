@@ -55,16 +55,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Share Blessings"
-    desc: " (disease,divine) When the child of Urgathoa is destroyed, they explode in a blast of infectious rot. All creatures in a @Template[emanation|distance:10] are exposed to pallid plague."
+    desc: " (disease,divine) When the child of Urgathoa is destroyed, they explode in a blast of infectious rot. All creatures in a 10-foot emanation are exposed to pallid plague."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scything Blade +20 (deadly d10, magical, reach 10 feet, trip, unholy)\n__Damage__  2d10 + 6 slashing 1d6 void"
+  - name: "**Melee** `pf2:1` Scything Blade"
+    desc: "+20 (deadly d10, magical, reach 10 feet, trip, unholy)\n__Damage__  2d10 + 6 slashing 1d6 void"
 
-  - name: "Melee"
-    desc: "`pf2:1` Pallid Touch +20 (agile, disease, magical, reach 10 feet, unholy)\n__Damage__  2d10 + 6 void plus pallid-plague"
+  - name: "**Melee** `pf2:1` Pallid Touch"
+    desc: "+20 (agile, disease, magical, reach 10 feet, unholy)\n__Damage__  2d10 + 6 void plus pallid-plague"
 
   - name: "Divine Innate Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Harm|Harm]]_, _[[Spells/Sudden Blight|Sudden Blight]]_; __3rd __  _[[Spells/Bind Undead|Bind Undead (x2)]]_"

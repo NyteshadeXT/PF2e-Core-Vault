@@ -66,8 +66,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +24 (agile, finesse, magical, reach 10 feet)\n__Damage__  4d8 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+24 (agile, finesse, magical, reach 10 feet)\n__Damage__  4d8 + 12 bludgeoning"
 
   - name: "Branch Whip"
     desc: "`pf2:2`  The ta'apundo makes four branch Strikes against different targets, increasing its reach to 20 feet for these Strikes. These attacks count toward its multiple attack penalty, but this penalty doesn't increase until after all four attacks."

@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 (agile, finesse, magical)\n__Damage__  2d12 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+23 (agile, finesse, magical)\n__Damage__  2d12 + 11 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wire +23 (agile, finesse, magical, reach 10 feet)\n__Damage__  2d8 + 11 slashing plus trip"
+  - name: "**Melee** `pf2:1` Wire"
+    desc: "+23 (agile, finesse, magical, reach 10 feet)\n__Damage__  2d8 + 11 slashing plus trip"
 
   - name: "Attach Strings"
     desc: "`pf2:2` (concentrate,manipulate) **Frequency** once per minute;\n\n**Effect** The puppeteer ties invisible, intangible strings to up to five adjacent Medium or smaller puppets. If the puppeteer has puppets in a _bag of holding_, it can withdraw up to five of these puppets as part of this action. The puppets gain the minion trait under the puppeteer's control.\n\nEach puppet cannot move more than 120 feet from the puppeteer and falls to the ground, lifeless, after 1 minute. The puppeteer can talk, sense, deliver Strikes, use skills, and take basic actions through its puppets (these actions gain the manipulate trait), though the puppeteer can't use its other special abilities through a puppet. If the puppeteer gives it no other commands, a puppet spends its turn swaying and casually dancing in place.\n\nThe puppeteer can have no more than five puppets active at a time and can end this effect at any time as a free action. Each puppet is an attended object that can be targeted as a creature; a puppet uses the same stats as the puppeteer, including AC, saving throws, and Hit Points. Any damage or effects aimed at a puppet affect the puppeteer instead, though the puppet's Hardness reduces damage dealt in this way. A typical puppet has Hardness 10; without the puppeteer's attached strings, a puppet is an inanimate object with HP 20 and BT 10."

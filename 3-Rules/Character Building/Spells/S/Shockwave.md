@@ -13,8 +13,9 @@ tags:
   - tradition/arcane
   - tradition/primal
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.dgCH2E0gMLMUgyFl" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Shockwave  `pf2:2`"
@@ -37,6 +38,6 @@ abilities_top:
     desc: " reflex"
 abilities_mid:
   - name: ""
-    desc: "You create a wave of energy that ripples through the earth. Terrestrial creatures in the affected area must attempt a Reflex save to avoid stumbling as the shockwave shakes the ground.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.\n\n**Failure** The creature falls [[Conditions/Prone|Prone]].\n\n**Critical Failure** As failure, plus the creature takes 1d6 damage.\n* * *\n\n**Heightened (+1)** The area increases by 5 feet (to a 20-foot cone at 2nd rank, and so on)."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+    desc: "You create a wave of energy that ripples through the earth. Terrestrial creatures in the affected area must attempt a Reflex save to avoid stumbling as the shockwave shakes the ground.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.\n\n**Failure** The creature falls [[Conditions/Prone|Prone]].\n\n**Critical Failure** As failure, plus the creature takes 1d6 bludgeoning damage.\n* * *\n\n**Heightened (+1)** The area increases by 5 feet (to a 20-foot cone at 2nd rank, and so on)."
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

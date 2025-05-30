@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Grindlegrub Steak|Grindlegrub Steak]]
+Granted by [[Equipment/Grindlegrub Steak|Grindlegrub Steak]]
 
-You do not need to eat for three days after consuming a grindlegrub steak, and for that duration you gain a +1 item bonus to Fortitude saving throws against fatigue and the drained condition.
+You gain a +1 item bonus to Fortitude saving throws against fatigue and the drained condition.
 
-*Source: Pathfinder Lost Omens: Highhelm*
+*Source: Pathfinder Lost Omens Highhelm*
 *OGL*

@@ -55,8 +55,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +10 ()\n__Damage__  1d10 + 3 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+10 (unarmed)\n__Damage__  1d10 + 3 piercing"
 
   - name: "Swoop"
     desc: "`pf2:2`  The pteranodon Flies up to its Speed and makes one beak Strike at any point during that movement."

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Geb's Blessing"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/deityboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.campaign-effects.Item.SvR7Ez1lfnN4You5"
 license: OGL
 ---
 # Geb's Blessing
-
+## Feat 1
 ### 
 
 **Category** deityboon; 

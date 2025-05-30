@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Bestial Mutagen (Lesser)|Bestial Mutagen (Lesser)]]
+Granted by [[Equipment/Bestial Mutagen (Lesser)|Bestial Mutagen (Lesser)]]
 
 You gain a +1 item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack (1d4 slashing damage) with the agile trait and a jaws unarmed attack (1d6 piercing damage).
 

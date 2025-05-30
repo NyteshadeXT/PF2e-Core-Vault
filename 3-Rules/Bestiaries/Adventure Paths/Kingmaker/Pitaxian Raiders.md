@@ -23,7 +23,7 @@ level: "Army 12"
 
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: skirmisher
 modifier: 22
 perception:
@@ -31,9 +31,9 @@ perception:
   - name: "Scouting"
     desc: "+22"
   - name: "Recruitment DC"
-    desc: "; __Consumption__ 0"
+    desc: "15; __Consumption__ 1"
   - name: "Description"
-    desc: "The Pitaxian Raiders consist of a mix of Pitax city guards and mercenaries eager for battle."
+    desc: "The Pitaxian Raiders consist of a mix of Pitax city guards and mercenaries eager for battle."
 ac: 33
 armorclass:
   - name: AC

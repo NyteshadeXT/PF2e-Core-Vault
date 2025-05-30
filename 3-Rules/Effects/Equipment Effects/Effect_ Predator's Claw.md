@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Predator's Claw|Predator's Claw]]
+Granted by [[Equipment/Predator's Claw|Predator's Claw]]
 
 The triggering attack gains the weapon's critical specialization effect.
 

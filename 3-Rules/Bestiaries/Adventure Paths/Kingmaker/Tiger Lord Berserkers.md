@@ -23,7 +23,7 @@ level: "Army 12"
 rare_03: [[Uncommon]]
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: infantry
 modifier: 23
 perception:

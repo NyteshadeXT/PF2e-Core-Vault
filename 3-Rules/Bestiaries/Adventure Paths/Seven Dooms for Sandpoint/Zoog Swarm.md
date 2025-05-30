@@ -55,7 +55,7 @@ abilities_top:
   - name: ""
 
   - name: "Spell Sight"
-    desc: "  A zoog's eyes shed bright light in a @Template[emanation|distance:15] (and dim light in the next 15 feet). Any magic effect in this area glows faintly. A zoog can quell or renew this light as a free action on its turn."
+    desc: "  A zoog's eyes shed bright light in a 15-foot emanation (and dim light in the next 15 feet). Any magic effect in this area glows faintly. A zoog can quell or renew this light as a free action on its turn."
 
 abilities_mid:
   - name: ""

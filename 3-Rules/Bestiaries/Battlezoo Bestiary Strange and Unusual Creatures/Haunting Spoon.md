@@ -37,7 +37,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Acrobatics: +8"
+    desc: "Acrobatics: +8"
 abilityMods: [2, 3, 4, -5, 0, -5]
 speed:  fly 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scoop +8 (agile, finesse, magical, reach 0 feet)\n__Damage__  1d6 + 2 bludgeoning plus big-scoop"
+  - name: "**Melee** `pf2:1` Scoop"
+    desc: "+8 (agile, finesse, magical, reach 0 feet)\n__Damage__  1d6 + 2 bludgeoning plus big-scoop"
 
   - name: "Big Scoop"
     desc: " (emotion,illusion,mental,occult,visual) Any creature that suffers a critical hit from a haunting spoon's scoop Strike must attempt a DC 17 Will check save. On a failure, the creature is [[undefined]] for 2 rounds, as they experience a vivid hallucination of the haunting spoon attempting to scoop out their eyes from their head or similarly damage any visual organs."

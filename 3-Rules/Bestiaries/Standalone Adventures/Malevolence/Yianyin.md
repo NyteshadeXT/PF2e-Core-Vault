@@ -52,6 +52,15 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 120 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Unnerving Presence"
@@ -60,8 +69,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 (agile, finesse)\n__Damage__  2d8 + 2 bludgeoning plus corrupted-touch"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (agile, finesse, unarmed)\n__Damage__  2d8 + 2 bludgeoning plus corrupted-touch"
 
   - name: "Innate Occult Spells"
     desc: "DC 25, attack +17; __4th __ (2 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __ (1 slots) _[[Spells/Illusory Disguise|Illusory Disguise]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"

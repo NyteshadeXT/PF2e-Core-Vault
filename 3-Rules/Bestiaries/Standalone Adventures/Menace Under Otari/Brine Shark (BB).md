@@ -3,7 +3,7 @@ title: "Brine Shark (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.9sa2KE4Fbh3OPH7M" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.H7z7VHzlHlEFev1r" 
 tags:
   - pf2e/creature/type/aquatic
   - pf2e/creature/type/elemental
@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d12 + 7 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d12 + 7 piercing plus grab"
 
   - name: "Deep Plunge"
     desc: "`pf2:1`  The brine shark dives straight down into the water, swimming up to 100 feet in a straight vertical line. It can use this ability while [[Conditions/Grabbed|Grabbing]] a creature."

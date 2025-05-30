@@ -54,11 +54,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +12 (finesse)\n__Damage__  2d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+12 (finesse, unarmed)\n__Damage__  2d8 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +12 (agile, finesse)\n__Damage__  2d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+12 (agile, finesse, unarmed)\n__Damage__  2d6 + 3 slashing"
 
   - name: "Junk Nest"
     desc: "  The scroungefeather's nest of sharp metallic junk covers a 15-foot-by-15-foot area. The area is difficult terrain and hazardous terrain to any non-scroungefeather creatures. A creature that moves on the ground through the nest takes 3 piercing damage for each square of the area it moves into. Scroungefeathers can [[Actions/Take Cover|Take Cover]] at any point in the nest."

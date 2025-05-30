@@ -20,5 +20,5 @@ license: OGL
 
 You have created strong mental partitions in your mind to filter out negative emotional influences. You gain a +1 circumstance bonus on saving throws against emotion effects. If you roll a success on a saving throw against an emotion effect, you get a critical success instead.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

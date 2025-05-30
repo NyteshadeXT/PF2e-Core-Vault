@@ -59,22 +59,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +18 (sweep)\n__Damage__  1d8 + 9 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+18 (sweep)\n__Damage__  1d8 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +18 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 9 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+18 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +16 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 9 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+16 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 9 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortbow +16 (deadly d10)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Shortbow"
+    desc: "+16 (deadly d10)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 25, attack +17; __4th __ (2 slots) _[[Spells/Chromatic Ray|Chromatic Ray]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __3rd __ (3 slots) _[[Spells/Haste|Haste]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Noise Blast|Sound Burst]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(4th)__ _[[Spells/Bullhorn|Bullhorn]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Haunting Hymn|Haunting Hymn]]_, _[[Spells/Read Aura|Read Aura]]_"

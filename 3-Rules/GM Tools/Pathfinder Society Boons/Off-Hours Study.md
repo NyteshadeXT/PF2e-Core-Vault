@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Off-Hours Study"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.XkNW2dq5hwWOViYg"
 license: OGL
 ---
 # Off-Hours Study
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

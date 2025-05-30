@@ -29,5 +29,5 @@ You feel confident that you can explain your scrolls so well that even your alli
 
 **Critical Failure** The ally misunderstood your instructions and can't use the scroll.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

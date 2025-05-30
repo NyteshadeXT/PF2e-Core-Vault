@@ -22,5 +22,5 @@ license: OGL
 * * *
 Your reports are thorough and informative, and putting your thoughts to paper helps you retain the information. Keep track of each type of creature you successfully identify with [[Actions/Recall Knowledge|Recall Knowledge]]. When attempting Recall Knowledge checks against creatures on your list in later encounters, you gain a +2 circumstance bonus, and you learn an additional fact about such creatures on a success.
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

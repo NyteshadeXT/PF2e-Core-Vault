@@ -22,5 +22,5 @@ Once, when you would fail a Deception check, you critically succeed instead.
 
 Grandmother Spider typically grants this boon for deceptions that are necessary for an interesting or consequential prank.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

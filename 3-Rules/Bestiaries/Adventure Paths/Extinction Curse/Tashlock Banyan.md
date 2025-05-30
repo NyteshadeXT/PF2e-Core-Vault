@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +24 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 + 11 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+24 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +26 (deadly 2d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+26 (deadly 2d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 11 piercing"
 
   - name: "Pierced Tendon"
     desc: "  When Tashlock deals damage to a target on a critical hit, the target is [[Conditions/Slowed|Slowed 2]] until the end of Tashlock's next turn."

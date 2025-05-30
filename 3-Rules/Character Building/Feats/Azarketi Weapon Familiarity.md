@@ -18,9 +18,9 @@ license: OGL
 
 
 
-You are familiar with weapons that excel underwater. You are trained with [[Crossbow|Crossbows]], [[Hand Crossbow|Hand Crossbows]], [[Longspear|Longspears]], [[Spear|Spears]], and [[Trident|Tridents]].
+You are familiar with weapons that excel underwater. You are trained with [[Equipment/Crossbow|Crossbows]], [[Equipment/Hand Crossbow|Hand Crossbows]], [[Equipment/Longspear|Longspears]], [[Equipment/Spear|Spears]], and [[Equipment/Trident|Tridents]].
 
 In addition, you gain access to all uncommon azarketi weapons. For the purpose of determining your proficiency, martial azarketi weapons are simple weapons and advanced azarketi weapons are martial weapons
 
-*Source: Pathfinder Lost Omens: Absalom, City of Lost Omens*
+*Source: Pathfinder Lost Omens Absalom, City of Lost Omens*
 *OGL*

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You grant yourself supernatural sight in areas of darkness. You gain darkvision.
+Granted by [[Spells/Darkvision|Darkvision]]
+
+You gain darkvision.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

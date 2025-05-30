@@ -54,20 +54,23 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +10 (agile, finesse, reach 0 feet)\n__Damage__  1d6 + 4 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+10 (agile, finesse, reach 0 feet, unarmed)\n__Damage__  1d6 + 4 slashing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 (finesse, reach 0 feet)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (finesse, reach 0 feet, unarmed)\n__Damage__  1d8 + 4 piercing"
 
   - name: "Compression"
     desc: "  When a shredskin successfully [[Actions/Squeeze|Squeezes]], it moves through the tight space at full speed. Narrow confines are not difficult terrain for a shredskin."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6+2 bludgeoning, DC 16 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d6+2 bludgeoning, DC 16 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Control Body"
     desc: "`pf2:1`  **Requirements** The shredskin is in the same space as a Medium or Small humanoid-shaped corpse\n* * *\n\n**Effect** The shredskin wraps itself around the corpse as a new skin and takes control of the host body. While controlling a host, the shredskin uses the host's Speed but its own attacks, and it loses its Grab and Enshroud abilities. Attacks that target the shredskin while it controls a body deal half of the damage to the shredskin and half of the damage to the host body. Attacks that target an area deal damage to both the shredskin and host body normally. The shredskin can release the host body as a free action at the start of its turn. If the host is destroyed, the shredskin automatically releases the body and is [[Conditions/Off-Guard|Off-Guard]] for 1 round. A Medium corpse typically has 15 Hit Points, while a Small corpse typically has 10 Hit Points. Creatures can notice that a corpse is controlled by a shredskin by succeeding at a Perception check against the shredskin's Deception DC (typically 18)."
@@ -76,7 +79,7 @@ attacks:
     desc: "`pf2:1` (attack,incapacitation) **Requirements** The shredskin is restraining a creature\n* * *\n\n**Effect** The shredskin wraps itself around the [[Conditions/Restrained|Restrained]] creature like a shirt, seizing control. The shredskin rolls an Athletics check check against the creature's Fortitude DC. On a success, the creature becomes restrained until it Escapes and the shredskin can control the creature as described in Control Body. At the start of each of its turns, the shredskin can attempt to Constrict the enshrouded creature as a free action. An enshrouded creature can attempt a DC 16 Escape check to break free (DC 18 if the shredskin critically succeeded its Athletics check to Enshroud)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

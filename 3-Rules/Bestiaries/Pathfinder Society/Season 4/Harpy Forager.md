@@ -58,20 +58,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +18 (agile, finesse)\n__Damage__  2d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+18 (agile, finesse, unarmed)\n__Damage__  2d6 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +15 ()\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+15 ()\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +18 (thrown 20 ft.)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+18 (thrown 20 ft.)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Captivating Song"
     desc: "`pf2:1` (auditory,concentrate,incapacitation,mental,primal) The harpy cries out an eerie, compelling melody. Each non-harpy creature within a 300-foot aura must attempt a DC 24 Will check save to avoid becoming captivated by the harpy's song. The effect lasts for 1 round, but if the harpy uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Captivating Song, that creature is temporarily immune to Captivating Songs for 24 hours.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and it must spend each of its actions to move closer to the harpy as expediently as possible, while avoiding obvious dangers. If a captivated creature is adjacent to the harpy, it stays still and doesn't act. If attacked by the harpy, the creature is freed from captivation at the end of the harpy's turn.\n\n**Critical Failure** As failure, but if attacked by the harpy, the creature can attempt a new save at the start of its next turn, rather than being freed at the end of the harpy's turn."
 
   - name: "Disorienting Shriek"
-    desc: "`pf2:2` (auditory,sonic) **Effect** The harpy forager emits a shrill screech. Each non-harpy creature within a @Template[burst|distance:30] must attempt a DC 24 Fortitude check save. Once a creature succeeds at any save against Disorienting Shriek, that creature is temporarily immune to Disorienting Shrieks for 24 hours.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Clumsy|Clumsy 1]] for 1 round.\n\n**Failure** The creature is clumsy 1 for 1 minute.\n\n**Critical Failure** The creature is [[Conditions/Clumsy|Clumsy 2]] for 1 minute."
+    desc: "`pf2:2` (auditory,sonic) **Effect** The harpy forager emits a shrill screech. Each non-harpy creature within a 30-foot burst must attempt a DC 24 Fortitude check save. Once a creature succeeds at any save against Disorienting Shriek, that creature is temporarily immune to Disorienting Shrieks for 24 hours.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Clumsy|Clumsy 1]] for 1 round.\n\n**Failure** The creature is clumsy 1 for 1 minute.\n\n**Critical Failure** The creature is [[Conditions/Clumsy|Clumsy 2]] for 1 minute."
  
 ```
 

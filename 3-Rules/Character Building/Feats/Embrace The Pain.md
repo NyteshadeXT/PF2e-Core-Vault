@@ -13,7 +13,7 @@ license: ORC
 ---
 # Embrace the Pain `pf2:r`
 ## Feat 12
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

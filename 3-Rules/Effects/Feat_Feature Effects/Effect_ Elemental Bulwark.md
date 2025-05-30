@@ -20,5 +20,5 @@ Granted by [[Feats/Elemental Bulwark|Elemental Bulwark]]
 
 You gain resistance against the triggering damage.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

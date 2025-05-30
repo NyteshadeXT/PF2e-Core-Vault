@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Leg +14 (versatile p)\n__Damage__  1d6 + 9 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Leg"
+    desc: "+14 (versatile p)\n__Damage__  1d6 + 9 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +14 ()\n__Damage__  1d6 + 9 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+14 ()\n__Damage__  1d6 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +14 (thrown 20 ft.)\n__Damage__  1d6 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+14 (thrown 20 ft.)\n__Damage__  1d6 + 9 piercing"
 
   - name: "Swinging Spear"
     desc: "`pf2:2`  The murajau makes a spear Strike. On a hit, the murajau twists their spear to move the target to any space adjacent to the murajau and deals an additional 2d6 bludgeoning damage as the target smashes into the murajau's thick shell."

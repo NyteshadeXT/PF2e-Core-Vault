@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - trait/cavalry
   - trait/skirmisher
-  - trait/common
+  - trait/
   - category/army-tactic
 aliases: "Compendium.pf2e.kingmaker-features.Item.Y8Gpb1Ma8w3Gb8qX"
 license: OGL

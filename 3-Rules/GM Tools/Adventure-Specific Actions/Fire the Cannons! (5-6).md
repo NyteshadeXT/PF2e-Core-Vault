@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/attack
   - trait/linguistic
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.0z53rJzCIGysXGTy"
 license: OGL

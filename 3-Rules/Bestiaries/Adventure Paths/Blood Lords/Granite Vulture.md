@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_GRANITE_VULTURE.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Granite Vulture"
 level: "Creature 2"
@@ -71,8 +72,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 (agile, finesse, unholy)\n__Damage__  1d6 + 4 piercing 1 bleed"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (agile, finesse, unarmed, unholy)\n__Damage__  1d6 + 4 piercing 1 bleed"
 
   - name: "Inhabit Vessel"
     desc: "`pf2:2` (manipulate) The vulture touches and melds with their bonded vessel, bringing the statue to life. They can cease Inhabiting their Vessel by spending a single action, which has the concentrate trait. While Inhabiting the Vessel, they gain Immunities healing, nonlethal; Resistances physical 3 (except bludgeoning); and the following Strike."

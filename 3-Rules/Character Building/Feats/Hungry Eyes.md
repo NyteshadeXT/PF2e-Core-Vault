@@ -25,5 +25,5 @@ Your eyes can see through darkness with an oni's visual acuity. You gain low-lig
 
 **Special** You can select this feat twice, once to gain low-light vision and a second time to gain darkvision.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

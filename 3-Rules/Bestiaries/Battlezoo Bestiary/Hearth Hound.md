@@ -69,8 +69,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flaming Jaws +14 (finesse, magical)\n__Damage__  1d6 + 7 void 1d6 fire"
+  - name: "**Melee** `pf2:1` Flaming Jaws"
+    desc: "+14 (finesse, magical)\n__Damage__  1d6 + 7 void 1d6 fire"
 
   - name: "Breath Weapon"
     desc: "`pf2:2` (divine,fire) The hearth hound exhales ash and flames, dealing 1d4 rounds."

@@ -10,15 +10,16 @@ tags:
   - trait/concentrate
   - trait/focus
   - trait/manipulate
-  - trait/common
+  - trait/uncommon
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.caehfpQz7yp9yNzz" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Dutiful Challenge  `pf2:2`"
 level: "Focus 4"
-
+rare_03: [[Uncommon]]
 trait_01: [[cleric]]
 trait_02: [[concentrate]]
 trait_03: [[focus]]
@@ -37,5 +38,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "As you challenge an enemy, you take some of its attention away from your allies. The target takes a -1 status penalty to attack rolls, damage rolls, and skill checks against creatures other than you, and you take a -1 status penalty to attack rolls, damage rolls, and skill checks against creatures other than the target.\n\nEach time a creature other than you uses a hostile action that affects the challenged enemy, the enemy can attempt a Will save. On a success, the enemy no longer takes the penalty against that creature. You can Dismiss the spell, and it ends automatically if you or the target is defeated.\n* * *\n\n**Heightened (+3)** The status penalties increase by 1.\n\n[[Spell Effects/Spell Effect_ Dutiful Challenge|Spell Effect: Dutiful Challenge]]"
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

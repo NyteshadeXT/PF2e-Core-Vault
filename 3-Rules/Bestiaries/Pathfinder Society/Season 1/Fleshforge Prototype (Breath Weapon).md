@@ -53,14 +53,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +15 ()\n__Damage__  2d8 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+15 (unarmed)\n__Damage__  2d8 + 7 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +15 (agile)\n__Damage__  2d4 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+15 (agile, unarmed)\n__Damage__  2d4 + 7 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,fire) The fleshforge prototype breathes flames that deal 6d6 fire damage to all creatures in a @Template[cone|distance:15] (DC 22 Reflex check save).\n\nThe fleshforge prototype can't use its breath weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) The fleshforge prototype breathes flames that deal 6d6 fire damage to all creatures in a 15-foot cone (DC 22 Reflex check save).\n\nThe fleshforge prototype can't use its breath weapon again for 1d4 rounds."
  
 ```
 

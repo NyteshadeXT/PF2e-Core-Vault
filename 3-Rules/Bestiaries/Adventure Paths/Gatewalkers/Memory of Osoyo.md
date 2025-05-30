@@ -43,7 +43,7 @@ attacks:
   - name: ""
 
   - name: "Glacial Gust"
-    desc: "`pf2:r` **Trigger** The characters' shared vision during **Event 15** subsides\n* * *\n\n**Effect** The memory of Osoyo unleashes a tremendous sigh of freezing wind, coating the deck of the Mermaid's Tears in ice in a @Template[cone|distance:60]. (The hazard can choose any point for the cone to originate.) The area becomes difficult terrain. Creatures in the area must succeed at a DC 26 Fortitude check save or take 1d6 persistent cold as the freezing wind cuts to the bone. The hazard then rolls initiative."
+    desc: "`pf2:r` **Trigger** The characters' shared vision during **Event 15** subsides\n* * *\n\n**Effect** The memory of Osoyo unleashes a tremendous sigh of freezing wind, coating the deck of the Mermaid's Tears in ice in a 60-foot cone. (The hazard can choose any point for the cone to originate.) The area becomes difficult terrain. Creatures in the area must succeed at a DC 26 Fortitude check save or take 1d6 persistent cold as the freezing wind cuts to the bone. The hazard then rolls initiative."
 
   - name: "Routine"
     desc: "(1 action) The memory of Osoyo gives a keening scream that shatters the layer of ice coating the deck of the Mermaid's Tears. Any creature on difficult terrain created by the memory's Glacial Gust takes 2d8+7 cold (DC 26 Reflex check) from the icy shrapnel."

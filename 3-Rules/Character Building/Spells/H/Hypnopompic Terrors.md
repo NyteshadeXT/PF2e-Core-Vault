@@ -43,6 +43,6 @@ abilities_top:
     desc: " will"
 abilities_mid:
   - name: ""
-    desc: "You send a wave of nightmarish visions crashing over your targets, leaving them [[Conditions/Paralyzed|Paralyzed]] by fear. These visions inflict real wounds on vulnerable targets, dealing 6d12 mental damage. If you target a sleeping creature, it wakes up as it attempts the save but takes one degree of success worse than the result it rolled on its save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Frightened|Frightened 2]] and takes half the mental damage.\n\n**Failure** The target is frightened 2, is [[Conditions/Paralyzed|Paralyzed]] for 1 round, and takes the full mental damage.\n\n**Critical Failure** The target is frightened 2, is paralyzed for 2 rounds, and takes double the mental damage."
-sourcebook: "_Pathfinder Lost Omens: Monsters of Myth_"
+    desc: "You send a wave of nightmarish visions crashing over your targets, leaving them paralyzed by fear. These visions inflict real wounds on vulnerable targets, dealing 6d12 mental damage. If you target a sleeping creature, it wakes up as it attempts the save but takes one degree of success worse than the result it rolled on its save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Frightened|Frightened 2]] and takes half the mental damage.\n\n**Failure** The target is frightened 2, is [[Conditions/Paralyzed|Paralyzed]] for 1 round, and takes the full mental damage.\n\n**Critical Failure** The target is frightened 2, is paralyzed for 2 rounds, and takes double the mental damage."
+sourcebook: "_Pathfinder Lost Omens Monsters of Myth_"
 ```

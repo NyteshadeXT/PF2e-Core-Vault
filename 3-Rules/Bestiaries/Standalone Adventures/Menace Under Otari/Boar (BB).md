@@ -3,9 +3,10 @@ title: "Boar (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.4MwjCsa5O9aAjxSm" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.IyhbcdTVmkV4pSju" 
 tags:
   - pf2e/creature/type/animal
+  - pf2eMonster
   - pf2e/creature/level/2
   - remaster
 statblock: inline
@@ -24,11 +25,12 @@ level: "Creature 2"
 
 alignment: ""
 size: "Medium"
-trait_01: "animal"
+trait_01: [[animal]]
 modifier: 8
 perception:
   - name: "Perception"
     desc: "+8; Low-Light Vision"
+languages: ""
 skills:
   - name: "Skills"
     desc: "Acrobatics: +5, Athletics: +8, Survival: +8"
@@ -50,17 +52,23 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  When the boar is reduced to 0 Hit Points, it can use its reaction to remain conscious with 1 Hit Point, but it gains the [[Conditions/Wounded 1|Wounded 1]] condition (or increases its wounded value by 1 if it already has that condition). It can't use this ability at wounded 3."
+    desc: "`pf2:r`  When the boar is reduced to 0 Hit Points, it can use its reaction to remain conscious with 1 Hit Point, but it gains the [[Conditions/Wounded|Wounded 1]] condition (or increases its wounded value by 1 if it already has that condition). It can't use this ability at wounded 3."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tusk +10 ()\n__Damage__  2d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Tusk"
+    desc: "+10 ()\n__Damage__  2d6 + 4 piercing"
 
   - name: "Boar Charge"
     desc: "`pf2:2`  The boar Strides twice and then makes a tusk Strike. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll."
  
+```
+
+```encounter-table
+name: Boar (BB)
+creatures:
+  - 1: Boar (BB)
 ```
 
 

@@ -25,5 +25,5 @@ You're accustomed to shaded forests and caves. You gain low-light vision. If you
 
 **Special** You can select this feat twice.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

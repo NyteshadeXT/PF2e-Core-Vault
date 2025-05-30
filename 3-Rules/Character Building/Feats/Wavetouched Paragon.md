@@ -23,5 +23,5 @@ You have been blessed by the sea, granting you the ability to swim like a fish. 
 
 **Special** If you have the Bonuwat Wavetouched background, you can take this feat at 1st level instead of 5th.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

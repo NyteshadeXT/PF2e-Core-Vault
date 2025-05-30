@@ -59,17 +59,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +18 (magical, two-hand d8)\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+18 (magical, two-hand d8)\n__Damage__  1d4 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Splinter Surge +16 (range increment 30 feet)\n__Damage__  2d8 piercing"
+  - name: "**Ranged** `pf2:1` Splinter Surge"
+    desc: "+16 (range increment 30 feet)\n__Damage__  2d8 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Entangling Flora|Entangling Flora]]_, _[[Spells/Life-Draining Roots|Life-Draining Roots]]_, _[[Spells/Oaken Resilience|Oaken Resilience]]_\n__Cantrips__  __(4th)__ _[[Spells/Timber|Timber]]_"
 
   - name: "[[Creature Family Ability Glossary/(Woodblessed) Explosive End|Explosive End]]"
-    desc: " (primal,wood) When the woodblessed dies, the planar portal inside of them collapses, causing them to explode in a @Template[burst|distance:20] of vines that deal 7d6 bludgeoning damage to all creatures with a DC 25 Reflex check save. The woodblessed's body is completely consumed, though their root network and gear remain behind."
+    desc: " (primal,wood) When the woodblessed dies, the planar portal inside of them collapses, causing them to explode in a 20-foot burst of vines that deal 7d6 bludgeoning damage to all creatures with a DC 25 Reflex check save. The woodblessed's body is completely consumed, though their root network and gear remain behind."
 
   - name: "[[Creature Family Ability Glossary/(Woodblessed) Luminant Aura|Luminant Aura]]"
     desc: " (aura,light) 20 feet. The volatile planar energy coursing through a woodblessed's veins fills the area with dim light."

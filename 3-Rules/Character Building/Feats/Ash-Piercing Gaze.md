@@ -21,5 +21,5 @@ license: ORC
 
 Neither cinders nor winds shall prevent you from seeing those who need help. You automatically succeed at the flat check to target a [[Conditions/Concealed|Concealed]] creature if that creature is concealed only by smoke or mist.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

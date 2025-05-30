@@ -58,28 +58,28 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Orc Knuckle Dagger +7 (agile, disarm)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Orc Knuckle Dagger"
+    desc: "+7 (agile, disarm)\n__Damage__  1d6 + 1 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +9 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+9 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire +12 (range increment 20 feet, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire"
+    desc: "+12 (range increment 20 feet, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Frost Vial +12 (range 20 feet, splash)\n__Damage__  2d6 cold 2 cold"
+  - name: "**Ranged** `pf2:1` Frost Vial"
+    desc: "+12 (range 20 feet, splash)\n__Damage__  2d6 cold 2 cold"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Flask +12 (range increment 20 feet, splash)\n__Damage__  1 acid 1d6 acid 1 acid"
+  - name: "**Ranged** `pf2:1` Acid Flask"
+    desc: "+12 (range increment 20 feet, splash)\n__Damage__  1 acid 1d6 acid 1 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bottled Lightning +12 (range increment 20 feet, splash)\n__Damage__  1d6 electricity 1 electricity"
+  - name: "**Ranged** `pf2:1` Bottled Lightning"
+    desc: "+12 (range increment 20 feet, splash)\n__Damage__  1d6 electricity 1 electricity"
 
   - name: "Alchemy"
     desc: "  The Sculptor has used his alchemy ability to create 4 [[Equipment/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]], 2 [[Equipment/Elixir of Life (Lesser)|Elixir of Life (Lesser)]], and 4 [[Equipment/Frost Vial (Moderate)|Frost Vial (Moderate)]]. These are infusions. He can spend an action to create an additional vial of any one of those, [[Equipment/Bottled Lightning (Lesser)|Bottled Lightning (Lesser)]], or a [[Equipment/Acid Flask (Lesser)|Acid Flask (Lesser)]]"

@@ -22,7 +22,7 @@ license: OGL
 * * *
 When you [[Actions/High Jump|High Jump]], [[Actions/Leap|Leap]], or [[Actions/Long Jump|Long Jump]] while wielding your staff, you gain a +2 circumstance bonus to any Athletics check required and add 5 feet to the distance you can Leap vertically and horizontally. You can [[Actions/Shove|Shove]] and [[Actions/Trip|Trip]] even if you don't have a free hand, provided you are wielding your staff. Finally, when you roll a success on a check to [[Actions/Balance|Balance]] while wielding your staff, you get a critical success instead.
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Staff Acrobat|Staff Acrobat]] archetype.
+[[PF2e Journals/Archetypes/Staff Acrobat|Staff Acrobat]]
 
 *Source: Pathfinder #151: The Show Must Go On*
 *OGL*

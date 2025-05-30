@@ -20,5 +20,5 @@ license: OGL
 
 You've polished your eyes to reflect the smallest details in dimmest light. You gain the [[Feats/Canny Acumen|Canny Acumen]] skill feat as a bonus feat, but you must choose Perception. Additionally, you gain a +1 circumstance bonus to Perception checks against visual illusions.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

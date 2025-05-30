@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap185-a-taste-of-ashes/assets/art/PZO90185_FACETBOUND_TOP_CASCADER.webp| ]]
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Facetbound Cascader"
 level: "Creature 16"
@@ -61,14 +62,17 @@ abilities_mid:
   - name: "Energy Ward"
     desc: "`pf2:r`  **Trigger** The facetbound cascader would take acid, cold, electricity, fire, or poison damage\n* * *\n\n**Effect** The cascader gains resistance 15 to the triggering damage, replacing any other resistance gained from this ability. Most facetbound cascaders begin combat with resistance 15 to cold."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +30 (two-hand d8)\n__Damage__  1d4 + 9 bludgeoning plus energy-charge"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+30 (two-hand d8)\n__Damage__  1d4 + 9 bludgeoning plus energy-charge"
 
   - name: "Arcane Spontaneous Spells"
-    desc: "DC 38, attack +30; __8th __ (3 slots) _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Polar Ray|Polar Ray]]_, _[[Spells/Power Word Stun|Power Word Stun]]_; __7th __ (3 slots) _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Power Word Blind|Power Word Blind]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_; __6th __ (3 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Spellwrack|Spellwrack]]_; __5th __ (3 slots) _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Force Barrage|Magic Missile]]_; __4th __ (3 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Containment|Resilient Sphere]]_; __3rd __ (3 slots) _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __ (3 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Everlight|Continual Flame]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __ (3 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 38, attack +30; __8th __ (3 slots) _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Polar Ray|Polar Ray]]_, _[[Spells/Power Word Stun|Power Word Stun]]_; __7th __ (3 slots) _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Power Word Blind|Power Word Blind]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_; __6th __ (3 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Spellwrack|Spellwrack]]_; __5th __ (3 slots) _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Force Barrage|Magic Missile]]_; __4th __ (3 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Containment|Resilient Sphere]]_; __3rd __ (3 slots) _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __ (3 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Everlight|Continual Flame]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __ (3 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Energy Charge"
     desc: " (arcane) The cascader's melee Strikes deal an additional 4d10 damage of the type resisted by its Energy Ward."

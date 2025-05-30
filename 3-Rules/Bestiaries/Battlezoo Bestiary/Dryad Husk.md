@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Blighted Branch +11 (finesse, magical, reach 10 feet)\n__Damage__  1d10 + 7 bludgeoning plus draining-impact"
+  - name: "**Melee** `pf2:1` Blighted Branch"
+    desc: "+11 (finesse, magical, reach 10 feet)\n__Damage__  1d10 + 7 bludgeoning plus draining-impact"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile, finesse, magical)\n__Damage__  1d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, finesse, magical)\n__Damage__  1d8 + 7 slashing"
 
   - name: "Innate Primal Spells"
     desc: "DC 17, attack +9; __3rd __  _[[Spells/Fear|Fear]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Shatter|Shatter]]_\n__Cantrips__  __(2nd)__ _[[Spells/Tangle Vine|Tanglefoot]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"

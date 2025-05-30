@@ -20,5 +20,5 @@ Granted by [[Feats/Corpse-Killer's Defiance|Corpse-Killer's Defiance]]
 
 You gain a +2 status bonus to attack and damage rolls against undead.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

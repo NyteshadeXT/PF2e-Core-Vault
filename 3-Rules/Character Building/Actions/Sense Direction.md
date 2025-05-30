@@ -5,8 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
   - trait/secret
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.fJImDBQfqfjKJOhk"
@@ -14,14 +13,14 @@ license: ORC
 ---
 # Sense Direction
 
-### [[exploration]][[secret]][[skill]]
+### [[exploration]][[secret]]
 
 **Category** interaction; 
 
 
 
 
-Using the stars, the position of the sun, traits of the geography or flora, or the behavior of fauna, you can stay oriented in the wild. Typically, you attempt a Survival check only once per day, but some environments or changes might necessitate rolling more often. The GM determines the DC and how long this activity takes (usually just a minute or so). More unusual locales or those you're unfamiliar with might require you to have a minimum proficiency rank to Sense Direction. Without a [[Compass|Compass]], you take a -2 item penalty to checks to Sense Direction.
+Using the stars, the position of the sun, traits of the geography or flora, or the behavior of fauna, you can stay oriented in the wild. Typically, you attempt a [[Actions/sense-direction|sense-direction]]{Survival} check only once per day, but some environments or changes might necessitate rolling more often. The GM determines the DC and how long this activity takes (usually just a minute or so). More unusual locales or those you're unfamiliar with might require you to have a minimum proficiency rank to Sense Direction. Without a [[Equipment/Compass|Compass]], you take a -2 item penalty to checks to Sense Direction.
 
 * * *
 

@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/PZO90183_NEW_LASHEELI_AMINDA.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Lasheeli"
 level: "Creature 10"
@@ -67,14 +68,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +21 (agile, finesse, versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+21 (agile, finesse, versatile s)\n__Damage__  1d4 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +21 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+21 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bola +22 (magical, nonlethal, ranged trip, thrown 20 ft.)\n__Damage__  2d6 + 9 bludgeoning"
+  - name: "**Ranged** `pf2:1` Bola"
+    desc: "+22 (magical, nonlethal, ranged trip, thrown 20 ft.)\n__Damage__  2d6 + 9 bludgeoning"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 29, attack +21; __5th __ (3 slots) _[[Spells/Chromatic Wall|Chromatic Wall]]_, _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Scouting Eye|Prying Eye]]_; __4th __ (3 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Procyal Philosophy|Procyal Philosophy]]_, _[[Spells/Restoration|Restoration]]_; __3rd __ (3 slots) _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Heroism|Heroism]]_; __2nd __ (3 slots) _[[Spells/Augury|Augury]]_, _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Dispel Magic|Dispel Magic]]_; __1st __ (3 slots) _[[Spells/Celestial Accord|Celestial Accord]]_, _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Shield|Shield]]_"

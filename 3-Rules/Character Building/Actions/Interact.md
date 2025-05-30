@@ -3,9 +3,8 @@ obsidianUIMode: preview
 title: "Interact"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F"
@@ -13,7 +12,7 @@ license: ORC
 ---
 # Interact `pf2:1`
 
-### [[general]][[3-Rules/Rule References/Manipulate]]
+### [[manipulate]]
 
 **Category** interaction; 
 

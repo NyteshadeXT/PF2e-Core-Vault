@@ -16,7 +16,11 @@ license: OGL
 
 
 
-You gain a fly Speed equal to your land Speed. Additionally, you gain low-light vision and a +2 item bonus to visual Perception checks, and you can't be flanked except by creatures higher level than you are (though lower-level creatures can still help their higher-level allies flank). These effects last for 1 minute.
+Granted by [[Equipment/Dragonfly Potion|Dragonfly Potion]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+You gain a fly Speed equal to your land Speed, low-light vision and a +2 item bonus to visual Perception checks.
+
+You can't be flanked except by creatures higher level than you are (though lower-level creatures can still help their higher-level allies flank).
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

@@ -34,7 +34,7 @@ trait_04: [[mindless]]
 modifier: 24
 perception:
   - name: "Perception"
-    desc: "+24; "
+    desc: "+24; Darkvision"
 languages: "Tien; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
@@ -57,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Divine Destruction"
-    desc: " (divine,vitality) When the divine warden is reduced to 0 HP, it erupts with divine energy in a @Template[emanation|distance:30], dealing 14d6 vitality damage. Each creature in the area must attempt a DC 32 Will check save with the following outcomes.\n* * *\n\n**Critical Success** The creature takes half damage.\n\n**Success** The creature takes full damage.\n\n**Failure** The creature takes full damage and becomes temporarily cursed by the patron deity. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Stupefied|Stupefied 1]] for 1 day; this is a curse effect that uses the Will save DC as the counteract DC.\n\n**Critical Failure** As failure, except the creature becomes [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Stupefied|Stupefied 2]]."
+    desc: " (divine,vitality) When the divine warden is reduced to 0 HP, it erupts with divine energy in a 30-foot emanation, dealing 14d6 vitality damage. Each creature in the area must attempt a DC 32 Will check save with the following outcomes.\n* * *\n\n**Critical Success** The creature takes half damage.\n\n**Success** The creature takes full damage.\n\n**Failure** The creature takes full damage and becomes temporarily cursed by the patron deity. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Stupefied|Stupefied 1]] for 1 day; this is a curse effect that uses the Will save DC as the counteract DC.\n\n**Critical Failure** As failure, except the creature becomes [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Stupefied|Stupefied 2]]."
 
   - name: "Faith Bound"
     desc: " (divine) A divine warden can't attack a creature that openly wears or displays the religious symbol of the divine warden's patron deity unless that creature uses a hostile action against the divine warden first. If the divine warden is intelligent, it can also attack a creature it believes isn't faithful to its deity or who wears the religious symbol as a ruse (typically after succeeding at a Perception check to Sense Motive)."
@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +28 (magical, reach 10 feet)\n__Damage__  3d10 + 14 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+28 (magical, reach 10 feet, unarmed)\n__Damage__  3d10 + 14 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +30 (magical, parry, reach 15 feet, trip)\n__Damage__  3d8 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+30 (magical, parry, reach 15 feet, trip)\n__Damage__  3d8 + 14 bludgeoning"
 
   - name: "Innate Divine Spells"
     desc: "DC 32, attack +24\n__Cantrips__  __(7th)__ _[[Spells/Divine Lance|Divine Lance]]_"
@@ -84,7 +84,7 @@ attacks:
     desc: "  The divine warden is a beacon for its deity's faith. A cleric of the divine warden's patron deity can channel a [[Spells/Heal|Heal]] spell through a divine warden they can see within 60 feet. The cleric determines any targets or area for the spell as if they were standing in the divine warden's space."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

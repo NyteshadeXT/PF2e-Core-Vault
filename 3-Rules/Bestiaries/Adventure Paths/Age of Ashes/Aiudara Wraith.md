@@ -54,23 +54,29 @@ hp: 300
 health:
   - name: ""
   - name: HP
-    desc: "300; __Immunities__  death effects,  disease,  paralyzed,  poison,  precision,  unconscious; __Resistances__ all damage 15 (except force, ghost touch, or vitality; double resistance vs. non-magical)"
+    desc: "300, void healing; __Immunities__  death effects,  disease,  paralyzed,  poison,  precision,  unconscious; __Resistances__ all damage 15 (except force, ghost touch, or vitality; double resistance vs. non-magical)"
 abilities_top:
   - name: ""
+
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
 
 abilities_mid:
   - name: ""
   - name: "Teleportation Attachment"
     desc: "`pf2:r` (teleportation) **Trigger** A creature within 60 feet uses a teleportation effect\n* * *\n\n**Effect** The aiudara wraith teleports with the creature, arriving in an empty space of its choice adjacent to the triggering creature's destination. If the triggering effect targets multiple creatures, the aiudara wraith chooses which creature it arrives beside."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spectral Hand +35 (agile, finesse, magical)\n__Damage__  4d10 + 16 force plus dimensional-shunt,drain-life"
+  - name: "**Melee** `pf2:1` Spectral Hand"
+    desc: "+35 (agile, finesse, magical)\n__Damage__  4d10 + 16 force plus dimensional-shunt,drain-life"
 
   - name: "Dimensional Shunt"
-    desc: "`pf2:2` (arcane,teleportation) The aiudara wraith's touch displaces creatures and flings them through space. The creature must attempt a DC 40 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected and becomes temporarily immune to dimensional shunt for 1 minute.\n\n**Success** The creature is pushed 5 feet in a random direction.\n\n**Failure** The creature is teleported 20 feet in a direction of the aiudara wraith's choice.\n\n**Critical Failure** As failure, but the creature is also [[Conditions/Stunned|Stunned 2]]."
+    desc: " (arcane,teleportation) The aiudara wraith's touch displaces creatures and flings them through space. The creature must attempt a DC 40 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected and becomes temporarily immune to dimensional shunt for 1 minute.\n\n**Success** The creature is pushed 5 feet in a random direction.\n\n**Failure** The creature is teleported 20 feet in a direction of the aiudara wraith's choice.\n\n**Critical Failure** As failure, but the creature is also [[Conditions/Stunned|Stunned 2]]."
 
   - name: "Drain Life"
     desc: " (arcane) When an aiudara wraith damages a living creature with its spectral hand Strike, the aiudara wraith gains 18 temporary Hit Points and the target must succeed at a DC 40 Fortitude check save or become [[Conditions/Drained|Drained 1]] and [[Conditions/Stupefied|Stupefied 1]] as long as it is drained. Further damage dealt by the aiudara wraith's spectral hand Strikes increases the value of the drained and stupefied conditions by 1 each on a failed save, to a maximum of 10 for both."

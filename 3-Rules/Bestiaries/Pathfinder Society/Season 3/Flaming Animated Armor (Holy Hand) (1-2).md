@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Gauntlet +10 (agile, free-hand, magical)\n__Damage__  1d6 + 3 bludgeoning 1d4 fire"
+  - name: "**Melee** `pf2:1` Gauntlet"
+    desc: "+10 (agile, free-hand, magical)\n__Damage__  1d6 + 3 bludgeoning 1d4 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shield Spikes +12 ()\n__Damage__  1d6 + 5 piercing 1d4 fire"
+  - name: "**Melee** `pf2:1` Shield Spikes"
+    desc: "+12 ()\n__Damage__  1d6 + 5 piercing 1d4 fire"
  
 ```
 

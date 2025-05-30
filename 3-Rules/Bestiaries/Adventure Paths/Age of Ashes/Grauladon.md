@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 ()\n__Damage__  1d12 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (unarmed)\n__Damage__  1d12 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +10 (agile)\n__Damage__  1d8 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+10 (agile)\n__Damage__  1d8 + 4 bludgeoning"
 
   - name: "Body Slam"
     desc: "`pf2:1`  **Requirements** More than one enemy is adjacent to the grauladon.\n* * *\n\n**Effect** The grauladon swings its tail at each adjacent enemy and attempts to Trip each creature adjacent to it. It rolls only a single Athletics check and compares the result to the Fortitude DC of each target."
@@ -69,7 +69,7 @@ attacks:
     desc: "  A grauladon can hold its breath for 225 rounds (22-1/2 minutes)."
 
   - name: "Noxious Breath"
-    desc: "`pf2:1`  The grauladon hisses and unleashes a nauseating cloud of halitosis in a @Template[cone|distance:15]. Each creature in the area must succeed at a DC 18 Fortitude check saving throw or be [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure).\n\nThe grauladon can't use Noxious Breath or Reactive Breath again for 1d4 rounds."
+    desc: "`pf2:1`  The grauladon hisses and unleashes a nauseating cloud of halitosis in a 15-foot cone. Each creature in the area must succeed at a DC 18 Fortitude check saving throw or be [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure).\n\nThe grauladon can't use Noxious Breath or Reactive Breath again for 1d4 rounds."
  
 ```
 

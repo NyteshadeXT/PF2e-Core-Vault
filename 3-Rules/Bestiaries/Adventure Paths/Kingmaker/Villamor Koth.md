@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Deny Advantage"
     desc: "  Villamor Koth's foes struggle to pass his defenses. He isn't [[Conditions/Off-Guard|Off-Guard]] to [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], or flanking creatures of his level or lower, or to creatures of his level or lower using surprise attack. However, these creatures can still help their allies flank."
@@ -69,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +30 (sweep)\n__Damage__  2d12 + 13 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+30 (sweep)\n__Damage__  2d12 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Lance +28 (deadly d8, jousting d6, reach 10 feet)\n__Damage__  1d8 + 12 piercing"
+  - name: "**Melee** `pf2:1` Lance"
+    desc: "+28 (deadly d8, jousting d6, reach 10 feet)\n__Damage__  1d8 + 12 piercing"
 
   - name: "Axe Specialization"
     desc: "  Villamor Koth gains the critical specialization effects for all axes he wields."

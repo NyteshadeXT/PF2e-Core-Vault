@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 (agile)\n__Damage__  2d6 + 4 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (agile, unarmed)\n__Damage__  2d6 + 4 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile)\n__Damage__  2d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, unarmed)\n__Damage__  2d8 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Gem Spit +15 (range 20 feet)\n__Damage__  2d8 + 6 bludgeoning plus concussive-gem"
+  - name: "**Ranged** `pf2:1` Gem Spit"
+    desc: "+15 (range 20 feet)\n__Damage__  2d8 + 6 bludgeoning plus concussive-gem"
 
   - name: "Concussive Gem"
     desc: "  On a critical hit on a gem spit Strike, the target must succeed at a DC 22 Fortitude check save or become [[Conditions/Stunned|Stunned 1]]."
@@ -82,7 +82,7 @@ attacks:
     desc: "`pf2:1` (auditory,sonic) The cave squirrel lets out a terrible scream. Non–cave squirrel creatures within 30 feet must succeed at a DC 22 Fortitude check save or take 2d10 sonic damage. On a critical failure, a creature is [[Conditions/Deafened|Deafened]] for 1 minute. The cave squirrel can't use Screaming Force again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

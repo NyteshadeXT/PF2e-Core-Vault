@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +16 (forceful, sweep)\n__Damage__  1d6 + 11 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+16 (forceful, sweep)\n__Damage__  1d6 + 11 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Vampiric Feast|Vampiric Feast]]_; __2nd __  _[[Spells/Darkvision|Darkvision]]_, _[[Spells/See the Unseen|See the Unseen]]_\n__Cantrips__  __(4th)__ _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Void Warp|Void Warp]]_"

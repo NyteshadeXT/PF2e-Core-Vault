@@ -8,69 +8,45 @@ sessiondate: 2025-05-08
 quicknote: The players continued to investigate the Citadel of Hextor within the temple.
 locations:
   - "[[The Three Faces of Evil]]"
-session_xp: 260
+session_xp: 60
 session_items_permanent:
   - name: Magic Wand (Heal)
     ilvl: 3
     gp: 60
-    date: 05.08.2025
-  - name: Magic Wand (Harm)
-    ilvl: 0
-    gp: 0
-    date: 05.08.2025
-  - name: Low-Grade Cold Iron Longsword
-    ilvl: 2
-    gp: 44
-    date: 05.08.2025
-  - name: Smuggler's Sack (Type I)
-    ilvl: 4
-    gp: 75
-    date: 05.08.2025
-  - name: Rope of Climbing (Lesser)
-    ilvl: 3
-    gp: 45
-    date: 05.08.2025
+    date: 2025-05-08
 session_items_consumable:
-  - name: Healing Potion (Minor) x2
-    ilvl: 1
-    gp: 4
-    date: 05.08.2025
-  - name: Potency Crystal
-    ilvl: 1
-    gp: 4
-    date: 05.08.2025
   - name: Healing Potion (Lesser)
     ilvl: 3
     gp: 12
-    date: 05.08.2025
+    date: 2025-05-08
   - name: Eagle Eye Elixir (Lesser)
     ilvl: 1
     gp: 4
-    date: 05.08.2025
+    date: 2025-05-08
   - name: Bravo's Brew (Lesser)
     ilvl: 2
     gp: 7
-    date: 05.08.2025
+    date: 2025-05-08
   - name: Silvertongue Mutagen (Lesser)
     ilvl: 1
     gp: 4
-    date: 05.08.2025
+    date: 2025-05-08
   - name: Scroll of Silence
     ilvl: 1
     gp: 4
-    date: 05.08.2025
+    date: 2025-05-08
   - name: Scroll of Dispel Magic
     ilvl: 3
     gp: 12
-    date: 05.08.2025
+    date: 2025-05-08
   - name: Potion of Fire Retaliation (Lesser)
     ilvl: 3
     gp: 12
-    date: 05.08.2025
+    date: 2025-05-08
 session_coin:
   pp: 0
-  gp: 217
-  sp: 301
+  gp: 332
+  sp: 103
   cp: 0
 ---
 
@@ -122,13 +98,13 @@ The players continued to foray into the Citadel of Hextor.  After encountering s
 None
 
 ### Loot, Rewards & Purchases
-#### **Session XP:** `=this.session_coin.gp`
+#### **Session XP:** `VIEW[{session_xp}]`
 
 #### Coin
-- pp: `=this.session_coin.pp`
-- gp: `=this.session_coin.gp`
-- sp: `=this.session_coin.sp`
-- cp: `=this.session_coin.cp`
+- pp: `VIEW[{session_coin.pp}]`
+- gp: `VIEW[{session_coin.gp}]`
+- sp: `VIEW[{session_coin.sp}]`
+- cp: `VIEW[{session_coin.cp}]`
 <br>
 
 #### Permanent Items

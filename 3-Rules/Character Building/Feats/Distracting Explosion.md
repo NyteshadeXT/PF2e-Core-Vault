@@ -7,8 +7,9 @@ tags:
   - trait/manipulate
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.XPTSCUoA8c4o9RgQ"
-license: OGL
+license: ORC
 ---
 # Distracting Explosion `pf2:r`
 ## Feat 10
@@ -28,7 +29,9 @@ Your enemies think they can concentrate on something else while you're nearby? O
 
 **Unstable Function** You pull out all the stops to create an explosive distraction. Add the unstable trait to Distracting Explosion. If the attack hits, you disrupt the triggering concentrate action.
 
+* * *
+
 **Special** If your innovation is a minion, it can take this reaction instead of you, even though minions can't normally take reactions or act when it's not their turn. It uses your reaction for the turn to do so.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

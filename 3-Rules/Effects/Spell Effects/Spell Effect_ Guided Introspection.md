@@ -4,8 +4,9 @@ title: "Spell Effect: Guided Introspection"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.spell-effects.Item.Me470HI6inX3Bovh"
-license: OGL
+license: ORC
 ---
 # Spell Effect: Guided Introspection
 ## Level 1
@@ -16,11 +17,9 @@ license: OGL
 
 
 
-The target gains a +1 status bonus to saving throws against emotion and fear.
+Granted by [[Spells/Guided Introspection|Guided Introspection]]
 
-* * *
+You gain a status bonus to saving throws against emotion and fear.
 
-**Heightened (+3)** The status bonus increases by 1.
-
-*Source: Pathfinder #186: Ghost King's Rage*
-*OGL*
+*Source: Pathfinder Lost Omens Divine Mysteries*
+*ORC*

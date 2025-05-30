@@ -57,22 +57,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Verdant Burst"
-    desc: " (healing) When a follower of Shumfallow dies, a burst of primal energy explodes from its body, restoring 1d8 Hit Points to each fungus creature in a @Template[emanation|distance:30]. This area is filled with fungi, becoming difficult terrain. If the terrain is not a viable environment for this fungi, they wither after 24 hours."
+    desc: " (healing) When a follower of Shumfallow dies, a burst of primal energy explodes from its body, restoring 1d8 healing Hit Points to each fungus creature in a 30-foot emanation. This area is filled with fungi, becoming difficult terrain. If the terrain is not a viable environment for this fungi, they wither after 24 hours."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +6 (agile, finesse)\n__Damage__  1d6 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+6 (agile, finesse, unarmed)\n__Damage__  1d6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spore Pod +7 (range increment 30 feet)\n__Damage__  1d4 bludgeoning plus spores"
+  - name: "**Ranged** `pf2:1` Spore Pod"
+    desc: "+7 (range increment 30 feet)\n__Damage__  1d4 bludgeoning plus spores"
 
   - name: "Primal Innate Spells"
     desc: "DC 14, attack +6; __4th __  _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The follower of Shumfallow transforms into a Small giant mushroom or patch of fungi. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The follower of Shumfallow transforms into a Small giant mushroom or patch of fungi. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Pack Attack"
     desc: "  A follower of Shumfallow's Strikes deal an additional 1d4 damage to creatures that are within the reach of at least two of the follower's allies."

@@ -29,7 +29,7 @@ trait_01: [[animal]]
 modifier: 14
 perception:
   - name: "Perception"
-    desc: "+14; "
+    desc: "+14; Tremorsense (Imprecise) 40 Feet"
 languages: ""
 skills:
   - name: "Skills"
@@ -52,22 +52,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 5 feet DC 22 Will check\n* * *\n\nCreatures that critically fail are also fleeing for 1 round."
+    desc: " (aura,emotion,fear,mental) 5 feet DC 22 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]].\n\nCreatures that critically fail are also fleeing for 1 round."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike (Horn only)]]"
-    desc: "`pf2:r`  Fleeing creatures take an additional 1d6 bleed damage. On a critical hit, the target is knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.\n\nFleeing creatures take an additional 1d6 bleed damage. On a critical hit, the target is knocked [[Conditions/Prone|Prone]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +13 ()\n__Damage__  2d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+13 (unarmed)\n__Damage__  2d8 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 ()\n__Damage__  2d6 + 7 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (unarmed)\n__Damage__  2d6 + 7 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile)\n__Damage__  2d4 + 7 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, unarmed)\n__Damage__  2d4 + 7 slashing"
 
   - name: "Final Shake"
     desc: "`pf2:1`  **Requirements** The almiraj has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The almiraj clamps its jaws down on the creature and shakes it vigorously, attempting to finish it off. The creature takes 2d6 bludgeoning damage and must succeed at a DC 20 Fortitude check save or become [[Conditions/Enfeebled|Enfeebled 1]]. Small or smaller creatures take a –2 circumstance penalty to their save."

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Slippers of Spider Climbing|Slippers of Spider Climbing]]
+Granted by [[Equipment/Slippers of Spider Climbing|Slippers of Spider Climbing]]
+
+You gain a 20-foot climb Speed.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

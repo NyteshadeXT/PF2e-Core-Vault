@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +9 (two-hand d8)\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+9 (two-hand d8)\n__Damage__  1d4 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +11 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d6 + 2 electricity 2d8 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+11 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d6 + 2 electricity 2d8 + 5 piercing"
 
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) The tracker designates a single creature they can see and hear, or one they're Tracking, as their prey. The tracker gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey.\n\nThe first time the tracker hits the designated prey in a round, they deal an additional 1d8 precision damage. The tracker also ignores the penalty for making ranged attacks within their second range increment.\n\nThese effects last until the tracker uses Hunt Prey again."

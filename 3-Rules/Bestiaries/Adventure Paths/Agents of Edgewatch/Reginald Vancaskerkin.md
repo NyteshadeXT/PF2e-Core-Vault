@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bronze Fist +34 (agile, magical)\n__Damage__  3d12 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Bronze Fist"
+    desc: "+34 (agile, magical)\n__Damage__  3d12 + 14 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Steel Quill +31 (agile, magical, thrown 20 ft.)\n__Damage__  3d8 + 14 piercing"
+  - name: "**Ranged** `pf2:1` Steel Quill"
+    desc: "+31 (agile, magical, thrown 20 ft.)\n__Damage__  3d8 + 14 piercing"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (clockwork,magical,poison) Reginald's lungs are equipped with ink canisters, allowing him to spew a @Template[line|distance:60] of ink that deals 9d6 poison damage (DC 39 Reflex check save; on a failure, the creature is also subjected to Reginald's poison ink)."
+    desc: "`pf2:2` (clockwork,magical,poison) Reginald's lungs are equipped with ink canisters, allowing him to spew a 60-foot line of ink that deals 9d6 poison damage (DC 39 Reflex check save; on a failure, the creature is also subjected to Reginald's poison ink)."
 
   - name: "Overdrive Engine"
     desc: " (clockwork) Reginald is equipped with clockwork organs to power his body\n* * *\n\n**Requirements** Reginald has 175 Hit Points or fewer\n\n**Effect** Reginald gains 200 temporary Hit Points, a +15-foot status bonus to Speed, and a +2 status bonus to melee attack rolls. His body begins to overheat, spewing steam that deals 9d6 fire damage at the beginning of his turn to all creatures within 30 feet (DC 40 Reflex check save). After 2 rounds, Reginald explodes, dealing 19d6 fire damage to all creatures within 60 feet (DC 40 Reflex check save). Reginald dies. For the purposes of his Secret of Rebirth ability, the last creature to damage Reginald counts as killing him."
@@ -82,7 +82,7 @@ attacks:
     desc: " (poison) Reginald is immune to the toxic ink that flows through his veins\n\n**Saving Throw** DC 38 Fortitude check\n\n**Maximum Duration** 10 rounds\n\n**Stage 1** 3d6 poison and [[Conditions/Sickened|Sickened 1]] (1 round)\n\n**Stage 2** 4d6 poison [[Conditions/Sickened|Sickened 2]] (1 round)."
 
   - name: "Quill Cannon"
-    desc: "`pf2:2` (clockwork) Reginald is equipped with a cannon and hundreds of steel quills. He makes two steel quill attacks against every creature in a @Template[cone|distance:60], ignoring the multiple attack penalty until after all attacks are made. He can't use Quill Cannon again for 1d4 rounds."
+    desc: "`pf2:2` (clockwork) Reginald is equipped with a cannon and hundreds of steel quills. He makes two steel quill attacks against every creature in a 60-foot cone, ignoring the multiple attack penalty until after all attacks are made. He can't use Quill Cannon again for 1d4 rounds."
 
   - name: "Reflective Plating"
     desc: "`pf2:1` (clockwork,occult) Reginald engages his defensive plating, which casts [[Spells/Spell Turning|Spell Turning]] on him (counteract modifier +32)."

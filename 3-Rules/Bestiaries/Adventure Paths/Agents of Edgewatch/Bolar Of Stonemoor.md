@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +6 (sweep)\n__Damage__  1d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+6 (sweep)\n__Damage__  1d8 + 4 slashing"
 
   - name: "Rage"
     desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** Bolar isn't fatigued or raging\n* * *\n\n**Effect** Bolar gains 3 temporary Hit Points that last until the rage ends. While raging, he deals 2 additional damage with melee attacks and takes a -1 penalty to AC. The rage lasts for 1 minute, until there are no enemies Bolar can perceive, or until Bolar falls unconscious.\n\nOnce the rage ends, Bolar can't Rage again for 1 minute.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"

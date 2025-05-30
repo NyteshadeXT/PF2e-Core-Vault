@@ -16,7 +16,9 @@ license: OGL
 
 
 
-The Hero grants its wearer a +3 status bonus to attack rolls with bows for 1 minute.
+Granted by [[Equipment/Taljjae's Mask (The Hero)|Taljjae's Mask (The Hero)]]
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+You gain a +3 status bonus to attack rolls with bows.
+
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

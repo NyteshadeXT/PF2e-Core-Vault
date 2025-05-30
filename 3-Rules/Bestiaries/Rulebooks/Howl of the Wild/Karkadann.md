@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +17 (holy, magical)\n__Damage__  2d10 + 8 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+17 (holy, magical, unarmed)\n__Damage__  2d10 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +17 (holy, magical)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+17 (holy, magical)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +0; __3rd __  _[[Spells/Cleanse Affliction|Cleanse Affliction (x2)]]_; __1st __  _[[Spells/Cleanse Cuisine|Cleanse Cuisine (x3)]]_\n__Cantrips__  __(4th)__ _[[Spells/Light|Light]]_"
@@ -77,7 +77,7 @@ attacks:
     desc: "`pf2:2`  The karkadann Strides twice, then Strikes with their horn. If the Strike hits, it also deals 1d10 persistent bleed damage."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 25 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 25 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

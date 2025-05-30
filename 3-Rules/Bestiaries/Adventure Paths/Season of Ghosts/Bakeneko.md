@@ -64,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +10 (agile)\n__Damage__  1d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+10 (agile, unarmed)\n__Damage__  1d8 + 5 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Summon Undead|Animate Dead (Zombie Only)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead (Zombie Only)]]_"
+    desc: "_Create Undead (Zombie Only)_"
 
   - name: "Skilled Ritualist"
     desc: "  Bakenekos can only create zombies with [[Spells/Create Undead|Create Undead]] but can perform the ritual without secondary casters and lower the casting time to 4 hours."

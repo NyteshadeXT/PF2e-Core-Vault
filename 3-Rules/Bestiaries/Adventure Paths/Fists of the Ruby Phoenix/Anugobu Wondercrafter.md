@@ -64,17 +64,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hammer +14 (agile)\n__Damage__  2d8 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Hammer"
+    desc: "+14 (agile)\n__Damage__  2d8 + 5 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Chisel +14 (agile, parry, versatile b)\n__Damage__  2d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Chisel"
+    desc: "+14 (agile, parry, versatile b)\n__Damage__  2d6 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +16 (agile, finesse, nonlethal, unarmed)\n__Damage__  2d4 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+16 (agile, finesse, nonlethal, unarmed)\n__Damage__  2d4 + 7 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hammer +18 (agile, thrown 20 ft.)\n__Damage__  2d8 + 5 bludgeoning"
+  - name: "**Ranged** `pf2:1` Hammer"
+    desc: "+18 (agile, thrown 20 ft.)\n__Damage__  2d8 + 5 bludgeoning"
 
   - name: "Innate Occult Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Flicker|Blink]]_, _[[Spells/Creation|Creation (At Will)]]_; __3rd __  _[[Spells/Mending|Mending (At Will)]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_; __1st __  _[[Spells/Create Water|Create Water]]_, _[[Spells/Carryall|Floating Disk]]_, _[[Spells/Phantasmal Minion|Unseen Servant (At Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

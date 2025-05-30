@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Sanguine Mutagen (Greater)|Sanguine Mutagen (Greater)]]
+Granted by [[Equipment/Sanguine Mutagen (Greater)|Sanguine Mutagen (Greater)]]
 
 **Benefit** You gain a +3 item bonus to Fortitude and Reflex saves. This bonus improves to +4 when you attempt a save against an effect that has the disease trait, poison trait, or would give you the Fatigued condition.
 

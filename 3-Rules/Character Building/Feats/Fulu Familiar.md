@@ -19,9 +19,9 @@ license: ORC
 
 
 
-**Prerequisites** Familiar Sage Dedication; expert in Occultismor Religion
+**Prerequisites** Familiar Sage Dedication; expert in Occultism or Religion
 * * *
 You can imprint your familiar's spiritual essence into a fulu, a small paper charm that can be affixed to objects, creatures, or structures. You gain the [[Actions/Create Familiar Fulu|Create Familiar Fulu]] action, which you can use once per day; at 12th level, this increases to twice per day, and at 18th level, it increases to three times per day.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

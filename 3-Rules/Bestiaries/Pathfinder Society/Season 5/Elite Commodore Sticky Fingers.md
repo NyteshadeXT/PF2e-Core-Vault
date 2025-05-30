@@ -55,17 +55,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 (agile, finesse, magical)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (agile, finesse, magical, unarmed)\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Euphoric Spark +6 (magical, range 20 feet)\n__Damage__  1d4 + 4 mental"
+  - name: "**Ranged** `pf2:1` Euphoric Spark"
+    desc: "+6 (magical, range 20 feet)\n__Damage__  1d4 + 4 mental"
 
   - name: "Primal Innate Spells"
     desc: "DC 19, attack +11; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise (x2)]]_\n__Cantrips__  __(1st)__ _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (emotion,incapacitation,mental,primal) The draxie breathes pixie dust in a @Template[cone|distance:15], with a random effect determined each time they use their Breath Weapon. Roll 1d4 to determine the effect. Each creature in the area must succeed at a DC 16 Will check save or be affected.\n\nThe draxie can't use Breath Weapon again for 1d4 rounds.\n\n1.  The target takes the effects of the [[Spells/Charm|Charm]] spell.\n2.  The target loses its last 5 minutes of memory.\n3.  The target takes the effects of a [[Spells/Sleep|Sleep]] spell.\n4.  For 1 minute, the target is in a state of euphoria that makes it [[Conditions/Stupefied|Stupefied 2]] and [[Conditions/Slowed|Slowed 1]]."
+    desc: "`pf2:2` (emotion,incapacitation,mental,primal) The draxie breathes pixie dust in a 15-foot cone, with a random effect determined each time they use their Breath Weapon. Roll 1d4 to determine the effect. Each creature in the area must succeed at a DC 16 Will check save or be affected.\n\nThe draxie can't use Breath Weapon again for 1d4 rounds.\n\n1.  The target takes the effects of the [[Spells/Charm|Charm]] spell.\n2.  The target loses its last 5 minutes of memory.\n3.  The target takes the effects of a [[Spells/Sleep|Sleep]] spell.\n4.  For 1 minute, the target is in a state of euphoria that makes it [[Conditions/Stupefied|Stupefied 2]] and [[Conditions/Slowed|Slowed 1]]."
  
 ```
 

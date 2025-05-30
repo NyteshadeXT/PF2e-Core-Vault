@@ -59,11 +59,14 @@ abilities_top:
     desc: "[[Equipment/Greataxe|+1 Greataxe]], [[Equipment/Leather Armor|Leather Armor]], [[Equipment/Clothing (Ordinary)|Hood]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +16 (magical, sweep)\n__Damage__  1d12 + 9 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+16 (magical, sweep)\n__Damage__  1d12 + 9 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Paranoia|Paranoia]]_\n__Cantrips__  __(3rd)__ _[[Spells/Sigil|Sigil]]_"

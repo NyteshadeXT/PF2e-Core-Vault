@@ -31,7 +31,7 @@ license: ORC
 
 * * *
 
-If the next action you use is to Cast a Spell, the spell ignores an amount of the target's resistance to acid, cold, electricity, fire, or sonic damage equal to your level. This applies to all damage the spell deals, including persistent damage and damage caused by an ongoing effect of the spell, such as the wall created by [[Wall of Fire|Wall of Fire]]. A creature's immunities are unaffected.
+If the next action you use is to Cast a Spell, the spell ignores an amount of the target's resistance to acid, cold, electricity, fire, or sonic damage equal to your level. This applies to all damage the spell deals, including persistent damage and damage caused by an ongoing effect of the spell, such as the wall created by [[Spells/Wall of Fire|Wall of Fire]]. A creature's immunities are unaffected.
 
 *Source: Pathfinder Player Core*
 *ORC*

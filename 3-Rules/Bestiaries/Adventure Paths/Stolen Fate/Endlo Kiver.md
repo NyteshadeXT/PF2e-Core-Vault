@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +26 (magical, versatile p)\n__Damage__  3d12 + 11 slashing"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+26 (magical, versatile p)\n__Damage__  3d12 + 11 slashing"
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 30, attack +22; __6th __ (3 slots) _[[Spells/Heroism|Heroism]]_, _[[Spells/Weapon Storm|Weapon Storm]]_, _[[Spells/Zealous Conviction|Zealous Conviction]]_; __5th __ (3 slots) _[[Spells/Flame Strike|Flame Strike]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_; __4th __ (3 slots) _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Planar Tether|Dimensional Anchor]]_, _[[Spells/Enlarge|Enlarge]]_; __3rd __ (3 slots) _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Harm|Harm]]_, _[[Compendium.pf2e.spells-srd.Item.RneiyehRO6f7LP44|Remove Disease]]_; __2nd __ (3 slots) _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __ (3 slots) _[[Spells/Command|Command]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(6th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Message|Message]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Stabilize|Stabilize]]_"

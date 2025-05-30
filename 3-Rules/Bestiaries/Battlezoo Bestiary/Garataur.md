@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Falchion +14 (forceful, sweep)\n__Damage__  1d10 + 9 slashing"
+  - name: "**Melee** `pf2:1` Falchion"
+    desc: "+14 (forceful, sweep)\n__Damage__  1d10 + 9 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 (agile)\n__Damage__  2d4 + 9 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (agile)\n__Damage__  2d4 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +15 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+15 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 5 piercing"
 
   - name: "Pack Attack"
     desc: "  A garataur deals 1d6 extra damage to any creature that's within reach of at least two of the garataur's allies."

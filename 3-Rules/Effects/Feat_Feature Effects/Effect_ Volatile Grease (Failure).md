@@ -24,5 +24,5 @@ The target gains weakness 2 to fire for 1 minute.
 
 **Heightened (+2)** The weakness increases by 1.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

@@ -4,8 +4,7 @@ title: "High Jump"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/move
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h"
@@ -13,14 +12,14 @@ license: ORC
 ---
 # High Jump `pf2:2`
 
-### [[move]][[skill]]
+### [[move]]
 
 **Category** interaction; 
 
 
 
 
-You Stride, then attempt a DC 30 Athletics check to jump vertically. If you didn't Stride at least 10 feet, you automatically fail. This DC might be increased or decreased due to the situation, as determined by the GM.
+You Stride, then attempt a DC 30 [[Actions/high-jump|high-jump]]{Athletics} check to jump vertically. If you didn't Stride at least 10 feet, you automatically fail. This DC might be increased or decreased due to the situation, as determined by the GM.
 
 * * *
 

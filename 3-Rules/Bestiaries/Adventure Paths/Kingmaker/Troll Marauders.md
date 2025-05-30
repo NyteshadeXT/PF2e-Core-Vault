@@ -23,7 +23,7 @@ level: "Army 8"
 
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: infantry
 modifier: 16
 perception:
@@ -31,9 +31,9 @@ perception:
   - name: "Scouting"
     desc: "+16"
   - name: "Recruitment DC"
-    desc: "; __Consumption__ 0"
+    desc: "15; __Consumption__ 1"
   - name: "Description"
-    desc: "There are only a few dozen trolls in this army, but their ferocity and regenerative capability make them a dangerous force nonetheless."
+    desc: "There are only a few dozen trolls in this army, but their ferocity and regenerative capability make them a dangerous force nonetheless."
 ac: 28
 armorclass:
   - name: AC

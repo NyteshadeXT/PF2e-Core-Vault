@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +24 (magical, reach 10 feet)\n__Damage__  2d10 + 13 bludgeoning plus binding-stone"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+24 (magical, reach 10 feet, unarmed)\n__Damage__  2d10 + 13 bludgeoning plus binding-stone"
 
   - name: "Binding Stone"
     desc: " (arcane,earth) Any creature hit by the stone bulwark's fist or rock Strike is affected by a DC 30 Fortitude check [[Spells/Earthbind|Earthbind]] spell."
@@ -69,7 +69,7 @@ attacks:
     desc: "`pf2:1`  The stone bulwark Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can attempt to bar the way by succeeding at a DC 34 Fortitude check save. On a critical success, the resisting creature takes no damage; otherwise it is damaged as if hit by the construct's fist."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
  
 ```
 

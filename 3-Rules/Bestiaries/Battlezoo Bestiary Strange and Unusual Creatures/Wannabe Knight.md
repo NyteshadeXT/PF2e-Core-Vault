@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Lance Pseudopod +27 (deadly 2d8, jousting d6, reach 10 feet)\n__Damage__  3d8 + 14 piercing"
+  - name: "**Melee** `pf2:1` Lance Pseudopod"
+    desc: "+27 (deadly 2d8, jousting d6, reach 10 feet)\n__Damage__  3d8 + 14 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword Pseudopod +27 (two-hand d12)\n__Damage__  3d8 + 14 slashing"
+  - name: "**Melee** `pf2:1` Bastard Sword Pseudopod"
+    desc: "+27 (two-hand d12)\n__Damage__  3d8 + 14 slashing"
 
   - name: "[[Actor.N6fhuATeclvEg2wN.Item.zVsMjrtflEQNNwda|Issue Challenge]]"
     desc: "`pf2:3` (mental,visual) The wannabe knight points at a foe, usually the strongest looking creature it can see, issuing a challenge to single combat. That creature can choose whether to accept. If the creature denies the challenge, the wannabe knight wins by default. If the creature accepts, both it and the knight gain 50 temporary Hit Points, which only protect them from damage they each deal to the other. They can only attack each other for the duration of the challenge and if any ally assists the challenged opponent, the challenged opponent forfeits and loses. When either combatant reduces the other's temporary Hit Points from Issue Challenge to 0, they are the victor and gain a +2 status bonus to attack rolls, saving throws, and skill checks for 1 minute. Additionally if the wannabe knight wins, its opponent becomes [[undefined]]. Afterward, the challenged creature is temporarily immune for 1 month.\n\n[[Effects/Effect_ Issue Challenge (Participants)|Effect: Issue Challenge (Participants)]]\n\n[[Effects/Effect_ Issue Challenge (Victor)|Effect: Issue Challenge (Victor)]]"

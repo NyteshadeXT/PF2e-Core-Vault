@@ -29,7 +29,7 @@ Like nefarious sportlebores, a species of insect that plague adventurers by hidi
 
 * * *
 
-**Critical Success** The creature if unaffected.
+**Critical Success** The creature is unaffected.
 
 **Success** The creature takes half damage and is [[Conditions/Sickened|Sickened 1]] as it spits out most of the offending sportlebores.
 

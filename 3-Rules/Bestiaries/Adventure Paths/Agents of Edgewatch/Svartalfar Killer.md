@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Elven Curve Blade +21 (finesse, forceful)\n__Damage__  2d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Elven Curve Blade"
+    desc: "+21 (finesse, forceful)\n__Damage__  2d8 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +20 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+20 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 4 piercing"
 
   - name: "Innate Arcane Spells"
-    desc: "DC 26, attack +18; __3rd __  _[[Spells/Shocking Grasp|Shocking Grasp]]_; __2nd __  _[[Spells/Invisibility|Invisibility (x2)]]_; __1st __  _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(4th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 26, attack +18; __3rd __  _[[Spells/Shocking Grasp|Shocking Grasp]]_; __2nd __  _[[Spells/Invisibility|Invisibility (x2)]]_; __1st __  _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(4th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
 
   - name: "Shadow Step"
     desc: "`pf2:2`  The svartalfar killer fades into shadow, Strides up to twice its Speed, and reforms.\n\nThis movement doesn't trigger reactions, but the svartalfar killer must begin and end in an area of dim light or darkness."
@@ -74,7 +74,7 @@ attacks:
     desc: "  A svartalfar killer deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Spell-Imbued Blade"
-    desc: "`pf2:2`  The svartalfar killer chooses [[Spells/Acid Splash|Acid Splash]], [[Spells/Produce Flame|Produce Flame]], [[Spells/Enfeeble|Enfeeble]], or [[Spells/Shocking Grasp|Shocking Grasp]] and makes a melee Strike.\n\nIf the svartalfar killer hits, they cast the chosen spell through the weapon at the same target. The spell's attack roll is the same result as the Strike."
+    desc: "`pf2:2`  The svartalfar killer chooses [[Spells/Acid Splash|Acid Splash]], [[Spells/Ignition|Ignition]], [[Spells/Enfeeble|Enfeeble]], or [[Spells/Shocking Grasp|Shocking Grasp]] and makes a melee Strike.\n\nIf the svartalfar killer hits, they cast the chosen spell through the weapon at the same target. The spell's attack roll is the same result as the Strike."
  
 ```
 

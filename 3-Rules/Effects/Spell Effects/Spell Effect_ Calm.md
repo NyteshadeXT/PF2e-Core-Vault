@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Calm|Calm]]
+Granted by [[Spells/Calm|Calm]]
 
-Calming urges impose a -1 status penalty to the creature's attack rolls.
+You take a -1 status penalty to your attack rolls.
 
 *Source: Pathfinder Player Core*
 *ORC*

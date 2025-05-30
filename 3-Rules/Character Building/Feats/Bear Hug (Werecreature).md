@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You hug your opponent. You make another claw Strike against the same target. If this Strike hits, the target is [[Conditions/Grabbed|Grabbed]] until the end of your next turn, unless you move or your target Escapes.
+You hug your opponent. You make another claw Strike against the same target. If this Strike hits, the target is [[Conditions/Grabbed|Grabbed]] until the end of your next turn, unless you move or your target [[Actions/Escape|Escapes]].
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

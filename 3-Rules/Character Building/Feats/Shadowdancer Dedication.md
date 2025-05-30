@@ -24,7 +24,7 @@ You dedicate yourself to the shadows. Your coloring becomes gray and gloomy, you
 
 You gain greater darkvision. You also gain a +2 circumstance bonus to Stealth checks when you are within dim light or darkness.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Shadowdancer|Shadowdancer]] archetype.
+[[PF2e Journals/Archetypes/Shadowdancer|Shadowdancer]]
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

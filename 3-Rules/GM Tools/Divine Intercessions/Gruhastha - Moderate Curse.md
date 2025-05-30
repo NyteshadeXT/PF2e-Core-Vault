@@ -18,5 +18,5 @@ license: OGL
 
 Enlightenment begins to elude you, leaving you at a loss for knowledge. Whenever you attempt a check to [[Actions/Recall Knowledge|Recall Knowledge]], you use a result one degree of success worse than the result you rolled.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

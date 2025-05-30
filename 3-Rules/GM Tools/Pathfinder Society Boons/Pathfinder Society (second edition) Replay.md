@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Pathfinder Society (second edition) Replay"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.0ZsykfABRrw2p8R5"
 license: OGL
 ---
 # Pathfinder Society (second edition) Replay
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

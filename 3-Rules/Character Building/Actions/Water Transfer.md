@@ -6,14 +6,14 @@ tags:
   - trait/primal
   - trait/teleportation
   - trait/water
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.eBgO5gp5kKhGtmk9"
 license: OGL
 ---
 # Water Transfer `pf2:2`
 
-### [[primal]][[teleportation]][[3-Rules/Rule References/Water]]
+### [[primal]][[teleportation]][[water]]
 
 **Category** offensive; 
 

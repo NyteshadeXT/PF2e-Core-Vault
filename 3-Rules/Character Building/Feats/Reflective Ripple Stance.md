@@ -8,12 +8,13 @@ tags:
   - trait/water
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.knZUN4sYExIyRC4F"
-license: OGL
+license: ORC
 ---
 # Reflective Ripple Stance `pf2:1`
 ## Feat 1
-### [[monk]][[stance]][[3-Rules/trait_reference/W/water]]
+### [[monk]][[stance]][[water]]
 
 **Category** class; 
 
@@ -24,15 +25,11 @@ license: OGL
 
 * * *
 
-You enter a stance of fluid grace as small amounts of water flow with your movements and attacks. You can make flowing wave attacks that deal 1d6 bludgeoning damage. They are in the brawling group and have the agile, disarm, finesse, nonlethal, trip, unarmed, and water traits.
-
-While in Reflective Ripple Stance, you gain a +1 circumstance bonus to Athletics checks to [[Actions/Disarm|Disarm]], [[Actions/Swim|Swim]], or [[Actions/Trip|Trip]], and you gain a +2 circumstance bonus to your Reflex DC to avoid being Disarmed and Tripped.
-
-[[Feat_Feature Effects/Stance_ Reflective Ripple Stance|Stance: Reflective Ripple Stance]]
+You enter a stance of fluid grace as small amounts of water flow with your movements and attacks. You can make flowing wave attacks that deal 1d6 bludgeoning damage. They are in the brawling group and have the agile, disarm, finesse, nonlethal, trip, unarmed, and water traits. While in Reflective Ripple Stance, you gain a +1 circumstance bonus to Athletics checks to [[Actions/Disarm|Disarm]], [[Actions/Swim|Swim]], or [[Actions/Trip|Trip]], and you gain a +2 circumstance bonus to your Reflex DC to avoid being Disarmed and Tripped.
 
 * * *
 
-**Special** This feat gains your choice of either the divine or occult trait, matching your ki spell tradition if possible.
+**Special** This feat gains your choice of either the divine or occult trait, matching your qi spell tradition if possible.
 
-*Source: Pathfinder Secrets of Magic*
-*OGL*
+*Source: Pathfinder Lost Omens Rival Academies*
+*ORC*

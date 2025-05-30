@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You'll eat anything and anyone. Whenever you inflict [[Conditions/Persistent Damage|Persistent Bleed Damage]] with your jaws unarmed attack, you gain temporary Hit Points equal to half your level for 1 minute.
+Granted by [[Feats/Hungry Goblin|Hungry Goblin]]
 
-*Source: Pathfinder Lost Omens: Character Guide*
+You gain temporary Hit Points equal to half your level.
+
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spiked Gauntlet +21 (agile, free-hand, magical)\n__Damage__  2d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Spiked Gauntlet"
+    desc: "+21 (agile, free-hand, magical)\n__Damage__  2d4 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 ()\n__Damage__  2d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (unarmed)\n__Damage__  2d6 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile)\n__Damage__  2d4 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, unarmed)\n__Damage__  2d4 + 6 slashing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 33, attack +27; __6th __  _[[Spells/Repulsion|Repulsion]]_; __5th __  _[[Spells/Ravening Maw|Ravening Maw]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Enervation|Enervation]]_; __3rd __  _[[Spells/Heroism|Heroism]]_, _[[Spells/One with Stone|Meld into Stone]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Status|Status]]_; __1st __  _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Protection|Protection]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(6th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Shield|Shield]]_"
@@ -79,7 +79,7 @@ attacks:
     desc: "3 Focus Points, DC 33, attack +27; __6th __  _[[Spells/Commanding Lash|Commanding Lash]]_, _[[Spells/Vibrant Thorns|Vibrant Thorns]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Commune|Commune]]_, _[[Spells/Consecrate|Consecrate]]_"
+    desc: "_Commune_, _Consecrate_"
 
   - name: "Devourer's Dictum"
     desc: "`pf2:1` (concentrate) The deepmouth warps part of a scalescribed creature's flesh into a mouthed tentacle, then wills it to lash out.\n\nThe deepmouth makes a jaws Strike that originates from any living scalescribed creature within 120 feet; this Strike also has reach 15 feet and deals an additional 2d8 void damage. If the Strike originates from a creature other than the deepmouth, that creature triggers reactions as though it had made the Strike."

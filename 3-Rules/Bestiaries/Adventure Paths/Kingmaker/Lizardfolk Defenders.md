@@ -23,7 +23,7 @@ level: "Army 5"
 rare_03: [[Uncommon]]
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: skirmisher
 modifier: 14
 perception:

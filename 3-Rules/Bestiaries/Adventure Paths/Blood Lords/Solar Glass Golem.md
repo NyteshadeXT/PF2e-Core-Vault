@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap184-the-ghouls-hunger/assets/art/PZO90184_rumins_glass_golem.webp| ]]
 source: "Pathfinder #184: The Ghouls Hunger"
 name: "Solar Glass Golem"
 level: "Creature 11"
@@ -55,10 +56,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Golem Antimagic"
-    desc: "  Harmed by sonic (8d6, 2d6 from areas or persistent damage); healed by fire (area 2d6 HP); slowed by cold\n* * *\n\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n\n**Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n\n**Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n\n**Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's slowed 1 for that round.\n\n**Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
+    desc: "  Harmed by sonic (8d6 untyped, 2d6 untyped from areas or persistent damage); healed by fire (area 2d6 healing HP); slowed by cold\n* * *\n\nA golem is immune to spells and magical abilities other than its own, but each type of golem is affected by a few types of magic in special ways. These exceptions are listed in shortened form in the golem's stat block, with the full rules appearing here. If an entry lists multiple types (such as \"cold and water\"), either type of spell can affect the golem.\n\n*   **Harmed By** Any magic of this type that targets the golem causes it to take the listed amount of damage (this damage has no type) instead of the usual effect. If the golem starts its turn in an area of magic of this type or is affected by a persistent effect of the appropriate type, it takes the damage listed in the parenthetical.\n*   **Healed By** Any magic of this type that targets the golem makes the golem lose the slowed condition and gain HP equal to half the damage the spell would have dealt. If the golem starts its turn in an area of this type of magic, it gains the HP listed in the parenthetical.\n*   **Slowed By** Any magic of this type that targets the golem causes it to be [[Conditions/Slowed|Slowed 1]] for 2d6 rounds instead of the usual effect. If the golem starts its turn in an area of this type of magic, it's slowed 1 for that round.\n*   **Vulnerable To** Each golem is vulnerable to one or more specific spells, with the effects described in its stat block."
 
   - name: "Spell Reflection"
-    desc: "`pf2:r` (arcane) **Trigger** The glass golem is targeted by a spell\n* * *\n\n**Effect** The glass golem positions its magical, reflective surfaces to turn the spell back on the caster. It tries to counteract the spell by attempting an Acrobatics check for its counteract check. If it successfully counteract the spell, the effect is turned back on the caster."
+    desc: "`pf2:r` (arcane) **Trigger** The glass golem is targeted by a spell\n* * *\n\n**Effect** The glass golem positions its magical, reflective surfaces to turn the spell back on the caster. It tries to counteract the spell by attempting an Acrobatics check check for its counteract check. If it successfully counteract the spell, the effect is turned back on the caster."
 
   - name: "Vulnerable to Shatter"
     desc: "  A glass golem is affected by the [[Spells/Shatter|Shatter]] spell as though the golem were an unattended object."
@@ -66,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stained Glass Frame +24 (agile, magical, versatile p)\n__Damage__  2d6 + 13 slashing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Stained Glass Frame"
+    desc: "+24 (agile, magical, versatile p)\n__Damage__  2d6 + 13 slashing 1d6 bleed"
 
   - name: "Solar Flare"
-    desc: "`pf2:2` (light) The glass golem holds up its stained-glass frame and angles it downward, causing the image of the sun in the artwork to flash brightly, illuminating a @Template[cone|distance:30]. This blast of light deals 8d6 fire damage to creatures in the area, plus 4d6 additional vitality damage to undead creatures. Each creature in the area must attempt a DC 30 Reflex check save. If this solar flare overlaps an area of magical darkness, it attempts to counteract the darkness effect (+22 counteract check).\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Dazzled|Dazzled]] for 1 minute.\n\n**Critical Failure** The creature takes full damage and is [[Conditions/Blinded|Blinded]] permanently."
+    desc: "`pf2:2` (light) The glass golem holds up its stained-glass frame and angles it downward, causing the image of the sun in the artwork to flash brightly, illuminating a 30-foot cone. This blast of light deals 8d6 fire damage to creatures in the area, plus 4d6 additional vitality damage to undead creatures. Each creature in the area must attempt a DC 30 Reflex check save. If this solar flare overlaps an area of magical darkness, it attempts to counteract the darkness effect (+22 counteract check).\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Dazzled|Dazzled]] for 1 minute.\n\n**Critical Failure** The creature takes full damage and is [[Conditions/Blinded|Blinded]] permanently."
  
 ```
 

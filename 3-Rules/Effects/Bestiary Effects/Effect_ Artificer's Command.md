@@ -18,5 +18,5 @@ license: OGL
 
 The creature gains a +1 status bonus to attack rolls, damage rolls, and saving throws.
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

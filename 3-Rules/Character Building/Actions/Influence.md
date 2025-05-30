@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
   - trait/linguistic
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.6Oe9dg3Lu10slyeC"
 license: OGL
 ---
 # Influence
 
-### [[3-Rules/Rule References/Concentrate]][[linguistic]]
+### [[concentrate]][[linguistic]]
 
 **Category** interaction; 
 

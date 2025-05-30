@@ -17,13 +17,9 @@ license: ORC
 
 
 
-Granted by [[Animal Form|Animal Form]]
+Granted by [[Spells/Animal Form|Animal Form]]
 
-You call upon primal energy to transform yourself into a Medium animal battle form. When you first cast this spell, choose a form.
-
-You can decide the specific type of animal (such as lion or snow leopard for cat), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait. You can Dismiss the spell.
-
-You gain the following statistics and abilities regardless of which battle form you choose:
+You transform yourself into a Medium animal battle form. While in this form, you gain the animal trait. You gain the following statistics and abilities regardless of which battle form you choose:
 
 *   AC = 16 + your level. Ignore your armor's check penalty and Speed reduction.
 *   5 temporary Hit Points.
@@ -34,6 +30,7 @@ You gain the following statistics and abilities regardless of which battle form 
 You also gain specific abilities based on the type of animal you choose:
 
 *   **Bear**
+    
     *   Speed 30 feet;
     *   **Melee** `pf2:1` jaws, **Damage** 2d8 piercing;
     *   **Melee** `pf2:1` claw (agile), **Damage** 1d8 slashing.

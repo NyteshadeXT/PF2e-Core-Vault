@@ -61,17 +61,20 @@ abilities_top:
     desc: "[[Equipment/Rapier|Rapier]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile, finesse, magical)\n__Damage__  1d4 - 1 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, finesse, magical, unarmed)\n__Damage__  1d4 - 1 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +9 (deadly d8, disarm, finesse)\n__Damage__  1d6 - 1 slashing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+9 (deadly d8, disarm, finesse)\n__Damage__  1d6 - 1 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shadow Spark +9 (range 20 feet)\n__Damage__  1d4 cold"
+  - name: "**Ranged** `pf2:1` Shadow Spark"
+    desc: "+9 (range 20 feet)\n__Damage__  1d4 cold"
 
   - name: "Shadowed Illumination"
     desc: " (darkness,light,primal) Shadow pixies exude shadow, counteracting all other light and darkness effects their level or lower to leave dim light out to 10 feet (counteract rank 1, counteract bonus +7). The shadow pixie can suppress this effect with a single action, which has the concentrate trait. While the effect is suppressed, the shadow pixie's Strikes don't deal cold damage and they can't use their shadow spark Strike."

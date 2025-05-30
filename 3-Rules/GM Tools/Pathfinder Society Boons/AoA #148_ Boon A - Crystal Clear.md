@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "AoA #148: Boon A - Crystal Clear"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.VLjkX7HpDqKaidNd"
 license: OGL
 ---
 # AoA #148: Boon A - Crystal Clear
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

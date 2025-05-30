@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +11 (agile, finesse, versatile s)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+11 (agile, finesse, versatile s)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +11 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+11 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Hail of Arrows"
     desc: "`pf2:2`  The grippli archer makes three ranged Strikes with their shortbow, all against a single target. Combine the damage of any Strikes that hit for the purpose of resistances and weaknesses."

@@ -56,13 +56,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Noxious Sublimation"
-    desc: "  The first time each round that the rime sludge takes fire damage, a cloud of sickening decay roils outward, dealing 2d6 poison damage (DC 17 Fortitude check) to all creatures in a @Template[emanation|distance:10]. A creature that fails its saving throw is also [[Conditions/Sickened|Sickened 1]] (or [[Conditions/Sickened|Sickened 3]] on a critical failure)."
+    desc: "  The first time each round that the rime sludge takes fire damage, a cloud of sickening decay roils outward, dealing 2d6 poison damage (DC 17 Fortitude check) to all creatures in a 10-foot emanation. A creature that fails its saving throw is also [[Conditions/Sickened|Sickened 1]] (or [[Conditions/Sickened|Sickened 3]] on a critical failure)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +9 ()\n__Damage__  1d4 + 2 bludgeoning 1d4 poison"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+9 (unarmed)\n__Damage__  1d4 + 2 bludgeoning 1d4 poison"
 
   - name: "Slushy Undulation"
     desc: "  A rime sludge ignores difficult terrain and greater difficult terrain from ice and snow and doesn't risk falling [[Conditions/Prone|Prone]] when crossing ice."

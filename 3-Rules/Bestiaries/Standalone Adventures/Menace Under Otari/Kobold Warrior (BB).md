@@ -3,7 +3,7 @@ title: "Kobold Warrior (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.r9w1n85mp9Ip4QiS" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.BIZfjoz8DZt75EDn" 
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/kobold
@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +3 ()\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+3 ()\n__Damage__  1d6 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +5 (thrown 20 ft.)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+5 (thrown 20 ft.)\n__Damage__  1d6 + 1 piercing"
 
   - name: "[[Menace Under Otari/Kobold Dragon Mage (Green, BB)/Scamper|Scamper]]"
     desc: "`pf2:1`  If the kobold is adjacent to at least one enemy, the kobold Strides up to 30 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. The kobold must end this movement in a space that's not adjacent to any enemy."

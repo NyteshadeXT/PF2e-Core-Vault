@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 30 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "No Face"
     desc: "  The noppera-bo has no sense of vision, but their hearing is precise. They don't breathe and are immune to effects that require breathing. They gain sustenance by absorbing fluids through their skin—traditionally by immersing their hands or faceless head into the fluid to \"drink\" through osmosis; they can also benefit from consumables, such as potions or elixirs, in this way."
 
@@ -63,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` False Weapon +15 ()\n__Damage__  2d8 + 8 mental"
+  - name: "**Melee** `pf2:1` False Weapon"
+    desc: "+15 ()\n__Damage__  2d8 + 8 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` False Weapon +15 ()\n__Damage__  2d4 + 8 mental"
+  - name: "**Melee** `pf2:1` False Weapon"
+    desc: "+15 ()\n__Damage__  2d4 + 8 mental"
 
   - name: "Arcane Innate Spells"
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Force Barrage|Force Barrage]]_\n__Cantrips__  __(3rd)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ray of Frost|Ray of Frost]]_"

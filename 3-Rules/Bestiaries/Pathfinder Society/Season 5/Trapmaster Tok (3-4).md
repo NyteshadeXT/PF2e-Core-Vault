@@ -63,20 +63,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +15 (agile, finesse, versatile s)\n__Damage__  2d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+15 (agile, finesse, versatile s)\n__Damage__  2d4 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +15 (agile, thrown 10 ft., versatile s)\n__Damage__  2d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+15 (agile, thrown 10 ft., versatile s)\n__Damage__  2d4 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Acid Flask (Moderate) +15 (bomb, consumable, infused, splash)\n__Damage__  2d6 acid 2 acid 1 acid"
+  - name: "**Melee** `pf2:1` Acid Flask (Moderate)"
+    desc: "+15 (bomb, consumable, infused, splash)\n__Damage__  2d6 acid 2 acid 1 acid"
 
-  - name: "Melee"
-    desc: "`pf2:1` Alchemist&#x27;s Fire (Moderate) +15 (bomb, consumable, infused, splash)\n__Damage__  2 fire 2d8 fire 2 fire"
+  - name: "**Melee** `pf2:1` Alchemist&#x27;s Fire (Moderate)"
+    desc: "+15 (bomb, consumable, infused, splash)\n__Damage__  2 fire 2d8 fire 2 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Vexing Vapor (Moderate) +15 (bomb, consumable, infused, inhaled, splash)\n__Damage__  2 mental 2d6 mental"
+  - name: "**Melee** `pf2:1` Vexing Vapor (Moderate)"
+    desc: "+15 (bomb, consumable, infused, inhaled, splash)\n__Damage__  2 mental 2d6 mental"
 
   - name: "Hurried Retreat"
     desc: "`pf2:1`  **Requirements** Tok is adjacent to at least one enemy\n* * *\n\n**Effect** He Strides up to his speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. He must end this movement in a space that's not adjacent to any enemy."

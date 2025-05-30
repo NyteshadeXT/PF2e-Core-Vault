@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-You call upon your Cascade Bearer training to help you adjust a spell for the current situation. Until the end of your turn, you gain a single metamagic feat from the druid class or the wizard class that has a level requirement of no more than half your level.
+You call upon your Cascade Bearer training to help you adjust a spell for the current situation. Until the end of your turn, you gain a single spellshape feat from the druid class or the wizard class that has a level requirement of no more than half your level.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

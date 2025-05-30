@@ -55,19 +55,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +31 (magical, reach 10 feet, versatile p)\n__Damage__  2d10 + 15 slashing"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+31 (magical, reach 10 feet, versatile p)\n__Damage__  2d10 + 15 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +31 (agile, finesse, magical, nonlethal, reach 10 feet, unarmed)\n__Damage__  2d4 + 15 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+31 (agile, finesse, magical, nonlethal, reach 10 feet, unarmed)\n__Damage__  2d4 + 15 bludgeoning"
 
   - name: "Brutal Blows"
     desc: "`pf2:2`  **Requirements** The shobhad enforcer has at least two free hands\n* * *\n\n**Effect** The shobhad enforcer makes a fist Strike against an adjacent creature. If the Strike hits, the enforcer automatically [[Actions/Grapple|Grapples]] its target and makes a second fist Strike with the following success conditions.\n\nThe second Strike applies the enforcer's multiple attack penalty normally.\n* * *\n\n**Critical Success** The target is [[Conditions/Stunned|Stunned 1]], and [[Conditions/Stupefied|Stupefied 2]] for 1 round.\n\n**Success** The target is [[Conditions/Stupefied|Stupefied 1]] for 1 round."

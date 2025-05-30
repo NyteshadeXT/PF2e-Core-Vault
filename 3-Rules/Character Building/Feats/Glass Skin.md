@@ -11,7 +11,7 @@ license: OGL
 ---
 # Glass Skin `pf2:r`
 ## Feat 10
-### [rare](rare.md "Rare Rarity Trait")[[aftermath]]
+### [rare](rare "Rare Rarity Trait")[[aftermath]]
 
 **Category** class; 
 
@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-Even if vitrumancy is a mystery to you, your blood and flesh know the secrets of the art of arcane glass. Patches of your skin to flicker into glass without warning. By focusing the effect, you can concentrate the glass into a powerful protective layer of magical obsidian. Once per day, you can cast [[Mountain Resilience|Mountain Resilience]] on yourself as an innate primal spell, though the spell covers you in a layer of glass instead of stone. During this innate _mountain resilience_, you gain the [[Actions/Shatter Glass|Shatter Glass]] reaction. At 18th level, the _mountain resilience_ is heightened to 6th level instead of 4th.
+Even if vitrumancy is a mystery to you, your blood and flesh know the secrets of the art of arcane glass. Patches of your skin to flicker into glass without warning. By focusing the effect, you can concentrate the glass into a powerful protective layer of magical obsidian. Once per day, you can cast [[Spells/Mountain Resilience|Mountain Resilience]] on yourself as an innate primal spell, though the spell covers you in a layer of glass instead of stone. During this innate _mountain resilience_, you gain the [[Actions/Shatter Glass|Shatter Glass]] reaction. At 18th level, the _mountain resilience_ is heightened to 6th level instead of 4th.
 
 *Source: Pathfinder #180: The Smoking Gun*
 *OGL*

@@ -4,7 +4,7 @@ title: "(Divine Warden) Faith Bound"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/divine
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.OPGu0WsUHpHSmu80"
 license: OGL

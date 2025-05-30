@@ -58,22 +58,22 @@ abilities_mid:
     desc: "  Whenever the krooth is damaged by a critical hit, it gains a +2 status bonus to attack and damage rolls until the end of its next turn. It can't use reactions while this frenzy lasts.\n\n[[Bestiary Effects/Effect_ Pain Frenzy|Effect: Pain Frenzy]]"
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike (Tail Only)]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 (deadly d10, poison, reach 10 feet)\n__Damage__  2d12 + 9 piercing plus poison-tooth"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (deadly d10, poison, reach 10 feet, unarmed)\n__Damage__  2d12 + 9 piercing plus poison-tooth"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile)\n__Damage__  2d8 + 9 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, unarmed)\n__Damage__  2d8 + 9 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +20 (reach 15 feet)\n__Damage__  2d8 + 9 piercing"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+20 (reach 15 feet)\n__Damage__  2d8 + 9 piercing"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  40 feet\n\n* * *\n"
+    desc: "`pf2:1`  40 feet\n* * *\n\n**Requirements** The monster is hiding in water and a creature that hasn't detected it is within the listed number of feet.\n* * *\n\n**Effect** The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a Strike against it. The creature is [[Conditions/Off-Guard|Off-Guard]] against this Strike."
 
   - name: "Poison Tooth"
     desc: "`pf2:1` (poison) **Requirements** The krooth damaged a creature with its jaws on its most recent action this turn;\n* * *\n\n**Effect** The krooth snaps off one of its teeth in the creature it hit. The creature takes 1d6 persistent bleed damage and is [[Conditions/Drained|Drained 1]]. Neither can be healed while the tooth remains.\n\nRemoving the tooth safely requires a successful DC 26 Medicine check check to [[Actions/Administer First Aid|Administer First Aid]]. Instead of ending bleeding or stabilizing, this removes the tooth and the drained condition, but it doesn't automatically end the bleed damage."

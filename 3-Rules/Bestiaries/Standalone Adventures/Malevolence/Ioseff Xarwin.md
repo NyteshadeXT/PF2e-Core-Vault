@@ -74,17 +74,20 @@ abilities_mid:
   - name: "Shame"
     desc: "  Ioseff takes a -1 item penalty to attack rolls and saving throws against a character who carries Fulvia's ring. This penalty doubles to -2 against a character who wears Fulvia's ring. At the start of ttheir turn, a character who possesses Fulvia's ring can attempt a secret DC 20 Perception check check; on a success, they sense a faint compulsion fueled by outrage to present Fulvia's ring to the ghost."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bloody Ectoplasmic Lash +19 (agile, finesse, magical, reach 10 feet)\n__Damage__  2d8 + 7 void"
+  - name: "**Melee** `pf2:1` Bloody Ectoplasmic Lash"
+    desc: "+19 (agile, finesse, magical, reach 10 feet)\n__Damage__  2d8 + 7 void"
 
   - name: "Innate Occult Spells"
     desc: "DC 28, attack +20; __5th __ (2 slots) _[[Spells/Banishment|Banishment]]_, _[[Spells/Summon Entity|Summon Entity]]_; __4th __ (3 slots) _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __ (3 slots) _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Slow|Slow]]_; __2nd __ (3 slots) _[[Spells/Peaceful Rest|Gentle Repose]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __ (3 slots) _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Extract Brain|Extract Brain]]_, _[[Spells/Inveigle|Inveigle]]_"
+    desc: "_Extract Brain_, _Inveigle_"
 
   - name: "Incite Insurrection"
     desc: "`pf2:r`  **Trigger** A creature within 30 feet of Ioseff fails a saving throw against one of his spells\n* * *\n\n**Effect** Ioseff infuses the magic of his spell with the agonies of his own death. In addition to any effects caused by the triggering spell, the target must also attempt a DC 28 Fortitude check save. or contract internal insurrection at stage 1 (stage 2 on a critical failure)\n\n**Internal Insurrection** (disease); **Level 7**.\n\nThe target can't recover from the clumsy condition from internal insurrection until the disease is cured\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 day)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 2]] (1 day)\n\n**Stage 3** clumsy 2 and [[Conditions/Off-Guard|Off-Guard]] (1 day)\n\n**Stage 4** [[Conditions/Clumsy|Clumsy 3]] and off-guard (1 day)\n\n**Stage 5** death, and the target's body splits apart into a mass of fragments that crawls outward in a 10-foot-emanation before perishing, leaving a bare skeleton surrounded by gore."

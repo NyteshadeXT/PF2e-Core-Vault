@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** trained in Deception
 * * *
-Your tricks make foes overextend their attacks. On a [[/act feint options=goading-feint]], you can use the following success and critical success effects instead of any other effects you would gain when you Feint; if you do, other abilities that adjust the normal effects of your Feint no longer apply. You can choose whether to use the Goading Feint benefits or the normal benefits each time you Feint a given foe.
+Your tricks make foes overextend their attacks. On a [[Actions/feint options=goading-feint|feint options=goading-feint]], you can use the following success and critical success effects instead of any other effects you would gain when you Feint; if you do, other abilities that adjust the normal effects of your Feint no longer apply. You can choose whether to use the Goading Feint benefits or the normal benefits each time you Feint a given foe.
 
 * * *
 

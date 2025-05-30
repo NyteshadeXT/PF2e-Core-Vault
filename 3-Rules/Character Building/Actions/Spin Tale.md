@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/auditory
   - trait/linguistic
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.hPZQ5vA9QHEPtjFW"
 license: OGL
 ---
 # Spin Tale `pf2:1`
 
-### [[3-Rules/Rule References/auditory]][[linguistic]]
+### [[auditory]][[linguistic]]
 
 **Category** interaction; 
 

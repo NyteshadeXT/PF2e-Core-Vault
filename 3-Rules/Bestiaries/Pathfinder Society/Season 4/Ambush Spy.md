@@ -52,18 +52,18 @@ abilities_top:
   - name: "Items"
     desc: "4x [[Equipment/Dagger|Dagger]], [[Equipment/Rapier|+1 Rapier]], [[Equipment/Leather Armor|Leather Armor]], [[Equipment/Clothing (Fine)|Clothing (Fine)]], [[Equipment/Disguise Kit|Disguise Kit]], [[Equipment/Thieves' Toolkit|Thieves' Tools]]"
   - name: "Noble's Ally"
-    desc: "  The ambush spy has positioned themself to seem a trusted ally, gaining a +2 circumstance bonus to [[Actions/Gather Information|Gather Information]] or to [[Actions/Make an Impression|Make an Impression]] among the nobles of that court."
+    desc: "  The ambush spy has positioned themself to seem a trusted ally, gaining a +2 circumstance bonus to [[Actions/gather-information options=nobles-ally|gather-information options=nobles-ally]] or to [[Actions/make-an-impression options=nobles-ally|make-an-impression options=nobles-ally]] among the nobles of that court."
 
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +16 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+16 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +14 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+14 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
 
   - name: "Hidden Blade"
     desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The ambush spy draws a weapon and then Strikes with it. The target of the Strike is [[Conditions/Off-Guard|Off-Guard]] against the attack."

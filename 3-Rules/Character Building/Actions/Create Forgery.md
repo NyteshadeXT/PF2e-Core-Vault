@@ -5,8 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/downtime
   - trait/secret
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.ftG89SjTSa9DYDOD"
@@ -14,7 +13,7 @@ license: ORC
 ---
 # Create Forgery
 
-### [[downtime]][[secret]][[skill]]
+### [[downtime]][[secret]]
 
 **Category** interaction; 
 
@@ -25,7 +24,7 @@ license: ORC
 
 * * *
 
-You create a forged document, usually over the course of a day or a week. The GM rolls a secret DC 20 Society check. If you need to forge a specific person's handwriting, you need a sample of that person's handwriting. Otherwise, you need only to have seen a similar document, and you gain up to a +4 circumstance bonus to the check (the GM determines the bonus).
+You create a forged document, usually over the course of a day or a week. The GM rolls a secret DC 20 [[Actions/create-forgery|create-forgery]]{Society} check. If you need to forge a specific person's handwriting, you need a sample of that person's handwriting. Otherwise, you need only to have seen a similar document, and you gain up to a +4 circumstance bonus to the check (the GM determines the bonus).
 
 * * *
 

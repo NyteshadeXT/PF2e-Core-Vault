@@ -56,6 +56,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Swarm Mind|Swarm Mind]]"
+    desc: "  This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
+
 attacks:
   - name: ""
 
@@ -63,7 +66,7 @@ attacks:
     desc: "`pf2:2`  The swarm eat away the very earth beneath their feet. The swarms Strides. All squares they occupy during their movement becomes difficult terrain. Any creatures they move through must succeed a DC 21 Reflex check save or fall [[Conditions/Prone|Prone]]."
 
   - name: "Maddening Gibbers"
-    desc: "`pf2:2` (auditory,mental) Each stupefied creature in the swarm's space must attempt a DC 21 Will check saving throw as the swarm yammers the endless chorus of the Outer Rifts.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune to Maddening Gibbers for 1 minute.\n\n**Success** The target is unaffected and is immune to Maddening Gibbers for 1 round.\n\n**Failure** The target becomes [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** The target becomes confused for 1 round and can't target demons while confused in this way."
+    desc: "`pf2:2` (auditory,mental) Each stupefied creature in the swarm's space must attempt a DC 21 Will check saving throw as the swarm yammers the endless chorus of the Outer Rifts.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune to Maddening Gibbers for 1 minute.\n\n**Success** The target is unaffected and is immune to Maddening Gibbers for 1 round.\n\n**Failure** The target becomes [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** The target becomes confused for 1 round and can't target fiends while confused in this way."
 
   - name: "Ravenous Bites"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 3d6 piercing damage (DC 20 Fortitude check save). A creature that fails its save is also [[Conditions/Stupefied|Stupefied 1]] for 1 round."

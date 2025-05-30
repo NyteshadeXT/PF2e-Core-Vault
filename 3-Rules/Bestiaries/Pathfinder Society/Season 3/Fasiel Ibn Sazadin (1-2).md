@@ -58,25 +58,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 (agile, magical)\n__Damage__  1d6 + 6 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (agile, magical, unarmed)\n__Damage__  1d6 + 6 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Antler +12 (magical)\n__Damage__  1d10 + 6 piercing plus knockdown"
+  - name: "**Melee** `pf2:1` Antler"
+    desc: "+12 (magical)\n__Damage__  1d10 + 6 piercing plus knockdown"
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +13 (two-hand d8)\n__Damage__  1d4 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+13 (two-hand d8)\n__Damage__  1d4 + 7 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +9 (range increment 20 feet)\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+9 (range increment 20 feet)\n__Damage__  1d6 + 6 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) Fasiel can take on the appearance of any Medium male humanoid. This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) Fasiel can take on the appearance of any Medium male humanoid. This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Frightening Rant"
     desc: "`pf2:1` (auditory,concentrate,emotion,fear,linguistic,mental,occult) Fasiel rants angrily, filling nearby creatures with shame, fear, and anger. Each creature within 30 feet must succeed at a DC 20 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure).\n\nWhile frightened by this rant, creatures take a -2 status penalty to Strength-based damage rolls against the skelm, but gain a +2 status bonus to those rolls against other creatures."
@@ -85,10 +85,10 @@ attacks:
     desc: "`pf2:1`  Fasiel unleashes his constant rage in a reckless attack that makes him [[Conditions/Off-Guard|Off-Guard]] until the start of his next turn. He Strikes; if he hits, he increases the number of damage dice by one and adds [[Bestiary Ability Glossary/Push|Push]] to the effect. This counts as two attacks for his multiple attack penalty."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

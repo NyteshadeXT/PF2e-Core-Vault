@@ -6,7 +6,7 @@ tags:
   - trait/emotion
   - trait/mental
   - trait/primal
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.IFQd4GiHlV33p7oK"
@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Nymph Queen) Inspiration `pf2:3`
 
-### [[emotion]][[3-Rules/trait_reference/M/mental]][[primal]]
+### [[emotion]][[mental]][[primal]]
 
 **Category** offensive; 
 

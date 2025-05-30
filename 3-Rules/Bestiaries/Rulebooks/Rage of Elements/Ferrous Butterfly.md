@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +9 (finesse)\n__Damage__  1 bleed plus a-thousand-cuts 1d4 + 2 slashing plus a-thousand-cuts"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+9 (finesse)\n__Damage__  1 bleed plus a-thousand-cuts 1d4 + 2 slashing plus a-thousand-cuts"
 
   - name: "A Thousand Cuts"
     desc: "  A ferrous butterfly's knifelike wings cause terrible lacerations that continue to bleed. Any creature with persistent bleed damage from a ferrous butterfly's wing attack has weakness 2 to slashing damage until the bleeding is stopped."

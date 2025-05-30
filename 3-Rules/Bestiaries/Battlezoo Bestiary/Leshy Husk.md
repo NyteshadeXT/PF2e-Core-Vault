@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Blighted Branch +5 (reach 10 feet)\n__Damage__  1d8 + 1 piercing"
+  - name: "**Melee** `pf2:1` Blighted Branch"
+    desc: "+5 (reach 10 feet)\n__Damage__  1d8 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blighted Seedpod +6 (range increment 30 feet)\n__Damage__  1d4 bludgeoning plus draining-impact"
+  - name: "**Ranged** `pf2:1` Blighted Seedpod"
+    desc: "+6 (range increment 30 feet)\n__Damage__  1d4 bludgeoning plus draining-impact"
 
   - name: "Innate Primal Spells"
     desc: "DC 12, attack +4; __4th __  _[[Spells/Speak with Plants|Speak with Plants (Constant; Trees Only)]]_"

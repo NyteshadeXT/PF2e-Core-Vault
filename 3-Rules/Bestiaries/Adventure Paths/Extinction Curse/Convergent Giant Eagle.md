@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +30 ()\n__Damage__  4d8 + 6 piercing plus convergent-tactics"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+30 (unarmed)\n__Damage__  4d8 + 6 piercing plus convergent-tactics"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talons +30 (agile)\n__Damage__  2d10 + 6 slashing plus convergent-tactics,grab"
+  - name: "**Melee** `pf2:1` Talons"
+    desc: "+30 (agile)\n__Damage__  2d10 + 6 slashing plus convergent-tactics,grab"
 
   - name: "Convergent Tactics"
     desc: "  The convergent eagle's attacks deal an extra 4d8 damage to creatures within reach of one of its allies with convergent tactics."
@@ -80,7 +80,7 @@ attacks:
     desc: "  A convergent eagle can [[Actions/Fly|Fly]] at half speed while it has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in its talons, carrying that creature along with it."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

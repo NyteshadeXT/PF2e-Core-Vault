@@ -14,14 +14,14 @@ license: OGL
 ---
 # (Blackfrost Dead) Blackfrost
 
-### [[3-Rules/trait_reference/C/cold]][[curse]][[3-Rules/trait_reference/D/disease]][[occult]]
+### [[cold]][[curse]][[disease]][[occult]]
 
 **Category** offensive; 
 
 
 
 
-This affliction can't be reduced below stage 1, nor the damage from it healed, until successfully treated with [[Cleanse Affliction|Cleanse Affliction]] or a similar effect; the affliction can then be removed as a normal disease. A creature that dies from cold damage while cursed with blackfrost rises as a blackfrost dead after 24 hours. Blackfrost has a counteract rank of 10.
+This affliction can't be reduced below stage 1, nor the damage from it healed, until successfully treated with [[Spells/Cleanse Affliction|Cleanse Affliction]] or a similar effect; the affliction can then be removed as a normal disease. A creature that dies from cold damage while cursed with blackfrost rises as a blackfrost dead after 24 hours. Blackfrost has a counteract rank of 10.
 
 **Saving Throw** DC 27 Fortitude check
 

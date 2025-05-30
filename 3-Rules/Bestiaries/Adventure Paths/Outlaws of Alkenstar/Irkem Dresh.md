@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +8 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+8 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flintlock Pistol +9 (concussive, fatal d8, range 40 feet, reload 1)\n__Damage__  1d4 piercing"
+  - name: "**Ranged** `pf2:1` Flintlock Pistol"
+    desc: "+9 (concussive, fatal d8, range 40 feet, reload 1)\n__Damage__  1d4 piercing"
 
   - name: "Generous Distraction"
     desc: "  Dresh can use the promise of wealth to distract her foes. When she succeeds or critically succeeds on a Deception check to [[Actions/Feint|Feint]] against a target within 30 feet, the target is [[Conditions/Off-Guard|Off-Guard]] against her ranged attacks as well as her melee Strikes."

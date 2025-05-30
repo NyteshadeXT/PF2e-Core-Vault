@@ -7,13 +7,13 @@ tags:
   - trait/emotion
   - trait/fear
   - trait/mental
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.actionspf2e.Item.XH133DE3daobeav1"
 license: OGL
 ---
 # Screaming Skull `pf2:2`
 
-### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Emotion]][[3-Rules/Trait Reference/F/fear]][[3-Rules/Rule References/Mental]]
+### [[auditory]][[emotion]][[fear]][[mental]]
 
 
 

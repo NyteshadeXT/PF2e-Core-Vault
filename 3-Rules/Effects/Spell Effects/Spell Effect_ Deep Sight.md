@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Deep Sight|Deep Sight]]
+Granted by [[Spells/Deep Sight|Deep Sight]]
 
 You gain darkvision.
 

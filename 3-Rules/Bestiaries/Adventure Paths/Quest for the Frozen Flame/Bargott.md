@@ -56,16 +56,19 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Blighted Branch +11 (finesse, magical, reach 10 feet)\n__Damage__  1d10 + 7 bludgeoning plus draining-impact"
+  - name: "**Melee** `pf2:1` Blighted Branch"
+    desc: "+11 (finesse, magical, reach 10 feet)\n__Damage__  1d10 + 7 bludgeoning plus draining-impact"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile, finesse, magical)\n__Damage__  1d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, finesse, magical, unarmed)\n__Damage__  1d8 + 7 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9; __2nd __ (2 slots) _[[Spells/Darkness|Darkness]]_, _[[Spells/Shatter|Shatter]]_; __1st __  _[[Spells/Fear|Fear]]_\n__Cantrips__  __(2nd)__ _[[Spells/Tangle Vine|Tanglefoot]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
@@ -74,7 +77,7 @@ attacks:
     desc: " (primal) When Bargott hits a creature with his blighted branch Strike, the creature must attempt a DC 20 Fortitude check save. Whatever the result, the creature is immune to Bargott's draining impact for 24 hours.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Drained|Drained 1]].\n\n**Critical Failure** The creature is [[Conditions/Drained|Drained 2]]."
 
   - name: "Impart Anguish"
-    desc: "`pf2:2` (mental,primal,visual) Bargott twists his face into a visage of utter agony, sharing his anguish with those who gaze upon him. Creatures in a @Template[cone|distance:15] take 3d6 mental damage (DC 19 Will check). On a critically failed save, the creature is also [[Conditions/Stupefied|Stupefied 1]] for 1 round."
+    desc: "`pf2:2` (mental,primal,visual) Bargott twists his face into a visage of utter agony, sharing his anguish with those who gaze upon him. Creatures in a 15-foot cone take 3d6 mental damage (DC 19 Will check). On a critically failed save, the creature is also [[Conditions/Stupefied|Stupefied 1]] for 1 round."
  
 ```
 

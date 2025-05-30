@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Feats/Guided Skill|Guided Skill]]
+
 You gain a +2 status bonus to checks made using Acrobatics, Occultism, Stealth, or Survival.
 
 *Source: Pathfinder #188: They Watched the Stars*

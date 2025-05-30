@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Shrink Down
 * * *
-Your eidolon can shrink even further. When using Shrink Down, your eidolon can reduce its size to Tiny
+Your eidolon can shrink even further. When using [[Feats/Shrink Down|Shrink Down]], your eidolon can reduce its size to Tiny. When Tiny, its reach is 0 feet.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

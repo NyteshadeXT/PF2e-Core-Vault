@@ -18,5 +18,5 @@ license: OGL
 
 As you stray from the truth, dissonant notes seem to interrupt you whenever you speak. You take a -2 status penalty to all Deception checks.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

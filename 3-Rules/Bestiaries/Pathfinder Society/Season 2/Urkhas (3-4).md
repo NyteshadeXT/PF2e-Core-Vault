@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shock +12 (electricity, magical, unholy)\n__Damage__  2d4 + 2 electricity 1d4 spirit"
+  - name: "**Melee** `pf2:1` Shock"
+    desc: "+12 (electricity, magical, unholy)\n__Damage__  2d4 + 2 electricity 1d4 spirit"
 
   - name: "Feed on Fear"
-    desc: "`pf2:1` (concentrate) **Requirements** An enemy is being affected by a fear effect or [[Conditions/Dying|Dying]] within 15 feet of the will-o'-wisp.\n* * *\n\n**Effect** Urkhas feeds on the creature's terror. It regains 1d4 Hit Points, and if it has Gone Dark, its glow reignites.\n\nUrkhas can take this action only once per round."
+    desc: "`pf2:1` (concentrate) **Requirements** An enemy is being affected by a fear effect or [[Conditions/Dying|Dying]] within 15 feet of the will-o'-wisp.\n* * *\n\n**Effect** Urkhas feeds on the creature's terror. It regains 1d4 healing Hit Points, and if it has Gone Dark, its glow reignites.\n\nUrkhas can take this action only once per round."
 
   - name: "Go Dark"
     desc: "`pf2:1` (concentrate) Urkhas extinguishes its glow, becoming [[Conditions/Invisible|Invisible]]. It can end this effect with another use of this action. If it uses its shock attack while invisible, the arc of electricity lets any observer determine its location, making the Urkhas only [[Conditions/Hidden|Hidden]] to all observers until it moves."

@@ -62,23 +62,26 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hunk Of Meat +20 (reach 15 feet)\n__Damage__  2d10 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Hunk Of Meat"
+    desc: "+20 (reach 15 feet)\n__Damage__  2d10 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hunk Of Meat +12 (thrown 10 ft.)\n__Damage__  2d10 + 13 bludgeoning"
+  - name: "**Ranged** `pf2:1` Hunk Of Meat"
+    desc: "+12 (thrown 10 ft.)\n__Damage__  2d10 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Corpse +20 (brutal, range increment 30 feet)\n__Damage__  2d6 + 13 bludgeoning"
+  - name: "**Ranged** `pf2:1` Corpse"
+    desc: "+20 (brutal, range increment 30 feet)\n__Damage__  2d6 + 13 bludgeoning"
 
   - name: "Corpse Throwing"
-    desc: "  A zombie hulk can throw corpses at foes. While any Medium dead body will do, they sometimes throw [[Bestiary 1/Zombie Shambler|Zombie Shamblers]], who take just as much damage from being thrown as the target they hit. A thrown shambler lands [[Conditions/Prone|Prone]], but if it's not destroyed, it can rise and use other actions normally."
+    desc: "  A zombie hulk can throw corpses at foes. While any Medium dead body will do, they sometimes throw [[Monster Core/Zombie Shambler|Zombie Shamblers]], who take just as much damage from being thrown as the target they hit. A thrown shambler lands [[Conditions/Prone|Prone]], but if it's not destroyed, it can rise and use other actions normally."
 
   - name: "Feast"
-    desc: "`pf2:2` (manipulate) If the enduring zombie hulk is adjacent to a helpless or [[Conditions/Unconscious|Unconscious]] creature, or a deceased creature that died in the past hour, the zombie hulk can feast upon its flesh to heal itself. This restores 8 Hit Points to the zombie hulk and deals the creature 2d10+13 bludgeoning damage."
+    desc: "`pf2:2` (manipulate) If the enduring zombie hulk is adjacent to a helpless or [[Conditions/Unconscious|Unconscious]] creature, or a deceased creature that died in the past hour, the zombie hulk can feast upon its flesh to heal itself. This restores 8 healing Hit Points to the zombie hulk and deals the creature 2d10+13 bludgeoning damage."
 
   - name: "Wide Swing"
     desc: "`pf2:1`  The zombie hulk makes a hunk of meat Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within the Strike's reach. This attack counts as two attacks for the zombie hulk's multiple attack penalty."

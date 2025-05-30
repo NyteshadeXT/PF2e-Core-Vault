@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +18 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+18 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +20 (deadly 2d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+20 (deadly 2d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 4 piercing"
 
   - name: "Poison Weapon"
     desc: "`pf2:1` (manipulate) **Requirements** The assassin is wielding a piercing or slashing weapon and has a free hand.\n* * *\n\n**Effect** The assassin applied a poison to the weapon."

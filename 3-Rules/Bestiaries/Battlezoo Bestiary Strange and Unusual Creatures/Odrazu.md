@@ -43,7 +43,7 @@ perception:
 languages: "Common, Diabolic, Draconic, Empyrean; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Deception: +12, Diplomacy: +12, Intimidation: +12, Performance: +11, Religion: +10, Society: +12, Stealth: +12, Deception: +12, Diplomacy: +12, Intimidation: +12, Performance: +11, Religion: +10, Society: +12, Stealth: +12"
+    desc: "Deception: +12, Diplomacy: +12, Intimidation: +12, Performance: +11, Religion: +10, Society: +12, Stealth: +12"
 abilityMods: [1, 4, 1, 4, 4, 5]
 speed: 10 feet,  fly 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -73,11 +73,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +14 (finesse, reach 10 feet, unholy)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+14 (finesse, reach 10 feet, unholy)\n__Damage__  2d6 + 4 bludgeoning 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Eyestalk +14 (agile, finesse, reach 10 feet, unholy)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Eyestalk"
+    desc: "+14 (agile, finesse, reach 10 feet, unholy)\n__Damage__  2d4 + 4 bludgeoning plus clouded-vision 1d6 spirit plus clouded-vision"
 
   - name: "Clouded Vision"
     desc: " (visual) A creature struck by an odrazu's eyestalk is [[undefined]] for 1 round, or for 2 rounds on a critical hit."

@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 (agile, finesse, unholy)\n__Damage__  1d8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (agile, finesse, unarmed, unholy)\n__Damage__  1d8 piercing"
 
   - name: "Evil Musk"
-    desc: "`pf2:2` (poison) The fetid familiar propels a stream of acrid musk in a @Template[line|distance:10]. Each creature in the line must attempt a DC 15 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The target is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The target is [[Conditions/Sickened|Sickened 2]] and becomes [[Conditions/Doomed|Doomed 1]] until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap."
+    desc: "`pf2:2` (poison) The fetid familiar propels a stream of acrid musk in a 10-foot line. Each creature in the line must attempt a DC 15 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The target is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The target is [[Conditions/Sickened|Sickened 2]] and becomes [[Conditions/Doomed|Doomed 1]] until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap."
  
 ```
 

@@ -4,7 +4,7 @@ title: "Deceptive Sidestep"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/misfortune
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.1LDOfV8jEka09eXr"

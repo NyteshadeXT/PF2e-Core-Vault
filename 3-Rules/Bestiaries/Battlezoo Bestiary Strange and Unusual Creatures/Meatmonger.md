@@ -37,7 +37,7 @@ perception:
 languages: "Common, Fey, Jotun, Necril"
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, Crafting: +13, Diplomacy: +13, Athletics: +15, Crafting: +13, Diplomacy: +13, Cooking Lore: +15"
+    desc: "Athletics: +15, Crafting: +13, Diplomacy: +13, Cooking Lore: +15"
 abilityMods: [5, 2, 5, 2, 4, 4]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -68,17 +68,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +17 (agile, sweep)\n__Damage__  2d6 + 9 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+17 (agile, sweep)\n__Damage__  2d6 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +12 (agile, sweep, thrown 10 ft.)\n__Damage__  2d6 + 9 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+12 (agile, sweep, thrown 10 ft.)\n__Damage__  2d6 + 9 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +17 (agile, finesse, versatile s)\n__Damage__  2d4 + 9 piercing 1d4 bleed"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+17 (agile, finesse, versatile s)\n__Damage__  2d4 + 9 piercing 1d4 bleed"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +12 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  2d4 + 9 piercing 1d4 bleed"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+12 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  2d4 + 9 piercing 1d4 bleed"
 
   - name: "Barreling Butcher"
     desc: "`pf2:2`  The meatmonger strides twice and makes a hatchet Strike."

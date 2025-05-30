@@ -53,6 +53,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Vine Sense"
     desc: "  The timberweb has imprecise tremorsense to detect the vibrations of creatures touching its spun vines."
 
@@ -61,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +29 ()\n__Damage__  3d8 + 17 piercing plus timberweb-toxin"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+29 ()\n__Damage__  3d8 + 17 piercing plus timberweb-toxin"
 
-  - name: "Melee"
-    desc: "`pf2:1` Leg +29 (agile, reach 10 feet)\n__Damage__  3d6 + 15 slashing"
+  - name: "**Melee** `pf2:1` Leg"
+    desc: "+29 (agile, reach 10 feet)\n__Damage__  3d6 + 15 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Vine +27 (range increment 30 feet)\n__Damage__  3d6 + 12 bludgeoning plus tree-tether"
+  - name: "**Ranged** `pf2:1` Vine"
+    desc: "+27 (range increment 30 feet)\n__Damage__  3d6 + 12 bludgeoning plus tree-tether"
 
   - name: "Rappel"
     desc: "`pf2:1` (move) The timberweb moves straight down up to 60 feet on a spun vine. It can hang from the vine or drop off. The distance it descends doesn't count toward falling damage. A creature that successfully Strikes the vine (AC 36, Hardness 8, 30 HP) severs it, causing the timberweb to fall."

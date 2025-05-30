@@ -35,7 +35,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +19, Stealth: +18, Athletics: +19, Stealth: +18"
+    desc: "Athletics: +19, Stealth: +18"
 abilityMods: [7, 2, 7, -3, 5, -3]
 speed: 10 feet,  burrow 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Leg +23 (reach 10 feet)\n__Damage__  2d12 + 13 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Leg"
+    desc: "+23 (reach 10 feet)\n__Damage__  2d12 + 13 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mucus +21 (agile, range increment 60 feet)\n__Damage__  2d8 + 4 acid plus mucous-residue"
+  - name: "**Ranged** `pf2:1` Mucus"
+    desc: "+21 (agile, range increment 60 feet)\n__Damage__  2d8 + 4 acid plus mucous-residue"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

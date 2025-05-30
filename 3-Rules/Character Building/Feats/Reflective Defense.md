@@ -13,7 +13,7 @@ license: OGL
 ---
 # Reflective Defense `pf2:r`
 ## Feat 1
-### [[3-Rules/trait_reference/L/light]][[talos]]
+### [[light]][[talos]]
 
 **Category** ancestry; 
 

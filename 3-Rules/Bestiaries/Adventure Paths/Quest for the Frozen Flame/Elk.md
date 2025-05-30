@@ -51,16 +51,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Buck|Buck]]"
-    desc: "`pf2:r`  DC 17 Reflex check"
+    desc: "`pf2:r`  DC 17 Reflex check\n* * *\n\nMost monsters that serve as mounts can attempt to buck off unwanted or annoying riders, but most mounts will not use this reaction against a trusted creature unless the mounts are spooked or mistreated.\n\n**Trigger** A creature [[Actions/Mount|Mounts]] or uses the [[Actions/Command an Animal|Command an Animal]] action while riding the monster.\n* * *\n\n**Effect** The triggering creature must succeed at a Reflex saving throw against the listed DC or fall off the creature and land [[Conditions/Prone|Prone]]. If the save is a critical failure, the triggering creature also takes 1d6 bludgeoning damage in addition to the normal damage for the fall."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Antlers +9 ()\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Antlers"
+    desc: "+9 ()\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +9 ()\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+9 ()\n__Damage__  1d4 + 4 bludgeoning"
 
   - name: "Startled Charge"
     desc: "`pf2:2`  **Requirements** It's the first round of combat\n* * *\n\n**Effect** The elk Strides twice and makes a hoof Strike at the end of either Stride. If the Strike hits, the elk deals an additional 1d4 piercing damage."

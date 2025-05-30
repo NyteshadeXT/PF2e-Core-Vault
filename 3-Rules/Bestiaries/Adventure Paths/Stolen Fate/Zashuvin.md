@@ -57,6 +57,12 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/The Big Sky|The Big Sky]], [[Equipment/Religious Symbol (Silver)|Religious Symbol of Pazuzu (Ruby)]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense (Imprecise) 120 feet]]"
+    desc: " (divine) Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Dominate the Air"
@@ -65,14 +71,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +24 (finesse, magical, reach 15 feet, unholy)\n__Damage__  1d6 bleed 2d10 + 11 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+24 (finesse, magical, reach 15 feet, unarmed, unholy)\n__Damage__  1d6 bleed 2d10 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +24 (agile, finesse, magical, reach 10 feet, unholy)\n__Damage__  1d6 bleed 2d6 + 11 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+24 (agile, finesse, magical, reach 10 feet, unarmed, unholy)\n__Damage__  1d6 bleed 2d6 + 11 slashing"
 
   - name: "Primal Innate Spells"
-    desc: "DC 30, attack +22; __6th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Earthbind|Earthbind (At Will)]]_, _[[Spells/Gust of Wind|Gust of Wind]]_; __5th __  _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Fear|Fear (At Will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 30, attack +22; __6th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Earthbind|Earthbind (At Will)]]_, _[[Spells/Gust of Wind|Gust of Wind]]_; __5th __  _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Fear|Fear (At Will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
 
   - name: "Dive Bomb"
     desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The hurlilu Strides using its fly Speed and makes a Strike at the end of that movement."

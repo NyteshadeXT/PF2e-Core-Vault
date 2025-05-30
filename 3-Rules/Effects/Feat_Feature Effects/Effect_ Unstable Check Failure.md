@@ -16,7 +16,9 @@ license: OGL
 
 
 
-On a failure, the innovation malfunctions in a spectacular (though harmless) fashion, such as a belch of smoke or shower of sparks, and it becomes incapable of being used for further unstable actions.
+Granted by [[Class Features/Innovation|Innovation]] failing an Unstable check
+
+The innovation malfunctions in a spectacular (though harmless) fashion, such as a belch of smoke or shower of sparks, and it becomes incapable of being used for further unstable actions.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

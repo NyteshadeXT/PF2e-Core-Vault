@@ -21,5 +21,5 @@ license: OGL
 * * *
 You know how to clear a line of fire for your allies. You don't provide lesser cover to enemies against your allies' attacks.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

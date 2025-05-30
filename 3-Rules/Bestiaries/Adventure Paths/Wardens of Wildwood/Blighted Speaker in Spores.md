@@ -60,6 +60,9 @@ abilities_top:
   - name: "Sporesight (Imprecise) 120 feet"
     desc: "  The speaker in spores can see through spores drifting in the air, ignoring cover. This is an imprecise sense and functions only in areas without strong wind currents. Sporesight doesn't function underwater."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Blight Walker"
@@ -71,17 +74,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +28 (reach 10 feet)\n__Damage__  1d6 poison 3d10 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+28 (reach 10 feet)\n__Damage__  1d6 poison 3d10 + 13 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 33, attack +25\n__Constant__  __(5th)__ _[[Spells/Environmental Endurance|Environmental Endurance]]_, _[[Spells/Fly|Fly]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Blight|Blight]]_"
+    desc: "_Blight_"
 
   - name: "Accelerate Decay"
-    desc: "`pf2:2` (primal,void) The speaker in spores unleashes void energy that forces desiccation in a @Template[emanation|distance:30]. Each living creature in the area takes 14d6 void damage (DC 33 Fortitude check save). Creatures afflicted by a disease take a –2 circumstance penalty to this save.\n\nAll Small or smaller non-magical plant life (though not plant creatures) in the area wither and die, eliminating any cover or concealment and leaving difficult terrain in their wake.\n\nThe speaker in spores is immune to this effect and can't use this ability again for 1d4 rounds."
+    desc: "`pf2:2` (primal,void) The speaker in spores unleashes void energy that forces desiccation in a 30-foot emanation. Each living creature in the area takes 14d6 void damage (DC 33 Fortitude check save). Creatures afflicted by a disease take a –2 circumstance penalty to this save.\n\nAll Small or smaller non-magical plant life (though not plant creatures) in the area wither and die, eliminating any cover or concealment and leaving difficult terrain in their wake.\n\nThe speaker in spores is immune to this effect and can't use this ability again for 1d4 rounds."
 
   - name: "Ayrzul's Blight"
     desc: " (disease,earth,primal) Radioactive elemental energy courses through sap and blood, petrifies bark and bone, withers flesh, and mutates life. Creatures with the wood or plant trait treat critical successes against the disease as successes. The drained condition caused by Ayrzul's Blight can't be healed until the disease is removed. Ayrzul's Blight presents with obvious but varying symptoms, from coughing up black dust to suddenly becoming covered in itchy patches of flaky stone.\n\n**Saving Throw** DC 33 Fortitude check\n\n**Onset** 1 day\n\n**Stage 1** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained 2]] (1 day)\n\n**Stage 3** [[Conditions/Drained|Drained 3]] (1 day)\n\n**Stage 4** [[Conditions/Drained|Drained 4]] (1 day)\n\n**Stage 5** mutation (on a failure) or death (on a critical failure)"

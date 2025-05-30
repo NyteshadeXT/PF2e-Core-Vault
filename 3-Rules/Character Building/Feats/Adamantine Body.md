@@ -26,5 +26,5 @@ license: ORC
 
 With your strong will and even stronger body, you shrug off an otherwise devastating blow. You gain resistance equal to 2 + half your level against all damage from the triggering attack or effect.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

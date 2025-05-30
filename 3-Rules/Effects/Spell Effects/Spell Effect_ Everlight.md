@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Everlight|Everlight]]
+Granted by [[Spells/Everlight|Everlight]]
 
 The gemstone you touch glows, spreading bright light in a 20-foot radius (and dim light for the next 20 feet).
 

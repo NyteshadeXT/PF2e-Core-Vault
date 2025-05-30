@@ -52,16 +52,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 ()\n__Damage__  1d10 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (unarmed)\n__Damage__  1d10 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +12 (agile)\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+12 (agile, unarmed)\n__Damage__  1d6 + 6 bludgeoning"
  
 ```
 

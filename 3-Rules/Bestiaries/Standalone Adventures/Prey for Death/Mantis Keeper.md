@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Verdant Scythe +31 (deadly d10, magical, trip)\n__Damage__  1d6 sonic 3d10 + 12 slashing 1d6 acid"
+  - name: "**Melee** `pf2:1` Verdant Scythe"
+    desc: "+31 (deadly d10, magical, trip)\n__Damage__  1d6 sonic 3d10 + 12 slashing 1d6 acid"
 
   - name: "Primal Prepared Spells"
     desc: "DC 38, attack +30; __9th __  _[[Spells/Implosion|Implosion]]_, _[[Spells/Massacre|Massacre]]_; __7th __  _[[Spells/Execute|Execute]]_, _[[Spells/Regenerate|Regenerate]]_; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Cursed Metamorphosis|Cursed Metamorphosis]]_, _[[Spells/Petrify|Petrify]]_, _[[Spells/Truesight|Truesight]]_; __5th __  _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __  _[[Spells/Fly|Fly]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/Animal Messenger|Animal Messenger]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Entangling Flora|Entangling Flora]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Revealing Light|Revealing Light]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(9th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tangle Vine]]_"
@@ -67,7 +67,7 @@ attacks:
     desc: "1 Focus Point, DC 38, attack +30; __9th __  _[[Spells/Heal Animal|Heal Animal]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Awaken Animal|Awaken Animal]]_, _[[Spells/Commune|Commune]]_, _[[Spells/Control Weather|Control Weather]]_, _[[Spells/Primal Call|Primal Call]]_"
+    desc: "_Awaken Animal_, _Commune_, _Control Weather_, _Primal Call_"
 
   - name: "Mantis Commander"
     desc: "  Mantis Keeper belongs to the animal druidic order, yet they don't have a single animal companion. Instead, they are served by the deadly mantises that dwell upon Mediogalti Isle, and their command over them is bolstered by the Mantis Stones. At any one time, Mantis Keeper is attended by two of these enormous insects, each of which treat Mantis Keeper as a valued ally. Mantis Keeper can communicate with any form of deadly mantis by speaking Wildsong to them, although the mantises cannot reply. These deadly mantises do not have the minion trait, and Mantis Keeper need not Command an Animal to command them—they can simply issue orders via Wildsong as a free action."

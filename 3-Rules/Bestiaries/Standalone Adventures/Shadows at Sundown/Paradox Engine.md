@@ -47,7 +47,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Disable"
-    desc: "DC 41 Thievery check (expert) to feel the subtle vibrations when moving a rune to shift into the right position, or DC 38 33 check (master) while being able to read Thassilonian to work out the anagram puzzle using traditional means, or [[Spells/Dispel Magic|Dispel Magic]] (7th level; counteract DC 34)"
+    desc: "DC 41 Thievery check (expert) to feel the subtle vibrations when moving a rune to shift into the right position, or DC 33 Thassilon Lore check (expert) or DC 38 Society check (master) while being able to read Thassilonian to work out the anagram puzzle using traditional means, or [[Spells/Dispel Magic|Dispel Magic]] (7th rank; counteract DC 34)"
 attacks:
   - name: ""
 

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Radiant Oath Champion"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.M8cJ8qOwWj7XN6h1"
 license: OGL
 ---
 # Radiant Oath Champion
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

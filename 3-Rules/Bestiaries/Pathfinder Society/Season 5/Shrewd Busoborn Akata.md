@@ -68,14 +68,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 (agile)\n__Damage__  2d12 + 4 piercing plus void-death"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (agile, unarmed)\n__Damage__  2d12 + 4 piercing plus void-death"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle Vine +17 (agile, reach 10 feet, trip)\n__Damage__  2d10 + 4 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Tentacle Vine"
+    desc: "+17 (agile, reach 10 feet, trip)\n__Damage__  2d10 + 4 bludgeoning plus grab"
 
   - name: "Grasping Tendrils"
-    desc: "`pf2:2` (manipulate) The busoborn akata presses one of its tentacle vines to the ground and causes it to spread beneath creatures in a @Template[cone|distance:15] in front of it. Until the end of its next turn, the area is difficult terrain to enemy creatures, and the akata gains a +2 circumstance bonus to attack rolls against targets within that area\n* * *\n\n**Special** The akata can only use this ability if it has no more than one creature grappled."
+    desc: "`pf2:2` (manipulate) The busoborn akata presses one of its tentacle vines to the ground and causes it to spread beneath creatures in a 15-foot cone in front of it. Until the end of its next turn, the area is difficult terrain to enemy creatures, and the akata gains a +2 circumstance bonus to attack rolls against targets within that area\n* * *\n\n**Special** The akata can only use this ability if it has no more than one creature grappled."
 
   - name: "Pack Attack"
     desc: "  The busoborn akata's Strikes deal an additional 1d10 damage to creatures within reach of at least two of its allies."
@@ -84,7 +84,7 @@ attacks:
     desc: " (disease) An akata implants its parasitic larval young into any creature it bites, but only Medium or Small humanoids make suitable hosts; all other creatures are immune to this disease\n\n**Saving Throw** DC 17 Fortitude check\n\n**Stage 1** carrier with no ill effect 1 (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** drained 2 and [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead and corpse rises as a void zombie in 2d4 hours"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

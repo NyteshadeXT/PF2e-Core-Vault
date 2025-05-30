@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/alchemist
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.00LNVSCbwJ8pszwE"
 license: OGL
 ---
 # Mutagenic Flashback `pf2:0`
 
-### [[alchemist]][[3-Rules/Rule References/Manipulate]]
+### [[alchemist]][[manipulate]]
 
 **Category** interaction; 
 

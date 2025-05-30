@@ -17,13 +17,9 @@ license: ORC
 
 
 
-Granted by [[Dinosaur Form|Dinosaur Form]]
+Granted by [[Spells/Dinosaur Form|Dinosaur Form]]
 
-You channel the primal forces of nature to transform into a Large animal battle form, specifically that of a powerful and terrifying dinosaur. You must have space to expand or the spell is lost.
-
-You can decide the specific type of animal, but this has no effect on the form's Size or statistics. While in this form, you gain the animal and dinosaur traits. You can Dismiss the spell.
-
-You gain the following statistics and abilities regardless of which battle form you choose:
+You transform into a Large animal battle form, specifically that of a powerful and terrifying dinosaur. While in this form, you gain the animal and dinosaur traits. You gain the following statistics and abilities regardless of which battle form you choose:
 
 *   AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.
 *   15 temporary Hit Points.
@@ -34,6 +30,7 @@ You gain the following statistics and abilities regardless of which battle form 
 You also gain specific abilities based on the form you choose:
 
 *   **Triceratops**
+    
     *   Speed 30 feet;
     *   **Melee** `pf2:1` horn, Damage 2d8 piercing, plus 1d6 bleed on a critical hit;
     *   **Melee** `pf2:1` foot, Damage 2d6 bludgeoning.

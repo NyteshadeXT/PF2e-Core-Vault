@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Machete +10 (deadly d8, sweep)\n__Damage__  1d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Machete"
+    desc: "+10 (deadly d8, sweep)\n__Damage__  1d6 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +8 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+8 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Devil's Breath"
-    desc: "`pf2:2` (divine,fire) **Frequency** once per day\n* * *\n\n**Effect** The Devil's Disciple cuts their tongue with a slashing weapon held in a hand (taking 1 slashing damage), then exhales a @Template[cone|distance:15] of burning smoke. Each creature in the area must attempt a DC 18 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 1d8 fire damage.\n\n**Failure** The creature takes 2d8 fire damage and is [[Conditions/Sickened|Sickened 1]] by the agonizing pain of the burns.\n\n**Critical Failure** The creature takes 4d8 fire damage, is sickened 1 by the agonizing pain of the burns, and is [[Conditions/Enfeebled|Enfeebled 1]] by the smoke for 1 minute."
+    desc: "`pf2:2` (divine,fire) **Frequency** once per day\n* * *\n\n**Effect** The Devil's Disciple cuts their tongue with a slashing weapon held in a hand (taking 1 slashing damage), then exhales a 15-foot cone of burning smoke. Each creature in the area must attempt a DC 18 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 1d8 fire damage.\n\n**Failure** The creature takes 2d8 fire damage and is [[Conditions/Sickened|Sickened 1]] by the agonizing pain of the burns.\n\n**Critical Failure** The creature takes 4d8 fire damage, is sickened 1 by the agonizing pain of the burns, and is [[Conditions/Enfeebled|Enfeebled 1]] by the smoke for 1 minute."
  
 ```
 

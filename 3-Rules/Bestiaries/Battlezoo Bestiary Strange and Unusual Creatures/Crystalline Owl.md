@@ -35,7 +35,7 @@ perception:
 languages: "Fey; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Stealth: +8, Survival: +7, Acrobatics: +8, Stealth: +8, Survival: +7"
+    desc: "Acrobatics: +8, Stealth: +8, Survival: +7"
 abilityMods: [1, 4, 2, 2, 3, 3]
 speed: 10 feet,  fly 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +10 (finesse, reach 0 feet)\n__Damage__  1d10 + 3 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+10 (finesse, reach 0 feet)\n__Damage__  1d10 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +10 (agile, finesse)\n__Damage__  1d8 + 3 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+10 (agile, finesse)\n__Damage__  1d8 + 3 slashing"
 
   - name: "Flyby Attack"
     desc: "`pf2:2`  The crystalline owl Flies and makes a talon Strike at any point along the way."

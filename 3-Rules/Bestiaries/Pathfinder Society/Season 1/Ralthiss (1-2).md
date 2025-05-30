@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Morningstar +8 (versatile p)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Morningstar"
+    desc: "+8 (versatile p)\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +8 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+8 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 20, attack +10; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(1st)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Know the Way|Know Direction]]_"

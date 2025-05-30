@@ -52,19 +52,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pick +13 (fatal d10, reach 10 feet)\n__Damage__  1d6 + 7 piercing"
-
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile, reach 10 feet)\n__Damage__  2d4 + 7 slashing"
-
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +13 ()\n__Damage__  2d6 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+13 (unarmed)\n__Damage__  2d6 + 7 bludgeoning"
 
   - name: "Belly Hatch"
     desc: "  The daelum can Interact to stow or remove an item from their belly hatch, which can hold up to 10 Bulk."
@@ -76,7 +70,7 @@ attacks:
     desc: "`pf2:1`  The daelum transforms into a quadruped. While in this form, their Speed increases by 10 feet and they don't count the contents of their belly hatch against the total amount they can carry. The daelum can make hoof Strikes in quadruped form, but not pick or claw Strikes. Using this ability again returns the daelum to their bipedal form."
 
   - name: "Smog Cloud"
-    desc: "`pf2:2` (arcane,poison) The daelum unleashes a cloud of smog in a @Template[emanation|distance:10]. The cloud persists for 3 rounds, but doesn't move with the daelum. All creatures within the cloud are [[Conditions/Concealed|Concealed]]. A creature that begins its turn in the smog cloud must attempt a DC 18 Fortitude check save (creatures that must breathe and don't hold their breath take a -2 circumstance penalty on their save).\n* * *\n\n**Critical Success** No effect and temporarily immune for 1 hour.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature is sickened 2 and [[Conditions/Slowed|Slowed 1]]."
+    desc: "`pf2:2` (arcane,poison) The daelum unleashes a cloud of smog in a 10-foot emanation. The cloud persists for 3 rounds, but doesn't move with the daelum. All creatures within the cloud are [[Conditions/Concealed|Concealed]]. A creature that begins its turn in the smog cloud must attempt a DC 18 Fortitude check save (creatures that must breathe and don't hold their breath take a -2 circumstance penalty on their save).\n* * *\n\n**Critical Success** No effect and temporarily immune for 1 hour.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature is sickened 2 and [[Conditions/Slowed|Slowed 1]]."
  
 ```
 

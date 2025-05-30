@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Skeleton) Bloody"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.P5YTG6I8ci4lwhZ1"

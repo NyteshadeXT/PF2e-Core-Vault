@@ -58,25 +58,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Orc Knuckle Dagger +6 (agile, disarm)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Orc Knuckle Dagger"
+    desc: "+6 (agile, disarm)\n__Damage__  1d6 + 1 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +5 (agile)\n__Damage__  1d4 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+5 (agile, unarmed)\n__Damage__  1d4 + 1 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Acid Flask (Lesser) +7 (bomb, consumable, splash)\n__Damage__  1 acid 1d6 acid 1 acid"
+  - name: "**Melee** `pf2:1` Acid Flask (Lesser)"
+    desc: "+7 (bomb, consumable, splash)\n__Damage__  1 acid 1d6 acid 1 acid"
 
-  - name: "Melee"
-    desc: "`pf2:1` Alchemist&#x27;s Fire (Lesser) +7 (bomb, consumable, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
+  - name: "**Melee** `pf2:1` Alchemist&#x27;s Fire (Lesser)"
+    desc: "+7 (bomb, consumable, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Bottled Lightning (Lesser) +7 (bomb, consumable, splash)\n__Damage__  1d6 electricity 1 electricity"
+  - name: "**Melee** `pf2:1` Bottled Lightning (Lesser)"
+    desc: "+7 (bomb, consumable, splash)\n__Damage__  1d6 electricity 1 electricity"
  
 ```
 

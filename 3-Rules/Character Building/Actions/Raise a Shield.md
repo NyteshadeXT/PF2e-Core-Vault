@@ -3,8 +3,7 @@ obsidianUIMode: preview
 title: "Raise a Shield"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.xjGwis0uaC2305pm"
@@ -12,7 +11,7 @@ license: ORC
 ---
 # Raise a Shield `pf2:1`
 
-### [[general]]
+### 
 
 **Category** defensive; 
 

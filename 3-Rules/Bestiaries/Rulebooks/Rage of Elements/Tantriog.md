@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 ()\n__Damage__  5d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (unarmed)\n__Damage__  5d6 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +15 ()\n__Damage__  5d4 + 5 piercing plus listless-saliva"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+15 (unarmed)\n__Damage__  5d4 + 5 piercing plus listless-saliva"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spitball +13 (range 20 feet)\n__Damage__  4d6 + 5 bludgeoning plus listless-saliva"
+  - name: "**Ranged** `pf2:1` Spitball"
+    desc: "+13 (range 20 feet)\n__Damage__  4d6 + 5 bludgeoning plus listless-saliva"
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +17; __3rd __  _[[Spells/Wall of Water|Wall of Water (x3)]]_\n__Cantrips__  __(4th)__ _[[Spells/Spout|Spout]]_"

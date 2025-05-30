@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Invoke Celestial Privilege"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.Aq2mXT2hLlstFL5C"
 license: OGL
@@ -23,5 +23,5 @@ license: OGL
 
 You rise above the triggering effect, refusing to be harmed by it. You gain a +1 circumstance bonus to the triggering saving throw and to any other saving throws you attempt against divine effects until the start of your next turn.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

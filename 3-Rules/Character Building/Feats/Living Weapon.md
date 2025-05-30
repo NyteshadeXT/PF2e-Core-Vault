@@ -26,5 +26,5 @@ Your features are mutable; you can select this feat at any level, and you can re
 
 **Special** You can take this feat multiple times. Each time you do, select a new attack from the options above.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

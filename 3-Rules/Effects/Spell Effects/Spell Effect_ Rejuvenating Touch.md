@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Feats/Rejuvenating Touch|Rejuvenating Touch]].
+Granted by [[Feats/Rejuvenating Touch|Rejuvenating Touch]]
 
-An ally that recovers Hit Points from your [[Lay on Hands|Lay on Hands]] gains 10 temporary Hit Points at the start of their turn during each of the next 10 rounds.
+You gain 10 temporary Hit Points immediately and at the start of your turns.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

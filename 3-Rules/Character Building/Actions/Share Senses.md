@@ -6,14 +6,14 @@ tags:
   - trait/concentrate
   - trait/scrying
   - trait/summoner
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.3ZzoI9MTtJFd1Kjl"
 license: OGL
 ---
 # Share Senses `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]][[3-Rules/Trait Reference/S/scrying]][[summoner]]
+### [[concentrate]][[scrying]][[summoner]]
 
 **Category** interaction; 
 

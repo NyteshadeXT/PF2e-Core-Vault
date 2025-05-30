@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 ()\n__Damage__  2d10 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (unarmed)\n__Damage__  2d10 + 5 slashing"
 
   - name: "Boomstrike"
-    desc: "`pf2:2`  The kareq beats its legs against its reverberation chamber, creating a blast of sound concentrated enough to ignite the air around it. The kareq chooses to affect either a @Template[cone|distance:30] (which deals sonic damage) or a @Template[line|distance:60] (which deals fire damage). Affected creatures must attempt a DC 21 Fortitude check save.\n* * *\n\n**Success** The creature takes no damage.\n\n**Failure** The creature takes 3d6 fire or 3d6 sonic.\n\n**Critical Failure** The creature takes 6d6 fire or 6d6 sonic and either is [[Conditions/Deafened|Deafened]] for 1 minute (if sonic damage) or takes 1d6 persistent fire (if fire damage)."
+    desc: "`pf2:2`  The kareq beats its legs against its reverberation chamber, creating a blast of sound concentrated enough to ignite the air around it. The kareq chooses to affect either a 30-foot cone (which deals sonic damage) or a 60-foot line (which deals fire damage). Affected creatures must attempt a DC 21 Fortitude check save.\n* * *\n\n**Success** The creature takes no damage.\n\n**Failure** The creature takes 3d6 fire or 3d6 sonic.\n\n**Critical Failure** The creature takes 6d6 fire or 6d6 sonic and either is [[Conditions/Deafened|Deafened]] for 1 minute (if sonic damage) or takes 1d6 persistent fire (if fire damage)."
  
 ```
 

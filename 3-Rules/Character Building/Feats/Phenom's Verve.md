@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.4YqmeJQwnrG1Lg07"
-license: OGL
+license: ORC
 ---
 # Phenom's Verve
 ## Feat 10
@@ -24,4 +25,4 @@ You're possessed with an incredibly vivacious spark that separates you not only 
 [[Feat_Feature Effects/Effect_ Phenom Verve|Effect: Phenom Verve]]
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

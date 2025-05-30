@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Schadenfreude|Schadenfreude]]
+Granted by [[Spells/Schadenfreude|Schadenfreude]]
 
-The creature is distracted by its amusement and takes a -1 status penalty on Perception checks and Will saves for 1 round.
+You take a -1 status penalty on Perception checks and Will saves.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

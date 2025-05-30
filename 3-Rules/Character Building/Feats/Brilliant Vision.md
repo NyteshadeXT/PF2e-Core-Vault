@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You ignore concealment from clouds, dust, fog, mist, smoke, and similarly loose matter. You can also cast [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]] as an innate occult spell once per day.
+You ignore concealment from clouds, dust, fog, mist, smoke, and similarly loose matter. You can also cast [[Spells/See the Unseen|See the Unseen]] as an innate occult spell once per day.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

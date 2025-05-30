@@ -71,14 +71,17 @@ abilities_mid:
   - name: "Ship Bound"
     desc: "  The ghost is typically bound to a vessel, even one damaged beyond repair. They can't venture more than 120 feet away from the ship or site of its wreckage."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Cutlass +20 (forceful, magical, sweep)\n__Damage__  2d6 + 11 void"
+  - name: "**Melee** `pf2:1` Ghostly Cutlass"
+    desc: "+20 (forceful, magical, sweep)\n__Damage__  2d6 + 11 void"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Ghostly Hand Crossbow +20 (magical, range increment 60 feet)\n__Damage__  2d6 + 8 void"
+  - name: "**Ranged** `pf2:1` Ghostly Hand Crossbow"
+    desc: "+20 (magical, range increment 60 feet)\n__Damage__  2d6 + 8 void"
 
   - name: "Combat Current"
     desc: "`pf2:2`  The ghost makes a Strike with its cutlass or hand crossbow, then Flies up to half their Speed and makes a Strike with the other attack. If they moved through an enemy when they Flew, that enemy is [[Conditions/Off-Guard|Off-Guard]] against the second Strike."

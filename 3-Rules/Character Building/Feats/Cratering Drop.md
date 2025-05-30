@@ -18,9 +18,9 @@ license: ORC
 
 
 
-**Prerequisites** Winged Warrior Dedication; Pluck from the Sky
+**Prerequisites** Pluck from the Sky
 * * *
-**Requirements** Your previous action was Pluck from the Sky, and the target failed or critically failed their saving throw.
+**Requirements** Your previous action was Pluck from the Sky using a melee Strike, and the target failed or critically failed its saving throw.
 
 * * *
 

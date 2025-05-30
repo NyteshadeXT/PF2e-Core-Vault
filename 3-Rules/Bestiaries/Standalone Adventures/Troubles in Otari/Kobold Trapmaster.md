@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +8 (agile, finesse, versatile s)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+8 (agile, finesse, versatile s)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +10 (thrown 20 ft.)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+10 (thrown 20 ft.)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Hurried Retreat"
     desc: "`pf2:1`  If the kobold is adjacent to at least one enemy, the kobold Strides up to 30 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. They must end this movement in a space that's not adjacent to any enemy."

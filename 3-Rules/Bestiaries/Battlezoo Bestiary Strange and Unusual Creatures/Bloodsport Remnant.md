@@ -37,7 +37,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +19, Athletics: +23, Intimidation: +23, Performance: +23, Acrobatics: +19, Athletics: +23, Intimidation: +23, Performance: +23"
+    desc: "Acrobatics: +19, Athletics: +23, Intimidation: +23, Performance: +23"
 abilityMods: [7, 5, 5, 1, 3, 7]
 speed: 35 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 ()\n__Damage__  2d12 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+23 ()\n__Damage__  2d12 + 13 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Chest +23 (agile)\n__Damage__  2d8 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Chest"
+    desc: "+23 (agile)\n__Damage__  2d8 + 13 bludgeoning"
 
   - name: "Clothesline"
     desc: "`pf2:2`  The bloodsport remnant Strides up to twice its speed, moving through one creature's space in the process. That creature takes damage from the bloodsport remnant's fist Strike with a DC 28 Reflex check save.\n* * *\n\n**Critical Success** The creature stops the remnant's movement before the remnant enters its space, and the creature takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage.\n\n**Critical Failure**, The creature takes double damage and is knocked [[undefined]]."

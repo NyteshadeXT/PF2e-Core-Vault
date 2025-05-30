@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Build Roads"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/region
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.EgUxcWpmUaVrHP3L"
 license: OGL
 ---
 # Build Roads
-
+## 
 ### [[downtime]][[region]]
 
 **Category** kingdom-activity; 

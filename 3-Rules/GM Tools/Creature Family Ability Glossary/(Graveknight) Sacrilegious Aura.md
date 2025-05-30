@@ -6,7 +6,7 @@ tags:
   - trait/aura
   - trait/divine
   - trait/void
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.bTJnxBQjr7G8yr30"
@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Graveknight) Sacrilegious Aura
 
-### [[3-Rules/trait_reference/A/aura]][[divine]][[void]]
+### [[aura]][[divine]][[void]]
 
 **Category** defensive; 
 

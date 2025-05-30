@@ -59,16 +59,16 @@ abilities_mid:
     desc: "`pf2:r`  **Trigger** An opponent within the Onyx Alliance agent's reach critically fails on a melee Strike targeted at the agent\n* * *\n\n**Effect** The Onyx Alliance agent makes a melee Strike or Trip attempt against the opponent and then Steps."
 
   - name: "Shadow Retreat"
-    desc: "`pf2:3` (occult,shadow,teleportation) **Frequency** once per year\n* * *\n\n**Effect** Activating a special ritual taught through the Onyx Alliance, the agent teleports to a safe house located in the Shadow Plane.\n\nSimultaneous with the teleportation, a @Template[emanation|distance:5] of darkness appears where the agent once stood. The darkness lasts for one minute."
+    desc: "`pf2:3` (occult,shadow,teleportation) **Frequency** once per year\n* * *\n\n**Effect** Activating a special ritual taught through the Onyx Alliance, the agent teleports to a safe house located in the Shadow Plane.\n\nSimultaneous with the teleportation, a 5-foot emanation of darkness appears where the agent once stood. The darkness lasts for one minute."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +18 (disarm, finesse, magical, nonlethal, reach, trip)\n__Damage__  1d4 + 12 slashing"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+18 (disarm, finesse, magical, nonlethal, reach, trip)\n__Damage__  1d4 + 12 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blowgun +18 (agile, nonlethal, range increment 20 feet)\n__Damage__  1 piercing plus lethargy-poison"
+  - name: "**Ranged** `pf2:1` Blowgun"
+    desc: "+18 (agile, nonlethal, range increment 20 feet)\n__Damage__  1 piercing plus lethargy-poison"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 24, attack +16; __3rd __ (4 slots) _[[Spells/Haste|Haste]]_, _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Slow|Slow]]_; __2nd __ (4 slots) _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Silence|Silence]]_; __1st __ (4 slots) _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_"

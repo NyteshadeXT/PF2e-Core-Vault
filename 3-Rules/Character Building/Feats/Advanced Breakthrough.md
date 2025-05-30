@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.CmA8t7MRMOzLTeUj"
-license: OGL
+license: ORC
 ---
 # Advanced Breakthrough
 ## Feat 6
@@ -26,4 +27,4 @@ You gain one inventor feat. For the purpose of meeting its prerequisites, your i
 **Special** You can select this feat more than once. Each time you select it, you gain another inventor feat.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

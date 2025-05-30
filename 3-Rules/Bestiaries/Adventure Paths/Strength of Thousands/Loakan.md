@@ -58,17 +58,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatclub +17 (backswing, magical, shove)\n__Damage__  1d10 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Greatclub"
+    desc: "+17 (backswing, magical, shove)\n__Damage__  1d10 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +16 (agile)\n__Damage__  1d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+16 (agile)\n__Damage__  1d8 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 ()\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (unarmed)\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Book +16 (range increment 10 feet)\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Book"
+    desc: "+16 (range increment 10 feet)\n__Damage__  1d4 + 6 bludgeoning"
 
   - name: "Battering Tail"
     desc: "`pf2:2`  Loakan makes a _greatclub_ Strike and two tail Strikes against the same creature. If the _greatclub_ Strike hits, the target is [[Conditions/Off-Guard|Off-Guard]] against both tail Strikes."

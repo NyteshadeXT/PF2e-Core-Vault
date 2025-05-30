@@ -54,16 +54,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longspear +10 (reach 10 feet)\n__Damage__  1d8 + 5 piercing"
+  - name: "**Melee** `pf2:1` Longspear"
+    desc: "+10 (reach 10 feet)\n__Damage__  1d8 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +10 (versatile p)\n__Damage__  1d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+10 (versatile p)\n__Damage__  1d8 + 5 slashing"
 
   - name: "Lunge"
     desc: "`pf2:1`  The guard makes a Strike with a melee weapon, extending their reach by 5 feet for that Strike. If the weapon has the disarm, shove, or trip trait, the guard can use the corresponding action instead of a Strike."

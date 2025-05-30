@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Granted by [[Flame Barrier|Flame Barrier]]
+Granted by [[Spells/Flame Barrier|Flame Barrier]]
+
+You gain fire resistance against the triggering effect.
 
 *Source: Pathfinder Player Core*
 *ORC*

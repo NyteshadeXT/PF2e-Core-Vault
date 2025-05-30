@@ -57,10 +57,13 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Scimitar|+1 Striking Scimitar]], [[Equipment/Breastplate|Breastplate]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Bravery"
     desc: "  Whenever Farah rolls a success at a Will save against a fear effect, she gets a critical success instead. In addition, any time she gains the frightened condition, she reduces its value by 1"
@@ -68,14 +71,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +15 (fire, forceful, magical, reach 10 feet, sweep)\n__Damage__  1d6 + 10 slashing 1d6 fire"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+15 (fire, forceful, magical, reach 10 feet, sweep)\n__Damage__  1d6 + 10 slashing 1d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 (agile, magical, reach 10 feet)\n__Damage__  1d4 + 10 bludgeoning 1d6 fire"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (agile, magical, reach 10 feet, unarmed)\n__Damage__  1d4 + 10 bludgeoning 1d6 fire"
 
   - name: "Arcane Innate Spells"
-    desc: "DC 22, attack +14; __2nd __  _[[Spells/Invisibility|Invisibility]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 22, attack +14; __2nd __  _[[Spells/Invisibility|Invisibility]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
 
   - name: "Burning Grasp"
     desc: " (fire) When Farah grabs a creature, that creature takes 1d6 fire damage, and takes 1d6 fire damage at the end of each of its turns as long as it remains [[Conditions/Grabbed|Grabbed]]."

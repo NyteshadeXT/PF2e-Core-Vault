@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Warleader's Bulwark|Warleader's Bulwark]]
+Granted by [[Equipment/Warleader's Bulwark|Warleader's Bulwark]]
 
 You gain a +2 status bonus to saves against fear effects.
 

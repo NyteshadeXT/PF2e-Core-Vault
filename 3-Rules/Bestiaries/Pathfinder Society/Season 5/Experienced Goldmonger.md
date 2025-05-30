@@ -56,14 +56,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +9 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+9 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Pick +9 ()\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Pick"
+    desc: "+9 ()\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +9 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+9 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
  
 ```
 

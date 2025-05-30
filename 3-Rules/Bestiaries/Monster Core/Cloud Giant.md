@@ -61,16 +61,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ranseur +25 (disarm, magical, reach 20 feet)\n__Damage__  2d10 + 13 piercing"
+  - name: "**Melee** `pf2:1` Ranseur"
+    desc: "+25 (disarm, magical, reach 20 feet)\n__Damage__  2d10 + 13 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +24 (agile, reach 15 feet)\n__Damage__  2d8 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+24 (agile, reach 15 feet, unarmed)\n__Damage__  2d8 + 13 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 30, attack +22; __4th __  _[[Spells/Vapor Form|Vapor Form]]_; __3rd __  _[[Spells/Levitate|Levitate (At Will)]]_; __2nd __  _[[Spells/Mist|Mist (At Will)]]_"
@@ -79,7 +79,7 @@ attacks:
     desc: "`pf2:1` (air,primal) The cloud giant solidifies some clouds, including fog or mist, around a creature that's already in a cloud up to 120 feet away. The target takes 3d8 bludgeoning damage (DC 30 Fortitude check save). If it fails its save, it treats clouds as difficult terrain for 1 round."
 
   - name: "Wind Strike"
-    desc: "`pf2:2` (air,primal) The cloud giant Strikes a creature with their ranseur, surrounded in a roar of rushing air. On a hit, the target takes an additional 4d8 bludgeoning damage and is [[Conditions/Deafened|Deafened]] for 1 minute. Whether or not the Strike hits, each non-cloud giant within a @Template[emanation|distance:20], including the target of the Strike, is buffeted by roaring winds and must attempt a DC 30 Fortitude check saving throw.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d8 sonic damage.\n\n**Failure** The creature takes 4d8 sonic damage and is deafened until the end of its next turn.\n\n**Critical Failure** As failure, but double damage and also knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:2` (air,primal) The cloud giant Strikes a creature with their ranseur, surrounded in a roar of rushing air. On a hit, the target takes an additional 4d8 bludgeoning damage and is [[Conditions/Deafened|Deafened]] for 1 minute. Whether or not the Strike hits, each non-cloud giant within a 20-foot emanation, including the target of the Strike, is buffeted by roaring winds and must attempt a DC 30 Fortitude check saving throw.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d8 sonic damage.\n\n**Failure** The creature takes 4d8 sonic damage and is deafened until the end of its next turn.\n\n**Critical Failure** As failure, but double damage and also knocked [[Conditions/Prone|Prone]]."
  
 ```
 

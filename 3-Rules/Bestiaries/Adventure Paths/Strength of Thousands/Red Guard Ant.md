@@ -51,19 +51,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Stinger Only)]]"
-    desc: "`pf2:r`  Stinger only\n\n* * *\n"
+    desc: "`pf2:r`  Stinger only\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +30 ()\n__Damage__  3d10 + 14 slashing plus grab"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+30 ()\n__Damage__  3d10 + 14 slashing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +30 (agile)\n__Damage__  3d6 + 14 piercing plus red-ant-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+30 (agile)\n__Damage__  3d6 + 14 piercing plus red-ant-venom"
 
   - name: "Formic Acid Spray"
-    desc: "`pf2:2` (acid,primal) The red guard ant sprays a @Template[cone|distance:15] of acid from its abdomen that deals 10d10 acid damage (DC 34 Reflex check). It can't use Formic Acid Spray again for 1d4 rounds."
+    desc: "`pf2:2` (acid,primal) The red guard ant sprays a 15-foot cone of acid from its abdomen that deals 10d10 acid damage (DC 34 Reflex check). It can't use Formic Acid Spray again for 1d4 rounds."
 
   - name: "Haul Away"
     desc: "`pf2:1`  **Requirements** The red guard ant has a Huge or smaller creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The ant Strides up to its full Speed, carrying the grabbed creature with it. It's encumbered if the grabbed creature is Large or larger."
@@ -78,7 +78,7 @@ attacks:
     desc: "  If at least three red guard ants have a creature within their reach, they flank the creature, even if they can't draw a line to each other that passes through opposite sides of the creature's space."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

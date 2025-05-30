@@ -6,14 +6,14 @@ tags:
   - trait/aura
   - trait/emotion
   - trait/mental
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.eSp48kG7v1GNuGgh"
 license: OGL
 ---
 # (Visitant) Vengeful Presence
 
-### [[3-Rules/trait_reference/A/aura]][[emotion]][[3-Rules/trait_reference/M/mental]]
+### [[aura]][[emotion]][[mental]]
 
 **Category** defensive; 
 

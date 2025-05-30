@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Armor of Bones|Armor of Bones]]
+Granted by [[Spells/Armor of Bones|Armor of Bones]]
 
 You gain resistance to cold, electricity, fire, piercing, and slashing damage.
 

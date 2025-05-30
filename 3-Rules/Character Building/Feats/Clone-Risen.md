@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.StsFnks3lQU9YYpB"
 license: OGL
 ---
-# Clone-Risen `pf2:r`
+# Clone-Risen
 ## Feat 1
 ### [[lineage]][[reflection]]
 

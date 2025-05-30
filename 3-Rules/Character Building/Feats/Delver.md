@@ -20,5 +20,5 @@ license: OGL
 
 Subterranean life taught you to swim through the ground like water. You gain a burrow Speed of 10 feet through loose soil or dirt.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

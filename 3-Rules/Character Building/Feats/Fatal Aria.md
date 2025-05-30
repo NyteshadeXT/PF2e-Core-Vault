@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Your songs overwhelm the target with unbearable emotion, potentially striking them dead on the spot. You learn the [[3-Rules/Character Building/Spells/F/Fatal Aria|Fatal Aria]] composition spell.
+Your songs overwhelm the target with unbearable emotion, potentially striking them dead on the spot. You learn the [[Spells/Fatal Aria|Fatal Aria]] composition spell.
 
 *Source: Pathfinder Player Core*
 *ORC*

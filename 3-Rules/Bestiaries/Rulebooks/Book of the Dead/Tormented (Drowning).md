@@ -54,19 +54,28 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 10 (Deactivated by Cold)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Endless Suffering"
     desc: "  The tormented was repeatedly drowned, held underwater and pulled back at the last instant."
 
   - name: "Tortured Gaze"
     desc: " (aura,divine,illusion,mental) 30 foot or 60 foot if the tormented is at 125 HP or lower.\n\nThe psychic agony of a tormented spills into the world around them, inflicting murderous hallucinations replicating the tormented's last moments. A non-undead creature that ends its turn in the aura must succeed at a DC 32 Will check save or take 4d6 cold damage and be [[Conditions/Sickened|Sickened 2]]. While it has a condition from Tortured Gaze, a creature can't gain a new condition from the aura but can take damage from it again."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Painful Touch +28 (agile, finesse, magical)\n__Damage__  4d6 + 14 mental 2d6 mental"
+  - name: "**Melee** `pf2:1` Painful Touch"
+    desc: "+28 (agile, finesse, magical)\n__Damage__  4d6 + 14 mental 2d6 mental"
 
   - name: "Scream in Agony"
     desc: "`pf2:2` (auditory,divine,mental) Each creature in the tormented's Tortured Gaze aura takes 14d6 mental damage (DC 34 Will check). A creature that fails is also [[Conditions/Sickened|Sickened 1]] (or [[Conditions/Sickened|Sickened 2]] on a critical failure).\n\nThe tormented can't Scream in Agony again for 1d4 rounds, but recharges the ability whenever they take damage from an attacker's critical hit or their own critical failure on a saving throw."

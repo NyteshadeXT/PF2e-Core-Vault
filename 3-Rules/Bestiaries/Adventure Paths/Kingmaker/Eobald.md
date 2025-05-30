@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +10 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+10 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 bludgeoning"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Secret Page|Secret Page]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(3rd)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_"

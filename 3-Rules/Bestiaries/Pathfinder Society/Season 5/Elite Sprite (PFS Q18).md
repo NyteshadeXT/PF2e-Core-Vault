@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +10 (deadly d8, disarm, finesse, fire, magical)\n__Damage__  1d6 - 1 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+10 (deadly d8, disarm, finesse, fire, magical)\n__Damage__  1d6 - 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Luminous Spark +7 (fire, light, range 20 feet)\n__Damage__  1d4 + 2 fire"
+  - name: "**Ranged** `pf2:1` Luminous Spark"
+    desc: "+7 (fire, light, range 20 feet)\n__Damage__  1d4 + 2 fire"
 
   - name: "Primal Innate Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Dizzying Colors|Dizzying Colors]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_"

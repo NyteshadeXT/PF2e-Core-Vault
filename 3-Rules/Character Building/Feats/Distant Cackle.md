@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** witch kholo heritage
 * * *
-It takes a very brave person to enter the laughter-haunted forest where you dwell. You can cast [[Ventriloquism|Ventriloquism]] once per day as a 1st-rank occult innate spell.
+It takes a very brave person to enter the laughter-haunted forest where you dwell. You can cast [[Spells/Ventriloquism|Ventriloquism]] once per day as a 1st-rank occult innate spell.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

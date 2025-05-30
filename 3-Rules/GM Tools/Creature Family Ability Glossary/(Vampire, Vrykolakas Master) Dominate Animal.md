@@ -6,21 +6,21 @@ tags:
   - trait/divine
   - trait/incapacitation
   - trait/mental
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.zwgUxJBNFqWOuaBX"
 license: OGL
 ---
 # (Vampire, Vrykolakas Master) Dominate Animal `pf2:1`
 
-### [[divine]][[incapacitation]][[3-Rules/trait_reference/M/mental]]
+### [[divine]][[incapacitation]][[mental]]
 
 **Category** offensive; 
 
 
 
 
-The vrykolakas can cast [[Dominate|Dominate]] at will as a divine innate spell that affects only animals. The save DC is a high DC for the vrykolakas's level, and a creature that succeeds is immune to that vrykolakas's Dominate Animal for 24 hours. Destroying the vrykolakas ends the effect, but reducing it to 0 HP does not.
+The vrykolakas can cast [[Spells/Dominate|Dominate]] at will as a divine innate spell that affects only animals. The save DC is a high DC for the vrykolakas's level, and a creature that succeeds is immune to that vrykolakas's Dominate Animal for 24 hours. Destroying the vrykolakas ends the effect, but reducing it to 0 HP does not.
 
 A dominated animal takes a -4 circumstance penalty to saving throws against the vrykolakas's Feral Possession.
 

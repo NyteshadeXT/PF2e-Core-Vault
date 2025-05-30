@@ -20,5 +20,5 @@ license: OGL
 
 Your body is translucent while underwater. Whenever you are fully submerged in water, you can Hide from other creatures even if you don't have cover against them and aren't [[Conditions/Concealed|Concealed]] from them.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

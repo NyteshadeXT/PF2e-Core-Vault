@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/PZO90183_Guloval_Agathion_1.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Guloval"
 level: "Creature 12"
@@ -54,6 +55,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Interposition"
@@ -62,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +25 (holy, magical)\n__Damage__  3d8 + 13 piercing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+25 (holy, magical, unarmed)\n__Damage__  3d8 + 13 piercing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +25 (agile, holy, magical)\n__Damage__  3d4 + 13 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+25 (agile, holy, magical, unarmed)\n__Damage__  3d4 + 13 slashing 1d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 32, attack +24; __6th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Clear Mind|Remove Fear]]_, _[[Spells/Sacred Form|Righteous Might]]_; __5th __  _[[Spells/Blink Charge|Blink Charge]]_, _[[Spells/Breath of Life|Breath of Life]]_; __4th __  _[[Spells/Circle of Protection|Circle of Protection]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse]]_; __3rd __  _[[Compendium.pf2e.spells-srd.Item.RneiyehRO6f7LP44|Remove Disease]]_; __2nd __  _[[Spells/Share Life|Shield Other]]_\n__Constant__  __(6th)__ _[[Spells/Speak with Animals|Speak with Animals]]_"

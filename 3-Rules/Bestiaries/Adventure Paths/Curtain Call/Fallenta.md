@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +22 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 sonic 2d6 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+22 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 sonic 2d6 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 30, attack +22; __6th __ (2 slots) _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __ (3 slots) _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Scouting Eye|Scouting Eye]]_, _[[Spells/Sending|Sending]]_; __4th __ (3 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Mirage|Mirage]]_, _[[Spells/Vapor Form|Vapor Form]]_; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Veil of Privacy|Veil of Privacy]]_; __2nd __ (3 slots) _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Embed Message|Embed Message]]_; __1st __ (3 slots) _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(6th)__ _[[Spells/Figment|Figment]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_"
@@ -73,7 +73,7 @@ attacks:
     desc: "3 Focus Points, DC 30, attack +22; __6th __  _[[Spells/Counter Performance|Counter Performance]]_, _[[Spells/Hymn of Healing|Hymn of Healing]]_, _[[Spells/Lingering Composition|Lingering Composition]]_, _[[Spells/Symphony of the Unfettered Heart|Symphony of the Unfettered Heart]]_\n__Cantrips__  __(6th)__ _[[Spells/Courageous Anthem|Courageous Anthem]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Animate Object|Animate Object]]_"
+    desc: "_Animate Object_"
 
   - name: "Bard Muse"
     desc: "  Fallenta's maestro muse is Shelyn."

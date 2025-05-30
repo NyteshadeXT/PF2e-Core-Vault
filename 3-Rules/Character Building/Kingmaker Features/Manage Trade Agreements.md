@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Manage Trade Agreements"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/commerce
   - trait/downtime
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.LhefN6fEfIRuRozx"
 license: OGL
 ---
 # Manage Trade Agreements
-
+## 
 ### [[commerce]][[downtime]]
 
 **Category** kingdom-activity; 

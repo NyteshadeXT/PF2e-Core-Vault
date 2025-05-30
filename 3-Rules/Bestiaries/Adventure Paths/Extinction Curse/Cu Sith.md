@@ -53,8 +53,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 ()\n__Damage__  2d10 + 9 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (unarmed)\n__Damage__  2d10 + 9 piercing plus grab"
 
   - name: "Dooming Bark"
     desc: "`pf2:2` (auditory,concentrate,fear,mental,primal) Any creature within 200 feet of the cu sith that hears its Dooming Bark must attempt a DC 24 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and immune to Dooming Bark for 24 hours.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]].\n\nIf a creature is already frightened when it fails a save against Dooming Bark, its frightened value increases by 1 and it becomes [[Conditions/Doomed|Doomed 1]].\n\nA creature in an area that the cu sith can't easily reach-such as a hidden burrow or enclosed building-increases the degree of success of its saving throw against Dooming Bark by one step."
@@ -63,7 +63,7 @@ attacks:
     desc: "`pf2:1` (attack) **Requirements** The cu sith has a Large or smaller creature grabbed in its jaws\n* * *\n\n**Effect** The cu sith viciously shakes its prey. The cu sith makes a jaws Strike against the grabbed creature with a +2 circumstance bonus to the attack roll. If the cu sith hits, it deals jaws damage, maintains its Grab, and attempts an Athletics check to [[Actions/Disarm|Disarm]] its target of anything it is holding. On a miss, the cu sith releases the creature."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Granted by failing the save against [[Touch of the Void|Touch of Corruption]].
+Granted by [[Spells/Touch of the Void|Touch of Corruption]].
+
+If the target is yourself, you gain a +2 status bonus to damage rolls. Otherwise, the target takes a –2 status penalty to AC.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

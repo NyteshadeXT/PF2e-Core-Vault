@@ -16,14 +16,14 @@ license: OGL
 ---
 # Blazing Wave `pf2:2`
 ## Feat 4
-### [[3-Rules/trait_reference/F/fire]][[impulse]][[kineticist]][[overflow]][[primal]]
+### [[fire]][[impulse]][[kineticist]][[overflow]][[primal]]
 
 **Category** class; 
 
 
 
 
-Flames flow out of you in a cascade, engulfing everyone in a @Template\[cone|distance:30\]. Each creature in the area takes 2d6 fire damage with a Reflex check save against your class DC. A creature that critically fails its save is knocked [[Conditions/Prone|Prone]].
+Flames flow out of you in a cascade, engulfing everyone in a 30-foot cone. Each creature in the area takes 2d6 fire damage with a Reflex check save against your class DC. A creature that critically fails its save is knocked [[Conditions/Prone|Prone]].
 
 * * *
 

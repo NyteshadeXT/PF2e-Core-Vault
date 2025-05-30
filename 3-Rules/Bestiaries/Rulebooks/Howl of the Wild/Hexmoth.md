@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Proboscis +13 ()\n__Damage__  2d10 + 9 piercing plus arcane-consumption"
+  - name: "**Melee** `pf2:1` Proboscis"
+    desc: "+13 ()\n__Damage__  2d10 + 9 piercing plus arcane-consumption"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hexbolt +13 (range 30 feet)\n__Damage__  2d8 + 6 untyped"
+  - name: "**Ranged** `pf2:1` Hexbolt"
+    desc: "+13 (range 30 feet)\n__Damage__  2d8 + 6 untyped"
 
   - name: "Arcane Consumption"
     desc: "`pf2:1`  The hexmoth attempts to consume the magic of an adjacent magical effect or unattended magic item. It attempts a counteract check against the target with a +16 modifier. On a success, the magical effect ends. A magic item instead becomes a mundane item for 1 round. The hexmoth gains 2d8 healing Hit Points."
@@ -73,7 +73,7 @@ attacks:
     desc: "  **Requirements** The hexmoth has detected a source of magic with its arcanosense\n\n**Trigger** The hexmoth's turn begins\n* * *\n\n**Effect** The hexmoth Flies or Strides up to its Speed toward the nearest source of magic it can detect."
 
   - name: "Hexdust Wind"
-    desc: "`pf2:2`  With a few fierce wingbeats, the hexmoth expels magical scale dust in a @Template[cone|distance:30]. This deals 10d6 untyped damage of the type to which the hexmoth is immune (DC 23 Fortitude check save). It can't use Hexdust Wind again for 1d4 rounds."
+    desc: "`pf2:2`  With a few fierce wingbeats, the hexmoth expels magical scale dust in a 30-foot cone. This deals 10d6 untyped damage of the type to which the hexmoth is immune (DC 23 Fortitude check save). It can't use Hexdust Wind again for 1d4 rounds."
  
 ```
 

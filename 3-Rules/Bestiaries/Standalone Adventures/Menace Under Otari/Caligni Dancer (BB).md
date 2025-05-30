@@ -3,7 +3,7 @@ title: "Caligni Dancer (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.7EuWv6tGtOASvzbG" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.SZCf0IZkf36plwVd" 
 tags:
   - pf2e/creature/type/caligni
   - pf2e/creature/type/humanoid
@@ -31,7 +31,7 @@ trait_02: [[humanoid]]
 modifier: 6
 perception:
   - name: "Perception"
-    desc: "+6; "
+    desc: "+6; Darkvision"
 languages: ""
 skills:
   - name: "Skills"
@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mace +9 (shove)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Mace"
+    desc: "+9 (shove)\n__Damage__  1d4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +9 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+9 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The caligni dancer deals an additional 1d6 damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

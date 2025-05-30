@@ -21,7 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Character Guide"
+source: "Pathfinder Lost Omens Character Guide"
 name: "Privateer Captain"
 level: "Creature 11"
 
@@ -41,7 +41,7 @@ skills:
     desc: "Acrobatics: +20, Athletics: +17, Deception: +21, Religion: +23, Thievery: +22, Sailing Lore: +19"
 abilityMods: [1, 4, 3, 0, 5, 3]
 speed: 25 feet
-sourcebook: "_Pathfinder Lost Omens: Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Character Guide_"
 ac: 30
 armorclass:
   - name: AC
@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +21 (deadly d8, disarm, magical)\n__Damage__  2d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+21 (deadly d8, disarm, magical)\n__Damage__  2d6 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +21 (magical, range increment 120 feet, reload 1)\n__Damage__  1d8 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+21 (magical, range increment 120 feet, reload 1)\n__Damage__  1d8 + 5 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 30, attack +22; __6th __  _[[Spells/Blade Barrier|Blade Barrier]]_, _[[Spells/Repulsion|Repulsion]]_; __5th __  _[[Spells/Breath of Life|Breath of Life]]_, _[[Spells/Control Water|Control Water]]_; __4th __  _[[Spells/Unfettered Movement|Freedom of Movement]]_; __3rd __  _[[Spells/Blindness|Blindness]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Silence|Silence]]_, _[[Spells/Water Breathing|Water Breathing]]_, _[[Spells/Water Walk|Water Walk]]_; __1st __  _[[Spells/Air Bubble|Air Bubble]]_, _[[Spells/Bane|Bane]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Harm|Harm]]_\n__Cantrips__  __(6th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_"

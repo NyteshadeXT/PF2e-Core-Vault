@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-Your iron grip slowly saps your opponent's strength. Attempt an Athletics check to Grapple the creature you have grabbed or restrained, with the following effects instead of the usual effects.
+Your iron grip saps your opponent's strength. Attempt an Athletics check to [[Actions/grapple|grapple]] the creature you have grabbed or restrained, with the following additional effects if you succeed.
 
 * * *
 

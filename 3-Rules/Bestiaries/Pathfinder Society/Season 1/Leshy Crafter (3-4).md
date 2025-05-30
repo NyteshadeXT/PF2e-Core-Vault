@@ -54,6 +54,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Vitality Transfer"
@@ -62,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Razor-sharp Leaf +14 (agile, finesse, sweep)\n__Damage__  2d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Razor-sharp Leaf"
+    desc: "+14 (agile, finesse, sweep)\n__Damage__  2d6 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Thorn +14 (agile, thrown)\n__Damage__  2d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Thorn"
+    desc: "+14 (agile, thrown)\n__Damage__  2d4 + 6 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 19, attack +11\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants (Trees Only)]]_"

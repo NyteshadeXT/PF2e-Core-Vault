@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Dragon Disciple Dedication
 * * *
-Your growing link to cloud dragons has granted you the ability to walk on clouds. Once per hour, you can cast [[Air Walk|Air Walk]] on yourself as an innate arcane spell, but only to walk on clouds or fog.
+Your growing link to cloud dragons has granted you the ability to walk on clouds. Once per hour, you can cast [[Spells/Air Walk|Air Walk]] on yourself as an innate arcane spell, but only to walk on clouds or fog.
 
 *Source: Pathfinder #171: Hurricane's Howl*
 *OGL*

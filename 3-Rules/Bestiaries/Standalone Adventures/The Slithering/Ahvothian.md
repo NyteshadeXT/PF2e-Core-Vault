@@ -55,22 +55,25 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "3x [[Equipment/Javelin|Javelin]], [[Equipment/Longspear|Longspear]], Animal Trophy, Beast Trophy, Humanoid Trophy"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +18 (unholy)\n__Damage__  2d10 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+18 (unarmed, unholy)\n__Damage__  2d10 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Longspear +18 (reach 10 feet, unholy)\n__Damage__  1d8 + 8 piercing plus wicked-trophies"
+  - name: "**Melee** `pf2:1` Longspear"
+    desc: "+18 (reach 10 feet, unholy)\n__Damage__  1d8 + 8 piercing plus wicked-trophies"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +14 (thrown 30 ft., unholy)\n__Damage__  1d6 + 8 piercing plus wicked-trophies"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+14 (thrown 30 ft., unholy)\n__Damage__  1d6 + 8 piercing plus wicked-trophies"
 
   - name: "Divine Innate Spells"
     desc: "DC 23, attack +15; __4th __ (2 slots) _[[Spells/Creation|Creation]]_; __3rd __ (2 slots) _[[Spells/Earthbind|Earthbind (At Will)]]_, _[[Spells/Fear|Fear (At Will)]]_; __2nd __ (1 slots) _[[Spells/Death Knell|Death Knell (At Will)]]_; __1st __ (1 slots) _[[Spells/Charm|Charm (At Will)]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Speak with Animals|Speak with Animals]]_"

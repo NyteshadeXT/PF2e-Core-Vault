@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +24 (magical, two-hand d8)\n__Damage__  2d4 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+24 (magical, two-hand d8)\n__Damage__  2d4 + 5 bludgeoning"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 37, attack +27; __7th __ (3 slots) _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Project Image|Project Image]]_; __6th __ (3 slots) _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Teleport|Teleport]]_, _[[Spells/Truesight|True Seeing]]_; __5th __ (3 slots) _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Mind Probe|Mind Probe]]_; __4th __ (3 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fly|Fly]]_; __3rd __ (3 slots) _[[Spells/Shared Invisibility|Invisibility Sphere]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Veil of Privacy|Nondetection]]_; __2nd __ (3 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Knock|Knock]]_; __1st __ (3 slots) _[[Spells/Alarm|Alarm]]_, _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Mystic Armor|Mage Armor]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

@@ -21,5 +21,5 @@ Granted by [[Feats/Fluttering Distraction|Fluttering Distraction]]
 
 The enemy must roll its attack twice and take the lower result.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

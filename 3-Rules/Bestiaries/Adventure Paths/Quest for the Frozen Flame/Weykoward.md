@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 (magical)\n__Damage__  2d12 + 13 bludgeoning plus push"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+23 (magical, unarmed)\n__Damage__  2d12 + 13 bludgeoning plus push"
 
   - name: "Wasting Gaze"
     desc: "`pf2:2` (occult) The weykoward glances at an item of 4 Bulk or less it can see within 30 feet. A creature holding or wearing the object must attempt a DC 26 Will check save. An unattended item always critically fails this save.\n* * *\n\n**Critical Success** The targeted item is unaffected. All of the creature's equipment is immune to Wasting Gaze for 24 hours.\n\n**Success** The item is unaffected.\n\n**Failure** The item loses 10d6 Hit Points; this can make the item broken, but it can't reduce the target's Hit Points beyond its Broken Threshold.\n\n**Critical Failure** The target item loses 20d6 Hit Points. This can't reduce the item below 1 Hit Point."

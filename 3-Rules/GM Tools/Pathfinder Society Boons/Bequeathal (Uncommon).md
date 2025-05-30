@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Bequeathal (Uncommon)"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/uncommon
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.LocOjnBuS89OVLic"
 license: OGL
 ---
 # Bequeathal (Uncommon)
-
+## Feat 1
 ### [uncommon](uncommon "Uncommon Rarity Trait")
 
 **Category** pfsboon; 

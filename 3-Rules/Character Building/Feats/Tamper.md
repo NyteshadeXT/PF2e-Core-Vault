@@ -7,8 +7,9 @@ tags:
   - trait/manipulate
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.SheifYobjKqyK3Fv"
-license: OGL
+license: ORC
 ---
 # Tamper `pf2:1`
 ## Feat 1
@@ -30,4 +31,4 @@ You tamper with a foe's weapon or armor, using a free hand. Choose either a weap
 **Critical Failure** Your tampering backfires dramatically, creating a small explosion from your own tools or gear. You take fire damage equal to your level.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

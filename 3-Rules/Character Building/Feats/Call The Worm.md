@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Call The Worm"
+title: "Call the Worm"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/archetype
@@ -9,7 +9,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.qf25HIPLdGVjui88"
 license: OGL
 ---
-# Call The Worm
+# Call the Worm
 ## Feat 18
 ### [[archetype]]
 
@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Worm Caller Dedication
 * * *
-You gain [[Summon Animal|Summon Animal]], heightened to 9th rank, as an innate primal spell that you can cast once per day, but can only summon a [[Purple Worm|Purple Worm]]. At 20th level, you can summon an elite purple worm instead.
+You gain [[Spells/Summon Animal|Summon Animal]], heightened to 9th rank, as an innate primal spell that you can cast once per day, but can only summon a [[Monster Core/Cave Worm|Purple Worm]]. At 20th level, you can summon an elite purple worm instead.
 
 *Source: Pathfinder #194: Cult of the Cave Worm*
 *OGL*

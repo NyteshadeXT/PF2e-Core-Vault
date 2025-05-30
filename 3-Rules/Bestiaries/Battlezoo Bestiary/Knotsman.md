@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Lasso +18 (agile, reach 15 feet)\n__Damage__  2d6 + 7 bludgeoning plus ensnare"
+  - name: "**Melee** `pf2:1` Lasso"
+    desc: "+18 (agile, reach 15 feet)\n__Damage__  2d6 + 7 bludgeoning plus ensnare"
 
   - name: "Ensnare"
     desc: "  If the knotsman hits a creature with its lasso, the creature is also [[Conditions/Grabbed|Grabbed]]. While grabbed, the creature isn't [[Conditions/Immobilized|Immobilized]], but it can't move any farther from the knotsman unless the knotsman willfully lengthens its lead. The lasso's Escape DC is 25. A creature can also end the grab by severing the lasso by hitting AC 26 and dealing at least 10 slashing. Damage dealt to the lasso deals an equal amount of damage to the knotsman."

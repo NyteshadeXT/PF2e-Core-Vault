@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Feats/Victorious Vigor|Victorious Vigor]]
+
 You gain temporary Hit Points equal to your Constitution modifier until the end of your next turn.
 
 *Source: Pathfinder Core Rulebook*

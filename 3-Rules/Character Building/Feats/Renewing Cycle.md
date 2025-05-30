@@ -26,5 +26,5 @@ The first time each round that you [[Actions/Cycle Elemental Stance|Cycle Elemen
 
 [[Feat_Feature Effects/Effect_ Renewing Cycle|Effect: Renewing Cycle]]
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

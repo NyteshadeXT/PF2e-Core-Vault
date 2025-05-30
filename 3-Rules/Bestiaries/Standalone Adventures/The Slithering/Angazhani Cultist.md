@@ -61,16 +61,16 @@ abilities_mid:
     desc: "`pf2:r`  **Trigger** The cultist rolls a failure (but not a critical failure) on a Will save against an effect with the mental or fear trait\n* * *\n\n**Effect** The cultist takes 2d8 mental damage, and the saving throw is a success."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +14 (fatal d10)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+14 ()\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +11 (thrown 20 ft., fatal d10)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+11 (thrown 20 ft.)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Noise Blast|Sound Burst]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Command|Command]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Light|Light]]_, _[[Spells/Stabilize|Stabilize]]_"

@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Path Maiden) Blasphemous Aura
 
-### [[3-Rules/trait_reference/A/aura]][[occult]]
+### [[aura]][[occult]]
 
 **Category** offensive; 
 

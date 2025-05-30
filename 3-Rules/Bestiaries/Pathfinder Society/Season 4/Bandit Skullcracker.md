@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Hammer +10 (agile)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Light Hammer"
+    desc: "+10 (agile)\n__Damage__  1d6 + 3 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +8 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+8 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Dread Striker"
     desc: "  [[Conditions/Frightened|Frightened]] creatures are [[Conditions/Off-Guard|Off-Guard]] to the bandit."

@@ -7,14 +7,14 @@ tags:
   - trait/concentrate
   - trait/linguistic
   - trait/mental
-  - trait/uncommon
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.Bw2L4guiRFphTpF1"
 license: OGL
 ---
 # Appeal to Shadowy Intruders `pf2:2`
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[auditory]][[concentrate]][[linguistic]][[3-Rules/trait_reference/M/mental]]
+### [[auditory]][[concentrate]][[linguistic]][[mental]]
 
 **Category** interaction; 
 

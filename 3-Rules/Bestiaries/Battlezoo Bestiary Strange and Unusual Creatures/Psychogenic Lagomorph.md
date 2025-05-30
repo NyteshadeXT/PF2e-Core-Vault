@@ -33,7 +33,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +16, Stealth: +18, Survival: +18, Acrobatics: +18, Athletics: +16, Stealth: +18, Survival: +18"
+    desc: "Acrobatics: +18, Athletics: +16, Stealth: +18, Survival: +18"
 abilityMods: [2, 3, 3, 3, 6, 3]
 speed: 20 feet,  fly 35 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +18 (agile, finesse)\n__Damage__  2d8 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+18 (agile, finesse)\n__Damage__  2d8 + 5 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 26, attack +18\n__Cantrips__  __(4th)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

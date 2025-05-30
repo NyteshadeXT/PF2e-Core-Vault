@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Sense Weakness"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.uWTQxEOj2pl45Kns"

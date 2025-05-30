@@ -5,8 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/downtime
   - trait/manipulate
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.rmwa3OyhTZ2i2AHl"
@@ -14,7 +13,7 @@ license: ORC
 ---
 # Craft
 
-### [[downtime]][[3-Rules/Rule References/Manipulate]][[skill]]
+### [[downtime]][[manipulate]]
 
 **Category** interaction; 
 
@@ -27,7 +26,7 @@ To craft an item, you must meet the following requirements:
 
 *   The item is your level or lower. An item that doesn't list a level is level 0. If the item is 9th level or higher, you must be a master in Crafting, and if it's 17th or higher, you must be legendary.
 *   The item must be common, or you must otherwise have access to it.
-*   You have an appropriate set of tools and, in many cases, a workshop. For example, you need access to a smithy to forge a metal shield, or an [[3-Rules/Character Building/Equipment/A/Alchemist's Lab|Alchemist's Lab]] to produce alchemical items.
+*   You have an appropriate set of tools and, in many cases, a workshop. For example, you need access to a smithy to forge a metal shield, or an [[Equipment/Alchemist's Lab|Alchemist's Lab]] to produce alchemical items.
 *   You must supply raw materials worth at least half the item's Price. You always expend at least that amount of raw materials when you Craft successfully. If you're in a settlement, you can usually spend currency to get the amount of raw materials you need, except in the case of rarer precious materials.
 
 You attempt a Crafting check after you spend 2 days of work setting up, or 1 day if you have the item's formula. The GM determines the DC to Craft the item based on its level, rarity, and other circumstances.

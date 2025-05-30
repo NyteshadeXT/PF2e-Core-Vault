@@ -31,5 +31,5 @@ In addition, attempt a Performance check check; the DC is determined by the GM b
 
 [[Feat_Feature Effects/Effect_ Living for the Applause|Effect: Living for the Applause]]
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

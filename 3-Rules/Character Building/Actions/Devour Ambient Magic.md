@@ -12,7 +12,7 @@ license: ORC
 ---
 # Devour Ambient Magic `pf2:r`
 
-### [[3-Rules/Rule References/Concentrate]]
+### [[concentrate]]
 
 **Category** defensive; 
 

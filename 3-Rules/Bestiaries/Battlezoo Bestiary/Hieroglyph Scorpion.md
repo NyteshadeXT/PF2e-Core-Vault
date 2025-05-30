@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +23 (finesse, magical, reach 10 feet)\n__Damage__  2d8 + 13 piercing plus inscription-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+23 (finesse, magical, reach 10 feet)\n__Damage__  2d8 + 13 piercing plus inscription-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Pincer +23 (agile, finesse, magical, reach 10 feet)\n__Damage__  2d6 + 13 slashing"
+  - name: "**Melee** `pf2:1` Pincer"
+    desc: "+23 (agile, finesse, magical, reach 10 feet)\n__Damage__  2d6 + 13 slashing"
 
   - name: "Inscription Venom"
     desc: " (arcane,incapacitation) **Saving Throw** DC 28 Fortitude;\n* * *\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** [[Conditions/Off-Guard|Off-Guard]] (1 round);\n\n**Stage 2** off-guard and [[Conditions/Slowed|Slowed 1]] (1 round);\n\n**Stage 3** off-guard and [[Conditions/Slowed|Slowed 2]] (1 round);\n\n**Stage 4** The victim is permanently petrified, and its physical body (including all its possessions) are magically inscribed onto the nearest flat surface, such as a wall or floor tile.\n\nNo physical trace of the victim remains except its inscription. An inscribed creature can be recovered from the mural by targeting its inscription with [[Spells/Stone to Flesh|Stone to Flesh]] or by destroying the mural on which it is inscribed. If the mural is destroyed, all inscribed creatures on the destroyed portion of the mural are freed, restored to flesh, and are cured of this poison."

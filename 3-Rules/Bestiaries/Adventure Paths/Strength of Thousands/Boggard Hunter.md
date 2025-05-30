@@ -62,14 +62,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatclub +18 (backswing, shove)\n__Damage__  1d10 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Greatclub"
+    desc: "+18 (backswing, shove)\n__Damage__  1d10 + 7 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +18 (reach 10 feet)\n__Damage__  1d4 + 7 bludgeoning plus tongue-grab"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+18 (reach 10 feet)\n__Damage__  1d4 + 7 bludgeoning plus tongue-grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +15 (thrown 30 ft.)\n__Damage__  1d6 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+15 (thrown 30 ft.)\n__Damage__  1d6 + 7 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A boggard hunter deals an additional 2d6 precision damage precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile, finesse, reach 0 feet)\n__Damage__  2d6 + 7 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, finesse, reach 0 feet, unarmed)\n__Damage__  2d6 + 7 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Splinter +15 (deadly d6, range increment 30 feet)\n__Damage__  2d6 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Splinter"
+    desc: "+15 (deadly d6, range increment 30 feet)\n__Damage__  2d6 + 5 piercing"
 
   - name: "Primal Prepared Spells"
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Slow|Slow]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/Oaken Resilience|Oaken Resilience]]_, _[[Spells/Quench|Quench]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Runic Body|Runic Body]]_, _[[Spells/Tailwind|Tailwind]]_\n__Cantrips__  __(3rd)__ _[[Spells/Caustic Blast|Caustic Blast]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Puff of Poison|Puff of Poison]]_, _[[Spells/Tangle Vine|Tangle Vine]]_"
@@ -72,7 +72,7 @@ attacks:
     desc: "`pf2:3` (plant,primal,teleportation,wood) **Requirements** Splintershank is in the forest's undergrowth\n* * *\n\n**Effect** Splintershank scrambles into the undergrowth and instantly teleports to a different square of undergrowth within 60 feet of him. This movement doesn't trigger reactions."
 
   - name: "Splinter Spray"
-    desc: "`pf2:2`  Splintershank sprays a barrage of splinters and brambles from his body in a @Template[cone|distance:15], dealing 7d6 piercing damage (DC 24 Reflex check save). He can't use Splinter Spray again for 1d4 rounds."
+    desc: "`pf2:2`  Splintershank sprays a barrage of splinters and brambles from his body in a 15-foot cone, dealing 7d6 piercing damage (DC 24 Reflex check save). He can't use Splinter Spray again for 1d4 rounds."
  
 ```
 

@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Egg Cream Fizz|Egg Cream Fizz]]
+Granted by [[Equipment/Egg Cream Fizz|Egg Cream Fizz]]
 
-Upon drinking, you feel lighter and more buoyant, gaining a +5-foot item bonus to your Speed. You also gain another effect determined by the drink's syrup, which is chosen when the drink is created.
+You gain a +5-foot item bonus to your Speed. You also gain another effect determined by the drink's syrup:
 
 *   **Chocolate** You gain a +1 item bonus to Acrobatics checks to Balance, Maneuver in Flight, and Squeeze.
 *   **Strawberry** You gain a +1 item bonus to Athletics checks to Climb, Leap, and Swim.

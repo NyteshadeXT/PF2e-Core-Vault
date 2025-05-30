@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +29 (agile, magical)\n__Damage__  3d8 + 12 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+29 (agile, magical, unarmed)\n__Damage__  3d8 + 12 slashing plus grab"
 
   - name: "Innate Divine Spells"
     desc: "DC 34, attack +24; __7th __  _[[Spells/Warp Mind|Warp Mind (x3)]]_; __3rd __  _[[Spells/Enthrall|Enthrall (At Will)]]_"

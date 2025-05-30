@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Heroism|Heroism]]
+Granted by [[Spells/Heroism|Heroism]]
 
-Tapping into your inner heroism, you get a +1 status bonus to attack rolls, Perception checks, saving throws, and skill checks.
+You gain a status bonus to attack rolls, Perception checks, saving throws, and skill checks.
 
 *Source: Pathfinder Player Core*
 *ORC*

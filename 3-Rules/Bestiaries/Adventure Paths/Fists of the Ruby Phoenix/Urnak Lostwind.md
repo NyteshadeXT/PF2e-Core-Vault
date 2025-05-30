@@ -58,16 +58,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Urnak gets 1 extra reaction each turn that he can use only to make an Attack of Opportunity.\n\n* * *\n"
+    desc: "`pf2:r`  Urnak gets 1 extra reaction each turn that he can use only to make an Attack of Opportunity.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +27 (magical, sweep)\n__Damage__  3d12 + 13 slashing 1d6 cold"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+27 (magical, sweep)\n__Damage__  3d12 + 13 slashing 1d6 cold"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Felling Throw +25 (magical, sweep, thrown 40 ft.)\n__Damage__  3d12 + 13 slashing plus felling-throw,ricochet-throw 1d6 cold plus felling-throw,ricochet-throw"
+  - name: "**Ranged** `pf2:1` Felling Throw"
+    desc: "+25 (magical, sweep, thrown 40 ft.)\n__Damage__  3d12 + 13 slashing plus felling-throw,ricochet-throw 1d6 cold plus felling-throw,ricochet-throw"
 
   - name: "Brutally Disarm"
     desc: "`pf2:1`  **Requirements** Urnak is wielding a two-handed weapon in both hands\n* * *\n\n**Effect** Urnak attempts to [[Actions/Disarm|Disarm]] a creature within reach. On a success or critical success, Urnak deals 13 damage of the weapon's type to the Disarmed creature. If he rolls a failure to Disarm, he gets a success instead."

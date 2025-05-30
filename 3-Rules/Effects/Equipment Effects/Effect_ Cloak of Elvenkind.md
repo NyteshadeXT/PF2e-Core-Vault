@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Cloak of Elvenkind|Cloak of Elvenkind]]
+Granted by [[Equipment/Cloak of Elvenkind|Cloak of Elvenkind]], [[Equipment/Cloak of Elvenkind (Greater)|Cloak of Elvenkind (Greater)]]
+
+You gain an item bonus to Stealth checks.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

@@ -69,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +33 (finesse, reach 10 feet)\n__Damage__  4d10 + 11 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+33 (finesse, reach 10 feet)\n__Damage__  4d10 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Venom +33 (range 20 feet)\n__Damage__  4d8 + 8 poison plus white-serpent-venom"
+  - name: "**Ranged** `pf2:1` Venom"
+    desc: "+33 (range 20 feet)\n__Damage__  4d8 + 8 poison plus white-serpent-venom"
 
   - name: "Spontaneous Arcane Spells"
     desc: "DC 40, attack +32; __9th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Polar Ray|Polar Ray]]_; __8th __ (4 slots) _[[Spells/Disappearance|Disappearance]]_, _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Prismatic Wall|Prismatic Wall]]_, _[[Spells/Confusing Colors|Scintillating Pattern]]_; __7th __ (4 slots) _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Mask of Terror|Mask of Terror]]_, _[[Spells/Truesight|True Seeing]]_; __6th __ (4 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Spellwrack|Spellwrack]]_; __5th __ (4 slots) _[[Spells/Chromatic Wall|Chromatic Wall]]_, _[[Spells/Cloak of Colors|Cloak of Colors]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Haste|Haste]]_\n__Cantrips__  __(9th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

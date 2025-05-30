@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile, finesse)\n__Damage__  2d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, finesse, unarmed)\n__Damage__  2d6 + 5 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 22, attack +14; __3rd __ (3 slots) _[[Spells/Hydraulic Push|Hydraulic Push (x3)]]_; __2nd __ (1 slots) _[[Spells/Water Breathing|Water Breathing]]_; __1st __  _[[Spells/Charm|Charm (At Will)]]_"

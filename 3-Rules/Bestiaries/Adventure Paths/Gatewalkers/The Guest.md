@@ -55,16 +55,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Fall Apart"
-    desc: " (occult) When one of the Guests dies, its body falls apart into a tangle of meat, gristle, fur, bone, and gore. All creatures within a @Template[emanation|distance:10] (other than other Guests) must make a DC 22 Will check save to avoid becoming [[Conditions/Sickened|Sickened 2]] ([[Conditions/Sickened|Sickened 4]] on a critical failure) at the sight and smell of this fate."
+    desc: " (occult) When one of the Guests dies, its body falls apart into a tangle of meat, gristle, fur, bone, and gore. All creatures within a 10-foot emanation (other than other Guests) must make a DC 22 Will check save to avoid becoming [[Conditions/Sickened|Sickened 2]] ([[Conditions/Sickened|Sickened 4]] on a critical failure) at the sight and smell of this fate."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (versatile b)\n__Damage__  2d6 + 10 slashing 1d6 cold"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (unarmed, versatile b)\n__Damage__  2d6 + 10 slashing 1d6 cold"
 
   - name: "Frozen Wind"
-    desc: "`pf2:2`  The guest exhales a blast of freezing wind from its body in a @Template[cone|distance:20]. All creatures in this area take 8d6 cold (DC 25 Reflex check). The Guest can't use Frozen Wind again for 1d4 rounds."
+    desc: "`pf2:2`  The guest exhales a blast of freezing wind from its body in a 20-foot cone. All creatures in this area take 8d6 cold (DC 25 Reflex check). The Guest can't use Frozen Wind again for 1d4 rounds."
 
   - name: "Stunning Critical"
     desc: "  If a Guest critically hits a creature with a claw Strike, the target must make a DC 25 Fortitude check save or be [[Conditions/Stunned|Stunned 1]]."

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** master in Deception
 * * *
-Your ability to imitate your progenitor is so strong, you can even convince yourself. When you use this action, you alter your thought processes to your progenitor or from your progenitor back to yourself. As long as what you say is true from the point of view of your current identity, you can say it even under effects like [[3-Rules/Character Building/Spells/R/Ring of Truth|Ring of Truth]] that force you to speak truly.
+Your ability to imitate your progenitor is so strong, you can even convince yourself. When you use this action, you alter your thought processes to your progenitor or from your progenitor back to yourself. As long as what you say is true from the point of view of your current identity, you can say it even under effects like [[Spells/Ring of Truth|Ring of Truth]] that force you to speak truly.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

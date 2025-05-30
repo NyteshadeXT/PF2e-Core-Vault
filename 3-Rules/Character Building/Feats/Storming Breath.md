@@ -12,14 +12,14 @@ license: OGL
 ---
 # Storming Breath `pf2:2`
 ## Feat 6
-### [rare](rare.md "Rare Rarity Trait")[[deviant]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]]
 
 **Category** class; 
 
 
 
 
-You spit out a freezing breath or sonic scream. You deal 4d6 damage, plus 1d6 damage for every level you have beyond 6th, to all creatures in a @Template\[cone|distance:30\], with a Reflex check save.
+You spit out a freezing breath or sonic scream. You deal 4d6 damage, plus 1d6 damage for every level you have beyond 6th, to all creatures in a 30-foot cone, with a Reflex check save.
 
 Leveled damage
 

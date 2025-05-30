@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +17 (versatile p)\n__Damage__  1d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+17 (versatile p)\n__Damage__  1d8 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heavy Crossbow +15 (range increment 60 feet, reload 1)\n__Damage__  1d10 piercing"
+  - name: "**Ranged** `pf2:1` Heavy Crossbow"
+    desc: "+15 (range increment 60 feet, reload 1)\n__Damage__  1d10 piercing"
 
   - name: "Low Blow"
     desc: "`pf2:r`  **Requirements** Kolbo successfully Feints an opponent\n* * *\n\n**Effect** The foe is knocked [[Conditions/Prone|Prone]]."

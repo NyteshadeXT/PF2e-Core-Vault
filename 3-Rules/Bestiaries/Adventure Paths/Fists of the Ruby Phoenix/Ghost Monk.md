@@ -36,7 +36,7 @@ trait_05: [[undead]]
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "+18; "
+    desc: "+18; Darkvision"
 languages: "Tien"
 skills:
   - name: "Skills"
@@ -64,11 +64,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) Putting the abbot in A8 to rest brings peace to the ghost monks, allowing them to move on to the Serene Circle in Axis.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Fist +21 (agile, finesse, magical)\n__Damage__  2d8 + 12 void"
+  - name: "**Melee** `pf2:1` Ghostly Fist"
+    desc: "+21 (agile, finesse, magical)\n__Damage__  2d8 + 12 void"
 
   - name: "Flurry of Blows"
     desc: "`pf2:1` (flourish) The ghost monk makes two Strikes with their ghostly fist. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses."
@@ -77,7 +80,7 @@ attacks:
     desc: "`pf2:2` (auditory,divine,emotion,fear,mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 25 Will check save. On a failure, a creature becomes [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Telekinetic Assault|Telekinetic Assault]]"
-    desc: "`pf2:2` (divine) The ghost cries out in pain and anguish as small objects and debris fly about in a @Template[emanation|distance:30]. Creatures in this area take 5d6 bludgeoning damage + 1d6 per 2 levels, subject to a DC 25 Reflex check save."
+    desc: "`pf2:2` (divine) The ghost cries out in pain and anguish as small objects and debris fly about in a 30-foot emanation. Creatures in this area take 5d6 bludgeoning damage + 1d6 per 2 levels, subject to a DC 25 Reflex check save."
  
 ```
 

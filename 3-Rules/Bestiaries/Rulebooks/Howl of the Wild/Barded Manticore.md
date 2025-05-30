@@ -49,6 +49,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/At-Will Spells|At-Will Spells]]"
+    desc: "  The monster can cast its at-will spells any number of times without using up spell slots."
+
 abilities_mid:
   - name: ""
   - name: "Spell Reflection"
@@ -57,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +33 (magical, reach 10 feet)\n__Damage__  3d10 + 15 piercing 1d12 electricity"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+33 (magical, reach 10 feet)\n__Damage__  3d10 + 15 piercing 1d12 electricity"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +33 (agile, magical)\n__Damage__  3d8 + 15 slashing 1d12 electricity"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+33 (agile, magical, unarmed)\n__Damage__  3d8 + 15 slashing 1d12 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spike +31 (magical, range increment 40 feet)\n__Damage__  3d8 + 15 piercing"
+  - name: "**Ranged** `pf2:1` Spike"
+    desc: "+31 (magical, range increment 40 feet)\n__Damage__  3d8 + 15 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 40, attack +35; __9th __  _[[Spells/Wrathful Storm|Wrathful Storm]]_; __8th __  _[[Spells/Chain Lightning|Chain Lightning]]_; __6th __  _[[Spells/Field of Razors|Field of Razors]]_, _[[Spells/Tangling Creepers|Tangling Creepers]]_; __5th __  _[[Spells/Impaling Spike|Impaling Spike (At-Will)]]_, _[[Spells/Lightning Bolt|Lightning Bolt (At-Will)]]_; __3rd __  _[[Spells/One with Stone|One with Stone (At Will)]]_\n__Cantrips__  __(9th)__ _[[Spells/Detect Metal|Detect Metal]]_, _[[Spells/Needle Darts|Needle Darts]]_, _[[Spells/Tangle Vine|Tangle Vine]]_"

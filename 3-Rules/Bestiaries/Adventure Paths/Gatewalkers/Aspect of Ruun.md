@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Warning Hoot"
@@ -60,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +13 (agile, finesse, magical)\n__Damage__  2d6 + 3 force"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+13 (agile, finesse, magical, unarmed)\n__Damage__  2d6 + 3 force"
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +17; __3rd __  _[[Spells/Heal|Heal (x2)]]_, _[[Compendium.pf2e.spells-srd.Item.RneiyehRO6f7LP44|Remove Disease]]_; __2nd __  _[[Spells/Clear Mind|Remove Fear]]_, _[[Spells/Sound Body|Restore Senses]]_; __1st __  _[[Spells/Detect Poison|Detect Poison]]_, _[[Spells/Cleanse Cuisine|Purify Food and Drink]]_\n__Cantrips__  __(3rd)__ _[[Spells/Guidance|Guidance]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Stabilize|Stabilize]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"

@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Actions/Harrow the Fiend|Harrow the Fiend]]
+
 You gain a +1 status bonus on all Strikes or spell attack rolls against fiends.
 
 *Source: Pathfinder Stolen Fate Player's Guide*

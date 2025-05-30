@@ -23,5 +23,5 @@ The only Strikes you can make are ramming horn attacks. These strikes deal 1d8 b
 
 When you make a ramming horn attack and your previous action was to Climb, Stride, or Leap, you gain a circumstance bonus to damage equal to the number of weapon damage dice.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

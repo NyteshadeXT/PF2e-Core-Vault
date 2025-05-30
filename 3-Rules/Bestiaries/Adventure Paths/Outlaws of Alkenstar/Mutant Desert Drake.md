@@ -65,17 +65,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +21 ()\n__Damage__  2d12 + 9 piercing 1d6 electricity"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+21 ()\n__Damage__  2d12 + 9 piercing 1d6 electricity"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +21 (reach 10 feet)\n__Damage__  2d10 + 9 bludgeoning plus push"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+21 (reach 10 feet)\n__Damage__  2d10 + 9 bludgeoning plus push"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The desert drake makes two Fangs Strikes and one Tail Strike in any order."
 
   - name: "Sandstorm Breath"
-    desc: "`pf2:2` (arcane,electricity) The desert drake spits a ball of electrically charged sand to a range of 60 feet that explodes into a cloud with a @Template[burst|distance:15]. Creatures in the area take 9d6 electricity damage (DC 28 Reflex check save). The cloud remains for 1d4 rounds, granting [[Conditions/Concealed|Concealment]] to everything within. The desert drake can't use Sandstorm Breath again for 1d6 rounds."
+    desc: "`pf2:2` (arcane,electricity) The desert drake spits a ball of electrically charged sand to a range of 60 feet that explodes into a cloud with a 15-foot burst. Creatures in the area take 9d6 electricity damage (DC 28 Reflex check save). The cloud remains for 1d4 rounds, granting [[Conditions/Concealed|Concealment]] to everything within. The desert drake can't use Sandstorm Breath again for 1d6 rounds."
 
   - name: "Speed Surge"
     desc: "`pf2:1` (move) The desert drake moves up to twice its Speed. It can do this three times per day."
@@ -84,7 +84,7 @@ attacks:
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the desert drake."
 
   - name: "[[Bestiary Ability Glossary/Push|Push 5 feet]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

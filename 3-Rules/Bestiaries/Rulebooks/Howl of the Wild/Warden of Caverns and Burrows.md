@@ -31,7 +31,7 @@ trait_02: [[earth]]
 modifier: 36
 perception:
   - name: "Perception"
-    desc: "+36; "
+    desc: "+36; Darkvision, Tremorsense (Imprecise) 60 Feet"
 languages: "voice of nature"
 skills:
   - name: "Skills"
@@ -51,6 +51,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Darkvision|Darkvision]]"
+    desc: "  A monster with darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. Some forms of magical darkness, such as a 4th-rank [[Spells/Darkness|Darkness]] spell, block normal darkvision. A monster with [[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]], however, can see through even these forms of magical darkness."
+
   - name: "[[Creature Family Ability Glossary/(Warden of the Wild) Voice of Nature|Voice of Nature]]"
     desc: "  Though the Wardens of the Wild do not speak in words, they can communicate complex concepts flawlessly and wordlessly with any animal, beast, plant, or other creature of the natural world through prolonged eye contact. Sapient creatures with strong ties to the natural world, such as animal instinct barbarians or druids who speak the Wildsong, can somewhat understand a Warden of the Wild, though the meaning can be vague."
 
@@ -65,17 +71,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horned Crown +41 (magical, reach 10 feet)\n__Damage__  4d12 + 22 piercing"
+  - name: "**Melee** `pf2:1` Horned Crown"
+    desc: "+41 (magical, reach 10 feet)\n__Damage__  4d12 + 22 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandible +41 (agile, magical, reach 15 feet)\n__Damage__  4d10 + 22 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Mandible"
+    desc: "+41 (agile, magical, reach 15 feet)\n__Damage__  4d10 + 22 bludgeoning plus improved-grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Chirp +33 (magical, range 60 feet)\n__Damage__  4d10 + 18 sonic"
+  - name: "**Ranged** `pf2:1` Chirp"
+    desc: "+33 (magical, range 60 feet)\n__Damage__  4d10 + 18 sonic"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Magma Jet +33 (magical, range increment 60 feet)\n__Damage__  4d8 + 13 fire plus obsidian-cage 2d6 fire plus obsidian-cage"
+  - name: "**Ranged** `pf2:1` Magma Jet"
+    desc: "+33 (magical, range increment 60 feet)\n__Damage__  4d8 + 13 fire plus obsidian-cage 2d6 fire plus obsidian-cage"
 
   - name: "Bury Beneath Stone"
     desc: "`pf2:1` (attack,primal) **Requirements** The warden has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The warden attempts to wedge a creature they have grabbed in their mandibles within a crack in the earth that opens beneath them. The warden attempts an Athletics check check against the grabbed creature's Reflex DC. If they succeed, they bury the creature in the ground. The creature takes 10d10 bludgeoning damage. It is also [[Conditions/Restrained|Restrained]], [[Conditions/Slowed|Slowed 1]], and has to hold its breath or start suffocating until it [[Actions/Escape|Escapes]] (DC 42). If the creature is still buried at the end of its turn, it takes 5d10 bludgeoning damage."
@@ -84,7 +90,7 @@ attacks:
     desc: "  The depths call to the warden, especially as they move through the air. When they [[Actions/Long Jump|Long Jump]], they can use any unused movement from the Long Jump to [[Actions/Burrow|Burrow]]. Additionally, the warden can Burrow through any earthen matter, including rock. When they do so, they move at their full burrow Speed."
 
   - name: "Erupting Jump"
-    desc: "`pf2:2` (primal) The warden draws out a stream of lava, then jumps off the solidifying mass as it cools. The warden [[Actions/Leap|Leaps]] up to twice their Speed. When they land, the force of the impact deals 6d12 bludgeoning damage to all creatures within a @Template[emanation|distance:15] with a DC 42 Fortitude check save. On a critical failure, the creature is also pushed 10 feet away from the warden."
+    desc: "`pf2:2` (primal) The warden draws out a stream of lava, then jumps off the solidifying mass as it cools. The warden [[Actions/Leap|Leaps]] up to twice their Speed. When they land, the force of the impact deals 6d12 bludgeoning damage to all creatures within a 15-foot emanation with a DC 42 Fortitude check save. On a critical failure, the creature is also pushed 10 feet away from the warden."
 
   - name: "Obsidian Cage"
     desc: "  Rapidly cooling obsidian clings to the target's body and stiffens around their limbs. The target must attempt a DC 42 Reflex check save. On a failure, the target is [[Conditions/Immobilized|Immobilized]] until they [[Actions/Escape|Escape]] (DC 42). On a critical failure, the target is [[Conditions/Off-Guard|Off-Guard]] for as long as they remain immobilized."

@@ -26,9 +26,9 @@ By scooping and kicking with your foot, you launch a cloud of dust into an adjac
 
 * * *
 
-**Critical Success** The cloud fills a @Template\[cone|distance:15\]. Creatures in the cone are covered in dust for 2 rounds, and dust-covered creatures are [[Conditions/Concealed|Concealed]] rather than [[Conditions/Invisible|Invisible]]. As an action, a creature can attempt a DC 15 Reflex check save to shake off the dust.
+**Critical Success** The cloud fills a 15-foot cone. Creatures in the cone are covered in dust for 2 rounds, and dust-covered creatures are [[Conditions/Concealed|Concealed]] rather than [[Conditions/Invisible|Invisible]]. As an action, a creature can attempt a DC 15 Reflex check save to shake off the dust.
 
-**Success** As critical success, but the cloud fills a @Template\[cone|distance:10\].
+**Success** As critical success, but the cloud fills a 10-foot cone.
 
 **Failure** You kick an insignificant amount of dust.
 

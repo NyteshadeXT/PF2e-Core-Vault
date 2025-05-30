@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +14 ()\n__Damage__  2d6 acid plus paralysis"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+14 ()\n__Damage__  2d6 acid plus paralysis"
 
   - name: "Integrate"
     desc: " (concentrate) The chamber ooze balloons outward to coat every square inch of the walls, fixtures, and furniture of a room measuring up to 40 feet by 40 feet. This takes 1 minute. The ooze can create one or two openings for creatures to enter the room, such as through a door.\n\nWhile Integrated, the chamber ooze has an automatic result of 28 on Stealth checks and DCs to remain undetected."

@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Aldori Dueling Sword +10 (finesse, versatile p)\n__Damage__  2d8 + 1 slashing"
+  - name: "**Melee** `pf2:1` Aldori Dueling Sword"
+    desc: "+10 (finesse, versatile p)\n__Damage__  2d8 + 1 slashing"
 
   - name: "Primal Spontaneous Spells"
-    desc: "DC 21, attack +13; __2nd __ (4 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Blazing Bolt|Scorching Ray]]_; __1st __ (4 slots) _[[Spells/Breathe Fire|Burning Hands (Bludgeoning, Water)]]_, _[[Spells/Chilling Spray|Chilling Spray]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_\n__Cantrips__  __(2nd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame (Bludgeoning, Water)]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 21, attack +13; __2nd __ (4 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Blazing Bolt|Scorching Ray]]_; __1st __ (4 slots) _[[Spells/Breathe Fire|Burning Hands (Bludgeoning, Water)]]_, _[[Spells/Chilling Spray|Chilling Spray]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_\n__Cantrips__  __(2nd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame (Bludgeoning, Water)]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Sorcerer Bloodline Spells"
     desc: "1 Focus Point, DC 21, attack +13; __2nd __  _[[Spells/Elemental Toss|Elemental Toss]]_"

@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Scout's Warning|Scout's Warning]]
 
-You gain a +1 circumstance bonus to your initiative roll.
+You gain a +1 circumstance bonus to your initiative roll (+2 if you also benefit from [[Actions/Scout|Scout]]).
 
 *Source: Pathfinder Player Core*
 *ORC*

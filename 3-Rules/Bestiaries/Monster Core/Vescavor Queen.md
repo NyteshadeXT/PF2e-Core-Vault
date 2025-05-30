@@ -57,17 +57,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 (magical, unholy)\n__Damage__  1d10 + 13 piercing 1d10 acid"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (magical, unarmed, unholy)\n__Damage__  1d10 + 13 piercing 1d10 acid"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile, magical, reach 10 feet, unholy)\n__Damage__  2d10 + 8 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, magical, reach 10 feet, unarmed, unholy)\n__Damage__  2d10 + 8 slashing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +20 (magical, reach 15 feet, unholy)\n__Damage__  2d4 piercing 2d10 acid"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+20 (magical, reach 15 feet, unholy)\n__Damage__  2d4 piercing 2d10 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +19 (acid, magical, range increment 30 feet)\n__Damage__  2d8 acid plus rage-pheromones"
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+19 (acid, magical, range increment 30 feet)\n__Damage__  2d8 acid plus rage-pheromones"
 
   - name: "Chaotic Spawning"
     desc: "`pf2:3`  The vescavor queen strengthens her swarms. All vescavor swarms within 100 feet become Huge and [[Conditions/Quickened|Quickened]] for 1 minute. Vescavor swarms can only use the extra action each round for the Ravenous Bites action.\n\n[[Bestiary Effects/Effect_ Chaotic Spawning|Effect: Chaotic Spawning]]"
@@ -82,7 +82,7 @@ attacks:
     desc: "  If the vescavor queen's spit Strike damages a creature, it takes a –2 status penalty to all saving throws imposed by vescavor swarms for 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

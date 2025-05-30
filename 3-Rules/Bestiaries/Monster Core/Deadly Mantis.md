@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +25 (reach 10 feet)\n__Damage__  2d12 + 14 piercing"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+25 (reach 10 feet)\n__Damage__  2d12 + 14 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Leg +24 (agile, reach 20 feet)\n__Damage__  2d10 + 14 piercing plus grab"
+  - name: "**Melee** `pf2:1` Leg"
+    desc: "+24 (agile, reach 20 feet)\n__Damage__  2d10 + 14 piercing plus grab"
 
   - name: "Fling"
     desc: "`pf2:1`  The deadly mantis flings a [[Conditions/Grabbed|Grabbed]] creature into the air, up to 30 feet overhead and up to 30 feet away from the mantis (the creature takes damage from the fall as normal). If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage with a DC 31 Reflex check save."
@@ -74,7 +74,7 @@ attacks:
     desc: "  On the first round of combat, creatures that haven't acted are [[Conditions/Off-Guard|Off-Guard]] to the deadly mantis."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

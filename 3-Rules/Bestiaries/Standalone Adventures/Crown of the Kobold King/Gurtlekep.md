@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +10 (agile, finesse, versatile s)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+10 (agile, finesse, versatile s)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Knife 'n Run"
     desc: "`pf2:1`  **Requirements** Gurtlekep is adjacent to at least one enemy and holds a dagger in a hand\n* * *\n\n**Effect** Gurtlekep Strides up to his Speed plus 5 feet and then attempts a ranged Strike with his held dagger. He must end this movement in a space that isn't adjacent to any enemy."

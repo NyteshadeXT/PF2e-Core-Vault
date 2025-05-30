@@ -6,7 +6,7 @@ tags:
   - trait/exploration
   - trait/healing
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9"
@@ -14,14 +14,14 @@ license: ORC
 ---
 # Treat Wounds
 
-### [[exploration]][[healing]][[3-Rules/Rule References/Manipulate]]
+### [[exploration]][[healing]][[manipulate]]
 
 **Category** interaction; 
 
 
 
 
-**Requirements** You're wearing or holding a [[Healer's Toolkit|Healer's Toolkit]].
+**Requirements** You're wearing or holding a [[Equipment/Healer's Toolkit|Healer's Toolkit]].
 
 * * *
 

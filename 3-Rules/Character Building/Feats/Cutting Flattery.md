@@ -22,5 +22,5 @@ license: OGL
 * * *
 Repeated entries in Firebrand bragging and flyting contests have taught you how to twist pretty words into concealed insults. When you succeed at your check to [[Actions/Coerce|Coerce]] a creature, the target's attitude toward you improves by one step, to a maximum of friendly, and they don't become unfriendly 1 day later.
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

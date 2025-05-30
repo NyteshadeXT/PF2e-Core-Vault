@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Secret Society) Prepared Diversion"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.vX0CRZWok5ghasb3"
 license: OGL
 ---

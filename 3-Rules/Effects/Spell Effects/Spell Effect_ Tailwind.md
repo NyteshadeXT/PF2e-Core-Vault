@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Tailwind|Tailwind]]
+Granted by [[Spells/Tailwind|Tailwind]]
 
 You gain a +10-foot status bonus to your Speed.
 

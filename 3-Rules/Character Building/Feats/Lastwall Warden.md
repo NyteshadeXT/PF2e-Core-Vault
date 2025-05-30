@@ -23,5 +23,5 @@ You use your shield to protect your allies, not just yourself, especially agains
 
 If an undead makes an attack against an ally within 10 feet, you can Step to become adjacent to your ally and then use Shield Block as part of the same reaction.
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

@@ -55,25 +55,31 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 30 feet. DC 26 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 30 feet. DC 26 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Soulscent (Imprecise) 100 feet"
     desc: " (occult) The sluagh is aware of all [[Conditions/Doomed|Doomed]] creatures, [[Conditions/Dying|Dying]] creatures, and creatures that died within the last hour within the listed range."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile, magical)\n__Damage__  3d6 + 9 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, magical, unarmed)\n__Damage__  3d6 + 9 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 26, attack +18; __2nd __ (1 slots) _[[Spells/Invisibility|Invisibility]]_\n__Cantrips__  __(5th)__ _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Timber|Timber]]_"
 
   - name: "[[Creature Family Ability Glossary/(Woodblessed) Explosive End|Explosive End]]"
-    desc: " (primal,wood) When the woodblessed dies, the planar portal inside of them collapses, causing them to explode in a @Template[burst|distance:20] of vines that deal 10d6 bludgeoning damage to all creatures with a DC 26 Reflex check save. The woodblessed's body is completely consumed, though their root network and gear remain behind."
+    desc: " (primal,wood) When the woodblessed dies, the planar portal inside of them collapses, causing them to explode in a 20-foot burst of vines that deal 10d6 bludgeoning damage to all creatures with a DC 26 Reflex check save. The woodblessed's body is completely consumed, though their root network and gear remain behind."
 
   - name: "Ghostly Swoop"
     desc: "`pf2:1`  The sluagh reaper becomes incorporeal until the start of their next turn, and Flies up to their fly Speed. While incorporeal, they are immune to precision damage, and have resistance 10 to all damage (except force, ghost touch, or vitality); this resistance is doubled against non-magical damage.\n\nAfter using Ghostly Swoop, the sluagh reaper can't use it again for 1d4 rounds."

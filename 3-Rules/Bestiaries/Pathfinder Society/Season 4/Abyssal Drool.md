@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +8 ()\n__Damage__  1d4 + 1 acid"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+8 (unarmed)\n__Damage__  1d4 + 1 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Splorch +5 (range 30 feet)\n__Damage__  1d4 acid"
+  - name: "**Ranged** `pf2:1` Splorch"
+    desc: "+5 (range 30 feet)\n__Damage__  1d4 acid"
 
   - name: "Enduring Spittle"
     desc: "  If abyssal drool critically hits a target, that creature also takes 1 persistent acid damage."

@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/The Brass Dwarf|The Brass Dwarf]]
+
 You gain weakness equal to half your level to the previous energy type of _The Brass Dwarf_.
 
 *Source: Pathfinder #190: The Choosing*

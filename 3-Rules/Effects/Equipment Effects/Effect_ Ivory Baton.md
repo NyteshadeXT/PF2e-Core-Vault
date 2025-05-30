@@ -16,7 +16,9 @@ license: OGL
 
 
 
+Granted by [[Equipment/Ivory Baton|Ivory Baton]]
+
 The construct gains a +1 status bonus to attack rolls, damage rolls, and saving throws (except saving throws against the ivory baton).
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

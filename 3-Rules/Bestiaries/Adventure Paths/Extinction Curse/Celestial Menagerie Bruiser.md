@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatclub +20 (backswing, magical, shove)\n__Damage__  2d10 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Greatclub"
+    desc: "+20 (backswing, magical, shove)\n__Damage__  2d10 + 10 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +19 (agile, nonlethal)\n__Damage__  1d4 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+19 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +15 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+15 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
 
   - name: "Terrifying Sneer"
     desc: "`pf2:1`  **Frequency** once per turn\n\n**Requirements** The bruiser must target a creature they [[Actions/Shove|Shoved]] since the end of the bruiser's last turn\n* * *\n\n**Effect** The bruiser attempts to [[Actions/Demoralize|Demoralize]] the target. If the bruiser rolls a success, they get a critical success instead."

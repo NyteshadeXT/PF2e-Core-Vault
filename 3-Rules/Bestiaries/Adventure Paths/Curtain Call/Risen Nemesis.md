@@ -68,8 +68,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +35 (agile, finesse, magical)\n__Damage__  4d6 + 10 slashing 4d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+35 (agile, finesse, magical, unarmed)\n__Damage__  4d6 + 10 slashing 4d6 spirit"
 
   - name: "Occult Innate Spells"
     desc: "DC 42, attack +34; __9th __  _[[Spells/Phantasmagoria|Phantasmagoria]]_; __8th __  _[[Spells/Vision of Death|Vision of Death]]_; __7th __  _[[Spells/Warp Mind|Warp Mind]]_\n__Cantrips__  __(10th)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_, _[[Spells/Void Warp|Void Warp]]_"

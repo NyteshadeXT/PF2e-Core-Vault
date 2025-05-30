@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +27 (agile, finesse, unarmed)\n__Damage__  3d4 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+27 (agile, finesse, unarmed)\n__Damage__  3d4 + 10 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Mantis Strike +25 (agile, finesse, twin, unarmed)\n__Damage__  3d12 + 10 slashing plus grab"
+  - name: "**Melee** `pf2:1` Mantis Strike"
+    desc: "+25 (agile, finesse, twin, unarmed)\n__Damage__  3d12 + 10 slashing plus grab"
 
   - name: "Spontaneous Occult Spells"
     desc: "DC 36, attack +28; __8th __ (2 slots) _[[Spells/Confusing Colors|Scintillating Pattern]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (3 slots) _[[Spells/Planar Seal|Dimensional Lock]]_, _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Energy Aegis|Energy Aegis]]_; __6th __ (3 slots) _[[Spells/Collective Transposition|Collective Transposition]]_, _[[Spells/Spellwrack|Spellwrack]]_, _[[Spells/Spirit Blast|Spirit Blast]]_; __5th __ (3 slots) _[[Spells/Banishment|Banishment]]_, _[[Spells/Shadow Siphon|Shadow Siphon]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_; __4th __ (3 slots) _[[Spells/Confusion|Confusion]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse]]_, _[[Spells/Telepathy|Telepathy]]_; __3rd __ (3 slots) _[[Spells/Circle of Protection|Circle of Protection]]_, _[[Spells/Shared Invisibility|Invisibility Sphere]]_, _[[Spells/Veil of Privacy|Nondetection]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Paranoia|Paranoia]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __ (3 slots) _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Summon Fey|Summon Fey]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_"
@@ -76,7 +76,7 @@ attacks:
     desc: "  **Trigger** Yarrika casts an occult spell\n* * *\n\n**Effect** Yarrika makes a fist Strike against a creature within reach."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

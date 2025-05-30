@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bo Staff +9 (parry, reach, trip)\n__Damage__  1d8 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Bo Staff"
+    desc: "+9 (parry, reach, trip)\n__Damage__  1d8 + 3 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +9 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+9 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Monk Focus Spells"
     desc: "2 Focus Points, DC 15, attack +7; __1st __  _[[Spells/Qi Rush|Ki Rush]]_, _[[Spells/Inner Upheaval|Ki Strike]]_"

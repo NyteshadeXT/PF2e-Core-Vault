@@ -19,13 +19,13 @@ license: ORC
 
 Granted by [[Feats/Security|Security]]
 
-You grant an ally a +1 status bonus to AC.
+You gain a +1 status bonus to AC.
 
 * * *
 
 Granted by [[Feats/Greater Security|Greater Security]]
 
-If your shield is raised, the ally with the companion shield gets the same bonus to AC your shield grants.
+If the champion's shield is raised, you gain the same bonus to AC their shield grants.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

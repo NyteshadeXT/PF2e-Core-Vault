@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Retract Body"
@@ -60,17 +63,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +32 (magical, reach 15 feet)\n__Damage__  3d8 + 17 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+32 (magical, reach 15 feet, unarmed)\n__Damage__  3d8 + 17 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +32 (agile, magical, reach 10 feet)\n__Damage__  3d6 + 17 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+32 (agile, magical, reach 10 feet, unarmed)\n__Damage__  3d6 + 17 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +30 (magical, reach 20 feet)\n__Damage__  2d10 + 17 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+30 (magical, reach 20 feet)\n__Damage__  2d10 + 17 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mental Blast +31 (mental, range 100 feet)\n__Damage__  6d6 + 6 mental"
+  - name: "**Ranged** `pf2:1` Mental Blast"
+    desc: "+31 (mental, range 100 feet)\n__Damage__  6d6 + 6 mental"
 
   - name: "Occult Prepared Spells"
     desc: "DC 39, attack +31; __8th __  _[[Spells/Hidden Mind|Hidden Mind]]_, _[[Spells/Unrelenting Observation|Unrelenting Observation]]_; __7th __  _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Project Image|Project Image]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __  _[[Spells/Mislead|Mislead]]_, _[[Spells/Scrying|Scrying]]_, _[[Spells/Truesight|Truesight]]_; __5th __  _[[Spells/Scouting Eye|Scouting Eye]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_, _[[Spells/Truespeech|Truespeech]]_; __4th __  _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Honeyed Words|Honeyed Words]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Clairaudience|Clairaudience]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Veil of Privacy|Veil of Privacy]]_; __2nd __  _[[Spells/Calm|Calm]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Paranoia|Paranoia]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Phantom Pain|Phantom Pain]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Message|Message]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -82,13 +85,13 @@ attacks:
     desc: " (manipulate,occult,polymorph) **Frequency** once per day\n* * *\n\n**Effect** The dragon conjures a perfect flesh-suit replica of a humanoid they've seen of their size or smaller and compresses themself into it, along with generating appropriate clothing for the humanoid. This process takes 1 minute to complete, during which the dragon is [[Conditions/Off-Guard|Off-Guard]]. If the dragon stops or is interrupted in this process, the suit is destroyed. Once the process is complete, the dragon can remain in this disguise indefinitely.\n\nThe transformation has the effects of [[Bestiary Ability Glossary/Change Shape|Change Shape]], except that the disguise is not actively magical in nature and doesn't register as magical to detect magic and similar effects. The dragon loses Retract Body while transformed.\n\nIf the dragon is critically hit while wearing the disguise, the suit is destroyed and immediately explodes. This has the effects of Detonate Disguise, except that creatures use the outcome one degree of success better than they rolled on their save."
 
   - name: "Detonate Disguise"
-    desc: "`pf2:2` (occult) **Requirements** The dragon is wearing their conjured disguise\n* * *\n\n**Effect** The dragon erupts from the disguise, destroying it. The explosive revelation deals 18d6 bludgeoning damage to creatures in a @Template[emanation|distance:5] with a DC 39 Reflex check save. A creature that fails its save is [[Conditions/Dazzled|Dazzled]] for 1 round as it becomes covered in scraps from the disguise.\n\nAny creature sharing a space with the dragon after they erupt is pushed into the nearest empty space."
+    desc: "`pf2:2` (occult) **Requirements** The dragon is wearing their conjured disguise\n* * *\n\n**Effect** The dragon erupts from the disguise, destroying it. The explosive revelation deals 18d6 bludgeoning damage to creatures in a 5-foot emanation with a DC 39 Reflex check save. A creature that fails its save is [[Conditions/Dazzled|Dazzled]] for 1 round as it becomes covered in scraps from the disguise.\n\nAny creature sharing a space with the dragon after they erupt is pushed into the nearest empty space."
 
   - name: "Rushed Transformation"
     desc: "`pf2:3` (concentrate,manipulate,occult,polymorph) **Frequency** once per hour\n* * *\n\n**Effect** Using the aid of magic and an exhausting amount of effort, the dragon quickly reshapes their body into the form of a generic humanoid figure. This has the effects of [[Spells/Humanoid Form|Humanoid Form]] except that it lasts only 1 minute, and the dragon doesn't gain the +4 status bonus to Deception as the transformation makes use of the dragon's body to crudely mimic a humanoid form. The dragon can Dismiss the effect.\n\nWhenever the effect ends, the dragon leaves behind scraps of magically conjured flesh, which could give away the dragon's presence."
 
   - name: "Smoke Breath"
-    desc: "`pf2:2` (occult,poison) The dragon unleashes a noxious cloud of smoke that deals 16d6 poison damage in a @Template[cone|distance:60] (DC 39 Fortitude check save). The smoke remains for 1 minute. This has the effects of [[Spells/Mist|Mist]], except it fills the cone's area.\n\nThe dragon can't use Smoke Breath again for 1d4 rounds."
+    desc: "`pf2:2` (occult,poison) The dragon unleashes a noxious cloud of smoke that deals 16d6 poison damage in a 60-foot cone (DC 39 Fortitude check save). The smoke remains for 1 minute. This has the effects of [[Spells/Mist|Mist]], except it fills the cone's area.\n\nThe dragon can't use Smoke Breath again for 1d4 rounds."
 
   - name: "Sneak Attack"
     desc: "  The dragon's Strikes deal an additional 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] targets."

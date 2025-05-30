@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Shield Block
 * * *
-You pour divine energy into a desperate block. When you Shield Block, you can expend a [[Harm|Harm]] or [[Heal|Heal]] spell. Roll 1d8 for each rank of the spell, and increase the shield's Hardness by the total for this block.
+You pour divine energy into a desperate block. When you Shield Block, you can expend a [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]] spell. Roll 1d8 for each rank of the spell, and increase the shield's Hardness by the total for this block.
 
 *Source: Pathfinder Player Core*
 *ORC*

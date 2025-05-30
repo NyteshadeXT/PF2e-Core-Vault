@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 (magical, reach 10 feet)\n__Damage__  2d10 + 11 piercing 1d6 force"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (magical, reach 10 feet, unarmed)\n__Damage__  2d10 + 11 piercing 1d6 force"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (agile, magical)\n__Damage__  1d6 force 2d6 + 11 piercing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (agile, magical, unarmed)\n__Damage__  1d6 force 2d6 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +19 (magical, reach 15 feet)\n__Damage__  1d6 force 2d10 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+19 (magical, reach 15 feet)\n__Damage__  1d6 force 2d10 + 11 bludgeoning"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 30, attack +22; __4th __  _[[Spells/Flicker|Flicker]]_, _[[Spells/Translocate|Translocate]]_, _[[Spells/Vision of Death|Vision of Death]]_; __3rd __  _[[Spells/Aqueous Orb|Aqueous Orb]]_, _[[Spells/Haste|Haste]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mist|Mist]]_, _[[Spells/Web|Web]]_; __1st __  _[[Spells/Grease|Grease]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Item Facade|Item Facade]]_, _[[Spells/Phantasmal Minion|Phantasmal Minion]]_\n__Cantrips__  __(5th)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
@@ -76,10 +76,10 @@ attacks:
     desc: "DC 30, attack +22; __5th __ (1 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Force Barrage|Force Barrage]]_, _[[Spells/Slither|Slither]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Disruptive Breath"
-    desc: "`pf2:2` (arcane,force) The dragon unleashes a spray of magic-disrupting energies that deals 9d6 force damage in a @Template[cone|distance:30] (DC 30 Reflex check save). Creatures that fail become [[Conditions/Stupefied|Stupefied 1]] ([[Conditions/Stupefied|Stupefied 2]] on a critical failure) for 1 minute.\n\nThe dragon can't use Disruptive Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,force) The dragon unleashes a spray of magic-disrupting energies that deals 9d6 force damage in a 30-foot cone (DC 30 Reflex check save). Creatures that fail become [[Conditions/Stupefied|Stupefied 1]] ([[Conditions/Stupefied|Stupefied 2]] on a critical failure) for 1 minute.\n\nThe dragon can't use Disruptive Breath again for 1d4 rounds."
 
   - name: "Share the Wealth"
-    desc: "`pf2:2`  **Requirements** The dragon's body is covered in riches (this is typically the case when the dragon is first encountered)\n* * *\n\n**Effect** The dragon shakes their body aggressively, sending coins and other riches flying in every direction, dealing 6d10 bludgeoning damage with a DC 29 Reflex check save to all creatures in a @Template[emanation|distance:30]. The dragon's body is then no longer covered in riches."
+    desc: "`pf2:2`  **Requirements** The dragon's body is covered in riches (this is typically the case when the dragon is first encountered)\n* * *\n\n**Effect** The dragon shakes their body aggressively, sending coins and other riches flying in every direction, dealing 6d10 bludgeoning damage with a DC 29 Reflex check save to all creatures in a 30-foot emanation. The dragon's body is then no longer covered in riches."
 
   - name: "Treasure Dive"
     desc: "`pf2:2`  **Requirements** The dragon's body isn't covered in riches and the dragon is adjacent to their hoard\n* * *\n\n**Effect** The dragon Strides or Burrows through their hoard using their land Speed. They coat themself in coins, magic items, and other treasures. This contact with magical items revitalizes the dragon, causing them to regain one expended spontaneous spell slot.\n\nThe dragon can move through other creatures while moving in this way. Creatures in the dragon's path, or above it if the dragon Burrows, must succeed at a DC 27 Reflex check save or be pushed 10 feet (or pushed 20 feet and knocked [[Conditions/Prone|Prone]] on a critical failure)."

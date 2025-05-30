@@ -54,17 +54,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
   - name: "Whispered Despair"
     desc: "`pf2:r` (emotion) **Trigger** A creature with an active emotion effect enters an attic whisperer's aura of sobs\n* * *\n\n**Effect** The attic whisperer attempts to counteract the emotion effect, with a counteract modifier of +13."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 (agile, finesse)\n__Damage__  3d8 piercing plus steal-breath"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (agile, finesse, unarmed)\n__Damage__  3d8 piercing plus steal-breath"
 
-  - name: "Melee"
-    desc: "`pf2:1` Bony Hand +17 (agile)\n__Damage__  2d12 void plus steal-voice"
+  - name: "**Melee** `pf2:1` Bony Hand"
+    desc: "+17 (agile)\n__Damage__  2d12 void plus steal-voice"
 
   - name: "Aura of Sobs"
     desc: " (auditory,aura,emotion,mental,occult) 10 feet. Anitoli Nostreaema enshrouds itself in a tapestry of stolen voices. Each living creature that enters or starts their turn in the aura must succeed at a DC 21 Will check save or the unnerving, bitter sobs render them distraught and they become [[Conditions/Stupefied|Stupefied 1]] for as long as they remain within the aura. A creature that succeeds is temporarily immune for 1 hour.\n\nAnitoli Nostreaema can activate or deactivate the aura with a single free action, which has the concentrate trait."

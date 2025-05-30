@@ -32,7 +32,7 @@ trait_02: [[humanoid]]
 modifier: 8
 perception:
   - name: "Perception"
-    desc: "+8; Darkvision"
+    desc: "+8; Low-Light Vision"
 languages: "Chthonian, Common, Kholo"
 skills:
   - name: "Skills"
@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Falchion +10 (forceful, sweep)\n__Damage__  1d10 + 3 slashing"
+  - name: "**Melee** `pf2:1` Falchion"
+    desc: "+10 (forceful, sweep)\n__Damage__  1d10 + 3 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 (agile)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (agile, unarmed)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 22, attack +10; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Spiritual Armament|Spiritual Armament]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Runic Weapon|Runic Weapon]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_"

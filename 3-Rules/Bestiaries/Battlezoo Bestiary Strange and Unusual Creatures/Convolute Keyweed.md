@@ -35,7 +35,7 @@ perception:
 languages: "Common, Fey; can&#x27;t speak any language; communicates via sign language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +23, Athletics: +21, Crafting: +21, Society: +21, Stealth: +26, Thievery: +26, Acrobatics: +23, Athletics: +21, Crafting: +21, Society: +21, Stealth: +26, Thievery: +26"
+    desc: "Acrobatics: +23, Athletics: +21, Crafting: +21, Society: +21, Stealth: +26, Thievery: +26"
 abilityMods: [5, 7, 3, 3, 5, 5]
 speed: 40 feet,  climb 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Razor Vine +24 (agile, disarm, finesse, reach 15 feet)\n__Damage__  2d8 + 11 slashing"
+  - name: "**Melee** `pf2:1` Razor Vine"
+    desc: "+24 (agile, disarm, finesse, reach 15 feet)\n__Damage__  2d8 + 11 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Whirling Vine +24 (range increment 30 feet)\n__Damage__  2d8 + 11 slashing"
+  - name: "**Ranged** `pf2:1` Whirling Vine"
+    desc: "+24 (range increment 30 feet)\n__Damage__  2d8 + 11 slashing"
 
   - name: "Encroachment"
     desc: "  Convolute keyweeds can pass through openings as small as one inch without needing to Squeeze. Thanks to their many vines, they don't need free hands to Climb or [[undefined]]."

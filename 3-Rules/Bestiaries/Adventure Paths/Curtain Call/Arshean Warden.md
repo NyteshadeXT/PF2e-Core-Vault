@@ -55,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Divine Warden) Divine Destruction|Divine Destruction]]"
-    desc: " (divine,vitality) When the divine warden is reduced to 0 HP, it erupts with divine energy in a @Template[emanation|distance:30], dealing 12d6 vitality damage. Each creature in the area must attempt a DC 32 Will check save with the following outcomes.\n* * *\n\n**Critical Success** The creature takes half damage.\n\n**Success** The creature takes full damage.\n\n**Failure** The creature takes full damage and becomes temporarily cursed by the patron deity. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Stupefied|Stupefied 1]] for 1 day; this is a curse effect that uses the Will save DC as the counteract DC.\n\n**Critical Failure** As failure, except the creature becomes [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Stupefied|Stupefied 2]]."
+    desc: " (divine,vitality) When the divine warden is reduced to 0 HP, it erupts with divine energy in a 30-foot emanation, dealing 12d6 vitality damage. Each creature in the area must attempt a DC 32 Will check save with the following outcomes.\n* * *\n\n**Critical Success** The creature takes half damage.\n\n**Success** The creature takes full damage.\n\n**Failure** The creature takes full damage and becomes temporarily cursed by the patron deity. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Stupefied|Stupefied 1]] for 1 day; this is a curse effect that uses the Will save DC as the counteract DC.\n\n**Critical Failure** As failure, except the creature becomes [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Stupefied|Stupefied 2]]."
 
   - name: "[[Creature Family Ability Glossary/(Divine Warden) Faith Bound|Faith Bound]]"
     desc: " (divine) A divine warden can't attack a creature that openly wears or displays the religious symbol of the divine warden's patron deity unless that creature uses a hostile action against the divine warden first. If the divine warden is intelligent, it can also attack a creature it believes isn't faithful to its deity or who wears the religious symbol as a ruse (typically after succeeding at a Perception check to [[Actions/Sense Motive|Sense Motive]])."
@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +24 (agile)\n__Damage__  3d6 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+24 (agile, unarmed)\n__Damage__  3d6 + 11 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Flail +25 (disarm, magical, sweep, trip)\n__Damage__  3d6 + 11 bludgeoning 1d6 fire"
+  - name: "**Melee** `pf2:1` Flail"
+    desc: "+25 (disarm, magical, sweep, trip)\n__Damage__  3d6 + 11 bludgeoning 1d6 fire"
 
   - name: "Divine Innate Spells"
     desc: "DC 32, attack +24\n__Cantrips__  __(6th)__ _[[Spells/Divine Lance|Divine Lance]]_"

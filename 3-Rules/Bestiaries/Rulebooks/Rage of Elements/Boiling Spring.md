@@ -69,17 +69,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Blistering Fist +27 (fire)\n__Damage__  3d8 + 13 fire"
+  - name: "**Melee** `pf2:1` Blistering Fist"
+    desc: "+27 (fire)\n__Damage__  3d8 + 13 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heat Wave +27 (fire, range increment 50 feet)\n__Damage__  3d12 fire"
+  - name: "**Ranged** `pf2:1` Heat Wave"
+    desc: "+27 (fire, range increment 50 feet)\n__Damage__  3d12 fire"
 
   - name: "Freeze and Shatter"
-    desc: "  If the boiling spring is destroyed with cold damage, their body freezes over and explodes, sending out a wave of frigid air and ice shards that deal 4d6 piercing damage plus 4d6 cold damage to creatures in a @Template[emanation|distance:20] (DC 36 Reflex check save)."
+    desc: "  If the boiling spring is destroyed with cold damage, their body freezes over and explodes, sending out a wave of frigid air and ice shards that deal 4d6 piercing damage plus 4d6 cold damage to creatures in a 20-foot emanation (DC 36 Reflex check save)."
 
   - name: "Scalding Breath"
-    desc: "`pf2:2` (fire,primal) The boiling spring breathes out a cloud of steam in a @Template[cone|distance:30] that deals 14d6 fire damage to each creature in the area (DC 33 Reflex check save). The boiling spring can't use Scalding Breath again for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) The boiling spring breathes out a cloud of steam in a 30-foot cone that deals 14d6 fire damage to each creature in the area (DC 33 Reflex check save). The boiling spring can't use Scalding Breath again for 1d4 rounds."
  
 ```
 

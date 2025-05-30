@@ -55,22 +55,25 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Scimitar|Scimitar]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +11 (forceful, sweep)\n__Damage__  1d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+11 (forceful, sweep)\n__Damage__  1d6 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +11 ()\n__Damage__  1d8 + 6 piercing plus serpentfolk-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+11 ()\n__Damage__  1d8 + 6 piercing plus serpentfolk-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +11 (agile)\n__Damage__  1d6 + 6 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+11 (agile)\n__Damage__  1d6 + 6 bludgeoning plus knockdown"
 
   - name: "Serpentfolk Venom"
     desc: " (poison) **Saving Throw** DC 20 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"
@@ -79,7 +82,7 @@ attacks:
     desc: "`pf2:1`  The aapoph serpentfolk makes one scimitar or fangs Strike and one tail Strike, each targeting a different creature. These attacks both count toward the aapoph's multiple attack penalty, but the penalty doesn't increase until after the aapoph makes both attacks."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

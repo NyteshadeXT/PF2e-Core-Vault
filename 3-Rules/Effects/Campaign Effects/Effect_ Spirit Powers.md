@@ -16,7 +16,7 @@ license: OGL
 
 
 
-When the PCs [[Transmigrate|Transmigrate]] into the living world during the third chapter of this adventure, they're ectoplasmic beings trapped somewhere between life and undeath. While in this state, the PCs function mostly normally, but appear as semi-solid ectoplasmic versions of themselves. They aren't quite transparent, but their solid bodies seem to waver and shimmer along the edges, giving them an eerie, unsettling appearance. While in this state, they're living creatures but gain some of the following abilities similar to those shared by undead creatures. As living creatures more akin to phantoms, they remain susceptible to negative damage and are healed by positive energy.
+When the PCs [[Spells/Transmigrate|Transmigrate]] into the living world during the third chapter of this adventure, they're ectoplasmic beings trapped somewhere between life and undeath. While in this state, the PCs function mostly normally, but appear as semi-solid ectoplasmic versions of themselves. They aren't quite transparent, but their solid bodies seem to waver and shimmer along the edges, giving them an eerie, unsettling appearance. While in this state, they're living creatures but gain some of the following abilities similar to those shared by undead creatures. As living creatures more akin to phantoms, they remain susceptible to negative damage and are healed by positive energy.
 
 **Undead Vision:** They gain low-light vision, or darkvision if their ancestry already has low-light vision.
 
@@ -30,39 +30,39 @@ When the PCs [[Transmigrate|Transmigrate]] into the living world during the thir
 
 ### Minor Spirit Powers
 
-[[Campaign Effects/Curiosity|Curiosity]]
+[[Adventure-Specific Actions/Curiosity|Curiosity]]
 
-[[Campaign Effects/Delusion|Delusion]]
+[[Adventure-Specific Actions/Delusion|Delusion]]
 
-[[Campaign Effects/Duty|Duty]]
+[[Adventure-Specific Actions/Duty|Duty]]
 
-[[Campaign Effects/Love|Love]]
+[[Adventure-Specific Actions/Love|Love]]
 
-[[Campaign Effects/Obsession|Obsession]]
+[[Adventure-Specific Actions/Obsession|Obsession]]
 
-[[Campaign Effects/Passion|Passion]]
+[[Adventure-Specific Actions/Passion|Passion]]
 
-[[Campaign Effects/Spite|Spite]]
+[[Adventure-Specific Actions/Spite|Spite]]
 
 ### Major Spirit Powers
 
-[[Campaign Effects/Chilling Paralysis|Chilling Paralysis]]
+[[Adventure-Specific Actions/Chilling Paralysis|Chilling Paralysis]]
 
-[[Campaign Effects/Dematerialize|Dematerialize]]
+[[Adventure-Specific Actions/Dematerialize|Dematerialize]]
 
-[[Campaign Effects/Flickering Figure|Flickering Figure]]
+[[Adventure-Specific Actions/Flickering Figure|Flickering Figure]]
 
-[[Campaign Effects/Flight|Flight]]
+[[Adventure-Specific Actions/Flight|Flight]]
 
-[[Campaign Effects/Grudge|Grudge]]
+[[Adventure-Specific Actions/Grudge|Grudge]]
 
-[[Campaign Effects/Resist Death|Resist Death]]
+[[Adventure-Specific Actions/Resist Death|Resist Death]]
 
-[[Campaign Effects/River's Reflection|River's Reflection]]
+[[Adventure-Specific Actions/River's Reflection|River's Reflection]]
 
-[[Campaign Effects/Sap Life|Sap Life]]
+[[Adventure-Specific Actions/Sap Life|Sap Life]]
 
-[[Campaign Effects/Undying Flesh|Undying Flesh]]
+[[Adventure-Specific Actions/Undying Flesh|Undying Flesh]]
 
 *Source: Pathfinder #198: No Breath to Cry*
 *OGL*

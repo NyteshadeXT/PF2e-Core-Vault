@@ -8,8 +8,9 @@ tags:
   - trait/teleportation
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.SE38R6zpv2XelzZk"
-license: OGL
+license: ORC
 ---
 # Call Gun
 ## Feat 8
@@ -21,7 +22,7 @@ license: OGL
 
 **Prerequisites** Spellshot Dedication
 * * *
-You build a powerful magical connection with a chosen gun or crossbow, gaining the ability to conjure it directly to your hand from any distant location. During your daily preparations, choose a single crossbow or firearm. Until your next daily preparations, you can use the [[Actions/Call Gun|Call Gun]] action to call the gun to your hand.
+You build a powerful magical connection with a chosen gun or crossbow. During your daily preparations, choose a single crossbow or firearm. Until your next daily preparations, you can use the [[Actions/Call Gun|Call Gun]] action to call the gun to your hand.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

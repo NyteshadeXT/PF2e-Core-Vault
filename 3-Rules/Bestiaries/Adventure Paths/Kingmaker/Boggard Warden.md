@@ -62,17 +62,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +21 (reach 10 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+21 (reach 10 feet)\n__Damage__ "
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +22 (magical, thrown 10 ft.)\n__Damage__  2d8 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+22 (magical, thrown 10 ft.)\n__Damage__  2d8 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +22 (magical, thrown 20 ft.)\n__Damage__  2d8 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+22 (magical, thrown 20 ft.)\n__Damage__  2d8 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blowgun +20 (agile, magical, nonlethal, range increment 20 feet, reload 1)\n__Damage__  1 piercing plus hunting-spider-venom"
+  - name: "**Ranged** `pf2:1` Blowgun"
+    desc: "+20 (agile, magical, nonlethal, range increment 20 feet, reload 1)\n__Damage__  1 piercing plus hunting-spider-venom"
 
   - name: "Nature's Edge"
     desc: "  Boggard wardens are trained to take advantage of their foes' weak points when they're on unfavorable terrain. Enemies are [[Conditions/Off-Guard|Off-Guard]] to the boggard warden if they're in natural difficult terrain."

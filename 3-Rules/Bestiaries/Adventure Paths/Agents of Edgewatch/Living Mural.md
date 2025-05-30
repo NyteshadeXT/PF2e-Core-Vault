@@ -61,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +37 (agile, finesse, magical, reach 15 feet)\n__Damage__  4d8 + 15 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+37 (agile, finesse, magical, reach 15 feet, unarmed)\n__Damage__  4d8 + 15 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Splatter +35 (magical, nonlethal, range increment 30 feet)\n__Damage__  3d8 + 4 bludgeoning plus splash-of-color"
+  - name: "**Ranged** `pf2:1` Splatter"
+    desc: "+35 (magical, nonlethal, range increment 30 feet)\n__Damage__  3d8 + 4 bludgeoning plus splash-of-color"
 
   - name: "Collective Attack"
     desc: "`pf2:2`  The subjects depicted within the living mural all reach out at once to attack. The living mural makes a fist Strike against each target within range.\n\nThese attacks count toward the living mural's multiple attack penalty, but this penalty doesn't increase until after all of the attacks are made."
 
   - name: "Paint the Masses"
-    desc: "`pf2:2`  The living mural expels a @Template[cone|distance:15] of paint.\n\nCreatures in the area must succeed at a DC 41 Reflex check save or be [[Conditions/Blinded|Blinded]] for 1 round.\n\nThe living mural can't use Paint the Masses again for 1d4 rounds."
+    desc: "`pf2:2`  The living mural expels a 15-foot cone of paint.\n\nCreatures in the area must succeed at a DC 41 Reflex check save or be [[Conditions/Blinded|Blinded]] for 1 round.\n\nThe living mural can't use Paint the Masses again for 1d4 rounds."
 
   - name: "Splash of Color"
     desc: "  When the living mural hits with a splatter attack, the target is also [[Conditions/Blinded|Blinded]] for 1 round."

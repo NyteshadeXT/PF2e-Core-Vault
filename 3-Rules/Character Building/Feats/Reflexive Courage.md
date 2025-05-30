@@ -24,7 +24,7 @@ license: ORC
 * * *
 **Trigger** A creature within your reach uses an auditory effect, manipulate action, or move action; makes a ranged attack; or leaves a square during its move action.
 
-**Requirements** You are affected by [[Courageous Anthem|Courageous Anthem]].
+**Requirements** You are affected by [[Spells/Courageous Anthem|Courageous Anthem]].
 
 * * *
 

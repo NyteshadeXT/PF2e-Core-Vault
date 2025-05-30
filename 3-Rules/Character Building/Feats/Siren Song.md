@@ -15,7 +15,7 @@ license: ORC
 ---
 # Siren Song `pf2:3`
 ## Feat 9
-### [[auditory]][[3-Rules/trait_reference/M/mental]][[merfolk]][[primal]]
+### [[auditory]][[mental]][[merfolk]][[primal]]
 
 **Category** ancestry; 
 
@@ -28,7 +28,7 @@ license: ORC
 
 * * *
 
-You can beguile and bewitch with your song. All creatures in a @Template\[emanation|distance:60\] must attempt a Will check save against your Performance DC. On subsequent rounds, you can Sustain the song, causing each creature in the area currently affected by your song to attempt another Will save. Typically, creatures that have traveled with you for a significant time, such as your fellow party members, are immune to your Siren Song.
+You can beguile and bewitch with your song. All creatures in a 60-foot emanation must attempt a Will check save against your Performance DC. On subsequent rounds, you can Sustain the song, causing each creature in the area currently affected by your song to attempt another Will save. Typically, creatures that have traveled with you for a significant time, such as your fellow party members, are immune to your Siren Song.
 
 * * *
 

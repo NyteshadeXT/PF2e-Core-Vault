@@ -37,7 +37,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, Athletics: +22"
+    desc: "Athletics: +22"
 abilityMods: [7, -4, 6, -5, 1, -5]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -70,8 +70,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +23 (reach 10 feet)\n__Damage__  2d12 + 13 bludgeoning plus gelatinizing-strike,grab"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+23 (reach 10 feet)\n__Damage__  2d12 + 13 bludgeoning plus gelatinizing-strike,grab"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

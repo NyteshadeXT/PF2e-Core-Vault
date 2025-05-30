@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +11 (deadly d8, disarm, finesse)\n__Damage__  1d6 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+11 (deadly d8, disarm, finesse)\n__Damage__  1d6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heavy Crossbow +11 (range increment 120 feet, reload 2)\n__Damage__  1d10 piercing"
+  - name: "**Ranged** `pf2:1` Heavy Crossbow"
+    desc: "+11 (range increment 120 feet, reload 2)\n__Damage__  1d10 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Mist|Obscuring Mist]]_; __1st __  _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Summon Animal|Summon Animal]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"

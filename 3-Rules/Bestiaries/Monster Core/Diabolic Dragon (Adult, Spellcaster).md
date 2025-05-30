@@ -60,25 +60,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet DC 34 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet DC 34 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Hell's Sting"
     desc: "`pf2:r` (divine,mental,unholy) **Trigger** The dragon is critically hit with a melee attack\n* * *\n\n**Effect** The dragon channels the rancor of Hell back through the body of their foe, overwhelming it with an infernal assault on the mind. The triggering creature takes 8d6 mental damage with a DC 36 Will check save. Holy creatures use an outcome one degree of success worse than they roll on their saving throw."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +30 (fire, magical, reach 10 feet, unholy)\n__Damage__  2d6 fire 3d12 + 11 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+30 (fire, magical, reach 15 feet, unarmed, unholy)\n__Damage__  2d6 fire 3d12 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +30 (agile, fire, magical, unholy)\n__Damage__  2d6 fire plus grab 3d8 + 11 piercing plus grab"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+30 (agile, fire, magical, reach 10 feet, unholy)\n__Damage__  2d6 fire plus grab 3d8 + 11 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +28 (fire, magical, reach 15 feet, unholy)\n__Damage__  3d8 + 11 bludgeoning plus knockdown 2d6 fire plus knockdown"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+28 (fire, magical, reach 20 feet, unholy)\n__Damage__  3d8 + 11 bludgeoning plus knockdown 2d6 fire plus knockdown"
 
   - name: "Divine Prepared Spells"
     desc: "DC 36, attack +30; __6th __  _[[Spells/Blessed Boundary|Blessed Boundary]]_, _[[Spells/Dominate|Dominate]]_; __5th __  _[[Spells/Banishment|Banishment]]_, _[[Spells/Sending|Sending]]_, _[[Spells/Truespeech|Truespeech]]_; __4th __  _[[Spells/Dispelling Globe|Dispelling Globe]]_, _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Planar Tether|Planar Tether]]_, _[[Spells/Translocate|Translocate]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Chilling Darkness|Chilling Darkness]]_; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Darkness|Darkness]]_, _[[Spells/Translate|Translate]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Message|Message]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Void Warp|Void Warp]]_"
@@ -90,13 +90,13 @@ attacks:
     desc: "  Any fire damage that a diabolic dragon deals, including fire damage from spells, is imbued with the unholy power of Hell to scorch the spirit as well. A creature takes spirit damage instead of fire damage if that would be more detrimental to the creature (as determined by the GM). A diabolic dragon is immune to the diabolic fire of other diabolic dragons, the fire from divine immolation, and similar effects."
 
   - name: "Hellfire Breath"
-    desc: "`pf2:2` (divine,fire,unholy) The dragon unleashes a blast of infernal fire that deals 16d6 fire damage in a @Template[cone|distance:50] (DC 36 Reflex check save).\n\nThe dragon can't use Hellfire Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire,unholy) The dragon unleashes a blast of infernal fire that deals 16d6 fire damage in a 50-foot cone (DC 36 Reflex check save).\n\nThe dragon can't use Hellfire Breath again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

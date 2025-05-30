@@ -70,11 +70,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +17 (magical, reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+17 (magical, reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Rope Whip +17 (magical, reach 20 feet)\n__Damage__  2d4 + 8 slashing plus grab"
+  - name: "**Melee** `pf2:1` Rope Whip"
+    desc: "+17 (magical, reach 20 feet)\n__Damage__  2d4 + 8 slashing plus grab"
 
   - name: "Strangle"
     desc: "`pf2:1`  **Requirements** The rope golem has a creature [[Conditions/Grabbed|Grabbed]];\n\n**Effect** The golem wraps one of its cords around the creature's throat, strangling it. A strangled creature can't speak or cast spells with a verbal component, and it must hold its breath to avoid suffocating."

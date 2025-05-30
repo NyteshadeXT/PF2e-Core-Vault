@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +9 (two-hand d8)\n__Damage__  1d4 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+9 (two-hand d8)\n__Damage__  1d4 + 1 bludgeoning"
 
   - name: "Prepared Arcane Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Translate|Comprehend Language]]_, _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Heal|Heal]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_"

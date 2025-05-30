@@ -69,20 +69,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +15 (forceful, reach 10 feet, sweep)\n__Damage__  1d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+15 (forceful, reach 10 feet, sweep)\n__Damage__  1d6 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +16 (agile, finesse, magical, nonlethal, reach 10 feet)\n__Damage__  1d4 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+16 (agile, finesse, magical, nonlethal, reach 10 feet, unarmed)\n__Damage__  1d4 + 10 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crashing Wind +16 (air, arcane, range increment 20 feet)\n__Damage__  1d8 + 8 bludgeoning"
+  - name: "**Ranged** `pf2:1` Crashing Wind"
+    desc: "+16 (air, arcane, range increment 20 feet)\n__Damage__  1d8 + 8 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 21, attack +13; __7th __  _[[Spells/Interplanar Teleport|Interplanar Teleport (to Astral Plane, Elemental Planes, or the Universe only)]]_; __4th __  _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Vapor Form|Vapor Form]]_; __3rd __  _[[Spells/Ill Omen|Ill Omen]]_, _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The jaathoom transforms into a Small or Medium air elemental or aerial animal, such as an owl. This doesn't affect their statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The jaathoom transforms into a Small or Medium air elemental or aerial animal, such as an owl. This doesn't affect their statistics, but it could change the damage type of their Strikes.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Hurricane Blast"
     desc: "`pf2:1` (air,arcane) **Frequency** once per round\n* * *\n\n**Effect** The jaathoom moves all creatures without the air trait in their turbulent skies aura 20 feet directly away, clockwise, or counterclockwise. A creature avoids being moved if it succeeds at a DC 21 Fortitude check save."

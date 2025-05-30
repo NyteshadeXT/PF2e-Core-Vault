@@ -56,14 +56,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +22 (finesse)\n__Damage__  2d10 + 7 piercing plus ghoul-ghoul-fever,profane-paralysis 2d6 void plus ghoul-ghoul-fever,profane-paralysis"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+22 (finesse, unarmed)\n__Damage__  2d10 + 7 piercing plus ghoul-ghoul-fever,profane-paralysis 2d6 void plus ghoul-ghoul-fever,profane-paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +22 (agile, finesse)\n__Damage__  2d6 + 7 slashing plus profane-paralysis 2d6 void plus profane-paralysis"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+22 (agile, finesse, unarmed)\n__Damage__  2d6 + 7 slashing plus profane-paralysis 2d6 void plus profane-paralysis"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Ghoul Fever|Ghoul Fever]]"
     desc: " (disease) **Saving Throw** DC 29 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."

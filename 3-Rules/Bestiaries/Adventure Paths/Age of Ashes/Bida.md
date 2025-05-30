@@ -57,23 +57,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 (reach 15 feet)\n__Damage__  2d12 + 9 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (reach 15 feet, unarmed)\n__Damage__  2d12 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +20 (reach 15 feet)\n__Damage__  2d6 + 9 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+20 (reach 15 feet)\n__Damage__  2d6 + 9 bludgeoning plus improved-grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 26, attack +18; __3rd __  _[[Spells/Veil of Privacy|Nondetection]]_; __2nd __  _[[Spells/Humanoid Form|Humanoid Form]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6+6 bludgeoning damage, DC 26 Fortitude check save\n\n* * *\n"
+    desc: "`pf2:1`  1d6+6 bludgeoning damage, DC 26 Fortitude check save\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Eight Coils"
     desc: "  A bida can Strike with its tail even while Grabbing creatures with it. The bida can have up to eight Medium or smaller creatures grabbed with its tail at a time; it can also grab Large creatures, but they count as four Medium creatures for this purpose."
 
   - name: "Mask Settlement"
-    desc: " (arcane,illusion) By concentrating for 4 hours, the bida hides a small settlement. This is a 5th-rank [[Spells/Mirage|Mirage]] spell, except the area is a @Template[burst|distance:500] and creatures are invisible while inside structures in the area. The bida can conceal only one settlement at a time, and must concentrate on the effect for 10 minutes at the beginning of each day to maintain the illusion."
+    desc: " (arcane,illusion) By concentrating for 4 hours, the bida hides a small settlement. This is a 5th-rank [[Spells/Mirage|Mirage]] spell, except the area is a 500-foot burst and creatures are invisible while inside structures in the area. The bida can conceal only one settlement at a time, and must concentrate on the effect for 10 minutes at the beginning of each day to maintain the illusion."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +19 (fire, forceful, magical, sweep)\n__Damage__  2d6 + 9 slashing 1d6 fire"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+19 (fire, forceful, magical, sweep)\n__Damage__  2d6 + 9 slashing 1d6 fire"
 
   - name: "Occult Innate Spells"
     desc: "DC 27, attack +17; __3rd __  _[[Spells/Haste|Haste]]_; __2nd __  _[[Spells/Soothe|Soothe]]_; __1st __  _[[Spells/Sure Strike|True Strike]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
@@ -93,7 +93,7 @@ The exact force that animates a living blade differs in every case, though often
 
 ## Other Living Blades
 
-Living blades come in many varieties, not all of which are even blades. Generally, a living blade is a magic melee weapon whose level is equal to its creature level + 2. Its runes can be replaced, but any attempt to remove a rune without replacing it fails. The only way to permanently turn a living blade into a non-cursed weapon is by counteracting it with the _[[Disjunction|Disjunction]]_ spell.
+Living blades come in many varieties, not all of which are even blades. Generally, a living blade is a magic melee weapon whose level is equal to its creature level + 2. Its runes can be replaced, but any attempt to remove a rune without replacing it fails. The only way to permanently turn a living blade into a non-cursed weapon is by counteracting it with the _[[Spells/Disjunction|Disjunction]]_ spell.
 
 ## Monster Part Subsystem
 

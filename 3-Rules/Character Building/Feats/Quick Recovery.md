@@ -11,7 +11,7 @@ aliases: "Compendium.pf2e.feats-srd.Item.aBbpdmbMGN5ox0WT"
 license: ORC
 ---
 # Quick Recovery `pf2:0`
-## Feat 1
+## Feat 9
 ### [[yaoguai]]
 
 **Category** ancestry; 
@@ -27,5 +27,5 @@ license: ORC
 
 You use your command over your form to repair life-threatening wounds. Reduce your wounded condition by 1.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

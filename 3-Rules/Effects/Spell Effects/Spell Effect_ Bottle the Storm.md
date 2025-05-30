@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Bottle the Storm|Bottle the Storm]]
+Granted by [[Spells/Bottle the Storm|Bottle the Storm]]
 
 You gain electricity resistance against the triggering effect.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

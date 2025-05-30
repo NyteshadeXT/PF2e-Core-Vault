@@ -53,25 +53,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Savage"
-    desc: "`pf2:r`  **Trigger** A creature [[Conditions/Grabbed|Grabbed]] by Minognos-Ushad critically fails a skill check to Escape.\n* * *\n\n**Effect** Minognos-Ushad makes a stinger Strike against the triggering creature."
+    desc: "`pf2:r`  **Trigger** A creature [[Conditions/Grabbed|Grabbed]] by Minognos-Ushad critically fails a skill check to [[Actions/Escape|Escape]].\n* * *\n\n**Effect** Minognos-Ushad makes a stinger Strike against the triggering creature."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +37 (reach 10 feet)\n__Damage__  4d10 + 18 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+37 (reach 10 feet, unarmed)\n__Damage__  4d10 + 18 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +37 (reach 10 feet)\n__Damage__  4d8 + 18 slashing plus improved-grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+37 (reach 10 feet, unarmed)\n__Damage__  4d8 + 18 slashing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +37 (agile, reach 20 feet)\n__Damage__  4d6 + 18 piercing plus wyvern-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+37 (agile, reach 20 feet, unarmed)\n__Damage__  4d6 + 18 piercing plus wyvern-venom"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (poison,primal) Minognos-Ushad breathes a @Template[cone|distance:60] of poison. Creatures in the cone take 20d6 poison damage (DC 41 Reflex check). Minognos-Ushad can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (poison,primal) Minognos-Ushad breathes a 60-foot cone of poison. Creatures in the cone take 20d6 poison damage (DC 41 Reflex check). Minognos-Ushad can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Powerful Dive"
     desc: "`pf2:2` (move) Minognos-Ushad Flies up to her fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If she ends her movement within melee reach of at least one enemy her size or smaller, she can make a claw Strike against that enemy. If the claw hits, as a free action she can either automatically [[Bestiary Ability Glossary/Grab|Grab]] the target or knock it [[Conditions/Prone|Prone]]."
@@ -80,7 +80,10 @@ attacks:
     desc: "`pf2:1`  **Requirements** Minognos-Ushad [[Conditions/Grabbed|Grabbed]] a creature this turn using Powerful Dive\n\n**Effect** Minognos-Ushad can Fly at half Speed while holding the creature in her claws, carrying that creature along with her and dropping it at the end of her movement. Alternatively, she can Strike the creature with her stinger with a +2 circumstance bonus."
 
   - name: "Wyvern Venom"
-    desc: " (poison) **Saving Throw** DC 22 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 5d6 poison damage (1 round)\n\n**Stage 2** 6d6 poison damage (1 round)\n\n**Stage 3** 8d6 poison damage (1 round)"
+    desc: " (poison) **Saving Throw** DC 41 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 5d10 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** 6d10 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round)\n\n**Stage 3** 8d10 poison damage and [[Conditions/Clumsy|Clumsy 3]] (1 round)"
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -57,16 +57,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +26 (reach 20 feet)\n__Damage__  3d10 + 13 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+26 (reach 20 feet, unarmed)\n__Damage__  3d10 + 13 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +26 (reach 15 feet)\n__Damage__  3d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+26 (reach 15 feet, unarmed)\n__Damage__  3d8 + 13 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 33, attack +24; __6th __  _[[Spells/Howling Blizzard|Howling Blizzard]]_; __5th __  _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Wall of Ice|Wall of Ice]]_\n__Cantrips__  __(6th)__ _[[Spells/Frostbite|Frostbite]]_"

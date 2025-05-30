@@ -48,16 +48,19 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Adamantine Claw +23 (adamantine, agile, reach 15 feet)\n__Damage__  3d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Adamantine Claw"
+    desc: "+23 (adamantine, agile, reach 15 feet)\n__Damage__  3d8 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Adamantine Fangs +23 (adamantine, reach 15 feet)\n__Damage__  2d18 + 8 piercing plus shuln-saliva"
+  - name: "**Melee** `pf2:1` Adamantine Fangs"
+    desc: "+23 (adamantine, reach 15 feet)\n__Damage__  2d18 + 8 piercing plus shuln-saliva"
 
   - name: "Armor-Rending"
     desc: "  Any time the shuln scores a critical hit with a melee Strike, it also deals the same amount of damage to the target's armor, bypassing any Hardness lower than 10, like adamantine."

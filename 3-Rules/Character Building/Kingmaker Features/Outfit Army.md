@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Outfit Army"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/army
   - trait/downtime
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.WuSEEEP2rEEz1d9t"
 license: OGL
 ---
 # Outfit Army
-
+## 
 ### [[army]][[downtime]]
 
 **Category** kingdom-activity; 

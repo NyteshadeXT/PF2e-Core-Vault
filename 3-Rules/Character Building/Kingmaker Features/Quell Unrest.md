@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Quell Unrest"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/leadership
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.s6WMS915YCbbfty4"
 license: OGL
 ---
 # Quell Unrest
-
+## 
 ### [[downtime]][[leadership]]
 
 **Category** kingdom-activity; 

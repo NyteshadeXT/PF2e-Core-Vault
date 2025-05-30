@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +4 (deadly d8, disarm, finesse)\n__Damage__  1d6 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+4 (deadly d8, disarm, finesse)\n__Damage__  1d6 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Bless|Bless]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Spirit Link|Spirit Link]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Stabilize|Stabilize]]_"
@@ -73,7 +73,7 @@ attacks:
     desc: "  [[Spells/Heal|Heal]]"
 
   - name: "Healing Hands"
-    desc: "  When Ordwi casts heal, she rolls 1d10s instead of d8s."
+    desc: "  When Ordwi casts [[Spells/Heal|Heal]], she rolls 1d10s instead of d8s."
  
 ```
 

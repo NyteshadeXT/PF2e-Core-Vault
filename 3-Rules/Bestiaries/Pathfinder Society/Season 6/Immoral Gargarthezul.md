@@ -53,6 +53,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy (100 feet)]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Bravado Aversion"
     desc: "  A gargarthezul can't stand to be shown up. The first time each round a creature successfully Demoralizes, Shoves, or Trips a gargarthezul, it takes 1d6 mental damage."
 
@@ -61,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +5 (magical, unholy)\n__Damage__  1d6 bludgeoning"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+5 (magical, unarmed, unholy)\n__Damage__  1d6 bludgeoning"
 
   - name: "Bully"
     desc: "`pf2:2`  The gargarthezul [[Actions/Shove|Shoves]] a creature, and Strides after it into the nearest adjacent square if successful. It then makes a tentacle Strike against the creature, using the same multiple attack penalty."

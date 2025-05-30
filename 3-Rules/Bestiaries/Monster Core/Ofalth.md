@@ -59,16 +59,16 @@ abilities_mid:
     desc: "  An ofalth gains fast healing 2 when in an area with a high concentration of debris or excrement, such as a refuse heap or sewer."
 
   - name: "[[Bestiary Ability Glossary/Stench|Stench]]"
-    desc: " (aura,olfactory) 30 feet, DC 28 Fortitude check\n\n* * *\n"
+    desc: " (aura,olfactory) 30 feet, DC 28 Fortitude check\n* * *\n\nA creature entering the aura or starting its turn in the area must succeed at a Fortitude save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] as long as it's sickened on a critical failure). A creature that succeeds at its save or recovers from being sickened is temporarily immune to all stench auras for 1 minute."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 (reach 10 feet)\n__Damage__  2d12 + 13 bludgeoning plus wretched-weeps"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+23 (reach 10 feet, unarmed)\n__Damage__  2d12 + 13 bludgeoning plus wretched-weeps"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Offal +19 (range increment 30 feet)\n__Damage__  2d10 + 9 bludgeoning plus wretched-weeps"
+  - name: "**Ranged** `pf2:1` Offal"
+    desc: "+19 (range increment 30 feet)\n__Damage__  2d10 + 9 bludgeoning plus wretched-weeps"
 
   - name: "Wretched Weeps"
     desc: " (disease) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d4 persistent bleed every hour and [[Conditions/Enfeebled|Enfeebled 1]] (1 day);\n\n**Stage 3** 2d6 persistent bleed every hour and [[Conditions/Enfeebled|Enfeebled 2]] (1 day)"

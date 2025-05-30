@@ -57,8 +57,11 @@ abilities_top:
     desc: "[[Equipment/Morningstar|+1 Thundering Duskwood Morningstar]], [[Equipment/Hide Armor|Hide Armor]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 25 (Deactivated by Acid or Fire)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Dream of Rulership"
     desc: " (primal) The lingering effects of Nyrissa's inspiration are stronger than any fear Hargulka faces. Whenever he attempts a saving throw against a fear effect, he treats his actual result as one degree of success better than his rolled result."
@@ -66,17 +69,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Morningstar +21 (magical, reach 10 feet, versatile b)\n__Damage__  1d8 + 9 piercing 1d6 sonic"
+  - name: "**Melee** `pf2:1` Morningstar"
+    desc: "+21 (magical, reach 10 feet, versatile b)\n__Damage__  1d8 + 9 piercing 1d6 sonic"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 (reach 10 feet)\n__Damage__  2d10 + 9 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (reach 10 feet, unarmed)\n__Damage__  2d10 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile, reach 10 feet)\n__Damage__  2d8 + 9 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, reach 10 feet, unarmed)\n__Damage__  2d8 + 9 slashing"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n\n* * *\n"
+    desc: "`pf2:1`  Claw\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
 
   - name: "Royal Command"
     desc: "`pf2:1` (auditory,fear,linguistic) Hargulka issues an order to his followers. Each ally who hears and understands this command becomes [[Conditions/Quickened|Quickened]] until the end of that ally's next turn but can use the extra action only to Strike. Hargulka can't issue a Royal Command on his next turn."

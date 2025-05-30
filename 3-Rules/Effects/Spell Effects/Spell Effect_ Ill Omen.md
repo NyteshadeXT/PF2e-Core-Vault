@@ -17,11 +17,9 @@ license: ORC
 
 
 
-Granted by [[Ill Omen|Ill Omen]]
+Granted by [[Spells/Ill Omen|Ill Omen]]
 
-**Failure** The first time during the duration that the target attempts an attack roll or skill check, it must roll twice and use the worse result.
-
-**Critical Failure** Every time during the duration that the target attempts an attack roll or skill check, it must roll twice and use the worse result.
+When you attempt an attack roll or skill check, you must roll twice and use the worse result the first time on a Failure or throughout the duration if it was a Critical Failure.
 
 *Source: Pathfinder Player Core*
 *ORC*

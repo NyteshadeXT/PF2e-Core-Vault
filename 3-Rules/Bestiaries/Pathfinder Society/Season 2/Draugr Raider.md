@@ -62,14 +62,17 @@ abilities_mid:
   - name: "The Sea's Revenge"
     desc: " (curse,divine) A creature that slays a draugr is subjected to a [[Spells/Mariner's Curse|Mariner's Curse]] spell with a save DC of 20. The curse ends if the draugr is buried in a calm sea or after 1 week passes."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +13 (sweep)\n__Damage__  1d12 + 8 slashing plus grotesque-gift"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+13 (sweep)\n__Damage__  1d12 + 8 slashing plus grotesque-gift"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +13 (agile)\n__Damage__  1d4 + 6 slashing plus grotesque-gift"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+13 (agile, unarmed)\n__Damage__  1d4 + 6 slashing plus grotesque-gift"
 
   - name: "Grotesque Gift"
     desc: " (olfactory) A draugr's attacks spatter their targets with rancid flesh and rotting seaweed. A creature damaged by a draugr's Strike must succeed at a DC 18 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."

@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +12 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+12 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +11 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+11 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Mobility"
     desc: "  When Dovan takes Strides and moves half his Speed or less, that movement does not trigger reactions."

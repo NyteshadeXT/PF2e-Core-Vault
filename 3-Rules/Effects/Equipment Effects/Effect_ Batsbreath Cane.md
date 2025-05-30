@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Batsbreath Cane|Batsbreath Cane]]
+Granted by [[Equipment/Batsbreath Cane|Batsbreath Cane]]
 
 As long as you remain in the area and are holding the cane, you gain hearing as a precise sense.
 

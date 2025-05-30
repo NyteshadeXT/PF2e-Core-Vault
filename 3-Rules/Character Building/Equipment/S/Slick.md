@@ -1,76 +1,24 @@
 ---
-#========================================================#
-#                     CORE PROPERTIES                    #
-#========================================================#
-cssclass: pf2e-item, h-line
-name: "slick"
-aliases: "Slick"
-source: "Pathfinder GM Core"
-pg: ""
-rarity: ""
-trait01: "magical"
-trait02: "common"
-trait03: ""
-trait04: ""
-trait05: ""
-trait06: ""
-trait07: ""
-trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 5
-weight: 
-value: "45"
-subvalue: "gp"
-invest:
-usage: "etched onto armor"
-license: "ORC"
-identify:
-description: "This property makes armor slippery, as though it were coated with a thin film of oil. You gain a +1 item bonus to Acrobatics checks to Escape and Squeeze."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
-trigger2:
-mechanics2: "**Secondary Effect** "
-craft:
-
-#========================================================#
-#                   WEAPON PROPERTIES                    #
-#========================================================#
-range: 
-ammoType:
-damage: 
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
-
-#========================================================#
-#                    ARMOR PROPERTIES                    #
-#========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
-resist:
-immunity:
-conditionImmunity:
-
-#========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
-#========================================================#
-weaponBase:
-armorBase:
-
+obsidianUIMode: preview
+title: "Slick"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - trait/magical
+  - trait/common
+  - remaster
+aliases: "Compendium.pf2e.equipment-srd.Item.uQOaRpfkUFVYD0Gx"
+license: ORC
 ---
+# Slick
+## Item 5
+### [[magical]]
+
+
+**Price** 45 gp; 
+**Bulk** 0; **Size** med
+**Usage** etched-onto-armor
+
+This property makes armor slippery, as though it were coated with a thin film of oil. You gain a +1 item bonus to Acrobatics checks to Escape and Squeeze.
+
+*Source: Pathfinder GM Core*
+*ORC*

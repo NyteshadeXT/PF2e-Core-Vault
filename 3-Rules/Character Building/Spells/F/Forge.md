@@ -33,5 +33,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "Developed before the introduction of the Iron Lagoon, this cantrip for superheating metal has also found valuable combat use. You superheat the target, dealing 3d6 fire damage. If the target is a metal object, reduce its Hardness by an amount equal to the damage dealt until the end of your next turn.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes half damage.\n\n**Failure** The target takes full damage.\n\n**Critical Failure** The target takes double damage, and if it's a metal creature, it gains weakness 2 to physical damage until the end of your next turn.\n* * *\n\n**Heightened (+1)** The damage increases by 2d6, and the weakness on a critical failure increases by 2.\n\n[[Spell Effects/Spell Effect_ Forge (Critical Failure)|Spell Effect: Forge (Critical Failure)]]"
-sourcebook: "_Pathfinder Lost Omens: Highhelm_"
+sourcebook: "_Pathfinder Lost Omens Highhelm_"
 ```

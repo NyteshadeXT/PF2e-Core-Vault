@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pick +14 (fatal d10)\n__Damage__  1d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Pick"
+    desc: "+14 (fatal d10)\n__Damage__  1d6 + 7 piercing"
 
   - name: "Dig In"
     desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The rhino warrior makes two pick Strikes against a creature within reach. The rhino warrior rolls only one attack roll for both Strikes, then compares the result against the creature's AC. The rhino warrior's multiple attack penalty doesn't increase until after both Strikes."

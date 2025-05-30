@@ -46,7 +46,7 @@ hp: 60
 health:
   - name: ""
   - name: HP
-    desc: "60; __Immunities__  bleed,  death effects,  disease,  doomed,  drained,  fatigued,  healing,  nonlethal attacks,  paralyzed,  poison,  sickened,  spirit,  unconscious,  vitality,  void; __Weaknesses__ fire 5; __Resistances__ physical 5 (except slashing)"
+    desc: "60; __Immunities__  fear effects,  bleed,  death effects,  disease,  doomed,  drained,  fatigued,  healing,  nonlethal attacks,  paralyzed,  poison,  sickened,  spirit,  unconscious,  vitality,  void; __Weaknesses__ fire 5; __Resistances__ physical 5 (except slashing)"
 abilities_top:
   - name: ""
 
@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (versatile s)\n__Damage__  2d6 + 7 bludgeoning plus clawing-fear"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (unarmed, versatile s)\n__Damage__  2d6 + 7 bludgeoning plus clawing-fear"
 
   - name: "Baleful Glow"
-    desc: " (concentrate,light,mental,occult) The scarecrow's head bursts into ghostly, heatless flame that sheds bright light in a @Template[emanation|distance:20] (and dim light to the next 20 feet). If the scarecrow uses this ability on the first round of combat, any creature that has not acted yet is startled and becomes [[Conditions/Off-Guard|Off-Guard]] against the scarecrow for 1 round. It can suppress the light by using this action again."
+    desc: " (concentrate,light,mental,occult) The scarecrow's head bursts into ghostly, heatless flame that sheds bright light in a 20-foot emanation (and dim light to the next 20 feet). If the scarecrow uses this ability on the first round of combat, any creature that has not acted yet is startled and becomes [[Conditions/Off-Guard|Off-Guard]] against the scarecrow for 1 round. It can suppress the light by using this action again."
 
   - name: "Clawing Fear"
     desc: "  The scarecrow's strikes deal an additional 1d6 mental damage to [[Conditions/Frightened|Frightened]] creatures."

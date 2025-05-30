@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +21 (magical, sweep)\n__Damage__  2d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+21 (magical, sweep)\n__Damage__  2d8 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +21 (agile, sweep)\n__Damage__  1d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+21 (agile, sweep)\n__Damage__  1d6 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +21 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 8 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+21 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 8 slashing"
 
   - name: "Closing Volley"
     desc: "`pf2:3`  The Tiger Lord makes a ranged Strike with a hatchet, then Strides up to twice its speed. If it ends its movement within melee reach of the target of its ranged Strike, it may make a melee Strike against that enemy. If the ranged Strike hit the target, the target is [[Conditions/Off-Guard|Off-Guard]] against the melee Strike."

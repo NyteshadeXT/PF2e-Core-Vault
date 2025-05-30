@@ -20,7 +20,7 @@ license: ORC
 
 
 
-You attain your true potential as a tutelary spirit. You can cast [[Blessing of Defiance|Blessing of Defiance]] as a 5th-rank primal innate spell once per day.
+You attain your true potential as a tutelary spirit. You can cast [[Spells/Blessing of Defiance|Blessing of Defiance]] as a 5th-rank primal innate spell once per day.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

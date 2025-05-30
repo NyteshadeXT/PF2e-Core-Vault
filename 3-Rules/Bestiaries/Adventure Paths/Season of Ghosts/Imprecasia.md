@@ -56,13 +56,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Drink Death"
-    desc: "`pf2:r` (primal) **Trigger** A creature within 30 feet of the imprecasia is [[Conditions/Dying|Dying]]\n* * *\n\n**Effect** The imprecasia inhales, drawing a thin blue streak of vapor out of the dying creature's body into their mouth. The dying creature's dying condition is reduced by 1, and the imprecasia regains 2d10+9 Hit Points."
+    desc: "`pf2:r` (primal) **Trigger** A creature within 30 feet of the imprecasia is [[Conditions/Dying|Dying]]\n* * *\n\n**Effect** The imprecasia inhales, drawing a thin blue streak of vapor out of the dying creature's body into their mouth. The dying creature's dying condition is reduced by 1, and the imprecasia regains 2d10+9 healing Hit Points."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +23 (agile, finesse, magical)\n__Damage__  2d12 + 9 slashing plus homelands-hostility"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+23 (agile, finesse, magical)\n__Damage__  2d12 + 9 slashing plus homelands-hostility"
 
   - name: "Primal Innate Spells"
     desc: "DC 32, attack +22; __5th __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Cleanse Affliction|Cleanse Affliction (Curse Only)]]_, _[[Spells/Deafness|Deafness]]_, _[[Spells/Mirage|Mirage]]_\n__Cantrips__  __(6th)__ _[[Spells/Tangle Vine|Tangle Vine]]_"

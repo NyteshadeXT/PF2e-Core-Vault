@@ -17,20 +17,11 @@ license: ORC
 
 
 
-Granted by [[Serene Mutagen (Lesser)|Serene Mutagen (Lesser)]]
+Granted by [[Equipment/Serene Mutagen (Lesser)|Serene Mutagen (Lesser)]]
 
-Implemented effects:
+**Benefit** You gain a +1 bonus to Will saves and Perception, Medicine, Nature, Religion, and Survival checks. This bonus improves to +2 when you attempt Will saves against mental effects.
 
-*   +1 item bonus to Will saves
-*   +2 item bonus to Will saves against mental effects
-*   +1 item bonus to Perception checks
-*   +1 item bonus to Medicine, Nature, Religion and Survival checks
-*   \-1 penalty to attack rolls
-
-Unimplemented effects:
-
-*   \-1 penalty to save DCs of offensive spells
-*   \-1 penalty per damage die to all weapon, unarmed attack and spell damage rolls
+**Drawback** You take a -1 penalty to attack rolls and save DCs of offensive spells, and a -1 penalty per damage die to all weapon and unarmed attack damage.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

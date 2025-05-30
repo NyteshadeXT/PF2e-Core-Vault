@@ -25,5 +25,5 @@ license: OGL
 
 You use your foe's failure as an opening to push them away. You attempt to [[Actions/Shove|Shove]] the undead.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

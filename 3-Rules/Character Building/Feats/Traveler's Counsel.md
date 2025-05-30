@@ -22,5 +22,5 @@ license: ORC
 * * *
 On your travels, you've resolved countless disputes and counseled those in need. You're trained in Diplomacy. If you would automatically become trained in Diplomacy (from your background or class, for example), you instead become trained in a skill of your choice. The first time each day you would roll a critical failure when [[Actions/Gather Information|Gathering Information]] or [[Actions/Make an Impression|Making an Impression]], you get a failure instead.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

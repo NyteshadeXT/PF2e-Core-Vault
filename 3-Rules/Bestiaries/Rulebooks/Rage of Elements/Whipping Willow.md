@@ -61,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +11 (finesse, reach 15 feet, trip)\n__Damage__  2d8 + 5 bludgeoning plus strangling-vines"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+11 (finesse, reach 15 feet, trip)\n__Damage__  2d8 + 5 bludgeoning plus strangling-vines"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d4+5 bludgeoning, DC 21 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d4+5 bludgeoning, DC 21 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Strangling Vines"
     desc: "  When a whipping willow hits a creature with their whip Strike, they can choose to [[Bestiary Ability Glossary/Grab|Grab]] and begin strangling the creature. The target is suffocating and can't speak as long as it's strangled."
 
   - name: "Unseating Sweep"
-    desc: "`pf2:2`  The whipping willow attempts to [[Actions/Trip|Trip]] all creatures within a @Template[cone|distance:15], making a single Athletics check check against all targets' Reflex DCs."
+    desc: "`pf2:2`  The whipping willow attempts to [[Actions/Trip|Trip]] all creatures within a 15-foot cone, making a single Athletics check check against all targets' Reflex DCs."
  
 ```
 

@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +8 (agile, finesse)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+8 (agile, finesse)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Light Flash"
     desc: "`pf2:1` (concentrate,light) The flash beetle creates a brilliant flash of light. All creatures in its luminescent aura must succeed at a DC 17 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 minute.\n\nThe flash beetle's glow then goes out, disabling its aura for 24 hours, during which time it cannot use Light Flash."

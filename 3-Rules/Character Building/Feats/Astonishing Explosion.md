@@ -4,7 +4,7 @@ title: "Astonishing Explosion"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/additive2
-  - trait/alchemical
+  - trait/alchemist
   - trait/uncommon
   - category/class
 aliases: "Compendium.pf2e.feats-srd.Item.HEZeZcBWQR1QeWDo"
@@ -12,7 +12,7 @@ license: OGL
 ---
 # Astonishing Explosion `pf2:0`
 ## Feat 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[additive2]][[alchemical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[additive2]][[alchemist]]
 
 **Category** class; 
 

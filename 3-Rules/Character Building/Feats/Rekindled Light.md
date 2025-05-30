@@ -28,5 +28,5 @@ license: ORC
 
 You temporarily drain your star orb familiar's energy to save an ally. The target avoids being knocked out and remains at 1 Hit Point, and their [[Conditions/Wounded|Wounded]] condition increases by 1. The target then regains Hit Points equal to your level. When the familiar's energy is drained, it becomes dormant until your next daily preparations.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

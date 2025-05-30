@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Containment Contraption|Containment Contraption]]
+
 Your circumstance bonus to saving throws against inhaled toxins increases to +2, and you also gain a +2 circumstance bonus to saves against olfactory effects
 
 *Source: Pathfinder #179: Cradle of Quartz*

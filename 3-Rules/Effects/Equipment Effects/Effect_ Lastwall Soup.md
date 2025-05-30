@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Lastwall Soup|Lastwall Soup]]
+Granted by [[Equipment/Lastwall Soup|Lastwall Soup]], [[Equipment/Lastwall Soup (Improved)|Lastwall Soup (Improved)]], [[Equipment/Lastwall Soup (Greater)|Lastwall Soup (Greater)]]
 
-The creature gains a +2 item bonus to Stealth checks and DCs against undead.
+The creature gains an item bonus to Stealth checks and DCs against undead. If _greater_, you also gain 10 temporary hit points.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

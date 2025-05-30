@@ -6,7 +6,7 @@ tags:
   - trait/concentrate
   - trait/divine
   - trait/polymorph
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.DWku0nZzkqmYjrQ5"
 license: OGL

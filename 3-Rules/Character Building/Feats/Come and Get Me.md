@@ -14,7 +14,7 @@ license: ORC
 ---
 # Come and Get Me `pf2:1`
 ## Feat 10
-### [[barbarian]][[concentrate]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[concentrate]][[rage]]
 
 **Category** class; 
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Tiger Menuki|Tiger Menuki]]
+Granted by [[Equipment/Tiger Menuki|Tiger Menuki]]
 
 The weapon gains the forceful and sweep traits on the triggering Strike and all other Strikes.
 

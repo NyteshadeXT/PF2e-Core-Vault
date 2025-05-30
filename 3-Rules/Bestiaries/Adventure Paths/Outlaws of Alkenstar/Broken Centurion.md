@@ -61,20 +61,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dulled Blade +23 (agile, sweep)\n__Damage__  2d10 + 3 slashing"
+  - name: "**Melee** `pf2:1` Dulled Blade"
+    desc: "+23 (agile, sweep)\n__Damage__  2d10 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Cannon +23 (concussive, fatal d8, range increment 60 feet)\n__Damage__  3d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Cannon"
+    desc: "+23 (concussive, fatal d8, range increment 60 feet)\n__Damage__  3d6 + 4 piercing"
 
   - name: "Hurl Blade"
-    desc: "`pf2:2`  The spiral centurion hurls one of its blades with an angled spin to ensure a swooping flight path. The blade deals 6d6 slashing damage to each creature in a @Template[line|distance:40] (DC 30 Reflex check save).\n\nAt the start of the spiral centurion's next turn, the blade swoops around and returns along the same flight path, again dealing 6d6 slashing damage (DC 30 Reflex check save) to each creature along the same line."
+    desc: "`pf2:2`  The spiral centurion hurls one of its blades with an angled spin to ensure a swooping flight path. The blade deals 6d6 slashing damage to each creature in a 40-foot line (DC 30 Reflex check save).\n\nAt the start of the spiral centurion's next turn, the blade swoops around and returns along the same flight path, again dealing 6d6 slashing damage (DC 30 Reflex check save) to each creature along the same line."
 
   - name: "Reload Guns"
     desc: "`pf2:1`  The spiral centurion loads ammo into its many guns."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, blade, DC 30 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Medium or smaller, blade, DC 30 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
 
   - name: "Whirling Death"
     desc: "`pf2:3`  The spiral centurion spins furiously in place, its blades extended to slice through nearby creatures. It makes up to five melee blade Strikes. No single creature can be targeted by more than one blade Strike during one use of this ability. These attacks count toward the spiral centurion's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks are made."

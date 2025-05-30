@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +5 (two-hand d8)\n__Damage__  1d6 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+5 (two-hand d8)\n__Damage__  1d6 + 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +7 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+7 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
 
   - name: "Pinpoint Weakness"
     desc: "`pf2:1`  Tsimaan points out a weakness of a creature within 30 feet. Tsimaan and all allies that can see and hear her gain a +1 status bonus to their attack and damage rolls against that creature until the beginning of her next turn.\n\n[[Bestiary Effects/Effect_ Pinpoint Weakness|Effect: Pinpoint Weakness]]"

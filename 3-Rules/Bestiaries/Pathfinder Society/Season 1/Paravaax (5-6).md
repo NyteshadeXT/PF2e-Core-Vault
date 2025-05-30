@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 ()\n__Damage__  2d8 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (unarmed)\n__Damage__  2d8 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile, unarmed)\n__Damage__  2d6 + 8 slashing"
 
   - name: "Lodestone Statue"
     desc: "`pf2:1` (concentrate) Until the next time it acts, Paravaax appears to be a statue. It has an automatic result of 36 on Deception checks and DCs to pass as a statue.\n\nWhile disguised in this manner, Paravaax can increase the radius of his lodestone aura by up to 100 miles or return the radius to normal as a free action."

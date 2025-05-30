@@ -43,5 +43,5 @@ Taking inspiration from Desna's image as a giant silk moth in Tian Xia, you've a
 
 **Special** If your innovation is a minion, it can take this action rather than you.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

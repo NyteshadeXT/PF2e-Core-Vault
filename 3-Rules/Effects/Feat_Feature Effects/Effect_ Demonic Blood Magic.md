@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Class Features/Bloodline_ Demonic|Bloodline: Demonic]]
 
-Either a target takes a -1 status penalty to AC for 1 round, or you gain a +2 status bonus to Intimidation checks for 1 round.
+Either a target takes a -1 status penalty to AC for 1 round, or you gain a +2 status bonus to Intimidation checks.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -4,8 +4,9 @@ title: "Effect: Swig"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.bestiary-effects.Item.HArljmKc2IR7rtfc"
-license: OGL
+license: ORC
 ---
 # Effect: Swig
 ## Level 1
@@ -16,7 +17,7 @@ license: OGL
 
 
 
-The dockhand gains a +2 item bonus to melee damage rolls and saving throws against fear, but they become clumsy 1.
+You gain a +2 item bonus to melee damage rolls and saving throws against fear but are off-guard.
 
-*Source: Pathfinder Gamemastery Guide*
-*OGL*
+*Source: Pathfinder NPC Core*
+*ORC*

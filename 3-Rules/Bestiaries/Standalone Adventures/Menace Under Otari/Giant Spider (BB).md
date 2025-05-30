@@ -3,7 +3,7 @@ title: "Giant Spider (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.6NdqvKIlxo4cGhf8" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.A4VgQIHsqJKssQOM" 
 tags:
   - pf2e/creature/type/animal
   - pf2eMonster
@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +9 ()\n__Damage__  1d6 + 2 piercing plus giant-spider-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+9 ()\n__Damage__  1d6 + 2 piercing plus giant-spider-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Web +7 (range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Web"
+    desc: "+7 (range increment 30 feet)\n__Damage__ "
 
   - name: "Giant Spider Venom"
     desc: " (poison) A target damaged by the spider's fangs must succeed at a DC 16 Fortitude check save or take 1d10 poison damage and gain the [[Conditions/Off-Guard|Off-Guard]] condition for 1 round."

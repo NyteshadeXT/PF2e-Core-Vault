@@ -51,7 +51,7 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "12x [[Equipment/Alchemist's Fire (Greater)|Alchemist's Fire (Greater)]], 12x [[Equipment/Dread Ampoule (Greater)|Dread Ampoule (Greater)]], 5x [[Equipment/Glue Bomb (Greater)|Glue Bomb (Greater)]], [[Equipment/Explorer's Clothing|+2 Greater Resilient Greater Fire-Resistant Raiment Explorer's Clothing]], [[Equipment/Crafter's Eyepiece (Greater)|Crafter's Eyepiece (Greater)]], 3x Blood Sight Elixir (Greater), 10x [[Equipment/Elixir of Life (Major)|Elixir of Life (Major)]], [[Equipment/Spacious Pouch (Type III)|Spacious Pouch (Type III)]]"
+    desc: "12x [[Equipment/Alchemist's Fire (Greater)|Alchemist's Fire (Greater)]], 12x [[Equipment/Dread Ampoule (Greater)|Dread Ampoule (Greater)]], 5x [[Equipment/Glue Bomb (Greater)|Glue Bomb (Greater)]], [[Equipment/Explorer's Clothing|+2 Greater Resilient Greater Fire-Resistant Raiment Explorer's Clothing]], [[Equipment/Crafter's Eyepiece (Greater)|Crafter's Eyepiece (Greater)]], 3x [[Equipment/Blood Sight Elixir (Greater)|Blood Sight Elixir (Greater)]], 10x [[Equipment/Elixir of Life (Major)|Elixir of Life (Major)]], [[Equipment/Spacious Pouch (Type III)|Spacious Pouch (Type III)]]"
   - name: "Infused Items"
     desc: "  Shirota carries the following infused items, which last for 24 hours or until the next time he makes his daily preparations:\n\n12 [[Equipment/Alchemist's Fire (Greater)|Alchemist's Fire (Greater)]]\n\n3 [[Equipment/Blood Sight Elixir (Greater)|Blood Sight Elixir (Greater)]]\n\n12 [[Equipment/Dread Ampoule (Greater)|Dread Ampoule (Greater)]]\n\n10 [[Equipment/Elixir of Life (Major)|Elixir of Life (Major)]]\n\n5 [[Equipment/Glue Bomb (Greater)|Glue Bomb (Greater)]]"
 
@@ -60,20 +60,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire +30 (bomb, fire, splash, thrown 20 ft.)\n__Damage__  3 fire 3 fire 3d8 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire"
+    desc: "+30 (bomb, fire, splash, thrown 20 ft.)\n__Damage__  3 fire 3 fire 3d8 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dread Ampoule +30 (bomb, emotion, fear, poison, splash, thrown 20 ft.)\n__Damage__  3 mental 3d6 mental"
+  - name: "**Ranged** `pf2:1` Dread Ampoule"
+    desc: "+30 (bomb, emotion, fear, poison, splash, thrown 20 ft.)\n__Damage__  3 mental 3d6 mental"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Glue Bomb +30 (bomb, thrown 20 ft.)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Glue Bomb"
+    desc: "+30 (bomb, thrown 20 ft.)\n__Damage__ "
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +28 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+28 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 10 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +28 (agile, finesse, grapple)\n__Damage__  1d6 bleed 2d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+28 (agile, finesse, grapple, unarmed)\n__Damage__  1d6 bleed 2d6 + 10 slashing"
 
   - name: "Quick Bomber"
     desc: "`pf2:1`  Shirota Interacts to draw a bomb, then Strikes with it."

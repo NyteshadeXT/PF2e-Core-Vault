@@ -22,9 +22,7 @@ license: OGL
 * * *
 As a Spellmaster, you are adept at identifying magic. You gain a +2 circumstance bonus when you [[Actions/Identify Magic|Identify Magic]] with a skill in which you are trained or better. If you have the [[Feats/Wayfinder Resonance Tinkerer|Wayfinder Resonance Tinkerer]] feat, you can change the cantrip you chose for that feat each day during your daily preparations.
 
-* * *
+[[PF2e Journals/Archetypes/Spellmaster|Spellmaster]]
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Spellmaster|Spellmaster]] archetype.
-
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

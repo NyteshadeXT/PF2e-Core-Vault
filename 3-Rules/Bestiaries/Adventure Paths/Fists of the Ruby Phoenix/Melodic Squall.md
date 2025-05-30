@@ -65,23 +65,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wind Gust +32 (agile, finesse)\n__Damage__  3d10 + 14 bludgeoning plus push"
+  - name: "**Melee** `pf2:1` Wind Gust"
+    desc: "+32 (agile, finesse)\n__Damage__  3d10 + 14 bludgeoning plus push"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Solid Refrain +32 (range increment 70 feet)\n__Damage__  3d8 + 14 sonic"
+  - name: "**Ranged** `pf2:1` Solid Refrain"
+    desc: "+32 (range increment 70 feet)\n__Damage__  3d8 + 14 sonic"
 
   - name: "Mesmerizing Melody"
-    desc: "`pf2:1` (auditory,concentrate,mental,primal) The melodic squall sings in a sonorous chorus. Any creature in a @Template[emanation|distance:30] must attempt a DC 36 Will check save to resist becoming fascinated by the melody on the wind. A creature that succeeds at its save is temporarily immune for 24 hours.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Fascinated|Fascinated]] for 1 round.\n\n**Failure** The creature is fascinated for 1d4 rounds."
+    desc: "`pf2:1` (auditory,concentrate,mental,primal) The melodic squall sings in a sonorous chorus. Any creature in a 30-foot emanation must attempt a DC 36 Will check save to resist becoming fascinated by the melody on the wind. A creature that succeeds at its save is temporarily immune for 24 hours.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Fascinated|Fascinated]] for 1 round.\n\n**Failure** The creature is fascinated for 1d4 rounds."
 
   - name: "Subsonic Burst"
-    desc: "`pf2:1` (emotion,fear,mental,primal,sonic) The melodic squall focuses intense sound at an inaudible frequency in a @Template[line|distance:100]. Each creature in the line must attempt a DC 34 Fortitude check save.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 2]] and [[Conditions/Confused|Confused]] until the beginning of the melodic squall's next turn."
+    desc: "`pf2:1` (emotion,fear,mental,primal,sonic) The melodic squall focuses intense sound at an inaudible frequency in a 100-foot line. Each creature in the line must attempt a DC 34 Fortitude check save.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 2]] and [[Conditions/Confused|Confused]] until the beginning of the melodic squall's next turn."
 
   - name: "Swiftness"
     desc: "  The melodic squall's movement doesn't trigger reactions."
 
   - name: "[[Bestiary Ability Glossary/Push|Push 10ft]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

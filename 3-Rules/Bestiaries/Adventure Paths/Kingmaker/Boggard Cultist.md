@@ -62,14 +62,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +16 (reach 10 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+16 (reach 10 feet)\n__Damage__ "
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +18 (disarm, finesse, magical, nonlethal, reach 10 feet, trip)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+18 (disarm, finesse, magical, nonlethal, reach 10 feet, trip)\n__Damage__  2d6 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blowgun +17 (agile, nonlethal, range increment 20 feet, reload 1)\n__Damage__  1 piercing plus giant-wasp-venom"
+  - name: "**Ranged** `pf2:1` Blowgun"
+    desc: "+17 (agile, nonlethal, range increment 20 feet, reload 1)\n__Damage__  1 piercing plus giant-wasp-venom"
 
   - name: "Primal Prepared Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Noise Blast|Sound Burst]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Stabilize|Stabilize]]_"

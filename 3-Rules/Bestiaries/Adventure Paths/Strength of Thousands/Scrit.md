@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sticky Fingers +7 (agile, finesse)\n__Damage__  1d4 + 1 piercing plus nasty-ink"
+  - name: "**Melee** `pf2:1` Sticky Fingers"
+    desc: "+7 (agile, finesse)\n__Damage__  1d4 + 1 piercing plus nasty-ink"
 
   - name: "Innate Primal Spells"
     desc: "DC 16, attack +8; __2nd __  _[[Spells/Speak with Animals|Speak with Animals (At Will)]]_; __1st __ (1 slots) _[[Spells/Grease|Grease]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"

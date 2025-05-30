@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Command Corpse
 * * *
-You grasp the mind of an undead creature and temporarily wipe it as empty as a zombie's brain. You can target any undead with your divine innate [[Harm|Harm]] spell, not just mindless undead. When you target one non-mindless undead creature with this spell, you can transform its effects. Instead of harm's normal effects, the target must attempt a Will save.
+You grasp the mind of an undead creature and temporarily wipe it as empty as a zombie's brain. You can target any undead with your divine innate [[Spells/Harm|Harm]] spell, not just mindless undead. When you target one non-mindless undead creature with this spell, you can transform its effects. Instead of harm's normal effects, the target must attempt a Will save.
 
 * * *
 

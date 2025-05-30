@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +4 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+4 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +4 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+4 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 17, attack +9; __1st __  _[[Spells/Create Water|Create Water]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Mending|Mending]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_"

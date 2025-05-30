@@ -61,20 +61,23 @@ abilities_mid:
   - name: "Intense Heat"
     desc: " (aura,fire) 5 feet. 2d6 fire, DC 17 Reflex check"
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
   - name: "Water Vulnerability"
     desc: "  When a combusted is dealt damage by a water effect, the combusted is wracked by pain, becoming [[Conditions/Stunned|Stunned 1]]. Water can't douse a combusted's flames."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fire Fist +12 ()\n__Damage__  1d6 + 4 bludgeoning 1d6 fire"
+  - name: "**Melee** `pf2:1` Fire Fist"
+    desc: "+12 ()\n__Damage__  1d6 + 4 bludgeoning 1d6 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Fire Mote +11 (range increment 60 feet)\n__Damage__  1d4 + 4 fire 1d6 fire"
+  - name: "**Ranged** `pf2:1` Fire Mote"
+    desc: "+11 (range increment 60 feet)\n__Damage__  1d4 + 4 fire 1d6 fire"
 
   - name: "Blazing Howl"
-    desc: "`pf2:1` (fire,occult) The combusted screams in agony, causing creatures in a @Template[emanation|distance:15] to burst into flame, which deals 4d6 fire damage to each creature in the area (DC 17 Will check). A creature that critically fails its save is [[Conditions/Frightened|Frightened 1]]; this frightened condition is an emotion, fear, and mental effect.\n\nThe combusted can't use Blazing Howl for 1d4 rounds."
+    desc: "`pf2:1` (fire,occult) The combusted screams in agony, causing creatures in a 15-foot emanation to burst into flame, which deals 4d6 fire damage to each creature in the area (DC 17 Will check). A creature that critically fails its save is [[Conditions/Frightened|Frightened 1]]; this frightened condition is an emotion, fear, and mental effect.\n\nThe combusted can't use Blazing Howl for 1d4 rounds."
  
 ```
 

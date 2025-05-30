@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +12 ()\n__Damage__  2d4 + 5 slashing 1d4 electricity"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+12 ()\n__Damage__  2d4 + 5 slashing 1d4 electricity"
 
   - name: "Lightning Strike"
     desc: "`pf2:1`  The storm snake redirects the lightning it has absorbed from storms, dealing 2d10 electricity damage to a single target within 20 feet (DC 19 Reflex check save). On a failure, the target is [[Conditions/Dazzled|Dazzled]] until the end of its next turn."
 
   - name: "Static Field"
-    desc: "`pf2:2`  The storm snake gathers all static electricity in the area before releasing it in a @Template[emanation|distance:30] that deals 3d12 electricity damage to all non-plant creatures (DC 19 Reflex check save) and grants plant creatures 5 temporary Hit Points that last for 1 minute. Plant life in the area begins to grow significantly faster than the average for plants of their genus; in forests, fields, or otherwise floral locations, this immediately transforms the area into non-magical difficult terrain. The storm snake can't use Static field again for 1d4 rounds.\n\n[[Bestiary Effects/Effect_ Static Field|Effect: Static Field]]"
+    desc: "`pf2:2`  The storm snake gathers all static electricity in the area before releasing it in a 30-foot emanation that deals 3d12 electricity damage to all non-plant creatures (DC 19 Reflex check save) and grants plant creatures 5 temporary Hit Points that last for 1 minute. Plant life in the area begins to grow significantly faster than the average for plants of their genus; in forests, fields, or otherwise floral locations, this immediately transforms the area into non-magical difficult terrain. The storm snake can't use Static field again for 1d4 rounds.\n\n[[Bestiary Effects/Effect_ Static Field|Effect: Static Field]]"
  
 ```
 

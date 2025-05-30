@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/PZO90183_Aeolakea_Azata.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Aeolaeka"
 level: "Creature 12"
@@ -57,13 +58,19 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Warhammer|+1 Warhammer]]"
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Precise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Holy Warhammer +24 (agile, holy, magical, shove)\n__Damage__  2d6 spirit 2d8 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Holy Warhammer"
+    desc: "+24 (agile, holy, magical, shove)\n__Damage__  2d6 spirit 2d8 + 11 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 32, attack +24; __6th __  _[[Spells/Petrify|Flesh to Stone]]_, _[[Spells/Speak with Stones|Stone Tell]]_, _[[Spells/Stone to Flesh|Stone to Flesh]]_; __5th __  _[[Spells/Wall of Stone|Wall of Stone]]_, _[[Spells/Weapon Storm|Weapon Storm]]_; __3rd __  _[[Spells/Earthbind|Earthbind (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"

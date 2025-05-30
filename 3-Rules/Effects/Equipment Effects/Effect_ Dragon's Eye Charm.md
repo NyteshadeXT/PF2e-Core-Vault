@@ -16,15 +16,9 @@ license: OGL
 
 
 
-Granted by [[Dragon's Eye Charm|Dragon's Eye Charm]]
+Granted by [[Equipment/Dragon's Eye Charm|Dragon's Eye Charm]]
 
-Choice of:
-
-You can look through the charm to gain Darkvision for as long as you Sustain the Activation, to a maximum of 10 minutes.
-
-You can speak and understand Draconic as long as you Sustain the Activation, to a maximum of 10 minutes.
-
-You gain fire resistance 5.
+You gain one of the following benefits: Darkvision, speak and understand Draconic, or fire resistance 5.
 
 *Source: Pathfinder #146: Cult of Cinders*
 *OGL*

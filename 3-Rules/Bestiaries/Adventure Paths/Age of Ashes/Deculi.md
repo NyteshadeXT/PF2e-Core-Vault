@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +24 ()\n__Damage__  3d12 + 11 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+24 ()\n__Damage__  3d12 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wings +26 (agile, finesse)\n__Damage__  3d8 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Wings"
+    desc: "+26 (agile, finesse)\n__Damage__  3d8 + 11 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 32, attack +24; __6th __  _[[Spells/Darkness|Darkness (At Will)]]_"

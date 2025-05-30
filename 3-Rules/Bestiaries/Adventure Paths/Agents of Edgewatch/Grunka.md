@@ -57,17 +57,17 @@ abilities_top:
     desc: "[[Equipment/Club|Club]], 2x [[Equipment/Alchemist's Fire (Lesser)|Alchemist's Fire (Lesser)]], [[Equipment/Leather Armor|Leather Armor]]"
 abilities_mid:
   - name: ""
-  - name: "[[Compendium.pf2e.bestiary-family-ability-glossary.db.EM6YZCt6vFCFhXmb|Goblin Scuttle]]"
+  - name: "Goblin Scuttle"
     desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to Grunka.\n* * *\n\n**Effect** Grunka [[Actions/Step|Steps]]."
 
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +8 (thrown 10 ft.)\n__Damage__  1d6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+8 (thrown 10 ft.)\n__Damage__  1d6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Lesser Alchemist&#x27;s Fire +8 (alchemical, bomb, consumable, fire, splash, thrown 20 ft.)\n__Damage__  1d8 fire 1 fire 1 fire"
+  - name: "**Ranged** `pf2:1` Lesser Alchemist&#x27;s Fire"
+    desc: "+8 (alchemical, bomb, consumable, fire, splash, thrown 20 ft.)\n__Damage__  1d8 fire 1 fire 1 fire"
  
 ```
 

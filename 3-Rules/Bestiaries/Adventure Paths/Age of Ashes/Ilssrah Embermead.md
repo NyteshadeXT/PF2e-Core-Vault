@@ -56,19 +56,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fleshroaster +31 (disarm, finesse, magical, trip)\n__Damage__  2d8 + 14 slashing 1d6 fire"
+  - name: "**Melee** `pf2:1` Fleshroaster"
+    desc: "+31 (disarm, finesse, magical, trip)\n__Damage__  2d8 + 14 slashing 1d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Returning Light Hammer +30 (agile, magical)\n__Damage__  2d6 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Returning Light Hammer"
+    desc: "+30 (agile, magical)\n__Damage__  2d6 + 14 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Returning Light Hammer +30 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 14 bludgeoning"
+  - name: "**Ranged** `pf2:1` Returning Light Hammer"
+    desc: "+30 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 14 bludgeoning"
 
   - name: "Divine Prepared Spells"
     desc: "DC 36, attack +32; __8th __  _[[Spells/Divine Aura|Divine Aura]]_, _[[Spells/Spiritual Epidemic|Spiritual Epidemic]]_; __7th __  _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Energy Aegis|Energy Aegis]]_; __6th __  _[[Spells/Blade Barrier|Blade Barrier]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Death Ward|Death Ward]]_, _[[Spells/Sending|Sending]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Anathematic Reprisal|Anathematic Reprisal]]_, _[[Spells/Divine Wrath|Divine Wrath]]_; __3rd __  _[[Spells/Circle of Protection|Circle of Protection]]_, _[[Spells/Heroism|Heroism]]_, _[[Spells/Locate|Locate]]_; __2nd __  _[[Spells/Augury|Augury]]_, _[[Spells/Darkness|Darkness]]_, _[[Spells/Silence|Silence]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Cleanse Cuisine|Purify Food and Drink]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"

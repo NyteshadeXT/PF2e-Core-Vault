@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Graveknight's Shield|Graveknight's Shield]]"
     desc: " (arcane) The graveknight's curse extends to their shield, or the graveknight's armor uses a portion of itself to produce a shield.\n\nThe graveknight has a shield that uses the statistics of a _[[Equipment/Sturdy Shield (Minor)|Sturdy Shield (Minor)]]_.\n\nThe shield is quasi-independent of the graveknight and automatically protects the graveknight from harm. When the shield is raised, it automatically uses Shield Block to reduce the damage of the first attack against the graveknight each round without the graveknight needing to spend their reaction to do so.\n\nThe shield automatically rejuvenates with the rest of the graveknight and must be destroyed in the same manner as the graveknight's armor."
@@ -66,17 +66,20 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Graveknight) Rejuvenation|Rejuvenation]]"
     desc: " (divine) When a graveknight is destroyed, its armor rebuilds its body over the course of 1d10 days-or more quickly if the armor is worn by a living host. If the body is destroyed before then, the process restarts.\n\nA graveknight can only be permanently destroyed by obliterating its armor (such as with [[Spells/Disintegrate|Disintegrate]]), transporting it to the Forge of Creation, or throwing it into the heart of a volcano."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +16 (electricity, magical, shove)\n__Damage__  2d8 + 7 bludgeoning 1d6 electricity"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+16 (electricity, magical, shove)\n__Damage__  2d8 + 7 bludgeoning 1d6 electricity"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +15 (agile, electricity, unarmed)\n__Damage__  2d4 + 7 bludgeoning 1d6 electricity"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+15 (agile, electricity, unarmed)\n__Damage__  2d4 + 7 bludgeoning 1d6 electricity"
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Devastating Blast|Devastating Blast]]"
-    desc: "`pf2:2` (arcane) The graveknight unleashes a @Template[cone|distance:30] of energy. Creatures in the area take 4d12 electricity damage (DC 24 basic Reflex save).\n\nThe graveknight can use this ability once every 1d4 rounds."
+    desc: "`pf2:2` (arcane) The graveknight unleashes a 30-foot cone of energy. Creatures in the area take 4d12 electricity damage (DC 24 basic Reflex save).\n\nThe graveknight can use this ability once every 1d4 rounds."
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Graveknight's Curse|Graveknight's Curse]]"
     desc: " (arcane,curse) This curse affects anyone who wears a graveknight's armor for at least 1 hour.\n* * *\n\n**Saving Throw** DC 24 Will check save\n\n**Onset** 1 hour\n\n**Stage 1** [[Conditions/Doomed|Doomed 1]] and cannot remove the armor (1 day)\n\n**Stage 2** [[Conditions/Doomed|Doomed 2]], speed penalty of -10 feet, and cannot remove the armor (1 day)\n\n**Stage 3** dies and transforms into the armor's graveknight."

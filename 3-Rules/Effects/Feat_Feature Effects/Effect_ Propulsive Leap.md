@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Feats/Propulsive Leap|Propulsive Leap]]
+
 You gain a fly Speed equal to your Speed or 20 feet, whichever is greater.
 
 *Source: Pathfinder Dark Archive*

@@ -3,7 +3,7 @@ title: "Zombie Shambler (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.0plBflWwrCWQO2RO" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.Xo4IGzw28hivgMmM" 
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/undead
@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +7 ()\n__Damage__  1d6 + 3 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+7 (unarmed)\n__Damage__  1d6 + 3 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 ()\n__Damage__  1d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (unarmed)\n__Damage__  1d8 + 3 piercing"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  When the zombie succeeds at its fist Strike, it can use this action immediately after to attempt to [[Actions/Grapple|Grapple]] the target. This Grapple doesn't apply or count toward the zombie's multiple attack penalty."

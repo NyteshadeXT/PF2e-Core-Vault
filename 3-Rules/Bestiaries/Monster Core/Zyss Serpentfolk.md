@@ -53,6 +53,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Dagger|Dagger]], [[Equipment/Shortbow|Shortbow]], 30x [[Equipment/Arrows|Arrows]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Thin of Blood"
@@ -61,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +10 (finesse)\n__Damage__  1d6 + 1 piercing plus serpentfolk-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+10 (finesse)\n__Damage__  1d6 + 1 piercing plus serpentfolk-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +10 (agile, finesse, versatile s)\n__Damage__  1d4 + 1 piercing plus serpentfolk-venom"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+10 (agile, finesse, versatile s)\n__Damage__  1d4 + 1 piercing plus serpentfolk-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +10 (deadly d10, range increment 60 feet)\n__Damage__  1d6 + 2 piercing plus serpentfolk-venom"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+10 (deadly d10, range increment 60 feet)\n__Damage__  1d6 + 2 piercing plus serpentfolk-venom"
 
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +10; __4th __  _[[Spells/Suggestion|Suggestion]]_; __2nd __  _[[Spells/Blur|Blur (Self Only, At Will)]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_, _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_"

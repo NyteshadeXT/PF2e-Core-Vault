@@ -62,11 +62,14 @@ abilities_mid:
   - name: "Rejuvenation"
     desc: " (divine) When a thatchling is destroyed by damage other than fire, it attempts a DC 11 Flat check. On a success, it reforms after 2d4 days within 120 feet of where it was destroyed, fully healed. A thatchling is always permanently destroyed if reduced to 0 Hit Points by fire damage or if the obstacle preventing the soul from reincarnating is removed."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Frond +5 (agile, finesse)\n__Damage__  1d6 slashing"
+  - name: "**Melee** `pf2:1` Frond"
+    desc: "+5 (agile, finesse)\n__Damage__  1d6 slashing"
 
   - name: "Thatchling's Curse"
     desc: "`pf2:2` (curse,mental,occult) The thatchling focuses its attention on a single target within 30 feet that it can see, and then begins muttering and whispering nonsense. The target must attempt a DC 16 Will check save.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune to Thatchling's Curse for 24 hours.\n\n**Success** The target is momentarily disoriented and has difficulty moving in the right direction. The target takes a –5-foot status penalty to its Speeds for 1 round.\n\n**Failure** As success, but the penalty to its Speeds lasts for 1 minute.\n\n**Critical Failure** As failure, but the penalty to its Speeds lasts until the curse is removed or until the thatchling that created the effect is permanently destroyed, whichever comes first. In addition, when the cursed creature attempts a Survival check to Sense Direction or [[Actions/Track|Track]], they use the outcome for one degree of success worse than the result of their check, and they can't take the Scout exploration activity."

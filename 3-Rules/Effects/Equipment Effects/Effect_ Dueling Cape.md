@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by using [[Dueling Cape|Dueling Cape]]
+Granted by using [[Equipment/Dueling Cape|Dueling Cape]]
+
+You a +1 circumstance bonus to AC and to Deception checks to Feint.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

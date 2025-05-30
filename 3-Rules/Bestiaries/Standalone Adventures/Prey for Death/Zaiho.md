@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Zaiho&#x27;s Gun Sword +29 (critical fusion, disarm, magical, trip, versatile p)\n__Damage__  3d10 + 11 slashing 1d6 bleed 1d6 electricity"
+  - name: "**Melee** `pf2:1` Zaiho&#x27;s Gun Sword"
+    desc: "+29 (critical fusion, disarm, magical, trip, versatile p)\n__Damage__  3d10 + 11 slashing 1d6 bleed 1d6 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Zaiho&#x27;s Gun Sword +31 (concussive, kickback, magical, range 50 feet, reload 1)\n__Damage__  3d10 + 8 piercing 1d6 electricity"
+  - name: "**Ranged** `pf2:1` Zaiho&#x27;s Gun Sword"
+    desc: "+31 (concussive, kickback, magical, range 50 feet, reload 1)\n__Damage__  3d10 + 8 piercing 1d6 electricity"
 
   - name: "Fiery Leap"
     desc: "`pf2:2` (fire) **Frequency** once per day\n* * *\n\n**Effect** Zaiho Leaps. As he does so, he throws a handful of explosive devices into a square he was adjacent to just before he Leaped. A creature in this square takes 11d10 fire damage (DC 37 Reflex check save); that creature and all creatures adjacent to the target square also take 11 fire splash damage."

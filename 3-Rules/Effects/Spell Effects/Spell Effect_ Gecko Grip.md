@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Gecko Grip|Gecko Grip]]
+Granted by [[Spells/Gecko Grip|Gecko Grip]]
 
-The target gains a climb Speed equal to its Speed.
+You gain a climb Speed equal to its Speed.
 
 *Source: Pathfinder Player Core*
 *ORC*

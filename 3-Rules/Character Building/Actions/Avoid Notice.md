@@ -4,7 +4,7 @@ title: "Avoid Notice"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.IE2nThCmoyhQA0Jn"

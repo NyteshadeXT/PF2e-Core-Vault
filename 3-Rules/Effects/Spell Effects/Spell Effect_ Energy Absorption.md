@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Energy Absorption|Energy Absorption]]
+Granted by [[Spells/Energy Absorption|Energy Absorption]]
 
 You gain resistance to acid, cold, electricity, or fire damage from the triggering effect (one type of your choice). The resistance applies only to the triggering effect's initial damage.
 

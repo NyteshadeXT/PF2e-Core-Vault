@@ -55,18 +55,18 @@ abilities_top:
     desc: "  Juspix doesn't need concealment or cover to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]]. If he has lesser cover from creatures, he instead has cover and can [[Actions/Take Cover|Take Cover]]. If he has cover from creatures, he instead has greater cover."
 
   - name: "Familiar"
-    desc: "  Juspix's familiar is a wildcat named Ontiok. Ontiok has a Speed of 40 feet, darkvision, and the [[Familiar Abilities/Damage Avoidance_ Reflex|Damage Avoidance: Reflex]] familiar ability. Juspix has the [[Familiar Abilities/Lifelink|Lifelink]] and [[Familiar Abilities/Spell Delivery|Spell Delivery]] master abilities."
+    desc: "  Juspix's familiar is a wildcat named Ontiok. Ontiok has a Speed of 40 feet, darkvision, and the [[Familiar Abilities/Damage Avoidance|Damage Avoidance]] familiar ability. Juspix has the [[Familiar Abilities/Lifelink|Lifelink]] and [[Familiar Abilities/Spell Delivery|Spell Delivery]] master abilities."
 
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Filcher&#x27;s Fork +25 (agile, backstabber, deadly d6, finesse, magical)\n__Damage__  2d4 + 3 piercing 3d6 cold"
+  - name: "**Melee** `pf2:1` Filcher&#x27;s Fork"
+    desc: "+25 (agile, backstabber, deadly d6, finesse, magical)\n__Damage__  2d4 + 3 piercing 3d6 cold"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Filcher&#x27;s Fork +25 (agile, backstabber, deadly d6, magical, thrown 20 ft.)\n__Damage__  2d4 + 3 piercing 3d6 cold"
+  - name: "**Ranged** `pf2:1` Filcher&#x27;s Fork"
+    desc: "+25 (agile, backstabber, deadly d6, magical, thrown 20 ft.)\n__Damage__  2d4 + 3 piercing 3d6 cold"
 
   - name: "Prepared Primal Spells"
     desc: "DC 35, attack +27; __7th __  _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Energy Aegis|Energy Aegis]]_, _[[Spells/Unfettered Pack|Unfettered Pack]]_; __6th __  _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_, _[[Spells/Blinding Fury|Blinding Fury]]_, _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Dragon Form|Dragon Form]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_; __3rd __  _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Haste|Haste]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Mist|Obscuring Mist]]_; __1st __  _[[Spells/Alarm|Alarm]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Jump|Jump]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Light|Light]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Stabilize|Stabilize]]_"

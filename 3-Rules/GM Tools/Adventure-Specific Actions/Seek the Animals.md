@@ -4,7 +4,7 @@ title: "Seek the Animals"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.YvSjpOAI9bCDQU5h"
 license: OGL

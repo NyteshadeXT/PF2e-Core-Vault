@@ -35,7 +35,7 @@ perception:
 languages: "Common; one additional language they knew before being cursed"
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, Stealth: +13, Athletics: +15, Stealth: +13"
+    desc: "Athletics: +15, Stealth: +13"
 abilityMods: [5, 3, 4, 2, -2, 0]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 ()\n__Damage__  2d6 + 8 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 ()\n__Damage__  2d6 + 8 slashing plus grab"
 
   - name: "Clinging Grab"
     desc: "  The kolufs krafsa clings to its [[undefined]] victim. This causes it to enter the same space as a Medium or smaller creature it has grabbed, or one square of a Large or larger creature's space. The kolufs krafsa can only have a single creature grabbed, and while the kolufs krafsa is grabbing a creature, the kolufs krafsa is [[undefined]]."

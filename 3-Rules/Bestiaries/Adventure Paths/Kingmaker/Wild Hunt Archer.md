@@ -62,6 +62,9 @@ abilities_top:
   - name: "Wild Hunt Link"
     desc: " (aura,magical) 500 feet. A wild hunt archer grants wild hunt other than archers the ability to target [[Conditions/Concealed|Concealed]] creatures with ranged Strikes without having to succeed at a DC 5 Flat check."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Instinctive Cooperation"
@@ -73,11 +76,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horns +30 (agile, magical)\n__Damage__  3d12 + 12 piercing"
+  - name: "**Melee** `pf2:1` Horns"
+    desc: "+30 (agile, magical)\n__Damage__  3d12 + 12 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Living Bow +32 (deadly d10, magical, propulsive, range 100 feet, volley 30 ft.)\n__Damage__  1d6 cold 3d8 + 12 piercing"
+  - name: "**Ranged** `pf2:1` Living Bow"
+    desc: "+32 (deadly d10, magical, propulsive, range 100 feet, volley 30 ft.)\n__Damage__  1d6 cold 3d8 + 12 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 37, attack +29; __8th __  _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Polar Ray|Polar Ray]]_; __7th __  _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Execute|Finger of Death]]_, _[[Spells/Vampiric Feast|Vampiric Touch (x3)]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __6th __  _[[Spells/Speak with Stones|Stone Tell]]_\n__Cantrips__  __(8th)__ _[[Spells/Know the Way|Know Direction]]_\n__Constant__  __(8th)__ _[[Spells/Speak with Animals|Speak with Animals]]_, _[[Spells/Speak with Plants|Speak with Plants]]_, _[[Spells/Truesight|True Seeing]]_"

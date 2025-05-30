@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mambele +33 (deadly d8, disarm, magical)\n__Damage__  3d6 + 16 slashing"
+  - name: "**Melee** `pf2:1` Mambele"
+    desc: "+33 (deadly d8, disarm, magical)\n__Damage__  3d6 + 16 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mambele +33 (deadly d8, disarm, magical, thrown 20 ft.)\n__Damage__  3d6 + 16 slashing"
+  - name: "**Ranged** `pf2:1` Mambele"
+    desc: "+33 (deadly d8, disarm, magical, thrown 20 ft.)\n__Damage__  3d6 + 16 slashing"
 
   - name: "Arcane Prepared Spells"
-    desc: "DC 37, attack +29; __9th __ (3 slots) _[[Spells/Implosion|Implosion]]_, _[[Spells/Falling Stars|Meteor Swarm]]_; __8th __ (3 slots) _[[Spells/Boil Blood|Boil Blood]]_, _[[Spells/Disappearance|Disappearance]]_; __7th __ (3 slots) _[[Spells/Energy Aegis|Energy Aegis]]_, _[[Spells/True Target|True Target]]_; __6th __ (3 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Flame Vortex|Flame Vortex]]_, _[[Spells/Repulsion|Repulsion]]_; __5th __ (3 slots) _[[Spells/Mantle of the Magma Heart|Mantle of the Magma Heart]]_, _[[Spells/Telekinetic Haul|Telekinetic Haul]]_; __4th __ (3 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Vapor Form|Gaseous Form]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __ (3 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __ (3 slots) _[[Spells/Environmental Endurance|Endure Elements]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Mist|Obscuring Mist]]_; __1st __ (3 slots) _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(9th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 37, attack +29; __9th __ (3 slots) _[[Spells/Implosion|Implosion]]_, _[[Spells/Falling Stars|Meteor Swarm]]_; __8th __ (3 slots) _[[Spells/Boil Blood|Boil Blood]]_, _[[Spells/Disappearance|Disappearance]]_; __7th __ (3 slots) _[[Spells/Energy Aegis|Energy Aegis]]_, _[[Spells/True Target|True Target]]_; __6th __ (3 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Flame Vortex|Flame Vortex]]_, _[[Spells/Repulsion|Repulsion]]_; __5th __ (3 slots) _[[Spells/Mantle of the Magma Heart|Mantle of the Magma Heart]]_, _[[Spells/Telekinetic Haul|Telekinetic Haul]]_; __4th __ (3 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Vapor Form|Gaseous Form]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __ (3 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __ (3 slots) _[[Spells/Environmental Endurance|Endure Elements]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Mist|Obscuring Mist]]_; __1st __ (3 slots) _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(9th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Occult Innate Spells"
     desc: "DC 40, attack +32; __9th __ (3 slots) _[[Spells/Shadow Blast|Shadow Blast (Acid Only) (x2)]]_, _[[Spells/Shadow Siphon|Shadow Siphon (x2)]]_"

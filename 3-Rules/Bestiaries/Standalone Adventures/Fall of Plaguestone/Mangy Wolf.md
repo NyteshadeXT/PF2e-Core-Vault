@@ -53,8 +53,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +6 (finesse)\n__Damage__  1d6 + 1 piercing plus fleas"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+6 (finesse, unarmed)\n__Damage__  1d6 + 1 piercing plus fleas"
 
   - name: "Fleas"
     desc: "  Anyone bitten by a mangy wolf is [[Conditions/Sickened|Sickened 1]] for 1 minute unless they succeed at a DC 14 Fortitude check save, but they can spend an Interact action to scratch away the fleas and remove the condition."

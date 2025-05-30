@@ -39,7 +39,7 @@ perception:
 languages: "Common; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Arcana: +19, Deception: +19, Intimidation: +22, Nature: +19, Occultism: +19, Stealth: +22, Arcana: +19, Deception: +19, Intimidation: +22, Nature: +19, Occultism: +19, Stealth: +22"
+    desc: "Arcana: +19, Deception: +19, Intimidation: +22, Nature: +19, Occultism: +19, Stealth: +22"
 abilityMods: [5, 5, 3, 4, 5, 7]
 speed: 25 feet,  fly 50 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"

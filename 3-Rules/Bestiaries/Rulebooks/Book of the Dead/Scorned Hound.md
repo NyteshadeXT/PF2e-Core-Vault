@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (unarmed)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Betray the Pack"
     desc: "  The hound's Strikes deal 1d4 additional damage to creatures that were once its owner, companion, fellow pet, family, household, or pack."

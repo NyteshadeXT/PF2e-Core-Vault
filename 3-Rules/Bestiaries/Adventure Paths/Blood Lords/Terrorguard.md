@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap184-the-ghouls-hunger/assets/art/PZO90184_TERRORGUARD.webp| ]]
 source: "Pathfinder #184: The Ghouls Hunger"
 name: "Terrorguard"
 level: "Creature 14"
@@ -57,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dreamscythe +29 (deadly d10, magical, reach 10 feet, trip, void)\n__Damage__  3d10 + 18 slashing plus nightmare-essence"
+  - name: "**Melee** `pf2:1` Dreamscythe"
+    desc: "+29 (deadly d10, magical, reach 10 feet, trip, void)\n__Damage__  3d10 + 18 slashing plus nightmare-essence"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +29 ()\n__Damage__  3d10 + 18 bludgeoning"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+29 (unarmed)\n__Damage__  3d10 + 18 bludgeoning"
 
   - name: "Breath of Phantasms"
-    desc: "`pf2:3` (death,emotion,fear,illusion,mental,occult) **Frequency** once per day\n* * *\n\n**Effect** The terrorguard's ram-skull head opens at the jaw, allowing a horde of swirling phantasms to escape from its maw in a @Template[cone|distance:30]. Each creature in the area is subjected to a 5th-rank [[Spells/Phantasmal Killer|Phantasmal Killer]] spell (DC 31 Will check, DC 31 Fortitude check)."
+    desc: "`pf2:3` (death,emotion,fear,illusion,mental,occult) **Frequency** once per day\n* * *\n\n**Effect** The terrorguard's ram-skull head opens at the jaw, allowing a horde of swirling phantasms to escape from its maw in a 30-foot cone. Each creature in the area is subjected to a 5th-rank [[Spells/Phantasmal Killer|Phantasmal Killer]] spell (DC 31 Will check, DC 31 Fortitude check)."
 
   - name: "Draw the Line"
     desc: "`pf2:2` (emotion,fear,illusion,mental,occult) A terrorguard plunges its dreamscythe into the ground and rends a glowing line across the surface that reverberates with the essence of the Dimension of Dreams. Chose up to four unoccupied squares which are adjacent to one another and adjacent to the terrorguard. For 1d4 rounds, any creature besides the terrorguard who enters such a square must succeed at a DC 31 Will check save or become [[Conditions/Stunned|Stunned 4]] as they behold grotesque visions from the nightmare realm. A creature that succeeds at this save is temporarily immune to the effect for 24 hours."

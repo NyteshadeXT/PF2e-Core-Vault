@@ -56,6 +56,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Disobedience Vulnerability"
@@ -67,17 +70,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 (magical, unholy)\n__Damage__  2d10 + 9 piercing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (magical, unarmed, unholy)\n__Damage__  2d10 + 9 piercing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (agile, magical, unholy)\n__Damage__  2d6 + 9 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (agile, magical, unarmed, unholy)\n__Damage__  2d6 + 9 slashing 1d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 28, attack +20; __6th __ (1 slots) _[[Spells/Dominate|Dominate (Animals Only)]]_; __5th __ (1 slots) _[[Spells/Translocate|Dimension Door]]_; __4th __ (1 slots) _[[Spells/Translocate|Dimension Door (At Will)]]_\n__Constant__  __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "Incite Ferocity"
     desc: "`pf2:1` (divine,mental) Serraleth focuses her corruption on an animal or beast it can see within 30 feet. The creature must succeed at a DC 28 Will check save or become [[Conditions/Confused|Confused]] for 1d4 rounds. The confused creature can't attack Serraleth. A creature that succeeds at its saving throw is temporarily immune to Incite Ferocity for 24 hours."

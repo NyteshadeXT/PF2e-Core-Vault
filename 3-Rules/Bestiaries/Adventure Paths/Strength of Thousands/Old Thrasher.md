@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 ()\n__Damage__  2d10 + 8 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (unarmed)\n__Damage__  2d10 + 8 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +20 (agile, reach 10 feet)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+20 (agile, reach 10 feet)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Death Roll"
     desc: "`pf2:1` (attack) **Requirements** Old Thrasher must have a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** Old Thrasher tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature [[Conditions/Prone|Prone]]. If it fails, it releases the creature."
@@ -72,7 +72,7 @@ attacks:
     desc: "`pf2:2`  Old Thrasher makes up to three tail Strikes against different targets. Any target hit must succeed at a Fortitude (success) (Fortitude (critical success)) save or be knocked [[Conditions/Prone|Prone]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

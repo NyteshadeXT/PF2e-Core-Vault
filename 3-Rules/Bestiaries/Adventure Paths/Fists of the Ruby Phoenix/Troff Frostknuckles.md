@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +28 (agile, finesse, unarmed)\n__Damage__  2d6 + 13 bludgeoning 1d6 cold"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+28 (agile, finesse, unarmed)\n__Damage__  2d6 + 13 bludgeoning 1d6 cold"
 
-  - name: "Melee"
-    desc: "`pf2:1` Icicle Gouge +28 (agile, backstabber, finesse, unarmed)\n__Damage__  2d8 + 13 piercing plus trip 1d6 cold plus trip"
+  - name: "**Melee** `pf2:1` Icicle Gouge"
+    desc: "+28 (agile, backstabber, finesse, unarmed)\n__Damage__  2d8 + 13 piercing plus trip 1d6 cold plus trip"
 
   - name: "Avalanche Pummel"
     desc: "`pf2:1`  Troff makes an icicle gouge Strike against an [[Conditions/Off-Guard|Off-Guard]] creature. On a hit, the creature is [[Conditions/Dazzled|Dazzled]]. On a critical hit, the creature is [[Conditions/Blinded|Blinded]]. Either way, the effect lasts until the start of Troff's next turn. If his Strike fails (but isn't a critical failure), Troff still deals 13 piercing damage to the creature."

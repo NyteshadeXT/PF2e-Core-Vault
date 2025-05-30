@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fire Talon +14 (agile, finesse, fire, nonlethal, unarmed)\n__Damage__  1d4 + 2 fire plus grab"
+  - name: "**Melee** `pf2:1` Fire Talon"
+    desc: "+14 (agile, finesse, fire, nonlethal, unarmed)\n__Damage__  1d4 + 2 fire plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shuriken +14 (agile, range increment 20 feet, reload 0)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Shuriken"
+    desc: "+14 (agile, range increment 20 feet, reload 0)\n__Damage__  1d4 + 8 piercing"
 
   - name: "Blazing-Talon Surge"
     desc: "`pf2:2`  **Requirements** Meleeka is in Mastered Rain of Embers Stance\n* * *\n\n**Effect** Meleeka Strides twice. If she ends her movement within melee reach of at least one enemy, she can make a fire talon Strike against that enemy that deals an additional 1d4 fire damage. If she hits the target enemy, she can immediately [[Bestiary Ability Glossary/Grab|Grab]] them as a free action."
@@ -77,7 +77,7 @@ attacks:
     desc: "`pf2:1` (stance) **Requirements** Meleeka is unarmored\n* * *\n\n**Effect** Meleeka enters the stance of an enraged phoenix, channeling her pain into resolve and holding her fingers as rigid as deadly talons while moving with quick, flickering gestures that resemble dancing flames. Meleeka gains a +1 status bonus to AC and saving throws and fire resistance 2, though if her current Hit Points are not equal to her maximum number of Hit Points, this status bonus increases to +3 and the fire resistance to 3. The only Strikes Meleeka can make are fire talon Strikes.\n\nThese deal 1d4 fire damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Stench
 
-### [[3-Rules/GM Tools/Bestiary Ability Glossary/Aura]][[olfactory]]
+### [[aura]][[olfactory]]
 
 **Category** defensive; 
 

@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile, finesse, magical, unholy)\n__Damage__  2d4 + 4 slashing plus ash-fever 1d6 spirit plus ash-fever"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, finesse, magical, unholy)\n__Damage__  2d4 + 4 slashing plus ash-fever 1d6 spirit plus ash-fever"
 
   - name: "Divine Innate Spells"
-    desc: "DC 18, attack +10; __3rd __  _[[Spells/Locate|Locate]]_; __2nd __  _[[Spells/Knock|Knock]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_, _[[Spells/Lock|Lock]]_, _[[Spells/Lock|Lock]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 18, attack +10; __3rd __  _[[Spells/Locate|Locate]]_; __2nd __  _[[Spells/Knock|Knock]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_, _[[Spells/Lock|Lock]]_, _[[Spells/Lock|Lock]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
 
   - name: "Ash Fever"
     desc: " (curse,divine) Ashy residue from the ardeodaemon's claws infect creatures and objects, making them more susceptible to burning.\n\nA creature damaged by the ardeodaemon's claw Strike must succeed at a DC 20 Fortitude save. Objects that take damage from ardeodaemon's claws automatically fails its save and suffers the effects of a failure for the full duration.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature gains fire weakness 4. This lasts for 1 minute or until a creature makes a successful DC 20 Medicine check to clean the wound, whichever comes first.\n\n**Critical Failure** As failure, but fire weakness 8."

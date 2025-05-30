@@ -50,32 +50,32 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Halberd|Halberd]], [[Equipment/Sickle|Sickle]], Iron Boots, Red Cap"
+    desc: "[[Equipment/Halberd|Halberd]], Iron Boots, Red Cap"
   - name: "Red Cap"
     desc: " (primal) A redcap's woolen hat is dyed with the blood of their victims. If the redcap loses their cap, they no longer benefit from fast healing and take a –4 status penalty to their damage rolls. They can create a new cap in 10 minutes, but that cap doesn't grant them powers until the redcap has turned it red with Blood Soak. A cap has no benefit for creatures other than the redcap who made it.\n\n[[Bestiary Effects/Effect_ Lost Red Cap|Effect: Lost Red Cap]]"
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 10]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "Divine Revulsion"
     desc: " (emotion,fear,mental) If a redcap sees a creature brandish a religious symbol of a deity (which requires an Interact action by that creature) or cast a divine spell while wearing a religious symbol, the redcap must attempt a DC 19 Will check save. They then become temporarily immune to all brandished religious symbols for 10 minutes.\n* * *\n\n**Critical Success** The redcap is unaffected.\n\n**Success** The redcap is [[Conditions/Frightened|Frightened 2]].\n\n**Failure** The redcap gains the [[Conditions/Fleeing|Fleeing]] condition for 1 round and is [[Conditions/Frightened|Frightened 4]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Iron Boot +13 (agile, versatile b)\n__Damage__  1d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Iron Boot"
+    desc: "+13 (agile, versatile b)\n__Damage__  1d6 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Halberd +15 (reach 10 feet, versatile s)\n__Damage__  1d10 + 10 slashing"
-
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +15 (agile, finesse, trip)\n__Damage__  1d4 + 10 slashing"
+  - name: "**Melee** `pf2:1` Halberd"
+    desc: "+15 (reach 10 feet, versatile s)\n__Damage__  1d10 + 10 piercing"
 
   - name: "Blood Soak"
     desc: "`pf2:1` (manipulate) The redcap dips their cap in the blood of a slain foe. The foe must have died in the last minute, and the redcap must have helped kill it. The redcap gains a +4 status bonus to damage rolls for 1 minute.\n\n[[Bestiary Effects/Effect_ Blood Soak|Effect: Blood Soak]]"
 
   - name: "Deadly Cleave"
-    desc: "`pf2:r`  **Trigger** The redcap reduces a creature to 0 Hit Points with a sickle Strike\n* * *\n\n**Effect** The redcap makes another scythe Strike against a different creature, using the same multiple attack penalty as the sickle Strike that triggered this reaction. This counts toward their multiple attack penalty."
+    desc: "`pf2:r`  **Trigger** The redcap reduces a creature to 0 Hit Points with a halberd Strike\n* * *\n\n**Effect** The redcap makes another halberd Strike against a different creature, using the same multiple attack penalty as the halberd Strike that triggered this reaction. This counts toward their multiple attack penalty as normal."
 
   - name: "Stomp"
     desc: "`pf2:1`  The redcap Strides up to half its Speed and makes a boot Strike at any point during that movement. If the boot Strike hits a [[Conditions/Prone|Prone]] creature, it deals an extra 2d6 bleed."

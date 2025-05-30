@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +19 (agile, magical)\n__Damage__  2d12 + 7 piercing plus algriever-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+19 (agile, magical)\n__Damage__  2d12 + 7 piercing plus algriever-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Web +19 (range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Web"
+    desc: "+19 (range increment 30 feet)\n__Damage__ "
 
   - name: "Divine Innate Spells"
     desc: "DC 25, attack +20; __5th __  _[[Spells/Crisis of Faith|Crisis of Faith]]_; __4th __  _[[Spells/Anathematic Reprisal|Anathematic Reprisal (x3)]]_"

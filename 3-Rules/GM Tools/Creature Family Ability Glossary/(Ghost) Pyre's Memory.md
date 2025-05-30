@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/divine
   - trait/fire
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.5lv9r2ubDCov4dFn"
 license: OGL
 ---
 # (Ghost) Pyre's Memory `pf2:3`
 
-### [[divine]][[3-Rules/trait_reference/F/fire]]
+### [[divine]][[fire]]
 
 **Category** offensive; 
 

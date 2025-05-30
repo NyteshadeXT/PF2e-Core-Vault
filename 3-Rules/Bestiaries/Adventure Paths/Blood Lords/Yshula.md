@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/PZO90183_Yshula.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Yshula"
 level: "Creature 8"
@@ -55,6 +56,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "Bone Key"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "Hatred of Red"
@@ -63,20 +67,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +16 (agile, finesse, magical, unholy)\n__Damage__  2d8 + 6 slashing plus bubonic-plague 1d6 spirit plus bubonic-plague"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+16 (agile, finesse, magical, unarmed, unholy)\n__Damage__  2d8 + 6 slashing plus bubonic-plague 1d6 spirit plus bubonic-plague"
 
   - name: "Divine Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Charm|Charm (At Will)]]_, _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Compendium.pf2e.spells-srd.Item.c2bTWBNO1BYX4Zfg|Misdirection (At Will; Self Only)]]_, _[[Spells/Outcast's Curse|Outcast's Curse (At Will)]]_, _[[Spells/Suggestion|Suggestion (At Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Div Pact|Div Pact]]_"
+    desc: "_Div Pact_"
 
   - name: "Bubonic Plague"
     desc: " (disease) A creature can't remove the [[Conditions/Fatigued|Fatigued]] condition while infected\n\n**Saving Throw** DC 23 Fortitude check\n\n**Onset** 1 day\n\n**Stage 1** fatigued (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 2]] and fatigued (1 day)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 3]], fatigued, and take 1d6 bleed damage every 1d20 minutes (1 day)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) Yshula can take the appearance of any Small or Medium humanoid or animal. This doesn't change his Speed or his attack and damage modifiers with the Strikes, but it might change the damage type his strikes deal."
+    desc: "`pf2:1` (concentrate,divine,polymorph) Yshula can take the appearance of any Small or Medium humanoid or animal. This doesn't change his Speed or his attack and damage modifiers with the Strikes, but it might change the damage type his strikes deal.\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Cottage-Drained"
     desc: "  Yshula is [[Conditions/Drained|Drained 2]] and can't recover from his drained condition while he's in the cottage. These reductions are included in his statistics."

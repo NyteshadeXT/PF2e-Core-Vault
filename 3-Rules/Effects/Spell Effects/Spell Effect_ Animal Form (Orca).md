@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Animal Form|Animal Form]]
+Granted by [[Spells/Animal Form|Animal Form]]
 
 You call upon primal energy to transform yourself into a Medium animal battle form. When you first cast this spell, choose a form.
 

@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatclub +24 (backswing, magical, shove)\n__Damage__  2d10 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Greatclub"
+    desc: "+24 (backswing, magical, shove)\n__Damage__  2d10 + 9 bludgeoning"
 
   - name: "Spontaneous Divine Spells"
     desc: "DC 30, attack +22; __6th __ (2 slots) _[[Spells/Heroism|Heroism]]_, _[[Spells/Mountain Resilience|Stoneskin]]_, _[[Spells/Truesight|True Seeing]]_; __5th __ (3 slots) _[[Spells/Flame Strike|Flame Strike]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __4th __ (3 slots) _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Dispelling Globe|Globe of Invulnerability]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_, _[[Spells/Read Omens|Read Omens]]_; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Cleanse Affliction|Neutralize Poison]]_, _[[Spells/Wanderer's Guide|Wanderer's Guide]]_; __2nd __ (3 slots) _[[Spells/Augury|Augury]]_, _[[Spells/Everlight|Continual Flame]]_, _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Heal|Heal]]_; __1st __ (3 slots) _[[Spells/Create Water|Create Water]]_, _[[Spells/Cleanse Cuisine|Purify Food and Drink]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

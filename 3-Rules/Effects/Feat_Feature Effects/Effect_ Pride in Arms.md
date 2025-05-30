@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Feats/Pride in Arms|Pride in Arms]]
+
 You gain temporary Hit Points equal to your Constitution modifier.
 
 *Source: Pathfinder Player Core 2*

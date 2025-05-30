@@ -4,7 +4,7 @@ title: "Cleanse Soul Path"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.ZhKXvnw7ND2hQ2pp"
 license: OGL

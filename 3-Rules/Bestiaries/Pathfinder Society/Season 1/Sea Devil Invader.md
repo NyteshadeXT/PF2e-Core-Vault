@@ -60,22 +60,25 @@ abilities_top:
   - name: "Shark Commune 150 feet"
     desc: " (mental) The sea devil can communicate telepathically with sharks within range. It can communicate only simple concepts like \"come,\" \"guard,\" or \"attack.\""
 
+  - name: "[[Bestiary Ability Glossary/Wavesense|Wavesense 30 feet]]"
+    desc: "  This sense allows a monster to feel vibrations caused by movement through a liquid. It's an imprecise sense with a limited range (listed in the ability). Wavesense functions only if monster and the subject are in the same body of liquid, and only if the subject is moving through the liquid."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Trident +16 ()\n__Damage__  1d8 + 10 piercing"
+  - name: "**Melee** `pf2:1` Trident"
+    desc: "+16 ()\n__Damage__  1d8 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +16 (agile)\n__Damage__  1d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+16 (agile, unarmed)\n__Damage__  1d6 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 ()\n__Damage__  1d8 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (unarmed)\n__Damage__  1d8 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +13 (thrown 20 ft.)\n__Damage__  1d8 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+13 (thrown 20 ft.)\n__Damage__  1d8 + 10 piercing"
 
   - name: "Aquatic Throwing"
     desc: "  A sea devil invader's thrown weapons don't have their range increments halved when attacking from underwater or targeting an underwater creature."

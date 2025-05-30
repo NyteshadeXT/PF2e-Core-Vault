@@ -20,5 +20,5 @@ license: OGL
 
 You are trained in Intimidation (or another skill of your choice, if you were already trained in Intimidation) and gain the [[Feats/Intimidating Glare|Intimidating Glare]] skill feat as a bonus feat.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Ugly Cute's gift gains the advantages of a [[Ghost Touch|Ghost Touch]] property rune and deals an additional 2 force damage on a successful Strike.
+Granted by [[Equipment/Ugly Cute's Gift|Ugly Cute's Gift]]
+
+Ugly Cute's gift gains the advantages of a [[Equipment/Ghost Touch|Ghost Touch]] property rune and deals an additional 2 force damage on a successful Strike.
 
 *Source: Pathfinder #196: The Summer That Never Was*
 *OGL*

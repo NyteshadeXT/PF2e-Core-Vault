@@ -24,5 +24,5 @@ You can open or energize a notable third eye on your forehead to strike with sto
 
 At 7th level and every 2 levels thereafter, the damage increases by 1d4.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

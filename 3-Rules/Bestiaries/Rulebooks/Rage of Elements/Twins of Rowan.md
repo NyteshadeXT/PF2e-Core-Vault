@@ -64,23 +64,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +26 (deadly d8, disarm, finesse, reach 15 feet)\n__Damage__  4d8 + 5 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+26 (deadly d8, disarm, finesse, reach 15 feet)\n__Damage__  4d8 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +25 (agile, reach 15 feet)\n__Damage__  3d10 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+25 (agile, reach 15 feet, unarmed)\n__Damage__  3d10 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Stump +26 (brutal, range increment 120 feet)\n__Damage__  2d10 + 15 bludgeoning"
+  - name: "**Ranged** `pf2:1` Stump"
+    desc: "+26 (brutal, range increment 120 feet)\n__Damage__  2d10 + 15 bludgeoning"
 
   - name: "Follow-Up Combo"
     desc: "`pf2:2`  The twins of rowan makes a rapier Strike, followed by two fist Strikes, all against the same target. These attacks all count toward the twins' multiple attack penalty, but the penalty doesn't increase until after the twins make their attacks."
 
   - name: "Lifespring Burst"
-    desc: "`pf2:3` (plant,primal,vitality) Once per day, the twins of rowan can strike the ground with their sword, releasing a @Template[burst|distance:30] of life energy centered on the twins that deals 14d6 vitality damage (DC 30 Fortitude check save); the twins of rowan is immune. The area affected by this burst then becomes greater difficult terrain as vibrant new plant life ruptures through it."
+    desc: "`pf2:3` (plant,primal,vitality) Once per day, the twins of rowan can strike the ground with their sword, releasing a 30-foot burst of life energy centered on the twins that deals 14d6 vitality damage (DC 30 Fortitude check save); the twins of rowan is immune. The area affected by this burst then becomes greater difficult terrain as vibrant new plant life ruptures through it."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Stump]]"
-    desc: "`pf2:1`  Can also be used to throw stumps and logs.\n\n* * *\n"
+    desc: "`pf2:1`  Can also be used to throw stumps and logs.\n* * *\n\nThe monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
  
 ```
 

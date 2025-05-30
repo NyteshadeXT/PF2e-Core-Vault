@@ -52,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Summon Elementals"
-    desc: "`pf2:r` (arcane, summon) **Trigger** A living creature enters the room\n* * *\n\n**Effect** Two rounds after a creature enters the room, the room's door slams shut and locks (two Thievery checks to pick), and two [[Bestiary 1/Cinder Rat|Cinder Rat]] fire elementals emerge from the floor.\n\nThe elementals roll initiative and remain for 3d6 rounds, after which the spell ends and the creatures disappear. The elementals also disappear if someone disables the trap before the duration expires.\n\nThe summoned elementals can use 3 actions each round and can use reactions, unlike most summoned creatures."
+    desc: "`pf2:r` (arcane, summon) **Trigger** A living creature enters the room\n* * *\n\n**Effect** Two rounds after a creature enters the room, the room's door slams shut and locks (two Thievery checks to pick), and two [[Monster Core/Cinder Rat|Cinder Rat]] fire elementals emerge from the floor.\n\nThe elementals roll initiative and remain for 3d6 rounds, after which the spell ends and the creatures disappear. The elementals also disappear if someone disables the trap before the duration expires.\n\nThe summoned elementals can use 3 actions each round and can use reactions, unlike most summoned creatures."
 
 
   - name: "Reset"

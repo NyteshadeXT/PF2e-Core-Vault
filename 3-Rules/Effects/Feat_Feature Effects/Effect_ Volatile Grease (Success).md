@@ -24,5 +24,5 @@ The target gains weakness 2 to fire until the end of your next turn.
 
 **Heightened (+2)** The weakness increases by 1.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

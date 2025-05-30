@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Main-Gauche +13 (agile, disarm, finesse, parry, versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Main-Gauche"
+    desc: "+13 (agile, disarm, finesse, parry, versatile s)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +14 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+14 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Advancing Flourish"
     desc: "`pf2:2`  Tascio Strides twice. If he ends his movement within melee reach of an enemy, he can [[Actions/Feint|Feint]]."

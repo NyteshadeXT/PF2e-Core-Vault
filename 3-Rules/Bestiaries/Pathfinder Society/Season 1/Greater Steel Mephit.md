@@ -50,19 +50,25 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 4 (while within Paravaax's aura)]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +13 ()\n__Damage__  2d8 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+13 (unarmed)\n__Damage__  2d8 + 5 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 20, attack +12; __3rd __ (1 slots) _[[Spells/One with Stone|Meld into Stone]]_; __2nd __ (1 slots) _[[Spells/Enlarge|Enlarge (Self Only)]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,earth) The greater steel mephit breathes shards of iron in a @Template[cone|distance:15] that deals 3d6 slashing damage to each creature within the area (DC 19 Reflex check save). Creatures who fail their save against this effect also take 1d6 bleed. The greater steel mephit can't use its breath weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,earth) The greater steel mephit breathes shards of iron in a 15-foot cone that deals 3d6 slashing damage to each creature within the area (DC 19 Reflex check save). Creatures who fail their save against this effect also take 1d6 bleed. The greater steel mephit can't use its breath weapon again for 1d4 rounds."
  
 ```
 

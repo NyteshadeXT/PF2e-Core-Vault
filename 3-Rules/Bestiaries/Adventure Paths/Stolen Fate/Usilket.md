@@ -53,19 +53,22 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Handwraps of Mighty Blows|+1 Striking Handwraps of Mighty Blows]], [[Equipment/Guardian Aluum Charm|Guardian Aluum Charm]], [[Equipment/Masquerade Scarf (Greater)|Hat of Disguise (Greater)]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Absorb Force"
     desc: "`pf2:r` (arcane,force) **Frequency** once per round\n\n**Trigger** A [[Spells/Force Barrage|Force Barrage]] is fired at Usilket, and they are aware of it and have a free hand\n* * *\n\n**Effect** Usilket \"catches\" the missile, absorbing it and causing that hand to glow while it holds this energy. A hand that's holding energy can only be used for [[Spells/Force Bolt|Force Bolt]]. The energy lasts for 6 rounds or until it is released."
 
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +25 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  3d10 + 9 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+25 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  3d10 + 9 bludgeoning plus grab"
 
   - name: "Arcane Innate Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Resist Energy|Resist Energy (x2)]]_; __6th __  _[[Spells/Containment|Resilient Sphere]]_, _[[Spells/Suggestion|Suggestion]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Carryall|Floating Disk (At Will)]]_, _[[Spells/Phantasmal Minion|Unseen Servant (At Will)]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(7th)__ _[[Spells/Truespeech|Tongues]]_"
@@ -86,7 +89,7 @@ attacks:
     desc: "  Usilket's fist Strikes are treated as cold iron and silver and don't take penalties when making lethal attacks."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

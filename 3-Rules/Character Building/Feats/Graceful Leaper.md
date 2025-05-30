@@ -23,7 +23,7 @@ license: ORC
 * * *
 Mass and muscle are meaningless when you propel yourself through the air; only grace and balance matter.
 
-You can roll an Acrobatics check instead of an Athletics check when making a [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]].
+You can roll an Acrobatics check instead of an Athletics check when making a [[Actions/high-jump skill=acrobatics|high-jump skill=acrobatics]] or [[Actions/long-jump skill=acrobatics|long-jump skill=acrobatics]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

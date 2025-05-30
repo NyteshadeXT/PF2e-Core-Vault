@@ -32,7 +32,7 @@ trait_03: [[nagaji]]
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "+18; "
+    desc: "+18; Low-Light Vision"
 languages: "Nagaji, Taldane, Tengu, Tien"
 skills:
   - name: "Skills"
@@ -58,17 +58,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bo Staff +17 (magical, parry, reach, trip)\n__Damage__  2d8 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Bo Staff"
+    desc: "+17 (magical, parry, reach, trip)\n__Damage__  2d8 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Venom +18 (range increment 10 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Venom"
+    desc: "+18 (range increment 10 feet)\n__Damage__ "
 
   - name: "Spontaneous Arcane Spells"
     desc: "DC 27, attack +20; __5th __ (2 slots) _[[Spells/Chromatic Wall|Chromatic Wall]]_, _[[Spells/Cloak of Colors|Cloak of Colors]]_, _[[Spells/Force Barrage|Magic Missile]]_; __4th __ (3 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Spell Immunity|Spell Immunity]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __ (3 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Slow|Slow]]_; __2nd __ (3 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(5th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Focus Spells"
-    desc: "2 Focus Points, DC 27, attack +20; __5th __  _[[Spells/Dragon Breath (Brass)|Dragon Breath (Brass)]]_, _[[Spells/Flurry of Claws|Dragon Claws]]_"
+    desc: "2 Focus Points, DC 27, attack +20; __5th __  _[[Spells/Dragon Breath|Dragon Breath (Brass)]]_, _[[Spells/Flurry of Claws|Dragon Claws]]_"
 
   - name: "Nagaji Venom"
     desc: " (poison) **Saving Throw** DC 25 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage (1 round)\n\n**Stage 2** 3d6 poison damage and [[Conditions/Dazzled|Dazzled]] (1 round)\n\n**Stage 3** 4d6 poison damage and [[Conditions/Blinded|Blinded]] (1 round)"

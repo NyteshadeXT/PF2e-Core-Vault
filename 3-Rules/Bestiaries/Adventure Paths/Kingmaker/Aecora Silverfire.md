@@ -56,20 +56,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +16 (agile)\n__Damage__  1d10 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+16 (agile)\n__Damage__  1d10 + 8 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +17 ()\n__Damage__  1d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+17 ()\n__Damage__  1d6 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +14 (thrown 20 ft.)\n__Damage__  1d6 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+14 (thrown 20 ft.)\n__Damage__  1d6 + 8 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Outcast's Curse|Outcast's Curse]]_; __3rd __  _[[Spells/Dream Message|Dream Message]]_; __2nd __  _[[Spells/Restoration|Restoration]]_, _[[Spells/Silence|Silence]]_, _[[Spells/Noise Blast|Sound Burst]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Message|Message]]_, _[[Spells/Stabilize|Stabilize]]_"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 25 Reflex check save\n\n* * *\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 25 Reflex check save\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

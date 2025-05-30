@@ -65,17 +65,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +24 (magical, reach 10 feet, unholy)\n__Damage__  2d10 + 16 piercing plus grave-blight"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+24 (magical, reach 10 feet, unarmed, unholy)\n__Damage__  2d10 + 16 piercing plus grave-blight"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +22 (agile, magical, unholy)\n__Damage__  2d8 + 13 slashing plus grave-blight"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+22 (agile, magical, unarmed, unholy)\n__Damage__  2d8 + 13 slashing plus grave-blight"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +24 (magical, unholy)\n__Damage__  2d6 + 13 piercing plus grab"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+24 (magical, unarmed, unholy)\n__Damage__  2d6 + 13 piercing plus grab"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine,fire) The grave karina breathes a cloud of burning ash in @Template[cone|distance:30] that deals 9d8 fire damage (DC 30 Reflex check save). The area becomes filled with ash for 1 round. All creatures within the cloud of ash become [[Conditions/Concealed|Concealed]], and all creatures outside the cloud become concealed to creatures within it. The grave karina can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire) The grave karina breathes a cloud of burning ash in 30-foot cone that deals 9d8 fire damage (DC 30 Reflex check save). The area becomes filled with ash for 1 round. All creatures within the cloud of ash become [[Conditions/Concealed|Concealed]], and all creatures outside the cloud become concealed to creatures within it. The grave karina can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Grave Blight"
     desc: " (disease) **Saving Throw** DC 27 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d6 poison damage, and [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** 2d8 poison damage, every hour the victim must succeed at another Fortitude save or be [[Conditions/Confused|Confused]] for 1 minute, and [[Conditions/Sickened|Sickened 2]] (1 day)"
@@ -87,7 +87,7 @@ attacks:
     desc: "`pf2:2` (concentrate,manipulate) **Frequency** once per day **Requirements** The grave karina is adjacent to a creature that's casting a shadow\n* * *\n\n**Effect** The grave karina drives a talon into a creature's shadow and attempts to manipulate it like a puppet with the effects of [[Spells/Dominate|Dominate]](DC 27 Will check save), except the duration is only 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

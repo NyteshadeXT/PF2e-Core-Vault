@@ -52,7 +52,7 @@ attacks:
   - name: "Load the Cannons"
     desc: "`pf2:r` **Trigger** The ship flies within 30 feet of Star\n\n**Effect** The cannon rolls initiative."
   - name: "Melee"
-    desc: "Cannon Blast +11 (range 30 feet) to creatures in a @Template[burst|distance:5] (DC 18 Reflex check)"
+    desc: "Cannon Blast +11 (range 30 feet) to creatures in a 5-foot burst (DC 18 Reflex check)"
 
   - name: "Routine"
     desc: "(1 action) The cannon fires a blast that contains as many PCs as possible, choosing randomly in the event of a tie."

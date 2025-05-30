@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Untwisting Iron Augmentation|Untwisting Iron Augmentation]]
+Granted by [[Spells/Untwisting Iron Augmentation|Untwisting Iron Augmentation]]
 
 Your unarmed attacks are treated as cold iron and silver, they gain the earth trait, and they gain a +1 status bonus to damage rolls per damage die.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

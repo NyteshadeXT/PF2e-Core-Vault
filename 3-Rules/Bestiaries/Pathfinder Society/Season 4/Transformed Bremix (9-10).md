@@ -62,14 +62,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +22 (agile, magical, unholy)\n__Damage__  2d8 + 12 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+22 (agile, magical, unarmed, unholy)\n__Damage__  2d8 + 12 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Antler +22 (magical, unholy)\n__Damage__  2d12 + 12 piercing plus knockdown"
+  - name: "**Melee** `pf2:1` Antler"
+    desc: "+22 (magical, unholy)\n__Damage__  2d12 + 12 piercing plus knockdown"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spiked Chain +22 (disarm, magical, trip, unholy)\n__Damage__  2d8 + 12 slashing plus knockdown"
+  - name: "**Melee** `pf2:1` Spiked Chain"
+    desc: "+22 (disarm, magical, trip, unholy)\n__Damage__  2d8 + 12 slashing plus knockdown"
 
   - name: "Occult Innate Spells"
     desc: "DC 29, attack +21; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self only; Astral or Material Plane Only)]]_; __5th __  _[[Spells/Harm|Harm]]_, _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Rewrite Memory|Modify Memory]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_, _[[Spells/Silence|Silence (At Will)]]_"
@@ -78,16 +78,16 @@ attacks:
     desc: "`pf2:1` (auditory,emotion,mental,occult,unholy) The skelm draws upon the spirit of one of his deceased victims, tormenting their soul beyond the grave. Until the end of his next turn, the soul skelm gains regeneration 15 (deactivated by force or good), and he deals an extra 1d8 spirit damage on his Strikes.\n\n[[Bestiary Effects/Effect_ Bully the Departed|Effect: Bully the Departed]]"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The soul skelm can take on the appearance of any Medium male humanoid. This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The soul skelm can take on the appearance of any Medium male humanoid. This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Isolating Lash"
     desc: "`pf2:2` (illusion,occult) The soul skelm makes a melee Strike trailing a wave of shadowy illusions. The skelm is [[Conditions/Off-Guard|Off-Guard]] until the start of his next turn. If the Strike is successful, the skelm increases the number of damage dice by one, and the target must attempt a DC 29 Will check save. On a failure, the target becomes [[Conditions/Invisible|Invisible]], inaudible, and otherwise imperceptible to its allies for 4 rounds, and it likewise can't see, hear, or otherwise perceive those allies. Regardless of the outcome, the creature is temporarily immune to Isolating Lash for 24 hours."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

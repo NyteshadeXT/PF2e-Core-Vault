@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Ghost Oil|Ghost Oil]]
+Granted by [[Equipment/Ghost Oil|Ghost Oil]]
 
 The selected weapon gains the effects of a _ghost touch_ rune.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

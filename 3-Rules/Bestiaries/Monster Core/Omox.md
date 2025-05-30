@@ -56,6 +56,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Cleanly Vulnerability"
     desc: "  An omox embodies filth, and they find the concept of cleanliness abhorrent. An omox subjected to an effect that cleans them, such as the tidy command of [[Spells/Prestidigitation|Prestidigitation]], takes 2d6 mental damage. They also take this damage the first time each round a creature hit by one of the omox's attacks spends actions cleaning off the filth."
 
@@ -67,29 +70,29 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sludge Tendril +25 (acid, unholy)\n__Damage__  2d6 + 13 bludgeoning plus grab 2d6 acid plus grab"
+  - name: "**Melee** `pf2:1` Sludge Tendril"
+    desc: "+25 (acid, unholy)\n__Damage__  2d6 + 13 bludgeoning plus grab 2d6 acid plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Slime Ball +23 (acid, brutal, range increment 30 feet, unholy)\n__Damage__  2d4 + 11 bludgeoning plus slime-trap 2d6 acid plus slime-trap"
+  - name: "**Ranged** `pf2:1` Slime Ball"
+    desc: "+23 (acid, brutal, range increment 30 feet, unholy)\n__Damage__  2d4 + 11 bludgeoning plus slime-trap 2d6 acid plus slime-trap"
 
   - name: "Divine Innate Spells"
     desc: "DC 32, attack +24; __5th __  _[[Spells/Control Water|Control Water]]_, _[[Spells/Create Water|Create Water (At Will)]]_, _[[Spells/Toxic Cloud|Toxic Cloud]]_, _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Translocate|Translocate (At Will)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Demonic Pact]]_"
+    desc: "_Demonic Pact_"
 
   - name: "Liquid Leap"
     desc: "`pf2:2` (concentrate,teleportation) **Requirements** The omox is in a space of liquid.\n* * *\n\n**Effect** The omox teleports from its current space to any unoccupied space of liquid within 120 feet."
 
   - name: "Slime Trap"
-    desc: "  A creature hit by an omox's slime ball must succeed at a DC 32 Reflex check save or take a –10-foot circumstance penalty to its Speeds for 1 minute or until it [[/act escape dc=35]]{Escapes (DC 35)}. On a critical failure, the creature is also [[Conditions/Clumsy|Clumsy 1]] for the same duration.\n\n[[Bestiary Effects/Effect_ Slime Trap|Effect: Slime Trap]]"
+    desc: "  A creature hit by an omox's slime ball must succeed at a DC 32 Reflex check save or take a –10-foot circumstance penalty to its Speeds for 1 minute or until it [[Actions/escape dc=35|escape dc=35]]{Escapes (DC 35)}. On a critical failure, the creature is also [[Conditions/Clumsy|Clumsy 1]] for the same duration.\n\n[[Bestiary Effects/Effect_ Slime Trap|Effect: Slime Trap]]"
 
   - name: "Smother"
     desc: "`pf2:1`  **Requirements** The omox has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The demon flows over the creature, covering it in oozing acidic slime. The creature must succeed at a DC 32 Fortitude check save or it becomes [[Conditions/Blinded|Blinded]] and must hold its breath or begin suffocating. These effects lasts as long as the omox has the creature grabbed or restrained."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

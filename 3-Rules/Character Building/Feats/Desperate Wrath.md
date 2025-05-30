@@ -13,7 +13,7 @@ license: ORC
 ---
 # Desperate Wrath `pf2:0`
 ## Feat 16
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

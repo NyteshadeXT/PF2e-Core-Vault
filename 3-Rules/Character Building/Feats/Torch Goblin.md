@@ -25,5 +25,5 @@ As long as you are suffering persistent fire damage, all your melee attacks agai
 
 You must still attempt the flat check to remove the Persistent Fire Damage each round, as normal.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

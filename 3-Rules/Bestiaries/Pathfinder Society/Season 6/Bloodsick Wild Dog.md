@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 ()\n__Damage__  1d10 + 5 piercing plus gnash"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (unarmed)\n__Damage__  1d10 + 5 piercing plus gnash"
 
   - name: "Gnash"
     desc: "`pf2:1` (attack) **Requirements** The wild dog's last action was a successful jaws Strike\n* * *\n\n**Effect** The wild dog gnashes its teeth to deal a particularly vicious wound; the Strike's target takes 1d6 persistent bleed damage."

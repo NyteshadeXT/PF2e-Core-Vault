@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dogslicer +12 (agile, backstabber, finesse, goblin)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Dogslicer"
+    desc: "+12 (agile, backstabber, finesse, goblin)\n__Damage__  1d6 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +13 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+13 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Disorienting Shot"
     desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** Gurlunk makes two Strikes against his hunted prey with his shortbow. If both hit the same creature, the creature succeed at a DC 21 Will check save or become [[Conditions/Off-Guard|Off-Guard]] until the start of their next turn (or the start of Gurlunk's next turn on a critical failure)."

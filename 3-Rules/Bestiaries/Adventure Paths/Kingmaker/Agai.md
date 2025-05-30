@@ -60,16 +60,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Enraged Growth"
-    desc: "`pf2:r` (polymorph,primal) **Trigger** The spriggan warlord takes damage\n* * *\n\n**Effect** The spriggan warlord grows to size Large, along with their equipment (which returns to natural size if removed). The spriggan warlord's reach increases by 5 feet. They regain 15 Hit Points and gain a +2 status bonus to melee attack and damage rolls.\n\nThis effect continues until the end of the spriggan warlord's next turn, but on any turn in which the spriggan warlord deals damage to another creature and is not [[Conditions/Fatigued|Fatigued]], the effect extends until the end of the following turn.\n\nWhen Enraged Growth ends, the spriggan warlord is fatigued for 1 hour."
+    desc: "`pf2:r` (polymorph,primal) **Trigger** The spriggan warlord takes damage\n* * *\n\n**Effect** The spriggan warlord grows to size Large, along with their equipment (which returns to natural size if removed). The spriggan warlord's reach increases by 5 feet. They regain 15 healing Hit Points and gain a +2 status bonus to melee attack and damage rolls.\n\nThis effect continues until the end of the spriggan warlord's next turn, but on any turn in which the spriggan warlord deals damage to another creature and is not [[Conditions/Fatigued|Fatigued]], the effect extends until the end of the following turn.\n\nWhen Enraged Growth ends, the spriggan warlord is fatigued for 1 hour."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Morningstar +16 (magical, versatile p)\n__Damage__  1d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Morningstar"
+    desc: "+16 (magical, versatile p)\n__Damage__  1d6 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +21 (magical, range increment 120 feet, reload 0)\n__Damage__  2d10 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+21 (magical, range increment 120 feet, reload 0)\n__Damage__  2d10 + 8 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +15; __4th __  _[[Spells/Fear|Fear]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Shatter|Shatter]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_; __2nd __  _[[Spells/Blur|Blur]]_\n__Cantrips__  __(5th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"

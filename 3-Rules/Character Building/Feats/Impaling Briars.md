@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** leaf order
 * * *
-You can fill an area with devastating briars. You gain the [[3-Rules/Character Building/Spells/I/Impaling Briars|Impaling Briars]] order spell.
+You can fill an area with devastating briars. You gain the [[Spells/Impaling Briars|Impaling Briars]] order spell.
 
 *Source: Pathfinder Player Core*
 *ORC*

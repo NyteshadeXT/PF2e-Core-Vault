@@ -62,14 +62,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Living Hair +7 (agile, disarm, finesse, trip, unarmed)\n__Damage__  1d6 bludgeoning"
+  - name: "**Melee** `pf2:1` Living Hair"
+    desc: "+7 (agile, disarm, finesse, trip, unarmed)\n__Damage__  1d6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +5 (two-hand d8)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+5 (two-hand d8)\n__Damage__  1d4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +6 (propulsive, range increment 50 feet)\n__Damage__  1d6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+6 (propulsive, range increment 50 feet)\n__Damage__  1d6 bludgeoning"
 
   - name: "Occult Prepared Spells"
     desc: "DC 17, attack +9; __1st __  _[[Spells/Déjà Vu|Déjà Vu]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Phantom Pain|Phantom Pain]]_\n__Cantrips__  __(1st)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Shield|Shield]]_"

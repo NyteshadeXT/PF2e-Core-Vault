@@ -52,6 +52,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Swarm Mind|Swarm Mind]]"
+    desc: "  This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
+
   - name: "Cling"
     desc: "`pf2:r`  **Trigger** A creature leaves the swarm's space\n* * *\n\n**Effect** The swarm takes 1d6 damage as ants cling to the creature and continue biting, dealing 7d6 persistent piercing damage. High winds or immersion in water reduces the DC of the flat check to end this persistent damage to 5. Any area damage dealt to the creature destroys these clinging ants."
 

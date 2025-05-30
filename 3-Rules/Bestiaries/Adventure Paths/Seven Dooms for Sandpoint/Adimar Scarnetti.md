@@ -67,14 +67,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +19 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+19 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +18 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+18 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 5 piercing"
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) Human with fist +18 for 1d4+5 bludgeoning, or Small rat with Speed 30 feet, climb Speed 10 feet\n* * *\n\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\n\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\n\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) Human with fist +18 for 1d4+5 bludgeoning, or Small rat with Speed 30 feet, climb Speed 10 feet\n* * *\n\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\n\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\n\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Curse of the Werecreature|Curse of the Wererat]]"
     desc: " (curse,primal) This curse affects only humanoids.\n\n**Saving Throw** DC 26 Fortitude check\n* * *\n\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into a wererat until dawn.\n\nThe creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."

@@ -12,8 +12,9 @@ tags:
   - trait/sorcerer
   - trait/uncommon
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.JcobNl4iE9HmMYtE" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Dragon Breath  `pf2:2`"
@@ -36,5 +37,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You spew energy from your mouth, dealing 5d6 damage with a basic Reflex save. The damage type depends on the magical tradition related to the dragon that influenced your bloodline.\n* * *\n\n**Heightened (+1)** The damage increases by 2d6."
-sourcebook: "_Pathfinder Core Rulebook_"
+sourcebook: "_Pathfinder Player Core 2_"
 ```

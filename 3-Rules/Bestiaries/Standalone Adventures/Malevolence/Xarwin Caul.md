@@ -50,7 +50,7 @@ attacks:
   - name: ""
 
   - name: "Burst of Hatrid"
-    desc: "`pf2:r` (emotion, mental) **Trigger** A creature opens any door or window into Xarwin Manor, or any creature or object passes through the caul from outside into the manor\n* * *\n\n**Effect** The caul immediately bursts like an oily bubble, vanishing in an instant of foul-smelling smoke. A wave of susurration creeps through the area, and all sapient creatures experience a sudden sensation of utter hatred toward birdlife for the span of a single heartbeat. All natural avians within a @Template[emanation|distance:300] from Xarwin Manor (but not those within the manor or underground) take 15d6 mental damage (DC 33 Fortitude check save)."
+    desc: "`pf2:r` (emotion, mental) **Trigger** A creature opens any door or window into Xarwin Manor, or any creature or object passes through the caul from outside into the manor\n* * *\n\n**Effect** The caul immediately bursts like an oily bubble, vanishing in an instant of foul-smelling smoke. A wave of susurration creeps through the area, and all sapient creatures experience a sudden sensation of utter hatred toward birdlife for the span of a single heartbeat. All natural avians within a 300-foot emanation from Xarwin Manor (but not those within the manor or underground) take 15d6 mental damage (DC 33 Fortitude check save)."
 
 
   - name: "Reset"

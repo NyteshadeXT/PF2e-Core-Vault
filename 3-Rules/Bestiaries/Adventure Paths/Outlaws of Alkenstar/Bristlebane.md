@@ -63,17 +63,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +9 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+9 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 5 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (finesse)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (finesse, unarmed)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +10 (disarm, finesse, magical, nonlethal, reach, trip)\n__Damage__  1d4 + 5 slashing"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+10 (disarm, finesse, magical, nonlethal, reach, trip)\n__Damage__  1d4 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bola +7 (nonlethal, range 20 feet, ranged trip, thrown)\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Ranged** `pf2:1` Bola"
+    desc: "+7 (nonlethal, range 20 feet, ranged trip, thrown)\n__Damage__  1d6 + 5 bludgeoning"
 
   - name: "Express Meal"
     desc: "`pf2:2`  Bristlebane makes a whip Strike against one creature within reach, on a success she pulls the target into an adjacent square. This is forced movement. She then Strikes the pulled target with her jaws. Both attacks count against her multiple attack penalty but don't apply until after both attacks."

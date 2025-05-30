@@ -7,7 +7,7 @@ tags:
   - pf2eVehicle
 
   - remaster
-source: Pathfinder Lost Omens: Tian Xia World Guide
+source: Pathfinder Lost Omens Tian Xia World Guide
 aliases: "Compendium.pf2e.vehicles.Actor.gA7J3pIerocOcamB" 
 level: 12
 license: ORC
@@ -18,7 +18,7 @@ statblock: inline
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Tian Xia World Guide"
+source: "Pathfinder Lost Omens Tian Xia World Guide"
 name: "Geobukseon"
 level: "Vehicle 12"
 
@@ -34,7 +34,7 @@ perception:
 abilities_top:
   - name: ""
   - name: "Space"
-    desc: "110 feet long, 35 feet wide, 40 feet high"
+    desc: "50 feet long, 35 feet wide, 40 feet high"
   - name: "Crew"
     desc: "1 pilot, 80 rowers; **Passengers** 50"
   - name: "Piloting Check"
@@ -64,7 +64,7 @@ attacks:
 
 
 
-sourcebook: "_Pathfinder Lost Omens: Tian Xia World Guide_"
+sourcebook: "_Pathfinder Lost Omens Tian Xia World Guide_"
 ```
 
 ```encounter-table

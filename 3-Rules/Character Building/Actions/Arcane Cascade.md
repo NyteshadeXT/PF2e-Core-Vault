@@ -6,21 +6,21 @@ tags:
   - trait/concentrate
   - trait/magus
   - trait/stance
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.HbejhIywqIufrmVM"
 license: OGL
 ---
 # Arcane Cascade `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]][[magus]][[stance]]
+### [[concentrate]][[magus]][[stance]]
 
 **Category** offensive; 
 
 
 
 
-**Requirements** You used your most recent action this turn to [[Actions/Cast a Spell|Cast a Spell]] or make a [[Actions/Spellstrike|Spellstrike]]. You need to meet this requirement only to enter the stance, not to remain in it.
+**Requirements** You used your most recent action this turn to Cast a Spell or make a [[Actions/Spellstrike|Spellstrike]]. You need to meet this requirement only to enter the stance, not to remain in it.
 
 * * *
 

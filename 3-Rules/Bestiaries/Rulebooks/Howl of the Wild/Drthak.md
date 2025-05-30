@@ -29,7 +29,7 @@ trait_01: [[beast]]
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "+15; "
+    desc: "+15; Echolocation 120 Feet"
 languages: ""
 skills:
   - name: "Skills"
@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 ()\n__Damage__  2d8 + 4 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (unarmed)\n__Damage__  2d8 + 4 piercing plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Screech +17 (range 60 feet, sonic)\n__Damage__  4d6 sonic plus resonant-jaws"
+  - name: "**Ranged** `pf2:1` Screech"
+    desc: "+17 (range 60 feet, sonic)\n__Damage__  4d6 sonic plus resonant-jaws"
 
   - name: "Bubble Burst"
-    desc: "`pf2:2` (sonic,water) **Requirements** The drthak is underwater\n* * *\n\n**Effect** The drthak uses sonic power to push aside water in a @Template[emanation|distance:30], which then collapses in a crushing torrent. All creatures in the area, other than the drthak, take 3d10 bludgeoning damage (DC 24 Fortitude check save)."
+    desc: "`pf2:2` (sonic,water) **Requirements** The drthak is underwater\n* * *\n\n**Effect** The drthak uses sonic power to push aside water in a 30-foot emanation, which then collapses in a crushing torrent. All creatures in the area, other than the drthak, take 3d10 bludgeoning damage (DC 24 Fortitude check save)."
 
   - name: "Resonant Jaws"
     desc: "  When the drthak misses a screech Strike against a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in its jaws, it deals that creature 2d6 sonic damage."

@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You're familiar with the basic spells that most educated merfolk know. Once per day, you can cast either [[Create Water|Create Water]] or [[Hydraulic Push|Hydraulic Push]] as a 1st-rank primal innate spell. Each time you cast _create water_, you choose if you create fresh water or salt water.
+You're familiar with the basic spells that most educated merfolk know. Once per day, you can cast either [[Spells/Create Water|Create Water]] or [[Spells/Hydraulic Push|Hydraulic Push]] as a 1st-rank primal innate spell. Each time you cast _create water_, you choose if you create fresh water or salt water.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

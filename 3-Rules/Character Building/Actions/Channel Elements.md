@@ -14,7 +14,7 @@ license: OGL
 ---
 # Channel Elements `pf2:1`
 
-### [[3-Rules/Rule References/Aura]][[kineticist]][[primal]]
+### [[aura]][[kineticist]][[primal]]
 
 **Category** offensive; 
 

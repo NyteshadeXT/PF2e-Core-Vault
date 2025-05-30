@@ -4,7 +4,7 @@ title: "Defend"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.cYtYKa1gDEl7y2N0"

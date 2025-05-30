@@ -18,5 +18,5 @@ license: OGL
 
 While waterlogged, the berberoka can use Spray Water, their size grows to Gargantuan, and their Speed is reduced to 15 feet.
 
-*Source: Pathfinder Bestiary 3*
+*Source: Pathfinder #166: Despair on Danger Island*
 *OGL*

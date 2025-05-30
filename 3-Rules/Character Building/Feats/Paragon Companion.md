@@ -6,8 +6,9 @@ tags:
   - trait/inventor
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.R5hdEbfKdIVAQs24"
-license: OGL
+license: ORC
 ---
 # Paragon Companion
 ## Feat 14
@@ -22,4 +23,4 @@ license: OGL
 Your construct companion has reached the pinnacle of form and function. Your construct companion becomes a paragon construct companion.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

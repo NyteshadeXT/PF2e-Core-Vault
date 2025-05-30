@@ -13,7 +13,7 @@ license: OGL
 ---
 # Rehydration
 ## Feat 13
-### [[azarketi]][[primal]][[3-Rules/trait_reference/W/water]]
+### [[azarketi]][[primal]][[water]]
 
 **Category** ancestry; 
 
@@ -26,5 +26,5 @@ license: OGL
 
 You surround your body with a thin layer of water drawn from the moisture in the air. You can spend one hour resting to rehydrate your gills and skin, which counts as submerging your body in water. At the GM's discretion, incredibly dry areas, such as deserts, might not have enough moisture in the air for your Rehydration to work.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

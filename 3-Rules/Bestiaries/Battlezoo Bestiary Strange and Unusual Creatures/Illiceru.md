@@ -35,7 +35,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, Deception: +24, Diplomacy: +22, Stealth: +20, Athletics: +22, Deception: +24, Diplomacy: +22, Stealth: +20"
+    desc: "Athletics: +22, Deception: +24, Diplomacy: +22, Stealth: +20"
 abilityMods: [5, 7, 5, 5, 3, 7]
 speed: 35 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +24 ()\n__Damage__  3d12 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+24 ()\n__Damage__  3d12 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacles +24 (agile, reach 20 feet)\n__Damage__  3d8 + 8 bludgeoning plus gluttonous-capture"
+  - name: "**Melee** `pf2:1` Tentacles"
+    desc: "+24 (agile, reach 20 feet)\n__Damage__  3d8 + 8 bludgeoning plus gluttonous-capture"
 
   - name: "Gluttonous Capture"
     desc: "`pf2:1`  **Requirements** The illiceru's last action was a success with a tentacle Strike\n* * *\n\n**Effect** The illiceru pulls the creature it hit into an adjacent space, then makes a jaws Strike against it. On a success, the illiceru then Grabs the target."

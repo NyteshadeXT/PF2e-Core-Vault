@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flying Talon +10 (agile, finesse, ranged trip, tethered, trip)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Flying Talon"
+    desc: "+10 (agile, finesse, ranged trip, tethered, trip)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flying Talon +10 (agile, ranged trip, tethered, thrown 10 ft., trip)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Flying Talon"
+    desc: "+10 (agile, ranged trip, tethered, thrown 10 ft., trip)\n__Damage__  1d4 + 3 piercing"
 
   - name: "No Retreat"
-    desc: "`pf2:1` (primal) **Frequency** once per day; Requirement The Dark Talon kobold is adjacent to at least one enemy, and the Dark Talon has fewer than 12 Hit Points;\n\n**Effect** The Dark Talon shrieks in fury and regains 2d6 Hit Points."
+    desc: "`pf2:1` (primal) **Frequency** once per day\n\n**Requirement** The Dark Talon kobold is adjacent to at least one enemy, and the Dark Talon has fewer than 12 Hit Points\n* * *\n\n**Effect** The Dark Talon shrieks in fury and regains 2d6 healing Hit Points."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A Dark Talon kobold deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

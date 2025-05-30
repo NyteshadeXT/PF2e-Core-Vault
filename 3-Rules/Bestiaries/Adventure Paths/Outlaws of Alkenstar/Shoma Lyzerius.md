@@ -63,20 +63,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +8 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+8 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bottled Lightning +10 (alchemical, bomb, consumable, electricity, splash, thrown 30 ft.)\n__Damage__  2d6 electricity 2 electricity"
+  - name: "**Ranged** `pf2:1` Bottled Lightning"
+    desc: "+10 (alchemical, bomb, consumable, electricity, splash, thrown 30 ft.)\n__Damage__  2d6 electricity 2 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Tanglefoot Bag +10 (alchemical, bomb, consumable, thrown 30 ft.)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Tanglefoot Bag"
+    desc: "+10 (alchemical, bomb, consumable, thrown 30 ft.)\n__Damage__ "
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Flask +10 (acid, alchemical, bomb, consumable, splash, thrown 30 ft.)\n__Damage__  1 acid 2d6 acid 2 acid"
+  - name: "**Ranged** `pf2:1` Acid Flask"
+    desc: "+10 (acid, alchemical, bomb, consumable, splash, thrown 30 ft.)\n__Damage__  1 acid 2d6 acid 2 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Lyzerium +10 (alchemical, bomb, consumable, fire, splash, thrown 30 ft.)\n__Damage__  2d8 fire 2 fire 2 fire"
+  - name: "**Ranged** `pf2:1` Lyzerium"
+    desc: "+10 (alchemical, bomb, consumable, fire, splash, thrown 30 ft.)\n__Damage__  2d8 fire 2 fire 2 fire"
 
   - name: "Far Lob"
     desc: "  Lyzerius's bombs have a range increment of 30 feet (instead of 20 feet)."

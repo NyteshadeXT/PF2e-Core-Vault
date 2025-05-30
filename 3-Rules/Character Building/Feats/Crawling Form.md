@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** born of animal or born of celestial heritage
 * * *
-You can transform into a small animal or celestial creature to scurry and spy. You can Change Shape to assume a crawling form. While in crawling form, you gain the effect of a 1st-rank [[Pest Form|Pest Form]], except you can transform only into a shape matching your heritage; for example, if you were once were a wolf, you turn into a wolf puppy.
+You can transform into a small animal or celestial creature to scurry and spy. You can Change Shape to assume a crawling form. While in crawling form, you gain the effect of a 1st-rank [[Spells/Pest Form|Pest Form]], except you can transform only into a shape matching your heritage; for example, if you were once were a wolf, you turn into a wolf puppy.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

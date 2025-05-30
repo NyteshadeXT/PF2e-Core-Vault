@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Someone you've wronged gains information they desire about you, with the effects of a critical success at the [[Commune|Commune]] ritual.
+Someone you've wronged gains information they desire about you, with the effects of a critical success at the [[Spells/Commune|Commune]] ritual.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

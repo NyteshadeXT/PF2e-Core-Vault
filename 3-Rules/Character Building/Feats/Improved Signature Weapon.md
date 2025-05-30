@@ -22,5 +22,5 @@ license: ORC
 * * *
 Your signature weapon takes on the properties of mystical materials renowned for defeating undead, spirits, and other such creatures. Your signature weapon is treated as dawnsilver, duskwood, and peachwood for the purposes of overcoming resistance.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

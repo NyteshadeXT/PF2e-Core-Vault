@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +17 ()\n__Damage__  2d10 + 8 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+17 ()\n__Damage__  2d10 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +17 (reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+17 (reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning"
 
   - name: "Bone-Shaking Hum"
     desc: "`pf2:1` (incapacitation,manipulate,sonic) **Frequency** once per minute;\n\n**Effect** The sapphire drake strikes its own crystal hide, causing its body to emit a resonating hum. Each non-dragon creature within a 20-foot burst must attempt a DC 24 Fortitude save. On a failure, the creature is [[Conditions/Slowed|Slowed 1]]; on a critical failure, it is [[Conditions/Slowed|Slowed 2]]"

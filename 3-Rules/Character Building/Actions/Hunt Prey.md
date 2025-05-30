@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
   - trait/ranger
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.JYi4MnsdFu618hPm"
@@ -13,7 +13,7 @@ license: ORC
 ---
 # Hunt Prey `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]][[ranger]]
+### [[concentrate]][[ranger]]
 
 **Category** offensive; 
 

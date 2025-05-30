@@ -50,16 +50,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 10]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "Deepest Fear"
     desc: " (aura,emotion,fear,illusion,mental,visual) 60 feet. A bogeyman's aura of terror manifests as a shifting haze of images that reflect the viewers' deepest fears. Whenever a creature ends its turn within the aura, it must succeed at a DC 28 Will check save or become [[Conditions/Frightened|Frightened 1]]. A creature's frightened condition (including from striking fear) does not reduce as long as the creature remains in the aura. If the creature succeeds at its saving throw, it becomes temporarily immune to the aura for 24 hours."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (agile, finesse, magical)\n__Damage__  2d12 + 9 slashing plus striking-fear"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (agile, finesse, magical, unarmed)\n__Damage__  2d12 + 9 slashing plus striking-fear"
 
   - name: "Occult Innate Spells"
     desc: "DC 27, attack +19; __4th __ (1 slots) _[[Spells/Vapor Form|Gaseous Form]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __ (2 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __ (1 slots) _[[Spells/Knock|Knock (At-Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Message|Message]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"

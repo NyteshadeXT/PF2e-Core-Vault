@@ -6,14 +6,14 @@ tags:
   - trait/concentrate
   - trait/divine
   - trait/extradimensional
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.KMKuJ0onVS72t9Fv"
 license: OGL
 ---
 # Manifest Soulforged Armament `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Divine]][[extradimensional]]
+### [[concentrate]][[divine]][[extradimensional]]
 
 **Category** interaction; 
 

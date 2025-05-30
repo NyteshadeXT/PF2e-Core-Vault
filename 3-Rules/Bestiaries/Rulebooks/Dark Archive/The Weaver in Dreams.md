@@ -59,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Dreams Unraveling"
-    desc: " (aura,emotion,fear,mental,visual) When the Weaver has fewer than 155 Hit Points, his form partially unravels, revealing patches of pure horror acute enough to leave physical wounds. This creates a @Template[emanation|distance:10] that deals 3d6 mental damage and 3d6 slashing damage, with a DC 36 Will check. A creature Averting its Gaze is immune to the aura."
+    desc: " (aura,emotion,fear,mental,visual) When the Weaver has fewer than 155 Hit Points, his form partially unravels, revealing patches of pure horror acute enough to leave physical wounds. This creates a 10-foot emanation that deals 3d6 mental damage and 3d6 slashing damage, with a DC 36 Will check. A creature Averting its Gaze is immune to the aura."
 
   - name: "Nameless Nightmare"
     desc: "  The Weaver has torn off his own name to become a being of fear. He is immune to linguistic effects and any effect that would impose the [[Conditions/Frightened|Frightened]] condition. Without a name, he is difficult for phenomena to affect; the Weaver recovers from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], and [[Conditions/Stunned|Stunned]] conditions at the end of his turn, and his flat check to clear persistent damage is 5. If anyone utters, writes, or otherwise attempts to record his name, that creature automatically takes 10 mental damage and the attempt fails."
@@ -70,11 +70,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +32 (agile, finesse, magical, versatile p)\n__Damage__  5d6 + 14 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+32 (agile, finesse, magical, unarmed, versatile p)\n__Damage__  5d6 + 14 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Astral Silk +32 (disarm, finesse, magical, reach 20 feet, sweep)\n__Damage__  5d4 + 14 slashing plus separate-astral-body 3d6 mental plus separate-astral-body"
+  - name: "**Melee** `pf2:1` Astral Silk"
+    desc: "+32 (disarm, finesse, magical, reach 20 feet, sweep)\n__Damage__  5d4 + 14 slashing plus separate-astral-body 3d6 mental plus separate-astral-body"
 
   - name: "Separate Astral Body"
     desc: "`pf2:1`  The Weaver buries a silk thread in the target's psyche and tugs, wrenching the target's astral form out of their body. Unless the target succeeds at a DC 36 Will check save, their astral form is pulled out, causing a ghostly image of them to appear in an adjacent space of the Weaver's choosing. An astral body is immune to physical damage but affected normally by mental effects, force effects, and effects that directly target the spirit. The target remains connected to their physical body by a silver cord, which is always visible and possibly foils attempts to Hide. Separation from one's astral body takes a toll on the psyche, imposing a -1 status penalty to Will saves and dealing 1d6 persistent mental damage for as long as the body is separated; this increases to 3d6 if the target is ever more than 30 feet from its astral body. The target can use a single action, which has the concentrate trait, to move their astral body an amount equal to their Speed. When the target stops taking persistent mental damage from this ability, the astral body snaps back to the physical body, ending the effect. If a target is carrying silver, then the first time this ability is used on them, the ability fails and any silver they're carrying larger than a coin tarnishes-while this doesn't outright destroy items like weapons or thaumaturge implements, it does prevent them from protecting against this ability more than once."

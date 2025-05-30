@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Glutton For Flesh"
+title: "Glutton for Flesh"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/archetype
@@ -9,7 +9,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.5GC2iGtVp3UAH2nm"
 license: OGL
 ---
-# Glutton For Flesh
+# Glutton for Flesh
 ## Feat 10
 ### [[archetype]]
 

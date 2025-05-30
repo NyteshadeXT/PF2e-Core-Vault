@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Solar Blade +17 (agile, finesse, magical, versatile p)\n__Damage__  2d8 + 4 slashing 1d6 fire"
+  - name: "**Melee** `pf2:1` Solar Blade"
+    desc: "+17 (agile, finesse, magical, versatile p)\n__Damage__  2d8 + 4 slashing 1d6 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Solar Ray +17 (magical, range increment 60 feet)\n__Damage__  2d12 + 2 fire"
+  - name: "**Ranged** `pf2:1` Solar Ray"
+    desc: "+17 (magical, range increment 60 feet)\n__Damage__  2d12 + 2 fire"
 
   - name: "Primal Innate Spells"
     desc: "DC 24, attack +14; __3rd __ (2 slots) _[[Spells/Animal Vision|Animal Vision]]_, _[[Spells/Curse of Lost Time|Curse of Lost Time]]_; __2nd __ (2 slots) _[[Spells/Animal Messenger|Animal Messenger]]_, _[[Spells/Faerie Fire|Faerie Fire]]_; __1st __ (2 slots) _[[Spells/Alarm|Alarm]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_\n__Cantrips__  __(3rd)__ _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Light|Light]]_"

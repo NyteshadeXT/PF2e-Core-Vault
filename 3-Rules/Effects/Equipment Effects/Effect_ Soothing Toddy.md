@@ -16,13 +16,9 @@ license: OGL
 
 
 
-Granted by [[Soothing Toddy|Soothing Toddy]]
+Granted by [[Equipment/Soothing Toddy|Soothing Toddy]]
 
-A soothing toddy grants you a +1 item bonus to saving throws against emotion effects and against effects with a trait determined by the liquor mixed into the tea when it's created.
-
-*   **Amaretto** Auditory
-*   **Limoncello** Olfactory
-*   **Whiskey** Visual
+You gain a +1 item bonus to saving throws against emotion effects and against effects with a trait determined by the liquor mixed into the tea when it's created. Amaretto for Auditory, Limoncello for Olfactory, or Whiskey for Visual.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

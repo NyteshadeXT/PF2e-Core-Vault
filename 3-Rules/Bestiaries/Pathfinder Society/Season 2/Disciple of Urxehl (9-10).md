@@ -61,11 +61,14 @@ abilities_mid:
   - name: "Urxehl's Grace"
     desc: "`pf2:r`  **Trigger** Urxehl's firestorm targets a creature\n* * *\n\n**Effect** The Disciple of Urxehl redirects the firestorm, causing it to target a different creature of the Disciple's choice."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vile Touch +17 (finesse, reach 10 feet)\n__Damage__  2d10 + 11 void"
+  - name: "**Melee** `pf2:1` Vile Touch"
+    desc: "+17 (finesse, reach 10 feet)\n__Damage__  2d10 + 11 void"
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 29, attack +21; __5th __ (4 slots) _[[Spells/Abyssal Plague|Abyssal Plague]]_, _[[Spells/Flame Strike|Flame Strike]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Wall of Flesh|Wall of Flesh]]_; __4th __ (4 slots) _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Enervation|Enervation]]_, _[[Spells/Silence|Silence]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __3rd __ (4 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Slow|Slow]]_; __2nd __ (4 slots) _[[Spells/Darkness|Darkness]]_, _[[Spells/Enlarge|Enlarge]]_, _[[Spells/See the Unseen|See Invisibility]]_\n__Cantrips__  __(5th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

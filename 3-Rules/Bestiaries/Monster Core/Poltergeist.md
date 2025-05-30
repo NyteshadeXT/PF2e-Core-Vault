@@ -70,11 +70,14 @@ abilities_mid:
   - name: "Telekinetic Defense"
     desc: "`pf2:r`  **Trigger** A creature approaches within 10 feet of the poltergeist\n* * *\n\n**Effect** The poltergeist makes a telekinetic object Strike against the triggering creature."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Telekinetic Object +13 (magical, occult, range increment 60 feet)\n__Damage__  2d12 untyped"
+  - name: "**Ranged** `pf2:1` Telekinetic Object"
+    desc: "+13 (magical, occult, range increment 60 feet)\n__Damage__  2d12 untyped"
 
   - name: "Occult Innate Spells"
     desc: "DC 23, attack +13; __3rd __  _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver (At Will)]]_\n__Cantrips__  __(3rd)__ _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"

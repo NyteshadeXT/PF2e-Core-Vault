@@ -65,20 +65,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile, finesse, unholy)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, finesse, unarmed, unholy)\n__Damage__ "
 
-  - name: "Melee"
-    desc: "`pf2:1` Songblade +20 (agile, deadly d10, finesse, magical, trip, unholy)\n__Damage__  2d10 + 8 slashing"
+  - name: "**Melee** `pf2:1` Songblade"
+    desc: "+20 (agile, deadly d10, finesse, magical, trip, unholy)\n__Damage__  2d10 + 8 slashing"
 
   - name: "Innate Occult Spells"
     desc: "DC 23, attack +15; __4th __  _[[Spells/Translocate|Dimension Door]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Silence|Silence]]_; __1st __  _[[Spells/Sure Strike|True Strike (x3)]]_"
 
   - name: "Dreadsong"
-    desc: "`pf2:2` (auditory,concentrate,fear,illusion,mental) The dreadsong dancer whirls their howling songblades and cloaks themself in illusion magic. Each non-fiend creature in a @Template[emanation|distance:30] from the dreadsong dancer must attempt a DC 29 Will check save.\n* * *\n\n**Critical Success** No effect, and the creature is temporarily immune for 24 hours. The dreadsong dancer is affected by their performance anxiety.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]], and the dreadsong dancer is [[Conditions/Undetected|Undetected]] by the creature for 1 minute. The creature can't use Seek to find the dreadsong dancer.\n\n**Critical Failure** As failure, but the creature can't reduce its frightened condition below 2 for 1 minute. In addition, the dreadsong dancer is affected by its performance anxiety."
+    desc: "`pf2:2` (auditory,concentrate,fear,illusion,mental) The dreadsong dancer whirls their howling songblades and cloaks themself in illusion magic. Each non-fiend creature in a 30-foot emanation from the dreadsong dancer must attempt a DC 29 Will check save.\n* * *\n\n**Critical Success** No effect, and the creature is temporarily immune for 24 hours. The dreadsong dancer is affected by their performance anxiety.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]], and the dreadsong dancer is [[Conditions/Undetected|Undetected]] by the creature for 1 minute. The creature can't use Seek to find the dreadsong dancer.\n\n**Critical Failure** As failure, but the creature can't reduce its frightened condition below 2 for 1 minute. In addition, the dreadsong dancer is affected by its performance anxiety."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Songblade\n\n* * *\n"
+    desc: "`pf2:1`  Songblade\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
  
 ```
 

@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +19 (forceful, sweep)\n__Damage__  2d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+19 (forceful, sweep)\n__Damage__  2d6 + 10 slashing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 28, attack +20; __3rd __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __ (4 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __ (4 slots) _[[Spells/Bless|Bless]]_, _[[Spells/Force Barrage|Force Barrage]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
@@ -68,7 +68,7 @@ attacks:
     desc: "DC 28, attack +20; __4th __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Suggestion|Suggestion (x3)]]_; __3rd __  _[[Spells/Sleep|Sleep]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_, _[[Spells/Illusory Object|Illusory Object (At Will)]]_; __1st __  _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The lamia matriarch can take on the appearance of a Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it does prevent them from using their cursed touch. Each lamia matriarch has a fixed humanoid form that resembles their upper torso when in their true form. This is the only humanoid form they can adopt using this ability.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The lamia matriarch can take on the appearance of a Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes, but it does prevent them from using their cursed touch. Each lamia matriarch has a fixed humanoid form that resembles their upper torso when in their true form. This is the only humanoid form they can adopt using this ability.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Matriarch's Caress"
     desc: "`pf2:2` (curse,mental,occult) The lamia matriarch touches a creature, who must succeed at a DC 28 Will check save or become [[Conditions/Stupefied|Stupefied 2]] ([[Conditions/Stupefied|Stupefied 4]] on a critical failure). If the target fails additional saves against this ability, the condition value increases by 1 (increases by 2 on a critical failure, to a maximum of [[Conditions/Stupefied|Stupefied 4]]). This condition value decreases by 1 every 24 hours."

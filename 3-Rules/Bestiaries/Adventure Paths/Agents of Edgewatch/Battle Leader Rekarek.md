@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatpick +12 (fatal d12)\n__Damage__  1d10 + 3 piercing"
+  - name: "**Melee** `pf2:1` Greatpick"
+    desc: "+12 (fatal d12)\n__Damage__  1d10 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Longspear +9 (reach)\n__Damage__  1d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Longspear"
+    desc: "+9 (reach)\n__Damage__  1d8 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +10 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 1 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+10 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 1 bludgeoning"
 
   - name: "Haphazard Hack"
     desc: "`pf2:2`  **Requirements** Rekarek is adjacent to two or more enemies\n* * *\n\n**Effect** Rekarek makes three melee weapon Strikes, two of which must be against different enemies.\n\nThese attacks count toward her multiple attack penalty, but only after all three Strikes have been made.\n\nAfter taking this activity, Rekarek is [[Conditions/Off-Guard|Off-Guard]] until the beginning of her next turn."

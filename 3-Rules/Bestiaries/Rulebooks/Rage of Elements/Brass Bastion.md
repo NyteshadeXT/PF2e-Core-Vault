@@ -57,19 +57,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Molten Demise"
-    desc: " (arcane,fire) When a brass bastion is destroyed, its body explodes in a flurry of elemental flame and superheated brass, dealing 4d6 piercing damage and 4d6 fire damage to creatures in a @Template[emanation|distance:20] (DC 34 Reflex check save)."
+    desc: " (arcane,fire) When a brass bastion is destroyed, its body explodes in a flurry of elemental flame and superheated brass, dealing 4d6 piercing damage and 4d6 fire damage to creatures in a 20-foot emanation (DC 34 Reflex check save)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Falchion +28 (forceful, magical, reach 15 feet, sweep)\n__Damage__  2d10 + 12 slashing"
+  - name: "**Melee** `pf2:1` Falchion"
+    desc: "+28 (forceful, magical, reach 15 feet, sweep)\n__Damage__  2d10 + 12 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +26 (agile, magical, reach 15 feet)\n__Damage__  2d6 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+26 (agile, magical, reach 15 feet, unarmed)\n__Damage__  2d6 + 12 bludgeoning"
 
   - name: "Breathe Smoke"
-    desc: "`pf2:2` (arcane,fire) The brass bastion exhales superheated smoke and cinders in a @Template[burst|distance:10] centered on a corner of its space. The smoke persists for 1 round. Any creature in the area (or that later enters the area) takes 15d6 fire damage (DC 34 Reflex check save); on a critical failure, the creature catches fire, taking 2d6 persistent fire damage as well. All creatures in the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within it. The brass bastion can't Breathe Smoke again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) The brass bastion exhales superheated smoke and cinders in a 10-foot burst centered on a corner of its space. The smoke persists for 1 round. Any creature in the area (or that later enters the area) takes 15d6 fire damage (DC 34 Reflex check save); on a critical failure, the creature catches fire, taking 2d6 persistent fire damage as well. All creatures in the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within it. The brass bastion can't Breathe Smoke again for 1d4 rounds."
 
   - name: "Heat Weapon"
     desc: "  Metal weapons wielded by a brass bastion superheat, dealing 1d10 additional fire damage (included in its statistics)."

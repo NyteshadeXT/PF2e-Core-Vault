@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +9 ()\n__Damage__  1d8 + 3 bludgeoning plus monstrous-yeast"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+9 (unarmed)\n__Damage__  1d8 + 3 bludgeoning plus monstrous-yeast"
 
   - name: "Monstrous Yeast"
     desc: " (contact,disease) Whenever a creature infected with monstrous yeast takes cold damage, they can make a new saving throw with a +2 circumstance bonus. Failure doesn't advance the disease\n\n**Saving Throw** DC 16 Fortitude check\n\n**Onset** 1 round\n\n**Stage 1** [[Conditions/Off-Guard|Off-Guard]] (1 hour)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] and off-guard (1 hour)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 2]] and off-guard (1 day)"

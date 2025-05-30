@@ -52,6 +52,9 @@ abilities_top:
   - name: "Corpse Disguise"
     desc: " (exploration) The graveshell conceals its true nature over the course of a few minutes by impaling a corpse (typically humanoid) on its spiky shell before partially submerging itself in water. It has an automatic result of 22 on Deception checks and DCs to pass as a corpse floating in the water."
 
+  - name: "[[Bestiary Ability Glossary/Wavesense|Wavesense (Imprecise) 30 feet]]"
+    desc: "  This sense allows a monster to feel vibrations caused by movement through a liquid. It's an imprecise sense with a limited range (listed in the ability). Wavesense functions only if monster and the subject are in the same body of liquid, and only if the subject is moving through the liquid."
+
 abilities_mid:
   - name: ""
   - name: "Shell Block"
@@ -60,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 ()\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (unarmed)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +8 (agile)\n__Damage__  1d4 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+8 (agile, unarmed)\n__Damage__  1d4 + 3 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shell Spikes +8 ()\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Shell Spikes"
+    desc: "+8 ()\n__Damage__  1d4 + 3 piercing"
 
   - name: "Deep Breath"
     desc: "  The graveshell can hold its breath for 200 rounds (20 minutes)."

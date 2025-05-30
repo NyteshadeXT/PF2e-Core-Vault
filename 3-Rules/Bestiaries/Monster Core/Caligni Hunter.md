@@ -53,16 +53,25 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "2x [[Equipment/Shortsword|Shortsword]], [[Equipment/Leather Armor|Leather Armor]], 6x [[Equipment/Darkening Poison|Darkening Poison]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/At-Will Spells|At-Will Spells]]"
+    desc: "  The monster can cast its at-will spells any number of times without using up spell slots."
+
 abilities_mid:
   - name: ""
   - name: "Final Fate"
-    desc: " (occult,spirit) When the hunter dies, their soul leaves their body in an explosion of spiritual energy. All creatures in a @Template[burst|distance:20] take 5d6 spirit damage (DC 19 Will check save).\n\nThe hunter's possessions are left in a pile where they died."
+    desc: " (occult,spirit) When the hunter dies, their soul leaves their body in an explosion of spiritual energy. All creatures in a 20-foot burst take 5d6 spirit damage (DC 19 Will check save).\n\nThe hunter's possessions are left in a pile where they died."
+
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +13 (agile, finesse, versatile s)\n__Damage__  1d6 + 7 piercing plus darkening-poison"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+13 (agile, finesse, versatile s)\n__Damage__  1d6 + 7 piercing plus darkening-poison"
 
   - name: "Occult Innate Spells"
     desc: "DC 19, attack +11; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/See the Unseen|See the Unseen (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Figment|Figment]]_"

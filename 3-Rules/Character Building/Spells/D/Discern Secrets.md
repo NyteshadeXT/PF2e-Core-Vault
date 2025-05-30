@@ -35,6 +35,6 @@ abilities_top:
     desc: "1 minute"
 abilities_mid:
   - name: ""
-    desc: "Your patron degins to whisper a few secrets. The target can [[Actions/Recall Knowledge|Recall Knowledge]], [[Actions/Seek|Seek]], or [[Actions/Sense Motive|Sense Motive]] as a free action. The target gains a +1 status bonus to the statistic used for the roll (a skill or Perception), as long as you Sustain the spell. The target is temporarily immune to _discern secrets_ for 1 minute.\n* * *\n\n**Heightened (5th)** You can target two creatures instead of one.\n\n[[Spell Effects/Spell Effect_ Discern Secrets|Spell Effect: Discern Secrets]]"
+    desc: "Your patron deigns to whisper a few secrets. The target can [[Actions/Recall Knowledge|Recall Knowledge]], [[Actions/Seek|Seek]], or [[Actions/Sense Motive|Sense Motive]] as a free action. The target gains a +1 status bonus to the statistic used for the roll (a skill or Perception), as long as you Sustain the spell. The target is temporarily immune to _discern secrets_ for 1 minute.\n* * *\n\n**Heightened (5th)** You can target two creatures instead of one.\n\n[[Spell Effects/Spell Effect_ Discern Secrets|Spell Effect: Discern Secrets]]"
 sourcebook: "_Pathfinder Player Core_"
 ```

@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +10 (agile, nonlethal)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+10 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword +10 (two-hand d12)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Bastard Sword"
+    desc: "+10 (two-hand d12)\n__Damage__  1d8 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Bushwhack"
     desc: "`pf2:1`  Glorzia Strides up to 10 feet and attempts to [[Actions/Grapple|Grapple]] a creature she's undetected by. If she succeeds, she also deals fist damage to that creature."

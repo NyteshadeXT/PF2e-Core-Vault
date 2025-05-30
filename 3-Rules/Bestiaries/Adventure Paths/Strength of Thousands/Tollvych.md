@@ -65,11 +65,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) If the heroes destroy Dwandek (even if only temporarily, before destroying his _soul cage_ as well), the cathedral's hold over Tollvych's soul loosens; the next time the heroes enter this room (or 24 hours later), his ghost rises one last time from his remains with a sigh, and then moves into the afterlife.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +28 (agile, finesse, magical)\n__Damage__  3d12 + 10 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+28 (agile, finesse, magical)\n__Damage__  3d12 + 10 void"
 
   - name: "Arcane Innate Spells"
     desc: "DC 36, attack +28; __8th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __7th __  _[[Spells/Duplicate Foe|Duplicate Foe]]_; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Disintegrate|Disintegrate]]_; __5th __  _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Hallucination|Hallucination]]_; __4th __  _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Veil of Privacy|Nondetection]]_; __2nd __  _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver (x2)]]_; __1st __  _[[Spells/Enfeeble|Ray of Enfeeblement (x3)]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"

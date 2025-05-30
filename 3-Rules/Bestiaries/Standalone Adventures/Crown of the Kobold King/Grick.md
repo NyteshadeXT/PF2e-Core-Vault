@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d12 + 6 slashing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d12 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +11 (agile)\n__Damage__  1d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+11 (agile, unarmed)\n__Damage__  1d8 + 6 bludgeoning"
 
   - name: "Gripping Tentacle"
     desc: "`pf2:r`  **Trigger** A creature in the grick's reach uses a move action or leaves a square during a move action it's using\n\n**Effect** The grick makes a tentacle Strike against the target. If the attack is a critical hit and the trigger was a move action, the grick disrupts that action."

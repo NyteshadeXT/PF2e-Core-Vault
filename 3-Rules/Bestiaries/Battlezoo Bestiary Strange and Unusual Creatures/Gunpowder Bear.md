@@ -39,7 +39,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Crafting: +7, Deception: +3, Stealth: +7, Thievery: +7, Crafting: +7, Deception: +3, Stealth: +7, Thievery: +7"
+    desc: "Crafting: +7, Deception: +3, Stealth: +7, Thievery: +7"
 abilityMods: [1, 4, 1, 3, 1, 0]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (finesse, reach 0 feet)\n__Damage__  1d8 + 1 piercing plus latch"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (finesse, reach 0 feet)\n__Damage__  1d8 + 1 piercing plus latch"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile, finesse, reach 0 feet)\n__Damage__  1d6 + 1 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, finesse, reach 0 feet)\n__Damage__  1d6 + 1 slashing"
 
   - name: "Latch"
     desc: "`pf2:1`  **Requirements** The gunpowder bear's last action was to hit a target larger than itself with its jaws\n* * *\n\n**Effect** The gunpowder bear's teeth latch onto the creature it bit. This is similar to [[Bestiary Ability Glossary/Grab|Grabbing]] the creature, but the gunpowder bear moves with that creature rather than holding it in place. The gunpowder bear is [[undefined]] while latched onto a creature. A creature a gunpowder bear has latched to takes a –1 circumstance penalty on their save against its Pull The Cord."

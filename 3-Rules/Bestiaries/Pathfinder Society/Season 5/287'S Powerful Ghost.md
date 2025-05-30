@@ -62,11 +62,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) When destroyed, 287's ghost re-forms after 2d4 days in her room at the Tsevel Center, fully healed. She can be only be permanently destroyed if her name is returned to her while conscious, or if the journal bearing her number is destroyed and its ashes are removed from the Tsevel Center."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +23 (agile, finesse, magical)\n__Damage__  2d8 + 14 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+23 (agile, finesse, magical)\n__Damage__  2d8 + 14 void"
 
   - name: "Arcane Innate Spells"
     desc: "DC 25, attack +21; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Dispel Magic|Dispel Magic]]_; __2nd __  _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Enfeeble|Enfeeble]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
@@ -81,7 +84,7 @@ attacks:
     desc: "  In each 24-hour period, 287's ghost must use Feed on the Living to consume 30 HP (any HP the ghost would gain count toward this total, even if the ghost has enough HP that they don't actually regain the full amount). If the ghost hasn't consumed enough HP, they mindlessly and recklessly feed on any living creature they come across until satiated."
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Telekinetic Assault|Telekinetic Assault]]"
-    desc: "`pf2:2` (divine) The ghost cries out in pain and anguish as small objects and debris fly about in a @Template[emanation|distance:30]. Creatures in this area take 6d6 bludgeoning damage, subject to a basic DC 30 Reflex check save."
+    desc: "`pf2:2` (divine) The ghost cries out in pain and anguish as small objects and debris fly about in a 30-foot emanation. Creatures in this area take 6d6 bludgeoning damage, subject to a basic DC 30 Reflex check save."
  
 ```
 

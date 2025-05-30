@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +10 (forceful, sweep)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+10 (forceful, sweep)\n__Damage__  1d6 + 2 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +8 (finesse)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+8 (finesse, unarmed)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Storm Smite"
-    desc: "`pf2:r` (divine,electricity) **Trigger** The storm warrior-priest critically hits with a scimitar Strike\n* * *\n\n**Effect** The storm warrior-priest releases a blast of lighting in a @Template[burst|distance:10] centered on the target. A creature in the area other than the storm warrior-priest takes 2d6 electricity damage (DC 15 Reflex check save). On a critical failure, such a creature is also [[Conditions/Deafened|Deafened]] for 1 round."
+    desc: "`pf2:r` (divine,electricity) **Trigger** The storm warrior-priest critically hits with a scimitar Strike\n* * *\n\n**Effect** The storm warrior-priest releases a blast of lighting in a 10-foot burst centered on the target. A creature in the area other than the storm warrior-priest takes 2d6 electricity damage (DC 15 Reflex check save). On a critical failure, such a creature is also [[Conditions/Deafened|Deafened]] for 1 round."
  
 ```
 

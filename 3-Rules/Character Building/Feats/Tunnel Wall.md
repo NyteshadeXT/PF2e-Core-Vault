@@ -25,5 +25,5 @@ license: OGL
 
 Using your shield, you guard against the movement of foes as surely as if you were a wall of stone. You [[Actions/Raise a Shield|Raise a Shield]] and become anchored for 1 round. While anchored, you gain a +4 circumstance bonus to the DC to [[Actions/Tumble Through|Tumble Through]] your space.
 
-*Source: Pathfinder Lost Omens: Highhelm*
+*Source: Pathfinder Lost Omens Highhelm*
 *OGL*

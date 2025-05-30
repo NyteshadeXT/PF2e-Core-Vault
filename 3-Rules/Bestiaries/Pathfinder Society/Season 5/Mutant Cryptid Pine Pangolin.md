@@ -58,20 +58,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile)\n__Damage__  2d12 + 4 piercing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, unarmed)\n__Damage__  2d12 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +18 ()\n__Damage__  2d8 + 4 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+18 ()\n__Damage__  2d8 + 4 bludgeoning plus grab"
 
   - name: "[[Creature Family Ability Glossary/(Cryptid, Mutant) Explosive End|Explosive End]]"
-    desc: "  The mutant pangolin's death reveals one last surprise as it explodes into splinters. When it dies, it explodes, dealing 4d6 piercing damage to each creature in a @Template[emanation|distance:10], with a basic DC 26 Reflex check save."
+    desc: "  The mutant pangolin's death reveals one last surprise as it explodes into splinters. When it dies, it explodes, dealing 4d6 piercing damage to each creature in a 10-foot emanation, with a basic DC 26 Reflex check save."
 
   - name: "Roll Up"
     desc: "`pf2:1` (move) The mutant pine pangolin falls [[Conditions/Prone|Prone]], closes up its scales, and rolls into a ball. While Rolled Up, the pangolin gains resistance 10 to physical damage and total immunity to falling damage from heights of 50 feet or less. The only action the pine pangolin can take is to Stand, and the effects of Roll Up end once the pangolin Stands."
 
   - name: "Secrete Tar"
-    desc: "`pf2:1` (plant) The mutant pine pangolin secretes a brown, sticky tar within a @Template[emanation|distance:5], making those squares difficult terrain for 1 minute. Each creature that enters or starts its turn in a tarred square must succeed at a DC 26 Fortitude check save or become [[Conditions/Immobilized|Immobilized]] until it Escapes. On a critical failure, the creature falls [[Conditions/Prone|Prone]]; prone creatures take a –2 circumstance penalty to their checks to [[Actions/Escape|Escape]] the tar. The pine pangolin is immune to the effects of its own tar."
+    desc: "`pf2:1` (plant) The mutant pine pangolin secretes a brown, sticky tar within a 5-foot emanation, making those squares difficult terrain for 1 minute. Each creature that enters or starts its turn in a tarred square must succeed at a DC 26 Fortitude check save or become [[Conditions/Immobilized|Immobilized]] until it Escapes. On a critical failure, the creature falls [[Conditions/Prone|Prone]]; prone creatures take a –2 circumstance penalty to their checks to [[Actions/Escape|Escape]] the tar. The pine pangolin is immune to the effects of its own tar."
 
   - name: "[[Creature Family Ability Glossary/(Cryptid, Mutant) Shifting Iridescence|Shifting Iridescence]]"
     desc: " (magical) Whenever the mutant pine pangolin takes energy damage to which it isn't resistant or immune, after taking the damage normally, it gains resistance 5 to that damage type. If it had a resistance to a different damage type from shifting iridescence, it replaces the old resistance with the new resistance."
@@ -80,7 +80,7 @@ attacks:
     desc: "  This mutant pine pangolin is traumatized by the former Conference Z staff who teamed up to hold it down while experimenting on it. The first time each round the mutant pine pangolin comes within 15 feet of any character who took the Aid action, or is attacked while being flanked by two characters, it takes 8 mental damage and must attempt a DC 26 Will check save. On a failure, it is [[Conditions/Stunned|Stunned 1]] ([[Conditions/Stunned|Stunned 3]] on a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

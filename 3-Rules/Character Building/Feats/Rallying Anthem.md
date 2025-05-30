@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You learn the [[3-Rules/Character Building/Spells/R/Rallying Anthem|Rallying Anthem]] composition cantrip, which protects you and allies.
+You learn the [[Spells/Rallying Anthem|Rallying Anthem]] composition cantrip, which protects you and allies.
 
 *Source: Pathfinder Player Core*
 *ORC*

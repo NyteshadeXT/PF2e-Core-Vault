@@ -1,7 +1,10 @@
 ---
 tags:
   - "#Adventure"
-art: zz-Attachments/PlaceholderImage.png
+art: zz-Attachments/blackwall keep.png
+whichparty: "[[Age of Worms Party Dashboard]]"
+adventure_status: Not Started
+adventure_level: "7"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -25,6 +28,7 @@ art: zz-Attachments/PlaceholderImage.png
 >> **Quick Notes** |  `INPUT[textArea:quicknote]`
 >> **Which Party** | `INPUT[Null][suggester(optionQuery(#Party AND !"z_Templates"), useLinks(partial)):whichparty]` |
 >> **Adventure Status** | `INPUT[Status][:adventure_status]` |
+>> **Adventure Level**|`INPUT[textArea:adventure_level]`|
 
 > [!infobox]
 > `VIEW[!\[\[{art}\]\]][text(renderMarkdown)]`
@@ -45,8 +49,6 @@ The PCs arrive at Blackwall Keep to find over two dozen lizardfolk assaulting it
 The trek to the lizardfolk lair takes more than a day, but the numerous lizardfolk leave a relatively easy trail even through the swamp. The lair is large and partly submerged, and the lizardfolk defend it vigorously. The PCs learn of a schism within the lizardfolk tribe, and of the alliance between the lizard king and the black dragon Ilthane; and by defeating the corrupt king and rescuing the tribe's eggs from a terrible fate the PCs can secure the cooperation of the Mistmarsh tribes and rescue the prisoners. 
 
 Returning to the keep with the freed soldiers, the PGs find the survivors at the keep are terrified of a creature in the basement that has been snatching them one by one. The PCs must defeat this final enemy before its undead corruption spreads. 
-
-![[Blackwall Keep.png|left 500]]
 
 ## Adventure Hooks
 This adventure starts with Allustan contacting the PCs. He tells them that he has completed his study of the artifacts they found in the Whispering Cairn. He believes the glyphs on the objects are an ancient dialect of Sussuran known as Auran, the language of elemental air. 
@@ -186,7 +188,7 @@ If the PCs are considering waiting out the siege, remind them of the kidnapped p
 
 If the PCs get inside the keep and can help defend it, the lizardfolk continue to make their intermittent attacks until either their numbers drop below the threshold of courage (20, or 10 if Kushak is present), they succeed in taking over the keep, or reinforcements arrive from Diamond Lake; normally this means about five attacks at most while the PCs are present (consisting of 5-7 encounters for the PCs with perhaps some extra difficulty at times because of two groups fighting the PCs at once). If the lizardfolk flee or retreat, they enter the Mistmarsh at the closest point and march back to their lair (later encounters at the lair include any surviving lizardfolk from the keep attack). 
 
-Once PCs enter the keep and things settle down the defenders explain about the kidnapped soldiers if they haven't had a chance to do so already, When the reptiles broke open the door in the first attack, they knocked out and dragged away three soldiers and their battle mage, [[Marzena]] (the PCs should recognize this name, as [[Allustan]] told them his friend’s name when he asked them to escort him here). The soldiers сап" leave the keep to go find them, even after the siege is over, so they ask the PCs to bring back their friends before they become lizard food. The soldiers don't have any information about where they might be, as there are several lizardfolk tribes and they can't tell them apart, but when last spotted the kidnappers were headed due south into the grassy area surrounding the Mistmarsh, so that's a start at least. 
+Once PCs enter the keep and things settle down the defenders explain about the kidnapped soldiers if they haven't had a chance to do so already, When the reptiles broke open the door in the first attack, they knocked out and dragged away three soldiers and their battle mage, [[5-World/NPCs/Marzena]] (the PCs should recognize this name, as [[Allustan]] told them his friend’s name when he asked them to escort him here). The soldiers сап" leave the keep to go find them, even after the siege is over, so they ask the PCs to bring back their friends before they become lizard food. The soldiers don't have any information about where they might be, as there are several lizardfolk tribes and they can't tell them apart, but when last spotted the kidnappers were headed due south into the grassy area surrounding the Mistmarsh, so that's a start at least. 
 
 If the PCs enter the basement they may discover areas A and B and the spawn of Kyuss waiting there (the major encounter in Part Three: Terror Below). If the PCs encounter the creature before they enter the Mistmarsh, it may escape or overpower them and attack the other soldiers; the combination of foes from within and without convince them to flee their posts and scatter into the hills, hoping that the lizardfolk won't catch all of them (and death at their hands is certainly better than being turned into an undead thing by the spawn). То keep this from happening (and to preserve Part Three of this adventure), subtly discourage the PCs from entering the basement; launch another lizardfolk attack when they try to explore, have the soldiers press them to rescue their kidnapped comrades as soon as possible for fear of being sacrificed, and so on.
 
@@ -325,7 +327,7 @@ Two years ago the soldiers were working on an escape tunnel here. When their res
 - [ ] Low (60 XP) Level 6
 
 ```encounter
-name: EncounterName
+name: Spawn Room
 party: Age of Worms
 creatures:
   - 1: [[Spawn of Kyuss]]
@@ -547,70 +549,235 @@ A DC 22 [[Skills#Medicine|Medicine]] check reveals the infestation for what it i
 > [!note]+ Read Aloud
 > Four thick bundles of roots divide this room into two smaller areas. One large sleeping pallet covers much of the floor in the northern part and a half-eaten carcass of a man-sized snake lies in the southern part. 
 
-Creatures: A large lizardfolk wearing 
-armor made of spider-carapace and a 
-normal-sized lizardfolk dwell here. The 
-bigger one has a black tinge to the scales 
-around his mouth. The larger armored 
-lizardfolk is Kotabas, the lieutenant of 
-the lizard king (area 9) and is utterly 
-loyal to him. Like the king, he drank 
-the alchemical dragon elixir provided 
-by Шћапе and has unusual abilities 
-because of it. The normal lizardfolk 
-is the lieutenant’s mate and is loyal to 
-him (while he lives, she will not leave 
-his side); she uses flanking and the aid 
-another action to augment him in com- 
-bat. The lieutenant is a brute and enjoys 
-bullying other creatures; if there are 
-any Small PCs he preferentially attacks 
-them, though he doesn't ignore larger 
-threats just to pursue his cruelty. 
+**Encounter Difficulty:**   
+- [ ] low (75 XP) Level 6
 
-Two human soldiers captured from the 
-keep are here, bound and unconscious. 
-If the battle goes poorly for the lieuten- 
-ant and his mate, they may threaten to 
-harm the captives to convince the PCs 
-to back off or offer the captive to the PCs 
-in exchange for allowing the lizardfolk to 
-retreat. The lieutenant is cruel enough 
-that he may attack a captive just to taunt 
-the PCs into action. 
+```encounter
+name: Lieutenant and Prisoners
+party: Age of Worms
+creatures:
+  - 1: [[Lizardfolk Warrior]]
+  - 1: [[Kotabas]]
+```
+
+A large lizardfolk wearing armor made of spider-carapace and a normal-sized lizardfolk dwell here. The bigger one has a black tinge to the scales around his mouth. The larger armored lizardfolk is Kotabas, the lieutenant of the lizard king (area 9) and is utterly loyal to him. ike the king, he drank the alchemical dragon elixir provided by Шћапе and has unusual abilities because of it. The normal lizardfolk is the lieutenant’s mate and is loyal to him (while he lives, she will not leave his side); she uses flanking and the aid another action to augment him in combat. The lieutenant is a brute and enjoys bullying other creatures; if there are any Small PCs he preferentially attacks them, though he doesn't ignore larger threats just to pursue his cruelty. 
+
+Two human soldiers captured from the keep are here, bound and unconscious. If the battle goes poorly for the lieutenant and his mate, they may threaten to harm the captives to convince the PCs to back off or offer the captive to the PCs in exchange for allowing the lizardfolk to retreat. The lieutenant is cruel enough that he may attack a captive just to taunt the PCs into action. 
+
+## Area 8: Shaman and Prisoners
+> [!note]+ Read Aloud
+> This room is different from the others in the lair. Decorations made of wood and clay beads hang from the walls, with egg symbols the most common element. A small pit of stone and clay holds the remnants of a fire, and several open pots of herbs stand near the fire pit. A роо! of water surrounds a cluster of tree trunks in the center of the room. 
+
+**Encounter Difficulty:**   
+- [ ] low (75 XP) Level 6
+
+```encounter
+name: Shaman and Prisoners
+party: Age of Worms
+creatures:
+  - 1: [[Giant Viper]]
+  - 1: [[Hishka]]
+```
+
+> [!aside|no-icon]
+> #### Slow Worms
+> While the spawn of Kyuss carry green worms that rapidly convert other creatures into spawn, the obvious zombie-like nature of the spawn makes it hard for them to reach large population areas because they're easily spotted. Additionally, these worms cannot penetrate the hides of creatures with high natural armor. However, there is a different kind of worm—the “slow worm'"—that works more slowly and subtly, taking days or even weeks to convert its host and revealing its presence only at the last minute.  <br><br>Infection happens when a host creature swallows a slow worm. The worm begins to multiply within the host's body, slowly taking over healthy flesh. An Infected host must succeed аt а DC 15 Fortitude saving throw every day or lose 1d4 points of Constitution. When the creature’s Constitution reaches о, it dies and rises as a spawn of Kyuss 1d6+4 rounds later. Until the host becomes a spawn, its worms Cannot survive exposure to air; if the host dies from some other cause before the worms kill it, the worms crawl out of the dead host one round later and expire. <br><br>Slow worms can enter ап indefinite hibernation state if kept in liquid, awakening when they enter warm flesh, Worshipers of Kyuss are known to hide the worms in potions, wine bottles, and beer barrels, hoping to infect large numbers of victims with the worms and causing a horrible outbreak of spawn when the hosts succumb to the infection. If the worm is in a dark or opaque liquid or container, a creature drinking it must succeed at a DС 20 [[Skills#Perception|Perception]] check to realize they've swallowed something solid (the check is DC 10 if the worm is visible within the container), otherwise they are unaware of the infection. <br><br>Anything that kills or delays a normal spawn worm has the same effect on a slow worm. Other variants of Kyuss worms exist as well, including some capable of creating more powerful Spawn that retain their abilities from life in undeath, and others capable of creating the horrific creatures known as the worms that walk. 
+
+A stooped lizardfolk wearing necklaces and bracelets of animal's teeth stands at the ready, a snake coiled nearby. In one corner of the room are two human prisoners—a male soldier and a female mage—unconscious and bound. The shaman, Hishka, is wary but not immediately hostile (unless the worm-infected lizardfolk in 6C is dead and witnesses told the shaman that the PCs are responsible for the worms), Hishka is one of the chosen few of Semuanya, a sterile hermaphrodite gifted with an unusually keen mind. The shaman is unhappy with the aggressive stance of the new king, believing that open hostilities against the much larger population of [[Ardentia City]] will only spur the humans to greater excesses of aggression against the lizardfolk tribes, but is at a loss as to how to remove the king from his position of power. 
+
+Hishka believes that survival of their tribe (and the lizardfolk race) is crucial; despite any bloodshed the PCs have caused in the lair, the shaman wants to negotiate a peace, preferably one involving the PCs killing or chasing off the current king and his lieutenant. If the PCs agree to get rid of these aggressive leaders, Hishka hopes to convince the rest of the tribe to cease its raids for at least a month or two, hopefully long enough for the PCs to arrange a treaty with [[Ardentia City]]. Hishka doesn't know much of the ways of civilized folk, but believes that if the PCs can get them to agree in writing to leave their tribe alone, they'll honor it, Hishka speaks Draconic and a little bit of Common, and offers the soldier prisoner in exchange for an agreement to get rid of the current leaders, and the mage when the PCs have taken care of the problem. Hishka also accepts offers to have someone trustworthy guard their eggs, and can even be bribed if there's enough money involved (at least 200 gp worth, enough to relocate the tribe, make gifts to new allies, and so on). 
+
+When the lizard king recognized that Marzena was a spellcaster, he broke her jaw and many bones in her hands to prevent her from using spells to escape; the shaman has tended her as best it could given the circumstances (she’s unconscious and due to be sacrificed in a few days anyway) but only time or healing magic can mend her bones. The shaman could cure her broken bones, but isn't brave enough to go against the king quite yet. 
+
+If the PCs choose to attack, Hishka fights back sadly. A survivalist at heart, Hishka is willing to abandon its animal companion if such a sacrifice can guarantee escape (preferably toward area 10 and eventually to the egg chamber at area 12). A wise creature and a skilled priest, Hishka knows its value to the lizardfolk race is more important than dying at the hands of “soft-skins.” Even if everyone in this tribe dies, the shaman is sure it can find can find a place in another tribe. 
+
+**Ad-Hoc Experience Award:** If the PCs negotiate a truce with Hishka, they gain experience as if they had defeated the shaman in combat. 
+
+## Area 9: Lair of the Lizard King
+> [!note]+ Read Aloud
+> This large room has a raised throne-like area at the north end built out of wood and large animal bones; the ground in front of the throne is stained with old blood. A small pool of water to the west of the throne splashes with small fish. 
+
+**Encounter Difficulty:**   
+- [ ] difficulty (xxx XP) Level xxx
+
+```encounter
+name: Lair of the Lizard King
+party: Age of Worms
+creatures:
+  - 1: [[Shukak]]
+```
+
+Reclining on the throne is a strong-looking lizardfolk with a mottled pattern of black scales and forward-sweeping horns. Quick as a flash of lightning, he leaps forward with claws extended and a snarl on his scaly lips when the PCs intrude in his throne room. 
+
+This is Shukak, the “king” of the tribe. Captured young when his original tribe was slaughtered, he was raised as a slave in the [[Ardentia City]] Arena. He eventually escaped back to his native swamp, where Ilthaпе found him and whispered words of vengeance in his ear. The dragon steered Shukak to the Twisted Branch tribe, where he challenged and killed its leader. Coupled with the tribe's loss of its hatchlings two years ago, the Twisted Branch lizardfolk were easy to goad into an alliance with the dragon and the attack on the keep. Confronted by the PCs in his own lair, the “king” knows he must defeat them to maintain his status and the tribe's morale. Ilthane gave him а special elixir made of alchemically-treated dragon's blood and he has some atypical abilities because of it. 
+
+Shukak knows that spellcasters are his most dangerous opponents and often the easiest to drop, so while his experience and pride urges him to deal with fighters, he goes after spellcasters first, then sneaky-looking rogue types, then all others. He makes as much noise as possible in order to draw assistance, taunt his foes (in Draconic and halting Common), and gain an audience for his prowess. He knows that without this tribe he loses the dragon's support, so he fights to the death. 
+
+> [!tip]+ Treasure
+> Shukak has stacked Marzena's gear in a small pile behind his throne, but has not yet had a chance to sort through it all to see what he likes. Her gear consists of a wand of [[fire ray]] (Rank 1), a +1 dagger, and a [[cloak-of-elvenkind|Cloak of Elvenkind]].  Note that Marzena will not be willing to part with her gear.
+> 
+> - [ ] permanent::[[Fire Ray|Wand of Fire Ray (rank 1)]] [ilvl::3] [gp::60]
+> - [ ] permanent::[[Weapon Potency (+1)|+1 Dagger]] [ilvl::2] [gp::35]
+> - [ ] permanent::[[cloak-of-elvenkind|Cloak of Elvenkind]]  [ilvl::7] [gp::360]
+
+## Area 10: Submerged Tunnel 
+> [!note]+ Read Aloud
+> This tunnel slopes downward into an area of shallow water extending westward. The ceiling declines as well, and it’s possible the entire hall goes underwater farther ahead. 
+
+The tunnel becomes completely submerged 40 feet beyond the start of the water and winds generally westward for 100 feet before fully emerging again shortly before area 11 on the Egg Chamber map. PCs must hold their breath and make DC 22 [[Swim]] checks to cross this area. 
+
+> [!danger]+ Trap
+> This section of tunnel is protected by several [[binding-snare|Binding Snares]]. The walls along the first 10 feet of the pool bear knotted leather cords tied to the roots marking the general area of the traps (DC 22 [[Skills#Perception|Perception]] check to notice the cords), though as the cords define a 10-foot stretch of water and the snares only fill half of that it's not a guarantee that strangers will recognize the actual dangerous areas. Because the snare is underwater, the [[Search]] DC to find it is 25 instead of the normal DC 22. The snare isn't configured to cause damage, just to slow it down long enough for the tribe to catch uр to it. 
+
+```leaflet
+### Tutorial: https://youtu.be/54EyMzJP5DU
+### id must be unique
+id: update-me
+image: [[Egg Chamber.png]]
+height: 900px
+width: 50%
+### This sets where the map starts by default. Set it to the middle (half) of your bounds. 
+lat: 50
+long: 50
+### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map. 
+minZoom: 0
+### Max zoom is 18. 
+maxZoom: 18
+### Hover mouse over the Reset Zoom icon to see your current zoom level. 
+defaultZoom: 17
+### How far it zooms in or out with each step. Can be in decimals. 
+zoomDelta: 0.5
+### This is a string so can be any text. Change it to match your maps measurement scale. 
+unit: feet
+scale: 1
+darkMode: false
+```
 
 
-Kotabas 
-Male lizardfolk barbarian 4 
-CE Medium humanoid (reptilian) 
-Init +1; Senses Listen +4, Spot +0 
-Languages Draconic 
-AC 21, touch 11, flat-footed 20; trap sense +1, uncanny dodge 
-hp 41 (6 HD) 
-Resist acid 5 
-Fort +8, Ref +5, Will +1; trap sense +1 
-Spd 30 ft. 
-Melee 2 claws +9 (1d6+3) and bite +6 (1d4+) 
-Ranged javelin +6 (1d6+3) 
-Base Atk +5; Grp +8 
-Atk Options rage 2/day 
-Combat Gear 2 potions of cure moderate wounds 
-Abilities Str 16, Dex 13, Con 18, Int 6, Wis 10, Cha 12 
-SQ fast movement, hold breath, illiteracy 
-Feats Improved Natural Attack (claw), Multiattack, Weapon Focus (claw) 
-Skills Balance +3, Intimidate +5, Jump +10, Listen +4, Swim +3 
-Possessions combat gear, +1 hide armor, 5 javelins, amulet of natural armor +1, pouch of 320 cp, 75 sp, and 81 gp 
-Rage (Ex): When raging, Kotabas's stats change as follows: 
-AC 19, touch 9, flat-footed 18 
-hp 53 
-Fort +10, Will +3 
-Melee 2 claws +12 (1d6+5) and bite +8 (1d4+2) 
-Ranged javelin +6 (1d6+5) 
-Grp +10 
-Abilities Str 20, Con 22 
-Skills Jump +12, Swim +5 
+## Area 11: Kobold Guardians 
+> [!note]+ Read Aloud
+> A wall of stacked rocks makes up the southwest part of this room, and beyond the northwest end is another room with water on the floor. Six black-scaled kobolds mill about in this area appearing to be standing guard. 
 
-Lieutenant's Mate, normal lizardfolk (1): 11 hp, Monster Manual 169. 
+
+![[Ilthane's Kobolds.png#cap#wmed#left\|Ilthane's Kobolds]]
+
+**Encounter Difficulty:**   
+- [ ] severe (120 XP) Level 6
+
+```encounter
+name: Kobold Guardians
+party: Age of Worms
+creatures:
+  - 6: [[Kobold Egg Guardian]]
+```
+
+Six black-scaled kobolds stand guard in this area. The kobolds are “gifts” from Ilthane, stationed here to guard the lizardfolk eggs (ostensibly to protect them from intruders, but actually to keep the lizardfolk from interfering with Ilthane’s plans for the eggs). While not half-dragons, they are the result of several generations of tribe-slavery, selective breeding, and elixir use by Ilthane, and are superior to normal kobolds.
+
+The draconic kobolds attack any non-lizardfolk who enter the area, as well as any lizardfolk who seem hostile or intent on moving the eggs. 
+
+> [!tip]+ Treasure
+> Іп а north corner of the room is a small, unlocked chest that contains four dark glass vials—[[healing-potion-(moderate)|Healing Potion (Moderate)]], each contaminated with a slow worm. The kobolds are under orders from Ilthane to not open the chest or use what's inside; it's intended as a trap for any creature that slays them. 
+> 
+> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+
+![[Findings in the Egg Chamber.png|right]]
+
+## Area 12: Egg Chamber
+
+> [!note]+ Read Aloud
+> This large chamber has a roof of intertwined mangaroo roots and trunks. Shallow water no more than a few inches deep covers the floor of the chamber, lapping at the bottom of hundreds of tiny pale leathery eggs. On the northегп end of the pool, looming over the other eggs like a malignant gargoyle, is a halfling-sized black egg. A wide hallway leads west over a low dirt embankment with three wooden chests on it and beyond to another watery area. 
+
+This chamber holds all of the tribe's eggs, an unusually large number for a tribe this size. The black dragon IIthane offered to guard the eggs as a favor to the tribe, placed one of her own eggs here as a token of trust with the tribe, and dug the western tunnel to give herself easier access. 
+
+If any lizardfolk come to this area while the PCs are here, they are extremely cautious about their eggs, going out of their way to not provoke the invaders to harm the eggs, but retaliating brutally if any damage occurs (+2 morale bonus on attack rolls and weapon damage), 
+
+The eggs extend above the waterline and are easily spotted but are so numerous that any creature moving through the area must make a DC 18 [[Skills#Acrobatics]] check each round they travel more than half speed; failure means they break `dice: 1d2` 1d2 eggs. Area attacks that deal 1 or more hit points of damage automatically kill all eggs in the affected area. 
+
+**Encounter Difficulty:**   
+- [ ] difficulty (xxx XP) Level xxx
+
+```encounter
+name: EncounterName
+party: PartyName
+creatures:
+  - [[Kyuss Spawnling]]
+```
+
+
+Unbeknownst to anyone but the dragon, the black egg doesn't contain a growing dragon, but a large number of Kyuss worms provided by Dragotha. Iithane’s intent is that when the eggs hatch, the worms will bore through the black egg’s shell, swim through the water, and infect all of the hatchlings, giving Ilthane (and Dragotha) a small army of new Spawn of Kyuss to overwhelm the adults of the tribe and any other creatures that oppose them. 
+
+The dragon egg has hardness 5 and 5 hit points. If broken open with weapons or weaponlike spells, the worms inside spill out and begin boring into the lizardfolk eggs, advancing at a rate of 5 ft. per round through the watery area (their progress is obvious, as they stir up the water when they move), Once a worm invades a small egg, the hatchling inside breaks free `dice: 1d4` 1d4 rounds later as a Kyuss spawnling, an undead swimming thing intent on killing all living creatures it discovers. The worms may slither up a character's legs, but since they aren't quite mature yet, they cannot transform larger humanoids into spawn of Kyuss and are ultimately harmless.
+
+> [!aside|no-icon left]
+> #### New Items
+> - [[kyuss-worm-paste|Kyuss Worm Paste]]
+> - [[kyussbane-oil|Kyussbane Oil]]
+
+Other methods of attacking the dragon egg produce different effects. 
++ If the egg takes 10 or more points of cold damage, the worms inside it are [[Stunned]] for 1 round. Any cold damage applied to an area of water stuns the worms in that area for 1 round (delaying their movement) but also kills any lizardfolk eggs in that area. 
++ [[Cleanse Affliction]] kills all the worms in the egg but doesn't otherwise affect its shell. The caster can also direct the spell at the water, affecting a number of 5-foot squares equal to the caster level and killing all swimming worms within that area, though if used in this manner it doesn't affect worms that have already infected a hatchling (that requires a targeted use of the spell). 
++ If it takes 20 ог more points of fire damage, the egg and worms are destroyed, resulting in a wet green-brown paste which a character with the [[Alchemical Crafting]] feat can use to make 4 doses of Kyuss worm paste or Kyussbane oil (see sidebar) by spending one day per dose crafting the item. No gp expenditure is necessary to make either of these items as long as the character has the feat and the raw paste. A DC 20 Knowledge ([[Skills#Crafting|Crafting]], [[Skills#Arcana|Arcana]] or [[Skills#religion|Religion]]) check is enough for a character to recognize this quality of the burnt worms. 
+
+> [!tip]+ Treasure
+> Underwater near the dragon egg is a waterproof chest of oiled wood that is Ilthane's final contingency against the destruction of her horde of spawnlings. The box contains a fair amount of treasure intended to lull the PCs into a false sense of security about their victory. The chest contains 1300 cp, 240 sp, 53 gp, 2 pp, 6 rare antique silver trade bars wirth 25 gp each and six dark glass vials— 2 × [[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]],  2 × [[healing-potion-(moderate)|Healing Potion (Moderate]], [[potion-of-quickness|Potion of Quickness]], [[invisibility-potion|Invisibility Potion]], each contaminated with a single slow Kyuss worm. The chest also contains a [[sturdy-shield-(lesser)|Sturdy Shield (Lesser)]], its surface etched with swirling wave patterns and rimmed in green-stained bronze.
+> - [ ] pp::2
+> - [ ] gp::203
+> - [ ] sp::240
+> - [ ] cp::1300
+> - [ ] permanent::[[sturdy-shield-(lesser)|Sturdy Shield (Lesser)]] [ilvl::7] [gp::360]
+> - [ ] consumable::[[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]] [ilvl::3] [gp::12]
+> - [ ] consumable::[[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]] [ilvl::3] [gp::12]
+> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate]] [ilvl::6] [gp::50]
+> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate]] [ilvl::6] [gp::50]
+> - [ ] consumable::[[potion-of-quickness|Potion of Quickness]] [ilvl::8] [gp::90]
+> - [ ] consumable::[[invisibility-potion|Invisibility Potion]] [ilvl::4] [gp::20]
+
+> [!warning]
+> If the lizardfolk see the worms, their reaction depends on earlier events. If the infected warrior in area 6C is still alive, the lizardfolk realize that something is very wrong and the dragon is probably responsible. They try to keep the worms from getting to their eggs, charging into the egg chamber and carrying eggs to safety. If the PCs help in this endeavor, the lizardfolk gratefully accept their assistance and this act helps smooth relations in the aftermath of the worm battle. As the Kyuss spawnlings are unable to leave the water at this time, removing the eggs from the water makes them safe. 
+> 
+> If the lizardfolk believe the PCs are responsible for the worms in the body of the infected individual in 6C, the presence of the worms in the egg chamber is “proof” of the PCs’ guilt and they attack in a rage (+2 morale bonus on attacks and weapon damage). 
+> 
+> Given the number of lizardfolk eggs (more than 200), it’s very easy for this situation to grow beyond what the PCs can control. Moving eggs out of the water, establishing a solid barrier that the worms can't cross, or draining the water are the best options once the worms are unleashed, though using an area attack to damage all infested areas also works but kills all eggs in that area. If the spawnlings aren't destroyed, in about a week they transform into a walking form that can survive out of the water and become a dangerous menace in the swamp and eventually other nearby terrain under the direction of Ilthane. 
+
+## Area 13: Large Submerged Tunnel 
+> [!note]+ Read Aloud
+> This wide tunnel quickly slopes downward and plunges underwater. The water is stagnant and covered with a layer of scum and tiny floating plants.
+
+Ilthane uses this tunnel to access the egg chamber, though she hasn't been here in over a month. The tunnel runs northwest for about 200 feet and finally emerges at the bottom of a deep pool of water in the Mistmarsh. 
+
+> [!warning]
+> Advance the players to level 7.
+
+# Part Three: Terror Below
+When the PCs return to Blackwall Keep, they find the soldiers in a panic. It seems that one of the lizardfolk wo entered the keep on the initial raid reached the basement level and smashed the lock on a certain door in ground floor, thinking the extra security meant treasure was inside. The monster once locked behind the door is now free to roam the keep and has snatched two soldiers, dragging them into the basement. The soldiers have used spare wood and doors to barricade the entrance to the basement, but the creatures (they now so hear more than one creature moving around so they know the monster hasn't eaten the two captives) are strong enough that it’s only a temporary solution. They apologize to the PCs for not telling them about the threat earlier, but they still felt reluctant to kill the creature that was once their friend, and thought that by locking it away it would die or they would find a way to save him. As an example of the strength of their secrecy, even Marzena didn't know about the captive spawn, as she was told the last mage went mad and wandered into the swamp one night. The soldiers can describe what their friend looked like when he changed (a zombie-like creature with green worms crawling in his flesh) and the glimpses they've had since then confirm this appearance.
+
+Three spawn now wander the basement level of the keep, forcing the soldiers to share space in the upper levels. The undead trio batter at the soldiers’ barricade every day, and when they break through they grab any soldier within reach, two or more of them grappling their captive, hauling him back to the basement to let the worms do their work (and giving the soldiers time to rebuild the barricade). This shows the monsters aren't mindless zombies and use tactics. Like all spawn created recently in the service of Ithane and Dragotha, their objective is to multiply rather than kill, so they snatch opponents one at a time rather than trying an open battle where potential prey may be killed. 
+
+**Encounter Difficulty:**   
+- [ ] severe (120 XP) Level 7
+
+```encounter
+name: Returning to the Spawn Room
+party: Age of Worms
+creatures:
+  - 3: [[Spawn of Kyuss]]
+```
+
+Depending on how long the PCs took to deal with the lizardfolk, soldier reinforcements from Diamond Lake should be at the keep. Though Allustan remains at Diamond Lake, he gives the captain of the reinforcements a letter for the PCs asking them to escort Marzena to Diamond Lake so he may discuss what she knows about the green worms.
+
+# Concluding the Adventure
+When the PCs bring [[Marzena]] to [[Allustan]], he is grateful for their help and eager to hear the news of their most recent adventures. [[Marzena]] tells [[Allustan]] what's she's heard about green worms in the Cairn Hills, but unfortunately her news offers little new information apart from confirmation that spawn of Kyuss are increasing in number throughout the Cairn Hills. This information and the PCs’ report convinces [[Allustan]] that there is something larger going on, and he tells the PCs about an “old friend” in [[Ardentia City]], a sage named [[Eligos]] who knows a great deal about strange monsters. Their next step is to visit [[Eligos]] in [[Ardentia City]] and share Allustan's compiled notes and their own experiences. Armed with this information, the sage ought to be able to determine what sort of threat the green worms represent to the region and how it can be countered. Note that if the PCs agreed to talk to [[Ardentia City]] officials on behalf of [[Hishka]], the need to meet [[Eligos]] gives them a convenient excuse to travel there and arrange for a treaty between [[Ardentia City]] and the lizardfolk of the Mistmarsh. 
+
+
+
+
+
+
+
+
 
 
 

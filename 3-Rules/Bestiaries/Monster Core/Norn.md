@@ -51,22 +51,34 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Shears|Shears]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 120 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
   - name: "Sense Fate"
     desc: " (fortune) A norn automatically rolls a 20 when she rolls initiative."
 
   - name: "Triumvirate"
     desc: "  This functions as the [[Bestiary Ability Glossary/Coven|Coven]] ability, except only norns can join a triumvirate, and it functions only as long as exactly three norns are part of the triumvirate. A triumvirate grants the following spells: [[Spells/Cataclysm|Cataclysm]], [[Spells/Foresight|Foresight]], [[Spells/Manifestation|Manifestation]](once per day), [[Spells/Pinpoint|Pinpoint]], and [[Spells/Revival|Revival]]."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 20 (Deactivated by Cold Iron)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Norn Shears +38 (deadly 2d8, magical, reach 10 feet, versatile p)\n__Damage__  4d4 + 15 slashing plus sever-fate 6d6 void plus sever-fate"
+  - name: "**Melee** `pf2:1` Norn Shears"
+    desc: "+38 (deadly 2d8, magical, reach 10 feet, versatile p)\n__Damage__  4d4 + 15 slashing plus sever-fate 6d6 void plus sever-fate"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hand Of Fate +38 (agile, magical, reach 10 feet)\n__Damage__  4d10 + 15 void plus sever-fate"
+  - name: "**Melee** `pf2:1` Hand Of Fate"
+    desc: "+38 (agile, magical, reach 10 feet)\n__Damage__  4d10 + 15 void plus sever-fate"
 
   - name: "Occult Innate Spells"
     desc: "DC 42, attack +34; __10th __  _[[Spells/Freeze Time|Freeze Time]]_; __9th __  _[[Spells/Execute|Execute]]_, _[[Spells/Phantasmagoria|Phantasmagoria]]_, _[[Spells/Retrocognition|Retrocognition]]_; __8th __  _[[Spells/Migration|Migration]]_, _[[Spells/Quandary|Quandary]]_; __7th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Read Omens|Read Omens]]_, _[[Spells/Spellwrack|Spellwrack]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(10th)__ _[[Spells/Hidden Mind|Hidden Mind]]_, _[[Spells/Truesight|Truesight]]_, _[[Spells/Truespeech|Truespeech]]_"
@@ -75,7 +87,7 @@ attacks:
     desc: "DC 42, attack +34; __10th __  _[[Spells/Cataclysm|Cataclysm]]_, _[[Spells/Manifestation|Manifestation]]_, _[[Spells/Revival|Revival]]_; __9th __  _[[Spells/Foresight|Foresight]]_; __8th __  _[[Spells/Cursed Metamorphosis|Cursed Metamorphosis]]_, _[[Spells/Pinpoint|Pinpoint]]_; __5th __  _[[Spells/Augury|Augury]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Clairaudience|Clairaudience]]_, _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Scouting Eye|Scouting Eye]]_, _[[Spells/Talking Corpse|Talking Corpse]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Collective Memories|Collective Memories]]_, _[[Spells/Control Weather|Control Weather]]_, _[[Spells/Geas|Geas]]_"
+    desc: "_Collective Memories_, _Control Weather_, _Geas_"
 
   - name: "Fated"
     desc: " (fortune,misfortune) When a creature is subject to a fortune effect from a norn and a misfortune effect from any source other than a norn (or vice versa), the norn's effect automatically counteracts the other effect and then takes place normally, rather than the two effects canceling each other out. If both the fortune and misfortune effect are from a norn, then the two cancel each other out as normal. At the GM's discretion, powerful entities related to fate or luck, like Desna, Magdh, or Pharasma, can't have their effects negated by this ability."

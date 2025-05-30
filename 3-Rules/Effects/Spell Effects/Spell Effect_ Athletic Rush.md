@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Athletic Rush|Athletic Rush]].
+Granted by [[Spells/Athletic Rush|Athletic Rush]].
 
 You gain a +10-foot status bonus to Speed and a +2 status bonus to Athletics checks.
 

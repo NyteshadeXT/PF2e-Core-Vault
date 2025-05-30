@@ -60,17 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +15 (shove)\n__Damage__  2d8 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+15 (shove)\n__Damage__  2d8 + 7 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +14 (agile, sweep)\n__Damage__  1d6 + 7 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+14 (agile, sweep)\n__Damage__  1d6 + 7 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +14 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 7 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+14 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 7 slashing"
 
   - name: "Arcane Prepared Spells"
-    desc: "DC 21, attack +14; __3rd __  _[[Spells/Fireball|Fireball]]_; __2nd __  _[[Spells/Revealing Light|Glitterdust]]_; __1st __  _[[Spells/Carryall|Floating Disk]]_, _[[Spells/Jump|Jump]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(3rd)__ _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_"
+    desc: "DC 21, attack +14; __3rd __  _[[Spells/Fireball|Fireball]]_; __2nd __  _[[Spells/Revealing Light|Glitterdust]]_; __1st __  _[[Spells/Carryall|Floating Disk]]_, _[[Spells/Jump|Jump]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(3rd)__ _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_"
  
 ```
 

@@ -37,7 +37,7 @@ perception:
 languages: "Common; (can’t speak any language); telepathy 100 feet (can only communicate with bonded friend)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +12, Deception: +10, Acrobatics: +12, Athletics: +12, Deception: +10"
+    desc: "Acrobatics: +12, Athletics: +12, Deception: +10"
 abilityMods: [-5, 5, 3, 2, 3, 2]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Imaginary Sword +16 (force, magical, two-hand d12)\n__Damage__  1d8 + 5 force"
+  - name: "**Melee** `pf2:1` Imaginary Sword"
+    desc: "+16 (force, magical, two-hand d12)\n__Damage__  1d8 + 5 force"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Imaginary Bow +14 (deadly d10, force, magical, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 5 force"
+  - name: "**Ranged** `pf2:1` Imaginary Bow"
+    desc: "+14 (deadly d10, force, magical, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 5 force"
 
   - name: "Together, Charge!"
     desc: "`pf2:r`  **Trigger** The imaginary friend's bonded friend Strides.\n* * *\n\n**Effect** The imaginary friend Strides twice and makes an imaginary sword Strike. As long as the imaginary friend moved at least 20 feet, it gains a +2 circumstance bonus on its attack. If the bonded friend is equal or lower level than the imaginary friend, the bonded friend gains a +2 circumstance bonus to its next attack. After using this ability, the imaginary friend is [[undefined]].\n\n[[Effects/Effect_ Together, Charge!|Effect: Together, Charge!]]"

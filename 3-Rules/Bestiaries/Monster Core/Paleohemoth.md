@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +26 (deadly d10, magical, reach 15 feet)\n__Damage__  3d10 + 13 piercing plus fossilization"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+26 (deadly d10, magical, reach 15 feet, unarmed)\n__Damage__  3d10 + 13 piercing plus fossilization"
 
   - name: "Fossilization"
     desc: " (arcane,incapacitation) The first time each round a creature takes damage from the paleohemoth's jaws, the target must attempt a DC 32 Fortitude check save. If it fails and has not already been slowed by this ability, it becomes [[Conditions/Slowed|Slowed 1]] for 1 minute.\n\nIf the creature was already slowed by this ability, a failed save causes it to be [[Conditions/Petrified|Petrified]] permanently."

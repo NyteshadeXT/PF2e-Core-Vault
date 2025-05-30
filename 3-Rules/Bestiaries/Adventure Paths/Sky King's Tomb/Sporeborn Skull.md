@@ -64,14 +64,17 @@ abilities_mid:
   - name: "Stir the Spores"
     desc: "`pf2:r` (poison) **Frequency** once per 1d4 rounds\n\n**Trigger** The sporeborn skull takes bludgeoning, piercing, or slashing damage\n* * *\n\n**Effect** The impact scatters spores onto all creatures within 5 feet, making them [[Conditions/Sickened|Sickened 1]] (DC 18 Fortitude check negates)."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Forehead +10 (finesse)\n__Damage__  1d6 + 3 bludgeoning 1d6 poison"
+  - name: "**Melee** `pf2:1` Forehead"
+    desc: "+10 (finesse)\n__Damage__  1d6 + 3 bludgeoning 1d6 poison"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spittle +10 (acid, agile, range 20 feet)\n__Damage__  1d12 + 2 acid"
+  - name: "**Ranged** `pf2:1` Spittle"
+    desc: "+10 (acid, agile, range 20 feet)\n__Damage__  1d12 + 2 acid"
  
 ```
 

@@ -21,7 +21,7 @@ license: ORC
 
 **Trigger** You critically hit a creature that is not on its home plane.
 
-**Requirements** You have a [[Banishment|Banishment]] spell prepared.
+**Requirements** You have a [[Spells/Banishment|Banishment]] spell prepared.
 
 * * *
 

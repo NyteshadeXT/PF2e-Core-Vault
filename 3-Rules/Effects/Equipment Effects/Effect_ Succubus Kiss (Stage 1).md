@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Succubus Kiss|Succubus Kiss]]
+Granted by [[Equipment/Succubus Kiss|Succubus Kiss]]
 
 The creature gains a +2 item bonus to initiative checks and to all saving throws against emotion and mental effects.
 
-*Source: Pathfinder Lost Omens: Absalom, City of Lost Omens*
+*Source: Pathfinder Lost Omens Absalom, City of Lost Omens*
 *OGL*

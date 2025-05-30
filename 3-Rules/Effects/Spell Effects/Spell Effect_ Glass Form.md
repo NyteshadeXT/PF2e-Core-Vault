@@ -17,7 +17,9 @@ license: OGL
 
 
 
+Granted by [[Spells/Glass Form|Glass Form]]
 
+The target gains resistance to acid, cold, electricity, and piercing damage and weakness to sonic and bludgeoning damage.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

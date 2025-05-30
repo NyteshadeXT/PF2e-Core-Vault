@@ -31,5 +31,5 @@ Your draconic anatomy becomes especially pronounced. You increase the power of o
 
 **Venomtail Kobold** You produce enough venom to use the Tail Toxin action twice per day.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

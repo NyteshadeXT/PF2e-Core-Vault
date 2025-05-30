@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +12 (agile, finesse, versatile s)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+12 (agile, finesse, versatile s)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +12 (agile, finesse, versatile s)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+12 (agile, finesse, versatile s)\n__Damage__  1d4 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +12 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+12 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Quick Rummage"
     desc: "`pf2:1`  The fence always has a few items close at hand. The fence [[Actions/Interact|Interacts]] to draw a weapon or item that takes a single action to activate, and then [[Actions/Strike|Strikes]] with the weapon or activates the item."

@@ -18,5 +18,5 @@ license: OGL
 
 You become a wellspring of invention. You gain the [[Feats/Inventor|Inventor]] feat, even if you don't meet its prerequisites, and when you roll a Crafting check for the Inventor feat, you use the result one degree of success better than the result you rolled.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

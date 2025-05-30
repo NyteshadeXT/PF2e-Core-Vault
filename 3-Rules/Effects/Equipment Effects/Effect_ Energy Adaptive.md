@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Energy Adaptive|Energy Adaptive]]
+Granted by [[Equipment/Energy Adaptive|Energy Adaptive]]
 
 You gain resistance 5 to acid, cold, electricity, or fire damage.
 

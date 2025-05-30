@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/curse
   - trait/occult
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.hFRHPBj6wjAayNtW"
@@ -13,7 +13,7 @@ license: ORC
 ---
 # Jinx `pf2:2`
 
-### [[3-Rules/Rule References/Curse]][[3-Rules/Rule References/Occult]]
+### [[curse]][[occult]]
 
 **Category** offensive; 
 

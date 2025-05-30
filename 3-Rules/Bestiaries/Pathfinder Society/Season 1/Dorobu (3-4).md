@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +17 ()\n__Damage__  1d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+17 ()\n__Damage__  1d8 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` +1 Striking Wild Claws +18 (agile, finesse)\n__Damage__  2d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` +1 Striking Wild Claws"
+    desc: "+18 (agile, finesse)\n__Damage__  2d6 + 4 slashing"
 
   - name: "Primal Prepared Spells"
-    desc: "DC 24, attack +17; __2nd __  _[[Spells/Enlarge|Enlarge]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Runic Body|Magic Fang]]_\n__Cantrips__  __(3rd)__ _[[Spells/Guidance|Guidance]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 24, attack +17; __2nd __  _[[Spells/Enlarge|Enlarge]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Runic Body|Magic Fang]]_\n__Cantrips__  __(3rd)__ _[[Spells/Guidance|Guidance]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Order Spells"
     desc: "1 Focus Point, DC 24, attack +17; __3rd __  _[[Spells/Untamed Shift|Wild Morph]]_, _[[Spells/Untamed Form|Wild Shape]]_"

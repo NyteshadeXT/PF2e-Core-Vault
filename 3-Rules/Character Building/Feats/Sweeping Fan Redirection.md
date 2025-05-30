@@ -26,5 +26,5 @@ license: ORC
 
 You can redirect ammunition back at the creature that fired it with sweeping gusts of wind. When [[Feats/Sweeping Fan Block|Sweeping Fan Block]] prevents an attack from hitting you, instead of recovering the ammunition, you can make a ranged Strike against the triggering target using the normal attack bonus and damage of your fans as part of the same reaction. You also apply any special effects the ammunition might have.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -58,11 +58,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 15 (Deactivated by Acid or Sonic)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Catch Rock|Catch Rock]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Requirements** The monster must have a free hand but can [[Actions/Release|Release]] anything it's holding as part of this reaction.\n\n**Trigger** The monster is targeted with a thrown rock Strike or a rock would fall on the monster.\n* * *\n\n**Effect** The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock."
 
   - name: "Sunlight Petrification"
     desc: "  If exposed to direct sunlight, a cavern troll immediately becomes [[Conditions/Slowed|Slowed 1]] and can't use reactions or Trample. The slowed value increases by 1 each time the cavern troll ends its turn in sunlight. If the cavern troll's actions are reduced to 0 in this way, they become [[Conditions/Petrified|Petrified]] until they spends at least 1 minute in darkness. Spells like [[Spells/Sunburst|Sunburst]] that create magical sunlight cannot petrify a cavern troll, but the troll is slowed 1 for 1d4 rounds after being exposed to such an effect."
@@ -70,23 +73,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 (reach 10 feet)\n__Damage__  2d10 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (reach 10 feet, unarmed)\n__Damage__  2d10 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile, reach 10 feet)\n__Damage__  1d12 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, reach 10 feet, unarmed)\n__Damage__  1d12 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +13 (brutal, range increment 120 feet)\n__Damage__  2d6 + 5 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+13 (brutal, range increment 120 feet)\n__Damage__  2d6 + 5 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n\n* * *\n"
+    desc: "`pf2:1`  Claw\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
 
   - name: "Rock Tunneler"
     desc: "  A cavern troll can burrow through solid stone at a Speed of 10 feet. It can leave a tunnel if it desires."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
  
 ```
 

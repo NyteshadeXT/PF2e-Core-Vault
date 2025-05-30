@@ -22,7 +22,7 @@ license: ORC
 
 **Prerequisites** any oracle mystery
 * * *
-**Requirements** You have [[Heal|Heal]] or [[Harm|Harm]] as a signature spell and an available spell slot to cast it with.
+**Requirements** You have [[Spells/Heal|Heal]] or [[Spells/Harm|Harm]] as a signature spell and an available spell slot to cast it with.
 
 * * *
 

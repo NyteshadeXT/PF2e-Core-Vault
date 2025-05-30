@@ -47,12 +47,12 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Disable"
-    desc: "DC 27 Thievery check (expert) to disable the doorknob trigger"
+    desc: "[[Actions/disable-device dc=27|disable-device dc=27]]{DC 27 Thievery} (expert) to disable the doorknob trigger"
 attacks:
   - name: ""
 
   - name: "Explosive Charge"
-    desc: "`pf2:r` **Trigger** The doorknob is turned\n* * *\n\n**Effect** The charge behind the door explodes, dealing 2d8+9 fire damage and 2d8+9 piercing damage to all creatures in a @Template[cone|distance:10] blasting outward from the door (DC 27 Reflex check). The sound of the explosion can be heard up to 50 feet away."
+    desc: "`pf2:r` **Trigger** The doorknob is turned\n* * *\n\n**Effect** The charge behind the door explodes, dealing 2d8+9 fire damage and 2d8+9 piercing damage to all creatures in a 10-foot cone blasting outward from the door (DC 27 Reflex check). The sound of the explosion can be heard up to 50 feet away."
 
 
 

@@ -41,7 +41,7 @@ perception:
 languages: "Goblin"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +13, Nature: +11, Performance: +14, Acrobatics: +13, Athletics: +13, Nature: +11, Performance: +14"
+    desc: "Acrobatics: +13, Athletics: +13, Nature: +11, Performance: +14"
 abilityMods: [4, 6, 4, 1, 1, 2]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"

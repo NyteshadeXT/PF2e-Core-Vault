@@ -30,7 +30,7 @@ columnWidth: x
 abilities_top:
   - name: ""
   - name: "Range"
-    desc: "30 feet; **Targets** 1 evil creature"
+    desc: "30 feet; **Targets** 1 unholy creature"
   - name: "Duration"
     desc: "1 round"
 abilities_mid:

@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +8 (agile, finesse, magical, versatile s)\n__Damage__  1d6 - 3 slashing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+8 (agile, finesse, magical, versatile s)\n__Damage__  1d6 - 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thrown Bottle +6 (nonlethal, range increment 10 feet)\n__Damage__  1d6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Thrown Bottle"
+    desc: "+6 (nonlethal, range increment 10 feet)\n__Damage__  1d6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +8 (deadly d10, magical, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+8 (deadly d10, magical, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 16, attack +6; __2nd __  _[[Spells/Speak with Animals|Speak with Animals (At Will)]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"

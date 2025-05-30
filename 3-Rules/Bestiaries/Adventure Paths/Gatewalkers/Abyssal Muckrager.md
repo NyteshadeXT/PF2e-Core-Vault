@@ -56,16 +56,19 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Lance Arm +14 (deadly d8, reach 10 feet)\n__Damage__  2d8 + 6 piercing plus lancing-charge"
+  - name: "**Melee** `pf2:1` Lance Arm"
+    desc: "+14 (deadly d8, reach 10 feet)\n__Damage__  2d8 + 6 piercing plus lancing-charge"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +14 ()\n__Damage__  2d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+14 ()\n__Damage__  2d6 + 6 bludgeoning"
 
   - name: "Earth Glide"
     desc: "  An earthen destrier can [[Actions/Burrow|Burrow]] through earthen matter, including rock. When it does so, it moves at its full burrow Speed, leaving no tunnels or signs of its passing."
@@ -77,7 +80,7 @@ attacks:
     desc: "`pf2:r`  **Trigger** The earthen destrier tramples a creature\n* * *\n\n**Effect** The earthen destrier makes a lance arm Strike against the creature it's trampling at a -5 penalty."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 20 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 20 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

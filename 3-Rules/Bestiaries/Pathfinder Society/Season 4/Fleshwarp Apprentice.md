@@ -57,7 +57,7 @@ attacks:
   - name: ""
 
   - name: "Arcane Prepared Spells"
-    desc: "DC 17, attack +9; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(1st)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 17, attack +9; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(1st)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Wizard School Spell"
     desc: "1 Focus Point, DC 17, attack +9; __1st __  _[[Spells/Force Bolt|Force Bolt]]_"

@@ -64,6 +64,9 @@ abilities_top:
   - name: "Wild Empathy"
     desc: "  The naiad can use Diplomacy to Make an Impression on and make very simple Requests of animals."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Water Dependent"
@@ -72,8 +75,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Aqueous Fist +8 (agile, finesse, magical, water)\n__Damage__  1d6 bludgeoning"
+  - name: "**Melee** `pf2:1` Aqueous Fist"
+    desc: "+8 (agile, finesse, magical, water)\n__Damage__  1d6 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Create Water|Create Water]]_, _[[Spells/Tidal Surge|Tidal Surge]]_\n__Constant__  __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"

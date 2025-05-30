@@ -29,5 +29,5 @@ You can summon a mass of magic energy in your hand that, naturally, you use to s
 
 At 13th level, the bangmangi is a _+2 greater striking ghost touch club_.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -52,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Destructive Explosion"
-    desc: "`pf2:r` (fire) **Trigger** One of the three kegs takes any fire damage, including damage caused by a line of black powder burning up to a keg.\n* * *\n\n**Effect** The keg explodes, causing 5d6 fire damage (DC 24 Reflex check) in a @Template[emanation|distance:20]; this can cause an instantaneous chain reaction if either of the other kegs are in this area (note that as positioned, all three kegs are in range to trigger a chain reaction). Fire damage in overlapping areas isn't cumulative, but if all three kegs are in their initial positions when the explosion occurs, the temple itself collapses, causing 8d6 bludgeoning damage to all creatures in the temple (DC 24 Reflex check)."
+    desc: "`pf2:r` (fire) **Trigger** One of the three kegs takes any fire damage, including damage caused by a line of black powder burning up to a keg.\n* * *\n\n**Effect** The keg explodes, causing 5d6 fire damage (DC 24 Reflex check) in a 20-foot emanation; this can cause an instantaneous chain reaction if either of the other kegs are in this area (note that as positioned, all three kegs are in range to trigger a chain reaction). Fire damage in overlapping areas isn't cumulative, but if all three kegs are in their initial positions when the explosion occurs, the temple itself collapses, causing 8d6 bludgeoning damage to all creatures in the temple (DC 24 Reflex check)."
 
   - name: "Routine"
     desc: "If Gerhard lights the black powder fuse, it burns at a speed of 10 feet each round; when the fuse reaches a keg 6 rounds later, the black powder bomb explodes. The bomb explodes immediately if he shoots a barrel with his blunderbuss."

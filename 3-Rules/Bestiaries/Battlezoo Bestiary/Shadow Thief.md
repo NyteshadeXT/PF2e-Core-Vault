@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +10 (agile, finesse)\n__Damage__  1d6 + 3 slashing 1d4 cold"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+10 (agile, finesse)\n__Damage__  1d6 + 3 slashing 1d4 cold"
 
   - name: "Penumbral Theft"
     desc: "`pf2:2` (occult,shadow) The shadow thief absorbs the shadow of a creature within reach and takes its place. The shadow thief's body merges with that of the target, who must attempt a DC 19 Will save. While merged, the target's shadow moves erratically, inflicting a -1 circumstance penalty to Make an Impression, Hide, or Sneak. The shadow thief cannot act while merged, except to Swap Shadows or Coalesce Memories or to end the merge by spending two actions, which have the concentrate trait. An affected creature can be identified by their shadow's oddities with a successful DC 21 Occultism or DC 21 Perception check.\n\n[[Effects/Effect_ Penumbral Theft|Effect: Penumbral Theft]]\n* * *\n\n**Critical Success** The merge is unsuccessful.\n\n**Success** The shadow thief merges with the creature for 24 hours.\n\n**Failure** The shadow thief merges with the creature indefinitely."

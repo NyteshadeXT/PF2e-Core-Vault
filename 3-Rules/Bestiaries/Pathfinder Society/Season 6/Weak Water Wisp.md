@@ -65,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +4 (reach 10 feet)\n__Damage__  1d6 - 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+4 (reach 10 feet)\n__Damage__  1d6 - 2 bludgeoning"
 
   - name: "Drench"
     desc: "`pf2:1` (primal,water) The wisp puts out all fires in a single 5-foot square.\n\nIt extinguishes non-magical fire of that size or smaller automatically and attempts to counteract magical fires (counteract modifier +6)."

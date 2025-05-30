@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Steady On Stone"
+title: "Steady on Stone"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/oread
@@ -9,7 +9,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.FZuQPFnQ5UkBWLU9"
 license: OGL
 ---
-# Steady On Stone
+# Steady on Stone
 ## Feat 1
 ### [[oread]]
 
@@ -20,5 +20,5 @@ license: OGL
 
 Your connection to the earth makes natural uneven surfaces less of a hindrance for you. You can ignore difficult terrain caused by rubble and uneven ground made of stone and earth. In addition, when you use the Acrobatics skill to Balance on narrow surfaces or uneven ground made of stone and earth, you aren't [[Conditions/Off-Guard|Off-Guard]], and when you roll a success at one of these Acrobatics checks, you get a critical success instead.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

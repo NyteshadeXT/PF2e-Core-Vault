@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Bullhorn|Bullhorn]]
+Granted by [[Spells/Bullhorn|Bullhorn]]
 
 You gain a +1 status bonus to checks to [[Actions/Coerce|Coerce]] and auditory Performance checks to Perform at a large venue.
 

@@ -59,17 +59,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 (acid)\n__Damage__  2d4 + 7 piercing 2d4 acid"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (acid)\n__Damage__  2d4 + 7 piercing 2d4 acid"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile)\n__Damage__  2d4 + 7 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile)\n__Damage__  2d4 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +13 ()\n__Damage__  2d6 + 7 bludgeoning plus concussive-slap,knockdown"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+13 ()\n__Damage__  2d6 + 7 bludgeoning plus concussive-slap,knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Spit +14 (acid, range increment 30 feet)\n__Damage__  2d8 + 5 acid"
+  - name: "**Ranged** `pf2:1` Acid Spit"
+    desc: "+14 (acid, range increment 30 feet)\n__Damage__  2d8 + 5 acid"
 
   - name: "Concussive Slap"
     desc: "  If the reaver beaver's tail Strike hits a [[Conditions/Prone|Prone]] creature, that creature must make a DC 22 Fortitude save as it is slammed into the ground.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 1d6 bludgeoning damage.\n\n**Failure** The creature takes 2d6 bludgeoning damage and is [[Conditions/Clumsy|Clumsy 1]] for 1 round.\n\n**Critical Failure** As failure, but the creature is [[Conditions/Clumsy|Clumsy 2]] for 1d4 rounds."

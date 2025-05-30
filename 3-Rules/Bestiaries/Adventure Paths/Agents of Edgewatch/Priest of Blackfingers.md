@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +24 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 10 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+24 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +24 (deadly d10, magical, propulsive, range increment 60 feet)\n__Damage__  2d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+24 (deadly d10, magical, propulsive, range increment 60 feet)\n__Damage__  2d6 + 1 piercing"
 
   - name: "Prepared Divine Spells"
     desc: "DC 32, attack +26; __6th __  _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __  _[[Spells/Death Ward|Death Ward]]_, _[[Spells/Flame Strike|Flame Strike]]_, _[[Spells/Shadow Blast|Shadow Blast]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Chilling Darkness|Chilling Darkness]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Silence|Silence]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_"

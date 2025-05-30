@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ghost Wrangler `pf2:1`
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[barbarian]][[divine]][[3-Rules/trait_reference/R/rage]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[barbarian]][[divine]][[rage]]
 
 **Category** class; 
 
@@ -23,5 +23,5 @@ license: OGL
 * * *
 Spirits around you coalesce upon your fists, enabling you to seize and harm other ghosts and spirits. Until the beginning of your next turn, your fists gain the effects of the ghost touch property rune, and you can make Strength-based skill checks against incorporeal creatures.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You channel the blessings of Nalinivati to transform into a manifestation of her will. You can cast 5th-rank [[Animal Form|Animal Form]] as an occult innate spell once per day, but you can choose only snake form with the spell. You can spend an additional action casting _animal form_ to also cast 5th-rank [[3-Rules/Character Building/Spells/S/Slither|Slither]] centered on your location; Nalinivati's will ensures that the shadow snakes created by the spell never harm you, so you're unaffected by the spell. If you Dismiss animal form, the effects of _slither_ end as well.
+You channel the blessings of Nalinivati to transform into a manifestation of her will. You can cast 5th-rank [[Spells/Animal Form|Animal Form]] as an occult innate spell once per day, but you can choose only snake form with the spell. You can spend an additional action casting _animal form_ to also cast 5th-rank [[Spells/Slither|Slither]] centered on your location; Nalinivati's will ensures that the shadow snakes created by the spell never harm you, so you're unaffected by the spell. If you Dismiss animal form, the effects of _slither_ end as well.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

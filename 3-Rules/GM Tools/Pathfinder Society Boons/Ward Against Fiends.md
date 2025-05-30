@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Ward Against Fiends"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.GvPWLAjLYT1dKBTL"
 license: OGL
 ---
 # Ward Against Fiends
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

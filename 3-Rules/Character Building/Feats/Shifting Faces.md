@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-You wear many faces, even those that don't belong to you. When you Change Shape into your tailless form, you gain the effects of 3rd-rank [[Illusory Disguise|Illusory Disguise]] for 1 hour or until you shift back, except it's a transmutation effect rather than an illusion.
+You wear many faces, even those that don't belong to you. When you Change Shape into your tailless form, you gain the effects of 3rd-rank [[Spells/Illusory Disguise|Illusory Disguise]] for 1 hour or until you shift back, except it's a transmutation effect rather than an illusion.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

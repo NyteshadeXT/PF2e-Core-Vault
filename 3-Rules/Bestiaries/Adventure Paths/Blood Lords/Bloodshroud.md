@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap184-the-ghouls-hunger/assets/art/PZO90184_BLOODSHROUD.webp| ]]
 source: "Pathfinder #184: The Ghouls Hunger"
 name: "Bloodshroud"
 level: "Creature 13"
@@ -53,6 +54,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Greatsword|+1 Striking Greatsword]]"
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Bloodshift"
@@ -61,14 +65,17 @@ abilities_mid:
   - name: "Sanguine Shroud"
     desc: " (death,occult) The bloodshroud is enveloped by a shroud of flowing blood. If a creature deals damage to a bloodshroud with a melee Strike or touches the bloodshroud, the creature must attempt a DC 30 Fortitude check save. Any temporary Hit Points the bloodshroud gains from Sanguine Shroud fade after 1 hour.\n* * *\n\n**Critical Success** As success, but the creature becomes temporarily immune to Sanguine Shroud for 24 hours.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature becomes [[Conditions/Drained|Drained 1]] and takes 2d6 bleed damage. The bloodshroud gains 15 temporary Hit Points.\n\n**Critical Failure** As failure, but the creature becomes [[Conditions/Drained|Drained 2]], and the bloodshroud gains 25 temporary Hit Points."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +26 (magical, versatile p)\n__Damage__  3d10 + 15 slashing"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+26 (magical, versatile p)\n__Damage__  3d10 + 15 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +25 (agile, finesse)\n__Damage__  3d8 + 14 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+25 (agile, finesse, unarmed)\n__Damage__  3d8 + 14 slashing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 33, attack +25; __8th __  _[[Spells/Polar Ray|Polar Ray (x3)]]_; __7th __  _[[Spells/Disintegrate|Disintegrate]]_; __6th __  _[[Spells/Acid Arrow|Acid Arrow (x3)]]_, _[[Spells/Chromatic Ray|Chromatic Ray (x3)]]_, _[[Spells/Blazing Bolt|Scorching Ray (x3)]]_, _[[Spells/Shocking Grasp|Shocking Grasp (x3)]]_"

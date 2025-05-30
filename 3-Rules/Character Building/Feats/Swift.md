@@ -24,5 +24,5 @@ You move with the wind always at your back. Your Speed increases by 5 feet.
 
 **Special** The Speed increase from this feat isn't cumulative with any Speed increase from your ancestry feats (such as Nimble Elf).
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 (unholy)\n__Damage__  2d8 + 7 piercing plus knockdown"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (unarmed, unholy)\n__Damage__  2d8 + 7 piercing plus knockdown"
 
   - name: "Caustic Drool"
     desc: "`pf2:1` (acid) Caustic saliva drips from the warhound's mouth. Until the end of its turn, the abyssal warhound's jaws Strike deals an additional 2 points of acid damage on a successful attack, or 4 points on a critical success.\n\n[[Bestiary Effects/Effect_ Caustic Drool|Effect: Caustic Drool]]"
@@ -79,7 +79,7 @@ attacks:
     desc: "`pf2:r` (auditory,emotion,fear,mental) **Trigger** A creature targets the warhound with a melee Strike\n* * *\n\n**Effect** The warhound [[Actions/Demoralize|Demoralizes]] the triggering creature and does not take a penalty for not speaking a language. The results of this check occur before resolving the triggering Strike."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Card +7 (finesse)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` Card"
+    desc: "+7 (finesse)\n__Damage__  1d4 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Card +7 (agile, range increment 30 feet)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Ranged** `pf2:1` Card"
+    desc: "+7 (agile, range increment 30 feet)\n__Damage__  1d4 + 2 slashing"
 
   - name: "Innate Occult Spells"
     desc: "DC 17, attack +9; __1st __  _[[Spells/Bless|Bless]]_, _[[Spells/Ill Omen|Ill Omen]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(1st)__ _[[Spells/Guidance|Guidance]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_"

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-For 1 round, the slime whip deals acid damage rather than slashing damage. If the attack deals persistent damage, the persistent damage is also acid damage instead of its usual type.
+Granted by [[Equipment/Slime Whip|Slime Whip]]
+
+The slime whip deals acid damage rather than slashing damage. If the attack deals persistent damage, the persistent damage is also acid damage instead of its usual type.
 
 *Source: Pathfinder Adventure: The Slithering*
 *OGL*

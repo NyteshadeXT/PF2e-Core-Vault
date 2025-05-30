@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +15 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+15 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +15 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+15 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 6 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 21, attack +13; __3rd __ (2 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Secret Page|Secret Page]]_; __2nd __ (3 slots) _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Embed Message|Magic Mouth]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Shield|Shield]]_"

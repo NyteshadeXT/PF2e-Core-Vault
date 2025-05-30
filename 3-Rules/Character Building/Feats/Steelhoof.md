@@ -12,7 +12,7 @@ license: ORC
 ---
 # Steelhoof
 ## Feat 1
-### [[Centaur]]
+### [[centaur]]
 
 **Category** ancestry; 
 

@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +26 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 5 piercing 1d6 sonic"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+26 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 5 piercing 1d6 sonic"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +26 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  3d4 + 5 piercing 1d6 sonic"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+26 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  3d4 + 5 piercing 1d6 sonic"
 
   - name: "Primal Spontaneous Spells"
     desc: "DC 33, attack +25; __7th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Interplanar Teleport|Interplanar Teleport]]_, _[[Spells/Sunburst|Sunburst]]_, _[[Spells/Unfettered Pack|Unfettered Pack]]_; __6th __ (4 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Cursed Metamorphosis|Cursed Metamorphosis]]_, _[[Spells/Dragon Form|Dragon Form]]_, _[[Spells/Nature's Pathway|Nature's Pathway]]_, _[[Spells/Repulsion|Repulsion]]_; __5th __ (4 slots) _[[Spells/Elemental Form|Elemental Form]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Plant Form|Plant Form]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_, _[[Spells/Wave of Despair|Wave of Despair]]_; __4th __ (4 slots) _[[Spells/Aerial Form|Aerial Form]]_, _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Dinosaur Form|Dinosaur Form]]_, _[[Spells/Vapor Form|Vapor Form]]_, _[[Spells/Vital Beacon|Vital Beacon]]_; __3rd __ (4 slots) _[[Spells/Animal Vision|Animal Vision]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Insect Form|Insect Form]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __ (4 slots) _[[Spells/Animal Form|Animal Form]]_, _[[Spells/Calm|Calm]]_, _[[Spells/Create Food|Create Food]]_, _[[Spells/Humanoid Form|Humanoid Form]]_, _[[Spells/Speak with Animals|Speak with Animals]]_; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Pest Form|Pest Form]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Tangle Vine|Tangle Vine]]_"

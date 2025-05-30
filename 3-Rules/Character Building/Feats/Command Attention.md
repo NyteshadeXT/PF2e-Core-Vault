@@ -18,7 +18,7 @@ license: ORC
 ---
 # Command Attention `pf2:1`
 ## Feat 10
-### [[archetype]][[auditory]][[3-Rules/trait_reference/A/aura]][[concentrate]][[emotion]][[3-Rules/trait_reference/M/mental]][[visual]]
+### [[archetype]][[auditory]][[aura]][[concentrate]][[emotion]][[mental]][[visual]]
 
 **Category** class; 
 
@@ -26,7 +26,7 @@ license: ORC
 
 **Prerequisites** Celebrity Dedication
 * * *
-You command the attention of all around you with style, ensuring their gaze falls only upon you until the end of your next turn. Whenever a creature in a @Template\[emanation|distance:30\] around you attempts a saving throw against a different visual effect, it gets a result one degree of success better than it rolled. This is a fortune effect.
+You command the attention of all around you with style, ensuring their gaze falls only upon you until the end of your next turn. Whenever a creature in a 30-foot emanation around you attempts a saving throw against a different visual effect, it gets a result one degree of success better than it rolled. This is a fortune effect.
 
 When an enemy within the aura attempts to use a visual effect that involves focusing its attention on a particular creature (such as a medusa's Focus Gaze), it must succeed at a Will check save against your class DC or spell DC, whichever is higher, in order to target any creature except you.
 

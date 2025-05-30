@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You gain a +1 circumstance bonus to their Will save against the triggering effect, or a +2 circumstance bonus if the effect originated from an undead.
+Granted by [[Feats/Inspiring Resilience|Inspiring Resilience]]
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+You gain a +1 circumstance bonus to your Will save against the triggering effect, or a +2 circumstance bonus if the effect originated from an undead.
+
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

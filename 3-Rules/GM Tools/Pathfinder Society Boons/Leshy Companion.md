@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Leshy Companion"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.Mu5GQ9ZEz3geAYxK"
 license: OGL
 ---
 # Leshy Companion
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

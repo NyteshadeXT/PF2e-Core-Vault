@@ -24,5 +24,5 @@ Your eyes blaze with inner flame. You gain low-light vision, or you gain darkvis
 
 **Special** If your ancestry has neither low-light vision nor darkvision, you can take this ancestry feat a second time to gain darkvision. You can't retrain out of this feat.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

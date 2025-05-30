@@ -56,14 +56,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile, finesse)\n__Damage__  2d8 + 2 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, finesse, unarmed)\n__Damage__  2d8 + 2 slashing"
 
   - name: "Arcane Innate Spells"
-    desc: "DC 22, attack +14; __3rd __  _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Enlarge|Enlarge]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Breathe Fire|Burning Hands (x2)]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(3rd)__ _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_"
+    desc: "DC 22, attack +14; __3rd __  _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Enlarge|Enlarge]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Breathe Fire|Burning Hands (x2)]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_"
  
 ```
 

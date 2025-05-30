@@ -66,14 +66,17 @@ abilities_mid:
   - name: "Tangling Kelp"
     desc: "`pf2:r`  **Trigger** A creature attempts a melee attack against a zombie grindylow with a bludgeoning or slashing weapon\n* * *\n\n**Effect** The creature must succeed at a DC 13 Reflex check saving throw or become tangled in the kelp that surrounds the zombie grindylow, giving the creature a -10 circumstance penalty to its Speeds until it spends a manipulate action to remove the kelp."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +7 (agile, finesse, trip)\n__Damage__  1d4 + 2 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+7 (agile, finesse, trip, unarmed)\n__Damage__  1d4 + 2 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

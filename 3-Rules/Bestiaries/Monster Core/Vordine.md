@@ -55,31 +55,37 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Whip|Whip]], [[Equipment/Trident|Trident]], [[Equipment/Breastplate|Breastplate]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Trident +15 (magical, unholy)\n__Damage__  1d8 + 10 piercing"
+  - name: "**Melee** `pf2:1` Trident"
+    desc: "+15 (magical, unholy)\n__Damage__  1d8 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +15 (disarm, finesse, magical, nonlethal, reach 10 feet, trip, unholy)\n__Damage__  1d4 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+15 (disarm, finesse, magical, nonlethal, reach 10 feet, trip, unholy)\n__Damage__  1d4 + 10 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +15 (agile, magical, unholy)\n__Damage__  1d4 + 7 bludgeoning 1d4 fire"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+15 (agile, magical, unholy)\n__Damage__  1d4 + 7 bludgeoning 1d4 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +13 (magical, thrown 20 ft., unholy)\n__Damage__  1d8 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+13 (magical, thrown 20 ft., unholy)\n__Damage__  1d8 + 10 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 19, attack +11; __4th __  _[[Spells/Translocate|Translocate (At Will)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Diabolic Pact|Diabolic Pact]]_"
+    desc: "_Diabolic Pact_"
 
   - name: "Burning Hoofprints"
     desc: "`pf2:2` (divine,fire,unholy) The vordine Strides, trailing hoofprints in each square they exit. The hoofprints burn for 1 minute. A creature on the ground that enters a square with burning hoofprints or begins its turn in one takes 1d4 fire damage."

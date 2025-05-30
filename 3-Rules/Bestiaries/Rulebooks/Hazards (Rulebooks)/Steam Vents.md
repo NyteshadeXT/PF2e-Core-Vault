@@ -5,12 +5,14 @@ noteType: pf2eHazard
 tags:
   - mechanical
   - trap
+  - steam
   - pf2eHazard
 
+  - remaster
 source: Pathfinder Guns &amp; Gears
 aliases: "Compendium.pf2e.hazards.Actor.OSPYSuckHhHl4Cr9" 
 level: 4
-license: OGL
+license: ORC
 statblock: inline
 ---
 
@@ -25,6 +27,7 @@ level: "Hazard 4"
 
 trait_01: [[mechanical]]
 trait_02: [[trap]]
+trait_03: [[steam]]
 modifier: 22
 sourcebook: "_Pathfinder Guns & Gears_"
 ac: 20

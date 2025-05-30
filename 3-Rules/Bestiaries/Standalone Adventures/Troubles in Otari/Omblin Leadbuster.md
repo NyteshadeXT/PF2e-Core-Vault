@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +11 (deadly d8, finesse)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+11 (deadly d8, finesse)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +11 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+11 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Omblin deals an extra 1d6 to creatures that have the [[Conditions/Off-Guard|Off-Guard]] condition."

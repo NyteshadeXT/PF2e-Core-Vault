@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +17 (deadly d8)\n__Damage__  2d8 + 8 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+17 (deadly d8)\n__Damage__  2d8 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +16 (range increment 60 feet)\n__Damage__  2d4 + 8 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+16 (range increment 60 feet)\n__Damage__  2d4 + 8 bludgeoning"
 
   - name: "Spew Shale"
     desc: "`pf2:2` (earth,primal) The shale charger spews forth a frothy mix of scree and mud in a 20-foot cone, dealing 4d6 piercing damage (DC 23 basic Reflex save). Creatures who critically fail their saving throw are also [[Conditions/Dazzled|Dazzled]] for 1 minute."

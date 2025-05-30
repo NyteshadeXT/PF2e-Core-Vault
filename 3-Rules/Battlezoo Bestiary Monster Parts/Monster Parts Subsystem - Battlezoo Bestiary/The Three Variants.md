@@ -20,7 +20,7 @@ Alternatively, the GM can simply add the Light variant without removing other re
 
 # Identifying Monster Part Items
 
-Items made of monster parts gain a magic of their own, and can be identified just like other magic items can. However, since this system deemphasizes the benefits of the Crafting skill, you might consider allowing the Crafting skill to identify all items built using the system, as a character with deep knowledge of the process of crafting and the use of different crafting components from various creatures might be able to use that to identify the effect of the finished product. This removes much of the value of the Crafter's Appraisal skill feat from the _Advanced Player's Guide_, but it nonetheless could be a useful tweak to add more value to the Crafting skill in a game using the Monster Parts system, especially the full variant.
+Items made of monster parts gain a magic of their own, and can be identified just like other magic items can. However, since this system deemphasizes the benefits of the Crafting skill, you might consider allowing the Crafting skill to identify all items built using the system, as a character with deep knowledge of the process of crafting and the use of different crafting components from various creatures might be able to use that to identify the effect of the finished product. This removes much of the value of the [[Feats/Crafter's Appraisal|Crafter's Appraisal]] skill feat from the _Advanced Player's Guide_, but it nonetheless could be a useful tweak to add more value to the Crafting skill in a game using the Monster Parts system, especially the full variant.
 
 # Investing Monster Part Items
 

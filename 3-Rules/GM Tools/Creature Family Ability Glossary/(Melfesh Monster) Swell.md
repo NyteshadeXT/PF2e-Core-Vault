@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Melfesh Monster) Swell"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.d6eWuFd6pw6ffvPC"
 license: OGL
@@ -25,5 +25,5 @@ license: OGL
 
 [[Bestiary Effects/Effect_ Swell|Effect: Swell]]
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

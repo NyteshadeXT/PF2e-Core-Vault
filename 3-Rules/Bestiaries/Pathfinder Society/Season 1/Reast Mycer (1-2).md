@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flail +9 (disarm, sweep, trip)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Flail"
+    desc: "+9 (disarm, sweep, trip)\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +9 (agile, nonlethal)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+9 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 3 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +7 (thrown 10 ft.)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+7 (thrown 10 ft.)\n__Damage__  1d4 + 3 bludgeoning"
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 18, attack +10; __1st __ (4 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_"

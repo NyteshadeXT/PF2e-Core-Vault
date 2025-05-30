@@ -56,14 +56,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tusks +9 (deadly d10)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Tusks"
+    desc: "+9 (deadly d10)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Slime Squirt +7 (range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Slime Squirt"
+    desc: "+7 (range increment 30 feet)\n__Damage__ "
 
   - name: "Belly Grease"
-    desc: "`pf2:3`  The slurk extrudes a slippery grease from its ventral glands to coat the floor under it and in a @Template[emanation|distance:5], turning the affected area into uneven ground for 10 minutes, after which it dries to a putrid crust. The DC to Balance across the slime is 17."
+    desc: "`pf2:3`  The slurk extrudes a slippery grease from its ventral glands to coat the floor under it and in a 5-foot emanation, turning the affected area into uneven ground for 10 minutes, after which it dries to a putrid crust. The DC to Balance across the slime is 17."
 
   - name: "Entangling Slime"
     desc: "  A creature struck by a slurk's slime squirt becomes [[Conditions/Clumsy|Clumsy 1]] and takes a -5-foot penalty to Speed for 1 hour or until the slime is removed. The slime can be removed with a total of three Interact actions by the entangled creature or creatures adjacent to the creature.\n\nThese actions don't need to be consecutive or made by the same creature."

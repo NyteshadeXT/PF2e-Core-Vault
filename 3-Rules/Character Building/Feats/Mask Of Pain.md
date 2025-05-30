@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Mask Of Pain"
+title: "Mask of Pain"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/orc
@@ -9,7 +9,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.ByqxxJkJiNFtjghh"
 license: OGL
 ---
-# Mask Of Pain `pf2:r`
+# Mask of Pain `pf2:r`
 ## Feat 9
 ### [[orc]]
 
@@ -29,5 +29,5 @@ license: OGL
 
 Your mask has grown into a manifestation of your pain, which you can release. The creature you successfully Demoralized takes 2d6 mental damage, or 4d6 mental damage if you're legendary in Intimidation. The target is then temporarily immune to additional damage from Mask of Pain for 24 hours.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

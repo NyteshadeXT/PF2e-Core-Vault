@@ -53,7 +53,7 @@ abilities_top:
   - name: ""
 
   - name: "Wind-Up"
-    desc: "  24 hours, DC 29 Thievery check, standby\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  24 hours, [[Actions/disable-device dc=19|disable-device dc=19]]{DC 19 Thievery}, standby\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
@@ -66,20 +66,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tusk +21 (reach 15 feet)\n__Damage__  3d8 + 15 piercing"
+  - name: "**Melee** `pf2:1` Tusk"
+    desc: "+21 (reach 15 feet, unarmed)\n__Damage__  3d8 + 15 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Trunk +21 (reach 15 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Trunk"
+    desc: "+21 (reach 15 feet)\n__Damage__ "
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +21 (reach 10 feet)\n__Damage__  3d10 + 15 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+21 (reach 10 feet, unarmed)\n__Damage__  3d10 + 15 bludgeoning"
 
   - name: "Dual Tusks"
     desc: "`pf2:1`  The glass elephant makes two tusk Strikes, each against a different creature. This counts as one attack for the elephant's multiple attack penalty, and the penalty doesn't increase until after both attacks."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, DC 32 Reflex check"
+    desc: "`pf2:3`  Large or smaller, foot, DC 32 Reflex check\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
 
   - name: "Grabbing Trunk"
     desc: "  A Medium or smaller creature hit by the glass elephant's trunk is [[Conditions/Grabbed|Grabbed]]. If the elephant moves, it can bring the grabbed creature along with it."

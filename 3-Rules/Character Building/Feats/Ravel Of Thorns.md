@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Ravel Of Thorns"
+title: "Ravel of Thorns"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/impulse
@@ -15,9 +15,9 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.mHvkBdBN4gs6CH1g"
 license: OGL
 ---
-# Ravel Of Thorns `pf2:1`
+# Ravel of Thorns `pf2:1`
 ## Feat 4
-### [[impulse]][[kineticist]][[plant]][[primal]][[stance]][[Wood]]
+### [[impulse]][[kineticist]][[plant]][[primal]][[stance]][[wood]]
 
 **Category** class; 
 

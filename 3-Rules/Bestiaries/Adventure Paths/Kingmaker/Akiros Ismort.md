@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +12 (versatile p)\n__Damage__  1d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+12 (versatile p)\n__Damage__  1d8 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +8 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+8 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 2 piercing"
 
   - name: "No Escape"
     desc: "`pf2:r`  **Trigger** An adjacent foe moves away.\n* * *\n\n**Effect** Akiros can Stride up to his speed, following the triggering creature and keeping it in reach throughout its movement until it stops moving or Akiros has moved his full Speed."

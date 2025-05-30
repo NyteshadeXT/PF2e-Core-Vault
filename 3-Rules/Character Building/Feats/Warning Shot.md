@@ -6,8 +6,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.XQEoKoFtq8n3wgA3"
-license: OGL
+license: ORC
 ---
 # Warning Shot `pf2:1`
 ## Feat 2
@@ -23,7 +24,7 @@ license: OGL
 
 * * *
 
-Who needs words when the roar of a gun is so much more succinct? You attempt to [[Actions/Demoralize|Demoralize]] a foe by firing your weapon into the air, using the firearm's maximum range rather than the usual range of 30 feet. This check doesn't take the -4 circumstance penalty if the target doesn't share a language with you.
+Who needs words when the roar of a gun is so much more succinct? You attempt to [[Actions/Demoralize|Demoralize]] a foe by firing your weapon into the air, using the firearm's maximum range rather than the usual range of 30 feet. This check doesn't take the –4 circumstance penalty if the target doesn't share a language with you.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

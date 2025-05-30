@@ -64,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +22 (agile, finesse, versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+22 (agile, finesse, versatile s)\n__Damage__  1d4 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +23 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 9 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+23 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +22 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+22 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
 
   - name: "Impromptu Toxin"
     desc: "`pf2:1` (alchemical,manipulate,poison) **Cost** 1 batch of infused reagents\n* * *\n\n**Effect** The poisoner dribbles a few experimental chemicals over a melee weapon. Until the start of their next turn, Strikes with the weapon deal an additional 2d8 poison damage, and targets hit by Strikes with the weapon must succeed at a DC 27 Fortitude check save or become [[Conditions/Enfeebled|Enfeebled 1]] or [[Conditions/Clumsy|Clumsy 1]] (the poisoner's choice) for 1d4 rounds."

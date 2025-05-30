@@ -49,7 +49,10 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "+2 Greater Striking Keen Wounding Dawnsilver Shortsword"
+    desc: "[[Equipment/Shortsword|+2 Greater Striking Keen Wounding Dawnsilver Shortsword]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Aura of Whispered Secrets"
@@ -61,20 +64,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +33 ()\n__Damage__  3d12 + 14 piercing plus jorogumo-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+33 (unarmed)\n__Damage__  3d12 + 14 piercing plus jorogumo-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +36 (agile, finesse, magical, versatile s)\n__Damage__  1d6 bleed 3d6 + 14 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+36 (agile, finesse, magical, versatile s)\n__Damage__  1d6 bleed 3d6 + 14 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Web +34 (range increment 60 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Web"
+    desc: "+34 (range increment 60 feet)\n__Damage__ "
 
   - name: "Occult Innate Spells"
     desc: "DC 34, attack +26; __9th __  _[[Spells/Speak with Animals|Speak with Animals (Constant, Spiders Only)]]_, _[[Spells/Summon Animal|Summon Animal (Spiders Only)]]_; __8th __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Outcast's Curse|Outcast's Curse (x3)]]_, _[[Spells/Pinpoint|Pinpoint]]_, _[[Spells/Quandary|Quandary]]_, _[[Spells/Suggestion|Suggestion (x3)]]_; __7th __  _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Mind Reading|Mind Reading (At Will)]]_\n__Constant__  __(9th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The jorogumo takes on the appearance of any Small or Medium spider. This doesn't change their Speed or Strikes.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The jorogumo takes on the appearance of any Small or Medium spider. This doesn't change their Speed or Strikes.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Jorogumo Venom"
     desc: " (incapacitation,poison) **Saving Throw** DC 41 Fortitude check\n* * *\n\n**Maximum Duration** 4 hours\n\n**Stage 1** 3d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 3d6 poison damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)\n\n**Stage 3** 4d6 poison damage and Stupefied 2 (1 round)\n\n**Stage 4** [[Conditions/Paralyzed|Paralyzed]] for 1d4 hours"

@@ -20,5 +20,5 @@ license: OGL
 
 You can whip your tail around to lash items from the unwary's grip. You attempt to [[Actions/Disarm|Disarm]] a creature, ignoring the requirement that you must have at least one hand free. As normal, your tail can't hold the items it disarms.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

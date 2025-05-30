@@ -57,20 +57,20 @@ abilities_top:
     desc: "[[Equipment/Breastplate|+1 Breastplate]], [[Equipment/Religious Symbol (Wooden)|Bone Religious Symbol (Venexus)]], [[Equipment/Runescribed Disk|Runescribed Disk]]"
 abilities_mid:
   - name: ""
-  - name: "[[Actions/Reactive Strike|Attack of Opportunity]]"
-    desc: "`pf2:r`  **Trigger** A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\nYou lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a manipulate action, you disrupt that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike."
+  - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bone Spur +20 ()\n__Damage__  2d10 + 6 piercing 1d10 void"
+  - name: "**Melee** `pf2:1` Bone Spur"
+    desc: "+20 ()\n__Damage__  2d10 + 6 piercing 1d10 void"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile)\n__Damage__  2d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, unarmed)\n__Damage__  2d8 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bone Bolt +20 (range increment 30 feet)\n__Damage__  1d10 + 6 piercing 1d10 void"
+  - name: "**Ranged** `pf2:1` Bone Bolt"
+    desc: "+20 (range increment 30 feet)\n__Damage__  1d10 + 6 piercing 1d10 void"
 
   - name: "Dual Assault"
     desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** Desiak makes either two claw Strikes or a bone spur Strike and a claw Strike. Both Strikes are against the same target and are made with his current multiple attack penalty. This counts as two attacks when calculating Desiak's multiple attack penalty."

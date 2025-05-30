@@ -67,20 +67,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +26 (agile, finesse)\n__Damage__  4d6 + 16 slashing plus disarm"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+26 (agile, finesse, unarmed)\n__Damage__  4d6 + 16 slashing plus disarm"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +26 (finesse)\n__Damage__  4d8 + 16 piercing 2d8 poison"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+26 (finesse, unarmed)\n__Damage__  4d8 + 16 piercing 2d8 poison"
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +39 (deadly d8, disarm, finesse, magical)\n__Damage__  4d6 + 16 piercing 1d6 electricity 1d6 bleed"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+39 (deadly d8, disarm, finesse, magical)\n__Damage__  4d6 + 16 piercing 1d6 electricity 1d6 bleed"
 
   - name: "Occult Innate Spells"
     desc: "DC 44, attack +36; __10th __  _[[Spells/Alter Reality|Alter Reality]]_; __9th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Telepathic Demand|Telepathic Demand]]_; __8th __  _[[Spells/Disappearance|Disappearance]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Interplanar Teleport|Plane Shift]]_, _[[Spells/Teleport|Teleport]]_\n__Cantrips__  __(10th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) Werendegar changes into his natural form or that of any humanoid. In humanoid form, he loses his thorny aura, and his equipment appears to be trinkets or toys. As a humanoid that lacks claws or fangs, he loses the matching Strike. If he loses his claw Strike, he gains a fist Strike that is identical except that it deals bludgeoning damage.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) Werendegar changes into his natural form or that of any humanoid. In humanoid form, he loses his thorny aura, and his equipment appears to be trinkets or toys. As a humanoid that lacks claws or fangs, he loses the matching Strike. If he loses his claw Strike, he gains a fist Strike that is identical except that it deals bludgeoning damage.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Disarm"
     desc: "`pf2:2`  **Requirement** Werendegar's last action was a success with a Strike that has Disarm in its damage entry.\n* * *\n\n**Effect** Werendegar knocks a held or carried weapon to the ground in the target's space."
@@ -104,6 +104,6 @@ Variant male glimmerling
 
 Gimmerlings are small, shapeshifting fey who stage ambushes to sate their endless hunger and childish greed. These cruelly curious fey obsess over finding and making unusual traps and sadistic weapons, and their favorite amusement is se eing these traps sprung or the weapons wielded. When on the Material Plane, they are frequently found in urban areas, particularly slums or other parts of town where they can either go unnoticed or be easily forgotten-and have plenty of victims to choose from.
 
-A typical gimmerling disguises itself as an endangered child, doing so in hopes of drawing creatures close enough to rob. The gimmerling puts itself in apparent danger using a trap, construct, or bribed ally, or even a coerced monster like a [[3-Rules/Bestiaries/Bestiary 1/R/Redcap|Redcap]].
+A typical gimmerling disguises itself as an endangered child, doing so in hopes of drawing creatures close enough to rob. The gimmerling puts itself in apparent danger using a trap, construct, or bribed ally, or even a coerced monster like a [[Monster Core/Redcap|Redcap]].
 
 Because gimmerlings sometimes trade obscure smithing or trapping techniques in exchange for gifts that sate their curiosity, their greed, or their hunger, they have at times been worshipped as minor gods of the forge. Some disciplined gimmerlings work as honored artisans, elite guards, or spies for the demigods known as the Eldest who dwell in the depths of the First World.

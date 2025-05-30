@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Glaive +14 (deadly d8, forceful, magical, reach 10 feet)\n__Damage__  1d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Glaive"
+    desc: "+14 (deadly d8, forceful, magical, reach 10 feet)\n__Damage__  1d8 + 6 slashing"
 
   - name: "Primal Spontaneous Spells"
-    desc: "DC 25, attack +17; __4th __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __ (4 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Slow|Slow]]_; __2nd __ (4 slots) _[[Spells/Animal Messenger|Animal Messenger]]_, _[[Spells/Create Food|Create Food]]_, _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_; __1st __ (4 slots) _[[Spells/Alarm|Alarm]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 25, attack +17; __4th __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __ (4 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Slow|Slow]]_; __2nd __ (4 slots) _[[Spells/Animal Messenger|Animal Messenger]]_, _[[Spells/Create Food|Create Food]]_, _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_; __1st __ (4 slots) _[[Spells/Alarm|Alarm]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Sorcerer Bloodline Spells"
     desc: "2 Focus Points, DC 25, attack +17; __4th __  _[[Spells/Faerie Dust|Faerie Dust]]_, _[[Spells/Fey Disappearance|Fey Disappearance]]_"

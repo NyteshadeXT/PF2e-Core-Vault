@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You position your shield to protect yourself. When you have Raised a Shield, you gain its listed circumstance bonus to AC. Your shield remains raised until the start of your next turn.
+Granted by [[Actions/Raise a Shield|Raise a Shield]]
+
+When you have Raised a Shield, you gain its listed circumstance bonus to AC.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

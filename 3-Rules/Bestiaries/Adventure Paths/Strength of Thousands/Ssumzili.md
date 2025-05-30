@@ -58,6 +58,9 @@ abilities_top:
   - name: "Precipitation Camouflage"
     desc: "  A ssumzili can [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]] in rainfall, even if it doesn't have cover."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Standing Water"
@@ -66,8 +69,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +24 (agile, finesse)\n__Damage__  3d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+24 (agile, finesse, unarmed)\n__Damage__  3d8 + 7 slashing"
 
   - name: "Innate Primal Spells"
     desc: "DC 29, attack +21; __5th __  _[[Spells/Transmute Rock And Mud|Transmute Rock And Mud]]_; __4th __  _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_; __3rd __  _[[Spells/Earthbind|Earthbind]]_; __2nd __  _[[Spells/Vanishing Tracks|Pass Without Trace]]_, _[[Spells/Quench|Quench]]_, _[[Spells/Water Walk|Water Walk]]_; __1st __  _[[Spells/Negate Aroma|Negate Aroma]]_\n__Constant__  __(2nd)__ _[[Spells/Environmental Endurance|Endure Elements (Cold)]]_"

@@ -18,6 +18,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap185-a-taste-of-ashes/assets/art/PZO90185 Ghiasi the Unraveller.webp| ]]
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Ghiasi"
 level: "Creature 17"
@@ -66,17 +67,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shadow&#x27;s Heart +33 (agile, finesse, magical, trip)\n__Damage__  3d6 + 15 slashing 2d6 cold"
+  - name: "**Melee** `pf2:1` Shadow&#x27;s Heart"
+    desc: "+33 (agile, finesse, magical, trip)\n__Damage__  3d6 + 15 slashing 2d6 cold"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +30 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 15 piercing 2d6 cold"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+30 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 15 piercing 2d6 cold"
 
   - name: "Occult Innate Spells"
     desc: "DC 38, attack +30; __9th __  _[[Spells/Overwhelming Presence|Overwhelming Presence]]_, _[[Spells/Weird|Weird]]_; __8th __  _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_, _[[Spells/Unrelenting Observation|Unrelenting Observation]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self Only; to Shadow Plane or Material Plane Only)]]_, _[[Spells/Shadow Blast|Shadow Blast (x3)]]_; __5th __  _[[Spells/Scouting Eye|Prying Eye]]_; __4th __  _[[Spells/Vapor Form|Gaseous Form (At Will)]]_, _[[Spells/Honeyed Words|Glibness]]_\n__Cantrips__  __(9th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Binding Circle|Planar Binding]]_, _[[Spells/Split Shadow|Split Shadow]]_"
+    desc: "_Planar Binding_, _Split Shadow_"
 
   - name: "Shadow Gate"
     desc: "`pf2:1` (occult,shadow) Ghiasi opens or closes a gate between Twined Stories and the House of Inspiring Shadows, although the gate must be opened in the same place each time. It remains open until she uses this ability again, but she can't close the gate until at least 10 minutes after she opens it."

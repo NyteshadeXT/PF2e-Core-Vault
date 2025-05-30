@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Fortify Camp"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.KvVdGkUi0iJwapvD"
 license: OGL

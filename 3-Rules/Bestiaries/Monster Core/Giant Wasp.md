@@ -55,8 +55,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +12 (poison)\n__Damage__  1d12 + 4 piercing plus giant-wasp-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+12 (poison)\n__Damage__  1d12 + 4 piercing plus giant-wasp-venom"
 
   - name: "Giant Wasp Venom"
     desc: " (incapacitation,poison) **Saving Throw** DC 19 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** no effect (1 round)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 2]] (1 round)\n\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] (1 round)"

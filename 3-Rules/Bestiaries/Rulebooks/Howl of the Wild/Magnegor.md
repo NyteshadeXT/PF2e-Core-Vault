@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +17 (reach 10 feet)\n__Damage__  2d8 + 5 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+17 (reach 10 feet, unarmed)\n__Damage__  2d8 + 5 piercing"
 
   - name: "Excavating Spines"
     desc: " (earth) The magnegor inadvertently digs a 10-foot-deep continuous trench in any square it Wallows through, as long as the ground in that space isn't made of stone, rock, or some other surface too hard to excavate. The trench is greater difficult terrain. At the GM's discretion, any excavated square can reveal a deposit of sedimentary rock filled with metal ore that has Hardness 7 and 28 Hit Points."

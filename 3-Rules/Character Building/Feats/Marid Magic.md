@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You channel the magic of marids. You can cast [[Hydraulic Push|Hydraulic Push]] and [[Mist|Mist]] each once per day as 2nd-rank arcane innate spells.
+You channel the magic of marids. You can cast [[Spells/Hydraulic Push|Hydraulic Push]] and [[Spells/Mist|Mist]] each once per day as 2nd-rank arcane innate spells.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

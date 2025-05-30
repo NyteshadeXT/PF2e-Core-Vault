@@ -16,7 +16,7 @@ license: OGL
 ---
 # Volcanic Escape `pf2:r`
 ## Feat 6
-### [[3-Rules/trait_reference/F/fire]][[impulse]][[kineticist]][[overflow]][[primal]]
+### [[fire]][[impulse]][[kineticist]][[overflow]][[primal]]
 
 **Category** class; 
 

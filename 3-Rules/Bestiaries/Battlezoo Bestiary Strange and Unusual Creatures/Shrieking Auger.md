@@ -33,7 +33,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Athletics: +15, Deception: +16, Stealth: +18, Acrobatics: +18, Athletics: +15, Deception: +16, Stealth: +18"
+    desc: "Acrobatics: +18, Athletics: +15, Deception: +16, Stealth: +18"
 abilityMods: [3, 6, 3, -1, 4, 3]
 speed: 35 feet,  climb 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -54,8 +54,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +21 (fatal d12, finesse)\n__Damage__  2d8 + 7 piercing plus attach"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+21 (fatal d12, finesse)\n__Damage__  2d8 + 7 piercing plus attach"
 
   - name: "Attach"
     desc: "  When a shrieking auger hits a target larger than itself, it quickly burrows its horn into that creature' body. This is similar to [[Conditions/Grabbed|Grabbing]] the creature, but the shrieking auger moves with that creature rather than holding it in place. The shrieking auger is [[undefined]] while attached. While attached, the shrieking auger can only Strike the creature to which it is attached."

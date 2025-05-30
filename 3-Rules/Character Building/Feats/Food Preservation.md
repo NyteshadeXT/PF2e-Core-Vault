@@ -24,5 +24,5 @@ Your techniques extend the storage life for certain ingredients and food through
 
 The number of items you can preserve during your daily preparation and the maximum number of items you can have preserved before spoiling older items increases to two if you're an expert in Crafting or Cooking Lore, to three if you're a master, and to five if you're legendary.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

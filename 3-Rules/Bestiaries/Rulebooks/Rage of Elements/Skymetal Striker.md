@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Inubrix Fangs +17 (finesse, reach 10 feet)\n__Damage__  2d10 + 6 slashing plus phase-blade"
+  - name: "**Melee** `pf2:1` Inubrix Fangs"
+    desc: "+17 (finesse, reach 10 feet)\n__Damage__  2d10 + 6 slashing plus phase-blade"
 
-  - name: "Melee"
-    desc: "`pf2:1` Orichalcum Fangs +17 (finesse, reach 10 feet)\n__Damage__  2d12 + 6 slashing plus temporal-stutter"
+  - name: "**Melee** `pf2:1` Orichalcum Fangs"
+    desc: "+17 (finesse, reach 10 feet)\n__Damage__  2d12 + 6 slashing plus temporal-stutter"
 
   - name: "Phase Blade"
     desc: "  A skymetal striker's inubrix fangs Strike ignores damage resistance from metal armor's armor specialization effects and the circumstance bonus to AC from metal shields, and it doesn't trigger the Shield Block reaction from a metal shield."

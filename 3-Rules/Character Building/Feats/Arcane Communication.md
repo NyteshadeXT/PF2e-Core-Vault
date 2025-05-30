@@ -6,8 +6,9 @@ tags:
   - trait/automaton
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Lb8mrOF3W2VGSOpA"
-license: OGL
+license: ORC
 ---
 # Arcane Communication
 ## Feat 1
@@ -23,4 +24,4 @@ You can deliver silent messages. You gain touch telepathy, allowing you to commu
 **Enhancement** You can send your messages even further. Your telepathy gains a range of 10 feet, but you still have to share a language with your target.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

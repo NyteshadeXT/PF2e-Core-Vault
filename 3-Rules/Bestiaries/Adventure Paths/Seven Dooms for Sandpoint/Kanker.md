@@ -66,32 +66,35 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghast) Stench|Stench]]"
     desc: " (aura,olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 29 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] as long as it's sickened on a critical failure).\n\nWhile within the aura, the creature takes a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\n\n[[Bestiary Effects/Effect_ Stench|Effect: Stench]]"
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flail +25 (disarm, magical, sweep, trip)\n__Damage__  2d6 + 11 bludgeoning 1d6 mental"
+  - name: "**Melee** `pf2:1` Flail"
+    desc: "+25 (disarm, magical, sweep, trip)\n__Damage__  2d6 + 11 bludgeoning 1d6 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +24 (finesse)\n__Damage__  3d6 + 11 piercing plus ghast-ghast-fever,ghast-paralysis"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+24 (finesse, unarmed)\n__Damage__  3d6 + 11 piercing plus ghast-ghast-fever,ghast-paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +24 (agile, finesse)\n__Damage__  3d4 + 11 slashing plus ghast-paralysis"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+24 (agile, finesse, unarmed)\n__Damage__  3d4 + 11 slashing plus ghast-paralysis"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Greater Acid Flask +26 (range increment 30 feet)\n__Damage__  7 acid 1 acid 3d6 acid"
+  - name: "**Ranged** `pf2:1` Greater Acid Flask"
+    desc: "+26 (range increment 30 feet)\n__Damage__  7 acid 1 acid 3d6 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Greater Alchemist&#x27;s Fire +26 (range increment 30 feet)\n__Damage__  7 fire 3 fire 3d8 fire"
+  - name: "**Ranged** `pf2:1` Greater Alchemist&#x27;s Fire"
+    desc: "+26 (range increment 30 feet)\n__Damage__  7 fire 3 fire 3d8 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Greater Thunderstone +26 (range increment 30 feet)\n__Damage__  3d4 sonic 7 sonic"
+  - name: "**Ranged** `pf2:1` Greater Thunderstone"
+    desc: "+26 (range increment 30 feet)\n__Damage__  3d4 sonic 7 sonic"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead]]_, _[[Spells/Planar Servitor|Planar Servitor]]_"
+    desc: "_Create Undead_, _Planar Servitor_"
 
   - name: "[[Creature Family Ability Glossary/(Ghast) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** The ghast is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghast devours a chunk of the corpse and regains 7d6 Hit Points.\n\nIt can regain Hit Points from any given corpse only once.\n\nKanker can Consume Flesh from the trough of gore in the northern alcove of his laboratory (area **J12**) if he's adjacent to it."
+    desc: "`pf2:1` (manipulate) **Requirements** The ghast is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghast devours a chunk of the corpse and regains 7d6 healing Hit Points.\n\nIt can regain Hit Points from any given corpse only once.\n\nKanker can Consume Flesh from the trough of gore in the northern alcove of his laboratory (area **J12**) if he's adjacent to it."
 
   - name: "Expanded Splash"
     desc: "  When Kanker throws a bomb, he can maximize the bomb's explosive potential, allowing him to cause the bomb to deal 7 splash damage rather than the normal amount, and the splash damage affects every creature within 10 feet of the target."

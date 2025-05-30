@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pincer Claw +9 (finesse)\n__Damage__  1d8 - 2 piercing plus grab"
+  - name: "**Melee** `pf2:1` Pincer Claw"
+    desc: "+9 (finesse)\n__Damage__  1d8 - 2 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +9 (agile, finesse, magical, nonlethal, reach 0 feet, unarmed)\n__Damage__  1d4 - 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+9 (agile, finesse, magical, nonlethal, reach 0 feet, unarmed)\n__Damage__  1d4 - 2 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"
@@ -79,7 +79,7 @@ attacks:
     desc: " (curse,primal) A group of six jinkins can work together for an hour to imbue an item with a curse at a range of 60 feet. While this process is lengthy, it's also unobtrusive and can be performed while [[Actions/Hide|Hiding]]. Jinkins prefer to use this ability on magic items. The curse makes the item unreliable (DC 5 Flat check or waste any action to Interact with or Activate the item), adds a bizarre requirement to use the item, or imparts some other curse of a similar caliber."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

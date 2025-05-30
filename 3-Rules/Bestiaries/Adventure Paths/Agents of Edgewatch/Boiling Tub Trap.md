@@ -52,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Overflowing Boiling Water"
-    desc: "`pf2:r` **Trigger** The trip wire is pulled or severed\n* * *\n\n**Effect** An acid flask detonates, spraying acid at nearby creatures and causing the tub of boiling water to burst in the same direction.\n\nAll creatures in a @Template[cone|distance:5] east of the triggered boiling tub trap take 3d6 persistent acid damage, 3 acid splash damage, and 8d6+20 fire damage (DC 31 Reflex check save)."
+    desc: "`pf2:r` **Trigger** The trip wire is pulled or severed\n* * *\n\n**Effect** An acid flask detonates, spraying acid at nearby creatures and causing the tub of boiling water to burst in the same direction.\n\nAll creatures in a 5-foot cone east of the triggered boiling tub trap take 3d6 persistent acid damage, 3 acid splash damage, and 8d6+20 fire damage (DC 31 Reflex check save)."
 
 
 

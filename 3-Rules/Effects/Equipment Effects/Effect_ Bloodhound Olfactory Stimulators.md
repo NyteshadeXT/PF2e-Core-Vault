@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Your olfactory stimulators twitch as they gather even more information. You gain imprecise scent with a range of 30 feet for 1 minute.
+Granted by [[Equipment/Bloodhound Olfactory Stimulators|Bloodhound Olfactory Stimulators]]
+
+You gain imprecise scent with a range of 30 feet.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

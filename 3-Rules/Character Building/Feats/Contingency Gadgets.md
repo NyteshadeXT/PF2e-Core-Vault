@@ -6,8 +6,9 @@ tags:
   - trait/inventor
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.4st3fSYSrJrxwHOP"
-license: OGL
+license: ORC
 ---
 # Contingency Gadgets
 ## Feat 12
@@ -24,4 +25,4 @@ You are too brilliant to be caught off guard, and you always have just the right
 If you're legendary in Crafting, you can leave two contingency gadgets during your daily preparations, instead of just one.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

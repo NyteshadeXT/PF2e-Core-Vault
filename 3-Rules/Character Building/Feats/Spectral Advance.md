@@ -21,8 +21,9 @@ license: ORC
 
 
 
-
-You gain the [[3-Rules/Character Building/Spells/S/Spectral Advance|Spectral Advance]] devotion spell, which lets you move to an enemy, bypassing hindrances.
+**Prerequisites** blessed swiftness
+* * *
+You gain the [[Spells/Spectral Advance|Spectral Advance]] devotion spell, which lets you move to an enemy, bypassing hindrances.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

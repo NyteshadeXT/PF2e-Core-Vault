@@ -54,17 +54,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Torch +7 ()\n__Damage__  1d6 + 2 bludgeoning 1 fire"
+  - name: "**Melee** `pf2:1` Torch"
+    desc: "+7 ()\n__Damage__  1d6 + 2 bludgeoning 1 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +5 (agile, versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+5 (agile, versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +5 (thrown 10 ft.)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+5 (thrown 10 ft.)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +5 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+5 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "Torch Combatant"
     desc: "  A torchbearer is adept at attacking with torches and deals 1 persistent fire damage when they critically hit with a [[Equipment/Torch|Torch]]."

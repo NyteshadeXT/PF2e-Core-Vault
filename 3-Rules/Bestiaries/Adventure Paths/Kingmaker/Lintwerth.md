@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +24 (agile, finesse)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+24 (agile, finesse, unarmed)\n__Damage__  1d6 + 5 slashing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 30, attack +22; __5th __  _[[Spells/Elemental Form|Elemental Form]]_, _[[Spells/Revealing Light|Glitterdust]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (air,arcane,earth) Lintwerth breathes a cloud of dust in a @Template[cone|distance:15] that deals 6d6 slashing damage to each creature within the area (DC 30 Reflex check). The air in this area remains thick with dust for the next 4 rounds; while Lintwerth is in this area his fast healing functions normally, but other breathing creatures who end their turn in the area must make a DC 30 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure) from coughing on the dusty air. Lintwerth can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (air,arcane,earth) Lintwerth breathes a cloud of dust in a 15-foot cone that deals 6d6 slashing damage to each creature within the area (DC 30 Reflex check). The air in this area remains thick with dust for the next 4 rounds; while Lintwerth is in this area his fast healing functions normally, but other breathing creatures who end their turn in the area must make a DC 30 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure) from coughing on the dusty air. Lintwerth can't use Breath Weapon again for 1d4 rounds."
  
 ```
 

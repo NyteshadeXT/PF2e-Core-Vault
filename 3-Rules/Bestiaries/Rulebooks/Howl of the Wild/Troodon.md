@@ -31,7 +31,7 @@ trait_02: [[dinosaur]]
 modifier: 9
 perception:
   - name: "Perception"
-    desc: "+9; "
+    desc: "+9; Low-Light Vision, Scent (Imprecise) 30 Feet"
 languages: ""
 skills:
   - name: "Skills"
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 (finesse)\n__Damage__  1d8 + 1 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (finesse, unarmed)\n__Damage__  1d8 + 1 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +8 (agile, finesse)\n__Damage__  1d6 + 1 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+8 (agile, finesse, unarmed)\n__Damage__  1d6 + 1 slashing"
 
   - name: "Running Attack"
     desc: "`pf2:2`  The troodon Strides and makes a claw Strike at any point during that movement."

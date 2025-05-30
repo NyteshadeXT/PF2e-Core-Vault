@@ -54,6 +54,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense (Imprecise) 30 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Divine Deflection"
@@ -65,17 +71,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +22 (holy, magical, reach 10 feet)\n__Damage__  1d8 spirit 2d10 + 9 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+22 (holy, magical, reach 10 feet, unarmed)\n__Damage__  1d8 spirit 2d10 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +22 (agile, holy, magical)\n__Damage__  2d8 + 9 slashing 1d8 spirit"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+22 (agile, holy, magical)\n__Damage__  2d8 + 9 slashing 1d8 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +20 (holy, magical, reach 15 feet)\n__Damage__  1d8 spirit 2d10 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+20 (holy, magical, reach 15 feet)\n__Damage__  1d8 spirit 2d10 + 9 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +20 (agile, magical, reach 10 feet)\n__Damage__  1d8 spirit 1d10 + 9 slashing"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+20 (agile, magical, reach 10 feet)\n__Damage__  1d8 spirit 1d10 + 9 slashing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 29, attack +22; __4th __  _[[Spells/Unfettered Movement|Unfettered Movement]]_, _[[Spells/Vital Beacon|Vital Beacon]]_; __3rd __  _[[Spells/Bind Undead|Bind Undead]]_, _[[Spells/Ring of Truth|Ring of Truth]]_; __2nd __  _[[Spells/Clear Mind|Clear Mind]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Everlight|Everlight]]_, _[[Spells/Share Life|Share Life]]_, _[[Spells/Sound Body|Sound Body]]_; __1st __  _[[Spells/Bless|Bless]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Stabilize|Stabilize]]_"
@@ -90,7 +96,7 @@ attacks:
     desc: "`pf2:2` (concentrate,divine) The dragon chooses one effect to impose on creatures in their inspiring presence aura.\n\nThe dragon can't use Halo Pulse again for 1d4 rounds.\n\n*   **Repulsion** Each creature must succeed at a DC 29 Fortitude check save or be pushed until it's no longer in the aura.\n*   **Restoration** (healing, vitality) Each creature recovers 5d8 Hit Points."
 
   - name: "Spirit Breath"
-    desc: "`pf2:2` (divine,holy,spirit) The dragon unleashes a blast of holy fire that deals 9d8 spirit damage in a @Template[cone|distance:40] (DC 29 Reflex check save).\n\nThe dragon can't use Spirit Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,holy,spirit) The dragon unleashes a blast of holy fire that deals 9d8 spirit damage in a 40-foot cone (DC 29 Reflex check save).\n\nThe dragon can't use Spirit Breath again for 1d4 rounds."
  
 ```
 

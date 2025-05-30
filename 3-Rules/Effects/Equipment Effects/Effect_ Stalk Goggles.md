@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You gain all-around vision and can't be flanked.
+Granted by [[Equipment/Stalk Goggles|Stalk Goggles]], [[Equipment/Stalk Goggles (Greater)|Stalk Goggles (Greater)]], [[Equipment/Stalk Goggles (Major)|Stalk Goggles (Major)]]
+
+You gain all-around vision and can't be flanked, gain an item bonus to Perception checks involving sight (_greater_ and _major_), and gain low-light vision (_major_).
 
 *Source: Pathfinder #187: The Seventh Arch*
 *OGL*

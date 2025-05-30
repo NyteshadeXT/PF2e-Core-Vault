@@ -14,7 +14,7 @@ license: ORC
 ---
 # Tempest Cloud's Speed
 ## Feat 6
-### [[3-Rules/trait_reference/A/air]][[archetype]][[magical]]
+### [[air]][[archetype]][[magical]]
 
 **Category** class; 
 
@@ -28,5 +28,5 @@ license: ORC
 
 You and your familiar coordinate to channel elemental air. Your familiar gains the [[Familiar Abilities/Path of the Tempest|Path of the Tempest]] ability.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

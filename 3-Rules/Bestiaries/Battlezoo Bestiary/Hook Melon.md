@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +15 ()\n__Damage__  2d8 + 4 bludgeoning plus attach"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+15 ()\n__Damage__  2d8 + 4 bludgeoning plus attach"
 
   - name: "Attach"
     desc: "  When a hook melon hits a Small or larger living creature with its branch Strike, roots trailing from its torso attach it to that creature as a free action. This is similar to grabbing the creature, but the hook melon moves with the creature rather than holding it in place. The hook melon is [[Conditions/Off-Guard|Off-Guard]] while attached, and its host is encumbered unless the host is Large or larger.\n\nA hook melon is capable of controlling a dead or [[Conditions/Unconscious|Unconscious]] creature it is attached to, though it is limited to simple actions with the move or manipulate traits. The hook melon can still use all its own abilities and attacks, though it can be attached to only one creature at a time.\n\nA creature can escape an attached hook melon with a DC 25 check to Escape. An adjacent creature can forcibly remove the hook melon from an ally with a DC 20 Athletics check to Force Open, which deals 2d8 bleed damage to the attached creature. Killing the melon also frees the attached creature."

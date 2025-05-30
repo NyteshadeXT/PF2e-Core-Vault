@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shock +17 (electricity, magical)\n__Damage__  2d8 + 4 electricity"
+  - name: "**Melee** `pf2:1` Shock"
+    desc: "+17 (electricity, magical)\n__Damage__  2d8 + 4 electricity"
 
   - name: "Feed on Fear"
     desc: "`pf2:1` (concentrate) **Frequency** once per round\n\n**Requirements** An enemy within 15 feet is under a fear effect or dying\n* * *\n\n**Effect** The will-o'-wisp feeds on the creature's terror. It regains 2d4 Hit Points, and if it has Gone Dark, its glow reignites."

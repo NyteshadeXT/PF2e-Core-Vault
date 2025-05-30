@@ -56,16 +56,19 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 30 feet (Other Aslynn's Eyes Only)]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Shattered Mirror"
-    desc: "  When an Aslynn's eye dies, their body explodes in a @Template[burst|distance:20] of jagged glass shards that deal 5d6 slashing damage to each creature in the area (DC 18 Reflex check save)."
+    desc: "  When an Aslynn's eye dies, their body explodes in a 20-foot burst of jagged glass shards that deal 5d6 slashing damage to each creature in the area (DC 18 Reflex check save)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 (agile, finesse, unholy)\n__Damage__  2d6 + 3 bludgeoning plus psychic-assault"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (agile, finesse, unarmed, unholy)\n__Damage__  2d6 + 3 bludgeoning plus psychic-assault"
 
   - name: "Occult Innate Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Illusory Object|Illusory Object (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Telekinetic Hand|Mage Hand]]_"

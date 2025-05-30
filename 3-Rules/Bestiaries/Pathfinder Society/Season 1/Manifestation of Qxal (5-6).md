@@ -60,7 +60,7 @@ abilities_mid:
     desc: "  Generations of Bhopanese bloodshed have soaked Bhopan's soil, giving the Thorned Monarch a vast reservoir of energy to sustain their manifestation. As long as the manifestation is touching the soil of Bhopan, it has regeneration 20.\n* * *\n\nThis monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
 
   - name: "Blood Siphon"
-    desc: "`pf2:r`  **Trigger** A creature within 60 feet takes [[Conditions/Persistent Damage|Persistent Bleed Damage]].\n* * *\n\n**Effect** The shed blood disperses into a fine mist that the manifestation siphons up with its proboscis. The manifestation regains 12 HP."
+    desc: "`pf2:r`  **Trigger** A creature within 60 feet takes persistent bleed damage.\n* * *\n\n**Effect** The shed blood disperses into a fine mist that the manifestation siphons up with its proboscis. The manifestation regains 12 healing HP."
 
   - name: "Hallucinatory Scale Dust"
     desc: " (aura,illusion,mental) 30 feet. Fey glamours shed from Qxal's wings like scale dust, causing hallucinations. A creature entering the aura or starting its turn in the area must attempt a DC 23 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to the scale dust for 24 hours.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature hallucinates that it is beginning to transform into a plant or animal native to their homeland, becoming either [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Enfeebled|Enfeebled 1]], or [[Conditions/Stupefied|Stupefied 1]], at Qxal's choice. The condition lasts for 1 hour. Each time a creature fails this save, Qxal can choose an additional condition.\n\n**Critical Failure** As failure, but the condition value is 2 ([[Conditions/Clumsy|Clumsy 2]], [[Conditions/Enfeebled|Enfeebled 2]], or [[Conditions/Stupefied|Stupefied 2]])."
@@ -68,14 +68,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Proboscis +20 (deadly d12, reach 10 feet)\n__Damage__  2d12 + 9 piercing"
+  - name: "**Melee** `pf2:1` Proboscis"
+    desc: "+20 (deadly d12, reach 10 feet)\n__Damage__  2d12 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +20 (agile, reach 15 feet)\n__Damage__  2d10 + 6 slashing 1d4 bleed"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+20 (agile, reach 15 feet)\n__Damage__  2d10 + 6 slashing 1d4 bleed"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thorn +20 (range 60 feet)\n__Damage__  2d4 + 6 piercing 1d4 bleed"
+  - name: "**Ranged** `pf2:1` Thorn"
+    desc: "+20 (range 60 feet)\n__Damage__  2d4 + 6 piercing 1d4 bleed"
 
   - name: "Primal Innate Spells"
     desc: "DC 23, attack +18; __3rd __  _[[Spells/Wall of Thorns|Wall of Thorns (At Will)]]_; __2nd __  _[[Spells/Entangling Flora|Entangle (At Will)]]_\n__Cantrips__  __(3rd)__ _[[Spells/Tangle Vine|Tanglefoot]]_"

@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You can uplift all around you with your pranks, causing you and your allies to receive divine guidance in all your movements to effortlessly avoid environmental hindrances. Once per day, you can cast [[Unfettered Pack|Unfettered Pack]] as a divine innate spell. When you do so, you cast the spell by performing a divinely inspired prank.
+You can uplift all around you with your pranks, causing you and your allies to receive divine guidance in all your movements to effortlessly avoid environmental hindrances. Once per day, you can cast [[Spells/Unfettered Pack|Unfettered Pack]] as a divine innate spell. When you do so, you cast the spell by performing a divinely inspired prank.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

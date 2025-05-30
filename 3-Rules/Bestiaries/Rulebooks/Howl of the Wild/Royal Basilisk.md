@@ -29,7 +29,7 @@ trait_01: [[beast]]
 modifier: 27
 perception:
   - name: "Perception"
-    desc: "+27; "
+    desc: "+27; Darkvision, Scent (Imprecise) 120 Feet, Tremorsense (Precise) 60 Feet"
 languages: ""
 skills:
   - name: "Skills"
@@ -61,26 +61,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +27 (reach 10 feet)\n__Damage__  4d10 + 11 piercing plus improved-grab,royal-basilisk-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+27 (reach 10 feet, unarmed)\n__Damage__  4d10 + 11 piercing plus improved-grab,royal-basilisk-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +27 (agile, reach 15 feet)\n__Damage__  4d8 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+27 (agile, reach 15 feet)\n__Damage__  4d8 + 11 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +24 (poison, range 120 feet)\n__Damage__  5d10 poison plus royal-basilisk-venom"
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+24 (poison, range 120 feet)\n__Damage__  5d10 poison plus royal-basilisk-venom"
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  4d8+3 bludgeoning, DC 32 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  4d8+3 bludgeoning, DC 32 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC. A creature that fails this save falls [[Conditions/Unconscious|Unconscious]], and a creature that succeeds is then temporarily immune to falling unconscious from Greater Constrict for 1 minute."
 
   - name: "Royal Basilisk Venom"
     desc: " (poison) **Saving Throw** DC 36\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d10 poison and [[Conditions/Clumsy|Clumsy 2]] (1 round)\n\n**Stage 2** 3d10 poison and [[Conditions/Clumsy|Clumsy 3]] (1 round)\n\n**Stage 3** 4d10 poison, clumsy 3, and [[Conditions/Slowed|Slowed 1]] (1 round)"
 
   - name: "Stone-Hewing Spit"
-    desc: "`pf2:2` (acid) The royal basilisk spits its poison with immense force, dealing 5d10 acid and 5d8 piercing damage (DC 32 Reflex check save) to creatures in a @Template[line|distance:240] and exposing each creature that took damage to royal basilisk venom. The line penetrates barriers with Hardness of less than 20, ignoring any bonuses they'd provide from cover. The royal basilisk can't use Stone-Hewing Spit again for 1d4 rounds."
+    desc: "`pf2:2` (acid) The royal basilisk spits its poison with immense force, dealing 5d10 acid and 5d8 piercing damage (DC 32 Reflex check save) to creatures in a 240-foot line and exposing each creature that took damage to royal basilisk venom. The line penetrates barriers with Hardness of less than 20, ignoring any bonuses they'd provide from cover. The royal basilisk can't use Stone-Hewing Spit again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Large, 5d10 acid, Rupture 30\n\n* * *\n"
+    desc: "`pf2:1` (attack) Large, 5d10 acid, Rupture 30\n* * *\n\nThe monster attempts to swallow a creature of the listed size or smaller that it has grabbed or restrained in its jaws or mouth. If a swallowed creature is of the maximum size listed, the monster can't use Swallow Whole again. If the creature is smaller than the maximum, the monster can usually swallow more creatures; the GM determines the maximum. The monster attempts an Athletics check check opposed by the grabbed creature's Reflex DC. If it succeeds, it swallows the creature. The monster's mouth or jaws no longer grab a creature it has swallowed, so the monster is free to use them to Strike or Grab once again. The monster can't attack creatures it has swallowed.\n\nA swallowed creature is [[Conditions/Grabbed|Grabbed]], is [[Conditions/Slowed|Slowed 1]], and has to hold its breath or start suffocating. The swallowed creature takes the listed amount of damage when first swallowed and at the end of each of its turns while it's swallowed. If the victim [[Actions/Escape|Escapes]] this ability's grabbed condition, it exits through the monster's mouth. This frees any other creature grabbed in the monster's mouth or jaws. A swallowed creature can attack the monster that has swallowed it, but only with unarmed attacks or with weapons of light Bulk or less. The swallowing creature is [[Conditions/Off-Guard|Off-Guard]] against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the swallowed creature cuts itself free. A creature that gets free by either Escaping or cutting itself free can immediately breathe and exits the swallowing monster's space.\n\n[[Bestiary Effects/Effect_ Engulf and Swallow Whole|Effect: Engulf and Swallow Whole]]\n\nIf the monster dies, a swallowed creature can be freed by creatures adjacent to the corpse if they spend a combined total of 3 actions cutting the monster open with a weapon or unarmed attack that deals piercing or slashing damage."
 
   - name: "Wrap in Coils"
     desc: "`pf2:1`  **Requirements** A Large or smaller creature is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in the royal basilisk's jaws\n* * *\n\n**Effect** The royal basilisk moves the creature into its coils, freeing its jaws to make attacks, then uses Greater Constrict against the creature. The royal basilisk's coils can hold as many creatures as will fit in its space."

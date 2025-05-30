@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +11 (agile, finesse, versatile s)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+11 (agile, finesse, versatile s)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +11 (deadly d10, propulsive, range 60 feet)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+11 (deadly d10, propulsive, range 60 feet)\n__Damage__  1d6 + 1 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The Blacknoon apprentice deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Covenant Tea|Covenant Tea]]
+
 You gain a +1 item bonus to Diplomacy checks and to your Perception DC.
 
 *Source: Pathfinder #197: Let the Leaves Fall*

@@ -35,7 +35,7 @@ perception:
 languages: "Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +10, Intimidation: +7, Athletics: +10, Intimidation: +7"
+    desc: "Athletics: +10, Intimidation: +7"
 abilityMods: [4, 0, 4, -1, 1, 1]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +12 ()\n__Damage__  1d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+12 ()\n__Damage__  1d8 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 ()\n__Damage__  1d6 + 4 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 ()\n__Damage__  1d6 + 4 piercing plus grab"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Vomit Swarm|Vomit Swarm]]_; __1st __  _[[Spells/Acidic Burst|Acidic Burst]]_\n__Cantrips__  __(2nd)__ _[[Spells/Prestidigitation|Prestidigitation]]_"

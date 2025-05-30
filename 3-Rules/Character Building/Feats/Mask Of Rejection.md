@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Mask Of Rejection"
+title: "Mask of Rejection"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/fortune
@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.vxE9hBKB6F2ctOX3"
 license: OGL
 ---
-# Mask Of Rejection `pf2:r`
+# Mask of Rejection `pf2:r`
 ## Feat 5
 ### [[fortune]][[orc]]
 
@@ -30,5 +30,5 @@ license: OGL
 
 Your _warmask_ projects a white-hot fury that attempts to vaporize the offending magic. You reroll the triggering check with a +2 circumstance bonus, but you must use the new result, even if it's worse than your first roll.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

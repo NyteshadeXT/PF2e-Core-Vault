@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +14 (agile, finesse, versatile s)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+14 (agile, finesse, versatile s)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +14 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+14 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "Poison Weapon"
     desc: "`pf2:1`  The rogue applies one of their black adder venom poisons to their wielded weapon. If their next attack with that weapon before the end of their next turn hits and deals damage, the target is afflicted with the poison."

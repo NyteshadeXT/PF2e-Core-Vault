@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[3-Rules/Character Building/Spells/U/Uplifting Overture|Uplifting Overture]]
+Granted by [[Spells/Uplifting Overture|Uplifting Overture]]
 
 When you later use the Aid reaction, you can roll Performance instead of the normal skill check, and if you roll a failure, you get a success instead. If you are legendary in Performance, you automatically critically succeed.
 

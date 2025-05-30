@@ -56,22 +56,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +27 (magical)\n__Damage__  2d6 + 9 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+27 (magical)\n__Damage__  2d6 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +24 (magical, thrown 20 ft.)\n__Damage__  2d6 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+24 (magical, thrown 20 ft.)\n__Damage__  2d6 + 9 piercing"
 
   - name: "Arcane Prepared Spells"
-    desc: "DC 33, attack +25; __7th __  _[[Spells/Planar Seal|Dimensional Lock]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Disintegrate|Disintegrate]]_; __4th __  _[[Spells/Translocate|Dimension Door]]_; __1st __  _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(7th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 33, attack +25; __7th __  _[[Spells/Planar Seal|Dimensional Lock]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Disintegrate|Disintegrate]]_; __4th __  _[[Spells/Translocate|Dimension Door]]_; __1st __  _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(7th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
 
   - name: "Magus Conflux Spells"
     desc: "2 Focus Points, DC 33, attack +25; __7th __  _[[Spells/Dimensional Assault|Dimensional Assault]]_"

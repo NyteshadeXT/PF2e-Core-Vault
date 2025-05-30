@@ -61,11 +61,14 @@ abilities_mid:
   - name: "Field of Undeath"
     desc: " (aura,divine) 20 feet. Allies within the aura who have void healing gain fast healing 2. When a creature within the aura would receive vitality healing, it must succeed at a DC 5 Flat check or receive no healing from the effect."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +10 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+10 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 17, attack +9; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(1st)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Shield|Shield]]_"

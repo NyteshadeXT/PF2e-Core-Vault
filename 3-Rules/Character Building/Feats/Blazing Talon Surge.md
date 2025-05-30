@@ -13,7 +13,7 @@ license: OGL
 ---
 # Blazing Talon Surge `pf2:2`
 ## Feat 6
-### [[3-Rules/trait_reference/F/fire]][[flourish]][[monk]]
+### [[fire]][[flourish]][[monk]]
 
 **Category** class; 
 
@@ -29,5 +29,5 @@ You rush forward and latch onto your enemy with talons of hungering fire.
 
 Stride once. If you end your movement within reach of at least one enemy, you can make a fire talon Strike against that enemy that deals an additional 1d4 persistent fire damage. If it hits and deals damage, you can attempt an Athletics check to [[Actions/Grapple|Grapple]] the creature you hit.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

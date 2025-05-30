@@ -23,5 +23,5 @@ license: ORC
 
 You draw your weapon and attack with the same motion. You Interact to draw a weapon, then Strike with that weapon.
 
-*Source: Pathfinder Player Core*
+*Source: Pathfinder Guns & Gears*
 *ORC*

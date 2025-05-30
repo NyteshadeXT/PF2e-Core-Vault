@@ -67,8 +67,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +11 (magical, two-hand d8)\n__Damage__  2d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+11 (magical, two-hand d8)\n__Damage__  2d4 + 4 bludgeoning"
 
   - name: "A Drink for Good Luck"
     desc: "`pf2:3` (emotion,fortune,mental,occult) **Frequency** once per season\n\n**Requirements** Old Matsuki has a drink in hand\n* * *\n\n**Effect** Old Matsuki toasts to good fortune, then selects up to six other creatures within 30 feet before he drinks his drink. He, and all creatures that drink before the end of their next turn, become infused with good luck. Once before the end of the current season, each target can reroll a failed saving throw as a free action, taking the second result."

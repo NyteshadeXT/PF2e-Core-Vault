@@ -61,20 +61,23 @@ abilities_mid:
   - name: "Crumble"
     desc: "`pf2:r`  **Trigger** The ash skeleton is critically hit\n* * *\n\n**Effect** The ash skeleton crumbles to ash, and the attack deals only normal damage"
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (reach 10 feet)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (reach 10 feet, unarmed)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile, reach 10 feet)\n__Damage__  1d4 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, reach 10 feet, unarmed)\n__Damage__  1d4 + 4 slashing"
 
   - name: "Ash Form"
     desc: "`pf2:1`  The ash skeleton crumbles to ash or reforms in a standing position. While ash, the ash skeleton is [[Conditions/Immobilized|Immobile]], [[Conditions/Off-Guard|Off-Guard]], and has an automatic result of 26 on Deception checks and DCs to pass as an inanimate pile of ash or layer of soot.\n\nThe ash skeleton can remain in this ash form indefinitely."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n\n* * *\n"
+    desc: "`pf2:1`  Claw\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
  
 ```
 

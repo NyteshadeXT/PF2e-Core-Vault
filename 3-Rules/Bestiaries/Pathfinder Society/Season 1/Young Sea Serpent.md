@@ -53,14 +53,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (reach 10 feet)\n__Damage__  1d6 + 2 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (reach 10 feet, unarmed)\n__Damage__  1d6 + 2 piercing plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Waterspout +7 (brutal, range increment 30 feet, water)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Waterspout"
+    desc: "+7 (brutal, range increment 30 feet, water)\n__Damage__ "
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d4+2 bludgeoning damage, no listed Fortitude save\n\n* * *\n"
+    desc: "`pf2:1`  1d4+2 bludgeoning damage, no listed Fortitude save\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Spine Rake"
     desc: "`pf2:2` (attack,move) The young sea serpent extends the spines along its back and Swims or Strides. Each creature the serpent is adjacent to at any point during its movement takes 1d4+2 slashing damage (DC 14 Reflex check save)."
@@ -69,7 +69,7 @@ attacks:
     desc: " (incapacitation,poison) The water in the ballast organs around the sea serpent's neck is full of psychotropic algae.\n\n**Saving throw** DC 18 Fortitude check\n\n**Maximum duration** 3 rounds\n\n**Stage 1** [[Conditions/Confused|Confused]] and, if flying, spends its first action each turn to descend 20 feet (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

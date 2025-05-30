@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Daring Attempt|Daring Attempt]]
+Granted by [[PF2e Journals/Hero Point Deck/Daring Attempt|Daring Attempt]]
 
-Select one untrained skill. You are trained in that skill until the end of your next turn. If you use that skill before the end of your next turn and succeed at your skill check, you keep this benefit until the end of the combat, or for 1 minute if not in combat.
+Select one untrained skill. You are trained in that skill.
 
 *Source: Pathfinder Hero Point Deck*
 *OGL*

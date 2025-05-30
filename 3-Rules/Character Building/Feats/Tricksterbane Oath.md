@@ -24,5 +24,5 @@ You've sworn an oath to ferret out and destroy malevolent shapechangers who pose
 
 **Edict** You must reveal and slay evil or predatory shapechangers you discover or encounter, as long as you have a reasonable chance of success.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

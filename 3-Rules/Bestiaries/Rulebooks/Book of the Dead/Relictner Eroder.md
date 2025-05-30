@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap185-a-taste-of-ashes/assets/art/PZO90185 AEMETTIG DWARF.webp| ]]
 source: "Pathfinder Book of the Dead"
 name: "Relictner Eroder"
 level: "Creature 12"
@@ -65,17 +66,20 @@ abilities_mid:
   - name: "Lair Sense"
     desc: " (detection,divine) The relictner bonds with a single structure they consider their lair, such as a house, temple, or ruin. A relictner is aware of any creature that enters the lair, and the direction and approximate distance to the creature. If the lair is destroyed, the relictner can bond with a new lair by residing within a structure they own or claim for 1 week."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
   - name: "Weathering Aura"
     desc: " (aura,divine) 60 feet. The relictner radiates an aura of degradation. All objects in the area have their Hardness reduced by 10, to a minimum of 0, for as long as they remain in the aura and for 1 round after leaving it. The relictner can't deactivate this aura."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Eroding Touch +26 (unarmed)\n__Damage__  3d12 + 10 acid"
+  - name: "**Melee** `pf2:1` Eroding Touch"
+    desc: "+26 (unarmed)\n__Damage__  3d12 + 10 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Targeted Collapse +21 (range 30 feet, trip, versatile p)\n__Damage__  3d10 + 3 bludgeoning"
+  - name: "**Ranged** `pf2:1` Targeted Collapse"
+    desc: "+21 (range 30 feet, trip, versatile p)\n__Damage__  3d10 + 3 bludgeoning"
 
   - name: "Crumble"
     desc: "`pf2:2` (divine) The relictner erodes an object within 30 feet, dealing 3d10 bludgeoning damage to it, with a DC 31 Reflex check if the object is attended."
@@ -84,7 +88,7 @@ attacks:
     desc: "`pf2:1` (divine) The relictner draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead. The relictner gains the undead trait and becomes immune to bleed, death effects, disease, [[Conditions/Paralyzed|Paralyzed]], poison, and sleep. Any such effects the relictner is currently inflicted with are suspended but take effect again once they take a breath.\n\nDeath Gasp lasts as long as the relictner holds their breath (up to 12 rounds).\n\n[[Bestiary Effects/Effect_ Death Gasp|Effect: Death Gasp]]"
 
   - name: "Demolition"
-    desc: "`pf2:3` (divine) The relictner bellows in fury, causing the surrounding structure to collapse. All creatures in a @Template[emanation|distance:30] take 8d10 bludgeoning damage from falling debris (DC 31 Reflex check). A creature that fails its save is knocked [[Conditions/Prone|Prone]]. The area becomes difficult terrain.\n\nThe relictner can't use Demolition again for 1d4 rounds."
+    desc: "`pf2:3` (divine) The relictner bellows in fury, causing the surrounding structure to collapse. All creatures in a 30-foot emanation take 8d10 bludgeoning damage from falling debris (DC 31 Reflex check). A creature that fails its save is knocked [[Conditions/Prone|Prone]]. The area becomes difficult terrain.\n\nThe relictner can't use Demolition again for 1d4 rounds."
  
 ```
 

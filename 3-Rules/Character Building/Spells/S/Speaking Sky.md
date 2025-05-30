@@ -34,5 +34,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "The air speaks to you. You can precisely sense any motion within 60 feet through vibration and air movement.\n\n[[Spell Effects/Spell Effect_ Speaking Sky|Spell Effect: Speaking Sky]]"
-sourcebook: "_Pathfinder Lost Omens: Impossible Lands_"
+sourcebook: "_Pathfinder Lost Omens Impossible Lands_"
 ```

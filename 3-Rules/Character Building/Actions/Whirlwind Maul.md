@@ -4,7 +4,7 @@ title: "Whirlwind Maul"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/eidolon
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.tu5viJZT4zFE1sYn"
 license: OGL

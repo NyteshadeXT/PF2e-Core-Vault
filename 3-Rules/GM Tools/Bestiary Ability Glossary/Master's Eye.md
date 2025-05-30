@@ -14,7 +14,7 @@ license: ORC
 ---
 # Master's Eye `pf2:3`
 
-### [[concentrate]][[divine]][[3-Rules/Trait Reference/S/scrying]]
+### [[concentrate]][[divine]][[scrying]]
 
 **Category** offensive; 
 

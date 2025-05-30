@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +9 (agile, finesse, nonlethal)\n__Damage__  1d4 + 1 bludgeoning plus attach"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+9 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 1 bludgeoning plus attach"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 ()\n__Damage__  1d6 + 1 piercing plus attach 2 poison plus attach"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (unarmed)\n__Damage__  1d6 + 1 piercing plus attach 2 poison plus attach"
 
   - name: "Attach"
     desc: "  When a pickled punk hits a target larger than itself, it uses bizarre excretions to adhere to that creature. This is similar to Grabbing the creature, but the pickled punk is not off-guard, and it moves with that creature rather than holding it in place.\n\nEach turn while attached, the pickled punk automatically deals the damage from its jaws Strike to the creature to which it's attached. It also wriggles about, gaining a +2 circumstance bonus to AC as long as it's not also grabbed or restrained."

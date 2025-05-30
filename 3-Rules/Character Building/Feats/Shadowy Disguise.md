@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You wrap yourself in shadow to change your appearance. You can cast [[Illusory Disguise|Illusory Disguise]] as a 1st-rank occult innate spell once per day. This spell gains the shadow trait.
+You wrap yourself in shadow to change your appearance. You can cast [[Spells/Illusory Disguise|Illusory Disguise]] as a 1st-rank occult innate spell once per day. This spell gains the shadow trait.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

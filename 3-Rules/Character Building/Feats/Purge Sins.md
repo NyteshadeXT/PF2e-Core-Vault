@@ -25,5 +25,5 @@ license: OGL
 
 You call on your celestial forebears to rid your body of all toxins and impurities. For each disease or poison currently affecting you, attempt a Religion check check to counteract that disease or poison. As normal, your counteract level is equal to half your level, rounded up.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

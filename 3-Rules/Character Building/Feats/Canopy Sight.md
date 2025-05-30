@@ -20,5 +20,5 @@ license: OGL
 
 You can see equally well even in dense jungles where only a small amount of light shines through. You gain low-light vision.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Even magical means have a hard time prying information from you. You gain [[Veil of Privacy|Veil of Privacy]] as an innate occult spell once per day, which can only be cast on yourself and is automatically heightened to half your level rounded up.
+Even magical means have a hard time prying information from you. You gain [[Spells/Veil of Privacy|Veil of Privacy]] as an innate occult spell once per day, which can only be cast on yourself and is automatically heightened to half your level rounded up.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

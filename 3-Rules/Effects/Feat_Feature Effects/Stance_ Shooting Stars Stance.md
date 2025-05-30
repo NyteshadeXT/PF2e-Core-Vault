@@ -19,9 +19,7 @@ license: ORC
 
 Granted by [[Feats/Shooting Stars Stance|Shooting Stars Stance]]
 
-You enter a stance that lets you throw shuriken with lightning speed.
-
-While in this stance, you can use your monk feats or monk abilities that normally require unarmed attacks with shuriken instead.
+You can use your monk feats or monk abilities that normally require unarmed attacks with shuriken instead.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

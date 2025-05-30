@@ -23,5 +23,5 @@ You know extensively about your own kind. You gain the trained proficiency rank 
 
 Once per day, you can gain the benefits of the [[Feats/Assurance|Assurance]] feat for either Occultism or Yaoguai Lore. You choose to use this as a free action when you attempt the affected skill check.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

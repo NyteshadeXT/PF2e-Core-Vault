@@ -53,21 +53,21 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Coven|Coven]]"
-    desc: " (mental,occult) A spirit naga adds [[Spells/Hallucination|Hallucination]], [[Spells/Mind Probe|Mind Probe]], and [[Spells/Suggestion|Suggestion]] to their coven's spells.\n\n* * *\n"
+    desc: " (mental,occult) A spirit naga adds [[Spells/Hallucination|Hallucination]], [[Spells/Mind Probe|Mind Probe]], and [[Spells/Suggestion|Suggestion]] to their coven's spells.\n* * *\n\nThis monster can form a coven with two or more other creatures who also have the coven ability. This involves performing an 8-hour ceremony with all prospective coven members. After the coven is formed, each of its members gains elite adjustments, adjusting their levels accordingly. Coven members can sense other members' locations and conditions by spending a single action, which has the concentrate trait, and can sense what another coven member is sensing as a two-action activity, which has the concentrate trait as well.\n\nCovens also grant spells and rituals to their members, but these can be cast only in cooperation between three coven members who are all within 30 feet of one another. A coven member can contribute to a coven spell with a single action that has the concentrate trait. If two coven members have contributed these actions within the last round, a third member can cast a coven spell on her turn by spending the normal spellcasting actions. A coven can cast its coven spells an unlimited number of times but can cast only one coven spell each round. All covens grant the 8th-rank [[Spells/Cursed Metamorphosis|Cursed Metamorphosis]] spell and all the following spells, which the coven can cast at any rank up to 5th: [[Spells/Augury|Augury]], [[Spells/Charm|Charm]], [[Spells/Clairaudience|Clairaudience]], [[Spells/Clairvoyance|Clairvoyance]], [[Spells/Dream Message|Dream Message]], [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Illusory Scene|Illusory Scene]], [[Spells/Scouting Eye|Scouting Eye]], and [[Spells/Talking Corpse|Talking Corpse]]. Individual creatures with the coven ability also grant additional spells to any coven they join. A coven can also cast the [[Spells/Control Weather|Control Weather]] ritual, with a DC of 23 instead of the standard DC.\n\nIf a coven member's departure or death brings the coven below three members, the remaining members keep their elite adjustments for 24 hours, but without enough members to contribute the necessary actions, they can't cast coven spells."
 
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +29 (agile, finesse)\n__Damage__  5d8 + 13 piercing plus spirit-naga-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+29 (agile, finesse)\n__Damage__  5d8 + 13 piercing plus spirit-naga-venom"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 39, attack +26; __8th __ (2 slots) _[[Spells/Pinpoint|Discern Location]]_, _[[Spells/Power Word Stun|Power Word Stun]]_; __7th __ (4 slots) _[[Spells/Mask of Terror|Mask of Terror]]_, _[[Spells/Power Word Blind|Power Word Blind]]_; __6th __ (4 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Mislead|Mislead]]_; __5th __ (4 slots) _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Telekinetic Haul|Telekinetic Haul]]_; __4th __ (4 slots) _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fly|Fly]]_; __3rd __ (4 slots) _[[Spells/Clairaudience|Clairaudience]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_; __2nd __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Humanoid Form|Humanoid Form]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Compendium.pf2e.spells-srd.Item.c2bTWBNO1BYX4Zfg|Misdirection]]_; __1st __ (4 slots) _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Inveigle|Inveigle]]_"
+    desc: "_Inveigle_"
 
   - name: "Spirit Naga Venom"
     desc: " (poison) **Saving Throw** DC 37 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 2d6 poison damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)"

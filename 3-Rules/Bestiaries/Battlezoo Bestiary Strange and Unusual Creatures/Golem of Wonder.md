@@ -39,7 +39,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +20, Athletics: +22, Acrobatics: +20, Athletics: +22"
+    desc: "Acrobatics: +20, Athletics: +22"
 abilityMods: [7, 3, 7, -5, 2, -4]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -69,8 +69,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +24 (magical, reach 10 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+24 (magical, reach 10 feet)\n__Damage__ "
 
   - name: "Chaos Damage"
     desc: "  When a golem of wonder makes a fist Strike, roll 1d6 to determine type and severity of damage\n\n**1:** 2d8+10 slashing\n\n**2–3:** 2d10+12 force\n\n**4–5:** 2d12+15 bludgeoning\n\n**6:** 2d12+22 electricity"

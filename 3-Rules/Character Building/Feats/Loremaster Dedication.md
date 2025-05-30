@@ -28,7 +28,7 @@ You can take feats in the loremaster's additional feats entry even if you don't 
 
 If you have the [[Feats/Bardic Lore|Bardic Lore]] class feat, you gain a +1 circumstance bonus to skill checks with Bardic Lore.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Loremaster|Loremaster]] archetype.
+[[PF2e Journals/Archetypes/Loremaster|Loremaster]]
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

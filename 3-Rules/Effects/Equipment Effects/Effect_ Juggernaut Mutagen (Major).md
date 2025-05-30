@@ -17,21 +17,11 @@ license: ORC
 
 
 
-Granted by [[Juggernaut Mutagen (Major)|Juggernaut Mutagen (Major)]]
+Granted by [[Equipment/Juggernaut Mutagen (Major)|Juggernaut Mutagen (Major)]]
 
-Implemented effects:
+**Benefit** You gain a +4 item bonus to Fortitude saves and 45 temporary Hit Points. When you roll a success on a Fortitude save you get a critical success instead, and your critical failures on Fortitude saves become failures instead.
 
-*   +4 item bonus to Fortitude saves
-*   Gain 45 temporary Hit Points
-*   \-2 penalty to Will saves
-*   \-2 penalty to Perception checks
-*   \-2 penalty to initiative rolls
-*   Treat Fortitude success as critical success
-*   Treat Fortitude critical failure as failure
-
-Unimplemented effects:
-
-*   Whenever you are at maximum Hit Points for at least 1 full minute, you regain the temporary Hit Points.
+**Drawback** You take a -2 penalty to Will saves, Perception checks and initiative rolls.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

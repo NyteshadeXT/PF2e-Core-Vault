@@ -18,9 +18,9 @@ license: ORC
 
 
 
-**Prerequisites** Wind God's Fan
+**Prerequisites** Tengu Feather Fan
 * * *
-Your fan unleashes the fury of the storm. You can use the Wave Fan activation one additional time per day. Add a 5th-rank [[Lightning Bolt|Lightning Bolt]] spell to the spells contained within your fan.
+Your fan unleashes the fury of the storm. You can use the Wave Fan activation one additional time per day. Add a 5th-rank [[Spells/Lightning Bolt|Lightning Bolt]] spell to the spells contained within your fan.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

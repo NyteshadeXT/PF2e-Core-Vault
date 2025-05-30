@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +6 (finesse)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+6 (finesse, unarmed)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +6 (agile, finesse)\n__Damage__  1d4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+6 (agile, finesse, unarmed)\n__Damage__  1d4 slashing"
 
   - name: "Land on Feet"
     desc: "`pf2:r`  **Trigger** The cat falls between 10 and 100 feet\n* * *\n\n**Effect** The cat treats the fall as if it were only 5 feet."

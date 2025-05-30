@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +5 (finesse, magical)\n__Damage__  1d4 piercing plus homunculus-poison"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+5 (finesse, magical, unarmed)\n__Damage__  1d4 piercing plus homunculus-poison"
 
   - name: "Homunculus Poison"
     desc: " (poison) A homunculus has one dose of poison in a reservoir in its head. It can refill this poison from its reserves with an Interact action.\n* * *\n\n**Saving Throw** DC 13 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)"

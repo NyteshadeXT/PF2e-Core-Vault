@@ -72,11 +72,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +18 (agile, magical, versatile s)\n__Damage__  1d6 + 10 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+18 (agile, magical, versatile s)\n__Damage__  1d6 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +18 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 8 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+18 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 8 bludgeoning"
 
   - name: "Brutal Rally"
     desc: "`pf2:r` (auditory,emotion,linguistic,mental) **Trigger** The gang leader rolls a critical hit against a creature\n* * *\n\n**Effect** All allies that can see the gang leader gain a +1 circumstance bonus to attack rolls until the start of the gang leader's next turn.\n\n[[Bestiary Effects/Effect_ Brutal Rally|Effect: Brutal Rally]]"

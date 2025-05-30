@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +28 (agile, finesse, versatile s)\n__Damage__  2d4 + 13 piercing 1d6 electricity"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+28 (agile, finesse, versatile s)\n__Damage__  2d4 + 13 piercing 1d6 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +28 (agile, finesse, thrown 10 ft.)\n__Damage__  2d4 + 13 piercing 1d6 electricity"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+28 (agile, finesse, thrown 10 ft.)\n__Damage__  2d4 + 13 piercing 1d6 electricity"
 
   - name: "Lasting Debilitating Strike"
     desc: "  **Trigger** The xun's Strike hits an [[Conditions/Off-Guard|Off-Guard]] creature and deals damage\n* * *\n\n**Effect** The xun applies one of the following debilitations, which lasts until the end of the xun's next turn or for 1 week on a critical hit.\n\n**Debilitation** The target takes a -10-foot status penalty to its Speeds.\n\n**Debilitation** The target becomes [[Conditions/Enfeebled|Enfeebled 1]]."

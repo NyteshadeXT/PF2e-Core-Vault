@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.kVSZQvsz1cYjOwxL"
-license: OGL
+license: ORC
 ---
 # Master Siege Engineer
 ## Feat 16
@@ -22,4 +23,4 @@ license: OGL
 What you don't know about artillery isn't worth knowing and your mastery allows you to perform an impossible number of actions as part of a siege weapon's crew. You're permanently [[Conditions/Quickened|Quickened]]. You can only use the extra action to Aim or Launch a siege weapon.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

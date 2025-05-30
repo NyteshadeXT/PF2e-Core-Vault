@@ -55,16 +55,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +26 (magical, versatile p)\n__Damage__  1d6 bleed 2d12 + 11 slashing"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+26 (magical, versatile p)\n__Damage__  1d6 bleed 2d12 + 11 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +26 (thrown 30 ft.)\n__Damage__  1d6 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+26 (thrown 30 ft.)\n__Damage__  1d6 + 11 piercing"
 
   - name: "Consecrated"
     desc: "  As long as the [[Spells/Consecrate|Consecrate]] ritual effects persist in Crownhold, a Gorumite veteran gains a +1 status bonus to attack rolls, skill checks, saving throws, and Perception checks; these bonuses are not calculated into the stat block."

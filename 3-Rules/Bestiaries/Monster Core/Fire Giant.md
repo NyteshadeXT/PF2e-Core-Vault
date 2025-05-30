@@ -54,26 +54,26 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Greatsword|+1 Striking Greatsword]], [[Equipment/Half Plate|+1 Half Plate]], Sack for Holding Rocks, 5x Rock"
+    desc: "[[Equipment/Greatsword|+1 Striking Greatsword]], [[Equipment/Half Plate|+1 Half Plate]]"
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +24 (magical, reach 10 feet, versatile p)\n__Damage__  2d12 + 13 slashing"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+24 (magical, reach 10 feet, versatile p)\n__Damage__  2d12 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 (agile, reach 10 feet)\n__Damage__  2d8 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+23 (agile, reach 10 feet, unarmed)\n__Damage__  2d8 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flame +21 (fire, primal, range 120 feet)\n__Damage__  4d6 fire plus rock 2d6 fire plus rock"
+  - name: "**Ranged** `pf2:1` Flame"
+    desc: "+21 (fire, primal, range 120 feet)\n__Damage__  4d6 fire 2d6 fire"
 
   - name: "Flaming Stroke"
-    desc: "`pf2:2` (fire,primal) The fire giant imbues their blade with flames and makes a greatsword Strike with a –2 circumstance penalty against each creature in a @Template[line|distance:15]. They make one attack roll only and compare the result to each creature's AC. This Strike deals an additional 1d6 fire damage and counts as one attack for the fire giant's multiple attack penalty"
+    desc: "`pf2:2` (fire,primal) The fire giant imbues their blade with flames and makes a greatsword Strike with a –2 circumstance penalty against each creature in a 15-foot line. They make one attack roll only and compare the result to each creature's AC. This Strike deals an additional 1d6 fire damage and counts as one attack for the fire giant's multiple attack penalty"
  
 ```
 

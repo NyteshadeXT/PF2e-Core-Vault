@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fading `pf2:r`
 ## Feat 10
-### [rare](rare.md "Rare Rarity Trait")[[archetype]][[teleportation]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[teleportation]]
 
 **Category** class; 
 
@@ -30,5 +30,5 @@ license: OGL
 
 You partially fade from reality. The attacker must attempt a DC 11 Flat check; on a failure, the attack passes harmlessly through the image of your body that remains behind. An instant later you return to reality, and your Crimson Shroud ends.
 
-*Source: Pathfinder Lost Omens: Legends*
+*Source: Pathfinder Lost Omens Legends*
 *OGL*

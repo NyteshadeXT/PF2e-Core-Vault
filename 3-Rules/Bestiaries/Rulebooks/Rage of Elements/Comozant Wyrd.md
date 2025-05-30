@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Lightning Lash +15 (electricity, range 30 feet)\n__Damage__  2d12 electricity"
+  - name: "**Ranged** `pf2:1` Lightning Lash"
+    desc: "+15 (electricity, range 30 feet)\n__Damage__  2d12 electricity"
 
   - name: "Leap the Gap"
     desc: "`pf2:2`  **Requirements** The comozant wyrd is adjacent to a solid object or surface of its size or larger\n* * *\n\n**Effect** The wyrd Flies up to its Speed in a straight line, ending its movement adjacent to a different solid object or surface of its size or larger; this movement doesn't trigger reactions. The wyrd can move through other creatures during this movement, and all creatures it moves through take 2d12 electricity damage with a DC 22 Reflex check save."

@@ -21,7 +21,7 @@ license: OGL
 
 
 
-Your eidolon can shrink to fit into small spaces. Your eidolon reduces in size, to a minimum of size Small. It can use this action again while shrunk to return to its normal size.
+Your eidolon can shrink to fit into small spaces. Your eidolon reduces in size, to a minimum of size Small. It can use this action again while shrunk to return to its normal size. Its reach becomes 5 feet, or 10 feet if shrinking to Large with Towering Size.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -56,19 +56,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +14 (versatile p)\n__Damage__  1d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+14 (versatile p)\n__Damage__  1d8 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sap +14 (agile, nonlethal)\n__Damage__  1d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Sap"
+    desc: "+14 (agile, nonlethal)\n__Damage__  1d6 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +13 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+13 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Combat Grab"
     desc: "`pf2:1`  **Requirements** The Kelorbeyan guard has one hand free, and their target is in reach of that hand\n* * *\n\n**Effect** The guard makes a melee Strike while keeping one hand free. If the Strike hits, they grab the target using their free hand. The creature remains [[Conditions/Grabbed|Grabbed]] until the end of the guard's next turn or until it [[Actions/Escape|Escapes]], whichever comes first."

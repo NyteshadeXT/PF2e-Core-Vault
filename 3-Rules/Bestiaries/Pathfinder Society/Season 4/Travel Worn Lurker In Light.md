@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +12 (agile, finesse)\n__Damage__  2d6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+12 (agile, finesse, unarmed)\n__Damage__  2d6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mote of Light +12 (agile, magical, range increment 10 feet)\n__Damage__  2d4 force plus lurkers-glow"
+  - name: "**Ranged** `pf2:1` Mote of Light"
+    desc: "+12 (agile, magical, range increment 10 feet)\n__Damage__  2d4 force plus lurkers-glow"
 
   - name: "Primal Innate Spells"
     desc: "DC 20, attack +14; __4th __  _[[Spells/Translocate|Dimension Door (Only when in bright light, and only to an area in bright light)]]_, _[[Spells/Summon Fey|Summon Fey]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Holy Light|Searing Light]]_, _[[Spells/Summon Fey|Summon Fey]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_"

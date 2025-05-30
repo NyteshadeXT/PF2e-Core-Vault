@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You gain a +1 circumstance bonus to AC until the start of your next turn.
+Granted by [[Feats/Ceremony of Protection|Ceremony of Protection]]
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+You gain a +1 circumstance bonus to AC.
+
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

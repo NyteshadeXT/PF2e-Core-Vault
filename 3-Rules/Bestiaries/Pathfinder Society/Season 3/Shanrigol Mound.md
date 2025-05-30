@@ -50,19 +50,28 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Necrotic Decay"
-    desc: " (divine,void) When the shanrigol mound dies, its flesh rots away and sublimates into a foul-smelling gas that fills a @Template[emanation|distance:5] around the body. This gas deals 4d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 22 Fortitude check save)."
+    desc: " (divine,void) When the shanrigol mound dies, its flesh rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body. This gas deals 4d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 22 Fortitude check save)."
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fleshy Slap +17 (forceful)\n__Damage__  2d6 + 11 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fleshy Slap"
+    desc: "+17 (forceful)\n__Damage__  2d6 + 11 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bone Shard +14 (agile, range increment 20 feet, versatile p)\n__Damage__  1d8 + 11 bludgeoning"
+  - name: "**Ranged** `pf2:1` Bone Shard"
+    desc: "+14 (agile, range increment 20 feet, versatile p)\n__Damage__  1d8 + 11 bludgeoning"
 
   - name: "Sapping Squeeze"
     desc: "`pf2:1`  **Requirements** The shanrigol has a creature grabbed\n* * *\n\n**Effect** The shanrigol squeezes the life essence from its target, dealing 1d6+8 bludgeoning and 1d4 persistent bleed damage (DC 21 Fortitude check save).\n\nThe shanrigol regains temporary Hit Points equal to half the amount of bludgeoning damage a single target takes; these temporary Hit Points last for 1 minute."
@@ -74,7 +83,7 @@ attacks:
     desc: "`pf2:2`  The shanrigol separates its flesh from its bones to fit through small spaces. It Strides, ignoring difficult terrain and fitting through tight spaces as though it were a Tiny creature. It can't use any actions other than Undulating Step until it occupies an area large enough for its normal form."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

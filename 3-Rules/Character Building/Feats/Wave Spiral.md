@@ -3,16 +3,19 @@ obsidianUIMode: preview
 title: "Wave Spiral"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/flourish
   - trait/monk
+  - trait/occult
   - trait/water
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.fLlCodqKXyXbZR7C"
-license: OGL
+license: ORC
 ---
 # Wave Spiral `pf2:2`
 ## Feat 12
-### [[monk]][[3-Rules/trait_reference/W/water]]
+### [[flourish]][[monk]][[occult]][[water]]
 
 **Category** class; 
 
@@ -26,9 +29,7 @@ license: OGL
 
 * * *
 
-You dip and spin, unleashing a wide whirlpool of water. Make an Athletics check to [[Actions/Trip|Trip]] each creature standing on the ground in a @Template\[emanation|distance:10\].
+You dip and spin, unleashing a wide whirlpool of water. Make an Athletics check to [[Actions/Trip|Trip]] each creature standing on the ground in a 10-foot emanation. These attacks all count toward your multiple attack penalty, but the penalty doesn't increase until after you make all the attacks.
 
-These attacks all count toward your multiple attack penalty, but the penalty doesn't increase until after you make all the attacks.
-
-*Source: Pathfinder Secrets of Magic*
-*OGL*
+*Source: Pathfinder Lost Omens Rival Academies*
+*ORC*

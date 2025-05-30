@@ -23,7 +23,7 @@ level: "Army 7"
 
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: siege
 modifier: 15
 perception:

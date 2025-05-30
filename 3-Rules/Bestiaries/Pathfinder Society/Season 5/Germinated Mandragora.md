@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 (finesse)\n__Damage__  2d8 + 2 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (finesse, unarmed)\n__Damage__  2d8 + 2 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Thorny Vine +12 (agile, finesse, reach)\n__Damage__  2d4 + 2 slashing plus mandragora-venom"
+  - name: "**Melee** `pf2:1` Thorny Vine"
+    desc: "+12 (agile, finesse, reach)\n__Damage__  2d4 + 2 slashing plus mandragora-venom"
 
   - name: "Blood Drain"
     desc: "`pf2:1` (fey) **Requirements** The germinated mandragora has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The germinated mandragora drains blood from the creature it has grabbed, dealing 1d6 untyped damage. If the creature is a demon, fey, or sorcerer, the germinated mandragora gains temporary Hit Points equal to the damage dealt. A creature that has its blood drained by a germinated mandragora is [[Conditions/Drained|Drained 1]] until it receives healing of any kind or amount."
@@ -79,7 +79,7 @@ attacks:
     desc: "`pf2:1` (auditory,mental,primal) **Frequency** once per day\n* * *\n\n**Effect** The germinated mandragora emits an unsettling shriek. Each non-mandragora creature within 30 feet must attempt a DC 23 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature is sickened 2 and [[Conditions/Slowed|Slowed 1]]. As long as the creature remains sickened, this slowed condition value can't be reduced below 1."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

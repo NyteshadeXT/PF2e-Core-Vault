@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (unholy)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (unarmed, unholy)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Caustic Drool"
     desc: "`pf2:1` (acid) Caustic saliva drips from the warhound's mouth. Until the end of its turn, the abyssal warhound's jaws Strike deals an additional 2 points of acid damage on a successful attack, or 4 points on a critical success.\n\n[[Bestiary Effects/Effect_ Caustic Drool|Effect: Caustic Drool]]"

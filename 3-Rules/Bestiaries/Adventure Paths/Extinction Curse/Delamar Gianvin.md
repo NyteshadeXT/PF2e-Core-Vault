@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +17 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+17 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +16 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+16 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 5 piercing"
 
   - name: "Quick Draw"
     desc: "`pf2:1`  Delamar draws a weapon with an Interact action, then Strikes with the weapon he just drew."

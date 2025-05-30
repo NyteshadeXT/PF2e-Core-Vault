@@ -21,5 +21,5 @@ Granted by [[Feats/Familiar's Resolve|Familiar's Resolve]]
 
 You gain a status bonus to saving throws against effects that would cause you to be [[Conditions/Doomed|Doomed]] or [[Conditions/Frightened|Frightened]].
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You gain a +1 item bonus to Stealth checks to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]].
+Granted by [[Equipment/Jack's Tattered Cape|Jack's Tattered Cape]]
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+You gain a +1 item bonus to Stealth checks to Hide or Sneak.
+
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

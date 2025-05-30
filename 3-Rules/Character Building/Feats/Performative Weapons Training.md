@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Gladiator Dedication
 * * *
-You're skilled with flashy weapons and can use them to great effect. You have familiarity with the [[Bo Staff|Bo Staff]], [[Dueling Cape|Dueling Cape]], [[Spiked Chain|Spiked Chain]], [[Sword Cane|Sword Cane]], [[Trident|Trident]], [[War Flail|War Flail]], and [[Whip|Whip]]. For the purposes of proficiency, you treat these as simple weapons. The GM may add other martial weapons to this list as appropriate for the world or region you are playing in.
+You're skilled with flashy weapons and can use them to great effect. You have familiarity with the [[Equipment/Bo Staff|Bo Staff]], [[Equipment/Dueling Cape|Dueling Cape]], [[Equipment/Spiked Chain|Spiked Chain]], [[Equipment/Sword Cane|Sword Cane]], [[Equipment/Trident|Trident]], [[Equipment/War Flail|War Flail]], and [[Equipment/Whip|Whip]]. For the purposes of proficiency, you treat these as simple weapons. The GM may add other martial weapons to this list as appropriate for the world or region you are playing in.
 
 Whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
 

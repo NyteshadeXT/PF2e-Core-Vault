@@ -57,14 +57,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinging Tentacle +24 (agile, reach 30 feet)\n__Damage__  2d8 + 8 bludgeoning plus grab,sky-fisher-venom"
+  - name: "**Melee** `pf2:1` Stinging Tentacle"
+    desc: "+24 (agile, reach 30 feet)\n__Damage__  2d8 + 8 bludgeoning plus grab,sky-fisher-venom"
 
   - name: "Abduct"
     desc: "`pf2:1` (attack) The sky fisher reels in a target [[Conditions/Grabbed|Grabbed]] by its tentacles, pulling them into an adjacent space, and then attempts to [[Bestiary Ability Glossary/Swallow Whole|Swallow them Whole]] (Large, 3d8+12 acid, Rupture 25). The sky fisher can only use Swallow Whole when using Abduct."
 
   - name: "Enzymic Vent"
-    desc: "`pf2:2` (poison) The sky fisher vents flesh-eating enzymes into the air, dealing 3d6 persistent acid damage and 3d6 persistent bleed damage in a @Template[emanation|distance:20] (DC 25 Reflex check save). It can't use Enzymic Vent again for 1d4 rounds."
+    desc: "`pf2:2` (poison) The sky fisher vents flesh-eating enzymes into the air, dealing 3d6 persistent acid damage and 3d6 persistent bleed damage in a 20-foot emanation (DC 25 Reflex check save). It can't use Enzymic Vent again for 1d4 rounds."
 
   - name: "Jet"
     desc: "`pf2:2` (move) The sky fisher quickly expels some of its gases to move swiftly through the air, Flying up to 100 feet in a straight line; this movement doesn't trigger reactions."
@@ -73,7 +73,7 @@ attacks:
     desc: " (poison) **Saving Throw** DC 25 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 3d6 poison damage, [[Conditions/Clumsy|Clumsy 1]], and can't speak above a whisper (1 round)\n\n**Stage 2** 3d8 poison damage, [[Conditions/Clumsy|Clumsy 2]], and can't speak (1 round)\n\n**Stage 3** 3d10 poison damage and [[Conditions/Paralyzed|Paralyzed]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

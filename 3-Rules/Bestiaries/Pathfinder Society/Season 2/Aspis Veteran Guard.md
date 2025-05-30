@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Falchion +13 (forceful, sweep)\n__Damage__  1d10 + 6 slashing"
+  - name: "**Melee** `pf2:1` Falchion"
+    desc: "+13 (forceful, sweep)\n__Damage__  1d10 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +14 (range increment 120 feet, reload 1)\n__Damage__  1d10 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+14 (range increment 120 feet, reload 1)\n__Damage__  1d10 + 5 piercing"
 
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) The Aspis veteran guard designates a single creature they can see and hear, or one they're Tracking, as their prey. The Aspis veteran guard gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey. This effect lasts until the Aspis veteran guard uses Hunt Prey again."

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Share Life"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.MY6z2b4GPhAD2Eoa"
 license: OGL

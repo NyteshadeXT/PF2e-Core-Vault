@@ -35,6 +35,6 @@ abilities_top:
     desc: "basic reflex"
 abilities_mid:
   - name: ""
-    desc: "**Area** @Template[burst|distance:10], @Template[cone|distance:30], or @Template[line|distance:60]\n* * *\n\nYou gather elemental energy and blast your foes in one of the various listed shapes of your choosing, dealing 8d6 damage. This spell deals damage according to your elemental influence (for instance, slashing for air or fire for fire) and has your element's trait.\n* * *\n\n**Heightened (+1)** The damage increases by 2d6."
+    desc: "**Area** 10-foot burst, 30-foot cone, or 60-foot line\n* * *\n\nYou gather elemental energy and blast your foes in one of the various listed shapes of your choosing, dealing 8d6 damage. This spell deals damage according to your elemental influence (for instance, slashing for air or fire for fire) and has your element's trait.\n* * *\n\n**Heightened (+1)** The damage increases by 2d6."
 sourcebook: "_Pathfinder Player Core 2_"
 ```

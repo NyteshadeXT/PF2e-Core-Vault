@@ -24,5 +24,5 @@ You can infuse your enchantments and illusions with more power. Choose one of yo
 
 **Special** You can select this feat more than once. Each time you select it, you choose a different spell.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

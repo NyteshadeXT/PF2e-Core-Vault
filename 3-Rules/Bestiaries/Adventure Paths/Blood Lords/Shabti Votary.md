@@ -19,6 +19,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/PZO90186 SHABTI VOTARY.webp| ]]
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Shabti Votary"
 level: "Creature 18"
@@ -65,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +28 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 18 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+28 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 18 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +28 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  3d4 + 18 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+28 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  3d4 + 18 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 44, attack +36; __7th __  _[[Spells/Energy Aegis|Energy Aegis]]_, _[[Spells/Regenerate|Regenerate]]_, _[[Spells/Sunburst|Sunburst]]_; __6th __  _[[Spells/Scintillating Safeguard|Scintillating Safeguard]]_, _[[Spells/Spirit Blast|Spirit Blast]]_; __5th __  _[[Spells/Breath of Life|Breath of Life]]_, _[[Spells/Truespeech|Tongues]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __  _[[Spells/Ghostly Weapon|Ghostly Weapon]]_, _[[Spells/Heroism|Heroism]]_, _[[Spells/Holy Light|Searing Light]]_; __2nd __  _[[Spells/Create Food|Create Food]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Enhance Victuals|Enhance Victuals]]_, _[[Spells/Clear Mind|Remove Fear]]_, _[[Spells/Sure Footing|Remove Paralysis]]_, _[[Spells/Restoration|Restoration]]_; __1st __  _[[Spells/Heal|Heal]]_, _[[Spells/Mindlink|Mindlink]]_\n__Cantrips__  __(9th)__ _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Haunting Hymn|Haunting Hymn]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Stabilize|Stabilize]]_"
@@ -78,7 +79,7 @@ attacks:
     desc: "2 Focus Points, DC 44, attack +36; __9th __  _[[Spells/Death's Call|Death's Call]]_, _[[Spells/Eradicate Undeath|Eradicate Undeath]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Consecrate|Consecrate]]_"
+    desc: "_Consecrate_"
 
   - name: "Cremate Undead"
     desc: "  A shabti votary's vitality energy sets undead alight. When a shabti votary uses a [[Spells/Heal|Heal]] spell to damage undead, each undead that takes damage also takes persistent fire damage equal to the spell's rank."

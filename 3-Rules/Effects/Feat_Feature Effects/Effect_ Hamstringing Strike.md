@@ -18,7 +18,7 @@ license: OGL
 
 Granted by [[Feats/Hamstringing Strike|Hamstringing Strike]]
 
-If you hit your prey, the creature takes a -5-foot status penalty to Speed. If you critically hit your prey, the creature takes a -10-foot status penalty to Speed.
+You take a -5-foot status penalty to Speed. On a Critical Hit, you take a -10-foot status penalty to Speed.
 
 *Source: Pathfinder Kingmaker*
 *OGL*

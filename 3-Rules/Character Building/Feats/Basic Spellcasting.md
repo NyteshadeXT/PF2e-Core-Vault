@@ -11,7 +11,7 @@ license: OGL
 ---
 # Basic Spellcasting
 ## Feat 4
-### [rare](rare.md "Rare Rarity Trait")[[pervasive-magic]]
+### [rare](rare "Rare Rarity Trait")[[pervasive-magic]]
 
 **Category** class; 
 

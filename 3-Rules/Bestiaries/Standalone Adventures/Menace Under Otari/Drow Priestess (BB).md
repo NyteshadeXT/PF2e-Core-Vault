@@ -68,11 +68,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +9 (deadly d8, finesse)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+9 (deadly d8, finesse)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +9 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+9 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "Cleric Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Runic Weapon|Magic Weapon]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Stabilize|Stabilize]]_"

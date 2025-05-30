@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Familiar Abilities/Familiar of Balanced Luck|Familiar of Balanced Luck]]
 
-When you Cast or Sustain a hex, one creature within 15 feet of your familiar gets your choice of either a +1 status bonus to its AC or a –1 status penalty to its AC until the start of your next turn.
+You gain either a +1 status bonus to its AC or a –1 status penalty to your AC.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -27,7 +27,7 @@ If the chosen action can be used with multiple skills, such as Identify Magic or
 
 Typically a challenging task is one with at least a standard DC for your level, though the difficulty may be higher depending on the situation. A meaningful context is one where the action's success or failure is relevant to the pursuit of your goals, rather than a boast you made simply to gain a bonus later.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Firebrand Braggart|Firebrand Braggart]] archetype.
+[[PF2e Journals/Archetypes/Firebrand Braggart|Firebrand Braggart]]
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

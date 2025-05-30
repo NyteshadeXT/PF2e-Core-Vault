@@ -66,20 +66,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 ()\n__Damage__  2d8 + 9 piercing 2d4 fire"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (unarmed)\n__Damage__  2d8 + 9 piercing 2d4 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile)\n__Damage__  2d8 + 9 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, unarmed)\n__Damage__  2d8 + 9 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +20 (reach 10 feet)\n__Damage__  2d8 + 9 slashing"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+20 (reach 10 feet)\n__Damage__  2d8 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thrown Rock +17 (thrown 20 ft., deadly d6)\n__Damage__  2d6 + 9 bludgeoning"
+  - name: "**Ranged** `pf2:1` Thrown Rock"
+    desc: "+17 (thrown 20 ft.)\n__Damage__  2d6 + 9 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine,fire) Racharak breathes flames that deals 9d6 fire damage to all creatures in a @Template[cone|distance:30] (DC 26 Reflex check save).\n\nShe can't use Breath Weapon again for 1d4 rounds"
+    desc: "`pf2:2` (divine,fire) Racharak breathes flames that deals 9d6 fire damage to all creatures in a 30-foot cone (DC 26 Reflex check save).\n\nShe can't use Breath Weapon again for 1d4 rounds"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  Racharak makes two claw Strikes and one bite Strike in any order."

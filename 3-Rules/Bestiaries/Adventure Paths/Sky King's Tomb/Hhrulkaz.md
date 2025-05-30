@@ -63,20 +63,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Clan Dagger +11 (agile, dwarf, parry, versatile b)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Clan Dagger"
+    desc: "+11 (agile, dwarf, parry, versatile b)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 ()\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (unarmed)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +10 (agile)\n__Damage__  1d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+10 (agile, unarmed)\n__Damage__  1d6 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shattering Chant +12 (range increment 30 feet, sonic)\n__Damage__  2d6 + 4 sonic"
+  - name: "**Ranged** `pf2:1` Shattering Chant"
+    desc: "+12 (range increment 30 feet, sonic)\n__Damage__  2d6 + 4 sonic"
 
   - name: "Rituals"
-    desc: "_[[Spells/Consecrate|Consecrate]]_"
+    desc: "_Consecrate_"
 
   - name: "Far-Reaching Fear"
     desc: "  The range at which Hhrulkaz can [[Actions/Demoralize|Demoralize]] creatures increases to 60 feet, and she doesn't take a penalty if the creature doesn't understand her language."

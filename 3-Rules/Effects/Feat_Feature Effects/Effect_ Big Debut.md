@@ -20,5 +20,5 @@ Granted by [[Feats/Big Debut|Big Debut]]
 
 You gain a +1 circumstance bonus on Charisma-based skill checks until the end of your turn.
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

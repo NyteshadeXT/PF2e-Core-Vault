@@ -62,11 +62,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 10]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "[[Creature Family Ability Glossary/(Vampire, Jiang-Shi, Basic) Jiang-Shi Vulnerabilities|Jiang-Shi Vulnerabilities]]"
     desc: "  All jiang-shi possess the following vulnerabilities.\n\n*   **Revulsion** A jiang-shi can't voluntarily come within 10 feet of a brandished mirror or the sound of ringing handbells. A creature can Interact with a mirror or handbell to brandish or ring the item for 1 round (similar to Raising a Shield). If the jiang-shi involuntarily comes within 10 feet of an object of their revulsion, they gain the [[Conditions/Fleeing|Fleeing]] condition, running from the object of their revulsion until they are 10 feet or farther from the object. After 1 round of being exposed to the object of their revulsion, a jiang-shi can attempt a DC 25 Will check save as a single action, which has the concentrate trait. On a success, they overcome their revulsions for 1d6 rounds (or 1 hour on a critical success).\n*   **Bitter Epiphany** A jiang-shi is afflicted by severe melancholia when reminded of their debased nature and the truth of their existential disconnection from living beings. When a jiang-shi sees an altar with at least 1 Bulk of food offerings to ancestor spirits, they must attempt a DC 25 Will check save. They are then temporarily immune to Bitter Epiphany for 1 minute.\n* * *\n\n**Critical Success** The jiang-shi is unaffected.\n\n**Success** The jiang-shi is [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Failure** The jiang-shi is [[Conditions/Stupefied|Stupefied 2]] for 1 minute.\n\n**Critical Failure** The jiang-shi is stupefied 2 and [[Conditions/Confused|Confused]] for 1 minute."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Jiang-Shi, Basic) One More Breath|One More Breath]]"
     desc: " (divine,void) Unlike other undead, a jiang-shi isn't destroyed at 0 HP. Instead, they fall [[Conditions/Unconscious|Unconscious]] and awaken in 1 minute with 1 Hit Point. Scattering at least 1 Bulk of glutinous rice or hen eggs on an unconscious jiang-shi destroys them permanently. If the jiang-shi was reduced to 0 HP by an attack from a weapon made of duskwood, they're destroyed immediately."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Jiang-Shi, Basic) Warped Fulu|Warped Fulu]]"
     desc: "  The jiang-shi has corrupted the fulu attached to their brow. The jiang-shi is immune to spells cast from a magic item without expending a spell slot, such as from a scroll or wand. A creature can [[Actions/Steal|Steal]] the fulu to remove it, rolling against the jiangshi's Perception DC. This immediately ends the jiang-shi's immunity to these effects. If a creature then destroys the removed fulu with an Interact action, the jiang-shi also loses their fast healing ability. A jiang-shi can create a replacement fulu by spending 1 uninterrupted hour inscribing a strip of paper (or similar) with a writing instrument."
@@ -74,26 +80,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (agile)\n__Damage__  2d10 + 11 piercing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (agile, unarmed)\n__Damage__  2d10 + 11 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Urumi +22 (deadly d10, magical, sweep)\n__Damage__  1d6 fire 1d6 electricity 2d6 + 11 slashing"
+  - name: "**Melee** `pf2:1` Urumi"
+    desc: "+22 (deadly d10, magical, sweep)\n__Damage__  1d6 fire 1d6 electricity 2d6 + 11 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 29, attack +21; __5th __  _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __  _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Vampiric Feast|Vampiric Feast]]_\n__Cantrips__  __(5th)__ _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Inveigle|Inveigle]]_"
+    desc: "_Inveigle_"
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Jiang-Shi, Basic) Drain Qi|Drain Qi]]"
-    desc: "`pf2:1` (divine) **Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within the jiang-shi's reach\n* * *\n\n**Effect** The jiang-shi drains the victim's life energy, or qi, through their breath. This requires an Athletics check check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is [[Conditions/Drained|Drained 1]] and the jiang-shi regains 12 HP, gaining any excess as temporary Hit Points. Draining qi from a creature that's already drained doesn't restore any HP to the jiang-shi but increases the victim's drained condition value by 1, killing the victim when it reaches drained 5. If the victim has the ability to cast ki spells, it can spend 1 Focus Point to avoid becoming drained. This protects it only from the current attack, not from subsequent attempts to Drain Qi.\n\nA victim's drained condition value decreases by 1 every week. If the creature restricts their diet to glutinous rice for at least 1 day and spends 10 minutes dancing, jogging, or otherwise engaging in vigorous physical activity by succeeding at a DC 25 Athletics check check, it reduces its drained condition by 1."
+    desc: "`pf2:1` (divine) **Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within the jiang-shi's reach\n* * *\n\n**Effect** The jiang-shi drains the victim's life energy, or qi, through their breath. This requires an Athletics check check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is [[Conditions/Drained|Drained 1]] and the jiang-shi regains 12 healing HP, gaining any excess as temporary Hit Points. Draining qi from a creature that's already drained doesn't restore any HP to the jiang-shi but increases the victim's drained condition value by 1, killing the victim when it reaches drained 5. If the victim has the ability to cast ki spells, it can spend 1 Focus Point to avoid becoming drained. This protects it only from the current attack, not from subsequent attempts to Drain Qi.\n\nA victim's drained condition value decreases by 1 every week. If the creature restricts their diet to glutinous rice for at least 1 day and spends 10 minutes dancing, jogging, or otherwise engaging in vigorous physical activity by succeeding at a DC 25 Athletics check check, it reduces its drained condition by 1."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Jiang-Shi, Basic) Rigor Mortis|Rigor Mortis]]"
     desc: "  The jiang-shi ignores difficult terrain and effects that would render them [[Conditions/Prone|Prone]]. A jiang-shi can't take the [[Actions/Drop Prone|Drop Prone]] action. When they [[Actions/Leap|Leap]] they don't trigger reactions that are normally triggered by move actions, such as Attacks of Opportunity."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

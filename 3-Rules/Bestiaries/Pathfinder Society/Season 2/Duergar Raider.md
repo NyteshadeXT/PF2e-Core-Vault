@@ -57,19 +57,22 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "2x [[Equipment/Light Hammer|Light Hammer]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], 2x [[Equipment/Manacles (Poor)|Manacles (Poor)]]"
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Manacles +11 (trip)\n__Damage__  1d8 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Manacles"
+    desc: "+11 (trip)\n__Damage__  1d8 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Hammer +11 (agile)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Light Hammer"
+    desc: "+11 (agile)\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +8 (agile, thrown 20 ft.)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+8 (agile, thrown 20 ft.)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +10; __2nd __ (2 slots) _[[Spells/Enlarge|Enlarge (Self Only)]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_"

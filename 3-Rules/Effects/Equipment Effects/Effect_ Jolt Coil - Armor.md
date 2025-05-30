@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Jolt Coil|Jolt Coil]]
+Granted by [[Equipment/Jolt Coil|Jolt Coil]], [[Equipment/Jolt Coil (Greater)|Jolt Coil (Greater)]], [[Equipment/Jolt Coil (Major)|Jolt Coil (Major)]]
 
-You gain resistance 2 to electricity.
+You gain resistance to electricity.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

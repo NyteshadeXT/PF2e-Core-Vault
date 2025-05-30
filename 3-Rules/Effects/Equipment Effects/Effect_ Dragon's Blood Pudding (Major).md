@@ -8,7 +8,7 @@ aliases: "Compendium.pf2e.equipment-effects.Item.0YbNzbW0HSKtgStQ"
 license: OGL
 ---
 # Effect: Dragon's Blood Pudding (Major)
-## Level 13
+## Level 19
 ### 
 
 
@@ -16,7 +16,9 @@ license: OGL
 
 
 
-If you choose to Demoralize, you gain a +4 item bonus to the Intimidation check.
+Granted by [[Equipment/Dragon's Blood Pudding (Major)|Dragon's Blood Pudding (Major)]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+You are quickened. You can use the additional action to Step, Stride, Strike, or Demoralize. You gain a +4 item bonus to Intimidation checks to Demoralize.
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

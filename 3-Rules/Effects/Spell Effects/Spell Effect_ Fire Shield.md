@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Fire Shield|Fire Shield]]
+Granted by [[Spells/Fire Shield|Fire Shield]]
 
-The target gains resistance to cold damage.
+You gain resistance to cold damage. You can Raise a Shield with the fire shield as a normal shield to gain a +1 circumstance bonus to AC.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -53,22 +53,28 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Composite Longbow|+1 Striking Composite Longbow]], [[Equipment/Rhoka Sword|+1 Striking Rhoka Sword]], 50x [[Equipment/Arrows|Arrows]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "Necrotic Decay"
-    desc: " (divine,void) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a @Template[emanation|distance:5] around the body.\n\nThis gas deals 12d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 32 Fortitude check save)."
+    desc: " (divine,void) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body.\n\nThis gas deals 12d6 void damage to creatures in this area as their flesh curdles and rots as well (DC 32 Fortitude check save)."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rhoka Sword +24 (fatal d10, magical, two-hand d12)\n__Damage__  2d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Rhoka Sword"
+    desc: "+24 (fatal d10, magical, two-hand d12)\n__Damage__  2d8 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +22 (agile)\n__Damage__  3d6 + 10 piercing plus wicked-bite"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+22 (agile, unarmed)\n__Damage__  3d6 + 10 piercing plus wicked-bite"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +26 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+26 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 4 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 29, attack +23; __4th __  _[[Spells/Death Knell|Death Knell]]_; __3rd __  _[[Spells/Gentle Landing|Feather Fall (At Will) (Self Only)]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_"
@@ -83,7 +89,7 @@ attacks:
     desc: "  Urdefhan hunters can make composite longbow Strikes while mounted."
 
   - name: "Wicked Bite"
-    desc: "`pf2:1`  **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action\n* * *\n\n**Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a DC 32 Fortitude check save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n\n*   **Drain Blood** The urdefhan drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained|Drained 1]] and the urdefhan regains 5 HP (or, on a critical failure, it's [[Conditions/Drained|Drained 2]] and the urdefhan regains 10 HP).\n*   **Drain Vitality** (necromancy) The urdefhan draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour on a critical failure)."
+    desc: "`pf2:1`  **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action\n* * *\n\n**Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a DC 32 Fortitude check save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n\n*   **Drain Blood** The urdefhan drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained|Drained 1]] and the urdefhan regains 5 healing HP (or, on a critical failure, it's [[Conditions/Drained|Drained 2]] and the urdefhan regains 10 healing HP).\n*   **Drain Vitality** (necromancy) The urdefhan draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour on a critical failure)."
  
 ```
 

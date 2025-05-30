@@ -20,5 +20,5 @@ Granted by [[Divine Intercessions/Rovagug - Minor Boon|Rovagug - Minor Boon]]
 
 Your weapon or unarmed attack gains the deadly d12 trait.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

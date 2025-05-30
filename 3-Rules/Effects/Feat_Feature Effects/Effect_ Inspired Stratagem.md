@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Actions/Inspired Stratagem|Inspired Stratagem]]
+
 You roll the triggering check twice and take the better of the two results.
 
 *Source: Pathfinder Player Core*

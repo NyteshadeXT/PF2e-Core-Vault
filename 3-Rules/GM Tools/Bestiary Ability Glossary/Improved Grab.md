@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Improved Grab"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-ability-glossary-srd.Item.i18TlebMzwONyPhI"
@@ -18,7 +18,13 @@ license: ORC
 
 
 
-The monster can use [[Bestiary Ability Glossary/Grab|Grab]] as a free action triggered by a hit with its initial attack. A monster with Improved Grab still needs to spend an action to extend the duration for creatures it already has [[Conditions/Grabbed|Grabbed]].
+**Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]
+
+* * *
+
+**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.
+
+The monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn.
 
 *Source: Pathfinder Monster Core*
 *ORC*

@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +31 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  3d6 + 12 bludgeoning 1d6 acid"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+31 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  3d6 + 12 bludgeoning 1d6 acid"
 
-  - name: "Melee"
-    desc: "`pf2:1` Lashing Branch +31 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  3d8 + 12 slashing 1d6 acid"
+  - name: "**Melee** `pf2:1` Lashing Branch"
+    desc: "+31 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  3d8 + 12 slashing 1d6 acid"
 
   - name: "Focus Spells"
     desc: "3 Focus Points, DC 38, attack +30; __9th __  _[[Spells/Qi Rush|Ki Rush]]_, _[[Spells/Inner Upheaval|Ki Strike]]_, _[[Spells/Wind Jump|Wind Jump]]_"

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Craft Luxuries"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/leadership
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.B70XC3Ci1SqemPlT"
 license: OGL
 ---
 # Craft Luxuries
-
+## 
 ### [[downtime]][[leadership]]
 
 **Category** kingdom-activity; 

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Until the end of your turn, that creature takes a -1 status penalty to Will saves against your enchantment spells and your illusion spells.
+Granted by [[Equipment/Chatterer of Follies|Chatterer of Follies]]
+
+You take a -1 status penalty to Will saves against your enchantment spells and your illusion spells.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

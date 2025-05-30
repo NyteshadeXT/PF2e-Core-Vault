@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Recruit Army"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/leadership
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.Fko5kdpi9Oxas6Ty"
 license: OGL
 ---
 # Recruit Army
-
+## 
 ### [[downtime]][[leadership]]
 
 **Category** kingdom-activity; 

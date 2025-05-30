@@ -61,17 +61,20 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghast) Stench|Stench]]"
     desc: " (aura,olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 16 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] as long as it's sickened on a critical failure).\n\nWhile within the aura, the creature takes a -2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\n\n[[Bestiary Effects/Effect_ Stench|Effect: Stench]]"
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 (finesse)\n__Damage__  1d6 + 5 piercing plus ghast-ghast-fever,ghast-paralysis"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (finesse, unarmed)\n__Damage__  1d6 + 5 piercing plus ghast-ghast-fever,ghast-paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile, finesse)\n__Damage__  1d4 + 5 slashing plus ghast-paralysis"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, finesse, unarmed)\n__Damage__  1d4 + 5 slashing plus ghast-paralysis"
 
   - name: "[[Creature Family Ability Glossary/(Ghast) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** The ghast is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghast devours a chunk of the corpse and regains 3d6 Hit Points.\n\nIt can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The ghast is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghast devours a chunk of the corpse and regains 3d6 healing Hit Points.\n\nIt can regain Hit Points from any given corpse only once."
 
   - name: "[[Creature Family Ability Glossary/(Ghast) Ghast Fever|Ghast Fever]]"
     desc: " (disease) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 3d8 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 3d8 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghast|Ghast]] the next midnight"

@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sai +27 (agile, disarm, finesse, magical, monk, versatile b)\n__Damage__  2d4 + 9 piercing"
+  - name: "**Melee** `pf2:1` Sai"
+    desc: "+27 (agile, disarm, finesse, magical, monk, versatile b)\n__Damage__  2d4 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shuriken +27 (agile, magical, reload 0, thrown 20 ft.)\n__Damage__  2d4 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Shuriken"
+    desc: "+27 (agile, magical, reload 0, thrown 20 ft.)\n__Damage__  2d4 + 11 piercing"
 
   - name: "Deadly Disarm"
     desc: "  The agile warrior deals 2d6 precision damage to a creature on a successful Disarm attempt."

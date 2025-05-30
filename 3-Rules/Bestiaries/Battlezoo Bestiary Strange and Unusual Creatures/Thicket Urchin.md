@@ -35,7 +35,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +30, Athletics: +30"
+    desc: "Athletics: +30"
 abilityMods: [9, -4, 8, -5, 4, -3]
 speed: 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spine +30 (reach 10 feet)\n__Damage__  3d12 + 17 piercing plus thicket-urchin-venom"
+  - name: "**Melee** `pf2:1` Spine"
+    desc: "+30 (reach 10 feet)\n__Damage__  3d12 + 17 piercing plus thicket-urchin-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Body +30 ()\n__Damage__  3d6 + 17 bludgeoning"
+  - name: "**Melee** `pf2:1` Body"
+    desc: "+30 ()\n__Damage__  3d6 + 17 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Harpoon +28 (brutal, range increment 60 feet)\n__Damage__  3d10 + 14 piercing plus impale,thicket-urchin-venom"
+  - name: "**Ranged** `pf2:1` Harpoon"
+    desc: "+28 (brutal, range increment 60 feet)\n__Damage__  3d10 + 14 piercing plus impale,thicket-urchin-venom"
 
   - name: "Thicket Urchin Venom"
     desc: " (poison) **Saving Throw** DC 33 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage, [[undefined]], and [[undefined]] (1 round)\n\n**Stage 2** 3d6 poison damage, [[undefined]], and [[undefined]] (1 round)\n\n**Stage 3** 4d6 poison damage, [[undefined]], and [[undefined]] (1 round)"

@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Book +17 (magical, range increment 60 feet)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Ranged** `pf2:1` Book"
+    desc: "+17 (magical, range increment 60 feet)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 28, attack +20; __5th __  _[[Spells/Toxic Cloud|Cloudkill]]_; __4th __  _[[Spells/Fly|Fly]]_, _[[Spells/Mountain Resilience|Stoneskin]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Gravity Well|Gravity Well]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Summon Elemental|Summon Elemental]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __  _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Share Lore|Share Lore (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic (Constant, 4th Level)]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"

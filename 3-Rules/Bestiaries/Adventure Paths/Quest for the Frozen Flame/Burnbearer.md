@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +8 ()\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+8 ()\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Torch +6 ()\n__Damage__  1d4 fire"
+  - name: "**Melee** `pf2:1` Torch"
+    desc: "+6 ()\n__Damage__  1d4 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +7 (thrown 10 ft.)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+7 (thrown 10 ft.)\n__Damage__  1d6 + 2 bludgeoning"
 
   - name: "Torch and Go"
     desc: "`pf2:1`  **Requirements** The burnbearer is flanking a creature\n* * *\n\n**Effect** The burnbearer sets the distracted enemy ablaze. The burnbearer makes a torch Strike against the flanked creature, then Steps. If the burnbearer's Strike deals damage to the flanked creature, the creature also takes 1 persistent fire damage."

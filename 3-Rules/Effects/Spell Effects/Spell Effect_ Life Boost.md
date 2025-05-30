@@ -17,7 +17,13 @@ license: ORC
 
 
 
-Granted by [[Life Boost|Life Boost]].
+Granted by [[Spells/Life Boost|Life Boost]].
+
+You gain fast healing 2.
+
+* * *
+
+**Heightened (+1)** The fast healing increases by 2.
 
 *Source: Pathfinder Player Core*
 *ORC*

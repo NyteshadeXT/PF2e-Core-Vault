@@ -7,8 +7,9 @@ tags:
   - trait/flourish
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Eg7YZBmeNJeY9wkD"
-license: OGL
+license: ORC
 ---
 # Drive-By Attack `pf2:1`
 ## Feat 12
@@ -24,7 +25,7 @@ license: OGL
 
 * * *
 
-You can smoothly line up an attack without disrupting your control. You [[Actions/Drive|Drive]], gaining the effects of the Drive action for the same number of actions you spent to Drive-By Attack. At any point during your vehicle's movement, you Strike.
+You can smoothly line up an attack without disrupting your control.You [[Actions/Drive|Drive]], gaining the effects of the Drive action for the same number of actions you spent to Drive-By Attack. At any point during your vehicle's movement, you Strike.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

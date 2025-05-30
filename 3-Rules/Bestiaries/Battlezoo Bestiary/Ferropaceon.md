@@ -66,8 +66,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scissor Claw +23 (versatile p)\n__Damage__  2d12 + 13 slashing"
+  - name: "**Melee** `pf2:1` Scissor Claw"
+    desc: "+23 (versatile p)\n__Damage__  2d12 + 13 slashing"
 
   - name: "Earth Glide"
     desc: "  The ferropaceon can Burrow through any earthen matter, including rock. When it does so, the ferropaceon moves at its full burrow Speed, leaving no tunnels or signs of its passing."

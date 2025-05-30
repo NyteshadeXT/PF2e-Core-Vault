@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Static Snare|Static Snare]]
+Granted by [[Equipment/Static Snare|Static Snare]]
 
-The target takes a -1 circumstance penalty to saving throws against electricity effects for as long as the persistent electricity damage lasts.
+You take a -1 circumstance penalty to saving throws against electricity effects.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

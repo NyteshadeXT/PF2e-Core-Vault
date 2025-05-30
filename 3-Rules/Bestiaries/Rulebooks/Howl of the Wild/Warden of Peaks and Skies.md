@@ -31,7 +31,7 @@ trait_02: [[beast]]
 modifier: 40
 perception:
   - name: "Perception"
-    desc: "+40; "
+    desc: "+40; Darkvision, Scent (Imprecise) 60 Feet"
 languages: "voice of nature"
 skills:
   - name: "Skills"
@@ -51,6 +51,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Scent|Scent (Imprecise) 60 feet]]"
+    desc: "  Scent involves sensing creatures or objects by smell, and is usually a vague sense. The range is listed in the ability, and it functions only if the creature or object being detected emits an aroma (for instance, incorporeal creatures usually do not exude an aroma).\n\nIf a creature emits a heavy aroma or is upwind, the GM can double or even triple the range of scent abilities used to detect that creature, and the GM can reduce the range if a creature is downwind."
+
+  - name: "[[Bestiary Ability Glossary/Darkvision|Darkvision]]"
+    desc: "  A monster with darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. Some forms of magical darkness, such as a 4th-rank [[Spells/Darkness|Darkness]] spell, block normal darkvision. A monster with [[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]], however, can see through even these forms of magical darkness."
+
   - name: "Stormsight"
     desc: "  Wind, precipitation, and clouds don't impair the warden's vision; she ignores the [[Conditions/Concealed|Concealed]] condition from storms, mist, precipitation, and the like."
 
@@ -65,29 +71,29 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +41 (finesse, magical, reach 10 feet)\n__Damage__  4d12 + 16 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+41 (finesse, magical, reach 10 feet, unarmed)\n__Damage__  4d12 + 16 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horned Crown +41 (agile, finesse, magical, reach 15 feet)\n__Damage__  4d8 + 16 piercing"
+  - name: "**Melee** `pf2:1` Horned Crown"
+    desc: "+41 (agile, finesse, magical, reach 15 feet)\n__Damage__  4d8 + 16 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Gale Blast +39 (air, magical, range increment 90 feet)\n__Damage__  2d8 + 16 bludgeoning 2d8 electricity"
+  - name: "**Ranged** `pf2:1` Gale Blast"
+    desc: "+39 (air, magical, range increment 90 feet)\n__Damage__  2d8 + 16 bludgeoning 2d8 electricity"
 
   - name: "Primal Innate Spells"
     desc: "DC 45, attack +0; __10th __  _[[Spells/Revival|Revival]]_, _[[Spells/Wrathful Storm|Wrathful Storm]]_; __9th __  _[[Spells/Soothing Spring|Soothing Spring]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Unfettered Movement]]_"
 
   - name: "Crystal Exhalation"
-    desc: "`pf2:2` (cold,primal) The warden breathes, creating a storm of ice crystals. All creatures in a @Template[cone|distance:60] take 4d8 cold damage and 4d8 slashing damage (DC 44 Reflex check save). On a critical failure, a creature is [[Conditions/Immobilized|Immobilized]] by ice. The warden then can't use Crystal Exhalation for 1d4 rounds."
+    desc: "`pf2:2` (cold,primal) The warden breathes, creating a storm of ice crystals. All creatures in a 60-foot cone take 4d8 cold damage and 4d8 slashing damage (DC 44 Reflex check save). On a critical failure, a creature is [[Conditions/Immobilized|Immobilized]] by ice. The warden then can't use Crystal Exhalation for 1d4 rounds."
 
   - name: "Orogenesis Dive"
-    desc: "`pf2:3` (air,earth,move,primal) The warden flies 240 feet upward in a straight line. As she does so, the ground in a @Template[burst|distance:30] from her starting point rises into a 120-foot-high rocky pillar topped with a mountainous peak that becomes greater difficult terrain. All other creatures in that burst must succeed at a DC 44 Fortitude check save or be [[Conditions/Fatigued|Fatigued]] by the sudden altitude shift. The warden then flies straight downward to the center of the pillar's peak, driving her horns into the stone. As she lands, the newly formed mountains tremble. All other creatures in the area must succeed at a DC 42 Reflex check save or plummet off the peaks, falling 120 feet and landing in the nearest square outside the area. The pillar is permanent."
+    desc: "`pf2:3` (air,earth,move,primal) The warden flies 240 feet upward in a straight line. As she does so, the ground in a 30-foot burst from her starting point rises into a 120-foot-high rocky pillar topped with a mountainous peak that becomes greater difficult terrain. All other creatures in that burst must succeed at a DC 44 Fortitude check save or be [[Conditions/Fatigued|Fatigued]] by the sudden altitude shift. The warden then flies straight downward to the center of the pillar's peak, driving her horns into the stone. As she lands, the newly formed mountains tremble. All other creatures in the area must succeed at a DC 42 Reflex check save or plummet off the peaks, falling 120 feet and landing in the nearest square outside the area. The pillar is permanent."
 
   - name: "Song of the Skies"
     desc: "`pf2:1` (air,auditory,primal) The warden trills a cheerful birdsong, granting a boon to all allies within 60 feet and evoking the freedom of flight. For the next minute, affected allies gain [[Spells/Unfettered Movement|Unfettered Movement]], a fly speed of 60 feet, and treat creatures on the ground as [[Conditions/Off-Guard|Off-Guard]] when they are airborne.\n\n[[Bestiary Effects/Effect_ Song of the Skies|Effect: Song of the Skies]]"
 
   - name: "Tempest Downdrafts"
-    desc: " (air,primal) **Trigger** The warden Flies\n* * *\n\n**Effect** s The warden's flapping wings generate powerful gusts that blow smaller creatures off course. A @Template[emanation|distance:60], centered on the warden, fills with lightning-pierced winds until the beginning of the warden's next turn. Creatures must succeed at a DC 42 Reflex check save to take any move action within the winds; flying creatures use the outcome one degree of success worse than what they roll. Creatures who critically fail are blown 30 feet away from the warden, knocked [[Conditions/Prone|Prone]], and take 4d6 electricity damage."
+    desc: " (air,primal) **Trigger** The warden Flies\n* * *\n\n**Effect** s The warden's flapping wings generate powerful gusts that blow smaller creatures off course. A 60-foot emanation, centered on the warden, fills with lightning-pierced winds until the beginning of the warden's next turn. Creatures must succeed at a DC 42 Reflex check save to take any move action within the winds; flying creatures use the outcome one degree of success worse than what they roll. Creatures who critically fail are blown 30 feet away from the warden, knocked [[Conditions/Prone|Prone]], and take 4d6 electricity damage."
  
 ```
 

@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +15 (versatile p)\n__Damage__  1d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+15 (versatile p)\n__Damage__  1d8 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +17 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+17 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 5 piercing"
 
   - name: "Dread Striker"
     desc: "  The Stag Lord capitalizes on his enemies' fear; any creature that has the [[Conditions/Frightened|Frightened]] condition is also [[Conditions/Off-Guard|Off-Guard]] against his attacks."

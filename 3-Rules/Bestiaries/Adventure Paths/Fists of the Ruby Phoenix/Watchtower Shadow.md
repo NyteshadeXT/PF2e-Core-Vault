@@ -70,14 +70,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shadow Hand +30 (finesse, magical)\n__Damage__  4d10 + 10 void"
+  - name: "**Melee** `pf2:1` Shadow Hand"
+    desc: "+30 (finesse, magical)\n__Damage__  4d10 + 10 void"
 
   - name: "Innate Divine Spells"
     desc: "DC 36, attack +28; __5th __  _[[Spells/Darkness|Darkness (At Will)]]_"
 
   - name: "Shadow Spawn"
-    desc: "  When a creature's shadow is pulled free by Steal Shadow, it becomes a [[Bestiary 1/Shadow|Shadow Spawn]] under the command of the shadow that created it. This shadow spawn doesn't have Steal Shadow and is perpetually and incurably [[Conditions/Clumsy|Clumsy 2]]. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its [[Conditions/Enfeebled|Enfeeblement]], its shadow returns to it and the shadow spawn is extinguished."
+    desc: "  When a creature's shadow is pulled free by Steal Shadow, it becomes a [[Monster Core/Shadow|Shadow Spawn]] under the command of the shadow that created it. This shadow spawn doesn't have Steal Shadow and is perpetually and incurably [[Conditions/Clumsy|Clumsy 2]]. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its [[Conditions/Enfeebled|Enfeeblement]], its shadow returns to it and the shadow spawn is extinguished."
 
   - name: "Slink in Shadows"
     desc: "  The shadow can [[Actions/Hide|Hide]] or end its [[Actions/Sneak|Sneak]] in a creature's or object's shadow."

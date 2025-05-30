@@ -23,5 +23,5 @@ license: OGL
 * * *
 You refuse to let foes past your guard. As long as you are in this stance, when you critically hit with an [[Actions/Reactive Strike|Reactive Strike]] triggered by a move action, you disrupt that move action.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

@@ -59,6 +59,9 @@ abilities_top:
   - name: "Floating Corpses"
     desc: "  A smog wraith's victims are imbued with an eerie buoyancy; corpses of such creatures float up to 30 feet in the air while inside the wraith's noxious smog aura, though the wraith has no control over the corpse's movement."
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Noxious Smog"
@@ -67,11 +70,14 @@ abilities_mid:
   - name: "Sunlight Powerlessness"
     desc: "  A smog wraith caught in sunlight is [[Conditions/Stunned|Stunned 2]] and [[Conditions/Clumsy|Clumsy 2]]."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Noxious Hand +21 (finesse)\n__Damage__  3d6 + 9 poison"
+  - name: "**Melee** `pf2:1` Noxious Hand"
+    desc: "+21 (finesse)\n__Damage__  3d6 + 9 poison"
 
   - name: "Smog Wraith Spawn"
     desc: "  A living humanoid slain by a smog wraith's noxious hand Strike rises as a smog wraith spawn after 1d4 rounds. This spawn is under the command of the smog wraith that killed it. It doesn't have noxious smog or smog wraith spawn and becomes [[Conditions/Clumsy|Clumsy 2]] for as long as it's a smog wraith spawn. If the creator of the spawn dies, the spawn becomes a full-fledged, autonomous smog wraith; it regains its free will, gains smog wraith spawn and noxious smog, and is no longer clumsy."

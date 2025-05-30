@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +9 (agile, nonlethal)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+9 (agile, nonlethal, unarmed)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Haymaker"
     desc: "`pf2:1` (press) Pruana makes a fist Strike against a target she has previously attacked this turn. If she hits, she gains a +3 circumstance bonus to the damage, and the creature must attempt a DC 20 Fortitude check save to resist the staggering force of the blow.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Stunned|Stunned 1]].\n\n**Failure** The target is [[Conditions/Stunned|Stunned 3]].\n\n**Critical Failure** The target is knocked [[Conditions/Prone|Prone]] and [[Conditions/Stunned|Stunned 5]]."

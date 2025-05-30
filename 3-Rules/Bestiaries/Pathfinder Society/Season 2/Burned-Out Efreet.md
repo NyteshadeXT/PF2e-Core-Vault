@@ -57,19 +57,22 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Scimitar|Scimitar]], [[Equipment/Breastplate|Breastplate]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +12 (fire, forceful, reach 10 feet, sweep)\n__Damage__  1d6 + 6 slashing 1d6 fire"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+12 (fire, forceful, reach 10 feet, sweep)\n__Damage__  1d6 + 6 slashing 1d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 (agile, magical, reach 10 feet)\n__Damage__  1d4 + 6 bludgeoning 1d6 fire"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (agile, magical, reach 10 feet, unarmed)\n__Damage__  1d4 + 6 bludgeoning 1d6 fire"
 
   - name: "Arcane Innate Spells"
-    desc: "DC 20, attack +12; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (At Will) (to Astral Plane, Elemental Planes, or Material Plane only)]]_; __2nd __ (2 slots) _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Invisibility|Invisibility]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 20, attack +12; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (At Will) (to Astral Plane, Elemental Planes, or Material Plane only)]]_; __2nd __ (2 slots) _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Invisibility|Invisibility]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
 
   - name: "Burning Grasp"
     desc: " (fire) When the burned-out efreeti Grabs a creature, that creature takes 1d6 fire damage, then takes 1d6 fire damage at the end of each of its turns as long as it remains [[Conditions/Grabbed|Grabbed]]."

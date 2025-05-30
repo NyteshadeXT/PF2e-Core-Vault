@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Panaceatic Salve|Panaceatic Salve]]
+
 You gain 4d8+10 temporary Hit Points.
 
 *Source: Pathfinder #199: To Bloom Below the Web*

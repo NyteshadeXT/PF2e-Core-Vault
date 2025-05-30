@@ -20,5 +20,5 @@ Once, when you roll a failure on a Deception or Stealth check to protect an upri
 
 Milani typically grants this boon for extremely significant checks on which the uprising's survival hinges.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

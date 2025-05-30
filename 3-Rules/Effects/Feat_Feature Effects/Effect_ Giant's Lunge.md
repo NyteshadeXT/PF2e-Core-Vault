@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Until your rage ends, all your melee weapons and unarmed attacks gain reach 10.
+Granted by [[Feats/Giant's Lunge|Giant's Lunge]]
+
+All your melee weapons and unarmed attacks gain reach 10.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

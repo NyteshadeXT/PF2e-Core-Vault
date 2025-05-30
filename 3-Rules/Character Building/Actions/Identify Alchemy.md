@@ -6,8 +6,7 @@ tags:
   - trait/concentrate
   - trait/exploration
   - trait/secret
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.Q4kdWVOf2ztIBFg1"
@@ -15,14 +14,14 @@ license: ORC
 ---
 # Identify Alchemy
 
-### [[3-Rules/Rule References/Concentrate]][[exploration]][[secret]][[skill]]
+### [[concentrate]][[exploration]][[secret]]
 
 **Category** interaction; 
 
 
 
 
-**Requirements** You're holding or wearing an [[3-Rules/Character Building/Equipment/A/Alchemist's Toolkit|Alchemist's Toolkit]].
+**Requirements** You're holding or wearing an [[Equipment/Alchemist's Toolkit|Alchemist's Toolkit]].
 
 * * *
 

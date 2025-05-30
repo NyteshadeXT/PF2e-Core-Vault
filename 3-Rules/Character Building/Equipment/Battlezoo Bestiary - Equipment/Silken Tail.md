@@ -6,6 +6,7 @@ tags:
   - pf2e/weapon
   - trait/disarm
   - trait/finesse
+  - trait/illusion
   - trait/magical
   - trait/nonlethal
   - trait/reach
@@ -17,7 +18,7 @@ license: OGL
 ---
 # Silken Tail
 ## Item 11
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[3-Rules/Trait Reference/D/disarm]][[3-Rules/Rule References/Finesse]][[magical|Magical]][[nonlethal]][[reach|Reach]] [[3-Rules/Trait Reference/T/trip|Trip]] 
+### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[finesse]][[illusion]][[magical]][[nonlethal]][[reach]][[trip]]
 
 |  |  |
 | -- | -- |
@@ -36,7 +37,7 @@ This _+2 striking whip_'s thousands of long, opalescent strands shimmer and appe
 
 **Frequency** once per round;
 
-**Effect** You wave the silken tail in a fantastic display of bedazzling color and light. Creatures other than you within 5 feet who can see the whip must succeed at a DC 26 Fortitude check save or become Dazzled for 1 round. Creatures you have damaged with the whip this round take a -2 circumstance penalty on this save.
+**Effect** You wave the silken tail in a fantastic display of bedazzling color and light. Creatures other than you within 5 feet who can see the whip must succeed at a DC 26 Fortitude check save or become [[Conditions/Dazzled|Dazzled]] for 1 round. Creatures you have damaged with the whip this round take a -2 circumstance penalty on this save.
 
 * * *
 

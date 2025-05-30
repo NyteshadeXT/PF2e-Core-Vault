@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 ()\n__Damage__  2d8 + 6 piercing plus desiccation-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 ()\n__Damage__  2d8 + 6 piercing plus desiccation-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 (agile)\n__Damage__  2d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (agile)\n__Damage__  2d6 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spines +15 (range increment 60 feet)\n__Damage__  2d4 + 4 piercing plus desiccation-venom"
+  - name: "**Ranged** `pf2:1` Spines"
+    desc: "+15 (range increment 60 feet)\n__Damage__  2d4 + 4 piercing plus desiccation-venom"
 
   - name: "Desiccation Venom"
     desc: " (injury,poison) A salt stalker's teeth and spines inflict a terrible, toxic bile that violently dehydrates the target, making them more susceptible to heat. The sickened condition and weakness to fire can't end or be reduced until the poison is cured;\n* * *\n\n**Saving Throw** DC 20 Fortitude;\n\n**Maximum Duration** 1 hour;\n\n**Stage 1** 2d4+4 poison damage plus weakness to fire 3 (1 minute);\n\n**Stage 2** 2d6+4 poison damage plus weakness to fire 6 (1 minute);\n\n**Stage 3** 2d8+4 poison damage plus [[Conditions/Sickened|Sickened 1]] and weakness to fire 9 (10 minutes)"

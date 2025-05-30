@@ -68,8 +68,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Broken Katana +17 (deadly d8, magical, reach 15 feet, two-hand d10, unholy, versatile p)\n__Damage__  2d6 + 8 slashing 1d6 mental"
+  - name: "**Melee** `pf2:1` Broken Katana"
+    desc: "+17 (deadly d8, magical, reach 15 feet, two-hand d10, unholy, versatile p)\n__Damage__  2d6 + 8 slashing 1d6 mental"
 
   - name: "Occult Innate Spells"
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Shatter|Shatter]]_; __2nd __  _[[Spells/Item Facade|Item Facade]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __  _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_"

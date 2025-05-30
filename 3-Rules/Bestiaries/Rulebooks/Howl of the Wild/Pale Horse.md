@@ -56,19 +56,25 @@ abilities_top:
   - name: "Spectral Mount"
     desc: "  A pale horse can accept a corporeal rider, but such a rider is left behind if the pale horse passes through a creature or object."
 
+  - name: "[[Bestiary Ability Glossary/At-Will Spells|At-Will Spells]]"
+    desc: "  The monster can cast its at-will spells any number of times without using up spell slots."
+
 abilities_mid:
   - name: ""
   - name: "Aura of Despair"
     desc: " (aura,emotion,mental) 30 feet. A living creature that begins its turn in the aura must succeed at a DC 27 Will check save or become [[Conditions/Slowed|Slowed 1]]. A creature is temporarily immune to the aura for 1 hour if it critically succeeds."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spectral Horn +24 (finesse, magical)\n__Damage__  3d10 + 10 void"
+  - name: "**Melee** `pf2:1` Spectral Horn"
+    desc: "+24 (finesse, magical)\n__Damage__  3d10 + 10 void"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +24 (agile, finesse, magical)\n__Damage__  3d8 + 10 void"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+24 (agile, finesse, magical)\n__Damage__  3d8 + 10 void"
 
   - name: "Occult Innate Spells"
     desc: "DC 27, attack +0; __5th __  _[[Spells/Toxic Cloud|Toxic Cloud]]_, _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Harm|Harm (x3)]]_; __2nd __  _[[Spells/Darkness|Darkness (At-Will)]]_"

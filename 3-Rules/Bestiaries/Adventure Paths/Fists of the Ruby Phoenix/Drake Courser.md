@@ -58,16 +58,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Tail only. On a critical hit, the target is knocked [[Conditions/Prone|Prone]]; if the target was using a move action, its movement ends.\n\n* * *\n"
+    desc: "`pf2:r`  Tail only. On a critical hit, the target is knocked [[Conditions/Prone|Prone]]; if the target was using a move action, its movement ends.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +25 ()\n__Damage__  3d12 + 11 piercing 1d6 cold"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+25 ()\n__Damage__  3d12 + 11 piercing 1d6 cold"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +25 (reach 10 feet)\n__Damage__  3d10 + 11 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+25 (reach 10 feet)\n__Damage__  3d10 + 11 bludgeoning plus knockdown"
 
   - name: "Battle Dance"
     desc: "`pf2:2`  The drake courser makes two fangs Strikes and one tail Strike in any order. It can replace any of these Strikes with [[Actions/Demoralize|Demoralize]] or [[Actions/Step|Step]]."
@@ -76,13 +76,13 @@ attacks:
     desc: "`pf2:1` (move) **Frequency** three times per day\n* * *\n\n**Effect** The drake courser moves up to twice its Speed. It can attempt to [[Actions/Trip|Trip]] with its tail once at any point during its movement."
 
   - name: "Freezing Mist Breath"
-    desc: "`pf2:2` (arcane,cold) The drake spits a ball of liquid up to 60 feet that explodes into a @Template[burst|distance:20] of freezing mist. Those in the burst take 13d6 cold damage (DC 31 Reflex check save). The mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain for 2d4 rounds. It can't use Freezing Mist Breath again for 1d6 rounds."
+    desc: "`pf2:2` (arcane,cold) The drake spits a ball of liquid up to 60 feet that explodes into a 20-foot burst of freezing mist. Those in the burst take 13d6 cold damage (DC 31 Reflex check save). The mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain for 2d4 rounds. It can't use Freezing Mist Breath again for 1d6 rounds."
 
   - name: "Ice Climb (35 feet)"
     desc: "  A drake courser can climb on ice as though it had the listed climb Speed. It ignores difficult terrain and greater difficult terrain from ice and snow and doesn't risk falling when crossing ice."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

@@ -37,5 +37,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You shed a luminous aura, illuminating a 30-foot radius with bright light. You and all allies in this area gain a +1 status bonus to Perception checks to detect [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] creatures, as well as Hidden objects, doors, and other features."
-sourcebook: "_Pathfinder Lost Omens: Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Character Guide_"
 ```

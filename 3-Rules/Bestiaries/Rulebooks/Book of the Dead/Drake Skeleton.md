@@ -61,14 +61,17 @@ abilities_mid:
   - name: "Fragile Wings"
     desc: "  When the drake skeleton is reduced to fewer than half its Hit Points, it can no longer fly. If it's aloft when this happens, it crashes immediately but can use the tatters of its wings to soften the landing, treating the fall as 20 feet shorter to calculate falling damage."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +20 ()\n__Damage__  2d8 + 12 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+20 ()\n__Damage__  2d8 + 12 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +20 (reach 10 feet)\n__Damage__  2d4 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+20 (reach 10 feet)\n__Damage__  2d4 + 12 bludgeoning"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The skeletal drake makes two Fangs Strikes and one Tail Strike in any order."

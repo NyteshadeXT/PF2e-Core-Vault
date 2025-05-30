@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-05 - Experienced Mountaineer"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.GIdtqEFKKgwPmDBq"
 license: OGL
 ---
 # S1-05 - Experienced Mountaineer
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

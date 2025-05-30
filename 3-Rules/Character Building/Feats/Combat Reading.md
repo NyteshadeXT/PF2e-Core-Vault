@@ -20,7 +20,7 @@ license: ORC
 
 
 
-You use a performer's cold reading techniques, aura reading, and other tricks to discover your foe's strengths and weaknesses. The GM rolls a secret Occultism check for you against the Deception or Stealth DC (whichever is higher) of an enemy of your choice who is not [[Conditions/Concealed|Concealed]] from you, [[Conditions/Hidden|Hidden]] from you, or [[Conditions/Undetected|Undetected]] by you, and who is engaged in combat. The GM might apply a penalty for the distance between you and the enemy. The enemy is then temporarily immune to your Combat Reading for 1 day.
+You use a performer's cold reading techniques, aura reading, and other tricks to discover your foe's strengths and weaknesses. The GM rolls a secret Occultism check check for you against the Deception or Stealth DC (whichever is higher) of an enemy of your choice who is not [[Conditions/Concealed|Concealed]] from you, [[Conditions/Hidden|Hidden]] from you, or [[Conditions/Undetected|Undetected]] by you, and who is engaged in combat. The GM might apply a penalty for the distance between you and the enemy. The enemy is then temporarily immune to your Combat Reading for 1 day.
 
 * * *
 

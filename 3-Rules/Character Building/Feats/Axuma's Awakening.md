@@ -11,7 +11,7 @@ license: OGL
 ---
 # Axuma's Awakening
 ## Feat 11
-### [rare](rare.md "Rare Rarity Trait")[[general]]
+### [rare](rare "Rare Rarity Trait")[[general]]
 
 **Category** general; 
 

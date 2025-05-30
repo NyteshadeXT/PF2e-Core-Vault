@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Career Change"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.XOwkaOX5bcK8pOtq"
 license: OGL
 ---
 # Career Change
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

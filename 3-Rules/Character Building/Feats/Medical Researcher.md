@@ -12,7 +12,7 @@ license: OGL
 ---
 # Medical Researcher
 ## Feat 1
-### [rare](rare.md "Rare Rarity Trait")[[general]][[skill]]
+### [rare](rare "Rare Rarity Trait")[[general]][[skill]]
 
 **Category** skill; 
 
@@ -22,5 +22,5 @@ license: OGL
 * * *
 Kassi has taught you not only how to apply medicines with your medical skills but how to craft them as well. When you [[Actions/Craft|Craft]] healer's kits, vaccines, addiction suppressants, antidotes, antiplagues, elixirs of life, or other non-magical medical or healing items, you can use Medicine instead of Crafting.
 
-*Source: Pathfinder Lost Omens: Legends*
+*Source: Pathfinder Lost Omens Legends*
 *OGL*

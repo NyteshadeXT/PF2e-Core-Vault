@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.feat-effects.Item.ReqVLQUQy7Y91IiB"
 license: ORC
 ---
 # Effect: Adamantine Body
-## Level 1
+## Level 8
 ### 
 
 
@@ -21,5 +21,5 @@ Granted by [[Feats/Adamantine Body|Adamantine Body]]
 
 You gain resistance equal to 2 + half your level against all damage from the triggering attack or effect.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

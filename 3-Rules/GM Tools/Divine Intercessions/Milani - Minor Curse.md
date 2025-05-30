@@ -18,5 +18,5 @@ license: OGL
 
 A magical wreath of thorny, bloodred roses endlessly grows from your scalp, no matter how much you try to remove it. You gain weakness 5 to piercing damage.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

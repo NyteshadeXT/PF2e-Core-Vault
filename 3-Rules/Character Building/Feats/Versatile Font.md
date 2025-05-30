@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** harmful font or healing font; deity that allows clerics to have both fonts
 * * *
-As you explore your deity's aspects, you move beyond restrictions on healing or harming. You can prepare either [[Harm|Harm]] or [[Heal|Heal]] in the spell slots gained from the harmful font or healing font.
+As you explore your deity's aspects, you move beyond restrictions on healing or harming. You can prepare either [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]] in the spell slots gained from the harmful font or healing font.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -4,14 +4,14 @@ title: "Divert Lightning"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/electricity
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.s2RrhZx1f1X4YnYV"
 license: OGL
 ---
 # Divert Lightning `pf2:r`
 
-### [[3-Rules/Rule References/Electricity]]
+### [[electricity]]
 
 **Category** offensive; 
 

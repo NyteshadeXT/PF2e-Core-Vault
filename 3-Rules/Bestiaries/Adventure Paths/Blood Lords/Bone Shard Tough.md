@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_BONE_SHARDS_TOUGH.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Bone Shard Tough"
 level: "Creature 0"
@@ -58,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bone Shard +8 (finesse)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Bone Shard"
+    desc: "+8 (finesse)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bone Shard +8 (thrown 20 ft.)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Bone Shard"
+    desc: "+8 (thrown 20 ft.)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Puncture"
     desc: "`pf2:2` (attack) **Requirements** The tough has two bone shards in hand\n* * *\n\n**Effect** The tough attempts to use one shard of bone to hammer another into a creature, creating a gaping wound. The tough attempts an Athletics check check against the target's Reflex DC. On a hit, the target takes the listed bone shard damage and 1d4 bleed."

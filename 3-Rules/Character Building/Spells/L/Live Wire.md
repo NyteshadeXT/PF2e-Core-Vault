@@ -41,6 +41,6 @@ abilities_top:
     desc: "30 feet; **Targets** 1 creature"
 abilities_mid:
   - name: ""
-    desc: "You conjure up a length of sharp copper filament humming with electrical current that strikes out at your foe. The wire deals 1d4 slashing damage and 1d4 electricity damage, depending on your spell attack roll against the target's AC.\n* * *\n\n**Critical Success** The target takes double damage and 1d4 persistent electricity damage.\n\n**Success** The target takes full damage.\n\n**Failure** The target takes the electricity damage, but not the slashing damage.\n\n**Critical Failure** The target is unaffected.\n* * *\n\n**Heightened (+1)** The slashing damage, initial electricity damage, and persistent electricity damage on a critical hit each increase by 1d4."
+    desc: "You conjure up a length of sharp copper filament humming with electrical current that strikes out at your foe. The wire deals 1d4 slashing damage and 1d4 electricity damage, depending on your spell attack roll against the target's AC.\n* * *\n\n**Critical Success** The target takes double damage and 1d4 persistent electricity damage.\n\n**Success** The target takes full damage.\n\n**Failure** The target takes the electricity damage, but not the slashing damage.\n\n**Critical Failure** The target is unaffected.\n* * *\n\n**Heightened (+2)** The slashing damage, initial electricity damage, and persistent electricity damage on a critical hit each increase by 1d4."
 sourcebook: "_Pathfinder Player Core 2_"
 ```

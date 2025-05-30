@@ -53,8 +53,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 ()\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (unarmed)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Hunting Cry"
     desc: "`pf2:1` (auditory,emotion,mental) The thylacine growls, hisses, and bares its jaws in a frightening manner as it attempts to [[Actions/Demoralize|Demoralize]] a creature. It gains a +2 circumstance bonus to this Intimidation check, and the attempt is not penalized if the target can't understand the thylacine."

@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +30 (agile, finesse, versatile p)\n__Damage__  2d4 + 9 slashing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+30 (agile, finesse, versatile p)\n__Damage__  2d4 + 9 slashing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 36, attack +30; __8th __  _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Hidden Mind|Mind Blank]]_; __7th __  _[[Spells/Energy Aegis|Energy Aegis]]_, _[[Spells/Power Word Blind|Power Word Blind]]_; __6th __  _[[Spells/Purple Worm Sting|Purple Worm Sting]]_, _[[Spells/Teleport|Teleport]]_; __4th __  _[[Spells/Fly|Fly]]_; __3rd __  _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Slow|Slow]]_; __1st __  _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Message|Message]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
@@ -72,7 +72,7 @@ attacks:
     desc: "DC 36, attack +30; __2nd __  _[[Spells/Darkness|Darkness]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Binding Circle|Planar Binding]]_"
+    desc: "_Planar Binding_"
  
 ```
 

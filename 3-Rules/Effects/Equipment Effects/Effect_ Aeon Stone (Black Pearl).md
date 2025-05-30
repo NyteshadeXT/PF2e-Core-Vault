@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by activating [[3-Rules/Character Building/Equipment/A/Aeon Stone (Black Pearl)|Aeon Stone (Black Pearl)]]
+Granted by [[Equipment/Aeon Stone (Black Pearl)|Aeon Stone (Black Pearl)]]
+
+You receive a +4 status bonus to your saving throw against the triggering effect.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

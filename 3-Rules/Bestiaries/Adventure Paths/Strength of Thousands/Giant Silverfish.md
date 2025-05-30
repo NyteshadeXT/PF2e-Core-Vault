@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +8 ()\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+8 ()\n__Damage__  1d6 + 2 piercing"
  
 ```
 

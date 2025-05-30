@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Bard Dedication
 * * *
-You gain the [[Counter Performance|Counter Performance]] composition spell. This is a focus spell, granting you a focus pool or expanding that pool. You can Refocus by engaging your muse.
+You gain the [[Spells/Counter Performance|Counter Performance]] composition spell. This is a focus spell, granting you a focus pool or expanding that pool. You can Refocus by engaging your muse.
 
 *Source: Pathfinder Player Core*
 *ORC*

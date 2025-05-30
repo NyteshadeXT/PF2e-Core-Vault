@@ -6,8 +6,9 @@ tags:
   - trait/inventor
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Q21KzuubUBBkoges"
-license: OGL
+license: ORC
 ---
 # Gigaton Strike
 ## Feat 8
@@ -31,7 +32,9 @@ When you use a full-power Megaton Strike, you can knock your foe back. When you 
 
 **Critical Failure** The creature is pushed back 20 feet.
 
+* * *
+
 **Special** If your innovation is a minion, this benefit applies on its unstable Megaton Strikes.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

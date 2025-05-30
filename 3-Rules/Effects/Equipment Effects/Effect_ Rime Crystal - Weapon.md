@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Rime Crystal|Rime Crystal]]
+Granted by [[Equipment/Rime Crystal|Rime Crystal]], [[Equipment/Rime Crystal (Greater)|Rime Crystal (Greater)]], [[Equipment/Rime Crystal (Major)|Rime Crystal (Major)]]
 
-After you cast a cold spell by activating the _crystal_, your Strikes with the weapon deal an additional 1d4 cold damage until the end of your next turn.
+Your Strikes with the weapon deal additional cold damage.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

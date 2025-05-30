@@ -6,8 +6,9 @@ tags:
   - trait/champion
   - trait/uncommon
   - category/class
-aliases: "Compendium.pf2e.feats-srd.Item.dLof0i6LPcChJSBR"
-license: OGL
+  - remaster
+aliases: "Compendium.pf2e.feats-srd.Item.qPlv8HwtoO2fAjkj"
+license: ORC
 ---
 # Pale Horse
 ## Feat 12
@@ -17,13 +18,11 @@ license: OGL
 
 
 
-**Prerequisites** divine ally (steed); tenets of evil
+**Prerequisites** Faithful Steed; unholy
 * * *
-Your mount becomes a grotesque creature of foreboding when you ride it. Its appearance transforms as flames erupt from its skin, a whorl of void energy surrounds it, or poison leaks from its flesh.
+Your mount becomes a grotesque creature of foreboding when you ride it. Its appearance transforms as flames erupt from its skin, a whorl of void energy surrounds it, or poison leaks from its flesh. When you [[Actions/Mount|Mount]] your faithful steed, you can choose fire, poison, or void. As long as you ride it, your steed gains resistance 10 to the chosen damage type, and any creature that touches your steed takes 1d6 damage of the chosen type; this includes hitting the steed with an unarmed attack or with a melee weapon Strike while adjacent to the steed. This damage increases to 2d6 at 16th level and 3d6 at 20th level.
 
-When you [[Actions/Mount|Mount]] your steed ally, you can choose fire, negative, or poison. As long as you ride it, your steed gains resistance 10 to the chosen damage type, and any creature that touches your steed takes 1d6 damage of the chosen type; this includes hitting the steed with unarmed attacks or with a melee weapon Strike while adjacent to the steed.
+[[Feat_Feature Effects/Effect_ Pale Horse|Effect: Pale Horse]]
 
-This damage increases to 2d6 at 16th level and 3d6 at 20th level.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Lost Omens Divine Mysteries*
+*ORC*

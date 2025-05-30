@@ -31,7 +31,7 @@ trait_02: [[aquatic]]
 modifier: 11
 perception:
   - name: "Perception"
-    desc: "+11; "
+    desc: "+11; Low-Light Vision"
 languages: ""
 skills:
   - name: "Skills"
@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bill +12 (sweep)\n__Damage__  1d10 + 5 slashing"
+  - name: "**Melee** `pf2:1` Bill"
+    desc: "+12 (sweep)\n__Damage__  1d10 + 5 slashing"
 
   - name: "Fast Sweep"
     desc: "`pf2:1`  **Frequency** once per turn\n* * *\n\n**Effect** The swordfish makes two bill Strikes against two adjacent targets, with a +1 circumstance bonus to its attack rolls."

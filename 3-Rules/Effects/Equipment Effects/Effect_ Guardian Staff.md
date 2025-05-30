@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Guardian Staff|Guardian Staff]], [[Guardian Staff (Greater)|Guardian Staff (Greater)]], [[Guardian Staff (Major)|Guardian Staff (Major)]]
+Granted by [[Equipment/Guardian Staff|Guardian Staff]], [[Equipment/Guardian Staff (Greater)|Guardian Staff (Greater)]], [[Equipment/Guardian Staff (Major)|Guardian Staff (Major)]]
 
 A ruby-colored plane of force appears like a shield near the ally, granting them a +1 circumstance bonus to AC until the start of your next turn.
 

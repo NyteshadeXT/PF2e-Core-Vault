@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 title: "Supernatural Solution"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/fortune
   - trait/leadership
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.NF4ftwc8fPG2xXRE"
 license: OGL
 ---
 # Supernatural Solution
-
+## 
 ### [[downtime]][[fortune]][[leadership]]
 
 **Category** kingdom-activity; 

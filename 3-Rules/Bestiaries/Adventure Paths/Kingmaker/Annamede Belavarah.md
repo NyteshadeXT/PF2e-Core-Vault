@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +19 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+19 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +19 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+19 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 26, attack +18; __4th __ (3 slots) _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __ (3 slots) _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Noise Blast|Sound Burst]]_; __2nd __ (3 slots) _[[Spells/Translate|Comprehend Language]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __ (3 slots) _[[Spells/Command|Command]]_, _[[Spells/Carryall|Floating Disk]]_, _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Shield|Shield]]_"

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Clone-Risen
 * * *
-You've learned to reshape your malleable form. You can cast [[Illusory Disguise|Illusory Disguise]] once per day as an innate occult spell. This is a transmutation and morph effect, as your body physically transforms, rather than an illusion effect.
+You've learned to reshape your malleable form. You can cast [[Spells/Illusory Disguise|Illusory Disguise]] once per day as an innate occult spell. This is a transmutation and morph effect, as your body physically transforms, rather than an illusion effect.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

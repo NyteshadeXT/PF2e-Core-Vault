@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +8 (agile, sweep)\n__Damage__  1d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+8 (agile, sweep)\n__Damage__  1d6 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +7 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 1 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+7 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 1 slashing"
 
   - name: "Hatchet Flurry"
     desc: "`pf2:1`  **Frequency** once per round\n\n**Requirement** She wields hatchets in each hand\n* * *\n\n**Effect** She attacks with both hatchets, making two Strikes at the same target. Apply her multiple attack penalty to each Strike normally."

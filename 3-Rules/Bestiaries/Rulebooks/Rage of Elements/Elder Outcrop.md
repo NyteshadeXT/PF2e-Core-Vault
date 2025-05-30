@@ -51,6 +51,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense 120 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Dust Eternal"
@@ -62,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Column +27 (reach 15 feet)\n__Damage__  3d10 + 14 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Column"
+    desc: "+27 (reach 15 feet)\n__Damage__  3d10 + 14 bludgeoning plus knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +27 (brutal, range increment 120 feet)\n__Damage__  3d6 + 14 bludgeoning plus call-of-earth"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+27 (brutal, range increment 120 feet)\n__Damage__  3d6 + 14 bludgeoning plus call-of-earth"
 
   - name: "Call of Earth"
     desc: " (primal) A flying creature hit by the elder outcrop's rock ranged strike is affected by a 7th-rank [[Spells/Earthbind|Earthbind]] spell (DC 33 Fortitude check)."
@@ -81,10 +84,10 @@ attacks:
     desc: "`pf2:1` (earth,incapacitation,primal) Great fingers of stone arise to grasp up to two Medium or smaller creatures on the ground in the outcrop's aura. Each target must succeed at a DC 33 Reflex check save or be [[Conditions/Grabbed|Grabbed]] by the stone hand (or [[Conditions/Restrained|Restrained]] on a critical failure; [[Actions/Escape|Escape]] DC 33). A creature grabbed or restrained by a stone hand at the end of its turn becomes [[Conditions/Slowed|Slowed 1]] or increases its existing slowed condition by 1. When a creature is unable to act due to the slowed condition from this effect, the creature is permanently petrified."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

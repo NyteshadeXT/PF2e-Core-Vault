@@ -17,13 +17,9 @@ license: ORC
 
 
 
-Granted by [[Sea Touch Elixir (Lesser)|Sea Touch Elixir (Lesser)]]
+Granted by [[Equipment/Sea Touch Elixir (Lesser)|Sea Touch Elixir (Lesser)]]
 
-* * *
-
-Auomatically applied effects:
-
-*   gain a swim Speed of 20 feet
+You gain a swim Speed of 20 feet.
 
 *Source: Pathfinder GM Core*
 *ORC*

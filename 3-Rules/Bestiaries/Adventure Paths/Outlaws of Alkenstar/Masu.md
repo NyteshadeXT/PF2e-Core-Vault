@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +6 (finesse, nonlethal)\n__Damage__  1 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+6 (finesse, nonlethal)\n__Damage__  1 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +6 (agile, finesse, nonlethal)\n__Damage__  1 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+6 (agile, finesse, nonlethal, unarmed)\n__Damage__  1 slashing"
 
   - name: "Get Underfoot"
     desc: "`pf2:1`  Masu Strides up to half her Speed, moving through one or more space occupied by allied creatures, rubbing against and around legs and feet. Each creature whose space Masu moves through is [[Conditions/Clumsy|Clumsy 1]] for 1 round."

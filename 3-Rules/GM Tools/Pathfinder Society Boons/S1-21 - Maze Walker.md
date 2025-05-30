@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-21 - Maze Walker"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.ZZvIzyH6SwyVkEYm"
 license: OGL
 ---
 # S1-21 - Maze Walker
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Spells/Variable Gravity|Variable Gravity]]
+
 You gain a +2 status bonus to your saving throws and DCs to resist forced movement and attempts to knock you prone
 
 *Source: Pathfinder Secrets of Magic*

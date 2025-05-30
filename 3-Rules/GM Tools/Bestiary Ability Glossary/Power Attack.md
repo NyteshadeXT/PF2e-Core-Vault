@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Power Attack"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-ability-glossary-srd.Item.0B39GdScyZMPWalX"
 license: OGL

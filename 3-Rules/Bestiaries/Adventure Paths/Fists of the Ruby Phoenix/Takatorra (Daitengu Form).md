@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Toughest Teamwork: Wind Shell"
     desc: "`pf2:r` (air) **Trigger** An ally within 60 feet is targeted by a physical ranged attack\n* * *\n\n**Effect** Takatorra wraps their ally in a protective shell of air. The ally gains a +4 status bonus to AC against physical ranged attacks until the beginning of their next turn."
@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tengu Gale Blade +35 (agile, disarm, finesse, magical)\n__Damage__  4d6 + 14 slashing"
+  - name: "**Melee** `pf2:1` Tengu Gale Blade"
+    desc: "+35 (agile, disarm, finesse, magical)\n__Damage__  4d6 + 14 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Vacuum Slash +35 (air, range increment 120 feet)\n__Damage__  6d6 + 14 slashing"
+  - name: "**Ranged** `pf2:1` Vacuum Slash"
+    desc: "+35 (air, range increment 120 feet)\n__Damage__  6d6 + 14 slashing"
 
   - name: "Airflow Blades"
     desc: " (air) Takatorra extends the cutting surface of their blades with high-pressure airflow. Until the end of their turn, their blades have a reach of 15 feet."

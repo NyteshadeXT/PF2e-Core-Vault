@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mace +19 (shove)\n__Damage__  2d6 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Mace"
+    desc: "+19 (shove)\n__Damage__  2d6 + 9 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +18 (agile, versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+18 (agile, versatile s)\n__Damage__  1d4 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +18 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+18 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
 
   - name: "Occult Prepared Spells"
     desc: "DC 27, attack +19; __5th __  _[[Spells/Wave of Despair|Crushing Despair]]_; __4th __  _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Fly|Fly]]_; __3rd __  _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Hypnotize|Hypnotic Pattern]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Paranoia|Paranoia]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

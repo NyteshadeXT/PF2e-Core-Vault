@@ -14,7 +14,7 @@ license: OGL
 ---
 # Whispering Steps
 ## Feat 8
-### [[amp]][[3-Rules/trait_reference/M/mental]][[occult]][[psychic]]
+### [[amp]][[mental]][[occult]][[psychic]]
 
 **Category** class; 
 

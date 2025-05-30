@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 30 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "No Face"
     desc: "  The noppera-bo has no sense of vision, but their hearing is precise. They don't breathe and are immune to effects that require breathing. They gain sustenance by absorbing fluids through their skin—traditionally by immersing their hands or faceless head into the fluid to \"drink\" through osmosis; they can also benefit from consumables, such as potions or elixirs, in this way."
 
@@ -63,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` False Weapon +15 ()\n__Damage__  2d8 + 8 mental"
+  - name: "**Melee** `pf2:1` False Weapon"
+    desc: "+15 ()\n__Damage__  2d8 + 8 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` False Weapon +15 ()\n__Damage__  2d4 + 8 mental"
+  - name: "**Melee** `pf2:1` False Weapon"
+    desc: "+15 ()\n__Damage__  2d4 + 8 mental"
 
   - name: "False Weapon"
     desc: "  A noppera-bo impersonator carries a _+1 striking_ weapon that looks identical to the favored weapon of the PC being impersonated. If the PC favors unarmed strikes, it appears as hand wraps. If the PC favors a ranged weapon, then the noppera-bo impersonator has no melee weapon and instead uses the ranged weapon rules above; otherwise, the noppera-bo impersonator has no ranged weapon. If the PCs favors no weapon, then the noppera-bo wields a club as its false weapon. This false weapon is only partially real and inflicts only mental damage when it hits; it gains none of the original weapon's traits or magical enhancements. If a noppera-bo impersonator's false weapon is broken, disarmed, or set down, it fades away. The noppera-bo impersonator can craft a replacement false weapon by spending 10 minutes to recreate one."

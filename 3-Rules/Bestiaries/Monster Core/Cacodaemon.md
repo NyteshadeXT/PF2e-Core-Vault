@@ -54,13 +54,19 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/At-Will Spells|At-Will Spells]]"
+    desc: "  The monster can cast its at-will spells any number of times without using up spell slots."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 (agile, disease, finesse, magical, reach 0 feet, unholy)\n__Damage__  1d8 piercing plus cacodaemonia"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (agile, disease, finesse, magical, reach 0 feet, unarmed, unholy)\n__Damage__  1d8 piercing plus cacodaemonia"
 
   - name: "Divine Innate Spells"
     desc: "DC 17, attack +9; __4th __  _[[Spells/Read Omens|Read Omens]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_; __1st __  _[[Spells/Fear|Fear]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_"
@@ -69,7 +75,7 @@ attacks:
     desc: " (disease) The cacodaemon can telepathically communicate with the afflicted creature at any distance on the same plane.\n\n**Saving Throw** DC 17 Fortitude check\n* * *\n\n**Stage 1** carrier (1 day)\n\n**Stage 2** [[Conditions/Stupefied|Stupefied 1]] (1 day)\n\n**Stage 3** [[Conditions/Stupefied|Stupefied 2]] (1 day)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) *   **Lizard**\n    *   **Speed** 20 feet;\n    *   **Melee** jaws +8 (agile, finesse), **Damage** 1d8+1 piercing\n*   **Octopus**\n    *   **Size** Small;\n    *   **Speed** 20 feet, swim 30 feet;\n    *   **Skills** Athletics +6;\n    *   **Melee** tentacle +8 (finesse), **Damage** 1d8+1 bludgeoning plus [[Bestiary Ability Glossary/Grab|Grab]];\n    *   **Melee** beak +8 (agile, finesse), **Damage** 1d6 piercing plus 2 poison\n*   **Scorpion**\n    *   **Size** Small;\n    *   **Speed** 30 feet;\n    *   **Melee** pincer +8 (agile, finesse), **Damage** 1d6+1 bludgeoning plus Grab;\n    *   **Melee** stinger +8 (agile, finesse), **Damage** 1d6+1 piercing plus 1d4 poison\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) *   **Lizard**\n    \n    *   **Speed** 20 feet\n    *   **Melee** jaws +8 (agile, finesse), **Damage** 1d8+1 piercing\n*   **Octopus**\n    \n    *   **Size** Small\n    *   **Speed** 20 feet, swim 30 feet\n    *   **Skills** Athletics +6\n    *   **Melee** tentacle +8 (finesse), **Damage** 1d8+1 bludgeoning plus [[Bestiary Ability Glossary/Grab|Grab]]\n    *   **Melee** beak +8 (agile, finesse), **Damage** 1d6 piercing plus 2 poison\n*   **Scorpion**\n    \n    *   **Size** Small\n    *   **Speed** 30 feet\n    *   **Skills** Athletics +6\n    *   **Melee** pincer +8 (agile, finesse), **Damage** 1d6+1 bludgeoning plus Grab\n    *   **Melee** stinger +8 (agile, finesse), **Damage** 1d6+1 piercing plus 1d4 poison\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Soul Lock"
     desc: "`pf2:3` (death,divine) **Frequency** once per day\n* * *\n\n**Effect** The cacodaemon ingests the soul of a sentient creature within 30 feet that died within the last minute. When they do, the cacodaemon grows a fist-sized soul gem (Hardness 2, HP 8) in their gut and can regurgitate it at any time as an Interact action. Destroying the gem frees the soul within but doesn't return the deceased creature to life. If a caster attempts to return to life a creature whose soul is trapped within a soul gem, they fail unless they succeed at a DC 30 Religion check check. A success causes the soul gem to shatter so the creature is returned to life as normal for the spell.\n\nA fiend can Interact to ingest a soul gem it is holding, condemning the soul to the fiend's home plane. The fiend gains fast healing 5 for 1 minute.\n\n[[Bestiary Effects/Effect_ Soul Lock (Healing)|Effect: Soul Lock (Healing)]]"

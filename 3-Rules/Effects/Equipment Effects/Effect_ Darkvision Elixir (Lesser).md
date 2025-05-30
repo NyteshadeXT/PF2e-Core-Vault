@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Darkvision Elixir (Lesser)|Darkvision Elixir (Lesser)]]
+Granted by [[Equipment/Darkvision Elixir (Lesser)|Darkvision Elixir (Lesser)]]
 
 You gain Darkvision.
 

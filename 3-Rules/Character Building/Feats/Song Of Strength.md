@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Song Of Strength"
+title: "Song of Strength"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/bard
@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.FkN9QX1W2Iv56bkn"
 license: ORC
 ---
-# Song Of Strength
+# Song of Strength
 ## Feat 2
 ### [[bard]]
 
@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** warrior muse
 * * *
-Your performances inspire strength in your allies to aid them at physical tasks. You learn the [[3-Rules/Character Building/Spells/S/Song of Strength|Song of Strength]] composition cantrip.
+Your performances inspire strength in your allies to aid them at physical tasks. You learn the [[Spells/Song of Strength|Song of Strength]] composition cantrip.
 
 *Source: Pathfinder Player Core*
 *ORC*

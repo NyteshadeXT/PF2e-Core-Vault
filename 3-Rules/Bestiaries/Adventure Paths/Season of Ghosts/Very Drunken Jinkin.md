@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +0 ()\n__Damage__  1d6 - 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+0 ()\n__Damage__  1d6 - 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +2 (thrown 10 ft.)\n__Damage__  1d6 - 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+2 (thrown 10 ft.)\n__Damage__  1d6 - 2 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 13, attack +5\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"

@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Sanguine Fang|Sanguine Fang]]
+Granted by [[Equipment/Sanguine Fang|Sanguine Fang]], [[Equipment/Sanguine Fang (Greater)|Sanguine Fang (Greater)]], [[Equipment/Sanguine Fang (Major)|Sanguine Fang (Major)]]
 
-After you cast a necromancy spell by activating the _fang_, your Strikes with the weapon deal 1d4 persistent bleed damage until the end of your next turn.
+After you cast a necromancy spell by activating the _fang_, your Strikes with the weapon deal persistent bleed damage until the end of your next turn.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

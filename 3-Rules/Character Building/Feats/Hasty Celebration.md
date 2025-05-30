@@ -31,5 +31,5 @@ After even the briefest success, you get caught up in the moment and begin to pa
 
 [[Feat_Feature Effects/Effect_ Hasty Celebration|Effect: Hasty Celebration]]
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

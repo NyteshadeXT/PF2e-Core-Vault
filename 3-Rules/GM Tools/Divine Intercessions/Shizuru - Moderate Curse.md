@@ -18,5 +18,5 @@ license: OGL
 
 Shizuru decrees that her light is no longer your ally. You gain [[Bestiary Ability Glossary/Light Blindness|Light Blindness]].
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

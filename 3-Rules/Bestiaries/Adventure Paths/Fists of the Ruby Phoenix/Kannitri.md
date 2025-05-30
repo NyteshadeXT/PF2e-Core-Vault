@@ -36,7 +36,7 @@ trait_05: [[undead]]
 modifier: 26
 perception:
   - name: "Perception"
-    desc: "+26; "
+    desc: "+26; Darkvision"
 languages: "Tien"
 skills:
   - name: "Skills"
@@ -67,8 +67,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Fist +28 (agile, finesse, magical)\n__Damage__  3d8 + 13 void"
+  - name: "**Melee** `pf2:1` Ghostly Fist"
+    desc: "+28 (agile, finesse, magical)\n__Damage__  3d8 + 13 void"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Corrupting Gaze|Corrupting Gaze]]"
     desc: "`pf2:2`  The ghost stares at a creature it can see within 30 feet. The target takes 7d6 void damage with a basic Will save.\n\nA creature that fails its save is also [[Conditions/Stupefied|Stupefied 1]] for 1 minute."

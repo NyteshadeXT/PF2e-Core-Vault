@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You carry the ocean with you wherever you go. You can cast [[Create Water|Create Water]] as a primal innate spell once per day. Each time you cast _create water_, you choose if you create fresh water or salt water.
+You carry the ocean with you wherever you go. You can cast [[Spells/Create Water|Create Water]] as a primal innate spell once per day. Each time you cast _create water_, you choose if you create fresh water or salt water.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

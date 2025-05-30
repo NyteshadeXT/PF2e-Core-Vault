@@ -39,5 +39,5 @@ You've studied the routes by which qi flows through the body. The needles stored
 
 [[Feat_Feature Effects/Effect_ Acupuncturist|Effect: Acupuncturist]]
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

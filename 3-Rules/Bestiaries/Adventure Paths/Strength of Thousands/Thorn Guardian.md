@@ -53,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Extra Reaction"
     desc: "  A thorn guardian gains an additional reaction each turn but can use this extra reaction only to Retaliate."
@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Briar +30 ()\n__Damage__  3d12 + 12 slashing"
+  - name: "**Melee** `pf2:1` Briar"
+    desc: "+30 ()\n__Damage__  3d12 + 12 slashing"
 
   - name: "Bond with Ward"
     desc: "`pf2:1` (concentrate,move) **Requirements** The thorn guardian is adjacent to its ward\n* * *\n\n**Effect** The thorn guardian enters its ward's space and encases the creature. This doesn't interfere with its ward's senses or actions. The thorn guardian occupies the same space as its ward and moves with its ward.\n\nWhile worn, the thorn guardian establishes a constant [[Spells/Share Life|Share Life]] effect with its ward. Attacks that target the thorn guardian target the ward instead but use the higher AC or saving throw values between the thorn guardian and the ward. Area effects apply to both the thorn guardian and the ward, as normal for an area effect."

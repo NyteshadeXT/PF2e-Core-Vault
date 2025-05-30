@@ -26,7 +26,7 @@ Your familiar gains one additional familiar ability each day, which must be one 
 
 *   **Air** If your familiar stays completely still for 1 round, it becomes [[Conditions/Invisible|Invisible]] until it next takes an action. Any motion, even being moved or carried by another creature, ends this effect.
 *   **Earth** Your familiar gains resistance to physical damage (except adamantine) equal to half your level.
-*   **Fire** Your familiar sheds bright light in a 20-foot radius (and dim light for the next 20 feet) and emits warmth. Creatures that remain within a @Template\[emanation|distance:15\] don't take damage from severe environmental cold.
+*   **Fire** Your familiar sheds bright light in a 20-foot radius (and dim light for the next 20 feet) and emits warmth. Creatures that remain within a 15-foot emanation don't take damage from severe environmental cold.
 *   **Metal** Your familiar gains resistance to physical damage from metal weapons equal to half your level.
 *   **Water** Your familiar can move through a gap at least 2 inches wide without [[Actions/Squeeze|Squeezing]] and can Squeeze through a gap at least 1 inch wide.
 *   **Wood** If your familiar remains in bright light for 1 round, it gains fast healing equal to half your level. Once it is out of bright light, this effect ends.

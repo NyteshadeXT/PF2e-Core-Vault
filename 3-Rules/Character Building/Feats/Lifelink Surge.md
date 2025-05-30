@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You learn the _lifelink surge_ link spell. Increase the number of Focus Points in your focus pool by 1.
+You learn the [[Spells/Lifelink Surge|Lifelink Surge]] link spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

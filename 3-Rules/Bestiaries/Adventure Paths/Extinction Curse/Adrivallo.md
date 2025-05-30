@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +23 (agile, finesse, versatile s)\n__Damage__  1d4 + 11 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+23 (agile, finesse, versatile s)\n__Damage__  1d4 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +23 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+23 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 11 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 29, attack +21; __4th __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Sleep|Sleep]]_, _[[Spells/Suggestion|Suggestion]]_\n__Cantrips__  __(5th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Dirge of Doom|Dirge of Doom]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Uplifting Overture|Inspire Competence]]_, _[[Spells/Courageous Anthem|Inspire Courage]]_, _[[Spells/Triple Time|Triple Time]]_"
@@ -77,7 +77,7 @@ attacks:
     desc: "  When Adrivallo Plays the Pipes to cast a spell, he can Step or Stride as part of the activity."
 
   - name: "Play the Pipes"
-    desc: "`pf2:3` (auditory,primal) **Requirements** Adrivallo is holding a musical instrument\n* * *\n\n**Effect** The satyr plays a melody on his instrument to cast [[Spells/Charm|Charm]], [[Spells/Fear|Fear]], [[Spells/Sleep|Sleep]], or [[Spells/Suggestion|Suggestion]] without expending the spell slot and using his music in place of providing the spell's component actions. The spell gains the auditory trait and targets all creatures in a @Template[emanation|distance:60] instead of its usual targets.\n\nA creature that succeeds at its Will save against any spell cast using this ability is then temporarily immune to spells played from Adrivallo's pipes for 1 minute.\n\nSatyrs are immune to this music."
+    desc: "`pf2:3` (auditory,primal) **Requirements** Adrivallo is holding a musical instrument\n* * *\n\n**Effect** The satyr plays a melody on his instrument to cast [[Spells/Charm|Charm]], [[Spells/Fear|Fear]], [[Spells/Sleep|Sleep]], or [[Spells/Suggestion|Suggestion]] without expending the spell slot and using his music in place of providing the spell's component actions. The spell gains the auditory trait and targets all creatures in a 60-foot emanation instead of its usual targets.\n\nA creature that succeeds at its Will save against any spell cast using this ability is then temporarily immune to spells played from Adrivallo's pipes for 1 minute.\n\nSatyrs are immune to this music."
  
 ```
 

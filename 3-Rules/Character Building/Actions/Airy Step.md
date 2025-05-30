@@ -4,7 +4,7 @@ title: "Airy Step"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/sylph
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.akmQzZoNhyfCKFpL"
 license: OGL
@@ -26,5 +26,5 @@ license: OGL
 
 You create a blanket of fog in a 5-foot burst centered on one corner of your space. All creatures within that area are concealed, and all others are concealed to them. This concealment applies to the triggering effect, and the fog lasts for 1 minute or until dispersed by a strong wind. After resolving the triggering effect, you Step. If an effect prevents you from Stepping, you attempt to [[Actions/Escape|Escape]] the effect and Step if you succeed.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

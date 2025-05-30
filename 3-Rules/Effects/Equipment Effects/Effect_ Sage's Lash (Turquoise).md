@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Speak "clarity" to grant all affected a +2 status bonus to their next Will save for 1 minute.
+Granted by [[Equipment/Sage's Lash|Sage's Lash]]
+
+You gain a +2 status bonus to your next Will save.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

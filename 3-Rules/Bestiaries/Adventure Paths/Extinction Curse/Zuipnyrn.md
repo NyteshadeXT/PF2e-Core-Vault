@@ -48,6 +48,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "Alluring Aspect"
@@ -56,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Eye Stalk +8 (agile)\n__Damage__  2d4 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Eye Stalk"
+    desc: "+8 (agile)\n__Damage__  2d4 + 2 bludgeoning"
 
   - name: "Beguiling Gaze"
     desc: "`pf2:3` (occult,visual) The zuipnyrn attempts to charm a creature within 30 feet that is currently [[Conditions/Fascinated|Fascinated]] by the zuipnyrn. The target must attempt a DC 22 Will check save. Whether it succeeds or fails the save, the target is temporarily immune for 1 hour.\n* * *\n\n**Critical Success** The creature is unaffected and is no longer fascinated.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Helpful|Helpful]] toward the zuipnyrn for 1 hour.\n\n**Critical Failure** The creature is helpful toward the zuipnyrn for 1 day and will actively attempt to defend the zuipnyrn and even risk its life for it."
 
   - name: "Blinding Flare"
-    desc: "`pf2:2` (occult,visual) The zuipnyrn's eye produces a bright flash of light. Each creature in a @Template[cone|distance:30] must attempt a DC 22 Fortitude check save. The zuipnyrn can't use Blinding Flare again for 1 minute.\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round and dazzled for 1 minute.\n\n**Critical Failure** The creature is blinded for 1 minute."
+    desc: "`pf2:2` (occult,visual) The zuipnyrn's eye produces a bright flash of light. Each creature in a 30-foot cone must attempt a DC 22 Fortitude check save. The zuipnyrn can't use Blinding Flare again for 1 minute.\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round and dazzled for 1 minute.\n\n**Critical Failure** The creature is blinded for 1 minute."
  
 ```
 

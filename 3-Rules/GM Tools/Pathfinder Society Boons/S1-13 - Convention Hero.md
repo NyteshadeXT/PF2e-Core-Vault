@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-13 - Convention Hero"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.xVMouu7E7Xy7AGER"
 license: OGL
 ---
 # S1-13 - Convention Hero
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

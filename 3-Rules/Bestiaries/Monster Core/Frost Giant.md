@@ -57,20 +57,23 @@ abilities_top:
     desc: "[[Equipment/Greataxe|+1 Striking Greataxe]], [[Equipment/Breastplate|Breastplate]]"
 abilities_mid:
   - name: ""
+  - name: "Reactive Strike"
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +21 (magical, reach 10 feet, sweep)\n__Damage__  2d12 + 12 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+21 (magical, reach 10 feet, sweep)\n__Damage__  2d12 + 12 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +21 (agile, reach 10 feet)\n__Damage__  2d8 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+21 (agile, reach 10 feet, unarmed)\n__Damage__  2d8 + 12 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Icicle +21 (cold, primal, range 120 feet)\n__Damage__  3d6 cold 2d8 piercing"
+  - name: "**Ranged** `pf2:1` Icicle"
+    desc: "+21 (cold, primal, range 120 feet)\n__Damage__  3d6 cold 2d8 piercing"
 
   - name: "Chill Breath"
-    desc: "`pf2:1` (cold,primal) The frost giant breathes out a @Template[cone|distance:15] of freezing moisture that quickly condenses into ice, dealing 4d6 cold damage. Each creature in the cone must attempt a DC 28 Reflex check save. A creature that fails its save is also [[Conditions/Immobilized|Immobilized]] and takes 2d6 cold damage at the end of each of its turns until it gets free ([[/act escape dc=28]]).\n\nThe giant can't use Chill Breath again for 1d4 rounds."
+    desc: "`pf2:1` (cold,primal) The frost giant breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 4d6 cold damage. Each creature in the cone must attempt a DC 28 Reflex check save. A creature that fails its save is also [[Conditions/Immobilized|Immobilized]] and takes 2d6 cold damage at the end of each of its turns until it gets free ([[Actions/escape dc=28|escape dc=28]]).\n\nThe giant can't use Chill Breath again for 1d4 rounds."
 
   - name: "Ice Stride"
     desc: "  A frost giant isn't impeded by difficult terrain caused by snow or ice, nor do they need to attempt Acrobatics checks to keep from falling on slippery ice."

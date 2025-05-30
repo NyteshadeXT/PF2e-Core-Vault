@@ -55,8 +55,17 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Wand of Shardstorm (7th-Rank Spell)|Wand of Manifold Missiles (7th-Rank Spell)]]"
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
+  - name: "[[Bestiary Ability Glossary/Swarm Mind|Swarm Mind]]"
+    desc: "  This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
+
   - name: "Counterspell"
     desc: "`pf2:r`  **Trigger** A creature Casts a Spell the King of Biting Ants knows\n* * *\n\n**Effect** The King of Biting Ants expends a spell slot to counter the triggering creature's casting. The King of Biting Ants loses his spell slot as if he had cast the triggering spell. He then attempts to counteract the triggering spell."
 
@@ -66,8 +75,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +34 (reach 10 feet)\n__Damage__  4d10 + 15 piercing plus swarming-bites"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+34 (reach 10 feet)\n__Damage__  4d10 + 15 piercing plus swarming-bites"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 44, attack +34; __10th __ (2 slots) _[[Spells/Freeze Time|Time Stop]]_, _[[Spells/Visions of Danger|Visions of Danger (Biting Ants Only)]]_; __9th __ (3 slots) _[[Spells/Foresight|Foresight]]_, _[[Spells/Wails of the Damned|Wail of the Banshee]]_, _[[Spells/Weird|Weird]]_; __8th __ (4 slots) _[[Spells/Disappearance|Disappearance]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Quandary|Maze]]_, _[[Spells/Hidden Mind|Mind Blank]]_, _[[Spells/Prismatic Wall|Prismatic Wall]]_; __7th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Visions of Danger|Visions of Danger (Biting Ants Only)]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __ (4 slots) _[[Spells/Dominate|Dominate]]_, _[[Spells/Paranoia|Paranoia]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Teleport|Teleport]]_; __5th __ (4 slots) _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_; __4th __ (4 slots) _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Rewrite Memory|Modify Memory]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Compendium.pf2e.spells-srd.Item.hkfH9Z53hPzcOwNB|Veil]]_; __3rd __ (4 slots) _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Slow|Slow]]_; __2nd __ (4 slots) _[[Spells/Translate|Comprehend Language]]_, _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Compendium.pf2e.spells-srd.Item.FzAtX8yXBjTaisJK|Undetectable Alignment]]_; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(10th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Shield|Shield]]_"

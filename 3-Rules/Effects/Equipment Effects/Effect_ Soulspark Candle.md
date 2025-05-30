@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Soulspark Candle|Soulspark Candle]]
+
 Worshippers of Pharasma gain a +3 status bonus to attack rolls, skill checks, saving throws, and Perception checks. Undead creatures and worshippers of Urgathoa within this area take a –3 status penalty to those checks.
 
 *Source: Pathfinder #186: Ghost King's Rage*

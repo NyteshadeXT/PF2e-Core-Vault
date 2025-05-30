@@ -14,7 +14,7 @@ license: OGL
 ---
 # Hydraulic Deflection `pf2:1`
 ## Feat 1
-### [[azarketi]][[concentrate]][[primal]][[3-Rules/trait_reference/W/water]]
+### [[azarketi]][[concentrate]][[primal]][[water]]
 
 **Category** ancestry; 
 
@@ -23,5 +23,5 @@ license: OGL
 
 Drawing moisture from the atmosphere, you create a disc of hovering water that deflects attacks. You gain a +1 circumstance bonus to AC until the start of your next turn.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

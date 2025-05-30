@@ -7,7 +7,7 @@ tags:
   - pf2eVehicle
 
   - remaster
-source: Pathfinder Lost Omens: Tian Xia World Guide
+source: Pathfinder Lost Omens Tian Xia World Guide
 aliases: "Compendium.pf2e.vehicles.Actor.infymPTeMq64Fc8d" 
 level: 11
 license: ORC
@@ -18,7 +18,7 @@ statblock: inline
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Tian Xia World Guide"
+source: "Pathfinder Lost Omens Tian Xia World Guide"
 name: "Atakebune"
 level: "Vehicle 11"
 
@@ -34,7 +34,7 @@ perception:
 abilities_top:
   - name: ""
   - name: "Space"
-    desc: "75 feet long, 30 feet wide, 30 feet high"
+    desc: "50 feet long, 30 feet wide, 30 feet high"
   - name: "Crew"
     desc: "1 pilot, 8 rowers; **Passengers** 60"
   - name: "Piloting Check"
@@ -61,7 +61,7 @@ attacks:
 
 
 
-sourcebook: "_Pathfinder Lost Omens: Tian Xia World Guide_"
+sourcebook: "_Pathfinder Lost Omens Tian Xia World Guide_"
 ```
 
 ```encounter-table

@@ -14,8 +14,9 @@ tags:
   - trait/nonlethal
   - trait/common
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.K1wmI4qPmRhFczmy" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Dust Storm  `pf2:2`"
@@ -39,5 +40,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You call forth a swirling storm of dust. The _dust storm_ obscures vision, with the effect of [[Spells/Mist|Mist]]. The dust also makes the air unbreathable; creatures in the area must hold their breath, though wearing a scarf or similar clothing over the mouth increases the time the creature can hold its breath to 5 rounds. Creatures entering or starting their turn in the _dust storm_ take 1d6 slashing damage. Creatures that have the water trait or that are made primarily of liquid take double damage.\n* * *\n\n**Heightened (+2)** The damage increases by 1d6."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

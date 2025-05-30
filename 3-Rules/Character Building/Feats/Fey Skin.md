@@ -11,7 +11,7 @@ license: OGL
 ---
 # Fey Skin
 ## Feat 13
-### [[3-Rules/Bestiaries/Bestiary 1/S/Sprite]]
+### [[sprite]]
 
 **Category** ancestry; 
 
@@ -24,5 +24,5 @@ If you rest for 10 minutes, brilliant light from the First World seeps into your
 
 However, you gain weakness 5 to cold iron.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

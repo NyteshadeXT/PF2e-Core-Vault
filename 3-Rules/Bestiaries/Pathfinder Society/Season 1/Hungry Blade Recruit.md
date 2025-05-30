@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +8 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+8 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortbow +8 ()\n__Damage__  1d6 piercing"
+  - name: "**Melee** `pf2:1` Shortbow"
+    desc: "+8 ()\n__Damage__  1d6 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The Hungry Blade recruit deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
@@ -73,7 +73,7 @@ attacks:
     desc: "  On the first round of combat, creatures that haven't acted yet are [[Conditions/Off-Guard|Off-Guard]] to the Hungry Blade recruit."
 
   - name: "You're Next"
-    desc: "`pf2:r` (emotion,fear,mental) **Trigger** The Hungry Blade recruit reduces a creature to 0 Hit Points\n* * *\n\n**Effect** Hungry Blade recruit prisoner attempts an Intimidation check with a +2 circumstance bonus to [[Action Macros/Demoralize_ Intimidation|Demoralize: Intimidation]] a single creature it can see and that can see them."
+    desc: "`pf2:r` (emotion,fear,mental) **Trigger** The Hungry Blade recruit reduces a creature to 0 Hit Points\n* * *\n\n**Effect** Hungry Blade recruit prisoner attempts an Intimidation check with a +2 circumstance bonus to [[Actions/demoralize options=youre-next|demoralize options=youre-next]] a single creature it can see and that can see them."
  
 ```
 

@@ -57,17 +57,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 ()\n__Damage__  1d8 + 2 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (unarmed)\n__Damage__  1d8 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +8 (agile)\n__Damage__  1d6 + 2 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+8 (agile, unarmed)\n__Damage__  1d6 + 2 slashing plus grab"
 
   - name: "Gentle Mauler"
     desc: "  The carnival bear gains +1 circumstance bonus to damage rolls against creatures it has [[Conditions/Grabbed|Grabbed]]. After damaging a creature it has grabbed, it automatically releases the creature from its grip."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

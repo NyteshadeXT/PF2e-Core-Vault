@@ -21,5 +21,5 @@ license: OGL
 * * *
 It's as if you've been training for a thousand years. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the glaive, greatclub, hatchet, scythe, sickle, and ghoran weapons in which you're trained.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

@@ -64,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shadow Hand +15 (finesse, magical)\n__Damage__  2d6 + 3 void"
+  - name: "**Melee** `pf2:1` Shadow Hand"
+    desc: "+15 (finesse, magical)\n__Damage__  2d6 + 3 void"
 
   - name: "Infest Shadow"
     desc: "  When a familiar shadow pulls free the shadow of the PC that they duplicate, it twists and writhes for a moment before it immediately slithers back around the character. The infested shadow seems to writhe and twist on its own, as if willfully ignoring the actions of the character to whom it's attached. The infested shadow has a habit of making distracting and embarrassing motions, and imparts a –2 status penalty to its attached PC's Deception, Diplomacy, and Stealth checks. If the PC is in a situation where they aren't casting a shadow (such as when they're in complete darkness or [[Conditions/Invisible|Invisible]]), these penalties are suppressed, but return as soon as their infested shadow does. If a PC with an infested shadow gains the dying condition, the shadow breaks free and becomes a shadow spawn (which functions the same as a shadow spawn created by a typical shadow). This shadow spawn won't attack the creature it spawned from, but any other targets are fair game. If the dying character recovers, their shadow spawn immediately dies and their shadow returns to normal—otherwise the only way to be rid of this strange curse is through the use of a spell like remove curse."
 
   - name: "Shadow Spawn"
-    desc: "  When a creature's shadow is pulled free by Steal Shadow, it becomes a [[Bestiary 1/Shadow|Shadow Spawn]] under the command of the shadow that created it. This shadow spawn doesn't have Steal Shadow and is perpetually and incurably [[Conditions/Clumsy|Clumsy 2]]. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its [[Conditions/Enfeebled|Enfeeblement]], its shadow returns to it and the shadow spawn is extinguished."
+    desc: "  When a creature's shadow is pulled free by Steal Shadow, it becomes a [[Monster Core/Shadow Spawn|Shadow Spawn]] under the command of the shadow that created it. This shadow spawn doesn't have Steal Shadow and is perpetually and incurably [[Conditions/Clumsy|Clumsy 2]]. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its [[Conditions/Enfeebled|Enfeeblement]], its shadow returns to it and the shadow spawn is extinguished."
 
   - name: "Slink in Shadows"
     desc: "  The shadow can [[Actions/Hide|Hide]] or end its [[Actions/Sneak|Sneak]] in a creature's or object's shadow."

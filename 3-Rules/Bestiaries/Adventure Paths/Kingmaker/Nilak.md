@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +16 ()\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+16 ()\n__Damage__  1d6 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +16 (thrown 10 ft.)\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+16 (thrown 10 ft.)\n__Damage__  1d6 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +16 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+16 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  2d6 + 5 piercing"
 
   - name: "Primal Prepared Spells"
     desc: "DC 28, attack +19; __5th __  _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __  _[[Spells/Mountain Resilience|Stoneskin]]_, _[[Spells/Weapon Storm|Weapon Storm]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Holy Light|Searing Light]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Restoration|Restoration]]_; __1st __  _[[Spells/Heal|Heal]]_, _[[Spells/Shillelagh|Shillelagh]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(5th)__ _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Light|Light]]_, _[[Spells/Stabilize|Stabilize]]_"
@@ -74,7 +74,7 @@ attacks:
     desc: "1 Focus Point, DC 28, attack +19; __5th __  _[[Spells/Untamed Shift|Wild Morph]]_, _[[Spells/Untamed Form|Wild Shape]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Call Spirit|Call Spirit]]_"
+    desc: "_Call Spirit_"
 
   - name: "Form Control"
     desc: "`pf2:1` (manipulate,spellshape) If Nilak's next action is to cast [[Spells/Untamed Form|Untamed Form]], _wild shape's_ spell rank is 2 lower than normal but she remains transformed for up to 1 hour. She can still Dismiss the form at any time."

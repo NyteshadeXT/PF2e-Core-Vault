@@ -5,6 +5,7 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - trait/barbarian
   - trait/champion
+  - trait/exemplar
   - trait/magus
   - trait/swashbuckler
   - trait/common
@@ -15,7 +16,7 @@ license: ORC
 ---
 # Reactive Strike `pf2:r`
 ## Feat 6
-### [[barbarian]][[champion]][[magus]][[swashbuckler]]
+### [[barbarian]][[champion]][[exemplar]][[magus]][[swashbuckler]]
 
 **Category** class; 
 

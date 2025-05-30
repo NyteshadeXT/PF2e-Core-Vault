@@ -13,7 +13,7 @@ license: OGL
 ---
 # Shadow Spell `pf2:1`
 ## Feat 8
-### [[archetype]][[3-Rules/trait_reference/shadow]][[spellshape]]
+### [[archetype]][[shadow]][[spellshape]]
 
 **Category** class; 
 

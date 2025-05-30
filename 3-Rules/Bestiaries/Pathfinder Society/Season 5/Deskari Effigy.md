@@ -48,7 +48,7 @@ attacks:
   - name: ""
 
   - name: "False Swarm"
-    desc: "`pf2:r` (arcane, auditory, illusion) **Trigger** A creature moves within 30 feet of the hidden entrance without saying the cultists' password\n* * *\n\n**Effect** A swarm of illusionary insects bursts out of the grass in a @Template[cone|distance:60] from the Deskari effigy and seemingly crawl over the intruders, shrieking incessantly. All creatures in the area must make a DC 16 Fortitude check save or become temporarily [[Conditions/Deafened|Deafened]] for 1 minute (deafened and [[Conditions/Clumsy|Clumsy 1]] for 1 minute on a critical failure)."
+    desc: "`pf2:r` (arcane, auditory, illusion) **Trigger** A creature moves within 30 feet of the hidden entrance without saying the cultists' password\n* * *\n\n**Effect** A swarm of illusionary insects bursts out of the grass in a 60-foot cone from the Deskari effigy and seemingly crawl over the intruders, shrieking incessantly. All creatures in the area must make a DC 16 Fortitude check save or become temporarily [[Conditions/Deafened|Deafened]] for 1 minute (deafened and [[Conditions/Clumsy|Clumsy 1]] for 1 minute on a critical failure)."
 
 
   - name: "Reset"

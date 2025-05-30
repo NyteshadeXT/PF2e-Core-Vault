@@ -11,7 +11,7 @@ license: OGL
 ---
 # Weight of Experience
 ## Feat 1
-### [rare](rare.md "Rare Rarity Trait")[[reincarnated]]
+### [rare](rare "Rare Rarity Trait")[[reincarnated]]
 
 **Category** ancestry; 
 

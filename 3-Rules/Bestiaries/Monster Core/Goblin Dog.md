@@ -53,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Buck|Buck]]"
-    desc: "`pf2:r`  DC 17 Reflex check"
+    desc: "`pf2:r`  DC 17 Reflex check\n* * *\n\nMost monsters that serve as mounts can attempt to buck off unwanted or annoying riders, but most mounts will not use this reaction against a trusted creature unless the mounts are spooked or mistreated.\n\n**Trigger** A creature [[Actions/Mount|Mounts]] or uses the [[Actions/Command an Animal|Command an Animal]] action while riding the monster.\n* * *\n\n**Effect** The triggering creature must succeed at a Reflex saving throw against the listed DC or fall off the creature and land [[Conditions/Prone|Prone]]. If the save is a critical failure, the triggering creature also takes 1d6 bludgeoning damage in addition to the normal damage for the fall."
 
   - name: "Irritating Dander"
     desc: "  A creature that hits the goblin dog with an unarmed attack, tries to [[Actions/Grapple|Grapple]] it, or otherwise touches it is exposed to goblin pox."
@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d6 + 3 piercing plus goblin-pox"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (unarmed)\n__Damage__  1d6 + 3 piercing plus goblin-pox"
 
   - name: "Goblin Pox"
     desc: " (disease) Goblins and goblin dogs are immune to goblin pox.\n\n**Saving Throw** DC 17 Fortitude check\n* * *\n\n**Stage 1** [[Conditions/Sickened|Sickened 1]] (1 round)\n\n**Stage 2** sickened 1 and [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 3** [[Conditions/Sickened|Sickened 2]] and can't reduce its sickened value below 1 (1 day)"

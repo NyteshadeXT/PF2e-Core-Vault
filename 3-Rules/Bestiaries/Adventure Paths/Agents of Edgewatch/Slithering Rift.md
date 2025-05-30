@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 120 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Transparent"
     desc: "  A slithering rift is so clear that it's difficult to spot. A successful DC 48 Perception check check is required to notice a stationary slithering rift, and a creature must be [[Actions/Search|Searching]] to attempt this check.\n\nA creature that walks into the rift's space might fall into any pit currently in effect due to Dimensional Pit."
 
@@ -61,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +35 (magical, reach 15 feet)\n__Damage__  4d10 + 18 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+35 (magical, reach 15 feet, unarmed)\n__Damage__  4d10 + 18 piercing plus improved-grab"
 
   - name: "Dimensional Pit"
     desc: "`pf2:2` (extradimensional) The slithering rift opens an extradimensional, 20-foot-deep pit that covers its own space and all adjacent squares unless they are walls or similarly blocking terrain.\n\nAny other creature occupying spaces in the pit must succeed at a DC 40 Reflex check save or fall into the pit, taking damage from the fall (typically 10 bludgeoning damage). Any creature grabbed by the ooze is released from the [[Bestiary Ability Glossary/Improved Grab|Grab]] and falls in, even if it was outside the pit squares.\n\nWhile the pit is open, the slithering rift is [[Conditions/Immobilized|Immobilized]] and can't be forced to move. It can make pseudopod Strikes originating from the walls of the pit. A creature that starts its turn at the bottom of the pit takes 5d6 acid damage.\n\nCreatures can climb the walls with a DC 40 Athletics check check. When the slithering rift dies, the pit closes and creatures inside are ejected, as Out you Go."
@@ -72,6 +75,9 @@ attacks:
 
   - name: "Out You Go"
     desc: "`pf2:1`  The slithering rift closes all pit spaces it created using Dimensional Pit, ejecting all its occupants onto the ground into random free spaces where the opening of the pit was.\n\nEach occupant takes 9d6 bludgeoning damage (DC 40 Reflex check save)."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

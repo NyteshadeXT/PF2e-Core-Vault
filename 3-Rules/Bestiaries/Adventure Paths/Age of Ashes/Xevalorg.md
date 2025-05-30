@@ -52,19 +52,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +27 (reach 15 feet)\n__Damage__  3d12 + 14 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+27 (reach 15 feet, unarmed)\n__Damage__  3d12 + 14 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +27 (agile, reach 15 feet)\n__Damage__  3d8 + 14 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+27 (agile, reach 15 feet, unarmed)\n__Damage__  3d8 + 14 slashing"
 
   - name: "Occult Innate Spellss"
     desc: "DC 33, attack +27; __6th __  _[[Spells/Petrify|Flesh to Stone]]_; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Shape Stone|Shape Stone (x3)]]_; __3rd __  _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/See the Unseen|See Invisibility]]_"
@@ -76,7 +79,7 @@ attacks:
     desc: "`pf2:2`  Xevalorg makes up to four claw Strikes, each against a different target. These attacks count toward Xevalorg's multiple attack penalty, and the multiple attack penalty doesn't increase until after he makes all his attacks."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  Claw\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
  
 ```
 

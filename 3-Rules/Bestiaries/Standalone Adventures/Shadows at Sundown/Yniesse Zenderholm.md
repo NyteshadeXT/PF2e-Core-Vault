@@ -58,19 +58,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +18 (versatile p)\n__Damage__  1d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+18 (versatile p)\n__Damage__  1d8 + 7 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +11 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+11 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Erinyes Fury"
     desc: "`pf2:2`  **Requirements** The Erinyes Company agent is suffering from persistent damage\n* * *\n\n**Effect** The agent makes a Strike. If it hits, it deals an additional 1d6 points of persistent damage; the type of this extra damage is the same as the persistent damage from which they're suffering. The agent can choose to instead have this persistent damage be spirit damage. This counts as two attacks when calculating their multiple attack penalty."

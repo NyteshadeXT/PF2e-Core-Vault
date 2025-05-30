@@ -4,8 +4,9 @@ title: "Effect: Bodyguard's Defense"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.bestiary-effects.Item.IfUod2VxNmZMGGPq"
-license: OGL
+license: ORC
 ---
 # Effect: Bodyguard's Defense
 ## Level 1
@@ -18,5 +19,5 @@ license: OGL
 
 The creature gains a +2 circumstance bonus to AC.
 
-*Source: Pathfinder Gamemastery Guide*
-*OGL*
+*Source: Pathfinder NPC Core*
+*ORC*

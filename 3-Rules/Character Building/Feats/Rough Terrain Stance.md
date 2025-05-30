@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Geomancer Dedication; expert in Nature
 * * *
-**Requirements** You gained a terrain attunement benefit this turn.
+**Requirements** You gained a terrain attunement benefit this turn. You need to meet this requirement only to enter the stance, not to remain in it.
 
 * * *
 

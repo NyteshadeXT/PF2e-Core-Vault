@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Polished Demon Horn|Polished Demon Horn]]
+Granted by [[Equipment/Polished Demon Horn|Polished Demon Horn]], [[Equipment/Polished Demon Horn (Greater)|Polished Demon Horn (Greater)]], [[Equipment/Polished Demon Horn (Major)|Polished Demon Horn (Major)]]
 
-You gain resistance 2 to unholy.
+You gain resistance to unholy.
 
 *Source: Pathfinder #188: They Watched the Stars*
 *OGL*

@@ -58,11 +58,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile, reach 10 feet)\n__Damage__  2d6 + 11 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, reach 10 feet, unarmed)\n__Damage__  2d6 + 11 slashing"
 
   - name: "Broad Swipe"
     desc: "`pf2:2`  The giant makes two Strikes with its claw against two adjacent foes, both of whom are within its reach. Both attacks count toward the giant's multiple attack penalty, but the penalty doesn't increase until after both attacks.."

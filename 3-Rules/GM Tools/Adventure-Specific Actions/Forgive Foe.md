@@ -7,14 +7,14 @@ tags:
   - trait/concentrate
   - trait/linguistic
   - trait/mental
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.764EVGVADrDSbdqu"
 license: OGL
 ---
 # Forgive Foe `pf2:2`
 
-### [[auditory]][[concentrate]][[linguistic]][[3-Rules/trait_reference/M/mental]]
+### [[auditory]][[concentrate]][[linguistic]][[mental]]
 
 **Category** interaction; 
 

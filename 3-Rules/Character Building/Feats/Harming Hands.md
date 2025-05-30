@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** harmful font
 * * *
-The mordant power of your void energy grows. When you cast [[Harm|Harm]], you roll d10s instead of d8s.
+The mordant power of your void energy grows. When you cast [[Spells/Harm|Harm]], you roll d10s instead of d8s.
 
 *Source: Pathfinder Player Core*
 *ORC*

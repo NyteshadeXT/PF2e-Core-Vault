@@ -53,14 +53,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +18 ()\n__Damage__  2d10 + 7 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+18 (unarmed)\n__Damage__  2d10 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile)\n__Damage__  2d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, unarmed)\n__Damage__  2d8 + 7 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mirror Beam +16 (fire, magical, range increment 120 feet)\n__Damage__  2d12 + 12 fire"
+  - name: "**Ranged** `pf2:1` Mirror Beam"
+    desc: "+16 (fire, magical, range increment 120 feet)\n__Damage__  2d12 + 12 fire"
 
   - name: "Mirror Beam"
     desc: "  Mishka can make ranged Strikes by reflecting sunlight off the mirror on his back. Mishka can target only creatures that are above him in elevation with this ability, including those on his back."

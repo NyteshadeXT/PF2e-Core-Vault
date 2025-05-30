@@ -7,6 +7,7 @@ tags:
   - pf2eSpell
   - spell/level/7
   - trait/concentrate
+  - trait/light
   - trait/manipulate
   - trait/common
   - tradition/arcane
@@ -20,7 +21,8 @@ name: "Prismatic Armor  `pf2:2`"
 level: "Spell 7"
 
 trait_01: [[concentrate]]
-trait_02: [[manipulate]]
+trait_02: [[light]]
+trait_03: [[manipulate]]
 layout: Basic Pathfinder 2e Layout
 columns: 1
 columnWidth: x

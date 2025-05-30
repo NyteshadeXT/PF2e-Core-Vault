@@ -60,20 +60,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +13 (agile, magical)\n__Damage__  2d6 + 5 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+13 (agile, magical, unarmed)\n__Damage__  2d6 + 5 bludgeoning plus grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +10; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_; __1st __  _[[Spells/Enfeeble|Ray of Enfeeblement (At Will)]]_"
 
   - name: "Eager Rend"
-    desc: "`pf2:2`  The soulbound mauler has a living creature [[Conditions/Grabbed|Grabbed]].\n* * *\n\n**Effect** The soulbound mauler holds the creature it has grabbed and attempts to tear it in two. That creature takes 5d6 bludgeoning damage (basic DC 18 Fortitude check). On a critical failure, the target also becomes [[Conditions/Enfeebled|Enfeebled 1]]."
+    desc: "`pf2:2`  The soulbound mauler has a living creature [[Conditions/Grabbed|Grabbed]].\n* * *\n\n**Effect** The soulbound mauler holds the creature it has grabbed and attempts to tear it in two. That creature takes 5d6 bludgeoning damage (DC 18 Fortitude check). On a critical failure, the target also becomes [[Conditions/Enfeebled|Enfeebled 1]]."
 
   - name: "Tethered Soul"
     desc: "  The soul focus gem that powers a soulbound mauler is tethered with eight ectoplasmic leashes inside an open cavity in the creature's chest. It can be targeted directly with a [[Actions/Disarm|Disarm]], [[Actions/Grapple|Grapple]], or [[Actions/Steal|Steal]] action. Rather than the normal result of these actions, the soulbound mauler takes 4d6 mental damage and is [[Conditions/Stunned|Stunned 1]] on a success; on a critical success, it takes 8d6 mental damage and is [[Conditions/Stunned|Stunned 2]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 
@@ -93,20 +93,20 @@ Rather than embedding the soul focus gem in the construct's neck or chest, it's 
 
 Like a soulbound doll, a soulbound mauler gains an additional 3rd-rank innate spell depending on its alignment, as listed below.
 
-Lawful Good: [[Heal|Heal]]
+Lawful Good: [[Spells/Heal|Heal]]
 
-Neutral Good: [[Jump|Jump]]
+Neutral Good: [[Spells/Jump|Jump]]
 
-Chaotic Good: [[Haste|Haste]]
+Chaotic Good: [[Spells/Haste|Haste]]
 
-Lawful Neutral: [[Blindness|Blindness]]
+Lawful Neutral: [[Spells/Blindness|Blindness]]
 
-Neutral: [[Shared Invisibility|Shared Invisibility]]
+Neutral: [[Spells/Shared Invisibility|Shared Invisibility]]
 
-Chaotic Neutral: [[Shatter|Shatter]]
+Chaotic Neutral: [[Spells/Shatter|Shatter]]
 
-Lawful Evil: [[Slow|Slow]]
+Lawful Evil: [[Spells/Slow|Slow]]
 
-Neutral Evil: [[Stinking Cloud|Stinking Cloud]]
+Neutral Evil: [[Spells/Stinking Cloud|Stinking Cloud]]
 
-Chaotic Evil: [[Harm|Harm]]
+Chaotic Evil: [[Spells/Harm|Harm]]

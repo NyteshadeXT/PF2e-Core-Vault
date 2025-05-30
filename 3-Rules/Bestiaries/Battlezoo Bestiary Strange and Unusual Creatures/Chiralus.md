@@ -37,7 +37,7 @@ perception:
 languages: "Aklo; reversed speech"
 skills:
   - name: "Skills"
-    desc: "Stealth: +21, Stealth: +21"
+    desc: "Stealth: +21"
 abilityMods: [3, 6, 4, 3, 4, 6]
 speed:  fly 35 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -70,11 +70,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sharp Edge +20 (finesse, magical)\n__Damage__  2d10 + 7 slashing 2d6 bleed"
+  - name: "**Melee** `pf2:1` Sharp Edge"
+    desc: "+20 (finesse, magical)\n__Damage__  2d10 + 7 slashing 2d6 bleed"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Haunting Reflection +20 (illusion, occult, range 30 feet)\n__Damage__  2d10 + 10 mental"
+  - name: "**Ranged** `pf2:1` Haunting Reflection"
+    desc: "+20 (illusion, occult, range 30 feet)\n__Damage__  2d10 + 10 mental"
 
   - name: "Infinitesimal Slice"
     desc: "`pf2:1`  The chiralus Flies through another creature's space and slices the creature both bodily and spiritually. The creature takes 4d6 slashing damage with a DC 27 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage. The chiralus makes a counteract check (counteract modifier +20, counteract level 5) against each magical effect directly linking the creature to its allies, such as the shield other spell, and other effects at the GM's discretion.\n\n**Critical Failure** As failure, but the creature is [[undefined]], and if the creature is astrally projecting (such as via the astral projection ritual), their silver cord is damaged, or severed if it was already damaged."

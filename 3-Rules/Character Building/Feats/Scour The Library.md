@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Scour The Library"
+title: "Scour the Library"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/psyche
@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.KNhmeUpZCSW5eHqg"
 license: OGL
 ---
-# Scour The Library `pf2:1`
+# Scour the Library `pf2:1`
 ## Feat 10
 ### [[psyche]][[psychic]]
 

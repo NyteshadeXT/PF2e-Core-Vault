@@ -67,8 +67,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +15 (reach 10 feet)\n__Damage__  1d12 + 8 bludgeoning 1d6 bleed"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+15 (reach 10 feet, unarmed)\n__Damage__  1d12 + 8 bludgeoning 1d6 bleed"
 
   - name: "Siphon Vitality"
     desc: "`pf2:2`  The blood ooze draws forth blood from nearby creatures, causing their flesh to break open and blood to spill out which replenishes the blood ooze. Each living creature within 15 feet takes 3d6 slashing damage (DC 21 Fortitude check save).\n\nThe blood ooze regains an amount of Hit Points equal to half the damage Siphon Vitality dealt to the single creature that took the most damage."

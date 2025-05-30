@@ -54,20 +54,23 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "No Breath"
     desc: "  The elder thing doesn't breathe and is immune to effects that require breathing (such as inhaled poison)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +20 (agile)\n__Damage__  2d8 + 11 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+20 (agile, unarmed)\n__Damage__  2d8 + 11 bludgeoning plus grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 29, attack +21; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Summon Entity|Summon Entity]]_; __4th __  _[[Spells/Rewrite Memory|Modify Memory]]_, _[[Spells/Phantom Pain|Phantom Pain]]_; __3rd __  _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Mind Reading|Mind Reading]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d8+11 bludgeoning, DC 29 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d8+11 bludgeoning, DC 29 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Eldritch Insight"
     desc: "`pf2:3` (occult) **Frequency** once per day\n* * *\n\n**Effect** By focusing its senses and thoughts on a single concept, an elder thing researcher can draw upon the thousands of years of deep memories. It then selects one of the following skills: Arcana, any Lore, Nature, Religion, or Society. Once the skill is chosen, the elder thing researcher can attempt checks for the selected skill using its Occultism modifier. This effect lasts until the elder thing researcher uses Eldritch Insight again to change its focus. If no focus is predetermined, assume an elder thing researcher has chosen to focus on Library Lore."
@@ -79,7 +82,7 @@ attacks:
     desc: "  The elder thing's wings allow it to fly in regions where flight is normally impossible, such as outer space. It gains a +2 circumstance bonus to checks made to Maneuver in Flight, and on saving throws against effects that impede flight."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

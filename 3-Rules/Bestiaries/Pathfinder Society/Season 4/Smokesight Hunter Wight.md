@@ -65,14 +65,17 @@ abilities_mid:
   - name: "Final Snare"
     desc: "`pf2:r`  **Trigger** The hunter wight is reduced to 0 Hit Points\n* * *\n\n**Effect** The hunter wight has rigged their own body with a snare, which they trigger before being destroyed. Slivers of bone launch at an adjacent creature, dealing 4d8 piercing damage (DC 25 Reflex check)."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +16 (agile)\n__Damage__  1d8 + 9 slashing plus drain-life"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+16 (agile, unarmed)\n__Damage__  1d8 + 9 slashing plus drain-life"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +18 (deadly d10, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 7 piercing plus drain-life"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+18 (deadly d10, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 7 piercing plus drain-life"
 
   - name: "Drain Life"
     desc: " (divine) When the hunter wight damages a living creature using an unarmed attack or their bound weapon, they gain 7 temporary Hit Points, and the creature must succeed at a DC 22 Fortitude check save or become [[Conditions/Drained|Drained 1]]. Further damage dealt by the hunter wight's unarmed and bound weapon attacks increases the value of the drained condition by 1 on a failed save, to a maximum of drained 4."

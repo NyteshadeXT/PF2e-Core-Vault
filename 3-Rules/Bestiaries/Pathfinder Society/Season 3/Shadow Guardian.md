@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shadow Staff +13 (magical, reach 10 feet)\n__Damage__  1d10 + 8 bludgeoning plus disorienting-shadows"
+  - name: "**Melee** `pf2:1` Shadow Staff"
+    desc: "+13 (magical, reach 10 feet)\n__Damage__  1d10 + 8 bludgeoning plus disorienting-shadows"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +13 (magical)\n__Damage__  1d8 + 6 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+13 (magical, unarmed)\n__Damage__  1d8 + 6 bludgeoning plus grab"
 
   - name: "Disorienting Shadows"
     desc: " (occult,shadow) When a shadow guardian hits with its staff, a mote of shadow clings to the target. The target must succeed at a DC 18 Fortitude check save or become [[Conditions/Clumsy|Clumsy 1]] and take a -1 status penalty to Perception checks involving sight as long as the mote remains. The target can use an Interact action to remove the mote. On a critical failure, the target must use two total Interact actions to remove the mote. Otherwise, the mote vanishes after 1 minute."
@@ -75,7 +75,7 @@ attacks:
     desc: "`pf2:1` (illusion,occult,shadow) The shadow guardian becomes shrouded in shadows and becomes [[Conditions/Concealed|Concealed]]. As the nature of this effect leaves the guardian's location obvious, it can't use this concealment to Hide or Sneak. This effect lasts for 1 minute or until it is exposed to direct sunlight, whichever comes first."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

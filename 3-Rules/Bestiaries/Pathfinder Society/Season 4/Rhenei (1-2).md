@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Aldori Dueling Sword +5 (finesse, versatile p)\n__Damage__  1d8 - 2 slashing"
+  - name: "**Melee** `pf2:1` Aldori Dueling Sword"
+    desc: "+5 (finesse, versatile p)\n__Damage__  1d8 - 2 slashing"
 
   - name: "Primal Spontaneous Spells"
-    desc: "DC 16, attack +8\n__Cantrips__  __(1st)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame (Bludgeoning, Water)]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 16, attack +8\n__Cantrips__  __(1st)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame (Bludgeoning, Water)]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Sorcerer Bloodline Spells"
     desc: "1 Focus Point, DC 16, attack +8; __1st __  _[[Spells/Elemental Toss|Elemental Toss]]_"

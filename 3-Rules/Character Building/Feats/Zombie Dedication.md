@@ -28,9 +28,7 @@ While your body is deteriorated, you're [[Conditions/Slowed|Slowed 1]]. You can 
 
 You crave the flesh of the living. You gain a jaws unarmed attack that deals 1d8 piercing damage. Your jaws are in the brawling group and have the unarmed trait. You can use your jaws Strike only against a creature that's [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by you.
 
-* * *
-
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Zombie|Zombie]] archetype.
+[[PF2e Journals/Archetypes/Zombie|Zombie]]
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

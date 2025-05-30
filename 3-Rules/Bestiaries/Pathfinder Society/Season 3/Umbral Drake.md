@@ -68,11 +68,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 (finesse)\n__Damage__  1d10 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (finesse, unarmed)\n__Damage__  1d10 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +12 (agile, finesse)\n__Damage__  1d8 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+12 (agile, finesse)\n__Damage__  1d8 + 5 bludgeoning"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The umbral drake makes one bite Strike and two tail Strikes in any order."

@@ -62,20 +62,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 (agile, finesse, magical, unholy)\n__Damage__  2d4 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (agile, finesse, magical, unarmed, unholy)\n__Damage__  2d4 + 7 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thrown Coin +12 (magical, range 30 feet, unholy)\n__Damage__  2d4 + 5 bludgeoning 1d6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Thrown Coin"
+    desc: "+12 (magical, range 30 feet, unholy)\n__Damage__  2d4 + 5 bludgeoning 1d6 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Illusory Object|Illusory Object]]_; __1st __  _[[Spells/Ill Omen|Ill Omen (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Figment|Figment]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Diabolic Pact|Diabolic Pact]]_"
+    desc: "_Diabolic Pact_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The agadaz adopts the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage bonuses with their Strikes, but it might change the type of damage their Strikes deal."
+    desc: "`pf2:1` (concentrate,divine,polymorph) The agadaz adopts the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage bonuses with their Strikes, but it might change the type of damage their Strikes deal.\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Double Down"
     desc: "`pf2:r` (divine,fortune) **Trigger** The agadaz attempts a Strike, saving throw, or skill check\n* * *\n\n**Effect** The agadaz takes a –2 status penalty to the roll, then gains a +2 status bonus to the next Strike, saving throw, or skill check they attempt before the end of their turn, or before the end of their next turn if they used Double Down during another creature's turn."

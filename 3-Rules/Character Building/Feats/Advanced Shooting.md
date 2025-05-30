@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.XkemuXgSQtxFAhZ8"
-license: OGL
+license: ORC
 ---
 # Advanced Shooting
 ## Feat 6
@@ -26,4 +27,4 @@ You gain one gunslinger feat. For the purpose of meeting its prerequisites, your
 **Special** You can select this feat more than once. Each time you select it, you gain another gunslinger feat.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

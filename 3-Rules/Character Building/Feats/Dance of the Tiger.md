@@ -16,7 +16,7 @@ license: ORC
 ---
 # Dance of the Tiger `pf2:1`
 ## Feat 9
-### [[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[occult]][[wayang]]
+### [[emotion]][[fear]][[mental]][[occult]][[wayang]]
 
 **Category** ancestry; 
 
@@ -31,5 +31,5 @@ Tales tell of the Tiger stalking the Mousedeer for days, hidden and instilling d
 
 **Success** As critical success, except the creature is only [[Conditions/Frightened|Frightened 1]] and your connection to its shadow breaks at 60 feet instead of 120.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

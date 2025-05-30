@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Magic's Vessel|Magic's Vessel]]
+Granted by [[Spells/Magic's Vessel|Magic's Vessel]]
 
 The target gains resistance to damage from spells equal to the spell's rank.
 

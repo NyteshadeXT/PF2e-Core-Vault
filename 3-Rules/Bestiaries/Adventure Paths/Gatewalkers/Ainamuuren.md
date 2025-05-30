@@ -55,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Tentacle Only)]]"
-    desc: "`pf2:r`  Tentacle only"
+    desc: "`pf2:r`  Tentacle only\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Blackfrost Evasion"
     desc: "`pf2:r`  **Trigger** Ainamuuren takes at least 35 physical damage from a single attack, and he isn't currently discorporated\n* * *\n\n**Effect** Ainamuuren discorporates into a whirling blizzard of blackfrost for 3 rounds. During this time, he gains resistance 10 to physical damage and weakness 10 to force damage. He gains a fly Speed of 40 feet, but the only action he can take is to Fly. While discorporated, the first time each round that Ainamuuren enters another creature's space or a creature enters Ainamuuren's space, that creature takes 4d8 cold and is exposed to blackfrost. At the start of his turn, Ainamuuren can end this effect as a free action."
@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +26 (reach 10 feet)\n__Damage__  3d6 + 10 bludgeoning plus blackfrost-dead-blackfrost"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+26 (reach 10 feet, unarmed)\n__Damage__  3d6 + 10 bludgeoning plus blackfrost-dead-blackfrost"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horns +26 (agile, cold)\n__Damage__  3d8 + 10 bludgeoning plus knockdown 1d6 cold plus knockdown"
+  - name: "**Melee** `pf2:1` Horns"
+    desc: "+26 (agile, cold)\n__Damage__  3d8 + 10 bludgeoning plus knockdown 1d6 cold plus knockdown"
 
   - name: "Occult Innate Spells"
     desc: "DC 32, attack +24; __6th __  _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_"
@@ -82,10 +82,10 @@ attacks:
     desc: " (cold,curse,disease,occult) Gatewalker characters are not immune to blackfrost effects inflicted by Ainamuuren\n\nThis affliction can't be reduced below stage 1, nor the damage from it healed, until successfully treated with [[Spells/Cleanse Affliction|Cleanse Affliction]] or a similar effect; the affliction can then be removed as a normal disease. A creature that dies from cold damage while cursed with blackfrost rises as a blackfrost dead after 24 hours. Blackfrost has a counteract rank of 10.\n\n**Saving Throw** DC 32 Fortitude check\n\n**Stage 1** 4d6 cold (1 minute)\n\n**Stage 2** weakness to cold 5 and [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 3** weakness to cold 10 and [[Conditions/Drained|Drained 2]] (1 day)"
 
   - name: "Twist Deviance"
-    desc: "`pf2:2` (mental,occult) Ainamuuren reaches out, then clutches his fingers into a fist and twists his arm, as if he were wrenching and tugging. At the same moment, all gatewalkers in a @Template[cone|distance:60] that Ainamuuren can see feel the signs they've worn on their bodies since they emerged from their Missing Moment spike with pain, as if Ainamuuren had [[Conditions/Grabbed|Grabbed]] that flesh and was twisting and tearing it. The targets must attempt a DC 32 Will check save. Ainamuuren can't use Twist Deviance again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature endures a brief moment of horrific pain and takes 4d8 mental.\n\n**Failure** The pain is much greater, and for a moment the creature is convinced that the portion of their flesh that was adorned with the sign of the gatewalker has been torn free. They take 8d8 mental and can't use their deviant abilities for 1 round.\n\n**Critical Failure** As failure, but 16d8 mental and they can't use their deviant abilities for 1 minute."
+    desc: "`pf2:2` (mental,occult) Ainamuuren reaches out, then clutches his fingers into a fist and twists his arm, as if he were wrenching and tugging. At the same moment, all gatewalkers in a 60-foot cone that Ainamuuren can see feel the signs they've worn on their bodies since they emerged from their Missing Moment spike with pain, as if Ainamuuren had [[Conditions/Grabbed|Grabbed]] that flesh and was twisting and tearing it. The targets must attempt a DC 32 Will check save. Ainamuuren can't use Twist Deviance again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature endures a brief moment of horrific pain and takes 4d8 mental.\n\n**Failure** The pain is much greater, and for a moment the creature is convinced that the portion of their flesh that was adorned with the sign of the gatewalker has been torn free. They take 8d8 mental and can't use their deviant abilities for 1 round.\n\n**Critical Failure** As failure, but 16d8 mental and they can't use their deviant abilities for 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

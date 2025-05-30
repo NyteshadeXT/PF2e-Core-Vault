@@ -3,7 +3,7 @@ title: "Orc Commander (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.5xjmJoJvBhASkEKS" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.PLZk6zY5iwccPTPS" 
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Maul +10 (shove)\n__Damage__  1d12 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Maul"
+    desc: "+10 (shove)\n__Damage__  1d12 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +10 (agile, nonlethal)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+10 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Battle Cry"
     desc: "`pf2:1` (concentrate,mental) Bellowing mightily, the commander gives themself and all orc allies within 60 feet who can hear them a +1 status bonus to attack and damage rolls until the start of the orc commander's next turn.\n\n[[Bestiary Effects/Effect_ Battle Cry|Effect: Battle Cry]]"

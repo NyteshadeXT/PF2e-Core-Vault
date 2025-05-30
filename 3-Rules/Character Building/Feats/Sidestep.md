@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You deftly step out of the way of an attack, letting the blow continue. You redirect the attack to a creature of your choice that is adjacent to you and within the reach of the triggering attack. The attacker rerolls the Strike's attack roll against the new target.
+You deftly step aside and gently redirect an attack. You redirect the triggering attack to a creature of your choice that is adjacent to you and within the attack's reach or maximum range. The attacker rerolls the Strike's attack roll against the new target.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +27 (deadly d8, disarm, finesse, magical)\n__Damage__  3d6 + 10 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+27 (deadly d8, disarm, finesse, magical)\n__Damage__  3d6 + 10 piercing"
 
   - name: "Adroit Duelist"
     desc: "  Vorens is adept at exploiting an opponent's weaknesses in a duel. If he wins initiative in a duel round, he deals an extra 2d6 precision damage with Strikes made before the beginning of his next turn."

@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Feats/Renewed Vigor|Renewed Vigor]]
+
 You gain temporary Hit Points equal to half your level plus your Constitution modifier. If you made an attack action this turn, increase the number of temporary Hit Points to your level plus your Constitution modifier.
 
 *Source: Pathfinder Player Core 2*

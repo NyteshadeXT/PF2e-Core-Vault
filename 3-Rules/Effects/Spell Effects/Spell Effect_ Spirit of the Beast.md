@@ -17,13 +17,13 @@ license: ORC
 
 
 
-Granted by [[3-Rules/Character Building/Spells/S/Spirit of the Beast|Spirit of the Beast]]
+Granted by [[Spells/Spirit of the Beast|Spirit of the Beast]]
 
-When you Cast this Spell, select from one of the following aspects.
+Select from one of the following aspects.
 
-*   **Aspect of Might:** Your companion gains a status bonus to Athletics checks, Intimidation checks to [[Actions/Demoralize|Demoralize]], and Fortitude saves.
-*   **Aspect of Swiftness:** Your companion gains a status bonus to Acrobatics checks, Stealth checks to Hide or [[Actions/Sneak|Sneak]], and Reflex saves.
-*   **Aspect of Insight:** Your companion gains a status bonus to Perception checks to [[Actions/Seek|Seek]], Survival checks to Sense Direction or [[Actions/Track|Track]], and Will saves.
+*   **Aspect of Might:** You gain a status bonus to Athletics checks, Intimidation checks to Demoralize, and Fortitude saves.
+*   **Aspect of Swiftness:** You gain a status bonus to Acrobatics checks, Stealth checks to Hide or Sneak, and Reflex saves.
+*   **Aspect of Insight:** You gain a status bonus to Perception checks to Seek, Survival checks to Sense Direction or Track, and Will saves.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

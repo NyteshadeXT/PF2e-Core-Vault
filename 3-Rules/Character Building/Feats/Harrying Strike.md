@@ -19,7 +19,7 @@ license: OGL
 
 
 
-**Prerequisites** Swordmaster Dedication 
+**Prerequisites** Swordmaster Dedication
 * * *
 Your attack prevents a foe from pursuing your allies. Make a melee Strike, adding the following effects in addition to the normal effects of the Strike.
 
@@ -31,5 +31,5 @@ Your attack prevents a foe from pursuing your allies. Make a melee Strike, addin
 
 **Failure** The target takes a -5-foot status penalty to its Speeds until the start of your next turn.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

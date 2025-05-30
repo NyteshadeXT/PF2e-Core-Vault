@@ -24,9 +24,9 @@ license: OGL
 
 
 
-You've trained with weapons used by your genie ancestors. You are trained with [[Falchion|Falchions]], [[Ranseur|Ranseurs]], [[Scimitar|Scimitars]], and [[Trident|Tridents]].
+You've trained with weapons used by your genie ancestors. You are trained with [[Equipment/Falchion|Falchions]], [[Equipment/Ranseur|Ranseurs]], [[Equipment/Scimitar|Scimitars]], and [[Equipment/Trident|Tridents]].
 
 In addition, you gain access to all uncommon geniekin weapons. For the purpose of determining your proficiency, martial geniekin weapons are simple weapons and advanced geniekin weapons are martial weapons.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

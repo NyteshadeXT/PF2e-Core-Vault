@@ -16,7 +16,7 @@ license: OGL
 ---
 # Frightful Moan `pf2:2`
 ## Feat 4
-### [[archetype]][[auditory]][[divine]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]]
+### [[archetype]][[auditory]][[divine]][[emotion]][[fear]][[mental]]
 
 **Category** class; 
 
@@ -28,7 +28,7 @@ license: OGL
 
 * * *
 
-You lament your fate, forcing each living creature in a @Template\[emanation|distance:30\] to attempt a Will check save against your class DC or spell DC, whichever is higher.
+You lament your fate, forcing each living creature in a 30-foot emanation to attempt a Will check save against your class DC or spell DC, whichever is higher.
 
 **Success** The creature is unaffected and temporarily immune to Frightful Moans for 1 minute.
 

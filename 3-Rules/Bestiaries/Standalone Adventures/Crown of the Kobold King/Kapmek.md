@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +9 (agile, sweep)\n__Damage__  1d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+9 (agile, sweep)\n__Damage__  1d6 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +9 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 3 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+9 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +9 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+9 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 3 piercing"
 
   - name: "Hurried Retreat"
     desc: "`pf2:1`  **Requirements** Kapmek is adjacent to at least one enemy.\n* * *\n\n**Effect** Kapmek Strides up to his Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. He must end this movement in a space that's not adjacent to any enemy."

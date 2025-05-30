@@ -31,19 +31,7 @@ The herbal items you create use medicinal plants endemic to your location. When 
 *   **Swamp** Remove one source of persistent bleed damage.
 *   **Underground** Gain a +1 circumstance bonus to Perception.
 
-[[Feat_Feature Effects/Effect_ Aquatic Endemic Herbs|Effect: Aquatic Endemic Herbs]]
-
-[[Feat_Feature Effects/Effect_ Arctic Endemic Herb|Effect: Arctic Endemic Herb]]
-
-[[Feat_Feature Effects/Effect_ Desert Endemic Herbs|Effect: Desert Endemic Herbs]]
-
-[[Feat_Feature Effects/Effect_ Forest Endemic Herbs|Effect: Forest Endemic Herbs]]
-
-[[Feat_Feature Effects/Effect_ Mountain Endemic Herbs|Effect: Mountain Endemic Herbs]]
-
-[[Feat_Feature Effects/Effect_ Plains Endemic Herbs|Effect: Plains Endemic Herbs]]
-
-[[Feat_Feature Effects/Effect_ Underground Endemic Herbs|Effect: Underground Endemic Herbs]]
+[[Feat_Feature Effects/Effect_ Endemic Herbs|Effect: Endemic Herbs]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

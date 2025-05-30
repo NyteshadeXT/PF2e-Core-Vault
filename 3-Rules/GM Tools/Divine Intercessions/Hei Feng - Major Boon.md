@@ -20,5 +20,5 @@ The instruments of the storm spare you from their fury.
 
 You ignore all effects and penalties caused by precipitation and winds, and you can see normally through fog, rain, and other weather conditions.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

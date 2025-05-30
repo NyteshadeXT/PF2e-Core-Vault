@@ -14,7 +14,7 @@ license: ORC
 ---
 # All This Will Happen Again `pf2:r`
 ## Feat 1
-### [[fortune]][[3-Rules/trait_reference/M/mental]][[samsaran]]
+### [[fortune]][[mental]][[samsaran]]
 
 **Category** ancestry; 
 
@@ -27,5 +27,5 @@ license: ORC
 
 Even in the face of overwhelming tribulation, you find solace in the notion that this feeling is fleeting; all things are merely part of a never-ending cycle. Reroll the triggering saving throw with a +1 status bonus. You must use the second result, even if it's worse.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Heartripper Blade +10 (agile, finesse, versatile s)\n__Damage__  2d4 piercing"
+  - name: "**Melee** `pf2:1` Heartripper Blade"
+    desc: "+10 (agile, finesse, versatile s)\n__Damage__  2d4 piercing"
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 21, attack +13; __2nd __ (4 slots) _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Noise Blast|Sound Burst]]_; __1st __ (4 slots) _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Shield|Shield]]_"
@@ -70,7 +70,7 @@ attacks:
     desc: "1 Focus Point, DC 21, attack +13; __2nd __  _[[Spells/Diabolic Edict|Diabolic Edict]]_"
 
   - name: "Smoky Retreat"
-    desc: "`pf2:3` (divine,move) **Frequency** once per hour\n\n**Requirements** Jekkajak is adjacent to at least one enemy\n* * *\n\n**Effect** Jekkajak squeals in fright as she exhales a noxious cloud of stinking smoke. This smoke fills a @Template[emanation|distance:10] around her and grants concealment to all creatures within the smoke. In addition, any non-kobold starting their turn in the smoke must succeed at a DC 21 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] by the foul smoke (or [[Conditions/Sickened|Sickened 2]] on a critical failure). Once created, the cloud of smoke is immobile and persists for 3 rounds. Jekkajak can move up to her Speed, but she must end her movement in a space that isn't adjacent to any enemies. This is a 2nd-rank spell that requires a somatic component."
+    desc: "`pf2:3` (divine,move) **Frequency** once per hour\n\n**Requirements** Jekkajak is adjacent to at least one enemy\n* * *\n\n**Effect** Jekkajak squeals in fright as she exhales a noxious cloud of stinking smoke. This smoke fills a 10-foot emanation around her and grants concealment to all creatures within the smoke. In addition, any non-kobold starting their turn in the smoke must succeed at a DC 21 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] by the foul smoke (or [[Conditions/Sickened|Sickened 2]] on a critical failure). Once created, the cloud of smoke is immobile and persists for 3 rounds. Jekkajak can move up to her Speed, but she must end her movement in a space that isn't adjacent to any enemies. This is a 2nd-rank spell that requires a somatic component."
  
 ```
 

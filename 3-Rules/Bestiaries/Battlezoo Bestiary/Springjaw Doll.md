@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaw +9 ()\n__Damage__  1d4 + 3 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaw"
+    desc: "+9 ()\n__Damage__  1d4 + 3 piercing plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Finger Bolts +9 (range increment 20 feet)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Ranged** `pf2:1` Finger Bolts"
+    desc: "+9 (range increment 20 feet)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

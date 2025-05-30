@@ -11,7 +11,7 @@ license: OGL
 ---
 # Plant Soul Siblings
 ## Feat 9
-### [rare](rare.md "Rare Rarity Trait")[[reincarnated]]
+### [rare](rare "Rare Rarity Trait")[[reincarnated]]
 
 **Category** ancestry; 
 
@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Animal Soul Siblings
 * * *
-You're now able to connect with the spirits present in the greenery of the natural world. You gain [[Speak with Plants|Speak with Plants]] as a primal innate spell that you can cast once per day. You get a +2 circumstance bonus to Diplomacy checks to Gather Information from animals or plants.
+You're now able to connect with the spirits present in the greenery of the natural world. You gain [[Spells/Speak with Plants|Speak with Plants]] as a primal innate spell that you can cast once per day. You get a +2 circumstance bonus to Diplomacy checks to Gather Information from animals or plants.
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

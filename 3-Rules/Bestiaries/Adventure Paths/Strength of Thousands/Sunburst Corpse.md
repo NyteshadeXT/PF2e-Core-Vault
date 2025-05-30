@@ -66,23 +66,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +29 (agile, finesse)\n__Damage__  3d6 + 13 slashing plus grab,residual-light 2d8 fire plus grab,residual-light"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+29 (agile, finesse, unarmed)\n__Damage__  3d6 + 13 slashing plus grab,residual-light 2d8 fire plus grab,residual-light"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sunfire +25 (range increment 40 feet)\n__Damage__  7d6 fire"
+  - name: "**Ranged** `pf2:1` Sunfire"
+    desc: "+25 (range increment 40 feet)\n__Damage__  7d6 fire"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6+6 bludgeoning plus 2d8 fire and Residual Light, DC 34 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d6+6 bludgeoning plus 2d8 fire and Residual Light, DC 34 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Nova Burst"
-    desc: "`pf2:3` (light,occult) The sunburst corpse intensifies its light and unleashes a burning blast of energy. It deals 12d8 fire damage to all creatures in a @Template[emanation|distance:20] (DC 34 Fortitude check save). A creature that fails its save becomes [[Conditions/Dazzled|Dazzled]] until the end of its next turn. The sunburst corpse can't use Nova Burst again for 1d4 rounds, and its blinding aura becomes inactive during this time."
+    desc: "`pf2:3` (light,occult) The sunburst corpse intensifies its light and unleashes a burning blast of energy. It deals 12d8 fire damage to all creatures in a 20-foot emanation (DC 34 Fortitude check save). A creature that fails its save becomes [[Conditions/Dazzled|Dazzled]] until the end of its next turn. The sunburst corpse can't use Nova Burst again for 1d4 rounds, and its blinding aura becomes inactive during this time."
 
   - name: "Residual Light"
     desc: " (light,occult) When a sunburst corpse Strikes or Grapples a creature, some of the corpse's light clings to the creature for a moment. The creature must attempt a DC 34 Fortitude check save. On a failure, the creature is [[Conditions/Dazzled|Dazzled]] until the end of its next turn. On a critical failure, the creature is dazzled for 1 minute. A dazzled creature can use an Interact action to wick off the light and remove the dazzled condition."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You call on a guardian of the wild to burst forth from the land to aid you. You can cast [[Spiritual Guardian|Spiritual Guardian]] as a 5th-rank innate primal spell once per day, even if you don't have a deity; this guardian manifests as a kami or other nature spirit. When you reach 17th level, you can heighten this spell to 7th rank.
+You call on a guardian of the wild to burst forth from the land to aid you. You can cast [[Spells/Spiritual Guardian|Spiritual Guardian]] as a 5th-rank innate primal spell once per day, even if you don't have a deity; this guardian manifests as a kami or other nature spirit. When you reach 17th level, you can heighten this spell to 7th rank.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

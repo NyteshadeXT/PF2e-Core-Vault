@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Prismatic Armor|Prismatic Armor]]
+Granted by [[Spells/Prismatic Armor|Prismatic Armor]]
+
+You gain resistance to acid, electricity, fire, force, mental, poison, and sonic damage.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -34,7 +34,7 @@ skills:
   - name: "Skills"
     desc: "Acrobatics: +31, Athletics: +35, Intimidation: +31"
 abilityMods: [9, 5, 6, -2, 5, 4]
-speed: 25 feet
+speed: 25 feet,  fly 50 feet
 sourcebook: "_Pathfinder Kingmaker_"
 ac: 41
 armorclass:
@@ -53,14 +53,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +35 (reach 10 feet)\n__Damage__  3d12 + 17 piercing 1d12 bleed"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+35 (reach 10 feet, unarmed)\n__Damage__  3d12 + 17 piercing 1d12 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +35 (agile, reach 20 feet)\n__Damage__  3d10 + 17 slashing plus grab"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+35 (agile, reach 20 feet, unarmed)\n__Damage__  3d10 + 17 slashing plus grab"
 
   - name: "Bloodcurdling Screech"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The owlbear unleashes a loud screech that terrifies its prey. Each creature in an @Template[emanation|distance:80] must attempt a DC 40 Will check save. Regardless of the result, creatures are temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Fleeing|Fleeing]] for 1 round and [[Conditions/Frightened|Frightened 3]]."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The owlbear unleashes a loud screech that terrifies its prey. Each creature in an 80-foot emanation must attempt a DC 40 Will check save. Regardless of the result, creatures are temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Fleeing|Fleeing]] for 1 round and [[Conditions/Frightened|Frightened 3]]."
 
   - name: "Gnaw"
     desc: "`pf2:1`  **Requirements** The owlbear has a creature [[Conditions/Grabbed|Grabbed]] with its talons.\n* * *\n\n**Effect** The owlbear attempts to disembowel the creature with a beak Strike. If the Strike hits, the target must attempt a DC 40 Will check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The target is sickened 1 and [[Conditions/Slowed|Slowed 1]] as long as it remains sickened."
@@ -69,7 +69,7 @@ attacks:
     desc: "`pf2:2` (auditory,emotion,fear,mental) The owlbear makes a Bloodcurdling Screech and Strides twice. All creatures within 80 feet of the owlbear at any point during this movement are subjected to the effects of Bloodcurdling Screech."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

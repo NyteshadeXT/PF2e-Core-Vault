@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Radiant Wayfinder"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.J6lNh2fUQ6jYTRak"
 license: OGL
 ---
 # Radiant Wayfinder `pf2:2`
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 
@@ -24,7 +24,7 @@ license: OGL
 
 You have specially augmented your wayfinder, devising a way for the device to reveal [[Conditions/Hidden|Hidden]] creatures. When you purchase this boon, you apply its benefits to one wayfinder in your possession, granting it the following activation ability.
 
-Activate \[two-action\] command (evocation, good, light)
+**Activate** `pf2:2` command (evocation, good, light)
 
 * * *
 

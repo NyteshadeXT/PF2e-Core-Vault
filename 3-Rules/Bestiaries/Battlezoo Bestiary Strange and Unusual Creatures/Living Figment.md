@@ -35,7 +35,7 @@ perception:
 languages: "Common; plus any languages known by its creator"
 skills:
   - name: "Skills"
-    desc: "Deception: +17, Intimidation: +15, Performance: +13, Stealth: +17, Deception: +17, Intimidation: +15, Performance: +13, Stealth: +17"
+    desc: "Deception: +17, Intimidation: +15, Performance: +13, Stealth: +17"
 abilityMods: [-5, 5, 2, 3, 4, 5]
 speed:  fly 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Illusory Weapon +17 ()\n__Damage__  2d12 + 9 mental plus psychosomatic-strike"
+  - name: "**Melee** `pf2:1` Illusory Weapon"
+    desc: "+17 ()\n__Damage__  2d12 + 9 mental plus psychosomatic-strike"
 
   - name: "Psychosomatic Strike"
     desc: "  A living figment's attacks deal damage because the target believes they are real. The first time each round a creature is hit by a living figment's Strike, they can attempt a DC 25 Will check save to disbelieve the illusory attack. On a failure, they take damage as normal. On a success, the creature disbelieves the illusion, causing the living figment's subsequent illusory weapon Strikes to gain the nonlethal trait against that creature and deal half damage to that creature."

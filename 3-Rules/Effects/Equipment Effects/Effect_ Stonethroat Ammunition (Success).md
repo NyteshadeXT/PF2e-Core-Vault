@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Stonethroat Ammunition|Stonethroat Ammunition]]
+Granted by [[Equipment/Stonethroat Ammunition|Stonethroat Ammunition]]
 
-The ammunition lodges itself loosely into the target's throat. For 1 round, the target takes a -2 status penalty to attack rolls with its jaws or fangs, and to Athletics checks.
+You take a -2 status penalty to attack rolls with your jaws or fangs, and to Athletics checks.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

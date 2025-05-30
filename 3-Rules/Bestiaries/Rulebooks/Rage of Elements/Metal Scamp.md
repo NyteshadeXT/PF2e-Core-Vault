@@ -25,7 +25,7 @@ name: "Metal Scamp"
 level: "Creature 1"
 
 alignment: ""
-size: "Medium"
+size: "Small"
 trait_01: [[elemental]]
 trait_02: [[metal]]
 modifier: 3
@@ -53,17 +53,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 2 (While Touching Metal)]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 ()\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (unarmed)\n__Damage__  1d6 + 2 slashing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Magnetic Attraction|Magnetic Attraction]]_"
 
   - name: "Breathe Shrapnel"
-    desc: "`pf2:1` (arcane,metal) The metal scamp breathes a @Template[cone|distance:15] of jagged metal flakes that deals 2d4 slashing + 1d4 bleed damage to each creature within the area (DC 17 Reflex check save).\n\nThe metal scamp can't Breathe Shrapnel again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,metal) The metal scamp breathes a 15-foot cone of jagged metal flakes that deals 2d4 slashing + 1d4 bleed damage to each creature within the area (DC 17 Reflex check save).\n\nThe metal scamp can't Breathe Shrapnel again for 1d4 rounds."
  
 ```
 

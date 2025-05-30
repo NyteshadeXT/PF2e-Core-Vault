@@ -55,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Ferocious Devotion"
     desc: " (arcane) When an illusory toady is destroyed, it dissolves into a puddle of cerulean quintessence before reforming to quasi-life once more. One round after it is destroyed, the toady starts re-forming. One round after that, the toady is completely healed and begins to fight once more.\n\nIf damaged while it is re-forming but before the process is complete, the toady is destroyed but splits into two cerulean puddles that begin re-forming into two identical toadies 1 round later, each with half the maximum HP of the original toady (this is similar to an [[Bestiary 1/Ochre Jelly|Ochre Jelly's]] Split ability); the toadies begin re-forming 1 round later.\n\nThe toadies are permanently destroyed only by [[Spells/Disjunction|Disjunction]] or if [[Agents of Edgewatch/Blune Bandersworth|Blune]] falls unconscious."
@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Chaos Hand +35 (agile, finesse, magical)\n__Damage__  3d8 + 12 spirit"
+  - name: "**Melee** `pf2:1` Chaos Hand"
+    desc: "+35 (agile, finesse, magical)\n__Damage__  3d8 + 12 spirit"
 
   - name: "Innate Arcane Spells"
     desc: "DC 36, attack +28; __6th __ (1 slots) _[[Spells/Heroism|Heroism]]_; __5th __ (3 slots) _[[Spells/Force Barrage|Magic Missile (At Will)]]_, _[[Spells/Share Life|Shield Other]]_, _[[Spells/Telekinetic Haul|Telekinetic Haul]]_\n__Cantrips__  __(5th)__ _[[Spells/Guidance|Guidance]]_"

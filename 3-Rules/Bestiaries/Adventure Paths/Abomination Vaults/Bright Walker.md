@@ -56,6 +56,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "Bright Release"
@@ -67,20 +70,23 @@ abilities_mid:
   - name: "Suppress Aura"
     desc: "`pf2:1` (concentrate) The bright walker suppresses their light aura for 1 round, reducing it to a faint, ghostly glow of dim light."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Radiant Touch +21 (agile, finesse, fire, light, magical)\n__Damage__  2d8 + 11 fire"
+  - name: "**Melee** `pf2:1` Radiant Touch"
+    desc: "+21 (agile, finesse, fire, light, magical)\n__Damage__  2d8 + 11 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Radiant Ray +21 (fire, light, magical, range increment 60 feet)\n__Damage__  2d6 + 11 fire"
+  - name: "**Ranged** `pf2:1` Radiant Ray"
+    desc: "+21 (fire, light, magical, range increment 60 feet)\n__Damage__  2d6 + 11 fire"
 
   - name: "Landbound"
     desc: "  A bright walker can't fly higher than 1 foot above the ground. If they fly higher than this distance, they fall but don't take any damage from falling."
 
   - name: "Light Flare"
-    desc: "`pf2:2` (divine,fire,light) **Requirement** The bright walker's Light Aura is suppressed\n* * *\n\n**Effect** The bright walker reignites their Light Aura with a burst of brightness that deals 5d6 fire damage (DC 25 Reflex check save) to creatures within a @Template[burst|distance:20].\n\nCreatures who are [[Conditions/Dazzled|Dazzled]] or with [[Bestiary Ability Glossary/Light Blindness|Light Blindness]] find this flare particularly painful; such a creature's save result is one degree of success worse than the result it rolled."
+    desc: "`pf2:2` (divine,fire,light) **Requirement** The bright walker's Light Aura is suppressed\n* * *\n\n**Effect** The bright walker reignites their Light Aura with a burst of brightness that deals 5d6 fire damage (DC 25 Reflex check save) to creatures within a 20-foot burst.\n\nCreatures who are [[Conditions/Dazzled|Dazzled]] or with [[Bestiary Ability Glossary/Light Blindness|Light Blindness]] find this flare particularly painful; such a creature's save result is one degree of success worse than the result it rolled."
 
   - name: "Shadow Jump"
     desc: "`pf2:1` (divine,teleportation) **Requirement** The bright walker's Light Aura is suppressed\n* * *\n\n**Effect** The bright walker teleports to a square it can see within 60 feet that is not in an area of bright light. The bright walker can't use again for 1d4 rounds."

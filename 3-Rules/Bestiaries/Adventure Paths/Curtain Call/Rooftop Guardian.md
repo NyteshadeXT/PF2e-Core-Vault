@@ -58,22 +58,28 @@ abilities_top:
   - name: "Greater Web Sense"
     desc: "  While touching its webs, the Leng spider has precise [[Bestiary Ability Glossary/Tremorsense|Tremorsense]] to detect the vibrations of creatures touching its web."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 10]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Web War Flail +27 (disarm, magical, reach 15 feet, sweep, trip)\n__Damage__  3d10 + 16 bludgeoning"
+  - name: "**Melee** `pf2:1` Web War Flail"
+    desc: "+27 (disarm, magical, reach 15 feet, sweep, trip)\n__Damage__  3d10 + 16 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +27 (reach 10 feet)\n__Damage__  3d12 + 16 piercing plus leng-spider-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+27 (reach 10 feet)\n__Damage__  3d12 + 16 piercing plus leng-spider-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Leg +27 (agile, reach 10 feet)\n__Damage__  3d8 + 16 slashing"
+  - name: "**Melee** `pf2:1` Leg"
+    desc: "+27 (agile, reach 10 feet)\n__Damage__  3d8 + 16 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Web Bola +28 (magical, nonlethal, ranged trip, thrown 20 ft.)\n__Damage__  2d6 + 16 bludgeoning"
+  - name: "**Ranged** `pf2:1` Web Bola"
+    desc: "+28 (magical, nonlethal, ranged trip, thrown 20 ft.)\n__Damage__  2d6 + 16 bludgeoning"
 
   - name: "Occult Innate Spells"
     desc: "DC 33, attack +23; __7th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Interplanar Teleport|Interplanar Teleport (To Leng or the Universe only)]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __  _[[Spells/Mislead|Mislead]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_; __4th __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(7th)__ _[[Spells/Fly|Fly]]_, _[[Spells/Truespeech|Truespeech]]_"

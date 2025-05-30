@@ -58,16 +58,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +15 (agile, finesse, versatile s)\n__Damage__  1d6 + 11 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+15 (agile, finesse, versatile s)\n__Damage__  1d6 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Composite Shortbow +15 (deadly d10, propulsive, volley 30 ft.)\n__Damage__  1d6 + 11 piercing"
+  - name: "**Melee** `pf2:1` Composite Shortbow"
+    desc: "+15 (deadly d10, propulsive, volley 30 ft.)\n__Damage__  1d6 + 11 piercing"
 
   - name: "[[Actions/Hunt Prey|Hunt Prey]]"
     desc: "`pf2:1` (concentrate) The Scorched Earth scout designates a single creature they can see and hear, or one they're Tracking, as their prey. The Scorched Earth scout gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey. The first time the Scorched Earth scout hits the designated prey in a round, they deal an additional 1d8 precision damage. The Scorched Earth scout also ignores the penalty for making ranged attacks within their second range increment. These effects last until the Scorched Earth scout uses Hunt Prey again."

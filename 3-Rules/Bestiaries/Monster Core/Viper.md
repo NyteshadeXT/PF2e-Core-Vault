@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +6 (agile, finesse, reach 0 feet)\n__Damage__  1d8 - 3 piercing plus viper-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+6 (agile, finesse, reach 0 feet)\n__Damage__  1d8 - 3 piercing plus viper-venom"
 
   - name: "Viper Venom"
     desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d8 poison (1 round)."

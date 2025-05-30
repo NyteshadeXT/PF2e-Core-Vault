@@ -57,19 +57,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 (agile)\n__Damage__  1d8 + 4 piercing plus sinful-bite"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (agile, unarmed)\n__Damage__  1d8 + 4 piercing plus sinful-bite"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +10 ()\n__Damage__  1d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+10 (unarmed)\n__Damage__  1d6 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Halberd +10 (reach 10 feet, versatile s)\n__Damage__  1d10 + 4 piercing"
+  - name: "**Melee** `pf2:1` Halberd"
+    desc: "+10 (reach 10 feet, versatile s)\n__Damage__  1d10 + 4 piercing"
 
   - name: "Sinful Bite"
     desc: " (arcane,emotion,mental) A creature hit by the jaws of a sinspawn must attempt a DC 18 Will check save as it is assailed by sinful thoughts.\n* * *\n\n**Critical Success** Unaffected\n\n**Success** [[Conditions/Sickened|Sickened 1]]\n\n**Failure** [[Conditions/Sickened|Sickened 2]]\n\n**Critical Failure** sickened 2 plus [[Conditions/Enfeebled|Enfeebled 2]] for 1 minute"

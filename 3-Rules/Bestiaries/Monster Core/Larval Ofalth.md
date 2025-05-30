@@ -57,19 +57,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
   - name: "[[Bestiary Ability Glossary/Stench|Stench]]"
-    desc: " (aura,olfactory) 30 feet DC 19 Fortitude check\n\n* * *\n"
+    desc: " (aura,olfactory) 30 feet DC 19 Fortitude check\n* * *\n\nA creature entering the aura or starting its turn in the area must succeed at a Fortitude save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] as long as it's sickened on a critical failure). A creature that succeeds at its save or recovers from being sickened is temporarily immune to all stench auras for 1 minute."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 ()\n__Damage__  2d8 + 5 slashing plus wretched-weeps"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (unarmed)\n__Damage__  2d8 + 5 slashing plus wretched-weeps"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Leachate +11 (range 20 feet)\n__Damage__  3d8 acid plus wretched-weeps"
+  - name: "**Ranged** `pf2:1` Leachate"
+    desc: "+11 (range 20 feet)\n__Damage__  3d8 acid plus wretched-weeps"
 
   - name: "Wretched Weeps"
     desc: "  **Saving Throw** DC 19 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d4 persistent bleed every hour and [[Conditions/Enfeebled|Enfeebled 1]] (1 day);\n\n**Stage 3** 2d6 persistent bleed every hour and [[Conditions/Enfeebled|Enfeebled 2]] (1 day)"

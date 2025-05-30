@@ -55,16 +55,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Word Warp"
-    desc: "`pf2:r` (auditory,occult) **Trigger** The wordsmith is the target of a linguistic effect\n* * *\n\n**Effect** The wordsmith twists the words and attempts to counter their foe's utterances with their hammer (counteract [[/gmr 1d20+16 #Councteract]]{+16}, 3rd rank)."
+    desc: "`pf2:r` (auditory,occult) **Trigger** The wordsmith is the target of a linguistic effect\n* * *\n\n**Effect** The wordsmith twists the words and attempts to counter their foe's utterances with their hammer (counteract +16, 3rd rank)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hammer +14 (forceful, occult, sonic)\n__Damage__  1d6 sonic plus forge-onomatopoeia 2d6 + 4 bludgeoning plus forge-onomatopoeia"
+  - name: "**Melee** `pf2:1` Hammer"
+    desc: "+14 (forceful, occult, sonic)\n__Damage__  1d6 sonic plus forge-onomatopoeia 2d6 + 4 bludgeoning plus forge-onomatopoeia"
 
-  - name: "Ranged"
-    desc: "`pf2:1` TWANG! +13 (occult, range 60 feet, sonic)\n__Damage__  2d4 + 4 sonic"
+  - name: "**Ranged** `pf2:1` TWANG!"
+    desc: "+13 (occult, range 60 feet, sonic)\n__Damage__  2d4 + 4 sonic"
 
   - name: "Occult Innate Spells"
     desc: "DC 24, attack +14; __2nd __  _[[Spells/Noise Blast|Noise Blast]]_, _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_; __1st __  _[[Spells/Command|Command]]_\n__Cantrips__  __(2nd)__ _[[Spells/Figment|Figment]]_, _[[Spells/Message|Message]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"

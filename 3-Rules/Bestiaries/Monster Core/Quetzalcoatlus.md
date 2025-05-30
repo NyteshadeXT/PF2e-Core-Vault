@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +17 (deadly d10, reach 10 feet)\n__Damage__  2d10 + 10 piercing 1d8 bleed"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+17 (deadly d10, reach 10 feet, unarmed)\n__Damage__  2d10 + 10 piercing 1d8 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +17 ()\n__Damage__  2d8 + 10 piercing plus grab"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+17 (unarmed)\n__Damage__  2d8 + 10 piercing plus grab"
 
   - name: "Carry"
     desc: "  A quetzalcoatlus can Fly at half Speed while it has a single creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. Both its talons are occupied while it does this."
@@ -68,7 +68,7 @@ attacks:
     desc: "`pf2:2`  The quetzacoaltus Flies up to its Speed and makes one beak or talon Strike at any point during that movement."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

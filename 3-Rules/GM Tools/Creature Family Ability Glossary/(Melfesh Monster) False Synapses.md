@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/mental
   - trait/poison
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.i4WBOAb7CmY53doM"
 license: OGL
 ---
 # (Melfesh Monster) False Synapses `pf2:2`
 
-### [[3-Rules/trait_reference/M/mental]][[3-Rules/trait_reference/P/poison]]
+### [[mental]][[poison]]
 
 **Category** offensive; 
 
@@ -21,5 +21,5 @@ license: OGL
 
 The Melfesh Monster partially controls a creature within 60 feet that has inhaled its spores. This has the effects of a command spell (DC 24 Will check save). This ability replaces sporesight and Spore Cloud.
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

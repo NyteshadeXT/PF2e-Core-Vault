@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Pick +23 (agile, fatal d8, magical)\n__Damage__  2d4 + 11 piercing"
+  - name: "**Melee** `pf2:1` Light Pick"
+    desc: "+23 (agile, fatal d8, magical)\n__Damage__  2d4 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shuriken +22 (agile, monk, reload 0, thrown 20 ft.)\n__Damage__  1d4 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Shuriken"
+    desc: "+22 (agile, monk, reload 0, thrown 20 ft.)\n__Damage__  1d4 + 7 piercing"
 
   - name: "Deft Pick"
     desc: "  A Graverobber adds their Dexterity modifier to damage rolls with a light pick instead of their Strength modifier, and on a critical hit, they inflict an additional 4 damage."

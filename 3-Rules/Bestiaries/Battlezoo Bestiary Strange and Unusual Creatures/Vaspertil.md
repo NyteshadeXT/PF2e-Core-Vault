@@ -37,7 +37,7 @@ perception:
 languages: "Chthonian, Draconic, Empyrean, Requian; can&#x27;t speak any language, telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Religion: +19, Society: +17, Stealth: +22, Survival: +19, Acrobatics: +22, Religion: +19, Society: +17, Stealth: +22, Survival: +19"
+    desc: "Acrobatics: +22, Religion: +19, Society: +17, Stealth: +22, Survival: +19"
 abilityMods: [7, 7, 3, 2, 5, 2]
 speed: 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword +22 (two-hand d12)\n__Damage__  2d8 + 10 slashing plus drain-life"
+  - name: "**Melee** `pf2:1` Bastard Sword"
+    desc: "+22 (two-hand d12)\n__Damage__  2d8 + 10 slashing plus drain-life"
 
   - name: "Divine Innate Spells"
     desc: "DC 26, attack +18; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Darkness|Darkness]]_; __3rd __  _[[Spells/Veil of Privacy|Nondetection]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"

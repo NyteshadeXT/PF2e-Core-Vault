@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap184-the-ghouls-hunger/assets/art/PZO90184_GHOUL_OWLBEAR.webp| ]]
 source: "Pathfinder #184: The Ghouls Hunger"
 name: "Straugh"
 level: "Creature 10"
@@ -58,20 +59,23 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +23 ()\n__Damage__  2d12 + 12 piercing plus ghoul-ghoul-fever,ghoul-paralysis"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+23 (unarmed)\n__Damage__  2d12 + 12 piercing plus ghoul-ghoul-fever,ghoul-paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +23 (agile, reach 10 feet)\n__Damage__  2d8 + 12 piercing plus improved-grab,ghoul-paralysis"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+23 (agile, reach 10 feet, unarmed)\n__Damage__  2d8 + 12 piercing plus improved-grab,ghoul-paralysis"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Flesh]]"
     desc: "`pf2:1` (manipulate) **Requirements** The ghoul is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghoul devours a chunk of the corpse and regains 7d6 healing Hit Points.\n\nIt can regain Hit Points from any given corpse only once."
 
   - name: "Fetid Screech"
-    desc: "`pf2:1` (olfactory) Unaware that its vocal organs have withered and decayed, the straugh instinctively but ineffectively attempts to screech, instead releasing malodorous gas, half-digested corpse flesh, and small swarms of maggots from its open beak. The straugh releases a disgusting cloud of gas and decaying detritus in a @Template[cone|distance:15]; any creature within the area must attempt a DC 28 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 2]]. On a critical failure, the creature also takes a -5 foot status penalty to its Speeds for 1 round. Any creature that succeeds at the save is temporarily immune to Fetid Screech for 24 hours.\n\n[[Bestiary Effects/Effect_ Fetid Screech (Critical Failure)|Effect: Fetid Screech (Critical Failure)]]"
+    desc: "`pf2:1` (olfactory) Unaware that its vocal organs have withered and decayed, the straugh instinctively but ineffectively attempts to screech, instead releasing malodorous gas, half-digested corpse flesh, and small swarms of maggots from its open beak. The straugh releases a disgusting cloud of gas and decaying detritus in a 15-foot cone; any creature within the area must attempt a DC 28 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 2]]. On a critical failure, the creature also takes a -5 foot status penalty to its Speeds for 1 round. Any creature that succeeds at the save is temporarily immune to Fetid Screech for 24 hours.\n\n[[Bestiary Effects/Effect_ Fetid Screech (Critical Failure)|Effect: Fetid Screech (Critical Failure)]]"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Ghoul Fever|Ghoul Fever]]"
     desc: " (disease) **Saving Throw** DC 28 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 4d8 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 4d8 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
@@ -84,6 +88,9 @@ attacks:
 
   - name: "Tunneling Strike"
     desc: "`pf2:2` (earth) **Requirements** The straugh has Burrowed underground and remains undetected by the creature it plans to attack\n* * *\n\n**Effect** The straugh Burrows twice to emerge from the ground adjacent to at least one enemy and immediately makes a Strike against that foe."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

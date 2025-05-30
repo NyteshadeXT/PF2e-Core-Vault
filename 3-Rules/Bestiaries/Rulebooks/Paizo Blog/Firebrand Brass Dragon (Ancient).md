@@ -55,7 +55,7 @@ abilities_top:
   - name: ""
 
   - name: "Battle Cry"
-    desc: "  **Trigger** The Brass Dragon rolls initiative.\n* * *\n\n**Effect** The Brass Dragon roars out a mighty challenge and attempts to Demoralize a creature it can see."
+    desc: "  **Trigger** The Brass Dragon rolls initiative.\n* * *\n\n**Effect** The Brass Dragon roars out a mighty challenge and attempts to [[Actions/demoralize|demoralize]] a creature it can see."
 
 abilities_mid:
   - name: ""
@@ -63,7 +63,7 @@ abilities_mid:
     desc: "`pf2:r`  **Trigger** A foe's Strike reduces you to 0 Hit Points; you were not at 1 Hit Point and you would not be killed.\n* * *\n\nYour confidence borders on self-delusion, but it keeps you going against overwhelming odds. Attempt a Deception check against the attack DC of the triggering Strike. You take a penalty to this check equal to twice your wounded value, if any. If the triggering attack was a critical hit, use the result one degree of success worse than what you rolled.\n* * *\n\n**Critical Success** You avoid being knocked out and remain at 1 Hit Point.\n\n**Success** You avoid being knocked out and remain at 1 Hit Point, but you increase your [[Conditions/Wounded|Wounded]] value by 1."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 37 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 37 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Wing Deflection"
     desc: "`pf2:r`  **Trigger** The dragon is targeted with an attack.\n* * *\n\n**Effect** The dragon raises its wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the dragon is flying, it descends 10 feet after the attack is complete."
@@ -71,23 +71,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +34 (fire, magical, reach 15 feet)\n__Damage__  3d10 + 17 piercing 3d6 fire"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+34 (fire, magical, reach 15 feet, unarmed)\n__Damage__  3d10 + 17 piercing 3d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +34 (agile, magical, reach 10 feet)\n__Damage__  3d10 + 17 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+34 (agile, magical, reach 10 feet, unarmed)\n__Damage__  3d10 + 17 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +32 (magical, reach 15 feet)\n__Damage__  2d12 + 15 slashing"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+32 (magical, reach 15 feet)\n__Damage__  2d12 + 15 slashing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 39, attack +29\n__Constant__  __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,fire,incapacitation,sleep) The brass dragon breathes in one of two ways.\n\nThe dragon can't use Breath Weapon again for 1d4 rounds.\n\n*   **Flame** The dragon breathes fire in a @Template[line|distance:100] that deals 16d6 fire damage (DC 41 Reflex check save).\n*   **Sleep Gas** The dragon breathes an @Template[cone|distance:80] of sleep gas. Each creature within the cone must succeed at a DC 41 Fortitude check save or fall [[Conditions/Unconscious|Unconscious]] for 1d6 rounds, or 1 minute on a critical failure."
+    desc: "`pf2:2` (arcane,fire,incapacitation,sleep) The brass dragon breathes in one of two ways.\n\nThe dragon can't use Breath Weapon again for 1d4 rounds.\n\n*   **Flame** The dragon breathes fire in a 100-foot line that deals 16d6 fire damage (DC 41 Reflex check save).\n*   **Sleep Gas** The dragon breathes an 80-foot cone of sleep gas. Each creature within the cone must succeed at a DC 41 Fortitude check save or fall [[Conditions/Unconscious|Unconscious]] for 1d6 rounds, or 1 minute on a critical failure."
 
   - name: "Desert Wind"
-    desc: "`pf2:2` (air,arcane,concentrate) **Frequency** three times per day.\n* * *\n\n**Effect** The dragon calls upon the desert wind. This has the same effect as [[Spells/Gust of Wind|Gust of Wind]] (DC 39 Fortitude check) but in a @Template[cone|distance:60]. A creature that fails its save is also blinded until the end of its next turn (or for 1 minute on a critical failure)."
+    desc: "`pf2:2` (air,arcane,concentrate) **Frequency** three times per day.\n* * *\n\n**Effect** The dragon calls upon the desert wind. This has the same effect as [[Spells/Gust of Wind|Gust of Wind]] (DC 39 Fortitude check) but in a 60-foot cone. A creature that fails its save is also blinded until the end of its next turn (or for 1 minute on a critical failure)."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon makes two claw Strikes and one jaws Strike in any order."

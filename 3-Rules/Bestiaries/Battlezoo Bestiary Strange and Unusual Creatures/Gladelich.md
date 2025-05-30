@@ -39,7 +39,7 @@ perception:
 languages: "Common, Elven, Fey, Necril; speak with animals, speak with plants"
 skills:
   - name: "Skills"
-    desc: "Arcana: +22, Crafting: +24, Intimidation: +23, Medicine: +24, Nature: +30, Stealth: +22, Survival: +28, Arcana: +22, Crafting: +24, Intimidation: +23, Medicine: +24, Nature: +30, Stealth: +22, Survival: +28"
+    desc: "Arcana: +22, Crafting: +24, Intimidation: +23, Medicine: +24, Nature: +30, Stealth: +22, Survival: +28"
 abilityMods: [2, 3, 2, 5, 7, 4]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Withering Branch +25 (finesse, magical)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Withering Branch"
+    desc: "+25 (finesse, magical)\n__Damage__  3d8 + 7 void plus siphon-life"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Needle +25 (plant, primal, range increment 40 feet)\n__Damage__  3d12 piercing"
+  - name: "**Ranged** `pf2:1` Needle"
+    desc: "+25 (plant, primal, range increment 40 feet)\n__Damage__  3d12 piercing"
 
   - name: "Primal Prepared Spells"
     desc: "DC 37, attack +27; __7th __  _[[Spells/Corrosive Body|Corrosive Body]]_, _[[Spells/Execute|Finger of Death]]_; __6th __  _[[Spells/Nature's Reprisal|Nature's Reprisal]]_, _[[Spells/Necrotize|Necrotize]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Nature's Pathway|Tree Stride]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Petal Storm|Petal Storm]]_; __3rd __  _[[Spells/Animal Vision|Animal Vision]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Shape Wood|Shape Wood]]_, _[[Spells/One with Plants|Tree Shape]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Tailwind|Longstrider]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Puff of Poison|Puff of Poison]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Tangle Vine|Tanglefoot]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_ __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"

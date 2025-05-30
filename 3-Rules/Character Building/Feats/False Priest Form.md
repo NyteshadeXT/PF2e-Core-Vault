@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Everyday Form
 * * *
-Nobody respects tanuki, but most everyone respects an esteemed priest, so what better form to take if you want to get by a little easier? When you Change Shape, you can assume the shape of a priest or other religious official from a religion of your choosing. While in your false priest form, you can attempt Deception checks to [[/act recall-knowledge skill=deception]]{Recall Knowledge} about Religion, and you can cast [[Divine Lance|Divine Lance]] and [[Haunting Hymn|Haunting Hymn]] as primal innate cantrips. If you critically fail at a Deception check while in your false priest form, your transformation is broken, returning you to your tanuki form, and you're so embarrassed that you can't resume your False Priest Form until your next daily preparations, after you've taken a night to sleep on it.
+Nobody respects tanuki, but most everyone respects an esteemed priest, so what better form to take if you want to get by a little easier? When you Change Shape, you can assume the shape of a priest or other religious official from a religion of your choosing. While in your false priest form, you can attempt Deception checks to [[Actions/recall-knowledge skill=deception|recall-knowledge skill=deception]]{Recall Knowledge} about Religion, and you can cast [[Spells/Divine Lance|Divine Lance]] and [[Spells/Haunting Hymn|Haunting Hymn]] as primal innate cantrips. If you critically fail at a Deception check while in your false priest form, your transformation is broken, returning you to your tanuki form, and you're so embarrassed that you can't resume your False Priest Form until your next daily preparations, after you've taken a night to sleep on it.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

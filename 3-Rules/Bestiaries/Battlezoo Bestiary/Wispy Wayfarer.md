@@ -71,8 +71,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wispy Tatters +9 (agile, finesse, magical)\n__Damage__  1d8 + 4 void plus hushing-whisper"
+  - name: "**Melee** `pf2:1` Wispy Tatters"
+    desc: "+9 (agile, finesse, magical)\n__Damage__  1d8 + 4 void plus hushing-whisper"
 
   - name: "Hushing Whisper"
     desc: " (divine) The touch of a wispy wayfarer can silence a mortal's tongue as effectively as torrential rain and flapping sails. When the wispy wayfarer damages a living creature with its wispy tatters Strike, the target must make a DC 18 Will save. On a failure, the target can't speak or use any abilities or actions with the auditory or sonic trait, including casting spells that include verbal components. This effect lasts until the end of the wayfarer's next turn. On a critical failure, the effect lasts 1 minute."

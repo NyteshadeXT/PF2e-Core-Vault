@@ -54,7 +54,7 @@ attacks:
   - name: "Web Noose"
     desc: "`pf2:r` (attack) **Trigger** A creature steps into the square with the web tripwire.\n* * *\n\n**Effect** The web lurker noose makes a noose Strike against the triggering creature."
   - name: "Melee"
-    desc: "Noose +13 (deadly d10) On a successful strike, the target is [[Conditions/Grabbed|Grabbed]] and pulled off the ground ([[/act escape dc=22]]).\n\nThe target takes 1d6 bludgeoning damage at the end of each of its turns as long as it's caught in the noose."
+    desc: "Noose +13 (deadly d10) On a successful strike, the target is [[Conditions/Grabbed|Grabbed]] and pulled off the ground ([[Actions/escape dc=22|escape dc=22]]).\n\nThe target takes 1d6 bludgeoning damage at the end of each of its turns as long as it's caught in the noose."
 
 
 

@@ -3,7 +3,7 @@ title: "Giant Centipede (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.BKPRkJgq7ehsW7uX" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.NRBgcu0LkXXp8mtp" 
 tags:
   - pf2e/creature/type/animal
   - pf2eMonster
@@ -54,8 +54,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +6 (finesse)\n__Damage__  1d4 - 1 piercing plus giant-centipede-venom"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+6 (finesse)\n__Damage__  1d4 - 1 piercing plus giant-centipede-venom"
 
   - name: "Giant Centipede Venom"
     desc: " (poison) A target that takes piercing damage from the centipede's mandibles Strike must succeed at a DC 14 Fortitude check save or take 1d6 poison damage."

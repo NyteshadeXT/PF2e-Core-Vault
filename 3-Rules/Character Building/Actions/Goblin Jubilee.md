@@ -6,25 +6,26 @@ tags:
   - trait/fire
   - trait/sonic
   - trait/visual
-  - trait/common
+  - trait/
   - category/offensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.izvfZ561JTdeyh6i"
-license: OGL
+license: ORC
 ---
 # Goblin Jubilee `pf2:3`
 
-### [[3-Rules/Rule References/Fire]][[3-Rules/Trait Reference/S/sonic]][[visual]]
+### [[fire]][[sonic]][[visual]]
 
 **Category** offensive; 
 
 
 
 
-**Cost** 3 batches of infused reagents
+**Cost** 1 fireworks display
 
 * * *
 
-**Effect** Chaos fills a @Template\[burst|distance:20\] within 120 feet. All creatures in the area takes 3d6 fire damage and 3d6 sonic damage and must attempt a Fortitude save. A goblin jubilee display costs 3 batches of infused reagents, rather than 1.
+**Effect** Chaos fills a 20-foot burst within 120 feet. All creatures in the area take 3d6 fire damage and 3d6 sonic damage and must attempt a Fortitude check save. You can expend versatile vials to increase the potency of this effect; for each versatile vial you expend as part of this display, increase the fire and sonic damage by 1d6 each.
 
 * * *
 
@@ -37,4 +38,4 @@ license: OGL
 **Critical Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round, dazzled and deafened for 1 minute, and takes double damage.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

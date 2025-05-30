@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d10 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d10 + 6 piercing"
 
   - name: "Bob"
     desc: "`pf2:1`  The giant longlegs begins to bob up and down, using its legs almost like springs to cause its body to bounce and sway in an unsettling manner. Until the start of the giant longlegs's next turn, it gains a +2 status bonus to its Armor Class."

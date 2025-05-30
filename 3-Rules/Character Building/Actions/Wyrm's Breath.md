@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
   - trait/eidolon
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.OJ9cIvPukPT0rppR"
 license: OGL
 ---
 # Wyrm's Breath `pf2:0`
 
-### [[3-Rules/Rule References/Concentrate]][[eidolon]]
+### [[concentrate]][[eidolon]]
 
 **Category** offensive; 
 

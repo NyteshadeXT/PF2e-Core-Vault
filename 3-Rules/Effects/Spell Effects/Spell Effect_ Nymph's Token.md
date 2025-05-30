@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by holding the token created by [[Nymph's Token|Nymph's Token]]
+Granted by holding the token created by [[Spells/Nymph's Token|Nymph's Token]]
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

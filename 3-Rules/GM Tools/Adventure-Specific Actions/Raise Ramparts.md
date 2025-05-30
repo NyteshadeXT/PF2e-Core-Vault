@@ -11,7 +11,7 @@ license: OGL
 ---
 # Raise Ramparts `pf2:3`
 
-### [[3-Rules/trait_reference/E/earth]]
+### [[earth]]
 
 **Category** offensive; 
 
@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-**Effect** Your relic reshapes the earth around you. You cast 5th-rank [[Wall of Stone|Wall of Stone]].
+**Effect** Your relic reshapes the earth around you. You cast 5th-rank [[Spells/Wall of Stone|Wall of Stone]].
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

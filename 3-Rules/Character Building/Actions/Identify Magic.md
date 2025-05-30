@@ -6,7 +6,7 @@ tags:
   - trait/concentrate
   - trait/exploration
   - trait/secret
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.eReSHVEPCsdkSL4G"
@@ -14,7 +14,7 @@ license: ORC
 ---
 # Identify Magic
 
-### [[3-Rules/Rule References/Concentrate]][[exploration]][[secret]]
+### [[concentrate]][[exploration]][[secret]]
 
 **Category** interaction; 
 

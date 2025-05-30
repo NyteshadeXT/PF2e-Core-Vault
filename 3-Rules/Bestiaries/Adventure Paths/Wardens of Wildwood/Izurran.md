@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw Blade +19 (agile, deadly d8, disarm, finesse, versatile p)\n__Damage__  2d4 + 3 slashing 2d6 bleed"
+  - name: "**Melee** `pf2:1` Claw Blade"
+    desc: "+19 (agile, deadly d8, disarm, finesse, versatile p)\n__Damage__  2d4 + 3 slashing 2d6 bleed"
 
   - name: "Occult Prepared Spells"
     desc: "DC 28, attack +20; __5th __  _[[Spells/Wave of Despair|Wave of Despair]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Vampiric Feast|Vampiric Feast]]_; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Blur|Blur]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/False Vitality|False Vitality]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/See the Unseen|See the Unseen]]_; __1st __  _[[Spells/Alarm|Alarm]]_, _[[Spells/Bane|Bane]]_, _[[Spells/Biting Words|Biting Words]]_, _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Sure Strike|Sure Strike]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

@@ -56,5 +56,5 @@ Add one of the following to the debilitations from which you can choose when you
 
 **Special** You can select this feat multiple times, choosing a different debilitation each time.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

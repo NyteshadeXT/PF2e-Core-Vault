@@ -31,5 +31,5 @@ Many physical poses can fortify one's health, but some poses need more than one 
 
 [[Feat_Feature Effects/Effect_ Protective Pose|Effect: Protective Pose]]
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

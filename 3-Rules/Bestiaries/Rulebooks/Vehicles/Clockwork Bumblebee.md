@@ -7,7 +7,7 @@ tags:
   - clockwork
   - pf2eVehicle
 
-source: Pathfinder Lost Omens: The Grand Bazaar
+source: Pathfinder Lost Omens The Grand Bazaar
 aliases: "Compendium.pf2e.vehicles.Actor.cmLOaqR3qebmLA1P" 
 level: 9
 license: OGL
@@ -18,7 +18,7 @@ statblock: inline
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: The Grand Bazaar"
+source: "Pathfinder Lost Omens The Grand Bazaar"
 name: "Clockwork Bumblebee"
 level: "Vehicle 9"
 rare_03: [[Rare]]
@@ -35,7 +35,7 @@ perception:
 abilities_top:
   - name: ""
   - name: "Space"
-    desc: "20 feet long, 10 feet wide, 8 feet high"
+    desc: "20 feet long, 10 feet wide, 10 feet high"
   - name: "Crew"
     desc: "1 pilot, 2 crew; **Passengers** 1"
   - name: "Piloting Check"
@@ -62,7 +62,7 @@ attacks:
 
 
 
-sourcebook: "_Pathfinder Lost Omens: The Grand Bazaar_"
+sourcebook: "_Pathfinder Lost Omens The Grand Bazaar_"
 ```
 
 ```encounter-table

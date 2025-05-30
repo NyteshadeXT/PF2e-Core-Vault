@@ -63,17 +63,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bowling Pin +9 (agile, nonlethal)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Bowling Pin"
+    desc: "+9 (agile, nonlethal)\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +10 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+10 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bowling Pin +10 (agile, nonlethal, thrown 10 ft.)\n__Damage__  1d6 + 2 bludgeoning plus juggler"
+  - name: "**Ranged** `pf2:1` Bowling Pin"
+    desc: "+10 (agile, nonlethal, thrown 10 ft.)\n__Damage__  1d6 + 2 bludgeoning plus juggler"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+10 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Bounce"
     desc: "`pf2:1`  Jellico makes a [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]]."

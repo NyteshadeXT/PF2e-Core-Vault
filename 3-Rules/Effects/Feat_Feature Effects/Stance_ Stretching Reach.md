@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Stretching Reach|Stretching Reach]]
 
-While in this stance, when you wield a melee weapon that requires two hands and doesn't have reach, the weapon gains a reach of 10 feet.
+When you wield a melee weapon that requires two hands and doesn't have reach, the weapon gains a reach of 10 feet.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

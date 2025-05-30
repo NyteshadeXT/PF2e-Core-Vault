@@ -16,11 +16,9 @@ license: OGL
 
 
 
-You shroud the target in a powerful predatory aura and amplify its vocalizations. It gains a +1 status bonus to Intimidation checks. Once during this spell's duration, it can take the Thundering Roar action.
+Granted by [[Spells/Thundering Dominance|Thundering Dominance]]
 
-* * *
-
-**Heightened (+2)** The status bonus to Intimidation checks increases by 1 (to a maximum of a +4 status bonus for an 8th-rank spell), and the damage from the roar increases by 2d8.
+The target gains a status bonus to Intimidation checks. Once during this spell's duration, it can take the Thundering Roar action.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

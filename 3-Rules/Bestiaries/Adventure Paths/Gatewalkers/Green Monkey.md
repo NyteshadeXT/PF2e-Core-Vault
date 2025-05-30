@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Aura of Good Cheer"
@@ -63,8 +66,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 (agile, finesse, magical)\n__Damage__  1d8 + 6 force"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (agile, finesse, magical, unarmed)\n__Damage__  1d8 + 6 force"
 
   - name: "Primal Innate Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Gecko Grip|Spider Climb]]_; __1st __  _[[Spells/Tailwind|Longstrider]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"

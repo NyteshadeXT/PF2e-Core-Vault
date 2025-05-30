@@ -21,5 +21,5 @@ license: OGL
 * * *
 You leave little sign when attempting to remain unseen. When you [[Actions/Avoid Notice|Avoid Notice]], you also gain the benefits of [[Actions/Cover Tracks|Cover Tracks]] unless you choose not to.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

@@ -18,7 +18,9 @@ license: OGL
 
 
 
-You attack your foe and analyze how it reacts. Make a Strike. On a hit, you can immediately attempt a check to Recall Knowledge about the target. On a critical hit, you gain a +2 circumstance bonus to the check to Recall Knowledge.
+You attack your foe and analyze how it reacts. Make a Strike. On a hit, you can immediately attempt a check to [[Actions/Recall Knowledge|Recall Knowledge]] about the target. On a critical hit, you gain a +2 circumstance bonus to the check to Recall Knowledge.
+
+[[Feat_Feature Effects/Effect_ Instructive Strike|Effect: Instructive Strike]]
 
 *Source: Pathfinder Dark Archive*
 *OGL*

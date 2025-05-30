@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Stumbling Curse|Stumbling Curse]]
+Granted by [[Spells/Stumbling Curse|Stumbling Curse]]
 
 The target takes a -2 status penalty to Athletics and Acrobatics checks.
 

@@ -52,16 +52,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Buck|Buck]]"
-    desc: "`pf2:r`  DC 17 Reflex check"
+    desc: "`pf2:r`  DC 17 Reflex check\n* * *\n\nMost monsters that serve as mounts can attempt to buck off unwanted or annoying riders, but most mounts will not use this reaction against a trusted creature unless the mounts are spooked or mistreated.\n\n**Trigger** A creature [[Actions/Mount|Mounts]] or uses the [[Actions/Command an Animal|Command an Animal]] action while riding the monster.\n* * *\n\n**Effect** The triggering creature must succeed at a Reflex saving throw against the listed DC or fall off the creature and land [[Conditions/Prone|Prone]]. If the save is a critical failure, the triggering creature also takes 1d6 bludgeoning damage in addition to the normal damage for the fall."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d8 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 ()\n__Damage__  1d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (unarmed)\n__Damage__  1d6 + 4 slashing"
 
   - name: "Forest Passage"
     desc: "  A chetamog ignores difficult terrain and greater difficult terrain from non-magical foliage."

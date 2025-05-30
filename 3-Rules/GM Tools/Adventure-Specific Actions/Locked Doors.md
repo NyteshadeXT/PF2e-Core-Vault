@@ -4,7 +4,7 @@ title: "Locked Doors"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.sT8EpCnySUSiBqBp"
 license: OGL

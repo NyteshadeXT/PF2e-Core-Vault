@@ -23,7 +23,7 @@ level: "Army 5"
 
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: skirmisher
 modifier: 12
 perception:

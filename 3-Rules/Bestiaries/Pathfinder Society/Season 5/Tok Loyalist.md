@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +6 (agile, finesse, versatile s)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+6 (agile, finesse, versatile s)\n__Damage__  1d6 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +6 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+6 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "Hurried Retreat"
     desc: "`pf2:1`  **Requirements** The loyalist is adjacent to at least one enemy\n* * *\n\n**Effect** The loyalist Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy."

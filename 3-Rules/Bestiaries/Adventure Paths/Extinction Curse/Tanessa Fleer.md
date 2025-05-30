@@ -56,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Tanessa can make Attacks of Opportunity with a loaded ranged weapon she's wielding if the triggering creature is within 5 feet of her.\n\n* * *\n"
+    desc: "`pf2:r`  Tanessa can make Attacks of Opportunity with a loaded ranged weapon she's wielding if the triggering creature is within 5 feet of her.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Mobility"
     desc: "  Tanessa moves in a way that denies her enemies the opportunity to retaliate. When she takes a Stride action to move half her Speed or less, that movement does not trigger reactions. She can use Mobility when Climbing, Flying, or Swimming instead of Striding if she has the corresponding movement type."
@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +19 (agile, finesse, versatile s)\n__Damage__  1d6 + 10 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+19 (agile, finesse, versatile s)\n__Damage__  1d6 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +20 (magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+20 (magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 10 piercing"
 
   - name: "Hunt Prey"
     desc: "`pf2:1`  Tanessa designates as her prey a single creature that she can see and hear or that she is [[Actions/Track|Tracking]].\n\nShe gains a +2 circumstance bonus to Perception checks when she [[Actions/Seek|Seeks]] her prey and a +2 circumstance bonus to Survival checks when she [[Actions/Track|Tracks]] her prey. She also ignores the penalty for making ranged attacks within her second range increment against her prey. Lastly, she deals 1d8 precision damage to her prey the first time she hits her prey each round. Tanessa can have only one prey designated at a time."

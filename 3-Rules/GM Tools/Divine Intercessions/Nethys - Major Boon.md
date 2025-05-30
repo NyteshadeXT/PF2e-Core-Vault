@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Nethys - Major Boon"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/deityboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.8ZNtiMxoJIP1DJ9Q"
 license: OGL
 ---
 # Nethys - Major Boon
-
+## Feat 1
 ### 
 
 **Category** deityboon; 
@@ -23,5 +23,5 @@ If you are a prepared spellcaster, you can switch one of your prepared spells fo
 
 In either case, you make this switch by using a single action, which has the concentrate trait. (If you are neither a prepared nor a spontaneous spellcaster, Nethys won't grant you his major boon.)
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

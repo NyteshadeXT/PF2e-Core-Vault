@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Rejuvenating Flames|Rejuvenating Flames]]
+Granted by [[Spells/Rejuvenating Flames|Rejuvenating Flames]]
 
-Allies gain a +1 status bonus to Fortitude saves for 1 minute.
+You gain a +1 status bonus to Fortitude saves.
 
 *Source: Pathfinder #168: King of the Mountain*
 *OGL*

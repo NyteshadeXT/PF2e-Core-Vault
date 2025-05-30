@@ -13,7 +13,7 @@ license: ORC
 ---
 # Thrash `pf2:1`
 ## Feat 8
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

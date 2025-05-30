@@ -56,6 +56,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "Gibbering"
     desc: " (auditory,aura,emotion,incapacitation,mental,occult) 60 feet. Each creature that begins its turn within 60 feet of a gibbering mouther must attempt a DC 19 Will check save. On a failure, they are [[Conditions/Confused|Confused]] for 1 round. On a success, they are temporarily immune for 1 minute."
 
@@ -65,23 +68,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 (finesse)\n__Damage__  2d8 + 5 piercing plus grab 1d4 bleed plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (finesse, unarmed)\n__Damage__  2d8 + 5 piercing plus grab 1d4 bleed plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spittle +14 (range 30 feet)\n__Damage__  4d6 acid plus burn-eyes"
+  - name: "**Ranged** `pf2:1` Spittle"
+    desc: "+14 (range 30 feet)\n__Damage__  4d6 acid plus burn-eyes"
 
   - name: "Burn Eyes"
     desc: "  A creature that takes damage from a gibbering mouther's spittle must succeed at a DC 22 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 round (or [[Conditions/Blinded|Blinded]] for 1 round on a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
-    desc: "`pf2:1`  DC 22 Reflex check, 3d8 piercing, Escape DC 22, Rupture 8\n\n* * *\n"
+    desc: "`pf2:1`  DC 22 Reflex check, 3d8 piercing, Escape DC 22, Rupture 8\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of any creatures in its path. Any creature of the monster's size or smaller whose space the monster moves through can attempt a Reflex save with the listed DC to avoid being engulfed. A creature unable to act automatically critically fails this save. If a creature succeeds at its save, it can choose to be either pushed aside (out of the monster's path) or pushed in front of the monster to the end of the monster's movement. The monster can attempt to Engulf the same creature only once in a single use of Engulf. The monster can contain as many creatures as can fit in its space.\n\nA creature that fails its save is pulled into the monster's body. It is [[Conditions/Grabbed|Grabbed]], is [[Conditions/Slowed|Slowed 1]], and has to hold its breath or start suffocating. The creature takes the listed amount of damage when first engulfed and at the end of each of its turns while it's engulfed. An engulfed creature can get free by [[Actions/Escape|Escaping]] against the listed escape DC. An engulfed creature can attack the monster engulfing it, but only with unarmed attacks or with weapons of light Bulk or less. The engulfing creature is [[Conditions/Off-Guard|Off-Guard]] against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the engulfed creature cuts itself free.\n\n[[Bestiary Effects/Effect_ Engulf and Swallow Whole|Effect: Engulf and Swallow Whole]]\n\nA creature that gets free by either method can immediately breathe and exits the swallowing monster's space.\n\nIf the monster dies, all creatures it has engulfed are automatically released as the monster's form loses cohesion."
 
   - name: "Ground Manipulation"
     desc: "`pf2:2` (occult) The gibbering mouther causes stone and earth under its body to grow soft and muddy, remaining so for 1 minute after the mouther moves off the location. A gibbering mouther can move through these areas with ease, but other creatures treat them as difficult terrain."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

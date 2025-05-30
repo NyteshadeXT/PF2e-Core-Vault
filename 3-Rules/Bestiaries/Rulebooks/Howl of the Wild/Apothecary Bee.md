@@ -29,7 +29,7 @@ trait_01: [[animal]]
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "+15; "
+    desc: "+15; Darkvision"
 languages: ""
 skills:
   - name: "Skills"
@@ -73,8 +73,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +19 (magical, poison)\n__Damage__  1d4 + 4 piercing 3d6 poison"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+19 (magical, poison)\n__Damage__  1d4 + 4 piercing 3d6 poison"
  
 ```
 

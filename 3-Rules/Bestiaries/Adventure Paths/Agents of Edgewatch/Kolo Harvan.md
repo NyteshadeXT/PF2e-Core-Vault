@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +11 (agile, finesse, versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+11 (agile, finesse, versatile s)\n__Damage__  1d4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Upward Stab"
     desc: "  Kolo's melee Strikes deal an extra 1d6 precision damage to Medium or larger creatures."

@@ -72,11 +72,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 (reach 15 feet)\n__Damage__  2d10 + 13 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (reach 15 feet)\n__Damage__  2d10 + 13 piercing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +20 (agile, reach 10 feet)\n__Damage__  2d8 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+20 (agile, reach 10 feet)\n__Damage__  2d8 + 11 bludgeoning"
 
   - name: "Patch Outfit"
     desc: "`pf2:1` (manipulate) **Requirements** The gymnophobia is adjacent to the corpse of a Small or larger creature that died within the last hour;\n\n**Effect** The gymnophobia tears off pieces of the corpse and regains 20 Hit Points. It can tear pieces from a Small corpse once, a Medium corpse twice, and a Large or larger corpse three times.\n\nIf the gymnophobia's corpse outfit was broken and this ability restores the gymnophobia's current Hit Points to 80 or more, the gymnophobia's corpse outfit is restored, granting it Hardness 15, a +4 circumstance bonus to AC, and removing the frightened condition."

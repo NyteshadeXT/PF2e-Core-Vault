@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.UJcQgQpZRqXBw0Nb"
-license: OGL
+license: ORC
 ---
 # Repurposed Parts
 ## Feat 10
@@ -22,4 +23,4 @@ license: OGL
 You are familiar with the fittings and cogwheels of your snares and can repurpose parts from prepared quick-deploy snares to assemble a new creation on the fly. Using two of the snares you prepared for quick deployment during daily preparations, you can quickly deploy a different snare that you know how to Craft, even if you didn't prepare that snare during your daily preparations.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

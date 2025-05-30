@@ -62,22 +62,28 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Zombie) Rotting Aura|Rotting Aura]]"
-    desc: " (aura,disease) 10 feet. The zombie riding horse emits an aura of rot and disease that causes wounds to fester and turn sour.\n\nAny living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 damage(DC 17 Fortitude check save) as its wounds fester."
+    desc: " (aura,disease) 10 feet. The zombie riding horse emits an aura of rot and disease that causes wounds to fester and turn sour.\n\nAny living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 untyped damage (DC 17 Fortitude check save) as its wounds fester."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 ()\n__Damage__  1d12 + 7 slashing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (unarmed)\n__Damage__  1d12 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +12 (agile)\n__Damage__  1d8 + 7 bludgeoning plus improved-push"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+12 (agile)\n__Damage__  1d8 + 7 bludgeoning plus improved-push"
 
   - name: "Feast"
     desc: "`pf2:2`  The zombie warhorse Strikes with its jaws against an adjacent living creature or a creature that has died in the past hour. On a success, the zombie warhorse can feast upon the creature's flesh to heal itself. This restores 2d6 healing Hit Points."
 
   - name: "Gallop"
     desc: "`pf2:2`  The zombie warhorse Strides twice. It has a +10-foot circumstance bonus to its Speed during these Strides."
+
+  - name: "[[Bestiary Ability Glossary/Improved Push|Improved Push 5 feet]]"
+    desc: "  The monster can use [[Bestiary Ability Glossary/Push|Push]] as a free action triggered by a hit with its initial attack."
  
 ```
 

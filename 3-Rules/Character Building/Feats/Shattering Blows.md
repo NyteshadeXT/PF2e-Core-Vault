@@ -13,7 +13,7 @@ license: ORC
 ---
 # Shattering Blows
 ## Feat 16
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

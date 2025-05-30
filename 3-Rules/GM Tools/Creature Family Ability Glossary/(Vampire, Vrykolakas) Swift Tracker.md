@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Vampire, Vrykolakas) Swift Tracker"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.br5Oup4USIUXQani"
 license: OGL

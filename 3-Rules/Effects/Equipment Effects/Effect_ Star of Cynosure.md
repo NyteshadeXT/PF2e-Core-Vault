@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You gain a +2 status bonus to saves against enchantment magic with the mental trait
+Granted by [[Equipment/Star of Cynosure|Star of Cynosure]]
+
+You gain a +2 status bonus to saves against enchantment magic with the mental trait.
 
 *Source: Pathfinder #189: Dreamers of the Nameless Spires*
 *OGL*

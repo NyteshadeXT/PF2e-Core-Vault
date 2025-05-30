@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Rampaging Ferocity"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.FkfWKq9jhhPzKAbb"
 license: OGL

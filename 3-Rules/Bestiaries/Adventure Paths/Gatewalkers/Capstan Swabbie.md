@@ -62,14 +62,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Anchor +18 (reach 10 feet)\n__Damage__  2d8 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Anchor"
+    desc: "+18 (reach 10 feet)\n__Damage__  2d8 + 9 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Rope +18 (disarm, reach 10 feet)\n__Damage__  2d6 + 9 slashing plus knockdown"
+  - name: "**Melee** `pf2:1` Rope"
+    desc: "+18 (disarm, reach 10 feet)\n__Damage__  2d6 + 9 slashing plus knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Anchor +14 (tethered, thrown 30 ft.)\n__Damage__  2d8 + 9 bludgeoning"
+  - name: "**Ranged** `pf2:1` Anchor"
+    desc: "+14 (tethered, thrown 30 ft.)\n__Damage__  2d8 + 9 bludgeoning"
 
   - name: "Jury-Rig"
     desc: "`pf2:1` (manipulate) The capstan swabbie uses built-in tools to quickly patch itself up. The swabbie gains 10 temporary Hit Points. The swabbie can also use this section on an adjacent section of a ship. The temporary Hit Points last for 1 minute. The target is then temporarily immune for 1 hour.\n\n[[Bestiary Effects/Effect_ Jury-Rig|Effect: Jury-Rig]]"
@@ -78,7 +78,7 @@ attacks:
     desc: "`pf2:2`  The capstan swabbie spins around rapidly, its loose ropes whipping everyone in reach. The capstan swabbie makes a rope Strike against each creature within 10 feet and compares its attack roll to the AC of each creature within 10 feet."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

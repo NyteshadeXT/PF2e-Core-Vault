@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile, magical)\n__Damage__  2d8 + 12 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, magical, unarmed)\n__Damage__  2d8 + 12 slashing plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Grave Ray +20 (occult, range 60 feet)\n__Damage__  2d12 + 12 void"
+  - name: "**Ranged** `pf2:1` Grave Ray"
+    desc: "+20 (occult, range 60 feet)\n__Damage__  2d12 + 12 void"
 
   - name: "Occult Innate Spells"
     desc: "DC 31, attack +21; __5th __  _[[Spells/Abyssal Plague|Abyssal Plague]]_, _[[Spells/Summon Undead|Animate Dead]]_, _[[Spells/Toxic Cloud|Cloudkill]]_; __3rd __  _[[Spells/Bind Undead|Bind Undead (x3)]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Death Knell|Death Knell (At Will)]]_"
@@ -78,7 +78,7 @@ attacks:
     desc: "DC 31, attack +21; __8th __  _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_; __5th __  _[[Spells/Augury|Augury]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Clairaudience|Clairaudience]]_, _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Mimic Undead|Mimic Undead]]_, _[[Spells/Scouting Eye|Prying Eye]]_, _[[Spells/Talking Corpse|Talking Corpse]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Call Spirit|Call Spirit]]_, _[[Spells/Control Weather|Control Weather]]_"
+    desc: "_Call Spirit_, _Control Weather_"
 
   - name: "Curse of the Grave"
     desc: "`pf2:3` (curse,occult) The grave hag names a single creature within 30 feet; that creature must succeed at a DC 30 Will check save or be afflicted with a grave curse equal to the hag's level. The curse lasts until the hag chooses to end it or is slain, rather than by returning items. Regardless of the save result, the target is then temporarily immune to the hag's grave curse for 24 hours.\n* * *\n\n**Effect** You are hounded by undead creatures of the same level as the curse. Every night, you must attempt a DC 15 Flat check check. On a failure, an incorporeal undead manifests to hassle and harry you throughout the night, retreating before it can take much damage and often preventing you from gaining a full night's rest. Whenever you enter a graveyard or other area where bodies are buried, you must succeed at the same flat check or a body animates as a corporeal undead (typically a skeleton or zombie) to attack you.\n\nThese undead are temporary and exist only to harry you; if you take control of the undead, move on, or otherwise avoid their attacks, incorporeal undead discorporate and corporeal undead collapse into ordinary corpses. The curse can be removed by returning the stolen items to their resting place."
@@ -93,7 +93,7 @@ attacks:
     desc: "  A grave hag appears as an undead creature to magical effects."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

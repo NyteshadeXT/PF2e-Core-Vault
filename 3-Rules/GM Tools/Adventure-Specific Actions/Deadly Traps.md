@@ -4,7 +4,7 @@ title: "Deadly Traps"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.nLLgAxo4IHebsyg1"
 license: OGL

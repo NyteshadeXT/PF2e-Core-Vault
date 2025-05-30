@@ -22,5 +22,5 @@ license: ORC
 * * *
 Through your disciplined condensations and circulations of qi, you've caught a fleeting glimpse of cultivation's promise, and your health has handsomely profited along the way. You gain the [[Feats/Breath Control|Breath Control]], [[Feats/Diehard|Diehard]], and [[Feats/Fast Recovery|Fast Recovery]] feats. You must meet the prerequisites for these feats as normal. For each of these feats you already have, you can instead gain a different feat from the following list: [[Feats/Canny Acumen|Canny Acumen]], [[Feats/Fleet|Fleet]], and [[Feats/Toughness|Toughness]].
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

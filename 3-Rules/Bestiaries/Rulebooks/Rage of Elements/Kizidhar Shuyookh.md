@@ -51,7 +51,7 @@ hp: 220
 health:
   - name: ""
   - name: HP
-    desc: "220"
+    desc: "220; __Weaknesses__ axe vulnerability 10, fire 10"
 abilities_top:
   - name: ""
   - name: "Items"
@@ -59,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
   - name: "Sprout Shield"
     desc: "`pf2:r`  **Trigger** An enemy hits the kizidhar shuyookh with a melee Strike\n\n**Requirements** The kizidhar shuyookh doesn't have a shield raised\n* * *\n\n**Effect** The shuyookh can use Sculpt Wood to create a duskwood shield if they don't already have one. The shuyookh then Raises their Shield. The circumstance bonus from the shield applies to their AC against the triggering attack."
@@ -67,17 +67,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +23 ()\n__Damage__  3d6 + 11 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+23 ()\n__Damage__  3d6 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +23 (thrown 20 ft.)\n__Damage__  3d6 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+23 (thrown 20 ft.)\n__Damage__  3d6 + 11 piercing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 30, attack +22; __7th __  _[[Compendium.pf2e.spells-srd.Item.nRINcQb81Wt4KeFu|Interplanar Teleport (At Will; To Astral Plane, Elemental Planes, or the Universe Only)]]_; __6th __  _[[Spells/Invisibility|Invisibility (x2)]]_, _[[Spells/Lignify|Lignify]]_, _[[Spells/Nature's Pathway|Nature's Pathway (At Will)]]_; __3rd __  _[[Spells/Wooden Double|Wooden Double]]_; __2nd __  _[[Spells/Entangling Flora|Entangling Flora (At Will)]]_, _[[Compendium.pf2e.spells-srd.Item.CJJ27kJew3nq0Du6|One With Plants]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(6th)__ _[[Spells/Speak with Plants|Speak with Plants]]_, _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph) The kizidhar transforms into a Small or Medium wood elemental or plant creature. This doesn't affect the kizidhar's statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph) The kizidhar transforms into a Small or Medium wood elemental or plant creature. This doesn't affect the kizidhar's statistics, but it could change the damage type of their Strikes.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Manipulative Wish"
     desc: " (downtime) **Frequency** three times per year\n* * *\n\n**Effect** The shuyookh conducts a _wish_ ritual for the benefit of a mortal, requiring no cost or secondary casters. The shuyookh's result is a success if they succeed at a DC 5 Flat check or a failure if not. The shuyookh attempts to advance their own interests along with those of any beneficiaries from the wish."
@@ -92,7 +92,7 @@ attacks:
     desc: "`pf2:1` (auditory,emotion,mental) **Frequency** once per round;\n* * *\n\n**Effect** The kizidhar plants a desire for greatness in the mind of a creature within 50 feet. The target must attempt a DC 30 Will check save. On a failure, until the end of its next turn, the target can't Delay, Ready, or use reactions. Instead, it must use all its actions to Strike or cast the highest rank of spell available to it using spell slots or Focus Points, or take actions to facilitate doing so, such as drawing a weapon or moving toward an enemy. The target must focus its attacks either on the kizidhar or on the opponent it perceives to be the biggest threat. This effect ends if the kizidhar uses Seed of Ambition again."
 
   - name: "Take Root"
-    desc: "`pf2:1` (arcane,plant,wood) The genie thrusts their weapon into the ground. Plants sprout and grow out of the ground in a @Template[burst|distance:20] centered on one corner of the kizidhar's square. All squares on the ground in that area are difficult terrain until the kizidhar uses this ability again."
+    desc: "`pf2:1` (arcane,plant,wood) The genie thrusts their weapon into the ground. Plants sprout and grow out of the ground in a 20-foot burst centered on one corner of the kizidhar's square. All squares on the ground in that area are difficult terrain until the kizidhar uses this ability again."
  
 ```
 

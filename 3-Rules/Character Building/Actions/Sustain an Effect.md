@@ -13,14 +13,14 @@ license: ORC
 ---
 # Sustain an Effect
 
-### [[3-Rules/Rule References/Concentrate]][[exploration]]
+### [[concentrate]][[exploration]]
 
 **Category** interaction; 
 
 
 
 
-You Sustain one effect with a sustained duration while moving at half speed. Most such effects can be sustained for 10 minutes, though some specify they can be sustained for a different duration. Sustaining an effect that requires making complex decisions, such as _spectral weapon_, can make you [[Conditions/Fatigued|Fatigued]], as determined by the GM.
+You Sustain one effect with a sustained duration while moving at half speed. Most such effects can be sustained for 10 minutes, though some specify they can be sustained for a different duration. Sustaining an effect that requires making complex decisions, such as [[Spells/Spiritual Armament|Spiritual Armament]], can make you [[Conditions/Fatigued|Fatigued]], as determined by the GM.
 
 *Source: Pathfinder Player Core*
 *ORC*

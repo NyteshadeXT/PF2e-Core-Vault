@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +12 (agile, finesse, versatile s)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+12 (agile, finesse, versatile s)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +12 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+12 (range increment 60 feet, reload 1)\n__Damage__  1d6 piercing"
 
   - name: "Poison Weapon"
     desc: "`pf2:1` (manipulate) **Requirements** Sronwa is wielding a piercing or slashing weapon and has a free hand\n* * *\n\n**Effect** Sronwa applies a poison to the weapon."

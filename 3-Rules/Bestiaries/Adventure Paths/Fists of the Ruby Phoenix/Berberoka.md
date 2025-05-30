@@ -61,25 +61,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +31 (reach 15 feet)\n__Damage__  3d12 + 16 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+31 (reach 15 feet, unarmed)\n__Damage__  3d12 + 16 bludgeoning plus grab"
 
   - name: "Consume Lake"
     desc: " (manipulate) The berberoka drinks a prolific amount from an adjacent water source. If the water source is equal to or greater in volume than themself, the berberoka consumes up to 1,500 gallons of water per minute and becomes waterlogged. They can release water at the same rate. While waterlogged, the berberoka can use Spray Water, their size grows to Gargantuan, and their Speed is reduced to 15 feet.\n\n[[Bestiary Effects/Effect_ Waterlogged|Effect: Waterlogged]]"
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  2d12+12 bludgeoning damage, DC 33 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d12+12 bludgeoning damage, DC 33 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC. A creature that fails this save falls [[Conditions/Unconscious|Unconscious]], and a creature that succeeds is then temporarily immune to falling unconscious from Greater Constrict for 1 minute."
 
   - name: "Spray Water"
-    desc: "`pf2:2`  **Requirements** The berberoka is waterlogged.\n* * *\n\n**Effect** The berberoka sprays a blast of water in a @Template[line|distance:60]. All creatures in the line take 6d8 bludgeoning damage (DC 35 Reflex check save). On a failed save, a creature is knocked [[Conditions/Prone|Prone]] and pushed back 5 feet (10 feet on a critically failed save)."
+    desc: "`pf2:2`  **Requirements** The berberoka is waterlogged.\n* * *\n\n**Effect** The berberoka sprays a blast of water in a 60-foot line. All creatures in the line take 6d8 bludgeoning damage (DC 35 Reflex check save). On a failed save, a creature is knocked [[Conditions/Prone|Prone]] and pushed back 5 feet (10 feet on a critically failed save)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -4,9 +4,8 @@ title: "Sense Motive"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/general
   - trait/secret
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw"
@@ -14,14 +13,14 @@ license: ORC
 ---
 # Sense Motive `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]][[general]][[secret]]
+### [[concentrate]][[secret]]
 
 **Category** interaction; 
 
 
 
 
-You try to tell whether a creature's behavior is abnormal. Choose one creature and assess it for odd body language, signs of nervousness, and other indicators that it might be trying to deceive someone. The GM attempts a single secret Perception check for you and compares the result to the Deception DC of the creature, the DC of a spell affecting the creature's mental state, or another appropriate DC determined by the GM. You typically can't try to Sense the Motive of the same creature again until the situation changes significantly.
+You try to tell whether a creature's behavior is abnormal. Choose one creature and assess it for odd body language, signs of nervousness, and other indicators that it might be trying to deceive someone. The GM attempts a single secret [[Actions/sense-motive|sense-motive]]{Perception} check for you and compares the result to the Deception DC of the creature, the DC of a spell affecting the creature's mental state, or another appropriate DC determined by the GM. You typically can't try to Sense the Motive of the same creature again until the situation changes significantly.
 
 * * *
 

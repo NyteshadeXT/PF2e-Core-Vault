@@ -53,8 +53,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +8 (finesse)\n__Damage__  1d6 + 1 piercing plus ravenous-giant-centipede-venom"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+8 (finesse)\n__Damage__  1d6 + 1 piercing plus ravenous-giant-centipede-venom"
 
   - name: "Ravenous Giant Centipede Venom"
     desc: " (poison) **Saving Throw** DC 16 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d10 poison damage (1 round)\n\n**Stage 2** 1d12 poison damage, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Off-Guard|Off-Guard]] (1 round)"

@@ -41,7 +41,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +43, Acrobatics: +43"
+    desc: "Acrobatics: +43"
 abilityMods: [6, 10, 7, -5, 5, -5]
 speed:  fly 120 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -77,8 +77,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fourth Dimensional Face +41 (reach 100 feet)\n__Damage__  4d8 + 14 force plus shorten-timeline"
+  - name: "**Melee** `pf2:1` Fourth Dimensional Face"
+    desc: "+41 (reach 100 feet)\n__Damage__  4d8 + 14 force plus shorten-timeline"
 
   - name: "Shorten Timeline"
     desc: " (death,occult) The first time each round a creature takes damage from the time golem's fourth dimensional face Strike, the target must attempt a DC 41 Fortitude check save. If it fails, it becomes [[undefined]] ([[undefined]] on a critical failure), or increases its doomed condition by 1 if it was already doomed (or by 2 on a critical failure) to a maximum of [[undefined]]. If this would have otherwise increased the creature's doomed condition beyond doomed 3, the creature takes 10d8 additional force damage from the Strike (doubled on a critical failure)."

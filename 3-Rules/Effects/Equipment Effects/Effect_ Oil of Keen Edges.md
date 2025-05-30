@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Oil of Keen Edges|Oil of Keen Edges]]
+Granted by [[Equipment/Oil of Keen Edges|Oil of Keen Edges]]
 
 The weapon grows sharper and more dangerous, granting it the benefits of the _keen_ rune.
 

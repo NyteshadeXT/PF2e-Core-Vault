@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Falchion +14 (forceful, sweep)\n__Damage__  1d10 + 8 slashing"
+  - name: "**Melee** `pf2:1` Falchion"
+    desc: "+14 (forceful, sweep)\n__Damage__  1d10 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +15 (range increment 120 feet, reload 1)\n__Damage__  1d10 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+15 (range increment 120 feet, reload 1)\n__Damage__  1d10 + 7 piercing"
 
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) The Ninth Army soldier designates a single creature they can see and hear, or one they're Tracking, as their prey. The Ninth Army soldier gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey. This effect lasts until the Ninth Army soldier uses Hunt Prey again."

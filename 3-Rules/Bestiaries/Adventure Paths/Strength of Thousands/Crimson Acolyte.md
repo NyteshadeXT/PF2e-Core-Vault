@@ -69,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +27 (agile, magical, unarmed)\n__Damage__  2d6 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+27 (agile, magical, unarmed)\n__Damage__  2d6 + 11 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Thousand Wounds +27 (backstabber, forceful, magical, unarmed)\n__Damage__  2d12 + 11 piercing"
+  - name: "**Melee** `pf2:1` Thousand Wounds"
+    desc: "+27 (backstabber, forceful, magical, unarmed)\n__Damage__  2d12 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dueling Pistol +26 (concealable, concussive, fatal d10, magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Dueling Pistol"
+    desc: "+26 (concealable, concussive, fatal d10, magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 10 piercing"
 
   - name: "Flurry of Blows"
     desc: "`pf2:1` (flourish) **Frequency** once per turn\n* * *\n\n**Effect** The acolyte makes two unarmed Strikes, or one unarmed Strike and a dueling pistol Strike. If both hit the same creature, combine their damages for the purposes of resistances and weaknesses.\n\nThe acolyte's multiple attack penalty applies normally to these Strikes."

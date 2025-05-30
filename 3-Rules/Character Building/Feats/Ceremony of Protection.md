@@ -23,5 +23,5 @@ You manipulate your exoskeleton to overlap itself. You gain a +1 circumstance bo
 
 [[Feat_Feature Effects/Effect_ Ceremony of Protection|Effect: Ceremony of Protection]]
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

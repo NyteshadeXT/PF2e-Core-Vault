@@ -61,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +9 (agile, finesse, trip)\n__Damage__  1d4 + 4 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+9 (agile, finesse, trip)\n__Damage__  1d4 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +11 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+11 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Primal Prepared Spells"
     desc: "DC 17, attack +9; __1st __  _[[Spells/Heal|Heal]]_, _[[Spells/Tailwind|Tailwind]]_, _[[Spells/Wall of Shrubs|Wall of Shrubs]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Know the Way|Know the Way]]_, _[[Spells/Take Root|Take Root]]_, _[[Spells/Tangle Vine|Tangle Vine]]_, _[[Spells/Timber|Timber]]_"
 
   - name: "Decompose"
-    desc: "`pf2:2` (primal,void) **Frequency** once per day\n* * *\n\n**Effect** Void energy seeps out of the ghostknife gardener, decaying everything within a @Template[emanation|distance:5] and causing plants and foliage to age and decompose. Natural difficult terrain is destroyed, and creatures in the area with the plant or wood trait take 1d6 void damage (DC 16 Fortitude check)."
+    desc: "`pf2:2` (primal,void) **Frequency** once per day\n* * *\n\n**Effect** Void energy seeps out of the ghostknife gardener, decaying everything within a 5-foot emanation and causing plants and foliage to age and decompose. Natural difficult terrain is destroyed, and creatures in the area with the plant or wood trait take 1d6 void damage (DC 16 Fortitude check)."
  
 ```
 

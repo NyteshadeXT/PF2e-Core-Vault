@@ -27,11 +27,11 @@ level: "Hazard 10"
 trait_01: [[magical]]
 trait_02: [[mechanical]]
 trait_03: [[trap]]
-modifier: 32
+modifier: 22
 sourcebook: "_Pathfinder #165: Eyes of Empty Death_"
 perception:
   - name: ""
-  - name: "Stealth DC 42" 
+  - name: "Stealth DC 32" 
     desc: "DC 32 Perception check (master)"
 abilities_top:
   - name: ""
@@ -40,7 +40,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Disable"
-    desc: "DC 32 Thievery check (master) to disarm the rune, or [[Spells/Dispel Magic|Dispel Magic]] (5th level; counteract DC 28) to counteract the rune's magic."
+    desc: "DC 32 Thievery check (master) to disarm the rune, or [[Spells/Dispel Magic|Dispel Magic]] (5th rank; counteract DC 28) to counteract the rune's magic."
 attacks:
   - name: ""
 

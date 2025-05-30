@@ -22,5 +22,5 @@ You've reinforced your interior parts with sealant or other flame-retardant mate
 
 **Special** You can't take this feat if you're a stuffed poppet.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

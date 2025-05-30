@@ -21,5 +21,5 @@ license: ORC
 
 At home among mire and copse, you flit from river to tree with a dragonfly's shimmering grace. You ignore non-magical difficult terrain due to light undergrowth and shallow bogs, mud, and water, and you treat non-magical greater difficult terrain due to these features as difficult terrain instead.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

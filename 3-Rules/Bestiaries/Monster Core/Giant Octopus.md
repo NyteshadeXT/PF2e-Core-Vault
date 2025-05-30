@@ -57,23 +57,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Arm +20 (agile, reach 15 feet)\n__Damage__  2d8 + 9 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Arm"
+    desc: "+20 (agile, reach 15 feet)\n__Damage__  2d8 + 9 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +20 ()\n__Damage__  2d8 + 9 piercing plus giant-octopus-venom"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+20 (unarmed)\n__Damage__  2d8 + 9 piercing plus giant-octopus-venom"
 
   - name: "Compression"
     desc: "  A giant octopus can move through a gap at least 2 feet wide without Squeezing, and can [[Actions/Squeeze|Squeeze]] through a gap at least 1 foot wide."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8+9 bludgeoning, DC 26 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d8+9 bludgeoning, DC 26 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Giant Octopus Venom"
     desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 2d6 poison damage, [[Conditions/Clumsy|Clumsy 1]], and off-guard (1 round)\n\n**Stage 3** 2d6 poison damage, [[Conditions/Clumsy|Clumsy 2]], and off-guard (1 round)"
 
   - name: "Ink Cloud"
-    desc: "`pf2:1`  The octopus emits a cloud of black ink in a @Template[emanation|distance:30]. This cloud has no effect outside of water. Creatures inside the cloud are [[Conditions/Undetected|Undetected]] and can't use their sense of smell. The cloud dissipates after 1 minute.\n\nThe octopus can't use Ink Cloud again for 2d6 rounds."
+    desc: "`pf2:1`  The octopus emits a cloud of black ink in a 30-foot emanation. This cloud has no effect outside of water. Creatures inside the cloud are [[Conditions/Undetected|Undetected]] and can't use their sense of smell. The cloud dissipates after 1 minute.\n\nThe octopus can't use Ink Cloud again for 2d6 rounds."
 
   - name: "Jet"
     desc: "`pf2:2` (move) The octopus moves up to 200 feet in a straight line through the water without triggering reactions."
@@ -82,7 +82,7 @@ attacks:
     desc: "`pf2:2`  The giant octopus makes up to four Strikes with different arms, each against a different target. Each attack counts separately for the octopus's multiple attack penalty, but the penalty doesn't increase the until the octopus has made all the attacks.\n\nIf the octopus subsequently uses the [[Bestiary Ability Glossary/Grab|Grab]] action, it can Grab any number of creatures it hit with Writhing Arms."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

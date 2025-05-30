@@ -18,5 +18,5 @@ license: OGL
 
 You gain a lucky impetuousness, allowing you to roll for initiative twice and use the higher result once per day. This is a fortune effect.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

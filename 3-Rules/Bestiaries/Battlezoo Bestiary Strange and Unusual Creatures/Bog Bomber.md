@@ -37,7 +37,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +22, Athletics: +19, Intimidation: +19, Stealth: +22, Acrobatics: +22, Athletics: +19, Intimidation: +19, Stealth: +22"
+    desc: "Acrobatics: +22, Athletics: +19, Intimidation: +19, Stealth: +22"
 abilityMods: [7, 3, 6, -3, 5, -1]
 speed: 25 feet,  swim 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +23 ()\n__Damage__  2d12 + 13 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+23 ()\n__Damage__  2d12 + 13 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +23 (fire, reach 30 feet)\n__Damage__  2d6 + 10 fire plus flame-tongue-grab"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+23 (fire, reach 30 feet)\n__Damage__  2d6 + 10 fire plus flame-tongue-grab"
 
   - name: "Fireball Breath"
     desc: "`pf2:2` (arcane,fire) The bog bomber expels a ball of flame to a range of 180 feet that explodes in a 20-foot burst. Creatures in the burst take 9d6 fire damage (DC 27 Reflex check save). If there are creatures swallowed by the bog bomber and the bog bomber uses its fireball breath, the damage of the fire ball increases by an additional 1d6 fire damage per creature, to a maximum of 12d6 if it swallowed three or more creatures. The bog bomber can't use Fireball Breath again for 1d4 rounds.\n\n10d6 fire\n\n11d6 fire"

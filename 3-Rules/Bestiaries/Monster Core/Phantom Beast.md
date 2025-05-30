@@ -56,6 +56,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Walk the Ethereal Line"
     desc: "`pf2:2`  The phantom walks the thin line between the Ethereal and Universe in order to exist on both planes simultaneously.\n\nThey can shift back to solely the Ethereal Plane by using this ability again."
 
@@ -67,8 +70,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Phantom Horn +18 (agile, finesse, magical)\n__Damage__  2d8 + 8 piercing"
+  - name: "**Melee** `pf2:1` Phantom Horn"
+    desc: "+18 (agile, finesse, magical)\n__Damage__  2d8 + 8 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 28, attack +20; __4th __  _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Sleep|Sleep]]_, _[[Spells/Spiritual Armament|Spiritual Armament]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

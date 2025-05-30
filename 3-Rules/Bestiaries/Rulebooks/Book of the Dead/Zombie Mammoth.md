@@ -64,23 +64,29 @@ abilities_mid:
   - name: "Slow"
     desc: "  A zombie mammoth is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tusk +24 (reach 15 feet)\n__Damage__  3d10 + 13 piercing"
+  - name: "**Melee** `pf2:1` Tusk"
+    desc: "+24 (reach 15 feet, unarmed)\n__Damage__  3d10 + 13 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Trunk +24 (reach 15 feet)\n__Damage__  2d10 + 7 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Trunk"
+    desc: "+24 (reach 15 feet)\n__Damage__  2d10 + 7 bludgeoning plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +24 (reach 10 feet)\n__Damage__  2d10 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+24 (reach 10 feet, unarmed)\n__Damage__  2d10 + 13 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  2d10+7 bludgeoning, DC 30 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d10+7 bludgeoning, DC 30 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC. A creature that fails this save falls [[Conditions/Unconscious|Unconscious]], and a creature that succeeds is then temporarily immune to falling unconscious from Greater Constrict for 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Trample|Shambling Trample]]"
-    desc: "`pf2:2`  Large or smaller, foot, DC 30 Reflex check\n\nThe zombie mammoth Strides up to its Speed instead of double.\n\n* * *\n"
+    desc: "`pf2:2`  Large or smaller, foot, DC 30 Reflex check\n\nThe zombie mammoth Strides up to its Speed instead of double.\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

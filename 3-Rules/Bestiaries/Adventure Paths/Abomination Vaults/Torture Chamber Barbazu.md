@@ -57,28 +57,34 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Glaive|Hellforged Glaive]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hellforged Glaive +15 (agile, deadly d10, forceful, magical, reach 10 feet, unholy)\n__Damage__  1d8 + 7 slashing plus infernal-wound 2d6 spirit plus infernal-wound"
+  - name: "**Melee** `pf2:1` Hellforged Glaive"
+    desc: "+15 (agile, deadly d10, forceful, magical, reach 10 feet, unholy)\n__Damage__  1d8 + 7 slashing plus infernal-wound 2d6 spirit plus infernal-wound"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile, magical, unholy)\n__Damage__  2d6 + 7 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, magical, unarmed, unholy)\n__Damage__  2d6 + 7 slashing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Beard +15 (magical, unholy)\n__Damage__  1d6 + 7 piercing plus avernal-fever"
+  - name: "**Melee** `pf2:1` Beard"
+    desc: "+15 (magical, unholy)\n__Damage__  1d6 + 7 piercing plus avernal-fever"
 
   - name: "Divine Innate Spells"
     desc: "DC 19, attack +11; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Diabolic Pact|Infernal Pact]]_"
+    desc: "_Infernal Pact_"
 
   - name: "Avernal Fever"
     desc: " (disease) **Saving Throw** DC 23 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 2]] (1 day)"

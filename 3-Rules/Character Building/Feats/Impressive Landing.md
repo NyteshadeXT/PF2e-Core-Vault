@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You slam into the ground, shattering it around you. Treat the fall as 10 feet shorter. You land on your feet. The ground in a @Template\[emanation|distance:5\] becomes difficult terrain. Any creature in the emanation when you land takes 5 bludgeoning damage as the debris hits it and is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.
+You slam into the ground, shattering it around you. Treat the fall as 10 feet shorter. You land on your feet. The ground in a 5-foot emanation becomes difficult terrain. Any creature in the emanation when you land takes 5 bludgeoning damage as the debris hits it and is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

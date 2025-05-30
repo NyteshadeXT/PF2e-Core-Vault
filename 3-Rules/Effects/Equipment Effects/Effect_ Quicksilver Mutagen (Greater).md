@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Quicksilver Mutagen (Greater)|Quicksilver Mutagen (Greater)]]
+Granted by [[Equipment/Quicksilver Mutagen (Greater)|Quicksilver Mutagen (Greater)]]
 
 **Benefit** You gain a +3 item bonus to Acrobatics checks, Stealth checks, Thievery checks, Reflex saves, and Dexterity-based attack rolls, and you gain a +15 foot status bonus to your Speed.
 

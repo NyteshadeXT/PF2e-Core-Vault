@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "World Traveller"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.CPcMqEd4H5yIVl3i"
 license: OGL
 ---
 # World Traveller
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

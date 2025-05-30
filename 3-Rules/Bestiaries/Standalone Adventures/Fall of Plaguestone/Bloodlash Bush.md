@@ -48,13 +48,16 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vine +11 (agile, reach 10 feet)\n__Damage__  1d8 + 4 slashing plus weeping-wounds"
+  - name: "**Melee** `pf2:1` Vine"
+    desc: "+11 (agile, reach 10 feet)\n__Damage__  1d8 + 4 slashing plus weeping-wounds"
 
   - name: "Blood Siphon"
     desc: "`pf2:2`  The tendrils of the bush reach out to siphon the blood from a victim up to 20 feet away with persistent bleed damage, causing the victim to immediately take that amount of bleed damage (DC 17 Reflex check).\n\nThe bush regains an amount of Hit Points equal to double the damage dealt."

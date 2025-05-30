@@ -16,7 +16,7 @@ license: ORC
 ---
 # Born to the Trees `pf2:2`
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[impulse]][[kineticist]][[morph]][[primal]][[Wood]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[impulse]][[kineticist]][[morph]][[primal]][[wood]]
 
 **Category** class; 
 

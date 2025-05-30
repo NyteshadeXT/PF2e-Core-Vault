@@ -4,7 +4,7 @@ title: "Topple Crates"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.o3u4snDwjBDcNlG3"
 license: OGL

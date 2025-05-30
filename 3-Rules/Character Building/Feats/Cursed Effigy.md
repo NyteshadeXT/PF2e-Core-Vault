@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Exploit Vulnerability
 * * *
-**Requirements** Your last action was a successful Strike against the target of your Exploit Vulnerability, and the Strike dealt physical damage.
+**Requirements** Your last action was a successful Strike against the target of your [[Actions/Exploit Vulnerability|Exploit Vulnerability]], and the Strike dealt physical damage.
 
 * * *
 

@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword +9 (two-hand d12)\n__Damage__  1d8 slashing"
+  - name: "**Melee** `pf2:1` Bastard Sword"
+    desc: "+9 (two-hand d12)\n__Damage__  1d8 slashing"
 
   - name: "You're Next"
-    desc: "`pf2:r` (emotion,fear,mental) **Trigger** The witch's wing reduces a creature to 0 Hit Points\n* * *\n\n**Effect** The witch's wing attempt an Intimidation check with a +2 circumstance bonus to [[Actions/Demoralize|Demoralize]] a single creature they can see and that can see them."
+    desc: "`pf2:r` (emotion,fear,mental) **Trigger** The witch's wing reduces a creature to 0 Hit Points\n* * *\n\n**Effect** The witch's wing attempt an Intimidation check with a +2 circumstance bonus to [[Actions/demoralize options=youre-next|demoralize options=youre-next]] a single creature they can see and that can see them."
  
 ```
 

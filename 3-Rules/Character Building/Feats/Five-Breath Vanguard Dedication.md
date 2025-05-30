@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Prerequisites** Two of the five elemental stances (IronbloodStance, Mountain Stance, Reflected Ripple Stance, StokedFlame Stance, and Tangled Forest Stance)
+**Prerequisites** Two of the five elemental stances (Ironblood Stance, Mountain Stance, Reflective Ripple Stance, Stoked Flame Stance, and Tangled Forest Stance)
 * * *
 **Access** Tian Xia origin or exposure to Tian elementalism
 
@@ -29,5 +29,5 @@ You flow like the elemental cycle, adapting your stance and techniques constantl
 
 [[PF2e Journals/Archetypes/Five-Breath Vanguard|Five-Breath Vanguard]]
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

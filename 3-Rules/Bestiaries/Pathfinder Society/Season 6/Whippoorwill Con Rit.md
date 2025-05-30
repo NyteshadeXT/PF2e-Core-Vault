@@ -56,14 +56,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandible +16 (reach 10 feet)\n__Damage__  2d10 + 6 piercing plus con-rit-venom"
+  - name: "**Melee** `pf2:1` Mandible"
+    desc: "+16 (reach 10 feet)\n__Damage__  2d10 + 6 piercing plus con-rit-venom"
 
   - name: "Con Rit Venom"
     desc: " (poison) **Saving Throw** DC 23 Fortitude check;\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d10 poison (1 round)\n\n**Stage 2** 2d10 poison and [[Conditions/Off-Guard|Off-Guard]] (1 round);\n\n**Stage 3** 2d10 poison, off-guard, and [[Conditions/Slowed|Slowed 1]] (1 round)"
 
   - name: "Spit Venom"
-    desc: "`pf2:1` (poison) The con rit spits a propulsive blast of venom that deals 2d10-2 poison + 2d10-2 bludgeoning damage in a @Template[line|distance:30] (DC 23 Fortitude check save). Creatures who fail their save are also pushed 10 feet.\n\nThe con rit cannot use Spit Venom again for 1d4 rounds."
+    desc: "`pf2:1` (poison) The con rit spits a propulsive blast of venom that deals 2d10-2 poison + 2d10-2 bludgeoning damage in a 30-foot line (DC 23 Fortitude check save). Creatures who fail their save are also pushed 10 feet.\n\nThe con rit cannot use Spit Venom again for 1d4 rounds."
 
   - name: "Undulate"
     desc: "`pf2:1`  The con rit Swims. During this movement, it can pass through spaces as narrow as 5 feet without Squeezing."

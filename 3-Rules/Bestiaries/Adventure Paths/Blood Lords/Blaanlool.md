@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/PZO90182_LAZY_MARSH_GIANT.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Blaanlool"
 level: "Creature 8"
@@ -60,19 +61,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Catch Rock|Catch Rock]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Requirements** The monster must have a free hand but can [[Actions/Release|Release]] anything it's holding as part of this reaction.\n\n**Trigger** The monster is targeted with a thrown rock Strike or a rock would fall on the monster.\n* * *\n\n**Effect** The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Gaff +20 (magical, reach 10 feet, trip, versatile p)\n__Damage__  2d6 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Gaff"
+    desc: "+20 (magical, reach 10 feet, trip, versatile p)\n__Damage__  2d6 + 14 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +20 (agile, reach 10 feet)\n__Damage__  2d6 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+20 (agile, reach 10 feet, unarmed)\n__Damage__  2d6 + 14 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +20 (brutal, range increment 120 feet)\n__Damage__  2d6 + 14 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+20 (brutal, range increment 120 feet)\n__Damage__  2d6 + 14 bludgeoning"
 
   - name: "Occult Innate Spells"
     desc: "DC 23, attack +13; __5th __  _[[Spells/Mariner's Curse|Mariner's Curse]]_; __2nd __  _[[Spells/Augury|Augury]]_, _[[Spells/Mist|Obscuring Mist]]_"
@@ -81,7 +82,7 @@ attacks:
     desc: "`pf2:1`  **Requirements** A creature adjacent to the marsh giant is [[Conditions/Prone|Prone]] in water at least 1 foot deep\n* * *\n\n**Effect** The marsh giant uses its gaff to shake the creature back and forth and hold it underwater. The giant attempts an Athletics check check against the target's Fortitude DC.\n* * *\n\n**Critical Success** The target takes 6d6+14 piercing damage and loses 5 rounds' worth of air if they were holding their breath.\n\n**Success** The target takes 3d6+14 piercing damage and loses 3 rounds' worth of air if they were holding their breath.\n\n**Failure** The target is unaffected.\n\n**Critical Failure** As failure, but the giant drops its gaff as well."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
 
   - name: "Twist the Hook"
     desc: "`pf2:2`  The marsh giant makes a melee Strike with its gaff. If it hits, it twists and yanks the gaff to create an awful wound, dealing 3d6 persistent bleed damage to the creature."

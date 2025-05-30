@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Graveknight) Weapon Master"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.6isn9nqnvfRrC1wW"

@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/SAHNI_BRIDE-OF-THE-SEA_FINAL.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Sahni Bride-Of-The-Sea"
 level: "Creature 7"
@@ -63,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +16 (agile, magical)\n__Damage__  2d10 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+16 (agile, magical, unarmed)\n__Damage__  2d10 + 4 slashing"
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 25, attack +17; __4th __ (2 slots) _[[Spells/Bestial Curse|Bestial Curse]]_, _[[Spells/Vampiric Maiden|Vampiric Maiden]]_; __3rd __ (3 slots) _[[Spells/Animal Vision|Animal Vision]]_, _[[Spells/Crashing Wave|Crashing Wave]]_, _[[Spells/Fear|Fear]]_; __2nd __ (3 slots) _[[Spells/Animal Messenger|Animal Messenger]]_, _[[Spells/Mending|Mending]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __ (3 slots) _[[Spells/Alarm|Alarm]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_\n__Cantrips__  __(4th)__ _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Sigil|Sigil]]_"

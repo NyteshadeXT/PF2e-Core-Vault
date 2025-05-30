@@ -16,8 +16,7 @@ license: OGL
 
 
 
-Creatures who worship Ydersius gain a +1 status bonus to attack  
-rolls, skill checks, saving throws, and Perception checks, and their Strikes gain the unholy trait.
+Creatures who worship Ydersius gain a +1 status bonus to attack rolls, skill checks, saving throws, and Perception checks, and their Strikes gain the unholy trait.
 
 *Source: Pathfinder #200: Seven Dooms for Sandpoint*
 *OGL*

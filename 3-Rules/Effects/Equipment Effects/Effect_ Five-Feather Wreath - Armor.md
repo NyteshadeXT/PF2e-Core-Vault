@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Five-Feather Wreath|Five-Feather Wreath]]
+Granted by [[Equipment/Five-Feather Wreath|Five-Feather Wreath]], [[Equipment/Five-Feather Wreath (Greater)|Five-Feather Wreath (Greater)]], [[Equipment/Five-Feather Wreath (Major)|Five-Feather Wreath (Major)]]
 
-You gain a +1 item bonus to Acrobatics checks and resistance 2 to falling damage.
+You gain an item bonus to Acrobatics checks and resistance to falling damage.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

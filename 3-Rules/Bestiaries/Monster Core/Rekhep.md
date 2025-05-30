@@ -55,16 +55,22 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Lance|+1 Striking Lance]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "Archon's Protection"
     desc: "`pf2:r`  **Trigger** An enemy damages the archon's ally and both are within 15 feet of the archon\n* * *\n\n**Effect** The ally gains resistance 15 to all damage against the triggering damage and the archon can make a Strike against the enemy."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Holy Lance +22 (deadly d8, divine, holy, jousting d6, reach 10 feet)\n__Damage__  2d8 + 11 piercing 1d4 spirit"
+  - name: "**Melee** `pf2:1` Holy Lance"
+    desc: "+22 (deadly d8, divine, holy, jousting d6, reach 10 feet)\n__Damage__  2d8 + 11 piercing 1d4 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 27, attack +19; __4th __  _[[Spells/Translocate|Translocate (At Will)]]_; __2nd __  _[[Spells/Share Life|Share Life (x3)]]_; __1st __  _[[Spells/Sure Strike|Sure Strike (x3)]]_\n__Cantrips__  __(5th)__ _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Message|Message]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"

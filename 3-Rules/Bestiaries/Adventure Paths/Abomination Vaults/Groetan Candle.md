@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shock +17 (cold, magical)\n__Damage__  2d8 + 4 cold"
+  - name: "**Melee** `pf2:1` Shock"
+    desc: "+17 (cold, magical)\n__Damage__  2d8 + 4 cold"
 
   - name: "Feed on Fear"
-    desc: "`pf2:1` (concentrate) **Requirement** An enemy is under a fear effect or [[Conditions/Dying|Dying]] within 15 feet of the will-o'-wisp.\n* * *\n\n**Effect** The will-o'wisp feeds on the creature's terror. It regains 2d4 Hit Points, and if it has Gone Dark, its glow reignites.\n\nA will-o'-wisp can take this action only once per round."
+    desc: "`pf2:1` (concentrate) **Requirement** An enemy is under a fear effect or [[Conditions/Dying|Dying]] within 15 feet of the will-o'-wisp.\n* * *\n\n**Effect** The will-o'wisp feeds on the creature's terror. It regains 2d4 healing Hit Points, and if it has Gone Dark, its glow reignites.\n\nA will-o'-wisp can take this action only once per round."
 
   - name: "Go Dark"
     desc: "`pf2:1` (concentrate) The will-o'-wisp extinguishes its glow, becoming [[Conditions/Invisible|Invisible]]. It can end this effect with another use of this action. If it uses its shock attack while invisible, the arc of electricity lets any observer determine its location, making the will-o'-wisp only [[Conditions/Hidden|Hidden]] to all observers until it moves."

@@ -58,17 +58,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 ()\n__Damage__  1d4 + 2 piercing plus knockdown"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (unarmed)\n__Damage__  1d4 + 2 piercing plus knockdown"
 
   - name: "Surge of Speed"
     desc: "`pf2:2`  The wolf skeleton Strides three times, but it's [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

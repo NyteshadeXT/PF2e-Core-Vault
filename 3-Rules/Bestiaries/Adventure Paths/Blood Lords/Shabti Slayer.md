@@ -19,6 +19,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/PZO90186 SHABTI SLAYER.webp| ]]
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Shabti Slayer"
 level: "Creature 16"
@@ -54,22 +55,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +32 (magical, versatile p)\n__Damage__  3d8 + 13 slashing plus final-rest"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+32 (magical, versatile p)\n__Damage__  3d8 + 13 slashing plus final-rest"
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Hammer +32 (agile, magical)\n__Damage__  3d6 + 13 bludgeoning plus final-rest"
+  - name: "**Melee** `pf2:1` Light Hammer"
+    desc: "+32 (agile, magical)\n__Damage__  3d6 + 13 bludgeoning plus final-rest"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +32 (agile, magical, thrown 20 ft.)\n__Damage__  3d6 + 13 bludgeoning plus final-rest"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+32 (agile, magical, thrown 20 ft.)\n__Damage__  3d6 + 13 bludgeoning plus final-rest"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +31 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 8 piercing plus final-rest"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+31 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 8 piercing plus final-rest"
 
   - name: "Final Rest"
     desc: "  A shabti slayer's Strikes affect incorporeal creatures with the effects of a _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune and deal 2d10 vitality damage to undead creatures."

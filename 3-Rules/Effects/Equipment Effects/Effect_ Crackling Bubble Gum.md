@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Crackling Bubble Gum (Lesser)|Crackling Bubble Gum (Lesser)]], [[Equipment/Crackling Bubble Gum (Moderate)|Crackling Bubble Gum (Moderate)]], [[Equipment/Crackling Bubble Gum (Greater)|Crackling Bubble Gum (Greater)]], [[Equipment/Crackling Bubble Gum (Major)|Crackling Bubble Gum (Major)]]
+
 You have an item bonus to saving throws against auditory and sonic effects equal to the badge value.
 
 *Source: Pathfinder Treasure Vault*

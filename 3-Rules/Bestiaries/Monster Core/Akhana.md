@@ -55,6 +55,12 @@ abilities_top:
   - name: "Envisioning"
     desc: " (aura,divine,mental) 100 feet\n* * *\n\nAn akhana can communicate mentally with any creatures in the aura using wordless psychic projections. They don't need to share a language, though the aeon's meaning to non-aeons can be vague and is often mysterious. An aeon can use this ability to communicate flawlessly with any other aeon on the same plane as itself."
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 120 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
+  - name: "[[Bestiary Ability Glossary/At-Will Spells|At-Will Spells]]"
+    desc: "  The monster can cast its at-will spells any number of times without using up spell slots."
+
 abilities_mid:
   - name: ""
   - name: "Balance Life"
@@ -63,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +24 (magical, void)\n__Damage__  5d10 void plus grab"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+24 (magical, void)\n__Damage__  5d10 void plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +24 (agile, magical)\n__Damage__  3d6 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+24 (agile, magical, unarmed)\n__Damage__  3d6 + 12 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 32, attack +24; __4th __  _[[Spells/Harm|Harm (At Will)]]_, _[[Spells/Heal|Heal (At Will)]]_; __2nd __  _[[Spells/Peaceful Rest|Peaceful Rest]]_\n__Cantrips__  __(6th)__ _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Vitality Lash|Vitality Lash]]_, _[[Spells/Void Warp|Void Warp]]_"
@@ -79,10 +85,10 @@ attacks:
     desc: "`pf2:1` (divine,void) **Requirements** The akhana has a living creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] with its tail\n* * *\n\n**Effect** The creature takes 4d10 void damage with a DC 32 Fortitude check save. On a failed save, it's also [[Conditions/Doomed|Doomed 1]]. If the creature dies while doomed and held in the akhana's tail, its soul is trapped in the akhana (as [[Spells/Seize Soul|Seize Soul]]), and its remains are preserved as peaceful rest. The soul returns to the body with 1 Hit Point if the akhana [[Actions/Dismiss|Dismisses]] the effect, if the akhana is slain, or if a [[Spells/Wish|Wish]] ritual or similarly powerful magic frees it."
 
   - name: "Sprout Life"
-    desc: "`pf2:2` (concentrate,divine,plant,vitality) A @Template[burst|distance:5] within 100 feet fills with simple life appropriate to the environment. The newly forged animals bite those in the area for 7d6 piercing damage with a DC 32 Reflex check save. The akhana can also have fungus or plants choke the area, even floating ones in the sky, creating difficult terrain. The created life lives or dies normally after its creation."
+    desc: "`pf2:2` (concentrate,divine,plant,vitality) A 5-foot burst within 100 feet fills with simple life appropriate to the environment. The newly forged animals bite those in the area for 7d6 piercing damage with a DC 32 Reflex check save. The akhana can also have fungus or plants choke the area, even floating ones in the sky, creating difficult terrain. The created life lives or dies normally after its creation."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

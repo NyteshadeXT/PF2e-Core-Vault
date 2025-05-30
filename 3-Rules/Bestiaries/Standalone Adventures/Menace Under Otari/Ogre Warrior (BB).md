@@ -3,7 +3,7 @@ title: "Ogre Warrior (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.gdXok08bITkhowDJ" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.Twvzy1yRo6m6dM8D" 
 tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +12 (reach 10 feet, sweep)\n__Damage__  1d12 + 7 piercing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+12 (reach 10 feet, sweep)\n__Damage__  1d12 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +6 (thrown 30 ft.)\n__Damage__  1d6 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+6 (thrown 30 ft.)\n__Damage__  1d6 + 7 piercing"
  
 ```
 

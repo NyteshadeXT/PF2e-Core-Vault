@@ -59,17 +59,20 @@ abilities_top:
     desc: "[[Equipment/Light Hammer|+1 Striking Returning Light Hammer]], [[Equipment/Chain Mail|Chain Mail]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
   - name: "Toil is Strength"
     desc: "`pf2:r` (misfortune) **Trigger** A creature within 30 feet would succeed at a save against a spell or ability that causes the [[Conditions/Immobilized|Immobilized]] condition\n* * *\n\n**Effect** The target must reroll the triggering saving throw and use the worse result."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Hammer +14 (agile, magical)\n__Damage__  2d8 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Light Hammer"
+    desc: "+14 (agile, magical)\n__Damage__  2d8 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +12 (agile, magical, thrown 20 ft.)\n__Damage__  2d8 + 5 bludgeoning"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+12 (agile, magical, thrown 20 ft.)\n__Damage__  2d8 + 5 bludgeoning"
 
   - name: "Divine Prepared Spells"
     desc: "DC 21, attack +13; __3rd __  _[[Spells/Agonizing Despair|Agonizing Despair]]_, _[[Spells/Crisis of Faith|Crisis of Faith]]_; __2nd __  _[[Spells/Charitable Urge|Charitable Urge]]_, _[[Spells/See the Unseen|See the Unseen]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Detect Poison|Detect Poison]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Runic Weapon|Runic Weapon]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

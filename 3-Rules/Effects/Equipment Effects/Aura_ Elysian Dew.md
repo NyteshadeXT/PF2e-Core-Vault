@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Elysian Dew|Elysian Dew]]
+Granted by [[Equipment/Elysian Dew|Elysian Dew]]
 
-You gain a 10-foot aura that evokes the vitality of Elysium, causing nearby objects to seem more colorful and plants to stand taller. You and any ally that starts its turn in the emanation gain 5 temporary Hit Points, a +1 item bonus to saving throws, and a +1 item bonus to Acrobatics and Athletics checks until the start of your or the ally's next turn.
+You gain a 10-foot aura. You and any ally that starts its turn in the emanation gain 5 temporary Hit Points, a +1 item bonus to saving throws, and a +1 item bonus to Acrobatics and Athletics checks until the start of your or the ally's next turn.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

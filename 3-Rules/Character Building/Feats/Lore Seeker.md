@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Scrollmaster Dedication
 * * *
-You see what others don't, and you've developed magical tricks to find hidden truth. You can cast [[Translate|Translate]], [[Sound Body|Sound Body]], and [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]] as innate spells, each once per day. If you could already cast spells, these spells are of the same tradition. Otherwise, they are arcane spells, you use Intelligence as your spellcasting ability, and you become trained in spell attack rolls and spell DCs for arcane spells.
+You see what others don't, and you've developed magical tricks to find hidden truth. You can cast [[Spells/Translate|Translate]], [[Spells/Sound Body|Sound Body]], and [[Spells/See the Unseen|See the Unseen]] as innate spells, each once per day. If you could already cast spells, these spells are of the same tradition. Otherwise, they are arcane spells, you use Intelligence as your spellcasting ability, and you become trained in spell attack rolls and spell DCs for arcane spells.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

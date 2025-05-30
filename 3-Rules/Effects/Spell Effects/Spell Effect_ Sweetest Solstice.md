@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Spells/Sweetest Solstice|Sweetest Solstice]]
+
 You gain a +1 status bonus to saves against fear effects. On a critical success you also gain this bonus to emotion effects.
 
 *Source: Pathfinder #197: Let the Leaves Fall*

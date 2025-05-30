@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 bludgeoning"
 
   - name: "Occult Prepared Spells"
     desc: "DC 18, attack +12; __4th __  _[[Spells/Read Omens|Read Omens]]_; __3rd __  _[[Spells/Hypercognition|Hypercognition]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Restoration|Restoration]]_; __1st __  _[[Spells/Alarm|Alarm]]_, _[[Spells/Bless|Bless]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

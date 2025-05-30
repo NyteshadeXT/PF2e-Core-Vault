@@ -16,13 +16,9 @@ license: OGL
 
 
 
-Granted by [[Return the Favor|Return the Favor]].
+Granted by [[Spells/Return the Favor|Return the Favor]]
 
-You gain 12 temporary Hit Points for 1 minute.
-
-* * *
-
-**Heightened (+1)** The temporary Hit Points increase by 4.
+You gain temporary Hit Points.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

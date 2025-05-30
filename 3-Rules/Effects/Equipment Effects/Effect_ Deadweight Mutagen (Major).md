@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Deadweight Mutagen (Major)|Deadweight Mutagen (Major)]]
+Granted by [[Equipment/Deadweight Mutagen (Major)|Deadweight Mutagen (Major)]]
 
 **Benefit** You gain a +4 item bonus to Athletics checks to [[Actions/Shove|Shove]] and [[Actions/Trip|Trip]], to your Fortitude and Reflex DCs against attempts to Shove or Trip you, and to saving throws against effects that attempt to force you to move or knock you [[Conditions/Prone|Prone]]. You can attempt to Shove or Trip creatures up to three sizes larger than you.
 

@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +20 (agile, finesse, trip)\n__Damage__  2d4 + 8 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+20 (agile, finesse, trip)\n__Damage__  2d4 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Moderate Acid Flask +22 (acid, alchemical, bomb, consumable, range increment 20 feet, splash)\n__Damage__  2d6 acid 2 acid"
+  - name: "**Ranged** `pf2:1` Moderate Acid Flask"
+    desc: "+22 (acid, alchemical, bomb, consumable, range increment 20 feet, splash)\n__Damage__  2d6 acid 2 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Moderate Alchemist&#x27;s Fire +22 (alchemical, bomb, consumable, fire, range increment 20 feet, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
+  - name: "**Ranged** `pf2:1` Moderate Alchemist&#x27;s Fire"
+    desc: "+22 (alchemical, bomb, consumable, fire, range increment 20 feet, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
 
   - name: "Dirty Bomb"
     desc: "`pf2:2`  **Requirements** The chemist has at least one bomb in their possession\n* * *\n\n**Effect** The chemist adds a hasty mix of noxious substances to the bomb and makes a ranged Strike with it. If it hits and deals damage, the target must attempt a DC 27 Fortitude check save or become [[Conditions/Stupefied|Stupefied 2]] for 1d6 rounds; if the result of the save is a critical failure, this increases to [[Conditions/Stupefied|Stupefied 3]]. For the next 24 hours, the affected target takes a -2 circumstance penalty (-3 on a critical failure) to additional Fortitude saving throws against the same chemist's Crude Bombs.\n\n[[Bestiary Effects/Effect_ Dirty Bomb|Effect: Dirty Bomb]]\n\n[[Bestiary Effects/Effect_ Dirty Bomb (Critical Failure)|Effect: Dirty Bomb (Critical Failure)]]"

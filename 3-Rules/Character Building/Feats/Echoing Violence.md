@@ -28,7 +28,7 @@ license: ORC
 
 * * *
 
-Your powerful attack causes damage that reverberates through your opponent's body, shaking muscle from bone. The creature takes 10d6 bludgeoning damage with a basic Fortitude check save against your class DC. If it critically fails, it immediately dies as your blow tears apart its body internally.
+Your powerful attack causes damage that reverberates through your opponent's body, shaking muscle from bone. The creature takes 10d6 bludgeoning damage with a Fortitude check save against your class DC. If it critically fails, it immediately dies as your blow tears apart its body internally.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

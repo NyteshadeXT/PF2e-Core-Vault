@@ -58,17 +58,23 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 3]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horns +12 (agile)\n__Damage__  1d10 + 5 piercing"
+  - name: "**Melee** `pf2:1` Horns"
+    desc: "+12 (agile)\n__Damage__  1d10 + 5 piercing"
 
   - name: "Sweeping Horn"
     desc: "`pf2:2`  The beetle exoskeleton makes two Strikes with its horns against two adjacent foes, both of whom are within its reach. The multiple attack penalty does not increase until after both attacks are resolved."
 
   - name: "Terrifying Charge"
-    desc: "`pf2:2`  The beetle exoskeleton Strides and makes a horns Strike with a +4 circumstance bonus to damage.\n\nIf the strike hits, the giant attempts to [[Actions/Demoralize|Demoralize]] the target."
+    desc: "`pf2:2`  The beetle exoskeleton Strides and makes a horns Strike with a +4 circumstance bonus to damage.\n\nIf the strike hits, the giant attempts to [[Actions/demoralize|demoralize]] the target."
  
 ```
 

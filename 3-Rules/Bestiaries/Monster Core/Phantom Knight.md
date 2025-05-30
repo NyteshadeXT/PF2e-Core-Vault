@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Phantom Sword +14 (finesse, magical, versatile p)\n__Damage__  1d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Phantom Sword"
+    desc: "+14 (finesse, magical, versatile p)\n__Damage__  1d8 + 7 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Phantom Bow +14 (deadly d10, magical, range increment 120 feet, volley 30 ft.)\n__Damage__  1d8 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Phantom Bow"
+    desc: "+14 (deadly d10, magical, range increment 120 feet, volley 30 ft.)\n__Damage__  1d8 + 5 piercing"
 
   - name: "Phantom Touch"
     desc: " (spirit) Each time they make a Strike, a phantom can choose to deal spirit damage instead of the normal physical damage type."

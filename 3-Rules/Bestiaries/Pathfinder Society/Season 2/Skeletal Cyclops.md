@@ -59,14 +59,17 @@ abilities_top:
     desc: "[[Equipment/Bo Staff|Long Bone]], [[Equipment/Half Plate|Half Plate]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bo Staff +12 (monk, parry, reach 15 feet, trip)\n__Damage__  1d8 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Bo Staff"
+    desc: "+12 (monk, parry, reach 15 feet, trip)\n__Damage__  1d8 + 7 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +12 (agile, reach 10 feet)\n__Damage__  1d10 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+12 (agile, reach 10 feet, unarmed)\n__Damage__  1d10 + 5 slashing"
 
   - name: "Broad Swipe"
     desc: "`pf2:2`  The skeleton makes two Strikes with its bo staff against two adjacent foes, both of whom are within its reach. The multiple attack penalty does not increase until after both attacks are resolved."
@@ -75,7 +78,7 @@ attacks:
     desc: "  When the skeleton is destroyed, its bones shatter and explode as the necromantic energy holding it together is released. Adjacent creatures take 2d6 slashing damage with a DC 17 Reflex check save"
 
   - name: "Terrifying Charge"
-    desc: "`pf2:2`  The skeleton Strides and makes a claw Strike with a +4 circumstance bonus to damage circumstance bonus to damage. If the strike hits, the skeleton attempts to [[Action Macros/Demoralize_ Intimidation|Demoralize: Intimidation]] the target."
+    desc: "`pf2:2`  The skeleton Strides and makes a claw Strike with a +4 circumstance bonus to damage circumstance bonus to damage. If the strike hits, the skeleton attempts to [[Actions/demoralize|demoralize]] the target."
  
 ```
 

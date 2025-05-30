@@ -8,7 +8,7 @@ aliases: "Compendium.pf2e.feat-effects.Item.78Il8Sx0iB0TuLZv"
 license: OGL
 ---
 # Effect: Terrain Attunement (Mountain)
-## Level 1
+## Level 2
 ### 
 
 
@@ -18,7 +18,7 @@ license: OGL
 
 Granted by [[Feats/Geomancer Dedication|Geomancer Dedication]]
 
-You gain resistance to physical damage (except adamantine) equal to the spell rank.
+You gain resistance to physical damage (except adamantine) equal to the spell's rank.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

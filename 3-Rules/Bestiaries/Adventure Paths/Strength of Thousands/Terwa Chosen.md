@@ -56,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Born Lucky"
     desc: "`pf2:r` (divine) **Frequency** once per day **Trigger** The Terwa chosen rolls a success or a critical failure on a check\n* * *\n\n**Effect** The Terwa chosen improves the triggering roll by one degree of success, only from a success to a critical success or from a critical failure to a failure."
@@ -67,14 +67,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mambele +20 (deadly d8, disarm)\n__Damage__  2d6 + 9 slashing"
+  - name: "**Melee** `pf2:1` Mambele"
+    desc: "+20 (deadly d8, disarm)\n__Damage__  2d6 + 9 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +18 (agile, finesse)\n__Damage__  2d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+18 (agile, finesse)\n__Damage__  2d6 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mambele +18 (deadly d8, disarm, thrown 20 ft.)\n__Damage__  2d6 + 9 slashing"
+  - name: "**Ranged** `pf2:1` Mambele"
+    desc: "+18 (deadly d8, disarm, thrown 20 ft.)\n__Damage__  2d6 + 9 slashing"
 
   - name: "Celestial Might"
     desc: "`pf2:2`  **Frequency** once per round\n* * *\n\n**Effect** The Terwa chosen calls upon the stars to empower their attack. They attempt a Strike. If the Strike hits, the Terwa chosen deals an additional 2d6 precision damage."

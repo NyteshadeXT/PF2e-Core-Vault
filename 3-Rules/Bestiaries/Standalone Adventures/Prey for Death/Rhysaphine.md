@@ -51,8 +51,14 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Smoke Vision"
     desc: "  Rhysaphine can see through smoke with ease, and he ignores the [[Conditions/Concealed|Concealed]] condition from smoke."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
 
 abilities_mid:
   - name: ""
@@ -62,14 +68,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +34 (forceful, holy, magical, sweep)\n__Damage__  3d6 + 16 slashing 4d6 fire"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+34 (forceful, holy, magical, sweep)\n__Damage__  3d6 + 16 slashing 4d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Burning Wings +34 (agile, finesse, fire, holy, magical, reach 10 feet)\n__Damage__  3d10 + 16 fire"
+  - name: "**Melee** `pf2:1` Burning Wings"
+    desc: "+34 (agile, finesse, fire, holy, magical, reach 10 feet)\n__Damage__  3d10 + 16 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flame Ray +34 (fire, holy, magical, range 60 feet)\n__Damage__  9d6 fire"
+  - name: "**Ranged** `pf2:1` Flame Ray"
+    desc: "+34 (fire, holy, magical, range 60 feet)\n__Damage__  9d6 fire"
 
   - name: "Divine Innate Spells"
     desc: "DC 40, attack +32; __9th __  _[[Spells/Humanoid Form|Humanoid Form (At Will)]]_, _[[Spells/Wall of Fire|Wall of Fire (x3)]]_\n__Cantrips__  __(9th)__ _[[Spells/Ignition|Ignition]]_\n__Constant__  __(6th)__ _[[Spells/Fire Shield|Fire Shield]]_"
@@ -81,13 +87,13 @@ attacks:
     desc: "`pf2:2`  Rhysaphine makes one scimitar Strike and two burning wings Strikes, in any order."
 
   - name: "Greater Flameheart Weapon"
-    desc: "  hysaphine can call forth a powerful weapon from his heart of flame. In his hands, this is a _+3 greater striking greater flaming scimitar_ that deals 4d6 fire damage instead of 1d6."
+    desc: "  Rhysaphine can call forth a powerful weapon from his heart of flame. In his hands, this is a _+3 greater striking greater flaming scimitar_ that deals 4d6 fire damage instead of 1d6."
 
   - name: "Trick Rider"
     desc: "  **Frequency** once per round\n\n**Requirements** Rhysaphine is currently mounted-or adjacent to an allied creature that can function as a mount\n* * *\n\n**Effect** If Rhysaphine is mounted, he dismounts; if Rhysaphine is not mounted, he mounts the adjacent creature."
 
   - name: "Wildfire Storm"
-    desc: "`pf2:1` (divine,fire) Rhysaphine spreads his wings and spins, forming a whirlwind of flame that deals 19d6 fire damage in a @Template[emanation|distance:20] (DC 40 Reflex check save). He can't use Wildfire Storm again for 1d4 rounds."
+    desc: "`pf2:1` (divine,fire) Rhysaphine spreads his wings and spins, forming a whirlwind of flame that deals 19d6 fire damage in a 20-foot emanation (DC 40 Reflex check save). He can't use Wildfire Storm again for 1d4 rounds."
  
 ```
 

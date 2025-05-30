@@ -33,7 +33,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +28, Athletics: +28"
+    desc: "Athletics: +28"
 abilityMods: [8, 4, 7, -5, 4, -5]
 speed: 40 feet,  burrow 20 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +26 (reach 15 feet)\n__Damage__  3d10 + 14 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+26 (reach 15 feet)\n__Damage__  3d10 + 14 piercing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +26 (agile, reach 15 feet)\n__Damage__  2d6 + 14 piercing plus implant-nest"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+26 (agile, reach 15 feet)\n__Damage__  2d6 + 14 piercing plus implant-nest"
 
   - name: "Implant Nest"
     desc: "  The silkwurm's stinger is filled with ravenous infant spiders. A creature hit by the silkwurm's stinger Strike must attempt a DC 32 Fortitude check save. On a failure, the creature if infested with spiders and takes 3d6 persistent piercing damage."

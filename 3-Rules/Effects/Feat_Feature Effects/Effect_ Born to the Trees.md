@@ -17,7 +17,9 @@ license: ORC
 
 
 
-You gain a climb Speed equal to your Speed and a +1 circumstance bonus to Acrobatics checks to [[Actions/Balance|Balance]] and Athletics checks to [[Actions/Long Jump|Long Jump]] and [[Actions/High Jump|High Jump]].
+Granted by [[Feats/Born to the Trees|Born to the Trees]]
+
+You gain a climb Speed equal to your Speed and a +1 circumstance bonus to Acrobatics checks to Balance and Athletics checks to Long Jump and High Jump.
 
 *Source: Pathfinder #202: Severed at the Root*
 *ORC*

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Master Hireling"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.ca869lJo8E51WcW4"
 license: OGL
 ---
 # Master Hireling
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

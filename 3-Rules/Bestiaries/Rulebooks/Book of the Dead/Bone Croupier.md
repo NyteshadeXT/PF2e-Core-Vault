@@ -54,11 +54,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 (agile, finesse)\n__Damage__  2d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (agile, finesse, unarmed)\n__Damage__  2d8 + 5 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 22, attack +14; __4th __  _[[Spells/Discern Lies|Discern Lies]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_\n__Cantrips__  __(3rd)__ _[[Spells/Prestidigitation|Prestidigitation]]_"
@@ -67,7 +70,7 @@ attacks:
     desc: " (occult) **Frequency** once per day\n\n**Trigger** A creature within 30 feet of the bone croupier attempts a check but hasn't rolled the check yet\n* * *\n\n**Effect** The bone croupier pulls on the threads of luck that bind all things. The target rolls twice, and then the bone croupier decides which result applies. If the bone croupier chooses the lower roll, this is a misfortune effect; if the bone croupier chooses the higher roll, it's a fortune effect; if they're the same, the croupier decides which trait to apply. If this ability is expended, the bone croupier rolls 2d6 at the start of each of their turns, recharging the ability if the sum is 7 or 11."
 
   - name: "Roll the Bones"
-    desc: "`pf2:2` (occult) The bone croupier designates an adjacent living creature to roll the bones. The chosen creature finds a pair of dice in its hand and is compelled by fate to roll them; it can and must roll the dice even if its hands are full or it is unable to act. The creature rolls 2d6, adding them together to determine the effect.\n\n*   **7 or 11** (healing, vitality) The target regains 15 HP.\n*   **2, 3, or 12** (void) The target takes 30 void damage. If the target is [[Conditions/Dying|Dying]], this damage increases its dying condition by 2 instead of 1.\n*   **Any Other Roll** (void) The target takes 15 void damage."
+    desc: "`pf2:2` (occult) The bone croupier designates an adjacent living creature to roll the bones. The chosen creature finds a pair of dice in its hand and is compelled by fate to roll them; it can and must roll the dice even if its hands are full or it is unable to act. The creature rolls 2d6, adding them together to determine the effect.\n\n*   **7 or 11** (healing, vitality) The target regains 15 vitality healing HP.\n*   **2, 3, or 12** (void) The target takes 30 void damage. If the target is [[Conditions/Dying|Dying]], this damage increases its dying condition by 2 instead of 1.\n*   **Any Other Roll** (void) The target takes 15 void damage."
  
 ```
 

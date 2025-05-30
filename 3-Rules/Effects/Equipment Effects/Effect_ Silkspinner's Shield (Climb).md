@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You animate the silkspinner's shield. Eight spider legs sprout from the shield's rim, granting you a climb Speed of 25 feet until the end of your next turn.
+Granted by [[Equipment/Silkspinner's Shield|Silkspinner's Shield]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+You gain a climb Speed of 25 feet.
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

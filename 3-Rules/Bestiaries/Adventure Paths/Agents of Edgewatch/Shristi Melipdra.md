@@ -58,16 +58,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Skyward Slash +17 (nonlethal, unarmed, versatile p)\n__Damage__  2d10 + 4 slashing"
+  - name: "**Melee** `pf2:1` Skyward Slash"
+    desc: "+17 (nonlethal, unarmed, versatile p)\n__Damage__  2d10 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +17 (agile, finesse, nonlethal, unarmed)\n__Damage__  2d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+17 (agile, finesse, nonlethal, unarmed)\n__Damage__  2d6 + 4 bludgeoning"
 
   - name: "Flurry of Blows"
     desc: "`pf2:1` (flourish) Shristi makes two unarmed Strikes. If both hit the same creature, combine their damage for the purposes of resistances and weaknesses. He applies his multiple attack penalty to the Strikes normally.\n\nAs it has the flourish trait, Shristi can use Flurry of Blows only once per turn."

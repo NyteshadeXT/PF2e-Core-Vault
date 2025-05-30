@@ -5,15 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
   - trait/exploration
-  - trait/skill
-  - trait/common
+  - trait/
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.OizxuPb44g3eHPFh"
 license: ORC
 ---
 # Borrow an Arcane Spell
 
-### [[3-Rules/Rule References/Concentrate]][[exploration]][[skill]]
+### [[concentrate]][[exploration]]
 
 
 

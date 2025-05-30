@@ -69,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +8 ()\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+8 ()\n__Damage__  1d6 + 2 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Message|Message]]_, _[[Spells/Sigil|Sigil]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Demonic Pact]]_"
+    desc: "_Demonic Pact_"
 
   - name: "Dorsal Lash"
     desc: "`pf2:2` (mental) The elegecide lashes out with its trailing dorsal fins, looping them around a target within 15 feet. It sends a burst of telepathic information about all the possible ways the target can be injured in the next minute. The target takes 1d4+2 mental damage and must attempt a DC 18 Reflex check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes half damage.\n\n**Failure** The target takes full damage and is [[Conditions/Grabbed|Grabbed]] by the elegecide.\n\n**Critical Failure** The target takes double damage and is [[Conditions/Restrained|Restrained]] by the elegecide."

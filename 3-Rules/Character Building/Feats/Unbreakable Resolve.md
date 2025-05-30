@@ -12,7 +12,7 @@ license: OGL
 ---
 # Unbreakable Resolve `pf2:r`
 ## Feat 13
-### [rare](rare.md "Rare Rarity Trait")[[fortune]][[reincarnated]]
+### [rare](rare "Rare Rarity Trait")[[fortune]][[reincarnated]]
 
 **Category** ancestry; 
 

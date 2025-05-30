@@ -54,19 +54,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Morningstar +18 (magical, versatile p)\n__Damage__  1d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Morningstar"
+    desc: "+18 (magical, versatile p)\n__Damage__  1d6 + 8 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shield Bash +18 ()\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Shield Bash"
+    desc: "+18 ()\n__Damage__  1d4 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heavy Crossbow +16 (range increment 120 feet, reload 2)\n__Damage__  1d10 piercing"
+  - name: "**Ranged** `pf2:1` Heavy Crossbow"
+    desc: "+16 (range increment 120 feet, reload 2)\n__Damage__  1d10 piercing"
 
   - name: "Bullyrag Beatdown"
     desc: "  Whenever the gang tough makes a successful melee Strike against a frightened creature, the Strike deals an extra weapon die of damage."

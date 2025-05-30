@@ -60,22 +60,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Burning Sacrifice"
-    desc: " (divine,fire) When the sun hunter is destroyed, they explode in a blast of flame that deals 6d6 fire damage in a @Template[emanation|distance:10] (DC 27 Reflex check save). Creatures that critically fail their saves are marked with Walkena's religious symbol on a visible area of their body, which remains for 1 day. This mark allows Walkena to treat the creature as if he knew the creature's identity but not having met them for the purposes of [[Spells/Scrying|Scrying]], lowering the spell's DC by 2. The sun hunter's gear and treasure are unaffected by the explosion and left in a pile where they die."
+    desc: " (divine,fire) When the sun hunter is destroyed, they explode in a blast of flame that deals 6d6 fire damage in a 10-foot emanation (DC 27 Reflex check save). Creatures that critically fail their saves are marked with Walkena's religious symbol on a visible area of their body, which remains for 1 day. This mark allows Walkena to treat the creature as if he knew the creature's identity but not having met them for the purposes of [[Spells/Scrying|Scrying]], lowering the spell's DC by 2. The sun hunter's gear and treasure are unaffected by the explosion and left in a pile where they die."
 
   - name: "Nimble Dodge"
     desc: "`pf2:r`  **Trigger** The sun hunter is targeted with a melee or ranged attack by an attacker they can see\n* * *\n\n**Effect** The sun hunter gains a +2 circumstance bonus to AC against the triggering attack."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +22 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 6 piercing 1d6 fire"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+22 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 6 piercing 1d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +22 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 6 bludgeoning 1d6 fire"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+22 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 6 bludgeoning 1d6 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +22 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  3d4 + 6 piercing 1d6 fire"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+22 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  3d4 + 6 piercing 1d6 fire"
 
   - name: "Divine Innate Spells"
     desc: "DC 27, attack +19; __5th __ (1 slots) _[[Spells/Breathe Fire|Burning Hands]]_\n__Cantrips__  __(6th)__ _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"

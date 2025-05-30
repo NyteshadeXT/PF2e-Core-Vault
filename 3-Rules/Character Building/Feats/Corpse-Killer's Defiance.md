@@ -29,5 +29,5 @@ You defy Tar-Baphon with every undead you destroy, using your victory to rally y
 
 [[Feat_Feature Effects/Effect_ Corpse-Killer's Defiance|Effect: Corpse-Killer's Defiance]]
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

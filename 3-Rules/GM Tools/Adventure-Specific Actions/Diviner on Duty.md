@@ -4,7 +4,7 @@ title: "Diviner on Duty"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.G8xZPhzoLF1SGyV9"
 license: OGL
@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-Among the Scarlet Triad's security is a highly competent diviner! With spells such as [[Discern Lies|Discern Lies]], [[Mind Reading|Mind Reading]], [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]], and [[Truesight|Truesight]], this diviner can see through most magical schemes the PCs might use.
+Among the Scarlet Triad's security is a highly competent diviner! With spells such as [[Spells/Discern Lies|Discern Lies]], [[Spells/Mind Reading|Mind Reading]], [[Spells/See the Unseen|See the Unseen]], and [[Spells/Truesight|Truesight]], this diviner can see through most magical schemes the PCs might use.
 
 The diviner is watching for magical threats, not poison. With a successful DC 33 Deception check, DC 33 Thievery check, or food-related Lore check, a PC can trick her into consuming something laden with an ingested poison. Her Fortitude save bonus is +23, and she withdraws if successfully poisoned. If not successfully poisoned, increase the PCs' Awareness Points by 2.
 

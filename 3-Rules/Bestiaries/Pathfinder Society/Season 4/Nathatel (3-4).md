@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Elven Branched Spear +13 (deadly d8, finesse, magical, reach 10 feet)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Elven Branched Spear"
+    desc: "+13 (deadly d8, finesse, magical, reach 10 feet)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +12 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+12 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +12 (thrown 10 ft.)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+12 (thrown 10 ft.)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_; __1st __  _[[Spells/Horizon Thunder Sphere|Horizon Thunder Sphere]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(2nd)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Gouging Claw|Gouging Claw]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

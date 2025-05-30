@@ -58,13 +58,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Iron Command"
-    desc: "`pf2:r` (divine,emotion,mental) **Trigger** An enemy within 15 feet damages Drustan\n* * *\n\n**Effect** Drustan commands the triggering enemy to kneel before him in obedience. If they dare to refuse, they must pay the price in pain and anguish. The triggering enemy and each other enemy within 15 feet of Drustan must choose one of the following options.\n\n*   The enemy kneels, dropping [[Conditions/Prone|Prone]] as a free action.\n*   The enemy refuses, and Drustan deals 4 mental to the enemy (the triggering enemy instead takes 4d6 mental damage and 5 persistent evil damage).\n\nDrustan also deals an additional 2 spirit with his Strikes against the triggering enemy until the end of Drustan's next turn."
+    desc: "`pf2:r` (divine,emotion,mental) **Trigger** An enemy within 15 feet damages Drustan\n* * *\n\n**Effect** Drustan commands the triggering enemy to kneel before him in obedience. If they dare to refuse, they must pay the price in pain and anguish. The triggering enemy and each other enemy within 15 feet of Drustan must choose one of the following options.\n\n*   The enemy kneels, dropping [[Conditions/Prone|Prone]] as a free action.\n*   The enemy refuses, and Drustan deals 4 mental damage to the enemy (the triggering enemy instead takes 4d6 mental + 5 persistent spirit damage).\n\nDrustan also deals an additional 2 spirit damage with his Strikes against the triggering enemy until the end of Drustan's next turn."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword +29 (magical, two-hand d12)\n__Damage__  3d8 + 11 slashing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Bastard Sword"
+    desc: "+29 (magical, two-hand d12)\n__Damage__  3d8 + 11 slashing 1d6 bleed"
 
   - name: "Divine Focus Spells"
     desc: "2 Focus Points, DC 31, attack +23; __7th __  _[[Compendium.pf2e.spells-srd.Item.tYP8unoR0a5Dq9EA|Litany of Depravity]]_, _[[Spells/Touch of the Void|Touch of Corruption]]_"

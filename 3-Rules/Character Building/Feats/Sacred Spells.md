@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Hallowed Necromancer Dedication
 * * *
-Add [[Void Warp|Void Warp]], [[Death Ward|Death Ward]], [[Vitality Lash|Vitality Lash]], [[Infuse Vitality|Infuse Vitality]], [[Holy Cascade|Holy Cascade]], [[Magic Stone|Magic Stone]], and [[Sunburst|Sunburst]] to your spell list. These are all necromancy spells for you, even if they normally have a different spell school. You can either prepare these spells or add them to your repertoire just like the spells normally on your tradition's spell list. When you gain this feat, you can retrain existing spells to replace them with ones on this list.
+Add [[Spells/Void Warp|Void Warp]], [[Spells/Death Ward|Death Ward]], [[Spells/Vitality Lash|Vitality Lash]], [[Spells/Infuse Vitality|Infuse Vitality]], [[Spells/Holy Cascade|Holy Cascade]], [[Spells/Magic Stone|Magic Stone]], and [[Spells/Sunburst|Sunburst]] to your spell list. These are all necromancy spells for you, even if they normally have a different spell school. You can either prepare these spells or add them to your repertoire just like the spells normally on your tradition's spell list. When you gain this feat, you can retrain existing spells to replace them with ones on this list.
 
 In addition, your knowledge of the conduits to the Forge of Creation allows you more flexibility with these spells. Choose one of these two benefits.
 

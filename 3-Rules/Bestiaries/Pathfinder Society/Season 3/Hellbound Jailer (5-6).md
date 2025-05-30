@@ -61,19 +61,22 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Crossbow|Crossbow]], [[Equipment/Longsword|Longsword]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], [[Equipment/Manacles (Simple)|Manacles (Simple)]], [[Equipment/Signal Whistle|Signal Whistle]], 20x [[Equipment/Bolts|Bolts]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +14 (unholy, versatile p)\n__Damage__  1d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+14 (unholy, versatile p)\n__Damage__  1d8 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +13 (range increment 120 feet, reload 1, unholy)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+13 (range increment 120 feet, reload 1, unholy)\n__Damage__  1d8 + 4 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 20, attack +12; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_"

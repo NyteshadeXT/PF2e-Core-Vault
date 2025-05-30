@@ -61,16 +61,16 @@ abilities_mid:
     desc: "`pf2:r` (rage) **Trigger** A foe within Horba's reach attempts to move away from her\n* * *\n\n**Effect** Horba keeps pace with the triggering foe. Horba Strides up to her Speed, following that foe and keeping it in reach throughout its movement until it stops moving or Horba has moved their full Speed."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +11 (thrown 20 ft., fatal d10)\n__Damage__  1d8 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+11 (thrown 20 ft.)\n__Damage__  1d8 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Cleaver +9 (sweep, thrown 10 ft.)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Ranged** `pf2:1` Cleaver"
+    desc: "+9 (sweep, thrown 10 ft.)\n__Damage__  1d6 + 2 slashing"
 
   - name: "Demonic Strength"
     desc: "  Horba deals an extra 1d8 damage with her tridents, and any trident gains the fatal d10 trait while she is using it (both the extra weapon damage die and the fatal trait have already been included in the trident Strike)."

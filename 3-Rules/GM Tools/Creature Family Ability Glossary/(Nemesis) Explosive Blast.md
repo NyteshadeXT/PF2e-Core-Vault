@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-**Effect** Nemesis causes a @Template\[burst|distance:20\] of explosive energy at a range of up to 200 feet. Choose from acid, cold, electricity, fire, or sonic. Explosive Blast gains that trait, and creatures caught in the area take 14d6 damage of that energy type (DC 33 Reflex check save).
+**Effect** Nemesis causes a 20-foot burst of explosive energy at a range of up to 200 feet. Choose from acid, cold, electricity, fire, or sonic. Explosive Blast gains that trait, and creatures caught in the area take 14d6 damage of that energy type (DC 33 Reflex check save).
 
 *Source: Pathfinder #204: Stage Fright*
 *ORC*

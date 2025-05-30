@@ -55,19 +55,22 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Elven Curve Blade|Elven Curve Blade]], [[Equipment/Hand Crossbow|Hand Crossbow]], [[Equipment/Chain Mail|Chain Mail]], 10x [[Equipment/Bolts|Bolts]], 3x [[Equipment/Lethargy Poison|Lethargy Poison]]"
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Elven Curve Blade +14 (forceful)\n__Damage__  1d8 + 6 slashing plus hampering-slash"
+  - name: "**Melee** `pf2:1` Elven Curve Blade"
+    desc: "+14 (forceful)\n__Damage__  1d8 + 6 slashing plus hampering-slash"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +13 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing plus lethargy-poison"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+13 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing plus lethargy-poison"
 
   - name: "Divine Innate Spells"
     desc: "DC 19, attack +11; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Faerie Fire|Faerie Fire (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"

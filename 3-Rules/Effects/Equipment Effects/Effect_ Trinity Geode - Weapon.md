@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Trinity Geode|Trinity Geode]]
+Granted by [[Equipment/Trinity Geode|Trinity Geode]], [[Equipment/Trinity Geode (Greater)|Trinity Geode (Greater)]], [[Equipment/Trinity Geode (Major)|Trinity Geode (Major)]]
 
-After you cast an earth spell by Activating the _geode_, your Strikes with the weapon deal an additional 1d4 bludgeoning damage until the end of your next turn.
+Your Strikes with the weapon deal additional bludgeoning damage.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

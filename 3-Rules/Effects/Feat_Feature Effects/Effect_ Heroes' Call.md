@@ -16,7 +16,9 @@ license: OGL
 
 
 
+Granted by [[Feats/Heroes' Call|Heroes' Call]]
+
 You gain temporary Hit Points equal to twice your level.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

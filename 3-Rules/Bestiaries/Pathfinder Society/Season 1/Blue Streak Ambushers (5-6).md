@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Falchion +13 (forceful, sweep)\n__Damage__  1d10 + 6 slashing"
+  - name: "**Melee** `pf2:1` Falchion"
+    desc: "+13 (forceful, sweep)\n__Damage__  1d10 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Techno-Junk Railgun +14 (range increment 200 feet, reload 1)\n__Damage__  1d10 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Techno-Junk Railgun"
+    desc: "+14 (range increment 200 feet, reload 1)\n__Damage__  1d10 + 5 piercing"
 
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) The Blue Streak ambusher designates a single creature they can see and hear, or one they're Tracking, as their prey. The ambusher gains a +2 circumstance bonus to Perception checks to Seek the prey and to Survival checks to Track the prey. This effect lasts until the Blue Streak ambusher uses Hunt Prey again."

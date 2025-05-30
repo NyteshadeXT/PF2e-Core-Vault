@@ -62,17 +62,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +20 (agile, trip)\n__Damage__  1d4 + 6 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+20 (agile, trip)\n__Damage__  1d4 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +20 (reach 10 feet)\n__Damage__  1d4 + 6 bludgeoning plus tongue-grab"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+20 (reach 10 feet)\n__Damage__  1d4 + 6 bludgeoning plus tongue-grab"
 
   - name: "Primal Spontaneous Spells"
     desc: "DC 28, attack +20; __5th __ (2 slots) _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_; __4th __ (3 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Summon Elemental|Summon Elemental]]_; __3rd __ (3 slots) _[[Spells/Animal Vision|Animal Vision]]_, _[[Spells/Rune Trap|Glyph of Warding]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __ (3 slots) _[[Spells/Darkness|Darkness]]_, _[[Spells/Water Walk|Water Walk]]_, _[[Spells/Web|Web]]_; __1st __ (3 slots) _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Mending|Mending]]_\n__Cantrips__  __(5th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Consecrate|Consecrate]]_, _[[Spells/Primal Call|Primal Call]]_"
+    desc: "_Consecrate_, _Primal Call_"
 
   - name: "Soul-Shaking Croak"
     desc: "`pf2:2` (sonic) Grouloop utters a powerful croak that deals 6d10 sonic damage to any non-boggard within a 30-foot emanation (DC 27 Fortitude check save).\n\nA creature with the [[Conditions/Frightened|Frightened]] condition that fails its saving throw increases its frightened condition by 1 (on a critical failure, the creature is also [[Conditions/Fleeing|Fleeing]] for as long as it is frightened).\n\nGrouloop can't use Soul-Shaking Croak again for 1d4 rounds."

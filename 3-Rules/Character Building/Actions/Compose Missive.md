@@ -12,7 +12,7 @@ license: OGL
 ---
 # Compose Missive
 
-### [[exploration]][[3-Rules/Rule References/Manipulate]]
+### [[exploration]][[manipulate]]
 
 **Category** interaction; 
 

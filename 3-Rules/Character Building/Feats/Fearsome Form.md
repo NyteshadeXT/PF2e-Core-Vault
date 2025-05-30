@@ -20,7 +20,7 @@ license: ORC
 
 
 
-A fearsome illusion covers you, evoking the terror of the most dangerous animals. You can cast [[Mask of Terror|Mask of Terror]] as a primal innate spell once per day. You can target only yourself, and your appearance is always a monstrous version of yourself.
+A fearsome illusion covers you, evoking the terror of the most dangerous animals. You can cast [[Spells/Mask of Terror|Mask of Terror]] as a primal innate spell once per day. You can target only yourself, and your appearance is always a monstrous version of yourself.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

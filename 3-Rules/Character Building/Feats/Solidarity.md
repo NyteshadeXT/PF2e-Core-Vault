@@ -30,5 +30,5 @@ You bestow some of your own life energies to mend damage. You touch a non-magica
 
 **Special** If you have the [[Feats/Minuscule Mentee|Minuscule Mentee]] feat, you can use Solidarity to heal your familiar.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

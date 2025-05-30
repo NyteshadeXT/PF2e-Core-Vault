@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 (agile, finesse)\n__Damage__  1d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (agile, finesse, unarmed)\n__Damage__  1d8 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Feet +11 ()\n__Damage__  2d8 + 3 bludgeoning plus push"
+  - name: "**Melee** `pf2:1` Feet"
+    desc: "+11 ()\n__Damage__  2d8 + 3 bludgeoning plus push"
 
   - name: "Flammable"
     desc: "  Lagofirs excrete a warm, flammable oil. Any creature that Grapples a lagofir or is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by a lagofir becomes coated in lagofir oil for 10 minutes or until the oil is washed off, which takes 1 minute of vigorous scrubbing. Any time a lagofir or a creature coated in lagofir oil is dealt fire damage, it catches flame, taking 1d6 persistent fire damage."

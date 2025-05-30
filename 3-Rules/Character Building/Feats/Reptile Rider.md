@@ -24,5 +24,5 @@ To you, crocodilians, giant lizards, and dinosaurs are loyal steeds, not monster
 
 _**Note** This feat refers to Nature checks to Handle an Animal. This check does not exist in Pathfinder 2, and so the feat instead gives a bonus to Nature checks to [[Actions/Command an Animal|Command an Animal]]._
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

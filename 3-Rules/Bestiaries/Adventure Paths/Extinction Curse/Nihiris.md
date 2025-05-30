@@ -72,8 +72,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hand +32 (finesse, magical)\n__Damage__  4d10 + 14 void plus terrifying-touch"
+  - name: "**Melee** `pf2:1` Hand"
+    desc: "+32 (finesse, magical)\n__Damage__  4d10 + 14 void plus terrifying-touch"
 
   - name: "Spectral Ripple"
     desc: "  When a banshee Strides at least 10 feet, they're concealed until the start of their next turn."

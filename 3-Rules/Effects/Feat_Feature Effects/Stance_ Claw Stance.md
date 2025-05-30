@@ -17,7 +17,9 @@ license: ORC
 
 
 
-You extend the claws in your hands and focus your attention to take down single targets. The only Strikes you can make are frenzied claw unarmed attacks. These deal 1d6 slashing damage, are in the brawling group, and have the agile, finesse, grapple, unarmed, and versatile piercing traits.
+Granted by [[Actions/Claw Stance|Claw Stance]]
+
+The only Strikes you can make are frenzied claw unarmed attacks. These deal 1d6 slashing damage, are in the brawling group, and have the agile, finesse, grapple, unarmed, and versatile piercing traits.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

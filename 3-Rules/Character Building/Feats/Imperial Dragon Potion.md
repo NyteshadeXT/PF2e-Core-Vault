@@ -26,11 +26,11 @@ During your daily preparations, you can spend 10 minutes to create a variant _en
 
 | Dragon | Effect (Save) |
 | --- | --- |
-| Forest | Insects dealing piercing damage in a @Template\[cone\|distance:15\] (Reflex check) |
-| Sea | Water dealing bludgeoning damage in a @Template\[line\|distance:30\] (Reflex check) |
-| Sky | Lightning dealing electricity damage in a @Template\[line\|distance:30\] (Reflex check) |
-| Sovereign | A psychic roar dealing mental damage in a @Template\[cone\|distance:15\] (Will check) |
-| Underworld | Flames that deal fire damage in a @Template\[cone\|distance:15\] (Reflex check) |
+| Forest | Insects dealing piercing damage in a 15-foot cone (Reflex check) |
+| Sea | Water dealing bludgeoning damage in a 30-foot line (Reflex check) |
+| Sky | Lightning dealing electricity damage in a 30-foot line (Reflex check) |
+| Sovereign | A psychic roar dealing mental damage in a 15-foot cone (Will check) |
+| Underworld | Flames that deal fire damage in a 15-foot cone (Reflex check) |
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

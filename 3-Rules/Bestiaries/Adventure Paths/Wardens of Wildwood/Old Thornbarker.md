@@ -53,8 +53,17 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "Abeyance Rift"
     desc: "  If Old Thornbarker dies unexpectedly before passing on their knowledge in a succession ritual, the amassed lore within their roots and boughs explodes out in a shock wave that deals 8d10 mental damage to creatures within 30 feet (DC 32 Will check save) before dissipating; those who fail also fall [[Conditions/Prone|Prone]]."
 
@@ -64,17 +73,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +25 (reach 15 feet)\n__Damage__  3d10 + 10 bludgeoning plus improved-knockdown"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+25 (reach 15 feet)\n__Damage__  3d10 + 10 bludgeoning plus improved-knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Scamp +22 (splash, thrown 60 ft.)\n__Damage__  4 piercing 4d6 + 10 piercing 4 poison"
+  - name: "**Ranged** `pf2:1` Scamp"
+    desc: "+22 (splash, thrown 60 ft.)\n__Damage__  4d6 + 10 piercing 4 piercing 4 poison"
 
   - name: "Primal Innate Spells"
     desc: "DC 32, attack +24; __6th __  _[[Spells/Tangling Creepers|Tangling Creepers]]_; __3rd __  _[[Spells/Earthbind|Earthbind (At Will)]]_; __2nd __  _[[Spells/Entangling Flora|Entangling Flora]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Memory Maelstrom"
     desc: "`pf2:3` (concentrate,incapacitation,mental,nonlethal,primal) Old Thornbreaker tries to overwhelm foes with a surge of information it has absorbed over its long life. This surge deals 5d6 mental damage to each enemy within 40 feet, who must attempt a DC 32 Will check save.\n* * *\n\n**Critical Success** The creature maintains its composure, takes no damage, and is temporarily immune to Memory Maelstrom for 1 minute.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]] and takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Stunned|Stunned 3]].\n\n**Critical Failure** The creature takes double damage, is [[Conditions/Confused|Confused]] for 2d4 rounds, and is stunned 3."
+
+  - name: "[[Bestiary Ability Glossary/Improved Knockdown|Improved Knockdown]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature as a free action. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +15 (forceful, magical, sweep)\n__Damage__  2d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+15 (forceful, magical, sweep)\n__Damage__  2d6 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +12 (range increment 120 feet, reload 1)\n__Damage__  2d8 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+12 (range increment 120 feet, reload 1)\n__Damage__  2d8 + 4 piercing"
 
   - name: "Smite Divine"
     desc: "  The scimitars of the Pure Legion have been enchanted specifically to take down divine spellcasters. Melee Strikes against clerics, champions, and other creatures capable of casting divine spells do an additional 2d6 mental damage."

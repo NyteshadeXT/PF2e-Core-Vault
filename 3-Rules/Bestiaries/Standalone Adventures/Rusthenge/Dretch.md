@@ -57,6 +57,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Light Mace|Light Mace]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Sloth"
     desc: "  At the start of each of the dretch's turns, roll 1d4. The result is the number of actions the dretch regains that turn (maximum 3).\n\nEffects like the [[Conditions/Slowed|Slowed]] condition can further reduce their number of actions."
 
@@ -65,20 +68,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (magical, unholy)\n__Damage__  1d8 + 3 piercing 1d4 spirit"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (magical, unarmed, unholy)\n__Damage__  1d8 + 3 piercing 1d4 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile, magical, unholy)\n__Damage__  1d6 + 3 slashing 1d4 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, magical, unarmed, unholy)\n__Damage__  1d6 + 3 slashing 1d4 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Heated Light Mace +9 (agile, finesse, shove, unholy)\n__Damage__  1d4 fire 1d4 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Heated Light Mace"
+    desc: "+9 (agile, finesse, shove, unholy)\n__Damage__  1d4 fire 1d4 + 5 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 16, attack +8; __3rd __  _[[Spells/Slow|Slow]]_; __1st __  _[[Spells/Fear|Fear]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "Cower"
     desc: "`pf2:1`  The dretch makes itself as small as possible, protecting its vital organs with its limbs. It gains a +4 circumstance bonus to AC but takes a -2 penalty to attack rolls. This lasts until the dretch moves from its current space, falls [[Conditions/Unconscious|Unconscious]], or ends the effect as a free action."

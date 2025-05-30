@@ -63,11 +63,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) Blessing the site where the screaming sulfur was formed and burying whatever dead remain allows the spirits within the screaming sulfur to move on to the afterlife, rendering it inert.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +21 (agile, finesse, magical, reach 15 feet)\n__Damage__  2d8 + 15 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+21 (agile, finesse, magical, reach 15 feet)\n__Damage__  2d8 + 15 void"
 
   - name: "Choke"
     desc: "`pf2:2` (divine,illusion,mental) The screaming sulfur bombards all creatures within its Agonizing Cries aura with visions of death and a feeling of suffocation. Each creature takes 4d6 mental damage (DC 26 Will check save)."

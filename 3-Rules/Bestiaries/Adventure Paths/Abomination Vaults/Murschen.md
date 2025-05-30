@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +20 (agile, finesse, unarmed)\n__Damage__  2d6 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+20 (agile, finesse, unarmed)\n__Damage__  2d6 + 7 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Red Claw +20 (finesse, sweep, unarmed)\n__Damage__  2d10 + 7 slashing"
+  - name: "**Melee** `pf2:1` Red Claw"
+    desc: "+20 (finesse, sweep, unarmed)\n__Damage__  2d10 + 7 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shuriken +20 (agile, range increment 20 feet)\n__Damage__  1d4 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Shuriken"
+    desc: "+20 (agile, range increment 20 feet)\n__Damage__  1d4 + 7 piercing"
 
   - name: "Flurry of Blows"
     desc: "`pf2:1`  **Frequency** once per turn\n* * *\n\n**Effect** Murschen makes two unarmed Strikes. If both hit the same creature, combine their damage for the purposes of resistances and weaknesses. Murschen's multiple attack penalty applies normally to these Strikes."

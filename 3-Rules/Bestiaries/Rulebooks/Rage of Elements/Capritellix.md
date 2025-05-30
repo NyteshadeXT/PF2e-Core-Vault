@@ -53,17 +53,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "Shift Mood"
     desc: "`pf2:1`  The capritellix rotates the segments of their face, changing their personality and demeanor. Until they Shift their Mood again, the capritellix gains a +4 status bonus to a certain skill and to their Will DC against that skill, as well as a specific occult innate spell they can cast at will (9th rank, DC 38).\n\n**Angry** Intimidation, [[Spells/Dominate|Dominate]]\n\n**Gregarious** Performance, [[Spells/Uncontrollable Dance|Uncontrollable Dance]]\n\n**Serene** Diplomacy, [[Spells/Suggestion|Suggestion]]\n\n**Sly** Deception, [[Spells/Warp Mind|Warp Mind]]"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Metal Hand +33 (agile, finesse, magical, reach 15 feet)\n__Damage__  3d8 + 14 bludgeoning plus plentiful-metals,push 1d12 electricity plus plentiful-metals,push"
+  - name: "**Melee** `pf2:1` Metal Hand"
+    desc: "+33 (agile, finesse, magical, reach 15 feet)\n__Damage__  3d8 + 14 bludgeoning plus plentiful-metals,push 1d12 electricity plus plentiful-metals,push"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Eye Beam +33 (electricity, magical, range 120 feet)\n__Damage__  4d12 electricity"
+  - name: "**Ranged** `pf2:1` Eye Beam"
+    desc: "+33 (electricity, magical, range 120 feet)\n__Damage__  4d12 electricity"
 
   - name: "Dual Beams"
     desc: "`pf2:2`  The capritellix makes two eye beam Strikes against different creatures. Their multiple attack penalty doesn't increase until after both Strikes."
@@ -75,7 +78,7 @@ attacks:
     desc: "  **Trigger** A creature starts its turn in the capritellix's melee reach\n* * *\n\n**Effect** The capritellix makes a metal hand Strike against the creature."
 
   - name: "[[Bestiary Ability Glossary/Push|Push 20 feet]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Repository of Knowledge
 
-### [[3-Rules/trait_reference/M/mental]]
+### [[mental]]
 
 **Category** offensive; 
 

@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Starknife +12 (agile, deadly d6, finesse, magical, versatile s)\n__Damage__  2d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Starknife"
+    desc: "+12 (agile, deadly d6, finesse, magical, versatile s)\n__Damage__  2d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Starknife +12 (agile, deadly d6, magical, thrown 20 ft., versatile s)\n__Damage__  2d4 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Starknife"
+    desc: "+12 (agile, deadly d6, magical, thrown 20 ft., versatile s)\n__Damage__  2d4 + 1 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 23, attack +13; __3rd __  _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Holy Light|Holy Light]]_; __2nd __  _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Restoration|Restoration]]_, _[[Spells/Sound Body|Sound Body]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_, _[[Spells/Sure Footing|Sure Footing]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Protection|Protection]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Stabilize|Stabilize]]_"
@@ -73,7 +73,7 @@ attacks:
     desc: "1 Focus Point, DC 21, attack +13; __4th __  _[[Spells/Bit of Luck|Bit of Luck]]_"
 
   - name: "Communal Healing Hands"
-    desc: "  When Abstalar casts heal, he rolls d10s instead of d8s. When he casts heal to heal a single creature other than himself, he regains Hit Points equal to the spell level of the heal spell."
+    desc: "  When Abstalar casts [[Spells/Heal|Heal]], he rolls d10s instead of d8s. When he casts _heal_ to heal a single creature other than himself, he regains Hit Points equal to the spell rank of the _heal_ spell."
  
 ```
 

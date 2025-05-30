@@ -4,7 +4,7 @@ title: "Rotate the Wheel"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.nmgmPqExUZt5u5Wr"
 license: OGL

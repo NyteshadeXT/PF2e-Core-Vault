@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Revitalizing Finisher|Revitalizing Finisher]]
 
-You and all allies within 30 feet gain temporary Hit Points equal to half your level.
+You gain temporary Hit Points.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

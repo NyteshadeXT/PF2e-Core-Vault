@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Reactive Strike"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.KAVf7AmRnbCAHrkT"

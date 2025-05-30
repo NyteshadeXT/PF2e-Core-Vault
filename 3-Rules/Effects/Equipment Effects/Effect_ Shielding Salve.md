@@ -17,13 +17,9 @@ license: ORC
 
 
 
-Granted by [[Shielding Salve|Shielding Salve]]
+Granted by [[Equipment/Shielding Salve|Shielding Salve]]
 
-* * *
-
-Auomatically applied effects:
-
-*   gain a +1 circumstance bonus to AC
+You gain a +1 circumstance bonus to AC.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +10 (sweep)\n__Damage__  1d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+10 (sweep)\n__Damage__  1d8 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 (agile)\n__Damage__  1d8 + 2 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (agile, unarmed)\n__Damage__  1d8 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +10 (deadly d10, range increment 60 feet)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+10 (deadly d10, range increment 60 feet)\n__Damage__  1d6 piercing"
 
   - name: "Pack Attack"
     desc: "  A kholo hunter deals 1d4 extra damage to any creature that's within reach of at least two of the kholo hunter's allies."

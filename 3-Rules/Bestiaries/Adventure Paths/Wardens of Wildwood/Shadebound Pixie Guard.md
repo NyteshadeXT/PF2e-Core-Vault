@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +17 (deadly d8, finesse)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+17 (deadly d8, finesse)\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Longbow +15 (deadly d10, range increment 100 feet, reload 0, volley 20 ft.)\n__Damage__  1d8 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Longbow"
+    desc: "+15 (deadly d10, range increment 100 feet, reload 0, volley 20 ft.)\n__Damage__  1d8 + 6 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 24, attack +16; __4th __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Entangling Flora|Entangling Flora]]_, _[[Spells/Revealing Light|Revealing Light]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_"

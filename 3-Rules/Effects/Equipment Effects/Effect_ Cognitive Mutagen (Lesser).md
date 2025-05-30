@@ -17,17 +17,11 @@ license: ORC
 
 
 
-Granted by [[Cognitive Mutagen (Lesser)|Cognitive Mutagen (Lesser)]]
+Granted by [[Equipment/Cognitive Mutagen (Lesser)|Cognitive Mutagen (Lesser)]]
 
-**Implemented effects**
+**Benefit** You gain a +1 item bonus to Arcana, Crafting, Lore, Occultism, and Society checks and all checks to Recall Knowledge. Your critical failures on Recall Knowledge checks become failures instead.
 
-*   +1 item bonus to Arcana, Crafting, Lore, Occultism and Society checks
-*   +1 item bonus to all Recall Knowledge checks
-*   \-2 penalty to to Athletics and Acrobatics checks
-*   \-2 penalty to weapon and unarmed attacks
-*   Treat Recall Knowledge critical failures as failures
-*   You can carry 2 less Bulk than normal before becoming encumbered
-*   The maximum Bulk you can carry is reduced by 4
+**Drawback** You take a –2 penalty to weapon and unarmed attack rolls, Athletics checks, and Acrobatics checks. You can carry 2 less Bulk than normal before becoming encumbered, and the maximum Bulk you can carry is reduced by 4.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

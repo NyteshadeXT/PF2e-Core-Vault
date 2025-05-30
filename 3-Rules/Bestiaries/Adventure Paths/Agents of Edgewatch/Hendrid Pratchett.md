@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Reaper&#x27;s Lancet Blade +17 (deadly d8, finesse)\n__Damage__  2d6 + 7 piercing plus hunting-spider-venom"
+  - name: "**Melee** `pf2:1` Reaper&#x27;s Lancet Blade"
+    desc: "+17 (deadly d8, finesse)\n__Damage__  2d6 + 7 piercing plus hunting-spider-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Reaper&#x27;s Lancet Sheath +17 (agile, finesse, shove)\n__Damage__  2d4 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Reaper&#x27;s Lancet Sheath"
+    desc: "+17 (agile, finesse, shove)\n__Damage__  2d4 + 7 bludgeoning"
 
   - name: "Prepared Arcane Spells"
     desc: "DC 22, attack +14; __1st __  _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Shield|Shield]]_"

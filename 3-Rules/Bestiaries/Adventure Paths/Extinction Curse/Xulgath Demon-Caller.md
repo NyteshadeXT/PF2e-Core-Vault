@@ -63,17 +63,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spiked Gauntlet +16 (agile, magical)\n__Damage__  2d4 + 4 piercing plus demonic-condemnation"
+  - name: "**Melee** `pf2:1` Spiked Gauntlet"
+    desc: "+16 (agile, magical)\n__Damage__  2d4 + 4 piercing plus demonic-condemnation"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (unarmed)\n__Damage__  2d8 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile)\n__Damage__  2d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, unarmed)\n__Damage__  2d6 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +12 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+12 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Command|Command]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Shield|Shield]]_"

@@ -56,17 +56,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +11 ()\n__Damage__  1d10 + 3 piercing plus push"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+11 (unarmed)\n__Damage__  1d10 + 3 piercing plus push"
 
   - name: "Toss"
     desc: "`pf2:r`  **Requirements** The beheaded's previous action was a horn Strike that dealt damage to its target\n* * *\n\n**Effect** The beheaded tosses its head, attempting to move the target creature into another space within reach of its horns. It rolls an Athletics check check against the target's Fortitude DC. On a failure, the target remains in place."
 
   - name: "[[Bestiary Ability Glossary/Push|Push (10 feet)]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

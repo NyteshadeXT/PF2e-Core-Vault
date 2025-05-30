@@ -27,7 +27,7 @@ license: ORC
 
 **Effect** The ghoul whispers dark thoughts and vile cravings into the creature's ears. The creature must save against the forbidden cravings curse.
 
-**Forbidden Cravings** (curse)
+**Forbidden Cravings** (curse) A creature can still eat and drink while sickened by this curse
 
 **Saving Throw** Will check, using the high spell DC for the ghoul's level
 

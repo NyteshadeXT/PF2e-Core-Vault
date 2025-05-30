@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatclub +15 (backswing, magical, shove)\n__Damage__  2d10 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Greatclub"
+    desc: "+15 (backswing, magical, shove)\n__Damage__  2d10 + 5 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +14 (reach 10 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+14 (reach 10 feet)\n__Damage__ "
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +12 (thrown 20 ft.)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+12 (thrown 20 ft.)\n__Damage__  1d6 + 5 piercing"
 
   - name: "Bounding Leap"
     desc: "`pf2:2`  Globblit [[Actions/Leap|Leaps]] twice; this movement doesn't provoke reactions. If he ends his movement within melee reach of at least one enemy, he can make a melee Strike against that enemy."

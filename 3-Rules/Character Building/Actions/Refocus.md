@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
   - trait/exploration
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.OSefkMgojBLqmRDh"
@@ -13,7 +13,7 @@ license: ORC
 ---
 # Refocus
 
-### [[3-Rules/Rule References/Concentrate]][[exploration]]
+### [[concentrate]][[exploration]]
 
 **Category** interaction; 
 

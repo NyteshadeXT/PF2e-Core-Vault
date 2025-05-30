@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +6 (agile, finesse, versatile s)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+6 (agile, finesse, versatile s)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +6 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+6 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Shoulder Check"
     desc: "`pf2:1`  The angry foolhardy mercenary strides up to their speed and makes an Athletics check to [[Actions/Shove|Shove]] or [[Actions/Trip|Trip]] one adjacent target at the end of their stride."

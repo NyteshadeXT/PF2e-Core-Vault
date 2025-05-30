@@ -50,7 +50,7 @@ attacks:
   - name: ""
 
   - name: "Needle Fall"
-    desc: "`pf2:r` **Trigger** A creature touches any consonite needle\n* * *\n\n**Effect** The needle snaps, and the vibrations resonate with some of the surrounding needles. The falling minerals deal 2d8+7 untyped damage to creatures within a @Template[burst|distance:5] surrounding the triggering individual (DC 22 Reflex check save). The needle fall doesn't involve every consonite growth within these squares, so can be triggered again from the same location."
+    desc: "`pf2:r` **Trigger** A creature touches any consonite needle\n* * *\n\n**Effect** The needle snaps, and the vibrations resonate with some of the surrounding needles. The falling minerals deal 2d8+7 untyped damage to creatures within a 5-foot burst surrounding the triggering individual (DC 22 Reflex check save). The needle fall doesn't involve every consonite growth within these squares, so can be triggered again from the same location."
 
 
 

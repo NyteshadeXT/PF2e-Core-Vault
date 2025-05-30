@@ -13,7 +13,7 @@ license: ORC
 ---
 # Draconic Arrogance
 ## Feat 1
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

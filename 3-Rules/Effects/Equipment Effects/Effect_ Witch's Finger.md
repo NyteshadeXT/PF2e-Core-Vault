@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Witch's Finger|Witch's Finger]]
+Granted by [[Equipment/Witch's Finger|Witch's Finger]]
 
 You gain cold resistance 3.
 

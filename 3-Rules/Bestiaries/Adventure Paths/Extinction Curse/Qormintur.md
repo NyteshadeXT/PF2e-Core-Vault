@@ -68,17 +68,20 @@ abilities_mid:
   - name: "Juggernaut"
     desc: "  When Qormintur rolls a success on a Fortitude save, she gets a critical success instead."
 
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +32 (agile, finesse, mental, versatile s)\n__Damage__  3d6 + 11 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+32 (agile, finesse, mental, versatile s)\n__Damage__  3d6 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Flask +32 (range increment 60 feet, splash)\n__Damage__  7 acid 3d6 acid 9 acid"
+  - name: "**Ranged** `pf2:1` Acid Flask"
+    desc: "+32 (range increment 60 feet, splash)\n__Damage__  7 acid 3d6 acid 9 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire +32 (range increment 60 feet, splash)\n__Damage__  3d8 + 6 fire 3 fire 9 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire"
+    desc: "+32 (range increment 60 feet, splash)\n__Damage__  3d8 + 6 fire 3 fire 9 fire"
 
   - name: "Occult Innate Spells"
     desc: "DC 35, attack +27; __4th __  _[[Spells/Invisibility|Invisibility (Self Only)]]_; __2nd __  _[[Spells/Enlarge|Enlarge (Self Only)]]_"

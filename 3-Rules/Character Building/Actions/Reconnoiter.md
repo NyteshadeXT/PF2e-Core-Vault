@@ -4,14 +4,14 @@ title: "Reconnoiter"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.QIrJJ1pl4H6DctaQ"
 license: OGL
 ---
 # Reconnoiter
 
-### [[3-Rules/Rule References/Concentrate]]
+### [[concentrate]]
 
 **Category** interaction; 
 

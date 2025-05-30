@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/mental
   - trait/occult
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.GgmLWLBLGaFvunTS"
 license: OGL
 ---
 # (Vampire, Vetalarana, Basic) Thoughtsense 100 feet
 
-### [[3-Rules/trait_reference/M/mental]][[occult]]
+### [[mental]][[occult]]
 
 **Category** interaction; 
 

@@ -24,5 +24,5 @@ license: ORC
 
 **Effect** Stride or Step, and then enter a different elemental stance from the one you're currently in.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

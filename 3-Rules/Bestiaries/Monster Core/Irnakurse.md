@@ -55,20 +55,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 (reach 10 feet)\n__Damage__  2d12 + 11 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (reach 10 feet, unarmed)\n__Damage__  2d12 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +20 (agile, reach 20 feet)\n__Damage__  2d8 + 11 slashing plus mind-lash"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+20 (agile, reach 20 feet, unarmed)\n__Damage__  2d8 + 11 slashing plus mind-lash"
 
   - name: "Mind Lash"
     desc: " (emotion,mental,occult) A creature hit by an irnakurse's tentacle is overwhelmed with corrupted images of a ruined life and must succeed at a DC 28 Will check save or be [[Conditions/Stunned|Stunned 2]] (or [[Conditions/Stunned|Stunned 4]] on a critical failure). After attempting this save, the creature is temporarily immune to mind lash for 24 hours."
 
   - name: "Soul Scream"
-    desc: "`pf2:2` (auditory,concentrate,emotion,mental,occult) **Frequency** once per day\n* * *\n\n**Effect** The irnakurse unleashes an alien shriek of nightmarish horror and pain. All non-aberration creatures within a @Template[emanation|distance:10] must attempt a DC 28 Will check save.\n\nThe irnakurse can Sustain Soul Scream for up to 6 rounds; each time it does, it repeats the effect without a new save.\n* * *\n\n**Critical Success** The creature is unaffected, and it's temporarily immune to Soul Scream for 24 hours.\n\n**Success** The creature is [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Failure** The creature is stupefied 1. Further failed saves against Soul Scream increase the stupefied value by 1, to a maximum of [[Conditions/Stupefied|Stupefied 4]]. Each time the character gets a full night's rest, the stupefied condition gained from Soul Scream decreases by 1.\n\n**Critical Failure** As failure, except the stupefied value increases by 2 instead of by 1."
+    desc: "`pf2:2` (auditory,concentrate,emotion,mental,occult) **Frequency** once per day\n* * *\n\n**Effect** The irnakurse unleashes an alien shriek of nightmarish horror and pain. All non-aberration creatures within a 10-foot emanation must attempt a DC 28 Will check save.\n\nThe irnakurse can Sustain Soul Scream for up to 6 rounds; each time it does, it repeats the effect without a new save.\n* * *\n\n**Critical Success** The creature is unaffected, and it's temporarily immune to Soul Scream for 24 hours.\n\n**Success** The creature is [[Conditions/Stupefied|Stupefied 1]] for 1 round.\n\n**Failure** The creature is stupefied 1. Further failed saves against Soul Scream increase the stupefied value by 1, to a maximum of [[Conditions/Stupefied|Stupefied 4]]. Each time the character gets a full night's rest, the stupefied condition gained from Soul Scream decreases by 1.\n\n**Critical Failure** As failure, except the stupefied value increases by 2 instead of by 1."
 
   - name: "Storm of Tentacles"
-    desc: "  The irnakurse makes up to four tentacle Strikes, each against a different target. These attacks count toward the irnakurse's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all of its attacks."
+    desc: "`pf2:2`  The irnakurse makes up to four tentacle Strikes, each against a different target. These attacks count toward the irnakurse's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all of its attacks."
  
 ```
 

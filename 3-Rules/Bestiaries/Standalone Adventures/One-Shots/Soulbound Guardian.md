@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 (agile, finesse, magical)\n__Damage__  2d8 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (agile, finesse, magical, unarmed)\n__Damage__  2d8 + 5 bludgeoning"
 
   - name: "Mannequin"
     desc: "`pf2:1` (concentrate) Until the next time it acts, the soulbound guardian appears to be a harmless mannequin. It has an automatic result of 30 on Deception checks and DCs to pass as a mannequin."

@@ -41,7 +41,7 @@ perception:
 languages: "Aklo; speak with animals (rabbits only); telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Stealth: +12, Survival: +11, Thievery: +16, Dreamlands Lore: +10, Stealth: +12, Survival: +11, Thievery: +16"
+    desc: "Stealth: +12, Survival: +11, Thievery: +16, Dreamlands Lore: +10"
 abilityMods: [2, 5, 2, 0, 4, 1]
 speed: 60 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -69,8 +69,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +15 (agile, finesse)\n__Damage__  2d6 + 4 bludgeoning plus deep-dream-membrane"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+15 (agile, finesse)\n__Damage__  2d6 + 4 bludgeoning plus deep-dream-membrane"
 
   - name: "Occult Innate Spells"
     desc: "DC 22, attack +14; __2nd __  _[[Spells/Speak with Animals|Speak with Animals (Constant, Rabbits Only)]]_"

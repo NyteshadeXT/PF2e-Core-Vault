@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Everyone's A Suspect"
+title: "Everyone's a Suspect"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/investigator
@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.w4dijKncXx0ssBOQ"
 license: ORC
 ---
-# Everyone's A Suspect
+# Everyone's a Suspect
 ## Feat 20
 ### [[investigator]]
 

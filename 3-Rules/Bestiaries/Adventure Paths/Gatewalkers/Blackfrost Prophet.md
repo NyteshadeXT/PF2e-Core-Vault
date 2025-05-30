@@ -55,19 +55,25 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Halberd|+1 Striking Halberd]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "[[Creature Family Ability Glossary/(Blackfrost Dead) Ice Climb|Ice Climb 30 feet]]"
     desc: "  The blackfrost dead can climb on ice as though it had the listed climb Speed. It ignores difficult terrain and greater difficult terrain from ice and snow and doesn't risk falling when crossing ice."
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Halberd +21 (magical, reach 10 feet, versatile s)\n__Damage__  2d10 + 10 piercing"
+  - name: "**Melee** `pf2:1` Halberd"
+    desc: "+21 (magical, reach 10 feet, versatile s)\n__Damage__  2d10 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horns +21 (agile)\n__Damage__  2d6 + 6 bludgeoning plus blackfrost 2d6 cold plus blackfrost"
+  - name: "**Melee** `pf2:1` Horns"
+    desc: "+21 (agile)\n__Damage__  2d6 + 6 bludgeoning plus blackfrost 2d6 cold plus blackfrost"
 
   - name: "[[Creature Family Ability Glossary/(Blackfrost Dead) Blackfrost|Blackfrost]]"
     desc: " (cold,curse,disease,occult) This affliction can't be reduced below stage 1, nor the damage from it healed, until successfully treated with [[Spells/Cleanse Affliction|Cleanse Affliction]] or a similar effect; the affliction can then be removed as a normal disease. A creature that dies from cold damage while cursed with blackfrost rises as a blackfrost dead after 24 hours. Blackfrost has a counteract rank of 10.\n\n**Saving Throw** DC 27 Fortitude check\n\n**Stage 1** 4d6 cold (1 minute)\n\n**Stage 2** weakness to cold 5 and [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 3** weakness to cold 10 and [[Conditions/Drained|Drained 2]] (1 day)"
@@ -76,7 +82,7 @@ attacks:
     desc: "`pf2:2` (mental,occult) The blackfrost prophet concentrates on a creature within 60 feet, filling the target's mind with befuddling susurrations. The creature must succeed at a DC 28 Will check save or take 4d8+8 mental and become [[Conditions/Stupefied|Stupefied 1]] for 1 minute ([[Conditions/Stupefied|Stupefied 2]] on a critical failure). The creature is [[Conditions/Slowed|Slowed 1]] as long as it's stupefied."
 
   - name: "Raise Blackfrost"
-    desc: "`pf2:2` (cold,occult) The blackfrost prophet selects a point within 60 feet, then calls upon shards of blackfrost to stab up through the crust in a @Template[burst|distance:30]. Creatures in the area take 2d8 piercing damage plus 2d8 cold (DC 28 Reflex check). A creature that takes cold damage from this ability is exposed to blackfrost. Until the next time the blackfrost prophet uses Raise Blackfrost, the affected area is difficult terrain."
+    desc: "`pf2:2` (cold,occult) The blackfrost prophet selects a point within 60 feet, then calls upon shards of blackfrost to stab up through the crust in a 30-foot burst. Creatures in the area take 2d8 piercing damage plus 2d8 cold (DC 28 Reflex check). A creature that takes cold damage from this ability is exposed to blackfrost. Until the next time the blackfrost prophet uses Raise Blackfrost, the affected area is difficult terrain."
  
 ```
 

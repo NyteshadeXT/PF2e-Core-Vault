@@ -58,17 +58,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 (finesse)\n__Damage__  2d8 + 5 piercing plus scalathrax-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (finesse, unarmed)\n__Damage__  2d8 + 5 piercing plus scalathrax-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Leg Quill +13 (range increment 20 feet)\n__Damage__  2d4 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Leg Quill"
+    desc: "+13 (range increment 20 feet)\n__Damage__  2d4 + 5 piercing"
 
   - name: "Scalathrax Venom"
     desc: " (poison) **Saving Throw** DC 21 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 2** clumsy 1 and [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 3** clumsy 1 and [[Conditions/Slowed|Slowed 2]] (1 round)"
 
   - name: "Spray Toxic Oil"
-    desc: "`pf2:2` (primal) The scalathrax disgorges a gout of toxic oil from its mouth in a @Template[cone|distance:15]. Creatures in the area must attempt a DC 21 Reflex check save.\n\nThe scalathrax can't use Toxic Oil Spray again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 1d8 poison damage.\n\n**Failure** The creature takes 2d8 poison damage. For 1 minute, the creature gains weakness to fire 5, and whenever the creature critically fails with an attack roll with a wielded weapon, it drops the weapon.\n\n**Critical Failure** As failure, but 4d8 poison damage.\n\n[[Bestiary Effects/Effect_ Spray Toxic Oil|Effect: Spray Toxic Oil]]"
+    desc: "`pf2:2` (primal) The scalathrax disgorges a gout of toxic oil from its mouth in a 15-foot cone. Creatures in the area must attempt a DC 21 Reflex check save.\n\nThe scalathrax can't use Toxic Oil Spray again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 1d8 poison damage.\n\n**Failure** The creature takes 2d8 poison damage. For 1 minute, the creature gains weakness to fire 5, and whenever the creature critically fails with an attack roll with a wielded weapon, it drops the weapon.\n\n**Critical Failure** As failure, but 4d8 poison damage.\n\n[[Bestiary Effects/Effect_ Spray Toxic Oil|Effect: Spray Toxic Oil]]"
  
 ```
 

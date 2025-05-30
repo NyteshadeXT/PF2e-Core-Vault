@@ -16,7 +16,9 @@ license: OGL
 
 
 
+Granted by [[Feats/Energize Wings|Energize Wings]]
+
 You gain a fly Speed of 30 feet.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Retract Body"
@@ -60,17 +63,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +19 (magical, reach 10 feet)\n__Damage__  2d8 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+19 (magical, reach 10 feet, unarmed)\n__Damage__  2d8 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +19 (agile, magical)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+19 (agile, magical, unarmed)\n__Damage__  2d6 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +17 (magical, reach 15 feet)\n__Damage__  1d10 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+17 (magical, reach 15 feet)\n__Damage__  1d10 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mental Blast +18 (mental, range 100 feet)\n__Damage__  3d6 + 3 mental"
+  - name: "**Ranged** `pf2:1` Mental Blast"
+    desc: "+18 (mental, range 100 feet)\n__Damage__  3d6 + 3 mental"
 
   - name: "Occult Innate Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Mind Reading|Mind Reading (At Will)]]_, _[[Spells/Rewrite Memory|Rewrite Memory]]_; __1st __  _[[Spells/Charm|Charm (At Will)]]_"
@@ -79,7 +82,7 @@ attacks:
     desc: " (manipulate,occult,polymorph) **Frequency** once per day\n* * *\n\n**Effect** The dragon conjures a perfect flesh-suit replica of a humanoid they've seen of their size or smaller and compresses themself into it, along with generating appropriate clothing for the humanoid. This process takes 1 minute to complete, during which the dragon is [[Conditions/Off-Guard|Off-Guard]]. If the dragon stops or is interrupted in this process, the suit is destroyed. Once the process is complete, the dragon can remain in this disguise indefinitely.\n\nThe transformation has the effects of [[Bestiary Ability Glossary/Change Shape|Change Shape]], except that the disguise is not actively magical in nature and doesn't register as magical to detect magic and similar effects. The dragon loses Retract Body while transformed.\n\nIf the dragon is critically hit while wearing the disguise, the suit is destroyed and immediately explodes. This has the effects of Detonate Disguise, except that creatures use the outcome one degree of success better than they rolled on their save."
 
   - name: "Detonate Disguise"
-    desc: "`pf2:2` (occult) **Requirements** The dragon is wearing their conjured disguise\n* * *\n\n**Effect** The dragon erupts from the disguise, destroying it. The explosive revelation deals 9d6 bludgeoning damage to creatures in a @Template[emanation|distance:5] with a DC 26 Reflex check save. A creature that fails its save is [[Conditions/Dazzled|Dazzled]] for 1 round as it becomes covered in scraps from the disguise.\n\nAny creature sharing a space with the dragon after they erupt is pushed into the nearest empty space."
+    desc: "`pf2:2` (occult) **Requirements** The dragon is wearing their conjured disguise\n* * *\n\n**Effect** The dragon erupts from the disguise, destroying it. The explosive revelation deals 9d6 bludgeoning damage to creatures in a 5-foot emanation with a DC 26 Reflex check save. A creature that fails its save is [[Conditions/Dazzled|Dazzled]] for 1 round as it becomes covered in scraps from the disguise.\n\nAny creature sharing a space with the dragon after they erupt is pushed into the nearest empty space."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon makes two claw Strikes and one tail Strike in any order."
@@ -91,7 +94,7 @@ attacks:
     desc: "`pf2:3` (concentrate,manipulate,occult,polymorph) **Frequency** once per hour\n* * *\n\n**Effect** Using the aid of magic and an exhausting amount of effort, the dragon quickly reshapes their body into the form of a generic humanoid figure. This has the effects of [[Spells/Humanoid Form|Humanoid Form]] except that it lasts only 1 minute, and the dragon doesn't gain the +4 status bonus to Deception as the transformation makes use of the dragon's body to crudely mimic a humanoid form. The dragon can Dismiss the effect.\n\nWhenever the effect ends, the dragon leaves behind scraps of magically conjured flesh, which could give away the dragon's presence."
 
   - name: "Smoke Breath"
-    desc: "`pf2:2` (occult,poison) The dragon unleashes a noxious cloud of smoke that deals 7d6 poison damage in a @Template[cone|distance:40] (DC 26 Fortitude check save). The smoke remains for 1 minute. This has the effects of [[Spells/Mist|Mist]], except it fills the cone's area.\n\nThe dragon can't use Smoke Breath again for 1d4 rounds."
+    desc: "`pf2:2` (occult,poison) The dragon unleashes a noxious cloud of smoke that deals 7d6 poison damage in a 40-foot cone (DC 26 Fortitude check save). The smoke remains for 1 minute. This has the effects of [[Spells/Mist|Mist]], except it fills the cone's area.\n\nThe dragon can't use Smoke Breath again for 1d4 rounds."
 
   - name: "Sneak Attack"
     desc: "  The dragon's Strikes deal an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] targets."

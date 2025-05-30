@@ -59,17 +59,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vine +23 (finesse, reach 15 feet, trip)\n__Damage__  2d8 + 11 bludgeoning plus drain-luck"
+  - name: "**Melee** `pf2:1` Vine"
+    desc: "+23 (finesse, reach 15 feet, trip)\n__Damage__  2d8 + 11 bludgeoning plus drain-luck"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Staccato Blast +23 (range 60 feet, sonic)\n__Damage__  6d6 sonic"
+  - name: "**Ranged** `pf2:1` Staccato Blast"
+    desc: "+23 (range 60 feet, sonic)\n__Damage__  6d6 sonic"
 
   - name: "Drain Luck"
-    desc: " (mental,misfortune,primal) A creature other than an animal or plant hit by an oppali's vine Strike must attempt a DC 29 Fortitude check saving throw twice, taking the lower result as the actual result.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Drain Luck for 24 hours.\n\n**Success** The creature takes 2d6 poison damage. Until the start of the creature's next turn, the creature must roll twice and take the worse result on all checks.\n\n**Failure** The creature takes 2d6 persistent poison damage. For 1 round, the creature must roll twice and take the worse result on all checks.\n\n**Critical Failure** The creature takes 4d6 persistent poison damage. For 1 minute, the creature must roll twice and take the worse result on all checks."
+    desc: " (mental,misfortune,primal) A creature other than an animal or plant hit by an oppali's vine Strike must attempt a DC 29 Fortitude check saving throw twice, taking the lower result as the actual result.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Drain Luck for 24 hours.\n\n**Success** The creature takes 2d6 poison damage. Until the start of the creature's next turn, the creature must roll twice and take the worse result on all checks.\n\n[[Bestiary Effects/Effect_ Drain Luck (Success)|Effect: Drain Luck (Success)]]\n\n**Failure** The creature takes 2d6 persistent poison damage. For 1 round, the creature must roll twice and take the worse result on all checks.\n\n[[Bestiary Effects/Effect_ Drain Luck (Failure)|Effect: Drain Luck (Failure)]]\n\n**Critical Failure** The creature takes 4d6 persistent poison damage. For 1 minute, the creature must roll twice and take the worse result on all checks.\n\n[[Bestiary Effects/Effect_ Drain Luck (Critical Failure)|Effect: Drain Luck (Critical Failure)]]"
 
   - name: "Trumpet Blast"
-    desc: "`pf2:2` (primal,sonic) The oppali emits a massive blast of discordant noise that deals 9d8 sonic damage to creatures within a @Template[cone|distance:60] (DC 29 Fortitude check). Creatures who fail the save are also [[Conditions/Deafened|Deafened]] for 1 round. The oppali can't use its Trumpet Blast again for 1d4 rounds or until it takes at least 20 points of sonic damage from a single source (whichever comes first)."
+    desc: "`pf2:2` (primal,sonic) The oppali emits a massive blast of discordant noise that deals 9d8 sonic damage to creatures within a 60-foot cone (DC 29 Fortitude check). Creatures who fail the save are also [[Conditions/Deafened|Deafened]] for 1 round. The oppali can't use its Trumpet Blast again for 1d4 rounds or until it takes at least 20 points of sonic damage from a single source (whichever comes first)."
  
 ```
 

@@ -54,7 +54,7 @@ abilities_top:
   - name: "Items"
     desc: "3x [[Equipment/Dagger|Dagger]], [[Equipment/Slime Whip|Slime Whip]], [[Equipment/Studded Leather Armor|+1 Studded Leather Armor]]"
   - name: "Keen Eyes"
-    desc: "  Paga gains a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] creatures within 30 feet of her.\n\nWhen she targets an opponent that is [[Conditions/Concealed|Concealed]] from her or hidden, she reduces the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
+    desc: "  Paga gains a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] creatures within 30 feet of her.\n\nWhen she targets an opponent that is [[Conditions/Concealed|Concealed]] from her or hidden, she reduces the DC of the flat check to DC 3 Flat check for a concealed target or DC 9 Flat check for a hidden one."
 
 abilities_mid:
   - name: ""
@@ -64,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Slime Whip +21 (disarm, finesse, reach 10 feet, trip)\n__Damage__  2d4 + 10 slashing"
+  - name: "**Melee** `pf2:1` Slime Whip"
+    desc: "+21 (disarm, finesse, reach 10 feet, trip)\n__Damage__  2d4 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +20 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+20 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +20 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+20 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 10 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 28, attack +21; __5th __ (2 slots) _[[Spells/Command|Command]]_, _[[Spells/Illusory Scene|Illusory Scene]]_; __4th __ (3 slots) _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __3rd __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (3 slots) _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (3 slots) _[[Spells/Alarm|Alarm]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"

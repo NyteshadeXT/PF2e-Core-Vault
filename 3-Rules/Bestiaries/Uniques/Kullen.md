@@ -11,10 +11,8 @@ level: 3
 ---
 
 ```statblock
-columns: 2
-forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Custom Encounter"
+source: "Custom"
 name: "Kullen"
 level: "Creature 3"
 alignment: "CN"

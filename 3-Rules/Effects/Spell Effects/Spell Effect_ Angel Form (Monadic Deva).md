@@ -16,11 +16,9 @@ license: OGL
 
 
 
-Granted by [[Angel Form|Angel Form]]
+Granted by [[Spells/Angel Form|Angel Form]]
 
-Invoking the celestial realms, you transform into a Medium angel battle form. While in this form, you gain the angel and celestial traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
-
-You gain the following statistics and abilities regardless of the form that you choose:
+You transform into a Medium angel battle form. You gain the angel and celestial traits. You have hands in this battle form. You gain the following statistics and abilities regardless of the form that you choose:
 
 *   AC = 22 + your level. Ignore your armor check's penalty and Speed reduction.
 *   40 temporary Hit Points and weakness 10 to unholy.
@@ -31,6 +29,7 @@ You gain the following statistics and abilities regardless of the form that you 
 You also gain specific abilities based on the type of angel you choose:
 
 *   **Monadic Deva** Speed 30 feet, fly 40 feet; +2 status bonus on saves against death effects and effects that manipulate souls;
+    
     *   **Melee** `pf2:1` holy mace (shove), **Damage** 2d6+12 bludgeoning plus 1d6 force and 1d6 spirit.
 
 * * *

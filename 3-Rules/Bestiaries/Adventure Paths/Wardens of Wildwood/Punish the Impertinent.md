@@ -63,7 +63,7 @@ attacks:
     desc: "Lash +23 (reach 15 feet) "
 
   - name: "Improved Grab"
-    desc: "`pf2:0` The monster can use [[Bestiary Ability Glossary/Grab|Grab]] as a free action triggered by a hit with its initial attack. A monster with Improved Grab still needs to spend an action to extend the duration for creatures it already has [[Conditions/Grabbed|Grabbed]]."
+    desc: "`pf2:0` **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
 
   - name: "Routine"
     desc: "(2 actions per shadow tendril) On its turn, each shadow tendril uses 1 action to make a lash Strike against a creature in the area, then uses 1 action to Constrict a creature it has [[Conditions/Grabbed|Grabbed]]. The shadow tendrils don't apply the trap's multiple attack penalty."

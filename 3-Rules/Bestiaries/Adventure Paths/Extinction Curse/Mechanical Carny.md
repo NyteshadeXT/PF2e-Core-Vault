@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spring-loaded Fist +11 (nonlethal, reach 10 feet)\n__Damage__  2d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Spring-loaded Fist"
+    desc: "+11 (nonlethal, reach 10 feet)\n__Damage__  2d4 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Headbutt +11 ()\n__Damage__  2d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Headbutt"
+    desc: "+11 ()\n__Damage__  2d4 + 4 bludgeoning"
  
 ```
 

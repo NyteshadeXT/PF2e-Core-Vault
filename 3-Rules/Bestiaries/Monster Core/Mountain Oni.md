@@ -61,25 +61,25 @@ abilities_mid:
     desc: "  Oni are curiously afraid of beans, especially as the seasons begin to change. If a creature Interacts to throw a handful of beans at the oni, the oni becomes [[Conditions/Frightened|Frightened 2]]. While frightened this way, their weakness to spirit damage is increased by 5. The oni then becomes immune to bean panic for 24 hours."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 (magical, reach 10 feet)\n__Damage__  2d6 + 9 piercing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (magical, reach 10 feet, unarmed)\n__Damage__  2d6 + 9 piercing 1d6 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tetsubo +21 (magical, razing, reach 10 feet, shove, sweep)\n__Damage__  2d10 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Tetsubo"
+    desc: "+21 (magical, razing, reach 10 feet, shove, sweep)\n__Damage__  2d10 + 9 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +17; __2nd __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The mountain oni can take on the appearance of any Medium or Large humanoid creature. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The mountain oni can take on the appearance of any Medium or Large humanoid creature. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Thundering Iron"
-    desc: "`pf2:2`  The oni lifts their tetsubo and brings it down in a deafening peal. They make a tetsubo Strike. On a success, the target takes an additional 1d10 sonic damage.\n\nEach creature in a @Template[emanation|distance:10] around the target, other than the oni, take this damage as well and is pushed 5 feet away from the target."
+    desc: "`pf2:2`  The oni lifts their tetsubo and brings it down in a deafening peal. They make a tetsubo Strike. On a success, the target takes an additional 1d10 sonic damage.\n\nEach creature in a 10-foot emanation around the target, other than the oni, take this damage as well and is pushed 5 feet away from the target."
  
 ```
 

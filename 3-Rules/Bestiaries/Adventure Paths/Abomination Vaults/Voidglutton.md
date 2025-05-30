@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile, finesse)\n__Damage__  1d6 + 2 piercing plus fearful-strike 4d6 force plus fearful-strike"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, finesse, unarmed)\n__Damage__  1d6 + 2 piercing plus fearful-strike 4d6 force plus fearful-strike"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Ectoplasmic Web +20 (range increment 10 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Ectoplasmic Web"
+    desc: "+20 (range increment 10 feet)\n__Damage__ "
 
   - name: "Occult Innate Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Darkness|Darkness (At Will)]]_"
@@ -81,7 +81,7 @@ attacks:
     desc: " (emotion,fear,mental,occult) When the voidglutton damages a creature with its claw Strike, the creature must succeed at a DC 26 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure)."
 
   - name: "Feed on Fear"
-    desc: "`pf2:1` (concentrate) **Frequency** once per round\n\n**Requirement** An enemy is affected by a fear effect or has the frightened or dying condition, and is within 25 feet of the voidglutton\n* * *\n\n**Effect** The voidglutton feeds on the creature's terror. It regains 3d4 Hit Points and its Glow reignites if it had been extinguished.\n\nIt cannot use Consume Light again for 1d4 rounds, as it is too glutted on fear to suppress its Glow."
+    desc: "`pf2:1` (concentrate) **Frequency** once per round\n\n**Requirement** An enemy is affected by a fear effect or has the frightened or dying condition, and is within 25 feet of the voidglutton\n* * *\n\n**Effect** The voidglutton feeds on the creature's terror. It regains 3d4 healing Hit Points and its Glow reignites if it had been extinguished.\n\nIt cannot use Consume Light again for 1d4 rounds, as it is too glutted on fear to suppress its Glow."
 
   - name: "Magic Immunity"
     desc: "  A voidglutton is immune to all spells except [[Spells/Faerie Fire|Faerie Fire]], [[Spells/Revealing Light|Revealing Light]], [[Spells/Force Barrage|Force Barrage]], [[Spells/Quandary|Quandary]], and spells with the light trait."

@@ -24,9 +24,9 @@ license: OGL
 
 * * *
 
-Your Aldori duelist training teaches you martial techniques and increases your dedication to the Aldori dueling sword. You become trained in your choice of Acrobatics or Athletics and in Dueling Lore; if you were already trained, you become an expert instead. Whenever your proficiency rank in any weapon increases to expert or beyond, you also gain that new proficiency rank with Aldori dueling swords. You gain access to [[3-Rules/Character Building/Equipment/A/Aldori Dueling Sword|Aldori Dueling Sword]]
+Your Aldori duelist training teaches you martial techniques and increases your dedication to the Aldori dueling sword. You become trained in your choice of Acrobatics or Athletics and in Dueling Lore; if you were already trained, you become an expert instead. Whenever your proficiency rank in any weapon increases to expert or beyond, you also gain that new proficiency rank with Aldori dueling swords. You gain access to [[Equipment/Aldori Dueling Sword|Aldori Dueling Sword]]
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Aldori Duelist|Aldori Duelist]] archetype.
+[[PF2e Journals/Archetypes/Aldori Duelist|Aldori Duelist]]
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

@@ -63,17 +63,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +9 (agile, finesse, versatile s)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+9 (agile, finesse, versatile s)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +9 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+9 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 15, attack +7; __1st __ (1 slots) _[[Spells/Illusory Disguise|Illusory Disguise]]_"
 
   - name: "Shadow Stride"
-    desc: "`pf2:1` (illusion,occult,shadow) **Requirements** The fetchling is in dim light\n* * *\n\n**Effect** The fetchling Strides. They have a +10-foot status bonus to their Speed during this Stride. The DC from shadow blending increases to 11 during this Stride, and the fetchling remains [[Conditions/Concealed|Concealed]] by dim light until the end of the movement, even if they leave dim light during the Stride."
+    desc: "`pf2:1` (illusion,occult,shadow) **Requirements** The fetchling is in dim light\n* * *\n\n**Effect** The fetchling Strides. They have a +10-foot status bonus to their Speed during this Stride. The DC from shadow blending increases to DC 11 Flat check during this Stride, and the fetchling remains [[Conditions/Concealed|Concealed]] by dim light until the end of the movement, even if they leave dim light during the Stride."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The fetchling scout's Strikes deal an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

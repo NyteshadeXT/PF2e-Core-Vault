@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +26 (agile, finesse)\n__Damage__  3d6 + 9 piercing plus guardian-naga-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+26 (agile, finesse)\n__Damage__  3d6 + 9 piercing plus guardian-naga-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +26 (agile, poison, range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+26 (agile, poison, range increment 30 feet)\n__Damage__ "
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 33, attack +26; __6th __ (4 slots) _[[Spells/Holy Light|Holy Light]]_, _[[Spells/Repulsion|Repulsion]]_, _[[Spells/Spirit Blast|Spirit Blast]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __ (4 slots) _[[Spells/Breath of Life|Breath of Life]]_, _[[Spells/Death Ward|Death Ward]]_, _[[Spells/Flame Strike|Flame Strike]]_, _[[Spells/Heal|Heal]]_; __4th __ (4 slots) _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse]]_, _[[Spells/Restoration|Restoration]]_; __3rd __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Cleanse Affliction|Neutralize Poison]]_, _[[Compendium.pf2e.spells-srd.Item.RneiyehRO6f7LP44|Remove Disease]]_, _[[Spells/Holy Light|Searing Light]]_; __2nd __ (4 slots) _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Restoration|Restoration]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Noise Blast|Sound Burst]]_; __1st __ (4 slots) _[[Spells/Bless|Bless]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Protection|Protection]]_, _[[Spells/Spirit Link|Spirit Link]]_\n__Cantrips__  __(7th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Stabilize|Stabilize]]_"

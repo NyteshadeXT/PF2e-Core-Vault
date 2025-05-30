@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Speak With Bats"
+title: "Speak with Bats"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/sprite
@@ -9,9 +9,9 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.AFXY5eM4IQuo5Ygj"
 license: OGL
 ---
-# Speak With Bats
+# Speak with Bats
 ## Feat 1
-### [[3-Rules/Bestiaries/Bestiary 1/S/Sprite]]
+### [[sprite]]
 
 **Category** ancestry; 
 
@@ -21,5 +21,5 @@ license: OGL
 * * *
 You can ask questions of, receive answers from, and use the Diplomacy skill with bats. You gain a +2 circumstance bonus on all Diplomacy checks to Make an Impression on bats or Request something from bats.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

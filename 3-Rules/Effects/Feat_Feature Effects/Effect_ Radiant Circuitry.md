@@ -18,5 +18,7 @@ license: OGL
 
 Granted by [[Feats/Radiant Circuitry|Radiant Circuitry]].
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+You emit bright light in a 20-foot radius (and dim light for the next 20 feet).
+
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

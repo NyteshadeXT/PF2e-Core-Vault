@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horns +8 ()\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Horns"
+    desc: "+8 ()\n__Damage__  1d6 + 3 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 ()\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (unarmed)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Eat Anything"
     desc: "  If Violet hits with a jaws Strike, he can also deal the same amount of damage to either the target's armor or shield, ignoring 5 points of the item's Hardness."

@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 (magical, unholy)\n__Damage__  1d8 + 4 piercing 1d6 fire"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (magical, unarmed, unholy)\n__Damage__  1d8 + 4 piercing 1d6 fire"
 
   - name: "Hellfire Breath"
-    desc: "`pf2:1` (divine,fire,unholy) The hell hound breathes flames that deal 4d6 fire damage to all creatures in a @Template[cone|distance:15] (DC 19 Reflex check save).\n\nThe hell hound can't use Hellfire Breath again for 1d4 rounds. If the hell hound would take fire damage or be targeted by a fire effect, their Hellfire Breath recharges."
+    desc: "`pf2:1` (divine,fire,unholy) The hell hound breathes flames that deal 4d6 fire damage to all creatures in a 15-foot cone (DC 19 Reflex check save).\n\nThe hell hound can't use Hellfire Breath again for 1d4 rounds. If the hell hound would take fire damage or be targeted by a fire effect, their Hellfire Breath recharges."
 
   - name: "Pack Attack"
     desc: "  The hell hound's Strikes deal 1d4 extra damage to creatures within the reach of at least two of the hell hounds' allies."

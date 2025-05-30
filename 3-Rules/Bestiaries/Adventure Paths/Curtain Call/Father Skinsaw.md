@@ -53,7 +53,10 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "Retribution"
+    desc: "[[Equipment/Retribution|Retribution]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Universal Language"
     desc: "  Anything spoken by the brainchild is perceived by the listener in its native language."
 
@@ -68,8 +71,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Retribution +41 (agile, backstabber, deadly d8, finesse, magical)\n__Damage__  3d4 + 17 slashing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Retribution"
+    desc: "+41 (agile, backstabber, deadly d8, finesse, magical)\n__Damage__  3d4 + 17 slashing 1d6 bleed"
 
   - name: "Occult Innate Spells"
     desc: "DC 41, attack +33; __10th __  _[[Spells/Massacre|Massacre]]_; __9th __  _[[Spells/Phantasmagoria|Phantasmagoria]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __8th __  _[[Spells/Disappearance|Disappearance]]_; __6th __  _[[Spells/Blood Vendetta|Blood Vendetta (At Will)]]_\n__Constant__  __(10th)__ _[[Spells/Truespeech|Truespeech]]_"
@@ -97,4 +100,4 @@ creatures:
 
 Male variant brainchild
 
-A rumor can become so vivid and so persistent that it comes to life, creating a brainchild-a living illusion that hatches from an intense belief in a remorseless and implacable killer. Often, these rumors swirl around the victims of a [[Phantasmal Killer|Phantasmal Killer]] spell. A brainchild's capabilities grow when they pursue a believer but deflate against skeptics, making them only as bad as one thinks they are. A simple drive to stalk, terrify, and kill propels a brainchild, but the creature might also exhibit other behaviors ascribed to them through gossip.
+A rumor can become so vivid and so persistent that it comes to life, creating a brainchild-a living illusion that hatches from an intense belief in a remorseless and implacable killer. Often, these rumors swirl around the victims of a [[Spells/Phantasmal Killer|Phantasmal Killer]] spell. A brainchild's capabilities grow when they pursue a believer but deflate against skeptics, making them only as bad as one thinks they are. A simple drive to stalk, terrify, and kill propels a brainchild, but the creature might also exhibit other behaviors ascribed to them through gossip.

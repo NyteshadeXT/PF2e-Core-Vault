@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Theatrical Mutagen (Greater)|Theatrical Mutagen (Greater)]]
+Granted by [[Equipment/Theatrical Mutagen (Greater)|Theatrical Mutagen (Greater)]]
 
 **Benefit** You gain a +3 item bonus to Acrobatics checks, Crafting checks, and Performance checks. If you're untrained in any of these skills, your proficiency bonus is equal to your level instead of +0. You also gain a +10 feet status bonus to your Speed.
 

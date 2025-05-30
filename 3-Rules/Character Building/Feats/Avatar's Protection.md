@@ -21,7 +21,7 @@ license: ORC
 
 **Trigger** You are critically hit by an enemy.
 
-**Requirements** You have an [[Avatar|Avatar]] spell prepared.
+**Requirements** You have an [[Spells/Avatar|Avatar]] spell prepared.
 
 * * *
 

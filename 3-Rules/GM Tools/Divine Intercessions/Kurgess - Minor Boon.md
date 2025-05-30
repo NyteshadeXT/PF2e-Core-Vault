@@ -18,5 +18,5 @@ license: OGL
 
 The Strong Man blesses you with a measure of his strength. Increase your maximum and encumbered Bulk limits by 2.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

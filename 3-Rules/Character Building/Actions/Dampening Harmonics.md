@@ -12,7 +12,7 @@ license: ORC
 ---
 # Dampening Harmonics `pf2:2`
 
-### [[3-Rules/Rule References/Magical]]
+### [[magical]]
 
 **Category** offensive; 
 

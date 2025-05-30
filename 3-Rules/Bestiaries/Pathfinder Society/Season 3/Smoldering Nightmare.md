@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 (magical, unholy)\n__Damage__  2d8 + 4 piercing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (magical, unarmed, unholy)\n__Damage__  2d8 + 4 piercing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +13 (agile, fire, magical, unholy)\n__Damage__  1d6 + 4 bludgeoning 1d6 spirit 1d6 fire"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+13 (agile, fire, magical, unholy)\n__Damage__  1d6 + 4 bludgeoning 1d6 spirit 1d6 fire"
 
   - name: "Divine Innate Spells"
     desc: "DC 24, attack +16; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self and Rider Only)]]_"

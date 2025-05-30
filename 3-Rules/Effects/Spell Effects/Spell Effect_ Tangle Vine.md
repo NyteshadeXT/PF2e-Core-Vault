@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Tangle Vine|Tangle Vine]]
+Granted by [[Spells/Tangle Vine|Tangle Vine]]
 
-You take a -10-foot circumstance penalty to your Speeds.
+You take a –10-foot circumstance penalty to your Speeds. On a critical success, you are also immobilized.
 
 *Source: Pathfinder Player Core*
 *ORC*

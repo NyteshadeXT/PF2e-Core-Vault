@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +33 (reach 15 feet)\n__Damage__  3d12 + 15 bludgeoning"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+33 (reach 15 feet)\n__Damage__  3d12 + 15 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Root +33 (trip)\n__Damage__  3d10 + 15 bludgeoning"
+  - name: "**Melee** `pf2:1` Root"
+    desc: "+33 (trip)\n__Damage__  3d10 + 15 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 30, attack +22; __8th __  _[[Spells/Chain Lightning|Chain Lightning]]_; __7th __  _[[Spells/Lightning Bolt|Lightning Bolt (x3)]]_"

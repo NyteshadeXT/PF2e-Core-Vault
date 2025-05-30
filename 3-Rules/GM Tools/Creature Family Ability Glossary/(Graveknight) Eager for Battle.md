@@ -4,7 +4,7 @@ title: "(Graveknight) Eager for Battle"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/fortune
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.AkkmaixGqzw75h7W"
 license: OGL

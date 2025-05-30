@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Spells/Musical Shift|Musical Shift]]
+
 **Flat** (key signature) Whenever an enemy critically fails at a Strike, saving throw, or skill check, they fall [[Conditions/Prone|Prone]] in addition to other effects from the critical failure.
 
 **Natural** (key signature) Enemies take a –2 status penalty to attack rolls.

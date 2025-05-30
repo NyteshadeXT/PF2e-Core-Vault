@@ -56,14 +56,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +5 (agile, versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+5 (agile, versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +4 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+4 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Lesser Alchemist&#x27;s Fire +0 (range increment 30 feet)\n__Damage__  1 fire 1d8 - 2 fire 1 fire"
+  - name: "**Ranged** `pf2:1` Lesser Alchemist&#x27;s Fire"
+    desc: "+0 (range increment 30 feet)\n__Damage__  1 fire 1d8 - 2 fire 1 fire"
 
   - name: "Fanatical Frenzy"
     desc: "`pf2:1`  **Requirements** The cultist has taken damage and is neither [[Conditions/Fatigued|Fatigued]] nor already in a frenzy\n* * *\n\n**Effect** The cultist flies into a frenzy that lasts 1 minute. While frenzied, the cultist gains a +1 status bonus to attack rolls and a +2 status bonus to damage rolls, and they take a -2 status penalty to AC. The cultist can't voluntarily stop their frenzy. After their frenzy, the cultist is [[Conditions/Fatigued|Fatigued]].\n\n[[Bestiary Effects/Effect_ Fanatical Frenzy|Effect: Fanatical Frenzy]]"

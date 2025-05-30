@@ -21,5 +21,5 @@ license: OGL
 * * *
 Your wings become stronger, allowing you to fly farther. The fly Speed you gain from [[Feats/Fledgling Flight|Fledgling Flight]] increases to 25 feet.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

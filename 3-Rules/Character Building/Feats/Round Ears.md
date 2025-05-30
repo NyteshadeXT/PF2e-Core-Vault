@@ -22,5 +22,5 @@ Your elven lineage is subtle enough that you look barely different from other hu
 
 **Special** You can take this feat only at 1st level, and you can't retrain out of this feat or into this feat.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

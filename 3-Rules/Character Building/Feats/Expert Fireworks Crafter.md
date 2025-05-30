@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.dDFQJem5K9Jzxgda"
-license: OGL
+license: ORC
 ---
 # Expert Fireworks Crafter
 ## Feat 6
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Firework Technician Dedication; expert in Crafting
 * * *
-You're particularly adept at crafting fireworks, allowing you to create much more powerful fireworks than you otherwise could. Your advanced alchemy level for fireworks increases to your level - 3.
+You're particularly adept at crafting fireworks, allowing you to create more powerful fireworks than you otherwise could. When creating fireworks displays using your advanced alchemy benefits, you create 2 fireworks displays for each of your daily consumables that you expend.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +22 (magical, versatile p)\n__Damage__  2d12 + 14 slashing"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+22 (magical, versatile p)\n__Damage__  2d12 + 14 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 28, attack +18; __5th __  _[[Compendium.pf2e.spells-srd.Item.hkfH9Z53hPzcOwNB|Veil]]_; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Suggestion|Suggestion]]_; __2nd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_"

@@ -8,32 +8,35 @@ tags:
 ---
 
 # 7th-Level Permanent Items
-Table of 7th-Level Permanent Items
+<p>Table of 7th-Level Permanent Items</p>
 
-| 1d135 | result |
+| 1d153 | result |
 |------|--------|
-| 1-6 | [[Moonlit Chain\|Moonlit Chain]] |
-| 7-12 | [[3-Rules/Character Building/Equipment/A/Alacritous Horseshoes\|Horseshoes of Speed]] |
-| 13-18 | [[Spacious Pouch (Type II)\|Bag of Holding (Type II)]] |
-| 19-24 | [[Bottled Air\|Bottled Air]] |
-| 25-30 | [[Decanter of Endless Water\|Decanter of Endless Water]] |
-| 31-36 | [[Wondrous Figurine (Jade Serpent)\|Wondrous Figurine (Jade Serpent)]] |
-| 37-42 | [[Wounding\|Wounding]] |
-| 43-48 | [[undefined]] |
-| 49-54 | [[undefined]] |
-| 55-60 | [[undefined]] |
-| 61-66 | [[undefined]] |
-| 67-72 | [[Spined Shield\|Spined Shield]] |
-| 73-78 | [[Sturdy Shield (Lesser)\|Sturdy Shield (Lesser)]] |
-| 79-84 | [[Magic Wand (3rd-Rank Spell)\|Magic Wand (3rd-Rank Spell)]] |
-| 85-90 | [[Wand of Continuation (2nd-Rank Spell)\|Wand of Continuation (2nd-Rank Spell)]] |
-| 91-93 | [[3-Rules/Character Building/Equipment/A/Aeon Stone (Nourishing)\|Aeon Stone (Clear Spindle)]] |
-| 94-96 | [[3-Rules/Character Building/Equipment/A/Aeon Stone (Delaying)\|Aeon Stone (Tourmaline Sphere)]] |
-| 97-102 | [[Boots of Bounding\|Boots of Bounding]] |
-| 103-108 | [[Cloak of Elvenkind\|Cloak of Elvenkind]] |
-| 109-111 | [[Retrieval Belt\|Gloves of Storing]] |
-| 112-117 | [[Masquerade Scarf (Greater)\|Hat of Disguise (Greater)]] |
-| 118-123 | [[Necklace of Fireballs II\|Necklace of Fireballs II]] |
-| 124-126 | [[Ring of Sustenance\|Ring of Sustenance]] |
-| 127-129 | [[Ring of Wizardry (Type I)\|Ring of Wizardry (Type I)]] |
-| 130-135 | [[Slippers of Spider Climbing\|Slippers of Spider Climbing]] |
+| 1-6 | [[Equipment/Moonlit Chain\|Moonlit Chain]] |
+| 7-12 | [[Equipment/Alacritous Horseshoes\|Alacritous Horseshoes]] |
+| 13-18 | [[Equipment/Bottled Air\|Bottled Air]] |
+| 19-24 | [[Equipment/Eternal Eruption of Blackpeak\|Eternal Eruption of Blackpeak]] |
+| 25-30 | [[Equipment/Spacious Pouch (Type II)\|Spacious Pouch (Type II)]] |
+| 31-36 | [[Equipment/Reinforcing Rune (Lesser)\|Reinforcing Rune (Lesser)]] |
+| 37-42 | [[Equipment/Size-Changing\|Size-Changing]] |
+| 43-48 | [[Equipment/Wounding\|Wounding]] |
+| 49-54 | Cold Iron Buckler (Standard-Grade) |
+| 55-60 | Cold Iron Shield (Standard-Grade) |
+| 61-66 | Silver Buckler (Standard-Grade) |
+| 67-72 | Silver Shield (Standard-Grade) |
+| 73-78 | [[Equipment/Spined Shield\|Spined Shield]] |
+| 79-84 | [[Equipment/Sturdy Shield (Lesser)\|Sturdy Shield (Lesser)]] |
+| 85-90 | [[Equipment/Magic Wand (3rd-Rank Spell)\|Magic Wand (3rd-Rank Spell)]] |
+| 91-96 | [[Equipment/Wand of Continuation (2nd-Rank Spell)\|Wand of Continuation (2nd-Rank Spell)]] |
+| 97-99 | [[Equipment/Aeon Stone (Delaying)\|Aeon Stone (Delaying)]] |
+| 100-102 | [[Equipment/Aeon Stone (Nourishing)\|Aeon Stone (Nourishing)]] |
+| 103-105 | [[Equipment/Aeon Stone (Smoothing)\|Aeon Stone (Smoothing)]] |
+| 106-111 | [[Equipment/Boots of Bounding\|Boots of Bounding]] |
+| 112-117 | [[Equipment/Clawed Bracers\|Clawed Bracers]] |
+| 118-123 | [[Equipment/Cloak of Illusions\|Cloak of Illusions]] |
+| 124-129 | [[Equipment/Masquerade Scarf (Greater)\|Masquerade Scarf (Greater)]] |
+| 130-132 | [[Equipment/Retrieval Belt\|Retrieval Belt]] |
+| 133-135 | [[Equipment/Ring of Sustenance\|Ring of Sustenance]] |
+| 136-141 | [[Equipment/Twisting Twine (Greater)\|Twisting Twine (Greater)]] |
+| 142-147 | [[Equipment/Wand of the Spider (2nd-Rank Spell)\|Wand of the Spider (2nd-Rank Spell)]] |
+| 148-153 | [[Equipment/Spellguard Blade\|Spellguard Blade]] |

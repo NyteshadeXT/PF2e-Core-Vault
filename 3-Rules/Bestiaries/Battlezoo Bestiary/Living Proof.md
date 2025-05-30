@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Paper +5 (nonlethal)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` Paper"
+    desc: "+5 (nonlethal)\n__Damage__  1d4 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Math Bomb +9 (range increment 20 feet, splash)\n__Damage__  1d6 + 3 force"
+  - name: "**Ranged** `pf2:1` Math Bomb"
+    desc: "+9 (range increment 20 feet, splash)\n__Damage__  1d6 + 3 force"
 
   - name: "Arcane Innate Spells"
     desc: "DC 14, attack +6; __1st __  _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(1st)__ _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_"

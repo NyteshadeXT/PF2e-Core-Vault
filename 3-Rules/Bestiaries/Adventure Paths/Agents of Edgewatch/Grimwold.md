@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +28 (magical, versatile p)\n__Damage__  3d8 + 12 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+28 (magical, versatile p)\n__Damage__  3d8 + 12 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +24 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+24 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 6 piercing"
 
   - name: "Dueling Parry"
     desc: "`pf2:1`  As long as he has one free hand, Grimwold can parry attacks against him with his longsword. He gains a +2 circumstance bonus to AC until the start of his next turn as long as his other hand remains free."

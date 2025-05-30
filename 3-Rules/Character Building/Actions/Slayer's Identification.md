@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Slayer's Identification"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.JpcegMRqdizrkG0m"
 license: OGL

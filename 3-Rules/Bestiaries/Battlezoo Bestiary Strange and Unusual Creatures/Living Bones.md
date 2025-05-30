@@ -39,7 +39,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +9, Diplomacy: +8, Society: +5, Acrobatics: +9, Athletics: +9, Diplomacy: +8, Society: +5"
+    desc: "Acrobatics: +9, Athletics: +9, Diplomacy: +8, Society: +5"
 abilityMods: [4, 4, 1, 0, 2, 1]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -73,11 +73,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +11 (versatile p)\n__Damage__  1d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+11 (versatile p)\n__Damage__  1d8 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +11 (agile)\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+11 (agile)\n__Damage__  1d6 + 6 bludgeoning"
 
   - name: "Merciful Strikes"
     desc: " (divine) Living bones' attacks are surrounded by a nimbus of positive energy. Their Strikes deal an extra 1 vitality damage, as the positive energy that animates them is not fully contained. As normal for positive damage, this harms only undead and other creatures with negative healing. Additionally, living bones can make nonlethal attacks without taking the usual –2 circumstance penalty."

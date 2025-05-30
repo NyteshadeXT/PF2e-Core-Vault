@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +23 (magical, versatile p)\n__Damage__  2d12 + 7 slashing"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+23 (magical, versatile p)\n__Damage__  2d12 + 7 slashing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 32, attack +24; __6th __  _[[Spells/Blessed Boundary|Blessed Boundary]]_; __5th __  _[[Spells/Breath of Life|Breath of Life]]_; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Heroism|Heroism]]_; __2nd __  _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Clear Mind|Clear Mind]]_, _[[Spells/Darkvision|Darkvision]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Noise Blast|Noise Blast]]_, _[[Spells/See the Unseen|See the Unseen]]_, _[[Spells/Share Life|Share Life]]_; __1st __  _[[Spells/Bless|Bless]]_, _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Mending|Mending]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Stabilize|Stabilize]]_"

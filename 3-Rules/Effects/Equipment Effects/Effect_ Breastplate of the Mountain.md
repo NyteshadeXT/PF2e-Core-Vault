@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Breastplate of the Mountain|Breastplate of the Mountain]]
+Granted by [[Equipment/Breastplate of the Mountain|Breastplate of the Mountain]]
 
 You gain immunity to poison for 1 minute.
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted when someone uses [[Guidance|Guidance]] on you, rendering you immune to the effect of the spell for the duration.
+Granted when someone uses [[Spells/Guidance|Guidance]] on you, rendering you immune to the effect of the spell for the duration.
 
 *Source: Pathfinder Player Core*
 *ORC*

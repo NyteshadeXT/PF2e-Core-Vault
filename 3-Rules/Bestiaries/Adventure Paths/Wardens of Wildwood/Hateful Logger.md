@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 (agile, nonlethal)\n__Damage__  1d4 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 8 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +14 ()\n__Damage__  1d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+14 ()\n__Damage__  1d6 + 8 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The logger deals 1d6 extra precision damage to creatures who are [[Conditions/Off-Guard|Off-Guard]]."

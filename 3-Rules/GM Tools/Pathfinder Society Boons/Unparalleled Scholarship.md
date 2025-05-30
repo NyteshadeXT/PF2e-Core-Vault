@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Unparalleled Scholarship"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.CW73M2apBaQh6wLm"
 license: OGL
 ---
 # Unparalleled Scholarship
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

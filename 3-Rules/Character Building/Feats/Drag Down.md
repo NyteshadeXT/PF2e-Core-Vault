@@ -24,5 +24,5 @@ Attempt an Athletics check to [[Actions/Grapple|Grapple]] the creature. On a suc
 
 Moving a creature into water or deeper into water using Drag Down is forced movement for the creature but not for you.
 
-*Source: Pathfinder Lost Omens: Absalom, City of Lost Omens*
+*Source: Pathfinder Lost Omens Absalom, City of Lost Omens*
 *OGL*

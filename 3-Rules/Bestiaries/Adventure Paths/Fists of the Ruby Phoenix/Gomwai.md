@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +25 (agile, cold iron, finesse, magical, nonlethal, silver, unarmed)\n__Damage__  2d6 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+25 (agile, cold iron, finesse, magical, nonlethal, silver, unarmed)\n__Damage__  2d6 + 10 bludgeoning"
 
   - name: "Flurry of Blows"
     desc: "`pf2:1` (flourish) Gomwai makes two Strikes with his fist. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses."

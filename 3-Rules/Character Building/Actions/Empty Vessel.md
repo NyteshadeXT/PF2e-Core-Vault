@@ -4,14 +4,14 @@ title: "Empty Vessel"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.fL7FhTBcKxMzLBAs"
 license: OGL
 ---
 # Empty Vessel `pf2:r`
 
-### [[3-Rules/Rule References/Concentrate]]
+### [[concentrate]]
 
 **Category** defensive; 
 

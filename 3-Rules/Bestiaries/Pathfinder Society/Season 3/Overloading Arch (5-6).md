@@ -48,7 +48,7 @@ attacks:
     desc: "`pf2:0` **Trigger** A creature approaches within 10 feet of one of the time rifts\n* * *\n\n**Effect** The triggering creature takes 1d10 electricity damage (DC 25 Reflex check save). The overloading arch rolls initiative."
 
   - name: "Routine"
-    desc: "(4 actions) The trap loses 1 action each turn for each disabled time rift. On each of the trap's actions, the _Eternity Arch_ releases a bolt of lightning that activates that rift, dealing 2d10 electricity damage to all creatures in a @Template[emanation|distance:10] around the time rift (DC 25 Reflex check save). It can release a bolt at each active time rift no more than once each turn."
+    desc: "(4 actions) The trap loses 1 action each turn for each disabled time rift. On each of the trap's actions, the _Eternity Arch_ releases a bolt of lightning that activates that rift, dealing 2d10 electricity damage to all creatures in a 10-foot emanation around the time rift (DC 25 Reflex check save). It can release a bolt at each active time rift no more than once each turn."
 
 ```
 

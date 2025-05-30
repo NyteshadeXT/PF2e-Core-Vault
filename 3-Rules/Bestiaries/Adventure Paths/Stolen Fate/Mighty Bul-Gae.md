@@ -54,8 +54,11 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
   - name: "Shadow Leap"
-    desc: "`pf2:1` (occult,shadow,teleportation) Requirement The bul-gae is in dim light or darkness\n* * *\n\n**Effect** The bul-gae dives into a shadow and reappears from a shadow within 40 feet."
+    desc: "`pf2:1` (occult,shadow,teleportation) **Requirements** The bul-gae is in dim light or darkness\n* * *\n\n**Effect** The bul-gae dives into a shadow and reappears from a shadow within 40 feet."
 
 abilities_mid:
   - name: ""
@@ -63,19 +66,22 @@ abilities_mid:
     desc: " (aura,darkness,occult) 100 feet. Light and shadows morph strangely around the bul-gae. A creature attempting to create a light effect within the aura must attempt a DC 5 Flat check. On a failure, the attempt fails, the effect is lost, and the DC to counteract darkness effects within the aura is increased by 1."
 
   - name: "Solar Flare"
-    desc: "`pf2:r` (fire,occult) **Trigger** The bul-gae takes damage\n* * *\n\n**Effect** The bul-gae releases a solar flare in a @Template[emanation|distance:30]. Each creature in the area takes 6d8 fire damage (DC 38 Reflex check save). On a critical failure, a creature also takes 2d10 persistent fire damage. After using this ability, the bul-gae's flames cool and they can't use Solar Flare again until after they have used Lunar Burst."
+    desc: "`pf2:r` (fire,occult) **Trigger** The bul-gae takes damage\n* * *\n\n**Effect** The bul-gae releases a solar flare in a 30-foot emanation. Each creature in the area takes 6d8 fire damage (DC 38 Reflex check save). On a critical failure, a creature also takes 2d10 persistent fire damage. After using this ability, the bul-gae's flames cool and they can't use Solar Flare again until after they have used Lunar Burst."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +32 (agile)\n__Damage__  3d8 + 17 piercing plus improved-knockdown"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+32 (agile, unarmed)\n__Damage__  3d8 + 17 piercing plus improved-knockdown"
 
   - name: "Lunar Burst"
-    desc: "`pf2:2` (cold,occult) The bul-gae releases a blast of otherworldly frost that deals 6d8 cold damage to each creature in a @Template[emanation|distance:10] (DC 38 Reflex check save). On a critical failure, a creature also becomes [[Conditions/Slowed|Slowed 2]]. After using this ability, the bul-gae's flames heat up and they can't use Lunar Burst again until after they have used Solar Flare."
+    desc: "`pf2:2` (cold,occult) The bul-gae releases a blast of otherworldly frost that deals 6d8 cold damage to each creature in a 10-foot emanation (DC 38 Reflex check save). On a critical failure, a creature also becomes [[Conditions/Slowed|Slowed 2]]. After using this ability, the bul-gae's flames heat up and they can't use Lunar Burst again until after they have used Solar Flare."
 
   - name: "Thermal Mastery"
     desc: "  The bul-gae has total control over the powers of cold and fire. Each time it attacks with its jaws, it can choose to have the additional damage be either cold damage or fire damage."
+
+  - name: "[[Bestiary Ability Glossary/Improved Knockdown|Improved Knockdown]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature as a free action. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

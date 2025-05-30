@@ -33,7 +33,7 @@ perception:
 languages: "Common, Fey; storyspeaker"
 skills:
   - name: "Skills"
-    desc: "Crafting: +9, Diplomacy: +10, Intimidation: +9, Performance: +13, Society: +10, Stealth: +9, Myth Lore: +13, Crafting: +9, Diplomacy: +10, Intimidation: +9, Performance: +13, Society: +10, Stealth: +9"
+    desc: "Crafting: +9, Diplomacy: +10, Intimidation: +9, Performance: +13, Society: +10, Stealth: +9, Myth Lore: +13"
 abilityMods: [1, 4, 2, 3, 3, 4]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shadow Puppet +11 (finesse, magical, shadow)\n__Damage__  1d10 + 3 cold"
+  - name: "**Melee** `pf2:1` Shadow Puppet"
+    desc: "+11 (finesse, magical, shadow)\n__Damage__  1d10 + 3 cold"
 
   - name: "Primal Innate Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Illusory Creature|Illusory Creature (x3)]]_, _[[Spells/Illusory Object|Illusory Object (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Haunting Hymn|Haunting Hymn]]_, _[[Spells/Courageous Anthem|Inspire Courage]]_, _[[Spells/Rallying Anthem|Inspire Defense]]_"

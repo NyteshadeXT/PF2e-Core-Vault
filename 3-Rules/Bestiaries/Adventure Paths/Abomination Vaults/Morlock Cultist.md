@@ -1,4 +1,4 @@
-Barbarian---
+---
 title: "Morlock Cultist"
 obsidianUIMode: preview
 noteType: pf2eMonster
@@ -55,19 +55,22 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Club|Club]]"
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +11 ()\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+11 ()\n__Damage__  1d6 + 5 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 (agile)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (agile, unarmed)\n__Damage__  1d4 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +13 (range increment 10 feet)\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+13 (range increment 10 feet)\n__Damage__  1d6 + 5 bludgeoning"
 
   - name: "Occult Innate Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

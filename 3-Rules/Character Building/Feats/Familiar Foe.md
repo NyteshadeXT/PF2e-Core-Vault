@@ -22,5 +22,5 @@ license: OGL
 * * *
 You regularly face off against undead and can identify many with a glance. You gain a +1 circumstance bonus on skill checks to Recall Knowledge about undead. Whenever you roll a critical failure on a check to Recall Knowledge about undead, you get a failure instead.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

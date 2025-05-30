@@ -54,16 +54,19 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Wavesense|Wavesense (precise) 60 feet]]"
+    desc: "  This sense allows a monster to feel vibrations caused by movement through a liquid. It's an imprecise sense with a limited range (listed in the ability). Wavesense functions only if monster and the subject are in the same body of liquid, and only if the subject is moving through the liquid."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +26 (agile)\n__Damage__  3d6 + 13 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+26 (agile, unarmed)\n__Damage__  3d6 + 13 slashing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +26 ()\n__Damage__  3d10 + 13 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+26 (unarmed)\n__Damage__  3d10 + 13 piercing"
 
   - name: "Aquatic Camouflage"
     desc: "  When fully submerged in water, the drenchdead can Hide from other creatures even if it doesn't have cover against them and isn't [[Conditions/Concealed|Concealed]] from them."
@@ -78,7 +81,7 @@ attacks:
     desc: "  A drenchdead submerged in water has cover from attacks made by creatures out of the water."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

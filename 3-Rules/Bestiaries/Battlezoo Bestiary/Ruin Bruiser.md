@@ -68,11 +68,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shield Boss +18 (magical)\n__Damage__  2d6 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Shield Boss"
+    desc: "+18 (magical)\n__Damage__  2d6 + 9 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +17 (agile, magical)\n__Damage__  1d6 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+17 (agile, magical)\n__Damage__  1d6 + 7 bludgeoning"
 
   - name: "Ruinous March"
     desc: "`pf2:1`  The ruin bruiser Strides up to its Speed, violently pushing back each creature whose space it moves into. A creature can attempt to stop the ruin bruiser by attempting a DC 23 Fortitude save.\n* * *\n\n**Critical Success** The creature stops the ruin bruiser's movement.\n\n**Success** The creature stops the ruin bruiser's movement but takes 1d6+9 bludgeoning damage.\n\n**Failure** The creature is pushed back 5 feet by the ruin bruiser and takes 2d6+9 bludgeoning damage.\n\n**Critical Failure** The creature is pushed back 5 feet by the ruin bruiser and takes 4d6+9 bludgeoning damage."

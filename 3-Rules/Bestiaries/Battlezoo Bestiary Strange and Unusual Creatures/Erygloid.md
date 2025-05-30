@@ -35,7 +35,7 @@ perception:
 languages: "Fey; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Stealth: +6, Acrobatics: +10, Stealth: +6"
+    desc: "Acrobatics: +10, Stealth: +6"
 abilityMods: [4, -5, 5, 1, 1, 1]
 speed: 10 feet,  climb 10 feet,  swim 10 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Toothy Tendril +12 (versatile p)\n__Damage__  1d6 + 5 bludgeoning plus grab,magic-acid"
+  - name: "**Melee** `pf2:1` Toothy Tendril"
+    desc: "+12 (versatile p)\n__Damage__  1d6 + 5 bludgeoning plus grab,magic-acid"
 
   - name: "Magic Acid"
     desc: "  An erygloid's body is covered in a magical acid that eats away at living creatures but is more efficient at digesting magic. On a successful toothy tendril Strike or when a creature fails its save against Constrict, the erygloid deals 1d6 additional acid damage and attempts to counteract one spell affecting the target, or one of the target's magic items, with a counteract modifier of +10 and a counteract level of 2. On a success, the erygloid ends the spell or causes the item to become a mundane item of its type for 10 minutes; this doesn't change the item's non-magical properties. If the chosen item is an artifact or similar item, the counteract check automatically fails. Strangely, an erygloid's magic acid doesn't affect several common mundane materials, specifically including teeth, glass, stone, and metal, which causes shards of these materials to accumulate inside an erygloid's body."

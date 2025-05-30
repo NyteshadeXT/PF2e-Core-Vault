@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rod +21 (backswing, magical, nonlethal, shove)\n__Damage__  2d6 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Rod"
+    desc: "+21 (backswing, magical, nonlethal, shove)\n__Damage__  2d6 + 7 bludgeoning"
 
   - name: "Fighting Rod"
     desc: "  Thiarvo's _[[Equipment/Rod of Wonder|Rod of Wonder]]_ is supple wood and can be used as a [[Equipment/Fighting Stick|Fighting Stick]]. It can be enchanted with fundamental runes but not property runes, and it's currently enchanted with the _[[Equipment/Weapon Potency (+1)|Weapon Potency (+1)]]_ and _[[Equipment/Striking|Striking]]_ runes."

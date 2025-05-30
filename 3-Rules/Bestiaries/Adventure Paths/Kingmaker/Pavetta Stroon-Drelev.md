@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +17 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+17 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +17 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+17 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thrown Object +17 (thrown 10 ft.)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Ranged** `pf2:1` Thrown Object"
+    desc: "+17 (thrown 10 ft.)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Baroness's Scream"
     desc: "`pf2:2` (auditory,emotion,mental) Pavetta attempts a single Intimidation check to [[Actions/Demoralize|Demoralize]] and applies the result to every opponent within 30 feet. Additionally, she automatically alerts any allies within 100 feet that are able to hear her to her need for assistance. The baroness can't Scream for 1 round."

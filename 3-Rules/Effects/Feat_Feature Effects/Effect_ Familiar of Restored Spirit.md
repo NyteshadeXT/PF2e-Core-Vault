@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Familiar Abilities/Familiar of Restored Spirit|Familiar of Restored Spirit]]
 
-When you Cast or Sustain a hex, one willing creature within 15 feet of your familiar gains temporary Hit Points equal to 2 + half your level, which last until the start of your next turn.
+You gain temporary Hit Points equal to 2 + half the caster's level.
 
 *Source: Pathfinder Player Core*
 *ORC*

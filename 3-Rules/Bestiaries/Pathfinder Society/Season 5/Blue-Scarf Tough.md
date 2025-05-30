@@ -56,14 +56,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword +9 (two-hand d12)\n__Damage__  1d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Bastard Sword"
+    desc: "+9 (two-hand d12)\n__Damage__  1d8 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +9 (agile, nonlethal)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+9 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +6 (thrown 10 ft.)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+6 (thrown 10 ft.)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Close-Quarters Fighting"
     desc: "  The blue-scarf tough gains a +3 circumstance bonus to damage rolls against creatures they have [[Conditions/Grabbed|Grabbed]]."

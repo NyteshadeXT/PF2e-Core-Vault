@@ -54,8 +54,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Carving Knife +17 (agile, reach 15 feet)\n__Damage__  2d4 + 7 slashing"
+  - name: "**Melee** `pf2:1` Carving Knife"
+    desc: "+17 (agile, reach 15 feet)\n__Damage__  2d4 + 7 slashing"
 
   - name: "Part of the Architecture"
     desc: "`pf2:1` (concentrate) **Requirements** The mechanical maître d' is in an urban environment;\n\n**Effect** Thanks to some trick of construction or magic, the mechanical maître d' blends in seamlessly with urban environments. Until the next time it acts, the mechanical maître d' appears to be a nondescript bust, pillar, or other part of the environment. It has an automatic result of 25 on Deception checks and DCs to pass as a part of the architecture."

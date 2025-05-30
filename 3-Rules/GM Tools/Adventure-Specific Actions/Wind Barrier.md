@@ -12,7 +12,7 @@ license: ORC
 ---
 # Wind Barrier `pf2:1`
 
-### [[3-Rules/trait_reference/A/air]]
+### [[air]]
 
 **Category** offensive; 
 

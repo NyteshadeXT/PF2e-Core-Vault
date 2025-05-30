@@ -25,5 +25,5 @@ Your skill in combining fist and blade has grown into a seamless art where each 
 *   When you successfully Strike an opponent with this weapon, it's [[Conditions/Off-Guard|Off-Guard]] to the next Strike you make against it with a fist unarmed attack before the end of your next turn.
 *   When you successfully Strike an opponent with your fist unarmed attack, it's off-guard to the next Strike you make against it with a one-handed, agile, or finesse melee weapon before the end of your next turn.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

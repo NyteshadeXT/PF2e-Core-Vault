@@ -8,36 +8,42 @@ tags:
 ---
 
 # 8th-Level Permanent Items
-Table of 8th-Level Permanent Items
+<p>Table of 8th-Level Permanent Items</p>
 
-| 1d169 | result |
+| 1d172 | result |
 |------|--------|
 | 1-6 | Magic Armor (+1 Resilient) |
-| 7-12 | [[Collar of Inconspicuousness\|Collar of Inconspicuousness]] |
-| 13 | [[3-Rules/Character Building/Equipment/R/Rod of Wonder\|Rod of Wonder]] |
-| 14-19 | [[Corrosive\|Corrosive]] |
-| 20-25 | [[Energy-Resistant\|Energy-Resistant]] |
-| 26-31 | [[Flaming\|Flaming]] |
-| 32-37 | [[Frost\|Frost]] |
-| 38-43 | [[3-Rules/Character Building/Equipment/I/Invisibility\|Invisibility]] |
-| 44-49 | [[Resilient\|Resilient]] |
-| 50-55 | [[Shock\|Shock]] |
-| 56-61 | [[Slick (Greater)\|Slick (Greater)]] |
-| 62-67 | [[Thundering\|Thundering]] |
-| 68-73 | [[undefined]] |
-| 74-79 | [[undefined]] |
-| 80-85 | [[undefined]] |
-| 86-91 | [[undefined]] |
-| 92-97 | [[undefined]] |
-| 98-103 | [[undefined]] |
-| 104-109 | [[undefined]] |
-| 110-115 | [[undefined]] |
-| 116-121 | [[undefined]] |
-| 122-127 | [[3-Rules/Character Building/Equipment/A/Animal Staff (Greater)\|Animal Staff (Greater)]] |
-| 128-133 | [[Mentalist's Staff (Greater)\|Mentalist's Staff (Greater)]] |
-| 134-139 | [[Staff of Fire (Greater)\|Staff of Fire (Greater)]] |
-| 140-145 | [[Staff of Healing (Greater)\|Staff of Healing (Greater)]] |
-| 146-151 | [[Staff of Illumination\|Staff of Illumination]] |
-| 152-157 | [[Wand of Smoldering Fireballs (3rd-Rank Spell)\|Wand of Smoldering Fireballs (3rd-Rank Spell)]] |
-| 158-163 | [[Wand of Widening (3rd-Rank Spell)\|Wand of Widening (3rd-Rank Spell)]] |
-| 164-169 | [[Bands of Force\|Bracers of Armor I]] |
+| 7-12 | [[Equipment/Collar of Inconspicuousness\|Collar of Inconspicuousness]] |
+| 13 | [[Equipment/Madcap Top\|Madcap Top]] |
+| 14-19 | [[Equipment/Astral\|Astral]] |
+| 20-25 | [[Equipment/Corrosive\|Corrosive]] |
+| 26-31 | [[Equipment/Decaying\|Decaying]] |
+| 32-37 | [[Equipment/Energy-Resistant\|Energy-Resistant]] |
+| 38-43 | [[Equipment/Flaming\|Flaming]] |
+| 44-49 | [[Equipment/Frost\|Frost]] |
+| 50-55 | [[Equipment/Invisibility\|Invisibility]] |
+| 56-61 | [[Equipment/Resilient\|Resilient]] |
+| 62-67 | [[Equipment/Shock\|Shock]] |
+| 68-73 | [[Equipment/Slick (Greater)\|Slick (Greater)]] |
+| 74-79 | [[Equipment/Thundering\|Thundering]] |
+| 80-82 | Adamantine Buckler (Standard-Grade) |
+| 83-85 | Adamantine Shield (Standard-Grade) |
+| 86-88 | Dawnsilver Buckler (Standard-Grade) |
+| 89-91 | Dawnsilver Shield (Standard-Grade) |
+| 92-94 | Duskwood Buckler (Standard-Grade) |
+| 95-97 | Duskwood Shield (Standard-Grade) |
+| 98-100 | Duskwood Tower Shield (Standard-Grade) |
+| 101-106 | [[Equipment/Animal Staff (Greater)\|Animal Staff (Greater)]] |
+| 107-112 | [[Equipment/Mentalist's Staff (Greater)\|Mentalist's Staff (Greater)]] |
+| 113-118 | [[Equipment/Staff of Fire (Greater)\|Staff of Fire (Greater)]] |
+| 119-124 | [[Equipment/Staff of Healing (Greater)\|Staff of Healing (Greater)]] |
+| 125-130 | [[Equipment/Staff of Illumination\|Staff of Illumination]] |
+| 131-136 | [[Equipment/Wand of Widening (3rd-Rank Spell)\|Wand of Widening (3rd-Rank Spell)]] |
+| 137-139 | [[Equipment/Aeon Stone (Envisioning)\|Aeon Stone (Envisioning)]] |
+| 140-145 | [[Equipment/Bands of Force\|Bands of Force]] |
+| 146-151 | [[Equipment/Lover's Gloves\|Lover's Gloves]] |
+| 152-154 | Dragonhide Buckler (Standard-Grade) |
+| 155-157 | Dragonhide Shield (Standard-Grade) |
+| 158-163 | Wand of Crackling Lighting 3rd |
+| 164-169 | [[Equipment/Wand of Smoldering Fireballs (3rd-Rank Spell)\|Wand of Smoldering Fireballs (3rd-Rank Spell)]] |
+| 170-172 | [[Equipment/Spiritsight Crossbow\|Spiritsight Crossbow]] |

@@ -61,20 +61,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stone Fist +19 (magical)\n__Damage__  2d12 + 6 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Stone Fist"
+    desc: "+19 (magical)\n__Damage__  2d12 + 6 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spar +15 (magical, range increment 80 feet)\n__Damage__  4d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Spar"
+    desc: "+15 (magical, range increment 80 feet)\n__Damage__  4d6 + 6 piercing"
 
   - name: "Burn Alive"
-    desc: "`pf2:1` (fire) The statue grinds a creature it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] into the red-hot coals of its brazier. The target takes 3d8 fire damage and 1d8 persistent fire damage."
+    desc: "`pf2:1` (fire) The statue grinds a creature it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] into the red-hot coals of its brazier. The target takes 3d8 fire + 1d8 persistent fire damage."
 
   - name: "Splinter"
     desc: "`pf2:r`  **Trigger** A creature critically hits a timber titan\n* * *\n\n**Effect** The timber titan makes a spar Strike against a creature within 30 feet. This attack ignores any reactions triggered by making ranged attacks."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

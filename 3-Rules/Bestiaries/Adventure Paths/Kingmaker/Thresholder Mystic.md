@@ -69,8 +69,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +31 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+31 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 6 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 39, attack +30; __9th __  _[[Spells/Overwhelming Presence|Overwhelming Presence]]_, _[[Spells/Telepathic Demand|Telepathic Demand]]_; __7th __  _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Eclipse Burst|Eclipse Burst]]_; __6th __  _[[Spells/Blade Barrier|Blade Barrier]]_, _[[Spells/Spirit Blast|Spirit Blast]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Scouting Eye|Prying Eye]]_, _[[Spells/Sending|Sending]]_, _[[Spells/Truespeech|Tongues]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Discern Lies|Discern Lies]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Locate|Locate]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Deafness|Deafness]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Silence|Silence]]_; __1st __  _[[Spells/Bless|Bless]]_, _[[Spells/Command|Command]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(9th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Message|Message]]_"

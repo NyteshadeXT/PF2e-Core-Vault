@@ -22,9 +22,7 @@ license: OGL
 * * *
 You bind yourself to the very essence of stone. You become trained in Plane of Earth Lore and learn the Terran language. If you are already trained in Plane of Earth Lore, you become trained in a skill of your choice. If you already speak Terran, you learn a common language of your choice. Increase your maximum Hit Points by your level.
 
-* * *
-
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Stonebound|Stonebound]] archetype.
+[[PF2e Journals/Archetypes/Stonebound|Stonebound]]
 
 *Source: Pathfinder #195: Heavy is the Crown*
 *OGL*

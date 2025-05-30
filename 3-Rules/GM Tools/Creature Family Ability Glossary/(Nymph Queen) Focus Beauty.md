@@ -7,7 +7,7 @@ tags:
   - trait/mental
   - trait/primal
   - trait/visual
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.SEmSk1INZDmeoB5R"
@@ -15,7 +15,7 @@ license: ORC
 ---
 # (Nymph Queen) Focus Beauty `pf2:1`
 
-### [[emotion]][[3-Rules/trait_reference/M/mental]][[primal]][[visual]]
+### [[emotion]][[mental]][[primal]][[visual]]
 
 **Category** offensive; 
 

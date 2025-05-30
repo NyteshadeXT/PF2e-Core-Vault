@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Nethys - Minor Boon"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/deityboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.jVeuBZsa4iFg0wC6"
 license: OGL
 ---
 # Nethys - Minor Boon
-
+## Feat 1
 ### 
 
 **Category** deityboon; 
@@ -21,5 +21,5 @@ Nethys casts a powerful spell to help you in a pinch.
 
 Once, Nethys casts a spell 1 rank higher than the highest-rank spell you can cast. If you can't cast spells, Nethys casts a 1st-rank spell to help you.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

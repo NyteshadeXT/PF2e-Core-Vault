@@ -24,7 +24,7 @@ The first step toward forming a successful pact is an understanding of the magic
 
 [[Actions/Binding Vow|Binding Vow]]
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Pactbinder|Pactbinder]] archetype.
+[[PF2e Journals/Archetypes/Pactbinder|Pactbinder]]
 
 *Source: Pathfinder Dark Archive*
 *OGL*

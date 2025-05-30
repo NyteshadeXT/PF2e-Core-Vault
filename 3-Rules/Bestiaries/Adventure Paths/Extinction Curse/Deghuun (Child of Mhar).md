@@ -52,6 +52,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Smoke Vision"
     desc: "  The deghuun ignores the [[Conditions/Concealed|Concealed]] condition from smoke or smog, including from Sulfurous Plume."
 
@@ -63,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +35 (agile, reach 20 feet)\n__Damage__  3d10 + 17 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+35 (agile, reach 20 feet, unarmed)\n__Damage__  3d10 + 17 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Lava Ball +34 (brutal, range increment 60 feet)\n__Damage__  4d6 + 17 bludgeoning 3d6 fire"
+  - name: "**Ranged** `pf2:1` Lava Ball"
+    desc: "+34 (brutal, range increment 60 feet)\n__Damage__  4d6 + 17 bludgeoning 3d6 fire"
 
   - name: "Divine Innate Spells"
     desc: "DC 38, attack +30; __8th __  _[[Spells/Earthquake|Earthquake]]_; __6th __  _[[Spells/Earthbind|Earthbind (x3)]]_, _[[Spells/Hallucination|Hallucination]]_"
@@ -82,7 +88,7 @@ attacks:
     desc: "`pf2:1`  The deghuun makes three tentacle Strikes, each against a different creature within reach. These attacks count toward its multiple attack penalty as normal."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

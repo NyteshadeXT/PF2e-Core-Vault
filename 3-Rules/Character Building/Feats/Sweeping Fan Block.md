@@ -13,7 +13,7 @@ license: ORC
 ---
 # Sweeping Fan Block `pf2:r`
 ## Feat 6
-### [[3-Rules/trait_reference/A/air]][[archetype]]
+### [[air]][[archetype]]
 
 **Category** class; 
 
@@ -29,5 +29,5 @@ license: ORC
 
 You leap up on one leg, snapping your fans open alongside your head before sweeping them across your body. When you're the target of an attack using ammunition (such as arrows, bolts, sling bullets, and other objects of similar size) while wielding two fans, whirl your fans to disrupt the incoming attack with gusts of air, gaining a +2 circumstance bonus to AC against the triggering attack. If the triggering attack misses, you can redirect the ammunition into a nearby pocket or container where it can be retrieved and reused.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

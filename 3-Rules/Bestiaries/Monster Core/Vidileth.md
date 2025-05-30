@@ -55,28 +55,31 @@ abilities_top:
   - name: "Numbing Lights"
     desc: " (aura,light,visual) 30 feet.\n\nThe vidileth exudes dim light. Creatures within the light must attempt a DC 34 Will check save each round, becoming [[Conditions/Stupefied|Stupefied 1]] on a failure (or increase their stupefied value from numbing lights by 1, to a maximum of 4)."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +28 (agile, magical, reach 20 feet)\n__Damage__  3d10 + 12 slashing plus shape-flesh"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+28 (agile, magical, reach 20 feet, unarmed)\n__Damage__  3d10 + 12 slashing plus shape-flesh"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +28 (magical, reach 10 feet, versatile s)\n__Damage__  3d8 + 12 piercing plus consume-memories"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+28 (magical, reach 10 feet, versatile s)\n__Damage__  3d8 + 12 piercing plus consume-memories"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +28 (agile, electricity, magical, reach 20 feet)\n__Damage__  7d6 electricity plus thoughtlance"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+28 (agile, electricity, magical, reach 20 feet, unarmed)\n__Damage__  7d6 electricity plus thoughtlance"
 
   - name: "Occult Innate Spells"
     desc: "DC 37, attack +29; __9th __  _[[Spells/Project Image|Project Image (At Will)]]_; __8th __  _[[Spells/Illusory Scene|Illusory Scene (At Will)]]_, _[[Spells/Suggestion|Suggestion (x3)]]_; __7th __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_; __6th __  _[[Spells/Dominate|Dominate (x3)]]_; __5th __  _[[Spells/Illusory Object|Illusory Object (At Will)]]_, _[[Spells/Mirage|Mirage (At Will)]]_, _[[Spells/Sending|Sending (At Will)]]_, _[[Spells/Translocate|Translocate (x3)]]_; __3rd __  _[[Spells/Hypnotize|Hypnotize (At Will)]]_, _[[Spells/Levitate|Levitate (At Will)]]_, _[[Spells/Mind Reading|Mind Reading (At Will)]]_, _[[Spells/Water Breathing|Water Breathing (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Geas|Geas]]_"
+    desc: "_Geas_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: " (concentrate,occult,polymorph) **Frequency** once per round\n* * *\n\n**Effect** A vidileth takes on the appearance of a humanoid of Large, Medium, or Small size or resumes its true form. While in humanoid form, the vidileth's Speed is 30 feet, and it loses its numbing lights aura and swim Speed. If the humanoid form assumed lacks the aquatic trait, the vidileth loses its own aquatic trait as well. In humanoid form, the vidileth can use weapons or make Strikes that work like its tentacle attack but use the reach of its current form. If the form has fangs or claws, the vidileth can also make such Strikes.\n\n* * *\n"
+    desc: " (concentrate,occult,polymorph) **Frequency** once per round\n* * *\n\n**Effect** A vidileth takes on the appearance of a humanoid of Large, Medium, or Small size or resumes its true form. While in humanoid form, the vidileth's Speed is 30 feet, and it loses its numbing lights aura and swim Speed. If the humanoid form assumed lacks the aquatic trait, the vidileth loses its own aquatic trait as well. In humanoid form, the vidileth can use weapons or make Strikes that work like its tentacle attack but use the reach of its current form. If the form has fangs or claws, the vidileth can also make such Strikes.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Consume Memories"
     desc: " (mental,occult) When the vidileth hits with a fangs Strike, the target must succeed at a DC 34 Will check save or take 3d6 mental damage. The vidileth gains temporary Hit Points equal to the damage dealt and learns some of the creature's memories (subject to the GM's discretion)."

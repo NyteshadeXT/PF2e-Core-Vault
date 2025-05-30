@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +11 (poison)\n__Damage__  1d8 + 6 piercing plus web-lurker-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+11 (poison)\n__Damage__  1d8 + 6 piercing plus web-lurker-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile)\n__Damage__  1d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, unarmed)\n__Damage__  1d8 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Web +11 ()\n__Damage__ "
+  - name: "**Melee** `pf2:1` Web"
+    desc: "+11 ()\n__Damage__ "
 
   - name: "Web Lurker Venom"
     desc: " (poison) A target damaged by the web lurker's fangs must succeed at a DC 19 Fortitude check save or take 1d12 poison damage and gain the [[Conditions/Off-Guard|Off-Guard]] condition for 1 round."

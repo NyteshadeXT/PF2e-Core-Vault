@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 ()\n__Damage__  1d6 + 1 slashing plus shadowfeed"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (unarmed)\n__Damage__  1d6 + 1 slashing plus shadowfeed"
 
   - name: "Primal Innate Spells"
     desc: "DC 21, attack +13; __3rd __  _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Paralyze|Paralyze]]_"
@@ -71,7 +71,7 @@ attacks:
     desc: "  Once per day, Kaneepo can tear open the fabric between planes, creating a portal between the Thinlands and a point anywhere in Sevenarches. This portal lasts for up to 1 hour, but Kaneepo can close it at will."
 
   - name: "Shadow Pull"
-    desc: "`pf2:2`  All creatures in a @Template[line|distance:60] are affected by Kaneepo's shadowfeed ability."
+    desc: "`pf2:2`  All creatures in a 60-foot line are affected by Kaneepo's shadowfeed ability."
 
   - name: "Shadowfeed"
     desc: " (emotion,fear,mental) Whenever Kaneepo hits a creature with an attack, Kaneepo's flayed strips of flesh wrap around the target's shadow, causing the victim's body to wither. The struck creature must attempt a DC 21 Fortitude check saving throw.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature takes 3d6 mental and is [[Conditions/Frightened|Frightened 1]].\n\n**Critical Failure** The creature takes 6d6 mental and is [[Conditions/Frightened|Frightened 2]]."

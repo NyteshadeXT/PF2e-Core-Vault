@@ -35,7 +35,7 @@ perception:
 languages: "Common, Fey, Necril"
 skills:
   - name: "Skills"
-    desc: "Deception: +15, Diplomacy: +15, Intimidation: +15, Nature: +15, Occultism: +15, Performance: +20, Religion: +15, Stealth: +16, Survival: +13, Deception: +15, Diplomacy: +15, Intimidation: +15, Nature: +15, Occultism: +15, Performance: +20, Religion: +15, Stealth: +16, Survival: +13"
+    desc: "Deception: +15, Diplomacy: +15, Intimidation: +15, Nature: +15, Occultism: +15, Performance: +20, Religion: +15, Stealth: +16, Survival: +13"
 abilityMods: [1, 3, 2, 4, 4, 6]
 speed: 25 feet,  swim 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Razor Reed +13 (agile, finesse)\n__Damage__  2d10 + 3 slashing 2d6 bleed"
+  - name: "**Melee** `pf2:1` Razor Reed"
+    desc: "+13 (agile, finesse)\n__Damage__  2d10 + 3 slashing 2d6 bleed"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Threnody +15 (auditory, range 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Threnody"
+    desc: "+15 (auditory, range 30 feet)\n__Damage__  2d6 + 6 sonic 2d6 vitality"
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Counter Performance|Counter Performance]]_, _[[Spells/Enervation|Enervation]]_, _[[Spells/Noise Blast|Sound Burst]]_; __3rd __  _[[Spells/Soothe|Soothe (x3)]]_\n__Cantrips__  __(4th)__ _[[Spells/Dirge of Doom|Dirge of Doom]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"

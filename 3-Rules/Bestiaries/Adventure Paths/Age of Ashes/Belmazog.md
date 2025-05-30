@@ -65,23 +65,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 ()\n__Damage__  2d8 + 11 piercing 1d12 acid"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (unarmed)\n__Damage__  2d8 + 11 piercing 1d12 acid"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile)\n__Damage__  2d8 + 11 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, unarmed)\n__Damage__  2d8 + 11 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +20 (reach 10 feet)\n__Damage__  2d6 + 11 acid plus tongue-grab"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+20 (reach 10 feet)\n__Damage__  2d6 + 11 acid plus tongue-grab"
 
   - name: "Divine Prepared Spells"
-    desc: "DC 27, attack +19; __3rd __  _[[Spells/Fireball|Fireball]]_; __2nd __  _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 27, attack +19; __3rd __  _[[Spells/Fireball|Fireball]]_; __2nd __  _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Planar Servitor|Planar Ally]]_"
+    desc: "_Planar Ally_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (acid,arcane) Belmazog spews a gout of acid that deals 10d6 acid damage in a @Template[cone|distance:30] (DC 28 Reflex check save).\n\nBelmazog can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (acid,arcane) Belmazog spews a gout of acid that deals 10d6 acid damage in a 30-foot cone (DC 28 Reflex check save).\n\nBelmazog can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Drowning Drone"
     desc: "`pf2:r` (auditory,mental,sonic) **Trigger** Belmazog or one of her allies within 60 feet attempts a saving throw against an auditory or sonic effect.\n* * *\n\n**Effect** Belmazog releases a croak that drowns out other sound. She rolls a Performance check. She and boggard allies in the area can use the higher result of her Performance check or their saves to resolve the effects against the auditory or sonic effect."

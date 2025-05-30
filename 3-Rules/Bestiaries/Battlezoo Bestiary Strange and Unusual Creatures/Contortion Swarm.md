@@ -35,7 +35,7 @@ perception:
 languages: "Aklo, Common, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Thievery: +10, Acrobatics: +10, Thievery: +10"
+    desc: "Acrobatics: +10, Thievery: +10"
 abilityMods: [1, 4, 3, 0, 1, 1]
 speed: 30 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"

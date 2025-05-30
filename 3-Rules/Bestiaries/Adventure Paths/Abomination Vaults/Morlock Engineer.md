@@ -55,19 +55,22 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Warhammer|Warhammer]], Projectile Launcher, 5x Handful of Junk"
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +11 (shove)\n__Damage__  1d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+11 (shove)\n__Damage__  1d8 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 (agile)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (agile, unarmed)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Projectile Launcher +10 (deadly d8, range increment 50 feet, versatile p)\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Projectile Launcher"
+    desc: "+10 (deadly d8, range increment 50 feet, versatile p)\n__Damage__  1d6 + 6 bludgeoning"
 
   - name: "Improvised Projectile"
     desc: "`pf2:1`  The morlock engineer quickly crafts an improvised projectile from objects it carries or that are readily accessible in adjacent squares. Where unusual materials are available, an improvised projectile might deal damage other than bludgeoning or piercing—for example, a morlock engineer by a campfire could build a projectile that deals fire damage."
@@ -79,7 +82,7 @@ attacks:
     desc: "  A morlock can share the same space as another morlock, but no more than two morlocks can occupy the same space. When morlocks share the same space, they gain a +1 circumstance bonus to attack rolls."
 
   - name: "Uncanny Tinker"
-    desc: "`pf2:2`  The morlock engineer tinkers with an adjacent construct or mechanical hazard. They attempt a Crafting check check against the construct's or hazard's Fortitude DC. The morlock can't get an outcome better than failure if the target's level is more than double the morlock's.\n\nThis ability reflects hasty battlefield repairs; once a construct or hazard regains Hit Points from this ability, it can't do so again until it's been [[Actions/Repair|Repaired]].\n* * *\n\n**Critical Success** The target regains 8d6 damage (bludgeoning, piercing, or slashing, as chosen by the morlock engineer) to the construct or hazard.\n\n**Success** As critical success, but the target regains 4d6 damage.\n\n**Critical Failure** The morlock injures themself, taking 3d6 damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion).\n\n[[Bestiary Effects/Effect_ Uncanny Tinker|Effect: Uncanny Tinker]]"
+    desc: "`pf2:2`  The morlock engineer tinkers with an adjacent construct or mechanical hazard. They attempt a Crafting check check against the construct's or hazard's Fortitude DC. The morlock can't get an outcome better than failure if the target's level is more than double the morlock's.\n\nThis ability reflects hasty battlefield repairs; once a construct or hazard regains Hit Points from this ability, it can't do so again until it's been [[Actions/Repair|Repaired]].\n* * *\n\n**Critical Success** The target regains 8d6 healing Hit Points and a +1 circumstance bonus to attack rolls for 1 minute. Alternately, the morlock can deal 8d6 untyped damage (bludgeoning, piercing, or slashing, as chosen by the morlock engineer) to the construct or hazard.\n\n**Success** As critical success, but the target regains 4d6 healing Hit Points or the morlock deals 4d6 untyped damage.\n\n**Critical Failure** The morlock injures themself, taking 3d6 untyped damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion).\n\n[[Bestiary Effects/Effect_ Uncanny Tinker|Effect: Uncanny Tinker]]"
  
 ```
 

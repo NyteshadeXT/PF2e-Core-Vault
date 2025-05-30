@@ -13,15 +13,16 @@ tags:
   - trait/focus
   - trait/manipulate
   - trait/mental
-  - trait/common
+  - trait/uncommon
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.T90ij2uu6ZaBaSXV" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Lament  `pf2:2`"
 level: "Focus 1"
-
+rare_03: [[Uncommon]]
 trait_01: [[auditory]]
 trait_02: [[cleric]]
 trait_03: [[concentrate]]
@@ -40,6 +41,6 @@ abilities_top:
     desc: "basic will"
 abilities_mid:
   - name: ""
-    desc: "You let out your negative emotions in a guttural wail that shakes your enemies' hearts and deals 1d8 mental damage (basic Will save). If you have any harmful conditions imposed by emotion effects, _lament_ deals additional mental damage equal to the counteract rank of the highest-level effect.\n* * *\n\n**Heightened (+1)** The damage increases by 1d8."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+    desc: "You let out your negative emotions in a guttural wail that shakes your enemies' hearts and deals 1d8 mental damage (basic Will save) to each creature in the area. If you have any harmful conditions imposed by emotion effects, lament deals additional mental damage equal to the counteract rank of the highest-level effect.\n* * *\n\n**Heightened (+1)** The damage increases by 1d8."
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

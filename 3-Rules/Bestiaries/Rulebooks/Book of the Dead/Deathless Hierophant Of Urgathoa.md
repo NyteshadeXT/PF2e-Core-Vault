@@ -61,11 +61,14 @@ abilities_mid:
   - name: "Field of Undeath"
     desc: " (aura,divine) 40 feet. Allies within the aura who have void healing gain fast healing 4. When a creature within the aura would receive vitality healing, it must succeed at a DC 5 Flat check or receive no healing from the effect."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scythe +15 (deadly d10, magical, trip)\n__Damage__  1d10 + 8 slashing"
+  - name: "**Melee** `pf2:1` Scythe"
+    desc: "+15 (deadly d10, magical, trip)\n__Damage__  1d10 + 8 slashing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Anathematic Reprisal|Anathematic Reprisal]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/False Vitality|False Life]]_, _[[Spells/Ghoulish Cravings|Ghoulish Cravings]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Goblin Pox|Goblin Pox]]_, _[[Spells/Harm|Harm]]_\n__Cantrips__  __(4th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Shield|Shield]]_"

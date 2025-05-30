@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +10 (agile, finesse, trip)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+10 (agile, finesse, trip)\n__Damage__  1d6 + 5 slashing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Blur|Blur]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Fleet Step|Fleet Step]]_\n__Cantrips__  __(2nd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_"

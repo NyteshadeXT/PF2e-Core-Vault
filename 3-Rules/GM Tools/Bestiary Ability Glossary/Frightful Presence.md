@@ -7,7 +7,7 @@ tags:
   - trait/emotion
   - trait/fear
   - trait/mental
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-ability-glossary-srd.Item.etMnv73EIdEZrYYu"
@@ -15,7 +15,7 @@ license: ORC
 ---
 # Frightful Presence
 
-### [[3-Rules/GM Tools/Bestiary Ability Glossary/Aura]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]]
+### [[aura]][[emotion]][[fear]][[mental]]
 
 **Category** defensive; 
 

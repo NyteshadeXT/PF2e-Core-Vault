@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ka Stone Ritual `pf2:2`
 ## Feat 4
-### [rare](rare.md "Rare Rarity Trait")[[archetype]]
+### [rare](rare "Rare Rarity Trait")[[archetype]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ You inscribe your true name on your _ka stone_, as well as oaths to gods and pha
 
 The ka stone grants you a +1 item bonus to saves against death effects and negative effects, which increases to +2 at 8th level, +3 at 14th level, and +4 at 20th level.
 
-[[Ka Stone|Ka Stone]]
+[[Equipment/Ka Stone|Ka Stone]]
 
 * * *
 
@@ -33,7 +33,7 @@ The ka stone grants you a +1 item bonus to saves against death effects and negat
 
 * * *
 
-**Effect** You cast [[Enlarge|Enlarge]] on yourself or use one of the other activated abilities granted by a later Living Monolith feat.
+**Effect** You cast [[Spells/Enlarge|Enlarge]] on yourself or use one of the other activated abilities granted by a later Living Monolith feat.
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

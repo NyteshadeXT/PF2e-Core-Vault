@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ranseur +13 (disarm, magical, reach 10 feet)\n__Damage__  2d10 + 4 piercing"
+  - name: "**Melee** `pf2:1` Ranseur"
+    desc: "+13 (disarm, magical, reach 10 feet)\n__Damage__  2d10 + 4 piercing"
  
 ```
 

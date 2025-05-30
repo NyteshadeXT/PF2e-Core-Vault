@@ -15,7 +15,7 @@ license: ORC
 ---
 # Plague Rat
 ## Feat 6
-### [[archetype]][[curse]][[3-Rules/trait_reference/D/disease]][[primal]]
+### [[archetype]][[curse]][[disease]][[primal]]
 
 **Category** class; 
 
@@ -23,7 +23,9 @@ license: ORC
 
 **Prerequisites** Werecreature Dedication; wererat
 * * *
-Your bites carry a cursed infection. When you hit and deal damage to a creature with a jaws Strike while in hybrid or rat shape, the creature is cursed until the start of your next turn. Whenever they regain Hit Points during that time, they must attempt a Fortitude save against your class DC or spell DC, whichever is higher.
+Your bites carry a cursed infection. When you hit and deal damage to a creature with a jaws Strike while in hybrid or rat shape, the creature is cursed until the start of your next turn. Whenever they regain Hit Points during that time, they must attempt a Fortitude check save against your class DC or spell DC, whichever is higher.
+
+* * *
 
 **Success** The creature regains Hit Points normally.
 

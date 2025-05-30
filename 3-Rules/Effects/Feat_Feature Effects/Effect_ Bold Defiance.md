@@ -21,5 +21,5 @@ Granted by [[Feats/Bold Defiance|Bold Defiance]]
 
 You gain temporary Hit Points equal to your level.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

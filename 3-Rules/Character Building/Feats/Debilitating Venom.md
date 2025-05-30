@@ -40,5 +40,5 @@ Your venom is particularly potent, affecting targets in different ways. When you
 
 **Special** You can select this feat a second time to gain the other debilitation.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

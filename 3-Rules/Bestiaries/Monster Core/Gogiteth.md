@@ -52,26 +52,32 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "Skittering Reposition"
     desc: "`pf2:r` (move) **Trigger** A creature that starts its move outside the gogiteth's reach moves into its reach.\n* * *\n\n**Effect** The gogiteth moves 10 feet. This does not trigger reactions."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +26 ()\n__Damage__  3d10 + 12 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+26 (unarmed)\n__Damage__  3d10 + 12 piercing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Leg +26 (agile, reach 10 feet)\n__Damage__  3d6 + 12 piercing"
+  - name: "**Melee** `pf2:1` Leg"
+    desc: "+26 (agile, reach 10 feet)\n__Damage__  3d6 + 12 piercing"
 
   - name: "Carry Off Prey"
     desc: "  The gogiteth can move at its full Speed while it has a creature [[Conditions/Grabbed|Grabbed]] in its jaws, bringing the grabbed creature along."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  3d6+12 bludgeoning, DC 32 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  3d6+12 bludgeoning, DC 32 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Skittering Assault"
     desc: "`pf2:2`  The gogiteth Strides three times. Once per Stride, it can attempt a leg Strike against a creature in its reach at any point during the Stride; it must make each attack against a different creature, but it doesn't apply its multiple attack penalty until after making all its Strikes. If any of the Strikes result in a critical failure, Skittering Assault ends."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

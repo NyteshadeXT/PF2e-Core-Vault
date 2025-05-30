@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +14 (agile, finesse, versatile s)\n__Damage__  1d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+14 (agile, finesse, versatile s)\n__Damage__  1d6 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +14 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+14 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
 
   - name: "Double Stab"
     desc: "`pf2:1`  **Requirements** Ralso is wielding two piercing weapons\n\n**Frequency** once per round\n* * *\n\n**Effect** Ralso makes two Strikes against a single creature within reach, one Strike per weapon.\n\nThese attacks count toward Ralso's multiple attack penalty, but the penalty doesn't increase until after both attacks."

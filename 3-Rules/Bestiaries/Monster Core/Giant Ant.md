@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +9 ()\n__Damage__  1d8 + 4 slashing plus grab"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+9 ()\n__Damage__  1d8 + 4 slashing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +9 (agile)\n__Damage__  1d6 + 4 piercing plus giant-ant-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+9 (agile)\n__Damage__  1d6 + 4 piercing plus giant-ant-venom"
 
   - name: "Giant Ant Venom"
     desc: " (poison) **Saving Throw** DC 18 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d8 poison and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d10 poison and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)\n\n**Stage 3** 1d12 poison and [[Conditions/Enfeebled|Enfeebled 3]] (1 round)"
@@ -68,7 +68,7 @@ attacks:
     desc: "`pf2:1`  **Requirements** The giant ant has a Large or smaller creature grabbed\n* * *\n\n**Effect** The giant ant Strides up to its full Speed, carrying the grabbed creature with it. It is [[Conditions/Encumbered|Encumbered]] if the grabbed creature is Medium or larger."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

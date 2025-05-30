@@ -26,5 +26,5 @@ You're especially nimble while in your full fox shape. While you've Changed Shap
 *   You can use your own Athletics modifier for checks to [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]].
 *   You can scale short distances with a bit of a running start. When you attempt to Climb, and your previous action was to Stride at least 20 feet along solid ground, you gain a climb Speed of 20 feet for the duration of that Climb action.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

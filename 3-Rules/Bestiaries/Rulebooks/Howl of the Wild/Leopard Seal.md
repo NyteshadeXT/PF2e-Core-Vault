@@ -63,20 +63,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 ()\n__Damage__  2d8 + 6 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (unarmed)\n__Damage__  2d8 + 6 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +12 (agile)\n__Damage__  2d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+12 (agile)\n__Damage__  2d6 + 6 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  50 feet."
+    desc: "`pf2:1`  50 feet.\n\n**Requirements** The monster is hiding in water and a creature that hasn't detected it is within the listed number of feet.\n* * *\n\n**Effect** The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a Strike against it. The creature is [[Conditions/Off-Guard|Off-Guard]] against this Strike."
 
   - name: "Predatory Slam"
     desc: "`pf2:2`  **Requirements** The leopard seal is in water\n* * *\n\n**Effect** The leopard seal travels up to 40 feet, ending its movement on land. Enemies adjacent to the leopard seal when it ends its movement take 2d10 bludgeoning damage (DC 21 Reflex check save) and are knocked [[Conditions/Prone|Prone]] on a failure."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

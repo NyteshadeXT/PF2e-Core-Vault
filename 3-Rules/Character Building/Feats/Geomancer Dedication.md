@@ -24,7 +24,7 @@ You feel a deep connection to the world no matter where you are, a phenomenon kn
 
 Certain terrain attunements affect your enemies instead of you. If they do, when you cast the spell you apply the listed effect to all enemies who are either adjacent to you, in the area of the spell, or targeted by the spell. These enemies receive the listed saving throw against your spell DC to attempt to avoid the effect.
 
-*   **Aquatic** (water) You ride the currents of water. If you're in the water, you gain a swim Speed equal to your land Speed. If you're on a surface, temporary waves of water follow your movements, allowing you to use your swim Speed-if you have one-as your land Speed.
+*   **Aquatic** (water) You ride the currents of water. If you're in the water, you gain a swim Speed equal to your land Speed. If you're on a surface, temporary waves of water follow your movements, allowing you to use your swim Speed-if you have one-as your land Speed. This effect lasts one round.
 *   **Arctic** (cold) Arctic rime covers your foes' bodies. Enemies must attempt a Fortitude save. They take a -5-foot status penalty to their Speeds for 2 rounds (-10-foot on a critical failure).
 *   **Desert** (fire) The scorching heat of the desert dehydrates your foes. Enemies must attempt a Fortitude save. On a failure, they're [[Conditions/Fatigued|Fatigued]] until they drink water or another potable liquid.
 *   **Forest** (plant) Branches and vines reach out to get in your foes' way. Enemies must attempt a Reflex save. On a failure, they become [[Conditions/Clumsy|Clumsy 1]] for 1 round ([[Conditions/Clumsy|Clumsy 2]] on a critical failure).
@@ -34,7 +34,7 @@ Certain terrain attunements affect your enemies instead of you. If they do, when
 *   **Swamp** (plant) Your magic draws in noxious swamp gas to fumigate your foes. Affected foes take [[Conditions/Persistent Damage|Persistent Poison Damage]] equal to half the spell's rank (minimum 1 damage) with a basic Fortitude save.
 *   **Underground** (earth) The endless darkness of the cavern depths opens up its secrets to your senses. For 1 round, you gain darkvision as well as imprecise tremorsense out to 15 feet.
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Geomancer|Geomancer]] archetype.
+[[PF2e Journals/Archetypes/Geomancer|Geomancer]]
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

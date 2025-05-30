@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You have a +1 status bonus to skill checks. When you Strike an [[Conditions/Off-Guard|Off-Guard]] enemy, that enemy can't use reactions until the beginning of its next turn.
+Granted by [[Feats/Devrin's Cunning Stance|Devrin's Cunning Stance]]
 
-*Source: Pathfinder Lost Omens: Firebrands*
+You gain a +1 status bonus to skill checks. When you Strike an off-guard enemy, that enemy can't use reactions until the beginning of its next turn.
+
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

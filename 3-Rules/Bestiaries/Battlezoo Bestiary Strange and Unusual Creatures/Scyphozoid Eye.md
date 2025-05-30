@@ -35,7 +35,7 @@ perception:
 languages: "Aklo; telepathy 60 feet, tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +21, Athletics: +20, Occultism: +25, Stealth: +20, Acrobatics: +21, Athletics: +20, Occultism: +25, Stealth: +20"
+    desc: "Acrobatics: +21, Athletics: +20, Occultism: +25, Stealth: +20"
 abilityMods: [3, 3, 4, 3, 8, 5]
 speed:  fly 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Arm +26 (acid, reach 15 feet)\n__Damage__  3d8 + 11 bludgeoning plus grab 2d6 acid plus grab"
+  - name: "**Melee** `pf2:1` Arm"
+    desc: "+26 (acid, reach 15 feet)\n__Damage__  3d8 + 11 bludgeoning plus grab 2d6 acid plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacles +26 (agile, reach 10 feet)\n__Damage__  3d8 + 11 piercing plus scyphozoid-toxin"
+  - name: "**Melee** `pf2:1` Tentacles"
+    desc: "+26 (agile, reach 10 feet)\n__Damage__  3d8 + 11 piercing plus scyphozoid-toxin"
 
   - name: "Occult Innate Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Dizzying Colors|Color Spray (x2)]]_; __6th __  _[[Spells/Chromatic Image|Chromatic Image]]_, _[[Spells/Chromatic Ray|Chromatic Ray (x2)]]_; __5th __  _[[Spells/Cloak of Colors|Cloak of Colors (x2)]]_; __4th __  _[[Spells/Chroma Leach|Chroma Leach (x2)]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(7th)__ _[[Spells/Truespeech|Tongues]]_"

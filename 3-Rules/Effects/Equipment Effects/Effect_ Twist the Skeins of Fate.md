@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Prognostic Veil|Prognostic Veil]]
+Granted by [[Equipment/Prognostic Veil|Prognostic Veil]]
 
-The ally gains a status bonus to the saving throw or attack roll equal to the value of your [[Conditions/Cursebound|Cursebound]] condition.
+You gain a status bonus to the saving throw or attack roll equal to the value of the user's [[Conditions/Cursebound|Cursebound]] condition.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

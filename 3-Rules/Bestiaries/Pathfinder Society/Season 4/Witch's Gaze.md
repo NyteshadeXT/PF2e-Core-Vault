@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +10 (agile, finesse, versatile s)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+10 (agile, finesse, versatile s)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +10 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+10 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Bloodletting"
     desc: "  When the witch's gaze deals piercing or slashing damage to an [[Conditions/Off-Guard|Off-Guard]] target, they also deal 1 persistent bleed damage."

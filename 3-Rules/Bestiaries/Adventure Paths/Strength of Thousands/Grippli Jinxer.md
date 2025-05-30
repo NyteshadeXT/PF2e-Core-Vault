@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +14 (two-hand d8)\n__Damage__  1d4 + 6 bludgeoning plus baneback-poison"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+14 (two-hand d8)\n__Damage__  1d4 + 6 bludgeoning plus baneback-poison"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dart +16 (agile, thrown 20 ft.)\n__Damage__  1d4 + 6 piercing plus baneback-poison"
+  - name: "**Ranged** `pf2:1` Dart"
+    desc: "+16 (agile, thrown 20 ft.)\n__Damage__  1d4 + 6 piercing plus baneback-poison"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 24, attack +16; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Summon Animal|Summon Animal (Giant Cockroach, Giant Fly or Giant Tick only)]]_, _[[Spells/Vomit Swarm|Vomit Swarm]]_; __1st __ (3 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

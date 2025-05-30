@@ -20,5 +20,5 @@ license: OGL
 
 The supernatural charm of your vampiric progenitor hangs about you, and you've learned to use it on mortals. Against humanoids (or other creatures of your type, if you're not a humanoid), you gain a +1 circumstance bonus to Deception checks to [[Actions/Lie|Lie]], and to Diplomacy checks to [[Actions/Gather Information|Gather Information]] and [[Actions/Make an Impression|Make an Impression]].
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

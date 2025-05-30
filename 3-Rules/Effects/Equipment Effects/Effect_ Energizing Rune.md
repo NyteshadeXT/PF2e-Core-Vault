@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Energizing|Energizing]]
+Granted by [[Equipment/Energizing|Energizing]]
 
 The weapon becomes imbued with the triggering energy type. It deals an additional 1d8 damage of the triggering type until the end of your next turn.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

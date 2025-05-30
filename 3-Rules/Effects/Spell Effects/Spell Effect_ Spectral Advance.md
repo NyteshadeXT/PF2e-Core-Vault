@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[3-Rules/Character Building/Spells/S/Spectral Advance|Spectral Advance]]
+Granted by [[Spells/Spectral Advance|Spectral Advance]]
 
-You (or your mount) have resistance equal to your level to all damage.
+You have resistance equal to your level to all damage.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

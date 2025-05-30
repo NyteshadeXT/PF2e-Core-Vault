@@ -64,17 +64,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +9 (agile, versatile s)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+9 (agile, versatile s)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Lesser Alchemist&#x27;s Fire +11 (alchemical, bomb, range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
+  - name: "**Ranged** `pf2:1` Lesser Alchemist&#x27;s Fire"
+    desc: "+11 (alchemical, bomb, range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Lesser Acid Flask +11 (alchemical, bomb, range increment 20 feet, splash)\n__Damage__  1 acid 1d6 acid 1 acid"
+  - name: "**Ranged** `pf2:1` Lesser Acid Flask"
+    desc: "+11 (alchemical, bomb, range increment 20 feet, splash)\n__Damage__  1 acid 1d6 acid 1 acid"
 
   - name: "Quick Smoke Bomb"
     desc: "  **Cost** 1 batch of infused reagents\n* * *\n\n**Effect** Gristleburst mixes up a short-lived lesser acid flask or lesser alchemist's fire without attempting a Crafting check. It remains potent only until the end of his next turn. When he throws this bomb, in addition to its normal effects, it creates a cloud of smoke in a 10-foot radius burst. Creatures in that area have the [[Conditions/Concealed|Concealed]] condition, and other creatures are concealed to them. This smoke lasts for 1 minute or until dissipated by a strong wind."

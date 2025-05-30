@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.KNtnb9HwPnPDY2Mv"
-license: OGL
+license: ORC
 ---
 # Wide Overwatch
 ## Feat 10
@@ -22,4 +23,4 @@ license: OGL
 Through a variety of perceptive techniques, careful routines, and upgrades to your enhanced visual gear, you have become able to observe and maintain your overwatch at a much greater distance. Increase the size of your overwatch field from 30 feet to 60 feet.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

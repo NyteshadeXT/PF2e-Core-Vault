@@ -35,7 +35,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +15, Stealth: +9, Athletics: +15, Stealth: +9"
+    desc: "Athletics: +15, Stealth: +9"
 abilityMods: [4, -4, 5, -5, 0, -5]
 speed: 20 feet,  climb 10 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -65,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +17 ()\n__Damage__  2d10 + 8 bludgeoning plus inkspill"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+17 ()\n__Damage__  2d10 + 8 bludgeoning plus inkspill"
 
   - name: "Inkspill"
     desc: "  Whenever an inkblot ooze makes a successful pseudopod Strike against a creature or unattended object, the inkblot ooze spills some of its form over a text within its reach, such as a book or scroll, in an attempt to ruin it. The text must be either the target of the Strike or on an object held or worn by the target. If the text is held or worn by a creature, that creature can attempt a DC 22 Reflex check save to protect the text. On a failure the text is covered in inky ooze, rendering it unusable. On a critical failure, or against an unattended object, in addition to the failure effects, a random spell, formula, or page within the text is permanently erased. A text ruined in this way can be recovered over the course of an hour with a successful DC 25 Crafting check check, and a spell or formula erased by a critical failure can be relearned for half its usual cost by using the page in the process."

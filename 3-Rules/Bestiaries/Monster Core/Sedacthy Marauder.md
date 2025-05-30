@@ -58,6 +58,9 @@ abilities_top:
   - name: "Sea Speech"
     desc: "  A sedacthy speaking Thalassic can be understood by any animal that has a swim Speed or the amphibious or aquatic trait. By spending a week regularly interacting with such an animal, the sedacthy can make it permanently helpful."
 
+  - name: "[[Bestiary Ability Glossary/Wavesense|Wavesense (Imprecise) 30 feet]]"
+    desc: "  This sense allows a monster to feel vibrations caused by movement through a liquid. It's an imprecise sense with a limited range (listed in the ability). Wavesense functions only if monster and the subject are in the same body of liquid, and only if the subject is moving through the liquid."
+
 abilities_mid:
   - name: ""
   - name: "Vengeful Throw"
@@ -66,20 +69,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 (agile)\n__Damage__  2d4 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (agile, unarmed)\n__Damage__  2d4 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 ()\n__Damage__  1d4 bleed 1d4 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (unarmed)\n__Damage__  1d4 bleed 1d4 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +14 ()\n__Damage__  1d6 + 10 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+14 ()\n__Damage__  1d6 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +11 (thrown 20 ft.)\n__Damage__  1d6 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+11 (thrown 20 ft.)\n__Damage__  1d6 + 10 piercing"
 
   - name: "Challenging Shriek"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The marauder unleashes a terrifying battle cry. Each enemy in a @Template[emanation|distance:30] must attempt a DC 21 Will check save. Regardless of the results, creatures are temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Immobilized|Immobilized]] for 1 round and [[Conditions/Frightened|Frightened 3]]."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The marauder unleashes a terrifying battle cry. Each enemy in a 30-foot emanation must attempt a DC 21 Will check save. Regardless of the results, creatures are temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Immobilized|Immobilized]] for 1 round and [[Conditions/Frightened|Frightened 3]]."
 
   - name: "Shared Feast"
     desc: "`pf2:2`  The sedacthy makes a jaws Strike. If it hits, an ally of their choice can spend a reaction to make a jaws Strike against the same target. Allies with beaks or similar attacks can use those instead of jaws."

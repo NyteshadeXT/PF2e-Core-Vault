@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +13 (agile, finesse, magical, versatile s)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+13 (agile, finesse, magical, versatile s)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Longbow +13 (deadly d10, magical, range increment 100 feet, reload 0, volley 20 ft.)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Longbow"
+    desc: "+13 (deadly d10, magical, range increment 100 feet, reload 0, volley 20 ft.)\n__Damage__  1d8 + 4 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 21, attack +13; __4th __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_; __2nd __  _[[Spells/Entangling Flora|Entangling Flora]]_, _[[Spells/Revealing Light|Revealing Light]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_"

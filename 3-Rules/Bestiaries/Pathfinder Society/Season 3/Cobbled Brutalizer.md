@@ -51,7 +51,7 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Precise) 40 feet, (Imprecise) 80 feet]]"
-    desc: "  A cobbled brutalizer's tremorsense is a precise sense out to 40 feet and an imprecise sense out to 80 feet. A cobbled brutalizer can't sense anything beyond the range of its tremorsense.\n\n* * *\n"
+    desc: "  A cobbled brutalizer's tremorsense is a precise sense out to 40 feet and an imprecise sense out to 80 feet. A cobbled brutalizer can't sense anything beyond the range of its tremorsense.\n* * *\n\nTremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
 
 abilities_mid:
   - name: ""
@@ -64,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +16 (reach 15 feet)\n__Damage__  2d8 + 10 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+16 (reach 15 feet, unarmed)\n__Damage__  2d8 + 10 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8+10 bludgeoning, DC 23 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d8+10 bludgeoning, DC 23 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

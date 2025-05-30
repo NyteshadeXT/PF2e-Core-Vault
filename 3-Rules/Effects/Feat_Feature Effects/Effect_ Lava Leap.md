@@ -17,6 +17,8 @@ license: OGL
 
 
 
+Granted by [[Feats/Lava Leap|Lava Leap]]
+
 You gain a +2 circumstance bonus to AC.
 
 *Source: Pathfinder Rage of Elements*

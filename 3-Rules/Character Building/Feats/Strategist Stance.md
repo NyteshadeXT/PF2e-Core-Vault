@@ -19,8 +19,7 @@ license: ORC
 
 
 
-**Prerequisites** Marshal Dedication; trained in Society or
-Warfare Lore
+**Prerequisites** Marshal Dedication; trained in Society or Warfare Lore
 * * *
 You find the most strategic options for you and your allies. When you use this action, attempt a Society check or Warfare Lore check check. The DC is usually a standard-difficulty DC of your level, but the GM can assign a different DC based on the circumstances.
 
@@ -36,5 +35,5 @@ You find the most strategic options for you and your allies. When you use this a
 
 **Critical Failure** You fail to enter the stance and can't take this action again for 1 minute.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

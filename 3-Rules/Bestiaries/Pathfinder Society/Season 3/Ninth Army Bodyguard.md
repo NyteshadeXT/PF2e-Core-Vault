@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatclub +7 (backswing, shove)\n__Damage__  1d10 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Greatclub"
+    desc: "+7 (backswing, shove)\n__Damage__  1d10 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sap +7 (agile, nonlethal)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Sap"
+    desc: "+7 (agile, nonlethal)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Bodyguard's Defense"
     desc: "`pf2:2`  The bodyguard selects one creature they can see and hear within 30 feet. That creature gains a +2 circumstance bonus to AC as long as the bodyguard is adjacent to the chosen creature and can act; this bonus lasts until the start of the bodyguard's next turn.\n\n[[Bestiary Effects/Effect_ Bodyguard's Defense|Effect: Bodyguard's Defense]]"

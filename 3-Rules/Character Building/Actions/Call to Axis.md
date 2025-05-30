@@ -4,7 +4,7 @@ title: "Call to Axis"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/fortune
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.k5TASjIxghvGCy7g"
 license: OGL
@@ -24,5 +24,5 @@ Given by Rite of Knowing
 
 **Requirements** You are about to attempt a check to Recall Knowledge. You call upon the knowledge of Axis to ensure the accuracy of your information. You roll a second time and use the higher result. If you roll a critical failure, you get a failure instead. If you roll a success, you get a critical success instead.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

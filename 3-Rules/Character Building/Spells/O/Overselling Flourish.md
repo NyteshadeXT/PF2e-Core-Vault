@@ -35,5 +35,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "**Trigger** A creature damages you.\n\nYou make a grand spectacle out of getting hit. Enhanced by magic, this spectacle features sprays of blood, anguished screams, or other theatrics that appear to result from your foe's attack. The triggering creature must attempt a Will saving throw.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is thrown off by your display. The creature becomes [[Conditions/Dazzled|Dazzled]] until the start of your turn.\n\n**Failure** The creature fully believes your performance, leaving itself open. The creature becomes dazzled and [[Conditions/Off-Guard|Off-Guard]] until the start of your turn.\n\n**Critical Failure** The creature is enraptured by the display. The creature uses its remaining actions to watch you in awe. It then remains dazzled and off-guard until the start of your turn."
-sourcebook: "_Pathfinder Lost Omens: Firebrands_"
+sourcebook: "_Pathfinder Lost Omens Firebrands_"
 ```

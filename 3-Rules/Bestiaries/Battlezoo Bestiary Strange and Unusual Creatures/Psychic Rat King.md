@@ -39,7 +39,7 @@ perception:
 languages: "Aklo; telepathy 60 feet, tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +27, Athletics: +23, Deception: +25, Diplomacy: +25, Intimidation: +27, Stealth: +27, Acrobatics: +27, Athletics: +23, Deception: +25, Diplomacy: +25, Intimidation: +27, Stealth: +27"
+    desc: "Acrobatics: +27, Athletics: +23, Deception: +25, Diplomacy: +25, Intimidation: +27, Stealth: +27"
 abilityMods: [2, 5, 4, 9, 8, 5]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"

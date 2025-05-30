@@ -4,11 +4,12 @@ title: "Effect: Guide's Warning"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.bestiary-effects.Item.UiISDbCjK6AUDsll"
-license: OGL
+license: ORC
 ---
 # Effect: Guide's Warning
-## Level 1
+## Level 4
 ### 
 
 
@@ -16,7 +17,7 @@ license: OGL
 
 
 
+You gain a +1 circumstance bonus to your initiative rolls. This bonus increases to +2 if the guide was Scouting.
 
-
-*Source: Pathfinder Gamemastery Guide*
-*OGL*
+*Source: Pathfinder NPC Core*
+*ORC*

@@ -35,7 +35,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, Athletics: +22"
+    desc: "Athletics: +22"
 abilityMods: [7, -4, 6, -5, 0, -5]
 speed: 20 feet,  burrow 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -68,8 +68,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +20 ()\n__Damage__ "
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+20 ()\n__Damage__  3d6 void plus carnivorous-plague"
 
   - name: "Carnivorous Plague"
     desc: " (disease,virulent) **Saving Throw** DC 28 Fortitude check\n\n**Stage 1** [[undefined]] (1 day)\n\n**Stage 2** [[undefined]] (1 day)\n\n**Stage 3** sickened 2 and [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 4** [[undefined]] and [[undefined]] (1 day)\n\n**Stage 5** as stage 4 (1 day);\n\n**Stage 6** dead, and an independent wandering plague bursts from the corpse."

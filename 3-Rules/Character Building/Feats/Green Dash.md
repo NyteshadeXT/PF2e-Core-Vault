@@ -27,5 +27,5 @@ license: ORC
 
 The spirits of vegetation send you on your way, letting you move in a burst of speed. You Stride with a +15-foot status bonus to your Speed. You can Burrow, Climb, Fly, or Swim instead if you have the corresponding movement type.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

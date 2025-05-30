@@ -35,7 +35,7 @@ perception:
 languages: "Fey; speak with plants; telepathy 50 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Athletics: +13, Nature: +12, Acrobatics: +11, Athletics: +13, Nature: +12, Warefare Lore: +12"
+    desc: "Acrobatics: +11, Athletics: +13, Nature: +12, Warefare Lore: +12"
 abilityMods: [5, 3, 3, 1, 3, 1]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -72,14 +72,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Face +14 ()\n__Damage__  2d8 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Face"
+    desc: "+14 ()\n__Damage__  2d8 + 5 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +14 ()\n__Damage__  2d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+14 ()\n__Damage__  2d6 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +12 (thrown 20 ft.)\n__Damage__  2d6 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+12 (thrown 20 ft.)\n__Damage__  2d6 + 5 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 21, attack +13\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"

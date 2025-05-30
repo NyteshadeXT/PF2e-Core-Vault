@@ -58,28 +58,28 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Verdant Burst"
-    desc: "  When a vine leshy dies, a burst of primal energy explodes from its body, restoring 1d4 Hit Points to each plant creature in a @Template[emanation|distance:30]. This area fills with tangling vines, becoming difficult terrain. If the terrain is not a viable environment for the vines, they wither after 24 hours."
+    desc: "  When a vine leshy dies, a burst of primal energy explodes from its body, restoring 1d4 healing Hit Points to each plant creature in a 30-foot emanation. This area fills with tangling vines, becoming difficult terrain. If the terrain is not a viable environment for the vines, they wither after 24 hours."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +6 ()\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+6 ()\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +5 (thrown 20 ft.)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+5 (thrown 20 ft.)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 15, attack +5; __4th __ (1 slots) _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The vine leshy transforms into a Small plant with vines. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The vine leshy transforms into a Small plant with vines. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Extend Vines"
     desc: "`pf2:1`  The vine leshy Interacts to extend or shorten their arms. With limbs extended, the vine leshy has a 10-foot reach. The leshy can't use weapons that already have reach in this way, because they would be unable to keep their balance."
 
   - name: "Heft Crate"
-    desc: "`pf2:2` (manipulate) **Requirements** The Clearwater Cleaner is adjacent to a crate\n* * *\n\n**Effect** The Clearwater Cleaner picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a @Template[burst|distance:5]. Each creature within the area takes 2d6 bludgeoning damage (DC 13 Reflex check), and the area becomes difficult terrain until cleared."
+    desc: "`pf2:2` (manipulate) **Requirements** The Clearwater Cleaner is adjacent to a crate\n* * *\n\n**Effect** The Clearwater Cleaner picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a 5-foot burst. Each creature within the area takes 2d6 bludgeoning damage (DC 13 Reflex check), and the area becomes difficult terrain until cleared."
  
 ```
 

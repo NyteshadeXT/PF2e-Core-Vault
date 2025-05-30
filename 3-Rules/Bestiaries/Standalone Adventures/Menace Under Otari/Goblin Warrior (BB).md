@@ -3,7 +3,7 @@ title: "Goblin Warrior (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.jVZRROs0GzDjVrgi" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.fLLKuOXwPq1Iq0U4" 
 tags:
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +7 (agile, finesse, versatile p)\n__Damage__  1d6 slashing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+7 (agile, finesse, versatile p)\n__Damage__  1d6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +7 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+7 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
  
 ```
 

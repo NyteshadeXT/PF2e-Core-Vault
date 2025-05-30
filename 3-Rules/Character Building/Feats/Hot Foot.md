@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.dtPXuS8MiWrz5UNK"
-license: OGL
+license: ORC
 ---
 # Hot Foot `pf2:1`
 ## Feat 8
@@ -34,4 +35,4 @@ Using a carefully aimed shot, you make a creature "dance." You shoot at the grou
 **Success** The creature can't use reactions until the start of its next turn.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

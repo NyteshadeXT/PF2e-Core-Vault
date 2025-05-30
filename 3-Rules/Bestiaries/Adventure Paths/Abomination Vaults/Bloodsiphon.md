@@ -54,25 +54,31 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Death Burst"
-    desc: " (aura,occult) 20 feet. When the bloodsiphon dies, its body explodes in a cloudy red burst of necrotic dried blood in a 20-foot area.\n\nCreatures in range must attempt a DC 21 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d6 void damage.\n\n**Failure** The creature takes 4d6 void damage.\n\n**Critical Failure** The creature takes 6d6 void damage and is [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour."
+    desc: " (occult) When the bloodsiphon dies, its body explodes in a cloudy red burst of necrotic dried blood in a 20-foot area.\n\nCreatures in range must attempt a DC 21 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d6 void damage.\n\n**Failure** The creature takes 4d6 void damage.\n\n**Critical Failure** The creature takes 6d6 void damage and is [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mouth +14 ()\n__Damage__  2d8 + 6 piercing plus grab"
+  - name: "**Melee** `pf2:1` Mouth"
+    desc: "+14 ()\n__Damage__  2d8 + 6 piercing plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spittle +11 (range 30 feet)\n__Damage__  3d6 void"
+  - name: "**Ranged** `pf2:1` Spittle"
+    desc: "+11 (range 30 feet)\n__Damage__  3d6 void"
 
   - name: "Blood Drain"
-    desc: "`pf2:1`  **Requirements** The bloodsiphon has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The bloodsiphon drains blood from the creature it has grabbed. This deals 4d4 damage and the bloodsiphon grows temporarily moist and slimy as it regains 8 Hit Points, gaining any excess as temporary Hit Points that last for 1 minute.\n\nA creature that has its blood drained by the bloodsiphon is [[Conditions/Drained|Drained 1]] until it receives any type of healing."
+    desc: "`pf2:1`  **Requirements** The bloodsiphon has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The bloodsiphon drains blood from the creature it has grabbed. This deals 4d4 untyped damage and the bloodsiphon grows temporarily moist and slimy as it regains 8 healing Hit Points, gaining any excess as temporary Hit Points that last for 1 minute.\n\nA creature that has its blood drained by the bloodsiphon is [[Conditions/Drained|Drained 1]] until it receives any type of healing."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

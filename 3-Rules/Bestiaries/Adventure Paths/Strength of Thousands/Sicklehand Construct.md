@@ -57,13 +57,13 @@ abilities_mid:
     desc: "  A critical hit damages the construct's controls, making it [[Conditions/Clumsy|Clumsy 1]] until repaired. Additional critical hits increase this value, up to [[Conditions/Clumsy|Clumsy 4]]."
 
   - name: "Ridden Construct"
-    desc: "  The construct is piloted by a [[Bestiary 1/Leaf Leshy|Leaf Leshy]] who can be targeted separately but has greater cover. The leshy can't take actions of their own while inside the construct, other than to leave it, which takes 1 minute."
+    desc: "  The construct is piloted by a [[Monster Core/Leaf Leshy|Leaf Leshy]] who can be targeted separately but has greater cover. The leshy can't take actions of their own while inside the construct, other than to leave it, which takes 1 minute."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wooden Sickle +8 (agile, finesse, trip)\n__Damage__  1d4 + 1 slashing"
+  - name: "**Melee** `pf2:1` Wooden Sickle"
+    desc: "+8 (agile, finesse, trip)\n__Damage__  1d4 + 1 slashing"
 
   - name: "Menacing Sickles"
     desc: "  The construct deals an additional 1d4 precision damage to [[Conditions/Off-Guard|Off-Guard]] or [[Conditions/Prone|Prone]] creatures."

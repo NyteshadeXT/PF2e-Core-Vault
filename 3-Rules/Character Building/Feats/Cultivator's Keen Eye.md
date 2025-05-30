@@ -25,5 +25,5 @@ Attuned to all arrangements of qi, you gain lifesense as an imprecise sense with
 
 When you participate in rituals, you can substitute all or part of the ritual's cost with an equivalent value of precious materials. This applies only to costs in valuable substances like diamonds, not to rituals that require specific items to function; the GM makes the call if it's unclear.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

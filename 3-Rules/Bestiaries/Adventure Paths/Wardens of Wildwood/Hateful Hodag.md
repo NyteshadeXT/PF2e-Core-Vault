@@ -55,19 +55,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 ()\n__Damage__  2d8 + 10 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (unarmed)\n__Damage__  2d8 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile)\n__Damage__  2d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile, unarmed)\n__Damage__  2d6 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spiked Tail +17 (reach 10 feet, versatile p)\n__Damage__  2d6 + 10 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Spiked Tail"
+    desc: "+17 (reach 10 feet, versatile p)\n__Damage__  2d6 + 10 bludgeoning plus knockdown"
 
   - name: "Rip and Tear"
     desc: "`pf2:2`  The hodag makes two claw Strikes and one jaws Strike in any order."
@@ -82,7 +82,7 @@ attacks:
     desc: "`pf2:1` (curse,emotion,mental,occult) The hateful hodag vomits a stream of caustic black sludge at a single foe it can detect within 15 feet. The hodag and the target each gain a +1 circumstance bonus on all attack rolls made against each other until the hodag chooses a different target for its Vitriol. The target must attempt a DC 22 Will check save, with the following effects. The hodag cannot use Vitriol again for 1d4 rounds.\n* * *\n\n**Critical Success** No effect.\n\n**Success** The target's mind is clouded by feelings of rage and hate, causing it to be [[Conditions/Off-Guard|Off-Guard]] against the hodag's next attack. It can't use actions with the concentrate trait unless they also have the rage trait.\n\n**Failure** As success, but the target is off-guard until the end of the hodag's next turn. While off-guard, it is unable to use actions with the concentrate trait unless they also have the rage trait.\n\n**Critical Failure** As failure, but the target is off-guard until the hodag chooses a different target for its Vitriol."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

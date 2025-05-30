@@ -55,20 +55,23 @@ abilities_top:
     desc: "[[Equipment/Dagger|+1 Dagger]], [[Equipment/Ring of Wizardry (Type I)|Ring of Wizardry (Type I)]], [[Equipment/Clothing (Ordinary)|Tattered Robes]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +18 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing 4d6 void"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+18 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing 4d6 void"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 ()\n__Damage__  4d6 void 2d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (unarmed)\n__Damage__  4d6 void 2d6 + 2 piercing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 29, attack +21; __5th __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Sending|Sending]]_; __4th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Resist Energy|Resist Energy]]_; __3rd __  _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(5th)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Feasting Bite"
-    desc: "  If Cephal critically succeeds at a jaws Strike against a foe or successfully hits a helpless foe with a jaws Strike, he gnaws upon the foe's flesh and drains its life force to bolster his own health. This restores 3d6 HP to Cephal (he gains any excess HP as temporary HP, and also becomes [[Conditions/Quickened|Quickened 1]] during his next turn; he may use his extra action only to make a jaws Strike)."
+    desc: "  If Cephal critically succeeds at a jaws Strike against a foe or successfully hits a helpless foe with a jaws Strike, he gnaws upon the foe's flesh and drains its life force to bolster his own health. This restores 3d6 healing HP to Cephal (he gains any excess HP as temporary HP, and also becomes [[Conditions/Quickened|Quickened 1]] during his next turn; he may use his extra action only to make a jaws Strike)."
  
 ```
 

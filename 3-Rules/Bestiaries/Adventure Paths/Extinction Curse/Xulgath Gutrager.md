@@ -60,19 +60,19 @@ abilities_mid:
     desc: " (acid,aura) 10 feet. Whenever a gutrager is within another xulgath's stench aura, a fog appears around the gutrager; creatures in the fog (including the gutrager) can see as normal, but they are [[Conditions/Concealed|Concealed]] from creatures outside the fog. Non-xulgaths that begin their turn in the fog take 2d6 acid damage. Strong winds suppress this ability."
 
   - name: "Self-Detonate"
-    desc: "`pf2:2` (acid) **Requirements** The gutrager has 45 or fewer HP\n* * *\n\n**Effect** The gutrager compresses its gut and explodes in a burst of viscera, dying instantly and dealing 8d8 acid damage to creatures and unattended objects in a @Template[emanation|distance:20] centered on the gutrager (DC 31 Reflex check save)."
+    desc: "`pf2:2` (acid) **Requirements** The gutrager has 45 or fewer HP\n* * *\n\n**Effect** The gutrager compresses its gut and explodes in a burst of viscera, dying instantly and dealing 8d8 acid damage to creatures and unattended objects in a 20-foot emanation centered on the gutrager (DC 31 Reflex check save)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 ()\n__Damage__  2d6 + 8 piercing 2d6 acid"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (unarmed)\n__Damage__  2d6 + 8 piercing 2d6 acid"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile, finesse)\n__Damage__  2d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, finesse, unarmed)\n__Damage__  2d8 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bile Jet +23 (acid, range increment 60 feet)\n__Damage__  4d8 + 7 acid"
+  - name: "**Ranged** `pf2:1` Bile Jet"
+    desc: "+23 (acid, range increment 60 feet)\n__Damage__  4d8 + 7 acid"
 
   - name: "Corrosive Kiss"
     desc: "`pf2:2` (acid) **Frequency** once per round\n* * *\n\n**Effect** The gutrager propels its esophagus out of its body to deliver an acidic blow. It makes an unarmed Strike against a creature or unattended object within 30 feet with a +23 attack bonus.\n\nOn a hit, the target takes 2d6+8 bludgeoning damage plus 4d6 acid damage.\n\nOn a critical hit, the target also takes 2d6 persistent acid damage.\n\nThe gutrager is [[Conditions/Clumsy|Clumsy 1]] for 1 round as it re-coils its esophagus."

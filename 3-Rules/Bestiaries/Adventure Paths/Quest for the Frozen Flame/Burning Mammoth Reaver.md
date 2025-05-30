@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +11 (sweep)\n__Damage__  1d8 + 4 slashing plus cut-down"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+11 (sweep)\n__Damage__  1d8 + 4 slashing plus cut-down"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +9 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+9 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Tallow Bomb +9 (splash, thrown 20 ft.)\n__Damage__  1d4 fire 1 fire"
+  - name: "**Ranged** `pf2:1` Tallow Bomb"
+    desc: "+9 (splash, thrown 20 ft.)\n__Damage__  1d4 fire 1 fire"
 
   - name: "Cut Down"
     desc: "  When a reaver hits a creature with a battle axe Strike, the target must succeed at a DC 16 Fortitude check save or fall [[Conditions/Prone|Prone]]. If the creature critically fails its save, it takes 1d6 bludgeoning damage as it falls prone."

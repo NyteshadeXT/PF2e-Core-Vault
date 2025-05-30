@@ -6,7 +6,7 @@ tags:
   - trait/auditory
   - trait/manipulate
   - trait/visual
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.sn2hIy1iIJX9Vpgj"
@@ -14,7 +14,7 @@ license: ORC
 ---
 # Point Out `pf2:1`
 
-### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Manipulate]][[visual]]
+### [[auditory]][[manipulate]][[visual]]
 
 **Category** interaction; 
 

@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +6 (agile, finesse, trip)\n__Damage__  1d4 + 4 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+6 (agile, finesse, trip)\n__Damage__  1d4 + 4 slashing"
  
 ```
 

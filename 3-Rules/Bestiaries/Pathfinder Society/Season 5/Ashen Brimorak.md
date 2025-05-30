@@ -56,6 +56,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 60 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Extinguishing Aversion"
     desc: "  Dousing a brimorak with water, either ordinary water or from a water effect, causes no physical harm to the fiend but deals 3d6 mental damage. Fully immersing the brimorak in water deals 5d6 mental damage per round."
 
@@ -70,26 +73,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flaming Sword +17 (magical, unholy)\n__Damage__  2d8 + 6 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Flaming Sword"
+    desc: "+17 (magical, unholy)\n__Damage__  2d8 + 6 slashing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +17 (agile, unholy)\n__Damage__  2d4 + 6 bludgeoning 1d6 spirit"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+17 (agile, unholy)\n__Damage__  2d4 + 6 bludgeoning 1d6 spirit"
 
   - name: "Divine Innate Spells"
-    desc: "DC 21, attack +13; __4th __  _[[Spells/Translocate|Dimension Door]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Fireball|Fireball]]_\n__Cantrips__  __(3rd)__ _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 21, attack +13; __4th __  _[[Spells/Translocate|Dimension Door]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Fireball|Fireball]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine,fire) The brimorak spits their boiling blood in a @Template[line|distance:20] that deals 6d6 fire damage (DC 23 Reflex check save). The brimorak can't use their Breath Weapon again for 1d4 rounds.\n\nThe ground within this area becomes slippery, with the effects of a [[Spells/Grease|Grease]] spell targeting an area until it's cleaned up or the brimorak is able to use their Breath Weapon again, whichever comes first."
+    desc: "`pf2:2` (divine,fire) The brimorak spits their boiling blood in a 20-foot line that deals 6d6 fire damage (DC 23 Reflex check save). The brimorak can't use their Breath Weapon again for 1d4 rounds.\n\nThe ground within this area becomes slippery, with the effects of a [[Spells/Grease|Grease]] spell targeting an area until it's cleaned up or the brimorak is able to use their Breath Weapon again, whichever comes first."
 
   - name: "Flaming Weapon"
     desc: " (divine,fire) A brimorak's hooves and any weapon they wield burst into flame, dealing an extra 1d6 fire damage with each hit.\n\nIf they don't have a weapon, they can create a flaming sword of fire and steel (see flaming sword Strike in Melee entry above)."
 
   - name: "Fume"
-    desc: "`pf2:2` (divine,fire) The brimorak emits a cloud of thick black smoke in a @Template[burst|distance:10] that remains in place for 1d4 rounds.\n\nAll creatures within the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within it. A creature that enters or begins its turn within the smoke it must succeed at a DC 23 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
+    desc: "`pf2:2` (divine,fire) The brimorak emits a cloud of thick black smoke in a 10-foot burst that remains in place for 1d4 rounds.\n\nAll creatures within the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within it. A creature that enters or begins its turn within the smoke it must succeed at a DC 23 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
  
 ```
 

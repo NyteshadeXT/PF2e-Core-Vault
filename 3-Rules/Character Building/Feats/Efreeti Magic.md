@@ -18,7 +18,7 @@ license: OGL
 
 
 
-The magic of your efreeti ancestors flows through you. You can cast [[Enlarge|Enlarge]] and [[Illusory Object|Illusory Object]] once per day each as 2nd-rank arcane innate spells.
+The magic of your efreeti ancestors flows through you. You can cast [[Spells/Enlarge|Enlarge]] and [[Spells/Illusory Object|Illusory Object]] once per day each as 2nd-rank arcane innate spells.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

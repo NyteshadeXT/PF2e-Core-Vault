@@ -24,9 +24,7 @@ You have focused your training on hunting and defeating ghosts, spirits, and all
 
 Choose two cantrips from the occult spell list. Each cantrip must have the divination, enchantment, or necromancy trait. You can cast these spells as innate occult spells. You gain access to the Cast a Spell activity if you didn't have it already. You're trained in occult spell attack rolls and spell DCs. You can usually replace material components with somatic components, so you don't need a spell component pouch. Your key spellcasting ability for these spells is Charisma.
 
-* * *
-
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Ghost Hunter|Ghost Hunter]] archetype.
+[[PF2e Journals/Archetypes/Ghost Hunter|Ghost Hunter]]
 
 *Source: Pathfinder #163: Ruins of Gauntlight*
 *OGL*

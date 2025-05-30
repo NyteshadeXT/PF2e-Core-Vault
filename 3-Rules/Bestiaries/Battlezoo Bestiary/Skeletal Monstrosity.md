@@ -65,17 +65,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +23 (reach 20 feet)\n__Damage__  2d8 + 13 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+23 (reach 20 feet)\n__Damage__  2d8 + 13 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing Scythe +23 (agile, reach 15 feet, sweep)\n__Damage__  2d6 + 13 slashing"
+  - name: "**Melee** `pf2:1` Wing Scythe"
+    desc: "+23 (agile, reach 15 feet, sweep)\n__Damage__  2d6 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +23 (reach 10 feet)\n__Damage__  2d12 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+23 (reach 10 feet)\n__Damage__  2d12 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bone Splinter +19 (range increment 60 feet)\n__Damage__  2d6 + 13 piercing"
+  - name: "**Ranged** `pf2:1` Bone Splinter"
+    desc: "+19 (range increment 60 feet)\n__Damage__  2d6 + 13 piercing"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

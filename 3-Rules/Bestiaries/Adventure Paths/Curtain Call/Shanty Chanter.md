@@ -54,11 +54,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +22 (finesse, magical)\n__Damage__  2d12 + 11 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+22 (finesse, magical, unarmed)\n__Damage__  2d12 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +22 (agile, finesse, magical)\n__Damage__  2d8 + 11 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+22 (agile, finesse, magical, unarmed)\n__Damage__  2d8 + 11 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 29, attack +17; __5th __  _[[Spells/Mariner's Curse|Mariner's Curse (x2)]]_; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Water Breathing|Water Breathing]]_; __3rd __  _[[Spells/Wall of Wind|Wall of Wind]]_\n__Cantrips__  __(5th)__ _[[Spells/Electric Arc|Electric Arc]]_"
@@ -81,7 +81,7 @@ creatures:
 
 Shanty chanters are known to dwell along the coasts of Garund or the eastern isles of the Shackles, living on small islands or cliffsides but rarely venturing too far inland. These capricious fey have humanoid torsos and seagull heads, wings, and feet, and they stand about 5 feet tall. Consummate performers, shanty chanters adore music, especially the sea shanties sung by ships' crews. The songs from these fey's aeries can be heard from miles away over the open sea. While some sailors claim these songs intentionally lure mortals to drown, most shanty chanters aren't outright malevolent and would be more inclined to investigate a foundering ship than to slaughter those aboard, even if they do relieve such a vessel of its valuables.
 
-Shanty chanters have a particular affinity for pirate ships, and a captain who wins an alliance with an aerie of shanty chanters is considered blessed with good luck. Of course, this attention can be a double-edged sword. If a captain fails to appease the ship's allied shanty chanters (generally by giving them a fair share of the plunder gained while they're on board), the affronted fey afflicts the captain with a [[Mariner's Curse|Mariner's Curse]] before departing for more prosperous shores.
+Shanty chanters have a particular affinity for pirate ships, and a captain who wins an alliance with an aerie of shanty chanters is considered blessed with good luck. Of course, this attention can be a double-edged sword. If a captain fails to appease the ship's allied shanty chanters (generally by giving them a fair share of the plunder gained while they're on board), the affronted fey afflicts the captain with a [[Spells/Mariner's Curse|Mariner's Curse]] before departing for more prosperous shores.
 
 ## Chanter Vanity
 

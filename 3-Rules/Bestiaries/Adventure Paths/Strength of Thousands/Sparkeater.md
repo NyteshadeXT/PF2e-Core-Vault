@@ -68,16 +68,19 @@ abilities_mid:
     desc: "`pf2:r`  **Trigger** Sparkeater takes any amount of bludgeoning damage\n* * *\n\n**Effect** Sparkeater's brittle bones shatter, spraying bone shards everywhere. Every creature within a 10-foot emanation of Sparkeater takes 7d6 piercing damage (DC 31 Reflex check save)."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 31 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 31 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +30 (magical)\n__Damage__  3d8 + 16 piercing 2d6 void"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+30 (magical, unarmed)\n__Damage__  3d8 + 16 piercing 2d6 void"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +30 (agile, magical)\n__Damage__  3d4 + 16 slashing 2d6 void"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+30 (agile, magical, unarmed)\n__Damage__  3d4 + 16 slashing 2d6 void"
 
   - name: "Breath Weapon"
     desc: "`pf2:2` (divine,void) Sparkeater breathes a torrent of void energy that deals 16d6 void damage in a 40-foot cone (DC 34 Reflex check save).\n\nHe can't use Breath Weapon again for 1d4 rounds."

@@ -12,14 +12,14 @@ license: OGL
 ---
 # Runebranded Hide
 ## Item 8
-### [uncommon](uncommon.md "Uncommon Rarity Trait")[[invested]][[magical|Magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
 
 **Category** medium; 
 **Price** 160 gp; 
 **Bulk** 2; **Size** med
 **Usage** wornarmor
 
-The matted, shaggy fur hanging from this _+1 hide armor_ belies its expert make and the powers of its runic brands. While wearing _runebranded hide_, you gain a +1 item bonus to saving throws against electricity effects. _Runebranded hide_ with a _Resilient_, _Greater Resilient_, or _Major Resilient_ rune increases the item bonus to saving throws against electricity effects by +1, +2, or +3, respectively (to a maximum +4 item bonus).
+The matted, shaggy fur hanging from this _+1 hide armor_ belies its expert make and the powers of its runic brands. While wearing _runebranded hide_, you gain a +1 item bonus to saving throws against electricity effects. _Runebranded hide_ with a _[[Equipment/Resilient|Resilient]]_, _[[Equipment/Resilient (Greater)|Greater Resilient]]_, or _[[Equipment/Resilient (Major)|Major Resilient]]_ rune increases the item bonus to saving throws against electricity effects by +1, +2, or +3, respectively (to a maximum +4 item bonus).
 
 * * *
 
@@ -27,7 +27,7 @@ The matted, shaggy fur hanging from this _+1 hide armor_ belies its expert make 
 
 * * *
 
-**Craft Requirements** Supply the hide of a Runebranded Aurochs.
+**Craft Requirements** Supply the hide of a [[Creatures/Runebranded Aurochs|Runebranded Aurochs]].
 
 * * *
 

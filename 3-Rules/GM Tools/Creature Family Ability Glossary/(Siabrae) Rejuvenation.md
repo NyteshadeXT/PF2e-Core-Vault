@@ -4,7 +4,7 @@ title: "(Siabrae) Rejuvenation"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/primal
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.gbKpCw21tEmehq6e"
 license: OGL

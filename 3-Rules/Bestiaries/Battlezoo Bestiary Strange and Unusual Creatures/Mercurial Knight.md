@@ -33,7 +33,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Athletics: +9, Stealth: +7, Acrobatics: +9, Athletics: +9, Stealth: +7"
+    desc: "Acrobatics: +9, Athletics: +9, Stealth: +7"
 abilityMods: [4, 3, 2, 0, 1, 1]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"

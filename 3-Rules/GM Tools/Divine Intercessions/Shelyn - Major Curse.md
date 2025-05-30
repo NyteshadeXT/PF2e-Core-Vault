@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Shelyn - Major Curse"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/curse
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.ILtU0TAUZcOcwkkG"
 license: OGL
 ---
 # Shelyn - Major Curse
-
+## Feat 1
 ### 
 
 **Category** curse; 
@@ -23,5 +23,5 @@ You lose the ability to distinguish any living being from another through appear
 
 If you were merely shallow, every creature you see has generic, bland features, but if your deeds were vile, you see only the faces of those you have wronged.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

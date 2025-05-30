@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bone Crest +10 ()\n__Damage__  2d10 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Bone Crest"
+    desc: "+10 ()\n__Damage__  2d10 + 7 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +12 ()\n__Damage__  2d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+12 ()\n__Damage__  2d6 + 4 bludgeoning"
 
   - name: "Hammerhead"
     desc: "`pf2:2` (attack) The mjolgat rears upon its hind leg to crush an enemy with its jagged crest of bone. The mjolgat makes a bone crest Strike; on a hit, the mjolgat deals an extra die of damage. This counts as two attacks when calculating the mjolgat's multiple attack penalty"

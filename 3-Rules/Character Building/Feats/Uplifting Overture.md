@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** maestro muse
 * * *
-You learn the [[3-Rules/Character Building/Spells/U/Uplifting Overture|Uplifting Overture]] composition cantrip, which aids your allies' skills with the inspiring nature of your performance.
+You learn the [[Spells/Uplifting Overture|Uplifting Overture]] composition cantrip, which aids your allies' skills with the inspiring nature of your performance.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +15 (forceful, sweep)\n__Damage__  1d6 + 7 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+15 (forceful, sweep)\n__Damage__  1d6 + 7 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +15 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+15 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Mobility"
     desc: "  When the sailor takes a Stride action to move half their Speed or less, that movement does not trigger reactions."

@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Harvest Crops"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/region
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.o81alpjEki9cESun"
 license: OGL
 ---
 # Harvest Crops
-
+## 
 ### [[downtime]][[region]]
 
 **Category** kingdom-activity; 

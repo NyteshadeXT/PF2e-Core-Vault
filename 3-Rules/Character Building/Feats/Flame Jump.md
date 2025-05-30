@@ -17,7 +17,7 @@ license: OGL
 ---
 # Flame Jump
 ## Feat 13
-### [[concentrate]][[divine]][[exploration]][[3-Rules/trait_reference/F/fire]][[manipulate]][[nephilim]][[teleportation]]
+### [[concentrate]][[divine]][[exploration]][[fire]][[manipulate]][[nephilim]][[teleportation]]
 
 **Category** ancestry; 
 
@@ -35,5 +35,5 @@ You can spend 1 minute in focused preparation, then enter a fire your size or la
 
 You can't carry extradimensional spaces with you when you teleport; if you attempt to do so, the activity fails.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

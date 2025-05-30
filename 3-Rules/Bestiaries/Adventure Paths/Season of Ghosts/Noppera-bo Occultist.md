@@ -53,6 +53,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Staff|Staff]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 30 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "No Face"
     desc: "  Noppera-bos have no sense of vision, but their sense of hearing is precise. They don't breathe and are immune to effects that require breathing. They gain sustenance by absorbing fluids through their skin—traditionally by immersing their hands or faceless head into the fluid to \"drink\" through osmosis; they can also benefit from consumables, such as potions or elixirs, in this way."
 
@@ -64,8 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +7 (two-hand d8)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+7 (two-hand d8)\n__Damage__  1d4 + 3 bludgeoning"
+
+  - name: "Occult Innate Spells"
+    desc: "DC 18, attack +9; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Impersonate Shape"
     desc: "`pf2:2` (concentrate,occult,polymorph) The noppera-bo changes into a version of a Small or Medium humanoid they've touched during the last 24 hours, and gains the target creature's face and voice. While transformed, the noppera-bo gains a +2 circumstance bonus to [[Actions/Impersonate|Impersonate]] that creature and loses its no face ability and listed immunities. The noppera-bo can change back by using this ability again."

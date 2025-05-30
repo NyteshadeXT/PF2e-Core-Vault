@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Proboscis +11 ()\n__Damage__  1d6 + 5 piercing plus sleeping-sickness"
+  - name: "**Melee** `pf2:1` Proboscis"
+    desc: "+11 ()\n__Damage__  1d6 + 5 piercing plus sleeping-sickness"
 
   - name: "Blood Draw"
     desc: "`pf2:1`  If the fly's last action was a successful proboscis Strike, it sucks its target's blood. The target takes 1d4 bleed (or 1d6 bleed if the target is an animal)."

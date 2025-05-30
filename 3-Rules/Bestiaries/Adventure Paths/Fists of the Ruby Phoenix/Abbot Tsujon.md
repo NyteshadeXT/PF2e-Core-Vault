@@ -73,17 +73,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sal Blossom +36 (deadly d10, finesse, magical, unarmed)\n__Damage__  4d10 + 13 void"
+  - name: "**Melee** `pf2:1` Sal Blossom"
+    desc: "+36 (deadly d10, finesse, magical, unarmed)\n__Damage__  4d10 + 13 void"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +36 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  4d6 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+36 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  4d6 + 13 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Khakkhara +34 (magical, shove, two-hand d10, versatile p)\n__Damage__  4d6 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Khakkhara"
+    desc: "+34 (magical, shove, two-hand d10, versatile p)\n__Damage__  4d6 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Temple Bell +36 (range increment 60 feet, sonic)\n__Damage__  4d10 + 8 sonic"
+  - name: "**Ranged** `pf2:1` Temple Bell"
+    desc: "+36 (range increment 60 feet, sonic)\n__Damage__  4d10 + 8 sonic"
 
   - name: "Focus Spells"
     desc: "1 Focus Point, DC 40, attack +32; __9th __  _[[Spells/Qi Blast|Ki Blast]]_, _[[Spells/Qi Rush|Ki Rush]]_, _[[Spells/Inner Upheaval|Ki Strike]]_, _[[Spells/Harmonize Self|Wholeness of Body]]_"

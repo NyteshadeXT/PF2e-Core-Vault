@@ -27,5 +27,5 @@ license: OGL
 
 Illusion magic comes to you so naturally that you can effortlessly sustain your magical ruses. You immediately gain the effects of a [[Actions/Sustain|Sustain a Spell]] action to extend the duration of one of your active illusion spells.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

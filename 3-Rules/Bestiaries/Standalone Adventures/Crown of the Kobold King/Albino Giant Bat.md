@@ -48,22 +48,22 @@ health:
 abilities_top:
   - name: ""
 
-  - name: "[[Bestiary 1/Giant Bat/Echolocation (Precise) 40 feet|Echolocation (Precise) 40 feet]]"
+  - name: "[[Monster Core/Giant Bat/Echolocation (Precise) 40 feet|Echolocation (Precise) 40 feet]]"
     desc: "  A bat can use its hearing as a precise sense at the listed range."
 
 abilities_mid:
   - name: ""
-  - name: "[[Bestiary 1/Giant Bat/Wing Thrash|Wing Thrash]]"
+  - name: "[[Monster Core/Giant Bat/Wing Thrash|Wing Thrash]]"
     desc: "`pf2:r`  **Trigger** An adjacent enemy damages the giant bat.\n* * *\n\n**Effect** The bat makes one or two wing Strikes-one against the triggering creature and one against another adjacent creature."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +14 ()\n__Damage__  2d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+14 ()\n__Damage__  2d8 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wings +14 (agile)\n__Damage__  2d4 + 7 piercing"
+  - name: "**Melee** `pf2:1` Wings"
+    desc: "+14 (agile)\n__Damage__  2d4 + 7 piercing"
  
 ```
 

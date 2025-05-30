@@ -37,6 +37,6 @@ abilities_top:
     desc: "1 minute"
 abilities_mid:
   - name: ""
-    desc: "With a ripple of earth, you raise small barriers from the ground. The ground in the area becomes difficult terrain. The spell's area is a @Template[burst|distance:5] if you spent 1 action to cast it, a @Template[burst|distance:10] if you spent 2 actions, or a @Template[burst|distance:15] if you spent 3 actions. A creature can Interact to clear the barriers from one 5-foot square adjacent to it.\n* * *\n\n**Heightened (4th)** You pull the barriers to float in the air, causing the spell to function as difficult terrain for flying creatures"
+    desc: "With a ripple of earth, you raise small barriers from the ground. The ground in the area becomes difficult terrain. The spell's area is a 5-foot burst if you spent 1 action to cast it, a 10-foot burst if you spent 2 actions, or a 15-foot burst if you spent 3 actions. A creature can Interact to clear the barriers from one 5-foot square adjacent to it.\n* * *\n\n**Heightened (4th)** You pull the barriers to float in the air, causing the spell to function as difficult terrain for flying creatures"
 sourcebook: "_Pathfinder Player Core_"
 ```

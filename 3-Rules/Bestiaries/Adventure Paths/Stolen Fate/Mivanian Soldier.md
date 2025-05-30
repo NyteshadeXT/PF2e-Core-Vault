@@ -54,7 +54,7 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Spike Launcher|Spike Launcher]], [[Equipment/Rapier|+1 Striking Rapier]], [[Equipment/Leather Armor|Leather Armor Bearing Mivanian Insignia]], [[Equipment/Manacles (Simple)|Manacles (Simple)]], 20x [[Item.247H5qGAteycBdAe|Spikes]]"
+    desc: "[[Equipment/Spike Launcher|Spike Launcher]], [[Equipment/Rapier|+1 Striking Rapier]], [[Equipment/Leather Armor|Leather Armor Bearing Mivanian Insignia]], [[Equipment/Manacles (Simple)|Manacles (Simple)]], 20x [[Equipment/Spikes|Spikes]]"
 abilities_mid:
   - name: ""
   - name: "Snap Shot"
@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +19 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+19 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +18 (finesse)\n__Damage__  2d10 + 10 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+18 (finesse, unarmed)\n__Damage__  2d10 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spike Launcher +18 (backstabber, fatal d12, kickback, magical, range increment 120 feet, reload 1)\n__Damage__  2d8 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Spike Launcher"
+    desc: "+18 (backstabber, fatal d12, kickback, magical, range increment 120 feet, reload 1)\n__Damage__  2d8 + 7 piercing"
 
   - name: "Go For the Eyes"
     desc: "`pf2:r`  **Trigger** The Mivanian soldier critically hits with a beak Strike\n* * *\n\n**Effect** The soldier attempts to peck out his victim's eyes. The target must attempt a DC 26 Fortitude check save.\n* * *\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Blinded|Blinded]] for 1 round.\n\n**Critical Failure** The target is blinded until healed to its maximum Hit Points."

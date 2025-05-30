@@ -6,8 +6,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.mDczSj3GolIbkhGJ"
-license: OGL
+license: ORC
 ---
 # Instant Return `pf2:r`
 ## Feat 16
@@ -24,7 +25,7 @@ license: OGL
 
 * * *
 
-With a single fluid gesture, you catch a projectile out of the air, load it in your weapon, and shoot it back at the attacker. Interact to load the projectile into your weapon, then make a Strike with the required weapon against the triggering opponent. Since you're using the foe's ammunition, this Strike applies any special effects that ammunition would have (for instance, if it was [[Explosive Ammunition|Explosive Ammunition]], it would explode in a burst of fire if your Strike hits).
+With a single fluid gesture, you catch a projectile out of the air, load it in your weapon, and shoot it back at the attacker. Interact to load the projectile into your weapon, then make a Strike with the required weapon against the triggering opponent. Since you're using the foe's ammunition, this Strike applies any special effects that ammunition would have (for instance, if it was [[Equipment/Explosive Ammunition|Explosive Ammunition]], it would explode in a burst of fire if your Strike hits).
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Feats/Repair Module|Repair Module]].
+Granted by [[Feats/Repair Module|Repair Module]]
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+You gain fast healing equal to half your level.
+
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

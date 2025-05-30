@@ -20,7 +20,7 @@ license: ORC
 
 
 
-**Prerequisites** Wrestler Dedication (Archetype)
+**Prerequisites** Wrestler Dedication
 * * *
 **Requirements** You have a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
 

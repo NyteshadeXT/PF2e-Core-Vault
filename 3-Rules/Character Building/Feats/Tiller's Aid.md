@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Bellflower Dedication
 * * *
-You can use the Aid reaction to help a member of your crop even if you haven't prepared to do so.a
+You can use the [[Actions/Aid|Aid]] reaction to help a member of your crop even if you haven't prepared to do so.
 
 *Source: Pathfinder #147: Tomorrow Must Burn*
 *OGL*

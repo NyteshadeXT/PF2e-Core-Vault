@@ -10,7 +10,7 @@ license: OGL
 ---
 # Eldritch Calm
 ## Feat 13
-### [rare](rare.md "Rare Rarity Trait")
+### [rare](rare "Rare Rarity Trait")
 
 **Category** ancestry; 
 
@@ -23,5 +23,5 @@ Your fey heritage has altered your mindset to more resemble the uncanny perspect
 
 **Special** This feat gains the trait appropriate for your ancestry (human for human, goblin for goblin, etc.).
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

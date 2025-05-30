@@ -61,14 +61,17 @@ abilities_mid:
   - name: "Rejuvenation"
     desc: " (divine) When a llorona is destroyed, they re-form after 1d6 days at the site of their death. Resolving the injustice that led to a llorona's death puts them to rest permanently. Alternatively, successfully performing a [[Spells/Consecrate|Consecrate]] ritual at the site prevents them from re-forming."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +25 (agile, finesse, magical)\n__Damage__  2d6 + 11 void plus funereal-touch,grab"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+25 (agile, finesse, magical)\n__Damage__  2d6 + 11 void plus funereal-touch,grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6+12 void DC 31 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d6+12 void DC 31 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Funereal Touch"
     desc: "  A creature touched by a llorona must attempt a DC 29 Fortitude check save. On a failure, the creature becomes [[Conditions/Drained|Drained 1]] (drained 2 on a critical failure) or increases their drained value by 1 (2 on a critical failure), up to a maximum of drained 4. Every time a creature becomes drained in this way, the llorona gains 10 temporary Hit Points for 1 hour."
@@ -80,7 +83,7 @@ attacks:
     desc: "`pf2:2` (auditory,concentrate,incapacitation,mental,occult) The llorona unleashes a somber wail. Each living creature within 120 feet must attempt a DC 31 Will check save. Regardless of its result, the creature is then temporarily immune for 24 hours.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]].\n\n**Failure** The creature is [[Conditions/Fascinated|Fascinated]] with the nearest body of water and compelled to move toward the water and drown itself. If there's no nearby body of water, the creature instead remains still. The creature can attempt another DC 31 Will check save at the end of each of its turns. On a success, the creature is no longer fascinated. Once the fascinated condition ends, the creature becomes stunned 1.\n\n**Critical Failure** As failure, except the creature receives another Will save only at the end of a round in which it's submerged in water."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

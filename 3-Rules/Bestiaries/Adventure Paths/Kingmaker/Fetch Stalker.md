@@ -54,16 +54,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 40 (Deactivated by Fire or Void)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fetch Weapon +35 (agile, magical, versatile b, versatile p)\n__Damage__  3d8 + 14 slashing 2d6 mental"
+  - name: "**Melee** `pf2:1` Fetch Weapon"
+    desc: "+35 (agile, magical, versatile b, versatile p)\n__Damage__  3d8 + 14 slashing 2d6 mental"
 
   - name: "Primal Innate Spells"
-    desc: "DC 40, attack +32; __9th __  _[[Spells/Disjunction|Disjunction]]_; __8th __  _[[Spells/Illusory Creature|Illusory Creature]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (to or from the First World only)]]_; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_\n__Cantrips__  __(9th)__ _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_\n__Constant__  __(9th)__ _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Truespeech|Tongues]]_"
+    desc: "DC 40, attack +32; __9th __  _[[Spells/Disjunction|Disjunction]]_; __8th __  _[[Spells/Illusory Creature|Illusory Creature]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (to or from the First World only)]]_; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_\n__Cantrips__  __(9th)__ _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_\n__Constant__  __(9th)__ _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Manifest Fetch Weapon"
     desc: " (primal) **Trigger** The fetch starts its turn\n\n**Effect** A fetch weapon manifests in the fetch's hand. As soon as a fetch weapon is no longer wielded by a fetch, it vanishes. The fetch chooses the type of weapon it manifests, but it does not gain any of that weapon's standard weapon traits, instead using the traits listed above in the fetch weapon Strike."

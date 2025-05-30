@@ -35,7 +35,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +7, Athletics: +7, Stealth: +7, Acrobatics: +7, Athletics: +7, Stealth: +7"
+    desc: "Acrobatics: +7, Athletics: +7, Stealth: +7"
 abilityMods: [2, 4, 2, -3, 2, -2]
 speed: 30 feet,  burrow 10 feet,  swim 10 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +8 (agile)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+8 (agile)\n__Damage__  1d6 + 2 slashing"
 
   - name: "Claw Throat"
     desc: "`pf2:1`  **Requirements** The plug-tailed wolly has crawled down a creature's throat\n* * *\n\n**Effect** The plug-tailed wolly viciously claws the inside of the creature's throat. This deals 1d6 slashing damage with a DC 17 Fortitude check save."

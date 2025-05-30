@@ -21,5 +21,5 @@ license: OGL
 * * *
 You can use [[Feats/Elemental Assault|Elemental Assault]] once per hour instead of once per day.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

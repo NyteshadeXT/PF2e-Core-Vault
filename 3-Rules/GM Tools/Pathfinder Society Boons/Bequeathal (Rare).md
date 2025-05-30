@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Bequeathal (Rare)"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/rare
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.xUrt3LrfLHc1DS3l"
 license: OGL
 ---
 # Bequeathal (Rare)
-
+## Feat 1
 ### [rare](rare "Rare Rarity Trait")
 
 **Category** pfsboon; 

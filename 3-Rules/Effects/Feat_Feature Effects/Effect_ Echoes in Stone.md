@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Feats/Echoes in Stone|Echoes in Stone]]
+
 You gain imprecise tremorsense with a range of 20 feet.
 
 *Source: Pathfinder Player Core*

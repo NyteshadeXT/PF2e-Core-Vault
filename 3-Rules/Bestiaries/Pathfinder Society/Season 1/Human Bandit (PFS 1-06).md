@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +6 (thrown 10 ft.)\n__Damage__  1d6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+6 (thrown 10 ft.)\n__Damage__  1d6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +5 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+5 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 bludgeoning"
 
   - name: "Ruffian Strike"
     desc: "  A bandit deals 3 extra precision damage to an [[Conditions/Off-Guard|Off-Guard]] creature."

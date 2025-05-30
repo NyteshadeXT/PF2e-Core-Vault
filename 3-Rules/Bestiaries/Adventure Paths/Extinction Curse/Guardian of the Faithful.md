@@ -48,12 +48,15 @@ hp: 90
 health:
   - name: ""
   - name: HP
-    desc: "90; __Hardness__ 10; __Immunities__  bleed,  death effects,  disease,  doomed,  drained,  fatigued,  healing,  nonlethal attacks,  paralyzed,  poison,  sickened,  spirit,  unconscious,  vitality,  void,  mental"
+    desc: "90, fast healing 5; __Hardness__ 10; __Immunities__  bleed,  death effects,  disease,  doomed,  drained,  fatigued,  healing,  nonlethal attacks,  paralyzed,  poison,  sickened,  spirit,  unconscious,  vitality,  void,  mental"
 abilities_top:
   - name: ""
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 5]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "Construct Armor (Hardness 10)"
     desc: "  Like normal objects, an giant animated statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once an giant animated statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 24."
 
@@ -63,20 +66,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stone Fist +21 (magical)\n__Damage__  2d12 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Stone Fist"
+    desc: "+21 (magical)\n__Damage__  2d12 + 8 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flaming Coal +14 (fire, magical, range increment 80 feet)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Ranged** `pf2:1` Flaming Coal"
+    desc: "+14 (fire, magical, range increment 80 feet)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Brazier"
     desc: "  The statue carries a wide brazier full of hot coals. To make flaming coal Strikes or use Burn Alive, the statue must have the brazier held in one hand or otherwise have it within reach. Instead of targeting the statue with an attack, a creature can target the brazier directly. The brazier has the same AC and saves as the statue. Dealing 15 cold damage to the brazier or dousing it with at least 2 gallons of water extinguishes the coals. This prevents the statue from using Burn Alive and causes its ranged attacks to no longer deal 2d8+2 fire damage."
 
   - name: "Burn Alive"
-    desc: "`pf2:1` (fire) The statue grinds a creature it has [[Conditions/Grabbed|Grabbed]] into the red-hot coals of its brazier. The target takes 3d8 fire damage and 1d8 persistent fire damage."
+    desc: "`pf2:1` (fire) The statue grinds a creature it has [[Conditions/Grabbed|Grabbed]] into the red-hot coals of its brazier. The target takes 3d8+2 fire + 1d8 persistent fire damage."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

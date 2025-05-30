@@ -56,17 +56,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 20 (Deactivated by Acid or Fire)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 (reach 10 feet)\n__Damage__  2d10 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (reach 10 feet, unarmed)\n__Damage__  2d10 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +16 (agile, reach 10 feet)\n__Damage__  2d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+16 (agile, reach 10 feet, unarmed)\n__Damage__  2d8 + 8 slashing"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  **Claw**"
+    desc: "`pf2:1`  **Claw**\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
  
 ```
 

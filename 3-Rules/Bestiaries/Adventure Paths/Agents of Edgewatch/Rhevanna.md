@@ -56,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Plunder Life"
     desc: " (aura,divine) 60 feet. When a healing effect restores Hit Points to a non-fiend creature in the aura, the amount of Hit Points restored is halved. The rhevanna gains temporary Hit Points equal to the amount of Hit Points restored.\n\nThe rhevanna loses any remaining temporary Hit Points after 1 minute."
@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spiked Chain +43 (disarm, magical, reach 10 feet, trip, unholy)\n__Damage__  3d8 + 18 slashing 3d6 spirit"
+  - name: "**Melee** `pf2:1` Spiked Chain"
+    desc: "+43 (disarm, magical, reach 10 feet, trip, unholy)\n__Damage__  3d8 + 18 slashing 3d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +40 (magical, unholy)\n__Damage__  4d6 + 18 slashing 3d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+40 (magical, unarmed, unholy)\n__Damage__  4d6 + 18 slashing 3d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 45, attack +37; __10th __  _[[Spells/Dominate|Dominate]]_; __9th __  _[[Spells/Seize Soul|Bind Soul (At Will)]]_, _[[Spells/Planar Tether|Dimensional Anchor (At Will)]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Possession|Possession]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (At Will) (Self Only)]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Scrying|Scrying]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/Detect Alignment|Detect Alignment (Good Only)]]_, _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"
@@ -77,7 +77,7 @@ attacks:
     desc: "  **Frequency** once per round\n\n**Trigger** The rhevanna hits a creature with a weapon Strike\n* * *\n\n**Effect** The rhevanna casts an innate [[Spells/Planar Tether|Planar Tether]] spell on the creature."
 
   - name: "Lifedrinker"
-    desc: "`pf2:r` (divine,healing) **Trigger** The rhevanna kills a living creature of at least 16th level\n* * *\n\n**Effect** The rhevanna drinks the triggering creature's life force and regains 40 Hit Points. If the triggering creature is a celestial, the rhevanna instead regains 80 Hit Points."
+    desc: "`pf2:r` (divine,healing) **Trigger** The rhevanna kills a living creature of at least 16th level\n* * *\n\n**Effect** The rhevanna drinks the triggering creature's life force and regains 40 healing Hit Points. If the triggering creature is a celestial, the rhevanna instead regains 80 healing Hit Points."
 
   - name: "Malefic Binding"
     desc: "  The rhevanna can target celestials with their [[Spells/Seize Soul|Seize Soul]] ability, and a gem containing a celestial bound by a rhevanna has Hardness 40.\n\nIf the rhevanna destroys a gem in which they placed a celestial, the celestial is destroyed forever."

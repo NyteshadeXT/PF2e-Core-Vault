@@ -48,8 +48,20 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (imprecise) 120 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 300 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 30 (Deactivated by Fire)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Aura of Growth"
     desc: " (aura,plant,primal) 120 feet. Plants near Dimari-Diji grow larger and more vibrant. Plants in the emanation gain the success effects of the [[Spells/Plant Growth|Plant Growth]] ritual. Any plant spells cast in the area are empowered and use the effects of the spell 1 rank higher than it was cast, to a maximum of 9th rank (Dimari-Diji's spells are unaffected). Finally, other plant creatures gain fast healing 20 while in the area.\n\n[[Bestiary Effects/Effect_ Aura of Growth|Effect: Aura of Growth]]"
 
@@ -65,17 +77,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +44 (magical, reach 20 feet)\n__Damage__  5d10 + 20 bludgeoning plus improved-knockdown"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+44 (magical, reach 20 feet)\n__Damage__  5d10 + 20 bludgeoning plus improved-knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mental Blast +44 (magical, mental, range increment 120 feet)\n__Damage__  5d6 + 20 mental plus memories-of-ages"
+  - name: "**Ranged** `pf2:1` Mental Blast"
+    desc: "+44 (magical, mental, range increment 120 feet)\n__Damage__  5d6 + 20 mental plus memories-of-ages"
 
   - name: "Primal Innate Spells"
     desc: "DC 49, attack +41; __10th __ (2 slots) _[[Spells/Primal Phenomenon|Primal Phenomenon]]_, _[[Spells/Revival|Revival]]_; __9th __ (3 slots) _[[Spells/Nature's Enmity|Nature's Enmity]]_, _[[Spells/Storm of Vengeance|Storm of Vengeance]]_, _[[Spells/Summon Plant or Fungus|Summon Plant or Fungus]]_; __8th __ (3 slots) _[[Spells/Moment of Renewal|Moment of Renewal]]_, _[[Spells/Punishing Winds|Punishing Winds]]_, _[[Spells/Migration|Wind Walk]]_; __7th __ (2 slots) _[[Spells/Regenerate|Regenerate]]_, _[[Spells/Sunburst|Sunburst]]_; __6th __ (1 slots) _[[Spells/Tangling Creepers|Tangling Creepers]]_; __3rd __ (1 slots) _[[Spells/Earthbind|Earthbind (At Will)]]_\n__Constant__  __(8th)__ _[[Spells/Truesight|True Seeing]]_ __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Speak with Plants|Speak with Plants]]_ __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"
 
   - name: "Forest Growth"
-    desc: "  Once per month, Dimari-Diji can spend 1 hour to sprout a new forest. He causes the forest to sprout in a @Template[burst|distance:50] within 300 feet. The forest instantly springs to life, and is composed of fungi, plants, and trees most appropriate to the area he selected. The forest grows to the height, density, and liveliness of a forest that has grown for 10 years. The forest doesn't feature any animals or other creatures, but animals within 1 mile are aware of the new forest and might make the forest their new habitat as appropriate."
+    desc: "  Once per month, Dimari-Diji can spend 1 hour to sprout a new forest. He causes the forest to sprout in a 50-foot burst within 300 feet. The forest instantly springs to life, and is composed of fungi, plants, and trees most appropriate to the area he selected. The forest grows to the height, density, and liveliness of a forest that has grown for 10 years. The forest doesn't feature any animals or other creatures, but animals within 1 mile are aware of the new forest and might make the forest their new habitat as appropriate."
 
   - name: "Memories of Ages"
     desc: "  Dimari-Diji's mental blasts cloud the minds of his foes, making it difficult for them to focus on combat. A creature that takes damage from Dimari-Diji's mental blast is [[Conditions/Dazzled|Dazzled]] for 1 round. If the attack was a critical hit, the creature is dazzled for 1 minute instead."
@@ -85,6 +97,9 @@ attacks:
 
   - name: "Nature's Concentration"
     desc: "  **Trigger** Dimari-Diji's turn begins\n* * *\n\n**Effect** Dimari-Diji calls upon the natural world around him to support his magic. He Sustains a Spell."
+
+  - name: "[[Bestiary Ability Glossary/Improved Knockdown|Improved Knockdown]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature as a free action. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

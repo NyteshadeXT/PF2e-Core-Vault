@@ -56,25 +56,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword +14 (two-hand d12)\n__Damage__  1d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Bastard Sword"
+    desc: "+14 (two-hand d12)\n__Damage__  1d8 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 (agile, nonlethal)\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Moderate Dread Ampoule +12 (bomb, range increment 20 feet, splash)\n__Damage__  2d6 mental 2 mental"
+  - name: "**Ranged** `pf2:1` Moderate Dread Ampoule"
+    desc: "+12 (bomb, range increment 20 feet, splash)\n__Damage__  2d6 mental 2 mental"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +12 (range increment 30 feet)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+12 (range increment 30 feet)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Sudden Charge"
     desc: "`pf2:2`  The bone warrior Strides twice. If they end their movement within melee reach of an enemy, the bone warrior makes a melee Strike against that enemy."

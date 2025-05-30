@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mace +7 (shove)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Mace"
+    desc: "+7 (shove)\n__Damage__  1d6 + 3 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spiked Chain +7 (disarm, finesse, trip)\n__Damage__  1d8 + 3 slashing"
+  - name: "**Melee** `pf2:1` Spiked Chain"
+    desc: "+7 (disarm, finesse, trip)\n__Damage__  1d8 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +7 (thrown 30 ft.)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+7 (thrown 30 ft.)\n__Damage__  1d6 + 3 piercing"
  
 ```
 

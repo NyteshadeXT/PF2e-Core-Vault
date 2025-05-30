@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +8 (agile)\n__Damage__  1d8 + 2 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+8 (agile, unarmed)\n__Damage__  1d8 + 2 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8 bludgeoning damage, DC 16 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d8 bludgeoning damage, DC 16 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Gory Hydration"
     desc: "`pf2:r`  **Requirements** The mudwretch is dehydrated\n\n**Trigger** The mudwretch deals Constrict damage to a living creature that has blood\n* * *\n\n**Effect** The mudwretch squeezes harder, dealing 1d4 bleed to the target. The mudwretch absorbs this blood, removing any penalties it had as a result of being dehydrated."
@@ -76,10 +76,10 @@ attacks:
     desc: "`pf2:1` (concentrate) Until it next acts, the mudwretch appears to be an ordinary puddle of mud. It has an automatic result of 20 on Deception checks to pass as a mud puddle and can make a fist Strike against a creature that walks onto the mud puddle as a reaction."
 
   - name: "Spew Mud"
-    desc: "`pf2:2` (primal) The mudwretch spews a @Template[line|distance:20] of pressurized mud that deals 2d8 bludgeoning damage (DC 16 Reflex check save). On a critical failure, a creature also takes a -10-foot status penalty to its Speeds for 1 round.\n\nThe mudwretch can't Spew Mud again for 1d4 rounds."
+    desc: "`pf2:2` (primal) The mudwretch spews a 20-foot line of pressurized mud that deals 2d8 bludgeoning damage (DC 16 Reflex check save). On a critical failure, a creature also takes a -10-foot status penalty to its Speeds for 1 round.\n\nThe mudwretch can't Spew Mud again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

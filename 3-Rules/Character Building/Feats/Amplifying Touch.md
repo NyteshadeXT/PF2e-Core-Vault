@@ -21,7 +21,7 @@ license: OGL
 * * *
 Your healing energies empower attacks.
 
-An ally that recovers Hit Points from your [[Lay on Hands|Lay on Hands]] gains a +1 status bonus to their attack rolls and deals 1 additional spirit damage on all their Strikes until the end of their next turn. In addition, all their Strikes are holy until the end of their next turn.
+An ally that recovers Hit Points from your [[Spells/Lay on Hands|Lay on Hands]] gains a +1 status bonus to their attack rolls and deals 1 additional spirit damage on all their Strikes until the end of their next turn. In addition, all their Strikes are holy until the end of their next turn.
 
 [[Spell Effects/Spell Effect_ Amplifying Touch|Spell Effect: Amplifying Touch]]
 

@@ -64,20 +64,23 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Graveknight) Sacrilegious Aura|Sacrilegious Aura]]"
     desc: " (aura,divine) 30 feet. When a creature in the aura uses a vitality spell or ability, Bharlen automatically attempts to counteract it, with a +18 counteract modifier."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shock Trident +24 (electricity, magical, shove)\n__Damage__  2d8 + 11 piercing"
+  - name: "**Melee** `pf2:1` Shock Trident"
+    desc: "+24 (electricity, magical, shove)\n__Damage__  2d8 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 (agile, electricity, magical, unarmed)\n__Damage__  2d6 + 11 bludgeoning plus push 1d6 electricity plus push"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+23 (agile, electricity, magical, unarmed)\n__Damage__  2d6 + 11 bludgeoning plus push 1d6 electricity plus push"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shock Trident +24 (electricity, magical, thrown 20 ft.)\n__Damage__  2d8 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Shock Trident"
+    desc: "+24 (electricity, magical, thrown 20 ft.)\n__Damage__  2d8 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shock Heavy Crossbow +24 (electricity, magical, range increment 120 feet, reload 2)\n__Damage__  2d10 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Shock Heavy Crossbow"
+    desc: "+24 (electricity, magical, range increment 120 feet, reload 2)\n__Damage__  2d10 + 8 piercing"
 
   - name: "Brute Strength"
     desc: "  Bharlen deals an extra 1d8 damage with tridents, and a trident gains the shove trait while she is using it in melee (both the extra damage die and the shove trait have been included in Bharlen's trident Strikes above)."
@@ -98,7 +101,7 @@ attacks:
     desc: "  Bharlen has access to the critical specialization effects of any weapon she wields."
 
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

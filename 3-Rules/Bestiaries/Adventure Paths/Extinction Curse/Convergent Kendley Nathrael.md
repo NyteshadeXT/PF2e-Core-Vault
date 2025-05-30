@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword +34 (magical, two-hand d12)\n__Damage__  3d8 + 11 slashing plus convergent-tactics"
+  - name: "**Melee** `pf2:1` Bastard Sword"
+    desc: "+34 (magical, two-hand d12)\n__Damage__  3d8 + 11 slashing plus convergent-tactics"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +29 (deadly 2d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  3d8 + 11 piercing plus convergent-tactics"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+29 (deadly 2d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  3d8 + 11 piercing plus convergent-tactics"
 
   - name: "Divine Innate Spells"
     desc: "DC 39, attack +31; __10th __  _[[Spells/Divine Wrath|Divine Wrath]]_; __2nd __  _[[Spells/Calm|Calm Emotions (At Will)]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver (At Will)]]_\n__Cantrips__  __(10th)__ _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

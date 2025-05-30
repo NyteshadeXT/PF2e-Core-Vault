@@ -57,11 +57,14 @@ abilities_mid:
   - name: "Bite Back"
     desc: "`pf2:r`  **Trigger** The taunting skull is attacked by a creature within their reach\n* * *\n\n**Effect** The taunting skull makes a jaws Strike against that creature."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 (agile, finesse, reach 0 feet)\n__Damage__  2d10 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (agile, finesse, reach 0 feet, unarmed)\n__Damage__  2d10 + 3 piercing"
 
   - name: "Incessant Goading"
     desc: "`pf2:1` (auditory,emotion,incapacitation,mental) The skull chooses one creature within 60 feet and antagonizes it mercilessly. The target must attempt a DC 22 Will check save to resist the effect.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune for 1 minute.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Off-Guard|Off-Guard]] for 1 round. On its next turn, if the taunting skull is within the target's reach, the target wildly attacks the taunting skull as many times as possible.\n\n**Critical Failure** As failure, but the target also immediately performs a Strike against itself; this Strike doesn't take any actions."

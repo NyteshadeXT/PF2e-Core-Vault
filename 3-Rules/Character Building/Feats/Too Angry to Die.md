@@ -12,7 +12,7 @@ license: OGL
 ---
 # Too Angry to Die `pf2:r`
 ## Feat 12
-### [rare](rare.md "Rare Rarity Trait")[[general]][[skill]]
+### [rare](rare "Rare Rarity Trait")[[general]][[skill]]
 
 **Category** skill; 
 

@@ -6,8 +6,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.zgljg4gVI6i1Fpb5"
-license: OGL
+license: ORC
 ---
 # Paired Shots `pf2:2`
 ## Feat 4
@@ -27,4 +28,4 @@ Your shots hit simultaneously. Make two Strikes, one with each of your two range
 If both attacks hit, combine their damage and then add any applicable effects from both weapons. You add any precision damage, only once, to the attack of your choice. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating your multiple attack penalty.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

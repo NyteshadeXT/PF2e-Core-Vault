@@ -13,7 +13,7 @@ license: ORC
 ---
 # Discordant Voice
 ## Feat 18
-### [[bard]][[3-Rules/trait_reference/S/sonic]]
+### [[bard]][[sonic]]
 
 **Category** class; 
 
@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** courageous anthem
 * * *
-Your [[Courageous Anthem|Courageous Anthem]] lets loose a discordant shriek that imbues your allies' attacks with powerful sonic reverberations. While your allies are affected by your _courageous anthem_, their weapon Strikes and unarmed attacks deal an additional 1d6 sonic damage.
+Your [[Spells/Courageous Anthem|Courageous Anthem]] lets loose a discordant shriek that imbues your allies' attacks with powerful sonic reverberations. While your allies are affected by your _courageous anthem_, their weapon Strikes and unarmed attacks deal an additional 1d6 sonic damage.
 
 *Source: Pathfinder Player Core*
 *ORC*

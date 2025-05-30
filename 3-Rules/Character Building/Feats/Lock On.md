@@ -6,8 +6,9 @@ tags:
   - trait/inventor
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.McnLGEZnUbtYCNDW"
-license: OGL
+license: ORC
 ---
 # Lock On `pf2:1`
 ## Feat 10
@@ -24,4 +25,4 @@ Aha! You lock on to your enemy's weak point to assist your construct companion i
 [[Feat_Feature Effects/Effect_ Lock On|Effect: Lock On]]
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

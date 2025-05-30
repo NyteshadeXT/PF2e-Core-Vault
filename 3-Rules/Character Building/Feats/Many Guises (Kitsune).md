@@ -22,5 +22,5 @@ license: ORC
 * * *
 You can use [[Feats/Shifting Faces|Shifting Faces]] three times per day instead of once per day.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

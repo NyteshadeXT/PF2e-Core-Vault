@@ -54,13 +54,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Electric Surge"
-    desc: "  Whenever the shambler would take electricity damage or is targeted with an electricity effect, it gains 12 temporary HP and is [[Conditions/Quickened|Quickened]] until the end of its next turn. It can use its extra action to Stride, Strike, or Swim."
+    desc: "  Whenever the shambler would take electricity damage or is targeted with an electricity effect, it gains 12 temporary HP and is [[Conditions/Quickened|Quickened]] until the end of its next turn. It can use its extra action to Stride, Strike, or Swim.\n\n[[Bestiary Effects/Effect_ Electric Surge|Effect: Electric Surge]]"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vine +17 (reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Vine"
+    desc: "+17 (reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning plus grab"
 
   - name: "Centipede Swarm Venom"
     desc: " (poison) **Saving Throw** DC 20 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d8 poison damage, [[Conditions/Clumsy|Clumsy 1]], and off-guard (1 round)"
@@ -75,7 +75,7 @@ attacks:
     desc: "`pf2:2`  The shambler makes a vine Strike against each creature within reach. Its multiple attack penalty increases only after all the attacks."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

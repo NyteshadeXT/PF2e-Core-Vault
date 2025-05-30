@@ -50,6 +50,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 200 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Hive Mind"
     desc: " (primal) Formians operate from a shared hive intelligence that allows them to communicate nearly instantaneously. While within telepathic range of at least one other formian from the same hive mind, a formian worker gains a +2 circumstance bonus to initiative checks, Perception checks, and saving throws against mental effects. If one formian is aware of a combatant, all members of the hive mind within range are aware of it."
 
@@ -58,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +33 (agile, magical, reach 15 feet)\n__Damage__  3d12 + 12 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+33 (agile, magical, reach 15 feet, unarmed)\n__Damage__  3d12 + 12 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 38, attack +30; __9th __  _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Never Mind|Feeblemind]]_; __8th __  _[[Spells/Disappearance|Disappearance]]_, _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Repulsion|Repulsion]]_, _[[Spells/Teleport|Teleport]]_; __7th __  _[[Spells/Force Barrage|Magic Missile (At Will)]]_"

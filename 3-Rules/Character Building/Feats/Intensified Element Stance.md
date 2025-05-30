@@ -36,5 +36,5 @@ You expend the elemental medicine in your body to empower your attacks, though y
 *   **Water** sonic damage against fire creatures
 *   **Wood** cold damage against earth creatures and constructs that are primarily made of rock or earth
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

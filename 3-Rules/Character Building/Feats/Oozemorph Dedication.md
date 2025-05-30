@@ -23,7 +23,7 @@ You are plagued by sporadic anatomical rearrangements, which grant you insights 
 
 As you develop more abilities based on your amorphous affliction, you become increasingly off-putting to mundane creatures. You take a penalty to Diplomacy checks against animals and humanoids. This penalty is equal to your number of class feats from the oozemorph archetype, to a maximum of -4 for four or more feats.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Oozemorph|Oozemorph]] archetype.
+[[PF2e Journals/Archetypes/Oozemorph|Oozemorph]]
 
 *Source: Pathfinder Adventure: The Slithering*
 *OGL*

@@ -23,7 +23,7 @@ level: "Army 7"
 rare_03: [[Rare]]
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: siege
 modifier: 13
 perception:
@@ -33,7 +33,7 @@ perception:
   - name: "Recruitment DC"
     desc: "28; __Consumption__ 2"
   - name: "Description"
-    desc: "Greengripe goblins have built a mobile platform outfitted with a catapult-like flinging arm that can throw flammable debris."
+    desc: "Greengripe goblins have built a mobile platform outfitted with a catapult-like flinging arm that can throw flammable debris."
 ac: 25
 armorclass:
   - name: AC

@@ -31,7 +31,7 @@ trait_02: [[dinosaur]]
 modifier: 15
 perception:
   - name: "Perception"
-    desc: "+15; "
+    desc: "+15; Low-Light Vision, Scent (Imprecise) 30 Feet"
 languages: ""
 skills:
   - name: "Skills"
@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +18 (reach 15 feet)\n__Damage__  2d10 + 9 piercing plus vicious-mauling"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+18 (reach 15 feet, unarmed)\n__Damage__  2d10 + 9 piercing plus vicious-mauling"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +18 (reach 15 feet)\n__Damage__  1d12 + 9 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+18 (reach 15 feet, unarmed)\n__Damage__  1d12 + 9 piercing"
 
   - name: "Headbutt"
     desc: "`pf2:r`  **Trigger** A creature ends a move action within reach of the carnotaurus's horn Strike\n* * *\n\n**Effect** The carnotaurus makes a horn Strike against the triggering creature."

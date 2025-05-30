@@ -52,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Exhale Smoke"
-    desc: "`pf2:r` **Trigger** A non-goblin creature approaches within 10 feet of the taxidermy Sandpoint Devil\n* * *\n\n**Effect** The taxidermy Sandpoint Devil lurches forward, opens its jaws, and emits a blood-curdling howl and a blast of foul-smelling gray smoke. All creatures in a @Template[cone|distance:30] directed south of the trap (which reaches all the way to the door leading out to the Pit) must attempt a DC 22 Fortitude check save or become [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour (or [[Conditions/Enfeebled|Enfeebled 2]] for 8 hours on a critical failure)."
+    desc: "`pf2:r` **Trigger** A non-goblin creature approaches within 10 feet of the taxidermy Sandpoint Devil\n* * *\n\n**Effect** The taxidermy Sandpoint Devil lurches forward, opens its jaws, and emits a blood-curdling howl and a blast of foul-smelling gray smoke. All creatures in a 30-foot cone directed south of the trap (which reaches all the way to the door leading out to the Pit) must attempt a DC 22 Fortitude check save or become [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour (or [[Conditions/Enfeebled|Enfeebled 2]] for 8 hours on a critical failure)."
 
 
   - name: "Reset"

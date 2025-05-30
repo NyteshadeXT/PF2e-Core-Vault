@@ -13,7 +13,7 @@ license: OGL
 ---
 # Charred Remains `pf2:0`
 ## Feat 9
-### [[3-Rules/trait_reference/F/fire]][[naari]][[spellshape]]
+### [[fire]][[naari]][[spellshape]]
 
 **Category** ancestry; 
 
@@ -26,5 +26,5 @@ license: OGL
 
 Your next fire spell leaves embers in its wake. If your next action is to Cast a Spell with an area and the fire trait, for 1 minute, your spell's area becomes difficult terrain as well as hazardous terrain, dealing 1 fire damage for each square a creature moves through.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

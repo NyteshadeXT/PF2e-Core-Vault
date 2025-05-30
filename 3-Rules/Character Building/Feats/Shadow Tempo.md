@@ -25,5 +25,5 @@ license: ORC
 
 As your ally moves past you, you match your movements to their rhythm, following them across the battlefield. You Stride up to your Speed but must follow the same path that the triggering ally takes. You must end your movement adjacent to the triggering ally (or in the last square you were able to move if your ally is able to move farther than your Speed).
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -5,8 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
   - trait/exploration
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.Q5iIYCFdqJFM31GW"
@@ -14,7 +13,7 @@ license: ORC
 ---
 # Learn a Spell
 
-### [[3-Rules/Rule References/Concentrate]][[exploration]][[skill]]
+### [[concentrate]][[exploration]]
 
 **Category** interaction; 
 

@@ -54,13 +54,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 (reach 10 feet)\n__Damage__  2d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (reach 10 feet, unarmed)\n__Damage__  2d6 + 5 bludgeoning"
 
   - name: "Massive Strike"
     desc: "`pf2:2`  The behemoth makes a melee Strike and, if the attack hits, it can push the creature back 10 feet (20 feet on a critical hit). The target must succeed at a DC 19 Fortitude check save or be knocked [[Conditions/Prone|Prone]] by this attack."

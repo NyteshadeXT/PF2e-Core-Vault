@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Wicked Thorns"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.ncdryKskPwHMgHFh"
 license: OGL
@@ -27,5 +27,5 @@ Several of your thorns break off and hook into your attacker's body. You deal 1d
 
 At 3rd level, and every 2 levels thereafter, this damage increases by 1d8, and the persistent bleed damage increases by 1.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

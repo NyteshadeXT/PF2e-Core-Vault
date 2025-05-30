@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Protect Companion|Protect Companion]]
+Granted by [[Spells/Protect Companion|Protect Companion]]
 
-The target gains a +1 circumstance bonus to AC until the start of your next turn.
+You gain a +1 circumstance bonus to AC.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

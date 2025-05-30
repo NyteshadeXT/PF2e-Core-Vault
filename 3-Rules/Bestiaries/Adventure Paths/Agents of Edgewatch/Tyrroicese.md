@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +23 (acid, magical, reach 15 feet, versatile p)\n__Damage__  2d10 + 13 bludgeoning 1d6 acid"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+23 (acid, magical, reach 15 feet, unarmed, versatile p)\n__Damage__  2d10 + 13 bludgeoning 1d6 acid"
 
   - name: "Pseudopod Burst"
     desc: "`pf2:2`  Tyrroicese makes up to three pseudopod strikes, each against a different creature.\n\nTyrroicese's multiple attack penalty doesn't increase until after all these attacks are made."
@@ -73,7 +73,7 @@ attacks:
     desc: " (move) **Frequency** once per round\n* * *\n\n**Effect** Tyrroicese forcefully extends a sticky pseudopod, plants it on a wall within 45 feet, and retracts the muscle.\n\nTyrroicese springs over to a space adjacent to the wall, moving through the intervening squares as normal but ignoring any difficult or greater difficult terrain."
 
   - name: "Subsume"
-    desc: "`pf2:1` (incapacitation) Tyrroicese lifts an adjacent dying creature with its pseudopods and subsumes that creature into its own oozy flesh. The subsumed creature's dying value does not increase, though it can't decrease either.\n\nTyrroicese regains 30 HP and also gains the ability to use one or two of the subsumed creature's special abilities or feats, subject to the GM's discretion.\n\nA creature adjacent to Tyrroicese can extract a subsumed creature by spending 2 actions to attempt a DC 29 Athletics check check.\n\nOn a success, the subsumed creature is pulled from Tyrroicese and falls into the nearest available space."
+    desc: "`pf2:1` (incapacitation) Tyrroicese lifts an adjacent dying creature with its pseudopods and subsumes that creature into its own oozy flesh. The subsumed creature's dying value does not increase, though it can't decrease either.\n\nTyrroicese regains 30 healing HP and also gains the ability to use one or two of the subsumed creature's special abilities or feats, subject to the GM's discretion.\n\nA creature adjacent to Tyrroicese can extract a subsumed creature by spending 2 actions to attempt a DC 29 Athletics check check.\n\nOn a success, the subsumed creature is pulled from Tyrroicese and falls into the nearest available space."
  
 ```
 

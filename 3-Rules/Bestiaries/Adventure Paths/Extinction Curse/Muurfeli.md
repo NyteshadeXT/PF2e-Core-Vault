@@ -55,6 +55,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Scimitar|+2 Greater Striking Scimitar]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Firedamp Winds"
@@ -63,20 +66,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +29 (agile, finesse, magical, nonlethal, reach 10 feet)\n__Damage__  3d10 + 15 bludgeoning 2d6 poison"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+29 (agile, finesse, magical, nonlethal, reach 10 feet, unarmed)\n__Damage__  3d10 + 15 bludgeoning 2d6 poison"
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +31 (forceful, magical, reach 10 feet, sweep)\n__Damage__  3d6 + 17 slashing 2d6 poison"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+31 (forceful, magical, reach 10 feet, sweep)\n__Damage__  3d6 + 17 slashing 2d6 poison"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Fetid Winds +31 (air, magical, poison, range increment 20 feet)\n__Damage__  2d8 + 7 bludgeoning 2d8 + 5 poison"
+  - name: "**Ranged** `pf2:1` Fetid Winds"
+    desc: "+31 (air, magical, poison, range increment 20 feet)\n__Damage__  2d8 + 7 bludgeoning 2d8 + 5 poison"
 
   - name: "Arcane Innate Spells"
     desc: "DC 36, attack +28; __7th __  _[[Spells/Toxic Cloud|Cloudkill]]_; __5th __  _[[Spells/Illusory Creature|Illusory Creature]]_; __4th __  _[[Spells/Breathe Fire|Burning Hands (At Will)]]_, _[[Spells/Vapor Form|Gaseous Form]]_, _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_; __2nd __  _[[Spells/Enhance Victuals|Enhance Victuals (At Will)]]_\n__Constant__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The muurfeli can take on the form of an owl. The owl form always looks the same, but the muurfeli can choose to become either Tiny or Small in this form. This transformation doesn't change their Speed or the attack and damage bonuses of their Strikes, but might change the damage type their Strikes deal (typically to slashing).\n\n* * *\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The muurfeli can take on the form of an owl. The owl form always looks the same, but the muurfeli can choose to become either Tiny or Small in this form. This transformation doesn't change their Speed or the attack and damage bonuses of their Strikes, but might change the damage type their Strikes deal (typically to slashing).\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
  
 ```
 

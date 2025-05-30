@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 title: "Taunt"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/morale
-  - trait/common
+  - trait/
   - category/army-war-action
 aliases: "Compendium.pf2e.kingmaker-features.Item.ggVahjiAlVICpiPA"
 license: OGL
 ---
 # Taunt `pf2:1`
-
+## 
 ### [[morale]]
 
 **Category** army-war-action; 

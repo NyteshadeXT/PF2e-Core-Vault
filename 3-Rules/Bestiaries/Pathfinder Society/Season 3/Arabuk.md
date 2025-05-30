@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d10 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (unarmed)\n__Damage__  2d10 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Antler +15 ()\n__Damage__  1d8 + 5 piercing 1d6 sonic"
+  - name: "**Melee** `pf2:1` Antler"
+    desc: "+15 ()\n__Damage__  1d8 + 5 piercing 1d6 sonic"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Antler Reverberation +14 (range increment 30 feet, sonic)\n__Damage__  2d10 sonic plus deafening-echo"
+  - name: "**Ranged** `pf2:1` Antler Reverberation"
+    desc: "+14 (range increment 30 feet, sonic)\n__Damage__  2d10 sonic plus deafening-echo"
 
   - name: "Deafening Echo"
     desc: "  On a critical hit with an antler reverberation Strike, the target is [[Conditions/Deafened|Deafened]] for 1 minute."

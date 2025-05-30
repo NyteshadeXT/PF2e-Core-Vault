@@ -16,7 +16,9 @@ license: OGL
 
 
 
+Granted by [[Feats/Harrower Dedication|Harrower Dedication]], [[Feats/Benevolent Spirit Deck|Benevolent Spirit Deck]], [[Feats/Restore Omen|Restore Omen]]
 
+Draw a card from your harrow deck—that card's suit becomes your active harrow omen.
 
 *Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

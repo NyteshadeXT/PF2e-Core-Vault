@@ -56,11 +56,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Nail +9 (range increment 20 feet)\n__Damage__  1d4 + 2 piercing plus bleeding-nail"
+  - name: "**Ranged** `pf2:1` Nail"
+    desc: "+9 (range increment 20 feet)\n__Damage__  1d4 + 2 piercing plus bleeding-nail"
 
   - name: "Bleeding Nail"
     desc: "  If the hellcrown hits with a nail Strike, the target must attempt a DC 16 Fortitude check save. On a failure, the nail is embedded in the creature, making it [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute and giving it 1 bleed damage ([[Conditions/Enfeebled|Enfeebled 2]] and 1d4 bleed on a critical failure). Each additional embedded nail increases the enfeebled value by 1 (to a maximum of enfeebled 4) and the bleed damage by 1. A creature can remove a nail with an Interact action to reduce the enfeeblement and amount of bleed damage. Pulling out the last nail removes both conditions."

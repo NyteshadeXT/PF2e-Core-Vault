@@ -68,11 +68,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) Releasing the nereid and allowing her to leave this place (or, alternatively, killing her) allows the Gardener to move on to the afterlife.\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spectral Hand +27 (agile, finesse, magical)\n__Damage__  2d8 + 12 void"
+  - name: "**Melee** `pf2:1` Spectral Hand"
+    desc: "+27 (agile, finesse, magical)\n__Damage__  2d8 + 12 void"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 34, attack +28; __8th __ (1 slots) _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __7th __ (1 slots) _[[Spells/Haste|Haste]]_; __6th __ (1 slots) _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __5th __ (1 slots) _[[Spells/Black Tentacles|Black Tentacles]]_; __4th __ (1 slots) _[[Spells/Confusion|Confusion]]_; __3rd __ (1 slots) _[[Spells/Slow|Slow]]_; __2nd __ (1 slots) _[[Spells/Mirror Image|Mirror Image]]_; __1st __ (1 slots) _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(8th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -87,7 +90,7 @@ attacks:
     desc: " (concentrate,spellshape) **Frequency** once per day.\n* * *\n\nIf the Gardener's next action is to cast a 6th- or lower level spell, reduce the number of actions to cast it by 1 (minimum 1 action)."
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Telekinetic Assault|Telekinetic Assault]]"
-    desc: "`pf2:2` (divine) The ghost cries out in pain and anguish as small objects and debris fly about in a @Template[emanation|distance:30]. Creatures in this area take 9d6 bludgeoning damage, subject to a DC 37 Reflex check save."
+    desc: "`pf2:2` (divine) The ghost cries out in pain and anguish as small objects and debris fly about in a 30-foot emanation. Creatures in this area take 9d6 bludgeoning damage, subject to a DC 37 Reflex check save."
  
 ```
 

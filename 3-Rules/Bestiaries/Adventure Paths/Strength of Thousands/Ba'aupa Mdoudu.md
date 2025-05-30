@@ -48,6 +48,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Reactive"
@@ -62,17 +65,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +27 (deadly d12)\n__Damage__  3d8 + 14 piercing 1d10 acid"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+27 (deadly d12, unarmed)\n__Damage__  3d8 + 14 piercing 1d10 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +23 (acid, range increment 60 feet)\n__Damage__  6d6 acid"
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+23 (acid, range increment 60 feet)\n__Damage__  6d6 acid"
 
   - name: "Caustic Acid"
     desc: "  Whenever a creature takes acid damage from any of a ba'aupa mdoudu's abilities or Strikes, it must succeed at a DC 30 Fortitude check save or become [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical failure). On each subsequent failure, the drained condition value increases by 1 (or by 2 on a critical failure), to a maximum of drained 4."
 
   - name: "Caustic Rain"
-    desc: "`pf2:2` (primal) The ba'aupa mdoudu spews copious amounts of acid into the air, creating a cascading rain to fall in a @Template[emanation|distance:10] around itself. All creatures in the area take 14d6 acid damage (DC 33 Reflex check save) plus Caustic Acid. The ba'aupa mdoudu can't use Caustic Rain again for 1d4 rounds."
+    desc: "`pf2:2` (primal) The ba'aupa mdoudu spews copious amounts of acid into the air, creating a cascading rain to fall in a 10-foot emanation around itself. All creatures in the area take 14d6 acid damage (DC 33 Reflex check save) plus Caustic Acid. The ba'aupa mdoudu can't use Caustic Rain again for 1d4 rounds."
 
   - name: "Stone Tunneler"
     desc: "  A ba'aupa mdoudu can leave a tunnel when it burrows through earth or stone, and it usually does."

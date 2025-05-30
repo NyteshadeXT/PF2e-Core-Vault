@@ -61,22 +61,22 @@ abilities_mid:
     desc: " (aura,emotion,mental) 10 feet. Creatures in the aura who are the same or lower level than the operative take a -2 status penalty to their Will DC against the operative's attempts to [[Actions/Coerce|Coerce]] or [[Actions/Demoralize|Demoralize]] them."
 
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Bravery"
     desc: "  When the operative rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the [[Conditions/Frightened|Frightened]] condition, reduce its value by 1."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +13 (shove)\n__Damage__  1d8 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+13 (shove)\n__Damage__  1d8 + 7 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +10 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+10 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 3 piercing"
 
   - name: "Sudden Charge"
     desc: "`pf2:2`  **Frequency** once per round\n* * *\n\n**Effect** The operative Strides twice. If they end their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy."

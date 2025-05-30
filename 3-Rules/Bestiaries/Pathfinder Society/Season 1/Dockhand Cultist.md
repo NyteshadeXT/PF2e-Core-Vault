@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +7 (agile, nonlethal)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+7 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 3 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bottle +5 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Ranged** `pf2:1` Bottle"
+    desc: "+5 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Heft Crate"
-    desc: "`pf2:2` (manipulate) **Requirements** The dockhand is adjacent to a crate\n* * *\n\n**Effect** The dockhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a @Template[burst|distance:5]. Each creature within the area takes 2d6 bludgeoning damage (DC 13 Reflex check save), and the area becomes difficult terrain until cleared."
+    desc: "`pf2:2` (manipulate) **Requirements** The dockhand is adjacent to a crate\n* * *\n\n**Effect** The dockhand picks up a crate and heaves it up to 15 feet. Upon landing, the crate breaks open in a 5-foot burst. Each creature within the area takes 2d6 bludgeoning damage (DC 13 Reflex check save), and the area becomes difficult terrain until cleared."
 
   - name: "Swig"
     desc: "`pf2:2` (manipulate) The dockhand Interacts to either draw a bottle of [[Equipment/Alcohol|Alcohol]] or pick up a nearby unattended bottle of alcohol and drink the whole thing.\n\nFor 1 minute, the dockhand gains a +2 item bonus to melee damage rolls and saving throws against fear, but they become [[Conditions/Clumsy|Clumsy 1]]."

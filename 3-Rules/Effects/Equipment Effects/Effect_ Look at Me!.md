@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Equipment/Scene Stealer's Tunic|Scene Stealer's Tunic]]
+
 You take a –1 status penalty to Perception checks against everything but the source, a –1 status penalty to all saving throws against the source's visual effects, and gain a +2 status bonus to all saving throws against visual effects created by anyone else.
 
 *Source: Pathfinder #204: Stage Fright*

@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +17 ()\n__Damage__  2d8 + 8 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+17 ()\n__Damage__  2d8 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +17 (reach 10 feet)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+17 (reach 10 feet)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Caustic Mucus"
-    desc: "`pf2:2` (acid,arcane) Ahrkinos spits a ball of caustic mucus up to a range of 50 feet that explodes in a @Template[burst|distance:10]. Creatures within the burst take 7d6 acid damage (DC 23 Reflex check save). Those that fail this save also take 1d6 persistent acid damage and take a -5-foot status penalty to their Speed. This Speed reduction ends with the persistent acid damage.\n\nAhrkinos can't use Caustic Mucus again for 1d6 rounds."
+    desc: "`pf2:2` (acid,arcane) Ahrkinos spits a ball of caustic mucus up to a range of 50 feet that explodes in a 10-foot burst. Creatures within the burst take 7d6 acid damage (DC 23 Reflex check save). Those that fail this save also take 1d6 persistent acid damage and take a -5-foot status penalty to their Speed. This Speed reduction ends with the persistent acid damage.\n\nAhrkinos can't use Caustic Mucus again for 1d6 rounds."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  Ahrkinos makes one fangs Strike and two tail Strikes in any order."

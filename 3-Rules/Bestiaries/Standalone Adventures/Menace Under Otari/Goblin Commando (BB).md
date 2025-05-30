@@ -3,7 +3,7 @@ title: "Goblin Commando (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.jGzVwekcRX5aQpbT" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.sA2dFdRUwiapo69Z" 
 tags:
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
@@ -52,6 +52,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Shortbow|Shortbow]], [[Equipment/Greatsword|Greatsword]], [[Equipment/Leather Armor|Leather Armor]], 20x [[Equipment/Arrows|Arrows]]"
+  - name: "[[Bestiary Ability Glossary/Darkvision|Darkvision]]"
+    desc: "  A monster with darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. Some forms of magical darkness, such as a 4th-rank [[Spells/Darkness|Darkness]] spell, block normal darkvision. A monster with [[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]], however, can see through even these forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "Goblin Scuttle"
@@ -60,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +8 (versatile p)\n__Damage__  1d12 + 3 slashing"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+8 (versatile p)\n__Damage__  1d12 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +8 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+8 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
  
 ```
 

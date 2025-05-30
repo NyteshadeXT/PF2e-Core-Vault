@@ -14,7 +14,7 @@ license: OGL
 ---
 # Radiate Glory `pf2:1`
 ## Feat 17
-### [[divine]][[3-Rules/trait_reference/L/light]][[nephilim]][[visual]]
+### [[divine]][[light]][[nephilim]][[visual]]
 
 **Category** ancestry; 
 
@@ -35,5 +35,5 @@ Any creature that can see you while you Radiate Glory must attempt a Will check 
 
 **Critical Failure** You are [[Conditions/Hidden|Hidden]] to the creature while your glory radiates, lost amid the radiant corona of your presence. Your general position is still obvious, so you can't use this to [[Actions/Sneak|Sneak]].
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "FoP - Fiery Companion"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.2QzXBsURLO7xECxO"
 license: OGL
 ---
 # FoP - Fiery Companion
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Rime Crystal|Rime Crystal]]
+Granted by [[Equipment/Rime Crystal|Rime Crystal]], [[Equipment/Rime Crystal (Greater)|Rime Crystal (Greater)]], [[Equipment/Rime Crystal (Major)|Rime Crystal (Major)]]
 
-You gain resistance 2 to cold.
+You gain resistance to cold.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -71,11 +71,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) Setting Diggen free from his contractual obligations with Nashaxian allows him to move on to the afterlife."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +13 (agile, finesse, magical)\n__Damage__  2d6 + 2 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+13 (agile, finesse, magical)\n__Damage__  2d6 + 2 void"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Frightful Moan|Frightful Moan]]"
     desc: "`pf2:1` (auditory,divine,emotion,fear,mental) Diggen Thrune laments his fate, forcing each living creature within 30 feet to attempt a DC 21 Will check save. On a failure, a creature becomes [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."

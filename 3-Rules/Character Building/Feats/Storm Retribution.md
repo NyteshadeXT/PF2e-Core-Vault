@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You lash out, directing a burst of storming fury toward a creature that has harmed you. You cast [[Tempest Surge|Tempest Surge]] on the triggering opponent and push that creature, moving it 5 feet away from you if it fails its Reflex save, or 10 feet if it critically fails. This movement is forced movement.
+You lash out, directing a burst of storming fury toward a creature that has harmed you. You cast [[Spells/Tempest Surge|Tempest Surge]] on the triggering opponent and push that creature, moving it 5 feet away from you if it fails its Reflex save, or 10 feet if it critically fails. This movement is forced movement.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-04 - A Thorny Situation"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.6oTXrz56Evik64Fy"
 license: OGL
 ---
 # S1-04 - A Thorny Situation
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

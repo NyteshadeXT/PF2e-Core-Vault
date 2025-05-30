@@ -3,6 +3,7 @@ obsidianUIMode: preview
 title: "Enhanced Familiar"
 cssclasses: pf2e,pf2e-spell
 tags:
+  - trait/animist
   - trait/druid
   - trait/magus
   - trait/sorcerer
@@ -17,7 +18,7 @@ license: ORC
 ---
 # Enhanced Familiar
 ## Feat 2
-### [[druid]][[magus]][[sorcerer]][[thaumaturge]][[witch]][[wizard]]
+### [[animist]][[druid]][[magus]][[sorcerer]][[thaumaturge]][[witch]][[wizard]]
 
 **Category** class; 
 
@@ -25,6 +26,8 @@ license: ORC
 
 **Prerequisites** a familiar
 * * *
+**Animist** You are able to materialize more of your attuned apparition's essence, creating a more powerful vessel for it to inhabit and aid you with.
+
 **Druid** You infuse your familiar with additional primal energy, increasing its abilities.
 
 **Magus** You infuse your familiar with more magical energy.

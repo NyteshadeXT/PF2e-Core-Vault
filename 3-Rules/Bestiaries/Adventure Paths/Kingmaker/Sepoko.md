@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mace +22 (magical, shove)\n__Damage__  1d6 cold 2d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Mace"
+    desc: "+22 (magical, shove)\n__Damage__  1d6 cold 2d6 + 8 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +21 (reach 10 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+21 (reach 10 feet)\n__Damage__ "
 
   - name: "Divine Prepared Spells"
     desc: "DC 30, attack +22; __6th __  _[[Spells/Blade Barrier|Blade Barrier]]_; __5th __  _[[Spells/Flame Strike|Flame Strike]]_, _[[Spells/Summon Fiend|Summon Fiend]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Divine Wrath|Divine Wrath]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

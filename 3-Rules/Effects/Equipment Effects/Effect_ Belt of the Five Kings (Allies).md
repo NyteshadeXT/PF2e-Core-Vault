@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Belt of the Five Kings|Belt of the Five Kings]] when your ally activates it.
+Granted by [[Equipment/Belt of the Five Kings|Belt of the Five Kings]]
+
+You gain darkvision.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

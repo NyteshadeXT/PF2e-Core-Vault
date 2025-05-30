@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Crushing|Crushing]]
+Granted by [[Equipment/Crushing|Crushing]]
 
 When you critically hit a target with this weapon, your target becomes clumsy 1 and enfeebled 1 until the end of your next turn.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

@@ -66,8 +66,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +32 (magical, versatile p)\n__Damage__  3d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+32 (magical, versatile p)\n__Damage__  3d8 + 13 slashing"
 
   - name: "Demanding Orders"
     desc: "`pf2:1` (auditory,linguistic) Wynsal commands his allies to take action. Allies within 120 feet who hear and understand his order are [[Conditions/Quickened|Quickened 1]] for 1 round and can use this extra action to Stride, Strike, or Step."

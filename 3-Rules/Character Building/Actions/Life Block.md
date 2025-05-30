@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Life Block"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.Iuq8CeNqv3a0oWfQ"
 license: OGL

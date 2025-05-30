@@ -57,6 +57,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Leather Armor|+1 Cold-Resistant Leather Armor]]"
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Breath of the Bog"
@@ -68,11 +71,14 @@ abilities_mid:
   - name: "Rise Up"
     desc: "`pf2:r`  **Trigger** A creature walks on top of a bog mummy cultist that lies buried in the mud or peat below\n\n**Requirements** Initiative has not yet been rolled\n* * *\n\n**Effect** The bog mummy automatically notices the creature and [[Actions/Burrow|Burrows]] before rolling initiative."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +19 (agile)\n__Damage__  2d8 + 10 bludgeoning plus bog-rot"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+19 (agile, unarmed)\n__Damage__  2d8 + 10 bludgeoning plus bog-rot"
 
   - name: "Divine Innate Spells"
     desc: "DC 28, attack +20; __5th __  _[[Spells/Crisis of Faith|Crisis of Faith]]_; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_\n__Cantrips__  __(5th)__ _[[Spells/Divine Lance|Divine Lance]]_"

@@ -54,8 +54,14 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 300 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Bloodsense 60 feet"
     desc: "  The scarlet walker can sense living creatures with blood in their veins, as well as undead that feed on blood (such as vampires)."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
 
 abilities_mid:
   - name: ""
@@ -68,11 +74,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +24 (magical, reach 15 feet)\n__Damage__  3d6 + 12 piercing 2d12 bleed"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+24 (magical, reach 15 feet, unarmed)\n__Damage__  3d6 + 12 piercing 2d12 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +24 (agile, magical, reach 15 feet)\n__Damage__  3d8 + 12 bludgeoning plus paralysis"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+24 (agile, magical, reach 15 feet, unarmed)\n__Damage__  3d8 + 12 bludgeoning plus paralysis"
 
   - name: "Occult Innate Spells"
     desc: "DC 32, attack +24; __6th __  _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Truesight|True Seeing]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __  _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Sending|Sending (x3)]]_, _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_; __4th __  _[[Spells/Confusion|Confusion (x3)]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_\n__Constant__  __(6th)__ _[[Spells/Air Walk|Air Walk]]_"

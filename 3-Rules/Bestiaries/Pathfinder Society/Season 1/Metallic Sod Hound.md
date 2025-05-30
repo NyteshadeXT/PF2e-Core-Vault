@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d10 + 6 piercing plus knockdown"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d10 + 6 piercing plus knockdown"
 
   - name: "[[Creature Family Ability Glossary/(Siabrae) Earth Glide|Earth Glide]]"
     desc: "  The metallic sod hound can [[Actions/Burrow|Burrow]] through any earthen matter, including rock or metal. When it does so, the metallic sod hound moves at its full burrow Speed, leaving no tunnels or signs of its passing."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

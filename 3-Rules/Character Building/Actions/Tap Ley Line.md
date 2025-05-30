@@ -4,14 +4,14 @@ title: "Tap Ley Line"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.gxtq81VAhpmNvEgA"
 license: OGL
 ---
 # Tap Ley Line `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]]
+### [[concentrate]]
 
 **Category** interaction; 
 

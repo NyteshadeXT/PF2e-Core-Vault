@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Until the start of your next turn, you can't be flanked.
+Granted by [[Feats/Augment Senses|Augment Senses]]
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+You can't be flanked.
+
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

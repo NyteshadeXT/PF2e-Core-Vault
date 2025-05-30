@@ -72,11 +72,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +24 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 13 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+24 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 13 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heavy Crossbow +25 (magical, range increment 120 feet, reload 2)\n__Damage__  2d10 + 13 piercing plus shadow-essence"
+  - name: "**Ranged** `pf2:1` Heavy Crossbow"
+    desc: "+25 (magical, range increment 120 feet, reload 2)\n__Damage__  2d10 + 13 piercing plus shadow-essence"
 
   - name: "Innate Divine Spells"
     desc: "DC 30, attack +24; __6th __  _[[Spells/Holy Light|Searing Light]]_"

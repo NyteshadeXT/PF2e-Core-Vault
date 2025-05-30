@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +9 (magical, sweep)\n__Damage__  1d8 + 2 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+9 (magical, sweep)\n__Damage__  1d8 + 2 slashing"
 
   - name: "Occult Prepared Spells"
     desc: "DC 32, attack +24; __6th __  _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_; __4th __  _[[Spells/Fly|Fly]]_, _[[Spells/Translocate|Translocate]]_, _[[Spells/Vision of Death|Vision of Death]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/See the Unseen|See the Unseen]]_, _[[Spells/Silence|Silence]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(6th)__ _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -70,7 +70,7 @@ attacks:
     desc: "3 Focus Points, DC 32, attack +24; __6th __  _[[Spells/Malicious Shadow|Malicious Shadow]]_, _[[Spells/Needle of Vengeance|Needle of Vengeance]]_, _[[Spells/Patron's Puppet|Patron's Puppet]]_\n__Cantrips__  __(6th)__ _[[Spells/Shroud of Night|Shroud of Night]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead]]_"
+    desc: "_Create Undead_"
 
   - name: "Ashen Curse"
     desc: "`pf2:2` (curse,emotion,fear,mental,misfortune) **Frequency** once per day\n* * *\n\n**Effect** The Final Herald points at a sapient creature she can see within 30 feet and warns them, \"You have been seen by the Ashen Man!\"; the target automatically understands this curse in their native language and is filled with dread that some potent otherworldly force has taken an interest in a devastating impending doom that will affect them personally sometime soon. The target must attempt a DC 32 Will check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target becomes [[Conditions/Slowed|Slowed 1]] for 1 round by the sudden, intense fear.\n\n**Failure** The target becomes [[Conditions/Frightened|Frightened 1]] and is slowed 1 for as long as they remain frightened. Thereafter, whenever the target becomes frightened, they also become slowed 1 for as long as they remain frightened; this effect is permanent until the curse is removed.\n\n**Critical Failure** As failure, and the target must roll twice and use the worst result whenever attempting a saving throw against any fear or mental effect."

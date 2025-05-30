@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Actions/Unwavering Resilience|Unwavering Resilience]]
+
 You gain a number of temporary Hit Point equal to your level.
 
 *Source: Pathfinder #202: Severed at the Root*

@@ -22,5 +22,5 @@ license: ORC
 * * *
 You've used insulating wraps or special glazes to reduce your weakness to current and temperature. You no longer have the weakness to either electricity or cold caused by your tsukumogami heritage.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

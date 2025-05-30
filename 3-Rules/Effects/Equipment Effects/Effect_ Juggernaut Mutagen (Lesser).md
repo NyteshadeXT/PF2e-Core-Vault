@@ -17,19 +17,11 @@ license: ORC
 
 
 
-Granted by [[Juggernaut Mutagen (Lesser)|Juggernaut Mutagen (Lesser)]]
+Granted by [[Equipment/Juggernaut Mutagen (Lesser)|Juggernaut Mutagen (Lesser)]]
 
-Implemented effects:
+**Benefit** You gain a +1 item bonus to Fortitude saves and 5 temporary Hit Points.
 
-*   +1 item bonus to Fortitude saves
-*   Gain 5 temporary Hit Points
-*   \-2 penalty to Will saves
-*   \-2 penalty to Perception checks
-*   \-2 penalty to initiative rolls
-
-Unimplemented effects:
-
-*   Whenever you are at maximum Hit Points for at least 1 full minute, you regain the temporary Hit Points.
+**Drawback** You take a -2 penalty to Will saves, Perception checks and initiative rolls.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

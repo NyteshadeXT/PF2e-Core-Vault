@@ -41,7 +41,7 @@ attacks:
   - name: ""
 
   - name: "Scream"
-    desc: "`pf2:r` (occult, sonic) **Trigger** A creature enters the area\n* * *\n\n**Effect** The spirit screams, dealing 6d12+41 sonic damage to all creatures in a @Template[cone|distance:30] (DC 40 Fortitude check)."
+    desc: "`pf2:r` (occult, sonic) **Trigger** A creature enters the area\n* * *\n\n**Effect** The spirit screams, dealing 6d12+41 sonic damage to all creatures in a 30-foot cone (DC 40 Fortitude check)."
 
 
   - name: "Reset"

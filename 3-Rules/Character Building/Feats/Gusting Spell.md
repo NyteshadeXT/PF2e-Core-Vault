@@ -15,7 +15,7 @@ license: ORC
 ---
 # Gusting Spell `pf2:1`
 ## Feat 4
-### [[3-Rules/trait_reference/A/air]][[archetype]][[manipulate]][[spellshape]]
+### [[air]][[archetype]][[manipulate]][[spellshape]]
 
 **Category** class; 
 

@@ -54,6 +54,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Filth Vulnerability"
@@ -65,14 +71,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +25 (finesse, magical, unholy)\n__Damage__  3d8 + 8 piercing plus siphon 1d6 spirit plus siphon"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+25 (finesse, magical, unarmed, unholy)\n__Damage__  3d8 + 8 piercing plus siphon 1d6 spirit plus siphon"
 
   - name: "Divine Innate Spells"
     desc: "DC 32, attack +24; __6th __  _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Summon Animal|Summon Animal (Giant Arthropods Only)]]_; __5th __  _[[Spells/Abyssal Plague|Abyssal Plague]]_, _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Suggestion|Suggestion]]_\n__Cantrips__  __(6th)__ _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_\n__Constant__  __(6th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "Droning Wings"
-    desc: "`pf2:2` (divine,mental,visual) **Frequency** once per day\n* * *\n\n**Effect** The coloxus flutters its shimmering, gauzy wings and creates a mesmerizing display of color along with a sound-dampening buzzing drone. If the coloxus is [[Conditions/Invisible|Invisible]], that effect ends and it becomes visible. All creatures within a @Template[emanation|distance:30] must succeed at a DC 29 Will check save or become [[Conditions/Slowed|Slowed 1]] ([[Conditions/Slowed|Slowed 2]] on a critical failure) until the start of the coloxus's next turn. As long as Droning Wings continues, the coloxus gains immunity to sonic damage. The coloxus can Sustain Droning Wings for up to 1 minute."
+    desc: "`pf2:2` (divine,mental,visual) **Frequency** once per day\n* * *\n\n**Effect** The coloxus flutters its shimmering, gauzy wings and creates a mesmerizing display of color along with a sound-dampening buzzing drone. If the coloxus is [[Conditions/Invisible|Invisible]], that effect ends and it becomes visible. All creatures within a 30-foot emanation must succeed at a DC 29 Will check save or become [[Conditions/Slowed|Slowed 1]] ([[Conditions/Slowed|Slowed 2]] on a critical failure) until the start of the coloxus's next turn. As long as Droning Wings continues, the coloxus gains immunity to sonic damage. The coloxus can Sustain Droning Wings for up to 1 minute."
 
   - name: "Siphon"
     desc: "  When a coloxus damages a creature with its jaws Strike, it siphons away the target's physical vitality and drinks from their sense of self-worth and confidence. The coloxus gains 10 temporary Hit Points, and the creature must succeed at a DC 32 Will check save or become [[Conditions/Stupefied|Stupefied 1]]. Further damage dealt by the coloxus increases the stupefied condition by 1 on a failed save to a maximum of [[Conditions/Stupefied|Stupefied 4]]."

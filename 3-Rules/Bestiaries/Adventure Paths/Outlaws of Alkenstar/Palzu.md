@@ -58,20 +58,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jax +18 (critical fusion, finesse, forceful, magical, sweep)\n__Damage__  2d4 + 7 slashing"
+  - name: "**Melee** `pf2:1` Jax"
+    desc: "+18 (critical fusion, finesse, forceful, magical, sweep)\n__Damage__  2d4 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 (agile)\n__Damage__  1d8 + 7 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (agile, unarmed)\n__Damage__  1d8 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Jax +18 (concussive, fatal aim d10, magical, range increment 40 feet, reload 1)\n__Damage__  2d6 + 4 piercing plus crack-shot"
+  - name: "**Ranged** `pf2:1` Jax"
+    desc: "+18 (concussive, fatal aim d10, magical, range increment 40 feet, reload 1)\n__Damage__  2d6 + 4 piercing plus crack-shot"
 
   - name: "Crack Shot"
     desc: "  When Palzu critically hits a creature with a ranged Strike, the target must succeed at a DC 26 Fortitude check save or be [[Conditions/Stunned|Stunned 1]]."
 
   - name: "Howling Bullet"
-    desc: "`pf2:1` (fear) **Requirements** Palzu has rolled initiative but hasn't acted yet in combat\n* * *\n\n**Effect** Palzu lets loose a blood-curdling howl while firing his rifle, making the report sound unearthly and disturbing. Palzu makes a Jax Strike against a foe within 40 feet. On a hit, creatures in a @Template[emanation|distance:10] centered on the target hit must attempt a DC 26 Will check save or become [[Conditions/Frightened|Frightened 1]]."
+    desc: "`pf2:1` (fear) **Requirements** Palzu has rolled initiative but hasn't acted yet in combat\n* * *\n\n**Effect** Palzu lets loose a blood-curdling howl while firing his rifle, making the report sound unearthly and disturbing. Palzu makes a Jax Strike against a foe within 40 feet. On a hit, creatures in a 10-foot emanation centered on the target hit must attempt a DC 26 Will check save or become [[Conditions/Frightened|Frightened 1]]."
 
   - name: "Rugged Travel"
     desc: "  Palzu ignores the first square of difficult terrain he moves into each time he Steps or Strides."

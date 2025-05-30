@@ -39,7 +39,7 @@ perception:
 languages: "Common, Necril, Shadowtongue"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +32, Athletics: +28, Deception: +26, Intimidation: +30, Stealth: +28, Acrobatics: +32, Athletics: +28, Deception: +26, Intimidation: +30, Stealth: +28"
+    desc: "Acrobatics: +32, Athletics: +28, Deception: +26, Intimidation: +30, Stealth: +28"
 abilityMods: [6, 8, 6, 7, 6, 6]
 speed: 25 feet,  fly 75 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +32 (finesse, magical, reach 20 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+32 (finesse, magical, reach 20 feet)\n__Damage__  3d8 + 14 piercing 2d6 void 2d6 void"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +32 (agile, finesse, magical, reach 20 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+32 (agile, finesse, magical, reach 20 feet)\n__Damage__  3d6 + 14 piercing 2d6 void"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bone Pinion +32 (magical, range increment 40 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Bone Pinion"
+    desc: "+32 (magical, range increment 40 feet)\n__Damage__  3d6 + 14 piercing 2d6 void"
 
   - name: "Occult Innate Spells"
     desc: "DC 37, attack +29; __8th __  _[[Spells/Spirit Song|Spirit Song]]_"

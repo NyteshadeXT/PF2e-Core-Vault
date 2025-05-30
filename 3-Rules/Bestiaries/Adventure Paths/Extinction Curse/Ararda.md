@@ -57,6 +57,12 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Maul|+2 Greater Striking Maul]]"
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Blightburn Radiation"
@@ -68,14 +74,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Maul +35 (magical, reach 10 feet, shove)\n__Damage__  3d12 + 17 bludgeoning"
+  - name: "**Melee** `pf2:1` Maul"
+    desc: "+35 (magical, reach 10 feet, shove)\n__Damage__  3d12 + 17 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sand Fist +35 (agile, earth, electricity, magical, nonlethal, reach 10 feet)\n__Damage__  2d8 + 17 bludgeoning plus blightburn-sickness 2d8 electricity plus blightburn-sickness"
+  - name: "**Melee** `pf2:1` Sand Fist"
+    desc: "+35 (agile, earth, electricity, magical, nonlethal, reach 10 feet)\n__Damage__  2d8 + 17 bludgeoning plus blightburn-sickness 2d8 electricity plus blightburn-sickness"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sand Spear +32 (earth, electricity, magical, range increment 30 feet)\n__Damage__  4d8 piercing plus blightburn-sickness 2d8 electricity plus blightburn-sickness"
+  - name: "**Ranged** `pf2:1` Sand Spear"
+    desc: "+32 (earth, electricity, magical, range increment 30 feet)\n__Damage__  4d8 piercing plus blightburn-sickness 2d8 electricity plus blightburn-sickness"
 
   - name: "Arcane Innate Spells"
     desc: "DC 37, attack +29; __7th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Petrify|Flesh to Stone]]_; __6th __  _[[Compendium.pf2e.spells-srd.Item.hkfH9Z53hPzcOwNB|Veil (Self Only)]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __5th __  _[[Spells/Shape Stone|Shape Stone (At Will)]]_; __4th __  _[[Spells/Vapor Form|Gaseous Form (Self Only)]]_, _[[Spells/Revealing Light|Glitterdust (x3)]]_\n__Constant__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_"
@@ -84,7 +90,7 @@ attacks:
     desc: " (disease) Creatures native to the Black Desert are immune, as are creatures who are affected by blightburn sickness but recover from it. The target can't recover from the disease's drained or sickened condition except by magic.\n* * *\n\n**Saving Throw** DC 32 Fortitude check\n\n**Onset** 1d4 days\n\n**Stage 1** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained 1]] and [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** [[Conditions/Drained|Drained 2]] and [[Conditions/Sickened|Sickened 2]] (1 week)\n\n**Stage 4** [[Conditions/Drained|Drained 3]] and [[Conditions/Sickened|Sickened 3]] (1 month)\n\n**Stage 5** increase [[Conditions/Drained|Drained]] condition by 1 (1 year)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The ararda can take on the form of a scorpion. The scorpion form always looks the same, but the ararda can choose to become either Tiny or Small in this form. This transformation doesn't change their Speed or the attack and damage bonuses of their Strikes, but might change the damage type their Strikes deal (typically to piercing).\n\n* * *\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The ararda can take on the form of a scorpion. The scorpion form always looks the same, but the ararda can choose to become either Tiny or Small in this form. This transformation doesn't change their Speed or the attack and damage bonuses of their Strikes, but might change the damage type their Strikes deal (typically to piercing).\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Earth Glide"
     desc: "  The aranda can [[Actions/Burrow|Burrow]] through dirt and stone at its full burrow Speed, leaving no tunnels or signs of its passing."

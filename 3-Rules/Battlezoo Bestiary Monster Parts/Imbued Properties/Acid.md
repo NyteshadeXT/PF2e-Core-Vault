@@ -26,16 +26,16 @@ Magical
 
 **Path** Magic; Choose when you first imbue the weapon for the granted spells to be either arcane or primal
 
-*   **2nd** The weapon can cast _Acid Splash_ as a cantrip, heightened to half the item's level rounded up
-*   **4th** The weapon can cast _Acidic Burst_ once per day
-*   **6th** The weapon's _acidic burst_ heightens to 2nd level and it can cast either _Acid Arrow_ or _acidic burst_ once per day, but not both
+*   **2nd** The weapon can cast _[[undefined]]_ as a cantrip, heightened to half the item's level rounded up
+*   **4th** The weapon can cast _[[undefined]]_ once per day
+*   **6th** The weapon's _acidic burst_ heightens to 2nd level and it can cast either _[[undefined]]_ or _acidic burst_ once per day, but not both
 *   **8th** The weapon's _Acidic Burst_ heightens to 3rd level, and it can cast _acid arrow_ and _acidic burst_ each once per day
 *   **10th** Strikes with the weapon deal 1 additional acid damage
-*   **12th** The weapon's _acid arrow_ heightens to 4th level, and the weapon can cast _Acid Storm_ once per day
+*   **12th** The weapon's _acid arrow_ heightens to 4th level, and the weapon can cast _[[undefined]]_ once per day
 *   **14th** The additional acid damage increases to 1d4
 *   **16th** The weapon's _acid arrow_ heightens to 6th level and _acid storm_ heightens to 7th level
 *   **18th** The additional acid damage increases to 1d6
-*   **20th** The weapon can cast _Storm of Vengeance_ once per day but you can only choose the acid rain effect. You can choose the acid rain effect twice in a row
+*   **20th** The weapon can cast _[[undefined]]_ once per day but you can only choose the acid rain effect. You can choose the acid rain effect twice in a row
 
 * * *
 
@@ -60,4 +60,4 @@ Magical
 *   **14th** The persistent acid damage on a hit increases to 1d8
 *   **16th** The persistent acid damage from the imbued property eats away at a foe's resistances. Every time a foe or the foe's armor or shield takes damage from the persistent acid damage at the end of their turn, any resistances and Hardness decrease by 1 for 1 minute. This effect is cumulative
 *   **18th** The persistent acid damage on a hit increases to 1d10
-*   **20th** On a critical hit, acid eats away at the foe's innards, and they are Drained 1
+*   **20th** On a critical hit, acid eats away at the foe's innards, and they are [[undefined]]

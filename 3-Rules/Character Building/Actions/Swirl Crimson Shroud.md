@@ -3,7 +3,6 @@ obsidianUIMode: preview
 title: "Swirl Crimson Shroud"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
   - trait/manipulate
   - trait/
   - category/defensive
@@ -13,7 +12,7 @@ license: ORC
 ---
 # Swirl Crimson Shroud `pf2:1`
 
-### [[general]][[3-Rules/Rule References/Manipulate]]
+### [[manipulate]]
 
 **Category** defensive; 
 

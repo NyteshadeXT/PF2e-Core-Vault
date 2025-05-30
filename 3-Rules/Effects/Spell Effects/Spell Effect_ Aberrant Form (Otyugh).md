@@ -16,26 +16,24 @@ license: OGL
 
 
 
-Granted by [[Aberrant Form|Aberrant Form]]
+Granted by [[Spells/Aberrant Form|Aberrant Form]]
 
-Harnessing the power of vile entities, you transform yourself into a Large aberration. You must have enough space to expand into or the spell is lost. When you cast this spell, choose chuul, gogiteth, gug, or otyugh. While in this form, you gain the aberration trait. You can Dismiss the spell.
-
-You gain the following statistics and abilities regardless of which battle form you choose:
+You transform yourself into a Large aberration. You gain the aberration trait, as well as the following statistics and abilities:
 
 *   AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.
 *   13 temporary Hit Points.
 *   Darkvision.
-*   One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +18, and you use the listed damage. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack modifier is higher, you can use it instead.
+*   One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +18, and you use the listed damage. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack modifier is higher, you can use it instead.
 *   Athletics modifier of +20, unless your own modifier is higher.
 
 You also gain specific abilities based on the type of aberration you choose:
 
 *   **Otyugh**
-
-*   +2 circumstance bonus on saves against disease;
-*   Speed 20 feet;
-*   **Melee** `pf2:1` jaws, **Damage** 3d6+8 piercing;
-*   **Melee** `pf2:1` tentacle (agile, reach 10 feet), **Damage** 2d6+8 bludgeoning.
+    
+    *   +2 circumstance bonus on saves against disease;
+    *   Speed 20 feet;
+    *   **Melee** `pf2:1` jaws, **Damage** 3d6+8 piercing;
+    *   **Melee** `pf2:1` tentacle (agile, reach 10 feet), **Damage** 2d6+8 bludgeoning.
 
 * * *
 

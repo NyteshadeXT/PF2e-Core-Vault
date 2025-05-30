@@ -57,22 +57,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Heat of the Forge"
     desc: " (aura,fire) 10 feet. An munsahir's skin radiates heat like a forge's fire. A creature that starts its turn in the area must succeed at a DC 20 Fortitude check save or become [[Conditions/Fatigued|Fatigued]] while it remains in the area. Creatures immune to environmental heat effects or with any fire resistance are immune."
 
   - name: "Self-Destruct"
-    desc: "  When the munsahir is reduced to 0 HP, their armor explodes at the start of their next turn, dealing 5d6 fire damage in a @Template[emanation|distance:10] (DC 19 Reflex check)."
+    desc: "  When the munsahir is reduced to 0 HP, their armor explodes at the start of their next turn, dealing 5d6 fire damage in a 10-foot emanation (DC 19 Reflex check)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +14 (shove)\n__Damage__  1d8 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+14 (shove)\n__Damage__  1d8 + 9 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dueling Pistol +12 (concealable, concussive, fatal d10, range increment 60 feet, reload 1)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dueling Pistol"
+    desc: "+12 (concealable, concussive, fatal d10, range increment 60 feet, reload 1)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Burning Touch"
     desc: " (fire,primal) The munsahir gatecrasher's Strikes deal an extra 1d6 fire damage (included above). When the gatecrasher successfully performs a [[Actions/Grapple|Grapple]] or [[Actions/Shove|Shove]] action, they also deal 1d6 fire damage to their target."

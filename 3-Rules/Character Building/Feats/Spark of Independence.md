@@ -20,5 +20,5 @@ license: OGL
 
 You touch a creature with the minion trait and share the heightened sense of autonomy you've discovered. The minion is [[Conditions/Quickened|Quickened]] for 1 round and is then temporarily immune for 10 minutes. It can use this extra action to Step, Stride, or Strike.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

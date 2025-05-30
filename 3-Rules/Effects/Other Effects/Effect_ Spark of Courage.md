@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Spark of Courage|Spark of Courage]]
+Granted by [[PF2e Journals/Hero Point Deck/Spark of Courage|Spark of Courage]]
 
-You gain a +2 status bonus to attack rolls and skill checks until the end of your next turn.
+You gain a +2 status bonus to attack rolls and skill checks.
 
 *Source: Pathfinder Hero Point Deck*
 *OGL*

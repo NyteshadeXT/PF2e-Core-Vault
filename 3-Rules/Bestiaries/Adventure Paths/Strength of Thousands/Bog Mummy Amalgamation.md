@@ -56,6 +56,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Breath of Silt"
@@ -64,11 +67,14 @@ abilities_mid:
   - name: "Rise Up"
     desc: "`pf2:r`  **Trigger** A creature walks on top of the bog mummy amalgamation lying buried in the silt below\n\n**Requirements** Initiative has not yet been rolled\n* * *\n\n**Effect** The bog mummy amalgamation notices the creature automatically and [[Actions/Burrow|Burrows]] before rolling initiative."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +20 (reach 10 feet)\n__Damage__  2d6 + 5 bludgeoning plus bog-rot"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+20 (reach 10 feet, unarmed)\n__Damage__  2d6 + 5 bludgeoning plus bog-rot"
 
   - name: "Bog Rot"
     desc: " (curse,disease,divine,void) This affliction can't be reduced below stage 1, nor can the damage from it be healed, until it's successfully treated with [[Spells/Cleanse Affliction|Cleanse Affliction]] or a similar effect; the affliction can then be removed as normal for a disease.\n\nA creature killed by bog rot melts into a noxious sludge and can't be resurrected except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic\n\n**Saving Throw** DC 21 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 minute)\n\n**Stage 2** 3d6 void damage and [[Conditions/Clumsy|Clumsy 1]] (1 day)."

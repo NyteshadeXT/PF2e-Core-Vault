@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (agile, finesse, magical)\n__Damage__  1d6 mental 2d6 + 11 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (agile, finesse, magical, unarmed)\n__Damage__  1d6 mental 2d6 + 11 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 29, attack +21; __5th __  _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Illusory Creature|Illusory Creature]]_; __4th __  _[[Spells/Honeyed Words|Glibness]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Talking Corpse|Talking Corpse]]_; __2nd __  _[[Spells/Item Facade|Item Facade]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Message|Message]]_"

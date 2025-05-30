@@ -22,5 +22,5 @@ Once, when you roll a failure on a Crafting or Performance check under the night
 
 Nocticula typically grants this boon for a consequential piece of artwork or performance.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

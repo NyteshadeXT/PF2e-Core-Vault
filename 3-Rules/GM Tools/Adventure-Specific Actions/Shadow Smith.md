@@ -11,7 +11,7 @@ license: OGL
 ---
 # Shadow Smith `pf2:1`
 
-### [[3-Rules/trait_reference/shadow]]
+### [[shadow]]
 
 **Category** offensive; 
 

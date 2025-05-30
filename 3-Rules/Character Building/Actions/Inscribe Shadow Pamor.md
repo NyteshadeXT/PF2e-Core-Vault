@@ -13,7 +13,7 @@ license: ORC
 ---
 # Inscribe Shadow Pamor `pf2:1`
 
-### [[3-Rules/Rule References/Occult]][[3-Rules/Trait Reference/S/shadow]]
+### [[occult]][[shadow]]
 
 **Category** offensive; 
 
@@ -26,5 +26,5 @@ license: ORC
 
 **Effect** You plunge your fist or weapon into your shadow, enveloping it in a rippling, damask-like pattern of darkness. If your next action is to Strike, the shadows cling to your foe with your attack, obscuring its vision. On a hit, the target of your Strike becomes [[Conditions/Dazzled|Dazzled]] until the start of your next turn. The target can use an Interact action to tear away the clinging shadows and remove the dazzled condition. On a critical hit, the shadows are particularly stubborn and can't be torn away.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

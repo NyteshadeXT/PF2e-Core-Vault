@@ -6,8 +6,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.dWbISC0di0r4oPCi"
-license: OGL
+license: ORC
 ---
 # Sword and Pistol
 ## Feat 1
@@ -23,4 +24,4 @@ You're comfortable wielding a firearm or crossbow in one hand and a melee weapon
 When you make a successful melee Strike against an enemy with your one-handed melee weapon, the next ranged Strike you make against that enemy with a one-handed firearm or one-handed crossbow doesn't trigger reactions that would trigger on a ranged attack but not a melee attack, such as Reactive Strike. Either of these benefits is lost if not used by the end of your next turn.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +17 (electricity, reach 10 feet, versatile p)\n__Damage__  2d6 + 8 bludgeoning 1d6 electricity"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+17 (electricity, reach 10 feet, unarmed, versatile p)\n__Damage__  2d6 + 8 bludgeoning 1d6 electricity"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +17 (agile, reach 15 feet)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+17 (agile, reach 15 feet)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Charging Leap"
     desc: "`pf2:2`  The mpeshi leaps up to 40 feet in any direction, including straight up. The mpeshi makes a horn Strike at any point during this leap."

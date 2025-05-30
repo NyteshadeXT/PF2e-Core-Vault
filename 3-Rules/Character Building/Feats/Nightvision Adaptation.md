@@ -20,5 +20,5 @@ license: OGL
 
 The nanites in your ocular processors have adapted to darkness, enhancing your ability to see in the dark. You gain darkvision.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

@@ -60,14 +60,17 @@ abilities_mid:
   - name: "Magic Immunity"
     desc: "  A dread wisp is immune to all spells except [[Spells/Faerie Fire|Faerie Fire]], [[Spells/Force Barrage|Force Barrage]], [[Spells/Quandary|Quandary]], [[Spells/Holy Light|Holy Light]], and spells with the vitality trait."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Draining Touch +17 (magical, void)\n__Damage__  3d8 + 8 void plus wearying-touch"
+  - name: "**Melee** `pf2:1` Draining Touch"
+    desc: "+17 (magical, void)\n__Damage__  3d8 + 8 void plus wearying-touch"
 
   - name: "Feed on Despair"
-    desc: "`pf2:1` (concentrate,occult,void) **Frequency** once per round\n\n**Requirement** An enemy within 15 feet of the dread wisp is under a fear effect, [[Conditions/Drained|Drained]], or [[Conditions/Dying|Dying]]\n* * *\n\n**Effect** The dread wisp feeds on the creature's despair. The dread wisp regains 2d8 Hit Points and deals 3d8 void damage to the creature (DC 25 Fortitude check save), and if the dread wisp has Gone Dark, their Dread Flickering reignites."
+    desc: "`pf2:1` (concentrate,occult,void) **Frequency** once per round\n\n**Requirement** An enemy within 15 feet of the dread wisp is under a fear effect, [[Conditions/Drained|Drained]], or [[Conditions/Dying|Dying]]\n* * *\n\n**Effect** The dread wisp feeds on the creature's despair. The dread wisp regains 2d8 healing Hit Points and deals 3d8 void damage to the creature (DC 25 Fortitude check save), and if the dread wisp has Gone Dark, their Dread Flickering reignites."
 
   - name: "Go Dark"
     desc: "`pf2:1` (concentrate) The dread wisp extinguishes their Dread Flickering, becoming [[Conditions/Invisible|Invisible]]. They can end this effect with another use of this action. If the dread wisp uses their draining touch Strike while invisible, the arc of pale energy lets any observer determine their location, making them [[Conditions/Hidden|Hidden]] to all observers only until the dread wisp moves."

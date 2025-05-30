@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Pickled Demon Tongue|Pickled Demon Tongue]]
+Granted by [[Equipment/Pickled Demon Tongue|Pickled Demon Tongue]], [[Equipment/Pickled Demon Tongue (Greater)|Pickled Demon Tongue (Greater)]], [[Equipment/Pickled Demon Tongue (Major)|Pickled Demon Tongue (Major)]]
 
-Strikes with the weapon deal an additional 1d4 acid damage.
+Strikes with the weapon deal additional acid damage.
 
 *Source: Pathfinder #188: They Watched the Stars*
 *OGL*

@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Poisonous Touch +23 (agile, finesse, magical)\n__Damage__  6d6 poison"
+  - name: "**Melee** `pf2:1` Poisonous Touch"
+    desc: "+23 (agile, finesse, magical)\n__Damage__  6d6 poison"
 
   - name: "Primal Innate Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Heal|Heal (x3)]]_, _[[Spells/Summon Elemental|Summon Elemental (Water Elementals only)]]_; __6th __ (1 slots) _[[Spells/Elemental Form|Elemental Form (Water Only) (x3)]]_, _[[Spells/Restoration|Restoration (x3)]]_, _[[Spells/Suggestion|Suggestion]]_; __5th __ (4 slots) _[[Spells/Control Water|Control Water]]_"

@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 (deadly d12)\n__Damage__  1d8 + 7 piercing 1d6 acid"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (deadly d12, unarmed)\n__Damage__  1d8 + 7 piercing 1d6 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +14 (range increment 30 feet, splash)\n__Damage__  1d6 acid 1d6 acid 1d6 acid"
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+14 (range increment 30 feet, splash)\n__Damage__  1d6 acid 1d6 acid 1d6 acid"
 
   - name: "Bouncing Slam"
     desc: "`pf2:1`  The gibtas Leaps toward a Medium or smaller creature, landing in the creature's space and [[Actions/Shove|Shoving]] the creature. If the Shove fails, the gibtas bounces out of the target's square to an adjacent square of the target's choosing."

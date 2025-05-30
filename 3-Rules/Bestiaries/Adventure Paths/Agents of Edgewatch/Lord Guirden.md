@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +37 (agile, finesse, nonlethal, unarmed)\n__Damage__  3d6 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+37 (agile, finesse, nonlethal, unarmed)\n__Damage__  3d6 + 14 bludgeoning"
 
   - name: "Double Punch"
     desc: "`pf2:1` (flourish) Lord Guirden makes two fist Strikes, ignoring the multiple attack penalty until after both Strikes."

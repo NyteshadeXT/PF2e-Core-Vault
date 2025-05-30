@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/illusion
   - trait/primal
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.KwmYKsaXHKfZgB2c"
 license: OGL
@@ -25,5 +25,5 @@ license: OGL
 
 **Effect** Spring-Heeled Jack becomes [[Conditions/Invisible|Invisible]] for 1 round.
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

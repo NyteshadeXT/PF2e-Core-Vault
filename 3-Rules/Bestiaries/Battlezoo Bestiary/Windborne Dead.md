@@ -71,11 +71,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 (agile, finesse, magical)\n__Damage__  2d12 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+23 (agile, finesse, magical)\n__Damage__  2d12 + 10 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Air Burst +23 (air, magical, range increment 30 feet)\n__Damage__  2d12 + 13 bludgeoning"
+  - name: "**Ranged** `pf2:1` Air Burst"
+    desc: "+23 (air, magical, range increment 30 feet)\n__Damage__  2d12 + 13 bludgeoning"
 
   - name: "Crushing Vertigo"
     desc: "`pf2:2` (air,divine,illusion,mental) The windborne dead imparts the debilitating sensation of vertigo and falling from a great height onto a creature within 60 feet. The creature takes 5d8 mental damage and must roll a DC 29 Will save.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Sickened|Sickened 2]]."
@@ -93,7 +93,7 @@ creatures:
 
 
 
-Power and creativity birth cruelty, and it is this combination that creates windborne dead. Sometimes cheekily referred to as "dropdeads," these beings arise from spellcasters who die from terrible falls from tremendous heights. Specifically, many windborne dead manifest from sorcerers or witches whose teleportation magic goes terribly awry, leaving them stranded high into the atmosphere, and the haughty spellcaster failed to prepare the most basic _[[Gentle Landing|Feather Fall]]_ spell as a contingency. Other times, windborne dead arise from powerful spellcasters who are simply and unceremoniously flung from the top of a rival wizard's tower.
+Power and creativity birth cruelty, and it is this combination that creates windborne dead. Sometimes cheekily referred to as "dropdeads," these beings arise from spellcasters who die from terrible falls from tremendous heights. Specifically, many windborne dead manifest from sorcerers or witches whose teleportation magic goes terribly awry, leaving them stranded high into the atmosphere, and the haughty spellcaster failed to prepare the most basic _[[Spells/Gentle Landing|Feather Fall]]_ spell as a contingency. Other times, windborne dead arise from powerful spellcasters who are simply and unceremoniously flung from the top of a rival wizard's tower.
 
 In any case, the fear of their final moments, the pain of their deaths, and the lingering teleportation magic used to bring about their downfall causes these doomed mortals to rise again as spiteful undead. These twisted souls go about the world seeking only to inflict their fate unto others, particularly spellcasters.
 

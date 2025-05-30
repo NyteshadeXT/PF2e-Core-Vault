@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spiked Gauntlet +8 (agile, free-hand)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Spiked Gauntlet"
+    desc: "+8 (agile, free-hand)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +9 (deadly d10, range increment 60 feet)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+9 (deadly d10, range increment 60 feet)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Divine Spells Prepared"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Spiritual Weapon|Spiritual Weapon]]_, _[[Compendium.pf2e.spells-srd.Item.FzAtX8yXBjTaisJK|Undetectable Alignment]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_"

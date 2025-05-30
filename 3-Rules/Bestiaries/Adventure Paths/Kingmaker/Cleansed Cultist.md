@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +17 (agile, finesse, magical, versatile s)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+17 (agile, finesse, magical, versatile s)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +16 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+16 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +16 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+16 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
 
   - name: "Release the Inmost Worm"
     desc: "`pf2:2` (mental,occult) The cleansed cultist makes fists with both hands, pressing them to their temples so that their outward pointing thumbs extend to the left and right while they cry out in painful religious rapture. The hourglass-shaped scar on their forehead bulges briefly before a bloody worm is expelled from the center of the scar. This worm shoots through the air to target a single creature within 30 feet, who must then attempt a DC 24 Fortitude check save. The cultist can't Release the Inmost Worm again for 1d4 rounds.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The worm lands on the target and causes agonizing pain before dropping to the floor and fading away. The target takes 3d6 mental damage.\n\n**Failure** The worm lands on the target and burrows into their flesh, leaving no trace of a hole. The target seems to age rapidly for a moment, takes 6d6 mental damage, and is [[Conditions/Stupefied|Stupefied 1]] for 1 round before the pain fades and the target returns to its actual age.\n\n**Critical Failure** As failure, but the target also takes 6d6 persistent mental damage. The target remains stupefied 1 as long as the mental damage persists, during which they appear to be aging rapidly. Once the persistent damage ends, the target's appearance reverts to normal."

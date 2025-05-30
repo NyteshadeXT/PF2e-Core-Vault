@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-Taking advantage of the brutal efficiency of hacking away at a target with two slashing attacks, you've mastered the art of punishing a foe caught between your slices. You deal 1d6 slashing damage to the target. This damage increases to 2d6 slashing at 10th level and to 3d6 slashing at 16th level.
+Taking advantage of the brutal efficiency of hacking away at a target with two slashing attacks, you've mastered the art of punishing a foe caught between your slices. You deal 1d6 slashing damage to the target. This damage increases to 2d6 at 10th level and to 3d6 at 16th level.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

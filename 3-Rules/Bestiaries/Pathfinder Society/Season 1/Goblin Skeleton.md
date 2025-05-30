@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +6 (agile, finesse)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+6 (agile, finesse, unarmed)\n__Damage__  1d4 + 2 slashing"
  
 ```
 

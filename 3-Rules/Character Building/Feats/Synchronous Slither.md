@@ -25,5 +25,5 @@ license: ORC
 
 You've learned to travel at your ally's rhythm and use their movement to adjust your own position. You Stride up to half your speed. This movement doesn't trigger reactions from the enemy your ally moved adjacent to.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -50,6 +50,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Stolen Identity"
     desc: "  While a xoarian uses Body Thief, it gains the ability to understand and speak all languages known by the host, as well as knowledge of the host body's abilities, identity, role in society, and personality. However, it does not gain the specific memories or knowledge of the host body."
 
@@ -61,8 +67,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +18 (agile, finesse)\n__Damage__  2d10 + 5 piercing"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+18 (agile, finesse, unarmed)\n__Damage__  2d10 + 5 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 27, attack +19; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Dispelling Globe|Dispelling Globe]]_; __3rd __  _[[Spells/Paralyze|Paralyze (x3)]]_, _[[Spells/Soothe|Soothe (x3)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_, _[[Spells/Paranoia|Paranoia (At Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_"

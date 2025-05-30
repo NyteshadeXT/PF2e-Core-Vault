@@ -57,17 +57,17 @@ abilities_top:
     desc: "[[Equipment/Scythe|Scythe]], Clothing and Crown made of thorny vines and weeds, [[Equipment/Magic Wand (2nd-Rank Spell)|Wand of Glitterdust (Level 2)]]"
 abilities_mid:
   - name: ""
-  - name: "[[Bestiary 1/Goblin Warrior/Goblin Scuttle|Goblin Scuttle]]"
+  - name: "[[Monster Core/Goblin Warrior/Goblin Scuttle|Goblin Scuttle]]"
     desc: "`pf2:r`  **Trigger** A goblin ally ends a move action adjacent to the goblin.\n* * *\n\n**Effect** The goblin [[Actions/Step|Steps]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scythe +9 (deadly d10, trip)\n__Damage__  1d10 + 1 slashing"
+  - name: "**Melee** `pf2:1` Scythe"
+    desc: "+9 (deadly d10, trip)\n__Damage__  1d10 + 1 slashing"
 
   - name: "Primal Prepared Spells"
-    desc: "DC 21, attack +12; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Floating Flame|Flaming Sphere]]_; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Goblin Pox|Goblin Pox]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(2nd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 21, attack +12; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Floating Flame|Flaming Sphere]]_; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Goblin Pox|Goblin Pox]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(2nd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Druid Order Spells"
     desc: "1 Focus Point, DC 21, attack +12; __2nd __  _[[Spells/Tempest Surge|Tempest Surge]]_"

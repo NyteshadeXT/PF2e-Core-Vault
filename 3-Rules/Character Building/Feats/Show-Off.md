@@ -30,5 +30,5 @@ As is the tradition with many Firebrands, you call your shot and look to impress
 
 [[Feat_Feature Effects/Effect_ Show Off|Effect: Show Off]]
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

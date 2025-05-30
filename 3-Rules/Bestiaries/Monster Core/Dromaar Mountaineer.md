@@ -60,19 +60,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pick +9 (fatal d10)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Pick"
+    desc: "+9 (fatal d10)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +9 (agile, shove)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+9 (agile, shove, unarmed)\n__Damage__  1d6 + 3 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bola +9 (nonlethal, ranged trip, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Ranged** `pf2:1` Bola"
+    desc: "+9 (nonlethal, ranged trip, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Tangle Prey"
     desc: "`pf2:1`  The dromaar draws a bola and Strikes a target within 20 feet. On a success, the dromaar immediately rolls an Athletics check check against the target's Fortitude DC to [[Actions/Trip|Trip]] them."

@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Zealous Conviction|Zealous Conviction]]
+Granted by [[Spells/Zealous Conviction|Zealous Conviction]]
 
-The targets each gain temporary Hit Points and a status bonus to Will saves against mental effects.
+You gain temporary Hit Points and a status bonus to Will saves against mental effects.
 
 *Source: Pathfinder Player Core*
 *ORC*

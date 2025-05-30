@@ -53,19 +53,22 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Dagger|+1 Striking Dagger]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +20 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+20 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spine +16 ()\n__Damage__  2d6 + 4 piercing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Spine"
+    desc: "+16 ()\n__Damage__  2d6 + 4 piercing 1d6 bleed"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +20 (agile, finesse, magical, thrown 10 ft., versatile s)\n__Damage__  2d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+20 (agile, finesse, magical, thrown 10 ft., versatile s)\n__Damage__  2d4 + 4 piercing"
 
   - name: "Innate Primal Spells"
     desc: "DC 30, attack +22; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_, _[[Spells/Suggestion|Suggestion]]_; __2nd __  _[[Spells/Hydraulic Push|Hydraulic Push (At Will)]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_, _[[Spells/Shatter|Shatter]]_, _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_; __1st __  _[[Spells/Grease|Grease (At Will)]]_, _[[Spells/Gust of Wind|Gust of Wind (At Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Prestidigitation|Prestidigitation]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Animals|Speak with Animals]]_"

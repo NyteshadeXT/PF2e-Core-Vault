@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 ()\n__Damage__  1d10 + 7 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (unarmed)\n__Damage__  1d10 + 7 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile)\n__Damage__  1d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, unarmed)\n__Damage__  1d8 + 7 slashing"
 
   - name: "Pounce"
     desc: "`pf2:1`  The tiger Strides and makes a Strike at the end of that movement. If the tiger began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."
@@ -71,7 +71,7 @@ attacks:
     desc: "`pf2:1`  The tiger makes a claw Strike against a creature it is [[Conditions/Grabbed|Grabbing]]. If the attack hits, that creature is knocked [[Conditions/Prone|Prone]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

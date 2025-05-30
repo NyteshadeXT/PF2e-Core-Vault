@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You also gain a +1 status bonus on your next Diplomacy check to Make an Impression on those creatures present when you cast this spell, as long as the check occurs during the duration of the spell. You can read the air only once in a given social situation; casting it again has no effect.
+Granted by [[Spells/Read the Air|Read the Air]]
+
+You gain a +1 status bonus on your next Diplomacy check to Make an Impression.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

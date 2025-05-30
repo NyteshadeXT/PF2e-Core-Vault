@@ -68,11 +68,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) In order to put Fionn permanently to rest, the PCs must release his brother Kean from Amiri's blade-doing so renders Fionn's plan to use Kean's soul to return to the First World impossible and causes the frustrated ghost to accept his fate and resign himself as well to the afterlife. Until this occurs, Fionn seeks out the blade each time he rejuvenates; now that he's seen the blade in person, he's capable of sensing its location at all times.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Battle Axe +27 (finesse, reach 10 feet, sweep)\n__Damage__  3d8 + 11 void 2d6 cold"
+  - name: "**Melee** `pf2:1` Ghostly Battle Axe"
+    desc: "+27 (finesse, reach 10 feet, sweep)\n__Damage__  3d8 + 11 void 2d6 cold"
 
   - name: "Primal Innate Spells"
     desc: "DC 32, attack +22; __7th __  _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __6th __  _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Outcast's Curse|Outcast's Curse (At Will)]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Talking Corpse|Talking Corpse]]_\n__Cantrips__  __(7th)__ _[[Spells/Ray of Frost|Ray of Frost]]_"

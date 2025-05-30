@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 ()\n__Damage__  1d10 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (unarmed)\n__Damage__  1d10 + 5 piercing"
 
   - name: "Breach"
     desc: "`pf2:2`  The shark Swims up to its swim Speed, then Leaps vertically out of the water up to 15 feet high, making a Strike against a creature at any point during the jump (this lets it attack a creature within 20 feet of the water's surface). After the Strike, the shark splashes back down into the water."

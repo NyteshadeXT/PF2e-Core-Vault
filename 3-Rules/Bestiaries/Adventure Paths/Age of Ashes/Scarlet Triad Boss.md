@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +34 (agile, finesse, versatile s)\n__Damage__  2d6 + 12 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+34 (agile, finesse, versatile s)\n__Damage__  2d6 + 12 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +34 (deadly 2d10, range increment 60 feet, reload 0)\n__Damage__  3d6 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+34 (deadly 2d10, range increment 60 feet, reload 0)\n__Damage__  3d6 + 9 piercing"
 
   - name: "Darting Shot"
     desc: "`pf2:2`  The Scarlet Triad boss Feints a target, Strides up to their Speed, and makes a Strike with their shortbow in any order. They can Feint any target within 30 feet when using this ability."

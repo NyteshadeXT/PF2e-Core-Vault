@@ -4,8 +4,9 @@ title: "Spell Effect: Incendiary Ashes (Success)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/
+  - remaster
 aliases: "Compendium.pf2e.spell-effects.Item.4dnt1P2SfcePzkrF"
-license: OGL
+license: ORC
 ---
 # Spell Effect: Incendiary Ashes (Success)
 ## Level 3
@@ -16,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Incendiary Ashes|Incendiary Ashes]]
+Granted by [[Spells/Incendiary Ashes|Incendiary Ashes]]
 
-The creature has weakness to fire 3 until the start of its next turn.
+You have weakness to fire.
 
-*Source: Pathfinder #185: A Taste of Ashes*
-*OGL*
+*Source: Pathfinder Lost Omens Divine Mysteries*
+*ORC*

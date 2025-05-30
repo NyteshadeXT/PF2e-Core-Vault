@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** maestro muse
 * * *
-By adding a flourish, you make your compositions last longer. You learn the [[3-Rules/Character Building/Spells/L/Lingering Composition|Lingering Composition]] focus spell.
+By adding a flourish, you make your compositions last longer. You learn the [[Spells/Lingering Composition|Lingering Composition]] focus spell.
 
 *Source: Pathfinder Player Core*
 *ORC*

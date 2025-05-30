@@ -55,14 +55,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +30 (agile)\n__Damage__  3d6 + 15 piercing plus mother-venom-poison"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+30 (agile)\n__Damage__  3d6 + 15 piercing plus mother-venom-poison"
 
-  - name: "Melee"
-    desc: "`pf2:1` Ooze Tendril +28 (magical, reach 10 feet)\n__Damage__  3d10 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Ooze Tendril"
+    desc: "+28 (magical, reach 10 feet)\n__Damage__  3d10 + 11 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +31 (agile, range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+31 (agile, range increment 30 feet)\n__Damage__ "
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 39, attack +30; __9th __ (2 slots) _[[Spells/Implosion|Implosion]]_, _[[Spells/Power Word Kill|Power Word Kill]]_; __8th __ (2 slots) _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Power Word Stun|Power Word Stun]]_; __7th __ (2 slots) _[[Spells/Spell Turning|Spell Turning]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __ (2 slots) _[[Spells/Petrify|Flesh to Stone]]_, _[[Spells/Mountain Resilience|Stoneskin]]_; __5th __ (3 slots) _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __ (3 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Vapor Form|Gaseous Form]]_, _[[Spells/Speak with Plants|Speak with Plants]]_; __3rd __ (3 slots) _[[Spells/Haste|Haste]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __ (3 slots) _[[Spells/Humanoid Form|Humanoid Form]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Gecko Grip|Spider Climb]]_; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Mystic Armor|Mage Armor]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(9th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

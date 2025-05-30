@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Temple Sword +16 (trip)\n__Damage__  2d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Temple Sword"
+    desc: "+16 (trip)\n__Damage__  2d8 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sap +17 (agile, nonlethal)\n__Damage__  1d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Sap"
+    desc: "+17 (agile, nonlethal)\n__Damage__  1d6 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +14 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+14 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Power Attack"
     desc: "`pf2:2`  The veteran makes a melee Strike that counts as two attacks when calculating their multiple attack penalty. If this strike hits, it deals an extra die of weapon damage."

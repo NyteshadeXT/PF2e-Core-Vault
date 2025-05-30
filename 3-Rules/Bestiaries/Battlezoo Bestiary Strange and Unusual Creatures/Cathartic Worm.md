@@ -37,7 +37,7 @@ perception:
 languages: "Common, Draconic, Fey; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +18, Arcana: +18, Athletics: +18, Nature: +15, Occultism: +15, Stealth: +20, Acrobatics: +18, Arcana: +18, Athletics: +18, Emotion Lore: +18, Nature: +15, Occultism: +15, Stealth: +20"
+    desc: "Acrobatics: +18, Arcana: +18, Athletics: +18, Nature: +15, Occultism: +15, Stealth: +20, Emotion Lore: +18"
 abilityMods: [3, 6, 3, 2, -2, -4]
 speed: 40 feet,  climb 30 feet,  fly 50 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +21 (finesse, reach 10 feet)\n__Damage__  2d12 + 9 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+21 (finesse, reach 10 feet)\n__Damage__  2d12 + 9 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 (agile, finesse, reach 10 feet)\n__Damage__  2d10 + 9 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (agile, finesse, reach 10 feet)\n__Damage__  2d10 + 9 piercing"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

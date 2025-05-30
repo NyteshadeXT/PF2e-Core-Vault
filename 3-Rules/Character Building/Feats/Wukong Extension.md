@@ -28,5 +28,5 @@ license: ORC
 
 Invoking the name of Sun Wukong's extending cudgel, Ruyi Bang, you activate hidden levers and cranks in your innovation, making it swiftly extend outward like a battering ram. Make a melee Strike with your weapon innovation; your reach for that Strike is 30 feet.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

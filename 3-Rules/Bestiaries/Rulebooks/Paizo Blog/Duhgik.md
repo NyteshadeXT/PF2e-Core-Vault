@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +12 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+12 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +13 (range increment 50 feet, reload 1)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+13 (range increment 50 feet, reload 1)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Remote Trigger"
     desc: "  Duhgik has learned how to trigger snares from afar, creating ranged hazards to assail her opponents and allowing her to disarm enemies' snares harmlessly. She can Strike a snare to trigger it prematurely. If she crafted the snare, she automatically hits. If someone else crafted it, she must attempt a ranged Strike against the Crafting DC, triggering the snare only if she hits."

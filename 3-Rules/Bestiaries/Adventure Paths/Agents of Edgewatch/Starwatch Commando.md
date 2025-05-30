@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +24 (versatile p)\n__Damage__  2d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+24 (versatile p)\n__Damage__  2d8 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +23 (magical, range increment 120 feet, reload 1)\n__Damage__  2d8 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+23 (magical, range increment 120 feet, reload 1)\n__Damage__  2d8 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thunderstone +22 (alchemical, bomb, consumable, range increment 30 feet, splash)\n__Damage__  3d4 sonic plus binding-blast 3 sonic plus binding-blast"
+  - name: "**Ranged** `pf2:1` Thunderstone"
+    desc: "+22 (alchemical, bomb, consumable, range increment 30 feet, splash)\n__Damage__  3d4 sonic plus binding-blast 3 sonic plus binding-blast"
 
   - name: "Binding Blast"
     desc: "  A commando's thunderstone is infused with special reagents to produce a blinding flash of light. In addition to the thunderstone's normal effects, creatures that fail the saving throw against the thunderstone are also [[Conditions/Dazzled|Dazzled]] for 1 round. Creatures that critically fail are [[Conditions/Blinded|Blinded]] for 1 round. Creatures who protect their eyes, such as by wearing tinted goggles, are immune to the infused thunderstone's blinding effect."

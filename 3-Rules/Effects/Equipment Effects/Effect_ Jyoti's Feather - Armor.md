@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Jyoti's Feather|Jyoti's Feather]]
+Granted by [[Equipment/Jyoti's Feather|Jyoti's Feather]], [[Equipment/Jyoti's Feather (Greater)|Jyoti's Feather (Greater)]], [[Equipment/Jyoti's Feather (Major)|Jyoti's Feather (Major)]]
 
-You gain a +2 item bonus to saving throws against death effects and void energy.
+You gain an item bonus to saving throws against death effects and void energy.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

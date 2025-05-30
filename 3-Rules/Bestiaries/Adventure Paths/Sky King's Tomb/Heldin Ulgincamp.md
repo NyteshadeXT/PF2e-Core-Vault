@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +7 (shove)\n__Damage__  1d8 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+7 (shove)\n__Damage__  1d8 + 1 bludgeoning"
 
   - name: "Divine Prepared Spells"
     desc: "DC 17, attack +0; __1st __  _[[Spells/Heal|Heal]]_, _[[Spells/Runic Weapon|Magic Weapon]]_\n__Cantrips__  __(1st)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Stabilize|Stabilize]]_"

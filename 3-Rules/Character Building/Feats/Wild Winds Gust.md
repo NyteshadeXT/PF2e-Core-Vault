@@ -15,7 +15,7 @@ license: ORC
 ---
 # Wild Winds Gust `pf2:2`
 ## Feat 14
-### [[3-Rules/trait_reference/A/air]][[concentrate]][[manipulate]][[monk]]
+### [[air]][[concentrate]][[manipulate]][[monk]]
 
 **Category** class; 
 
@@ -23,11 +23,11 @@ license: ORC
 
 **Prerequisites** Wild Winds Initiate
 * * *
-**Requirements** You are in [[Wild Winds Stance|Wild Winds Stance]]
+**Requirements** You are in [[Spells/Wild Winds Stance|Wild Winds Stance]]
 
 * * *
 
-You build air pressure with repeated motions, before releasing an enormous crescent of rushing wind strikes. Make a wind crash Strike against each creature in your choice of a @Template\[cone|distance:30\] or a @Template\[line|distance:60\]. These attacks all count toward your multiple attack penalty, but the penalty doesn't increase until after you make all the attacks.
+You build air pressure with repeated motions, before releasing an enormous crescent of rushing wind strikes. Make a wind crash Strike against each creature in your choice of a 30-foot cone or a 60-foot line. These attacks all count toward your multiple attack penalty, but the penalty doesn't increase until after you make all the attacks.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

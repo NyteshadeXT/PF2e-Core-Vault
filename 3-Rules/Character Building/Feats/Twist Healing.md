@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** ability to cast heal and harm
 * * *
-Your connection to both life and undeath lets you twist the healing power of magic items to suit your own needs and aims. Whenever you Activate an Item to cast a [[Heal|Heal]] spell, you can invert its energy to produce the effects of an equivalent [[Harm|Harm]] spell instead.
+Your connection to both life and undeath lets you twist the healing power of magic items to suit your own needs and aims. Whenever you Activate an Item to cast a [[Spells/Heal|Heal]] spell, you can invert its energy to produce the effects of an equivalent [[Spells/Harm|Harm]] spell instead.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

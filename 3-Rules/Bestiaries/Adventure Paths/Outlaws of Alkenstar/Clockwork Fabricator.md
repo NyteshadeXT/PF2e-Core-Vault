@@ -61,38 +61,38 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Buzz-Saw Blade +16 (forceful, sweep)\n__Damage__  1d4 + 6 slashing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Buzz-Saw Blade"
+    desc: "+16 (forceful, sweep)\n__Damage__  1d4 + 6 slashing 1d6 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Crushing Vise +14 (grapple)\n__Damage__  2d6 + 6 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Crushing Vise"
+    desc: "+14 (grapple)\n__Damage__  2d6 + 6 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sledgehammer +12 ()\n__Damage__  2d10 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Sledgehammer"
+    desc: "+12 ()\n__Damage__  2d10 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Pneumatic Chisel +14 ()\n__Damage__  2d8 + 6 piercing"
+  - name: "**Melee** `pf2:1` Pneumatic Chisel"
+    desc: "+14 ()\n__Damage__  2d8 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Arm +14 (agile, unarmed)\n__Damage__  2d4 + 6 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Arm"
+    desc: "+14 (agile, unarmed)\n__Damage__  2d4 + 6 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Towing Anchor +11 (thrown 30 ft.)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Towing Anchor"
+    desc: "+11 (thrown 30 ft.)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Nail Gun +11 (agile, range 10 feet)\n__Damage__  2d8 piercing"
+  - name: "**Ranged** `pf2:1` Nail Gun"
+    desc: "+11 (agile, range 10 feet)\n__Damage__  2d8 piercing"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  **Requirements** The clockwork fabricator has a creature grappled or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** 2d4+4 bludgeoning, DC 21 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  **Requirements** The clockwork fabricator has a creature grappled or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** 2d4+4 bludgeoning, DC 21 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Modular Arms"
-    desc: "  A clockwork fabricator is built to perform a specific type of task repeatedly, and it comes with built-in artisan's tools and two detachable \"arms.\" An adjacent creature can forcibly remove a clockwork fabricator's arm with a successful DC 18 Thievery check check to Disable a Device. A creature can Interact to install a new arm with a successful DC 18 Engineering check Lore check. A fabricator has two of any of the following types of arms.\n\n*   **Melee** `pf2:1` buzz-saw blade +16 (forceful, sweep), Damage 1d4+6 slashing plus 1d6 bleed\n*   **Melee** `pf2:1` crushing vise +14 (grapple), Damage 2d6+6 bludgeoning plus Grab\n*   **Melee** `pf2:1` sledgehammer +12, Damage 2d10+6 bludgeoning\n*   **Ranged** `pf2:1` nail gun +11 (agile, range 10 feet), Damage 2d8 piercing\n*   **Melee** `pf2:1` pneumatic chisel +14, Damage 2d8+6 piercing\n*   **Ranged** `pf2:1` towing anchor +11 (thrown 30 feet), Damage 1d4+6 piercing"
+    desc: "  A clockwork fabricator is built to perform a specific type of task repeatedly, and it comes with built-in artisan's tools and two detachable \"arms.\" An adjacent creature can forcibly remove a clockwork fabricator's arm with a successful [[Actions/disable-device dc=18|disable-device dc=18]]{DC 18 Thievery} check to Disable a Device. A creature can Interact to install a new arm with a successful DC 18 Engineering Lore check Lore check. A fabricator has two of any of the following types of arms.\n\n*   **Melee** `pf2:1` buzz-saw blade +16 (forceful, sweep), Damage 1d4+6 slashing plus 1d6 bleed\n*   **Melee** `pf2:1` crushing vise +14 (grapple), Damage 2d6+6 bludgeoning plus Grab\n*   **Melee** `pf2:1` sledgehammer +12, Damage 2d10+6 bludgeoning\n*   **Ranged** `pf2:1` nail gun +11 (agile, range 10 feet), Damage 2d8 piercing\n*   **Melee** `pf2:1` pneumatic chisel +14, Damage 2d8+6 piercing\n*   **Ranged** `pf2:1` towing anchor +11 (thrown 30 feet), Damage 1d4+6 piercing"
 
   - name: "Pull"
     desc: "`pf2:1`  **Requirements** The clockwork fabricator's last action was a successful towing anchor Strike\n* * *\n\n**Effect** The clockwork fabricator reels in the anchor and attempts an Athletics check check against the target's Fortitude DC. On a success, the clockwork fabricator pulls the target into a free square adjacent to it. This movement is forced movement."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

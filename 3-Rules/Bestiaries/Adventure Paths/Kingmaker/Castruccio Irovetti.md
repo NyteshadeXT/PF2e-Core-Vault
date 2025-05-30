@@ -56,16 +56,19 @@ abilities_top:
   - name: "Nyrissa's Favor"
     desc: "  Nyrissa infused Irovetti with additional abilities. He gained darkvision and the ability to see [[Conditions/Invisible|Invisible]] creatures as a result of this favor, in addition to the typical +2 status bonus to Performance when determining the effect of compositions."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rod of Razors +30 (reach 10 feet, versatile p)\n__Damage__  3d10 + 12 slashing"
+  - name: "**Melee** `pf2:1` Rod of Razors"
+    desc: "+30 (reach 10 feet, versatile p)\n__Damage__  3d10 + 12 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flechette +32 (deadly d10, range increment 100 feet, volley 30 ft.)\n__Damage__  3d8 + 12 piercing"
+  - name: "**Ranged** `pf2:1` Flechette"
+    desc: "+32 (deadly d10, range increment 100 feet, volley 30 ft.)\n__Damage__  3d8 + 12 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 37, attack +30; __8th __ (3 slots) _[[Spells/Quandary|Maze]]_, _[[Spells/Confusing Colors|Scintillating Pattern]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (3 slots) _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Truespeech|Tongues]]_; __6th __ (3 slots) _[[Spells/Dominate|Dominate]]_, _[[Spells/Noise Blast|Sound Burst]]_, _[[Spells/Teleport|Teleport]]_; __5th __ (3 slots) _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Sending|Sending]]_, _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_; __4th __ (3 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Peaceful Bubble|Private Sanctum]]_; __3rd __ (3 slots) _[[Spells/Item Facade|Item Facade]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_"
@@ -74,7 +77,7 @@ attacks:
     desc: "1 Focus Point, DC 37, attack +30; __4th __  _[[Spells/Counter Performance|Counter Performance]]_, _[[Spells/Fortissimo Composition|Inspire Heroics]]_, _[[Spells/Lingering Composition|Lingering Composition]]_\n__Cantrips__  __(4th)__ _[[Spells/Courageous Anthem|Inspire Courage]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Inveigle|Inveigle]]_"
+    desc: "_Inveigle_"
 
   - name: "Songstrike"
     desc: "`pf2:2` (occult) Irovetti sings out a short aria that resonates within his rod of razors, causing it to become infused with sonic energy. He attempts a Strike with the rod of razors, and if he hits, he inflicts an additional 5d10 sonic damage (DC 37 Fortitude check)."

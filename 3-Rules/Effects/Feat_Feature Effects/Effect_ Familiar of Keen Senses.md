@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Familiar Abilities/Familiar of Keen Senses|Familiar of Keen Senses]]
 
-When you Cast or Sustain a hex, your familiar gains your choice of an imprecise scent, tremorsense, or wavesense, with a range of 60 feet until the start of your next turn, and it can immediately [[Actions/Point Out|Point Out]] as a free action.
+Your familiar gains your choice of an imprecise scent, tremorsense, or wavesense, with a range of 60 feet.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -56,25 +56,28 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Adhesive Body"
     desc: "  Any creature that Strikes the qurashith with a melee weapon must attempt a DC 37 Reflex check save. On a failure, the creature is disarmed of its weapon, which becomes stuck to the qurashith's body; if the Strike was an unarmed attack, the creature's limb sticks to the qurashith's body and the creature becomes immobilized. A creature must succeed at a DC 31 Athletics check check to retrieve a stuck weapon. On a failure, the creature takes 2d6 acid damage and the weapon remains stuck, and on a critical failure, the creature also becomes stuck to the qurashith and becomes [[Conditions/Immobilized|Immobilized]]. A stuck creature takes 2d6 acid damage each round it remains stuck to the qurashith and can use an [[Actions/Escape|Escape]] action to try to free itself from the monster (DC 31)."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 33 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 33 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +34 (magical, reach 15 feet, unholy)\n__Damage__  3d12 + 17 piercing plus paralytic-saliva"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+34 (magical, reach 15 feet, unarmed, unholy)\n__Damage__  3d12 + 17 piercing plus paralytic-saliva"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +32 (agile, magical, reach 15 feet, unholy)\n__Damage__  3d10 + 15 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+32 (agile, magical, reach 15 feet, unarmed, unholy)\n__Damage__  3d10 + 15 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spittle +30 (range 60 feet, unholy)\n__Damage__  6d6 acid plus paralytic-saliva"
+  - name: "**Ranged** `pf2:1` Spittle"
+    desc: "+30 (range 60 feet, unholy)\n__Damage__  6d6 acid plus paralytic-saliva"
 
   - name: "Divine Innate Spells"
     desc: "DC 35, attack +27; __6th __ (1 slots) _[[Spells/Teleport|Teleport (At Will, Self Only)]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"
@@ -83,10 +86,10 @@ attacks:
     desc: "  A creature that takes damage from a qurashith's jaws or spittle must succeed at a DC 39 Fortitude check save or be [[Conditions/Slowed|Slowed 1]] for 1d4 rounds ([[Conditions/Slowed|Slowed 2]] on a critical failure). If a creature is already slowed when it fails its save, it becomes [[Conditions/Paralyzed|Paralyzed]] for 1 round."
 
   - name: "Psychic Howl"
-    desc: "`pf2:2`  The qurashith unleashes a debilitating psionic scream. Creatures in a @Template[cone|distance:60] must succeed at a DC 35 Will check save or become [[Conditions/Stupefied|Stupefied 2]] ([[Conditions/Stupefied|Stupefied 4]] on a critical failure) for 1 minute. A creature that critically succeeds at its Will save is immune to the qurashith's Psychic Howl for 24 hours. The qurashith can't use Psychic Howl again for 1d4 rounds."
+    desc: "`pf2:2`  The qurashith unleashes a debilitating psionic scream. Creatures in a 60-foot cone must succeed at a DC 35 Will check save or become [[Conditions/Stupefied|Stupefied 2]] ([[Conditions/Stupefied|Stupefied 4]] on a critical failure) for 1 minute. A creature that critically succeeds at its Will save is immune to the qurashith's Psychic Howl for 24 hours. The qurashith can't use Psychic Howl again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  **Strike**: Claw\n\n* * *\n"
+    desc: "`pf2:1`  **Strike**: Claw\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
  
 ```
 

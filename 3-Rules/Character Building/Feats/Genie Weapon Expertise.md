@@ -25,7 +25,7 @@ license: OGL
 
 **Prerequisites** Genie Weapon Familiarity
 * * *
-Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in [[Falchion|Falchions]], [[Ranseur|Ranseurs]], [[Scimitar|Scimitars]], [[Trident|Tridents]], and all geniekin weapons in which you are trained.
+Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in [[Equipment/Falchion|Falchions]], [[Equipment/Ranseur|Ranseurs]], [[Equipment/Scimitar|Scimitars]], [[Equipment/Trident|Tridents]], and all geniekin weapons in which you are trained.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

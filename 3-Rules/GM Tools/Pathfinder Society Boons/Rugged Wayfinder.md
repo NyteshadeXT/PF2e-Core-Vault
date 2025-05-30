@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Rugged Wayfinder"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.U6QqFDstHNjEeOUS"
 license: OGL
 ---
 # Rugged Wayfinder `pf2:1`
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 
@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-**Effect** You have modified your [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] to absorb a small amount of your exhaustion, allowing you to continue exploring unhindered. When you purchase this boon, you apply its benefits to one wayfinder in your possession, granting you a special ability when the wayfinder is invested and in your possession.
+**Effect** You have modified your [[Equipment/Wayfinder|Wayfinder]] to absorb a small amount of your exhaustion, allowing you to continue exploring unhindered. When you purchase this boon, you apply its benefits to one wayfinder in your possession, granting you a special ability when the wayfinder is invested and in your possession.
 
 As an action, you can reduce the severity of your [[Conditions/Clumsy|Clumsy]], [[Conditions/Enfeebled|Enfeebled]], or [[Conditions/Sickened|Sickened]] condition, reducing that condition's value by 1.
 

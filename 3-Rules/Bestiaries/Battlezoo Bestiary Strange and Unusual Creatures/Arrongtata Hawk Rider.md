@@ -37,7 +37,7 @@ perception:
 languages: "Fey; speak with animals, telepathy 50 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +11, Athletics: +10, Nature: +11, Acrobatics: +11, Athletics: +10, Nature: +11, Warfare Lore: +10"
+    desc: "Acrobatics: +11, Athletics: +10, Nature: +11, Warfare Lore: +10"
 abilityMods: [3, 4, 1, 3, 4, 1]
 speed: 10 feet,  fly 50 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longspear +12 ()\n__Damage__  1d8 + 5 piercing"
+  - name: "**Melee** `pf2:1` Longspear"
+    desc: "+12 ()\n__Damage__  1d8 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +12 (agile)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+12 (agile)\n__Damage__  1d4 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +13 (thrown 30 ft.)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+13 (thrown 30 ft.)\n__Damage__  1d6 + 5 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9\n__Constant__  __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"

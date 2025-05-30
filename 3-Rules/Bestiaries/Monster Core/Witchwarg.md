@@ -58,22 +58,22 @@ abilities_mid:
     desc: "`pf2:r`  **Trigger** A creature within reach of the witchwarg's jaws attacks one of the witchwarg's allies.\n* * *\n\n**Effect** The witchwarg makes a jaws Strike against the triggering creature."
 
   - name: "[[Bestiary Ability Glossary/Buck|Buck]]"
-    desc: "`pf2:r`  DC 21 Reflex check"
+    desc: "`pf2:r`  DC 21 Reflex check\n* * *\n\nMost monsters that serve as mounts can attempt to buck off unwanted or annoying riders, but most mounts will not use this reaction against a trusted creature unless the mounts are spooked or mistreated.\n\n**Trigger** A creature [[Actions/Mount|Mounts]] or uses the [[Actions/Command an Animal|Command an Animal]] action while riding the monster.\n* * *\n\n**Effect** The triggering creature must succeed at a Reflex saving throw against the listed DC or fall off the creature and land [[Conditions/Prone|Prone]]. If the save is a critical failure, the triggering creature also takes 1d6 bludgeoning damage in addition to the normal damage for the fall."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 (cold)\n__Damage__  1d10 + 6 piercing plus knockdown 1d6 cold plus knockdown"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (cold, unarmed)\n__Damage__  1d10 + 6 piercing plus knockdown 1d6 cold plus knockdown"
 
   - name: "Pack Attack"
     desc: "  The witchwarg's Strikes deal 1d6 extra damage to creatures within the reach of at least two of the witchwarg's allies."
 
   - name: "Winter Breath"
-    desc: "`pf2:2` (cold,primal) The witchwarg breathes a cloud of frost in a @Template[cone|distance:15] that deals 5d8 cold damage (DC 23 Reflex check save).\n\nThe witchwarg can't use Winter Breath again for 1d4 rounds."
+    desc: "`pf2:2` (cold,primal) The witchwarg breathes a cloud of frost in a 15-foot cone that deals 5d8 cold damage (DC 23 Reflex check save).\n\nThe witchwarg can't use Winter Breath again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

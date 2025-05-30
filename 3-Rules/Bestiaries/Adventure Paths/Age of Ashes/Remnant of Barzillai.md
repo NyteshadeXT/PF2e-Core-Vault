@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Burning Mace +22 (fire, magical, shove)\n__Damage__  2d6 + 8 bludgeoning 2d6 fire"
+  - name: "**Melee** `pf2:1` Burning Mace"
+    desc: "+22 (fire, magical, shove)\n__Damage__  2d6 + 8 bludgeoning 2d6 fire"
 
   - name: "Create Haunt"
     desc: "`pf2:3` (divine) **Frequency** three times per day\n\n**Requirements** The remnant of Barzillai is within Ravounel.\n* * *\n\n**Effect** The remnant of Barzillai stirs up and amplifies unsettled spirits in the area to create a single haunt of 6th level or lower at his present location. This haunt is permanent until it is disabled or the remnant of Barzillai is destroyed."

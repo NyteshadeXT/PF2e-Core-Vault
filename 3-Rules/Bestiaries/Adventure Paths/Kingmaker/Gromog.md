@@ -66,8 +66,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ogre Hook +12 (reach 10 feet, trip)\n__Damage__  1d10 + 7 piercing"
+  - name: "**Melee** `pf2:1` Ogre Hook"
+    desc: "+12 (reach 10 feet, trip, deadly d10)\n__Damage__  1d10 + 7 piercing"
  
 ```
 

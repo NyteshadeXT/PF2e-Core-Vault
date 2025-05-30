@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
 title: "Disengage"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/maneuver
-  - trait/common
+  - trait/
   - category/army-war-action
 aliases: "Compendium.pf2e.kingmaker-features.Item.Pu5bptxLrKFyEzFh"
 license: OGL
 ---
 # Disengage `pf2:2`
-
+## 
 ### [[maneuver]]
 
 **Category** army-war-action; 

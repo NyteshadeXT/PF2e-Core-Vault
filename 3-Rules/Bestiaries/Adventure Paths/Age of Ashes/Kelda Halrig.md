@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +20 (shove)\n__Damage__  2d8 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+20 (shove)\n__Damage__  2d8 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +20 (agile, thrown 20 ft.)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+20 (agile, thrown 20 ft.)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Master Smith"
     desc: "  As the most skillful blacksmith in Kovlar, Kelda's abilities far surpass those of typical smiths. She can Craft items as if she were 16th level. Additionally, she knows how to make a vast catalog of items, including numerous uncommon formulas and several rare formulas. The exact formulas she knows can be tailored to fit the needs of each particular group of PCs, but most are for weapons, armor, and other items that could reasonably be made in a forge."

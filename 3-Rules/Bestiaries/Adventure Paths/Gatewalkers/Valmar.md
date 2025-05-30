@@ -64,22 +64,22 @@ abilities_mid:
     desc: "  Umasi can't heal or recover HP in any way except their Flesh Grafting techniques. However, despite being living creatures, they don't take damage from either vitality or void damage."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile)\n__Damage__  2d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile, unarmed)\n__Damage__  2d6 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shield Spikes +17 ()\n__Damage__  1d6 + 10 piercing"
+  - name: "**Melee** `pf2:1` Shield Spikes"
+    desc: "+17 ()\n__Damage__  1d6 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` War Razor +18 (agile, backstabber, deadly d8, finesse, magical)\n__Damage__  2d4 + 10 slashing"
+  - name: "**Melee** `pf2:1` War Razor"
+    desc: "+18 (agile, backstabber, deadly d8, finesse, magical)\n__Damage__  2d4 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blowgun +16 (magical, range increment 20 feet, reload 1)\n__Damage__  3 piercing plus harvester-poison"
+  - name: "**Ranged** `pf2:1` Blowgun"
+    desc: "+16 (magical, range increment 20 feet, reload 1)\n__Damage__  3 piercing plus harvester-poison"
 
   - name: "Consume Organ"
     desc: "`pf2:1` (manipulate) **Requirements** The umasi is adjacent to the corpse of a Small or larger creature that died within the last minute\n* * *\n\n**Effect** The umasi harvests and consumes a vital organ from the corpse, gaining 15 temporary Hit Points and a +1 status bonus to attack and damage rolls for 10 minutes. They can gain this benefit only once from any given corpse.\n\n[[Bestiary Effects/Effect_ Consume Organ|Effect: Consume Organ]]"

@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 ()\n__Damage__  2d8 + 8 piercing plus desiccation-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 ()\n__Damage__  2d8 + 8 piercing plus desiccation-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile)\n__Damage__  2d6 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spine +16 (range increment 60 feet)\n__Damage__  2d4 + 6 piercing plus desiccation-venom"
+  - name: "**Ranged** `pf2:1` Spine"
+    desc: "+16 (range increment 60 feet)\n__Damage__  2d4 + 6 piercing plus desiccation-venom"
 
   - name: "Ambush Attackers"
     desc: "  When two or more salt scorchers are adjacent to the same foe, salt scorchers' attacks deal an additional 1d6 damage to that foe."

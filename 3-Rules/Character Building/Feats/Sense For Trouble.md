@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Sense For Trouble"
+title: "Sense for Trouble"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/catfolk
@@ -9,7 +9,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.T8cBEhuHWkh3MqgO"
 license: OGL
 ---
-# Sense For Trouble
+# Sense for Trouble
 ## Feat 9
 ### [[catfolk]]
 
@@ -23,5 +23,5 @@ You can tell when something's off. You can trigger [[Feats/Cat's Luck|Cat's Luck
 
 This still counts against Cat's Luck's frequency, as normal.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

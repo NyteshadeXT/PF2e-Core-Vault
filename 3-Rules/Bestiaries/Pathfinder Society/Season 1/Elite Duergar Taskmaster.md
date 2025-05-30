@@ -68,8 +68,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Maul +10 (shove)\n__Damage__  1d12 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Maul"
+    desc: "+10 (shove)\n__Damage__  1d12 + 4 bludgeoning"
 
   - name: "Divine Prepared Spells"
     desc: "DC 20, attack +10; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Runic Weapon|Magic Weapon]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Shield|Shield]]_"

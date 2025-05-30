@@ -26,11 +26,9 @@ You cast spells like a witch. Choose a [[Class Features/Patron|Patron]]; you gai
 
 You gain the [[Actions/Cast a Spell|Cast a Spell]] activity. You can prepare one cantrip each day from your familiar. You're trained in the spell attack modifier and spell DC statistics. Your key spellcasting attribute for witch archetype spells is Intelligence, and they are witch spells of your patron's tradition.
 
-You become trained in the skill associated with the patron's tradition; if you were already trained in it, you instead become trained in a skill of your choice
+You become trained in the skill associated with the patron's tradition; if you were already trained in it, you instead become trained in a skill of your choice.
 
-* * *
-
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Witch|Witch]] archetype.
+[[PF2e Journals/Archetypes/Witch|Witch]]
 
 *Source: Pathfinder Player Core*
 *ORC*

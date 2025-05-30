@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S2-00 - Spark of Life (levels 1-2)"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.G7fN5K1TfmNhTb2w"
 license: OGL
 ---
 # S2-00 - Spark of Life (levels 1-2)
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

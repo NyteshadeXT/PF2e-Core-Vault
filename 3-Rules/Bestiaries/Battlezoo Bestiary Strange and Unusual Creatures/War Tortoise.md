@@ -33,7 +33,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +21, Athletics: +21"
+    desc: "Athletics: +21"
 abilityMods: [6, 3, 6, -4, 3, 3]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -54,11 +54,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 (reach 15 feet)\n__Damage__  2d10 + 11 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (reach 15 feet)\n__Damage__  2d10 + 11 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +20 (agile, reach 10 feet)\n__Damage__  2d6 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+20 (agile, reach 10 feet)\n__Damage__  2d6 + 11 bludgeoning"
 
   - name: "Fire Cannons"
     desc: "`pf2:3` (manipulate) The dwarven siege crew on the upper deck of the war tortoise's shell ready, aim, and fire the war tortoise's cannons, dealing 6d10 bludgeoning damage to all creatures in a 10-foot radius burst, which is centered within 200 feet of the war tortoise, with a DC 26 Reflex check save.\n\nAfter Firing its Cannons, the war tortoise can't Fire its Cannons again for 2 rounds, as it takes the dwarven siege crew 2 rounds of work to reload the cannons. If the war tortoise can't act for its entire turn while the dwarven siege crew are reloading the cannons, the team are unable to reload the cannons on that turn, and so it takes 1 additional round before the war tortoise can Fire its Cannons again."

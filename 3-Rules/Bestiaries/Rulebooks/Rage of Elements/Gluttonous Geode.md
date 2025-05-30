@@ -51,13 +51,16 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Crystal Teeth +9 ()\n__Damage__  1d4 + 4 piercing plus attach"
+  - name: "**Melee** `pf2:1` Crystal Teeth"
+    desc: "+9 ()\n__Damage__  1d4 + 4 piercing plus attach"
 
   - name: "Attach"
     desc: "`pf2:2`  The geode Leaps up to 15 feet and makes a crystal teeth Strike. If it hits a creature larger than itself, it can attach to that creature. Doing so is like Grabbing the creature ([[Actions/Escape|Escape]] DC 17), but the geode moves with that creature rather than holding it in place. The geode is [[Conditions/Off-Guard|Off-Guard]] while attached. If the geode is killed or pushed away while attached to a creature, that creature takes 1 persistent bleed damage. Escaping the attached geode or removing the geode in other ways doesn't cause bleed damage."

@@ -18,9 +18,9 @@ license: OGL
 
 
 
-You can alter your exoskeleton's size. You constantly gain the effects of [[Enlarge|Enlarge]]. You can dismiss or resume these effects as an action, which has the concentrate trait.
+You can alter your exoskeleton's size. You constantly gain the effects of [[Spells/Enlarge|Enlarge]]. You can dismiss or resume these effects as an action, which has the concentrate trait.
 
 [[Spell Effects/Spell Effect_ Enlarge|Spell Effect: Enlarge]]
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

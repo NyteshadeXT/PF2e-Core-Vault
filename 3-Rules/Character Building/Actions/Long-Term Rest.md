@@ -4,7 +4,7 @@ title: "Long-Term Rest"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/downtime
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.DXIZ4DHGxhZiWNWb"

@@ -9,8 +9,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.SXXyAwe9FGBwhJIW"
-license: OGL
+license: ORC
 ---
 # Power Slide `pf2:1`
 ## Feat 4
@@ -26,7 +27,7 @@ license: OGL
 
 * * *
 
-You throw the vehicle into a barely controlled skid, turning sharply to evade pursuit or bring your weapons to bear. You [[Actions/Drive|Drive]] with a -2 penalty to your piloting check, gaining the effects of the Drive action for the same number of actions you spent to Power Slide. At the end of the movement, if you succeed, you can turn the vehicle up to 90 degrees. If you critically succeed at your piloting check, you can instead turn the vehicle up to 180 degrees.
+You throw the vehicle into a barely controlled skid, turning sharply to evade pursuit or bring your weapons to bear. You Drive with a –2 penalty to your piloting check, gaining the effects of the Drive action for the same number of actions you spent to Power Slide. At the end of the movement, if you succeed, you can turn the vehicle up to 90 degrees. If you critically succeed at your piloting check, you can instead turn the vehicle up to 180 degrees.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

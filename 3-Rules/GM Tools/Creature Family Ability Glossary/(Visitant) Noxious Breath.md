@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Visitant) Noxious Breath"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.VzKVJlX2ocv1ezzp"
 license: OGL

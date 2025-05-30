@@ -17,11 +17,9 @@ license: ORC
 
 
 
-Granted by [[Monstrosity Form|Monstrosity Form]]
+Granted by [[Spells/Monstrosity Form|Monstrosity Form]]
 
-You transform into the shape of a legendary monster, assuming a Huge battle form. You must have enough space to expand into or the spell is lost. While in this form, you gain the beast trait. You can Dismiss the spell.
-
-You gain the following statistics and abilities regardless of which battle form you choose:
+You transform into a Huge battle form. While in this form, you gain the beast trait. You gain the following statistics and abilities regardless of which battle form you choose:
 
 *   AC = 20 + your level. Ignore your armor's check penalty and Speed reduction.
 *   20 temporary Hit Points.
@@ -32,6 +30,7 @@ You gain the following statistics and abilities regardless of which battle form 
 You also gain specific abilities based on the type of monster you choose:
 
 *   **Phoenix**
+    
     *   Speed 30 feet, fly 90 feet;
     *   **Melee** `pf2:1` beak (reach 15 feet), **Damage** 2d6+12 piercing plus 2d4 fire and 2d4 persistent fire;
     *   **Melee** `pf2:1` talon (agile, reach 15 feet), **Damage** 2d8+12 slashing;

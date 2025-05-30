@@ -6,8 +6,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.6LFBPpPPJjDq07fg"
-license: OGL
+license: ORC
 ---
 # Hit the Dirt! `pf2:r`
 ## Feat 1
@@ -25,4 +26,4 @@ license: OGL
 You fling yourself out of harm's way. You [[Actions/Leap|Leap]]. Your movement gives you a +2 circumstance bonus to AC against the triggering attack. Regardless of whether or not the triggering attack hits, you land [[Conditions/Prone|Prone]] after completing your Leap.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

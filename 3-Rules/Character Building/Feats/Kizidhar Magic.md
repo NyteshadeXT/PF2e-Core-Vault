@@ -19,7 +19,7 @@ license: OGL
 
 
 
-You can wield the arcane magic of a kizidhar, casting [[Entangling Flora|Entangling Flora]] and [[One with Plants|One with Plants]] once per day each as 2nd-rank arcane innate spells.
+You can wield the arcane magic of a kizidhar, casting [[Spells/Entangling Flora|Entangling Flora]] and [[Spells/One with Plants|One with Plants]] once per day each as 2nd-rank arcane innate spells.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

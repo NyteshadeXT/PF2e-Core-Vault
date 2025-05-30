@@ -54,6 +54,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 15 (Deactivated by Acid)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Absorb Spell"
     desc: "`pf2:r`  **Trigger** The mezlan succeeds at a saving throw against a single-target spell\n* * *\n\n**Effect** The mezlan absorbs the spell, nullifying its effect and storing it for later. They can Cast the Spell using the original caster's spell attack modifier and DC. They can store only one spell at a time, but they can absorb a new spell to replace the spell they currently have stored.\n\nA willing caster can allow the mezlan to Absorb a Spell without requiring a save."
 
@@ -63,17 +66,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Polymorphic Appendage +32 (magical, versatile p, versatile s)\n__Damage__  3d12 + 16 bludgeoning"
+  - name: "**Melee** `pf2:1` Polymorphic Appendage"
+    desc: "+32 (magical, versatile p, versatile s)\n__Damage__  3d12 + 16 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Ooze Globule +30 (range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Ooze Globule"
+    desc: "+30 (range increment 30 feet)\n__Damage__ "
 
   - name: "Access Pipe Ambush"
     desc: "`pf2:r`  **Trigger** Niesha emerges from one of the Sarzari access pipes\n* * *\n\n**Effect** Niesha makes a melee Strike against an adjacent creature as she emerges."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph) The mezlan assumes the form of any Medium or Small creature, excluding those with the elemental, incorporeal, or swarm traits but including specific individuals whose appearance they've seen. This doesn't change the mezlan's Speed or their attack and damage bonus with their Strikes, but the damage type dealt by their Strikes might change based on their new form.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph) The mezlan assumes the form of any Medium or Small creature, excluding those with the elemental, incorporeal, or swarm traits but including specific individuals whose appearance they've seen. This doesn't change the mezlan's Speed or their attack and damage bonus with their Strikes, but the damage type dealt by their Strikes might change based on their new form.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Extend Limb"
     desc: "`pf2:1`  The mezlan extends one of their limbs, granting themself a reach of 20 feet with their polymorphic appendages until the end of their next turn."

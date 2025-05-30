@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +12 (agile, versatile s)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+12 (agile, versatile s)\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +9 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+9 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 2 piercing"
 
   - name: "Guiding Words"
     desc: "`pf2:1`  Vare points out a weakness of a creature within 30 feet. Vare and all allies that can hear or see her gain a +1 status bonus to attack and damage rolls against that creature until the beginning of Vare's next turn. Vare adds an extra 1d6 precision damage to her weapon and unarmed attacks that hit that creature for the duration.\n\n[[Bestiary Effects/Effect_ Guiding Words|Effect: Guiding Words]]"

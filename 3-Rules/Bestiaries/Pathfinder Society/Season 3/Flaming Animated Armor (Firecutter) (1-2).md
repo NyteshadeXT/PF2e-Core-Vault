@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Glaive +12 (deadly d8, forceful, magical, reach 10 feet)\n__Damage__  1d8 + 3 slashing 1d4 fire"
+  - name: "**Melee** `pf2:1` Glaive"
+    desc: "+12 (deadly d8, forceful, magical, reach 10 feet)\n__Damage__  1d8 + 3 slashing 1d4 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Gauntlet +10 (agile, free-hand, magical)\n__Damage__  1d6 + 3 bludgeoning 1d4 fire"
+  - name: "**Melee** `pf2:1` Gauntlet"
+    desc: "+10 (agile, free-hand, magical)\n__Damage__  1d6 + 3 bludgeoning 1d4 fire"
  
 ```
 

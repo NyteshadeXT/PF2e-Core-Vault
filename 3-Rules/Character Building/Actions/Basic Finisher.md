@@ -4,7 +4,7 @@ title: "Basic Finisher"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/finisher
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.dCuvfq3r2K9wXY9g"

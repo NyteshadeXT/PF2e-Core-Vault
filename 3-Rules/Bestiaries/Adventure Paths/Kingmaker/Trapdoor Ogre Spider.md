@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +15 (reach 10 feet)\n__Damage__  2d8 + 8 piercing plus ogre-spider-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+15 (reach 10 feet)\n__Damage__  2d8 + 8 piercing plus ogre-spider-venom"
 
   - name: "Eerie Flexibility"
     desc: "  A trapdoor ogre spider can fit through tight spaces as if it were a Large creature. While [[Actions/Squeeze|Squeezing]], it can move at its full speed."

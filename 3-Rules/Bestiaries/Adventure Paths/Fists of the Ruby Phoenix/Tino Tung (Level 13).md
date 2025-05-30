@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +26 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  3d8 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+26 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  3d8 + 10 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Temple Sword +24 (trip)\n__Damage__  2d8 + 10 slashing 1d6 fire"
+  - name: "**Melee** `pf2:1` Temple Sword"
+    desc: "+24 (trip)\n__Damage__  2d8 + 10 slashing 1d6 fire"
 
   - name: "Focus Spells"
     desc: "3 Focus Points, DC 24, attack +16; __7th __  _[[Spells/Qi Blast|Ki Blast]]_, _[[Spells/Inner Upheaval|Ki Strike]]_, _[[Spells/Lay on Hands|Lay on Hands]]_"

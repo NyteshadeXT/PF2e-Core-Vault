@@ -8,22 +8,19 @@ tags:
 ---
 
 # 2nd-Level Permanent Items
-Table of 2nd-Level Permanent Items
+<p>Table of 2nd-Level Permanent Items</p>
 
-| 1d84 | result |
+| 1d69 | result |
 |------|--------|
-| 1-6 | [[Full Plate\|Full Plate]] |
-| 7-12 | [[Wondrous Figurine (Onyx Dog)\|Wondrous Figurine (Onyx Dog)]] |
-| 13-18 | [[Weapon Potency (+1)\|Weapon Potency (+1)]] |
-| 19-24 | [[undefined]] |
-| 25-30 | [[undefined]] |
-| 31-36 | [[undefined]] |
-| 37-42 | [[undefined]] |
-| 43-48 | Weapon (+1) |
-| 49-54 | Cold iron weapon (low-grade) |
-| 55-60 | Silver weapon (low-grade) |
-| 61-66 | +1 Handwraps of Mighty Blows |
-| 67-69 | [[Brooch of Shielding\|Brooch of Shielding]] |
-| 70-75 | [[Hand of the Mage\|Hand of the Mage]] |
-| 76-81 | [[Masquerade Scarf\|Hat of Disguise]] |
-| 82-84 | [[3-Rules/Character Building/Equipment/W/Wayfinder\|Wayfinder]] |
+| 1-6 | [[Equipment/Weapon Potency (+1)\|Weapon Potency (+1)]] |
+| 7-12 | Cold Iron Buckler (Low-Grade) |
+| 13-18 | Cold Iron Shield (Low-Grade) |
+| 19-24 | Silver Buckler (Low-Grade) |
+| 25-30 | Silver Shield (Low-Grade) |
+| 31-36 | Weapon (+1) |
+| 37-42 | Cold Iron Weapon (Low-Grade) |
+| 43-48 | Silver Weapon (Low-Grade) |
+| 49-54 | Handwraps of Mighty Blows (+1) |
+| 55-60 | [[Equipment/Masquerade Scarf\|Masquerade Scarf]] |
+| 61-63 | [[Equipment/Wayfinder\|Wayfinder]] |
+| 64-69 | [[Equipment/Glamorous Buckler\|Glamorous Buckler]] |

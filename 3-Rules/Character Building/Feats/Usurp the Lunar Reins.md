@@ -16,7 +16,7 @@ license: OGL
 ---
 # Usurp the Lunar Reins `pf2:3`
 ## Feat 18
-### [[impulse]][[kineticist]][[overflow]][[primal]][[3-Rules/trait_reference/W/water]]
+### [[impulse]][[kineticist]][[overflow]][[primal]][[water]]
 
 **Category** class; 
 

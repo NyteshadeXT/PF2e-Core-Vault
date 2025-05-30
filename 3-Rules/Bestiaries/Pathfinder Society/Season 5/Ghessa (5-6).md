@@ -57,11 +57,14 @@ abilities_top:
     desc: "[[Equipment/Tool (Short)|Tool]], 2x [[Equipment/Oil of Unlife (Lesser)|Oil of Unlife (Lesser)]], [[Equipment/Magic Wand (5th-Rank Spell)|Wand of Animate Dead (Level 5)]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 (agile, magical)\n__Damage__  1d6 + 10 bludgeoning plus sagebane 1d4 void plus sagebane"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (agile, magical, unarmed)\n__Damage__  1d6 + 10 bludgeoning plus sagebane 1d4 void plus sagebane"
 
   - name: "Black Apoxia"
     desc: " (disease) The target can't recover from the fatigued condition caused by black apoxia until the disease is cured\n\n**Saving Throw** DC 24 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained 1]] and [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 3** [[Conditions/Drained|Drained 2]] and fatigued (1 day)\n\n**Stage 4** dead"

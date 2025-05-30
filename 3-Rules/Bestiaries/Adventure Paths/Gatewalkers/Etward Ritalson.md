@@ -61,20 +61,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +19 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+19 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +19 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  2d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+19 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  2d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Moderate Alchemist&#x27;s Fire +19 (range increment 30 feet, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
+  - name: "**Ranged** `pf2:1` Moderate Alchemist&#x27;s Fire"
+    desc: "+19 (range increment 30 feet, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
 
   - name: "Occult Innate Spells"
     desc: "DC 28, attack +20; __5th __  _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Telekinetic Haul|Telekinetic Haul]]_; __4th __  _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Nightmare|Nightmare]]_; __2nd __  _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver (x3)]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Inveigle|Inveigle]]_"
+    desc: "_Inveigle_"
 
   - name: "Dream Invasion"
     desc: " (mental,occult) When Etward casts [[Spells/Dream Message|Dream Message]] and targets a gatewalker (like one of the PCs), he manifests inside the character's dream, appearing as he does when he cast the spell. (Typically, Etward disguises himself as a saumen kar when he does this, to further unnerve the target.) Rather than send a message to the target of a dream invasion, Etward can instead sift through the target's recent memories to gain a vague idea of what they did and where they were in the past 24 hours. This leaves the target feeling somewhat unsettled when they wake but causes no lasting harm."

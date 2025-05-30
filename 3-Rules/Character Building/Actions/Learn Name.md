@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/downtime
   - trait/secret
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.actionspf2e.Item.yOtu5X3qWfjuX8Vy"
 license: OGL
 ---

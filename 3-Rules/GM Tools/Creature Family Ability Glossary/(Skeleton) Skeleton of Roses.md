@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Skeleton) Skeleton of Roses"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.HdSaMUb4uEsbtQTn"
 license: OGL

@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Forgefather's Seal|Forgefather's Seal]]
+Granted by [[Equipment/Forgefather's Seal|Forgefather's Seal]]
 
-While wearing armor etched with a _Forgefather's seal_, you gain fire resistance 40. You ignore the armor's check penalty and Speed penalty (if any); if the armor is light or medium, increase its item bonus to AC by 1.
+You gain fire resistance 40. You ignore the armor's check penalty and Speed penalty (if any); if the armor is light or medium, increase its item bonus to AC by 1.
 
 *Source: Pathfinder GM Core*
 *ORC*

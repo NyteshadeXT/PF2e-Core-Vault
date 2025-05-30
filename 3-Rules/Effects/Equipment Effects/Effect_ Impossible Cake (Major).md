@@ -16,7 +16,9 @@ license: OGL
 
 
 
-For 1 hour after the meal, you gain a +4 item bonus to your Deception checks to Impersonate, as well as to Lie to convince others that you possess knowledge about the type of item that the cake resembles.
+Granted by [[Equipment/Impossible Cake (Greater)|Impossible Cake (Greater)]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+You gain a +4 item bonus to your Deception checks to Impersonate, as well as to Lie to convince others that you possess knowledge about the type of item that the cake resembles.
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

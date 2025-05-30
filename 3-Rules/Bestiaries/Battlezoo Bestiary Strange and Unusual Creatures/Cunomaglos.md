@@ -35,7 +35,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Arcana: +27, Athletics: +30, Diplomacy: +28, Intimidation: +30, Nature: +29, Occultism: +27, Survival: +31, Arcana: +27, Athletics: +30, Diplomacy: +28, Intimidation: +30, Nature: +29, Occultism: +27, Survival: +31"
+    desc: "Arcana: +27, Athletics: +30, Diplomacy: +28, Intimidation: +30, Nature: +29, Occultism: +27, Survival: +31"
 abilityMods: [7, 8, 6, 4, 6, 7]
 speed: 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +31 (finesse)\n__Damage__  3d12 + 15 slashing plus curse-of-the-werewolf"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+31 (finesse)\n__Damage__  3d12 + 15 slashing plus curse-of-the-werewolf"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +32 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 11 piercing plus curse-of-the-werewolf 2d8 acid plus curse-of-the-werewolf 1d6 bleed plus curse-of-the-werewolf"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+32 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 11 piercing plus curse-of-the-werewolf 2d8 acid plus curse-of-the-werewolf 1d6 bleed plus curse-of-the-werewolf"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wolf Jaws +32 ()\n__Damage__  3d12 + 15 piercing plus improved-knockdown"
+  - name: "**Melee** `pf2:1` Wolf Jaws"
+    desc: "+32 ()\n__Damage__  3d12 + 15 piercing plus improved-knockdown"
 
   - name: "Primal Innate Spells"
     desc: "DC 34, attack +26; __6th __  _[[Spells/Dominate|Dominate (x2)]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Moon Frenzy|Moon Frenzy (x3)]]_; __4th __  _[[Spells/Unfettered Movement|Freedom of Movement (At Will)]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse (At Will, Curse of the Werewolf Only)]]_"

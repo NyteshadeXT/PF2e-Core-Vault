@@ -4,7 +4,7 @@ title: "(Ghoul) Swift Leap"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/move
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.UU1Fp3PRuTFONjC9"

@@ -53,8 +53,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 (agile, finesse)\n__Damage__  1d6 + 3 piercing plus shrew-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (agile, finesse, unarmed)\n__Damage__  1d6 + 3 piercing plus shrew-venom"
 
   - name: "Shrew Venom"
     desc: " (poison) **Saving Throw** DC 15 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison (1 round)\n\n**Stage 2** 1d6 poison and [[Conditions/Drained|Drained 1]]"

@@ -58,17 +58,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 (deadly d12, reach 10 feet)\n__Damage__  2d10 + 10 piercing 1d4 acid"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (deadly d12, reach 10 feet, unarmed)\n__Damage__  2d10 + 10 piercing 1d4 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +17 (range increment 30 feet, splash)\n__Damage__  2d6 acid 1d6 acid 1d6 acid"
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+17 (range increment 30 feet, splash)\n__Damage__  2d6 acid 1d6 acid 1d6 acid"
 
   - name: "Bouncing Crush"
     desc: "`pf2:2`  The gibtanius Leaps and can end this Leap occupying the same space as other creatures.\n\nIt deals 5d6 bludgeoning damage to each creature in the space it Leaps to (DC 26 Reflex check save), then [[Actions/Shove|Shoves]] each of those creatures. If it fails to Shove any creature out of its space, it bounces to the closest available space of its choosing that does not contain any creatures.\n\nBouncing Crush counts as one attack when determining the gibtanius's multiple attack penalty."
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (acid,primal) The gibtanius vomits a stream of acid that deals 9d6 acid damage to all creatures in a @Template[line|distance:60] (DC 26 Reflex check save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (acid,primal) The gibtanius vomits a stream of acid that deals 9d6 acid damage to all creatures in a 60-foot line (DC 26 Reflex check save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
  
 ```
 

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Magic Warrior Dedication
 * * *
-You can alter your form to gain an aspect of the animal your mask represents. You gain the [[3-Rules/Character Building/Spells/M/Magic Warrior Aspect|Magic Warrior Aspect]] focus spell.
+You can alter your form to gain an aspect of the animal your mask represents. You gain the [[Spells/Magic Warrior Aspect|Magic Warrior Aspect]] focus spell.
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Trident +24 (magical)\n__Damage__  2d8 + 6 piercing"
+  - name: "**Melee** `pf2:1` Trident"
+    desc: "+24 (magical)\n__Damage__  2d8 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +23 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+23 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +23 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+23 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
 
   - name: "Hampering Strike"
     desc: "  A foe that takes damage from Yonsuu's melee Strike is [[Conditions/Slowed|Slowed 1]] for 1 round ([[Conditions/Slowed|Slowed 3]] if the Strike is a critical hit)."

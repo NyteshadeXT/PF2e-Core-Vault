@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 (unholy)\n__Damage__  2d10 + 11 piercing plus knockdown"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (unarmed, unholy)\n__Damage__  2d10 + 11 piercing plus knockdown"
 
   - name: "Caustic Drool"
     desc: "`pf2:1` (acid) Caustic saliva drips from the warhound's mouth. Until the end of its turn, the abyssal warhound's jaws Strike deals an additional 2 points of acid damage on a successful attack, or 4 points on a critical success.\n\n[[Bestiary Effects/Effect_ Caustic Drool|Effect: Caustic Drool]]"
 
   - name: "Caustic Vomit"
-    desc: "`pf2:2` (acid,divine) The abyssal warhound purebred spews acidic vomit that deals 9d6 acid damage in a @Template[cone|distance:40] (DC 25 Fortitude check save). It can't use Caustic Vomit again for 1d4 rounds."
+    desc: "`pf2:2` (acid,divine) The abyssal warhound purebred spews acidic vomit that deals 9d6 acid damage in a 40-foot cone (DC 25 Fortitude check save). It can't use Caustic Vomit again for 1d4 rounds."
 
   - name: "[[Actor.vTndTdmCdHiNxJ6x.Item.cmS0jkZKZUfUUq1P|Shake]]"
     desc: "`pf2:2`  **Requirements** The abyssal warhound's Caustic Drool ability is active\n* * *\n\n**Effect** The warhound shakes its head, splattering nearby creatures with caustic saliva. All creatures within 10 feet of the warhound take 5d6 acid damage (DC 23 Reflex check) and the warhound's Caustic Drool ability ends. Abyssal warhounds are immune to this damage."
@@ -79,7 +79,7 @@ attacks:
     desc: "`pf2:r` (auditory,emotion,fear,mental) **Trigger** A creature targets the warhound with a melee Strike\n* * *\n\n**Effect** The warhound [[Actions/Demoralize|Demoralizes]] the triggering creature and does not take a penalty for not speaking a language. The results of this check occur before resolving the triggering Strike."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

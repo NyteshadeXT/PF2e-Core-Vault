@@ -13,7 +13,7 @@ license: OGL
 ---
 # Pirouette `pf2:r`
 ## Feat 6
-### [rare](rare.md "Rare Rarity Trait")[[bard]][[rogue]][[swashbuckler]]
+### [rare](rare "Rare Rarity Trait")[[bard]][[rogue]][[swashbuckler]]
 
 **Category** class; 
 
@@ -29,5 +29,5 @@ license: OGL
 
 You twirl gracefully, spinning on one foot to evade your opponent's attack. You gain a +2 circumstance bonus to AC against the triggering attack. If the attack misses you, you can immediately Step. If the attack hits you anyway, reduce the damage it deals by an amount equal to half your level; this reduction in damage is applied after calculating immunities, resistances, and weakness.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

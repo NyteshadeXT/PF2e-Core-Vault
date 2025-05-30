@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Stormbreaker Fulu|Stormbreaker Fulu]]
+Granted by [[Equipment/Stormbreaker Fulu|Stormbreaker Fulu]]
 
 You gain resistance 15 to cold, electricity, and sonic damage until the end of your next turn.
 

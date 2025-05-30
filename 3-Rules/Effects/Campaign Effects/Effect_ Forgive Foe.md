@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Adventure-Specific Actions/Forgive Foe|Forgive Foe]]
+
 The target suffers a -2 status penalty on all attacks, effect DCs, and its Will DC against additional Forgive Foe attempts until the end of your next turn.
 
 *Source: Pathfinder Kingmaker*

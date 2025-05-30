@@ -13,7 +13,7 @@ license: ORC
 ---
 # Aggravating Scratch
 ## Feat 9
-### [[catfolk]][[3-Rules/trait_reference/D/disease]]
+### [[catfolk]][[disease]]
 
 **Category** ancestry; 
 

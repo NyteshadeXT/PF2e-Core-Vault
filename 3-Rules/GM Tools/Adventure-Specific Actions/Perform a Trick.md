@@ -4,7 +4,7 @@ title: "Perform a Trick"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/circus
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.2Vrg2RkEdOteyp5O"
 license: OGL

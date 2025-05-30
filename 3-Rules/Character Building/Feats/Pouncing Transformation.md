@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Prerequisites** Werecreature Dedication; your animal shape has land Speed only
+**Prerequisites** Werecreature Dedication; your animal shape has a land Speed only
 * * *
 By transforming as you move, you attack from odd angles. You Change Shape or Dismiss the change then Stride. Any creature adjacent to you at the end of your movement is [[Conditions/Off-Guard|Off-Guard]] until the end of your turn and is then temporarily immune for 1 hour.
 

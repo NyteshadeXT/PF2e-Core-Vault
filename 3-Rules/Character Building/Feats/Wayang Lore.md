@@ -23,5 +23,5 @@ You can use your knowledge to enhance your performances or aid you in hiding. Yo
 
 You also gain the [[Feats/Additional Lore|Additional Lore]] general feat for Wayang Lore.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

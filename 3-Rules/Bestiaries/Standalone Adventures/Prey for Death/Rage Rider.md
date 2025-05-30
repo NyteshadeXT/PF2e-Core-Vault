@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +22 (magical)\n__Damage__  2d6 + 11 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+22 (magical)\n__Damage__  2d6 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +20 (magical, thrown 20 ft.)\n__Damage__  2d6 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+20 (magical, thrown 20 ft.)\n__Damage__  2d6 + 11 piercing"
 
   - name: "Ruinous Rage"
     desc: "`pf2:1` (concentrate,emotion,mental) The rage rider enters a state of pure rage that lasts either for 1 minute, until there are no enemies they can perceive, or until they fall [[Conditions/Unconscious|Unconscious]], whichever comes first. While raging, the rage rider has AC 27 and their spear Strikes deal 2d6+15 damage plus 2d6 persistent bleed damage. While raging, the rage rider can't use actions that have the concentrate trait, except for [[Actions/Seek|Seek]]. After they've stopped raging, a rage rider can't use Rage again for 1 minute."

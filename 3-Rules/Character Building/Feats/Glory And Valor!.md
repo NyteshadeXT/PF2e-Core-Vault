@@ -1,31 +1,33 @@
 ---
 obsidianUIMode: preview
-title: "Glory And Valor!"
+title: "Glory and Valor!"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/auditory
-  - trait/ganzi
+  - trait/divine
   - trait/healing
-  - trait/primal
+  - trait/nephilim
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.2GrlSP1xhKIz4G8B"
-license: OGL
+license: ORC
 ---
-# Glory And Valor! `pf2:1`
+# Glory and Valor! `pf2:1`
 ## Feat 9
-### [[auditory]][[ganzi]][[healing]][[primal]]
+### [[auditory]][[divine]][[healing]][[nephilim]]
 
 **Category** ancestry; 
 
 
 
-
+**Prerequisites** Battleblooded
+* * *
 **Frequency** once per day
 
 * * *
 
-You are descended from the einherji, the worthy warriors of chaos. You call upon your ascendant blood with a mighty cry that fills you with a revitalizing energy for 1 minute or until you critically fail a Strike, whichever comes first. For the duration, the first time each round you successfully Strike a creature of your level or higher, you regain Hit Points equal to half your level.
+You call upon your ascendant blood with a mighty cry that fills you with a revitalizing energy for 1 minute or until you critically fail a Strike, whichever comes first. For the duration, the first time each round you successfully Strike a creature of your level or higher, you regain Hit Points equal to half your level.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder War of Immortals*
+*ORC*

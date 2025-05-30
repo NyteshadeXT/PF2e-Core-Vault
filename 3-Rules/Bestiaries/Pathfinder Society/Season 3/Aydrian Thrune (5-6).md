@@ -58,16 +58,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Shadow Crystal"
-    desc: "  While holding the shadow crystal, Aydrian Thrune receives the following benefits. She gains [[Bestiary Ability Glossary/Darkvision|Darkvision]] and can cast _shadow step_ once per day. Additionally, if she dies, is dying, or someone else holds the shadow crystal, it shatters, dealing 4d6 void damage in a @Template[burst|distance:5] DC 19 Reflex check save\n* * *\n\n**Shadow Step**\n\n**Activate** `pf2:1` (conjuration, occult, shadow, teleportation)\n\n**Frequency** once per day\n\n**Requirements** Aydrian Thrune is in dim light or darkness\n* * *\n\n**Effect** Aydrian teleports up to 30 feet. The destination must be in dim light or darkness and must be within her line of sight and line of effect."
+    desc: "  While holding the shadow crystal, Aydrian Thrune receives the following benefits. She gains [[Bestiary Ability Glossary/Darkvision|Darkvision]] and can cast _shadow step_ once per day. Additionally, if she dies, is dying, or someone else holds the shadow crystal, it shatters, dealing 4d6 void damage in a 5-foot burst DC 19 Reflex check save\n* * *\n\n**Shadow Step**\n\n**Activate** `pf2:1` (conjuration, occult, shadow, teleportation)\n\n**Frequency** once per day\n\n**Requirements** Aydrian Thrune is in dim light or darkness\n* * *\n\n**Effect** Aydrian teleports up to 30 feet. The destination must be in dim light or darkness and must be within her line of sight and line of effect."
 
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +11 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+11 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
 
   - name: "Occult Spontaneous Spells"
-    desc: "DC 22, attack +14; __3rd __ (3 slots) _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Phantom Prison|Phantom Prison]]_; __2nd __ (4 slots) _[[Spells/Darkness|Darkness]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Blazing Bolt|Scorching Ray]]_, _[[Spells/Umbral Extraction|Umbral Extraction]]_; __1st __ (4 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 22, attack +14; __3rd __ (3 slots) _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Phantom Prison|Phantom Prison]]_; __2nd __ (4 slots) _[[Spells/Darkness|Darkness]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Blazing Bolt|Scorching Ray]]_, _[[Spells/Umbral Extraction|Umbral Extraction]]_; __1st __ (4 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
  
 ```
 

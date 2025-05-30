@@ -16,7 +16,7 @@ license: OGL
 
 
 
-
+You gain a +1 status bonus to attack and damage rolls against the marked creature.
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

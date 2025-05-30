@@ -25,7 +25,7 @@ abilities_top:
   - name: "Cast"
     desc: "1 day; **Cost** fine ash, magically imbued pigments, and a gem in a marquise cut worth 100,000 gp in total; **Secondary Casters** 2"
   - name: "Primary Check"
-    desc: "Arcana (legendary), Nature (legendary), Occultism (legendary), Religion (legendary); **Secondary Checks** Crafting, Diplomacy"
+    desc: "Arcana (legendary), Nature (legendary), Occultism (legendary), or Religion (legendary); **Secondary Checks** Crafting, Diplomacy"
   - name: "Range"
     desc: "10 feet; **Targets** 1 creature"
 abilities_mid:

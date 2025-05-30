@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Nosoi Charm (Greater)|Nosoi Charm (Greater)]]
+
 You gain a +3 item bonus to Diplomacy checks to make a request.
 
 *Source: Pathfinder Adventure: Night of the Gray Death*

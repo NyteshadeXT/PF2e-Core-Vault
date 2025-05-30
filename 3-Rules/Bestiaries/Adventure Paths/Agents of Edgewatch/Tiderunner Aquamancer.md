@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +21 (magical, thrown 20 ft.)\n__Damage__  2d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+21 (magical, thrown 20 ft.)\n__Damage__  2d6 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +24 (magical, thrown 20 ft.)\n__Damage__  2d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+24 (magical, thrown 20 ft.)\n__Damage__  2d6 + 3 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 34, attack +26; __7th __ (2 slots) _[[Spells/Spell Turning|Spell Turning]]_; __6th __ (3 slots) _[[Spells/Disintegrate|Disintegrate]]_; __5th __ (3 slots) _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __ (3 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_, _[[Spells/Solid Fog|Solid Fog]]_; __3rd __ (3 slots) _[[Spells/Haste|Haste]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __ (3 slots) _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Water Walk|Water Walk]]_; __1st __ (3 slots) _[[Spells/Grease|Grease]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Mystic Armor|Mage Armor]]_\n__Cantrips__  __(7th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"

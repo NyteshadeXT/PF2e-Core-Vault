@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +28 (agile, finesse, magical, versatile s)\n__Damage__  3d6 acid 2d6 + 9 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+28 (agile, finesse, magical, versatile s)\n__Damage__  3d6 acid 2d6 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +25 (reach 10 feet)\n__Damage__  2d8 + 9 bludgeoning plus push 3d6 acid plus push"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+25 (reach 10 feet, unarmed)\n__Damage__  2d8 + 9 bludgeoning plus push 3d6 acid plus push"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Spit +27 (range increment 30 feet)\n__Damage__  7d6 acid"
+  - name: "**Ranged** `pf2:1` Acid Spit"
+    desc: "+27 (range increment 30 feet)\n__Damage__  7d6 acid"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The child of venom deals an additional 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

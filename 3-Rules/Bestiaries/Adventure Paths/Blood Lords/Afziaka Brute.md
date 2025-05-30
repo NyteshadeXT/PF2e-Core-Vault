@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap185-a-taste-of-ashes/assets/art/PZO90185 AFZIAKA STALKER.webp| ]]
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Afziaka Brute"
 level: "Creature 6"
@@ -60,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +17 ()\n__Damage__  2d10 + 9 piercing plus hunger-pangs"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+17 ()\n__Damage__  2d10 + 9 piercing plus hunger-pangs"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +17 ()\n__Damage__  2d8 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+17 ()\n__Damage__  2d8 + 7 bludgeoning"
 
   - name: "Hunger Pangs"
     desc: " (curse,divine) A creature damaged by the afziaka's fangs must succeed at a DC 22 Fortitude check save or become [[Conditions/Enfeebled|Enfeebled 2]] for 1 minute. The creature can remove this condition earlier by consuming at least a handful of raw meat."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 23 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 23 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

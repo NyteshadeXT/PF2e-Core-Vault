@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +21 (reach 15 feet)\n__Damage__  2d10 + 12 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+21 (reach 15 feet, unarmed)\n__Damage__  2d10 + 12 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +21 (agile, reach 15 feet)\n__Damage__  2d8 + 12 slashing plus improved-grab"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+21 (agile, reach 15 feet, unarmed)\n__Damage__  2d8 + 12 slashing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +21 (agile, reach 30 feet)\n__Damage__  2d6 + 10 bludgeoning plus improved-push"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+21 (agile, reach 30 feet)\n__Damage__  2d6 + 10 bludgeoning plus improved-push"
 
   - name: "Carry"
     desc: "  A roc can Fly at half Speed while it has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in either or both of its talons, carrying that creature along with it."
@@ -75,6 +75,12 @@ attacks:
 
   - name: "Snack"
     desc: "  A roc gains a +2 circumstance bonus to hit with its beak Strike if the target is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in its talon."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
+
+  - name: "[[Bestiary Ability Glossary/Improved Push|Improved Push 10 feet]]"
+    desc: "  The monster can use [[Bestiary Ability Glossary/Push|Push]] as a free action triggered by a hit with its initial attack."
  
 ```
 

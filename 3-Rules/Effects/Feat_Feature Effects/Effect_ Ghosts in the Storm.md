@@ -19,7 +19,7 @@ license: OGL
 
 Granted by [[Feat_Feature Effects/Stance_ Ghosts in the Storm|Stance: Ghosts in the Storm]]
 
-The creature gains a +2 status bonus to Reflex saves and Acrobatics checks.
+You gain a +2 status bonus to Reflex saves and Acrobatics checks.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

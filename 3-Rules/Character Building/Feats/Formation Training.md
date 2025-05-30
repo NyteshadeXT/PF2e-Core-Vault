@@ -23,5 +23,5 @@ You know how to fight in formation with your brethren. When you are adjacent to 
 
 [[Feat_Feature Effects/Effect_ Formation Training|Effect: Formation Training]]
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

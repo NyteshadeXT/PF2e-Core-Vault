@@ -62,17 +62,20 @@ abilities_mid:
   - name: "Root Spawn"
     desc: " (primal,unholy) A living creature slain by a rootridden that had a lower level than the rootridden rises as a new rootridden after 1d10 rounds, on its turn. This new rootridden is under the command of the rootridden that created it. If the creator is destroyed, any rootridden it created in the past 24 hours are destroyed as well, immediately collapsing into inert plant matter."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 ()\n__Damage__  2d12 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (unarmed)\n__Damage__  2d12 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +20 (reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning plus root-rot-poison"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+20 (reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning plus root-rot-poison"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +20 (deadly d10, range increment 30 feet)\n__Damage__  4d8 void"
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+20 (deadly d10, range increment 30 feet)\n__Damage__  4d8 void"
 
   - name: "Root Rot Poison"
     desc: " (poison) **Saving Throw** DC 26 Fortitude check;\n\n**Maximum Duration** 8 rounds\n\n**Stage 1** 3d6 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 3d6 poison damage and [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 3** 4d6 poison damage and [[Conditions/Slowed|Slowed 2]] (1 round)\n\n**Stage 4** 4d6 poison damage and [[Conditions/Paralyzed|Paralyzed]] (1 round)"

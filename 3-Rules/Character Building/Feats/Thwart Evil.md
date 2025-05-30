@@ -27,5 +27,5 @@ license: OGL
 
 You react instinctively when you sense evil forming, thrusting your spiritual energy toward the source to snuff out evil before it fully manifests. Attempt to counteract the triggering spell or ability using your Religion modifier as your counteract modifier.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

@@ -50,16 +50,19 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile, finesse, magical)\n__Damage__  2d10 + 9 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, finesse, magical, unarmed)\n__Damage__  2d10 + 9 slashing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +23 (finesse, magical)\n__Damage__  2d12 + 9 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+23 (finesse, magical)\n__Damage__  2d12 + 9 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 29, attack +21; __5th __  _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Wave of Despair|Wave of Despair]]_; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Flicker|Flicker]]_, _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_, _[[Spells/Nightmare|Nightmare]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
@@ -68,7 +71,7 @@ attacks:
     desc: "`pf2:1` (mental,occult) **Requirements** The nilith has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The nilith reaches into the mind of the grabbed creature and implants disjointed images of the victim's worst fears and nightmares. The grabbed creature takes 6d6 mental damage with a DC 31 Will check save. On a critical failure, the target is also affected as though by [[Spells/Never Mind|Never Mind]], and it must attempt a second Will save against that effect."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

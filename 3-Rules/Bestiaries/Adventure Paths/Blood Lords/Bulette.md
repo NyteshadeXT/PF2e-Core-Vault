@@ -18,6 +18,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/Bulette.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Bulette"
 level: "Creature 8"
@@ -53,11 +54,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 ()\n__Damage__  2d10 + 10 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (unarmed)\n__Damage__  2d10 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (agile)\n__Damage__  2d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (agile, unarmed)\n__Damage__  2d8 + 10 slashing"
 
   - name: "Corpse Eater"
     desc: "  These bulettes prefer the taste of necrotic flesh and bone; their favorite prey is undead."

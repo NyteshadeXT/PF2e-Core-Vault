@@ -62,14 +62,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +15 (agile, finesse)\n__Damage__  2d6 + 6 fire plus filthy-burn 1d4 fire plus filthy-burn"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+15 (agile, finesse, unarmed)\n__Damage__  2d6 + 6 fire plus filthy-burn 1d4 fire plus filthy-burn"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flaming Sap +15 (range increment 30 feet)\n__Damage__  2d6 + 3 fire plus filthy-burn 1d4 fire plus filthy-burn"
+  - name: "**Ranged** `pf2:1` Flaming Sap"
+    desc: "+15 (range increment 30 feet)\n__Damage__  2d6 + 3 fire plus filthy-burn 1d4 fire plus filthy-burn"
 
   - name: "Acrid Cloud"
-    desc: "`pf2:2` (poison,primal) The burning sap that makes up the corrupted wildfire's body sputters and pops, ejecting a cloud of acrid that smoke in a @Template[emanation|distance:10] that lasts for 1 round.\n\nThis smoke provides concealment to all creatures within, and deals 2d4 poison damage to any creature that enters or begins its turn in the cloud (DC 22 Fortitude check).\n\nA creature that fails is also [[Conditions/Sickened|Sickened 1]] (or [[Conditions/Sickened|Sickened 2]] on a critical failure)."
+    desc: "`pf2:2` (poison,primal) The burning sap that makes up the corrupted wildfire's body sputters and pops, ejecting a cloud of acrid that smoke in a 10-foot emanation that lasts for 1 round.\n\nThis smoke provides concealment to all creatures within, and deals 2d4 poison damage to any creature that enters or begins its turn in the cloud (DC 22 Fortitude check).\n\nA creature that fails is also [[Conditions/Sickened|Sickened 1]] (or [[Conditions/Sickened|Sickened 2]] on a critical failure)."
 
   - name: "Filthy Burn"
     desc: "  When the corrupted wildfire successfully strikes a creature with an attack that deals persistent fire damage, the target becomes [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical hit). This condition cannot be reduced below 1 while the creature is subject to the persistent fire damage from the attack, and ends automatically when the persistent fire ends."

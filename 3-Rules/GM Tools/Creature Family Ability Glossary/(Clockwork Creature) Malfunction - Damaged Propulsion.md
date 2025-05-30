@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Clockwork Creature) Malfunction - Damaged Propulsion"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.kUApLn0cOsXQNSrL"
 license: OGL

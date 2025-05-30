@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Nexus House Gear"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.a2ZAheGPFB3WrblT"
 license: OGL
 ---
 # Nexus House Gear
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

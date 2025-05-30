@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Tap Treasury"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/commerce
   - trait/downtime
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.QtSFmMG3Yos0JFSD"
 license: OGL
 ---
 # Tap Treasury
-
+## 
 ### [[commerce]][[downtime]]
 
 **Category** kingdom-activity; 

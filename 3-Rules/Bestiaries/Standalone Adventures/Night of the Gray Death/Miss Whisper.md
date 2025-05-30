@@ -54,6 +54,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Bound"
@@ -68,14 +74,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vine +18 (finesse, reach, unholy, versatile p)\n__Damage__  2d10 + 6 slashing plus betrayal-toxin 1d6 spirit plus betrayal-toxin 1d6 bleed plus betrayal-toxin"
+  - name: "**Melee** `pf2:1` Vine"
+    desc: "+18 (finesse, reach, unholy, versatile p)\n__Damage__  2d10 + 6 slashing plus betrayal-toxin 1d6 spirit plus betrayal-toxin 1d6 bleed plus betrayal-toxin"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile, finesse, unholy)\n__Damage__  2d10 + 6 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, finesse, unarmed, unholy)\n__Damage__  2d10 + 6 slashing 1d6 spirit"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thorn +18 (agile, range increment 50 feet, unholy)\n__Damage__  2d4 + 6 piercing plus betrayal-toxin 1d6 spirit plus betrayal-toxin 1d6 bleed plus betrayal-toxin"
+  - name: "**Ranged** `pf2:1` Thorn"
+    desc: "+18 (agile, range increment 50 feet, unholy)\n__Damage__  2d4 + 6 piercing plus betrayal-toxin 1d6 spirit plus betrayal-toxin 1d6 bleed plus betrayal-toxin"
 
   - name: "Divine Innate Spells"
     desc: "DC 30, attack +20; __7th __ (1 slots) _[[Spells/Mask of Terror|Mask of Terror (Self Only)]]_; __6th __ (3 slots) _[[Spells/Dominate|Dominate]]_; __5th __ (3 slots) _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Suggestion|Suggestion (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(6th)__ _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"

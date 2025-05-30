@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Collapse Into Sand"
@@ -63,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 ()\n__Damage__  2d6 + 5 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (unarmed)\n__Damage__  2d6 + 5 piercing plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sand Blast +12 (range 30 feet)\n__Damage__  2d10 slashing"
+  - name: "**Ranged** `pf2:1` Sand Blast"
+    desc: "+12 (range 30 feet)\n__Damage__  2d10 slashing"
 
   - name: "Choking Sands"
     desc: "`pf2:2` (air,earth,primal) The sand wolf discorporates into a cloud of whirling sand. It can Stride, moving freely through occupied spaces. Any creatures within those spaces take 2d10 damage and must attempt a DC 19 Reflex check save.\n* * *\n\n**Critical Success** The target takes no damage.\n\n**Success** The target takes half damage.\n\n**Failure** The target takes full damage and is [[Conditions/Sickened|Sickened 1]].\n\n**Critical Failure** As failure, but the effect is increased to [[Conditions/Sickened|Sickened 3]]."
@@ -76,7 +79,7 @@ attacks:
     desc: "`pf2:1` (air,earth,primal,sonic) The sand wolf sings a short, enchanting song. Any creature other than a sand wolf within 30 feet must attempt a DC 19 Will check save.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune to further susurrating song exposures for 24 hours.\n\n**Success** The target is [[Conditions/Stupefied|Stupefied 1]].\n\n**Failure** The target is [[Conditions/Stupefied|Stupefied 2]].\n\n**Critical Failure** As failure, and the target is [[Conditions/Slowed|Slowed 1]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

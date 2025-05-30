@@ -54,6 +54,15 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 30 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Displacement"
@@ -65,14 +74,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +36 (magical, reach 10 feet, unholy)\n__Damage__  4d8 + 9 piercing plus essence-drain,grab 1d6 spirit plus essence-drain,grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+36 (magical, reach 10 feet, unarmed, unholy)\n__Damage__  4d8 + 9 piercing plus essence-drain,grab 1d6 spirit plus essence-drain,grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +32 (agile, magical, reach 10 feet, unholy)\n__Damage__  4d6 + 9 slashing plus essence-drain 1d6 spirit plus essence-drain"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+32 (agile, magical, reach 10 feet, unarmed, unholy)\n__Damage__  4d6 + 9 slashing plus essence-drain 1d6 spirit plus essence-drain"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +32 (magical, reach 15 feet, unholy)\n__Damage__  4d10 + 9 bludgeoning plus essence-drain 1d6 spirit plus essence-drain"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+32 (magical, reach 15 feet, unholy)\n__Damage__  4d10 + 9 bludgeoning plus essence-drain 1d6 spirit plus essence-drain"
 
   - name: "Divine Innate Spells"
     desc: "DC 41, attack +33; __9th __  _[[Spells/Massacre|Massacre]]_; __8th __  _[[Spells/Pinpoint|Discern Location]]_, _[[Spells/Execute|Finger of Death]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (x2)]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"
@@ -87,7 +96,7 @@ attacks:
     desc: "`pf2:1` (death,divine,incapacitation) **Requirements** The astradaemon hasn't used an action with the attack trait yet this turn.\n* * *\n\n**Effect** The astradaemon draws out and consumes the soul of a living creature it has [[Conditions/Grabbed|Grabbed]]. The creature must succeed at a DC 39 Fortitude check save or instantly die. If it dies, the astradaemon gains 10 temporary Hit Points.\n\n[[Bestiary Effects/Effect_ Overtake Soul|Effect: Overtake Soul]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

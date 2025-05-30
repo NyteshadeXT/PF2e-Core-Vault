@@ -28,5 +28,5 @@ Some Firebrands can't stand it when their allies are ruining their moment, and y
 
 [[Feat_Feature Effects/Effect_ You're an Embarrassment|Effect: You're an Embarrassment]]
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

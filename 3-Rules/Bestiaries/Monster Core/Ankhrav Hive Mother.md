@@ -50,28 +50,31 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 90 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +20 (acid)\n__Damage__  2d8 + 6 piercing 2d6 acid"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+20 (acid)\n__Damage__  2d8 + 6 piercing 2d6 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Spit +17 (acid, range 30 feet)\n__Damage__  5d6 acid"
+  - name: "**Ranged** `pf2:1` Acid Spit"
+    desc: "+17 (acid, range 30 feet)\n__Damage__  5d6 acid"
 
   - name: "Armor-Rending Bite"
     desc: "`pf2:2`  The hive mother makes a mandibles Strike; if the Strike hits, the target's armor takes the damage and the acid damage bypasses the armor's Hardness."
 
   - name: "Frenzy Pheromone"
-    desc: "`pf2:2`  The hive mother unleashes a pheromone that causes all other ankhravs within a @Template[emanation|distance:100] to become [[Conditions/Quickened|Quickened 1]] until the start of the hive mother's next turn, and they can use the extra action only for Burrow, Stride, or Strike actions.\n\nThe hive mother can't unleash the pheromone again for 1d4 rounds."
+    desc: "`pf2:2`  The hive mother unleashes a pheromone that causes all other ankhravs within a 100-foot emanation to become [[Conditions/Quickened|Quickened 1]] until the start of the hive mother's next turn, and they can use the extra action only for Burrow, Stride, or Strike actions.\n\nThe hive mother can't unleash the pheromone again for 1d4 rounds."
 
   - name: "Spray Acid"
-    desc: "`pf2:2` (acid) The hive mother spews acid in a @Template[cone|distance:60], dealing 8d6 acid damage and 1d6 persistent acid damage (DC 26 Reflex check save).\n\nIt can't spew acid again for 1d4 rounds."
+    desc: "`pf2:2` (acid) The hive mother spews acid in a 60-foot cone, dealing 8d6 acid damage and 1d6 persistent acid damage (DC 26 Reflex check save).\n\nIt can't spew acid again for 1d4 rounds."
  
 ```
 

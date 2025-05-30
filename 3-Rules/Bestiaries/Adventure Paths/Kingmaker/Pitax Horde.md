@@ -23,7 +23,7 @@ level: "Army 10"
 
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: infantry
 modifier: 22
 perception:
@@ -31,7 +31,7 @@ perception:
   - name: "Scouting"
     desc: "+22"
   - name: "Recruitment DC"
-    desc: "; __Consumption__ 0"
+    desc: "15; __Consumption__ 0"
   - name: "Description"
     desc: "The Pitax Horde consists of human warriors from seven different minor clans in Glenebon."
 ac: 30

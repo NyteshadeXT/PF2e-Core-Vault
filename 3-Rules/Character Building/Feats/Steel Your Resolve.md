@@ -12,7 +12,7 @@ license: OGL
 ---
 # Steel Your Resolve `pf2:1`
 ## Feat 3
-### [[general]][[Stamina]]
+### [[general]][[stamina]]
 
 **Category** general; 
 

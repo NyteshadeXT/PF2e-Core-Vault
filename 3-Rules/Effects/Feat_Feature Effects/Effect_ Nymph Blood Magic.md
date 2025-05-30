@@ -18,7 +18,7 @@ license: OGL
 
 Granted by [[Class Features/Bloodline_ Nymph|Bloodline: Nymph]]
 
-Nymph grace accentuates your movements and distracts your foes, either granting you a +1 status bonus to Diplomacy checks for 1 round or imposing a -1 status penalty on one target's Will saves for 1 round.
+You gain a +1 status bonus to Diplomacy checks or a -1 status penalty on one target's Will saves for 1 round.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

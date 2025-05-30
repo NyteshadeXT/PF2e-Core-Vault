@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +19 (magical, reach 10 feet)\n__Damage__  2d12 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+19 (magical, reach 10 feet, unarmed)\n__Damage__  2d12 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +19 (magical, reach 10 feet)\n__Damage__  2d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+19 (magical, reach 10 feet)\n__Damage__  2d8 + 6 bludgeoning"
 
   - name: "Thrash"
     desc: "`pf2:2`  The crimson worm statue makes a Strike against each creature in its reach. It can strike up to once with its jaws and any number of times with its tail. Each attack counts toward the worm's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all its attacks."

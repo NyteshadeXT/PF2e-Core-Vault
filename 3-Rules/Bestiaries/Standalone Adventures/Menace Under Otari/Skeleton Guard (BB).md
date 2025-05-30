@@ -3,7 +3,7 @@ title: "Skeleton Guard (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.5H8ZX7y5IkUBhvhF" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.trchDxbDR2TiPMxT" 
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/skeleton
@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +6 (forceful, sweep)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+6 (forceful, sweep)\n__Damage__  1d6 + 2 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +6 (agile, finesse)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+6 (agile, finesse, unarmed)\n__Damage__  1d4 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +6 (deadly d10, range increment 60 feet)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+6 (deadly d10, range increment 60 feet)\n__Damage__  1d6 piercing"
  
 ```
 

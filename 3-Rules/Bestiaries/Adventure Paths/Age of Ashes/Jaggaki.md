@@ -61,17 +61,20 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Lich) Rejuvenation|Rejuvenation]]"
     desc: " (arcane) When a lich is destroyed, its soul immediately transfers to its _[[Equipment/Lich Soul Cage|Soul Cage]]_. A lich can be permanently destroyed only if its _soul cage_ is found and destroyed."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +26 (two-hand d8)\n__Damage__  2d4 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+26 (two-hand d8)\n__Damage__  2d4 + 12 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hand +25 (magical)\n__Damage__  4d8 void plus lich-paralyzing-touch"
+  - name: "**Melee** `pf2:1` Hand"
+    desc: "+25 (magical)\n__Damage__  4d8 void plus lich-paralyzing-touch"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +25 (brutal, range increment 120 feet)\n__Damage__  2d6 + 12 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+25 (brutal, range increment 120 feet)\n__Damage__  2d6 + 12 bludgeoning"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 34, attack +26; __7th __  _[[Spells/Eclipse Burst|Eclipse Burst]]_; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Petrify|Flesh to Stone]]_; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Cone of Cold|Cone of Cold]]_; __4th __  _[[Spells/Fly|Fly]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(7th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

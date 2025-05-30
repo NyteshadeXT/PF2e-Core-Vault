@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-09 - Ally of the Iruxi"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.ZtLTqT4G5q8SLJCT"
 license: OGL
 ---
 # S1-09 - Ally of the Iruxi
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

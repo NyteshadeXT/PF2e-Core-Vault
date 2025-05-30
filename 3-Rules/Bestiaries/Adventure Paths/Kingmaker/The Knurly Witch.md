@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +37 (agile, cold iron, magical, reach 10 feet)\n__Damage__  4d10 + 14 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+37 (agile, cold iron, magical, reach 10 feet, unarmed)\n__Damage__  4d10 + 14 slashing plus grab"
 
   - name: "Divine Prepared Spells"
     desc: "DC 44, attack +38; __9th __  _[[Spells/Massacre|Massacre]]_, _[[Spells/Telepathic Demand|Telepathic Demand]]_; __7th __  _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Regenerate|Regenerate]]_; __6th __  _[[Spells/Blade Barrier|Blade Barrier]]_, _[[Spells/Never Mind|Feeblemind]]_; __5th __  _[[Spells/Flame Strike|Flame Strike]]_, _[[Spells/Sending|Sending]]_, _[[Spells/Truespeech|Tongues]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Ring of Truth|Zone of Truth]]_; __2nd __  _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Ghoulish Cravings|Ghoulish Cravings]]_, _[[Spells/Paranoia|Paranoia]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Summon Plant or Fungus|Summon Plant or Fungus]]_\n__Cantrips__  __(10th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
@@ -73,22 +73,22 @@ attacks:
     desc: "2 Focus Points, DC 44, attack +38; __10th __  _[[Spells/Retributive Pain|Retributive Pain]]_, _[[Spells/Savor the Sting|Savor the Sting]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Blight|Blight]]_, _[[Spells/Gathering Call|Word of Recall]]_"
+    desc: "_Blight_, _Word of Recall_"
 
   - name: "Bonds of Iron"
-    desc: "`pf2:2` (attack,occult) Once per day, an annis hag can cause a cage built of cold iron fingernails to spring out of nothingness at a range of up to 30 feet, attempting an Athletics check check to [[Actions/Grapple|Grapple]] against the target's Fortitude DC; if the target has a weakness to cold iron, the annis hag gains a +2 circumstance bonus to this check.\n\nUnlike a normal Grapple, the annis hag doesn't need to be within reach and can move as she pleases, and a successful attempt lasts until the creature escapes (DC 42), causing the cage to crumble into rust.\n\nAny creature can attempt to destroy the cage by attacking it. It has an AC of 40, Hardness 20, and 80 Hit Points."
+    desc: "`pf2:2` (attack,occult) Once per day, an annis hag can cause a cage built of cold iron fingernails to spring out of nothingness at a range of up to 30 feet, attempting an Athletics check to [[Actions/grapple|grapple]] against the target's Fortitude DC; if the target has a weakness to cold iron, the annis hag gains a +2 circumstance bonus to this check.\n\nUnlike a normal Grapple, the annis hag doesn't need to be within reach and can move as she pleases, and a successful attempt lasts until the creature [[Actions/escape dc=42|escape dc=42]]{Escapes} (DC 42), causing the cage to crumble into rust.\n\nAny creature can attempt to destroy the cage by attacking it. It has an AC of 40, Hardness 20, and 80 Hit Points."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The hag can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack and damage bonuses with her Strikes but might change the damage type her Strikes deal (typically to bludgeoning).\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The hag can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her attack and damage bonuses with her Strikes but might change the damage type her Strikes deal (typically to bludgeoning).\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n\n* * *\n"
+    desc: "`pf2:1`  Claw\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
 
   - name: "Word of Recall"
     desc: "  The Knurly Witch has used [[Spells/Gathering Call|Gathering Call]] to bind herself to the House at the Edge of Time (area **K16**)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 
@@ -105,4 +105,4 @@ Annis hags are brutal torturers and murderers, delighting in the musical screams
 
 * * *
 
-Malevolent crones who lurk at the edges of civilization, hags use their deceptive, magical abilities to prey upon humanoids, manipulating and corrupting them. Some say hags arose from fey that became twisted by their inner selfishness. Hags gather together in covens for greater power, craft unique magical items known as _[[Hag Eye|Hag Eyes]]_, and are known to replace infant humanoids with their own offspring-these children are [[3-Rules/Bestiaries/Bestiary 1/C/Changeling Exile|Changelings]] who have the potential to become hags themselves.
+Malevolent crones who lurk at the edges of civilization, hags use their deceptive, magical abilities to prey upon humanoids, manipulating and corrupting them. Some say hags arose from fey that became twisted by their inner selfishness. Hags gather together in covens for greater power, craft unique magical items known as _[[Equipment/Hag Eye|Hag Eyes]]_, and are known to replace infant humanoids with their own offspring-these children are [[Monster Core/Changeling Exile|Changelings]] who have the potential to become hags themselves.

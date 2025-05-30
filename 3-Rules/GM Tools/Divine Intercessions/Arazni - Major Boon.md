@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Upon death, you return to life with the effects of a critical success on a [[Resurrect|Resurrect]] ritual to enact vengeance against your killers. When you successfully achieve vengeance, abandon your vengeance for other pursuits, or fail outright, you crumble to scarlet dust.
+Upon death, you return to life with the effects of a critical success on a [[Spells/Resurrect|Resurrect]] ritual to enact vengeance against your killers. When you successfully achieve vengeance, abandon your vengeance for other pursuits, or fail outright, you crumble to scarlet dust.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

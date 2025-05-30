@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +22 (finesse, poison)\n__Damage__  2d12 + 10 piercing plus seizing-venom"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+22 (finesse, poison)\n__Damage__  2d12 + 10 piercing plus seizing-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Spit +22 (poison, range increment 30 feet)\n__Damage__  4d8 acid plus seizing-venom"
+  - name: "**Ranged** `pf2:1` Acid Spit"
+    desc: "+22 (poison, range increment 30 feet)\n__Damage__  4d8 acid plus seizing-venom"
 
   - name: "Consume Essence"
     desc: "`pf2:1` (healing,manipulate,primal) **Frequency** once per day;\n\n**Requirements** The spitting sawfly is adjacent to a creature with the wood trait or to a coiled conifer\n* * *\n\n**Effect** The sawfly feasts upon the targeted creature or the coiled conifer's sap, regaining 5d6 Hit Points. A targeted creature must attempt a DC 29 Fortitude check save or become [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical failure)."

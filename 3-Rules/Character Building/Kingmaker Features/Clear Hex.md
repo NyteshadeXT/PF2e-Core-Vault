@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Clear Hex"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/region
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.JHLZPhd9APIqJHsA"
 license: OGL
 ---
 # Clear Hex
-
+## 
 ### [[downtime]][[region]]
 
 **Category** kingdom-activity; 

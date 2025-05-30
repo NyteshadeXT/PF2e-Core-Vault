@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +5 (agile, finesse, versatile s)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+5 (agile, finesse, versatile s)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire (Lesser) +5 (bomb, consumable, range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire (Lesser)"
+    desc: "+5 (bomb, consumable, range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +5 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+5 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The bandit deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

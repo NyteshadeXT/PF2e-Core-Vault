@@ -51,8 +51,14 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "Shell (Porcelain Doll)"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Mindsense (Precise) 120 feet"
     desc: "  The mindmoppet senses the thoughts of intelligent creatures and builds a perception of reality from this information, allowing the mindmoppet to \"see\" as a precise sense. Invisible intelligent creatures are visible to it."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
 
 abilities_mid:
   - name: ""
@@ -68,8 +74,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Telekinetic Slam +15 (force, occult, range increment 20 feet)\n__Damage__  2d12 force plus improved-push"
+  - name: "**Ranged** `pf2:1` Telekinetic Slam"
+    desc: "+15 (force, occult, range increment 20 feet)\n__Damage__  2d12 force plus improved-push"
 
   - name: "Occult Innate Spells"
     desc: "DC 22, attack +14; __2nd __  _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver (x2)]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Mending|Mending (x3)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_\n__Constant__  __(1st)__ _[[Spells/Mindlink|Mindlink]]_"
@@ -79,6 +85,9 @@ attacks:
 
   - name: "Redirect Attack"
     desc: "`pf2:r` (mental) **Trigger** The mindmoppet is targeted by a melee or ranged Strike\n* * *\n\n**Effect** The mindmoppet attempts a Reflex saving throw, using the attack roll as the DC for the check. On a success, it redirects the attack at another target within the attacker's range. On a failure, the attack resolves as normal."
+
+  - name: "[[Bestiary Ability Glossary/Improved Push|Improved Push]]"
+    desc: "  The monster can use [[Bestiary Ability Glossary/Push|Push]] as a free action triggered by a hit with its initial attack."
  
 ```
 

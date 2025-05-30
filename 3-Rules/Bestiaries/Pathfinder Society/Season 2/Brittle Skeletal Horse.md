@@ -58,11 +58,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +7 ()\n__Damage__  1d8 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+7 ()\n__Damage__  1d8 + 3 bludgeoning"
 
   - name: "Gallop"
     desc: "`pf2:2`  The horse Strides twice, with its Speed increased by 10 feet."

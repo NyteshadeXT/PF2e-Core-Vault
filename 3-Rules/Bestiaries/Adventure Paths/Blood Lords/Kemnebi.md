@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/PZO90186_Chanceller_kemnebi.webp| ]]
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Kemnebi"
 level: "Creature 21"
@@ -62,6 +63,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 20]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "Enlightened Mind"
     desc: "  Whenever Kemnebi is targeted by a mental effect, that effect's source or caster must succeed at a DC 5 Flat check. If this check fails, the mental effect doesn't affect Kemnebi."
 
@@ -74,11 +78,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +39 (agile, finesse, magical)\n__Damage__  4d10 + 16 slashing plus improved-grab,vampire-vetalarana-manipulator-paralyzing-claws"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+39 (agile, finesse, magical, unarmed)\n__Damage__  4d10 + 16 slashing plus improved-grab,vampire-vetalarana-manipulator-paralyzing-claws"
 
   - name: "Arcane Prepared Spells"
-    desc: "DC 48, attack +40; __9th __  _[[Spells/Unspeakable Shadow|Unspeakable Shadow]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift]]_, _[[Spells/Shadow Raid|Shadow Raid]]_; __6th __  _[[Spells/Bound in Death|Bound in Death]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Suffocate|Suffocate]]_, _[[Spells/Teleport|Teleport]]_; __5th __  _[[Spells/Shadow Siphon|Shadow Siphon]]_, _[[Spells/Umbral Journey|Shadow Walk]]_; __4th __  _[[Spells/Enervation|Enervation]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Telepathy|Telepathy]]_; __3rd __  _[[Spells/Haste|Haste]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Deafness|Deafness]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __  _[[Spells/Summon Undead|Animate Dead]]_, _[[Spells/Flense|Flense]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Disguise Magic|Magic Aura]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(10th)__ _[[Spells/Ancient Dust|Ancient Dust]]_, _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_"
+    desc: "DC 48, attack +40; __9th __  _[[Spells/Unspeakable Shadow|Unspeakable Shadow]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift]]_, _[[Spells/Shadow Raid|Shadow Raid]]_; __6th __  _[[Spells/Bound in Death|Bound in Death]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Suffocate|Suffocate]]_, _[[Spells/Teleport|Teleport]]_; __5th __  _[[Spells/Shadow Siphon|Shadow Siphon]]_, _[[Spells/Umbral Journey|Shadow Walk]]_; __4th __  _[[Spells/Enervation|Enervation]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Telepathy|Telepathy]]_; __3rd __  _[[Spells/Haste|Haste]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Deafness|Deafness]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __  _[[Spells/Summon Undead|Animate Dead]]_, _[[Spells/Flense|Flense]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Disguise Magic|Magic Aura]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(10th)__ _[[Spells/Ancient Dust|Ancient Dust]]_, _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Occult Innate Spells"
     desc: "DC 48, attack +40\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
@@ -90,7 +94,7 @@ attacks:
     desc: "3 Focus Points, DC 48, attack +40; __10th __  _[[Spells/Athletic Rush|Athletic Rush]]_, _[[Spells/Call of the Grave|Call of the Grave]]_, _[[Spells/Enduring Might|Enduring Might]]_, _[[Spells/Life Siphon|Life Siphon]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead (Doesn't Require Secondary Casters)]]_"
+    desc: "_Create Undead (Doesn't Require Secondary Casters)_"
 
   - name: "Center Self"
     desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** Kemnebi regains 1 Focus Point. If he's stupefied, he reduces the value of his stupefied condition by one. If Kemnebi is affected by a mental effect or spell, Kemnebi attempts to counteract that effect or spell with a +33 counteract modifier."
@@ -102,13 +106,16 @@ attacks:
     desc: "`pf2:r`  **Requirements** Kemnebi is aware of the attack, isn't [[Conditions/Off-Guard|Off-Guard]], and has a hand free\n\n**Trigger** Kemnebi is the target of a physical ranged attack or ranged spell attack\n* * *\n\n**Effect** Kemnebi gains a +4 circumstance bonus to AC against the triggering attack. If the attack misses, Kemnebi has deflected it. He can't use this reaction to deflect unusually massive ranged projectiles (such as boulders or ballista bolts)."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Vetalarana, Manipulator) Drain Thoughts|Drain Thoughts]]"
-    desc: "`pf2:1` (occult) **Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within Kemnebi's reach\n* * *\n\n**Effect** Kemnebi seizes a creature and consumes its memories. This requires an Athletics check check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is [[Conditions/Stupefied|Stupefied 2]] and Kemnebi regains 35 HP, gaining any excess HP as temporary Hit Points. Draining Thoughts from a creature that's already stupefied doesn't restore any HP to Kemnebi but increases the victim's stupefied value by 2. Additionally, Kemnebi views one of the victim's memories and can choose to alter, enhance, or erase the memory he views as 4th- level [[Spells/Rewrite Memory|Rewrite Memory]].\n\nA victim's stupefied condition value decreases by 1 every week.\n\nA victim who becomes [[Conditions/Stupefied|Stupefied 5]] in this way is rendered comatose, becoming permanently unconscious. As long as Kemnebi lives, a comatose victim can't regain consciousness, and its stupefied condition doesn't decrease."
+    desc: "`pf2:1` (occult) **Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within Kemnebi's reach\n* * *\n\n**Effect** Kemnebi seizes a creature and consumes its memories. This requires an Athletics check check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is [[Conditions/Stupefied|Stupefied 2]] and Kemnebi regains 35 healing HP, gaining any excess HP as temporary Hit Points. Draining Thoughts from a creature that's already stupefied doesn't restore any HP to Kemnebi but increases the victim's stupefied value by 2. Additionally, Kemnebi views one of the victim's memories and can choose to alter, enhance, or erase the memory he views as 4th- level [[Spells/Rewrite Memory|Rewrite Memory]].\n\nA victim's stupefied condition value decreases by 1 every week.\n\nA victim who becomes [[Conditions/Stupefied|Stupefied 5]] in this way is rendered comatose, becoming permanently unconscious. As long as Kemnebi lives, a comatose victim can't regain consciousness, and its stupefied condition doesn't decrease."
 
   - name: "Flurry of Blows"
     desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** Kemnebi makes two claw Strikes. If both hit the same creature, combine their damage for the purposes of resistances and weaknesses. Kemnebi applies his multiple attack penalty to the Strikes normally."
 
   - name: "[[Creature Family Ability Glossary/(Vampire, Vetalarana, Manipulator) Paralyzing Claws|Paralyzing Claws]]"
     desc: " (incapacitation,magical,occult) Any living, non-mindless creature hit by Kemnebi's claw Strike must succeed at a DC 36 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -8,35 +8,37 @@ tags:
 ---
 
 # 11th-Level Permanent Items
-Table of 11th-Level Permanent Items
+<p>Table of 11th-Level Permanent Items</p>
 
-| 1d148 | result |
+| 1d165 | result |
 |------|--------|
 | 1-6 | Magic Armor (+2 resilient) |
 | 7-12 | Cold Iron Armor, Standard Grade |
 | 13-18 | Silver Armor, Standard Grade |
-| 19-24 | [[Spacious Pouch (Type III)\|Bag of Holding (Type III)]] |
-| 25-27 | [[Holy Prayer Beads (Greater)\|Holy Prayer Beads (Greater)]] |
-| 28-33 | [[Skeleton Key (Greater)\|Skeleton Key (Greater)]] |
-| 34-39 | [[3-Rules/Character Building/Equipment/A/Armor Potency (+2)\|Armor Potency (+2)]] |
-| 40-45 | [[undefined]] |
-| 46-51 | [[undefined]] |
-| 52-57 | [[Holy\|Holy]] |
-| 58-63 | [[Unholy\|Unholy]] |
-| 64-69 | [[3-Rules/Character Building/Equipment/A/Arrow-Catching Shield\|Arrow-Catching Shield]] |
-| 70-72 | [[Floating Shield\|Floating Shield]] |
-| 73-78 | [[Magic Wand (5th-Rank Spell)\|Magic Wand (5th-Rank Spell)]] |
-| 79-84 | [[Wand of Continuation (4th-Rank Spell)\|Wand of Continuation (4th-Rank Spell)]] |
-| 85-87 | Adamantine Weapon, Standard Grade |
-| 88-90 | Duskwood Weapon, Standard Grade |
-| 91-93 | Dawnsilver Weapon, Standard Grade |
-| 94-99 | [[Oathbow\|Oathbow]] |
-| 100-105 | [[3-Rules/Character Building/Equipment/A/Alchemist Goggles (Greater)\|Alchemist Goggles (Greater)]] |
-| 106 | Dawnsilver Weapon (Standard-Grade) |
-| 107-112 | [[Cassock of Devotion\|Cassock of Devotion]] |
-| 113-118 | [[Crafter's Eyepiece (Greater)\|Crafter's Eyepiece (Greater)]] |
-| 119-124 | [[Doubling Rings (Greater)\|Doubling Rings (Greater)]] |
-| 125-130 | [[Obsidian Goggles (Greater)\|Obsidian Goggles (Greater)]] |
-| 131-136 | [[Gorget of the Primal Roar\|Gorget of the Primal Roar]] |
-| 137-142 | [[Necklace of Fireballs IV\|Necklace of Fireballs IV]] |
-| 143-148 | [[Ring of Maniacal Devices\|Ring of Maniacal Devices]] |
+| 19-24 | [[Equipment/Eternal Eruption of Mhar Massif\|Eternal Eruption of Mhar Massif]] |
+| 25-30 | [[Equipment/Horn of Exorcism\|Horn of Exorcism]] |
+| 31-36 | [[Equipment/Skeleton Key (Greater)\|Skeleton Key (Greater)]] |
+| 37-42 | [[Equipment/Spacious Pouch (Type III)\|Spacious Pouch (Type III)]] |
+| 43-48 | [[Equipment/Armor Potency (+2)\|Armor Potency (+2)]] |
+| 49-54 | [[Equipment/Holy\|Holy]] |
+| 55-60 | [[Equipment/Ready (Greater)\|Ready (Greater)]] |
+| 61-66 | [[Equipment/Unholy\|Unholy]] |
+| 67-69 | [[Equipment/Floating Shield\|Floating Shield]] |
+| 70-75 | [[Equipment/Lodestone Shield\|Lodestone Shield]] |
+| 76-81 | [[Equipment/Magic Wand (5th-Rank Spell)\|Magic Wand (5th-Rank Spell)]] |
+| 82-87 | [[Equipment/Wand of Continuation (4th-Rank Spell)\|Wand of Continuation (4th-Rank Spell)]] |
+| 88-90 | Adamantine Weapon (Standard-Grade) |
+| 91-93 | Dawnsilver Weapon (Standard-Grade) |
+| 94-96 | Duskwood Weapon (Standard-Grade) |
+| 97-102 | [[Equipment/Hunter's Anthem\|Hunter's Anthem]] |
+| 103-105 | [[Equipment/Countering Charm\|Countering Charm]] |
+| 106-111 | [[Equipment/Crafter's Eyepiece (Greater)\|Crafter's Eyepiece (Greater)]] |
+| 112-117 | [[Equipment/Devoted Vestments\|Devoted Vestments]] |
+| 118-123 | [[Equipment/Doubling Rings (Greater)\|Doubling Rings (Greater)]] |
+| 124-129 | [[Equipment/Gorget of the Primal Roar\|Gorget of the Primal Roar]] |
+| 130-135 | [[Equipment/Obsidian Goggles (Greater)\|Obsidian Goggles (Greater)]] |
+| 136-141 | [[Equipment/Wand of Overflowing Life (4th-Rank Spell)\|Wand of Overflowing Life (4th-Rank Spell)]] |
+| 142-147 | [[Equipment/Wand of the Spider (4th-Rank Spell)\|Wand of the Spider (4th-Rank Spell)]] |
+| 148-153 | [[Equipment/Alchemist Goggles (Greater)\|Alchemist Goggles (Greater)]] |
+| 154-159 | [[Equipment/Helm Of Zeal\|Helm Of Zeal]] |
+| 160-165 | [[Equipment/Ring of Maniacal Devices\|Ring of Maniacal Devices]] |

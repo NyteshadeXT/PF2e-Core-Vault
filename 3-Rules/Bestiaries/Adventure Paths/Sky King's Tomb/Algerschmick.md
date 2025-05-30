@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) within their entire bound yard]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Master of the Yard"
     desc: "  The dvorovoi helps or causes trouble in the yard, milking or scaring cows, protecting or scattering tools, and so forth. By commanding their home to attack, the dvorovoi can [[Actions/Grapple|Grapple]], [[Actions/Shove|Shove]], [[Actions/Trip|Trip]], and [[Actions/Disarm|Disarm]] with their enraged home Strike.\n\nThe dvorovoi uses their Household Lore instead of Athletics skill for these checks."
 
@@ -61,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof Knife +12 (agile, finesse)\n__Damage__  1d4 + 6 slashing"
+  - name: "**Melee** `pf2:1` Hoof Knife"
+    desc: "+12 (agile, finesse)\n__Damage__  1d4 + 6 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Speak with Animals|Speak with Animals (At Will)]]_; __1st __  _[[Spells/Charm|Charm (Animals Only)]]_, _[[Spells/Command|Command (Animals Only)]]_, _[[Spells/Mending|Mending]]_\n__Cantrips__  __(2nd)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"

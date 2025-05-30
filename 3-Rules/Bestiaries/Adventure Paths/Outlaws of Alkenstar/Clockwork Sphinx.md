@@ -53,18 +53,18 @@ abilities_top:
   - name: ""
 
   - name: "[[Creature Family Ability Glossary/(Clockwork Creature) Wind-Up|Wind-Up]]"
-    desc: "  24 hours, DC 24 Thievery check, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  24 hours, [[Actions/disable-device dc=24|disable-device dc=24]]{DC 24 Thievery}, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
   - name: "Self-Destruct"
-    desc: " (arcane,aura) When a clockwork sphinx is reduced to 0 Hit Points, it collapses and emits a steady ticking sound. At the beginning of what would've been its next turn, the sphinx explodes into a @Template[emanation|distance:20] of shrapnel, dealing 6d10 piercing damage (DC 26 Reflex check). An adjacent creature can cancel the self-destruct sequence by succeeding at a DC 26 Thievery check check to [[Actions/Disable a Device|Disable a Device]] at any point before the sphinx explodes, but on a critical failure, it explodes immediately."
+    desc: " (arcane,aura) When a clockwork sphinx is reduced to 0 Hit Points, it collapses and emits a steady ticking sound. At the beginning of what would've been its next turn, the sphinx explodes into a 20-foot emanation of shrapnel, dealing 6d10 piercing damage (DC 26 Reflex check). An adjacent creature can cancel the self-destruct sequence by succeeding at a [[Actions/disable-device dc=26|disable-device dc=26]]{DC 26 Thievery} check to [[Actions/Disable a Device|Disable a Device]] at any point before the sphinx explodes, but on a critical failure, it explodes immediately."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 ()\n__Damage__  2d12 + 9 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (unarmed)\n__Damage__  2d12 + 9 slashing"
 
   - name: "Pounce"
     desc: "`pf2:1`  **Frequency** once per round\n* * *\n\n**Effect** The sphinx Strides and makes a Strike at the end of that movement. If the sphinx began this action [[Conditions/Hidden|Hidden]], it remains hidden until after the attack."

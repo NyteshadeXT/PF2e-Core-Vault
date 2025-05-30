@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Song Of Marching"
+title: "Song of Marching"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/bard
@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.0zSoSPwC4cpqRewj"
 license: ORC
 ---
-# Song Of Marching
+# Song of Marching
 ## Feat 6
 ### [[bard]]
 
@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You learn the [[3-Rules/Character Building/Spells/S/Song of Marching|Song of Marching]] composition cantrip, which enables you and your allies to cross vast distances without strain.
+You learn the [[Spells/Song of Marching|Song of Marching]] composition cantrip, which enables you and your allies to cross vast distances without strain.
 
 *Source: Pathfinder Player Core*
 *ORC*

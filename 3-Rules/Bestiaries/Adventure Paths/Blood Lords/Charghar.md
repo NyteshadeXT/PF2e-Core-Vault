@@ -23,6 +23,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_CHARGHAR.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Charghar"
 level: "Creature 4"
@@ -58,16 +59,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 Feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Malevolent Mishaps"
     desc: " (aura,emotion,mental,occult) 10 feet. The charghar causes clumsiness and uncertainty in those nearby. Each creature that starts its turn in the aura must attempt a DC 21 Will check save.\n* * *\n\n**Success** The creature is temporarily immune to Malevolent Mishaps for 1 minute.\n\n**Failure** The creature becomes [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Stupefied|Stupefied 1]] until the start of its next turn. If the creature is living, the charghar Imparts Fears.\n\n**Critical Failure** As failure, but [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied 2]]."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Cookware +13 (finesse, magical)\n__Damage__  3d6 void plus impart-fears"
+  - name: "**Melee** `pf2:1` Ghostly Cookware"
+    desc: "+13 (finesse, magical)\n__Damage__  3d6 void plus impart-fears"
 
   - name: "Create Spawn"
     desc: " (divine) Any humanoid creature killed by a charghar and left unburied in the vicinity of a stove, oven, cauldron, or similar object rises as a free-willed charghar at the next dawn."

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[3-Rules/Character Building/Equipment/A/Aeon Stone (Pink Rhomboid)|Aeon Stone (Pink Rhomboid)]]
+Granted by [[Equipment/Aeon Stone (Pink Rhomboid)|Aeon Stone (Pink Rhomboid)]]
 
 You gain 15 temporary Hit Points.
 

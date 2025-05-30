@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[3-Rules/Character Building/Equipment/A/Arctic Worm Chitin Shield|Arctic Worm Chitin Shield]]
+Granted by [[Equipment/Arctic Worm Chitin Shield|Arctic Worm Chitin Shield]]
 
 You Raise the Shield and you gain resistance 5 to cold.
 

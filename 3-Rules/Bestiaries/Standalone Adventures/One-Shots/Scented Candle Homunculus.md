@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 (finesse, magical)\n__Damage__  1d4 piercing 1d4 fire"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (finesse, magical, unarmed)\n__Damage__  1d4 piercing 1d4 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Wax Glob +8 (magical, range increment 20 feet)\n__Damage__  1d4 fire"
+  - name: "**Ranged** `pf2:1` Wax Glob"
+    desc: "+8 (magical, range increment 20 feet)\n__Damage__  1d4 fire"
 
   - name: "Dunk in Wax"
-    desc: "`pf2:2` (move) A scented candle homunculus who is adjacent to the large wax cauldron can dunk itself in wax, healing 2d6 damage."
+    desc: "`pf2:2` (move) A scented candle homunculus who is adjacent to the large wax cauldron can dunk itself in wax, healing 2d6 healing damage."
  
 ```
 

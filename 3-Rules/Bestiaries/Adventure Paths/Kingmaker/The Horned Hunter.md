@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horns +34 (agile, deadly d8, versatile p)\n__Damage__  3d12 + 16 bludgeoning plus improved-knockdown"
+  - name: "**Melee** `pf2:1` Horns"
+    desc: "+34 (agile, deadly d8, versatile p)\n__Damage__  3d12 + 16 bludgeoning plus improved-knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +34 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  3d6 + 16 piercing 1d6 sonic"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+34 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  3d6 + 16 piercing 1d6 sonic"
 
   - name: "Primal Innate Spells"
     desc: "DC 37, attack +29; __8th __  _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Nature's Pathway|Tree Stride]]_; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(9th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Uplifting Overture|Inspire Competence]]_, _[[Spells/Courageous Anthem|Inspire Courage]]_, _[[Spells/Triple Time|Triple Time]]_"
@@ -90,7 +90,10 @@ attacks:
     desc: "  The Horned Hunter's multiple attack penalty for attacks against his hunted prey is -3 (-2 with an agile weapon) on his second attack in a turn, and -6 (-4 with an agile weapon) on his third or subsequent attacks. The first time he hits his hunted prey in a round, he deals 2d8 additional precision damage."
 
   - name: "Play the Pipes"
-    desc: "`pf2:3` (auditory,primal) **Requirements** The satyr is holding a musical instrument.\n* * *\n\n**Effect** The satyr plays a melody on his instrument to cast [[Spells/Charm|Charm]], [[Spells/Fear|Fear]], [[Spells/Sleep|Sleep]], or [[Spells/Suggestion|Suggestion]] without expending the spell slot and using his music in place of providing the spell's component actions. The spell gains the auditory trait and targets all creatures in a @Template[emanation|distance:60] instead of its usual targets. A creature that succeeds at its Will save against any spell is then temporarily immune from spells played from that satyr's pipes for 1 minute. Satyrs are immune to this music."
+    desc: "`pf2:3` (auditory,primal) **Requirements** The satyr is holding a musical instrument.\n* * *\n\n**Effect** The satyr plays a melody on his instrument to cast [[Spells/Charm|Charm]], [[Spells/Fear|Fear]], [[Spells/Sleep|Sleep]], or [[Spells/Suggestion|Suggestion]] without expending the spell slot and using his music in place of providing the spell's component actions. The spell gains the auditory trait and targets all creatures in a 60-foot emanation instead of its usual targets. A creature that succeeds at its Will save against any spell is then temporarily immune from spells played from that satyr's pipes for 1 minute. Satyrs are immune to this music."
+
+  - name: "[[Bestiary Ability Glossary/Improved Knockdown|Improved Knockdown]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature as a free action. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

@@ -57,20 +57,23 @@ abilities_top:
     desc: "[[Equipment/Crossbow|Crossbow]], [[Equipment/Light Mace|Light Mace]], [[Equipment/Chain Shirt|Chain Shirt]], 3x [[Equipment/Bolts|Bola Bolts]], 10x [[Equipment/Bolts|Bolts]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Mace +5 (agile, finesse, shove)\n__Damage__  1d4 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Light Mace"
+    desc: "+5 (agile, finesse, shove)\n__Damage__  1d4 + 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +7 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing plus bolts"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+7 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing plus bolts"
 
   - name: "Occult Innate Spells"
     desc: "DC 12, attack +4; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Paranoia|Paranoia]]_\n__Cantrips__  __(1st)__ _[[Spells/Sigil|Sigil]]_"
 
   - name: "Bola Bolt"
-    desc: "  This shot deals no damage, but on a hit, the target must succeed at a DC 16 Reflex check save or be knocked [[Conditions/Prone|Prone]] and [[Conditions/Immobilized|Immobilized]] until it is freed with a successful DC 15 check to [[/act escape dc=15]]. This check can be attempted either by the target or a creature adjacent to the target."
+    desc: "  This shot deals no damage, but on a hit, the target must succeed at a DC 16 Reflex check save or be knocked [[Conditions/Prone|Prone]] and [[Conditions/Immobilized|Immobilized]] until it is freed with a successful DC 15 check to [[Actions/escape dc=15|escape dc=15]]. This check can be attempted either by the target or a creature adjacent to the target."
  
 ```
 

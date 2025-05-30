@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 (agile, magical)\n__Damage__  2d4 + 7 slashing plus feld-hag-tar"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (agile, magical)\n__Damage__  2d4 + 7 slashing plus feld-hag-tar"
 
-  - name: "Melee"
-    desc: "`pf2:1` Birch Whip +14 (electricity, magical, reach 10 feet)\n__Damage__  2d4 + 7 slashing 1d6 electricity"
+  - name: "**Melee** `pf2:1` Birch Whip"
+    desc: "+14 (electricity, magical, reach 10 feet)\n__Damage__  2d4 + 7 slashing 1d6 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Igneous Sudor +13 (range increment 15 feet)\n__Damage__  2d4 + 7 fire plus feld-hag-tar"
+  - name: "**Ranged** `pf2:1` Igneous Sudor"
+    desc: "+13 (range increment 15 feet)\n__Damage__  2d4 + 7 fire plus feld-hag-tar"
 
   - name: "Innate Occult Spells"
     desc: "DC 21, attack +13; __3rd __  _[[Spells/Animal Form|Animal Form (At Will) (Canines Only)]]_; __2nd __  _[[Spells/Summon Animal|Summon Animal (Wolf Only) (x3)]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Pest Form|Pest Form]]_, _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"

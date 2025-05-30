@@ -55,6 +55,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Longsword|+1 Longsword]], [[Equipment/Musical Instrument (Virtuoso handheld)|Virtuoso Harp]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Free Expression"
@@ -63,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +18 (holy, magical, versatile p)\n__Damage__  1d8 + 10 slashing 1d6 sonic"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+18 (holy, magical, versatile p)\n__Damage__  1d8 + 10 slashing 1d6 sonic"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +17 (agile, holy, magical, reach 10 feet)\n__Damage__  2d6 + 10 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+17 (agile, holy, magical, reach 10 feet)\n__Damage__  2d6 + 10 bludgeoning plus grab"
 
   - name: "Divine Innate Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Clear Mind|Clear Mind]]_, _[[Spells/Counter Performance|Counter Performance]]_, _[[Spells/Noise Blast|Noise Blast]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Suggestion|Suggestion]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_\n__Cantrips__  __(4th)__ _[[Spells/Courageous Anthem|Courageous Anthem]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_, _[[Spells/Summon Instrument|Summon Instrument]]_, _[[Spells/Uplifting Overture|Uplifting Overture]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
@@ -76,7 +79,7 @@ attacks:
     desc: "  Any [[Spells/Courageous Anthem|Courageous Anthem]] the kanya casts grants a +2 status bonus instead of +1.\n* * *\n\n[[Bestiary Effects/Spell Effect_ Courageous Anthem (Kanya)|Spell Effect: Courageous Anthem (Kanya)]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

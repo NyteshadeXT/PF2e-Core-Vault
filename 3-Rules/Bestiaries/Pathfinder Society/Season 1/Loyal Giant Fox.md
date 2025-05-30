@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (finesse)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (finesse, unarmed)\n__Damage__  1d6 + 1 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +9 (agile, finesse)\n__Damage__  1d6 + 1 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+9 (agile, finesse)\n__Damage__  1d6 + 1 slashing"
 
   - name: "Pounce"
     desc: "`pf2:1`  The giant fox Strides and makes a Strike at the end of that movement. If the fox begins this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."

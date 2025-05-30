@@ -53,25 +53,28 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Longspear|Longspear]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Verdant Burst"
-    desc: " (healing,primal,vitality) When a leaf leshy dies, a burst of primal energy explodes from their body, restoring 1d4 Hit Points to each plant creature in a @Template[emanation|distance:30]. This area is filled with tree saplings, becoming difficult terrain.\n\nIf the terrain is not a viable environment for these trees, they wither after 24 hours."
+    desc: " (healing,primal,vitality) When a leaf leshy dies, a burst of primal energy explodes from their body, restoring 1d4 Hit Points to each plant creature in a 30-foot emanation. This area is filled with tree saplings, becoming difficult terrain.\n\nIf the terrain is not a viable environment for these trees, they wither after 24 hours."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longspear +3 (reach 10 feet)\n__Damage__  1d8 - 1 piercing"
+  - name: "**Melee** `pf2:1` Longspear"
+    desc: "+3 (reach 10 feet)\n__Damage__  1d8 - 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Seedpod +6 (range increment 30 feet)\n__Damage__  1d6 bludgeoning plus deafening-blow"
+  - name: "**Ranged** `pf2:1` Seedpod"
+    desc: "+6 (range increment 30 feet)\n__Damage__  1d6 bludgeoning plus deafening-blow"
 
   - name: "Primal Innate Spells"
     desc: "DC 14, attack +6; __3rd __  _[[Spells/Speak with Plants|Speak with Plants (Constant, Trees Only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) The leaf leshy transforms into a Small tree. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) The leaf leshy transforms into a Small tree. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]].\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Deafening Blow"
     desc: "  When a leaf leshy hits with their seedpod Strike, the pod explodes loudly. The target must attempt a DC 16 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected and temporarily immune for 24 hours.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Deafened|Deafened]] for 1 round.\n\n**Critical Failure** The target is deafened for 1 minute."

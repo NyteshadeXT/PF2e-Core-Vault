@@ -71,14 +71,17 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) If Jervis is destroyed, he rejuvenates back in the underground chambers below Chopper's Isle and seeks out the carrier of the [[Equipment/Clockwork Songbird|Clockwork Songbird's]] head as long as they remain within 5 miles of Sandpoint. If the architect of his whole doom, the Red Bishop, is slain, Stoot can move on to the afterlife.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hatchet +22 (agile, finesse, magical)\n__Damage__  1d6 bleed 2d6 + 11 void"
+  - name: "**Melee** `pf2:1` Ghostly Hatchet"
+    desc: "+22 (agile, finesse, magical)\n__Damage__  1d6 bleed 2d6 + 11 void"
 
   - name: "Ghostly Murder"
-    desc: "`pf2:2` (divine) Jervis Stoot raises a hand high, and a murder of ghostly crows manifests in a vortex above his hand. He then lowers his hand to point in a direction, and the murder of ghostly crows swarms out in a @Template[cone|distance:20]. All creatures caught in the area must attempt a DC 30 Reflex check save. Jervis can't use Ghostly Murder again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 6d6 slashing damage.\n\n**Failure** The creature takes 10d6 slashing damage and 2d6 bleed damage.\n\n**Critical Failure** The creature takes 15d6 slashing damage, 5d6 bleed damage, and is [[Conditions/Blinded|Blinded]]. The blindness persists until it's healed via an effect like restore senses."
+    desc: "`pf2:2` (divine) Jervis Stoot raises a hand high, and a murder of ghostly crows manifests in a vortex above his hand. He then lowers his hand to point in a direction, and the murder of ghostly crows swarms out in a 20-foot cone. All creatures caught in the area must attempt a DC 30 Reflex check save. Jervis can't use Ghostly Murder again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 6d6 slashing damage.\n\n**Failure** The creature takes 10d6 slashing damage and 2d6 bleed damage.\n\n**Critical Failure** The creature takes 15d6 slashing damage, 5d6 bleed damage, and is [[Conditions/Blinded|Blinded]]. The blindness persists until it's healed via an effect like restore senses."
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Malevolent Possession|Malevolent Possession]]"
     desc: "`pf2:2` (incapacitation,mental,possession) The ghost attempts to possess an adjacent corporeal creature that carries the head of the [[Equipment/Clockwork Songbird|Clockwork Songbird]] somewhere on their person. This has the same effect as the [[Spells/Possession|Possession]] spell, except since the ghost doesn't have a physical body, it is unaffected by that restriction of the spell."

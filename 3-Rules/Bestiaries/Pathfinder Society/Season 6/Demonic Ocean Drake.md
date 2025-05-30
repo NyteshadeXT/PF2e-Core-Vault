@@ -58,25 +58,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Tail Lash"
-    desc: "`pf2:r`  **Trigger** A creature within reach of the ocean drake's tail uses an action to Strike or attempt a skill check.\n* * *\n\n**Effect** The ocean drake attempts to Strike the triggering creature with its tail. If it hits, the creature takes a -2 circumstance penalty to the triggering roll.\n* * *\n\n[[Bestiary Effects/Effect_ Tail Lash (Attack Roll)|Effect: Tail Lash (Attack Roll)]]\n\n[[Bestiary Effects/Effect_ Tail Lash (Skill Check)|Effect: Tail Lash (Skill Check)]]"
+    desc: "`pf2:r`  **Trigger** A creature within reach of the ocean drake's tail uses an action to Strike or attempt a skill check.\n* * *\n\n**Effect** The ocean drake attempts to Strike the triggering creature with its tail. If it hits, the creature takes a -2 circumstance penalty to the triggering roll.\n* * *\n\n[[Bestiary Effects/Effect_ Tail Lash|Effect: Tail Lash]]"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +15 ()\n__Damage__  3d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+15 ()\n__Damage__  3d8 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +15 (reach 10 feet)\n__Damage__  3d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+15 (reach 10 feet)\n__Damage__  3d6 + 3 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 19, attack +11; __2nd __  _[[Spells/Deafness|Deafness]]_; __1st __  _[[Spells/Bane|Bane]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Demonic Pact]]_"
+    desc: "_Demonic Pact_"
 
   - name: "Chthonic Mucus"
-    desc: "`pf2:2` (primal,unholy) The ocean drake spits a ball of chthonic mucus up to a range of 50 feet that explodes in a @Template[burst|distance:10]. Creatures within the burst take 4d6 spirit damage (DC 19 Reflex check save). Those that fail this save also take 1d6 persistent spirit and take a -5-foot status penalty to their Speed. This Speed reduction ends with the persistent spirit damage.\n\nThe ocean drake can't use Chthonic Mucus again for 1d6 rounds.\n* * *\n\n[[Campaign Effects/Effect_ Chthonic Mucus|Effect: Chthonic Mucus]]"
+    desc: "`pf2:2` (primal,unholy) The ocean drake spits a ball of chthonic mucus up to a range of 50 feet that explodes in a 10-foot burst. Creatures within the burst take 4d6 spirit damage (DC 19 Reflex check save). Those that fail this save also take 1d6 persistent spirit and take a -5-foot status penalty to their Speed. This Speed reduction ends with the persistent spirit damage.\n\nThe ocean drake can't use Chthonic Mucus again for 1d6 rounds.\n* * *\n\n[[Campaign Effects/Effect_ Chthonic Mucus|Effect: Chthonic Mucus]]"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The river drake makes one Fangs Strike and two Tail Strikes in any order."

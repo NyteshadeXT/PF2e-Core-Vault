@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 ()\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (unarmed)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +8 (agile, finesse)\n__Damage__  1d4 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+8 (agile, finesse)\n__Damage__  1d4 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blowgun +8 (agile, nonlethal, range increment 20 feet, reload 1)\n__Damage__  1 piercing plus giant-centipede-venom"
+  - name: "**Ranged** `pf2:1` Blowgun"
+    desc: "+8 (agile, nonlethal, range increment 20 feet, reload 1)\n__Damage__  1 piercing plus giant-centipede-venom"
 
   - name: "Deep Breath"
     desc: "  A lizardfolk scout can hold their breath for 150 rounds (15 minutes)."

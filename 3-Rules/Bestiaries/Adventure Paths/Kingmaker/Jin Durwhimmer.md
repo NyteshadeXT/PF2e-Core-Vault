@@ -62,20 +62,23 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) Jin is put to rest if both Darivan (area **C7**) and the bloom of Lamashtu (area **C10**) are defeated.\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +19 (agile, finesse, magical)\n__Damage__  2d8 + 10 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+19 (agile, finesse, magical)\n__Damage__  2d8 + 10 void"
 
   - name: "Rituals"
-    desc: "_[[Spells/Awaken Animal|Awaken Animal]]_, _[[Compendium.pf2e.spells-srd.Item.l4LFwY7iuzX6sDXr|Commune with Nature]]_, _[[Spells/Primal Call|Primal Call]]_"
+    desc: "_Awaken Animal_, _Commune with Nature_, _Primal Call_"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Frightful Moan|Frightful Moan]]"
     desc: "`pf2:2` (auditory,divine,emotion,fear,mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 28 Will check save. On a failure, a creature becomes [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Telekinetic Assault|Telekinetic Assault]]"
-    desc: "`pf2:2` (divine) The ghost cries out in pain and anguish as small objects and debris fly about in a @Template[emanation|distance:30]. Creatures in this area take 5d6 bludgeoning damage, subject to a DC 28 Reflex check save."
+    desc: "`pf2:2` (divine) The ghost cries out in pain and anguish as small objects and debris fly about in a 30-foot emanation. Creatures in this area take 5d6 bludgeoning damage, subject to a DC 28 Reflex check save."
  
 ```
 

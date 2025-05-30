@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +7 (agile, finesse, versatile s)\n__Damage__  1d4 - 1 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+7 (agile, finesse, versatile s)\n__Damage__  1d4 - 1 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 17, attack +9; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(1st)__ _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"

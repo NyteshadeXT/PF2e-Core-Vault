@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/Shadowbound Monk Statue.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Shadowbound Monk Statue"
 level: "Creature 8"
@@ -62,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stone Fist +19 (magical, reach 10 feet)\n__Damage__  2d12 + 8 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Stone Fist"
+    desc: "+19 (magical, reach 10 feet)\n__Damage__  2d12 + 8 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Darkness Mote +12 (magical, range increment 80 feet)\n__Damage__  4d8 void"
+  - name: "**Ranged** `pf2:1` Darkness Mote"
+    desc: "+12 (magical, range increment 80 feet)\n__Damage__  4d8 void"
 
   - name: "Clinging Gloom"
     desc: "`pf2:1`  The statue pulls a creature it has [[Conditions/Grabbed|Grabbed]] into its grasping shadows. The target takes 3d8 void damage and 1d8 persistent void damage."
@@ -75,7 +76,7 @@ attacks:
     desc: "  Shifting shadows cover the statue. If the statue is dealt at least 15 vitality damage or brought within an area of magical light, the shadows recede, and the statue can't make darkness mote attacks or use Clinging Gloom."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

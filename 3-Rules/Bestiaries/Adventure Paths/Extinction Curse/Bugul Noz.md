@@ -53,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\n\nAnimals take a -2 circumstance penalty to the Will save.\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\n\nAnimals take a -2 circumstance penalty to the Will save.\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Horrid Visage"
     desc: " (visual) Creatures that see the bugul noz must succeed at a DC 31 Fortitude check saving throw. On a failure, creatures are [[Conditions/Doomed|Doomed 1]] (or [[Conditions/Doomed|Doomed 2]] on a critical failure)."
@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (magical)\n__Damage__  3d8 + 6 piercing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (magical, unarmed)\n__Damage__  3d8 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +25 (range increment 30 feet)\n__Damage__  2d8 + 6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+25 (range increment 30 feet)\n__Damage__  2d8 + 6 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 33, attack +25; __3rd __ (4 slots) _[[Spells/Blindness|Blindness (x3)]]_, _[[Spells/Wanderer's Guide|Wanderer's Guide]]_; __1st __  _[[Spells/Vanishing Tracks|Pass Without Trace]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"

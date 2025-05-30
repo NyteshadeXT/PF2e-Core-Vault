@@ -62,14 +62,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 (finesse)\n__Damage__  2d6 + 8 piercing plus paralysis"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (finesse, unarmed)\n__Damage__  2d6 + 8 piercing plus paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile, finesse)\n__Damage__  2d6 + 6 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, finesse, unarmed)\n__Damage__  2d6 + 6 slashing plus grab"
 
   - name: "Drink Blood"
-    desc: "`pf2:1` (divine) **Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within the everburning mammoth's reach\n* * *\n\n**Effect** The everburning mammoth tears into the creature with its jaws and gorges itself on the victim's blood. This requires an Athletics check check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is [[Conditions/Drained|Drained 1]], and the everburning mammoth regains 15 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the everburning mammoth but increases the victim's drain value by 1."
+    desc: "`pf2:1` (divine) **Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within the everburning mammoth's reach\n* * *\n\n**Effect** The everburning mammoth tears into the creature with its jaws and gorges itself on the victim's blood. This requires an Athletics check check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is [[Conditions/Drained|Drained 1]], and the everburning mammoth regains 15 healing HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the everburning mammoth but increases the victim's drain value by 1."
 
   - name: "Paralysis"
     desc: " (incapacitation,occult) Any nonliving creature hit by the everburning mammoth's jaws Strike must succeed at a DC 23 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."

@@ -19,8 +19,6 @@ license: ORC
 
 Granted by [[Feats/Vivacious Bravado|Vivacious Bravado]].
 
-* * *
-
 You gain temporary Hit Points equal to your level plus your Charisma modifier.
 
 *Source: Pathfinder Player Core 2*

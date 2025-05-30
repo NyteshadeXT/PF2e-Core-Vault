@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Malleable Clay|Malleable Clay]]
+Granted by [[Equipment/Malleable Clay|Malleable Clay]]
 
 The affixed weapon gains the versatile bludgeoning, versatile piercing, and versatile slashing weapon traits for the triggering Strike and all other attacks.
 

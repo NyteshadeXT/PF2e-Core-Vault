@@ -20,7 +20,7 @@ license: OGL
 
 You can allow your eidolon to travel far from your side.
 
-You learn the _unfetter eidolon_ link spell. Increase the number of Focus Points in your focus pool by 1.
+You learn the [[Spells/Unfetter Eidolon|Unfetter Eidolon]] link spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -22,5 +22,5 @@ license: ORC
 
 You can reload your weapon on the move. You Stride, Step, or [[Actions/Sneak|Sneak]], then Interact to reload.
 
-*Source: Pathfinder Player Core*
+*Source: Pathfinder Guns & Gears*
 *ORC*

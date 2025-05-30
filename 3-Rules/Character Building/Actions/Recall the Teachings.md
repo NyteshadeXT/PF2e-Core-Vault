@@ -6,14 +6,14 @@ tags:
   - trait/occult
   - trait/psyche
   - trait/psychic
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.kRxWINkrHUPSHHYq"
 license: OGL
 ---
 # Recall the Teachings `pf2:1`
 
-### [[3-Rules/Rule References/Occult]][[psyche]][[psychic]]
+### [[occult]][[psyche]][[psychic]]
 
 **Category** defensive; 
 

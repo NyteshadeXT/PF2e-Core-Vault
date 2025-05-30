@@ -60,22 +60,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Catch Rock|Catch Rock]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Requirements** The monster must have a free hand but can [[Actions/Release|Release]] anything it's holding as part of this reaction.\n\n**Trigger** The monster is targeted with a thrown rock Strike or a rock would fall on the monster.\n* * *\n\n**Effect** The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +30 (magical, reach 10 feet, sweep)\n__Damage__  2d8 + 16 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+30 (magical, reach 10 feet, sweep)\n__Damage__  2d8 + 16 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +30 (agile, magical, reach 10 feet, sweep, thrown 10 ft.)\n__Damage__  2d6 + 16 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+30 (agile, magical, reach 10 feet, sweep, thrown 10 ft.)\n__Damage__  2d6 + 16 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +30 (agile, magical, reach 10 feet, sweep, thrown 10 ft.)\n__Damage__  2d6 + 16 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+30 (agile, magical, reach 10 feet, sweep, thrown 10 ft.)\n__Damage__  2d6 + 16 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +26 (brutal, range increment 120 feet)\n__Damage__  3d4 + 16 bludgeoning plus rock"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+26 (brutal, range increment 120 feet)\n__Damage__  3d4 + 16 bludgeoning plus rock"
 
   - name: "Primal Innate Spells"
     desc: "DC 31, attack +23; __7th __  _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Tailwind|Longstrider]]_; __6th __  _[[Spells/Oaken Resilience|Barkskin]]_"
@@ -87,7 +87,7 @@ attacks:
     desc: "  The hill giant butcher deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
 
   - name: "Twin Butchery"
     desc: "`pf2:1`  **Frequency** once per round;\n\n**Requirement** the hill giant butcher is wielding two melee weapons, each in a different hand\n\n**Effect** The hill giant butcher uses both of its axes against a single target. It makes two Strikes against its menaced prey, one with each of the required weapons. If both hit the same menaced prey, combine their damage for the purpose of its resistances and weaknesses. In addition, if both Strikes hit, the menaced prey is [[Conditions/Off-Guard|Off-Guard]] until the start of the hill giant butcher's next turn. Apply the hill giant butcher's multiple attack penalty normally."

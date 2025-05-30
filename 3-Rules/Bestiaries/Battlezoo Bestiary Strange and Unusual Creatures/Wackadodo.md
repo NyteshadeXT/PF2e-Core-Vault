@@ -35,7 +35,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +13, Deception: +13, Intimidation: +13, Performance: +15, Stealth: +13, Athletics: +13, Deception: +13, Intimidation: +13, Performance: +15, Stealth: +13"
+    desc: "Athletics: +13, Deception: +13, Intimidation: +13, Performance: +15, Stealth: +13"
 abilityMods: [4, 5, 2, -4, 2, 5]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +14 ()\n__Damage__  2d12 + 8 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+14 ()\n__Damage__  2d12 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +14 (agile, reach 10 feet)\n__Damage__  2d8 + 8 piercing plus gyrating-fever"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+14 (agile, reach 10 feet)\n__Damage__  2d8 + 8 piercing plus gyrating-fever"
 
   - name: "Awkward Dance"
     desc: "`pf2:1` (emotion,incapacitation,mental,occult,visual) The wackadodo bobs its head while shaking its tail feathers and Strides up to half its speed. Each creature within 30 feet of the wackadodo at the end of their movement must attempt a DC 22 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Awkward Dance for 24 hours.\n\n**Success** The creature is [[undefined]] for 1 round and is temporarily immune to Awkward Dance for 24 hours.\n\n**Failure** The creature is [[undefined]] by the wackadodo, and it's [[undefined]] as long as it's fascinated. Hostile actions against the fascinated creature's allies don't end this fascination, though hostile actions against the fascinated creature itself ends the fascination for that creature.\n\n**Critical Failure** The creature is [[undefined]] for 1d4 rounds. Once the confusion ends, the creature suffers the failure effects."

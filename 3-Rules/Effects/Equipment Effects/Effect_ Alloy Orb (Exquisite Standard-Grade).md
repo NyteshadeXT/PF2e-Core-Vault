@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[3-Rules/Character Building/Equipment/A/Alloy Orb (Exquisite Standard-Grade)|Alloy Orb (Exquisite Standard-Grade)]]
+Granted by [[Equipment/Alloy Orb (Exquisite Standard-Grade)|Alloy Orb (Exquisite Standard-Grade)]]
 
 When you activate the _alloy orb_, select adamantine, cold iron, or dawnsilver. The affixed weapon functions as the chosen material.
 

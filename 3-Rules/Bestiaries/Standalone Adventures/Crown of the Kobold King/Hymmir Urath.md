@@ -58,23 +58,26 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 (finesse)\n__Damage__  2d6 + 7 piercing plus ghoul-ghoul-fever,ghoul-paralysis"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (finesse, unarmed)\n__Damage__  2d6 + 7 piercing plus ghoul-ghoul-fever,ghoul-paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 (agile, finesse)\n__Damage__  2d4 + 7 slashing plus ghoul-paralysis"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (agile, finesse, unarmed)\n__Damage__  2d4 + 7 slashing plus ghoul-paralysis"
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** The ghoul is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghoul devours a chunk of the corpse and regains 3d6 Hit Points.\n\nIt can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The ghoul is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghoul devours a chunk of the corpse and regains 3d6 healing Hit Points.\n\nIt can regain Hit Points from any given corpse only once."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Ghoul Fever|Ghoul Fever]]"
     desc: " (disease) **Saving Throw** DC 22 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."
 
   - name: "Gnaw and Chew"
-    desc: "`pf2:3`  **Requirements** Hymmir is in a hungry rage\n* * *\n\n**Effect** Hymmir attempts a jaws Strike. If he hits, he chews at his target and inflicts an additional 1d6 slashing damage. Hymmir regains 3d6 Hit Points."
+    desc: "`pf2:3`  **Requirements** Hymmir is in a hungry rage\n* * *\n\n**Effect** Hymmir attempts a jaws Strike. If he hits, he chews at his target and inflicts an additional 1d6 slashing damage. Hymmir regains 3d6 healing Hit Points."
 
   - name: "Hungry Rage"
     desc: "`pf2:r` (concentrate,emotion,mental) **Trigger** Hymmir damages a living creature with his jaws Strike\n* * *\n\n**Effect** The taste of flesh and blood throws Hymmir into a violent rage. He gains 9 temporary Hit Points, deals an additional 2 damage with melee Strikes, and takes a -1 penalty to AC for 1 minute.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"

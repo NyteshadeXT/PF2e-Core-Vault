@@ -18,5 +18,5 @@ license: OGL
 
 The creature gains a +2 circumstance bonus on saving throws.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

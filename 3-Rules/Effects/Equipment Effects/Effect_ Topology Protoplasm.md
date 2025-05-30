@@ -16,7 +16,9 @@ license: OGL
 
 
 
-In this state, a creature that attempts a check to Squeeze uses the outcome one degree of success better than it rolls and can move its full Speed while Squeezing
+Granted by [[Equipment/Topology Protoplasm|Topology Protoplasm]]
+
+Your attempts a check to Squeeze uses the outcome one degree of success better.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -18,5 +18,5 @@ license: OGL
 
 Your joints stiffen, and your mind becomes clouded. You take a -2 status penalty to all rolls for initiative.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

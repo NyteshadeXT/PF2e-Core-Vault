@@ -24,5 +24,5 @@ Thick tattoos, each one a rune fragment from the saumen kar's long-lost language
 
 You deal an additional 1 cold damage with all Strikes made with an ice-crafted weapon. If you have the [[Feats/Crown of the Saumen Kar|Crown of the Saumen Kar]] feat, you deal an additional 1 cold damage with your unarmed horns Strikes.
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

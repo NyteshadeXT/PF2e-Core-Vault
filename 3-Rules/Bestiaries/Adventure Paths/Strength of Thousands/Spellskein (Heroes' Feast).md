@@ -61,15 +61,15 @@ abilities_top:
     desc: "`pf2:1`  The spellskein folds itself into a crane, frog, lizard, or teapot shape, as it chooses."
 
   - name: "Serve Tea"
-    desc: "`pf2:2`  A living creature that drinks the tea with an Interact action regains 1d4 Hit Points and is temporarily immune for 10 minutes.\n\nUnconsumed tea disappears at the beginning of tthe spellskein's next turn."
+    desc: "`pf2:2`  A living creature that drinks the tea with an Interact action regains 1d4 healing Hit Points and is temporarily immune for 10 minutes.\n\nUnconsumed tea disappears at the beginning of tthe spellskein's next turn."
 
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sharp Edge +7 (agile, finesse)\n__Damage__  1d6 + 1 slashing"
+  - name: "**Melee** `pf2:1` Sharp Edge"
+    desc: "+7 (agile, finesse)\n__Damage__  1d6 + 1 slashing"
 
   - name: "Lizard Frill"
     desc: "`pf2:1` (arcane,fear,mental) **Requirements** The spellskein is folded into its lizard shape\n* * *\n\n**Effect** The spellskein puffs out its cloth frills and shakes them from side to side to look fierce. The first creature hit by its sharp edge Strike before the start of its next turn must succeed on a DC 14 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure)."
@@ -84,7 +84,7 @@ creatures:
 
 
 
-Spellskeins created during [[Fortifying Brew|Fortifying Brew]] rituals have a teapot form and can use the two-action activity serve tea while in that form.
+Spellskeins created during [[Spells/Fortifying Brew|Fortifying Brew]] rituals have a teapot form and can use the two-action activity serve tea while in that form.
 
 * * *
 

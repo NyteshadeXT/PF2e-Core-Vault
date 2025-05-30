@@ -17,11 +17,9 @@ license: ORC
 
 
 
-Granted by [[Aerial Form|Aerial Form]]
+Granted by [[Spells/Aerial Form|Aerial Form]]
 
-You harness your mastery of primal forces to reshape your body into a Medium flying animal battle form. You can decide the specific type of animal (such as an owl or eagle for bird), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait. You can Dismiss the spell.
-
-You gain the following statistics and abilities regardless of which battle form you choose:
+You transform into a Medium flying animal battle form. You gain the animal trait, and gain the following statistics and abilities regardless of which battle form you choose:
 
 *   AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.
 *   5 temporary Hit Points.
@@ -32,6 +30,7 @@ You gain the following statistics and abilities regardless of which battle form 
 You also gain specific abilities based on the form you choose:
 
 *   **Bird**
+    
     *   Speed 10 feet, fly Speed 50 feet;
     *   **Melee** `pf2:1` beak, **Damage** 2d8 piercing;
     *   **Melee** `pf2:1` talon (agile), **Damage** 1d10 slashing.

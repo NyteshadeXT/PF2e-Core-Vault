@@ -35,7 +35,7 @@ trait_04: [[unholy]]
 modifier: 31
 perception:
   - name: "Perception"
-    desc: "+31; "
+    desc: "+31; Darkvision"
 languages: "Common, Necril"
 skills:
   - name: "Skills"
@@ -66,8 +66,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +33 (agile, finesse, magical)\n__Damage__  3d6 spirit 3d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+33 (agile, finesse, magical, unarmed)\n__Damage__  3d6 spirit 3d6 + 8 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 40, attack +32; __9th __  _[[Spells/Possession|Possession (x3)]]_"

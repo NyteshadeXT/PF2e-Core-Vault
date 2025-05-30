@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Retributive Strike"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-ability-glossary-srd.Item.IQtb58p4EaeUzTN1"
 license: OGL

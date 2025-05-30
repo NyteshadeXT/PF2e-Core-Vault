@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** trained in Acrobatics
 * * *
-You're an incredible acrobat, evoking wonder and enrapturing audiences with your prowess. You can roll an [[/act perform skill=acrobatics variant=dance]]{Acrobatics} check instead of a Performance check when using the [[Actions/Perform|Perform]] action. If you are trained in both Acrobatics and Performance, you gain a +1 circumstances bonus on Acrobatics checks made to Perform.
+You're an incredible acrobat, evoking wonder and enrapturing audiences with your prowess. You can roll an [[Actions/perform skill=acrobatics variant=dance|perform skill=acrobatics variant=dance]]{Acrobatics} check instead of a Performance check when using the [[Actions/Perform|Perform]] action. If you are trained in both Acrobatics and Performance, you gain a +1 circumstances bonus on Acrobatics checks made to Perform.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

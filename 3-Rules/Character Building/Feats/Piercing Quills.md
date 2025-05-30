@@ -21,5 +21,5 @@ license: OGL
 * * *
 Your quills can dig particularly deep into the flesh of your opponents. Your quills unarmed attack deals 1d4 bleed on a critical hit.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

@@ -17,11 +17,11 @@ license: ORC
 
 
 
-Granted [[Feats/Blade of the Heart|Blade of the Heart]]
+Granted by [[Feats/Blade of the Heart|Blade of the Heart]]
 
 Your transformed weapon gains one of the following weapon property runes on your weapon: corrosive, flaming, frost, shock, thundering, or vitalizing.
 
 At 16th level, you draw the greater version of the rune instead.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

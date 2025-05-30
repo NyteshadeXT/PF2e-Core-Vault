@@ -3,7 +3,7 @@ title: "Forest Troll (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.gvCCATlH9mPGWbsp" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.htK4dElL6YvFCLkz" 
 tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 (reach 10 feet)\n__Damage__  2d10 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (reach 10 feet, unarmed)\n__Damage__  2d10 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 (agile, reach 10 feet)\n__Damage__  2d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (agile, reach 10 feet, unarmed)\n__Damage__  2d8 + 5 slashing"
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
     desc: "`pf2:1`  If the troll succeeds at two claw Strikes against the same creature in the same turn, they can use this ability to automatically deal claw Strike damage to that creature."

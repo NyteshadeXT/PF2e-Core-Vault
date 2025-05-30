@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +14 (magical, thrown 20 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+14 (magical, thrown 20 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 25, attack +17; __4th __ (4 slots) _[[Spells/Summon Undead|Animate Dead]]_, _[[Spells/Bone Spray|Bone Spray]]_, _[[Spells/Boneshaker|Boneshaker]]_, _[[Spells/Enervation|Enervation]]_; __3rd __ (3 slots) _[[Spells/Bind Undead|Bind Undead]]_, _[[Spells/Blindness|Blindness]]_, _[[Spells/Envenom Companion|Envenom Companion]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_\n__Cantrips__  __(4th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Light|Light]]_"
@@ -71,7 +71,7 @@ attacks:
     desc: "0 Focus Point, DC 25, attack +17\n__Cantrips__  __(4th)__ _[[Spells/Boost Eidolon|Boost Eidolon]]_, _[[Spells/Reinforce Eidolon|Reinforce Eidolon]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead]]_"
+    desc: "_Create Undead_"
 
   - name: "Corpse Puppet"
     desc: "`pf2:2` (concentrate,incapacitation,manipulate,primal) Ashen Swale seizes control of the body of a creature within 30 feet that is dead or [[Conditions/Unconscious|Unconscious]]. The target must attempt a Will save. Dead creatures automatically fail this save. On a success, the target is permanently immune to Corpse Puppet. On a failure, the target is controlled by Ashen Swale. It gains the minion trait and can act as though it were alive and conscious as long as it's controlled by Ashen Swale. Controlling each target requires Ashen Swale to take an action to Command a Minion. The only actions the target can take during this time are Interact, Stride, and Strike.\n\nAshen Swale retains control of the target for 10 minutes. This control ends immediately if the target loses the unconscious condition or the target is dealt an additional 50 damage since Ashen Swale took control (which destroys the body completely). After he has lost control of a target, that target is permanently immune to Corpse Puppet.\n\nAshen Swale can control up to two targets with Corpse Puppet at a time."

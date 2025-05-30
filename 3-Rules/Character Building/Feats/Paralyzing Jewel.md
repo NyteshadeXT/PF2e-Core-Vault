@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-Your dedication to the ideals of art and beauty allows your head gem to access the power of the waning moon. While you possess your head gem, you can overwhelm foes with a sense of reverent wonder. Enemies within a @Template\[emanation|distance:15\] must attempt a Will check save against the higher of your class DC or spell DC.
+Your dedication to the ideals of art and beauty allows your head gem to access the power of the waning moon. While you possess your head gem, you can overwhelm foes with a sense of reverent wonder. Enemies within a 15-foot emanation must attempt a Will check save against the higher of your class DC or spell DC.
 
 * * *
 
@@ -37,5 +37,5 @@ Your dedication to the ideals of art and beauty allows your head gem to access t
 
 **Critical Failure** The enemy is [[Conditions/Paralyzed|Paralyzed]] for 1 round.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

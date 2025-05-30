@@ -4,8 +4,9 @@ title: "Effect: Aquatic Combat"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.other-effects.Item.TPbr1kErAAJKBi3V"
-license: OGL
+license: ORC
 ---
 # Effect: Aquatic Combat
 ## Level 1
@@ -16,14 +17,15 @@ license: OGL
 
 
 
+See [[PF2e Journals/GM Screen/Aquatic Combat|Aquatic Combat]]
+
 Use these rules for battles in water or underwater:
 
-*   You're [[Conditions/Off-Guard|Off-Guard]] unless you have a swim Speed.
+*   You're off-guard unless you have a swim Speed.
 *   You gain resistance 5 to acid and fire.
-*   You take a -2 circumstance penalty to melee slashing or bludgeoning attacks that pass through water.
-*   Ranged attacks that deal bludgeoning or slashing damage automatically miss if the attacker or target is underwater, and piercing ranged attacks made by an underwater creature or against an underwater target have their range increments halved.
-*   You can't cast fire spells or use actions with the fire trait underwater.
-*   At the GM's discretion, some ground-based actions might not work underwater or while floating.
+*   You take a –2 circumstance penalty to your attack roll for bludgeoning or slashing attacks that pass through water.
+*   Ranged attacks made by an underwater creature or against an underwater target have their range increments halved.
+*   You can't cast fire spells or use actions with the fire trait underwater. As normal for how traits work, any part of the effect that's unrelated to fire still works. For example, an attack with a _flaming battleaxe_ could still deal its physical damage, just not its fire damage.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

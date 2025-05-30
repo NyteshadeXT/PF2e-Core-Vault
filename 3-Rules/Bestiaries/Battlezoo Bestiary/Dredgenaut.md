@@ -56,14 +56,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +28 (reach 15 feet)\n__Damage__  3d8 + 16 slashing plus improved-grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+28 (reach 15 feet)\n__Damage__  3d8 + 16 slashing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +28 ()\n__Damage__  3d12 + 16 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+28 ()\n__Damage__  3d12 + 16 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Chrono Beam +26 (magical, range increment 120 feet)\n__Damage__  3d6 + 14 mental plus temporal-trauma"
+  - name: "**Ranged** `pf2:1` Chrono Beam"
+    desc: "+26 (magical, range increment 120 feet)\n__Damage__  3d6 + 14 mental plus temporal-trauma"
 
   - name: "Arcane Innate Spells"
     desc: "DC 31, attack +23; __7th __  _[[Spells/Retrocognition|Retrocognition]]_; __6th __  _[[Spells/Vibrant Pattern|Vibrant Pattern]]_; __5th __  _[[Spells/Locate|Locate]]_, _[[Spells/Scouting Eye|Prying Eye]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"

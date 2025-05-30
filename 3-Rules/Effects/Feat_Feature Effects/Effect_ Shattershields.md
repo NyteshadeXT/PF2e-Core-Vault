@@ -17,7 +17,9 @@ license: OGL
 
 
 
-Gain a +1 circumstance bonus to AC.
+Granted by [[Feats/Shattershields|Shattershields]]
+
+You gain a +1 circumstance bonus to AC.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

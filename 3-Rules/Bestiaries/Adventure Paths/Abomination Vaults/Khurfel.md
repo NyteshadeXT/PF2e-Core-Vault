@@ -55,25 +55,31 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Heavy Crossbow|Heavy Crossbow]], [[Equipment/Rhoka Sword|+1 Striking Rhoka Sword]], [[Equipment/Chain Mail|Chain Mail]], [[Equipment/Emerald Fulcrum Lens|Emerald Fulcrum Lens]], 10x [[Equipment/Bolts|Bolts]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Necrotic Decay"
-    desc: " (divine,void) When Khurfel dies, his invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a @Template[emanation|distance:10] around his body. The gas deals 10d6 void damage to creatures in this area as their flesh too curdles and rots (DC 28 Fortitude check save)."
+    desc: " (divine,void) When Khurfel dies, his invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a 10-foot emanation around his body. The gas deals 10d6 void damage to creatures in this area as their flesh too curdles and rots (DC 28 Fortitude check save)."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rhoka Sword +24 (deadly 2d8, magical, two-hand d10)\n__Damage__  2d8 + 11 slashing"
+  - name: "**Melee** `pf2:1` Rhoka Sword"
+    desc: "+24 (deadly 2d8, magical, two-hand d10)\n__Damage__  2d8 + 11 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +23 ()\n__Damage__  2d8 + 11 piercing plus wicked-bite"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+23 (unarmed)\n__Damage__  2d8 + 11 piercing plus wicked-bite"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heavy Crossbow +22 (range increment 120 feet, reload 2)\n__Damage__  1d10 piercing"
+  - name: "**Ranged** `pf2:1` Heavy Crossbow"
+    desc: "+22 (range increment 120 feet, reload 2)\n__Damage__  1d10 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 28, attack +20; __4th __ (2 slots) _[[Spells/Harm|Harm]]_, _[[Spells/Read Omens|Read Omens]]_; __3rd __ (2 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (2 slots) _[[Spells/Augury|Augury]]_, _[[Spells/Death Knell|Death Knell]]_; __1st __ (1 slots) _[[Spells/Gentle Landing|Feather Fall (At Will) (Self Only)]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_"
@@ -85,7 +91,7 @@ attacks:
     desc: "`pf2:2`  Khurfel makes a melee weapon Strike. On this Strike, he gains a +2 circumstance bonus to the attack roll and ignores any concealment the target has."
 
   - name: "Wicked Bite"
-    desc: "`pf2:1`  **Requirements** Khurfel damaged a creature with a jaws Strike on his last action\n* * *\n\n**Effect** Khurfel maintains contact, turning the creature's flesh translucent around the injury. Khurfel chooses one of two options, each of which requires a DC 28 Fortitude check save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n\n*   Drain Blood Khurfel drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained|Drained 1]] and Khurfel regains 10 HP (or, on a critical failure, it's [[Conditions/Drained|Drained 2]] and Khurfel regains 20 HP).\n*   Drain Vitality Khurfel draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour on a critical failure)."
+    desc: "`pf2:1`  **Requirements** Khurfel damaged a creature with a jaws Strike on his last action\n* * *\n\n**Effect** Khurfel maintains contact, turning the creature's flesh translucent around the injury. Khurfel chooses one of two options, each of which requires a DC 28 Fortitude check save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both.\n\n*   Drain Blood Khurfel drinks some of the creature's blood. On a failed save, the creature is [[Conditions/Drained|Drained 1]] and Khurfel regains 10 healing HP (or, on a critical failure, it's [[Conditions/Drained|Drained 2]] and Khurfel regains 20 healing HP).\n*   Drain Vitality Khurfel draws out some of the creature's vital essence. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] for 1 hour on a failed save (or [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour on a critical failure)."
  
 ```
 

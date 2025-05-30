@@ -34,7 +34,7 @@ perception:
 abilities_top:
   - name: ""
   - name: "Description"
-    desc: "An [[Conditions/Invisible|Invisible]] rune on the floor summons a [[Bestiary 1/Goliath Spider|Goliath Spider]] when disturbed by someone who isn't wearing Norgorber's religious symbol."
+    desc: "An [[Conditions/Invisible|Invisible]] rune on the floor summons a [[Monster Core/Goliath Spider|Goliath Spider]] when disturbed by someone who isn't wearing Norgorber's religious symbol."
 abilities_mid:
   - name: ""
   - name: "Disable"
@@ -43,7 +43,7 @@ attacks:
   - name: ""
 
   - name: "Summon Animal"
-    desc: "`pf2:r` (divine, summon) **Trigger** A creature that isn't wearing a religious symbol of Norgorber enters the area above the rune\n* * *\n\n**Effect** The trap summons a [[Bestiary 1/Goliath Spider|Goliath Spider]]. The goliath spider rolls initiative and remains for 2d6 rounds, after which the spell ends and the spider disappears. The spider also disappears if someone disables the trap before the duration expires. Unlike most summoned creatures, the goliath spider can use 3 actions each round and can use reactions."
+    desc: "`pf2:r` (divine, summon) **Trigger** A creature that isn't wearing a religious symbol of Norgorber enters the area above the rune\n* * *\n\n**Effect** The trap summons a [[Monster Core/Goliath Spider|Goliath Spider]]. The goliath spider rolls initiative and remains for 2d6 rounds, after which the spell ends and the spider disappears. The spider also disappears if someone disables the trap before the duration expires. Unlike most summoned creatures, the goliath spider can use 3 actions each round and can use reactions."
 
 
   - name: "Reset"

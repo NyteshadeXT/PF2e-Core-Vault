@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Great Tengu Form|Great Tengu Form]]
 
-You also gain the benefits of 4th-rank [[Enlarge|Enlarge]] and [[3-Rules/Character Building/Spells/F/Fly|Fly]] spells.
+You also gain the benefits of 4th-rank [[Spells/Enlarge|Enlarge]] and [[Spells/Fly|Fly]] spells.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

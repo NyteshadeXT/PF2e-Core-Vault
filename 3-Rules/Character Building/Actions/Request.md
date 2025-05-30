@@ -7,8 +7,7 @@ tags:
   - trait/concentrate
   - trait/linguistic
   - trait/mental
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6"
@@ -16,14 +15,14 @@ license: ORC
 ---
 # Request `pf2:1`
 
-### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Concentrate]][[linguistic]][[3-Rules/Rule References/Mental]][[skill]]
+### [[auditory]][[concentrate]][[linguistic]][[mental]]
 
 **Category** interaction; 
 
 
 
 
-You can make a request of a creature that's friendly or helpful to you. You must couch the request in terms that the target would accept given their current attitude toward you. The GM sets the DC of the Diplomacy check based on the difficulty of the request. Some requests are unsavory or impossible, and even a helpful NPC would never agree to them.
+You can make a request of a creature that's friendly or helpful to you. You must couch the request in terms that the target would accept given their current attitude toward you. The GM sets the DC of the [[Actions/request|request]]{Diplomacy} check based on the difficulty of the request. Some requests are unsavory or impossible, and even a helpful NPC would never agree to them.
 
 * * *
 

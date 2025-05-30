@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Immortal Bastion|Immortal Bastion]]
+
 You gain 100 temporary hit points.
 
 *Source: Pathfinder Treasure Vault*

@@ -22,5 +22,5 @@ license: ORC
 * * *
 Passing unseen within society is second nature to you now. You can use Among Humanity three times per day instead of once per day.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

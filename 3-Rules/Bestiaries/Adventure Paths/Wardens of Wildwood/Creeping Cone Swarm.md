@@ -57,16 +57,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Swarm Mind|Swarm Mind]]"
+    desc: "  This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
+
   - name: "Blight Burst"
-    desc: "`pf2:0` (acid,primal) **Trigger** The creeping cone swarm is reduced to fewer than half its Hit Points or is reduced to 0 Hit Points\n* * *\n\n**Effect** A @Template[emanation|distance:15] of acid explodes from the creeping cone swarm. Creatures in the area take 3d12 acid damage (DC 25 Reflex check save). Non-blight bonded creatures damaged by this effect are exposed to Ayrzul's Blight."
+    desc: "`pf2:0` (acid,primal) **Trigger** The creeping cone swarm is reduced to fewer than half its Hit Points or is reduced to 0 Hit Points\n* * *\n\n**Effect** A 15-foot emanation of acid explodes from the creeping cone swarm. Creatures in the area take 3d12 acid damage (DC 25 Reflex check save). Non-blight bonded creatures damaged by this effect are exposed to Ayrzul's Blight."
 
 attacks:
   - name: ""
 
   - name: "Jagged Scales"
-    desc: "`pf2:2` (primal) The creeping cones shake off a barrage of jagged, stony scales. Each creature in a @Template[burst|distance:10] within 30 feet of the swarm takes 2d12+7 slashing damage (DC 29 Reflex check save)."
+    desc: "`pf2:2` (primal) The creeping cones shake off a barrage of jagged, stony scales. Each creature in a 10-foot burst within 30 feet of the swarm takes 2d12+7 slashing damage (DC 29 Reflex check save)."
 
   - name: "Pummeling Lurches"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 6d6 bludgeoning damage (DC 29 Fortitude check save). A creature that fails its save falls [[Conditions/Prone|Prone]]."

@@ -55,19 +55,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ogre Hook +18 (deadly d10, reach 10 feet, trip)\n__Damage__  1d10 + 13 piercing"
+  - name: "**Melee** `pf2:1` Ogre Hook"
+    desc: "+18 (deadly d10, reach 10 feet, trip)\n__Damage__  1d10 + 13 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +16 (agile, sweep)\n__Damage__  1d6 + 13 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+16 (agile, sweep)\n__Damage__  1d6 + 13 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +16 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 13 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+16 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 13 slashing"
 
   - name: "Hooking Hurl"
     desc: "`pf2:1`  **Requirements** The ogre's last action was a successful ogre hook Strike\n* * *\n\n**Effect** The ogre latches the hook into the target and attempts to [[Actions/Reposition|Reposition]] the target with a sudden flick, even if the ogre doesn't have a free hand. This attempt doesn't apply the ogre's multiple attack penalty. If the target ends its movement adjacent to an obstacle or adjacent to a creature of equal or greater size, the target also takes 1d10 bludgeoning damage and is [[Conditions/Off-Guard|Off-Guard]] for 1 round."

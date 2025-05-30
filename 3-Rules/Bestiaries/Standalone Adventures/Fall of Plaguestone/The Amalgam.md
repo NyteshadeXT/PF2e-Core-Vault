@@ -60,17 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 (agile)\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (agile, unarmed)\n__Damage__  1d6 + 5 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 ()\n__Damage__  1d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (unarmed)\n__Damage__  1d8 + 5 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 ()\n__Damage__  1d10 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (unarmed)\n__Damage__  1d10 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +12 ()\n__Damage__  1d8 + 5 bludgeoning plus trip"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+12 ()\n__Damage__  1d8 + 5 bludgeoning plus trip"
 
   - name: "Too Many Limbs"
     desc: "`pf2:2`  The amalgam can make up to four Strikes, one with each of its listed melee attacks, but no more than two at any one target. It takes a -2 penalty to each attack, but the multiple attack penalty does not increase until all the attacks are made."

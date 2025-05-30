@@ -33,7 +33,7 @@ perception:
 languages: "Fey; cannot speak any language"
 skills:
   - name: "Skills"
-    desc: "Deception: +7, Intimidation: +7, Performance: +7, Deception: +7, Intimidation: +7, Performance: +7, Legendary Monster Lore: +6"
+    desc: "Deception: +7, Intimidation: +7, Performance: +7, Legendary Monster Lore: +6"
 abilityMods: [1, 3, 1, -3, 3, 4]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -57,14 +57,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (finesse)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (finesse)\n__Damage__  1d6 + 2 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (agile, finesse)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (agile, finesse)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +9 (finesse)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+9 (finesse)\n__Damage__  1d6 + 2 bludgeoning"
 
   - name: "Illusory Attack"
     desc: "`pf2:2` (illusion,mental,primal) The false tarrasque creates a colossal illusory attack, which can appear as any damage type. In its normal form, Illusory Attack affects a 10-foot cone, but while Titanic Transformation is active, Illusory Attack can affect a 30-foot cone, a 60-foot line, or a 10-foot burst with a range of 90 feet. Regardless of the area affected or the damage type it mimics, Illusory Attack deals 1d8 mental damage (DC 14 Will check save). A creature that critically succeeds, or a creature with a resistance, immunity, or vulnerability that should apply to the apparent damage type, recognizes that the Illusory Attack is actually an illusion. Such a creature gains a +2 circumstance bonus to saving throws against Illusory Attack."

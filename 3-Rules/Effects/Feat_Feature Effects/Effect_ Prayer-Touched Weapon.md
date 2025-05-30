@@ -20,5 +20,5 @@ Granted by [[Feats/Prayer-Touched Weapon|Prayer-Touched Weapon]]
 
 The chosen weapon deals an extra 1d6 vitality damage.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

@@ -24,5 +24,5 @@ You've sworn an oath to defend the helpless from dangerous titanic beasts, inclu
 
 **Edict** You must do everything within your power to protect others from massive creatures they can't defend themselves from; in the event the victims are evil or actively trying to harm you or other innocents, you don't have to save them.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

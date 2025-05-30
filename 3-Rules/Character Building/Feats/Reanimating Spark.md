@@ -26,5 +26,5 @@ license: OGL
 
 The magic that animates you strains to keep you alive. You're restored to 1 Hit Point, lose the dying and [[Conditions/Unconscious|Unconscious]] conditions, and can act normally on this turn. You gain or increase the wounded condition as normal when losing the dying condition in this way.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

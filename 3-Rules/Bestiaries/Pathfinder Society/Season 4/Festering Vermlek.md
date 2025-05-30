@@ -57,6 +57,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Mace|Mace]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Recoil from Wasted Opportunities"
@@ -65,20 +68,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +9 (unholy)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+9 (unholy)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +9 (agile, unholy)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+9 (agile, unarmed, unholy)\n__Damage__  1d4 + 3 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Mace +9 (shove, unholy)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Mace"
+    desc: "+9 (shove, unholy)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 16, attack +8; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_"
 
   - name: "Abandon Body"
-    desc: "`pf2:2` (manipulate) **Requirements** The worm demon is Inhabiting a Body\n* * *\n\n**Effect** The worm demon crawls out of the body it is inhabiting, devouring much of the body's remaining flesh and regaining 10 Hit Points in the process. The corpse it leaves behind is little more than a husk."
+    desc: "`pf2:2` (manipulate) **Requirements** The worm demon is Inhabiting a Body\n* * *\n\n**Effect** The worm demon crawls out of the body it is inhabiting, devouring much of the body's remaining flesh and regaining 10 healing Hit Points in the process. The corpse it leaves behind is little more than a husk."
 
   - name: "[[Actor.OQRaBwlV8ZgkZPrY.Item.yVbYX4gSvL0pm4Py|Inhabit Body]]"
     desc: "`pf2:3` (manipulate) The worm demon crawls into the body of an adjacent dead Medium humanoid, consuming the bulk of the victim's skeleton and internal organs as it does so and cramming itself into the cavity.\n\nAs long as it Inhabits a Body, the worm demon loses its bite attack, can wield weapons like a humanoid, gains a +3 circumstance bonus to AC, and gains a +3 circumstance bonus to Deception checks to [[Actions/Impersonate|Impersonate]] the creature it is inhabiting. It cannot use this ability if it is already Inhabiting a Body."

@@ -6,8 +6,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.MfvkZ9efD013H34Z"
-license: OGL
+license: ORC
 ---
 # Come at Me!
 ## Feat 14
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Pistolero's Challenge
 * * *
-You're a legendary duelist, welcoming all challengers, enabling you to challenge many foes even while other challenges are active. There is no longer a limit to the number of Pistolero's Challenges you can have in effect at one time.
+You're a legendary duelist, welcoming all challengers, enabling you to challenge many foes even while other challenges are active. There is no longer a limit to the number of [[Feats/Pistolero's Challenge|Pistolero's Challenges]] you can have in effect at one time.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

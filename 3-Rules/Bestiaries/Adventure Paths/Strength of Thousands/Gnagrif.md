@@ -70,11 +70,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Hammer +10 (agile)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Light Hammer"
+    desc: "+10 (agile)\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +10 (agile, thrown 20 ft.)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+10 (agile, thrown 20 ft.)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Innate Primal Spells"
     desc: "DC 16, attack +8; __2nd __ (1 slots) _[[Spells/Shatter|Shatter]]_, _[[Spells/Speak with Animals|Speak with Animals (At Will)]]_; __1st __ (2 slots) _[[Spells/Ant Haul|Ant Haul]]_, _[[Spells/Gentle Landing|Feather Fall]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"

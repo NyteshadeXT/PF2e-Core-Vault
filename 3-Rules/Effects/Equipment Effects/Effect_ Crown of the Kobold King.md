@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Crown of the Kobold King|Crown of the Kobold King]]
+
 You gain a +1 status bonus to attack rolls, saving throws, and Charisma-based skill checks.
 
 *Source: Pathfinder Adventure: Crown of the Kobold King*

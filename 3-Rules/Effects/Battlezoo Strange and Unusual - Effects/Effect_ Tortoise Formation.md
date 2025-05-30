@@ -16,7 +16,7 @@ license: OGL
 
 
 
-When the arrongtata swarm gets into Tortoise Formation, it gains a +2 circumstance bonus to AC and Reflex saves and is Immobilized.
+When the arrongtata swarm gets into Tortoise Formation, it gains a +2 circumstance bonus to AC and Reflex saves and is [[undefined]].
 
 *Source: Battlezoo Bestiary: Strange and Unusual*
 *OGL*

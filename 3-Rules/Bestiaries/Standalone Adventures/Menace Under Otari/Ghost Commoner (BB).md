@@ -3,7 +3,7 @@ title: "Ghost Commoner (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.2H2AEwQnfKJC0nrd" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.N98ug9jQHqeFoK1N" 
 tags:
   - pf2e/creature/type/ghost
   - pf2e/creature/type/incorporeal
@@ -71,8 +71,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +13 (agile, finesse, magical)\n__Damage__  2d6 + 2 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+13 (agile, finesse, magical)\n__Damage__  2d6 + 2 void"
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Frightful Moan|Frightful Moan]]"
     desc: "`pf2:2` (divine,fear,mental) Each living creature within 30 feet who hears the ghost must attempt a DC 21 Will check save. On a failure, a creature gains the [[Conditions/Frightened|Frightened 2]] condition (or [[Conditions/Frightened|Frightened 3]] on a critical failure).\n\nOn a success, a creature can't be affected by this ghost's Frightful Moan for 1 minute."

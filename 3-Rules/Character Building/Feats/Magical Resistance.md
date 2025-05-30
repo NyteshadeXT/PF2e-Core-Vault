@@ -6,8 +6,9 @@ tags:
   - trait/automaton
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.xoB4RDYkdAALt0U4"
-license: OGL
+license: ORC
 ---
 # Magical Resistance
 ## Feat 5
@@ -23,4 +24,4 @@ Your animating magic provides some defense. Choose one of the following energy d
 **Enhancement** You tap deeper into your animating magic, and your resistances improve. Choose one of the following benefits: you gain resistance 5 to the remaining two damage types from the above list, or your chosen resistance increases to a value equal to 1 + half your level.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

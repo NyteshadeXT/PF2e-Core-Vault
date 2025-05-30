@@ -7,7 +7,7 @@ tags:
   - trait/concentrate
   - trait/emotion
   - trait/mental
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9"
@@ -15,7 +15,7 @@ license: ORC
 ---
 # Rage `pf2:1`
 
-### [[barbarian]][[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Mental]]
+### [[barbarian]][[concentrate]][[emotion]][[mental]]
 
 **Category** offensive; 
 

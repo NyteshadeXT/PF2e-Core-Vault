@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You can project a spiritual form to possess another. You can cast [[3-Rules/Character Building/Spells/P/Possession|Possession]] as an innate divine spell once per day. The target of your possession assumes one or more unusual quirks, such as more angular features or strange food preferences, giving the target a –1 circumstance penalty to their Deception DC when someone uses [[Actions/Sense Motive|Sense Motive]] to see if they're possessed.
+You can project a spiritual form to possess another. You can cast [[Spells/Possession|Possession]] as an innate divine spell once per day. The target of your possession assumes one or more unusual quirks, such as more angular features or strange food preferences, giving the target a –1 circumstance penalty to their Deception DC when someone uses [[Actions/Sense Motive|Sense Motive]] to see if they're possessed.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

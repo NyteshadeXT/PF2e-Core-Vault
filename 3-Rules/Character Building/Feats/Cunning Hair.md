@@ -20,5 +20,5 @@ license: OGL
 
 Your hair moves under your control. You can perform simple [[Actions/Interact|Interact]] actions with your hair, such as opening an unlocked door. Your hair can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

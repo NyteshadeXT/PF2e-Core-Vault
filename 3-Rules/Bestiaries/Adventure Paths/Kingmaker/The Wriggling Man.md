@@ -55,16 +55,28 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Compendium.pf2e.equipment-srd.Item.GlyiVrIokFpFFRu2|Staff of Transmutation (Major)]], [[Equipment/Leather Armor|+2 Greater Resilient Greater Fire-Resistant Leather Armor]], [[Equipment/Spacious Pouch (Type IV)|Bag of Holding (Type IV)]]"
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 20]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
+  - name: "[[Bestiary Ability Glossary/Swarm Mind|Swarm Mind]]"
+    desc: "  This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
+
   - name: "Discorporate"
     desc: " (splash) When the worm that walks is reduced to 0 HP, it discorporates and the component worms that make up its body disperse in every direction. If even a single worm escapes, the worm that walks will eventually re-form using a process that typically takes 1d10 days.\n\nWhile the exact circumstances and surroundings determine how long the worm that walks's foes have to dispatch the fleeing worms before they escape, usually its foes have only a single round. Typically, this requires the application of an area effect or splash weapon within 1 round to the space where the worm that walks collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 Flat check check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the worms escape, and the worm that walks is destroyed permanently.\n\nAt the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the worm that walks."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +36 (reach 10 feet)\n__Damage__  4d12 + 13 piercing"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+36 (reach 10 feet)\n__Damage__  4d12 + 13 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 44, attack +36; __10th __  _[[Spells/Freeze Time|Time Stop]]_; __9th __  _[[Spells/Disjunction|Disjunction]]_; __8th __  _[[Spells/Hidden Mind|Mind Blank]]_; __7th __  _[[Spells/Contingency|Contingency]]_, _[[Spells/Project Image|Project Image]]_, _[[Spells/Reverse Gravity|Reverse Gravity]]_; __6th __  _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Mind Probe|Mind Probe]]_; __4th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Compendium.pf2e.spells-srd.Item.hkfH9Z53hPzcOwNB|Veil]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(10th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"

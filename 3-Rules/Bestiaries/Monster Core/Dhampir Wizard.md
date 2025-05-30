@@ -60,20 +60,23 @@ abilities_mid:
   - name: "Blood of the Night"
     desc: "  The dhampir's penalty and Hit Point reduction from the [[Conditions/Drained|Drained]] condition are reduced as though the condition value were 1 lower."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +6 (two-hand d8)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+6 (two-hand d8)\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +7 (agile, finesse, nonlethal)\n__Damage__  1d4 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+7 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 2 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +7 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+7 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 18, attack +8; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Force Barrage|Force Barrage]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Frostbite|Frostbite]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Void Warp|Void Warp]]_"

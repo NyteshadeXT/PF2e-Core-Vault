@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Lich Dedication; master in Intimidation
 * * *
-You're surrounded by a palpable sense of menace and power that's terrifying to behold. The aura is a @Template\[emanation|distance:15\]. An enemy that enters or ends its turn in the aura must attempt a Will check save against the higher of your spell DC or class DC.
+You're surrounded by a palpable sense of menace and power that's terrifying to behold. The aura is a 15-foot emanation. An enemy that enters or ends its turn in the aura must attempt a Will check save against the higher of your spell DC or class DC.
 
 **Success** The creature is unaffected and temporarily immune to your Frightful Aura for 1 minute.
 

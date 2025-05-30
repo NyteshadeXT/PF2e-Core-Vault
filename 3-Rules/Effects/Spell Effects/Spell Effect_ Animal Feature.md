@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Animal Feature|Animal Feature]]
+Granted by [[Spells/Animal Feature|Animal Feature]]
 
-Without fully transforming your body, you gain one animalistic feature.
+You gain one animalistic feature.
 
 *Source: Pathfinder Player Core*
 *ORC*

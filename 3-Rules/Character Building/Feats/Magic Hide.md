@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** an animal companion; warden spells
 * * *
-You can defend your companion in battle. You gain the [[3-Rules/Character Building/Spells/M/Magic Hide|Magic Hide]] warden spell. Increase the number of Focus Points in your focus pool by 1.
+You can defend your companion in battle. You gain the [[Spells/Magic Hide|Magic Hide]] warden spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +33 (magical, reach 10 feet, unholy)\n__Damage__  3d12 + 17 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+33 (magical, reach 10 feet, unarmed, unholy)\n__Damage__  3d12 + 17 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +33 (agile, magical, reach 10 feet, unholy)\n__Damage__  1d6 bleed 3d6 + 17 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+33 (agile, magical, reach 10 feet, unarmed, unholy)\n__Damage__  1d6 bleed 3d6 + 17 slashing"
 
   - name: "Divine Innate Spells"
     desc: "DC 34, attack +26; __8th __  _[[Spells/Divine Wrath|Divine Wrath]]_; __7th __  _[[Spells/Divine Decree|Divine Decree]]_; __6th __  _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_; __5th __  _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Translocate|Translocate (At Will)]]_\n__Cantrips__  __(8th)__ _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

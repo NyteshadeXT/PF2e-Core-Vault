@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Stone Fist Elixir|Stone Fist Elixir]]
+Granted by [[Equipment/Stone Fist Elixir|Stone Fist Elixir]]
+
+Your fists deal 1d6 bludgeoning damage and lose the nonlethal trait.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

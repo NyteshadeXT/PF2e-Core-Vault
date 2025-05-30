@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Granted by [[Gravity Weapon|Gravity Weapon]].
+Granted by [[Spells/Gravity Weapon|Gravity Weapon]]
+
+On your first weapon Strike each round, you gain a status bonus to damage equal to twice the number of weapon damage dice.
 
 *Source: Pathfinder Player Core*
 *ORC*

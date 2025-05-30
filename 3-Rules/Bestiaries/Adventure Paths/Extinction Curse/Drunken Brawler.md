@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +8 (agile, nonlethal)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+8 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 3 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Improvised Weapon +6 (versatile p, versatile s)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Improvised Weapon"
+    desc: "+6 (versatile p, versatile s)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Drunken Rage"
     desc: "`pf2:1` (concentrate,emotion,mental) **Requirements** The drunken brawler isn't [[Conditions/Fatigued|Fatigued]] or raging\n* * *\n\n**Effect** The drunken brawler begins raging. They gain 4 temporary Hit Points and deal 1 additional damage with fist Strikes. They have a -1 penalty to AC and can't use actions with the concentrate trait unless those actions also have the rage trait. The drunken brawler can still [[Actions/Seek|Seek]] while in a drunken rage. The rage lasts for 1 minute or until the drunken brawler falls [[Conditions/Unconscious|Unconscious]], whichever comes first. When the drunken rage is over, the drunken brawler is fatigued, loses all temporary Hit Points they received from the rage, and cannot rage again for 1 minute.\n\n[[Feat_Feature Effects/Effect_ Rage|Effect: Rage]]"

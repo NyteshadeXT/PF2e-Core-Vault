@@ -61,6 +61,9 @@ abilities_top:
   - name: "Wild Empathy"
     desc: "  Nyrissa can use Diplomacy to [[Actions/Make an Impression|Make an Impression]] on and make very simple Requests of animals and plant creatures."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Blinding Beauty"
@@ -75,11 +78,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Thorny Lash +41 (agile, finesse, magical)\n__Damage__  4d10 poison 4d6 + 14 slashing"
+  - name: "**Melee** `pf2:1` Thorny Lash"
+    desc: "+41 (agile, finesse, magical)\n__Damage__  4d10 poison 4d6 + 14 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hurled Thorn +41 (range increment 60 feet)\n__Damage__  2d6 + 14 piercing 2d10 poison"
+  - name: "**Ranged** `pf2:1` Hurled Thorn"
+    desc: "+41 (range increment 60 feet)\n__Damage__  2d6 + 14 piercing 2d10 poison"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 46, attack +42; __10th __ (1 slots) _[[Spells/Wish|Wish]]_; __9th __ (3 slots) _[[Spells/Contingency|Contingency]]_, _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Disjunction|Disjunction]]_, _[[Spells/Dominate|Dominate]]_, _[[Spells/Teleport|Teleport]]_; __8th __ (4 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Pinpoint|Discern Location]]_, _[[Spells/Quandary|Maze]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (4 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Interplanar Teleport|Plane Shift]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Project Image|Project Image]]_; __6th __ (4 slots) _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_, _[[Spells/Petrify|Flesh to Stone]]_, _[[Spells/Mislead|Mislead]]_, _[[Spells/Truesight|True Seeing]]_; __5th __ (4 slots) _[[Spells/False Vision|False Vision]]_, _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Sending|Sending]]_, _[[Spells/Truespeech|Tongues]]_; __4th __ (4 slots) _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_, _[[Spells/Peaceful Bubble|Private Sanctum]]_, _[[Spells/Shape Stone|Shape Stone]]_; __3rd __ (4 slots) _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/One with Stone|Meld into Stone]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Shrink Item|Shrink Item]]_; __2nd __ (4 slots) _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (4 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_"
@@ -91,10 +94,10 @@ attacks:
     desc: "3 Focus Points, DC 46, attack +42; __10th __  _[[Spells/Faerie Dust|Faerie Dust]]_, _[[Spells/Fey Disappearance|Fey Disappearance]]_, _[[Spells/Fey Glamour|Fey Glamour]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Awaken Animal|Awaken Animal]]_, _[[Compendium.pf2e.spells-srd.Item.l4LFwY7iuzX6sDXr|Commune with Nature]]_, _[[Spells/Control Weather|Control Weather]]_, _[[Spells/Create Demiplane|Create Demiplane]]_, _[[Spells/Geas|Geas]]_, _[[Spells/Inveigle|Inveigle]]_, _[[Spells/Primal Call|Primal Call]]_"
+    desc: "_Awaken Animal_, _Commune with Nature_, _Control Weather_, _Create Demiplane_, _Geas_, _Inveigle_, _Primal Call_"
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n\n* * *\n"
+    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Contingency"
     desc: "`pf2:r`  **Trigger** Nyrissa is damaged by a melee strike\n\n**Effect** [[Spells/Mislead|Mislead]] activates on Nyrissa."

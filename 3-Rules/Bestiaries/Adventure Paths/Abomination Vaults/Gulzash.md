@@ -66,20 +66,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Lute +14 (shove, two-hand d8)\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Battle Lute"
+    desc: "+14 (shove, two-hand d8)\n__Damage__  1d4 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 ()\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (unarmed)\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile)\n__Damage__  1d4 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, unarmed)\n__Damage__  1d4 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +13 (agile, versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+13 (agile, versatile s)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
 
   - name: "Mosh"
     desc: "`pf2:1`  Gulzash Leaps to a square adjacent to a creature, then [[Actions/Shove|Shoves]] that creature. If Gulzash rolls a success on the Shove, he gets a critical success instead."

@@ -35,7 +35,7 @@ hp: 58
 health:
   - name: ""
   - name: "HP"
-    desc: "58,  (BT 29); __Hardness__ 14; __Immunities__  object immunities,  critical hits,  precision"
+    desc: "58, (BT 29); __Hardness__ 14; __Immunities__  object immunities,  critical hits,  precision"
 perception:
   - name: ""
   - name: "Stealth DC 18" 

@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Sure Strike|Sure Strike]].
+Granted by [[Spells/Sure Strike|Sure Strike]]
 
-A glimpse into the future ensures your next blow strikes true. The next time you make an attack roll before the end of your turn, roll the attack twice and use the better result. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]].
+The next time you make an attack roll, roll twice and use the better result. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being Concealed or Hidden.
 
 *Source: Pathfinder Player Core*
 *ORC*

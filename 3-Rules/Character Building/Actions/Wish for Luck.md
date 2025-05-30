@@ -6,14 +6,14 @@ tags:
   - trait/arcane
   - trait/auditory
   - trait/fortune
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.N6U02s9qJKQIvmQd"
 license: OGL
 ---
 # Wish for Luck `pf2:0`
 
-### [[3-Rules/Rule References/Arcane]][[3-Rules/Rule References/auditory]][[fortune]]
+### [[arcane]][[auditory]][[fortune]]
 
 **Category** interaction; 
 

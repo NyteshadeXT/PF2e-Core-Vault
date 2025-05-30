@@ -19,7 +19,7 @@ license: OGL
 
 **Trigger** An adjacent creature Strikes you with a melee weapon or unarmed attack and deals damage
 
-**Requirements** Your innate [[Mountain Resilience|Mountain Resilience]] from [[Feats/Glass Skin|Glass Skin]] is active
+**Requirements** Your innate [[Spells/Mountain Resilience|Mountain Resilience]] from [[Feats/Glass Skin|Glass Skin]] is active
 
 * * *
 

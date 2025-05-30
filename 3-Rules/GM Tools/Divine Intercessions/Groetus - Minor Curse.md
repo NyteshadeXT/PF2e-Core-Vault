@@ -18,5 +18,5 @@ license: OGL
 
 Whenever you are illuminated by a light source other than natural sunlight, your head appears to be a bare skull. The DC for your recovery checks is 12 + your dying value, rather than 10 + your dying value, and you don't benefit from effects that reduce the DC, such as from the [[Feats/Toughness|Toughness]] feat.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

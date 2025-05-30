@@ -56,7 +56,10 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "6x [[Equipment/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate) (Infused)]], 6x [[Equipment/Sulfur Bomb (Moderate)|Sulfur Bomb (Moderate) (Infused)]], [[Equipment/Dagger|+1 Striking Dagger]], [[Equipment/Alchemist's Lab (Expanded)|Alchemist's Lab (Expanded)]], [[Equipment/Formula Book (Blank)|Formula Book]], [[Item.2TANKQXO6xntX5MT|Demon's Knot]], 2x [[Equipment/Elixir of Life (Moderate)|Elixir of Life (Moderate) (Infused)]]"
+    desc: "6x [[Equipment/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate) (Infused)]], 6x [[Equipment/Sulfur Bomb (Moderate)|Sulfur Bomb (Moderate) (Infused)]], [[Equipment/Dagger|+1 Striking Dagger]], [[Equipment/Alchemist's Lab (Expanded)|Alchemist's Lab (Expanded)]], [[Equipment/Formula Book (Blank)|Formula Book]], [[Equipment/Demon's Knot|Demon's Knot]], 2x [[Equipment/Elixir of Life (Moderate)|Elixir of Life (Moderate) (Infused)]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 30 feet (Munavris Only)]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Infused Items"
     desc: "  Ashrin carries the following infused items, which last for 24 hours or until the next time he makes his daily preparations: [[Equipment/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]] (6), [[Equipment/Elixir of Life (Moderate)|Elixir of Life (Moderate)]] (2), [[Equipment/Sulfur Bomb (Moderate)|Sulfur Bomb (Moderate)]] (6)"
 
@@ -65,20 +68,23 @@ abilities_mid:
   - name: "Demon Touched"
     desc: "  Ashrin is a puppet of the demon Kaivirris. He's harmed by spirit damage as if he were a fiend."
 
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +20 (agile, finesse, versatile b)\n__Damage__  2d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+20 (agile, finesse, versatile b)\n__Damage__  2d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +20 (agile, magical, thrown 10 ft., versatile b)\n__Damage__  2d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+20 (agile, magical, thrown 10 ft., versatile b)\n__Damage__  2d4 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Moderate Alchemist&#x27;s Fire +20 (bomb, consumable, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
+  - name: "**Melee** `pf2:1` Moderate Alchemist&#x27;s Fire"
+    desc: "+20 (bomb, consumable, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Moderate Sulfur Bomb +20 (bomb, consumable, olfactory, splash)\n__Damage__  2d4 acid 2 acid"
+  - name: "**Melee** `pf2:1` Moderate Sulfur Bomb"
+    desc: "+20 (bomb, consumable, olfactory, splash)\n__Damage__  2d4 acid 2 acid"
 
   - name: "[[Actor.jJbVPd1M6RlZP8kA.Item.i5ZvpW8aEneJO2Iz|Fiendish Infusion]]"
     desc: "`pf2:1` (concentrate,manipulate) **Requirements** Ashrin has a free hand\n* * *\n\n**Effect** Ashrin Interacts to draw a bomb, then funnels abyssal energy from Kaivirris into that bomb. Until the end of Ashrin's turn, the bomb deals an extra 3d8 void damage."

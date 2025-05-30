@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +9 (magical, two-hand d8)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+9 (magical, two-hand d8)\n__Damage__  1d4 + 3 bludgeoning"
 
   - name: "Druid Prepared Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Shillelagh|Shillelagh]]_, _[[Spells/Summon Fey|Summon Fey]]_\n__Cantrips__  __(1st)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

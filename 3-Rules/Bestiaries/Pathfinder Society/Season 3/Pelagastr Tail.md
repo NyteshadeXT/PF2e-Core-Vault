@@ -58,8 +58,14 @@ abilities_top:
   - name: "Out of Phase"
     desc: "  The pelagastr tail weakens as the Lodge's connection to reality is reestablished by the _Material Failsafe_. The first time the failsafe is activated, the pelagastr tail loses the Discordant Diversion reaction. The second time the failsafe is activated, it loses the Constrict ability. The third time the failsafe is activated, the pelagastr tail loses fast healing, takes 3d6 damage, and becomes [[Conditions/Slowed|Slowed 1]] until it leaves the Woodsedge Lodge and returns to the Maelstrom."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 1]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "Discordant Diversion"
     desc: "`pf2:r`  **Trigger** A creature within 30 feet attempts to Communicate from Beyond.\n* * *\n\n**Effect** A shimmer of distracting chaos flashes out from the pelagastr tail. Unless the triggering creature succeeds at a DC 17 Will check save, the activity is disrupted."
 
@@ -69,23 +75,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail Slap +10 (magical, reach 10 feet)\n__Damage__  1d12 + 3 bludgeoning plus grab 1d4 spirit plus grab"
+  - name: "**Melee** `pf2:1` Tail Slap"
+    desc: "+10 (magical, reach 10 feet)\n__Damage__  1d12 + 3 bludgeoning plus grab 1d4 spirit plus grab"
 
   - name: "Divine Innate Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will)(Lawful Only)]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6+3 bludgeoning, DC 17 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d6+3 bludgeoning, DC 17 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Inflict Lesser Warpwave"
-    desc: "`pf2:1` (divine) The pelagastr tail inflicts a lesser warpwave on a creature within 30 feet (DC 20 Fortitude check save to resist).\n* * *\n\n## Lesser Warpwave Effect\n\n  \n\n| D8 | Lesser Warpwave Effect |\n| --- | --- |\n| 1 | [[Conditions/Clumsy\\|Clumsy 1]]([[Conditions/Clumsy\\|Clumsy 2]] on a critical failure) |\n| 2 | [[Conditions/Off-Guard\\|Off-Guard]] and gain 1d6 Hit Points |\n| 3 | [[Conditions/Dazzled\\|Dazzled]] |\n| 4 | [[Conditions/Enfeebled\\|Enfeebled 1]]([[Conditions/Enfeebled\\|Enfeebled 2]] on a critical failure) |\n| 5 | [[Conditions/Immobilized\\|Immobilized]] by filaments of energy |\n| 6 | [[Conditions/Quickened\\|Quickened]](Step, Stride, or Strike only) |\n| 7 | [[Conditions/Slowed\\|Slowed 1]] |\n| 8 | [[Conditions/Stupefied\\|Stupefied 1]]([[Conditions/Stupefied\\|Stupefied 2]] on a critical failure) |"
+    desc: "`pf2:1` (divine) The pelagastr tail inflicts a lesser warpwave on a creature within 30 feet (DC 20 Fortitude check save to resist).\n* * *\n\n## Lesser Warpwave Effect\n\n  \n\n| D8 | Lesser Warpwave Effect |\n| --- | --- |\n| 1 | [[Conditions/Clumsy\\|Clumsy 1]]([[Conditions/Clumsy\\|Clumsy 2]] on a critical failure) |\n| 2 | [[Conditions/Off-Guard\\|Off-Guard]] and gain 1d6 healing Hit Points |\n| 3 | [[Conditions/Dazzled\\|Dazzled]] |\n| 4 | [[Conditions/Enfeebled\\|Enfeebled 1]]([[Conditions/Enfeebled\\|Enfeebled 2]] on a critical failure) |\n| 5 | [[Conditions/Immobilized\\|Immobilized]] by filaments of energy |\n| 6 | [[Conditions/Quickened\\|Quickened]](Step, Stride, or Strike only) |\n| 7 | [[Conditions/Slowed\\|Slowed 1]] |\n| 8 | [[Conditions/Stupefied\\|Stupefied 1]]([[Conditions/Stupefied\\|Stupefied 2]] on a critical failure) |"
 
   - name: "Warping Squeeze"
     desc: " (divine) Any creature damaged by the pelagastr tail's Constrict ability must succeed at a DC 20 Fortitude check save or be subject to a lesser warpwave."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

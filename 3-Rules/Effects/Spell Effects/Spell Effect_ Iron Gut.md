@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Iron Gut|Iron Gut]]
+Granted by [[Spells/Iron Gut|Iron Gut]]
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+You gain a +4 circumstance bonus to your Stealth checks to Conceal the Object unless the searcher specifically searches your mouth and stomach.
+
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

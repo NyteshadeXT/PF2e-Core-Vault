@@ -21,5 +21,5 @@ license: ORC
 
 Injuries don't bother you anymore—in fact, the pain invigorates you. If you're at or below half of your maximum Hit Points, you gain a 10-foot status bonus to all of your Speeds.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

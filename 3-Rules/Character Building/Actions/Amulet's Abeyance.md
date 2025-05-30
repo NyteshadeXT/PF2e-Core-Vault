@@ -6,14 +6,14 @@ tags:
   - trait/magical
   - trait/manipulate
   - trait/thaumaturge
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.Or6RLXeoZkN8CLdi"
 license: OGL
 ---
 # Amulet's Abeyance `pf2:r`
 
-### [[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Manipulate]][[thaumaturge]]
+### [[magical]][[manipulate]][[thaumaturge]]
 
 **Category** defensive; 
 
@@ -27,6 +27,8 @@ license: OGL
 * * *
 
 You forcefully present your amulet to turn away harm. You or a target ally within 15 feet gain resistance to all damage against the triggering damage. The resistance is equal to 2 + your level.
+
+[[Feat_Feature Effects/Effect_ Amulet's Abeyance|Effect: Amulet's Abeyance]]
 
 *Source: Pathfinder Dark Archive*
 *OGL*

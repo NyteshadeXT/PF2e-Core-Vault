@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Adversary Lore"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.XBf4Uz3n0AwSmpXx"
 license: OGL
 ---
 # Adversary Lore
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

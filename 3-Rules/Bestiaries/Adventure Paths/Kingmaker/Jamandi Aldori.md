@@ -62,13 +62,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Aldori Dueling Sword +29 (finesse, magical, versatile p)\n__Damage__  2d8 + 9 slashing"
+  - name: "**Melee** `pf2:1` Aldori Dueling Sword"
+    desc: "+29 (finesse, magical, versatile p)\n__Damage__  2d8 + 9 slashing"
 
   - name: "Aldori Parry"
     desc: "`pf2:1`  **Requirement** Jamandi wields only an Aldori dueling sword and her other hand is free\n\n**Effect** Jamandi parries attacks against her with her sword, and gains a +2 circumstance bonus to her AC until the start of her next turn as long as she continues to meet the requirement.\n\n[[Feat_Feature Effects/Effect_ Dueling Parry|Effect: Aldori Parry]]"

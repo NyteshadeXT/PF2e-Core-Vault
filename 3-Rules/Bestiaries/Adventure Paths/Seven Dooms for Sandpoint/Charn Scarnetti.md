@@ -56,14 +56,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +12 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+12 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 (agile, finesse, nonlethal)\n__Damage__  1d4 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 5 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hatchet +22 (agile, finesse, magical)\n__Damage__  1d6 bleed 2d6 + 11 void"
+  - name: "**Melee** `pf2:1` Ghostly Hatchet"
+    desc: "+22 (agile, finesse, magical)\n__Damage__  1d6 bleed 2d6 + 11 void"
 
   - name: "Lip Reader"
     desc: "  After years of sticking their nose where it doesn't belong, the noble has learned to read lips from afar, with the effects of the [[Feats/Read Lips|Read Lips]] feat."

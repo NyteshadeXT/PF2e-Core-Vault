@@ -12,13 +12,13 @@ license: ORC
 ---
 # Vernai Training
 ## Feat 12
-### [rare](rare.md "Rare Rarity Trait")[[archetype]]
+### [rare](rare "Rare Rarity Trait")[[archetype]]
 
 **Category** class; 
 
 
 
-**Prerequisites** Achaekek's Grip; Advanced Red Mantis Magic
+**Prerequisites** Achaekek's Grip; Basic Red Mantis Magic
 * * *
 To resurrect a creature you've slain, a spellcaster must counteract your influence on its death. The DC of this check is equal to your class DC or spell DC, whichever is higher.
 

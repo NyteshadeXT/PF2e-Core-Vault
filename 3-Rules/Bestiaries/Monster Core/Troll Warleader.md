@@ -62,26 +62,29 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 20 (Deactivated by Electricity or Fire)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Furious Roar"
     desc: "`pf2:r`  **Trigger** The troll warleader takes electricity or fire damage\n* * *\n\n**Effect** The warleader uses their Primordial Roar and, if they're aware of the damage's source, can Stride toward it. If the warleader has persistent fire damage, they attempt a DC 15 Flat check to remove it."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +23 (reach 10 feet)\n__Damage__  2d12 + 13 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+23 (reach 10 feet, unarmed)\n__Damage__  2d12 + 13 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile, reach 10 feet)\n__Damage__  2d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, reach 10 feet, unarmed)\n__Damage__  2d8 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +24 (magical, reach 10 feet, sweep)\n__Damage__  2d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+24 (magical, reach 10 feet, sweep)\n__Damage__  2d8 + 13 slashing"
 
   - name: "Primordial Roar"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The troll warleader unleashes a bestial roar. Each non-troll creature in a @Template[emanation|distance:100] must attempt a DC 29 Will check save. The creature is then temporarily immune for 10 minutes.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]]."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The troll warleader unleashes a bestial roar. Each non-troll creature in a 100-foot emanation must attempt a DC 29 Will check save. The creature is then temporarily immune for 10 minutes.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]]."
 
   - name: "Shed Armor"
     desc: "`pf2:1` (manipulate) The warleader cuts their armor loose from their flesh. They immediately heal 60 Hit Points in a surge of regeneration as they grow twisted limbs and malformed faces.\n\nWithout their armor, the warleader's AC drops to 26 but they gain [[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]] from the new faces.\n\nPutting the armor back on takes 10 minutes, and this ability can't be used again until 1 hour has passed."

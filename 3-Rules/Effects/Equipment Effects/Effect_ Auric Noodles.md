@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Auric Noodles|Auric Noodles]]
+
 You gain a +1 item bonus to checks to Identify Magic.
 
 *Source: Pathfinder Treasure Vault*

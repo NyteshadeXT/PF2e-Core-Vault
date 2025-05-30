@@ -8,10 +8,11 @@ tags:
   - trap
   - pf2eHazard
 
+  - remaster
 source: Pathfinder Guns &amp; Gears
 aliases: "Compendium.pf2e.hazards.Actor.mWhmhYBHH9X1Ebb9" 
 level: 8
-license: OGL
+license: ORC
 statblock: inline
 ---
 

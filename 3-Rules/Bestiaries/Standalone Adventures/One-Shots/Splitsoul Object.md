@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Object +11 ()\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Object"
+    desc: "+11 ()\n__Damage__  1d6 + 3 bludgeoning"
  
 ```
 

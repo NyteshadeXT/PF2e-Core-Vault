@@ -8,28 +8,31 @@ tags:
 ---
 
 # 13th-Level Permanent Items
-Table of 13th-Level Permanent Items
+<p>Table of 13th-Level Permanent Items</p>
 
-| 1d108 | result |
+| 1d126 | result |
 |------|--------|
-| 1-6 | [[Holy Chain\|Celestial Armor]] |
-| 7-12 | [[Unholy Plate\|Demon Armor]] |
-| 13-15 | [[Elven Chain (Standard-Grade)\|Elven Chain (Standard-Grade)]] |
-| 16-21 | [[Mail of Luck\|Mail of Luck]] |
-| 22-27 | [[Spacious Pouch (Type IV)\|Bag of Holding (Type IV)]] |
-| 28-33 | [[Wondrous Figurine (Marble Elephant)\|Wondrous Figurine (Marble Elephant)]] |
-| 34-36 | [[3-Rules/Character Building/Equipment/A/Animated\|Dancing]] |
-| 37-39 | [[Keen\|Keen]] |
-| 40-42 | [[Spell Reservoir\|Spell-Storing]] |
-| 43-48 | [[Sturdy Shield (Greater)\|Sturdy Shield (Greater)]] |
-| 49-54 | [[Magic Wand (6th-Rank Spell)\|Magic Wand (6th-Rank Spell)]] |
-| 55-60 | [[Wand of Continuation (5th-Rank Spell)\|Wand of Continuation (5th-Rank Spell)]] |
-| 61-66 | [[Wand of Shardstorm (5th-Rank Spell)\|Wand of Manifold Missiles (5th-Rank Spell)]] |
-| 67-72 | [[Dwarven Thrower\|Dwarven Thrower]] |
-| 73-78 | [[Searing Blade\|Flame Tongue]] |
-| 79-81 | [[3-Rules/Character Building/Equipment/A/Aeon Stone (Pale Lavender Ellipsoid)\|Aeon Stone (Pale Lavender Ellipsoid)]] |
-| 82-87 | [[Propulsive Boots\|Boots of Speed]] |
-| 88-93 | [[Eye of Fortune\|Eye of Fortune]] |
-| 94-96 | [[Knapsack of Halflingkind (Greater)\|Knapsack of Halflingkind (Greater)]] |
-| 97-102 | [[Necklace of Fireballs V\|Necklace of Fireballs V]] |
-| 103-108 | [[Ring of the Ram (Greater)\|Ring of the Ram (Greater)]] |
+| 1-3 | [[Equipment/Elven Chain (Standard-Grade)\|Elven Chain (Standard-Grade)]] |
+| 4-9 | [[Equipment/Eternal Eruption of Droskar's Crag\|Eternal Eruption of Droskar's Crag]] |
+| 10-15 | [[Equipment/Slates of Distant Letters\|Slates of Distant Letters]] |
+| 16-21 | [[Equipment/Spacious Pouch (Type IV)\|Spacious Pouch (Type IV)]] |
+| 22-24 | [[Equipment/Animated\|Animated]] |
+| 25-30 | [[Equipment/Extending (Greater)\|Extending (Greater)]] |
+| 31-33 | [[Equipment/Keen\|Keen]] |
+| 34-39 | [[Equipment/Reinforcing Rune (Greater)\|Reinforcing Rune (Greater)]] |
+| 40-42 | [[Equipment/Shockwave\|Shockwave]] |
+| 43-45 | [[Equipment/Spell Reservoir\|Spell Reservoir]] |
+| 46-51 | [[Equipment/Winged\|Winged]] |
+| 52-57 | [[Equipment/Sturdy Shield (Greater)\|Sturdy Shield (Greater)]] |
+| 58-63 | [[Equipment/Magic Wand (6th-Rank Spell)\|Magic Wand (6th-Rank Spell)]] |
+| 64-69 | [[Equipment/Wand of Continuation (5th-Rank Spell)\|Wand of Continuation (5th-Rank Spell)]] |
+| 70-75 | [[Equipment/Wand of Shardstorm (5th-Rank Spell)\|Wand of Shardstorm (5th-Rank Spell)]] |
+| 76-81 | [[Equipment/Searing Blade\|Searing Blade]] |
+| 82-87 | [[Equipment/Eye of Fortune\|Eye of Fortune]] |
+| 88-93 | [[Equipment/Hellfire Boots\|Hellfire Boots]] |
+| 94-99 | [[Equipment/Propulsive Boots\|Propulsive Boots]] |
+| 100-102 | [[Equipment/Retrieval Belt (Major)\|Retrieval Belt (Major)]] |
+| 103-108 | [[Equipment/Holy Chain\|Holy Chain]] |
+| 109-114 | [[Equipment/Unholy Plate\|Unholy Plate]] |
+| 115-120 | [[Equipment/Medusa's Scream\|Medusa's Scream]] |
+| 121-126 | [[Equipment/Wand of Overflowing Life (5th-Rank Spell)\|Wand of Overflowing Life (5th-Rank Spell)]] |

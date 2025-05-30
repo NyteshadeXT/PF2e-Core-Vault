@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Meditate On This!"
+title: "Meditate on This!"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/barbarian
@@ -15,9 +15,9 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.Q9tL7cRTpPD04iPa"
 license: ORC
 ---
-# Meditate On This! `pf2:1`
+# Meditate on This! `pf2:1`
 ## Feat 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[barbarian]][[concentrate]][[emotion]][[incapacitation]][[3-Rules/trait_reference/M/mental]][[3-Rules/trait_reference/R/rage]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[barbarian]][[concentrate]][[emotion]][[incapacitation]][[mental]][[rage]]
 
 **Category** class; 
 
@@ -41,5 +41,5 @@ You meditate to alter your qi, coloring it with your resentment and anger. Until
 
 **Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] until the end of its next turn.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

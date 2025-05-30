@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` War Razor +7 (agile, backstabber, deadly d8, finesse)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` War Razor"
+    desc: "+7 (agile, backstabber, deadly d8, finesse)\n__Damage__  1d4 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +7 (propulsive, range 50 feet, reload 1)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+7 (propulsive, range 50 feet, reload 1)\n__Damage__  1d6 + 2 bludgeoning"
 
   - name: "Bloody Shave"
     desc: "`pf2:1`  **Trigger** The Bloody Barber leader makes a successful war razor Strike and has one free hand\n* * *\n\n**Effect** The target of the triggering war razor Strike is [[Conditions/Off-Guard|Off-Guard]] until the start of the leader's next turn or until it leaves the leader's reach, whichever comes first."

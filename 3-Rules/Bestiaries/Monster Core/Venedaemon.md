@@ -54,6 +54,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Smell Magic (Imprecise) 60 feet"
     desc: "  A venedaemon is aware of magical items and active spells as an imprecise sense. The subtle differences in these scents reveal the tradition and traits of the magic."
 
@@ -62,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +13 (agile, finesse, magical, reach 10 feet, unholy)\n__Damage__  2d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+13 (agile, finesse, magical, reach 10 feet, unarmed, unholy)\n__Damage__  2d6 + 5 bludgeoning"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 22, attack +14; __3rd __ (3 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Levitate|Levitate]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (4 slots) _[[Spells/Blazing Bolt|Blazing Bolt]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Noise Blast|Noise Blast]]_; __1st __ (4 slots) _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Force Barrage|Force Barrage]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_\n__Cantrips__  __(3rd)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Void Warp|Void Warp]]_"

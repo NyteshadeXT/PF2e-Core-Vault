@@ -12,17 +12,20 @@ Table of 4th-Level Permanent Items
 
 | 1d84 | result |
 |------|--------|
-| 1-6 | [[Spacious Pouch (Type I)\|Bag of Holding (Type I)]] |
-| 7-12 | [[Ghost Touch\|Ghost Touch]] |
-| 13-18 | [[Striking\|Striking]] |
-| 19-24 | [[Sturdy Shield (Minor)\|Sturdy Shield (Minor)]] |
-| 25-30 | [[3-Rules/Character Building/Equipment/A/Animal Staff\|Animal Staff]] |
-| 31-36 | [[Mentalist's Staff\|Mentalist's Staff]] |
-| 37-42 | [[Staff of Healing\|Staff of Healing]] |
-| 43-48 | [[Wand of Widening (1st-Rank Spell)\|Wand of Widening (1st-Rank Spell)]] |
-| 49-54 | Weapon (+1 Striking) |
-| 55-60 | [[3-Rules/Character Building/Equipment/A/Alchemist Goggles\|Alchemist Goggles]] |
-| 61-66 | +1 striking Handwraps of Mighty Blows |
-| 67-72 | [[Demon Mask\|Demon Mask]] |
-| 73-78 | [[Healer's Gloves\|Healer's Gloves]] |
-| 79-84 | [[Lifting Belt\|Lifting Belt]] |
+| 1-6 | [[Equipment/Spacious Pouch (Type I)\|Spacious Pouch (Type I)]] |
+| 7-12 | [[Equipment/Ghost Touch\|Ghost Touch]] |
+| 13-18 | [[Equipment/Reinforcing Rune (Minor)\|Reinforcing Rune (Minor)]] |
+| 19-24 | [[Equipment/Striking\|Striking]] |
+| 25-30 | [[Equipment/Sturdy Shield (Minor)\|Sturdy Shield (Minor)]] |
+| 31-36 | [[Equipment/Animal Staff\|Animal Staff]] |
+| 37-42 | [[Equipment/Mentalist's Staff\|Mentalist's Staff]] |
+| 43-48 | [[Equipment/Staff of Healing\|Staff of Healing]] |
+| 49-54 | [[Equipment/Wand of Widening (1st-Rank Spell)\|Wand of Widening (1st-Rank Spell)]] |
+| 55-60 | Striking Weapon (+1) |
+| 61-66 | Striking Handwraps of Mighty Blows (+1) |
+| 67-72 | [[Equipment/Demon Mask\|Demon Mask]] |
+| 73-78 | [[Equipment/Healer's Gloves\|Healer's Gloves]] |
+| 79-84 | [[Equipment/Lifting Belt\|Lifting Belt]] |
+| 85-90 | [[Equipment/Sleeves of Storage\|Sleeves of Storage]] |
+| 91-93 | [[Equipment/Symbol of Conflict\|Symbol of Conflict]] |
+| 94-99 | [[Equipment/Alchemist Goggles\|Alchemist Goggles]] |

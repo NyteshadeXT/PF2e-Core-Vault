@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-The energy from your smite persists for a moment, allowing you to pass it to a new target. Cast the 1-action version of the [[Harm|Harm]] or [[Heal|Heal]] spell you expended, targeting a creature other than the target of your Strike.
+The energy from your smite persists for a moment, allowing you to pass it to a new target. Cast the 1-action version of the [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]] spell you expended, targeting a creature other than the target of your Strike.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -7,8 +7,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.vNIimhmP636VOP01"
-license: OGL
+license: ORC
 ---
 # Bullet Split `pf2:1`
 ## Feat 8
@@ -23,7 +24,7 @@ license: OGL
 
 * * *
 
-You carefully align your weapon with the edge of your blade, splitting the projectile in two as you fire to attack two different targets. Make two Strikes, one each against two separate targets. The targets must be adjacent to each other and within your weapon's maximum range. Each of these attacks takes a -2 penalty to the attack roll, but the two count as only one attack when calculating your multiple attack penalty.
+You carefully align your weapon with the edge of your blade, splitting the projectile in two as you fire to attack two different targets. Make two Strikes, one each against two separate targets. The targets must be adjacent to each other and within your weapon's maximum range. Each of these attacks takes a –2 penalty to the attack roll, but the two count as only one attack when calculating your multiple attack penalty.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

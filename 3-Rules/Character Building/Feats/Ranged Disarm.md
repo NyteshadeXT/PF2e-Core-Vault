@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.MyDluIbnX2sjm3pB"
-license: OGL
+license: ORC
 ---
 # Ranged Disarm `pf2:1`
 ## Feat 14
@@ -19,11 +20,11 @@ license: OGL
 
 **Prerequisites** Bullet Dancer Dedication; Trick Shot
 * * *
-**Requirements** You're wielding a simple firearm.
+**Requirements** You're wielding a simple firearm or simple combination weapon.
 
 * * *
 
-When using a simple firearm, you can shoot objects right out of your enemy's hands. Attempt to [[Actions/Disarm|Disarm]] the target using a ranged attack roll with your simple firearm, instead of attempting an Athletics check check against the target's Reflex DC.
+When using a simple firearm, you can shoot objects right out of your enemy's hands. Attempt to [[Actions/Disarm|Disarm]] the target using a ranged attack roll with the required firearm or combination weapon, instead of attempting an Athletics check against the target's Reflex DC.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +11 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+11 (agile, finesse, versatile s)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +11 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+11 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
   - name: "Crowd Aid"
     desc: "  The crowd agitator ignores difficult terrain caused by friendly crowds. Creatures within or adjacent to friendly crowds are [[Conditions/Off-Guard|Off-Guard]] against the crowd agitator's attacks."

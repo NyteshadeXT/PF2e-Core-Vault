@@ -1,18 +1,18 @@
 ---
 obsidianUIMode: preview
 title: "All-Out Assault"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/attack
   - trait/cavalry
   - trait/infantry
-  - trait/common
+  - trait/
   - category/army-war-action
 aliases: "Compendium.pf2e.kingmaker-features.Item.Z6jMZgAxI1zRO7Sl"
 license: OGL
 ---
 # All-Out Assault `pf2:2`
-
+## 
 ### [[attack]][[cavalry]][[infantry]]
 
 **Category** army-war-action; 

@@ -20,7 +20,7 @@ license: ORC
 
 
 
-**Requirements** A frightened creature is in your melee reach.
+**Requirements** A [[Conditions/Frightened|Frightened]] creature is in your melee reach.
 
 * * *
 

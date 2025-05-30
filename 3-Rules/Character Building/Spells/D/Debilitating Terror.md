@@ -41,6 +41,6 @@ abilities_top:
     desc: "until the start of your next turn"
 abilities_mid:
   - name: ""
-    desc: "You fill the target's mind with terrifying images to disrupt their combat focus. The target must attempt a Will save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes a –1 circumstance penalty to attack and damage rolls against you.\n\n[[Spell Effects/Effect_ Debilitating Terror|Effect: Debilitating Terror]]\n\n**Failure** The target can't use hostile actions against you.\n\n**Critical Failure** The target is [[Conditions/Stunned|Stunned 1]] and can't use hostile actions against you."
+    desc: "You fill the target's mind with terrifying images to disrupt their combat focus. The target must attempt a Will save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes a –1 circumstance penalty to attack and damage rolls against you.\n\n[[Spell Effects/Spell Effect_ Debilitating Terror|Spell Effect: Debilitating Terror]]\n\n**Failure** The target can't use hostile actions against you.\n\n**Critical Failure** The target is [[Conditions/Stunned|Stunned 1]] and can't use hostile actions against you."
 sourcebook: "_Pathfinder Adventure: Prey for Death_"
 ```

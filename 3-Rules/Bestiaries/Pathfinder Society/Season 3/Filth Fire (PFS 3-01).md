@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Burning Lash +13 (finesse)\n__Damage__  2d6 + 3 bludgeoning 1d6 fire"
+  - name: "**Melee** `pf2:1` Burning Lash"
+    desc: "+13 (finesse)\n__Damage__  2d6 + 3 bludgeoning 1d6 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Ember Ball +13 (fire, range increment 20 feet)\n__Damage__  1d6 + 3 bludgeoning 1d6 fire"
+  - name: "**Ranged** `pf2:1` Ember Ball"
+    desc: "+13 (fire, range increment 20 feet)\n__Damage__  1d6 + 3 bludgeoning 1d6 fire"
 
   - name: "Noxious Burst"
-    desc: "`pf2:2` (fire,poison,primal) Toxic materials and churning rubbish within the filth fire's body explode in one of three ways. The filth fire chooses the effect, but it can't make the same choice twice in a row.\n\n*   Fiery Beam (evocation, fire, primal) The filth fire expels a @Template[line|distance:30] of flame that deals 3d6 fire damage with a DC 21 Reflex check save.\n*   Shrapnel Blast (evocation, primal) The filth fire shoots jagged rubbish out in a @Template[emanation|distance:5] that deals 2d12 piercing damage with a DC 21 Reflex check save.\n*   Toxic Fumes (evocation, poison, primal) The filth fire belches a @Template[cone|distance:15] of toxic smoke that deals 2d6 poison damage (DC 21 Fortitude check save). A creature that fails is also [[Conditions/Sickened|Sickened 1]] (or sickened 2 on a critical failure)."
+    desc: "`pf2:2` (fire,poison,primal) Toxic materials and churning rubbish within the filth fire's body explode in one of three ways. The filth fire chooses the effect, but it can't make the same choice twice in a row.\n\n*   Fiery Beam (evocation, fire, primal) The filth fire expels a 30-foot line of flame that deals 3d6 fire damage with a DC 21 Reflex check save.\n*   Shrapnel Blast (evocation, primal) The filth fire shoots jagged rubbish out in a 5-foot emanation that deals 2d12 piercing damage with a DC 21 Reflex check save.\n*   Toxic Fumes (evocation, poison, primal) The filth fire belches a 15-foot cone of toxic smoke that deals 2d6 poison damage (DC 21 Fortitude check save). A creature that fails is also [[Conditions/Sickened|Sickened 1]] (or sickened 2 on a critical failure)."
  
 ```
 

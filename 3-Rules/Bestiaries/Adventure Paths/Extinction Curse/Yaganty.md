@@ -50,34 +50,37 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Light in the Darkness"
     desc: " (aura,light,mental,primal,visual) 60 feet. The flames from a yaganty's fingers shed bright light in a 10-foot radius and are visible even in areas affected by magical darkness, but they do not shed dim light beyond that radius. Any creature within 60 feet in an area of darkness or dim light that sees the yaganty's candle fingers must succeed at a DC 27 Will check save or become [[Conditions/Fascinated|Fascinated]] by the yaganty for 1 minute or until the yaganty uses a hostile action against the creature, whichever comes first."
 
   - name: "Vulnerability to Extinguishing"
-    desc: "  A yaganty who is doused with water or otherwise has their candle fingers extinguished takes 3d6 persistent mental, becomes [[Conditions/Quickened|Quickened 1]], and screams in agony until they reignite their candles (typically by casting [[Spells/Produce Flame|Produce Flame]] and lighting their fingers with an Interact action)."
+    desc: "  A yaganty who is doused with water or otherwise has their candle fingers extinguished takes 3d6 persistent mental, becomes [[Conditions/Quickened|Quickened 1]], and screams in agony until they reignite their candles (typically by casting [[Spells/Ignition|Ignition]] and lighting their fingers with an Interact action)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Candle Fingers +20 (fire, magical, reach 10 feet)\n__Damage__  3d10 + 5 fire"
+  - name: "**Melee** `pf2:1` Candle Fingers"
+    desc: "+20 (fire, magical, reach 10 feet)\n__Damage__  3d10 + 5 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +22 (agile, magical, reach 10 feet)\n__Damage__  2d8 + 9 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+22 (agile, magical, reach 10 feet, unarmed)\n__Damage__  2d8 + 9 slashing plus grab"
 
   - name: "Occult Innate Spells"
-    desc: "DC 29, attack +23; __5th __ (1 slots) _[[Spells/Translocate|Dimension Door]]_; __4th __ (1 slots) _[[Spells/Darkness|Darkness]]_; __3rd __ (2 slots) _[[Spells/Breathe Fire|Burning Hands (x2)]]_\n__Cantrips__  __(5th)__ _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 29, attack +23; __5th __ (1 slots) _[[Spells/Translocate|Dimension Door]]_; __4th __ (1 slots) _[[Spells/Darkness|Darkness]]_; __3rd __ (2 slots) _[[Spells/Breathe Fire|Burning Hands (x2)]]_\n__Cantrips__  __(5th)__ _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
 
   - name: "Fling Wax"
-    desc: "`pf2:2` (fire) The yaganty whips a stream of scalding wax in a @Template[line|distance:30]. Each glob deals 1d6 persistent fire damage. An affected creature or adjacent ally can remove one glob of wax by spending an Interact action to scrape it off. The yaganty can't use Fling Wax again for 1d4 rounds. Creatures in the area must attempt a DC 27 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is splattered with 1d2+1 globs of wax.\n\n**Failure** The creature is splattered with 1d4+2 globs of wax.\n\n**Critical Failure** As failure, and the creature is [[Conditions/Blinded|Blinded]] until it removes the globs of wax."
+    desc: "`pf2:2` (fire) The yaganty whips a stream of scalding wax in a 30-foot line. Each glob deals 1d6 persistent fire damage. An affected creature or adjacent ally can remove one glob of wax by spending an Interact action to scrape it off. The yaganty can't use Fling Wax again for 1d4 rounds. Creatures in the area must attempt a DC 27 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is splattered with 1d2+1 globs of wax.\n\n**Failure** The creature is splattered with 1d4+2 globs of wax.\n\n**Critical Failure** As failure, and the creature is [[Conditions/Blinded|Blinded]] until it removes the globs of wax."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

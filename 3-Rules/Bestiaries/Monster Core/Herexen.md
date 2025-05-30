@@ -58,11 +58,14 @@ abilities_mid:
   - name: "Final Blasphemy"
     desc: " (divine,void) When the herexen is destroyed, it explodes in a wave of void energy with the effects of a 3-action [[Spells/Harm|Harm]] spell (DC 18 Fortitude check).\n\nThe herexen is destroyed, so it doesn't gain any Hit Points from this use of _harm_, and it doesn't need to have any _harm_ spells remaining to use this ability"
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +10 (agile, versatile s)\n__Damage__  1d6 + 4 piercing plus heretics-smite"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+10 (agile, versatile s)\n__Damage__  1d6 + 4 piercing plus heretics-smite"
 
   - name: "Divine Prepared Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Harm|Harm]]_"

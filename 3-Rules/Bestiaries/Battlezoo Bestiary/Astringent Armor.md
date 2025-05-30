@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +19 ()\n__Damage__  2d8 + 9 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+19 ()\n__Damage__  2d8 + 9 bludgeoning plus improved-grab"
 
   - name: "Attach"
     desc: "`pf2:2`  **Requirements** The astringent armor's construct armor is intact and the astringent armor is grabbing a creature;\n\n**Effect** The astringent armor attaches itself to the [[Conditions/Grabbed|Grabbed]] creature, squeezing its victim into the suit violently and dealing 2d8+9 bludgeoning damage. The creature must attempt a Reflex save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The grab ends and the astringent armor attaches itself to the creature. The creature takes half damage.\n\n**Failure** As success, but the creature takes full damage.\n\n**Critical Failure** As failure, but the creature takes double damage. While the astringent armor is attached to a creature, it inhabits the same space as the creature and moves whenever the creature moves. The creature becomes [[Conditions/Clumsy|Clumsy 2]] and takes a -10-foot circumstance penalty to Speed. The creature can free itself from the armor by succeeding at a DC 25 Acrobatics, DC 25 Athletics, or DC 25 Thievery check to [[Actions/Escape|Escape]], in which case the armor moves to an adjacent empty space."

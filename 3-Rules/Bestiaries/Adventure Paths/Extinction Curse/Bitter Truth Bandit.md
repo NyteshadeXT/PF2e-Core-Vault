@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +16 (agile, sweep)\n__Damage__  1d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+16 (agile, sweep)\n__Damage__  1d6 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +16 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 6 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+16 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +16 (deadly d10, range increment 60 feet)\n__Damage__  1d6 + 8 piercing plus muscle-striker"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+16 (deadly d10, range increment 60 feet)\n__Damage__  1d6 + 8 piercing plus muscle-striker"
 
   - name: "Experienced Ambusher"
     desc: "  Striking from concealment doesn't cause the bandit to become [[Conditions/Observed|Observed]]."

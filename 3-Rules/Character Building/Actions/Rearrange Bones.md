@@ -11,7 +11,7 @@ license: OGL
 ---
 # Rearrange Bones `pf2:1`
 
-### [[3-Rules/Rule References/Manipulate]]
+### [[manipulate]]
 
 **Category** offensive; 
 

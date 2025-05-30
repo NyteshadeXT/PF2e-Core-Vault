@@ -3,8 +3,6 @@ obsidianUIMode: preview
 title: "Soaring Flight"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/morph
-  - trait/primal
   - trait/tengu
   - trait/common
   - category/ancestry
@@ -12,9 +10,9 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.Tl8yckXeTCHnwrlM"
 license: ORC
 ---
-# Soaring Flight `pf2:2`
+# Soaring Flight `pf2:1`
 ## Feat 5
-### [[morph]][[primal]][[tengu]]
+### [[tengu]]
 
 **Category** ancestry; 
 

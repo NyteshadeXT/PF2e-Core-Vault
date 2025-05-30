@@ -4,11 +4,12 @@ title: "Effect: Marshal's Aura"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.Ru4BNABCZ0hUbX7S"
-license: OGL
+license: ORC
 ---
 # Effect: Marshal's Aura
-## Level 1
+## Level 2
 ### 
 
 
@@ -16,11 +17,9 @@ license: OGL
 
 
 
-Granted by being inside a Marshal's Aura.
+Granted by [[Feats/Marshal Dedication|Marshal Dedication]]
 
-* * *
+You gain a +1 status bonus to saving throws against fear.
 
-Your aura has the emotion, mental, and visual traits and grants you and allies within the aura a +1 status bonus to saving throws against fear.
-
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

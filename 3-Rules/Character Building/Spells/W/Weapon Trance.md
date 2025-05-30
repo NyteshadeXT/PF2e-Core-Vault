@@ -29,7 +29,7 @@ abilities_top:
   - name: ""
 
   - name: "Duration"
-    desc: "sustained up to 1 minute; see text"
+    desc: "1 minute; see text"
 abilities_mid:
   - name: ""
     desc: "The serenity of violence fills your mind, giving you a heightened sense of knowing exactly where your weapons need to be. For the duration, your proficiency with martial weapons is equal to your proficiency with simple weapons. You automatically Sustain this spell as a free action the first time you hit with a weapon Strike each round.\n\n[[Spell Effects/Spell Effect_ Weapon Trance|Spell Effect: Weapon Trance]]"

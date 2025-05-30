@@ -57,22 +57,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 10 feet. DC 26 Will check\n\nThis aura is suppressed if the faceless butcher is using Change Shape.\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 10 feet. DC 26 Will check\n\nThis aura is suppressed if the faceless butcher is using Change Shape.\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Cleaver +24 (forceful, sweep)\n__Damage__  2d12 + 7 slashing"
+  - name: "**Melee** `pf2:1` Cleaver"
+    desc: "+24 (forceful, sweep)\n__Damage__  2d12 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +24 (agile, nonlethal)\n__Damage__  2d10 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+24 (agile, nonlethal, unarmed)\n__Damage__  2d10 + 7 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Cleaver +22 (thrown 10 ft.)\n__Damage__  2d12 + 7 slashing"
+  - name: "**Ranged** `pf2:1` Cleaver"
+    desc: "+22 (thrown 10 ft.)\n__Damage__  2d12 + 7 slashing"
 
   - name: "Change Shape"
     desc: "`pf2:1` (concentrate,occult,polymorph) The faceless butcher can take on the exact form of any Small, Medium, or Large humanoid whose face they carry in their bag of faces, changing their shape and physical features to precisely match that of the victim whose face they wear. This doesn't change the butcher's Speed or attack or damage bonuses with their Strikes."

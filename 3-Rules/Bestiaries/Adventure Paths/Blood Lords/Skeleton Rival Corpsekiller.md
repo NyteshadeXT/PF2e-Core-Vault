@@ -24,6 +24,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/Skeleton Corpsekiller.webp| ]]
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Skeleton Rival Corpsekiller"
 level: "Creature 16"
@@ -64,13 +65,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Glaive +32 (deadly d8, forceful, magical, reach 10 feet)\n__Damage__  3d8 + 15 slashing plus corpsekiller"
+  - name: "**Melee** `pf2:1` Glaive"
+    desc: "+32 (deadly d8, forceful, magical, reach 10 feet)\n__Damage__  3d8 + 15 slashing plus corpsekiller"
 
   - name: "Circling Assault"
     desc: "`pf2:2`  The corpsekiller circles around their target then attacks, throwing their foe off balance and puncturing its defenses. The corpsekiller Steps or Strides, then attempts a glaive Strike. On a hit or critical hit, the Strike ignores 10 of their target's resistances. Regardless of the result of the Strike, the target is [[Conditions/Off-Guard|Off-Guard]] for 1 round."

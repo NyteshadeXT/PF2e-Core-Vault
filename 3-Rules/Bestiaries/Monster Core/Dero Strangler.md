@@ -59,16 +59,16 @@ abilities_mid:
     desc: " (disease,light) A non-dero living creature that starts its turn [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by the strangler is exposed to the sickly blue light from the strangler's cytillesh toolkit. It must succeed at a DC 19 Fortitude check save or become [[Conditions/Sickened|Sickened 1]]. This has no effect if the strangler isn't wearing the toolkit."
 
   - name: "Vulnerable to Sunlight"
-    desc: "  A dero strangler takes 8 damage for every hour they're exposed to sunlight."
+    desc: "  A dero strangler takes 8 untyped damage for every hour they're exposed to sunlight."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spiked Chain +11 (disarm, trip)\n__Damage__  1d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Spiked Chain"
+    desc: "+11 (disarm, trip)\n__Damage__  1d8 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +10 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing plus lethargy-poison"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+10 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing plus lethargy-poison"
 
   - name: "Occult Innate Spells"
     desc: "DC 19, attack +11; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Revealing Light|Revealing Light]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_"

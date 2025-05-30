@@ -45,7 +45,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Disable"
-    desc: "Deception 45 (legendary) to pretend to be Erveniss and ask for forgiveness, Diplomacy 45 (legendary) to convince Damurdiel to stand down (elves who are masters in Diplomacy can attempt the check as if they were legendary instead), or Religion 40 (legendary) to call upon Calistria to calm Damurdiel's spirit."
+    desc: "DC 45 Deception check (legendary) to pretend to be Erveniss and ask for forgiveness, DC 45 Diplomacy check (legendary) to convince Damurdiel to stand down (elves who are masters in Diplomacy can attempt the check as if they were legendary instead), or DC 40 Religion check (legendary) to call upon Calistria to calm Damurdiel's spirit."
 attacks:
   - name: ""
 

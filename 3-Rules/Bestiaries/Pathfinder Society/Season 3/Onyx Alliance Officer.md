@@ -68,17 +68,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +14 (deadly d8, disarm, magical)\n__Damage__  1d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+14 (deadly d8, disarm, magical)\n__Damage__  1d6 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +13 (agile, finesse, versatile s)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+13 (agile, finesse, versatile s)\n__Damage__  1d4 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +13 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+13 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 8 piercing"
 
   - name: "Shadow Stride"
-    desc: "`pf2:1` (illusion,occult,shadow) **Requirements** The officer is in dim light\n* * *\n\n/n\n\n**Effect** The officer Strides. They have a +10-foot status bonus to their Speed during this Stride. The DC from shadow blending increases to 11 during this Stride, and the officer remains concealed by dim light until the end of the movement, even if they leave dim light during the Stride."
+    desc: "`pf2:1` (illusion,occult,shadow) **Requirements** The officer is in dim light\n* * *\n\n**Effect** The officer Strides. They have a +10-foot status bonus to their Speed during this Stride. The DC from shadow blending increases to DC 11 Flat check during this Stride, and the officer remains [[Conditions/Concealed|Concealed]] by dim light until the end of the movement, even if they leave dim light during the Stride."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The officer deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

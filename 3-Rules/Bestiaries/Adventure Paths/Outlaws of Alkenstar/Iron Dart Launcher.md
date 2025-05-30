@@ -52,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Dart"
-    desc: "`pf2:r` **Trigger** The front door is fully opened, Forced Open, or broken\n* * *\n\n**Effect** A hail of iron darts launches along a @Template[line|distance:20] from the desk through the doorway, dealing 4d8+10 piercing damage to each creature in the area of effect (DC 24 Reflex check)."
+    desc: "`pf2:r` **Trigger** The front door is fully opened, Forced Open, or broken\n* * *\n\n**Effect** A hail of iron darts launches along a 20-foot line from the desk through the doorway, dealing 4d8+10 piercing damage to each creature in the area of effect (DC 24 Reflex check)."
 
 
   - name: "Reset"

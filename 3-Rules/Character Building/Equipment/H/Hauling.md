@@ -1,76 +1,33 @@
 ---
-#========================================================#
-#                     CORE PROPERTIES                    #
-#========================================================#
-cssclass: pf2e-item, h-line
-name: "hauling"
-aliases: "Hauling"
-source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
-trait01: "magical"
-trait02: "uncommon"
-trait03: ""
-trait04: ""
-trait05: ""
-trait06: ""
-trait07: ""
-trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 6
-weight: 
-value: "225"
-subvalue: "gp"
-invest:
-usage: "etched onto a weapon"
-license: "ORC"
-identify:
-description: "Hauling weapons are adept at moving creatures around the battlefield after a successful attack.  **Activate** `pf2:r` Command  **Frequency** once per hour  **Trigger** You succeed at an attack roll to Strike with a weapon with the hauling rune  * * *  **Effect** The target must succeed at a DC 20 Reflex check save or be moved 5 feet in a direction you choose. This is forced movement."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
-trigger2:
-mechanics2: "**Secondary Effect** "
-craft:
-
-#========================================================#
-#                   WEAPON PROPERTIES                    #
-#========================================================#
-range: 
-ammoType:
-damage: 
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
-
-#========================================================#
-#                    ARMOR PROPERTIES                    #
-#========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
-resist:
-immunity:
-conditionImmunity:
-
-#========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
-#========================================================#
-weaponBase:
-armorBase:
-
+obsidianUIMode: preview
+title: "Hauling"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - trait/magical
+  - trait/uncommon
+aliases: "Compendium.pf2e.equipment-srd.Item.2ovu1AioLLff9p8w"
+license: OGL
 ---
+# Hauling
+## Item 6
+### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+
+
+**Price** 225 gp; 
+**Bulk** 0; **Size** med
+**Usage** etched-onto-a-weapon
+
+Hauling weapons are adept at moving creatures around the battlefield after a successful attack.
+
+**Activate** `pf2:r` Command
+
+**Frequency** once per hour
+
+**Trigger** You succeed at an attack roll to Strike with a weapon with the hauling rune
+
+* * *
+
+**Effect** The target must succeed at a DC 20 Reflex check save or be moved 5 feet in a direction you choose. This is forced movement.
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
+*OGL*

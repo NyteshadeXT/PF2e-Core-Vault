@@ -51,6 +51,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 120 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 300 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Craft Crystal Wand"
     desc: " (exploration) **Frequency** twice per day\n* * *\n\n**Effect** The vault builder spends 10 minutes creating a magic wand out of radioactive green crystal, containing any 8th-rank or lower earth spell of their choice. The wand can be used by other creatures, but it crumbles to sand at the end of the day and has no monetary value. The vault builder can expend both daily uses to instead make a _+3 greater striking [[Equipment/Staff of Earth (Major)|Major Staff of Earth]]_."
 
@@ -60,25 +66,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +37 (agile, finesse, magical)\n__Damage__  5d10 + 12 slashing plus constraining-crystal"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+37 (agile, finesse, magical, unarmed)\n__Damage__  5d10 + 12 slashing plus constraining-crystal"
 
-  - name: "Melee"
-    desc: "`pf2:1` Crystal Wand +37 (finesse, magical, radiation)\n__Damage__  4d4 + 12 piercing 4d6 poison"
+  - name: "**Melee** `pf2:1` Crystal Wand"
+    desc: "+37 (finesse, magical, radiation)\n__Damage__  4d4 + 12 piercing 4d6 poison"
 
-  - name: "Melee"
-    desc: "`pf2:1` Crystal Staff +39 (magical, radiation, two-hand d8)\n__Damage__  4d6 poison 4d4 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Crystal Staff"
+    desc: "+39 (magical, radiation, two-hand d8)\n__Damage__  4d6 poison 4d4 + 12 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crystal Shard +37 (earth, magical, range increment 100 feet)\n__Damage__  7d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Crystal Shard"
+    desc: "+37 (earth, magical, range increment 100 feet)\n__Damage__  7d6 + 4 piercing"
 
   - name: "Arcane Prepared Spells"
-    desc: "DC 50, attack +42; __8th __  _[[Spells/Earthquake|Earthquake]]_; __7th __  _[[Spells/Heaving Earth|Heaving Earth]]_; __6th __  _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Petrify|Petrify]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __  _[[Spells/Blazing Fissure|Blazing Fissure]]_, _[[Spells/Engrave Memory|Engrave Memory]]_; __4th __  _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Creation|Creation]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Grasping Earth|Grasping Earth]]_, _[[Spells/Mountain Resilience|Mountain Resilience]]_; __3rd __  _[[Spells/Haste|Haste]]_, _[[Compendium.pf2e.spells-srd.Item.CuziTxu5CyYbOt1L|One With Stone]]_; __2nd __  _[[Spells/Knock|Knock]]_, _[[Spells/Magnetic Attraction|Magnetic Attraction]]_, _[[Spells/Magnetic Repulsion|Magnetic Repulsion]]_, _[[Spells/Pave Ground|Pave Ground]]_, _[[Spells/See the Unseen|See the Unseen]]_; __1st __  _[[Spells/Ant Haul|Ant Haul]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Quick Sort|Quick Sort]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Scatter Scree|Scatter Scree]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
+    desc: "DC 50, attack +42; __8th __  _[[Spells/Earthquake|Earthquake]]_; __7th __  _[[Spells/Heaving Earth|Heaving Earth]]_; __6th __  _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Petrify|Petrify]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __  _[[Spells/Blazing Fissure|Blazing Fissure]]_, _[[Spells/Engrave Memory|Engrave Memory]]_; __4th __  _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Creation|Creation]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Grasping Earth|Grasping Earth]]_, _[[Spells/Mountain Resilience|Mountain Resilience]]_; __3rd __  _[[Spells/Haste|Haste]]_, _[[Spells/One with Stone|One with Stone]]_; __2nd __  _[[Spells/Knock|Knock]]_, _[[Spells/Magnetic Attraction|Magnetic Attraction]]_, _[[Spells/Magnetic Repulsion|Magnetic Repulsion]]_, _[[Spells/Pave Ground|Pave Ground]]_, _[[Spells/See the Unseen|See the Unseen]]_; __1st __  _[[Spells/Ant Haul|Ant Haul]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Quick Sort|Quick Sort]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Scatter Scree|Scatter Scree]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
 
   - name: "Arcane Innate Spells"
     desc: "DC 50, attack +42; __10th __  _[[Spells/Summon Elemental|Summon Elemental (Earth Only)]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __8th __  _[[Spells/Petrify|Petrify]]_, _[[Spells/Scrying|Scrying]]_, _[[Spells/Shatter|Shatter (At Will)]]_, _[[Compendium.pf2e.spells-srd.Item.nH3Rgzzv0b6IeKdd|Speak With Stones (At Will)]]_, _[[Spells/Teleport|Teleport]]_, _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Earthbind|Earthbind (At Will)]]_, _[[Spells/Shape Stone|Shape Stone (At Will)]]_, _[[Spells/Translocate|Translocate (At Will)]]_"
@@ -87,13 +93,10 @@ attacks:
     desc: " (earth,magical) When the vault builder deals damage with a claw Strike, glowing green crystals cluster at the site of the attack. The target must succeed at a DC 31 Fortitude check save or become [[Conditions/Clumsy|Clumsy 1]] for 1 hour (or [[Conditions/Clumsy|Clumsy 2]] on a critical failure). If the creature is already clumsy due to constraining crystal, additional failures increase that clumsy value instead, to a maximum of [[Conditions/Clumsy|Clumsy 4]]. A target that fails its save while Clumsy 4 is [[Conditions/Petrified|Petrified]] with an unlimited duration."
 
   - name: "Crystal Burst"
-    desc: "`pf2:2` (arcane,earth) An explosion of razor-sharp splinters deals 24d6 piercing damage in a @Template[burst|distance:30] within 120 feet, with a DC 46 Reflex check save. The vault keeper can't use Crystal Burst again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,earth) An explosion of razor-sharp splinters deals 24d6 piercing damage in a 30-foot burst within 120 feet, with a DC 46 Reflex check save. The vault keeper can't use Crystal Burst again for 1d4 rounds."
 
   - name: "Earth Glide"
     desc: "  The vault builder can Burrow through any earthen matter, including rock. When they do so, the vault builder moves at their full burrow Speed, leaving no tunnels or signs of their passing."
-
-  - name: "Slashing Surge"
-    desc: "`pf2:2`  The vault keeper Strides or Climbs and makes two claw Strikes at any point during that movement. Each Strike must target a different creature. The multiple attack penalty doesn't increase until after both attacks."
  
 ```
 

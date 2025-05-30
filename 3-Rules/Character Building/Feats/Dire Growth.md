@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** Werecreature Dedication; your animal shape is not Small
 * * *
-You transform into a primal reflection of your animal shape. If you aren't already in your animal shape from Werecreature Dedication, you Change Shape into it. As long as you stay in animal shape, you have the effects of enlarge.
+You transform into a primal reflection of your animal shape. If you aren't already in your animal shape from Werecreature Dedication, you Change Shape into it. As long as you stay in animal shape, you have the effects of [[Spells/Enlarge|Enlarge]].
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

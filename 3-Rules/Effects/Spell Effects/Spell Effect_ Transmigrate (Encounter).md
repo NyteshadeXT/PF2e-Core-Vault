@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Transmigrate|Transmigrate]]
+Granted by [[Spells/Transmigrate|Transmigrate]]
 
 You gain a +1 status bonus to all Strikes, saving throws, and skill checks.
 

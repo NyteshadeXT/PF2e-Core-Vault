@@ -4,8 +4,7 @@ title: "Climb"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/move
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy"
@@ -13,7 +12,7 @@ license: ORC
 ---
 # Climb `pf2:1`
 
-### [[move]][[skill]]
+### [[move]]
 
 **Category** interaction; 
 
@@ -24,7 +23,7 @@ license: ORC
 
 * * *
 
-You attempt an Athletics check to move a maximum distance of 5 feet up, down, or across an incline. You're [[Conditions/Off-Guard|Off-Guard]] while climbing unless you have a climb Speed. The GM determines the DC based on the nature of the incline and environmental circumstances; you might get an automatic critical success on an incline that's trivial to climb. If your land Speed is 40 feet or higher, increase the maximum distance by 5 feet for every 20 feet of Speed above 20 feet.
+You attempt an [[Actions/climb|climb]]{Athletics} check to move a maximum distance of 5 feet up, down, or across an incline. You're [[Conditions/Off-Guard|Off-Guard]] while climbing unless you have a climb Speed. The GM determines the DC based on the nature of the incline and environmental circumstances; you might get an automatic critical success on an incline that's trivial to climb. If your land Speed is 40 feet or higher, increase the maximum distance by 5 feet for every 20 feet of Speed above 20 feet.
 
 * * *
 

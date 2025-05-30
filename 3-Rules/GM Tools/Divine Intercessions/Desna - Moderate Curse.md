@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Desna - Moderate Curse"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/curse
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.CjRUOscsOwCmai8D"
 license: OGL
 ---
 # Desna - Moderate Curse
-
+## Feat 1
 ### 
 
 **Category** curse; 
@@ -25,5 +25,5 @@ You can express your remorse and ignore this effect for 1d4 rounds by spending a
 
 If you perform a truly selfless act of compassion, you ignore this effect for 1 day.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Bracers of Missile Deflection|Bracers of Missile Deflection]]
+Granted by [[Equipment/Bracers of Missile Deflection|Bracers of Missile Deflection]]
+
+You gain a +2 circumstance bonus to AC against the triggering attack.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

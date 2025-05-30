@@ -17,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Spiny Lodestone|Spiny Lodestone]]
+Granted by [[Equipment/Spiny Lodestone|Spiny Lodestone]], [[Equipment/Spiny Lodestone (Greater)|Spiny Lodestone (Greater)]], [[Equipment/Spiny Lodestone (Major)|Spiny Lodestone (Major)]]
 
-You gain a +1 item bonus to Athletics checks and resistance 2 to nonlethal damage.
+You gain an item bonus to Athletics checks and resistance to nonlethal damage.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

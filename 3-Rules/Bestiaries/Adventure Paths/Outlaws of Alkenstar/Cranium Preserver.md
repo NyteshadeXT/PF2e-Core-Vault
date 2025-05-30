@@ -58,17 +58,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Cranium Remover +23 (deadly d12, sweep)\n__Damage__  3d8 + 9 slashing"
+  - name: "**Melee** `pf2:1` Cranium Remover"
+    desc: "+23 (deadly d12, sweep)\n__Damage__  3d8 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Embalming Fluid +21 (range 120 feet)\n__Damage__  2d8 + 3 mental 2d8 + 3 void"
+  - name: "**Ranged** `pf2:1` Embalming Fluid"
+    desc: "+21 (range 120 feet)\n__Damage__  2d8 + 3 mental 2d8 + 3 void"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead (Mummies, Skeletons, and Zombies)]]_"
+    desc: "_Create Undead (Mummies, Skeletons, and Zombies)_"
 
   - name: "Jettison Cranium"
-    desc: "`pf2:2` (incapacitation,mental,void) The cranium preserver ejects one of its preserved-head jars at a point within 100 feet. The jar explodes, and all creatures in a @Template[burst|distance:10] must attempt a DC 28 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d8 mental damage and 2d8 void damage.\n\n**Failure** The creature takes 4d8 mental damage and 4d8 void damage. The discharged mental anguish released from the preserved head causes the creature to become [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** The creature takes 8d8 mental and 8d8 void damage. The discharged mental anguish released from the preserved head causes the creature to become confused for 2 rounds."
+    desc: "`pf2:2` (incapacitation,mental,void) The cranium preserver ejects one of its preserved-head jars at a point within 100 feet. The jar explodes, and all creatures in a 10-foot burst must attempt a DC 28 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d8 mental damage and 2d8 void damage.\n\n**Failure** The creature takes 4d8 mental damage and 4d8 void damage. The discharged mental anguish released from the preserved head causes the creature to become [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** The creature takes 8d8 mental and 8d8 void damage. The discharged mental anguish released from the preserved head causes the creature to become confused for 2 rounds."
 
   - name: "Slosh"
     desc: "  Whenever the cranium preserver ends a Stride, the movement causes necrotic embalming fluid and preserved body parts to slosh about and spill from its central vat. Each creature adjacent to the cranium preserver when it finishes its Stride must attempt a DC 26 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 1d8 mental damage and 1d8 void damage.\n\n**Failure** The creature takes 2d8 mental damage and 2d8 void damage.\n\n**Critical Failure** The creature takes 4d8 mental and 4d8 void damage. If the creature is alive, the preserved body parts sense the presence of a living creature and cling to it, causing the creature to become [[Conditions/Clumsy|Clumsy 2]] for 1 round."

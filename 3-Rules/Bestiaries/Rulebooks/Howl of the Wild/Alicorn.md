@@ -56,6 +56,9 @@ abilities_top:
   - name: "Wild Empathy"
     desc: "  The alicorn has an empathic connection to the creatures of the natural world that. The alicorn can use Diplomacy to [[Actions/Make an Impression|Make an Impression]] on animals and to make very simple [[Actions/Request|Requests]] of them."
 
+  - name: "[[Bestiary Ability Glossary/At-Will Spells|At-Will Spells]]"
+    desc: "  The monster can cast its at-will spells any number of times without using up spell slots."
+
 abilities_mid:
   - name: ""
   - name: "Draw in Magic"
@@ -64,14 +67,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +29 (holy, magical)\n__Damage__  2d6 spirit 4d10 + 10 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+29 (holy, magical, unarmed)\n__Damage__  2d6 spirit 4d10 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +29 (holy, magical, reach 10 feet)\n__Damage__  4d6 + 10 piercing 2d6 spirit"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+29 (holy, magical, reach 10 feet)\n__Damage__  4d6 + 10 piercing 2d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +29 (agile, magical, reach 10 feet)\n__Damage__  4d8 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+29 (agile, magical, reach 10 feet)\n__Damage__  4d8 + 10 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 36, attack +0; __8th __  _[[Spells/Wall of Force|Wall of Force]]_; __6th __  _[[Spells/Telepathy|Telepathy]]_; __5th __  _[[Spells/Banishment|Banishment]]_; __1st __  _[[Spells/Gentle Landing|Gentle Landing (At-Will)]]_\n__Cantrips__  __(8th)__ _[[Spells/Light|Light]]_"
@@ -80,7 +83,7 @@ attacks:
     desc: "`pf2:2`  The alicorn Flies and Strikes twice with their wings at any points during their movement. Each attack counts toward the alicorn's multiple attack penalty, but the penalty doesn't increase until after they make all the attacks."
 
   - name: "Beam of Light"
-    desc: "`pf2:2` (arcane,concentrate,fire,holy,light) The alicorn harnesses a powerful burning ray of light from their horn. Creatures in a @Template[line|distance:120] take 16d6 fire damage (DC 36 Fortitude check save). An unholy creature in the area takes an additional 8d6 spirit damage. If the light passes through an area of magical darkness or targets a creature affected by magical darkness, the beam attempts to counteract the darkness (counteract modifier +28, counteract rank 8th). The alicorn can't use its Beam of Light again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,concentrate,fire,holy,light) The alicorn harnesses a powerful burning ray of light from their horn. Creatures in a 120-foot line take 16d6 fire damage (DC 36 Fortitude check save). An unholy creature in the area takes an additional 8d6 spirit damage. If the light passes through an area of magical darkness or targets a creature affected by magical darkness, the beam attempts to counteract the darkness (counteract modifier +28, counteract rank 8th). The alicorn can't use its Beam of Light again for 1d4 rounds."
 
   - name: "Ghost Touch"
     desc: "  An alicorn's Strikes have the effects of a ghost touch property rune."

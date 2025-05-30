@@ -56,6 +56,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Metallic"
@@ -67,20 +73,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +25 (cold iron, magical, shove, unholy)\n__Damage__  3d8 + 13 bludgeoning 1d6 spirit"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+25 (cold iron, magical, shove, unarmed, unholy)\n__Damage__  3d8 + 13 bludgeoning 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +25 (agile, cold iron, magical, unholy)\n__Damage__  1d6 spirit plus ferrugon-tetanus 3d4 + 13 slashing plus ferrugon-tetanus"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+25 (agile, cold iron, magical, unarmed, unholy)\n__Damage__  1d6 spirit plus ferrugon-tetanus 3d4 + 13 slashing plus ferrugon-tetanus"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Iron Feather +23 (cold iron, magical, range increment 40 feet, unholy)\n__Damage__  3d4 + 13 piercing plus ferrugon-tetanus"
+  - name: "**Ranged** `pf2:1` Iron Feather"
+    desc: "+23 (cold iron, magical, range increment 40 feet, unholy)\n__Damage__  3d4 + 13 piercing plus ferrugon-tetanus"
 
   - name: "Divine Innate Spells"
     desc: "DC 32, attack +24; __6th __  _[[Spells/Petrify|Flesh to Stone]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Shatter|Shatter]]_, _[[Spells/Wall of Stone|Wall of Stone (x3)]]_; __4th __  _[[Spells/Creation|Creation]]_, _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Rusting Grasp|Rusting Grasp (x3)]]_, _[[Spells/Suggestion|Suggestion]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Diabolic Pact|Infernal Pact]]_"
+    desc: "_Infernal Pact_"
 
   - name: "Ferrugon Tetanus"
     desc: " (disease) **Saving Throw** DC 32 Fortitude check\n\n**Onset** 1d4 days\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 week)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 2]] and can't speak (1 day)\n\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] (1 day)\n\n**Stage 4** death"

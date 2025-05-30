@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Mana-Rattler Liniment|Mana-Rattler Liniment]]
+Granted by [[Equipment/Mana-Rattler Liniment|Mana-Rattler Liniment]]
 
 You gain a fangs unarmed attack that deals 1d6 piercing damage plus 1 poison damage.
 

@@ -60,23 +60,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +21 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 11 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+21 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 ()\n__Damage__  1d8 + 11 piercing plus resin-crust"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (unarmed)\n__Damage__  1d8 + 11 piercing plus resin-crust"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile, finesse)\n__Damage__  1d6 + 11 slashing plus resin-crust"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, finesse, unarmed)\n__Damage__  1d6 + 11 slashing plus resin-crust"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +21 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  2d4 + 11 piercing plus xulgath-bile"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+21 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  2d4 + 11 piercing plus xulgath-bile"
 
   - name: "Resin Crust"
     desc: " (incapacitation,poison) A creature damaged by a resin-seep xulgath's jaws or claw Strike must succeed at a DC 28 Reflex check save or be covered with clumps of noxious resin, taking 2d8 poison damage and a -15-foot penalty to its Speeds for 1 minute (on a critical failure, the creature is also [[Conditions/Clumsy|Clumsy 1]] for 1 minute). The creature is [[Conditions/Sickened|Sickened 1]] for as long it has a Speed penalty. A creature can spend an [[Actions/Interact|Interact]] action to scrape the resin off, decreasing the Speed penalty by 5 with each such action."
 
   - name: "Resin Spray"
-    desc: "`pf2:2` (poison) The resin-seep xulgath flexes its pores and emits a @Template[line|distance:30] of resin that deals 3d12 poison damage and knocks the target 5 feet back (DC 28 Reflex check save; on a success or critical success the target isn't knocked back, and on a critical failure the target is knocked back 10 feet). The resin-seep xulgath can't use Resin Spray again for 1d4 rounds."
+    desc: "`pf2:2` (poison) The resin-seep xulgath flexes its pores and emits a 30-foot line of resin that deals 3d12 poison damage and knocks the target 5 feet back (DC 28 Reflex check save; on a success or critical success the target isn't knocked back, and on a critical failure the target is knocked back 10 feet). The resin-seep xulgath can't use Resin Spray again for 1d4 rounds."
 
   - name: "Xulgath Bile"
     desc: " (poison) **Saving Throw** DC 28 Fortitude check\n\n**Maximum Duration** 1 hour\n\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 minute).\n\n**Stage 2** Fatigued and [[Conditions/Unconscious|Unconscious]] (1 minute).\n\n_**Dev Note**: Xulgath Bile is not included on this creature's original stat block except for the ranged dagger strike. We have included it here to allow GMs to choose to use it. It is a copy from Xulgath Bilebearer and the DC has been increased to match this level._"

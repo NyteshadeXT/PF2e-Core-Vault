@@ -55,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Double Opportunity"
     desc: "  The two-headed goat gains an extra reaction each round that it can use only to make Attacks of Opportunity. It must use a different head for each reaction, and it can't use more than one on the same triggering action. If it loses one of its heads, it also loses this extra reaction."
@@ -66,17 +66,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Markhor Goat Bite +11 ()\n__Damage__  1d4 poison 1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Markhor Goat Bite"
+    desc: "+11 ()\n__Damage__  1d4 poison 1d6 + 3 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Saanen Goat Bite +11 ()\n__Damage__  1d4 fire 1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Saanen Goat Bite"
+    desc: "+11 ()\n__Damage__  1d4 fire 1d6 + 3 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +11 (agile)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+11 (agile)\n__Damage__  1d4 + 3 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane) The two-headed goat breathes a @Template[cone|distance:15] that deals 2d6 damage to all creatures in the area (DC 15 basic save of a type indicated below).\n\nThe two-headed goat can't use either of its Breath Weapons again for 1d4 rounds.\n\n*   **Markhor** Cone of 2d6 poison (DC 15 Fortitude check)\n*   **Saanen** Cone of 2d6 fire (DC 15 Reflex check)"
+    desc: "`pf2:2` (arcane) The two-headed goat breathes a 15-foot cone that deals 2d6 damage to all creatures in the area (DC 15 basic save of a type indicated below).\n\nThe two-headed goat can't use either of its Breath Weapons again for 1d4 rounds.\n\n*   **Markhor** Cone of 2d6 poison (DC 15 Fortitude check)\n*   **Saanen** Cone of 2d6 fire (DC 15 Reflex check)"
 
   - name: "Elemental Bite"
     desc: "  Each head deals an extra 1d4 damage of a type matching the head's breath weapon."

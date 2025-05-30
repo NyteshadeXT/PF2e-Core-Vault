@@ -13,8 +13,9 @@ tags:
   - tradition/arcane
   - tradition/primal
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.rnNGALRtsjspFTws" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Acidic Burst  `pf2:2`"
@@ -37,6 +38,6 @@ abilities_top:
     desc: "basic reflex"
 abilities_mid:
   - name: ""
-    desc: "You create a shell of acid around yourself that immediately bursts outward, dealing 2d6 acid damage to each creature in the area.\n* * *\n\n**Heightened (+1)** The damage increases by 2d6."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+    desc: "You create a shell of acid around yourself that immediately bursts outward, dealing 2d6 acid damage to each creature in the area with a basic Reflex save.\n* * *\n\n**Heightened (+1)** The damage increases by 2d6."
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

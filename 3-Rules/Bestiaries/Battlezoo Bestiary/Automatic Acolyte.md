@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +19 (agile, finesse, reach 15 feet)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+19 (agile, finesse, reach 15 feet)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Armed with Magic"
     desc: "  Each of the automatic acolyte's fists is etched with a _[[Equipment/Spell Reservoir|Spell-Storing]]_ rune, which cannot be swapped or removed. Each spell stored in the automatic acolyte's _spell storing_ runes reduces the number of spells it can maintain with Project and Serve by one."

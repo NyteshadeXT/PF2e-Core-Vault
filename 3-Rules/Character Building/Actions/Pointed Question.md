@@ -8,7 +8,7 @@ tags:
   - trait/investigator
   - trait/linguistic
   - trait/mental
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.xccOiNL2W1EtfUYl"
@@ -16,7 +16,7 @@ license: ORC
 ---
 # Pointed Question `pf2:1`
 
-### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Concentrate]][[investigator]][[linguistic]][[3-Rules/Rule References/Mental]]
+### [[auditory]][[concentrate]][[investigator]][[linguistic]][[mental]]
 
 **Category** interaction; 
 

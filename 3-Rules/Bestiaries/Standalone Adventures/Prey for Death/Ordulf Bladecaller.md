@@ -61,19 +61,19 @@ abilities_mid:
     desc: " (healing) When Ordulf is reduced to 0 Hit Points, Gorum feeds him the zeal of his Aesir, allowing Ordulf to draw upon his own life force to fight on and on without falling. He is healed to 150 Hit Points and becomes [[Conditions/Doomed|Doomed 1]] (or increases his doomed condition by 1), causing his features to look progressively more gaunt and scarred. Once he reaches [[Conditions/Doomed|Doomed 4]], he dies."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +32 (magical, versatile p)\n__Damage__  3d12 + 11 slashing 1d6 cold"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+32 (magical, versatile p)\n__Damage__  3d12 + 11 slashing 1d6 cold"
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +32 (magical, sweep)\n__Damage__  3d12 + 11 slashing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+32 (magical, sweep)\n__Damage__  3d12 + 11 slashing 1d6 bleed"
 
   - name: "Battle Cry"
-    desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** Ordulf rolls initiative\n* * *\n\n**Effect** Ordulf attempts to [[Actions/Demoralize|Demoralize]] an observed foe."
+    desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** Ordulf rolls initiative\n* * *\n\n**Effect** Ordulf attempts to [[Actions/demoralize|demoralize]] an observed foe."
 
   - name: "Cleaving Blow"
     desc: "`pf2:2`  Ordulf Strikes two adjacent creatures within his reach. Both attacks count against his multiple attack penalty, but do not increase his penalty until he has made both attacks."
@@ -82,7 +82,7 @@ attacks:
     desc: "`pf2:1` (auditory,linguistic,mental) **Frequency** once per round\n* * *\n\n**Effect** Ordulf issues a devastating and humiliating insult to a creature within 30 feet that he can see. Ordulf attempts an Intimidation check check against the target's Will DC. That character is then temporarily immune to Crushing Insult for 24 hours.\n* * *\n\n**Critical Success** The insult is distracting and humiliating; the target is [[Conditions/Stupefied|Stupefied 1]] and [[Conditions/Off-Guard|Off-Guard]] for 1 minute.\n\n**Success** The insult is distracting, but its effects pass quickly; the target is stupefied 1 and off-guard until the start of Ordulf's next turn.\n\n**Failure** The insult barely cuts, but is distracting enough that the target is off-guard until the end of Ordulf's turn.\n\n**Critical Failure** Ordulf's attempted insult fails spectacularly, and the PC who he was attempting to insult can instantly insult him back, using Insult Ordulf as a free action."
 
   - name: "Deadly Display"
-    desc: "`pf2:2`  **Requirements** Ordulf is wielding a melee weapon\n* * *\n\n**Effect** Ordulf brandishes his weapon in a threatening display. He [[Actions/Demoralize|Demoralizes]] all enemies within 30 feet, rolling once and comparing the result to each target's Will DC."
+    desc: "`pf2:2`  **Requirements** Ordulf is wielding a melee weapon\n* * *\n\n**Effect** Ordulf brandishes his weapon in a threatening display. He [[Actions/demoralize|demoralize]]{Demoralizes} all enemies within 30 feet, rolling once and comparing the result to each target's Will DC."
 
   - name: "Whirlwind Strike"
     desc: "`pf2:3`  Ordulf Strikes each enemy within his reach. Each attack counts toward his multiple attack penalty, but do not increase his penalty until he has made all his attacks."

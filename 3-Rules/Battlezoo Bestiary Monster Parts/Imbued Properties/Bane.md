@@ -26,9 +26,9 @@ Magical
 
 *   **2nd** Strikes with the weapon deal 1 additional damage of the weapon's base damage type to creatures of the bane type
 *   **4th** The additional damage against the bane type increases to 1d4
-*   **6th** The additional damage against the bane type increases to 1d6. On a critical hit, you sap the strength of a creature from the bane type, causing it to be Enfeebled 1 until the end of your next turn
+*   **6th** The additional damage against the bane type increases to 1d6. On a critical hit, you sap the strength of a creature from the bane type, causing it to be [[undefined]] until the end of your next turn
 *   **10th** Against a creature of the bane type, the weapon's base damage ignores the first 5 points of the target's resistance
-*   **14th** The weapon can outright slay creatures of its bane type. On a critical hit, instead of being enfeebled 1 until the end of your next turn, a creature of the weapon's bane type must attempt a Fortitude save. On a critical success, it's enfeebled 1 until the end of your next turn, on a success, it's Enfeebled 2 until the end of your next turn, on a failure, it's Enfeebled 3 until the end of your next turn, and on a critical failure, it's destroyed. This effect has the incapacitation trait
+*   **14th** The weapon can outright slay creatures of its bane type. On a critical hit, instead of being enfeebled 1 until the end of your next turn, a creature of the weapon's bane type must attempt a Fortitude save. On a critical success, it's enfeebled 1 until the end of your next turn, on a success, it's [[undefined]] until the end of your next turn, on a failure, it's [[undefined]] until the end of your next turn, and on a critical failure, it's destroyed. This effect has the incapacitation trait
 *   **16th** The additional damage against creatures of the bane type increases to 1d8
 *   **20th** The additional damage against creatures of the bane type increases to 1d10
 

@@ -64,22 +64,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Invoke Alocer"
-    desc: "`pf2:r` (divine) **Trigger** Auldegrund is reduced to 60 or fewer Hit Points\n\n**Frequency** once per day\n* * *\n\n**Effect** Auldegrund calls out, in Infernal, \"Give me the strength to slay these foes in your name, almighty Alocer!\" As he does so, his skin darkens to red, diabolic horns jut from his brow, a flaming lion-like mane appears around his head, burning wings burst from his shoulders, and his weapons ignite with black fire.\n\nHe immediately heals 3d6+7 Hit Points, gains a fly speed of 25 feet, and deals an additional 1d6 fire damage with his melee and ranged Strikes.\n\nThis is a risky gambit, though, for Alocer is not patient. At the end of each of Auldegrund's turns, he must attempt a DC 11 Flat check (the DC of this flat check increases by 1 each round). On a failure, Alocer grows disappointed that Auldegrund has not defeated his foes and the effects of Invoke Alocer end immediately. This deals 3d6+7 damage to Auldegrund, removes his fly speed and additional fire damage to weapon Strikes, and causes Auldegrund to become [[Conditions/Frightened|Frightened 3]]."
+    desc: "`pf2:r` (divine) **Trigger** Auldegrund is reduced to 60 or fewer Hit Points\n\n**Frequency** once per day\n* * *\n\n**Effect** Auldegrund calls out, in Infernal, \"Give me the strength to slay these foes in your name, almighty Alocer!\" As he does so, his skin darkens to red, diabolic horns jut from his brow, a flaming lion-like mane appears around his head, burning wings burst from his shoulders, and his weapons ignite with black fire.\n\nHe immediately heals 3d6+7 healing Hit Points, gains a fly speed of 25 feet, and deals an additional 1d6 fire damage with his melee and ranged Strikes.\n\nThis is a risky gambit, though, for Alocer is not patient. At the end of each of Auldegrund's turns, he must attempt a DC 11 Flat check (the DC of this flat check increases by 1 each round). On a failure, Alocer grows disappointed that Auldegrund has not defeated his foes and the effects of Invoke Alocer end immediately. This deals 3d6+7 damage to Auldegrund, removes his fly speed and additional fire damage to weapon Strikes, and causes Auldegrund to become [[Conditions/Frightened|Frightened 3]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +15 (shove, unholy)\n__Damage__  1d8 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+15 (shove, unholy)\n__Damage__  1d8 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +17 (deadly d10, propulsive, range increment 60 feet, unholy)\n__Damage__  2d6 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+17 (deadly d10, propulsive, range increment 60 feet, unholy)\n__Damage__  2d6 + 5 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 22, attack +14; __4th __ (2 slots) _[[Spells/Honeyed Words|Glibness]]_, _[[Spells/Summon Animal|Summon Animal (lion only)]]_; __3rd __ (1 slots) _[[Spells/Crisis of Faith|Crisis of Faith]]_; __2nd __ (1 slots) _[[Compendium.pf2e.spells-srd.Item.FzAtX8yXBjTaisJK|Undetectable Alignment]]_; __1st __ (3 slots) _[[Spells/Sure Strike|True Strike (x3)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Animate Object|Animate Object]]_, _[[Spells/Diabolic Pact|Infernal Pact]]_, _[[Spells/Shadow Double|Simulacrum]]_"
+    desc: "_Animate Object_, _Infernal Pact_, _Simulacrum_"
 
   - name: "Cruel Shot"
     desc: "`pf2:2`  Auldegrund takes time to line up a shot with his bow and smiles cruelly as he makes a ranged Strike with it.\n\nIf he hits, he deals 2d6 precision damage and 1d6 bleed damage. Even if he misses, he still deals 2d6 damage from the glancing blow. Only on a critical miss does his cruel shot deal no damage."

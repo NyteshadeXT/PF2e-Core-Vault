@@ -6,7 +6,7 @@ cssClasses: pf2e
 tags:
   - pf2eVehicle
 
-source: Pathfinder Lost Omens: The Grand Bazaar
+source: Pathfinder Lost Omens The Grand Bazaar
 aliases: "Compendium.pf2e.vehicles.Actor.MCU4ZiNNAX7GQNJb" 
 level: 4
 license: OGL
@@ -17,7 +17,7 @@ statblock: inline
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: The Grand Bazaar"
+source: "Pathfinder Lost Omens The Grand Bazaar"
 name: "Firework Pogo"
 level: "Vehicle 4"
 rare_03: [[Uncommon]]
@@ -61,7 +61,7 @@ attacks:
 
 
 
-sourcebook: "_Pathfinder Lost Omens: The Grand Bazaar_"
+sourcebook: "_Pathfinder Lost Omens The Grand Bazaar_"
 ```
 
 ```encounter-table

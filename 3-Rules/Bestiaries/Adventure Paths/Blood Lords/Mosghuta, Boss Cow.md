@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_MOSGHUTA.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Mosghuta, Boss Cow"
 level: "Creature 3"
@@ -62,17 +63,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +11 ()\n__Damage__  1d12 + 5 piercing plus knockdown"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+11 (unarmed)\n__Damage__  1d12 + 5 piercing plus knockdown"
 
   - name: "Trundling Gore"
     desc: "`pf2:2`  Mosghuta surges forward at her foe, horn lowered. She Strides once. If she ends her movement within melee range of an enemy, she makes a horn Strike against that enemy. If that Strike succeeds, Mosghuta uses Knockdown as a free action."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

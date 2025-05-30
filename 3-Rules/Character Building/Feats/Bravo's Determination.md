@@ -31,5 +31,5 @@ Your confidence borders on self-delusion, but it keeps you going against overwhe
 
 **Success** You avoid being knocked out and remain at 1 Hit Point, but you increase your [[Conditions/Wounded|Wounded]] value by 1.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

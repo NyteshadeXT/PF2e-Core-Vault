@@ -10,15 +10,16 @@ tags:
   - trait/concentrate
   - trait/focus
   - trait/manipulate
-  - trait/common
+  - trait/uncommon
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.iMmexY6ZosLS4I5R" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Door to Beyond  `pf2:2`"
 level: "Focus 4"
-
+rare_03: [[Uncommon]]
 trait_01: [[cleric]]
 trait_02: [[concentrate]]
 trait_03: [[focus]]
@@ -36,6 +37,6 @@ abilities_top:
     desc: "1 minute"
 abilities_mid:
   - name: ""
-    desc: "Striking at thin air, you create hairline cracks in an unoccupied adjacent space that lead somewhere outside reality. Air rushes through the cracks, drawing Large or smaller creatures and objects of light Bulk or less toward the center. Large or smaller creatures in the area must attempt a Fortitude save at the start of their turn; creatures that move into the area must attempt the save on entering.\n\nThe cracks of the door to beyond are too thin for anything to fully slip through, but decompressive effects deal 4d6 slashing damage to any creature or object that ends its turn in the door's space. You are unaffected by your own _door to beyond_. You can Dismiss the spell.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is pulled 10 feet toward the door.\n\n**Critical Failure** The creature is pulled 20 feet toward the door.\n* * *\n\n**Heightened (+1)** The damage increases by 1d6."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+    desc: "Striking at thin air, you create hairline cracks in an unoccupied adjacent space that lead somewhere outside reality. Air rushes through the cracks, drawing Large or smaller creatures and objects of light Bulk or less toward the center. Large or smaller creatures in the area must attempt a Fortitude save at the start of their turn; creatures that move into the area must attempt the save upon entering.\n\nThe cracks of the door to beyond are too thin for anything to fully slip through, but decompressive effects deal 4d6 slashing damage to any creature or object that ends its turn adjacent to the door. You are unaffected by your own door to beyond. You can Dismiss the spell.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is pulled 10 feet toward the door.\n\n**Critical Failure** The creature is pulled 20 feet toward the door.\n* * *\n\n**Heightened (+1)** The damage increases by 1d6."
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

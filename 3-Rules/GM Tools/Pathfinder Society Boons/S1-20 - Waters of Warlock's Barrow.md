@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-20 - Waters of Warlock's Barrow"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.YVOyEfO8tTx4jj2q"
 license: OGL
 ---
 # S1-20 - Waters of Warlock's Barrow `pf2:2`
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

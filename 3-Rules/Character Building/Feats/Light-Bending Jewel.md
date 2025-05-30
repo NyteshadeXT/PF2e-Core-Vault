@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Your ability to walk unseen through the world has given you the new moon's blessing. Once per day, while you possess your head gem, you can cast either [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] or [[Translocate|Translocate]] as a 4th-rank innate occult spell.
+Your ability to walk unseen through the world has given you the new moon's blessing. Once per day, while you possess your head gem, you can cast either [[Spells/Invisibility|Invisibility]] or [[Spells/Translocate|Translocate]] as a 4th-rank innate occult spell.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

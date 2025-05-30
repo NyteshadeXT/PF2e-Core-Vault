@@ -54,11 +54,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 (agile, finesse)\n__Damage__  2d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (agile, finesse, unarmed)\n__Damage__  2d8 + 5 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 22, attack +14; __4th __  _[[Spells/Discern Lies|Discern Lies]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_\n__Cantrips__  __(3rd)__ _[[Spells/Prestidigitation|Prestidigitation]]_"

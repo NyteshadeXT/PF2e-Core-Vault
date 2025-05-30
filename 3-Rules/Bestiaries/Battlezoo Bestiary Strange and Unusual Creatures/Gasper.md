@@ -39,7 +39,7 @@ perception:
 languages: "Aklo, Sussuran; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Athletics: +20, Stealth: +16, Athletics: +20, Elemental Plane of Air Lore: +16, Stealth: +16"
+    desc: "Athletics: +20, Stealth: +16, Elemental Plane of Air Lore: +16"
 abilityMods: [6, 2, 6, -2, 2, 2]
 speed: 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -69,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +21 (magical, reach 10 feet)\n__Damage__  2d12 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+21 (magical, reach 10 feet)\n__Damage__  2d12 + 12 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spine +21 (agile, magical, reach 10 feet)\n__Damage__  2d8 + 12 piercing"
+  - name: "**Melee** `pf2:1` Spine"
+    desc: "+21 (agile, magical, reach 10 feet)\n__Damage__  2d8 + 12 piercing"
 
   - name: "Desperate Assault"
     desc: "`pf2:2`  The gasper Leaps up to its Speed and makes Strikes against up to two creatures in reach at the end of its movement. It doesn't increase its multiple attack penalty from these Strikes until after it makes both of them."

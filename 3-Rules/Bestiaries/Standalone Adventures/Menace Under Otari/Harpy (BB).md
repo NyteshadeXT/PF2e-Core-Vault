@@ -3,7 +3,7 @@ title: "Harpy (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.AuCC04X2AO8oFN75" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.uBNm3R9wbLTPrM9i" 
 tags:
   - pf2e/creature/type/air
   - pf2e/creature/type/beast
@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +15 (agile, finesse)\n__Damage__  2d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+15 (agile, finesse, unarmed)\n__Damage__  2d6 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 (finesse)\n__Damage__  2d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (finesse, unarmed)\n__Damage__  2d8 + 4 piercing"
 
   - name: "Hungry Winds"
     desc: "`pf2:2` (air,concentrate) The harpy uses the wind to pull its prey closer. A target within 20 feet must succeed at a DC 21 Fortitude check save or be pulled adjacent to the harpy. The harpy then makes a jaws strike against the target. If the target is pulled into the air and cannot fly, it falls as normal."

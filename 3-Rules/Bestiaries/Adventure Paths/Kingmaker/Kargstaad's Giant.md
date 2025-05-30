@@ -59,20 +59,23 @@ abilities_top:
     desc: "[[Equipment/Greataxe|+2 Striking Greataxe]], [[Equipment/Breastplate|+2 Resilient Dragonhide Breastplate]], 5x Rock, 5x [[Equipment/Sack|Sack]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 15]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "[[Bestiary Ability Glossary/Catch Rock|Catch Rock]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Requirements** The monster must have a free hand but can [[Actions/Release|Release]] anything it's holding as part of this reaction.\n\n**Trigger** The monster is targeted with a thrown rock Strike or a rock would fall on the monster.\n* * *\n\n**Effect** The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +29 (magical, reach 10 feet, sweep)\n__Damage__  2d12 + 22 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+29 (magical, reach 10 feet, sweep)\n__Damage__  2d12 + 22 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +29 (agile, reach 10 feet)\n__Damage__  2d8 + 22 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+29 (agile, reach 10 feet, unarmed)\n__Damage__  2d8 + 22 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +29 (brutal, range increment 120 feet)\n__Damage__  3d10 + 13 bludgeoning plus rock"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+29 (brutal, range increment 120 feet)\n__Damage__  3d10 + 13 bludgeoning plus rock"
 
   - name: "Chill Breath"
     desc: "`pf2:1` (cold,primal) The frost giant breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 7d6 cold damage. Each creature in the cone must attempt a DC 36 Reflex check save.\n\nA creature that fails its save is also [[Conditions/Immobilized|Immobilized]] and takes 2d6 cold damage at the end of each of its turns until it gets free (Escape DC 36).\n\nThe giant can't use Chill Breath again for 1d4 rounds."
@@ -81,7 +84,7 @@ attacks:
     desc: "  A frost giant isn't impeded by difficult terrain caused by snow or ice, nor does it need to attempt Acrobatics checks to keep from falling on slippery ice."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
 
   - name: "Wide Swing"
     desc: "`pf2:1`  The frost giant makes a single greataxe Strike and compares the attack roll result to the ACs of up to two foes within its reach. This counts as two attacks for the frost giant's multiple attack penalty."

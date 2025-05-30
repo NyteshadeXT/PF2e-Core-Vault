@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Graveknight) Empty Save for Dust"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.03knx0BWuYBNciXI"
 license: OGL

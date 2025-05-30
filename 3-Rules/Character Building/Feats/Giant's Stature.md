@@ -15,7 +15,7 @@ license: ORC
 ---
 # Giant's Stature `pf2:1`
 ## Feat 6
-### [[barbarian]][[polymorph]][[primal]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[polymorph]][[primal]][[rage]]
 
 **Category** class; 
 

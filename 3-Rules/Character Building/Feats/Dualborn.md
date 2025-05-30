@@ -27,5 +27,5 @@ Your suli heritage can be traced back to two geniekin ancestors of opposing elem
 
 [[Feat_Feature Effects/Effect_ Elemental Assault|Effect: Elemental Assault]]
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

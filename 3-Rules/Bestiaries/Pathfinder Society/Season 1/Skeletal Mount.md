@@ -61,11 +61,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Skeleton) Explosive Death|Explosive Death]]"
     desc: "  When the skeleton is destroyed, its bones shatter and explode as the necromantic energy holding it together is released.\n\nAdjacent creatures take 2d6 slashing damage with a DC 13 Reflex check save."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +9 ()\n__Damage__  1d8 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+9 ()\n__Damage__  1d8 + 5 bludgeoning"
 
   - name: "Gallop"
     desc: "`pf2:2`  The mount Strides twice, with its Speed increased by 10 feet."

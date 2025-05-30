@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Searing Blade (Greater)|Searing Blade (Greater)]]
+Granted by [[Equipment/Searing Blade (Greater)|Searing Blade (Greater)]]
 
-A @Template\[emanation|distance:10\] of flame radiates from the _greater searing blade_ for 1 minute. All weapon and unarmed attacks by you and your allies within the area gain the effect of the _flaming_ property rune.
+A 10-foot emanation of flame radiates from the _greater searing blade_ for 1 minute. All weapon and unarmed attacks by you and your allies within the area gain the effect of the _flaming_ property rune.
 
 *Source: Pathfinder GM Core*
 *ORC*

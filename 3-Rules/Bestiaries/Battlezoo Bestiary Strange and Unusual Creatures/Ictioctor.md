@@ -41,7 +41,7 @@ perception:
 languages: "Chthonian; swarm telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +10, Athletics: +12, Intimidation: +12, Occultism: +10, Acrobatics: +10, Athletics: +12, Intimidation: +12, Occultism: +10"
+    desc: "Acrobatics: +10, Athletics: +12, Intimidation: +12, Occultism: +10"
 abilityMods: [5, 3, 2, 3, 2, 5]
 speed: 25 feet,  climb 25 feet,  swim 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 (mental, unholy)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (magical)\n__Damage__  2d6 + 5 slashing plus grab 1d6 spirit plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Jellyfish +12 (magical, range increment 30 feet, unholy)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Jellyfish"
+    desc: "+12 (magical, range increment 30 feet)\n__Damage__  2d6 + 5 poison plus jellyfish-venom 1d6 spirit plus jellyfish-venom"
 
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Vomit Swarm|Vomit Swarm (Jellyfish) (x2)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_"

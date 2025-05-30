@@ -70,8 +70,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 (finesse, force, magical)\n__Damage__  1d6 + 2 force"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (finesse, force, magical, unarmed)\n__Damage__  1d6 + 2 force"
 
   - name: "Occult Innate Spells"
     desc: "DC 14, attack +6; __1st __  _[[Spells/Fear|Fear]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"

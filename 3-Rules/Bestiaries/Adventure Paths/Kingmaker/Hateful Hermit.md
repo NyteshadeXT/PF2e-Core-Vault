@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +14 (disarm, finesse, magical, nonlethal, reach 10 feet, trip)\n__Damage__  1d4 + 7 slashing"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+14 (disarm, finesse, magical, nonlethal, reach 10 feet, trip)\n__Damage__  1d4 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +13 (agile, finesse, trip)\n__Damage__  1d4 + 7 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+13 (agile, finesse, trip)\n__Damage__  1d4 + 7 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blowgun +13 (agile, nonlethal, range increment 20 feet, reload 1)\n__Damage__  1 piercing plus graveroot"
+  - name: "**Ranged** `pf2:1` Blowgun"
+    desc: "+13 (agile, nonlethal, range increment 20 feet, reload 1)\n__Damage__  1 piercing plus graveroot"
 
   - name: "Focus Hatred"
     desc: "`pf2:1` (emotion,mental) The hateful hermit unleashes a vexing stream of profanities and threats at a single foe he can see within 30 feet. The hermit gains a +1 circumstance bonus on all attack rolls made against that target until he chooses a different target to Focus Hatred on. The target must attempt a DC 22 Will check save, with the below effects. The hateful hermit cannot Focus Hatred again for 1d4 rounds.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune to Focus Hatred for 24 hours.\n\n**Success** The target is distracted by the hatred and is [[Conditions/Off-Guard|Off-Guard]] against the hermit's next attack.\n\n**Failure** The hermit's words unnerve the target and distract them; the target is off-guard until the end of the hateful hermit's next turn.\n\n**Critical Failure** As failure, but the target is off-guard for 1 minute."

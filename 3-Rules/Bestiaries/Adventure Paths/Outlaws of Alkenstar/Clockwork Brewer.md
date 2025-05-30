@@ -57,18 +57,18 @@ abilities_top:
     desc: "  A clockwork brewer can hold up to 5 gallons of liquid in a built-in tank. By default, this tank contains the clockwork brewer's beer."
 
   - name: "Standard Greeting"
-    desc: "  Clockwork brewers have a limited set of pre-recorded phrases they can use to interact with clientele, based on their instructions. The audio is recorded on an embedded gemstone worth 5 gp. Removing a gemstone from or installing a gemstone into a clockwork brewer requires a successful DC 18 Thievery check check to Disable a Device; on a failure, the gemstone is undamaged, but any recorded sounds are erased."
+    desc: "  Clockwork brewers have a limited set of pre-recorded phrases they can use to interact with clientele, based on their instructions. The audio is recorded on an embedded gemstone worth 5 gp. Removing a gemstone from or installing a gemstone into a clockwork brewer requires a successful [[Actions/disable-device dc=18|disable-device dc=18]]{DC 18 Thievery} check to Disable a Device; on a failure, the gemstone is undamaged, but any recorded sounds are erased."
 
   - name: "[[Creature Family Ability Glossary/(Clockwork Creature) Wind-Up|Wind-Up]]"
-    desc: "  24 hours, DC 18 Thievery check check, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  24 hours, [[Actions/disable-device dc=18|disable-device dc=18]]{DC 18 Thievery} check, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Leg +9 (agile, unarmed)\n__Damage__  2d4 + 4 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Leg"
+    desc: "+9 (agile, unarmed)\n__Damage__  2d4 + 4 bludgeoning plus grab"
 
   - name: "Bottoms Up"
     desc: "`pf2:1`  **Requirements** The clockwork brewer has a creature [[Conditions/Grabbed|grappled]]\n* * *\n\n**Effect** The clockwork brewer force- feeds the grappled creature 1 serving of whatever liquid is in the clockwork brewer's tank (typically beer such as Smokeside Sour). The creature is exposed to the liquid's effects, and it can't breathe or speak until the start of its turn."
@@ -80,7 +80,7 @@ attacks:
     desc: " (ingested,poison) **Saving Throw** DC 12 Fortitude check\n\n**Maximum Duration** 1 hour\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (10 minutes)\n\n**Stage 2** clumsy 1 and [[Conditions/Stupefied|Stupefied 1]] (10 minutes)\n\n**Stage 3** [[Conditions/Clumsy|Clumsy 2]], [[Conditions/Stupefied|Stupefied 2]], and sickened (40 minutes)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

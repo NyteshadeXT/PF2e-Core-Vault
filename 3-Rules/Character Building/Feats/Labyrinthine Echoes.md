@@ -12,14 +12,14 @@ license: ORC
 ---
 # Labyrinthine Echoes
 ## Feat 5
-### [[Minotaur]]
+### [[minotaur]]
 
 **Category** ancestry; 
 
 
 
 
-You can make your voice reverberate off any surface. Once per day, you can cast [[Ventriloquism|Ventriloquism]] as an occult innate spell. At 7th level, this spell is heightened to 2nd rank.
+You can make your voice reverberate off any surface. Once per day, you can cast [[Spells/Ventriloquism|Ventriloquism]] as an occult innate spell. At 7th level, this spell is heightened to 2nd rank.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

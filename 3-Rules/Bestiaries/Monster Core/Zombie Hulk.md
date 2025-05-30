@@ -61,14 +61,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hunk Of Meat +17 (reach 15 feet)\n__Damage__  2d10 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Hunk Of Meat"
+    desc: "+17 (reach 15 feet)\n__Damage__  2d10 + 9 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Corpse +17 (brutal, range increment 30 feet)\n__Damage__  2d6 + 9 bludgeoning"
+  - name: "**Ranged** `pf2:1` Corpse"
+    desc: "+17 (brutal, range increment 30 feet)\n__Damage__  2d6 + 9 bludgeoning"
 
   - name: "Corpse Throwing"
     desc: "  A zombie hulk can throw Medium or smaller corpses at foes. They can also throw Medium or smaller zombies for this purpose, who take just as much damage as the target they hit. A zombie that survives being thrown falls [[Conditions/Prone|Prone]]."

@@ -57,14 +57,17 @@ abilities_mid:
   - name: "Vein Walker"
     desc: "  The excorion moves about by way of hundreds of pulsating blood vessels, which stretch from its body in dozens of tight, ropy bundles and anchor it to the ground. An excorion cannot be Tripped, Shoved, or otherwise forcibly moved except by magic, and the excorion ignores difficult terrain (but not greater difficult terrain)."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 (agile, finesse)\n__Damage__  2d8 + 8 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (agile, finesse, unarmed)\n__Damage__  2d8 + 8 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bloody Spew +18 (range increment 20 feet)\n__Damage__  3d6 + 4 bludgeoning"
+  - name: "**Ranged** `pf2:1` Bloody Spew"
+    desc: "+18 (range increment 20 feet)\n__Damage__  3d6 + 4 bludgeoning"
 
   - name: "Bloody Handprint"
     desc: "`pf2:1`  The excorion plants a magical handprint on the target, marking them as chosen for death. The excorion makes a fist Strike against an adjacent creature; this does not count toward the excorion's multiple attack penalty. On a hit, the attack does no damage, but the creature becomes observed to every excorion within 60 feet, even if an excorion's line of sight would be blocked by a wall or other obstacle. This effect lasts until the handprint is washed off, which requires water and spending 3 actions to fully clean off."
@@ -76,7 +79,7 @@ attacks:
     desc: "`pf2:1`  The excorion spews necrotic blood all over a foe it has grabbed. The grabbed creature must succeed at a DC 25 Fortitude check save or become [[Conditions/Sickened|Sickened 2]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Immortal Lightness
 * * *
-Your qi, dancing ever diligently toward cultivation, eludes the grasp of the world's muck and mire. When you cast your [[Adapt Self|Adapt Self]] or [[Athletic Rush|Athletic Rush]] focus spells, you ignore difficult terrain until the end of your next turn.
+Your qi, dancing ever diligently toward cultivation, eludes the grasp of the world's muck and mire. When you cast your [[Spells/Adapt Self|Adapt Self]] or [[Spells/Athletic Rush|Athletic Rush]] focus spells, you ignore difficult terrain until the end of your next turn.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -57,22 +57,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Catch Rock|Catch Rock]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Requirements** The monster must have a free hand but can [[Actions/Release|Release]] anything it's holding as part of this reaction.\n\n**Trigger** The monster is targeted with a thrown rock Strike or a rock would fall on the monster.\n* * *\n\n**Effect** The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Headbutt +18 ()\n__Damage__  2d10 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Headbutt"
+    desc: "+18 ()\n__Damage__  2d10 + 8 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 (agile, reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (agile, reach 10 feet, unarmed)\n__Damage__  2d8 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shrapnel +16 (range 30 feet, versatile p)\n__Damage__  2d4 + 8 bludgeoning"
+  - name: "**Ranged** `pf2:1` Shrapnel"
+    desc: "+16 (range 30 feet, versatile p)\n__Damage__  2d4 + 8 bludgeoning"
 
   - name: "Explosive Headbutt"
     desc: "`pf2:2`  The smog giant cracks their neck, triggering pockets of black powder at the base of their skull to impart additional power to their attack. The giant then attempts a headbutt Strike. This counts as two attacks when calculating the giant's attack penalty. If this Strike hits, it deals 2d10+8 bludgeoning damage and the creature struck must attempt a DC 25 Fortitude check save.\n* * *\n\n**Critical Success** The creature suffers no additional effect.\n\n**Success** The creature takes an additional 1d10 bludgeoning damage.\n\n**Failure** The creature takes an additional 2d10 bludgeoning damage and is knocked [[Conditions/Prone|Prone]] if it's Large or smaller.\n\n**Critical Failure** As failure, but without a size limit."

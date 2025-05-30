@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Glaive of the Artist|Glaive of the Artist]].
+Granted by [[Equipment/Glaive of the Artist|Glaive of the Artist]]
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+All allies within 60 feet who can see the glaive's banner gain a +2 item bonus to Performance checks.
+
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

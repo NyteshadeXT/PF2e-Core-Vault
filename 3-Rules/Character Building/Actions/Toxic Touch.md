@@ -12,7 +12,7 @@ license: OGL
 ---
 # Toxic Touch `pf2:1`
 
-### [[3-Rules/Rule References/Poison]]
+### [[poison]]
 
 **Category** offensive; 
 

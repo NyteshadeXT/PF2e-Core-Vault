@@ -35,5 +35,5 @@ Attempt a Religion check check against the Will DC of a foe within 30 feet. The 
 
 **Critical Failure** The backlash of your foe's will against your prayer prevents you from using Battle Prayer again for 10 minutes.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

@@ -20,5 +20,5 @@ license: OGL
 
 Your vision is suited for night or the underground. You gain darkvision.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

@@ -27,5 +27,5 @@ license: OGL
 
 You Stride up to 10 feet to enter the water, bringing the [[Conditions/Grabbed|Grabbed]] creature with you into the water.
 
-*Source: Pathfinder Lost Omens: Absalom, City of Lost Omens*
+*Source: Pathfinder Lost Omens Absalom, City of Lost Omens*
 *OGL*

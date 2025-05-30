@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d8 + 7 piercing plus briny-wound"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (unarmed)\n__Damage__  2d8 + 7 piercing plus briny-wound"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +15 (agile, reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+15 (agile, reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning"
 
   - name: "Ball Lightning Breath"
     desc: "`pf2:2` (arcane,electricity) The sea drake spews a ball of electricity that strikes a primary target within 100 feet, dealing 6d6 electricity damage (DC 22 Reflex check save). The lightning then arcs to up to three secondary targets within 30 feet of the primary target, striking the closest available targets first. The secondary bolts each strike one secondary target and deal the same rolled damage value as the primary bolt (DC 20 Reflex check save).\n\nThe sea drake can't use Ball Lightning Breath again for 1d6 rounds."

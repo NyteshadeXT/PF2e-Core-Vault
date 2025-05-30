@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Hammer +10 (agile)\n__Damage__  1d6 + 3 bludgeoning plus smiths-fury"
+  - name: "**Melee** `pf2:1` Light Hammer"
+    desc: "+10 (agile)\n__Damage__  1d6 + 3 bludgeoning plus smiths-fury"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +8 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning plus smiths-fury"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+8 (agile, thrown 20 ft.)\n__Damage__  1d6 + 3 bludgeoning plus smiths-fury"
 
   - name: "Smith's Fury"
     desc: "  The smith deals an additional 1d6 damage when they hit with a weapon they created."

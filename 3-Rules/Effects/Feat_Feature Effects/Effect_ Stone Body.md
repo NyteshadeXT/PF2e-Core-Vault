@@ -20,5 +20,5 @@ Granted by [[Feats/Stone Body|Stone Body]]
 
 You gain resistance 10 to all damage.
 
-*Source: Pathfinder Lost Omens: Highhelm*
+*Source: Pathfinder Lost Omens Highhelm*
 *OGL*

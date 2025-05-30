@@ -5,7 +5,7 @@ noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell
 tags:
   - pf2eSpell
-  - spell/level/4
+  - spell/level/3
   - trait/focus
   - trait/manipulate
   - trait/monk
@@ -18,7 +18,7 @@ license: ORC
 ---
 ```statblock
 name: "Shrink the Span  `pf2:1`"
-level: "Focus 4"
+level: "Focus 3"
 rare_03: [[Uncommon]]
 trait_01: [[focus]]
 trait_02: [[manipulate]]

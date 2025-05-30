@@ -7,7 +7,7 @@ tags:
   - trait/infantry
   - trait/siege
   - trait/skirmisher
-  - trait/common
+  - trait/
   - category/army-tactic
 aliases: "Compendium.pf2e.kingmaker-features.Item.DrUT5sE0EuU5dtPa"
 license: OGL

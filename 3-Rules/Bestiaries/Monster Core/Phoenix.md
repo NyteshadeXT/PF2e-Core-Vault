@@ -7,6 +7,7 @@ aliases: "Compendium.pf2e.pathfinder-monster-core.Actor.mQJL411e9Iz8dJoh"
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/fire
+  - pf2e/creature/type/holy
   - pf2eMonster
   - pf2e/creature/level/15
   - remaster
@@ -29,6 +30,7 @@ alignment: ""
 size: "grg"
 trait_01: [[beast]]
 trait_02: [[fire]]
+trait_03: [[holy]]
 modifier: 27
 perception:
   - name: "Perception"
@@ -52,8 +54,14 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 20 (Deactivated by Cold or Unholy)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Self-Resurrection"
     desc: " (healing,primal) When a phoenix dies, they collapse into a pile of smoldering ashes before returning to life fully healed 1d4 rounds later, as if subject to a 7th-rank [[Spells/Resurrect|Resurrect]] ritual. Self-resurrection happens only if there are some remains to resurrect; for instance, a phoenix killed by a [[Spells/Disintegrate|Disintegrate]] spell can't use this ability.\n\nA phoenix whose remains rest within an area devoted to an unholy deity by [[Spells/Consecrate|Consecrate]] can't self-resurrect until their remains are no longer in that area. A phoenix can self-resurrect only once per year."
 
@@ -63,14 +71,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +30 (finesse, fire, magical, reach 20 feet)\n__Damage__  1d12 + 9 piercing 3d8 fire 2d10 fire"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+30 (finesse, fire, magical, reach 20 feet, unarmed)\n__Damage__  1d12 + 9 piercing 3d8 fire 2d10 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +30 (agile, finesse, fire, magical, reach 20 feet)\n__Damage__  1d6 + 6 piercing 3d8 fire 2d10 fire"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+30 (agile, finesse, fire, magical, reach 20 feet, unarmed)\n__Damage__  1d6 + 6 piercing 3d8 fire 2d10 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flame Jet +30 (fire, range increment 40 feet)\n__Damage__  6d6 fire 2d10 fire"
+  - name: "**Ranged** `pf2:1` Flame Jet"
+    desc: "+30 (fire, range increment 40 feet)\n__Damage__  6d6 fire 2d10 fire"
 
   - name: "Primal Innate Spells"
     desc: "DC 39, attack +31; __8th __  _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Dispel Magic|Dispel Magic (x3)]]_, _[[Spells/Divine Immolation|Divine Immolation]]_, _[[Spells/Everlight|Everlight (At Will)]]_, _[[Spells/Heal|Heal (x3)]]_, _[[Spells/Wall of Fire|Wall of Fire (x3)]]_; __7th __  _[[Spells/Dispel Magic|Dispel Magic (At Will)]]_; __6th __  _[[Spells/Cleanse Affliction|Cleanse Affliction (x3)]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_\n__Constant__  __(6th)__ _[[Spells/See the Unseen|See the Unseen]]_"

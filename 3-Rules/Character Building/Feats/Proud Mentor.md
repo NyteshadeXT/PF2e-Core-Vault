@@ -12,7 +12,7 @@ license: ORC
 ---
 # Proud Mentor
 ## Feat 5
-### [[Centaur]]
+### [[centaur]]
 
 **Category** ancestry; 
 

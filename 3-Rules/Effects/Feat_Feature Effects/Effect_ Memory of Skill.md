@@ -21,5 +21,5 @@ Granted by [[Feats/Memory of Skill|Memory of Skill]]
 
 You temporarily increase your proficiency rank with that skill by one step.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

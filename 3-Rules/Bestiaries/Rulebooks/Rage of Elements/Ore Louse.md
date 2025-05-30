@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +14 (finesse)\n__Damage__  2d8 + 4 piercing plus metal-snack,rust"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+14 (finesse)\n__Damage__  2d8 + 4 piercing plus metal-snack,rust"
 
-  - name: "Melee"
-    desc: "`pf2:1` Leg +14 (finesse, reach 10 feet)\n__Damage__  2d8 + 4 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Leg"
+    desc: "+14 (finesse, reach 10 feet)\n__Damage__  2d8 + 4 bludgeoning plus knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Oxidizing Spit +14 (range increment 20 feet)\n__Damage__  2d8 acid plus rust"
+  - name: "**Ranged** `pf2:1` Oxidizing Spit"
+    desc: "+14 (range increment 20 feet)\n__Damage__  2d8 acid plus rust"
 
   - name: "Consume Living Metal"
     desc: "`pf2:1` (manipulate) **Requirements** The ore louse is adjacent to a creature that died within the last hour and had the metal trait or was another ore louse\n* * *\n\n**Effect** An ore louse can replenish its health by eating the remains of its kin or a once-living metal creature. The ore louse feasts upon the corpse, regaining 3d6 Hit Points. The ore louse can regain Hit Points from a given corpse only once."

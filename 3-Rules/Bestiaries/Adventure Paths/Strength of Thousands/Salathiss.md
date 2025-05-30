@@ -55,16 +55,19 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Bands of Force|Bracers of Armor I]], [[Equipment/Choker of Elocution|Choker of Elocution (Xanmba)]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +19 ()\n__Damage__  2d8 + 8 piercing plus serpentfolk-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+19 ()\n__Damage__  2d8 + 8 piercing plus serpentfolk-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Morphic Weapon +20 (magical, reach 10 feet, sweep, versatile p)\n__Damage__  3d10 + 8 slashing"
+  - name: "**Melee** `pf2:1` Morphic Weapon"
+    desc: "+20 (magical, reach 10 feet, sweep, versatile p)\n__Damage__  3d10 + 8 slashing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 28, attack +20; __5th __ (2 slots) _[[Spells/Cloak of Colors|Cloak of Colors]]_, _[[Spells/Magic Passage|Passwall]]_; __4th __ (3 slots) _[[Spells/Honeyed Words|Glibness]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Compendium.pf2e.spells-srd.Item.hkfH9Z53hPzcOwNB|Veil]]_; __3rd __ (3 slots) _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __ (3 slots) _[[Spells/Darkness|Darkness]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __ (3 slots) _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Item Facade|Item Facade]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(5th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

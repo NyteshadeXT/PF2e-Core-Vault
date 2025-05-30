@@ -53,6 +53,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Composite Shortbow|+1 Composite Shortbow]], [[Equipment/Shortsword|Shortsword]]"
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
 abilities_mid:
   - name: ""
   - name: "Biting Snakes"
@@ -64,14 +67,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +20 (agile, finesse, versatile s)\n__Damage__  1d6 + 10 piercing plus serpent-venom"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+20 (agile, finesse, versatile s)\n__Damage__  1d6 + 10 piercing plus serpent-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Snake Fangs +18 (agile, finesse)\n__Damage__  1d4 + 8 piercing plus serpent-venom"
+  - name: "**Melee** `pf2:1` Snake Fangs"
+    desc: "+18 (agile, finesse)\n__Damage__  1d4 + 8 piercing plus serpent-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +21 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 9 piercing plus serpent-venom"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+21 (deadly d10, magical, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 9 piercing plus serpent-venom"
 
   - name: "Focus Gaze"
     desc: "`pf2:1` (arcane,concentrate,incapacitation,visual) The medusa fixes their glare at a creature they can see within 30 feet. The target must immediately attempt a Fortitude save against the medusa's petrifying gaze. If the creature was already slowed by petrifying gaze before attempting its save, a failed save causes it to be [[Conditions/Petrified|Petrified]] permanently. After attempting its save, the creature is then temporarily immune until the start of the medusa's next turn."

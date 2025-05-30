@@ -3,7 +3,7 @@ title: "Xulgath Leader (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.YdBCG0vzOA5BgoIi" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.7w1w7VTnIWMBdFux" 
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
@@ -55,22 +55,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stench"
-    desc: "  A creature that comes within @Template[emanation|distance:30] of the xulgath and can smell the xulgath must attempt a DC 19 Fortitude check save. On a failure, the creature takes a -1 status penalty to all checks and DCs until it uses an action to retch. A creature that succeeds at its save isn't affected by any xulgaths' stenches for 1 minute _(Use [[Conditions/Sickened|Sickened 1]])_."
+    desc: "  A creature that comes within 30-foot emanation of the xulgath and can smell the xulgath must attempt a DC 19 Fortitude check save. On a failure, the creature takes a -1 status penalty to all checks and DCs until it uses an action to retch. A creature that succeeds at its save isn't affected by any xulgaths' stenches for 1 minute _(Use [[Conditions/Sickened|Sickened 1]])_."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +11 (sweep)\n__Damage__  1d10 + 6 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+11 (sweep)\n__Damage__  1d10 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile)\n__Damage__  1d4 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, unarmed)\n__Damage__  1d4 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Swipe"
     desc: "`pf2:2`  The xulgath boss makes two Strikes with their greataxe against two adjacent foes, both of whom are within their reach, with a +1 circumstance bonus. The second attack uses the same multiple attack penalty as the first, but attacks the xulgath boss makes after this take a -10 multiple attack penalty (or a -8 multiple attack penalty for its claw)."

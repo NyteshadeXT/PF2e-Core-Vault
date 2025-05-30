@@ -75,8 +75,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Telekinetic Object +27 (magical, occult, range increment 60 feet)\n__Damage__  3d12 + 10 untyped"
+  - name: "**Ranged** `pf2:1` Telekinetic Object"
+    desc: "+27 (magical, occult, range increment 60 feet)\n__Damage__  3d12 + 10 untyped"
 
   - name: "Occult Innate Spells"
     desc: "DC 35, attack +25; __7th __  _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver (At Will)]]_\n__Cantrips__  __(7th)__ _[[Spells/Telekinetic Hand|Mage Hand]]_"

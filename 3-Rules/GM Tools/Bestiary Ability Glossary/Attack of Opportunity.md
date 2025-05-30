@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Attack of Opportunity"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-ability-glossary-srd.Item.hFtNbo1LKYCoDy2O"
 license: OGL

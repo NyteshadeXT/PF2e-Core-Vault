@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Adventure-Specific Actions/Azata's Grace|Azata's Grace]]
+
 You gain 50 additional Hit Points, increasing both your maximum and current Hit Points, and gain the effects of the Righteous Call relic gift.
 
 *Source: Pathfinder #200: Seven Dooms for Sandpoint*

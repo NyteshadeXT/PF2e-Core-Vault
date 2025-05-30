@@ -39,5 +39,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You throw a magically propelled and chilled ball of dense snow. The target takes 2d4 cold damage and potentially other effects, depending on the result of your spell attack roll.\n* * *\n\n**Critical Success** The target takes double damage and a -10-foot status penalty to its Speeds for 1 round.\n\n**Success** The target takes full damage and a -5-foot status penalty to its Speeds for 1 round.\n\n**Failure** No effect.\n* * *\n\n**Heightened (+1)** The damage increases by 2d4."
-sourcebook: "_Pathfinder Lost Omens: World Guide_"
+sourcebook: "_Pathfinder Lost Omens World Guide_"
 ```

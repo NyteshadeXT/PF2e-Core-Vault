@@ -4,11 +4,12 @@ title: "Effect: Gunpowder Gauntlet"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.FaEvoqZXfQ7xnpRo"
-license: OGL
+license: ORC
 ---
 # Effect: Gunpowder Gauntlet
-## Level 1
+## Level 4
 ### 
 
 
@@ -18,7 +19,7 @@ license: OGL
 
 Granted by [[Feats/Gunpowder Gauntlet|Gunpowder Gauntlet]]
 
-The target takes a penalty to attack rolls against creatures other than you.
+You take a penalty to attack rolls against creatures other than the origin.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

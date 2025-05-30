@@ -4,29 +4,28 @@ title: "Administer First Aid"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/manipulate
-  - trait/skill
-  - trait/common
+  - trait/
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1"
 license: ORC
 ---
 # Administer First Aid `pf2:2`
 
-### [[3-Rules/Rule References/Manipulate]][[skill]]
+### [[manipulate]]
 
 
 
 
 
 
-**Requirements** You're wearing or holding a [[Healer's Toolkit|Healer's Toolkit]].
+**Requirements** You're wearing or holding a [[Equipment/Healer's Toolkit|Healer's Toolkit]].
 
 * * *
 
 You perform first aid on an adjacent creature that is [[Conditions/Dying|Dying]] or [[Conditions/Persistent Damage|Bleeding]]. If a creature is both dying and bleeding, choose which ailment you're trying to treat before you roll. You can Administer First Aid again to attempt to remedy the other effect.
 
-*   **Stabilize** Attempt a Medicine check on a creature that has 0 Hit Points and the dying condition. The DC is equal to 5 + that creature's recovery roll DC (typically 15 + its dying value).
-*   **Stop Bleeding** Attempt a Medicine check on a creature that is taking persistent bleed damage. The DC is usually the DC of the effect that caused the bleed.
+*   **Stabilize** Attempt a [[Actions/administer-first-aid variant=stabilize|administer-first-aid variant=stabilize]]{Medicine} check on a creature that has 0 Hit Points and the dying condition. The DC is equal to 5 + that creature's recovery roll DC (typically 15 + its dying value).
+*   **Stop Bleeding** Attempt a [[Actions/administer-first-aid variant=stop-bleeding|administer-first-aid variant=stop-bleeding]]{Medicine} check on a creature that is taking persistent bleed damage. The DC is usually the DC of the effect that caused the bleed.
 
 * * *
 

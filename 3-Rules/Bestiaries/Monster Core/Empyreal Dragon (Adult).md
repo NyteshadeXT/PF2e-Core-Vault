@@ -54,6 +54,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense (Imprecise) 30 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Divine Deflection"
@@ -65,17 +71,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +28 (holy, magical, reach 15 feet)\n__Damage__  1d8 spirit 3d10 + 11 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+28 (holy, magical, reach 15 feet, unarmed)\n__Damage__  1d8 spirit 3d10 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +28 (agile, holy, reach 10 feet)\n__Damage__  3d8 + 11 slashing 1d8 spirit"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+28 (agile, holy, reach 10 feet)\n__Damage__  3d8 + 11 slashing 1d8 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +26 (holy, reach 20 feet)\n__Damage__  1d8 spirit 3d10 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+26 (holy, reach 20 feet)\n__Damage__  1d8 spirit 3d10 + 11 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +26 (agile, holy, reach 15 feet)\n__Damage__  1d8 spirit 2d10 + 11 slashing"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+26 (agile, holy, reach 15 feet)\n__Damage__  1d8 spirit 2d10 + 11 slashing"
 
   - name: "Divine Innate Spells"
     desc: "DC 34, attack +26; __7th __  _[[Spells/Heal|Heal]]_, _[[Spells/Interplanar Teleport|Interplanar Teleport (At Will, Self Only)]]_; __5th __  _[[Spells/Holy Light|Holy Light (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
@@ -93,7 +99,7 @@ attacks:
     desc: "`pf2:2` (concentrate,divine) The dragon chooses one effect to impose on creatures in their inspiring presence aura.\n\nThe dragon can't use Halo Pulse again for 1d4 rounds.\n\n*   **Repulsion** Each creature must succeed at a DC 34 Fortitude check save or be pushed until it's no longer in the aura.\n*   **Restoration** (healing, vitality) Each creature recovers 7d8 Hit Points."
 
   - name: "Spirit Breath"
-    desc: "`pf2:2` (divine,holy,spirit) The dragon unleashes a blast of holy fire that deals 12d8 spirit damage in a @Template[cone|distance:50] (DC 34 Reflex check save).\n\nThe dragon can't use Spirit Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,holy,spirit) The dragon unleashes a blast of holy fire that deals 12d8 spirit damage in a 50-foot cone (DC 34 Reflex check save).\n\nThe dragon can't use Spirit Breath again for 1d4 rounds."
  
 ```
 

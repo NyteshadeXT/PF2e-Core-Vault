@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +27 (agile, magical, unarmed)\n__Damage__  3d6 + 13 bludgeoning 1d6 fire"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+27 (agile, magical, unarmed)\n__Damage__  3d6 + 13 bludgeoning 1d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tornado Lunge +27 (agile, reach 10 feet, unarmed)\n__Damage__  3d8 + 13 bludgeoning plus improved-knockdown 1d6 fire plus improved-knockdown"
+  - name: "**Melee** `pf2:1` Tornado Lunge"
+    desc: "+27 (agile, reach 10 feet, unarmed)\n__Damage__  3d8 + 13 bludgeoning plus improved-knockdown 1d6 fire plus improved-knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Wind Crash +27 (agile, nonlethal, propulsive, range increment 30 feet, unarmed)\n__Damage__  3d6 + 13 bludgeoning 1d6 fire"
+  - name: "**Ranged** `pf2:1` Wind Crash"
+    desc: "+27 (agile, nonlethal, propulsive, range increment 30 feet, unarmed)\n__Damage__  3d6 + 13 bludgeoning 1d6 fire"
 
   - name: "Focus Spells"
     desc: "2 Focus Points, DC 34, attack +26; __8th __  _[[Spells/Wild Winds Stance|Wild Winds Stance]]_, _[[Spells/Wind Jump|Wind Jump]]_"
@@ -75,6 +75,9 @@ attacks:
 
   - name: "Magma's Grasp"
     desc: "`pf2:2` (fire) The monk lets loose a powerful breath of air, whose effect depends on the type of energy to which the monk is attuned. The monk can't use this ability again for 1d4 rounds.\n\nJivati's breath ignites a fire in the spirit of each creature within 10 feet of Jivati, dealing 8d6 fire damage. Each creature in the area must attempt a DC 33 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and 1d6 persistent fire damage and loses 1 Focus Point. If it has no Focus Points, the creature instead loses a random prepared spell or spell slot from the highest level it has left (maximum 6th level).\n\n**Critical Failure** As failure, but the creature takes double damage and 2d6 persistent fire damage."
+
+  - name: "[[Bestiary Ability Glossary/Improved Knockdown|Improved Knockdown]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature as a free action. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

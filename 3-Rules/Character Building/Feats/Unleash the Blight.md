@@ -14,14 +14,14 @@ license: ORC
 ---
 # Unleash the Blight `pf2:2`
 ## Feat 10
-### [rare](rare.md "Rare Rarity Trait")[[deviant]][[magical]][[void]]
+### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]][[void]]
 
 **Category** class; 
 
 
 
 
-You unleash the rot infecting you, spreading the blight to those nearby. All living creatures in a @Template\[emanation|distance:60\] take 1d6 void damage for every 2 levels you have, with a Fortitude check save.
+You unleash the rot infecting you, spreading the blight to those nearby. All living creatures in a 60-foot emanation take 1d6 void damage for every 2 levels you have, with a Fortitude check save.
 
 **Awakening** The blight is infectious. Creatures damaged by your blight take an additional 1d6 persistent void damage, as they begin to decompose.
 

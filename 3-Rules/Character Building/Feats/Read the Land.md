@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Geomancer Dedication; master in Nature
 * * *
-You've learned how to commune with the land to learn information. You learn the [[Commune|Commune]] ritual if you didn't know it already. You can perform this ritual with a casting time of 1 hour instead of 1 day and without a secondary caster.
+You've learned how to commune with the land to learn information. You learn the [[Spells/Commune|Commune]] ritual if you didn't know it already. You can perform this ritual with a casting time of 1 hour instead of 1 day and without a secondary caster.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

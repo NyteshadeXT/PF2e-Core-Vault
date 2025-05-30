@@ -4,8 +4,9 @@ title: "Effect: Anoint Ally"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.nnF7RSVlC6swbSw8"
-license: OGL
+license: ORC
 ---
 # Effect: Anoint Ally
 ## Level 1
@@ -18,5 +19,5 @@ license: OGL
 
 Granted by [[Feats/Anoint Ally|Anoint Ally]].
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

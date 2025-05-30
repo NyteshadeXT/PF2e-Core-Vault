@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Vampire, Vetalarana, Manipulator) Control Comatose"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.sWDlb5vJRK092MMt"
 license: OGL
@@ -21,7 +21,7 @@ license: OGL
 
 * * *
 
-**Effect** The vetalarana manipulator spends 10 minutes to take psychic control of the creatures they've rendered comatose with Drain Thoughts. This has the effects of the [[3-Rules/Character Building/Spells/P/Possession|Possession]] spell, but lasts for up to 6 hours, has a range of 1 mile, and the vetalarana can control a number of comatose victims at a time equal to half the vetalarana's level. A comatose victim can't resist this possession and automatically gets a critical failure on its saving throw against Control Comatose.
+**Effect** The vetalarana manipulator spends 10 minutes to take psychic control of the creatures they've rendered comatose with Drain Thoughts. This has the effects of the [[Spells/Possession|Possession]] spell, but lasts for up to 6 hours, has a range of 1 mile, and the vetalarana can control a number of comatose victims at a time equal to half the vetalarana's level. A comatose victim can't resist this possession and automatically gets a critical failure on its saving throw against Control Comatose.
 
 As long as a comatose victim is controlled by a vetalarana manipulator in this way, the victim's stupefied and [[Conditions/Unconscious|Unconscious]] conditions are temporarily suppressed.
 

@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 ()\n__Damage__  1d8 + 5 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 ()\n__Damage__  1d8 + 5 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Worms +10 (reach 10 feet)\n__Damage__  1d10 + 5 piercing plus parasitic-infestation"
+  - name: "**Melee** `pf2:1` Worms"
+    desc: "+10 (reach 10 feet)\n__Damage__  1d10 + 5 piercing plus parasitic-infestation"
 
   - name: "Parasitic Infestation"
     desc: " (disease) An infected creature cannot remove the sickened condition until it has been cured of the disease;\n\n**Saving Throw** DC 17 Fortitude;\n* * *\n\n**Stage 1** [[Conditions/Enfeebled|Enfeebled 1]] (1 day);\n\n**Stage 2** [[Conditions/Sickened|Sickened 1]] and 1d6 piercing damage (1 day);\n\n**Stage 3** [[Conditions/Sickened|Sickened 2]] and 2d6 piercing damage (1 day);\n\n**Stage 4** [[Conditions/Sickened|Sickened 3]] and 3d6 piercing damage (1 day);\n\n**Stage 5** dead, rising as a parasite husk immediately"

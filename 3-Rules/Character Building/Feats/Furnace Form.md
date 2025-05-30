@@ -17,14 +17,14 @@ license: OGL
 ---
 # Furnace Form `pf2:2`
 ## Feat 12
-### [[3-Rules/trait_reference/F/fire]][[impulse]][[kineticist]][[manipulate]][[polymorph]][[primal]]
+### [[fire]][[impulse]][[kineticist]][[manipulate]][[polymorph]][[primal]]
 
 **Category** class; 
 
 
 
 
-Opening your kinetic gate, you allow flames to consume your form and leave you a living flame. You gain the benefits of the [[Fiery Body|Fiery Body]] spell (except the ability to cast ignition) until the end of your next turn. You can Sustain the impulse up to 1 minute, and when you do, you can Fly up to half your fly Speed. Your fire Elemental Blasts deal an additional die of damage.
+Opening your kinetic gate, you allow flames to consume your form and leave you a living flame. You gain the benefits of the [[Spells/Fiery Body|Fiery Body]] spell (except the ability to cast ignition) until the end of your next turn. You can Sustain the impulse up to 1 minute, and when you do, you can Fly up to half your fly Speed. Your fire Elemental Blasts deal an additional die of damage.
 
 * * *
 

@@ -37,7 +37,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +22, Deception: +28, Diplomacy: +23, Society: +21, Stealth: +25, Athletics: +22, Deception: +28, Diplomacy: +23, Society: +21, Stealth: +25"
+    desc: "Athletics: +22, Deception: +28, Diplomacy: +23, Society: +21, Stealth: +25"
 abilityMods: [4, 5, 2, 1, 4, 7]
 speed: 25 feet,  swim 60 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -64,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +26 (acid, finesse, reach 15 feet)\n__Damage__  3d10 + 8 bludgeoning plus improved-push 1d10 acid plus improved-push"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+26 (acid, finesse, reach 15 feet)\n__Damage__  3d10 + 8 bludgeoning plus improved-push 1d10 acid plus improved-push"
 
-  - name: "Melee"
-    desc: "`pf2:1` Toothless Jaws +26 (acid, agile, finesse, reach 15 feet)\n__Damage__  3d6 + 8 bludgeoning plus improved-grab 2d6 acid plus improved-grab"
+  - name: "**Melee** `pf2:1` Toothless Jaws"
+    desc: "+26 (acid, agile, finesse, reach 15 feet)\n__Damage__  3d6 + 8 bludgeoning plus improved-grab 2d6 acid plus improved-grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +26 (acid, range increment 20 feet)\n__Damage__  3d10 + 4 acid plus knockdown"
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+26 (acid, range increment 20 feet)\n__Damage__  3d10 + 4 acid plus knockdown"
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
     desc: "`pf2:1`  "

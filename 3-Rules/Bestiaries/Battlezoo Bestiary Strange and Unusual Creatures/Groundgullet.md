@@ -33,7 +33,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Stealth: +18, Stealth: +18"
+    desc: "Stealth: +18"
 abilityMods: [6, 3, 5, 2, 2, 1]
 speed:  burrow 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -54,11 +54,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +18 ()\n__Damage__  2d12 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+18 ()\n__Damage__  2d12 + 10 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spewed Rock +18 (reload 1, thrown 30 ft.)\n__Damage__  2d12 + 10 bludgeoning"
+  - name: "**Ranged** `pf2:1` Spewed Rock"
+    desc: "+18 (reload 1, thrown 30 ft.)\n__Damage__  2d12 + 10 bludgeoning"
 
   - name: "Churn"
     desc: "`pf2:1` (attack) **Frequency** once per round\n* * *\n\n**Effect** The groundgullet churns its insides, damaging the creatures within. Creatures Swallowed inside the groundgullet take 2d8+6 bludgeoning damage, with a DC 26 Reflex check save. Creatures that fail this save also fall if they were attempting to [[Actions/Climb|Climb]] out."

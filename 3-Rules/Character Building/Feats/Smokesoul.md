@@ -21,5 +21,5 @@ license: OGL
 
 You have a connection to smoke and haze. You gain the [[Actions/Smoke Blending|Smoke Blending]] reaction.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

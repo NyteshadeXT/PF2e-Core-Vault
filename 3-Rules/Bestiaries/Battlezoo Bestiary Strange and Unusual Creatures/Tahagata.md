@@ -39,7 +39,7 @@ perception:
 languages: "Aklo; tongues"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +13, Deception: +15, Intimidation: +15, Occultism: +15, Stealth: +15, Acrobatics: +13, Athletics: +13, Deception: +15, Intimidation: +15, Occultism: +15, Stealth: +15"
+    desc: "Acrobatics: +13, Athletics: +13, Deception: +15, Intimidation: +15, Occultism: +15, Stealth: +15"
 abilityMods: [4, 4, 4, 4, 4, 4]
 speed: 35 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -69,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Obsidian Edge +14 (agile, deadly d10, magical, versatile p)\n__Damage__  2d6 + 8 slashing plus grab"
+  - name: "**Melee** `pf2:1` Obsidian Edge"
+    desc: "+14 (agile, deadly d10, magical, versatile p)\n__Damage__  2d6 + 8 slashing plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Obsidian Shard +14 (magical, range increment 60 feet, versatile p)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Ranged** `pf2:1` Obsidian Shard"
+    desc: "+14 (magical, range increment 60 feet, versatile p)\n__Damage__  2d6 + 8 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 21, attack +13\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"

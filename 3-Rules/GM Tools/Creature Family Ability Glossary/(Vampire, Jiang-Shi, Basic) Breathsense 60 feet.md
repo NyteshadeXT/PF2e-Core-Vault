@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Vampire, Jiang-Shi, Basic) Breathsense 60 feet"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.OSnNiMdqgARyEVuv"
 license: OGL

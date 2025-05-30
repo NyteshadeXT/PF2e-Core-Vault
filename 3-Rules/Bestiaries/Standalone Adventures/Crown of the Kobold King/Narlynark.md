@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +12 (agile, finesse, trip)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+12 (agile, finesse, trip)\n__Damage__  1d4 + 2 slashing"
 
   - name: "Primal Prepared Spells"
-    desc: "DC 22, attack +14; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_; __2nd __  _[[Spells/Create Food|Create Food]]_; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Create Water|Create Water]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(3rd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_"
+    desc: "DC 22, attack +14; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_; __2nd __  _[[Spells/Create Food|Create Food]]_; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Create Water|Create Water]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(3rd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_"
 
   - name: "Wild Retreat"
     desc: "`pf2:3` (move,primal) **Frequency** once per hour\n\n**Requirements** Narlynark is adjacent to at least one enemy;\n* * *\n\n**Effect** Narlynark shrieks in terror, a sound that quickly transitions from a kobold cry to the shrill cry of a bird. A pair of feathery wings grows from his back and his feet turn into bird talons. As he leaps into the air to flee, his talons lash out-one adjacent enemy of Narlynark's choice takes 3d6 + 6 slashing damage (DC 22 Reflex check). Narlynark can then fly up to 35 feet away. He must end his movement in a space that isn't adjacent to any enemies, and if he doesn't end the movement on the ground, he falls to the ground as his wings vanish and his feet return to normal."

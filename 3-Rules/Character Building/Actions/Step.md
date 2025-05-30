@@ -3,9 +3,8 @@ obsidianUIMode: preview
 title: "Step"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
   - trait/move
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB"
@@ -13,7 +12,7 @@ license: ORC
 ---
 # Step `pf2:1`
 
-### [[general]][[move]]
+### [[move]]
 
 **Category** interaction; 
 

@@ -28,5 +28,5 @@ You've practiced an impressive spin technique with your construct, automatically
 
 **Unstable Function** You spin farther and higher, though the extreme movement risks discombobulating your innovation. Add the unstable trait to Duo Dragon Kick. Increase the distance of your Leaps by 10 feet if horizontal or 5 feet if vertical.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

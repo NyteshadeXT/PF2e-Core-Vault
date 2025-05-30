@@ -8,43 +8,54 @@ tags:
 ---
 
 # 10th-Level Permanent Items
-Table of 10th-Level Permanent Items
+<p>Table of 10th-Level Permanent Items</p>
 
-| 1d198 | result |
+| 1d261 | result |
 |------|--------|
-| 1-6 | [[Warleader's Bulwark\|Breastplate of Command]] |
-| 7-12 | [[Electric Eelskin\|Electric Eelskin]] |
-| 13-18 | [[Barding of the Zephyr\|Barding of the Zephyr]] |
-| 19-24 | [[Maestro's Instrument (Moderate)\|Maestro's Instrument (Moderate)]] |
-| 25-30 | [[Thurible of Revelation (Moderate)\|Thurible of Revelation (Moderate)]] |
-| 31-36 | [[Wondrous Figurine (Golden Lions)\|Wondrous Figurine (Golden Lions)]] |
-| 37-42 | [[Weapon Potency (+2)\|Weapon Potency (+2)]] |
-| 43-48 | [[Invisibility (Greater)\|Invisibility (Greater)]] |
-| 49-51 | [[Forge Warden\|Forge Warden]] |
-| 52-57 | [[Sturdy Shield (Moderate)\|Sturdy Shield (Moderate)]] |
-| 58-63 | [[undefined]] |
-| 64-69 | [[undefined]] |
-| 70-75 | [[undefined]] |
-| 76-81 | [[undefined]] |
-| 82-87 | [[undefined]] |
-| 88-93 | [[undefined]] |
-| 94-99 | [[Staff of the Dead (Greater)\|Staff of the Dead (Greater)]] |
-| 100-105 | [[undefined]] |
-| 106-111 | [[Explorer's Yurt\|Explorer's Yurt]] |
-| 112-117 | [[Wand of Widening (4th-Rank Spell)\|Wand of Widening (4th-Rank Spell)]] |
-| 118-123 | Magic Weapon (+2 Striking) |
-| 124-129 | Cold Iron Weapon (Standard-Grade) |
-| 130-135 | Silver Weapon (Standard-Grade) |
-| 136-141 | +2 striking Handwraps of Mighty Blows |
-| 142-144 | [[Charlatan's Cape\|Charlatan's Cape]] |
-| 145-150 | [[Choker of Elocution (Greater)\|Choker of Elocution (Greater)]] |
-| 151-153 | [[Clandestine Cloak (Greater)\|Clandestine Cloak (Greater)]] |
-| 154-159 | [[Cloak of the Bat\|Cloak of the Bat]] |
-| 160-165 | [[Daredevil Boots\|Daredevil Boots]] |
-| 166-171 | [[Demon Mask (Greater)\|Demon Mask (Greater)]] |
-| 172-177 | [[Living Mantle\|Living Mantle]] |
-| 178-180 | [[Ring of Counterspells\|Ring of Counterspells]] |
-| 181-186 | [[Charm of Resistance (Greater)\|Charm of Resistance (Greater)]] |
-| 187-189 | [[Ring of Lies\|Ring of Lies]] |
-| 190-192 | [[Ring of Wizardry (Type II)\|Ring of Wizardry (Type II)]] |
-| 193-198 | [[Winged Sandals\|Winged Sandals]] |
+| 1-6 | [[Equipment/Electric Eelskin\|Electric Eelskin]] |
+| 7-12 | [[Equipment/Tideplate\|Tideplate]] |
+| 13-18 | [[Equipment/Barding of the Zephyr\|Barding of the Zephyr]] |
+| 19-24 | [[Equipment/Explorer's Yurt\|Explorer's Yurt]] |
+| 25-30 | [[Equipment/Maestro's Instrument (Moderate)\|Maestro's Instrument (Moderate)]] |
+| 31-36 | [[Equipment/Thurible of Revelation (Moderate)\|Thurible of Revelation (Moderate)]] |
+| 37-42 | [[Equipment/Weapon Potency (+2)\|Weapon Potency (+2)]] |
+| 43-48 | [[Equipment/Invisibility (Greater)\|Invisibility (Greater)]] |
+| 49-54 | [[Equipment/Reinforcing Rune (Moderate)\|Reinforcing Rune (Moderate)]] |
+| 55-57 | [[Equipment/Forge Warden\|Forge Warden]] |
+| 58-63 | [[Equipment/Sturdy Shield (Moderate)\|Sturdy Shield (Moderate)]] |
+| 64-69 | [[Equipment/Fluid Form Staff (Greater)\|Fluid Form Staff (Greater)]] |
+| 70-75 | [[Equipment/Staff of Control (Greater)\|Staff of Control (Greater)]] |
+| 76-81 | [[Equipment/Staff of Elemental Power (Greater)\|Staff of Elemental Power (Greater)]] |
+| 82-87 | [[Equipment/Staff of Phantasms (Greater)\|Staff of Phantasms (Greater)]] |
+| 88-93 | [[Equipment/Staff of Protection (Greater)\|Staff of Protection (Greater)]] |
+| 94-99 | [[Equipment/Staff of Summoning (Greater)\|Staff of Summoning (Greater)]] |
+| 100-105 | [[Equipment/Staff of the Dead (Greater)\|Staff of the Dead (Greater)]] |
+| 106-108 | [[Equipment/Staff of the Unblinking Eye (Greater)\|Staff of the Unblinking Eye (Greater)]] |
+| 109-114 | [[Equipment/Wand of Widening (4th-Rank Spell)\|Wand of Widening (4th-Rank Spell)]] |
+| 115-120 | Striking Weapon (+2) |
+| 121-126 | Cold Iron Weapon (Standard-Grade) |
+| 127-132 | Silver Weapon (Standard-Grade) |
+| 133-138 | Striking Handwraps of Mighty Blows (+2) |
+| 139-144 | [[Equipment/Accolade Robe\|Accolade Robe]] |
+| 145-147 | [[Equipment/Charlatan's Cape\|Charlatan's Cape]] |
+| 148-153 | [[Equipment/Charm of Resistance (Greater)\|Charm of Resistance (Greater)]] |
+| 154-159 | [[Equipment/Choker of Elocution (Greater)\|Choker of Elocution (Greater)]] |
+| 160-162 | [[Equipment/Clandestine Cloak (Greater)\|Clandestine Cloak (Greater)]] |
+| 163-168 | [[Equipment/Crown of Witchcraft\|Crown of Witchcraft]] |
+| 169-174 | [[Equipment/Daredevil Boots\|Daredevil Boots]] |
+| 175-180 | [[Equipment/Demon Mask (Greater)\|Demon Mask (Greater)]] |
+| 181-186 | [[Equipment/Entertainer's Cincture\|Entertainer's Cincture]] |
+| 187-192 | [[Equipment/Living Mantle\|Living Mantle]] |
+| 193-195 | [[Equipment/Ring of Lies\|Ring of Lies]] |
+| 196-201 | [[Equipment/Shadow Signet\|Shadow Signet]] |
+| 202-204 | [[Equipment/Symbol of Conflict (Greater)\|Symbol of Conflict (Greater)]] |
+| 205-210 | [[Equipment/Winged Sandals\|Winged Sandals]] |
+| 211-216 | [[Equipment/Warleader's Bulwark\|Warleader's Bulwark]] |
+| 217-222 | [[Equipment/Staff of Providence (Greater)\|Staff of Providence (Greater)]] |
+| 223-228 | [[Equipment/Staff of the Tempest (Greater)\|Staff of the Tempest (Greater)]] |
+| 229-234 | Wand of Crackling Lighting 4th-Rank |
+| 235-240 | [[Equipment/Wand of Hopeless Night (4th-Rank Spell)\|Wand of Hopeless Night (4th-Rank Spell)]] |
+| 241-243 | [[Equipment/Fire-Jump Ring\|Fire-Jump Ring]] |
+| 244-249 | [[Equipment/Prognostic Veil\|Prognostic Veil]] |
+| 250-255 | [[Equipment/Sanguine Pendant\|Sanguine Pendant]] |
+| 256-261 | [[Equipment/Sash of Prowess\|Sash of Prowess]] |

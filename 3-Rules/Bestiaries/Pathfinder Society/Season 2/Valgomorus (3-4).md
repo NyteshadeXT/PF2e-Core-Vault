@@ -57,14 +57,17 @@ abilities_mid:
   - name: "Flash of Insight"
     desc: "`pf2:0` (fortune,occult) **Frequency** once per day\n\n**Trigger** Valgomorus is about to roll a d20\n* * *\n\n**Effect** Valgomorus peers into an occluded spectrum of possible futures. He gets a success (but not a critical success) on the roll instead of rolling."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +15 (reach 10 feet, sweep)\n__Damage__  1d12 + 10 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+15 (reach 10 feet, sweep)\n__Damage__  1d12 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 ()\n__Damage__  2d6 + 4 slashing plus drain-life"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (unarmed)\n__Damage__  2d6 + 4 slashing plus drain-life"
 
   - name: "Drain Life"
     desc: " (divine) When Valgomorus damages a living creature with his claw Strike, he gains 3 temporary Hit Points and the creature must succeed at a DC 19 Fortitude check save or become [[Conditions/Drained|Drained 1]].\n\nFurther successful claw Strikes increase the drained value by 1 on a failed save, to a maximum of drained 4."

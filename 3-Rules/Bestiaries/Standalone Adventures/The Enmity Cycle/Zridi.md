@@ -65,20 +65,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile, finesse, magical, unholy)\n__Damage__  2d8 + 7 slashing plus bubonic-plague 1d6 spirit plus bubonic-plague"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, finesse, magical, unarmed, unholy)\n__Damage__  2d8 + 7 slashing plus bubonic-plague 1d6 spirit plus bubonic-plague"
 
   - name: "Divine Innate Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Charm|Charm (At Will)]]_, _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Compendium.pf2e.spells-srd.Item.c2bTWBNO1BYX4Zfg|Misdirection (At Will) (Self Only)]]_, _[[Spells/Outcast's Curse|Outcast's Curse (At Will)]]_, _[[Spells/Suggestion|Suggestion (At Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Div Pact|Div Pact]]_"
+    desc: "_Div Pact_"
 
   - name: "[[Bestiary 3/Pairaka/Bubonic Plague|Bubonic Plague]]"
     desc: " (disease) A creature can't remove the fatigued condition while infected\n\n**Saving Throw** DC 24 Fortitude check\n* * *\n\n**Onset** 1 day\n\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 2]] and fatigued (1 day)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 3]], fatigued, and take 1d6 bleed every 1d20 minutes (1 day)"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) Zridi can take the appearance of any Small or Medium humanoid or animal. This doesn't change her Speed or her attack and damage modifiers with the Strikes, but it might change the damage type her Strikes deal.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) Zridi can take the appearance of any Small or Medium humanoid or animal. This doesn't change her Speed or her attack and damage modifiers with the Strikes, but it might change the damage type her Strikes deal.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Compelled Performance"
     desc: "`pf2:2` (divine,emotion,mental) **Frequency** once per day\n* * *\n\n**Effect** Zridi grants the target a +2 status bonus to Performance checks for one week. The target must attempt a DC 26 Will check save.\n\n**Critical Success** No further effect.\n\n**Success** The target must [[Actions/Perform|Perform]] for 1 action on its next turn.\n\n**Failure** The target must Perform for 3 actions on its next turn, undertaking a Performance task set by Zridi.\n\n**Critical Failure** As failure, but Zridi can choose to delay the effect and trigger it at any point in the next week as a reaction.\n\n[[Bestiary Effects/Effect_ Compelled Performance|Effect: Compelled Performance]]"

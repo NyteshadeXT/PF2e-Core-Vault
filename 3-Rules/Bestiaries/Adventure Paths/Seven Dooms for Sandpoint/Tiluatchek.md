@@ -52,13 +52,19 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +24 (agile, finesse)\n__Damage__  3d10 + 6 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+24 (agile, finesse, unarmed)\n__Damage__  3d10 + 6 slashing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 29, attack +21; __6th __  _[[Spells/Cursed Metamorphosis|Cursed Metamorphosis]]_, _[[Spells/Petrify|Petrify]]_; __5th __  _[[Spells/Sending|Sending]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __  _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Translocate|Translocate]]_; __3rd __  _[[Spells/Haste|Haste]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Humanoid Form|Humanoid Form]]_, _[[Spells/Laughing Fit|Laughing Fit]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Disguise Magic|Disguise Magic]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Phantasmal Minion|Phantasmal Minion]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

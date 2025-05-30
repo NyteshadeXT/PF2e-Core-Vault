@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +17 (magical, versatile p)\n__Damage__  2d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+17 (magical, versatile p)\n__Damage__  2d8 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Hammer +16 (agile)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Light Hammer"
+    desc: "+16 (agile)\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +17 (agile, thrown 20 ft.)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+17 (agile, thrown 20 ft.)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Carman deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

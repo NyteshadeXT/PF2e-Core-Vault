@@ -179,7 +179,7 @@ In ancient days, a grand ring of portals connected several Aetherial Warden buri
 > [!tip]+ Treasure
 > The shards of glass might fetch as much as 5 gp from the right buyer.  In [[Diamond Lake]], that means the gnome jeweler [[Tidwoad]] or the magician [[5-World/NPCs/Diamond Lake/Allustan]].
 > 
-> - [x] gp::5
+> - [<] gp::5
 
 ### Development
 If the PCs make too much noise in this area, they may be detected by the wolves in [[The Whispering Cairn#4. Hall of Honor (Moderate)|area 4]].  Each of the three wolves has a -2 modifier on it's [[Skills#Perception|Perception]] check due to distance.  The DC for this check varies depending upon the PCs volume, ranging from 0 to 10.
@@ -214,7 +214,7 @@ Thick cobwebs completely cover the arch leading to [[The Whispering Cairn#7. Fal
 Even a casual inspection ([[Skills#Perception|Perception]] DC 8) reveals that the east wing is not as collapsed as it first appears.  A 10-foot-wide opening in the middle of the debris leads to the wolves den, [[The Whispering Cairn#5. Wolf Den|area 5]].
 
 **Encounter Difficulty:**   
-- [x] Moderate (80 XP) Level 1
+- [<] Moderate (80 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[Wolf, Weak]] W
@@ -245,7 +245,7 @@ The wolves dwell in the nearly blocked-off terminus of the east wing.  Medium or
 > 
 > A DC 20 [[seek]] action of the rubble mostly blocking off the passage turns up what appears to be a marble index finger cracked off a statue.  The finger exactly matches the right hand of the bas-relief sarcophagus lid figure in [[The Whispering Cairn#7. False Tomb|area 7]].
 > 
-> - [x] gp::20
+> - [<] gp::20
 
 
 ## 6. Gallery of Seven Lanterns
@@ -275,7 +275,7 @@ The sarcophagus rests upon a small raised platform carved in the shape of a styl
 
 > [!danger]+ Sarcophagus Trap
 > [[gout-of-flame-hb|Gout of Flame]]
-- [x] Trap (4 XP)
+- [<] Trap (4 XP)
 
 ### The Tunnels 
 The ceiling of these tunnels is 10 feet off the ground, but the alcove ceilings at the ends of he tunnels extend 40 feet, just within the shadowy radiance of a torch.  Unusually colored lanterns hang from long chains attached to the alcove ceilings dangling about 5 feet from the floor.  The indigo and red lanterns are missing.  Each lantern is worth about 12 gp.
@@ -317,7 +317,7 @@ Two rounds later, a living geyser of silverfish bursts from the shaft.  They mak
 The 60-foot shaft leading to area 15 is pitted and scarred, which makes climbing down relatively easy (DC 10 [[Skills#Acrobatics|Acrobatics]] check).
 
 **Encounter Difficulty:**   
-- [x] Moderate (70 XP) Level 1
+- [<] Moderate (70 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[Giant Silverfish]] W
@@ -341,13 +341,13 @@ A skeleton lies in a heap on the floor here.  A DC 15 [[Skills#Medicine|Medicine
 
 > [!danger]+ Trap
 > [[false-elevator-hb|False Elevator]]
-- [x] Trap (4 XP)
+- [<] Trap (4 XP)
 
 > [!tip]+ Treasure
 > A careful [[Seek]] action through the crushed bones and moldy clothes DC 10 turns up a pouch containing 10 gp, 4 sp and a small ruby worth 12 gp.
 > 
-> - [x] gp::22
-> - [x] sp::4
+> - [<] gp::22
+> - [<] sp::4
 
 **Violet:** A violet lantern hangs at the end of this passage.
 
@@ -383,7 +383,7 @@ These marks were left by victims blown away by the blasting winds of the trap, l
 > Blown away characters are knocked prone and tumble `dice: 1d4*10`  1d4x10 fee, taking `dice: 1d4` 1d4 points of nonlethal damage per 10 feet.  Flying characters are blown back `dice: 2d6*10` 2d6x10 feet and take `dice: 2d6` 2d6 points of nonlethal damage due to battering and buffeting.  Non-flying characters pushed over the edge of the shaft plummet to the floor below suffering `dice: 4d6` 4d6 points of damage upon impact.  Such characters may attempt to snatch the indigo lantern's chain with a successful DC 10 [[Skills#Acrobatics]] check or a DC 15 Reflex save, with success preventing the fall and the damage.
 > 
 > The wind continues at hurricane force for 10 minutes before it stops and the trap resets itself.  The only way through the face is to ignite torches in [[The Whispering Cairn#7. False Tomb]].  Once a torch has been lit, that color fails to appear in the face's hypnotic eyes.  When all torches have been lit, the trap is effectively disarmed.  The stone comprising the mouth's interior vanishes, allowing passage to the chamber beyond.
-- [x] Trap (40 XP)
+- [<] Trap (40 XP)
 
 # Lair of the Architect
 It took the Aetherial Warden architect Nadroc nearly a year of solid work to design and construct the Whispering Cairn.  During this period he dwelt within his work in progress, in a special series of chambers called the Lair of the Architect.  Due to the complexity of the elevator mechanism, this part of the cairn is not quite as looted as areas 1 - 7, and contains a number of treasures from Nadroc's time.  Ceilings in the Lair of the Architect reach a uniform height of 20 feet. Walls are made of solid stone.
@@ -426,7 +426,7 @@ A button inset into the wall near the elevator shaft serves as a call button for
 > A noxious green gas fills the room from valves hidden within the mouths of the adoring bas-reliefs lining the room's walls.
 > 
 > [[trap]]
-- [x] Trap (8 XP)
+- [<] Trap (8 XP)
 
 ## 10. Passage of Honor
 > [!note]+ Read Aloud
@@ -435,7 +435,7 @@ A button inset into the wall near the elevator shaft serves as a call button for
 Each statue bears the likeness of one of Nadroc's noble Aetherial Warden patrons.  Their cupped hands once cradled miniature statuettes of magnificent vaati buildings constructed by the architect in their names.  The figurines rested upon a soft current of air immediately above the statues' cupped hands.  These currents still exist, and will hold any Tiny or smaller object aloft indefinitely.  They are the source of the strange breeze in the hallway.  The statuettes now rest in the pouch of an ancient tomb robber who lies dead in area 11.
 
 **Encounter Difficulty:**   
-- [x] Severe (120 XP) Level 1
+- [<] Severe (120 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[lurking-Strangler|Lurking Strangler]] W
@@ -469,8 +469,8 @@ A dry fountain along the south face of the central pillar features a low basin a
 > [!tip]+ Treasure
 > The corpse in the tool closet holds a [[Weapon Potency (+1)|+1 Shortsword]], but almost all of his other possessions were crushed along with his bones.  In a leather sack so old that it crumbles to the touch can be found the remains of three broken statuettes of Nadroc's previous commissions (looted from [[#10. Passage of Honor]]) and three that remain in excellent condition - a grand palace, a slim spire with eight connected smaller towers of different heights, and what looks like a grand stadium.  Each intact statuette is worth 20 gp.  
 > 
-> - [x] gp::20
-> - [x] permanent::[[Weapon Potency (+1)|+1 Shortsword]] [ilvl::2] [gp::35]
+> - [<] gp::20
+> - [<] permanent::[[Weapon Potency (+1)|+1 Shortsword]] [ilvl::2] [gp::35]
 
 ## 12. Living Quarters
 > [!note]+ Read Aloud
@@ -493,7 +493,7 @@ The egg is the dormant form of a hibernating small earth elemental who served at
 Artophanx wants more then anything else to escape, and might be fooled into cooperating with the party if successfully bluffed by a Terran-speaking character.  If convinced that the PCs might be able to help him escape the room (something actually well beyond their power) he can relate some useful facts about the Whispering Cairn's construction, including the fact that it was built by a Warden named Nadroc to honor a warrior named Zosiel who died no the fields of Aetherion and the fact that Zosiel's true tomb lies beyond the face in [[#8. Passage of the Face]].
 
 **Encounter Difficulty:**   
-- [x] Moderate (80 XP) Level 1
+- [<] Moderate (80 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[3-Rules/Bestiaries/Monster Core/Sod Hound|Sod Hound]] W
@@ -555,7 +555,7 @@ In ancient times, Nadroc's laborers sustained themselves on the nutritious subst
 The nest in the southwest corner has the consistency of papier-mâché, and can be cut through easily.  If burned, it produces an acrid black smoke that grants [[3-Rules/Effects/Conditions/Concealed|Concealment]] to every creature in the room for 6 rounds or until the smoke is blown away.
 
 **Encounter Difficulty:**   
-- [x] Moderate (100 XP) Level 1
+- [<] Moderate (100 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[Giant Bombardier Beetle]] W
@@ -579,11 +579,11 @@ When the PCs enter the room, the vermin skittering about the sludge coalesces in
 > 
 > A DC 15 [[Seek]] check in the ruined remains fo the nest turns up a mummified human hand still holding a [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]]
 > 
-> - [x] permanent::[[Leather Lamellar|Leather Lamellar]] [ilvl::1] [gp::18]
-> - [x] permanent::[[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] [ilvl::2] [gp::28]
-> - [x] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
-> - [x] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
-> - [x] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [<] permanent::[[Leather Lamellar|Leather Lamellar]] [ilvl::1] [gp::18]
+> - [<] permanent::[[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] [ilvl::2] [gp::28]
+> - [<] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [<] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [<] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
 
 ## 17. Sleeping Quarters
 > [!note]+ Read Aloud
@@ -592,7 +592,7 @@ When the PCs enter the room, the vermin skittering about the sludge coalesces in
 Each round characters within this room must make a DC 15 Will save to resist becoming [[Fatigued]].  The fatigue ends when the PC leaves the room.  The stone slabs once served as beds for Nadroc's Warden laborers.  The skull of the human male corpse on the southwest slab has been utterly crushed by the stone greatclub of the statue upon the western stage, a marble representation of the Guardian of the Veil, a mythical Warden figure who stands sentry between the lands of sleep and wakefulness.  The statue itself is not attached to the floor, and may be tipped over with a DC 20 [[Skills#Athletics|Athletics]] check.  It weighs 800 lbs.
 
 **Encounter Difficulty:**   
-- [x] Moderate (120 XP) Level 1
+- [<] Moderate (120 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[Giant Bombardier Beetle]] W
@@ -613,12 +613,12 @@ The fatigued beetles do not respond to the sounds of conflict in area [[#16. Foo
 **Stone Slabs:** If any non-Warden falls asleep on one of the stone slabs, the terracotta statue on the stage in the western alcove animates and attempts to smash the sleeper with its club (treat as a slam attack, as the club is merely part of the statue).
 
 **The Guardian of the Veil:** The guardian has 31 hit points and a hardness of 2. Its slam attack is +7 `dice: 1d20 +7` and does `dice: 1d8` 1d8 damage on a successful hit.
-- [x] Low (10 XP) Level 1
+- [<] Low (10 XP) Level 1
 
 > [!tip]+ Treasure
 > The corpse on the southwest slab wears a suit of [[Leather Lamellar]] emblazoned wit the eight-pointed symbol of [[Kataklysmos]] and has a pouch containing 7 gp.
 > 
-> - [x] gp::7
+> - [<] gp::7
 
 ## 18. Tool Alcoves
 Numerous pegs extending form the walls of these alcoves once held the excavation gear of the Warden laborers, but anything of worth was looted long ago.
@@ -631,7 +631,7 @@ All of the submerged rooms are completely dark.  PCs without darkvision must rel
 The four pillars and central structure of this room are composed of tan stone and contain non-functional shower spigots about 8 feet off the ground.
 
 **Encounter Difficulty:**   
-- [x] Moderate (60 XP) Level 2
+- [<] Moderate (60 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[Water Mephit]] W
@@ -655,15 +655,15 @@ It notices the PCs the second one of them touches the water, and swiftly moves t
 > [!tip]+ Treasure
 > A dead human body here bears the red lantern from [[#7. False Tomb]].  It wears red leather armor with the eight-pointed star of [[Kataklysmos]] over the left breast and a [[Rhythm Bone]] and a spell scroll of [[Detect Metal]].  The corpse's bones are very badly gnawed, and it's armor has been torn apart and ruined as if by sharp claws.  A DC 10 [[Skills#Medicine|Medicine]] check reveals that the bones have been cracked open as if something was trying to get a the marrow within.  The body has ben dead for 50 years or more.
 > 
-> - [x] permanent::[[Rhythm Bone|Rhythm Bone]] [ilvl::1] [gp::8]
-> - [x] consumable::[[Detect Metal|Spell Scroll (1st level) Detect Metal]] [ilvl::1] [gp::4]
+> - [<] permanent::[[Rhythm Bone|Rhythm Bone]] [ilvl::1] [gp::8]
+> - [<] consumable::[[Detect Metal|Spell Scroll (1st level) Detect Metal]] [ilvl::1] [gp::4]
 
 ## 21. Other Locker Room with Benches
 > [!note]+ Read Aloud
 > This small room contains four long benches and several niches along the walls.
 
 **Encounter Difficulty:**   
-- [x] Moderate (100 XP) Level 2
+- [<] Moderate (100 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[Ghoul Stalker]] W
@@ -685,8 +685,8 @@ Ulavant attempts to paralyze his enemies, starting with what he assumes to be ba
 > [!tip]+ Treasure
 > A pile of tattered clothes stuffed into one of the lockers hides a pouch containing 3 gp and 5 sp.  Ulavant's ring is worth 20 gp to the right buyer.  It instantly identifies the wearer as a member of [[Kataklysmos]] faithful, which may have implications with Khellek, the wizard in the trio of rival adventurers.
 > 
-> - [x] gp::23
-> - [x] sp::5
+> - [<] gp::23
+> - [<] sp::5
 
 ## 22. Toilet
 This submerged toilet has not been used in centuries.
@@ -725,10 +725,10 @@ This room represents Nadroc's last attempt to dispense with unwanted tomb robber
 
 > [!danger]+ Trap
 > [[hail-of-iron-spheres-hb|Hail of Iron Spheres]]
-- [x] Moderate (8 XP) Level 2
+- [<] Moderate (8 XP) Level 2
 
 **Encounter Difficulty:**   
-- [x] Trivial (60 XP) Level 2
+- [<] Trivial (60 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[3-Rules/Bestiaries/Adventure Paths/Agents of Edgewatch/Grick|Grick]] W
@@ -777,10 +777,10 @@ When the PCs return Alastor Land's bones to his family plot at the Land farmstea
 > [!tip]+ Treasure
 > The following goods may be harvested from decomposed bodies buried within the iron spheres.
 > 
-> - [x] gp::4
-> - [x] sp::7
-> - [x] permanent::[[Weapon Potency (+1)|+1 Long Sword]] [ilvl::2] [gp::35]
-> - [x] permanent::[[Half Plate|Half Plate]] [ilvl::1] [gp::18]
+> - [<] gp::4
+> - [<] sp::7
+> - [<] permanent::[[Weapon Potency (+1)|+1 Long Sword]] [ilvl::2] [gp::35]
+> - [<] permanent::[[Half Plate|Half Plate]] [ilvl::1] [gp::18]
 
 ## 24. The Chamber of Sighs
 > [!note]+ Read Aloud
@@ -791,7 +791,7 @@ The central pit is 60 feet deep, ending in a featureless basin.  Each perimeter 
 As soon as a PC reaches the walkway or central ring, two tall humanoid figures arise from within the column of air and step out onto the central ring.  Both of these creatures-wind warriors-who served in the armies at the Battle of Aetherion and who honor Zosiel still wield twin swords and wear ancient ceremonial armor festooned with red pennons that twist and bob as if always blown by a fierce wind.  The silent warriors attack intruders, knowing that they are the tomb's last defense.
 
 **Encounter Difficulty:**   
-- [x] Moderate (120 XP) Level 3
+- [<] Moderate (120 XP) Level 3
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[wind-warrior|Wind Warrior]] W
@@ -842,8 +842,8 @@ If the addressed character utters the word "Zosiel," bright blue light sines aro
 > [!tip]+ Treasure
 > Within the sarcophagus are all the remains of Zosiel: a slight silver diadem known as a [[Silver Diadem of Insight]]. The sarcophagus also includes two long slightly curved black horns with red tips (worth 3 gp each) and a pewter box inscribed with alien, writhing letterforms.  A DC 15 [[Skills#Occultism|Occultism]] check identifies the glyphs as those typically used by Chaos.  Melted metal keeps the box sealed, but a decent application of force is sufficient to snap off the lid. Inside is a long handle attached to an adamantine loop.  This inactive minor artifact radiates strong transmutation magic, but is currently dormant and does nothing.  It can be fully activated as a [[Talisman of the Sphere]] inn "A Gathering of Winds," the sixth installment of the Age of Worms.  [[5-World/NPCs/Diamond Lake/Allustan]] can identify the time by name at a glance, noting that the [[Sphere of Annihilation]] were holes in the continuity of the multiverse, and that anything they touched was utterly destroyed.  After the Battle of Aetherion legend holds that the Wardens scattered them to the corners of the universe.  Far more numerous are the talismans that were said to grant their owners some measure of control over the spheres.  [[5-World/NPCs/Diamond Lake/Allustan]] urges the PCs to keep the valuable minor artifact.  "one must always be prepared," he says with a wink and a smile.
 > 
-> - [x] gp::6
-> - [x] permanent::[[Silver Diadem of Insight|Silver Diadem of Insight]] [ilvl::3] [gp::60]
+> - [<] gp::6
+> - [<] permanent::[[Silver Diadem of Insight|Silver Diadem of Insight]] [ilvl::3] [gp::60]
 
 # Part 3. Tomb Stories
 In this brief interlude, the PCs take Alastor Land's bones from [[The Whispering Cairn#23. Alastor's Haunt]] of the Whispering Cairn to his family's private graveyard, on a farmstead about 10 minutes east of [[Diamond Lake]]. Before young Alastor's ghost allows the PCs to proceed through the Whispering Cairn he wants them to bury his remains with those of his family, so that his curse can be lifted and he can move on to the afterworld.
@@ -867,7 +867,7 @@ All of the graves have been emptied (except Alastor's, which was empty in the fi
 > The dilapidated Land farmstead consists of a crumbled wall and a sagging, unsafe house with broken windows and a sagging roof.  Thick, sludgy puddles of dried blood and unidentifiable fleshy chucks litter the wooden floor immediately inside the front door.
 
 **Encounter Difficulty:**   
-- [x] Low (80 XP) Level 2
+- [<] Low (80 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[Owlbear]] 
@@ -934,7 +934,7 @@ The PCs might discover the location of the Land remains a number of different wa
 **Fight:** Of course, the PCs could just attack the gang and attempt to get the information from them by force.
 
 **Encounter Difficulty:**   
-- [x] Extreme (200 XP) Level 2
+- [<] Extreme (200 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[3-Rules/Bestiaries/Uniques/Kullen|Kullen]]
@@ -965,7 +965,7 @@ This fight should prove to be very challenging unless the PCs manage to battle o
 > [!tip]+ Treasure
 > Kullen is carrying a +1 Weapon Potency Greataxe, [[Healing Potion (Minor)]], [[Bestial Mutagen (Lesser)]] and 3 gp.  Rastophan is carrying [[Splint Mail]] [[Darkvision Elixir (Lesser)]] and 4 gp. Todrik is carrying a [[Glaive]], [[Splint Mail]], [[Healing Potion (Minor)]]x2 and 2 gp. Merovinn Bask is carrying [[Dizzying Colors|Scroll of Dizzying Colors]] and his spellbook (Cantrip: [[Ray of Frost]], [[Electric Arc]], [[Shield]],[[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]] 1st: [[Force Barrage]], [[Scorching Blast]], [[Gust of Wind]] 2nd: [[Mirror Image]] )
 > 
-> - [ ] gp::9
+> - [<] gp::9
 > - [ ] permanent::[[Weapon Potency (+1)|+1 Greataxe]] [ilvl::2] [gp::35]
 > - [ ] permanent::[[Splint Mail|Splint Mail]] [ilvl::1] [gp::13]
 > - [ ] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
@@ -1032,7 +1032,7 @@ The massive moon-face doors are held shut with a simple lock (DC 20 [[Skills#Thi
 > Furniture fragments, smashed planks, broken glass and other detritus cram this large antechamber.  At the west end of the room, several upended tables form a crude barricade.  Closed doors mark the north and west walls.
 
 **Encounter Difficulty:**   
-- [x] Trivial (60 XP) Level 2
+- [<] Trivial (60 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
  - 3: [[Skeleton Warrior]] 
@@ -1063,9 +1063,9 @@ These tiny rooms once housed the monks who lived in the observatory.  Each is sl
 > [!tip]+ Treasure
 > A DC 20 [[Seek]] check in the easternmost room reveals a clevverly hidden puch dangling behind a dresser drawer.
 > 
-> - [x] gp::1
-> - [x] sp::18
-> - [x] cp::9
+> - [<] gp::1
+> - [<] sp::18
+> - [<] cp::9
 
 ## 5. Feasting Hall
 > [!note]+ Read Aloud
@@ -1123,11 +1123,11 @@ The angelic figure is an idealized representation of Filge himself.
 > Also on the deck is the original summons [[Balabar Smenk]] sent Filge to encourage him to come to Diamond Lake (See handout).
 > 
 > - [ ] gp::10
-> - [x] consumable::[[Potion of Emergency Escape|Potion of Emergency Excape]] [ilvl::1] [gp::3]
-> - [x] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
-> - [x] consumable::[[Surging Serum (Minor)|Surging Serum (Minor)]] [ilvl::2] [gp::5]
-> - [x] consumable::[[Cat's Eye Elixir|Cat's Eye Elixir]] [ilvl::2] [gp::7]
-> - [x] consumable::[[Summon Undead|Scroll of Summon Undead]] [ilvl::1] [gp::4]
+> - [<] consumable::[[Potion of Emergency Escape|Potion of Emergency Excape]] [ilvl::1] [gp::3]
+> - [<] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
+> - [<] consumable::[[Surging Serum (Minor)|Surging Serum (Minor)]] [ilvl::2] [gp::5]
+> - [<] consumable::[[Cat's Eye Elixir|Cat's Eye Elixir]] [ilvl::2] [gp::7]
+> - [<] consumable::[[Summon Undead|Scroll of Summon Undead]] [ilvl::1] [gp::4]
 
 ## 10. Closet
 These closets contain Filge's wardrobe, which consists of six sets of nearly identical sleeveless long coats worn over a shirt and breeches.
@@ -1135,11 +1135,11 @@ These closets contain Filge's wardrobe, which consists of six sets of nearly ide
 > [!tip]+ Treasure
 > If the PC's take several minutes to completely ransack the closets the rummage 13 sp worth of coins from various pockets and pouches.
 > 
-> - [x] sp::13
+> - [<] sp::13
 
 ## 11. Operating Theater
 **Encounter Difficulty:**   
-- [x] Severe (155 XP) Level 2
+- [<] Severe (155 XP) Level 2
 
 > [!note]+ Read Aloud
 > A single chamber dominates the observatory's entire upper floor.  Light filters through the wide slit in the roof, bathing the center of the room in illumination. Four large mirrors set along the outside wall reflect bright beams into the direct center of the room, a recessed operating theater accessible via two short sets of stairs.  The beams specifically target a blue-skinned humanoid figure splayed out upon an operating table, its chest completely opened and pinned back against the table with long metal needles.  Two long shelves cluttered with piles of papers, rotting organs, and instruments comprise the east and west extent of the operating theater, and are only a few inches lower tan the chamber's outer floor.
@@ -1186,7 +1186,7 @@ Filge surrenders only when all of his undead creations have been destroyed or tu
 > 
 > The most important treasure in the room may be the bones of Gertia Land, which the PCs must return to the grave of the Land farmstead to appease the ghost of Alastor Land in [[#23. Alastor's Haunt]].
 > 
-> - [x] gp::52
+> - [<] gp::52
 
 ## Development
 Presuming the PCs defeat Filge without killing him, they can learn a lot from the humiliated wizard.  He doesn't volunteer information, but once cowed he responds thoroughly to direct questions, hoping that his honesty encourages the PCs to spare his miserable life.  

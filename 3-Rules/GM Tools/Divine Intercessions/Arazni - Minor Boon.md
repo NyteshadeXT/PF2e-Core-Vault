@@ -20,5 +20,5 @@ Once, when you fail a saving throw against an effect that would compel you to ta
 
 Arazni typically grants this boon for consequential actions or particularly egregious violations of free will.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

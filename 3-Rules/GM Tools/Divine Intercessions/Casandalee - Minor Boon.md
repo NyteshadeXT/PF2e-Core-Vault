@@ -22,5 +22,5 @@ Once, when you fail a Will save against an effect that would control your action
 
 Casandalee typically grants this boon for particularly consequential violations of autonomy and agency.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

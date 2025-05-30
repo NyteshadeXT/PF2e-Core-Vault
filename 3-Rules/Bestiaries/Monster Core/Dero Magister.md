@@ -56,13 +56,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Vulnerable to Sunlight"
-    desc: "  A dero magister takes 10 damage for every hour they're exposed to sunlight."
+    desc: "  A dero magister takes 10 untyped damage for every hour they're exposed to sunlight."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +10 (two-hand d8)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+10 (two-hand d8)\n__Damage__  1d4 + 3 bludgeoning"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 24, attack +16; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Levitate|Levitate]]_, _[[Spells/Vampiric Feast|Vampiric Feast]]_; __2nd __ (4 slots) _[[Spells/Laughing Fit|Laughing Fit]]_, _[[Spells/Paranoia|Paranoia]]_, _[[Spells/Stupefy|Stupefy]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __ (4 slots) _[[Spells/Force Barrage|Force Barrage]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_, _[[Spells/Void Warp|Void Warp]]_"

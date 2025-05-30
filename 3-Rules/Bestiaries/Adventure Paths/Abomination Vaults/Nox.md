@@ -51,25 +51,31 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Hand Crossbow|Hand Crossbow]], [[Equipment/Kukri|Kukri]], [[Equipment/Leather Armor|Leather Armor]], [[Equipment/Musical Instrument (Virtuoso handheld)|Musical Instrument (Virtuoso handheld) (theorbo)]], 10x [[Equipment/Bolts|Bolts]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "Death Flame"
-    desc: " (light) When Nox dies, their body combusts in a flash of white-hot flame that deals 5d6 fire damage to creatures in a @Template[burst|distance:20] (DC 21 Reflex check save). Nox's gear and treasure are unaffected by the flames and are left in a pile where they died."
+    desc: " (light) When Nox dies, their body combusts in a flash of white-hot flame that deals 5d6 fire damage to creatures in a 20-foot burst (DC 21 Reflex check save). Nox's gear and treasure are unaffected by the flames and are left in a pile where they died."
+
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +14 (agile, finesse, trip)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+14 (agile, finesse, trip)\n__Damage__  1d6 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +14 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+14 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Noise Blast|Sound Burst (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"
 
   - name: "Intense Performer"
-    desc: "  When Nox has a musical instrument in hand, they can use Performance to [[Actions/Feint|Feint]] or [[Actions/Demoralize|Demoralize]]."
+    desc: "  When Nox has a musical instrument in hand, they can use Performance to [[Actions/feint statistic=performance|feint statistic=performance]]{Feint} or [[Actions/demoralize statistic=performance|demoralize statistic=performance]]{Demoralize}."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Nox deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

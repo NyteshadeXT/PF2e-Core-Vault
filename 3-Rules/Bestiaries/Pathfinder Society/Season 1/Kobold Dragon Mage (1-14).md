@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +7 (agile, finesse)\n__Damage__  1d6 - 1 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+7 (agile, finesse, unarmed)\n__Damage__  1d6 - 1 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +3 (two-hand d8)\n__Damage__  1d4 - 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+3 (two-hand d8)\n__Damage__  1d4 - 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire (Lesser) +3 (bomb, consumable, range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire (Lesser)"
+    desc: "+3 (bomb, consumable, range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 20, attack +8; __1st __ (4 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

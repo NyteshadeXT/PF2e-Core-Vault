@@ -67,11 +67,14 @@ abilities_mid:
   - name: "Scry Trap"
     desc: "`pf2:r` (divine) **Frequency** once per minute\n\n**Trigger** Gray Master senses a trap activate in his Gauntlet via Power of the Trap\n* * *\n\n**Effect** Gray Master casts scouting eye, but instead of creating an invisible, floating eye, he uses the triggering trap as the eye, and can see in all directions from it. He can Sustain the spell normally, and can continue to view through the trap even if it deactivates without being disabled or destroyed, but can't move his point of view away from it. If the trap is destroyed or disabled while Gray Master is observing through it, the spell ends and Gray Master takes 4d6 mental damage (DC 40 Will check save)."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +37 (agile, finesse, magical)\n__Damage__  4d10 + 10 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+37 (agile, finesse, magical)\n__Damage__  4d10 + 10 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 41, attack +33; __10th __  _[[Spells/Collective Transposition|Collective Transposition]]_; __9th __  _[[Spells/Possession|Possession]]_, _[[Spells/Seize Soul|Seize Soul]]_; __8th __  _[[Spells/Disappearance|Disappearance]]_; __5th __  _[[Spells/Scouting Eye|Scouting Eye (At Will)]]_\n__Constant__  __(10th)__ _[[Spells/Truespeech|Truespeech]]_"

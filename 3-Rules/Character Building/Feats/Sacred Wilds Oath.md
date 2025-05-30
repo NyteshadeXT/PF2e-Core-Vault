@@ -24,5 +24,5 @@ You've sworn an oath to protect the holy places within nature and the spirits th
 
 **Edict** You must aid any animal or nature spirit in need unless it violates your other tenets or puts someone else at risk of immediate harm.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

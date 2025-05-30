@@ -56,17 +56,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +15 (unarmed)\n__Damage__  2d8 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+15 (unarmed)\n__Damage__  2d8 + 9 bludgeoning"
 
   - name: "Distort Form"
     desc: "`pf2:1` (occult) The temporal echo shifts rapidly between multiple timelines, becoming [[Conditions/Concealed|Concealed]]. As the nature of this effect leaves the echo's location obvious, it can't use this concealment to Hide or Sneak. This effect lasts for 1 minute, or until the echo is dealt any damage."
 
   - name: "Temporal Shudder"
-    desc: "`pf2:2` (occult) The temporal echo screams, causing time to shudder and bend around it. All creatures in a @Template[emanation|distance:10] take 7d6 mental damage (DC 21 Will check save). Creatures that fail the saving throw are also [[Conditions/Slowed|Slowed 1]] for 1 round. The echo can't use Temporal Shudder again for 1d4 rounds."
+    desc: "`pf2:2` (occult) The temporal echo screams, causing time to shudder and bend around it. All creatures in a 10-foot emanation take 7d6 mental damage (DC 21 Will check save). Creatures that fail the saving throw are also [[Conditions/Slowed|Slowed 1]] for 1 round. The echo can't use Temporal Shudder again for 1d4 rounds."
  
 ```
 

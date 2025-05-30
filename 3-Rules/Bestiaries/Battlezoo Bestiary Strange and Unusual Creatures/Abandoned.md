@@ -37,7 +37,7 @@ perception:
 languages: "Common; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Athletics: +8, Athletics: +8"
+    desc: "Athletics: +8"
 abilityMods: [4, 1, 4, -3, 1, -3]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 ()\n__Damage__  1d10 + 4 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 ()\n__Damage__  1d10 + 4 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Caustic Bile +9 (range 20 feet)\n__Damage__  1d8 + 4 acid"
+  - name: "**Ranged** `pf2:1` Caustic Bile"
+    desc: "+9 (range 20 feet)\n__Damage__  1d8 + 4 acid"
 
   - name: "Retributive Torrent"
     desc: "`pf2:r`  **Requirements** The abandoned is [[undefined]] by its necrotic tears\n\n**Trigger** The abandoned takes slashing damage from a creature within 15 feet\n* * *\n\n**Effect** The abandoned uses Malicious Tears; the cone must include the triggering creature."

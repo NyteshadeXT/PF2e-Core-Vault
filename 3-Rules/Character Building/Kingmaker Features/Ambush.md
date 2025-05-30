@@ -4,7 +4,7 @@ title: "Ambush"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/skirmisher
-  - trait/common
+  - trait/
   - category/army-tactic
 aliases: "Compendium.pf2e.kingmaker-features.Item.4h7c6C5doDA5rxyO"
 license: OGL

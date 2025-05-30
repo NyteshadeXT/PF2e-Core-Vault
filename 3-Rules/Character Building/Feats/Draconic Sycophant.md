@@ -26,5 +26,5 @@ In addition, whenever you meet a creature with the dragon trait in a social situ
 
 **Special** If you have the [[Feats/Glad-Hand|Glad-Hand]] skill feat, you don't take the penalty to your immediate Diplomacy check if the target has the dragon trait.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

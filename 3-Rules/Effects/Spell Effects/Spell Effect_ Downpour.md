@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Granted by [[Downpour|Downpour]]
+Granted by [[Spells/Downpour|Downpour]]
+
+You gain fire resistance.
 
 *Source: Pathfinder Player Core*
 *ORC*

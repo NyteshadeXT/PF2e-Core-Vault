@@ -55,8 +55,11 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 15]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Tail Only)]]"
-    desc: "`pf2:r`  Tail Only.\n\n* * *\n"
+    desc: "`pf2:r`  Tail Only.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Confusing Gaze"
     desc: " (aura,emotion,mental,primal) 30 feet. When a creature ends its turn in the aura, it must succeed at a DC 38 Will check save or become [[Conditions/Confused|Confused]] for 1 round."
@@ -67,17 +70,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +37 (magical, reach 15 feet)\n__Damage__  4d12 + 18 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+37 (magical, reach 15 feet, unarmed)\n__Damage__  4d12 + 18 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +37 (agile, magical, reach 15 feet)\n__Damage__  4d8 + 18 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+37 (agile, magical, reach 15 feet)\n__Damage__  4d8 + 18 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +37 (deadly d12, magical, reach 20 feet)\n__Damage__  4d4 + 18 piercing plus pain"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+37 (deadly d12, magical, reach 20 feet)\n__Damage__  4d4 + 18 piercing plus pain"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Quill +33 (range increment 100 feet)\n__Damage__  4d4 + 18 piercing plus pain"
+  - name: "**Ranged** `pf2:1` Quill"
+    desc: "+33 (range increment 100 feet)\n__Damage__  4d4 + 18 piercing plus pain"
 
   - name: "Focus Gaze"
     desc: "`pf2:1` (emotion,mental,primal) The bandersnatch fixes its gaze at a creature it can see within 30 feet. The target must immediately attempt a Will save against the bandersnatch's confusing gaze. After attempting the save, the creature is temporarily immune to a bandersnatch's Confusing Gaze gaze until the start of the bandersnatch's next turn."

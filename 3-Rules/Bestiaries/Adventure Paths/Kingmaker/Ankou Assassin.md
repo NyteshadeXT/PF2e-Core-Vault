@@ -52,16 +52,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 120 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +33 (agile, cold iron)\n__Damage__  3d8 + 16 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+33 (agile, cold iron, unarmed)\n__Damage__  3d8 + 16 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +33 (cold iron, reach 10 feet)\n__Damage__  2d8 + 16 piercing 2d6 bleed"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+33 (cold iron, reach 10 feet)\n__Damage__  2d8 + 16 piercing 2d6 bleed"
 
   - name: "Primal Innate Spells"
     desc: "DC 38, attack +30; __9th __  _[[Spells/Massacre|Massacre]]_; __8th __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Planar Tether|Dimensional Anchor]]_, _[[Spells/Pinpoint|Discern Location]]_; __7th __  _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Silence|Silence]]_, _[[Spells/Teleport|Teleport]]_; __6th __  _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Truesight|True Seeing]]_"

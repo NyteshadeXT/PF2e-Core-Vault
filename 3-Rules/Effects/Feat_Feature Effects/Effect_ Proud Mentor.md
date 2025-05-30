@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Feats/Proud Mentor|Proud Mentor]]
+
 You gain temporary Hit Points equal to your level.
 
 *Source: Pathfinder Howl of the Wild*

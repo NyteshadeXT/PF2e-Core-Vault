@@ -21,5 +21,5 @@ license: OGL
 * * *
 Your immortal lineage has granted you a lifespan much longer than most mortals, and you've learned a lot along the way. You become trained in two skills of your choice.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

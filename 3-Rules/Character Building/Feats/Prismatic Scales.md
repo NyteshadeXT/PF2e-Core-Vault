@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You can cause your scales to glow with scintillating, many-hued colors, protecting you from energy while dazzling foes. Once per day, you can cast [[Prismatic Armor|Prismatic Armor]] as an occult innate spell, except the spell alters the coloration of your scales instead of causing you to be clad in armor. This difference is cosmetic, and the spell has all the same effects as normal.
+You can cause your scales to glow with scintillating, many-hued colors, protecting you from energy while dazzling foes. Once per day, you can cast [[Spells/Prismatic Armor|Prismatic Armor]] as an occult innate spell, except the spell alters the coloration of your scales instead of causing you to be clad in armor. This difference is cosmetic, and the spell has all the same effects as normal.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

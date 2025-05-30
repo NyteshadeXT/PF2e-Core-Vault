@@ -13,7 +13,7 @@ license: OGL
 ---
 # Greenwatch Veteran
 ## Feat 8
-### [rare](rare.md "Rare Rarity Trait")[[gunslinger]][[investigator]][[ranger]]
+### [rare](rare "Rare Rarity Trait")[[gunslinger]][[investigator]][[ranger]]
 
 **Category** class; 
 
@@ -26,5 +26,5 @@ license: OGL
 
 Your time spent tracking your target allows you to quickly identify its weaknesses and relay them to your allies. Attempt a Recall Knowledge check against the creature you were [[Actions/Track|Tracking]]. On a success, you always know the creature's greatest weakness and highest resistance or immunity, in addition to any other information the check would typically provide. You immediately use a quick series of hand gestures to signal this information to any allies who can see you.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

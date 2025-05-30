@@ -69,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +17 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 5 piercing plus bloodseeker-beak"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+17 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 5 piercing plus bloodseeker-beak"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +16 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+16 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +16 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+16 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Efficient Capture"
     desc: "`pf2:3` (attack,manipulate) **Requirements** The sneak has manacles in hand and is adjacent to a creature.\n* * *\n\n**Effect** The sneak attempts to bind the creature's wrists or ankles with the manacles. If the sneak succeeds at an attack roll with a +16 modifier against the target's AC, they apply the manacles."

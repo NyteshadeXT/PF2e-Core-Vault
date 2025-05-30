@@ -20,5 +20,5 @@ license: OGL
 
 You can ask questions of, receive answers from, and use the Diplomacy skill with spiders and other arachnids. The GM determines which creatures count for this ability.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

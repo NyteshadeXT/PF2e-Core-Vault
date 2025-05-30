@@ -50,23 +50,26 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 15 (Deactivated by Fire)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Stench"
     desc: " (aura,olfactory) 30 feet. A creature entering the emanation must attempt a DC 27 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 1]], and on a critical failure is also [[Conditions/Slowed|Slowed 1]]. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at the save is temporarily immune to this effect for 1 minute."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vine +21 (acid, agile)\n__Damage__  3d6 + 6 bludgeoning plus grab 3d6 acid plus grab"
+  - name: "**Melee** `pf2:1` Vine"
+    desc: "+21 (acid, agile)\n__Damage__  3d6 + 6 bludgeoning plus grab 3d6 acid plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Glob +23 (acid, range 30 feet)\n__Damage__  4d8 - 2 acid plus amnesia-venom"
+  - name: "**Ranged** `pf2:1` Acid Glob"
+    desc: "+23 (acid, range 30 feet)\n__Damage__  4d8 - 2 acid plus amnesia-venom"
 
   - name: "Amnesia Venom"
     desc: " (mental,poison) **Saving Throw** DC 29 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** off-guard and [[Conditions/Clumsy|Clumsy 1]] (1 round)\n\n**Stage 3** [[Conditions/Confused|Confused]], off-guard, and [[Conditions/Clumsy|Clumsy 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6+2 bludgeoning damage, DC 27 Fortitude check\n* * *\n\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._\n\n* * *\n"
+    desc: "`pf2:1`  2d6+2 bludgeoning damage, DC 27 Fortitude check\n* * *\n\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Root"
     desc: "`pf2:1` (concentrate) Until the next time it acts, the dezullon appears to be a normal pitcher plant. It has an automatic result of 41 (44 in forests or swamps) on Deception checks and DCs to pass as a non-creature plant."
@@ -75,7 +78,7 @@ attacks:
     desc: "`pf2:r`  **Trigger** The dezullon is damaged by an attack\n* * *\n\n**Effect** The dezullon vomits the contents of its stomach into an adjacent unoccupied space, filling the space with either a dead body or still-moving zombie (a body is in one of the dezullons, a zombie is in the other). Creatures adjacent to the dezullon must succeed at a DC 28 Reflex check save or be splashed with a dose of the dezullon's amnesia venom."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

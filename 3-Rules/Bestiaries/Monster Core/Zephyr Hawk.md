@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +11 (agile, finesse)\n__Damage__  1d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+11 (agile, finesse)\n__Damage__  1d8 + 4 slashing"
 
   - name: "Circling Attack"
     desc: "`pf2:2`  The zephyr hawk Flies up to half its Speed, makes two wing Strikes, then Flies up to half its Speed again to return to its original location. The second half of this movement doesn't trigger reactions. Both attacks count toward the zephyr hawk's multiple attack penalty, but the penalty doesn't increase until after it makes both attacks."

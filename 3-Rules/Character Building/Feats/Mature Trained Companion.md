@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Prerequisites** Animal Trainer Dedication 
+**Prerequisites** Animal Trainer Dedication
 * * *
 Your animal companion grows up, becoming a mature animal companion. Increase its proficiency rank in Performance to expert instead of one of the three skill increases for mature. It gains the [[Adventure-Specific Actions/Mesmerizing Performance|Mesmerizing Performance]] advanced maneuver, rather than the normal advanced maneuver for its type.
 

@@ -54,10 +54,13 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 120 feet. DC 37 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 120 feet. DC 37 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Soulscent (Imprecise) 200 feet"
     desc: " (occult) The sluagh is aware of all doomed creatures, dying creatures, and creatures that died within the last hour within the listed range."
@@ -65,17 +68,20 @@ abilities_mid:
   - name: "Voice of the Soul"
     desc: "  A sluagh queen knows any language of a creature whose soul they've devoured and can perfectly mimic its voice by attempting a Deception check to Lie, with a +4 circumstance bonus."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Proboscis +35 (reach 20 feet)\n__Damage__  3d10 + 17 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Proboscis"
+    desc: "+35 (reach 20 feet)\n__Damage__  3d10 + 17 piercing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +35 (agile, magical)\n__Damage__  3d10 + 17 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+35 (agile, magical, unarmed)\n__Damage__  3d10 + 17 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Negative Ray +31 (magical, range increment 100 feet, void)\n__Damage__  7d8 void"
+  - name: "**Ranged** `pf2:1` Negative Ray"
+    desc: "+31 (magical, range increment 100 feet, void)\n__Damage__  7d8 void"
 
   - name: "Primal Innate Spells"
     desc: "DC 41, attack +33; __9th __  _[[Spells/Overwhelming Presence|Overwhelming Presence]]_; __7th __  _[[Spells/Visions of Danger|Visions of Danger (A Swarm of Sluagh Reapers)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_\n__Cantrips__  __(9th)__ _[[Spells/Ghost Sound|Ghost Sound]]_"
@@ -91,6 +97,9 @@ attacks:
 
   - name: "Soul Theft"
     desc: "`pf2:1` (occult,void) **Requirements** The queen has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] with her proboscis\n* * *\n\n**Effect** The queen devours a portion of the creature's soul and steals some of its ability. The creature takes 5d8 void damage (DC 41 Fortitude check save). The queen gains temporary HP equal to the total amount of HP the target loses, including any HP lost from being drained.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and is [[Conditions/Drained|Drained 1]].\n\n**Failure** The creature takes full damage and is drained 1 and [[Conditions/Doomed|Doomed 1]]. The queen steals a spell slot or training. If she steals a spell from a prepared caster, she transfers the spell to herself; if she steals from a spontaneous caster, she gains a prepared spell of the appropriate rank and expends one of the creature's spell slots of that rank. If she steals training, she chooses Perception, attack modifier, or any skill. For 24 hours, she gains a +2 status bonus to that statistic and the creature takes a -2 status penalty. The queen can have any number of stolen abilities, but only one from each creature.\n\n**Critical Failure** As failure, but double damage."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

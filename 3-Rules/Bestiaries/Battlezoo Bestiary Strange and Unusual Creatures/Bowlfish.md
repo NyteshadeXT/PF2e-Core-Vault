@@ -35,7 +35,7 @@ perception:
 languages: "Common"
 skills:
   - name: "Skills"
-    desc: "Athletics: +6, Deception: +7, Diplomacy: +7, Intimidation: +7, Performance: +7, Society: +6, Athletics: +6, Deception: +7, Diplomacy: +7, Intimidation: +7, Performance: +7, Society: +6"
+    desc: "Athletics: +6, Deception: +7, Diplomacy: +7, Intimidation: +7, Performance: +7, Society: +6"
 abilityMods: [1, 4, 1, 3, 3, 4]
 speed: 5 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (agile, deadly d8, finesse)\n__Damage__  1d6 + 1 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (agile, deadly d8, finesse)\n__Damage__  1d6 + 1 piercing plus grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 17, attack +9\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"

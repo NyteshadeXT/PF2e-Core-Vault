@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bayonet +16 ()\n__Damage__  1d6 + 6 piercing 2d6 fire"
+  - name: "**Melee** `pf2:1` Bayonet"
+    desc: "+16 ()\n__Damage__  1d6 + 6 piercing 2d6 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +15 (deadly d10, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 2 piercing 2d6 fire"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+15 (deadly d10, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 2 piercing 2d6 fire"
 
   - name: "Gunpowder Mastery"
     desc: "  With their rifles' firing ability ruined beyond repair, the soldiers put their gunpowder reserves to use, making explosive arrows and rigging their guns to let off sparks on each successful bayonet Strike. On a critical hit with the bayonet, the target catches fire, taking 2d4 persistent fire damage (DC 24 Reflex check negates)."

@@ -7,7 +7,7 @@ tags:
   - trait/emotion
   - trait/fear
   - trait/mental
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.MAC97gjFcdiqLyhp"
@@ -15,7 +15,7 @@ license: ORC
 ---
 # (Skeleton) Screaming Skull `pf2:2`
 
-### [[auditory]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]]
+### [[auditory]][[emotion]][[fear]][[mental]]
 
 **Category** offensive; 
 

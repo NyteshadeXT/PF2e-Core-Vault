@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +6 (agile, deadly d4, finesse)\n__Damage__  1d4 + 1 piercing plus itchy-rash"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+6 (agile, deadly d4, finesse, unarmed)\n__Damage__  1d4 + 1 piercing plus itchy-rash"
 
   - name: "Hurried Skitter"
     desc: "`pf2:2`  The lemming rat Strides or Climbs a total of three times, then becomes [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn."

@@ -29,5 +29,5 @@ You sweep across the battlefield, manifesting both the gentle spring breeze and 
 
 [[PF2e Journals/Archetypes/Fan Dancer|Fan Dancer]]
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

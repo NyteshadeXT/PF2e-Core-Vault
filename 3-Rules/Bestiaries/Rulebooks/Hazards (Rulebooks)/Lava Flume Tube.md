@@ -4,6 +4,7 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - mechanical
+  - trap
   - pf2eHazard
   - complex
 source: Pathfinder Core Rulebook
@@ -23,6 +24,7 @@ level: "Hazard 10"
 
 trait_06: "Complex"
 trait_01: [[mechanical]]
+trait_02: [[trap]]
 modifier: 19
 sourcebook: "_Pathfinder Core Rulebook_"
 ac: 30
@@ -53,7 +55,7 @@ attacks:
     desc: "`pf2:r` **Trigger** A creature tries to leave the room.\n* * *\n\n**Effect** The exits seal instantly and the trap rolls initiative."
 
   - name: "Routine"
-    desc: "(4 actions) The trap loses 1 action per disabled channel each turn. On each action, a different channel spews lava, dealing 4d6 fire damage to each creature within 10 feet of the channel (DC 27 Reflex check), and increasing the depth of the lava in the room by 1 foot (4 feet per round if all the channels are active).\n\nA creature that starts its turn in lava takes 8d6 fire damage and is immobilized until it Escapes the hardening lava (DC 27). The creature might suffocate if covered in lava.\n\nLava from the previous round hardens fully at the start of the trap's turn, effectively raising the floor of the room. Once the room is full of lava, the trap stops taking actions, but creatures in the room remain stuck until the floor opens and the trap resets."
+    desc: "(4 actions) The trap loses 1 action per disabled channel each turn. On each action, a different channel spews lava, dealing 4d6 fire damage to each creature within 10 feet of the channel (DC 27 Reflex check save), and increasing the depth of the lava in the room by 1 foot (4 feet per round if all the channels are active).\n\nA creature that starts its turn in lava takes 8d6 fire damage and is [[Conditions/Immobilized|Immobilized]] until it [[Actions/Escape|Escapes]] the hardening lava (DC 27). The creature might suffocate if covered in lava.\n\nLava from the previous round hardens fully at the start of the trap's turn, effectively raising the floor of the room. Once the room is full of lava, the trap stops taking actions, but creatures in the room remain stuck until the floor opens and the trap resets."
   - name: "Reset"
     desc: "The trap deactivates and resets after 1 hour by withdrawing the floor, cracking and dumping the hardened lava (and any creatures trapped inside) into the chamber. Creatures fall 40 feet, taking falling damage (typically 17 bludgeoning damage)."
 ```

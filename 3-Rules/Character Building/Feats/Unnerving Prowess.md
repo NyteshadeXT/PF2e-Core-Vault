@@ -25,5 +25,5 @@ license: OGL
 
 Your incredible skill with your blade unnerves your foes. You attempt to [[Actions/Demoralize|Demoralize]] the target of your Strike or [[Actions/Disarm|Disarm]]. This Demoralize attempt does not have the auditory trait, nor do you take a penalty to the check if the target doesn't understand your language.
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

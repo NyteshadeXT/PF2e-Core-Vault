@@ -60,17 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +10 ()\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+10 ()\n__Damage__  1d6 + 6 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +10 (reach 10 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+10 (reach 10 feet)\n__Damage__ "
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +6 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+6 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +6 (thrown 10 ft.)\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+6 (thrown 10 ft.)\n__Damage__  1d6 + 6 bludgeoning"
 
   - name: "Swamp Passage"
     desc: "  A boggard warrior ignores difficult terrain caused by swamp terrain features."

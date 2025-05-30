@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +12 (agile, finesse, versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+12 (agile, finesse, versatile s)\n__Damage__  1d4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +12 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+12 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
 
   - name: "Wizard Prepared Spells"
     desc: "DC 21, attack +14; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Blazing Bolt|Scorching Ray]]_, _[[Spells/Gecko Grip|Spider Climb]]_; __1st __  _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(2nd)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

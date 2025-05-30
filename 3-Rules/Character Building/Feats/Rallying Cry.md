@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You call out to your allies and push them to give their all in combat. All allies in a @Template\[emanation|distance:30\] that can hear you gain a number of temporary Hit Points equal to your level. In addition, these allies become [[Conditions/Quickened|Quickened]] for 1 minute but can use the extra action only to Step, Stride, or Strike.
+You call out to your allies and push them to give their all in combat. All allies in a 30-foot emanation that can hear you gain a number of temporary Hit Points equal to your level. In addition, these allies become [[Conditions/Quickened|Quickened]] for 1 minute but can use the extra action only to Step, Stride, or Strike.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

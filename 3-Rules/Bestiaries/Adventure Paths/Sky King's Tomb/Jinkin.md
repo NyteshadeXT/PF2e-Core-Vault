@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +9 (agile, finesse, versatile s)\n__Damage__  1d6 - 2 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+9 (agile, finesse, versatile s)\n__Damage__  1d6 - 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Metal Scrap +9 (range increment 20 feet, thrown)\n__Damage__  1d6 - 2 slashing"
+  - name: "**Ranged** `pf2:1` Metal Scrap"
+    desc: "+9 (range increment 20 feet, thrown)\n__Damage__  1d6 - 2 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"

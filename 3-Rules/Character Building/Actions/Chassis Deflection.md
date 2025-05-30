@@ -4,10 +4,11 @@ title: "Chassis Deflection"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/automaton
-  - trait/common
+  - trait/
   - category/defensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.uOlyklPCUWLtCaYI"
-license: OGL
+license: ORC
 ---
 # Chassis Deflection `pf2:r`
 
@@ -25,4 +26,4 @@ license: OGL
 Attempt a DC 17 Flat check. If you are successful, the attack becomes a normal hit.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

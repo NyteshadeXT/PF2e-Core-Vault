@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +16 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+16 (deadly d8, disarm, finesse, magical)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +15 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+15 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 25, attack +17; __4th __ (2 slots) _[[Spells/Honeyed Words|Glibness]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __ (3 slots) _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Ring of Truth|Zone of Truth]]_; __2nd __ (3 slots) _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Paranoia|Paranoia]]_; __1st __ (3 slots) _[[Spells/Alarm|Alarm]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"

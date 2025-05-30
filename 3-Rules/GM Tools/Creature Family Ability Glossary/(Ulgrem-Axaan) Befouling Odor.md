@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/aura
   - trait/olfactory
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.awFTdoQfYva84HkU"
 license: OGL
 ---
 # (Ulgrem-Axaan) Befouling Odor
 
-### [[3-Rules/trait_reference/A/aura]][[olfactory]]
+### [[aura]][[olfactory]]
 
 **Category** defensive; 
 
@@ -21,5 +21,5 @@ license: OGL
 
 15 feet. Creatures entering or starting their turn in the emanation must succeed at a DC 20 Fortitude check save or be [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure). A creature that succeeds at its save is temporarily immune to befouling odor for 1 minute.
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

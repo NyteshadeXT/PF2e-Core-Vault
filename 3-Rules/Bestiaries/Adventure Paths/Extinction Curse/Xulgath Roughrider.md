@@ -66,17 +66,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Halberd +24 (magical, reach, versatile s)\n__Damage__  2d10 + 11 piercing"
+  - name: "**Melee** `pf2:1` Halberd"
+    desc: "+24 (magical, reach, versatile s)\n__Damage__  2d10 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +23 ()\n__Damage__  2d8 + 11 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+23 (unarmed)\n__Damage__  2d8 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile)\n__Damage__  2d6 + 11 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, unarmed)\n__Damage__  2d6 + 11 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +22 (thrown 30 ft.)\n__Damage__  1d6 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+22 (thrown 30 ft.)\n__Damage__  1d6 + 11 piercing"
 
   - name: "Feral Directive"
     desc: "`pf2:2`  The xulgath attempts to [[Actions/Command an Animal|Command an Animal]] on their mount, but instead of demanding a specific action such as Stride or Strike, the xulgath gives a general directive, such as to return to camp or to attack a small group the mount can see. The mount and the xulgath each retain 3 actions on their turns, but the mount doesn't change its general tactics until the xulgath uses Feral Directive or Command an Animal again."

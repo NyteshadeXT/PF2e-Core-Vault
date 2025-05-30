@@ -24,5 +24,5 @@ license: OGL
 
 You trained with shields and weapons as soon as you were old enough to hold them, eager to win honor and glory for yourself. You gain the [[Feats/Shield Block|Shield Block]] reaction and are trained in your choice of the battle axe or longsword.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

@@ -56,22 +56,22 @@ abilities_mid:
     desc: "`pf2:r`  **Trigger** A creature within the reach of the Sezelrian warg's jaws attacks one of the warg's allies\n* * *\n\n**Effect** The Sezelrian warg makes a jaws Strike against the triggering creature."
 
   - name: "[[Bestiary Ability Glossary/Buck|Buck]]"
-    desc: "`pf2:r`  DC 21 Reflex check"
+    desc: "`pf2:r`  DC 21 Reflex check\n* * *\n\nMost monsters that serve as mounts can attempt to buck off unwanted or annoying riders, but most mounts will not use this reaction against a trusted creature unless the mounts are spooked or mistreated.\n\n**Trigger** A creature [[Actions/Mount|Mounts]] or uses the [[Actions/Command an Animal|Command an Animal]] action while riding the monster.\n* * *\n\n**Effect** The triggering creature must succeed at a Reflex saving throw against the listed DC or fall off the creature and land [[Conditions/Prone|Prone]]. If the save is a critical failure, the triggering creature also takes 1d6 bludgeoning damage in addition to the normal damage for the fall."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 (fire)\n__Damage__  1d10 + 6 piercing plus knockdown 1d6 fire plus knockdown"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (fire, unarmed)\n__Damage__  1d10 + 6 piercing plus knockdown 1d6 fire plus knockdown"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (fire,primal) The Sezelrian warg breathes a cloud of smoky fire in a @Template[cone|distance:15] that deals 5d8 fire damage (DC 23 Reflex check save). The Sezelrian warg cannot use Breath Weapon for 1d4 rounds."
+    desc: "`pf2:2` (fire,primal) The Sezelrian warg breathes a cloud of smoky fire in a 15-foot cone that deals 5d8 fire damage (DC 23 Reflex check save). The Sezelrian warg cannot use Breath Weapon for 1d4 rounds."
 
   - name: "Pack Attack"
     desc: "  The Sezelrian warg's Strikes deal 1d6 extra damage to creatures within the reach of at least two of the warg's allies."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

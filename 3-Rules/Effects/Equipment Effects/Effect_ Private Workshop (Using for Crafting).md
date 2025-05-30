@@ -16,7 +16,9 @@ license: OGL
 
 
 
-The workshop is stocked with mundane tools and can be used to Craft items appropriate to the workshop with a +1 item bonus, but you must supply any raw materials.
+Granted by [[Equipment/Private Workshop|Private Workshop]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+You gain a +1 item bonus to Craft items.
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

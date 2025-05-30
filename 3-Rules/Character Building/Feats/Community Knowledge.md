@@ -28,5 +28,5 @@ license: OGL
 
 You commune with the psychic echoes of your ancestors and community, channeling their experiences into yourself. You gain a +2 status bonus on the triggering skill check.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

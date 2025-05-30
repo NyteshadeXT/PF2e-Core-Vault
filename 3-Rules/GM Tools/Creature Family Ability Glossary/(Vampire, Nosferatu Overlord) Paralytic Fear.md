@@ -8,14 +8,14 @@ tags:
   - trait/fear
   - trait/incapacitation
   - trait/mental
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.EsbdyB9DwvPvhCCC"
 license: OGL
 ---
 # (Vampire, Nosferatu Overlord) Paralytic Fear `pf2:1`
 
-### [[divine]][[emotion]][[3-Rules/trait_reference/F/fear]][[incapacitation]][[3-Rules/trait_reference/M/mental]]
+### [[divine]][[emotion]][[fear]][[incapacitation]][[mental]]
 
 **Category** offensive; 
 

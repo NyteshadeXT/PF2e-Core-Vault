@@ -54,8 +54,11 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Swarm Mind|Swarm Mind]]"
+    desc: "  This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
+
   - name: "Plaque Burst"
-    desc: "  When killed, a tooth fairy swarm bursts into sticky, foul-smelling white dust. Each creature in a @Template[emanation|distance:15] must succeed at a DC 20 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
+    desc: "  When killed, a tooth fairy swarm bursts into sticky, foul-smelling white dust. Each creature in a 15-foot emanation must succeed at a DC 20 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
 
 attacks:
   - name: ""
@@ -64,7 +67,7 @@ attacks:
     desc: "`pf2:1`  Tooth fairies pinch their victims' fingers, noses, ears, or similar protruding body parts. Each enemy in the swarm's space takes 2d6 bludgeoning damage (DC 20 Reflex check save). Creatures that critically fail this save are [[Conditions/Sickened|Sickened 1]] from the pain."
 
   - name: "Pry"
-    desc: "`pf2:3`  The tooth fairies try to pry out one of their target's teeth. One enemy in the swarm's space takes 4d6 bludgeoning damage with a DC 20 Reflex check save. On a failed save, the target takes 2 bleed damage and loses a tooth.\n\nIf the creature loses a tooth, it takes a –1 status penalty to Charisma-based skill checks and must succeed at a DC 5 Flat check to Cast a Spell unless that spell has the subtle trait. These effects last for 1 day, or until the stolen tooth is returned and the target regains at least 1 Hit Point."
+    desc: "`pf2:3`  The tooth fairies try to pry out one of their target's teeth. One enemy in the swarm's space takes 4d6 bludgeoning damage with a DC 20 Reflex check save. On a failed save, the target takes 2 bleed damage and loses a tooth.\n\nIf the creature loses a tooth, it takes a –1 status penalty to Charisma-based skill checks and must succeed at a DC 5 Flat check to Cast a Spell unless that spell has the subtle trait. These effects last for 1 day, or until the stolen tooth is returned and the target regains at least 1 Hit Point.\n\n[[Bestiary Effects/Effect_ Tooth Tug|Effect: Tooth Tug]]"
  
 ```
 

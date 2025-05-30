@@ -7,14 +7,14 @@ tags:
   - trait/manipulate
   - trait/summoner
   - trait/teleportation
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.n5vwBnLSlIXL9ptp"
 license: OGL
 ---
 # Manifest Eidolon `pf2:3`
 
-### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Manipulate]][[summoner]][[teleportation]]
+### [[concentrate]][[manipulate]][[summoner]][[teleportation]]
 
 **Category** interaction; 
 

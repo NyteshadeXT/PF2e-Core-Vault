@@ -6,7 +6,7 @@ tags:
   - trait/arcane
   - trait/concentrate
   - trait/polymorph
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.FdUuCIkQxVoTGM78"
 license: OGL
@@ -22,5 +22,5 @@ license: OGL
 
 The mutant takes on the specific appearance of any Small or Medium humanoid they can currently see. This doesn't alter their statistics, but it might change the damage type of their Strikes.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

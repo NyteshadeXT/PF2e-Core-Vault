@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +8 (agile, finesse, versatile s)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+8 (agile, finesse, versatile s)\n__Damage__  1d6 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire (Lesser) +8 (bomb, consumable, range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire (Lesser)"
+    desc: "+8 (bomb, consumable, range increment 20 feet, splash)\n__Damage__  1d8 fire 1 fire 1 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +8 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+8 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "Single Out"
     desc: "`pf2:1`  The bandit designates one target it can see at a time. Against that target its multiple attack penalty becomes -3 (-2 with an agile weapon) and -6 (-4 with an agile weapon) for 1 minute"

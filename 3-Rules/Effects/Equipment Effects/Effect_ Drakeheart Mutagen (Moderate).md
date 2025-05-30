@@ -17,17 +17,11 @@ license: ORC
 
 
 
-Granted by [[Drakeheart Mutagen (Moderate)|Drakeheart Mutagen (Moderate)]]
+Granted by [[Equipment/Drakeheart Mutagen (Moderate)|Drakeheart Mutagen (Moderate)]]
 
-**Implemented effects**
+**Benefit** You gain +5 item bonus to AC, a Dexterity cap of +2, and a +2 item bonus to Perception checks.
 
-*   +5 item bonus to AC
-*   Dexterity cap of +2
-*   +2 item bonus to Perception checks
-*   \-1 penalty to Will saves
-*   \-1 penalty to Reflex saves
-*   \-1 penalty to all Recall Knowledge checks
-*   Gain the Final Surge action
+**Drawback** You take a -1 penalty to Will saves, Reflex saves, and all skill checks to Recall Knowledge.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

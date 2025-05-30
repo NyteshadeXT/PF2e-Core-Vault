@@ -26,5 +26,5 @@ license: ORC
 
 The Dissolution teaches that darkness can bring clarity and focus, serenity and strength—and so you draw on nearby shadows to replenish your magic. You regain 1 Focus Point, up to your usual maximum.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

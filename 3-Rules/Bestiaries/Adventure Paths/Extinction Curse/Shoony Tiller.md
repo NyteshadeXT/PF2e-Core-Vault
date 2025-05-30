@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoe +6 ()\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoe"
+    desc: "+6 ()\n__Damage__  1d4 + 3 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dirt Clod +4 (nonlethal, range increment 10 feet, thrown)\n__Damage__  1 bludgeoning"
+  - name: "**Ranged** `pf2:1` Dirt Clod"
+    desc: "+4 (nonlethal, range increment 10 feet, thrown)\n__Damage__  1 bludgeoning"
 
   - name: "Dig Quickly"
     desc: "`pf2:2` (manipulate) **Requirements** You are standing on dirt, sand, snow, or similar particulate material.\n* * *\n\n**Effect** Your hands work as effectively as shovels when you need to dig a quick hole. You dig a shallow pit in the square you currently occupy, turning the square into difficult terrain (including for you). In addition, you also kick up a cloud of grit in a direction of your choice. The cloud extinguishes small, unattended, non-magical fires and helps smother the flames on burning creatures located within the cone; creatures in this cone that are taking [[Conditions/Persistent Damage|Persistent Fire Damage]] can immediately attempt an additional DC 15 Flat check to end the persistent damage."

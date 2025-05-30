@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Deity's Protection|Deity's Protection]]
 
-You gain resistance to all damage until the start of your next turn.
+You gain resistance to all damage.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +8 (two-hand d8)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+8 (two-hand d8)\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 ()\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (unarmed)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +8 (agile, finesse)\n__Damage__  1d4 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+8 (agile, finesse)\n__Damage__  1d4 + 2 bludgeoning"
 
   - name: "Primal Prepared Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Pest Form|Pest Form]]_, _[[Spells/Runic Body|Runic Body]]_, _[[Spells/Summon Animal|Summon Animal]]_\n__Cantrips__  __(1st)__ _[[Spells/Guidance|Guidance]]_, _[[Spells/Ignition|Ignition]]_, _[[Spells/Know the Way|Know the Way]]_, _[[Spells/Light|Light]]_, _[[Spells/Stabilize|Stabilize]]_"

@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +10 ()\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+10 ()\n__Damage__  1d6 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +10 (thrown 10 ft.)\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+10 (thrown 10 ft.)\n__Damage__  1d6 + 6 bludgeoning"
 
   - name: "Hit 'Em Hard"
     desc: "`pf2:2`  Auchs unleashes a particularly powerful attack and makes a melee club Strike that counts as two attacks when calculating his multiple attack penalty. If this strike hits, he deals an extra 1d6 points of damage; on a critical hit, the creature struck must succeed at a DC 18 Fortitude check save or be knocked [[Conditions/Prone|Prone]]."

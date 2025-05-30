@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Forge|Forge]]
+Granted by [[Spells/Forge|Forge]]
 
-A metal creature that critically fails its fortitude saving throw against _Forge_ gains weakness 2 \* spell rank to physical damage until the end of the caster's next turn.
+You gain weakness to physical damage.
 
-*Source: Pathfinder Lost Omens: Highhelm*
+*Source: Pathfinder Lost Omens Highhelm*
 *OGL*

@@ -23,5 +23,5 @@ The epics of your people's tragic yet proud history blaze like burning leaves in
 
 You also gain the [[Feats/Additional Lore|Additional Lore]] general feat for Yaksha Lore.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +27 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 12 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+27 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 12 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 34, attack +24; __7th __ (6 slots) _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Execute|Finger of Death]]_; __6th __ (3 slots) _[[Spells/Blade Barrier|Blade Barrier]]_, _[[Spells/Truesight|True Seeing]]_; __5th __ (3 slots) _[[Spells/Flame Strike|Flame Strike]]_, _[[Spells/Scouting Eye|Prying Eye]]_; __4th __ (3 slots) _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __ (3 slots) _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Ring of Truth|Zone of Truth]]_; __2nd __ (3 slots) _[[Spells/Invisibility|Invisibility]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Silence|Silence]]_, _[[Compendium.pf2e.spells-srd.Item.FzAtX8yXBjTaisJK|Undetectable Alignment]]_; __1st __ (3 slots) _[[Spells/Command|Command]]_, _[[Spells/Detect Poison|Detect Poison]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_\n__Cantrips__  __(7th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Message|Message]]_"

@@ -7,14 +7,14 @@ tags:
   - trait/magical
   - trait/manipulate
   - trait/thaumaturge
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.Mh4Vdg6gu8g8RAjh"
 license: OGL
 ---
 # Mirror's Reflection `pf2:1`
 
-### [[illusion]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Manipulate]][[thaumaturge]]
+### [[illusion]][[magical]][[manipulate]][[thaumaturge]]
 
 **Category** interaction; 
 

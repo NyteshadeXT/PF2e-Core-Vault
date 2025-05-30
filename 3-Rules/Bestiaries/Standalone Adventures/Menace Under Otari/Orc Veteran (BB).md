@@ -3,7 +3,7 @@ title: "Orc Veteran (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.EtRqBsWh1Hv1toqh" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.V90OYOMyyPLPJuod" 
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/orc
@@ -60,17 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +7 (sweep)\n__Damage__  1d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+7 (sweep)\n__Damage__  1d8 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +7 (agile, versatile p)\n__Damage__  1d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+7 (agile, versatile p)\n__Damage__  1d6 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +7 (agile, nonlethal)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+7 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +5 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+5 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
  
 ```
 

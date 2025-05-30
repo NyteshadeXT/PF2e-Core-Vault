@@ -6,8 +6,9 @@ tags:
   - trait/inventor
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.GLHh9MWlcINLC6Q0"
-license: OGL
+license: ORC
 ---
 # Engine of Destruction `pf2:3`
 ## Feat 18
@@ -24,4 +25,4 @@ Your construct unleashes a broad swath of devastation by separating its limbs, d
 [[Feat_Feature Effects/Effect_ Engine of Destruction|Effect: Engine of Destruction]]
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

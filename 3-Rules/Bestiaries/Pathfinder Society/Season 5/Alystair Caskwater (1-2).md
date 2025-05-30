@@ -62,14 +62,17 @@ abilities_mid:
   - name: "[[Actor.gWYbmi3JoXdSn3ch.Item.h0VU0sBf5jz6KCu1|The Void's Revenge]]"
     desc: " (curse,divine) A creature that slays Alystair is subjected to a [[Spells/Mariner's Curse|Mariner's Curse]] spell with a DC 17 Will check save. The curse ends if the draugr is buried in a calm sea or after 1 week passes."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +10 (versatile p)\n__Damage__  1d10 + 4 slashing plus grotesque-gift"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+10 (versatile p)\n__Damage__  1d10 + 4 slashing plus grotesque-gift"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +9 (agile)\n__Damage__  1d4 + 4 slashing plus grotesque-gift"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+9 (agile, unarmed)\n__Damage__  1d4 + 4 slashing plus grotesque-gift"
 
   - name: "Grotesque Gift"
     desc: " (olfactory) Alystair's attacks spatter their targets with rancid flesh and rotting seaweed. A creature damaged by a draugr's Strike must succeed at a DC 15 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."

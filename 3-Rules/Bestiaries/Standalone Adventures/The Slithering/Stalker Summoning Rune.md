@@ -43,7 +43,7 @@ attacks:
   - name: ""
 
   - name: "Summon Monster"
-    desc: "`pf2:r` (arcane, summon) **Trigger** A creature that isn't openly bearing an Aspis Consortium badge crosses the center of the yard\n* * *\n\n**Effect** The trap summons an [[Bestiary 1/Invisible Stalker|Invisible Stalker]]. The invisible stalker rolls initiative and remains for 2d6 rounds, after which the spell ends and the invisible stalker disappears. The invisible stalker also disappears if someone disables the trap before the duration expires.\n\nThe invisible stalker can use 3 actions each round and can use reactions, unlike most summoned creatures."
+    desc: "`pf2:r` (arcane, summon) **Trigger** A creature that isn't openly bearing an Aspis Consortium badge crosses the center of the yard\n* * *\n\n**Effect** The trap summons an [[Monster Core/Phade|Invisible Stalker]]. The invisible stalker rolls initiative and remains for 2d6 rounds, after which the spell ends and the invisible stalker disappears. The invisible stalker also disappears if someone disables the trap before the duration expires.\n\nThe invisible stalker can use 3 actions each round and can use reactions, unlike most summoned creatures."
 
 
   - name: "Reset"

@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 (agile, finesse)\n__Damage__  1d4 + 3 piercing 1d4 fire"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (agile, finesse, unarmed)\n__Damage__  1d4 + 3 piercing 1d4 fire"
  
 ```
 

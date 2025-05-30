@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +7 (agile)\n__Damage__  1d10 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+7 (agile)\n__Damage__  1d10 + 2 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +9 (two-hand d8)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+9 (two-hand d8)\n__Damage__  1d6 + 2 bludgeoning"
 
   - name: "Primal Prepared Spells"
     desc: "DC 16, attack +8; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_\n__Cantrips__  __(2nd)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You can shape the energy you channel in a single direction. When you cast a version of [[Harm|Harm]] or [[Heal|Heal]] that has an area, you can make its area a @Template\[cone|distance:60\] instead of a @Template\[emanation|distance:30\].
+You can shape the energy you channel in a single direction. When you cast a version of [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]] that has an area, you can make its area a 60-foot cone instead of a 30-foot emanation.
 
 *Source: Pathfinder Player Core*
 *ORC*

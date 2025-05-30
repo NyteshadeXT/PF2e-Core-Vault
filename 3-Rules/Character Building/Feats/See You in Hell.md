@@ -11,7 +11,7 @@ license: OGL
 ---
 # See You in Hell `pf2:r`
 ## Feat 17
-### [rare](rare.md "Rare Rarity Trait")[[reincarnated]]
+### [rare](rare "Rare Rarity Trait")[[reincarnated]]
 
 **Category** ancestry; 
 
@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-You aren't sure if you'll be reincarnated again, so you might as well take this foe with you. A blast of spiritual energy lashes out from the depths of your soul, targeting the creature who attacked you. The creature takes mental damage equal to the amount that reduced you to 0 Hit Points (basic Will check save with a DC equal to your class DC or spell DC, whichever is higher).
+You aren't sure if you'll be reincarnated again, so you might as well take this foe with you. A blast of spiritual energy lashes out from the depths of your soul, targeting the creature who attacked you. The creature takes mental damage equal to the amount that reduced you to 0 Hit Points (Will check save with a DC equal to your class DC or spell DC, whichever is higher).
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

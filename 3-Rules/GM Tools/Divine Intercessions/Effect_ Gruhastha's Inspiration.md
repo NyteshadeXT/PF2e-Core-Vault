@@ -20,5 +20,5 @@ Granted by [[Divine Intercessions/Gruhastha - Major Boon|Gruhastha - Major Boon]
 
 Allies within 60 feet gain a +2 status bonus to Will saves.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

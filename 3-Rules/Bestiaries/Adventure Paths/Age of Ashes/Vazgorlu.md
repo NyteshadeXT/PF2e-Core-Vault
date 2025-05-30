@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Hostile Juxtaposition"
@@ -60,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +38 (reach 10 feet)\n__Damage__  4d10 + 8 piercing 3d10 acid"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+38 (reach 10 feet)\n__Damage__  4d10 + 8 piercing 3d10 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Web +38 (range increment 60 feet)\n__Damage__  6d6 + 8 acid plus dimensional-tether"
+  - name: "**Ranged** `pf2:1` Web"
+    desc: "+38 (range increment 60 feet)\n__Damage__  6d6 + 8 acid plus dimensional-tether"
 
   - name: "Arcane Innate Spells"
     desc: "DC 35, attack +27; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (To and From the Vazgorlu's Demiplane Only)]]_, _[[Spells/Teleport|Teleport (x3)]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_\n__Constant__  __(4th)__ _[[Spells/Air Walk|Air Walk]]_"

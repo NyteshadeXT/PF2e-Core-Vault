@@ -18,5 +18,5 @@ license: OGL
 
 Those who incite Shizuru's personal wrath earn the hatred of all of her subjects. All imperial dragons and animals you encounter are automatically hostile to you, and you gain weakness 15 to draconic breath weapons.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

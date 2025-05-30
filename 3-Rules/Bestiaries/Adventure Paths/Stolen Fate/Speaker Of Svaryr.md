@@ -52,17 +52,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 30 (Deactivated by Acid or Fire)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +36 (magical, versatile s)\n__Damage__  4d10 + 14 bludgeoning 2d8 mental"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+36 (magical, unarmed, versatile s)\n__Damage__  4d10 + 14 bludgeoning 2d8 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +36 (agile, backswing, magical)\n__Damage__  4d6 + 14 bludgeoning plus befuddling-lash 2d10 mental plus befuddling-lash"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+36 (agile, backswing, magical)\n__Damage__  4d6 + 14 bludgeoning plus befuddling-lash 2d10 mental plus befuddling-lash"
 
   - name: "Primal Innate Spells"
-    desc: "DC 42, attack +34; __10th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Heal|Heal]]_; __9th __  _[[Spells/Disjunction|Disjunction]]_, _[[Spells/Heal|Heal]]_; __8th __  _[[Spells/Heal|Heal]]_, _[[Spells/Mask of Terror|Mask of Terror]]_; __7th __  _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Heal|Heal]]_; __6th __  _[[Spells/Chain Lightning|Chain Lightning (x3)]]_, _[[Spells/Slow|Slow]]_\n__Cantrips__  __(10th)__ _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_\n__Constant__  __(10th)__ _[[Spells/Speak with Plants|Speak with Plants]]_, _[[Spells/Truespeech|Tongues]]_"
+    desc: "DC 42, attack +34; __10th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Heal|Heal]]_; __9th __  _[[Spells/Disjunction|Disjunction]]_, _[[Spells/Heal|Heal]]_; __8th __  _[[Spells/Heal|Heal]]_, _[[Spells/Mask of Terror|Mask of Terror]]_; __7th __  _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Heal|Heal]]_; __6th __  _[[Spells/Chain Lightning|Chain Lightning (x3)]]_, _[[Spells/Slow|Slow]]_\n__Cantrips__  __(10th)__ _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_\n__Constant__  __(10th)__ _[[Spells/Speak with Plants|Speak with Plants]]_, _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Befuddling Lash"
     desc: " (curse,mental) When the Speaker damages a creature with her tail, a wave of befuddlement clouds the target's thoughts. The creature must succeed at a DC 42 Will check save or become [[Conditions/Stupefied|Stupefied 1]] ([[Conditions/Stupefied|Stupefied 2]] on a critical failure) for 1 minute."

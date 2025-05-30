@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flail +18 (disarm, sweep, trip)\n__Damage__  2d6 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Flail"
+    desc: "+18 (disarm, sweep, trip)\n__Damage__  2d6 + 10 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +15 (thrown 30 ft.)\n__Damage__  1d6 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+15 (thrown 30 ft.)\n__Damage__  1d6 + 10 piercing"
 
   - name: "Efficient Capture"
     desc: "`pf2:3` (attack,manipulate) **Requirements** The thug has manacles in hand and is next to a creature.\n* * *\n\n**Effect** The thug attempts to bind the creature's wrists or ankles with the manacles. The thug must succeed at an attack roll with a +18 modifier against the target's AC."

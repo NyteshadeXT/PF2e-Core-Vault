@@ -60,16 +60,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +29 (reach 10 feet)\n__Damage__  3d8 + 14 piercing 2d8 bleed"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+29 (reach 10 feet, unarmed)\n__Damage__  3d8 + 14 piercing 2d8 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +29 (agile)\n__Damage__  3d8 + 14 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+29 (agile, unarmed)\n__Damage__  3d8 + 14 slashing"
 
   - name: "Slaughter Tackle"
     desc: "`pf2:2`  The ancient rivener [[Actions/Leap|Leaps]] at a target within 30 feet, and then makes one jaws Strike and one claw Strike in any order."

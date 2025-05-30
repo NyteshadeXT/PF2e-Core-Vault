@@ -57,17 +57,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +23 (reach 20 feet, sweep)\n__Damage__  2d10 + 13 bludgeoning plus improved-knockdown"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+23 (reach 20 feet, sweep)\n__Damage__  2d10 + 13 bludgeoning plus improved-knockdown"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +23 (reach 15 feet)\n__Damage__  2d8 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+23 (reach 15 feet, unarmed)\n__Damage__  2d8 + 13 bludgeoning"
 
   - name: "Tail Sweep"
     desc: "`pf2:2`  The brontosaurus makes a tail Strike and compares the attack roll to the AC of up to three foes, each of whom must be within its tail's melee reach and adjacent to at least one other target. It rolls damage only once and applies it to each creature hit.\n\nA Tail Sweep counts as two attacks for its multiple attack penalty."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 29 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 29 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
+
+  - name: "[[Bestiary Ability Glossary/Improved Knockdown|Improved Knockdown]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature as a free action. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

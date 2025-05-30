@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kusarigama +19 (disarm, monk, reach 10 feet, trip, versatile b)\n__Damage__  1d6 mental 2d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Kusarigama"
+    desc: "+19 (disarm, monk, reach 10 feet, trip, versatile b)\n__Damage__  1d6 mental 2d8 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +18 (agile, reach 10 feet)\n__Damage__  2d6 + 7 piercing 1d6 mental"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+18 (agile, reach 10 feet)\n__Damage__  2d6 + 7 piercing 1d6 mental"
 
   - name: "Occult Innate Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Rewrite Memory|Rewrite Memory]]_, _[[Spells/Translocate|Translocate]]_; __3rd __  _[[Spells/Fear|Fear]]_, _[[Spells/Veil of Privacy|Veil of Privacy]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Item Facade|Item Facade]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Message|Message]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

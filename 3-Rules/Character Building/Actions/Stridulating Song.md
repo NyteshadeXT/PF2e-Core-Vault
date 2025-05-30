@@ -13,7 +13,7 @@ license: ORC
 ---
 # Stridulating Song `pf2:2`
 
-### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Magical]]
+### [[auditory]][[magical]]
 
 **Category** offensive; 
 

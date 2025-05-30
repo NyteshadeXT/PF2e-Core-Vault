@@ -31,5 +31,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "**Trigger** A shield within range would be reduced to 0 Hit Points by a damaging effect\n\n**Requirements** The triggering shield had more than 1 Hit Point before taking damage.\n* * *\n\nYou hold a shield together with the power of your magic, forcing wood and steel to fuse back together. The shield remains at 1 Hit Point and isn't destroyed. Its construction is weakened until someone takes the time to repair it, preventing _desperate repair_ or a similar ability from saving the same shield until your next daily preparations."
-sourcebook: "_Pathfinder Lost Omens: Knights of Lastwall_"
+sourcebook: "_Pathfinder Lost Omens Knights of Lastwall_"
 ```

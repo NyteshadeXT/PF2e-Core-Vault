@@ -23,5 +23,5 @@ You listened carefully to the tales passed down among your community. You gain t
 
 You also gain the [[Feats/Additional Lore|Additional Lore]] general feat for Sarangay Lore.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

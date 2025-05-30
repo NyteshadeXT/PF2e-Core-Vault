@@ -60,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Reinforced Loyalty"
     desc: "  The commander is resistant to mind-affecting magics due to their repeated exposure to Marcien Blakros's enchantments. Whenever the commander rolls a success on a Will save against an enchantment or fear effect, they get a critical success instead, unless that effect originated from Marcien. In addition, anytime they gain the [[Conditions/Frightened|Frightened]] condition, reduce its value by 1."
@@ -71,17 +71,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +18 (deadly d8, disarm, magical)\n__Damage__  1d6 + 11 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+18 (deadly d8, disarm, magical)\n__Damage__  1d6 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +17 (agile, finesse, versatile s)\n__Damage__  1d4 + 11 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+17 (agile, finesse, versatile s)\n__Damage__  1d4 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +17 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+17 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 11 piercing"
 
   - name: "Shadow Stride"
-    desc: "`pf2:1` (illusion,occult,shadow) **Requirements** The commander is in dim light\n* * *\n\n**Effect** The commander Strides. They have a +10-foot status bonus to their Speed during this Stride. The DC from shadow blending increases to 11 during this Stride, and the commander remains concealed by dim light until the end of the movement, even if they leave dim light during the Stride."
+    desc: "`pf2:1` (illusion,occult,shadow) **Requirements** The commander is in dim light\n* * *\n\n**Effect** The commander Strides. They have a +10-foot status bonus to their Speed during this Stride. The DC from shadow blending increases to DC 11 Flat check during this Stride, and the commander remains [[Conditions/Concealed|Concealed]] by dim light until the end of the movement, even if they leave dim light during the Stride."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The commander deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

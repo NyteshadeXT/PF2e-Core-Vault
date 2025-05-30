@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Zombie) Infested Zombie"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.apVBHJT95t9Fhxpb"
 license: OGL

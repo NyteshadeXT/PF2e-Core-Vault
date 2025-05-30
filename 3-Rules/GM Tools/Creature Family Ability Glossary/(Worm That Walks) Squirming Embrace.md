@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Worm That Walks) Squirming Embrace"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.Zu6feO9NUZJlsKuc"
 license: OGL

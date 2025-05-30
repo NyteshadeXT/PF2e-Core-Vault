@@ -19,6 +19,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/pzo90186 vanthWarrior.webp| ]]
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Vanth Warrior"
 level: "Creature 14"
@@ -51,22 +52,25 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Scythe|Scythe]]"
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 20 feet. DC 34 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 20 feet. DC 34 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scythe +29 (deadly d10, magical, trip)\n__Damage__  3d12 + 14 slashing plus spirit-touch"
+  - name: "**Melee** `pf2:1` Scythe"
+    desc: "+29 (deadly d10, magical, trip)\n__Damage__  3d12 + 14 slashing plus spirit-touch"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +29 (agile)\n__Damage__  3d8 + 14 slashing plus spirit-touch"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+29 (agile, unarmed)\n__Damage__  3d8 + 14 slashing plus spirit-touch"
 
   - name: "Divine Innate Spells"
     desc: "DC 34, attack +26; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __3rd __  _[[Spells/Locate|Locate (x3)]]_, _[[Spells/Holy Light|Searing Light (x3)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_"
@@ -75,7 +79,7 @@ attacks:
     desc: " (divine) A vanth's scythe is their symbol of office and gains a measure of their personal power. This scythe becomes a _+2 striking scythe_ and is treated as if it were adamantine while the vanth wields it. A vanth whose scythe is taken or destroyed can infuse a new one with an hour of work."
 
   - name: "Reaping Scythe"
-    desc: "`pf2:2`  The vanth throws their scythe, which flies in a @Template[line|distance:60], dealing 6d8 slashing damage to all creatures in the area (DC 34 Reflex check) and returns to the vanth's hand."
+    desc: "`pf2:2`  The vanth throws their scythe, which flies in a 60-foot line, dealing 6d8 slashing damage to all creatures in the area (DC 34 Reflex check) and returns to the vanth's hand."
 
   - name: "Spirit Touch"
     desc: " (incorporeal) A vanth's Strikes affect incorporeal creatures with the effects of a _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune and deal 3d6 void damage to living creatures and 3d6 vitality damage to undead."

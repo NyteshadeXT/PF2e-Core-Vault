@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Trident +7 ()\n__Damage__  1d8 + 2 piercing"
+  - name: "**Melee** `pf2:1` Trident"
+    desc: "+7 ()\n__Damage__  1d8 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +9 (thrown 20 ft.)\n__Damage__  1d8 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+9 (thrown 20 ft.)\n__Damage__  1d8 + 2 piercing"
 
   - name: "Aquatic Dash"
     desc: "`pf2:2`  The merfolk warrior swims and attacks in one of two patterns. They either Swim twice and Strike at the end of their movement, or Swim once and Strike at any point during their movement."

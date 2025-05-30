@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Read The Roots"
+title: "Read the Roots"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/ardande
@@ -13,9 +13,9 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.tBRhYPGTb30qP34t"
 license: OGL
 ---
-# Read The Roots `pf2:2`
+# Read the Roots `pf2:2`
 ## Feat 5
-### [[ardande]][[primal]][[3-Rules/Trait Reference/S/scrying]][[Wood]]
+### [[ardande]][[primal]][[scrying]][[wood]]
 
 **Category** ancestry; 
 

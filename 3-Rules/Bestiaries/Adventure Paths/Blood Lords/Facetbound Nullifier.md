@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap185-a-taste-of-ashes/assets/art/PZO90185_FACETBOUND_NULLIFIER.webp| ]]
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Facetbound Nullifier"
 level: "Creature 15"
@@ -62,19 +63,22 @@ abilities_mid:
     desc: "  The nullifier gains an additional reaction each round that can be used only for Defensive Dispel."
 
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  The nullifier can also make attacks of opportunity against concentrate actions to Cast a Spell, and it disrupts that action on any hit, not just a critical hit."
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.\n\nThe nullifier can also make attacks of opportunity against concentrate actions to Cast a Spell, and it disrupts that action on any hit, not just a critical hit."
 
   - name: "Defensive Dispel"
     desc: "`pf2:r` (arcane) **Trigger** The nullifier is the target of a spell\n* * *\n\n**Effect** The nullifier attempts to counteract the triggering spell, with a counteract modifier of +27. This can be used only on spells that target the nullifier, not area spells that don't have targets. If it succeeds, it counteracts the spell for all targets, if other creatures were targeted in addition to the nullifier."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Halberd +30 (magical, reach 10 feet, versatile s)\n__Damage__  2d10 + 16 piercing"
+  - name: "**Melee** `pf2:1` Halberd"
+    desc: "+30 (magical, reach 10 feet, versatile s)\n__Damage__  2d10 + 16 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +30 (agile)\n__Damage__  2d4 + 16 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+30 (agile, unarmed)\n__Damage__  2d4 + 16 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 34, attack +26; __8th __  _[[Spells/Dispel Magic|Dispel Magic (x3)]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_"

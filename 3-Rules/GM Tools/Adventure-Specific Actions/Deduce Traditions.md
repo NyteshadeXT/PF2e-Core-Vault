@@ -6,7 +6,7 @@ tags:
   - trait/concentrate
   - trait/linguistic
   - trait/secret
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.WlXmO2kwyWGgAuOv"
 license: OGL

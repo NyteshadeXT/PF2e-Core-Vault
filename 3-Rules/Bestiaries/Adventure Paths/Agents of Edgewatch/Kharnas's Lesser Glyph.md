@@ -43,7 +43,7 @@ attacks:
   - name: ""
 
   - name: "Dominate"
-    desc: "`pf2:r` (arcane) **Trigger** A creature who doesn't bear the sigil of Kharnas attempts to open the door\n* * *\n\n**Effect** A surge of the Radiant Spark's latent power courses through the glyph and washes over the triggering creature. If the creature is undead, it takes 10d10 vitality damage. If it's living, it instead regains 10d10 Hit Points. It then must succeed at a DC 40 Will check save or be affected by a 6th-rank [[Spells/Dominate|Dominate]] spell.\n\nThe spell commands the affected creature to attack the nearest creature who doesn't bear the sigil of Kharnas."
+    desc: "`pf2:r` (arcane) **Trigger** A creature who doesn't bear the sigil of Kharnas attempts to open the door\n* * *\n\n**Effect** A surge of the Radiant Spark's latent power courses through the glyph and washes over the triggering creature. If the creature is undead, it takes 10d10 vitality damage. If it's living, it instead regains 10d10 healing Hit Points. It then must succeed at a DC 40 Will check save or be affected by a 6th-rank [[Spells/Dominate|Dominate]] spell.\n\nThe spell commands the affected creature to attack the nearest creature who doesn't bear the sigil of Kharnas."
 
 
   - name: "Reset"

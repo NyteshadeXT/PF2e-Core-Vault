@@ -7,8 +7,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.7spk6rZPiNk2S0yA"
-license: OGL
+license: ORC
 ---
 # Blood in the Air `pf2:1`
 ## Feat 12
@@ -23,7 +24,7 @@ license: OGL
 
 * * *
 
-Once you've locked on to a target, little can obscure your aim. Make a ranged weapon Strike against the required target. This Strike ignores the target's [[Conditions/Concealed|Concealed]] condition and reduces the flat check for the [[Conditions/Hidden|Hidden]] condition from 11 to 5.
+Once you've locked on to a target, little can obscure your aim. Make a ranged weapon Strike against the required target. This Strike ignores the target's concealed condition and reduces the flat check for the hidden condition from 11 to 5.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

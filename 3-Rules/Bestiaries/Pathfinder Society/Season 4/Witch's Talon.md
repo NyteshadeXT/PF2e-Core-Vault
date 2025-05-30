@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +8 (agile, finesse, versatile s)\n__Damage__  1d6 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+8 (agile, finesse, versatile s)\n__Damage__  1d6 piercing"
 
   - name: "Lay Down Your Lives"
     desc: "`pf2:r` (occult) **Trigger** An ally within 30 feet of the witch's talon takes Hit Point damage\n* * *\n\n**Effect** The ally takes half of the Hit Point damage, and the witch's talon takes the remainder of the damage."

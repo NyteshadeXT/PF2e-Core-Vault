@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-Q04 - Stella's Associate"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.RGSw5tAc4ALp97Qe"
 license: OGL
 ---
 # S1-Q04 - Stella's Associate
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Ghostbane Fulu|Ghostbane Fulu]]
+Granted by [[Equipment/Ghostbane Fulu|Ghostbane Fulu]]
 
-Upon activation, the weapon gains the benefit of the _ghost touch_ property rune against the triggering incorporeal creature for 1 minute.
+The weapon gains the benefit of the _ghost touch_ property rune against the triggering incorporeal creature.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

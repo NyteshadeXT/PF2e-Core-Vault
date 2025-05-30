@@ -16,7 +16,7 @@ license: OGL
 
 
 
-The fethrotte gains a +1 status bonus to its damage rolls with its jaws Strikes, but becomes Clumsy 1. This effect is cumulative with multiple uses to a maximum of a +4 status bonus to damage rolls and Clumsy 4
+The fethrotte gains a +1 status bonus to its damage rolls with its jaws Strikes, but becomes [[undefined]]. This effect is cumulative with multiple uses to a maximum of a +4 status bonus to damage rolls and [[undefined]]
 
 *Source: Battlezoo Bestiary: Strange and Unusual*
 *OGL*

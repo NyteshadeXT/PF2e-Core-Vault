@@ -28,11 +28,9 @@ You gain resistance equal to half your level (minimum 1 resistance) against dama
 
 This attunement lasts until you next make your daily preparations.
 
-* * *
-
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Elementalist|Elementalist]] archetype.
-
 [[Feat_Feature Effects/Effect_ Elementalist Dedication|Effect: Elementalist Dedication]]
+
+[[PF2e Journals/Archetypes/Elementalist (Class Archetype)|Elementalist (Class Archetype)]]
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

@@ -58,19 +58,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +11 ()\n__Damage__  1d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+11 ()\n__Damage__  1d6 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +10 (thrown 10 ft.)\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+10 (thrown 10 ft.)\n__Damage__  1d6 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +10 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+10 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 4 piercing"
 
   - name: "Efficient Capture"
     desc: "`pf2:3` (attack,manipulate) **Requirements** Ptiro has manacles in hand and is adjacent to a creature\n* * *\n\n**Effect** Ptiro attempts to bind the creature's wrists or ankles with the manacles. If Ptiro succeeds at an attack roll with a +9 modifier against the target's AC, they apply the manacles."

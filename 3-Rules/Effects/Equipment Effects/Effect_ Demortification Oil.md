@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Non-incorporeal undead gain a +1 item bonus to Armor Class.
+Granted by [[Equipment/Demortification Oil|Demortification Oil]]
+
+You gain a +1 item bonus to Armor Class.
 
 *Source: Pathfinder #200: Seven Dooms for Sandpoint*
 *OGL*

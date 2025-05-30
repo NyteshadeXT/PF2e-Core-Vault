@@ -60,14 +60,17 @@ abilities_mid:
   - name: "Unkillable"
     desc: "  Mumkuh is nigh unkillable. She loses her weakness to slashing and gains resistance 3 against all damage, and she gains weakness 6 to critical hits."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +12 ()\n__Damage__  1d6 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+12 ()\n__Damage__  1d6 + 12 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 ()\n__Damage__  1d8 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (unarmed)\n__Damage__  1d8 + 10 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Sudden Blight|Sudden Blight]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm (x3)]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_"

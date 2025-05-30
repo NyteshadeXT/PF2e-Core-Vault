@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +28 (magical, reach 15 feet)\n__Damage__  3d12 + 17 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+28 (magical, reach 15 feet)\n__Damage__  3d12 + 17 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Soul Beam +24 (force, magical, range increment 120 feet)\n__Damage__  3d6 + 14 force"
+  - name: "**Ranged** `pf2:1` Soul Beam"
+    desc: "+24 (force, magical, range increment 120 feet)\n__Damage__  3d6 + 14 force"
 
   - name: "Primal Innate Spells"
     desc: "DC 33, attack +25; __6th __  _[[Spells/Dominate|Dominate]]_; __5th __  _[[Spells/Command|Command]]_; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Honeyed Words|Glibness]]_, _[[Spells/Suggestion|Suggestion]]_"

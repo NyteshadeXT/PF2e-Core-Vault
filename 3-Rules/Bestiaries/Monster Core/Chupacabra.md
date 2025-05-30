@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 (finesse)\n__Damage__  1d10 + 5 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (finesse, unarmed)\n__Damage__  1d10 + 5 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile, finesse)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, finesse, unarmed)\n__Damage__  1d6 + 5 slashing"
 
   - name: "Pounce"
     desc: "`pf2:1`  The chupacabra Strides and makes a Strike at the end of that movement. If the chupacabra began this action [[Conditions/Hidden|Hidden]], it remains hidden until after this ability's Strike."
@@ -68,7 +68,7 @@ attacks:
     desc: "`pf2:1`  **Requirements** The chupacabra has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The chupacabra sucks blood from the grabbed creature. The chupacabra gains the [[Conditions/Quickened|Quickened]] condition for 1 minute and can use the extra action only for Strike and Stride actions.\n\nA chupacabra can't Suck Blood again while it is quickened in this way.\n\nA creature that has its blood drained by a chupacabra is [[Conditions/Drained|Drained 1]] until it receives healing (of any kind or amount)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

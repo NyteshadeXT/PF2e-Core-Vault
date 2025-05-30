@@ -45,7 +45,7 @@ sourcebook: "_Pathfinder Monster Core_"
 ac: 34
 armorclass:
   - name: AC
-    desc: "34; __Fort__ +20, __Ref__ +22, __Will__ +23; +1 status to all saves vs. magic"
+    desc: "34; __Fort__ +20, __Ref__ +22, __Will__ +23; +1 status to all saves vs. primal"
 hp: 215
 health:
   - name: ""
@@ -57,7 +57,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet DC 31 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet DC 31 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Twisting Tail"
     desc: "`pf2:r`  **Trigger** A creature within reach of the dragon's tail uses a move action or leaves a square during a move action it's using\n* * *\n\n**Effect** The dragon makes a tail Strike at the creature with a –2 penalty. If the Strike hits, the dragon disrupts the creature's action."
@@ -65,17 +65,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +26 (magical, poison, reach 15 feet)\n__Damage__  3d10 + 12 piercing 3d4 poison"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+26 (magical, poison, reach 15 feet, unarmed)\n__Damage__  3d10 + 12 piercing 3d4 poison"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +26 (agile, magical, reach 10 feet)\n__Damage__  3d8 + 12 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+26 (agile, magical, reach 10 feet, unarmed)\n__Damage__  3d8 + 12 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +24 (magical, reach 20 feet)\n__Damage__  3d8 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+24 (magical, reach 20 feet)\n__Damage__  3d8 + 10 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +24 (magical, reach 15 feet)\n__Damage__  2d8 + 10 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+24 (magical, reach 15 feet, unarmed)\n__Damage__  2d8 + 10 piercing"
 
   - name: "Primal Prepared Spells"
     desc: "DC 33, attack +26; __5th __  _[[Spells/Toxic Cloud|Toxic Cloud]]_; __4th __  _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_, _[[Spells/Mountain Resilience|Mountain Resilience]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_; __3rd __  _[[Spells/Slow|Slow]]_, _[[Spells/Veil of Privacy|Veil of Privacy]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Humanoid Form|Humanoid Form]]_, _[[Spells/One with Plants|One with Plants]]_, _[[Spells/Sound Body|Sound Body]]_; __1st __  _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Vanishing Tracks|Vanishing Tracks]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Know the Way|Know the Way]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Tangle Vine|Tangle Vine]]_"
@@ -90,7 +90,7 @@ attacks:
     desc: "`pf2:2`  **Requirements** The dragon doesn't have a creature impaled on their horn\n* * *\n\n**Effect** The dragon attempts to gore a foe. They Stride, then attempt a horn Strike. On a hit, the target becomes impaled on the dragon's horn. The creature is [[Conditions/Grabbed|Grabbed]] while on the horn (and can attempt to [[Actions/Escape|Escape]] as normal). The dragon doesn't need to use additional actions to keep the impaled creature grabbed. If the dragon moves, they bring the grabbed creature along with them."
 
   - name: "Poison Breath"
-    desc: "`pf2:2` (poison,primal) The dragon breathes a toxic cloud that deals 13d6 poison damage in a @Template[cone|distance:50] (DC 31 Fortitude check save).\n\nThey can't use Poison Breath again for 1d4 rounds."
+    desc: "`pf2:2` (poison,primal) The dragon breathes a toxic cloud that deals 13d6 poison damage in a 50-foot cone (DC 31 Fortitude check save).\n\nThey can't use Poison Breath again for 1d4 rounds."
 
   - name: "Trackless Journey"
     desc: "  The horned dragon always gains the benefits of Cover Tracks in natural surroundings, even while moving at full speed."

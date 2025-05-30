@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Ghost Lantern|Ghost Lantern]]
+Granted by [[Equipment/Ghost Lantern|Ghost Lantern]]
 
-The creature gains the effects of the _ghost touch_ property rune on all its weapons and unarmed attacks.
+You gain the effects of the _ghost touch_ property rune on all its weapons and unarmed attacks.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

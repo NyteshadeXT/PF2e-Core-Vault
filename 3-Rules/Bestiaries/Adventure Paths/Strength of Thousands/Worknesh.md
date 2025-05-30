@@ -58,13 +58,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Master's Cry"
-    desc: "`pf2:0`  **Trigger** Worknesh rolls initiative\n\n**Requirements** Worknesh can perceive at least one foe within 60 feet\n* * *\n\n**Effect** Worknesh yells a mighty rallying cry. Worknesh attempts an Intimidation check to [[Actions/Demoralize|Demoralize]] a single foe within 60 feet. If successful, any of her allies within 30 feet can Stride up to double their speed as their first action on their first turn of the combat."
+    desc: "`pf2:0`  **Trigger** Worknesh rolls initiative\n\n**Requirements** Worknesh can perceive at least one foe within 60 feet\n* * *\n\n**Effect** Worknesh yells a mighty rallying cry. Worknesh attempts an Intimidation check to [[Actions/demoralize|demoralize]] a single foe within 60 feet. If successful, any of her allies within 30 feet can Stride up to double their speed as their first action on their first turn of the combat."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
   - name: "Warmaster's Instinct"
     desc: "  Worknesh can recognize the skills of any combatants she faces. She can use Warfare Lore to Recall Knowledge about any creature, but only while in combat or observing the creature fight."
@@ -72,11 +72,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Golden Blade +32 ()\n__Damage__  3d6 + 16 piercing 2d6 fire"
+  - name: "**Melee** `pf2:1` Golden Blade"
+    desc: "+32 ()\n__Damage__  3d6 + 16 piercing 2d6 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Golden Blade +27 (thrown 20 ft.)\n__Damage__  3d6 + 16 piercing 2d6 fire"
+  - name: "**Ranged** `pf2:1` Golden Blade"
+    desc: "+27 (thrown 20 ft.)\n__Damage__  3d6 + 16 piercing 2d6 fire"
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 34, attack +26; __7th __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Heal|Heal]]_; __6th __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __5th __ (3 slots) _[[Spells/Scouting Eye|Prying Eye]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Truespeech|Tongues]]_; __4th __ (3 slots) _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"

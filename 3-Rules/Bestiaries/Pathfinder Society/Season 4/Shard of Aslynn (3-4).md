@@ -58,13 +58,16 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 (agile, magical, unholy)\n__Damage__  1d10 + 5 slashing plus nightmarish-wounds"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (agile, magical, unarmed, unholy)\n__Damage__  1d10 + 5 slashing plus nightmarish-wounds"
 
   - name: "Occult Innate Spells"
     desc: "DC 20, attack +14; __2nd __  _[[Spells/Force Barrage|Magic Missile (x3)]]_; __1st __  _[[Spells/Enfeeble|Ray of Enfeeblement (At Will)]]_, _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(1st)__ _[[Spells/Detect Alignment|Detect Alignment (All alignments simultaneously)(Constant)]]_"

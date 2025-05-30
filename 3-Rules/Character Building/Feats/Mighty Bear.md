@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Great Bear
 * * *
-The power of the bear within you can expand your physical presence even further. The [[Enlarge|Enlarge]] spell you cast with your Great Bear feat is heightened to 4th level.
+The power of the bear within you can expand your physical presence even further. The [[Spells/Enlarge|Enlarge]] spell you cast with your Great Bear feat is heightened to 4th level.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

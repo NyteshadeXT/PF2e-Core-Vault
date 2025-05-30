@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Build Structure"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/civic
   - trait/downtime
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.NpVIqD3LgI0Kb9RA"
 license: OGL
 ---
 # Build Structure
-
+## 
 ### [[civic]][[downtime]]
 
 **Category** kingdom-activity; 

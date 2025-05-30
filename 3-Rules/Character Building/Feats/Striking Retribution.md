@@ -26,5 +26,5 @@ In addition, if an alghollthu successfully affects you or one of your allies wit
 
 [[Feat_Feature Effects/Effect_ Striking Retribution|Effect: Striking Retribution]]
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

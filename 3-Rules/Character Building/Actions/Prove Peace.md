@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.Ma93dpT4K7JbP9gu"
 license: OGL
 ---
 # Prove Peace `pf2:2`
 
-### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Manipulate]]
+### [[concentrate]][[manipulate]]
 
 **Category** interaction; 
 

@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_ZOMBIE_HOUND.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Zombie Hound"
 level: "Creature -1"
@@ -61,17 +62,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +6 ()\n__Damage__  1d4 + 3 piercing plus knockdown"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+6 (unarmed)\n__Damage__  1d4 + 3 piercing plus knockdown"
 
   - name: "Flesh Tearer"
     desc: "  The zombie hound's Strikes deal 1d4 extra damage to [[Conditions/Prone|Prone]] creatures."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

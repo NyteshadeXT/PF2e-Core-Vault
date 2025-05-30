@@ -54,15 +54,15 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Staff|Staff]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], [[Equipment/Religious Symbol (Wooden)|Religious Symbol of Sarenrae]], [[Equipment/Healing Potion (Minor)|Healing Potion (Minor)]], [[Equipment/Healing Potion (Minor)|Healing Potion (Minor)]], [[Equipment/Healing Potion (Minor)|Healing Potion (Minor)]]"
   - name: "Healing Hands"
-    desc: "  When Lisavet casts heal, she rolls d10s instead of d8s."
+    desc: "  When Lisavet casts [[Spells/Heal|Heal]], she rolls d10s instead of d8s."
 
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +8 (two-hand d8)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+8 (two-hand d8)\n__Damage__  1d4 bludgeoning"
 
   - name: "Divine Prepared Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Bless|Bless]]_, _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Stabilize|Stabilize]]_"

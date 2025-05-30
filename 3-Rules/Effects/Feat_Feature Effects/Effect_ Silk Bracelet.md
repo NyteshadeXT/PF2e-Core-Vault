@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Silk Bracelet|Silk Bracelet]]
 
-The silk imposes a –10 foot status penalty to all the target's Speeds for 1 round
+You gain a -10 foot status penalty to all your Speeds for 1 round.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

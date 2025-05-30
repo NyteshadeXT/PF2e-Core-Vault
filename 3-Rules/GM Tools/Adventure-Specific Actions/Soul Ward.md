@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Soul Ward"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.TM4pOPSM9r7XEM64"
 license: OGL

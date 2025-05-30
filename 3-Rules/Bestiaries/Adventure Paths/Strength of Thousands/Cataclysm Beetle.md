@@ -53,17 +53,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +35 (reach 10 feet)\n__Damage__  3d12 + 16 slashing plus grab"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+35 (reach 10 feet)\n__Damage__  3d12 + 16 slashing plus grab"
 
   - name: "Bombardier's Spray"
-    desc: "`pf2:2` (acid,primal) The cataclysm beetle sprays a @Template[cone|distance:60] of acid from its abdomen that deals 12d10 acid damage (DC 40 Reflex check). It can't use Bombardier's Spray or Burning Pool for 1d4 rounds."
+    desc: "`pf2:2` (acid,primal) The cataclysm beetle sprays a 60-foot cone of acid from its abdomen that deals 12d10 acid damage (DC 40 Reflex check). It can't use Bombardier's Spray or Burning Pool for 1d4 rounds."
 
   - name: "Burning Pool"
-    desc: "`pf2:2` (acid,primal) The cataclysm beetle spills acid directly from its abdomen, creating a wave of acid that deals 10d12 acid damage to all creatures in a @Template[emanation|distance:30] (DC 40 Fortitude check). Creatures that fail this save are pushed back 10 feet from the cataclysm beetle (30 feet on a critical failure). It can't use Bombardier's Spray or Burning Pool for 1d4 rounds."
+    desc: "`pf2:2` (acid,primal) The cataclysm beetle spills acid directly from its abdomen, creating a wave of acid that deals 10d12 acid damage to all creatures in a 30-foot emanation (DC 40 Fortitude check). Creatures that fail this save are pushed back 10 feet from the cataclysm beetle (30 feet on a critical failure). It can't use Bombardier's Spray or Burning Pool for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -22,5 +22,5 @@ Once, when you fail a check to [[Actions/Recall Knowledge|Recall Knowledge]], yo
 
 Gruhastha typically grants this boon for an extremely consequential attempt to Recall Knowledge, particularly when misinformation would have dire consequences.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

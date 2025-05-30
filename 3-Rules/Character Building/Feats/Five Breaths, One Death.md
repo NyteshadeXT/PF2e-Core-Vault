@@ -28,5 +28,5 @@ license: ORC
 
 You cycle through the elements in a devastating combination attack. Strike the target using the unarmed attack associated with your current elemental stance, then [[Actions/Cycle Elemental Stance|Cycle Elemental Stance]]. Then, Strike the target with the unarmed attack associated with your new elemental stance. You can continue to Cycle Elemental Stance and Strike until you've made a Strike using the unarmed attack of every elemental stance you know, applying the multiple attack penalty as usual. If you successfully hit the target with all five elemental Strikes using this ability, it must attempt a Fortitude check save against your class DC or die as each elementally associated organ within its body shuts down; this is a death effect.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

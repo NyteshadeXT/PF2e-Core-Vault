@@ -7,14 +7,14 @@ tags:
   - trait/eidolon
   - trait/emotion
   - trait/mental
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.nSTMF6kYIt6rXhJx"
 license: OGL
 ---
 # Seething Frenzy `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]][[eidolon]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Mental]]
+### [[concentrate]][[eidolon]][[emotion]][[mental]]
 
 **Category** defensive; 
 

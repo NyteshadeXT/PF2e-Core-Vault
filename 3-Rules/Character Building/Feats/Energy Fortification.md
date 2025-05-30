@@ -19,8 +19,7 @@ license: ORC
 
 
 
-**Prerequisites** Prepare Elemental Medicine; expert in
-Occultism
+**Prerequisites** Prepare Elemental Medicine; expert in Occultism
 * * *
 **Access** Minkai or Forest of Spirits origin
 
@@ -30,5 +29,5 @@ You learn Minkaian traditions about the void and know how to manipulate the five
 
 If you're a master in Occultism, increase the resistance and weakness to 4. If you're legendary, instead increase them to 8.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -26,5 +26,5 @@ license: ORC
 
 You can cut through illusions with such precision that all those around you find their senses sharpened as well. Whenever you disbelieve an illusion, all allies within 15 feet can use a free action to attempt a saving throw to disbelieve the illusion as well.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

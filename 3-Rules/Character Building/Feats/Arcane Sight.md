@@ -21,5 +21,5 @@ license: OGL
 * * *
 You've trained yourself to constantly be on the lookout for magical effects, even when focusing on looking out for other things. When you are Searching, you also gain the benefits of [[Actions/Detect Magic|Detect Magic]] unless you choose not to.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

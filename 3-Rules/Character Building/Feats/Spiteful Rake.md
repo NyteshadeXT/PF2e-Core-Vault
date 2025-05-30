@@ -25,5 +25,5 @@ license: OGL
 
 Your instincts sing of spite and malice, and you've learned a devastating trick: go for the eyes. You make a claw Strike. If you hit and deal damage, the target is [[Conditions/Dazzled|Dazzled]] for 1 round. On a critical hit, the target is instead [[Conditions/Blinded|Blinded]] for 1 round and dazzled until restored to maximum hit points.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

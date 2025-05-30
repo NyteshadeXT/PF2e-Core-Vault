@@ -67,8 +67,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Falling Stone Unarmed Attack +18 (forceful, nonlethal, unarmed)\n__Damage__  2d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Falling Stone Unarmed Attack"
+    desc: "+18 (forceful, nonlethal, unarmed)\n__Damage__  2d8 + 6 bludgeoning"
 
   - name: "Flurry of Blows"
     desc: "`pf2:1` (flourish) **Effect** Evora makes two unarmed Strikes. If both hit the same creature, combine their damage and apply resistances and weaknesses only once. She applies her multiple attack penalty to the Strikes normally.\n\nAs it has the flourish trait, Evora can use Flurry of Blows only once per turn."

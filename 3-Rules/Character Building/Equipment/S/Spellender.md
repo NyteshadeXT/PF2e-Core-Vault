@@ -1,76 +1,45 @@
 ---
-#========================================================#
-#                     CORE PROPERTIES                    #
-#========================================================#
-cssclass: pf2e-item, h-line
-name: "spellender"
-aliases: "Spellender"
-source: "Pathfinder #170: Spoken on the Song Wind"
-pg: ""
-rarity: ""
-trait01: "agile"
-trait02: "finesse"
-trait03: "magical"
-trait04: "thrown-10"
-trait05: "versatile-s"
-trait06: "uncommon"
-trait07: ""
-trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 9
-weight: L
-value: "600"
-subvalue: "gp"
-invest:
-usage: "held in one hand "
-license: "ORC"
-identify:
-description: "This knife is a _+1 striking returning dagger_ with a wide blade and thick wooden handle. A prayer for protection from evil magic is carved into the handle in tiny script, running around the handle in a spiral. The grooves of the carved prayer provide a good grip on the knife and make it easy to catch when it returns to your hand.  * * *  **Activate** `pf2:r` envision  **Frequency** once per day  **Trigger** You critically hit with the weapon  * * *  **Effect** The dagger casts a 4th-rank [[Spells/Dispel Magic|Dispel Magic]] targeting the most powerful spell effect affecting the creature you critically hit. The counteract check is +15."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
-trigger2:
-mechanics2: "**Secondary Effect** "
-craft:
-
-#========================================================#
-#                   WEAPON PROPERTIES                    #
-#========================================================#
-range: 
-ammoType:
-damage: 2d4 piercing
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
-
-#========================================================#
-#                    ARMOR PROPERTIES                    #
-#========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
-resist:
-immunity:
-conditionImmunity:
-
-#========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
-#========================================================#
-weaponBase:
-armorBase:
-
+obsidianUIMode: preview
+title: "Spellender"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - pf2e/weapon
+  - trait/agile
+  - trait/finesse
+  - trait/magical
+  - trait/thrown-10
+  - trait/versatile-s
+  - trait/uncommon
+  - category/simple
+aliases: "Compendium.pf2e.equipment-srd.Item.X95j0ZdqjXJkGmfZ"
+license: OGL
 ---
+# Spellender
+## Item 9
+### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[finesse]][[magical]][[thrown-10]][[versatile-s]]
+
+|  |  |
+| -- | -- |
+| **Category** simple melee weapon | **Group** knife |
+| **Price** 600 gp |  |
+| **Bulk** L | **Size** med |
+| **Damage** 2d4 piercing  | **Usage** held-in-one-hand |
+
+
+
+This knife is a _+1 striking returning dagger_ with a wide blade and thick wooden handle. A prayer for protection from evil magic is carved into the handle in tiny script, running around the handle in a spiral. The grooves of the carved prayer provide a good grip on the knife and make it easy to catch when it returns to your hand.
+
+* * *
+
+**Activate** `pf2:r` envision
+
+**Frequency** once per day
+
+**Trigger** You critically hit with the weapon
+
+* * *
+
+**Effect** The dagger casts a 4th-rank [[Spells/Dispel Magic|Dispel Magic]] targeting the most powerful spell effect affecting the creature you critically hit. The counteract check is +15.
+
+*Source: Pathfinder #170: Spoken on the Song Wind*
+*OGL*

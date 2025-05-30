@@ -23,5 +23,5 @@ You have untold ages of knowledge beneath your belt, focused on the pursuit of e
 
 You also gain the [[Feats/Additional Lore|Additional Lore]] general feat for Samsaran Lore.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

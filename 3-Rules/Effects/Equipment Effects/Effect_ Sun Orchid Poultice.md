@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Sun Orchid Poultice|Sun Orchid Poultice]]
+Granted by [[Equipment/Sun Orchid Poultice|Sun Orchid Poultice]]
 
-*Source: Pathfinder Lost Omens: Legends*
+You gain a +3 item bonus to saves and 20 temporary Hit Points.
+
+*Source: Pathfinder Lost Omens Legends*
 *OGL*

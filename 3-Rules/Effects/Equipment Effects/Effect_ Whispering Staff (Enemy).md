@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Through the staff's strange whispering, you gain a glimpse into the mind and desires of one creature you can see within 30 feet. Until the end of your next turn, that creature is [[Conditions/Off-Guard|Off-Guard]] to you and takes a –2 circumstance penalty to saving throws against your spells.
+Granted by [[Equipment/Whispering Staff|Whispering Staff]]
+
+You take a –2 circumstance penalty to saving throws against the origin's spells.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

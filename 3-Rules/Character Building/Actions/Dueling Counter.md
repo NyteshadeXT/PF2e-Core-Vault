@@ -4,7 +4,7 @@ title: "Dueling Counter"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/magical
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.xGqOIheAOV12RGU4"
@@ -12,7 +12,7 @@ license: ORC
 ---
 # Dueling Counter `pf2:r`
 
-### [[3-Rules/Rule References/Magical]]
+### [[magical]]
 
 **Category** defensive; 
 

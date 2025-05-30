@@ -12,14 +12,14 @@ license: ORC
 ---
 # Siphon Torment
 ## Feat 9
-### [[Minotaur]]
+### [[minotaur]]
 
 **Category** ancestry; 
 
 
 
 
-Your progenitors suffered greatly at the hands of a curse, a fate you willingly take upon yourself rather than let fall upon others. Once per day, you can cast [[Claim Curse|Claim Curse]] as an innate divine spell. When you do, the target creature gains temporary Hit Points equal to your level.
+Your progenitors suffered greatly at the hands of a curse, a fate you willingly take upon yourself rather than let fall upon others. Once per day, you can cast [[Spells/Claim Curse|Claim Curse]] as an innate divine spell. When you do, the target creature gains temporary Hit Points equal to your level.
 
 [[Feat_Feature Effects/Effect_ Siphon Torment|Effect: Siphon Torment]]
 

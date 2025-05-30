@@ -56,25 +56,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flail +8 (disarm, sweep, trip)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Flail"
+    desc: "+8 (disarm, sweep, trip)\n__Damage__  1d6 + 3 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 ()\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (unarmed)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +8 (agile)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+8 (agile)\n__Damage__  1d4 + 3 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +7 (thrown 30 ft.)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+7 (thrown 30 ft.)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Deep Breath"
     desc: "  A lizardfolk defender can hold their breath for 15 minutes."

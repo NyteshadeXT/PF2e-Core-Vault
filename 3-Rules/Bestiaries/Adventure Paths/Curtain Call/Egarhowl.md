@@ -35,7 +35,7 @@ trait_04: [[unholy]]
 modifier: 31
 perception:
   - name: "Perception"
-    desc: "+31; "
+    desc: "+31; Darkvision, Scent (Imprecise) 30 Feet"
 languages: ""
 skills:
   - name: "Skills"
@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +32 (finesse, magical)\n__Damage__  3d12 + 8 piercing plus rabid-rage 3d6 spirit plus rabid-rage"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+32 (finesse, magical, unarmed)\n__Damage__  3d12 + 8 piercing plus rabid-rage 3d6 spirit plus rabid-rage"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +32 (agile, finesse, magical)\n__Damage__  3d8 + 8 slashing 3d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+32 (agile, finesse, magical, unarmed)\n__Damage__  3d8 + 8 slashing 3d6 spirit"
 
   - name: "Predestined Defeat"
     desc: "`pf2:r` (occult) **Trigger** The egarhowl rolls initiative\n\n**Frequency** once per day\n* * *\n\n**Effect** At the start of combat, an inverted, reversed explosion of spiritual and void energy implodes in a 30-foot emanation centered on the egarhowl—a reversal of the creature's spiritually explosive death. All creatures in the area take 6d8 spirit damage (DC 35 Fortitude check save); creatures that fail this save are also [[Conditions/Slowed|Slowed 1]] for 1 round as time seems to distort around them."

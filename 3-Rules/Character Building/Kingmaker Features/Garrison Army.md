@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Garrison Army"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/army
   - trait/downtime
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.iYLFBep0kddHQkW9"
 license: OGL
 ---
 # Garrison Army
-
+## 
 ### [[army]][[downtime]]
 
 **Category** kingdom-activity; 

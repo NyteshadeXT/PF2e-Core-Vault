@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Jalmeri Heavenseeker Dedication
 * * *
-You gain the [[3-Rules/Character Building/Spells/S/Speaking Sky|Speaking Sky]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+You gain the [[Spells/Speaking Sky|Speaking Sky]] ki spell. Increase the number of Focus Points in your focus pool by 1.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

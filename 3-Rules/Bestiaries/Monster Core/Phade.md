@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 (agile, finesse)\n__Damage__  1d10 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (agile, finesse, unarmed)\n__Damage__  1d10 + 5 bludgeoning"
 
   - name: "Hush"
-    desc: "`pf2:1` (air,primal) The phade calms the air in a @Template[emanation|distance:30] until the beginning of its next turn, reducing sounds in it to a whisper that can't be heard outside the emanation.\n\nThis doesn't prevent casting spells, but a phade attempts to counteract any auditory or sonic effect originating in the area with a +17 counteract modifier. If the counteract attempt fails, Hush ends early."
+    desc: "`pf2:1` (air,primal) The phade calms the air in a 30-foot emanation until the beginning of its next turn, reducing sounds in it to a whisper that can't be heard outside the emanation.\n\nThis doesn't prevent casting spells, but a phade attempts to counteract any auditory or sonic effect originating in the area with a +17 counteract modifier. If the counteract attempt fails, Hush ends early."
 
   - name: "Sneak Attack"
     desc: "  The phade deals 2d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

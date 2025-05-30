@@ -21,5 +21,5 @@ Granted by [[Feats/Renewing Cycle|Renewing Cycle]]
 
 You gain temporary Hit Points equal to half your level.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

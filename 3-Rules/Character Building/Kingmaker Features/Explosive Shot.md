@@ -4,7 +4,7 @@ title: "Explosive Shot"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/siege
-  - trait/common
+  - trait/
   - category/army-tactic
 aliases: "Compendium.pf2e.kingmaker-features.Item.ZSUPsqeMBDTaX2H4"
 license: OGL

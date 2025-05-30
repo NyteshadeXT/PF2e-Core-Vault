@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Swampcall|Swampcall]]
+Granted by [[Spells/Swampcall|Swampcall]]
 
-The creature takes a circumstance penalty to its Speeds (except for its swim Speed, if any) and becomes off-guard.
+You take a circumstance penalty to your Speeds (except for your swim Speed, if any) and become off-guard.
 
 *Source: Pathfinder #171: Hurricane's Howl*
 *OGL*

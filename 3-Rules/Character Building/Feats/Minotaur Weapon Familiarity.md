@@ -12,7 +12,7 @@ license: ORC
 ---
 # Minotaur Weapon Familiarity
 ## Feat 1
-### [[Minotaur]]
+### [[minotaur]]
 
 **Category** ancestry; 
 

@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Thoughtsense 60 feet"
     desc: "  The jah-tohl senses a creature's mental essence as a precise sense with the listed range; it cannot sense mindless creatures with thoughtsense."
 
@@ -64,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 ()\n__Damage__  2d12 + 6 piercing plus brain-collector-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (unarmed)\n__Damage__  2d12 + 6 piercing plus brain-collector-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile)\n__Damage__  2d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, unarmed)\n__Damage__  2d8 + 6 slashing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 26, attack +18; __4th __ (2 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Vision of Death|Vision of Death]]_; __3rd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (4 slots) _[[Spells/Humanoid Form|Humanoid Form]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Paranoia|Paranoia]]_; __1st __ (4 slots) _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Sure Strike|Sure Strike]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"

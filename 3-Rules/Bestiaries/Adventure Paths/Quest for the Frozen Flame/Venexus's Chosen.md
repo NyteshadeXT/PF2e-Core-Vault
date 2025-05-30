@@ -59,16 +59,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Tail Lash"
-    desc: "`pf2:r`  **Trigger** A creature within reach of the chosen's tail Strike uses an action to Strike or attempt a skill check\n* * *\n\n**Effect** Venexus's chosen attempts to Strike the triggering creature with their tail. If it hits, the creature takes a -2 circumstance penalty to the triggering roll.\n\n[[Bestiary Effects/Effect_ Tail Lash (Attack Roll)|Effect: Tail Lash (Attack Roll)]]\n\n[[Bestiary Effects/Effect_ Tail Lash (Skill Check)|Effect: Tail Lash (Skill Check)]]"
+    desc: "`pf2:r`  **Trigger** A creature within reach of the chosen's tail Strike uses an action to Strike or attempt a skill check\n* * *\n\n**Effect** Venexus's chosen attempts to Strike the triggering creature with their tail. If it hits, the creature takes a -2 circumstance penalty to the triggering roll.\n\n[[Bestiary Effects/Effect_ Tail Lash|Effect: Tail Lash]]"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +16 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+16 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  1d6 + 5 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +16 (finesse, magical, reach 10 feet, unarmed)\n__Damage__  1d10 + 5 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+16 (finesse, magical, reach 10 feet, unarmed)\n__Damage__  1d10 + 5 bludgeoning plus knockdown"
 
   - name: "Primal Innate Spells"
     desc: "DC 24, attack +16"
@@ -86,7 +86,7 @@ attacks:
     desc: "  Venexus's chosen's fist Strikes are treated as cold iron and silver, and the chosen doesn't take penalties when making lethal attacks."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

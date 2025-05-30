@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/incapacitation
   - trait/rogue
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.Rlp7ND33yYfxiEWi"
@@ -13,7 +13,7 @@ license: ORC
 ---
 # Master Strike `pf2:0`
 
-### [[3-Rules/Rule References/Incapacitation]][[rogue]]
+### [[incapacitation]][[rogue]]
 
 **Category** offensive; 
 

@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Aldori Dueling Sword +18 (finesse, versatile p)\n__Damage__  1d8 + 9 slashing"
+  - name: "**Melee** `pf2:1` Aldori Dueling Sword"
+    desc: "+18 (finesse, versatile p)\n__Damage__  1d8 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +18 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+18 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 8 piercing"
 
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) The hunter designates a single creature they can see and hear, or one they're Tracking, as their prey. The hunter gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey.\n\nThe first time the hunter hits the designated prey in a round, they deal an additional 1d8 precision damage. The hunter also ignores the penalty for making ranged attacks within their second range increment.\n\nThese effects last until the hunter uses Hunt Prey again."

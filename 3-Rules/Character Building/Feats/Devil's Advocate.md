@@ -28,5 +28,5 @@ In addition, whenever you meet a devil in a social situation, you can immediatel
 
 **Special** If you have the [[Feats/Glad-Hand|Glad-Hand]] skill feat, you don't take the penalty to your immediate Diplomacy check if the target is a devil.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

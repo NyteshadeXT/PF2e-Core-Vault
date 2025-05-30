@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Vampire, Jiang-Shi, Basic) Jiang-Shi Vulnerabilities"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.R1vYhCJ2KvT8uAy1"
 license: OGL

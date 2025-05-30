@@ -60,16 +60,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Halberd +11 (reach 10 feet, versatile s)\n__Damage__  1d10 + 4 piercing plus invoke-reckoning"
+  - name: "**Melee** `pf2:1` Halberd"
+    desc: "+11 (reach 10 feet, versatile s)\n__Damage__  1d10 + 4 piercing plus invoke-reckoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +10 (agile)\n__Damage__  1d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+10 (agile, unarmed)\n__Damage__  1d6 + 4 slashing"
 
   - name: "Command Skeletons"
     desc: " (divine) The skeletal Hellknight can direct the actions of the nearby skeleton guards, commanding them to perform tactics such as flanking foes and focusing their attacks on specific targets. As long as the skeletal Hellknight is active and commanding the skeletons, they gain the [[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]] reaction."

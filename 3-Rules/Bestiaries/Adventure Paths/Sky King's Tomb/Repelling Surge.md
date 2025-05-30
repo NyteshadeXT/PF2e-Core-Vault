@@ -40,7 +40,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Disable"
-    desc: "DC 29 Arcana check (expert) to fool the wards, DC 31 Thievery (master) to disable the wards, or [[Spells/Dispel Magic|Dispel Magic]] (5th level; counteract DC 28) to counteract the wards"
+    desc: "DC 29 Arcana check (expert) to fool the wards, DC 31 Thievery check (master) to disable the wards, or [[Spells/Dispel Magic|Dispel Magic]] (5th rank; counteract DC 28) to counteract the wards"
 attacks:
   - name: ""
 

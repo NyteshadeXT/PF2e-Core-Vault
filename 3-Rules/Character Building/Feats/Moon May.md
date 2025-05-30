@@ -19,7 +19,7 @@ license: OGL
 
 
 
-Your mother was a moon hag, a handmaiden of Groetus, and you have a single scarlet eye and a sliver of her supernal foresight. You can cast [[Guidance|Guidance]] as an occult innate cantrip. A cantrip is heightened to a spell rank equal to half your level rounded up.
+Your mother was a moon hag, a handmaiden of Groetus, and you have a single scarlet eye and a sliver of her supernal foresight. You can cast [[Spells/Guidance|Guidance]] as an occult innate cantrip. A cantrip is heightened to a spell rank equal to half your level rounded up.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

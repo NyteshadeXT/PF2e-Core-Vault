@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Corpse Tender Dedication
 * * *
-You easily tend to the wounds of the dead. You can cast [[Harm|Harm]] as a divine innate spell once per day. This spell is heightened to half your level, rounded up. You can target only mindless undead with this spell.
+You easily tend to the wounds of the dead. You can cast [[Spells/Harm|Harm]] as a divine innate spell once per day. This spell is heightened to half your level, rounded up. You can target only mindless undead with this spell.
 
 *Source: Pathfinder #181: Zombie Feast*
 *OGL*

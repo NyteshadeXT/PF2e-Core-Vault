@@ -17,7 +17,7 @@ license: OGL
 ---
 # Wooden Palisade `pf2:3`
 ## Feat 6
-### [[impulse]][[kineticist]][[manipulate]][[overflow]][[primal]][[Wood]]
+### [[impulse]][[kineticist]][[manipulate]][[overflow]][[primal]][[wood]]
 
 **Category** class; 
 

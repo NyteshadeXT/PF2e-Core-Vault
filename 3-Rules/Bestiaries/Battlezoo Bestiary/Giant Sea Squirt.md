@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Siphon +15 (agile, reach 10 feet)\n__Damage__  2d6 + 8 bludgeoning plus grab,sea-squirt-venom"
+  - name: "**Melee** `pf2:1` Siphon"
+    desc: "+15 (agile, reach 10 feet)\n__Damage__  2d6 + 8 bludgeoning plus grab,sea-squirt-venom"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
     desc: "`pf2:1`  30 feet. The giant sea squirt must remain underwater during its movement.\n* * *\n\n**Requirements** The monster is hiding in water and a creature that hasn't detected it is within the listed number of feet.\n\n**Effect** The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a Strike against it. The creature is [[Conditions/Off-Guard|Off-Guard]] against this Strike."

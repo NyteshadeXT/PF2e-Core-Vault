@@ -58,17 +58,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Filcher&#x27;s Fork +9 (agile, backstabber, deadly d6, finesse)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Filcher&#x27;s Fork"
+    desc: "+9 (agile, backstabber, deadly d6, finesse)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Filcher&#x27;s Fork +9 (agile, backstabber, deadly d6, thrown 20 ft.)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Filcher&#x27;s Fork"
+    desc: "+9 (agile, backstabber, deadly d6, thrown 20 ft.)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Graffiti Egg"
     desc: "`pf2:1`  The halfling troublemaker throws an egg filled with paint, glitter, and confetti at a creature within 30 feet. The target must succeed a DC 17 Reflex check saving throw or become [[Conditions/Dazzled|Dazzled]] for 1 round (or 1 minute on a critical failure)."
 
   - name: "Keen Eyes"
-    desc: "  The halfling gains a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Conditions/Hidden|Hidden]] or undetected creatures within 30 feet of it.\n\nWhenever the halfling targets a creature that is [[Conditions/Concealed|Concealed]] or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
+    desc: "  The halfling gains a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] creatures within 30 feet of it.\n\nWhenever the halfling targets a creature that is [[Conditions/Concealed|Concealed]] or hidden from them, reduce the DC of the flat check to DC 3 Flat check for a concealed target or DC 9 Flat check for a hidden one."
 
   - name: "Sneak Attack"
     desc: "  The troublemaker deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

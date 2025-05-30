@@ -64,14 +64,17 @@ abilities_mid:
   - name: "Resist Arcane Magic"
     desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** Dwandek attempts a save against an arcane spell but hasn't rolled yet\n* * *\n\n**Effect** Dwandek automatically succeeds at his save against the triggering spell."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
   - name: "[[Creature Family Ability Glossary/(Lich) Void Shroud|Void Shroud]]"
     desc: " (aura,death) 30 feet. The lich is surrounded by an aura of death, drawing forth souls to be consumed by the lich's constant hunger.\n\nLiving creatures in the emanation take a -2 status penalty to saves against fear and death effects. In addition, any creature that starts its turn in the area gains the [[Conditions/Doomed|Doomed 1]] condition unless it succeeds at a DC 35 Will check save against the lich's spell DC-4.\n\n[[Bestiary Effects/Effect_ Void Shroud|Effect: Void Shroud]]"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hand +32 (finesse, magical)\n__Damage__  5d8 void plus lich-paralyzing-touch"
+  - name: "**Melee** `pf2:1` Hand"
+    desc: "+32 (finesse, magical)\n__Damage__  5d8 void plus lich-paralyzing-touch"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 39, attack +29; __9th __  _[[Spells/Massacre|Massacre]]_, _[[Spells/Power Word Kill|Power Word Kill]]_, _[[Spells/Telepathic Demand|Telepathic Demand]]_; __8th __  _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Quandary|Maze]]_, _[[Spells/Prismatic Wall|Prismatic Wall]]_; __7th __  _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Mask of Terror|Mask of Terror]]_; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Dominate|Dominate]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __  _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __  _[[Spells/Fly|Fly]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Vampiric Maiden|Vampiric Maiden]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Locate|Locate]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/False Vitality|False Life]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(9th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"

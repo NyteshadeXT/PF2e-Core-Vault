@@ -12,7 +12,7 @@ license: ORC
 ---
 # Camouflage Coat
 ## Feat 13
-### [[Centaur]]
+### [[centaur]]
 
 **Category** ancestry; 
 

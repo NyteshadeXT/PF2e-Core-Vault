@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You gain a +30-foot status bonus to Speed for 1 minute.
+Granted by [[Equipment/Energy Robe of Fire|Energy Robe of Fire]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+You gain a +30-foot status bonus to Speed.
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

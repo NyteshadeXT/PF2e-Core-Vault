@@ -55,10 +55,13 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "5x [[Equipment/Javelin|Javelin]], [[Equipment/Longspear|Longspear]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Chipping Scales"
     desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The granitescale takes piercing or slashing damage\n* * *\n\n**Effect** The granitescale twists to take the blow on their hardest scales, which they shed to reduce the incoming force. The granitescale reduces the damage by 10, but their AC is reduced by 2 for 1 day, when the shed scales regrow."
@@ -66,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longspear +17 (reach)\n__Damage__  2d8 + 6 piercing"
+  - name: "**Melee** `pf2:1` Longspear"
+    desc: "+17 (reach)\n__Damage__  2d8 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +17 ()\n__Damage__  2d8 + 6 piercing plus serpentfolk-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+17 ()\n__Damage__  2d8 + 6 piercing plus serpentfolk-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +16 (range increment 30 feet)\n__Damage__  2d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+16 (range increment 30 feet)\n__Damage__  2d6 + 4 piercing"
 
   - name: "Rattling Spear"
     desc: "`pf2:1` (auditory,emotion,mental) **Requirements** The granitescale's last action was a successful spear Strike\n* * *\n\n**Effect** The granitescale rattles the base of their spear, attempting an Intimidation check to [[Action Macros/Demoralize_ Intimidation|Demoralize: Intimidation]] all enemies within 30 feet (compare the granitescale's Intimidation check result to the targets' Will DCs individually)."

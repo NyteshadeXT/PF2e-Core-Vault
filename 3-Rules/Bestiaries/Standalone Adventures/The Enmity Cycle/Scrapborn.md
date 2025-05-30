@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 ()\n__Damage__  2d8 + 5 piercing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (unarmed)\n__Damage__  2d8 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Thrown Scrap +13 ()\n__Damage__  2d8 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Thrown Scrap"
+    desc: "+13 ()\n__Damage__  2d8 + 2 bludgeoning"
 
   - name: "Rebuild Armor"
     desc: "`pf2:1`  **Requirements** The scrapborn's previous action was a successful claw Strike against a target wearing armor and that armor is not broken\n* * *\n\n**Effect** The scrapborn pulls and rips at the target's armor. The target must attempt a DC 20 Reflex check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target's armor takes 1d8 piercing damage, ignoring the armor's Hardness.\n\n**Failure** The target's armor takes 2d8 piercing damage, which ignores the armor's Hardness; if this causes the armor to become broken, the scrapborn can incorporate the removed armor piece into its own body and raise its AC by 1 (to a maximum of 22).\n\n**Critical Failure** As failure, except instead of damage, the target's armor is automatically reduced to its BT and the scrapborn increases its AC by 2."

@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap185-a-taste-of-ashes/assets/art/PZO90185 Graelar the Whisper.webp| ]]
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Graelar the Whisper"
 level: "Creature 18"
@@ -53,34 +54,40 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/War Razor|+2 Greater Striking War Razor]], [[Equipment/Leather Armor|+2 Greater Resilient Leather Armor]], Black Onyx Gems"
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense (Imprecise) 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Catch Rock|Catch Rock]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Requirements** The monster must have a free hand but can [[Actions/Release|Release]] anything it's holding as part of this reaction.\n\n**Trigger** The monster is targeted with a thrown rock Strike or a rock would fall on the monster.\n* * *\n\n**Effect** The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` War Razor +36 (agile, backstabber, deadly 2d8, finesse, magical)\n__Damage__  3d4 + 13 slashing"
+  - name: "**Melee** `pf2:1` War Razor"
+    desc: "+36 (agile, backstabber, deadly 2d8, finesse, magical)\n__Damage__  3d4 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +36 (agile, reach 10 feet)\n__Damage__  3d6 + 13 slashing plus dooming-touch"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+36 (agile, reach 10 feet, unarmed)\n__Damage__  3d6 + 13 slashing plus dooming-touch"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +34 (brutal, range increment 120 feet)\n__Damage__  3d8 + 13 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+34 (brutal, range increment 120 feet)\n__Damage__  3d8 + 13 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 40, attack +32; __8th __  _[[Spells/Bind Undead|Bind Undead (x3)]]_, _[[Spells/Harm|Harm (x3)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead]]_"
+    desc: "_Create Undead_"
 
   - name: "Dooming Touch"
     desc: " (divine) The tomb giant's claws carry the accursed power of their foul gods. A creature hit by the tomb giant's claw Strike becomes [[Conditions/Doomed|Doomed 1]]."
 
   - name: "Font of Death"
-    desc: "`pf2:3` (divine,void) The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of void energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with void energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this void energy from the corpse in an explosion that deals 10d12 void damage in a @Template[burst|distance:15] (DC 40 Fortitude check); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused."
+    desc: "`pf2:3` (divine,void) The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of void energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with void energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this void energy from the corpse in an explosion that deals 10d12 void damage in a 15-foot burst (DC 40 Fortitude check); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused."
 
   - name: "Slippery Fighter"
     desc: "`pf2:2`  Graelar moves up to his Speed, attempts to [[Actions/Feint|Feint]] a creature within his reach, then makes a melee Strike against that creature."
@@ -89,7 +96,7 @@ attacks:
     desc: "  Graelar's Strikes deal an extra 4d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
  
 ```
 

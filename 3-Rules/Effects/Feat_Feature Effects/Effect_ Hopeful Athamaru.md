@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Heritages/Hopeful Athamaru|Hopeful Athamaru]]
+
 You gain a +1 circumstance bonus to saving throws against fear.
 
 *Source: Pathfinder Howl of the Wild*

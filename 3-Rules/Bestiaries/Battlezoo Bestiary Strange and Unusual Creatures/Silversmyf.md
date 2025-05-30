@@ -35,7 +35,7 @@ perception:
 languages: "Fey, Gnomish; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +15, Diplomacy: +13, Society: +12, Stealth: +15, Stealth: +15, Acrobatics: +15, Diplomacy: +13, Society: +12"
+    desc: "Acrobatics: +15, Diplomacy: +13, Society: +12, Stealth: +15"
 abilityMods: [4, 5, 0, -2, 2, 3]
 speed: 40 feet,  climb 35 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -65,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Silverware Knife +17 (agile, finesse, silver)\n__Damage__  2d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Silverware Knife"
+    desc: "+17 (agile, finesse, silver)\n__Damage__  2d6 + 8 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 21, attack +13; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self Only; To The Fey Realm Or Back To The Material Plane Only) (x2)]]_; __2nd __  _[[Spells/Web|Web (x3)]]_"

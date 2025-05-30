@@ -31,7 +31,7 @@ trait_02: [[ethereal]]
 modifier: 14
 perception:
   - name: "Perception"
-    desc: "+14; "
+    desc: "+14; Darkvision, Scent (Imprecise) 30 Feet"
 languages: "Aklo"
 skills:
   - name: "Skills"
@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 ()\n__Damage__  2d8 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (unarmed)\n__Damage__  2d8 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 (agile, reach 10 feet)\n__Damage__  1d10 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (agile, reach 10 feet, unarmed)\n__Damage__  1d10 + 5 bludgeoning"
 
   - name: "Terrifying Display"
     desc: "`pf2:2` (auditory,emotion,fear,mental) The ghost ape beats their chest in a terrifying display. Creatures within 30 feet must succeed a DC 20 Will check save or become [[Conditions/Frightened|Frightened 1]] (or [[Conditions/Frightened|Frightened 2]] on a critical failure). While a creature is frightened by this ability, it's [[Conditions/Off-Guard|Off-Guard]] to the ape. On a success, the creature is temporarily immune for 1 minute."

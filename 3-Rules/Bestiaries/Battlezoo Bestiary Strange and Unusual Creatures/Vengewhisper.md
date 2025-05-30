@@ -43,7 +43,7 @@ perception:
 languages: "Common; one language spoken by the triggering victim"
 skills:
   - name: "Skills"
-    desc: "Intimidation: +26, Stealth: +23, Intimidation: +26, Stealth: +23, Life Lore: +23"
+    desc: "Intimidation: +26, Stealth: +23, Life Lore: +23"
 abilityMods: [-4, 5, 0, 3, 5, 7]
 speed:  fly 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -73,8 +73,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Whisper Hand +22 (finesse, magical)\n__Damage__  2d10 + 12 force 2d6 sonic"
+  - name: "**Melee** `pf2:1` Whisper Hand"
+    desc: "+22 (finesse, magical)\n__Damage__  2d10 + 12 force 2d6 sonic"
 
   - name: "Occult Innate Spells"
     desc: "DC 30, attack +22; __6th __  _[[Spells/Phantom Pain|Phantom Pain (x3)]]_; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Invisibility|Invisibility (At Will) (Self Only) (Unlimited Duration)]]_, _[[Spells/Nightmare|Nightmare]]_\n__Cantrips__  __(6th)__ _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -95,7 +95,7 @@ creatures:
 
 
 
-Vengewhispers are departed spirits that haunt a spellcaster after a corpse critically succeeds against _[[Talking Corpse|Talking Corpse]]_ or a similar effect. They might have died keeping a terrible secret, they might resent having their remains disturbed, or they might hold a specific vendetta against the spellcaster. Vengewhispers are also known to spawn after a cursed scroll of talking corpse is activated. A vengewhisper can defend itself when discovered, but most vengewhispers prefer to remain invisible to their victims and antagonize them throughout their search for knowledge. Nevertheless, occasionally a vengewhisper that's cornered, desperate, or particularly enraged chooses to engage in battle instead of subtler torments, and they can be particularly troublesome foes.
+Vengewhispers are departed spirits that haunt a spellcaster after a corpse critically succeeds against _[[Spells/Talking Corpse|Talking Corpse]]_ or a similar effect. They might have died keeping a terrible secret, they might resent having their remains disturbed, or they might hold a specific vendetta against the spellcaster. Vengewhispers are also known to spawn after a cursed scroll of talking corpse is activated. A vengewhisper can defend itself when discovered, but most vengewhispers prefer to remain invisible to their victims and antagonize them throughout their search for knowledge. Nevertheless, occasionally a vengewhisper that's cornered, desperate, or particularly enraged chooses to engage in battle instead of subtler torments, and they can be particularly troublesome foes.
 
 ## Guessing Games
 

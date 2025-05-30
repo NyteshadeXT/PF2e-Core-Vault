@@ -63,17 +63,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +7 (agile, finesse)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+7 (agile, finesse)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +7 (agile, range increment 20 feet)\n__Damage__  1d4 + 1 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+7 (agile, range increment 20 feet)\n__Damage__  1d4 + 1 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 16, attack +8; __1st __ (1 slots) _[[Spells/Grease|Grease]]_\n__Cantrips__  __(1st)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Putrid Vomit"
-    desc: "`pf2:1`  The grimple spews a @Template[line|distance:30] of vomit. Each creature in the line must succeed at a DC 16 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure).\n\nThe grimple can't use Putrid Vomit again for 1d4 rounds."
+    desc: "`pf2:1`  The grimple spews a 30-foot line of vomit. Each creature in the line must succeed at a DC 16 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure).\n\nThe grimple can't use Putrid Vomit again for 1d4 rounds."
  
 ```
 

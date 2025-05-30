@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +6 (thrown 10 ft.)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+6 (thrown 10 ft.)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +7 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+7 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +6 (deadly d10, propulsive, range 60 feet, reload 0)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+6 (deadly d10, propulsive, range 60 feet, reload 0)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Scoundrel's Feint"
     desc: "  When the hired hand successfully Feints, the target is [[Conditions/Off-Guard|Off-Guard]] against his melee attacks until the end of his next turn. On a critical success, the target is off-guard against all melee attacks until the end of his next turn. He can Step immediately after the [[Actions/Feint|Feint]] as a free action."

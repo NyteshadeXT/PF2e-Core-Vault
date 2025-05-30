@@ -1,76 +1,43 @@
 ---
-#========================================================#
-#                     CORE PROPERTIES                    #
-#========================================================#
-cssclass: pf2e-item, h-line
-name: "retribution"
-aliases: "Retribution"
-source: "Pathfinder #206: Bring the House Down"
-pg: ""
-rarity: ""
-trait01: "agile"
-trait02: "artifact"
-trait03: "backstabber"
-trait04: "deadly-d8"
-trait05: "divine"
-trait06: "finesse"
-trait07: "unique"
-trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 21
-weight: L
-value: "0"
-subvalue: "gp"
-invest:
-usage: "held in one hand "
-license: "ORC"
-identify:
-description: "Retribution is a _+3 greater striking keen shifting wounding war razor_.  **Activate—Vengeful Slice** `pf2:1` (manipulate)  **Frequency** once per round  * * *  **Effect** You make a Strike with Retribution against a target within 120 feet that you can see and who damaged you within the last minute, as if they were within reach."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
-trigger2:
-mechanics2: "**Secondary Effect** "
-craft:
-
-#========================================================#
-#                   WEAPON PROPERTIES                    #
-#========================================================#
-range: 
-ammoType:
-damage: 3d4 slashing
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
-
-#========================================================#
-#                    ARMOR PROPERTIES                    #
-#========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
-resist:
-immunity:
-conditionImmunity:
-
-#========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
-#========================================================#
-weaponBase:
-armorBase:
-
+obsidianUIMode: preview
+title: "Retribution"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - pf2e/weapon
+  - trait/agile
+  - trait/artifact
+  - trait/backstabber
+  - trait/deadly-d8
+  - trait/divine
+  - trait/finesse
+  - trait/unique
+  - category/martial
+  - remaster
+aliases: "Compendium.pf2e.equipment-srd.Item.CHYfP0gm2AiBfk7b"
+license: ORC
 ---
+# Retribution
+## Item 21
+### [unique](unique "Unique Rarity Trait")[[agile]][[artifact]][[backstabber]][[deadly-d8]][[divine]][[finesse]]
+
+|  |  |
+| -- | -- |
+| **Category** martial melee weapon | **Group** knife |
+| **Price** 0 gp |  |
+| **Bulk** L | **Size** med |
+| **Damage** 3d4 slashing  | **Usage** held-in-one-hand |
+
+
+
+Retribution is a _+3 greater striking keen shifting wounding war razor_.
+
+**Activate—Vengeful Slice** `pf2:1` (manipulate)
+
+**Frequency** once per round
+
+* * *
+
+**Effect** You make a Strike with Retribution against a target within 120 feet that you can see and who damaged you within the last minute, as if they were within reach.
+
+*Source: Pathfinder #206: Bring the House Down*
+*ORC*

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Call And Response"
+title: "Call and Response"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/auditory
@@ -13,7 +13,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.JOq4Xe49A04YycRz"
 license: ORC
 ---
-# Call And Response `pf2:1`
+# Call and Response `pf2:1`
 ## Feat 8
 ### [[auditory]][[bard]][[concentrate]][[spellshape]]
 

@@ -29,7 +29,7 @@ trait_01: [[animal]]
 modifier: 16
 perception:
   - name: "Perception"
-    desc: "+16; "
+    desc: "+16; Darkvision"
 languages: ""
 skills:
   - name: "Skills"
@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +18 ()\n__Damage__  2d10 + 11 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+18 (unarmed)\n__Damage__  2d10 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Croak +17 (range 30 feet, sonic)\n__Damage__  2d8 + 9 sonic"
+  - name: "**Ranged** `pf2:1` Croak"
+    desc: "+17 (range 30 feet, sonic)\n__Damage__  2d8 + 9 sonic"
  
 ```
 

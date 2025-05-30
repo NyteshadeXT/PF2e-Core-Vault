@@ -21,5 +21,5 @@ Granted by [[Feats/Kishin Rage|Kishin Rage]]
 
 You gain 40 temporary Hit Points, a fly Speed equal to your Speed, and your horns deal an additional 1d4 electricity damage.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

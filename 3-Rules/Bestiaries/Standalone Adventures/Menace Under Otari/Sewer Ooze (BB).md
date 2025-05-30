@@ -3,7 +3,7 @@ title: "Sewer Ooze (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.Hkq9ZS2J2iKnT7vT" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.9InGpxq5xbbHaL9f" 
 tags:
   - pf2e/creature/type/mindless
   - pf2e/creature/type/ooze
@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +9 ()\n__Damage__  1d6 + 1 bludgeoning 1d4 acid"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+9 (unarmed)\n__Damage__  1d6 + 1 bludgeoning 1d4 acid"
 
   - name: "Filth Wave"
     desc: "`pf2:1`  The sewer ooze unleashes a wave of filth, covering all creatures within 20 feet of itself. Each creature in the area must succeed at a DC 17 Reflex check save or take 1d4 acid damage and a -10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls over and gains the [[Conditions/Prone|Prone]] condition). A creature can Interact to clean someone off. This decreases the Speed penalty to -5 feet after 1 action, or to no penalty after 2 actions. After using Filth Wave, the ooze can't use it again for 1 minute.\n\n[[Bestiary Effects/Effect_ Filth Wave|Effect: Filth Wave]]"

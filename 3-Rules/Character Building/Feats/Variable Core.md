@@ -7,8 +7,9 @@ tags:
   - trait/modification
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.4KkzwOu2OKYLKSXQ"
-license: OGL
+license: ORC
 ---
 # Variable Core
 ## Feat 1
@@ -24,4 +25,4 @@ You adjust your innovation's core, changing the way it explodes. When you choose
 If you have the offensive boost class feature and retrain Variable Core to a different damage type, you can also switch to a different offensive boost that deals the same damage type if you wish.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

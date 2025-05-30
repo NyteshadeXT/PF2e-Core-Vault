@@ -53,6 +53,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 20 (reduced by 4 for each missing limb)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Limb Regrowth"
     desc: "  A healthy mammoth land star typically has five limbs. A creature can sever a limb by targeting it and dealing damage equal to the limb's Hit Points. The mammoth land star can regrow a missing limb over the course of 24 hours.\n\n[[Bestiary Effects/Effect_ Mammoth Land Star Limbs|Effect: Mammoth Land Star Limbs]]"
 
@@ -65,11 +68,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Feet +20 (agile, reach 10 feet)\n__Damage__  1d4 + 6 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Feet"
+    desc: "+20 (agile, reach 10 feet)\n__Damage__  1d4 + 6 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Limb Spines +20 (reach 10 feet)\n__Damage__  2d8 + 6 piercing plus spiny-venom"
+  - name: "**Melee** `pf2:1` Limb Spines"
+    desc: "+20 (reach 10 feet)\n__Damage__  2d8 + 6 piercing plus spiny-venom"
 
   - name: "Detach"
     desc: "`pf2:2` (move) **Requirements** The mammoth land star falls below half its total Hit Points\n* * *\n\n**Effect** The mammoth land star severs one of its own limbs as a distraction, then Strides three times. This movement doesn't trigger reactions."
@@ -87,7 +90,7 @@ attacks:
     desc: " (incapacitation,poison) **Saving Throw** DC 26 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison and [[Conditions/Slowed|Slowed 1]]\n\n**Stage 2** 2d6 poison and [[Conditions/Slowed|Slowed 2]]\n\n**Stage 3** 2d8 poison and [[Conditions/Paralyzed|Paralyzed]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

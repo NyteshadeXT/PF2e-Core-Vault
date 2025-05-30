@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.nluD4gFLWePrBK5f"
-license: OGL
+license: ORC
 ---
 # Explosion
 ## Feat 6
@@ -22,4 +23,4 @@ license: OGL
 Your innovation can explode on command. You gain the [[Actions/Explode|Explode]] action.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

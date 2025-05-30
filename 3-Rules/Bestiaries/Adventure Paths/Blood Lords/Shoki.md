@@ -19,6 +19,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/PZO90186 PSYCHOPOMP SHOKI.webp| ]]
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Shoki"
 level: "Creature 9"
@@ -51,13 +52,19 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Staff|Staff]], [[Equipment/Religious Symbol (Wooden)|Countless Religious Symbols]]"
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +19 (two-hand d8)\n__Damage__  2d4 + 6 bludgeoning plus spirit-touch"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+19 (two-hand d8)\n__Damage__  2d4 + 6 bludgeoning plus spirit-touch"
 
   - name: "Divine Innate Spells"
     desc: "DC 28, attack +20; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (Self And Locked Soul Only, To The Boneyard Only)]]_; __6th __  _[[Spells/Spirit Blast|Spirit Blast]]_; __5th __  _[[Spells/Heal|Heal (x3)]]_, _[[Spells/Mind Probe|Mind Probe]]_; __4th __  _[[Spells/Read Omens|Read Omens]]_; __3rd __  _[[Spells/Holy Light|Searing Light (x3)]]_; __2nd __  _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_\n__Cantrips__  __(5th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Stabilize|Stabilize]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_ __(2nd)__ _[[Spells/Detect Alignment|Detect Alignment]]_"

@@ -39,7 +39,7 @@ perception:
 languages: "Common, Draconic, Dwarven, Elven, Fey, Goblin, Jotun, Orcish"
 skills:
   - name: "Skills"
-    desc: "Arcana: +20, Deception: +18, Diplomacy: +16, Survival: +16, Arcana: +20, Deception: +18, Diplomacy: +16, Survival: +16"
+    desc: "Arcana: +20, Deception: +18, Diplomacy: +16, Survival: +16"
 abilityMods: [3, 4, 3, 6, 5, 4]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -73,8 +73,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +17 (agile, finesse)\n__Damage__  2d8 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+17 (agile, finesse)\n__Damage__  2d8 + 7 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 30, attack +20; __5th __  _[[Spells/Phantom Pain|Phantom Pain (x2)]]_; __3rd __  _[[Spells/Locate|Locate (Constant, Linked Hand of the Mage Only)]]_; __2nd __  _[[Spells/Charitable Urge|Charitable Urge]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_\n__Cantrips__  __(5th)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

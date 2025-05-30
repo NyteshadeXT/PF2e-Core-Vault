@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/grippli
   - trait/poison
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.kKKHwVUnroKuAnOt"
@@ -13,7 +13,7 @@ license: ORC
 ---
 # Toxic Skin `pf2:r`
 
-### [[grippli]][[3-Rules/Rule References/Poison]]
+### [[grippli]][[poison]]
 
 **Category** defensive; 
 

@@ -69,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatpick +22 (fatal d12, magical, reach 10 feet)\n__Damage__  2d10 + 12 piercing"
+  - name: "**Melee** `pf2:1` Greatpick"
+    desc: "+22 (fatal d12, magical, reach 10 feet)\n__Damage__  2d10 + 12 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +21 (agile, reach 10 feet)\n__Damage__  2d6 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+21 (agile, reach 10 feet)\n__Damage__  2d6 + 12 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +21 (brutal, range increment 120 feet)\n__Damage__  2d10 + 9 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+21 (brutal, range increment 120 feet)\n__Damage__  2d10 + 9 bludgeoning"
 
   - name: "Innate Occult Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Clairvoyance|Clairvoyance (On Keepsake Item Only)]]_, _[[Spells/Clairvoyance|Clairvoyance (On Keepsake Item Only)]]_, _[[Spells/Clairvoyance|Clairvoyance (On Keepsake Item Only)]]_, _[[Spells/Talking Corpse|Talking Corpse]]_; __3rd __  _[[Spells/Locate|Locate]]_; __2nd __  _[[Spells/Death Knell|Death Knell]]_"

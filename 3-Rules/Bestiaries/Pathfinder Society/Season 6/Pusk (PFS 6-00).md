@@ -53,6 +53,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Sloth"
     desc: "  When a pusk regains their actions, roll 1d4. The pusk regains that many actions for the turn (to a maximum of 3, or 2 if the pusk is a minion).\n* * *\n\nEffects like the slowed condition can further reduce their number of actions."
 
@@ -61,17 +64,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (magical, unholy)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (magical, unarmed, unholy)\n__Damage__  1d8 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile, magical, unholy)\n__Damage__  1d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, magical, unarmed, unholy)\n__Damage__  1d6 + 4 slashing"
 
   - name: "Divine Innate Spells"
     desc: "DC 16, attack +8; __3rd __  _[[Spells/Slow|Slow]]_; __1st __  _[[Spells/Fear|Fear]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Demonic Pact]]_"
+    desc: "_Demonic Pact_"
 
   - name: "Cower"
     desc: "`pf2:1`  The pusk makes itself as small as possible, protecting its vital organs with its limbs. It gains a +4 circumstance bonus to AC but takes a –2 penalty to attack rolls. This lasts until the pusk moves from its current space, falls [[Conditions/Unconscious|Unconscious]], or ends the effect as a free action."

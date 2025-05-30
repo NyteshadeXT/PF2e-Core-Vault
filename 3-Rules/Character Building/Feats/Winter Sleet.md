@@ -17,7 +17,7 @@ license: OGL
 ---
 # Winter Sleet `pf2:1`
 ## Feat 4
-### [[3-Rules/trait_reference/C/cold]][[impulse]][[kineticist]][[primal]][[stance]][[3-Rules/trait_reference/W/water]]
+### [[cold]][[impulse]][[kineticist]][[primal]][[stance]][[water]]
 
 **Category** class; 
 

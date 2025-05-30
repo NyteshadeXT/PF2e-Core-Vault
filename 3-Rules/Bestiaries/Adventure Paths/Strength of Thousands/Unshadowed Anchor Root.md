@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +28 ()\n__Damage__  3d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+28 ()\n__Damage__  3d6 + 5 piercing"
 
   - name: "Primal Prepared Spells"
-    desc: "DC 40, attack +32; __9th __ (3 slots) _[[Spells/Nature's Enmity|Nature's Enmity]]_, _[[Spells/Storm of Vengeance|Storm of Vengeance]]_; __8th __ (3 slots) _[[Spells/Earthquake|Earthquake]]_, _[[Spells/Desiccate|Horrid Wilting]]_; __7th __ (3 slots) _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Volcanic Eruption|Volcanic Eruption]]_; __6th __ (3 slots) _[[Spells/Truesight|True Seeing]]_; __5th __ (3 slots) _[[Spells/Toxic Cloud|Cloudkill]]_; __4th __ (3 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __ (3 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Gecko Grip|Spider Climb]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(9th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 40, attack +32; __9th __ (3 slots) _[[Spells/Nature's Enmity|Nature's Enmity]]_, _[[Spells/Storm of Vengeance|Storm of Vengeance]]_; __8th __ (3 slots) _[[Spells/Earthquake|Earthquake]]_, _[[Spells/Desiccate|Horrid Wilting]]_; __7th __ (3 slots) _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Volcanic Eruption|Volcanic Eruption]]_; __6th __ (3 slots) _[[Spells/Truesight|True Seeing]]_; __5th __ (3 slots) _[[Spells/Toxic Cloud|Cloudkill]]_; __4th __ (3 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __ (3 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Gecko Grip|Spider Climb]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(9th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Occult Innate Spells"
     desc: "DC 40, attack +32; __9th __ (3 slots) _[[Spells/Shadow Blast|Shadow Blast (Acid Only) (x2)]]_, _[[Spells/Shadow Siphon|Shadow Siphon (x2)]]_; __5th __ (1 slots) _[[Spells/Animal Form|Animal Form (Canine Form Only)]]_; __2nd __ (2 slots) _[[Spells/Augury|Augury (x2)]]_"

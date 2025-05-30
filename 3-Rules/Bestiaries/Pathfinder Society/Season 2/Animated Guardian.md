@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +9 (shove)\n__Damage__  1d8 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+9 (shove)\n__Damage__  1d8 + 2 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Gauntlet +7 (agile, free-hand, magical)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Gauntlet"
+    desc: "+7 (agile, free-hand, magical)\n__Damage__  1d6 + 2 bludgeoning"
  
 ```
 

@@ -3,7 +3,7 @@ title: "Leopard (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.wqPYzMNgYvrO6oEP" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.kB7FNn3vosp6cqQg" 
 tags:
   - pf2e/creature/type/animal
   - pf2eMonster
@@ -54,11 +54,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 (finesse)\n__Damage__  1d10 + 3 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (finesse, unarmed)\n__Damage__  1d10 + 3 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +10 (agile, finesse)\n__Damage__  1d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+10 (agile, finesse, unarmed)\n__Damage__  1d6 + 3 slashing"
 
   - name: "Maul"
     desc: "`pf2:1`  The leopard makes two claw Strikes against a creature it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. The second attack uses the same multiple attack penalty as the first, but later attacks that turn take a -10 multiple attack penalty (or -8 for its claws)."

@@ -36,6 +36,6 @@ abilities_top:
     desc: "10 minutes"
 abilities_mid:
   - name: ""
-    desc: "You repel effects that would hinder a creature or slow its movement. While under this spell's effect, the target ignores effects that would give them a circumstance penalty to Speed. When they attempt to [[Actions/Escape|Escape]] an effect that has them [[Conditions/Immobilized|Immobilized]], [[Conditions/Grabbed|Grabbed]], or [[Conditions/Restrained|Restrained]], they automatically succeed unless the effect is magical and of a higher rank than the _unfettered movement_ spell."
+    desc: "You repel effects that would hinder a creature or slow its movement. While under this spell's effect, the target ignores effects that would give them a circumstance penalty to Speed. When they attempt to [[Actions/Escape|Escape]] an effect that has them [[Conditions/Immobilized|Immobilized]], [[Conditions/Grabbed|Grabbed]], or [[Conditions/Restrained|Restrained]], they automatically succeed unless the effect is magical and of a higher rank than the _unfettered movement_ spell.\n\n[[Spell Effects/Spell Effect_ Unfettered Movement|Spell Effect: Unfettered Movement]]"
 sourcebook: "_Pathfinder Player Core_"
 ```

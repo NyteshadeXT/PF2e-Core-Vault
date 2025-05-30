@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Prerequisites** Swordmaster Dedication 
+**Prerequisites** Swordmaster Dedication
 * * *
 **Frequency** once per 10 minutes
 
@@ -27,5 +27,5 @@ license: OGL
 
 You continue to fight when others would fall. Just before taking the triggering damage, you gain temporary Hit Points equal to twice your level. If you have Hit Points remaining after gaining these temporary Hit Points, you aren't knocked unconscious, nor do you suffer the other effects of being reduced to 0 Hit Points. Any temporary Hit Points that remain after applying the damage last for up to 4 rounds.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

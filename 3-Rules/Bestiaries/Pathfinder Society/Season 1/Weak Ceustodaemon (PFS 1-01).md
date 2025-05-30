@@ -54,19 +54,25 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 (reach 10 feet, unholy)\n__Damage__  2d10 + 3 piercing plus vicious-wounds 1d6 spirit plus vicious-wounds"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (reach 10 feet, unarmed, unholy)\n__Damage__  2d10 + 3 piercing plus vicious-wounds 1d6 spirit plus vicious-wounds"
 
   - name: "Divine Innate Spells"
     desc: "DC 21, attack +13; __7th __  _[[Spells/Fly|Fly]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic (x2)]]_, _[[Spells/Paralyze|Paralyze]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_\n__Constant__  __(2nd)__ _[[Spells/See the Unseen|See Invisibility]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine,fire) The ceustodaemon breathes flames in a @Template[cone|distance:30]. Creatures in the cone take 6d6 fire damage (DC 22 Reflex check save).\n\nThe ceustodaemon and each creature that fails the save catch fire, taking 1d6 persistent fire damage.\n\nThe breath weapon can't be used again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire) The ceustodaemon breathes flames in a 30-foot cone. Creatures in the cone take 6d6 fire damage (DC 22 Reflex check save).\n\nThe ceustodaemon and each creature that fails the save catch fire, taking 1d6 persistent fire damage.\n\nThe breath weapon can't be used again for 1d4 rounds."
 
   - name: "Drawn to Service"
     desc: "  When bringing a ceustodaemon to another plane with effects like a [[Spells/Binding Circle|Binding Circle]] or [[Spells/Planar Servitor|Planar Servitor]] ritual, the primary and secondary skill DCs are reduced by 5, and the ceustodaemon demands only half the normal cost for its service."

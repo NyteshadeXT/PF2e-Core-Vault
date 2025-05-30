@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** at least one innate spell from a kitsune heritage or ancestry feat
 * * *
-You know more kitsune magic. During your daily preparations, choose [[3-Rules/Character Building/Spells/B/Bane|Bane]], [[Illusory Object|Illusory Object]], or [[Sanctuary|Sanctuary]]. You can cast this as a 1st-rank divine innate spell once that day.
+You know more kitsune magic. During your daily preparations, choose [[Spells/Bane|Bane]], [[Spells/Illusory Object|Illusory Object]], or [[Spells/Sanctuary|Sanctuary]]. You can cast this as a 1st-rank divine innate spell once that day.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

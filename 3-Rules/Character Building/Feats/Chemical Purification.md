@@ -27,5 +27,5 @@ license: OGL
 
 You developed a method to chemically purify and consecrate your bombs on the fly. You include this additive mixture when crafting your alchemist's fire or ghost charge. The created bomb deals 1d4 persistent vitality damage in addition to whatever damage it would normally cause. As usual for vitality damage, this damage harms only undead and creatures with void healing.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

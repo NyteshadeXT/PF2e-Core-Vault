@@ -53,8 +53,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 (agile, finesse)\n__Damage__  1d6 + 1 piercing 1 cold"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (agile, finesse, unarmed)\n__Damage__  1d6 + 1 piercing 1 cold"
 
   - name: "Icy Death"
     desc: "  When an icy rat is slain, its body explodes in a burst of frozen fur and bone, dealing 2d4 cold damage to all adjacent creatures (DC 14 Reflex check save)."

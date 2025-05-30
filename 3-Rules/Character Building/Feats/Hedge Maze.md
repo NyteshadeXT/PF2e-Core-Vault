@@ -17,7 +17,7 @@ license: OGL
 ---
 # Hedge Maze `pf2:3`
 ## Feat 12
-### [[impulse]][[kineticist]][[overflow]][[plant]][[primal]][[Wood]]
+### [[impulse]][[kineticist]][[overflow]][[plant]][[primal]][[wood]]
 
 **Category** class; 
 

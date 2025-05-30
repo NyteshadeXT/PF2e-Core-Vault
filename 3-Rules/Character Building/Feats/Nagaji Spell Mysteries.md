@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** at least one innate spell from a nagaji heritage or ancestry feat
 * * *
-You've learned more naga magic. During your daily preparations, choose [[Charm|Charm]], [[Fleet Step|Fleet Step]], or [[Heal|Heal]]. You can cast the chosen spell as a 1st-rank occult innate spell once that day.
+You've learned more naga magic. During your daily preparations, choose [[Spells/Charm|Charm]], [[Spells/Fleet Step|Fleet Step]], or [[Spells/Heal|Heal]]. You can cast the chosen spell as a 1st-rank occult innate spell once that day.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

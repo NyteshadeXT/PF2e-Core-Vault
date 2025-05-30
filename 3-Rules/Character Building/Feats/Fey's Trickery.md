@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-You connect with the fey trickster within yourself to create whimsical illusory duplicates that distract your foes. This has the effects of [[Mirror Image|Mirror Image]].
+You connect with the fey trickster within yourself to create whimsical illusory duplicates that distract your foes. This has the effects of [[Spells/Mirror Image|Mirror Image]].
 
 *Source: Pathfinder Dark Archive*
 *OGL*

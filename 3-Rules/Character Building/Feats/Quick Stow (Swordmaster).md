@@ -22,5 +22,5 @@ license: OGL
 * * *
 You know that situations can change rapidly and might leave you needing to change equipment in the middle of combat. Your training has taught you how to swap your equipment on the fly. You Interact to stow a weapon and then Interact again to draw a readied item or weapon.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

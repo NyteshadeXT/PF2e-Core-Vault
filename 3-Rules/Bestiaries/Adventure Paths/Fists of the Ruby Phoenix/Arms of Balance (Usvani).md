@@ -58,23 +58,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +27 (agile, magical, unarmed)\n__Damage__  3d6 + 13 bludgeoning 1d6 acid"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+27 (agile, magical, unarmed)\n__Damage__  3d6 + 13 bludgeoning 1d6 acid"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tornado Lunge +27 (agile, reach 10 feet, unarmed)\n__Damage__  3d8 + 13 bludgeoning plus improved-knockdown 1d6 acid plus improved-knockdown"
+  - name: "**Melee** `pf2:1` Tornado Lunge"
+    desc: "+27 (agile, reach 10 feet, unarmed)\n__Damage__  3d8 + 13 bludgeoning plus improved-knockdown 1d6 acid plus improved-knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Wind Crash +27 (agile, nonlethal, propulsive, range increment 30 feet, unarmed)\n__Damage__  3d6 + 13 bludgeoning 1d6 acid"
+  - name: "**Ranged** `pf2:1` Wind Crash"
+    desc: "+27 (agile, nonlethal, propulsive, range increment 30 feet, unarmed)\n__Damage__  3d6 + 13 bludgeoning 1d6 acid"
 
   - name: "Focus Spells"
     desc: "2 Focus Points, DC 34, attack +26; __8th __  _[[Spells/Wild Winds Stance|Wild Winds Stance]]_, _[[Spells/Wind Jump|Wind Jump]]_"
 
   - name: "Breath of the Volcano"
-    desc: "`pf2:2` (acid) The monk lets loose a powerful breath of air, whose effect depends on the type of energy to which the monk is attuned. The monk can't use this ability again for 1d4 rounds.\n\nUsvani exhales a miasma of acidic fumes in a @Template[emanation|distance:15]. A creature that starts its turn in the area takes 12d6 acid damage- and must attempt a DC 33 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature takes full damage and is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Sickened|Sickened 3]]."
+    desc: "`pf2:2` (acid) The monk lets loose a powerful breath of air, whose effect depends on the type of energy to which the monk is attuned. The monk can't use this ability again for 1d4 rounds.\n\nUsvani exhales a miasma of acidic fumes in a 15-foot emanation. A creature that starts its turn in the area takes 12d6 acid damage- and must attempt a DC 33 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage and is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature takes full damage and is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Sickened|Sickened 3]]."
 
   - name: "Flurry of Blows"
     desc: "`pf2:1` (flourish) The monk makes two Strikes with his fist or with a monk weapon. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses."
+
+  - name: "[[Bestiary Ability Glossary/Improved Knockdown|Improved Knockdown]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature as a free action. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

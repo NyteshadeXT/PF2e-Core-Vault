@@ -3,7 +3,7 @@ title: "Sod Hound (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.NVWaLagWOu5tCCZu" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.VQPzDz3xnCQGFOGL" 
 tags:
   - pf2e/creature/type/earth
   - pf2e/creature/type/elemental
@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d10 + 6 piercing plus knockdown"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d10 + 6 piercing plus knockdown"
 
   - name: "Earth Glide"
     desc: "`pf2:1`  The sod hound burrows through any earthen matter, including rock. It moves up to 20 feet, leaving no tunnels or signs of its passing."

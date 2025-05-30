@@ -13,7 +13,7 @@ license: ORC
 ---
 # Furious Sprint `pf2:2`
 ## Feat 10
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

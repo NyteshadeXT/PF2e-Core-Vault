@@ -16,14 +16,11 @@ license: OGL
 
 
 
-Granted by [[Choker-Arm Mutagen (Major)|Choker-Arm Mutagen (Major)]]
+Granted by [[Equipment/Choker-Arm Mutagen (Major)|Choker-Arm Mutagen (Major)]]
 
-**Implemented Effects**
+**Benefit** You gain a +4 item bonus to Acrobatics checks to Escape, Squeeze, and Tumble Through, and you increase your reach by 10 feet.
 
-*   +15 foot reach
-*   +4 item bonus to Acrobatics checks to [[Actions/Escape|Escape]], [[Actions/Squeeze|Squeeze]], and [[Actions/Tumble Through|Tumble Through]]
-*   \-1 penalty to Athletics checks, Stealth checks, Thievery checks, and attack rolls
-*   \-1 penalty per damage die to all weapon and unarmed attack damage.
+**Drawback** You take a –1 penalty to Athletics checks, Stealth checks, Thievery checks, and attack rolls, and a –1 penalty per damage die to all weapon and unarmed attack damage.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -7,14 +7,14 @@ tags:
   - trait/emotion
   - trait/fear
   - trait/mental
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.6Alm4mLj3ORxCXC2"
 license: OGL
 ---
 # (Ravener) Cowering Fear
 
-### [[3-Rules/trait_reference/A/aura]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]]
+### [[aura]][[emotion]][[fear]][[mental]]
 
 **Category** defensive; 
 

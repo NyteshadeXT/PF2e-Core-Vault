@@ -4,7 +4,7 @@ title: "Confident Finisher"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/finisher
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.K878asDgf1EF0B9S"

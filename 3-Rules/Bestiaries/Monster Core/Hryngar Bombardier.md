@@ -60,14 +60,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +4 (shove)\n__Damage__  1d8 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+4 (shove)\n__Damage__  1d8 + 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemical Grenade +8 (range increment 20 feet, splash)\n__Damage__  1d6 acid"
+  - name: "**Ranged** `pf2:1` Alchemical Grenade"
+    desc: "+8 (range increment 20 feet, splash)\n__Damage__  1d6 acid"
 
   - name: "Occult Innate Spells"
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Paranoia|Paranoia]]_\n__Cantrips__  __(1st)__ _[[Spells/Sigil|Sigil]]_"

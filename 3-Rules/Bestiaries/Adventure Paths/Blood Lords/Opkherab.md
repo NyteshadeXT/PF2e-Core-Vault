@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_OPKHERAB.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Opkherab"
 level: "Creature 3"
@@ -54,10 +55,13 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 30 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Draining Peek"
-    desc: "`pf2:r` (death,occult,visual) **Trigger** A living creature within 30 feet that Opkherab can perceive with his lifesense starts its turn\n* * *\n\n**Effect** The target must attempt a DC 17 Fortitude check save. If it fails, Opkherab regains 3 Hit Points, and the target becomes [[Conditions/Drained|Drained 1]]. Opkherab can't use Draining Peek for 1d4 rounds."
+    desc: "`pf2:r` (death,occult,visual) **Trigger** A living creature within 30 feet that Opkherab can perceive with his lifesense starts its turn\n* * *\n\n**Effect** The target must attempt a DC 17 Fortitude check save. If it fails, Opkherab regains 3 healing Hit Points, and the target becomes [[Conditions/Drained|Drained 1]]. Opkherab can't use Draining Peek for 1d4 rounds."
 
   - name: "Key Conditioning"
     desc: "  Opkherab has a -1 circumstance penalty to attacks against anyone holding one of the bank's keys."
@@ -65,11 +69,14 @@ abilities_mid:
   - name: "Sunlight Vulnerability"
     desc: " (death) If exposed to direct sunlight, Opkherab can't use actions with the death trait and it becomes [[Conditions/Slowed|Slowed 1]]. The slowed value increases by 1 each time Opkherab ends its turn in sunlight. If Opkherab loses all its actions this way, he is destroyed."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 (agile, finesse)\n__Damage__  1d6 + 4 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (agile, finesse, unarmed)\n__Damage__  1d6 + 4 bludgeoning plus grab"
 
   - name: "Death Grip"
     desc: " (death,occult) When Opkherab Grabs a living creature, including a Grab to extend the effect on a grappled creature, he gains 3 temporary Hit Points, and the creature must succeed at a DC 17 Fortitude check save or become [[Conditions/Drained|Drained 1]]. This increases the value of the creature's drained condition by 1, to a maximum of drained 4."

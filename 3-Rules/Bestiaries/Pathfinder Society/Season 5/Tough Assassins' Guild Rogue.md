@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +13 (agile, finesse, versatile s)\n__Damage__  1d8 + 9 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+13 (agile, finesse, versatile s)\n__Damage__  1d8 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blowgun +14 (agile, nonlethal, range increment 20 feet, reload 1)\n__Damage__  1 piercing plus giant-centipede-venom"
+  - name: "**Ranged** `pf2:1` Blowgun"
+    desc: "+14 (agile, nonlethal, range increment 20 feet, reload 1)\n__Damage__  1 piercing plus giant-centipede-venom"
 
   - name: "Hidden Movement"
     desc: "  If the assassins' guild rogue starts its turn undetected by a creature or [[Conditions/Hidden|Hidden]] from it, that creature is [[Conditions/Off-Guard|Off-Guard]] against the rogue's attacks until the end of the rogue's turn."

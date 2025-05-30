@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Melfesh Monster) Flame Lash"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.UOqq8lkBPcPtKoCN"
 license: OGL
@@ -17,7 +17,7 @@ license: OGL
 
 
 
-The Melfesh Monster sprays flaming gas in a @Template\[cone|distance:15\] or a @Template\[line|distance:30\]. Creatures in the area take 4d6 fire damage (DC 21 Reflex check save). This ability replaces the firelance ranged Strike.
+The Melfesh Monster sprays flaming gas in a 15-foot cone or a 30-foot line. Creatures in the area take 4d6 fire damage (DC 21 Reflex check save). This ability replaces the firelance ranged Strike.
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

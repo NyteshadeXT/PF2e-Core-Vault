@@ -4,7 +4,7 @@ title: "Costar"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/circus
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.56ajIlNy3SEvP9Ud"
 license: OGL

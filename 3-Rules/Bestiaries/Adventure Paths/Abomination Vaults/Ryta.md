@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +13 (agile, finesse)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+13 (agile, finesse)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 21, attack +13; __2nd __ (3 slots) _[[Spells/Deafness|Deafness]]_, _[[Spells/Shatter|Shatter]]_, _[[Spells/Soothe|Soothe]]_; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

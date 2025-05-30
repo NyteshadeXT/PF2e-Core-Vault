@@ -7,8 +7,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.UIMZe4QDJQ9k4npN"
-license: OGL
+license: ORC
 ---
 # Stab and Blast `pf2:1`
 ## Feat 8
@@ -26,4 +27,4 @@ license: OGL
 You slice or smash your opponent with the melee portion of your weapon before pulling the trigger at point-blank range. Make a melee Strike with the required weapon. If the Strike is successful, you can immediately make a ranged Strike against the same target with a +2 circumstance bonus to the attack roll. This counts as two attacks toward your multiple attack penalty, but you don't apply the multiple attack penalty until after making both attacks.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

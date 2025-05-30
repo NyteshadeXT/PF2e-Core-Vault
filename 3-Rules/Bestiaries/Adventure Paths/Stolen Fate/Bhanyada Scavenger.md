@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +19 (agile, versatile p)\n__Damage__  2d10 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+19 (agile, unarmed, versatile p)\n__Damage__  2d10 + 8 bludgeoning"
 
   - name: "Change Posture"
     desc: "`pf2:1`  The bhanyada changes between a bipedal and quadrupedal stance. In its bipedal stance, the bhanyada can't use Sudden Charge. In its quadrupedal stance, it loses its climb Speed."

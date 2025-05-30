@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +30 (agile, finesse, magical)\n__Damage__  2d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+30 (agile, finesse, magical, unarmed)\n__Damage__  2d6 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +30 (deadly d10, magical, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  2d8 + 10 piercing 1d6 acid"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+30 (deadly d10, magical, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  2d8 + 10 piercing 1d6 acid"
 
   - name: "Spontaneous Occult Spells"
     desc: "DC 34, attack +26; __8th __ (2 slots) _[[Spells/Confusing Colors|Scintillating Pattern]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (3 slots) _[[Spells/Planar Seal|Dimensional Lock]]_, _[[Spells/Energy Aegis|Energy Aegis]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_; __6th __ (3 slots) _[[Spells/Collective Transposition|Collective Transposition]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __ (3 slots) _[[Spells/Cloak of Colors|Cloak of Colors]]_, _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Shadow Siphon|Shadow Siphon]]_; __4th __ (2 slots) _[[Spells/Flicker|Blink]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fly|Fly]]_; __3rd __ (3 slots) _[[Spells/Haste|Haste]]_, _[[Spells/Shared Invisibility|Invisibility Sphere]]_, _[[Spells/Slow|Slow]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Silence|Silence]]_; __1st __ (3 slots) _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Spirit Link|Spirit Link]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_"

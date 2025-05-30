@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sawtooth Saber +33 (agile, finesse, magical, twin)\n__Damage__  1d6 acid 1d6 bleed 3d6 + 14 slashing"
+  - name: "**Melee** `pf2:1` Sawtooth Saber"
+    desc: "+33 (agile, finesse, magical, twin)\n__Damage__  1d6 acid 1d6 bleed 3d6 + 14 slashing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 35, attack +27; __9th __  _[[Spells/Massacre|Massacre]]_; __6th __  _[[Spells/Crimson Breath|Crimson Breath]]_; __5th __  _[[Spells/Sawtooth Terrain|Sawtooth Terrain]]_; __4th __  _[[Spells/Fly|Fly]]_, _[[Spells/Mantis's Grasp|Mantis's Grasp]]_, _[[Spells/Translocate|Translocate]]_; __3rd __  _[[Spells/Paralyze|Paralyze]]_; __2nd __  _[[Spells/See the Unseen|See the Unseen]]_; __1st __  _[[Spells/Fear|Fear]]_\n__Cantrips__  __(9th)__ _[[Spells/Figment|Figment]]_, _[[Spells/Sigil|Sigil]]_"
@@ -75,7 +75,7 @@ attacks:
     desc: "`pf2:1` (concentrate) **Requirements** Dronuk wields a sawtooth saber in each hand\n* * *\n\n**Effect** Dronuk conspirator attempts to [[Actions/Feint|Feint]] an enemy within 30 feet. If the Feint is successful, Dronuk's next successful Strike with a sawtooth saber in that same turn deals 2d6 persistent bleed damage to the target. In addition, provided they remain visible to that target and that target remains within 30 feet of Dronuk, additional Prayer Attacks against that target automatically cause them to become [[Conditions/Off-Guard|Off-Guard]] against Dronuk's attacks until the end of their turn."
 
   - name: "You're Next"
-    desc: " (emotion,fear,mental,visual) **Trigger** Dronuk reduces an enemy to 0 Hit Points\n* * *\n\n**Effect** Dronuk attempts to [[Actions/Demoralize|Demoralize]] a single creature he can see. He gains a +2 circumstance bonus to this check."
+    desc: " (emotion,fear,mental,visual) **Trigger** Dronuk reduces an enemy to 0 Hit Points\n* * *\n\n**Effect** Dronuk attempts to [[Actions/demoralize options=youre-next|demoralize options=youre-next]] a single creature he can see. He gains a +2 circumstance bonus to this check."
  
 ```
 

@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Gauntlet +10 (agile, free-hand, magical)\n__Damage__  1d6 + 3 bludgeoning 1d4 fire"
+  - name: "**Melee** `pf2:1` Gauntlet"
+    desc: "+10 (agile, free-hand, magical)\n__Damage__  1d6 + 3 bludgeoning 1d4 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blunderbuss +12 (concussive, range increment 40 feet, reload 1, scatter 10)\n__Damage__  1d8 + 3 piercing 1d4 fire"
+  - name: "**Ranged** `pf2:1` Blunderbuss"
+    desc: "+12 (concussive, range increment 40 feet, reload 1, scatter 10)\n__Damage__  1d8 + 3 piercing 1d4 fire"
  
 ```
 

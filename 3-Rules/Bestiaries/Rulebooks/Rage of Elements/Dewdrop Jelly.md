@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +8 ()\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+8 (unarmed)\n__Damage__  1d6 + 2 bludgeoning"
 
   - name: "Overflow"
     desc: "`pf2:3` (move) The dewdrop jelly flattens its bell and shoots forward, Flying or Swimming twice in a straight line toward its target and attempting a tentacle Strike. On a success, the dewdrop attaches to the target's face, covering its mouth in the suspended water of its gelatinous body. If the target cannot breathe water, it begins to drown. The DC to [[Actions/Escape|Escape]] is 16."

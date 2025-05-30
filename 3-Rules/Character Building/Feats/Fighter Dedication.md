@@ -24,9 +24,7 @@ license: ORC
 * * *
 You become trained in martial weapons. You become trained in your choice of Acrobatics or Athletics; if you are already trained in both of these skills, you instead become trained in a skill of your choice. You become trained in fighter class DC.
 
-* * *
-
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Fighter|Fighter]] archetype.
+[[PF2e Journals/Archetypes/Fighter|Fighter]]
 
 *Source: Pathfinder Player Core*
 *ORC*

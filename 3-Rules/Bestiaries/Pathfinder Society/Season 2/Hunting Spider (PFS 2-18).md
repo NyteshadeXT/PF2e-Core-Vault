@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +9 (finesse)\n__Damage__  1d6 + 2 piercing plus hunting-spider-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+9 (finesse)\n__Damage__  1d6 + 2 piercing plus hunting-spider-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Web +7 (range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Web"
+    desc: "+7 (range increment 30 feet)\n__Damage__ "
 
   - name: "Descend on a Web"
     desc: "`pf2:1` (move) The hunting spider moves straight down up to 40 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count for falling damage.\n\nA creature that successfully Strikes the web (AC 20, Hardness 3, 5 HP) severs it, causing the spider to fall."

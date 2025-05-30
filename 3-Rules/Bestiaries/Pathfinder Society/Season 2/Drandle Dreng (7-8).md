@@ -72,8 +72,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +18 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+18 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 8 piercing"
 
   - name: "Mobility"
     desc: "  When Drandle Dreng Strides half his Speed or less, that movement doesn't trigger reactions."

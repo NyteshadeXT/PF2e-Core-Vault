@@ -16,7 +16,9 @@ license: OGL
 
 
 
-The thing in the _hexing jar_ becomes more energetic—glowing, dancing, rapping on the glass, or some other action appropriate to its appearance. It encourages you until the start of your next turn, granting you and your familiar a +1 status bonus to AC and saving throws and a +2 status bonus against mental effects.
+Granted by [[Equipment/Hexing Jar|Hexing Jar]]
+
+You and your familiar gain a +1 status bonus to AC and saving throws and a +2 status bonus against mental effects.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

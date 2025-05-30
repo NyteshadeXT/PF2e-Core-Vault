@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sword Cane +14 (agile, concealable, finesse)\n__Damage__  2d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Sword Cane"
+    desc: "+14 (agile, concealable, finesse)\n__Damage__  2d6 + 7 piercing"
 
   - name: "Arcane Prepared Spells"
-    desc: "DC 24, attack +16\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 24, attack +16\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
  
 ```
 

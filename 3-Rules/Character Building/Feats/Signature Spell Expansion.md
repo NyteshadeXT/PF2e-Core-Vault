@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Your innate connection to magic lets you cast more spells with greater freedom. You gain two additional signature spells, each of which must have a minimum level of 3rd or lower.
+Your innate connection to magic lets you cast more spells with greater freedom. You gain two additional signature spells, each of which must have a base rank of 3rd or lower.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

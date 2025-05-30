@@ -67,14 +67,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +6 (agile, nonlethal, unholy)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+6 (agile, nonlethal, unarmed, unholy)\n__Damage__  1d4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +6 (unholy)\n__Damage__  1d6 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+6 (unholy)\n__Damage__  1d6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +8 (thrown 20 ft., unholy)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+8 (thrown 20 ft., unholy)\n__Damage__  1d6 piercing"
  
 ```
 

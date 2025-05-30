@@ -6,8 +6,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.ToZw6ZjB0JhWwMeR"
-license: OGL
+license: ORC
 ---
 # Deflecting Shot `pf2:r`
 ## Feat 10
@@ -27,4 +28,4 @@ license: OGL
 You're always ready to take a quick shot to deflect a weapon or distract a foe enough to render them off target. The ally gains a +2 circumstance bonus to their AC against the triggering attack. You use this reaction after the result of the attack roll is revealed, so you know whether the +2 will make a sufficient difference.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

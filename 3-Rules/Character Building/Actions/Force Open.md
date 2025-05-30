@@ -4,8 +4,7 @@ title: "Force Open"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/attack
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.SjmKHgI7a5Z9JzBx"
@@ -13,14 +12,14 @@ license: ORC
 ---
 # Force Open `pf2:1`
 
-### [[attack]][[skill]]
+### [[attack]]
 
 **Category** interaction; 
 
 
 
 
-Using your body, a lever, or some other tool, you attempt to forcefully open a door, window, container or heavy gate. With a high enough result, you can even smash through walls. Without a crowbar, prying something open takes a –2 item penalty to the Athletics check to Force Open.
+Using your body, a lever, or some other tool, you attempt to forcefully open a door, window, container or heavy gate. With a high enough result, you can even smash through walls. Without a crowbar, prying something open takes a –2 item penalty to the [[Actions/force-open|force-open]]{Athletics} check to Force Open.
 
 * * *
 

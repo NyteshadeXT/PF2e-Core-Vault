@@ -54,7 +54,7 @@ attacks:
   - name: ""
 
   - name: "Acidic Spray"
-    desc: "`pf2:r` (acid, arcane) **Trigger** A creature touches the strongbox directly or with a held tool\n* * *\n\n**Effect** The trap deals 4d8+10 acid damage in a @Template[cone|distance:15] in the direction of the triggering creature (DC 21 Reflex check)."
+    desc: "`pf2:r` (acid, arcane) **Trigger** A creature touches the strongbox directly or with a held tool\n* * *\n\n**Effect** The trap deals 4d8+10 acid damage in a 15-foot cone in the direction of the triggering creature (DC 21 Reflex check)."
 
 
 

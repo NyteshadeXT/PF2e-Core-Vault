@@ -13,7 +13,7 @@ license: ORC
 ---
 # Mage Hunter `pf2:2`
 ## Feat 6
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

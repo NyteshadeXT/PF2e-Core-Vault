@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[3-Rules/Character Building/Spells/F/Fortissimo Composition|Fortissimo Composition]]
+Granted by [[Spells/Fortissimo Composition|Fortissimo Composition]]
 
 Increase the status bonus from the composition to +2 (+3 on a critical success).
 

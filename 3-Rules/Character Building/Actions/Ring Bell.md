@@ -9,14 +9,14 @@ tags:
   - trait/manipulate
   - trait/mental
   - trait/thaumaturge
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.ublVm5gmCIm3eRdQ"
 license: OGL
 ---
 # Ring Bell `pf2:r`
 
-### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Manipulate]][[3-Rules/Rule References/Mental]][[thaumaturge]]
+### [[auditory]][[emotion]][[magical]][[manipulate]][[mental]][[thaumaturge]]
 
 **Category** defensive; 
 

@@ -4,17 +4,15 @@ title: "Instinctive Strike"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/barbarian
-  - trait/manipulate
-  - trait/rage
   - trait/common
   - category/class
   - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.LVTquA3DpqCJDika"
 license: ORC
 ---
-# Instinctive Strike `pf2:2`
+# Instinctive Strike
 ## Feat 8
-### [[barbarian]][[manipulate]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]]
 
 **Category** class; 
 

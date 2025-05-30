@@ -1,0 +1,23 @@
+---
+obsidianUIMode: preview
+title: "Musical Instrument (Heavy)"
+cssclasses: pf2e,pf2e-action
+tags:
+  - trait/common
+  - remaster
+aliases: "Compendium.pf2e.equipment-srd.Item.csfJtggwGCF28U2j"
+license: ORC
+---
+# Musical Instrument (Heavy)
+
+### 
+
+
+**Price** 2 gp; 
+**Bulk** 16; **Size** med
+**Usage** held-in-two-hands
+
+Handheld instruments include bagpipes, a small set of chimes, small drums, fiddles and viols, flutes and recorders, small harps, lutes, trumpets, and similarly sized instruments. The GM might rule that an especially large handheld instrument (like a tuba) has greater Bulk. Heavy instruments such as large drums, a full set of chimes, and keyboard instruments are less portable and generally need to be stationary while played.
+
+*Source: Pathfinder Player Core*
+*ORC*

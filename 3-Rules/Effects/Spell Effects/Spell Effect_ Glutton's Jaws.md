@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Glutton's Jaws|Glutton's Jaws]]
+Granted by [[Spells/Glutton's Jaws|Glutton's Jaws]]
 
 You gain temporary Hit Points.
 

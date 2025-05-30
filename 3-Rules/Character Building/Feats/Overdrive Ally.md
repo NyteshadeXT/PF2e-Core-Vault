@@ -7,8 +7,9 @@ tags:
   - trait/manipulate
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.NBvhmNqneeok7ZOr"
-license: OGL
+license: ORC
 ---
 # Overdrive Ally `pf2:1`
 ## Feat 8
@@ -29,4 +30,4 @@ You quickly fling some of your powered-up mechanisms to an ally, sharing your be
 [[Feat_Feature Effects/Effect_ Overdrive Ally|Effect: Overdrive Ally]]
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

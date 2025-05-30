@@ -6,7 +6,6 @@ cssclasses: pf2e,pf2e-spell
 tags:
   - pf2eSpell
   - spell/level/1
-  - trait/attack
   - trait/cantrip
   - trait/concentrate
   - trait/uncommon
@@ -21,9 +20,8 @@ license: OGL
 name: "Elemental Counter  `pf2:r`"
 level: "Cantrip 1"
 rare_03: [[Uncommon]]
-trait_01: [[attack]]
-trait_02: [[cantrip]]
-trait_03: [[concentrate]]
+trait_01: [[cantrip]]
+trait_02: [[concentrate]]
 layout: Basic Pathfinder 2e Layout
 columns: 1
 columnWidth: x

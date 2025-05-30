@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Abadar - Moderate Boon"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/deityboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.DfXlr5qqbcjJN3gh"
 license: OGL
 ---
 # Abadar - Moderate Boon
-
+## Feat 1
 ### 
 
 **Category** deityboon; 
@@ -23,5 +23,5 @@ If you roll a critical failure at a check to [[Actions/Earn Income|Earn Income]]
 
 If you roll a success on a check to Earn Income, you earn twice the usual amount of income.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

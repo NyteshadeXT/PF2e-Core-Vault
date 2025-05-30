@@ -53,17 +53,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 (reach 10 feet)\n__Damage__  1d10 + 7 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (reach 10 feet, unarmed)\n__Damage__  1d10 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +12 (agile, reach 15 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+12 (agile, reach 15 feet)\n__Damage__ "
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +12 (reach 10 feet)\n__Damage__  1d8 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+12 (reach 10 feet)\n__Damage__  1d8 + 5 bludgeoning"
 
   - name: "Tongue Grab"
     desc: "  If the giant chameleon hits a creature with a tongue Strike, that creature becomes [[Conditions/Grabbed|Grabbed]] by the giant chameleon. The target isn't [[Conditions/Immobilized|Immobilized]], but it can't move beyond the reach of the giant chameleon's tongue. A creature can sever the tongue with an attack that hits AC 15 and deals at least 4 slashing damage. Though this doesn't deal any damage to the giant chameleon, it prevents it from using its tongue Strike until it regrows its tongue, which takes a week."

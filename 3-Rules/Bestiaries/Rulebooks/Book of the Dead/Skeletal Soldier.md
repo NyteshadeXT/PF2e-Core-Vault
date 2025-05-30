@@ -59,17 +59,20 @@ abilities_top:
     desc: "[[Equipment/Glaive|Glaive]], [[Equipment/Longbow|Longbow]], [[Equipment/Chain Shirt|Chain Shirt]], 20x [[Equipment/Arrows|Arrows]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Glaive +9 (deadly d8, forceful, reach 10 feet)\n__Damage__  1d8 + 2 slashing"
+  - name: "**Melee** `pf2:1` Glaive"
+    desc: "+9 (deadly d8, forceful, reach 10 feet)\n__Damage__  1d8 + 2 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile, finesse)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, finesse, unarmed)\n__Damage__  1d4 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Longbow +9 (deadly d10, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 piercing"
+  - name: "**Ranged** `pf2:1` Longbow"
+    desc: "+9 (deadly d10, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 piercing"
 
   - name: "Set Defense"
     desc: "`pf2:1`  The skeletal soldier sets its glaive (or other reach weapon) to defend the area around it. It gains the [[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]] reaction for that weapon only. This lasts until the skeleton takes an action with the move or attack trait or is destroyed."

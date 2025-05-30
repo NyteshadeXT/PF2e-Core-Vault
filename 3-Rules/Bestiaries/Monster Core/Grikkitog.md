@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Implant Core"
     desc: "`pf2:3` (manipulate) The grikkitog implants its core into an adjacent section of earth or stone, melding seamlessly and changing its visual appearance to match the surrounding rock. It's [[Conditions/Immobilized|Immobilized]] but automatically succeeds at its Deception check to Impersonate the stone around it; creatures actively searching for it can still attempt Perception checks against its Deception DC as normal. A grikkitog can release its implantation as a free action, which has the manipulate trait. A grikkitog's infestation aura and manifold vision are only active while implanted."
 
@@ -66,8 +69,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +29 (magical)\n__Damage__  3d12 + 14 piercing plus barbed-maw"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+29 (magical, unarmed)\n__Damage__  3d12 + 14 piercing plus barbed-maw"
 
   - name: "Barbed Maw"
     desc: "  **Trigger** The grikkitog hits a creature with a jaws Strike\n* * *\n\n**Effect** The grikkitog sinks its barbed teeth into the target, which must succeed at a DC 34 Reflex check save or be [[Conditions/Immobilized|Immobilized]]. While immobilized, the victim takes 3d8 persistent bleed damage and the grikkitog feeds upon its flesh. The creature is immobilized until the grikkitog ends the effect as a free action or the target succeeds at a DC 38 check to [[Actions/Escape|Escape]].\n\nThe grikkitog can immobilize any number of creatures with these maws."

@@ -66,23 +66,23 @@ abilities_top:
 
 abilities_mid:
   - name: ""
-  - name: "[[Actions/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  **Trigger** A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\nYou lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a manipulate action, you disrupt that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike."
+  - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Trident +14 ()\n__Damage__  1d8 + 7 piercing plus fish-fork"
+  - name: "**Melee** `pf2:1` Trident"
+    desc: "+14 ()\n__Damage__  1d8 + 7 piercing plus fish-fork"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 ()\n__Damage__  1d12 + 7 piercing plus werecreature-curse-of-the-werecreature"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (unarmed)\n__Damage__  1d12 + 7 piercing plus werecreature-curse-of-the-werecreature"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +13 (thrown 20 ft.)\n__Damage__  1d8 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+13 (thrown 20 ft.)\n__Damage__  1d8 + 7 piercing"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) Medium human with fist +14 for 1d4+7 bludgeoning,\n\nor Large shark with jaws +14 for 1d12+7 piercing, no land Speed, and swim Speed 40 feet.\n\nThe wereshark doesn't have the amphibious trait in human or shark form and has the aquatic trait in shark form.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) Medium human with fist +14 for 1d4+7 bludgeoning,\n\nor Large shark with jaws +14 for 1d12+7 piercing, no land Speed, and swim Speed 40 feet.\n\nThe wereshark doesn't have the amphibious trait in human or shark form and has the aquatic trait in shark form.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Curse of the Werecreature|Curse of the Wereshark]]"
     desc: " (curse,primal) This curse affects only humanoids.\n* * *\n\n**Saving Throw** DC 18 Fortitude check\n\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into the same kind of werecreature until dawn.\n\nThe creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."

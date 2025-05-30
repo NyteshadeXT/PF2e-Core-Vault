@@ -11,7 +11,7 @@ license: OGL
 ---
 # Shattered Earth `pf2:2`
 
-### [[3-Rules/trait_reference/E/earth]]
+### [[earth]]
 
 **Category** offensive; 
 

@@ -57,20 +57,23 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 2 (in boiling water or steam)]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile, finesse)\n__Damage__  1d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, finesse, unarmed)\n__Damage__  1d6 + 3 slashing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Mist|Obscuring Mist]]_"
 
   - name: "Boiling Rain"
-    desc: "`pf2:2` (arcane,fire,water) **Frequency** once per day\n* * *\n\n**Effect** The scalding mephit calls down a rain boiling water that surrounds them in a @Template[emanation|distance:10]. Creatures in the area take 2d8+3 fire damage (DC 18 Reflex check save), and small unattended flames (such as torches) are extinguished."
+    desc: "`pf2:2` (arcane,fire,water) **Frequency** once per day\n* * *\n\n**Effect** The scalding mephit calls down a rain boiling water that surrounds them in a 10-foot emanation. Creatures in the area take 2d8+3 fire damage (DC 18 Reflex check save), and small unattended flames (such as torches) are extinguished."
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,fire) The scalding mephit spits a cloud of steam in a @Template[cone|distance:15] that deals 3d6 fire damage to each creature within the area (DC 18 Reflex check save).\n\nThe scalding mephit can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) The scalding mephit spits a cloud of steam in a 15-foot cone that deals 3d6 fire damage to each creature within the area (DC 18 Reflex check save).\n\nThe scalding mephit can't use Breath Weapon again for 1d4 rounds."
  
 ```
 

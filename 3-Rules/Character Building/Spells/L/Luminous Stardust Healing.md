@@ -36,5 +36,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You scatter twinkling sparks from your sentinel weapon, replenishing your allies' fighting spirit and driving out evil. The target regains 16 Hit Points. If they were affected by a possession effect, you attempt to counteract the effect, casting out the possessing entity on a success and preventing them from possessing the target again for 1 week. If you fail, the entity is immune to being cast out by this spell for 1 week, though you can still heal the target as normal.\n* * *\n\n**Heightened (+1)** The amount of healing increases by 8."
-sourcebook: "_Pathfinder Lost Omens: Tian Xia Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Tian Xia Character Guide_"
 ```

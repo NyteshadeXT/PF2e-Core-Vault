@@ -6,8 +6,9 @@ tags:
   - trait/inventor
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.BEqXsP6UqARzpEFD"
-license: OGL
+license: ORC
 ---
 # Megaton Strike `pf2:2`
 ## Feat 4
@@ -27,7 +28,9 @@ You activate gears, explosives, and other hidden mechanisms in your innovation t
 
 **Unstable Function** You put even more force into the Strike, though you risk stress fractures to your innovation. Add the unstable trait to Megaton Strike. The Strike deals another extra damage die, for a total of two extra dice at 4th level, three at 10th level, and four at 18th level.
 
+* * *
+
 **Special** If your innovation is a minion, it can take this action rather than you.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

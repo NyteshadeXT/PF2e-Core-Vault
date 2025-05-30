@@ -46,11 +46,11 @@ You gain the [[Actions/Catharsis|Catharsis]] reaction and the [[Actions/Settle E
 
 [[PF2e Journals/Archetypes/Misery|Misery]]
 
+[[PF2e Journals/Archetypes/Pride|Pride]]
+
 [[PF2e Journals/Archetypes/Remorse|Remorse]]
 
-* * *
-
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Cathartic Mage|Cathartic Mage]] archetype.
+[[PF2e Journals/Archetypes/Cathartic Mage|Cathartic Mage]]
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

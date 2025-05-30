@@ -55,6 +55,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Warhammer|+2 Striking Warhammer]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Messenger's Amnesty"
@@ -66,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Holy Warhammer +30 (holy, magical, shove)\n__Damage__  2d8 + 14 bludgeoning 1d4 spirit"
+  - name: "**Melee** `pf2:1` Holy Warhammer"
+    desc: "+30 (holy, magical, shove)\n__Damage__  2d8 + 14 bludgeoning 1d4 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 36, attack +28; __7th __  _[[Spells/Blessed Boundary|Blessed Boundary]]_, _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Clear Mind|Clear Mind]]_, _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Heal|Heal]]_; __3rd __  _[[Spells/Ring of Truth|Ring of Truth (At will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_\n__Cantrips__  __(7th)__ _[[Spells/Light|Light]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Angelic Messenger|Angelic Messenger]]_"
+    desc: "_Angelic Messenger_"
 
   - name: "Stunning Strike"
     desc: "`pf2:1`  **Requirements** The tabellia hit a foe earlier this turn with a weapon Strike\n* * *\n\n**Effect** The tabellia makes a weapon Strike against the foe. On a success, the foe must also succeed at a DC 34 Fortitude check save or become [[Conditions/Stunned|Stunned 1]] (or [[Conditions/Stunned|Stunned 2]] on a critical failure)."

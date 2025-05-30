@@ -66,8 +66,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +20 (magical, reach 10 feet)\n__Damage__  2d10 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+20 (magical, reach 10 feet, unarmed)\n__Damage__  2d10 + 7 bludgeoning"
 
   - name: "Berserk Slam"
     desc: "`pf2:1`  **Requirements** The charnel creation is berserk\n* * *\n\n**Effect** The charnel creation Strikes with its fist at a –1 circumstance penalty. If it hits, it deals 1d6 extra damage and knocks the target [[Conditions/Prone|Prone]]."

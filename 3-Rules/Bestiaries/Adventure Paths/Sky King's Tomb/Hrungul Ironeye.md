@@ -56,25 +56,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Bravery"
     desc: "  When the Hrungul rolls a success on a Will save against a fear effect, he gets a critical success instead. In addition, any time he gains the [[Conditions/Frightened|Frightened]] condition, reduce its value by 1."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +20 (versatile p)\n__Damage__  2d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+20 (versatile p)\n__Damage__  2d8 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shield Boss +20 ()\n__Damage__  2d6 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Shield Boss"
+    desc: "+20 ()\n__Damage__  2d6 + 10 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +18 (agile, thrown 20 ft.)\n__Damage__  1d6 + 10 bludgeoning"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+18 (agile, thrown 20 ft.)\n__Damage__  1d6 + 10 bludgeoning"
 
   - name: "Double Slice"
     desc: "  Hrungul makes a longsword Strike, followed by a shield boss Strike against the same target at a –2 penalty, each using his current multiple attack penalty. If both attacks hit, he combines their damage and applies resistances and weaknesses only once. This counts as two attacks when calculating his multiple attack penalty."

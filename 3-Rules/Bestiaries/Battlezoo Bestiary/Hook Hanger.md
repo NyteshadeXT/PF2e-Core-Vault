@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 ()\n__Damage__  2d8 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 ()\n__Damage__  2d8 + 9 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hidden Hook +17 (agile, trip)\n__Damage__  2d4 + 9 piercing plus grab"
+  - name: "**Melee** `pf2:1` Hidden Hook"
+    desc: "+17 (agile, trip)\n__Damage__  2d4 + 9 piercing plus grab"
 
   - name: "Hanging Climber"
     desc: "  A hook hanger can use its Climb speed only to climb along ceiling surfaces such as tree canopies, wooden boards, stone bricks, or natural caverns. Smooth ceilings, such as hewn stone, are difficult terrain."

@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 ()\n__Damage__  1d8 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (unarmed)\n__Damage__  1d8 + 3 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +11 ()\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+11 ()\n__Damage__  1d6 + 3 piercing"
 
   - name: "Dubious Shifting"
     desc: "`pf2:1` (concentrate,polymorph,primal) The zrukbat assumes the shape of any Small object or ornamentation, although the zrukbat's mimicked objects usually have unrealistic or suspicious quirks.\n\nThis doesn't change the zrukbat's size but can alter their coloration and visual appearance.\n\nThey have an automatic result of 23 on Deception checks and DCs to pass as the mimicked object."

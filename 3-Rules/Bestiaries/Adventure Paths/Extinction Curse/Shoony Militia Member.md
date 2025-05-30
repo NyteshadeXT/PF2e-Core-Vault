@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +10 (versatile p)\n__Damage__  1d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+10 (versatile p)\n__Damage__  1d8 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +10 (range increment 30 feet, thrown)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+10 (range increment 30 feet, thrown)\n__Damage__  1d6 + 4 piercing"
  
 ```
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Death Drone `pf2:2`
 
-### [[3-Rules/Rule References/auditory]][[flourish]][[3-Rules/Rule References/Mental]]
+### [[auditory]][[flourish]][[mental]]
 
 
 

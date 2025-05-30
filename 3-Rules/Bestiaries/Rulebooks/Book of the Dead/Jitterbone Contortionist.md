@@ -59,11 +59,14 @@ abilities_mid:
   - name: "Consecration Vulnerability"
     desc: "  A jitterbone in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by [[Spells/Anointed Ground|Anointed Ground]], is [[Conditions/Slowed|Slowed 1]]."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 (agile, finesse, nonlethal, unarmed)\n__Damage__  2d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (agile, finesse, nonlethal, unarmed)\n__Damage__  2d6 + 2 bludgeoning"
 
   - name: "Compression"
     desc: "  The jitterbone can move through a gap at least 6 inches wide without Squeezing and can [[Actions/Squeeze|Squeeze]] through a gap at least 2 inches wide.When the jitterbone successfully Squeezes, they move through the tight space at full Speed. Narrow confines aren't difficult terrain for a jitterbone."

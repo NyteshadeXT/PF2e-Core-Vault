@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Fortify Hex"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/region
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.ie9Wuohdx3JgzRbP"
 license: OGL
 ---
 # Fortify Hex
-
+## 
 ### [[downtime]][[region]]
 
 **Category** kingdom-activity; 

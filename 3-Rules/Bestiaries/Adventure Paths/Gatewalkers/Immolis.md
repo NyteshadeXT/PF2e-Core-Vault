@@ -48,6 +48,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Heatsense 120 feet"
     desc: "  An immolis can sense creatures whose bodies are hotter than their surroundings as a precise sense at the listed range. Creatures that produce no heat—such as many undead or constructs—are [[Conditions/Concealed|Concealed]] to an immolis, as are creatures who successfully mask their body heat (such as by submerging themselves in cold water)."
 
@@ -56,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 ()\n__Damage__  1d10 + 5 slashing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (unarmed)\n__Damage__  1d10 + 5 slashing"
 
   - name: "Heat Beam"
     desc: "`pf2:1` (fire,occult) The immolis targets a living creature within 30 feet and directs a beam of volatile psychic energy toward it, increasing the rate at which the creature's body produces heat. The target must attempt a DC 20 Fortitude check save. The second and third time an immolis uses Heat Beam in the same round, the DC lowers to DC 16 Fortitude check or DC 12 Fortitude check, respectively.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature takes 2d6+5 fire damage.\n\n**Critical Failure** The creature takes 4d6+5 fire damage and 5 persistent fire damage."

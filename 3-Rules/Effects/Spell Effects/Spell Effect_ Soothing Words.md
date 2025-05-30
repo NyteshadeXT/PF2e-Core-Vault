@@ -17,13 +17,9 @@ license: ORC
 
 
 
-Granted by [[Soothing Words|Soothing Words]].
+Granted by [[Spells/Soothing Words|Soothing Words]]
 
-The target gains a +1 status bonus to Will saving throws. This bonus increases to +2 against emotion effects
-
-* * *
-
-**Heightened (5th)** The bonus to saves increases to +2, or +3 against emotion effects.
+You gain a status bonus to Will saving throws. This bonus increases against emotion effects.
 
 *Source: Pathfinder Player Core*
 *ORC*

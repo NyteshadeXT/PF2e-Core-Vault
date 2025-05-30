@@ -27,5 +27,5 @@ license: OGL
 
 A thin shell of telekinetic energy pushes from your skin, widening your enemy's grasp enough for you to slip free. You gain a +2 status bonus to checks to [[Actions/Escape|Escape]] from whatever has you grabbed or restrained. This bonus lasts until either you're no longer grabbed or restrained, or you fall [[Conditions/Unconscious|Unconscious]].
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

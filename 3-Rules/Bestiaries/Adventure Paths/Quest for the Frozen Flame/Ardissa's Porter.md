@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Cargo Hook +7 (agile, fatal d8)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Cargo Hook"
+    desc: "+7 (agile, fatal d8)\n__Damage__  1d4 + 2 piercing"
  
 ```
 

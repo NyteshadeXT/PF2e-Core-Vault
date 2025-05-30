@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Necromancer's Generosity|Necromancer's Generosity]]
+Granted by [[Spells/Necromancer's Generosity|Necromancer's Generosity]]
 
-Your undead minion gains a +2 status bonus to saves against vitality effects for the duration.
+You gain a +2 status bonus to saves against vitality effects for the duration.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

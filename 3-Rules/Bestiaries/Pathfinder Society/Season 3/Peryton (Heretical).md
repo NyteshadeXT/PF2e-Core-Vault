@@ -56,20 +56,23 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Antler +14 (deadly d8)\n__Damage__  1d12 + 7 piercing"
+  - name: "**Melee** `pf2:1` Antler"
+    desc: "+14 (deadly d8)\n__Damage__  1d12 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +14 (agile)\n__Damage__  1d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+14 (agile)\n__Damage__  1d8 + 7 slashing"
 
   - name: "Abjure the Blessings of Vitality"
     desc: "  Despite not being undead, this creature gains void healing. Its Strikes deal an additional 1d6 spirit damage to creatures that can cast divine or primal spells."
 
   - name: "Heart Ripper"
-    desc: "`pf2:1` (attack,emotion,fear,visual) The peryton rips out the heart of an adjacent corpse with their jaws. The creature must have died in the last minute. As the peryton rips the heart free and swallows it whole, they regain 2d6 HP, and any non-peryton that witnesses this event must succeed at a DC 21 Will check save or become [[Conditions/Frightened|Frightened 1]] (or [[Conditions/Frightened|Frightened 2]] on a critical failure)."
+    desc: "`pf2:1` (attack,emotion,fear,visual) The peryton rips out the heart of an adjacent corpse with their jaws. The creature must have died in the last minute. As the peryton rips the heart free and swallows it whole, they regain 2d6 healing HP, and any non-peryton that witnesses this event must succeed at a DC 21 Will check save or become [[Conditions/Frightened|Frightened 1]] (or [[Conditions/Frightened|Frightened 2]] on a critical failure)."
 
   - name: "Mimic Shadow"
     desc: "`pf2:1` (emotion,fear,occult,shadow) **Requirements** The target must be casting a shadow\n* * *\n\n**Effect** The peryton Flies, going no higher than 20 feet over the target creature. The target creature must succeed at a DC 21 Will check save or the peryton's shadow changes to match that cast by the target creature. With their shadow so transformed, the peryton gains a +2 status bonus to attack and damage rolls against that creature.\n\nIn addition, each time the peryton successfully Strikes that creature, the creature must succeed at a DC 21 Will check save or become [[Conditions/Frightened|Frightened 1]], or increase its frightened condition by 1 if it's already frightened. This is an emotion and fear effect. The shadow remains transformed for 1 hour or until the peryton Mimics a Shadow again, whichever comes first."

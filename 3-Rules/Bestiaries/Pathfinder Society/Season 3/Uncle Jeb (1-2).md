@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mace +4 ()\n__Damage__  1d6 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Mace"
+    desc: "+4 ()\n__Damage__  1d6 + 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +5 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+5 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 17, attack +9; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(1st)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_"

@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Beastmaster's Sigil|Beastmaster's Sigil]]
+Granted by [[Equipment/Beastmaster's Sigil|Beastmaster's Sigil]], [[Equipment/Beastmaster's Sigil (Greater)|Beastmaster's Sigil (Greater)]], [[Equipment/Beastmaster's Sigil (Major)|Beastmaster's Sigil (Major)]]
 
-The _sigil_ grants you a +1 item bonus to Athletics checks to [[Actions/Trip|Trip]].
+You gain an item bonus to Athletics checks to [[Actions/Trip|Trip]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

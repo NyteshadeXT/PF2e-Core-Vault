@@ -7,14 +7,14 @@ tags:
   - trait/emotion
   - trait/fear
   - trait/mental
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.hi56uHG1aAb84Zzu"
 license: OGL
 ---
 # Fight with Fear `pf2:r`
 
-### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Emotion]][[3-Rules/Trait Reference/F/fear]][[3-Rules/Rule References/Mental]]
+### [[concentrate]][[emotion]][[fear]][[mental]]
 
 **Category** interaction; 
 

@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Erosion Aura"
@@ -61,17 +64,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +38 (deadly 3d12, magical, reach 20 feet)\n__Damage__  4d12 + 18 bludgeoning plus improved-grab,improved-push"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+38 (deadly 3d12, magical, reach 20 feet, unarmed)\n__Damage__  4d12 + 18 bludgeoning plus improved-grab,improved-push"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +38 (deadly 3d12, magical, reach 20 feet)\n__Damage__  4d8 + 18 bludgeoning plus improved-knockdown"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+38 (deadly 3d12, magical, reach 20 feet, unarmed)\n__Damage__  4d8 + 18 bludgeoning plus improved-knockdown"
 
   - name: "Primal Innate Spells"
     desc: "DC 37, attack +29\n__Constant__  __(8th)__ _[[Spells/Truesight|Truesight]]_ __(3rd)__ _[[Spells/Haste|Haste]]_"
 
   - name: "Annihilation Beams"
-    desc: "`pf2:2`  A guthallath releases two beams of destruction from its eyes. Each beam is a @Template[line|distance:120]. Everything in either line takes 13d10 untyped damage with a DC 41 Fortitude check save.\n\nA creature reduced to 0 HP is reduced to a fine powder as the [[Spells/Disintegrate|Disintegrate]] spell. There is no additional effect on creatures in any area where the beams overlap.\n\nThe guthallath can't use this ability again for 1d4 rounds."
+    desc: "`pf2:2`  A guthallath releases two beams of destruction from its eyes. Each beam is a 120-foot line. Everything in either line takes 13d10 untyped damage with a DC 41 Fortitude check save.\n\nA creature reduced to 0 HP is reduced to a fine powder as the [[Spells/Disintegrate|Disintegrate]] spell. There is no additional effect on creatures in any area where the beams overlap.\n\nThe guthallath can't use this ability again for 1d4 rounds."
 
   - name: "Deadly Throw"
     desc: "`pf2:1`  **Requirements** The guthallath has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The guthallath throws the creature into the air, 100 feet high and 50 feet away. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage.\n\nThe creature being landed on can attempt a DC 41 Reflex check save."
@@ -80,7 +83,16 @@ attacks:
     desc: "  If a guthallath hits with an attack and rolls a natural 19 on the d20 roll, the attack is a critical hit. This has no effect if the 19 would be a failure."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 45 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 45 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
+
+  - name: "[[Bestiary Ability Glossary/Improved Knockdown|Improved Knockdown]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature as a free action. This attempt neither applies nor counts toward the monster's multiple attack penalty."
+
+  - name: "[[Bestiary Ability Glossary/Improved Push|Improved Push 20 feet]]"
+    desc: "  The monster can use [[Bestiary Ability Glossary/Push|Push]] as a free action triggered by a hit with its initial attack."
  
 ```
 

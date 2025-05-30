@@ -21,5 +21,5 @@ license: OGL
 * * *
 When you [[Feats/Cat Nap|Cat Nap]], you can also [[Actions/Refocus|Refocus]] as you dream of a relevant activity.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

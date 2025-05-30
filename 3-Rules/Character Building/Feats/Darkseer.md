@@ -21,5 +21,5 @@ license: OGL
 * * *
 [[Deities/Zon-Kuthon|Zon-Kuthon]] smiles upon you-even if you curse his name-granting you pitch-black eyes that allow you to see in shadows and darkness. You gain darkvision.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

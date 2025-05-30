@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +15 (sweep)\n__Damage__  1d12 + 10 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+15 (sweep)\n__Damage__  1d12 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +12 (thrown 30 ft.)\n__Damage__  1d6 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+12 (thrown 30 ft.)\n__Damage__  1d6 + 10 piercing"
 
   - name: "Champion Devotion Spells"
     desc: "1 Focus Point, DC 20, attack +12; __3rd __  _[[Spells/Touch of the Void|Touch of Corruption]]_"

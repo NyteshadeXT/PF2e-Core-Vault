@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/champion
   - trait/divine
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.EAP98XaChJEbgKcK"
@@ -13,7 +13,7 @@ license: ORC
 ---
 # Retributive Strike `pf2:r`
 
-### [[champion]][[3-Rules/Rule References/Divine]]
+### [[champion]][[divine]]
 
 **Category** offensive; 
 

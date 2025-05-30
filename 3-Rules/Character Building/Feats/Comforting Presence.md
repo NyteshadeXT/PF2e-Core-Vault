@@ -15,7 +15,7 @@ license: OGL
 ---
 # Comforting Presence `pf2:r`
 ## Feat 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[emotion]][[general]][[3-Rules/trait_reference/M/mental]][[skill]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[emotion]][[general]][[mental]][[skill]]
 
 **Category** skill; 
 

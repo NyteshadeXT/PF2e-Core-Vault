@@ -17,7 +17,7 @@ license: ORC
 
 
 
-The flourishing plant life that covers your body is a part of you, but it draws nutrients from your blood, making you weaker the more the flowers grow. As the plants grow, you need to spend more and more time recuperating. Recuperating in the sunshine lowers this duration, as it feeds the flowers, speeding your recovery.
+Granted by [[Class Features/Life-Draining|Life-Draining]]
 
 **Mild Backlash** You become [[Conditions/Drained|Drained 1]] as the plants feed off your life force. This condition lasts until you spend 3 consecutive actions to rest and do nothing.
 

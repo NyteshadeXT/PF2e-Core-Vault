@@ -56,6 +56,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Hatred of Mirrors"
@@ -64,20 +67,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile, unholy)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, unarmed, unholy)\n__Damage__  1d4 + 2 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (unholy)\n__Damage__  1d8 + 2 piercing plus disfiguring-bite"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (unarmed, unholy)\n__Damage__  1d8 + 2 piercing plus disfiguring-bite"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hurled Debris +7 (range increment 20 feet, unholy)\n__Damage__  1d4 + 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Hurled Debris"
+    desc: "+7 (range increment 20 feet, unholy)\n__Damage__  1d4 + 2 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Fear|Fear (x2)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "Disfiguring Bite"
     desc: " (curse,divine) When the abrikandilu hits a creature with a jaws Strike, the creature must succeed at a DC 17 Fortitude check save or become physically mutilated.\n\nThe creature then takes a -1 status penalty to Charisma-based checks.\n\nThis penalty remains for 24 hours even if the wounds are healed.\n\n[[Bestiary Effects/Effect_ Mutilating Bite|Effect: Disfiguring Bite]]"

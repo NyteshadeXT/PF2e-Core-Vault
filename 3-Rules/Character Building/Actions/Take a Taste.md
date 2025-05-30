@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Take a Taste"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.actionspf2e.Item.aHE92WSosMDewe33"
 license: OGL
 ---

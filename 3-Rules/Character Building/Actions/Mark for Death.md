@@ -4,7 +4,7 @@ title: "Mark for Death"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.orjJjLdm4XNAcFi8"
@@ -12,7 +12,7 @@ license: ORC
 ---
 # Mark for Death `pf2:3`
 
-### [[3-Rules/Rule References/Concentrate]]
+### [[concentrate]]
 
 **Category** offensive; 
 

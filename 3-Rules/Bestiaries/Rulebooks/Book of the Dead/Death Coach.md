@@ -56,6 +56,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Aura of Doom"
@@ -64,11 +67,14 @@ abilities_mid:
   - name: "Collect Soul"
     desc: "`pf2:r` (death) **Trigger** A dying creature within the death coach's Aura of Doom dies or its dying value increases\n* * *\n\n**Effect** The death coach attempts to collect the triggering creature's soul. The triggering creature must succeed at a DC 34 Will check save or its soul becomes trapped within the death coach's interior. A creature whose soul has been collected can't be restored to life while the soul remains in the death coach by any means short of a 10th-rank spell, such as [[Spells/Miracle|Miracle]]. Eventually, the death coach grinds the soul down into raw spiritual essence, typically several hours later. At this point, restoring the soul to life is slightly easier, requiring a spell or ritual of 8th rank or higher. If a death coach with a collected soul is slain before the soul is completely dissolved, the creature's soul returns to its body, allowing it to be returned to life normally. A death coach can choose not to dissolve a collected soul, though it usually has no reason to keep the soul intact."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Incorporeal Wheel +30 (agile, magical)\n__Damage__  3d12 + 8 void"
+  - name: "**Melee** `pf2:1` Incorporeal Wheel"
+    desc: "+30 (agile, magical)\n__Damage__  3d12 + 8 void"
 
   - name: "Divine Innate Spells"
     desc: "DC 34, attack +26; __7th __  _[[Spells/Execute|Finger of Death (x2)]]_; __6th __  _[[Spells/Agonizing Despair|Agonizing Despair (x2)]]_; __3rd __  _[[Spells/Fear|Fear]]_; __2nd __  _[[Spells/Death Knell|Death Knell (x3)]]_"
@@ -77,7 +83,7 @@ attacks:
     desc: "  When a death coach has Collected a Soul, its Speeds double."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, incorporeal wheel, DC 34 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Large or smaller, incorporeal wheel, DC 34 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

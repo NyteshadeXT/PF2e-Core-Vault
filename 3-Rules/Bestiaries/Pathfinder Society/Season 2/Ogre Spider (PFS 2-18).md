@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d8 + 8 piercing plus ogre-spider-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (unarmed)\n__Damage__  2d8 + 8 piercing plus ogre-spider-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Web +13 (range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Web"
+    desc: "+13 (range increment 30 feet)\n__Damage__ "
 
   - name: "Eerie Flexibility"
     desc: "  An ogre spider can fit through tight spaces as if it were a Large creature. While [[Actions/Squeeze|Squeezing]], it can move at its full speed."

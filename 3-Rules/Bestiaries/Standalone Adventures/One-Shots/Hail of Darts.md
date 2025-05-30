@@ -52,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Darts"
-    desc: "`pf2:r` **Trigger** Pressure is applied to the floor tile\n* * *\n\n**Effect** The trap shoots darts, making an attack against each creature in a @Template[line|distance:30] centered on the floor tile."
+    desc: "`pf2:r` **Trigger** Pressure is applied to the floor tile\n* * *\n\n**Effect** The trap shoots darts, making an attack against each creature in a 30-foot line centered on the floor tile."
   - name: "Melee"
     desc: "Dart +20 () "
 

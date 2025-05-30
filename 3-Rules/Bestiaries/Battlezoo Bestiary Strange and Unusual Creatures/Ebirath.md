@@ -35,7 +35,7 @@ perception:
 languages: "Common, Thalassic; telepathy 50 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +29, Athletics: +36, Diplomacy: +29, Intimidation: +34, Nature: +28, Religion: +28, Stealth: +29, Acrobatics: +29, Athletics: +36, Diplomacy: +29, Intimidation: +34, Nature: +28, Religion: +28, Stealth: +29"
+    desc: "Acrobatics: +29, Athletics: +36, Diplomacy: +29, Intimidation: +34, Nature: +28, Religion: +28, Stealth: +29"
 abilityMods: [10, 3, 9, 4, 4, 3]
 speed: 50 feet,  climb 25 feet,  swim 80 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -56,14 +56,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Big Claw +35 (reach 20 feet)\n__Damage__  3d12 + 22 slashing plus improved-grab"
+  - name: "**Melee** `pf2:1` Big Claw"
+    desc: "+35 (reach 20 feet)\n__Damage__  3d12 + 22 slashing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Little Claw +35 (agile, reach 15 feet)\n__Damage__  3d8 + 22 slashing"
+  - name: "**Melee** `pf2:1` Little Claw"
+    desc: "+35 (agile, reach 15 feet)\n__Damage__  3d8 + 22 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +35 (reach 20 feet)\n__Damage__  3d10 + 22 bludgeoning plus improved-push"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+35 (reach 20 feet)\n__Damage__  3d10 + 22 bludgeoning plus improved-push"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
     desc: "`pf2:1`  "

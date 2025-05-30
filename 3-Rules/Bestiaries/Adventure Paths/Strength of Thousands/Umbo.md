@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet (Myceloids and Those Afflicted by Purple Pox Only)]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Spore Pop"
@@ -58,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +11 ()\n__Damage__  1d8 + 3 bludgeoning plus purple-pox"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+11 (unarmed)\n__Damage__  1d8 + 3 bludgeoning plus purple-pox"
 
   - name: "Emit Spores"
-    desc: "`pf2:1`  **Frequency** once per day\n* * *\n\n**Effect** Umbo expels spores in a @Template[burst|distance:10] centered on a corner of his own space. This cloud lasts until the start of the myceloid's next turn. Each creature that is in the cloud or enters it is exposed to purple pox."
+    desc: "`pf2:1`  **Frequency** once per day\n* * *\n\n**Effect** Umbo expels spores in a 10-foot burst centered on a corner of his own space. This cloud lasts until the start of the myceloid's next turn. Each creature that is in the cloud or enters it is exposed to purple pox."
 
   - name: "Purple Pox"
     desc: " (disease) Myceloids are immune\n\n**Saving Throw** DC 18 Fortitude check\n\n**Onset** 1 minute\n\n**Stage 1** 1d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 day)\n\n**Stage 2** 4d6 poison damage, [[Conditions/Stupefied|Stupefied 3]], and the creature is compelled to seek out the nearest myceloid colony-this compulsion is a mental emotion effect (1 day)\n\n**Stage 3** The creature dies. Over 24 hours, its corpse becomes bloated and bursts, releasing a new, fully grown myceloid."

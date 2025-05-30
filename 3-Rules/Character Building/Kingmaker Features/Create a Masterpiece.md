@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Create a Masterpiece"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/leadership
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.i7nsYS9lgFlgBXnl"
 license: OGL
 ---
 # Create a Masterpiece
-
+## 
 ### [[downtime]][[leadership]]
 
 **Category** kingdom-activity; 

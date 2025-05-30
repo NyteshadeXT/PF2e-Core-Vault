@@ -14,7 +14,7 @@ license: ORC
 ---
 # Unsheathing the Sword-Light `pf2:2`
 ## Feat 10
-### [[arcane]][[3-Rules/trait_reference/L/light]][[magus]]
+### [[arcane]][[light]][[magus]]
 
 **Category** class; 
 
@@ -28,5 +28,5 @@ license: ORC
 
 Honed through 10,000 battles, your sword's mere light can shatter ambitions and break armies. Make a melee Spellstrike with a sword, with a spell that isn't a cantrip or focus spell. Countless copies of your sword, made of light, fall around you, dealing damage equal to double the spell's rank to each creature within a 10-foot emanation of the target, excluding you and the target of the Spellstrike. The damage is of the same type dealt by your sword Strike and is treated as cold iron and silver.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

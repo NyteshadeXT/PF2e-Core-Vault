@@ -64,26 +64,29 @@ abilities_mid:
   - name: "Corpse Scent (Imprecise) 1 mile"
     desc: "  The lacedon can smell humanoid corpses in the water from up to 1 mile away."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 (finesse)\n__Damage__  1d6 + 5 piercing plus ghoul-ghoul-fever"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (finesse, unarmed)\n__Damage__  1d6 + 5 piercing plus ghoul-ghoul-fever"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile, finesse)\n__Damage__  1d4 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, finesse, unarmed)\n__Damage__  1d4 + 5 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +10 (forceful, sweep)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+10 (forceful, sweep)\n__Damage__  1d6 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Double-Barreled Pistol +11 (concussive, double barrel, fatal d8, range 30 feet, reload 1)\n__Damage__  1d4 piercing"
+  - name: "**Ranged** `pf2:1` Double-Barreled Pistol"
+    desc: "+11 (concussive, double barrel, fatal d8, range 30 feet, reload 1)\n__Damage__  1d4 piercing"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  45 feet\n\n* * *\n"
+    desc: "`pf2:1`  45 feet\n* * *\n\n**Requirements** The monster is hiding in water and a creature that hasn't detected it is within the listed number of feet.\n* * *\n\n**Effect** The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a Strike against it. The creature is [[Conditions/Off-Guard|Off-Guard]] against this Strike."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Flesh]]"
-    desc: "`pf2:1` (manipulate) **Requirements** The lacedon is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The lacedon devours a chunk of the corpse and regains 2d6 Hit Points. It can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The lacedon is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The lacedon devours a chunk of the corpse and regains 2d6 healing Hit Points. It can regain Hit Points from any given corpse only once."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Ghoul Fever|Ghoul Fever]]"
     desc: " (disease) **Saving Throw** DC 18 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a [[Bestiary 1/Ghoul|Ghoul]] the next midnight."

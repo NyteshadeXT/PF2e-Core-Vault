@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +27 (agile, finesse, magical, trip)\n__Damage__  2d4 + 10 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+27 (agile, finesse, magical, trip)\n__Damage__  2d4 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +27 (magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+27 (magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 10 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 34, attack +26; __7th __ (3 slots) _[[Spells/Planar Seal|Dimensional Lock]]_, _[[Spells/Project Image|Project Image]]_, _[[Spells/Retrocognition|Retrocognition]]_; __6th __ (3 slots) _[[Spells/Mislead|Mislead]]_, _[[Spells/Repulsion|Repulsion]]_, _[[Spells/Truesight|True Seeing]]_; __5th __ (3 slots) _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Telepathic Bond|Telepathic Bond]]_, _[[Spells/Truespeech|Tongues]]_; __4th __ (3 slots) _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Peaceful Bubble|Private Sanctum]]_, _[[Spells/Containment|Resilient Sphere]]_; __3rd __ (3 slots) _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Wanderer's Guide|Wanderer's Guide]]_; __2nd __ (3 slots) _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Embed Message|Magic Mouth]]_, _[[Spells/Status|Status]]_; __1st __ (3 slots) _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_"

@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Path Maiden) Imprisoning Grave
 
-### [[3-Rules/trait_reference/A/aura]][[divine]]
+### [[aura]][[divine]]
 
 **Category** defensive; 
 

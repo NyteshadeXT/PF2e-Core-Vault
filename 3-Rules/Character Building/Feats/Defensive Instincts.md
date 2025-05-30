@@ -24,5 +24,5 @@ license: OGL
 
 Your body tenses up when surrounded, putting you on edge just enough to anticipate an attack. You gain a +1 circumstance bonus to AC until the beginning of your next turn and Step.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

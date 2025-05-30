@@ -11,15 +11,16 @@ tags:
   - trait/disease
   - trait/focus
   - trait/manipulate
-  - trait/common
+  - trait/uncommon
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.6nTBr5XNuKOuPM5m" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Foul Miasma  `pf2:2`"
 level: "Focus 4"
-
+rare_03: [[Uncommon]]
 trait_01: [[cleric]]
 trait_02: [[concentrate]]
 trait_03: [[disease]]
@@ -39,5 +40,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You multiply the disease within a creature, drawing it into an infectious mist outside their body where it can spread to other creatures. The target must attempt a Will save. If the target is willing, it can choose to take the effects of critical failure.\n* * *\n\n**Critical Success** The target receives the benefit of a successful save against the lowest-level disease affecting it.\n\n**Success** The target is unaffected.\n\n**Failure** One randomly chosen disease affecting the target fills the air in a 15-foot emanation centered on the target. For the spell's duration, any creature that enters or ends its turn within the area is exposed to that disease.\n\n**Critical Failure** As failure, except the miasma contains all the diseases affecting the target."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

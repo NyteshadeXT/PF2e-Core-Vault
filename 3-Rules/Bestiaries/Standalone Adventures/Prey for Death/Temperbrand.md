@@ -41,10 +41,10 @@ skills:
 abilityMods: [9, 5, 9, 3, 5, 5]
 speed: 30 feet,  burrow 10 feet,  climb 30 feet
 sourcebook: "_Pathfinder Adventure: Prey for Death_"
-ac: 43
+ac: 41
 armorclass:
   - name: AC
-    desc: "43; __Fort__ +35, __Ref__ +29, __Will__ +27"
+    desc: "41; __Fort__ +35, __Ref__ +29, __Will__ +27"
 hp: 335
 health:
   - name: ""
@@ -64,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Slagblade +35 (reach 15 feet, versatile p)\n__Damage__  3d10 + 17 slashing 2d6 fire"
+  - name: "**Melee** `pf2:1` Slagblade"
+    desc: "+35 (reach 15 feet, versatile p)\n__Damage__  3d10 + 17 slashing 2d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +35 (magical)\n__Damage__  3d10 + 17 bludgeoning 2d6 fire"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+35 (magical, unarmed)\n__Damage__  3d10 + 17 bludgeoning 2d6 fire"
 
   - name: "Hurl Slagblade"
-    desc: "`pf2:2` (divine,fire,incapacitation,primal) Temperbrand whips an arm at a target within 120 feet, causing her slagblade to detach and fly through the air. The target creature must attempt a DC 40 Reflex check save. Temperbrand regrows a new slagblade instantly but can't use Hurl Slag again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 5d10 fire damage.\n\n**Failure** The creature takes 10d10 fire damage, and the slag hardens, causing the creature to become [[Conditions/Slowed|Slowed 1]] for 3 rounds. A creature can end the slowed condition early by Escaping (DC 40) the confining slag.\n\n**Critical Failure** The creature takes 20d10 fire damage, and the slag swiftly anchors them in place, causing the creature to become [[Conditions/Restrained|Restrained]] until they [[Actions/Escape|Escape]] (DC 40)."
+    desc: "`pf2:2` (divine,fire,incapacitation,primal) Temperbrand whips an arm at a target within 120 feet, causing her slagblade to detach and fly through the air. The target creature must attempt a DC 40 Reflex check save. Temperbrand regrows a new slagblade instantly but can't use Hurl Slag again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 5d10 fire damage.\n\n**Failure** The creature takes 10d10 fire damage, and the slag hardens, causing the creature to become [[Conditions/Slowed|Slowed 1]] for 3 rounds. A creature can end the slowed condition early by Escaping (DC 40) the confining slag.\n\n**Critical Failure** The creature takes 20d10 fire damage, and the slag swiftly anchors them in place, causing the creature to become [[Conditions/Restrained|Restrained]] until they [[Actions/escape dc=40|escape dc=40]]."
 
   - name: "Ooze Form"
     desc: "`pf2:1` (concentrate,polymorph,primal) Temperbrand's body becomes amorphous. Her AC becomes 30, and she becomes immune to critical hits and precision damage. While in this form she is blind (but retains her tremorsense), and her Speeds are reduced by 15 feet (to a minimum of 5 feet). She can move through spaces as if she were a Tiny creature without penalty. As long as she remains in Ooze Form, she can't make slagblade Strikes or Hurl Slagblade, but she gains Trample. She can end Ooze Form by using this action again."
@@ -80,7 +80,7 @@ attacks:
     desc: "`pf2:3`  Temperbrand Strikes all creatures within her reach with a slagblade Strike. Her multiple attack penalty doesn't increase until the end of this activity."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample (Ooze Form Only)]]"
-    desc: "`pf2:3`  Large or smaller, Foot, DC 40 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Large or smaller, Foot, DC 40 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 
@@ -100,7 +100,7 @@ Temperbrand is often sent to bolster soldiers who are outmatched in an attempt t
 
 ## Temperbrand's Corpse
 
-It hasn't happened yet to the powerful elemental, but if Temperbrand is slain, her body collapses swiftly in upon itself, transforming into a powerful magic maul. [[3-Rules/Character Building/Equipment/T/Temperbrand|Temperbrand]]
+It hasn't happened yet to the powerful elemental, but if Temperbrand is slain, her body collapses swiftly in upon itself, transforming into a powerful magic maul. [[Equipment/Temperbrand|Temperbrand]]
 
 ## Servitor Of The Divine
 

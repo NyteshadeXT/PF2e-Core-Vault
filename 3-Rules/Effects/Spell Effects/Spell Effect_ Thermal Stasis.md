@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Thermal Stasis|Thermal Stasis]]
+Granted by [[Spells/Thermal Stasis|Thermal Stasis]]
 
 The target gains resistance 2 against fire damage and resistance 2 against cold damage.
 

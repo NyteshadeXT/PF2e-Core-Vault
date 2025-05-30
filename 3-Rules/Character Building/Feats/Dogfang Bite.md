@@ -21,5 +21,5 @@ license: OGL
 * * *
 You can swing your beak to slash your foes when piercing attacks won't do. Your beak unarmed attack gains the versatile S weapon trait.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

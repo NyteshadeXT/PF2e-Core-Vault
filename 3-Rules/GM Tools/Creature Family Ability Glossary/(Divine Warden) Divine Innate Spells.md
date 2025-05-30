@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Divine Warden) Divine Innate Spells"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.DlHTe9jLssEELY6a"
 license: OGL
@@ -17,7 +17,7 @@ license: OGL
 
 
 
-A divine warden whose patron deity has any alignment components gains [[Divine Lance|Divine Lance]] as an innate cantrip. A divine warden with a neutral patron deity instead gains [[Daze|Daze]] as an innate cantrip.
+A divine warden whose patron deity has any alignment components gains [[Spells/Divine Lance|Divine Lance]] as an innate cantrip. A divine warden with a neutral patron deity instead gains [[Spells/Daze|Daze]] as an innate cantrip.
 
 *Source: Pathfinder Bestiary 3*
 *OGL*

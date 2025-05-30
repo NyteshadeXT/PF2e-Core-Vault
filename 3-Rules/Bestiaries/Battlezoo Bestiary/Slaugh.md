@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scythe +20 (deadly d10, magical, reach 10 feet, trip)\n__Damage__  2d10 + 10 slashing"
+  - name: "**Melee** `pf2:1` Scythe"
+    desc: "+20 (deadly d10, magical, reach 10 feet, trip)\n__Damage__  2d10 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +20 (agile, reach 10 feet)\n__Damage__  2d8 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+20 (agile, reach 10 feet)\n__Damage__  2d8 + 9 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 24, attack +16; __4th __ (3 slots) _[[Spells/Bind Undead|Bind Undead]]_, _[[Spells/Harm|Harm (x2)]]_; __3rd __ (4 slots) _[[Spells/Summon Undead|Animate Dead (x3)]]_, _[[Spells/Circle of Protection|Circle of Protection (Good)]]_"

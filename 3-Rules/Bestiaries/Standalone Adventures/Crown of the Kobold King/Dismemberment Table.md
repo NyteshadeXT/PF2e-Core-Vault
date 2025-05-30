@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Blade +14 (magical)\n__Damage__  2d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Blade"
+    desc: "+14 (magical)\n__Damage__  2d8 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Strap +14 ()\n__Damage__  2d4 + 7 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Strap"
+    desc: "+14 ()\n__Damage__  2d4 + 7 bludgeoning plus grab"
 
   - name: "Disabling Strike"
     desc: "`pf2:1`  The dismemberment table attempts a blade Strike on a single target that it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. If this Strike hits, the blade cuts deep into one of the target's limbs. The target must attempt a DC 22 Fortitude check save.\n* * *\n\n**Critical Success** The creature suffers no additional effect.\n\n**Success** The creature takes 1d6 bleed damage.\n\n**Failure** The creature takes 2d6 bleed damage and is [[Conditions/Clumsy|Clumsy 1]]. This clumsy condition ends once the creature is restored to full Hit Points.\n\n**Critical Failure** As failure, but [[Conditions/Clumsy|Clumsy 2]]."

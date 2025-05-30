@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 title: "Exotic Edge"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
 aliases: "Compendium.pf2e.pathfinder-society-boons.Item.UWZfORgk1yVNV0RF"
 license: OGL
 ---
-# Exotic Edge
-
+# Exotic Edge `pf2:0`
+## Feat 1
 ### 
 
 **Category** pfsboon; 

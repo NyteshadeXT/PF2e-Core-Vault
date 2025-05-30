@@ -69,7 +69,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Extradimensional Immunity"
     desc: "  Syndara can foil any attempts to use planar powers against him. He is immune to all extradimensional effects, such as [[Spells/Quandary|Quandary]], but can choose to be affected by such effects normally."
@@ -77,14 +77,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spatial Pincers +43 (magical, reach 15 feet, versatile s)\n__Damage__  7d10 + 18 piercing"
+  - name: "**Melee** `pf2:1` Spatial Pincers"
+    desc: "+43 (magical, reach 15 feet, versatile s)\n__Damage__  7d10 + 18 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +43 (agile, magical, reach 20 feet)\n__Damage__  7d8 + 20 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+43 (agile, magical, reach 20 feet, unarmed)\n__Damage__  7d8 + 20 bludgeoning plus improved-grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Warpspines +43 (agile, brutal, magical, propulsive, range increment 120 feet, splash)\n__Damage__  4d6 + 12 piercing 4d6 piercing"
+  - name: "**Ranged** `pf2:1` Warpspines"
+    desc: "+43 (agile, brutal, magical, propulsive, range increment 120 feet, splash)\n__Damage__  4d6 + 12 piercing 4d6 piercing"
 
   - name: "Dimensional Flurry"
     desc: "`pf2:2`  Syndara makes six Strikes. Any creature struck must succeed at a DC 46 Will check save or be teleported to a location of Syndara's choice within 60 feet of him when the flurry is complete. The teleportation has the conjuration, divine, and teleportation traits."
@@ -93,10 +93,13 @@ attacks:
     desc: " (divine) Syndara's grasp extends across dimensions. Creatures grabbed by Syndara can't benefit from teleportation, extradimensional effects, or effects that would move them to a different plane."
 
   - name: "Mover of Worlds"
-    desc: "`pf2:2` (divine) With great regret, Syndara calls his masterpieces from the firmament to crash down upon his enemies. He flings four worldspheres to any four points within 500 feet. Each worldsphere deals 20d6 damage in a @Template[burst|distance:40] (DC 48 Reflex check save). Syndara chooses the type of damage for each worldsphere, which can be any type he chooses, though each worldsphere must deal a different type of damage. On a failed save, the target is pushed to the edge of the burst. No matter how many overlapping explosions it's caught in, a creature can take damage from only one worldsphere per round. Syndara is immune to the damage dealt by his worldspheres. Syndara can't use Mover of Worlds again for 1d4 rounds."
+    desc: "`pf2:2` (divine) With great regret, Syndara calls his masterpieces from the firmament to crash down upon his enemies. He flings four worldspheres to any four points within 500 feet. Each worldsphere deals 20d6 damage in a 40-foot burst (DC 48 Reflex check save). Syndara chooses the type of damage for each worldsphere, which can be any type he chooses, though each worldsphere must deal a different type of damage. On a failed save, the target is pushed to the edge of the burst. No matter how many overlapping explosions it's caught in, a creature can take damage from only one worldsphere per round. Syndara is immune to the damage dealt by his worldspheres. Syndara can't use Mover of Worlds again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Spatial Pincers\n\n* * *\n"
+    desc: "`pf2:1`  Spatial Pincers\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

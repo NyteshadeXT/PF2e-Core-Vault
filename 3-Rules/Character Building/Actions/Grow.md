@@ -12,7 +12,7 @@ license: OGL
 ---
 # Grow
 
-### [[downtime]][[3-Rules/Rule References/Manipulate]]
+### [[downtime]][[manipulate]]
 
 **Category** interaction; 
 

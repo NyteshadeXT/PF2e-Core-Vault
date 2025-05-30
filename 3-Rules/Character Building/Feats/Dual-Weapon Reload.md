@@ -18,8 +18,13 @@ license: ORC
 
 
 
+**Prerequisites** Gunslinger or Dual-Weapon Warrior Dedication
+* * *
+**Requirements** You're wielding two one-handed weapons, each in a different hand, one of which is a ranged weapon.
+
+* * *
 
 You carry your ammunition in a way that allows you to reload while holding two weapons. While you're wielding two one-handed weapons, each in a different hand, you don't need a free hand to reload a one-handed ranged weapon you're wielding.
 
-*Source: Pathfinder Player Core 2*
+*Source: Pathfinder Guns & Gears*
 *ORC*

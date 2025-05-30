@@ -26,5 +26,5 @@ license: OGL
 
 You dart around the battlefield, casting spells while you carefully make melee attacks with your weapon. Stride once. If you end your movement within melee reach of at least one enemy, you can make a melee Strike against that enemy. You can use Mobile Magical Combat while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

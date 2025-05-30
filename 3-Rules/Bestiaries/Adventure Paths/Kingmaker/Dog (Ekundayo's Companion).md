@@ -55,8 +55,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 (finesse)\n__Damage__  2d8 + 3 spirit"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (finesse, unarmed)\n__Damage__  2d8 + 3 spirit"
 
   - name: "Support Benefit"
     desc: "`pf2:1`  Until the start of Ekundayo's next turn, his Strikes that damage creatures Dog threatens give the target a -5-foot status penalty to its Speeds for 1 minute (-10 on a critical success)."

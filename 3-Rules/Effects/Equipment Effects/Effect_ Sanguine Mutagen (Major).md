@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Sanguine Mutagen (Major)|Sanguine Mutagen (Major)]]
+Granted by [[Equipment/Sanguine Mutagen (Major)|Sanguine Mutagen (Major)]]
 
 **Benefit** You gain a +4 item bonus to Fortitude and Reflex saves. When you roll a success on a save against a disease, poison, or effect that would give you the Fatigued condition, you get a critical success instead and your critical failures on such saves become failures instead.
 

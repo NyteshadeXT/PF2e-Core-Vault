@@ -52,8 +52,14 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Motion Sense 100 feet"
     desc: "  A hundun chaos mage can sense nearby motion through vibration and air movement."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
 
 abilities_mid:
   - name: ""
@@ -63,8 +69,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +33 (agile, finesse, magical, reach 10 feet)\n__Damage__  4d8 + 12 bludgeoning 1d6 void"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+33 (agile, finesse, magical, reach 10 feet, unarmed)\n__Damage__  4d8 + 12 bludgeoning 1d6 void"
 
   - name: "Occult Innate Spells"
     desc: "DC 40, attack +35; __9th __ (3 slots) _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Harm|Harm (x3)]]_; __8th __ (3 slots) _[[Spells/Divine Wrath|Divine Wrath]]_; __7th __ (1 slots) _[[Spells/Interplanar Teleport|Plane Shift (At Will)]]_; __4th __ (1 slots) _[[Spells/Translocate|Dimension Door (At Will)]]_; __1st __ (1 slots) _[[Spells/Detect Alignment|Detect Alignment (At Will) (Lawful Only)]]_\n__Constant__  __(4th)__ _[[Spells/Air Walk|Air Walk]]_"

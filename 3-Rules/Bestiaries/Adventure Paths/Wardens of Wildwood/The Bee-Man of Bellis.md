@@ -56,6 +56,9 @@ abilities_top:
   - name: "Apian Emissaries"
     desc: "  The Bee-Man can use bees to duplicate the effects of [[Spells/Clairvoyance|Clairvoyance]] or [[Spells/Message|Message]] at will, with a maximum range of 13 miles. A successful DC 20 Perception check check identifies the presence of the bees acting as the sensors for these spells, but a DC 24 Nature check (expert) check is required to realize they are behaving under outside influence."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Smoke Susceptibility"
@@ -64,14 +67,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Slam +19 ()\n__Damage__  2d6 + 9 piercing plus apitoxin"
+  - name: "**Melee** `pf2:1` Slam"
+    desc: "+19 (unarmed)\n__Damage__  2d6 + 9 piercing plus apitoxin"
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +17; __5th __  _[[Spells/Summon Animal|Summon Animal (Bee Swarms Only, Treat as Wasp Swarms) (x3)]]_; __4th __  _[[Spells/Honeyed Words|Honeyed Words (x3)]]_; __2nd __  _[[Spells/Augury|Augury (At Will)]]_, _[[Spells/Speak with Animals|Speak with Animals (Constant, Insects Only)]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will, Male Human Only)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Commune|Commune]]_, _[[Spells/Geas|Geas]]_, _[[Spells/Reincarnate|Reincarnate]]_"
+    desc: "_Commune_, _Geas_, _Reincarnate_"
 
   - name: "Apitoxin"
     desc: " (poison) **Saving Throw** DC 25 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison damage, [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 3d6 poison damage and enfeebled 1 (1 round)\n\n**Stage 3** 3d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"

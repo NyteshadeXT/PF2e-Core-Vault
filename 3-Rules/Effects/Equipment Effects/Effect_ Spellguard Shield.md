@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Spellguard Shield|Spellguard Shield]]
+Granted by [[Equipment/Spellguard Shield|Spellguard Shield]]
+
+You gain a +2 circumstance bonus to saving throws against spells that target you (as well as to AC), and you can Shield Block spells that target you if you have that action.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

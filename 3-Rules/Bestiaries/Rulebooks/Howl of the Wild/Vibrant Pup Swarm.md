@@ -63,7 +63,7 @@ attacks:
   - name: ""
 
   - name: "Focused Reflection"
-    desc: "`pf2:2` (fire,light) **Requirements** The vibrant pup swarm is in bright light\n* * *\n\n**Effect** The swarm simultaneously turns to focus the light in an arcing beam, dealing 6d12 fire damage to all creatures in a @Template[cone|distance:30] (DC 30 Reflex check save). A creature that fails its save is also [[Conditions/Blinded|Blinded]] for 1 round (or 1 minute on a critical failure). The swarm can't use Focused Reflection again for 1d4 rounds."
+    desc: "`pf2:2` (fire,light) **Requirements** The vibrant pup swarm is in bright light\n* * *\n\n**Effect** The swarm simultaneously turns to focus the light in an arcing beam, dealing 6d12 fire damage to all creatures in a 30-foot cone (DC 30 Reflex check save). A creature that fails its save is also [[Conditions/Blinded|Blinded]] for 1 round (or 1 minute on a critical failure). The swarm can't use Focused Reflection again for 1d4 rounds."
 
   - name: "Swarming Bites"
     desc: "`pf2:1`  Each enemy in the swarm's space takes 2d6 piercing damage (DC 30 Reflex check save)."

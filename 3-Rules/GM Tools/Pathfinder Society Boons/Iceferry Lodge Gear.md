@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Iceferry Lodge Gear"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.JGBC3npfrYNFmIMB"
 license: OGL
 ---
 # Iceferry Lodge Gear
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

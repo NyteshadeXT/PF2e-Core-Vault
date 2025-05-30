@@ -57,6 +57,12 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Glaive|Glaive]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Infernal Detonations"
@@ -65,20 +71,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Glaive +11 (deadly d8, forceful, magical, reach 10 feet, unholy)\n__Damage__  1d8 + 5 slashing plus infernal-wound 1d6 spirit plus infernal-wound"
+  - name: "**Melee** `pf2:1` Glaive"
+    desc: "+11 (deadly d8, forceful, magical, reach 10 feet, unholy)\n__Damage__  1d8 + 5 slashing plus infernal-wound 1d6 spirit plus infernal-wound"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile, magical, unholy)\n__Damage__  1d6 + 5 slashing 1d4 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, magical, unarmed, unholy)\n__Damage__  1d6 + 5 slashing 1d4 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Beard +12 (magical, unholy)\n__Damage__  1d4 + 5 piercing plus avernal-fever"
+  - name: "**Melee** `pf2:1` Beard"
+    desc: "+12 (magical, unholy)\n__Damage__  1d4 + 5 piercing plus avernal-fever"
 
   - name: "Divine Innate Spells"
     desc: "DC 17, attack +9; __4th __ (1 slots) _[[Spells/Translocate|Dimension Door (At Will)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Diabolic Pact|Infernal Pact]]_"
+    desc: "_Infernal Pact_"
 
   - name: "Avernal Fever"
     desc: " (disease) **Saving Throw** DC 19 Fortitude check\n* * *\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 2]] (1 day)"

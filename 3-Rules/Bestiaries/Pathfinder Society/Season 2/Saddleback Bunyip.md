@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d10 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d10 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +11 (agile)\n__Damage__  1d8 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+11 (agile)\n__Damage__  1d8 + 4 bludgeoning"
 
   - name: "Blood Frenzy"
     desc: "  **Requirements** The bunyip is not [[Conditions/Fatigued|Fatigued]] or already in a frenzy.\n\n**Trigger** The bunyip deals bleed damage to a living creature.\n* * *\n\n**Effect** The bunyip flies into a frenzy that lasts 1 minute. While frenzied, the bunyip gains a +4 status bonus to damage rolls with its jaws, gains 8 temporary HP that go away at the end of the frenzy, and takes a -2 penalty to AC."

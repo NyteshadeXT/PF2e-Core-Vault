@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Actions/Shielding Wave|Shielding Wave]]
+
 You gain resistance to acid or fire damage.
 
 *Source: Pathfinder Howl of the Wild*

@@ -37,7 +37,7 @@ perception:
 languages: "Fey; speak with plants; telepathy 50 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +14, Nature: +13, Acrobatics: +13, Athletics: +14, Nature: +13, Warfare Lore: +13"
+    desc: "Acrobatics: +13, Athletics: +14, Nature: +13, Warfare Lore: +13"
 abilityMods: [5, 4, 4, 2, 4, 1]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"

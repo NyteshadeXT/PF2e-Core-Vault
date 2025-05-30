@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Life-Giving Form|Life-Giving Form]]
+Granted by [[Spells/Life-Giving Form|Life-Giving Form]]
 
 Your body exudes bright light like a torch. You gain resistance to precision damage and weakness to void damage, and your unarmed Strikes deal extra vitality damage.
 

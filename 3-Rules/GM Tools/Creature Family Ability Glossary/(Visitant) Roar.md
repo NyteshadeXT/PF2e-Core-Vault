@@ -9,14 +9,14 @@ tags:
   - trait/fear
   - trait/mental
   - trait/primal
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.vOocS1EiRCXPtbgB"
 license: OGL
 ---
 # (Visitant) Roar `pf2:1`
 
-### [[auditory]][[concentrate]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[primal]]
+### [[auditory]][[concentrate]][[emotion]][[fear]][[mental]][[primal]]
 
 **Category** offensive; 
 

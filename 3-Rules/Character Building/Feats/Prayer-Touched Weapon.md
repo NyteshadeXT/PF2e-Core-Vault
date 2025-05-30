@@ -28,5 +28,5 @@ license: OGL
 
 You coat a weapon you're wielding in prayers and the divine power given to you by your deity. Until the end of your turn, the weapon deals an extra 1d6 vitality damage. As usual for vitality damage, this damage harms only undead and creatures with void healing.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

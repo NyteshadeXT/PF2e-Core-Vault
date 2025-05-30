@@ -4,7 +4,7 @@ title: "Position the Hunters"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.236E6kEEayy8h2CF"
 license: OGL

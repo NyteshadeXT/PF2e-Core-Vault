@@ -14,7 +14,7 @@ license: ORC
 ---
 # Awesome Blow
 ## Feat 14
-### [[barbarian]][[concentrate]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[concentrate]][[rage]]
 
 **Category** class; 
 

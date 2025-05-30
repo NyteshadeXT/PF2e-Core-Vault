@@ -3,7 +3,7 @@ title: "Wight (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.ZPjQkKVMi3xoPcU0" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.DBTbqI9QQRtlJwWh" 
 tags:
   - pf2e/creature/type/undead
   - pf2e/creature/type/unholy
@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +12 (agile)\n__Damage__  1d6 + 6 slashing plus corrupting-spite"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+12 (agile, unarmed)\n__Damage__  1d6 + 6 slashing plus corrupting-spite"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +12 (agile, versatile s)\n__Damage__  1d4 + 6 piercing plus corrupting-spite"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+12 (agile, versatile s)\n__Damage__  1d4 + 6 piercing plus corrupting-spite"
 
   - name: "Corrupting Spite"
     desc: " (divine,void) When the wight deals damage to a living creature with its claw or dagger Strike, the wight regains 2 void healing Hit Points and the target must succeed at a DC 17 Fortitude check save or take 2 damage that can't be healed. The wight can use corrupting spite multiple times, but a single creature can't take more than 8 unhealable damage.\n\nEach full night of rest heals 2 of the unhealable damage, and a full day of bed rest increases the recovery to 4 of the unhealable damage."

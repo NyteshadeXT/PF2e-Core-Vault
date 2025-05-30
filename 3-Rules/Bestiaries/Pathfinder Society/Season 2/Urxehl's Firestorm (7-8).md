@@ -4,7 +4,6 @@ obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
   - environmental
-  - evil
   - fire
   - magical
   - unholy
@@ -27,10 +26,9 @@ level: "Hazard 6"
 
 trait_06: "Complex"
 trait_01: [[environmental]]
-trait_02: [[evil]]
-trait_03: [[fire]]
-trait_04: [[magical]]
-trait_05: [[unholy]]
+trait_02: [[fire]]
+trait_03: [[magical]]
+trait_04: [[unholy]]
 modifier: 15
 sourcebook: "_Pathfinder Society Scenario #2-22: Breaking the Storm: Excising Ruination_"
 perception:

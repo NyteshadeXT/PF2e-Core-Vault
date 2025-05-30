@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/PZO90183_NWANYIAN_ARCHER.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Nwanyian Archer"
 level: "Creature 7"
@@ -66,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +18 (agile, finesse, versatile s)\n__Damage__  1d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+18 (agile, finesse, versatile s)\n__Damage__  1d6 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +18 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+18 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 8 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The archer's Strikes deal an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

@@ -61,14 +61,17 @@ abilities_mid:
   - name: "Robe Tangle"
     desc: "`pf2:r` (divine,move) **Trigger** An adjacent creature misses the Iroran mummy with a melee Strike\n* * *\n\n**Effect** The mummy swaps positions with the attacker, and the attacker becomes [[Conditions/Grabbed|Grabbed]] by the mummy's animated sash. The Escape DC is 29, the Force Open DC is 27, and a creature can sever the sash by hitting AC 27 and dealing at least 20 slashing damage. The mummy can't use this reaction again until they've Interacted to reclaim the sash."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  2d10 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+23 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  2d10 + 11 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shuriken +23 (agile, thrown 20 ft.)\n__Damage__  2d4 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Shuriken"
+    desc: "+23 (agile, thrown 20 ft.)\n__Damage__  2d4 + 11 piercing"
 
   - name: "Monk Ki Spells"
     desc: "3 Focus Points, DC 29, attack +21; __5th __  _[[Spells/Qi Blast|Ki Blast]]_, _[[Spells/Qi Rush|Ki Rush]]_, _[[Spells/Inner Upheaval|Ki Strike]]_, _[[Spells/Wind Jump|Wind Jump]]_"

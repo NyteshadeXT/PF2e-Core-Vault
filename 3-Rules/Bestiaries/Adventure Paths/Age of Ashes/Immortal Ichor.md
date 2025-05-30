@@ -52,14 +52,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 15 (Deactivated by Holy)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Immortality"
     desc: "  The immortal ichor doesn't age, nor does it need to eat or breathe. It can die only as a result of violence."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +27 ()\n__Damage__  3d8 + 12 bludgeoning plus mental-erosion"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+27 (unarmed)\n__Damage__  3d8 + 12 bludgeoning plus mental-erosion"
 
   - name: "Divine Innate Spells"
     desc: "DC 37, attack +31; __7th __  _[[Spells/Charm|Charm (x3)]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Possession|Possession]]_, _[[Spells/Suggestion|Suggestion]]_; __6th __  _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Telekinetic Haul|Telekinetic Haul (At Will)]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_; __2nd __  _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver (At Will)]]_; __1st __  _[[Spells/Charm|Charm (At Will)]]_, _[[Spells/Command|Command (At Will)]]_\n__Cantrips__  __(7th)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

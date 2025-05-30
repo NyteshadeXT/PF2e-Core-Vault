@@ -56,25 +56,28 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 60 feet. DC 29 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "[[Creature Family Ability Glossary/(Lich) Rejuvenation|Rejuvenation]]"
     desc: " (arcane) When a lich is destroyed, its soul immediately transfers to its _[[Equipment/Lich Soul Cage|Soul Cage]]_. A lich can be permanently destroyed only if its _soul cage_ is found and destroyed."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hand +30 (finesse, magical)\n__Damage__  5d8 void plus lich-paralyzing-touch"
+  - name: "**Melee** `pf2:1` Hand"
+    desc: "+30 (finesse, magical)\n__Damage__  5d8 void plus lich-paralyzing-touch"
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +23 (magical, two-hand d8)\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+23 (magical, two-hand d8)\n__Damage__  1d4 + 6 bludgeoning"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 37, attack +29; __8th __  _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Polar Ray|Polar Ray]]_; __7th __  _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Spell Turning|Spell Turning]]_; __6th __  _[[Spells/Mislead|Mislead]]_, _[[Spells/Purple Worm Sting|Purple Worm Sting]]_; __5th __  _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_; __3rd __  _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead]]_"
+    desc: "_Create Undead_"
 
   - name: "[[Creature Family Ability Glossary/(Lich) Drain Soul Cage|Drain Soul Cage]]"
     desc: "  **Frequency** once per day\n* * *\n\n**Effect** The lich taps into its _[[Equipment/Lich Soul Cage|Soul Cage's]]_ power to cast any arcane spell up to 6th level, even if the spell being cast is not one of the lich's prepared spells. The lich's _soul cage_ doesn't need to be present for the lich to use this ability."

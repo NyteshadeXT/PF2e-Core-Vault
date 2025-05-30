@@ -21,5 +21,5 @@ license: ORC
 
 You've found a fellow poppet on the cusp of awakening and decided to help. You gain a poppet familiar.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

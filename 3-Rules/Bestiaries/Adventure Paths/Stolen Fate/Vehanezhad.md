@@ -56,13 +56,16 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Extra Reaction"
     desc: "  The dragon gains 2 reactions at the start of each of their turns."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 37 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 37 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Reflect Spell"
     desc: "`pf2:r`  **Trigger** Vehanezhad is targeted by a ranged spell attack roll\n* * *\n\n**Effect** Vehanezhad adjusts a wing and gains a +4 circumstance bonus to AC against the triggering attack. If the attack misses, the spell reflects at the caster, who must roll a second ranged spell attack roll against their own AC to determine if the spell hits them instead."
@@ -76,20 +79,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +35 (magical, reach 20 feet)\n__Damage__  3d8 + 17 slashing plus crystal-corruption 4d6 piercing plus crystal-corruption"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+35 (magical, reach 20 feet, unarmed)\n__Damage__  3d8 + 17 slashing plus crystal-corruption 4d6 piercing plus crystal-corruption"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +35 (agile, magical, reach 15 feet)\n__Damage__  3d10 + 17 slashing plus crystal-corruption"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+35 (agile, magical, reach 15 feet, unarmed)\n__Damage__  3d10 + 17 slashing plus crystal-corruption"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +33 (magical, reach 25 feet)\n__Damage__  2d12 + 17 bludgeoning plus crystal-corruption"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+33 (magical, reach 25 feet)\n__Damage__  2d12 + 17 bludgeoning plus crystal-corruption"
 
   - name: "Arcane Innate Spells"
     desc: "DC 43, attack +35; __9th __  _[[Spells/Illusory Creature|Illusory Creature (At Will)]]_, _[[Spells/Illusory Object|Illusory Object (At Will)]]_; __8th __  _[[Spells/Mirage|Hallucinatory Terrain (At Will)]]_, _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_; __7th __  _[[Spells/Project Image|Project Image]]_; __1st __  _[[Spells/Create Water|Create Water]]_\n__Cantrips__  __(9th)__ _[[Spells/Ghost Sound|Ghost Sound]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (primal) Vehanezhad breathes a flurry of piercing crystals that deals 19d6 piercing damage in a @Template[cone|distance:60] (DC 40 Reflex check save). A creature who takes damage from this breath weapon is exposed to crystal corruption. Vehanezhad can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (primal) Vehanezhad breathes a flurry of piercing crystals that deals 19d6 piercing damage in a 60-foot cone (DC 40 Reflex check save). A creature who takes damage from this breath weapon is exposed to crystal corruption. Vehanezhad can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Crystal Corruption"
     desc: " (arcane,curse,incapacitation) Creatures afflicted by this curse slowly turn to solid crystal. This affliction's sickened, slowed, and paralyzed conditions can't be removed until the affliction itself is removed. Creatures with both the earth and elemental traits instead become carriers and suffer no ill effects aside from gaining the weakness to sonic.\n\n**Saving Throw** DC 40 Fortitude check\n\n**Stage 1** sickened 1 (1 hour)\n\n**Stage 2** weakness 5 to sonic and [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 3** weakness 5 to sonic and [[Conditions/Slowed|Slowed 1]] (1 day)\n\n**Stage 4** weakness 10 to sonic and [[Conditions/Paralyzed|Paralyzed]] (1 day)\n\n**Stage 5** weakness 10 to sonic, and the creature is permanently [[Conditions/Petrified|Petrified]]."

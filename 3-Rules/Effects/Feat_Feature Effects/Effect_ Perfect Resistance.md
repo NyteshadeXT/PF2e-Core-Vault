@@ -20,5 +20,5 @@ Granted by [[Feats/Perfect Resistance|Perfect Resistance]]
 
 After using a Student of Perfection ki spell, the resistance increases to be equal to your level for 1 round.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

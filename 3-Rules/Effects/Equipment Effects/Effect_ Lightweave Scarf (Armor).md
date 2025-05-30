@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Lightweave Scarf|Lightweave Scarf]], [[Lightweave Scarf (Greater)|Lightweave Scarf (Greater)]]
+Granted by [[Equipment/Lightweave Scarf|Lightweave Scarf]], [[Equipment/Lightweave Scarf (Greater)|Lightweave Scarf (Greater)]], [[Equipment/Lightweave Scarf (Major)|Lightweave Scarf (Major)]]
 
-You gain a +2 item bonus to saving throws against illusions and Deception checks to Create a Diversion.
+You gain an item bonus to saving throws against illusions and Deception checks to Create a Diversion.
 
-*Source: *
+*Source: Pathfinder Treasure Vault*
 *OGL*

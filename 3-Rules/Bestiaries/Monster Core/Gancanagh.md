@@ -55,6 +55,12 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Rapier|Silver Rapier]], [[Equipment/Virtuoso silver flute|Silver Virtuoso Flute]]"
+  - name: "[[Bestiary Ability Glossary/At-Will Spells|At-Will Spells]]"
+    desc: "  The monster can cast its at-will spells any number of times without using up spell slots."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Vulnerable to Smoke"
@@ -63,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Silver Rapier +13 (deadly d10, disarm, finesse, holy, magical)\n__Damage__  1d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Silver Rapier"
+    desc: "+13 (deadly d10, disarm, finesse, holy, magical)\n__Damage__  1d6 + 7 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 23, attack +15; __4th __  _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Heroism|Heroism]]_; __2nd __  _[[Spells/Heal|Heal]]_, _[[Spells/Sure Footing|Sure Footing]]_; __1st __  _[[Spells/Charm|Charm (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The gancanagh can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The gancanagh can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning).\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Invigorating Passion"
     desc: "`pf2:2` (divine,emotion,mental) The gancanagh embraces or kisses a willing creature adjacent to them, infusing that creature with their invigorating passion. For 10 minutes, the creature gains a +1 status bonus to attack rolls and 10 temporary Hit Points. After that time, the target becomes [[Conditions/Fatigued|Fatigued]] for 10 minutes unless it succeeds at a DC 21 Fortitude check save.\n\n[[Bestiary Effects/Effect_ Invigorating Passion|Effect: Invigorating Passion]]"

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Zon-Kuthon - Major Curse"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/curse
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.SaiJX9KBN3lC0RUy"
 license: OGL
 ---
 # Zon-Kuthon - Major Curse
-
+## Feat 1
 ### 
 
 **Category** curse; 
@@ -23,5 +23,5 @@ You lose that which you cherish the most forever, and lose the ability to feel j
 
 If Zon-Kuthon feels you are ready to renounce, destroy, mutilate, or torture that which you once cherished most, he might return it to you to allow you to do so.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

@@ -66,11 +66,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) Restoring Grimbal's head from area **F4** to his remains in this room allows him to move on to the afterlife."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +16 (agile, finesse, magical)\n__Damage__  2d8 + 6 void plus drain-mind"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+16 (agile, finesse, magical)\n__Damage__  2d8 + 6 void plus drain-mind"
 
   - name: "Drain Mind"
     desc: " (divine) When Grimbal damages a living creature with his ghostly hand Strike, the ghost gains 5 temporary Hit Points, and the creature must succeed at a DC 24 Will check save or become [[Conditions/Stupefied|Stupefied 1]]. Further damage dealt by the ghost increases this stupefied value by 1 on a failed save to a maximum of [[Conditions/Stupefied|Stupefied 4]]. Each time a creature affected by drain mind gets a full night's rest, decrease its stupefied value caused by drain mind by 1."

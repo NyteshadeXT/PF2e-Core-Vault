@@ -4,8 +4,7 @@ title: "Earn Income"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/downtime
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j"
@@ -13,7 +12,7 @@ license: ORC
 ---
 # Earn Income
 
-### [[downtime]][[skill]]
+### [[downtime]]
 
 **Category** interaction; 
 

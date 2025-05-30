@@ -20,7 +20,7 @@ license: ORC
 
 
 
-The primal magic in your soul offers the patient earth's timeless counsel. You learn the [[Atone|Atone]] ritual. When you use the _atone_ ritual on yakshas and you roll a critical failure, you get a failure instead, and if you roll a success, you get a critical success instead.
+The primal magic in your soul offers the patient earth's timeless counsel. You learn the [[Spells/Atone|Atone]] ritual. When you use the _atone_ ritual on yakshas and you roll a critical failure, you get a failure instead, and if you roll a success, you get a critical success instead.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

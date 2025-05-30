@@ -4,15 +4,17 @@ title: "Find Fault"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/common
+  - trait/
+  - category/defensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.e5JscXqvBUC867oo"
-license: OGL
+license: ORC
 ---
 # Find Fault `pf2:r`
 
-### [[3-Rules/Rule References/Concentrate]]
+### [[concentrate]]
 
-
+**Category** defensive; 
 
 
 
@@ -23,5 +25,5 @@ license: OGL
 
 **Effect** You find some kind of fault with the magic, using that flaw to protect yourself from the effect. You gain a +1 circumstance bonus to your saving throw against the triggering effect, which increases to a +2 circumstance bonus if the effect is divine and originates from a worshipper of the deity you chose for your grudge.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
-*OGL*
+*Source: Pathfinder War of Immortals*
+*ORC*

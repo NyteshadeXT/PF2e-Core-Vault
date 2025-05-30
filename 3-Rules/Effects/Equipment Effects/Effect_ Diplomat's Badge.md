@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Granted by activating [[Diplomat's Badge|Diplomat's Badge]].
+Granted by [[Equipment/Diplomat's Badge|Diplomat's Badge]]
+
+The badge's bonus increases to +2 for Diplomacy checks with creatures of that group for the rest of the day.
 
 *Source: Pathfinder GM Core*
 *ORC*

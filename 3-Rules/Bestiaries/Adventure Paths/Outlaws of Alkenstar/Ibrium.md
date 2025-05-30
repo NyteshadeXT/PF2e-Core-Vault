@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Glass Spike +21 (deadly d12, earth, finesse, magical)\n__Damage__  3d10 piercing"
+  - name: "**Melee** `pf2:1` Glass Spike"
+    desc: "+21 (deadly d12, earth, finesse, magical)\n__Damage__  3d10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Glass Spike +21 (deadly d12, earth, magical, range increment 60 feet)\n__Damage__  3d10 piercing"
+  - name: "**Ranged** `pf2:1` Glass Spike"
+    desc: "+21 (deadly d12, earth, magical, range increment 60 feet)\n__Damage__  3d10 piercing"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 33, attack +25; __5th __  _[[Spells/Elemental Form|Elemental Form (Earth Only)]]_, _[[Spells/Impaling Spike|Impaling Spike]]_; __4th __  _[[Spells/Fly|Fly]]_, _[[Spells/Mountain Resilience|Stoneskin]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __  _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Fireball|Fireball]]_; __2nd __  _[[Spells/Heat Metal|Heat Metal]]_; __1st __  _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Pummeling Rubble|Pummeling Rubble]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"

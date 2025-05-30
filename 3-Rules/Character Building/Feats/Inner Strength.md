@@ -14,7 +14,7 @@ license: ORC
 ---
 # Inner Strength `pf2:1`
 ## Feat 6
-### [[barbarian]][[concentrate]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[concentrate]][[rage]]
 
 **Category** class; 
 

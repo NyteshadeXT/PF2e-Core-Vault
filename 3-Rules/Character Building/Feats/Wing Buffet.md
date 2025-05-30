@@ -11,7 +11,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.tPi6FAnHYe6ijuyk"
 license: ORC
 ---
-# Wing Buffet
+# Wing Buffet `pf2:2`
 ## Feat 9
 ### [[attack]][[dragonblood]]
 

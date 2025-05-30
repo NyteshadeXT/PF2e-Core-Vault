@@ -28,5 +28,5 @@ You attack in an unceasing flurry of charging headbutts. Stride or Climb and the
 
 Both Strikes count toward your multiple attack penalty, but the penalty doesn't increase until you've made both of them.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

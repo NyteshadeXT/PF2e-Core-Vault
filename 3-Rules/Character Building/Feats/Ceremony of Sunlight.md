@@ -20,5 +20,5 @@ license: OGL
 
 You have learned how to master the power contained within sunlight, just like the trees that form your body. Your [[Ancestry Features/Sunlight Healing|Sunlight Healing]] recovers 1d8 Hit Points per level.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

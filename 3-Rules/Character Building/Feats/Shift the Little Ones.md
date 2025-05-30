@@ -12,7 +12,7 @@ license: ORC
 ---
 # Shift the Little Ones `pf2:1`
 ## Feat 13
-### [[Minotaur]]
+### [[minotaur]]
 
 **Category** ancestry; 
 

@@ -26,5 +26,5 @@ license: OGL
 
 Your wound yawns open, appalling your attacker. The attacker must succeed at a Fortitude check saving throw against your class or spell DC, whichever is higher, or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure). It can't recover from the sickened condition while it's adjacent to you.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

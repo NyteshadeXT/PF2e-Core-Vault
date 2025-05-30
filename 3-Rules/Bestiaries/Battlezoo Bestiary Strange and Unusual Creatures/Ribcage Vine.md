@@ -39,7 +39,7 @@ perception:
 languages: "Necril; can&#x27;t speak"
 skills:
   - name: "Skills"
-    desc: "Athletics: +16, Stealth: +13, Athletics: +16, Stealth: +13"
+    desc: "Athletics: +16, Stealth: +13"
 abilityMods: [5, 3, 5, -2, 0, 0]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rib Leaf +15 (reach 10 feet)\n__Damage__  2d8 + 7 piercing plus grab"
+  - name: "**Melee** `pf2:1` Rib Leaf"
+    desc: "+15 (reach 10 feet)\n__Damage__  2d8 + 7 piercing plus grab"
 
   - name: "Feed the Heart"
     desc: "`pf2:1`  **Requirements** The ribcage vine has a creature [[undefined]]\n* * *\n\n**Effect** The ribcage vine feeds on the vital essence of the creature. The grabbed creature takes 2d8 void damage, with a basic DC 22 Fortitude check save, and the ribcage vine regains a number of Hit Points equal to the damage taken."

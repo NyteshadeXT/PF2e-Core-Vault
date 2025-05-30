@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/A/aeon-stone-(pearlescent-pyramid).md",
+                "file": "3-Rules/Character Building/Equipment/A/aeon-stone-(pale-orange-rhomboid).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "aeon-stone-(pearlescent-pyramid)"
+              "title": "aeon-stone-(pale-orange-rhomboid)"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/DoTo List.md",
+                "file": "zz-Templates/Markdown/Update Adventure YAML.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DoTo List"
+              "title": "Update Adventure YAML"
             }
           },
           {
@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Item Card Template"
             }
+          },
+          {
+            "id": "ebfa4969477ec5e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Session Journals/Age-of-Worms/AoW Session 016.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "AoW Session 016"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 317.5
   },
   "right": {
     "id": "96fe26c9abf98fe0",
@@ -253,10 +267,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "aba493b7c0481141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0209a6e3d014d07c",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,35 +311,42 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a18fb4975270d304",
+  "active": "ebfa4969477ec5e7",
   "lastOpenFiles": [
-    "3-Rules/Effects/Conditions/Drained.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-(pearlescent-pyramid).md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-(nourishing).md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-mottled-ellipsoid.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-gold-nodule.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-lavender-and-green-ellipsoid.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-formulating.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-envisioning.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-dusty-rose-prism.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-cymophane-cabochon.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-delaying.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-consumed.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-clear-quartz-octagon.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-black-pearl.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-black-disc.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-azure-briolette.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-amplifying.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-amber-sphere.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-agate-ellipsoid.md",
-    "3-Rules/Character Building/Equipment/A/adze.md",
-    "zz-Attachments/adze.png",
-    "3-Rules/Character Building/Equipment/A/advancing-greater.md",
-    "3-Rules/Character Building/Equipment/A/admirers-bouquet.md",
-    "3-Rules/Character Building/Equipment/A/admonishing-band.md",
-    "3-Rules/Character Building/Equipment/A/advancing.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 014.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 015.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 016.md",
+    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
+    "zz-Templates/Markdown/Update Session Note.md",
+    "zz-Templates/Markdown/Update Adventure YAML.md",
+    "zz-Templates/GM Templates/Story Notes/Template - Session Note.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 013.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 012.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 011.md",
+    "2-Session Journals/Age-of-Worms/Old/Aow Session 010.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 008.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 006.md",
+    "4-Campaign/Age of Worms/Completed/The Whispering Cairn.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 004.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 005.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 007.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 009.md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-(pale-orange-rhomboid).md",
     "zz-Templates/Markdown/Item Card Template.md",
+    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
     "1-GM Toolkit/DoTo List.md",
+    "3-Rules/Character Building/Equipment/Homebrew/kyuss-worm-paste.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "3-Rules/Bestiaries/Uniques/Shukak.md",
+    "zz-Templates/GM Templates/Locations/Template - Adventure.md",
+    "zz-Attachments/Kyuss Spawnling.png",
+    "zz-Attachments/Egg Chamber.png",
+    "zz-Attachments/Findings in the Egg Chamber.png",
+    "zz-Attachments/Ilthane's Kobolds.png",
+    "zz-Attachments/image-4.png",
+    "zz-Attachments/Shukak.png",
+    "zz-Attachments/Marzena.png",
+    "zz-Attachments/adze.png",
     "2-Session Journals/Age-of-Worms/Old",
     "3-Rules/Character Building/Equipment/Z",
     "3-Rules/Character Building/Equipment/Y",
@@ -320,10 +358,6 @@
     "3-Rules/Character Building/Equipment/S",
     "3-Rules/Character Building/Equipment/R",
     "zz-Attachments/Twisted Branch Lair.png",
-    "zz-Attachments/image-3.png",
-    "zz-Attachments/spawn-of-kyuss.png",
-    "zz-Attachments/Blackwall Keep Map.png",
-    "zz-Attachments/Blackwall Keep.png",
-    "zz-Attachments/accompaniment-cloak.png"
+    "zz-Attachments/image-3.png"
   ]
 }

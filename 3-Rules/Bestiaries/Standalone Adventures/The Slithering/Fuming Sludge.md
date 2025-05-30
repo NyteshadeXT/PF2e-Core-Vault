@@ -59,25 +59,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +17 ()\n__Damage__  2d10 + 6 bludgeoning plus grab 1d8 fire plus grab"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+17 (unarmed)\n__Damage__  2d10 + 6 bludgeoning plus grab 1d8 fire plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Ejected Glob +17 (brutal, range increment 20 feet)\n__Damage__  3d6 + 6 bludgeoning plus cooling-glob 1d8 fire plus cooling-glob"
+  - name: "**Ranged** `pf2:1` Ejected Glob"
+    desc: "+17 (brutal, range increment 20 feet)\n__Damage__  3d6 + 6 bludgeoning plus cooling-glob 1d8 fire plus cooling-glob"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d8+6 bludgeoning plus 1d8 persistent fire, DC 24 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d8+6 bludgeoning plus 1d8 persistent fire, DC 24 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Cooling Glob"
     desc: "  A fuming sludge's ejected globs cling to targets.\n\nA creature hit by an ejected glob Strike is [[Conditions/Encumbered|Encumbered]] for 1 round.\n\nIf the attack was a critical hit, the creature is instead [[Conditions/Restrained|Restrained]] for 1 round ([[Actions/Escape|Escape]] DC 24)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

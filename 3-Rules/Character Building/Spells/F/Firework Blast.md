@@ -34,5 +34,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You create a massive display of loud and colorful explosions. The explosions deal 4d6 fire damage. Creatures that fail their saves must attempt an additional Fortitude check save. Creatures that critically fail their saves take a -2 circumstance penalty to this Fortitude save.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Blinded|Blinded]] and [[Conditions/Deafened|Deafened]] for 1 round.\n\n**Critical Failure** The creature is blinded for 1 round and [[Conditions/Dazzled|Dazzled]] and deafened for 1 minute.\n* * *\n\n**Heightened (+1)** The damage increases by 2d6."
-sourcebook: "_Pathfinder Lost Omens: Firebrands_"
+sourcebook: "_Pathfinder Lost Omens Firebrands_"
 ```

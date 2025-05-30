@@ -51,6 +51,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Retract Body"
@@ -59,17 +62,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +32 (magical, reach 15 feet)\n__Damage__  3d8 + 17 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+32 (magical, reach 15 feet, unarmed)\n__Damage__  3d8 + 17 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +32 (agile, magical, reach 10 feet)\n__Damage__  3d6 + 17 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+32 (agile, magical, reach 10 feet, unarmed)\n__Damage__  3d6 + 17 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +30 (magical, reach 20 feet)\n__Damage__  2d10 + 17 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+30 (magical, reach 20 feet)\n__Damage__  2d10 + 17 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mental Blast +31 (range 100 feet)\n__Damage__  6d6 + 6 mental"
+  - name: "**Ranged** `pf2:1` Mental Blast"
+    desc: "+31 (range 100 feet)\n__Damage__  6d6 + 6 mental"
 
   - name: "Occult Prepared Spells"
     desc: "DC 37, attack +29; __6th __  _[[Spells/Scrying|Scrying]]_, _[[Spells/Teleport|Teleport]]_; __4th __  _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Detect Scrying|Detect Scrying]]_, _[[Spells/Translocate|Translocate]]_; __3rd __  _[[Spells/Haste|Haste]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/See the Unseen|See the Unseen]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_, _[[Spells/Translate|Translate]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Sleep|Sleep]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Sure Strike|Sure Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -93,7 +96,7 @@ attacks:
     desc: "`pf2:3` (concentrate,manipulate,occult,polymorph) **Frequency** once per hour\n* * *\n\n**Effect** Vatumledor quickly reshapes his body into the form of a generic humanoid figure. This has the effects of humanoid form except that it only lasts 1 minute, and he doesn't gain the +4 status bonus to Deception as the transformation makes use of his own scales and plating to crudely mimic a humanoid form. Vatumledor can Dismiss the effect. Whenever the effect ends, Vatumledor leaves behind scraps of magically conjured flesh, which could give away his presence."
 
   - name: "Smoke Breath"
-    desc: "`pf2:2` (occult,poison) Vatumledor unleashes a @Template[cone|distance:60] of smoke that deals 16d6 poison damage (DC 39 Fortitude check save). The smoke remains for 1 minute, obscuring sight with the effects of mist in the cone's area. He can't use Smoke Breath again for 1d4 rounds."
+    desc: "`pf2:2` (occult,poison) Vatumledor unleashes a 60-foot cone of smoke that deals 16d6 poison damage (DC 39 Fortitude check save). The smoke remains for 1 minute, obscuring sight with the effects of mist in the cone's area. He can't use Smoke Breath again for 1d4 rounds."
 
   - name: "Sneak Attack"
     desc: "  Vatumledor's Strikes deal an additional 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] targets."

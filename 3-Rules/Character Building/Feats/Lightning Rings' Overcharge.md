@@ -14,7 +14,7 @@ license: ORC
 ---
 # Lightning Rings' Overcharge
 ## Feat 12
-### [[archetype]][[3-Rules/trait_reference/E/electricity]][[magical]]
+### [[archetype]][[electricity]][[magical]]
 
 **Category** class; 
 
@@ -24,5 +24,5 @@ license: ORC
 * * *
 Your familiar can adopt an electrical form to empower weapon strikes. Your familiar gains the [[Familiar Abilities/Lightning Armillary|Lightning Armillary]] ability.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

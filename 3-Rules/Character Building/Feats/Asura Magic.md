@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Faultspawn
 * * *
-You can cast [[Blood Vendetta|Blood Vendetta]] and [[Death Knell|Death Knell]] once per day each as 2nd-rank divine innate spells.
+You can cast [[Spells/Blood Vendetta|Blood Vendetta]] and [[Spells/Death Knell|Death Knell]] once per day each as 2nd-rank divine innate spells.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

@@ -53,28 +53,31 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Staff|Staff]], [[Equipment/Sickle|+1 Sickle]], [[Equipment/Hide Armor|Hide Armor]], Key to the Ringmaster's Wagon, Rat Hood"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +9 (agile, finesse, magical, trip)\n__Damage__  1d4 + 3 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+9 (agile, finesse, magical, trip)\n__Damage__  1d4 + 3 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +5 (two-hand d8)\n__Damage__  1d4 - 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+5 (two-hand d8)\n__Damage__  1d4 - 1 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +12 (agile, finesse, magical, trip)\n__Damage__  1d4 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+12 (agile, finesse, magical, trip)\n__Damage__  1d4 slashing"
 
   - name: "Primal Spontaneous Spells"
-    desc: "DC 21, attack +11; __2nd __ (2 slots) _[[Spells/Darkvision|Darkvision]]_, _[[Spells/Entangling Flora|Entangle]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Goblin Pox|Goblin Pox]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(2nd)__ _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 21, attack +11; __2nd __ (2 slots) _[[Spells/Darkvision|Darkvision]]_, _[[Spells/Entangling Flora|Entangle]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Goblin Pox|Goblin Pox]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Primal Innate Spells"
     desc: "DC 19, attack +9; __3rd __  _[[Spells/Animal Vision|Animal Vision (At Will) (Target Must be a Rodent, Serpent, or Similar Animal Considered Troublesome by Humans)]]_; __2nd __ (1 slots) _[[Spells/Paranoia|Paranoia (Animals Only)]]_; __1st __ (3 slots) _[[Spells/Charm|Charm (Animals Only) (x3)]]_\n__Constant__  __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"
 
   - name: "Keen Eyes"
-    desc: "  Nemmia has a +2 circumstance bonus when using the Seek action to find hidden or undetected creatures within 30 feet. When she targets a concealed or hidden opponent, she reduces the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
+    desc: "  Nemmia has a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] creatures within 30 feet. When she targets a [[Conditions/Concealed|Concealed]] or hidden opponent, she reduces the DC of the flat check to DC 3 Flat check for a concealed target or DC 9 Flat check for a hidden one."
 
   - name: "Reach Spell"
     desc: "`pf2:1`  If the next action Nemmia takes is to Cast a Spell that has a range, increase that spell's range by 30 feet."

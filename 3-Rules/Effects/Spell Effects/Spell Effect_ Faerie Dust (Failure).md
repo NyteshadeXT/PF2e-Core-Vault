@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Faerie Dust|Faerie Dust]]
+Granted by [[Spells/Faerie Dust|Faerie Dust]]
 
 The creature takes a -2 status penalty to Perception checks and Will saves.
 

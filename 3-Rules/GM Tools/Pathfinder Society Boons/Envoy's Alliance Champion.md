@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Envoy's Alliance Champion"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.jzJ575vAsw2MaRgo"
 license: OGL
 ---
 # Envoy's Alliance Champion
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

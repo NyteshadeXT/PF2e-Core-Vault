@@ -50,22 +50,25 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +13 (acid)\n__Damage__  1d8 + 4 piercing 1d6 acid"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+13 (acid)\n__Damage__  1d8 + 4 piercing 1d6 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Spit +10 (acid, range 30 feet)\n__Damage__  3d6 acid"
+  - name: "**Ranged** `pf2:1` Acid Spit"
+    desc: "+10 (acid, range 30 feet)\n__Damage__  3d6 acid"
 
   - name: "Armor-Rending Bite"
     desc: "`pf2:2`  The ankhrav makes a mandibles Strike; if the Strike hits, the target's armor takes the damage and the acid damage bypasses the armor's Hardness."
 
   - name: "Spray Acid"
-    desc: "`pf2:2` (acid) **Frequency** once per hour\n* * *\n\n**Effect** The ankhrav spews acid in a @Template[cone|distance:30], dealing 3d6 acid damage and 1d6 persistent acid damage (DC 20 Reflex check save)."
+    desc: "`pf2:2` (acid) **Frequency** once per hour\n* * *\n\n**Effect** The ankhrav spews acid in a 30-foot cone, dealing 3d6 acid damage and 1d6 persistent acid damage (DC 20 Reflex check save)."
  
 ```
 

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Tengu Feather Fan
 * * *
-Your fan can stir up even more powerful winds. You can use the Wave Fan activation one additional time per day. Add a 3rd-rank [[Wall of Wind|Wall of Wind]] spell to the spells contained within your fan.
+Your fan can stir up even more powerful winds. You can use the Wave Fan activation one additional time per day. Add a 3rd-rank [[Spells/Wall of Wind|Wall of Wind]] spell to the spells contained within your fan.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

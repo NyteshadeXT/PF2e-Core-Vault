@@ -31,5 +31,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "**Requirements** You're wielding a one-handed weapon in the sword group.\n* * *\n\nYou soar and leave the world's squabbles behind before your violent intentions ground you once more. Fly up to your Speed, then make a Strike with your sword against an adjacent creature at the end of your movement. If you don't have any other means of flying, you fall after the Strike. If you can't end your movement adjacent to an enemy, this spell is disrupted."
-sourcebook: "_Pathfinder Lost Omens: Tian Xia Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Tian Xia Character Guide_"
 ```

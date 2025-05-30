@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Vampire, Strigoi Progenitor) Shadow Escape"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.R5VgwNbwc3QbqVXC"
 license: OGL

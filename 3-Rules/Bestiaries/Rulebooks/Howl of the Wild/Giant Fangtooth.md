@@ -31,7 +31,7 @@ trait_02: [[aquatic]]
 modifier: 14
 perception:
   - name: "Perception"
-    desc: "+14; "
+    desc: "+14; Low-Light Vision, Scent (Imprecise) 120 Feet, Wavesense (Precise) 30 Feet"
 languages: ""
 skills:
   - name: "Skills"
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +15 ()\n__Damage__  2d8 + 5 piercing plus deep-puncture,grab"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+15 ()\n__Damage__  2d8 + 5 piercing plus deep-puncture,grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d8 piercing, DC 21 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d8 piercing, DC 21 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Deep Puncture"
     desc: "  Creatures critically hit by the fangtooth's bite take an additional 1d8 persistent bleed damage."

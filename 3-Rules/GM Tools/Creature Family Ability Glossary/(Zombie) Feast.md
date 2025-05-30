@@ -4,7 +4,7 @@ title: "(Zombie) Feast"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.ipGBYIXk4u47Mp1D"

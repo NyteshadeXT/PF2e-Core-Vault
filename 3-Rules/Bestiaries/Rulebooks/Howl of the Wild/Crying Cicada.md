@@ -29,7 +29,7 @@ trait_01: [[animal]]
 modifier: 11
 perception:
   - name: "Perception"
-    desc: "+11; "
+    desc: "+11; Darkvision"
 languages: ""
 skills:
   - name: "Skills"
@@ -60,20 +60,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Proboscis +9 ()\n__Damage__  1d8 + 5 piercing 1d4 poison"
+  - name: "**Melee** `pf2:1` Proboscis"
+    desc: "+9 ()\n__Damage__  1d8 + 5 piercing 1d4 poison"
 
-  - name: "Melee"
-    desc: "`pf2:1` Slam +9 ()\n__Damage__  1d6 + 4 bludgeoning plus crying-cicada-poison"
+  - name: "**Melee** `pf2:1` Slam"
+    desc: "+9 (unarmed)\n__Damage__  1d6 + 4 bludgeoning plus crying-cicada-poison"
 
   - name: "Crying Cicada Poison"
     desc: " (inhaled,poison) **Saving Throw** DC 19 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage plus [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 2** 1d6 poison damage plus [[Conditions/Slowed|Slowed 2]] (1 round)\n\n**Stage 3** 2d6 poison damage plus slowed 2 and [[Conditions/Stupefied|Stupefied 1]] (1 round)."
 
   - name: "Sob"
-    desc: "`pf2:1` (auditory,emotion,mental) The crying cicada mimics the noise of a wounded animal or crying child. Non-cicada creatures within a @Template[emanation|distance:150] must attempt a DC 19 Will check save or be distressed by the pleas for help. The effect lasts for 1 round, but if the cicada uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Sob, that creature is temporarily immune to Sob for 24 hours.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature believes an animal or child needs help somewhere nearby. The creature is [[Conditions/Fascinated|Fascinated]], and it must spend each of its actions to [[Actions/Seek|Seek]] or move closer to the cicada as expediently as possible, while avoiding obvious dangers. If the creature is adjacent to the cicada, it stays still and doesn't act."
+    desc: "`pf2:1` (auditory,emotion,mental) The crying cicada mimics the noise of a wounded animal or crying child. Non-cicada creatures within a 150-foot emanation must attempt a DC 19 Will check save or be distressed by the pleas for help. The effect lasts for 1 round, but if the cicada uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Sob, that creature is temporarily immune to Sob for 24 hours.\n* * *\n\n**Success** The creature is unaffected.\n\n**Failure** The creature believes an animal or child needs help somewhere nearby. The creature is [[Conditions/Fascinated|Fascinated]], and it must spend each of its actions to [[Actions/Seek|Seek]] or move closer to the cicada as expediently as possible, while avoiding obvious dangers. If the creature is adjacent to the cicada, it stays still and doesn't act."
 
   - name: "Wing Flurry"
-    desc: "`pf2:1`  The crying cicada beats its wings together, exposing all creatures within a @Template[burst|distance:10] to crying cicada poison."
+    desc: "`pf2:1`  The crying cicada beats its wings together, exposing all creatures within a 10-foot burst to crying cicada poison."
  
 ```
 

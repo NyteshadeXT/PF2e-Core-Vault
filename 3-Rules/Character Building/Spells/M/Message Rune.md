@@ -15,8 +15,9 @@ tags:
   - tradition/arcane
   - tradition/occult
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.Z7N5IxJCwrAdIgSg" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Message Rune "
@@ -37,11 +38,11 @@ abilities_top:
   - name: "Cast"
     desc: "5 minutes"
   - name: "Range"
-    desc: "touch; **Targets** 1 flat unattended surface"
+    desc: "touch; **Targets** 1 flat unattended surface or non-magical object of light Bulk"
   - name: "Duration"
     desc: "1 day"
 abilities_mid:
   - name: ""
-    desc: "You record a message up to 5 minutes long and inscribe a special rune on any flat unattended surface within reach. The nature of the rune's appearance is up to you, but it is visible to everyone and it must be no smaller than 2 inches in diameter. You also specify a trigger that creatures must meet to activate the rune. For the duration of the spell, creatures who meet the criteria of the trigger can touch the rune to hear the recorded message in their head as though you were speaking to them telepathically. You know when someone is listening to the message, but you do not know who is listening to it. You can Dismiss the spell."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+    desc: "You record a message up to 5 minutes long and inscribe a special rune on any flat unattended surface or small object within reach. The nature of the rune's appearance is up to you, but it's visible to everyone, and it must be no smaller than 2 inches in diameter. You also specify a trigger that creatures must meet to activate the rune.\n\nFor the duration of the spell, creatures that meet the criteria of the trigger can touch the rune to hear the recorded message in their head as though you were speaking to them telepathically. You know when someone is listening to the message, but you don't know who's listening to it. You can Dismiss the spell.\n* * *\n\n**Heightened (+2)** The duration increases for every 2 ranks, becoming 1 week, 1 month, 1 year, or unlimited respectively."
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

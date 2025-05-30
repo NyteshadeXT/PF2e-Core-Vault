@@ -8,14 +8,14 @@ tags:
   - trait/exploration
   - trait/mental
   - trait/occult
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.jZQoAHmGJvi53NRR"
 license: OGL
 ---
 # Psychometric Assessment
 
-### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Emotion]][[exploration]][[3-Rules/Rule References/Mental]][[3-Rules/Rule References/Occult]]
+### [[concentrate]][[emotion]][[exploration]][[mental]][[occult]]
 
 **Category** interaction; 
 

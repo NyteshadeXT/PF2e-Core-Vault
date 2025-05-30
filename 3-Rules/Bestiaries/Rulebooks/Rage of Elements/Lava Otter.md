@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (finesse)\n__Damage__  1d4 + 1 piercing 1d4 fire"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (finesse, unarmed)\n__Damage__  1d4 + 1 piercing 1d4 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile, finesse)\n__Damage__  1d4 + 1 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, finesse, unarmed)\n__Damage__  1d4 + 1 slashing"
 
   - name: "Molten Form"
     desc: " (fire) Any creature that hits the lava otter with an unarmed Strike or otherwise touches it takes 1 fire damage. If a gallon or more of water touches the lava otter, or if it's affected by a water effect, its outer layer of lava hardens to a rocky shell, deactivating its molten form and imposing weakness 5 to bludgeoning damage. Molten form reactivates if the otter swims in lava for 1 minute."

@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +29 (agile, deadly d12, reach 10 feet)\n__Damage__  2d12 + 15 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+29 (agile, deadly d12, reach 10 feet, unarmed)\n__Damage__  2d12 + 15 piercing"
 
   - name: "Staccato Strike"
     desc: "`pf2:1` (mental,primal,sonic) With subtle alterations in the pitch and tone of its song, the cauthooj directs one creature [[Conditions/Confused|Confused]] by its Warbling Song to make a Strike. This works like other Strikes made by confused creatures, except that the cauthooj chooses the target. If no target is in reach or range, or the creature is unable to Strike for any other reason, this ability has no effect."
 
   - name: "Warbling Song"
-    desc: "`pf2:2` (auditory,incapacitation,mental,primal) The cauthooj gives a strange, ululating cry that causes nearby creatures to lash out violently and without control. Each creature within @Template[emanation|distance:120] that can hear the cauthooj must attempt a DC 34 Will check save to resist the effect.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune for 1 minute.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** The target is [[Conditions/Confused|Confused]] for 1 round and immediately attacks itself (in the normal fashion for attacking oneself while confused). This Strike doesn't give the creature a flat check to recover from the confusion."
+    desc: "`pf2:2` (auditory,incapacitation,mental,primal) The cauthooj gives a strange, ululating cry that causes nearby creatures to lash out violently and without control. Each creature within 120-foot emanation that can hear the cauthooj must attempt a DC 34 Will check save to resist the effect.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune for 1 minute.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** The target is [[Conditions/Confused|Confused]] for 1 round and immediately attacks itself (in the normal fashion for attacking oneself while confused). This Strike doesn't give the creature a flat check to recover from the confusion."
  
 ```
 

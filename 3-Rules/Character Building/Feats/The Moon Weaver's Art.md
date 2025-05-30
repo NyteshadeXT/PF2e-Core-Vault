@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You've learned to create minor illusions by collecting strands of moonlight and weaving them together to create small images or cloaking veils. You can cast either [[Illusory Object|Illusory Object]] or [[Invisible Item|Invisible Item]] as an occult innate spell once per day.
+You've learned to create minor illusions by collecting strands of moonlight and weaving them together to create small images or cloaking veils. You can cast either [[Spells/Illusory Object|Illusory Object]] or [[Spells/Invisible Item|Invisible Item]] as an occult innate spell once per day.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

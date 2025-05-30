@@ -12,8 +12,9 @@ tags:
   - tradition/arcane
   - tradition/primal
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.MVrxZarUTnJxAUN8" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Tether  `pf2:2`"
@@ -33,9 +34,9 @@ abilities_top:
   - name: "Defense"
     desc: " reflex"
   - name: "Duration"
-    desc: "1 minute or until dismissed"
+    desc: "1 minute"
 abilities_mid:
   - name: ""
-    desc: "You use magical chains, vines, or other tethers to bind your target to you. The creature can still try to [[Actions/Escape|Escape]] and it or others can break the tethers by attacking them (the tethers have AC 15 and 10 Hit Points). You must stay within 30 feet of the target while it is tethered; moving more than 30 feet away from your target ends the spell. The target must attempt a Reflex save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes a -5-foot circumstance penalty to its Speed as long as it is within 30 feet of you.\n\n**Failure** The target takes a -10-foot circumstance penalty to its Speed and cannot move more than 30 feet away from you until it Escapes or the spell ends.\n\n**Critical Failure** The target is [[Conditions/Immobilized|Immobilized]] until it Escapes or the spell ends.\n* * *\n\n**Heightened (+1)** The tethers' AC increases by 3 and their Hit Points increase by 10."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+    desc: "You use magical chains, vines, or other tethers to bind your target to you. The creature can still try to [[Actions/Escape|Escape]], and it or others can break the tethers by attacking them (the tethers have AC 15 and 10 Hit Points). You must stay within 30 feet of the target while it's tethered; moving more than 30 feet away from your target ends the spell. The target must attempt a Reflex save. You can Dismiss the spell.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes a –5-foot circumstance penalty to its Speed as long as it's within 30 feet of you.\n\n**Failure** The target takes a –10-foot circumstance penalty to its Speed and can't move more than 30 feet away from you until it Escapes or the spell ends.\n\n**Critical Failure** The target is [[Conditions/Immobilized|Immobilized]] until it Escapes or the spell ends.\n* * *\n\n**Heightened (+1)** The tethers' AC increases by 3, and their Hit Points increase by 10."
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

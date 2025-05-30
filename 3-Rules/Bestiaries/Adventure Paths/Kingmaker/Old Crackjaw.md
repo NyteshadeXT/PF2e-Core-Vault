@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 ()\n__Damage__  2d8 + 7 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (unarmed)\n__Damage__  2d8 + 7 piercing"
 
   - name: "Clench Jaws"
     desc: "`pf2:1`  **Requirements** Old Crackjaw damaged a creature with a jaws Strike in its previous action\n* * *\n\n**Effect** Old Crackjaw clenches its jaws down and automatically deals an additional 2d8 bludgeoning damage to the creature it just bit."

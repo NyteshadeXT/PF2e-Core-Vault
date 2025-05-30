@@ -20,7 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Character Guide"
+source: "Pathfinder Lost Omens Character Guide"
 name: "Hellknight Paravicar"
 level: "Creature 11"
 
@@ -39,7 +39,7 @@ skills:
     desc: "Arcana: +16, Deception: +21, Intimidation: +23, Religion: +21, Society: +16"
 abilityMods: [4, 2, 2, 0, 3, 5]
 speed: 25 feet
-sourcebook: "_Pathfinder Lost Omens: Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Character Guide_"
 ac: 30
 armorclass:
   - name: AC
@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Morningstar +21 (magical, versatile p)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Morningstar"
+    desc: "+21 (magical, versatile p)\n__Damage__  2d6 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +19 (magical, range increment 120 feet, reload 1)\n__Damage__  2d8 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+19 (magical, range increment 120 feet, reload 1)\n__Damage__  2d8 + 4 piercing"
 
   - name: "Divine Spontaneous Spells"
-    desc: "DC 30, attack +20; __6th __ (3 slots) _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Spellwrack|Spellwrack]]_, _[[Spells/Spirit Blast|Spirit Blast]]_, _[[Spells/Summon Fiend|Summon Fiend]]_, _[[Spells/Truesight|True Seeing]]_; __5th __ (4 slots) _[[Spells/Banishment|Banishment]]_, _[[Spells/Command|Command]]_, _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Summon Fiend|Summon Fiend]]_; __4th __ (4 slots) _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Planar Tether|Dimensional Anchor]]_, _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __ (4 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Fear|Fear]]_; __2nd __ (4 slots) _[[Spells/Darkvision|Darkvision]]_, _[[Spells/Detect Alignment|Detect Alignment]]_, _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Floating Flame|Flaming Sphere]]_; __1st __ (4 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Light|Light]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"
+    desc: "DC 30, attack +20; __6th __ (3 slots) _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Spellwrack|Spellwrack]]_, _[[Spells/Spirit Blast|Spirit Blast]]_, _[[Spells/Summon Fiend|Summon Fiend]]_, _[[Spells/Truesight|True Seeing]]_; __5th __ (4 slots) _[[Spells/Banishment|Banishment]]_, _[[Spells/Command|Command]]_, _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Summon Fiend|Summon Fiend]]_; __4th __ (4 slots) _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Planar Tether|Dimensional Anchor]]_, _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __ (4 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Fear|Fear]]_; __2nd __ (4 slots) _[[Spells/Darkvision|Darkvision]]_, _[[Spells/Detect Alignment|Detect Alignment]]_, _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Floating Flame|Flaming Sphere]]_; __1st __ (4 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Light|Light]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"
 
   - name: "Sorcerer Bloodline Spells"
     desc: "3 Focus Points, DC 30, attack +20; __6th __  _[[Spells/Diabolic Edict|Diabolic Edict]]_, _[[Spells/Embrace the Pit|Embrace the Pit]]_, _[[Spells/Hellfire Plume|Hellfire Plume]]_"

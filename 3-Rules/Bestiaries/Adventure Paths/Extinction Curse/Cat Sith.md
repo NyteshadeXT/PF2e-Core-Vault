@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 ()\n__Damage__  2d12 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (unarmed)\n__Damage__  2d12 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile, finesse)\n__Damage__  2d6 + 5 slashing plus cat-siths-mark"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, finesse, unarmed)\n__Damage__  2d6 + 5 slashing plus cat-siths-mark"
 
   - name: "Occult Innate Spells"
     desc: "DC 23, attack +15; __2nd __ (2 slots) _[[Spells/Humanoid Form|Humanoid Form (At Will)]]_, _[[Spells/Paranoia|Paranoia (x2)]]_"

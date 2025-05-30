@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dogpiercer Knife +16 (agile, finesse, versatile s)\n__Damage__  2d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Dogpiercer Knife"
+    desc: "+16 (agile, finesse, versatile s)\n__Damage__  2d6 + 5 piercing"
 
   - name: "Sidle-Stab!-Scamper"
     desc: "`pf2:2`  Ogthup takes a Stride action, and at any point during her move can take a Strike action."

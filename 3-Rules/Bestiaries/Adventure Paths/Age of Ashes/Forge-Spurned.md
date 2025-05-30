@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/FORGE-SPURNED_FINAL.webp| ]]
 source: "Pathfinder #148: Fires of the Haunted City"
 name: "Forge-Spurned"
 level: "Creature 5"
@@ -63,17 +64,20 @@ abilities_mid:
   - name: "Searing Heat"
     desc: " (fire) A creature that touches the forge-spurned (including [[Actions/Grapple|Grappling]] it or hitting it with an unarmed attack) takes 2d6 fire damage (DC 21 Reflex check save)."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Soul Chain +15 (disarm, trip)\n__Damage__  2d8 + 5 slashing 1d6 fire"
+  - name: "**Melee** `pf2:1` Soul Chain"
+    desc: "+15 (disarm, trip)\n__Damage__  2d8 + 5 slashing 1d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +14 (shove)\n__Damage__  1d8 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+14 (shove)\n__Damage__  1d8 + 7 bludgeoning"
 
   - name: "Forge Breath"
-    desc: "`pf2:2` (divine,fire) The forge-spurned breathes a cloud of stinging soot, ash, and glowing embers. This can affect either a @Template[cone|distance:30] or a @Template[burst|distance:20] centered on the forge-spurned and persists for 1d4 rounds.\n\nEach creature that moves into or starts their turn in the area takes 6d6 fire damage, with a DC 21 Reflex check save. A creature that fails its save is also [[Conditions/Blinded|Blinded]] for 1 minute.\n\nCreatures within the cloud are [[Conditions/Concealed|Concealed]], though not from the forge-spurned.\n\nThe forge-spurned can't use Forge Breath again until it has used Inflate Bellows."
+    desc: "`pf2:2` (divine,fire) The forge-spurned breathes a cloud of stinging soot, ash, and glowing embers. This can affect either a 30-foot cone or a 20-foot burst centered on the forge-spurned and persists for 1d4 rounds.\n\nEach creature that moves into or starts their turn in the area takes 6d6 fire damage, with a DC 21 Reflex check save. A creature that fails its save is also [[Conditions/Blinded|Blinded]] for 1 minute.\n\nCreatures within the cloud are [[Conditions/Concealed|Concealed]], though not from the forge-spurned.\n\nThe forge-spurned can't use Forge Breath again until it has used Inflate Bellows."
 
   - name: "Inflate Bellows"
     desc: "`pf2:2`  **Requirements** The forge-spurned has used Forge Breath.\n* * *\n\n**Effect** The forge-spurned re-inflates its flaccid lungs, enabling it to use Forge Breath again."

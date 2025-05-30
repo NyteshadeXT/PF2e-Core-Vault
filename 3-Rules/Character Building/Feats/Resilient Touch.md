@@ -21,7 +21,7 @@ license: OGL
 * * *
 Your healing energies create an aura of protection that defends your allies against more than just blades and arrows.
 
-An ally that recovers Hit Points from your [[Lay on Hands|Lay on Hands]] gains a +1 status bonus to their saving throws until the end of their next turn.
+An ally that recovers Hit Points from your [[Spells/Lay on Hands|Lay on Hands]] gains a +1 status bonus to their saving throws until the end of their next turn.
 
 [[Spell Effects/Spell Effect_ Resilient Touch|Spell Effect: Resilient Touch]]
 

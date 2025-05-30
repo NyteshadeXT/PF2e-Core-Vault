@@ -4,14 +4,14 @@ title: "Sever Conduit"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.VCUz5EnBUJF07j1a"
 license: OGL
 ---
 # Sever Conduit `pf2:r`
 
-### [[3-Rules/Rule References/Concentrate]]
+### [[concentrate]]
 
 **Category** defensive; 
 

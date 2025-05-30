@@ -27,5 +27,5 @@ license: OGL
 
 **Effect** You lean into your fear, using it to embolden you. You can roll the triggering check twice and take the higher result. This is a fortune effect.
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

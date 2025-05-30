@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/kobold
   - trait/poison
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.ev8OHpBO3xq3Zt08"
 license: OGL
 ---
 # Tail Toxin `pf2:1`
 
-### [[kobold]][[3-Rules/Rule References/Poison]]
+### [[kobold]][[poison]]
 
 **Category** interaction; 
 

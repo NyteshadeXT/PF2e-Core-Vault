@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +9 (sweep)\n__Damage__  1d12 + 3 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+9 (sweep)\n__Damage__  1d12 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +7 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+7 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Guiding Words"
     desc: "`pf2:1`  Tewakam points out a weakness of a creature within 30 feet. Tewakam and all allies that can hear or see him gain a +1 status bonus to attack and damage rolls against that creature until the beginning of Tewakam's next turn. Tewakam adds an extra 1d4 precision damage to his weapon and unarmed attacks that hit that creature during the duration.\n\n[[Bestiary Effects/Effect_ Guiding Words|Effect: Guiding Words]]"

@@ -54,6 +54,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Stench"
@@ -62,14 +65,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Digging Bar +18 (fatal d12, forceful, versatile b)\n__Damage__  2d10 + 9 piercing"
+  - name: "**Melee** `pf2:1` Digging Bar"
+    desc: "+18 (fatal d12, forceful, versatile b)\n__Damage__  2d10 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 ()\n__Damage__  2d8 + 9 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (unarmed)\n__Damage__  2d8 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +19 (agile)\n__Damage__  2d6 + 9 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+19 (agile, unarmed)\n__Damage__  2d6 + 9 slashing plus grab"
 
   - name: "Primal Innate Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Shape Stone|Shape Stone (x3)]]_"
@@ -78,13 +81,13 @@ attacks:
     desc: "`pf2:1` (earth) **Frequency** once per round\n* * *\n\n**Effect** The stoneliege commands nearby earth to attack a foe. The stoneliege makes a claw Strike against a creature that is within 60 feet of the stoneliege and 10 feet of an earthen surface, such as dirt, mud, stone, or sand. The Strike originates from the surface's square and has a reach of 10 feet. On a critical hit, the target is also knocked [[Conditions/Prone|Prone]]."
 
   - name: "Earthen Torrent"
-    desc: "`pf2:2` (earth) **Frequency** once per minute\n\n**Requirements** The stoneliege is standing on or next to at least 10 cubic feet of dirt, stone, or other earthen material\n* * *\n\n**Effect** The stoneliege creates a violent wave of roiling earth. Creatures in a @Template[cone|distance:15] take 7d8 bludgeoning damage (DC 26 Reflex check save; on a critical failure, creatures are also knocked [[Conditions/Prone|Prone]])."
+    desc: "`pf2:2` (earth) **Frequency** once per minute\n\n**Requirements** The stoneliege is standing on or next to at least 10 cubic feet of dirt, stone, or other earthen material\n* * *\n\n**Effect** The stoneliege creates a violent wave of roiling earth. Creatures in a 15-foot cone take 7d8 bludgeoning damage (DC 26 Reflex check save; on a critical failure, creatures are also knocked [[Conditions/Prone|Prone]])."
 
   - name: "Stone Throes"
     desc: "`pf2:1` (earth) The stoneliege turns their own body into solid stone like a statue and immediately becomes [[Conditions/Petrified|Petrified]]. Any creature grappled or restrained by the stoneliege becomes [[Conditions/Immobilized|Immobilized]]; to get free, the creature must damage the statue enough to break it or succeed at a DC 28 Acrobatics check check to [[Actions/Escape|Escape]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

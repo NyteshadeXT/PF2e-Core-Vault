@@ -19,7 +19,7 @@ license: OGL
 
 
 
-Born of a storm hag, you have one crystal-blue or rain-gray eye. You share your mother's power over wind and storm. You can cast [[Electric Arc|Electric Arc]] as an occult innate cantrip. As normal, a cantrip is heightened to a spell rank equal to half your level rounded up.
+Born of a storm hag, you have one crystal-blue or rain-gray eye. You share your mother's power over wind and storm. You can cast [[Spells/Electric Arc|Electric Arc]] as an occult innate cantrip. As normal, a cantrip is heightened to a spell rank equal to half your level rounded up.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

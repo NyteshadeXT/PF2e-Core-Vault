@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Grand Archive Champion, Improved"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.Tmqa8Q9zaYr0uj6F"
 license: OGL
 ---
 # Grand Archive Champion, Improved
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

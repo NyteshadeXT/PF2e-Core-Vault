@@ -61,11 +61,14 @@ abilities_mid:
   - name: "Field of Undeath"
     desc: " (aura,divine) 20 feet. Allies within the aura who have void healing gain fast healing 2. When a creature within the aura would receive vitality healing, it must succeed at a DC 5 Flat check or receive no healing from the effect."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scythe +10 (deadly d10, trip)\n__Damage__  1d10 + 4 slashing"
+  - name: "**Melee** `pf2:1` Scythe"
+    desc: "+10 (deadly d10, trip)\n__Damage__  1d10 + 4 slashing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 19, attack +11; __1st __  _[[Spells/Summon Undead|Animate Dead]]_, _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(2nd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Shield|Shield]]_"

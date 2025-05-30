@@ -61,22 +61,22 @@ abilities_mid:
     desc: " (aura,occult) 60 feet. A creature that uses a teleportation ability within the aura's emanation or enters the emanation via a teleportation ability must succeed at a DC 31 Fortitude check save or become [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical failure) as its body warps and distorts painfully, and have its destination changed to a point of the radiant warden's choosing within the emanation."
 
   - name: "Link Collapse"
-    desc: "  If the Demongate Colossus is destroyed or its belly portal is deactivated, demons that used the colossus's portal within a @Template[emanation|distance:40] take 7d10 spirit damage (basic DC 30 Fortitude check save). A creature that takes full or double damage is [[Conditions/Enfeebled|Enfeebled 2]] for 1 minute. If the Demongate Colossus is still active when it suffers a link collapse, it becomes [[Conditions/Stunned|Stunned 3]] and loses its gatewarper aura."
+    desc: "  If the Demongate Colossus is destroyed or its belly portal is deactivated, demons that used the colossus's portal within a 40-foot emanation take 7d10 spirit damage (DC 30 Fortitude check save). A creature that takes full or double damage is [[Conditions/Enfeebled|Enfeebled 2]] for 1 minute. If the Demongate Colossus is still active when it suffers a link collapse, it becomes [[Conditions/Stunned|Stunned 3]] and loses its gatewarper aura."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hammer +30 (magical, reach 15 feet, shove)\n__Damage__  3d8 + 14 bludgeoning plus radiant-blow"
+  - name: "**Melee** `pf2:1` Hammer"
+    desc: "+30 (magical, reach 15 feet, shove)\n__Damage__  3d8 + 14 bludgeoning plus radiant-blow"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Corrupted Radiant Beam +27 (magical, range 15 feet, unholy)\n__Damage__  3d6 spirit 3d6 force"
+  - name: "**Ranged** `pf2:1` Corrupted Radiant Beam"
+    desc: "+27 (magical, range 15 feet, unholy)\n__Damage__  3d6 spirit 3d6 force"
 
   - name: "Occult Innate Spells"
     desc: "DC 34, attack +26; __7th __  _[[Spells/Planar Seal|Dimensional Lock]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_; __6th __  _[[Spells/Collective Transposition|Collective Transposition]]_; __5th __  _[[Spells/Translocate|Dimension Door (At will)]]_"
 
   - name: "Corrupted Radiant Blast"
-    desc: "`pf2:2` (force,occult) The Demongate Colossus releases a @Template[cone|distance:50] of crimson energy that deals 4d12 force damage and 4d12 spirit damage (DC 34 Reflex check save). The Demongate Colossus can't use Corrupted Radiant Blast again for 1d4 rounds."
+    desc: "`pf2:2` (force,occult) The Demongate Colossus releases a 50-foot cone of crimson energy that deals 4d12 force damage and 4d12 spirit damage (DC 34 Reflex check save). The Demongate Colossus can't use Corrupted Radiant Blast again for 1d4 rounds."
 
   - name: "Corrupted Radiant Blow"
     desc: "  When a non-evil creature is hit by the Demongate Colossus's hammer Strike, a red flash of Abyssal energy attempts to infuse the target with evil. The creature must attempt a DC 34 Will check save; on a failure, the creature can't use any teleportation effects for 1 minute. On a critical failure, the creature is also [[Conditions/Enfeebled|Enfeebled 2]]."

@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 ()\n__Damage__  2d4 + 7 slashing plus gouger-toxin"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 ()\n__Damage__  2d4 + 7 slashing plus gouger-toxin"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +15 (agile, finesse, versatile s)\n__Damage__  1d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+15 (agile, finesse, versatile s)\n__Damage__  1d6 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Cloak +15 (nonlethal, reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Cloak"
+    desc: "+15 (nonlethal, reach 10 feet)\n__Damage__  2d6 + 7 bludgeoning plus grab"
 
   - name: "Cloak's Gaze"
     desc: "`pf2:1` (concentrate,occult,visual) The eyes stitched to the gouger's cloak fix their gaze on a creature within 30 feet. That creature must attempt a DC 24 Fortitude saving throw. On a failed save, the creature becomes [[Conditions/Dazzled|Dazzled]] for 1 minute; if the creature was already dazzled, it is [[Conditions/Blinded|Blinded]] for 1 minute instead.\n\nA creature [[Conditions/Grabbed|Grabbed]] by the gouger's cloak takes a -2 circumstance penalty to the save."

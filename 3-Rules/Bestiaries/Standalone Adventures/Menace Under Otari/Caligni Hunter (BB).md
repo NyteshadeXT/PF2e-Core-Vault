@@ -3,7 +3,7 @@ title: "Caligni Hunter (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.Rr1wwJ1jIIhRZbXh" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.AcUb8s5fiktYw8Fx" 
 tags:
   - pf2e/creature/type/caligni
   - pf2e/creature/type/humanoid
@@ -31,7 +31,7 @@ trait_02: [[humanoid]]
 modifier: 10
 perception:
   - name: "Perception"
-    desc: "+10; "
+    desc: "+10; Darkvision"
 languages: ""
 skills:
   - name: "Skills"
@@ -42,7 +42,7 @@ sourcebook: "_Pathfinder Beginner Box_"
 ac: 21
 armorclass:
   - name: AC
-    desc: "21; __Fort__ +0, __Ref__ +0, __Will__ +0"
+    desc: "21; __Fort__ +10, __Ref__ +13, __Will__ +8"
 hp: 60
 health:
   - name: ""
@@ -66,8 +66,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +13 (agile, finesse, versatile s)\n__Damage__  1d6 + 7 piercing plus darkening-poison"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+13 (agile, finesse, versatile s)\n__Damage__  1d6 + 7 piercing plus darkening-poison"
 
   - name: "Occult Innate Spells"
     desc: "DC 19, attack +11; __2nd __  _[[Spells/See the Unseen|See the Unseen (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Figment|Figment]]_"

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Your eidolon gains a +4 status bonus to Deception checks to Impersonate you and can add its level to such checks even if it's untrained.
+Granted by [[Spells/Summoner's Visage|Summoner's Visage]]
+
+You gain a +4 status bonus to Deception checks to Impersonate the origin and can add your level to such checks even if you're untrained.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

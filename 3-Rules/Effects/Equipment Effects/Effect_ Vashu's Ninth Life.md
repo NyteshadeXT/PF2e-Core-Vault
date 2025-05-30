@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Vashu's Ninth Life|Vashu's Ninth Life]]
+
 Vashu's Ninth Life gains the parry trait and raises itself into parrying position, granting you a +1 circumstance bonus to AC.
 
 *Source: Pathfinder #198: No Breath to Cry*

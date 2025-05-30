@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (unarmed)\n__Damage__  2d8 + 4 piercing"
 
   - name: "Petrifying Gaze"
     desc: "`pf2:2` (arcane,concentrate,incapacitation,visual) The basilisk stares at a creature it can see within 30 feet. That creature must attempt a DC 22 Fortitude check save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes [[Conditions/Slowed|Slowed 1]]. If the creature was already slowed by this ability or Petrifying Glance, a failed save causes the creature to be petrified permanently.\n\nA creature petrified in this manner that is coated (not just splashed) with fresh basilisk blood no more than 1 hour old is instantly restored to flesh. A single basilisk contains enough blood to coat 1d4 Medium creatures in this manner."

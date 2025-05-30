@@ -35,7 +35,7 @@ perception:
 languages: "Aklo, Common; telepathy 60 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +10, Occultism: +15, Acrobatics: +12, Athletics: +10, Occultism: +15"
+    desc: "Acrobatics: +12, Athletics: +10, Occultism: +15"
 abilityMods: [2, 4, 2, 5, 5, 3]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"

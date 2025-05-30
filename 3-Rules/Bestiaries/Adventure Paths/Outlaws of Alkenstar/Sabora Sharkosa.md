@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Knuckle Duster +16 (agile, free-hand, magical)\n__Damage__  2d4 + 10 bludgeoning plus concussive-fist"
+  - name: "**Melee** `pf2:1` Knuckle Duster"
+    desc: "+16 (agile, free-hand, magical)\n__Damage__  2d4 + 10 bludgeoning plus concussive-fist"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dueling Pistol +16 (concealable, concussive, fatal d10, magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dueling Pistol"
+    desc: "+16 (concealable, concussive, fatal d10, magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 6 piercing"
 
   - name: "Concussive Fist"
     desc: " (incapacitation) A living creature hit by Sharkosa's knuckle duster must attempt a DC 23 Fortitude check save.\n* * *\n\n**Critical Success** The creature is immune to this ability for the next 24 hours.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** The creature is confused for 1 round and falls [[Conditions/Prone|Prone]]."

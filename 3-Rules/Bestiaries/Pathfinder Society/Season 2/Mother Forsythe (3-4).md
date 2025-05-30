@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +13 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+13 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +13 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+13 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Occult Prepared Spells"
     desc: "DC 22, attack +14; __2nd __  _[[Spells/Invisibility|Invisibility]]_; __1st __  _[[Spells/Alarm|Alarm]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Sigil|Sigil]]_"

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-Q02 - One-Who-Waits"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.6gVFdrqhs0mihRao"
 license: OGL
 ---
 # S1-Q02 - One-Who-Waits
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

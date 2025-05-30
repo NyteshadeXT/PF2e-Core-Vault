@@ -12,7 +12,7 @@ license: OGL
 ---
 # Let's Try That Again `pf2:r`
 ## Feat 1
-### [rare](rare.md "Rare Rarity Trait")[[fortune]][[reincarnated]]
+### [rare](rare "Rare Rarity Trait")[[fortune]][[reincarnated]]
 
 **Category** ancestry; 
 

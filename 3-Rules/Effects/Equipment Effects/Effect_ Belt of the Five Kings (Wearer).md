@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Belt of the Five Kings|Belt of the Five Kings]] if you are wearing it.
+Granted by [[Equipment/Belt of the Five Kings|Belt of the Five Kings]]
+
+You gain temporary Hit Points equal to your level.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

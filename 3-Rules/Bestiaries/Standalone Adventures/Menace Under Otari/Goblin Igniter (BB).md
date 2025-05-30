@@ -3,7 +3,7 @@ title: "Goblin Igniter (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.shT19KaQjWRVrHLI" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.Ky5eNRvN71O0tY9l" 
 tags:
   - pf2e/creature/type/goblin
   - pf2e/creature/type/humanoid
@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Torch +7 (fire)\n__Damage__  1d4 bludgeoning 1 fire"
+  - name: "**Melee** `pf2:1` Torch"
+    desc: "+7 (fire)\n__Damage__  1d4 bludgeoning 1 fire"
 
   - name: "Wizard Spells"
     desc: "DC 16, attack +6; __1st __  _[[Spells/Breathe Fire|Breathe Fire]]_, _[[Spells/Breathe Fire|Breathe Fire]]_, _[[Spells/Breathe Fire|Breathe Fire]]_\n__Cantrips__  __(1st)__ _[[Spells/Light|Light]]_, _[[Spells/Tangle Vine|Tangle Vine]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

@@ -51,13 +51,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tusk +17 ()\n__Damage__  2d8 + 10 piercing"
+  - name: "**Melee** `pf2:1` Tusk"
+    desc: "+17 (unarmed)\n__Damage__  2d8 + 10 piercing"
 
   - name: "Daeodon Charge"
     desc: "`pf2:2`  The daeodon Strides twice then makes a tusk Strike. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll. A Medium or smaller creature struck by this attack must succeed at a DC 22 Reflex check save or be knocked [[Conditions/Prone|Prone]] by the force of the blow."

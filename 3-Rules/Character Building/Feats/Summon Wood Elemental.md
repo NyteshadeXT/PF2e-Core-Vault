@@ -19,7 +19,7 @@ license: OGL
 
 
 
-Your connection to the Plane of Wood allows you to summon elemental allies. Once per day, you can cast [[Summon Elemental|Summon Elemental]] as a 5th-rank primal innate spell, but the elemental must be a wood elemental.
+Your connection to the Plane of Wood allows you to summon elemental allies. Once per day, you can cast [[Spells/Summon Elemental|Summon Elemental]] as a 5th-rank primal innate spell, but the elemental must be a wood elemental.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

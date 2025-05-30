@@ -11,7 +11,7 @@ license: OGL
 ---
 # Axuma's Vigor
 ## Feat 11
-### [rare](rare.md "Rare Rarity Trait")[[general]]
+### [rare](rare "Rare Rarity Trait")[[general]]
 
 **Category** general; 
 

@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 ()\n__Damage__  2d10 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (unarmed)\n__Damage__  2d10 + 5 slashing"
 
   - name: "Arctic Passage"
     desc: "  The yeti ignores difficult terrain caused by ice or snow."
@@ -74,7 +74,7 @@ attacks:
     desc: " (emotion,fear,mental) **Trigger** The yeti hits a creature in the first round of combat and the yeti was [[Conditions/Hidden|Hidden]] from that creature at the start of combat.\n* * *\n\n**Effect** Each enemy within 30 feet that witnesses the attack (including the target of the attack) must attempt a DC 23 Will check save. On a failure, the creature is [[Conditions/Frightened|Frightened 2]]; on a critical failure, it's [[Conditions/Frightened|Frightened 4]]."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n\n* * *\n"
+    desc: "`pf2:1`  Claw\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
  
 ```
 

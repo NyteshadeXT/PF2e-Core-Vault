@@ -13,7 +13,7 @@ license: ORC
 ---
 # Furious Grab `pf2:1`
 ## Feat 12
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

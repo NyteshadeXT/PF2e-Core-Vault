@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You buffer your eidolon. You gain the _reinforce eidolon_ link cantrip.
+You buffer your eidolon. You gain the [[Spells/Reinforce Eidolon|Reinforce Eidolon]] link cantrip.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -13,14 +13,14 @@ license: OGL
 ---
 # Enervating Wail `pf2:2`
 ## Feat 6
-### [rare](rare.md "Rare Rarity Trait")[[auditory]][[deviant]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[auditory]][[deviant]][[magical]]
 
 **Category** class; 
 
 
 
 
-You release a terrible wail that tears at the spirits of all nearby. All living creatures in a @Template\[emanation|distance:20\] take -1d6 void damage with a Fortitude check save. The damage is 4d6, plus 1d6 for every level you have beyond 6th.
+You release a terrible wail that tears at the spirits of all nearby. All living creatures in a 20-foot emanation take -1d6 void damage with a Fortitude check save. The damage is 4d6, plus 1d6 for every level you have beyond 6th.
 
 * * *
 

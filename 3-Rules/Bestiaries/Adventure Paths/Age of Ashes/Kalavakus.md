@@ -56,10 +56,13 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Horn Snare"
     desc: "`pf2:r`  **Trigger** A creature misses the slaver demon with a melee weapon Strike.\n* * *\n\n**Effect** The slaver demon attempts to [[Actions/Disarm|Disarm]] the weapon used in the triggering Strike with a -2 penalty. If it rolls a success, it gets a critical success instead. The demon doesn't need a free hand to use this ability."
@@ -70,23 +73,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horns +23 (deadly d8, unholy)\n__Damage__  2d10 + 13 piercing"
+  - name: "**Melee** `pf2:1` Horns"
+    desc: "+23 (deadly d8, unholy)\n__Damage__  2d10 + 13 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile, unholy)\n__Damage__  2d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, unarmed, unholy)\n__Damage__  2d8 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +23 (unholy)\n__Damage__  2d6 + 13 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+23 (unarmed, unholy)\n__Damage__  2d6 + 13 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 27, attack +19; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Air Walk|Air Walk (x2)]]_, _[[Spells/Translocate|Dimension Door (At Will)]]_; __3rd __  _[[Spells/Haste|Haste]]_; __1st __  _[[Spells/Command|Command (At Will)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "Enslave Soul"
-    desc: "`pf2:2` (arcane,mental) The demon enslaves the soul of a living creature within 60 feet. The target can attempt to resist this enslavement with a DC 29 Will check save.\n\nA slaver demon can have only one living soul enslaved with this ability at a time, and no more than one slaver demon can enslave the same soul. If a slaver demon kills a creature whose soul it has enslaved, the demon regains 20 HP and the soul is consigned to an eternity of toil in the Abyss, adding to the slaver demon's tally of souls and allowing the demon to enslave another.\n* * *\n\n**Success** The target avoids being enslaved and is temporarily immune for 24 hours.\n\n**Failure** The target is enslaved and is [[Conditions/Enfeebled|Enfeebled 2]] for 24 hours or until the slaver demon is slain, whichever comes first.\n\n**Critical Failure** As failure, and the target also suffers the effects of a failed saving throw against [[Spells/Dominate|Dominate]]."
+    desc: "`pf2:2` (arcane,mental) The demon enslaves the soul of a living creature within 60 feet. The target can attempt to resist this enslavement with a DC 29 Will check save.\n\nA slaver demon can have only one living soul enslaved with this ability at a time, and no more than one slaver demon can enslave the same soul. If a slaver demon kills a creature whose soul it has enslaved, the demon regains 20 healing HP and the soul is consigned to an eternity of toil in the Abyss, adding to the slaver demon's tally of souls and allowing the demon to enslave another.\n* * *\n\n**Success** The target avoids being enslaved and is temporarily immune for 24 hours.\n\n**Failure** The target is enslaved and is [[Conditions/Enfeebled|Enfeebled 2]] for 24 hours or until the slaver demon is slain, whichever comes first.\n\n**Critical Failure** As failure, and the target also suffers the effects of a failed saving throw against [[Spells/Dominate|Dominate]]."
  
 ```
 

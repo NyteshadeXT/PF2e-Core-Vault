@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "One For All"
+title: "One for All"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/auditory
@@ -15,9 +15,9 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.bCizH4ByTwbLcYA1"
 license: ORC
 ---
-# One For All `pf2:1`
+# One for All `pf2:1`
 ## Feat 1
-### [[auditory]][[concentrate]][[emotion]][[linguistic]][[3-Rules/trait_reference/M/mental]][[swashbuckler]]
+### [[auditory]][[concentrate]][[emotion]][[linguistic]][[mental]][[swashbuckler]]
 
 **Category** class; 
 

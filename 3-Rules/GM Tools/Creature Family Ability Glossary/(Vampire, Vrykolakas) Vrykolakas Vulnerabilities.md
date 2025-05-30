@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Vampire, Vrykolakas) Vrykolakas Vulnerabilities"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.5arYoSY5kcRo8TeM"
 license: OGL

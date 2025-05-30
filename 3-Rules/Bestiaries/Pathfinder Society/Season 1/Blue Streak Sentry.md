@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +10 (agile, finesse, versatile p)\n__Damage__  1d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+10 (agile, finesse, versatile p)\n__Damage__  1d6 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Techno-Junk Plasma Rifle +10 (range increment 60 feet, reload 0)\n__Damage__  1d6 electricity 1d6 fire"
+  - name: "**Ranged** `pf2:1` Techno-Junk Plasma Rifle"
+    desc: "+10 (range increment 60 feet, reload 0)\n__Damage__  1d6 electricity 1d6 fire"
 
   - name: "Sentry's Aim"
     desc: "`pf2:1` (concentrate) The Blue Streak sentry aims carefully and fires. They make a ranged weapon Strike with a +1 circumstance bonus. The Strike ignores the [[Conditions/Concealed|Concealed]] condition, lesser cover, and standard cover, and reduces greater cover to standard cover."

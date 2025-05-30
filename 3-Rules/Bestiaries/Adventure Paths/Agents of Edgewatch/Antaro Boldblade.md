@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +5 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+5 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Prepared Divine Spells"
     desc: "DC 16, attack +8; __1st __  _[[Spells/Heal|Heal]]_\n__Cantrips__  __(1st)__ _[[Spells/Light|Light]]_, _[[Spells/Stabilize|Stabilize]]_"

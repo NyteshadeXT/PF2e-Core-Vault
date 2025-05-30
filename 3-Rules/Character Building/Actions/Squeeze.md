@@ -5,8 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
   - trait/move
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt"
@@ -14,7 +13,7 @@ license: ORC
 ---
 # Squeeze
 
-### [[exploration]][[move]][[skill]]
+### [[exploration]][[move]]
 
 **Category** interaction; 
 

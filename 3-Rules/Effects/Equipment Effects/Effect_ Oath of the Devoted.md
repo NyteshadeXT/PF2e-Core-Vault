@@ -16,13 +16,9 @@ license: OGL
 
 
 
-**Activate** `pf2:1` command
+Granted by [[Equipment/Oath of the Devoted|Oath of the Devoted]]
 
-**Frequency** once per day
+You gain a +1 status bonus to Will saves. Choose a weapon or an unarmed Strike; your chosen attack deals an extra 1d6 fire damage.
 
-* * *
-
-**Effect** You gain a +1 status bonus to Will saves. Choose a weapon or an unarmed Strike; your chosen attack deals an extra 1d6 fire damage for the next 1 minute.
-
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

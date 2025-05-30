@@ -62,14 +62,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile, reach 10 feet)\n__Damage__  2d8 + 8 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile, reach 10 feet, unarmed)\n__Damage__  2d8 + 8 slashing plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hurled Bone +17 (brutal, range increment 30 feet)\n__Damage__  2d4 + 8 bludgeoning"
+  - name: "**Ranged** `pf2:1` Hurled Bone"
+    desc: "+17 (brutal, range increment 30 feet)\n__Damage__  2d4 + 8 bludgeoning"
 
   - name: "Gnaw"
     desc: "`pf2:1`  **Requirements** The tanglebones has Grabbed a foe\n* * *\n\n**Effect** The tanglebones gnaws and chews on the grabbed target with its many skulls, dealing 2d6+8 piercing damage (DC 23 Fortitude check save). On a critical failure, the creature is also [[Conditions/Sickened|Sickened 1]] from the pain."
@@ -81,7 +84,7 @@ attacks:
     desc: "`pf2:1` (concentrate) Until the next time it acts, the tanglebones appears as a sprawling mass of bones. It has an automatic result of 35 on Deception checks and DCs to pass as a grisly but seemingly harmless mess."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

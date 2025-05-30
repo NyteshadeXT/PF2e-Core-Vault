@@ -52,19 +52,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Nightmare Tendril +22 (agile, finesse, reach 10 feet)\n__Damage__  5d8 cold plus endless-nightmare"
+  - name: "**Melee** `pf2:1` Nightmare Tendril"
+    desc: "+22 (agile, finesse, reach 10 feet)\n__Damage__  5d8 cold plus endless-nightmare"
 
   - name: "Occult Innate Spells"
     desc: "DC 30, attack +22; __6th __  _[[Spells/Fear|Fear]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Teleport|Teleport]]_; __5th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Translocate|Dimension Door (At will)]]_; __4th __  _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Sleep|Sleep]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Binding Circle|Planar Binding]]_"
+    desc: "_Planar Binding_"
 
   - name: "Frozen Nightmare"
     desc: " (curse,emotion,fear,mental,occult) Ogmunzorius's touch fills the victim's mind with realistic hallucinations and visions of being stranded alone and naked in an endless expanse of ice. The only point of reference in this vision when it manifests are strange dark spires looming impossibly tall on the horizon.\n\n**Saving Throw** DC 30 Fortitude check\n\n**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)\n\n**Stage 2** fatigued and [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 3** The victim falls asleep and becomes covered in a rime of frost. They can't be awakened as long as they remain at this stage. A victim who perishes while at this stage frosts over completely, freezing solid into a block of ice. (1 day)"

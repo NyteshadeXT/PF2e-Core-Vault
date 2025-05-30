@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 (finesse)\n__Damage__  2d8 + 7 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (finesse, unarmed)\n__Damage__  2d8 + 7 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Thorn +17 (agile, finesse)\n__Damage__  2d6 + 7 piercing 1 bleed"
+  - name: "**Melee** `pf2:1` Thorn"
+    desc: "+17 (agile, finesse)\n__Damage__  2d6 + 7 piercing 1 bleed"
 
   - name: "Embed Thorn"
     desc: "  If a thrailorn successfully deals persistent bleed damage with its thorn Strike or Eviscerating Thorns reaction and that creature was already taking persistent bleed damage, increase the persistent damage by 1. Each time a creature succeeds the flat check to end this persistent bleed damage, reduce the bleed damage by 1 instead of ending the condition. A critical success on the flat check ends the condition."
@@ -72,7 +72,7 @@ attacks:
     desc: "`pf2:2`  The thrailorn attacks a single foe in a wild, pain-fueled flurry. The thrailorn makes one jaws Strike and two thorn Strikes in any order. These attacks must target the same creature. These attacks count toward the thrailorn's multiple attack penalty, but the multiple attack penalty doesn't increase until after the thrailorn makes all their attacks."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

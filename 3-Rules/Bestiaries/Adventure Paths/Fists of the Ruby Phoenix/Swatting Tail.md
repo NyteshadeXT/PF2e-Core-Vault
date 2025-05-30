@@ -41,7 +41,7 @@ perception:
 abilities_top:
   - name: ""
   - name: "Description"
-    desc: "Mogaru's tail sweeps forth, causing an arc of devastation in a @Template[cone|distance:60]."
+    desc: "Mogaru's tail sweeps forth, causing an arc of devastation in a 60-foot cone."
 abilities_mid:
   - name: ""
   - name: "Disable"

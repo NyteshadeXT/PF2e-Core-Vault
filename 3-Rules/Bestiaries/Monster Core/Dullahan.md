@@ -53,28 +53,34 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Hatchet|+1 Hatchet]], [[Equipment/Longsword|+1 Longsword]], [[Equipment/Full Plate|Full Plate]]"
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 5]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 30 feet. DC 23 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 30 feet. DC 23 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Keen Longsword +18 (magical, versatile p)\n__Damage__  1d8 + 10 slashing plus head-hunter"
+  - name: "**Melee** `pf2:1` Keen Longsword"
+    desc: "+18 (magical, versatile p)\n__Damage__  1d8 + 10 slashing plus head-hunter"
 
-  - name: "Melee"
-    desc: "`pf2:1` Keen Returning Hatchet +17 (agile, sweep)\n__Damage__  1d6 + 10 slashing plus head-hunter"
+  - name: "**Melee** `pf2:1` Keen Returning Hatchet"
+    desc: "+17 (agile, sweep)\n__Damage__  1d6 + 10 slashing plus head-hunter"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 (agile, nonlethal)\n__Damage__  1d4 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 10 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Keen Returning Hatchet +14 (agile, thrown 10 ft.)\n__Damage__  2d8 + 10 slashing plus head-hunter"
+  - name: "**Ranged** `pf2:1` Keen Returning Hatchet"
+    desc: "+14 (agile, thrown 10 ft.)\n__Damage__  2d8 + 10 slashing plus head-hunter"
 
   - name: "Head Hunter"
     desc: "  Any slashing weapon gains the _[[Equipment/Keen|Keen]]_ rune while a dullahan wields it, and any hatchet they wield gains the _[[Equipment/Returning|Returning]]_ rune as well. If the dullahan kills a creature with a critical hit using a slashing weapon, the target is decapitated as though the dullahan had used Reap on the target."

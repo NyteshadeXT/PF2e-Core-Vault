@@ -6,7 +6,7 @@ tags:
   - trait/fortune
   - trait/general
   - trait/kingdom
-  - trait/common
+  - trait/
   - category/kingdom-feat
 aliases: "Compendium.pf2e.kingmaker-features.Item.BK0mMlFP2jIS4xGl"
 license: OGL

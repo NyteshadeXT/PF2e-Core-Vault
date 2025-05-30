@@ -35,5 +35,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "The target's clothes are transformed into ostentatious attire that epitomizes high-end local fashion. No details of the target's appearance transform other than their clothes, so their weapons or armor remain unchanged in appearance. The target gains a +1 status bonus on Deception checks to [[Actions/Create a Diversion|Create a Diversion]]. You can Dismiss this spell. At the end of the spell's duration, the target's clothes revert to their original appearance.\n* * *\n\n**Heightened (+2)** The status bonus increases by 1, to a maximum of +4 at 7th rank."
-sourcebook: "_Pathfinder Lost Omens: Firebrands_"
+sourcebook: "_Pathfinder Lost Omens Firebrands_"
 ```

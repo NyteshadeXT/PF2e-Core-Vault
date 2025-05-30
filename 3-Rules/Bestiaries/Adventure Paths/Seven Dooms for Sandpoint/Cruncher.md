@@ -54,19 +54,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 ()\n__Damage__  2d8 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (unarmed)\n__Damage__  2d8 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile, unarmed)\n__Damage__  2d6 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spiked Tail +17 (reach 10 feet, versatile p)\n__Damage__  2d6 + 8 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Spiked Tail"
+    desc: "+17 (reach 10 feet, versatile p)\n__Damage__  2d6 + 8 bludgeoning plus knockdown"
 
   - name: "Rip and Tear"
     desc: "`pf2:2`  The hodag makes two claw Strikes and one jaws Strike in any order."
@@ -78,7 +78,7 @@ attacks:
     desc: "`pf2:2`  The hodag Strides, then makes a Strike against a target in reach. If it moves at least 20 feet and succeeds at its Strike, the hodag deals damage normally and then attempts an Athletics check check against the creature's Fortitude DC to toss the enemy into the air.\n\nOn a success, the tossed creature is thrown 10 feet in a straight line in the direction of the hodag's choice and then lands [[Conditions/Prone|Prone]]. If the creature is knocked into a solid object, it takes 1d6 bludgeoning damage as well before landing prone. The hodag can instead toss a creature straight up in the air. The creature lands in the same square where it started, takes 1d6 bludgeoning damage, and lands prone."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

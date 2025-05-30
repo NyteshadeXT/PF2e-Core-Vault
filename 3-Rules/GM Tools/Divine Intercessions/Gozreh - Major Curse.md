@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Gozreh - Major Curse"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/curse
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.kEAw5PMLdX2gHlwR"
 license: OGL
 ---
 # Gozreh - Major Curse
-
+## Feat 1
 ### 
 
 **Category** curse; 
@@ -25,5 +25,5 @@ Sapient plants' attitude toward you begins two categories worse than normal, as 
 
 While plants and animals might not attack you outright if it's not normally in their nature to do so when they are hostile, dogs growl at you, cats hiss, and so on.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

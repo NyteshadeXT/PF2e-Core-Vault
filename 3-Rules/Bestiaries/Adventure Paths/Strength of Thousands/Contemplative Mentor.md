@@ -48,11 +48,17 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Temporal Sense"
     desc: "  A contemplative meditant can always roll Dimension of Time Lore for initiative. When it does, it gains a +2 circumstance bonus to the roll as it acts on flashes of insight harvested from potential futures."
 
   - name: "Thoughtsense 100 feet"
     desc: " (mental,occult) The contemplative senses all non-mindless creatures at the listed range."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
 
 abilities_mid:
   - name: ""
@@ -62,14 +68,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +32 (finesse, magical)\n__Damage__  3d8 + 6 slashing 4d6 mental"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+32 (finesse, magical, unarmed)\n__Damage__  3d8 + 6 slashing 4d6 mental"
 
   - name: "Occult Innate Spells"
     desc: "DC 43, attack +33; __9th __  _[[Spells/Foresight|Foresight]]_, _[[Spells/Force Barrage|Magic Missile (x3)]]_; __8th __  _[[Spells/Planar Tether|Dimensional Anchor]]_, _[[Spells/Disappearance|Disappearance (Self Only)]]_, _[[Spells/Pinpoint|Discern Location]]_; __7th __  _[[Spells/Haste|Haste]]_, _[[Spells/Force Barrage|Magic Missile (x3)]]_, _[[Spells/Return To Essence|Return To Essence]]_, _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Slow|Slow]]_\n__Cantrips__  __(9th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_\n__Constant__  __(9th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Rite of the Red Star|Rite of the Red Star]]_"
+    desc: "_Rite of the Red Star_"
 
   - name: "Project Calm"
     desc: "`pf2:3` (emotion,mental,occult) The contemplative mentor projects a field of perfect calm in a 60-foot emanation. All creatures within the area of effect must succeed at a DC 40 Will check save or be unable to take hostile actions for 1 round.\n\nAfter using this ability, the contemplative is [[Conditions/Drained|Drained 1]], or increases its drained value by 1 if it was already drained. A contemplative mentor can't use this ability if its drained value is 3 or more."

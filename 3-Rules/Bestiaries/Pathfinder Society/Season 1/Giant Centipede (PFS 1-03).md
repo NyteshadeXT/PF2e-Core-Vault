@@ -53,8 +53,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +6 (finesse)\n__Damage__  1d4 - 1 piercing plus giant-centipede-venom"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+6 (finesse)\n__Damage__  1d4 - 1 piercing plus giant-centipede-venom"
 
   - name: "Giant Centipede Venom"
     desc: " (poison) **Saving Throw** DC 14 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage (1 round)\n\n**Stage 2** 1d8 poison damage, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Off-Guard|Off-Guard]] (1 round)"

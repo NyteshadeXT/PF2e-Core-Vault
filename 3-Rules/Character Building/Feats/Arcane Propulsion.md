@@ -7,8 +7,9 @@ tags:
   - trait/automaton
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.YgytD4HGjWNFwiev"
-license: OGL
+license: ORC
 ---
 # Arcane Propulsion `pf2:2`
 ## Feat 9
@@ -28,4 +29,4 @@ You redirect energy from your core to ports on your back or feet, allowing you t
 **Enhancement** You can maintain your flight for longer. You can redirect your energy at all times, allowing you to fly whenever you want, rather than just once per day for 5 minutes.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

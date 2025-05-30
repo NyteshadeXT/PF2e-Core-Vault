@@ -57,13 +57,19 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "4x [[Equipment/Dagger|+1 Dagger]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +23 (agile, deadly d10, finesse, magical, unholy, versatile s)\n__Damage__  1d6 spirit 1d4 + 9 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+23 (agile, deadly d10, finesse, magical, unholy, versatile s)\n__Damage__  1d6 spirit 1d4 + 9 piercing"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 29, attack +21; __5th __ (3 slots) _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Shadow Siphon|Shadow Siphon]]_; __4th __ (3 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Containment|Resilient Sphere]]_; __3rd __ (3 slots) _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Force Barrage|Magic Missile]]_; __2nd __ (3 slots) _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (3 slots) _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(5th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Message|Message]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
@@ -72,7 +78,7 @@ attacks:
     desc: "DC 29, attack +21; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Flicker|Blink]]_, _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_, _[[Spells/Read Omens|Read Omens]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Diabolic Pact|Infernal Pact]]_"
+    desc: "_Infernal Pact_"
 
   - name: "Every Dagger"
     desc: "`pf2:2`  **Requirements** The uniila wields four daggers\n* * *\n\n**Effect** The uniila attempts a single dagger Strike against a target. If this Strike hits, the uniila deals three extra dice of weapon damage."

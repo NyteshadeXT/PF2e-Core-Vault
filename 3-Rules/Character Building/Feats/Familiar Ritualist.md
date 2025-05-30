@@ -22,5 +22,5 @@ license: ORC
 * * *
 Your familiar's magical presence can serve as an aspect of a ritual. When you cast a ritual, your familiar can serve as a secondary caster, fulfilling any requirements for the secondary caster as well as a secondary check. You can't replace a secondary caster who's the target of the spell.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

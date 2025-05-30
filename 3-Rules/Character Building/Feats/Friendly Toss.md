@@ -14,7 +14,7 @@ license: ORC
 ---
 # Friendly Toss `pf2:2`
 ## Feat 8
-### [[barbarian]][[manipulate]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[manipulate]][[rage]]
 
 **Category** class; 
 

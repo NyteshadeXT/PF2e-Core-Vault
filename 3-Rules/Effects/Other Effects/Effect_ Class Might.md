@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Class Might|Class Might]]
+Granted by [[PF2e Journals/Hero Point Deck/Class Might|Class Might]]
 
-Until the start of your next turn you gain a +2 status bonus to checks based on the key attribute of your class. If your class grants a choice for its key attribute, select one of those attributes to gain the bonus.
+You gain a +2 status bonus to checks based on the key attribute of your class.
 
 *Source: Pathfinder Hero Point Deck*
 *OGL*

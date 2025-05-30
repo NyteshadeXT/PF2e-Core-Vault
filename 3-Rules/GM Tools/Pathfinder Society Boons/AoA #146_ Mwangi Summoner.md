@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "AoA #146: Mwangi Summoner"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.DWcmLzzT1eYk76c7"
 license: OGL
 ---
 # AoA #146: Mwangi Summoner
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

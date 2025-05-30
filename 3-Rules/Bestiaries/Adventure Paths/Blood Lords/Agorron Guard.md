@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap185-a-taste-of-ashes/assets/art/PZO90185 WARREN GUARD.webp| ]]
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Agorron Guard"
 level: "Creature 15"
@@ -53,40 +54,46 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Scythe|+2 Greater Striking Scythe]], 3x Rock"
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense (Imprecise) 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Catch Rock|Catch Rock]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Requirements** The monster must have a free hand but can [[Actions/Release|Release]] anything it's holding as part of this reaction.\n\n**Trigger** The monster is targeted with a thrown rock Strike or a rock would fall on the monster.\n* * *\n\n**Effect** The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scythe +31 (deadly 2d10, magical, reach 10 feet, trip)\n__Damage__  3d10 + 18 slashing"
+  - name: "**Melee** `pf2:1` Scythe"
+    desc: "+31 (deadly 2d10, magical, reach 10 feet, trip)\n__Damage__  3d10 + 18 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +30 (agile, reach 10 feet)\n__Damage__  3d6 + 18 slashing plus dooming-touch"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+30 (agile, reach 10 feet, unarmed)\n__Damage__  3d6 + 18 slashing plus dooming-touch"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +28 (brutal, range increment 120 feet)\n__Damage__  3d8 + 18 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+28 (brutal, range increment 120 feet)\n__Damage__  3d8 + 18 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 36, attack +28; __7th __  _[[Spells/Bind Undead|Bind Undead (x3)]]_, _[[Spells/Harm|Harm (x3)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead]]_"
+    desc: "_Create Undead_"
 
   - name: "Dooming Touch"
     desc: " (divine) The Agorron guard's claws carry the accursed power of their foul gods. A creature hit by the guard's claw Strike becomes [[Conditions/Doomed|Doomed 1]]."
 
   - name: "Font of Death"
-    desc: "`pf2:3` (divine,void) The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of void energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with void energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this void energy from the corpse in an explosion that deals 10d10 void damage energy in a @Template[burst|distance:15] (DC 36 Fortitude check save); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused."
+    desc: "`pf2:3` (divine,void) The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of void energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with void energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this void energy from the corpse in an explosion that deals 10d10 void damage energy in a 15-foot burst (DC 36 Fortitude check save); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
 
   - name: "Wicked Blow"
     desc: "`pf2:2`  The Agorron guard makes a Strike with their scythe. A creature damaged by this attack takes 3d6 bleed damage and is [[Conditions/Doomed|Doomed 1]]."

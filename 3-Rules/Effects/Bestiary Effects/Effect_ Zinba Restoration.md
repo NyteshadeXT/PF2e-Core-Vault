@@ -18,5 +18,5 @@ license: OGL
 
 The creature gains fast healing 5 for 1 minute.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

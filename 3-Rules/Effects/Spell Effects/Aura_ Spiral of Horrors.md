@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Spiral of Horrors|Spiral of Horrors]]
+Granted by [[Spells/Spiral of Horrors|Spiral of Horrors]]
 
-You emit an aura of terror. Foes in the area are frightened 1 and unable to reduce the condition.
+Foes in the area are frightened 1 and unable to reduce the condition.
 
 *Source: Pathfinder Player Core*
 *ORC*

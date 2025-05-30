@@ -59,14 +59,17 @@ abilities_top:
     desc: "[[Equipment/Shortbow|Shortbow]], 20x [[Equipment/Arrows|Arrows]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +6 (agile, finesse)\n__Damage__  1d4 piercing 1d4 fire"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+6 (agile, finesse, unarmed)\n__Damage__  1d4 piercing 1d4 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +6 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+6 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "Screaming Skull"
     desc: "`pf2:2` (auditory,emotion,fear,mental) The skeleton removes its skull and throws it, making a jaws Strike with a range of 20 feet. It then attempts to [[Action Macros/Demoralize_ Intimidation|Demoralize: Intimidation]] each foe within 10 feet of the target. The head bounces, rolls, or even flies back, returning to the skeleton at the start of its next turn. The skeleton is [[Conditions/Blinded|Blinded]] until then."

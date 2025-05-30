@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Rejuvenation|Rejuvenation]]"
     desc: " (divine) When a graveknight is destroyed, its armor rebuilds its body over the course of 1d10 days-or more quickly if the armor is worn by a living host. If the body is destroyed before then, the process restarts.\n\nA graveknight can only be permanently destroyed by obliterating its armor (such as with [[Spells/Disintegrate|Disintegrate]]), transporting it to the Forge of Creation, or throwing it into the heart of a volcano."
@@ -69,26 +69,29 @@ abilities_mid:
   - name: "Status Bonus to Saves"
     desc: "  +1 status bonus to all saves vs. magic effects.\n\n+2 status bonus to all saves vs. mental effects."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greater Frost Rapier +31 (cold, deadly 2d8, disarm, finesse, magical)\n__Damage__  3d6 + 14 piercing"
+  - name: "**Melee** `pf2:1` Greater Frost Rapier"
+    desc: "+31 (cold, deadly 2d8, disarm, finesse, magical)\n__Damage__  3d6 + 14 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Greater Frost Main-Gauche +31 (agile, cold, disarm, finesse, magical, parry, versatile s)\n__Damage__  3d4 + 14 piercing"
+  - name: "**Melee** `pf2:1` Greater Frost Main-Gauche"
+    desc: "+31 (agile, cold, disarm, finesse, magical, parry, versatile s)\n__Damage__  3d4 + 14 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +29 (agile, cold, unarmed)\n__Damage__  3d6 + 10 piercing 1d6 cold"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+29 (agile, cold, unarmed)\n__Damage__  3d6 + 10 piercing 1d6 cold"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Greater Frost Hand Crossbow +31 (cold, magical, range increment 60 feet, reload 1)\n__Damage__  3d6 + 14 piercing plus purple-worm-venom"
+  - name: "**Ranged** `pf2:1` Greater Frost Hand Crossbow"
+    desc: "+31 (cold, magical, range increment 60 feet, reload 1)\n__Damage__  3d6 + 14 piercing plus purple-worm-venom"
 
   - name: "Divine Innate Spells"
     desc: "DC 36, attack +28; __4th __  _[[Spells/Darkness|Darkness (At Will)]]_; __2nd __  _[[Spells/Faerie Fire|Faerie Fire (At Will)]]_\n__Cantrips__  __(6th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Devastating Blast|Devastating Blast]]"
-    desc: "`pf2:2` (arcane,cold) The graveknight unleashes a @Template[cone|distance:30] of energy. Creatures in the area take 8d12 cold damage (DC 36 Reflex check save).\n\nThe graveknight can use this ability once every 1d4 rounds."
+    desc: "`pf2:2` (arcane,cold) The graveknight unleashes a 30-foot cone of energy. Creatures in the area take 8d12 cold damage (DC 36 Reflex check save).\n\nThe graveknight can use this ability once every 1d4 rounds."
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Graveknight's Curse|Graveknight's Curse]]"
     desc: " (arcane,curse) This curse affects anyone who wears a graveknight's armor for at least 1 hour.\n\n**Saving Throw** DC 36 Will check save\n* * *\n\n**Onset** 1 hour\n\n**Stage 1** [[Conditions/Doomed|Doomed 1]] and cannot remove the armor (1 day)\n\n**Stage 2** [[Conditions/Doomed|Doomed 2]], the creature's Speed is reduced by 10, and cannot remove the armor (1 day)\n\n**Stage 3** dies and transforms into the armor's graveknight.\n\n[[Bestiary Effects/Effect_ Graveknight's Curse|Effect: Graveknight's Curse]]"

@@ -69,11 +69,14 @@ abilities_mid:
   - name: "Slow"
     desc: "  A shock zombie is typically [[Conditions/Slowed|Slowed 1]] and can't use reactions (but see electricity absorption)."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +17 ()\n__Damage__  2d6 + 7 bludgeoning 1d12 electricity"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+17 (unarmed)\n__Damage__  2d6 + 7 bludgeoning 1d12 electricity"
  
 ```
 

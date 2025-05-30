@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You learn the [[3-Rules/Character Building/Spells/T/Triple Time|Triple Time]] composition cantrip, which speeds up you and your allies for a round.
+You learn the [[Spells/Triple Time|Triple Time]] composition cantrip, which speeds up you and your allies for a round.
 
 *Source: Pathfinder Player Core*
 *ORC*

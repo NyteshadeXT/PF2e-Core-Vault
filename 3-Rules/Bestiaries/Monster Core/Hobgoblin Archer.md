@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +12 (agile, versatile s)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+12 (agile, versatile s)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +14 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 2 piercing plus crossbow-precision"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+14 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 2 piercing plus crossbow-precision"
 
   - name: "Crossbow Precision"
     desc: "  The first time the archer hits with a crossbow attack in a round, it deals 1d8 extra precision damage."

@@ -32,5 +32,5 @@ You grew up among the Shoanti tribes, with the spirits watching over you, and th
 *   Skoan-Quah: Medicine
 *   Tamiir-Quah: Acrobatics
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

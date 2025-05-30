@@ -59,17 +59,20 @@ abilities_top:
     desc: "[[Equipment/Mace|Conductor's Baton]], [[Equipment/Magic Wand (3rd-Rank Spell)|Wand of Vampiric Touch (Level 3)]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Conductor&#x27;s Baton +12 (shove)\n__Damage__  2d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Conductor&#x27;s Baton"
+    desc: "+12 (shove)\n__Damage__  2d6 + 5 bludgeoning"
 
   - name: "Prepared Occult Spells"
     desc: "DC 26, attack +18; __3rd __  _[[Spells/Bind Undead|Bind Undead]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/False Vitality|False Life]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead (Zombie)]]_"
+    desc: "_Create Undead (Zombie)_"
  
 ```
 

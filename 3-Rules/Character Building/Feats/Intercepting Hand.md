@@ -22,5 +22,5 @@ license: ORC
 * * *
 Your particular martial art includes various defensive actions designed to remove your opponent's ability to cause harm. Your fist unarmed attack gains the disarm trait. You gain the [[Actions/Disarming Interception|Disarming Interception]] action.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

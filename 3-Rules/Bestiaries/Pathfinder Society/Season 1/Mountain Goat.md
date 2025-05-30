@@ -53,14 +53,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +5 ()\n__Damage__  1d4 + 3 bludgeoning plus push"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+5 (unarmed)\n__Damage__  1d4 + 3 bludgeoning plus push"
 
   - name: "Powerful Charge"
     desc: "`pf2:2`  The mountain goat Strides up to double its Speed in a straight line and then makes a horn attack.\n\nIf the mountain goat moved at least 20 feet, its Push increases to 10 feet on a hit."
 
   - name: "[[Bestiary Ability Glossary/Push|Push]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

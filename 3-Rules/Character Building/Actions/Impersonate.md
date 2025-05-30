@@ -7,8 +7,7 @@ tags:
   - trait/exploration
   - trait/manipulate
   - trait/secret
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE"
@@ -16,16 +15,16 @@ license: ORC
 ---
 # Impersonate
 
-### [[3-Rules/Rule References/Concentrate]][[exploration]][[3-Rules/Rule References/Manipulate]][[secret]][[skill]]
+### [[concentrate]][[exploration]][[manipulate]][[secret]]
 
 **Category** interaction; 
 
 
 
 
-You create a disguise to pass yourself off as someone or something you are not. Assembling a convincing disguise takes 10 minutes and requires a [[Disguise Kit|Disguise Kit]], but a simpler, quicker disguise might do the job if you're not trying to imitate a specific individual, at the GM's discretion.
+You create a disguise to pass yourself off as someone or something you are not. Assembling a convincing disguise takes 10 minutes and requires a [[Equipment/Disguise Kit|Disguise Kit]], but a simpler, quicker disguise might do the job if you're not trying to imitate a specific individual, at the GM's discretion.
 
-In most cases, creatures have a chance to detect your deception only if they use the [[Actions/Seek|Seek]] action to attempt Perception checks against your Deception DC. If you attempt to directly interact with someone while disguised, the GM rolls a secret Deception check for you against that creature's Perception DC instead.
+In most cases, creatures have a chance to detect your deception only if they use the [[Actions/Seek|Seek]] action to attempt Perception checks against your Deception DC. If you attempt to directly interact with someone while disguised, the GM rolls a secret [[Actions/impersonate|impersonate]]{Deception} check for you against that creature's Perception DC instead.
 
 If you're disguised as a specific individual, the GM might give creatures you interact with a circumstance bonus based on how well they know the person you're imitating, or the GM might roll a secret Deception check even if you aren't directly interacting with others.
 

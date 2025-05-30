@@ -61,16 +61,19 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Staff|Staff]], [[Equipment/Thieves' Toolkit|Thieves' Tools]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +7 (two-hand d8, unholy)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+7 (two-hand d8, unholy)\n__Damage__  1d4 bludgeoning"
 
   - name: "Divine Spontaneous Spells"
-    desc: "DC 20, attack +12; __2nd __ (3 slots) _[[Spells/Darkness|Darkness]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __ (3 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 20, attack +12; __2nd __ (3 slots) _[[Spells/Darkness|Darkness]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __ (3 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Bloodline Spells"
     desc: "1 Focus Point, DC 20, attack +12; __2nd __  _[[Spells/Diabolic Edict|Diabolic Edict]]_"

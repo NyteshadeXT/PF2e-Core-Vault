@@ -21,5 +21,5 @@ license: ORC
 
 Your talent for language is a blessing from the yaksha makers of old. You learn two new languages, chosen from languages you have access to. You also gain a +2 circumstance bonus to your saving throws against linguistic effects.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

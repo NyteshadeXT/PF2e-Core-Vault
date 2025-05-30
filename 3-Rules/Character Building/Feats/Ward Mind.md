@@ -31,5 +31,5 @@ To protect the knowledge within your mind from intrusion or erasure, you ward yo
 
 **Special** You can use this reaction even if the mental effect prevents you from using reactions.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

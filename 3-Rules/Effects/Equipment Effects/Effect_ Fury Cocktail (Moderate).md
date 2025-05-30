@@ -16,19 +16,18 @@ license: OGL
 
 
 
-Granted by [[Fury Cocktail (Moderate)|Fury Cocktail (Moderate)]]
+Granted by [[Equipment/Fury Cocktail (Moderate)|Fury Cocktail (Moderate)]]
 
-Implemented Effects:
+**Benefit** You gain a +3 item bonus to melee attack rolls and an additional effect depending on the additive chosen when the brew is created.
 
-*   +3 item bonus to melee attack rolls
-*   \-1 penalty to AC
-*   \-2 penalty to Reflex saves
-*   Animalistic: choice of Jaw or Claw strike
-*   Double: resistance 2 to physical damage
-*   Mournful: resistance 5 to void or vitality depending on negative healing
-*   Skeptical: +2 item bonus to saves against magic
-*   Titanic: size change to Large, Clumsy 1, and change of reach (+5 for Medium and Small, +10 for Tiny)
-*   Wyrmhide: resistance 5 to acid, cold, electricity, fire, and poison.
+*   **Animalistic** choice between a jaws attack that deals 1d6 piercing damage or a claw attack that has the agile trait and deals 1d4 slashing damage.
+*   **Double** resistance 2 to physical damage
+*   **Mournful** resistance 5 to void or vitality depending on void healing
+*   **Skeptical** +3 item bonus to saves against magic
+*   **Titanic** size change to Large, Clumsy 1, and change of reach (+5 for Medium and Small, +10 for Tiny)
+*   **Wyrmhide** resistance 5 to acid, cold, electricity, fire, and poison.
+
+**Drawback** You take a –1 penalty to AC and a –2 penalty to Reflex saves.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

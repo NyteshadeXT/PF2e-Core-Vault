@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency for [[Composite Shortbow|Composite Shortbow]], [[Glaive|Glaive]], [[Longspear|Longspear]], [[Longsword|Longsword]], [[Shortbow|Shortbow]], [[Spear|Spear]], and all conrasu weapons([[Buugeng|Buugeng]]) in which you are trained.
+Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency for [[Equipment/Composite Shortbow|Composite Shortbow]], [[Equipment/Glaive|Glaive]], [[Equipment/Longspear|Longspear]], [[Equipment/Longsword|Longsword]], [[Equipment/Shortbow|Shortbow]], [[Equipment/Spear|Spear]], and all conrasu weapons([[Equipment/Buugeng|Buugeng]]) in which you are trained.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

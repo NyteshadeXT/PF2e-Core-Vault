@@ -35,7 +35,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Athletics: +14, Stealth: +18, Survival: +16, Athletics: +14, Stealth: +18, Survival: +16"
+    desc: "Athletics: +14, Stealth: +18, Survival: +16"
 abilityMods: [0, 4, 4, -4, 2, 0]
 speed: 20 feet,  climb 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"

@@ -54,10 +54,13 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 30 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 30 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 30 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Twisting Tail"
     desc: "`pf2:r` (move) **Trigger** A creature within reach of the dragon's tail uses a move action or leaves a square during a move action it's using\n* * *\n\n**Effect** The dragon makes a tail Strike at the creature with a -2 penalty. If it hits, the dragon disrupts the creature's action."
@@ -65,20 +68,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +24 (magical, reach 15 feet)\n__Damage__  2d8 + 13 slashing 3d6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+24 (magical, reach 15 feet, unarmed)\n__Damage__  2d8 + 13 slashing 3d6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +24 (agile, magical, reach 10 feet)\n__Damage__  2d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+24 (agile, magical, reach 10 feet, unarmed)\n__Damage__  2d8 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +22 (magical, reach 20 feet)\n__Damage__  1d10 + 13 slashing"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+22 (magical, reach 20 feet)\n__Damage__  1d10 + 13 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 30, attack +22; __3rd __  _[[Spells/Dizzying Colors|Color Spray (x3)]]_, _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Hypnotize|Hypnotic Pattern]]_\n__Cantrips__  __(6th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (primal) The dragon breathes a flurry of piercing crystals that deal 12d6 piercing damage in a @Template[cone|distance:40] (DC 30 Reflex check save).\n\nThey can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (primal) The dragon breathes a flurry of piercing crystals that deal 12d6 piercing damage in a 40-foot cone (DC 30 Reflex check save).\n\nThey can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Crystallize Flesh"
     desc: " (incapacitation,primal) **Trigger** The crystal dragon damages a creature made of flesh with a jaws Strike\n\n**Frequency** once per day\n* * *\n\n**Effect** The dragon embeds transformative crystals in the creature's flesh. The creature must attempt a DC 30 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Slowed|Slowed 1]] for 1 round as portions of its flesh turn crystalline.\n\n**Failure** The target is [[Conditions/Slowed|Slowed 1]] and must attempt a Fortitude save at the end of each of its turns; this ongoing save has the incapacitation trait. On a failed save, the slowed condition value increases by 1 (or by 2 on a critical failure). A successful save reduces the slowed condition value by 1. A creature unable to act due to the slowed condition from Crystallize Flesh is [[Conditions/Petrified|Petrified]] permanently, transforming into a crystalline statue. The effect ends if the creature is petrified or the slowed condition is removed.\n\n**Critical Failure** As failure, but the target is initially [[Conditions/Slowed|Slowed 2]]."

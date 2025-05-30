@@ -8,30 +8,35 @@ tags:
 ---
 
 # 12th-Level Permanent Items
-Table of 12th-Level Permanent Items
+<p>Table of 12th-Level Permanent Items</p>
 
-| 1d126 | result |
+| 1d145 | result |
 |------|--------|
 | 1-3 | Adamantine Armor, Standard-Grade |
-| 4-6 | Duskwood Armor, Standard-Grade |
-| 10-12 | Dawnsilver Armor, Standard-Grade |
-| 13-18 | [[Flying Broomstick\|Broom of Flying]] |
-| 19-24 | [[Marvelous Medicines\|Marvelous Medicines]] |
-| 25-30 | [[Energy-Resistant (Greater)\|Energy-Resistant (Greater)]] |
-| 31-36 | [[3-Rules/Character Building/Equipment/F/Fortification\|Fortification]] |
-| 37-42 | [[Striking (Greater)\|Striking (Greater)]] |
-| 43-48 | [[3-Rules/Character Building/Equipment/A/Animal Staff (Major)\|Animal Staff (Major)]] |
-| 49-54 | [[Mentalist's Staff (Major)\|Mentalist's Staff (Major)]] |
-| 55-60 | [[Staff of Fire (Major)\|Staff of Fire (Major)]] |
-| 61-66 | [[Staff of Healing (Major)\|Staff of Healing (Major)]] |
-| 67-72 | [[Verdant Staff (Greater)\|Verdant Staff (Greater)]] |
-| 73-78 | [[Wand of Smoldering Fireballs (5th-Rank Spell)\|Wand of Smoldering Fireballs (5th-Rank Spell)]] |
-| 79-84 | [[Wand of Widening (5th-Rank Spell)\|Wand of Widening (5th-Rank Spell)]] |
-| 85-90 | Magic Weapon (+2 Greater Striking) |
-| 91-96 | +2 greater striking Handwraps of Mighty Blows |
-| 97-99 | [[3-Rules/Character Building/Equipment/A/Aeon Stone (Pink Rhomboid)\|Aeon Stone (Pink Rhomboid)]] |
-| 100-105 | [[Berserker's Cloak\|Berserker's Cloak]] |
-| 106-111 | [[Cloak of Elvenkind (Greater)\|Cloak of Elvenkind (Greater)]] |
-| 112-117 | [[Ring of Climbing\|Ring of Climbing]] |
-| 118-123 | [[Ring of Swimming\|Ring of Swimming]] |
-| 124-126 | [[Ring of Wizardry (Type III)\|Ring of Wizardry (Type III)]] |
+| 4-6 | Dawnsilver Armor, Standard-Grade |
+| 7-9 | Duskwood Armor (Standard-Grade) |
+| 10-15 | [[Equipment/Lion's Armor\|Lion's Armor]] |
+| 16-21 | [[Equipment/Flying Broomstick\|Flying Broomstick]] |
+| 22-27 | [[Equipment/Marvelous Medicines\|Marvelous Medicines]] |
+| 28-33 | [[Equipment/Brilliant\|Brilliant]] |
+| 34-39 | [[Equipment/Energy-Resistant (Greater)\|Energy-Resistant (Greater)]] |
+| 40-45 | [[Equipment/Fearsome (Greater)\|Fearsome (Greater)]] |
+| 46-51 | [[Equipment/Fortification\|Fortification]] |
+| 52-57 | [[Equipment/Striking (Greater)\|Striking (Greater)]] |
+| 58-63 | [[Equipment/Animal Staff (Major)\|Animal Staff (Major)]] |
+| 64-69 | [[Equipment/Mentalist's Staff (Major)\|Mentalist's Staff (Major)]] |
+| 70 | [[Equipment/Staff of Arcane Might\|Staff of Arcane Might]] |
+| 71-76 | [[Equipment/Staff of Fire (Major)\|Staff of Fire (Major)]] |
+| 77-82 | [[Equipment/Staff of Healing (Major)\|Staff of Healing (Major)]] |
+| 83-88 | [[Equipment/Verdant Staff (Greater)\|Verdant Staff (Greater)]] |
+| 89-94 | [[Equipment/Wand of Widening (5th-Rank Spell)\|Wand of Widening (5th-Rank Spell)]] |
+| 95-100 | Magic Weapon (+1 striking) |
+| 101-106 | Handwraps of Mighty Blows (+2 greater striking) |
+| 107-112 | [[Equipment/Cloak of Illusions (Greater)\|Cloak of Illusions (Greater)]] |
+| 113-118 | [[Equipment/Ring of Climbing\|Ring of Climbing]] |
+| 119-124 | [[Equipment/Ring of Swimming\|Ring of Swimming]] |
+| 125-127 | Dragonhide Armor (Standard-Grade) |
+| 128-130 | [[Equipment/Staff of Impossible Visions (Greater)\|Staff of Impossible Visions (Greater)]] |
+| 131-136 | [[Equipment/Wand of Smoldering Fireballs (5th-Rank Spell)\|Wand of Smoldering Fireballs (5th-Rank Spell)]] |
+| 137-139 | [[Equipment/Four-Ways Dogslicer\|Four-Ways Dogslicer]] |
+| 140-145 | [[Equipment/Berserker's Cloak\|Berserker's Cloak]] |

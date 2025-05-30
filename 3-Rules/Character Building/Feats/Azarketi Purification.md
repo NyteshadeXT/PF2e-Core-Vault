@@ -18,11 +18,11 @@ license: OGL
 
 
 
-You can cast [[Cleanse Cuisine|Cleanse Cuisine]] as a primal innate spell, but only on liquids. You can cast this spell once every 10 minutes.
+You can cast [[Spells/Cleanse Cuisine|Cleanse Cuisine]] as a primal innate spell, but only on liquids. You can cast this spell once every 10 minutes.
 
 You can also use your innate _cleanse cuisine_ on a touched creature instead of a liquid to purify their blood, giving that creature a +2 status bonus for 1 minute on their ongoing saves against poisons already present in their body when you cast the spell.
 
 [[Feat_Feature Effects/Effect_ Azarketi Purification|Effect: Azarketi Purification]]
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

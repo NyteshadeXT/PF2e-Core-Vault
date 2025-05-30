@@ -21,5 +21,5 @@ Granted by [[Familiar Abilities/Lightning Armillary|Lightning Armillary]]
 
 Your weapon or hand deals an additional 1d6 electricity damage, or 1d8 electricity damage.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

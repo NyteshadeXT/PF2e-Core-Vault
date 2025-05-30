@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[3-Rules/Character Building/Equipment/A/Aeon Stone (Pearly White Spindle)|Aeon Stone (Pearly White Spindle)]]
+Granted by [[Equipment/Aeon Stone (Pearly White Spindle)|Aeon Stone (Pearly White Spindle)]]
 
 The resonant power grants you resistance 1 to void damage.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

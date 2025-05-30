@@ -55,7 +55,7 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "+2 Greater Striking Shortsword, +2 Resilient Leather Armor, Faith Tattoo (True)"
+    desc: "[[Equipment/Shortsword|+2 Greater Striking Shortsword]], [[Equipment/Leather Armor|+2 Resilient Leather Armor]], [[Equipment/Faith Tattoo (True)|Faith Tattoo (True)]]"
   - name: "Constant Spells"
     desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
 
@@ -70,8 +70,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +33 (agile, finesse, magical, versatile p)\n__Damage__  3d6 + 14 slashing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+33 (agile, finesse, magical, versatile p)\n__Damage__  3d6 + 14 slashing"
 
   - name: "Divine Innate Spells"
     desc: "DC 37, attack +29; __8th __  _[[Spells/Heal|Heal (x3)]]_, _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Toxic Cloud|Toxic Cloud]]_; __7th __  _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Slither|Slither]]_; __6th __  _[[Spells/Sending|Sending (x3)]]_, _[[Spells/Spellwrack|Spellwrack]]_; __4th __  _[[Spells/Invisibility|Invisibility (x3)]]_, _[[Spells/Silence|Silence (x3)]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Message|Message]]_\n__Constant__  __(8th)__ _[[Spells/Truesight|Truesight]]_, _[[Spells/Truespeech|Truespeech]]_"

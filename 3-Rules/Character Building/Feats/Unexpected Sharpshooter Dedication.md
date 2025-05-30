@@ -25,7 +25,7 @@ license: OGL
 
 Who needs skill when you've got dumb luck? Sometimes your shots hit miraculously, regardless of the fact that you seemed to slip when you pulled the trigger or that you weren't aiming at your foe when you fired. You gain the [[Actions/Accidental Shot|Accidental Shot]] activity.
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Unexpected Sharpshooter|Unexpected Sharpshooter]] archetype.
+[[PF2e Journals/Archetypes/Unexpected Sharpshooter|Unexpected Sharpshooter]]
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

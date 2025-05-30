@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +8 (finesse)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+8 (finesse)\n__Damage__ "
 
   - name: "Attach"
     desc: "  When a hyacinth lamprey hits a target larger than itself, its circular rows of teeth attach it to that creature. This is similar to grabbing the creature, but the lamprey moves with that creature rather than holding it in place. The lamprey is [[Conditions/Off-Guard|Off-Guard]] while attached. If the lamprey is killed or pushed away while attached to a creature it has drained water from, that creature takes 1 persistent bleed damage. Escaping the attach or removing the lamprey in other ways doesn't cause bleed damage."

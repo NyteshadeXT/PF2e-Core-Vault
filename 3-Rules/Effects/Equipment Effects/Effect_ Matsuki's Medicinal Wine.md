@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Matsuki's Medicinal Wine|Matsuki's Medicinal Wine]]
+
 You gain a +2 item bonus to Fortitude saving throws against diseases and poison.
 
 *Source: Pathfinder #196: The Summer That Never Was*

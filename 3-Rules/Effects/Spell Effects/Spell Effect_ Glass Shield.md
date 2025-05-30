@@ -17,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Glass Shield|Glass Shield]]
+Granted by [[Spells/Glass Shield|Glass Shield]]
 
-You summon a layer of clear glass to keep you from harm.
+You gain a +1 circumstance bonus to AC. You can Shield Block with the glass shield.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

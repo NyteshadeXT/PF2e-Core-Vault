@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Vapor Form|Vapor Form]]
+Granted by [[Spells/Vapor Form|Vapor Form]]
 
-The target gains resistance 8 to physical damage and is immune to precision damage. The target also gains a fly Speed of 10 feet.
+You lose any item bonus to your AC, gain resistance 8 to physical damage, immunity to precision damage, and a fly Speed of 10 feet.
 
 *Source: Pathfinder Player Core*
 *ORC*

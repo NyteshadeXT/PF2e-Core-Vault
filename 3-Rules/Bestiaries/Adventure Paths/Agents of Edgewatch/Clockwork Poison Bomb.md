@@ -49,7 +49,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Disable"
-    desc: "Three DC 31 Thievery check (expert) checks to [[Actions/Disable a Device|Disable a Device]] to disable the latches that lock the nozzle in place, then one DC 35 Thievery check (master) check to Disable a Device to turn off the nozzle; DCs decrease by 2 if Oggvurm is immobilized, paralyzed, unconscious, or dead"
+    desc: "Three [[Actions/disable-device dc=31|disable-device dc=31]]{DC 31 Thievery} (expert) checks to [[Actions/Disable a Device|Disable a Device]] to disable the latches that lock the nozzle in place, then one [[Actions/disable-device dc=35|disable-device dc=35]]{DC 35 Thievery} (master) check to Disable a Device to turn off the nozzle; DCs decrease by 2 if Oggvurm is immobilized, paralyzed, unconscious, or dead"
 attacks:
   - name: ""
 

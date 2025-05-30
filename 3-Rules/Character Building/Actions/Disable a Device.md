@@ -4,8 +4,7 @@ title: "Disable a Device"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/manipulate
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6"
@@ -13,16 +12,16 @@ license: ORC
 ---
 # Disable a Device `pf2:2`
 
-### [[3-Rules/Rule References/Manipulate]][[skill]]
+### [[manipulate]]
 
 **Category** interaction; 
 
 
 
 
-This action allows you to disarm a trap or another complex device. Often, a device requires numerous successes before becoming disabled, depending on its construction and complexity. A [[Thieves' Toolkit|Thieves' Toolkit]] is helpful and sometimes even required to Disable a Device, as determined by the GM, and sometimes a device requires a higher proficiency rank in Thievery to disable it.
+This action allows you to disarm a trap or another complex device. Often, a device requires numerous successes before becoming disabled, depending on its construction and complexity. A [[Equipment/Thieves' Toolkit|Thieves' Toolkit]] is helpful and sometimes even required to Disable a Device, as determined by the GM, and sometimes a device requires a higher proficiency rank in Thievery to disable it.
 
-Your Thievery check result determines your progress.
+Your [[Actions/disable-device|disable-device]]{Thievery} check result determines your progress.
 
 * * *
 

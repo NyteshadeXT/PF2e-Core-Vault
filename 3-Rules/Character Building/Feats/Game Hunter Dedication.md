@@ -26,9 +26,13 @@ When you succeed at a Strike against your hunted prey while it's [[Conditions/Of
 
 If you already have Hunt Prey, you become an expert in Survival. You apply the Stealth bonus and the Speed reduction only when your prey is an animal, beast, or dragon.
 
+[[Feat_Feature Effects/Effect_ Game Hunter (Failure)|Effect: Game Hunter (Failure)]]
+
+[[Feat_Feature Effects/Effect_ Game Hunter (Critical Failure)|Effect: Game Hunter (Critical Failure)]]
+
 * * *
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Game Hunter|Game Hunter]] archetype.
+[[PF2e Journals/Archetypes/Game Hunter|Game Hunter]]
 
 *Source: Pathfinder #175: Broken Tusk Moon*
 *OGL*

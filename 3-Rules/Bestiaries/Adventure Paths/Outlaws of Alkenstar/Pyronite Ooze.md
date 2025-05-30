@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Constant Explosions"
@@ -64,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +23 (reach 10 feet)\n__Damage__  3d10 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+23 (reach 10 feet, unarmed)\n__Damage__  3d10 + 10 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blast +21 (fire, range increment 40 feet)\n__Damage__  3d8 + 3 fire"
+  - name: "**Ranged** `pf2:1` Blast"
+    desc: "+21 (fire, range increment 40 feet)\n__Damage__  3d8 + 3 fire"
 
   - name: "Exploding Split"
     desc: "`pf2:2`  **Requirements** The pyronite ooze is Large\n* * *\n\n**Effect** The pyronite ooze explodes in a violent conflagration, dealing 3d6 fire and 3d6 bludgeoning damage to all creatures in a 30-foot radius (DC 29 Reflex check). This explosion can't cause other pyronite oozes to split. After exploding, the ooze splits into two Medium pyronite oozes (see above), but this splitting doesn't deal additional damage."

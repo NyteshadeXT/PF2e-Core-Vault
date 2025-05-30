@@ -14,7 +14,7 @@ license: OGL
 ---
 # Energize Wings
 ## Feat 5
-### [[concentrate]][[morph]][[primal]][[3-Rules/Bestiaries/Bestiary 1/S/Sprite]]
+### [[concentrate]][[morph]][[primal]][[sprite]]
 
 **Category** ancestry; 
 
@@ -24,5 +24,5 @@ license: OGL
 * * *
 Your magic energizes your wings, allowing you to fly farther. The fly Speed you gain from [[Feats/Evanescent Wings|Evanescent Wings]] increases to 25 feet.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

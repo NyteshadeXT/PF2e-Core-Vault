@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +12 ()\n__Damage__  2d8 + 2 bludgeoning plus adhesive"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+12 (unarmed)\n__Damage__  2d8 + 2 bludgeoning plus adhesive"
 
   - name: "Mimic Object"
     desc: "`pf2:1` (concentrate,polymorph) The mimic assumes the shape of any Medium object. This doesn't change the mimic's texture or overall size but can alter its coloration and visual appearance. It has an automatic result of 26 on Deception checks and DCs to pass as the object that it's mimicking."

@@ -52,6 +52,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 120 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Hive Mind"
     desc: " (primal) Formians operate from a shared hive intelligence that allows them to communicate nearly instantaneously. While within telepathic range of at least one other formian from the same hive mind, a formian worker gains a +2 circumstance bonus to initiative checks, Perception checks, and saving throws against mental effects. If one formian is aware of a combatant, all members of the hive mind within range are aware of it."
 
@@ -69,11 +75,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +32 (agile, finesse)\n__Damage__  3d10 + 13 slashing plus stupefying-touch 3d6 mental plus stupefying-touch"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+32 (agile, finesse, unarmed)\n__Damage__  3d10 + 13 slashing plus stupefying-touch 3d6 mental plus stupefying-touch"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Spit +32 (range 60 feet)\n__Damage__  3d6 + 8 acid 3d6 acid"
+  - name: "**Ranged** `pf2:1` Acid Spit"
+    desc: "+32 (range 60 feet)\n__Damage__  3d6 + 8 acid 3d6 acid"
 
   - name: "Stupefying Touch"
     desc: " (curse,primal) A creature damaged by a mageslayer's claw Strike must succeed at a DC 37 Will check save. The creature becomes [[Conditions/Stupefied|Stupefied 2]] for 1 round on a failure. On a critical failure, the creature is stupefied 2 for 1 hour."

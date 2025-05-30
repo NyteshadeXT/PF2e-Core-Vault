@@ -4,7 +4,7 @@ title: "Objection"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/fortune
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.BKMxC0ZvdYfdhx7C"
 license: OGL

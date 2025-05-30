@@ -67,11 +67,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (occult) Restoring the vandalized inscriptions and reciting their corrected stories ushers these spirits back to the afterlife.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Clan Dagger +8 (agile, finesse, magical)\n__Damage__  1d6 + 2 void"
+  - name: "**Melee** `pf2:1` Ghostly Clan Dagger"
+    desc: "+8 (agile, finesse, magical)\n__Damage__  1d6 + 2 void"
 
   - name: "Ancient Anecdote"
     desc: "`pf2:1` (auditory,linguistic,mental,occult) **Frequency** once per round\n* * *\n\n**Effect** Alkepsur banters with a creature within 60 feet while referencing a forgotten anecdote. The creature must attempt either a DC 18 Will check saving throw or DC 15 Dwarf Lore check check.\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Stunned|Stunned 1]] as they try to decipher the reference.\n\n**Critical Failure** The anecdote makes the target [[Conditions/Confused|Confused]] and [[Conditions/Stupefied|Stupefied 2]] for 1 round."

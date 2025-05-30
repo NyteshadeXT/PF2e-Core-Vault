@@ -24,9 +24,9 @@ Your yaoguai form has reached its pinnacle, allowing you to assume (or perhaps, 
 
 Once per day when you Unleash Yaoguai Might, you can gain one of the following additional benefits, which persists for 1 minute or until you Change Shape again.
 
-*   Your body grows to impossible heights. Your [[Enlarge|Enlarge]] effect is heightened to 4th rank.
+*   Your body grows to impossible heights. Your [[Spells/Enlarge|Enlarge]] effect is heightened to 4th rank.
 *   Your spiritual power erupts to punish your enemies. You deal an additional 1d4 spirit damage with all Strikes and attack spells, and your Strikes and attack spells gain the spirit trait.
-*   You can leap off the air itself. You gain the effects of the [[3-Rules/Character Building/Spells/F/Fly|Fly]] spell.
+*   You can leap off the air itself. You gain the effects of the [[Spells/Fly|Fly]] spell.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Roar Mimicry `pf2:2`
 ## Feat 12
-### [[archetype]][[primal]][[3-Rules/trait_reference/sonic]]
+### [[archetype]][[primal]][[sonic]]
 
 **Category** class; 
 
@@ -24,7 +24,9 @@ license: ORC
 * * *
 **Frequency** once per 10 minutes
 
-You unleash a roar so loud that it's felt as deeply as it's heard. All creatures within a @Template\[emanation|distance:15\] take 8d6 sonic damage and must attempt a Fortitude check save against the higher of your class DC or spell DC. This damage increases by 2d6 at 14th level and every 2 levels thereafter.
+* * *
+
+You unleash a roar so loud that it's felt as deeply as it's heard. All creatures within a 15-foot emanation take 8d6 sonic damage and must attempt a Fortitude check save against the higher of your class DC or spell DC. This damage increases by 2d6 at 14th level and every 2 levels thereafter.
 
 * * *
 

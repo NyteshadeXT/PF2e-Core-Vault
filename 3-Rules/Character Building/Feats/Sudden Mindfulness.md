@@ -24,5 +24,5 @@ license: OGL
 
 Your mind retains full awareness despite the best attempts of others, and your focus throws others off-balance. You get a critical success on the triggering saving throw, and if the triggering effect was caused by a creature, that creature is [[Conditions/Off-Guard|Off-Guard]] to you until the end of your next turn.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.XAvDZdWNTVBp68aN"
 license: ORC
 ---
-# Memory of Mastery `pf2:1`
+# Memory of Mastery
 ## Feat 13
 ### [[samsaran]]
 
@@ -22,5 +22,5 @@ license: ORC
 * * *
 Flashes of past selves surface in an instant, especially when you're under duress. You can use [[Feats/Memory of Skill|Memory of Skill]] once per hour instead of once per day.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

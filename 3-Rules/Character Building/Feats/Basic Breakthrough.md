@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.asPQEfYCcsbYxx6K"
-license: OGL
+license: ORC
 ---
 # Basic Breakthrough
 ## Feat 4
@@ -22,4 +23,4 @@ license: OGL
 You gain a 1st- or 2nd-level inventor feat of your choice.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Heavenly Rolling Flames|Heavenly Rolling Flames]]
+Granted by [[Equipment/Heavenly Rolling Flames|Heavenly Rolling Flames]]
 
 You gain a fly Speed of 20 feet.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

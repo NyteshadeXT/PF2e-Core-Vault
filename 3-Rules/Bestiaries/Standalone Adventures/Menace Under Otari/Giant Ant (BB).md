@@ -3,7 +3,7 @@ title: "Giant Ant (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.2vyM10zN0JYdzyxt" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.mEZUTqNIgu0ASApu" 
 tags:
   - pf2e/creature/type/animal
   - pf2eMonster
@@ -29,7 +29,7 @@ trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "+7; "
+    desc: "+7; Darkvision"
 languages: ""
 skills:
   - name: "Skills"
@@ -54,11 +54,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandible +9 ()\n__Damage__  1d8 + 4 slashing plus grab"
+  - name: "**Melee** `pf2:1` Mandible"
+    desc: "+9 ()\n__Damage__  1d8 + 4 slashing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +9 (agile)\n__Damage__  1d6 + 4 piercing plus giant-ant-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+9 (agile)\n__Damage__  1d6 + 4 piercing plus giant-ant-venom"
 
   - name: "Giant Ant Venom"
     desc: " (poison) A target that takes piercing damage from the giant ant's stinger Strike must succeed at a DC 18 Fortitude check save or take 1d10 poison damage."
@@ -67,7 +67,7 @@ attacks:
     desc: "`pf2:1`  If the giant ant has a creature grabbed or restrained with its mandibles, it can spend this action to Stride up to its speed, carrying the creature with it. At the end of the Stride, place the creature in any open square adjacent to the giant ant."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

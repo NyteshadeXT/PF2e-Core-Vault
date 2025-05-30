@@ -11,15 +11,16 @@ tags:
   - trait/focus
   - trait/incapacitation
   - trait/manipulate
-  - trait/common
+  - trait/uncommon
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.rVhHaWqUsVUO4GuY" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Eject Soul  `pf2:2`"
 level: "Focus 1"
-
+rare_03: [[Uncommon]]
 trait_01: [[cleric]]
 trait_02: [[concentrate]]
 trait_03: [[focus]]
@@ -36,6 +37,6 @@ abilities_top:
     desc: " fortitude"
 abilities_mid:
   - name: ""
-    desc: "Your touch disrupts the connection between body and soul, possibly forcing the soul out of the body altogether. The target must attempt a Fortitude save. You can allow allies to choose the degree of success instead of rolling a saving throw.\n* * *\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Stunned|Stunned 1]] as its soul briefly loses its connection to its body.\n\n**Critical Failure** The target's soul exits its body for 1 round. The target's body becomes Stunned. While its body is stunned in this way, the target remains fully aware in soul form; it simply can't consciously move its body (though the body makes basic instinctual defensive movements). The target's soul has the incorporeal trait, is [[Conditions/Invisible|Invisible]], and has a fly Speed of 60 feet. It can't attack, cast spells, or attempt any skill checks that require a physical body, and it must always maintain line of effect to its body. When the target's body ceases being stunned, the target's soul instantly returns to its body as the target wakes.\n* * *\n\n**Heightened (+3)** If a willing ally chooses to critically fail, it can stay in soul form for 1 additional round."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+    desc: "Your touch disrupts the connection between body and soul, possibly forcing the soul out of the body altogether. The target must attempt a Fortitude save. You can allow allies to choose the degree of success instead of rolling a saving throw.\n* * *\n\n**Success** The target is unaffected.\n\n**Failure** The target is [[Conditions/Stunned|Stunned 1]] as its soul briefly loses its connection to their body.\n\n**Critical Failure** The target's soul exits its body and the target's body becomes stunned for 1 round. While their body is stunned in this way, the target remains fully aware in soul form; they simply can't consciously move their body (though the body makes basic instinctual defensive movements). The target's soul has the incorporeal trait, is [[Conditions/Invisible|Invisible]], and has a fly Speed of 60 feet. It can't attack, cast spells, or attempt any skill checks that require a physical body, and it must always maintain line of effect to the target's body. When the target's body ceases being stunned, the target's soul instantly returns to their body as the target wakes.\n* * *\n\n**Heightened (+3)** If a willing ally chooses to critically fail, they can stay in soul form for 1 additional round."
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

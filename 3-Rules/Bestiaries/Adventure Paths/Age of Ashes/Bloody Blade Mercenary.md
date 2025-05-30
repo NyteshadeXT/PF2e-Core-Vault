@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +9 (versatile p)\n__Damage__  1d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+9 (versatile p)\n__Damage__  1d8 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +8 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+8 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "Hunt Prey"
     desc: "`pf2:1`  The bloody blade mercenary designates a single creature as their prey and focuses their attacks against that creature. The mercenary must be able to see or hear the prey, or must be tracking the prey during exploration.\n\nThe mercenary gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seeks]] their prey and a +2 circumstance bonus to Survival checks when they [[Actions/Track|Tracks]] their prey. The mercenary also ignores the penalty for making ranged attacks within their second range increment against the prey they are hunting.\n\nThe mercenary can have only one creature designated as their prey at a time. If they use Hunt Prey against a creature when they already have a creature designated, the prior creature loses the designation and the new prey gains the designation. This designation lasts until their next daily preparations."

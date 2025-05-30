@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +13 (magical, two-hand d8)\n__Damage__  1d4 + 2 bludgeoning plus owlbear-claw"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+13 (magical, two-hand d8)\n__Damage__  1d4 + 2 bludgeoning plus owlbear-claw"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 24, attack +17; __3rd __ (4 slots) _[[Spells/Clairaudience|Clairaudience]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Wanderer's Guide|Wanderer's Guide]]_; __2nd __ (4 slots) _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Silence|Silence]]_; __1st __ (4 slots) _[[Spells/Alarm|Alarm]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Animate Object|Animate Object]]_, _[[Spells/Inveigle|Inveigle]]_"
+    desc: "_Animate Object_, _Inveigle_"
 
   - name: "Steady Spellcasting"
     desc: "  If another creature's reaction would disrupt Elga's spellcasting action, she attempts a DC 15 Flat check. If she succeeds, her action isn't disrupted."

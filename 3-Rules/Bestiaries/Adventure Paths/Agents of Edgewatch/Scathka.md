@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +23 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+23 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +23 (agile, magical, thrown 10 ft.)\n__Damage__  2d4 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+23 (agile, magical, thrown 10 ft.)\n__Damage__  2d4 + 1 piercing"
 
   - name: "Prepared Arcane Spells"
     desc: "DC 33, attack +25; __6th __  _[[Spells/Mislead|Mislead]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Shadow Siphon|Shadow Siphon]]_, _[[Spells/Umbral Journey|Shadow Walk]]_; __4th __  _[[Spells/Flicker|Blink]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Spell Immunity|Spell Immunity]]_, _[[Spells/Weapon Storm|Weapon Storm]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Ghostly Weapon|Ghostly Weapon]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Ghostly Carrier|Spectral Hand]]_; __1st __  _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"

@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +35 (agile, finesse, magical, reach 15 feet, unholy)\n__Damage__  2d12 + 14 slashing 2d6 fire 2d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+35 (agile, finesse, magical, reach 15 feet, unarmed, unholy)\n__Damage__  2d12 + 14 slashing 2d6 fire 2d6 spirit"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Lava Bomb +35 (range increment 100 feet, splash, unholy)\n__Damage__  4d8 fire 2d6 fire 8 fire"
+  - name: "**Ranged** `pf2:1` Lava Bomb"
+    desc: "+35 (range increment 100 feet, splash, unholy)\n__Damage__  4d8 fire 2d6 fire 8 fire"
 
   - name: "Divine Innate Spells"
     desc: "DC 41, attack +33; __10th __  _[[Spells/Massacre|Massacre]]_; __8th __  _[[Spells/Volcanic Eruption|Volcanic Eruption (x3)]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Good Only)]]_"
@@ -80,10 +80,10 @@ attacks:
     desc: "`pf2:3` (divine,healing) **Frequency** once per day\n* * *\n\n**Effect** The agradaemon designates a single willing mortal as a pledged fanatic. That creature gains resistance to fire equal to its level, immunity to the agradaemon's choking smog aura, and smoke vision.\n\nThe agradaemon can have up to 10 pledged fanatics at one time and can remove the status from any number of pledged fanatics as a free action with the concentrate trait. The status can also be removed with an [[Spells/Atone|Atone]] ritual."
 
   - name: "Proven Devotion"
-    desc: "`pf2:1` (concentrate,fire) The agradaemon regains 15 untyped Hit Points, and a pledged fanatic of the agradaemon's choice that it can see loses 15 Hit Points (no effects apply that would decrease this Hit Point loss).\n\nA pledged creature that dies in this way explodes and deals 9d10 fire damage in a @Template[emanation|distance:20] (DC 41 Reflex check save)."
+    desc: "`pf2:1` (concentrate,fire) The agradaemon regains 15 untyped Hit Points, and a pledged fanatic of the agradaemon's choice that it can see loses 15 Hit Points (no effects apply that would decrease this Hit Point loss).\n\nA pledged creature that dies in this way explodes and deals 9d10 fire damage in a 20-foot emanation (DC 41 Reflex check save)."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n\n* * *\n"
+    desc: "`pf2:1`  Claw\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
  
 ```
 

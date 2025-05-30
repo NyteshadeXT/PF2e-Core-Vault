@@ -54,6 +54,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Distort Magic"
@@ -65,11 +71,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +35 (agile, finesse, magical, unholy)\n__Damage__  4d8 + 13 bludgeoning 5d6 spirit"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+35 (agile, finesse, magical, unarmed, unholy)\n__Damage__  4d8 + 13 bludgeoning 5d6 spirit"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mindtwisting Utterance +36 (auditory, magical, mental, range increment 100 feet, unholy)\n__Damage__  4d12 mental 5d6 spirit"
+  - name: "**Ranged** `pf2:1` Mindtwisting Utterance"
+    desc: "+36 (auditory, magical, mental, range increment 100 feet, unholy)\n__Damage__  4d12 mental 5d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 41, attack +33; __9th __  _[[Spells/Dispel Magic|Dispel Magic (At Will)]]_, _[[Spells/Weird|Weird]]_; __8th __  _[[Spells/Hidden Mind|Mind Blank]]_; __4th __  _[[Spells/Fear|Fear (At Will)]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Nightmare|Nightmare (At Will)]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(9th)__ _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Mask of Terror|Mask of Terror (See Tainted Backlash)]]_"

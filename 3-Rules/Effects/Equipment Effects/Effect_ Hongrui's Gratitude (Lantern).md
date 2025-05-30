@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Hongrui's Gratitude|Hongrui's Gratitude]]
+
 You gain a +1 item bonus to Diplomacy checks and cast bright light in a 20-foot radius (and dim light for the next 20 feet).
 
 *Source: Pathfinder #196: The Summer That Never Was*

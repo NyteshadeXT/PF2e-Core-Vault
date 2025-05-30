@@ -4,7 +4,7 @@ title: "(Ghost) Corporeal Manifestation"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.WQjFPBQPDu6vyJny"
 license: OGL

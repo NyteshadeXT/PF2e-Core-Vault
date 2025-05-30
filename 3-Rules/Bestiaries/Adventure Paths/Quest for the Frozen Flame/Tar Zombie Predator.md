@@ -58,11 +58,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 ()\n__Damage__  2d10 + 10 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (unarmed)\n__Damage__  2d10 + 10 bludgeoning plus improved-grab"
 
   - name: "Flammable"
     desc: "  A tar zombie requires a successful DC 20 flat check to recover from persistent fire damage. This DC isn't reduced for assisted recovery."
@@ -71,7 +74,10 @@ attacks:
     desc: "`pf2:2`  The tar zombie predator lurches at its foe. It Strides twice and makes a claw Strike, or strides once and makes two claw Strikes. Both Strikes count toward its multiple attack penalty as normal. It can't make a Tar-Spattered Charge again for 1d4 rounds."
 
   - name: "Vomit Tar"
-    desc: "`pf2:2` (primal) The tar zombie vomits a gout of sticky tar in a @Template[cone|distance:15] that deals 6d6 bludgeoning damage ((DC 25 Reflex check) save). Creatures that fail the save are [[Conditions/Slowed|Slowed 1]] and gain fire weakness 5. Both conditions end after 3 rounds or when the tar is scrubbed off (which requires 3 Interact actions). The tar zombie can't Vomit Tar again for 1d4 rounds.\n\n[[Bestiary Effects/Effect_ Vomit Tar|Effect: Vomit Tar]]"
+    desc: "`pf2:2` (primal) The tar zombie vomits a gout of sticky tar in a 15-foot cone that deals 6d6 bludgeoning damage ((DC 25 Reflex check) save). Creatures that fail the save are [[Conditions/Slowed|Slowed 1]] and gain fire weakness 5. Both conditions end after 3 rounds or when the tar is scrubbed off (which requires 3 Interact actions). The tar zombie can't Vomit Tar again for 1d4 rounds.\n\n[[Bestiary Effects/Effect_ Vomit Tar|Effect: Vomit Tar]]"
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

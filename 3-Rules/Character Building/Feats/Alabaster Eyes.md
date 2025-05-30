@@ -22,5 +22,5 @@ In place of the normal vishkanyan golden eyes, you were born with especially per
 
 **Special** You can take this feat only at 1st level, and you can't retrain out of this feat or into this feat.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

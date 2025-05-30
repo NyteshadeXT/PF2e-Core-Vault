@@ -17,7 +17,9 @@ license: ORC
 
 
 
-You take a penalty to the strike damage equal to 2 + the origin's level.
+Granted by [[Feats/Cringe|Cringe]] via Ephemeral Effect
+
+You take a circumstance penalty to the Strike's damage equal to 2 + the origin's level.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

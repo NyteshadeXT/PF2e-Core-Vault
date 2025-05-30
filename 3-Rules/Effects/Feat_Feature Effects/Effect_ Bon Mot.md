@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Bon Mot|Bon Mot]]
 
-You are distracted and take a status penalty to Perception and Will saves.
+You take a status penalty to Perception and Will saves.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

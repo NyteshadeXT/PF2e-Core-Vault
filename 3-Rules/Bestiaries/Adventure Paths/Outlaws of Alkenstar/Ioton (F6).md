@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Touch +6 (agile, magical, mental)\n__Damage__  1d4 + 2 mental plus leech-thought"
+  - name: "**Melee** `pf2:1` Touch"
+    desc: "+6 (agile, magical, mental)\n__Damage__  1d4 + 2 mental plus leech-thought"
 
   - name: "Occult Innate Spells"
     desc: "DC 14, attack +4\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_"

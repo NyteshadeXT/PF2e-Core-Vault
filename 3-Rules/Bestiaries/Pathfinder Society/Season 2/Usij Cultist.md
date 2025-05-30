@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +7 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+7 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +7 (disarm, finesse, nonlethal, reach 10 feet, trip)\n__Damage__  1d4 + 4 slashing"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+7 (disarm, finesse, nonlethal, reach 10 feet, trip)\n__Damage__  1d4 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +5 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+5 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 17, attack +9; __1st __ (3 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Shield|Shield]]_"

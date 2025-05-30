@@ -61,17 +61,20 @@ abilities_mid:
   - name: "Slow"
     desc: "  A zombie is permanently [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tusk +20 (reach 15 feet)\n__Damage__  2d8 + 10 piercing"
+  - name: "**Melee** `pf2:1` Tusk"
+    desc: "+20 (reach 15 feet, unarmed)\n__Damage__  2d8 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Trunk +20 (reach 15 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Trunk"
+    desc: "+20 (reach 15 feet)\n__Damage__ "
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +20 (reach 10 feet)\n__Damage__  2d10 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+20 (reach 10 feet, unarmed)\n__Damage__  2d10 + 10 bludgeoning"
 
   - name: "Dual Tusks"
     desc: "`pf2:1`  The zombie mammoth makes two tusk Strikes, each against a different creature. This counts as one attack for the mammoth's multiple attack penalty, and the penalty doesn't increase until after both attacks."

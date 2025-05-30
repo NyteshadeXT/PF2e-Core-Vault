@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You can transform into a harmless bat. You gain the effects of a 4th-rank [[Pest Form|Pest Form]], except you always transform into a bat.
+You can transform into a harmless bat. You gain the effects of a 4th-rank [[Spells/Pest Form|Pest Form]], except you always transform into a bat.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

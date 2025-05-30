@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shears +11 (finesse, forceful, magical)\n__Damage__  1d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Shears"
+    desc: "+11 (finesse, forceful, magical)\n__Damage__  1d8 + 4 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Entangling Flora|Entangling Flora]]_, _[[Spells/Laughing Fit|Laughing Fit]]_, _[[Spells/Shape Wood|Shape Wood]]_; __1st __  _[[Spells/Sleep|Sleep (x3)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_, _[[Spells/Tangle Vine|Tangle Vine]]_\n__Constant__  __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"

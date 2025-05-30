@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Transcendent Realization
 * * *
-Not even space itself is a match for the unleashed power of your mind. You can cast [[Teleport|Teleport]] as an innate occult spell. You don't need to touch creatures to target them with this innate spell as long as they're in range of your empathic sense.
+Not even space itself is a match for the unleashed power of your mind. You can cast [[Spells/Teleport|Teleport]] as an innate occult spell. You don't need to touch creatures to target them with this innate spell as long as they're in range of your empathic sense.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Keen Nose
 ## Feat 1
-### [[Minotaur]]
+### [[minotaur]]
 
 **Category** ancestry; 
 

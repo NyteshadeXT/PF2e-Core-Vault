@@ -56,6 +56,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Truth Vulnerability"
@@ -64,20 +70,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pincer +33 (deadly 3d10, magical, reach 15 feet, unholy)\n__Damage__  3d10 + 14 bludgeoning plus grab 2d6 spirit plus grab"
+  - name: "**Melee** `pf2:1` Pincer"
+    desc: "+33 (deadly 3d10, magical, reach 15 feet, unholy)\n__Damage__  3d10 + 14 bludgeoning plus grab 2d6 spirit plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +33 (agile, magical, reach 10 feet, unholy)\n__Damage__  3d6 + 14 slashing 2d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+33 (agile, magical, reach 10 feet, unarmed, unholy)\n__Damage__  3d6 + 14 slashing 2d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +33 (magical, reach 10 feet, unholy)\n__Damage__  3d12 + 14 piercing 2d6 spirit"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+33 (magical, reach 10 feet, unarmed, unholy)\n__Damage__  3d12 + 14 piercing 2d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 38, attack +30; __9th __  _[[Spells/Wails of the Damned|Wail of the Banshee]]_; __8th __  _[[Spells/Dispel Magic|Dispel Magic (At Will)]]_, _[[Spells/Spiritual Epidemic|Spiritual Epidemic]]_; __7th __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_, _[[Spells/Reverse Gravity|Reverse Gravity]]_; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Confusion|Confusion (At Will)]]_, _[[Spells/Translocate|Dimension Door (At Will)]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image (At Will)]]_\n__Cantrips__  __(9th)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_ __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "Captive Rake"
     desc: "`pf2:1`  **Requirements** A creature is [[Conditions/Grabbed|Grabbed]] in the glabrezu's pincer\n* * *\n\n**Effect** The glabrezu pulls the grabbed creature up to 5 feet closer, then makes two claw Strikes against it. Those Strikes count as one attack when determining the glabrezu's multiple attack penalty, and the penalty doesn't increase until after both Strikes."
@@ -95,7 +101,7 @@ attacks:
     desc: " (divine) Once per month, a glabrezu can grant a mortal humanoid the effects of a [[Spells/Miracle|Miracle]] spell granted by an Abyssal patron, though the glabrezu always perverts the miracle according to their own treacherous nature."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

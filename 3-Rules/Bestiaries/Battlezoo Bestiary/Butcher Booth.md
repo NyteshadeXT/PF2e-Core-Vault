@@ -70,8 +70,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +26 ()\n__Damage__  3d10 + 14 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+26 ()\n__Damage__  3d10 + 14 bludgeoning plus improved-grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 30, attack +22; __6th __  _[[Spells/Charm|Charm]]_, _[[Spells/Illusory Scene|Illusory Scene]]_; __5th __  _[[Spells/False Vision|False Vision]]_, _[[Spells/Mirage|Hallucinatory Terrain]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_"

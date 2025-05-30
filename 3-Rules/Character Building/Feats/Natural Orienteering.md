@@ -12,7 +12,7 @@ license: ORC
 ---
 # Natural Orienteering
 ## Feat 5
-### [[Minotaur]]
+### [[minotaur]]
 
 **Category** ancestry; 
 

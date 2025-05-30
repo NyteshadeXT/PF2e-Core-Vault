@@ -29,5 +29,5 @@ You transfer the divine essence of your magic to the air around you, cleansing i
 
 [[Feat_Feature Effects/Effect_ Purifying Breeze|Effect: Purifying Breeze]]
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

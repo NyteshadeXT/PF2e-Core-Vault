@@ -66,17 +66,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Gust +24 (finesse, reach 20 feet)\n__Damage__  2d10 + 12 bludgeoning plus push"
+  - name: "**Melee** `pf2:1` Gust"
+    desc: "+24 (finesse, reach 20 feet)\n__Damage__  2d10 + 12 bludgeoning plus push"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Lightning Lash +24 (range increment 75 feet)\n__Damage__  2d12 + 6 electricity"
+  - name: "**Ranged** `pf2:1` Lightning Lash"
+    desc: "+24 (range increment 75 feet)\n__Damage__  2d12 + 6 electricity"
 
   - name: "Gale Breath"
-    desc: "`pf2:2` (air) The elemental exhales a @Template[cone|distance:30] of air. Creatures in the cone must succeed at a DC 29 Fortitude check save or be knocked away from the elemental.\n\nA creature knocked into a solid object stops moving and takes 10d6 bludgeoning damage (roll the damage once for all creatures).\n\nThe elemental hurricane can't use Gale Breath again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is pushed 20 feet.\n\n**Failure** The creature is pushed 40 feet.\n\n**Critical Failure** The creature is pushed 40 feet and knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:2` (air) The elemental exhales a 30-foot cone of air. Creatures in the cone must succeed at a DC 29 Fortitude check save or be knocked away from the elemental.\n\nA creature knocked into a solid object stops moving and takes 10d6 bludgeoning damage (roll the damage once for all creatures).\n\nThe elemental hurricane can't use Gale Breath again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is pushed 20 feet.\n\n**Failure** The creature is pushed 40 feet.\n\n**Critical Failure** The creature is pushed 40 feet and knocked [[Conditions/Prone|Prone]]."
 
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

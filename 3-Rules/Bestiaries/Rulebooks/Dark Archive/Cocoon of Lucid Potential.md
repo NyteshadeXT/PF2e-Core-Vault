@@ -56,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Give of Oneself"
-    desc: "`pf2:0`  **Trigger** The Weaver would be reduced to 0 Hit Points\n* * *\n\n**Effect** The cocoon's vitality is linked to the Weaver's. It loses 15 Hit Points to the Weaver. It can use this ability even if it would otherwise be unable to act."
+    desc: "`pf2:0`  **Trigger** The Weaver would be reduced to 0 Hit Points\n* * *\n\n**Effect** The cocoon's vitality is linked to the Weaver's. It loses 30 Hit Points, restoring 15 healing Hit Points to the Weaver. It can use this ability even if it would otherwise be unable to act."
 
   - name: "In There Somewhere"
     desc: "  Killia's individuality still rests within the cocoon, yet trying to resist assimilation. If a PC succeeds at a DC 32 Diplomacy check check on the cocoon, the cocoon takes 5d6 mental damage and is [[Conditions/Stunned|Stunned 1]] as Killia's consciousness fights the Weaver. The cocoon can't be affected in this way more than once per turn."
@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Psychic Scream +27 (mental, occult, range 120 feet, sonic)\n__Damage__  4d6 sonic 4d6 mental"
+  - name: "**Ranged** `pf2:1` Psychic Scream"
+    desc: "+27 (mental, occult, range 120 feet, sonic)\n__Damage__  4d6 sonic 4d6 mental"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 33, attack +27; __7th __ (3 slots) _[[Spells/Invisibility Curtain|Invisibility Curtain]]_, _[[Spells/Spirit Blast|Spirit Blast]]_, _[[Spells/Telekinetic Bombardment|Telekinetic Bombardment]]_; __6th __ (4 slots) _[[Spells/Collective Transposition|Collective Transposition]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Soothe|Soothe]]_; __5th __ (4 slots) _[[Spells/Darkness|Darkness]]_, _[[Spells/Etheric Shards|Etheric Shards]]_, _[[Spells/Sea of Thought|Sea of Thought]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_\n__Cantrips__  __(7th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Phase Bolt|Phase Bolt]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

@@ -4,7 +4,7 @@ title: "Crawl"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/move
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg"

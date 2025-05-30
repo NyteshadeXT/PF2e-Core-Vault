@@ -17,6 +17,8 @@ license: ORC
 
 
 
+Granted by [[Adventure-Specific Actions/Wind Barrier|Wind Barrier]]
+
 You gain a +2 circumstance bonus to AC against ranged attacks. At 13th level, this increases to a +3 circumstance bonus to AC against ranged attacks.
 
 *Source: Pathfinder GM Core*

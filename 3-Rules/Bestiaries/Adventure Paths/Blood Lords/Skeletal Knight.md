@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/Skeletal Knight.webp| ]]
 source: "Pathfinder #183: Field of Maidens"
 name: "Skeletal Knight"
 level: "Creature 8"
@@ -60,19 +61,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Lance +20 (deadly d8, jousting d6, magical, reach 10 feet)\n__Damage__  2d8 + 12 piercing"
+  - name: "**Melee** `pf2:1` Lance"
+    desc: "+20 (deadly d8, jousting d6, magical, reach 10 feet)\n__Damage__  2d8 + 12 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile, finesse)\n__Damage__  2d4 + 12 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, finesse, unarmed)\n__Damage__  2d4 + 12 slashing"
 
   - name: "Lancer"
     desc: "  The skeletal knight uses a lance in one hand, even when it isn't mounted. If the skeletal knight critically hits a creature with its lance Strike, the target is [[Conditions/Clumsy|Clumsy 1]] until the start of the skeletal knight's next turn."

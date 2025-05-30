@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +12 (agile, sweep)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+12 (agile, sweep)\n__Damage__  1d6 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +14 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+14 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +14 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+14 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 4 piercing"
 
   - name: "Ghost Hunter"
     desc: "  The duskwalker's weapons have the benefits of the _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune on attacks against incorporeal undead."

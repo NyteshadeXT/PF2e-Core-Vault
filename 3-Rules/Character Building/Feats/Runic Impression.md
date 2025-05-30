@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** focus pool
 * * *
-You can temporarily replicate the effects of a property rune for your weapon or unarmed attacks. You learn the [[3-Rules/Character Building/Spells/R/Runic Impression|Runic Impression]] conflux spell.
+You can temporarily replicate the effects of a property rune for your weapon or unarmed attacks. You learn the [[Spells/Runic Impression|Runic Impression]] conflux spell.
 
 Increase the number of Focus Points in your focus pool by 1.
 

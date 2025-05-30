@@ -57,17 +57,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 2 (While Touching Fire)]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (finesse)\n__Damage__  1d4 fire 1d6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (finesse, unarmed)\n__Damage__  1d4 fire 1d6 piercing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 15, attack +7\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ignition|Ignition]]_, _[[Spells/Light|Light]]_"
 
   - name: "Flame Breath"
-    desc: "`pf2:1` (arcane,fire) The fire scamp breathes flames in a @Template[cone|distance:15] that deals 2d4 fire damage to each creature within the area (DC 17 Reflex check save). Creatures that fail the save also take 1d4 persistent fire damage.\n\nThe fire scamp can't use Flame Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) The fire scamp breathes flames in a 15-foot cone that deals 2d4 fire damage to each creature within the area (DC 17 Reflex check save). Creatures that fail the save also take 1d4 persistent fire damage.\n\nThe fire scamp can't use Flame Breath again for 1d4 rounds."
  
 ```
 

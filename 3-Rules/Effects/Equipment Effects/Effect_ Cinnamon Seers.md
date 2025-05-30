@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Cinnamon Seers|Cinnamon Seers]]
+
 You gain a +1 item bonus to checks to Recall Knowledge.
 
 *Source: Pathfinder Treasure Vault*

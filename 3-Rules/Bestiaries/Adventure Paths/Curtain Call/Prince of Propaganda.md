@@ -51,29 +51,32 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "+3 Greater Striking Returning Club, +3 Greater Striking Shortsword"
+    desc: "[[Equipment/Club|+3 Greater Striking Returning Club]], [[Equipment/Shortsword|+3 Greater Striking Shortsword]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Aura of Disquietude]]"
-    desc: " (aura,emotion,fear,mental) 30 feet. DC 41 Will check\n\nAs [[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]], plus a creature frightened by the aura becomes suspicious; it doesn't count any other creature as its ally and can't [[Actions/Aid|Aid]] or flank. On a critical failure, the creature also can't be a willing target for harmless or helpful magic.\n\n[[Bestiary Effects/Effect_ Aura of Disquietude|Effect: Aura of Disquietude]]\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 30 feet. DC 41 Will check\n\nAs [[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]], plus a creature frightened by the aura becomes suspicious; it doesn't count any other creature as its ally and can't [[Actions/Aid|Aid]] or flank. On a critical failure, the creature also can't be a willing target for harmless or helpful magic.\n\n[[Bestiary Effects/Effect_ Aura of Disquietude|Effect: Aura of Disquietude]]\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +40 (magical)\n__Damage__  3d6 + 19 bludgeoning plus princes-curse"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+40 (magical)\n__Damage__  3d6 + 19 bludgeoning plus princes-curse"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +38 (magical, thrown 20 ft.)\n__Damage__  3d6 + 14 bludgeoning plus princes-curse"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+38 (magical, thrown 20 ft.)\n__Damage__  3d6 + 14 bludgeoning plus princes-curse"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +40 (agile, finesse, magical, versatile s)\n__Damage__  3d6 + 19 piercing plus princes-curse"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+40 (agile, finesse, magical, versatile s)\n__Damage__  3d6 + 19 piercing plus princes-curse"
 
-  - name: "Melee"
-    desc: "`pf2:1` Manacle +40 (magical, reach 10 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Manacle"
+    desc: "+40 (magical, reach 10 feet)\n__Damage__ "
 
   - name: "Occult Innate Spells"
     desc: "DC 44, attack +36; __10th __  _[[Spells/Fabricated Truth|Fabricated Truth]]_; __9th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Rewrite Memory|Rewrite Memory]]_; __8th __  _[[Spells/Disappearance|Disappearance]]_; __5th __  _[[Spells/Mind Probe|Mind Probe (At Will)]]_\n__Constant__  __(10th)__ _[[Spells/Truesight|Truesight]]_, _[[Spells/Truespeech|Truespeech]]_"
@@ -91,7 +94,7 @@ attacks:
     desc: "  The Prince deals an additional 3d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "Improved Grab"
-    desc: "  The monster can use [[Bestiary Ability Glossary/Grab|Grab]] as a free action triggered by a hit with its initial attack. A monster with Improved Grab still needs to spend an action to extend the duration for creatures it already has [[Conditions/Grabbed|Grabbed]]."
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

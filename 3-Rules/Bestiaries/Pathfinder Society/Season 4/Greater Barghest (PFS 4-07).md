@@ -59,16 +59,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 (unholy)\n__Damage__  2d10 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (unarmed, unholy)\n__Damage__  2d10 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile, unholy)\n__Damage__  2d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile, unarmed, unholy)\n__Damage__  2d8 + 6 slashing"
 
   - name: "Divine Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Flicker|Blink (At Will)]]_, _[[Spells/Confusion|Confusion]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Enlarge|Enlarge]]_; __3rd __  _[[Spells/Levitate|Levitate (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_; __1st __  _[[Spells/Charm|Charm]]_"
@@ -77,7 +77,7 @@ attacks:
     desc: "  The barghest has malformed wings extending from its back. It gains a fly Speed of 25 feet."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The barghest takes on the shape of a goblinoid (a goblin, hobgoblin, or bugbear) or a wolf, or it transforms back into its true form. When the barghest is a goblinoid, it loses its jaws and claw Strikes, it becomes Small if it is a goblin, and its Speed changes to 20 feet. When the barghest is a wolf, its Speed changes to 40 feet and its jaws gain [[Bestiary Ability Glossary/Knockdown|Knockdown]]. Each individual barghest has only one goblinoid form and one wolf form.\n\n[[Bestiary Effects/Effect_ Wolf Shape|Effect: Wolf Shape]]\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The barghest takes on the shape of a goblinoid (a goblin, hobgoblin, or bugbear) or a wolf, or it transforms back into its true form. When the barghest is a goblinoid, it loses its jaws and claw Strikes, it becomes Small if it is a goblin, and its Speed changes to 20 feet. When the barghest is a wolf, its Speed changes to 40 feet and its jaws gain [[Bestiary Ability Glossary/Knockdown|Knockdown]]. Each individual barghest has only one goblinoid form and one wolf form.\n\n[[Bestiary Effects/Effect_ Wolf Shape|Effect: Wolf Shape]]\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
  
 ```
 

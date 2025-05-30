@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ogre Hook +12 (deadly d10, reach 10 feet, trip)\n__Damage__  1d10 + 7 piercing"
+  - name: "**Melee** `pf2:1` Ogre Hook"
+    desc: "+12 (deadly d10, reach 10 feet, trip)\n__Damage__  1d10 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +6 (thrown 30 ft.)\n__Damage__  1d6 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+6 (thrown 30 ft.)\n__Damage__  1d6 + 7 piercing"
  
 ```
 

@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +18 ()\n__Damage__  2d10 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+18 ()\n__Damage__  2d10 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile)\n__Damage__  2d6 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +18 (reach 10 feet)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+18 (reach 10 feet)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 25, attack +17; __4th __ (1 slots) _[[Spells/Flicker|Blink]]_"

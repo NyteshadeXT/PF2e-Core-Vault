@@ -64,11 +64,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) When a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +25 (agile, finesse, magical)\n__Damage__  2d10 + 13 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+25 (agile, finesse, magical)\n__Damage__  2d10 + 13 void"
 
   - name: "Primal Innate Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Execute|Execute]]_, _[[Spells/Pollen Pods|Pollen Pods]]_; __6th __  _[[Spells/Lignify|Lignify]]_, _[[Spells/Tangling Creepers|Tangling Creepers]]_; __5th __  _[[Spells/Life-Draining Roots|Life-Draining Roots]]_, _[[Spells/Toxic Cloud|Toxic Cloud]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Tangle Vine|Tangle Vine]]_, _[[Spells/Timber|Timber]]_"
@@ -77,7 +80,7 @@ attacks:
     desc: "`pf2:1` (auditory,divine,emotion,fear,mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 33 Will check save. On a failure, a creature becomes [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
 
   - name: "Memory of Leaves"
-    desc: "`pf2:1` (plant,primal,wood) The ghost mourns its verdant birthplace, creating a swirling cloud of phantom leaves as a @Template[emanation|distance:20] until the end of its next turn. All creatures within the emanation become [[Conditions/Concealed|Concealed]], and all creatures outside the emanation become concealed to creatures within it. Creatures with the plant or wood traits ignore this concealment.\n\nThe ghost can't use Memory of Leaves again for 1d4 rounds."
+    desc: "`pf2:1` (plant,primal,wood) The ghost mourns its verdant birthplace, creating a swirling cloud of phantom leaves as a 20-foot emanation until the end of its next turn. All creatures within the emanation become [[Conditions/Concealed|Concealed]], and all creatures outside the emanation become concealed to creatures within it. Creatures with the plant or wood traits ignore this concealment.\n\nThe ghost can't use Memory of Leaves again for 1d4 rounds."
  
 ```
 

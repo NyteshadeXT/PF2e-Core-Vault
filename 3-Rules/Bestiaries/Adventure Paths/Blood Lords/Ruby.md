@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/Ruby.webp| ]]
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Ruby"
 level: "Creature 17"
@@ -61,14 +62,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +33 (deadly d8, disarm, finesse, magical)\n__Damage__  3d6 + 12 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+33 (deadly d8, disarm, finesse, magical)\n__Damage__  3d6 + 12 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +33 (agile, finesse, versatile s)\n__Damage__  1d4 + 12 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+33 (agile, finesse, versatile s)\n__Damage__  1d4 + 12 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +33 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 12 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+33 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 12 piercing"
 
   - name: "Daring Gambit"
     desc: "`pf2:2`  Ruby attempts to distract an enemy with a death-defying maneuver. She attempts an Acrobatics check check against the Reflex DC of one target within her melee reach. On a success, Ruby Strides up to 15 feet (or 30 feet on a critical success) without triggering reactions from her target due to her movement, and the target is [[Conditions/Off-Guard|Off-Guard]] against Ruby's next melee Strike before the end of her turn. Regardless of the result of her Acrobatics check, Ruby attempts a melee Strike against the target."

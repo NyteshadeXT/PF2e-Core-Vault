@@ -55,6 +55,12 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Trident|+1 Striking Trident]]"
+  - name: "[[Bestiary Ability Glossary/Wavesense|Wavesense (Imprecise) 60 feet]]"
+    desc: "  This sense allows a monster to feel vibrations caused by movement through a liquid. It's an imprecise sense with a limited range (listed in the ability). Wavesense functions only if monster and the subject are in the same body of liquid, and only if the subject is moving through the liquid."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Turbulent Seas"
@@ -63,20 +69,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Trident +20 (magical, reach 10 feet)\n__Damage__  2d8 + 10 piercing"
+  - name: "**Melee** `pf2:1` Trident"
+    desc: "+20 (magical, reach 10 feet)\n__Damage__  2d8 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +20 (agile, magical, nonlethal, reach 10 feet)\n__Damage__  1d4 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+20 (agile, magical, nonlethal, reach 10 feet, unarmed)\n__Damage__  1d4 + 10 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +21 (magical, thrown 20 ft.)\n__Damage__  2d8 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+21 (magical, thrown 20 ft.)\n__Damage__  2d8 + 10 piercing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 24, attack +12; __7th __  _[[Spells/Interplanar Teleport|Interplanar Teleport (to Astral Plane, Elemental Planes, or the Universe only)]]_; __5th __  _[[Spells/Control Water|Control Water (At Will)]]_, _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_, _[[Spells/Truespeech|Truespeech (At Will)]]_; __4th __  _[[Spells/Hydraulic Push|Hydraulic Push (At Will)]]_; __2nd __  _[[Spells/Create Water|Create Water (At Will)]]_, _[[Spells/Invisibility|Invisibility (x2)]]_, _[[Spells/Water Breathing|Water Breathing]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The faydhaan transforms into a Small or Medium water elemental, aquatic animal, or humanoid. This doesn't affect their statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The faydhaan transforms into a Small or Medium water elemental, aquatic animal, or humanoid. This doesn't affect their statistics, but it could change the damage type of their Strikes.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Gift of Hospitality"
     desc: "`pf2:3` (arcane,emotion,mental) The faydhaan gives another willing creature a magical gift or an agreeable conversation. The creature gains a +2 status bonus to Society and Diplomacy checks. A creature can't have more than one gift at a time, and a faydhaan can't grant more than one gift at a time.\n\nThe gift ends if the target acts hostile, or if the faydhaan renounces the recipient (a single action).\n\n[[Bestiary Effects/Effect_ Gift of Hospitality|Effect: Gift of Hospitality]]"

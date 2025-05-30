@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Vengeful Demon's Tears|Vengeful Demon's Tears]]
+
 You gain 2d8 temporary Hit Points.
 
 *Source: Pathfinder #199: To Bloom Below the Web*

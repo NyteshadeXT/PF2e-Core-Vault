@@ -4,8 +4,9 @@ title: "Effect: Improvised Weapon"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.eSIYyxi6uTKiP6W5"
-license: OGL
+license: ORC
 ---
 # Effect: Improvised Weapon
 
@@ -16,9 +17,7 @@ license: OGL
 
 
 
-Automatically applied effects:
+You take a –2 item penalty to attack rolls with an improvised weapon.
 
-*   \-2 penalty to attack rolls with any weapon with an improvised trait.
-
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

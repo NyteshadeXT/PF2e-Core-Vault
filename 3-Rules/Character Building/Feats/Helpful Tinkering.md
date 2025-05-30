@@ -7,8 +7,9 @@ tags:
   - trait/manipulate
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.qUSWPWxYF8gfhfHM"
-license: OGL
+license: ORC
 ---
 # Helpful Tinkering `pf2:1`
 ## Feat 10
@@ -35,4 +36,4 @@ You don't just tinker with your own innovation, you fiddle with your allies' wea
 **Critical Failure** Your ally takes damage of the type and amount that your offensive boost normally deals on a successful Strike.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

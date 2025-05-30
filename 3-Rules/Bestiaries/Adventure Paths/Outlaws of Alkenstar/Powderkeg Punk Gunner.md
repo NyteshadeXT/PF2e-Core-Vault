@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +4 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+4 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flintlock Pistol +7 (concussive, fatal d8, range increment 40 feet, reload 1)\n__Damage__  1d4 piercing"
+  - name: "**Ranged** `pf2:1` Flintlock Pistol"
+    desc: "+7 (concussive, fatal d8, range increment 40 feet, reload 1)\n__Damage__  1d4 piercing"
 
   - name: "Gut Shot"
     desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** The gunner is flanked by two or more creatures and the gunner's pistol is loaded\n* * *\n\n**Effect** The gunner turns their pistol on themself and pulls the trigger, firing through their own gut to catch the foe behind them unawares. The gunner makes a flintlock pistol Strike against an adjacent creature, who becomes [[Conditions/Off-Guard|Off-Guard]] against this Strike. The gunner takes 1d4 piercing damage."

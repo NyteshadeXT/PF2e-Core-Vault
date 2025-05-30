@@ -75,17 +75,20 @@ abilities_mid:
   - name: "Sunlight Powerlessness"
     desc: "  A wraith caught in sunlight is [[Conditions/Stunned|Stunned 2]] and [[Conditions/Clumsy|Clumsy 2]]."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spectral Hand +32 (finesse)\n__Damage__  3d8 + 14 void"
+  - name: "**Melee** `pf2:1` Spectral Hand"
+    desc: "+32 (finesse)\n__Damage__  3d8 + 14 void"
 
   - name: "Drain Life"
     desc: " (divine) When the wraith damages a living creature with its spectral hand Strike, the wraith gains 5 temporary Hit Points and the creature must succeed at a DC 36 Fortitude check save or become [[Conditions/Drained|Drained 1]]. Further damage dealt by the wraith increases the amount of drain by 1 on a failed save to a maximum of drained 4."
 
   - name: "Wraith Spawn"
-    desc: " (divine) A living humanoid slain by a wraith's spectral hand Strike rises as a [[Bestiary 1/Wraith|Wraith Spawn]] after 1d4 rounds. This wraith spawn is under the command of the wraith that killed it. It doesn't have drain life or wraith spawn and becomes [[Conditions/Clumsy|Clumsy 2]] for as long as it is a wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will, gains Wraith Spawn, and is no longer clumsy."
+    desc: " (divine) A living humanoid slain by a wraith's spectral hand Strike rises as a [[Monster Core/Wraith|Wraith Spawn]] after 1d4 rounds. This wraith spawn is under the command of the wraith that killed it. It doesn't have drain life or wraith spawn and becomes [[Conditions/Clumsy|Clumsy 2]] for as long as it is a wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will, gains Wraith Spawn, and is no longer clumsy."
  
 ```
 

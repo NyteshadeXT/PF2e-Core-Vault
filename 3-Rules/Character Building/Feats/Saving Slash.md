@@ -25,5 +25,5 @@ license: OGL
 
 You quickly whirl your blade, trying to deflect enough momentum to avoid the worst of the attack. Attempt a DC 16 Flat check. If you succeed, the attack becomes a normal hit, instead of a critical hit.
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

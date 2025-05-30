@@ -32,5 +32,5 @@ You're trained in snapping and fluttering your fans to draw the eyes of observer
 
 [[Feat_Feature Effects/Effect_ Fluttering Distraction|Effect: Fluttering Distraction]]
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

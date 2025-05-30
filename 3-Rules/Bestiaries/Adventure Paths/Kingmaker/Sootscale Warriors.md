@@ -23,7 +23,7 @@ level: "Army 3"
 rare_03: [[Uncommon]]
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: infantry
 modifier: 9
 perception:

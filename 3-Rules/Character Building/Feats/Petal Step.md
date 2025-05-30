@@ -22,5 +22,5 @@ license: ORC
 * * *
 You have a mastery over your own movement and can distribute your weight to dance lightly over the ground like petals drifting on the water. You gain a +1 circumstance bonus to your Stealth checks to [[Actions/Sneak|Sneak]] and aren't detectable by tremorsense.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

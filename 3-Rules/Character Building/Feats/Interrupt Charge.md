@@ -35,5 +35,5 @@ You attempt to snag the foe before they run away. Attempt an Athletics check aga
 
 **Failure** As success, but the creature instead takes a -5-foot circumstance penalty to its Speed.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Elemental Form|Elemental Form]]
+Granted by [[Spells/Elemental Form|Elemental Form]]
 
 You transform into an elemental battle form.
 

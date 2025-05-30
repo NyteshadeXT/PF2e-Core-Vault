@@ -54,16 +54,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Falchion +10 (forceful, sweep)\n__Damage__  1d10 + 4 slashing"
+  - name: "**Melee** `pf2:1` Falchion"
+    desc: "+10 (forceful, sweep)\n__Damage__  1d10 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heavy Crossbow +7 (range increment 120 feet, reload 2)\n__Damage__  1d10 piercing"
+  - name: "**Ranged** `pf2:1` Heavy Crossbow"
+    desc: "+7 (range increment 120 feet, reload 2)\n__Damage__  1d10 piercing"
 
   - name: "Brutish Shove"
     desc: "`pf2:1` (press) The rebel brute makes a single Strike with a two-handed melee weapon. If the rebel brute hits a target that is their size or smaller, that creature is [[Conditions/Off-Guard|Off-Guard]] until the end of the brute's turn, and the brute can automatically [[Action Macros/Shove_ Athletics|Shove: Athletics]] it with the same benefits as the Shove action (including the critical success effect, if the Strike was a critical hit). If the brute moves to follow the target, that movement doesn't trigger reactions. This Strike has the following failure effect.\n\n**Failure** The target becomes off-guard until the end of the elite rebel brute's current turn."

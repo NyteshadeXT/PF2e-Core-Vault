@@ -4,8 +4,7 @@ title: "Grapple"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/attack
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD"
@@ -13,7 +12,7 @@ license: ORC
 ---
 # Grapple `pf2:1`
 
-### [[attack]][[skill]]
+### [[attack]]
 
 **Category** interaction; 
 
@@ -24,7 +23,7 @@ license: ORC
 
 * * *
 
-You attempt to grab a creature or object with your free hand. Attempt an Athletics check against the target's Fortitude DC. You can grapple a target you already have [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] without having a hand free.
+You attempt to grab a creature or object with your free hand. Attempt an [[Actions/grapple|grapple]]{Athletics} check against the target's Fortitude DC. You can grapple a target you already have [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] without having a hand free.
 
 * * *
 

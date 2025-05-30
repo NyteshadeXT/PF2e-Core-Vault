@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +6 (unarmed)\n__Damage__  1d6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+6 (unarmed)\n__Damage__  1d6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sap +6 (agile, nonlethal)\n__Damage__  1d6 bludgeoning"
+  - name: "**Melee** `pf2:1` Sap"
+    desc: "+6 (agile, nonlethal)\n__Damage__  1d6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bola +5 (nonlethal, range 20 feet, ranged trip, thrown)\n__Damage__  1d6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Bola"
+    desc: "+5 (nonlethal, range 20 feet, ranged trip, thrown)\n__Damage__  1d6 bludgeoning"
 
   - name: "Pack Attack"
     desc: "  A gnoll deals 1d4 extra damage to any creature that's within reach of at least two of the gnoll's allies."

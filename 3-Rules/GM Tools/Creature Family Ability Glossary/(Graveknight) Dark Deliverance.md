@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Graveknight) Dark Deliverance"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.QMWvYf8Qowj2Fzmx"

@@ -56,14 +56,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +16 (agile, finesse, magical, trip)\n__Damage__  1d4 + 4 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+16 (agile, finesse, magical, trip)\n__Damage__  1d4 + 4 slashing"
 
   - name: "Primal Prepared Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Speak with Plants|Speak with Plants]]_; __3rd __  _[[Spells/Lightning Bolt|Lightning Bolt]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Restoration|Restoration]]_; __1st __  _[[Spells/Heal|Heal]]_, _[[Spells/Tailwind|Longstrider]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(4th)__ _[[Spells/Vitality Lash|Disrupt Undead]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Plant Growth|Plant Growth]]_, _[[Spells/Reincarnate|Reincarnate]]_"
+    desc: "_Plant Growth_, _Reincarnate_"
 
   - name: "Slough Toxins"
     desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** The nagaji is afflicted with a poison\n* * *\n\n**Effect** The nagaji accelerates their metabolism. They roll a saving throw against the affliction with a +2 circumstance bonus. If they must attempt an ongoing save against the same poison at the end of their turn, they also get a +2 circumstance bonus to that save."

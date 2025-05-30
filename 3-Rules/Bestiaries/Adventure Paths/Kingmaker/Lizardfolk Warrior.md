@@ -56,22 +56,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longspear +10 (reach 10 feet)\n__Damage__  1d8 + 6 piercing"
+  - name: "**Melee** `pf2:1` Longspear"
+    desc: "+10 (reach 10 feet)\n__Damage__  1d8 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 ()\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (unarmed)\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +10 (agile)\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+10 (agile)\n__Damage__  1d4 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Deep Breath"
     desc: "  A lizardfolk warrior can hold their breath for 180 rounds (18 minutes)."

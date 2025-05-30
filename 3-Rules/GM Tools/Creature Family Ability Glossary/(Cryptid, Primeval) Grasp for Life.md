@@ -4,7 +4,7 @@ title: "(Cryptid, Primeval) Grasp for Life"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/healing
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.R0tsWv6QHd2jbQON"
 license: OGL

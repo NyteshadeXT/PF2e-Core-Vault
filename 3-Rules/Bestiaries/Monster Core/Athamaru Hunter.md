@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longspear +11 (reach 10 feet)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Longspear"
+    desc: "+11 (reach 10 feet)\n__Damage__  1d8 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +10 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing plus fan-bolt"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+10 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing plus fan-bolt"
 
   - name: "Cooperative Hunting"
     desc: "  After the hunter attempts a Strike at a Large or larger target (regardless of success or failure), the next Strike one of the hunter's allies makes against the same target gains a +2 circumstance bonus to the attack roll."

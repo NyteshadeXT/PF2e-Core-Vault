@@ -60,17 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Cinderclaw Gauntlet +13 (agile, free-hand, versatile s)\n__Damage__  2d4 + 5 piercing"
+  - name: "**Melee** `pf2:1` Cinderclaw Gauntlet"
+    desc: "+13 (agile, free-hand, versatile s)\n__Damage__  2d4 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +12 (agile, sweep)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+12 (agile, sweep)\n__Damage__  1d6 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +12 (agile, sweep, thrown 10 ft., deadly d6)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+12 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thrown Debris +11 (thrown 20 ft., deadly d6)\n__Damage__  2d6 + 5 bludgeoning"
+  - name: "**Ranged** `pf2:1` Thrown Debris"
+    desc: "+11 (thrown 20 ft.)\n__Damage__  2d6 + 5 bludgeoning"
 
   - name: "Divine Prepared Spells"
     desc: "DC 23, attack +13; __3rd __  _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Fireball|Fireball]]_; __2nd __  _[[Spells/Create Food|Create Food]]_, _[[Spells/Noise Blast|Sound Burst]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Create Water|Create Water]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Shield|Shield]]_"

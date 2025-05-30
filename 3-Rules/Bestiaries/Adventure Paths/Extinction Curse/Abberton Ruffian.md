@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +7 (agile, nonlethal)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+7 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 3 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thrown Bottle +5 (range 10 feet)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Ranged** `pf2:1` Thrown Bottle"
+    desc: "+5 (range 10 feet)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Opening Threat"
     desc: "`pf2:1`  **Requirements** The ruffian hasn't acted yet on their turn\n* * *\n\n**Effect** The ruffian uses an Interact action to draw their dagger, then uses [[Actions/Demoralize|Demoralize]]"

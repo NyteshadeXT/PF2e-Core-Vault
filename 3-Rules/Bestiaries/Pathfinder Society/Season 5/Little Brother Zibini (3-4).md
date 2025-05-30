@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +11 (agile, finesse, sweep)\n__Damage__  1d8 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+11 (agile, finesse, sweep, unarmed)\n__Damage__  1d8 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Chakri +11 (agile, deadly d8, reload 0, thrown 30 ft.)\n__Damage__  1d4 + 5 slashing"
+  - name: "**Ranged** `pf2:1` Chakri"
+    desc: "+11 (agile, deadly d8, reload 0, thrown 30 ft.)\n__Damage__  1d4 + 5 slashing"
 
   - name: "[[Actor.epmml7kA0akrIGPG.Item.LXNyPrb7M04ezomY|Flurry of Kicks]]"
     desc: "`pf2:1`  **Frequency** once per turn\n* * *\n\n**Effect** Zibini makes two melee Strikes. He applies his multiple attack penalty to these Strikes normally."

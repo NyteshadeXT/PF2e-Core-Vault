@@ -20,5 +20,5 @@ Granted by [[Feats/Aldori Parry|Aldori Parry]]
 
 You gain a +2 circumstance bonus to AC.
 
-*Source: Pathfinder Lost Omens: World Guide*
+*Source: Pathfinder Lost Omens World Guide*
 *OGL*

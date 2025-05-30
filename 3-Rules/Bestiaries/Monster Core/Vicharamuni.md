@@ -57,14 +57,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +22 (finesse, holy, reach 10 feet)\n__Damage__  3d10 + 8 piercing plus vicharamuni-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+22 (finesse, holy, reach 10 feet)\n__Damage__  3d10 + 8 piercing plus vicharamuni-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +22 (agile, finesse, holy, reach 20 feet)\n__Damage__  3d8 + 8 bludgeoning plus coils-of-knowledge"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+22 (agile, finesse, holy, reach 20 feet)\n__Damage__  3d8 + 8 bludgeoning plus coils-of-knowledge"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +22 (agile, holy, poison, range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+22 (agile, holy, poison, range increment 30 feet)\n__Damage__ "
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 29, attack +21; __5th __ (4 slots) _[[Spells/Breath of Life|Breath of Life]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Divine Immolation|Divine Immolation]]_; __4th __ (4 slots) _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_; __3rd __ (4 slots) _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Holy Light|Holy Light]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __ (4 slots) _[[Spells/Calm|Calm]]_, _[[Spells/Noise Blast|Noise Blast]]_, _[[Spells/See the Unseen|See the Unseen]]_; __1st __ (4 slots) _[[Spells/Heal|Heal]]_, _[[Spells/Protection|Protection]]_, _[[Spells/Spirit Link|Spirit Link]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Frostbite|Frostbite]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_"
@@ -73,7 +73,7 @@ attacks:
     desc: " (force,magical) The naga's grip is more spiritual than physical. A creature hit by a vicharamuni's tail must succeed at a DC 29 Will check save or become [[Conditions/Grabbed|Grabbed]] by the tail until they [[Actions/Escape|Escape]], the naga releases them with an Interact action, or the naga dies.\n\nA captive takes a –4 status penalty to Escape, but can choose to attempt an Occultism or Religion check to Escape instead of the usual options without taking this penalty"
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  3d8+5 bludgeoning, DC 29 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  3d8+5 bludgeoning, DC 29 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC. A creature that fails this save falls [[Conditions/Unconscious|Unconscious]], and a creature that succeeds is then temporarily immune to falling unconscious from Greater Constrict for 1 minute."
 
   - name: "Spiritual Venom"
     desc: "  A vicharamuni can choose to negate any damage that its venom does to a creature. In addition, the naga can cast any of its divine spells on a creature that is affected by its venom, regardless of range or line of effect."

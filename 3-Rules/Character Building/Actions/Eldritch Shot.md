@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Eldritch Shot"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.DS9sDOWkXrz2xmHi"

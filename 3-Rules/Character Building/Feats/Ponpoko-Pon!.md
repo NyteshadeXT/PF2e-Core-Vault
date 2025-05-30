@@ -14,7 +14,7 @@ license: ORC
 ---
 # Ponpoko-Pon! `pf2:2`
 ## Feat 13
-### [[primal]][[3-Rules/trait_reference/sonic]][[tanuki]]
+### [[primal]][[sonic]][[tanuki]]
 
 **Category** ancestry; 
 
@@ -26,5 +26,5 @@ Whether it's because you play especially vigorously or are simply off-key, the m
 
 At 15th level and every 2 levels thereafter, the damage increases by 1d4.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

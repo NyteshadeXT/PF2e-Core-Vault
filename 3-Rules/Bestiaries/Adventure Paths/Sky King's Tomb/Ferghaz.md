@@ -67,14 +67,17 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (occult) Restoring the vandalized inscriptions and reciting their corrected stories ushers these spirits back to the afterlife.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hammer +8 (agile, finesse, magical)\n__Damage__  1d4 + 3 void"
+  - name: "**Melee** `pf2:1` Ghostly Hammer"
+    desc: "+8 (agile, finesse, magical)\n__Damage__  1d4 + 3 void"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Chiding Rebuke +8 (magical, range increment 30 feet)\n__Damage__  1d4 + 3 void"
+  - name: "**Ranged** `pf2:1` Chiding Rebuke"
+    desc: "+8 (magical, range increment 30 feet)\n__Damage__  1d4 + 3 void"
 
   - name: "Oh, If Your Ancestors Could See You!"
     desc: "  Ferghaz holds other dwarves to an impossible standard, and his attacks carry the weight of a hundred generations' judgment. His Strikes deal an additional 1d4 mental damage to dwarves."

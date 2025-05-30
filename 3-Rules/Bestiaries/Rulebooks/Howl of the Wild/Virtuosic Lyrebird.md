@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +12 (finesse)\n__Damage__  2d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+12 (finesse, unarmed)\n__Damage__  2d8 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +12 (agile, finesse)\n__Damage__  2d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+12 (agile, finesse, unarmed)\n__Damage__  2d6 + 4 piercing"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 24, attack +16; __3rd __ (2 slots) _[[Spells/Force Barrage|Force Barrage]]_, _[[Spells/Hypnotize|Hypnotize]]_; __2nd __ (2 slots) _[[Spells/Breathe Fire|Breathe Fire]]_, _[[Spells/Shatter|Shatter]]_; __1st __ (3 slots) _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Gust of Wind|Gust of Wind]]_\n__Cantrips__  __(3rd)__ _[[Spells/Bullhorn|Bullhorn]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Ignition|Ignition]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

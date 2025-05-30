@@ -57,19 +57,28 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Mace|Mace]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 30 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flaming Mace +20 (shove, unholy)\n__Damage__  2d6 + 9 bludgeoning 1d6 spirit 1d6 fire"
+  - name: "**Melee** `pf2:1` Flaming Mace"
+    desc: "+20 (shove, unholy)\n__Damage__  2d6 + 9 bludgeoning 1d6 spirit 1d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +17 (agile, unholy)\n__Damage__  2d6 + 8 bludgeoning 1d6 spirit"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+17 (agile, unholy)\n__Damage__  2d6 + 8 bludgeoning 1d6 spirit"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Pinions +17 (range increment 30 feet, unholy)\n__Damage__  2d6 + 4 piercing 1d6 spirit"
+  - name: "**Ranged** `pf2:1` Pinions"
+    desc: "+17 (range increment 30 feet, unholy)\n__Damage__  2d6 + 4 piercing 1d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 23, attack +13; __4th __ (1 slots) _[[Spells/Translocate|Dimension Door (At Will)]]_; __3rd __ (3 slots) _[[Spells/Fear|Fear (x2)]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (2 slots) _[[Spells/Paranoia|Paranoia]]_, _[[Spells/Silence|Silence]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_"

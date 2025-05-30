@@ -29,5 +29,5 @@ You are no rime hag or Jadwiga, but the magic of the north has still left a mark
 
 **Critical Failure** The target is temporarily immune for 1 minute.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

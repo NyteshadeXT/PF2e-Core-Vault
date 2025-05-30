@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +18 ()\n__Damage__  2d10 + 6 piercing plus marrow-rot"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+18 ()\n__Damage__  2d10 + 6 piercing plus marrow-rot"
 
   - name: "Leaping Charge"
     desc: "`pf2:1`  The giant bone skipper [[Actions/Leap|Leaps]] up to 20 feet. It then makes a mandibles Strike, gaining a +1 circumstance bonus to its attack roll."

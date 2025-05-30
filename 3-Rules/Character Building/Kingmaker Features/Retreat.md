@@ -1,15 +1,15 @@
 ---
 obsidianUIMode: preview
 title: "Retreat"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/common
+  - trait/
   - category/army-war-action
 aliases: "Compendium.pf2e.kingmaker-features.Item.IhjlbJinff1wUSjL"
 license: OGL
 ---
 # Retreat `pf2:3`
-
+## 
 ### 
 
 **Category** army-war-action; 

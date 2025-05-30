@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Your patron's power fills you with confidence, letting you sustain a magical working even as a quick burst of laughter leaves your lips. You learn the [[3-Rules/Character Building/Spells/C/Cackle|Cackle]] hex.
+Your patron's power fills you with confidence, letting you sustain a magical working even as a quick burst of laughter leaves your lips. You learn the [[Spells/Cackle|Cackle]] hex.
 
 *Source: Pathfinder Player Core*
 *ORC*

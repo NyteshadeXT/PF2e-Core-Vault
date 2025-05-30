@@ -3,7 +3,6 @@ title: Cooking Disaster
 obsidianUIMode: preview
 noteType: pf2eHazard
 tags:
-  - chaotic
   - magical
   - trap
   - pf2eHazard
@@ -24,9 +23,8 @@ name: "Cooking Disaster"
 level: "Hazard 1"
 
 trait_06: "Complex"
-trait_01: [[chaotic]]
-trait_02: [[magical]]
-trait_03: [[trap]]
+trait_01: [[magical]]
+trait_02: [[trap]]
 modifier: 7
 sourcebook: "_Pathfinder Society Scenario #3-18: Dacilane Academy's Delightful Disaster_"
 perception:

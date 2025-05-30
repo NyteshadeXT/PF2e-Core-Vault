@@ -17,6 +17,8 @@ license: OGL
 
 
 
+Granted by [[Feats/Orchard's Endurance|Orchard's Endurance]]
+
 You gain resistance to bludgeoning and piercing damage. In addition, you roll flat checks to recover from persistent damage twice and take the higher result; this is a fortune effect.
 
 *Source: Pathfinder Rage of Elements*

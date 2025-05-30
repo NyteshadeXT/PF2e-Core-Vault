@@ -57,28 +57,34 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Blackaxe|Blackaxe]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 50 (Deactivated by Holy)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Aura of Corruption"
     desc: " (aura,plant,primal) 120 feet.\n\nPlants near Treerazer twist, deform, and transform into thorny or fungoid parodies of their natural shapes. A living creature in this area must succeed at a DC 47 Fortitude check save each round or become partially transformed into plantlike matter. Those who fail this saving throw are treated as if they were plants for the purposes of any effect that particularly harms or inconveniences plant creatures more than other creatures, but do not gain any benefits of being plant creatures.\n\nThis effect lasts as long as the creature remains within the area of corruption and for 1 minute thereafter.\n\n[[Bestiary Effects/Effect_ Aura of Corruption|Effect: Aura of Corruption]]"
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Blackaxe +47 (acid, magical, reach 15 feet, sweep, unholy)\n__Damage__  5d12 + 18 slashing 1d6 acid"
+  - name: "**Melee** `pf2:1` Blackaxe"
+    desc: "+47 (acid, magical, reach 15 feet, sweep, unholy)\n__Damage__  5d12 + 18 slashing 1d6 acid"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +45 (agile, magical, reach 15 feet, unholy)\n__Damage__  5d10 + 20 slashing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+45 (agile, magical, reach 15 feet, unarmed, unholy)\n__Damage__  5d10 + 20 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 49, attack +43; __10th __  _[[Spells/Desiccate|Desiccate]]_, _[[Spells/Freeze Time|Freeze Time]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __9th __  _[[Spells/Dispel Magic|Dispel Magic (At Will)]]_; __6th __  _[[Spells/Tangling Creepers|Tangling Creepers (At Will)]]_; __3rd __  _[[Spells/Earthbind|Earthbind (At Will)]]_; __2nd __  _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver (At Will)]]_\n__Cantrips__  __(9th)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_\n__Constant__  __(8th)__ _[[Spells/Truesight|Truesight]]_ __(4th)__ _[[Spells/Unfettered Movement|Unfettered Movement]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Demonic Pact]]_, _[[Spells/Planar Servitor|Planar Servitor]]_"
+    desc: "_Demonic Pact_, _Planar Servitor_"
 
   - name: "Blackaxe - Owner's Authority"
     desc: "`pf2:1` (concentrate,scrying) **Requirements** Treerazer isn't wielding _Blackaxe_.\n* * *\n\n**Effect** Treerazer sense the world around Blackaxe as though you were in its location and can use any of your innate spells through the link as if it were the source of the spell. If another creature is wielding Blackaxe, it must succeed at a DC 50 Will check save or be [[Conditions/Slowed|Slowed 2]] until it relinquishes the weapon."

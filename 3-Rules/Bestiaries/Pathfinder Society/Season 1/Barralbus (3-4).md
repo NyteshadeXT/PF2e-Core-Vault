@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +9 (two-hand d8)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+9 (two-hand d8)\n__Damage__  1d4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Crossbow +9 ()\n__Damage__  1d8 piercing"
+  - name: "**Melee** `pf2:1` Crossbow"
+    desc: "+9 ()\n__Damage__  1d8 piercing"
 
   - name: "Arcane Prepared Spells"
-    desc: "DC 22, attack +14; __3rd __  _[[Spells/Haste|Haste]]_, _[[Spells/Shared Invisibility|Invisibility Sphere]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Darkness|Darkness]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(3rd)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Sigil|Sigil]]_"
+    desc: "DC 22, attack +14; __3rd __  _[[Spells/Haste|Haste]]_, _[[Spells/Shared Invisibility|Invisibility Sphere]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Darkness|Darkness]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(3rd)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Sigil|Sigil]]_"
  
 ```
 

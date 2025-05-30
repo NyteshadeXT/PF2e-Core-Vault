@@ -14,7 +14,7 @@ license: OGL
 ---
 # Gorilla Pound `pf2:1`
 ## Feat 6
-### [[emotion]][[flourish]][[3-Rules/trait_reference/M/mental]][[monk]]
+### [[emotion]][[flourish]][[mental]][[monk]]
 
 **Category** class; 
 

@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Frying Pan +9 (fatal d8)\n__Damage__  1d4 - 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Frying Pan"
+    desc: "+9 (fatal d8)\n__Damage__  1d4 - 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Halfling Sling Staff +7 (propulsive, range increment 80 feet, reload 1)\n__Damage__  1d10 - 1 bludgeoning"
+  - name: "**Ranged** `pf2:1` Halfling Sling Staff"
+    desc: "+7 (propulsive, range increment 80 feet, reload 1)\n__Damage__  1d10 - 1 bludgeoning"
 
   - name: "Keen Eyes"
-    desc: "  The halfling gains a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Conditions/Hidden|Hidden]] or undetected creatures within 30 feet of it.\n\nWhenever the halfling targets a creature that is [[Conditions/Concealed|Concealed]] or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
+    desc: "  The halfling gains a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] creatures within 30 feet of it.\n\nWhenever the halfling targets a creature that is [[Conditions/Concealed|Concealed]] or hidden from them, reduce the DC of the flat check to DC 3 Flat check for a concealed target or DC 9 Flat check for a hidden one."
  
 ```
 

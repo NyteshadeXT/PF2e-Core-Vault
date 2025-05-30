@@ -65,14 +65,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Reinforced Stock +24 (finesse, magical, two-hand d6)\n__Damage__  2d4 + 6 bludgeoning plus plant-pyronite-charge"
+  - name: "**Melee** `pf2:1` Reinforced Stock"
+    desc: "+24 (finesse, magical, two-hand d6)\n__Damage__  2d4 + 6 bludgeoning plus plant-pyronite-charge"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Redeemer&#x27;s Pistol +24 (concealable, concussive, fatal d10, magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Redeemer&#x27;s Pistol"
+    desc: "+24 (concealable, concussive, fatal d10, magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hex Blaster +24 (concussive, fatal d12, kickback, magical, range increment 150 feet, reload 1)\n__Damage__  2d8 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Hex Blaster"
+    desc: "+24 (concussive, fatal d12, kickback, magical, range increment 150 feet, reload 1)\n__Damage__  2d8 + 6 piercing"
 
   - name: "Firearms Critical Specialization"
     desc: "  When Anjelique makes a critical hit with a firearm, the target must succeed a DC 34 Fortitude check save or be [[Conditions/Stunned|Stunned 1]]."

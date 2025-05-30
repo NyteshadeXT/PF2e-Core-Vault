@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You quickly wrap your lash around an opponent and pull them toward you. Attempt an Athletics check against the Fortitude DC of a target within your lash's reach.
+You quickly wrap your lash around an opponent and pull them toward you. Attempt an [[Actions/grapple|grapple]] check against the Fortitude DC of a target within your lash's reach.
 
 * * *
 

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by Euryale (curse) from the [[3-Rules/Character Building/Equipment/D/Deck of Many Things|Deck of Many Things]]
+Granted by Euryale (curse) from the [[Equipment/Deck of Many Things|Deck of Many Things]]
+
+You gain a permanent -1 status penalty to all saving throws.
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

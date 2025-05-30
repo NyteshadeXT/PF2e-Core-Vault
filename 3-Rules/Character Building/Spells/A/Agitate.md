@@ -14,8 +14,9 @@ tags:
   - tradition/arcane
   - tradition/occult
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.r8g7oSumKOHDqJsd" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Agitate  `pf2:2`"
@@ -40,6 +41,6 @@ abilities_top:
     desc: "varies"
 abilities_mid:
   - name: ""
-    desc: "You send the target's mind and body into overdrive, forcing it to become restless and hyperactive. During the duration, the target must Stride, Fly, or Swim at least once each turn or take 2d8 mental damage that turn. The duration of this effect depends on the target's Will save. The GM might decide to add additional move actions to the list for creatures who possess only a more unusual form of movement.\n* * *\n\n**Critical Success** The spell has no effect.\n\n**Success** The duration is 1 round.\n\n**Failure** The duration is 2 rounds.\n\n**Critical Failure** The duration is 4 rounds.\n* * *\n\n**Heightened (+1)** The damage increases by 2d8."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+    desc: "You send the target's mind and body into overdrive, forcing it to become restless and hyperactive. During the duration, the target must Stride, Fly, or Swim at least once each turn or take 2d8 mental damage at the end of its turn. The GM might decide to add additional move actions to the list for creatures that possess only a more unusual form of movement. The duration of this effect depends on the target's Will save.\n* * *\n\n**Critical Success** The spell has no effect.\n\n**Success** The duration is 1 round.\n\n**Failure** The duration is 2 rounds.\n\n**Critical Failure** The duration is 4 rounds.\n* * *\n\n**Heightened (+1)** The damage increases by 2d8."
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

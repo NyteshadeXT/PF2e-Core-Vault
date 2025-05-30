@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Electrical Blast +25 (electricity, range increment 60 feet)\n__Damage__  4d12 electricity"
+  - name: "**Ranged** `pf2:1` Electrical Blast"
+    desc: "+25 (electricity, range increment 60 feet)\n__Damage__  4d12 electricity"
 
   - name: "Divine Innate Spells"
     desc: "DC 35, attack +27; __7th __  _[[Spells/Execute|Execute]]_, _[[Spells/Mantis's Grasp|Mantis's Grasp]]_; __6th __  _[[Spells/Divine Immolation|Divine Immolation (x2)]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Sawtooth Terrain|Sawtooth Terrain]]_; __5th __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Divine Wrath|Divine Wrath (x2)]]_"

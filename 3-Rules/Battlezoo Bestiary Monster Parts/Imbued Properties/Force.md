@@ -26,16 +26,16 @@ Magical
 
 **Path** Magic; Choose when you first imbue the weapon for the granted spells to be either arcane, divine, or occult
 
-*   **2nd** The weapon can cast _Shield_ as a cantrip, heightened to half the item's level rounded up
-*   **4th** The weapon can cast _Magic Missile_ once per day
-*   **6th** The weapon can cast either _magic missile_ or _Spiritual Weapon_ once per day not both
+*   **2nd** The weapon can cast _[[undefined]]_ as a cantrip, heightened to half the item's level rounded up
+*   **4th** The weapon can cast _[[undefined]]_ once per day
+*   **6th** The weapon can cast either _magic missile_ or _[[undefined]]_ once per day not both
 *   **8th** The weapon's _magic missile_ heightens to 3rd level and it can cast both _magic missile_ and _spiritual weapon_ once day
 *   **10th** Strikes with the weapon deal 1 additional force damage
-*   **12th** The weapon's _spiritual weapon_ heightens to 4th level, and the weapon can cast _Spiritual Guardian_ once per day
+*   **12th** The weapon's _spiritual weapon_ heightens to 4th level, and the weapon can cast _[[Spells/Spiritual Guardian|Spiritual Guardian]]_ once per day
 *   **14th** The additional force damage increases to 1d4
-*   **16th** The weapon's _magic missile_ heightens to 5th level, _spiritual guardian_ heightens to 6th level, and the weapon can cast _Spirit Blast_ once per day, but it can no longer cast _spiritual weapon_
+*   **16th** The weapon's _magic missile_ heightens to 5th level, _spiritual guardian_ heightens to 6th level, and the weapon can cast _[[Spells/Spirit Blast|Spirit Blast]]_ once per day, but it can no longer cast _spiritual weapon_
 *   **18th** The additional force damage increases to 1d6
-*   **20th** The weapon can cast 9th-level _Spirit Song_ once per day
+*   **20th** The weapon can cast 9th-level _[[undefined]]_ once per day
 
 * * *
 
@@ -60,6 +60,6 @@ Magical
 *   **10th** The persistent force damage increases to 1d6
 *   **12th** The force damage dealt by this imbued property (including persistent force damage) ignores resistances
 *   **14th** On a critical hit and a failed Fortitude save, you can push the foe up to 10 feet away from you
-*   **16th** Foes currently affected by persistent force damage from the imbued property are knocked about in all directions, making them Flat-Footed
+*   **16th** Foes currently affected by persistent force damage from the imbued property are knocked about in all directions, making them [[undefined]]
 *   **18th** On a critical hit and a failed Fortitude save, you can push the foe up to 20 feet away from you
-*   **20th** At the end of a foe's turn, if it fails to remove the persistent force damage from the imbued property, it must succeed at a Fortitude save or be knocked Prone
+*   **20th** At the end of a foe's turn, if it fails to remove the persistent force damage from the imbued property, it must succeed at a Fortitude save or be knocked [[undefined]]

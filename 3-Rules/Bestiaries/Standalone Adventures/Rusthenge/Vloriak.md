@@ -56,6 +56,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Restoration Vulnerability"
@@ -64,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (unholy)\n__Damage__  2d6 + 6 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (unarmed, unholy)\n__Damage__  2d6 + 6 slashing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +15 (agile, reach 10 feet, unholy)\n__Damage__  1d6 spirit plus rust 2d6 acid plus rust"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+15 (agile, reach 10 feet, unholy)\n__Damage__  1d6 spirit plus rust 2d6 acid plus rust"
 
   - name: "Divine Innate Spells"
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Paralyze|Paralyze]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Shatter|Shatter]]_\n__Cantrips__  __(3rd)__ _[[Spells/Acid Splash|Acid Splash]]_"
@@ -80,7 +83,7 @@ attacks:
     desc: "  A vloriak's saliva causes metal to rust rapidly. If it succeeds at a tongue Strike or [[Actions/Disarm|Disarm]] attempt, the vloriak deals 2d6 untyped damage (doubled on a critical hit) to a metal item the target is wearing or holding, ignoring its Hardness. If the vloriak hits an unattended metal item, the item takes this damage automatically. If a creature uses the Shield Block reaction with a metal shield against a tongue attack, the shield is automatically broken, but no other item is rusted on that attack."
 
   - name: "Spew Rusted Shards"
-    desc: "`pf2:2` (divine) The vloriak spews a @Template[cone|distance:15] of acid and rusted metal. Creatures in the area take 3d6 acid and 3d6 piercing damage (DC 22 Reflex check save). A creature that takes any piercing damage is exposed to tetanus. The vloriak can't Spew Rusted Shards for 1d4 rounds."
+    desc: "`pf2:2` (divine) The vloriak spews a 15-foot cone of acid and rusted metal. Creatures in the area take 3d6 acid and 3d6 piercing damage (DC 22 Reflex check save). A creature that takes any piercing damage is exposed to tetanus. The vloriak can't Spew Rusted Shards for 1d4 rounds."
 
   - name: "Tetanus"
     desc: " (disease) An infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.\n\n**Saving Throw** DC 14 Fortitude check\n\n**Onset** 10 days\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 week)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 2]] and can't speak (1 day)\n\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] with spasms (1 day)\n\n**Stage 4** death"

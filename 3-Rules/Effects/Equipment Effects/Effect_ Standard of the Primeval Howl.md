@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Standard of the Primeval Howl|Standard of the Primeval Howl]]
+Granted by [[Equipment/Standard of the Primeval Howl|Standard of the Primeval Howl]]
 
 Creatures in a 20-foot emanation gain a +1 item bonus to initiative checks.
 

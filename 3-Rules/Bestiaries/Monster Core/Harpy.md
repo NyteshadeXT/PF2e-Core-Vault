@@ -60,16 +60,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Stench|Stench]]"
-    desc: " (aura,olfactory) 30 feet, DC 21 Fortitude check\n\n* * *\n"
+    desc: " (aura,olfactory) 30 feet, DC 21 Fortitude check\n* * *\n\nA creature entering the aura or starting its turn in the area must succeed at a Fortitude save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] as long as it's sickened on a critical failure). A creature that succeeds at its save or recovers from being sickened is temporarily immune to all stench auras for 1 minute."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +15 (agile, finesse)\n__Damage__  2d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+15 (agile, finesse, unarmed)\n__Damage__  2d6 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 (finesse)\n__Damage__  2d8 + 4 piercing plus putrid-plague"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (finesse, unarmed)\n__Damage__  2d8 + 4 piercing plus putrid-plague"
 
   - name: "Hungry Winds"
     desc: "`pf2:2` (air,concentrate,primal) The harpy uses the wind to pull its prey closer. A target within 20 feet must succeed at a DC 21 Fortitude check save or be pulled adjacent to the harpy, where they make a jaws Strike against the target. If the target was pulled off the ground and can't fly, it then falls as normal."

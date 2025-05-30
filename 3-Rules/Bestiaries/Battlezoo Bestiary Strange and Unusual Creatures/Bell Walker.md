@@ -37,7 +37,7 @@ perception:
 languages: "Aklo; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Athletics: +23, Occultism: +16, Stealth: +14, Survival: +17, Acrobatics: +14, Athletics: +23, Occultism: +16, Stealth: +14, Survival: +17, Fungus Lore: +20"
+    desc: "Acrobatics: +14, Athletics: +23, Occultism: +16, Stealth: +14, Survival: +17, Fungus Lore: +20"
 abilityMods: [7, 2, 7, 0, 3, -2]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +23 (reach 10 feet)\n__Damage__  2d10 + 11 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+23 (reach 10 feet)\n__Damage__  2d10 + 11 bludgeoning plus improved-grab"
 
   - name: "Noxious Kiss"
     desc: "`pf2:1` (attack,poison) **Requirements** The bell walker has a creature [[undefined]]\n* * *\n\n**Effect** The bell walker's cap extends to an almost impossibly large size in order to cover the upper half of a grabbed creature. The bell walker attempts an Athletics check against the grabbed creature's Reflex DC. On a successful Athletics check, the bell walker successfully covers the creature's upper half. The creature is [[undefined]], and has to hold its breath or start suffocating. The creature takes 2d10+6 bludgeoning damage at the end of each of its turns. The enveloped creature can get free by [[Actions/Escape|Escaping]] against DC 33, and it's automatically freed if it is no longer grabbed by the bell walker. The bell walker can't use its Toxic Fumes ability while it's using Noxious Kiss to cover a creature's upper half."

@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hookclaw +13 (agile, versatile p)\n__Damage__  3d6 bleed 1d4 + 5 slashing"
+  - name: "**Melee** `pf2:1` Hookclaw"
+    desc: "+13 (agile, versatile p)\n__Damage__  3d6 bleed 1d4 + 5 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Ridged Tail +13 (sweep)\n__Damage__  2d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Ridged Tail"
+    desc: "+13 (sweep)\n__Damage__  2d6 + 5 bludgeoning"
 
   - name: "Rollout Trample"
     desc: "`pf2:3`  **Requirements** The hooplamander is Wheels Up\n* * *\n\n**Effect** As [[Bestiary Ability Glossary/Trample|Trample]] (Large or smaller, ridged tail, DC 22 Reflex check), except targets that critically fail their Reflex save are [[Conditions/Stunned|Stunned 1]], and the hooplamander Unfurls at the end of its movement."

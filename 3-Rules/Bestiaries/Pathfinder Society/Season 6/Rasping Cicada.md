@@ -29,7 +29,7 @@ trait_01: [[animal]]
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "+7; "
+    desc: "+7; Darkvision"
 languages: ""
 skills:
   - name: "Skills"
@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Proboscis +9 ()\n__Damage__  1d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Proboscis"
+    desc: "+9 ()\n__Damage__  1d8 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Slam +9 ()\n__Damage__  1d6 + 1 bludgeoning plus rasping-cicada-poison"
+  - name: "**Melee** `pf2:1` Slam"
+    desc: "+9 (unarmed)\n__Damage__  1d6 + 1 bludgeoning plus rasping-cicada-poison"
 
   - name: "Rasping Cicada Poison"
     desc: " (inhaled,poison) **Saving Throw** DC 15 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage plus [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 2** 1d4 poison damage plus [[Conditions/Slowed|Slowed 2]] (1 round)\n\n**Stage 3** 2d4 poison damage plus slowed 2 and [[Conditions/Stupefied|Stupefied 1]] (1 round)"

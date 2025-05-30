@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Maul +17 (magical, shove)\n__Damage__  2d12 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Maul"
+    desc: "+17 (magical, shove)\n__Damage__  2d12 + 3 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 ()\n__Damage__  2d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (unarmed)\n__Damage__  2d8 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +16 (agile)\n__Damage__  2d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+16 (agile, unarmed)\n__Damage__  2d6 + 3 slashing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 24, attack +17; __3rd __  _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Crisis of Faith|Crisis of Faith]]_; __2nd __  _[[Spells/Death Knell|Death Knell]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Protection|Protection]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Shield|Shield]]_"

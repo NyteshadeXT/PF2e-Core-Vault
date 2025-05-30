@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Fulmination Fang|Fulmination Fang]]
+Granted by [[Equipment/Fulmination Fang|Fulmination Fang]]
 
 The next melee Strike you make with the _fulmination fang_ deals an additional 1d6 electricity damage.
 

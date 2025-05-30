@@ -63,17 +63,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +16 (forceful, sweep)\n__Damage__  1d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+16 (forceful, sweep)\n__Damage__  1d6 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 ()\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (unarmed)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +16 (agile, finesse)\n__Damage__  1d4 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+16 (agile, finesse, unarmed)\n__Damage__  1d4 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +16 (thrown 60 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+16 (thrown 60 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Light Step"
     desc: "  When a skirmisher Strides or Steps, they ignore difficult terrain and treat greater difficult terrain as difficult terrain."

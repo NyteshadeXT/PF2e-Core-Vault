@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +16 (reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+16 (reach 10 feet)\n__Damage__  2d8 + 8 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +16 (reach 10 feet)\n__Damage__  2d10 + 8 piercing plus knockdown"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+16 (reach 10 feet, unarmed)\n__Damage__  2d10 + 8 piercing plus knockdown"
 
   - name: "Pointed Charge"
     desc: "`pf2:2`  The bison surges toward its foe, horns lowered. It Strides twice. If the bison ends its movement with an enemy within its reach, it makes a horn Strike against that enemy. The strike gains the fatal d12 trait."
@@ -72,7 +72,7 @@ attacks:
     desc: "`pf2:3`  The bison kicks up dust and shakes the ground as it charges. The stampeding bison Strides up to twice its Speed in a straight line, dealing 4d8+8 bludgeoning damage (DC 24 Reflex check) to any Large or smaller creature in its path.Multiple bison can participate in Rolling Thunder by spending this ability's actions and waiting to charge until the herd is ready. Before the beginning of its next turn, a bison can then charge as a reaction triggered by an adjacent bison beginning its Rolling Thunder charge. All bison in the combined charge must charge in parallel lines, so the areas can't overlap. The combined charge deals an additional 3d8 bludgeoning damage to creatures in the area, and a creature that fails the Reflex saving throw is also knocked [[Conditions/Prone|Prone]]."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

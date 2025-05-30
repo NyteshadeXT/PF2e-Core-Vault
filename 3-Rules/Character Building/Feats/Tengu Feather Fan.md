@@ -21,7 +21,7 @@ license: ORC
 
 You've learned to bind some of your feathers together into a fan to focus your ancestral magic. You gain a _tengu feather fan_: a magic item of light Bulk with a level equal to your level and the primal trait. You (and only you) can cast tengu magic with the Wave Fan activation. If your fan is lost or destroyed, you can create a replacement during your daily preparations; if you do so, your previous fan falls apart into mundane feathers.
 
-Your _tengu feather fan_ contains a 1st-rank [[Gust of Wind|Gust of Wind]] spell. Further feats might add more spells and grant you additional activations of your tengu feather fan, but you can never have more than three activations per day, no matter how many such feats you have.
+Your _tengu feather fan_ contains a 1st-rank [[Spells/Gust of Wind|Gust of Wind]] spell. Further feats might add more spells and grant you additional activations of your tengu feather fan, but you can never have more than three activations per day, no matter how many such feats you have.
 
 **Activate—Wave Fan** (manipulate)
 

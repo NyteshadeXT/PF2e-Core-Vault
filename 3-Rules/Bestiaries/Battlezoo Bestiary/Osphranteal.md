@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +23 (holy, magical, reach 10 feet)\n__Damage__  2d10 + 11 bludgeoning 1d6 spirit"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+23 (holy, magical, reach 10 feet)\n__Damage__  2d10 + 11 bludgeoning 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 (agile, holy, magical, parry)\n__Damage__  2d6 + 11 bludgeoning plus grab 1d6 spirit plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+23 (agile, holy, magical, parry)\n__Damage__  2d6 + 11 bludgeoning plus grab 1d6 spirit plus grab"
 
   - name: "Innate Divine Spells"
     desc: "DC 27, attack +19; __5th __  _[[Spells/Drop Dead|Drop Dead]]_, _[[Spells/Cleanse Affliction|Neutralize Poison]]_, _[[Compendium.pf2e.spells-srd.Item.RneiyehRO6f7LP44|Remove Disease]]_; __4th __  _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_; __3rd __  _[[Spells/Wanderer's Guide|Wanderer's Guide]]_; __2nd __  _[[Spells/Enhance Victuals|Enhance Victuals (At Will)]]_, _[[Spells/Share Life|Shield Other]]_, _[[Spells/Share Life|Shield Other]]_, _[[Spells/Share Life|Shield Other]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Evil Only)]]_\n__Constant__  __(5th)__ _[[Spells/Speak with Animals|Speak with Animals]]_, _[[Spells/Truespeech|Tongues]]_"

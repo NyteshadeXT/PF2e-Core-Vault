@@ -16,7 +16,7 @@ license: OGL
 ---
 # Geologic Attunement `pf2:1`
 ## Feat 1
-### [[3-Rules/trait_reference/E/earth]][[impulse]][[kineticist]][[primal]][[stance]]
+### [[earth]][[impulse]][[kineticist]][[primal]][[stance]]
 
 **Category** class; 
 

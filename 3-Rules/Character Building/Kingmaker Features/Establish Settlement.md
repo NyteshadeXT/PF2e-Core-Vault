@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Establish Settlement"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/region
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.RPUUcyuMbvud45TS"
 license: OGL
 ---
 # Establish Settlement
-
+## 
 ### [[downtime]][[region]]
 
 **Category** kingdom-activity; 

@@ -18,7 +18,7 @@ license: ORC
 
 
 
-**Prerequisites** Wandering Chef Dedication; expert in Craftingor Cooking Lore
+**Prerequisites** Wandering Chef Dedication; expert in Crafting or Cooking Lore
 * * *
 Your number of versatile vials per day increases to 5.
 
@@ -26,5 +26,5 @@ Your number of versatile vials per day increases to 5.
 
 **Special** At 12th level or higher, you can select this feat a second time to increase your number of versatile vials per day to 6. At 18th level or higher, you can select this feat a third time to increase your number of versatile vials per day to 7.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

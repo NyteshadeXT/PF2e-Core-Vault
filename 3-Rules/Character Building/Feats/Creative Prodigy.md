@@ -3,22 +3,24 @@ obsidianUIMode: preview
 title: "Creative Prodigy"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/ganzi
+  - trait/nephilim
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.3J0NxeHcA1h9eToK"
-license: OGL
+license: ORC
 ---
 # Creative Prodigy
 ## Feat 1
-### [[ganzi]]
+### [[nephilim]]
 
 **Category** ancestry; 
 
 
 
+**Prerequisites** Proteankin
+* * *
+You have a powerful creative drive that is clear to any who interact with you. You are trained in Performance. If you were already trained in Performance (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the [[Feats/Impressive Performance|Impressive Performance]] skill feat, and when you use Performance [[Actions/make-an-impression variant=performance|make-an-impression variant=performance]], you gain a +1 circumstance bonus to the check.
 
-You have a powerful creative drive, useful for prevarication and performance. You gain the trained proficiency rank in Deception and Performance. If you are already trained in either of these skills, you become trained in a skill of your choice in its place. You also become trained in Art Lore.
-
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder War of Immortals*
+*ORC*

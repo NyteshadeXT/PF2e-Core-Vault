@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 (magical, reach 10 feet)\n__Damage__  2d10 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (magical, reach 10 feet, unarmed)\n__Damage__  2d10 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +20 (agile, magical)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+20 (agile, magical)\n__Damage__  2d6 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +18 (magical, reach 15 feet)\n__Damage__  2d8 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+18 (magical, reach 15 feet)\n__Damage__  2d8 + 8 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 27, attack +19; __5th __  _[[Spells/Illusory Scene|Illusory Scene]]_; __4th __  _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Illusory Object|Illusory Object (At Will)]]_, _[[Spells/Mirage|Mirage]]_; __2nd __  _[[Spells/Invisibility|Invisibility]]_\n__Cantrips__  __(5th)__ _[[Spells/Figment|Figment]]_, _[[Spells/Message|Message]]_"
@@ -82,7 +82,7 @@ attacks:
     desc: "  The dragon recharges their Hallucinatory Breath whenever they score a critical hit with a Strike."
 
   - name: "Hallucinatory Breath"
-    desc: "`pf2:2` (arcane,emotion,mental) The dragon breathes a cloud that assaults the senses and deals 7d6 mental damage in a @Template[cone|distance:30] (DC 27 Will check save). A creature that fails its save is also [[Conditions/Confused|Confused]] for 1 round (1 minute on a critical failure) and is then temporarily immune to being confused by Hallucinatory Breath for 1 hour.\n\nThe dragon can't use Hallucinatory Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,emotion,mental) The dragon breathes a cloud that assaults the senses and deals 7d6 mental damage in a 30-foot cone (DC 27 Will check save). A creature that fails its save is also [[Conditions/Confused|Confused]] for 1 round (1 minute on a critical failure) and is then temporarily immune to being confused by Hallucinatory Breath for 1 hour.\n\nThe dragon can't use Hallucinatory Breath again for 1d4 rounds."
 
   - name: "Lunging Bite"
     desc: "`pf2:2`  The dragon lunges their head forward, making a jaws Strike with an extended reach of 20 feet."

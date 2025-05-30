@@ -7,8 +7,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.XLoRtMn48f2KKvsu"
-license: OGL
+license: ORC
 ---
 # Blast Lock `pf2:1`
 ## Feat 1
@@ -36,4 +37,4 @@ Sometimes taking the shortest distance between two points involves removing an o
 **Critical Failure** You fail to open the lock, and your shot makes it much harder to open. Future attempts to Pick the Lock or Blast the Lock take a -4 circumstance penalty.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

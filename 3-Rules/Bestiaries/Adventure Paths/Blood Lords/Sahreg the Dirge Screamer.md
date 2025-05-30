@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_SAHREG.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Sahreg the Dirge Screamer"
 level: "Creature 2"
@@ -58,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +11 (agile, finesse, versatile s)\n__Damage__  1d6 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+11 (agile, finesse, versatile s)\n__Damage__  1d6 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 18, attack +10; __1st __ (3 slots) _[[Spells/Command|Command]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(1st)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

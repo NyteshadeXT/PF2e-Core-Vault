@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Unbreaking Wave Barrier|Unbreaking Wave Barrier]]
+Granted by [[Spells/Unbreaking Wave Barrier|Unbreaking Wave Barrier]]
 
 You gain a +1 status bonus to AC.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

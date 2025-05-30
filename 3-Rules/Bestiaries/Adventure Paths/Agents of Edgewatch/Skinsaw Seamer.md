@@ -58,19 +58,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Wire Catch"
-    desc: "`pf2:r`  Every Skinsaw seamer keeps a sewing needle attached to a loop of thick silk, wrapped loosely around their hand not holding a weapon, which they can use in combat to snag or disarm attackers\n\n**Trigger** A creature hits the seamer with a melee Strike\n* * *\n\n**Effect** The seamer attempts an Athletics check to either [[Actions/Grapple|Grapple]] or [[Actions/Disarm|Disarm]] the triggering creature."
+    desc: "`pf2:r`  Every Skinsaw seamer keeps a sewing needle attached to a loop of thick silk, wrapped loosely around their hand not holding a weapon, which they can use in combat to snag or disarm attackers\n\n**Trigger** A creature hits the seamer with a melee Strike\n* * *\n\n**Effect** The seamer attempts an Athletics check to either [[Actions/grapple|grapple]] or [[Actions/disarm|disarm]] the triggering creature."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` War Razor +20 (agile, backstabber, deadly d8, finesse)\n__Damage__  1d4 + 7 piercing"
+  - name: "**Melee** `pf2:1` War Razor"
+    desc: "+20 (agile, backstabber, deadly d8, finesse)\n__Damage__  1d4 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +18 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+18 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +20 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+20 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
 
   - name: "Flay"
     desc: "`pf2:1`  **Requirements** The Skinsaw seamer dealt damage with a melee weapon other than its war razor with their last action\n* * *\n\n**Effect** The seamer makes a war razor Strike against the same creature that they just damaged. On a hit, the seamer slices a strip of flesh from the target and deals 1d6 bleed in addition to the war razor's usual damage."

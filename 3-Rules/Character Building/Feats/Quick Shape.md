@@ -24,5 +24,5 @@ license: OGL
 
 Your instincts kick in and you take on an aggressive stance. You use [[Actions/Change Shape|Change Shape]] to enter your hybrid form or a new form granted by a beastkin feat.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

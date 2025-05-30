@@ -58,17 +58,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile, reach 10 feet)\n__Damage__  2d6 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, reach 10 feet, unarmed)\n__Damage__  2d6 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +18 (reach 15 feet)\n__Damage__  2d6 + 13 piercing plus grab"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+18 (reach 15 feet)\n__Damage__  2d6 + 13 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +18 (agile, reach 10 feet)\n__Damage__  2d6 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+18 (agile, reach 10 feet)\n__Damage__  2d6 + 13 bludgeoning"
 
   - name: "Broad Swipe"
     desc: "`pf2:2`  The crocodile makes two Strikes with its tail against two adjacent foes, both of whom are within its reach. The multiple attack penalty does not increase until after both attacks are resolved."
@@ -80,7 +83,7 @@ attacks:
     desc: "`pf2:2`  The skeletal crocodile detaches its skull and fires it at a target within 30 feet, making a bite Strike. If the Strike is successful and the target is Large or smaller, the crocodile uses a heavy chain to retract its skull back to its body, dragging the targeted creature 30 feet."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

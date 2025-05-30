@@ -64,22 +64,22 @@ abilities_mid:
     desc: "  On the first round of combat, if Krosovahn Mendesil rolls Deception or Stealth for initiative, creatures who haven't acted are [[Conditions/Off-Guard|Off-Guard]] to Krosovahn Mendesil."
 
   - name: "You're Next"
-    desc: "`pf2:r` (emotion,fear,mental) **Trigger** Krosovahn Mendesil reduces an enemy to 0 Hit Points\n* * *\n\n**Effect** After downing the foe, Krosovahn Mendesil menacingly reminds another foe that he's coming after them next. Krosovahn Mendesil attempts an Intimidation check with a +2 circumstance bonus to [[Actions/Demoralize|Demoralize]] a single creature that he can see and that can see him."
+    desc: "`pf2:r` (emotion,fear,mental) **Trigger** Krosovahn Mendesil reduces an enemy to 0 Hit Points\n* * *\n\n**Effect** After downing the foe, Krosovahn Mendesil menacingly reminds another foe that he's coming after them next. Krosovahn Mendesil attempts an Intimidation check with a +2 circumstance bonus to [[Actions/demoralize options=youre-next|demoralize options=youre-next]] a single creature that he can see and that can see him."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +15 (agile, finesse, magical, versatile s)\n__Damage__  1d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+15 (agile, finesse, magical, versatile s)\n__Damage__  1d6 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +15 (agile, finesse, versatile s)\n__Damage__  1d4 + 7 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+15 (agile, finesse, versatile s)\n__Damage__  1d4 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +15 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+15 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +15 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  2d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+15 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  2d6 + 6 piercing"
 
   - name: "Brutal Rally"
     desc: "`pf2:r` (auditory,emotion,linguistic,mental) **Trigger** Krosovahn Mendesil rolls a critical hit against a creature\n* * *\n\n**Effect** All allies that can see Krosovahn Mendesil gain a +1 circumstance bonus to attack rolls until the start of Krosovahn Mendesil's next turn.\n\n[[Bestiary Effects/Effect_ Brutal Rally|Effect: Brutal Rally]]"

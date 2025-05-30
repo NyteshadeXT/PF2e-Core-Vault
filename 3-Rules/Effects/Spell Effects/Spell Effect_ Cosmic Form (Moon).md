@@ -16,11 +16,9 @@ license: OGL
 
 
 
-Granted by [[Cosmic Form|Cosmic Form]]
+Granted by [[Spells/Cosmic Form|Cosmic Form]]
 
-You recreate your form entirely out of cosmic energy, transforming into a Large battle form. You must have enough space to expand into, or the spell is lost. When you cast this spell, choose to take on the powers of the moon or the sun. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
-
-You gain the following statistics and abilities regardless of the form that you choose:
+You transform into a Large battle form. You have hands in this battle form and can use manipulate actions. You gain the following statistics and abilities regardless of the form that you choose:
 
 *   AC = 21 + your level. Ignore your armor check's penalty and Speed reduction.
 *   20 temporary Hit Points.
@@ -31,6 +29,7 @@ You gain the following statistics and abilities regardless of the form that you 
 You also gain specific abilities based on the stellar body:
 
 *   **Moon** Speed 30 feet, fly 50 feet;
+    
     *   **Melee** `pf2:1` fist (agile, reach 10 feet), **Damage** 2d4+10 bludgeoning plus 1d6 fire;
     *   **Ranged** `pf2:1` moonbeam (range 90 feet), **Damage** 2d4+10 fire; this form's fire damage is silver for resistances, weaknesses, and the like;
     *   On a critical hit with either Strike, the target is [[Conditions/Stupefied|Stupefied 2]] for 1 round.

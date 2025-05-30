@@ -59,20 +59,23 @@ abilities_top:
     desc: "[[Equipment/Glaive|Glaive]], [[Equipment/Half Plate|Half Plate]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Glaive +12 (deadly d8, forceful, reach 15 feet)\n__Damage__  1d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Glaive"
+    desc: "+12 (deadly d8, forceful, reach 15 feet)\n__Damage__  1d8 + 7 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horns +12 (agile)\n__Damage__  1d10 + 5 piercing"
+  - name: "**Melee** `pf2:1` Horns"
+    desc: "+12 (agile)\n__Damage__  1d10 + 5 piercing"
 
   - name: "Broad Swipe"
     desc: "`pf2:2`  The giant makes two Strikes with its glaive against two adjacent foes, both of whom are within its reach. Both attacks count toward the giant's multiple attack penalty, but the penalty doesn't increase until after both attacks."
 
   - name: "Terrifying Charge"
-    desc: "`pf2:2`  The giant Strides and makes a horns Strike with a +4 circumstance bonus to damage.\n\nIf the strike hits, the giant attempts to [[Actions/Demoralize|Demoralize]] the target."
+    desc: "`pf2:2`  The giant Strides and makes a horns Strike with a +4 circumstance bonus to damage.\n\nIf the strike hits, the giant attempts to [[Actions/demoralize|demoralize]] the target."
  
 ```
 

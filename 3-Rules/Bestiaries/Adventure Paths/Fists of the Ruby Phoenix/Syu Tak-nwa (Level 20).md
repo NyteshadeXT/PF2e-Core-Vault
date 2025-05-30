@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hair +35 (agile, finesse, grapple, reach 15 feet, trip, unarmed, versatile s)\n__Damage__  6d4 + 20 bludgeoning"
+  - name: "**Melee** `pf2:1` Hair"
+    desc: "+35 (agile, finesse, grapple, reach 15 feet, trip, unarmed, versatile s)\n__Damage__  6d4 + 20 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Braid +35 (forceful, reach 10 feet, shove, unarmed)\n__Damage__  6d6 + 20 bludgeoning"
+  - name: "**Melee** `pf2:1` Braid"
+    desc: "+35 (forceful, reach 10 feet, shove, unarmed)\n__Damage__  6d6 + 20 bludgeoning"
 
   - name: "Occult Prepared Spells"
     desc: "DC 45, attack +37; __9th __  _[[Spells/Unfathomable Song|Unfathomable Song]]_, _[[Spells/Weird|Weird]]_; __7th __  _[[Spells/Visions of Danger|Visions of Danger]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __  _[[Spells/Collective Transposition|Collective Transposition]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Repulsion|Repulsion]]_, _[[Spells/Truesight|True Seeing]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_; __4th __  _[[Spells/Flicker|Blink]]_; __3rd __  _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Clear Mind|Remove Fear]]_, _[[Spells/Sure Footing|Remove Paralysis]]_; __1st __  _[[Spells/Soothe|Soothe]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(10th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

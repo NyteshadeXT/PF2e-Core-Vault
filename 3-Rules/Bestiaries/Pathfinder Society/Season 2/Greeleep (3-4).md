@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +8 ()\n__Damage__  1d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+8 (unarmed)\n__Damage__  1d6 + 3 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +8 (two-hand d8)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+8 (two-hand d8)\n__Damage__  1d4 + 3 bludgeoning"
 
   - name: "Spontaneous Primal Spells"
-    desc: "DC 18, attack +10; __2nd __ (3 slots) _[[Spells/Environmental Endurance|Endure Elements]]_, _[[Spells/Enlarge|Enlarge]]_, _[[Spells/Entangling Flora|Entangle]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Stabilize|Stabilize]]_"
+    desc: "DC 18, attack +10; __2nd __ (3 slots) _[[Spells/Environmental Endurance|Endure Elements]]_, _[[Spells/Enlarge|Enlarge]]_, _[[Spells/Entangling Flora|Entangle]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_\n__Cantrips__  __(2nd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Stabilize|Stabilize]]_"
  
 ```
 

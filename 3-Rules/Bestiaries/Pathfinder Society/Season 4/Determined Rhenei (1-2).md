@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Aldori Dueling Sword +6 (finesse, versatile p)\n__Damage__  1d8 slashing"
+  - name: "**Melee** `pf2:1` Aldori Dueling Sword"
+    desc: "+6 (finesse, versatile p)\n__Damage__  1d8 slashing"
 
   - name: "Primal Spontaneous Spells"
-    desc: "DC 17, attack +9; __1st __ (3 slots) _[[Spells/Breathe Fire|Burning Hands (Bludgeoning, Water)]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_\n__Cantrips__  __(1st)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame (Bludgeoning, Water)]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 17, attack +9; __1st __ (3 slots) _[[Spells/Breathe Fire|Burning Hands (Bludgeoning, Water)]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_\n__Cantrips__  __(1st)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame (Bludgeoning, Water)]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Sorcerer Bloodline Spells"
     desc: "1 Focus Point, DC 17, attack +9; __1st __  _[[Spells/Elemental Toss|Elemental Toss]]_"

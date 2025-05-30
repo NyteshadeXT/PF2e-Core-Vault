@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Juubun's One Thousand Poems|Juubun's One Thousand Poems]]
+
 You gain 10 temporary hit points.
 
 *Source: Pathfinder #198: No Breath to Cry*

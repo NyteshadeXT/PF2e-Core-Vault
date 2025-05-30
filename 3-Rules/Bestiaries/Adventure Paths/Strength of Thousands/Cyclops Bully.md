@@ -61,16 +61,16 @@ abilities_mid:
     desc: "`pf2:0` (fortune,occult) **Frequency** once per day\n\n**Trigger** The cyclops bully fails (but does not critically fail) an attack roll or an Intimidation check\n* * *\n\n**Effect** The cyclops bully forces its will on an array of possible futures. It gets a success on the roll instead of a failure."
 
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatclub +21 (backswing, reach 10 feet, shove)\n__Damage__  2d10 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Greatclub"
+    desc: "+21 (backswing, reach 10 feet, shove)\n__Damage__  2d10 + 10 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +21 (agile, unarmed)\n__Damage__  2d6 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+21 (agile, unarmed)\n__Damage__  2d6 + 10 bludgeoning"
 
   - name: "Terrorizing Swing"
     desc: "`pf2:2`  The cyclops bully attempts to [[Actions/Demoralize|Demoralize]] a foe within its melee reach, then makes a melee Strike against that foe.\n\nIf the creature is [[Conditions/Frightened|Frightened]] and takes damage, it takes an additional 2d10 damage and is knocked [[Conditions/Prone|Prone]].\n\nThis counts as two attacks toward the cyclops's multiple attack penalty."

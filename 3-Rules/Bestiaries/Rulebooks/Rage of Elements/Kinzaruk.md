@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Razor&#x27;s Edge +11 (finesse)\n__Damage__  1d10 + 3 slashing"
+  - name: "**Melee** `pf2:1` Razor&#x27;s Edge"
+    desc: "+11 (finesse)\n__Damage__  1d10 + 3 slashing"
 
   - name: "Fold Form"
     desc: "`pf2:1` (concentrate,polymorph,primal) The kinzaruk swiftly unfolds and refolds its body into a new shape chosen from the options of [[Spells/Animal Form|Animal Form]]. This grants it the movement Speeds and Strikes of the chosen form, but none of the other benefits. Its attack bonus is unchanged, and its damage bonus is +3. The kinzaruk can return to its natural form by taking this action again, and automatically returns if it falls [[Conditions/Unconscious|Unconscious]].\n\n[[Bestiary Effects/Effect_ Fold Form|Effect: Fold Form]]"

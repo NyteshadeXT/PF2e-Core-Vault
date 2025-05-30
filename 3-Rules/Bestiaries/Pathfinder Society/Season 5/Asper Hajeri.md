@@ -60,17 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wish Knife +23 (agile, disarm, finesse, versatile s)\n__Damage__  2d6 + 10 piercing"
+  - name: "**Melee** `pf2:1` Wish Knife"
+    desc: "+23 (agile, disarm, finesse, versatile s)\n__Damage__  2d6 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +22 (agile, finesse, magical)\n__Damage__  2d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+22 (agile, finesse, magical, unarmed)\n__Damage__  2d8 + 10 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +20 (agile, magical)\n__Damage__  2d12 + 10 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+20 (agile, magical)\n__Damage__  2d12 + 10 piercing"
 
   - name: "Primal Spontaneous Spells"
-    desc: "DC 31, attack +23; __5th __ (3 slots) _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __ (4 slots) _[[Spells/Grasp of the Deep|Grasp of the Deep]]_, _[[Spells/Solid Fog|Solid Fog]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __ (4 slots) _[[Spells/Crashing Wave|Crashing Wave]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __1st __ (4 slots) _[[Spells/Breathe Fire|Breathe Fire]]_, _[[Spells/Dehydrate|Dehydrate]]_, _[[Spells/Gust of Wind|Gust of Wind]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Draw Moisture|Draw Moisture]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Slashing Gust|Slashing Gust]]_, _[[Spells/Spout|Spout]]_"
+    desc: "DC 31, attack +23; __5th __ (3 slots) _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Wall of Ice|Wall of Ice]]_; __4th __ (4 slots) _[[Spells/Grasp of the Deep|Grasp of the Deep]]_, _[[Spells/Solid Fog|Solid Fog]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __ (4 slots) _[[Spells/Crashing Wave|Crashing Wave]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __1st __ (4 slots) _[[Spells/Breathe Fire|Breathe Fire]]_, _[[Spells/Dehydrate|Dehydrate]]_, _[[Spells/Gust of Wind|Gust of Wind]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Draw Moisture|Draw Moisture]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Slashing Gust|Slashing Gust]]_, _[[Spells/Spout|Spout]]_"
 
   - name: "Primal Innate Spells"
     desc: "DC 31, attack +23; __3rd __  _[[Spells/Dive and Breach|Dive and Breach (At Will)]]_"

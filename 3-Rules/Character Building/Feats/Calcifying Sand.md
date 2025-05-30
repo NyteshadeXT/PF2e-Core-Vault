@@ -17,7 +17,7 @@ license: OGL
 ---
 # Calcifying Sand `pf2:r`
 ## Feat 4
-### [[3-Rules/trait_reference/E/earth]][[impulse]][[incapacitation]][[kineticist]][[overflow]][[primal]]
+### [[earth]][[impulse]][[incapacitation]][[kineticist]][[overflow]][[primal]]
 
 **Category** class; 
 

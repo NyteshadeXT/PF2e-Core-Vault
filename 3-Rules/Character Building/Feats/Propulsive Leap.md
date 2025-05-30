@@ -12,7 +12,7 @@ license: OGL
 ---
 # Propulsive Leap `pf2:1`
 ## Feat 10
-### [rare](rare.md "Rare Rarity Trait")[[deviant]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]]
 
 **Category** class; 
 

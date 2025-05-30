@@ -29,7 +29,7 @@ trait_01: [[animal]]
 modifier: 9
 perception:
   - name: "Perception"
-    desc: "+9; "
+    desc: "+9; Low-Light Vision"
 languages: ""
 skills:
   - name: "Skills"
@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile)\n__Damage__  2d4 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, unarmed)\n__Damage__  2d4 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Spit +11 (acid, range 40 feet)\n__Damage__  1d8 acid"
+  - name: "**Ranged** `pf2:1` Acid Spit"
+    desc: "+11 (acid, range 40 feet)\n__Damage__  1d8 acid"
  
 ```
 

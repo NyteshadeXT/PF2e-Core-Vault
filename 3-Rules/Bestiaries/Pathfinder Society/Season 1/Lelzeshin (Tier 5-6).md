@@ -69,17 +69,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bloodletting Kukri +16 (agile, finesse, trip)\n__Damage__  2d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Bloodletting Kukri"
+    desc: "+16 (agile, finesse, trip)\n__Damage__  2d6 + 6 slashing"
 
   - name: "Primal Spontaneous Spells"
-    desc: "DC 25, attack +16\n__Cantrips__  __(4th)__ _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 25, attack +16\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Mirror Feint"
     desc: " (visual) Lelzeshin takes advantage of the numerous mirrors in the room to befuddle his opponents, making his movements harder to track. If he succeeds at a Deception check check to [[Actions/Feint|Feint]] against a target who can see him, the target is [[Conditions/Off-Guard|Off-Guard]] against melee attacks that he makes against them until the end of his next turn."
 
   - name: "Mirror Target"
-    desc: "  Lelzeshin can use the room's mirrors to send his [[Spells/Produce Flame|Produce Flame]] projectiles in unexpected directions. When attacking with _produce flame_, instead of firing it directly at a foe, he can fire the projectile at the nearest mirrored wall and have it emerge out of the mirrored wall closest to his target. The distance between the mirrors doesn't count against the spell's range, only the distance the ball of fire travels when it is not inside a mirror."
+    desc: "  Lelzeshin can use the room's mirrors to send his [[Spells/Ignition|Ignition]] projectiles in unexpected directions. When attacking with _produce flame_, instead of firing it directly at a foe, he can fire the projectile at the nearest mirrored wall and have it emerge out of the mirrored wall closest to his target. The distance between the mirrors doesn't count against the spell's range, only the distance the ball of fire travels when it is not inside a mirror."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Lelzeshin deals 2d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Grudgestone|Grudgestone]]
+Granted by [[Equipment/Grudgestone|Grudgestone]], [[Equipment/Grudgestone (Greater)|Grudgestone (Greater)]]
 
-Your Strikes with the affixed weapon against the triggering creature gain a +3 status bonus to damage rolls.
+Your Strikes with the affixed weapon against the triggering creature gain a status bonus to damage rolls.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

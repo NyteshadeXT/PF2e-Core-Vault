@@ -17,7 +17,9 @@ license: OGL
 
 
 
-Four plates of pitted metal float around you to intercept attacks. You and allies in your kinetic aura gain a +1 circumstance bonus to AC.
+Granted by [[Feats/Shattershields|Shattershields]]
+
+You and allies in your kinetic aura gain a +1 circumstance bonus to AC.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

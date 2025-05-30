@@ -57,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Buck|Buck]]"
-    desc: "`pf2:r`  DC 37 Reflex check"
+    desc: "`pf2:r`  DC 37 Reflex check\n* * *\n\nMost monsters that serve as mounts can attempt to buck off unwanted or annoying riders, but most mounts will not use this reaction against a trusted creature unless the mounts are spooked or mistreated.\n\n**Trigger** A creature [[Actions/Mount|Mounts]] or uses the [[Actions/Command an Animal|Command an Animal]] action while riding the monster.\n* * *\n\n**Effect** The triggering creature must succeed at a Reflex saving throw against the listed DC or fall off the creature and land [[Conditions/Prone|Prone]]. If the save is a critical failure, the triggering creature also takes 1d6 bludgeoning damage in addition to the normal damage for the fall."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet DC 37 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet DC 37 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Spiked Scales"
     desc: "  A creature that critically fails to Strike Saint Fang in melee takes 6d6 piercing damage (DC 40 Reflex check save)."
@@ -71,14 +71,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +35 (magical, reach 15 feet)\n__Damage__  3d12 + 17 piercing 1d6 fire"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+35 (magical, reach 15 feet, unarmed)\n__Damage__  3d12 + 17 piercing 1d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +35 (agile, magical, reach 10 feet)\n__Damage__  2d6 bleed 3d6 + 17 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+35 (agile, magical, reach 10 feet, unarmed)\n__Damage__  2d6 bleed 3d6 + 17 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +33 (magical, reach 20 feet)\n__Damage__  3d6 + 17 piercing"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+33 (magical, reach 20 feet)\n__Damage__  3d6 + 17 piercing"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  Saint Fang makes two claw Strikes and one tail Strike in any order."
@@ -87,7 +87,7 @@ attacks:
     desc: "  When Saint Fang scores a critical hit with a Strike, he recharges his Dragon Breath."
 
   - name: "Dragon Breath"
-    desc: "`pf2:2` (arcane) Saint Fang breathes in one of two ways. He can't use Dragon Breath again for 1d4 rounds.\n\n**Blade Breath** (arcane) He breathes a @Template[line|distance:100] of sharp blades that deals 19d6 slashing damage (DC 40 Reflex check save). The blades created by this breath vanish at the end of the round.\n\n**Forge Breath** (arcane) He breathes a blast of embers and smoke, as if from an immense forge. Each creature within a @Template[cone|distance:40] takes 6d6 fire damage and 12d6 poison damage (DC 40 Reflex check save). Smoke lingers in the area until the end of Saint Fang's next turn; all creatures within the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within."
+    desc: "`pf2:2` (arcane) Saint Fang breathes in one of two ways. He can't use Dragon Breath again for 1d4 rounds.\n\n**Blade Breath** (arcane) He breathes a 100-foot line of sharp blades that deals 19d6 slashing damage (DC 40 Reflex check save). The blades created by this breath vanish at the end of the round.\n\n**Forge Breath** (arcane) He breathes a blast of embers and smoke, as if from an immense forge. Each creature within a 40-foot cone takes 6d6 fire damage and 12d6 poison damage (DC 40 Reflex check save). Smoke lingers in the area until the end of Saint Fang's next turn; all creatures within the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within."
  
 ```
 

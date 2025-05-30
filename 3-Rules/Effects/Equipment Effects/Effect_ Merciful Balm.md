@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Merciful Balm|Merciful Balm]]
+Granted by [[Equipment/Merciful Balm|Merciful Balm]]
 
 The weapon is granted the nonlethal trait for 1 hour.
 

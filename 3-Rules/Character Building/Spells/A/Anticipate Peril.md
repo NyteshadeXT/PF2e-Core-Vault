@@ -12,8 +12,9 @@ tags:
   - tradition/arcane
   - tradition/occult
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.EUMjrJJwSgsqNidi" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Anticipate Peril  `pf2:2`"
@@ -35,5 +36,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You grant the target brief foresight. The target gains a +1 status bonus to its next initiative roll, after which the spell ends.\n* * *\n\n**Heightened (+2)** The status bonus increases by 1, to a maximum of +4 at 7th rank.\n\n[[Spell Effects/Spell Effect_ Anticipate Peril|Spell Effect: Anticipate Peril]]"
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-Filtering your form through the substance of an object, you can pass through walls, doors, and more. You Fly up to your Speed. During this movement, you can try to move through one object. Attempt an Acrobatics check as you try to enter its space. The DC is typically 30 to move through a wall of up to 5 feet, 15 for an ordinary door, and 10 for thinner structures like windows; the GM might set the DC higher for especially dense materials like adamantine or lead, or for barriers that are magically reinforced. You can't Pass Through an obstacle made of magical force, such as a [[Wall of Force|Wall of Force]].
+Filtering your form through the substance of an object, you can pass through walls, doors, and more. You Fly up to your Speed. During this movement, you can try to move through one object. Attempt an Acrobatics check as you try to enter its space. The DC is typically 30 to move through a wall of up to 5 feet, 15 for an ordinary door, and 10 for thinner structures like windows; the GM might set the DC higher for especially dense materials like adamantine or lead, or for barriers that are magically reinforced. You can't Pass Through an obstacle made of magical force, such as a [[Spells/Wall of Force|Wall of Force]].
 
 Move through wall
 

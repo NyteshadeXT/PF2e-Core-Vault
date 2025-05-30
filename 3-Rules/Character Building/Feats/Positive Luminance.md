@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Hallowed Necromancer Dedication
 * * *
-You learn how to create a luminous reservoir of vitality energy that you can use to punish undead who dare attack you. You gain the domain spell [[Vital Luminance|Vital Luminance]]. It costs 1 Focus Point to cast a focus spell. This feat grants a focus pool of 1 Focus Point that you can recover using the Refocus activity.
+You learn how to create a luminous reservoir of vitality energy that you can use to punish undead who dare attack you. You gain the domain spell [[Spells/Vital Luminance|Vital Luminance]]. It costs 1 Focus Point to cast a focus spell. This feat grants a focus pool of 1 Focus Point that you can recover using the Refocus activity.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Ant Haul|Ant Haul]]
+Granted by [[Spells/Ant Haul|Ant Haul]]
 
-The target can carry 3 more Bulk than normal before becoming [[Conditions/Encumbered|Encumbered]] and up to a maximum of 6 more Bulk.
+You can carry 3 more Bulk than normal before becoming encumbered and up to a maximum of 6 more Bulk.
 
 *Source: Pathfinder Player Core*
 *ORC*

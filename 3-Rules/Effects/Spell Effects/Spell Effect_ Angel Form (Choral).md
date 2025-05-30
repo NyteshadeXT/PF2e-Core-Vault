@@ -16,11 +16,9 @@ license: OGL
 
 
 
-Granted by [[Angel Form|Angel Form]]
+Granted by [[Spells/Angel Form|Angel Form]]
 
-Invoking the celestial realms, you transform into a Small angel battle form. While in this form, you gain the angel and celestial traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
-
-You gain the following statistics and abilities regardless of the form that you choose:
+You transform into a Small angel battle form. You gain the angel and celestial traits. You have hands in this battle form. You gain the following statistics and abilities regardless of the form that you choose:
 
 *   AC = 22 + your level. Ignore your armor check's penalty and Speed reduction.
 *   40 temporary Hit Points and weakness 10 to unholy.
@@ -31,8 +29,9 @@ You gain the following statistics and abilities regardless of the form that you 
 You also gain specific abilities based on the type of angel you choose:
 
 *   **Choral** Speed 30 feet, fly 40 feet; +1 status bonus to AC and saves against sonic and auditory;
-    *   **Melee** `pf2:1` fist (agile), **Damage** 2d6+12 bludgeoning plus 1d6 spirit;
-    *   **Ranged** `pf2:1` piercing hymn (range 90 feet), **Damage** 1d6+12 sonic plus 1d6 spirit, and [[Conditions/Deafened|Deafened]] for 1 round on a critical hit.
+    
+    *   **Melee** `pf2:1` fist (agile, holy, magical), **Damage** 2d6+12 bludgeoning;
+    *   **Ranged** `pf2:1` piercing hymn (holy, magical, range 90 feet, sonic), **Damage** 3d6+12 sonic, and [[Conditions/Deafened|Deafened]] for 1 round on a critical hit.
 
 * * *
 

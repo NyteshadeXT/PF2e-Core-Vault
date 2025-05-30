@@ -54,6 +54,12 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
+  - name: "[[Bestiary Ability Glossary/Swarm Mind|Swarm Mind]]"
+    desc: "  This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
+
   - name: "Extraneous Flesh"
     desc: "`pf2:0`  **Frequency** three times per day\n\n**Trigger** A Strike scores a critical hit on the bhanyada swarm\n* * *\n\n**Effect** A critical hit might simply sever a component chunk that the bhanyada can lose without much harm. The bhanyada swarm attempts a DC 11 Flat check. On a success, it doesn't take any extra damage from the critical hit (although it takes other effects normally, such as critical specialization effects)."
 

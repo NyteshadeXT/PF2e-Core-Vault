@@ -65,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flare +17 (fire, magical)\n__Damage__  2d4 + 4 fire plus light-the-living-wick"
+  - name: "**Melee** `pf2:1` Flare"
+    desc: "+17 (fire, magical)\n__Damage__  2d4 + 4 fire plus light-the-living-wick"
 
   - name: "Heat Mirage"
     desc: "`pf2:1` (concentrate) The dune candle extinguishes its glow, becoming [[Conditions/Invisible|Invisible]]. It can end this effect with another use of this action. Its body reflects creatures on fire (but not other fires) while it's invisible.\n\nAs a result, when any creature within 20 feet of the dune candle is taking [[Conditions/Persistent Damage|Persistent Fire Damage]], the dune candle is [[Conditions/Hidden|Hidden]] to observers rather than [[Conditions/Undetected|Undetected]]."

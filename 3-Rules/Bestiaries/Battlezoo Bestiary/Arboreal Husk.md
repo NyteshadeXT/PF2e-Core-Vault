@@ -64,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Blighted Branch +19 (reach 15 feet)\n__Damage__  2d12 + 9 bludgeoning plus draining-impact"
+  - name: "**Melee** `pf2:1` Blighted Branch"
+    desc: "+19 (reach 15 feet)\n__Damage__  2d12 + 9 bludgeoning plus draining-impact"
 
-  - name: "Melee"
-    desc: "`pf2:1` Blighted Root +19 (trip)\n__Damage__  2d10 + 9 bludgeoning plus draining-impact"
+  - name: "**Melee** `pf2:1` Blighted Root"
+    desc: "+19 (trip)\n__Damage__  2d10 + 9 bludgeoning plus draining-impact"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +17 (brutal, range increment 120 feet)\n__Damage__  2d12 + 9 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+17 (brutal, range increment 120 feet)\n__Damage__  2d12 + 9 bludgeoning"
 
   - name: "Innate Primal Spells"
     desc: "DC 26, attack +18\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"

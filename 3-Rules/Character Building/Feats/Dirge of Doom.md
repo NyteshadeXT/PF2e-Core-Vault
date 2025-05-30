@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You learn the [[3-Rules/Character Building/Spells/D/Dirge of Doom|Dirge of Doom]] composition cantrip, which frightens your enemies and keeps them from fully recovering from their fear.
+You learn the [[Spells/Dirge of Doom|Dirge of Doom]] composition cantrip, which frightens your enemies and keeps them from fully recovering from their fear.
 
 *Source: Pathfinder Player Core*
 *ORC*

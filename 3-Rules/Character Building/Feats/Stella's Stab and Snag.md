@@ -26,5 +26,5 @@ license: OGL
 
 You dart towards your opponent, seeking to stab them and slice their purse-strings with a single movement. Stride up to your Speed; this movement does not trigger reactions triggered by movement. At any point during this movement you can Strike an opponent within reach. If this Strike is successful, you can attempt a Thievery check to Steal from the target.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

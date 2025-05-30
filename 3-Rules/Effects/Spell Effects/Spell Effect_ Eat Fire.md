@@ -17,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Eat Fire|Eat Fire]]
+Granted by [[Spells/Eat Fire|Eat Fire]]
 
-You gain resistance to fire damage until the end of the current turn.
+You gain resistance to fire damage.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

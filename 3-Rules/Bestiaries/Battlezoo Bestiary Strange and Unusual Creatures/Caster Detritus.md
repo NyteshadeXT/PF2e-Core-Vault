@@ -37,7 +37,7 @@ perception:
 languages: "Common; any languages the source mage speaks"
 skills:
   - name: "Skills"
-    desc: "Arcana: +16, Athletics: +14, Deception: +14, Arcana: +16, Athletics: +14, Deception: +14"
+    desc: "Arcana: +16, Athletics: +14, Deception: +14"
 abilityMods: [4, 3, 3, 4, 1, 4]
 speed: 25 feet,  climb 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hair Whip +20 (magical, reach 10 feet)\n__Damage__  2d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Hair Whip"
+    desc: "+20 (magical, reach 10 feet)\n__Damage__  2d8 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Nail Shot +20 (agile, magical, range increment 30 feet, thrown)\n__Damage__  2d6 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Nail Shot"
+    desc: "+20 (agile, magical, range increment 30 feet, thrown)\n__Damage__  2d6 + 8 piercing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 25, attack +15; __4th __  _[[Spells/Vapor Form|Gaseous Form]]_; __3rd __  _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Revealing Light|Glitterdust]]_; __1st __  _[[Spells/Grease|Grease (x2)]]_\n__Cantrips__  __(4th)__ _[[Spells/Tangle Vine|Tanglefoot]]_"

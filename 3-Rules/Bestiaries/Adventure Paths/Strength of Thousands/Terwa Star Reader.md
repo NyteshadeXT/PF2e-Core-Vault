@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +16 (agile, finesse)\n__Damage__  2d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+16 (agile, finesse, unarmed)\n__Damage__  2d6 + 5 slashing"
 
   - name: "Spontaneous Occult Spells"
     desc: "DC 25, attack +17; __4th __ (3 slots) _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Girzanje's March|Girzanje's March]]_, _[[Spells/Heal|Heal]]_; __3rd __ (4 slots) _[[Spells/Heroism|Heroism]]_, _[[Spells/Holy Light|Searing Light]]_, _[[Spells/Wanderer's Guide|Wanderer's Guide]]_; __2nd __ (4 slots) _[[Spells/Augury|Augury]]_, _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Restoration|Restoration]]_; __1st __ (4 slots) _[[Spells/Mending|Mending]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_"

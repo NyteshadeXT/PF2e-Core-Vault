@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** ki spells
 * * *
-You gain the [[3-Rules/Character Building/Spells/W/Wronged Monk's Wrath|Wronged Monk's Wrath]] ki spell. Increase the number of Focus Points in your focus pool by 1.
+You gain the [[Spells/Wronged Monk's Wrath|Wronged Monk's Wrath]] ki spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder #166: Despair on Danger Island*
 *OGL*

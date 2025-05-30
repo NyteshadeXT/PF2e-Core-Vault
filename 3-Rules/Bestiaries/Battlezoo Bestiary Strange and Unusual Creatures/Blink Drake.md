@@ -33,7 +33,7 @@ perception:
 languages: "Draconic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +23, Athletics: +21, Deception: +19, Intimidation: +21, Stealth: +25, Acrobatics: +23, Athletics: +21, Deception: +19, Intimidation: +21, Stealth: +25"
+    desc: "Acrobatics: +23, Athletics: +21, Deception: +19, Intimidation: +21, Stealth: +25"
 abilityMods: [4, 7, 5, -3, 3, 2]
 speed: 20 feet,  fly 50 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +24 (finesse)\n__Damage__  2d8 + 10 piercing 1d8 force"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+24 (finesse)\n__Damage__  2d8 + 10 piercing 1d8 force"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +24 (agile, finesse, reach 10 feet)\n__Damage__  2d8 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+24 (agile, finesse, reach 10 feet)\n__Damage__  2d8 + 10 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 27, attack +19; __6th __  _[[Spells/Unexpected Transposition|Unexpected Transposition]]_; __5th __  _[[Spells/Blink Charge|Blink Charge (x2)]]_; __4th __  _[[Spells/Translocate|Dimension Door (x2)]]_\n__Constant__  __(6th)__ _[[Spells/Flicker|Blink]]_"

@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Divine Health|Divine Health]]
 
-You gain a +1 status bonus to saves against diseases and poisons
+You gain a +1 status bonus to saves against diseases and poisons.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

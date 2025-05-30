@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Actions/Rage|Rage]]
 
-You can't gain temporary Hit Points from using the Rage action again for 1 minute.
+You can't gain temporary Hit Points from using the Rage action.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

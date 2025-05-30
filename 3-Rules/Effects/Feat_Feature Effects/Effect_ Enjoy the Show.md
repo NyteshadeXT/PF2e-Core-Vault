@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Enjoy the Show|Enjoy the Show]]
 
-The target takes a circumstance penalty to attack rolls against creatures other than you, or a +1 circumstance bonus to attack rolls targeting you.
+You take a circumstance penalty to attack rolls against creatures other than you, or a +1 circumstance bonus to attack rolls targeting you.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

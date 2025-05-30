@@ -4,14 +4,14 @@ title: "Reclaim Destiny"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/occult
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.rqT4LMH7qbfyScBi"
 license: OGL
 ---
 # Reclaim Destiny `pf2:0`
 
-### [[3-Rules/Rule References/Occult]]
+### [[occult]]
 
 **Category** interaction; 
 
@@ -24,5 +24,5 @@ license: OGL
 
 **Effect** You break the influence over your fortunes and claim a stable hold over your fate. You ignore the fortune or misfortune effect and can roll the triggering roll normally.
 
-*Source: Pathfinder Lost Omens: Travel Guide*
+*Source: Pathfinder Lost Omens Travel Guide*
 *OGL*

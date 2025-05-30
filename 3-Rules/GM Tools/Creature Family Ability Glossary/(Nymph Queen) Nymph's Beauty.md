@@ -8,7 +8,7 @@ tags:
   - trait/mental
   - trait/primal
   - trait/visual
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.kG4fDd16fYEFvmgy"
@@ -16,7 +16,7 @@ license: ORC
 ---
 # (Nymph Queen) Nymph's Beauty
 
-### [[3-Rules/trait_reference/A/aura]][[emotion]][[3-Rules/trait_reference/M/mental]][[primal]][[visual]]
+### [[aura]][[emotion]][[mental]][[primal]][[visual]]
 
 **Category** defensive; 
 

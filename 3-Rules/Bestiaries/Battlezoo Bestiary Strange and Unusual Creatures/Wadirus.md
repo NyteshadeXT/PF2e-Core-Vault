@@ -37,7 +37,7 @@ perception:
 languages: "Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +13, Deception: +11, Intimidation: +11, Nature: +13, Stealth: +12, Survival: +12, Acrobatics: +13, Athletics: +13, Deception: +11, Intimidation: +11, Nature: +13, Stealth: +12, Survival: +12"
+    desc: "Acrobatics: +13, Athletics: +13, Deception: +11, Intimidation: +11, Nature: +13, Stealth: +12, Survival: +12"
 abilityMods: [0, 0, 0, 0, 0, 0]
 speed: 25 feet,  climb 20 feet,  swim 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -67,14 +67,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +15 (finesse)\n__Damage__  2d10 + 4 bludgeoning plus wadirus-poison"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+15 (finesse)\n__Damage__  2d10 + 4 bludgeoning plus wadirus-poison"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +15 (agile, finesse, reach 10 feet)\n__Damage__  2d8 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+15 (agile, finesse, reach 10 feet)\n__Damage__  2d8 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Quill +15 (agile, range increment 30 feet)\n__Damage__  2d6 + 4 piercing plus wadirus-poison"
+  - name: "**Ranged** `pf2:1` Quill"
+    desc: "+15 (agile, range increment 30 feet)\n__Damage__  2d6 + 4 piercing plus wadirus-poison"
 
   - name: "Primal Innate Spells"
     desc: "DC 19, attack +11; __3rd __  _[[Spells/Animal Vision|Animal Vision (At Will)]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __2nd __  _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Fungal Infestation|Fungal Infestation]]_\n__Cantrips__  __(3rd)__ _[[Spells/Tangle Vine|Tanglefoot]]_"

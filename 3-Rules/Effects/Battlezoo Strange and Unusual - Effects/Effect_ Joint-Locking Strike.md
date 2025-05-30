@@ -16,7 +16,7 @@ license: OGL
 
 
 
-The target is Clumsy 2 and Enfeebled 2 (or Clumsy 3 and Enfeebled 3 on a critical hit), and takes a –10-foot status penalty to its Speeds.
+The target is [[undefined]] and [[undefined]] (or [[undefined]] and [[undefined]] on a critical hit), and takes a –10-foot status penalty to its Speeds.
 
 *Source: Battlezoo Bestiary: Strange and Unusual*
 *OGL*

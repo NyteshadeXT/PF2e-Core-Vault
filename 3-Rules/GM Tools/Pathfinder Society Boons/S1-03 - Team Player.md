@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-03 - Team Player"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.1welewgoB0z86Nms"
 license: OGL
 ---
 # S1-03 - Team Player `pf2:r`
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

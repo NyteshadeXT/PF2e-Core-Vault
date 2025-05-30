@@ -54,40 +54,49 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 10]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +35 (reach 10 feet, unholy)\n__Damage__  3d12 + 17 piercing plus thulgant-venom 4d6 mental plus thulgant-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+35 (reach 10 feet, unholy)\n__Damage__  3d12 + 17 piercing plus thulgant-venom 4d6 mental plus thulgant-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +35 (agile, magical, reach 10 feet, unholy)\n__Damage__  3d8 + 17 bludgeoning plus grab 3d6 acid plus grab"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+35 (agile, magical, reach 10 feet, unarmed, unholy)\n__Damage__  3d8 + 17 bludgeoning plus grab 3d6 acid plus grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 40, attack +32; __9th __  _[[Spells/Petrify|Petrify (x3)]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_; __8th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Phantom Pain|Phantom Pain (x3)]]_, _[[Spells/Quandary|Quandary]]_; __7th __  _[[Spells/Interplanar Teleport|Interplanar Teleport]]_\n__Cantrips__  __(9th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|Truesight]]_ __(4th)__ _[[Spells/Unfettered Movement|Unfettered Movement]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Imprisonment|Imprisonment]]_"
+    desc: "_Imprisonment_"
 
   - name: "Demon Hunter"
     desc: "`pf2:1` (occult) The thulgant causes a demon within 30 feet to suffer the effect of its sinful vulnerability."
 
   - name: "[[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]"
-    desc: "`pf2:1`  2d6+17 bludgeoning + 1d6 acid, DC 40 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d6+17 bludgeoning + 1d6 acid, DC 40 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC. A creature that fails this save falls [[Conditions/Unconscious|Unconscious]], and a creature that succeeds is then temporarily immune to falling unconscious from Greater Constrict for 1 minute."
 
   - name: "Mind-Rending Sting"
     desc: "`pf2:1` (virulent) **Requirements** The thulgant hits the same enemy with two consecutive sting Strikes in the same round\n* * *\n\n**Effect** The thulgant deals 3d12+17 mental damage to the enemy. If the enemy is affected by thulgant venom, that poison gains the virulent trait."
 
   - name: "Stunning Display"
-    desc: "`pf2:2` (concentrate,emotion,fear,incapacitation,mental,occult,visual) The thulgant rises up on its twitching limbs and presents its numerous tentacles and stingers in a horrifying display of awfulness. Creatures in a @Template[emanation|distance:30] must attempt a DC 40 Will check save, after which they are temporarily immune to further Stunning Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]].\n\n**Failure** The creature is [[Conditions/Stunned|Stunned 4]].\n\n**Critical Failure** The creature is [[Conditions/Stunned|Stunned 8]]."
+    desc: "`pf2:2` (concentrate,emotion,fear,incapacitation,mental,occult,visual) The thulgant rises up on its twitching limbs and presents its numerous tentacles and stingers in a horrifying display of awfulness. Creatures in a 30-foot emanation must attempt a DC 40 Will check save, after which they are temporarily immune to further Stunning Displays for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]].\n\n**Failure** The creature is [[Conditions/Stunned|Stunned 4]].\n\n**Critical Failure** The creature is [[Conditions/Stunned|Stunned 8]]."
 
   - name: "Thulgant Venom"
     desc: " (poison) **Saving Throw** DC 40 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 3d6 poison damage and the victim gains one of the following at random: [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Enfeebled|Enfeebled 1]], or [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 6d6 poison damage and the victim gains two of the following at random: [[Conditions/Clumsy|Clumsy 2]], [[Conditions/Enfeebled|Enfeebled 2]], or [[Conditions/Stupefied|Stupefied 2]] (1 round)\n\n**Stage 3** 9d6 poison damage and the victim gains all three of the following: [[Conditions/Clumsy|Clumsy 3]], [[Conditions/Enfeebled|Enfeebled 3]], and [[Conditions/Stupefied|Stupefied 3]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

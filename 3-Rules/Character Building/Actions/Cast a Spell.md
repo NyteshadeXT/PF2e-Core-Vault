@@ -3,8 +3,7 @@ obsidianUIMode: preview
 title: "Cast a Spell"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz"
@@ -12,7 +11,7 @@ license: ORC
 ---
 # Cast a Spell
 
-### [[general]]
+### 
 
 **Category** interaction; 
 

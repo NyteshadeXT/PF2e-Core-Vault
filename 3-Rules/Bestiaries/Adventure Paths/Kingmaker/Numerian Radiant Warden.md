@@ -29,7 +29,7 @@ modifier: 30
 perception:
   - name: "Perception"
     desc: "+30; Darkvision"
-languages: "any one ancient language "
+languages: "any one ancient language"
 skills:
   - name: "Skills"
     desc: "Arcana: +32, Athletics: +33, Occultism: +32, Astronomy Lore: +36"
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hammer +32 (magical, reach 15 feet, shove)\n__Damage__  3d12 + 15 bludgeoning plus radiant-blow"
+  - name: "**Melee** `pf2:1` Hammer"
+    desc: "+32 (magical, reach 15 feet, shove)\n__Damage__  3d12 + 15 bludgeoning plus radiant-blow"
 
-  - name: "Melee"
-    desc: "`pf2:1` Radiant Beam +32 (magical, reach 15 feet)\n__Damage__  4d10 force"
+  - name: "**Melee** `pf2:1` Radiant Beam"
+    desc: "+32 (magical, reach 15 feet)\n__Damage__  4d10 force"
 
   - name: "Occult Innate Spells"
     desc: "DC 38, attack +28; __9th __  _[[Spells/Teleport|Teleport]]_; __8th __  _[[Spells/Collective Transposition|Collective Transposition (x3)]]_, _[[Spells/Confusing Colors|Scintillating Pattern]]_; __7th __  _[[Spells/Planar Seal|Dimensional Lock]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_; __5th __  _[[Spells/Translocate|Dimension Door (At will)]]_"
@@ -72,7 +72,7 @@ attacks:
     desc: "`pf2:1` (concentrate) Until it acts, the radiant warden appears to be an orrery (or similar large mechanical contraption, such as a telescope). It has an automatic result of 53 on Deception checks and DCs to convincingly pass as such a machine."
 
   - name: "Radiant Blast"
-    desc: "`pf2:2` (force,occult) The radiant warden releases a @Template[cone|distance:50] of bright energy that deals 10d12 force damage (DC 38 Reflex check save). The radiant warden can't use Radiant Blast for 1d4 rounds."
+    desc: "`pf2:2` (force,occult) The radiant warden releases a 50-foot cone of bright energy that deals 10d12 force damage (DC 38 Reflex check save). The radiant warden can't use Radiant Blast for 1d4 rounds."
 
   - name: "Radiant Blow"
     desc: " (teleportation) When a creature is hit by the radiant warden's hammer Strike, a flash of radiant energy attempts to anchor the creature in place. The creature must attempt a DC 38 Will check save; on a failure, the creature can't use any teleportation effects for 1 minute. On a critical failure, the creature is also permanently [[Conditions/Blinded|Blinded]]."

@@ -56,7 +56,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
   - name: "Flash of Insight"
     desc: "`pf2:0` (fortune,occult) **Frequency** once per day.\n\n**Trigger** The cyclops is about to roll a d20.\n* * *\n\n**Effect** The cyclops peers into an occluded spectrum of possible futures. It gets a success (but not a critical success) on the roll instead of rolling."
@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +14 (reach 10 feet, sweep)\n__Damage__  1d12 + 9 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+14 (reach 10 feet, sweep)\n__Damage__  1d12 + 9 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heavy Crossbow +8 (range increment 120 feet, reload 2)\n__Damage__  1d10 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Heavy Crossbow"
+    desc: "+8 (range increment 120 feet, reload 2)\n__Damage__  1d10 + 4 piercing"
 
   - name: "Swipe"
     desc: "`pf2:2`  **Frequency** once per round\n* * *\n\n**Effect** The cyclops makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within their melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit. A Swipe counts as two attacks for the cyclops's multiple attack penalty."

@@ -60,17 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +23 (reach 15 feet)\n__Damage__  2d12 + 13 piercing plus desiccation-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+23 (reach 15 feet)\n__Damage__  2d12 + 13 piercing plus desiccation-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile, reach 15 feet)\n__Damage__  2d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, reach 15 feet)\n__Damage__  2d8 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +21 (reach 20 feet, sweep)\n__Damage__  2d8 + 13 bludgeoning plus barbed-spines,desiccation-venom"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+21 (reach 20 feet, sweep)\n__Damage__  2d8 + 13 bludgeoning plus barbed-spines,desiccation-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spines +20 (range increment 60 feet)\n__Damage__  2d8 + 9 piercing plus barbed-spines,desiccation-venom"
+  - name: "**Ranged** `pf2:1` Spines"
+    desc: "+20 (range increment 60 feet)\n__Damage__  2d8 + 9 piercing plus barbed-spines,desiccation-venom"
 
   - name: "Ambush Attackers"
     desc: "  When two or more salt mothers are adjacent to the same foe, salt mothers' attacks deal an additional 1d6 damage to that foe."

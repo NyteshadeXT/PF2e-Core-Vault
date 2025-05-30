@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +13 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+13 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +13 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+13 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Paranoia|Paranoia]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Alarm|Alarm]]_, _[[Spells/Bane|Bane]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_"
@@ -73,7 +73,7 @@ attacks:
     desc: "1 Focus Point, DC 22, attack +14; __3rd __  _[[Spells/Waking Nightmare|Waking Nightmare]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Consecrate|Consecrate]]_"
+    desc: "_Consecrate_"
 
   - name: "Spiteful Command"
     desc: "`pf2:r` (auditory) **Trigger** Malgorzata is targeted with an attack or single-target spell.\n* * *\n\n**Effect** Malgorzata commands a Gyronna cultist within reach of the triggering creature to attack the creature, allowing it to make a melee Strike after the triggering action resolves its effects."

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-Q07 - Amateur Adjuster"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.DD1mlAEaXdM1pBze"
 license: OGL
 ---
 # S1-Q07 - Amateur Adjuster
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

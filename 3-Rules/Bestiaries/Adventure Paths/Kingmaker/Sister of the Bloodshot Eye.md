@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +24 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 6 piercing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+24 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 6 piercing 1d6 bleed"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +24 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  2d4 + 6 piercing 1d6 bleed"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+24 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  2d4 + 6 piercing 1d6 bleed"
 
   - name: "Divine Prepared Spells"
     desc: "DC 36, attack +26; __6th __  _[[Spells/Blade Barrier|Blade Barrier]]_, _[[Spells/Repulsion|Repulsion]]_; __5th __  _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Summon Fiend|Summon Fiend]]_; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Dispelling Globe|Globe of Invulnerability]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Ghoulish Cravings|Ghoulish Cravings]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Silence|Silence]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Command|Command]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_"

@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 80 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Earthbound"
     desc: "  When not touching solid ground, a stone mauler is [[Conditions/Slowed|Slowed 1]] and can't use reactions."
 
@@ -66,17 +69,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +21 (reach 10 feet)\n__Damage__  2d10 + 10 bludgeoning plus push"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+21 (reach 10 feet, unarmed)\n__Damage__  2d10 + 10 bludgeoning plus push"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +21 (brutal, range increment 80 feet)\n__Damage__  2d12 + 6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+21 (brutal, range increment 80 feet)\n__Damage__  2d12 + 6 bludgeoning"
 
   - name: "Earth Glide"
     desc: "  The stone mauler can Burrow through any earthen matter, including rock. When it does so, the stone mauler moves at its full burrow Speed, leaving no tunnels or signs of its passing."
 
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

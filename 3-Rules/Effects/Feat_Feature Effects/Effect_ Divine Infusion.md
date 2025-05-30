@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Divine Infusion|Divine Infusion]]
 
-The target deals additional damage with its melee weapons and unarmed attacks until the end of its next turn. The damage type is void if you cast _harm_ and vitality if you cast _heal_.
+You deal additional damage with your melee weapons and unarmed attacks. The damage type is void if you cast _harm_ and vitality if you cast _heal_.
 
 *Source: Pathfinder Player Core*
 *ORC*

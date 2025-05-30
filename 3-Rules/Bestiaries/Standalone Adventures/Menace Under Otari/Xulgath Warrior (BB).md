@@ -3,7 +3,7 @@ title: "Xulgath Warrior (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.RTzFvmdSCf5yhguy" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.5vBG8a8dnJfmVd3Y" 
 tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/xulgath
@@ -55,22 +55,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Stench"
-    desc: "  A creature that comes within @Template[emanation|distance:30] of the xulgath and can smell the xulgath must attempt a DC 16 Fortitude check save. On a failure, the creature takes a -1 status penalty to all checks and DCs until it uses an action to retch. A creature that succeeds at its save isn't affected by any xulgaths' stenches for 1 minute _(Use [[Conditions/Sickened|Sickened 1]])_."
+    desc: "  A creature that comes within 30-foot emanation of the xulgath and can smell the xulgath must attempt a DC 16 Fortitude check save. On a failure, the creature takes a -1 status penalty to all checks and DCs until it uses an action to retch. A creature that succeeds at its save isn't affected by any xulgaths' stenches for 1 minute _(Use [[Conditions/Sickened|Sickened 1]])_."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +9 ()\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+9 ()\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (unarmed)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile)\n__Damage__  1d4 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, unarmed)\n__Damage__  1d4 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +7 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+7 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
  
 ```
 

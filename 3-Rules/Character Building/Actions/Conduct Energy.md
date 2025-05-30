@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Conduct Energy"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.BKnN9la3WNrRgZ6n"
 license: OGL
@@ -25,5 +25,5 @@ You channel energy into your weapon. The weapon deals 1 additional damage per we
 
 [[Equipment Effects/Effect_ Conduct Energy|Effect: Conduct Energy]]
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

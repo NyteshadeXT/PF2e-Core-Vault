@@ -31,7 +31,7 @@ trait_02: [[dinosaur]]
 modifier: 27
 perception:
   - name: "Perception"
-    desc: "+27; "
+    desc: "+27; Low-Light Vision, Scent (Imprecise) 30 Feet"
 languages: ""
 skills:
   - name: "Skills"
@@ -59,20 +59,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +32 (reach 30 feet)\n__Damage__  3d8 + 16 bludgeoning plus improved-knockdown"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+32 (reach 30 feet)\n__Damage__  3d8 + 16 bludgeoning plus improved-knockdown"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +32 (reach 15 feet)\n__Damage__  3d12 + 16 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+32 (reach 15 feet, unarmed)\n__Damage__  3d12 + 16 bludgeoning"
 
   - name: "Seismic Slam"
     desc: "`pf2:2`  **Frequency** once per minute\n* * *\n\n**Effect** The titanosaur rears up on its hind legs before slamming its forelegs back on the ground with a thunderous crash, creating a localized tremor with the effects of an [[Spells/Earthquake|Earthquake]] spell centered on itself, though the effect is non-magical. Fissures do not form under the titanosaur."
 
   - name: "Sweeping Tail"
-    desc: "`pf2:2`  The titanosaur lashes its tail in a @Template[cone|distance:30]. Creatures in the area take 8d10 bludgeoning damage (DC 38 Reflex check save). The momentum of the titanosaur's swing then makes it [[Conditions/Off-Guard|Off-Guard]] until the beginning of its next turn."
+    desc: "`pf2:2`  The titanosaur lashes its tail in a 30-foot cone. Creatures in the area take 8d10 bludgeoning damage (DC 38 Reflex check save). The momentum of the titanosaur's swing then makes it [[Conditions/Off-Guard|Off-Guard]] until the beginning of its next turn."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 38 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 38 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

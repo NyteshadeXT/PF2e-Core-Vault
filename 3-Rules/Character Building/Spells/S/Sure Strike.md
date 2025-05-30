@@ -34,6 +34,6 @@ abilities_top:
     desc: "until the end of your turn"
 abilities_mid:
   - name: ""
-    desc: "A glimpse into the future ensures your next blow strikes true. The next time you make an attack roll before the end of your turn, roll the attack twice and use the better result. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]].\n\n[[Spell Effects/Spell Effect_ Sure Strike|Spell Effect: Sure Strike]]"
+    desc: "The next time you make an attack roll before the end of your turn, roll it twice and use the better result. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]]. You are then temporarily immune to _sure strike_ for 10 minutes.\n\n[[Spell Effects/Spell Effect_ Sure Strike|Spell Effect: Sure Strike]]"
 sourcebook: "_Pathfinder Player Core_"
 ```

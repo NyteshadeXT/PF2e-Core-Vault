@@ -16,7 +16,7 @@ license: OGL
 
 
 
-The lucent demonsheep grows to Medium size, and its body lights on fire, causing its Strikes to deal 1d6 additional fire damage. Its wool becomes a dense cloud of choking black smoke, granting it Concealement to all other creatures. Finally, the lucent demonsheep gains smoke vision, allowing it to see through smoke.
+The lucent demonsheep grows to Medium size, and its body lights on fire, causing its Strikes to deal 1d6 additional fire damage. Its wool becomes a dense cloud of choking black smoke, granting it [[Conditions/Concealed|Concealement]] to all other creatures. Finally, the lucent demonsheep gains smoke vision, allowing it to see through smoke.
 
 *Source: Battlezoo Bestiary: Strange and Unusual*
 *OGL*

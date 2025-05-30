@@ -44,5 +44,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You utter an insult so offensive that it cuts your target to the quick. Your target takes 4d6 mental damage and 1 persistent bleed damage and must attempt a Will save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half mental damage but no persistent bleed damage, and it becomes [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature takes full mental damage and full persistent bleed damage, and it becomes [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature takes double mental damage and double persistent bleed damage, and becomes [[Conditions/Frightened|Frightened 3]].\n* * *\n\n**Heightened (+2)** The mental damage increases by 4d6, and the bleed damage increases by 1."
-sourcebook: "_Pathfinder Lost Omens: Firebrands_"
+sourcebook: "_Pathfinder Lost Omens Firebrands_"
 ```

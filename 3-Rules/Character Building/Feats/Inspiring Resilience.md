@@ -14,7 +14,7 @@ license: OGL
 ---
 # Inspiring Resilience `pf2:r`
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[bard]][[champion]][[emotion]][[3-Rules/trait_reference/M/mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[bard]][[champion]][[emotion]][[mental]]
 
 **Category** class; 
 
@@ -29,5 +29,5 @@ You show defiance in times of hardship and inspire your companions to persevere.
 
 [[Feat_Feature Effects/Effect_ Inspiring Resilience|Effect: Inspiring Resilience]]
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** divine font
 * * *
-You go to extreme lengths to support your allies, even when it means bringing harm to yourself. If your next action is to cast [[Harm|Harm]] or [[Heal|Heal]] to restore Hit Points to a single ally, you can channel your own vitality along with the spell. You lose 1d8 Hit Points per rank of the spell, which can't be reduced or mitigated in any way, and your ally regains an equal number of Hit Points.
+You go to extreme lengths to support your allies, even when it means bringing harm to yourself. If your next action is to cast [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]] to restore Hit Points to a single ally, you can channel your own vitality along with the spell. You lose 1d8 Hit Points per rank of the spell, which can't be reduced or mitigated in any way, and your ally regains an equal number of Hit Points.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +9 (finesse)\n__Damage__  1d6 + 2 piercing plus hunting-spider-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+9 (finesse)\n__Damage__  1d6 + 2 piercing plus hunting-spider-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Web +7 (range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Web"
+    desc: "+7 (range increment 30 feet)\n__Damage__ "
 
   - name: "Descend on a Web"
     desc: "`pf2:1` (move) The hunting spider moves straight down up to 40 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count for falling damage.\n\nA creature that successfully Strikes the web (AC 20, Hardness 3, 5 HP) severs it, causing the spider to fall."
@@ -74,7 +74,7 @@ attacks:
     desc: " (poison) **Saving Throw** DC 16 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d6 poison damage, [[Conditions/Clumsy|Clumsy 1]], and off-guard (1 round)\n\n**Stage 3** 1d6 poison damage, [[Conditions/Clumsy|Clumsy 2]], and off-guard (1 round)"
 
   - name: "Web Trap"
-    desc: "  A creature hit by the hunting spider's web Strike is [[Conditions/Immobilized|Immobilized]] and stuck to the nearest surface until it [[/act escape dc=17]]{Escapes (DC 17)}."
+    desc: "  A creature hit by the hunting spider's web Strike is [[Conditions/Immobilized|Immobilized]] and stuck to the nearest surface until it [[Actions/escape dc=17|escape dc=17]]{Escapes (DC 17)}."
  
 ```
 

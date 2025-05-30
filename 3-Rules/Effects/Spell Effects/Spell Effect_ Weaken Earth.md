@@ -17,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Weaken Earth|Weaken Earth]]
+Granted by [[Spells/Weaken Earth|Weaken Earth]]
 
-The target gains weakness to physical damage.
+You gain weakness to physical damage.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

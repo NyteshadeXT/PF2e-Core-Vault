@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Granted by [[Stoke the Heart|Stoke the Heart]]
+Granted by [[Spells/Stoke the Heart|Stoke the Heart]]
+
+You gain a status bonus to damage rolls.
 
 *Source: Pathfinder Player Core*
 *ORC*

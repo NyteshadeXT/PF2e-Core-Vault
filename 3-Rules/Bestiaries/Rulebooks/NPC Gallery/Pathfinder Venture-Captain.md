@@ -20,7 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Character Guide"
+source: "Pathfinder Lost Omens Character Guide"
 name: "Pathfinder Venture-Captain"
 level: "Creature 11"
 
@@ -39,7 +39,7 @@ skills:
     desc: "Diplomacy: +21, Occultism: +16, Performance: +19, Alcohol Lore: +20, Bardic Lore: +16"
 abilityMods: [5, 1, 3, 1, 2, 4]
 speed: 20 feet
-sourcebook: "_Pathfinder Lost Omens: Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Character Guide_"
 ac: 34
 armorclass:
   - name: AC
@@ -56,13 +56,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Fortitude Saves"
     desc: "  Successes are considered Critical Successes"
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
   - name: "Unshakable"
     desc: "  Anytime the venture-captain gains the [[Conditions/Frightened|Frightened]] condition, reduce its value by 1."
@@ -70,11 +70,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +24 (magical, shove)\n__Damage__  2d8 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+24 (magical, shove)\n__Damage__  2d8 + 11 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +20 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+20 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 8 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 27, attack +19\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Uplifting Overture|Inspire Competence]]_, _[[Spells/Courageous Anthem|Inspire Courage]]_, _[[Spells/Read Aura|Read Aura]]_"

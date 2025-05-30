@@ -35,7 +35,11 @@ You gain resistance equal to half your level against one type of damage determin
 
 You also gain a +1 circumstance bonus to saving throws against sleep effects and effects that would make you [[Conditions/Paralyzed|Paralyzed]].
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Dragon Disciple|Dragon Disciple]] archetype. If you later take the sorcerer archetype, you must choose the draconic bloodline.
+**Special** If you later take the sorcerer archetype, you must choose the draconic bloodline.
+
+* * *
+
+[[PF2e Journals/Archetypes/Dragon Disciple|Dragon Disciple]]
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

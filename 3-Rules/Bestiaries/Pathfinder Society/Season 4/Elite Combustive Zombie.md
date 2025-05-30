@@ -64,13 +64,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Death Throes"
-    desc: "  When a combustive zombie dies, its body explodes in a @Template[burst|distance:30] of fire and debris that deals 3d10 + 2 bludgeoning damage and 3d10 + 2 fire damage to each creature in the area (DC 26 Reflex check save)."
+    desc: "  When a combustive zombie dies, its body explodes in a 30-foot burst of fire and debris that deals 3d10 + 2 bludgeoning damage and 3d10 + 2 fire damage to each creature in the area (DC 26 Reflex check save)."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +22 ()\n__Damage__  2d6 + 10 bludgeoning plus blinding-sulfur 1d6 fire plus blinding-sulfur"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+22 (unarmed)\n__Damage__  2d6 + 10 bludgeoning plus blinding-sulfur 1d6 fire plus blinding-sulfur"
 
   - name: "Blinding Sulfur"
     desc: " (incapacitation) A combustive zombie burns with putrid inner fire. A creature hit by a combustive zombie's fist Strike must attempt a DC 27 Fortitude check save. On a failure, the creature is [[Conditions/Blinded|Blinded]] for 1 round, or for 1 minute on a critical failure."

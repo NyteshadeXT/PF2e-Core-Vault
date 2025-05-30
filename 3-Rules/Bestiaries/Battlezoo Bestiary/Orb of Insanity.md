@@ -71,8 +71,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +26 (agile, finesse, magical, reach 10 feet)\n__Damage__  3d8 + 10 void plus improved-grab"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+26 (agile, finesse, magical, reach 10 feet)\n__Damage__  3d8 + 10 void plus improved-grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 37, attack +29; __8th __  _[[Spells/Pinpoint|Discern Location]]_, _[[Spells/Hidden Mind|Mind Blank]]_; __7th __  _[[Spells/Possession|Possession]]_, _[[Spells/Retrocognition|Retrocognition]]_; __6th __  _[[Spells/Scrying|Scrying]]_, _[[Spells/Scrying|Scrying]]_; __5th __  _[[Spells/Mind Probe|Mind Probe]]_; __4th __  _[[Spells/Rewrite Memory|Modify Memory]]_; __3rd __  _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Mind Reading|Mind Reading]]_; __1st __  _[[Spells/Mindlink|Mindlink (At Will)]]_\n__Cantrips__  __(8th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_\n__Constant__  __(6th)__ _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"

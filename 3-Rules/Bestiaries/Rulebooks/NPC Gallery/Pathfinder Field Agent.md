@@ -20,7 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Character Guide"
+source: "Pathfinder Lost Omens Character Guide"
 name: "Pathfinder Field Agent"
 level: "Creature 4"
 
@@ -39,7 +39,7 @@ skills:
     desc: "Acrobatics: +12, Arcana: +8, Athletics: +6, Deception: +6, Diplomacy: +6, Stealth: +12, Survival: +8, Thievery: +10, Pathfinder Society Lore: +11"
 abilityMods: [0, 4, 3, 2, 2, 0]
 speed: 25 feet
-sourcebook: "_Pathfinder Lost Omens: Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Character Guide_"
 ac: 21
 armorclass:
   - name: AC
@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +12 (deadly d8, disarm)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+12 (deadly d8, disarm)\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +12 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+12 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Mobility"
     desc: "  When the field agent takes a Stride action to move half their Speed or less, that movement does not trigger reactions."

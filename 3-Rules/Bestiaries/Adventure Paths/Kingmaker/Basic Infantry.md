@@ -23,7 +23,7 @@ level: "Army 1"
 
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: infantry
 modifier: 7
 perception:

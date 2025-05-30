@@ -57,14 +57,17 @@ abilities_mid:
   - name: "Fiery Explosion"
     desc: "  When destroyed, a blazing skull explodes in a blast of fire and bone that deals 1d6 piercing damage plus 1d6 fire damage to each adjacent creature (DC 20 Reflex check save)."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Forehead +12 (finesse)\n__Damage__  1d6 + 5 bludgeoning 1d6 + 2 fire"
+  - name: "**Melee** `pf2:1` Forehead"
+    desc: "+12 (finesse)\n__Damage__  1d6 + 5 bludgeoning 1d6 + 2 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spitfire +12 (agile, fire, range 20 feet)\n__Damage__  1d12 + 4 fire"
+  - name: "**Ranged** `pf2:1` Spitfire"
+    desc: "+12 (agile, fire, range 20 feet)\n__Damage__  1d12 + 4 fire"
 
   - name: "Flaming Shroud"
     desc: "  A flaming skull is shrouded in hideous flames. It deals 1d6 fire damage to any unattended item it touches and on a forehead Strike. On a critical hit with a Strike, the target catches fire, taking 1d4 persistent fire."

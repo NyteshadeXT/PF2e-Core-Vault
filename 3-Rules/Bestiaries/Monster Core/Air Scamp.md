@@ -57,17 +57,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 2 (In Open Air)]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 (finesse)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (finesse, unarmed)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Blur|Blur]]_; __1st __  _[[Spells/Gust of Wind|Gust of Wind]]_"
 
   - name: "Sirocco Breath"
-    desc: "`pf2:2` (air,arcane) The air scamp creates cutting winds in a @Template[cone|distance:15] that deal 2d6 slashing damage to each creature within the area (DC 17 Reflex check save). A creature that fails its save is also pushed back 10 feet.\n\nThe air scamp can't use Sirocco Breath again for 1d4 rounds."
+    desc: "`pf2:2` (air,arcane) The air scamp creates cutting winds in a 15-foot cone that deal 2d6 slashing damage to each creature within the area (DC 17 Reflex check save). A creature that fails its save is also pushed back 10 feet.\n\nThe air scamp can't use Sirocco Breath again for 1d4 rounds."
  
 ```
 

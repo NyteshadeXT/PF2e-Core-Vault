@@ -12,7 +12,7 @@ license: OGL
 ---
 # Big Debut `pf2:0`
 ## Feat 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[3-Rules/trait_reference/M/mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[mental]]
 
 **Category** class; 
 
@@ -30,5 +30,5 @@ Now's your chance! You're a Firebrand, and the world must know it. You strike a 
 
 [[Feat_Feature Effects/Effect_ Big Debut|Effect: Big Debut]]
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

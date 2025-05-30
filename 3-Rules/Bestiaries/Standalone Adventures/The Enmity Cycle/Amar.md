@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +16 (deadly d8, disarm, finesse)\n__Damage__  2d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+16 (deadly d8, disarm, finesse)\n__Damage__  2d6 + 8 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 24, attack +16; __3rd __ (3 slots) _[[Spells/Agonizing Despair|Agonizing Despair]]_, _[[Spells/Roaring Applause|Roaring Applause]]_, _[[Spells/Slow|Slow]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/False Vitality|False Life]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __ (3 slots) _[[Spells/Biting Words|Biting Words]]_, _[[Spells/Charm|Charm]]_, _[[Spells/Fear|Fear]]_\n__Cantrips__  __(2nd)__ _[[Spells/Bullhorn|Bullhorn]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Haunting Hymn|Haunting Hymn]]_, _[[Spells/Light|Light]]_, _[[Spells/Summon Instrument|Summon Instrument]]_"

@@ -6,8 +6,9 @@ tags:
   - trait/inventor
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.lkl5QaDb1mlSD7SC"
-license: OGL
+license: ORC
 ---
 # Visual Fidelity
 ## Feat 6
@@ -23,4 +24,4 @@ You've found a way to use a hodgepodge combination of devices to enhance your vi
 If an effect would give you the [[Conditions/Blinded|Blinded]] condition, the effect must attempt a counteract check against your class DC, with your counteract rank equaling half your level, rounded up. On a failed counteract check, you aren't blinded-your various devices are able to compensate.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

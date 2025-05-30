@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Feats/Invigorating Breath|Invigorating Breath]]
+
 You gain 20 temporary Hit Points. At 15th level, you instead gain 30 temporary Hit Points.
 
 *Source: Pathfinder #188: They Watched the Stars*

@@ -12,14 +12,14 @@ license: OGL
 ---
 # Tectonic Stomp `pf2:2`
 ## Feat 10
-### [rare](rare.md "Rare Rarity Trait")[[deviant]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]]
 
 **Category** class; 
 
 
 
 
-You cause minor tremors that topple your enemies. All creatures in a @Template\[emanation|distance:30\] who are standing on the ground take 1d6 bludgeoning damage for every 2 levels you have, with a Reflex check save. A creature that fails its save also falls [[Conditions/Prone|Prone]].
+You cause minor tremors that topple your enemies. All creatures in a 30-foot emanation who are standing on the ground take 1d6 bludgeoning damage for every 2 levels you have, with a Reflex check save. A creature that fails its save also falls [[Conditions/Prone|Prone]].
 
 * * *
 

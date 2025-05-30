@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Leg +12 (agile, reach 10 feet)\n__Damage__  1d10 + 5 piercing"
+  - name: "**Melee** `pf2:1` Leg"
+    desc: "+12 (agile, reach 10 feet)\n__Damage__  1d10 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +12 ()\n__Damage__  1d12 + 5 piercing"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+12 ()\n__Damage__  1d12 + 5 piercing"
 
   - name: "Capturing Grab"
     desc: "`pf2:1`  This ability functions as [[Bestiary Ability Glossary/Grab|Grab]], plus on a success, the mantis can choose to pull the creature adjacent to it, then makes a mandibles Strike against the creature. This extra benefit doesn't apply when the mantis maintains the Grab."

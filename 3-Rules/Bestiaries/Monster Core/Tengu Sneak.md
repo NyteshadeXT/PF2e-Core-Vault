@@ -61,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +10 (finesse)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+10 (finesse, unarmed)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wakizashi +10 (agile, deadly d8, finesse, versatile p)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` Wakizashi"
+    desc: "+10 (agile, deadly d8, finesse, versatile p)\n__Damage__  1d4 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +10 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+10 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "Feather Fan Dustup"
-    desc: "`pf2:1` (air,divine) **Frequency** once per 10 minutes;\n* * *\n\n**Effect** The tengu waves their feather fan, summoning a small magical breeze that kicks up dust in a @Template[burst|distance:5] centered on a corner of their space, which lasts for 1d4 rounds. All creatures within that area are [[Conditions/Concealed|Concealed]], and all other creatures are concealed to them."
+    desc: "`pf2:1` (air,divine) **Frequency** once per 10 minutes;\n* * *\n\n**Effect** The tengu waves their feather fan, summoning a small magical breeze that kicks up dust in a 5-foot burst centered on a corner of their space, which lasts for 1d4 rounds. All creatures within that area are [[Conditions/Concealed|Concealed]], and all other creatures are concealed to them."
 
   - name: "Sneak Attack"
     desc: "  The tengu deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

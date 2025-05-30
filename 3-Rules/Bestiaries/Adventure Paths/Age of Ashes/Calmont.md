@@ -56,7 +56,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Dagger|Dagger]], [[Equipment/Shortbow|+1 Shortbow]], [[Equipment/Leather Armor|Leather Armor]], [[Equipment/Thieves' Toolkit|Thieves' Tools]], 2x [[Equipment/Healing Potion (Lesser)|Healing Potion (Lesser)]], 20x [[Equipment/Arrows|Arrows]]"
   - name: "Keen Eyes"
-    desc: "  Calmont's eyes are sharp, allowing him to make out small details about [[Conditions/Concealed|Concealed]] or even [[Conditions/Invisible|Invisible]] creatures that others might miss. He gains a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] creatures within 30 feet of him. When Calmont target an opponent that is concealed from him or hidden from him, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
+    desc: "  Calmont's eyes are sharp, allowing him to make out small details about [[Conditions/Concealed|Concealed]] or even [[Conditions/Invisible|Invisible]] creatures that others might miss. He gains a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] creatures within 30 feet of him. When Calmont target an opponent that is concealed from him or hidden from him, reduce the DC of the flat check to DC 3 Flat check for a concealed target or DC 9 Flat check for a hidden one."
 
 abilities_mid:
   - name: ""
@@ -69,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +9 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+9 (agile, finesse, versatile s)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +9 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+9 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "Quick Draw"
     desc: "`pf2:1`  Calmont draws his weapon and attacks with the same motion. He Interacts to draw a weapon, then Strikes with that weapon."

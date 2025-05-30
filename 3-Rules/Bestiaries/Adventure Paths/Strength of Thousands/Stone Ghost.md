@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Morningstar +15 (magical, versatile p)\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Morningstar"
+    desc: "+15 (magical, versatile p)\n__Damage__  1d6 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +11 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+11 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 5 bludgeoning"
 
   - name: "Prepared Primal Spells"
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Earthbind|Earthbind]]_; __2nd __  _[[Spells/Darkvision|Darkvision]]_, _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Shatter|Shatter]]_, _[[Spells/Summon Elemental|Summon Elemental (Earth Only)]]_; __1st __  _[[Spells/Command|Command (Animals Only)]]_, _[[Spells/Grease|Grease]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_\n__Cantrips__  __(3rd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

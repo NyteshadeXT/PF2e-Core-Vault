@@ -62,17 +62,20 @@ abilities_mid:
   - name: "Ecstatic Ululation"
     desc: "`pf2:r` (divine,void) **Trigger** A ghoul ally within 30 feet Consumes Flesh to regain Hit Points\n* * *\n\n**Effect** The priest of Kabriri unleashes a rapturous howl in praise of their god. All ghouls within 30 feet of the priest of Kabriri, including the priest but not the triggering ghoul, regain half as many Hit Points as the triggering ghoul. All living creatures within 30 feet take void damage equal to half the number of Hit Points the triggering ghoul gained, with a DC 20 Fortitude check. Only one Ecstatic Ululation can affect a use of Consume Flesh. Any beyond the first have no effect."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flail +13 (disarm, sweep, trip)\n__Damage__  1d6 + 6 bludgeoning 2d6 void"
+  - name: "**Melee** `pf2:1` Flail"
+    desc: "+13 (disarm, sweep, trip)\n__Damage__  1d6 + 6 bludgeoning 2d6 void"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +13 ()\n__Damage__  2d6 + 6 piercing plus ghoul-ghoul-fever,ghoul-paralysis"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+13 (unarmed)\n__Damage__  2d6 + 6 piercing plus ghoul-ghoul-fever,ghoul-paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile)\n__Damage__  2d4 + 6 slashing plus ghoul-paralysis"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, unarmed)\n__Damage__  2d4 + 6 slashing plus ghoul-paralysis"
 
   - name: "Divine Prepared Spells"
     desc: "DC 23, attack +13; __3rd __  _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Crisis of Faith|Crisis of Faith]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Silence|Silence]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Bless|Bless]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Message|Message]]_"

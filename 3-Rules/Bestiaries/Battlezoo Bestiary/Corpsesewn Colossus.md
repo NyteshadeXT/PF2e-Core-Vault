@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Maw +26 (reach 15 feet)\n__Damage__  3d8 + 16 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Maw"
+    desc: "+26 (reach 15 feet)\n__Damage__  3d8 + 16 piercing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +26 (agile, reach 10 feet)\n__Damage__  3d6 + 16 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+26 (agile, reach 10 feet)\n__Damage__  3d6 + 16 bludgeoning"
 
   - name: "Blaze a Trail"
     desc: "`pf2:2`  The corpsesewn colossus Strides up to its Speed. It can make up to three fist Strikes at any point during its movement.\n\nIts multiple attack penalty increases after each Strike, as normal."

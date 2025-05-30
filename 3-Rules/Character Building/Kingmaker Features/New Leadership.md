@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "New Leadership"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/upkeep
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.vHKPoZycxZAA1vpz"
 license: OGL
 ---
 # New Leadership
-
+## 
 ### [[downtime]][[upkeep]]
 
 **Category** kingdom-activity; 

@@ -4,7 +4,7 @@ title: "(Vampire, Basic) Drink Blood"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/divine
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.c04ICnrzygyFG3PK"

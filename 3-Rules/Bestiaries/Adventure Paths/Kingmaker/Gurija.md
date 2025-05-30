@@ -57,14 +57,17 @@ abilities_top:
     desc: "[[Equipment/Hide Armor|Hide Armor]], [[Equipment/Magic Wand (2nd-Rank Spell)|Wand of Shocking Grasp (Level 2)]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 20 (Deactivated by Acid or Fire)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 (reach 10 feet)\n__Damage__  2d10 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (reach 10 feet, unarmed)\n__Damage__  2d10 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +12 (agile, reach 10 feet)\n__Damage__  2d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+12 (agile, reach 10 feet)\n__Damage__  2d8 + 5 slashing"
 
   - name: "Primal Spontaneous Spells"
     desc: "DC 22, attack +14; __3rd __ (2 slots) _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Slow|Slow]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Runic Body|Magic Fang]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(3rd)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

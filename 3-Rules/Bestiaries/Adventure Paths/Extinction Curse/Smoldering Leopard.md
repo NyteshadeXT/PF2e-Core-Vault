@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 (finesse, unholy)\n__Damage__  1d10 + 3 piercing plus grab 1d4 fire plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (finesse, unarmed, unholy)\n__Damage__  1d10 + 3 piercing plus grab 1d4 fire plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +12 (agile, finesse, unholy)\n__Damage__  1d6 + 3 slashing 1d4 fire"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+12 (agile, finesse, unarmed, unholy)\n__Damage__  1d6 + 3 slashing 1d4 fire"
 
   - name: "Pounce"
     desc: "`pf2:1`  The smoldering leopard Strides and makes a Strike at the end of that movement. If the leopard began this action [[Conditions/Hidden|Hidden]], it remains hidden until after making this ability's Strike."

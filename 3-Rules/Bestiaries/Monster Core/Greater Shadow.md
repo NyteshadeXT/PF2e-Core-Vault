@@ -59,11 +59,14 @@ abilities_mid:
   - name: "Light Vulnerability"
     desc: "  Attacks against the shadow are treated as magical if made by a creature who is in magical light or with an object that is in magical light (such as from the [[Spells/Light|Light]] spell)."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shadow Hand +18 (finesse, magical)\n__Damage__  2d10 + 6 void"
+  - name: "**Melee** `pf2:1` Shadow Hand"
+    desc: "+18 (finesse, magical)\n__Damage__  2d10 + 6 void"
 
   - name: "Divine Innate Spells"
     desc: "DC 25, attack +17; __2nd __  _[[Spells/Darkness|Darkness]]_"
@@ -75,7 +78,7 @@ attacks:
     desc: "  The shadow can [[Actions/Hide|Hide]] or end its [[Actions/Sneak|Sneak]] in a creature's or object's shadow."
 
   - name: "Steal Shadow"
-    desc: "`pf2:1` (divine) **Requirements** The shadow hit a living creature with a shadow hand Strike on its previous action\n* * *\n\n**Effect** The shadow pulls at the target's shadow, making the creature [[Conditions/Enfeebled|Enfeebled 2]] ([[Conditions/Enfeebled|Enfeebled 3]] on a critical hit). This is cumulative with other enfeebled conditions from shadows, to a maximum of [[Conditions/Enfeebled|Enfeebled 4]]. If this increases a creature's enfeebled value to 3 or more, the target's shadow is separated from its body (see shadow spawn). The enfeebled value from [[Actions/Steal|Steal]] Shadow decreases by 1 every hour."
+    desc: "`pf2:1` (divine) **Requirements** The shadow hit a living creature with a shadow hand Strike on its previous action\n* * *\n\n**Effect** The shadow pulls at the target's shadow, making the creature [[Conditions/Enfeebled|Enfeebled 2]] ([[Conditions/Enfeebled|Enfeebled 3]] on a critical hit). This is cumulative with other enfeebled conditions from shadows, to a maximum of [[Conditions/Enfeebled|Enfeebled 4]]. If this increases a creature's enfeebled value to 3 or more, the target's shadow is separated from its body (see shadow spawn). The enfeebled value from Steal Shadow decreases by 1 every hour."
  
 ```
 

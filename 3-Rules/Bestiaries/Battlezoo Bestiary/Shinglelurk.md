@@ -54,8 +54,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +17 (agile, reach 10 feet)\n__Damage__  2d6 + 8 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+17 (agile, reach 10 feet)\n__Damage__  2d6 + 8 piercing plus improved-grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
     desc: "`pf2:1`  1d6 + 6 bludgeoning plus 3d4 acid damage, DC 25 basic fortitude save\n\n* * *\n"

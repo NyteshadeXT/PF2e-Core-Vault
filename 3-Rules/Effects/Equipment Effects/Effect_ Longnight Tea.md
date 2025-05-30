@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Longnight Tea|Longnight Tea]]
+
 You gain a +1 item bonus to saving throws against sleep effects.
 
 *Source: Pathfinder #197: Let the Leaves Fall*

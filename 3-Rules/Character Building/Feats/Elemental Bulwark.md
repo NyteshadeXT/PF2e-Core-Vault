@@ -24,5 +24,5 @@ license: OGL
 
 You call upon the corresponding elements of your suli heritage to resist the effect. You gain resistance 5 against the triggering damage.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

@@ -4,7 +4,7 @@ title: "Anchor"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/leshy
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.xpsD4DsYHKXCB4ac"

@@ -4,8 +4,9 @@ title: "Spell Effect: Lay on Hands"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.spell-effects.Item.lyLMiauxIVUM3oF1"
-license: OGL
+license: ORC
 ---
 # Spell Effect: Lay on Hands
 ## Level 1
@@ -16,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Lay on Hands|Lay on Hands]]
+Granted by [[Spells/Lay on Hands|Lay on Hands]]
 
-If the target is one of your allies, they also gain a +2 status bonus to AC for 1 round.
+You gain a +2 status bonus to AC. If you're undead, you take a –2 status penalty to AC instead.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

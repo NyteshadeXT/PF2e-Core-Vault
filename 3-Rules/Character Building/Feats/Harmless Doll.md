@@ -24,5 +24,5 @@ You look like nothing more than an ordinary toy, doll, or statuette, and you can
 
 _Note: If you are already trained in the skill provided by this feat, you need to manually select an alternative skill._
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

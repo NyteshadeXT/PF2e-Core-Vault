@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +9 (finesse, magical)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+9 (finesse, magical, unarmed)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Magic Horn"
     desc: "  Any living creature slain by the almiraj's horn Strike immediately becomes [[Conditions/Petrified|Petrified]] with no saving throw, in addition to dying.\n\nA severed almiraj horn retains a wisp of its former magic; in combat, the horn can be wielded as a _+1 [[Equipment/Dagger|Dagger]]_ or, if affixed to a shaft, a _+1 [[Equipment/Spear|Spear]]_"

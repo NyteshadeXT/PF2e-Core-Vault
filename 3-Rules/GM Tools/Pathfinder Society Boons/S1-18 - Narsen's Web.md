@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "S1-18 - Narsen's Web"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.tX2vxY8RSdcBayEu"
 license: OGL
 ---
 # S1-18 - Narsen's Web
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

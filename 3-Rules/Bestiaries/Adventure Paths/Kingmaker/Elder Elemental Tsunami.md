@@ -63,20 +63,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wave +30 (reach 20 feet)\n__Damage__  3d12 + 16 bludgeoning plus blinding-sickness,push-or-pull-10-feet"
+  - name: "**Melee** `pf2:1` Wave"
+    desc: "+30 (reach 20 feet)\n__Damage__  3d12 + 16 bludgeoning plus blinding-sickness,push-or-pull-10-feet"
 
   - name: "Blinding Sickness"
     desc: " (disease) A creature that takes damage from an elder elemental tsunami's wave Strike or Surge is exposed to blinding sickness.\n* * *\n\n**Saving Throw** DC 34 Fortitude check\n\n**Stage 1** carrier with no ill effects\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 2]] (1 day)\n\n**Stage 4** enfeebled 2 and permanently [[Conditions/Blinded|Blinded]] (1 day)\n\n**Stage 5** [[Conditions/Enfeebled|Enfeebled 4]] (1 day)\n\n**Stage 6** [[Conditions/Unconscious|Unconscious]] (1 day)\n\n**Stage 7** death"
 
   - name: "Drench"
-    desc: "`pf2:1` (primal,water) The elemental puts out all fires in a @Template[emanation|distance:20].\n\nIt extinguishes all non-magical fires automatically and attempts to counteract magical fires (+20 counteract modifier)."
+    desc: "`pf2:1` (primal,water) The elemental puts out all fires in a 20-foot emanation.\n\nIt extinguishes all non-magical fires automatically and attempts to counteract magical fires (+20 counteract modifier)."
 
   - name: "Surge"
     desc: "`pf2:2`  The elemental tsunami quickly expands its space to fill the area of its vortex. Creatures within the vortex's emanation take 6d12+8 bludgeoning damage (DC 34 Fortitude check save). A creature that fails this save is Pushed 20 feet. The elemental tsunami then retracts to its former space.\n\nA creature that takes damage is exposed to blinding sickness.\n\nThe elemental tsunami can't Surge again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Push|Push or Pull 10 feet]]"
-    desc: "`pf2:1`  The elemental tsunami can also pull the creature.\n\n* * *\n"
+    desc: "`pf2:1`  The elemental tsunami can also pull the creature.\n* * *\n\n**Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

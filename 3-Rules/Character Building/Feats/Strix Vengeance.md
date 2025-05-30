@@ -13,7 +13,7 @@ license: OGL
 ---
 # Strix Vengeance `pf2:r`
 ## Feat 5
-### [[emotion]][[3-Rules/trait_reference/M/mental]][[strix]]
+### [[emotion]][[mental]][[strix]]
 
 **Category** ancestry; 
 
@@ -28,5 +28,5 @@ license: OGL
 
 You dedicate yourself to destroying those who harm your kin. Until the end of your next turn, you deal an additional +1d6 damage on Strikes against the triggering enemy. The bonus increases to +2d6 damage if you use a Striking weapon or unarmed attack and +3d6 damage if you use a Striking (Major) weapon or unarmed attack.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

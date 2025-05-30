@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Sellback Plan"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.3lHqim7ttvoMmVXW"
 license: OGL
 ---
 # Sellback Plan
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

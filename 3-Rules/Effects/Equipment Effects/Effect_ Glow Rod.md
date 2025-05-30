@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Glow Rod|Glow Rod]]
+Granted by [[Equipment/Glow Rod|Glow Rod]]
 
 The rod sheds bright light in a 20-foot radius (and dim light to the next 40 feet).
 

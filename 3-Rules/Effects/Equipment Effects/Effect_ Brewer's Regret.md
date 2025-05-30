@@ -16,7 +16,9 @@ license: OGL
 
 
 
-For 1 hour after consumption, you gain a +2 item bonus to saves against death and void effects.
+Granted by [[Equipment/Brewer's Regret|Brewer's Regret]], [[Equipment/Brewer's Regret (Greater)|Brewer's Regret (Greater)]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+You gain an item bonus to saves against death and void effects.
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[3-Rules/Character Building/Spells/C/Cascade Countermeasure|Cascade Countermeasure]]
+Granted by [[Spells/Cascade Countermeasure|Cascade Countermeasure]]
 
 You gain resistance against damage from spells.
 

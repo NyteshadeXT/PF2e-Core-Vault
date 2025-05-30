@@ -8,7 +8,7 @@ aliases: "Compendium.pf2e.feat-effects.Item.KSXdpnGIaxe08v2G"
 license: OGL
 ---
 # Effect: Terrain Attunement (Plains)
-## Level 1
+## Level 2
 ### 
 
 
@@ -18,7 +18,7 @@ license: OGL
 
 Granted by [[Feats/Geomancer Dedication|Geomancer Dedication]]
 
-You gain temporary Hit Points equal to the spell rank.
+You gain temporary Hit Points equal to the spell's rank.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -55,16 +55,19 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Warhammer|+1 Warhammer]], [[Equipment/Chalk|Chalk]], [[Equipment/Snare Kit (Specialist)|Snare Kit (Specialist)]]"
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 ()\n__Damage__  1d6 + 6 bludgeoning plus strangling-grasp"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (unarmed)\n__Damage__  1d6 + 6 bludgeoning plus strangling-grasp"
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +13 (magical, shove)\n__Damage__  1d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+13 (magical, shove)\n__Damage__  1d8 + 6 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Hobji's Strikes deal an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

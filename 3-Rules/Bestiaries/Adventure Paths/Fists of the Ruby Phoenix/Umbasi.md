@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +19 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+19 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +23 (deadly d10, magical, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  2d8 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+23 (deadly d10, magical, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  2d8 + 11 piercing"
 
   - name: "Spontaneous Occult Spells"
     desc: "DC 34, attack +26; __7th __ (2 slots) _[[Spells/Mask of Terror|Mask of Terror]]_, _[[Spells/True Target|True Target]]_; __6th __ (3 slots) _[[Spells/Collective Transposition|Collective Transposition]]_, _[[Spells/Truesight|True Seeing]]_, _[[Spells/Zealous Conviction|Zealous Conviction]]_; __5th __ (3 slots) _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Shadow Siphon|Shadow Siphon]]_; __4th __ (3 slots) _[[Spells/Flicker|Blink]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fly|Fly]]_; __3rd __ (3 slots) _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Heroism|Heroism]]_, _[[Spells/Shared Invisibility|Invisibility Sphere]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Silence|Silence]]_, _[[Spells/Noise Blast|Sound Burst]]_; __1st __ (3 slots) _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Spirit Link|Spirit Link]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(7th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_"

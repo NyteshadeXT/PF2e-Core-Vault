@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +11 (reach 10 feet, sweep)\n__Damage__  1d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+11 (reach 10 feet, sweep)\n__Damage__  1d8 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +5 (thrown 30 ft.)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+5 (thrown 30 ft.)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Refuse +5 (thrown 20 ft.)\n__Damage__  1d4 + 5 bludgeoning"
+  - name: "**Ranged** `pf2:1` Refuse"
+    desc: "+5 (thrown 20 ft.)\n__Damage__  1d4 + 5 bludgeoning"
  
 ```
 

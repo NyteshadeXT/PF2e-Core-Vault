@@ -25,5 +25,5 @@ Your eyes have adapted to see in all circumstances, even without the assistance 
 
 **Special** You can take this feat only at 1st level, and you can't retrain out of this feat or into this feat.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

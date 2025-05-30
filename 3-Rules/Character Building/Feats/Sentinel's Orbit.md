@@ -22,5 +22,5 @@ license: ORC
 * * *
 Just as your constellation traverses the sky, so too can you. When in your sentinel form, you gain a fly Speed equal to your land Speed or 20 feet, whichever is higher.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

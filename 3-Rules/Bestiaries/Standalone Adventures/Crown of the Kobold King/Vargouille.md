@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +10 (agile, finesse, unholy)\n__Damage__  1d8 piercing 1d6 poison"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+10 (agile, finesse, unholy)\n__Damage__  1d8 piercing 1d6 poison"
 
   - name: "Tenacious Wounds"
     desc: " (curse,occult) A creature who takes poison damage from a vargouille must succeed at a DC 18 Fortitude check save or be cursed. The cursed creature can't regain HP except via magic, and anyone Casting a Spell to heal the creature must succeed at a DC 18 counteract check or the healing has no effect. The vargouille's counteract rank is equal to its creature level. A creature can attempt a new DC 18 Fortitude check save once per day (typically when it makes its daily preparations) to end this curse. The curse ends automatically if the creature is healed to maximum HP."

@@ -33,5 +33,5 @@ Every Firebrand can recognize the skill of others, but you've turned it into an 
 
 **Success** The target becomes off-guard against your attacks for 1 round.
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

@@ -4,14 +4,14 @@ title: "Defend Life"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.5V49l0K460CcvBOO"
 license: OGL
 ---
 # Defend Life `pf2:r`
 
-### [[3-Rules/Rule References/Concentrate]]
+### [[concentrate]]
 
 **Category** interaction; 
 

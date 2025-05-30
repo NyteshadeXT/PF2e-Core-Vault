@@ -56,6 +56,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Defiance Vulnerability"
@@ -67,23 +73,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +30 (magical, reach 10 feet, unholy)\n__Damage__  1d6 spirit 3d12 + 14 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+30 (magical, reach 10 feet, unarmed, unholy)\n__Damage__  1d6 spirit 3d12 + 14 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +30 (agile, magical, reach 10 feet, unholy)\n__Damage__  1d6 spirit 3d8 + 14 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+30 (agile, magical, reach 10 feet, unarmed, unholy)\n__Damage__  1d6 spirit 3d8 + 14 slashing"
 
   - name: "Divine Innate Spells"
     desc: "DC 36, attack +28; __8th __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Suggestion|Suggestion]]_; __6th __  _[[Spells/Dominate|Dominate]]_; __5th __  _[[Spells/Command|Command (At Will)]]_; __4th __  _[[Spells/Charm|Charm (At Will)]]_\n__Constant__  __(8th)__ _[[Spells/See the Unseen|See Invisibility]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "Abyssal Spew"
-    desc: "`pf2:2` (acid,divine,fire) The ghalzarokh spews corrosive flame that deals 8d6 acid damage and 8d6 fire damage in a @Template[cone|distance:40] (DC 36 Reflex check save). The ghalzarokh can't use Abyssal Spew again for 1d4 rounds."
+    desc: "`pf2:2` (acid,divine,fire) The ghalzarokh spews corrosive flame that deals 8d6 acid damage and 8d6 fire damage in a 40-foot cone (DC 36 Reflex check save). The ghalzarokh can't use Abyssal Spew again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  Claw\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
  
 ```
 

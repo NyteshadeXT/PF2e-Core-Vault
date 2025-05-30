@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** cliffscale lizardfolk
 * * *
-You cling to walls with a preternatural grip. You gain the Combat Climber feat as a bonus feat, and if you roll a success on an Athletics check to climb, you get a critical success instead.
+You cling to walls with a preternatural grip. You gain the [[Feats/Combat Climber|Combat Climber]] feat as a bonus feat, and if you roll a success on an Athletics check to climb, you get a critical success instead.
 
 * * *
 

@@ -57,38 +57,38 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 15]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "Confusing Gaze"
     desc: " (aura,emotion,mental,primal,visual) 20 feet.\n\nWhen a creature ends its turn in the aura, it must succeed at a DC 35 Will check save or become [[Conditions/Confused|Confused]] for 1 round."
 
   - name: "Quick Recovery"
-    desc: "  The bandersnatch recovers with frightening speed. At the end of its turn, it reduces the value of one debilitating condition it suffers (with the exception of dying) by 1. If it's [[Conditions/Blinded|Blinded]], [[Conditions/Dazzled|Dazzled]], [[Conditions/Deafened|Deafened]], [[Conditions/Fatigued|Fatigued]], [[Conditions/Fleeing|Fleeing]], or petrified, it can instead succeed at a DC 16 Flat check to end one of these conditions of its choice; it can't use quick recovery on other conditions that lack values."
+    desc: "  The bandersnatch recovers with frightening speed. At the end of its turn, it reduces the value of one debilitating condition it suffers (with the exception of [[Conditions/Dying|Dying]]) by 1. If it's [[Conditions/Blinded|Blinded]], [[Conditions/Dazzled|Dazzled]], [[Conditions/Deafened|Deafened]], [[Conditions/Fatigued|Fatigued]], [[Conditions/Fleeing|Fleeing]], or [[Conditions/Petrified|Petrified]], it can instead succeed at a DC 16 Flat check to end one of these conditions of its choice; it can't use quick recovery on other conditions that lack values."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike (Tail Only)]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +34 (magical, reach 15 feet)\n__Damage__  3d12 + 19 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+34 (magical, reach 15 feet, unarmed)\n__Damage__  3d12 + 19 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +34 (agile, magical, reach 15 feet)\n__Damage__  3d8 + 19 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+34 (agile, magical, reach 15 feet)\n__Damage__  3d8 + 19 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +34 (fatal d8, magical, reach 20 feet)\n__Damage__  3d4 + 19 piercing plus pain"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+34 (fatal d8, magical, reach 20 feet)\n__Damage__  3d4 + 19 piercing plus pain"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Quill +30 (range increment 100 feet)\n__Damage__  3d4 + 19 piercing plus pain"
+  - name: "**Ranged** `pf2:1` Quill"
+    desc: "+30 (range increment 100 feet)\n__Damage__  3d4 + 19 piercing plus pain"
 
   - name: "Focus Gaze"
     desc: "`pf2:1` (emotion,mental,primal,visual) The bandersnatch fixes its gaze at a creature it can see within 20 feet. The target must immediately attempt a Will save against the bandersnatch's Confusing Gaze. After attempting the save, the creature is temporarily immune to a bandersnatch's Confusing Gaze until the start of the bandersnatch's next turn."
 
   - name: "Frumious Charge"
     desc: "`pf2:2`  The bandersnatch Strides, ignoring difficult terrain, then makes two claw Strikes at the end of its movement."
-
-  - name: "Lash Out"
-    desc: "  At the start of its turn, the bandersnatch gains an additional reaction that can be used only to attempt an Attack of Opportunity."
 
   - name: "Pain"
     desc: "  A bandersnatch's quills create exceptionally painful wounds. The wounded creature must succeed at a DC 38 Fortitude check save to resist becoming [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical failure) by this pain. Further bandersnatch Strikes that cause pain increase the amount of drain by 1 for each failed save to a maximum of drained 4."

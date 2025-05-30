@@ -39,7 +39,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Disable"
-    desc: "DC 25 Arcana check (trained) to repair Chamenaiti's magic, DC 27 Religion check or DC 27 Occultism check (trained) to offset the prayer, or _[[Spells/Dispel Magic|Dispel Magic]]_ (4th rank; counteract DC 25) to counteract the warning"
+    desc: "DC 25 Arcana check (trained) to repair Chamenaiti's magic, DC 27 Religion check or DC 27 Occultism check (trained) to offset the prayer, or [[Spells/Dispel Magic|Dispel Magic]] (4th rank; counteract DC 25) to counteract the warning"
 attacks:
   - name: ""
   - name: "Melee"

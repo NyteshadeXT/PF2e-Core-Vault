@@ -20,5 +20,5 @@ license: OGL
 
 You subconsciously flick your tongue through the air to taste the world around you. You gain imprecise scent with a range of 30 feet.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

@@ -18,7 +18,7 @@ license: OGL
 ---
 # Dash of Herbs `pf2:2`
 ## Feat 6
-### [[healing]][[impulse]][[kineticist]][[plant]][[primal]][[vitality]][[Wood]]
+### [[healing]][[impulse]][[kineticist]][[plant]][[primal]][[vitality]][[wood]]
 
 **Category** class; 
 

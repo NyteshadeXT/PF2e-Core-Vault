@@ -16,9 +16,11 @@ license: OGL
 
 
 
-Granted by [[Desolation Locket|Desolation Locket]]
+Granted by [[Equipment/Desolation Locket|Desolation Locket]]
 
-The _desolation locket_ numbs you to further despair, and you gain a +2 item bonus to saving throws against emotion effects.
+You gain an item bonus to saving throws against emotion effects.
+
+When you critically fail a saving throw against an emotion effect, you get a failure instead (_major_).
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

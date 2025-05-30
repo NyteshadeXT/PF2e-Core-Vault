@@ -6,8 +6,9 @@ tags:
   - trait/inventor
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.U0XX0Mm2MbZcuNK2"
-license: OGL
+license: ORC
 ---
 # Shared Overdrive
 ## Feat 12
@@ -24,4 +25,4 @@ You've experimented enough on your teammates to transfer a substantial number of
 [[Feat_Feature Effects/Effect_ Overdrive Ally (Shared Overdrive)|Effect: Overdrive Ally (Shared Overdrive)]]
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

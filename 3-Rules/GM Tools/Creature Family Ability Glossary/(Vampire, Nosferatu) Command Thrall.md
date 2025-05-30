@@ -6,14 +6,14 @@ tags:
   - trait/auditory
   - trait/divine
   - trait/mental
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.8UQWXpYfn9oE1ZHu"
 license: OGL
 ---
 # (Vampire, Nosferatu) Command Thrall `pf2:0`
 
-### [[auditory]][[divine]][[3-Rules/trait_reference/M/mental]]
+### [[auditory]][[divine]][[mental]]
 
 **Category** offensive; 
 

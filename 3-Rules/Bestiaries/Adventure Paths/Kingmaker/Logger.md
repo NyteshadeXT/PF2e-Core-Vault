@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +7 (sweep)\n__Damage__  1d8 + 3 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+7 (sweep)\n__Damage__  1d8 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +7 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 3 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+7 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +5 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 1 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+5 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 1 slashing"
  
 ```
 

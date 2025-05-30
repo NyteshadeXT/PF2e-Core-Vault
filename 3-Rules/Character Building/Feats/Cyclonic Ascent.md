@@ -15,7 +15,7 @@ license: OGL
 ---
 # Cyclonic Ascent `pf2:2`
 ## Feat 8
-### [[3-Rules/trait_reference/A/air]][[impulse]][[kineticist]][[primal]]
+### [[air]][[impulse]][[kineticist]][[primal]]
 
 **Category** class; 
 

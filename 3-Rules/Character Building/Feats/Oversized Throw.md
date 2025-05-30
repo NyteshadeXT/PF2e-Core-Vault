@@ -13,7 +13,7 @@ license: ORC
 ---
 # Oversized Throw `pf2:2`
 ## Feat 4
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

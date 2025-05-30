@@ -30,5 +30,5 @@ license: ORC
 
 Your roots of qi stand firm, shaking off pains and aches like the returning flowers and leaves shed during winter's snow. You regain Hit Points equal to your level plus the maximum number of Focus Points in your focus pool.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

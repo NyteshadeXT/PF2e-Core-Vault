@@ -37,7 +37,7 @@ perception:
 languages: "Fey, Thalassic; can&#x27;t speak any language; communicates via sign language"
 skills:
   - name: "Skills"
-    desc: "Athletics: +7, Nature: +6, Survival: +6, Athletics: +7, Nature: +6, Survival: +6, Ocean Lore: +6"
+    desc: "Athletics: +7, Nature: +6, Survival: +6, Ocean Lore: +6"
 abilityMods: [4, 0, 3, 1, 3, 3]
 speed:  swim 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinging Tail +9 (reach 10 feet)\n__Damage__  1d4 + 2 piercing plus kelpsteed-venom"
+  - name: "**Melee** `pf2:1` Stinging Tail"
+    desc: "+9 (reach 10 feet)\n__Damage__  1d4 + 2 piercing plus kelpsteed-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Frond +9 (agile)\n__Damage__  1d4 + 2 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Frond"
+    desc: "+9 (agile)\n__Damage__  1d4 + 2 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

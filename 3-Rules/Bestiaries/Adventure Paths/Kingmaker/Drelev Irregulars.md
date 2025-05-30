@@ -23,7 +23,7 @@ level: "Army 7"
 
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: infantry
 modifier: 15
 perception:
@@ -31,9 +31,9 @@ perception:
   - name: "Scouting"
     desc: "+15"
   - name: "Recruitment DC"
-    desc: "; __Consumption__ 1"
+    desc: "15; __Consumption__ 1"
   - name: "Description"
-    desc: "The Drelev Irregulars are composed of equal parts Tiger Lords and mercenaries who were once bandits. Their fighting style is more akin to a mob than a disciplined force; while this allows the irregulars an advantage in mobility, it decentralizes their command structure and lessens their morale."
+    desc: "The Drelev Irregulars are composed of equal parts Tiger Lords and mercenaries who were once bandits. Their fighting style is more akin to a mob than a disciplined force; while this allows the irregulars an advantage in mobility, it decentralizes their command structure and lessens their morale."
 ac: 25
 armorclass:
   - name: AC

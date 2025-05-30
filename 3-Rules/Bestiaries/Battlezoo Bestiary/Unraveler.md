@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Unraveling Lash +17 (finesse)\n__Damage__  1d6 + 8 bludgeoning plus unravel 1d6 spirit plus unravel"
+  - name: "**Melee** `pf2:1` Unraveling Lash"
+    desc: "+17 (finesse)\n__Damage__  1d6 + 8 bludgeoning plus unravel 1d6 spirit plus unravel"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Entropic Ray +17 (magical, range increment 100 feet)\n__Damage__  2d8 + 8 spirit"
+  - name: "**Ranged** `pf2:1` Entropic Ray"
+    desc: "+17 (magical, range increment 100 feet)\n__Damage__  2d8 + 8 spirit"
 
   - name: "Occult Innate Spells"
     desc: "DC 24, attack +16; __7th __ (1 slots) _[[Spells/Interplanar Teleport|Plane Shift (Astral Plane, Material Plane, and Limbo only)]]_; __4th __ (3 slots) _[[Spells/Mending|Mending]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Mending|Mending]]_\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_"
@@ -96,7 +96,7 @@ Unsurprisingly for a being of pure chaos, it can be difficult to predict an unra
 
 ## Unraveled Art
 
-Some unravelers use their powers to create great works of abstract art, partially unraveling objects and materials into beautiful arrangements. Such unravelers substitute Crafting for the Nature or Occultism skill and can cast a 4th-level [[Slow|Slow]] spell three times per day.
+Some unravelers use their powers to create great works of abstract art, partially unraveling objects and materials into beautiful arrangements. Such unravelers substitute Crafting for the Nature or Occultism skill and can cast a 4th-level [[Spells/Slow|Slow]] spell three times per day.
 
 ## Monster Part Subsystem
 

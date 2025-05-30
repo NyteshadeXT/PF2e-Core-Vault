@@ -6,8 +6,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.lh3STEvbGnP7jVMr"
-license: OGL
+license: ORC
 ---
 # Munitions Machinist
 ## Feat 6
@@ -19,7 +20,7 @@ license: OGL
 
 **Prerequisites** Munitions Crafter; expert in Crafting
 * * *
-You're particularly adept at crafting ammunition and bombs. Your advanced alchemy level for ammunition and bombs increases to your level - 3.
+You're adept at crafting ammunition. You gain the Quick Alchemy benefits and 4 versatile vials, but can only use Quick Vial to create bombs or alchemical ammunition.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

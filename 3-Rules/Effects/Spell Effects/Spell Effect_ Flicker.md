@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Granted by [[3-Rules/Character Building/Spells/F/Flicker|Flicker]]
+Granted by [[Spells/Flicker|Flicker]]
+
+You gain resistance to all damage, except force.
 
 *Source: Pathfinder Player Core*
 *ORC*

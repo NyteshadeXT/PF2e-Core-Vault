@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +18 (agile, magical, sweep, reach)\n__Damage__  1d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+18 (agile, magical, sweep, reach)\n__Damage__  1d6 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +18 (agile, magical, sweep, thrown 10 ft.)\n__Damage__  1d6 + 8 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+18 (agile, magical, sweep, thrown 10 ft.)\n__Damage__  1d6 + 8 slashing"
 
   - name: "Cruel Cutter"
     desc: "  Burning Mammoth commandos ably carve flesh and wood with their axes. An axe the commando uses gains the reach trait and deals an additional 1d6 damage (included in the _hatchet_ Strikes above)."

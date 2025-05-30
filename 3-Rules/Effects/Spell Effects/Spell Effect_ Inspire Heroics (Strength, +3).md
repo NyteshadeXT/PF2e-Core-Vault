@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by critically succeeding on [[3-Rules/Character Building/Spells/F/Fortissimo Composition|Fortissimo Composition]] to enhance [[3-Rules/Character Building/Spells/S/Song of Strength|Song of Strength]]
+Granted by critically succeeding on [[Spells/Fortissimo Composition|Fortissimo Composition]] to enhance [[Spells/Song of Strength|Song of Strength]]
 
 You bolster your allies' physical strength with a hearty exhortation. You and your allies gain a +3 status bonus to Athletics checks and to their DCs against Athletics skill actions such as Disarm, Shove, and Trip.
 

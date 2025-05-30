@@ -53,7 +53,7 @@ attacks:
     desc: "`pf2:r` (sonic) **Trigger** A living creature approaches within 10 feet of the engine (marked with a \"T\" on the map)\n* * *\n\n**Effect** A loud whistle blows and all creatures within 30 feet take 2d6 sonic damage and become [[Conditions/Stunned|Stunned 1]] (DC 20 Fortitude check; creatures aren't stunned on a success). The lonely machine spirit then rolls initiative."
 
   - name: "Belch Smoke"
-    desc: "action (air, fire) The airship's engine issues forth a cloud of alchemical smoke in a @Template[cone|distance:30]. Creatures within the cone must attempt a DC 20 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 1d6 poison damage and is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature takes 2d6 poison damage and is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature takes 3d6 poison damage and is sickened 2."
+    desc: "action (air, fire) The airship's engine issues forth a cloud of alchemical smoke in a 30-foot cone. Creatures within the cone must attempt a DC 20 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 1d6 poison damage and is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature takes 2d6 poison damage and is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature takes 3d6 poison damage and is sickened 2."
   - name: "Melee"
     desc: "Red hot gear +12 (fire, range 10 feet) "
 

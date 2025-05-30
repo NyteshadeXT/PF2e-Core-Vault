@@ -51,7 +51,7 @@ hp: 175
 health:
   - name: ""
   - name: HP
-    desc: "175, void healing; __Immunities__  death effects,  disease,  fire,  paralyzed,  poison,  precision,  unconscious; __Weaknesses__ holy 10; __Resistances__ all damage 5 (except force, ghost touch, or vitality; double resistance vs. non-magical)"
+    desc: "175, void healing; __Immunities__  death effects,  disease,  fire,  paralyzed,  poison,  precision,  unconscious; __Weaknesses__ holy 10; __Resistances__ all damage 10 (except force, ghost touch, or vitality; double resistance vs. non-magical)"
 abilities_top:
   - name: ""
 
@@ -60,11 +60,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Brimstone Tendrils +27 (agile, finesse, fire, reach 15 feet, sanctified)\n__Damage__  3d8 + 6 fire plus clinging-smoke 2d6 void plus clinging-smoke"
+  - name: "**Melee** `pf2:1` Brimstone Tendrils"
+    desc: "+27 (agile, finesse, fire, reach 15 feet, sanctified)\n__Damage__  3d8 + 6 fire plus clinging-smoke 2d6 void plus clinging-smoke"
 
   - name: "Divine Innate Spells"
     desc: "DC 33, attack +25; __7th __  _[[Spells/Divine Decree|Divine Decree]]_, _[[Spells/Shadow Blast|Shadow Blast (Fire or Spirit only)]]_; __6th __  _[[Spells/Crisis of Faith|Crisis of Faith]]_, _[[Spells/Divine Immolation|Divine Immolation]]_\n__Cantrips__  __(7th)__ _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Void Warp|Void Warp]]_"

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Scales Of The Dragon"
+title: "Scales of the Dragon"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/archetype
@@ -9,7 +9,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.fT37dtsByEIc3glC"
 license: OGL
 ---
-# Scales Of The Dragon
+# Scales of the Dragon
 ## Feat 4
 ### [[archetype]]
 

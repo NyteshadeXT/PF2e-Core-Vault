@@ -14,8 +14,9 @@ tags:
   - tradition/occult
   - tradition/primal
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.10siFBMF4pIDhVmf" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Cup of Dust  `pf2:3`"
@@ -39,6 +40,6 @@ abilities_top:
     desc: "1 day"
 abilities_mid:
   - name: ""
-    desc: "You curse the target with a thirst no drink can quench. You can Dismiss the spell. The target must attempt a Fortitude save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune for 1 hour.\n\n**Success** The creature is [[Conditions/Fatigued|Fatigued]] for 1 round.\n\n**Failure** The creature is immediately afflicted by thirst as if it hadn't had a drink in days. It becomes Fatigued and takes 1d4 damage each hour that can't be healed until it quenches its thirst. No amount of drinking can quench the creature's thirst during the spell's duration.\n\n**Critical Failure** As failure but the creature takes 2d4 damage each hour, twice as much as usual for thirst.\n* * *\n\n**Heightened (+3)** The thirst becomes more unbearable, increasing the damage each hour by 1d4, or by 2d4 on a critical failure."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+    desc: "You curse the target with a thirst no drink can quench. You can Dismiss the spell. The target must attempt a Fortitude save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune for 1 hour.\n\n**Success** The creature is [[Conditions/Fatigued|Fatigued]] for 1 round.\n\n**Failure** The creature is immediately afflicted by thirst as if it hadn't had a drink in days. It becomes Fatigued and takes 1d4 damage each hour that can't be healed until it quenches its thirst. No amount of drinking can quench the creature's thirst during the spell's duration.\n\n**Critical Failure** As failure but the creature takes 2d4 damage each hour.\n* * *\n\n**Heightened (+3)** The thirst becomes more unbearable, increasing the damage each hour by 1d4, or by 2d4 on a critical failure."
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

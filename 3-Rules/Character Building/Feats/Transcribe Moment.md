@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Scrollmaster Dedication
 * * *
-You gain the [[3-Rules/Character Building/Spells/T/Transcribe Moment|Transcribe Moment]] focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by spending 10 minutes to study a text or record notes on your recent experiences.
+You gain the [[Spells/Transcribe Moment|Transcribe Moment]] focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by spending 10 minutes to study a text or record notes on your recent experiences.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

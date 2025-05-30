@@ -58,19 +58,22 @@ abilities_mid:
     desc: " (occult,void) When a mulventok dies, its mirrored flesh ruptures and explodes in a 20-foot radius. Creatures caught in the blast are covered with viscera and take 8d6 void damage (DC 22 Reflex check save)."
 
   - name: "Stay in the Fight"
-    desc: "`pf2:r` (healing,occult) **Trigger** An allied creature within 30 feet reaches 0 HP\n* * *\n\n**Effect** The mulventok imparts some of its own energy to keep the ally fighting. The target creature gains 1 Hit Point, and the mulventok takes 2d6 mental damage."
+    desc: "`pf2:r` (healing,occult) **Trigger** An allied creature within 30 feet reaches 0 HP\n* * *\n\n**Effect** The mulventok imparts some of its own energy to keep the ally fighting. The target creature gains 1 healing Hit Point, and the mulventok takes 2d6 mental damage."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tamchal Chakram +18 (agile, deadly d6, finesse, magical)\n__Damage__  1d6 + 8 slashing 1d6 mental"
+  - name: "**Melee** `pf2:1` Tamchal Chakram"
+    desc: "+18 (agile, deadly d6, finesse, magical)\n__Damage__  1d6 + 8 slashing 1d6 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +17 ()\n__Damage__  2d8 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+17 (unarmed)\n__Damage__  2d8 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Tamchal Chakram +13 (agile, deadly d6, magical, thrown 20 ft.)\n__Damage__  1d6 + 8 slashing 1d6 mental"
+  - name: "**Ranged** `pf2:1` Tamchal Chakram"
+    desc: "+13 (agile, deadly d6, magical, thrown 20 ft.)\n__Damage__  1d6 + 8 slashing 1d6 mental"
 
   - name: "Fervent Command"
     desc: "`pf2:1` (auditory,mental) The mulventok shouts an order to one of its allies within 30 feet. That ally immediately takes a [[Actions/Raise a Shield|Raise a Shield]] or Step action. A creature can benefit from only once per round."

@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +14 (agile, finesse, trip)\n__Damage__  1d6 + 4 slashing plus baneback-poison"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+14 (agile, finesse, trip)\n__Damage__  1d6 + 4 slashing plus baneback-poison"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +14 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 3 piercing plus baneback-poison"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+14 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 3 piercing plus baneback-poison"
 
   - name: "Baneback Poison"
     desc: " (poison) **Saving Throw** DC 21 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)\n\n**Stage 2** 2d4 poison damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)\n\n**Stage 3** 2d4 poison damage, [[Conditions/Stupefied|Stupefied 3]], and [[Conditions/Off-Guard|Off-Guard]] (1 round)"

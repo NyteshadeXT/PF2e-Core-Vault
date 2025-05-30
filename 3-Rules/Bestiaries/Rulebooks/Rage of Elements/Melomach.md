@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +26 (agile, reach 15 feet, versatile p, versatile s)\n__Damage__  3d12 + 18 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+26 (agile, reach 15 feet, unarmed, versatile p, versatile s)\n__Damage__  3d12 + 18 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Lightning +21 (electricity, magical, range 120 feet)\n__Damage__  3d10 + 16 electricity"
+  - name: "**Ranged** `pf2:1` Lightning"
+    desc: "+21 (electricity, magical, range 120 feet)\n__Damage__  3d10 + 16 electricity"
 
   - name: "Lightning Punch"
     desc: "`pf2:2`  The melomach makes a fist Strike, then makes a lightning Strike against a different creature within 120 feet of the fist Strike's target. Both Strikes count toward the melomach's multiple attack penalty, but it doesn't increase until after both attacks are made."
@@ -72,7 +72,7 @@ attacks:
     desc: "`pf2:1` (emotion,mental,primal) **Frequency** once per round\n* * *\n\n**Effect** The melomach's footsteps raise a clanging sound through their body to create a brief musical phrase. The melomach Strides, then generates the effect of one of the following bard composition cantrips at 7th rank: [[Spells/Allegro|Allegro]], [[Spells/Dirge of Doom|Dirge of Doom]] (adds the fear trait), or [[Spells/Triple Time|Triple Time]]."
 
   - name: "Scream"
-    desc: "`pf2:2` (primal,sonic) The melomach unleashes a guttural, ear-piercing wail. All creatures in a @Template[cone|distance:120] take 7d12 sonic damage with a DC 32 Fortitude check save.\n\nThe melomach can't Scream again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage, is [[Conditions/Stunned|Stunned 1]], and is [[Conditions/Deafened|Deafened]] for 1 minute.\n\n**Critical Failure** The creature takes double damage, is [[Conditions/Stunned|Stunned 3]], and is deafened permanently."
+    desc: "`pf2:2` (primal,sonic) The melomach unleashes a guttural, ear-piercing wail. All creatures in a 120-foot cone take 7d12 sonic damage with a DC 32 Fortitude check save.\n\nThe melomach can't Scream again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage, is [[Conditions/Stunned|Stunned 1]], and is [[Conditions/Deafened|Deafened]] for 1 minute.\n\n**Critical Failure** The creature takes double damage, is [[Conditions/Stunned|Stunned 3]], and is deafened permanently."
  
 ```
 

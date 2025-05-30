@@ -58,23 +58,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +19 (agile, finesse, magical, versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+19 (agile, finesse, magical, versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff of Fire +13 (magical, two-hand d8)\n__Damage__  1d4 - 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff of Fire"
+    desc: "+13 (magical, two-hand d8)\n__Damage__  1d4 - 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +19 (agile, finesse, magical, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+19 (agile, finesse, magical, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +20 (magical, range increment 120 feet, reload 1)\n__Damage__  1d6 + 3 piercing plus wyvern-poison"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+20 (magical, range increment 120 feet, reload 1)\n__Damage__  1d6 + 3 piercing plus wyvern-poison"
 
   - name: "Kobold Explosives"
-    desc: "`pf2:2` (alchemical,fire,manipulate) **Cost** 1 batch of infused reagents.\n* * *\n\n**Effect** Hezle quickly cobbles together an explosive bomb and lobs it up to 30 feet. All creatures in a @Template[burst|distance:5] take 5d6 fire damage (DC 26 Reflex check save)."
+    desc: "`pf2:2` (alchemical,fire,manipulate) **Cost** 1 batch of infused reagents.\n* * *\n\n**Effect** Hezle quickly cobbles together an explosive bomb and lobs it up to 30 feet. All creatures in a 5-foot burst take 5d6 fire damage (DC 26 Reflex check save)."
 
   - name: "Smoky Retreat"
-    desc: "`pf2:2` (manipulate) **Cost** 1 batch of infused reagents.\n\n**Requirements** Hezle must be adjacent to at least one enemy.\n* * *\n\n**Effect** Hezle throws a mix of special powders centered on a corner of her space, creating a plume of smoke filling a @Template[burst|distance:5] until the end of her turn that causes her to be [[Conditions/Hidden|Hidden]]. She then immediately [[Actions/Sneak|Sneaks]], but must end her movement in a space that's not adjacent to any enemies.\n\nAll creatures other than Hezle in the smoke cloud must attempt a DC 26 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature is [[Conditions/Sickened|Sickened 3]] and [[Conditions/Stunned|Stunned 1]]."
+    desc: "`pf2:2` (manipulate) **Cost** 1 batch of infused reagents.\n\n**Requirements** Hezle must be adjacent to at least one enemy.\n* * *\n\n**Effect** Hezle throws a mix of special powders centered on a corner of her space, creating a plume of smoke filling a 5-foot burst until the end of her turn that causes her to be [[Conditions/Hidden|Hidden]]. She then immediately [[Actions/Sneak|Sneaks]], but must end her movement in a space that's not adjacent to any enemies.\n\nAll creatures other than Hezle in the smoke cloud must attempt a DC 26 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The creature is [[Conditions/Sickened|Sickened 2]].\n\n**Critical Failure** The creature is [[Conditions/Sickened|Sickened 3]] and [[Conditions/Stunned|Stunned 1]]."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Hezle deals an extra 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

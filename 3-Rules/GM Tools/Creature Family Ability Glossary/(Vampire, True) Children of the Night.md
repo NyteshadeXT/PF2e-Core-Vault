@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/divine
   - trait/mental
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.noOXyIXmwYN2rRd1"
@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Vampire, True) Children of the Night
 
-### [[divine]][[3-Rules/trait_reference/M/mental]]
+### [[divine]][[mental]]
 
 **Category** interaction; 
 

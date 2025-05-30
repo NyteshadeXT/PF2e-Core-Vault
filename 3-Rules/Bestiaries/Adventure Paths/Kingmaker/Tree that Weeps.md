@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 30 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Axe Vulnerability 20"
@@ -66,8 +69,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scythe Branch +35 (backswing, deadly d10, reach 15 feet)\n__Damage__  2d8 poison 3d8 + 17 slashing"
+  - name: "**Melee** `pf2:1` Scythe Branch"
+    desc: "+35 (backswing, deadly d10, reach 15 feet)\n__Damage__  2d8 poison 3d8 + 17 slashing"
 
   - name: "Dead Tree"
     desc: "`pf2:1` (concentrate) Until the Tree that Weeps acts, it appears to be a dead tree. It automatically takes 43 as the result of its Deception checks and has a Deception DC of 43 to pass as a dead tree."

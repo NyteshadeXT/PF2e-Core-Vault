@@ -62,14 +62,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Gaff +20 (magical, reach 10 feet, trip, versatile p)\n__Damage__  2d6 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Gaff"
+    desc: "+20 (magical, reach 10 feet, trip, versatile p)\n__Damage__  2d6 + 14 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +20 (agile, reach 10 feet)\n__Damage__  2d6 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+20 (agile, reach 10 feet, unarmed)\n__Damage__  2d6 + 14 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +20 (primal, range 60 feet, water)\n__Damage__  5d6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+20 (primal, range 60 feet, water)\n__Damage__  5d6 bludgeoning"
 
   - name: "Occult Innate Spells"
     desc: "DC 23, attack +13; __5th __  _[[Spells/Mariner's Curse|Mariner's Curse]]_; __2nd __  _[[Spells/Augury|Augury]]_, _[[Spells/Mist|Mist]]_"

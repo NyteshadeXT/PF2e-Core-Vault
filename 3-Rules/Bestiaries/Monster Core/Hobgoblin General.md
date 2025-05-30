@@ -54,7 +54,7 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Composite Shortbow|Composite Shortbow]], [[Equipment/Glaive|+1 Glaive]], [[Equipment/Half Plate|Half Plate]], 20x [[Equipment/Arrows|Arrows]]"
   - name: "General's Cry"
-    desc: "  When a hobgoblin general rolls initiative, as long as they can perceive at least one foe, they can yell a mighty battle cry. The hobgoblin general attempts an Intimidate check to [[Actions/Demoralize|Demoralize]] a single foe within 60 feet as a free action. If successful, any ally with the goblin trait can, as its first action on its first turn of the combat, Stride up to double its speed as a single action."
+    desc: "  When a hobgoblin general rolls initiative, as long as they can perceive at least one foe, they can yell a mighty battle cry. The hobgoblin general attempts an Intimidate check to [[Actions/demoralize|demoralize]] a single foe within 60 feet as a free action. If successful, any ally can, as its first action on its first turn of the combat, Stride up to double its speed as a single action."
 
 abilities_mid:
   - name: ""
@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Glaive +17 (deadly d8, forceful, reach 10 feet)\n__Damage__  1d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Glaive"
+    desc: "+17 (deadly d8, forceful, reach 10 feet)\n__Damage__  1d8 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +15 (brutal, deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+15 (brutal, deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 8 piercing"
 
   - name: "Polearm Critical Specialization"
     desc: "  On a critical hit, the target of the critical hit is moved 5 feet in a direction of the hobgoblin general's choice."

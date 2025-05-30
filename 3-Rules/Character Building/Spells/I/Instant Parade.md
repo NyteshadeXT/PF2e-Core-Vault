@@ -44,5 +44,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "An illusory parade with dozens of participants and performers appears around you, following you as you move. The parade is lively and noisy, providing enough cover and distraction to hide among the crowd. You and other creatures can [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]] inside the crowd, though creatures that disbelieve the illusion still see creatures within as normal.\n\nYou can choose to send the parade off with a 2-action activity, which has the concentrate trait. When you do so, the parade no longer follows you and instead continues traveling in the direction of your choice. The parade travels 100 feet over 1 round and then disappears as the spell is Dismissed. You can otherwise Dismiss the spell normally if you prefer."
-sourcebook: "_Pathfinder Lost Omens: Firebrands_"
+sourcebook: "_Pathfinder Lost Omens Firebrands_"
 ```

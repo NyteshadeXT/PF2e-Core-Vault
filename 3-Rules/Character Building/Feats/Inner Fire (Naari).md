@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You can call the fire inside you into the palm of your hand. You can cast the [[Produce Flame|Produce Flame]] cantrip as an innate primal or arcane spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
+You can call the fire inside you into the palm of your hand. You can cast the [[Spells/Ignition|Ignition]] cantrip as an innate primal or arcane spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

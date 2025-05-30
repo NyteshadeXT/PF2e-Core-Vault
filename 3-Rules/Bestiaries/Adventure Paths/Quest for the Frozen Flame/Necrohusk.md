@@ -52,22 +52,28 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense (Imprecise) 30 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Skitter"
     desc: "`pf2:r`  **Trigger** A creature misses the necrohusk with a melee Strike\n* * *\n\n**Effect** The necrohusk Steps."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d6 + 5 piercing 1d6 poison"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (unarmed)\n__Damage__  2d6 + 5 piercing 1d6 poison"
 
-  - name: "Melee"
-    desc: "`pf2:1` Leg +15 (agile)\n__Damage__  2d4 + 5 piercing"
+  - name: "**Melee** `pf2:1` Leg"
+    desc: "+15 (agile)\n__Damage__  2d4 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Ichor Spit +14 (range increment 30 feet)\n__Damage__  3d8 poison plus vile-innards"
+  - name: "**Ranged** `pf2:1` Ichor Spit"
+    desc: "+14 (range increment 30 feet)\n__Damage__  3d8 poison plus vile-innards"
 
   - name: "Frenzied Assault"
     desc: "`pf2:2`  The necrohusk makes three leg Strikes. If more than one Strike hits the same target, combine the damage of the Strikes that hit the creature and apply the creature's resistances and weaknesses only once."

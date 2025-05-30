@@ -4,7 +4,7 @@ title: "(Protean) Protean Anatomy"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/divine
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.IOk0MRs3f9FrarKL"

@@ -56,25 +56,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Stench|Stench]]"
-    desc: " (aura,olfactory) 30 feet DC 19 Fortitude check\n\n* * *\n"
+    desc: " (aura,olfactory) 30 feet DC 19 Fortitude check\n* * *\n\nA creature entering the aura or starting its turn in the area must succeed at a Fortitude save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] as long as it's sickened on a critical failure). A creature that succeeds at its save or recovers from being sickened is temporarily immune to all stench auras for 1 minute."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +11 (sweep)\n__Damage__  1d10 + 6 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+11 (sweep)\n__Damage__  1d10 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d6 + 6 piercing plus weakening-strike"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d6 + 6 piercing plus weakening-strike"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile)\n__Damage__  1d4 + 6 slashing plus weakening-strike"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, unarmed)\n__Damage__  1d4 + 6 slashing plus weakening-strike"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+8 (thrown 30 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Weakening Strike"
-    desc: "`pf2:1`  A creature hit by a xulgath leader's jaws or claw Strike is [[Conditions/Enfeebled|Enfeebled 1]] (or [[Conditions/Enfeebled|Enfeebled 2]] on a critical hit) for 1 round."
+    desc: "  A creature hit by a xulgath leader's jaws or claw Strike is [[Conditions/Enfeebled|Enfeebled 1]] (or [[Conditions/Enfeebled|Enfeebled 2]] on a critical hit) for 1 round."
  
 ```
 

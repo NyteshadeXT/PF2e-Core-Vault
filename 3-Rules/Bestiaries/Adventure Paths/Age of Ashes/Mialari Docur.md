@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +22 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 11 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+22 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +22 (magical, range increment 60 feet, reload 1)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+22 (magical, range increment 60 feet, reload 1)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 29, attack +23; __3rd __ (3 slots) _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __ (3 slots) _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

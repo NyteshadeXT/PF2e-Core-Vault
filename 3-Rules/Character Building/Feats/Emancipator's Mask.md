@@ -13,7 +13,7 @@ license: OGL
 ---
 # Emancipator's Mask
 ## Feat 20
-### [rare](rare.md "Rare Rarity Trait")[[archetype]][[druid]][[wizard]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[druid]][[wizard]]
 
 **Category** class; 
 

@@ -8,14 +8,14 @@ tags:
   - trait/linguistic
   - trait/mental
   - trait/secret
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.yy5PeDyV7kIWlPOU"
 license: OGL
 ---
 # Influence Regent `pf2:1`
 
-### [[auditory]][[concentrate]][[linguistic]][[3-Rules/trait_reference/M/mental]][[secret]]
+### [[auditory]][[concentrate]][[linguistic]][[mental]][[secret]]
 
 **Category** interaction; 
 

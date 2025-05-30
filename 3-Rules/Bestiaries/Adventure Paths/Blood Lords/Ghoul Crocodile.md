@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/PZO90182_GHOUL_CROCODILE.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Ghoul Crocodile"
 level: "Creature 4"
@@ -61,17 +62,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 ()\n__Damage__  2d8 + 6 piercing plus ghoul-ghoul-fever,grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (unarmed)\n__Damage__  2d8 + 6 piercing plus ghoul-ghoul-fever,grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +14 (agile)\n__Damage__  2d6 + 6 bludgeoning plus ghoul-paralysis"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+14 (agile)\n__Damage__  2d6 + 6 bludgeoning plus ghoul-paralysis"
 
   - name: "[[Bestiary Ability Glossary/Aquatic Ambush|Aquatic Ambush]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster is hiding in water and a creature that hasn't detected it is within the listed number of feet.\n* * *\n\n**Effect** The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a Strike against it. The creature is [[Conditions/Off-Guard|Off-Guard]] against this Strike."
 
   - name: "[[Creature Family Ability Glossary/(Ghoul) Consume Flesh|Consume Flesh]]"
     desc: "`pf2:1` (manipulate) **Requirements** The ghoul crocodile is adjacent to the corpse of a creature that died within the last hour\n* * *\n\n**Effect** The ghoul crocodile devours a chunk of the corpse and regains 2d6 healing Hit Points. It can regain HP from any given corpse only once."
@@ -86,7 +90,7 @@ attacks:
     desc: " (incapacitation,occult) Any living non-elf creature hit by a ghoul crocodile's tail must succeed at a DC 20 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

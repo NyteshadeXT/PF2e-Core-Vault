@@ -56,19 +56,25 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Power of the Haunt"
     desc: "  If a geist is within 100 feet of a haunt that isn't disabled or destroyed, they gain a +2 status bonus to AC and saving throws and deal an additional 1d6 void damage with bite Strikes. A creature that succeeds at a DC 20 Perception check check to Seek or Recall Knowledge about the geist sees that the tendrils from the geist's cloak grow thicker and more agitated the closer it gets to the haunt."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +20 (agile, magical)\n__Damage__  1d10 + 11 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+20 (agile, magical)\n__Damage__  1d10 + 11 piercing"
 
   - name: "Terrifying Laugh"
-    desc: "`pf2:1` (divine,emotion,fear,mental) **Frequency** once per minute\n* * *\n\n**Effect** The geist unleashes soul-piercing laughter in a @Template[emanation|distance:20], lasting until the beginning of their next turn. Any creature in the area or entering it must succeed at a DC 26 Will check save or be overcome with panicked laughter, becoming [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). A creature attempts only one save per Terrifying Laugh, and a creature that succeeds on its saving throw is temporarily immune for 24 hours."
+    desc: "`pf2:1` (divine,emotion,fear,mental) **Frequency** once per minute\n* * *\n\n**Effect** The geist unleashes soul-piercing laughter in a 20-foot emanation, lasting until the beginning of their next turn. Any creature in the area or entering it must succeed at a DC 26 Will check save or be overcome with panicked laughter, becoming [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). A creature attempts only one save per Terrifying Laugh, and a creature that succeeds on its saving throw is temporarily immune for 24 hours."
 
   - name: "Wrath of the Haunt"
     desc: "`pf2:2` (divine) **Frequency** once per round\n\n**Requirements** The geist is within 100 feet of an active haunt\n* * *\n\n**Effect** The haunt feeds necromantic power into the geist, becoming inactive until the end of the geist's next turn and deactivating the power of the haunt aura until the haunt becomes active again. The edges of the geist's cloak transform into whip-like tendrils that appear to be made of fire and smoke and lash out at nearby creatures. Any living creature within 10 feet of the geist takes 4d10 fire damage plus 4d6 void damage (DC 28 Reflex check save)."

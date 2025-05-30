@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Death Knell|Death Knell]]
+Granted by [[Spells/Death Knell|Death Knell]]
 
 You gain 10 temporary HP and a +1 status bonus to attack and damage rolls for 10 minutes.
 

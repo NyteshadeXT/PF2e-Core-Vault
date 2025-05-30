@@ -60,14 +60,17 @@ abilities_mid:
   - name: "Voice Imitation"
     desc: "  A little man in the woods can mimic the sounds of a person in distress by attempting a Deception check to Lie. The little man in the woods has a +4 circumstance bonus to this check."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +17 (finesse, nonlethal)\n__Damage__  2d6 + 7 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+17 (finesse, nonlethal, unarmed)\n__Damage__  2d6 + 7 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +18 (deadly d10, magical, range increment 60 feet)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+18 (deadly d10, magical, range increment 60 feet)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Adopt Guise"
     desc: "`pf2:2` (illusion,mental,occult) Playing on the expectations of surrounding creatures, the little man in the woods adopts the guise of a Small or Medium living person that matches the voice he imitates. This guise is subjective and entirely in the mind of each creature around him.\n\nA creature that doesn't believe the little man in the woods' voice imitation sees the little man in the woods as he truly is and isn't fooled by Adopt Guise."
@@ -76,7 +79,7 @@ attacks:
     desc: "`pf2:1`  **Requirements** The little man in the woods has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The little man in the woods tightens his grip around the creature's neck, extending the Grab, dealing 2d6+3 bludgeoning damage with a DC 24 Fortitude check, and strangling the creature for as long as it remains grabbed or restrained. A strangled creature can't speak, which prevents it from casting spells with a verbal component or activating items with a command component. The strangled creature must hold its breath or start suffocating."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

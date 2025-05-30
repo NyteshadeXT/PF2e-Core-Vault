@@ -4,8 +4,7 @@ title: "Shove"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/attack
-  - trait/skill
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731"
@@ -13,7 +12,7 @@ license: ORC
 ---
 # Shove `pf2:1`
 
-### [[attack]][[skill]]
+### [[attack]]
 
 **Category** offensive; 
 

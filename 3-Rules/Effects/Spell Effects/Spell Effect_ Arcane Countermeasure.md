@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Granted by [[Arcane Countermeasure|Arcane Countermeasure]]
+Granted by [[Spells/Arcane Countermeasure|Arcane Countermeasure]]
+
+You gain a +2 status bonus to any saving throws, skill checks, AC, or DC against the triggering spell.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

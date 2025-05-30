@@ -21,7 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Character Guide"
+source: "Pathfinder Lost Omens Character Guide"
 name: "Charming Scoundrel"
 level: "Creature 4"
 
@@ -41,7 +41,7 @@ skills:
     desc: "Acrobatics: +12, Athletics: +7, Deception: +11, Diplomacy: +9, Intimidation: +9, Medicine: +9, Performance: +9, Society: +7, Stealth: +10, Thievery: +10, Theatre Lore: +7"
 abilityMods: [1, 4, 2, 1, 0, 3]
 speed: 25 feet
-sourcebook: "_Pathfinder Lost Omens: Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Character Guide_"
 ac: 21
 armorclass:
   - name: AC
@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +12 (agile, versatile s)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+12 (agile, versatile s)\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sap +9 (agile, nonlethal)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Sap"
+    desc: "+9 (agile, nonlethal)\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +12 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+12 (range increment 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Advancing Flourish"
     desc: "`pf2:2`  The charming scoundrel Strides twice. If they end their movement within melee reach of an enemy, they can [[Actions/Feint|Feint]]."

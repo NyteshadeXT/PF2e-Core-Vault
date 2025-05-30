@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +31 (agile, finesse, magical, unarmed)\n__Damage__  2d6 + 13 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+31 (agile, finesse, magical, unarmed)\n__Damage__  2d6 + 13 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +31 (magical, range increment 120 feet, reload 1)\n__Damage__  3d8 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+31 (magical, range increment 120 feet, reload 1)\n__Damage__  3d8 + 8 piercing"
 
   - name: "Cunning Discernment"
     desc: "`pf2:1`  Skartitch attempts a Recall Knowledge check against an opponent using the standard DC for a creature of that level. On a success, that opponent is [[Conditions/Off-Guard|Off-Guard]] against Skartitch's attacks until the start of her next turn; on a critical success, the opponent is off-guard against Skartitch's attacks for 1 minute."

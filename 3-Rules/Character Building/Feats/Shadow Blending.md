@@ -14,7 +14,7 @@ license: OGL
 ---
 # Shadow Blending `pf2:r`
 ## Feat 1
-### [[fetchling]][[illusion]][[occult]][[3-Rules/trait_reference/shadow]]
+### [[fetchling]][[illusion]][[occult]][[shadow]]
 
 **Category** ancestry; 
 
@@ -27,5 +27,5 @@ license: OGL
 
 You draw shadows close to create a shroud. Increase the DC of the flat check by 2.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

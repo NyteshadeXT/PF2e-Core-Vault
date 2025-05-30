@@ -72,11 +72,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +31 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 8 piercing plus cruel-anatomist"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+31 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 8 piercing plus cruel-anatomist"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Greater Acid Flask +31 (range increment 30 feet, splash)\n__Damage__  1 acid 3d6 acid 3 acid"
+  - name: "**Ranged** `pf2:1` Greater Acid Flask"
+    desc: "+31 (range increment 30 feet, splash)\n__Damage__  1 acid 3d6 acid 3 acid"
 
   - name: "Bomber"
     desc: "  When throwing an alchemical bomb with the splash trait, the Thresholder Hermeticist can deal splash damage to only their primary target instead of the usual splash area."

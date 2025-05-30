@@ -71,11 +71,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +10 (finesse)\n__Damage__  1d8 + 4 slashing plus curse-of-the-werebat"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+10 (finesse)\n__Damage__  1d8 + 4 slashing plus curse-of-the-werebat"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +10 (agile, finesse)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+10 (agile, finesse)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Change Shape"
     desc: "`pf2:1` (concentrate,polymorph,primal) Human with Fist attack for 1d4+2 bludgeoning damage and no fly Speed. In hybrid form, their Speed changes to 25 feet and fly 25 feet."

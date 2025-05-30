@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +12 (agile, reach 10 feet)\n__Damage__  2d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+12 (agile, reach 10 feet)\n__Damage__  2d6 + 4 bludgeoning"
 
   - name: "Innate Divine Spells"
     desc: "DC 19, attack +11; __5th __  _[[Spells/Mind Probe|Mind Probe]]_"

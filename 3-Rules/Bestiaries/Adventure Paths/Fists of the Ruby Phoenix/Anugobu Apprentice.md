@@ -64,17 +64,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hammer +8 (agile)\n__Damage__  1d8 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Hammer"
+    desc: "+8 (agile)\n__Damage__  1d8 + 2 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Chisel +8 (agile, parry, versatile b)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Chisel"
+    desc: "+8 (agile, parry, versatile b)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +10 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+10 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hammer +12 (agile, thrown 20 ft.)\n__Damage__  1d8 + 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Hammer"
+    desc: "+12 (agile, thrown 20 ft.)\n__Damage__  1d8 + 2 bludgeoning"
 
   - name: "Innate Occult Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Mending|Mending (At Will)]]_; __1st __  _[[Spells/Create Water|Create Water]]_, _[[Spells/Carryall|Floating Disk]]_, _[[Spells/Phantasmal Minion|Unseen Servant (At Will)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

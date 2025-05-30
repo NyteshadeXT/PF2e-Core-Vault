@@ -20,5 +20,5 @@ license: OGL
 
 Over the course of your long, long existence, you've had a chance to practice with traditional ghoran weapons. You're trained with the glaive, greatclub, hatchet, scythe, and sickle. In addition, you gain access to all uncommon ghoran weapons. For the purpose of determining your proficiency, martial ghoran weapons are simple weapons and advanced ghoran weapons are martial weapons.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

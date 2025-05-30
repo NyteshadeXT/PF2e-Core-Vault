@@ -66,14 +66,17 @@ abilities_mid:
   - name: "Searing Aura"
     desc: " (aura,fire) 10 feet. The fire-eye zombie emits an aura of heat that causes open wounds to sizzle.\n\nAny living creature that starts its turn within 10 feet of the zombie and isn't at full HP must succeed at a DC 17 Fortitude check save or take 1d4 fire damage as its wounds burn.\n\nCreatures critically hit by the fire-eye zombie's Strikes must attempt this saving throw immediately."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spiked Club +12 (reach 10 feet)\n__Damage__  1d8 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Spiked Club"
+    desc: "+12 (reach 10 feet)\n__Damage__  1d8 + 7 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Eye +12 (brutal, range increment 30 feet)\n__Damage__  1d4 + 7 bludgeoning 1d4 fire"
+  - name: "**Ranged** `pf2:1` Eye"
+    desc: "+12 (brutal, range increment 30 feet)\n__Damage__  1d4 + 7 bludgeoning 1d4 fire"
 
   - name: "Eye Throwing"
     desc: "  A fire-eye zombie can launch its eye at foes. While its eye is out of its head, the fire-eye zombie is [[Conditions/Blinded|Blinded]].\n\nAt the end of its turn, a fire-eye zombie's eye flies back into its eye socket."

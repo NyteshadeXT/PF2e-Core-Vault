@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +17 (agile)\n__Damage__  2d8 + 3 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+17 (agile)\n__Damage__  2d8 + 3 bludgeoning plus improved-grab"
 
   - name: "Occult Innate Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Confusion|Confusion]]_, _[[Spells/Confusion|Confusion]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Blindness|Blindness]]_, _[[Spells/Force Barrage|Magic Missile]]_; __2nd __  _[[Spells/Darkness|Darkness]]_, _[[Spells/Darkness|Darkness]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"

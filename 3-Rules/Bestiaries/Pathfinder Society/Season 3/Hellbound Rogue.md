@@ -61,13 +61,16 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Dagger|Dagger]], [[Equipment/Thieves' Toolkit|Thieves' Tools]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +7 (agile, finesse, unholy)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+7 (agile, finesse, unholy)\n__Damage__  1d4 + 2 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The Hellbound rogue deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

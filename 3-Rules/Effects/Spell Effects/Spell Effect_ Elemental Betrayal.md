@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Elemental Betrayal|Elemental Betrayal]]
+Granted by [[Spells/Elemental Betrayal|Elemental Betrayal]]
 
 When you Cast this Spell, choose air, earth, metal, fire, water, or wood. The target gains weakness to that trait.
 

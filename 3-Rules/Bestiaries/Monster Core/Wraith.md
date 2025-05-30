@@ -56,16 +56,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Sunlight Powerlessness"
     desc: "  While in sunlight, a wraith is [[Conditions/Blinded|Blinded]] and [[Conditions/Slowed|Slowed 2]]."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wraith Touch +17 (agile, divine, finesse, void)\n__Damage__  3d8 void"
+  - name: "**Melee** `pf2:1` Wraith Touch"
+    desc: "+17 (agile, divine, finesse, void)\n__Damage__  3d8 void"
 
   - name: "Grip of Fear"
     desc: "`pf2:2` (emotion,fear,mental,nonlethal) The wraith reaches into an adjacent creature's chest, gripping their heart. The target takes 6d6 mental damage with a DC 24 Will check save. On a critical failure, the creature is also [[Conditions/Paralyzed|Paralyzed]] until the start of the wraith's next turn."

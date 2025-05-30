@@ -58,22 +58,25 @@ abilities_top:
   - name: "[[Actor.UFffYNzK9swYaOAF.Item.B0SPjSFAOw4yPnrw|Sea Speech]]"
     desc: "  A sedacthy speaking Thalassic can be understood by any animal that has a swim Speed or the amphibious or aquatic trait. By spending a week regularly interacting with such an animal, the sedacthy can make it permanently helpful."
 
+  - name: "[[Bestiary Ability Glossary/Wavesense|Wavesense (Imprecise) 30 feet]]"
+    desc: "  This sense allows a monster to feel vibrations caused by movement through a liquid. It's an imprecise sense with a limited range (listed in the ability). Wavesense functions only if monster and the subject are in the same body of liquid, and only if the subject is moving through the liquid."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 ()\n__Damage__  1d4 bleed 1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (unarmed)\n__Damage__  1d4 bleed 1d4 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +10 (agile)\n__Damage__  1d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+10 (agile, unarmed)\n__Damage__  1d6 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +10 ()\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+10 ()\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +10 (thrown 20 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+10 (thrown 20 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "[[Actor.UFffYNzK9swYaOAF.Item.xkke602pekBofSGw|Shared Feast]]"
     desc: "`pf2:2`  The sedacthy makes a jaws Strike. If it hits, an ally of their choice can spend a reaction to make a jaws Strike against the same target. Allies with beaks or similar attacks can use those instead of jaws."

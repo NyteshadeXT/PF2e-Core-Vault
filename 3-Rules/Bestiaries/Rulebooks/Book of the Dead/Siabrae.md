@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/PZO2110 SIABRAE.webp| ]]
 source: "Pathfinder Book of the Dead"
 name: "Siabrae"
 level: "Creature 16"
@@ -53,6 +54,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Staff of Nature's Vengeance|Staff of Nature's Vengeance]], [[Equipment/Scroll of 6th-rank Spell|Scroll of True Seeing (Level 6)]]"
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Siabrae) Miasma|Miasma]]"
@@ -61,14 +65,17 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Siabrae) Rejuvenation|Rejuvenation]]"
     desc: " (primal) When a siabrae is destroyed, they can attempt a DC 10 Flat check (they automatically succeed if they're standing on blighted or diseased terrain, and automatically fail if they're standing on sacred ground). If the flat check succeeds, the siabrae's body crumbles to dust and absorbs into the earth. After 1d10 days, the siabrae's body reforms from a mass of unworked stone large enough to create a new body; this stone is in a random location within 1d10 miles of where the siabrae was destroyed. The siabrae emerges from the stone with a peal of thunder, though without any of their gear."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stone Antler +28 (magical)\n__Damage__  5d6 + 12 bludgeoning plus siabrae-stony-shards"
+  - name: "**Melee** `pf2:1` Stone Antler"
+    desc: "+28 (magical)\n__Damage__  5d6 + 12 bludgeoning plus siabrae-stony-shards"
 
   - name: "Primal Prepared Spells"
-    desc: "DC 41, attack +33; __8th __  _[[Spells/Earthquake|Earthquake]]_, _[[Spells/Polar Ray|Polar Ray]]_; __7th __  _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Execute|Finger of Death]]_, _[[Spells/Mask of Terror|Mask of Terror]]_; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Petrify|Flesh to Stone]]_, _[[Spells/Tangling Creepers|Tangling Creepers]]_; __5th __  _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Nature's Pathway|Tree Stride]]_; __4th __  _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Rusting Grasp|Rusting Grasp]]_, _[[Spells/Solid Fog|Solid Fog]]_; __3rd __  _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __  _[[Spells/Gecko Grip|Spider Climb]]_, _[[Spells/Water Walk|Water Walk]]_, _[[Spells/Web|Web]]_; __1st __  _[[Spells/Tailwind|Longstrider]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(8th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 41, attack +33; __8th __  _[[Spells/Earthquake|Earthquake]]_, _[[Spells/Polar Ray|Polar Ray]]_; __7th __  _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Execute|Finger of Death]]_, _[[Spells/Mask of Terror|Mask of Terror]]_; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Petrify|Flesh to Stone]]_, _[[Spells/Tangling Creepers|Tangling Creepers]]_; __5th __  _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Nature's Pathway|Tree Stride]]_; __4th __  _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Rusting Grasp|Rusting Grasp]]_, _[[Spells/Solid Fog|Solid Fog]]_; __3rd __  _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __  _[[Spells/Gecko Grip|Spider Climb]]_, _[[Spells/Water Walk|Water Walk]]_, _[[Spells/Web|Web]]_; __1st __  _[[Spells/Tailwind|Longstrider]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(8th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Primal Focus Spells"
     desc: "3 Focus Points, DC 41, attack +33; __8th __  _[[Spells/Untamed Shift|Wild Morph]]_, _[[Spells/Untamed Form|Wild Shape]]_"

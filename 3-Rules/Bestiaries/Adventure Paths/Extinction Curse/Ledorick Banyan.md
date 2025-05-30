@@ -54,7 +54,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Ledorick gains an additional reaction at the beginning of each of his turns that he can use only for an Attack of Opportunity.\n\n* * *\n"
+    desc: "`pf2:r`  Ledorick gains an additional reaction at the beginning of each of his turns that he can use only for an Attack of Opportunity.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Dueling Riposte"
     desc: "`pf2:r`  **Requirements** Ledorick is using Dueling Parry\n\n**Trigger** A creature within Ledorick's reach critically fails a Strike against him\n* * *\n\n**Effect** Ledorick makes a melee Strike against the triggering creature or attempts to [[Actions/Disarm|Disarm]] the triggering creature."
@@ -65,14 +65,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +29 (magical, versatile p)\n__Damage__  3d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+29 (magical, versatile p)\n__Damage__  3d8 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +27 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+27 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 11 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +27 (deadly 2d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+27 (deadly 2d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 11 piercing"
 
   - name: "Dueling Parry"
     desc: "`pf2:1`  **Requirements** Ledorick has a single one-handed melee weapon in one hand and has his other hand free\n* * *\n\n**Effect** Ledorick gains a +2 circumstance bonus to AC until the start of his next turn."

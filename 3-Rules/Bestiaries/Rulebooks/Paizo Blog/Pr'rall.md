@@ -64,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` +1 Striking Temple Sword +20 (trip)\n__Damage__  2d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` +1 Striking Temple Sword"
+    desc: "+20 (trip)\n__Damage__  2d8 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` +1 Temple Sword +20 (trip)\n__Damage__  1d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` +1 Temple Sword"
+    desc: "+20 (trip)\n__Damage__  1d8 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bola +18 (nonlethal, ranged trip, thrown 20 ft.)\n__Damage__  1d6 + 7 bludgeoning"
+  - name: "**Ranged** `pf2:1` Bola"
+    desc: "+18 (nonlethal, ranged trip, thrown 20 ft.)\n__Damage__  1d6 + 7 bludgeoning"
 
   - name: "Double Slice"
     desc: "`pf2:2`  **Requirements** You are wielding two melee weapons, each in a different hand.\n* * *\n\n**Effect** Pr'rall lashes out at a foe with both weapons. Make two Strikes, one with each of his two melee weapons, each using his current multiple attack penalty. Both Strikes must have the same target. If the second Strike is made with a weapon that doesn't have the agile trait, it takes a -2 penalty. If both attacks hit, combine their damage, and then add any other applicable effects from both weapons. Add any precision damage only once. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating multiple attack penalty."

@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +7 (agile, finesse, magical, reach 0 feet, versatile s)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+7 (agile, finesse, magical, reach 0 feet, versatile s)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 17, attack +9; __4th __  _[[Spells/Read Omens|Read Omens]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Mending|Mending (x3)]]_, _[[Spells/Sanctuary|Sanctuary]]_"
 
   - name: "Electrical Burst"
-    desc: "`pf2:2` (divine,electricity) The arbiter releases an electrical burst from its body that deals 3d6 electricity damage to all creatures in a @Template[emanation|distance:10], with a DC 17 Reflex check save. The arbiter is then [[Conditions/Stunned|Stunned]] for 24 hours."
+    desc: "`pf2:2` (divine,electricity) The arbiter releases an electrical burst from its body that deals 3d6 electricity damage to all creatures in a 10-foot emanation, with a DC 17 Reflex check save. The arbiter is then [[Conditions/Stunned|Stunned]] for 24 hours."
  
 ```
 

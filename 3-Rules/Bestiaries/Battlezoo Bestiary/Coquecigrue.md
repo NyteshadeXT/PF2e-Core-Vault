@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +18 (fatal d10)\n__Damage__  2d8 + 8 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+18 (fatal d10)\n__Damage__  2d8 + 8 piercing"
 
   - name: "Mind-Bending Warble"
     desc: "`pf2:2` (auditory,incapacitation,mental,primal) The coquecigrue emits a mind-splitting warble, shredding the sanity of any creatures in a 30-foot burst and causing them to lose their grasp on reality. Each creature in the area must make a DC 26 Will saving throw.\n\nThe coquecigrue can't use Mind-Bending Warble again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected and is immune to Mind-Bending Warble for 24 hours.\n\n**Success** The creature takes 3d8 mental damage.\n\n**Failure** The creature takes 6d8 mental damage and is [[Conditions/Confused|Confused]] for 1 round.\n\n**Critical Failure** The creature takes 12d8 mental damage and is confused for 1 minute. A creature that critically fails its save while already confused is driven insane, becoming permanently confused. Only a 6th-level or higher _[[Spells/Restoration|Restoration]]_ spell can remove this condition."

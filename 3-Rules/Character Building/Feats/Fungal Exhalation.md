@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** spore order
 * * *
-You can conjure toxic spores to infect enemies. You gain the [[3-Rules/Character Building/Spells/F/Fungal Exhalation|Fungal Exhalation]] order spell.
+You can conjure toxic spores to infect enemies. You gain the [[Spells/Fungal Exhalation|Fungal Exhalation]] order spell.
 
 *Source: Pathfinder #202: Severed at the Root*
 *ORC*

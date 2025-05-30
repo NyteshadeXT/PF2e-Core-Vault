@@ -13,7 +13,7 @@ license: ORC
 ---
 # Furious Vengeance `pf2:r`
 ## Feat 16
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

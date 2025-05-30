@@ -12,7 +12,7 @@ license: OGL
 ---
 # Artokus's Fire `pf2:0`
 ## Feat 6
-### [rare](rare.md "Rare Rarity Trait")[[additive2]][[alchemist]]
+### [rare](rare "Rare Rarity Trait")[[additive2]][[alchemist]]
 
 **Category** class; 
 
@@ -21,7 +21,7 @@ license: OGL
 
 **Frequency** once per round
 
-**Trigger** You use [[Feats/Advanced Alchemy|Advanced Alchemy]] to craft an [[3-Rules/Character Building/Equipment/A/Alchemist's Fire (Lesser)|Alchemist's Fire]], and that bomb's level is at least 2 levels lower than your [[Class Features/Advanced Alchemy|Advanced Alchemy]] level.
+**Trigger** You use [[Feats/Advanced Alchemy|Advanced Alchemy]] to craft an [[Equipment/Alchemist's Fire (Lesser)|Alchemist's Fire]], and that bomb's level is at least 2 levels lower than your [[Class Features/Advanced Alchemy|Advanced Alchemy]] level.
 
 * * *
 
@@ -33,5 +33,5 @@ A creature taking persistent fire damage from the alchemist's fire requires two 
 
 The enhanced alchemist's fire burns even underwater, and any attempts to end the persistent damage by using water have no effect.
 
-*Source: Pathfinder Lost Omens: Legends*
+*Source: Pathfinder Lost Omens Legends*
 *OGL*

@@ -26,7 +26,7 @@ As an exorcist, you do more than just collect spirits: you also help rid them of
 
 You can also learn abilities that let you purify a spirit in your _spirit dwelling_ immediately in a cathartic surge, granting you a helpful effect as they depart for the afterlife. Any actions you gain from the exorcist archetype gain either the divine or occult trait, depending on whether you used Occultism or Religion to qualify for Exorcist Dedication. [[Actions/Spirit's Mercy|Spirit's Mercy]] is the simplest of the purifications.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Exorcist|Exorcist]] archetype.
+[[PF2e Journals/Archetypes/Exorcist|Exorcist]]
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

@@ -31,7 +31,7 @@ trait_02: [[dinosaur]]
 modifier: 12
 perception:
   - name: "Perception"
-    desc: "+12; "
+    desc: "+12; Low-Light Vision, Scent (Imprecise) 30 Feet"
 languages: ""
 skills:
   - name: "Skills"
@@ -55,18 +55,18 @@ abilities_top:
     desc: "  [[Conditions/Frightened|Frightened]] creatures are [[Conditions/Off-Guard|Off-Guard]] to a majungasaurus."
 
   - name: "Startling Roar"
-    desc: "  When the majungasaurus rolls initiative using Stealth, it can attempt to [[Actions/Demoralize|Demoralize]] each creature within 30 feet as a free action. Regardless of the effect, each creature is then temporarily immune for 1 hour."
+    desc: "  When the majungasaurus rolls initiative using Stealth, it can attempt to [[Actions/demoralize|demoralize]] each creature within 30 feet as a free action. Regardless of the effect, each creature is then temporarily immune for 1 hour."
 
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 (reach 15 feet)\n__Damage__  2d8 + 6 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (reach 15 feet, unarmed)\n__Damage__  2d8 + 6 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +16 (agile)\n__Damage__  2d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+16 (agile, unarmed)\n__Damage__  2d6 + 6 bludgeoning"
 
   - name: "Crack Bones"
     desc: "`pf2:1`  **Requirements** The majungasaurus has a creature [[Conditions/Grabbed|Grabbed]] in its jaws\n* * *\n\n**Effect** The majungasaurus deals that creature 3d8 bludgeoning damage (DC 24 Fortitude check save). A creature that fails this save is [[Conditions/Clumsy|Clumsy 1]] until it recovers to full Hit Points."

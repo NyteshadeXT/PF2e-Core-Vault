@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Hyldarf's Fang|Hyldarf's Fang]]
+Granted by [[Equipment/Hyldarf's Fang|Hyldarf's Fang]]
 
-You call upon Hyldarf's power to gain the magic of a linnorm for a brief time. For 1 minute, you gain the effects of [[3-Rules/Character Building/Spells/F/Fly|Fly]], [[Unfettered Movement|Unfettered Movement]], and [[Truesight|Truesight]] as well as fire resistance 20.
+You gain fire resistance 20.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

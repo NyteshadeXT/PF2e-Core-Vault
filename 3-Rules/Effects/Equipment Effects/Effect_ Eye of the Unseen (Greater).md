@@ -16,7 +16,9 @@ license: OGL
 
 
 
-While wearing the eye, you gain a +2 item bonus to visual Perception checks.
+Granted by [[Equipment/Eye of the Unseen (Greater)|Eye of the Unseen (Greater)]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+You gain a +2 item bonus to visual Perception checks.
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

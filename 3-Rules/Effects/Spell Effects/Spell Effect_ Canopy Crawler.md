@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Canopy Crawler|Canopy Crawler]]
+Granted by [[Spells/Canopy Crawler|Canopy Crawler]]
 
-The target gains a climb Speed equal to their highest Speed.
+You gain a climb Speed equal to your highest Speed.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

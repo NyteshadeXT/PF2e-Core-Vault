@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Persistent Creation
 * * *
-Your magic is drawn to your persistent creations. While you are within 30 feet of and have line of effect to your persistent creation, you can use it as the origin point for your line or cone spells. For instance, a [[Lightning Bolt|Lightning Bolt]] could originate from the persistent creation rather than from you.
+Your magic is drawn to your persistent creations. While you are within 30 feet of and have line of effect to your persistent creation, you can use it as the origin point for your line or cone spells. For instance, a [[Spells/Lightning Bolt|Lightning Bolt]] could originate from the persistent creation rather than from you.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

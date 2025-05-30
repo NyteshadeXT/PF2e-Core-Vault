@@ -18,7 +18,7 @@ license: OGL
 
 Granted by [[Feats/Thoughtform Summoning|Thoughtform Summoning]]
 
-Whenever you summon a creature, you can choose to instead create a psychic construct of that creature. This grants it resistance to physical damage equal to half its level and weakness 5 to force and mental damage.
+You gain resistance to physical damage equal to half its level and weakness 5 to force and mental damage.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

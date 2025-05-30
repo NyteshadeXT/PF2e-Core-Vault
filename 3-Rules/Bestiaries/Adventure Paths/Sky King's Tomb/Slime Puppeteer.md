@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 Feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Telepathic Bond"
     desc: "  A slime puppeteer maintains a strong telepathic bond with the alghollthu that created it. This bond has planetary reach, but the puppeteer is blind and deaf while accessing this bond."
 
@@ -61,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +15 (agile, reach 10 feet)\n__Damage__  1d6 + 7 piercing 2d6 poison"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+15 (agile, reach 10 feet)\n__Damage__  1d6 + 7 piercing 2d6 poison"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +15 (agile, nonlethal)\n__Damage__  1d4 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+15 (agile, nonlethal)\n__Damage__  1d4 + 7 bludgeoning"
 
   - name: "Envelop"
     desc: "`pf2:1` (attack,incapacitation) The puppeteer wraps their body around an adjacent target (DC 24 Reflex check negates). The target is [[Conditions/Restrained|Restrained]] and the puppeteer is [[Conditions/Immobilized|Immobilized]]. The puppeteer can make only tail Strikes against the restrained creature and can only engulf a single Medium or Large creature. The puppeteer can end an Envelop as a free action."

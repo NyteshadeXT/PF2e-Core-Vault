@@ -16,7 +16,7 @@ license: ORC
 ---
 # Dragon Roar `pf2:1`
 ## Feat 6
-### [[auditory]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[monk]]
+### [[auditory]][[emotion]][[fear]][[mental]][[monk]]
 
 **Category** class; 
 
@@ -28,7 +28,7 @@ license: ORC
 
 * * *
 
-You bellow, instilling fear in your enemies. Enemies within a @Template\[emanation|distance:15\] must succeed at a Will check save against your Intimidation DC or be [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure). When a creature frightened by the roar begins its turn adjacent to you, it can't reduce its frightened value below 1 on that turn.
+You bellow, instilling fear in your enemies. Enemies within a 15-foot emanation must succeed at a Will check save against your Intimidation DC or be [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure). When a creature frightened by the roar begins its turn adjacent to you, it can't reduce its frightened value below 1 on that turn.
 
 Your first attack that hits a frightened creature after you roar and before the end of your next turn gains a +4 circumstance bonus to damage.
 

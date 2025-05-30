@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Class Features/Ash|Ash]]
+Granted by [[Class Features/Ashes|Ashes]]
 
 ### Curse of Creeping Ashes
 

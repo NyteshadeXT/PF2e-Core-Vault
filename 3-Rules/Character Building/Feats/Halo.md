@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You have a halo of light and goodness that sheds light with the effects of a divine [[3-Rules/Character Building/Spells/L/Light|Light]] cantrip. A cantrip is heightened to a spell rank equal to half your level rounded up. You can Sustain to suppress or reestablish the halo.
+You have a halo of light and goodness that sheds light with the effects of a divine [[Spells/Light|Light]] cantrip. A cantrip is heightened to a spell rank equal to half your level rounded up. You can Sustain to suppress or reestablish the halo.
 
 *Source: Pathfinder Player Core*
 *ORC*

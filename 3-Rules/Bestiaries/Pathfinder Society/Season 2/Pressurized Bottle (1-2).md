@@ -52,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Brittle Shatter"
-    desc: "`pf2:r` (attack) **Trigger** A creature tries to pick up or move the potion\n* * *\n\n**Effect** The bottle shatters into pieces that fill a @Template[burst|distance:5]. The burst deals 1 piercing damage (DC 19 Reflex check save). A creature who takes any damage is exposed to fermented potion."
+    desc: "`pf2:r` (attack) **Trigger** A creature tries to pick up or move the potion\n* * *\n\n**Effect** The bottle shatters into pieces that fill a 5-foot burst. The burst deals 1 piercing damage (DC 19 Reflex check save). A creature who takes any damage is exposed to fermented potion."
 
   - name: "Fermented Poison"
     desc: "passive (poison) **Saving Throw** Fortitude\n\n**Maximum Duration** 4 hours\n\n**Stage 1** 1d4 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 hour)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 hour)\n\n**Stage 3** 2d6 poison damage and clumsy 2 (1 hour)"

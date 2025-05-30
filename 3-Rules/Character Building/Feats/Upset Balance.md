@@ -27,5 +27,5 @@ license: OGL
 
 You lean into your foe's attack, using the weight of your body and armor to send them reeling. Attempt an Athletics check check against the creature's Reflex DC. On a success, the target becomes [[Conditions/Clumsy|Clumsy 1]] until the end of its next turn ([[Conditions/Clumsy|Clumsy 2]] on a critical success). If you are anchored, you gain a +2 circumstance bonus to this check.
 
-*Source: Pathfinder Lost Omens: Highhelm*
+*Source: Pathfinder Lost Omens Highhelm*
 *OGL*

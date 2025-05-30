@@ -16,7 +16,7 @@ license: ORC
 ---
 # Scare to Death `pf2:1`
 ## Feat 15
-### [[emotion]][[3-Rules/trait_reference/F/fear]][[general]][[incapacitation]][[skill]]
+### [[emotion]][[fear]][[general]][[incapacitation]][[skill]]
 
 **Category** skill; 
 
@@ -28,7 +28,7 @@ You can frighten foes so much, they might die. Attempt an Intimidation check che
 
 * * *
 
-**Critical Success** The target must attempt a Fortitude save against your Intimidation DC. On a critical failure, it dies. On any other result, it becomes [[Conditions/Frightened|Frightened 2]] and is [[Conditions/Fleeing|Fleeing]] for 1 round. The critical failure effect has the death trait.
+**Critical Success** The target must attempt a Fortitude check save against your Intimidation DC. On a critical failure, it dies. On any other result, it becomes [[Conditions/Frightened|Frightened 2]] and is [[Conditions/Fleeing|Fleeing]] for 1 round. The critical failure effect has the death trait.
 
 **Success** The target becomes frightened 2.
 

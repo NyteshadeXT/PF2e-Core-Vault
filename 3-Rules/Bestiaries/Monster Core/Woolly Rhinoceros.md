@@ -56,22 +56,22 @@ abilities_mid:
     desc: "  The woolly rhinoceros treats environmental cold effects as if they were one step less extreme."
 
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +16 (reach 10 feet)\n__Damage__  2d12 + 6 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+16 (reach 10 feet, unarmed)\n__Damage__  2d12 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +16 ()\n__Damage__  2d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+16 (unarmed)\n__Damage__  2d8 + 6 bludgeoning"
 
   - name: "Rhinoceros Charge"
     desc: "`pf2:2`  The woolly rhinoceros Strides twice, then makes a horn Strike. As long as the woolly rhinoceros moved at least 20 feet, the Strike's damage increases to 3d12+6 piercing damage. A Medium or smaller creature struck by this attack must succeed at a DC 24 Reflex check save or be automatically [[Actions/Shove|Shoved]] back 5 feet and knocked [[Conditions/Prone|Prone]] by the force of the blow."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, foot, DC 21 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Medium or smaller, foot, DC 21 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

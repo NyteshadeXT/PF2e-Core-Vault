@@ -60,16 +60,16 @@ abilities_mid:
     desc: " (aura,fire) 10 feet. An munsahir's skin radiates heat like a forge's fire. A creature that starts its turn in the area must succeed at a DC 19 Fortitude check save or become [[Conditions/Fatigued|Fatigued]] while it remains in the area. Creatures immune to environmental heat effects or with any fire resistance are immune."
 
   - name: "Self-Destruct"
-    desc: "  When the munsahir is reduced to 0 HP, their armor explodes at the start of their next turn, dealing 5d6 fire damage in a @Template[emanation|distance:10] (DC 19 Reflex check)."
+    desc: "  When the munsahir is reduced to 0 HP, their armor explodes at the start of their next turn, dealing 5d6 fire damage in a 10-foot emanation (DC 19 Reflex check)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hammer Gauntlet +12 (free-hand, shove)\n__Damage__  1d12 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Hammer Gauntlet"
+    desc: "+12 (free-hand, shove)\n__Damage__  1d12 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flame Jet +12 (brutal, fire, range increment 20 feet)\n__Damage__  1d6 fire 1d6 fire"
+  - name: "**Ranged** `pf2:1` Flame Jet"
+    desc: "+12 (brutal, fire, range increment 20 feet)\n__Damage__  1d6 fire 1d6 fire"
 
   - name: "Blazing Rush"
     desc: "`pf2:2`  The gatecrasher Strides up to double their Speed in a straight line. They can pass through enemy spaces and make a hammer gauntlet Strike against each creature they move through. Blazing Rush can't be used again for 1d4 rounds."

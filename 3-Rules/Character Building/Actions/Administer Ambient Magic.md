@@ -19,7 +19,11 @@ license: ORC
 
 
 
-<p><strong>Frequency</strong> once per hour</p><hr /><p><strong>Effect</strong> Your ostilli pulses a calm lavender color as it converts stored magic into a curative balm. You regain @Damage[(2*(floor(@actor.level/4))d4)[healing]] Hit Points, and you can immediately attempt a flat check to recover from persistent bleed damage with the DC reduced to 10. This healing increases by 2d4 at 8th level and every 4 levels thereafter.</p>
+**Frequency** once per hour
+
+* * *
+
+**Effect** Your ostilli pulses a calm lavender color as it converts stored magic into a curative balm. You regain 0d4 healing Hit Points, and you can immediately attempt a flat check to recover from persistent bleed damage with the DC reduced to 10. This healing increases by 2d4 at 8th level and every 4 levels thereafter.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

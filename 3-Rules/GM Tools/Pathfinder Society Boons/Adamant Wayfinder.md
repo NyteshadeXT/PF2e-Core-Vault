@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Adamant Wayfinder"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.BEaLe5M23Q7LKTLL"
 license: OGL
 ---
 # Adamant Wayfinder `pf2:r`
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 
@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-You have specially reinforced your [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]], devising a way for the device to absorb harmful energies. When you purchase this boon, you apply its benefits to one [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] in your possession, granting you a special reaction ability when the [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] is invested and in your possession. You gain the following reaction:
+You have specially reinforced your [[Equipment/Wayfinder|Wayfinder]], devising a way for the device to absorb harmful energies. When you purchase this boon, you apply its benefits to one [[Equipment/Wayfinder|Wayfinder]] in your possession, granting you a special reaction ability when the [[Equipment/Wayfinder|Wayfinder]] is invested and in your possession. You gain the following reaction:
 
 * * *
 

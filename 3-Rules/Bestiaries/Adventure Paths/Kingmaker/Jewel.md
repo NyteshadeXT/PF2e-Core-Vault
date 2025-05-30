@@ -55,8 +55,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +19 (agile, finesse)\n__Damage__  1d4 + 1 piercing plus ankle-bite"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+19 (agile, finesse, unarmed)\n__Damage__  1d4 + 1 piercing plus ankle-bite"
 
   - name: "Ankle Bite"
     desc: "  If Jewel damages a Small or larger creature standing on the ground with her jaws Strike, that creature becomes [[Conditions/Off-Guard|Off-Guard]] for 1 round (or off-guard and [[Conditions/Clumsy|Clumsy 1]] for 1 round on a critical hit)."

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Desolation Locket|Desolation Locket]], [[Desolation Locket (Greater)|Desolation Locket (Greater)]], [[Desolation Locket (Major)|Desolation Locket (Major)]]
+Granted by [[Equipment/Desolation Locket|Desolation Locket]], [[Equipment/Desolation Locket (Greater)|Desolation Locket (Greater)]], [[Equipment/Desolation Locket (Major)|Desolation Locket (Major)]]
 
 After you cast an enchantment spell by activating the _locket_, you emanate an aura of hopelessness in a 5-foot emanation until the start of your next turn.
 

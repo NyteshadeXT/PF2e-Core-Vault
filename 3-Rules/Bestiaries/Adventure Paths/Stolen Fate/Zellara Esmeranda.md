@@ -72,20 +72,23 @@ abilities_mid:
   - name: "Unbound Fate"
     desc: "  Zellara's connection to the harrow and fortune-telling in life have given her full control of her fate in the afterlife. She can ignore any fortune or misfortune effects that affect her. If she is forced to roll twice as part of a fortune and misfortune effect, she can take whichever die result she prefers, even if the effect would normally force her to choose one of the results."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +26 (agile, finesse, magical)\n__Damage__  3d12 + 8 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+26 (agile, finesse, magical)\n__Damage__  3d12 + 8 void"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Ghostly Harrow Card +26 (magical, range increment 60 feet)\n__Damage__  3d8 + 8 void"
+  - name: "**Ranged** `pf2:1` Ghostly Harrow Card"
+    desc: "+26 (magical, range increment 60 feet)\n__Damage__  3d8 + 8 void"
 
   - name: "Occult Innate Spells"
     desc: "DC 34, attack +26; __7th __  _[[Spells/Interplanar Teleport|Plane Shift]]_; __6th __  _[[Spells/Teleport|Teleport (At Will, Self Only)]]_, _[[Spells/Truesight|True Seeing]]_; __5th __  _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Sending|Sending]]_; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Read Omens|Read Omens]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Hypercognition|Hypercognition]]_; __2nd __  _[[Spells/Augury|Augury]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Mindlink|Mindlink]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
 
   - name: "Flurry of Cards"
-    desc: "`pf2:2`  Zellara unleashes a barrage of harrow cards that deals 7d6 void damage in a @Template[cone|distance:30] (DC 34 Reflex check save)."
+    desc: "`pf2:2`  Zellara unleashes a barrage of harrow cards that deals 7d6 void damage in a 30-foot cone (DC 34 Reflex check save)."
 
   - name: "Harrow Binding"
     desc: "`pf2:3` (occult) **Requirements** Zellara is within 120 feet of a harrow card or harrow deck\n* * *\n\n**Effect** Zellara intentionally binds herself to a harrow card or deck she can sense. While bound in this way, she grants her Stack the Deck ability to anyone carrying the bound card or deck. The trigger and effect for Stack the Deck changes to affect the creature carrying the bound item. She can still Stack the Deck for herself while bound. Zellara can unbind herself from the item as an action, which has the concentrate trait."

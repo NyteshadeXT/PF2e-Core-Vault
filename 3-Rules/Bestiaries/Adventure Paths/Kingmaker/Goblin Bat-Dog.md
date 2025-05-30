@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d10 + 6 piercing plus goblin-pox"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d10 + 6 piercing plus goblin-pox"
 
   - name: "Goblin Pox"
     desc: " (disease) Goblins and goblin dogs (including goblin bat-dogs) are immune to goblin pox.\n\n**Saving Throw** DC 20 Fortitude check\n* * *\n\n**Stage 1** [[Conditions/Sickened|Sickened 1]] (1 round)\n\n**Stage 2** sickened 1 and [[Conditions/Slowed|Slowed 1]] (1 round)\n\n**Stage 3** [[Conditions/Sickened|Sickened 2]] and can't reduce its sickened value below 1 (1 day)"

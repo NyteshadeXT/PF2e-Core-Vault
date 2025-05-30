@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/arcane
   - trait/aura
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.px2XMvw2s5RLV0X1"
 license: OGL
 ---
 # (Lich) Aura of Rot
 
-### [[arcane]][[3-Rules/trait_reference/A/aura]]
+### [[arcane]][[aura]]
 
 **Category** defensive; 
 

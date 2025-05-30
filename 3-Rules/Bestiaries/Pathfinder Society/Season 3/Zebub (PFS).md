@@ -56,19 +56,25 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +12 (finesse, magical, unholy)\n__Damage__  1d10 + 3 piercing plus cocytan-filth 1d6 spirit plus cocytan-filth"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+12 (finesse, magical, unholy)\n__Damage__  1d10 + 3 piercing plus cocytan-filth 1d6 spirit plus cocytan-filth"
 
   - name: "Divine Innate Spells"
     desc: "DC 17, attack +7; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_, _[[Spells/Summon Animal|Summon Animal (Swarm creatures only)]]_\n__Cantrips__  __(2nd)__ _[[Spells/Message|Message]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Diabolic Pact|Infernal Pact]]_"
+    desc: "_Infernal Pact_"
 
   - name: "Cocytan Filth"
     desc: " (disease,virulent) **Saving Throw** DC 18 Fortitude check\n\n**Onset** 1d4 days\n* * *\n\n**Stage 1** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)\n\n**Stage 2** [[Conditions/Enfeebled|Enfeebled 2]] (1 day)\n\n**Stage 3** [[Conditions/Enfeebled|Enfeebled 3]] (1 day)"

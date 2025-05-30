@@ -17,7 +17,7 @@ license: ORC
 
 
 
-As you use your powers, radioactive molds and fungi consume your flesh, making you look (and feel) like a rotting, walking corpse.
+Granted by [[Class Features/Fungal Rot|Fungal Rot]]
 
 **Mild Backlash** You take damage equal to your level as your body decays.
 

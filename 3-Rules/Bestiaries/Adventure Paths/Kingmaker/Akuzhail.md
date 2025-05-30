@@ -57,10 +57,10 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Life Bloom"
-    desc: " (death,primal) When Akuzhail dies, its body explodes in a riot of seething vegetation and raw life. All living creatures within a 60-foot radius are restored 12d6 Hit Points from this energy. A fully grown bloom of Lamashtu emerges from the carcass, but it can take no actions on this round. Next round, this bloom of Lamashtu enters combat at the same point in the turn during which Akuzhail perished on the previous round, but the bloom is [[Conditions/Slowed|Slowed 1]]. At the end of the bloom's turn, it attempts a DC 11 Flat check; on a success it loses the slowed 1 condition at the start of its next turn."
+    desc: " (death,primal) When Akuzhail dies, its body explodes in a riot of seething vegetation and raw life. All living creatures within a 60-foot radius are restored 12d6 healing Hit Points from this energy. A fully grown bloom of Lamashtu emerges from the carcass, but it can take no actions on this round. Next round, this bloom of Lamashtu enters combat at the same point in the turn during which Akuzhail perished on the previous round, but the bloom is [[Conditions/Slowed|Slowed 1]]. At the end of the bloom's turn, it attempts a DC 11 Flat check; on a success it loses the slowed 1 condition at the start of its next turn."
 
   - name: "Of Three Minds"
     desc: "`pf2:r`  **Trigger** Akuzhail fails or critically fails a Will save\n* * *\n\n**Effect** Akuzhail rerolls the Will save with a -4 penalty. If it fails this second save, it may make a third attempt but with a -8 penalty. It cannot make a third attempt if its second attempt was a critical failure."
@@ -74,23 +74,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vulture Beak +23 ()\n__Damage__  2d8 + 11 slashing 1d8 bleed"
+  - name: "**Melee** `pf2:1` Vulture Beak"
+    desc: "+23 ()\n__Damage__  2d8 + 11 slashing 1d8 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Snake Fangs +23 ()\n__Damage__  2d12 + 11 piercing plus bloom-venom"
+  - name: "**Melee** `pf2:1` Snake Fangs"
+    desc: "+23 ()\n__Damage__  2d12 + 11 piercing plus bloom-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Centipede Mandibles +23 ()\n__Damage__  2d6 acid 2d6 + 11 piercing"
+  - name: "**Melee** `pf2:1` Centipede Mandibles"
+    desc: "+23 ()\n__Damage__  2d6 acid 2d6 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile)\n__Damage__  2d8 + 11 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, unarmed)\n__Damage__  2d8 + 11 slashing"
 
   - name: "Bloom Venom"
     desc: " (poison,primal) **Saving Throw** DC 29 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d6 poison and [[Conditions/Enfeebled|Enfeebled 1]]\n\n**Stage 2** 2d6 poison and [[Conditions/Enfeebled|Enfeebled 2]]\n\n**Stage 3** 2d10 poison, enfeebled 2, and exposure to Lamashtu's bloom."
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (primal) Akuzhail breathes a @Template[line|distance:60] of venom from its snake mouth that deals 11d6 poison damage (DC 29 Fortitude check). Akuzhail can't use Breath Weapon for 1d4 rounds."
+    desc: "`pf2:2` (primal) Akuzhail breathes a 60-foot line of venom from its snake mouth that deals 11d6 poison damage (DC 29 Fortitude check). Akuzhail can't use Breath Weapon for 1d4 rounds."
 
   - name: "Frightening Rattle"
     desc: "`pf2:1` (emotion,fear,mental,primal,sonic) Akuzhail shakes the rattle at the end of its tail to distract and frighten its enemies. Any creature within 30 feet must succeed at a DC 29 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure). On a critical success, a creature is temporarily immune to Akuzhail's Frightening Rattle for 24 hours."

@@ -25,17 +25,13 @@ By observing an opponent, you can get a sense of their next move and prepare to 
 
 **Critical Success** You precisely discern the target's strategy, gaining a +2 circumstance bonus to AC against the creature until the start of your next turn and a +2 circumstance bonus to your next saving throw against the creature before the start of your next turn.
 
-[[Feat_Feature Effects/Effect_ Predictable! (Critical Success)|Effect: Predictable! (Critical Success)]]
-
 **Success** You deduce the gist of the target's strategy; as critical success, except the circumstance bonus is only +1.
-
-[[Feat_Feature Effects/Effect_ Predictable!|Effect: Predictable!]]
 
 **Failure** You fail to discern the target's strategy and gain no benefit.
 
 **Critical Failure** You misinterpret the target's strategy and take a –1 circumstance penalty to AC against the creature until the start of your next turn, and a –1 circumstance penalty to your next saving throw against the creature before the start of your next turn.
 
-[[Feat_Feature Effects/Effect_ Predictable! (Critical Failure)|Effect: Predictable! (Critical Failure)]]
+[[Feat_Feature Effects/Effect_ Predictable!|Effect: Predictable!]]
 
 *Source: Pathfinder Player Core*
 *ORC*

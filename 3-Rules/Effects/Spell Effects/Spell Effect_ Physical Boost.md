@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Physical Boost|Physical Boost]]
+Granted by [[Spells/Physical Boost|Physical Boost]]
+
+You gain a +2 status bonus to the next Acrobatics check, Athletics check, Fortitude save, or Reflex save you attempt.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

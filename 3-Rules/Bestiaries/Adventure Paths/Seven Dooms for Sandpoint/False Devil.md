@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 (finesse)\n__Damage__  2d10 + 11 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (finesse, unarmed)\n__Damage__  2d10 + 11 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile, finesse)\n__Damage__  2d6 + 11 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, finesse, unarmed)\n__Damage__  2d6 + 11 slashing"
 
   - name: "Chupar"
     desc: "`pf2:1`  **Requirements** The chupacabra has a creature [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The chupacabra sucks blood from the grabbed creature. The chupacabra gains the [[Conditions/Quickened|Quickened]] condition for 1 minute and can use the extra action only for Strike and Stride actions. A chupacabra can't use Chupar again while it is quickened in this way.\n\nA creature that has its blood drained by a chupacabra is [[Conditions/Drained|Drained 1]] until it receives healing (of any kind or amount)."
@@ -69,7 +69,7 @@ attacks:
     desc: "`pf2:2` (move) The false devil's spiny wings don't afford it a typical melee option, but it can use them to scrape and slash at foes it flies by. The winged chupacabra attempts to [[Actions/Tumble Through|Tumble Through]] an enemy's space. As it does so, it flaps its wings furiously, gaining a +2 circumstance bonus to its Acrobatics check. If it succeeds, it inflicts 4d6 slashing damage to the creature it Tumbled Through (or 8d6 slashing damage on a critical success)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

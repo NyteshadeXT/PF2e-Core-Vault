@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Irondust Stew|Irondust Stew]]
+Granted by [[Equipment/Irondust Stew|Irondust Stew]]
 
 You gain 3 resistance to physical damage for 1 minute, but take a –2 item penalty to Acrobatics and Athletics checks during that time.
 
-*Source: Pathfinder Lost Omens: Highhelm*
+*Source: Pathfinder Lost Omens Highhelm*
 *OGL*

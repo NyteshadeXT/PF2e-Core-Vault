@@ -28,5 +28,5 @@ license: ORC
 
 The waters around you permit you passage, a privilege you can share with a willing ally. You hold on to an adjacent ally and Swim, carrying them along with you. If you spend three actions Ferrying through Waves, you instead Swim twice. If your ally would need to attempt any Athletics checks to Swim while you're Ferrying through Waves, you roll the check and your result applies to them.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Slip The Grasp"
+title: "Slip the Grasp"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/fleshwarp
@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.O2iFrAt7hyELJlIR"
 license: OGL
 ---
-# Slip The Grasp `pf2:1`
+# Slip the Grasp `pf2:1`
 ## Feat 9
 ### [[fleshwarp]][[flourish]]
 
@@ -27,5 +27,5 @@ You have some feature that allows you to quickly evade effects that restrain you
 
 You increase your multiple attack penalty as appropriate for the actions you took, but only after completing both actions.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

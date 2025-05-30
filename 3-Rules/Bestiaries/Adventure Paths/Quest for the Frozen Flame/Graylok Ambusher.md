@@ -68,11 +68,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +18 (agile, magical, reach 10 feet, sweep, thrown 10 ft.)\n__Damage__  2d6 + 9 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+18 (agile, magical, reach 10 feet, sweep, thrown 10 ft.)\n__Damage__  2d6 + 9 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 (reach 10 feet)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (reach 10 feet, unarmed)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Brutal Beating"
     desc: "  When the Graylok ambusher scores a critical hit with a melee Strike, the target is [[Conditions/Frightened|Frightened 1]]."

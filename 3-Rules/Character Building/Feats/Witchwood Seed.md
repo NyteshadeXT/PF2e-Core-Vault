@@ -18,7 +18,7 @@ license: OGL
 ---
 # Witchwood Seed `pf2:2`
 ## Feat 12
-### [[impulse]][[kineticist]][[overflow]][[plant]][[polymorph]][[primal]][[Wood]]
+### [[impulse]][[kineticist]][[overflow]][[plant]][[polymorph]][[primal]][[wood]]
 
 **Category** class; 
 

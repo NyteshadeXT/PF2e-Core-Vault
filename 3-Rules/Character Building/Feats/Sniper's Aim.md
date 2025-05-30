@@ -7,8 +7,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.Wn3DWAXo2TRxrhI6"
-license: OGL
+license: ORC
 ---
 # Sniper's Aim `pf2:2`
 ## Feat 6
@@ -20,7 +21,7 @@ license: OGL
 
 **Prerequisites** Way of the Sniper
 * * *
-You take an extra moment to carefully sync your aim and breathing, then fire a shot with great accuracy. Make a ranged weapon Strike. You gain a +2 circumstance bonus to this Strike's attack roll and ignore the target's concealment. If you're using a kickback firearm, you don't take the normal circumstance penalty on this Strike for not having the required Strength score or firing without using a stabilizer.
+You take an extra moment to carefully sync your aim and breathing, then fire a shot with great accuracy. Make a ranged weapon Strike. You gain a +2 circumstance bonus to this Strike's attack roll and ignore the target's concealment. If you're using a kickback firearm, you don't take the normal circumstance penalty on this Strike for not having the required Strength modifier or firing without using a stabilizer.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

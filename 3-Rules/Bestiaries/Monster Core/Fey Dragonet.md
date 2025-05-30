@@ -52,13 +52,16 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +10 (finesse, magical)\n__Damage__  1d4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+10 (finesse, magical, unarmed)\n__Damage__  1d4 piercing"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 18, attack +10; __1st __ (4 slots) _[[Spells/Grease|Grease]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Sleep|Sleep]]_\n__Cantrips__  __(1st)__ _[[Spells/Figment|Figment]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Tangle Vine|Tangle Vine]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -67,7 +70,7 @@ attacks:
     desc: "DC 21, attack +13; __4th __  _[[Spells/Invisibility|Invisibility (Self Only)]]_"
 
   - name: "Euphoric Breath"
-    desc: "`pf2:2` (arcane,poison) The dragonet breathes euphoric gas in a @Template[cone|distance:15]. Each creature in the area must succeed at a DC 18 Fortitude check save or become [[Conditions/Stupefied|Stupefied 2]] and [[Conditions/Slowed|Slowed 1]] for 1d4 rounds; on a critical failure, the duration is 1 minute.\n\nThe fey dragonet can't use Euphoric Breath again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,poison) The dragonet breathes euphoric gas in a 15-foot cone. Each creature in the area must succeed at a DC 18 Fortitude check save or become [[Conditions/Stupefied|Stupefied 2]] and [[Conditions/Slowed|Slowed 1]] for 1d4 rounds; on a critical failure, the duration is 1 minute.\n\nThe fey dragonet can't use Euphoric Breath again for 1d4 rounds."
  
 ```
 

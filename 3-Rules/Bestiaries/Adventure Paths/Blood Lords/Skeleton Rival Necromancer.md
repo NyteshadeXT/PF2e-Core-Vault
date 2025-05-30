@@ -24,6 +24,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/Gold Skeleton Rival Necromancer.webp| ]]
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Skeleton Rival Necromancer"
 level: "Creature 16"
@@ -63,14 +64,17 @@ abilities_top:
     desc: "[[Equipment/Dagger|+2 Striking Dagger]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +25 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 7 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+25 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +25 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  3d4 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+25 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  3d4 + 7 piercing"
 
   - name: "Wizard Prepared Spells"
     desc: "DC 41, attack +33; __8th __  _[[Spells/Boil Blood|Boil Blood]]_; __6th __  _[[Spells/Bound in Death|Bound in Death]]_, _[[Spells/Never Mind|Feeblemind]]_; __5th __  _[[Spells/Blister|Blister]]_, _[[Spells/Forceful Hand|Forceful Hand]]_, _[[Spells/Truespeech|Tongues]]_; __4th __  _[[Spells/Fly|Fly]]_, _[[Spells/Mountain Resilience|Stoneskin]]_; __3rd __  _[[Spells/Haste|Haste]]_, _[[Spells/Rouse Skeletons|Rouse Skeletons]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Darkvision|Darkvision]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/False Vitality|False Life]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Summon Undead|Animate Dead]]_, _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Flense|Flense]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Tailwind|Longstrider]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(8th)__ _[[Spells/Ancient Dust|Ancient Dust]]_, _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Torturous Trauma|Torturous Trauma]]_"

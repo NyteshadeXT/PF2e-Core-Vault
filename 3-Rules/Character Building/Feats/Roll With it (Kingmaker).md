@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Roll With it (Kingmaker)"
+title: "Roll with it (Kingmaker)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/ranger
@@ -9,9 +9,9 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.8FxKcuFtOrqsl1FH"
 license: OGL
 ---
-# Roll With it (Kingmaker) `pf2:r`
+# Roll with it (Kingmaker) `pf2:r`
 ## Feat 12
-### [rare](rare.md "Rare Rarity Trait")[[ranger]]
+### [rare](rare "Rare Rarity Trait")[[ranger]]
 
 **Category** class; 
 

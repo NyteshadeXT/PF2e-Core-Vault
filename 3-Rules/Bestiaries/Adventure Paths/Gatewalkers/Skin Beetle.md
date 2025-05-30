@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mandibles +13 (agile, finesse)\n__Damage__  1d8 + 4 piercing"
+  - name: "**Melee** `pf2:1` Mandibles"
+    desc: "+13 (agile, finesse)\n__Damage__  1d8 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +13 (range 30 feet)\n__Damage__  1d6 + 4 acid plus anesthetic-saliva"
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+13 (range 30 feet)\n__Damage__  1d6 + 4 acid plus anesthetic-saliva"
 
   - name: "Anesthetic Saliva"
     desc: " (poison) A creature exposed to a skin beetle's saliva must succeed on a DC 19 Fortitude check save or become [[Conditions/Clumsy|Clumsy 1]] for 1 round."

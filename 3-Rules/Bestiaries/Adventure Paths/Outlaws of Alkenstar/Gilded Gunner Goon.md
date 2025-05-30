@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +14 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+14 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +13 (agile, nonlethal)\n__Damage__  1d4 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+13 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 3 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flintlock Pistol +14 (concussive, fatal d8, range 40 feet, reload 1)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Flintlock Pistol"
+    desc: "+14 (concussive, fatal d8, range 40 feet, reload 1)\n__Damage__  1d4 + 4 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  A Gilded Gunner goon's Strikes deal 1d6 additional precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

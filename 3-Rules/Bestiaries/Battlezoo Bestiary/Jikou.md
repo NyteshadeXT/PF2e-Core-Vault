@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Razor +26 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 13 piercing"
+  - name: "**Melee** `pf2:1` Razor"
+    desc: "+26 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 13 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Razor +26 (agile, finesse, magical, thrown 10 ft.)\n__Damage__  2d4 + 13 piercing"
+  - name: "**Ranged** `pf2:1` Razor"
+    desc: "+26 (agile, finesse, magical, thrown 10 ft.)\n__Damage__  2d4 + 13 piercing"
 
   - name: "Innate Primal Spells"
     desc: "DC 32, attack +24; __6th __  _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Paranoia|Paranoia]]_; __4th __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Sleep|Sleep]]_, _[[Spells/Sleep|Sleep]]_; __2nd __  _[[Spells/Silence|Silence]]_; __1st __  _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(6th)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

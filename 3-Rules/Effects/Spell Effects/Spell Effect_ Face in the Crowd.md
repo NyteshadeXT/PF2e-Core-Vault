@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Face in the Crowd|Face in the Crowd]]
+Granted by [[Spells/Face in the Crowd|Face in the Crowd]]
 
 You gain a +2 status bonus to Deception and Stealth checks to go unnoticed among the crowd, and you ignore difficult terrain caused by the crowd.
 

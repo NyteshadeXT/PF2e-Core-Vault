@@ -51,6 +51,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Ranseur|+1 Ranseur]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Absorb Force"
@@ -59,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ranseur +16 (disarm, magical, reach 10 feet)\n__Damage__  1d10 + 6 piercing"
+  - name: "**Melee** `pf2:1` Ranseur"
+    desc: "+16 (disarm, magical, reach 10 feet)\n__Damage__  1d10 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +15 (agile, nonlethal)\n__Damage__  1d6 + 6 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+15 (agile, nonlethal, unarmed)\n__Damage__  1d6 + 6 bludgeoning plus grab"
 
   - name: "Arcane Innate Spells"
     desc: "DC 23, attack +15; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Containment|Resilient Sphere]]_, _[[Spells/Resist Energy|Resist Energy (x2)]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_; __1st __  _[[Spells/Carryall|Floating Disk (At will)]]_, _[[Spells/Phantasmal Minion|Unseen Servant (At will)]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
@@ -72,7 +75,7 @@ attacks:
     desc: "`pf2:1` (arcane,force) `pf2:1` to `pf2:3` actions\n\nThe witchwyrd fires one [[Spells/Force Barrage|Force Barrage]] per action spent (dealing 1d4+1 force damage each). They can't spend more actions on this ability than they have free hands. If they use a hand that has Absorbed Force, that hand hurls two missiles instead of one, expending the held energy."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

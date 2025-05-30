@@ -50,19 +50,28 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Thoughtsense 60 feet"
     desc: "  The rhu-chalik senses a creature's mental essence as a precise sense with the listed range; it cannot sense mindless creatures with thoughtsense."
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "No Breath"
     desc: "  A rhu-chalik doesn't breathe and is immune to effects that require breathing (such as inhaled poisons)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +15 (agile)\n__Damage__  2d4 + 6 bludgeoning plus excruciating-enzyme 1d6 mental plus excruciating-enzyme"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+15 (agile)\n__Damage__  2d4 + 6 bludgeoning plus excruciating-enzyme 1d6 mental plus excruciating-enzyme"
 
   - name: "Occult Innate Spells"
     desc: "DC 24, attack +16; __5th __  _[[Spells/Mind Probe|Mind Probe]]_; __4th __  _[[Spells/Rewrite Memory|Rewrite Memory]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_"

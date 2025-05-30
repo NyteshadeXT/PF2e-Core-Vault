@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +9 ()\n__Damage__  1d8 + 3 piercing plus critical-ignition 1d6 fire plus critical-ignition"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+9 (unarmed)\n__Damage__  1d8 + 3 piercing plus critical-ignition 1d6 fire plus critical-ignition"
 
   - name: "Critical Ignition"
     desc: "  On a critical hit with a body Strike, a thoqqua inflicts an additional 1d6 persistent fire damage."

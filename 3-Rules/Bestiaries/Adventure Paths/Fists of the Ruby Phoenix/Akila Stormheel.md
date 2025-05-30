@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Katar +24 (agile, deadly d6, magical)\n__Damage__  2d4 + 10 piercing"
+  - name: "**Melee** `pf2:1` Katar"
+    desc: "+24 (agile, deadly d6, magical)\n__Damage__  2d4 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +28 (deadly 2d10, magical, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  3d8 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+28 (deadly 2d10, magical, propulsive, range increment 100 feet, volley 30 ft.)\n__Damage__  3d8 + 10 piercing"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) Akila's mask melds into her face and she takes on the form of a leopard, or she returns to her halfling form. As a leopard, the only Strikes she can make are a jaws Strike (which deals 3d6+10 piercing damage plus Grab) and an agile claws Strike (which deals 3d4+10 slashing damage).\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) Akila's mask melds into her face and she takes on the form of a leopard, or she returns to her halfling form. As a leopard, the only Strikes she can make are a jaws Strike (which deals 3d6+10 piercing damage plus Grab) and an agile claws Strike (which deals 3d4+10 slashing damage).\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Pounce"
     desc: "`pf2:1`  Akila Strides, then Strikes. If she was [[Conditions/Hidden|Hidden]] at the start of this action, she remains hidden until after the Strike."

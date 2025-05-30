@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
   - trait/exploration
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.lAvEK4yNL3Y7pVmr"
 license: OGL
 ---
 # Assume a Role
 
-### [[3-Rules/Rule References/Concentrate]][[exploration]]
+### [[concentrate]][[exploration]]
 
 **Category** interaction; 
 

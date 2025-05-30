@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Send Diplomatic Envoy"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/leadership
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.FGQfcX6BelYrJatp"
 license: OGL
 ---
 # Send Diplomatic Envoy
-
+## 
 ### [[downtime]][[leadership]]
 
 **Category** kingdom-activity; 

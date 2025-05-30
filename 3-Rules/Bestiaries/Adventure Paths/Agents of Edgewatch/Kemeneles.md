@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +6 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+6 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 bludgeoning"
 
   - name: "Prepared Arcane Spells"
     desc: "DC 18, attack +12; __1st __  _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Mystic Armor|Mage Armor]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(1st)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Ray of Frost|Ray of Frost]]_"

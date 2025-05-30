@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[3-Rules/Character Building/Equipment/A/Ancestral Geometry|Ancestral Geometry]]
+Granted by [[Equipment/Ancestral Geometry|Ancestral Geometry]]
 
 Roll 2d20 and record the highest result. Then roll 1d6 and note a type of saving throw: 1–2 Fortitude, 3–4 Reflex, and 5–6 Will.
 

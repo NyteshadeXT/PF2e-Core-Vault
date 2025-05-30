@@ -18,5 +18,5 @@ license: OGL
 
 Your equipment turns on you for a disgraceful act. The next time you make an attack, your weapon or armor gains the [[Conditions/Broken|Broken]] condition.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dogslicer +13 (agile, backstabber, finesse)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Dogslicer"
+    desc: "+13 (agile, backstabber, finesse)\n__Damage__  1d6 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire (Moderate) +14 (range increment 20 feet)\n__Damage__  2d8 fire 3 fire 2 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire (Moderate)"
+    desc: "+14 (range increment 20 feet)\n__Damage__  2d8 fire 3 fire 2 fire"
 
   - name: "Calculated Splash"
     desc: "  When Tunch throws a bomb with the splash trait, it deals splash damage equal to his Intelligence modifier."

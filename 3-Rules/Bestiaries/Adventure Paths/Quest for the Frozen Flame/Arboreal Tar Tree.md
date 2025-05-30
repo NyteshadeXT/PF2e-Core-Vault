@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Thorny Branch +19 (reach 15 feet)\n__Damage__  2d8 + 11 slashing plus improved-grab"
+  - name: "**Melee** `pf2:1` Thorny Branch"
+    desc: "+19 (reach 15 feet)\n__Damage__  2d8 + 11 slashing plus improved-grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +19 (brutal, range increment 60 feet)\n__Damage__  2d6 + 10 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+19 (brutal, range increment 60 feet)\n__Damage__  2d6 + 10 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +15; __5th __ (3 slots) _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Toxic Cloud|Cloudkill]]_; __3rd __ (3 slots) _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_"

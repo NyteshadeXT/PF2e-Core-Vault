@@ -51,6 +51,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Universal Language"
     desc: "  Anything spoken by Nemesis is perceived by the listener in its native language."
 
@@ -68,11 +71,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Illusory Weapon +26 (illusion, mental, occult)\n__Damage__  3d12 + 13 mental"
+  - name: "**Melee** `pf2:1` Illusory Weapon"
+    desc: "+26 (illusion, mental, occult)\n__Damage__  3d12 + 13 mental"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Illusory Weapon +25 (illusion, mental, occult, range 100 feet)\n__Damage__  3d4 + 13 mental"
+  - name: "**Ranged** `pf2:1` Illusory Weapon"
+    desc: "+25 (illusion, mental, occult, range 100 feet)\n__Damage__  3d4 + 13 mental"
 
   - name: "Occult Innate Spells"
     desc: "DC 33, attack +25; __6th __  _[[Spells/Vision of Death|Vision of Death (x3)]]_; __5th __  _[[Spells/Illusory Disguise|Illusory Disguise (x3)]]_, _[[Spells/Sending|Sending (x3)]]_, _[[Spells/Translocate|Translocate (x2)]]_; __4th __  _[[Spells/Nightmare|Nightmare (x2)]]_\n__Cantrips__  __(7th)__ _[[Spells/Figment|Figment]]_, _[[Spells/Message|Message]]_"

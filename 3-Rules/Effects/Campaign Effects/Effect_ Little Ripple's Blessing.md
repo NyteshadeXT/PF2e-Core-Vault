@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Adventure-Specific Actions/Little Ripple's Blessing|Little Ripple's Blessing]]
+
 You gain a +1 status bonus to Will saves.
 
 *Source: Pathfinder #195: Heavy is the Crown*

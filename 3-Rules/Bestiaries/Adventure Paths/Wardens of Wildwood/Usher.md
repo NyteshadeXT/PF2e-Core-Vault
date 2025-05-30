@@ -59,23 +59,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stone Fist +19 (magical)\n__Damage__  2d12 + 6 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Stone Fist"
+    desc: "+19 (magical)\n__Damage__  2d12 + 6 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flaming Coal +12 (fire, magical, range increment 80 feet)\n__Damage__  2d6 + 6 cold"
+  - name: "**Ranged** `pf2:1` Flaming Coal"
+    desc: "+12 (fire, magical, range increment 80 feet)\n__Damage__  2d6 + 6 bludgeoning"
 
   - name: "Brazier"
     desc: "  The statue carries a wide brazier full of hot coals. To make flaming coal Strikes or use Burn Alive, the statue must have the brazier held in one hand or otherwise have it within reach.\n\nInstead of targeting the statue with an attack, a creature can target the brazier directly. The brazier has the same AC and saves as the statue.\n\nDealing 15 cold damage to the brazier or dousing it with at least 2 gallons of water extinguishes the coals. This prevents the statue from using Burn Alive and causes its ranged attacks to no longer deal fire damage."
 
   - name: "Burn Alive"
-    desc: "`pf2:1` (fire) The statue grinds a creature it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] into the red-hot coals of its brazier. The target takes 3d8 cold damage and 1d8 persistent cold damage."
+    desc: "`pf2:1` (fire) The statue grinds a creature it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] into the red-hot coals of its brazier. The target takes 3d8 cold + 1d8 persistent cold damage."
 
   - name: "Fey Fire"
     desc: "  The construct's ranged Strike, Brazier, and Burn Alive abilities deal cold damage instead of fire damage, and they do not ignite combustible materials."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

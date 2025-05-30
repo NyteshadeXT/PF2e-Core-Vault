@@ -67,17 +67,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Trident +27 (magical, shove)\n__Damage__  2d8 + 11 piercing"
+  - name: "**Melee** `pf2:1` Trident"
+    desc: "+27 (magical, shove)\n__Damage__  2d8 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +25 (agile, versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+25 (agile, versatile s)\n__Damage__  1d4 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +25 (magical, thrown 20 ft.)\n__Damage__  2d8 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+25 (magical, thrown 20 ft.)\n__Damage__  2d8 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +23 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+23 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
 
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) Ajbal designates a single creature he can see and hear, or one he's Tracking, as his prey. Ajbal gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] his prey and Survival checks to [[Actions/Track|Track]] his prey.\n\nThe first time Ajbal hits his designated prey in a round, he deals an additional 2d8 precision damage. Ajbal also ignores the penalty for making ranged attacks within the second range increment when attacking his prey.\n\nThese effects last until Ajbal uses Hunt Prey again."

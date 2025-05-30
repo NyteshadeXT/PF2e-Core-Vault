@@ -54,8 +54,11 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Solar Instability"
     desc: "  The crownbound constellation is [[Conditions/Fatigued|Fatigued]] and [[Conditions/Invisible|Invisible]] when in direct contact with the rays of the sun."
@@ -66,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Star Greatsword +21 (magical, versatile p)\n__Damage__  2d12 + 10 slashing plus starburst"
+  - name: "**Melee** `pf2:1` Star Greatsword"
+    desc: "+21 (magical, versatile p)\n__Damage__  2d12 + 10 slashing plus starburst"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Star Composite Longbow +18 (deadly d10, magical, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 7 piercing plus starburst"
+  - name: "**Ranged** `pf2:1` Star Composite Longbow"
+    desc: "+18 (deadly d10, magical, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 7 piercing plus starburst"
 
   - name: "Dazzling Assault"
     desc: "`pf2:1` (visual) Each enemy in the crownbound constellation's space takes 7d4 bludgeoning (DC 23 Reflex check). Creatures that fail this save are also [[Conditions/Dazzled|Dazzled]] until the end of their next turn."

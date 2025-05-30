@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Energizing Lattice|Energizing Lattice]]
+
 The latticework glows for 1 minute, shedding bright light in a 20-foot radius (and dim light for the next 20 feet). You can Dismiss this light.
 
 **Activate** `pf2:2` envision (force)

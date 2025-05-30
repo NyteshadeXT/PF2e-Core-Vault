@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +6 (versatile p)\n__Damage__  1d8 + 1 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+6 (versatile p)\n__Damage__  1d8 + 1 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +7 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+7 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 1 piercing"
  
 ```
 

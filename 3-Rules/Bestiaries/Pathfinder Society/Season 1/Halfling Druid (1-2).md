@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +3 ()\n__Damage__  1d6 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+3 ()\n__Damage__  1d6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Halfling Sling Staff +6 (range increment 80 feet, reload 1)\n__Damage__  1d10 bludgeoning"
+  - name: "**Ranged** `pf2:1` Halfling Sling Staff"
+    desc: "+6 (range increment 80 feet, reload 1)\n__Damage__  1d10 bludgeoning"
 
   - name: "Primal Prepared Spells"
     desc: "DC 16, attack +8; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Runic Body|Magic Fang]]_\n__Cantrips__  __(1st)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Sigil|Sigil]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

@@ -30,5 +30,5 @@ license: ORC
 
 You charge your weapon with spiritual energy and intercept the attack. The weapon becomes broken, and the target is unharmed by the attack. If you're carrying another one-handed, agile, or finesse melee weapon, you can immediately Swap it for the broken weapon.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

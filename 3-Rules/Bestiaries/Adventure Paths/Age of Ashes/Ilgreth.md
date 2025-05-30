@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +35 (agile, finesse, magical, versatile s)\n__Damage__  4d4 + 14 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+35 (agile, finesse, magical, versatile s)\n__Damage__  4d4 + 14 piercing"
 
   - name: "Prepared Arcane Spells"
     desc: "DC 44, attack +36; __10th __  _[[Spells/Cataclysm|Cataclysm]]_; __9th __  _[[Spells/Falling Stars|Meteor Swarm]]_; __8th __  _[[Spells/Earthquake|Earthquake]]_, _[[Spells/Quandary|Maze]]_, _[[Spells/Polar Ray|Polar Ray]]_; __7th __  _[[Spells/Energy Aegis|Energy Aegis]]_, _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Dominate|Dominate]]_; __5th __  _[[Spells/Cone of Cold|Cone of Cold]]_; __4th __  _[[Spells/Flicker|Blink]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Shared Invisibility|Invisibility Sphere]]_; __2nd __  _[[Spells/Acid Arrow|Acid Arrow]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Mist|Obscuring Mist]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Shocking Grasp|Shocking Grasp]]_\n__Cantrips__  __(10th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
@@ -68,7 +68,7 @@ attacks:
     desc: "3 Focus Points, DC 44, attack +36; __10th __  _[[Spells/Elemental Tempest|Elemental Tempest]]_, _[[Spells/Force Bolt|Force Bolt]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Imprisonment|Imprisonment]]_, _[[Spells/Inveigle|Inveigle]]_"
+    desc: "_Imprisonment_, _Inveigle_"
 
   - name: "Drain Bonded Item"
     desc: "  **Frequency** once per day\n\n**Requirements** Ilgreth hasn't acted yet on this turn\n* * *\n\n**Effect** Ilgreth can cast one prepared spell he has already cast today without spending a spell slot. He must still Cast the Spell and meet the spell's other requirements."

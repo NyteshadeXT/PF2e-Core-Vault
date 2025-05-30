@@ -52,37 +52,43 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Bloodsense (Precise) 30 feet"
     desc: "  The vitalia can detect any creatures that have a heartbeat."
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 20]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "Blood Eruption"
     desc: "`pf2:r`  **Trigger** A creature lands a critical hit with a melee Strike against the vitalia\n* * *\n\n**Effect** The vitalia sprays blood at the triggering creature. The creature must succeed at a DC 39 Reflex check save or become [[Conditions/Dazzled|Dazzled]] for 1 round (or [[Conditions/Blinded|Blinded]] for 1 round on a critical failure)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vein +33 (magical, reach 15 feet)\n__Damage__  4d8 + 15 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Vein"
+    desc: "+33 (magical, reach 15 feet)\n__Damage__  4d8 + 15 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blood Squirt +33 (acid, magical, range increment 40 feet)\n__Damage__  3d10 bludgeoning 3d10 acid"
+  - name: "**Ranged** `pf2:1` Blood Squirt"
+    desc: "+33 (acid, magical, range increment 40 feet)\n__Damage__  3d10 bludgeoning 3d10 acid"
 
   - name: "Occult Innate Spells"
     desc: "DC 36, attack +28; __8th __  _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __6th __  _[[Spells/Status|Status (At Will)]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  4d8+10 bludgeoning damage, DC 37 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  4d8+10 bludgeoning damage, DC 37 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Forced Transfusion"
     desc: "`pf2:1`  **Requirements** The vitalia is [[Conditions/Grabbed|Grabbing]] a creature\n* * *\n\n**Effect** The vitalia inserts some of its veins into the grabbed creature and pumps violently, rapidly exchanging the victim's blood with its own. Any diseases or poisons affecting the vitalia can be transmitted to the target creature, which must make a saving throw as though it had just been targeted with the original affliction. The inverse is true as well; the vitalia must successfully save against any diseases or poisons affecting the target or contract the affliction."
 
   - name: "Sanguine Rain"
-    desc: "`pf2:2` (occult) **Frequency** once per day\n* * *\n\n**Effect** The vitalia pumps copious amounts of blood into the air, creating a cascading rain of vital fluids in a @Template[emanation|distance:15].\n\nAll creatures in the area are [[Conditions/Concealed|Concealed]] from one another. A creature that benefits from consuming blood (such as bloodseekers or vampires) gains fast healing 10 while in the area. While in the area, a creature taking persistent bleed damage cannot end that condition, even if it spends actions to attempt a flat check to do so.\n\nThe rain lasts for 1 minute.\n\n[[Bestiary Effects/Effect_ Sanguine Rain|Effect: Sanguine Rain]]"
+    desc: "`pf2:2` (occult) **Frequency** once per day\n* * *\n\n**Effect** The vitalia pumps copious amounts of blood into the air, creating a cascading rain of vital fluids in a 15-foot emanation.\n\nAll creatures in the area are [[Conditions/Concealed|Concealed]] from one another. A creature that benefits from consuming blood (such as bloodseekers or vampires) gains fast healing 10 while in the area. While in the area, a creature taking persistent bleed damage cannot end that condition, even if it spends actions to attempt a flat check to do so.\n\nThe rain lasts for 1 minute.\n\n[[Bestiary Effects/Effect_ Sanguine Rain|Effect: Sanguine Rain]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

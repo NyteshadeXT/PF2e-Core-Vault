@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/PZO90182_TEACHING_ASSISTANT.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Teaching Assistant"
 level: "Creature 5"
@@ -63,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +15 (agile, finesse, versatile s)\n__Damage__  1d6 + 4 piercing 2d6 void"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+15 (agile, finesse, versatile s)\n__Damage__  1d6 + 4 piercing 2d6 void"
 
   - name: "Occult Prepared Spells"
     desc: "DC 22, attack +14; __3rd __  _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/Death Knell|Death Knell]]_, _[[Spells/False Vitality|False Life]]_; __1st __  _[[Spells/Summon Undead|Animate Dead]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Spirit Link|Spirit Link]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Sigil|Sigil]]_"
 
   - name: "Necromantic Revitalization"
-    desc: "`pf2:3` (concentrate,void) **Frequency** once per day\n* * *\n\n**Effect** The teaching assistant disperses void energy in a @Template[emanation|distance:30]. Living creatures in the area take 3d8 void damage (DC 22 Fortitude check); willing undead creatures in the area regain an equal amount of Hit Points."
+    desc: "`pf2:3` (concentrate,void) **Frequency** once per day\n* * *\n\n**Effect** The teaching assistant disperses void energy in a 30-foot emanation. Living creatures in the area take 3d8 void damage (DC 22 Fortitude check); willing undead creatures in the area regain an equal amount of Hit Points."
  
 ```
 

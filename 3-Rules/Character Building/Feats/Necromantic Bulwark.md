@@ -21,5 +21,5 @@ license: OGL
 * * *
 Regular exposure to necromantic effects left you better able to defend against them. When you have your shield raised, you gain your shield's circumstance bonus to saving throws against effects that would deal void damage. If you have the Shield Block reaction, void damage you take can trigger the reaction, even though the damage isn't physical damage.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +11 (disarm, finesse, nonlethal, reach, trip)\n__Damage__  1d4 + 2 slashing"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+11 (disarm, finesse, nonlethal, reach, trip)\n__Damage__  1d4 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+11 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 22, attack +13; __3rd __ (2 slots) _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Ring of Truth|Zone of Truth]]_; __2nd __ (3 slots) _[[Spells/Augury|Augury]]_, _[[Spells/Restoration|Restoration]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Mystic Armor|Mage Armor]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Shield|Shield]]_ __(1st)__ _[[Spells/Void Warp|Chill Touch]]_"

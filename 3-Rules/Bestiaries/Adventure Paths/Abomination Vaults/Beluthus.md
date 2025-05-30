@@ -57,17 +57,20 @@ abilities_mid:
   - name: "Spell Deflection"
     desc: " (divine,mental) A spellcaster who targets a devourer with a mental spell, [[Spells/Banishment|Banishment]], [[Spells/Seize Soul|Seize Soul]], [[Spells/Divine Decree|Divine Decree]], [[Spells/Divine Wrath|Divine Wrath]], [[Spells/Possession|Possession]], [[Spells/Spirit Blast|Spirit Blast]], or [[Spells/Spirit Song|Spirit Song]] can attempt a counteract check to free a soul the devourer has trapped with Devour Soul. If this counteract attempt succeeds, the trapped soul is released (though the creature remains dead), and the devourer can't use any soul charges from that creature.\n\nDevourers are otherwise immune to these spells."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +24 (agile, reach 10 feet)\n__Damage__  2d10 + 13 slashing plus drain-life"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+24 (agile, reach 10 feet, unarmed)\n__Damage__  2d10 + 13 slashing plus drain-life"
 
   - name: "Occult Innate Spells"
     desc: "DC 31, attack +21; __6th __  _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Truesight|True Seeing]]_; __4th __  _[[Spells/Confusion|Confusion]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Bind Undead|Bind Undead]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __  _[[Spells/Death Knell|Death Knell]]_; __1st __  _[[Spells/Harm|Harm]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead]]_"
+    desc: "_Create Undead_"
 
   - name: "Devour Soul"
     desc: "`pf2:2` (death,divine) The devourer touches a creature within reach, dealing 8d6 void damage (DC 31 Fortitude check save). If a creature is slain by this attack, its soul becomes trapped within the devourer. While its soul is trapped, a creature can't be resurrected except by powerful magic such as a [[Spells/Wish|Wish]] spell. Destroying the devourer or successfully counteracting Devour Soul (see spell deflection) releases the soul. The devourer can hold only one soul at a time.\n\nA soul has 5 soul charges per level of the originating creature (see the soul spells ability below). The devourer can expend these charges to cast spells. If the soul is freed and the creature returns to life, the creature is [[Conditions/Drained|Drained 1]] for every 5 soul charges expended. If reduced to 0 soul charges, the soul is consumed and can be restored to life only by powerful magic such as _wish_."

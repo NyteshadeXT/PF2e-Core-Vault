@@ -25,5 +25,5 @@ If your signature weapon is destroyed, you can spend three days and three nights
 
 [[Feat_Feature Effects/Effect_ Signature Weapon|Effect: Signature Weapon]]
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

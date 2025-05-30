@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +21 (magical, versatile p)\n__Damage__  3d8 + 6 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+21 (magical, versatile p)\n__Damage__  3d8 + 6 slashing"
 
   - name: "Scroll Thaumaturgy"
     desc: "DC 28, attack +20"

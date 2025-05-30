@@ -7,8 +7,9 @@ tags:
   - trait/magical
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.o3J79hnr00ztcwtT"
-license: OGL
+license: ORC
 ---
 # Fulminating Shot `pf2:1`
 ## Feat 6
@@ -24,7 +25,7 @@ license: OGL
 
 * * *
 
-You channel potent magic into your next shot, empowering it with a blast of crackling energy. Choose acid, cold, electricity, or fire. If you hit with your next attack roll using a firearm or crossbow before the end of your turn, you deal 1d6 additional damage of this type. At 12th level, this increases to 2d6 additional damage, and at 18th level, it increases to 3d6 additional damage.
+You channel magic into your next shot. Choose acid, cold, electricity, or fire. If you hit with your next attack roll using a firearm or crossbow before the end of your turn, you deal 1d6 additional damage of this type. At 12th level, this increases to 2d6 additional damage, and at 18th level, it increases to 3d6 additional damage.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

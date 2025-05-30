@@ -22,5 +22,5 @@ license: OGL
 * * *
 You are trained to preserve the archaeological value of your location when entering. You don't take a penalty to [[Actions/Force Open|Force Open]] doors, windows, or containers without a crowbar. If you roll a success on a check to Force Open, you get a critical success instead.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

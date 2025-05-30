@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Calistria - Major Curse"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/curse
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.fV940VM5RCsNwUvA"
 license: OGL
 ---
 # Calistria - Major Curse
-
+## Feat 1
 ### 
 
 **Category** curse; 
@@ -23,5 +23,5 @@ Whenever another creature imagines vengeance upon you but can't pursue that veng
 
 Once the revenge is complete or the manifestation is destroyed, the summoned creature vanishes from existence.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

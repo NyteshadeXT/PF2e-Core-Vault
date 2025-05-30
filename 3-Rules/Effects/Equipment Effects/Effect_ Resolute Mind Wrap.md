@@ -8,13 +8,15 @@ aliases: "Compendium.pf2e.equipment-effects.Item.sbxGrVdEsYZ5KiCj"
 license: OGL
 ---
 # Effect: Resolute Mind Wrap
-## Level 1
+## Level 7
 ### 
 
 
 
 
 
+
+Granted by [[Equipment/Resolute Mind Wrap|Resolute Mind Wrap]]
 
 You gain resistance 10 to mental damage.
 

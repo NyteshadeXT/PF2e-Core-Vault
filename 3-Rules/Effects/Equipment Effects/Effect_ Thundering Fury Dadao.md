@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Thundering Fury Dadao|Thundering Fury Dadao]]
+
 The _thundering fury dadao_ gains the agile and forceful traits.
 
 *Source: Pathfinder #199: To Bloom Below the Web*

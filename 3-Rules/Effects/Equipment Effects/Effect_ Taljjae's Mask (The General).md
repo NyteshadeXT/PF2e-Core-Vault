@@ -16,7 +16,9 @@ license: OGL
 
 
 
-The General grants its wearer a +3 status bonus to attack rolls with polearms for 1 minute.
+Granted by [[Equipment/Taljjae's Mask (The General)|Taljjae's Mask (The General)]]
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+You gain a +3 status bonus to attack rolls with polearms.
+
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

@@ -58,10 +58,16 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Wavesense|Wavesense (Imprecise) 100 feet]]"
+    desc: "  This sense allows a monster to feel vibrations caused by movement through a liquid. It's an imprecise sense with a limited range (listed in the ability). Wavesense functions only if monster and the subject are in the same body of liquid, and only if the subject is moving through the liquid."
+
 abilities_mid:
   - name: ""
   - name: "Necrotic Runoff"
     desc: " (aura,poison) 60 feet. A seetangeist secretes foul fluids into the surrounding water, poisoning it. A creature that enters or starts its turn in the aura must succeed at a DC 29 Fortitude check save or become [[Conditions/Sickened|Sickened 2]] ([[Conditions/Sickened|Sickened 3]] on a critical failure). Creatures that breathe water take a -2 circumstance penalty to this saving throw. As long as a creature remains in the aura, it can't reduce its sickened condition below 1. A creature that succeeds at its save is temporarily immune for 1 minute."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""

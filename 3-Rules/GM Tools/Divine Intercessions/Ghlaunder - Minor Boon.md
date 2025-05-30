@@ -22,5 +22,5 @@ Once, you can summon a cloud of midges, mosquitos, and flies to surround you for
 
 Ghlaunder typically grants this boon when you can infect a significant number of creatures.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

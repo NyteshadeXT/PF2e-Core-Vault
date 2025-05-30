@@ -16,14 +16,9 @@ license: OGL
 
 
 
-Granted by [[Sixfingers Elixir (Greater)|Sixfingers Elixir (Greater)]]
+Granted by [[Equipment/Sixfingers Elixir (Greater)|Sixfingers Elixir (Greater)]]
 
-* * *
-
-Auomatically applied effects:
-
-*   gain a Climb speed of 20 feet
-*   +2 to Reflex DCs against Disarm
+You gain a +2 item bonus to your Reflex DC to keep from being Disarmed and a Climb Speed of 20 feet.
 
 *Source: Pathfinder Adventure: The Slithering*
 *OGL*

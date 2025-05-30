@@ -35,6 +35,6 @@ abilities_top:
     desc: "10 minutes"
 abilities_mid:
   - name: ""
-    desc: "You coat a creature's body in a layer of brilliantly sparkling glitter. The target gains a +2 status bonus on Deception checks to [[Actions/Create a Diversion|Create a Diversion]] and to [[Actions/Feint|Feint]], and on Performance checks to [[Actions/Perform|Perform]] that have the visual trait. When the target take damage, glitter bursts out of its wound in a @Template[emanation|distance:5]. Creatures in the area must attempt a Fortitude save.\n\n**Failure** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Critical Failure** The creature is dazzled for 3 rounds."
-sourcebook: "_Pathfinder Lost Omens: Firebrands_"
+    desc: "You coat a creature's body in a layer of brilliantly sparkling glitter. The target gains a +2 status bonus on Deception checks to [[Actions/Create a Diversion|Create a Diversion]] and to [[Actions/Feint|Feint]], and on Performance checks to [[Actions/Perform|Perform]] that have the visual trait. When the target take damage, glitter bursts out of its wound in a 5-foot emanation. Creatures in the area must attempt a Fortitude save.\n\n**Failure** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Critical Failure** The creature is dazzled for 3 rounds."
+sourcebook: "_Pathfinder Lost Omens Firebrands_"
 ```

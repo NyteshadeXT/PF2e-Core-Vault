@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +17 (magical, fatal d10)\n__Damage__  2d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+17 (magical)\n__Damage__  2d6 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +16 (magical, thrown 20 ft., fatal d10)\n__Damage__  2d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+16 (magical, thrown 20 ft.)\n__Damage__  2d6 + 4 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Chilling Darkness|Chilling Darkness]]_; __2nd __  _[[Spells/Death Knell|Death Knell]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Bless|Bless]]_, _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Light|Light]]_, _[[Spells/Stabilize|Stabilize]]_"
@@ -79,7 +79,7 @@ attacks:
     desc: "2 Focus Points, DC 24, attack +16; __3rd __ (2 slots) _[[Spells/Touch of Obedience|Glare of Obedience]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "Demonic Strength"
     desc: "  Nyamat inflicts an extra 1d6 damage with his spear, and any spear gains the fatal d10 trait while Nyamat is using it (both the extra weapon damage die and the fatal trait have already been included in Nyamat's spear Strikes above)."

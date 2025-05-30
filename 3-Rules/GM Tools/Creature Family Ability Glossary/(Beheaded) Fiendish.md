@@ -8,14 +8,14 @@ tags:
   - trait/emotion
   - trait/fear
   - trait/mental
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.1gsgecz7rhvHeiCX"
 license: OGL
 ---
 # (Beheaded) Fiendish
 
-### [[3-Rules/trait_reference/A/aura]][[divine]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]]
+### [[aura]][[divine]][[emotion]][[fear]][[mental]]
 
 **Category** offensive; 
 

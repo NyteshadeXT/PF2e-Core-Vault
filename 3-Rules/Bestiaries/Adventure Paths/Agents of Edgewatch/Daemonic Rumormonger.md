@@ -58,6 +58,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Opportune Dodge"
@@ -66,11 +72,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +41 (agile, finesse, magical, unholy)\n__Damage__  4d8 + 17 slashing plus black-ink-delirium 2d6 spirit plus black-ink-delirium"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+41 (agile, finesse, magical, unarmed, unholy)\n__Damage__  4d8 + 17 slashing plus black-ink-delirium 2d6 spirit plus black-ink-delirium"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Broken Quills +39 (magical, range increment 40 feet, unholy)\n__Damage__  2d6 + 17 piercing plus black-ink-delirium 2d6 spirit plus black-ink-delirium"
+  - name: "**Ranged** `pf2:1` Broken Quills"
+    desc: "+39 (magical, range increment 40 feet, unholy)\n__Damage__  2d6 + 17 piercing plus black-ink-delirium 2d6 spirit plus black-ink-delirium"
 
   - name: "Divine Innate Spells"
     desc: "DC 45, attack +37; __7th __ (3 slots) _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Spell Turning|Spell Turning]]_, _[[Spells/Warp Mind|Warp Mind]]_; __5th __ (1 slots) _[[Spells/Translocate|Dimension Door]]_; __4th __ (1 slots) _[[Spells/Translocate|Dimension Door (At Will)]]_\n__Constant__  __(6th)__ _[[Spells/Truesight|True Seeing]]_, _[[Spells/Water Walk|Water Walk]]_"
@@ -79,7 +85,7 @@ attacks:
     desc: " (poison) **Saving Throw** DC 38 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 3d6 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round)\n\n**Stage 2** 6d6 poison damage and [[Conditions/Confused|Confused]] (1 round)"
 
   - name: "Breath of Lies"
-    desc: "`pf2:2` (acid,magical,poison) The Daemonic Rumormonger breathes a torrent of acidic sand and poisoned ink in an @Template[line|distance:80], dealing 6d12 acid damage and 6d12 poison damage and exposing victims to his black ink delirium.\n\nHe can't use Breath of Lies again for 1d4 rounds."
+    desc: "`pf2:2` (acid,magical,poison) The Daemonic Rumormonger breathes a torrent of acidic sand and poisoned ink in an 80-foot line, dealing 6d12 acid damage and 6d12 poison damage and exposing victims to his black ink delirium.\n\nHe can't use Breath of Lies again for 1d4 rounds."
 
   - name: "Whirling Slashes"
     desc: "`pf2:2`  The Daemonic Rumormonger Strides up to his Speed. He can make up to three claw Strikes, each against a different target, at any points during this Stride. His multiple attack penalty applies as usual."

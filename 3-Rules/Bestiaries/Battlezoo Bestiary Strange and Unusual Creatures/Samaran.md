@@ -33,7 +33,7 @@ perception:
 languages: "Arboreal, Common, Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +6, Athletics: +2, Crafting: +8, Stealth: +6, Acrobatics: +6, Athletics: +2, Crafting: +8, Stealth: +6, Arboreal Lore: +6"
+    desc: "Acrobatics: +6, Athletics: +2, Crafting: +8, Stealth: +6, Arboreal Lore: +6"
 abilityMods: [0, 3, 1, 3, 1, 1]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Halberd +8 (versatile s)\n__Damage__  1d10 piercing"
+  - name: "**Melee** `pf2:1` Halberd"
+    desc: "+8 (versatile s)\n__Damage__  1d10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Twig +9 (agile, finesse, reach 0 feet)\n__Damage__  1d8 bludgeoning"
+  - name: "**Melee** `pf2:1` Twig"
+    desc: "+9 (agile, finesse, reach 0 feet)\n__Damage__  1d8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Branch +9 (range increment 10 feet)\n__Damage__  1d6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Branch"
+    desc: "+9 (range increment 10 feet)\n__Damage__  1d6 bludgeoning"
 
   - name: "Falling Branch"
     desc: "`pf2:2`  A samaran closes distance quickly to surprise foes. The samaran Leaps up to 30 feet and makes a Strike with the following additional effects depending on the Strike's success.\n* * *\n\n**Critical Success** The Strike deals an additional 2d8 damage (applied after doubling the damage for the critical hit).\n\n**Success** The Strike deals an additional 1d8 damage.\n\n**Failure** The Strike still misses, but the target takes 1 bludgeoning damage from the falling samaran.\n\n**Critical Failure** The samaran falls painfully, taking 1d8 bludgeoning damage and falling [[undefined]]."

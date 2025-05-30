@@ -39,7 +39,7 @@ perception:
 languages: "Chthonian, Common, Diabolic, Draconic, Empyrean"
 skills:
   - name: "Skills"
-    desc: "Arcana: +16, Athletics: +22, Intimidation: +22, Arcana: +16, Athletics: +22, Intimidation: +22"
+    desc: "Arcana: +16, Athletics: +22, Intimidation: +22"
 abilityMods: [5, -4, 5, 4, -1, 5]
 speed: 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -69,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (reach 10 feet)\n__Damage__  2d12 + 13 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (reach 10 feet)\n__Damage__  2d12 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 (agile)\n__Damage__  2d8 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+23 (agile)\n__Damage__  2d8 + 13 bludgeoning"
 
   - name: "Arcane Spontaneous Spells"
-    desc: "DC 26, attack +18; __5th __ (2 slots) _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __4th __ (2 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __2nd __ (2 slots) _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(5th)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 26, attack +18; __5th __ (2 slots) _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __4th __ (2 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __2nd __ (2 slots) _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(5th)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Somatic Flailing"
     desc: "`pf2:2`  As the summoner uses magic, the fiend lashes out at a nearby creature. The amalgamess Casts a Spell and makes a claw Strike against a creature within its reach other than the target of the spell. If the spell has an attack roll, both attacks count toward its multiple attack penalty, but the penalty doesn't increase until after it's made both of them. The amalgamess can't use Somatic Flailing again until it uses Writhing Crawl."

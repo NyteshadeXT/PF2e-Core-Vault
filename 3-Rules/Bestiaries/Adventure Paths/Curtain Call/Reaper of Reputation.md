@@ -51,7 +51,10 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "+3 Greater Striking Greater Astral Keen Wounding Rapier, +2 Greater Resilient Antimagic Raiment Leather Armor, White Cleome's Eye, Ashes of the War God, 2x Healing Potion (Greater), 2x Panacea"
+    desc: "[[Equipment/Rapier|+3 Greater Striking Greater Astral Keen Wounding Rapier]], [[Equipment/Leather Armor|+2 Greater Resilient Antimagic Raiment Leather Armor]], [[Equipment/White Cleome's Eye|White Cleome's Eye]], [[Equipment/Ashes of the War God|Ashes of the War God]], 2x [[Equipment/Healing Potion (Greater)|Healing Potion (Greater)]], 2x [[Equipment/Panacea|Panacea]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Corrupt Speech"
@@ -60,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +35 (agile, finesse, magical)\n__Damage__  4d4 + 16 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+35 (agile, finesse, magical, unarmed)\n__Damage__  4d4 + 16 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Antler +35 (magical)\n__Damage__  4d8 + 16 piercing plus knockdown"
+  - name: "**Melee** `pf2:1` Antler"
+    desc: "+35 (magical)\n__Damage__  4d8 + 16 piercing plus knockdown"
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +37 (deadly d8, disarm, finesse, magical)\n__Damage__  3d6 + 16 piercing 1d6 spirit 1d6 bleed"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+37 (deadly d8, disarm, finesse, magical)\n__Damage__  3d6 + 16 piercing 1d6 spirit 1d6 bleed"
 
   - name: "Occult Innate Spells"
     desc: "DC 41, attack +33; __10th __  _[[Spells/Fabricated Truth|Fabricated Truth]]_; __9th __  _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Spirit Blast|Spirit Blast]]_; __8th __  _[[Spells/Disappearance|Disappearance]]_; __5th __  _[[Spells/Subconscious Suggestion|Subconscious Suggestion (At Will)]]_\n__Constant__  __(10th)__ _[[Spells/Truespeech|Truespeech]]_"
@@ -76,7 +79,7 @@ attacks:
     desc: "_Collective Memories_, _Geas_, _Planar Servitor_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The Reaper of Reputations can take on the appearance of any Small or Medium humanoid. This doesn't change his Speed or his attack and damage bonuses with his rapier or fist Strikes, but does prevent him from using his antlers Strike. The Reaper can Change Shape to Impersonate specific individuals.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The Reaper of Reputations can take on the appearance of any Small or Medium humanoid. This doesn't change his Speed or his attack and damage bonuses with his rapier or fist Strikes, but does prevent him from using his antlers Strike. The Reaper can Change Shape to Impersonate specific individuals.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Reap Reputation"
     desc: "`pf2:2` (auditory,emotion,linguistic,mental,occult) The Reaper of Reputation makes a compelling and devastating speech in a language of his choice. Any number creatures chosen by the Reaper who are within 30 feet who can understand this speech feel their own reputations twisting as a mix of fear and paranoia take hold. Each creature in the area must attempt a DC 42 Will check save. The Reaper of Reputation can't Reap Reputation again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 10d6 mental damage.\n\n**Failure** The creature becomes [[Conditions/Confused|Confused]] for 1 minute. Once the confusion effect ends, the mental anguish and memories of what they did while they were confused cause them to take 10d6 mental damage.\n\n**Critical Failure** As failure, but 20d6 mental damage and 1d6 persistent mental damage."
@@ -85,10 +88,10 @@ attacks:
     desc: "  The Reaper of Reputation deals 3d6 extra precision damage to creatures who are [[Conditions/Off-Guard|Off-Guard]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[Wooden Fists|Wooden Fists]]
+Granted by [[Spells/Wooden Fists|Wooden Fists]]
 
 Your fists deal more bludgeoning damage, lose the nonlethal trait, and have reach.
 

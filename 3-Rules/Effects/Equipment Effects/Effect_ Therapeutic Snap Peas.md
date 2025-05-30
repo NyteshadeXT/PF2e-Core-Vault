@@ -17,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Therapeutic Snap Peas|Therapeutic Snap Peas]]
+Granted by [[Equipment/Therapeutic Snap Peas|Therapeutic Snap Peas]]
 
-You gain a +2 item bonus to all saves against poisons or diseases for 1 minute.
+You gain a +2 item bonus to all saves against poisons or diseases.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

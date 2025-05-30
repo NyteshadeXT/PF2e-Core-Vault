@@ -16,7 +16,9 @@ license: OGL
 
 
 
-While remaining recognizably yourself, you also become preternaturally attractive, gaining a +1 circumstance bonus to Make an Impression.
+Granted by [[Spells/Bathe in Blood|Bathe in Blood]]
+
+You gain a +1 circumstance bonus to Make an Impression.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

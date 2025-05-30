@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Feats/Cat Nap|Cat Nap]].
+Granted by [[Feats/Cat Nap|Cat Nap]]
 
-You gain temporary Hit Points equal to your level that last for 10 minutes.
+You gain temporary Hit Points equal to your level.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

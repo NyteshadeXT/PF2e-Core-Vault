@@ -12,7 +12,7 @@ license: OGL
 ---
 # Rapid Retraining
 ## Feat 9
-### [rare](rare.md "Rare Rarity Trait")[[downtime]][[reincarnated]]
+### [rare](rare "Rare Rarity Trait")[[downtime]][[reincarnated]]
 
 **Category** ancestry; 
 

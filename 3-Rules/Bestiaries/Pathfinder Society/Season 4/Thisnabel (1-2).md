@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Aldori Dueling Sword +6 (finesse, versatile p)\n__Damage__  1d8 - 1 slashing"
+  - name: "**Melee** `pf2:1` Aldori Dueling Sword"
+    desc: "+6 (finesse, versatile p)\n__Damage__  1d8 - 1 slashing"
 
   - name: "[[Actor.K9ClMcqPZ4BdZ7iU.Item.1EsMXmB9tTK4sElQ|Aldori Parry]]"
     desc: "`pf2:1`  Thisnabel gains a +2 circumstance bonus to AC until the start of their next turn."

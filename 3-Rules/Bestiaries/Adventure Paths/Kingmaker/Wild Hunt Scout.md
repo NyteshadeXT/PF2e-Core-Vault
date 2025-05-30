@@ -61,6 +61,9 @@ abilities_top:
   - name: "Wild Hunt Link"
     desc: " (aura,magical) 500 feet. A wild hunt scout grants other wild hunt creatures the scout's [[Class Features/Deny Advantage|Deny Advantage]]."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Instinctive Cooperation"
@@ -72,11 +75,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Crystal Scimitar +35 (forceful, magical, sweep)\n__Damage__  3d6 + 17 slashing 2d6 force"
+  - name: "**Melee** `pf2:1` Crystal Scimitar"
+    desc: "+35 (forceful, magical, sweep)\n__Damage__  3d6 + 17 slashing 2d6 force"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Emerald Beam +34 (range 40 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Emerald Beam"
+    desc: "+34 (range 40 feet)\n__Damage__ "
 
   - name: "Primal Innate Spells"
     desc: "DC 40, attack +32; __9th __  _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Unfettered Pack|Unfettered Pack]]_; __8th __  _[[Spells/Disappearance|Disappearance]]_, _[[Spells/Migration|Wind Walk]]_; __7th __  _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Interplanar Teleport|Plane Shift]]_; __6th __  _[[Spells/Speak with Stones|Stone Tell]]_; __5th __  _[[Spells/Translocate|Dimension Door (x3)]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(9th)__ _[[Spells/Know the Way|Know Direction]]_\n__Constant__  __(9th)__ _[[Spells/Vanishing Tracks|Pass Without Trace]]_, _[[Spells/Speak with Animals|Speak with Animals]]_, _[[Spells/Speak with Plants|Speak with Plants]]_, _[[Spells/Truesight|True Seeing]]_"

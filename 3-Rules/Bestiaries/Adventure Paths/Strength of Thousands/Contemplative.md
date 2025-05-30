@@ -48,6 +48,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 30 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Thoughtsense (Imprecise) 30 feet"
     desc: " (mental,occult) The contemplative senses all non-mindless creatures at the listed range."
 
@@ -59,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +7 (finesse)\n__Damage__  1d6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+7 (finesse, unarmed)\n__Damage__  1d6 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Force Barrage|Magic Missile (x3)]]_\n__Cantrips__  __(1st)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

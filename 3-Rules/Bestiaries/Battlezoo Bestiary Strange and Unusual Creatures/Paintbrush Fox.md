@@ -33,7 +33,7 @@ perception:
 languages: "Fey"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +8, Athletics: +4, Crafting: +4, Deception: +7, Performance: +5, Stealth: +8, Survival: +8, Acrobatics: +8, Athletics: +4, Crafting: +4, Deception: +7, Performance: +5, Stealth: +8, Survival: +8"
+    desc: "Acrobatics: +8, Athletics: +4, Crafting: +4, Deception: +7, Performance: +5, Stealth: +8, Survival: +8"
 abilityMods: [-2, 3, 1, -2, 3, 1]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -54,8 +54,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 (agile, finesse)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (agile, finesse)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_"

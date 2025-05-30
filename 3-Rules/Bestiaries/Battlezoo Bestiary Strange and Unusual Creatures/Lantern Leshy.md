@@ -41,7 +41,7 @@ perception:
 languages: "Common, Wildsong, Fey, Necril"
 skills:
   - name: "Skills"
-    desc: "Deception: +7, Intimidation: +7, Occultism: +7, Stealth: +8, Deception: +7, Intimidation: +7, Occultism: +7, Stealth: +8"
+    desc: "Deception: +7, Intimidation: +7, Occultism: +7, Stealth: +8"
 abilityMods: [3, 4, 3, 1, 4, 3]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -68,14 +68,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile, finesse)\n__Damage__  1d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, finesse)\n__Damage__  1d6 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Head +7 (range increment 30 feet)\n__Damage__  1d10 + 3 bludgeoning plus head-toss 1d4 fire plus head-toss"
+  - name: "**Ranged** `pf2:1` Head"
+    desc: "+7 (range increment 30 feet)\n__Damage__  1d10 + 3 bludgeoning plus head-toss 1d4 fire plus head-toss"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Roasted Seed +9 (range increment 30 feet)\n__Damage__  1d8 + 3 bludgeoning 1 fire"
+  - name: "**Ranged** `pf2:1` Roasted Seed"
+    desc: "+9 (range increment 30 feet)\n__Damage__  1d8 + 3 bludgeoning 1 fire"
 
   - name: "Head Toss"
     desc: "`pf2:2` (emotion,fear,mental) The lantern leshy can remove its head and toss it to attack a foe. It makes a head Strike against a foe; this ability is the only way it can make a head Strike. Whether the Strike hits or misses, any creature within 20 feet of either the lantern leshy or the Strike's target must attempt a DC 18 Will check save or be [[undefined]] ([[undefined]] on a critical failure). The lantern leshy's head does not return after being thrown until it retrieves and reattaches it. It is [[Conditions/Blinded|Blinded]] until then, though it always precisely senses its own head. Picking up and reattaching the head requires a single Interact action by the lantern leshy, which it can do as long as the head is within its reach."

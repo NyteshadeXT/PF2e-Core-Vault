@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Horn of Exorcism|Horn of Exorcism]]
+Granted by [[Equipment/Horn of Exorcism|Horn of Exorcism]]
 
 The horn grants you the _ghost touch_ property rune on all of your weapon and unarmed Strikes.
 

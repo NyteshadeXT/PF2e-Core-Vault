@@ -11,7 +11,7 @@ license: OGL
 ---
 # The Harder They Fall (Kingmaker)
 ## Feat 8
-### [rare](rare.md "Rare Rarity Trait")[[ranger]]
+### [rare](rare "Rare Rarity Trait")[[ranger]]
 
 **Category** class; 
 

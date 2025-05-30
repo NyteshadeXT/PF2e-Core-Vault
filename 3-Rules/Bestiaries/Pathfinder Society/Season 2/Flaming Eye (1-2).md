@@ -59,16 +59,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Explode"
-    desc: "  When the flaming eye dies, it explodes in a violent burst of flame, dealing 1d6 fire damage (DC 14 Reflex check save) to creatures in a @Template[burst|distance:5]."
+    desc: "  When the flaming eye dies, it explodes in a violent burst of flame, dealing 1d6 fire damage (DC 14 Reflex check save) to creatures in a 5-foot burst."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Eye +7 (finesse)\n__Damage__  1d4 fire"
+  - name: "**Melee** `pf2:1` Eye"
+    desc: "+7 (finesse)\n__Damage__  1d4 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Fire Blast +7 (range increment 10 feet)\n__Damage__  1d6 fire"
+  - name: "**Ranged** `pf2:1` Fire Blast"
+    desc: "+7 (range increment 10 feet)\n__Damage__  1d6 fire"
  
 ```
 

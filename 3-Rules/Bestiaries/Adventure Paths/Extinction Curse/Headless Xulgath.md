@@ -60,7 +60,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Powerful Stench"
     desc: " (aura,olfactory) 30 feet. A creature that enters the area must attempt a DC 29 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 2]], and on a critical failure, the creature is also [[Conditions/Slowed|Slowed 1]] for as long as it is sickened. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute."
@@ -68,8 +68,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +22 (agile, reach 15 feet)\n__Damage__  2d8 + 13 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+22 (agile, reach 15 feet, unarmed)\n__Damage__  2d8 + 13 slashing plus grab"
 
   - name: "Choke Slam"
     desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** The headless xulgath has a creature grabbed\n* * *\n\n**Effect** The headless xulgath slams the creature against a nearby surface. The creature takes 6d6+6 bludgeoning damage and must attempt a DC 30 Fortitude check save.\n* * *\n\n**Critical Success** The creature is no longer grabbed.\n\n**Failure** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Critical Failure** The creature is [[Conditions/Stunned|Stunned]] for 1 round."
@@ -78,7 +78,7 @@ attacks:
     desc: "`pf2:3` (attack) The headless xulgath makes up to four claws Strikes, each against a different target. These attacks all count toward the headless xulgath's multiple attack penalty, but the penalty doesn't increase until after the headless xulgath makes all its attacks."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Animal Speaker
 ## Feat 5
-### [[3-Rules/Bestiaries/Bestiary 1/S/Sprite]]
+### [[sprite]]
 
 **Category** ancestry; 
 
@@ -21,5 +21,5 @@ license: OGL
 * * *
 You can speak to all animals, not just a particular subset. You gain a +1 circumstance bonus to Make an Impression on animals (which usually uses the Diplomacy skill).
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

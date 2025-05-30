@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +13 (agile, finesse, trip)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+13 (agile, finesse, trip)\n__Damage__  1d6 + 5 slashing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 21, attack +13; __3rd __  _[[Spells/Chilling Darkness|Chilling Darkness]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __1st __  _[[Spells/Alarm|Alarm]]_, _[[Spells/Command|Command]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(3rd)__ _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
@@ -70,7 +70,7 @@ attacks:
     desc: "_Monstrous Bloom_"
 
   - name: "Absorb the Bloom"
-    desc: "`pf2:1` (divine,manipulate) The bloom cultist places a hand against the wall or floor in the Cradle of Lamashtu and utters a prayer to the Mother of Monsters. Filaments of fungus slither up into the cultist's flesh, healing 4d6 points of damage. The cultist can't Absorb the Bloom for 24 hours."
+    desc: "`pf2:1` (divine,manipulate) The bloom cultist places a hand against the wall or floor in the Cradle of Lamashtu and utters a prayer to the Mother of Monsters. Filaments of fungus slither up into the cultist's flesh, healing 4d6 healing points of damage. The cultist can't Absorb the Bloom for 24 hours."
  
 ```
 

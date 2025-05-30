@@ -4,13 +4,13 @@ title: "Recenter"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.actionspf2e.Item.5p2AMqM9bOVnhwPT"
 license: OGL
 ---
 # Recenter `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]]
+### [[concentrate]]
 
 
 

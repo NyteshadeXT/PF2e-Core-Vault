@@ -35,5 +35,5 @@ You call upon your deity to grant you their protective blessing. Attempt a DC 30
 
 **Critical Failure** Your deity withholds their blessing. You cannot attempt to call to your deity again for 1 day.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

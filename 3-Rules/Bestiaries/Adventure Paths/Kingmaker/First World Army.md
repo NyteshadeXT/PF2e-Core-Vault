@@ -23,7 +23,7 @@ level: "Army 16"
 rare_03: [[Rare]]
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: skirmisher
 modifier: 28
 perception:
@@ -31,7 +31,7 @@ perception:
   - name: "Scouting"
     desc: "+28"
   - name: "Recruitment DC"
-    desc: "; __Consumption__ 0"
+    desc: "15; __Consumption__ 1"
   - name: "Description"
     desc: "This army is composed of an eclectic mix of fey, beasts, and plants—a supernatural mob of monsters with a wide range of options in battle."
 ac: 38

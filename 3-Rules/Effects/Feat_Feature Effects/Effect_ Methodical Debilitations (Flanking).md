@@ -16,7 +16,9 @@ license: OGL
 
 
 
-The target is unable to flank or provide flanking.
+Granted by [[Feats/Methodical Debilitations|Methodical Debilitations]]
+
+You are unable to flank or provide flanking.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

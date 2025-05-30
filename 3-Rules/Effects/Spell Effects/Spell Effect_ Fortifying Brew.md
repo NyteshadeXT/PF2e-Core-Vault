@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Fortifying Brew|Fortifying Brew]]
+Granted by [[Spells/Fortifying Brew|Fortifying Brew]]
 
-Each guest gains temporary Hit Points. On a critical success, guests also gain a +2 status bonus to saves against disease, fear, and poison effects.
+You gain temporary Hit Points. On a critical success, you also gain a +2 status bonus to saves against diseases and poisons.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

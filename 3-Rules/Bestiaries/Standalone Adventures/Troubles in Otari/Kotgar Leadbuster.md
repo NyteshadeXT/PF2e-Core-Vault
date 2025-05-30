@@ -58,16 +58,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Maul +14 (shove)\n__Damage__  1d12 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Maul"
+    desc: "+14 (shove)\n__Damage__  1d12 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +11 (thrown 30 ft.)\n__Damage__  1d6 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+11 (thrown 30 ft.)\n__Damage__  1d6 + 8 piercing"
 
   - name: "Brutish Shove"
     desc: "`pf2:1`  If Kotgar has already attacked this turn and is holding a two-handed melee weapon, he can make a Strike with his two-handed melee weapon. If he hits a target that's Medium or smaller, he can push it back 5 feet, or 10 feet if his Strike was a critical hit. Kotgar can move to follow the target. Whether he hits or misses, the target is [[Conditions/Off-Guard|Off-Guard]] until the end of his current turn unless he critically fails."

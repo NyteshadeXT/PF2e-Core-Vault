@@ -51,6 +51,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Crystal Refraction"
@@ -59,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Leg +21 (reach 15 feet, versatile p)\n__Damage__  2d10 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Leg"
+    desc: "+21 (reach 15 feet, versatile p)\n__Damage__  2d10 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crystal Dart +21 (range increment 30 feet)\n__Damage__  2d10 + 13 piercing"
+  - name: "**Ranged** `pf2:1` Crystal Dart"
+    desc: "+21 (range increment 30 feet)\n__Damage__  2d10 + 13 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 29, attack +21; __5th __  _[[Spells/Chromatic Ray|Chromatic Ray (Release Light)]]_"
@@ -75,7 +78,7 @@ attacks:
     desc: "`pf2:1` (attack,light,primal) The strider emits the light that continually refracts within them to cast [[Spells/Chromatic Ray|Chromatic Ray]] as an innate primal spell heightened to 5th rank, with a +21 spell attack roll. The crystal strider can't Release Light again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, leg, DC 29 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Large or smaller, leg, DC 29 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

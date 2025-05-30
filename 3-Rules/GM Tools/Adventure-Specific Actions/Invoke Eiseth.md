@@ -8,14 +8,14 @@ tags:
   - trait/emotion
   - trait/linguistic
   - trait/mental
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.9NWMchSkF940L0SW"
 license: OGL
 ---
 # Invoke Eiseth `pf2:1`
 
-### [[auditory]][[concentrate]][[emotion]][[linguistic]][[3-Rules/trait_reference/M/mental]]
+### [[auditory]][[concentrate]][[emotion]][[linguistic]][[mental]]
 
 **Category** offensive; 
 

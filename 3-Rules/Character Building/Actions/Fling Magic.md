@@ -7,14 +7,14 @@ tags:
   - trait/magical
   - trait/manipulate
   - trait/thaumaturge
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.04VQuQih77pxX06q"
 license: OGL
 ---
 # Fling Magic `pf2:2`
 
-### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Manipulate]][[thaumaturge]]
+### [[concentrate]][[magical]][[manipulate]][[thaumaturge]]
 
 **Category** offensive; 
 
@@ -27,11 +27,7 @@ license: OGL
 
 You fling magical energy at a target within 60 feet, dealing damage equal to 1d4 + your Charisma modifier to the target, with a Reflex check save against your class DC. The damage is of the type you selected when you gained your wand implement. At 3rd level and every 2 levels thereafter, the damage increases by 1d4.
 
-Leveled damage
-
 You can expend more energy than usual to boost the effect of Fling Magic, dealing d6s of damage instead of d4s. After you do so, the wand takes 1d4 rounds to recharge, during which you can't boost the wand's damage but can continue to Fling Magic normally. If you critically hit with a Strike, your wand recharges immediately as it draws in power from the clash.
-
-Leveled boosted damage
 
 * * *
 

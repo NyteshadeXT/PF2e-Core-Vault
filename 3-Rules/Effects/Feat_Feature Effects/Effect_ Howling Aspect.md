@@ -21,5 +21,5 @@ Granted by [[Feats/Howling Aspect|Howling Aspect]]
 
 You gain a tusks melee unarmed attack that deals 1d6 piercing damage, is in the brawling group, and has the finesse and unarmed traits. You also gain a flame-hair melee unarmed attack that deals 1d4 fire damage, is in the brawling group, and has the agile, finesse, and unarmed traits.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

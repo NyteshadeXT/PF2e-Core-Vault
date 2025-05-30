@@ -54,28 +54,28 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike (Special)]]"
-    desc: "`pf2:r`  Bristles only. The woodweave caterpillar gains an extra reaction at the start of each of its turns that it can use only to make a Reactive Strike. It can't use more than one Reactive Strike triggered by the same action. In addition to the normal trigger, the caterpillar can make a Reactive Strike against a creature that touches it or an adjacent creature that attempts a melee Strike against it.\n\n* * *\n"
+    desc: "`pf2:r`  Bristles only. The woodweave caterpillar gains an extra reaction at the start of each of its turns that it can use only to make a Reactive Strike. It can't use more than one Reactive Strike triggered by the same action. In addition to the normal trigger, the caterpillar can make a Reactive Strike against a creature that touches it or an adjacent creature that attempts a melee Strike against it.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +25 (reach 10 feet)\n__Damage__  3d10 + 13 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+25 (reach 10 feet)\n__Damage__  3d10 + 13 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Bristles +25 ()\n__Damage__  3d8 + 13 piercing plus penetrating-bristles"
+  - name: "**Melee** `pf2:1` Bristles"
+    desc: "+25 ()\n__Damage__  3d8 + 13 piercing plus penetrating-bristles"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +23 ()\n__Damage__  3d10 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+23 (unarmed)\n__Damage__  3d10 + 11 bludgeoning"
 
   - name: "Penetrating Bristles"
     desc: "  On a critical hit with a bristles Strike, a woodweave caterpillar's bristles lodge in the target's body, causing severe pain and blood loss. They deal 3d6 bleed damage, and the target is [[Conditions/Off-Guard|Off-Guard]] as long as the persistent damage continues."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or Smaller, foot, DC 32 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Medium or Smaller, foot, DC 32 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

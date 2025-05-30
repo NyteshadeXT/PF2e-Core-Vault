@@ -4,14 +4,14 @@ title: "Consume Flesh"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.1If9lLVoZdO8woVg"
 license: OGL
 ---
 # Consume Flesh `pf2:1`
 
-### [[3-Rules/Rule References/Manipulate]]
+### [[manipulate]]
 
 **Category** interaction; 
 

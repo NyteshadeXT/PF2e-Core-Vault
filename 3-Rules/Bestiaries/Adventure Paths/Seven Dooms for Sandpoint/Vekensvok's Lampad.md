@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Earthen Fist +14 (agile, finesse)\n__Damage__  2d10 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Earthen Fist"
+    desc: "+14 (agile, finesse)\n__Damage__  2d10 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Wisp +14 (magical, range increment 30 feet)\n__Damage__  1d8 + 2 mental 1d6 fire 1d6 vitality"
+  - name: "**Ranged** `pf2:1` Light Wisp"
+    desc: "+14 (magical, range increment 30 feet)\n__Damage__  1d8 + 2 mental 1d6 fire 1d6 vitality"
 
   - name: "Primal Innate Spells"
     desc: "DC 22, attack +14; __4th __  _[[Spells/Shape Stone|Shape Stone]]_; __3rd __  _[[Spells/One with Stone|Meld into Stone (At Will)]]_, _[[Spells/Pummeling Rubble|Pummeling Rubble]]_; __2nd __  _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"

@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatclub +21 (backswing, magical, reach 10 feet, shove)\n__Damage__  2d10 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Greatclub"
+    desc: "+21 (backswing, magical, reach 10 feet, shove)\n__Damage__  2d10 + 12 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +20 (agile, reach 10 feet)\n__Damage__  2d6 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+20 (agile, reach 10 feet, unarmed)\n__Damage__  2d6 + 14 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +18 (brutal, range increment 120 feet)\n__Damage__  2d6 + 12 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+18 (brutal, range increment 120 feet)\n__Damage__  2d6 + 12 bludgeoning"
 
   - name: "Big Swing"
     desc: "`pf2:2`  The stone giant makes a greatclub Strike. The target is Pushed up to 10 feet on a hit or up to 20 feet on a critical hit.\n\nIf the target collides with a solid object, it takes bludgeoning damage as though it had fallen the distance it moved."

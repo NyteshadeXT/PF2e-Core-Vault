@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Precise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Camouflage"
     desc: "  The glimmervine can Hide in natural environments even if it doesn't have cover."
 
@@ -58,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vine +14 (reach 10 feet)\n__Damage__  2d6 + 8 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Vine"
+    desc: "+14 (reach 10 feet)\n__Damage__  2d6 + 8 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d6+4 bludgeoning, DC 21 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d6+4 bludgeoning, DC 21 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Dazzling Blooms"
     desc: "`pf2:1` (visual) The glimmervine shakes its iridescent blossoms to astound nearby foes. All creatures within 30 feet, except other glimmervines, must attempt a DC 21 Fortitude check save. The glimmervine then can't use Dazzling Blooms for 1d4 rounds.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Critical Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round, then dazzled for 1 round."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

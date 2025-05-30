@@ -39,5 +39,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You shroud the target in subtle illusions that make it difficult to detect. The target gains a +1 status bonus to Stealth checks to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]]. For the duration, the target can become [[Conditions/Hidden|Hidden]] to a creature even if they don't have cover and aren't otherwise [[Conditions/Concealed|Concealed]] from that creature. Even if the target isn't concealed or doesn't have cover or greater cover at the end of a Sneak action, the target isn't automatically observed.\n\n[[Spell Effects/Spell Effect_ Illusory Shroud|Spell Effect: Illusory Shroud]]"
-sourcebook: "_Pathfinder Lost Omens: Firebrands_"
+sourcebook: "_Pathfinder Lost Omens Firebrands_"
 ```

@@ -55,14 +55,17 @@ abilities_top:
     desc: "[[Equipment/Longsword|+2 Greater Striking Longsword]], [[Equipment/Full Plate|+2 Greater Resilient Full Plate]]"
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 20]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "Death Throes"
-    desc: " (alchemical,poison) When one of Ingnovim's assistants dies, it bursts open in a foul-sounding and smelling explosion of toxic viscera and poisonous vapors. All creatures within a @Template[burst|distance:20] must attempt a DC 38 Fortitude check save to resist this blast of poison.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 2]].\n\n**Failure** The creature takes 7d8 poison damage.\n\n**Critical Failure** The creature takes 14d8 poison damage and 2d8 persistent poison damage."
+    desc: " (alchemical,poison) When one of Ingnovim's assistants dies, it bursts open in a foul-sounding and smelling explosion of toxic viscera and poisonous vapors. All creatures within a 20-foot burst must attempt a DC 38 Fortitude check save to resist this blast of poison.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Sickened|Sickened 2]].\n\n**Failure** The creature takes 7d8 poison damage.\n\n**Critical Failure** The creature takes 14d8 poison damage and 2d8 persistent poison damage."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +33 (magical, versatile p)\n__Damage__  7d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+33 (magical, versatile p)\n__Damage__  7d8 + 8 slashing"
  
 ```
 

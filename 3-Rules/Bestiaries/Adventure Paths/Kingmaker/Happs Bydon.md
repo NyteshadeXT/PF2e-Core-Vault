@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +6 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+6 (agile, finesse, versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+7 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +7 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+7 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Focused Target"
     desc: "`pf2:1` (concentrate) Happs designates a single creature he can see as his target; when he does so, he issues a litany of mockery at the target. Happs gains a +2 circumstance bonus to Survival checks to [[Actions/Track|Track]] the target, and the first time he hits the target in a round, he deals an additional 1d8 precision damage to the target. These effects last until Happs uses Focused Target again."

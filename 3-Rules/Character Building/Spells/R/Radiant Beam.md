@@ -40,5 +40,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You fire a beam of blinding light from your outstretched hands. The beam deals 5d10 spirit damage. On a failed saving throw, a creature becomes [[Conditions/Dazzled|Dazzled]] for 1 round, or dazzled for 4 rounds on a critical failure.\n\nIf the light passes through an area of magical darkness or targets a creature affected by magical darkness, radiant beam attempts to counteract the darkness. If you need to determine whether the light passes through an area of darkness, draw a line between yourself and the target.\n* * *\n\n**Heightened (+1)** The damage increases by 1d10."
-sourcebook: "_Pathfinder Lost Omens: Knights of Lastwall_"
+sourcebook: "_Pathfinder Lost Omens Knights of Lastwall_"
 ```

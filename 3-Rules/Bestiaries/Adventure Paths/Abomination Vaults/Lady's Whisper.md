@@ -55,6 +55,9 @@ abilities_top:
   - name: "Death's Grace"
     desc: "  Lady's Whisper can choose whether or not it counts as undead for effects that affect undead differently. Even if it does not count as undead, Lady's Whisper never counts as a living creature."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Negative Recovery"
@@ -66,8 +69,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile, finesse)\n__Damage__  2d10 + 7 slashing plus unwilling-teleportation"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, finesse, unarmed)\n__Damage__  2d10 + 7 slashing plus unwilling-teleportation"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 30, attack +22; __5th __ (4 slots) _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Shadow Blast|Shadow Blast]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __4th __ (4 slots) _[[Spells/Flicker|Blink]]_, _[[Spells/Vapor Form|Gaseous Form]]_, _[[Spells/Rewrite Memory|Modify Memory]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __ (4 slots) _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Levitate|Levitate]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Slow|Slow]]_; __2nd __ (4 slots) _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Stupefy|Touch of Idiocy]]_; __1st __ (4 slots) _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

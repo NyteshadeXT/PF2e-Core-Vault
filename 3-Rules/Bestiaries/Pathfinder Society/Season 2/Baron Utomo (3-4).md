@@ -60,22 +60,25 @@ abilities_top:
   - name: "Shark Commune 150 feet"
     desc: " (mental) The sea devil can communicate telepathically with sharks within range. It can communicate only simple concepts like \"come,\" \"guard,\" or \"attack.\""
 
+  - name: "[[Bestiary Ability Glossary/Wavesense|Wavesense 30 feet]]"
+    desc: "  This sense allows a monster to feel vibrations caused by movement through a liquid. It's an imprecise sense with a limited range (listed in the ability). Wavesense functions only if monster and the subject are in the same body of liquid, and only if the subject is moving through the liquid."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Lance +14 (deadly d8, jousting d6, reach 10 feet)\n__Damage__  1d8 + 8 piercing"
+  - name: "**Melee** `pf2:1` Lance"
+    desc: "+14 (deadly d8, jousting d6, reach 10 feet)\n__Damage__  1d8 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 (agile)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (agile, unarmed)\n__Damage__  1d6 + 5 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 ()\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (unarmed)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +14 (thrown 20 ft.)\n__Damage__  1d8 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+14 (thrown 20 ft.)\n__Damage__  1d8 + 8 piercing"
 
   - name: "Blood Frenzy"
     desc: " (rage) **Requirements** The sea devil is not [[Conditions/Fatigued|Fatigued]] or already in a frenzy\n\n**Trigger** The sea devil deals bleed damage to a living creature.\n* * *\n\n**Effect** The sea devil flies into a frenzy that lasts 1 minute. While frenzied, the sea devil gains a +1 status bonus to attack rolls with its claws and jaws, gains a +4 status bonus to damage rolls with its claws and jaws, gains 11 temporary HP until the end of the frenzy, and takes a -2 status penalty to AC. The sea devil can't voluntarily stop its frenzy. After its frenzy, the sea devil is [[Conditions/Fatigued|Fatigued]]."

@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +8 ()\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+8 ()\n__Damage__  1d6 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +10 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+10 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) The recon patroller designates a single creature they can see and hear, or one they're Tracking, as their prey. The recon patroller gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey. The first time the recon patroller hits the designated prey in a round, they deal an additional 1d8 precision damage. The recon patroller also ignores the penalty for making ranged attacks within their second range increment. These effects last until the recon patroller uses Hunt Prey again."

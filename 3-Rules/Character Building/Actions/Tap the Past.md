@@ -27,5 +27,5 @@ license: ORC
 
 **Effect** You concentrate on the glimpses of a previous life to find a memory of a tome or an applicable lesson from your past. You roll a second time and use the higher result. If you roll a critical failure, you get a failure instead. If you roll a success, you get a critical success instead.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

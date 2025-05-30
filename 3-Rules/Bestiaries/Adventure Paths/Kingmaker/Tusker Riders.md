@@ -23,7 +23,7 @@ level: "Army 14"
 
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: infantry
 modifier: 24
 perception:
@@ -31,9 +31,9 @@ perception:
   - name: "Scouting"
     desc: "+24"
   - name: "Recruitment DC"
-    desc: "; __Consumption__ 0"
+    desc: "15; __Consumption__ 1"
   - name: "Description"
-    desc: "The hill giant warlord Kob Moleg sent these mammoth-mounted hill giants to King Irovetti as a gift."
+    desc: "The hill giant warlord Kob Moleg sent these mammoth-mounted hill giants to King Irovetti as a gift."
 ac: 35
 armorclass:
   - name: AC

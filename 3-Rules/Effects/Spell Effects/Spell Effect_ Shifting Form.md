@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Shifting Form|Shifting Form]]
+Granted by [[Spells/Shifting Form|Shifting Form]]
 
 You gain one of the following abilities of your choice.
 

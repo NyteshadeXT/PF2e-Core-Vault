@@ -58,19 +58,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +23 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 9 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+23 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Cold Iron Shortsword +22 (agile, cold iron, finesse, versatile s)\n__Damage__  1d6 + 9 piercing"
+  - name: "**Melee** `pf2:1` Cold Iron Shortsword"
+    desc: "+22 (agile, cold iron, finesse, versatile s)\n__Damage__  1d6 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +22 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+22 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 9 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Ameon Trask deals 2d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

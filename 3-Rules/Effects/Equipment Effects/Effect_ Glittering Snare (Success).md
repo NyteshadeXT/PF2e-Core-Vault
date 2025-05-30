@@ -16,7 +16,9 @@ license: OGL
 
 
 
-The creature takes a -1 status penalty to Stealth checks for 1 minute or until it uses an Interact action to remove the glitter.
+Granted by [[Equipment/Glittering Snare|Glittering Snare]]
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+You take a -1 status penalty to Stealth checks.
+
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

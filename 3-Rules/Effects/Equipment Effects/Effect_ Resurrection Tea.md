@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Resurrection Tea|Resurrection Tea]]
+
 Reduce the DC of recovery checks by 1.
 
 *Source: Pathfinder #197: Let the Leaves Fall*

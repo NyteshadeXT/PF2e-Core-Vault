@@ -60,11 +60,14 @@ abilities_mid:
   - name: "Iron Mind"
     desc: "  Hryngar taskmasters automatically disbelieve all illusions of 1st rank or lower."
 
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pick +8 (fatal d10)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Pick"
+    desc: "+8 (fatal d10)\n__Damage__  1d6 + 6 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Runic Weapon|Runic Weapon]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Shield|Shield]]_"

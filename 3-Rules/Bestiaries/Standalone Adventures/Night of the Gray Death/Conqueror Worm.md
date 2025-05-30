@@ -52,6 +52,18 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 100 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 200 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Air Walk"
@@ -72,8 +84,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +39 (acid, magical, reach, reach 20 feet)\n__Damage__  4d10 + 18 piercing plus improved-grab 2d6 acid plus improved-grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+39 (acid, magical, reach, reach 20 feet, unarmed)\n__Damage__  4d10 + 18 piercing plus improved-grab 2d6 acid plus improved-grab"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 48, attack +38; __10th __ (2 slots) _[[Spells/Fabricated Truth|Fabricated Truth]]_, _[[Spells/Freeze Time|Time Stop]]_; __9th __ (4 slots) _[[Spells/Foresight|Foresight]]_, _[[Spells/Overwhelming Presence|Overwhelming Presence]]_, _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_, _[[Spells/Telepathic Demand|Telepathic Demand]]_; __8th __ (4 slots) _[[Spells/Pinpoint|Discern Location]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Hidden Mind|Mind Blank]]_, _[[Spells/Unrelenting Observation|Unrelenting Observation]]_; __7th __ (4 slots) _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Possession|Possession]]_, _[[Spells/Project Image|Project Image]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __ (4 slots) _[[Spells/Dominate|Dominate]]_, _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Scrying|Scrying]]_, _[[Spells/Zealous Conviction|Zealous Conviction]]_; __5th __ (4 slots) _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Mind Probe|Mind Probe]]_, _[[Spells/Sending|Sending]]_, _[[Spells/Synesthesia|Synesthesia]]_; __4th __ (4 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Rewrite Memory|Modify Memory]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_; __3rd __ (4 slots) _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Veil of Privacy|Nondetection]]_; __2nd __ (4 slots) _[[Spells/Death Knell|Death Knell]]_, _[[Compendium.pf2e.spells-srd.Item.c2bTWBNO1BYX4Zfg|Misdirection]]_, _[[Spells/Status|Status]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __ (4 slots) _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Sure Strike|True Strike]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(10th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -82,7 +94,7 @@ attacks:
     desc: "DC 48, attack +38; __10th __ (1 slots) _[[Spells/Dominate|Dominate]]_; __9th __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_\n__Constant__  __(9th)__ _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Truesight|True Seeing]]_"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (acid,occult) The conqueror worm disgorges acid in a @Template[line|distance:120] that deals 14d10 acid damage to all creatures in the area (DC 44 Reflex check save). It can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (acid,occult) The conqueror worm disgorges acid in a 120-foot line that deals 14d10 acid damage to all creatures in the area (DC 44 Reflex check save). It can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Fast Swallow"
     desc: "`pf2:r`  **Trigger** The conqueror worm Grabs a creature\n* * *\n\n**Effect** The worm uses Swallow Whole."
@@ -91,7 +103,10 @@ attacks:
     desc: "`pf2:3` (teleportation) The conqueror worm selects up to three willing creatures subject to its Mental Invader ability that are on the same plane and teleports them to squares adjacent to the worm of the worm's choosing."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 4d10+10 bludgeoning plus 2d6 acid, Rupture 44\n\n* * *\n"
+    desc: "`pf2:1` (attack) Huge, 4d10+10 bludgeoning plus 2d6 acid, Rupture 44\n* * *\n\nThe monster attempts to swallow a creature of the listed size or smaller that it has grabbed or restrained in its jaws or mouth. If a swallowed creature is of the maximum size listed, the monster can't use Swallow Whole again. If the creature is smaller than the maximum, the monster can usually swallow more creatures; the GM determines the maximum. The monster attempts an Athletics check check opposed by the grabbed creature's Reflex DC. If it succeeds, it swallows the creature. The monster's mouth or jaws no longer grab a creature it has swallowed, so the monster is free to use them to Strike or Grab once again. The monster can't attack creatures it has swallowed.\n\nA swallowed creature is [[Conditions/Grabbed|Grabbed]], is [[Conditions/Slowed|Slowed 1]], and has to hold its breath or start suffocating. The swallowed creature takes the listed amount of damage when first swallowed and at the end of each of its turns while it's swallowed. If the victim [[Actions/Escape|Escapes]] this ability's grabbed condition, it exits through the monster's mouth. This frees any other creature grabbed in the monster's mouth or jaws. A swallowed creature can attack the monster that has swallowed it, but only with unarmed attacks or with weapons of light Bulk or less. The swallowing creature is [[Conditions/Off-Guard|Off-Guard]] against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the swallowed creature cuts itself free. A creature that gets free by either Escaping or cutting itself free can immediately breathe and exits the swallowing monster's space.\n\n[[Bestiary Effects/Effect_ Engulf and Swallow Whole|Effect: Engulf and Swallow Whole]]\n\nIf the monster dies, a swallowed creature can be freed by creatures adjacent to the corpse if they spend a combined total of 3 actions cutting the monster open with a weapon or unarmed attack that deals piercing or slashing damage."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

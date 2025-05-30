@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flaming Mace +18 (magical, shove)\n__Damage__  2d6 + 11 bludgeoning 1d6 fire"
+  - name: "**Melee** `pf2:1` Flaming Mace"
+    desc: "+18 (magical, shove)\n__Damage__  2d6 + 11 bludgeoning 1d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Alchemist&#x27;s Fire (Moderate) +17 (bomb, consumable, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
+  - name: "**Melee** `pf2:1` Alchemist&#x27;s Fire (Moderate)"
+    desc: "+17 (bomb, consumable, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Acid Flask (Moderate) +18 (bomb, consumable, splash)\n__Damage__  2d6 acid 2 acid"
+  - name: "**Melee** `pf2:1` Acid Flask (Moderate)"
+    desc: "+18 (bomb, consumable, splash)\n__Damage__  2d6 acid 2 acid"
 
   - name: "Sacred Fire"
     desc: "  Any non-consumable weapon the cultist wields gains the effects of the _flaming_ rune in addition to a _+1 striking_ weapon rune."

@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Potency Crystal|Potency Crystal]]
+Granted by [[Equipment/Potency Crystal|Potency Crystal]], [[Equipment/Potency Crystal (Greater)|Potency Crystal (Greater)]], [[Equipment/Potency Crystal (Major)|Potency Crystal (Major)]]
 
-The weapon becomes a _+1 striking weapon_.
+The weapon becomes a _+1 striking weapon_, a _+2 greater striking weapon_, or a _+3 major striking weapon_.
 
 *Source: Pathfinder GM Core*
 *ORC*

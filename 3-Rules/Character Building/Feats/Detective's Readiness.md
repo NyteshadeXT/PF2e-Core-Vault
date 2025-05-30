@@ -21,7 +21,5 @@ license: ORC
 
 When you're on a case, you stay watchful and resolute to avoid tricks your suspect might pull. You gain your investigation bonus from Pursue a Lead on saving throws (and their DCs, as normal) against creatures or effects that are related to the question at the heart of an open investigation, and you can use Clue In to assist an ally's saving throw against that creature or effect.
 
-[[Feat_Feature Effects/Effect_ Clue In (Detective's Readiness)|Effect: Clue In (Detective's Readiness)]]
-
 *Source: Pathfinder Player Core 2*
 *ORC*

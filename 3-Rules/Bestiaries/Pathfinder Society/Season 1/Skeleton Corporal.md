@@ -62,17 +62,20 @@ abilities_mid:
   - name: "Bloody"
     desc: "  The skeleton is covered in dripping blood and gains fast healing 1."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +8 (forceful, sweep)\n__Damage__  1d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+8 (forceful, sweep)\n__Damage__  1d6 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +8 (agile, finesse)\n__Damage__  1d4 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+8 (agile, finesse, unarmed)\n__Damage__  1d4 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +8 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+8 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
  
 ```
 

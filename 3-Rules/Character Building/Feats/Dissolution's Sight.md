@@ -20,7 +20,11 @@ license: ORC
 
 
 
+**Frequency** Once per hour
+
+* * *
+
 Accepting your inner darkness means that no outer darkness can obscure your sight. You gain greater darkvision for 1 minute.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

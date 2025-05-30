@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jolt +15 ()\n__Damage__  2d6 + 8 electricity"
+  - name: "**Melee** `pf2:1` Jolt"
+    desc: "+15 ()\n__Damage__  2d6 + 8 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hurled Metal Object +13 (magical, primal, range increment 60 feet)\n__Damage__  2d10 + 7 bludgeoning"
+  - name: "**Ranged** `pf2:1` Hurled Metal Object"
+    desc: "+13 (magical, primal, range increment 60 feet)\n__Damage__  2d10 + 7 bludgeoning"
 
   - name: "Hover"
     desc: "  A living lodestone floats above the ground high enough to ignore all difficult terrain and greater difficult terrain on the ground."

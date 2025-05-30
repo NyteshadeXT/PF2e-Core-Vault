@@ -10,7 +10,7 @@ license: OGL
 ---
 # Cannibalize Magic `pf2:2`
 ## Feat 13
-### [rare](rare.md "Rare Rarity Trait")
+### [rare](rare "Rare Rarity Trait")
 
 **Category** ancestry; 
 
@@ -24,5 +24,5 @@ The fey magic inside of you is a vital part of your body, and you can steal othe
 
 **Special** This feat gains the trait appropriate for your ancestry (human for human, goblin for goblin, etc.).
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

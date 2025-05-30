@@ -6,7 +6,7 @@ tags:
   - trait/
   - remaster
 aliases: "Compendium.pf2e.spell-effects.Item.CDNKDV3UsAp95D1m"
-license: OGL
+license: ORC
 ---
 # Spell Effect: Serrate
 ## Level 1
@@ -17,7 +17,9 @@ license: OGL
 
 
 
-Strikes with the target weapon deal additional slashing damage until the start of your next turn.
+Granted by [[Spells/Serrate|Serrate]]
 
-*Source: Pathfinder Rage of Elements*
-*OGL*
+Strikes with the target weapon deal additional slashing damage.
+
+*Source: Pathfinder Lost Omens Divine Mysteries*
+*ORC*

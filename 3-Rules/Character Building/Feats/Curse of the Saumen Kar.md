@@ -27,5 +27,5 @@ You activate the runes on your body to create an icy prison around a Huge or sma
 
 The dome has AC 10, Hardness 20, and 40 Hit Points; it's immune to cold, critical hits, and precision damage. The prison lasts until destroyed, until you use this ability to create a new prison, or until you die.
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

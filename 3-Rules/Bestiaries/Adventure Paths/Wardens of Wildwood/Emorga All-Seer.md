@@ -55,6 +55,9 @@ abilities_top:
   - name: "Read Nature's Omens"
     desc: " (concentrate,primal) **Frequency** once per day\n\n**Requirements** Emorga can see a naturally occurring pattern such as ripples in a pond, a murmuration of birds wheeling across the sky, or a tangle of interwoven vines and flowers\n* * *\n\n**Effect** Emorga spends 1 hour contemplating the pattern to receive a brief glimpse of possible futures, optionally posing a question about a specific person, place, or event. She attempts a DC 30 Nature check or DC 30 Soothsaying Lore check check.\n* * *\n\n**Critical Success** Emorga receives a helpful premonition of one significant event that is to occur within one week. If she specified a specific subject, the premonition relates specifically to events affecting or involving that subject. These visions might be partial or unclear, but they are never purposely misleading.\n\n**Success** As critical success, but Emorga can only receive visions of events that will occur within the next 1d4 days.\n\n**Failure** Emorga receives no vision, or receives a vision of something insignificant or unrelated to her subject.\n\n**Critical Failure** Emorga incorrectly interprets the omens and receives a false vision. Treat as a critical success, but the vision is either wholly inaccurate or presented in a way that actively distorts its meaning."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Take Cover"
@@ -63,20 +66,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +19 ()\n__Damage__  2d10 + 10 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+19 (unarmed)\n__Damage__  2d10 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +19 ()\n__Damage__  2d8 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+19 (unarmed)\n__Damage__  2d8 + 10 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 28, attack +20; __5th __  _[[Spells/Control Water|Control Water]]_, _[[Spells/Speak with Stones|Speak with Stones]]_; __4th __  _[[Spells/Heal|Heal]]_, _[[Spells/Mountain Resilience|Mountain Resilience]]_; __3rd __  _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Safe Passage|Safe Passage]]_; __2nd __  _[[Spells/Animal Messenger|Animal Messenger]]_, _[[Spells/Entangling Flora|Entangling Flora]]_\n__Cantrips__  __(5th)__ _[[Spells/Guidance|Guidance]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Tangle Vine|Tangle Vine]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_ __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Commune|Commune]]_, _[[Spells/Heartbond|Heartbond]]_, _[[Spells/Plant Growth|Plant Growth]]_, _[[Spells/Primal Call|Primal Call]]_, _[[Spells/Reincarnate|Reincarnate]]_"
+    desc: "_Commune_, _Heartbond_, _Plant Growth_, _Primal Call_, _Reincarnate_"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, DC 25 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Large or smaller, foot, DC 25 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

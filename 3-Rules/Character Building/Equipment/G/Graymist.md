@@ -1,76 +1,47 @@
 ---
-#========================================================#
-#                     CORE PROPERTIES                    #
-#========================================================#
-cssclass: pf2e-item, h-line
-name: "graymist"
-aliases: "Graymist"
-source: "Pathfinder #206: Bring the House Down"
-pg: ""
-rarity: ""
-trait01: "apex"
-trait02: "artifact"
-trait03: "divine"
-trait04: "intelligent"
-trait05: "invested"
-trait06: "magical"
-trait07: "unique"
-trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 21
-weight: L
-value: "0"
-subvalue: "gp"
-invest:
-usage: "worncape"
-license: "ORC"
-identify:
-description: "This black cape flows more like a vaporous liquid than fabric. The cape grants you a +3 item bonus to Stealth checks. When you invest the cape, you either increase your Dexterity score by 2 or increase it to 18, whichever is higher.  * * *  **Activate** `pf2:r` Interact  **Frequency** once per hour  **Trigger** A creature misses you with an attack  **Effect** Attempt a Stealth check against the triggering creature's Perception DC. If you roll a success, you're [[Conditions/Hidden|Hidden]] from that creature until the end of your next turn or until right after you use a hostile action against that creature. If you roll a critical success, you're hidden from that creature until the end of your next turn, even if you use hostile actions against that creature.  * * *  **Activate** `pf2:2` Interact  **Frequency** once per day  **Effect** With a twirl of the cape, you transform yourself into a puff of gray smoke. You cast [[Spells/Vapor Form|Vapor Form]] on yourself."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
-trigger2:
-mechanics2: "**Secondary Effect** "
-craft:
-
-#========================================================#
-#                   WEAPON PROPERTIES                    #
-#========================================================#
-range: 
-ammoType:
-damage: 
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
-
-#========================================================#
-#                    ARMOR PROPERTIES                    #
-#========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
-resist:
-immunity:
-conditionImmunity:
-
-#========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
-#========================================================#
-weaponBase:
-armorBase:
-
+obsidianUIMode: preview
+title: "Graymist"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - trait/apex
+  - trait/artifact
+  - trait/divine
+  - trait/intelligent
+  - trait/invested
+  - trait/magical
+  - trait/unique
+  - remaster
+aliases: "Compendium.pf2e.equipment-srd.Item.mCs87WJT2l0qkgcC"
+license: ORC
 ---
+# Graymist
+## Item 21
+### [unique](unique "Unique Rarity Trait")[[apex]][[artifact]][[divine]][[intelligent]][[invested]][[magical]]
+
+
+**Price** 0 gp; 
+**Bulk** L; **Size** med
+**Usage** worncape
+
+This black cape flows more like a vaporous liquid than fabric. The cape grants you a +3 item bonus to Stealth checks. When you invest the cape, you either increase your Dexterity score by 2 or increase it to 18, whichever is higher.
+
+* * *
+
+**Activate** `pf2:r` Interact
+
+**Frequency** once per hour
+
+**Trigger** A creature misses you with an attack
+
+**Effect** Attempt a Stealth check against the triggering creature's Perception DC. If you roll a success, you're [[Conditions/Hidden|Hidden]] from that creature until the end of your next turn or until right after you use a hostile action against that creature. If you roll a critical success, you're hidden from that creature until the end of your next turn, even if you use hostile actions against that creature.
+
+* * *
+
+**Activate** `pf2:2` Interact
+
+**Frequency** once per day
+
+**Effect** With a twirl of the cape, you transform yourself into a puff of gray smoke. You cast [[Spells/Vapor Form|Vapor Form]] on yourself.
+
+*Source: Pathfinder #206: Bring the House Down*
+*ORC*

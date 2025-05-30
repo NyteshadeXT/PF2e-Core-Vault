@@ -67,14 +67,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +24 (magical, reach 15 feet)\n__Damage__  3d12 + 13 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+24 (magical, reach 15 feet)\n__Damage__  3d12 + 13 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +24 (magical, reach 10 feet)\n__Damage__  3d8 + 13 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+24 (magical, reach 10 feet)\n__Damage__  3d8 + 13 slashing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +20 (agile, magical, reach 15 feet)\n__Damage__  3d6 + 13 piercing plus iridescent-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+20 (agile, magical, reach 15 feet)\n__Damage__  3d6 + 13 piercing plus iridescent-venom"
 
   - name: "Iridescent Venom"
     desc: " (poison) **Saving Throw** DC 29 Fortitude;\n* * *\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** 2d6 poison damage and [[Conditions/Dazzled|Dazzled]] (1 round);\n\n**Stage 2** 3d6 poison damage and [[Conditions/Blinded|Blinded]] (1 round);\n\n**Stage 3** 4d6 poison damage and blinded (1 round)"

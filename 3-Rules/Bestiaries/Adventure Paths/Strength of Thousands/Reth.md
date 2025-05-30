@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 ()\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (unarmed)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +16 (agile)\n__Damage__  1d4 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+16 (agile)\n__Damage__  1d4 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +16 (magical, range increment 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+16 (magical, range increment 60 feet, reload 1)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Deadly Bolts"
     desc: "`pf2:1` (stance) **Requirements** Reth is wielding a crossbow\n* * *\n\n**Effect** Reth gains a deadly focus with crossbows while in this stance. His crossbow Strikes deal an additional 3d8 precision damage. He doesn't provoke reactions for making ranged Strikes with crossbows."

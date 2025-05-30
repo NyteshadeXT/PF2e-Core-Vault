@@ -17,6 +17,8 @@ license: OGL
 
 
 
+Granted by [[Feats/Geologic Attunement|Geologic Attunement]]
+
 You gain tremorsense (imprecise) in your kinetic aura.
 
 At 13th level this becomes precise tremorsense.

@@ -3,18 +3,18 @@ obsidianUIMode: preview
 title: "Visions of Sin"
 cssclasses: pf2e,pf2e-action
 tags:
+  - trait/divine
   - trait/eidolon
   - trait/emotion
-  - trait/magical
   - trait/mental
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.iJLzVonevhsi2uPs"
 license: OGL
 ---
 # Visions of Sin `pf2:2`
 
-### [[eidolon]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Magical]][[3-Rules/Rule References/Mental]]
+### [[divine]][[eidolon]][[emotion]][[mental]]
 
 **Category** offensive; 
 

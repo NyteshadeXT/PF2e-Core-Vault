@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 2 piercing"
 
   - name: "Prepare Fangs"
     desc: "`pf2:2`  The Aspis usurper slices their palm with a dagger, and the blade glows as it absorbs some of their blood. The glow spreads to the daggers of the usurper's Aspis allies. For 1 round, all daggers wielded by the usurper and allies within 30 feet of them deal an additional 2 poison damage.\n\n[[Bestiary Effects/Effect_ Prepare Fangs|Effect: Prepare Fangs 2]]"

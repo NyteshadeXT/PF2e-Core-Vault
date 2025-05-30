@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` War Flail +25 (disarm, magical, sweep, trip)\n__Damage__  3d10 + 11 bludgeoning 1d6 fire"
+  - name: "**Melee** `pf2:1` War Flail"
+    desc: "+25 (disarm, magical, sweep, trip)\n__Damage__  3d10 + 11 bludgeoning 1d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +23 ()\n__Damage__  3d8 + 11 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+23 (unarmed)\n__Damage__  3d8 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (agile)\n__Damage__  3d4 + 11 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (agile, unarmed)\n__Damage__  3d4 + 11 slashing"
  
 ```
 

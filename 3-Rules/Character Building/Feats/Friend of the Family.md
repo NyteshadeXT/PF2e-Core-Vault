@@ -22,5 +22,5 @@ license: ORC
 * * *
 You come from a long line of imperial kobolds—if you meet a stranger who has some political standing in Tian Xia, they might know someone from your family line. You gain a +2 circumstance bonus to Diplomacy checks to Make an Impression or Request when speaking to politicians or other officials.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

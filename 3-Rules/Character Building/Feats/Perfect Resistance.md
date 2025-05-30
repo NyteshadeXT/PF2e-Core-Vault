@@ -23,5 +23,5 @@ You gain resistance equal to half your level to all damage from effects with the
 
 [[Feat_Feature Effects/Effect_ Perfect Resistance|Effect: Perfect Resistance]]
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

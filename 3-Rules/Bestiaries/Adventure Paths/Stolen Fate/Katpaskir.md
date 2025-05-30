@@ -56,6 +56,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Breach Planar Wards"
@@ -73,17 +79,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +34 (magical, unholy)\n__Damage__  3d12 + 14 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+34 (magical, unarmed, unholy)\n__Damage__  3d12 + 14 slashing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +34 (agile, magical, unholy)\n__Damage__  3d8 + 14 slashing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+34 (agile, magical, unarmed, unholy)\n__Damage__  3d8 + 14 slashing 1d6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 40, attack +32; __9th __  _[[Spells/Summon Fiend|Summon Fiend (Demons Only)]]_; __8th __  _[[Spells/Banishment|Banishment (x3)]]_, _[[Spells/Flicker|Blink]]_, _[[Spells/Disintegrate|Disintegrate]]_; __7th __  _[[Spells/Interplanar Teleport|Plane Shift]]_, _[[Spells/Teleport|Teleport]]_; __5th __  _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Scouting Eye|Prying Eye (At Will)]]_; __4th __  _[[Spells/Planar Tether|Dimensional Anchor (At Will)]]_\n__Constant__  __(9th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/See the Unseen|See Invisibility]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Abyssal Pact]]_"
+    desc: "_Abyssal Pact_"
 
   - name: "Dimensional Ambush"
     desc: "`pf2:2` (divine,teleportation) The katpaskir casts [[Spells/Translocate|Translocate]], then makes a melee Strike that deals three extra dice of damage. This Strike counts as two attacks when calculating the katpaskir's multiple attack penalty."

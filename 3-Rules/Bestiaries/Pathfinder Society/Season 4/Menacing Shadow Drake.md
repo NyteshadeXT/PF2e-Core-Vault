@@ -68,11 +68,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 (finesse)\n__Damage__  1d10 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (finesse, unarmed)\n__Damage__  1d10 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +11 (agile, finesse)\n__Damage__  1d8 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+11 (agile, finesse)\n__Damage__  1d8 + 3 bludgeoning"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The shadow drake makes one bite Strike and two tail Strikes in any order."

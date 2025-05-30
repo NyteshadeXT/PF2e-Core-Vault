@@ -52,11 +52,20 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Entropy Sense (Imprecise) 120 feet"
     desc: " (divine,prediction) A Izfiitar can anticipate the most likely location of a creature through their supernatural insight into the forces of chaotic probabilities and chance. This grants the izflitar the ability to sense creatures within the listed range.\n\nThe izflitar's entropy sense doesn't detect creatures under the effects of [[Spells/Veil of Privacy|Veil of Privacy]] or that are otherwise shielded from divinations and predictions."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 20]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "Kiss of the Speakers"
     desc: " (divine) The izfiitar continuously tinkers with the myriad possibilities in which it can move or manipulate magic.\n\nThe izfiitar is always [[Conditions/Quickened|Quickened]] and can use the extra action only to Cast a Spell, Step, or Stride."
 
@@ -69,23 +78,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +38 (finesse, magical)\n__Damage__  4d8 + 17 piercing plus greater-warpwave-strike 2d6 spirit plus greater-warpwave-strike"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+38 (finesse, magical, unarmed)\n__Damage__  4d8 + 17 piercing plus greater-warpwave-strike 2d6 spirit plus greater-warpwave-strike"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +38 (agile, finesse, magical)\n__Damage__  4d6 + 17 slashing plus greater-warpwave-strike 2d6 spirit plus greater-warpwave-strike"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+38 (agile, finesse, magical, unarmed)\n__Damage__  4d6 + 17 slashing plus greater-warpwave-strike 2d6 spirit plus greater-warpwave-strike"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +38 (magical, reach 10 feet)\n__Damage__  4d10 + 17 bludgeoning plus improved-grab 2d6 spirit plus improved-grab"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+38 (magical, reach 10 feet)\n__Damage__  4d10 + 17 bludgeoning plus improved-grab 2d6 spirit plus improved-grab"
 
   - name: "Divine Innate Spells"
     desc: "DC 47, attack +39; __10th __  _[[Spells/Miracle|Miracle]]_; __9th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Massacre|Massacre]]_, _[[Spells/Overwhelming Presence|Overwhelming Presence]]_, _[[Spells/Prismatic Sphere|Prismatic Sphere]]_; __8th __  _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_, _[[Spells/Confusion|Confusion (At Will)]]_, _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Dispel Magic|Dispel Magic (At Will)]]_, _[[Spells/Prismatic Wall|Prismatic Wall]]_; __7th __  _[[Spells/Warp Mind|Warp Mind (At Will)]]_; __6th __  _[[Spells/Teleport|Teleport (At Will) (Self Only)]]_; __5th __  _[[Spells/Creation|Creation (At Will)]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Mirage|Hallucinatory Terrain (At Will) (See Reshape Reality)]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_; __2nd __  _[[Spells/Detect Alignment|Detect Alignment (At Will) (Lawful Only)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_ __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,divine,polymorph) The izfiitar takes the appearance of any Huge or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,divine,polymorph) The izfiitar takes the appearance of any Huge or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its Strikes, but might change the damage type its Strikes deal.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d8+17 bludgeoning damage, DC 44 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d8+17 bludgeoning damage, DC 44 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Greater Warpwave Strike"
     desc: " (divine) Any creature struck and damaged by an izfiitar's jaws or claw Strike must succeed at a DC 42 Fortitude check save or be subject to a particularly powerful [[Rollable Tables/Warpwaves|Warpwave]].\n\nRoll twice and apply both affects, rerolling any duplicates."
@@ -95,6 +104,9 @@ attacks:
 
   - name: "Storm of Claws"
     desc: "`pf2:2`  The izfiitar makes up to six claw Strikes, each against a different target."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

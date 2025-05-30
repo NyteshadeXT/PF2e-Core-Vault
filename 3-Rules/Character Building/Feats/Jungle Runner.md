@@ -20,5 +20,5 @@ license: OGL
 
 You run through the jungle as easily as you would through an open field. You ignore difficult terrain from underbrush within forests and jungles. You can always use the [[Actions/Take Cover|Take Cover]] action when you're within forest or jungle terrain to gain cover, even if you aren't adjacent to an obstacle you can Take Cover behind.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

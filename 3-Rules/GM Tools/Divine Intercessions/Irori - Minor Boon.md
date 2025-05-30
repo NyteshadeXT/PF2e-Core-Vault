@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Irori - Minor Boon"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/deityboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.boons-and-curses.Item.fV0Xa1Bd3BoWACgT"
 license: OGL
 ---
 # Irori - Minor Boon
-
+## Feat 1
 ### 
 
 **Category** deityboon; 
@@ -23,5 +23,5 @@ Once, when you roll a failure at a check to [[Actions/Recall Knowledge|Recall Kn
 
 Irori typically grants this boon for an extremely consequential check to Recall Knowledge.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

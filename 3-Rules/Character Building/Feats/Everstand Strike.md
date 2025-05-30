@@ -19,7 +19,7 @@ license: OGL
 
 
 
-**Prerequisites** Everstand Stance 
+**Prerequisites** Everstand Stance
 * * *
 **Requirements** You are wielding a shield in two hands.
 
@@ -27,5 +27,5 @@ license: OGL
 
 Your follow-up blow leaves you an opening to set your shield. Make a Strike with the wielded shield. If the Strike hits and deals damage, you also [[Actions/Raise a Shield|Raise your Shield]].
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

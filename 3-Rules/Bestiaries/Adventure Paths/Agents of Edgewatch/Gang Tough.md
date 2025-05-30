@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Morningstar +18 (magical, versatile p)\n__Damage__  1d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Morningstar"
+    desc: "+18 (magical, versatile p)\n__Damage__  1d6 + 8 bludgeoning"
 
   - name: "Bullyrag Beatdown"
     desc: "  Whenever the gang tough makes a successful melee Strike against a frightened creature, the Strike deals an extra weapon die of damage."

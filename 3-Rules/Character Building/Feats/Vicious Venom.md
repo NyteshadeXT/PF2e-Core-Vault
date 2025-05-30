@@ -21,5 +21,5 @@ license: OGL
 * * *
 The venom you produce is exceptionally potent and difficult to overcome. Your vishkanyan venom gains the virulent trait, requiring two consecutive saves to reduce the venom's stage by 1. A critical success reduces your venom's stage by only 1 instead of by 2.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

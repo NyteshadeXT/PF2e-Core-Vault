@@ -12,7 +12,7 @@ license: ORC
 ---
 # Puzzle Solver
 ## Feat 5
-### [[Minotaur]]
+### [[minotaur]]
 
 **Category** ancestry; 
 

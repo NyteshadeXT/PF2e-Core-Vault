@@ -24,5 +24,5 @@ You receive a +2 circumstance bonus to Will saves against mental effects that wo
 
 However, you gain none of these benefits against effects originating from alghollthus and instead take a -2 circumstance penalty against mental effects from alghollthus.
 
-*Source: Pathfinder Lost Omens: Absalom, City of Lost Omens*
+*Source: Pathfinder Lost Omens Absalom, City of Lost Omens*
 *OGL*

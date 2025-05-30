@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Divine Rebuttal|Divine Rebuttal]]
 
-All your allies gain a +2 circumstance bonus to the triggering saving throw (or a +3 circumstance bonus on a critical hit).
+You gain a +2 circumstance bonus to the triggering saving throw (or a +3 circumstance bonus on a critical hit).
 
 *Source: Pathfinder Player Core*
 *ORC*

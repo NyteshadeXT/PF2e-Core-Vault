@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Mamlambo Scale|Mamlambo Scale]]
+Granted by [[Equipment/Mamlambo Scale|Mamlambo Scale]]
 
 The _mamlambo scale_ sheds dim light in a 20-foot emanation.
 

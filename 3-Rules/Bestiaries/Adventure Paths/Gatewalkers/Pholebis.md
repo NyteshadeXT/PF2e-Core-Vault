@@ -65,6 +65,9 @@ abilities_top:
   - name: "Wild Empathy"
     desc: "  The naiad can use Diplomacy to [[Actions/Make an Impression|Make an Impression]] on and make very simple [[Actions/Request|Requests]] of animals."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Nymph's Beauty|Nymph's Beauty]]"
@@ -73,8 +76,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Aqueous Fist +17 (agile, finesse, magical, water)\n__Damage__  2d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Aqueous Fist"
+    desc: "+17 (agile, finesse, magical, water)\n__Damage__  2d6 + 6 bludgeoning"
 
   - name: "Primal Prepared Spells"
     desc: "DC 28, attack +18; __3rd __  _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Haste|Haste]]_; __2nd __  _[[Spells/Animal Messenger|Animal Messenger]]_, _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/One with Plants|Tree Shape]]_; __1st __  _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Negate Aroma|Negate Aroma]]_, _[[Spells/Summon Animal|Summon Animal]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Stabilize|Stabilize]]_"
@@ -83,7 +86,7 @@ attacks:
     desc: "DC 28, attack +20; __4th __  _[[Spells/Tidal Surge|Tidal Surge (At Will)]]_; __1st __  _[[Spells/Charm|Charm]]_, _[[Spells/Create Water|Create Water]]_\n__Constant__  __(2nd)__ _[[Spells/Speak with Animals|Speak with Animals]]_"
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n\n* * *\n"
+    desc: "`pf2:1` (polymorph,primal) Nymph queens can transform between their original form, which looks much like a typical nymph of their kind, and any Small or Medium humanoid form, typically choosing a more humanoid-looking version of their natural form.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "[[Creature Family Ability Glossary/(Nymph Queen) Focus Beauty|Focus Beauty]]"
     desc: "`pf2:1` (emotion,mental,primal,visual) On a failed save, if the target was already affected by the naiad queen's beauty, the image of the queen sears into the creature's mind, allowing no further sight and effectively [[Conditions/Blinded|Blinding]] the creature until restored via [[Spells/Sound Body|Sound Body]] or a similar effect, or until the naiad queen chooses to remove the effect using a single action, which has the concentrate trait.\n* * *\n\nThe nymph queen focuses her beauty upon a target within her aura. The creature must attempt a DC 23 Will check save. On a failure, it is affected as if by the nymph queen's nymph's beauty aura; if it was already affected by the aura, it suffers a greater effect described in the nymph queen's entry. A nymph queen can Focus Beauty on a given creature only once per turn."
@@ -92,7 +95,7 @@ attacks:
     desc: "`pf2:3` (emotion,mental,primal) A nymph queen can inspire a single intelligent creature by giving that creature a token of her favor, typically a lock of her hair. As long as the creature carries her token and remains in good standing with the nymph queen, the creature gains a +1 status bonus to all Crafting checks, Performance checks, and Will saves.\n\nIf a nymph queen grants her Inspiration to a bard and the nymph queen is that bard's muse, the bard gains an additional benefit depending on their muse theme: for lore muse, the bard also gains a +1 status bonus to all Lore checks; for maestro muse, the status bonus to Performance checks increases to +2 for the purpose of determining the effects of compositions; for polymath muse, the bard gains a +4 status bonus to untrained skill checks; and for all other muses, the Will save bonus increases to +2 against fey.\n\n[[Bestiary Effects/Effect_ Nymph Queen's Inspiration|Effect: Naiad Queen's Inspiration]]"
 
   - name: "Water Healing"
-    desc: "`pf2:2` (concentrate,healing,primal) While within any body of water in her domain, the naiad queen heals 28 Hit Points every 10 minutes."
+    desc: "`pf2:2` (concentrate,healing,primal) While within any body of water in her domain, the naiad queen heals 28 healing Hit Points every 10 minutes."
  
 ```
 

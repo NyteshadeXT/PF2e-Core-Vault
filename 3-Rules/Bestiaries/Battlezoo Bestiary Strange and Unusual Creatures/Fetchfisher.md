@@ -35,7 +35,7 @@ perception:
 languages: "Common, Shadowtongue, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +17, Deception: +13, Stealth: +20, Athletics: +17, Deception: +13, Stealth: +20, Fetchling Lore: +13"
+    desc: "Athletics: +17, Deception: +13, Stealth: +20, Fetchling Lore: +13"
 abilityMods: [6, 6, 4, 2, 4, 0]
 speed: 25 feet,  climb 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -52,7 +52,7 @@ abilities_top:
   - name: ""
 
   - name: "Shifting Mass"
-    desc: "  Despite their size, the fetchfisher can shift their body between planes to allow it to fit through tight spaces and take cover behind small obstacles that would be enough to provide cover for a Medium creature. While Squeezing, they can move at their full Speed. When using the [[undefined]] action, they can take cover behind Large or larger objects, reducing their space down from 15 by 15 feet to as small as 5 by 5 feet as necessary."
+    desc: "`pf2:1`  Despite their size, the fetchfisher can shift their body between planes to allow it to fit through tight spaces and take cover behind small obstacles that would be enough to provide cover for a Medium creature. While Squeezing, they can move at their full Speed. When using the [[undefined]] action, they can take cover behind Large or larger objects, reducing their space down from 15 by 15 feet to as small as 5 by 5 feet as necessary."
 
   - name: "Snatching Ambush"
     desc: "  **Requirements** Initiative has not yet been rolled.\n\n**Trigger** A creature that hasn't observed the fetchfisher moves within 15 feet of the fetchfisher.\n* * *\n\n**Effect** The fetchfisher uses Snatch and Drag and then rolls initiative."
@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 ()\n__Damage__  2d10 + 9 slashing plus improved-grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 ()\n__Damage__  2d10 + 9 slashing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +18 ()\n__Damage__  2d12 + 9 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+18 ()\n__Damage__  2d12 + 9 piercing"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
     desc: "`pf2:1`  2d10+3 bludgeoning, DC 25 Fortitude check\n\n* * *\n"

@@ -46,7 +46,7 @@ hp: 160
 health:
   - name: ""
   - name: HP
-    desc: "160, darkvision; __Weaknesses__ fire 8; __Resistances__ bludgeoning 8"
+    desc: "160; __Weaknesses__ fire 8; __Resistances__ bludgeoning 8"
 abilities_top:
   - name: ""
 
@@ -67,11 +67,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 ()\n__Damage__  2d10 + 10 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (unarmed)\n__Damage__  2d10 + 10 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mud Ball +18 (thrown 30 ft.)\n__Damage__  2d6 + 10 bludgeoning plus blinding-mud"
+  - name: "**Ranged** `pf2:1` Mud Ball"
+    desc: "+18 (thrown 30 ft.)\n__Damage__  2d6 + 10 bludgeoning plus blinding-mud"
 
   - name: "Blinding Mud"
     desc: "  When a muckish creep hits a creature with a mud ball Strike, that creature becomes [[Conditions/Dazzled|Dazzled]] (or [[Conditions/Blinded|Blinded]] on a critical hit). The creature can use an Interact action to wipe away the mud and remove the dazzled or blinded condition."
@@ -80,7 +80,7 @@ attacks:
     desc: "`pf2:1` (incapacitation) **Requirements** The muckish creep has a creature grabbed.\n* * *\n\n**Effect** The muckish creep fills the grabbed creature's mouth and nose with mud. The creature begins to suffocate unless it succeeds at a DC 23 Fortitude check save. The suffocating creature or any adjacent creatures can clear the suffocating creature's airway with an Interact action."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

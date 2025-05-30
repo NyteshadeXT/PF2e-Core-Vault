@@ -62,14 +62,17 @@ abilities_mid:
   - name: "Improved Evasion"
     desc: "  When a duergar slave lord rolls a success on a Reflex save, they get a critical success instead. When they roll a critical failure on a Reflex save, they get a failure instead. Finally, when they fail a Reflex save against a damaging effect, they take half damage."
 
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +28 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+28 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +29 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+29 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 8 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 33, attack +25; __2nd __  _[[Spells/Enlarge|Enlarge (Self Only)]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_"

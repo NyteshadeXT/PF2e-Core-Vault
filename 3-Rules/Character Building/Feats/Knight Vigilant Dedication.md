@@ -22,7 +22,7 @@ license: OGL
 * * *
 You are dedicated to the cause of the Shining Sentinels. You gain expert proficiency in Religion. When you are between an ally and a foe and would provide lesser cover to your ally against the foe's attacks, you twist to become even more obtrusive, providing standard cover instead.
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Knight Vigilant|Knight Vigilant]] archetype.
+[[PF2e Journals/Archetypes/Knight Vigilant|Knight Vigilant]]
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

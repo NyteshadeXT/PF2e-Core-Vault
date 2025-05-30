@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +24 (agile)\n__Damage__  2d8 + 13 slashing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+24 (agile, unarmed)\n__Damage__  2d8 + 13 slashing plus grab"
 
   - name: "Primal Innate Spells"
     desc: "DC 30, attack +22; __5th __  _[[Spells/Lightning Bolt|Lightning Bolt (x3)]]_"
@@ -66,7 +66,7 @@ attacks:
     desc: "  When a tupilaq is created, the curse imparted by its creator manifests in the form of a single 5th-rank [[Spells/Lightning Bolt|Lightning Bolt]] the tupilaq can cast three times per day. The particular spell is a reflection of the creator's wish for vengeance."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

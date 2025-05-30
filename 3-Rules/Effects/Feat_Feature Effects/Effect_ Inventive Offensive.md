@@ -22,5 +22,5 @@ When you use this ability, add one of the following weapon traits to a melee wea
 
 If you have legendary proficiency in Crafting, you can apply two weapon traits from the list when using this feat.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

@@ -20,5 +20,5 @@ license: OGL
 
 You notice things that others can't see at all. While you're adjacent to an [[Conditions/Undetected|Undetected]] creature of your level or lower, it is instead only [[Conditions/Hidden|Hidden]] from you. You only need a successful DC 5 Flat check to target a hidden creature.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

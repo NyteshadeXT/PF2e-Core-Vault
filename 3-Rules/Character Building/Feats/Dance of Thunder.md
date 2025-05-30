@@ -7,8 +7,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.bSC18SbdaNXfBHu9"
-license: OGL
+license: ORC
 ---
 # Dance of Thunder `pf2:3`
 ## Feat 14
@@ -30,4 +31,4 @@ Your steps echo with the thunderous retort of exploding black powder as you danc
 After using Dance of Thunder, you become fatigued for 1 minute.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

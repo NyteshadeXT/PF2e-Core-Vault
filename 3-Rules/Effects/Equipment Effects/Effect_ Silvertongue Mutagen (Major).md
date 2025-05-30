@@ -17,19 +17,11 @@ license: ORC
 
 
 
-Granted by [[Silvertongue Mutagen (Major)|Silvertongue Mutagen (Major)]]
+Granted by [[Equipment/Silvertongue Mutagen (Major)|Silvertongue Mutagen (Major)]]
 
-Implemented effects:
+**Benefit** You gain a +4 item bonus to Deception, Diplomacy, Intimidation and Performance checks. Your critical failures with any of these skills become failures instead.
 
-*   +4 item bonus to Deception, Diplomacy, Intimidation and Performance checks
-*   \-2 item penalty to Arcana, Crafting, Occulism and Society checks
-*   Your critical failures for Deception, Diplomacy, Intimidation, Performance become failures instead
-*   \-2 item penalty to Lore checks
-*   All Recall Knowledge failures are critical failures
-
-Unimplemented effects:
-
-*   Become untrained in one skill you're trained in
+**Drawback** You take a -2 item penalty to Arcana, Crafting, Lore, Occultism, and Society checks. Choose one skill in which you are trained; for the duration, you become untrained in that skill. All your failures to Recall Knowledge become critical failures.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

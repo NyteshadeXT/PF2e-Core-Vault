@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Keep Up Appearances"
+title: "Keep up Appearances"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/human
@@ -9,7 +9,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.pQQhrcj1u6hUUc8L"
 license: OGL
 ---
-# Keep Up Appearances `pf2:r`
+# Keep up Appearances `pf2:r`
 ## Feat 1
 ### [uncommon](uncommon "Uncommon Rarity Trait")[[human]]
 
@@ -28,5 +28,5 @@ Taldan pride means you never show weakness. Roll a Deception check check and com
 
 A creature tricked in this manner can't benefit from the emotion effect and can't use abilities that require you to be under this emotion effect; for example, if you successfully use this ability to trick a will-o'-wisp into believing you aren't under a fear effect, it can't use its Feed on Fear ability on you.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

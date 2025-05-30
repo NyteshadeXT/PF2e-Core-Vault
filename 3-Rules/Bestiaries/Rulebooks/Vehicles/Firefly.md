@@ -6,10 +6,11 @@ cssClasses: pf2e
 tags:
   - pf2eVehicle
 
+  - remaster
 source: Pathfinder Guns &amp; Gears
 aliases: "Compendium.pf2e.vehicles.Actor.2dLy1sfqVbNS2inJ" 
 level: 5
-license: OGL
+license: ORC
 statblock: inline
 ---
 

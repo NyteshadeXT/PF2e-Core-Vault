@@ -29,5 +29,5 @@ license: OGL
 
 Your devotion to helping others and doing good keeps you going, even against insurmountable odds. Instead of being knocked out, you are reduced to 1 Hit Point, gain a number of temporary Hit Points equal to your level for 1 round, and increase your wounded value by 1.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

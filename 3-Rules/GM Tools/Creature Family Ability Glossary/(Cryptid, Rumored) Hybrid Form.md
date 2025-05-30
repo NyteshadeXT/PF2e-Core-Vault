@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Cryptid, Rumored) Hybrid Form"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.a7SNHoP22SBoOAmA"
 license: OGL

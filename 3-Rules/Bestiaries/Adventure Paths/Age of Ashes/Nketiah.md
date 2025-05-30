@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vine Lash +15 (agile, finesse, reach 15 feet)\n__Damage__  2d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Vine Lash"
+    desc: "+15 (agile, finesse, reach 15 feet)\n__Damage__  2d6 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Verdant Staff +13 (magical, two-hand d8)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Verdant Staff"
+    desc: "+13 (magical, two-hand d8)\n__Damage__  1d4 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Longbow +16 (deadly d10, magical, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 3 piercing plus black-adder-venom"
+  - name: "**Ranged** `pf2:1` Longbow"
+    desc: "+16 (deadly d10, magical, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 3 piercing plus black-adder-venom"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 24, attack +14; __3rd __ (3 slots) _[[Spells/Circle of Protection|Circle of Protection]]_, _[[Spells/Heroism|Heroism]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __ (3 slots) _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Sound Body|Restore Senses]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(3rd)__ _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"

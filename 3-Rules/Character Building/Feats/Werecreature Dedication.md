@@ -13,7 +13,7 @@ license: ORC
 ---
 # Werecreature Dedication
 ## Feat 2
-### [rare](rare.md "Rare Rarity Trait")[[archetype]][[dedication]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[dedication]]
 
 **Category** class; 
 
@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You're a werecreature, able to shift between your humanoid shape, an animal shape, and a monstrous hybrid of the two. You gain the beast and werecreature traits. Choose your werecreature type from the table below.
+You're a werecreature, able to shift between your humanoid shape, an animal shape, and a monstrous hybrid of the two. You gain the beast and werecreature traits. Choose your werecreature type.
 
 Once chosen, this can't be changed. You gain the [[Feats/Toughness|Toughness]] feat but also a weakness to silver equal to half your level. You gain the [[Actions/Change Shape|Change Shape]] action. On the night of the full moon, you automatically use Change Shape to assume your hybrid shape, and you can't voluntarily activate or dismiss Change Shape until sunrise.
 

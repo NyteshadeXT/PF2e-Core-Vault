@@ -37,7 +37,7 @@ perception:
 languages: "Draconic"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +33, Athletics: +37, Diplomacy: +37, Intimidation: +33, Occultism: +35, Stealth: +33, Acrobatics: +33, Athletics: +37, Diplomacy: +37, Intimidation: +33, Occultism: +35, Stealth: +33"
+    desc: "Acrobatics: +33, Athletics: +37, Diplomacy: +37, Intimidation: +33, Occultism: +35, Stealth: +33"
 abilityMods: [10, 5, 9, 6, 5, 9]
 speed: 40 feet,  fly 150 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -70,14 +70,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +36 (reach 10 feet)\n__Damage__  4d10 + 16 piercing plus leaking-power"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+36 (reach 10 feet)\n__Damage__  4d10 + 16 piercing plus leaking-power"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +36 (agile, reach 10 feet)\n__Damage__  4d12 + 16 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+36 (agile, reach 10 feet)\n__Damage__  4d12 + 16 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +36 (reach 20 feet)\n__Damage__  4d12 + 16 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+36 (reach 20 feet)\n__Damage__  4d12 + 16 bludgeoning"
 
   - name: "Leaking Power"
     desc: "  When attuned to void, the star wyrm's jaw Strikes do 4d6 negative damage. When attuned to nebula, their jaw Strikes do 4d6 fire damage, or positive damage to undead foes, whichever is worse for each undead foe."

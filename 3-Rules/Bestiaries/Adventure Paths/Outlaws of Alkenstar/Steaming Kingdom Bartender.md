@@ -60,17 +60,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sap +8 (agile, nonlethal)\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Sap"
+    desc: "+8 (agile, nonlethal)\n__Damage__  1d6 + 5 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +8 (agile, nonlethal)\n__Damage__  1d4 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+8 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Pewter Mug +5 (thrown 10 ft.)\n__Damage__  1d4 + 5 bludgeoning"
+  - name: "**Ranged** `pf2:1` Pewter Mug"
+    desc: "+5 (thrown 10 ft.)\n__Damage__  1d4 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dwarven Scattergun +7 (concussive, kickback, range increment 50 feet, reload 1, scatter 10)\n__Damage__  1d8 piercing"
+  - name: "**Ranged** `pf2:1` Dwarven Scattergun"
+    desc: "+7 (concussive, kickback, range increment 50 feet, reload 1, scatter 10)\n__Damage__  1d8 piercing"
 
   - name: "Bar Brawler"
     desc: "  The barkeep has been in enough bar fights to know how to throw a few punches. When fighting in their bar and making a nonlethal attack, the barkeep gains a +1 circumstance bonus to attack rolls and deals an additional 1d4 damage."

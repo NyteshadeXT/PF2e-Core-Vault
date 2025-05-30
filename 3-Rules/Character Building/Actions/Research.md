@@ -6,14 +6,14 @@ tags:
   - trait/concentrate
   - trait/exploration
   - trait/linguistic
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.t5nBkpjroaq7QBGK"
 license: OGL
 ---
 # Research
 
-### [[3-Rules/Rule References/Concentrate]][[exploration]][[linguistic]]
+### [[concentrate]][[exploration]][[linguistic]]
 
 **Category** interaction; 
 

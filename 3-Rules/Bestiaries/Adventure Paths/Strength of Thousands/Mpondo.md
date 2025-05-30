@@ -56,28 +56,28 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword +30 (magical, two-hand d12)\n__Damage__  3d8 + 13 slashing"
+  - name: "**Melee** `pf2:1` Bastard Sword"
+    desc: "+30 (magical, two-hand d12)\n__Damage__  3d8 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +30 (magical)\n__Damage__  2d6 + 13 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+30 (magical)\n__Damage__  2d6 + 13 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +27 (magical, thrown 20 ft.)\n__Damage__  2d6 + 13 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+27 (magical, thrown 20 ft.)\n__Damage__  2d6 + 13 piercing"
 
   - name: "Arcane Prepared Spells"
-    desc: "DC 37, attack +28; __8th __  _[[Spells/Quandary|Maze]]_, _[[Spells/Polar Ray|Polar Ray]]_; __7th __  _[[Spells/Planar Seal|Dimensional Lock]]_, _[[Spells/Spell Turning|Spell Turning]]_; __4th __  _[[Spells/Translocate|Dimension Door]]_; __1st __  _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Produce Flame|Produce Flame]]_"
+    desc: "DC 37, attack +28; __8th __  _[[Spells/Quandary|Maze]]_, _[[Spells/Polar Ray|Polar Ray]]_; __7th __  _[[Spells/Planar Seal|Dimensional Lock]]_, _[[Spells/Spell Turning|Spell Turning]]_; __4th __  _[[Spells/Translocate|Dimension Door]]_; __1st __  _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_"
 
   - name: "Magus Conflux Spells"
     desc: "2 Focus Points, DC 37, attack +28; __8th __  _[[Spells/Dimensional Assault|Dimensional Assault]]_, _[[Spells/Hasted Assault|Hasted Assault]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Rite of the Red Star|Rite of the Red Star]]_"
+    desc: "_Rite of the Red Star_"
 
   - name: "Iobane Vision"
     desc: " (fortune) Warder-Chief Mpondo can see [[Conditions/Invisible|Invisible]] creatures and objects as though they are [[Conditions/Concealed|Concealed]].\n\nWhen he [[Actions/Seek|Seeks]] or [[Actions/Sense Motive|Senses Motive]], he can roll twice and take the higher result."

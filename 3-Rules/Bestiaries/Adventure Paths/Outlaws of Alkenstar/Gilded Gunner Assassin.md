@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Knuckle Duster +15 (agile, free-hand)\n__Damage__  1d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Knuckle Duster"
+    desc: "+15 (agile, free-hand)\n__Damage__  1d4 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thunderstone +15 (alchemical, bomb, sonic, splash, thrown 20 ft.)\n__Damage__  2d4 sonic 2 sonic"
+  - name: "**Ranged** `pf2:1` Thunderstone"
+    desc: "+15 (alchemical, bomb, sonic, splash, thrown 20 ft.)\n__Damage__  2d4 sonic 2 sonic"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dueling Pistol +15 (concealable, concussive, fatal d10, range increment 60 feet, reload 1)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dueling Pistol"
+    desc: "+15 (concealable, concussive, fatal d10, range increment 60 feet, reload 1)\n__Damage__  1d6 + 6 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The Gilded Gunner assassin deals an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

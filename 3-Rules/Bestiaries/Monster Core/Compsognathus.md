@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 (agile, finesse, reach 0 feet)\n__Damage__  1d6 piercing plus compsognathus-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (agile, finesse, reach 0 feet, unarmed)\n__Damage__  1d6 piercing plus compsognathus-venom"
 
   - name: "Compsognathus Venom"
     desc: " (poison) **Saving Throw** DC 16 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d8 poison damage and Enfeebled 1 (1 round)"

@@ -53,18 +53,18 @@ abilities_top:
   - name: ""
 
   - name: "Spell Sight"
-    desc: "  A zoog's eyes shed bright light in a @Template[cone|distance:15] (and dim light in the next 15 feet). Any magic effect in this area glows faintly. A zoog can quell or renew this light as a free action on its turn."
+    desc: "  A zoog's eyes shed bright light in a 15-foot cone (and dim light in the next 15 feet). Any magic effect in this area glows faintly. A zoog can quell or renew this light as a free action on its turn."
 
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 (finesse)\n__Damage__  1d8 + 1 piercing 1d4 bleed"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (finesse, unarmed)\n__Damage__  1d8 + 1 piercing 1d4 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +8 (agile, finesse, magical)\n__Damage__  1d6 + 1 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+8 (agile, finesse, magical, unarmed)\n__Damage__  1d6 + 1 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9; __2nd __  _[[Spells/Speak with Animals|Speak with Animals (At Will)]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_"

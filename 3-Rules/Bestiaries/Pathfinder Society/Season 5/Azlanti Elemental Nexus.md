@@ -37,7 +37,7 @@ hp: 34
 health:
   - name: ""
   - name: "HP"
-    desc: "34,  Spike Hardness 7, Spike HP 10 (BT 5); __Hardness__ 7; __Immunities__  object immunities,  critical hits,  precision"
+    desc: "34, Spike Hardness 7, Spike HP 10 (BT 5); __Hardness__ 7; __Immunities__  object immunities,  critical hits,  precision"
 perception:
   - name: ""
   - name: "Stealth DC 4" 

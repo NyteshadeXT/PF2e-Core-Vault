@@ -29,5 +29,5 @@ You dance through your foes, stabbing and shooting. You Stride, making up to thr
 
 After using Triggerbrand Blitz, you become [[Conditions/Fatigued|Fatigued]] for 1 minute.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

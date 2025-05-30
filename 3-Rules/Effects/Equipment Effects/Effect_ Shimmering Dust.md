@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Shimmering Dust|Shimmering Dust]]
+Granted by [[Equipment/Shimmering Dust|Shimmering Dust]]
 
 The creature sheds dim light in a 20-foot radius and takes a –2 circumstance penalty to Stealth.
 

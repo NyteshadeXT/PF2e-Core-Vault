@@ -14,7 +14,7 @@ license: ORC
 ---
 # Spirits' Interference `pf2:1`
 ## Feat 6
-### [[barbarian]][[divine]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[divine]][[rage]]
 
 **Category** class; 
 

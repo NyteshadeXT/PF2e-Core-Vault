@@ -28,5 +28,5 @@ license: ORC
 
 You evade an incoming attack by twisting your enemy's tactics in your favor. You gain a +2 circumstance bonus to AC against the triggering attack. If the attack misses you, you can immediately attempt a [[Actions/Feint|Feint]] or [[Actions/Shove|Shove]] against the triggering attacker; if you roll a success, you get a critical success instead.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

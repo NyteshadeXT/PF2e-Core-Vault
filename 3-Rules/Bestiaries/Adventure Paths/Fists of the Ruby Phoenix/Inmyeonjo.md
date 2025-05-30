@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Limited Immortality"
     desc: "  Though an inmyeonjo still needs to eat, drink, and sleep, they don't age and can't die of old age."
 
@@ -66,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +30 (agile, finesse, reach 15 feet)\n__Damage__  3d10 + 18 bludgeoning"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+30 (agile, finesse, reach 15 feet, unarmed)\n__Damage__  3d10 + 18 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +30 (agile, finesse, reach 25 feet)\n__Damage__  3d8 + 18 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+30 (agile, finesse, reach 25 feet)\n__Damage__  3d8 + 18 bludgeoning"
 
   - name: "Spontaneous Occult Spells"
     desc: "DC 34, attack +26; __8th __ (1 slots) _[[Spells/Pinpoint|Discern Location]]_, _[[Spells/Unrelenting Observation|Unrelenting Observation]]_; __7th __ (2 slots) _[[Spells/Ethereal Jaunt|Ethereal Jaunt]]_, _[[Spells/Mask of Terror|Mask of Terror]]_; __6th __ (2 slots) _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Vibrant Pattern|Vibrant Pattern]]_; __5th __ (2 slots) _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_; __4th __ (3 slots) _[[Spells/Discern Lies|Discern Lies]]_, _[[Spells/Read Omens|Read Omens]]_; __3rd __ (3 slots) _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Ring of Truth|Zone of Truth]]_; __2nd __ (3 slots) _[[Spells/Mirror Image|Mirror Image]]_\n__Cantrips__  __(8th)__ _[[Spells/Message|Message]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

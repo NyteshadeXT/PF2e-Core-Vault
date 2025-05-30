@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 (agile, finesse, magical)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (agile, finesse, magical, unarmed)\n__Damage__  1d6 + 4 bludgeoning"
 
   - name: "Occult Innate Spells"
     desc: "DC 20, attack +12; __3rd __ (2 slots) _[[Spells/Levitate|Levitate]]_, _[[Spells/Phantom Pain|Phantom Pain]]_\n__Cantrips__  __(2nd)__ _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Prestidigitation|Prestidigitation]]_"

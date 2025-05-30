@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Vaultbreaker's Harness|Vaultbreaker's Harness]]
+Granted by [[Equipment/Vaultbreaker's Harness|Vaultbreaker's Harness]]
+
+You gain a +1 item bonus to Stealth checks and a +10-foot item bonus to your Speed.
 
 *Source: Pathfinder #158: Sixty Feet Under*
 *OGL*

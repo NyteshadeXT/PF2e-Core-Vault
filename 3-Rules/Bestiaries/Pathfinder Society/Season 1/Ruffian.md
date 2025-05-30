@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +9 ()\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+9 ()\n__Damage__  1d6 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +8 (thrown 10 ft.)\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+8 (thrown 10 ft.)\n__Damage__  1d6 + 5 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +8 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+8 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 5 bludgeoning"
 
   - name: "Brutal Beating"
     desc: "  The ruffian's brutality shakes foes' confidence.\n\nWhen the ruffian deals damage on a critical hit, the target is [[Conditions/Frightened|Frightened 1]], and the ruffian can knock the target up to 10 feet away (this is forced movement)."

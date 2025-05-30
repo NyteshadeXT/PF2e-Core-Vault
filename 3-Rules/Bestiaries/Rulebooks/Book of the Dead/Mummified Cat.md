@@ -59,14 +59,17 @@ abilities_mid:
   - name: "Aura of Repose"
     desc: " (aura,divine) 60 feet. Corpses within the aura don't decay. This aura also attempts to counteract any effect that would transform a creature in the aura into undead (counteract rank 2, counteract modifier +5)."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 (reach 0 feet)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (reach 0 feet, unarmed)\n__Damage__  1d6 + 1 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +8 (agile, reach 0 feet)\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+8 (agile, reach 0 feet, unarmed)\n__Damage__  1d4 + 1 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 15, attack +7; __1st __  _[[Spells/Fear|Fear]]_"

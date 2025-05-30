@@ -35,7 +35,7 @@ perception:
 languages: "Common, Fey; tongues"
 skills:
   - name: "Skills"
-    desc: "Deception: +13, Diplomacy: +15, Intimidation: +15, Nature: +18, Religion: +18, Society: +15, Deception: +13, Diplomacy: +15, Intimidation: +15, Nature: +18, Religion: +18, Society: +15, Penitent Lore: +18"
+    desc: "Deception: +13, Diplomacy: +15, Intimidation: +15, Nature: +18, Religion: +18, Society: +15, Penitent Lore: +18"
 abilityMods: [2, 4, 1, 2, 7, 2]
 speed:  fly 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -68,8 +68,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hand of Atonement +15 (agile, finesse, magical)\n__Damage__  2d4 + 7 mental"
+  - name: "**Melee** `pf2:1` Hand of Atonement"
+    desc: "+15 (agile, finesse, magical)\n__Damage__  2d4 + 7 mental"
 
   - name: "Primal Innate Spells"
     desc: "DC 24, attack +16; __6th __  _[[Spells/Teleport|Teleport (At Will, Self And Penitent Only)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will, Self And Penitent Only)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"

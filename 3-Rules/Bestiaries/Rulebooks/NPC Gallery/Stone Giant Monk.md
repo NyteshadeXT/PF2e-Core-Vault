@@ -21,7 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Character Guide"
+source: "Pathfinder Lost Omens Character Guide"
 name: "Stone Giant Monk"
 level: "Creature 9"
 
@@ -41,7 +41,7 @@ skills:
     desc: "Acrobatics: +16, Athletics: +22, Intimidation: +16, Stealth: +16"
 abilityMods: [6, 2, 4, 0, 1, 0]
 speed: 40 feet
-sourcebook: "_Pathfinder Lost Omens: Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Character Guide_"
 ac: 28
 armorclass:
   - name: AC
@@ -58,16 +58,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Catch Rock|Catch Rock]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Requirements** The monster must have a free hand but can [[Actions/Release|Release]] anything it's holding as part of this reaction.\n\n**Trigger** The monster is targeted with a thrown rock Strike or a rock would fall on the monster.\n* * *\n\n**Effect** The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +22 (agile, reach 10 feet)\n__Damage__  2d8 + 16 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+22 (agile, reach 10 feet, unarmed)\n__Damage__  2d8 + 16 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +20 (brutal, range increment 120 feet)\n__Damage__  2d6 + 14 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+20 (brutal, range increment 120 feet)\n__Damage__  2d6 + 14 bludgeoning"
 
   - name: "Divine Focus Spells"
     desc: "2 Focus Points, DC 24, attack +16; __4th __  _[[Spells/Inner Upheaval|Ki Strike]]_, _[[Spells/Perfect Strike|Perfect Strike]]_"
@@ -76,7 +76,7 @@ attacks:
     desc: "`pf2:2`  The stone giant makes a fist Strike. The target is [[Bestiary Ability Glossary/Push|Pushed]] up to 10 feet on a hit or up to 20 feet on a critical hit.\n\nIf the target collides with a solid object or lands on the ground, it takes bludgeoning damage as though it had fallen the distance it moved."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
  
 ```
 

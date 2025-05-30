@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +9 (agile, finesse)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+9 (agile, finesse, unarmed)\n__Damage__  1d6 + 2 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 16, attack +8; __2nd __  _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Water Walk|Water Walk (At Will) (Loblobi Can Dismiss the Spell)]]_; __1st __  _[[Spells/Grease|Grease]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_\n__Cantrips__  __(1st)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Prestidigitation|Prestidigitation (Only to Move, Clean, or Soil Small Amounts of Water)]]_"
@@ -81,6 +81,6 @@ creatures:
 
 In the First World, rivers don't always flow as expected; sometimes they run backward, upward, or just disappear into mist and reappear somewhere else entirely. Fey native to such rivers are often just as capricious. This quality is particularly true of loblobis, cunning carnivores who resemble small, chubby humans with the heads and wings of crested herons.
 
-These malicious tricksters love playing any pranks that result in other creatures being embarrassed, hurt, or even drowned. Their most common "antic" is to cast [[Water Walk|Water Walk]] on a hopeful river-crosser, only to dismiss the spell when their victim has traversed halfway across. Conversely, most loblobis are terrible sports when they're the butt of a joke. It's common wisdom that few creatures can hold a grudge like a loblobi.
+These malicious tricksters love playing any pranks that result in other creatures being embarrassed, hurt, or even drowned. Their most common "antic" is to cast [[Spells/Water Walk|Water Walk]] on a hopeful river-crosser, only to dismiss the spell when their victim has traversed halfway across. Conversely, most loblobis are terrible sports when they're the butt of a joke. It's common wisdom that few creatures can hold a grudge like a loblobi.
 
 Exceptionally vain, loblobis flutter and dance constantly to show off their plumage. Failing to comment on a preening loblobi's appearance is a sure method to invite eternal enmity, but flattery might buy enough time to sneak away from the evil fey.

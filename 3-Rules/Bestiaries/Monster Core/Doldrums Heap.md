@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Wavesense|Wavesense (Precise) 120 feet]]"
+    desc: "  This sense allows a monster to feel vibrations caused by movement through a liquid. It's an imprecise sense with a limited range (listed in the ability). Wavesense functions only if monster and the subject are in the same body of liquid, and only if the subject is moving through the liquid."
+
 abilities_mid:
   - name: ""
   - name: "Mirage Spores"
@@ -60,17 +63,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendrils +21 (reach 15 feet)\n__Damage__  2d12 + 10 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Tendrils"
+    desc: "+21 (reach 15 feet)\n__Damage__  2d12 + 10 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d12+10 bludgeoning, DC 28 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d12+10 bludgeoning, DC 28 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Draw In"
     desc: "`pf2:2`  The doldrums heap attempts to [[Actions/Reposition|Reposition]] up to three creatures it has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. These attempts neither apply nor count toward the heap's multiple attack penalty.\n\nIt can move them into its own space, dealing 1d12+10 bludgeoning damage."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

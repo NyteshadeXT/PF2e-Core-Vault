@@ -57,14 +57,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +12 (agile, finesse, versatile s)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+12 (agile, finesse, versatile s)\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 (agile, finesse, magical)\n__Damage__  1d4 + 5 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (agile, finesse, magical, unarmed)\n__Damage__  1d4 + 5 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Harrow Card +12 (agile, magical, range increment 20 feet, thrown)\n__Damage__  1d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Harrow Card"
+    desc: "+12 (agile, magical, range increment 20 feet, thrown)\n__Damage__  1d4 + 3 piercing"
 
   - name: "[[Item.bpoyTnJ7zn3kG6Y9|Shuffle the Deck]]"
     desc: "`pf2:2`  **Frequency** once per day\n\n**Requirements** The harrowkin has rolled initiative\n* * *\n\n**Effect** At the end of the current round, all creatures currently in initiative reroll their initiative, using the same modifiers as their original initiative roll, and use the new initiative values for all following rounds.."
@@ -73,7 +73,7 @@ attacks:
     desc: "  The harrowkin deals 1d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -21,5 +21,5 @@ license: OGL
 
 You have a connection to vaporous forms of water, such as fog and mist. You gain the [[Actions/Mist Blending|Mist Blending]] reaction.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

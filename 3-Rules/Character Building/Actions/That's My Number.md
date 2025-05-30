@@ -4,7 +4,7 @@ title: "That's My Number"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/fortune
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.kUME7DMhhHH6eIiH"
 license: OGL

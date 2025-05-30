@@ -62,14 +62,17 @@ abilities_mid:
   - name: "Final Spite"
     desc: "`pf2:r`  **Trigger** The Lonely Warrior is reduced to 0 Hit Points\n* * *\n\n**Effect** The Lonely Warrior makes a Strike before being destroyed. It doesn't gain any temporary HP from drain life on this Strike."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword +18 (magical, two-hand d12)\n__Damage__  1d8 + 7 slashing plus drain-life"
+  - name: "**Melee** `pf2:1` Bastard Sword"
+    desc: "+18 (magical, two-hand d12)\n__Damage__  1d8 + 7 slashing plus drain-life"
 
   - name: "Cairn Wight Spawn"
-    desc: " (divine) A living humanoid slain by the Lonely Warrior's weapon or claw Strike rises as a [[Bestiary 1/Wight|Spawned Wight]] after 1d4 rounds. This spawned wight is under the command of the Lonely Warrior. It doesn't have drain life or cairn wight spawn and is [[Conditions/Clumsy|Clumsy 2]] for as long as it is a spawned wight. If its creator dies, the spawned wight becomes a full-fledged, autonomous cairn wight; it regains its free will, gains drain life and cairn wight spawn, and is no longer clumsy."
+    desc: " (divine) A living humanoid slain by the Lonely Warrior's weapon or claw Strike rises as a [[Monster Core/Wight|Spawned Wight]] after 1d4 rounds. This spawned wight is under the command of the Lonely Warrior. It doesn't have drain life or cairn wight spawn and is [[Conditions/Clumsy|Clumsy 2]] for as long as it is a spawned wight. If its creator dies, the spawned wight becomes a full-fledged, autonomous cairn wight; it regains its free will, gains drain life and cairn wight spawn, and is no longer clumsy."
 
   - name: "Drain Life"
     desc: " (divine) When The Lonely Warrior damages a living creature with a melee Strike, using an unarmed attack or its bound weapon, The Lonely Warrior gains 5 temporary Hit Points and the creature must succeed at a DC 21 Fortitude check save or become [[Conditions/Drained|Drained 1]]. Further damage dealt by the cairn wraith increases the drained condition value by 1 on a failed save, to a maximum of drained 4."

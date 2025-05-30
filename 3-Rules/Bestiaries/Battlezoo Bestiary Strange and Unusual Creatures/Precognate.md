@@ -35,7 +35,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +12, Athletics: +16, Stealth: +12, Survival: +12, Acrobatics: +12, Athletics: +16, Stealth: +12, Survival: +12"
+    desc: "Acrobatics: +12, Athletics: +16, Stealth: +12, Survival: +12"
 abilityMods: [4, 5, 2, -5, 2, -5]
 speed: 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -62,8 +62,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile, finesse)\n__Damage__  2d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, finesse)\n__Damage__  2d6 + 6 slashing"
 
   - name: "Efficient Takedown"
     desc: "`pf2:2` (occult) The precognate's divinations determine an optimal plan to disable prey. It takes up to three Athletics actions, choosing between [[undefined]], [[undefined]], [[undefined]], or [[undefined]]. The precognate can't use the same Athletics action against the same target more than once during an Efficient Takedown. For example, it can't Trip the same target twice or three times. A precognate's claws can hold up to 3 creatures in a grapple at once, but it can restrain only one of them. The precognate's multiple attack penalty doesn't increase until after all the checks have been attempted."

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Awakened Magic
 * * *
-The connection between you and primal magic deepens. You can cast [[Summon Animal|Summon Animal]] as a primal innate spell once per day, heightened to half your level rounded up.
+The connection between you and primal magic deepens. You can cast [[Spells/Summon Animal|Summon Animal]] as a primal innate spell once per day, heightened to half your level rounded up.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

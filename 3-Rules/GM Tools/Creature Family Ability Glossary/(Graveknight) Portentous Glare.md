@@ -9,14 +9,14 @@ tags:
   - trait/fear
   - trait/mental
   - trait/visual
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.0MBZJdTv863X2jwz"
 license: OGL
 ---
 # (Graveknight) Portentous Glare
 
-### [[3-Rules/trait_reference/A/aura]][[divine]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[visual]]
+### [[aura]][[divine]][[emotion]][[fear]][[mental]][[visual]]
 
 **Category** offensive; 
 

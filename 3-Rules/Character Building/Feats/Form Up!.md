@@ -28,5 +28,5 @@ You've trained in battle formations for a plethora of situations. Choose a forma
 *   **Wedge** Your allies gather into any space that would be covered by a 15-foot cone originating from you in a direction of your choosing.
 *   **Cluster** Your allies gather into any space that would be covered by a 15-foot emanation in an aura around you.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

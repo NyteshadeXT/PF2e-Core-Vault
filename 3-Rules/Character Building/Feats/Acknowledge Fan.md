@@ -14,7 +14,7 @@ license: OGL
 ---
 # Acknowledge Fan `pf2:1`
 ## Feat 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[incapacitation]][[3-Rules/trait_reference/M/mental]][[visual]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[incapacitation]][[mental]][[visual]]
 
 **Category** class; 
 
@@ -38,5 +38,5 @@ Your reputation as a Firebrand precedes you, and you need only make a simple ges
 
 **Special** This feat has either the arcane or occult trait, matching the choice you made when you took [[Feats/Mesmerizing Gaze|Mesmerizing Gaze]].
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

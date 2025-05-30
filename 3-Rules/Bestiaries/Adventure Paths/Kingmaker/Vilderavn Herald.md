@@ -50,10 +50,16 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Aura of Disquietude"
     desc: " (emotion,fear,mental) 30 feet. DC 35 Will check\n\nAs [[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]], plus a creature frightened by the aura becomes suspicious: it doesn't count any other creature as its ally, and it can't [[Actions/Aid|Aid]] or flank. On a critical failure, the creature also can't be a willing target for harmless or helpful magic. The vilderavn can activate or deactivate this aura using a single action, which has the concentrate trait.\n\n[[Bestiary Effects/Effect_ Aura of Disquietude|Effect: Aura of Disquietude]]\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
@@ -61,14 +67,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +36 (magical, versatile p)\n__Damage__  4d12 + 16 slashing plus bloodbird"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+36 (magical, versatile p)\n__Damage__  4d12 + 16 slashing plus bloodbird"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +36 (magical)\n__Damage__  4d8 + 16 piercing plus bloodbird"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+36 (magical, unarmed)\n__Damage__  4d8 + 16 piercing plus bloodbird"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +36 (agile, magical)\n__Damage__  4d8 + 16 slashing plus bloodbird"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+36 (agile, magical, unarmed)\n__Damage__  4d8 + 16 slashing plus bloodbird"
 
   - name: "Occult Innate Spells"
     desc: "DC 41, attack +33; __8th __  _[[Spells/Ethereal Jaunt|Ethereal Jaunt]]_, _[[Spells/Suggestion|Suggestion]]_; __5th __  _[[Spells/Wave of Despair|Crushing Despair (At Will)]]_, _[[Spells/Rewrite Memory|Modify Memory]]_, _[[Spells/Outcast's Curse|Outcast's Curse (At Will)]]_, _[[Spells/Suggestion|Suggestion (At Will)]]_\n__Constant__  __(6th)__ _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"

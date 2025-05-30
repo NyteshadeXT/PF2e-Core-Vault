@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ghoul Dedication
 ## Feat 2
-### [rare](rare.md "Rare Rarity Trait")[[archetype]][[dedication]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[dedication]]
 
 **Category** class; 
 
@@ -26,7 +26,7 @@ You gain the ghoul and undead traits and the [[Ancestry Features/Basic Undead Be
 
 You gain the [[Actions/Consume Flesh|Consume Flesh]] action. Satisfying your craving is difficult. Consuming Flesh temporarily satiates you. Many ghoul feats have extra abilities or functions that can be used when you are satiated, though using those abilities also causes you to lose your satiated status. You can always Consume Flesh, but eating more than a normal amount has no further effect; a ghoul's hunger is satiated, or it is not.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Ghoul|Ghoul]] archetype.
+[[PF2e Journals/Archetypes/Ghoul|Ghoul]]
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

@@ -11,7 +11,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.4UXyMtXLaOxuH6Js"
 license: ORC
 ---
-# Distracting Performance
+# Distracting Performance `pf2:1`
 ## Feat 2
 ### [[general]][[skill]]
 

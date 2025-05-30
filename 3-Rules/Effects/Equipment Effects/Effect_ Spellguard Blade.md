@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Spellguard Blade|Spellguard Blade]]
+Granted by [[Equipment/Spellguard Blade|Spellguard Blade]]
+
+You gain a +1 circumstance bonus to saving throws against spells that target you.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

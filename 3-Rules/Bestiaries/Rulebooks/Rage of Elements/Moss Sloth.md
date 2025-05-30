@@ -55,17 +55,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 5 (Deactivated by Fire)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Insect Swarm"
     desc: "  The first time each day that the moss sloth takes damage from a bludgeoning melee attack, a patch of moss collapses inward, releasing insects that swarm the attacking creature and deal 2d4 piercing damage (DC 15 Reflex check save)."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wooden Claw +9 ()\n__Damage__  1d8 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Wooden Claw"
+    desc: "+9 ()\n__Damage__  1d8 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Fruit +6 (range increment 15 feet)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Fruit"
+    desc: "+6 (range increment 15 feet)\n__Damage__  1d6 + 2 bludgeoning"
 
   - name: "Hold Fast"
     desc: "  A moss sloth can climb on ceilings and other inverted surfaces, though it treats such surfaces as difficult terrain."

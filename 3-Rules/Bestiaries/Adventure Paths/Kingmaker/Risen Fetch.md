@@ -54,13 +54,19 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 50 (Deactivated by Fire or Void)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fetch Weapon +41 (agile, magical, versatile b, versatile p)\n__Damage__  4d8 + 18 slashing 4d6 mental"
+  - name: "**Melee** `pf2:1` Fetch Weapon"
+    desc: "+41 (agile, magical, versatile b, versatile p)\n__Damage__  4d8 + 18 slashing 4d6 mental"
 
   - name: "Primal Innate Spells"
     desc: "DC 45, attack +37; __10th __  _[[Spells/Alter Reality|Alter Reality]]_; __9th __  _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Overwhelming Presence|Overwhelming Presence]]_, _[[Spells/Telepathic Demand|Telepathic Demand]]_, _[[Spells/Weird|Weird]]_; __8th __  _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Spirit Song|Spirit Song]]_, _[[Spells/Suggestion|Suggestion]]_; __7th __  _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Interplanar Teleport|Plane Shift (to or from the First World only)]]_; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_\n__Cantrips__  __(10th)__ _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_\n__Constant__  __(9th)__ _[[Spells/Air Walk|Air Walk]]_, _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"

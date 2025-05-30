@@ -68,26 +68,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +14 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  2d4 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+14 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  2d4 + 1 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +13 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+13 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Flask +13 (thrown 30 ft.)\n__Damage__  1 acid 2d6 acid 2 acid"
+  - name: "**Ranged** `pf2:1` Acid Flask"
+    desc: "+13 (thrown 30 ft.)\n__Damage__  1 acid 2d6 acid 2 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire +13 (thrown 30 ft.)\n__Damage__  2d8 fire 2 fire 2 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire"
+    desc: "+13 (thrown 30 ft.)\n__Damage__  2d8 fire 2 fire 2 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bottled Lightning +13 (thrown 30 ft.)\n__Damage__  2d6 electricity 2 electricity"
+  - name: "**Ranged** `pf2:1` Bottled Lightning"
+    desc: "+13 (thrown 30 ft.)\n__Damage__  2d6 electricity 2 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Tanglefoot Bag +13 (thrown 30 ft.)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Tanglefoot Bag"
+    desc: "+13 (thrown 30 ft.)\n__Damage__ "
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemical Crossbow +13 (range increment 30 feet, reload 1)\n__Damage__  1d8 piercing"
+  - name: "**Ranged** `pf2:1` Alchemical Crossbow"
+    desc: "+13 (range increment 30 feet, reload 1)\n__Damage__  1d8 piercing"
 
   - name: "Alchemical Crossbow"
     desc: "  Vilree's crossbow can deliver bolts that are alchemically infused. As an action, she can slot an alchemical bomb into the crossbow, and the next 3 attacks she makes with it deal 1d6 damage of the type dealt by the bomb. These attacks never deal splash damage.\n\n[[Bestiary Effects/Effect_ Alchemical Crossbow|Effect: Alchemical Crossbow]]"

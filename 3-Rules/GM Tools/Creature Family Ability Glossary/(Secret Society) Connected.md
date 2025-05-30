@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Secret Society) Connected"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.9w9hhvqGhrxdAzMH"
 license: OGL

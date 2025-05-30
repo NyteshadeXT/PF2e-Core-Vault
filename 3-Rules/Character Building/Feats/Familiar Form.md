@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Spellmaster Dedication
 * * *
-You can use your magic to transform into a small creature of a type that commonly serves as a spellcaster's familiar, potentially allowing you to safely scout for your party while retaining a degree of spellcasting ability. You gain the [[3-Rules/Character Building/Spells/F/Familiar Form|Familiar Form]] focus spell. Increase the number of Focus Points in your focus pool by 1.
+You can use your magic to transform into a small creature of a type that commonly serves as a spellcaster's familiar, potentially allowing you to safely scout for your party while retaining a degree of spellcasting ability. You gain the [[Spells/Familiar Form|Familiar Form]] focus spell. Increase the number of Focus Points in your focus pool by 1.
 
-*Source: Pathfinder Lost Omens: Pathfinder Society Guide*
+*Source: Pathfinder Lost Omens Pathfinder Society Guide*
 *OGL*

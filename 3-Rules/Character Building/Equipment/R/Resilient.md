@@ -1,76 +1,26 @@
 ---
-#========================================================#
-#                     CORE PROPERTIES                    #
-#========================================================#
-cssclass: pf2e-item, h-line
-name: "resilient"
-aliases: "Resilient"
-source: "Pathfinder GM Core"
-pg: ""
-rarity: ""
-trait01: "magical"
-trait02: "common"
-trait03: ""
-trait04: ""
-trait05: ""
-trait06: ""
-trait07: ""
-trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 8
-weight: 
-value: "340"
-subvalue: "gp"
-invest:
-usage: "etched onto armor"
-license: "ORC"
-identify:
-description: "_Resilient_ runes imbue armor with additional protective magic. This grants the wearer a +1 item bonus to saving throws.  You can upgrade the _resilient_ rune already etched on a suit of armor using the normal process for upgrading items and runes."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
-trigger2:
-mechanics2: "**Secondary Effect** "
-craft:
-
-#========================================================#
-#                   WEAPON PROPERTIES                    #
-#========================================================#
-range: 
-ammoType:
-damage: 
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
-
-#========================================================#
-#                    ARMOR PROPERTIES                    #
-#========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
-resist:
-immunity:
-conditionImmunity:
-
-#========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
-#========================================================#
-weaponBase:
-armorBase:
-
+obsidianUIMode: preview
+title: "Resilient"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - trait/magical
+  - trait/common
+  - remaster
+aliases: "Compendium.pf2e.equipment-srd.Item.eSjQgsl3pYkirOwk"
+license: ORC
 ---
+# Resilient
+## Item 8
+### [[magical]]
+
+
+**Price** 340 gp; 
+**Bulk** 0; **Size** med
+**Usage** etched-onto-armor
+
+_Resilient_ runes imbue armor with additional protective magic. This grants the wearer a +1 item bonus to saving throws.
+
+You can upgrade the _resilient_ rune already etched on a suit of armor using the normal process for upgrading items and runes.
+
+*Source: Pathfinder GM Core*
+*ORC*

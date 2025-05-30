@@ -53,14 +53,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +11 ()\n__Damage__  1d4 + 2 piercing plus bubble-venom"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+11 ()\n__Damage__  1d4 + 2 piercing plus bubble-venom"
 
   - name: "Bubble Venom"
     desc: "  A creature bit by a desa-desa breaks out in large, painful blisters which expand and pop as water in the victim's body turns into volatile gasses. Magical healing of any kind counteracts the bubble venom\n\n**Saving Throw** DC 18 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** weakness to fire 2 and 1d6 piercing (1 round)\n\n**Stage 2** weakness to fire 4 and 2d6 piercing (1 round)"
 
   - name: "Fire Blast"
-    desc: "`pf2:2` (arcane,fire) The desa-desa releases a burst of explosive gasses in all directions, dealing 3d6 fire to all creatures in a @Template[emanation|distance:5]. The desa-desa can't use Fire Blast again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) The desa-desa releases a burst of explosive gasses in all directions, dealing 3d6 fire to all creatures in a 5-foot emanation. The desa-desa can't use Fire Blast again for 1d4 rounds."
 
   - name: "Volatile Gasses"
     desc: "  Whenever a desa-desa takes electricity damage, it must attempt a DC 18 Fortitude check save. On a failure, the sparks cause the desa-desa to immediately use Fire Blast if it can, and the desa-desa becomes off-guard for 1 round."

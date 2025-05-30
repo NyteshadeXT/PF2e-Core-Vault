@@ -54,19 +54,25 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Fungaltongue"
     desc: "  A fungus tyrant can speak with all forms of fungus, be they fungal creatures or otherwise. Most normal fungi don't recognize details about creatures or know anything about the world beyond their immediate vicinity. A fungus tyrant gains a +3 circumstance bonus on all Deception, Diplomacy, or Intimidation checks made against fungus creatures."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
 
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +19 (magical, reach 10 feet)\n__Damage__  2d10 + 7 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+19 (magical, reach 10 feet, unarmed)\n__Damage__  2d10 + 7 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +19 (agile, magical)\n__Damage__  2d12 + 7 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+19 (agile, magical, unarmed)\n__Damage__  2d12 + 7 slashing"
 
   - name: "Divine Innate Spells"
     desc: "DC 28, attack +20; __5th __  _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Illusory Disguise|Illusory Disguise]]_, _[[Spells/Mind Probe|Mind Probe]]_; __4th __  _[[Spells/Charm|Charm]]_, _[[Spells/Mirage|Mirage]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Slow|Slow]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
@@ -87,7 +93,7 @@ attacks:
     desc: "`pf2:1` (attack) The fungus tyrant attempts a tentacle Strike but treats a sporepod of their choice within 120 feet that they can see as the point of origin of that tentacle Strike."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

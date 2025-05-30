@@ -1,76 +1,32 @@
 ---
-#========================================================#
-#                     CORE PROPERTIES                    #
-#========================================================#
-cssclass: pf2e-item, h-line
-name: "katana"
-aliases: "Katana"
-source: "Pathfinder Player Core"
-pg: ""
-rarity: ""
-trait01: "deadly-d8"
-trait02: "two-hand-d10"
-trait03: "versatile-p"
-trait04: "uncommon"
-trait05: ""
-trait06: ""
-trait07: ""
-trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 0
-weight: 1
-value: "2"
-subvalue: "gp"
-invest:
-usage: "held in one hand "
-license: "ORC"
-identify:
-description: "A katana is a curved, single-edged sword known for its wickedly sharped blade."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
-trigger2:
-mechanics2: "**Secondary Effect** "
-craft:
-
-#========================================================#
-#                   WEAPON PROPERTIES                    #
-#========================================================#
-range: 
-ammoType:
-damage: 1d6 slashing
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
-
-#========================================================#
-#                    ARMOR PROPERTIES                    #
-#========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
-resist:
-immunity:
-conditionImmunity:
-
-#========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
-#========================================================#
-weaponBase:
-armorBase:
-
+obsidianUIMode: preview
+title: "Katana"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - pf2e/weapon
+  - trait/deadly-d8
+  - trait/two-hand-d10
+  - trait/versatile-p
+  - trait/uncommon
+  - category/martial
+  - remaster
+aliases: "Compendium.pf2e.equipment-srd.Item.Y1dkRsRd1Z7Jf2y6"
+license: ORC
 ---
+# Katana
+## Item 0
+### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[two-hand-d10]][[versatile-p]]
+
+|  |  |
+| -- | -- |
+| **Category** martial melee weapon | **Group** sword |
+| **Price** 2 gp |  |
+| **Bulk** 1 | **Size** med |
+| **Damage** 1d6 slashing  | **Usage** held-in-one-hand |
+
+
+
+A katana is a curved, single-edged sword known for its wickedly sharped blade.
+
+*Source: Pathfinder Player Core*
+*ORC*

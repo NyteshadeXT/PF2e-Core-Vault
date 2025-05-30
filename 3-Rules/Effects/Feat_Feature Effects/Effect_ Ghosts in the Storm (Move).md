@@ -19,7 +19,7 @@ license: OGL
 
 Granted by [[Feats/Ghosts in the Storm|Ghosts in the Storm]]
 
-The creature is concealed, and its Strikes gain the _shock_ rune.
+You are concealed, and your Strikes gain the _shock_ rune.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

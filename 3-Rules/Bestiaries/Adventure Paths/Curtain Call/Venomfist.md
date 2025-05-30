@@ -35,7 +35,7 @@ trait_04: [[water]]
 modifier: 40
 perception:
   - name: "Perception"
-    desc: "+40; Greater Darkvision"
+    desc: "+40; Greater Darkvision, Wavesense (Precise) 120 Feet"
 languages: "Common, Muan, Petran, Pyric, Sussuran, Talican, Thalassic; Telepathy 100 feet, Truespeech"
 skills:
   - name: "Skills"
@@ -69,8 +69,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +42 (magical, reach 20 feet)\n__Damage__  4d6 + 21 bludgeoning plus improved-grab 4d6 poison plus improved-grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+42 (magical, reach 20 feet, unarmed)\n__Damage__  4d6 + 21 bludgeoning plus improved-grab 4d6 poison plus improved-grab"
 
   - name: "Divine Innate Spells"
     desc: "DC 45, attack +37; __10th __  _[[Spells/Cataclysm|Cataclysm]]_; __9th __  _[[Spells/Toxic Cloud|Toxic Cloud]]_, _[[Spells/Wrathful Storm|Wrathful Storm]]_; __8th __  _[[Spells/Hydraulic Push|Hydraulic Push (At Will)]]_\n__Cantrips__  __(10th)__ _[[Spells/Caustic Blast|Caustic Blast]]_\n__Constant__  __(10th)__ _[[Spells/Truesight|Truesight]]_, _[[Spells/Truespeech|Truespeech]]_"
@@ -85,7 +85,7 @@ attacks:
     desc: "`pf2:2`  Venomfist expands their space to fill the area of their vortex. Creatures within the aura take 6d12+6 bludgeoning and 6d12+6 poison damage with a DC 45 Fortitude check save. A creature that fails this save is pushed 40 feet. Venomfist then retracts to their former space and cannot use Surge again for 1d4 rounds."
 
   - name: "Improved Grab"
-    desc: "  The monster can use [[Bestiary Ability Glossary/Grab|Grab]] as a free action triggered by a hit with its initial attack. A monster with Improved Grab still needs to spend an action to extend the duration for creatures it already has [[Conditions/Grabbed|Grabbed]]."
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

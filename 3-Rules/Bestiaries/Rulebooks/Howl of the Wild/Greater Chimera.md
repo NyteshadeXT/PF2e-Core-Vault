@@ -29,7 +29,7 @@ trait_01: [[beast]]
 modifier: 23
 perception:
   - name: "Perception"
-    desc: "+23; "
+    desc: "+23; Darkvision, Scent (Imprecise) 30 Feet"
 languages: ""
 skills:
   - name: "Skills"
@@ -52,7 +52,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Three-Headed"
     desc: "  Any ability that would sever a greater chimera's head (such as a critical hit with a [[Equipment/Vorpal|Vorpal]] weapon) severs one head at random. Losing a head doesn't kill a chimera (as long as it has at least one head left), but it does prevent it from making Strikes with the lost head or using any abilities granted by the head."
@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +25 (agile)\n__Damage__  3d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+25 (agile, unarmed)\n__Damage__  3d8 + 8 slashing"
 
   - name: "Multiple Reactions"
     desc: "  A greater chimera gains 2 extra reactions each round that it can use only to make Reactive Strikes. It must use a different head for each reaction, and it can't use more than one on the same triggering action. If it loses one of its heads, it also loses one of these extra reactions."

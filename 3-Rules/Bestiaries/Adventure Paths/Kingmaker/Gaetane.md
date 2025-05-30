@@ -67,17 +67,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +28 (finesse)\n__Damage__  2d10 + 10 piercing plus curse-of-the-wererat"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+28 (finesse, unarmed)\n__Damage__  2d10 + 10 piercing plus curse-of-the-wererat"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +28 (agile, finesse)\n__Damage__  2d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+28 (agile, finesse, unarmed)\n__Damage__  2d8 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Oathbow +30 (deadly d10, range 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Oathbow"
+    desc: "+30 (deadly d10, range 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 10 piercing"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph) *   **Human**\n    *   **Melee** fist +24 (agile, nonlethal), **Damage** 1d4+10 bludgeoning damage\n*   **Rat**\n    *   **Size** Small\n    *   **Speed** 30 feet, climb 10 feet"
+    desc: "`pf2:1` (concentrate,polymorph) *   **Human**\n    *   **Melee** fist +24 (agile, nonlethal), **Damage** 1d4+10 bludgeoning damage\n*   **Rat**\n    *   **Size** Small\n    *   **Speed** 30 feet, climb 10 feet\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Curse of the Wererat"
     desc: " (curse,primal) This curse affects only humanoids.\n\n**Saving Throw** DC 34 Fortitude check\n* * *\n\nOn each full moon, the cursed creature must succeed at another Fortitude save or turn into a wererat until dawn.\n\nThe creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn."

@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 (agile)\n__Damage__  2d6 + 5 piercing plus knockdown"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (agile, unarmed)\n__Damage__  2d6 + 5 piercing plus knockdown"
 
   - name: "Divine Innate Spells"
     desc: "DC 21, attack +13; __3rd __ (1 slots) _[[Spells/Paralyze|Paralyze]]_; __2nd __ (2 slots) _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __ (2 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_"
@@ -73,7 +73,7 @@ attacks:
     desc: " (concentrate,divine,mental) The Kurnugian ends their Hypnotic Stare ability early, and just before this happens, the target must succeed at a DC 24 Will check saving throw or forget any hostile activities the Kurnugian jackal performed against it."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

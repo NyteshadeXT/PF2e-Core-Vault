@@ -58,10 +58,13 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Draining Presence"
     desc: " (aura,void) 10 feet. A creature entering the aura must succeed at a DC 26 Fortitude check save or become [[Conditions/Drained|Drained 1]]. It recovers after it has been out of the aura for 1 minute. This drained condition value is cumulative with the drained value caused by drain life, but not with multiple draining presence auras.\n\nA creature that succeeds at its save is temporarily immune to draining presence for 24 hours."
@@ -69,11 +72,14 @@ abilities_mid:
   - name: "Sunlight Powerlessness"
     desc: "  A dread wraith caught in sunlight is [[Conditions/Stunned|Stunned 2]] and [[Conditions/Clumsy|Clumsy 2]]."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spectral Hand +21 (finesse)\n__Damage__  2d10 + 7 mental plus drain-life"
+  - name: "**Melee** `pf2:1` Spectral Hand"
+    desc: "+21 (finesse)\n__Damage__  2d10 + 7 mental plus drain-life"
 
   - name: "Absorb Wraith"
     desc: "`pf2:2`  The dread wraith extends its hand toward another wraith creature within 100 feet. The target wraith dissolves and streaks toward the dread wraith in a straight line, dealing 6d10 void damage to each creature along the line (DC 28 Fortitude check save).\n\nThe dread wraith absorbs the essence of the target wraith, becoming [[Conditions/Quickened|Quickened]] and gaining a +10-foot status bonus to its fly Speed for a number of rounds equal to the level of the absorbed wraith. It can use its extra action only to Fly or Strike.\n\nAn unwilling target can attempt a DC 28 Will check save to resist being absorbed."
@@ -82,7 +88,7 @@ attacks:
     desc: " (divine) When the dread wraith damages a living creature with its spectral hand Strike, the wraith gains 10 temporary Hit Points and the target must succeed at a DC 28 Fortitude check save or become [[Conditions/Drained|Drained 1]]. Further damage dealt by the wraith increases the drained condition value by 1 on a failed save, to a maximum of drained 4."
 
   - name: "Wraith Spawn"
-    desc: " (divine) A living humanoid slain by a wraith's spectral hand Strike rises as a [[Bestiary 1/Wraith|Wraith Spawn]] after 1d4 rounds. This wraith spawn is under the command of the dread wraith that killed it. It doesn't have drain life or wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will and gains drain life and wraith spawn."
+    desc: " (divine) A living humanoid slain by a wraith's spectral hand Strike rises as a [[Monster Core/Wraith|Wraith Spawn]] after 1d4 rounds. This wraith spawn is under the command of the dread wraith that killed it. It doesn't have drain life or wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will and gains drain life and wraith spawn."
  
 ```
 

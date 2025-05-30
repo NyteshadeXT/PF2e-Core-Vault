@@ -43,7 +43,7 @@ perception:
 languages: "Chthonian; can&#x27;t speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +15, Athletics: +15, Intimidation: +17, Acrobatics: +15, Athletics: +15, Intimidation: +17"
+    desc: "Acrobatics: +15, Athletics: +15, Intimidation: +17"
 abilityMods: [4, 6, 2, -1, 4, 4]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -67,14 +67,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +18 (finesse, unholy)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+18 (finesse, unholy)\n__Damage__  2d8 + 6 piercing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +18 (finesse, unholy)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+18 (finesse, unholy)\n__Damage__  2d6 + 6 piercing 1d10 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +18 (agile, finesse, unholy)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+18 (agile, finesse, unholy)\n__Damage__  2d6 + 6 bludgeoning 1d6 spirit"
 
   - name: "Demon Soul"
     desc: "`pf2:1` (concentrate,divine,polymorph) **Frequency** once per hour\n* * *\n\n**Effect** The lucent demonsheep remembers a glimpse of its past life and former glory, regaining a fraction of its former demonic abilities for 1 minute. The lucent demonsheep grows to Medium size, and its body lights on fire, causing its Strikes to deal 1d6 additional fire damage. Its wool becomes a dense cloud of choking black smoke, granting it [[Conditions/Concealed|Concealement]] to all other creatures. Finally, the lucent demonsheep gains smoke vision, allowing it to see through smoke. The listed effects from Demon Soul are appropriate for a lucent demonsheep that was originally formed from an arson demon. Other thematic Demon Soul effects might apply for lucent demonsheep formed from different sorts of demons, at the GM's discretion.\n\n[[Effects/Effect_ Demon Soul|Effect: Demon Soul]]"

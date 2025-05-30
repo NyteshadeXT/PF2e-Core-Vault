@@ -54,7 +54,7 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "[[Equipment/Spike Launcher|Spike Launcher]], [[Equipment/Rapier|+1 Striking Rapier]], [[Equipment/Leather Armor|+1 Leather Armor]], [[Equipment/Manacles (Simple)|Manacles (Simple)]], 20x [[Item.247H5qGAteycBdAe|Spikes]]"
+    desc: "[[Equipment/Spike Launcher|Spike Launcher]], [[Equipment/Rapier|+1 Striking Rapier]], [[Equipment/Leather Armor|+1 Leather Armor]], [[Equipment/Manacles (Simple)|Manacles (Simple)]], 20x [[Equipment/Spikes|Spikes]]"
 abilities_mid:
   - name: ""
   - name: "Snap Shot"
@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +22 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 11 slashing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+22 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 11 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +21 (finesse)\n__Damage__  2d4 + 11 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+21 (finesse, unarmed)\n__Damage__  2d4 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spike Launcher +22 (backstabber, fatal d12, kickback, magical, range increment 120 feet, reload 1)\n__Damage__  2d8 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Spike Launcher"
+    desc: "+22 (backstabber, fatal d12, kickback, magical, range increment 120 feet, reload 1)\n__Damage__  2d8 + 9 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Earthbind|Earthbind]]_"

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[3-Rules/Character Building/Spells/W/Wind Jump|Wind Jump]]
+Granted by [[Spells/Wind Jump|Wind Jump]]
 
 You gain a fly Speed equal to your Speed.
 

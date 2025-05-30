@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +29 (agile, magical, shove)\n__Damage__  3d10 + 14 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+29 (agile, magical, shove, unarmed)\n__Damage__  3d10 + 14 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  2d10+14 bludgeoning, DC 38 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  2d10+14 bludgeoning, DC 38 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Encase in Wax"
     desc: "`pf2:1`  **Requirements** Facade's previous action was to Constrict a creature\n* * *\n\n**Effect** Facade encases the creature they just Constricted with wax. That creature becomes [[Conditions/Slowed|Slowed 1]] until it takes a 3-action activity to Interact with the wax and peel it off."
@@ -77,7 +77,7 @@ attacks:
     desc: "`pf2:r` (arcane,emotion,fear,mental) **Trigger** Facade Strikes a creature they've assumed the basic appearance of\n* * *\n\n**Effect** s The damaged creature becomes [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical hit)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

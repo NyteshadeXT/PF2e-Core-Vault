@@ -3,22 +3,24 @@ obsidianUIMode: preview
 title: "Arise, Ye Worthy!"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/ganzi
+  - trait/nephilim
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.YryDlMt3zARg6j7T"
-license: OGL
+license: ORC
 ---
 # Arise, Ye Worthy!
 ## Feat 13
-### [[ganzi]]
+### [[nephilim]]
 
 **Category** ancestry; 
 
 
 
+**Prerequisites** Battleblooded
+* * *
+A touch of valkyrie magic in your blood lets you hold back death's grasp. You can cast [[Spells/Breath of Life|Breath of Life]] as a divine innate spell once per day.
 
-You are descended from the valkyries who protect worthy souls, and can hold back death's grasp. You can cast [[Breath of Life|Breath of Life]] as a divine innate spell once per day.
-
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder War of Immortals*
+*ORC*

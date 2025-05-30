@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scorpion Whip +10 ()\n__Damage__  2d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Scorpion Whip"
+    desc: "+10 ()\n__Damage__  2d4 + 4 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Boneshaker|Boneshaker]]_, _[[Spells/Darkvision|Darkvision]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_\n__Cantrips__  __(2nd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Haunting Hymn|Haunting Hymn]]_, _[[Spells/Shield|Shield]]_"

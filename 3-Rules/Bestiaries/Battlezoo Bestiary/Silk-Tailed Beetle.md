@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile)\n__Damage__  1d8 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile)\n__Damage__  1d8 + 3 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +11 ()\n__Damage__  1d8 + 3 piercing plus silk-tail-venom"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+11 ()\n__Damage__  1d8 + 3 piercing plus silk-tail-venom"
 
   - name: "Silk-Tail Venom"
     desc: " (poison) **Saving Throw** DC 17 Fortitude;\n* * *\n\n**Maximum Duration** 6 rounds;\n\n**Stage 1** 1d6 poison (1 round);\n\n**Stage 2** 1d6 poison and [[Conditions/Off-Guard|Off-Guard]] (1 round);\n\n**Stage 3** 1d8 poison, off-guard, and [[Conditions/Confused|Confused]] (1 round)"

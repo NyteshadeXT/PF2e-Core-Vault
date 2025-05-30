@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/pzo90186 basiri.webp| ]]
 source: "Pathfinder #186: Ghost King&#x27;s Rage"
 name: "Basiri, Wellspring Keeper"
 level: "Creature 19"
@@ -60,13 +61,19 @@ abilities_top:
   - name: "Bardic Lore"
     desc: "  Sphinxes are naturally curious, and their love of puzzles and mysteries leads them to gather information on a broad range of topics. Sphinxes have the [[Feats/Bardic Lore|Bardic Lore]] bard feat, allowing them to Recall Knowledge on any topic."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +36 (agile)\n__Damage__  4d8 + 18 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+36 (agile, unarmed)\n__Damage__  4d8 + 18 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 41, attack +33; __9th __  _[[Spells/Dispel Magic|Dispel Magic]]_; __5th __  _[[Spells/Locate|Locate]]_; __4th __  _[[Spells/Clairaudience|Clairaudience (At Will)]]_, _[[Spells/Clairvoyance|Clairvoyance (At Will)]]_, _[[Spells/Read Omens|Read Omens (At Will)]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse (At Will)]]_, _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Read Aura|Read Aura]]_\n__Constant__  __(9th)__ _[[Spells/Truespeech|Tongues]]_, _[[Spells/Truesight|True Seeing]]_"
@@ -75,7 +82,7 @@ attacks:
     desc: "DC 41, attack +33; __9th __  _[[Spells/Spirit Blast|Spirit Blast]]_, _[[Spells/Spirit Song|Spirit Song]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Commune|Commune]]_, _[[Spells/Collective Memories|Legend Lore]]_"
+    desc: "_Commune_, _Legend Lore_"
 
   - name: "Aquatic Assault"
     desc: "`pf2:1`  Basiri Swims and makes a Strike at the end of that movement. If both she and her opponent are submerged underwater, she can Strike one additional time."

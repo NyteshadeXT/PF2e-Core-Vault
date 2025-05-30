@@ -6,14 +6,14 @@ tags:
   - trait/mental
   - trait/psyche
   - trait/psychic
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.Fha8jFmfkOPxAsrZ"
 license: OGL
 ---
 # Calculate Threats `pf2:1`
 
-### [[3-Rules/Rule References/Mental]][[psyche]][[psychic]]
+### [[mental]][[psyche]][[psychic]]
 
 **Category** defensive; 
 

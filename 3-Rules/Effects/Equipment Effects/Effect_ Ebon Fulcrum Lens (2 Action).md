@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Ebon Fulcrum Lens|Ebon Fulcrum Lens]]
+Granted by [[Equipment/Ebon Fulcrum Lens|Ebon Fulcrum Lens]]
 
-You're quickened for 1 minute and gain a +1 item bonus to attack rolls, saving throws, and DCs.
+You're quickened and you gain a +1 item bonus to attack rolls, saving throws, and DCs.
 
 *Source: Pathfinder #165: Eyes of Empty Death*
 *OGL*

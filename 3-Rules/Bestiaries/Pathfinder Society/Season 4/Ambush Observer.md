@@ -64,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +14 (agile, finesse, versatile s)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+14 (agile, finesse, versatile s)\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sap +12 (agile, nonlethal)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Sap"
+    desc: "+12 (agile, nonlethal)\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +14 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+14 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Mobility"
     desc: "  When the ambush observer Strides half their Speed or less, that movement does not trigger reactions."

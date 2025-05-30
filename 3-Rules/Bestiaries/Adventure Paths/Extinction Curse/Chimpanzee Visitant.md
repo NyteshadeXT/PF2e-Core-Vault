@@ -54,10 +54,16 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense (Imprecise) 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "[[Creature Family Ability Glossary/(Visitant) Vengeful Presence|Vengeful Presence]]"
     desc: " (aura,emotion,mental) 20 feet. A creature that starts its turn within the visitant's aura must succeed at a DC 16 Will check save or be overcome with a thirst for vengeance.\n\nFor 1d4 rounds (1 minute on a critical failure), if the affected creature was attacked within the last round (whether or not the attack hit), the creature must use at least 1 action per round to Strike or use a hostile action toward its last attacker as long as the attacker is still alive. Failure to do so deals the affected creature 1d6 mental damage."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
   - name: "Whip Vulnerability"
     desc: "  A chimpanzee visitant takes 5 additional damage from whips."
@@ -65,11 +71,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 (agile)\n__Damage__  2d6 + 5 piercing plus rabies"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (agile, unarmed)\n__Damage__  2d6 + 5 piercing plus rabies"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +13 (agile, finesse)\n__Damage__  2d4 + 3 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+13 (agile, finesse, unarmed)\n__Damage__  2d4 + 3 slashing plus grab"
 
   - name: "Mauler"
     desc: "  The visitant gains a +2 circumstance bonus to damage rolls against a creature it has [[Conditions/Grabbed|Grabbed]]."
@@ -78,7 +84,7 @@ attacks:
     desc: " (disease) Visitants can be carriers of diseases, even if they are immune to their effects.\n\n**Saving Throw** DC 16 Fortitude check.\n\n**Stage 1** [[Conditions/Sickened|Sickened 1]] (1 day)\n\n**Stage 2** [[Conditions/Sickened|Sickened 2]] (1 day)\n\n**Stage 3** [[Spells/Confusion|Confusion]] (1 day)\n\n**Stage 4** dead"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

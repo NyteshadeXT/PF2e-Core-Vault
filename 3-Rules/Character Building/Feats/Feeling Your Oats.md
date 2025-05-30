@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feeling Your Oats `pf2:1`
 ## Feat 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[3-Rules/trait_reference/M/mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[mental]]
 
 **Category** class; 
 
@@ -26,5 +26,5 @@ license: OGL
 
 You are incredible, impeccable, an icon of style and grace—and everyone knows it. In this moment, you are living your fantasy, and no one can shake you out of it. Roll a Deception check. You can substitute the result of your Deception check for one Will save you would be required to attempt in the next minute.
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

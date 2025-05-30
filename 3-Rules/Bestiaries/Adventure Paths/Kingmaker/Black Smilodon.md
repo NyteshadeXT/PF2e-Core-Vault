@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +29 ()\n__Damage__  3d12 + 14 piercing plus grab"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+29 ()\n__Damage__  3d12 + 14 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +29 (agile)\n__Damage__  3d8 + 14 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+29 (agile, unarmed)\n__Damage__  3d8 + 14 slashing plus grab"
 
   - name: "Pierce Armor"
     desc: "`pf2:1`  Speartooth makes a fangs Strike against a creature it has [[Conditions/Grabbed|Grabbed]]. If the attack hits, the creature is knocked [[Conditions/Prone|Prone]]; if the creature is wearing armor with hardness 10 or lower, the armor is broken. If this Strike breaks a creature's armor or damages a creature who is unarmored or wearing broken armor, the creature also takes 3d6 bleed damage. This Strike doesn't further damage armor that's already broken."
@@ -69,7 +69,7 @@ attacks:
     desc: "  Speartooth deals 2d6 extra precision damage to creatures that are [[Conditions/Off-Guard|Off-Guard]]."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

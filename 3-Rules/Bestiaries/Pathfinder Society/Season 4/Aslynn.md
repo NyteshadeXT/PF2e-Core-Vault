@@ -57,16 +57,19 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Bring Me Near|Bring Me Near]], [[Compendium.pf2e.equipment-srd.Item.9XkETOZQWMAdfzch|Siphoning Heartstone]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 (magical, unholy)\n__Damage__  2d8 + 8 piercing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (magical, unarmed, unholy)\n__Damage__  2d8 + 8 piercing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +21 (agile, magical, unholy)\n__Damage__  2d10 + 8 slashing plus nightmarish-wounds 1d6 spirit plus nightmarish-wounds"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+21 (agile, magical, unarmed, unholy)\n__Damage__  2d10 + 8 slashing plus nightmarish-wounds 1d6 spirit plus nightmarish-wounds"
 
   - name: "Occult Innate Spells"
     desc: "DC 28, attack +20; __9th __  _[[Spells/Seize Soul|Bind Soul (At Will) (Heartstone)]]_, _[[Spells/Ethereal Jaunt|Ethereal Jaunt (At Will) (Heartstone)]]_; __8th __  _[[Spells/Dream Council|Dream Council]]_; __6th __  _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Scrying|Scrying]]_; __5th __  _[[Spells/Nightmare|Nightmare]]_; __3rd __  _[[Spells/Dream Message|Dream Message (At Will)]]_, _[[Spells/Force Barrage|Magic Missile (At Will)]]_, _[[Spells/Mind Reading|Mind Reading (At Will) (Heartstone)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_; __1st __  _[[Spells/Enfeeble|Ray of Enfeeblement (At Will)]]_, _[[Spells/Sleep|Sleep (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic (Constant 3rd)]]_"
@@ -75,7 +78,7 @@ attacks:
     desc: "`pf2:2` (curse,emotion,fear,mental,occult) Aslynn gazes upon a creature, afflicting it with intense distress and a gnawing sense of impending doom; the creature must attempt a DC 28 Will check save. Since this effect isn't visual, the creature doesn't need to be able to see Aslynn to be affected.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune to Aslynn's gaze for 1 day.\n\n**Success** The target is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The target is frightened 1 and [[Conditions/Slowed|Slowed 1]] for 1 round.\n\n**Critical Failure** The target is [[Conditions/Frightened|Frightened 2]] and slowed 1 for 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) Aslynn can takes on the specific appearance of any Medium female humanoid or any Large or smaller cat who she has seen and whose appearance she remembers. This doesn't change her Speed or her attack and damage bonuses with her Strikes but might change the damage type her Strikes deal (typically to bludgeoning).\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) Aslynn can takes on the specific appearance of any Medium female humanoid or any Large or smaller cat who she has seen and whose appearance she remembers. This doesn't change her Speed or her attack and damage bonuses with her Strikes but might change the damage type her Strikes deal (typically to bludgeoning).\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Dream Theft"
     desc: "`pf2:3` (incapacitation,mental,occult) Aslynn can trap a dreaming mind in her siphoning heartstone. She can force the dreaming creature into a lucid body and enter its dreamscape (DC 25 Will check save negates). There, if the creature's lucid body would be killed, she can trap the creature's dreaming mind within her siphoning heartstone, causing the creature's body to remain in a mindless coma indefinitely."
@@ -100,12 +103,12 @@ creatures:
 
 Variant night hag
 
-Night hags are thieves and merchants of mortal souls. These foul creatures collect souls in dark gems or crystalline jars to sell in fiendish markets, and are themselves empowered by potent magic jewels known as _[[Heartstone|Heartstones]]_. They haunt the Ethereal Plane, where they prey upon mortals in their dreams, debilitating them with horrific nightmares as they rest. A night hag may find a particular target and haunt them continuously over the course of weeks, slowly and cruelly breaking down the victim's will and ability to resist, until their soul is forfeit.
+Night hags are thieves and merchants of mortal souls. These foul creatures collect souls in dark gems or crystalline jars to sell in fiendish markets, and are themselves empowered by potent magic jewels known as _[[Equipment/Heartstone|Heartstones]]_. They haunt the Ethereal Plane, where they prey upon mortals in their dreams, debilitating them with horrific nightmares as they rest. A night hag may find a particular target and haunt them continuously over the course of weeks, slowly and cruelly breaking down the victim's will and ability to resist, until their soul is forfeit.
 
-A night hag is a canny mastermind and soul broker, willing to consider any deal as long as she is convinced she has the upper hand. Although a night hag finds it easy to travel the Ethereal Plane and prey upon helpless souls that can't fight back, these souls are also the least desirable to the evil outsiders the night hag bargains with, and so a night hag gathers allies and minions that allow her to prey on more potent souls without personally risking herself. Their favored minions are [[3-Rules/Bestiaries/Bestiary 1/N/Nightmare|Nightmares]], with whom they share a special bond.
+A night hag is a canny mastermind and soul broker, willing to consider any deal as long as she is convinced she has the upper hand. Although a night hag finds it easy to travel the Ethereal Plane and prey upon helpless souls that can't fight back, these souls are also the least desirable to the evil outsiders the night hag bargains with, and so a night hag gathers allies and minions that allow her to prey on more potent souls without personally risking herself. Their favored minions are [[Monster Core/Nightmare|Nightmares]], with whom they share a special bond.
 
 Above all, night hags avoid fighting foes that can harry them on the Ethereal Plane, picking fights only when they are certain they can escape.
 
 * * *
 
-Malevolent crones who lurk at the edges of civilization, hags use their deceptive, magical abilities to prey upon humanoids, manipulating and corrupting them. Some say hags arose from fey that became twisted by their inner selfishness. Hags gather together in covens for greater power, craft unique magical items known as _[[Hag Eye|Hag Eyes]]_, and are known to replace infant humanoids with their own offspring-these children are [[3-Rules/Bestiaries/Bestiary 1/C/Changeling Exile|Changelings]] who have the potential to become hags themselves.
+Malevolent crones who lurk at the edges of civilization, hags use their deceptive, magical abilities to prey upon humanoids, manipulating and corrupting them. Some say hags arose from fey that became twisted by their inner selfishness. Hags gather together in covens for greater power, craft unique magical items known as _[[Equipment/Hag Eye|Hag Eyes]]_, and are known to replace infant humanoids with their own offspring-these children are [[Monster Core/Changeling Exile|Changelings]] who have the potential to become hags themselves.

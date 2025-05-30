@@ -4,7 +4,7 @@ title: "(Coven) Locate Coven"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.Y7cRjlRkdo3siz5y"
 license: OGL

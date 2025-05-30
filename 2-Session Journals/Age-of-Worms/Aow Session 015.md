@@ -1,7 +1,21 @@
 ---
 tags:
   - "#SessionNote"
+aliases:
+  - Lost in the Maze
+whichparty: "[[Age of Worms Party Dashboard]]"
+sessiondate: 2025-05-29
+quicknote: The players begin their investigation of the temple of Vecna.
+locations:
+  - "[[The Three Faces of Evil]]"
+session_xp: 230
+session_coin:
+  pp: 0
+  gp: 36
+  sp: 0
+  cp: 0
 ---
+
 > [!metadata|metadata]- Metadata 
 >> [!metadata|metadataoption]- System
 >> #### System
@@ -29,15 +43,9 @@ tags:
 #  `=link(this.whichparty)` `=this.file.name` "`=this.aliases`"
 ## Prep
 ### To-Do
-
-> [!kirk|info] Prompt (Remove me)
-Create a To-Do section to list and organize the tasks you need to complete for this session. Outline the key preparations, notes, or materials you need to have ready. This may include crafting specific encounters, detailing NPC interactions, preparing maps, or any other essential elements for a smooth and engaging session. Use this section as a checklist to ensure you're well-prepared and organized for the upcoming gaming session.
+None
 
 ### Quick References
-
-> [!kirk|info] Info (Remove me)
-This is a list of links to various notes within your Vault. Use this to give yourself quick ways to find any relevant information you need on hand for your session.
-
 > [!column|3 no-title]
 >> [!metadata|characters] People
 >> `VIEW[{characters}][link]`
@@ -50,28 +58,19 @@ This is a list of links to various notes within your Vault. Use this to give you
 
 ## During
 ### Events
-
-> [!kirk|info] Prompt (Remove me)
-Use this section to record significant events occurring during the session. Note down key moments, plot twists, player decisions, or any unexpected developments that unfold. Include details about NPC interactions, major discoveries, or impactful player choices. This section serves as a timeline of noteworthy occurrences, helping you track the progression of the story and ensuring that important events are documented for future reference.
+The players have entered the Labyrinth of Vecna. After wandering much of the maze they have yet to discover the doors to the next area.  Groups 1 and 3 were discovered and eliminated.  Tengu group 2 has moved over to one of the door areas to make that a bit more obvious to the players next session.
 
 ### Travel & Rest
-
-> [!kirk|info] Prompt (Remove me)
-Use this area to track the party's travel and rest activities during the session. Note down the duration of their travels, including any notable encounters or events that occur during the journey. Additionally, record periods of rest, whether short breaks or longer rests, and indicate how time passes in-game. This section helps you maintain a coherent timeline, manage resources, and ensure a consistent flow of time within the session.
+None
 
 ### Loot, Rewards & Purchases
-
-> [!kirk|info] Prompt (Remove me)
-Use this space to record all loot, rewards, and purchases obtained by the party during the session. Document any valuable items, treasures, or magical artifacts they acquire. Note down rewards for completing quests or overcoming challenges. Additionally, keep track of any purchases the party makes, detailing items, costs, and relevant information. This section serves as a consolidated record of the party's wealth and acquisitions, aiding in resource management and future gameplay decisions.
-
-### Loot, Rewards & Purchases
-#### **Session XP:** `=this.session_coin.gp`
+#### **Session XP:** `VIEW[{session_xp}]`
 
 #### Coin
-- pp: `=this.session_coin.pp`
-- gp: `=this.session_coin.gp`
-- sp: `=this.session_coin.sp`
-- cp: `=this.session_coin.cp`
+- pp: `VIEW[{session_coin.pp}]`
+- gp: `VIEW[{session_coin.gp}]`
+- sp: `VIEW[{session_coin.sp}]`
+- cp: `VIEW[{session_coin.cp}]`
 <br>
 
 #### Permanent Items
@@ -215,16 +214,10 @@ if (items.length === 0) {
 
 ## Post
 ### New Creations
-
-> [!kirk|info] Prompt (Remove me)
-Use this section to consolidate and expand upon any spontaneous creations made during the session. After reviewing your During Session notes, use this area to flesh out and detail any new elements, characters, locations, or concepts that emerged. Provide additional information, backgrounds, and intricacies to bring these creations to life. This section serves as a post-session development space, ensuring that any improvisations made during the session can be refined and integrated seamlessly into your campaign world.
+No new creations this session.  
 
 ### Date & Time
-
-> [!kirk|info] Prompt (Remove me)
-> Note down the in-game time and date that your session ended on.
+5/29/25 from 6:30 pm CST to 9:30 pm CST
 
 ### End of Session Notes
-
-> [!kirk|info] Prompt (Remove me)
-Use this section to capture any final thoughts, reflections, or references you want to note for future sessions. Summarize the key takeaways, player actions, or unresolved plot threads. Include any insights gained during the session that could influence future storytelling or campaign development. This section serves as a concise record of noteworthy elements and considerations, providing a valuable resource for continuity and ongoing narrative planning.
+The players are not looking for anything relying on passive perception to discover all the "secret" things that may be around the dungeon.  Will have to be careful with this.

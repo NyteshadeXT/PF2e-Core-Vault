@@ -4,7 +4,7 @@ title: "Cavalry Experts"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/cavalry
-  - trait/common
+  - trait/
   - category/army-tactic
 aliases: "Compendium.pf2e.kingmaker-features.Item.3e1qshiIssEUbNw3"
 license: OGL

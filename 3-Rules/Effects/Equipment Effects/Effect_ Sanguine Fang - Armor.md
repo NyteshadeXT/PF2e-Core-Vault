@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Sanguine Fang|Sanguine Fang]]
+Granted by [[Equipment/Sanguine Fang|Sanguine Fang]], [[Equipment/Sanguine Fang (Greater)|Sanguine Fang (Greater)]], [[Equipment/Sanguine Fang (Major)|Sanguine Fang (Major)]]
 
-You gain resistance 3 to persistent bleed damage and a +2 item bonus on saving throws against effects with the void trait.
+You gain resistance to persistent bleed damage and an item bonus on saving throws against effects with the void trait.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

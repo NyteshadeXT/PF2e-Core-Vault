@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tusk +18 (deadly d10, magical)\n__Damage__  2d10 + 8 piercing"
+  - name: "**Melee** `pf2:1` Tusk"
+    desc: "+18 (deadly d10, magical, unarmed)\n__Damage__  2d10 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +18 (agile, magical)\n__Damage__  2d8 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+18 (agile, magical)\n__Damage__  2d8 + 8 bludgeoning"
 
   - name: "Independent Action"
     desc: "  Idovik is even older and more powerful than most Sarkorian gods, and he knows how to manifest in some forms without a god caller at all. Idovik does not share an initiative, actions, Hit Points, or a multiple attack penalty with Ashen Swale."

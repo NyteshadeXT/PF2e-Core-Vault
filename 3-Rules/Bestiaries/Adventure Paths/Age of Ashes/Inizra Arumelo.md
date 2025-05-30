@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Inizra can use Attack of Opportunity when a creature within her reach uses a concentrate action, in addition to its normal trigger. She can disrupt triggering concentrate actions, and she disrupts actions on any hit, not just a critical hit.\n\n* * *\n"
+    desc: "`pf2:r`  Inizra can use Attack of Opportunity when a creature within her reach uses a concentrate action, in addition to its normal trigger. She can disrupt triggering concentrate actions, and she disrupts actions on any hit, not just a critical hit.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Boundless Reprisals"
     desc: "  Inizra gains a reaction at the start of each enemy's turn that she can use only during that turn."
@@ -70,16 +70,16 @@ abilities_mid:
     desc: "  Inizra always has her shield raised as if she had used the Raise a Shield action, as long as she meets that action's requirements."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +38 ()\n__Damage__  6d6 + 20 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+38 ()\n__Damage__  6d6 + 20 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear (Thrown) +38 (thrown 20 ft.)\n__Damage__  6d6 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Spear (Thrown)"
+    desc: "+38 (thrown 20 ft.)\n__Damage__  6d6 + 8 piercing"
 
   - name: "Weapon Supremacy"
     desc: "  Inizra is permanently [[Conditions/Quickened|Quickened 1]]. She can use her extra action only to Strike."

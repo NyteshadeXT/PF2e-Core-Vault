@@ -58,7 +58,7 @@ attacks:
     desc: "`pf2:r` **Trigger** A creature steps on a floor space in this room\n* * *\n\n**Effect** Seals on the water pipes burst, issuing forth high-pressure water jets in random directions. The hazard makes a water jet Strike against the triggering creature. The hazard rolls initiative."
 
   - name: "Violent Deluge"
-    desc: "`pf2:r` **Trigger** The water tank is broken or destroyed\n* * *\n\n**Effect** A torrent of water bursts from the shattered tank, dealing 3d8 bludgeoning to each creature within 15 feet (basic DC 22 Reflex check save). The trap is then disabled."
+    desc: "`pf2:r` **Trigger** The water tank is broken or destroyed\n* * *\n\n**Effect** A torrent of water bursts from the shattered tank, dealing 3d8 bludgeoning to each creature within 15 feet (DC 22 Reflex check save). The trap is then disabled."
   - name: "Melee"
     desc: "Water Jet +11 (water) "
 

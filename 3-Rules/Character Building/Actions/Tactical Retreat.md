@@ -14,7 +14,7 @@ license: ORC
 ---
 # Tactical Retreat `pf2:r`
 
-### [[3-Rules/Rule References/Emotion]][[3-Rules/Trait Reference/F/fear]][[3-Rules/Rule References/Mental]]
+### [[emotion]][[fear]][[mental]]
 
 **Category** defensive; 
 
@@ -29,5 +29,5 @@ license: ORC
 
 **Effect** Realizing that discretion is the better part of valor, you opt to put some distance between you and a threat. You gain the [[Conditions/Fleeing|Fleeing]] condition until the beginning of your next turn, and you Stride.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

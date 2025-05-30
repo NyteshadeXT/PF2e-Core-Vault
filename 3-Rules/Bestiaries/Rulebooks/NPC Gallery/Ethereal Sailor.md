@@ -18,7 +18,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: The Grand Bazaar"
+source: "Pathfinder Lost Omens The Grand Bazaar"
 name: "Ethereal Sailor"
 level: "Creature 6"
 
@@ -35,7 +35,7 @@ skills:
     desc: "Athletics: +15, Sailing Lore: +15"
 abilityMods: [4, 4, 0, -5, 0, 0]
 speed:  fly 30 feet
-sourcebook: "_Pathfinder Lost Omens: The Grand Bazaar_"
+sourcebook: "_Pathfinder Lost Omens The Grand Bazaar_"
 ac: 25
 armorclass:
   - name: AC

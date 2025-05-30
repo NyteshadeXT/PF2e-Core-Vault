@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/magical
   - trait/thaumaturge
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.dnaPJfA0CDLNrWcW"
 license: OGL
 ---
 # Implement's Interruption `pf2:r`
 
-### [[3-Rules/Rule References/Magical]][[thaumaturge]]
+### [[magical]][[thaumaturge]]
 
 **Category** offensive; 
 

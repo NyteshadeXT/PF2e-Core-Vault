@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.g8ZMeg1YFg9WZj3I"
-license: OGL
+license: ORC
 ---
 # Second Shield `pf2:0`
 ## Feat 6
@@ -29,5 +30,5 @@ You can [[Actions/Interact|Interact]] to draw a shield on your person or an unat
 
 Your new shield isn't raised until you use the [[Actions/Raise a Shield|Raise a Shield]] action, as normal.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core 2*
+*ORC*

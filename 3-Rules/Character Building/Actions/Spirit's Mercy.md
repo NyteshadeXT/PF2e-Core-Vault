@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Spirit's Mercy"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.SPtzUNatWJvTK61y"
 license: OGL

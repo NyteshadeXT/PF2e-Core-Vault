@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Granted by [[3-Rules/Character Building/Spells/T/Tremorsense|Tremorsense]]
+Granted by [[Spells/Tremorsense|Tremorsense]]
 
 You gain tremorsense as an imprecise sense with a range of 30 feet.
 

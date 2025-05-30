@@ -54,16 +54,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +30 (forceful, magical, sweep)\n__Damage__  2d6 + 14 slashing plus subduing-strikes"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+30 (forceful, magical, sweep)\n__Damage__  2d6 + 14 slashing plus subduing-strikes"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heavy Crossbow +30 (magical, range increment 120 feet, reload 2)\n__Damage__  2d10 + 6 piercing plus subduing-strikes"
+  - name: "**Ranged** `pf2:1` Heavy Crossbow"
+    desc: "+30 (magical, range increment 120 feet, reload 2)\n__Damage__  2d10 + 6 piercing plus subduing-strikes"
 
   - name: "Adroit Disarm"
     desc: "`pf2:2`  The Zephyr Guard attempts to [[Actions/Disarm|Disarm]] a creature, with a +2 circumstance bonus to the roll. On a critical success, the guard can also deal their [[Equipment/Scimitar|Scimitar]] damage to the creature."

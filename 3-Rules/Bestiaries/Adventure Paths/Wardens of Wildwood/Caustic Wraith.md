@@ -55,16 +55,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Aggravating Aura"
     desc: " (acid,aura,mental) 10 feet. Acidic vapor surrounds the caustic wraith, making other creatures' bodies feel raw and especially sensitive to pain. A creature that begins in the area must succeed at a DC 28 Will check save or gain weakness 3 to all damage for 1 round (weakness 5 on a critical failure).\n* * *\n\n[[Bestiary Effects/Effect_ Aggravating Aura|Effect: Aggravating Aura]]"
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Caustic Touch +21 (acid, finesse, reach 10 feet, void)\n__Damage__  2d8 void plus drain-life 1d8 acid plus drain-life"
+  - name: "**Melee** `pf2:1` Caustic Touch"
+    desc: "+21 (acid, finesse, reach 10 feet, void)\n__Damage__  2d8 void plus drain-life 1d8 acid plus drain-life"
 
   - name: "Dissolve From the Inside"
     desc: "`pf2:2`  The caustic wraith reaches into the body of a creature within 10 feet, melting its organs and inflicting pain. The target takes 4d8 acid damage with a DC 28 Fortitude check save. On a critical failure, the creature is also [[Conditions/Sickened|Sickened 2]]."

@@ -68,11 +68,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) Completing the ghost mage's project allows it to move on to the afterlife.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +21 (agile, finesse, magical)\n__Damage__  2d8 + 12 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+21 (agile, finesse, magical)\n__Damage__  2d8 + 12 void"
 
   - name: "Divine Innate Spells"
     desc: "DC 29, attack +23; __5th __  _[[Spells/Heal|Heal]]_; __4th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Spiritual Weapon|Spiritual Weapon]]_; __3rd __  _[[Spells/Heal|Heal]]_, _[[Spells/Heroism|Heroism]]_; __2nd __  _[[Spells/Clear Mind|Clear Mind]]_, _[[Spells/Share Life|Share Life]]_; __1st __  _[[Spells/Bless|Bless]]_, _[[Spells/Enfeeble|Enfeeble]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Stabilize|Stabilize]]_"
@@ -81,7 +84,7 @@ attacks:
     desc: "`pf2:2` (auditory,divine,emotion,fear,mental) The ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 29 Will check save. On a failure, a creature becomes [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute."
 
   - name: "[[Creature Family Ability Glossary/(Ghost) Telekinetic Assault|Telekinetic Assault]]"
-    desc: "`pf2:2` (divine) The ghost cries out in pain and anguish as small objects and debris fly about in a @Template[emanation|distance:30]. Creatures in this area take 6d6 bludgeoning damage, subject to a DC 29 Reflex check save."
+    desc: "`pf2:2` (divine) The ghost cries out in pain and anguish as small objects and debris fly about in a 30-foot emanation. Creatures in this area take 6d6 bludgeoning damage, subject to a DC 29 Reflex check save."
  
 ```
 

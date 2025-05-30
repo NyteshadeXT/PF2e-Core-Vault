@@ -39,7 +39,7 @@ perception:
 languages: "Aklo;  telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Stealth: +16, Stealth: +16"
+    desc: "Stealth: +16"
 abilityMods: [4, 2, 6, 2, 2, 6]
 speed:  fly 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"

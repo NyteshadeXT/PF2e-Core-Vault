@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 ()\n__Damage__  2d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (unarmed)\n__Damage__  2d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +9 (agile)\n__Damage__  1d6 + 3 slashing 1d4 bleed"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+9 (agile, unarmed)\n__Damage__  1d6 + 3 slashing 1d4 bleed"
 
   - name: "Darting Strike"
     desc: "`pf2:1`  The deinonychus Strides up to 10 feet and then makes a Strike, or makes a Strike and then Strides up to 10 feet."

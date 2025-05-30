@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Nightmare's Lament|Nightmare's Lament]]
+Granted by [[Equipment/Nightmare's Lament|Nightmare's Lament]]
 
 The _nightmare's lament_ continually vents thick, black smoke that creates concealment in a 15-foot aura around the gun's wielder.
 

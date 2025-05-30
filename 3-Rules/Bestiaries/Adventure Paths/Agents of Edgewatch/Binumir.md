@@ -63,11 +63,14 @@ abilities_mid:
   - name: "Delay Condition"
     desc: "  The binumir's dual spirit takes longer to be affected by detrimental effects. When the binumir is the target of an effect that imparts the [[Conditions/Confused|Confused]], [[Conditions/Controlled|Controlled]], [[Conditions/Fascinated|Fascinated]], [[Conditions/Frightened|Frightened]], [[Conditions/Sickened|Sickened]], [[Conditions/Slowed|Slowed]], or [[Conditions/Stunned|Stunned]] condition, the condition is automatically suppressed until the end of the binumir's next turn."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +12 (agile, finesse, magical)\n__Damage__  1d8 + 4 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+12 (agile, finesse, magical)\n__Damage__  1d8 + 4 void"
 
   - name: "Agonizing Wail"
     desc: "`pf2:2` (auditory,concentrate) The binumir unleashes a distressing cry that fills others with wrenching sadness. Creatures within 30 feet must attempt a DC 17 Will check save.\n* * *\n\n**Critical Success** The target is unaffected and is temporarily immune to Agonizing Wail for 1 minute.\n\n**Success** The target can't use reactions for 1 round.\n\n**Failure** The target is [[Conditions/Slowed|Slowed 1]] and can't use reactions for 1 minute as it sobs uncontrollably. It can attempt a new Will save to end the effect at the end of each of its turns.\n\n**Critical Failure** As failure, but the target can't make saves to end the effect."

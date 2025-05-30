@@ -11,7 +11,7 @@ license: OGL
 ---
 # Master Spellcasting
 ## Feat 18
-### [rare](rare.md "Rare Rarity Trait")[[pervasive-magic]]
+### [rare](rare "Rare Rarity Trait")[[pervasive-magic]]
 
 **Category** class; 
 

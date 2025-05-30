@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +19 (finesse, unarmed)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+19 (finesse, unarmed)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +16 (magical, two-hand d8)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+16 (magical, two-hand d8)\n__Damage__  1d4 + 4 bludgeoning"
 
   - name: "Risky Treatment"
     desc: "`pf2:r` (concentrate,fortune,manipulate) **Trigger** Keznin rolls a critical failure on a check to Treat Disease, Treat Poison, or Treat Wounds\n* * *\n\n**Effect** Keznin gives an emergency application of dangerous herbs to avert further harm. The creature Keznin is treating takes 2d6 poison damage, and Keznin rerolls the check."

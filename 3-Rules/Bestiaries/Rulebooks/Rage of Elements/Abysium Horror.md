@@ -62,14 +62,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +23 (reach 15 feet)\n__Damage__  2d4 poison 2d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+23 (reach 15 feet, unarmed)\n__Damage__  2d4 poison 2d8 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Radioactive Shrapnel +23 (brutal, propulsive, range increment 60 feet)\n__Damage__  2d4 poison 2d8 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Radioactive Shrapnel"
+    desc: "+23 (brutal, propulsive, range increment 60 feet)\n__Damage__  2d4 poison 2d8 + 7 piercing"
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, claw, DC 27 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Large or smaller, claw, DC 27 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

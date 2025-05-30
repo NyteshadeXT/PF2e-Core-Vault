@@ -23,7 +23,7 @@ level: "Army 7"
 
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: infantry
 modifier: 15
 perception:
@@ -31,7 +31,7 @@ perception:
   - name: "Scouting"
     desc: "+15"
   - name: "Recruitment DC"
-    desc: "; __Consumption__ 1"
+    desc: "15; __Consumption__ 1"
   - name: "Description"
     desc: "Tatzlford's town guards have been organized into an impromptu army, armed with longswords and led by Captain Coren Lawry."
 ac: 25

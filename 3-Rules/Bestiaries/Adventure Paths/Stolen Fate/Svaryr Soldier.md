@@ -53,28 +53,31 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Dagger|+2 Greater Striking Returning Dagger]], [[Equipment/Longsword|+2 Greater Striking Longsword]], [[Equipment/Sturdy Shield (Greater)|Sturdy Shield (Greater)]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Shield Block|Shield Block]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +34 (magical, versatile p)\n__Damage__  3d8 + 16 slashing 2d6 mental"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+34 (magical, versatile p)\n__Damage__  3d8 + 16 slashing 2d6 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +32 (agile)\n__Damage__  3d6 + 16 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+32 (agile, unarmed)\n__Damage__  3d6 + 16 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +31 (agile, magical, versatile s)\n__Damage__  3d4 + 16 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+31 (agile, magical, versatile s)\n__Damage__  3d4 + 16 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +31 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  3d4 + 16 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+31 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  3d4 + 16 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 34, attack +26\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"

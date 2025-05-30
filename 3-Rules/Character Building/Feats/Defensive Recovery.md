@@ -22,7 +22,7 @@ license: ORC
 
 **Prerequisites** harmful font or healing font
 * * *
-Your faith provides temporary protection in addition to healing. If the next action you use is to cast [[Harm|Harm]] or [[Heal|Heal]] on a single target and the target regains Hit Points from the spell, it also gains a +2 status bonus to AC and saving throws for 1 round.
+Your faith provides temporary protection in addition to healing. If the next action you use is to cast [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]] on a single target and the target regains Hit Points from the spell, it also gains a +2 status bonus to AC and saving throws for 1 round.
 
 [[Feat_Feature Effects/Effect_ Defensive Recovery|Effect: Defensive Recovery]]
 

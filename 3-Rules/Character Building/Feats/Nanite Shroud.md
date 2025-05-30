@@ -29,5 +29,5 @@ You become [[Conditions/Concealed|Concealed]] for a number of rounds equal to ha
 
 While Nanite Shroud is active, you can't use other abilities that require the use of your nanites.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

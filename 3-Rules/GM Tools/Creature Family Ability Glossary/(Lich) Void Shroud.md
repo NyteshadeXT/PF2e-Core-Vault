@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/aura
   - trait/death
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.yWNcEsEJIoeXKBnk"
@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Lich) Void Shroud
 
-### [[3-Rules/trait_reference/A/aura]][[death]]
+### [[aura]][[death]]
 
 **Category** defensive; 
 

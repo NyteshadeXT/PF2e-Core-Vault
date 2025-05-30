@@ -16,7 +16,9 @@ license: OGL
 
 
 
-When you drink a spiderfoot brew, tiny clinging hairs grow on your hands and feet, granting you a climb Speed of 25 feet and a +3 item bonus to athletics checks made to climb for 1 hour.
+Granted by [[Equipment/Spiderfoot Brew (Greater)|Spiderfoot Brew (Greater)]]
+
+You gain a climb Speed of 25 feet and a +3 item bonus to athletics checks made to Climb.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

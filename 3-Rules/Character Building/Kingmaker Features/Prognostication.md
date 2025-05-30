@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Prognostication"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/leadership
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.u8LpoCGIo22kw00n"
 license: OGL
 ---
 # Prognostication
-
+## 
 ### [[downtime]][[leadership]]
 
 **Category** kingdom-activity; 

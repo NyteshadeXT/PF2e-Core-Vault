@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +15 (unarmed)\n__Damage__  1d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+15 (unarmed)\n__Damage__  1d8 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Laser Beam +15 (range increment 60 feet)\n__Damage__  1d8 + 2 fire"
+  - name: "**Ranged** `pf2:1` Laser Beam"
+    desc: "+15 (range increment 60 feet)\n__Damage__  1d8 + 2 fire"
 
   - name: "Divert Power"
     desc: "`pf2:1`  The robot diverts additional power from one of its weapon arrays to another. Choose one of the following effects, which lasts until the end of the robot's turn.\n\n*   The robot's fist Strike deals an additional 1d8 electricity damage. The damage of its laser beam Strike decreases to 1d8+2 fire.\n*   The robot's laser beam Strike deals an additional 1d8 fire damage. The damage of its fist Strike decreases to 1d8+6 bludgeoning damage."

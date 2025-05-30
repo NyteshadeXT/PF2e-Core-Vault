@@ -58,17 +58,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +9 (agile, sweep)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+9 (agile, sweep)\n__Damage__  1d6 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +9 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+9 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +9 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+9 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Aspis Ambush"
-    desc: "  When an Aspis Guard rolls initiative using Deception or Stealth, they can attempt to Demoralize one creature as a free action."
+    desc: "  When an Aspis Guard rolls initiative using Deception or Stealth, they can attempt to [[Actions/demoralize|demoralize]] one creature as a free action."
 
   - name: "Bully"
     desc: "  [[Conditions/Frightened|Frightened]] creatures are [[Conditions/Off-Guard|Off-Guard]] to the Aspis Guard."

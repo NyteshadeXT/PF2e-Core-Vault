@@ -60,7 +60,7 @@ attacks:
     desc: "passive "
 
   - name: "Routine"
-    desc: "(3 actions) The trap loses 1 action per turn per successful check to disable. The floating flamethrower uses its first action to release a gout of flame in a @Template[cone|distance:15] that deals 4d6+4 fire damage (DC 40 Reflex check save), its second action to fly in a U-shape in a random direction, and its third action to release another gout of flame."
+    desc: "(3 actions) The trap loses 1 action per turn per successful check to disable. The floating flamethrower uses its first action to release a gout of flame in a 15-foot cone that deals 4d6+4 fire damage (DC 40 Reflex check save), its second action to fly in a U-shape in a random direction, and its third action to release another gout of flame."
 
 ```
 

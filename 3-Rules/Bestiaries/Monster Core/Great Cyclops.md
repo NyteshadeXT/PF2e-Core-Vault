@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
   - name: "Flash of Brutality"
     desc: "`pf2:0` (fortune,occult) **Frequency** once per day, and recharges when the great cyclops uses Ferocity.\n\n**Trigger** The great cyclops succeeds at an attack roll.\n* * *\n\n**Effect** The attack becomes a critical success."
@@ -66,23 +66,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatclub +25 (backswing, reach 15 feet, shove)\n__Damage__  3d10 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Greatclub"
+    desc: "+25 (backswing, reach 15 feet, shove)\n__Damage__  3d10 + 13 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +25 (reach 15 feet)\n__Damage__  2d10 + 13 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+25 (reach 15 feet, unarmed)\n__Damage__  2d10 + 13 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +25 (agile, reach 15 feet)\n__Damage__  3d4 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+25 (agile, reach 15 feet, unarmed)\n__Damage__  3d4 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +23 (brutal, range increment 120 feet)\n__Damage__  4d6 + 7 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+23 (brutal, range increment 120 feet)\n__Damage__  4d6 + 7 bludgeoning"
 
   - name: "Powerful Charge"
     desc: "`pf2:2`  The great cyclops Strides twice and makes a horn Strike. If it moved at least 20 feet away from its starting position, the Strike's damage is increased to 3d10+20."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
  
 ```
 

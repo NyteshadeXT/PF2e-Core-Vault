@@ -4,13 +4,13 @@ title: "(Vampire, Vrykolakas Master) Bubonic Plague"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/disease
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.haMVGGDY3mLuKy9s"
 license: OGL
 ---
 # (Vampire, Vrykolakas Master) Bubonic Plague
 
-### [[3-Rules/trait_reference/D/disease]]
+### [[disease]]
 
 
 

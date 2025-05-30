@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by Whispers of Weakness
+Granted by [[Feats/Whispers of Weakness|Whispers of Weakness]]
 
 You target one creature. You gain a +2 status bonus to your next attack roll (or skill check made as part of an attack action) against that foe.
 

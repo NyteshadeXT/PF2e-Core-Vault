@@ -6,13 +6,13 @@ tags:
   - trait/divine
   - trait/eidolon
   - trait/void
-  - trait/common
+  - trait/
 aliases: "Compendium.pf2e.actionspf2e.Item.JPHWzD2soqjffeSU"
 license: OGL
 ---
 # Drain Life `pf2:2`
 
-### [[3-Rules/Rule References/Divine]][[eidolon]][[void]]
+### [[divine]][[eidolon]][[void]]
 
 
 

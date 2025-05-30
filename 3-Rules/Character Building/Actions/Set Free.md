@@ -4,7 +4,7 @@ title: "Set Free"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/fortune
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.vFaNE7s7vFs9BxJW"
 license: OGL

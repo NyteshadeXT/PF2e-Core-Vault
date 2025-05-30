@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Soothe|Soothe]]
+Granted by [[Spells/Soothe|Soothe]]
 
-Your mind is bolstered against hostile effects, granting a +2 status bonus to saves against mental effects for the duration.
+You gain a +2 status bonus to saves against mental effects.
 
 *Source: Pathfinder Player Core*
 *ORC*

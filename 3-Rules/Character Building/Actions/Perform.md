@@ -4,8 +4,7 @@ title: "Perform"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.EEDElIyin4z60PXx"
@@ -13,7 +12,7 @@ license: ORC
 ---
 # Perform `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]][[skill]]
+### [[concentrate]]
 
 **Category** interaction; 
 
@@ -26,15 +25,15 @@ When making a brief performance-one song, a quick dance, or a few jokes-you use 
 
 | Performance | Additional Traits | Examples |
 | --- | --- | --- |
-| Acting | Auditory, linguistic, and visual | Drama, pantomime, puppetry |
-| Comedy | Auditory, linguistic, and visual | Buffoonery, joke telling, limericks |
-| Dance | Move and visual | Ballet, huara, jig, macru |
-| Play Keyboard | Auditory and manipulate | Harpsichord, organ, piano |
-| Oratory | Auditory and linguistic | Epic, ode, poetry, storytelling |
-| Play Percussion | Auditory and manipulate | Chimes, drum, gong, xylophone |
-| Singing | Auditory and linguistic | Ballad, chant, melody, rhyming |
-| Play Strings | Auditory and manipulate | Fiddle, harp, lute, viol |
-| Play Winds | Auditory and manipulate | Bagpipe, flute, recorder, trumpet |
+| [[Actions/perform variant=acting\|perform variant=acting]]{Acting} | Auditory, linguistic, and visual | Drama, pantomime, puppetry |
+| [[Actions/perform variant=comedy\|perform variant=comedy]]{Comedy} | Auditory, linguistic, and visual | Buffoonery, joke telling, limericks |
+| [[Actions/perform variant=dance\|perform variant=dance]]{Dance} | Move and visual | Ballet, huara, jig, macru |
+| [[Actions/perform variant=keyboards\|perform variant=keyboards]]{Play Keyboard} | Auditory and manipulate | Harpsichord, organ, piano |
+| [[Actions/perform variant=oratory\|perform variant=oratory]]{Oratory} | Auditory and linguistic | Epic, ode, poetry, storytelling |
+| [[Actions/perform variant=percussion\|perform variant=percussion]]{Play Percussion} | Auditory and manipulate | Chimes, drum, gong, xylophone |
+| [[Actions/perform variant=singing\|perform variant=singing]]{Singing} | Auditory and linguistic | Ballad, chant, melody, rhyming |
+| [[Actions/perform variant=strings\|perform variant=strings]]{Play Strings} | Auditory and manipulate | Fiddle, harp, lute, viol |
+| [[Actions/perform variant=winds\|perform variant=winds]]{Play Winds} | Auditory and manipulate | Bagpipe, flute, recorder, trumpet |
 
 * * *
 

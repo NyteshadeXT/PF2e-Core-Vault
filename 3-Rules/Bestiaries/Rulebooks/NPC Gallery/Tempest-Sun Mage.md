@@ -20,7 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Character Guide"
+source: "Pathfinder Lost Omens Character Guide"
 name: "Tempest-Sun Mage"
 level: "Creature 11"
 
@@ -39,7 +39,7 @@ skills:
     desc: "Acrobatics: +18, Arcana: +23, Diplomacy: +16, Intimidation: +16, Medicine: +19, Nature: +21, Survival: +21, Magaambya Lore: +23"
 abilityMods: [0, 4, 3, 5, 3, 1]
 speed: 30 feet
-sourcebook: "_Pathfinder Lost Omens: Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Character Guide_"
 ac: 28
 armorclass:
   - name: AC
@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff Of Abjuration +16 (two-hand d8)\n__Damage__  1d4 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff Of Abjuration"
+    desc: "+16 (two-hand d8)\n__Damage__  1d4 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +20 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+20 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 2 piercing"
 
   - name: "Arcane Prepared Spells"
-    desc: "DC 30, attack +20; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Tangling Creepers|Tangling Creepers]]_; __5th __  _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Elemental Form|Elemental Form]]_, _[[Spells/Sending|Sending]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Environmental Endurance|Endure Elements]]_, _[[Spells/False Vitality|False Life]]_, _[[Spells/Mist|Obscuring Mist]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Create Water|Create Water]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 30, attack +20; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Tangling Creepers|Tangling Creepers]]_; __5th __  _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Elemental Form|Elemental Form]]_, _[[Spells/Sending|Sending]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Wall of Fire|Wall of Fire]]_; __3rd __  _[[Spells/Fireball|Fireball]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Mind Reading|Mind Reading]]_, _[[Spells/Slow|Slow]]_, _[[Spells/Stinking Cloud|Stinking Cloud]]_; __2nd __  _[[Spells/Environmental Endurance|Endure Elements]]_, _[[Spells/False Vitality|False Life]]_, _[[Spells/Mist|Obscuring Mist]]_, _[[Spells/See the Unseen|See Invisibility]]_; __1st __  _[[Spells/Create Water|Create Water]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Arcane Focus Spells"
     desc: "2 Focus Points, DC 30, attack +20; __6th __  _[[Spells/Elemental Tempest|Elemental Tempest]]_, _[[Spells/Force Bolt|Force Bolt]]_"

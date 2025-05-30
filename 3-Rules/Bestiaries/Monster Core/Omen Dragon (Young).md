@@ -55,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Challenge Fate"
-    desc: "`pf2:r`  **Trigger** The dragon is targeted by an attack;\n* * *\n\n**Effect** This fate is not set in stone. The attacker rolls the triggering attack twice and uses the worse result."
+    desc: "`pf2:r` (misfortune,occult) **Trigger** The dragon is targeted by an attack;\n* * *\n\n**Effect** This fate is not set in stone. The attacker rolls the triggering attack twice and uses the worse result."
 
   - name: "Untethered to Fate"
     desc: "  The dragon can choose to negate any fortune or misfortune effects that would affect them; other creatures remain affected normally."
@@ -63,23 +63,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 (magical, reach 10 feet)\n__Damage__  1d8 mental 2d8 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (magical, reach 10 feet, unarmed)\n__Damage__  1d8 mental 2d8 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +16 (agile, magical)\n__Damage__  2d6 + 5 slashing 1d8 mental"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+16 (agile, magical, unarmed)\n__Damage__  2d6 + 5 slashing 1d8 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +14 (magical, reach 15 feet)\n__Damage__  2d8 + 5 bludgeoning 1d8 mental"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+14 (magical, reach 15 feet)\n__Damage__  2d8 + 5 bludgeoning 1d8 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +14 (agile, magical, reach 10 feet)\n__Damage__  1d8 mental 1d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+14 (agile, magical, reach 10 feet)\n__Damage__  1d8 mental 1d8 + 5 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 25, attack +17; __3rd __  _[[Spells/Ill Omen|Ill Omen]]_, _[[Spells/Mindlink|Mindlink]]_, _[[Spells/Sure Strike|Sure Strike (x2)]]_\n__Cantrips__  __(4th)__ _[[Spells/Guidance|Guidance]]_"
 
   - name: "Destiny Breath"
-    desc: "`pf2:2` (mental,occult) The dragon breathes a translucent mist of potentialities that overwhelms creatures with visions of possible features, dealing 6d6 mental damage in a @Template[cone|distance:20] (DC 25 Will check save). A creature that fails its save is [[Conditions/Slowed|Slowed 1]] for 1 round (or [[Conditions/Slowed|Slowed 2]] on a critical failure) as it struggles with the visions.\n\nThe dragon can't use Destiny Breath again for 1d4 rounds."
+    desc: "`pf2:2` (mental,occult) The dragon breathes a translucent mist of potentialities that overwhelms creatures with visions of possible features, dealing 6d6 mental damage in a 20-foot cone (DC 25 Will check save). A creature that fails its save is [[Conditions/Slowed|Slowed 1]] for 1 round (or [[Conditions/Slowed|Slowed 2]] on a critical failure) as it struggles with the visions.\n\nThe dragon can't use Destiny Breath again for 1d4 rounds."
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The dragon makes two claw Strikes and one wing Strike in any order."

@@ -71,11 +71,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +20 (agile, unholy)\n__Damage__  2d6 + 8 bludgeoning 1d6 spirit"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+20 (agile, unholy)\n__Damage__  2d6 + 8 bludgeoning 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +20 (unholy)\n__Damage__  2d8 + 8 piercing plus grab 1d6 spirit plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+20 (unholy)\n__Damage__  2d8 + 8 piercing plus grab 1d6 spirit plus grab"
 
   - name: "Divine Innate Spells"
     desc: "DC 23, attack +15; __5th __  _[[Spells/Translocate|Dimension Door]]_; __4th __  _[[Spells/Translocate|Dimension Door (At Will)]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Peaceful Bubble|Private Sanctum]]_\n__Constant__  __(4th)__ _[[Spells/Share Life|Shield Other (On Prinicpal Only)]]_"

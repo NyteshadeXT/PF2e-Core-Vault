@@ -27,7 +27,7 @@ You either performed in or stood witness to the dance used to invoke the Celesti
 
 * * *
 
-**Critical Success** You perform the movements of the Dance of Intercession so gracefully that you evoke a glimmer of the memory of the Celestial Dragon's awesome power. You cast the 3-action version of either 9th-rank [[Harm|Harm]] or [[Heal|Heal]] at any point during your Stride. This does not use any spell slots.
+**Critical Success** You perform the movements of the Dance of Intercession so gracefully that you evoke a glimmer of the memory of the Celestial Dragon's awesome power. You cast the 3-action version of either 9th-rank [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]] at any point during your Stride. This does not use any spell slots.
 
 **Success** As critical success, but the spell is 7th rank instead of 9th as you stumble through the movements.
 

@@ -63,17 +63,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +17 ()\n__Damage__  2d12 + 8 piercing 1d6 cold"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+17 ()\n__Damage__  2d12 + 8 piercing 1d6 cold"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +17 (reach 10 feet)\n__Damage__  2d10 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+17 (reach 10 feet)\n__Damage__  2d10 + 8 bludgeoning"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The frost drake makes two Fangs Strikes and one Tail Strike in any order."
 
   - name: "Freezing Mist Breath"
-    desc: "`pf2:2` (cold,primal) The frost drake spits a ball of liquid up to 60 feet that explodes into a @Template[burst|distance:20] cloud of freezing mist. Those in the burst take 8d6 cold damage (DC 25 Reflex check save).\n\nThe frost drake can't use Freezing Mist Breath again for 1d6 rounds, during which the mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain."
+    desc: "`pf2:2` (cold,primal) The frost drake spits a ball of liquid up to 60 feet that explodes into a 20-foot burst cloud of freezing mist. Those in the burst take 8d6 cold damage (DC 25 Reflex check save).\n\nThe frost drake can't use Freezing Mist Breath again for 1d6 rounds, during which the mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain."
 
   - name: "Ice Climb"
     desc: "  A frost drake isn't impeded by difficult terrain caused by snow or ice, nor do they need to attempt Acrobatics checks to keep from falling on slippery ice."

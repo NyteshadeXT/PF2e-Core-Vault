@@ -55,6 +55,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Repeating Hand Crossbow|+1 Repeating Hand Crossbow]], [[Equipment/Rapier|Rapier]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], [[Equipment/Shootist Bandolier|Shootist Bandolier]], 4x [[Equipment/Stupor Poison|Stupor Poison]], 4x [[Equipment/Repeating Hand Crossbow Magazine|Repeating Hand Crossbow Magazine]]"
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 abilities_mid:
   - name: ""
   - name: "Shootist's Luck"
@@ -63,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +18 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 9 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+18 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Repeating Hand Crossbow +20 (range increment 60 feet, reload 0, repeating)\n__Damage__  1d6 + 9 piercing plus stupor-poison"
+  - name: "**Ranged** `pf2:1` Repeating Hand Crossbow"
+    desc: "+20 (range increment 60 feet, reload 0, repeating)\n__Damage__  1d6 + 9 piercing plus stupor-poison"
 
   - name: "Divine Innate Spells"
     desc: "DC 24, attack +16; __2nd __  _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Faerie Fire|Faerie Fire (At Will)]]_\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_"

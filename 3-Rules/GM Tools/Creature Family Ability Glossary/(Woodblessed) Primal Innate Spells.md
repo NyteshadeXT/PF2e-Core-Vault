@@ -18,7 +18,7 @@ license: ORC
 
 
 
-A woodblessed can cast [[Timber|Timber]] as an innate primal cantrip.
+A woodblessed can cast [[Spells/Timber|Timber]] as an innate primal cantrip.
 
 *Source: Pathfinder #202: Severed at the Root*
 *ORC*

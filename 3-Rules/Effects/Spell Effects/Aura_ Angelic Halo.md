@@ -17,9 +17,9 @@ license: ORC
 
 
 
-Granted by [[Angelic Halo|Angelic Halo]].
+Granted by [[Spells/Angelic Halo|Angelic Halo]]
 
-You gain an angelic halo with an aura that increases allies' healing from the [[Heal|Heal]] spell. Allies in your halo's emanation who are healed by a heal spell gain a status bonus to Hit Points regained equal to double the heal spell's rank.
+Allies in your halo's emanation who are healed by a _heal_ spell gain a status bonus to Hit Points regained equal to double the _heal_ spell's rank.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -58,17 +58,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +12 ()\n__Damage__  1d6 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+12 ()\n__Damage__  1d6 + 3 bludgeoning"
 
   - name: "Primal Prepared Spells"
     desc: "DC 23, attack +21; __3rd __  _[[Spells/One with Stone|Meld into Stone]]_; __2nd __  _[[Spells/Oaken Resilience|Barkskin]]_, _[[Spells/Gecko Grip|Spider Climb]]_; __1st __  _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Tailwind|Longstrider]]_, _[[Spells/Shillelagh|Shillelagh]]_, _[[Spells/Summon Animal|Summon Animal]]_\n__Cantrips__  __(3rd)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Light|Light]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Ray of Frost|Ray of Frost]]_"
 
   - name: "Survival of the Fittest"
-    desc: "`pf2:r`  **Trigger** A 1st- or higher-level animal summoned by Nugrah is killed within 30 feet of him\n* * *\n\n**Effect** Blood- red energy flows from the slain creature into Nugrah's mouth. He immediately heals 1d6 Hit Points per level of the slain animal, gaining any excess healing as temporary Hit Points that last for 10 minutes. As long as he possesses these temporary Hit Points, blood-red energy ripples across his flesh and his AC increases to 22."
+    desc: "`pf2:r`  **Trigger** A 1st- or higher-level animal summoned by Nugrah is killed within 30 feet of him\n* * *\n\n**Effect** Blood- red energy flows from the slain creature into Nugrah's mouth. He immediately heals 1d6 healing Hit Points per level of the slain animal, gaining any excess healing as temporary Hit Points that last for 10 minutes. As long as he possesses these temporary Hit Points, blood-red energy ripples across his flesh and his AC increases to 22."
 
   - name: "Swift Summon"
-    desc: "`pf2:2`  Prerequisite Nugrah has a summon animal spell prepared and available.\n* * *\n\n**Effect** Nugrah casts summon animal but does not need to use a material component."
+    desc: "`pf2:2`  **Requirements** Nugrah has a [[Spells/Summon Animal|Summon Animal]] spell prepared and available.\n* * *\n\n**Effect** Nugrah casts _summon animal_ but does not need to use a material component."
  
 ```
 

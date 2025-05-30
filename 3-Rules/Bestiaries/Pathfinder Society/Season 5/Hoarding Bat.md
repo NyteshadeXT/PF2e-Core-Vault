@@ -53,11 +53,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +8 ()\n__Damage__  1d4 + 3 slashing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+8 ()\n__Damage__  1d4 + 3 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wings +8 (agile)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Wings"
+    desc: "+8 (agile)\n__Damage__  1d6 + 3 piercing"
 
   - name: "Echolocation"
     desc: "  A bat can use its hearing as a precise sense at the listed range."

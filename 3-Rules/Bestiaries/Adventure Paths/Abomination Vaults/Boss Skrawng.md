@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Trident +6 ()\n__Damage__  1d8 + 1 piercing"
+  - name: "**Melee** `pf2:1` Trident"
+    desc: "+6 ()\n__Damage__  1d8 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +9 (thrown 20 ft.)\n__Damage__  1d8 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+9 (thrown 20 ft.)\n__Damage__  1d8 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blowgun +9 (agile, nonlethal, range increment 20 feet)\n__Damage__  1 piercing plus spear-frog-poison"
+  - name: "**Ranged** `pf2:1` Blowgun"
+    desc: "+9 (agile, nonlethal, range increment 20 feet)\n__Damage__  1 piercing plus spear-frog-poison"
 
   - name: "Primal Innate Spells"
     desc: "DC 17, attack +9; __2nd __ (1 slots) _[[Spells/Speak with Animals|Speak with Animals (At Will) (Arthropods Only)]]_; __1st __ (1 slots) _[[Spells/Bane|Bane]]_\n__Cantrips__  __(1st)__ _[[Spells/Prestidigitation|Prestidigitation]]_"

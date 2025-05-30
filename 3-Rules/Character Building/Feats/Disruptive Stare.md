@@ -13,7 +13,7 @@ license: OGL
 ---
 # Disruptive Stare `pf2:r`
 ## Feat 13
-### [[3-Rules/trait_reference/M/mental]][[nagaji]][[visual]]
+### [[mental]][[nagaji]][[visual]]
 
 **Category** ancestry; 
 
@@ -34,5 +34,5 @@ Your frigid gaze can turn a foe's blood to ice. The triggering creature must att
 
 [[Feat_Feature Effects/Effect_ Disruptive Stare|Effect: Disruptive Stare]]
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

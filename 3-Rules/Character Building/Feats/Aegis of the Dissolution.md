@@ -21,5 +21,5 @@ license: ORC
 
 You are a friend of shadows and know how to avoid the troubles they bring. You gain a +1 circumstance bonus to saving throws against effects with the darkness or shadow traits.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

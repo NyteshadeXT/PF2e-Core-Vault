@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Shed Time"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.LRuwz61jNmIfQYby"
 license: OGL

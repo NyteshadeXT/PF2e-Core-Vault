@@ -27,7 +27,7 @@ name: "Brimorak"
 level: "Creature 5"
 
 alignment: ""
-size: "Small"
+size: "Medium"
 trait_01: [[demon]]
 trait_02: [[fiend]]
 trait_03: [[unholy]]
@@ -54,6 +54,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 60 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Extinguishing Aversion"
     desc: "  Dousing a brimorak with water, either ordinary water or from a water effect, causes no physical harm to the fiend but deals 3d6 mental damage. Fully immersing the brimorak in water deals 5d6 mental damage per round."
 
@@ -68,26 +71,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flaming Sword +15 (magical, unholy)\n__Damage__  2d8 + 4 slashing 1d6 fire"
+  - name: "**Melee** `pf2:1` Flaming Sword"
+    desc: "+15 (magical, unholy)\n__Damage__  2d8 + 4 slashing 1d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +15 (agile, unholy)\n__Damage__  2d4 + 4 bludgeoning 1d6 fire"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+15 (agile, unholy)\n__Damage__  2d4 + 4 bludgeoning 1d6 fire"
 
   - name: "Divine Innate Spells"
     desc: "DC 21, attack +13; __4th __  _[[Spells/Translocate|Translocate]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Fireball|Fireball]]_\n__Cantrips__  __(3rd)__ _[[Spells/Ignition|Ignition]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Demonic Pact]]_"
+    desc: "_Demonic Pact_"
 
   - name: "Flaming Weapon"
     desc: " (divine,fire) A brimorak's hooves and any weapon they wield burst into flame. They can also Interact to create a sword of fire and steel, which dissolves if it leaves their grip."
 
   - name: "Frothing Spew"
-    desc: "`pf2:2` (divine,fire,unholy) The brimorak spits their boiling blood in a @Template[line|distance:20] that deals 6d6 fire damage (DC 21 basic Reflex save). Creatures that fail the save also fall [[Conditions/Prone|Prone]] as they slip in the greasy blood.\n\nThe brimorak can't use Frothing Spew again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire,unholy) The brimorak spits their boiling blood in a 20-foot line that deals 6d6 fire damage (DC 21 Reflex check). Creatures that fail the save also fall [[Conditions/Prone|Prone]] as they slip in the greasy blood.\n\nThe brimorak can't use Frothing Spew again for 1d4 rounds."
 
   - name: "Fume"
-    desc: "`pf2:2` (divine,fire) **Frequency** once per minute\n* * *\n\n**Effect** The brimorak emits a cloud of thick black smoke in a @Template[burst|distance:10] adjacent to them. The cloud remains for 1 minute. All creatures within the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within it.\n\nA creature that enters or begins its turn within the smoke it must succeed at a DC 21 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
+    desc: "`pf2:2` (divine,fire) **Frequency** once per minute\n* * *\n\n**Effect** The brimorak emits a cloud of thick black smoke in a 10-foot burst adjacent to them. The cloud remains for 1 minute. All creatures within the smoke become [[Conditions/Concealed|Concealed]], and all creatures outside the smoke become concealed to creatures within it.\n\nA creature that enters or begins its turn within the smoke it must succeed at a DC 21 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure)."
  
 ```
 
@@ -99,7 +102,7 @@ creatures:
 
 
 
-These goat-headed demons have glowing red eyes and flaming hooves but measure only about 4 feet in height. Born from the souls of arsonists, the fiery brimoraks continue the work they pursued in life, as everything they touch quickly burns.
+These goat-headed demons have glowing red eyes and flaming hooves. Born from the souls of arsonists, the fiery brimoraks continue the work they pursued in life, as everything they touch quickly burns.
 
 Brimoraks are ill-tempered even for demons, although their spite turns to glee in the face of a growing fire. Those who have survived encounters with these fiends report that they remember the braying sound of the brimoraks' laughter as clearly as the heat of the flames or the choking scent of smoke.
 

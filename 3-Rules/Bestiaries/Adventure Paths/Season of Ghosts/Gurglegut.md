@@ -56,17 +56,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +26 (agile, finesse, magical, reach 10 feet, trip)\n__Damage__  2d6 + 13 slashing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+26 (agile, finesse, magical, reach 10 feet, trip)\n__Damage__  2d6 + 13 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +23 (magical, range increment 120 feet, reload 1)\n__Damage__  2d8 + 6 piercing 1d6 fire"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+23 (magical, range increment 120 feet, reload 1)\n__Damage__  2d8 + 6 piercing 1d6 fire"
 
   - name: "Command Onidoshi"
     desc: "`pf2:1` (auditory,linguistic) **Frequency** once per round\n* * *\n\n**Effect** Gurglegut barks out a command to a single onidoshi in area **D1**. That onidoshi can use a reaction to attempt a melee Strike against an adjacent foe."
 
   - name: "Spit Fire"
-    desc: "`pf2:2` (fire,manipulate) **Frequency** once per day\n* * *\n\n**Effect** Gurglegut drinks the contents of his jug of rice wine (consuming one of the gulps contained in his jug), then spews it out across the flaming tip of a bolt in his crossbow, filling a @Template[cone|distance:20] with a blast of fire that inflicts 10d8 fire damage (DC 32 Reflex check save) to all creatures in the area."
+    desc: "`pf2:2` (fire,manipulate) **Frequency** once per day\n* * *\n\n**Effect** Gurglegut drinks the contents of his jug of rice wine (consuming one of the gulps contained in his jug), then spews it out across the flaming tip of a bolt in his crossbow, filling a 20-foot cone with a blast of fire that inflicts 10d8 fire damage (DC 32 Reflex check save) to all creatures in the area."
  
 ```
 

@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Warding Statuette|Warding Statuette]]
+Granted by [[Equipment/Warding Statuette|Warding Statuette]], [[Equipment/Warding Statuette (Greater)|Warding Statuette (Greater)]]
 
-You gain resistance 1 against ranged weapon attacks.
+You gain resistance against ranged weapon attacks.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

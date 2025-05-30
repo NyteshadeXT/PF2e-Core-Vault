@@ -20,23 +20,23 @@ Magical
 
 Suggested spells for each skill are as follows:
 
-*   **Acrobatics** _Feather Fall_
-*   **Arcana** _Magic Missile_
-*   **Athletics** _Jump_
-*   **Crafting** _Mending_
-*   **Deception** _Illusory Disguise_
-*   **Diplomacy** _Charm_
-*   **Intimidation** _Fear_
-*   **Lore** _Share Lore_ (Lore associated with the item only)
-*   **Medicine** _Heal_
-*   **Nature** _Summon Plant or Fungus_
-*   **Occultism** _Object Reading_
-*   **Performance** _Enthrall_
-*   **Religion** _Bless_
-*   **Society** Mindlink
-*   **Stealth** _Invisibility_
-*   **Survival** _Endure Elements_
-*   **Thievery** _Knock_
+*   **Acrobatics** _[[undefined]]_
+*   **Arcana** _[[undefined]]_
+*   **Athletics** _[[undefined]]_
+*   **Crafting** _[[undefined]]_
+*   **Deception** _[[undefined]]_
+*   **Diplomacy** _[[undefined]]_
+*   **Intimidation** _[[undefined]]_
+*   **Lore** _[[undefined]]_ (Lore associated with the item only)
+*   **Medicine** _[[undefined]]_
+*   **Nature** _[[undefined]]_
+*   **Occultism** _[[undefined]]_
+*   **Performance** _[[undefined]]_
+*   **Religion** _[[undefined]]_
+*   **Society** [[undefined]]
+*   **Stealth** _[[undefined]]_
+*   **Survival** _[[undefined]]_
+*   **Thievery** _[[undefined]]_
 
 * * *
 

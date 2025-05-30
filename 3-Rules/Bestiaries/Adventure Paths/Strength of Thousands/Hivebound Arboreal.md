@@ -50,6 +50,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense 120 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Axe Vulnerability"
@@ -61,26 +67,29 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +36 (reach 15 feet)\n__Damage__  4d12 + 16 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+36 (reach 15 feet)\n__Damage__  4d12 + 16 bludgeoning plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Root +36 (reach 20 feet, trip)\n__Damage__  4d8 + 16 bludgeoning"
+  - name: "**Melee** `pf2:1` Root"
+    desc: "+36 (reach 20 feet, trip)\n__Damage__  4d8 + 16 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +36 (brutal, range increment 120 feet)\n__Damage__  4d10 + 16 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+36 (brutal, range increment 120 feet)\n__Damage__  4d10 + 16 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 41, attack +33; __9th __ (2 slots) _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Nature's Enmity|Nature's Enmity]]_; __6th __ (1 slots) _[[Spells/Tangling Creepers|Tangling Creepers]]_; __3rd __ (1 slots) _[[Spells/Earthbind|Earthbind (At Will)]]_; __2nd __ (1 slots) _[[Spells/Entangling Flora|Entangle]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_, _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  4d6+16 bludgeoning damage, DC 41 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  4d6+16 bludgeoning damage, DC 41 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Offered to the Swarm"
     desc: "  **Trigger** The arboreal Grabs or Constricts a foe\n\n**Requirements** The hivebound arboreal's swarm host is active\n* * *\n\n**Effect** The arboreal offers up the triggering creature to its ants to feed. The triggering creature takes damage as from the swarm host aura, but thereafter gains a +4 circumstance bonus to Escape the Grab until it Escapes."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

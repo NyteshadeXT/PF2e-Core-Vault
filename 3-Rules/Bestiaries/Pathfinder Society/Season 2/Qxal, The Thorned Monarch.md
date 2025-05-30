@@ -52,10 +52,13 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Blood Siphon"
-    desc: "`pf2:r`  **Trigger** A creature within 60 feet takes [[Conditions/Persistent Damage|Persistent Bleed Damage]].\n* * *\n\n**Effect** The shed blood disperses into a fine mist that Qxal siphons up with their proboscis. Qxal regains 14 HP."
+    desc: "`pf2:r`  **Trigger** A creature within 60 feet takes [[Conditions/Persistent Damage|Persistent Bleed Damage]].\n* * *\n\n**Effect** The shed blood disperses into a fine mist that Qxal siphons up with their proboscis. Qxal regains 14 healing Hit Points."
 
   - name: "Hallucinatory Scale Dust"
     desc: " (aura,illusion,mental) 30 feet. Fey glamours shed from Qxal's wings like scale dust, causing hallucinations. A creature entering the aura or starting its turn in the area must attempt a DC 25 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to the scale dust for 24 hours.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature hallucinates that it is beginning to transform into a plant or animal native to their homeland, becoming either [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Enfeebled|Enfeebled 1]], or [[Conditions/Stupefied|Stupefied 1]], at Qxal's choice. The condition lasts for 1 hour. Each time a creature fails this save, Qxal can choose an additional condition.\n\n**Critical Failure** As failure, but the condition value is 2 ([[Conditions/Clumsy|Clumsy 2]], [[Conditions/Enfeebled|Enfeebled 2]], or [[Conditions/Stupefied|Stupefied 2]])."
@@ -63,17 +66,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Proboscis +21 (deadly d12)\n__Damage__  2d12 + 9 slashing 1d4 bleed"
+  - name: "**Melee** `pf2:1` Proboscis"
+    desc: "+21 (deadly d12)\n__Damage__  2d12 + 9 slashing 1d4 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tendril +21 (agile, reach 10 feet)\n__Damage__  2d10 + 9 slashing 1d4 bleed"
+  - name: "**Melee** `pf2:1` Tendril"
+    desc: "+21 (agile, reach 10 feet)\n__Damage__  2d10 + 9 slashing 1d4 bleed"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thorn +21 (range 60 feet)\n__Damage__  2d4 + 9 piercing 1d4 bleed"
+  - name: "**Ranged** `pf2:1` Thorn"
+    desc: "+21 (range 60 feet)\n__Damage__  2d4 + 9 piercing 1d4 bleed"
 
   - name: "Primal Spontaneous Spells"
-    desc: "DC 28, attack +20; __5th __ (3 slots) _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Synesthesia|Synesthesia]]_; __4th __ (4 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __3rd __ (4 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Slow|Slow]]_; __2nd __ (4 slots) _[[Spells/Deafness|Deafness]]_, _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Fungal Hyphae|Fungal Hyphae]]_; __1st __ (4 slots) _[[Spells/Heal|Heal]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Shockwave|Shockwave]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(5th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Message|Message]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 28, attack +20; __5th __ (3 slots) _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Cone of Cold|Cone of Cold]]_, _[[Spells/Synesthesia|Synesthesia]]_; __4th __ (4 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Wall of Thorns|Wall of Thorns]]_; __3rd __ (4 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Slow|Slow]]_; __2nd __ (4 slots) _[[Spells/Deafness|Deafness]]_, _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Fungal Hyphae|Fungal Hyphae]]_; __1st __ (4 slots) _[[Spells/Heal|Heal]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Shockwave|Shockwave]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(5th)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Message|Message]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Primal Innate Spells"
     desc: "DC 28, attack +20; __5th __  _[[Spells/Mirage|Hallucinatory Terrain (At Will)]]_, _[[Spells/Illusory Scene|Illusory Scene]]_; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will)]]_; __1st __  _[[Spells/Command|Command (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_ __(4th)__ _[[Spells/Speak with Plants|Speak with Plants]]_"

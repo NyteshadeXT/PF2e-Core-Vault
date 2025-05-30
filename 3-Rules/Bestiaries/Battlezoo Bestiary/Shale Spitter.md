@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 ()\n__Damage__  1d6 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 ()\n__Damage__  1d6 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +10 (range increment 60 feet)\n__Damage__  1d8 + 4 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+10 (range increment 60 feet)\n__Damage__  1d8 + 4 bludgeoning"
 
   - name: "[[Item.La57XISD2unXrQoG|Rock Stride]]"
     desc: "  A shale spitter ignores difficult terrain caused in caves and rocky mountains."

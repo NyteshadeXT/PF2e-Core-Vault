@@ -55,16 +55,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Verdant Burst"
-    desc: " (healing) When Rain in Cloudy Day dies, a burst of primal energy explodes from his body, restoring 2d8 Hit Points to each plant creature in a @Template[emanation|distance:30]. This area is filled with fungi, becoming difficult terrain. If the terrain is not a viable environment for this fungus, it withers after 24 hours."
+    desc: " (healing) When Rain in Cloudy Day dies, a burst of primal energy explodes from his body, restoring 2d8 healing Hit Points to each plant creature in a 30-foot emanation. This area is filled with fungi, becoming difficult terrain. If the terrain is not a viable environment for this fungus, it withers after 24 hours."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +8 (agile, finesse)\n__Damage__  1d6 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+8 (agile, finesse, unarmed)\n__Damage__  1d6 + 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spore Pod +8 (range increment 30 feet)\n__Damage__  1d6 + 1 bludgeoning plus spores"
+  - name: "**Ranged** `pf2:1` Spore Pod"
+    desc: "+8 (range increment 30 feet)\n__Damage__  1d6 + 1 bludgeoning plus spores"
 
   - name: "Focus Occult Spells"
     desc: "1 Focus Point, DC 17, attack +7; __1st __  _[[Spells/Counter Performance|Counter Performance]]_\n__Cantrips__  __(1st)__ _[[Spells/Courageous Anthem|Inspire Courage]]_"
@@ -76,7 +76,7 @@ attacks:
     desc: "`pf2:1` (concentrate,polymorph,primal) Rain in Cloudy Day transforms into a Small giant mushroom or patch of fungi. This ability otherwise uses the effects of [[Spells/One with Plants|One with Plants]]."
 
   - name: "Spore Cloud"
-    desc: "`pf2:2` (poison) Rain in Cloudy Day can unleash a cloud of spores that irritates the eyes and throats of nonfungi creatures in a @Template[emanation|distance:15]. Each creature must succeed at a DC 16 Fortitude check save or take 1 persistent poison damage. A creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet (10 feet on a critical failure)."
+    desc: "`pf2:2` (poison) Rain in Cloudy Day can unleash a cloud of spores that irritates the eyes and throats of nonfungi creatures in a 15-foot emanation. Each creature must succeed at a DC 16 Fortitude check save or take 1 persistent poison damage. A creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet (10 feet on a critical failure)."
 
   - name: "Spores"
     desc: "  A creature that takes damage from Rain in Cloudy Day's spore pod Strike must attempt a saving throw with the same DC and effect as his Spore Cloud ability."

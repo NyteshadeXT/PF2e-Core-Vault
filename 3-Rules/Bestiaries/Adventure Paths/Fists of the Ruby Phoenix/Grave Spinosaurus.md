@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +30 (deadly d12, reach 20 feet)\n__Damage__  3d12 + 15 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+30 (deadly d12, reach 20 feet, unarmed)\n__Damage__  3d12 + 15 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +30 (agile, reach 15 feet)\n__Damage__  3d8 + 15 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+30 (agile, reach 15 feet, unarmed)\n__Damage__  3d8 + 15 slashing"
 
   - name: "Pouncing Pin"
     desc: "`pf2:2`  The grave spinosaurus Strides and makes a Strike at the end of its movement. If the Strike hits, it deals damage as normal and the grave spinosaurus makes an Athletics check to [[Actions/Trip|Trip]] the target. This check counts toward the grave spinosaurus's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes the check."
@@ -71,13 +71,13 @@ attacks:
     desc: "`pf2:1`  **Requirements** The grave spinosaurus has a creature [[Conditions/Grabbed|Grabbed]] in its jaws\n* * *\n\n**Effect** The grave spinosaurus reaches up and slashes with its claws at the creature it has grabbed, dealing 6d10 slashing damage (DC 36 Reflex check save) and 2d6 bleed."
 
   - name: "Staggering Sail"
-    desc: "`pf2:2` (incapacitation) **Requirements** The grave spinosaurus is swimming on the surface of water\n* * *\n\n**Effect** With a powerful lunge to the side, the grave spinosaurus uses its sail to slap the surface of the water, creating a crushing wave of water that deals 8d6 bludgeoning damage in a @Template[cone|distance:30]. Each creature in the water in the area must attempt a DC 36 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Slowed|Slowed 1]] until the end of its next turn.\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Stunned|Stunned 3]]."
+    desc: "`pf2:2` (incapacitation) **Requirements** The grave spinosaurus is swimming on the surface of water\n* * *\n\n**Effect** With a powerful lunge to the side, the grave spinosaurus uses its sail to slap the surface of the water, creating a crushing wave of water that deals 8d6 bludgeoning damage in a 30-foot cone. Each creature in the water in the area must attempt a DC 36 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Slowed|Slowed 1]] until the end of its next turn.\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Stunned|Stunned 3]]."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Medium,3d12+12 bludgeoning damage, Rupture 36\n\n* * *\n"
+    desc: "`pf2:1` (attack) Medium,3d12+12 bludgeoning damage, Rupture 36\n* * *\n\nThe monster attempts to swallow a creature of the listed size or smaller that it has grabbed or restrained in its jaws or mouth. If a swallowed creature is of the maximum size listed, the monster can't use Swallow Whole again. If the creature is smaller than the maximum, the monster can usually swallow more creatures; the GM determines the maximum. The monster attempts an Athletics check check opposed by the grabbed creature's Reflex DC. If it succeeds, it swallows the creature. The monster's mouth or jaws no longer grab a creature it has swallowed, so the monster is free to use them to Strike or Grab once again. The monster can't attack creatures it has swallowed.\n\nA swallowed creature is [[Conditions/Grabbed|Grabbed]], is [[Conditions/Slowed|Slowed 1]], and has to hold its breath or start suffocating. The swallowed creature takes the listed amount of damage when first swallowed and at the end of each of its turns while it's swallowed. If the victim [[Actions/Escape|Escapes]] this ability's grabbed condition, it exits through the monster's mouth. This frees any other creature grabbed in the monster's mouth or jaws. A swallowed creature can attack the monster that has swallowed it, but only with unarmed attacks or with weapons of light Bulk or less. The swallowing creature is [[Conditions/Off-Guard|Off-Guard]] against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the swallowed creature cuts itself free. A creature that gets free by either Escaping or cutting itself free can immediately breathe and exits the swallowing monster's space.\n\n[[Bestiary Effects/Effect_ Engulf and Swallow Whole|Effect: Engulf and Swallow Whole]]\n\nIf the monster dies, a swallowed creature can be freed by creatures adjacent to the corpse if they spend a combined total of 3 actions cutting the monster open with a weapon or unarmed attack that deals piercing or slashing damage."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

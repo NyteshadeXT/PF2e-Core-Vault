@@ -5,8 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/auditory
   - trait/concentrate
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.q9nbyIF0PEBqMtYe"
@@ -14,14 +13,14 @@ license: ORC
 ---
 # Command an Animal `pf2:1`
 
-### [[3-Rules/Rule References/auditory]][[3-Rules/Rule References/Concentrate]][[skill]]
+### [[auditory]][[concentrate]]
 
 **Category** interaction; 
 
 
 
 
-You issue an order to an animal. Attempt a Nature check against the animal's Will DC. The GM might adjust the DC if the animal has a good attitude toward you, you suggest a course of action it was predisposed toward, or you offer it a treat.
+You issue an order to an animal. Attempt a [[Actions/command-an-animal|command-an-animal]]{Nature} check against the animal's Will DC. The GM might adjust the DC if the animal has a good attitude toward you, you suggest a course of action it was predisposed toward, or you offer it a treat.
 
 You automatically fail if the animal is hostile or unfriendly to you. If the animal is helpful to you, increase your degree of success by one step. You might be able to Command an Animal more easily with a feat like [[Feats/Ride|Ride]].
 

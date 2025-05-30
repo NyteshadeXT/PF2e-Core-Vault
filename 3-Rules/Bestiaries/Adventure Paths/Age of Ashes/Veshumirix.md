@@ -54,10 +54,13 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 34 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 34 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Wing Deflection"
     desc: "`pf2:r`  **Trigger** Veshumirix is targeted with an attack.\n* * *\n\n**Effect** Veshumirix raises his wing, gaining a +2 circumstance bonus to AC against the triggering attack. If Veshumirix is Flying, he descends 10 feet after the attack."
@@ -65,20 +68,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +33 (fire, magical, reach 15 feet)\n__Damage__  3d10 + 15 piercing 4d6 fire"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+33 (fire, magical, reach 15 feet, unarmed)\n__Damage__  3d10 + 15 piercing 4d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +33 (agile, magical, reach 10 feet)\n__Damage__  3d10 + 15 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+33 (agile, magical, reach 10 feet, unarmed)\n__Damage__  3d10 + 15 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +31 (magical, reach 20 feet)\n__Damage__  2d12 + 15 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+31 (magical, reach 20 feet)\n__Damage__  2d12 + 15 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horns +31 (magical, reach 15 feet)\n__Damage__  2d10 + 15 bludgeoning"
+  - name: "**Melee** `pf2:1` Horns"
+    desc: "+31 (magical, reach 15 feet)\n__Damage__  2d10 + 15 bludgeoning"
 
   - name: "Primal Innate Spells"
-    desc: "DC 40, attack +32; __8th __  _[[Spells/Breathe Fire|Burning Hands (At Will)]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Wall of Fire|Wall of Fire (At Will)]]_\n__Cantrips__  __(8th)__ _[[Spells/Produce Flame|Produce Flame]]_\n__Constant__  __(4th)__ _[[Spells/Fire Shield|Fire Shield]]_"
+    desc: "DC 40, attack +32; __8th __  _[[Spells/Breathe Fire|Burning Hands (At Will)]]_, _[[Spells/Fireball|Fireball]]_, _[[Spells/Wall of Fire|Wall of Fire (At Will)]]_\n__Cantrips__  __(8th)__ _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_\n__Constant__  __(4th)__ _[[Spells/Fire Shield|Fire Shield]]_"
 
   - name: "Breath Weapon"
     desc: "`pf2:2` (fire,primal) Veshumirix breathes a blast of magma that deals 9d6 fire damage and 4d12 bludgeoning damage in a 60-foot cone (DC 42 Reflex check save).\n\nHe can't use Breath Weapon again for 1d4 rounds."

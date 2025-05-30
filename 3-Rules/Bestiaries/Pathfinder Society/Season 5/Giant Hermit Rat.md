@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 (agile, finesse)\n__Damage__  1d6 + 4 piercing plus brine-burn"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (agile, finesse, unarmed)\n__Damage__  1d6 + 4 piercing plus brine-burn"
 
   - name: "Brine Burn"
     desc: "  A creature that takes damage from the hermit rat's jaw attack must attempt a DC 15 Fortitude check Save. On a failure, the wound burns from spicy kimchi brine and they take an additional 1d4 acid damage."

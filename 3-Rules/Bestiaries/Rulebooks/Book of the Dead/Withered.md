@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap183-field-of-maidens/assets/art/Withered Zombie.webp| ]]
 source: "Pathfinder Book of the Dead"
 name: "Withered"
 level: "Creature 5"
@@ -60,20 +61,23 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +14 (agile, versatile s)\n__Damage__  1d6 + 9 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+14 (agile, versatile s)\n__Damage__  1d6 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +14 (agile, versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+14 (agile, versatile s)\n__Damage__  1d4 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 ()\n__Damage__  1d8 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (unarmed)\n__Damage__  1d8 + 7 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +13 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+13 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The withered zombie deals an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

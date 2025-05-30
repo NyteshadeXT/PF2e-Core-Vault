@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Energized Fist +19 (magical, reach 10 feet, versatile p)\n__Damage__  2d12 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Energized Fist"
+    desc: "+19 (magical, reach 10 feet, versatile p)\n__Damage__  2d12 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Eye Beam +14 (fire, magical, range increment 80 feet)\n__Damage__  4d6 + 10 fire"
+  - name: "**Ranged** `pf2:1` Eye Beam"
+    desc: "+14 (fire, magical, range increment 80 feet)\n__Damage__  4d6 + 10 fire"
 
   - name: "Ley Line Surge"
-    desc: "`pf2:1` (force,primal) `pf2:1` to `pf2:3`\n\nn\n\n**Frequency** once per day\n* * *\n\n**Effect** The Kayajima guardian pulses with mystical energies that emit a pale blue glow before it emits a wave of force. If the Kayajima guardian uses 1 action to use, it unleashes a powerful blast that deals 4d6 force damage to all creatures in a @Template[cone|distance:15]. If the Kayajima guardian uses 2 actions to use Ley Line Surge, increase the size of the cone to @Template[cone|distance:30] and the damage to 6d6 force damage. If the Kayajima guardian uses 3 actions to use Ley Line Surge, increase the size of the cone to @Template[cone|distance:60] and the damage to 8d6 force damage.\n\nEach creature in the area must attempt a DC 22 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is pushed 5 feet.\n\n**Critical Failure** The creature takes double damage and is pushed 10 feet."
+    desc: "`pf2:1` (force,primal) `pf2:1` to `pf2:3`\n\nn\n\n**Frequency** once per day\n* * *\n\n**Effect** The Kayajima guardian pulses with mystical energies that emit a pale blue glow before it emits a wave of force. If the Kayajima guardian uses 1 action to use, it unleashes a powerful blast that deals 4d6 force damage to all creatures in a 15-foot cone. If the Kayajima guardian uses 2 actions to use Ley Line Surge, increase the size of the cone to 30-foot cone and the damage to 6d6 force damage. If the Kayajima guardian uses 3 actions to use Ley Line Surge, increase the size of the cone to 60-foot cone and the damage to 8d6 force damage.\n\nEach creature in the area must attempt a DC 22 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is pushed 5 feet.\n\n**Critical Failure** The creature takes double damage and is pushed 10 feet."
 
   - name: "Sudden Charge"
     desc: "`pf2:2`  The Kayajima guardian propels itself with jets of blue energy from its feet, dashing up to a foe and swinging its fist. It Strides twice. If it ends its movement within melee range of at least one enemy, it can make an energized fist Strike against that enemy."

@@ -65,20 +65,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +26 (agile, finesse, magical, reach 10 feet, versatile p)\n__Damage__  2d6 + 12 slashing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+26 (agile, finesse, magical, reach 10 feet, versatile p)\n__Damage__  2d6 + 12 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +25 (agile, finesse, reach 10 feet)\n__Damage__  3d6 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+25 (agile, finesse, reach 10 feet, unarmed)\n__Damage__  3d6 + 12 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mammoth Bow +27 (deadly d10, magical, propulsive, range increment 180 feet, reload 0, volley 50 ft.)\n__Damage__  3d8 + 9 piercing 2d6 piercing"
+  - name: "**Ranged** `pf2:1` Mammoth Bow"
+    desc: "+27 (deadly d10, magical, propulsive, range increment 180 feet, reload 0, volley 50 ft.)\n__Damage__  3d8 + 9 piercing 2d6 piercing"
 
   - name: "Aimed Shot"
     desc: "`pf2:2` (concentrate) Hegremon makes a single _mammoth bow_ Strike against his prey; he gains a +2 circumstance bonus to the attack roll and ignores his prey's [[Conditions/Concealed|Concealed]] condition."
 
   - name: "Chill Breath"
-    desc: "`pf2:1`  (cold, evocation, primal) Hegremon breathes out a @Template[cone|distance:15] of freezing moisture that quickly condenses into ice, dealing 6d6 cold damage. Each creature in the cone must attempt a DC 28 Reflex check. A creature that fails its save is also [[Conditions/Immobilized|Immobilized]] and takes 2d6 cold damage at the end of each of its turns until it breaks free (Escape DC 28). Hegremon can't use Chill Breath again for 1d4 rounds."
+    desc: "`pf2:1`  (cold, evocation, primal) Hegremon breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 6d6 cold damage. Each creature in the cone must attempt a DC 28 Reflex check. A creature that fails its save is also [[Conditions/Immobilized|Immobilized]] and takes 2d6 cold damage at the end of each of its turns until it breaks free (Escape DC 28). Hegremon can't use Chill Breath again for 1d4 rounds."
 
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) Hegremon designates a single creature he can see and hear, or one he's Tracking, as his prey. Hegremon has a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] his prey and a +2 circumstance bonus to Survival checks to [[Actions/Track|Track]] his prey. He ignores the penalty to ranged attacks within his second range increment against his prey. The first time Hegremon hits his prey in a round, he inflicts an additional 2d8 precision damage. These effects last until Hegremon uses Hunt Prey again."

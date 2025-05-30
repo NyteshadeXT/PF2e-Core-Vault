@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Feats/Safeguard Soul|Safeguard Soul]]
+
 You gain a +2 status bonus to saving throws against death effects, possession effects, and effects that attempt to manipulate or steal your soul.
 
 *Source: Pathfinder Book of the Dead*

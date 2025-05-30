@@ -65,8 +65,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Touch +15 (agile, finesse, magical)\n__Damage__  2d8 + 6 mental"
+  - name: "**Melee** `pf2:1` Touch"
+    desc: "+15 (agile, finesse, magical)\n__Damage__  2d8 + 6 mental"
 
   - name: "Occult Innate Spells"
     desc: "DC 24, attack +16; __3rd __  _[[Spells/Item Facade|Item Facade]]_; __2nd __  _[[Spells/Illusory Object|Illusory Object (x3)]]_\n__Cantrips__  __(3rd)__ _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

@@ -56,16 +56,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +15 (magical, versatile p)\n__Damage__  1d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+15 (magical, versatile p)\n__Damage__  1d8 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +14 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+14 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 6 piercing"
 
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) Shaldar Falls-Far designates a single creature she can see and hear, or one that she's Tracking, as her prey. She gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey. The first time she hits the designated prey in a round, she deals an additional 1d8 precision damage. She also ignores the penalty for making ranged attacks within her second range increment. These effects last until Shaldar Falls-Far uses Hunt Prey again."

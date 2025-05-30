@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +6 (agile, finesse, versatile s)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+6 (agile, finesse, versatile s)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +6 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+6 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The rebel deals an extra 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

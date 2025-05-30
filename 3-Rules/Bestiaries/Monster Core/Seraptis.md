@@ -55,6 +55,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "2x [[Equipment/Scimitar|+1 Striking Wounding Scimitar]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Blood Healing"
@@ -66,20 +69,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wounding Scimitar +32 (forceful, magical, sweep, unholy)\n__Damage__  1d6 bleed 2d6 + 16 slashing 2d6 mental"
+  - name: "**Melee** `pf2:1` Wounding Scimitar"
+    desc: "+32 (forceful, magical, sweep, unholy)\n__Damage__  1d6 bleed 2d6 + 16 slashing 2d6 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +31 (agile, magical, unholy)\n__Damage__  2d4 + 16 slashing plus grab 2d6 mental plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+31 (agile, magical, unarmed, unholy)\n__Damage__  2d4 + 16 slashing plus grab 2d6 mental plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Caustic Blood +30 (acid, magical, unholy)\n__Damage__  7d6 acid"
+  - name: "**Melee** `pf2:1` Caustic Blood"
+    desc: "+30 (acid, magical, unholy)\n__Damage__  7d6 acid"
 
   - name: "Divine Innate Spells"
     desc: "DC 35, attack +27; __8th __  _[[Spells/Dominate|Dominate]]_; __6th __  _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Wave of Despair|Wave of Despair]]_; __5th __  _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Translocate|Translocate (At Will)]]_; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_\n__Constant__  __(8th)__ _[[Spells/Truesight|Truesight]]_, _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Demonic Pact]]_"
+    desc: "_Demonic Pact_"
 
   - name: "Bloody Dance"
     desc: "`pf2:2`  The seraptis makes a Strike with up to four arms, each against a different target and using a claw or scimitar as appropriate. These attacks count toward the seraptis's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks. The seraptis can use Grab following this activity, separately attempting to [[Actions/Grapple|Grapple]] each creature hit by a claw."
@@ -91,7 +94,7 @@ attacks:
     desc: "`pf2:1` (curse,linguistic,mental) The seraptis telepathically explains a plausible secret to a creature within 30 feet. That creature must succeed at a DC 37 Will check save or be mentally cut off from those around them for 1 minute (or permanently on a critical failure). The affected creature treats no one as an ally and any speech they hear is warped, encouraging conflict, and negating any linguistic ability from creatures that aren't unholy.\n\nRegardless of the results of the saving throw, the creature is immune to Isolating Words for 24 hours."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

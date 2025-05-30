@@ -55,10 +55,13 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Kukri|+2 Greater Striking Keen Kukri]], [[Equipment/Musical Instrument (Handheld)|Pipes]], 4x Leng Ruby"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Fast Healing|Planar Fast Healing]]"
-    desc: "  A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, they have fast healing 15. They lose this ability on Leng or in areas where planar connections do not function. If killed, their body dissolves into nothingness in 1d4 rounds, leaving behind their equipment. A slain denizen reforms in Leng; they can be permanently killed only when their planar fast healing doesn't function.\n\n* * *\n"
+    desc: "  A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, they have fast healing 15. They lose this ability on Leng or in areas where planar connections do not function. If killed, their body dissolves into nothingness in 1d4 rounds, leaving behind their equipment. A slain denizen reforms in Leng; they can be permanently killed only when their planar fast healing doesn't function.\n* * *\n\nA monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
 
   - name: "No Breath"
     desc: "  The Leng envoy doesn't need to breathe."
@@ -66,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +34 (agile, finesse, magical, trip)\n__Damage__  3d6 + 13 slashing 3d6 bleed"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+34 (agile, finesse, magical, trip)\n__Damage__  3d6 + 13 slashing 3d6 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +32 (agile, finesse)\n__Damage__  3d10 + 13 piercing plus debilitating-bite"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+32 (agile, finesse, unarmed)\n__Damage__  3d10 + 13 piercing plus debilitating-bite"
 
   - name: "Occult Innate Spells"
-    desc: "DC 40, attack +34; __9th __  _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Truespeech|Tongues (Tongues)]]_, _[[Spells/Unfathomable Song|Unfathomable Song]]_; __8th __  _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __  _[[Spells/Warp Mind|Warp Mind]]_; __5th __  _[[Spells/Locate|Locate]]_, _[[Spells/Mind Probe|Mind Probe]]_; __4th __  _[[Spells/Outcast's Curse|Outcast's Curse]]_; __3rd __  _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Levitate|Levitate]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_\n__Cantrips__  __(9th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_"
+    desc: "DC 40, attack +34; __9th __  _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Unfathomable Song|Unfathomable Song]]_; __8th __  _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __  _[[Spells/Warp Mind|Warp Mind]]_; __5th __  _[[Spells/Locate|Locate]]_, _[[Spells/Mind Probe|Mind Probe]]_; __4th __  _[[Spells/Outcast's Curse|Outcast's Curse]]_; __3rd __  _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Levitate|Levitate]]_; __2nd __  _[[Spells/Mirror Image|Mirror Image]]_\n__Cantrips__  __(9th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_\n__Constant__  __(9th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "Debilitating Bite"
     desc: " (curse,occult) A creature that takes damage from a denizen's bite must succeed at a DC 40 Fortitude check save or become [[Conditions/Clumsy|Clumsy 1]]. Each time a target fails an additional save against this ability, the condition value increases by 1 (to a maximum of Clumsy 4). This condition value decreases by 1 every 24 hours."
@@ -82,7 +85,7 @@ attacks:
     desc: " (occult) Many denizens of Leng carry strange rubies mined from quarries in Leng. As long as a creature holds a Leng ruby that it willingly accepted as a gift or payment from a denizen of Leng, any denizen of Leng can target that creature with [[Spells/Mind Reading|Mind Reading]], [[Spells/Outcast's Curse|Outcast's Curse]], [[Spells/Phantom Pain|Phantom Pain]], or [[Spells/Warp Mind|Warp Mind]] at a range of 1 mile, and the bearer uses an outcome one degree of success worse than the result of its saving throw against _Outcast's Curse_."
 
   - name: "Play the Pipes"
-    desc: "`pf2:3` (auditory,primal) **Frequency** once per day\n\n**Requirements** The Leng envoy is holding a musical instrument\n* * *\n\n**Effect** The envoy plays a melody on its instrument to cast [[Spells/Uncontrollable Dance|Uncontrollable Dance]], [[Spells/Unfathomable Song|Unfathomable Song]], or [[Spells/Warp Mind|Warp Mind]] without expending the spell slot and using his music in place of providing the spell's component actions. The spell gains the auditory trait and targets all creatures in a @Template[emanation|distance:60] instead of its usual targets. A creature that succeeds at its Will save against any spell is then temporarily immune from all spells played from the envoy's pipes for 1 minute. Aberrations are immune to this music."
+    desc: "`pf2:3` (auditory,primal) **Frequency** once per day\n\n**Requirements** The Leng envoy is holding a musical instrument\n* * *\n\n**Effect** The envoy plays a melody on its instrument to cast [[Spells/Uncontrollable Dance|Uncontrollable Dance]], [[Spells/Unfathomable Song|Unfathomable Song]], or [[Spells/Warp Mind|Warp Mind]] without expending the spell slot and using his music in place of providing the spell's component actions. The spell gains the auditory trait and targets all creatures in a 60-foot emanation instead of its usual targets. A creature that succeeds at its Will save against any spell is then temporarily immune from all spells played from the envoy's pipes for 1 minute. Aberrations are immune to this music."
  
 ```
 

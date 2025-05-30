@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +10 (agile, reach 10 feet)\n__Damage__  1d8 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+10 (agile, reach 10 feet, unarmed)\n__Damage__  1d8 + 8 bludgeoning"
 
   - name: "Chill Breath"
-    desc: "`pf2:1` (cold,primal) Jurgrindor breathes out a @Template[cone|distance:15] of freezing moisture that quickly condenses into ice, dealing 2d6 cold damage (DC 18 Reflex check). A creature that critically fails the save is also [[Conditions/Immobilized|Immobilized]] until it Escapes (DC 18). Jurgrindor can't use Chill Breath for 1d4 rounds."
+    desc: "`pf2:1` (cold,primal) Jurgrindor breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 2d6 cold damage (DC 18 Reflex check). A creature that critically fails the save is also [[Conditions/Immobilized|Immobilized]] until it Escapes (DC 18). Jurgrindor can't use Chill Breath for 1d4 rounds."
  
 ```
 

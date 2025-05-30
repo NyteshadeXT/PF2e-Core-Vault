@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Phantom Dagger +17 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 10 piercing"
+  - name: "**Melee** `pf2:1` Phantom Dagger"
+    desc: "+17 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Phantom Dagger +17 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  2d4 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Phantom Dagger"
+    desc: "+17 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  2d4 + 10 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 25, attack +17; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_\n__Cantrips__  __(3rd)__ _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_, _[[Spells/Void Warp|Void Warp]]_"

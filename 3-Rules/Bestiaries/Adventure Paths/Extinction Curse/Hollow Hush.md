@@ -52,13 +52,22 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +35 (agile, magical, reach 10 feet)\n__Damage__  3d10 + 14 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+35 (agile, magical, reach 10 feet, unarmed)\n__Damage__  3d10 + 14 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 42, attack +34; __9th __  _[[Spells/Ignite Ambition|Blind Ambition (At Will) (Emotional Focus)]]_, _[[Spells/Captivating Adoration|Captivating Adoration (At Will) (Emotional Focus)]]_, _[[Spells/Delusional Pride|Delusional Pride (At Will) (Emotional Focus)]]_, _[[Spells/Unfathomable Song|Unfathomable Song]]_; __7th __  _[[Spells/Wave of Despair|Crushing Despair (x3)]]_, _[[Spells/Warp Mind|Warp Mind (x3)]]_; __4th __  _[[Spells/Restoration|Restoration]]_; __3rd __  _[[Spells/Fear|Fear (At Will)]]_; __2nd __  _[[Spells/Laughing Fit|Hideous Laughter]]_\n__Constant__  __(4th)__ _[[Spells/Air Walk|Air Walk]]_"

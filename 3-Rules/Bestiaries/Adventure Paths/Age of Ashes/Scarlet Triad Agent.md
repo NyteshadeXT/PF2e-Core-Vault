@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +24 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+24 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blowgun +24 (agile, magical, nonlethal, range increment 20 feet, reload 1)\n__Damage__  7 piercing plus lethargy-poison,purple-worm-venom"
+  - name: "**Ranged** `pf2:1` Blowgun"
+    desc: "+24 (agile, magical, nonlethal, range increment 20 feet, reload 1)\n__Damage__  7 piercing plus lethargy-poison,purple-worm-venom"
 
   - name: "Arcane Spells Known"
     desc: "DC 33, attack +25; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise]]_; __2nd __  _[[Spells/Laughing Fit|Hideous Laughter]]_; __1st __  _[[Spells/Fear|Fear]]_\n__Cantrips__  __(3rd)__ _[[Spells/Ghost Sound|Ghost Sound]]_"

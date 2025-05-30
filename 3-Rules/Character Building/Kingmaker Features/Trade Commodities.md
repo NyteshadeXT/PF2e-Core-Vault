@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Trade Commodities"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/commerce
   - trait/downtime
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.swAA2zetF14HIhUc"
 license: OGL
 ---
 # Trade Commodities
-
+## 
 ### [[commerce]][[downtime]]
 
 **Category** kingdom-activity; 

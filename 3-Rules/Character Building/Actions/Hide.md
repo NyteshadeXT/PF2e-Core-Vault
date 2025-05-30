@@ -4,8 +4,7 @@ title: "Hide"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/secret
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa"
@@ -13,14 +12,14 @@ license: ORC
 ---
 # Hide `pf2:1`
 
-### [[secret]][[skill]]
+### [[secret]]
 
 **Category** interaction; 
 
 
 
 
-You huddle behind cover or greater cover or deeper into concealment to become [[Conditions/Hidden|Hidden]], rather than [[Conditions/Observed|Observed]]. The GM rolls your [[/act hide]] check in secret and compares the result to the Perception DC of each creature you're observed by but that you have cover or greater cover against or are [[Conditions/Concealed|Concealed]] from. You get a +2 circumstance bonus to your check if you have standard cover (or +4 from greater cover).
+You huddle behind cover or greater cover or deeper into concealment to become [[Conditions/Hidden|Hidden]], rather than [[Conditions/Observed|Observed]]. The GM rolls your [[Actions/hide|hide]]{Stealth} check in secret and compares the result to the Perception DC of each creature you're observed by but that you have cover or greater cover against or are [[Conditions/Concealed|Concealed]] from. You get a +2 circumstance bonus to your check if you have standard cover (or +4 from greater cover).
 
 * * *
 

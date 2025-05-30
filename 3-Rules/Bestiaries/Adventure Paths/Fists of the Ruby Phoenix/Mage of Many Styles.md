@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +22 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  2d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+22 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  2d6 + 5 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +23 (magical, versatile p)\n__Damage__  2d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+23 (magical, versatile p)\n__Damage__  2d8 + 5 slashing"
 
   - name: "Focus Spells"
     desc: "2 Focus Points, DC 32, attack +26; __7th __ (2 slots) _[[Spells/Hand of the Apprentice|Hand of the Apprentice]]_, _[[Spells/Physical Boost|Physical Boost]]_"

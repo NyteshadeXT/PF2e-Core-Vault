@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.KmpPAOjNP980NuCY"
 license: OGL
@@ -21,7 +21,7 @@ license: OGL
 
 **Prerequisites** trained in Crafting or Thievery
 
-**Requirement** You have the Huntergate portal key ([[Hunter's Arrowhead|Hunter's Arrowhead]]).
+**Requirement** You have the Huntergate portal key ([[Equipment/Hunter's Arrowhead|Hunter's Arrowhead]]).
 
 * * *
 

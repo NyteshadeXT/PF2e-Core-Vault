@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sawtooth Saber +30 (agile, finesse, magical, twin)\n__Damage__  3d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Sawtooth Saber"
+    desc: "+30 (agile, finesse, magical, twin)\n__Damage__  3d8 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shuriken +28 (agile, monk, reload 0, thrown 20 ft.)\n__Damage__  1d4 + 10 piercing plus blightburn-resin"
+  - name: "**Ranged** `pf2:1` Shuriken"
+    desc: "+28 (agile, monk, reload 0, thrown 20 ft.)\n__Damage__  1d4 + 10 piercing plus blightburn-resin"
 
   - name: "Divine Prepared Spells"
     desc: "DC 37, attack +29; __7th __  _[[Spells/Divine Decree|Divine Decree]]_; __6th __  _[[Spells/Blessed Boundary|Blessed Boundary]]_, _[[Spells/Truesight|Truesight]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __  _[[Spells/Divine Immolation|Divine Immolation]]_, _[[Spells/Sending|Sending]]_; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Fly|Fly]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Dream Message|Dream Message]]_; __2nd __  _[[Spells/Calm|Calm]]_, _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Clear Mind|Clear Mind]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Sound Body|Sound Body]]_, _[[Spells/Sure Footing|Sure Footing]]_; __1st __  _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(8th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Stabilize|Stabilize]]_"
@@ -70,7 +70,7 @@ attacks:
     desc: "3 Focus Points, DC 37, attack +29; __8th __  _[[Spells/Sudden Shift|Sudden Shift]]_, _[[Spells/Trickster's Twin|Trickster's Twin]]_, _[[Spells/Weapon Surge|Weapon Surge]]_, _[[Spells/Zeal for Battle|Zeal for Battle]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Resurrect|Resurrect]]_"
+    desc: "_Resurrect_"
 
   - name: "Blightburn Resin"
     desc: " (alchemical,contact,poison) **Saving Throw** DC 30 Fortitude check\n\n**Onset** 1 minute\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 6d6 poison damage (1 round)\n\n**Stage 2** 7d6 poison damage (1 round)\n\n**Stage 3** 9d6 poison damage (1 round)"

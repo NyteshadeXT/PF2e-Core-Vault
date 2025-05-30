@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Shared Avoidance|Shared Avoidance]]
 
-Allies within 20 feet of you who are rolling the same saving throw against the same hazard also gain a +2 circumstance bonus to their saving throws.
+You gain a +2 circumstance bonus to your saving throws against the hazard.
 
 *Source: Pathfinder Player Core*
 *ORC*

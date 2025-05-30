@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Cut from the Air"
+title: "Cut From the Air"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/fighter
@@ -10,7 +10,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.6xBu4BewIkOIt9M0"
 license: ORC
 ---
-# Cut from the Air `pf2:r`
+# Cut From the Air `pf2:r`
 ## Feat 10
 ### [[fighter]]
 

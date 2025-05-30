@@ -61,17 +61,20 @@ abilities_mid:
   - name: "Flammable"
     desc: "  A tar zombie requires a successful DC 20 flat check to recover from persistent fire damage. This DC isn't reduced for assisted recovery."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tusk +21 (reach 15 feet)\n__Damage__  2d12 + 11 piercing"
+  - name: "**Melee** `pf2:1` Tusk"
+    desc: "+21 (reach 15 feet, unarmed)\n__Damage__  2d12 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Trunk +21 (reach 15 feet)\n__Damage__  2d8 + 11 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Trunk"
+    desc: "+21 (reach 15 feet)\n__Damage__  2d8 + 11 bludgeoning plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +21 (reach 10 feet)\n__Damage__  2d6 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+21 (reach 10 feet, unarmed)\n__Damage__  2d6 + 11 bludgeoning"
 
   - name: "Fling"
     desc: "`pf2:1`  **Requirements** The tar zombie mammoth has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by its trunk\n* * *\n\n**Effect** The tar zombie mammoth whips its prey violently into the air. It attempts an DC 28 Athletics check save)."
@@ -80,7 +83,7 @@ attacks:
     desc: "`pf2:2`  As [[Bestiary Ability Glossary/Trample|Trample]], but the tar zombie mammoth Strides up to its Speed instead of double its Speed."
 
   - name: "Vomit Tar"
-    desc: "`pf2:2` (primal) The tar zombie vomits a gout of sticky tar in a @Template[cone|distance:15] that deals 7d6 bludgeoning damage ((DC 28 Reflex check) save). Creatures that fail the save are [[Conditions/Slowed|Slowed 1]] and gain fire weakness 5. Both conditions end after 3 rounds or when the tar is scrubbed off (which requires 3 Interact actions). The tar zombie can't Vomit Tar again for 1d4 rounds.\n\n[[Bestiary Effects/Effect_ Vomit Tar|Effect: Vomit Tar]]"
+    desc: "`pf2:2` (primal) The tar zombie vomits a gout of sticky tar in a 15-foot cone that deals 7d6 bludgeoning damage ((DC 28 Reflex check) save). Creatures that fail the save are [[Conditions/Slowed|Slowed 1]] and gain fire weakness 5. Both conditions end after 3 rounds or when the tar is scrubbed off (which requires 3 Interact actions). The tar zombie can't Vomit Tar again for 1d4 rounds.\n\n[[Bestiary Effects/Effect_ Vomit Tar|Effect: Vomit Tar]]"
  
 ```
 

@@ -21,5 +21,5 @@ license: OGL
 * * *
 Your eyes are keen and accustomed to winter conditions. You ignore concealment caused by ice and snow.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

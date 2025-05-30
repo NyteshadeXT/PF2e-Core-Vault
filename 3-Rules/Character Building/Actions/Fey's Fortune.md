@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
   - trait/fortune
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.TMBXArwICQRJdwT6"
@@ -13,7 +13,7 @@ license: ORC
 ---
 # Fey's Fortune `pf2:0`
 
-### [[3-Rules/Rule References/Concentrate]][[fortune]]
+### [[concentrate]][[fortune]]
 
 **Category** interaction; 
 

@@ -61,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Clammy Pseudopod +20 ()\n__Damage__  2d8 + 9 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Clammy Pseudopod"
+    desc: "+20 ()\n__Damage__  2d8 + 9 bludgeoning plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6 bludgeoning plus 1d6 cold, DC 25 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d6 bludgeoning plus 1d6 cold, DC 25 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Drag Below"
     desc: "`pf2:2`  **Requirements** The coldmire pond occupies the same space as a target it has [[Conditions/Grabbed|Grabbed]]\n* * *\n\n**Effect** The coldmire pond pulls the target below the surface. The target must succeed at a DC 26 Reflex check save or fall [[Conditions/Prone|Prone]] and begin drowning."
 
   - name: "Flash Flood"
-    desc: "`pf2:2` (primal,water) Water surges out of the coldmire pond in a @Template[emanation|distance:20] and crashes into nearby creatures, knocking them off their feet. Creatures in the area, as well as any creatures currently sharing the coldmire pond's space, take 4d8 bludgeoning damage and are knocked [[Conditions/Prone|Prone]] (DC 26 Reflex check save). Creatures standing inside the coldmire pond treat their result as one step worse."
+    desc: "`pf2:2` (primal,water) Water surges out of the coldmire pond in a 20-foot emanation and crashes into nearby creatures, knocking them off their feet. Creatures in the area, as well as any creatures currently sharing the coldmire pond's space, take 4d8 bludgeoning damage and are knocked [[Conditions/Prone|Prone]] (DC 26 Reflex check save). Creatures standing inside the coldmire pond treat their result as one step worse."
  
 ```
 

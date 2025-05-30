@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Cloak Of Poison"
+title: "Cloak of Poison"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/leshy
@@ -11,9 +11,9 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.fnMT0AsZXFW9Ppyp"
 license: ORC
 ---
-# Cloak Of Poison `pf2:2`
+# Cloak of Poison `pf2:2`
 ## Feat 13
-### [[leshy]][[3-Rules/trait_reference/P/poison]]
+### [[leshy]][[poison]]
 
 **Category** ancestry; 
 

@@ -65,6 +65,9 @@ abilities_mid:
   - name: "Evasion"
     desc: "  When the gang leader rolls a success on a Reflex save, they get a critical success instead."
 
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
   - name: "Nimble Dodge"
     desc: "`pf2:r`  **Trigger** The gang leader is targeted with an attack by an attacker they can see\n* * *\n\n**Effect** The gang leader gains a +2 circumstance bonus to AC against the triggering attack."
 
@@ -74,11 +77,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +18 (agile, magical, versatile s)\n__Damage__  1d6 + 12 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+18 (agile, magical, versatile s)\n__Damage__  1d6 + 12 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sling +18 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 10 bludgeoning"
+  - name: "**Ranged** `pf2:1` Sling"
+    desc: "+18 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 10 bludgeoning"
 
   - name: "Occult Innate Spells"
     desc: "DC 22, attack +14; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Paranoia|Paranoia]]_\n__Cantrips__  __(4th)__ _[[Spells/Sigil|Sigil]]_"

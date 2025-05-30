@@ -15,7 +15,7 @@ license: ORC
 ---
 # Perfect Clarity `pf2:r`
 ## Feat 18
-### [[barbarian]][[concentrate]][[fortune]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[concentrate]][[fortune]][[rage]]
 
 **Category** class; 
 

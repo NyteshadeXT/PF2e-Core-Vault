@@ -56,22 +56,28 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 (magical)\n__Damage__  1d10 + 7 piercing plus corrupted-touch,ghoul-fever,paralysis"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (magical, unarmed)\n__Damage__  1d10 + 7 piercing plus corrupted-touch,ghoul-fever,paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +14 (agile, magical)\n__Damage__  1d6 + 7 slashing plus corrupted-touch,paralysis"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+14 (agile, magical, unarmed)\n__Damage__  1d6 + 7 slashing plus corrupted-touch,paralysis"
 
   - name: "Innate Divine Spells"
     desc: "DC 22, attack +12; __2nd __ (3 slots) _[[Spells/Invisibility|Invisibility (Self Only)]]_"
 
   - name: "Consume Flesh"
-    desc: "`pf2:1` (manipulate) **Requirements** The esobok ghoul is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghoul devours a chunk of the corpse and regains 3d6 Hit Points.\n\nIt can regain Hit Points from any given corpse only once."
+    desc: "`pf2:1` (manipulate) **Requirements** The esobok ghoul is adjacent to the corpse of a creature that died within the last hour.\n* * *\n\n**Effect** The ghoul devours a chunk of the corpse and regains 3d6 healing Hit Points.\n\nIt can regain Hit Points from any given corpse only once."
 
   - name: "Corrupted Touch"
     desc: "  An esobok ghoul's Strikes deal 1d6 void damage to living creatures. A creature critically hit by an esobok ghoul's Strike must attempt a DC 18 Fortitude check save or become [[Conditions/Drained|Drained 1]] ([[Conditions/Drained|Drained 2]] on a critical failure) as rot spreads throughout their flesh."

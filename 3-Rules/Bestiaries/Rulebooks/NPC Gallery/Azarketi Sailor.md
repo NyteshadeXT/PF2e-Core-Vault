@@ -21,7 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+source: "Pathfinder Lost Omens Absalom, City of Lost Omens"
 name: "Azarketi Sailor"
 level: "Creature 2"
 
@@ -41,7 +41,7 @@ skills:
     desc: "Acrobatics: +8, Athletics: +7, Nature: +5, Stealth: +8, Survival: +7, Sailing Lore: +6"
 abilityMods: [3, 4, 2, 0, 1, 1]
 speed: 25 feet,  swim 25 feet
-sourcebook: "_Pathfinder Lost Omens: Absalom, City of Lost Omens_"
+sourcebook: "_Pathfinder Lost Omens Absalom, City of Lost Omens_"
 ac: 18
 armorclass:
   - name: AC
@@ -69,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +9 (forceful, sweep)\n__Damage__  1d6 + 5 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+9 (forceful, sweep)\n__Damage__  1d6 + 5 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +10 (deadly d10, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+10 (deadly d10, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 1 piercing"
 
   - name: "Swinging Strike"
     desc: "`pf2:2` (move) **Requirements** The azarketi sailor is hanging from a rope or vine\n* * *\n\n**Effect** The azarketi sailor swings a distance equal to up to twice their Speed, moving in a straight line, and makes a single Strike at any point during the movement."

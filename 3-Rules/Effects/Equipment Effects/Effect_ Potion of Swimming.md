@@ -4,8 +4,9 @@ title: "Effect: Potion of Swimming"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.W3xQBLj5hLOtb6Tj"
-license: OGL
+license: ORC
 ---
 # Effect: Potion of Swimming
 ## Level 6
@@ -16,7 +17,9 @@ license: OGL
 
 
 
-Granted by [[Potion of Swimming|Potion of Swimming]]
+Granted by [[Equipment/Potion of Swimming|Potion of Swimming]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+You gain a swim Speed equal to your land Speed.
+
+*Source: Pathfinder GM Core*
+*ORC*

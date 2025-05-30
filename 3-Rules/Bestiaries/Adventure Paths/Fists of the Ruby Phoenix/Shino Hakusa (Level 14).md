@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +30 (agile, cold iron, finesse, magical, nonlethal, silver, unarmed)\n__Damage__  3d6 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+30 (agile, cold iron, finesse, magical, nonlethal, silver, unarmed)\n__Damage__  3d6 + 11 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shuriken +29 (agile, magical, reload 0, thrown 20 ft.)\n__Damage__  2d4 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Shuriken"
+    desc: "+29 (agile, magical, reload 0, thrown 20 ft.)\n__Damage__  2d4 + 11 piercing"
 
   - name: "Disorienting Tumble"
     desc: "  Hakusa leaps around and over her opponents, disorienting them, to gain the upper hand in combat. When she successfully [[Actions/Tumble Through|Tumbles Through]] a creature's space, that creature becomes [[Conditions/Off-Guard|Off-Guard]] until the end of Hakusa's turn."

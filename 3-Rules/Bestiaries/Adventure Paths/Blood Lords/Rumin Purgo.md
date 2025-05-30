@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap184-the-ghouls-hunger/assets/art/PZO90184_rumin_purgo.webp| ]]
 source: "Pathfinder #184: The Ghouls Hunger"
 name: "Rumin Purgo"
 level: "Creature 11"
@@ -66,8 +67,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Mace +22 (agile, finesse, shove)\n__Damage__  2d4 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Light Mace"
+    desc: "+22 (agile, finesse, shove)\n__Damage__  2d4 + 10 bludgeoning"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 30, attack +22; __6th __ (2 slots) _[[Spells/Disintegrate|Disintegrate]]_, _[[Spells/Mislead|Mislead]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __5th __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Scouting Eye|Prying Eye]]_, _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_; __4th __ (3 slots) _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Shatter|Shatter]]_; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Shrink Item|Shrink Item]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Carryall|Floating Disk]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Phantasmal Minion|Unseen Servant]]_\n__Cantrips__  __(6th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Light|Light]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

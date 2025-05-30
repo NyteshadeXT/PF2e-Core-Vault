@@ -29,5 +29,5 @@ You flow around your foe, using the magic of your attack to carry you away. You 
 
 The lightness of your steps persists after the jump, granting you the ability to land on or walk on the surface of water or other liquids until the end of your next turn.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

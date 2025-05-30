@@ -6,7 +6,7 @@ tags:
   - trait/aura
   - trait/magical
   - trait/mental
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.bestiary-ability-glossary-srd.Item.kdhbPaBMK1d1fpbA"
@@ -14,7 +14,7 @@ license: ORC
 ---
 # Telepathy
 
-### [[3-Rules/GM Tools/Bestiary Ability Glossary/Aura]][[magical]][[3-Rules/trait_reference/M/mental]]
+### [[aura]][[magical]][[mental]]
 
 **Category** interaction; 
 

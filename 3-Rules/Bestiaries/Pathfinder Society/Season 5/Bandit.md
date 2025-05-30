@@ -58,17 +58,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sap +9 (agile, nonlethal)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Sap"
+    desc: "+9 (agile, nonlethal)\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +9 ()\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+9 ()\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +7 (thrown 10 ft.)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+7 (thrown 10 ft.)\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +7 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+7 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
  
 ```
 

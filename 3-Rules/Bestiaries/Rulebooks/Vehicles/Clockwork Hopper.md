@@ -6,10 +6,11 @@ cssClasses: pf2e
 tags:
   - pf2eVehicle
 
+  - remaster
 source: Pathfinder Guns &amp; Gears
 aliases: "Compendium.pf2e.vehicles.Actor.IhniEmlnkb3pFRZG" 
 level: 6
-license: OGL
+license: ORC
 statblock: inline
 ---
 
@@ -33,7 +34,7 @@ perception:
 abilities_top:
   - name: ""
   - name: "Space"
-    desc: "10 feet long, 10 feet wide, 12 feet high"
+    desc: "10 feet long, 10 feet wide, 10 feet high"
   - name: "Crew"
     desc: "1 pilot; **Passengers** 2"
   - name: "Piloting Check"

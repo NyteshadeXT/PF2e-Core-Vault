@@ -3,7 +3,7 @@ title: "Reefclaw (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.eq4tLYV3efCS2ouP" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.Rr1u6WvZEdPw1s6v" 
 tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/aquatic
@@ -31,7 +31,7 @@ trait_02: [[aquatic]]
 modifier: 8
 perception:
   - name: "Perception"
-    desc: "+8; "
+    desc: "+8; Darkvision"
 languages: ""
 skills:
   - name: "Skills"
@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (finesse)\n__Damage__  1d6 + 1 slashing plus grab,reefclaw-venom"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (finesse, unarmed)\n__Damage__  1d6 + 1 slashing plus grab,reefclaw-venom"
 
   - name: "Constrict"
     desc: "`pf2:1`  If the reefclaw has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]], it can spend one action to crush them in its coils. The creature takes 1d6 bludgeoning damage depending on its DC 17 Fortitude check save."

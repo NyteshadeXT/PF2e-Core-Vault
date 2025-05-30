@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +9 ()\n__Damage__  1d6 + 1 bludgeoning 1d4 piercing"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+9 (unarmed)\n__Damage__  1d6 + 1 bludgeoning 1d4 piercing"
 
   - name: "Swamp Wave"
-    desc: "`pf2:1`  **Frequency** once per minute\n* * *\n\n**Effect** The swamp ooze unleashes a wave of swamp muck filled with sharp debris, covering all creatures within a @Template[emanation|distance:20]. Each creature in the area must succeed at a DC 17 Reflex check save or take 1d4 piercing damage and take a -10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[Conditions/Prone|Prone]]).\n\nA creature can spend an Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action."
+    desc: "`pf2:1`  **Frequency** once per minute\n* * *\n\n**Effect** The swamp ooze unleashes a wave of swamp muck filled with sharp debris, covering all creatures within a 20-foot emanation. Each creature in the area must succeed at a DC 17 Reflex check save or take 1d4 piercing damage and take a -10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[Conditions/Prone|Prone]]).\n\nA creature can spend an Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action."
  
 ```
 

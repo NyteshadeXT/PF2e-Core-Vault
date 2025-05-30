@@ -51,6 +51,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 120 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Blight Sense"
     desc: "  A gritblight can detect the location of nearby creatures afflicted with Ayrzul's Blight as a precise sense at the listed range."
 
@@ -62,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +27 (reach 10 feet)\n__Damage__  3d6 + 14 slashing 2d6 acid"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+27 (reach 10 feet, unarmed)\n__Damage__  3d6 + 14 slashing 2d6 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Caustic Shard +23 (range increment 60 feet)\n__Damage__  3d6 + 10 piercing 2d6 acid"
+  - name: "**Ranged** `pf2:1` Caustic Shard"
+    desc: "+23 (range increment 60 feet)\n__Damage__  3d6 + 10 piercing 2d6 acid"
 
   - name: "Ayrzul's Blight"
     desc: " (disease,earth,primal) Radioactive elemental energy courses through sap and blood, petrifies bark and bone, withers flesh, and mutates life. Creatures with the wood or plant trait treat critical successes against the disease as successes. The drained condition caused by Ayrzul's Blight can't be healed until the disease is removed. Ayrzul's Blight presents with obvious but varying symptoms, from coughing up black dust to suddenly becoming covered in itchy patches of flaky stone.\n\n**Saving Throw** DC 33 Fortitude check\n\n**Onset** 1 day\n\n**Stage 1** [[Conditions/Drained|Drained 1]] (1 day)\n\n**Stage 2** [[Conditions/Drained|Drained 2]] (1 day)\n\n**Stage 3** [[Conditions/Drained|Drained 3]] (1 day)\n\n**Stage 4** [[Conditions/Drained|Drained 4]] (1 day)\n\n**Stage 5** mutation (on a failure) or death (on a critical failure)"
@@ -78,10 +81,10 @@ attacks:
     desc: "  A gritblight's vision is unaffected by clouds of sand, dirt, grit, or other earth materials in air or water."
 
   - name: "Labyrinthine Vision"
-    desc: "`pf2:3` (mental,primal) The gritblight forces disorienting visions of Ayrzul's Blistering Labyrinth into the minds of nearby creatures. All creatures in a @Template[cone|distance:60] take 7d12 mental damage with a DC 33 Will check save. Creatures [[Conditions/Blinded|Blinded]] by a gritblight's Labyrinthine Vision see only endless earthen tunnels in every direction.\n\nThe gritblight can't use this ability again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is blinded for 1 minute.\n\n**Critical Failure** The creature takes double damage and is blinded permanently."
+    desc: "`pf2:3` (mental,primal) The gritblight forces disorienting visions of Ayrzul's Blistering Labyrinth into the minds of nearby creatures. All creatures in a 60-foot cone take 7d12 mental damage with a DC 33 Will check save. Creatures [[Conditions/Blinded|Blinded]] by a gritblight's Labyrinthine Vision see only endless earthen tunnels in every direction.\n\nThe gritblight can't use this ability again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is blinded for 1 minute.\n\n**Critical Failure** The creature takes double damage and is blinded permanently."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, claw, DC 33 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Medium or smaller, claw, DC 33 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

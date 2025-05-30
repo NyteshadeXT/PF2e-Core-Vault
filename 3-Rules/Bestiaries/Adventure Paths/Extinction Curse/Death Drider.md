@@ -59,14 +59,17 @@ abilities_mid:
   - name: "Sack of Spiders"
     desc: "`pf2:r`  **Trigger** The death drider is reduced to 0 Hit Points\n* * *\n\n**Effect** The death drider explodes in a shower of spiders. Each adjacent creature must succeed at a DC 31 Reflex check save or take 3d6 piercing damage and be exposed to death drider venom."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +27 ()\n__Damage__  4d6 + 13 piercing plus death-drider-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+27 ()\n__Damage__  4d6 + 13 piercing plus death-drider-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Web +27 (range increment 30 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Web"
+    desc: "+27 (range increment 30 feet)\n__Damage__ "
 
   - name: "Death Drider Venom"
     desc: " (poison) The drained condition persists after the poison's duration ends\n\n**Saving Throw** DC 32 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 2d8 poison damage and [[Conditions/Drained|Drained 1]] (1 round)\n\n**Stage 2** 3d8 poison damage and [[Conditions/Drained|Drained 2]] (1 round)\n\n**Stage 3** 4d8 poison damage and drained 2 (1 round)"

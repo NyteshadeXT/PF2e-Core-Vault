@@ -8,8 +8,9 @@ tags:
   - trait/skill
   - trait/common
   - category/skill
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.K2R1xGTgBnSCDMUl"
-license: OGL
+license: ORC
 ---
 # Express Driver
 ## Feat 2
@@ -24,4 +25,4 @@ license: OGL
 You can optimize your vehicle's performance, coaxing extra speed and choosing paths to avoid slowdowns. When calculating your travel speed for the day while piloting a vehicle, you can attempt a Driving Lore check to increase your vehicle's travel speed. The DC is determined by the GM but is typically based on the vehicle's piloting DC or a difficulty based on the environment, whichever is harder. On a success, increase your vehicle's travel speed by half. This has no effect on your vehicle's movement in encounters.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

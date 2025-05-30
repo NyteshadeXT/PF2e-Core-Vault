@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Celebrate Holiday"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/leadership
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.3IHNdiGw6klNARiM"
 license: OGL
 ---
 # Celebrate Holiday
-
+## 
 ### [[downtime]][[leadership]]
 
 **Category** kingdom-activity; 

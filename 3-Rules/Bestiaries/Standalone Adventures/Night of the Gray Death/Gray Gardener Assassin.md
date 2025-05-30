@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +29 (agile, finesse, trip)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+29 (agile, finesse, trip)\n__Damage__  2d6 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hand Crossbow +29 (range increment 60 feet, reload 1)\n__Damage__  2d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Hand Crossbow"
+    desc: "+29 (range increment 60 feet, reload 1)\n__Damage__  2d6 + 4 piercing"
 
   - name: "Instant Opening"
     desc: "`pf2:1` (concentrate) The Gray Gardener assassin distracts a creature within 30 feet, using a few choice words or gestures. The creature is [[Conditions/Off-Guard|Off-Guard]] against the assassin's attacks until the end of the assassin's next turn. Depending on the distraction, this action gains either the auditory or the visual trait."

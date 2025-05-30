@@ -22,5 +22,5 @@ license: ORC
 * * *
 Your incredible perception and trusty enhanced visual gear allow you to see things others miss. Your proficiency rank in Perception increases to master.
 
-*Source: Pathfinder Player Core*
+*Source: Pathfinder Guns & Gears*
 *ORC*

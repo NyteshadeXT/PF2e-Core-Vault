@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 120 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Radiance Dependence"
     desc: "  The shining child is [[Conditions/Off-Guard|Off-Guard]] while in areas of darkness."
 
@@ -64,14 +67,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +25 (agile, finesse, magical)\n__Damage__  3d4 + 5 bludgeoning 4d6 fire 2d4 fire"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+25 (agile, finesse, magical, unarmed)\n__Damage__  3d4 + 5 bludgeoning 4d6 fire 2d4 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Fire Ray +25 (arcane, magical, range 100 feet)\n__Damage__  3d10 + 3 fire"
+  - name: "**Ranged** `pf2:1` Fire Ray"
+    desc: "+25 (arcane, magical, range 100 feet)\n__Damage__  3d10 + 3 fire"
 
   - name: "Occult Innate Spells"
-    desc: "DC 33, attack +25; __7th __  _[[Spells/Spell Riposte|Spell Riposte]]_, _[[Spells/Sunburst|Sunburst]]_; __6th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Vibrant Pattern|Vibrant Pattern]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __  _[[Spells/False Vision|False Vision]]_, _[[Spells/Mirage|Mirage]]_, _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Translocate|Translocate (At Will)]]_; __2nd __  _[[Spells/Illusory Object|Illusory Object (At Will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Light|Light]]_"
+    desc: "DC 33, attack +25; __7th __  _[[Spells/Sunburst|Sunburst (x2)]]_; __6th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Vibrant Pattern|Vibrant Pattern]]_, _[[Spells/Wall of Force|Wall of Force]]_; __5th __  _[[Spells/False Vision|False Vision]]_, _[[Spells/Mirage|Mirage]]_, _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Translocate|Translocate (At Will)]]_; __2nd __  _[[Spells/Illusory Object|Illusory Object (At Will)]]_\n__Cantrips__  __(6th)__ _[[Spells/Light|Light]]_"
  
 ```
 

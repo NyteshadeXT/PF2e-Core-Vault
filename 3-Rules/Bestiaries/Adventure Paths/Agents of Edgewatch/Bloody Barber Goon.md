@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +24 (agile, finesse, versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+24 (agile, finesse, versatile s)\n__Damage__  1d4 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Club +25 (magical)\n__Damage__  2d6 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Club"
+    desc: "+25 (magical)\n__Damage__  2d6 + 9 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +24 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+24 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 9 piercing"
 
   - name: "Brutish Shove"
     desc: "`pf2:1`  Throwing your weight behind your attack, you hit your opponent hard enough to make it stumble back. Make a Strike with a two-handed melee weapon. If you hit a target that is your size or smaller, that creature is off-guard until the end of your current turn, and you can automatically Shove it, with the same benefits as the Shove action (including the critical success effect, if your Strike was a critical hit). If you move to follow the target, your movement doesn't trigger reactions. This Strike has the following failure effect.\n\n**Failure** The target becomes off-guard until the end of your current turn."

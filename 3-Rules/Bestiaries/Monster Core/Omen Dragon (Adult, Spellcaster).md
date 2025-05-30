@@ -55,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Challenge Fate"
-    desc: "`pf2:r`  **Trigger** The dragon is targeted by an attack;\n* * *\n\n**Effect** This fate is not set in stone. The attacker rolls the triggering attack twice and uses the worse result."
+    desc: "`pf2:r` (misfortune,occult) **Trigger** The dragon is targeted by an attack;\n* * *\n\n**Effect** This fate is not set in stone. The attacker rolls the triggering attack twice and uses the worse result."
 
   - name: "Untethered to Fate"
     desc: "  The dragon can choose to negate any fortune or misfortune effects that would affect them; other creatures remain affected normally."
@@ -63,17 +63,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +22 (magical, reach 10 feet)\n__Damage__  1d8 mental 2d8 + 11 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+22 (magical, reach 10 feet, unarmed)\n__Damage__  1d8 mental 2d8 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +22 (agile, magical)\n__Damage__  2d6 + 11 slashing 1d8 mental"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+22 (agile, magical, unarmed)\n__Damage__  2d6 + 11 slashing 1d8 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +20 (magical, reach 15 feet)\n__Damage__  2d8 + 11 bludgeoning 1d8 mental"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+20 (magical, reach 15 feet)\n__Damage__  2d8 + 11 bludgeoning 1d8 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +20 (agile, magical, reach 10 feet)\n__Damage__  1d8 mental 1d8 + 11 slashing"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+20 (agile, magical, reach 10 feet)\n__Damage__  1d8 mental 1d8 + 11 slashing"
 
   - name: "Occult Prepared Spells"
     desc: "DC 30, attack +22; __5th __  _[[Spells/Wave of Despair|Wave of Despair]]_; __4th __  _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Confusion|Confusion]]_, _[[Spells/Read Omens|Read Omens]]_; __3rd __  _[[Spells/Dream Message|Dream Message]]_, _[[Spells/Hypercognition|Hypercognition]]_, _[[Spells/Locate|Locate]]_; __2nd __  _[[Spells/Clear Mind|Clear Mind]]_, _[[Spells/Status|Status]]_, _[[Spells/Stupefy|Stupefy]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Protection|Protection]]_\n__Cantrips__  __(5th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Know the Way|Know the Way]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_"
@@ -82,7 +82,7 @@ attacks:
     desc: "DC 30, attack +22; __5th __  _[[Spells/Ill Omen|Ill Omen (At Will)]]_, _[[Spells/Mindlink|Mindlink (At Will)]]_, _[[Spells/Sure Strike|Sure Strike (x2)]]_\n__Cantrips__  __(6th)__ _[[Spells/Guidance|Guidance]]_"
 
   - name: "Destiny Breath"
-    desc: "`pf2:2` (mental,occult) The dragon breathes a translucent mist of potentialities that overwhelms creatures with visions of possible features, dealing 10d6 mental damage in a @Template[cone|distance:30] (DC 30 Will check save). A creature that fails its save is [[Conditions/Slowed|Slowed 1]] for 1 round (or [[Conditions/Slowed|Slowed 2]] on a critical failure) as it struggles with the visions.\n\nThe dragon can't use Destiny Breath again for 1d4 rounds."
+    desc: "`pf2:2` (mental,occult) The dragon breathes a translucent mist of potentialities that overwhelms creatures with visions of possible features, dealing 10d6 mental damage in a 30-foot cone (DC 30 Will check save). A creature that fails its save is [[Conditions/Slowed|Slowed 1]] for 1 round (or [[Conditions/Slowed|Slowed 2]] on a critical failure) as it struggles with the visions.\n\nThe dragon can't use Destiny Breath again for 1d4 rounds."
 
   - name: "Prophetic Wings"
     desc: "  The dragon or any ally can glimpse into the future through the dragon's wings in a process that requires 10 minutes of concentration. This casts a 6th-rank [[Spells/Augury|Augury]] spell, except that the wings can predict results up to 1 month into the future and the dragon always speaks a few cryptic words related to the result of the prediction.\n\nThe dragon can use their wings in this way only once per day, and a given creature can seek a future in the wings only once per week."

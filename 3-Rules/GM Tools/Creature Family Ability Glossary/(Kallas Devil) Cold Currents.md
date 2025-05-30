@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Kallas Devil) Cold Currents"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.LOd8QwaKP3hnyGkc"
 license: OGL
@@ -19,5 +19,5 @@ license: OGL
 
 While the Kallas Devil is in water, she gains cold resistance 10 and electricity weakness 5.
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

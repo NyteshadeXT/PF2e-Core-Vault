@@ -24,7 +24,7 @@ You have learned to attack meridians and pressure points like your rival Shino H
 
 Additionally, when you use Stunning Fist, instead of saving against being stunned, you can choose to have the target make a Fortitude save against your class DC with the following results. You must choose to do this before the target rolls its save.
 
-[[Feat_Feature Effects/Stance_ Vitality-Manipulation Stance|Stance: Vitality-Manipulation Stance]]
+[[Feat_Feature Effects/Stance_ Vitality-Manipulating Stance|Stance: Vitality-Manipulating Stance]]
 
 * * *
 

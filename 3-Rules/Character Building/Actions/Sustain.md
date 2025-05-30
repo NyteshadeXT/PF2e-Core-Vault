@@ -4,7 +4,7 @@ title: "Sustain"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.3f5DMFu8fPiqHpRg"
@@ -12,7 +12,7 @@ license: ORC
 ---
 # Sustain `pf2:1`
 
-### [[3-Rules/Rule References/Concentrate]]
+### [[concentrate]]
 
 **Category** interaction; 
 

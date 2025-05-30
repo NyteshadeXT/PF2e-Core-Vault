@@ -50,13 +50,16 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +12 (finesse, reach 0 feet)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+12 (finesse, reach 0 feet, unarmed)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 18, attack +8; __2nd __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_\n__Cantrips__  __(1st)__ _[[Spells/Read Aura|Read Aura]]_\n__Constant__  __(2nd)__ _[[Spells/Translate|Translate]]_"

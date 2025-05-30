@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +23 (reach 10 feet)\n__Damage__  2d12 + 13 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+23 (reach 10 feet)\n__Damage__  2d12 + 13 piercing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +23 (agile, reach 15 feet)\n__Damage__  2d6 + 13 slashing"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+23 (agile, reach 15 feet)\n__Damage__  2d6 + 13 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 27, attack +19; __2nd __ (2 slots) _[[Spells/Entangling Flora|Entangle (At Will)]]_\n__Constant__  __(2nd)__ _[[Spells/Vanishing Tracks|Pass Without Trace]]_"

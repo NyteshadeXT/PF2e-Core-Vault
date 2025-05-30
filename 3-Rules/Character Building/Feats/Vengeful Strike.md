@@ -13,7 +13,7 @@ license: ORC
 ---
 # Vengeful Strike `pf2:r`
 ## Feat 14
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

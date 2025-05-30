@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sulfur Spout +8 (range increment 10 feet)\n__Damage__  1d4 bludgeoning 1d6 acid"
+  - name: "**Ranged** `pf2:1` Sulfur Spout"
+    desc: "+8 (range increment 10 feet)\n__Damage__  1d4 bludgeoning 1d6 acid"
  
 ```
 

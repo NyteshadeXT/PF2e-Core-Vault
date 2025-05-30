@@ -56,14 +56,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bo Staff +27 (magical, parry, reach, trip)\n__Damage__  2d8 + 9 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Bo Staff"
+    desc: "+27 (magical, parry, reach, trip)\n__Damage__  2d8 + 9 bludgeoning plus knockdown"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +27 (agile, cold iron, finesse, magical, nonlethal, silver, unarmed)\n__Damage__  2d6 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+27 (agile, cold iron, finesse, magical, nonlethal, silver, unarmed)\n__Damage__  2d6 + 9 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dart +24 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 7 bludgeoning"
+  - name: "**Ranged** `pf2:1` Dart"
+    desc: "+24 (agile, magical, thrown 20 ft.)\n__Damage__  2d6 + 7 bludgeoning"
 
   - name: "Focus Spells"
     desc: "3 Focus Points, DC 32, attack +24; __6th __  _[[Spells/Shrink the Span|Abundant Step]]_, _[[Spells/Qi Blast|Ki Blast]]_, _[[Spells/Qi Rush|Ki Rush]]_, _[[Spells/Inner Upheaval|Ki Strike]]_, _[[Spells/Harmonize Self|Wholeness of Body]]_, _[[Spells/Wind Jump|Wind Jump]]_"
@@ -84,7 +84,7 @@ attacks:
     desc: "  Han deals an extra 2d10 damage to [[Conditions/Prone|Prone]] creatures."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

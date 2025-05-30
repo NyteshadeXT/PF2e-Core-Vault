@@ -59,20 +59,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +29 (agile, reach 30 feet)\n__Damage__  3d4 + 15 bludgeoning plus improved-push"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+29 (agile, reach 30 feet)\n__Damage__  3d4 + 15 bludgeoning plus improved-push"
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +29 (reach 15 feet)\n__Damage__  3d12 + 15 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+29 (reach 15 feet, unarmed)\n__Damage__  3d12 + 15 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +29 (agile, reach 15 feet)\n__Damage__  3d8 + 15 slashing plus improved-grab"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+29 (agile, reach 15 feet, unarmed)\n__Damage__  3d8 + 15 slashing plus improved-grab"
 
   - name: "Flying Strafe"
     desc: "`pf2:2`  The frost roc Flies up to its Speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. Each attack takes the normal multiple attack penalty."
 
   - name: "Frozen Feathers"
-    desc: "`pf2:2` (cold,primal) The frost roc spreads its wings and then flaps them furiously, unleashing a blast of ice-rimed feathers in a @Template[cone|distance:60]. All creatures in the area must attempt a DC 34 Reflex check save. The frost roc can't use Frozen Feathers again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 3d6 piercing damage and 5d6 cold damage.\n\n**Failure** The creature takes 5d6 piercing damage and 10d6 cold damage.\n\n**Critical Failure** The creature takes 8d6 piercing damage, 15d6 cold damage, and is [[Conditions/Slowed|Slowed 1]] for 1 minute."
+    desc: "`pf2:2` (cold,primal) The frost roc spreads its wings and then flaps them furiously, unleashing a blast of ice-rimed feathers in a 60-foot cone. All creatures in the area must attempt a DC 34 Reflex check save. The frost roc can't use Frozen Feathers again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 3d6 piercing damage and 5d6 cold damage.\n\n**Failure** The creature takes 5d6 piercing damage and 10d6 cold damage.\n\n**Critical Failure** The creature takes 8d6 piercing damage, 15d6 cold damage, and is [[Conditions/Slowed|Slowed 1]] for 1 minute."
 
   - name: "Snack"
     desc: "  A frost roc gains a +2 circumstance bonus to hit with its beak Strike if the target is grabbed or restrained in its talon."
@@ -82,6 +82,12 @@ attacks:
 
   - name: "Wing Rebuff"
     desc: "`pf2:r`  **Trigger** A creature moves into the reach of the frost roc's wing\n* * *\n\n**Effect** The frost roc makes a wing Strike against the triggering creature. If the frost roc Pushes the creature, it disrupts the triggering move action."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
+
+  - name: "[[Bestiary Ability Glossary/Improved Push|Improved Push]]"
+    desc: "  The monster can use [[Bestiary Ability Glossary/Push|Push]] as a free action triggered by a hit with its initial attack."
  
 ```
 

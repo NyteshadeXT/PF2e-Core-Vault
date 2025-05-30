@@ -22,6 +22,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/PZO90182_AZMAKIAN_EFFIGY.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Azmakian Effigy"
 level: "Creature 7"
@@ -61,14 +62,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +18 (unholy)\n__Damage__  2d10 + 10 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+18 (unarmed, unholy)\n__Damage__  2d10 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +18 (agile, unholy)\n__Damage__  2d8 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+18 (agile, unholy)\n__Damage__  2d8 + 10 bludgeoning"
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (divine) The Azmakian effigy exhales rusting gas in a @Template[cone|distance:15]. The gas deals 2d6 damage to the highest-level metal item carried by every creature in the area, ignoring these items' Hardness (DC 22 Fortitude check); unattended metal items in the area take this damage automatically. The Azmakian effigy can't use its Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (divine) The Azmakian effigy exhales rusting gas in a 15-foot cone. The gas deals 2d6 damage to the highest-level metal item carried by every creature in the area, ignoring these items' Hardness (DC 22 Fortitude check); unattended metal items in the area take this damage automatically. The Azmakian effigy can't use its Breath Weapon again for 1d4 rounds."
 
   - name: "Powerful Charge"
     desc: "`pf2:2`  The Azmakian effigy Strides twice and then makes a horn Strike. If it moved at least 20 feet from its starting position, the Strike's damage is increased to 3d10+10 piercing damage."

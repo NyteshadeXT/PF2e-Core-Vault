@@ -57,6 +57,12 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Trident|+1 Striking Trident]]"
+  - name: "[[Bestiary Ability Glossary/Wavesense|Wavesense (Imprecise) 60 feet]]"
+    desc: "  This sense allows a monster to feel vibrations caused by movement through a liquid. It's an imprecise sense with a limited range (listed in the ability). Wavesense functions only if monster and the subject are in the same body of liquid, and only if the subject is moving through the liquid."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "It's My Desire"
@@ -68,20 +74,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Trident +20 (magical, reach 10 feet)\n__Damage__  2d8 + 11 piercing"
+  - name: "**Melee** `pf2:1` Trident"
+    desc: "+20 (magical, reach 10 feet)\n__Damage__  2d8 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +19 (agile, magical, nonlethal, reach 10 feet)\n__Damage__  1d4 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+19 (agile, magical, nonlethal, reach 10 feet, unarmed)\n__Damage__  1d4 + 11 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +20 (magical, thrown 20 ft.)\n__Damage__  2d8 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+20 (magical, thrown 20 ft.)\n__Damage__  2d8 + 11 piercing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 26, attack +18; __5th __ (1 slots) _[[Spells/Control Water|Control Water (At Will)]]_; __4th __  _[[Spells/Mirage|Hallucinatory Terrain (Already Cast)]]_, _[[Spells/Hydraulic Push|Hydraulic Push (At Will)]]_; __2nd __ (1 slots) _[[Spells/Blur|Blur (At Will)]]_, _[[Spells/Illusory Object|Illusory Object]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(1st)__ _[[Spells/Detect Alignment|Detect Alignment (Good or Evil Only)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) Perizia can take on the appearance of any water elemental or humanoid. This ability doesn't change her Speed or her attack and damage bonuses with her Strikes.\n\n* * *\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) Perizia can take on the appearance of any water elemental or humanoid. This ability doesn't change her Speed or her attack and damage bonuses with her Strikes.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Improvised Wishcraft"
     desc: "`pf2:1` (linguistic,mental) **Effect** Perizia goads a creature into making a wish she can twist. Though Perizia isn't a noble genie and doesn't have access to the full power of the [[Spells/Wish|Wish]] spell, her aspirations for power and studies of wishcraft have given her a lesser ability to twist the desires of others into ruin. The creature chooses the type of wish: a wish for power, a wish for wealth, or a wish for happiness. Once the type of wish is chosen, the creature attempts a DC 26 Will check save. The effects of all granted wishes end after 1 hour. After attempting a saving throw, a creature is temporarily immune to this ability for 24 hours.\n* * *\n\n**Critical Success** The creature phrases its wish with the precision necessary to get a good outcome. The benefit it receives depends on the type of wish it made.\n\n*   Wish for power-A burst of water empowers the creature's attacks. The creature's attacks deal an additional 1d4 bludgeoning damage.\n*   Wish for wealth-A sack appears at the creature's waist, containing obvious fake coins and one of the following, of the creature's choice: 1 [[Equipment/Healing Potion (Moderate)|Healing Potion (Moderate)]], 1 [[Equipment/Oil of Unlife (Moderate)|Oil of Unlife (Moderate)]], or 5 vials of [[Equipment/Bottled Lightning (Moderate)|Bottled Lightning (Moderate)]]. After 1 hour, all of these objects disappear.\n*   Wish for happiness-The creature feels hopeful and inspired, gaining a +1 status bonus to attack rolls and saves against fear effects.\n\n**Success** The creature resists making the wish.\n\n**Failure** The creature's wish is twisted to cause it harm. The penalty it receives depends on the type of wish it made.\n\n*   Wish for power-The creature's body is rapidly pushed to its limits of physical exertion and is [[Conditions/Fatigued|Fatigued]].\n*   Wish for wealth-The creature's pockets and bags fill with temporary treasures that resist all attempts to discard. The creature is [[Conditions/Encumbered|Encumbered]].\n*   Wish for happiness-Tiny flashes of pleasant emotions and positive memories flicker across the creature's mind, interspersing with reality in a profoundly disorienting manner. The creature is [[Conditions/Sickened|Sickened 1]], and can't reduce this condition until the effects of the wish end.\n\n**Critical Failure** The creature phrases its wish poorly, and Perizia easily twists the outcome. In addition to the failure effect of the creature's chosen type of wish, the creature is [[Conditions/Stunned|Stunned 1]]."

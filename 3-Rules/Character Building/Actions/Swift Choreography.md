@@ -13,7 +13,7 @@ license: ORC
 ---
 # Swift Choreography `pf2:r`
 
-### [[3-Rules/Rule References/auditory]][[linguistic]]
+### [[auditory]][[linguistic]]
 
 **Category** offensive; 
 

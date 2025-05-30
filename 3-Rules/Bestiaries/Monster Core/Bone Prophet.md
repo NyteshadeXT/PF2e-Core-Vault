@@ -53,6 +53,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Staff|+1 Striking Staff]], [[Equipment/Religious Symbol (Silver)|Religious Symbol of Ydersius]], [[Equipment/Invisibility Potion|Invisibility Potion]]"
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical,mental) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Thin of Blood"
@@ -61,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +18 (magical, two-hand d8)\n__Damage__  2d4 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+18 (magical, two-hand d8)\n__Damage__  2d4 + 9 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +17 (finesse)\n__Damage__  2d6 + 9 piercing plus serpentfolk-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+17 (finesse)\n__Damage__  2d6 + 9 piercing plus serpentfolk-venom"
 
   - name: "Divine Spontaneous Spells"
     desc: "DC 28, attack +20; __4th __ (3 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Read Omens|Read Omens]]_, _[[Spells/Talking Corpse|Talking Corpse]]_; __3rd __ (4 slots) _[[Spells/Bind Undead|Bind Undead]]_, _[[Spells/Blindness|Blindness]]_, _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Vampiric Feast|Vampiric Feast]]_; __2nd __ (4 slots) _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Darkness|Darkness]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/See the Unseen|See the Unseen]]_; __1st __ (4 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Void Warp|Void Warp]]_"
@@ -74,10 +77,10 @@ attacks:
     desc: "DC 28, attack +20; __6th __  _[[Spells/Dominate|Dominate]]_; __5th __  _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __  _[[Spells/Illusory Disguise|Illusory Disguise (At Will)]]_; __2nd __  _[[Spells/Blur|Blur (Self Only, At Will)]]_; __1st __  _[[Spells/Ventriloquism|Ventriloquism (At Will)]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Create Undead|Create Undead]]_"
+    desc: "_Create Undead_"
 
   - name: "Raise Serpent"
-    desc: "`pf2:3` (divine) **Frequency** once per day\n* * *\n\n**Effect** The bone prophet animates corpses of snakes, serpentfolk, or similar serpentine creatures within a @Template[emanation|distance:30]. Any flesh on the bodies sloughs off, and they rise as skeletons. The bone prophet can raise one Large creature as a [[Monster Core/Skeletal Giant|Skeletal Giant]] or up to three Medium creatures as [[Monster Core/Skeletal Champion|Skeletal Champions]]; the equipment and attacks might be different depending on the corpses' possessions. These skeletons have the minion trait and are under the bone prophet's control; the bone prophet can give all these minions the same command with a single action that has the concentrate trait. Any skeletal minions that still remain after 10 minutes crumble to dust."
+    desc: "`pf2:3` (divine) **Frequency** once per day\n* * *\n\n**Effect** The bone prophet animates corpses of snakes, serpentfolk, or similar serpentine creatures within a 30-foot emanation. Any flesh on the bodies sloughs off, and they rise as skeletons. The bone prophet can raise one Large creature as a [[Monster Core/Skeletal Giant|Skeletal Giant]] or up to three Medium creatures as [[Monster Core/Skeletal Champion|Skeletal Champions]]; the equipment and attacks might be different depending on the corpses' possessions. These skeletons have the minion trait and are under the bone prophet's control; the bone prophet can give all these minions the same command with a single action that has the concentrate trait. Any skeletal minions that still remain after 10 minutes crumble to dust."
 
   - name: "Serpentfolk Venom"
     desc: " (poison) **Saving Throw** DC 26 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d4 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d4 poison damage and enfeebled 1 (1 round)"

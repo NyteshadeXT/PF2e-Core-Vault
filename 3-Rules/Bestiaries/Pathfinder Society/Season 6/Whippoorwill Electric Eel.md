@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +4 ()\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+4 (unarmed)\n__Damage__  1d6 + 1 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +6 (agile)\n__Damage__  1d4 - 1 bludgeoning plus stunning-shock 1d4 electricity plus stunning-shock"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+6 (agile)\n__Damage__  1d4 - 1 bludgeoning plus stunning-shock 1d4 electricity plus stunning-shock"
 
   - name: "Stunning Shock"
     desc: " (incapacitation) A creature critically hit by the electric eel's tail must attempt a DC 15 Fortitude check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Stunned|Stunned 1]].\n\n**Failure** The creature is [[Conditions/Stunned|Stunned 2]].\n\n**Critical Failure** The creature is [[Conditions/Stunned|Stunned 3]]."

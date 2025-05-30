@@ -6,10 +6,11 @@ cssClasses: pf2e
 tags:
   - pf2eVehicle
 
+  - remaster
 source: Pathfinder Guns &amp; Gears
 aliases: "Compendium.pf2e.vehicles.Actor.FbSRhHvCmXBSVkrn" 
 level: 2
-license: OGL
+license: ORC
 statblock: inline
 ---
 
@@ -33,7 +34,7 @@ perception:
 abilities_top:
   - name: ""
   - name: "Space"
-    desc: "10 feet long, 5 feet wide, 4 feet high"
+    desc: "10 feet long, 5 feet wide, 5 feet high"
   - name: "Crew"
     desc: "1 pilot; **Passengers** 1"
   - name: "Piloting Check"
@@ -56,7 +57,7 @@ attacks:
     desc: "2d8 (DC 16)"
 
   - name: "Steam Cloud"
-    desc: " Whenever the steam cart takes collision damage, its engine expels a dense cloud of steam in a @Template[emanation|distance:5]. The steam cart and all creatures in the steam become [[Conditions/Concealed|Concealed]], and creatures outside the steam become concealed to creatures within it. The steam dissipates in 1 round."
+    desc: " Whenever the steam cart takes collision damage, its engine expels a dense cloud of steam in a 5-foot emanation. The steam cart and all creatures in the steam become [[Conditions/Concealed|Concealed]], and creatures outside the steam become concealed to creatures within it. The steam dissipates in 1 round."
 
 
 

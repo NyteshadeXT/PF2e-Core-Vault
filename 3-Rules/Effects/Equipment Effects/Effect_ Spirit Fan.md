@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Spirit Fan|Spirit Fan]]
+
 The _Spirit Fan_ sheds light as a torch.
 
 *Source: Pathfinder #197: Let the Leaves Fall*

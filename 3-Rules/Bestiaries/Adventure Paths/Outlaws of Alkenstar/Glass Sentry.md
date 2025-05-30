@@ -50,6 +50,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
 abilities_mid:
   - name: ""
   - name: "Glass Armor"
@@ -58,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +17 ()\n__Damage__  2d8 + 10 slashing plus blinding-sand"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+17 (unarmed)\n__Damage__  2d8 + 10 slashing plus blinding-sand"
 
   - name: "Blinding Sand"
     desc: "  When the sand sentry critically hits with a fist Strike, the target is [[Conditions/Blinded|Blinded]] for 1 round."

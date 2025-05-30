@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Snare Crafting; warden spells
 * * *
-You can magically move your snares around. You gain the [[3-Rules/Character Building/Spells/S/Snare Hopping|Snare Hopping]] warden spell. Increase the number of Focus Points in your focus pool by 1.
+You can magically move your snares around. You gain the [[Spells/Snare Hopping|Snare Hopping]] warden spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

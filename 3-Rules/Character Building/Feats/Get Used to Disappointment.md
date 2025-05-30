@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You capitalize on an opponent's failure with smug attitude and swagger, reminding them of the gap in skill between you and your opponent. You attempt to [[/act demoralize options=item:trait:bravado]] the opponent. Regardless of the result, the target becomes temporarily immune for 1 minute.
+You capitalize on an opponent's failure with smug attitude and swagger, reminding them of the gap in skill between you and your opponent. You attempt to [[Actions/demoralize options=item:trait:bravado|demoralize options=item:trait:bravado]] the opponent. Regardless of the result, the target becomes temporarily immune for 1 minute.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/death
   - trait/divine
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.VLCECgjkL5bNOxpx"
 license: OGL
@@ -33,7 +33,7 @@ license: OGL
 
 **Failure** As success, but the creature's soul is ravaged. The creature is [[Conditions/Drained|Drained 3]] and the ravener adds a number of Hit Points to their soul ward equal to the creature's level.
 
-**Critical Failure** As failure, but the ravener devours the entire soul. The victim can't be restored to life as long as the ravener exists except via a 10th-rank effect such as [[Miracle|Miracle]] or [[Wish|Wish]], and the ravener adds a number of Hit Points to their soul ward equal to twice the creature's level.
+**Critical Failure** As failure, but the ravener devours the entire soul. The victim can't be restored to life as long as the ravener exists except via a 10th-rank effect such as [[Spells/Miracle|Miracle]] or [[Spells/Wish|Wish]], and the ravener adds a number of Hit Points to their soul ward equal to twice the creature's level.
 
 *Source: Pathfinder Bestiary 2*
 *OGL*

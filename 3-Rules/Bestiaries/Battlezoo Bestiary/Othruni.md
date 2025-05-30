@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +18 (magical, poison, shove)\n__Damage__  1d8 + 9 bludgeoning 1d6 poison"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+18 (magical, poison, shove)\n__Damage__  1d8 + 9 bludgeoning 1d6 poison"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Moss Pellet +18 (poison, range increment 30 feet)\n__Damage__  1d6 + 6 bludgeoning 2d6 poison"
+  - name: "**Ranged** `pf2:1` Moss Pellet"
+    desc: "+18 (poison, range increment 30 feet)\n__Damage__  1d6 + 6 bludgeoning 2d6 poison"
 
   - name: "Crystal Beam"
     desc: "`pf2:2` (fire,light,primal) The othruni concentrates on the light stored within the crystals of its body, releasing a beam of concentrated light in a 50-foot line that deals 6d6 fire damage (DC 25 basic Reflex save).\n\nThe othruni cannot use Crystal Beam again for 1d4 rounds or until it is exposed to bright light, whichever comes first."

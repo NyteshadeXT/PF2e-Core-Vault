@@ -60,25 +60,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet DC 34 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet DC 34 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Hell's Sting"
     desc: "`pf2:r` (divine,mental,unholy) **Trigger** The dragon is critically hit with a melee attack\n* * *\n\n**Effect** The dragon channels the rancor of Hell back through the body of their foe, overwhelming it with an infernal assault on the mind. The triggering creature takes 8d6 mental damage with a DC 36 Will check save. Holy creatures use an outcome one degree of success worse than they roll on their saving throw."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +30 (fire, magical, reach 10 feet, unholy)\n__Damage__  2d6 fire 3d12 + 11 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+30 (fire, magical, reach 15 feet, unarmed, unholy)\n__Damage__  2d6 fire 3d12 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +30 (agile, fire, magical, unholy)\n__Damage__  2d6 fire plus grab 3d8 + 11 piercing plus grab"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+30 (agile, fire, magical, reach 10 feet, unholy)\n__Damage__  2d6 fire plus grab 3d8 + 11 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +28 (fire, magical, reach 15 feet, unholy)\n__Damage__  3d8 + 11 bludgeoning plus knockdown 2d6 fire plus knockdown"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+28 (fire, magical, reach 20 feet, unholy)\n__Damage__  3d8 + 11 bludgeoning plus knockdown 2d6 fire plus knockdown"
 
   - name: "Divine Innate Spells"
     desc: "DC 34, attack +26; __7th __  _[[Spells/Divine Immolation|Divine Immolation]]_, _[[Spells/Interplanar Teleport|Interplanar Teleport (At Will, Self Only)]]_, _[[Spells/Wall of Fire|Wall of Fire (At Will)]]_\n__Cantrips__  __(8th)__ _[[Spells/Ignition|Ignition]]_"
@@ -93,13 +93,13 @@ attacks:
     desc: "  The dragon recharges their Hellfire Breath whenever they score a critical hit with a Strike."
 
   - name: "Hellfire Breath"
-    desc: "`pf2:2` (divine,fire,unholy) The dragon unleashes a blast of infernal fire that deals 16d6 fire damage in a @Template[cone|distance:50] (DC 36 Reflex check save).\n\nThe dragon can't use Hellfire Breath again for 1d4 rounds."
+    desc: "`pf2:2` (divine,fire,unholy) The dragon unleashes a blast of infernal fire that deals 16d6 fire damage in a 50-foot cone (DC 36 Reflex check save).\n\nThe dragon can't use Hellfire Breath again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

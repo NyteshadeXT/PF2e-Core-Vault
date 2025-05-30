@@ -7,8 +7,9 @@ tags:
   - trait/dedication
   - trait/uncommon
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.M0D2CQgASNfdZBrl"
-license: OGL
+license: ORC
 ---
 # Demolitionist Dedication
 ## Feat 2
@@ -21,7 +22,11 @@ license: OGL
 
 You know how to set explosives to cause the maximum possible damage to buildings and other structures. You become trained in Engineering Lore or become an expert in it if you were already trained. You gain the [[Actions/Set Explosives|Set Explosives]] action.
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Demolitionist|Demolitionist]] archetype.
+**Set Explosives** `pf2:2` (concentrate)
+
+[[Actions/Set Explosives]]
+
+[[PF2e Journals/Archetypes/Demolitionist|Demolitionist]]
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

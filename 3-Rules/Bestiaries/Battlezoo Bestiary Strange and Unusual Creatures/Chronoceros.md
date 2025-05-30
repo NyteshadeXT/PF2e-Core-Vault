@@ -33,7 +33,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +13, Athletics: +17, Survival: +15, Acrobatics: +13, Athletics: +17, Survival: +15"
+    desc: "Acrobatics: +13, Athletics: +17, Survival: +15"
 abilityMods: [6, 2, 4, 0, 2, -2]
 speed: 35 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +18 ()\n__Damage__  2d10 + 9 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+18 ()\n__Damage__  2d10 + 9 piercing"
 
   - name: "Chronoceros Charge"
     desc: "`pf2:2` (occult) **Requirements** The chronoceros has its All-Seeing Eyes open\n* * *\n\n**Effect** The chronoceros Strides twice, then makes a horn Strike. As long as the Chronoceros moved at least 20 feet, the Strike's damage increases by 1d10. The chronoceros's movement doesn't trigger reactions based on movement (such as Attack of Opportunity). The chronoceros then takes 1d6 mental damage."

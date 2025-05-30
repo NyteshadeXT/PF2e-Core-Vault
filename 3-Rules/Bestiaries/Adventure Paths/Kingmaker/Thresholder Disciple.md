@@ -72,14 +72,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +29 (agile, magical, unarmed)\n__Damage__  3d6 mental 2d6 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+29 (agile, magical, unarmed)\n__Damage__  3d6 mental 2d6 + 11 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Lurker Claw +29 (forceful, magical, parry, unarmed)\n__Damage__  2d12 + 11 slashing 3d6 mental"
+  - name: "**Melee** `pf2:1` Lurker Claw"
+    desc: "+29 (forceful, magical, parry, unarmed)\n__Damage__  2d12 + 11 slashing 3d6 mental"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shuriken +28 (agile, reload 0, thrown 20 ft.)\n__Damage__  3d6 mental 1d4 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Shuriken"
+    desc: "+28 (agile, reload 0, thrown 20 ft.)\n__Damage__  3d6 mental 1d4 + 11 piercing"
 
   - name: "Flurry of Blows"
     desc: "`pf2:1` (flourish) **Frequency** Once per turn\n* * *\n\n**Effect** The disciple makes two unarmed Strikes. If both hit the same creature, combine their damages for the purposes of resistances and weaknesses. The disciple's multiple attack penalty applies normally to these Strikes."

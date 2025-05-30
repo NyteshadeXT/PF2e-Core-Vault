@@ -4,8 +4,9 @@ title: "Spell Effect: Endure"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/
+  - remaster
 aliases: "Compendium.pf2e.spell-effects.Item.AAypmg9Jz6Ysf02a"
-license: OGL
+license: ORC
 ---
 # Spell Effect: Endure
 ## Level 1
@@ -16,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Endure|Endure]]
+Granted by [[Spells/Endure|Endure]]
 
-You grant the touched creature temporary Hit Points.
+You gain temporary Hit Points.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
-*OGL*
+*Source: Pathfinder Lost Omens Divine Mysteries*
+*ORC*

@@ -25,5 +25,5 @@ license: OGL
 
 Through divine intervention or whispered prayers, you foil an enemy's response. If the triggering creature's level is equal to or lower than yours, you disrupt the triggering reaction. If the triggering creature's level is higher than yours, you must make an attack roll or spell attack roll against its AC (your choice). On a success, you disrupt the reaction.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

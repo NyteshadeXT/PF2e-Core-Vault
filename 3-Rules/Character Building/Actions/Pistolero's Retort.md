@@ -4,10 +4,11 @@ title: "Pistolero's Retort"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/gunslinger
-  - trait/common
+  - trait/
   - category/offensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.bCDMuu3tE4d6KHrJ"
-license: OGL
+license: ORC
 ---
 # Pistolero's Retort `pf2:r`
 
@@ -27,4 +28,4 @@ license: OGL
 You punish your foe's failure with a shot. Make a Strike against the triggering foe with a one-handed firearm or one-handed crossbow.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

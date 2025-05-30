@@ -58,6 +58,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 5 (Deactivated by Holy)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Dominating Will"
     desc: " (aura,divine,fear,mental) 10 feet. A creature that enters the area must attempt a DC 30 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 3d6 spirit damage.\n\n**Failure** The creature takes 6d6 spirit damage and is [[Conditions/Frightened|Frightened 1]] for 1 round.\n\n**Critical Failure** The creature takes 12d6 spirit damage and is frightened 1 as long as the portal to the Abyss remains open."
 
@@ -65,13 +68,13 @@ abilities_mid:
     desc: "  The hand of Urxehl begins with 4 fingers embedded outside of the rift. At the beginning of the encounter, the hand is [[Conditions/Quickened|Quickened 1]], and can use this additional action to make grasping claw Strikes. For every 60 damage the hand of Urxehl takes, one of these fingers recedes and the hand loses 1 action, first losing the quickened condition, then becoming [[Conditions/Slowed|Slowed 1]] and [[Conditions/Slowed|Slowed 2]] before being defeated at 0 Hit Points."
 
   - name: "Thrash About"
-    desc: "`pf2:r`  **Trigger** The hand takes enough damage to lose an action\n\n/n\n* * *\n\n**Effect** the hand thrashes about in pain, causing a minor earthquake. Creatures within 60 feet of the portal must succeed at a DC 30 Reflex check save or be knocked [[Conditions/Prone|Prone]]."
+    desc: "`pf2:r`  **Trigger** The hand takes enough damage to lose an action\n* * *\n\n**Effect** the hand thrashes about in pain, causing a minor earthquake. Creatures within 60 feet of the portal must succeed at a DC 30 Reflex check save or be knocked [[Conditions/Prone|Prone]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Grasping Claw +22 (agile, reach 1,000 feet, unholy)\n__Damage__  2d12 + 22 slashing"
+  - name: "**Melee** `pf2:1` Grasping Claw"
+    desc: "+22 (agile, reach 1,000 feet, unholy)\n__Damage__  2d12 + 22 slashing"
  
 ```
 

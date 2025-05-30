@@ -4,14 +4,14 @@ title: "Harvest Heartsliver"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/manipulate
-  - trait/rare
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.h4Tzdhqfryp5m2fO"
 license: OGL
 ---
 # Harvest Heartsliver `pf2:r`
 
-### [rare](rare.md "Rare Rarity Trait")[[3-Rules/Rule References/Manipulate]]
+### [[manipulate]]
 
 **Category** offensive; 
 
@@ -34,5 +34,5 @@ You attempt to steal a section of Kothogaz's heart. Attempt an attack roll or a 
 
 **Critical Failure** You take double Kothogaz's Swallow Whole damage and are [[Conditions/Deafened|Deafened]] by its heartbeat for 1 minute.
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

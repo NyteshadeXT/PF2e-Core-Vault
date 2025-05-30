@@ -51,24 +51,24 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Greataxe|Greataxe]], [[Bestiary 1/Hill Giant/Sack for Holding Rocks|Sack for Holding Rocks]], 5x [[Bestiary 1/Hill Giant/Rock|Rock]]"
   - name: "White Hairs"
-    desc: "  An ohancanu has [[/gmr 2d4 #White Hairs]] white hairs that are connected to its essence. If a hair is plucked, the ohancanu gains the [[Conditions/Drained|Drained 1]] condition. This is cumulative with other drained conditions, and if plucking a hair would increase their drained value to 5 or more, the ohancanu falls [[Conditions/Unconscious|Unconscious]]. A creature can [[Actions/Steal|Steal]] a white hair from an unaware ohancanu, though they always notice a successful theft. If an ohancanu is [[Conditions/Grabbed|Grabbed]], [[Conditions/Restrained|Restrained]], or [[Conditions/Stunned|Stunned]], a creature can attempt to pluck out a white hair by spending a single action, which has the attack and manipulate traits, to attempt either an Athletics check against the ohancanu's Fortitude DC or a Thievery check."
+    desc: "  An ohancanu has 2d4 white hairs that are connected to its essence. If a hair is plucked, the ohancanu gains the [[Conditions/Drained|Drained 1]] condition. This is cumulative with other drained conditions, and if plucking a hair would increase their drained value to 5 or more, the ohancanu falls [[Conditions/Unconscious|Unconscious]]. A creature can [[Actions/Steal|Steal]] a white hair from an unaware ohancanu, though they always notice a successful theft. If an ohancanu is [[Conditions/Grabbed|Grabbed]], [[Conditions/Restrained|Restrained]], or [[Conditions/Stunned|Stunned]], a creature can attempt to pluck out a white hair by spending a single action, which has the attack and manipulate traits, to attempt either an Athletics check against the ohancanu's Fortitude DC or a Thievery check."
 
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Catch Rock|Catch Rock]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Requirements** The monster must have a free hand but can [[Actions/Release|Release]] anything it's holding as part of this reaction.\n\n**Trigger** The monster is targeted with a thrown rock Strike or a rock would fall on the monster.\n* * *\n\n**Effect** The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +15 (reach 10 feet, sweep)\n__Damage__  1d12 + 8 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+15 (reach 10 feet, sweep)\n__Damage__  1d12 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +15 (agile, reach 10 feet)\n__Damage__  1d8 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+15 (agile, reach 10 feet, unarmed)\n__Damage__  1d8 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +13 (brutal, range increment 120 feet)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+13 (brutal, range increment 120 feet)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Denuded Outrage"
     desc: "`pf2:r`  **Trigger** A creature plucks one of the ohancanu's white hairs\n* * *\n\n**Effect** The ohancanu makes a fist Strike against the triggering creature. If the ohancanu is [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]], they can instead attempt to [[Actions/Escape|Escape]]."
@@ -77,7 +77,7 @@ attacks:
     desc: "`pf2:2`  The ohancanu strides twice. If they end their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
  
 ```
 

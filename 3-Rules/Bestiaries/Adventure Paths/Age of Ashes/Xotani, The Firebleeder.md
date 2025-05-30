@@ -56,14 +56,17 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 25]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Firebleed"
-    desc: "`pf2:r` (fire) **Trigger** Xotani is damaged\n* * *\n\n**Effect** Xotani's wound erupts with magma in a @Template[cone|distance:30], dealing 6d8 fire damage and 6d8 persistent fire damage (DC 42 Reflex check save)."
+    desc: "`pf2:r` (fire) **Trigger** Xotani is damaged\n* * *\n\n**Effect** Xotani's wound erupts with magma in a 30-foot cone, dealing 6d8 fire damage and 6d8 persistent fire damage (DC 42 Reflex check save)."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 300 feet. DC 39 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 300 feet. DC 39 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
   - name: "Light Blindness"
     desc: "  Xotani's light blindness is caused by only sunlight."
@@ -74,26 +77,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +38 (reach 20 feet)\n__Damage__  5d10 + 8 piercing 2d10 fire"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+38 (reach 20 feet, unarmed)\n__Damage__  5d10 + 8 piercing 2d10 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +38 (agile, reach 20 feet)\n__Damage__  5d8 + 8 slashing 2d8 fire"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+38 (agile, reach 20 feet, unarmed)\n__Damage__  5d8 + 8 slashing 2d8 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Lava Bomb +38 (range increment 80 feet)\n__Damage__  2d10 + 8 bludgeoning 2d10 fire"
+  - name: "**Ranged** `pf2:1` Lava Bomb"
+    desc: "+38 (range increment 80 feet)\n__Damage__  2d10 + 8 bludgeoning 2d10 fire"
 
   - name: "Bomb Barrage"
     desc: "`pf2:2`  Xotani makes three lava bomb Strikes. These Strikes can be made against the same creature or different creatures, as long as all targets are within 40 feet of each other."
 
   - name: "Breath Weapon"
-    desc: "`pf2:2` (arcane,fire) Xotani breathes a blast of flame that deals 18d6 fire damage plus 4d6 persistent fire damage to all creatures in a @Template[cone|distance:70] (DC 42 Reflex check save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,fire) Xotani breathes a blast of flame that deals 18d6 fire damage plus 4d6 persistent fire damage to all creatures in a 70-foot cone (DC 42 Reflex check save).\n\nIt can't use Breath Weapon again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]"
-    desc: "`pf2:1` (attack) Huge, 8d6+8 bludgeoning + 12d6 fire, Rupture 35\n\n* * *\n"
+    desc: "`pf2:1` (attack) Huge, 8d6+8 bludgeoning + 12d6 fire, Rupture 35\n* * *\n\nThe monster attempts to swallow a creature of the listed size or smaller that it has grabbed or restrained in its jaws or mouth. If a swallowed creature is of the maximum size listed, the monster can't use Swallow Whole again. If the creature is smaller than the maximum, the monster can usually swallow more creatures; the GM determines the maximum. The monster attempts an Athletics check check opposed by the grabbed creature's Reflex DC. If it succeeds, it swallows the creature. The monster's mouth or jaws no longer grab a creature it has swallowed, so the monster is free to use them to Strike or Grab once again. The monster can't attack creatures it has swallowed.\n\nA swallowed creature is [[Conditions/Grabbed|Grabbed]], is [[Conditions/Slowed|Slowed 1]], and has to hold its breath or start suffocating. The swallowed creature takes the listed amount of damage when first swallowed and at the end of each of its turns while it's swallowed. If the victim [[Actions/Escape|Escapes]] this ability's grabbed condition, it exits through the monster's mouth. This frees any other creature grabbed in the monster's mouth or jaws. A swallowed creature can attack the monster that has swallowed it, but only with unarmed attacks or with weapons of light Bulk or less. The swallowing creature is [[Conditions/Off-Guard|Off-Guard]] against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the swallowed creature cuts itself free. A creature that gets free by either Escaping or cutting itself free can immediately breathe and exits the swallowing monster's space.\n\n[[Bestiary Effects/Effect_ Engulf and Swallow Whole|Effect: Engulf and Swallow Whole]]\n\nIf the monster dies, a swallowed creature can be freed by creatures adjacent to the corpse if they spend a combined total of 3 actions cutting the monster open with a weapon or unarmed attack that deals piercing or slashing damage."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, claw, DC 42 Reflex check save. When Xotani Tramples, it can Stride up to triple its Speed.\n\n* * *\n"
+    desc: "`pf2:3`  Huge or smaller, claw, DC 42 Reflex check save. When Xotani Tramples, it can Stride up to triple its Speed.\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
  
 ```
 

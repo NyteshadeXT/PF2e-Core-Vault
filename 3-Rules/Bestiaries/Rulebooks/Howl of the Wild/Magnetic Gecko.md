@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +7 ()\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+7 (unarmed)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +7 (electricity, finesse, reach 10 feet)\n__Damage__  2d4 electricity plus static-cling"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+7 (electricity, finesse, reach 10 feet)\n__Damage__  2d4 electricity plus static-cling"
 
   - name: "Launch Metal"
-    desc: "`pf2:2`  The gecko repulses the metal attached to its body in all directions, dealing 2d6 bludgeoning damage (DC 17 Reflex check save) to all creatures in a @Template[emanation|distance:10]. The gecko can't use Launch Metal again for 1d4 rounds."
+    desc: "`pf2:2`  The gecko repulses the metal attached to its body in all directions, dealing 2d6 bludgeoning damage (DC 17 Reflex check save) to all creatures in a 10-foot emanation. The gecko can't use Launch Metal again for 1d4 rounds."
 
   - name: "Repel"
     desc: "`pf2:1`  The gecko manipulates its magnetic field to repel metal, humming audibly and gaining resistance 2 to damage from metal weapons and metal effects until the beginning of its next turn."

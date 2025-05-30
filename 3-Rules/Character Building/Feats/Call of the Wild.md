@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You call upon the creatures of nature to come to your aid. You can spend 10 minutes in concert with nature to replace a spell you've prepared in one of your druid spell slots with a [[Summon Animal|Summon Animal]] or [[Summon Plant or Fungus|Summon Plant or Fungus]] spell of the same rank.
+You call upon the creatures of nature to come to your aid. You can spend 10 minutes in concert with nature to replace a spell you've prepared in one of your druid spell slots with a [[Spells/Summon Animal|Summon Animal]] or [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] spell of the same rank.
 
 *Source: Pathfinder Player Core*
 *ORC*

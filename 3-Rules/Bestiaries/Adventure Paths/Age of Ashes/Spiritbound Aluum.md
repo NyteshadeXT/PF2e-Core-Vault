@@ -55,13 +55,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +33 (magical)\n__Damage__  3d10 + 17 bludgeoning plus paralyzing-force"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+33 (magical, unarmed)\n__Damage__  3d10 + 17 bludgeoning plus paralyzing-force"
 
   - name: "Arcane Innate Spells"
     desc: "DC 38, attack +28; __9th __  _[[Spells/Seize Soul|Bind Soul (x3)]]_; __5th __  _[[Spells/Locate|Locate]]_"
@@ -70,7 +70,7 @@ attacks:
     desc: "  Spiritbound aluums are immune to spells and magical abilities, with two exceptions. A void spell or magical ability grants a spiritbound aluum the [[Conditions/Quickened|Quickened]] condition until the end of its next turn instead of its normal effects. A vitality spell or ability makes a spiritbound aluum [[Conditions/Slowed|Slowed 1]] until the end of its next turn instead of its normal effects."
 
   - name: "Obliteration Beam"
-    desc: "`pf2:2` (arcane,force) **Requirements** The spiritbound aluum has bound a soul using its [[Spells/Seize Soul|Seize Soul]] innate spell\n* * *\n\n**Effect** The spiritbound aluum transforms the captured soul's essence into raw magical energy, channeling the spirit into a beam that deals 20d6 force damage in a @Template[line|distance:30] (DC 38 Reflex check save). The remaining fragments of the captured soul are released to the Great Beyond.\n\nThe spiritbound aluum can't use Obliteration Beam again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,force) **Requirements** The spiritbound aluum has bound a soul using its [[Spells/Seize Soul|Seize Soul]] innate spell\n* * *\n\n**Effect** The spiritbound aluum transforms the captured soul's essence into raw magical energy, channeling the spirit into a beam that deals 20d6 force damage in a 30-foot line (DC 38 Reflex check save). The remaining fragments of the captured soul are released to the Great Beyond.\n\nThe spiritbound aluum can't use Obliteration Beam again for 1d4 rounds."
 
   - name: "Paralyzing Force"
     desc: " (arcane,incapacitation) A creature damaged by the Spiritbound Aluum's fist Strike must succeed at a DC 35 Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]] for 1 round. On a critical failure, the creature is [[Conditions/Paralyzed|Paralyzed]] for 1d4 minutes and falls [[Conditions/Prone|Prone]]."
@@ -79,7 +79,7 @@ attacks:
     desc: "  When a spiritbound aluum uses its [[Spells/Seize Soul|Seize Soul]] innate spell, it binds the soul into its central crystal instead of the normal material component. The crystal can hold up to 60 souls.\n\nWhen encountered, a spiritbound aluum's crystal typically contains 1d6 souls."
 
   - name: "Soul Shriek"
-    desc: "`pf2:2` (arcane,auditory,mental,sonic) The aluum enforcer emits a keening wail in a @Template[cone|distance:15] that deals 16d6 sonic damage (DC 27 Fortitude check save). A creature that fails its save is [[Conditions/Stunned|Stunned 1]], or [[Conditions/Stunned|Stunned 3]] on a critical failure.\n\nThe aluum can't use Soul Shriek again for 1d4 rounds."
+    desc: "`pf2:2` (arcane,auditory,mental,sonic) The aluum enforcer emits a keening wail in a 15-foot cone that deals 16d6 sonic damage (DC 27 Fortitude check save). A creature that fails its save is [[Conditions/Stunned|Stunned 1]], or [[Conditions/Stunned|Stunned 3]] on a critical failure.\n\nThe aluum can't use Soul Shriek again for 1d4 rounds."
  
 ```
 
@@ -97,4 +97,4 @@ A spiritbound aluum has a dull blue crystalline focus that stores constituent so
 
 * * *
 
-Aluums are powerful metal and stone constructs originally created by the Pactmasters to maintain order in Katapesh. The construction of each aluum includes the creation of an _[[3-Rules/Character Building/Equipment/A/Aluum Charm|Aluum Charm]]_, a brass pendant set with a blue crystal designed to control that particular construct. The charm constructed at the same time as an aluum is called its linked charm.
+Aluums are powerful metal and stone constructs originally created by the Pactmasters to maintain order in Katapesh. The construction of each aluum includes the creation of an _[[Equipment/Aluum Charm|Aluum Charm]]_, a brass pendant set with a blue crystal designed to control that particular construct. The charm constructed at the same time as an aluum is called its linked charm.

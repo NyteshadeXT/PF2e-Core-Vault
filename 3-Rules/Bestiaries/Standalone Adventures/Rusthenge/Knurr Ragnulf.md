@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +10 (magical, shove)\n__Damage__  1d8 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+10 (magical, shove)\n__Damage__  1d8 + 5 bludgeoning"
 
   - name: "Intimidating Strike"
     desc: "`pf2:2` (emotion,fear,mental) Knurr makes a melee Strike while roaring Xar-Azmak's name. If he hits and deals damage, the target is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit."

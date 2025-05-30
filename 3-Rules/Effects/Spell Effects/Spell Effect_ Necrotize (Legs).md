@@ -16,7 +16,9 @@ license: OGL
 
 
 
-The target's legs necrotize, as well as any other limbs associated with forms of movement, making it harder for the creature to move. The target takes a -10-foot status penalty to its Speeds.
+Granted by [[Spells/Necrotize|Necrotize]]
+
+You take a -10-foot status penalty to its Speeds.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

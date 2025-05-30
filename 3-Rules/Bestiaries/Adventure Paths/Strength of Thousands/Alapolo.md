@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shadow Claw +33 (agile, finesse, magical, reach 10 feet)\n__Damage__  3d10 + 15 slashing"
+  - name: "**Melee** `pf2:1` Shadow Claw"
+    desc: "+33 (agile, finesse, magical, reach 10 feet)\n__Damage__  3d10 + 15 slashing"
 
   - name: "Enticing Invitation"
     desc: "`pf2:2` (incapacitation,mental,primal) The alapolo whispers an invitation to a creature within 30 feet. The creature must attempt a DC 38 Will check save.\n* * *\n\n**Critical Success** The target is unaffected and temporarily immune to all Enticing Invitations for 24 hours.\n\n**Success** The target must spend 1 action on its next turn dancing in place.\n\n**Failure** The target becomes [[Conditions/Drained|Drained 1]]. It is also [[Conditions/Fascinated|Fascinated]] by the alapolo for 1 minute and can't attack the alapolo as long as it's fascinated. While fascinated, the target must spend 2 actions on each of its turns dancing in place.\n\n**Critical Failure** As failure, except the target is [[Conditions/Drained|Drained 3]] and must spend 3 actions on each of its turns dancing in place."

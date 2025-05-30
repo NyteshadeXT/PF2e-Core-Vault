@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Lay Down Arms"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.x1qSEkzHAviQ5jry"
 license: OGL

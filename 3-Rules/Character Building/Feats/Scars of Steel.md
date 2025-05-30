@@ -13,7 +13,7 @@ license: ORC
 ---
 # Scars of Steel `pf2:r`
 ## Feat 4
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

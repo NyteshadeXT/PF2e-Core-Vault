@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +14 ()\n__Damage__  2d8 + 4 piercing plus grab"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+14 (unarmed)\n__Damage__  2d8 + 4 piercing plus grab"
 
   - name: "Fetch"
     desc: "`pf2:1` (attack,move) **Requirements** The damibwa has a Small or smaller creature grabbed in water\n* * *\n\n**Effect** The damibwa attempts an Athletics check check against the creature's Fortitude DC.\n* * *\n\n**Critical Success** The damibwa moves up to its swim Speed, dragging the [[Conditions/Grabbed|Grabbed]] creature along with it.\n\n**Success** The damibwa moves up to half its swim Speed, dragging the grabbed creature along with it.\n\n**Failure** The damibwa doesn't move and the creature isn't dragged.\n\n**Critical Failure** The damibwa no longer has the creature grabbed."
@@ -69,7 +69,7 @@ attacks:
     desc: "`pf2:2` (move) **Requirements** The damibwa is in or adjacent to water\n* * *\n\n**Effect** The damibwa moves up to double its swim Speed, descending at least 10 feet, and then makes a jaws Strike. If it was [[Conditions/Undetected|Undetected]] at the start of predatory dive, it remains undetected until after the attack."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

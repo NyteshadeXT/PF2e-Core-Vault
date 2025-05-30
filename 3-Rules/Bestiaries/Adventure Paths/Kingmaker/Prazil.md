@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +13 (shove)\n__Damage__  1d8 + 3 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+13 (shove)\n__Damage__  1d8 + 3 bludgeoning"
 
   - name: "Hurried Retreat"
     desc: "`pf2:1`  **Requirements** The kobold warrior is adjacent to at least one enemy.\n* * *\n\n**Effect** The kobold warrior Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy."

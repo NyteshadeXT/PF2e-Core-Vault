@@ -57,14 +57,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +16 ()\n__Damage__  2d10 + 6 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+16 (unarmed)\n__Damage__  2d10 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile, finesse)\n__Damage__  2d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile, finesse, unarmed)\n__Damage__  2d6 + 6 slashing"
 
   - name: "Breath Weapon"
-    desc: "`pf2:1` (arcane) The i'iko dragon breathes a spray of jagged glass shards that deals 7d6 piercing damage in a @Template[cone|distance:15] (DC 24 Reflex check save). They can't use Breath Weapon again for 1d4 rounds."
+    desc: "`pf2:1` (arcane) The i'iko dragon breathes a spray of jagged glass shards that deals 7d6 piercing damage in a 15-foot cone (DC 24 Reflex check save). They can't use Breath Weapon again for 1d4 rounds."
 
   - name: "Cunning Capsize"
     desc: "`pf2:1` (attack) The i'iko dragon attempts to capsize an aquatic vessel of Medium size or smaller that they're on or adjacent to. They must succeed at an DC 25 Athletics check check with a DC of 25 or the pilot's Sailing Lore DC, whichever is higher."

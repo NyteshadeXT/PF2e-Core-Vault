@@ -55,7 +55,7 @@ attacks:
     desc: "`pf2:r` **Trigger** A creature other than the monolith's guardians approaches within 40 feet of the monolith\n* * *\n\n**Effect** the flames wreathing the monolith flare with incandescent light. The triggering creature must attempt a DC 20 Fortitude check save.\n\nOn a failure, the creature is [[Conditions/Dazzled|Dazzled]] for one round.\n\nOn a critical failure, the creature is [[Conditions/Blinded|Blinded]] for one round, then dazzled for one round.\n\nThe hazard rolls initiative."
 
   - name: "Routine"
-    desc: "(1 action) On the hazard's turn, randomly select a PC within 40 feet of the monolith. A tree near that PC explodes in a @Template[burst|distance:10], dealing 2d6 piercing damage and 2d6 fire damage. Each creature in the area must attempt a DC 20 Reflex check save.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Blinded|Blinded]] for 1 round."
+    desc: "(1 action) On the hazard's turn, randomly select a PC within 40 feet of the monolith. A tree near that PC explodes in a 10-foot burst, dealing 2d6 piercing damage and 2d6 fire damage. Each creature in the area must attempt a DC 20 Reflex check save.\n* * *\n\n**Critical Success** The creature takes no damage.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and is [[Conditions/Dazzled|Dazzled]] for 1 round.\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Blinded|Blinded]] for 1 round."
 
 ```
 

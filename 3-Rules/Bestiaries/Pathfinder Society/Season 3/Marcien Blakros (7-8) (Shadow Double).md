@@ -70,11 +70,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +10 (magical, two-hand d8)\n__Damage__  2d4 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+10 (magical, two-hand d8)\n__Damage__  2d4 + 8 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Backbiter +14 (concealable, concussive, fatal d10, magical)\n__Damage__  2d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Backbiter"
+    desc: "+14 (concealable, concussive, fatal d10, magical)\n__Damage__  2d6 + 8 piercing"
  
 ```
 

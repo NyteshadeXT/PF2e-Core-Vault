@@ -7,14 +7,14 @@ tags:
   - trait/illusion
   - trait/occult
   - trait/visual
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.CPTolKAF55p7D7Sn"
 license: OGL
 ---
 # Mirror-Trickery `pf2:r`
 
-### [[3-Rules/Rule References/Concentrate]][[illusion]][[3-Rules/Rule References/Occult]][[visual]]
+### [[concentrate]][[illusion]][[occult]][[visual]]
 
 **Category** defensive; 
 

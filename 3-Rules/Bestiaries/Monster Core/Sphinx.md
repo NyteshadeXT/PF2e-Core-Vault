@@ -53,13 +53,16 @@ abilities_top:
   - name: "Bardic Lore"
     desc: "  Sphinxes are naturally curious, and their love of puzzles and mysteries leads them to gather information on a broad range of topics. Sphinxes have Bardic Lore, a special Lore skill that can be used only to Recall Knowledge, but on any topic."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile)\n__Damage__  2d6 + 9 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, unarmed)\n__Damage__  2d6 + 9 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 27, attack +19; __4th __  _[[Spells/Clairaudience|Clairaudience (At Will)]]_, _[[Spells/Clairvoyance|Clairvoyance (At Will)]]_, _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Read Omens|Read Omens]]_; __3rd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Locate|Locate]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_ __(2nd)__ _[[Spells/See the Unseen|See the Unseen]]_"

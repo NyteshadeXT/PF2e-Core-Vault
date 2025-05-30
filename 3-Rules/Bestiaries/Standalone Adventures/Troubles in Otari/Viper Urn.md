@@ -52,7 +52,7 @@ attacks:
   - name: ""
 
   - name: "Topple"
-    desc: "`pf2:r` When someone pulls the trip wire, the urn smashes against a creature in the doorway, making a shattering urn Strike against that creature, then releases a [[Bestiary 1/Viper|Viper]] into the square that contained the trap. The viper attacks any non-plant creature it detects."
+    desc: "`pf2:r` When someone pulls the trip wire, the urn smashes against a creature in the doorway, making a shattering urn Strike against that creature, then releases a [[Monster Core/Viper|Viper]] into the square that contained the trap. The viper attacks any non-plant creature it detects."
   - name: "Melee"
     desc: "Shattering Urn +12 (deadly d10) "
 

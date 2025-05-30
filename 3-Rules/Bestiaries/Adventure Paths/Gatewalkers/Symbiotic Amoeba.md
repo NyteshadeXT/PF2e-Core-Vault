@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +13 ()\n__Damage__  2d4 acid"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+13 (unarmed)\n__Damage__  2d4 acid"
 
   - name: "Symbiotic Amoeba"
     desc: "  An amoeba produced by the [[Gatewalkers/Amelekana|Amelekana]] is a Tiny, mindless, semi-independent creature controlled by the amelekana. It has the minion trait, AC 15, 1 Hit Point, and the same skills and saving throws as the amelekana. Each round, the amelekana can Command a Minion to make an amoeba Step or Swim 20 feet and make a pseudopod Strike (Melee pseudopod +13, Damage 2d4 acid). If an amelekana is killed, its symbiotic amoebas are also killed by the host creature's psychic backlash. An amelekana can have up to three extant symbiotic amoebas at a time."

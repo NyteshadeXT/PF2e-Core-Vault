@@ -69,8 +69,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +19 (magical, sweep)\n__Damage__  2d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+19 (magical, sweep)\n__Damage__  2d8 + 7 slashing"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 26, attack +18; __4th __ (3 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_, _[[Spells/Weapon Storm|Weapon Storm]]_; __3rd __ (3 slots) _[[Spells/Fireball|Fireball]]_, _[[Spells/Levitate|Levitate]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Force Barrage|Magic Missile]]_\n__Cantrips__  __(4th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Shield|Shield]]_"

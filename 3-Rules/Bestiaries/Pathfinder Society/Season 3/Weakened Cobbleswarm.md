@@ -53,13 +53,16 @@ abilities_top:
   - name: ""
 
   - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Precise) 40 feet, (Imprecise) 80 feet]]"
-    desc: "  A cobbleswarm's tremorsense is a precise sense out to 40 feet and an imprecise sense out to 80 feet. A cobbleswarm can't sense anything beyond the range of its tremorsense.\n\n* * *\n"
+    desc: "  A cobbleswarm's tremorsense is a precise sense out to 40 feet and an imprecise sense out to 80 feet. A cobbleswarm can't sense anything beyond the range of its tremorsense.\n* * *\n\nTremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
 
   - name: "Clutching Cobbles"
     desc: "  The cobbleswarm's space is difficult terrain."
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Swarm Mind|Swarm Mind]]"
+    desc: "  This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
+
 attacks:
   - name: ""
 

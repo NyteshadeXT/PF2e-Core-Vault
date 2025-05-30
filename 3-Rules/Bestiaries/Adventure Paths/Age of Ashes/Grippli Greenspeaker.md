@@ -59,14 +59,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +11 (two-hand d8)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+11 (two-hand d8)\n__Damage__  1d4 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dart +13 (agile, thrown 20 ft.)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dart"
+    desc: "+13 (agile, thrown 20 ft.)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Primal Prepared Spells"
-    desc: "DC 23, attack +13; __2nd __  _[[Spells/Animal Form|Animal Form]]_, _[[Spells/Oaken Resilience|Barkskin]]_, _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Speak with Animals|Speak with Animals]]_; __1st __  _[[Spells/Jump|Jump]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_, _[[Spells/Shillelagh|Shillelagh]]_, _[[Spells/Summon Plant or Fungus|Summon Plant or Fungus]]_\n__Cantrips__  __(3rd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 23, attack +13; __2nd __  _[[Spells/Animal Form|Animal Form]]_, _[[Spells/Oaken Resilience|Barkskin]]_, _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Speak with Animals|Speak with Animals]]_; __1st __  _[[Spells/Jump|Jump]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_, _[[Spells/Shillelagh|Shillelagh]]_, _[[Spells/Summon Plant or Fungus|Summon Plant or Fungus]]_\n__Cantrips__  __(3rd)__ _[[Spells/Acid Splash|Acid Splash]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Jungle Stride"
     desc: "  A grippli ignores difficult terrain in forests and jungles."

@@ -37,6 +37,6 @@ abilities_top:
     desc: "1 minute"
 abilities_mid:
   - name: ""
-    desc: "Your animal companion grows much larger, towering over its foes in battle. Your animal companion becomes Large, gaining the effects of a 2nd-rank [[Spells/Enlarge|Enlarge]] spell.\n* * *\n\n**Heightened (4th)** Your animal companion instead becomes Huge, gaining the benefits of a 4th-rank _enlarge_ spell"
+    desc: "Your animal companion grows much larger, towering over its foes in battle. Your animal companion becomes Large, gaining the effects of a 2nd-rank [[Spells/Enlarge|Enlarge]] spell.\n\n[[Spell Effects/Spell Effect_ Enlarge Companion|Spell Effect: Enlarge Companion]]\n* * *\n\n**Heightened (4th)** Your animal companion instead becomes Huge, gaining the benefits of a 4th-rank _enlarge_ spell"
 sourcebook: "_Pathfinder Player Core_"
 ```

@@ -6,7 +6,7 @@ tags:
   - trait/
   - remaster
 aliases: "Compendium.pf2e.spell-effects.Item.vhFnQBvguBXo6vxx"
-license: OGL
+license: ORC
 ---
 # Spell Effect: Repel Metal
 ## Level 4
@@ -17,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Repel Metal|Repel Metal]]
+Granted by [[Spells/Repel Metal|Repel Metal]]
 
-The target gains a +2 circumstance bonus to AC against the triggering attack.
+You gain a +2 circumstance bonus to AC against the triggering attack.
 
-*Source: Pathfinder Rage of Elements*
-*OGL*
+*Source: Pathfinder Lost Omens Divine Mysteries*
+*ORC*

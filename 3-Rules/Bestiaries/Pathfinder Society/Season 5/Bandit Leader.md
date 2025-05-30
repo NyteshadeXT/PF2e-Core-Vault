@@ -58,17 +58,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sap +13 (agile, nonlethal)\n__Damage__  1d6 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Sap"
+    desc: "+13 (agile, nonlethal)\n__Damage__  1d6 + 5 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Naval Pike +11 ()\n__Damage__  1d6 + 5 piercing"
+  - name: "**Melee** `pf2:1` Naval Pike"
+    desc: "+11 ()\n__Damage__  1d6 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +13 (agile, finesse, versatile s)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+13 (agile, finesse, versatile s)\n__Damage__  1d4 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Naval Pike +13 (thrown 20 ft.)\n__Damage__  1d6 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Naval Pike"
+    desc: "+13 (thrown 20 ft.)\n__Damage__  1d6 + 5 piercing"
 
   - name: "Leader's Command"
     desc: "`pf2:1` (auditory,concentrate,emotion,linguistic,mental) **Frequency** once per round\n* * *\n\n**Effect** The leader orders an ally to attack or to get in position. Until the end of the ally's next turn, they gain the leader's choice of a +2 status bonus to attack rolls or a +10-foot status bonus to their Speeds.\n\n[[Bestiary Effects/Effect_ Leader's Command|Effect: Leader's Command]]"

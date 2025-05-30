@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +9 (two-hand d8)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+9 (two-hand d8)\n__Damage__  1d4 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Longbow +11 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Composite Longbow"
+    desc: "+11 (deadly d10, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  1d8 + 3 piercing"
 
   - name: "Hunt Prey"
     desc: "`pf2:1` (concentrate) The elven tracker designates a single creature they can see and hear, or one they're Tracking, as their prey. The elven tracker gains a +2 circumstance bonus to Perception checks to [[Actions/Seek|Seek]] the prey and to Survival checks to [[Actions/Track|Track]] the prey. The first time the elven tracker hits the designated prey in a round, they deal an additional 1d8 precision damage. The elven tracker also ignores the penalty for making ranged attacks within their second range increment. These effects last until the elven tracker uses Hunt Prey again."

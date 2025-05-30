@@ -56,6 +56,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
 abilities_mid:
   - name: ""
   - name: "Maternal Aura"
@@ -67,11 +70,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hug +10 (unholy)\n__Damage__  2d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Hug"
+    desc: "+10 (unholy)\n__Damage__  2d4 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Stern Look +10 (range increment 30 feet, unholy)\n__Damage__  1d10 + 3 fire"
+  - name: "**Ranged** `pf2:1` Stern Look"
+    desc: "+10 (range increment 30 feet, unholy)\n__Damage__  1d10 + 3 fire"
 
   - name: "Ground Target"
     desc: "`pf2:3`  The demom narrows its eyes at a target and declares \"You're grounded!\" The target creature must attempt a DC 18 Will check save; on a failure, it must lay down its weapons, set up camp, and sit in its tent."

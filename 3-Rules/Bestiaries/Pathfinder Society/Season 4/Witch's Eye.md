@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +7 (agile, finesse, versatile s)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+7 (agile, finesse, versatile s)\n__Damage__  1d6 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +7 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+7 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "Bloodletting"
     desc: "  When the witch's eye deals piercing or slashing damage to an [[Conditions/Off-Guard|Off-Guard]] target, they also deal 1 persistent bleed damage."

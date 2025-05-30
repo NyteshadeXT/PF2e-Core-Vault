@@ -6,14 +6,14 @@ tags:
   - trait/concentrate
   - trait/emotion
   - trait/mental
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.EhLvRWFKhZ3HtrZO"
 license: OGL
 ---
 # Settle Emotions
 
-### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Emotion]][[3-Rules/Rule References/Mental]]
+### [[concentrate]][[emotion]][[mental]]
 
 **Category** interaction; 
 

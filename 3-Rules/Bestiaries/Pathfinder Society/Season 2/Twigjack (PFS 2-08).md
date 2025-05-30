@@ -57,19 +57,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Ferocity|Ferocity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** The monster is reduced to 0 HP.\n* * *\n\n**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is Wounded 3, it can no longer use this ability"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile, finesse)\n__Damage__  1d10 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, finesse, unarmed)\n__Damage__  1d10 + 4 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Splinter +11 (deadly d6, range increment 30 feet)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Splinter"
+    desc: "+11 (deadly d6, range increment 30 feet)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Splinter Spray"
-    desc: "`pf2:2`  The twigjack sprays a barrage of splinters and brambles from its body in a @Template[cone|distance:15], dealing 4d6 piercing damage(DC 20 Reflex check save).\n\nIt can't use Splinter Spray again for 1d4 rounds."
+    desc: "`pf2:2`  The twigjack sprays a barrage of splinters and brambles from its body in a 15-foot cone, dealing 4d6 piercing damage(DC 20 Reflex check save).\n\nIt can't use Splinter Spray again for 1d4 rounds."
  
 ```
 

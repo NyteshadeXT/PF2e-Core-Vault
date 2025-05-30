@@ -69,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mirror Hand +27 (agile, finesse, magical)\n__Damage__  3d6 + 11 slashing 2d6 bleed"
+  - name: "**Melee** `pf2:1` Mirror Hand"
+    desc: "+27 (agile, finesse, magical)\n__Damage__  3d6 + 11 slashing 2d6 bleed"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mirror Dart +27 (magical, range increment 30 feet)\n__Damage__  3d6 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Mirror Dart"
+    desc: "+27 (magical, range increment 30 feet)\n__Damage__  3d6 + 11 piercing"
 
   - name: "Blood-Fueled Titter"
-    desc: "  If the shatterling attempts an Intimidation check to [[Actions/Demoralize|Demoralize]] a target within 30 feet of a creature with persistent bleed damage, the shatterling has +4 circumstance bonus to the Intimidation check. In addition, the shatterling takes no penalty to the check for not speaking a language the target can hear, and the target isn't temporarily immune to the shatterling's attempts to Demoralize it unless the shatterling critically fails its Intimidation check."
+    desc: "  If the shatterling attempts an Intimidation check to [[Actions/demoralize|demoralize]] a target within 30 feet of a creature with persistent bleed damage, the shatterling has +4 circumstance bonus to the Intimidation check. In addition, the shatterling takes no penalty to the check for not speaking a language the target can hear, and the target isn't temporarily immune to the shatterling's attempts to Demoralize it unless the shatterling critically fails its Intimidation check."
 
   - name: "Mirror Jump"
     desc: "`pf2:1` (move) During this Stride, the shatterling can move into any unbroken mirror at least 1 foot wide and out of another unbroken mirror at least 1 foot wide within 100 feet of the first mirror, treating the mirrors as connected. The shatterling can move through any number of pairs of foot-wide mirrors during its mirror jump, requiring each pair to be within 100 feet of each other while doing so."

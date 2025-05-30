@@ -64,14 +64,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +18 (agile, reach 10 feet)\n__Damage__  2d6 + 11 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+18 (agile, reach 10 feet, unarmed)\n__Damage__  2d6 + 11 slashing"
 
   - name: "Broad Swipe"
     desc: "`pf2:2`  The skeleton makes two Strikes with its claw against two adjacent foes, both of whom are within its reach. The multiple attack penalty doesn't increase until after both attacks are resolved."
 
   - name: "Terrifying Charge"
-    desc: "`pf2:2`  The skeleton Strides and makes a claw Strike with a +4 circumstance bonus to damage. If the Strike hits, it attempts to [[Actions/Demoralize|Demoralize]] the target."
+    desc: "`pf2:2`  The skeleton Strides and makes a claw Strike with a +4 circumstance bonus to damage. If the Strike hits, it attempts to [[Actions/demoralize|demoralize]] the target."
  
 ```
 

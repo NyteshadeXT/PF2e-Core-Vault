@@ -37,7 +37,7 @@ perception:
 languages: "Pyric"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +16, Athletics: +14, Acrobatics: +16, Athletics: +14, Filth Lore: +12"
+    desc: "Acrobatics: +16, Athletics: +14, Filth Lore: +12"
 abilityMods: [2, 4, 2, -1, 3, 0]
 speed: 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -64,11 +64,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Burning Refuse +18 (agile)\n__Damage__  2d6 + 4 bludgeoning 2d6 fire"
+  - name: "**Melee** `pf2:1` Burning Refuse"
+    desc: "+18 (agile)\n__Damage__  2d6 + 4 bludgeoning 2d6 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Thrown Refuse +20 (range increment 50 feet)\n__Damage__  2d10 + 4 bludgeoning 2d6 fire"
+  - name: "**Ranged** `pf2:1` Thrown Refuse"
+    desc: "+20 (range increment 50 feet)\n__Damage__  2d10 + 4 bludgeoning 2d6 fire"
 
   - name: "Primal Innate Spells"
     desc: "DC 23, attack +15; __3rd __  _[[Spells/Stinking Cloud|Stinking Cloud (x2)]]_"

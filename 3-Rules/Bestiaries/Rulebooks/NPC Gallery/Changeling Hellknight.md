@@ -21,7 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "Pathfinder Lost Omens: Character Guide"
+source: "Pathfinder Lost Omens Character Guide"
 name: "Changeling Hellknight"
 level: "Creature 4"
 
@@ -41,7 +41,7 @@ skills:
     desc: "Deception: +13, Medicine: +11, Nature: +13, Stealth: +10, Survival: +11"
 abilityMods: [4, 0, 0, 0, 4, 4]
 speed: 20 feet
-sourcebook: "_Pathfinder Lost Omens: Character Guide_"
+sourcebook: "_Pathfinder Lost Omens Character Guide_"
 ac: 22
 armorclass:
   - name: AC
@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +12 (agile)\n__Damage__  1d4 + 4 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+12 (agile, unarmed)\n__Damage__  1d4 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Halberd +12 (reach 10 feet, versatile s)\n__Damage__  1d10 + 6 piercing"
+  - name: "**Melee** `pf2:1` Halberd"
+    desc: "+12 (reach 10 feet, versatile s)\n__Damage__  1d10 + 6 piercing"
 
   - name: "Primal Spontaneous Spells"
-    desc: "DC 22, attack +12; __2nd __ (2 slots) _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __ (3 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Tailwind|Longstrider]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 22, attack +12; __2nd __ (2 slots) _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __ (3 slots) _[[Spells/Breathe Fire|Burning Hands]]_, _[[Spells/Tailwind|Longstrider]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(2nd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Primal Focus Spells"
     desc: "1 Focus Point, DC 22, attack +12; __2nd __  _[[Spells/Elemental Toss|Elemental Toss]]_"

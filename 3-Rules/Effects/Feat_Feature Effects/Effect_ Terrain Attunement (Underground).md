@@ -8,7 +8,7 @@ aliases: "Compendium.pf2e.feat-effects.Item.lUTUBYnA0GKYR5m5"
 license: OGL
 ---
 # Effect: Terrain Attunement (Underground)
-## Level 1
+## Level 2
 ### 
 
 

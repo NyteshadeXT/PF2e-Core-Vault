@@ -4,8 +4,9 @@ title: "Effect: Potion of Swimming (Greater)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.equipment-effects.Item.ModBoFdCi7YQU4gP"
-license: OGL
+license: ORC
 ---
 # Effect: Potion of Swimming (Greater)
 ## Level 11
@@ -16,7 +17,9 @@ license: OGL
 
 
 
-Granted by [[Potion of Swimming (Greater)|Potion of Swimming (Greater)]]
+Granted by [[Equipment/Potion of Swimming (Greater)|Potion of Swimming (Greater)]]
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+You gain a swim Speed equal to your land Speed.
+
+*Source: Pathfinder GM Core*
+*ORC*

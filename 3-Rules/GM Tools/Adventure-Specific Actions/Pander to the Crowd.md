@@ -7,7 +7,7 @@ tags:
   - trait/concentrate
   - trait/emotion
   - trait/visual
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.awJY2ylrsVEJNTFi"
 license: OGL

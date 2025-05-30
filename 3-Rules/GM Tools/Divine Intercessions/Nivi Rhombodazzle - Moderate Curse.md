@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Those who arouse Nivi's wrath find themselves bound to the earth with no place to hide. You are wreathed in constant [[Faerie Fire|Faerie Fire]] and constantly affected by [[Earthbind|Earthbind]], and any effect that grants [[Conditions/Invisible|Invisibility]] doesn't work on you.
+Those who arouse Nivi's wrath find themselves bound to the earth with no place to hide. You are wreathed in constant [[Spells/Faerie Fire|Faerie Fire]] and constantly affected by [[Spells/Earthbind|Earthbind]], and any effect that grants [[Conditions/Invisible|Invisibility]] doesn't work on you.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

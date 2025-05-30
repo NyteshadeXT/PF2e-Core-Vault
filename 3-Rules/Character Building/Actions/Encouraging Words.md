@@ -4,18 +4,16 @@ title: "Encouraging Words"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/auditory
-  - trait/general
   - trait/linguistic
   - trait/mental
-  - trait/skill
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.e2ePMDa7ixbLRryj"
 license: OGL
 ---
 # Encouraging Words `pf2:1`
 
-### [[3-Rules/Rule References/auditory]][[general]][[linguistic]][[3-Rules/Rule References/Mental]][[skill]]
+### [[auditory]][[linguistic]][[mental]]
 
 **Category** interaction; 
 

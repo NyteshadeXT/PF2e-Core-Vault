@@ -17,15 +17,9 @@ license: ORC
 
 
 
-Granted by [[Resist Energy|Resist Energy]]
+Granted by [[Spells/Resist Energy|Resist Energy]]
 
-A shield of elemental energy protects a creature against one type of energy damage. Choose acid, cold, electricity, fire, or sonic damage. The target and its gear gain resistance 5 against the damage type you chose.
-
-* * *
-
-**Heightened (4th)** The resistance increases to 10.
-
-**Heightened (7th)** The resistance increases to 15.
+Choose acid, cold, electricity, fire, or sonic damage. You gain resistance against the damage type you chose.
 
 *Source: Pathfinder Player Core*
 *ORC*

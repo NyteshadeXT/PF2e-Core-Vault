@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bastard Sword +11 (two-hand d12)\n__Damage__  1d8 + 4 slashing"
+  - name: "**Melee** `pf2:1` Bastard Sword"
+    desc: "+11 (two-hand d12)\n__Damage__  1d8 + 4 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +11 (agile, finesse, nonlethal)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+11 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d4 + 4 bludgeoning"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 17, attack +7; __2nd __ (2 slots) _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Mirror Image|Mirror Image]]_; __1st __ (3 slots) _[[Spells/Dizzying Colors|Color Spray]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Runic Weapon|Magic Weapon]]_\n__Cantrips__  __(2nd)__ _[[Spells/Light|Light]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

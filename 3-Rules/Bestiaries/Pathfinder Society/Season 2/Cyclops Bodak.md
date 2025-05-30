@@ -54,6 +54,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Flash of Insight"
@@ -62,11 +65,14 @@ abilities_mid:
   - name: "Sunlight Vulnerability"
     desc: "  If exposed to direct sunlight, the cyclops bodak can't use actions with the death trait and it becomes [[Conditions/Slowed|Slowed 1]]. The slowed value increases by 1 each time the cyclops bodak ends its turn in sunlight. If the bodak loses all its actions this way, it is destroyed."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +16 (agile, finesse, reach 10 feet)\n__Damage__  2d6 + 4 bludgeoning 1d6 void"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+16 (agile, finesse, reach 10 feet, unarmed)\n__Damage__  2d6 + 4 bludgeoning 1d6 void"
 
   - name: "Bodak Spawn"
     desc: " (occult) Any humanoid who dies while [[Conditions/Drained|Drained]] or [[Conditions/Doomed|Doomed]] by a cyclops bodak rises as an autonomous [[Bestiary 2/Bodak|Bodak]] 24 hours after its death."

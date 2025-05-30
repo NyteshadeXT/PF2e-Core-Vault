@@ -3,9 +3,8 @@ obsidianUIMode: preview
 title: "Stand"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
   - trait/move
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.OdIUybJ3ddfL7wzj"
@@ -13,7 +12,7 @@ license: ORC
 ---
 # Stand `pf2:1`
 
-### [[general]][[move]]
+### [[move]]
 
 **Category** interaction; 
 

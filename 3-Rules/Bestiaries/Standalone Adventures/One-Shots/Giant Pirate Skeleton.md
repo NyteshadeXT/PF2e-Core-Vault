@@ -61,14 +61,17 @@ abilities_mid:
   - name: "Easily Distracted"
     desc: "  The giant pirate skeleton's poor vision makes it easily distracted by creatures that flank it. Whenever it has the off-guard condition from being flanked, increase the penalty to its AC to -4."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Gaff Hook +20 (reach 10 feet)\n__Damage__  2d10 + 10 piercing plus impaling-hook"
+  - name: "**Melee** `pf2:1` Gaff Hook"
+    desc: "+20 (reach 10 feet)\n__Damage__  2d10 + 10 piercing plus impaling-hook"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +19 (agile, reach 10 feet)\n__Damage__  2d8 + 10 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+19 (agile, reach 10 feet, unarmed)\n__Damage__  2d8 + 10 slashing"
 
   - name: "Focused Assault"
     desc: "`pf2:2`  The giant pirate skeleton makes two Strikes with its claw against one foe. The multiple attack penalty doesn't increase until after both attacks are resolved.\n\nThe giant pirate skeleton doesn't use this ability if there is more than one creature within its reach that it can see."

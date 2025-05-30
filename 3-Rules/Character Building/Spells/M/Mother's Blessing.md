@@ -38,5 +38,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You attempt to purify and stabilize the life inside of Ulgrem-Axaan's last remaining clutch of eggs. With its blessing, you wash the eggs clean from the filth of undeath and bury them in warm sand by the banks of a river in Garund.\n* * *\n\n**Critical Success** The ritual is successful and the eggs hatch, giving life to an ancient species brought to the brink of extinction by the destruction of their home.\n\n**Success** As critical success, but only half of the eggs hatch (rounded up). You can try again with the remaining eggs.\n\n**Failure** No effect, and you must wait a week to try again.\n\n**Critical Failure** 90% of the eggs shatter (rounded up). You must wait a month to try again."
-sourcebook: "_Pathfinder Lost Omens: Monsters of Myth_"
+sourcebook: "_Pathfinder Lost Omens Monsters of Myth_"
 ```

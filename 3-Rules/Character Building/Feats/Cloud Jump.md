@@ -21,9 +21,9 @@ license: ORC
 
 **Prerequisites** legendary in Athletics
 * * *
-You unparalleled athletic skill allows you to jump impossible distances. Triple the distance you [[Actions/Long Jump|Long Jump]] (so you could jump 60 feet on a successful DC 20 check). When you [[Actions/High Jump|High Jump]], use the calculation for a Long Jump but don't triple the distance.
+Your unparalleled athletic skill allows you to jump impossible distances. Triple the distance you jump on a successful [[Actions/Long Jump|Long Jump]] (so you could jump 90 feet with an Athletics result of 30). When you successfully [[Actions/High Jump|High Jump]], use the distance jumped and distance limit for a Long Jump but don't triple the distance.
 
-You can jump a distance greater than your Speed by spending additional actions when you Long Jump or High Jump. For each additional action spent, add your Speed to the limit on how far you can [[Actions/Leap|Leap]].
+You can jump a distance greater than your Speed by spending additional actions when you Long Jump or High Jump. For each additional action spent, add your Speed to the distance limit.
 
 *Source: Pathfinder Player Core*
 *ORC*

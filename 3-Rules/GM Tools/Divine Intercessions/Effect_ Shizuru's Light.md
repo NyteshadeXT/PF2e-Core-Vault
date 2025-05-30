@@ -20,5 +20,5 @@ Granted by [[Divine Intercessions/Shizuru - Minor Boon|Shizuru - Minor Boon]]
 
 Your weapon glows with bright light out to 60 feet.
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

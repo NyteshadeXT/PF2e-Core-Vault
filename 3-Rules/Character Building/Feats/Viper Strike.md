@@ -24,5 +24,5 @@ license: OGL
 
 You move and attack with a swiftness that most can't follow. You Stride and then Strike. Your movement doesn't trigger reactions based on movement.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +11 (agile, finesse, magical)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+11 (agile, finesse, magical, unarmed)\n__Damage__  1d4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dissonant Note +11 (magical, range 30 feet, sonic)\n__Damage__  1d8 + 2 sonic"
+  - name: "**Ranged** `pf2:1` Dissonant Note"
+    desc: "+11 (magical, range 30 feet, sonic)\n__Damage__  1d8 + 2 sonic"
 
   - name: "Primal Innate Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_; __1st __  _[[Spells/Illusory Disguise|Illusory Disguise]]_\n__Cantrips__  __(1st)__ _[[Spells/Ghost Sound|Ghost Sound]]_"

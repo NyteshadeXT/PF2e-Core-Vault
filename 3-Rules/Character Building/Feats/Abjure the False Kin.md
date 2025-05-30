@@ -21,5 +21,5 @@ license: ORC
 
 Your vow reminds you that there can be brackish vinegar hiding within honeyed words, helping you detect attempts to influence your mind. If you roll a success on a saving throw against a mental effect that doesn't deal damage, you get a critical success instead.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -61,16 +61,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Fangs Only)]]"
-    desc: "`pf2:r`  Fangs only.\n\n* * *\n"
+    desc: "`pf2:r`  Fangs only.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Frenzied Fangs +35 (finesse)\n__Damage__  3d12 + 12 piercing"
+  - name: "**Melee** `pf2:1` Frenzied Fangs"
+    desc: "+35 (finesse)\n__Damage__  3d12 + 12 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Whiplashing Tail +35 (agile, finesse, reach 10 feet)\n__Damage__  3d8 + 12 slashing"
+  - name: "**Melee** `pf2:1` Whiplashing Tail"
+    desc: "+35 (agile, finesse, reach 10 feet)\n__Damage__  3d8 + 12 slashing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 38, attack +30; __9th __  _[[Spells/Toxic Cloud|Cloudkill]]_, _[[Spells/Duplicate Foe|Duplicate Foe]]_; __8th __  _[[Spells/Illusory Scene|Illusory Scene]]_, _[[Spells/Confusing Colors|Scintillating Pattern]]_; __7th __  _[[Spells/Prismatic Spray|Prismatic Spray]]_, _[[Spells/Warp Mind|Warp Mind]]_\n__Cantrips__  __(8th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Message|Message]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -79,7 +79,7 @@ attacks:
     desc: "`pf2:r`  **Trigger** The whimwyrm damages a creature with its whiplashing tail Strike\n\n**Effect** The whimwyrm can attempt to [[Actions/Disarm|Disarm]], [[Actions/Shove|Shove]], or [[Actions/Trip|Trip]] the damaged creature."
 
   - name: "Mind-Numbing Breath"
-    desc: "`pf2:2` (arcane,mental) The whimwyrm exhales a @Template[cone|distance:40] of sparkling magenta mist. Creatures within the area must attempt a DC 38 Will check save as their minds are overwhelmed by a sudden riot of false (and typically unpleasant) memories, taking 10d12 mental damage depending on their save. The whimwyrm can't use mind-numbing breath for 1d4 rounds.\n* * *\n\n**Critical Success** The creature becomes outlined in sparkling dust, negating any [[Spells/Invisibility|Invisibility]] it has in effect for 1 round and takes no damage.\n\n**Success** The creature takes half damage, and its invisibility is negated for 2 rounds.\n\n**Failure** The creature takes full damage, is [[Conditions/Dazzled|Dazzled]] for 1 minute, and its invisibility is negated for 1 minute.\n\n**Critical Failure** The creature takes double damage, is [[Conditions/Blinded|Blinded]] for 1 round, dazzled for 1 minute, and its invisibility is negated for 1 minute."
+    desc: "`pf2:2` (arcane,mental) The whimwyrm exhales a 40-foot cone of sparkling magenta mist. Creatures within the area must attempt a DC 38 Will check save as their minds are overwhelmed by a sudden riot of false (and typically unpleasant) memories, taking 10d12 mental damage depending on their save. The whimwyrm can't use mind-numbing breath for 1d4 rounds.\n* * *\n\n**Critical Success** The creature becomes outlined in sparkling dust, negating any [[Spells/Invisibility|Invisibility]] it has in effect for 1 round and takes no damage.\n\n**Success** The creature takes half damage, and its invisibility is negated for 2 rounds.\n\n**Failure** The creature takes full damage, is [[Conditions/Dazzled|Dazzled]] for 1 minute, and its invisibility is negated for 1 minute.\n\n**Critical Failure** The creature takes double damage, is [[Conditions/Blinded|Blinded]] for 1 round, dazzled for 1 minute, and its invisibility is negated for 1 minute."
  
 ```
 

@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Spells/Juvenile Companion|Juvenile Companion]]
+
 The creature becomes Tiny (if it was larger), and its reach is reduced to 0 feet. All of its Speeds are halved (to a minimum Speed of 5 feet), and it gains weakness 5 to physical damage.
 
 *Source: Pathfinder Secrets of Magic*

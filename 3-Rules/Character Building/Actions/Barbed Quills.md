@@ -4,7 +4,7 @@ title: "Barbed Quills"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/shisk
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.oAWNluJaMlaGysXA"
 license: OGL
@@ -26,5 +26,5 @@ license: OGL
 
 You break off quills in your attacker's flesh. You deal 1d8 piercing damage to the triggering creature (Reflex check save using your class DC or spell DC, whichever is higher.) On a critical failure, the creature also takes 1d4+ceil(1/2)-1 bleed as your quills hook into its flesh. At 3rd level, and every 2 levels thereafter, this damage increases by 1d8 and the persistent piercing damage increases by 1.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

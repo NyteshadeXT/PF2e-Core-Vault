@@ -8,14 +8,14 @@ tags:
   - trait/manipulate
   - trait/mental
   - trait/visual
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.799p70dXF3UYkTih"
 license: OGL
 ---
 # Communicate From Beyond `pf2:2`
 
-### [[concentrate]][[linguistic]][[manipulate]][[3-Rules/trait_reference/M/mental]][[visual]]
+### [[concentrate]][[linguistic]][[manipulate]][[mental]][[visual]]
 
 **Category** interaction; 
 

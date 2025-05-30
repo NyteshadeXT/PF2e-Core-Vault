@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Flaming Star|Flaming Star]]
+Granted by [[Equipment/Flaming Star|Flaming Star]], [[Equipment/Flaming Star (Greater)|Flaming Star (Greater)]], [[Equipment/Flaming Star (Major)|Flaming Star (Major)]]
 
-You gain resistance 2 to fire.
+You gain resistance to fire.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

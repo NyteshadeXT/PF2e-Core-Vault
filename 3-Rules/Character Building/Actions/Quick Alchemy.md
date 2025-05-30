@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/alchemist
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.yzNJgwzV9XqEhKc6"
@@ -13,14 +13,14 @@ license: ORC
 ---
 # Quick Alchemy `pf2:1`
 
-### [[alchemist]][[3-Rules/Rule References/Manipulate]]
+### [[alchemist]][[manipulate]]
 
 **Category** interaction; 
 
 
 
 
-**Requirements** You're either holding or wearing an [[3-Rules/Character Building/Equipment/A/Alchemist's Toolkit|Alchemist's Toolkit]]. and you have a free hand.
+**Requirements** You're either holding or wearing an [[Equipment/Alchemist's Toolkit|Alchemist's Toolkit]]. and you have a free hand.
 
 * * *
 

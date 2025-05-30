@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +16 (agile, finesse)\n__Damage__  2d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+16 (agile, finesse)\n__Damage__  2d6 + 6 slashing"
 
   - name: "Innate Primal Spells"
     desc: "DC 25, attack +17; __3rd __  _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Cleanse Affliction|Neutralize Poison]]_, _[[Spells/Vomit Swarm|Vomit Swarm]]_; __2nd __  _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/One with Plants|Tree Shape]]_\n__Cantrips__  __(3rd)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Stabilize|Stabilize]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

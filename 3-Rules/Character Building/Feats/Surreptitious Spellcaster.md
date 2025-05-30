@@ -17,9 +17,9 @@ license: OGL
 
 
 
-**Prerequisites** Spellmaster Dedication 
+**Prerequisites** Spellmaster Dedication
 * * *
 You've learned that it pays for a Pathfinder to be able to cast spells without being noticed. You gain the [[Feats/Conceal Spell|Conceal Spell]] wizard class feat, though it's not a wizard feat for you. You also gain a +2 circumstance bonus to Stealth checks to Conceal a Spell and to Deception checks to conceal verbal components.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

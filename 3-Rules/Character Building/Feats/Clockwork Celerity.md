@@ -8,8 +8,9 @@ tags:
   - trait/unstable
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.dxUbA1dUEcVHnU5s"
-license: OGL
+license: ORC
 ---
 # Clockwork Celerity `pf2:0`
 ## Feat 6
@@ -32,4 +33,4 @@ You can use unstable clockwork devices in your innovation to push your invention
 *   **Weapon** You can use the extra action to Strike with your innovation or Reload your innovation.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

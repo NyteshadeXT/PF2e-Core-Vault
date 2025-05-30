@@ -55,14 +55,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 ()\n__Damage__  2d8 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (unarmed)\n__Damage__  2d8 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile, unarmed)\n__Damage__  2d6 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +17 (reach 10 feet)\n__Damage__  1d8 + 8 piercing plus manticore-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+17 (reach 10 feet)\n__Damage__  1d8 + 8 piercing plus manticore-venom"
 
   - name: "Manticore Venom"
     desc: " (poison) **Saving Throw** DC 22 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d10 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 2d10 poison damage and enfeebled 1 (1 round)\n\n**Stage 3** 2d10 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"

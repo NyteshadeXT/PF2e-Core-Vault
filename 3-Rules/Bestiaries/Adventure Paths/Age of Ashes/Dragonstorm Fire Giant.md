@@ -55,19 +55,22 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Greatsword|+2 Greater Striking Greatsword]], [[Equipment/Hide Armor|+2 Greater Resilient Hide Armor]], Sack With 5 Rocks"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Catch Rock|Catch Rock]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Requirements** The monster must have a free hand but can [[Actions/Release|Release]] anything it's holding as part of this reaction.\n\n**Trigger** The monster is targeted with a thrown rock Strike or a rock would fall on the monster.\n* * *\n\n**Effect** The monster gains a +4 circumstance bonus to its AC against the triggering attack or to any defense against the falling rock. If the attack misses or the monster successfully defends against the falling rock, the monster catches the rock, takes no damage, and is now holding the rock."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greatsword +35 (magical, reach 15 feet, versatile p)\n__Damage__  3d12 + 20 slashing 1d6 electricity"
+  - name: "**Melee** `pf2:1` Greatsword"
+    desc: "+35 (magical, reach 15 feet, versatile p)\n__Damage__  3d12 + 20 slashing 1d6 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +35 (range increment 120 feet)\n__Damage__  3d10 + 12 bludgeoning 1d6 electricity"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+35 (range increment 120 feet)\n__Damage__  3d10 + 12 bludgeoning 1d6 electricity"
 
   - name: "Arcane Innate Spells"
     desc: "DC 40, attack +32; __3rd __  _[[Spells/Levitate|Levitate (At Will)]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"
@@ -76,7 +79,7 @@ attacks:
     desc: "`pf2:3` (divine) The dragonstorm fire giant raises one hand to the sky, channeling dragonstorm energy into the blade held in the other. The giant makes a greatsword Strike with a -2 circumstance penalty against each creature within its reach. It makes only one attack roll and compares the result against each creature's AC. This Strike deals an additional 1d8 acid, 1d8 cold, 1d8 electricity, 1d8 fire, and 1d8 poison damage and counts as two attacks for the giant's multiple attack penalty."
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
  
 ```
 

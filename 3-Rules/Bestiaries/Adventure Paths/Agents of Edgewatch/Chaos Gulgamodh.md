@@ -57,29 +57,29 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Massive Scythe +38 (adamantine, deadly 4d10, magical, reach 25 feet, trip)\n__Damage__  4d10 + 19 slashing"
+  - name: "**Melee** `pf2:1` Massive Scythe"
+    desc: "+38 (adamantine, deadly 4d10, magical, reach 25 feet, trip)\n__Damage__  4d10 + 19 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Cannon Arm +38 (adamantine, magical, reach 20 feet)\n__Damage__  4d10 + 19 bludgeoning 1d6 spirit 1d6 fire"
+  - name: "**Melee** `pf2:1` Cannon Arm"
+    desc: "+38 (adamantine, magical, reach 20 feet)\n__Damage__  4d10 + 19 bludgeoning 1d6 spirit 1d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +40 (adamantine, magical, reach 20 feet)\n__Damage__  4d8 + 19 bludgeoning plus knockdown 1d6 spirit plus knockdown"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+40 (adamantine, magical, reach 20 feet, unarmed)\n__Damage__  4d8 + 19 bludgeoning plus knockdown 1d6 spirit plus knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Arcane Cannon +29 (magical, range increment 60 feet)\n__Damage__  6d8 + 12 fire 1d6 spirit"
+  - name: "**Ranged** `pf2:1` Arcane Cannon"
+    desc: "+29 (magical, range increment 60 feet)\n__Damage__  6d8 + 12 fire 1d6 spirit"
 
   - name: "Adamantine Strikes"
     desc: "  Chaos Gulgamodh's body—including the appendages it uses to make melee Strikes—is made of adamantine."
 
   - name: "Cannon Fusillade"
-    desc: "`pf2:2`  Chaos Gulgamodh unleashes a salvo of explosive blasts in a @Template[cone|distance:30]. Creatures in the area take 10d10+20 fire damage (DC 43 Reflex check save).\n\nOn a failed save, a creature is subjected to a [[Rollable Tables/Warpwaves|Warpwave]] effect. On a critically failed save, a creature is [[Conditions/Stunned|Stunned 1]].\n\nChaos Gulgamodh can't use Cannon Fusillade again for 1d4 rounds."
+    desc: "`pf2:2`  Chaos Gulgamodh unleashes a salvo of explosive blasts in a 30-foot cone. Creatures in the area take 10d10+20 fire damage (DC 43 Reflex check save).\n\nOn a failed save, a creature is subjected to a [[Rollable Tables/Warpwaves|Warpwave]] effect. On a critically failed save, a creature is [[Conditions/Stunned|Stunned 1]].\n\nChaos Gulgamodh can't use Cannon Fusillade again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Huge or smaller, foot, DC 43 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Huge or smaller, foot, DC 43 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

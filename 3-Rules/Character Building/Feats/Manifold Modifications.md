@@ -7,8 +7,9 @@ tags:
   - trait/modification
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.4osf0dNeZ19KBoTb"
-license: OGL
+license: ORC
 ---
 # Manifold Modifications
 ## Feat 8
@@ -23,4 +24,4 @@ license: OGL
 You've modified your innovation using clever workarounds, so you can include another initial modification without compromising its structure. Your innovation gains an additional initial modification from the list for innovations of its type.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

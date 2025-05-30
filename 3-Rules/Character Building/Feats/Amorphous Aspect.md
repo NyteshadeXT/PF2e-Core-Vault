@@ -3,22 +3,24 @@ obsidianUIMode: preview
 title: "Amorphous Aspect"
 cssclasses: pf2e,pf2e-spell
 tags:
-  - trait/ganzi
+  - trait/nephilim
   - trait/common
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.aZIdjtIYlLtJJP3g"
-license: OGL
+license: ORC
 ---
 # Amorphous Aspect
 ## Feat 5
-### [[ganzi]]
+### [[nephilim]]
 
 **Category** ancestry; 
 
 
 
-
+**Prerequisites** Proteankin
+* * *
 Your body is supremely flexible. You gain a +1 circumstance bonus on checks to Escape or Squeeze, and when you critically fail when Squeezing, you get a failure instead.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
-*OGL*
+*Source: Pathfinder War of Immortals*
+*ORC*

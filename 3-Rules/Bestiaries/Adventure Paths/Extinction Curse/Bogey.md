@@ -55,8 +55,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +10 (agile, finesse, magical)\n__Damage__  1d8 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+10 (agile, finesse, magical, unarmed)\n__Damage__  1d8 + 3 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 18, attack +8; __1st __ (2 slots) _[[Spells/Fear|Fear]]_\n__Cantrips__  __(2nd)__ _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Message|Message]]_"

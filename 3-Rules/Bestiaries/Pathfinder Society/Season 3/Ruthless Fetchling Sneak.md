@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +15 (agile, finesse, versatile s)\n__Damage__  1d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+15 (agile, finesse, versatile s)\n__Damage__  1d6 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +15 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+15 (agile, finesse, versatile s)\n__Damage__  1d4 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +15 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+15 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 6 piercing"
 
   - name: "Shadow Slink"
     desc: "`pf2:2`  **Requirements** The fetchling sneak is in an area of dim light or darkness\n* * *\n\n**Effect** The fetchling sneak sticks to the shadows as it moves to ambush an enemy. The fetchling sneak Strides up to half their Speed and makes a Strike. The sneak's target is [[Conditions/Off-Guard|Off-Guard]] against this attack. The fetchling sneak can choose to Stride up to their full speed, but doing causes the sneak to take a -2 penalty to their Strike."

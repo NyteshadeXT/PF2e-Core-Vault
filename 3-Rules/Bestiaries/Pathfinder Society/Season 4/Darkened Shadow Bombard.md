@@ -52,7 +52,7 @@ attacks:
   - name: "Load the Cannons"
     desc: "`pf2:r` **Trigger** The ship flies within 30 feet of a PC\n* * *\n\n**Effect** The cannon reloads and rolls initiative."
   - name: "Melee"
-    desc: "Cannon Blast +18 (range increment 40 feet, reload 2) 2d8+9 bludgeoning damage to creatures in a @Template[burst|distance:5] (DC 24 Reflex check save)"
+    desc: "Cannon Blast +18 (range increment 40 feet, reload 2) 2d8+9 bludgeoning damage to creatures in a 5-foot burst (DC 24 Reflex check save)"
 
   - name: "Routine"
     desc: "(three actions) The cannon fires a blast that contains as many PCs as possible, choosing randomly in the event of a tie, then reloads."

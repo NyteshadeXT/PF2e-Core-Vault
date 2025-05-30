@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Armored Frill +20 ()\n__Damage__  2d8 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Armored Frill"
+    desc: "+20 ()\n__Damage__  2d8 + 12 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile)\n__Damage__  2d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, unarmed)\n__Damage__  2d6 + 10 slashing"
 
   - name: "Battering Charge"
     desc: "`pf2:2`  The durnolith Strides twice in a straight line and then makes an armored frill Strike. As long as it moved at least 10 feet, it gains a +2 circumstance bonus to its attack roll and the strike gains [[Bestiary Ability Glossary/Improved Push|Improved Push]] 10 feet."

@@ -21,5 +21,5 @@ license: ORC
 
 Once per month, when you die, you can instead choose to fade away. Your corpse is swallowed by the earth, leaving behind only a seed. This seed is very fragile with an AC of 10 and only 1 Hit Point. Another creature can spend 1 minute to plant the seed in a safe space and water it. If so cared for, the next morning a tree grows from it with a single large fruit or flower bud that splits open to reveal you, alive and returned to maximum Hit Points.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

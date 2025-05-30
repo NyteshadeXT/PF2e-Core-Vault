@@ -21,5 +21,5 @@ license: OGL
 * * *
 You call upon the Crimson Oath to smite undead and then make a weapon or unarmed Strike against an undead foe. The Strike deals two extra weapon damage dice, and you can convert all the physical damage from the attack into vitality damage.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

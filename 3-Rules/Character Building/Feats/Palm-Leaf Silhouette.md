@@ -24,5 +24,5 @@ license: ORC
 
 You can make yourself as flat as a paper doll or shadow. You can spend 1 minute in motionless meditation before performing an odd step that takes you partially out of this plane, leaving your body completely flat. In this state, you can slip under doors, through tiny cracks, or anywhere a single sheet of paper could, but you can't cast spells, activate items, or use actions that have the attack or manipulate traits. You remain in this state for 1 minute unless you choose to return to normal sooner as an action, which has the concentrate trait.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

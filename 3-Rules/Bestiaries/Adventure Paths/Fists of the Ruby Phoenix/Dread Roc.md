@@ -56,17 +56,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +30 (reach 15 feet)\n__Damage__  3d10 + 18 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+30 (reach 15 feet, unarmed)\n__Damage__  3d10 + 18 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +30 (agile, reach 15 feet)\n__Damage__  3d8 + 18 slashing plus improved-grab"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+30 (agile, reach 15 feet, unarmed)\n__Damage__  3d8 + 18 slashing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +30 (agile, reach 30 feet)\n__Damage__  2d6 + 15 bludgeoning plus improved-push"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+30 (agile, reach 30 feet)\n__Damage__  2d6 + 15 bludgeoning plus improved-push"
 
   - name: "Dreadful Screech"
-    desc: "`pf2:1` (auditory,emotion,fear,mental) The dread roc screeches terrifyingly. Each creature in a @Template[emanation|distance:120] must attempt a DC 32 Will check save. Regardless of the result, creatures are temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is fleeing for 1 round and [[Conditions/Frightened|Frightened 3]]."
+    desc: "`pf2:1` (auditory,emotion,fear,mental) The dread roc screeches terrifyingly. Each creature in a 120-foot emanation must attempt a DC 32 Will check save. Regardless of the result, creatures are temporarily immune for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is fleeing for 1 round and [[Conditions/Frightened|Frightened 3]]."
 
   - name: "Flying Strafe"
     desc: "`pf2:2`  The roc Flies up to its Speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. Each attack takes the normal multiple attack penalty."
@@ -76,6 +76,9 @@ attacks:
 
   - name: "Snatch"
     desc: "  A roc can Fly at half Speed while it has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] in either or both of its talons, carrying that creature along with it."
+
+  - name: "[[Bestiary Ability Glossary/Improved Grab|Improved Grab]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with as a free action. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead spend an action to use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
 
   - name: "Improved Push 15ft"
     desc: "  **Requirements** The monster's last action was a success with a Strike that lists Push in its damage entry.\n* * *\n\n**Effect** The monster automatically knocks the target away from the monster. Unless otherwise noted in the ability description, the creature is pushed 15 feet. If the attack was a critical hit, this distance is doubled."

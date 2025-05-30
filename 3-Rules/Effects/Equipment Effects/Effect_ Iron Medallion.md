@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Iron Medallion|Iron Medallion]]
+Granted by [[Equipment/Iron Medallion|Iron Medallion]]
 
 You gain a +2 status bonus to the triggering save and other saves against fear.
 

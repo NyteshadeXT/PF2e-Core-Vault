@@ -1,4 +1,10 @@
 <%*
+// Update Adventure YAML.md - Enhanced XP Tracking and Treasure Updates
+
+// Checklist and treasure-related functions (unchanged) ---------------------------------
+const CHECKED_PATTERN = /^\s*>*\s*-\s*\[x\]/;
+const CONS_PATTERN = /^-\s*\[x\]\s*([^:]+)::\s*\[\[(.+?)(?:\|(.+?))?\]\]\s*\[ilvl::(\d+)\]\s*\[gp::(\d+)\]/i;
+
 function parseChecklistLines(lines, typeFilter = "consumable") {
   const results = [];
   const regex = new RegExp(
@@ -6,15 +12,16 @@ function parseChecklistLines(lines, typeFilter = "consumable") {
     "i"
   );
 
-  for (let line of lines ?? []) {
-    line = line.replace(/^>+\s*/, "").trim();
+  for (const rawLine of lines ?? []) {
+    if (!CHECKED_PATTERN.test(rawLine)) continue;
+    const line = rawLine.replace(/^>+\s*/, "").trim();
     const match = line.match(regex);
     if (!match) continue;
 
-    const rawName = match[1];
-    const displayName = match[2] ?? rawName;
-    const ilvl = parseInt(match[3]);
-    const gp = parseInt(match[4]);
+    const rawName = match[1].trim();
+    const displayName = (match[2] ?? rawName).trim();
+    const ilvl = parseInt(match[3], 10);
+    const gp = parseInt(match[4], 10);
 
     results.push({ name: displayName, ilvl, gp });
   }
@@ -25,7 +32,7 @@ function parseChecklistLines(lines, typeFilter = "consumable") {
 function consolidateItems(items) {
   const map = new Map();
   for (const item of items) {
-    const key = item.name;
+    const key = item.name.trim().toLowerCase();
     if (!map.has(key)) {
       map.set(key, { ...item, count: 1 });
     } else {
@@ -39,33 +46,18 @@ function consolidateItems(items) {
   }));
 }
 
-function parseAwardedXP(lines) {
-  const xpRegex = /- \[x\].*\((\d+)\s*XP\)/i;
-  let totalXP = 0;
-  for (const line of lines ?? []) {
-    const match = line.match(xpRegex);
-    if (match) {
-      totalXP += parseInt(match[1]);
-    }
-  }
-  return totalXP;
-}
-
 function parseAwardedCoin(lines) {
   const coinTotals = { pp: 0, gp: 0, sp: 0, cp: 0 };
-  const coinTypes = ["pp", "gp", "sp", "cp"];
+  const coinTypes = Object.keys(coinTotals);
 
-  for (let line of lines ?? []) {
-    line = line.replace(/^>+\s*/, "").trim();
+  for (const rawLine of lines ?? []) {
+    if (!CHECKED_PATTERN.test(rawLine)) continue;
+    const line = rawLine.replace(/^>+\s*/, "").trim();
 
-    if (!line.startsWith("- [x]")) continue;
-
-    for (let type of coinTypes) {
+    for (const type of coinTypes) {
       const regex = new RegExp(`${type}::(\\d+)`, "i");
       const match = line.match(regex);
-      if (match) {
-        coinTotals[type] += parseInt(match[1]);
-      }
+      if (match) coinTotals[type] += parseInt(match[1], 10);
     }
   }
 
@@ -74,74 +66,111 @@ function parseAwardedCoin(lines) {
 
 function formatDateToday() {
   const now = new Date();
+  const yyyy = now.getFullYear();
   const mm = String(now.getMonth() + 1).padStart(2, '0');
   const dd = String(now.getDate()).padStart(2, '0');
-  const yyyy = now.getFullYear();
-  return `${mm}.${dd}.${yyyy}`;
+  return `${yyyy}-${mm}-${dd}`;
 }
 
 function addDateToItems(items, date) {
   return items.map(item => ({ ...item, date }));
 }
+// End treasure functions ---------------------------------------------------------------
 
-// Run any external user update functions (optional)
-try {
-  await tp.user.update_xp(tp);
-  await tp.user.update_treasure(tp);
-} catch (err) {
-  new Notice("Error: " + err.message, 3000);
+// New XP-tracking patterns and functions ------------------------------------------------
+const LINE_PATTERN = /^\s*>*\s*-\s*\[(?: |x|<)\]/;
+const NEW_XP_PATTERN = /^\s*>*\s*-\s*\[x\]/;
+const PROCESSED_XP_PATTERN = /^\s*>*\s*-\s*\[<\]/;
+const XP_REGEX = /\((\d+)\s*XP\)/i;
+
+function parseTotalXP(lines) {
+  let total = 0;
+  for (const rawLine of lines) {
+    if (!LINE_PATTERN.test(rawLine)) continue;
+    const line = rawLine.replace(/^>+\s*/, "").trim();
+    const match = line.match(XP_REGEX);
+    if (match) total += parseInt(match[1], 10);
+  }
+  return total;
 }
 
-// Main template logic
+function parseProcessedXP(lines) {
+  let total = 0;
+  for (const rawLine of lines) {
+    if (!PROCESSED_XP_PATTERN.test(rawLine)) continue;
+    const line = rawLine.replace(/^>+\s*/, "").trim();
+    const match = line.match(XP_REGEX);
+    if (match) total += parseInt(match[1], 10);
+  }
+  return total;
+}
+
+function parseNewXP(lines) {
+  let total = 0;
+  for (const rawLine of lines) {
+    if (!NEW_XP_PATTERN.test(rawLine)) continue;
+    const line = rawLine.replace(/^>+\s*/, "").trim();
+    const match = line.match(XP_REGEX);
+    if (match) total += parseInt(match[1], 10);
+  }
+  return total;
+}
+// End XP functions ---------------------------------------------------------------------
+
+// Main template hook -------------------------------------------------------------------
+
+await tp.user.update_treasure?.(tp);
+
 tp.hooks.on_all_templates_executed(async () => {
   try {
     const file = tp.file.find_tfile(tp.file.path(true));
-    const fileContent = await app.vault.read(file);
-    const lines = fileContent.split('\n');
-
+    const content = await app.vault.read(file);
+    const lines = content.split('\n');
     const metadata = app.metadataCache.getFileCache(file);
-    const frontmatter = metadata?.frontmatter ?? {};
-
-    const newAwardedXP = parseAwardedXP(lines);
-    const previousXP = frontmatter.completed_xp ?? 0;
-    const deltaXP = newAwardedXP - previousXP;
+    const fm = metadata?.frontmatter ?? {};
     const today = formatDateToday();
 
-    // XP log
-    let completedLog = Array.isArray(frontmatter.completed_xp_log)
-      ? [...frontmatter.completed_xp_log]
-      : [];
+    // XP calculations
+    const totalPossibleXP = parseTotalXP(lines);
+    const newXP = parseNewXP(lines);
+    const prevProcessedXP = parseProcessedXP(lines);
+    const completedAfterRun = prevProcessedXP + newXP;
 
-    if (deltaXP > 0) {
-      completedLog.push({ date: today, xp: deltaXP });
-    }
-
-    // Parse coin
+    // Coin and item parsing
     const coinAwarded = parseAwardedCoin(lines);
-    const coinSum = coinAwarded.pp + coinAwarded.gp + coinAwarded.sp + coinAwarded.cp;
-
-    // Parse and date items
-    const consumablesRaw = consolidateItems(parseChecklistLines(lines, "consumable"));
-    const permanentsRaw = consolidateItems(parseChecklistLines(lines, "permanent"));
-    const consumables = addDateToItems(consumablesRaw, today);
-    const permanents = addDateToItems(permanentsRaw, today);
+    const coinSum = Object.values(coinAwarded).reduce((a, b) => a + b, 0);
+    const consumablesRaw = parseChecklistLines(lines, "consumable");
+    const permanentsRaw = parseChecklistLines(lines, "permanent");
+    const consumables = addDateToItems(consolidateItems(consumablesRaw), today);
+    const permanents = addDateToItems(consolidateItems(permanentsRaw), today);
 
     // Update frontmatter
-    await app.fileManager.processFrontMatter(file, (fm) => {
-      fm.total_xp = frontmatter.total_xp;
-      fm.completed_xp = newAwardedXP;
-      fm.completed_xp_log = completedLog;
+    await app.fileManager.processFrontMatter(file, (front) => {
+      front.total_xp = totalPossibleXP;
+      front.completed_xp = completedAfterRun;
+      front.completed_xp_log = Array.isArray(front.completed_xp_log) ? [...front.completed_xp_log] : [];
+      if (newXP > 0) front.completed_xp_log.push({ date: today, xp: newXP });
 
       if (coinSum > 0) {
-        const newCoinEntry = { date: today, ...coinAwarded };
-        fm.awarded_coin = Array.isArray(frontmatter.awarded_coin)
-          ? [...frontmatter.awarded_coin, newCoinEntry]
-          : [newCoinEntry];
+        front.awarded_coin = Array.isArray(front.awarded_coin) ? [...front.awarded_coin] : [];
+        front.awarded_coin.push({ date: today, ...coinAwarded });
       }
-
-      fm.awarded_permanent_items = permanents;
-      fm.awarded_consumable_items = consumables;
+      front.awarded_consumable_items = Array.isArray(front.awarded_consumable_items)
+        ? [...front.awarded_consumable_items, ...consumables]
+        : consumables;
+      front.awarded_permanent_items = Array.isArray(front.awarded_permanent_items)
+        ? [...front.awarded_permanent_items, ...permanents]
+        : permanents;
     });
+
+    // Mark new XP entries as processed
+    const updatedContent = await app.vault.read(file);
+    const updatedLines = updatedContent.split("\n").map(line =>
+      NEW_XP_PATTERN.test(line)
+        ? line.replace(/^(\s*>*)\s*-\s*\[x\]/, '> - [<]')
+        : line
+    );
+    await app.vault.modify(file, updatedLines.join("\n"));
 
     new Notice(`✅ Adventure YAML updated for ${today}`, 3000);
   } catch (err) {

@@ -20,5 +20,5 @@ license: OGL
 
 Your fins, flippers, or other accessories assist with steering you through water. You gain a swim Speed of 15 feet.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

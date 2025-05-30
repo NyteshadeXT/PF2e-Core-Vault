@@ -59,7 +59,7 @@ attacks:
     desc: "Chthonian Cannon +11 (range increment 30 feet, unholy) "
 
   - name: "No Prey, No Pay"
-    desc: "`pf2:r` **Trigger** The demon ship hits another ship and Encounter A begins\n* * *\n\n**Effect** The demon ship fires grapples at the Snapdragon. Each PC must attempt a DC 20 Reflex check save or be [[Conditions/Grabbed|Grabbed]] ([[/act escape dc=20]]); on a critical failure, they're also impaled and take 1d10+6 piercing damage. The demon ship then rolls initiative."
+    desc: "`pf2:r` **Trigger** The demon ship hits another ship and Encounter A begins\n* * *\n\n**Effect** The demon ship fires grapples at the Snapdragon. Each PC must attempt a DC 20 Reflex check save or be [[Conditions/Grabbed|Grabbed]] ([[Actions/escape dc=20|escape dc=20]]); on a critical failure, they're also impaled and take 1d10+6 piercing damage. The demon ship then rolls initiative."
 
   - name: "Sea Chantey"
     desc: "action (auditory) All fiends within 60 feet gain a +1 status bonus to attack rolls, damage rolls, and saves against fear effects; all non-fiends within 60 feet must succeed at a DC 20 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure).\n* * *\n\n[[Bestiary Effects/Effect_ Sea Chantey|Effect: Sea Chantey]]"

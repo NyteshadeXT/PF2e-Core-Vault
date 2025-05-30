@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Dig Up Secrets"
+title: "Dig up Secrets"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/shisk
@@ -9,7 +9,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.Zr1sspa9Q16V8uZV"
 license: OGL
 ---
-# Dig Up Secrets
+# Dig up Secrets
 ## Feat 9
 ### [[shisk]]
 
@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You are an endless well of knowledge and can remember several vital pieces of information at once. You can cast [[Hypercognition|Hypercognition]] as an innate occult spell once per day.
+You are an endless well of knowledge and can remember several vital pieces of information at once. You can cast [[Spells/Hypercognition|Hypercognition]] as an innate occult spell once per day.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

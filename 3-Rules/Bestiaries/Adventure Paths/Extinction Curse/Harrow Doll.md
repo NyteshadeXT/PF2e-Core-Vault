@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +17 (agile, magical)\n__Damage__  2d12 + 6 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+17 (agile, magical, unarmed)\n__Damage__  2d12 + 6 bludgeoning plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Harrow Card +18 (magical, range increment 60 feet)\n__Damage__  2d8 + 6 slashing plus harrowing-misfortune"
+  - name: "**Ranged** `pf2:1` Harrow Card"
+    desc: "+18 (magical, range increment 60 feet)\n__Damage__  2d8 + 6 slashing plus harrowing-misfortune"
 
   - name: "Arcane Innate Spells"
     desc: "DC 27, attack +17; __3rd __ (2 slots) _[[Spells/Locate|Locate]]_, _[[Spells/Mind Reading|Mind Reading]]_; __2nd __ (1 slots) _[[Spells/Augury|Augury (At Will)]]_"
@@ -73,7 +73,7 @@ attacks:
     desc: " (curse,misfortune) A creature struck by one of the harrow doll's cards must attempt a DC 25 Will check save or be cursed with misfortune, which forces the creature to roll twice and take the lower result on its next roll of a specific type, determined by the card's suit (roll 1d6 to randomly determine the suit). A creature can be cursed with only one effect from harrowing misfortune at a time, with a new curse overriding any previous curse. The curse ends after 1 minute or after the specified roll is made, whichever comes first. The suits and their effects are: Hammers (melee attack roll), Keys (Reflex save), Shields (Fortitude save), Books (skill check), Stars (Will save), and Crowns (spell attack roll).\n\n[[Bestiary Effects/Effect_ Harrowing Misfortune|Effect: Harrowing Misfortune]]"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

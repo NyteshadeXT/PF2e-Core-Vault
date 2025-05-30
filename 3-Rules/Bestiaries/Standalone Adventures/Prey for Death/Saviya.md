@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sawtooth Saber +35 (agile, finesse, magical, twin)\n__Damage__  1d6 spirit 1d6 electricity 4d6 + 12 slashing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Sawtooth Saber"
+    desc: "+35 (agile, finesse, magical, twin)\n__Damage__  1d6 spirit 1d6 electricity 4d6 + 12 slashing 1d6 bleed"
 
   - name: "Cleric Divine Prepared Spells"
     desc: "DC 41, attack +33; __10th __  _[[Spells/Manifestation|Manifestation]]_; __9th __  _[[Spells/Massacre|Massacre]]_, _[[Spells/Wails of the Damned|Wails of the Damned]]_; __7th __  _[[Spells/Execute|Execute]]_; __6th __  _[[Spells/Crimson Breath|Crimson Breath]]_, _[[Spells/Dominate|Dominate]]_, _[[Spells/Teleport|Teleport]]_, _[[Spells/Truesight|Truesight]]_; __5th __  _[[Spells/Sawtooth Terrain|Sawtooth Terrain]]_, _[[Spells/Truespeech|Truespeech]]_; __4th __  _[[Spells/Mantis's Grasp|Mantis's Grasp]]_, _[[Spells/Outcast's Curse|Outcast's Curse]]_, _[[Spells/Talking Corpse|Talking Corpse]]_, _[[Spells/Unfettered Movement|Unfettered Movement]]_; __3rd __  _[[Spells/Blindness|Blindness]]_; __2nd __  _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Create Food|Create Food]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Resist Energy|Resist Energy]]_, _[[Spells/Silence|Silence]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(10th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Void Warp|Void Warp]]_"
@@ -73,7 +73,7 @@ attacks:
     desc: "DC 41, attack +33; __8th __  _[[Spells/Disappearance|Disappearance]]_; __7th __  _[[Spells/Project Image|Project Image]]_; __6th __  _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_; __5th __  _[[Spells/Sending|Sending]]_; __4th __  _[[Spells/Translocate|Translocate]]_; __3rd __  _[[Spells/Paralyze|Paralyze]]_; __2nd __  _[[Spells/Mist|Mist]]_; __1st __  _[[Spells/Fear|Fear]]_\n__Cantrips__  __(10th)__ _[[Spells/Figment|Figment]]_, _[[Spells/Sigil|Sigil]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Call Spirit|Call Spirit]]_, _[[Spells/Commune|Commune]]_, _[[Spells/Planar Servitor|Planar Servitor]]_, _[[Spells/Resurrect|Resurrect]]_"
+    desc: "_Call Spirit_, _Commune_, _Planar Servitor_, _Resurrect_"
 
   - name: "Crimson Shroud"
     desc: "`pf2:1` (healing,magical) **Frequency** seven times a day\n* * *\n\n**Effect** Saviya swathes herself in red mist for 1 minute, during which time she gains fast healing 9. She can Interact with the mist to gain a +1 circumstance bonus to AC until the beginning of her next turn. If she dies while Crimson Shroud is active, her body vanishes, leaving behind only her gear."

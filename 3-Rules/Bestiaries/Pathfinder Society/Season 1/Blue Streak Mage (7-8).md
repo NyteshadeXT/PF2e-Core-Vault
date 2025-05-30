@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Mace +12 (agile, finesse, shove)\n__Damage__  1d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Light Mace"
+    desc: "+12 (agile, finesse, shove)\n__Damage__  1d4 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Techno-Junk Laser Pistol +12 (range increment 30 feet, reload 0)\n__Damage__  1d6 fire"
+  - name: "**Ranged** `pf2:1` Techno-Junk Laser Pistol"
+    desc: "+12 (range increment 30 feet, reload 0)\n__Damage__  1d6 fire"
 
   - name: "Arcane Prepared Spells"
     desc: "DC 21, attack +13; __3rd __  _[[Spells/Bind Undead|Bind Undead]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __  _[[Spells/False Vitality|False Life]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Web|Web]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"

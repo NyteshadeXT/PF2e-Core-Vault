@@ -34,5 +34,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You transform into the animal from your mask. You gain the effects of [[Spells/Animal Form|Animal Form]], heightened to magic warrior transformation's level, and you can transform into only the type of animal your mask represents."
-sourcebook: "_Pathfinder Lost Omens: World Guide_"
+sourcebook: "_Pathfinder Lost Omens World Guide_"
 ```

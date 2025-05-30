@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Take its Course|Take its Course]], when used to help a target against an affliction.
+Granted by [[Spells/Take its Course|Take its Course]], when used to help a target against an affliction.
 
 The target gains a +2 status bonus to its saving throw against the affliction.
 

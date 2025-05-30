@@ -4,14 +4,14 @@ title: "Drink Blood"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/divine
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.49F65W6VwuXhmv8K"
 license: OGL
 ---
 # Drink Blood `pf2:1`
 
-### [[3-Rules/Rule References/Divine]]
+### [[divine]]
 
 **Category** offensive; 
 

@@ -43,6 +43,6 @@ abilities_top:
     desc: "30 feet; **Targets** 1 object"
 abilities_mid:
   - name: ""
-    desc: "You focus on the target object, opening your mind to perceive magical auras. When the casting is complete, you know whether that item is magical. You or anyone you advise about the aura gains a +2 circumstance bonus to [[Actions/Identify Magic|Identify Magic]] on the item. If the object is illusory, you detect this only if the effect's rank is lower than the rank of your _read aura_ spell.\n* * *\n\n**Heightened (3rd)** You can target up to 10 objects.\n\n**Heightened (6th)** You can target any number of objects."
+    desc: "You focus on the target object, opening your mind to perceive magical auras. When the casting is complete, you know whether that item is magical. You or anyone you advise about the aura gains a +2 circumstance bonus to [[Actions/Identify Magic|Identify Magic]] on the item. If the object is illusory, you detect this only if the effect's rank is lower than the rank of your _read aura_ spell.\n\n[[Spell Effects/Spell Effect_ Read Aura|Spell Effect: Read Aura]]\n* * *\n\n**Heightened (3rd)** You can target up to 10 objects.\n\n**Heightened (6th)** You can target any number of objects."
 sourcebook: "_Pathfinder Player Core_"
 ```

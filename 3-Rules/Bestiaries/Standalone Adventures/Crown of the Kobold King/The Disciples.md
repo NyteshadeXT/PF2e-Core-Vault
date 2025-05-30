@@ -52,22 +52,28 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 30 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Rise Again"
     desc: " (occult) If the Disciples is reduced to 0 Hit Points by means other than fire damage, disintegration, or its resurrection vulnerability, it returns to unlife at the start of its next turn. It has 45 Hit Points and is [[Conditions/Prone|Prone]] in the space in which it was destroyed. The Disciples can't be returned by this ability again for 1 hour."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 (deadly d10, magical)\n__Damage__  2d8 + 9 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (deadly d10, magical, unarmed)\n__Damage__  2d8 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile, magical)\n__Damage__  2d6 + 9 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile, magical, unarmed)\n__Damage__  2d6 + 9 slashing"
 
   - name: "Agonized Howl"
-    desc: "`pf2:2` (auditory,mental,occult) The unrisen howls in pain at its cursed existence. Creatures within a @Template[emanation|distance:30] take 6d8 mental damage (DC 25 Will check). The unrisen can't use Agonized Howl again for 1d4 rounds."
+    desc: "`pf2:2` (auditory,mental,occult) The unrisen howls in pain at its cursed existence. Creatures within a 30-foot emanation take 6d8 mental damage (DC 25 Will check). The unrisen can't use Agonized Howl again for 1d4 rounds."
 
   - name: "Awful Approach"
     desc: "`pf2:1`  The unrisen reshapes its grotesque form to move swiftly. It Strides twice. Any living creature that can see the unrisen during this movement must succeed at a DC 22 Fortitude check save or be [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure). This is a mental and visual effect. The unrisen can't use Awful Approach again for 1d4 rounds."

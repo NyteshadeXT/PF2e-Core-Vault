@@ -58,14 +58,17 @@ abilities_mid:
   - name: "The Sea's Revenge"
     desc: " (curse,divine) A creature that slays Bolti is subjected to a [[Spells/Mariner's Curse|Mariner's Curse]] spell (heightened to 10th level, DC 42 Will check). The curse ends if the cursed victim slays Trygve, or after 1 year passes."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Icefang +39 (sweep)\n__Damage__  4d12 + 16 slashing plus grotesque-gift 1d6 cold plus grotesque-gift"
+  - name: "**Melee** `pf2:1` Icefang"
+    desc: "+39 (sweep)\n__Damage__  4d12 + 16 slashing plus grotesque-gift 1d6 cold plus grotesque-gift"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +36 (agile)\n__Damage__  4d8 + 16 bludgeoning plus grotesque-gift"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+36 (agile, unarmed)\n__Damage__  4d8 + 16 bludgeoning plus grotesque-gift"
 
   - name: "Great Swipe"
     desc: "`pf2:2`  Bolti makes a melee Strike and compares the attack roll result to the AC of up to three foes, each of whom must be within his melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit. A Great Swipe counts as three attacks for Bolti's multiple attack penalty."

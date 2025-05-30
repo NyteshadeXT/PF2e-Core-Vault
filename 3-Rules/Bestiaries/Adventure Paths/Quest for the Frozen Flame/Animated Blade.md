@@ -58,8 +58,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rusty Blade +6 (sweep)\n__Damage__  1d4 + 1 slashing plus tetanus"
+  - name: "**Melee** `pf2:1` Rusty Blade"
+    desc: "+6 (sweep)\n__Damage__  1d4 + 1 slashing plus tetanus"
 
   - name: "Tetanus"
     desc: " (disease) **Saving Throw** DC 15 Fortitude check\n\n**Onset** 1 week\n\n**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 week)\n\n**Stage 2** [[Conditions/Clumsy|Clumsy 2]] and can't speak (1 day)\n\n**Stage 3** [[Conditions/Paralyzed|Paralyzed]] (1 day)\n\n**Stage 4** death"

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Beastbrood
 * * *
-You can cast [[Dispel Magic|Dispel Magic]] and [[Reaper's Lantern|Reaper's Lantern]] once per day each as 2nd-rank divine innate spells. Reaper's lantern manifests as a lantern shaped like the head of your rakshasa incarnation.
+You can cast [[Spells/Dispel Magic|Dispel Magic]] and [[Spells/Reaper's Lantern|Reaper's Lantern]] once per day each as 2nd-rank divine innate spells. Reaper's lantern manifests as a lantern shaped like the head of your rakshasa incarnation.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

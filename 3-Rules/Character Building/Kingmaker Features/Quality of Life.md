@@ -4,7 +4,7 @@ title: "Quality of Life"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/general
-  - trait/common
+  - trait/
   - category/kingdom-feat
 aliases: "Compendium.pf2e.kingmaker-features.Item.OMSi4mgHqoBqUFuj"
 license: OGL

@@ -9,13 +9,15 @@ aliases: "Compendium.pf2e.feat-effects.Item.Ve1CRFI8ikL6dqcL"
 license: ORC
 ---
 # Effect: Cast Down
-## Level 1
+## Level 6
 ### 
 
 
 
 
 
+
+Granted by [[Feats/Cast Down|Cast Down]]
 
 You take a –10-foot status penalty to your Speed.
 

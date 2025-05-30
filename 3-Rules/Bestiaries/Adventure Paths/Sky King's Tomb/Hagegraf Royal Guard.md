@@ -60,6 +60,9 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
   - name: "Stop Right There!"
     desc: "`pf2:r`  **Trigger** A creature within the royal guard's reach uses a move action\n* * *\n\n**Effect** The royal guard Strikes the creature. On a success the target's action is interrupted; on a critical success the target is also knocked [[Conditions/Prone|Prone]]."
 
@@ -69,11 +72,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Guisarme +15 (reach, trip)\n__Damage__  1d10 + 6 slashing plus knockdown"
+  - name: "**Melee** `pf2:1` Guisarme"
+    desc: "+15 (reach, trip)\n__Damage__  1d10 + 6 slashing plus knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +13 (agile, thrown 20 ft.)\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+13 (agile, thrown 20 ft.)\n__Damage__  1d6 + 6 bludgeoning"
 
   - name: "Occult Innate Spells"
     desc: "DC 21, attack +13; __2nd __  _[[Spells/Blood Vendetta|Blood Vendetta]]_, _[[Spells/Paranoia|Paranoia]]_\n__Cantrips__  __(3rd)__ _[[Spells/Sigil|Sigil]]_"
@@ -82,7 +85,7 @@ attacks:
     desc: "  A royal guard deals an additional 1d10 precision damage to [[Conditions/Prone|Prone]] creatures."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

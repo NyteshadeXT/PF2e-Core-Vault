@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +36 (reach 20 feet)\n__Damage__  3d12 + 18 piercing plus improved-grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+36 (reach 20 feet)\n__Damage__  3d12 + 18 piercing plus improved-grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crystal Shard +36 (brutal, range increment 120 feet, sonic)\n__Damage__  3d8 + 18 piercing 2d12 sonic"
+  - name: "**Ranged** `pf2:1` Crystal Shard"
+    desc: "+36 (brutal, range increment 120 feet, sonic)\n__Damage__  3d8 + 18 piercing 2d12 sonic"
 
   - name: "Crystal Prison"
     desc: "`pf2:1`  **Requirements** The shale behemoth has a creature [[Conditions/Grabbed|Grabbed]] in one of its claws;\n\n**Effect** The shale behemoth impales the grabbed creature on the sharp crystal spikes that protrude from the shale behemoth's carapace, dealing 2d12 + 18 piercing damage (basic DC 40 Reflex save). If the creature fails its save and is Large or smaller, it's impaled on the jagged crystals. It moves with the shale behemoth and takes 3d12 bleed damage until it either Escapes or someone uses Force Open to break the crystals (either is DC 40)."

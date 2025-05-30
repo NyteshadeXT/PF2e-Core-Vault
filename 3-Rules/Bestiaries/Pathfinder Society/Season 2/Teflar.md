@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spiked Gauntlet +7 (agile, free-hand)\n__Damage__  1d4 piercing"
+  - name: "**Melee** `pf2:1` Spiked Gauntlet"
+    desc: "+7 (agile, free-hand)\n__Damage__  1d4 piercing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 18, attack +10; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Harm|Harm]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_\n__Cantrips__  __(1st)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Shield|Shield]]_"

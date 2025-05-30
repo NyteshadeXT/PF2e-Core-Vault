@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Boots of Elvenkind|Boots of Elvenkind]]
+Granted by [[Equipment/Boots of Elvenkind|Boots of Elvenkind]]
+
+You gain a +5-foot status bonus to your land Speed.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

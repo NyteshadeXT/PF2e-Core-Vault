@@ -4,7 +4,7 @@ title: "(Lich) Steal Soul"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/arcane
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.hfT7YDwx0UX4expm"
 license: OGL

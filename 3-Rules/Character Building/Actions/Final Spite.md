@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Final Spite"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.jbmXxq56swDYw8hy"
 license: OGL

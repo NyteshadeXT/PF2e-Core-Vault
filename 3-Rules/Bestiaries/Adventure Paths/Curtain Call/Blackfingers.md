@@ -51,7 +51,10 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "+3 Greater Striking Corrosive Keen Returning Dagger, Key Ring, 2x Elixir of Rejuvenation, 10x Vyre's Bliss, Red Hand's Satchel"
+    desc: "[[Equipment/Dagger|+3 Greater Striking Corrosive Keen Returning Dagger]], Key Ring, 2x [[Equipment/Elixir of Rejuvenation|Elixir of Rejuvenation]], 10x [[Equipment/Vyre's Bliss|Vyre's Bliss]], [[Equipment/Red Hand's Satchel|Red Hand's Satchel]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Consumed by Bloodlust"
@@ -66,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +34 ()\n__Damage__  4d10 + 16 piercing plus blackfingers-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+34 (unarmed)\n__Damage__  4d10 + 16 piercing plus blackfingers-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +38 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 16 piercing plus blackfingers-venom 1d6 acid plus blackfingers-venom"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+38 (agile, finesse, magical, versatile s)\n__Damage__  3d4 + 16 piercing plus blackfingers-venom 1d6 acid plus blackfingers-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +38 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  4d8 + 15 piercing plus blackfingers-venom"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+38 (agile, magical, thrown 10 ft., versatile s)\n__Damage__  4d8 + 15 piercing plus blackfingers-venom"
 
   - name: "Occult Innate Spells"
     desc: "DC 41, attack +33; __10th __  _[[Spells/Toxic Cloud|Toxic Cloud]]_; __9th __  _[[Spells/Slither|Slither (Spiders Instead of Snakes)]]_, _[[Spells/Vision of Death|Vision of Death]]_; __8th __  _[[Spells/Disappearance|Disappearance]]_; __5th __  _[[Spells/Hallucination|Hallucination (At Will)]]_\n__Constant__  __(10th)__ _[[Spells/Truespeech|Truespeech]]_"

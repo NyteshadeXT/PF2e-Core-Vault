@@ -30,5 +30,5 @@ Once, you died because you valued someone else's life above your own; just as th
 
 **Special** You can select this feat only at 1st level, and you can't retrain into or out of this feat.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

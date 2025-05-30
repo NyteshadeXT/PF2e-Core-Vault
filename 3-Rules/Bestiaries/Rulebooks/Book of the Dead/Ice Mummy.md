@@ -65,14 +65,17 @@ abilities_mid:
   - name: "Snow Vision"
     desc: "  The ice mummy ignores the [[Conditions/Concealed|Concealed]] condition from falling snow."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +20 (magical, two-hand d8)\n__Damage__  2d4 + 7 bludgeoning plus cold-rot 1d6 cold plus cold-rot"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+20 (magical, two-hand d8)\n__Damage__  2d4 + 7 bludgeoning plus cold-rot 1d6 cold plus cold-rot"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +19 (agile, magical)\n__Damage__  2d6 + 7 bludgeoning plus cold-rot 1d6 cold plus cold-rot"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+19 (agile, magical, unarmed)\n__Damage__  2d6 + 7 bludgeoning plus cold-rot 1d6 cold plus cold-rot"
 
   - name: "Channel Rot"
     desc: " (occult) The ice mummy can deliver cold rot through melee weapons they wield."
@@ -81,7 +84,7 @@ attacks:
     desc: " (cold,curse,disease,divine) This affliction can't be reduced below stage 1, nor can damage from it be healed, until successfully treated with [[Spells/Cleanse Affliction|Cleanse Affliction]] or a similar effect. The affliction can then be removed as normal for a disease. A creature killed by cold rot turns to ice crystals and can't be resurrected except by a 7th-rank [[Spells/Resurrect|Resurrect]] ritual or similar magic\n\n**Saving Throw** DC 24 Fortitude check\n* * *\n\n**Stage 1** [[Conditions/Slowed|Slowed 1]] for 1 round, then carrier with no ill effect (1 minute)\n\n**Stage 2** 5d6 void damage plus 2d6 cold damage and [[Conditions/Stupefied|Stupefied 2]] (1 day)"
 
   - name: "Frozen Breath"
-    desc: "`pf2:2` (cold,concentrate,divine) The ice mummy exhales a @Template[cone|distance:60] of razor-sharp ice that deals 5d6 cold and 4d6 slashing damage (DC 26 Reflex check).\n\nThe ice mummy can't use Frozen Breath again for 1d4 rounds."
+    desc: "`pf2:2` (cold,concentrate,divine) The ice mummy exhales a 60-foot cone of razor-sharp ice that deals 5d6 cold and 4d6 slashing damage (DC 26 Reflex check).\n\nThe ice mummy can't use Frozen Breath again for 1d4 rounds."
  
 ```
 

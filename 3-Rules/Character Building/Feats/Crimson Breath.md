@@ -13,7 +13,7 @@ license: OGL
 ---
 # Crimson Breath `pf2:2`
 ## Feat 12
-### [[archetype]][[3-Rules/trait_reference/F/fire]][[primal]]
+### [[archetype]][[fire]][[primal]]
 
 **Category** class; 
 
@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-You gain a fire breath weapon similar to that of a crimson worm. You breathe a blast of flame in a @Template\[cone|distance:30\] that deals 12d6 fire damage to all creatures in the area (Reflex check save). This damage increases by 2d6 at 14th level and every 2 levels thereafter.
+You gain a fire breath weapon similar to that of a crimson worm. You breathe a blast of flame in a 30-foot cone that deals 12d6 fire damage to all creatures in the area (Reflex check save). This damage increases by 2d6 at 14th level and every 2 levels thereafter.
 
 * * *
 

@@ -6,8 +6,9 @@ tags:
   - trait/dwarf
   - trait/uncommon
   - category/ancestry
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.6EgHimhCuS8L0xDE"
-license: OGL
+license: ORC
 ---
 # Explosive Savant
 ## Feat 1
@@ -22,7 +23,7 @@ license: OGL
 
 * * *
 
-A lifetime wielding firearms and explosive ordinance amid the chaos of battle has granted you great skill with volatile weapons. You become trained in simple and martial bombs and firearms.
+You've spent a lifetime wielding guns and explosive ordinance. You have familiarity with bombs and firearms; for the purposes of proficiency you treat bombs and martial firearms as simple weapons, and advanced firearms as martial weapons.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

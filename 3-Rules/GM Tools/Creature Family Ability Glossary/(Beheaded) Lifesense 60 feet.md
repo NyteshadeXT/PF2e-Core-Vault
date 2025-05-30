@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Beheaded) Lifesense 60 feet"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.4pBHIGtTK9yQmZ7h"
 license: OGL

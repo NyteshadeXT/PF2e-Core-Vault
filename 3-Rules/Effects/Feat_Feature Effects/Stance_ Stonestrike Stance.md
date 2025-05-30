@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You enter the stance of unyielding stone and draw upon the power of the living rock, encasing your fists in stone and allowing you to make stonestrike attacks. These deal 1d8 bludgeoning damage, are in the brawling group, and have the forceful, magical, and unarmed traits.
+Granted by [[Actions/Stonestrike Stance|Stonestrike Stance]]
+
+You can make stonestrike attacks. These deal 1d8 bludgeoning damage, are in the brawling group, and have the forceful, magical, and unarmed traits.
 
 *Source: Pathfinder #195: Heavy is the Crown*
 *OGL*

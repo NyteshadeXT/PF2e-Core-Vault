@@ -54,17 +54,20 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Swarm Mind|Swarm Mind]]"
+    desc: "  This monster doesn't have a single mind (typically because it's a swarm of smaller creatures), and is immune to mental effects that target only a specific number of creatures. It is still subject to mental effects that affect all creatures in an area."
+
   - name: "Chittering"
     desc: " (auditory,aura) 60 feet. The chitters of wind-buffeted squirrels disrupts the senses, making air and ground within the emanation difficult terrain for all creatures that hear the sound."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Gust +22 (finesse, reach 20 feet)\n__Damage__  2d12 + 10 bludgeoning plus push"
+  - name: "**Melee** `pf2:1` Gust"
+    desc: "+22 (finesse, reach 20 feet)\n__Damage__  2d12 + 10 bludgeoning plus push"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Squirrel +22 (deadly d10, thrown 30 ft., versatile s)\n__Damage__  2d4 + 10 bludgeoning"
+  - name: "**Ranged** `pf2:1` Squirrel"
+    desc: "+22 (deadly d10, thrown 30 ft., versatile s)\n__Damage__  2d4 + 10 bludgeoning"
 
   - name: "Squirrel Surge"
     desc: "`pf2:1` (flourish) Each enemy within the squirrelwind's chittering aura takes 1d8 slashing damage."
@@ -73,7 +76,7 @@ attacks:
     desc: "  The squirrelwind's movement doesn't trigger reactions."
 
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flaming Baton +10 ()\n__Damage__  1d6 + 2 bludgeoning plus set-on-fire 1d6 fire plus set-on-fire"
+  - name: "**Melee** `pf2:1` Flaming Baton"
+    desc: "+10 ()\n__Damage__  1d6 + 2 bludgeoning plus set-on-fire 1d6 fire plus set-on-fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flame Spit +10 (range 10 feet)\n__Damage__  2d8 fire plus set-on-fire"
+  - name: "**Ranged** `pf2:1` Flame Spit"
+    desc: "+10 (range 10 feet)\n__Damage__  2d8 fire plus set-on-fire"
 
   - name: "Breathe Fire"
-    desc: "`pf2:1` (fire,primal) **Requirements** Viktor is holding an ignited baton\n* * *\n\n**Effect** Viktor breathes fire in a @Template[cone|distance:20]. Creatures within the cone take 3d6 fire damage (DC 18 Reflex check save).\n\nOnce Viktor breathes fire, he cannot do so again for 1d4 rounds."
+    desc: "`pf2:1` (fire,primal) **Requirements** Viktor is holding an ignited baton\n* * *\n\n**Effect** Viktor breathes fire in a 20-foot cone. Creatures within the cone take 3d6 fire damage (DC 18 Reflex check save).\n\nOnce Viktor breathes fire, he cannot do so again for 1d4 rounds."
 
   - name: "Ignite Baton"
     desc: "`pf2:2`  Viktor ignites or douses a baton. Ignited batons burn for 10 minutes or until Viktor douses them."

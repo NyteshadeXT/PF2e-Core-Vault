@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sharp Edge +7 (agile, finesse)\n__Damage__  1d6 + 1 slashing"
+  - name: "**Melee** `pf2:1` Sharp Edge"
+    desc: "+7 (agile, finesse)\n__Damage__  1d6 + 1 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Zap +6 (range increment 30 feet)\n__Damage__  1d4 + 1 electricity"
+  - name: "**Ranged** `pf2:1` Zap"
+    desc: "+6 (range increment 30 feet)\n__Damage__  1d4 + 1 electricity"
 
   - name: "Lizard Frill"
     desc: "`pf2:1` (arcane,fear,mental) **Requirements** The spellskein is folded into its lizard shape\n* * *\n\n**Effect** The spellskein puffs out its cloth frills and shakes them from side to side to look fierce. The first creature hit by its sharp edge Strike before the start of its next turn must succeed on a DC 14 Will check save or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure)."
@@ -84,7 +84,7 @@ creatures:
 
 
 
-Spellskeins created during [[Control Weather|Control Weather]] rituals have a storm cloud form and can gain the following attack in that form.
+Spellskeins created during [[Spells/Control Weather|Control Weather]] rituals have a storm cloud form and can gain the following attack in that form.
 
 * * *
 

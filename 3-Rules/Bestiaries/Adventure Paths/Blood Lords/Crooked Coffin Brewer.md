@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_CROOKED_COFFIN_BREWER1.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Crooked Coffin Brewer"
 level: "Creature 1"
@@ -58,17 +59,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Flagon +8 (agile)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Flagon"
+    desc: "+8 (agile)\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flagon +8 (agile, thrown 20 ft.)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Flagon"
+    desc: "+8 (agile, thrown 20 ft.)\n__Damage__  1d6 + 2 bludgeoning"
 
   - name: "Chug"
     desc: "`pf2:1` (manipulate) **Requirements** The brewer is holding a flagon of ale\n* * *\n\n**Effect** The brewer Interacts to quickly quaff the flagon's contents. For 1 minute, the brewer gains a +2 item bonus to Athletics checks, damage rolls, and saving throws against fear, but becomes [[Conditions/Clumsy|Clumsy 1]].\n\n[[Bestiary Effects/Effect_ Chug|Effect: Chug]]"
 
   - name: "Hasty Impediment"
-    desc: "`pf2:2` (manipulate) **Requirements** The brewer is adjacent to a barrel, crate, chair, table, or similar wooden object\n* * *\n\n**Effect** The brewer heaves the object up to 15 feet and it breaks, sending splinters in a @Template[burst|distance:5]. Each creature in the area of splinters takes 2d6 piercing damage (DC 14 Reflex check), and the area becomes difficult terrain."
+    desc: "`pf2:2` (manipulate) **Requirements** The brewer is adjacent to a barrel, crate, chair, table, or similar wooden object\n* * *\n\n**Effect** The brewer heaves the object up to 15 feet and it breaks, sending splinters in a 5-foot burst. Each creature in the area of splinters takes 2d6 piercing damage (DC 14 Reflex check), and the area becomes difficult terrain."
  
 ```
 

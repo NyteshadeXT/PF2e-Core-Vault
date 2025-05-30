@@ -63,20 +63,23 @@ abilities_mid:
   - name: "Undying Vendetta"
     desc: "  If the silent stalker's murderer dies, the pale stranger is immediately destroyed. A pale stranger that can't sense their murderer must attempt a DC 11 Flat check once every 24 hours to avoid becoming [[Conditions/Immobilized|Immobilized]] and [[Conditions/Prone|Prone]]; they immediately rise again once they can sense their murderer. A murderer who becomes undead does not trigger the silent stalker's destruction until the murderer is finally destroyed. The silent stalker gains a +2 status bonus to checks and DCs against their murderer."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +29 (agile)\n__Damage__  3d8 + 16 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+29 (agile, unarmed)\n__Damage__  3d8 + 16 slashing plus grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  3d8+8 bludgeoning, DC 36 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  3d8+8 bludgeoning, DC 36 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Siphon Voice"
     desc: "`pf2:2` (curse,occult) Niallana attempts to steal the voice of a living creature within 30 feet. The target must attempt a DC 36 Fortitude check save. As long as a creature is voiceless due to this effect, Niallana's silent aura is suppressed, and she can speak in the voice of the affected creature.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The target becomes voiceless until the end of Niallana's next turn. A voiceless creature can't speak, create vocal sounds, or take auditory actions (including supplying verbal or command components).\n\n**Failure** As success, but the duration is 1 minute.\n\n**Critical Failure** As success, but the curse duration is permanent."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

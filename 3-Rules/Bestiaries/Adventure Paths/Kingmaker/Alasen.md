@@ -68,14 +68,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +28 ()\n__Damage__  3d6 + 16 piercing plus werecreature-curse-of-the-werecreature"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+28 (unarmed)\n__Damage__  3d6 + 16 piercing plus werecreature-curse-of-the-werecreature"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +28 (agile)\n__Damage__  3d4 + 16 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+28 (agile, unarmed)\n__Damage__  3d4 + 16 slashing"
 
   - name: "[[Creature Family Ability Glossary/(Werecreature) Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph,primal) Medium human with fist +26 for 2d6+16 bludgeoning, or tiger with Speed 30 feet and Wrestle.\n\nWrestle `pf2:1` The tiger makes a claw Strike against a creature it is grabbing. If the attack hits, that creature is knocked [[Conditions/Prone|Prone]].\n* * *\n\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\n\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\n\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,polymorph,primal) Medium human with fist +26 for 2d6+16 bludgeoning, or tiger with Speed 30 feet and Wrestle.\n\nWrestle `pf2:1` The tiger makes a claw Strike against a creature it is grabbing. If the attack hits, that creature is knocked [[Conditions/Prone|Prone]].\n* * *\n\nThe werecreature changes into its humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is its hybrid shape.\n\nIn humanoid shape, the werecreature uses its original humanoid size, loses its jaws and claws Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by its claw.\n\nIn animal shape, its Speed and size change to that of the animal, it gains any special Strike effects of the animal that it didn't already have (such as Grab), and it loses its weapon Strikes.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Critical Debilitating Strike"
     desc: "  **Trigger** Alasen's Strike hits an [[Conditions/Off-Guard|Off-Guard]] creature and deals damage.\n* * *\n\n**Effect** The target becomes [[Conditions/Enfeebled|Enfeebled 1]] or takes a -10-foot status penalty to its Speeds, as chosen by Alasen. On a critical hit, the target must also attempt a DC 34 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Slowed|Slowed 1]] until the end of Alasen's next turn.\n\n**Failure** The target is [[Conditions/Slowed|Slowed 2]] until the end of Alasen's next turn.\n\n**Critical Failure** The target is [[Conditions/Paralyzed|Paralyzed]] until the end of Alasen's next turn."
@@ -93,7 +93,7 @@ attacks:
     desc: "`pf2:1`  The weretiger Strides and makes a Strike at the end of that movement. If the weretiger began this action [[Conditions/Hidden|Hidden]], they remain hidden until after this ability's Strike."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Claw\n\n* * *\n"
+    desc: "`pf2:1`  Claw\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  Alasen deals 2d6 extra precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

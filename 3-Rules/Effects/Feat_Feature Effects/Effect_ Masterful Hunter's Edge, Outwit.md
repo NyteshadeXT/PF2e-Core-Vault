@@ -4,8 +4,9 @@ title: "Effect: Masterful Hunter's Edge, Outwit"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.iqvurepX0zyu9OlI"
-license: OGL
+license: ORC
 ---
 # Effect: Masterful Hunter's Edge, Outwit
 ## Level 17
@@ -22,5 +23,5 @@ Your mastery of skills allows you to overwhelm your prey. If you have master pro
 
 If you have master proficiency with your armor, increase the circumstance bonus to AC against the prey from +1 to +2.
 
-*Source: Pathfinder Core Rulebook*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

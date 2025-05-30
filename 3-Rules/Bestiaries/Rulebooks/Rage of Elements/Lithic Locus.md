@@ -55,6 +55,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Antiques"
     desc: "  A lithic locus contains at least one magic item. Any such antiques are durable, permanent items that were part of the locus's site and typify their culture. The locus receives the benefits of such an item as if wearing or holding it and can activate it. A lithic locus typically has an item of their level."
 
@@ -64,7 +67,7 @@ attacks:
   - name: ""
 
   - name: "Occult Innate Spells"
-    desc: "DC 34, attack +26; __6th __  _[[Spells/Dominate|Dominate (Echo the Past)]]_; __5th __  _[[Spells/Illusory Scene|Illusory Scene (Echo the Past)]]_, _[[Spells/Invoke Spirits|Invoke Spirits (Echo the Past)]]_, _[[Spells/Wall of Stone|Wall of Stone (Echo the Past)]]_; __3rd __  _[[Item.CuziTxu5CyYbOt1L|One With Stone]]_\n__Cantrips__  __(7th)__ _[[Spells/Daze|Daze]]_"
+    desc: "DC 34, attack +26; __6th __  _[[Spells/Dominate|Dominate (Echo the Past)]]_; __5th __  _[[Spells/Illusory Scene|Illusory Scene (Echo the Past)]]_, _[[Spells/Invoke Spirits|Invoke Spirits (Echo the Past)]]_, _[[Spells/Wall of Stone|Wall of Stone (Echo the Past)]]_; __3rd __  _[[Spells/One with Stone|One with Stone]]_\n__Cantrips__  __(7th)__ _[[Spells/Daze|Daze]]_"
 
   - name: "Bury"
     desc: "  Any creature hit by the locus's ancient stone Strike is partially buried in a tide of earth and rock, becoming [[Conditions/Immobilized|Immobilized]] ([[Actions/Escape|Escape]] DC 34)."

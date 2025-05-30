@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ease Burden
 
-### [[3-Rules/trait_reference/E/earth]]
+### [[earth]]
 
 **Category** offensive; 
 

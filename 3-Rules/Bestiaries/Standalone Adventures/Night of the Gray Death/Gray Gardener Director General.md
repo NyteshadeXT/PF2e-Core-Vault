@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sword Cane +32 (agile, concealable, finesse)\n__Damage__  3d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Sword Cane"
+    desc: "+32 (agile, concealable, finesse)\n__Damage__  3d6 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +32 (agile, finesse, versatile s)\n__Damage__  2d4 + 8 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+32 (agile, finesse, versatile s)\n__Damage__  2d4 + 8 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +32 (agile, thrown 10 ft., versatile s)\n__Damage__  2d4 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+32 (agile, thrown 10 ft., versatile s)\n__Damage__  2d4 + 8 piercing"
 
   - name: "Quick Draw"
     desc: "`pf2:1`  The director general Interacts to draw a weapon, and then Strikes with that weapon."

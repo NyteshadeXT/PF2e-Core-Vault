@@ -62,10 +62,13 @@ abilities_top:
   - name: "Wild Hunt Link"
     desc: " (aura,magical) 1 mile. A wild hunt monarch increases the range of wild hunt link to affect all wild hunt members within a mile. Other wild hunt creatures in this link who end their turn within 60 feet of a wild hunt monarch gain regeneration 50 until the end of their next turn; this regeneration can only be deactivated by forcing the wild hunt out of the 60-foot aura or by killing the wild hunt monarch."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Instinctive Cooperation"
     desc: "  The wild hunt monarch automatically achieves a critical success on saving throws against effects created by other allied wild hunt creatures."
@@ -76,17 +79,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Glaive +38 (deadly d8, forceful, magical, reach 10 feet)\n__Damage__  1d6 sonic 1d6 bleed 4d8 + 20 slashing"
+  - name: "**Melee** `pf2:1` Glaive"
+    desc: "+38 (deadly d8, forceful, magical, reach 10 feet)\n__Damage__  1d6 sonic 1d6 bleed 4d8 + 20 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horns +38 (agile, magical)\n__Damage__  4d8 + 20 piercing plus brutal-gore"
+  - name: "**Melee** `pf2:1` Horns"
+    desc: "+38 (agile, magical)\n__Damage__  4d8 + 20 piercing plus brutal-gore"
 
   - name: "Primal Innate Spells"
-    desc: "DC 40, attack +32; __10th __  _[[Spells/Primal Phenomenon|Primal Phenomenon]]_; __9th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Dominate|Dominate]]_, _[[Spells/Execute|Finger of Death]]_; __8th __  _[[Spells/Charm|Charm]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Migration|Wind Walk]]_; __7th __  _[[Spells/Mirage|Hallucinatory Terrain]]_, _[[Spells/Interplanar Teleport|Plane Shift]]_; __6th __  _[[Spells/Speak with Stones|Stone Tell]]_\n__Cantrips__  __(10th)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Produce Flame|Produce Flame]]_\n__Constant__  __(10th)__ _[[Spells/Speak with Animals|Speak with Animals]]_, _[[Spells/Speak with Plants|Speak with Plants]]_"
+    desc: "DC 40, attack +32; __10th __  _[[Spells/Primal Phenomenon|Primal Phenomenon]]_; __9th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Dominate|Dominate]]_, _[[Spells/Execute|Finger of Death]]_; __8th __  _[[Spells/Charm|Charm]]_, _[[Spells/Suggestion|Suggestion]]_, _[[Spells/Migration|Wind Walk]]_; __7th __  _[[Spells/Mirage|Hallucinatory Terrain]]_, _[[Spells/Interplanar Teleport|Plane Shift]]_; __6th __  _[[Spells/Speak with Stones|Stone Tell]]_\n__Cantrips__  __(10th)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Know the Way|Know Direction]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_\n__Constant__  __(10th)__ _[[Spells/Speak with Animals|Speak with Animals]]_, _[[Spells/Speak with Plants|Speak with Plants]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Control Weather|Control Weather]]_, _[[Spells/Primal Call|Primal Call (Creatures with the Wild Hunt Trait Only)]]_"
+    desc: "_Control Weather_, _Primal Call (Creatures with the Wild Hunt Trait Only)_"
 
   - name: "Brutal Gore"
     desc: "  A creature critically hit by a monarch's horns strike is [[Conditions/Stunned|Stunned 1]]."

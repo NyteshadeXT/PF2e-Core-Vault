@@ -4,7 +4,7 @@ title: "Smuggled"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/exploration
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.adventure-specific-actions.Item.dqE9pP9Pv0JG9d8X"
 license: OGL

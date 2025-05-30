@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spiked Gauntlet +11 (agile)\n__Damage__  1d4 + 4 piercing"
+  - name: "**Melee** `pf2:1` Spiked Gauntlet"
+    desc: "+11 (agile)\n__Damage__  1d4 + 4 piercing"
 
   - name: "Divine Spontaneous Spells"
-    desc: "DC 23, attack +13; __3rd __ (3 slots) _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Harm|Harm]]_; __2nd __ (4 slots) _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Compendium.pf2e.spells-srd.Item.FzAtX8yXBjTaisJK|Undetectable Alignment]]_; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Message|Message]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 23, attack +13; __3rd __ (3 slots) _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Harm|Harm]]_; __2nd __ (4 slots) _[[Spells/Calm|Calm Emotions]]_, _[[Spells/Floating Flame|Flaming Sphere]]_, _[[Spells/See the Unseen|See Invisibility]]_, _[[Compendium.pf2e.spells-srd.Item.FzAtX8yXBjTaisJK|Undetectable Alignment]]_; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(3rd)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Message|Message]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Sorcerer Bloodline Spell"
     desc: "1 Focus Point, DC 22, attack +12; __3rd __  _[[Spells/Diabolic Edict|Diabolic Edict]]_"

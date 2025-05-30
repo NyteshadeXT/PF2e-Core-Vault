@@ -24,7 +24,7 @@ Your ripostes can deflect attacks back at their source. You can use [[Class Feat
 
 When you use Opportune Riposte with this new trigger against a ranged attack, your Strike deflects some of the triggering effect back toward its source. Compare the result of your attack roll to the AC of the triggering foe.
 
-On a hit, you deal the normal amount of damage for your Strike, but the damage type changes to that of the triggering attack. For instance, if you used Opportune Riposte to deflect a [[Blazing Bolt|Blazing Bolt]], your Strike would deal fire damage instead of its normal damage type.
+On a hit, you deal the normal amount of damage for your Strike, but the damage type changes to that of the triggering attack. For instance, if you used Opportune Riposte to deflect a [[Spells/Blazing Bolt|Blazing Bolt]], your Strike would deal fire damage instead of its normal damage type.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

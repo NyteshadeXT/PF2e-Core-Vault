@@ -16,7 +16,9 @@ license: OGL
 
 
 
+Granted by [[Equipment/Kraken's Guard|Kraken's Guard]]
+
 When you use the shield to Grapple, you gain a +3 item bonus to your Athletics check.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

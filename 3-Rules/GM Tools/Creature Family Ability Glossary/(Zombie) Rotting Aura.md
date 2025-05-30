@@ -5,7 +5,8 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/aura
   - trait/disease
-  - trait/common
+  - trait/void
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.CxiEpXt7Gw3tSIOh"
@@ -13,18 +14,16 @@ license: ORC
 ---
 # (Zombie) Rotting Aura
 
-### [[3-Rules/trait_reference/A/aura]][[3-Rules/trait_reference/D/disease]]
+### [[aura]][[disease]][[void]]
 
 **Category** defensive; 
 
 
 
 
-10 feet. The zombie emits an aura of rot and disease that causes wounds to fester and turn sour.
+10 feet. The zombie emits an aura of rot and disease that causes wounds to fester.
 
-Any living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 damage as its wounds fester. This damage increases by 1d6 for every 6 levels the zombie has.
-
-Creatures that take a critical hit from the zombie also take this damage immediately.
+Any living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 void damage. This damage increases by 1d6 for every 6 levels the zombie has.
 
 *Source: Pathfinder Monster Core*
 *ORC*

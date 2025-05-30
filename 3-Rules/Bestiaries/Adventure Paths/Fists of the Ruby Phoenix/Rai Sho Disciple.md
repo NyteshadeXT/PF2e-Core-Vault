@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +33 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  4d6 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+33 (agile, finesse, magical, nonlethal, unarmed)\n__Damage__  4d6 + 14 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sal Blossom +33 (deadly d10, finesse, magical, unarmed)\n__Damage__  4d10 + 14 void"
+  - name: "**Melee** `pf2:1` Sal Blossom"
+    desc: "+33 (deadly d10, finesse, magical, unarmed)\n__Damage__  4d10 + 14 void"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Temple Bell +33 (magical, range increment 60 feet, sonic)\n__Damage__  4d10 + 6 sonic"
+  - name: "**Ranged** `pf2:1` Temple Bell"
+    desc: "+33 (magical, range increment 60 feet, sonic)\n__Damage__  4d10 + 6 sonic"
 
   - name: "Focus Spells"
     desc: "3 Focus Points, DC 37, attack +29; __8th __  _[[Spells/Qi Rush|Ki Rush]]_, _[[Spells/Inner Upheaval|Ki Strike]]_, _[[Spells/Harmonize Self|Wholeness of Body]]_"

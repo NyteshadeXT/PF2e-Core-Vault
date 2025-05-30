@@ -61,8 +61,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dogslicer +19 (agile, backstabber, finesse, goblin)\n__Damage__  2d6 + 7 slashing"
+  - name: "**Melee** `pf2:1` Dogslicer"
+    desc: "+19 (agile, backstabber, finesse, goblin)\n__Damage__  2d6 + 7 slashing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Divine Wrath|Divine Wrath]]_; __3rd __  _[[Spells/Blindness|Blindness]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Ghoulish Cravings|Ghoulish Cravings]]_, _[[Spells/Silence|Silence]]_, _[[Spells/Noise Blast|Sound Burst]]_; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Enfeeble|Ray of Enfeeblement]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(4th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Message|Message]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Shield|Shield]]_"
@@ -71,10 +71,10 @@ attacks:
     desc: "DC 23, attack +15; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The doppelganger takes on the specific appearance of any Small or Medium humanoid who it has seen and whose appearance it remembers. This doesn't change the doppelganger's Speed or its attack and damage bonuses with its Strikes but might change the damage type its Strikes deal (typically to bludgeoning)."
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The doppelganger takes on the specific appearance of any Small or Medium humanoid who it has seen and whose appearance it remembers. This doesn't change the doppelganger's Speed or its attack and damage bonuses with its Strikes but might change the damage type its Strikes deal (typically to bludgeoning).\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Deploy Flytraps"
-    desc: "`pf2:2` (divine,manipulate) **Requirements** Virthad is carrying a sack of prepared flytrap pods\n* * *\n\n**Effect** Virthad dumps the contents of the sack into two adjacent squares while invoking prayers to Lamashtu. The pods grow into two elite [[Bestiary 1/Snapping Flytrap|Snapping Flytraps]] that immediately attack any non-worshipper of Lamashtu they can detect."
+    desc: "`pf2:2` (divine,manipulate) **Requirements** Virthad is carrying a sack of prepared flytrap pods\n* * *\n\n**Effect** Virthad dumps the contents of the sack into two adjacent squares while invoking prayers to Lamashtu. The pods grow into two elite [[Monster Core/Snapping Flytrap|Snapping Flytraps]] that immediately attack any non-worshipper of Lamashtu they can detect."
  
 ```
 

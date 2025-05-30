@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You call forth the blood of your foes to grant you vigor. You can cast [[Vampiric Exsanguination|Vampiric Exsanguination]] as a 7th-rank divine innate spell once per day.
+You call forth the blood of your foes to grant you vigor. You can cast [[Spells/Vampiric Exsanguination|Vampiric Exsanguination]] as a 7th-rank divine innate spell once per day.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

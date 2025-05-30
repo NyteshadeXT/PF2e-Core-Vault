@@ -37,7 +37,7 @@ trait_05: [[water]]
 modifier: 18
 perception:
   - name: "Perception"
-    desc: "+18; "
+    desc: "+18; Darkvision"
 languages: "Common, Sussuran"
 skills:
   - name: "Skills"
@@ -68,14 +68,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Beak +21 (reach 10 feet)\n__Damage__  3d10 + 10 piercing"
+  - name: "**Melee** `pf2:1` Beak"
+    desc: "+21 (reach 10 feet, unarmed)\n__Damage__  3d10 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +21 (agile)\n__Damage__  3d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+21 (agile, unarmed)\n__Damage__  3d6 + 10 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bolt +23 (range 120 feet)\n__Damage__  6d6 untyped plus storm-bolt"
+  - name: "**Ranged** `pf2:1` Bolt"
+    desc: "+23 (range 120 feet)\n__Damage__  6d6 untyped plus storm-bolt"
 
   - name: "Dive-bomb"
     desc: "`pf2:2` (earth,fire,primal) **Requirements** The chaos falcon is Flying\n* * *\n\n**Effect** The chaos falcon Flies twice straight down. If they reach the ground or a similarly solid object at the end of this movement, their landing shatters that surface into sharp shards and droplets of molten stone deal 4d6 fire and 3d8 piercing damage (DC 26 Reflex check save) to all other creatures within 20 feet."

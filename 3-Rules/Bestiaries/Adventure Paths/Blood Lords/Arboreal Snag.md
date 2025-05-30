@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/PZO90182_ARBOREAL_SNAG.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Arboreal Snag"
 level: "Creature 3"
@@ -57,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Axe Vulnerability"
     desc: "  An arboreal snag takes 5 additional damage from axes."
@@ -65,26 +66,29 @@ abilities_mid:
   - name: "Putrid Sap"
     desc: " (disease,primal) If the arboreal snag takes damage from a piercing attack, nauseating green pus spurts from the wound. Creatures within 10 feet of the snag must succeed at a DC 20 Fortitude check save or be [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure). Creatures that attempt this save are then temporarily immune for 1 hour."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +12 (reach 10 feet)\n__Damage__  1d10 + 6 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+12 (reach 10 feet)\n__Damage__  1d10 + 6 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Root +12 ()\n__Damage__  1d8 + 6 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Root"
+    desc: "+12 ()\n__Damage__  1d8 + 6 bludgeoning plus knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Rock +12 (brutal, range increment 30 feet)\n__Damage__  1d8 + 6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Rock"
+    desc: "+12 (brutal, range increment 30 feet)\n__Damage__  1d8 + 6 bludgeoning"
 
   - name: "[[Bestiary Ability Glossary/Throw Rock|Throw Rock]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  The monster picks up a rock within reach or retrieves a stowed rock and throws it, making a ranged Strike."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

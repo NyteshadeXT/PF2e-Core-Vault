@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Actions/Destructive Vengeance|Destructive Vengeance]], [[Actions/Iron Command|Iron Command]], and [[Actions/Selfish Shield|Selfish Shield]]
+Granted by [[Actions/Destructive Vengeance|Destructive Vengeance]], [[Actions/Iron Command|Iron Command]], [[Actions/Selfish Shield|Selfish Shield]]
 
 Your strikes against the triggering creature deal extra spirit damage.
 

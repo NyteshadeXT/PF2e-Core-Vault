@@ -22,5 +22,5 @@ When you successfully Strike a foe, your weapon glows with bright light out to 6
 
 [[Divine Intercessions/Effect_ Shizuru's Light|Effect: Shizuru's Light]]
 
-*Source: Pathfinder Lost Omens: Gods & Magic*
+*Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

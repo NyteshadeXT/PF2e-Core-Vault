@@ -24,5 +24,5 @@ You move strategically forward to draw the enemy's attention away from your alli
 
 On a success, in addition to the normal outcome for Creating a Diversion, the enemy becomes [[Conditions/Fascinated|Fascinated]] with you until the start of your next turn and can't use reactions against allies in your aura. On a critical success, the enemy becomes fascinated with you until the end of your next turn.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

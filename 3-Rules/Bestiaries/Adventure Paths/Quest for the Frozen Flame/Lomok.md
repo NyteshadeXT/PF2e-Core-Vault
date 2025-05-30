@@ -77,11 +77,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longsword +24 (versatile p)\n__Damage__  2d8 + 11 slashing plus oath-of-the-burning-mammoths"
+  - name: "**Melee** `pf2:1` Longsword"
+    desc: "+24 (versatile p)\n__Damage__  2d8 + 11 slashing plus oath-of-the-burning-mammoths"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +22 (thrown 20 ft.)\n__Damage__  1d6 + 11 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+22 (thrown 20 ft.)\n__Damage__  1d6 + 11 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 28, attack +18; __1st __ (1 slots) _[[Spells/Bless|Bless]]_\n__Cantrips__  __(6th)__ _[[Spells/Light|Light]]_"

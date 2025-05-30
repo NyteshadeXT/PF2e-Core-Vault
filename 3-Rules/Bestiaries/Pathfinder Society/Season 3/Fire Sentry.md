@@ -45,7 +45,7 @@ perception:
 abilities_top:
   - name: ""
   - name: "Description"
-    desc: "A @Template[burst|distance:5] pillar of magical fire travels along a track throughout the room. The pillar emits bright light out to 20 feet."
+    desc: "A 5-foot burst pillar of magical fire travels along a track throughout the room. The pillar emits bright light out to 20 feet."
 abilities_mid:
   - name: ""
   - name: "Disable"

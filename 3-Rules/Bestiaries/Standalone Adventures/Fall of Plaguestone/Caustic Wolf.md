@@ -53,17 +53,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d6 + 2 piercing plus knockdown 1d4 acid plus knockdown"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d6 + 2 piercing plus knockdown 1d4 acid plus knockdown"
 
   - name: "Acid Breath"
-    desc: "`pf2:2`  The wolf unleashes a stream of bright green acid from its mouth, coating all creatures in a @Template[line|distance:30]. All creatures in the line take 3d6 acid damage (DC 16 Reflex check save).\n\nThe caustic wolf cannot use this ability again for 1 minute."
+    desc: "`pf2:2`  The wolf unleashes a stream of bright green acid from its mouth, coating all creatures in a 30-foot line. All creatures in the line take 3d6 acid damage (DC 16 Reflex check save).\n\nThe caustic wolf cannot use this ability again for 1 minute."
 
   - name: "Howl"
     desc: "`pf2:2`  The wolf unleashes a terrifying howl, allowing it to [[Actions/Demoralize|Demoralize]] all enemies within 30 feet. Wolves within 100 feet can spend a reaction to join the howl, causing the effect to emanate from them as well. This affects additional enemies within 30 feet of them and uses the caustic wolf's Intimidation check with a -4 circumstance penalty.\n\nEnemies cannot be affected by the howl more than once, even if they are near more than one howling wolf. All creatures targeted by this effect are temporarily immune for 24 hours."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

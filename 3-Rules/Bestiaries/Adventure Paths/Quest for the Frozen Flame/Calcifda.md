@@ -66,8 +66,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +22 (agile)\n__Damage__  3d6 + 11 slashing plus coal-curse"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+22 (agile, unarmed)\n__Damage__  3d6 + 11 slashing plus coal-curse"
 
   - name: "Occult Innate Spells"
     desc: "DC 29, attack +19; __5th __ (3 slots) _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __ (3 slots) _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Read Omens|Read Omens]]_, _[[Spells/Shape Stone|Shape Stone]]_; __3rd __ (2 slots) _[[Spells/Clairaudience|Clairaudience]]_, _[[Spells/Earthbind|Earthbind]]_; __2nd __ (2 slots) _[[Spells/Augury|Augury]]_, _[[Compendium.pf2e.spells-srd.Item.FzAtX8yXBjTaisJK|Undetectable Alignment]]_\n__Cantrips__  __(5th)__ _[[Spells/Know the Way|Know Direction]]_, _[[Spells/Read Aura|Read Aura]]_"

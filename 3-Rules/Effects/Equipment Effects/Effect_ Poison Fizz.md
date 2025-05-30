@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Poison Fizz (Lesser)|Poison Fizz (Lesser)]], [[Poison Fizz (Moderate)|Poison Fizz (Moderate)]]
+Granted by [[Equipment/Poison Fizz (Lesser)|Poison Fizz (Lesser)]], [[Equipment/Poison Fizz (Moderate)|Poison Fizz (Moderate)]], [[Equipment/Poison Fizz (Greater)|Poison Fizz (Greater)]]
 
-You have a +2 (Lesser, Moderate) item bonus to saving throws against poison and being petrified.
+You gain an item bonus to saving throws against poison and being petrified.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

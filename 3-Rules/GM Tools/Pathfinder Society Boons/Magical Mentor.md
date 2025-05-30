@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "Magical Mentor"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.95R55tdobViU7ZWe"
 license: OGL
 ---
 # Magical Mentor
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 
@@ -28,7 +28,7 @@ While working with less experienced Pathfinder allies, you provide key spellcast
 
 **Special**: A PC can only benefit from two mentor boons.
 
-[[Feat_Feature Effects/Effect_ Magical Mentor Boon (PFS)|Effect: Magical Mentor Boon (PFS)]]
+[[Campaign Effects/Effect_ Magical Mentor|Effect: Magical Mentor]]
 
 *Source: *
 *OGL*

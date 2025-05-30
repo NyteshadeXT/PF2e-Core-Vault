@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +11 ()\n__Damage__  1d6 + 6 slashing"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+11 ()\n__Damage__  1d6 + 6 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +11 (disarm, finesse, nonlethal, reach 10 feet, trip)\n__Damage__  1d4 + 6 slashing"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+11 (disarm, finesse, nonlethal, reach 10 feet, trip)\n__Damage__  1d4 + 6 slashing"
 
   - name: "Tripping Whip"
     desc: "`pf2:r`  **Requirements** The Usij cultist must have a whip in their hands\n\n**Trigger** A creature moves out of a threatened square\n* * *\n\n**Effect** The Usij cultist makes a [[Actions/Trip|Trip]] attempt against the triggering creature with their whip."

@@ -23,7 +23,7 @@ level: "Army 12"
 
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: cavalry
 modifier: 23
 perception:
@@ -31,9 +31,9 @@ perception:
   - name: "Scouting"
     desc: "+23"
   - name: "Recruitment DC"
-    desc: "; __Consumption__ 0"
+    desc: "15; __Consumption__ 1"
   - name: "Description"
-    desc: "This flight of wyverns has been trained to obey orders in battle.\n\n_**Note**: In Pathfinder: Kingmaker, the Wyvern Flight has a melee strike bonus of +18. This has been assumed to be an error, and substituted with +26, the default value for a level 12 army._"
+    desc: "This flight of wyverns has been trained to obey orders in battle.\n\n_**Note**: In Pathfinder: Kingmaker, the Wyvern Flight has a melee strike bonus of +18. This has been assumed to be an error, and substituted with +26, the default value for a level 12 army._"
 ac: 33
 armorclass:
   - name: AC

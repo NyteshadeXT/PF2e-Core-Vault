@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +12 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 1 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+12 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +11 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+11 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 22, attack +12; __3rd __ (3 slots) _[[Spells/Haste|Haste]]_, _[[Spells/Levitate|Levitate]]_, _[[Spells/Noise Blast|Noise Blast]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Soothe|Soothe]]_; __2nd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Noise Blast|Noise Blast]]_, _[[Spells/Soothe|Soothe]]_; __1st __ (3 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Enfeeble|Enfeeble]]_, _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Know the Way|Know the Way]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

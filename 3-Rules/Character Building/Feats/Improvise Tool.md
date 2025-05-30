@@ -23,7 +23,7 @@ license: ORC
 * * *
 You can jury-rig solutions when you don't have the proper tools on hand. You can attempt to [[Actions/Repair|Repair]] damaged items without a repair kit.
 
-If you have the raw materials available, you can [[Actions/Craft|Craft]] a basic [[Caltrops|Caltrop]] set, [[Candle|Candle]], [[Compass|Compass]], [[Crowbar|Crowbar]], [[Fishing Tackle|Fishing Tackle]], [[Flint and Steel|Flint and Steel]], [[Hammer|Hammer]], [[Ladder (10-foot)|Ladder]], [[Piton|Piton]], [[Rope|Rope]], [[Ten-Foot Pole|Ten-Foot Pole]], [[Thieves' Toolkit (Replacement Picks)|Replacement Thieves Picks]], [[Tool (Long)|Long Tool]] or [[Tool (Short)|Short Tool]], or [[Torch|Torch]] as if you had their formulas.
+If you have the raw materials available, you can [[Actions/Craft|Craft]] a basic [[Equipment/Caltrops|Caltrop]] set, [[Equipment/Candle|Candle]], [[Equipment/Compass|Compass]], [[Equipment/Crowbar|Crowbar]], [[Equipment/Fishing Tackle|Fishing Tackle]], [[Equipment/Flint and Steel|Flint and Steel]], [[Equipment/Hammer|Hammer]], [[Equipment/Ladder (10-foot)|Ladder]], [[Equipment/Piton|Piton]], [[Equipment/Rope|Rope]], [[Equipment/Ten-Foot Pole|Ten-Foot Pole]], [[Equipment/Thieves' Toolkit (Replacement Picks)|Replacement Thieves Picks]], [[Equipment/Tool (Long)|Long Tool]] or [[Equipment/Tool (Short)|Short Tool]], or [[Equipment/Torch|Torch]] as if you had their formulas.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

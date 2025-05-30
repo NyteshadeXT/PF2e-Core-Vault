@@ -60,8 +60,14 @@ abilities_top:
   - name: "Painsight"
     desc: " (divine) A precentor automatically knows whether a creature it sees has any of the [[Conditions/Doomed|Doomed]], [[Conditions/Dying|Dying]], and [[Conditions/Wounded|Wounded]] conditions, as well as the value of those conditions."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Regeneration|Regeneration 25 (Deactivated by Holy or Silver)]]"
+    desc: "  This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond Dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to Dying 4."
+
   - name: "Final Spite"
     desc: "`pf2:r`  **Trigger** Sonnorae is reduced to 0 Hit Points\n* * *\n\n**Effect** Sonnorae casts [[Spells/Wails of the Damned|Wails of the Damned]], if it's available, before dying. Otherwise, she makes one Strike."
 
@@ -71,8 +77,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +34 (agile, finesse, reach 10 feet, unholy)\n__Damage__  3d6 + 15 slashing 2d6 bleed"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+34 (agile, finesse, reach 10 feet, unarmed, unholy)\n__Damage__  3d6 + 15 slashing 2d6 bleed"
 
   - name: "Divine Innate Spells"
     desc: "DC 40, attack +32; __9th __  _[[Spells/Synesthesia|Synesthesia]]_, _[[Spells/Wails of the Damned|Wail of the Banshee]]_; __8th __  _[[Spells/Hidden Mind|Mind Blank]]_, _[[Spells/Interplanar Teleport|Plane Shift (At Will, to the Harrowed Realm, Universe, or Netherworld only)]]_, _[[Spells/Spiritual Epidemic|Spiritual Epidemic]]_; __7th __  _[[Spells/Command|Command]]_, _[[Spells/Wave of Despair|Crushing Despair]]_, _[[Spells/Noise Blast|Sound Burst]]_; __4th __  _[[Spells/Invisibility|Invisibility (At Will, Self Only)]]_\n__Cantrips__  __(9th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Sigil|Sigil]]_\n__Constant__  __(8th)__ _[[Spells/Fly|Fly]]_, _[[Spells/Truesight|True Seeing]]_"

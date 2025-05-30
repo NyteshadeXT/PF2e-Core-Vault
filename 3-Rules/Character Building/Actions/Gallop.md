@@ -3,16 +3,16 @@ obsidianUIMode: preview
 title: "Gallop"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/move
-  - trait/common
+  - trait/
+  - category/offensive
 aliases: "Compendium.pf2e.actionspf2e.Item.jtuWJa6Iyyd3gkVv"
 license: OGL
 ---
 # Gallop `pf2:2`
 
-### [[move]]
+### 
 
-
+**Category** offensive; 
 
 
 

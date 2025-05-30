@@ -49,22 +49,25 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Archaic Wayfinder|Archaic Wayfinder (With Nexus Aeon Stone in A2)]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Electrowhip +15 (disarm, finesse, magical, reach 10 feet, trip)\n__Damage__  2d8 + 7 electricity plus knockdown"
+  - name: "**Melee** `pf2:1` Electrowhip"
+    desc: "+15 (disarm, finesse, magical, reach 10 feet, trip)\n__Damage__  2d8 + 7 electricity plus knockdown"
 
   - name: "Arcane Innate Spells"
     desc: "DC 22, attack +14\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

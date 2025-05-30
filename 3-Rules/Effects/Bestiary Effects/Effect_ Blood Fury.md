@@ -18,5 +18,5 @@ license: OGL
 
 The creature gains a +1 status bonus to attack rolls.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

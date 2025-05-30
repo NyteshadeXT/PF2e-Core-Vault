@@ -35,7 +35,7 @@ perception:
 languages: "Common, Elven, Shadowtongue"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +17, Deception: +15, Society: +15, Stealth: +19, Acrobatics: +17, Deception: +15, Society: +15, Stealth: +19, Secret Lore: +15"
+    desc: "Acrobatics: +17, Deception: +15, Society: +15, Stealth: +19, Secret Lore: +15"
 abilityMods: [5, 6, 2, 4, 2, 4]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -75,14 +75,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +18 (agile, finesse)\n__Damage__  2d4 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+18 (agile, finesse)\n__Damage__  2d4 + 9 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +18 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 9 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+18 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +18 (range increment 120 feet, reload 1)\n__Damage__  2d8 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+18 (range increment 120 feet, reload 1)\n__Damage__  2d8 + 4 piercing"
  
 ```
 

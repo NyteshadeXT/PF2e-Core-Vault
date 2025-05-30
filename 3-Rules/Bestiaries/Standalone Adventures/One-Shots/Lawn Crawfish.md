@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (finesse)\n__Damage__  1d6 + 1 slashing plus crawfish-venom,grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (finesse, unarmed)\n__Damage__  1d6 + 1 slashing plus crawfish-venom,grab"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  1d6 bludgeoning, DC 17 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  1d6 bludgeoning, DC 17 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "Crawfish Venom"
     desc: " (poison) **Saving Throw** DC 17 Fortitude check\n\n**Maximum Duration** 4 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)."

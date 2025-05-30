@@ -17,7 +17,9 @@ license: OGL
 
 
 
-The creature gains a status bonus to Reflex saves and Acrobatics checks.
+Granted by [[Feats/Kindle Inner Flames|Kindle Inner Flames]]
+
+You gain a status bonus to Reflex saves and Acrobatics checks.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

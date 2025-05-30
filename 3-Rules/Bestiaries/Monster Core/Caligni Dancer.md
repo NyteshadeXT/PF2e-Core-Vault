@@ -53,25 +53,31 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Dagger|Dagger]], [[Equipment/Light Mace|Baton (Light Mace)]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "Distracting Frolic"
     desc: "`pf2:r` (fortune,manipulate) **Trigger** An ally within 10 feet of the dancer rolls a saving throw against a mental or illusion effect\n* * *\n\n**Effect** The target ally can roll the save twice and take the better result.\n\n[[Bestiary Effects/Effect_ Distracting Frolic|Effect: Distracting Frolic]]"
 
   - name: "Final Dance"
-    desc: " (occult,shadow,visual) When the dancer dies, their body dissolves into a swirling mass of darkness and light. All creatures in a @Template[emanation|distance:10] must succeed at a DC 17 Will check save or be [[Conditions/Dazzled|Dazzled]] for 1d4 rounds.\n\nThe dancer's possessions are left in a pile where they died."
+    desc: " (occult,shadow,visual) When the dancer dies, their body dissolves into a swirling mass of darkness and light. All creatures in a 10-foot emanation must succeed at a DC 17 Will check save or be [[Conditions/Dazzled|Dazzled]] for 1d4 rounds.\n\nThe dancer's possessions are left in a pile where they died."
+
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Baton +9 (agile, finesse, shove)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Baton"
+    desc: "+9 (agile, finesse, shove)\n__Damage__  1d4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +9 (agile, finesse, versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+9 (agile, finesse, versatile s)\n__Damage__  1d4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+9 (agile, thrown 10 ft., versatile s)\n__Damage__  1d4 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 16, attack +8; __1st __  _[[Spells/Counter Performance|Counter Performance (Visual Only)]]_\n__Cantrips__  __(1st)__ _[[Spells/Courageous Anthem|Courageous Anthem]]_"

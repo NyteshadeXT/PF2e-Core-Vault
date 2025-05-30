@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
 abilities_mid:
   - name: ""
   - name: "Otherworldly Mind"
@@ -66,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d10 + 5 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d10 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +11 (agile)\n__Damage__  1d8 + 5 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+11 (agile)\n__Damage__  1d8 + 5 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 20, attack +12; __2nd __  _[[Spells/Invisibility|Invisibility (Self Only)]]_"

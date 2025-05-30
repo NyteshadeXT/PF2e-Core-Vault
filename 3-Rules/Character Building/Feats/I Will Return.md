@@ -21,5 +21,5 @@ license: ORC
 
 Your special connection to death and rebirth allows you to sense when it's your time to enter the Great Beyond, and now isn't the time. You gain +2 status bonus to saving throws against death effects. You gain the [[Feats/Diehard|Diehard]] feat. The first time each day that you lose the [[Conditions/Dying|Dying]] condition, you do not increase your [[Conditions/Wounded|Wounded]] condition.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

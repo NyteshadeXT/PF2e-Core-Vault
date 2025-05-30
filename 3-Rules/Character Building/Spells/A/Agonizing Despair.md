@@ -41,6 +41,6 @@ abilities_top:
     desc: " will"
 abilities_mid:
   - name: ""
-    desc: "Your target's mind tumbles down a deep well of dread, dwelling so intently on deep-seated fears that it's painful. The target takes 4d6 mental damage with a Will saving throw.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes half damage and becomes [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The target takes full damage and becomes [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The target takes double damage and becomes [[Conditions/Frightened|Frightened 3]].\n* * *\n\n**Heightened (+1)** Increase the damage by 2d6 mental."
+    desc: "Your target's mind tumbles down a deep well of dread, dwelling so intently on deep-seated fears that it's painful. The target takes 4d6 mental damage with a Will saving throw.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes half damage and becomes [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The target takes full damage and becomes [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The target takes double damage and becomes [[Conditions/Frightened|Frightened 3]].\n* * *\n\n**Heightened (+1)** Increase the damage by 2d6."
 sourcebook: "_Pathfinder Advanced Player's Guide_"
 ```

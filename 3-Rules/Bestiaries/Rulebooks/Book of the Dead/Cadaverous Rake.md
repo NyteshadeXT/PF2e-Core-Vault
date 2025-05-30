@@ -60,11 +60,14 @@ abilities_mid:
   - name: "Repartee Riposte"
     desc: "`pf2:r` (emotion,mental) **Trigger** A creature within the cadaverous rake's reach critically fails at a melee Strike against the rake\n* * *\n\n**Effect** The cadaverous rake attempts a Strike against the creature, firing back a witty retort. If this Strike succeeds, the creature is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical success."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +20 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 8 piercing"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+20 (deadly d8, disarm, finesse, magical)\n__Damage__  2d6 + 8 piercing"
 
   - name: "Parry Dance"
     desc: "`pf2:1`  The cadaverous rake makes a melee Strike, then Steps, positioning their blade defensively. They gain a +2 circumstance bonus to AC until the end of their next turn.\n\n[[Bestiary Effects/Effect_ Parry Dance|Effect: Parry Dance]]"

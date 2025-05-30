@@ -31,5 +31,5 @@ Your Strikes and damaging spells deal an additional 1d6 damage against certain c
     
 *   **Wood** cold damage against earth creatures and constructs that are primarily made of rock or earth
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

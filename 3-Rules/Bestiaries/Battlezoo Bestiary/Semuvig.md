@@ -69,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Hand +42 (agile, finesse, magical)\n__Damage__  2d12 + 14 slashing plus paralyzing-touch 2d12 void plus paralyzing-touch"
+  - name: "**Melee** `pf2:1` Hand"
+    desc: "+42 (agile, finesse, magical)\n__Damage__  2d12 + 14 slashing plus paralyzing-touch 2d12 void plus paralyzing-touch"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +40 (magical)\n__Damage__  2d12 + 24 piercing 2d12 void"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+40 (magical)\n__Damage__  2d12 + 24 piercing 2d12 void"
 
   - name: "Arcane Spontaneous Spells"
     desc: "DC 48, attack +40; __10th __ (1 slots) _[[Spells/Alter Reality|Alter Reality]]_; __9th __ (3 slots) _[[Spells/Eclipse Burst|Eclipse Burst]]_, _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_; __8th __ (3 slots) _[[Spells/Execute|Finger of Death]]_, _[[Spells/Desiccate|Horrid Wilting]]_, _[[Spells/Spirit Song|Spirit Song]]_\n__Constant__  __(8th)__ _[[Spells/Locate|Locate (Monkey's Paw Only)]]_"
@@ -94,7 +94,7 @@ creatures:
 
 
 
-Many have heard of the fabled _[[Monkey's Paw|Monkey's Paw]]_, an artifact capable of granting a mortal's greatest wishes but at equally great cost. Few, however, know of the cursed thing's origins. Those who have borne the paw and lived through the experience sometimes tell of a wicked wailing monkey pursuing them in their nightmares. With the body of a desiccated dead chimpanzee, an eerily human shriveled face, and a missing hand, this violent being is far from mere phantasmagoria. The legendary primate indeed walks the mortal world, not just in dreams. It calls itself Semuvig, though, in visions and legends, it is also known as the Yowling Simian, or "the paw's monkey."
+Many have heard of the fabled _[[Equipment/Monkey's Paw|Monkey's Paw]]_, an artifact capable of granting a mortal's greatest wishes but at equally great cost. Few, however, know of the cursed thing's origins. Those who have borne the paw and lived through the experience sometimes tell of a wicked wailing monkey pursuing them in their nightmares. With the body of a desiccated dead chimpanzee, an eerily human shriveled face, and a missing hand, this violent being is far from mere phantasmagoria. The legendary primate indeed walks the mortal world, not just in dreams. It calls itself Semuvig, though, in visions and legends, it is also known as the Yowling Simian, or "the paw's monkey."
 
 It is unknown whether Semuvig's present state is the result of a cruel god's vindictive curse or whether the Yowling Simian chose this life for itself. Equally mysterious is the relationship between paw and owner: Perhaps the paw is a scout, though it is equally possible that the paw is fleeing Semuvig for its own reasons, possibly to prevent its master's ascent to even greater power. Whatever the true story, legends agree that the Yowling Simian must be kept away from its paw at all costs.
 

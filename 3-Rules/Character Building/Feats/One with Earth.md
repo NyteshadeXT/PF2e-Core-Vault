@@ -20,5 +20,5 @@ license: OGL
 
 You've learned to harness your connection to the earth to travel through it. You gain a burrow Speed of 15 feet.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

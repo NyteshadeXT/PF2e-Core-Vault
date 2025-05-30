@@ -21,5 +21,5 @@ license: OGL
 * * *
 You've learned how to maximize the defensive abilities of your tower shield. You are constantly [[Conditions/Quickened|Quickened]] and can use the additional action only to [[Actions/Take Cover|Take Cover]] behind your tower shield after you have Raised it.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

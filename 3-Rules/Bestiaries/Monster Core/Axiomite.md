@@ -53,16 +53,19 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Warhammer|+1 Striking Warhammer]], [[Equipment/Artisan's Toolkit (Sterling)|Artisan's Toolkit (Sterling)]]"
+  - name: "[[Bestiary Ability Glossary/At-Will Spells|At-Will Spells]]"
+    desc: "  The monster can cast its at-will spells any number of times without using up spell slots."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Warhammer +20 (magical, shove)\n__Damage__  2d8 + 11 bludgeoning"
+  - name: "**Melee** `pf2:1` Warhammer"
+    desc: "+20 (magical, shove)\n__Damage__  2d8 + 11 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +17 (agile, magical)\n__Damage__  2d8 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+17 (agile, magical, unarmed)\n__Damage__  2d8 + 9 bludgeoning"
 
   - name: "Divine Innate Spells"
     desc: "DC 27, attack +17; __5th __  _[[Spells/Telekinetic Haul|Telekinetic Haul]]_; __4th __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Lightning Bolt|Lightning Bolt (x3)]]_; __3rd __  _[[Spells/Haste|Haste (x3)]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __  _[[Spells/Telekinetic Maneuver|Telekinetic Maneuver]]_; __1st __  _[[Spells/Sure Strike|Sure Strike (At Will)]]_\n__Cantrips__  __(4th)__ _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

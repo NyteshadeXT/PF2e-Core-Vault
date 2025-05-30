@@ -61,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Statue +15 (shove)\n__Damage__  2d8 + 5 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Statue"
+    desc: "+15 (shove)\n__Damage__  2d8 + 5 bludgeoning plus knockdown"
 
-  - name: "Melee"
-    desc: "`pf2:1` Roots +17 (finesse, trip)\n__Damage__  2d8 + 5 bludgeoning"
+  - name: "**Melee** `pf2:1` Roots"
+    desc: "+17 (finesse, trip)\n__Damage__  2d8 + 5 bludgeoning"
 
   - name: "Dig In"
     desc: "`pf2:1`  The carved beast digs its roots into the ground for better protection and purchase. While Dug In, the carved beast can't Stride nor use its roots Strike; however, this also negates the effects of top-heavy, grants the beast a +2 status bonus to its AC and Fortitude saves, and increases the damage of its statue Strike by 1d8. The carved beast can spend an action on its turn to end the effect; alternatively, the effect ends when the carved beast is moved by force, such as via a successful [[Actions/Shove|Shove]] attack."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

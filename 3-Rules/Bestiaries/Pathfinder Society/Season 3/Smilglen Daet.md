@@ -57,16 +57,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity (Special)]]"
-    desc: "`pf2:r`  Smilglen Daet gains 1 extra reaction at the start of each of her turns that she can use only to make an Attack of Opportunity with a tentacle. She can't use more than one Attack of Opportunity triggered by the same choice.\n\n* * *\n"
+    desc: "`pf2:r`  Smilglen Daet gains 1 extra reaction at the start of each of her turns that she can use only to make an Attack of Opportunity with a tentacle. She can't use more than one Attack of Opportunity triggered by the same choice.\n* * *\n\n**Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +6 (finesse)\n__Damage__  1d6 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+6 (finesse)\n__Damage__  1d6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +6 (agile, finesse, trip)\n__Damage__  1d4 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+6 (agile, finesse, trip, unarmed)\n__Damage__  1d4 bludgeoning plus grab"
 
   - name: "Occult Prepared Spells"
     desc: "DC 17, attack +9; __1st __  _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Soothe|Soothe]]_\n__Cantrips__  __(1st)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Shield|Shield]]_"
@@ -81,7 +81,7 @@ attacks:
     desc: "`pf2:2` (move) Smilglen moves up to 60 feet in a straight line through the water without triggering reactions."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

@@ -18,7 +18,7 @@ license: OGL
 
 Granted by [[Feats/Show-Off|Show-Off]]
 
-You gain temporary Hit Points equal to your level (double your level on a critical success). You lose any remaining temporary Hit Points after 1 minute.
+You gain temporary Hit Points equal to your level (double your level on a critical success).
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

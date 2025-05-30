@@ -35,7 +35,7 @@ perception:
 languages: "Common, Shadowtongue, Sakvroth"
 skills:
   - name: "Skills"
-    desc: "Athletics: +27, Deception: +24, Stealth: +30, Athletics: +27, Deception: +24, Stealth: +30, Fetchling Lore: +24"
+    desc: "Athletics: +27, Deception: +24, Stealth: +30, Fetchling Lore: +24"
 abilityMods: [8, 8, 7, 4, 5, 5]
 speed: 15 feet,  climb 15 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -52,21 +52,21 @@ abilities_top:
   - name: ""
 
   - name: "Shifting Mass"
-    desc: "  Despite their size, the fetchfisher can shift their body between planes to allow it to fit through tight spaces and take cover behind small obstacles that would be enough to provide cover for a Medium creature. While Squeezing, they can move at their full Speed. When using the [[undefined]] action, they can take cover behind Large or larger objects, reducing their space down from 15 by 15 feet to as small as 5 by 5 feet as necessary."
+    desc: "`pf2:1`  Despite their size, the fetchfisher can shift their body between planes to allow it to fit through tight spaces and take cover behind small obstacles that would be enough to provide cover for a Medium creature. While Squeezing, they can move at their full Speed. When using the [[undefined]] action, they can take cover behind Large or larger objects, reducing their space down from 15 by 15 feet to as small as 5 by 5 feet as necessary."
 
   - name: "Snatching Ambush"
-    desc: "  **Requirements** Initiative has not yet been rolled.\n\n**Trigger** A creature that hasn't observed the fetchfisher moves within 15 feet of the fetchfisher.\n* * *\n\n**Effect** The fetchfisher uses Snatch and Dive and then rolls initiative."
+    desc: "`pf2:1`  **Requirements** Initiative has not yet been rolled.\n\n**Trigger** A creature that hasn't observed the fetchfisher moves within 15 feet of the fetchfisher.\n* * *\n\n**Effect** The fetchfisher uses Snatch and Dive and then rolls initiative."
 
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +27 (reach 10 feet)\n__Damage__  3d12 + 14 slashing plus improved-grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+27 (reach 10 feet)\n__Damage__  3d12 + 14 slashing plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +27 (agile)\n__Damage__  3d10 + 14 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+27 (agile)\n__Damage__  3d10 + 14 piercing"
 
   - name: "Shadow Step"
     desc: "`pf2:1` (primal,shadow,teleportation) **Requirements** The fetchfisher is in an area of dim light or darkness or is standing in the shadow of any Large or larger object\n* * *\n\n**Effect** The fetchfisher instantly teleports to another location that's in dim light or darkness or to a space that's in the shadow of any Large or larger object. Either way, the destination must be within 60 feet."

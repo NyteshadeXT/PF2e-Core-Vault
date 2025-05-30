@@ -7,8 +7,9 @@ tags:
   - trait/gunslinger
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.VW0Tp5rJDRjaJuSn"
-license: OGL
+license: ORC
 ---
 # Two-Weapon Fusillade `pf2:1`
 ## Feat 14
@@ -26,4 +27,4 @@ license: OGL
 You attack with both your weapons in a furious barrage. Strike twice, once with each weapon.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Skeleton) Explosive Death"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.W77QhVNE46WDyMXi"

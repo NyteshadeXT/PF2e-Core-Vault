@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +32 ()\n__Damage__  3d8 + 12 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+32 (unarmed)\n__Damage__  3d8 + 12 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +32 (agile)\n__Damage__  3d6 + 12 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+32 (agile, unarmed)\n__Damage__  3d6 + 12 slashing"
 
   - name: "Dread Striker"
     desc: "  Any creature that has the [[Conditions/Frightened|Frightened]] condition is also [[Conditions/Off-Guard|Off-Guard]] against Gedovius's attacks."

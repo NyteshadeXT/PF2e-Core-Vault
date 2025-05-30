@@ -20,5 +20,5 @@ license: OGL
 
 Your swim Speed increases to match your land Speed.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

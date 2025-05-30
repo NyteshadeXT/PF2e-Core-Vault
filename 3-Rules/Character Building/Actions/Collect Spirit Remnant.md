@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
   - trait/manipulate
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.LWrR6UiGm3eCAALJ"
 license: OGL
 ---
 # Collect Spirit Remnant `pf2:3`
 
-### [[3-Rules/Rule References/Concentrate]][[3-Rules/Rule References/Manipulate]]
+### [[concentrate]][[manipulate]]
 
 **Category** interaction; 
 

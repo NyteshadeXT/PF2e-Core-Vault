@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +9 (two-hand d8)\n__Damage__  1d4 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+9 (two-hand d8)\n__Damage__  1d4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Longbow +11 (deadly d10, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 2 piercing"
+  - name: "**Ranged** `pf2:1` Longbow"
+    desc: "+11 (deadly d10, range increment 100 feet, volley 30 ft.)\n__Damage__  1d8 + 2 piercing"
 
   - name: "Paddler Shoony"
     desc: "  You hail from shoonies who have lived long and successfully among the reeds and cattails of swamps and marshes, and have adapted to the challenges of living near waterlogged ares. You ignore difficult terrain and greater difficult terrain from bogs. When you roll a success to [[Actions/Swim|Swim]], you get a critical success instead."

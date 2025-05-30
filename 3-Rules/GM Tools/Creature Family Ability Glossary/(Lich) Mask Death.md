@@ -4,7 +4,7 @@ title: "(Lich) Mask Death"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/arcane
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.7TYLgIMDGgUfbgGY"
 license: OGL

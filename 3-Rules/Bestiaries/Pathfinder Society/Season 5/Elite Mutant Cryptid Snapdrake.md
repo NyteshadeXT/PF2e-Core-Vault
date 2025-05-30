@@ -59,19 +59,19 @@ abilities_mid:
     desc: " (aura,olfactory,plant,primal) 30 feet. A creature that enters the emanation must attempt a DC 28 Will check save. On a failure, the target is [[Conditions/Fascinated|Fascinated]] by the snapdrake and must use at least 1 action on its next turn to Stride closer to the snapdrake. On a success, the target is immune to the snapdrake's alluring scent for 1 hour."
 
   - name: "[[Bestiary Ability Glossary/Reactive Strike|Reactive Strike (Tail Scythe Only)]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +17 ()\n__Damage__  2d12 + 7 piercing plus grab,snapdrake-pollen"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+17 ()\n__Damage__  2d12 + 7 piercing plus grab,snapdrake-pollen"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail Scythe +19 (deadly d10, finesse, reach 10 feet)\n__Damage__  2d10 + 9 slashing"
+  - name: "**Melee** `pf2:1` Tail Scythe"
+    desc: "+19 (deadly d10, finesse, reach 10 feet)\n__Damage__  2d10 + 9 slashing"
 
   - name: "[[Creature Family Ability Glossary/(Cryptid, Mutant) Explosive End|Explosive End]]"
-    desc: "  The mutant snapdrake's death reveals one last surprise as it explodes into splinters. When it dies, it explodes, dealing 5d6 piercing damage to each creature in a @Template[emanation|distance:10], with a basic DC 30 Reflex check save."
+    desc: "  The mutant snapdrake's death reveals one last surprise as it explodes into splinters. When it dies, it explodes, dealing 5d6 piercing damage to each creature in a 10-foot emanation, with a basic DC 30 Reflex check save."
 
   - name: "Greater Forest Passage"
     desc: "  The snapdrake ignores difficult terrain and greater difficult terrain from plants and fungi."
@@ -89,13 +89,13 @@ attacks:
     desc: "`pf2:1` (move) **Frequency** 3 times per day\n* * *\n\n**Effect** The snapdrake moves up to twice its Speed."
 
   - name: "Spray Pollen"
-    desc: "`pf2:2` (arcane,plant,poison) The snapdrake breathes a blast of pollen in a @Template[cone|distance:40]. Creatures caught in the blast must succeed at a DC 28 Reflex check save or be exposed to snapdrake pollen. The snapdrake can't use Spray Pollen again for 1d6 rounds."
+    desc: "`pf2:2` (arcane,plant,poison) The snapdrake breathes a blast of pollen in a 40-foot cone. Creatures caught in the blast must succeed at a DC 28 Reflex check save or be exposed to snapdrake pollen. The snapdrake can't use Spray Pollen again for 1d6 rounds."
 
   - name: "[[Creature Family Ability Glossary/(Cryptid, Mutant) Unusual Bane|Unusual Bane]]"
     desc: "  This mutant snapdrake is traumatized by the former Conference Z staff who teamed up to hold it down while experimenting on it. The first time each round the mutant snapdrake comes within 15 feet of any character who took the Aid action, or is attacked while being flanked by two characters, it takes 10 mental damage and must attempt a DC 30 Will check save. On a failure, it is [[Conditions/Stunned|Stunned 1]] ([[Conditions/Stunned|Stunned 3]] on a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

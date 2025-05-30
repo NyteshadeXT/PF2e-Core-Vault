@@ -14,7 +14,7 @@ license: ORC
 ---
 # Lightning Rings' Intervention
 ## Feat 8
-### [[archetype]][[3-Rules/trait_reference/E/electricity]][[manipulate]]
+### [[archetype]][[electricity]][[manipulate]]
 
 **Category** class; 
 
@@ -24,5 +24,5 @@ license: ORC
 * * *
 Your familiar learns to empower spells with an electrical discharge. Your familiar gains the [[Familiar Abilities/Lightning Needles|Lightning Needles]] ability.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

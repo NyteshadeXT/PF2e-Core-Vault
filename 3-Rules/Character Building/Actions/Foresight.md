@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "Foresight"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/defensive
 aliases: "Compendium.pf2e.actionspf2e.Item.VOEWhPQfN3lvHivK"
 license: OGL
@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Trigger** The target of [[3-Rules/Character Building/Spells/F/Foresight|Foresight]] defends against a hostile creature or other danger.
+**Trigger** The target of [[Spells/Foresight|Foresight]] defends against a hostile creature or other danger.
 
 * * *
 

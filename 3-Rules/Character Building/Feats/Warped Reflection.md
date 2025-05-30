@@ -16,7 +16,7 @@ license: OGL
 ---
 # Warped Reflection `pf2:1`
 ## Feat 1
-### [[concentrate]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[reflection]][[visual]]
+### [[concentrate]][[emotion]][[fear]][[mental]][[reflection]][[visual]]
 
 **Category** ancestry; 
 

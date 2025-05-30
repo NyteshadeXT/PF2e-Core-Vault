@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Maul +15 (shove)\n__Damage__  1d12 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Maul"
+    desc: "+15 (shove)\n__Damage__  1d12 + 10 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +15 ()\n__Damage__  2d8 + 8 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+15 (unarmed)\n__Damage__  2d8 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 (agile)\n__Damage__  2d4 + 8 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 (agile, unarmed)\n__Damage__  2d4 + 8 slashing plus grab"
 
   - name: "Brutal Blow"
     desc: "`pf2:2`  The spinesnapper makes a claw or weapon Strike. If it hits, in addition to dealing damage, the creature must attempt a DC 22 Fortitude check saving throw, with the following effects.\n* * *\n\n**Critical Success** The creature is unaffected and the spinesnapper is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.\n\n**Success** The creature is unaffected.\n\n**Failure** The creature is pushed 10 feet.\n\n**Critical Failure** The target is pushed 10 feet and knocked [[Conditions/Prone|Prone]]."
@@ -79,7 +79,7 @@ attacks:
     desc: "`pf2:1`  **Frequency** once per round\n\n**Requirements** The spinesnapper has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** The spinesnapper slams the creature against a nearby surface. The target and the surface struck each take 4d6 bludgeoning damage, and the target must succeed at a DC 22 Fortitude check save or become [[Conditions/Slowed|Slowed 1]] for 1 round, or [[Conditions/Stunned|Stunned]] for 1 round on a critical failure."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

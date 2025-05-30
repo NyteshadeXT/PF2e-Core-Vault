@@ -23,7 +23,7 @@ level: "Army 8"
 rare_03: [[Uncommon]]
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: cavalry
 modifier: 18
 perception:

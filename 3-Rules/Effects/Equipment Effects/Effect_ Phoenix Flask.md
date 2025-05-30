@@ -16,7 +16,9 @@ license: OGL
 
 
 
-For 1 minute, you gain a Fly speed of 40 feet. The first time each round that you Fly (including to hover in place), you shed burning feathers that deal 3d4 fire damage to all creatures in a @Template\[emanation|distance:10\] at the end of your movement (DC 29 Reflex check save).
+Granted by [[Equipment/Phoenix Flask|Phoenix Flask]]
+
+You gain a Fly speed of 40 feet.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

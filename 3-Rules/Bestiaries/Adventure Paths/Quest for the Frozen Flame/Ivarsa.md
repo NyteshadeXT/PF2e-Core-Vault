@@ -66,11 +66,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +25 (magical, reach 10 feet, sweep)\n__Damage__  3d12 + 13 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+25 (magical, reach 10 feet, sweep)\n__Damage__  3d12 + 13 slashing"
 
   - name: "Arcane Prepared Spells"
-    desc: "DC 32, attack +24; __6th __ (2 slots) _[[Spells/Collective Transposition|Collective Transposition]]_, _[[Spells/Unexpected Transposition|Unexpected Transposition]]_; __5th __ (2 slots) _[[Spells/Blink Charge|Blink Charge]]_; __4th __ (2 slots) _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Planar Tether|Dimensional Anchor]]_, _[[Spells/Weapon Storm|Weapon Storm]]_; __3rd __ (2 slots) _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Haste|Haste]]_; __1st __  _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(6th)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Protect Companion|Protect Companion]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 32, attack +24; __6th __ (2 slots) _[[Spells/Collective Transposition|Collective Transposition]]_, _[[Spells/Unexpected Transposition|Unexpected Transposition]]_; __5th __ (2 slots) _[[Spells/Blink Charge|Blink Charge]]_; __4th __ (2 slots) _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Planar Tether|Dimensional Anchor]]_, _[[Spells/Weapon Storm|Weapon Storm]]_; __3rd __ (2 slots) _[[Spells/Earthbind|Earthbind]]_, _[[Spells/Haste|Haste]]_; __1st __  _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(6th)__ _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Protect Companion|Protect Companion]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Arcane Focus Spells"
     desc: "1 Focus Point, DC 32, attack +24; __6th __  _[[Spells/Thunderous Strike|Thunderous Strike]]_"
@@ -82,7 +82,7 @@ attacks:
     desc: "  When Ivarsa uses a teleportation effect while she's riding a mount, the mount teleports with her."
 
   - name: "[[Actions/Spellstrike|Spellstrike]]"
-    desc: "`pf2:2` (magus) Ivarsa channels a spell into a punch or axe swing to deliver a magically charged attack. She casts [[Spells/Produce Flame|Produce Flame]] or [[Spells/Ray of Frost|Ray of Frost]]. The effects of the spell don't occur immediately but are imbued into her attack instead. She makes a melee Strike with a weapon or unarmed attack, which gains the arcane trait. Her spell is coupled with the attack, using her attack roll to determine the effects of both the Strike and the spell. This counts as two attacks for her multiple attack penalty, but the penalty isn't applied until after she has completed the Spellstrike. After she uses Spellstrike, Ivarsa can't do so again until she recharges this ability as a single action, which has the concentrate trait. She also recharges her Spellstrike when she casts thunderous strike."
+    desc: "`pf2:2` (magus) Ivarsa channels a spell into a punch or axe swing to deliver a magically charged attack. She casts [[Spells/Ignition|Ignition]] or [[Spells/Ray of Frost|Ray of Frost]]. The effects of the spell don't occur immediately but are imbued into her attack instead. She makes a melee Strike with a weapon or unarmed attack, which gains the arcane trait. Her spell is coupled with the attack, using her attack roll to determine the effects of both the Strike and the spell. This counts as two attacks for her multiple attack penalty, but the penalty isn't applied until after she has completed the Spellstrike. After she uses Spellstrike, Ivarsa can't do so again until she recharges this ability as a single action, which has the concentrate trait. She also recharges her Spellstrike when she casts thunderous strike."
  
 ```
 

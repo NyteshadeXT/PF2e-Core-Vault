@@ -11,8 +11,9 @@ tags:
   - trait/manipulate
   - trait/common
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.GoKkejPj5yWJPIPK" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Adaptive Ablation  `pf2:r`"
@@ -31,6 +32,6 @@ abilities_top:
     desc: "1 minute"
 abilities_mid:
   - name: ""
-    desc: "**Trigger** You take acid, cold, electricity, fire, or sonic damage.\n* * *\n\nYou shift yourself to adapt to the mystical wavelengths of the energy damage, protecting yourself from further harm. You gain resistance 5 to the triggering energy type; you gain this resistance after you take the triggering damage, so it applies only to future damage you take during the duration.\n\n[[Spell Effects/Spell Effect_ Adaptive Ablation|Spell Effect: Adaptive Ablation]]\n* * *\n\n**Heightened (+2)** Increase the resistance by 5."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+    desc: "**Trigger** You take acid, cold, electricity, fire, or sonic damage.\n* * *\n\nYou shift yourself to adapt to the mystical wavelengths of the energy damage, protecting yourself from further harm. You gain resistance 5 to the triggering energy type; you gain this resistance after you take the triggering damage, so it applies only to future damage you take during the duration.\n\n[[Spell Effects/Spell Effect_ Adaptive Ablation|Spell Effect: Adaptive Ablation]]\n* * *\n\n**Heightened (+2)** The resistance increases by 5."
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

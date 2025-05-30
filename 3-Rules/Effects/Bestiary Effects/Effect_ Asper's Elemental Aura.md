@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Asper surrounds herself with the power of one of the elements under her control (air, fire, or water). If air, she gains resistance 10 to electricity damage and doubles her speed. If fire, she gains resistance 10 to fire damage. Any creature within 30 feet of her who receives fire damage receives an extra 2d10 persistent fire damage. If water, she gains resistance 10 to cold damage and fast healing 20.
+You gain resistance 10 to damage of the chosen element (electricity for air, fire, or cold for water). If air, you double your speed. If fire, any creature within 30 feet of you who receives fire damage receives an extra 2d10 persistent fire damage. If water, you gain fast healing 20.
 
 *Source: Pathfinder Society Scenario #5-20: The Rakshasa's Court*
 *OGL*

@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Your patron aeon graced you with powers of protection. You can cast [[Resist Energy|Resist Energy]] and [[3-Rules/Character Building/Spells/S/Share Life|Share Life]] each once per day as 2nd-rank divine innate spells.
+Your patron aeon graced you with powers of protection. You can cast [[Spells/Resist Energy|Resist Energy]] and [[Spells/Share Life|Share Life]] each once per day as 2nd-rank divine innate spells.
 
-*Source: Pathfinder Lost Omens: The Mwangi Expanse*
+*Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

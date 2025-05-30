@@ -27,5 +27,5 @@ license: ORC
 
 **Effect** The next time you attempt a skill check using the skill that triggered this ability within the next minute, roll twice and take the higher result.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

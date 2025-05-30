@@ -35,7 +35,7 @@ perception:
 languages: "tongues"
 skills:
   - name: "Skills"
-    desc: "Athletics: +35, Deception: +38, Stealth: +35, Athletics: +35, Deception: +38, Stealth: +35"
+    desc: "Athletics: +35, Deception: +38, Stealth: +35"
 abilityMods: [5, 9, 3, 6, 4, 10]
 speed: 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rending Claw +35 (finesse)\n__Damage__  3d12 + 13 slashing"
+  - name: "**Melee** `pf2:1` Rending Claw"
+    desc: "+35 (finesse)\n__Damage__  3d12 + 13 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shifted Glob +35 (range increment 60 feet)\n__Damage__  3d8 + 13 piercing"
+  - name: "**Ranged** `pf2:1` Shifted Glob"
+    desc: "+35 (range increment 60 feet)\n__Damage__  3d8 + 13 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 37, attack +29\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"

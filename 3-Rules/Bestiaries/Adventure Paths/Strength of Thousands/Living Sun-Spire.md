@@ -53,7 +53,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Construct Armor (Hardness 14)"
     desc: "  Like normal objects, the Living Sun-Spire has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness.\n\nOnce the statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 32."
@@ -64,23 +64,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Arm +28 (magical, reach 15 feet)\n__Damage__  3d12 + 11 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Arm"
+    desc: "+28 (magical, reach 15 feet)\n__Damage__  3d12 + 11 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spear +28 (magical, reach 20 feet)\n__Damage__  3d12 + 11 piercing"
+  - name: "**Melee** `pf2:1` Spear"
+    desc: "+28 (magical, reach 20 feet)\n__Damage__  3d12 + 11 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sunfire Beam +28 (fire, magical, range increment 100 feet)\n__Damage__  3d8 + 11 fire"
+  - name: "**Ranged** `pf2:1` Sunfire Beam"
+    desc: "+28 (fire, magical, range increment 100 feet)\n__Damage__  3d8 + 11 fire"
 
   - name: "Beam of the Seven Suns"
-    desc: "`pf2:2` (divine,fire) The sun-spire collects solar energy and uses the energy to create a deadly beam of fire. It fires the beam in a @Template[line|distance:120], dealing 11d8 fire damage to all creatures in the line (DC 33 Reflex check save). The concentrated beam ignites everything in its path, including the air, creating a wall of burning flame along the line that continues to burn until the end of the sun-spire's next turn. This wall has the effects of a 5th-rank [[Spells/Wall of Fire|Wall of Fire]] spell, dealing 5d6 fire damage to any creature that crosses the wall or occupies the wall's area at the start of its turn. The sun-spire can't use the Beam of the Seven Suns again for 1d4 rounds, although rounds it's not in sunlight don't count toward this number."
+    desc: "`pf2:2` (divine,fire) The sun-spire collects solar energy and uses the energy to create a deadly beam of fire. It fires the beam in a 120-foot line, dealing 11d8 fire damage to all creatures in the line (DC 33 Reflex check save). The concentrated beam ignites everything in its path, including the air, creating a wall of burning flame along the line that continues to burn until the end of the sun-spire's next turn. This wall has the effects of a 5th-rank [[Spells/Wall of Fire|Wall of Fire]] spell, dealing 5d6 fire damage to any creature that crosses the wall or occupies the wall's area at the start of its turn. The sun-spire can't use the Beam of the Seven Suns again for 1d4 rounds, although rounds it's not in sunlight don't count toward this number."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, arm, DC 33 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Large or smaller, arm, DC 33 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

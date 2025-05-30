@@ -17,6 +17,8 @@ license: OGL
 
 
 
+Granted by [[Actions/Channel Elements|Channel Elements]]
+
 You activate your kinetic aura.
 
 *Source: Pathfinder Rage of Elements*

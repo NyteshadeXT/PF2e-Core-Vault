@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +21 (agile, reach 20 feet)\n__Damage__  2d8 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+21 (agile, reach 20 feet, unarmed)\n__Damage__  2d8 + 10 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 (reach 10 feet)\n__Damage__  2d10 + 10 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (reach 10 feet, unarmed)\n__Damage__  2d10 + 10 piercing"
 
   - name: "Mangling Rend"
     desc: "`pf2:2`  A megaprimatus makes two fist Strikes against the same target. If both hit, the attack deals an additional 2d6 bludgeoning damage, the target is [[Conditions/Off-Guard|Off-Guard]], and the target takes a -20-foot status penalty to all Speeds until the end of its next turn.\n\n[[Bestiary Effects/Effect_ Mangling Rend|Effect: Mangling Rend]]"

@@ -56,11 +56,14 @@ abilities_top:
 
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +6 (agile, finesse)\n__Damage__  1d4 + 1 piercing plus rust-creep"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+6 (agile, finesse, unarmed)\n__Damage__  1d4 + 1 piercing plus rust-creep"
 
   - name: "Gnash"
     desc: "`pf2:1`  **Requirements** The beheaded's previous action was a jaws Strike that dealt damage to its target.\n* * *\n\n**Effect** The severed head makes a second jaws Strike as it violently shakes itself, trying to rip away a mouthful of flesh. On a success, the target takes an additional 1d4 slashing damage and 1 persistent bleed damage and is exposed to rust creep."

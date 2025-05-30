@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Rage and Fury|Rage and Fury]]
+Granted by [[PF2e Journals/Hero Point Deck/Rage and Fury|Rage and Fury]]
 
-At the start of your next turn, you enter a rage (+2 damage to melee strikes, -1 AC penalty).
+You gain a +2 bonus to damage to melee Strikes and a –1 AC penalty.
 
 *Source: Pathfinder Hero Point Deck*
 *OGL*

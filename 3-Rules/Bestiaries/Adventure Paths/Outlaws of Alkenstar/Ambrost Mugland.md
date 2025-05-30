@@ -70,14 +70,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Cane Pistol +15 (critical fusion, thrown 10 ft.)\n__Damage__  1d6 + 4 bludgeoning"
+  - name: "**Ranged** `pf2:1` Cane Pistol"
+    desc: "+15 (critical fusion, thrown 10 ft.)\n__Damage__  1d6 + 4 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dueling Pistol +19 (concealable, concussive, fatal d10, magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dueling Pistol"
+    desc: "+19 (concealable, concussive, fatal d10, magical, range increment 60 feet, reload 1)\n__Damage__  2d6 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Cane Pistol +18 (combination, concussive, fatal d8, range increment 30 feet, reload 1)\n__Damage__  1d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Cane Pistol"
+    desc: "+18 (combination, concussive, fatal d8, range increment 30 feet, reload 1)\n__Damage__  1d4 + 6 piercing"
 
   - name: "Quick Draw"
     desc: "`pf2:1`  Mugland Interacts to draw a weapon, then Strikes with that weapon."

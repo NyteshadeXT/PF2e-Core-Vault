@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Any creature caught within the area is Concealed.
+Any creature caught within the area is [[undefined]].
 
 *Source: Battlezoo Bestiary: Strange and Unusual*
 *OGL*

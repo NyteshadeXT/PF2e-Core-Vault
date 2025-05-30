@@ -16,7 +16,9 @@ license: OGL
 
 
 
+Granted by [[Feats/Disruptive Stare|Disruptive Stare]]
 
+You take a –2 status penalty to your spell attack rolls and DCs.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

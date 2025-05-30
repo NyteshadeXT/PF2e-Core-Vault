@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Spray +10 (acid, range increment 30 feet)\n__Damage__  1d8 + 7 acid"
+  - name: "**Ranged** `pf2:1` Acid Spray"
+    desc: "+10 (acid, range increment 30 feet)\n__Damage__  1d8 + 7 acid"
 
   - name: "Enucleate"
     desc: "`pf2:3` (arcane,concentrate,incapacitation,visual) Against a helpless, [[Conditions/Unconscious|Unconscious]], or asleep creature, an eyesore will sometimes instinctively attempt to use their Steal Eye ability to painlessly extract the creature's eyes without disturbing or waking the subject.\n\nThe eyesore attempts a Thievery check opposed by the target's Perception DC. On a success, the eyesore steals a single eye, as per Steal Eye. If the eyesore fails its Thievery check, the target becomes aware of the attempt, waking up if possible."

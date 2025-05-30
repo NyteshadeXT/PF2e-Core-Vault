@@ -16,7 +16,9 @@ license: OGL
 
 
 
-The targets take a -10-foot circumstance penalty to their Speeds as roots rapidly sprout from their wounds, which lasts until they [[Actions/Escape|Escape]] (DC 20).
+Granted by [[Equipment/Arboreal's Revenge|Arboreal's Revenge]]
+
+The targets take a -10-foot circumstance penalty to their Speeds as roots rapidly sprout from their wounds, which lasts until they [[Actions/escape dc=20|escape dc=20]]
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

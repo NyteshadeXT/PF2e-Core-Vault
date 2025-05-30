@@ -69,17 +69,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +13 ()\n__Damage__  1d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+13 ()\n__Damage__  1d6 + 8 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blood Splatter +9 (divine, magical, propulsive, range 30 feet, unholy)\n__Damage__  1d6 + 6 spirit"
+  - name: "**Ranged** `pf2:1` Blood Splatter"
+    desc: "+9 (divine, magical, propulsive, range 30 feet, unholy)\n__Damage__  1d6 + 6 spirit"
 
   - name: "Divine Innate Spells"
     desc: "DC 22, attack +14; __2nd __  _[[Spells/Paranoia|Paranoia]]_, _[[Spells/Thundering Dominance|Thundering Dominance]]_; __1st __  _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Ill Omen|Ill Omen]]_\n__Cantrips__  __(3rd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Message|Message]]_, _[[Spells/Sigil|Sigil]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Demonic Pact|Demonic Pact]]_"
+    desc: "_Demonic Pact_"
 
   - name: "Dorsal Lash"
     desc: "`pf2:2` (mental) The elegecide lashes out with its trailing dorsal fins, looping them around a target within 15 feet. It sends a burst of telepathic information about all the possible ways the target can be injured in the next minute. The target takes 5d4 mental damage and must attempt a DC 22 Reflex check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target takes half damage.\n\n**Failure** The target takes full damage and is [[Conditions/Grabbed|Grabbed]] by the elegecide.\n\n**Critical Failure** The target takes double damage and is [[Conditions/Restrained|Restrained]] by the elegecide."

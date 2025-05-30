@@ -61,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Grass Lash +9 (disarm, finesse)\n__Damage__  2d6 slashing plus knockdown"
+  - name: "**Melee** `pf2:1` Grass Lash"
+    desc: "+9 (disarm, finesse)\n__Damage__  2d6 slashing plus knockdown"
 
   - name: "Greater Forest Passage"
     desc: "  The lomori sprout ignores difficult terrain and greater difficult terrain from plants and fungi."
 
   - name: "Take Root"
-    desc: "`pf2:2`  **Requirements** The lomori sprout is on the ground\n* * *\n\n**Effect** The lomori sprout plants themself in the ground. Grasping roots erupt from the ground in a @Template[burst|distance:5] within 60 feet of the lomori sprout, dealing 4d4 bludgeoning damage (DC 20 Reflex check save) to creatures in the area; on a failed save, a creature gains the [[Conditions/Immobilized|Immobilized]] condition until it Escapes (DC 20). The roots also make the area difficult terrain for 1 minute, after which they decompose into fertile mulch; the area is no longer difficult terrain, and any creatures still immobilized by the roots automatically [[Actions/Escape|Escape]]."
+    desc: "`pf2:2`  **Requirements** The lomori sprout is on the ground\n* * *\n\n**Effect** The lomori sprout plants themself in the ground. Grasping roots erupt from the ground in a 5-foot burst within 60 feet of the lomori sprout, dealing 4d4 bludgeoning damage (DC 20 Reflex check save) to creatures in the area; on a failed save, a creature gains the [[Conditions/Immobilized|Immobilized]] condition until it Escapes (DC 20). The roots also make the area difficult terrain for 1 minute, after which they decompose into fertile mulch; the area is no longer difficult terrain, and any creatures still immobilized by the roots automatically [[Actions/Escape|Escape]]."
 
   - name: "[[Bestiary Ability Glossary/Knockdown|Knockdown]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

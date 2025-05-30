@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Oil of Corpse Restoration|Oil of Corpse Restoration]]
+
 The dead creature gains a +2 circumstance bonus on Deception checks to look like a living creature.
 
 *Source: Pathfinder #189: Dreamers of the Nameless Spires*

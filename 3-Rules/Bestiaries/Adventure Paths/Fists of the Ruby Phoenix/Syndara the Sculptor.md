@@ -63,10 +63,16 @@ abilities_top:
   - name: "Spatial Sense"
     desc: "  Syndara instinctively knows the position of all creatures and objects within the Glass Lighthouse as a precise sense. His senses do not extend into extraplanar spaces (such as a bag of holding), even if the entrance to these spaces is within the Lighthouse."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Fast Healing|Fast Healing 20]]"
+    desc: "  A monster with this ability regains the given number of Hit Points each round at the beginning of its turn."
+
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Essence Reflection"
     desc: "  Syndara and his reflection are two linked existences. If one of them is affected by a harmful effect, they can shift the harmful effect to the other as a free action, even if they can't act."
@@ -77,26 +83,26 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Palm +41 (agile, finesse, reach 10 feet, unarmed)\n__Damage__  6d6 + 18 bludgeoning plus vicious-impact"
+  - name: "**Melee** `pf2:1` Palm"
+    desc: "+41 (agile, finesse, reach 10 feet, unarmed)\n__Damage__  6d6 + 18 bludgeoning plus vicious-impact"
 
-  - name: "Melee"
-    desc: "`pf2:1` Knifehand +41 (deadly d10, finesse, reach 10 feet, unarmed, versatile p)\n__Damage__  7d8 + 18 slashing plus vicious-impact"
+  - name: "**Melee** `pf2:1` Knifehand"
+    desc: "+41 (deadly d10, finesse, reach 10 feet, unarmed, versatile p)\n__Damage__  7d8 + 18 slashing plus vicious-impact"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Elemental Gateway (Acid) +39 (acid, range increment 120 feet)\n__Damage__  4d10 + 19 acid"
+  - name: "**Ranged** `pf2:1` Elemental Gateway (Acid)"
+    desc: "+39 (acid, range increment 120 feet)\n__Damage__  4d10 + 19 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Elemental Gateway (Cold) +39 (cold, range increment 120 feet)\n__Damage__  4d10 + 19 cold"
+  - name: "**Ranged** `pf2:1` Elemental Gateway (Cold)"
+    desc: "+39 (cold, range increment 120 feet)\n__Damage__  4d10 + 19 cold"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Elemental Gateway (Electricity) +39 (electricity, range increment 120 feet)\n__Damage__  4d10 + 19 electricity"
+  - name: "**Ranged** `pf2:1` Elemental Gateway (Electricity)"
+    desc: "+39 (electricity, range increment 120 feet)\n__Damage__  4d10 + 19 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Elemental Gateway (Fire) +39 (fire, range increment 120 feet)\n__Damage__  4d10 + 19 fire"
+  - name: "**Ranged** `pf2:1` Elemental Gateway (Fire)"
+    desc: "+39 (fire, range increment 120 feet)\n__Damage__  4d10 + 19 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Elemental Gateway (Sonic) +39 (range increment 120 feet, sonic)\n__Damage__  4d10 + 19 sonic"
+  - name: "**Ranged** `pf2:1` Elemental Gateway (Sonic)"
+    desc: "+39 (range increment 120 feet, sonic)\n__Damage__  4d10 + 19 sonic"
 
   - name: "Innate Primal Spells"
     desc: "DC 0, attack +0\n__Constant__  __(4th)__ _[[Spells/Air Walk|Air Walk]]_"

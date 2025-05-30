@@ -52,6 +52,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Poison Sense (precise) 30 feet"
@@ -60,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +12 ()\n__Damage__  2d6 + 4 piercing plus karumzek-venom"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+12 ()\n__Damage__  2d6 + 4 piercing plus karumzek-venom"
 
   - name: "Occult Innate Spells"
     desc: "DC 21, attack +13; __2nd __ (2 slots) _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Invisibility|Invisibility (At Will) (self only)]]_, _[[Spells/Vomit Swarm|Vomit Swarm]]_\n__Constant__  __(2nd)__ _[[Spells/Negate Aroma|Negate Aroma]]_"

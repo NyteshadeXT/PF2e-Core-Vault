@@ -23,7 +23,7 @@ level: "Army 11"
 
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: skirmisher
 modifier: 21
 perception:
@@ -31,7 +31,7 @@ perception:
   - name: "Scouting"
     desc: "+21"
   - name: "Recruitment DC"
-    desc: "; __Consumption__ 0"
+    desc: "15; __Consumption__ 1"
   - name: "Description"
     desc: "The Catspaw Marauders consist mostly of humans and half-elves who fight with kukris and longbows."
 ac: 31

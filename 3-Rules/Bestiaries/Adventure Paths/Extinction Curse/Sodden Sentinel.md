@@ -58,19 +58,25 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Tainted Guts"
-    desc: "  When a sodden sentinel is reduced to 0 Hit Points, it explodes, dealing 6d6 bludgeoning damage to each creature in a @Template[emanation|distance:10] (DC 30 Reflex check save). A creature that fails this save is also [[Conditions/Blinded|Blinded]] for 1d4 rounds (1 minute on a critical failure)."
+    desc: "  When a sodden sentinel is reduced to 0 Hit Points, it explodes, dealing 6d6 bludgeoning damage to each creature in a 10-foot emanation (DC 30 Reflex check save). A creature that fails this save is also [[Conditions/Blinded|Blinded]] for 1d4 rounds (1 minute on a critical failure)."
+
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +24 ()\n__Damage__  2d12 + 16 bludgeoning plus improved-knockdown"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+24 (unarmed)\n__Damage__  2d12 + 16 bludgeoning plus improved-knockdown"
 
   - name: "Pummel the Fallen"
     desc: "  A sodden sentinel's fist Strike deals an additional 2d6 damage to [[Conditions/Prone|Prone]] creatures."
 
   - name: "Seawater Retch"
-    desc: "`pf2:2` (occult,water) The sodden sentinel vomits up a supernaturally tainted wave of seawater in a @Template[cone|distance:30]. Each living creature in the area takes 6d10 void damage (DC 30 Reflex check save). It can't use Seawater Retch again for 1d4 rounds."
+    desc: "`pf2:2` (occult,water) The sodden sentinel vomits up a supernaturally tainted wave of seawater in a 30-foot cone. Each living creature in the area takes 6d10 void damage (DC 30 Reflex check save). It can't use Seawater Retch again for 1d4 rounds."
+
+  - name: "[[Bestiary Ability Glossary/Improved Knockdown|Improved Knockdown]]"
+    desc: "  **Requirements** The monster's last action was a successful Strike that lists Improved Knockdown in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/trip|trip]] the creature as a free action. This attempt neither applies nor counts toward the monster's multiple attack penalty."
  
 ```
 

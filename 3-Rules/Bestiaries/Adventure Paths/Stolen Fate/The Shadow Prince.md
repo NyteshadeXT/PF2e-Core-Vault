@@ -54,6 +54,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Universal Language"
     desc: "  Anything spoken by the Shadow Prince is perceived by the listener in its native language."
 
@@ -63,13 +66,13 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 100 feet. DC 28 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 100 feet. DC 28 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Illusory Weapon +24 (illusion, mental, occult)\n__Damage__  4d6 + 10 mental plus urban-legend 1d6 bleed plus urban-legend"
+  - name: "**Melee** `pf2:1` Illusory Weapon"
+    desc: "+24 (illusion, mental, occult)\n__Damage__  4d6 + 10 mental plus urban-legend 1d6 bleed plus urban-legend"
 
   - name: "Occult Innate Spells"
     desc: "DC 30, attack +22; __5th __  _[[Spells/Phantasmal Killer|Phantasmal Killer (x3)]]_; __4th __  _[[Spells/Translocate|Dimension Door (x2)]]_\n__Cantrips__  __(6th)__ _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"
@@ -85,4 +88,4 @@ creatures:
 
 Variant brainchild
 
-A rumor can become so vivid and so persistent that it comes to life, creating a brainchild-a living illusion that hatches from an intense belief in a remorseless and implacable killer. Often, these rumors swirl around the victims of a [[Phantasmal Killer|Phantasmal Killer]] spell. A brainchild's capabilities grow when they pursue a believer but deflate against skeptics, making them only as bad as one thinks they are. A simple drive to stalk, terrify, and kill propels a brainchild, but the creature might also exhibit other behaviors ascribed to them through gossip.
+A rumor can become so vivid and so persistent that it comes to life, creating a brainchild-a living illusion that hatches from an intense belief in a remorseless and implacable killer. Often, these rumors swirl around the victims of a [[Spells/Phantasmal Killer|Phantasmal Killer]] spell. A brainchild's capabilities grow when they pursue a believer but deflate against skeptics, making them only as bad as one thinks they are. A simple drive to stalk, terrify, and kill propels a brainchild, but the creature might also exhibit other behaviors ascribed to them through gossip.

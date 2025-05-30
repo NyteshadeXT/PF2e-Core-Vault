@@ -27,5 +27,5 @@ license: OGL
 
 The Mockingbird is a master at running into foes and coming away with their weapons. Mimicking their skill, you strike at a foe's wrist while tumbling past them, weakening their grip. You attempt to [[Actions/Disarm|Disarm]] the enemy whose space you moved through. You can use Acrobatics instead of Athletics for this check.
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Granted by [[Oaken Resilience|Oaken Resilience]]
+Granted by [[Spells/Oaken Resilience|Oaken Resilience]]
+
+You gain resistance to bludgeoning and piercing damage and weakness to fire.
 
 *Source: Pathfinder Player Core*
 *ORC*

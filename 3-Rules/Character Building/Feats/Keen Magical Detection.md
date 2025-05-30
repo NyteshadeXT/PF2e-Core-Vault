@@ -20,7 +20,7 @@ license: ORC
 
 
 
-You sense magical dangers. When using the [[Actions/Detect Magic|Detect Magic]] exploration activity, you can roll initiative twice and use the better result so long as at least one opponent has a magical effect or magic item and is in range of your [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]].
+You sense magical dangers. When using the [[Actions/Detect Magic|Detect Magic]] exploration activity, you can roll initiative twice and use the better result so long as at least one opponent has a magical effect or magic item and is in range of your [[Spells/Detect Magic|Detect Magic]].
 
 *Source: Pathfinder Player Core*
 *ORC*

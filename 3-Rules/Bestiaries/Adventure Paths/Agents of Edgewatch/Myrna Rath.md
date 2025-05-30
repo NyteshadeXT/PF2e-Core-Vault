@@ -68,11 +68,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +32 (magical, unholy)\n__Damage__  3d8 + 16 piercing plus abyssal-plague 2d6 spirit plus abyssal-plague"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+32 (magical, unarmed, unholy)\n__Damage__  3d8 + 16 piercing plus abyssal-plague 2d6 spirit plus abyssal-plague"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +32 (agile, magical, unholy)\n__Damage__  3d10 + 16 slashing 2d6 spirit"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+32 (agile, magical, unarmed, unholy)\n__Damage__  3d10 + 16 slashing 2d6 spirit"
 
   - name: "Innate Occult Spells"
     desc: "DC 41, attack +31; __9th __  _[[Spells/Seize Soul|Bind Soul (At Will)]]_; __8th __  _[[Spells/Chain Lightning|Chain Lightning (Coven)]]_, _[[Spells/Dream Council|Dream Council]]_, _[[Spells/Lightning Bolt|Lightning Bolt (Coven)]]_, _[[Spells/Interplanar Teleport|Plane Shift (Coven)]]_, _[[Spells/Punishing Winds|Punishing Winds (Coven)]]_; __7th __  _[[Spells/Ethereal Jaunt|Ethereal Jaunt (At Will)]]_, _[[Spells/Nightmare|Nightmare]]_, _[[Spells/Shadow Blast|Shadow Blast (x2)]]_; __6th __  _[[Spells/Dream Message|Dream Message (At Will)]]_, _[[Spells/Force Barrage|Magic Missile (At Will)]]_; __5th __  _[[Spells/Invisibility|Invisibility (At Will)]]_; __4th __  _[[Spells/Enfeeble|Ray of Enfeeblement (At Will)]]_, _[[Spells/Sleep|Sleep (At Will)]]_; __1st __  _[[Spells/Detect Alignment|Detect Alignment (All Alignments; constant)]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_"

@@ -32,5 +32,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "Your unarmed attacks are treated as cold iron and silver, they gain the earth trait, and they gain a +1 status bonus to damage rolls per damage die.\n\n[[Spell Effects/Spell Effect_ Untwisting Iron Augmentation|Spell Effect: Untwisting Iron Augmentation]]\n* * *\n\n**Heightened (9th)** Your unarmed attacks are also treated as adamantine."
-sourcebook: "_Pathfinder Lost Omens: Impossible Lands_"
+sourcebook: "_Pathfinder Lost Omens Impossible Lands_"
 ```

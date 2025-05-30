@@ -18,7 +18,7 @@ license: OGL
 
 
 
-The magic of djinn runs through your blood. You can cast [[Gust of Wind|Gust of Wind]] and [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] once per day each as 2nd-rank arcane innate spells.
+The magic of djinn runs through your blood. You can cast [[Spells/Gust of Wind|Gust of Wind]] and [[Spells/Invisibility|Invisibility]] once per day each as 2nd-rank arcane innate spells.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

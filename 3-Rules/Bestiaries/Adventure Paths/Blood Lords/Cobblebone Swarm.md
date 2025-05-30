@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_Cobblebone_Swarm.webp| ]]
 source: "Pathfinder #181: Zombie Feast"
 name: "Cobblebone Swarm"
 level: "Creature 3"
@@ -58,8 +59,14 @@ abilities_top:
   - name: "Jutting Bones"
     desc: "  The cobblebone swarm's space is difficult terrain."
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 40 Feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 

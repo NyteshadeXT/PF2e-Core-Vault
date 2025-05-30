@@ -63,8 +63,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Pseudopod +11 ()\n__Damage__  1d8 + 4 bludgeoning 1d6 acid"
+  - name: "**Melee** `pf2:1` Pseudopod"
+    desc: "+11 (unarmed)\n__Damage__  1d8 + 4 bludgeoning 1d6 acid"
 
   - name: "Tag Team"
     desc: "`pf2:2`  **Requirements** another string slime is within 30 feet\n* * *\n\n**Effect** The slime arcs protoplasm to the other string slime. Creatures in that line take 3d6 acid damage with a DC 16 Reflex check save. A creature that fails its save is also knocked [[Conditions/Prone|Prone]]."

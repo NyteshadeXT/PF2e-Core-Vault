@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +12 ()\n__Damage__  1d8 + 3 piercing"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+12 ()\n__Damage__  1d8 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` +1 Striking Wild Claws +13 (agile, finesse)\n__Damage__  2d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` +1 Striking Wild Claws"
+    desc: "+13 (agile, finesse)\n__Damage__  2d6 + 3 slashing"
 
   - name: "Primal Prepared Spells"
-    desc: "DC 19, attack +12; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Runic Body|Magic Fang]]_\n__Cantrips__  __(2nd)__ _[[Spells/Guidance|Guidance]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 19, attack +12; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Hydraulic Push|Hydraulic Push]]_, _[[Spells/Runic Body|Magic Fang]]_\n__Cantrips__  __(2nd)__ _[[Spells/Guidance|Guidance]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Order Spells"
     desc: "1 Focus Point, DC 19, attack +12; __2nd __  _[[Spells/Untamed Shift|Wild Morph]]_, _[[Spells/Untamed Form|Wild Shape]]_"

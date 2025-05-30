@@ -11,7 +11,7 @@ license: OGL
 ---
 # Awakened Power
 ## Feat 4
-### [rare](rare.md "Rare Rarity Trait")[[deviant]]
+### [rare](rare "Rare Rarity Trait")[[deviant]]
 
 **Category** class; 
 

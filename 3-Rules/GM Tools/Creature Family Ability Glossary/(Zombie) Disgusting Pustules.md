@@ -4,7 +4,7 @@ title: "(Zombie) Disgusting Pustules"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/disease
-  - trait/common
+  - trait/
   - category/defensive
   - remaster
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.v6he7HLxYGzaMnvL"
@@ -12,7 +12,7 @@ license: ORC
 ---
 # (Zombie) Disgusting Pustules
 
-### [[3-Rules/trait_reference/D/disease]]
+### [[disease]]
 
 **Category** defensive; 
 

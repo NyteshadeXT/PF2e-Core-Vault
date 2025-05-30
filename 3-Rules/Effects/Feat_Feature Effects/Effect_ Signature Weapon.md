@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Signature Weapon|Signature Weapon]]
 
-Pick a weapon. You gain access to its critical specialization effect.
+You gain access to its critical specialization effect of the selected weapon.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

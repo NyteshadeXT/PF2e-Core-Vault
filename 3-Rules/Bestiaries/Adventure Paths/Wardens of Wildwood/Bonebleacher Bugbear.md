@@ -52,6 +52,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Battle Axe|+2 Flaming Battle Axe]], 3x [[Equipment/Hatchet|Hatchet]], [[Equipment/Explorer's Clothing|+1 Resilient Explorer's Clothing]], [[Equipment/Mask (Plague)|Mask (Plague)]], [[Equipment/Bogeyman Breath|Bogeyman Breath]], 2x [[Equipment/Reaper's Shadow|Reaper's Shadow]]"
+  - name: "[[Bestiary Ability Glossary/Scent|Scent (Imprecise) 30 feet]]"
+    desc: "  Scent involves sensing creatures or objects by smell, and is usually a vague sense. The range is listed in the ability, and it functions only if the creature or object being detected emits an aroma (for instance, incorporeal creatures usually do not exude an aroma).\n\nIf a creature emits a heavy aroma or is upwind, the GM can double or even triple the range of scent abilities used to detect that creature, and the GM can reduce the range if a creature is downwind."
+
 abilities_mid:
   - name: ""
   - name: "Blighted Cloak"
@@ -60,20 +63,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Battle Axe +26 (sweep)\n__Damage__  1d6 fire 1d8 + 12 slashing"
+  - name: "**Melee** `pf2:1` Battle Axe"
+    desc: "+26 (sweep)\n__Damage__  1d6 fire 1d8 + 12 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hatchet +24 (agile, sweep)\n__Damage__  1d6 + 12 slashing"
+  - name: "**Melee** `pf2:1` Hatchet"
+    desc: "+24 (agile, sweep)\n__Damage__  1d6 + 12 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Hatchet +22 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 12 slashing"
+  - name: "**Ranged** `pf2:1` Hatchet"
+    desc: "+22 (agile, sweep, thrown 10 ft.)\n__Damage__  1d6 + 12 slashing"
 
   - name: "Pinpoint Poisoner"
     desc: "  When the Bonebleacher bugbear successfully Strikes an [[Conditions/Off-Guard|Off-Guard]] creature with a poisoned weapon or exposes an off-guard creature to an inhaled poison, the creature takes a –2 circumstance penalty to its initial save against that poison."
 
   - name: "Poison Spray"
-    desc: "`pf2:1`  **Requirements** The Bonebleacher bugbear is holding a contact or injury poison\n* * *\n\n**Effect** The Bonebleacher bugbear attaches the poison container to a nozzle on their mask, which then sprays the poison from the mask in a @Template[cone|distance:15]. The bugbear isn't exposed to the poison. All creatures in the cone are immediately exposed to the poison, and each creature must attempt a Fortitude save against the poison."
+    desc: "`pf2:1`  **Requirements** The Bonebleacher bugbear is holding a contact or injury poison\n* * *\n\n**Effect** The Bonebleacher bugbear attaches the poison container to a nozzle on their mask, which then sprays the poison from the mask in a 15-foot cone. The bugbear isn't exposed to the poison. All creatures in the cone are immediately exposed to the poison, and each creature must attempt a Fortitude save against the poison."
 
   - name: "Sneak Attack"
     desc: "  The Bonebleacher bugbear deals an additional 2d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +6 (agile, finesse)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+6 (agile, finesse, unarmed)\n__Damage__  1d6 + 2 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Hammer +6 (agile)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Light Hammer"
+    desc: "+6 (agile)\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Light Hammer +6 (agile, thrown 20 ft.)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Light Hammer"
+    desc: "+6 (agile, thrown 20 ft.)\n__Damage__  1d6 + 2 bludgeoning"
 
   - name: "Primal Spontaneous Spells"
     desc: "DC 18, attack +10; __1st __ (4 slots) _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Pummeling Rubble|Pummeling Rubble]]_, _[[Spells/Runic Weapon|Runic Weapon]]_\n__Cantrips__  __(1st)__ _[[Spells/Caustic Blast|Caustic Blast]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Know the Way|Know the Way]]_, _[[Spells/Tangle Vine|Tangle Vine]]_"

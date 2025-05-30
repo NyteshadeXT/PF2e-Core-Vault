@@ -56,6 +56,9 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 30 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Bottle Bound"
@@ -67,17 +70,20 @@ abilities_mid:
   - name: "Regenerating Bond"
     desc: " (occult) When a polong possesses a creature, the polong's master gains temporary Hit Points equal to the victim's level × the victim's drained value caused by the possession. These temporary Hit Points last as long as the possession lasts."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scythe Claw +20 (finesse, magical)\n__Damage__  2d4 + 9 slashing 1d6 void"
+  - name: "**Melee** `pf2:1` Scythe Claw"
+    desc: "+20 (finesse, magical)\n__Damage__  2d4 + 9 slashing 1d6 void"
 
   - name: "Polong Possession"
     desc: "`pf2:3` (incapacitation,mental,occult,possession) The polong attempts to possess an adjacent corporeal creature. This has the same effect as the [[Spells/Possession|Possession]] spell (DC 26 Will check), except the duration is 24 hours and, since the polong doesn't have a physical body, they're unaffected by that restriction of the spell. If the target has critically failed its save and become fully possessed by this polong before, it gets a save result one degree of success worse than it rolled.\n\nA creature possessed by a polong becomes [[Conditions/Drained|Drained 1]] and [[Conditions/Doomed|Doomed 1]]. These conditions don't reduce naturally unless the polong spends an entire day without possessing the creature. For each consecutive day the polong is able to return and possess the creature, the drained and doomed values each increase by 1, to a maximum of 4. If the polong possesses a different creature, the conditions end for any creature it previously possessed."
 
   - name: "[[Bestiary Ability Glossary/Rend|Rend]]"
-    desc: "`pf2:1`  Scythe Claw\n\n* * *\n"
+    desc: "`pf2:1`  Scythe Claw\n* * *\n\nA Rend entry lists a Strike the monster has.\n\n**Requirements** The monster hit the same enemy with two consecutive Strikes of the listed type in the same round.\n* * *\n\n**Effect** The monster automatically deals that Strike's damage again to the enemy."
  
 ```
 

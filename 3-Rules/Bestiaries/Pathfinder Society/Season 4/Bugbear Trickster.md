@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +13 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+13 (agile, finesse, magical, versatile s)\n__Damage__  2d4 + 6 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +13 (agile, magical, thrown 20 ft., versatile s)\n__Damage__  2d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+13 (agile, magical, thrown 20 ft., versatile s)\n__Damage__  2d4 + 6 piercing"
 
   - name: "Kick Sand"
     desc: "`pf2:1`  The creature kicks sand into an adjacent creature's face. That creature makes a DC 19 Reflex check. On a failure, that creature is [[Conditions/Dazzled|Dazzled]] and treated as [[Conditions/Off-Guard|Off-Guard]] to this creature's next attack; a success negates the off-guard effects.\n\n_Note: A DC was not provided for this ability by Paizo. The DC present here is a moderate DC for the creature level according to the Gamemastery Guide creature building Tables._"

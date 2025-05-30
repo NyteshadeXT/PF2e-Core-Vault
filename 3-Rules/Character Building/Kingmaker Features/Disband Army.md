@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Disband Army"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/army
   - trait/downtime
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.IWanYXCWh3cvC6ti"
 license: OGL
 ---
 # Disband Army
-
+## 
 ### [[army]][[downtime]]
 
 **Category** kingdom-activity; 

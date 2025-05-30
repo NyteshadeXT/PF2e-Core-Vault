@@ -5,7 +5,7 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/concentrate
   - trait/investigator
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.25WDi1cVUrW92sUj"
@@ -13,7 +13,7 @@ license: ORC
 ---
 # Clue In `pf2:r`
 
-### [[3-Rules/Rule References/Concentrate]][[investigator]]
+### [[concentrate]][[investigator]]
 
 **Category** interaction; 
 

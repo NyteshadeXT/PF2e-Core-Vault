@@ -23,7 +23,7 @@ level: "Army 10"
 rare_03: [[Rare]]
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: cavalry
 modifier: 19
 perception:

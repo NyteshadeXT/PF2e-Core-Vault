@@ -20,5 +20,5 @@ license: OGL
 
 Your tail makes it much easier for you to climb. You gain a +2 circumstance bonus to Athletics checks to Climb, you gain the [[Feats/Combat Climber|Combat Climber]] skill feat, and you reduce the number of free hands required to Climb or [[Actions/Trip|Trip]] by one.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

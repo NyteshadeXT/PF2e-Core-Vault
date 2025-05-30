@@ -68,23 +68,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jambiya +24 (agile, finesse, magical, reach 10 feet, versatile s)\n__Damage__  2d4 + 11 piercing 1d12 electricity"
+  - name: "**Melee** `pf2:1` Jambiya"
+    desc: "+24 (agile, finesse, magical, reach 10 feet, versatile s)\n__Damage__  2d4 + 11 piercing 1d12 electricity"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 (agile, finesse, nonlethal, reach 10 feet, unarmed)\n__Damage__  1d6 + 11 slashing 1d12 electricity"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+23 (agile, finesse, nonlethal, reach 10 feet, unarmed)\n__Damage__  1d6 + 11 slashing 1d12 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Jambiya +24 (agile, magical, thrown 20 ft., versatile s)\n__Damage__  2d4 + 11 piercing 1d12 electricity"
+  - name: "**Ranged** `pf2:1` Jambiya"
+    desc: "+24 (agile, magical, thrown 20 ft., versatile s)\n__Damage__  2d4 + 11 piercing 1d12 electricity"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crashing Wind +23 (air, arcane, range increment 50 feet)\n__Damage__  3d8 + 8 bludgeoning"
+  - name: "**Ranged** `pf2:1` Crashing Wind"
+    desc: "+23 (air, arcane, range increment 50 feet)\n__Damage__  3d8 + 8 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 30, attack +22; __7th __  _[[Compendium.pf2e.spells-srd.Item.nRINcQb81Wt4KeFu|Interplanar Teleport (At Will; To Astral Plane, Elemental Planes, or Universe Only)]]_; __5th __  _[[Spells/Illusory Creature|Illusory Creature]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Nightmare|Nightmare (x2)]]_, _[[Spells/Pressure Zone|Pressure Zone]]_, _[[Spells/Sleep|Sleep (x2)]]_; __4th __  _[[Spells/Ill Omen|Ill Omen]]_, _[[Spells/Vapor Form|Vapor Form]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,polymorph) "
+    desc: "`pf2:1` (concentrate,polymorph) The monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Hurricane Blast"
     desc: "`pf2:1` (air,arcane) **Frequency** once per round\n* * *\n\n**Effect** The jaathoom moves all creatures without the air trait in their turbulent skies aura 20 feet directly away, clockwise, or counterclockwise. A creature avoids being moved if it succeeds at a DC 29 Fortitude check save."

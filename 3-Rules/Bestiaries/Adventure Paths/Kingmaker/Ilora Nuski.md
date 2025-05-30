@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +26 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 6 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+26 (agile, finesse, magical, versatile s)\n__Damage__  2d6 + 6 piercing"
 
   - name: "Primal Prepared Spells"
-    desc: "DC 30, attack +22; __2nd __  _[[Spells/Animal Messenger|Animal Messenger]]_, _[[Spells/Entangling Flora|Entangle]]_; __1st __  _[[Spells/Alarm|Alarm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_\n__Cantrips__  __(3rd)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Light|Light]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
+    desc: "DC 30, attack +22; __2nd __  _[[Spells/Animal Messenger|Animal Messenger]]_, _[[Spells/Entangling Flora|Entangle]]_; __1st __  _[[Spells/Alarm|Alarm]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Vanishing Tracks|Pass Without Trace]]_\n__Cantrips__  __(3rd)__ _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Light|Light]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"
 
   - name: "Nature's Edge"
     desc: "  Ilora always finds the weak points in her foes' defenses when they're on unfavorable terrain. Enemies are [[Conditions/Off-Guard|Off-Guard]] to her if they're in difficult terrain, [[Conditions/Restrained|Restrained]], or [[Conditions/Immobilized|Immobilized]] due to natural or magical environmental effects."

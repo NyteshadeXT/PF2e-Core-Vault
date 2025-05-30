@@ -16,14 +16,14 @@ license: ORC
 ---
 # Majestic Presence `pf2:1`
 ## Feat 13
-### [[dragonblood]][[emotion]][[3-Rules/trait_reference/F/fear]][[3-Rules/trait_reference/M/mental]][[visual]]
+### [[dragonblood]][[emotion]][[fear]][[mental]][[visual]]
 
 **Category** ancestry; 
 
 
 
 
-By taking an impressive stance, the full force of your personality cows lesser beings. Each creature in a @Template\[emanation|distance:20\] must attempt a Will check save against the higher of your class DC or spell DC. Regardless of the result of the saving throw, the creature is temporarily immune to your Majestic Presence for 24 hours.
+By taking an impressive stance, the full force of your personality cows lesser beings. Each creature in a 20-foot emanation must attempt a Will check save against the higher of your class DC or spell DC. Regardless of the result of the saving throw, the creature is temporarily immune to your Majestic Presence for 24 hours.
 
 * * *
 

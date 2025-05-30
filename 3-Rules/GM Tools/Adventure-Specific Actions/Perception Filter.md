@@ -11,7 +11,7 @@ license: OGL
 ---
 # Perception Filter `pf2:2`
 
-### [[3-Rules/trait_reference/M/mental]]
+### [[mental]]
 
 **Category** offensive; 
 
@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-**Effect** Your relic reaches into the minds of nearby creatures and blocks your presence from their perceptions. For the next 10 minutes, a creature that enters a @Template\[emanation|distance:120\], centered on you, must attempt a secret Will check save, after which the creature is then temporarily immune for 1 day.
+**Effect** Your relic reaches into the minds of nearby creatures and blocks your presence from their perceptions. For the next 10 minutes, a creature that enters a 120-foot emanation, centered on you, must attempt a secret Will check save, after which the creature is then temporarily immune for 1 day.
 
 * * *
 

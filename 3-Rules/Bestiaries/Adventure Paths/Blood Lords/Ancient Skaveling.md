@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap184-the-ghouls-hunger/assets/art/Skaveling.webp| ]]
 source: "Pathfinder #184: The Ghouls Hunger"
 name: "Ancient Skaveling"
 level: "Creature 15"
@@ -62,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +29 ()\n__Damage__  3d12 + 16 piercing plus ghoul-fever,paralysis"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+29 ()\n__Damage__  3d12 + 16 piercing plus ghoul-fever,paralysis"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +29 (agile)\n__Damage__  3d8 + 16 bludgeoning plus paralysis"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+29 (agile)\n__Damage__  3d8 + 16 bludgeoning plus paralysis"
 
   - name: "Bone-Shattering Screech"
-    desc: "`pf2:2` (auditory,emotion,fear,mental,occult,sonic) The skaveling unleashes a devastating screech that not only chills the bones but shatters them. The screech can be heard throughout the region and alerts all creatures in the Hanging Castle. Creatures in a @Template[emanation|distance:20] take 12d6 sonic damage must also attempt a DC 36 Will check save.\n\nThe skaveling can't use Bone-Shattering Screech again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Bone-Shattering Screech for 24 hours.\n\n**Success** The creature takes half damage and is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature takes full damage and is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Frightened|Frightened 3]] and is [[Conditions/Stunned|Stunned 3]]."
+    desc: "`pf2:2` (auditory,emotion,fear,mental,occult,sonic) The skaveling unleashes a devastating screech that not only chills the bones but shatters them. The screech can be heard throughout the region and alerts all creatures in the Hanging Castle. Creatures in a 20-foot emanation take 12d6 sonic damage must also attempt a DC 36 Will check save.\n\nThe skaveling can't use Bone-Shattering Screech again for 1d4 rounds.\n* * *\n\n**Critical Success** The creature is unaffected and is temporarily immune to Bone-Shattering Screech for 24 hours.\n\n**Success** The creature takes half damage and is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature takes full damage and is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature takes double damage and is [[Conditions/Frightened|Frightened 3]] and is [[Conditions/Stunned|Stunned 3]]."
 
   - name: "Ghoul Fever"
     desc: " (disease) **Saving Throw** DC 36 Fortitude check\n\n**Stage 1** carrier with no ill effect (1 day)\n\n**Stage 2** 2d6 void damage and regains half as many Hit Points from all healing (1 day)\n\n**Stage 3** as stage 2 (1 day)\n\n**Stage 4** 2d6 void damage and gains no benefit from healing (1 day)\n\n**Stage 5** as stage 4 (1 day)\n\n**Stage 6** dead, and rises as a ghoul the next midnight"

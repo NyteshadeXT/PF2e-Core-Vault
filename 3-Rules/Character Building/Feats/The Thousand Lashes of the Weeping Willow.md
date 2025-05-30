@@ -17,7 +17,7 @@ license: ORC
 ---
 # The Thousand Lashes of the Weeping Willow `pf2:3`
 ## Feat 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[impulse]][[kineticist]][[overflow]][[plant]][[primal]][[Wood]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[impulse]][[kineticist]][[overflow]][[plant]][[primal]][[wood]]
 
 **Category** class; 
 

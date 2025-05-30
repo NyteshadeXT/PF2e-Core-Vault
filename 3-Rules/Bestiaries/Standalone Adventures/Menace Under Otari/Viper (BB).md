@@ -3,7 +3,7 @@ title: "Viper (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.lFlXmieuHTBIonhj" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.1uVwkGlqYzyWaDMy" 
 tags:
   - pf2e/creature/type/animal
   - pf2eMonster
@@ -57,8 +57,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +6 (agile, finesse)\n__Damage__  1d8 - 3 piercing plus viper-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+6 (agile, finesse)\n__Damage__  1d8 - 3 piercing plus viper-venom"
 
   - name: "Viper Venom"
     desc: " (poison) A target damaged by the viper's fangs must succeed at a DC 16 Fortitude check save or take 1d10 poison damage."

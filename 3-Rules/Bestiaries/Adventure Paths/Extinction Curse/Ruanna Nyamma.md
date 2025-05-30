@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +11 (agile, finesse, trip)\n__Damage__  1d6 + 3 slashing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+11 (agile, finesse, trip)\n__Damage__  1d6 + 3 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shortbow +11 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
+  - name: "**Ranged** `pf2:1` Shortbow"
+    desc: "+11 (deadly d10, range increment 60 feet, reload 0)\n__Damage__  1d6 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 19, attack +12; __2nd __ (3 slots) _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mirror Image|Mirror Image]]_, _[[Spells/Silence|Silence]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Soothe|Soothe]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

@@ -54,21 +54,21 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Dragon Mouth Pistol|Dragon Mouth Pistol (Integrated)]], [[Equipment/Mace Multipistol|+1 Striking Mace Multipistol (Integrated)]]"
   - name: "[[Creature Family Ability Glossary/(Clockwork Creature) Wind-Up|Wind-Up]]"
-    desc: "  24 hours, DC 24 Thievery check, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  24 hours, [[Actions/disable-device dc=24|disable-device dc=24]]{DC 24 Thievery}, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Mace Multipistol +19 (critical fusion, magical, shove)\n__Damage__  2d6 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Mace Multipistol"
+    desc: "+19 (critical fusion, magical, shove)\n__Damage__  2d6 + 7 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dragon Mouth Pistol +20 (concussive, range increment 20 feet, reload 1, scatter 5)\n__Damage__  1d6 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Dragon Mouth Pistol"
+    desc: "+20 (concussive, range increment 20 feet, reload 1, scatter 5)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Mace Multipistol +21 (capacity 3, concussive, fatal d8, magical, range increment 20 feet, reload 1)\n__Damage__  2d4 + 3 piercing"
+  - name: "**Ranged** `pf2:1` Mace Multipistol"
+    desc: "+21 (capacity 3, concussive, fatal d8, magical, range increment 20 feet, reload 1)\n__Damage__  2d4 + 3 piercing"
 
   - name: "Integrated Weapons"
     desc: "  An integrated weapon is built into the limb of the clockwork gunner. They can't be disarmed, and they take 10 minutes to attach or remove. Each of a clockwork gunner's firearms can be loaded with 10 shots before they must be reloaded. Reloading a single round into either of these firearms takes 3 actions, or 10 minutes to fully reload a weapon. A clockwork gunner can't reload its own weapons."

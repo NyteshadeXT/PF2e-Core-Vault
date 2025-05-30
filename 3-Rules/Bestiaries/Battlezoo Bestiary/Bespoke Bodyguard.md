@@ -59,11 +59,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +23 (reach 15 feet, shove)\n__Damage__  2d12 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+23 (reach 15 feet, shove)\n__Damage__  2d12 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blade Launcher +22 (range increment 30 feet)\n__Damage__  2d10 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Blade Launcher"
+    desc: "+22 (range increment 30 feet)\n__Damage__  2d10 + 8 piercing"
 
   - name: "Keep Away"
     desc: "`pf2:2`  **Requirements** The bespoke bodyguard is adjacent to an ally;\n\n**Effect** The bespoke bodyguard forcefully but harmlessly pushes away up to four enemies within 10 feet of its ally. Each targeted enemy must succeed at a DC 29 Fortitude save or be [[Bestiary Ability Glossary/Push|Pushed]] 5 feet away from the bespoke bodyguard's ally. On a critically failed save, the pushed creature also falls [[Conditions/Prone|Prone]]."

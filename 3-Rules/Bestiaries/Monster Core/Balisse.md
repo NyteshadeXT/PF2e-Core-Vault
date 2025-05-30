@@ -55,6 +55,12 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Scimitar|+1 Striking Scimitar]]"
+  - name: "[[Bestiary Ability Glossary/At-Will Spells|At-Will Spells]]"
+    desc: "  The monster can cast its at-will spells any number of times without using up spell slots."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Confessor's Aura"
@@ -63,14 +69,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Scimitar +20 (fire, forceful, holy, magical, sweep)\n__Damage__  2d6 + 8 slashing 1d6 fire"
+  - name: "**Melee** `pf2:1` Scimitar"
+    desc: "+20 (fire, forceful, holy, magical, sweep)\n__Damage__  2d6 + 8 slashing 1d6 fire"
 
   - name: "Divine Innate Spells"
     desc: "DC 26, attack +18; __4th __  _[[Spells/Cleanse Affliction|Cleanse Affliction]]_, _[[Spells/Divine Wrath|Divine Wrath]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Paralyze|Paralyze]]_; __3rd __  _[[Spells/Clear Mind|Clear Mind (At Will)]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "Rituals"
-    desc: "_[[Spells/Angelic Messenger|Angelic Messenger]]_, _[[Spells/Atone|Atone]]_, _[[Spells/Geas|Geas]]_"
+    desc: "_Angelic Messenger_, _Atone_, _Geas_"
 
   - name: "Brand of the Impenitent"
     desc: "`pf2:2` (curse,divine) **Frequency** once per day\n* * *\n\n**Effect** The balisse marks a creature within their confessor's aura as irredeemable. They can do so only after a failed attempt to convince the creature to repent. The touched creature takes a –1 status penalty to AC and saves, reduces all its resistances by 2, and gains weakness 2 to holy. The duration depends on the target's DC 26 Will check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The duration is 1 round.\n\n**Failure** The duration is 1 day.\n\n**Critical Failure** The duration is unlimited.\n* * *\n\n[[Bestiary Effects/Effect_ Brand of the Impenitent|Effect: Brand of the Impenitent]]"

@@ -66,8 +66,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +30 (two-hand d8)\n__Damage__  4d6 + 20 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+30 (two-hand d8)\n__Damage__  4d6 + 20 bludgeoning"
 
   - name: "Primal Prepared Spells"
     desc: "DC 41, attack +33; __10th __ (1 slots) _[[Spells/Fated Confrontation|Fated Confrontation]]_; __9th __ (3 slots) _[[Spells/Implosion|Implosion]]_, _[[Spells/Metamorphosis|Shapechange]]_; __8th __ (3 slots) _[[Spells/Moment of Renewal|Moment of Renewal]]_, _[[Spells/Polar Ray|Polar Ray]]_; __7th __ (3 slots) _[[Spells/Execute|Finger of Death]]_, _[[Spells/Regenerate|Regenerate]]_, _[[Spells/Sunburst|Sunburst]]_; __6th __ (3 slots) _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Petrify|Flesh to Stone]]_, _[[Spells/Nature's Reprisal|Nature's Reprisal]]_, _[[Spells/Truesight|True Seeing]]_; __5th __ (3 slots) _[[Spells/Banishment|Banishment]]_, _[[Spells/Blazing Fissure|Blazing Fissure]]_, _[[Spells/Healing Well|Healing Well]]_; __4th __ (3 slots) _[[Spells/Fly|Fly]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_; __3rd __ (3 slots) _[[Spells/Slow|Slow]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __ (3 slots) _[[Spells/Darkvision|Darkvision]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Entangling Flora|Entangle]]_, _[[Spells/Web|Web]]_; __1st __ (3 slots) _[[Spells/Fear|Fear]]_, _[[Spells/Gentle Landing|Feather Fall]]_, _[[Spells/Gust of Wind|Gust of Wind]]_\n__Cantrips__  __(10th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Tangle Vine|Tanglefoot]]_"

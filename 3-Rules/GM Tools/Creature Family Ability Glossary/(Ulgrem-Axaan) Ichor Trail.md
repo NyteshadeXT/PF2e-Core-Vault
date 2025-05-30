@@ -19,5 +19,5 @@ license: OGL
 
 Any square Ulgrem-Axaan moves into is coated in melting liquids from its body and becomes difficult terrain. After an hour, the ichor dries and the effect ends.
 
-*Source: Pathfinder Lost Omens: Monsters of Myth*
+*Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

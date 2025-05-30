@@ -38,7 +38,7 @@ abilities_top:
   - name: "Defense"
     desc: " fortitude"
   - name: "Duration"
-    desc: "sustained up to 1 minute"
+    desc: "1 minute"
 abilities_mid:
   - name: ""
     desc: "You partially transform a foe's feet into unwieldy slabs of metal, slowing their steps. The target attempts a Fortitude saving throw.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Encumbered|Encumbered]] and has weakness 2 to electricity until the end of your next turn. The spell can't be sustained.\n\n**Failure** The target is encumbered and has weakness 2 to electricity.\n\n**Critical Failure** The target is encumbered and has weakness 3 to electricity.\n\n[[Spell Effects/Spell Effect_ Leaden Steps|Spell Effect: Leaden Steps]]\n* * *\n\n**Heightened (+1)** The weakness increases by 1."

@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Lunging Stance|Lunging Stance]]
 
-While you are in this stance, you can use Reactive Strike against a creature that is outside your reach but within the reach you would have with a Lunge. If you do, you increase your range with the Strike by 5 feet.
+You can use Reactive Strike against a creature that is outside your reach but within the reach you would have with a Lunge. If you do, you increase your range with the Strike by 5 feet.
 
 *Source: Pathfinder Player Core*
 *ORC*

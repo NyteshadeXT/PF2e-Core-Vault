@@ -63,14 +63,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Rapier +18 (deadly d8, disarm, finesse)\n__Damage__  2d6 + 8 piercing plus hunting-spider-venom"
+  - name: "**Melee** `pf2:1` Rapier"
+    desc: "+18 (deadly d8, disarm, finesse)\n__Damage__  2d6 + 8 piercing plus hunting-spider-venom"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Acid Flask +18 (range increment 20 feet, splash)\n__Damage__  5 acid 2d6 + 2 acid 4 acid"
+  - name: "**Ranged** `pf2:1` Acid Flask"
+    desc: "+18 (range increment 20 feet, splash)\n__Damage__  5 acid 2d6 + 2 acid 4 acid"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire +18 (range increment 20 feet, splash)\n__Damage__  2d8 + 2 fire 4 fire 4 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire"
+    desc: "+18 (range increment 20 feet, splash)\n__Damage__  2d8 + 2 fire 4 fire 4 fire"
 
   - name: "Hunting Spider Venom"
     desc: " (poison) **Saving Throw** DC 21 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d10 poison and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d12 poison, [[Conditions/Clumsy|Clumsy 1]], and off-guard (1 round)\n\n**Stage 3** 2d6 poison, [[Conditions/Clumsy|Clumsy 2]], and off-guard (1 round)"

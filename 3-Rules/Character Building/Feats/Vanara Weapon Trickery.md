@@ -21,5 +21,5 @@ license: OGL
 * * *
 You've learned how to trick your foes using vanara weapons. Whenever you critically hit using a bo staff, chakram, katar, panabas, urumi, or vanara weapon, you apply the weapon's critical specialization effect.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

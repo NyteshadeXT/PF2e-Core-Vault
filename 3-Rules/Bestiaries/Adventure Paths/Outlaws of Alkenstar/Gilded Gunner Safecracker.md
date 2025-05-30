@@ -56,11 +56,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +14 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+14 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 5 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dueling Pistol +14 (concealable, concussive, fatal d10, range increment 60 feet, reload 1)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Dueling Pistol"
+    desc: "+14 (concealable, concussive, fatal d10, range increment 60 feet, reload 1)\n__Damage__  1d6 + 4 piercing"
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The safecracker deals an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

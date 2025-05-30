@@ -61,6 +61,9 @@ abilities_top:
   - name: "Shame"
     desc: "  A defaced naiad queen suffers from shame when it attacks any target that can cast primal spells, any fey creature, or any creature that can cast divine spells and worships a deity or faith associated with nature or the First World (such as Gozreh, one of the Eldest, or the Green Faith). [[Adventure-Specific Actions/Forgive Foe|Forgive Foe]] can be attempted against a defaced naiad queen with a DC 36 Diplomacy check check or Nature check. If a defaced naiad queen is affected by a critical success from Forgive Foe, its eyes are restored and it cries out in relief an instant before it vanishes, returning to the First World as a chaotic neutral naiad queen. As it does so, a wave of emotional thanks and inspiration infuse the character who used Forgive Foe, granting them a +3 status bonus to Lore checks and saves against fear effects for 24 hours.\n\n[[Bestiary Effects/Effect_ Forgiven Defaced Naiad Queen's Thanks|Effect: Forgiven Defaced Naiad Queen's Thanks]]"
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Nymph's Tragedy"
@@ -69,8 +72,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Painful Caress +30 (agile, finesse, magical)\n__Damage__  3d10 + 14 mental plus tortuous-touch"
+  - name: "**Melee** `pf2:1` Painful Caress"
+    desc: "+30 (agile, finesse, magical)\n__Damage__  3d10 + 14 mental plus tortuous-touch"
 
   - name: "Primal Prepared Spells"
     desc: "DC 36, attack +28; __7th __  _[[Spells/Execute|Finger of Death]]_; __6th __  _[[Spells/Cursed Metamorphosis|Baleful Polymorph]]_, _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Petrify|Flesh to Stone]]_; __5th __  _[[Spells/Cone of Cold|Cone of Cold]]_; __4th __  _[[Spells/Fly|Fly]]_, _[[Spells/Unfettered Movement|Freedom of Movement]]_; __3rd __  _[[Spells/Blindness|Blindness]]_, _[[Spells/Lightning Bolt|Lightning Bolt]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Mist|Obscuring Mist]]_, _[[Spells/Web|Web]]_; __1st __  _[[Spells/Fear|Fear]]_, _[[Spells/Gust of Wind|Gust of Wind]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Spider Sting|Spider Sting]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Stabilize|Stabilize]]_"

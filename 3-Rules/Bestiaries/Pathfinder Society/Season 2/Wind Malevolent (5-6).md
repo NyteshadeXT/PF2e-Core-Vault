@@ -60,8 +60,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vacuum Sickle +14 ()\n__Damage__  2d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Vacuum Sickle"
+    desc: "+14 ()\n__Damage__  2d8 + 7 slashing"
  
 ```
 

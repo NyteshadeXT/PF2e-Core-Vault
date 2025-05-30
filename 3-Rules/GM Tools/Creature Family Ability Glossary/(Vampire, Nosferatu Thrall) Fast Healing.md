@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Vampire, Nosferatu Thrall) Fast Healing"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.2BjqIO36k0Y6tgZf"
 license: OGL

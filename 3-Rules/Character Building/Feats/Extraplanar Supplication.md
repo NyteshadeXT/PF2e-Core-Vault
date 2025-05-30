@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You call upon divine power to place a benediction upon your allies or a malediction upon your foes. Choose either [[Bless|Bless]] or [[3-Rules/Character Building/Spells/B/Bane|Bane]]. You can cast the chosen spell once per day as a 1st-rank divine innate spell.
+You call upon divine power to place a benediction upon your allies or a malediction upon your foes. Choose either [[Spells/Bless|Bless]] or [[Spells/Bane|Bane]]. You can cast the chosen spell once per day as a 1st-rank divine innate spell.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -23,12 +23,12 @@ When you start a psychic duel, you gain a third natural psychic spell. You can't
 
 If you're 9th level or higher, add the following spells to the list of natural psychic spells you can choose:
 
-*   [[Confusion|Confusion]]
-*   [[Wave of Despair|Wave of Despair]]
-*   [[Hallucination|Hallucination]]
-*   [[Suggestion|Suggestion]]
-*   [[Synaptic Pulse|Synaptic Pulse]]
-*   [[Synesthesia|Synesthesia]]
+*   [[Spells/Confusion|Confusion]]
+*   [[Spells/Wave of Despair|Wave of Despair]]
+*   [[Spells/Hallucination|Hallucination]]
+*   [[Spells/Suggestion|Suggestion]]
+*   [[Spells/Synaptic Pulse|Synaptic Pulse]]
+*   [[Spells/Synesthesia|Synesthesia]]
 
 *Source: Pathfinder Dark Archive*
 *OGL*

@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Bracelet of Dashing|Bracelet of Dashing]]
+Granted by [[Equipment/Bracelet of Dashing|Bracelet of Dashing]]
+
+You gain a +10-foot status bonus to Speed.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

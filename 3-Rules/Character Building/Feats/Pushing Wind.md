@@ -14,7 +14,7 @@ license: ORC
 ---
 # Pushing Wind
 ## Feat 8
-### [[3-Rules/trait_reference/A/air]][[archetype]][[3-Rules/trait_reference/A/aura]]
+### [[air]][[archetype]][[aura]]
 
 **Category** class; 
 
@@ -32,5 +32,5 @@ As you spin and glide your fans alongside your allies, you kick up a mild wind t
 
 Additionally, the air impedes the movements of your foes. While holding a fan, the area in a 10-foot aura emanating around you is difficult terrain for all enemies.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -43,7 +43,7 @@ perception:
 languages: "Common, Necril"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +9, Intimidation: +7, Society: +9, Acrobatics: +9, Intimidation: +7, Society: +9"
+    desc: "Acrobatics: +9, Intimidation: +7, Society: +9"
 abilityMods: [-5, -4, 0, 0, 3, 0]
 speed:  fly 25 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -70,8 +70,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +11 (agile, finesse, magical)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+11 (agile, finesse, magical)\n__Damage__  1d8 + 6 void plus ghostly-grab"
 
   - name: "[[Bestiary Ability Glossary/Grab|Ghostly Grab]]"
     desc: "`pf2:1`  As Grab, but the akaky can Grab a corporeal creature despite being incorporeal itself. It is only able to do so by manifesting a fading image of a ghostly overcoat onto the creature and then clutching onto the incorporeal coat. This spiritual garment superimposes over any winter clothing a target might have, allowing the akaky to potentially tear the warm clothing off the victim after killing them. The [[undefined]] DC for victims of an akaky's Grab is 20, rather than the akaky's Athletics DC.\n\n* * *\n"

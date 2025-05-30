@@ -58,14 +58,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +12 (agile, versatile s)\n__Damage__  2d4 + 6 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+12 (agile, versatile s)\n__Damage__  2d4 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +11 (agile, finesse, trip)\n__Damage__  1d4 + 6 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+11 (agile, finesse, trip)\n__Damage__  1d4 + 6 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +11 (agile, thrown 10 ft., versatile s)\n__Damage__  2d4 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+11 (agile, thrown 10 ft., versatile s)\n__Damage__  2d4 + 6 piercing"
 
   - name: "Twin Feint"
     desc: "`pf2:2`  The bugbear slasher makes a dazzling series of attacks with two weapons, using the first attack to throw their foe off guard against a second attack at a different angle. They make one Strike with each of their two melee weapons, both against the same target. The target is automatically [[Conditions/Off-Guard|Off-Guard]] against the second attack. Apply the bugbear slasher's multiple attack penalty to the Strikes normally."

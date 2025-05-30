@@ -61,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +17 (agile, finesse, versatile s)\n__Damage__  2d6 + 7 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+17 (agile, finesse, versatile s)\n__Damage__  2d6 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dagger +16 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Dagger"
+    desc: "+16 (agile, finesse, thrown 10 ft., versatile s)\n__Damage__  1d4 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Alchemist&#x27;s Fire +16 (range increment 30 feet, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
+  - name: "**Ranged** `pf2:1` Alchemist&#x27;s Fire"
+    desc: "+16 (range increment 30 feet, splash)\n__Damage__  2d8 fire 2 fire 2 fire"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Bottled Lightning +16 (range increment 30 feet, splash)\n__Damage__  2d6 electricity 2 electricity"
+  - name: "**Ranged** `pf2:1` Bottled Lightning"
+    desc: "+16 (range increment 30 feet, splash)\n__Damage__  2d6 electricity 2 electricity"
 
   - name: "Blackfingers's Blessing"
     desc: "  Doatara deals an extra 2d6 poison damage when she deals piercing or slashing damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

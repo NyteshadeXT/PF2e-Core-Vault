@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Machete +13 (deadly d8, magical, sweep)\n__Damage__  1d6 + 2 slashing"
+  - name: "**Melee** `pf2:1` Machete"
+    desc: "+13 (deadly d8, magical, sweep)\n__Damage__  1d6 + 2 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Composite Shortbow +10 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d8 + 5 piercing"
+  - name: "**Ranged** `pf2:1` Composite Shortbow"
+    desc: "+10 (deadly d10, propulsive, range increment 60 feet, reload 0)\n__Damage__  1d8 + 5 piercing"
 
   - name: "Devil's Breath"
-    desc: "`pf2:2` (divine,fire) **Frequency** once per day\n* * *\n\n**Effect** The ascended disciple cuts their tongue with a slashing weapon held in a hand (taking 1 slashing damage), then exhales a @Template[cone|distance:15] of burning smoke. Each creature in the area must attempt a DC 22 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d8 fire damage.\n\n**Failure** The creature takes 4d8 fire damage and is [[Conditions/Sickened|Sickened 1]] by the agonizing pain of the burns.\n\n**Critical Failure** The creature takes 6d8 fire damage, is sickened 1 by the agonizing pain of the burns, and is [[Conditions/Enfeebled|Enfeebled 1]] by the smoke for 1 minute."
+    desc: "`pf2:2` (divine,fire) **Frequency** once per day\n* * *\n\n**Effect** The ascended disciple cuts their tongue with a slashing weapon held in a hand (taking 1 slashing damage), then exhales a 15-foot cone of burning smoke. Each creature in the area must attempt a DC 22 Reflex check save.\n* * *\n\n**Critical Success** The creature is unaffected.\n\n**Success** The creature takes 2d8 fire damage.\n\n**Failure** The creature takes 4d8 fire damage and is [[Conditions/Sickened|Sickened 1]] by the agonizing pain of the burns.\n\n**Critical Failure** The creature takes 6d8 fire damage, is sickened 1 by the agonizing pain of the burns, and is [[Conditions/Enfeebled|Enfeebled 1]] by the smoke for 1 minute."
 
   - name: "[[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]"
     desc: "  The creature's Strikes deal an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures."

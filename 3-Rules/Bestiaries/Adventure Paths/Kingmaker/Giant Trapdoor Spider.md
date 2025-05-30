@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +11 ()\n__Damage__  1d10 + 3 piercing plus giant-trapdoor-spider-venom"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+11 ()\n__Damage__  1d10 + 3 piercing plus giant-trapdoor-spider-venom"
 
   - name: "Giant Trapdoor Spider Venom"
     desc: " (incapacitation,poison) **Saving Throw** DC 18 Fortitude check\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d10 poison and [[Conditions/Off-Guard|Off-Guard]] (1 round)\n\n**Stage 2** 1d12 poison, [[Conditions/Slowed|Slowed 1]], and off-guard (1 round)\n\n**Stage 3** 2d6 poison and [[Conditions/Paralyzed|Paralyzed]] (1 round)"

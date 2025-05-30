@@ -12,7 +12,7 @@ license: OGL
 ---
 # Psychic Duelist Dedication
 ## Feat 4
-### [rare](rare.md "Rare Rarity Trait")[[archetype]][[dedication]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[dedication]]
 
 **Category** class; 
 
@@ -25,9 +25,7 @@ Through experience and in-depth visualizations of mental battles, you've grown a
 *   **Mind Mace** You gain a status bonus to mental damage with spells you cast equal to the spell's rank.
 *   **Psychic Fist** You can use your standard ability modifier for Strike damage instead of your highest mental modifier, and you can use your full AC instead of using your Will DC in place of your AC.
 
-* * *
-
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Psychic Duelist|Psychic Duelist]] archetype.
+[[PF2e Journals/Archetypes/Psychic Duelist|Psychic Duelist]]
 
 *Source: Pathfinder Dark Archive*
 *OGL*

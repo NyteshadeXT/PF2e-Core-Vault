@@ -3,7 +3,7 @@ obsidianUIMode: preview
 title: "(Mana Wastes Mutant) Energy Resistance"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/common
+  - trait/
   - category/offensive
 aliases: "Compendium.pf2e.bestiary-family-ability-glossary.Item.kew9yPbf83smsCyL"
 license: OGL
@@ -28,5 +28,5 @@ The mutant has strangely colored skin or fur and gains resistance to a single ty
 | 8-14 | 10 |
 | 15+ | 15 |
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

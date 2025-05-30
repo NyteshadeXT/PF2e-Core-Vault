@@ -35,5 +35,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You link the minds of two targets, enabling them to move in tandem. When one of the targets Steps, the other target can use a reaction to Step. When one of the targets Strides, the other target can use a reaction to Stride.\n* * *\n\n**Heightened (5th)** The range increases to 60 feet, and you can target up to 10 willing creatures."
-sourcebook: "_Pathfinder Lost Omens: Knights of Lastwall_"
+sourcebook: "_Pathfinder Lost Omens Knights of Lastwall_"
 ```

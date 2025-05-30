@@ -11,7 +11,7 @@ license: OGL
 ---
 # Dancing Shadow `pf2:2`
 
-### [[3-Rules/trait_reference/shadow]]
+### [[shadow]]
 
 **Category** offensive; 
 

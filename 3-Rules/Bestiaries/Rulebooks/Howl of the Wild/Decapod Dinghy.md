@@ -31,7 +31,7 @@ trait_02: [[beast]]
 modifier: 16
 perception:
   - name: "Perception"
-    desc: "+16; "
+    desc: "+16; Tremorsense (Imprecise) 30 Feet, Wavesense (Imprecise) 30 Feet"
 languages: "Thalassic; (can&#x27;t speak any language)"
 skills:
   - name: "Skills"
@@ -68,11 +68,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +19 (reach 10 feet)\n__Damage__  2d8 + 7 slashing 2d6 poison"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+19 (reach 10 feet, unarmed)\n__Damage__  2d8 + 7 slashing 2d6 poison"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tentacle +19 (poison, reach 20 feet)\n__Damage__  5d6 poison plus grab"
+  - name: "**Melee** `pf2:1` Tentacle"
+    desc: "+19 (poison, reach 20 feet, unarmed)\n__Damage__  5d6 poison plus grab"
 
   - name: "Stinging Anemones"
     desc: "`pf2:1` (poison) The decapod dinghy's anemones sting any number of creatures they choose among passengers and those the decapod dinghy has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. The stings deal 5d6 poison damage (DC 26 Fortitude check). On a failed save, that creature is also [[Conditions/Enfeebled|Enfeebled 2]] for 1 hour."

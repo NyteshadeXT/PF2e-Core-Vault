@@ -16,6 +16,8 @@ license: OGL
 
 
 
+Granted by [[Equipment/Heartripper Blade|Heartripper Blade]]
+
 Strikes with the _heartripper blade_ inflict an additional 1d6 void damage to living creatures.
 
 *Source: Pathfinder Adventure: Crown of the Kobold King*

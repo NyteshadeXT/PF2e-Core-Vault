@@ -58,6 +58,15 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Catching Bite"
@@ -75,26 +84,29 @@ abilities_mid:
   - name: "Sunlight Powerlessness"
     desc: "  A vanyver caught in sunlight is [[Conditions/Stunned|Stunned 2]] and [[Conditions/Clumsy|Clumsy 2]]."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Talon +27 (magical, reach 10 feet)\n__Damage__  3d10 + 11 bludgeoning plus grab 1d10 cold plus grab"
+  - name: "**Melee** `pf2:1` Talon"
+    desc: "+27 (magical, reach 10 feet, unarmed)\n__Damage__  3d10 + 11 bludgeoning plus grab 1d10 cold plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Wing +27 (agile, magical, reach 15 feet)\n__Damage__  3d6 + 11 bludgeoning 1d10 cold"
+  - name: "**Melee** `pf2:1` Wing"
+    desc: "+27 (agile, magical, reach 15 feet)\n__Damage__  3d6 + 11 bludgeoning 1d10 cold"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +27 (magical, reach 10 feet)\n__Damage__  3d10 + 11 piercing plus drain-magic 1d10 cold plus drain-magic"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+27 (magical, reach 10 feet, unarmed)\n__Damage__  3d10 + 11 piercing plus drain-magic 1d10 cold plus drain-magic"
 
   - name: "Divine Innate Spells"
     desc: "DC 34, attack +26; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (to the Universe, Void, or Netherworld only)]]_; __6th __  _[[Spells/Dispel Magic|Dispel Magic (At Will)]]_, _[[Spells/Harm|Harm (x3)]]_; __4th __  _[[Spells/Darkness|Darkness]]_, _[[Spells/See the Unseen|See Invisibility]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_"
 
   - name: "[[Bestiary Ability Glossary/Constrict|Constrict]]"
-    desc: "`pf2:1`  3d10+5 piercing DC 33 Fortitude check\n\n* * *\n"
+    desc: "`pf2:1`  3d10+5 piercing DC 33 Fortitude check\n* * *\n\nThe monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

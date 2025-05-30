@@ -26,5 +26,5 @@ license: OGL
 
 You knock the enemy's blow aside and twist, unbalancing your foe. You attempt to [[Actions/Disarm|Disarm]], [[Actions/Shove|Shove]], or [[Actions/Trip|Trip]] the triggering creature.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

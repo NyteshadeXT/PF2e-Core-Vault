@@ -33,7 +33,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +14, Athletics: +12, Stealth: +14, Survival: +10, Acrobatics: +14, Athletics: +12, Stealth: +14, Survival: +10"
+    desc: "Acrobatics: +14, Athletics: +12, Stealth: +14, Survival: +10"
 abilityMods: [5, 5, 2, -4, 2, -4]
 speed: 30 feet,  climb 30 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Tongue +15 (reach 15 feet)\n__Damage__  2d4 + 7 bludgeoning plus improved-grab"
+  - name: "**Melee** `pf2:1` Tongue"
+    desc: "+15 (reach 15 feet)\n__Damage__  2d4 + 7 bludgeoning plus improved-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +15 ()\n__Damage__  2d8 + 7 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+15 ()\n__Damage__  2d8 + 7 slashing"
 
   - name: "Rehome"
     desc: "`pf2:3`  The stick tongue abandons its perch for a safer tree. It Strides up to three times, ending its movement next to another three, then Takes Cover in that tree."

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Unseen Passage
 ## Feat 8
-### [rare](rare.md "Rare Rarity Trait")[[gunslinger]][[investigator]][[ranger]]
+### [rare](rare "Rare Rarity Trait")[[gunslinger]][[investigator]][[ranger]]
 
 **Category** class; 
 
@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-You have mastered a magical technique for moving through dangerous woodlands unseen. You can cast [[Vanishing Tracks|Vanishing Tracks]] as an innate primal spell heightened to a spell rank equal to half your level rounded up.
+You have mastered a magical technique for moving through dangerous woodlands unseen. You can cast [[Spells/Vanishing Tracks|Vanishing Tracks]] as an innate primal spell heightened to a spell rank equal to half your level rounded up.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

@@ -17,7 +17,9 @@ license: ORC
 
 
 
-Granted by [[Enduring Might|Enduring Might]]
+Granted by [[Spells/Enduring Might|Enduring Might]]
+
+You gain resistance equal to 8 plus your Strength modifier against all damage from the triggering attack or effect.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -60,14 +60,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +19 (reach 15 feet)\n__Damage__  3d8 + 9 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+19 (reach 15 feet, unarmed)\n__Damage__  3d8 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +19 (agile)\n__Damage__  3d6 + 9 slashing plus grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+19 (agile, unarmed)\n__Damage__  3d6 + 9 slashing plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Screech +19 (range 60 feet, sonic)\n__Damage__  6d6 sonic plus aftershock"
+  - name: "**Ranged** `pf2:1` Screech"
+    desc: "+19 (range 60 feet, sonic)\n__Damage__  6d6 sonic plus aftershock"
 
   - name: "Aftershock"
     desc: "  Whenever a soniphak hits with a screech Strike, feedback deals each creature the soniphak has [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] 1d6 sonic damage."
@@ -76,7 +76,7 @@ attacks:
     desc: "`pf2:r`  **Trigger** A creature within 30 feet of the soniphak uses an auditory action\n* * *\n\n**Effect** The soniphak makes a screech Strike against the triggering creature. This disrupts a triggering concentrate action if the Strike is a critical hit."
 
   - name: "Shattering Scream"
-    desc: "`pf2:2` (sonic) The soniphak can focus its screech at a stone or rock surface within 60 feet to create an explosion in a @Template[burst|distance:15] from the point of impact. Creatures in the area take 5d6 piercing damage (DC 28 Reflex check save), and the area becomes difficult terrain due to fragments of loose stone."
+    desc: "`pf2:2` (sonic) The soniphak can focus its screech at a stone or rock surface within 60 feet to create an explosion in a 15-foot burst from the point of impact. Creatures in the area take 5d6 piercing damage (DC 28 Reflex check save), and the area becomes difficult terrain due to fragments of loose stone."
  
 ```
 

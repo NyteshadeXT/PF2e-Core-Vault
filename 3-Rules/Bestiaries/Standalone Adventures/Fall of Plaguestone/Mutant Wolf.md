@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +11 ()\n__Damage__  1d8 + 4 piercing plus tear 1d6 acid plus tear"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+11 (unarmed)\n__Damage__  1d8 + 4 piercing plus tear 1d6 acid plus tear"
 
   - name: "Gore Spray"
     desc: "`pf2:r` (acid) **Trigger** A creature critically hits a mutant wolf while adjacent to it.\n* * *\n\n**Effect** The wound causes gore to spray from a ruptured pustule. The triggering creature takes 3d6 acid damage (DC 19 Reflex check save). This occurs even if the attack kills the wolf."

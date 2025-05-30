@@ -4,7 +4,7 @@ title: "Debilitating Strike"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/rogue
-  - trait/common
+  - trait/
   - category/offensive
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.bp0Up04x3dzGK5bB"

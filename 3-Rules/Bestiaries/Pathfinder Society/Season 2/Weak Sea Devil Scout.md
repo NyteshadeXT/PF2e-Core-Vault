@@ -60,22 +60,25 @@ abilities_top:
   - name: "Shark Commune 150 feet"
     desc: " (mental) The sea devil can communicate telepathically with sharks within range. It can communicate only simple concepts like \"come,\" \"guard,\" or \"attack.\""
 
+  - name: "[[Bestiary Ability Glossary/Wavesense|Wavesense 30 feet]]"
+    desc: "  This sense allows a monster to feel vibrations caused by movement through a liquid. It's an imprecise sense with a limited range (listed in the ability). Wavesense functions only if monster and the subject are in the same body of liquid, and only if the subject is moving through the liquid."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Longspear +9 (reach 10 feet)\n__Damage__  1d8 + 1 piercing"
+  - name: "**Melee** `pf2:1` Longspear"
+    desc: "+9 (reach 10 feet)\n__Damage__  1d8 + 1 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile)\n__Damage__  1d6 + 1 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, unarmed)\n__Damage__  1d6 + 1 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d8 + 1 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (unarmed)\n__Damage__  1d8 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spear +10 (thrown 20 ft.)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Spear"
+    desc: "+10 (thrown 20 ft.)\n__Damage__  1d6 + 1 piercing"
  
 ```
 

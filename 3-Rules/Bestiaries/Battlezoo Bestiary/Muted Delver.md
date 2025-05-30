@@ -69,11 +69,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +22 (reach 15 feet)\n__Damage__  2d8 + 15 slashing plus improved-grab"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+22 (reach 15 feet)\n__Damage__  2d8 + 15 slashing plus improved-grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Air Jet +22 (air, range increment 60 feet)\n__Damage__  2d8 + 15 piercing"
+  - name: "**Ranged** `pf2:1` Air Jet"
+    desc: "+22 (air, range increment 60 feet)\n__Damage__  2d8 + 15 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 29, attack +21; __6th __  _[[Spells/Slow|Slow]]_, _[[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]_; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/False Vitality|False Life]]_\n__Cantrips__  __(6th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Shield|Shield]]_\n__Constant__  __(6th)__ _[[Spells/Levitate|Levitate (Self Only)]]_, _[[Spells/Truesight|True Seeing]]_"

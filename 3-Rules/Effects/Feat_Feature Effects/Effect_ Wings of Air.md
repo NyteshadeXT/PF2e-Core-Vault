@@ -16,7 +16,9 @@ license: OGL
 
 
 
-You can strain to call forth feathered or cloudy wings from your back. Once manifested, these wings remain for 10 minutes. You gain a fly Speed equal to your land Speed while you've manifested your wings.
+Granted by [[Feats/Wings of Air|Wings of Air]]
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+You gain a fly Speed equal to your land Speed.
+
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

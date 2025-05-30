@@ -63,11 +63,14 @@ abilities_mid:
   - name: "[[Creature Family Ability Glossary/(Ghost) Rejuvenation|Rejuvenation]]"
     desc: " (divine) Purifying the four statues and defeating Xin Yue in Kugaptee's Grave below the Tan Sugi monastery allows Zhi Hui's ghost to fade.\n* * *\n\nWhen a ghost is destroyed, it re-forms after 2d4 days within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Ghostly Hand +15 (agile, finesse, magical)\n__Damage__  2d8 + 7 void"
+  - name: "**Melee** `pf2:1` Ghostly Hand"
+    desc: "+15 (agile, finesse, magical)\n__Damage__  2d8 + 7 void"
 
   - name: "Divine Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Life's Fresh Bloom|Life's Fresh Bloom]]_, _[[Compendium.pf2e.spells-srd.Item.OyFCwQuw8XRazsNr|Remove Curse]]_; __3rd __  _[[Spells/Heal|Heal]]_, _[[Compendium.pf2e.spells-srd.Item.RneiyehRO6f7LP44|Remove Disease]]_; __2nd __  _[[Spells/Restoration|Restoration]]_, _[[Spells/Sound Body|Restore Senses]]_; __1st __  _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(4th)__ _[[Spells/Divine Lance|Divine Lance]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Stabilize|Stabilize]]_"

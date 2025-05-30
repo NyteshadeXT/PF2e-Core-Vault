@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Angelkin, Lawbringer, Musetouched, or another lineage feat associated with celestials
 * * *
-Your celestial powers allow you to remove lesser afflictions with ease. You can cast [[Cleanse Affliction|Cleanse Affliction]] twice per day as a 4th-rank divine innate spell.
+Your celestial powers allow you to remove lesser afflictions with ease. You can cast [[Spells/Cleanse Affliction|Cleanse Affliction]] twice per day as a 4th-rank divine innate spell.
 
 *Source: Pathfinder Player Core*
 *ORC*

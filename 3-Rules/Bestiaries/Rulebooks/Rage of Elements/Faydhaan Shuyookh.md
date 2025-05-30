@@ -57,6 +57,9 @@ abilities_top:
   - name: "[[Actions/Detect Magic|Detect Magic]]"
     desc: " (concentrate,exploration) You cast detect magic at regular intervals. You move at half your travel speed or slower. You have no chance of accidentally overlooking a magic aura at a travel speed up to 300 feet per minute, but must be traveling no more than 150 feet per minute to detect magic auras before the party moves into them."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "Aura of Hospitality"
@@ -68,20 +71,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jambiya +28 (agile, finesse, magical, reach 10 feet, versatile s)\n__Damage__  2d4 + 13 piercing"
+  - name: "**Melee** `pf2:1` Jambiya"
+    desc: "+28 (agile, finesse, magical, reach 10 feet, versatile s)\n__Damage__  2d4 + 13 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +27 (agile, magical, nonlethal, reach 10 feet)\n__Damage__  3d8 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+27 (agile, magical, nonlethal, reach 10 feet, unarmed)\n__Damage__  3d8 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Jambiya +29 (agile, magical, thrown 20 ft., versatile s)\n__Damage__  2d4 + 13 piercing"
+  - name: "**Ranged** `pf2:1` Jambiya"
+    desc: "+29 (agile, magical, thrown 20 ft., versatile s)\n__Damage__  2d4 + 13 piercing"
 
   - name: "Arcane Innate Spells"
     desc: "DC 34, attack +26; __7th __  _[[Spells/Hydraulic Torrent|Hydraulic Torrent]]_, _[[Compendium.pf2e.spells-srd.Item.nRINcQb81Wt4KeFu|Interplanar Teleport (At Will; To Astral Plane, Elemental Planes, or the Universe only)]]_, _[[Spells/Planar Palace|Planar Palace]]_, _[[Spells/Summon Elemental|Summon Elemental]]_; __5th __  _[[Spells/Control Water|Control Water (At Will)]]_, _[[Spells/Howling Blizzard|Howling Blizzard (At Will)]]_, _[[Compendium.pf2e.spells-srd.Item.zgIlFMtzRkKfSay1|Mirage]]_, _[[Spells/Truespeech|Truespeech (At Will)]]_; __4th __  _[[Spells/Hydraulic Push|Hydraulic Push (At Will)]]_, _[[Spells/Invisibility|Invisibility (x2)]]_, _[[Spells/Vapor Form|Vapor Form]]_; __2nd __  _[[Spells/Befitting Attire|Befitting Attire (At Will)]]_, _[[Spells/Create Water|Create Water (At Will)]]_, _[[Spells/Invisibility|Invisibility (At Will)]]_, _[[Spells/See the Unseen|See the Unseen]]_, _[[Spells/Water Breathing|Water Breathing]]_\n__Cantrips__  __(7th)__ _[[Spells/Detect Magic|Detect Magic]]_\n__Constant__  __(7th)__ _[[Spells/Truespeech|Truespeech]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) * * *\n\nThe faydhaan transforms into a Small or Medium water elemental, aquatic animal, or humanoid. This doesn't affect the faydhaan's statistics, but it could change the damage type of their Strikes."
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block.\n* * *\n\nThe faydhaan transforms into a Small or Medium water elemental, aquatic animal, or humanoid. This doesn't affect the faydhaan's statistics, but it could change the damage type of their Strikes."
 
   - name: "Diplomatic Wish"
     desc: " (downtime) **Frequency** three times per year\n* * *\n\n**Effect** The shuyookh conducts a wish ritual for the benefit of a mortal, requiring no cost or secondary casters. The shuyookh's result is a success if they succeed at a DC 5 Flat check or a failure if not. The shuyookh interprets the wish to please the most people possible."

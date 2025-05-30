@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Hypnotic Lure
 * * *
-You can widen your field of vision, allowing you to affect more creatures with your [[Feats/Hypnotic Lure|Hypnotic Lure]]. Once per day, when you use Hypnotic Lure, you can affect all creatures in a @Template\[cone|distance:30\], rather than one creature within 30 feet.
+You can widen your field of vision, allowing you to affect more creatures with your [[Feats/Hypnotic Lure|Hypnotic Lure]]. Once per day, when you use Hypnotic Lure, you can affect all creatures in a 30-foot cone, rather than one creature within 30 feet.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

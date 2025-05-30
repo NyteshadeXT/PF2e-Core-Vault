@@ -4,8 +4,9 @@ title: "Spell Effect: Lift Nature's Caul (Bonus)"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/
+  - remaster
 aliases: "Compendium.pf2e.spell-effects.Item.ihv1azg80N3kj7Vo"
-license: OGL
+license: ORC
 ---
 # Spell Effect: Lift Nature's Caul (Bonus)
 ## Level 1
@@ -16,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Lift Nature's Caul|Lift Nature's Caul]]
+Granted by [[Spells/Lift Nature's Caul|Lift Nature's Caul]]
 
-The creature gains a +1 status bonus to Will saving throws and attack rolls.
+You gain a +1 status bonus to Will saving throws and attack rolls.
 
-*Source: Pathfinder #165: Eyes of Empty Death*
-*OGL*
+*Source: Pathfinder Lost Omens Divine Mysteries*
+*ORC*

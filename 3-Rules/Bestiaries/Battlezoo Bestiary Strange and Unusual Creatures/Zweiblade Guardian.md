@@ -35,7 +35,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +23, Athletics: +20, Intimidation: +18, Acrobatics: +23, Athletics: +20, Intimidation: +18"
+    desc: "Acrobatics: +23, Athletics: +20, Intimidation: +18"
 abilityMods: [4, 7, 6, -5, 0, -5]
 speed: 20 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -65,11 +65,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Stone Blade +21 (agile, finesse, versatile b)\n__Damage__  2d10 + 8 slashing"
+  - name: "**Melee** `pf2:1` Stone Blade"
+    desc: "+21 (agile, finesse, versatile b)\n__Damage__  2d10 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Blade Projection +21 (range increment 20 feet)\n__Damage__  2d6 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Blade Projection"
+    desc: "+21 (range increment 20 feet)\n__Damage__  2d6 + 6 piercing"
 
   - name: "Double Slice"
     desc: "`pf2:2`  **Requirements** The zweiblade guardian's construct armor isn't broken\n* * *\n\n**Effect** The zweiblade guardian lashes out at its foe with both blades. It makes two Strikes, one with each of its stone blades, each using its current multiple attack penalty. Both Strikes must have the same target. If both attacks hit, combine their damage, and then add any other applicable effects from both weapons. Add any precision damage only once, to the attack of your choice. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating its multiple attack penalty."

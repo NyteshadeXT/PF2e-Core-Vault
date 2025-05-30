@@ -23,7 +23,7 @@ level: "Army 3"
 
 
 alignment: ""
-size: "Medium"
+size: ""
 trait_01: cavalry
 modifier: 9
 perception:

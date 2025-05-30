@@ -58,7 +58,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Orc Superstition"
     desc: "`pf2:r` (concentrate) **Trigger** Onyiji is about to make a saving throw against a spell or magical effect\n* * *\n\n**Effect** Onyiji gains a +1 circumstance bonus to the triggering save."
@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +20 (agile, two-hand d8)\n__Damage__  2d6 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+20 (agile, two-hand d8)\n__Damage__  2d6 + 8 bludgeoning"
 
   - name: "Arcane Prepared Spells"
-    desc: "DC 26, attack +18; __1st __  _[[Spells/Shocking Grasp|Shocking Grasp]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Produce Flame|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
+    desc: "DC 26, attack +18; __1st __  _[[Spells/Shocking Grasp|Shocking Grasp]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe|Produce Flame]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"
 
   - name: "Spellstrike"
-    desc: "`pf2:2`  **Frequency** twice per day\n* * *\n\n**Effect** Onyiji casts a spell and couples it with a staff Strike. She casts [[Spells/Produce Flame|Produce Flame]], [[Spells/Ray of Frost|Ray of Frost]], or [[Spells/Shocking Grasp|Shocking Grasp]], but the effects don't occur immediately. She makes a melee Strike with her staff and uses the attack roll result as the effect of both the Strike and the spell.\n\nThis counts as two attacks towards her multiple attack penalty, but the penalties don't apply until after the Spellstrike."
+    desc: "`pf2:2`  **Frequency** twice per day\n* * *\n\n**Effect** Onyiji casts a spell and couples it with a staff Strike. She casts [[Spells/Ignition|Ignition]], [[Spells/Ray of Frost|Ray of Frost]], or [[Spells/Shocking Grasp|Shocking Grasp]], but the effects don't occur immediately. She makes a melee Strike with her staff and uses the attack roll result as the effect of both the Strike and the spell.\n\nThis counts as two attacks towards her multiple attack penalty, but the penalties don't apply until after the Spellstrike."
 
   - name: "Twisting Tree"
     desc: "  When Onyiji wields a staff in one hand, it gains the agile trait and its damage die size increases to d6 (these adjustments are reflected in the Strike above). When she wields a staff in two hands, it gains the parry, reach, and trip traits.\n\nShe can Interact to Release or change her grip on her staff as a free action when she Strikes with the staff (including Strikes made in a Spellstrike)."

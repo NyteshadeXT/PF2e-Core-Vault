@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Erhu Bow +30 (agile, finesse, magical, thrown 20 ft., versatile p)\n__Damage__  3d6 + 10 slashing 3d6 sonic"
+  - name: "**Ranged** `pf2:1` Erhu Bow"
+    desc: "+30 (agile, finesse, magical, thrown 20 ft., versatile p)\n__Damage__  3d6 + 10 slashing 3d6 sonic"
 
   - name: "Bard Composition Spells"
     desc: "2 Focus Points, DC 42, attack +32; __9th __  _[[Spells/Counter Performance|Counter Performance]]_, _[[Spells/Lingering Composition|Lingering Composition]]_\n__Cantrips__  __(9th)__ _[[Spells/Dirge of Doom|Dirge of Doom]]_, _[[Spells/Courageous Anthem|Inspire Courage]]_, _[[Spells/Triple Time|Triple Time]]_"

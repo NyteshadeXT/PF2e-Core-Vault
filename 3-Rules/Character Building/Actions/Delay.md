@@ -3,8 +3,7 @@ obsidianUIMode: preview
 title: "Delay"
 cssclasses: pf2e,pf2e-action
 tags:
-  - trait/general
-  - trait/common
+  - trait/
   - category/interaction
   - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.A72nHGUtNXgY5Ey9"
@@ -12,7 +11,7 @@ license: ORC
 ---
 # Delay `pf2:0`
 
-### [[general]]
+### 
 
 **Category** interaction; 
 

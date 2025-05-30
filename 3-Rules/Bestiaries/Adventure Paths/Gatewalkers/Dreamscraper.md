@@ -52,22 +52,28 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 100 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Tireless"
     desc: "  Dreamscrapers never sleep or dream themselves. They gain the benefits of an 8-hour rest after 1 hour of minimal activity."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
 
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 90 feet. DC 22 Will check\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 90 feet. DC 22 Will check\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +17 (agile, finesse, magical)\n__Damage__  2d8 + 8 void plus stolen-dreams"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+17 (agile, finesse, magical)\n__Damage__  2d8 + 8 void plus stolen-dreams"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Dream Barb +16 (incorporeal, magical, range 60 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Dream Barb"
+    desc: "+16 (incorporeal, magical, range 60 feet)\n__Damage__ "
 
   - name: "Occult Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Sleep|Sleep (x3)]]_; __2nd __  _[[Spells/Darkness|Darkness]]_\n__Constant__  __(4th)__ _[[Spells/Unfettered Movement|Freedom of Movement]]_"

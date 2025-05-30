@@ -55,14 +55,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +6 (agile, finesse, versatile s)\n__Damage__  1d6 + 2 piercing"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+6 (agile, finesse, versatile s)\n__Damage__  1d6 + 2 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Club +6 (thrown 10 ft.)\n__Damage__  1d6 + 2 bludgeoning"
+  - name: "**Ranged** `pf2:1` Club"
+    desc: "+6 (thrown 10 ft.)\n__Damage__  1d6 + 2 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Crossbow +4 ()\n__Damage__  1d8 piercing"
+  - name: "**Melee** `pf2:1` Crossbow"
+    desc: "+4 ()\n__Damage__  1d8 piercing"
 
   - name: "Dirty Fighting"
     desc: "`pf2:2` (attack) A mercenary throws dirt in an opponent's eyes or performs similar underhanded trick.\n* * *\n\n**Effect** The opponent must attempt a DC 16 Reflex check save. On a failure, the PC gains the [[Conditions/Blinded|Blinded]] condition for one round. On a critical failure, the duration increases to 2 rounds."

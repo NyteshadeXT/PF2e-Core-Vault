@@ -59,20 +59,20 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Antler +16 (grapple)\n__Damage__  3d10 + 12 piercing plus grab"
+  - name: "**Melee** `pf2:1` Antler"
+    desc: "+16 (grapple)\n__Damage__  3d10 + 12 piercing plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hoof +16 ()\n__Damage__  3d8 + 12 bludgeoning"
+  - name: "**Melee** `pf2:1` Hoof"
+    desc: "+16 ()\n__Damage__  3d8 + 12 bludgeoning"
 
   - name: "Antler Toss"
     desc: "`pf2:1`  **Requirements** The barking stag has a creature [[Conditions/Grabbed|Grabbed]] with its antler\n* * *\n\n**Effect** The barking stag tosses the grabbed creature 20 feet into the air and up to 15 feet away in a direction of its choice, dealing 3d10+12 piercing damage plus falling damage to the creature."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Medium or smaller, hoof, DC 30 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Medium or smaller, hoof, DC 30 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

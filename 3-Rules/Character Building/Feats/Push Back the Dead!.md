@@ -26,5 +26,5 @@ You call to your ally and strengthen their resolve and abilities to defend again
 
 [[Feat_Feature Effects/Effect_ Push Back the Dead!|Effect: Push Back the Dead!]]
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

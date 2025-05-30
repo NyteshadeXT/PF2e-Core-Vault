@@ -16,7 +16,9 @@ license: OGL
 
 
 
+Granted by [[Spells/Dancing Shield|Dancing Shield]]
+
 The touched shield uses the Raise a Shield action to protect the target creature.
 
-*Source: Pathfinder Lost Omens: Knights of Lastwall*
+*Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

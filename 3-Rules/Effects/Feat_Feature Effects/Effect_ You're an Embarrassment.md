@@ -16,7 +16,9 @@ license: OGL
 
 
 
+Granted by [[Feats/You're an Embarrassment!|You're an Embarrassment!]]
+
 You reroll the triggering Will saving throw with a +1 circumstance bonus.
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

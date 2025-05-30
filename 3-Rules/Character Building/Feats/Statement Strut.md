@@ -13,7 +13,7 @@ license: OGL
 ---
 # Statement Strut `pf2:1`
 ## Feat 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[3-Rules/trait_reference/M/mental]][[visual]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[mental]][[visual]]
 
 **Category** class; 
 
@@ -27,5 +27,5 @@ license: OGL
 
 You have an eye for fashion and know how to sell attitude and confidence with your walk. You Stride up to your Speed. All enemies within 30 feet of your movement are enraptured by your performance: they must succeed at a Will check saving throw or become unable to use reactions until the end of your next turn. The DC for this save is equal to your class DC or spell DC, whichever is higher.
 
-*Source: Pathfinder Lost Omens: Firebrands*
+*Source: Pathfinder Lost Omens Firebrands*
 *OGL*

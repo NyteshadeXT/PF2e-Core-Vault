@@ -19,11 +19,11 @@ license: OGL
 
 **Prerequisites** Spell Trickster Dedication; ability to cast obscuring mist
 * * *
-When you cast [[Mist|Mist]], you can modify it to add the following heightened entry to its effects.
+When you cast [[Spells/Mist|Mist]], you can modify it to add the following heightened entry to its effects.
 
 * * *
 
 **Heightened (3rd)** Your mist is particularly laden with moisture. Non-magical fires within the area are automatically extinguished. Choose one magical fire or fire spell in the area and attempt to counteract it.
 
-*Source: Pathfinder Lost Omens: The Grand Bazaar*
+*Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

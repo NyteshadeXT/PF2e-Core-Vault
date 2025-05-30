@@ -57,6 +57,9 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "Amulet"
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense (Imprecise) 60 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
   - name: "Clan Dagger Relic"
@@ -65,23 +68,26 @@ abilities_mid:
   - name: "Sudden Manifestation"
     desc: "`pf2:r`  **Trigger** The relic detects a creature using its lifesense.\n* * *\n\n**Effect** The relic Manifests. If this causes an encounter to begin, the relic gains a +4 status bonus to its initiative roll."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Clan Dagger +14 (agile, dwarf, parry, versatile b)\n__Damage__  2d4 + 3 piercing 1d6 bleed"
+  - name: "**Melee** `pf2:1` Clan Dagger"
+    desc: "+14 (agile, dwarf, parry, versatile b)\n__Damage__  2d4 + 3 piercing 1d6 bleed"
 
-  - name: "Melee"
-    desc: "`pf2:1` Spectral Hand +14 (agile, finesse, magical)\n__Damage__  2d6 + 3 void"
+  - name: "**Melee** `pf2:1` Spectral Hand"
+    desc: "+14 (agile, finesse, magical)\n__Damage__  2d6 + 3 void"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Deadly Spark +14 (air, divine, electricity, range 20 feet)\n__Damage__  2d12 electricity"
+  - name: "**Ranged** `pf2:1` Deadly Spark"
+    desc: "+14 (air, divine, electricity, range 20 feet)\n__Damage__  2d12 electricity"
 
   - name: "Blood Accusation"
     desc: "`pf2:r` (fear,linguistic,mental) **Trigger** A creature within 30 feet of the corrupted blade spirit takes persistent bleed damage\n* * *\n\n**Effect** The corrupted blade spirit shapes the spilled blood into words that remind the bleeding creature of their fears, mistakes, and shames. The corrupted blade spirit Demoralizes the creature, additionally dealing 1d6 mental damage on a critical success."
 
   - name: "Death Gaze"
-    desc: "`pf2:2` (concentrate,divine,void) The spirit targets a creature it can see within 30 feet, dealing to it 4d6 void damage (DC 20 Fortitude check save).\n\nA creature with [[Bestiary Ability Glossary/Void Healing|Void Healing]] instead regains 4d6 Hit Points and is then temporarily immune for 10 minutes."
+    desc: "`pf2:2` (concentrate,divine,void) The spirit targets a creature it can see within 30 feet, dealing to it 4d6 void damage (DC 20 Fortitude check save).\n\nA creature with [[Bestiary Ability Glossary/Void Healing|Void Healing]] instead regains 4d6 healing Hit Points and is then temporarily immune for 10 minutes."
 
   - name: "Manifest"
     desc: "`pf2:1` (divine) **Requirements** The relic detects at least one creature using its lifesense.\n* * *\n\n**Effect** The spirit within the relic manifests in an open space within 10 feet of the amulet. When it does, the relic teleports around its neck. The spirit remains in its manifested state until it no longer senses any living creatures within range of its lifesense."

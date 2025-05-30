@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 title: "AoA #149: Boon B - Katapesh Companion"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
   - category/pfsboon
@@ -9,7 +9,7 @@ aliases: "Compendium.pf2e.pathfinder-society-boons.Item.3K8yzfU2t9chVv6h"
 license: OGL
 ---
 # AoA #149: Boon B - Katapesh Companion
-
+## Feat 1
 ### 
 
 **Category** pfsboon; 

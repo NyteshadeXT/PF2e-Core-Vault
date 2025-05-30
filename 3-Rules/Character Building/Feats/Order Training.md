@@ -21,5 +21,5 @@ license: OGL
 * * *
 You gain the lesser order benefit for the Hellknight order to which you belong.
 
-*Source: Pathfinder Lost Omens: Character Guide*
+*Source: Pathfinder Lost Omens Character Guide*
 *OGL*

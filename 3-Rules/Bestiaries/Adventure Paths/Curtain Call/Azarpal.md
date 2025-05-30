@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +26 (finesse)\n__Damage__  3d12 + 12 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+26 (finesse, unarmed)\n__Damage__  3d12 + 12 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +26 (agile, finesse)\n__Damage__  3d10 + 10 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+26 (agile, finesse)\n__Damage__  3d10 + 10 bludgeoning"
 
   - name: "Occult Innate Spells"
     desc: "DC 30, attack +22; __7th __  _[[Spells/Illusory Disguise|Illusory Disguise]]_"

@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Obsidian Claw +21 (agile)\n__Damage__  2d6 + 12 slashing"
+  - name: "**Melee** `pf2:1` Obsidian Claw"
+    desc: "+21 (agile)\n__Damage__  2d6 + 12 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Obsidian Shard +22 (range increment 90 feet)\n__Damage__  2d8 + 12 piercing"
+  - name: "**Ranged** `pf2:1` Obsidian Shard"
+    desc: "+22 (range increment 90 feet)\n__Damage__  2d8 + 12 piercing"
 
   - name: "Rock Stride"
     desc: "  An obsidian shale beast ignores difficult terrain in caves and rocky mountains."

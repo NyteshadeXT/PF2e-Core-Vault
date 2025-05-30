@@ -56,22 +56,22 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Righteous Certainty"
-    desc: " (mental) Whenever Vesket becomes frightened, he reduces the condition value by 1. If Vesket ever realizes the spirit of Stisshak is actually a [[Bestiary 1/Will-o'-Wisp|Will-o'-Wisp]], he loses this ability."
+    desc: " (mental) Whenever Vesket becomes frightened, he reduces the condition value by 1. If Vesket ever realizes the spirit of Stisshak is actually a [[Monster Core/Will-o'-Wisp|Will-o'-Wisp]], he loses this ability."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 ()\n__Damage__  2d8 + 7 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (unarmed)\n__Damage__  2d8 + 7 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tail +17 (agile, sweep)\n__Damage__  2d6 + 7 bludgeoning"
+  - name: "**Melee** `pf2:1` Tail"
+    desc: "+17 (agile, sweep)\n__Damage__  2d6 + 7 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +18 (magical, thrown 20 ft.)\n__Damage__  2d8 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+18 (magical, thrown 20 ft.)\n__Damage__  2d8 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Trident +18 (magical, thrown 20 ft.)\n__Damage__  2d8 + 10 piercing"
+  - name: "**Ranged** `pf2:1` Trident"
+    desc: "+18 (magical, thrown 20 ft.)\n__Damage__  2d8 + 10 piercing"
 
   - name: "Trident Twist"
     desc: "`pf2:1`  **Requirements** Vesket is wielding a trident\n\n**Effect** Vesket attempts to [[Actions/Disarm|Disarm]] a foe. If he critically succeeds, he makes a trident melee Strike against the disarmed foe, using the same multiple attack penalty as the Disarm attempt. The trident Strike does not count toward his multiple attack penalty."

@@ -21,6 +21,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap186-ghost-kings-rage/assets/art/PZO2110 grave Knight War Master.webp| ]]
 source: "Pathfinder Book of the Dead"
 name: "Graveknight Warmaster"
 level: "Creature 14"
@@ -58,7 +59,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "Hungry Armor"
     desc: "  A creature that Strikes a graveknight warmaster with a melee weapon must succeed at a DC 31 Reflex check save or be disarmed of that weapon. If the creature critically fails, the weapon ends up in the graveknight's space. A creature that hits a graveknight warmaster with an unarmed attack must succeed at a DC 31 Reflex check or become [[Conditions/Grabbed|Grabbed]] by the graveknight until the end of its next turn, it Escapes, or the graveknight moves, whichever comes first."
@@ -69,20 +70,23 @@ abilities_mid:
   - name: "Sacrilegious Aura"
     desc: " (aura,divine) 30 feet. When a creature in the aura uses a vitality spell or ability, the graveknight automatically attempts to counteract it, with a +23 counteract modifier."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` War Flail +29 (disarm, electricity, magical, sweep, trip)\n__Damage__  3d10 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` War Flail"
+    desc: "+29 (disarm, electricity, magical, sweep, trip)\n__Damage__  3d10 + 14 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +29 (agile, electricity, magical, unarmed)\n__Damage__  3d6 + 14 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+29 (agile, electricity, magical, unarmed)\n__Damage__  3d6 + 14 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Heavy Crossbow +25 (electricity, magical, range increment 120 feet, reload 2)\n__Damage__  3d10 + 6 piercing"
+  - name: "**Ranged** `pf2:1` Heavy Crossbow"
+    desc: "+25 (electricity, magical, range increment 120 feet, reload 2)\n__Damage__  3d10 + 6 piercing"
 
   - name: "[[Creature Family Ability Glossary/(Graveknight) Devastating Blast|Devastating Blast]]"
-    desc: "`pf2:2` (arcane,electricity) The graveknight unleashes a @Template[cone|distance:30] of energy. Creatures in the area take 8d12 electricity damage (DC 34 Reflex check save).\n\nThe graveknight can use this ability once every 1d4 rounds."
+    desc: "`pf2:2` (arcane,electricity) The graveknight unleashes a 30-foot cone of energy. Creatures in the area take 8d12 electricity damage (DC 34 Reflex check save).\n\nThe graveknight can use this ability once every 1d4 rounds."
 
   - name: "Exemplar of Violence"
     desc: "`pf2:2` (visual) **Frequency** once per round\n* * *\n\n**Effect** The graveknight attempts a Strike as their armor flashes with sinister power that spurs allies to violence. After the Strike, allies who can see the graveknight can use a reaction to Step or Stride, but they must end this movement in a space adjacent to an enemy. One ally of the graveknight's choice can instead use a reaction to Strike."

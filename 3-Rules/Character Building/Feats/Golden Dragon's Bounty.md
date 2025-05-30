@@ -23,5 +23,5 @@ license: ORC
 * * *
 Your familiar alters the material of a spell into that of a precious metal. If the next action you use is to Cast a Spell that deals bludgeoning, piercing, or slashing damage, that damage is your choice of cold iron, silver, or steel for the purposes of weaknesses, resistances, vulnerabilities, and the like. At 14th level, adamantine is added to the list of metal choices. The spell gains the metal trait.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

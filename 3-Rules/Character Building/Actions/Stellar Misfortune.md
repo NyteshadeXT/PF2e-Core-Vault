@@ -5,14 +5,14 @@ cssclasses: pf2e,pf2e-action
 tags:
   - trait/misfortune
   - trait/occult
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.GPd3hmyUSbcSBj39"
 license: OGL
 ---
 # Stellar Misfortune `pf2:0`
 
-### [[misfortune]][[3-Rules/Rule References/Occult]]
+### [[misfortune]][[occult]]
 
 **Category** interaction; 
 
@@ -27,5 +27,5 @@ license: OGL
 
 **Effect** You call upon the power of a dooming star, exacerbating the target's bad luck. The target must roll the triggering check twice and take the worse result.
 
-*Source: Pathfinder Lost Omens: Travel Guide*
+*Source: Pathfinder Lost Omens Travel Guide*
 *OGL*

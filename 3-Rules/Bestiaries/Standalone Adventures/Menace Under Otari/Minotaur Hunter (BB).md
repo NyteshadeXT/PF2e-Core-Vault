@@ -3,7 +3,7 @@ title: "Minotaur Hunter (BB)"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
-aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.wCmlY4TixUlPm5Qx" 
+aliases: "Compendium.pf2e.menace-under-otari-bestiary.Actor.vN2alMciNlKpBpKN" 
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/humanoid
@@ -31,7 +31,7 @@ trait_02: [[humanoid]]
 modifier: 12
 perception:
   - name: "Perception"
-    desc: "+12; "
+    desc: "+12; Darkvision"
 languages: ""
 skills:
   - name: "Skills"
@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Greataxe +14 (reach 10 feet, sweep)\n__Damage__  1d12 + 8 slashing"
+  - name: "**Melee** `pf2:1` Greataxe"
+    desc: "+14 (reach 10 feet, sweep)\n__Damage__  1d12 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +14 ()\n__Damage__  1d8 + 8 bludgeoning"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+14 (unarmed)\n__Damage__  1d8 + 8 bludgeoning"
 
   - name: "Axe Swipe"
     desc: "`pf2:2`  The minotaur makes two Strikes with its greataxe against two adjacent enemies, both of whom are within its reach. The second attack uses the same multiple attack penalty as the first, but attacks it makes after this take a -10 multiple attack penalty."

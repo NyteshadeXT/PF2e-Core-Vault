@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Repair Reputation (Trained)"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/downtime
   - trait/leadership
-  - trait/common
+  - trait/
   - category/kingdom-activity
 aliases: "Compendium.pf2e.kingmaker-features.Item.li7WowfuIbGmCxKo"
 license: OGL
 ---
 # Repair Reputation (Trained)
-
+## 
 ### [[downtime]][[leadership]]
 
 **Category** kingdom-activity; 

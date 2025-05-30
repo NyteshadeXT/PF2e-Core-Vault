@@ -64,8 +64,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +28 (magical, two-hand d8)\n__Damage__  3d4 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+28 (magical, two-hand d8)\n__Damage__  3d4 + 6 bludgeoning"
 
   - name: "Prepared Arcane Spells"
     desc: "DC 41, attack +33; __9th __ (3 slots) _[[Spells/Foresight|Foresight]]_, _[[Spells/Falling Stars|Meteor Swarm]]_; __8th __  _[[Spells/Disappearance|Disappearance]]_, _[[Spells/Polar Ray|Polar Ray]]_, _[[Spells/Power Word Stun|Power Word Stun]]_, _[[Spells/Punishing Winds|Punishing Winds]]_; __7th __  _[[Spells/Reverse Gravity|Reverse Gravity]]_, _[[Spells/Spell Turning|Spell Turning]]_; __6th __  _[[Spells/Chain Lightning|Chain Lightning]]_, _[[Spells/Petrify|Flesh to Stone]]_, _[[Spells/Mislead|Mislead]]_, _[[Spells/Tangling Creepers|Tangling Creepers]]_; __5th __  _[[Spells/Black Tentacles|Black Tentacles]]_, _[[Spells/Truespeech|Tongues]]_; __4th __  _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fly|Fly]]_, _[[Spells/Containment|Resilient Sphere]]_; __3rd __  _[[Spells/Stinking Cloud|Stinking Cloud]]_, _[[Spells/Wall of Wind|Wall of Wind]]_; __2nd __  _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Revealing Light|Glitterdust]]_, _[[Spells/Mist|Obscuring Mist]]_, _[[Spells/Summon Elemental|Summon Elemental]]_; __1st __  _[[Spells/Alarm|Alarm]]_, _[[Spells/Fleet Step|Fleet Step]]_, _[[Spells/Heal|Heal]]_, _[[Spells/Ventriloquism|Ventriloquism]]_\n__Cantrips__  __(9th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Electric Arc|Electric Arc]]_, _[[Spells/Light|Light]]_, _[[Spells/Ray of Frost|Ray of Frost]]_, _[[Spells/Shield|Shield]]_"

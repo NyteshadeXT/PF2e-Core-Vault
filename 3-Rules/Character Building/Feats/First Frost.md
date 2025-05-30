@@ -18,7 +18,7 @@ license: OGL
 
 
 
-The _gelid shard_ within your heart may sap your ability to feel and experience emotion, but it also lets you create and manipulate cold. You learn to cast spontaneous spells and gain the Cast a Spell activity. You gain a spell repertoire with the [[Frost's Touch|Frost's Touch]] and [[Ray of Frost|Ray of Frost]] cantrips. You're trained in spell attack rolls and spell DCs for arcane spells. Your key spellcasting ability is Charisma.
+The _gelid shard_ within your heart may sap your ability to feel and experience emotion, but it also lets you create and manipulate cold. You learn to cast spontaneous spells and gain the Cast a Spell activity. You gain a spell repertoire with the [[Spells/Frost's Touch|Frost's Touch]] and [[Spells/Ray of Frost|Ray of Frost]] cantrips. You're trained in spell attack rolls and spell DCs for arcane spells. Your key spellcasting ability is Charisma.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

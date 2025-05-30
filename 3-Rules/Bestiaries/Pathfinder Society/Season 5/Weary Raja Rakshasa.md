@@ -65,14 +65,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Kukri +21 (agile, finesse, magical, trip)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Kukri"
+    desc: "+21 (agile, finesse, magical, trip)\n__Damage__  2d6 + 8 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +18 (agile, magical, unholy)\n__Damage__  2d12 + 8 piercing"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+18 (agile, magical, unholy)\n__Damage__  2d12 + 8 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +20 (agile, finesse, magical)\n__Damage__  2d8 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+20 (agile, finesse, magical, unarmed)\n__Damage__  2d8 + 8 slashing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 29, attack +21; __4th __ (3 slots) _[[Spells/Clairvoyance|Clairvoyance]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __ (4 slots) _[[Spells/Clairaudience|Clairaudience]]_, _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Veil of Privacy|Nondetection]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (4 slots) _[[Spells/Blur|Blur]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Invisibility|Invisibility]]_; __1st __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Illusory Object|Illusory Object]]_, _[[Spells/Item Facade|Item Facade]]_\n__Cantrips__  __(5th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Sigil|Sigil]]_"
@@ -81,7 +81,7 @@ attacks:
     desc: "DC 29, attack +21; __3rd __  _[[Spells/Mind Reading|Mind Reading (At Will)]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The raja rakshasa takes on the appearance of any Medium humanoid. This doesn't change the raja rakshasa's Speed or its attack and damage modifiers with its Strikes but might change the damage type its Strikes deal (typically to bludgeoning). It typically loses its fangs Strike unless the humanoid form has fangs or a similar unarmed attack.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The raja rakshasa takes on the appearance of any Medium humanoid. This doesn't change the raja rakshasa's Speed or its attack and damage modifiers with its Strikes but might change the damage type its Strikes deal (typically to bludgeoning). It typically loses its fangs Strike unless the humanoid form has fangs or a similar unarmed attack.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
  
 ```
 

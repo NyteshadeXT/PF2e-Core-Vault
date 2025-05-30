@@ -10,15 +10,16 @@ tags:
   - trait/focus
   - trait/manipulate
   - trait/mental
-  - trait/common
+  - trait/uncommon
 
+  - remaster
 aliases: "Compendium.pf2e.spells-srd.Item.cJq5NarY0eOZN74A" 
-license: OGL
+license: ORC
 ---
 ```statblock
 name: "Share Burden  `pf2:r`"
 level: "Focus 1"
-
+rare_03: [[Uncommon]]
 trait_01: [[cleric]]
 trait_02: [[focus]]
 trait_03: [[manipulate]]
@@ -28,12 +29,10 @@ columns: 1
 columnWidth: x
 abilities_top:
   - name: ""
-
-  - name: "Targets"
-
-    desc: "you and the triggering ally"
+  - name: "Range"
+    desc: "30 feet; **Targets** you and the triggering ally"
 abilities_mid:
   - name: ""
-    desc: "**Trigger** An ally within 30 feet is about to attempt a saving throw against a harmful emotion effect, and you would not otherwise have to save against the effect.\n* * *\n\nYou shoulder some of your ally's pain. Both you and your ally use the outcome one degree of success better than the result of your ally's saving throw, even if the triggering effect usually affects only one target."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+    desc: "**Trigger** An ally within range is about to attempt a saving throw against a harmful emotion effect, and you would not otherwise have to save against the effect.\n* * *\n\nYou shoulder some of your ally's pain. Both you and your ally use the outcome one degree of success better than the result of your ally's saving throw, even if the triggering effect usually affects only one target."
+sourcebook: "_Pathfinder Lost Omens Divine Mysteries_"
 ```

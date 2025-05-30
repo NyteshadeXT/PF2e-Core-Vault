@@ -20,6 +20,7 @@ value: ""
 subvalue: ""
 invest:
 usage: ""
+craft: ""
 license: ""
 identify: ""
 description: ""
@@ -47,7 +48,6 @@ requirement2:
 activation2:
 trigger2: 
 mechanics2: "**Secondary Effect** "
-craft: 
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #

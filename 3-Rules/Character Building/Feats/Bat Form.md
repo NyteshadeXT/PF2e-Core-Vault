@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-You can transform into a bat. You gain the effects of a 4th-rank [[Pest Form|Pest Form]] spell. At 14th level, you can choose to spend two actions instead of one to gain the effects of a 4th- or 5th-rank [[Aerial Form|Aerial Form]] spell instead (bat form only).
+You can transform into a bat. You gain the effects of a 4th-rank [[Spells/Pest Form|Pest Form]] spell. At 14th level, you can choose to spend two actions instead of one to gain the effects of a 4th- or 5th-rank [[Spells/Aerial Form|Aerial Form]] spell instead (bat form only).
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

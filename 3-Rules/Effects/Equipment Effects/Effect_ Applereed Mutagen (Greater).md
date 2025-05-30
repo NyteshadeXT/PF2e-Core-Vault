@@ -16,15 +16,11 @@ license: OGL
 
 
 
-Granted by [[3-Rules/Character Building/Equipment/A/Applereed Mutagen (Greater)|Applereed Mutagen (Greater)]]
+Granted by [[Equipment/Applereed Mutagen (Greater)|Applereed Mutagen (Greater)]]
 
-Implemented effects:
+**Benefit** You gain a +4 item bonus to Athletics checks and you gain a +20 foot status bonus to your Speed. In addition, you grow one size larger, but your larger size does not have any additional effects beyond the potential change in space.
 
-*   +4 item bonus to Athletics checks
-*   +20 foot status bonus to Speed
-*   You grow one size category larger
-*   \-1 penalty to AC
-*   \-2 penalty to Reflex saves
+**Drawback** You take a -1 penalty to AC and a -2 penalty to Reflex saves.
 
-*Source: Pathfinder Lost Omens: Legends*
+*Source: Pathfinder Lost Omens Legends*
 *OGL*

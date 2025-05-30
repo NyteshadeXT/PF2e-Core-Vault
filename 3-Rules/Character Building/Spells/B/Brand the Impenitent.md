@@ -38,5 +38,5 @@ abilities_top:
 abilities_mid:
   - name: ""
     desc: "You brand the target with an ethereal copy of your deity's religious symbol. This brand can't be hidden, but it is visible only to followers of your faith, who see it as clearly as a lit torch. Followers of your faith ignore the target's [[Conditions/Concealed|Concealed]] condition, if any, and the target gains a -1 status penalty to AC against attacks by followers of your faith. If the target is a follower of your deity in good standing, the spell fails.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The spell lasts for 1 round.\n\n**Failure** The spell lasts for 1 minute.\n\n**Critical Failure** The spell has an unlimited duration."
-sourcebook: "_Pathfinder Lost Omens: Gods & Magic_"
+sourcebook: "_Pathfinder Lost Omens Gods & Magic_"
 ```

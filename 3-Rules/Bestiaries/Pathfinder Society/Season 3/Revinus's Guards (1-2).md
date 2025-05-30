@@ -56,8 +56,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Light Mace +6 (agile, finesse, shove)\n__Damage__  1d4 + 2 bludgeoning"
+  - name: "**Melee** `pf2:1` Light Mace"
+    desc: "+6 (agile, finesse, shove)\n__Damage__  1d4 + 2 bludgeoning"
 
   - name: "Big Thwunk"
     desc: "`pf2:2`  The guard makes a melee Strike with their light mace. On a successful hit, the target is pushed back 5 feet, with the effects of a successful Shove. If the target is [[Conditions/Off-Guard|Off-Guard]], then the guard can follow the foe."

@@ -4,10 +4,11 @@ title: "Reloading Strike"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/gunslinger
-  - trait/common
+  - trait/
   - category/offensive
+  - remaster
 aliases: "Compendium.pf2e.actionspf2e.Item.jSC5AYEfliOPpO3H"
-license: OGL
+license: ORC
 ---
 # Reloading Strike `pf2:1`
 
@@ -22,7 +23,7 @@ license: OGL
 
 * * *
 
-You make a melee attack and then reload your gun in one fluid movement. Strike an opponent within reach with your one-handed melee weapon (or, if your other hand is empty, with an unarmed attack), and then Interact to reload. You don't need a free hand to reload in this way.
+You make a melee attack and reload in one fluid movement. Strike an opponent within reach with your one-handed melee weapon (or, if your other hand is empty, with an unarmed attack), and then Interact to reload. You don't need a free hand to reload in this way and this reload does not trigger reactions.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

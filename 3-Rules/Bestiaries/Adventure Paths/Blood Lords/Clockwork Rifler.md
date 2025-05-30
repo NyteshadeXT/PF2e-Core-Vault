@@ -20,6 +20,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap182-graveclaw/assets/art/CLOCKWORK_RIFLER_FINAL.webp| ]]
 source: "Pathfinder #182: Graveclaw"
 name: "Clockwork Rifler"
 level: "Creature 6"
@@ -54,18 +55,18 @@ abilities_top:
   - name: "Items"
     desc: "[[Equipment/Double-Barreled Musket|+1 Striking Double-Barreled Musket]], [[Equipment/Bayonet|Bayonet]], 10x [[Equipment/Rounds (Double-Barreled Musket)|Rounds (Double-Barreled Musket)]]"
   - name: "Wind-Up"
-    desc: "  24 hours, DC 22 Thievery check, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to [[Actions/Disable a Device|Disable a Device]] to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
+    desc: "  24 hours, [[Actions/disable-device dc=22|disable-device dc=22]]{DC 22 Thievery}, standby\n* * *\n\nFor a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.\n\nA clockwork that lists standby in its wind-up entry can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt to [[Actions/Disable a Device|Disable a Device]] to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time. This can be done even if the clockwork is in standby mode."
 
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Bayonet +17 (agile, finesse, reach 10 feet)\n__Damage__  1d4 + 9 piercing"
+  - name: "**Melee** `pf2:1` Bayonet"
+    desc: "+17 (agile, finesse, reach 10 feet)\n__Damage__  1d4 + 9 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Double-Barreled Musket +18 (concussive, double barrel, fatal d10, range increment 60 feet, reload 1)\n__Damage__  2d6 + 9 piercing"
+  - name: "**Ranged** `pf2:1` Double-Barreled Musket"
+    desc: "+18 (concussive, double barrel, fatal d10, range increment 60 feet, reload 1)\n__Damage__  2d6 + 9 piercing"
 
   - name: "Bayonet Charge"
     desc: "`pf2:2`  The clockwork rifler Strides twice and Strikes with its bayonet."

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Name Drop `pf2:r`
 
-### [[3-Rules/Rule References/auditory]][[fortune]]
+### [[auditory]][[fortune]]
 
 **Category** interaction; 
 
@@ -28,5 +28,5 @@ license: ORC
 
 **Effect** Reroll the skill check. You must use the second result, even if it's worse.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

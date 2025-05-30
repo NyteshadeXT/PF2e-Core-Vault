@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Pallesthetic Mutagen|Pallesthetic Mutagen]]
+Granted by [[Equipment/Pallesthetic Mutagen|Pallesthetic Mutagen]]
 
 **Benefit** You gain precise echolocation out to 40 feet, imprecise tremorsense out to 60 feet, and a +2 item bonus to Perception checks using either of these senses.
 

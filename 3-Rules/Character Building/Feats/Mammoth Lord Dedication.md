@@ -24,7 +24,7 @@ You've undertaken the ultimate challenge of the Mammoth Lords and tamed a megafa
 
 Contrary to the usual rules for animal companions, this feat can give you a second animal companion. If you have more than one animal companion, you can adventure with only one of them at a time. You can switch between them like a beastmaster does. You gain the [[Actions/Call Companion|Call Companion]] action, as the beastmaster archetype, and you follow all the other rules found in the Call Companion sidebar; see [[Feats/Beastmaster Dedication|Beastmaster Dedication]] for details on this action and the rules for multiple companions.
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Mammoth Lord|Mammoth Lord]] archetype.
+[[PF2e Journals/Archetypes/Mammoth Lord|Mammoth Lord]]
 
 *Source: Pathfinder #177: Burning Tundra*
 *OGL*

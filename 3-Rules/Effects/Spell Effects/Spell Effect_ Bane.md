@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[3-Rules/Character Building/Spells/B/Bane|Bane]].
+Granted by [[Spells/Bane|Bane]].
 
 You take a -1 status penalty to attack rolls.
 

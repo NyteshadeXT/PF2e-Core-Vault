@@ -68,8 +68,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +28 (agile, finesse, nonlethal)\n__Damage__  3d4 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+28 (agile, finesse, nonlethal, unarmed)\n__Damage__  3d4 + 4 bludgeoning"
 
   - name: "Occult Prepared Spells"
     desc: "DC 40, attack +32; __9th __ (3 slots) _[[Spells/Foresight|Foresight]]_, _[[Spells/Unfathomable Song|Unfathomable Song]]_; __8th __ (3 slots) _[[Spells/Disappearance|Disappearance]]_, _[[Spells/Spiritual Epidemic|Spiritual Epidemic]]_, _[[Spells/Uncontrollable Dance|Uncontrollable Dance]]_; __7th __ (3 slots) _[[Spells/Duplicate Foe|Duplicate Foe]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __ (3 slots) _[[Spells/Never Mind|Feeblemind]]_, _[[Spells/Spellwrack|Spellwrack]]_, _[[Spells/Vibrant Pattern|Vibrant Pattern]]_; __5th __ (3 slots) _[[Spells/Hallucination|Hallucination]]_, _[[Spells/Synaptic Pulse|Synaptic Pulse]]_, _[[Spells/Synesthesia|Synesthesia]]_; __4th __ (3 slots) _[[Spells/Confusion|Confusion]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fly|Fly]]_; __3rd __ (3 slots) _[[Spells/Chilling Darkness|Chilling Darkness]]_, _[[Spells/Hypnotize|Hypnotic Pattern]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (3 slots) _[[Spells/Death Knell|Death Knell]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Paranoia|Paranoia]]_; __1st __ (3 slots) _[[Spells/Bane|Bane]]_, _[[Spells/Fear|Fear]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(9th)__ _[[Spells/Daze|Daze]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Ghost Sound|Ghost Sound]]_, _[[Spells/Read Aura|Read Aura]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

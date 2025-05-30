@@ -33,7 +33,7 @@ perception:
 languages: ""
 skills:
   - name: "Skills"
-    desc: "Stealth: +15, Stealth: +15"
+    desc: "Stealth: +15"
 abilityMods: [6, -1, 7, -4, 3, -2]
 speed: 5 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -54,11 +54,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Branch +20 (reach 30 feet)\n__Damage__  2d10 + 10 piercing"
+  - name: "**Melee** `pf2:1` Branch"
+    desc: "+20 (reach 30 feet)\n__Damage__  2d10 + 10 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Eye +20 (brutal, range increment 40 feet)\n__Damage__  2d4 + 10 bludgeoning plus spore-burst"
+  - name: "**Ranged** `pf2:1` Eye"
+    desc: "+20 (brutal, range increment 40 feet)\n__Damage__  2d4 + 10 bludgeoning plus spore-burst"
 
   - name: "Spore Burst"
     desc: "  When the tree of eyes damages a creature with an eye Strike, the creature and each other creature within 5 feet of it are exposed to Lung Rot."

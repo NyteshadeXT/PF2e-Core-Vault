@@ -66,17 +66,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +17 ()\n__Damage__  2d8 + 10 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+17 (unarmed)\n__Damage__  2d8 + 10 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +17 (agile)\n__Damage__  2d6 + 10 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+17 (agile, unarmed)\n__Damage__  2d6 + 10 slashing"
 
   - name: "Primal Innate Spells"
     desc: "DC 25, attack +17; __4th __  _[[Spells/Darkness|Darkness]]_; __2nd __  _[[Spells/Blur|Blur]]_, _[[Spells/Darkness|Darkness (At Will)]]_"
 
   - name: "Drain Light"
-    desc: "`pf2:2` (darkness,primal) The shimmerthief targets a light source within 30 feet, then attempts to counteract it with a spell attack roll. If they succeed, the shimmerthief regains 2d8+10 Hit Points (4d8+20 Hit Points on a critical success)."
+    desc: "`pf2:2` (darkness,primal) The shimmerthief targets a light source within 30 feet, then attempts to counteract it with a spell attack roll. If they succeed, the shimmerthief regains 2d8+10 healing Hit Points (4d8+20 healing Hit Points on a critical success)."
 
   - name: "Lasting Darkness"
     desc: "`pf2:r`  **Frequency** once per day\n\n**Trigger** The shimmerthief casts [[Spells/Darkness|Darkness]] as a 2nd-rank spell\n* * *\n\n**Effect** The duration of the shimmerthief's _darkness_ increases to 24 hours."

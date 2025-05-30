@@ -67,14 +67,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +7 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d6 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+7 (agile, finesse, nonlethal, unarmed)\n__Damage__  1d6 + 1 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Bo Staff +4 (parry, reach 10 feet, trip)\n__Damage__  1d8 + 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Bo Staff"
+    desc: "+4 (parry, reach 10 feet, trip)\n__Damage__  1d8 + 1 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Javelin +7 (thrown 30 ft.)\n__Damage__  1d6 + 1 piercing"
+  - name: "**Ranged** `pf2:1` Javelin"
+    desc: "+7 (thrown 30 ft.)\n__Damage__  1d6 + 1 piercing"
 
   - name: "Divine Innate Spells"
     desc: "DC 13, attack +5; __1st __  _[[Spells/Pest Form|Pest Form (Monkey Only)]]_"

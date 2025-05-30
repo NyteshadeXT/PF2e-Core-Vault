@@ -6,8 +6,9 @@ tags:
   - trait/inventor
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.DQN7YC7s7T0pL6Aa"
-license: OGL
+license: ORC
 ---
 # Gadget Specialist
 ## Feat 4
@@ -24,4 +25,4 @@ Rather than just using your gadgets for various boosts and tweaks, you also craf
 If you're a master in Crafting, you can create three gadgets per day, and you gain three additional common or uncommon gadget formulas. If you're legendary in Crafting, you can create four gadgets per day, and you gain another additional three common or uncommon gadget formulas, for a total of nine.
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

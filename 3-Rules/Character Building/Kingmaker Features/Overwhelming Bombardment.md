@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Overwhelming Bombardment"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/attack
   - trait/siege
-  - trait/common
+  - trait/
   - category/army-war-action
 aliases: "Compendium.pf2e.kingmaker-features.Item.HLu1o1RzCZxWjOJJ"
 license: OGL
 ---
 # Overwhelming Bombardment `pf2:2`
-
+## 
 ### [[attack]][[siege]]
 
 **Category** army-war-action; 

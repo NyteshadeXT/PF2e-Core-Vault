@@ -53,7 +53,7 @@ health:
 abilities_top:
   - name: ""
   - name: "Items"
-    desc: "+2 Greater Striking Astral Corrosive Shortsword"
+    desc: "[[Equipment/Shortsword|+2 Greater Striking Astral Corrosive Shortsword]]"
 abilities_mid:
   - name: ""
   - name: "Darting Legs"
@@ -65,14 +65,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Shortsword +35 (agile, finesse, magical, reach 10 feet, versatile s)\n__Damage__  1d6 acid 3d6 + 14 piercing 1d6 spirit"
+  - name: "**Melee** `pf2:1` Shortsword"
+    desc: "+35 (agile, finesse, magical, reach 10 feet, versatile s)\n__Damage__  1d6 acid 3d6 + 14 piercing 1d6 spirit"
 
-  - name: "Melee"
-    desc: "`pf2:1` Bite +33 (finesse, magical)\n__Damage__  3d6 poison plus zimiezek-infection 3d10 + 14 piercing plus zimiezek-infection"
+  - name: "**Melee** `pf2:1` Bite"
+    desc: "+33 (finesse, magical)\n__Damage__  3d6 poison plus zimiezek-infection 3d10 + 14 piercing plus zimiezek-infection"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Web +33 (range 60 feet)\n__Damage__ "
+  - name: "**Ranged** `pf2:1` Web"
+    desc: "+33 (range 60 feet)\n__Damage__ "
 
   - name: "Occult Innate Spells"
     desc: "DC 37, attack +29; __9th __  _[[Spells/Web|Web (x3)]]_; __5th __  _[[Spells/Translocate|Translocate]]_; __4th __  _[[Spells/Translocate|Translocate (At Will)]]_\n__Cantrips__  __(9th)__ _[[Spells/Telekinetic Hand|Telekinetic Hand]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

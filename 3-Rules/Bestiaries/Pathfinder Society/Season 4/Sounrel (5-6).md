@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +12 (agile)\n__Damage__  1d4 + 7 piercing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+12 (agile, unarmed)\n__Damage__  1d4 + 7 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Flintlock Musket +16 (concussive, fatal d10, magical, range increment 70 feet, reload 1)\n__Damage__  2d6 + 7 piercing"
+  - name: "**Ranged** `pf2:1` Flintlock Musket"
+    desc: "+16 (concussive, fatal d10, magical, range increment 70 feet, reload 1)\n__Damage__  2d6 + 7 piercing"
 
   - name: "Occult Spontaneous Spells"
     desc: "DC 25, attack +17; __4th __ (2 slots) _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Phantasmal Killer|Phantasmal Killer]]_; __3rd __ (3 slots) _[[Spells/Paralyze|Paralyze]]_, _[[Spells/Vampiric Feast|Vampiric Touch]]_; __2nd __ (4 slots) _[[Spells/Animated Assault|Animated Assault]]_, _[[Spells/Blur|Blur]]_, _[[Spells/Laughing Fit|Hideous Laughter]]_, _[[Spells/Noise Blast|Sound Burst]]_; __1st __ (4 slots) _[[Spells/Biting Words|Biting Words]]_, _[[Spells/Grim Tendrils|Grim Tendrils]]_, _[[Spells/Force Barrage|Magic Missile]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(4th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Shield|Shield]]_, _[[Spells/Telekinetic Projectile|Telekinetic Projectile]]_"

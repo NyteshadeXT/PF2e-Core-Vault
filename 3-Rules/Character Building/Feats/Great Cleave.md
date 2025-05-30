@@ -13,7 +13,7 @@ license: ORC
 ---
 # Great Cleave
 ## Feat 10
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

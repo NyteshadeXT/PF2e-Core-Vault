@@ -26,9 +26,7 @@ license: OGL
 
 You have completed your initial training in the ways of a stalwart defender. You gain the [[Actions/Tenacious Stance|Tenacious Stance]] action.
 
-* * *
+[[PF2e Journals/Archetypes/Stalwart Defender|Stalwart Defender]]
 
-**Special** You cannot select another dedication feat until you take two other feats from the [[PF2e Journals/Archetypes/Stalwart Defender|Stalwart Defender]] archetype.
-
-*Source: Pathfinder Lost Omens: Highhelm*
+*Source: Pathfinder Lost Omens Highhelm*
 *OGL*

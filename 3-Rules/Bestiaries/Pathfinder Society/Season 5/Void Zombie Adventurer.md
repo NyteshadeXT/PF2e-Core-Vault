@@ -53,14 +53,17 @@ abilities_mid:
   - name: "Salt Water Vulnerability"
     desc: "  Salt water acts as an extremely strong acid on the larval akata inside the void zombie. Full immersion in salt water deals 4d6 acid damage per round. On any round in which the void zombie takes damage due to its salt water weakness, the larval akata retreats to the depths of the void zombie's body, causing the void zombie to become [[Conditions/Slowed|Slowed 1]] until the end of its next turn."
 
+  - name: "[[Bestiary Ability Glossary/Void Healing|Void Healing]]"
+    desc: "  A creature with void healing draws health from void energy rather than vitality energy. It is damaged by vitality damage and is not healed by vitality healing effects. It does not take void damage, and it is healed by void effects that heal undead."
+
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +14 ()\n__Damage__  3d8 + 4 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+14 (unarmed)\n__Damage__  3d8 + 4 bludgeoning"
 
-  - name: "Melee"
-    desc: "`pf2:1` Feeding Tendril +12 (agile)\n__Damage__  2d8 + 4 piercing plus feed-on-blood"
+  - name: "**Melee** `pf2:1` Feeding Tendril"
+    desc: "+12 (agile)\n__Damage__  2d8 + 4 piercing plus feed-on-blood"
 
   - name: "Blood Drain"
     desc: "`pf2:1`  **Requirements** The void zombie's previous action was a successful feeding tendril Strike against the target creature.\n* * *\n\n**Effect** The void zombie uses its feeding tendril to drain blood from the creature it has struck. This deals 2d4 bleed damage, and a creature that takes this damage is [[Conditions/Drained|Drained 1]] until it receives healing (of any kind or amount)."

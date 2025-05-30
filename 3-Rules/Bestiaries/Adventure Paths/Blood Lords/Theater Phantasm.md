@@ -19,6 +19,7 @@ license: OGL
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+token: [[modules/pf2e-ap185-a-taste-of-ashes/assets/art/PZO90185 THEATER PHANTASM.webp| ]]
 source: "Pathfinder #185: A Taste of Ashes"
 name: "Theater Phantasm"
 level: "Creature 16"
@@ -50,11 +51,20 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense 100 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
   - name: "Bonded Theater"
     desc: "  A theater phantasm can't travel more than 50 feet from the theater (or similar location) where it was created."
 
+  - name: "[[Bestiary Ability Glossary/Lifesense|Lifesense 100 feet]]"
+    desc: "  Lifesense allows a monster to sense the vital essence of living and undead creatures within the listed range. The sense can distinguish between the vitality energy animating living creatures and the void energy animating undead creatures, much as sight distinguishes colors."
+
 abilities_mid:
   - name: ""
+  - name: "[[Bestiary Ability Glossary/All-Around Vision|All-Around Vision]]"
+    desc: "  This monster can see in all directions simultaneously and therefore can't be flanked."
+
   - name: "Catharsis"
     desc: " (emotion,mental,occult) When a theater phantasm is destroyed, it emits waves of emotional energy. All creatures within 50 feet take 10d6 mental damage (DC 34 Will check) as they experience a crushing barrage of emotions."
 
@@ -67,11 +77,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Spectral Hand +30 (finesse, magical)\n__Damage__  3d10 + 15 void"
+  - name: "**Melee** `pf2:1` Spectral Hand"
+    desc: "+30 (finesse, magical)\n__Damage__  3d10 + 15 void"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Impromptu Props +28 (magical, range increment 30 feet)\n__Damage__  3d12 + 18 bludgeoning"
+  - name: "**Ranged** `pf2:1` Impromptu Props"
+    desc: "+28 (magical, range increment 30 feet)\n__Damage__  3d12 + 18 bludgeoning"
 
   - name: "Spotlight"
     desc: " (emotion,light,occult) **Frequency** once per round\n* * *\n\n**Effect** The theater phantasm draws attention to a creature it admires. The phantasm designates a target other than itself within 50 feet with a subtle spotlight, giving the target a +2 status bonus to Performance checks and resistance 10 to mental damage for 1 minute. If it uses this ability again on a new target, the former creature loses its spotlight.\n\n[[Bestiary Effects/Effect_ Spotlight|Effect: Spotlight]]"

@@ -16,9 +16,9 @@ license: OGL
 
 
 
-Granted by [[Phase Bolt|Phase Bolt]]
+Granted by [[Spells/Phase Bolt|Phase Bolt]]
 
-If the target has any circumstance bonuses to AC, reduce that bonus by 2 for this attack.
+If you have any circumstance bonuses to AC, you reduce that bonus by 2 for this attack.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

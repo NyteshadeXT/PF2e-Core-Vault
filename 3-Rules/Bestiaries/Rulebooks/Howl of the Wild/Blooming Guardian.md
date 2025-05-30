@@ -29,7 +29,7 @@ trait_01: [[beast]]
 modifier: 29
 perception:
   - name: "Perception"
-    desc: "+29; "
+    desc: "+29; Low-Light Vision, Scent (Imprecise) 40 Feet"
 languages: "Fey; speak with animals, speak with plants"
 skills:
   - name: "Skills"
@@ -55,16 +55,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Buck|Buck]]"
-    desc: "`pf2:r`  DC 36 Reflex check"
+    desc: "`pf2:r`  DC 36 Reflex check\n* * *\n\nMost monsters that serve as mounts can attempt to buck off unwanted or annoying riders, but most mounts will not use this reaction against a trusted creature unless the mounts are spooked or mistreated.\n\n**Trigger** A creature [[Actions/Mount|Mounts]] or uses the [[Actions/Command an Animal|Command an Animal]] action while riding the monster.\n* * *\n\n**Effect** The triggering creature must succeed at a Reflex saving throw against the listed DC or fall off the creature and land [[Conditions/Prone|Prone]]. If the save is a critical failure, the triggering creature also takes 1d6 bludgeoning damage in addition to the normal damage for the fall."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Antlers +28 ()\n__Damage__  4d12 + 5 piercing"
+  - name: "**Melee** `pf2:1` Antlers"
+    desc: "+28 ()\n__Damage__  4d12 + 5 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hooves +26 ()\n__Damage__  4d10 + 5 bludgeoning plus improved-knockdown"
+  - name: "**Melee** `pf2:1` Hooves"
+    desc: "+26 ()\n__Damage__  4d10 + 5 bludgeoning plus improved-knockdown"
 
   - name: "Primal Innate Spells"
     desc: "DC 33, attack +0; __3rd __  _[[Spells/Animal Vision|Animal Vision]]_\n__Constant__  __(4th)__ _[[Spells/Speak with Animals|Speak with Animals]]_, _[[Spells/Speak with Plants|Speak with Plants]]_"
@@ -79,7 +79,7 @@ attacks:
     desc: "`pf2:2`  The blooming guardian Strides twice and makes an antlers Strike after either Stride. If the Strike hits, the blooming guardian deals an extra 2d12 bludgeoning damage, and the target takes a –2 circumstance penalty to its next Fortitude save against blossom siphon."
 
   - name: "Wail of the Forest"
-    desc: "`pf2:2` (primal,void) **Requirements** The blooming guardian is in Full Bloom\n* * *\n\n**Effect** The blooming guardian confronts their mortality, causing their flowers to burst and spray their pollen. All creatures in a @Template[cone|distance:40] take 10d10 void damage with a DC 36 Fortitude check save. The blooming guardian then exits Full Bloom and can't enter it again for 1d4 rounds.\n* * *\n\n**Critical Success** No effect.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and becomes [[Conditions/Drained|Drained 1]]. Creatures that are [[Conditions/Enfeebled|Enfeebled]] lose that condition and increase the drained condition by the same value.\n\n**Critical Failure** As failure, but double damage."
+    desc: "`pf2:2` (primal,void) **Requirements** The blooming guardian is in Full Bloom\n* * *\n\n**Effect** The blooming guardian confronts their mortality, causing their flowers to burst and spray their pollen. All creatures in a 40-foot cone take 10d10 void damage with a DC 36 Fortitude check save. The blooming guardian then exits Full Bloom and can't enter it again for 1d4 rounds.\n* * *\n\n**Critical Success** No effect.\n\n**Success** The creature takes half damage.\n\n**Failure** The creature takes full damage and becomes [[Conditions/Drained|Drained 1]]. Creatures that are [[Conditions/Enfeebled|Enfeebled]] lose that condition and increase the drained condition by the same value.\n\n**Critical Failure** As failure, but double damage."
  
 ```
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Nocturnal Senses
 ## Feat 6
-### [[barbarian]][[3-Rules/trait_reference/R/rage]]
+### [[barbarian]][[rage]]
 
 **Category** class; 
 

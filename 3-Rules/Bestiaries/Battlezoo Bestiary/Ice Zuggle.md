@@ -73,11 +73,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +7 ()\n__Damage__  1d4 + 1 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+7 ()\n__Damage__  1d4 + 1 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Zuggle Orb +9 (cold, primal, range increment 20 feet)\n__Damage__  1d8 + 3 cold"
+  - name: "**Ranged** `pf2:1` Zuggle Orb"
+    desc: "+9 (cold, primal, range increment 20 feet)\n__Damage__  1d8 + 3 cold"
  
 ```
 

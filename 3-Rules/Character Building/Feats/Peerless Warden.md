@@ -22,9 +22,9 @@ license: ORC
 * * *
 Your mastery of primal magic has given you access to the greatest secrets of warden magic. You gain your choice of one warden spell from the peerless warden spells.
 
-[[Hunter's Vision|Hunter's Vision]]
+[[Spells/Hunter's Vision|Hunter's Vision]]
 
-[[Terrain Transposition|Terrain Transposition]]
+[[Spells/Terrain Transposition|Terrain Transposition]]
 
 * * *
 

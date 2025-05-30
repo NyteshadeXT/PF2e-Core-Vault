@@ -31,5 +31,5 @@ Your encounter with one of the rare forces of nature known as kaiju has imbued y
 
 While in Kaiju Stance, you ignore difficult terrain.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

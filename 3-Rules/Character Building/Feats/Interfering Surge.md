@@ -29,6 +29,8 @@ You overcharge the triggering spell with magic. You expend a spell slot and atte
 
 If the triggering spell is successfully counteracted, it creates a wellspring surge from its caster in addition to the normal effects of being counteracted. If it isn't counteracted, your expended spell slot creates a wellspring surge from you.
 
+* * *
+
 **Special** This feat has the trait corresponding to the tradition of spells you cast (arcane, divine, primal, or occult).
 
 *Source: Pathfinder Secrets of Magic*

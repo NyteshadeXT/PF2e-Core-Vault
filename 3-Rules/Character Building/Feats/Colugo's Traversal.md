@@ -20,7 +20,7 @@ license: ORC
 
 
 
-Forbidding valleys and sheer cliffs can't curb your vows to reunite the lost. You can cast your choice of [[Gentle Landing|Gentle Landing]] or [[Jump|Jump]] as a primal innate spell once per day. At 9th level, these spells are heightened to 3rd rank.
+Forbidding valleys and sheer cliffs can't curb your vows to reunite the lost. You can cast your choice of [[Spells/Gentle Landing|Gentle Landing]] or [[Spells/Jump|Jump]] as a primal innate spell once per day. At 9th level, these spells are heightened to 3rd rank.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -62,11 +62,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Galtzagorri Hook Spear +8 (disarm, finesse, sprite)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Melee** `pf2:1` Galtzagorri Hook Spear"
+    desc: "+8 (disarm, finesse, sprite)\n__Damage__  1d6 + 4 piercing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Galtzagorri Hook Spear +11 (disarm, finesse, sprite, thrown 20 ft.)\n__Damage__  1d6 + 4 piercing"
+  - name: "**Ranged** `pf2:1` Galtzagorri Hook Spear"
+    desc: "+11 (disarm, finesse, sprite, thrown 20 ft.)\n__Damage__  1d6 + 4 piercing"
 
   - name: "Innate Primal Spells"
     desc: "DC 16, attack +8; __1st __  _[[Spells/Mending|Mending]]_, _[[Spells/Mending|Mending]]_, _[[Spells/Pest Form|Pest Form]]_, _[[Spells/Pest Form|Pest Form]]_\n__Cantrips__  __(1st)__ _[[Spells/Read Aura|Read Aura]]_"

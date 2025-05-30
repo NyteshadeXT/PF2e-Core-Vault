@@ -52,16 +52,16 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Absorb Shock"
-    desc: "  Whenever the stormdrinker would take electricity damage or is targeted with an electricity effect, it gains 10 temporary HP, is [[Conditions/Quickened|Quickened]], and increases the reach of its vine Strikes by 5 feet until the end of its next turn. It can use its extra action to Stride, Strike, or Swim."
+    desc: "  Whenever the stormdrinker would take electricity damage or is targeted with an electricity effect, it gains 10 temporary HP, is [[Conditions/Quickened|Quickened]], and increases the reach of its vine Strikes by 5 feet until the end of its next turn. It can use its extra action to Stride, Strike, or Swim.\n\n[[Bestiary Effects/Effect_ Absorb Shock|Effect: Absorb Shock]]"
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Vine +18 (reach 10 feet)\n__Damage__  2d10 + 8 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Vine"
+    desc: "+18 (reach 10 feet)\n__Damage__  2d10 + 8 bludgeoning plus grab"
 
   - name: "Lightning Blast"
-    desc: "`pf2:2`  **Requirements** The stormdrinker is [[Conditions/Quickened|Quickened]] due to Absorb Shock\n* * *\n\n**Effect** The stormdrinker dismisses its Absorb Shock benefits to expel lightning in a @Template[line|distance:60], dealing 8d6 electricity damage (DC 25 Reflex check save)."
+    desc: "`pf2:2`  **Requirements** The stormdrinker is [[Conditions/Quickened|Quickened]] due to Absorb Shock\n* * *\n\n**Effect** The stormdrinker dismisses its Absorb Shock benefits to expel lightning in a 60-foot line, dealing 8d6 electricity damage (DC 25 Reflex check save)."
 
   - name: "Ring Bell"
     desc: "`pf2:1` (auditory) **Requirements** The stormdrinker is carrying a bell\n* * *\n\n**Effect** The stormdrinker rings its bell, signaling Tumbo to bite him once. (Multiple bites don't stack their effects on the stormdrinker.) The stormdrinker can't use this ability when it doesn't have its bell, such as if it is Disarmed."
@@ -70,7 +70,7 @@ attacks:
     desc: "`pf2:2`  The stormdrinker makes a vine Strike against each creature within reach. Its multiple attack penalty increases only after all the attacks."
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
  
 ```
 

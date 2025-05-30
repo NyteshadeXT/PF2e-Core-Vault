@@ -16,7 +16,9 @@ license: OGL
 
 
 
-Granted by [[Dragon Claws|Dragon Claws]]
+Granted by _Dragon Claws_
+
+Vicious claws grow from your fingers. They are finesse unarmed attacks that deal slashing damage and extra damage of a type determined by the dragon in your bloodline. You gain resistance to the same damage type.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

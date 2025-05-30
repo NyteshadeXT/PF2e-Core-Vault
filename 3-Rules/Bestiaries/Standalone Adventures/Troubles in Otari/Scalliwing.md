@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +10 (agile, finesse)\n__Damage__  1d4 + 1 piercing 1d4 poison"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+10 (agile, finesse)\n__Damage__  1d4 + 1 piercing 1d4 poison"
 
   - name: "Divine Innate Spells"
     desc: "DC 20, attack +12; __2nd __ (3 slots) _[[Spells/Heal|Heal (x2)]]_, _[[Spells/Invisibility|Invisibility (Self Only)]]_; __1st __ (3 slots) _[[Spells/Command|Command]]_, _[[Spells/Sanctuary|Sanctuary]]_\n__Cantrips__  __(2nd)__ _[[Spells/Daze|Daze]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Telekinetic Hand|Mage Hand]]_, _[[Spells/Message|Message]]_, _[[Spells/Shield|Shield]]_"

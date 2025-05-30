@@ -11,7 +11,7 @@ license: OGL
 ---
 # Flamboyant Cruelty
 ## Feat 8
-### [rare](rare.md "Rare Rarity Trait")[[swashbuckler]]
+### [rare](rare "Rare Rarity Trait")[[swashbuckler]]
 
 **Category** class; 
 
@@ -28,5 +28,5 @@ If you hit such a foe, you gain a +1 circumstance bonus to skill checks to [[Act
 
 [[Feat_Feature Effects/Effect_ Flamboyant Cruelty|Effect: Flamboyant Cruelty]]
 
-*Source: Pathfinder Lost Omens: Legends*
+*Source: Pathfinder Lost Omens Legends*
 *OGL*

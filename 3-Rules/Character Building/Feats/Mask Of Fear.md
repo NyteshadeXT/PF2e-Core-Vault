@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Mask Of Fear"
+title: "Mask of Fear"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/orc
@@ -9,7 +9,7 @@ tags:
 aliases: "Compendium.pf2e.feats-srd.Item.KboQgBhYXI2WdCt8"
 license: OGL
 ---
-# Mask Of Fear `pf2:0`
+# Mask of Fear `pf2:0`
 ## Feat 13
 ### [[orc]]
 
@@ -31,5 +31,5 @@ Your _warmask_ burns off of your face, releasing your apprehension. You remove t
 
 **Special** You can use this free action even if you have a condition tied to the frightened condition that would normally prevent you from using a free action, such as "[[Conditions/Fleeing|Fleeing]] as long as you're frightened" or "[[Conditions/Paralyzed|Paralyzed]] as long as you're frightened."
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

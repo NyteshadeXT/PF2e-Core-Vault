@@ -59,8 +59,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Elemental Fist +10 (finesse, magical)\n__Damage__  2d6 bludgeoning"
+  - name: "**Melee** `pf2:1` Elemental Fist"
+    desc: "+10 (finesse, magical)\n__Damage__  2d6 bludgeoning"
 
   - name: "Primal Innate Spells"
     desc: "DC 18, attack +10; __2nd __  _[[Spells/Invisibility|Invisibility (At Will; Self Only)]]_, _[[Spells/Translate|Translate (At Will)]]_; __1st __  _[[Spells/Cleanse Cuisine|Cleanse Cuisine]]_, _[[Spells/Heal|Heal]]_\n__Cantrips__  __(1st)__ _[[Spells/Electric Arc|Electric Arc (Attuned Element)]]_, _[[Spells/Frostbite|Frostbite (Attuned Element)]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Ignition|Ignition (Attuned Element)]]_, _[[Spells/Needle Darts|Needle Darts (Attuned Element)]]_, _[[Spells/Prestidigitation|Prestidigitation]]_, _[[Spells/Scatter Scree|Scatter Scree (Attuned Element)]]_, _[[Spells/Summon Instrument|Summon Instrument]]_, _[[Spells/Tangle Vine|Tangle Vine (Attuned Element)]]_"
@@ -69,7 +69,7 @@ attacks:
     desc: "  Upon waking each day, a gennayn attunes to one planar element. They gain the corresponding trait, a movement Speed, a cantrip, resistance, and an elemental damage type for their energy fist attack based on their attuned element:\n\n*   air: fly 30 feet, resist electricity 5, electric arc, electricity damage;\n*   earth: burrow 15 feet, resist bludgeoning 5, scatter scree, bludgeoning damage;\n*   fire: fly 30 feet, resist fire 5, ignition, fire damage;\n*   metal: burrow 15 feet, resist slashing 5, needle darts, slashing damage;\n*   water: swim 20 feet, resist cold 5, frostbite, bludgeoning damage;\n*   wood: climb 15 feet, resist piercing 5, tangle vine, piercing damage.\n\nThe attunement lasts until the gennayn attunes to a different element."
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (arcane,concentrate,polymorph) The gennayn transforms into a Tiny elemental or animal. This doesn't affect the gennayn's statistics, but it could change the damage type of their Strikes.\n\n* * *\n"
+    desc: "`pf2:1` (arcane,concentrate,polymorph) The gennayn transforms into a Tiny elemental or animal. This doesn't affect the gennayn's statistics, but it could change the damage type of their Strikes.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Little Wish"
     desc: "`pf2:r` (fortune) **Trigger** A creature the gennayn can see that's within 60 feet attempts a saving throw or skill check\n\n**Frequency** once per day\n* * *\n\n**Effect** The gennayn reshapes reality in a small way to twist fate, allowing the creature to reroll the saving throw or skill check and take the better result."

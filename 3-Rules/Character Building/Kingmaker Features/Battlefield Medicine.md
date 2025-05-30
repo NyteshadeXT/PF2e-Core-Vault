@@ -1,17 +1,17 @@
 ---
 obsidianUIMode: preview
 title: "Battlefield Medicine"
-cssclasses: pf2e,pf2e-action
+cssclasses: pf2e,pf2e-spell
 tags:
   - trait/infantry
   - trait/skirmisher
-  - trait/common
+  - trait/
   - category/army-war-action
 aliases: "Compendium.pf2e.kingmaker-features.Item.agjqRWTTIWHwiKsd"
 license: OGL
 ---
 # Battlefield Medicine `pf2:3`
-
+## 
 ### [[infantry]][[skirmisher]]
 
 **Category** army-war-action; 

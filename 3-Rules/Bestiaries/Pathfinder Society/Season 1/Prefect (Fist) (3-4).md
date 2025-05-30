@@ -49,13 +49,16 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Archaic Wayfinder|Archaic Wayfinder]]"
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +12 (magical)\n__Damage__  1d8 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+12 (magical, unarmed)\n__Damage__  1d8 + 6 bludgeoning"
 
   - name: "Arcane Innate Spells"
     desc: "DC 20, attack +12; __2nd __ (1 slots) _[[Spells/Breathe Fire|Burning Hands]]_; __1st __ (1 slots) _[[Spells/Hydraulic Push|Hydraulic Push (At Will)]]_\n__Constant__  __(5th)__ _[[Spells/Truespeech|Tongues]]_"

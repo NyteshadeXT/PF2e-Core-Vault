@@ -1,76 +1,33 @@
 ---
-#========================================================#
-#                     CORE PROPERTIES                    #
-#========================================================#
-cssclass: pf2e-item, h-line
-name: "bola"
-aliases: "Bola"
-source: "Pathfinder Player Core"
-pg: ""
-rarity: ""
-trait01: "nonlethal"
-trait02: "ranged-trip"
-trait03: "thrown"
-trait04: "common"
-trait05: ""
-trait06: ""
-trait07: ""
-trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 0
-weight: L
-value: "5"
-subvalue: "sp"
-invest:
-usage: "held in one hand "
-license: "ORC"
-identify:
-description: "This throwing weapon consists of weights tied to the end of long cords, which can be used to bludgeon foes or entangle their legs."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
-trigger2:
-mechanics2: "**Secondary Effect** "
-craft:
-
-#========================================================#
-#                   WEAPON PROPERTIES                    #
-#========================================================#
-range: 20 ft
-ammoType:
-damage: 1d6 bludgeoning
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
-
-#========================================================#
-#                    ARMOR PROPERTIES                    #
-#========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
-resist:
-immunity:
-conditionImmunity:
-
-#========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
-#========================================================#
-weaponBase:
-armorBase:
-
+obsidianUIMode: preview
+title: "Bola"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - pf2e/weapon
+  - trait/nonlethal
+  - trait/ranged-trip
+  - trait/thrown
+  - trait/common
+  - category/martial
+  - remaster
+aliases: "Compendium.pf2e.equipment-srd.Item.YUzPv0i8d8p2J9yx"
+license: ORC
 ---
+# Bola
+## Item 0
+### [[nonlethal]][[ranged-trip]][[thrown]]
+
+|  |  |
+| -- | -- |
+| **Category** martial ranged weapon | **Group** sling |
+| **Price** 5 sp |  |
+| **Bulk** L | **Size** med |
+|**Range** 20 ft.| **Reload** -|
+| **Damage** 1d6 bludgeoning  | **Usage** held-in-one-hand |
+
+
+
+This throwing weapon consists of weights tied to the end of long cords, which can be used to bludgeon foes or entangle their legs.
+
+*Source: Pathfinder Player Core*
+*ORC*

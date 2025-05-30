@@ -55,16 +55,22 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "[[Equipment/Falchion|+1 Striking Corrosive Falchion]]"
+  - name: "[[Bestiary Ability Glossary/Tremorsense|Tremorsense (Imprecise) 60 feet]]"
+    desc: "  Tremorsense allows a monster to feel the vibrations through a solid surface caused by movement. It is an imprecise sense with a limited range (listed in the ability). Tremorsense functions only if the monster is on the same surface as the subject, and only if the subject is moving along (or burrowing through) the surface."
+
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Falchion +20 (forceful, magical, reach 10 feet, sweep)\n__Damage__  1d6 + 2 acid 2d10 + 12 slashing"
+  - name: "**Melee** `pf2:1` Falchion"
+    desc: "+20 (forceful, magical, reach 10 feet, sweep)\n__Damage__  1d6 + 2 acid 2d10 + 12 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +19 (agile, magical, nonlethal, reach 10 feet)\n__Damage__  1d4 + 14 bludgeoning plus push,shove-into-stone"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+19 (agile, magical, nonlethal, reach 10 feet, unarmed)\n__Damage__  1d4 + 14 bludgeoning plus push,shove-into-stone"
 
   - name: "Arcane Innate Spells"
     desc: "DC 24, attack +16; __7th __  _[[Spells/Interplanar Teleport|Plane Shift (to Astral Plane, Elemental Planes, or Material Plane Only)]]_; __5th __  _[[Compendium.pf2e.spells-srd.Item.hkfH9Z53hPzcOwNB|Veil (Self Only)]]_, _[[Spells/Wall of Stone|Wall of Stone]]_; __4th __  _[[Spells/Shape Stone|Shape Stone (At Will)]]_; __2nd __  _[[Spells/Revealing Light|Glitterdust (x2)]]_\n__Cantrips__  __(4th)__ _[[Spells/Detect Magic|Detect Magic]]_"
@@ -76,7 +82,7 @@ attacks:
     desc: " (arcane,earth) When the shaitan Pushes a creature into a stone barrier, the target must succeed at a DC 22 Reflex check save or become merged with the barrier (as [[Spells/One with Stone|One with Stone]]). The victim can attempt to Escape (DC 28)."
 
   - name: "[[Bestiary Ability Glossary/Push|Push 10 feet]]"
-    desc: "`pf2:1`  "
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."
  
 ```
 

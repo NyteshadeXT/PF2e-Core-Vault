@@ -52,6 +52,12 @@ health:
 abilities_top:
   - name: ""
 
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Telepathy|Telepathy 300 feet]]"
+    desc: " (aura,magical) A monster with telepathy can communicate mentally with any creatures within the listed radius, as long as they share a language. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would."
+
   - name: "Lamp Vision 30 feet"
     desc: "  The Claws of Time is specially attuned to the crystal lamps in the Cradle of Quartz. It can sense creatures within 30 feet of any crystal lamp in the Cradle of Quartz. These lamps are marked as glowing blue dots on the map. This is a precise sense."
 
@@ -69,11 +75,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +22 ()\n__Damage__  2d10 + 11 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+22 (unarmed)\n__Damage__  2d10 + 11 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +22 (agile)\n__Damage__  2d8 + 11 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+22 (agile, unarmed)\n__Damage__  2d8 + 11 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 28, attack +20; __8th __  _[[Spells/Pinpoint|Discern Location]]_; __4th __  _[[Spells/Planar Tether|Dimensional Anchor]]_; __3rd __  _[[Spells/Agonizing Despair|Agonizing Despair]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Slow|Slow]]_; __2nd __  _[[Spells/Invisibility|Invisibility (At Will) (Self Only)]]_"

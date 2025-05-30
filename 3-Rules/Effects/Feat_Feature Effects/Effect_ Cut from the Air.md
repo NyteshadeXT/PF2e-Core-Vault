@@ -4,8 +4,9 @@ title: "Effect: Cut from the Air"
 cssclasses: pf2e,pf2e-spell
 tags:
   - trait/common
+  - remaster
 aliases: "Compendium.pf2e.feat-effects.Item.gWwG7MNAesJgpmRW"
-license: OGL
+license: ORC
 ---
 # Effect: Cut from the Air
 ## Level 10
@@ -16,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Feats/Cut from the Air|Cut from the Air]].
+Granted by [[Feats/Cut From the Air|Cut From the Air]].
 
 You gain a +4 circumstance bonus to AC against the triggering attack.
 
-*Source: Pathfinder Advanced Player's Guide*
-*OGL*
+*Source: Pathfinder Player Core*
+*ORC*

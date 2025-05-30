@@ -39,7 +39,7 @@ perception:
 languages: "Aklo"
 skills:
   - name: "Skills"
-    desc: "Athletics: +20, Intimidation: +18, Occultism: +13, Stealth: +13, Athletics: +20, Intimidation: +18, Occultism: +13, Stealth: +13"
+    desc: "Athletics: +20, Intimidation: +18, Occultism: +13, Stealth: +13"
 abilityMods: [6, 2, 6, -3, 4, 2]
 speed: 25 feet,  swim 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +21 (reach 10 feet)\n__Damage__  2d12 + 9 piercing 1d6 mental"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+21 (reach 10 feet)\n__Damage__  2d12 + 9 piercing 1d6 mental"
 
-  - name: "Melee"
-    desc: "`pf2:1` Tether Lash +19 (reach 30 feet)\n__Damage__  2d8 + 12 bludgeoning plus tether"
+  - name: "**Melee** `pf2:1` Tether Lash"
+    desc: "+19 (reach 30 feet)\n__Damage__  2d8 + 12 bludgeoning plus tether"
 
   - name: "Tether"
     desc: "  If the feth velaunt hits a creature with its tether lash, that creature becomes [[undefined]] by the feth velaunt ([[undefined]] DC 30). Unlike normal for the grabbed condition, a creature grabbed by a feth velaunt isn't [[undefined]], though it can't move outside of the tether's reach. A creature can sever the tether by attacking the tether, which has an AC of 20, and dealing at least 15 slashing damage. If the feth velaunt attempts to move in a way that would exceed the reach of any tether, creatures attached to those tethers can attempt an Escape action as a reaction. If they fail to Escape, or don't attempt to Escape, such creatures are dragged along with the feth velaunt at a distance equal to the tether's reach. This is forced movement. The reach of all current tethers decreases by 15 feet at the start of the feth velaunt's turn each round, dragging all tethered creatures towards it if the reach becomes less than the distance between the creature and feth velaunt. If a tether's reach reaches 0 in this way, the tethered creature becomes [[undefined]]. Creatures who are restrained in this way are moved along with the feth velaunt when it moves. Each time the feth velaunt takes damage, all creatures currently tethered take 1d4 mental damage; this damaging effect has the nonlethal trait."

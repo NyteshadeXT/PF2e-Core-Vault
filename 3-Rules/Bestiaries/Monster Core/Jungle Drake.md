@@ -60,11 +60,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Fangs +17 ()\n__Damage__  2d10 + 7 piercing plus predatory-grab"
+  - name: "**Melee** `pf2:1` Fangs"
+    desc: "+17 ()\n__Damage__  2d10 + 7 piercing plus predatory-grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stinger +17 (reach 10 feet)\n__Damage__  2d6 + 7 piercing plus jungle-drake-venom"
+  - name: "**Melee** `pf2:1` Stinger"
+    desc: "+17 (reach 10 feet)\n__Damage__  2d6 + 7 piercing plus jungle-drake-venom"
 
   - name: "Draconic Frenzy"
     desc: "`pf2:2`  The jungle drake makes one Fangs Strike and two Stinger Strikes in any order."
@@ -76,13 +76,13 @@ attacks:
     desc: " (poison) **Saving Throw** DC 24 Fortitude check\n* * *\n\n**Maximum Duration** 6 rounds\n\n**Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)\n\n**Stage 2** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
 
   - name: "[[Bestiary Ability Glossary/Grab|Predatory Grab]]"
-    desc: "`pf2:1`  As Grab, but the jungle drake's Grab doesn't end if they move away. Instead, they carry the [[Conditions/Grabbed|Grabbed]] creature with them. A jungle drake can't Fly while grabbing a creature unless that creature can also Fly.\n\n* * *\n"
+    desc: "`pf2:1`  As Grab, but the jungle drake's Grab doesn't end if they move away. Instead, they carry the [[Conditions/Grabbed|Grabbed]] creature with them. A jungle drake can't Fly while grabbing a creature unless that creature can also Fly.\n* * *\n\n**Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
 
   - name: "Speed Surge"
     desc: "`pf2:1` (move) **Frequency** three times per day\n* * *\n\n**Effect** The jungle drake Strides or Flies twice."
 
   - name: "Spit Venom"
-    desc: "`pf2:2` (poison) A jungle drake can spit a sticky glob of their venom to a range of 50 feet that explodes in a @Template[burst|distance:10]. Those in the burst must succeed at a DC 24 Reflex check save or be exposed to jungle drake venom.\n\nThe jungle drake can't use Spit Venom again for 1d6 rounds."
+    desc: "`pf2:2` (poison) A jungle drake can spit a sticky glob of their venom to a range of 50 feet that explodes in a 10-foot burst. Those in the burst must succeed at a DC 24 Reflex check save or be exposed to jungle drake venom.\n\nThe jungle drake can't use Spit Venom again for 1d6 rounds."
  
 ```
 

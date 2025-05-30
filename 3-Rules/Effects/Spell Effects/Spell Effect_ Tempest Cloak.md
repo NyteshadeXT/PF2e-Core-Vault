@@ -17,9 +17,9 @@ license: OGL
 
 
 
-Granted by [[Tempest Cloak|Tempest Cloak]]
+Granted by [[Spells/Tempest Cloak|Tempest Cloak]]
 
-The twisting shield of wind creates difficult terrain in a 5-foot burst surrounding the target. The target also gains a +2 circumstance bonus to its AC against physical ranged attacks, such as attacks made with bows, javelins, or slings. In addition, the sound of the swirling storms makes it easier for the target to ignore anything it doesn't want to hear, granting the target a +2 circumstance bonus to all defenses against auditory effects.
+The twisting shield of wind creates difficult terrain in a 5-foot burst surrounding you. You gain a +2 circumstance bonus to your AC against physical ranged attacks. You also gain a +2 circumstance bonus to all defenses against auditory effects.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

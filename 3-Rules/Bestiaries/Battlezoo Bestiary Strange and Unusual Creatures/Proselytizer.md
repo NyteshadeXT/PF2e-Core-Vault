@@ -41,7 +41,7 @@ perception:
 languages: "Common, Diabolic, Shadowtongue"
 skills:
   - name: "Skills"
-    desc: "Acrobatics: +31, Diplomacy: +30, Intimidation: +25, Medicine: +30, Religion: +30, Acrobatics: +31, Diplomacy: +30, Intimidation: +25, Medicine: +30, Religion: +30, Torture Lore: +33"
+    desc: "Acrobatics: +31, Diplomacy: +30, Intimidation: +25, Medicine: +30, Religion: +30, Torture Lore: +33"
 abilityMods: [4, 8, 6, 4, 6, 6]
 speed: 40 feet
 sourcebook: "_Battlezoo Bestiary: Strange and Unusual_"
@@ -71,11 +71,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Chain +30 (finesse, unholy)\n__Damage__  3d10 + 14 slashing plus grab"
+  - name: "**Melee** `pf2:1` Chain"
+    desc: "+30 (finesse, unholy)\n__Damage__  3d10 + 14 slashing plus grab"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spike +30 (thrown 30 ft., unholy)\n__Damage__  3d6 + 14 piercing"
+  - name: "**Ranged** `pf2:1` Spike"
+    desc: "+30 (thrown 30 ft., unholy)\n__Damage__  3d6 + 14 piercing"
 
   - name: "[[Bestiary Ability Glossary/Grab|Grab]]"
     desc: "`pf2:1`  "

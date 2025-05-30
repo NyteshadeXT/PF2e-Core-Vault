@@ -53,14 +53,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +8 ()\n__Damage__  1d6 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+8 (unarmed)\n__Damage__  1d6 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +8 (agile)\n__Damage__  1d4 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+8 (agile, unarmed)\n__Damage__  1d4 + 3 slashing"
 
   - name: "Evil Blinding Musk"
-    desc: "`pf2:2` (poison) The giant fetid familiar propels potent, acrid musk in a @Template[cone|distance:15]. Each creature in the line must attempt a DC 16 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The target is [[Conditions/Sickened|Sickened 3]].\n\n**Critical Failure** The target is [[Conditions/Blinded|Blinded]] for 1 round, becomes [[Conditions/Sickened|Sickened 3]], and is [[Conditions/Doomed|Doomed 1]] until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap."
+    desc: "`pf2:2` (poison) The giant fetid familiar propels potent, acrid musk in a 15-foot cone. Each creature in the line must attempt a DC 16 Fortitude check save.\n* * *\n\n**Critical Success** The target is unaffected.\n\n**Success** The target is [[Conditions/Sickened|Sickened 1]].\n\n**Failure** The target is [[Conditions/Sickened|Sickened 3]].\n\n**Critical Failure** The target is [[Conditions/Blinded|Blinded]] for 1 round, becomes [[Conditions/Sickened|Sickened 3]], and is [[Conditions/Doomed|Doomed 1]] until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap."
  
 ```
 

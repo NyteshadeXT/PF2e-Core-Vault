@@ -66,14 +66,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +19 (reach 10 feet)\n__Damage__  2d12 + 8 piercing plus desiccation-venom"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+19 (reach 10 feet)\n__Damage__  2d12 + 8 piercing plus desiccation-venom"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claws +19 (agile, reach 10 feet)\n__Damage__  2d6 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claws"
+    desc: "+19 (agile, reach 10 feet)\n__Damage__  2d6 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spines +19 (range increment 120 feet)\n__Damage__  2d8 + 8 piercing plus desiccation-venom"
+  - name: "**Ranged** `pf2:1` Spines"
+    desc: "+19 (range increment 120 feet)\n__Damage__  2d8 + 8 piercing plus desiccation-venom"
 
   - name: "Ambush Attackers"
     desc: "  When two or more salt gliders are adjacent to the same foe, salt gliders' attacks deal an additional 1d6 damage to that foe."

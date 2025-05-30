@@ -37,7 +37,7 @@ hp: 60
 health:
   - name: ""
   - name: "HP"
-    desc: "60,  (BT 30); __Hardness__ 15; __Immunities__  object immunities,  critical hits,  precision"
+    desc: "60, (BT 30); __Hardness__ 15; __Immunities__  object immunities,  critical hits,  precision"
 perception:
   - name: ""
   - name: "Stealth DC 23" 
@@ -54,7 +54,7 @@ attacks:
   - name: ""
 
   - name: "Icy Mist"
-    desc: "action (cold, water) **Trigger** The northeast bookshelf is touched\n* * *\n\n**Effect** Freezing mist fills a @Template[cone|distance:30] originating from the room's northeast corner. Creatures in the area take 5d8 cold damage (DC 25 Fortitude check). Creatures who fail or critically fail the saving throw take 2d8 persistent cold damage for up to 3 rounds. The affected area is filled with mist that functions as obscuring mist for 3 rounds."
+    desc: "action (cold, water) **Trigger** The northeast bookshelf is touched\n* * *\n\n**Effect** Freezing mist fills a 30-foot cone originating from the room's northeast corner. Creatures in the area take 5d8 cold damage (DC 25 Fortitude check). Creatures who fail or critically fail the saving throw take 2d8 persistent cold damage for up to 3 rounds. The affected area is filled with mist that functions as obscuring mist for 3 rounds."
 
 
   - name: "Reset"

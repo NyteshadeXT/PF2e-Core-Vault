@@ -6,8 +6,9 @@ tags:
   - trait/archetype
   - trait/common
   - category/class
+  - remaster
 aliases: "Compendium.pf2e.feats-srd.Item.lx8Wt813qavwLISv"
-license: OGL
+license: ORC
 ---
 # Expert Beast Gunner Spellcasting
 ## Feat 12
@@ -17,9 +18,9 @@ license: OGL
 
 
 
-**Prerequisites** Basic Beast Gunner Spellcasting
+**Prerequisites** Basic Beast Gunner Spellcasting or Spellshot Dedication
 * * *
-You've learned the deeper secrets of beast guns, making you an expert in the magic they grant you. You gain the [[PF2e Journals/Archetypes/Expert Spellcasting Feat|Expert Spellcasting Feat]] benefits.
+You've learned the deeper secrets of beast guns, making you an expert in the magic they grant you. You gain the [[PF2e Journals/Archetypes/expert spellcasting benefits|expert spellcasting benefits]].
 
 *Source: Pathfinder Guns & Gears*
-*OGL*
+*ORC*

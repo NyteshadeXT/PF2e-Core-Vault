@@ -58,11 +58,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Whip +28 (disarm, finesse, magical, nonlethal, reach, trip)\n__Damage__  3d4 + 8 slashing"
+  - name: "**Melee** `pf2:1` Whip"
+    desc: "+28 (disarm, finesse, magical, nonlethal, reach, trip)\n__Damage__  3d4 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Sound Blast +28 (occult, range increment 30 feet, sonic)\n__Damage__  4d6 sonic"
+  - name: "**Ranged** `pf2:1` Sound Blast"
+    desc: "+28 (occult, range increment 30 feet, sonic)\n__Damage__  4d6 sonic"
 
   - name: "Spontaneous Occult Spells"
     desc: "DC 36, attack +28; __8th __ (2 slots) _[[Spells/Disappearance|Disappearance]]_, _[[Spells/Spirit Song|Spirit Song]]_; __7th __ (3 slots) _[[Spells/Energy Aegis|Energy Aegis]]_, _[[Spells/Mask of Terror|Mask of Terror]]_, _[[Spells/True Target|True Target]]_; __6th __ (3 slots) _[[Spells/Collective Transposition|Collective Transposition]]_, _[[Spells/Phantasmal Calamity|Phantasmal Calamity]]_, _[[Spells/Spirit Blast|Spirit Blast]]_; __5th __ (3 slots) _[[Spells/Cloak of Colors|Cloak of Colors]]_, _[[Spells/Shadow Blast|Shadow Blast]]_; __4th __ (3 slots) _[[Spells/Flicker|Blink]]_, _[[Spells/Translocate|Dimension Door]]_, _[[Spells/Fly|Fly]]_; __3rd __ (3 slots) _[[Spells/Dispel Magic|Dispel Magic]]_, _[[Spells/Haste|Haste]]_, _[[Spells/Slow|Slow]]_; __2nd __ (3 slots) _[[Spells/Faerie Fire|Faerie Fire]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Resist Energy|Resist Energy]]_; __1st __ (3 slots) _[[Spells/Sanctuary|Sanctuary]]_, _[[Spells/Spirit Link|Spirit Link]]_, _[[Spells/Sure Strike|True Strike]]_\n__Cantrips__  __(8th)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Forbidding Ward|Forbidding Ward]]_, _[[Spells/Guidance|Guidance]]_, _[[Spells/Light|Light]]_, _[[Spells/Message|Message]]_"

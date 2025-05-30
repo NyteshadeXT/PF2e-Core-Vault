@@ -21,5 +21,5 @@ license: OGL
 * * *
 Your nanites are incredibly effective, capable of improving your body's efficiency regularly. You can use [[Feats/Nanite Surge|Nanite Surge]] with a frequency of once per 10 minutes, rather than once per hour.
 
-*Source: Pathfinder Lost Omens: Ancestry Guide*
+*Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

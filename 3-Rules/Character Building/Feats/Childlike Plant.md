@@ -18,9 +18,9 @@ license: ORC
 
 
 
-**Prerequisites** chrysanthemum leshy heritage or peachchildleshy heritage
+**Prerequisites** chrysanthemum leshy heritage or peachchild leshy heritage
 * * *
 You're adept at hiding your plantlike features to pass as a human. You become trained in Deception (or another skill if you're already trained in Deception). You don't require a disguise kit when attempting Deception checks to Impersonate a human. In addition, you gain a +4 circumstance bonus to Impersonate checks to pretend that you're a human version of yourself, rather than a leshy. This bonus doesn't apply to other checks to Impersonate humans.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -59,23 +59,23 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Horn +20 (reach 10 feet)\n__Damage__  3d6 + 9 piercing"
+  - name: "**Melee** `pf2:1` Horn"
+    desc: "+20 (reach 10 feet, unarmed)\n__Damage__  3d6 + 9 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Trunk +20 (reach 15 feet)\n__Damage__ "
+  - name: "**Melee** `pf2:1` Trunk"
+    desc: "+20 (reach 15 feet)\n__Damage__ "
 
-  - name: "Melee"
-    desc: "`pf2:1` Foot +20 (reach 10 feet)\n__Damage__  3d10 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Foot"
+    desc: "+20 (reach 10 feet, unarmed)\n__Damage__  3d10 + 9 bludgeoning"
 
   - name: "Impale"
     desc: "`pf2:2`  **Requirement** The teraphant has a creature grabbed\n* * *\n\n**Effect** The teraphant slams the creature onto one of its horns. The target must attempt a DC 27 Reflex check save or suffer 3d6+9 piercing damage and 1d6 bleed (6d6+18 piercing damage on a critical failure)."
 
   - name: "Psychokinetic Trumpet"
-    desc: "`pf2:2`  The teraphant lets out a loud trumpet that deals 8d8 mental damage (DC 27 Will check save) in a @Template[cone|distance:30]. A creature that fails its save is also pushed 15 feet (30 feet on a critical failure).\n\nIf a pushed creatures strikes a solid barrier, it takes 3d6 bludgeoning damage and stops.\n\nThe teraphant can't use Psychokinetic Trumpet again for 1d4 rounds."
+    desc: "`pf2:2`  The teraphant lets out a loud trumpet that deals 8d8 mental damage (DC 27 Will check save) in a 30-foot cone. A creature that fails its save is also pushed 15 feet (30 feet on a critical failure).\n\nIf a pushed creatures strikes a solid barrier, it takes 3d6 bludgeoning damage and stops.\n\nThe teraphant can't use Psychokinetic Trumpet again for 1d4 rounds."
 
   - name: "[[Bestiary Ability Glossary/Trample|Trample]]"
-    desc: "`pf2:3`  Large or smaller, foot, DC 27 Reflex check\n\n* * *\n"
+    desc: "`pf2:3`  Large or smaller, foot, DC 27 Reflex check\n* * *\n\nThe monster Strides up to double its Speed and can move through the spaces of creatures of the listed size, Trampling each creature whose space it enters. The monster can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the listed Strike, but trampled creatures can attempt a basic Reflex save at the listed DC (no damage on a critical success, half damage on a success, double damage on a critical failure)."
 
   - name: "Grabbing Trunk"
     desc: "  A Medium or smaller creature hit by the teraphant's trunk is grabbed. If the teraphant moves, it can bring the grabbed creature along with it."

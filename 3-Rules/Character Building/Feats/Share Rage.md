@@ -15,7 +15,7 @@ license: ORC
 ---
 # Share Rage `pf2:1`
 ## Feat 8
-### [[auditory]][[barbarian]][[3-Rules/trait_reference/R/rage]][[visual]]
+### [[auditory]][[barbarian]][[rage]][[visual]]
 
 **Category** class; 
 

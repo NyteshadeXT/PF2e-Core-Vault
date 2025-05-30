@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Prerequisites** trained in Athletics, unarmed attacks, and unarmored defense
+**Prerequisites** trained in Athletics
 * * *
 Your training in the wrestling arts has made you particularly adept at moving, striking, and grappling while unencumbered. You become an expert in Athletics and gain the Titan Wrestler skill feat. You don't take the -2 circumstance penalty for making a lethal attack with your nonlethal unarmed attacks. In addition, you gain a +2 circumstance bonus to your Fortitude DC when resisting an opponent's attempts to Grapple you or Swallow you Whole.
 

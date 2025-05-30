@@ -57,11 +57,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Ranged"
-    desc: "`pf2:1` Shuriken +25 (agile, monk, reload 0, thrown 20 ft.)\n__Damage__  1d4 + 7 piercing plus blightburn-resin"
+  - name: "**Ranged** `pf2:1` Shuriken"
+    desc: "+25 (agile, monk, reload 0, thrown 20 ft.)\n__Damage__  1d4 + 7 piercing plus blightburn-resin"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sawtooth Saber +27 (agile, finesse, magical, twin)\n__Damage__  1d6 bleed 2d6 + 7 slashing"
+  - name: "**Melee** `pf2:1` Sawtooth Saber"
+    desc: "+27 (agile, finesse, magical, twin)\n__Damage__  1d6 bleed 2d6 + 7 slashing"
 
   - name: "Divine Prepared Spells"
     desc: "DC 34, attack +26; __5th __  _[[Spells/Sending|Sending]]_; __4th __  _[[Spells/Fly|Fly]]_; __3rd __  _[[Spells/Bone Flense|Bone Flense]]_; __2nd __  _[[Spells/Mist|Mist]]_; __1st __  _[[Spells/Sure Strike|Sure Strike]]_\n__Cantrips__  __(7th)__ _[[Spells/Figment|Figment]]_, _[[Spells/Sigil|Sigil]]_"

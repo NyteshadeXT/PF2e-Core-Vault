@@ -35,7 +35,7 @@ Whether you always carried it or perhaps only recently inherited, you have a pus
 
 * * *
 
-**Effect** You ask the spirit within the pusaka to show you the way. You cast [[Guidance|Guidance]] as an occult cantrip. A cantrip is heightened to a spell rank equal to half your level rounded up.
+**Effect** You ask the spirit within the pusaka to show you the way. You cast [[Spells/Guidance|Guidance]] as an occult cantrip. A cantrip is heightened to a spell rank equal to half your level rounded up.
 
-*Source: Pathfinder Lost Omens: Tian Xia Character Guide*
+*Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

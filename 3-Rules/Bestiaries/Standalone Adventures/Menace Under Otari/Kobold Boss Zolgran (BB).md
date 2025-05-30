@@ -61,11 +61,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +7 (agile, finesse)\n__Damage__  1d6 - 1 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+7 (agile, finesse, unarmed)\n__Damage__  1d6 - 1 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Staff +3 ()\n__Damage__  1d8 - 1 bludgeoning"
+  - name: "**Melee** `pf2:1` Staff"
+    desc: "+3 ()\n__Damage__  1d8 - 1 bludgeoning"
 
   - name: "Wizard Spells"
     desc: "DC 20, attack +12; __1st __  _[[Spells/Command|Command]]_, _[[Spells/Force Barrage|Force Barrage]]_\n__Cantrips__  __(1st)__ _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Figment|Figment]]_, _[[Spells/Gouging Claw|Gouging Claw]]_, _[[Spells/Message|Message]]_"

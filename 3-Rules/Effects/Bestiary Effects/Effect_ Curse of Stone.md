@@ -18,5 +18,5 @@ license: OGL
 
 The creature gains a +1 status bonus to its AC.
 
-*Source: Pathfinder Lost Omens: Impossible Lands*
+*Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

@@ -61,17 +61,17 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +31 (agile, finesse)\n__Damage__  3d8 + 18 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+31 (agile, finesse, unarmed)\n__Damage__  3d8 + 18 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +31 (finesse)\n__Damage__  3d12 + 18 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+31 (finesse, unarmed)\n__Damage__  3d12 + 18 piercing"
 
   - name: "Spontaneous Occult Spells"
     desc: "DC 38, attack +30; __9th __ (1 slots) _[[Spells/Power Word Kill|Power Word Kill]]_; __8th __ (2 slots) _[[Spells/Disappearance|Disappearance]]_, _[[Spells/Power Word Stun|Power Word Stun]]_; __7th __ (2 slots) _[[Spells/Project Image|Project Image]]_, _[[Spells/Warp Mind|Warp Mind]]_; __6th __ (3 slots) _[[Spells/Dominate|Dominate]]_, _[[Spells/Repulsion|Repulsion]]_; __5th __ (3 slots) _[[Spells/Subconscious Suggestion|Subconscious Suggestion]]_; __4th __ (4 slots) _[[Spells/Charm|Charm]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Sleep|Sleep]]_; __3rd __ (3 slots) _[[Spells/Enthrall|Enthrall]]_\n__Cantrips__  __(9th)__ _[[Compendium.pf2e.spells-srd.Item.kl2q6JvBZwed4B6v|Dancing Lights]]_, _[[Spells/Daze|Daze]]_"
 
   - name: "[[Bestiary Ability Glossary/Change Shape|Change Shape]]"
-    desc: "`pf2:1` (concentrate,occult,polymorph) The gumiho changes into humanoid or fox shape. Their humanoid shape has a specific, persistent appearance but their true form is their fox shape. In humanoid shape, the gumiho uses their original size, loses their jaws strike but retains their claws strike, and their Speed is reduced to 25 feet. A gumiho is never able to completely conceal one of their nine tails through this transformation.\n\n* * *\n"
+    desc: "`pf2:1` (concentrate,occult,polymorph) The gumiho changes into humanoid or fox shape. Their humanoid shape has a specific, persistent appearance but their true form is their fox shape. In humanoid shape, the gumiho uses their original size, loses their jaws strike but retains their claws strike, and their Speed is reduced to 25 feet. A gumiho is never able to completely conceal one of their nine tails through this transformation.\n* * *\n\nThe monster changes its shape indefinitely. It can use this action again to return to its natural shape or adopt a new shape. Unless otherwise noted, a monster cannot use Change Shape to appear as a specific individual. Using Change Shape counts as creating a disguise for the [[Actions/Impersonate|Impersonate]] use of Deception. The monster's transformation automatically defeats Perception DCs to determine whether the creature is a member of the ancestry or creature type into which it transformed, and it gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Change Shape abilities specify what shapes the monster can adopt. The monster doesn't gain any special abilities of the new shape, only its physical form. For example, in each shape, it replaces its normal Speeds and Strikes, and might potentially change its senses or size. Any changes are listed in its stat block."
 
   - name: "Snapping Critical"
     desc: "  **Trigger** The gumiho critically hits with a claw or jaws Strike\n* * *\n\n**Effect** The gumiho uses its fox marble to channel the life force lost by the target and heal for half the amount of damage dealt."

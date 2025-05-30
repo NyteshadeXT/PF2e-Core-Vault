@@ -58,19 +58,19 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Halberd +12 (reach 10 feet, versatile s)\n__Damage__  1d10 + 6 piercing"
+  - name: "**Melee** `pf2:1` Halberd"
+    desc: "+12 (reach 10 feet, versatile s)\n__Damage__  1d10 + 6 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Sap +12 (agile, nonlethal)\n__Damage__  1d6 + 6 bludgeoning"
+  - name: "**Melee** `pf2:1` Sap"
+    desc: "+12 (agile, nonlethal)\n__Damage__  1d6 + 6 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Crossbow +10 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
+  - name: "**Ranged** `pf2:1` Crossbow"
+    desc: "+10 (range increment 120 feet, reload 1)\n__Damage__  1d8 piercing"
  
 ```
 

@@ -4,14 +4,14 @@ title: "Conjure Bullet"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/magical
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.KC6o1cvbr45xnMei"
 license: OGL
 ---
 # Conjure Bullet `pf2:1`
 
-### [[3-Rules/Rule References/Magical]]
+### [[magical]]
 
 **Category** interaction; 
 

@@ -4,7 +4,7 @@ title: "Study"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/downtime
-  - trait/common
+  - trait/
   - category/interaction
 aliases: "Compendium.pf2e.actionspf2e.Item.sL1J8cFwpy1lI359"
 license: OGL

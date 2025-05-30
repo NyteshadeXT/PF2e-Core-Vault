@@ -19,7 +19,7 @@ license: ORC
 
 
 
-The raw energy of the Void saps the essence of the living. Any living creature that critically fails its save against a harm spell you cast is [[Conditions/Drained|Drained 1]].
+The raw energy of the Void saps the essence of the living. Any living creature that critically fails its save against a [[Spells/Harm|Harm]] spell you cast is [[Conditions/Drained|Drained 1]].
 
 *Source: Pathfinder Player Core*
 *ORC*

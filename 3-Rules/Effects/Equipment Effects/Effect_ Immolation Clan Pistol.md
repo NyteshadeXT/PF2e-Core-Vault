@@ -16,7 +16,9 @@ license: OGL
 
 
 
-For 1 minute, you look like a flaming corpse. During this time, you gain a +2 status bonus to Intimidation checks and the _immolation hand cannon_ becomes a _+2 striking flaming hand cannon_.
+Granted by [[Equipment/Immolation Clan Pistol|Immolation Clan Pistol]]
+
+You gain a +2 status bonus to Intimidation checks and the _immolation hand cannon_ becomes a _+2 striking flaming hand cannon_.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

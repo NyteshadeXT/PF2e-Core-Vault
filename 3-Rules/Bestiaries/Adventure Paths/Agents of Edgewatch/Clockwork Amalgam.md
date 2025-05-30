@@ -55,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Efficient Winding"
-    desc: "  For the clockwork amalgam to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for 7 days, after which time it becomes unaware of its surroundings and can't act until it's wound again.\n\nThe amalgam can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt a DC 33 Thievery check check to Disable a Device to wind the amalgam down. For each success, the assassin loses 1 hour of operational time. This can be done even if the amalgam is in standby mode."
+    desc: "  For the clockwork amalgam to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for 7 days, after which time it becomes unaware of its surroundings and can't act until it's wound again.\n\nThe amalgam can enter standby mode as a 3-action activity. Its operational time doesn't decrease in standby, but it can sense its surroundings (with a -2 penalty to Perception). It can't act, with one exception: when it perceives a creature, it can exit standby as a reaction (rolling initiative if appropriate).\n\nA creature can attempt a [[Actions/disable-device dc=33|disable-device dc=33]]{DC 33 Thievery} check to Disable a Device to wind the amalgam down. For each success, the assassin loses 1 hour of operational time. This can be done even if the amalgam is in standby mode."
 
   - name: "Recalibrate"
     desc: "`pf2:2`  The clockwork amalgam can recalibrate its internal structure to shed damaged components and replace them with new ones, restoring 125 HP to the construct. Each time it uses this ability, the clockwork amalgam permanently deactivates one of its five melee attacks as the components from that arm reassemble within the core of the machine."
@@ -63,29 +63,29 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Blade +38 (magical, reach 10 feet)\n__Damage__  4d12 + 18 slashing"
+  - name: "**Melee** `pf2:1` Blade"
+    desc: "+38 (magical, reach 10 feet)\n__Damage__  4d12 + 18 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Blowtorch +38 (magical, reach 10 feet)\n__Damage__  10d6 fire"
+  - name: "**Melee** `pf2:1` Blowtorch"
+    desc: "+38 (magical, reach 10 feet)\n__Damage__  10d6 fire"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +38 (magical, reach 10 feet)\n__Damage__  4d8 + 18 slashing plus push"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+38 (magical, reach 10 feet, unarmed)\n__Damage__  4d8 + 18 slashing plus push"
 
-  - name: "Melee"
-    desc: "`pf2:1` Hose +38 (magical, reach 15 feet)\n__Damage__  4d8 + 18 bludgeoning plus grab"
+  - name: "**Melee** `pf2:1` Hose"
+    desc: "+38 (magical, reach 15 feet)\n__Damage__  4d8 + 18 bludgeoning plus grab"
 
-  - name: "Melee"
-    desc: "`pf2:1` Stamper +38 (magical, reach 10 feet)\n__Damage__  4d8 + 18 bludgeoning plus knockdown"
+  - name: "**Melee** `pf2:1` Stamper"
+    desc: "+38 (magical, reach 10 feet)\n__Damage__  4d8 + 18 bludgeoning plus knockdown"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spike +35 (magical, range increment 40 feet)\n__Damage__  4d12 + 8 piercing"
+  - name: "**Ranged** `pf2:1` Spike"
+    desc: "+35 (magical, range increment 40 feet)\n__Damage__  4d12 + 8 piercing"
 
   - name: "Whirring Doom"
     desc: "`pf2:3`  **Frequency** once per round\n* * *\n\nThe clockwork amalgam becomes a blur of spinning weaponry. It makes up to five melee Strikes (one for each active melee attack it has available), taking a -4 penalty to the attack roll for each attack, but ignoring the multiple attack penalty until it has made all of its attacks. It can use each melee attack only once and it can target each creature in reach only once. If the clockwork amalgam used Whirring Doom in the previous round, it can use it again this round using only 1 action instead of 3. The amalgam's movement Speed is halved until the end of its next turn."
 
   - name: "Grab"
-    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/Grapple|Grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
+    desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]\n* * *\n\n**Effect** If used after a Strike, the monster attempts to [[Actions/grapple|grapple]] the creature using the body part it attacked with. This attempt neither applies nor counts toward the creature's multiple attack penalty.\n\nThe monster can instead use Grab and choose one creature it's grabbing or restraining with an appendage that has Grab to automatically extend that condition to the end of the monster's next turn."
 
   - name: "Push"
     desc: "`pf2:1`  **Requirements** The monster's last action was a successful Strike that lists Push in its damage entry\n* * *\n\n**Effect** The monster attempts to [[Actions/Shove|Shove]] the creature. This attempt neither applies nor counts toward the monster's multiple attack penalty. If Push lists a distance, change the distance the creature is pushed on a success to that distance."

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** devotion spell (lay on hands)
 * * *
-Your healing energies are infused with bounding energy. A creature that recovers Hit Points from your [[Lay on Hands|Lay on Hands]] gains a +10-foot status bonus to its Speed until the end of its next turn.
+Your healing energies are infused with bounding energy. A creature that recovers Hit Points from your [[Spells/Lay on Hands|Lay on Hands]] gains a +10-foot status bonus to its Speed until the end of its next turn.
 
 [[Spell Effects/Spell Effect_ Accelerating Touch|Spell Effect: Accelerating Touch]]
 

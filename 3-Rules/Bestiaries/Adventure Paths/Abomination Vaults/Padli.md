@@ -55,10 +55,16 @@ abilities_top:
   - name: ""
   - name: "Items"
     desc: "3x [[Equipment/Dagger|Dagger]], [[Equipment/Leather Armor|Leather Armor]], Padli's Key, [[Equipment/Magic Wand (3rd-Rank Spell)|Wand of Magic Missile (Level 3)]]"
+  - name: "[[Bestiary Ability Glossary/Greater Darkvision|Greater Darkvision]]"
+    desc: "  A creature with greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. A creature with greater darkvision can see through even forms of magical darkness."
+
+  - name: "[[Bestiary Ability Glossary/Light Blindness|Light Blindness]]"
+    desc: "  When first exposed to bright light, the monster is [[Conditions/Blinded|Blinded]] until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]]."
+
 abilities_mid:
   - name: ""
   - name: "Death Flame"
-    desc: " (light) When Padli dies, his body combusts in a flash of white-hot flame. All creatures in a @Template[burst|distance:20] take 6d10 fire damage (DC 28 Reflex check save).\n\nHis gear is unaffected by the flames and is left in a pile where he died."
+    desc: " (light) When Padli dies, his body combusts in a flash of white-hot flame. All creatures in a 20-foot burst take 6d10 fire damage (DC 28 Reflex check save).\n\nHis gear is unaffected by the flames and is left in a pile where he died."
 
   - name: "Occult Ward"
     desc: "`pf2:r`  **Trigger** Padli attempts a saving throw against a spell cast by a creature he can see\n* * *\n\n**Effect** Padli gains a +2 circumstance bonus to the triggering save."
@@ -66,8 +72,8 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Dagger +15 (agile, finesse, versatile s)\n__Damage__  1d4 + 7 piercing"
+  - name: "**Melee** `pf2:1` Dagger"
+    desc: "+15 (agile, finesse, versatile s)\n__Damage__  1d4 + 7 piercing"
 
   - name: "Occult Innate Spells"
     desc: "DC 26, attack +18; __4th __ (3 slots) _[[Spells/Darkness|Darkness]]_, _[[Spells/Phantom Pain|Phantom Pain]]_, _[[Spells/Suggestion|Suggestion]]_; __3rd __ (3 slots) _[[Spells/Blindness|Blindness]]_, _[[Spells/Enthrall|Enthrall]]_, _[[Spells/Paralyze|Paralyze]]_; __2nd __ (1 slots) _[[Spells/Darkness|Darkness (At Will)]]_, _[[Spells/Invisibility|Invisibility]]_, _[[Spells/Mist|Obscuring Mist (At Will)]]_\n__Cantrips__  __(5th)__ _[[Spells/Void Warp|Chill Touch]]_, _[[Spells/Daze|Daze]]_, _[[Spells/Detect Magic|Detect Magic]]_, _[[Spells/Shield|Shield]]_"

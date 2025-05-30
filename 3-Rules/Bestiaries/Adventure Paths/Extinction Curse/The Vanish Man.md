@@ -54,25 +54,28 @@ abilities_top:
   - name: "Vanished Alignment"
     desc: "  The Vanish Man doesn't have an alignment aura and cannot be detected by spells such as [[Spells/Detect Alignment|Detect Alignment]]."
 
+  - name: "[[Bestiary Ability Glossary/Constant Spells|Constant Spells]]"
+    desc: "  A constant spell affects the monster without the monster needing to cast it, and its duration is unlimited. If a constant spell gets counteracted, the monster can reactivate it by spending the normal spellcasting actions the spell requires."
+
 abilities_mid:
   - name: ""
   - name: "[[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]"
-    desc: "`pf2:r`  "
+    desc: "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
 
   - name: "[[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]"
-    desc: " (aura,emotion,fear,mental) 10 feet. DC 33 Will check\n\nThis aura is suppressed while the Vanish Man is using Change Shape.\n\n* * *\n"
+    desc: " (aura,emotion,fear,mental) 10 feet. DC 33 Will check\n\nThis aura is suppressed while the Vanish Man is using Change Shape.\n* * *\n\nA creature that first enters the area must attempt a Will save.\n\nRegardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.\n* * *\n\n**Critical Success** The creature is unaffected by the presence.\n\n**Success** The creature is [[Conditions/Frightened|Frightened 1]].\n\n**Failure** The creature is [[Conditions/Frightened|Frightened 2]].\n\n**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]]."
 
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Cleaver +32 (deadly d12, forceful, sweep)\n__Damage__  3d12 + 9 slashing"
+  - name: "**Melee** `pf2:1` Cleaver"
+    desc: "+32 (deadly d12, forceful, sweep)\n__Damage__  3d12 + 9 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +32 (agile, nonlethal)\n__Damage__  3d10 + 9 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+32 (agile, nonlethal, unarmed)\n__Damage__  3d10 + 9 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Cleaver +30 (deadly d12, thrown 10 ft.)\n__Damage__  3d12 + 9 slashing"
+  - name: "**Ranged** `pf2:1` Cleaver"
+    desc: "+30 (deadly d12, thrown 10 ft.)\n__Damage__  3d12 + 9 slashing"
 
   - name: "Occult Innate Spells"
     desc: "DC 34, attack +24; __4th __ (1 slots) _[[Spells/Invisibility|Invisibility (Self Only)]]_; __2nd __ (3 slots) _[[Spells/Invisibility|Invisibility (x3)]]_\n__Constant__  __(8th)__ _[[Spells/Vanishing Tracks|Pass Without Trace]]_"

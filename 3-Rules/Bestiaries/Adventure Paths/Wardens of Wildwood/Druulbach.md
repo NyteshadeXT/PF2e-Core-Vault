@@ -61,14 +61,14 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Sickle +26 (agile, finesse, magical, reach 10 feet, trip)\n__Damage__  1d10 poison 2d4 + 13 slashing"
+  - name: "**Melee** `pf2:1` Sickle"
+    desc: "+26 (agile, finesse, magical, reach 10 feet, trip)\n__Damage__  1d10 poison 2d4 + 13 slashing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Fist +26 (agile, reach 10 feet)\n__Damage__  2d10 + 13 bludgeoning"
+  - name: "**Melee** `pf2:1` Fist"
+    desc: "+26 (agile, reach 10 feet, unarmed)\n__Damage__  2d10 + 13 bludgeoning"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Spit +26 (primal, range 60 feet, water)\n__Damage__  8d6 bludgeoning"
+  - name: "**Ranged** `pf2:1` Spit"
+    desc: "+26 (primal, range 60 feet, water)\n__Damage__  8d6 bludgeoning"
 
   - name: "Occult Innate Spells"
     desc: "DC 29, attack +21; __5th __  _[[Spells/Mariner's Curse|Mariner's Curse]]_; __2nd __  _[[Spells/Augury|Augury]]_, _[[Spells/Mist|Mist]]_"

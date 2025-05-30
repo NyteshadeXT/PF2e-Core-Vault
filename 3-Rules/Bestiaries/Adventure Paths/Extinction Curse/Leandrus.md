@@ -55,11 +55,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Jaws +9 ()\n__Damage__  1d10 + 3 piercing"
+  - name: "**Melee** `pf2:1` Jaws"
+    desc: "+9 (unarmed)\n__Damage__  1d10 + 3 piercing"
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +9 (agile)\n__Damage__  1d8 + 3 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+9 (agile, unarmed)\n__Damage__  1d8 + 3 slashing"
 
   - name: "Minion"
     desc: "  If Danika uses the [[Actions/Command an Animal|Command an Animal]] action, Leandrus can use 2 actions on her turn. Otherwise, he can use only 1 action, which he can use to Stride or Strike."

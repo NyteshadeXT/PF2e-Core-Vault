@@ -55,7 +55,7 @@ abilities_top:
 abilities_mid:
   - name: ""
   - name: "Disgusting Demise"
-    desc: " (acid,poison) When the grothlut is reduced to 0 Hit Points, its digestive organs rupture, unleashing alchemical acid and poison upon all creatures in a @Template[emanation|distance:30]. Each creature in the area must succeed at a DC 19 Fortitude check save or take 2d6 acid damage and become [[Conditions/Sickened|Sickened 1]] (double damage and [[Conditions/Sickened|Sickened 2]] on a critical failure)."
+    desc: " (acid,poison) When the grothlut is reduced to 0 Hit Points, its digestive organs rupture, unleashing alchemical acid and poison upon all creatures in a 30-foot emanation. Each creature in the area must succeed at a DC 19 Fortitude check save or take 2d6 acid damage and become [[Conditions/Sickened|Sickened 1]] (double damage and [[Conditions/Sickened|Sickened 2]] on a critical failure)."
 
   - name: "Piteous Moan"
     desc: " (auditory,aura,concentrate,emotion,mental,occult) 60 feet.\n\nEach nongrothlut creature that enters or starts its turn within the area must succeed at a DC 17 Will check saving throw or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure). The creature then becomes temporarily immune for 1 minute.\n\nThe grothlut can Dismiss this aura.\n\nA grothlut usually does not begin moaning until it senses the presence of a non-grothlut creature, and it usually stops once it doesn't sense any more such creatures."
@@ -63,11 +63,11 @@ abilities_mid:
 attacks:
   - name: ""
 
-  - name: "Melee"
-    desc: "`pf2:1` Claw +11 (agile)\n__Damage__  1d10 + 8 slashing"
+  - name: "**Melee** `pf2:1` Claw"
+    desc: "+11 (agile, unarmed)\n__Damage__  1d10 + 8 slashing"
 
-  - name: "Ranged"
-    desc: "`pf2:1` Digestive Spew +7 (acid, range increment 15 feet, splash)\n__Damage__  2d6 acid 1d6 acid"
+  - name: "**Ranged** `pf2:1` Digestive Spew"
+    desc: "+7 (acid, range increment 15 feet, splash)\n__Damage__  2d6 acid 1d6 acid"
  
 ```
 

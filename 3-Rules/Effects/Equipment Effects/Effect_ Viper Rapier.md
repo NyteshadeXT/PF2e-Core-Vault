@@ -16,7 +16,9 @@ license: OGL
 
 
 
+Granted by [[Equipment/Viper Rapier|Viper Rapier]]
 
+You gain a +2 circumstance bonus to Reflex saving throws.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*
