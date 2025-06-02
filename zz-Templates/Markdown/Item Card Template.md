@@ -54,6 +54,7 @@ mechanics2: "**Secondary Effect** "
 #========================================================#
 range:
 ammoType:
+reload: 
 damage: 
 dmg1: 
 dmg1Type: 
@@ -144,95 +145,84 @@ dv.paragraph(output);
 const data = dv.current();
 let output = [];
 
-// Strength Requirement and Bulk
-if (data.strRequirement != null || data.weight != null) {
-  let line = "";
-  if (data.strRequirement != null) line += "**Str** " + data.strRequirement;
-  if (data.weight != null) line += (line ? "; " : "") + "**Bulk** " + data.weight;
-  output.push(line);
+// =========================
+// Line 1: Price; Damage; Bulk
+// =========================
+let line1 = [];
+
+if (data.value) {
+  let price = `**Price** ${data.value}`;
+  if (data.subvalue) price += ` ${data.subvalue}`;
+  line1.push(price);
 }
 
-// Base Armor and Base Weapon, after Bulk
-if (data.armorBase != null || data.weaponBase != null) {
-  let line = "";
-  if (data.armorBase != null) line += "**Base Armor** " + data.armorBase;
-  if (data.weaponBase != null) line += (line ? "; " : "") + "**Base Weapon** " + data.weaponBase;
-  output.push(line);
+if (data.dmg1 && data.dmg1Type) {
+  let dmg = `**Damage** ${data.dmg1} ${data.dmg1Type}`;
+  if (data.dmg2 && data.dmg2Type) dmg += `, ${data.dmg2} ${data.dmg2Type}`;
+  line1.push(dmg);
 }
 
-// Category (Weapon Category and Armor Category) and Weapon Type on the same line
-if (data.weaponCategory || data.armorCategory || data.weaponType || data.group) {
-  let parts = [];
+if (data.weight) line1.push(`**Bulk** ${data.weight}`);
 
-  // Build the category string
-  let categoryParts = [];
-  if (data.weaponCategory) categoryParts.push(data.weaponCategory);
-  if (data.armorCategory) categoryParts.push(data.armorCategory);
-  if (categoryParts.length > 0) {
-    parts.push("**Category** " + categoryParts.join(" – "));
-  }
+if (line1.length > 0) output.push(line1.join("; "));
 
-  // Add Type
-  if (data.weaponType) {
-    parts.push("**Type** " + data.weaponType);
-  }
+// =========================
+// Line 2: Hands; Range; Reload
+// =========================
+let line2 = [];
 
-  // Add Group
-  if (data.group) {
-    parts.push("**Group** " + data.group);
-  }
+if (data.hands) line2.push(`**Hands** ${data.hands}`);
+if (data.range) line2.push(`**Range** ${data.range}`);
+if (data.reload) line2.push(`**Reload** ${data.reload}`);
 
-  // Push combined line
-  output.push(parts.join("; "));
+if (line2.length > 0) output.push(line2.join("; "));
+
+// =========================
+// Line 3: Type; Category; Group
+// =========================
+let line3 = [];
+
+if (data.weaponType) line3.push(`**Type** ${data.weaponType}`);
+
+let categoryParts = [];
+if (data.weaponCategory) categoryParts.push(data.weaponCategory);
+if (data.armorCategory) categoryParts.push(data.armorCategory);
+if (categoryParts.length > 0) line3.push(`**Category** ${categoryParts.join(" – ")}`);
+
+if (data.group) line3.push(`**Group** ${data.group}`);
+
+if (line3.length > 0) output.push(line3.join("; "));
+
+// =========================
+// Ammo Type
+// =========================
+if (data.ammoType) output.push(`**Ammo** ${data.ammoType}`);
+
+// =========================
+// Remaining Individual Stats
+// =========================
+if (data.strRequirement) output.push(`**Str** ${data.strRequirement}`);
+
+if (data.armorBase || data.weaponBase) {
+  let base = [];
+  if (data.armorBase) base.push(`**Base Armor** ${data.armorBase}`);
+  if (data.weaponBase) base.push(`**Base Weapon** ${data.weaponBase}`);
+  output.push(base.join("; "));
 }
 
-// Damage
-if (data.dmg1 != null && data.dmg1Type != null) {
-  let line = "**Damage** " + data.dmg1 + " " + data.dmg1Type;
-  if (data.dmg2 != null && data.dmg2Type != null) {
-    line += ", " + data.dmg2 + " " + data.dmg2Type;
-  }
-  output.push(line);
-}
+let armorStats = [];
+if (data.baseAC != null) armorStats.push(`**AC** +${data.baseAC}`);
+if (data.dexCap != null) armorStats.push(`**Dex Cap** +${data.dexCap}`);
+if (data.checkPenalty != null) armorStats.push(`**Check Penalty** ${data.checkPenalty}`);
+if (data.speedPenalty != null) armorStats.push(`**Speed Penalty** ${data.speedPenalty}`);
+if (armorStats.length > 0) output.push(armorStats.join("; "));
 
-// Range and Ammo Type
-if (data.range != null || data.ammoType != null) {
-  let line = "";
-  if (data.range != null) line += "**Range** " + data.range;
-  if (data.ammoType != null) line += (line ? "; " : "") + "**Ammo** " + data.ammoType;
-  output.push(line);
-}
+if (data.usage) output.push(`**Usage** ${data.usage}`);
+if (data.craft) output.push(`**Craft** ${data.craft}`);
+if (data.license) output.push(`**License** ${data.license}`);
+if (data.invest) output.push(`**Invest** ${data.invest}`);
 
-// Armor Stats
-if (data.baseAC != null || data.dexCap != null || data.checkPenalty != null || data.speedPenalty != null) {
-  let line = "";
-  if (data.baseAC != null) line += "**AC** +" + data.baseAC;
-  if (data.dexCap != null) line += (line ? "; " : "") + "**Dex Cap** +" + data.dexCap;
-  if (data.checkPenalty != null) line += (line ? "; " : "") + "**Check Penalty** " + data.checkPenalty;
-  if (data.speedPenalty != null) line += (line ? "; " : "") + "**Speed Penalty** " + data.speedPenalty;
-  output.push(line);
-}
-
-// Value (Price)
-if (data.value != null) {
-  let line = "**Price** " + data.value;
-  if (data.subvalue != null) line += " " + data.subvalue;
-  output.push(line);
-}
-
-// Usage
-if (data.usage != null) output.push("**Usage** " + data.usage);
-
-// Craft
-if (data.craft != null) output.push("**Craft** " + data.craft);
-
-// License
-if (data.license != null) output.push("**License** " + data.license);
-
-// Investment (formerly reqAttune)
-if (data.invest != null) output.push("**Invest** " + data.invest);
-
-// Output everything as a Markdown list
+// Render final stat block
 dv.list(output);
 
 ```
@@ -244,108 +234,86 @@ dv.list(output);
 ```dataviewjs
 const data = dv.current();
 
-// Only display if there's a primary or secondary power
-if (data.powerTitle || data.powerTitle2) {
+// Only display if there's a primary, secondary or tertiary power
+const entry = dv.current();
+
+if (entry.powerTitle || entry.powerTitle2 || entry.powerTitle3) {
   let output = "";
 
   function getActionIconCode(actionEconomy) {
     if (!actionEconomy) return "";
-
     const trimmed = actionEconomy.toString().trim().toLowerCase();
-
     switch (trimmed) {
-      case "1":
-        return "`pf2:1`";
-      case "2":
-        return "`pf2:2`";
-      case "3":
-        return "`pf2:3`";
-      case "0":
-        return "`pf2:0`";
+      case "1": return "`pf2:1`";
+      case "2": return "`pf2:2`";
+      case "3": return "`pf2:3`";
+      case "0": return "`pf2:0`";
       case "r":
-      case "reaction":
-        return "`pf2:r`";
+      case "reaction": return "`pf2:r`";
       case "f":
-      case "free":
-        return "`pf2:f`";
-      default:
-        return "";
+      case "free": return "`pf2:f`";
+      default: return "";
     }
   }
 
-function createPowerBlock(powerTitle, actionEconomy, type, frequency, activation, requirement, trigger, mechanics) {
-  const actionEconomyOutput = getActionIconCode(actionEconomy);
+  function createPowerBlock(title, action, type, frequency, activation, requirement, trigger, mechanics) {
+    const icon = getActionIconCode(action);
+    let block = `### **${title}** ${icon} ${type ?? ""}\n\n`;
 
-  const sectionLines = [];
+    if (frequency?.trim()) block += `**Frequency:** ${frequency}\n\n`;
+    if (activation?.trim()) block += `**Activation:** ${activation}\n\n`;
+    if (requirement?.trim()) block += `**Requirements:** ${requirement}\n\n`;
+    if (trigger?.trim()) block += `**Trigger:** ${trigger}\n\n`;
 
-  if (frequency && frequency.trim() !== "") {
-    sectionLines.push(`**Frequency:** ${frequency}`);
+    block += `${mechanics ?? ""}\n`;
+    return block;
   }
 
-  if (activation && activation.trim() !== "") {
-    sectionLines.push(`**Activation:** ${activation}`);
+  output += "<div class='pf2e-ability-textbox'>\n\n";
+
+  if (entry.powerTitle) {
+    output += createPowerBlock(
+      entry.powerTitle,
+      entry.actionEconomy,
+      entry.type,
+      entry.frequency,
+      entry.activation,
+      entry.requirement,
+      entry.trigger,
+      entry.mechanics
+    );
   }
 
-  if (requirement && requirement.trim() !== "") {
-    sectionLines.push(`**Requirements:** ${requirement}`);
+  if (entry.powerTitle2) {
+    if (entry.powerTitle) output += "\n<hr class='pf2e-divider'>\n\n";
+    output += createPowerBlock(
+      entry.powerTitle2,
+      entry.actionEconomy2,
+      entry.type2,
+      entry.frequency2,
+      entry.activation2,
+      entry.requirement2,
+      entry.trigger2,
+      entry.mechanics2
+    );
   }
 
-  if (trigger && trigger.trim() !== "") {
-    sectionLines.push(`**Trigger:** ${trigger}`);
+  if (entry.powerTitle3) {
+    if (entry.powerTitle || entry.powerTitle2) output += "\n<hr class='pf2e-divider'>\n\n";
+    output += createPowerBlock(
+      entry.powerTitle3,
+      entry.actionEconomy3,
+      entry.type3,
+      entry.frequency3,
+      entry.activation3,
+      entry.requirement3,
+      entry.trigger3,
+      entry.mechanics3
+    );
   }
 
-  const combinedOutput = sectionLines.length > 0 ? sectionLines.join("\n\n") + "\n\n" : "";
-
-  let block = `### **${powerTitle}** ${actionEconomyOutput} ${type ? type : ""}\n\n`;
-  if (combinedOutput) {
-    block += combinedOutput;
-  }
-  block += `${mechanics}\n`;
-
-  return block;
-}
-
-
-  // Build the complete Markdown content (inside a div for the box)
-  output += `\n<div class="pf2e-ability-textbox">\n\n`;
-
-if (data.powerTitle) {
-  output += createPowerBlock(
-    data.powerTitle,
-    data.actionEconomy,
-    data.type,
-    data.frequency,
-    data.activation,
-    data.requirement,
-    data.trigger,
-    data.mechanics
-  );
-}
-
-if (data.powerTitle2) {
-  if (data.powerTitle) {
-    output += `\n<hr class="pf2e-divider">\n\n`;
-  }
-  output += createPowerBlock(
-    data.powerTitle2,
-    data.actionEconomy2,
-    data.type2,
-    data.frequency2,
-    data.activation2,
-    data.requirement2,
-    data.trigger2,
-    data.mechanics2
-  );
-}
-
-  output += `\n</div>\n`;
-
-  // Output the whole thing as Markdown
+  output += "\n</div>\n";
   dv.paragraph(output);
 }
 
 ```
-
-
-
-*Source: `= this.source`, pg. `= this.pg`*

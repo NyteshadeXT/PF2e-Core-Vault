@@ -3,35 +3,35 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-item, h-line
-name: "aeon-stone-(polished-pebble)"
-aliases: "Aeon Stone (Polished Pebble)"
-source: "Pathfinder Rage of Elements"
-pg: ""
-rarity: ""
-trait01: "earth"
-trait02: "invested"
-trait03: "magical"
-trait04: "uncommon"
+name: "aetheric-irritant-greater"
+aliases: "Aetheric Irritant (Greater)"
+source: "Pathfinder Lost Omens Rival Academies"
+pg: "92"
+rarity: "uncommon"
+trait01: "consumable"
+trait02: "gadget"
+trait03: "sonic"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 3
-weight: 
-value: "50"
+level: 11
+weight: L
+value: "275"
 subvalue: "gp"
 invest:
-usage: "worn"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A _polished pebble aeon stone_ imbues you with the strength of the earth, granting a +1 item bonus to saves and DCs against attempts to grapple or swallow you.  The stone's resonant power allows you to cast [[Spells/Grease|Grease]] as a primal innate spell once per day. You can target only surfaces, not objects, with this spell."
-powerTitle:
-actionEconomy:
-type:
+description: "An aetheric irritant is a chime that can emit a subsonic frequency that otherworldly beings find unpleasant. "
+powerTitle: "Effect"
+actionEconomy: 1
+type: ([[manipulate]])
 frequency:
 trigger:
-mechanics:
+mechanics: "When you Activate an aetheric irritant, you sound the chime and place it on the ground in a square within your reach. The aetheric irritant affects an area in a 20-foot emanation. Creatures with the fey, spirit, or undead traits must attempt a DC 28 Will check save when they enter the affected area and at the beginning of every turn they are in the affected area. Those who fail the save treat the area as difficult terrain until the beginning of their next turn. A creature that critically succeeds at the save is immune to all aetheric irritants for 24 hours. An aetheric irritant continues to hum until it shakes itself to pieces after 10 minutes of being activated or it is moved, whichever comes first."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -74,6 +74,7 @@ weaponBase:
 armorBase:
 
 ---
+
 ```meta-bind-embed
 [[Item Card Template]]
 ```

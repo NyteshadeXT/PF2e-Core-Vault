@@ -6,11 +6,11 @@ cssclass: pf2e-item, h-line
 name: "alchemist-goggles"
 aliases: "Alchemist Goggles"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "310"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,10 +22,10 @@ weight:
 value: "100"
 subvalue: "gp"
 invest:
-usage: "worneyepiece"
+usage: "worn eye piece"
 license: "ORC"
 identify:
-description: "These brass goggles are engraved with flame patterns and have thick, heavy lenses.  While worn, they give you a +1 item bonus to Crafting checks to [[Actions/Craft|Craft]] alchemical items. When making Strikes with alchemical bombs, you ignore lesser cover.  If your Strike with an alchemical bomb fails (but doesn't critically fail), you gain a +1 item bonus to the splash damage the target of the Strike takes."
+description: "These brass goggles are engraved with flame patterns and have thick, heavy lenses.  While worn, they give you a +1 item bonus to [[Skills#Crafting|Crafting]] checks to [[Craft]] alchemical items. When making Strikes with alchemical bombs, you ignore lesser cover.  If your Strike with an alchemical bomb fails (but doesn't critically fail), you gain a +1 item bonus to the splash damage the target of the Strike takes."
 powerTitle:
 actionEconomy:
 type:
@@ -74,3 +74,6 @@ weaponBase:
 armorBase:
 
 ---
+```meta-bind-embed
+[[Item Card Template]]
+```

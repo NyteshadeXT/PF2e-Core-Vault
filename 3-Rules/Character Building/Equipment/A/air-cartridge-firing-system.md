@@ -6,9 +6,9 @@ cssclass: pf2e-item, h-line
 name: "air-cartridge-firing-system"
 aliases: "Air Cartridge Firing System"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
-trait01: "uncommon"
+pg: "183"
+rarity: "uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -74,3 +74,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

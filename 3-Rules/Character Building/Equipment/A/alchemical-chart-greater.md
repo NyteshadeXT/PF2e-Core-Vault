@@ -3,29 +3,29 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-item, h-line
-name: "aeon-stone-(polished-pebble)"
-aliases: "Aeon Stone (Polished Pebble)"
-source: "Pathfinder Rage of Elements"
-pg: ""
+name: "alchemical-chart-greater"
+aliases: "Alchemical Chart (Greater)"
+source: "Pathfinder Treasure Vault"
+pg: "62"
 rarity: ""
-trait01: "earth"
-trait02: "invested"
-trait03: "magical"
-trait04: "uncommon"
+trait01: "alchemical"
+trait02: ""
+trait03: ""
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 3
-weight: 
-value: "50"
+level: 18
+weight: L
+value: "19000"
 subvalue: "gp"
 invest:
-usage: "worn"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A _polished pebble aeon stone_ imbues you with the strength of the earth, granting a +1 item bonus to saves and DCs against attempts to grapple or swallow you.  The stone's resonant power allows you to cast [[Spells/Grease|Grease]] as a primal innate spell once per day. You can target only surfaces, not objects, with this spell."
+description: "This sturdy, rigid alchemical chart contains shorthand references on quickly mixing reagents for maximum effect. If you hold this chart while using Quick Alchemy, the items you create of 18th level or lower remain potent for 1 additional round."
 powerTitle:
 actionEconomy:
 type:
@@ -74,6 +74,7 @@ weaponBase:
 armorBase:
 
 ---
+
 ```meta-bind-embed
 [[Item Card Template]]
 ```

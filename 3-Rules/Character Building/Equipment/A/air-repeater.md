@@ -6,11 +6,11 @@ cssclass: pf2e-item, h-line
 name: "air-repeater"
 aliases: "Air Repeater"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "152"
+rarity: "uncommon"
 trait01: "agile"
 trait02: "repeating"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -74,3 +74,21 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases AS "Aliases",
+  level AS "Level",
+  license AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE weaponbase = "Air Repeater"
+SORT level ASC
+
+```

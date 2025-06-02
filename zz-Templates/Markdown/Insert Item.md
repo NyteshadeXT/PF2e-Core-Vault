@@ -12,6 +12,10 @@ trait01: ""
 trait02: ""
 trait03:
 trait04:
+trait05:
+trait06:
+trait07:
+trait08:
 image: zz-Attachments/assets/imageplaceholder.png
 level: 
 group: 
@@ -23,6 +27,7 @@ usage: ""
 license: ""
 identify: ""
 description: ""
+craft: 
 
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
@@ -45,7 +50,17 @@ frequency2:
 requirement2:
 trigger2: 
 mechanics2: "**Secondary Effect** "
-craft: 
+
+#========================================================#
+#                  Ability #3 PROPERTIES                 #
+#========================================================#
+powerTitle3: ""
+actionEconomy3: 
+type3: 
+frequency3: 
+requirement3:
+trigger3: 
+mechanics3: "**Secondary Effect** "
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #

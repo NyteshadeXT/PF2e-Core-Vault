@@ -6,11 +6,11 @@ cssclass: pf2e-item, h-line
 name: "aldori-dueling-sword"
 aliases: "Aldori Dueling Sword"
 source: "Pathfinder Lost Omens World Guide"
-pg: ""
-rarity: ""
+pg: "28"
+rarity: "uncommon"
 trait01: "finesse"
 trait02: "versatile-p"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -74,3 +74,20 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases AS "Aliases",
+  level AS "Level",
+  license AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE weaponbase = "Aldori Dueling Sword"
+SORT level ASC
+
+```

@@ -3,35 +3,35 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-item, h-line
-name: "aeon-stone-(polished-pebble)"
-aliases: "Aeon Stone (Polished Pebble)"
-source: "Pathfinder Rage of Elements"
-pg: ""
-rarity: ""
-trait01: "earth"
-trait02: "invested"
-trait03: "magical"
-trait04: "uncommon"
+name: "aether-marbles-lesser"
+aliases: "Aether Marbles (Lesser)"
+source: "Pathfinder #189: Dreamers of the Nameless Spires"
+pg: "75"
+rarity: "uncommon"
+trait01: "bomb"
+trait02: "consumable"
+trait03: "force"
+trait04: "splash"
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 3
-weight: 
-value: "50"
+level: 4
+weight: L
+value: "19"
 subvalue: "gp"
 invest:
-usage: "worn"
+usage: "held in one hand "
 license: "ORC"
 identify:
-description: "A _polished pebble aeon stone_ imbues you with the strength of the earth, granting a +1 item bonus to saves and DCs against attempts to grapple or swallow you.  The stone's resonant power allows you to cast [[Spells/Grease|Grease]] as a primal innate spell once per day. You can target only surfaces, not objects, with this spell."
-powerTitle:
-actionEconomy:
-type:
+description: "Aether marbles create violent, lingering eddies of force that extend partially into unseen planes."
+powerTitle: "Effect"
+actionEconomy: 1
+type: ([[strike]])
 frequency:
 trigger:
-mechanics:
+mechanics: "You gain a +1 item bonus to attack rolls with the bomb. When the bomb explodes, it deals 2d6 force damage and 2 force splash damage.  Surfaces in the splash area are filled with twisting eddies of force, which are difficult terrain for incorporeal creatures but not for corporeal ones. The force eddies in a square disperse after an incorporeal creature enters the square."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -43,9 +43,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range: 20 ft
 ammoType:
-damage: 
+damage: 2d6 force
 dmg1:
 dmg1Type:
 dmg2:
@@ -74,6 +74,7 @@ weaponBase:
 armorBase:
 
 ---
+
 ```meta-bind-embed
 [[Item Card Template]]
 ```

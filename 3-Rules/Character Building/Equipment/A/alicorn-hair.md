@@ -6,12 +6,12 @@ cssclass: pf2e-item, h-line
 name: "alicorn-hair"
 aliases: "Alicorn Hair"
 source: "Pathfinder Howl of the Wild"
-pg: ""
+pg: "118"
 rarity: ""
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -25,13 +25,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell (add 1 action)  * * *  Hair shed from an alicorn's mane glows when it comes into contact with a living creature. A [[Spells/Stabilize|Stabilize]] spell empowered with an _alicorn hair_ allows you to target 1 additional creature."
-powerTitle:
+description: "Hair shed from an [[alicorn]]'s mane glows when it comes into contact with a living creature. "
+powerTitle: "Empower"
 actionEconomy:
-type:
+type: "(Cast a Spell (add 1 action))"
 frequency:
 trigger:
-mechanics:
+mechanics: "A [[Stabilize]] spell empowered with an _alicorn hair_ allows you to target 1 additional creature."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -74,3 +74,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

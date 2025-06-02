@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d18beaa666222822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Campaign/Age of Worms/The Three Faces of Evil.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Three Faces of Evil"
-            }
-          },
-          {
-            "id": "a18fb4975270d304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/A/aeon-stone-(pale-orange-rhomboid).md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "aeon-stone-(pale-orange-rhomboid)"
-            }
-          },
-          {
-            "id": "d0da0dff21d31a75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zz-Templates/Markdown/Update Adventure YAML.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Update Adventure YAML"
-            }
-          },
-          {
             "id": "2f34af5987923c59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Templates/Markdown/Insert Item Metabind.md",
+                "file": "3-Rules/Character Building/Equipment/A/Alloy Orb (Exquisite High-Grade).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Alloy Orb (Exquisite High-Grade)"
+            }
+          },
+          {
+            "id": "38636605113f3d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-Templates/Markdown/Insert Item.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Insert Item Metabind"
+              "title": "Insert Item"
             }
           },
           {
-            "id": "d6f558e4f76bbe36",
+            "id": "f1b62992fc2b6646",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,21 +50,20 @@
             }
           },
           {
-            "id": "ebfa4969477ec5e7",
+            "id": "be726b41cf18e011",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Session Journals/Age-of-Worms/AoW Session 016.md",
+                "file": "1-GM Toolkit/DoTo List.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "AoW Session 016"
+              "title": "DoTo List"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 323.5
   },
   "right": {
     "id": "96fe26c9abf98fe0",
@@ -311,34 +282,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ebfa4969477ec5e7",
+  "active": "2f34af5987923c59",
   "lastOpenFiles": [
-    "2-Session Journals/Age-of-Worms/AoW Session 014.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 015.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 016.md",
-    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
-    "zz-Templates/Markdown/Update Session Note.md",
-    "zz-Templates/Markdown/Update Adventure YAML.md",
-    "zz-Templates/GM Templates/Story Notes/Template - Session Note.md",
-    "2-Session Journals/Age-of-Worms/Old/AoW Session 013.md",
-    "2-Session Journals/Age-of-Worms/Old/AoW Session 012.md",
-    "2-Session Journals/Age-of-Worms/Old/AoW Session 011.md",
-    "2-Session Journals/Age-of-Worms/Old/Aow Session 010.md",
-    "2-Session Journals/Age-of-Worms/Old/AoW Session 008.md",
-    "2-Session Journals/Age-of-Worms/Old/AoW Session 006.md",
-    "4-Campaign/Age of Worms/Completed/The Whispering Cairn.md",
-    "2-Session Journals/Age-of-Worms/Old/AoW Session 004.md",
-    "2-Session Journals/Age-of-Worms/Old/AoW Session 005.md",
-    "2-Session Journals/Age-of-Worms/Old/AoW Session 007.md",
-    "2-Session Journals/Age-of-Worms/Old/AoW Session 009.md",
-    "3-Rules/Character Building/Equipment/A/aeon-stone-(pale-orange-rhomboid).md",
-    "zz-Templates/Markdown/Item Card Template.md",
-    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+    "3-Rules/Character Building/Equipment/A/alkenstar-ice-wine.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Character Building/Equipment/A/alicorn-trigger.md",
     "1-GM Toolkit/DoTo List.md",
-    "3-Rules/Character Building/Equipment/Homebrew/kyuss-worm-paste.md",
-    "1-GM Toolkit/DC Calculator.md",
-    "3-Rules/Bestiaries/Uniques/Shukak.md",
-    "zz-Templates/GM Templates/Locations/Template - Adventure.md",
+    "zz-Templates/Markdown/Item Card Template.md",
+    "3-Rules/Character Building/Equipment/A/alicorn-lance.md",
+    "3-Rules/Character Building/Equipment/A/alghollthu-lash.md",
+    "3-Rules/Character Building/Equipment/A/alicorn-hair.md",
+    "3-Rules/Character Building/Equipment/A/alcohol.md",
+    "3-Rules/Character Building/Equipment/A/aldori-dueling-sword.md",
+    "3-Rules/Character Building/Equipment/A/accolade-robe-(greater).md",
+    "3-Rules/Character Building/Equipment/A/abysium-powder.md",
+    "3-Rules/Character Building/Equipment/A/alchemists-lab-expanded.md",
+    "3-Rules/Character Building/Equipment/A/alchemists-lab.md",
+    "3-Rules/Character Building/Equipment/A/alchemist-goggles-major.md",
+    "3-Rules/Character Building/Equipment/A/alchemist-goggles-greater.md",
+    "3-Rules/Character Building/Equipment/A/alchemist-goggles.md",
+    "3-Rules/Character Building/Equipment/A/Alchemist's Toolkit.md",
+    "3-Rules/Character Building/Equipment/A/Alicorn Hair.md",
+    "3-Rules/Character Building/Equipment/A/alchemists-flamethrower.md",
+    "3-Rules/Character Building/Equipment/A/Aldori Dueling Sword.md",
+    "3-Rules/Character Building/Equipment/A/Alchemist's Lab (Expanded).md",
+    "3-Rules/Character Building/Equipment/A/Alchemist's Damper.md",
+    "3-Rules/Character Building/Equipment/A/Alchemist's Fire (Greater).md",
+    "3-Rules/Character Building/Equipment/A/alchemical-gauntlet.md",
+    "zz-Templates/Markdown/Insert Item Metabind.md",
+    "zz-Attachments/Aerial Cloak.png",
     "zz-Attachments/Kyuss Spawnling.png",
     "zz-Attachments/Egg Chamber.png",
     "zz-Attachments/Findings in the Egg Chamber.png",
@@ -357,7 +329,6 @@
     "3-Rules/Character Building/Equipment/T",
     "3-Rules/Character Building/Equipment/S",
     "3-Rules/Character Building/Equipment/R",
-    "zz-Attachments/Twisted Branch Lair.png",
-    "zz-Attachments/image-3.png"
+    "zz-Attachments/Twisted Branch Lair.png"
   ]
 }

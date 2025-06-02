@@ -6,17 +6,17 @@ cssclass: pf2e-item, h-line
 name: "aerial-cloak"
 aliases: "Aerial Cloak"
 source: "Pathfinder Rage of Elements"
-pg: ""
+pg: "74"
 rarity: ""
 trait01: "air"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/Aerial Cloak.png
 level: 3
 weight: L
 value: "60"
@@ -25,13 +25,13 @@ invest:
 usage: "worncloak"
 license: "ORC"
 identify:
-description: "This blue cloak is surprisingly light for its length and seems to catch wind bursts in its tail, flying out behind the wearer while cushioning falls and easing jumps. The sides of the cloak are slightly weighted, making it easy to grab ahold of when it fills with air. This cloak grants you a +1 item bonus to Athletics checks to [[Actions/Leap|Leap]] and a +1 item bonus to Acrobatics checks to [[Actions/Balance|Balance]] or [[Actions/Maneuver in Flight|Maneuver in Flight]].  * * *  **Activate—Fall Gently** `pf2:r` (concentrate, air)  **Frequency** once per day  **Trigger** You're falling  * * *  **Effect** The cloak catches the air and you grab onto its edges, utilizing the draft to guide you to safety. Treat your fall as 30 feet shorter and glide to a space of your choice at the bottom of your fall, which must be within 20 feet of where you would've landed"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+description: "This blue cloak is surprisingly light for its length and seems to catch wind bursts in its tail, flying out behind the wearer while cushioning falls and easing jumps. The sides of the cloak are slightly weighted, making it easy to grab ahold of when it fills with air. This cloak grants you a +1 item bonus to Athletics checks to [[Actions/Leap|Leap]] and a +1 item bonus to Acrobatics checks to [[Actions/Balance|Balance]] or [[Actions/Maneuver in Flight|Maneuver in Flight]]."
+powerTitle: "Fall Gently"
+actionEconomy: r
+type: "([[concentrate]], [[air]])"
+frequency: "once per day"
+trigger: "You're falling"
+mechanics: "The cloak catches the air and you grab onto its edges, utilizing the draft to guide you to safety. Treat your fall as 30 feet shorter and glide to a space of your choice at the bottom of your fall, which must be within 20 feet of where you would've landed"
 powerTitle2:
 actionEconomy2:
 type2:
@@ -74,3 +74,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -3,29 +3,29 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-item, h-line
-name: "aeon-stone-(polished-pebble)"
-aliases: "Aeon Stone (Polished Pebble)"
-source: "Pathfinder Rage of Elements"
-pg: ""
+name: "alacritous-horseshoes-greater"
+aliases: "Alacritous Horseshoes (Greater)"
+source: "Pathfinder GM Core"
+pg: "272"
 rarity: ""
-trait01: "earth"
+trait01: "companion"
 trait02: "invested"
-trait03: "magical"
-trait04: "uncommon"
+trait03: "primal"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 3
-weight: 
-value: "50"
+level: 14
+weight: 1
+value: "4250"
 subvalue: "gp"
 invest:
-usage: "worn"
+usage: "wornhorseshoes"
 license: "ORC"
 identify:
-description: "A _polished pebble aeon stone_ imbues you with the strength of the earth, granting a +1 item bonus to saves and DCs against attempts to grapple or swallow you.  The stone's resonant power allows you to cast [[Spells/Grease|Grease]] as a primal innate spell once per day. You can target only surfaces, not objects, with this spell."
+description: "When you affix these simple iron horseshoes to the hooves of an ordinary horse or a quadrupedal animal companion and the animal companion invests them, that creature gains a +10-foot item bonus to its land Speed and a +3 item bonus to Athletics checks to High Jump and Long Jump.  In addition, when it Leaps, it can move 5 feet farther if jumping horizontally or 3 feet higher if jumping vertically."
 powerTitle:
 actionEconomy:
 type:
@@ -74,6 +74,7 @@ weaponBase:
 armorBase:
 
 ---
+
 ```meta-bind-embed
 [[Item Card Template]]
 ```

@@ -6,14 +6,14 @@ cssclass: pf2e-item, h-line
 name: "alarm-snare"
 aliases: "Alarm Snare"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "297"
 rarity: ""
 trait01: "auditory"
 trait02: "consumable"
 trait03: "mechanical"
 trait04: "snare"
 trait05: "trap"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -74,3 +74,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

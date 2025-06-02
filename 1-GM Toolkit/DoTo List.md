@@ -20,3 +20,5 @@
 - [ ] Keep working on cleaning up the DM/GM Screen
 - [ ] Integrate Battlezoo monster part system into bestiary entries
 - [ ] Complete implementation of Calendar system
+- [ ] Do I want to add gems to the items?
+- [ ] Be sure to remove Alignment Ampoule from the item generator.  No longer appropriate for Remaster rules.

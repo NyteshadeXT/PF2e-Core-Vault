@@ -21,18 +21,19 @@ level: 9
 weight: 
 value: "625"
 subvalue: "gp"
+group: "Property Rune"
 invest:
 usage: "etched onto heavy armor"
 license: "ORC"
 identify:
-description: "This rune charges up as you defeat your foes, driving you forward across the battlefield with every victory."
+description: "Most magic weapons and armor gain their enhancements from potent eldritch runes etched into them. These runes allow for in-depth customization of items. Runes must be physically engraved on items through a special process to convey their effects. They take two forms: fundamental runes and property runes. Fundamental runes offer the most basic and essential benefits: potency runes add a bonus to either attack rolls or AC, striking runes add extra weapon damage dice, a resilient rune grants a bonus to saving throws. Property runes, by contrast, grant more varied effects—typically powers that are constant while the armor is worn or that take effect each time the inscribed item is used, such as a rune that grants energy resistance or one that adds fire damage to a weapon's attacks."
 powerTitle: "Advancing"
 actionEconomy: 0
 type: ([[Command]])
 frequency:
 requirement: "Your last action or activity reduced an enemy to 0 Hit Points"
 trigger: 
-mechanics: "You Stride up to 15 feet. This movement doesn't trigger reactions. You can Burrow, Climb, Fly, or Swim instead of Striding if you have the corresponding movement type."
+mechanics: "This rune charges up as you defeat your foes, driving you forward across the battlefield with every victory. You Stride up to 15 feet. This movement doesn't trigger reactions. You can Burrow, Climb, Fly, or Swim instead of Striding if you have the corresponding movement type."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,7 +76,6 @@ weaponBase:
 armorBase:
 
 ---
-
 
 ```meta-bind-embed
 [[Item Card Template]]

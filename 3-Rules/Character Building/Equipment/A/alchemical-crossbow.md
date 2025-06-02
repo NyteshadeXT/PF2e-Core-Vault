@@ -6,10 +6,10 @@ cssclass: pf2e-item, h-line
 name: "alchemical-crossbow"
 aliases: "Alchemical Crossbow"
 source: "Pathfinder Adventure: The Fall of Plaguestone"
-pg: ""
-rarity: ""
+pg: "56"
+rarity: "uncommon"
 trait01: "alchemical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -74,3 +74,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

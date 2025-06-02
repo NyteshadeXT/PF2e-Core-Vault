@@ -3,38 +3,39 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-item, h-line
-name: "alcohol"
-aliases: "Alcohol"
-source: "Pathfinder Gamemastery Guide"
-pg: "120"
+name: "air-bladder"
+aliases: "Air Bladder"
+source: "Grand Bazaar"
+pg: "92"
 rarity: ""
-trait01: "alchemical"
-trait02: "consumable"
-trait03: "drug"
-trait04: "ingested"
-trait05: "poison"
+trait01: ""
+trait02: ""
+trait03:
+trait04:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 
-group: drug
-weight: 1
+level: 0
+group: "Adventuring Gear"
+weight: "L (1 if inflated)"
 value: "1"
-subvalue: "cp"
+subvalue: "sp"
 invest:
 usage: "held in one hand"
+craft: ""
 license: "OGL"
 identify: ""
-description: "Alcohol is a common substance available in stunning variety. The Price of a dose of alcohol depends on the specific beverage. You can't recover from the sickened condition from alcohol while affected.<br><br>If you fail a saving throw against alcohol other than initial saves, the affliction's stage doesn't increase; the only way to increase the stage of alcohol's affliction is to consume more alcohol."
+description: "This weighted animal bladder can be inflated with air in preparation for a dive. It holds enough air to breathe for one round. "
 
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
 powerTitle: "Effect"
-actionEconomy: 1
-type: "([[interact|interact (ingested)]])"
+actionEconomy: 
+type: 
 frequency: 
 requirement:
+activation:
 trigger:
-mechanics: "**Saving Throw** DC 12 Fortitude check  **Onset** 10 minute <br>**Stage 1** +1 item bonus to saving throws against fear (10 minutes)<br>**Stage 2** [[Off-Guard]], +1 item bonus to saving throws against fear effects (10 minutes)<br>**Stage 3** [[Clumsy 1]], [[Off-Guard]], [[Stupefied|Stupefied 2]] (10 minutes)<br>**Stage 4** [[Clumsy|Clumsy 2]] and [[Sickened|Sickened 2]] (10 minutes)<br>**Stage 5** [[Clumsy|Clumsy 2]], [[Sickened|Sickened 2]], and [[Stupefied|Stupefied 2]] (10 minutes)<br>**Stage 6** [[Unconscious]] (8 hours)<br>**Stage 7** death"
+mechanics: "As a free action, you can inhale the contents of the air bladder, which resets the number of rounds you can hold your breath. You can inflate the bladder or remove its attached weight as an Interact action. An unattached inflated bladder without the weight will float toward the surface of the water at a rate of 60 feet per round."
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #
@@ -44,9 +45,9 @@ actionEconomy2:
 type2: 
 frequency2: 
 requirement2:
+activation2:
 trigger2: 
 mechanics2: "**Secondary Effect** "
-craft: 
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -83,7 +84,6 @@ armorBase:
 shieldBase:
 
 ---
-
 
 ```meta-bind-embed
 [[Item Card Template]]

@@ -6,15 +6,15 @@ cssclass: pf2e-item, h-line
 name: "alkenstar-ice-wine"
 aliases: "Alkenstar Ice Wine"
 source: "Pathfinder Lost Omens Impossible Lands"
-pg: ""
-rarity: ""
+pg: "106"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "drug"
 trait04: "ingested"
 trait05: "poison"
 trait06: "vitality"
-trait07: "uncommon"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
@@ -74,3 +74,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

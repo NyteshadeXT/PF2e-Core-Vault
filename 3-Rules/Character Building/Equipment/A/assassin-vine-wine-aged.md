@@ -3,8 +3,8 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-item, h-line
-name: "assassin-vine-wine"
-aliases: "Assassin Vine Wine"
+name: "assassin-vine-wine-aged"
+aliases: "Assassin Vine Wine (Aged)"
 source: "Pathfinder Treasure Vault"
 pg: "47"
 rarity: ""
@@ -17,9 +17,9 @@ trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 9
+level: 12
 weight: L
-value: "130"
+value: "350"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
@@ -31,7 +31,7 @@ actionEconomy: 1
 type: ([[interact]])
 frequency:
 trigger:
-mechanics: "For 1 minute after drinking a glass of assassin vine wine, you have tremorsense at a range of 30 feet."
+mechanics: "For 1 minute after drinking a glass of assassin vine wine, you have tremorsense at a range of 30 feet. Assassin vine wine that has been aged for several years—or artificially aged with alchemy—develops both a greater complexity of flavor and a stronger connection to an assassin vine's bond with nature. When you drink the wine, vegetation in a 20-foot emanation around you begins to writhe, becoming difficult terrain until the start of your next turn."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -74,6 +74,7 @@ weaponBase:
 armorBase:
 
 ---
+
 
 ```dataviewjs
 const name = dv.current().aliases;

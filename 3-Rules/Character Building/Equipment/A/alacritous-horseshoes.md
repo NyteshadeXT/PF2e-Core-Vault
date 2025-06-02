@@ -6,12 +6,12 @@ cssclass: pf2e-item, h-line
 name: "alacritous-horseshoes"
 aliases: "Alacritous Horseshoes"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "272"
 rarity: ""
 trait01: "companion"
 trait02: "invested"
 trait03: "primal"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -74,3 +74,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

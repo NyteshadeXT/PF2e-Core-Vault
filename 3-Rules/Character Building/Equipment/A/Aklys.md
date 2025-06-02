@@ -6,12 +6,12 @@ cssclass: pf2e-item, h-line
 name: "aklys"
 aliases: "Aklys"
 source: "Pathfinder Bestiary"
-pg: ""
-rarity: ""
+pg: "85"
+rarity: "uncommon"
 trait01: "tethered"
 trait02: "thrown-20"
 trait03: "trip"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -74,3 +74,21 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases AS "Aliases",
+  level AS "Level",
+  license AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE weaponbase = "Aklys"
+SORT level ASC
+
+```
